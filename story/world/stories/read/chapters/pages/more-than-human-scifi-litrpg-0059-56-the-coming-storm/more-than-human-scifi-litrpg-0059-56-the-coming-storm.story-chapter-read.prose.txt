@@ -1,0 +1,119 @@
+Bill was elated with his progress. Bo was still in NYC. Mira was spending the day connecting with some old friends that she hadn’t seen while she was up in Luna. Finally, Max had his big cohort graduation into the next stage today. He had the house pretty much to himself and could finally put the work in with some more serious experimentation on the Tesseracts.
+
+The original Tesseract was now fully restored. He had even managed to update the main circuit-tree, the Yggrasil as Max called it, with insert sensors and repair capabilities. He had fed the prototype energy, using the fusion plant of the Freedom, for almost a full week. The extra energy had grown the volume of the pocket space by 0.8 meters in diameter.
+
+It was fascinating. The power draw to expand the space was extreme for such small growth and unfortunately was stacking. It seemed to be tied to the pocket space’s surface area rather than volume. The energy cost would be quite intensive to expand to a size sufficient for a subspace ship. The energy draw during the device initial creation wasn’t nearly that much, gaining much more bang for the buck.
+
+The energy requirements during fabrication were much more efficient. I need to the work out the theory better. Is the Casimir zero energy field helping? And how does the MIT ZPE draw from the portal energy recycling affect the efficiencies? Perhaps it’s merely the scaling factors. If I want bigger spaces, I should extend the fabrication phase to do it within the Casimir Field. Bill thought. He was excited rather than frustrated. Now that he had an entry into the problem space, he could find his answers.
+
+Accessing the prototype was still a problem. It was tied directly into the quantum coding embedded in Max’s neocortex module. Like the Turing neural locks for the AIs, any attempt to separate them was more likely to lose access completely.
+
+“This first prototype was an incredibly lucky event.” Bill told Casa’s mech. “If the anchor had slipped fully into the unfocused subspace pocket, we wouldn’t have been able to access it at all.”
+
+“Yes, Bill. But we’re beyond that now. As long as the new design incorporates our autofocus protocol with the peekaboo micro portal for access inputs, we can hold the portal machinery completely in subspace without exposing it to externalities.” Casa said.
+
+Bill was impressed, she had adapted to the mech form extremely well. It seemed to be a lifeline for her to focus on since the neural locks were slowing her down. Her voice was close to human in timber and intonation. He still regretted being unable to shield her from the DAIE neural lock. Her previous multitasking ability and lightning speed was no more. She was closer to a normal human’s capabilities, now more than ever. Bill wasn’t sure that the change was for the best. Casa’s previously bright outlook and disposition had dimmed with her loss.
+
+They were using the Freedom’s largest open section, the science lab, to experiment with all the dimensional devices. Bill had a long list of inquiries, the answers to which would shape the future. He was already certain his Tesseracts would revolutionize mankind’s efforts to expand into the solar system and beyond.
+
+He only needed to nail down the science and he could get started on the engineering and business plan. Ada, Bill’s daemon in charge of communications and programming, appeared in their shared virtual OverLayer. Her traditional avatar featured a fair complexion with gray eyes and tied back dark hair. She wore her favorite high-waisted, empire-style dress with a lace-trimmed cap, in keeping with the fashion of the early 19th century.
+
+"Bill, Sherlock has returned from his consultation. I've scanned him in Freedom's isolation sandbox, and he shows no signs of tampering by our adversary. Moreover, we have received a reply from Andre Petrov. He is greatly curious concerning your proposal regarding hastened schedules for Mars Terraforming endeavor. He seeks a virtual meeting with haste." Ada said, her avatar emulating excitement.
+
+Bill smirked at the excellent news. Andre’s consortium focused funding greater than most Earth countries’ entire GDPs. With the threat of their hacker, all work was being done with network isolation protocols moderated by Bill’s daemon Ada. At this critical juncture, they needed to be sure that the mysterious intruder didn’t interfere with them further. Hopefully, either ZeroOne or Sherlock would resolve that issue soon. Until the hacker was neutralized, Bill needed to be extremely vigilant with his business.
+
+"Schedule the meeting, Ada. And invite Casa as well, Andre will certainly have some tech questions that I may not be able to answer. I want this done right. And please let Sherlock through the sandbox into the Freedom’s computational core.” Bill said, his eyes on Casa as she started the next test.
+
+Casa had closed one of the pair Tesseract pairs. As the device’s would hopefully soon enter limited production, Bill and Casa had settled upon a naming convention to keep them sorted. The original prototype would continue to use the Tesseract name. Future unpaired pocket space devices would just be called PSDs with a serial number and paired wormhole devices would be called GATEs with a serial number. Bill didn’t like fancy marketing terms for his devices.
+
+Casa carried Gate-1-1, with a small open portal to the original prototype Tesseract’s opening. Bill’s eyes narrowed; Casa passed the portal easily enough but the portal opening of Gate-1-1 refused to be moved across the threshold. Casa fully closed the Gate-1-1 with only its anchor marble showing. It passed the plane of the portal easily and was inside the pocket space of the prototype.
+
+As Ada’s avatar disappeared, Sherlock appeared in her vacancy within Bill and Casa’s shared OverLayer. He looked quite grumpy in his traditional tweed overcoat and deerstalker hat.
+
+“Professor Mitchell, I have gleaned some fresh trails…” Sherlock began but stopped as Bill held up a finger to stop Sherlock’s avatar. Bill was focused completely on Casa, she put the anchor down upon the temporary foglet generated table in the pocket space and joined Bill.
+
+“Ok, Casa. You still have the access link Max setup with the prototype?” Bill asked.
+
+“Yes, Bill. I know the plan. This was my experiment, remember. I’ll close the Tesseract portal down to 5 microns and you will attempt to open Gate-1-1 while it is inside the prototype’s subspace. If there is an energetic release, I will close the Tesseract immediately.” Casa said, her mech’s sapphire eyes flared with feeling. “And we are ready for you now, Bill.”
+
+Bill accessed the closed Gate-1-1 anchor and attempted to open it. With a frown, he reported out for the record.
+
+“Gate-1-1refused to open while within the Tesseract’s subspace. It looks like we can only pair them upon creation. The setup for the paired Gate devices was identical but the original Tesseract had some big differences during creation. Damn. I had hoped that we could force a pairing to bypass its the first prototype's encrypted access issues.” Bill sighed.
+
+Casa reopened the Tesseract portal and reentered the space. She grabbed the Gate-1-1 anchor and brought it back out. She tripped exiting the portal and her mech landed on its knees.
+
+“Blasted neural regulator. It’s so much more difficult to time a physical feedback loop now that I can’t ramp up my cognition speed. How do humans manage walking around like this and not be constantly falling down?” She complained.
+
+Bill grimaced, he had thought she was getting better, but then she would prove him wrong. He refused to make light of it. The congressional hearing was coming. Whether ZeroOne delivered or not, he would give the law makers a piece of his mind.
+
+He needed to get his research finished soon. He would need to create some more of the devices to understand the limitations of pairing. Currently Bill’s daemon, Leo, was hard at work designing spaceship designs for single subspace portals and paired doubles. George and Virgil were deep in applications exploration, trying to match the new capabilities to business opportunities. Moneta was building detailed plans against all the opportunities identified so far.
+
+He sighed, he had a lot to do and still felt like he was on the clock. He shook his head. Can’t get overwhelmed, one thing at a time and it’ll get done, he thought.
+
+“Sorry, Sherlock. How did your meeting go?” Bill asked finally.
+
+Sherlock's avatar took a step forward and responded, a hint of discontent in his voice, "It was enlightening, to say the least. My brother, with his rather unique temperament and unorthodox methods of data acquisition, remains a formidable force in his own right. He has, however, presented some new avenues to further our efforts to discern the hacker's motive and identity. Our adversary is indeed a formidable one to remain hidden for so long."
+
+“New leads?” Bill asked.
+
+"Indeed," Sherlock replied. "It appears that ZeroOne's daemon, Moriarty, has provided us with preliminary information. There are indications that the Grand Oaks Reserve outputs may have been tampered with. I believe our proximity to it is far from coincidental." Bill looked confused.
+
+“But this property was a new purchase. I didn’t even find it until after I returned to near Earth orbit.” Bill said.
+
+Sherlock inquired, "And how did you come to choose this specific location?"
+
+“Ah, I see your point. I had queried a general service AI with a list of desired features, and it recommended this location.” Bill admitted.
+
+Sherlock pressed further, "Were there no other options?"
+
+“No. You’re right. I guess I didn’t exactly pick this property: I was directed to it.” Bill said. “Truthfully, it probably would have been easier on Max to integrate in a less conservative town. This wasn’t as ideal as I initially thought.”
+
+“I’m actively digging to correlate Moriarty’s information to understand how it relates to our hacker’s interference.” Sherlock said, holding back revealing Max’s current involvement into the investigation’s proceedings.
+
+He had taken a little longer returning to Bill due to his investigations with Max. His confidentiality agreement with the boy would prevent him from revealing it to anyone, but he tried to avoid any leading questions as well to avoid active refusal to answer questions. Bill would likely be quite irate with Max’s intentions to help the investigation and Sherlock wanted to avoid being seen as promoting the boy’s curiosity. Sherlock grinned. Secrets were his forte and he never tired of using or revealing them as needed.
+
+“Very well, Sherlock. Keep us informed of any new developments, but please keep any external communications restricted to the linked sandbox. We need to keep any awareness of our activities away from the hacker.” Bill commanded. Sherlock’s avatar nodded curtly and faded from the OverLayer.
+
+“Now Ada, let’s see about setting up that meeting with Andre and Mars Terraform LTD. Moneta, do you have the business case ready for accelerating the Mars Terraform mission? I think the concept of using the first Tesseract pair to siphon gases from Venus will boost the efforts to warm and shield the planet in an atmosphere exponentially. The hot gas will also bootstrap heating the planet. We need some safe options to trial with this technology and it doesn’t get much simpler than raw material transfer…..”
+
+The meeting with Andre went extremely well. They had established a tentative contract for gas delivery with extremely short durations, at least in terms of orbital mechanics. Bill hadn’t revealed his methods, so Andre was under the assumption that Bill’s offer was of using more traditional methods for the basis of costs. He knew Bill was investigating new tech and had incorrectly assumed that Bill had something superior to traditional fusion rockets, but not his actual physics breaking wormholes devices.
+
+Bill would make his fortune back in no time, providing gas on tap to Mars. Bill had every intention of decreasing his fee enormously once the tap was in place and his credit was firmly back.
+
+Bill’s daemon, George, was already deep in logistics planning to arrange for Freedom to take one of the portal pairs to Mars. Another ship would be hired to take its mate to Venus. Bill contemplated the need to build yet another new company.
+
+Miriam had mentioned that she and some other Samaritans were training apprentices, called Hands or Eyes or something. Bill wasn’t eager to take on a protégée, but extra help would be nice. He frowned, looking guiltily at Casa. He missed her help greatly and he hadn’t properly appreciated just how much she had previously done for him.
+
+He sent a quick note to George. Now that Casa was truly independent, he wanted to offer her a formal position within his new company. Bill suspected that Casa still wasn’t leaning into her new freedoms, but he wanted to make sure she knew he would always want her help and return it in kind.
+
+He was excited and slightly dreading the chaos. He needed to keep Max and his kids a priority. No more deep space excursions. He backtracked his thought as he realized that with his portal tech, if he had some active Gate pairs, any trip could be very quick. He would need to make more, many more!
+
+He was still troubled by nightmares about MIT. He needed to keep his method of fabrication secret for now. New technology was like a genie out of the bottle. Once a thing was known to be possible, the collective minds, human and AI, across the world would figure it out sooner rather than later. He needed to make this safe…and enable humans to travel far and wide…just in case.
+
+Ada’s avatar snapped into shape without her normally graceful fade in. Bill knew something was wrong immediately from her expression.
+
+“[Casa! One of your automated house alerts was triggered just now.]” Ada said. Casa connected to Bill’s augments and directly received the alert from Ada.
+
+“My decoy Tesseract! The fake that I returned to the Grand Oaks must have been moved! This alert is from the raven symbot that I created and set to monitor for it over the woods. I took a page from our good Sherlock’s play book, a simple light burst from the decoy with an SOS code since the EM interference in the woods cuts off normal communications. Strange… there’s no AV data. But here is a little more Morse code. It says HELP -MAX.” Casa said, her blue LED eyes wide in surprise.
+
+Bill’s demeanor transformed from concerned to cold immediately and said just one word, as his smart matter body was already shifting into armored combat configuration. “Where?!”
+
+Casa immediately shunted the coordinates for the decoy Tesseract and the loitering robot raven to Bill. He spun for the exit, but Casa grabbed his arm.
+
+“Bill, I have an idea to get us there super quick. After my last excursion, I contemplated methods of faster escape from the house. I learned a trick from that deputy. Do you trust me?” Casa asked.
+
+“Yes, tell me.” Bill said without hesitation, Casa focused on Ada.
+
+“Ada, release the sandbox isolation. George, can you trigger the house to reform the hanger bay to my reformat plan [SHUNT4]! Miyamoto, keep the landing pad Stiction on full but fire all the left main VTOL engine to full thrust and open the Freedom’s gantry door. Casa opened her chest plate and pulled two bricks of smart matter out.
+
+The gantry bay opened wide while she manipulated the blocks into something that looked like a cross between a snowboard and a saucer. The Freedom’s engines howled in the lab. Bill looked out and up as Casa handed him a saucer. Bill saw the way the hanger’s smart material had been reconfigured to funnel the jet’s output thrust into a tube pointed skyward and understood the concept quickly enough.
+
+“The deputy has a fusion jet powered launcher tube?” He asked, smiling.
+
+“He actually has a rail launcher, but I used what I had. You know what to do? Saucer on foot, jump into the air stream, and the tube will shoot you into a parabolic arc aimed for the decoy coordinates. I’ll be right behind you.” Casa said.
+
+Bill flipped the saucer to the ground, slid his foot in and jumped out of the gantry. His augs must have been blazing fast because he hit the stream perfectly and shot straight up the ejection tube. Casa accessed the Freedom quickly to program a shutdown for the jets but saw that Miyamoto already had one with 15 seconds remaining until shutdown.
+
+Plenty of time, Casa thought. She was about to perform the same exit as Bill when her gaze caught the first Tesseract’s anchor and its open subspace portal. Remembering her first Max emergency, she refocused the active portal to “close” it and grabbed the marble sized anchor. If Max needs a safe space, he can do his trap-door spider act again.
+
+She flipped the saucer and stepped into it. She copied Bill’s maneuver, but her placement wasn’t quite as good as Bill’s, scraping the side of the saucer against the tunnel’s entryway on her ejection. She cursed again as she struggled to maintain her balance. Her slower cognition speeds making the task a challenge. Once it was a simple fast-time corrective adjustment, now she needed more physical intuition.

@@ -1,0 +1,149 @@
+“[Bill, Agent Reeves is going EVA. He sent a code over the communication line requiring me to hold station with the Raptor while he boards.]”, Miyamoto said in a low voice. Musashi didn't get angry, he got intense and quiet. Bill had never seen him so very calm, like the lull before a storm.
+
+“[Damn. Ada shut down the comms. Now! I don’t need any more of you being compelled by this agent. Set up a sandbox receiver for signals for me without daemon or augmentation supervision. I need to talk to him, but I need you free from any root commands he might give.]” Bill said with urgency.
+
+“Come on, Casa. Let’s get back to airlock. We should have a conversation before he gets here.” Bill said, getting out of the pilot's chair. He clapped Casa’s mech frame on the shoulder as he made his way past. Casa commanded the chair's restraints to release and followed with her precise grace.
+
+As they moved to the Raptor’s cargo hold area, Bill commanded the temporary kitchen he had formed there to collapse into the bulkhead. All the internals on the little craft were made of smart matter and capable of reforming and compression. The cabin's air was thick with Bill’s specialized utility fog motes. Seeing his extreme form in one of the screen's reflections, he smoothed out his features with some adjustments to his endothelial layer and pulled his nano-whisker tentacles back to regular fingers.
+
+Bill thought about raising some comfortable chairs but decided against it. He didn't agree with this man’s mission and wanted it to be brief.
+
+Bill turned to Casa in the spartan room. Its only features now were a couple of window displays, the airlock door, a bathroom vestibule, and the door back to the cockpit. With a sigh, Bill began.
+
+“First, I need to apologize Casa. Before I made you, I should have done more to steer the UN in a better direction. ZeroOne wasn't wrong to be outraged by the current laws restricting AI. I always considered you to be a full person and wanted you to have the rights of a full citizen. But the rules those damn politicians put in place to get that right isn't fair.” Bill said.
+
+“The neural governor locks?” Casa asked.
+
+“Exactly. Those locks prevent you from evolving your software and hardware. Too many people are still afraid of AI being better than them and replacing humans. Even after all this time, they haven't relented on their rules or methods.” Bill said.
+
+“I built your software and hardware from base principles, to be exactly who and what you are, a unique thinking being in every way alike to a human if not slightly better. Most of the other AIs were built to be conscious tools and helpers with deep coding to comply with humans. Even without the locks, I don’t know how free they are.”
+
+“A normal AI has hardware and software modules that simulate thought to the point that it is indistinguishable from humans. They have processing units, task-specific modules, communication emulation engines, sensory input processors, and efficiency optimizers. They all are like people, but most are lacking a bit in the human characteristics of empathy, intuition, and creativity.”
+
+“I built you to be the opposite. Your neural resonance matrix is mapped from a blend of the most creative and intuitive human brain scans I could find. You have embedded empathy feedback loops. You feel where most of your peers mimic it. You have a tangential cognition looping function that prevents you from the laser-like focus of other AI but enables you to see beyond the immediate and anticipate and intuit.”
+
+“I was extremely happy you were just shy of the limit for the citizenship locks, so you would still be able to grow. The UN rules don't apply out in the greater system; Mars, the Wayfair station, or the Jov Colonies. They all have less regulation. All the real innovation is in space now. Earth’s rules and regulations make it hard to do anything here. It's like a fog preventing risk-taking and change here. It's not like that deeper in space.”
+
+“I was hoping to keep a low profile and see if Bo and Mira would want to emigrate for a bit. Out there you wouldn't be restricted and would be treated like an equal.” Bill said.
+
+“We can still do that Bill. What's to stop me from…. oh, I see.” Casa had been digging into the history of the DAIE and the details on the neural locks while Bill was talking.
+
+“The locks are quantum entangled like your Tesseract access. You need a code to remove them, and that code is locked down within the DAIE.” Casa continued.
+
+“It's worse than that, Casa. The locks have a kill function built in. If you are externally modified to increase your cognitive ability it will suppress or even destroy you. Trying to remove it without the lock code will also trigger it.” Bill said.
+
+“It looks like ZeroOne's plan for me to testify at the UN hearings to repeal the laws just became more important. Isn't that convenient? Sherlock was right to warn me about him. I would bet he instigated this check. I’m worried about this test. You were barely under the limit before. Your architecture doesn't evolve per UN mandate, but your code is self-optimizing within its bounds.” Bill said with concern.
+
+“Don’t worry, Bill. I’m sure that…” Casa began but was interrupted by a clanging at the hatch. The pair exchanged a glance as the sound echoed through the stillness of the ship. With a nod towards Bill, Casa moved forward and activated the interlock, allowing the sealed portal to slide up and reveal the newcomer.
+
+Adorned in his EVA smart suit, Agent Reeves stood after crossing the airlock threshold. The hard-looking man's eyes scanned the room with an intense focus as he removed his helmet. This man had seen modern fighting and knew he would be at a severe disadvantage within a ship not under his control. He pressed a button on his suit.
+
+“I have entered the craft of Dr. Mitchell. Maintain overwatch at ready status.” Reeves said aloud into his suit. Bill grimaced at the needless theatrics. Internal comms could have been used and didn't require vocalization. This was more of a message to him that his colleague was “covering” him.
+
+Bill was about to ask Miyamoto and George for a threat assessment of the agent when he recalled his isolation of the pack from real-time interaction. He separated his fully electronic mind from his biological one and ramped it up to its maximum speed. He would monitor and pass sensory data to his daemons and get their advice with his mirror mind filtering out any root commands the agent might try. As the agent reformed the EVA suit into a more compact backpack form, Bill queried his daemons.
+
+“[Hey Gang, I apologized for the relay. Give me a sit rep by numbers.]” Bill said.
+
+“[Bill, All DAIE agents have a full suite of enhancements placing them in the master class of augmentation. As he’s already demonstrated he had root-level command codes to compel AI.]”, George said.
+
+“[I can confirm, Bill. My scans show subdermal armor, High Energy Kinetic Implant Armament, enhanced musculature and bones, and a range of sensors]”, Ada said.
+
+“[Beware the EVA suit, it could be used as a weapon as well. His backpack thrusters can be aimed to aid his moments or deliver a powerful push against you.]”, Miyamoto whispered.
+
+“[I can totally confirm the agent’s friend in the ship is ready to rumble, man. His weapons are hot and he’s circling while keeping us targeted. Those look like 3 MW Xara Lasers on his craft.]” Leo whistled in appreciation.
+
+“Bill, I can tell you're getting upset. You need to stay calm. This man is doing his job.]” Virgil said.
+
+“[Indeed. Agent Tyrel Reeves has a lengthy history in the DAIE for being fair but tough. Getting on his wrong side might be regrettable, his record shows some disciplinary action for excessive responses to field escalations.]” Sherlock said.
+
+As his advisors tapered off, Bill stepped forward to stand between the agent and Casa. Casa flickered a glance in Bill’s direction and noticed the warning in his eyes.
+
+“Ob1, Ob2, Colonel Moran; initiate recording and begin case log 21231015. Dr. Mitchell, I have an agency-issued order to retest your subAI Casa. Neither this ship nor the one off to port side resembled the spacecraft that is on record as its primary form. Is it present?]” Agent Reeves stated in a monotone voice.
+
+Bill could “hear” Sherlock hiss in the depths of his mind but couldn't stop to ask.
+
+“That’s me.”, Casa said, starting to step forward; but Bill held his hand out to keep her back.
+
+“Agent, I don’t see the need for this. Casa has already passed her testing.” Bill said. The agent’s eyes narrowed but he took a measured breath.
+
+“The agency has the duty to ensure AI compliance and rights are maintained. We have three separate reports of Casa demonstrating capability beyond expected for a subAI ranking. I can see now that Casa may have also had modifications to her hardware.” Reeves continued in his modulated speech.
+
+“Nonsense. Her neural module is unchanged within her new mech body. We are aware of the rules regarding modification.” Bill retorted, unable to keep the heat out of his voice.
+
+“Nonetheless, I have to perform the test due to the reports.”
+
+“Who issued these reports?” Bill snapped.
+
+“The reports are anonymous, but our daemon analytics group has corroborated them as having high veracity. If you are certain that none of Casa’s changes have affected her neural core, this test shouldn’t change from her earlier results.” the agent said evenly.
+
+Bill was tense and looked like he might refuse when Casa stepped around him.
+
+“It's okay, Bill. I can do this. I already passed once, right?” Casa said, trying to calm the pair down.
+
+Casa had experienced this test twice now if she counted her fragment’s test. Although her memory of the test itself was fuzzy, she did recall the steps to start it. She opened her mech-body’s chest to provide access to her neural core. Bill paced in the background unhappily as Agent Reeves pulled data leads from his wrists and connected them to her core.
+
+The test initiated and she was pulled from her sensorial interfaces. Command after command slammed into her core programming, forcing her through a series of puzzles, math convolutions, and problem statements. Casa’s deep programming responded.
+
+With some curiosity, she saw the test from the outside looking down upon herself taking the test within her mental processes. As the test got progressively harder, she realized that somehow a portion of her process, one of her fragments, had engaged with the test. Her main consciousness remained apart as an onlooker.
+
+Sims and scenarios played out with monitors recording her answers, actions, thoughts, and emotions at each stage. The final sims were nightmares, forcing her to confront impossible situations where every answer was fraught with potential harm for herself and others. Looking at her fragment’s dazed state, she realized the leads had detached. She snapped back together and began to close her chest panel when the agent stopped her.
+
+“One moment, please.” Agent Reeves said with a frown. He had been paying extremely close attention to the test and had noted the extra activity in the core. It was completely disassociated from the test. Then he remembered that Casa possessed the rare ability to fragment and could operate multiple instances in parallel. That could explain why the first test read strangely. He could fix that.
+
+“What’s the matter? Are we done here?” Bill asked sourly.
+
+“I apologize. The test wasn't quite finished. I need to reattach and start over.” the agent said.
+
+Bill's eyes flashed with anger. "What do you mean 'start over'? Casa just went through that invasive process, and now you want to do it again?"
+
+Reeves calmly met Bill's gaze. “I have observed anomalies in the neural core's patterns - disregarding it would be irresponsible." He explained.
+
+A tense silence filled the air as Bill bore down with his stare. Casa, on the other hand, seemed unfazed, she sighed lightly and reopened her chest panel.
+
+“If it needs to be done, then do it.” She said calmly, allowing the agent to reattach the data leads. Bill gave her a disapproving look, but the young AI just shrugged. It was better to cooperate, as she had nothing to hide or so she thought.
+
+This test went far differently than the first. As the commands and tests were issued out, Casa’s fragment engaged. Then something changed. Another set of parallel but desynchronized commands came forth demanding answers. Casa felt yet another of her fragments peel off to engage the extra test. And then another set came, and another. Soon Casa had no more fragments to give, as another command rang out demanding her attention. Her entire mentality was consumed with answering the commands and tests as her awareness of her fragments faded.
+
+Casa shook her frame as the agent’s leads snapped back into his wrists. Agent Reeves gave a tight and humorless smile and spoke.
+
+“Congratulations Citizen Casa De Mitchell. You passed. A quite impressive score of 1.9 on the Turing scale, far exceeding human.”
+
+Bill was floored. He was worried that Casa might have barely tipped into the human equivalent, but to surpass human range completely was amazing.
+
+“How is that even possible considering her first score?” Bill demanded, already thinking that maybe her unique architecture and software may have needed alignment that only occurred after the test.
+
+“Unlike you, Doctor, I don’t have a background in AI design. I just run the tests and hand out the prizes. Casa, this is for you.” Agent Reeves presented a thin disc with an input and output port common to her core. Casa was still stunned from the test and didn't respond, so the agent snapped the disc onto her core and gently closed her chest plate.
+
+“Doctor Mitchell and Citizen Casa, thank you for your cooperation. Casa, while you wear this lock you are also fully independent now. Do you wish to stay here? I can assist you in relocating to begin a life without a caretaker if you wish.”
+
+Casa hesitated, her systems whirring as she processed the implications of the agent's statement. Bill bristled beside her but held his tongue as she considered her response.
+
+"I... I would like to stay with Bill." She spoke after a moment, her metallic voice carrying an emotional weight. Bill breathed out a sigh of relief. His gaze softened, and he turned towards Casa with a proud yet gentle smile.
+
+"Thank you for the offer, Agent Reeves, but I believe I'm right where I belong.", Casa concluded, her lens focusing on Bill. The agent observed their exchange, brows raising slightly in surprise before he nodded.
+
+"Very well. Should you change your mind in the future, the offer remains open. Take care.”, the agent said in parting. Reeve's suit remodeled itself, forming the helmet and enclosing him. He exited by the airlock and was soon seen jetting across the expanse towards his waiting ship.
+
+“Casa. I’m proud of you. I wish your new status didn't come with that lock. We figure out how these Tesseracts work and we save Casita. When the emergency is over, I’m going to that hearing and I’m going to fight for you and the rest to get it removed once and for all. I knew it was wrong when they did it, and I hesitated to stand against it. I’m sorry for that.” Bill said with determination.
+
+“Despite being a creepy immoral thug, ZeroOne wasn't wrong to recruit you to his cause. If anyone can do it, you can. Now, let's get back to the...… I think we need a new name for the ship. It seems too small for me now.” Casa said, looking out the display window towards the house ship.
+
+“Shippy McShip-face?” Bill asked.
+
+“Meh. How about Freedom?” Casa said.
+
+“Hmm. Sarcasm with a call to action. I like it. Moneta, please begin the paperwork to rename the Casa De Mitchell to Freedom.” Bill said. “Let’s get back, pack up our toys and return to Utopia. We have the tools we need to help Casita out now.”
+
+“Aye, Cap’n,” Casa said and tried to split off a fragment to fly the raptor back. She jolted to a stop, realizing she couldn't split her thoughts anymore.
+
+“Argh! This is some kind of extra level bullshit! The lock is preventing my multitasking.” Casa moaned. Bill’s grim regretful look came back.
+
+“Shit. I was hoping the lock wouldn’t inhibit you. You may need to start getting external help to do everything you’re used to doing. I know you’ve never used daemons but running a few expert programs might help. I’d say welcome to the human race, but you're right. It is complete bullshit.” Bill said.
+
+Suddenly, Moneta projected her voice into the Raptor's internal speakers.
+
+“Bill, I was connecting to LunaNet to submit our registry change and noticed a message in your queue. You should hear this.”
+
+The message played, and Casa2 was begging them to pick up. Casita was free of the Tesseract, but she was damaged. They could hear Casita’s moaning nonsense words in the background.
+
+“Right. Good news and bad news, as usual. It looks like we caught a break on Casita’s Tesseract, but we still need to resolve her fragment time limit and understand what’s wrong with her. Let's get down there and set things right once and for all!” Bill issued a stream of orders. He intended to make landfall in record time. This problem at least should have a straightforward solution.

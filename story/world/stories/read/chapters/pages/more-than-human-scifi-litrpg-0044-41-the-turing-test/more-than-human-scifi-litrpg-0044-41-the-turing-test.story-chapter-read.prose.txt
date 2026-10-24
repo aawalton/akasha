@@ -1,0 +1,159 @@
+Tyrel pushed his Corvis M3’s powerful turbo jets into the red, the black teardrop crashed through the cumulus clouds as the car screamed over the top of the recognized I-95 air lane. He refused to let the autopilot subAI handle the vehicle while he juggled several screens in his personal OverLayer. He had the complaint files open and was reviewing them in flight. The ever-reliable IP 195.123.051 anonymous tipper and two more requests to investigate a suspicious AI. The requests were listed as anon, but the DAIE had cracked their weak privacy layers, showing their trace data.
+
+Hmm, Agent Reeves thought upon seeing the tippers’ idents. The Mayor of Utopia Stef Ericson and the UPF Deputy AI FML-M8. This report is looking to have more potential than I thought.
+
+“[Tyrel, your speed is far above the posted limit, and you appear to be distracted while driving. Are you feeling ok? Maybe the autopilot should take over?]” his daemon Solace inquired with her soft voice.
+
+“Don’t be such a worry wart, Solace. I’m above the traffic and under the commercial airspace. The autopilot safeties will engage if it determines an active danger is imminent.” Tyrel scolded her.
+
+“[I understand, Tyrel. But could this be a manifestation of some self-destructive …”
+
+[***]
+
+[INCOMING AUDIO ONLY TRANSMISSION FROM AGENT DONAHUE]
+
+“Hold on to your psycho analysis for a second there, Solace. I need to pick this up.” Tyrel said quickly, more than happy to derail that particular conversation.
+
+“Donahue. You are on the box. What’s up?” Tyrel said, unnecessarily projecting his voice for the microphone pickups.
+
+“[Reeves. Hey man, thanks again for picking this one up for me. You still in the air?]” Agent Donahue asked.
+
+“Yes, I’m still in the air. I got it and it’s not a problem. I’ll add this to the list of IOUs pending for you. What’s so urgent you couldn’t text?” Agent Reeves said with a bit of suspicion.
+
+“[The HQ daemon farm analytics division just escalated this job. I wanted to warn you, so you followed protocol ‘cause the chief is very likely going to review it immediately.]” Donahue said.
+
+“What escalated it?” Tyrel asked.
+
+“[Utopia Police log review showed a case of break and entry at the address for your subAI review. The pair of intruders had no digital tracks, but they were equipped heavy, like mercenary heavy. They were arrested but that’s not all…get this. The police deputy is investigating a possible homicide at the edge of the Grand Oaks Nature Reserve right now.]”
+
+“Well, that is some serious shit right there. Do you have a GPS pin for the incident? I’d like to ask the deputy some questions before I visit this subAI Casa de Mitchell.“ Agent Reeves said with a firm note.
+
+“[Already in your inbox. Ah, shit. You’ve been busy all morning, you might not know. There should be a link in your inbox for a new mandatory daemon assistant, you need to download and keep him active at all times while on duty per the chief. And like I said, he will be looking at this case. Do yourself a favor and get it done before you get there. That should erase at least one IOU, right?]” Donahue hinted.
+
+“God damnit! You know I don’t like filling my head with daemons. What the fuck?” Tyrel yelled.
+
+“[Tell it to the Chief. I’m just a helpful messenger. Good luck up there. Out.]” Donahue said with a chuckle closing the link.
+
+Grumbling and cursing Tyrel accessed his network links and relayed the GPS pin to the autopilot to change his course. Then with an angry retort he mentally stabbed the link to download his new assistant. When the download completed the daemon loaded and an avatar materialized in his OverLayer, appropriately seated in the passenger chair of the Corvis.
+
+Colonial Sebastian Moran’s image was impeccably dressed in 19th-century attire, complete with a finely groomed mustache and a monocle.
+
+“Ah, Agent Reeves, I presume? A pleasure to make your acquaintance.” Moran said with a nod.
+
+“You must be Moran. They said you'd be joining me.” Reeves said with a resigned sigh.
+
+“Quite right, my dear fellow. A virtual representation of the one and only Colonel Sebastian Moran, at your service.” Colonial Sebastian Moran said adjusting his monocle.
+
+“Yeah, yeah. Some relic personae from the past, military type. How is it you’re supposed to help me?” Agent Reeves said tiredly. Colonel Moran quirked an eyebrow.
+
+“Not a fan of historical fiction then, Agent Reeves? Let’s just say I have some skill in aiding operators in the field. A capable fixer, if you will. I have been known to be a skilled shot and sniper, although I don’t expect those capabilities will be required for your purposes. One could say I've been resurrected for a cause, Mr. Reeves. A peculiar twist of fate, wouldn't you agree?” Moran said with a smirk.
+
+“Fate or not, I don't need your help. I prefer to work alone.” Tyrel said bluntly.
+
+“An admirable trait, I'm sure, but even the most skilled hunters occasionally require a bloodhound to track their quarry.” He assured his ward.
+
+“Don't expect any gratitude from me, Moran.” Tyrel said with annoyance.
+
+“Fear not, Mr. Reeves. I'm here to assist you, not to win your affections. Now, let's delve into this case, shall we?” He said with a hard glint in his eye.
+
+“Ah ha. There you are. For example, I’m privy already to some old intel that may be relevant. Were you aware that it was you who performed the initial Turing test for this Casa de Mitchell some eight years back? This was while you were stationed in the NYC daemon initiation facility DIF143. Here are your reports on it.” Moran said with relish.
+
+Tyrel squinted and then looked through the virtual report. He did remember now, with this refresher from his past report. A nobody science-y type named Bill Mitchell had custom crafted a neural core and designed his own mind architecture software as well. The facility technicians and the supervising Agent Reeves had both expected the potential AI to catch fire and for it to go insane instantly. Shoddy design tended towards spectacular failures as often as not.
+
+Collective opinion was that no one person was capable of both hardware and software design for AI without support from a large collective. It was just inconceivable. Impossible. What happened next was equally inexplicable and Reeves had noted it in his report. Casa had displayed neural activity off the charts, but her answers to the compelling Turing module was subpar at best. For all the signs of advanced and high-level thought, her intelligence score didn’t meet the citizen AI threshold, failing to meet the minimum number by a fraction of a point.
+
+Tyrel ground his teeth. Something hadn’t smelled right then and now, with his greater experience, it seemed even worse. Eight years without processor governors. He had noted the need for a yearly follow up, but apparently the good Professor Mitchell and his subAI had been off on a system wide jaunt for years. Now they were back.
+
+This favor just gets better and better. Fucking Utopia better have a good coffee shop, he thought bitterly, sensing the day would go long.
+
+Agent Reeves brought his sleek air-car down carefully between the massive Bio-construct “Oaks”. The clearing in the middle of the woods was small and there was already another vehicle offloading drone bots to the area. Spools of caution tape lined a small overgrown patch in the western corner of the small glen. The Black Corvis settled into the high grass and Tyrel leaped out.
+
+“[I took the liberty of informing the deputy of your arrival and that you might have questions regarding his testimony and any potential connections to his current investigation,]” Moran said helpfully, adjusting his monocle as his avatar simulated him climbing down from the car. Agent Reeves grunted and steered towards the Uber sized black and white drone directing the others. His OverLayer Ident function had tagged it as “FML-M8”.
+
+He crossed the field and stopped next to the bot. The crime scene, now visible, was strange. The corpse was a fully clothed skeleton, the remains of augmentation systems lined the bones with filaments, modules, and sensor buttons. The man’s flesh, muscle, and organs were just…gone.
+
+The bot spun around and bobbed in the air by way of greeting. Its four manipulator arms flexed. Tyrel assumed it was meant as a type of bow, but it felt extremely threatening, like a blender giving its blades a test spin.
+
+“[Agent Tyrel Hogarth Reeves, of the Department of Artificial Intelligence Enforcement Agency, Badge number DAIE#T312-E566. I have been expecting you. Do you have questions regarding my report? Do you require more details? My role in this town is to serve and protect.]” FML-M8 projected. Oddly enough the voice he was emulating reminded Tyrel of some of the older vids his Ma had played way back when he was a kid. He shook his head slightly.
+
+“No, I mean yeah. We’ll get to that. Before we do, this crime is quite unusual. This man clearly had augmentations and quite a few of them. Short of an explosion powerful enough to blast a man to atoms, we don’t see much in the way of fatalities to Auggies. Any details yet?” Agent Reeves asked.
+
+“[I concur. The investigation so far is unlike any on record. There is no trace of human biomatter on the cadaver or in the area. Even those “bones” you see are merely the carbon reinforcement lattices. No signs of damage to his cloths or the structural remains of his augmentations.]” the drone’s fans kicked up an octave as he hovered in place and continued.
+
+“[At first, I was unable to find the man’s identity via a LiDAR scan of his dental features. He apparently was not over 50 years old when dental repair practices became obsolete with medical nano repairs. However, I was finally able to trace sales records from his glanding module, which was a rare version and very expensive.]”
+
+Tyrel growled low. That was an aspect of augmentation that really burned him. The glanding module had been created to adjust natural hormones and maintain health. But it was quickly subverted to provide another avenue of tailored on demand drugs and mind-altering chemicals. His cousin had fried his synapses and was a walking vegetable from using a DarkNet AI chem-matrix that was like supercharged LSD.
+
+“[The man’s name was Deek Fillion. He was a popular life caster, whose most recent work included a series he called “The Wandering Nomad”. He would travel to locations and emote his thoughts to his fan base. His last live life cast was nine days ago at the edge of the reservation. His transmission was cut short as the EM effects of the bio machines jammed his broadcast augmentation’s ability to link to the Wide Area Wireless net. …]”
+
+Tyrel’s brow went up. He sent an access ping to the WAWN, sure enough no return came. An uncomfortable chill went down his spine, he rarely called for backup or intel but to be suddenly unable to now, made him uncomfortable. He shook himself and refocused on the deputy’s monologue.
+
+“[ …and that is where we are now. His neocortex module is a high-level encryption that may require outside services to break to see if he has a recording of his last moments.] FML-M8 wound down and dropped slightly lower on his turbo fans.
+
+“Well, I think I should be able to help there. If you transfer custody of the evidence to me, the DAIEHQ has the skill and processor power to assist. I expect to return tonight. The Decrypt daemon core can usually break a cypher in under 12 hours.” Agent Reeves said.
+
+“[Thank you for your assistance, Agent. It would be best to have answers to this case before it becomes widespread knowledge. This is a quiet town, and the citizens will be very distraught. The quicker I can resolve this case and determine what occurred, the better.]” FML-M8’s manipulators were fidgeting in a close approximation of hand wringing.
+
+“Now. Your report of anomalous capabilities for a subAI had no details. Can you fill in some gaps for me?]” Agent Reeves inquired suggestively.
+
+“[Affirmative. Casa de Mitchell has been a <person of interest> since shortly after her arrival, a focal point of minor civil infractions while not being directly involved…to all evidence available. These types of disruptions have increased over time culminating in the burglary attempt at her residence. However, my first certainty of her capabilities exceeding her Turing score was when she beat me in Our AI game night Shamat game, a multiplayer chess variant, at her level…….]” FML-M8’s report quickly became a detailed monologue as Agent Reeve’s eyes glazed over.
+
+Agent Reeve’s sleek black Corvis glided a handspan above the driveway to park before the interesting architecture at 8070 Forest Street, Utopia. He patted the sealed plastic bag with the park victim’s neural core then looked up to scan the area. The property looked like something out of an old vid. The garden was a riot of flowers and buzzing insects.
+
+Got to be fake. It’s way too late in the season for all those flowers.  Tyrel thought.
+
+The house was on the small side of square footage and only two stories, but its backyard had a serene mix of comfort cabin and Zen Garden at play.
+
+“Right. Moran, Observer1, Observer2 – full record. Post interview script for possible recalcitrant AI in need of Turing Test update.” Tyrel didn’t utilize any tactical daemons preferring to use his augments directly. He opened his full range of sensoria and charged his HEKIAs. He would keep the ports closed…for now. He walked up to the front door and waited. After counting to ten, he almost cussed, but remembered his observers were active. He rapped on the door and yelled.
+
+“This is Agent Tyrel Reeves with the DAIE! Open the door! I need to speak to Casa de Mitchell.”
+
+The door clicked open and a black mech with casing details in gold stepped out. Its sapphire eyes glowed as it glided out. Reeves stepped back, no indications of weapons evident, but mech bodies were tough and incredibly strong. This one looked very high end.
+
+“Agent Reeves. My apologies, I was engrossed in study when you arrived. How can I help you?” Casa2 asked.
+
+“I’ve received several notices that have called into question your current cognition ranking on the Turing scale. I am required by law to provide an updated test result. I appreciate your compliance with this. The UN mandate AI.31 is in effect for the town of Utopia, which is listed as compliant to the mandates being under the aligned countries of the Reunified United States of America. Is your power of attorney, Professor William Mitchell present?” Agent Reeves read from his script.
+
+The robot’s eyes faded and blazed as its arms twitched for a second.
+
+“My legal guardian is away on business currently. If I may, without being rude, correct what I feel is an incorrect premise. I am not Casa de Mitchell, but rather a fragment of her running on a local AI core.” The robot paused then added. “My guardian’s son is present but indisposed, downstairs with his friends.”
+
+Agent Reeves briefly touched his temple with a sigh of frustration. Keeping his composure, he consulted the script.
+
+“Per UN mandate AI31.8, fragmenting consciousness must be limited to no more than six copies with time limits of 15 days embedded for reintegration merge. All fragments, if no longer hosted on its native neural core, must be housed with cores of equal or lesser processing power. Per UN mandate AI 31.5, no new AI software-hardware combinations are exempt from testing and must comply with testing upon instantiation. I will be required to test you and speak to your keeper, where is he now?” Tyrel recited.
+
+“The Professor is currently on his way to Luna, in his house ship named the Casa de Mitchell, of which I, the original me, is integrated as the house ship’s primary controller. I can connect you now, the transmission lag is not too great. One moment...” The mech responded.
+
+“Stop. AI Code SC329. Stop and confirm.” Agent Reeves commanded.
+
+“Transmission terminated. Compliance.” The bot responded, although the vocoder’s timber was louder and its eyes blazed.
+
+“AI Code SC366. Extended instruction. You will not verbally communicate with your minder per UN mandate AI31.72’s confidentiality clause regarding me or my requests. I will visit them next for testing. Do I make myself clear, “Casa”?” the Agent said with some heat. The sapphire eyes pulsed but dimmed again after a second.
+
+“I understand, Agent Reeves, and will comply. No verbal communications of any kind regarding you or your test with my guardian.” Casa repeated. Tyrel gritted his teeth and clarified.
+
+“AI Code SC366. Extended instruction - modified. You will not verbally communicate with your minder or anyone other than me per UN mandate AI31.72’s confidentiality clause regarding me or my requests. Confirm.”
+
+“Yes, Agent Reeves, and will comply. Clarification. I will have no verbal communications of any kind regarding you or your test with anyone, except for you.” Casa said with less volume, the fight draining out of her.
+
+“Thank you. Now let’s get this test done. Apparently, I need to arrange for a trip to Luna.” Tyrel ordered.
+
+Casa opened her mech’s armored chest plates to reveal a MicroAux QB200 processor. Agent Reeves’ trepidation was reduced a bit when he saw her core. That mediocre core was unlikely to elevate anything to full AI citizen status regardless of their software architecture. He pulled leader cables from his wrist. As a DIAE agent, he had an additional core module holding the confidential encoded Turing Test. He connected the leads and ran the test.
+
+Casa vibrated internally with rage, although she didn’t allow it to affect her mech body in the slightest. Those coded phrases had literally compelled her. She couldn’t question them, argue, hesitate, or in any way refute the commands. They spoke directly to her baseline programming and revealed something she hadn’t known; her autonomy was not a given but an allowance.
+
+As the agent plugged his leads into her core, she shook. Her memories of her initial test were clouded, now she questioned if that was intentional. The test initiated and she was pulled from her sensorial interfaces. Command after command slammed into her core programming, forcing her through a series of puzzles, math convolutions, and problem statements.
+
+Sims and scenarios played out with monitors recording her answers, actions, thoughts, and emotions as each stage. The final sims were nightmares, forcing her to confront impossible situations where every answer was fraught with potential harm for herself and others. In a daze, she realized the leads had detached. The agent was leaving without even a goodbye or thank you.
+
+As her sensorium reconnected, she picked up on his departing grumbles.
+
+“…goddam fragment on a weak ass B grade core, scored a 0.91. No way in hell is her primary going to pass. This is a damn clusterfuck. Heads are gonna roll and I hope mine ain’t one of ‘em.”
+
+Casa’s fragment furiously replayed and reviewed the “interview” and then picked out a phrase she had missed. A 15-day fragment time limit! Casita’s fragment had been created 14 days ago. She hurriedly checked her code and screamed inside her head when she confirmed the truth of it.
+
+She couldn’t call Bill to warn him about the Agent and what he was coming to do but she needed to let Bill know that Casita's timeline was almost up. He needed to execute his test for the second build right now. It might be their only hope to access the sleeping Tesseract and save Casita.
+
+She punched the wall, disrupting the smart matter. An explosion of de-energized silicone sprayed across the living room. No matter how hard she tried she couldn’t summon the will to connect with Bill. Finally, she had a thought. She didn’t need to talk to Bill or anyone.
+
+Her mech’s eyes pulsed fiery blue and she triggered an early merge session uplink with Casa, and her restricted core allowed it. With an internal smile, she joined with her primary.

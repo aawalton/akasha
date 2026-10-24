@@ -1,0 +1,103 @@
+“Please. No need for a ceremony, students. Go ahead and open your gifts.” Mrs. Matthews said with a slight smile.
+
+Max needed no additional encouragement; he ripped off the packing and opened the lid. Inside was a felt pad…and nothing else. Max looked up in confusion and saw several others doing the same. Qasim seemed to be holding his breath. As the last student balked in confusion, he couldn't hold it in any longer, bursting out on a long braying laugh. Mrs. Matthews snickered politely beside him.
+
+“Ah. I am sorry, my students. I could not help myself. I have saved this memory for you and your family. I will send the file at the end of class. But seriously, you must look much closer. It's not a trick. I promise.” Professor Qasim said with a smile.
+
+Max flicked his ExaVision skill and struggled a bit between his thermal, ultraviolet, telescopic, and Terahertz settings. Finally, with Mal's help. He inverted the telescopic view skill and zoomed in.
+
+[ExaVision +1, ExaVision reaches level 6: passive microwave imaging acquired]
+
+Max waved the notice away and looked closely at the box. The felt pad had an array of nano-motes that Max recognized from the earlier OverLayer projection. Mal must have sensed more because she added the glow from his EM Sense to his personal OverLayer. Each mote glowed in the broadcast spectrum. Max reached out with his Access skill on a hunch.
+
+[Access established. Theronics Nano-Mote V23 configurable array. Do you wish to pair with this array? Y/N]
+
+Max didn’t hesitate, he eagerly clicked yes and continued.
+
+[Mote V23 Array contains: 60 Scout motes, 20 Variable-Scan motes, 20 power bank Motes; Range: 2000m, MPmW: 50, Power: 900mW, Powerbank: 9W]
+
+[New Mental Skill unlocked: Swarm 1 - personal nano-motes enable augmentation-guided area sensing.]
+
+“[I…I think I remember Bill use a whole bunch of motes like these when we travelled together. Although I’m thinking his were military grade or better. The man got really bored and redesigned just about every gadget he owned less than halfway out to the Oort during our research mission.]” Mal commented.
+
+Max refocused on the professors and his classmates. After enough people looked up like Max, Mrs. Matthews addressed the room.
+
+“If you haven't already, please access the motes, my dears. Right now the poor little things are unpaired. These motes are different from utility fog in several very important ways.” Mrs. Matthews pulled the images floating in the background on the classroom’s OverLayer to the front of the stage. The images of the Foglet and the Mote were side by side. It seemed at first that the Foglet was bigger, but that was only its massively long extensible arms. Its core was actually quite tiny compared to the chunky mote.
+
+“This projection is just shy of a million times the actual size of the foglets and motes. As you can see, the foglets function depends on its extreme reach. Its extensible arms connect in a loose grid to make geodesic shapes and perform as you saw earlier. The motes are much more compact” she said.
+
+“The motes are like this because their purpose is much different. They aren't used to try and grapple objects at the macro scale.
+
+“Rather, their function is to explore, scan, and interact at the micro-scale. They can transmit detailed data in real-time and be configured remotely. This makes them ideal for reconnaissance and scanning tasks. Each of you now has your own personal nano-mote array to use as part of your studies."
+
+The class was in awe. The students had heard of nano-motes, but to have an array of their own felt surreal. They started eagerly clicking through the menus, exploring parameters, and pairing with the tiny devices.
+
+“Another key difference is these motes are encryption paired with your augmentations now. They are your additional remote sensors for your systems and are more durable than the foglets to EMP. This initial gift of 100 motes may seem tiny, all puns aside, but it has a special function. They can replicate!” Mrs. Matthews said and then gestured to Prof. Qasim.
+
+“Yes! You heard right. These motes have been scripted with a limited number of replications. The UN is very restrictive on Earth-side allowances for replication technologies, so this is a really big deal. There is a rationale for it, that makes this special capability essential for your training.” he said.
+
+“For now, with a Swarm skill level of 1, trying to utilize 100 motes will be more than enough. As you progress, your ability to handle more and extend your range will improve, necessitating more motes under your command. I give you fair warning, you should not trust any public matter compilers to copy and duplicate your motes.” Qasim said with serious concern.
+
+“Mark my words well, students. Public compilers are not to be trusted with your personal motes. Pairing with them has copied your encrypted augmentation access keys into their memory. Unless you have access to a highly secured compiler, you must assume a copy and duplication will expose your keys to unscrupulous data hackers.” Qasim said.
+
+“With each skill level advancement, your motes will be able to replicate without a compiler. They merely need access to feedstock materials and power and some time. At the final level, your stocks could have as many as 100,000 motes as long as you don't lose them. By that time, your security skills should be sufficient to safeguard your compilers and ensure that your codes remain private.” he finished.
+
+“Please take Professor Qasim’s warning with extreme seriousness. I'm sure many of you have downloaded items from the MakerIndex, perhaps IndyNet, and even the rather questionable DarkNet. Be extremely careful, MakerIndex may be more boring and costly but it comes with guarantees of authenticity and has been cleared of malware and data breaches. The less reputable sources are cheaper because they are not policed. The likelihood of flaws or outright malfeasance in items from those sources is much higher when you bargain shop. If you need to depend upon your purchases, especially ones linked to your augs, you need to be extremely careful.” she finished with a grave look.
+
+Max, remembering his hack of Tyler’s stolen Conduit Blade, couldn’t help but glance toward Tyler. He quickly looked away as Tyler’s eyes were burning right back at him. He knew, as well as Max, exactly what had happened in their final match at the tournament. His weapon’s backfire had been no accident.
+
+“Alright, you all look appropriately fearful. I am quite certain you will all make decisions going forward with the utmost regard for your system's security. Hah ha! Now we should proceed. I’m sure you have all peeked at the new Adept Obstacle course at least once. Let us all take a break and reform outside in the courtyard.”
+
+“With this many people, you will have lots of time to socialize. First attempts at the actual Adept course are always great entertainment for all! Hah! Ah Hah Hah! Once everyone has had their fill we will discuss teams for anyone seeking the Labyrinth. Come youngsters, let's go!” Qasim’s seriousness had turned completely around as his humor had returned to full force. He marched towards the door leading to the courtyard, beckoning for the students to follow him. Even the demure and proper Mrs. Matthews couldn't repress a grin as she followed close behind.
+
+Qasim’s running commentary on the student’s attempts at the Adept Obstacle course was infectious. Soon the whole class was cheering and booing as each student tried and ultimately were ejected from the brutal course’s tortuous challenges. With the class as large as it was, there was plenty of time to mingle and talk.
+
+Xavier, waving all four of his arms, quickly zeroed in on Max. "Max! Over here!" Xavier called out, his loud voice occasionally drowned out by the raucous laughter from students observing their peers' clumsy attempts. Max, lost in thought, barely noticed until Xavier had sauntered directly up to him.
+
+“I’m so glad to see you and your friends here. I was hoping to find a spot on a team for the Labyrinth, and here you are. That was your friend, Charlie, who won the Unarmed Division of the Tournament right? You guys together?” Xavier pressed.
+
+Max was surprised by Xavier's proposition. He exchanged a surprised look with his friends before finally responding, "Yeah, Charlie did win the Unarmed Division. We're still figuring out our Labyrinth team though." Max glanced at Charlie, who was listening silently while watching other students tackle the course with an amused smile on his face. Xavier’s toothy Thark face beamed at him.
+
+“Well, if you can spare a spot please consider me. You’ve seen that I’ve pushed my augs in some different directions with early access to the swarm technology and even advanced form changing. I’ve been crafting my ass off too. I’ve heard about the Labyrinth’s level tolls. I already have ten novel devices to trade in. I’ve heard that’s what generally slows the more powerful teams down.” Xavier said with a wink.
+
+Max pondered for a moment, considering Xavier's offer. "We'd certainly benefit from having a crafting expert like you on our team,” he finally admitted. “Let's see how we do on this course first. If you can pull up a decent showing, you're in."
+
+Xavier's grinning face widened even more if that was possible. The Thark was enthusiastic, his multi-limbed form trembling with barely suppressed excitement. “Oh boy, you won’t regret it! I can't wait to show you what I can do on this course."
+
+[Delving the Mystery Labyrinth: Defeat that levels of the Mystery Labyrinth to prove your ability. Rewards for mastering its levels in training, XP, and unique treasure. Must have a minimum team of 4 to enter Level 1.]
+
+As Xavier strutted off to prove his worth, Max grinned at his back and exchanged a look with Charlie and Leah. Xavier had gotten knocked out of the tournament pretty quickly, by pushing his advanced forms his basics hadn’t been developed enough. Still, a team of mixed talents might be exactly what they needed in their delve.
+
+Max’s attention was drawn back to the Obstacle course. His team’s mockup in the NetherLab had gotten the key challenges correct, but this one was subtly different. It seemed to be optimized to harass, stall, and damage its challengers with frightful efficiency. Dalton had just passed the Hall of Blades. The razor whips and deadly swinging weights required advanced skills in speed, cognition, and patterning. Even with those, no one got out unscathed, which gave additional training in healing, tough skin, and pain resistance skills.
+
+Dalton stood up on the next stage, dripping blood as his entire body was covered in ribbons of torn clothes and flensed skin. Dalton didn’t wait to heal as he charged into the Fire Chamber. Fire came in waves, rings, walls, and jets as he crossed stepping stones and rails over the burning lakes of fire to the far side of the chamber. Already he was singed and red from several near misses.
+
+“Oh god. I hate this part. The course architect is just mean. Cool Kung Fu reference but mean just the same.” Charlie groaned. Max grimaced as Dalton lifted a blazingly hot Urn filled with burning coals in a bear hug. Max's family of course had viewed the old movie 2Ds. The course designers had even included a dragon and a tiger engraving on the Urn for authenticity.
+
+With the massive urn held tightly, he staggered back to the beginning, hindered by the weight. A jet of fire blasted Dalton from both sides and he fell backwards into fiery water.
+
+The fluid yanked the boy down and ejected him out the bottom of the elevated test, thankfully the water had doused his flaming Gi and left him smoldering and wet at the base of the test. That test required strength, stamina, balance, and inevitably a lot of heat resistance. Leah, who had advanced the furthest of the trio, whispered to them.
+
+“Keep your thermal sense active for that one, Max. There’s always a wave of hot air preceding the random flaming bursts. You can’t move fast carrying that urn, so every extra hint of a flame popup is essential. Unless you learn that, you’ll get stuck on that challenge building up your heat resistance in that hell.” she said with a grimace. “Oh boy. Looks like it’s my turn. See you soon, boys!” she quipped, running to the stage.
+
+Leah made the first two stages look easy. Her advanced cognition and body reflex skills combined with gymnastics enabled her to slide through the Hall of Blades with only superficial cuts. In the Fire Chamber, her awareness of the pop-up flares was evident as she was always positioned to avoid them. Despite her small size, her augments had advanced her strength a lot. She rolled the urn along its edge, right over the balance rail. Max hadn’t seen the groove on the bottom of the rail until he saw Leah perfectly slot it in while rapidly rolling the urn.
+
+The next two challenges sometimes swapped order. The Trap Maze and the Scrambler. If the Hall of Blades was the equivalent of a huge blender, then the Scrambler was riding a ball through a pinball machine. It was a fast and unstable flying platform with precarious bars, walls, and cannonballs flying about. The Trap Maze was a confusing and shifting puzzle that required speed, skill, memory, and good accessing skills to open its pathways. Failure meant poison and shock attacks hitting you. Get too many wrong and it would eject you.
+
+The final stage was called the Arctic Well. The dark icy tank stretched along the entire back wall of the course. None of the trio had made it that far, but they were getting closer. The keys to winning were still a mystery, but Max suspected resisting cold and water breathing would be very helpful.
+
+Max cursed as Leah entered the Trap Maze. This was the worst challenge for a spectator as the confines of the maze were tight and confined. Only occasional breakout sections showed the challenger's progress and most of the puzzles were concealed. Max was trying to pierce the walls with his new ExaVision extensions when a rough grasp pulled him around.
+
+“We have some unfinished business, mongrel!” Tyler hissed.
+
+Max turned and met Tyler's narrowed gaze. "You still sore about that last match? You won the division. Why don’t you let it drop?" Max growled, squaring off with Tyler. His Nemesis quest pop-up reminded him of unfinished business, but after his scare with Casita, he found he just didn’t have anything to prove to Tyler. Max’s daemon Miyamoto cautioned him.
+
+“[Don’t let your anger drive you, Broken Cup. Accept it, yes. It is natural but don’t let it drive you. Master yourself and all other things can be conquered.]”
+
+Max took a deep breath and let his hackles calm down. He was about to answer, when a scream echoed from the maze, and Max’s heart throbbed with worry. Was that Leah? One eye on Tyler, Max turned to see what was going on.
+
+Tyler sneered, but seeing Qasim’s appraising look, he said, “Later mutt, we’re not finished until I say it's over.” He strutted away, leaving Max with the stale taste of bad rivalry.
+
+“Ha, big talk from somebody who hasn’t made it past stage two.” Charlie called, standing close beside him. He narrowed his eyes at Tyler's retreating form. Max, however, was too focused on the maze to pay much attention. Leah emerged from a chute at the base of the Maze stage, jittery and with a halo of static-charged hair. She looked fine but staggered as she rejoined the group.
+
+Max relaxed and then felt a thrill of terror. He was up next!

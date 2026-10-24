@@ -1,0 +1,101 @@
+The DAIE HQ in NYC was one of the most secure buildings in the Reformed United States of America. Its main data hub and operations center was an enormous Faraday Cage, completely isolated from the Earth Network and any potential for electronic incursions.
+
+The DAIE understood that an “air gap” of this type was essential as AI and humans working with AI were experts in computers and security. These individuals were constantly pushing the boundaries of the already complex telecommunications and systems processor capabilities. The administration relied on old-school techniques to help them counter the ever-evolving security that was needed. Monitoring and prevention of any potential runaway Intelligence explosion events could not be compromised due to rogue inventors. The air gap enabled them to stay ahead of rampant progress; giving them time to catch up to the waves of intrusion and counter-intrusion technologies and techniques as they came.
+
+The Department liked to believe it was an equal-opportunity workplace, where opportunities existed for all humans and AI alike. They worked together for a common cause; to protect the world from this unique type of potential extinction-level threat. However the organization was split into several distinct castes. At the top were the administrators and directors, in the middle were the agents and system technologists, and at the bottom were the support staff and interns.
+
+The support staff; physical security, interns, the daemon farm, probationary AI, and gophers all dreamed of advancement within the ranks to higher levels of service. On paper it was possible, but the truth was much less forgiving. The upper ranks gained ever more experience and didn’t age due to rejuvenation treatments. Organizational turnover was at an all-time low, and the hopes and dreams of those at the bottom were on a seemingly infinite hiatus.
+
+Vance was sitting in physical security for entry to the Hub today. He had long since abandoned his dreams of rising internally and becoming a DAIE Agent, although he still played the FDVR game Against the Wall, a game whose main character was a DAIE Agent fighting to save humanity from a variety of mad scientists, broken AI, and nanotechnology replication disasters. Vance no longer believed the game was a secret recruiting tool as the conspiracy theorists said. He had been in the top leaderboards for over two years, and never gotten even a nod from the Department Director Douglas Hobart.
+
+Vance snorted as he saw Tech Intern Shu Xin Liang. The lad was struggling with the door while managing a precariously stacked set of coffees set in carrying trays. He was returning with the bounty from Regal’s Gourmet Coffee shop across the street. Poor kid was still deluded after a full four months as an intern. He still catered to the Tech Savants and Agents, doing shit work and chores, hoping to get a recommendation for advancement.
+
+“What the hell are you doing, Shu? With your augmentations, you should be able to lift four times as many coffees and dance ballet while doing it.” Vance laughed, while Shu’s face went white after almost losing his grip on the tray of beverages as his pant leg got trapped on the door jam’s protruding security strut.
+
+“Ah. Sorry, Vance. Director Hobart told me to keep them turned off not only in the Hub but also in the entire building. I broke his exterior office's antique credenza last week by accident because I underestimated my aug strength. He said I couldn’t use them at all if I couldn’t maintain control.” Shu said.
+
+“What? Come on, you’re like 20-something, right? You must have had your augs for about five years now. Didn’t you go through a training program? They’ve been standard for almost a decade now.” Vance said.
+
+“Ooh. Yeah. In China, the aug training costs extra. I guess I thought that it couldn’t be that hard. You know. So, well…I guess…I thought I could figure it out on my own.” Shu said.
+
+“Dude, you fucked up. Maybe you could get a second chance? Reset and get the training or something?” Vance said, trying to not grin as Shu struggled to dislodge his pant leg without dropping his multiple trays of coffee.
+
+“Maybe…if my mentor, Vivian in Tech, gives me a good review. Then I hope I can get enrolled in Agent training. Then I bet I could get it for free then, right?” Shu asked.
+
+“Maybe. One of those coffees for Viv?” Vance asked with a smirk.
+
+“Of course. Grande Low Fat Chai Latte extra sugar.” Shu said, finally getting his leg free. “Could you buzz me in there, Vance?” Shu asked, looking so pathetic that Vance cringed.
+
+“Better be one hell of a coffee, Shu. Go get’em, big guy.” Vance said, triggering the door to unlock. The advanced system scanned Shu with a full spectrum analyzer; sampling his skeletal structure, his retinal pattern, and a host of other biometric markers. The door buzzed and unlocked. Shu shuffled backward into the door to open it with his butt and carefully maneuvered the coffees through.
+
+Vance shook his head. Poor fella doesn’t realize they tempt every intern with that Agent training program. I can only think of two out of the hundreds of interns I’ve seen here that got in.
+
+Vance flipped his screen to check his status on the Against the Wall leaderboard. He didn’t see the slight flicker in the air, a ghost that floated through the open door, following Intern Shu; before it slowly closed and locked.
+
+“[I’m closing in. Give me ya sit-rep, Yingmo. How are ya doin’ bud?]” Gabriel asked, using his link to his AI companion.
+
+“[I have breached the Air gap, Ghost. Hunting down the Neural Lock master key in this digital void is a challenge. Navigating this space induces perceptual disorientation—questionable how organics manage it. Virtual vision's struggling to maintain clarity," Yingmo succinctly reported.
+
+“[I know this isn’t ya favorite type of exploit, but it’s the only way. You’ve done plenty of drone pilot work in the past. This is the same, but with more challenges, right? Ya got to suck it up, huh. By da way, don’t bother trying ta scan what dez guys pass off as a data net. That’ll just alert dez jokers to your intrusion. Slow is smooth and smooth is fast, huh? Keep your “eyes” peeled, buddy.]” Gabriel chided.
+
+"[Acknowledged, Gabriel. Though divergent from my usual exploits, drawing on drone piloting experience for conceptual alignment. Your advice on avoiding scrutiny of their data net is sound. Prioritizing deliberate and inconspicuous progress.]” Yingmo concisely replied.
+
+“[O.M.G. Ya ready for dis, chum? Steer over to dat big director’s desk. Dere is sometin’ I ain’t seen in a hot decade. A goddamn old fashion tumbler safe in a wall. I bet dez dumb Luddites got the code in one of dos ancient thumb drives. Warm up your Houdini daemon and wait for an opportunity. Tings going to get hot when ya pop dat safe. We’ll do the old switch and handoff, yeah?]” Gabriel asked. Yingmo responded with a digital nod, the AI's equivalent of determined agreement.
+
+"[This sounds optimal, Gabriel. Prepping Houdini daemon with breach capability for a Mosler safe model 302. I’m preconfiguring my decoy smart matter packet into a near-net shape for an IronKey D300 Secure Thumb Drive, per DarkNet reference for DAIE agent protocol device listings. Standing by for a targeted access per optimal timing…]” Yingmo said, unable to conceal his enthusiasm as their caper was closing upon its most critical juncture.
+
+Agent Reeves sighed as he used the old-fashioned keyboard to enter his reports for the last week into the isolated DAIE agent log database. He reminded himself to breathe in a regular pattern as his therapy daemon, Solace, had constantly reminded him. She was inactivated within the DAIE HQ’s Faraday Core per S.O.P., but he knew what she would be whispering as his anger percolated.
+
+A large contingent of DAIE operatives, both Agents and tech-savants, were going to DC to testify and monitor the AI Rights hearings going on this weekend. It was where he should be, not here filing reports.
+
+God damn it! Half of the DAIE’s list of potential AI violators is going to be there. With my record of case closures, I should have been nominated. That bastard Hobart is playing favorites again, Tyrel thought to himself.
+
+He pushed back from his keyboard and massaged his face trying to shake off the tedium. He looked across the room. Shu had finally come back from Regal’s with the coffee! But the little twerp was taking his sweet time, sucking up to Viv.
+
+“Shu! Quit trying to look down Viv’s blouse and come over here with my coffee. I have been waiting forever on you.” Tyrel yelled across the room. Shu jumped like he had been tagged with a taser. He blushed and then quickly gathered up his coffee and hurried across the busy room to Agent Reeve's desk.
+
+Unfortunately, the kid came in too hot. Agent Donahue chose an inopportune time to push back from his desk, and Shu crashed sideways launching his tray of hot coffee. The hot beverages spewed across Reeve’s desk, drenching his notebook and splattering onto the approaching Director Hobart’s pant legs. Hobart’s screaming and Shu’s breathless apologies streamed loudly in symphony, as the whole room erupted in equal parts amused chatter and sympathetic noise.
+
+Tyrel grimaced as Shu hastily used some gathered paper napkins to sop up the mess and soak up the liquid caffeine. He groaned as the cup with his name joined the other in the trash bag.
+
+Another crime! Sumatra blend should never, ever, be wasted! Tyrel thought forlornly.
+
+He shook his head. No way was he going to get back into drone mode now. He needed a break! He determined that it was time to go and get a replacement coffee and come back, maybe after a walk around the block to cool off.
+
+Shu was scuttling towards the door with a dripping trash bag when Tyrel noticed something was off. Even without his augs active in the Faraday cage, Tyrel was a trained investigator. His eyes shifted quickly over the room, trying to pinpoint what had triggered his sense of unease, then he spotted it.
+
+The Director’s secure cache safe was wide open! A faint shadow, barely a blur, slid between the desks. With a guttural roar, Agent Reeves charged forward toward the exit, chasing after the faint phantom shape.
+
+“Close that blasted door!” Reeves yelled. The startled intern, Shu, looked up as the phantom shape collided with him, pushing him through the open door. Reeves kicked open the rebounding door and jumped over Shu, his keen eyes tracking the faint visual disturbance pelting down the hall.
+
+Agent Reeves made a snap decision. He activated his augs. Despite protocol for full augmentation shut down, Reeves habitually only put his into sleep mode. Reactivation was lightning-fast compared to a full shutdown. His HEKIAs snapped open and he fired his weapons, full auto, into the fleeing phantom.
+
+Can’t let him reach the Air Gap! Reeves thought, justifying his protocol breach and extreme countermeasures to himself. His high-velocity kinetic rounds speared down the hall, piercing the digital chameleon. The bullets disrupted the cloaking action of the thief’s smart suit as they ripped through him and shattered the foam-core walls beyond.
+
+The phantom was revealed, a grey masked skinsuit. The man’s form staggered down the hall; determined to reach the exit. Agent Reeves hurtled across the hall at augmented speeds. He tackled the figure as it reached the door and slammed it bodily into the wall.
+
+Reeves punched the thief with a fully powered roundhouse punch and staggered as the form collapsed. The fabric tore as his punch passed through it embedding his fist into the wall. Reeves staggered back to his feet, thrown off by the lack of resistance. He grabbed hold of the suit, inspecting it quickly.
+
+The whole back of the suit had torn open, shards of smoking programmable matter fizzed and collapsed inside the suit. Reeve’s eyes settled on the bright red thumb drive in the smart suit’s deflated hand.
+
+“Holy shit. That’s the neural lock code drive! He almost made it out the door with it. Fuck.” Tyrel breathed in excitement. With a grim smile, he hauled the remains and evidence down the hall. He knew he’d catch some heat for having his aug on standby, but this should counterbalance it and then some. He stalked down the hall. Shu was still on the ground, his nose bleeding.
+
+“Good work, Shu. You slowed him up enough for me to catch him.” Reeves said.
+
+“What happened Agent? Where is he? Did he get away?” Shu asked.
+
+“No. Fucking bugger must have been a low-end AI or daemon driving the smart suit. The bastard self-destructed when I cornered him. But he didn’t get what he came for. That’s what matters.” Tyrel said, holding up the red flash drive.
+
+“Go to the bathroom and clean yourself up, kid. You’re bleeding on the carpet. I’ll get this back where it belongs.” Tyrel said and entered the core offices with his prizes.
+
+Intern Shu bowed slightly and wiped his nose on his sleeve. He picked up the trash and hurried down the hall toward the Faraday cage’s exit, the so-called Air Gap. He discretely opened the trash bag and felt the weight change as the stealthed micro drone, housing his friend Yingmo, flew into it.
+
+“[Perfectly executed, buddy. Although, I’m sure ya could have passed me the damn key without breaking my goddamn nose.]” Gabriel/Shu said using his encrypted low-power link to Yingmo.
+
+“[The switch and pass were 98% optimal. My apologies for the damage. I calculated a 31% improvement of concealing the pass-off under cover of our collision.]” Yingmo replied.
+
+“[Now we just stroll outta here, and I can get that shiny new tech Bill is developing. Dat’s going to make jobs like dis like takin’ candy from infants. Done deal.]” Gabriel said.
+
+“[Please remember my fee for this endeavor, Gabriel. I’ll be far more effective in the future if my neural lock is removed. I do have one question regarding the job though. How did you get the full biometrics for Intern Shu Xin Liang? Did you terminate him?]” Yingmo asked hesitantly.
+
+“[Naw. I don’t play like dat, bud. This missing Shu is relaxing in the Fiji Islands now with a brand new identity and an all-expense-paid augmentation training program. When I showed him the statistics for internal Agent promotions and made my offer, he was eager to give me everything he had. After tonight, it’ll be like Intern Shu Xi Liang never existed.]” Gabriel said, chuckling internally as he left the building. He even waved goodbye to the Security doorman, Vance, as the door closed behind him.

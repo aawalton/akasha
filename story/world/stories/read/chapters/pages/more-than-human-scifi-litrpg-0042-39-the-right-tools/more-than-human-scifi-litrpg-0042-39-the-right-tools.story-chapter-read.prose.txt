@@ -1,0 +1,229 @@
+Max woke up groggy again. The last couple of days had been a non-stop grind. While he was spending almost 16 hours a day in “bed”, that time was split between helping Mira in the Mythic Realms VR to help build her commissioned playable characters and Dream Learning. The Dream Learning sessions had finished his tutorials in the Nano Craft platform and designing devices using advanced building technology. Both activities were time-compressed so his last few days felt to him like weeks of intensive classes.
+
+He awoke with images of the nanomachines fresh in his mind. Having completed all the tutorials in the virtual nanofactory, he could now easily understand the basic elemental structures involved in nanomachines. He had learned how to build molecular components from atoms up. He had just completed a review of the many prebuilt molecular modules available. Those modules performed all the basic functions like energy conversion, storage, structural strength, and dynamic motion.
+
+I wonder how much of my understanding is from the uplift's genetic modifications and how much is computer assistance from my neocortex module, Max wondered. I guess it doesn’t matter, both together are the new me.
+
+His first crafting attempt was ready for building in the home matter compiler. Both Mira and Casa had provided a lot of input and help. They showed him how to find similar devices on the MakerIndex to get a foundation for his concept. His device was largely a knockoff of an advanced climbing assist harness but with tons of refinements for use as a weapon. The final product was unique and truly his creation, but the guidance learned from the publicly available designs helped him immensely.
+
+While his body was fresh for the day, his mind felt like a wet wrung-out towel. Max knew he would need a break soon. The tournament was only a couple of days away. His skills had grown again and again, and he needed to get as close to peak Novice as possible without breaking into the Adept stage. The crafting tutorials had helped him grow his lagging mental stats and skills and finally unlocked a crafting quest.
+
+Max’s friends were on their way over. Today might be their last training session before the tournament. Mira had promised that everyone’s crafting would be completed for the tournament, so the team had arranged for today to be a group reveal. He accessed the Netherlab’s compiler and then sent his device’s plan to it and executed the build, so it would be ready when they arrived.
+
+[N_Craft file: GPLR1 queued in NL1 Matter Compiler. Scanning_Scanning_Scanning]
+
+[No restricted designs configurations detected.]
+
+[No MakerIndex License detected.]
+
+[Build initiated. Build Time remaining: 44 min 13 sec]
+
+Quest: NanoCrafting 101 – A utility device completed, 100 XP awarded, +1 to Skillz]
+
+[New Quest: NanoCrafting 201 – design a unique offensive or defensive device]
+
+Max blew out a breath and smiled. Leah had been a little upset at both his and Charlie’s acquisition of the Skillz ability. Now she would likely have it as well. He imagined she must be doing a victory dance right about now if she was compiling her device for their reveal day.
+
+He called up his status screen.
+
+[Name: Max E. Mitchell Level: Novice 10 (4700/5000 XP)]
+
+[Body Design Model: Custom – Canis Familiarus Uplift Free Stats: 0]
+
+[Strength: 86 Agility: 38 Endurance: 45 Vitality: 46 Energy: 164/172]
+
+[Perception: 37 Intelligence: 42 Will: 39 Regen: 85/min]
+
+[Body Skills – Claws: 8 Strike: 9 Stun: 7 Shock: 3 Leap: 9 Armor: 2]
+
+[Body Skills – Balance: 8 Gymnast: 9 Speed/Reflex: 10/3 Ballistics: 4 Poison:1]
+
+[Body Skills - Hulk: 1 Gland: 5 Stamina/Tireless: 10/4 Oxygen: 4]
+
+[Body Skills – Skin: 9 Unbreakable: 8 Painless: 7 Healing/Regeneration: 10/7]
+
+[Resist Skills – Shock: 10 Sonic: 9 Light: 9 Heat: 4 Cold: 3]
+
+[Resist Skills - Poison: 10 ANDD: 1 EMP: 9 Neural Scaffold: 6]
+
+[Sense Skills – Scent: 9 DigiSense: 9 ExaVision: 5 EM Fields: 6 EchoLocation: 2]
+
+[Mind Skills – AI Assist: 9 Identify/Analyze: 10/6 OverLayer: 8 Access/Hack: 10/6]
+
+[Mind Skills - Language: 3 Pattern: 9 Dream Learn: 9 Bastion: 8 Memory: 8]
+
+[Mind Skills - Fast Cog: 7 Daemon: 3 (Musashi / Boone / Sherlock/Open)]
+
+[Mind Skills - Skills: 2.0/0.93/0.0 (*Swimming, NanoCrafting*)(Katana 0.93)/(OPEN 0.0)]
+
+[New Skillz options available: Kempo, Blocking, Electrical Systems, Nanosystems, Drawing, Horse Riding, Meditation, more?]
+
+Max appreciated all the recent advances. His [Speed] skill had capped with his work against the Casa bug swarm and obstacle course. He still wasn’t as fast as Leah, but he was closing the gap. His [Shock Resistance] resistance had capped as well. It had evolved to give him the [Shock] attack skill, finally.
+
+He had massively trained up multiple stats with all the VR training and learning. His training with Charlie and Miyamoto here and at the Wuxia dojo had almost capped his katana [SkillZ]. He quickly added a new Kempo learning to his Skillz list. It was too late to train much, but every extra advantage would help. He shook his head; he hadn’t realized he had a new slot for a daemon until just now.
+
+Hmm, if crafting and puzzles are going to be a focus for the Adept stage, I’ll need someone specific. I’ll ask around before making any decision there, he thought to himself.
+
+All his resistances were close to capping, but his number one priority was EMP. Now that he knew Tyler’s weapon had an EMP weakness, he wanted that skill to evolve into an EMP attack most of all. This last training session needed to be targeted. He only had another 300 XP until he graduated to the first level of the Adept stage. With a thought, he asked his Trainer AI a question.
+
+“[Trainer: Is there a way to lock down skills that I don’t want to advance right now?]”
+
+[Trainer: The system does not enable the user to restrict advancement.]”
+
+Max frowned at the answer and then another text window popped up.
+
+[AI Assist Skill +1, AI Assist Skill reaches 10: Skill capped 100 XP awarded]
+
+[New Mind Skill Unlocked: AI Companion 1 – Training subAI may be enhanced to higher cognition levels and personality customized, merged with another subAI/daemon, or awarded 1 commercial subAI from the MarkerIndex.]
+
+[AI Companion selection: (Customize) (Merge) (Purchase) ?
+
+“God damn it, Son of a Bitch! I needed that XP space for resistance capping! Shit! Shit! Fuck!” Max exclaimed. He groaned with regret.
+
+“Now I only have 200 XP left until Adept. Damn! I can only do the EMP training and that’s it. No room for any more caps or quests, no buffer against accidental caps. Gahhh! I need to be super careful. I have a lot of stuff on the edge.” Max whined.
+
+“[Trainer: Can I wait to pick the AI Companion option?]” Max asked.
+
+[Trainer: Affirmative. AI Companion selection deferred. No advancement to this skill will be possible until selection is confirmed.]
+
+This skill was super important in guiding his advancement, but it wouldn’t help him in the tournament. He needed to avoid quests and capping that might tip him over the edge and disqualify him from the competition. The real trick was advancing all the skills to the very edge. Once the competition started, advancements during the event didn’t matter. He expected everyone was probably going to come in with multiple skills ready to evolve. His frown was tight as his low growl escaped his control.
+
+Quests, he thought.
+
+[Quest: Advanced Obstacle Course – Adept stage only]
+
+[Quest: Ready to Rumble - 2 of 20 complete]
+
+[Quest: Sharing is Caring – 4 skills opened due to crafted training for others]
+
+[Quest: Nemesis – Defeat Tyler Ericson for x20 XP multiplier award]
+
+[Quest: Grand Oaks Mystery – uncover the secret of the Grand Oaks]
+
+[Quest: NanoCraft 201 – create a unique offensive or defensive device]
+
+Max growled in frustration seeing the list again. Sherlock had pushed so hard to investigate the forest, to uncover more clues about the Tesseract's missing time, that the system had formed a quest for it. Normally, Max would have been elated but now he couldn’t go into the forest for fear of breaching the XP limits before the tournament.
+
+Only another day and the tournament will be over, then I can investigate like Sherlock wants. Max gritted his teeth. He doubted any of the answers they found would help Casita, though. He thought finding the device would have resolved everything. He didn’t understand why the Tesseract wouldn’t connect. With his new understanding of nanodevices, he appreciated the complexity of the device, but those repair bots should have finished fixing it long ago.
+
+Max ran downstairs, he had “slept in” and it was late morning. He had time for a meal before his friends arrived. Maybe he could even get in another session against the Casa swarm. This time the swarm would be outfitted with only one special attack, the EMP pulses. He needed that evolution!
+
+“Casa?” Max called out as he entered the kitchen. The silence was unusual. Casa, this fragment of Casa, had been slowing down without her custom core’s special architecture. Her habit of trying to keep multi-tasking had made her distractible and absent at odd times, pushing the commercial neural core beyond its capabilities.
+
+Max accessed the kitchen compiler and set it to fabricating his favorite, a huge English-style breakfast of scrambled eggs, toast, bacon, and hash browns. Max mused about the new limited Casa fragment. He had tried to arrange for a meeting with his friends to visit the Grand Oaks, but Casa had been tracking him and called. He made an excuse and canceled the expedition. He needed her distracted so he could make a discrete visit to use Sherlock and investigate more. She was much more limited when using the commercial neural core, but still had a knack for keeping an eye on him. After the tournament ended, he would need a distraction.
+
+Max had been making a habit of keeping his access skills engaged with as many devices as he could. He tweaked his smart clothes. It was already an active access point; so he changed it from PJs to some jeans and a sweatshirt. He accessed the wall screen and set it to scrolling news from the Mythic Realms forums. He found that he was quite enjoying helping Mira, although the speed run was not as fun as the adventures could have been.
+
+The gnome mage character he was training up for Mira was still struggling to learn the glyph enchanting system. It was easily as hard as the nano crafting lessons. Learning both at the same time was pushing his limits. Now that he had his first nano-crafting project done, maybe he could focus on the game’s magic system. Max downed his meal while reading the forum's tips and tricks for better glyphs.
+
+Max finished and put his plate in the matter compiler and programmed it to disassemble the food scraps and the plate. The silence was unnerving. Max accessed the house’s external eyes and property sensors. The neighborhood was calm; a cloudy day with a hint of storms coming. Finally, Max accessed Casa’s core directly.
+
+“[Casa? Everything okay?]” Max asked.
+
+“[Oh my, Max, you’re awake? I’m so sorry. I was doing a deep scan of the tesseract.]” Casa explained.
+
+“[Any progress?], Max asked.
+
+“[I’m not sure. The repair nanobots aren’t visible anymore, even with a deep scan. The dimensional shift across the anchor obstructs the scan too much to be able to see inside. The power draw has finally stepped down by 10%. I was hoping that meant the repairs were finished, but that was a day ago.]” Casa said.
+
+“[Damn. If something does change, make sure you interrupt me, no matter what I’m doing. Ok?]” Max said.
+
+“[I promise, Max. By the way, your dad is all done simulating his next build. As soon as he rounds the Moon to the dark side tonight, he plans on triggering his fabrication of a Tesseract 2.0 prototype. I hope he and I will be able to figure out how to save Casita once we have another active pocket space generator.]” Casa said.
+
+“[That’s good news. This waiting is killing me. I can only imagine being trapped on the inside. If Casita didn’t power down, she must be bored out of her mind.]”, Max said. Max remembers his newest skill. He needed some help making that decision.
+
+“[Hey Casa, I’ve got an important question. My AI Assist skill just evolved into AI companion. I can customize the trainer AI, merge one of my daemons with it, or purchase an AI. Any advice you can give me?]”
+
+Casa stopped her analysis of the Tesseract to focus completely on Max’s question. Her earlier analysis of the program had dropped some interesting reviews on this feature. She ran a dialog tree through a filter that would simulate the Trainer AI’s censor, so she could avoid triggering it.
+
+“[That is a difficult question, Max. From the literature and reviews I’m allowed to share with you; I can say this, the customizing feature is good but it’s a one-time event. Many people have reported that the customizing process didn’t yield a compatible personality.]” Casa said.
+
+"[Merging with a daemon or other AI is a delicate process,]" she continued. "[You should always consult with them, as some may struggle with expanding their capabilities or have programmed restrictions. Full citizen AI, due to their autonomy rights, cannot be chosen for this, so only subAI, daemons, and lower-level entities are permitted.]"
+
+Casa paused for a moment, gathering her thoughts. "[There are several commercial subAI designed for this purpose. One is called Commander Atlas, known for its historical drill sergeant approach, with excellent reviews. Then there's Serenity Sophia, a nurturing AI that guides users with positive reinforcement. HoloLeo is a recreation of Leonardo DaVinci, said to be both humorous and informative. The options are quite diverse.]"
+
+Max appeared deep in thought, his brow furrowed. He focused on his daemons, Miyamoto, Boone, and Sherlock, who soon materialized avatars beside him. He had a brief fast time discussion with them before snapping back to the conversation.
+
+"[Sorry, Casa,]" Max said, "[I was just consulting with these guys. Miyamoto is open to the idea but admitted he lacks knowledge beyond tactics and swordplay. Boone declined, finding satisfaction in being a guide but not wanting to take on more. Sherlock, unfortunately, has licensing restrictions preventing him from merging. But wait, I just had an idea. Casa, you've been with me since I was less advanced. Would you consider it?]"
+
+Casa froze, her feelings for Max conflicting with her current fragmented state.
+
+"[Max,]" she replied, her voice tinged with sadness, "[You mean the world to me. However, merging with your trainer would likely alter me irrevocably. Residing in your neural core would mean abandoning my custom core, which I now understand is a vital part of me, not just an empty shell. I'm sorry, but I don't believe it would be a wise choice.]"
+
+Max’s rising hope crashed. He shrugged and nodded in understanding. "[Alright, no worries. It was just an idea. I’ve got to get ready. Soon my friends will be here for the crafting reveal, and I need a quick bout with the swarm bots at the Lab before they get here. Can you let them in when they arrive? I'm eager to see what they've created]!"
+
+The trio assembled in the NetherLab, Both Casa and Mira’s avatars were waiting for the event in the Lab as Max spoke.
+
+“Casa, should we rename the Lab? The floor space is more training than anything else. I wouldn’t want to trigger any trademark fights, but I think that the X-men’s Danger Room is certainly a good name.” Max said.
+
+“How about NetherLair, instead of NetherLab? Disney is no joke. They own half of the ThousandWorlds VR space. I don’t want their AI Legal team after me. The House of the Mouse must always be feared.” Casa said with care and a touch of fear. The Disney behemoth had only grown in power over the years and trademark was a touchy subject. Mira’s avatar snorted. Her family loved the Disney collection to the point of reverence.
+
+Both Charlie and Leah grimaced at the exchange, eager to get past the discussion and show their work. Charlie had his old and trusty polymatter weapon slung around his torso with no extra packages in evidence, while Leah carried a small box.
+
+“Right. Ok, ok, ok! Who gets to go first?” Max asked. Leah and Charlie both smiled, and Leah said.
+
+“You’re hosting and your sister helped us all so much. We talked earlier and agreed you should go first.” Leah said, waving him on. With a smile Max bounded to the matter compiler and opened the door, a tidy packet of smart fabric sat in the middle of the build chamber.
+
+“One moment,” Max said, as he quickly donned his device. It appeared to be a skeletonized and belted jacket. He quickly put it on and tightened it in place with it securing waist and wrist straps, he turned and faced the room.
+
+“Hmm. I need a good target, Casa. Can you summon some from the sparring room?” Max asked.
+
+Soon enough a motley collection of training aids filed into the room. A couple of sparring mannequins, a mining bot that resembled a mini tank with a remora mouth, a collection of swarm hornets with bands representing their special attacks, and Casa’s black and gold battle mech. They all lined up ready for action.
+
+With an evil grin, Max said the line he’d been ready to use when he first thought of this device. With a deep baritone yell, he shot out both hands.
+
+“Get over here!” He yelled.
+
+His swift arm motions had shot a pair of silver claws from recesses at his wrist. Both impacted the mining bot; one impaled its side while the other latched onto the lip of its “mouth”. With a swinging motion, he yanked back, and a thin silver line that was attached to both claws stretched tight and then the mining bot (about the size of a large pig) flew through the air. Max caught the bot’s uncontrolled flight, impaling it again using his claws, and delivered a shocking finisher with his newly acquired energy transmission touch. The damage from the multiple attacks was too much for the mech and its head and torso burst in a rain of parts and fire.
+
+The room was silent except for the sounds of electric discharges grounding out until Mira’s avatar projected sounds of her lightly clapping.
+
+“Flawless Fatality!” Mira said. Casa screamed her applause while both Charlie and Leah looked puzzled.
+
+“I guess not everyone is familiar with classical movie media.” Max grinned.
+
+“No.” Charlie said with a look of distaste, “I get the reference and I also appreciate the device. It’s going to be awesomely useful. But I realized just now that we are probably going to have to hear that catch-phrase hundreds of times when we are delving into the Labyrinth.” Leah’s look of shock and horror at the statement made the whole room erupt in laughter.
+
+After the room settled, Leah stepped up and opened her box. It contained two hand-length tubes, each mounted on a gel-like pad of smart matter. A layer of small clips filled the bottom of the box, each row had different color bands circling them. She affixed each onto the backs of each of her hands, the protruding barrels lined up with her extended index fingers. She clipped a red cartridge into her left-handed barrel and a blue one on her right.
+
+“Casa, can you have the mannequin and sym-hornets attack me?” Leah asked, calmly standing tall with her hands down. With a nod from Casa’s avatars, the mannequin charged while the hornets scattered to encircle Leah.
+
+Leah dropped into a crouch, her left arm extended toward the mannequin. Her finger touched the metal ring at the end of the barrel on that hand. The barrel let loose a rhythmic coughing eruption. Red darts stitched up the length of the robot’s torso, each exploding just a moment after impact.
+
+As the humanoid robot’s pieces were blown apart, the hornets dove. Leah’s [Reflex] and [Gymnast] skills activated as she cartwheeled and flipped away from the bugs. Mid-flip her right arm extended, and a series of coughs followed. As a dart embedded into each of them; the bugs short-circuited and dropped to the floor.
+
+Leah landed back where she had started with perfect form and bowed. The room applauded again and Max barked his approval.
+
+“I am a devotee of historical fiction as well. This particular device never made it to the movies. My Sifu is somewhat ancient and one of her favorite novels was called “The Man Who Never Missed” by Steven Perry. When she lent it to me, it became my favorite as well. The main character Emil, used a weapon like this, called a Spetsdod. I’m not sure what language that is, but it means point-shooting. With my Ballistics and Ricochet skills, I don’t need the decades of training, that he did, to attain a level of mastery. The augmentation skills make this easy.” Leah explained.
+
+“That was so much more impressive than your slingshot,” Charlie exclaimed. “Those cartridge colors are different effects?”
+
+“Good eyes, Charlie. Yes, the red are explosive darts. The blue are capacitor shock darts. The green have a paralytic agent and the black are armor-piercing darts. No gunpowder is needed, rail guns along the barrel with compressed gas in the shot does all the acceleration of the dart. When using nanotech, the power available in both are magnified to easily match the needs of the Spetsdod.” Leah said.
+
+“That weapon totally suits you, Leah,” Max said. “Alright! Come on, Charlie. Your turn.” Groaning, Charlie rubbed his hand through his short-cropped hair with a bleak look.
+
+“Alright then. I really should have gone first. Both of you are way more creative than me. Casa, maybe set the other mannequin to attack me? Just looking at your war mech and I can tell my weapon ain’t gonna scratch it.” Charlie said as he unslung his poly-form weapon and shook it out to to form its katana configuration.
+
+A last mannequin marched into the center of the room and squared off with Charlie. It pulled a sword form of smart matter from its back. They bowed to each other, and both stepped into formal guard starting positions.
+
+After a series of warm-up strikes, Charlie performed one of his favorite combination attacks. A cross strike that defected the bot's blade and, before it could pull the blade back, Charlie reversed his grip into an under-the-arm stab. Energy erupted from the blade as it struck home. The bot was thrown across the lab and broke apart on the far wall.
+
+“It’s not much, but it’s honest work,” he said with a smile.
+
+“Stop being so humble, Charlie.” Mira scolded and continued.
+
+“He adapted his poly form weapon to incorporate my Conduit Blade design. That design has a hot mess of moving smart matter inside to enable form shifting while retaining structural strength. Charlie managed to fit in both extra energy storage and conduction paths for each weapon form. In addition, he patched the EMP flaw that my design had. His design uses the shock skill before attacks to build a stored charge in the weapon. Once discharged, he needs to restore the power, but the user doesn’t have any blowback danger if a well-timed EMP is triggered.”
+
+“Holy crap, Charlie. That sounds like your design was super difficult.” Max said.
+
+“I've grown very attached to this weapon. I’ve even given it a name finally. How does Ohm’s Razor sound?” Charlie asked. Charlie grinned at the chorus of groans.
+
+“How am I going to survive the Labyrinth with these two? The poor jokes and puns will drive me insane far before the dungeon can get dangerous.” Leah complained.
+
+“Alright, you bunch of slackers. Get into the sparring room and work out with your weapons for a bit. It would be a big mistake to take an untested device to the tournament. Chop chop.” Mira yelled.
+
+“Tonight will be the last night for our Mythic Realms speed run. Tonight's exploit will finally get the group to level 10. Two hours only, then I’ll see you in my Tavern lobby.” Mira said as her avatar faded from view.
+
+As Max ran to the ring for swarm combat, he called out to Casa.
+
+“Casa, can you make sure I only have EMP hornets? I need to work on that one only.” Max smiled as the group ran to the mats with more confidence than ever.

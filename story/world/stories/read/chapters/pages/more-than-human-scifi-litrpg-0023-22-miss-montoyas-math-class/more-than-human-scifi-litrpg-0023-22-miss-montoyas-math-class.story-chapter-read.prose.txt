@@ -1,0 +1,223 @@
+Julia Montoya was enjoying her 2nd career at Utopia Elementary as a math teacher for the 3rd, 4th, and 5th grades. She was born into an upper-middle-class family in the busy metropolitan New York City in 2080 and grew with every advantage of the world’s advanced technologies without seeing the strife from the Ought Fifties.
+
+Her favorite daemons growing up were a historically accurate Archimedes, a created mythical figure of Athena, and an accurate representation of Sir Isaac Newton. They had helped her learn about the beauty and application of math. Julia frequently enabled an augmented overlay on her vision to project mathematical relationships and notes about the world around her constantly.
+
+Julia avoided aggressive uses of her physical augmentations preferring to operate and engage with mental skills and she quickly advanced to a Ph.D. equivalent education in number theory and encryption and applied quantum theory. Despite her skill in understanding advanced math and applying it in connection with leading researchers, she quickly burned out. The pace of advancement fueled by augmented geniuses with adaptive AI was enough to give even a prodigious talent whiplash.
+
+She had needed a breather from the continuous drive of trying to compete. Instead of diving into virtual worlds and living off the basic income stipend like so many disillusioned people who felt lost in the new world, she instead sought out another way to contribute. The town of Utopia was her refuge and passion. Here she was able to relax and reconnect with her love of math without being driven by the forces of academia and commerce.
+
+Miss Julia used her knowledge of math, and her capable daemons, to share her passion and the beauty of math with the next generation. In her class, she taught basic math, geometry, algebra, and more advanced topics including recursion, calculus, and especially cryptography. With the common adage that math was not required in modern life, she strove to show that math was both beautiful and impactful for anyone, and she made sure her students knew this as well.
+
+While the kids did not have their augmentations active yet, the school room and their homes were well equipped with hologram projectors and AI assistants. Many of the students boasted houses of smart matter and matter compilers, although some extravagances were frowned upon by many of the more conservative technophobes on the reservation.
+
+With these tools, Julia and her daemons excelled at teaching her kids more and more advanced subjects. The real value Julia tried to attain was to show them the wonder of the world around them as seen through a mathematical viewpoint. She delighted in breaking from rote learning to have physical labs to show the uses of math that would appeal to the kids’ age groups.
+
+Today was such a day, her daemon Archimedes’ avatar projection was the center of attention. The AI was a really good storyteller with a jovial manner and his use of the hologram projector to show his work had the kid’s rapt attention.
+
+Archimedes: Good morning children! Today we are going to talk about a very special number called "pi".
+
+Tommy: What is pi, sir?
+
+Archimedes: Pi is the ratio of the circumference of a circle to its diameter. Do you understand what "circumference" and "diameter" mean?
+
+Viviane: The circumference is the distance around the circle, and the diameter is the distance across the circle through its center, right?
+
+Archimedes: Exactly! Well done, Viviane.
+
+Lebron: But how did you find the value of pi, sir?
+
+Archimedes: Ah, that is a good question, Lebron. I used a technique called approximation. I drew a polygon with many sides inside a circle, and as I increased the number of sides, the polygon became more and more similar to the circle. Then, I measured the circumference and diameter of both the polygon and the circle and used these measurements to get closer to the value of pi.
+
+Tommy: That's cool, sir! How did you know that you were getting closer to the right answer?
+
+Archimedes: I kept repeating the process over and over again, and each time I got closer and closer to the right answer. And with each iteration, I was able to refine my estimate of the value of pi.
+
+Viviane: So, what is the value of pi, sir?
+
+Archimedes: Well, back in my time, I calculated a crude value for pi. But today, we know that pi is approximately equal to 3.14159. We still don’t know the full value of pi because as the increments get smaller, the value doesn’t resolve into a number but continues to get smaller and smaller remainders. Even the smartest AIs could keep calculating smaller and smaller, I suspect until the end of time.
+
+Before the kids could grow too restless, she brought out the next activity, nanofactured balls of low-density diamondoid. The materials had some perfectly spherical as could be attained, and some that were close but subtly ovoid. All the balls were almost as light as air. The kids of course immediately began to juggle and toss them, and their lack of heft and air resistance prevented them from being harmful despite the attempts of the more unruly kids.
+
+With the balls, she passed out laser scanners for the kids to use to find the true spheres. Soon the kids were like a beehive of activity to find and capture the most spherical balls. The scanners would automatically measure the radius and perimeter of the balls and project the reading up against the true value of pi to ten decimals on the board. The exercise usually showed 10 perfect matches and 10 skewed eggs. This was easily discernible with the precise spheres and scanners. This year the results were unexpected.
+
+Today, not one of the balls matched pi, although they came close to within 7 digits. Julie pushed past the unexpected outcome and rewarded the kids with finding the closest matches and explaining the difficulty of both making and measuring the balls with accuracy. As she dismissed the kids for the day, she packed up all the scanners and balls. She would understand why her lab failed to achieve its intended results this year. The kids didn’t realize that the lab went off the rails, but this outcome had never happened before, and she would find out why.
+
+She could run the test again at home. Maybe the files in the Makerspace index were corrupted, she thought, I can print more scanners and balls from another site of public designs in my matter printer at home.
+
+Max woke from a sound sleep and quickly rolled out of his now favorite cloud bed. The last few days were a blur of intense parkour training in the woods and chasing after Flip the squirrel, in the mornings. The afternoons had mostly been attending sessions at Wuxia with Charlie or going to the Academy to practice with both Charlie and Leah against Tatemono’s combat dummies. Max checked his status.
+
+[Name: Max E. Mitchell Level: Novice 6 (2850/3000 XP)]
+
+[Body Design Model: Custom – Canis Familiarus Uplift Free Stats: 70]
+
+[Strength: 14 Agility: 20 Endurance: 16 Vitality: 18]
+
+[Perception: 19 Intelligence: 11 Will: 7 Energy: 52 Regen: 25/min
+
+[Body Skills - Stamina: 8 Leaping: 7 Healing: 8 Strike: 6 Unbreakable:3]
+
+[Body Skills – Speed: 6 Gymnast: 6 Balance: 5 Claws: 2 Ballistics: 3]
+
+[Resist Skills – Poison: 1 Shock: 4 Sonic: 4 Light: 4 EMP:1]
+
+[Sense Skills – Scent: 9 DigiSense: 4 ExaVision: 1 EM Fields: 1]
+
+[Mind Skills – AI Assist: 7 Access: 5 Identify: 3 OverLayer: 2]
+
+[Mind Skills - Fast Cog: 3 Dream Learning: 4]
+
+Max scolded himself. He was still hoarding his free stats against a future emergency. He could be boosting all his stats and using those points to win sparring matches at the Wuxia studios, but now he hesitated to use them. With a sigh, Max put off assigning the points again and triggered the quest screen.
+
+[Completed Quests:]
+
+[Novice Obstacle Course, Novice Obstacle Course improved]
+
+[Born to Run I, II, II ; Scavenger Hunt I, II; Meditation I, II, III] [Ready to Rumble I, II ; Novice Kombat ; Dark Dervish Dungeon]
+
+[Purr-fect Reunion ; Sands of the Hourglass ; Musing on Musashi ; Kintsugi I, II]
+
+[Open Quests]
+
+[Ready to Rumble III 0/20, Meditation IV, Grudge Match, Kintsugi III, Way of the Sword]
+
+The Rumble quest was going well, and Wuxia had provided plenty of new sparring partners. Max had heard that a county-wide martial arts tournament was happening soon. Both he and Charlie had already signed up. They would both be participating in unarmed sparring and custom weapons sparring. Charlie was already well versed in using a sword and was learning the bo staff as well. Max had started learning the basics at Wuxia but has a long way to go. He hoped to find Musashi soon. He was recorded to be the best swordsman there ever was and would be a great training resource.
+
+Even Leah was going as an independent. Meditation was a struggle. Max meditated every night, but he couldn’t seem to advance it. Maybe he could do the Dream Learning skill to find out what he was missing.
+
+The Grudge Match quest was likely going to be forever incomplete. He hadn’t seen any sign of Tyler since he was kicked out of the Aug academy. Perhaps he could tail Marc, he knew that Tyler and Marc still hung out occasionally.
+
+Kintsugi III or Way of the Sword? Max thought, with a laugh he continued, no contest, I need Musashi as soon as possible to help my training. Kintsugi III is scary. I wonder if I should just decline it. Max hesitated to give up on any quests. By his recollection, about 1 in 4 quests generated a new skill and he felt like the Kintsugi quest set was ready to pay off.
+
+Today is sword practice, he thought, If I get the Musashi daemon, then I’ll buckle down and get Kintsugi done. Sitting next to his bed, Max triggered his OverLayer skill and resumed Samurai Shogun. Musashi was waiting for him. As he opened his eyes in the campsite deep in the forests of Okinawa, Musashi was standing above him with a bokken in hand.
+
+“Get up, lazy broken empty cup! Every bandit in Okinawa could march through the forest and you would sleep through it. Up!” When Max was slow to move, Musashi quickly sped him up with forceful pokes and swings of his bokken. When Max finally assembled himself sufficiently for Musashi, he presented him with two buckets.
+
+“Go! Fetch water. There is a stream 1 ri south. Fill the buckets and bring it back. I need tea before I will suffer your horrible form. Quickly! Go!” Musashi yelled. Max grabbed the buckets and ran.
+
+Max found the stream, although it was at least 2 ri south, and returned as quick as he could without spilling the full buckets. He tried to find a stick to use to brace the buckets over his shoulder, but strangely the forest was barren of fallen branches. Max returned and unfortunately for him the superior OverLayer skill ensured he felt every bit of muscle strain. His arms ached as he arrived back at the camp to Musashi meditating.
+
+“Good. Good. Fetch more wood while I warm the tea.” Musashi ordered pointing towards the north. Max jogged around the camp, gathering up fallen branches. When he was loaded up with a large stack of wood, he returned to see Musashi sipping a hot cup of tea.
+
+“Good. Now, come to the clearing and draw your sword. Try to pretend it is a piece of your soul instead of a stick that you wave about.” Musashi directed.
+
+Max laid down the bundle of firewood and followed Musashi to the open area in the center of the camp. Musashi gave Max a bokken similar to his own and began to teach Max the proper way to grip the sword. It was more complex than he had thought. He was taught to grip tightly with his smaller fingers and looser towards his index finger for his dominant hand on a single grip. A double-handed grip was even more intricate. Musashi worked him all day without a break until Max could hold the weapon in multiple stances.
+
+Musashi showed him blocks for many different strikes, calling out strikes and blocks. The daylight waned but Musashi showed no sign of finishing. Sensing Musashi’s regard, Max steeled himself and kept going. The OverLayer made sure he felt every bit of physical discomfort and pain from the exertions and any missed blocks. Max ground his teeth; in the real world, the pain would have translated into stats. Unfortunately, here in VR it only amounted to a test of his willpower. The sun had gone down and Musashi’s form was barely visible in the twilight.
+
+“Now, we will see what you have learned,” Musashi said while he handed Max his katana and pulled his own razor-sharp weapon from his tent. “Defend yourself!”, Musashi warned and exploded into action.
+
+Max was able to block most of Musashi’s strikes but quickly found himself backpedaling. Musashi’s attacks moved swiftly and fiercely, the clash of swords echoed through the clearing and into the night. Max was soon covered in nicks and cuts for every missed block. He knew it was only Musashi’s control that prevented a disabling or fatal cut.
+
+“Stop!” Musashi yelled. “What are you thinking, Broken Cup?”
+
+“I…I am trying to block as you instructed, Sensei”, Max stammered.
+
+“Yes! You should block, but you must stop thinking! Let your body do what it has been trained to do! You are thinking and your body hesitates. You need to leave your thoughts in the void and let your soul guide you. Again!”
+
+Musashi exploded again in furious strikes. The moves were trained into Max's muscles, and he adjusted on the fly without thinking. He blocked and parried with greater ease, even setting up a few counterstrikes. “Yes, much better. You are learning, Broken Cup. For now, we are done. I am sure you are tired, and we will resume our training tomorrow.”
+
+Max bowed. He was exhausted and his joints ached, but now he knew he had learned something important today. He crawled to his resting spot from last night, closed his eyes, and saved the game. When he opened his eyes in his bedroom Max’s notifications triggered and he grinned ear to ear.
+
+[Quest – Way of the Sword – Complete, 100 XP awarded]
+
+[New Mind Skill Unlocked: Daemon 1: augmentation neuronal modules enable additional expert system daemon support personalities, limited to 1 per skill level or 1 per 10 intelligence stat points, whichever is lesser.]
+
+[Shogun Samurai Bonus - You have earned the respect of Miyamoto Musashi. Use rights of the Miyamoto Musashi daemon are granted.]
+
+[Strength +0, Agility +0, Endurance +0, Vitality +0, Will +3]
+
+[Mind Skill OverLayer +1, OverLayer reaches level 3]
+
+Julia waited in the Autopod across the street from the Mitchell property. A week ago, she had taken the diamond spheres and scanners home to check and see if she could determine the problem. She was completely surprised as the 10 near-perfect spheres were now all scanning correctly with pi within 10 digits and all the ovoid balls were clean misses with pi being off beginning at the 3rd digit.
+
+Frustrated with the discrepancy retreating from her, she brought the supplies back to the school. Before putting them away into the supply closet, she checked again. The ball she knew was an accurate sphere was off again to the seventh digit! She checked all the balls and scanners, replaying the pairings and readings from the kid’s lab using her perfect augmented memory. All the reading perfectly matched the kid’s lab results, perfectly wrong again to the seventh digit.
+
+Julia was not known to give up easily. She kept worrying about the discrepancy, until an idea formed, lacking any other obvious rationale, that location had played a role in the error. Julia, with the help of Athena and Isaac, designed and modified a flying drone to spiral out from the school while carrying and continuously using a scanner paired with a diamond sphere.
+
+In her sensorium, a map began to grow. The pi error phenomenon seemed to be restricted to a curved line. The curved line soon resolved into a large circle, approximately 10 miles in diameter. The center of that circle was the house across the street, from where she was now parked.
+
+C'mon, girl! Just go in and confront the people that are twisting the laws of reality. No big deal, Julia thought to herself. Julia was no dummy, she grew up with advanced tech and knew that entering a stranger’s property would put her at the property owner’s mercy. All the smart matter and foglets there would be under the owner’s control, putting her at risk. Julia had to know what was going on, but she wouldn’t go in without some insurance.
+
+“Stay here, I’ll be right back,” she told the Autopod and ran out and dropped a box of old magazines that she had brought with her across the street. Running back to the Autopod, she called the police using her augments.
+
+[Utopia police services, how can we assist you?]
+
+“I’d like to report a suspicious package. I’m afraid to touch it, could you send someone? Can you see my location?”
+
+With the barest of delay, the response came back crisply,
+
+[Of course, Miss Julia Montoya, we see you are currently in Autopod 23-435 at 8070 Forest Street, Utopia. We will send Police Drone WTF-M8 immediately to your location to investigate. ETA is 45 seconds, please stay on the line until help arrives….]
+
+Precisely 45.2 seconds later a police drone dropped from the sky, slowing down a ballistic trajectory from the center of Utopia. It was a sleek black and white single wing design without any sign of primitive propellers or jets. Air was driven through its porous body material with intense energy which enabled it to fly both silently and with incredible speed.
+
+[Miss Montoya, my apologies for my tardiness. Please stand back. You have performed your citizen’s responsibilities admirably. See something, say something as the ordinance states. I will now investigate the reported suspect package.]
+
+The drone floated over to the box upon whispers of air. Four arms deployed and a haze of nano-motes swarmed over it. Three of the arms could have been weapons or sensors, Julia was not sure. Circling the package twice the drone finally dropped in and flipped open the lid of the box.
+
+FML-M8 had done a full scan of the box within 0.23 nanoseconds of its arrival. It was clear that the box contained old magazines and was not a threat. However, upon closer inspection with FML-M8’s superior scanners, it was also obvious that the citizen caller’s DNA was all over the box. The human’s name was even printed on mailing labels for several of the magazines within the box.
+
+In the next 0.12 fraction of a second, he sampled the sky-sat overhead and also pulsed a request to the auto pod for its AV records. Both confirmed that the citizen caller, Julia Montoya, had placed the suspect box on the street not more than 2 minutes ago and then proceeded to call the police. FML-M8 scanned the woman, the nearby house, and the trees. The house was Casa de Mitchell <person of interest> again! If the drone had eyes, they would have narrowed in suspicion. There were also several unlicensed scanners deployed in the trees watching the property.
+
+With a resolute attention to detail, FML-M8 ran a more aggressive scan for the next 0.32 seconds drilling into the box’s contents, material, and molecular structure. Not a scrap of smart matter to be found. FML-M8 considered his case. He ran through every conceivable scenario for this evidence and what crimes could be levied versus the town’s ordinances. Littering, loitering, road hazard, falsifying a report, unauthorized surveillance, collusion with a known person of interest, interrupting scheduled Columbo time, and possession of diamondoid balls that clearly were not perfect spheres. His jurisprudence calculator ran the numbers. Not worth the effort was the conclusion.
+
+The drone beeped and said [All clear, Ma’am. The suspect package appears to be litter. This unit will take the box and its contents away for investigation and potential disposal. Thank you for your vigilance. Do you require any additional assistance?]
+
+“No, that’s alright. I’ll just be going into this property right here to visit the property owners to discuss some important matters. Thank you for your assistance and have a nice day!” Julia said and walked with some confidence onto the property. The drone continued to hover until she was out of earshot down the driveway.
+
+[Humans can be so weird. Am I right?] the drone vocalized in subsonic tones to the Autopod.
+
+[……. Affirmative…….], said the Autopod without feeling, and it trundled away. Police drone WTF-M8 looked down the driveway for a long time ( 0.76 seconds) with a considering gaze, then he did a slow 360-degree rotation, picked up the package, and shot into the sky.
+
+Julia walked down the drive to the Mitchell house, the center of the distortion anomaly that ruined her classroom lab. She passed the gardens and approached the house itself, styled in a modern colonial look with some interesting divergences. Her mathematical overlay was triggering constantly noting the spacing and arrangements of the garden and exterior features of the house. Whoever designed this had an eye for ratios and balance, she thought.
+
+Julia sensed with her peripheral vision that several of the garden “flowers” were tracking her motion and there was some strange activity on the far side of the garden that looked like maybe insects, but the motion was too organized. As she arrived at the front door, she took a deep breath and rang the doorbell.
+
+The door swung open and Julia saw the projected avatar of a young woman with short raven hair in a 19th century dress materialized in the doorway. The projection greeted her with a curious expression.
+
+“Hello, my name is Julia Montoya. And I’m terribly sorry to intrude but I had some questions I hope you can help me with.”
+
+Casa’s avatar nodded and said “Please come in, Miss Montoya. My name is Casa, and I am the house AI. It’s a pleasure to meet a neighbor. I’m sure I’ll be able to help you.”
+
+Julia stepped in, looking around as she did. She noticed in her overlay a spectacular display of math principles in the organization and setup of the house. The living room’s beautiful décor was stunning to her, with hidden meaning and layers of representational math.
+
+“Oh my!”, Julia exclaimed, “your decorator is a genius! So many great features and it’s balanced in such interesting ways. So mathematical.”
+
+Before Casa could respond, Max bounded down the stairway in the entry foyer having just finished a shower after an intense training session in the park with his friend Charlie. He had been training hard for weeks to open his augmentations and was close to breaking through the Novice stage.
+
+“Oh, Hello! Sorry to intrude. I’m Max Mitchell, I live here. Did you say the room was mathematical?”, Max said, wondering to himself if his Kintsugi creation was special in some way.
+
+Julia nodded while assessing Max’s appearance. The mane of curly white hair, projecting nose and jaws, prominent incisors, and claws? He looked like an older teenager, maybe rebelling with cosmetic adaptations in a very conservative town. But all interest in math should be encouraged.
+
+“Yes, indeed. It might be easier to show you. If I might ask a favor of Casa, is it? …could I share my favorite reality overlay with the house?” Julia asked. Casa curtsied with a smile and Julia felt a linkage connect in her mind.
+
+“Over here the walls, windows, and furnishings are all arranged in perfect symmetry” she said waving her hand to paint the room with a projection outlining the mathematical relationships in the spacing pattern.
+
+“That painting on the wall perfectly illustrates the golden ratio,” Julia said. Again, with a wave, she projected the nautilus-like tracings over the painting to show the mathematical divisions. “A marvelous piece, it sweeps the attention around the perimeter and into the main focus of the art.”
+
+With another wave, she continued, “This wallpaper is a subtle fractal pattern, a specific pattern called a Mandelbrot set. The colors are so close in shade that the pattern is almost hidden, almost subliminal.”
+
+“The only object that defies my pattern match algorithm would be that very lovely pot. But even that could be used as an example of true randomness.”
+
+Max smiled at the errant compliment and then beamed as his aug pinged him.
+
+[<ding> New mental skill unlocked: Pattern 1, detect subtle patterns that reveal deeper meaning.]
+
+[intelligence +1]
+
+Julia ran out of steam and Casa took the opportunity to fill the silence.
+
+Casa smiled, “Thank you for the compliments. I arranged the house’s design and have worked hard to ensure it appeals to the residents of the house. I’m sorry to say the owner is away on business today, but maybe I or Max can help you?”
+
+Julia told Casa and Max about the strange discrepancies she had found during her math lab and her measurements, and more importantly that the phenomenon that seemed to be centered at the Mitchell home. Casa was stunned, evidence of function for the tesseract at last! she thought. She realized immediately that she needed more details regarding both Miss Montoya and her test.
+
+“Miss Montoya, may I see the details of your test? The owner, Professor Bill Mitchell, is working on some proprietary technology that I cannot divulge without his approval. He may require an agreement if you want to know more, but your test may be helpful and I’m sure if it is, he would want to compensate you for your work.” Casa replied. When Julia agreed to share the details and signed a non-disclosure agreement, Casa invited her in and summoned some tea and cookies while they all sat to discuss her test.
+
+While they talked, Casa split her mind and pursued multiple pathways. One of her aspects investigated Miss Montoya and her background. Another reconfigured Julia’s jury-rigged drone design and sensor arrangement into a streamlined configuration for a planned fleet of reconnaissance drones with a built-in pi detector.
+
+A third wrote a test protocol to tweak the tesseract settings and monitor the effects for when the recon drone fleet would be ready. Despite being unable to initiate a connection with the Tesseract without Max’s help, she was able to maintain her current one and she had no intentions of letting that slip. She set up a fourth aspect to discreetly investigate the data network news to see if any other effects were evident or if anyone else may have detected changes.
+
+Casa was aware, in the not-too-distant past before he left the planet, that attempts had been made to both recruit and blackmail Bill for his services. Several large design firms wanted to get him working for them. Casa had logged at least two different observers while Bill and his family were here in Utopia. Casa suspected that they may have been investigating Max, as one of the first dog uplifts to be approved outside of government labs. However, she hadn’t sighted them since Bill had left. She hoped that they had given up.
+
+Casa had observed the police drone interaction that Julia had initiated across the street. She routinely monitored the line of sight beyond the property, both on the ground and in the sky. She approved of the clever deception Julia had used to ensure her visit was on the record, for her safety. Unfortunately, that meant any competitors or business suitors may also pick up on the activity or potentially notice the police log records. Such unwanted attention, while Bill was away, was best avoided.
+
+Casa was aware that she had to keep vigilant, especially now that she may have a wedge to open the secrets of the tesseract. She knew that she should contact Bill immediately, but she really really really wanted to be able to show Bill her worth by solving the tesseract first for him. A slight delay, she thought, just enough time to run her tests, then she would reach out and contact Bill with the good news.
