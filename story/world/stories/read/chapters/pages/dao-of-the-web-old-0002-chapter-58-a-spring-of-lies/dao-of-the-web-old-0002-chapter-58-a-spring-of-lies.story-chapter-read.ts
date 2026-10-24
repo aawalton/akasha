@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const daoOfTheWebOld0002Chapter58ASpringOfLies = {
+  id: "01a16c76-f6ed-7399-ab6c-24327fce853a",
+  type: "page-type/story-chapter-read",
+  slug: "dao-of-the-web-old-0002-chapter-58-a-spring-of-lies",
+  position: 2,
+  publishedAt: "2023-09-09",
+  unit: "unit/words",
+  title: "Chapter 58 - A spring of lies",
+  story: "story-read/dao-of-the-web-old",
+  ownLength: 2597,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1337833",
+      externalLink:
+        "https://www.royalroad.com/fiction/68602/dao-of-the-web-old/chapter/1337833/chapter-58-a-spring-of-lies",
+    },
+  ],
+  createdAt: "2026-10-24T05:51:38.220Z",
+  updatedAt: "2026-10-24T05:51:38.220Z",
+} as const satisfies StoryChapterRead

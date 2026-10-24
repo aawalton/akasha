@@ -108,6 +108,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dao-of-cooking/dao-of-cooking.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dao-of-healing-transmigration-healer-xianxia/dao-of-healing-transmigration-healer-xianxia.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dao-of-money-stubbed/dao-of-money-stubbed.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dao-of-the-web-old/dao-of-the-web-old.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dark-lord-left-for-cigarettes-monster-evolution/dark-lord-left-for-cigarettes-monster-evolution.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dark-matter-ascension-litrpg-swordmage-mc/dark-matter-ascension-litrpg-swordmage-mc.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dawn-of-the-last-dragon-rider-litrpg-fully-stubbed/dawn-of-the-last-dragon-rider-litrpg-fully-stubbed.world.ts","typed":true,"deferred":false}
@@ -212,6 +213,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/hyrule/hyrule.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/i-accidentally-became-a-guild-therapist/i-accidentally-became-a-guild-therapist.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/i-just-wanted-to-retire-in-asgard-soft-litrpg/i-just-wanted-to-retire-in-asgard-soft-litrpg.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/i-only-level-up-with-likes/i-only-level-up-with-likes.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/idiots-paradox-a-litrpg-apocalyptic-adventure/idiots-paradox-a-litrpg-apocalyptic-adventure.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/ill-be-the-red-ranger-progression-litrpg-unstubbing/ill-be-the-red-ranger-progression-litrpg-unstubbing.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/illuminaria-litrpg-fantasy-healer-adventure/illuminaria-litrpg-fantasy-healer-adventure.world.ts","typed":true,"deferred":false}
@@ -266,6 +268,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/mass-produced-magic-litrpg-action-crafter-tech/mass-produced-magic-litrpg-action-crafter-tech.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/melody-of-mana/melody-of-mana.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/mercenaries-of-the-apocalypses-system-apocalypse/mercenaries-of-the-apocalypses-system-apocalypse.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/merchant-crab/merchant-crab.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/metaworld-chronicles/metaworld-chronicles.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/metaworld-hopecore/metaworld-hopecore.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/millennial-mage-a-slice-of-life-progression-fantasy/millennial-mage-a-slice-of-life-progression-fantasy.world.ts","typed":true,"deferred":false}

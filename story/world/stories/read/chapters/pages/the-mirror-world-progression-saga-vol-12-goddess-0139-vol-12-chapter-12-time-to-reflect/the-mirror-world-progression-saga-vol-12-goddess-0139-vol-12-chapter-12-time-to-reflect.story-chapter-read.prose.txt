@@ -1,0 +1,89 @@
+Samantha giggled at both Azure and Ana’s reactions. “Azure — not that I’m condoning this per se — but you should know by now that Ana is special even among oracles. Expect miracles every hour in her company.”
+
+Azure, shaking her head, leaned back and threw up her hands with mild exasperation. “Like mother, like daughter, in that case!”
+
+Mother and daughter shared a smile at that. Somehow, she knew Ana felt it.
+
+With a huff, Azure rose, pointing her finger sternly at Ana. “We’ll leave if you promise you’ll rest, and not force yourself awake again!”
+
+Ana, eyes downcast, nodded. “Yes, Mother.”
+
+“Save your strength as much as possible, Ana,” Samantha said as she floated upright. “When the stony boys return, we need to be ready.”
+
+“Yes, Mother.” Momentarily, Ana lowered herself back into a lying position and closed her eyes.
+
+Exchanging a silent, amused glance with Azure, they began mutually exiting, though not before calling, “Love you!”
+
+“Love you, too. See you soon.” With that, Ana turned on her side.
+
+Outside the room, Azure held up a finger. “By the way,” she began, as she pointed to her necklace, “I know mana capacity is an issue, so before we forget, you might want to redo these, hmm? We’ve leveled since the last calculations.”
+
+“Ah!” Samantha exclaimed. “Good point. What would I do without you?”
+
+Azure had a pleased, smug look. “Wallow in misery?”
+
+“Indeed!” Taking Azure by the waist, she began flying at high speed through a window to get to her research chambers the quickest. “Let us away, to do so forthwith!”
+
+“Gah! I hate it when you do that!”
+
+“Pfft! You love it.”
+
+“That too.”
+
+Momentarily, they attuned the necklace again, which involved the calculation of base arcane spellcaster classes added up between them. Before, it was 12 and 10, but now it was 16 and 13, so the MP battery improved to a total of 203 for each necklace. Generally, Azure didn’t bother using hers to save it for her wife, who got the bigger bang for the ‘mana buck’ in the equation, so to speak.
+
+While she was already thinking of it, Samantha put on the newest Zephyr provision for high temporary mana items, which could be combined with a regenerating MP item without penalty. Though they had a system of changing out mid-tier ones during a protracted battle — which they had in abundance — using them more or less preliminarily to her own mana pool, she had commissioned the Brain Trust to fashion a strong, actual backup to keep. She wanted them to make the best one ever, essentially.
+
+Zephyr had been outdoing himself on this again and again lately, and finally he’d been able to incorporate a modification from Tashome with his new arm. Samantha had not quite gotten to putting them on, saving them for the battle as she was.
+
+Thinking of them, though, she couldn’t resist. She retrieved the case and opened it, revealing two beautiful earrings saturated with mana. They were hanging crystalline wind chimes. She gasped and then laughed as she saw them. It was a bit ridiculous, after all. She’d be swooping around, slinging out murder-magic, and here were these dainty-looking earrings jingling around. When she picked them up and jingled them, though, they made no sound.
+
+Each had a capacity of 333 MP, a value unheard of and certainly at the artifact level. Of course, no one had the resources to ‘waste’ on a temp mana item like that. If you were going to make a priceless artifact, after all, you’d want something quite permanent. But these were entirely temporary. They couldn’t be recharged and would likely shatter once expended.
+
+When you’re on the final lap, it doesn’t matter, after all.
+
+Samantha took out her prior earrings and replaced them. The old ones were her creation, so she put them on a shelf as a display piece. While she was at it, she also put up the ‘ancient,’ never-used ‘Potion of Seal Major Wound’ she’d collected dust in her storage with, too. There was no point in having it. She planned on taking two of the best super-regen potions of Galahad & Company with her, and they were far stronger. They’d been stocking them up lately for the coming battle, like everything else.
+
+Final inventory shit she left for later, though. She had to get back to the spell.
+
+Azure took her leave to handle up her various new duties that demanded her attention, as Samantha dug back into spell design. Countermage summons. Even the idea was exciting!
+
+Her idea quickly pivoted to reflection potential thanks to the power added to this concept, which Mirrors FE infusion provided. That gave her the concept, too: a more physical manifestation of Resemblant-like entities. Reflections, mirror-beings who could absorb spells into their facets, and potentially redirect them if the comparison was beaten enough. With the prolific spellcasting the enemy would be doing, they’d have constant fuel, something the Counter Crew frequently had problems with. Considering the battle had only gotten bigger in scope, it would be quite beneficial.
+
+After the concept came, the rest fell in like clockwork. She included the idea to squeeze the total value by creating a ‘maximum number’ of the beings in excess of just one casting. Whether she’d max it out in the end, she wasn’t sure.
+
+Nothing would make them innately durable, so she focused on dodginess and speed. Her cleromages and Resemblants could add synergistic Hard Light layers as effective wound negations. She made a note to Jeeves to prioritize this when she was ready to cast the summon.
+
+It seemed to cover all bases of the weaknesses of summons. First was the nigh-universal, ubiquitously-used summon dismissal the Dominion would have on tap… countered by the Pentagram function. Then there was the dispel issue… countered indirectly by a plethora of special resistances, and a last-ditch sacrifice via the Pentagram. Single-target magic? Absorption and potential reflection. AoE magic? Disruption via their specialty just the same, and, if not, wound negations. Physical attacks? Dodging and wound negations.
+
+In essence, they’d be as hard to deal with as a non-summon elite, which was quite scary from one spell. But such was the power of maximum-powered custom spellcraft delivered by the Goddess of Magic.
+
+She was also able to distribute the ‘+25%’ bonus from her Conjurer specialty into the general power output of the spell, making such a specialty particularly great for a [Magineer] — hardly surprising. Absurd benefits came from tying values to ‘significant’ static numbers, as well, so she went for it.
+
+Her final tweaking had to do with the most laborious effort of all: artistic definition. For this, she drew significantly on her creation of ‘Dancing Stick,’ or ‘Dancer,’ her identity in Shadowset. Layers of the reflections of many wizards, sorceresses, shamans, and other spellcasters layered over each other in a mixed-together tableau or pastiche medley, bound into loosely humanoid form as many broken shards, constantly shifting. They would mix together with both clear and distorted actual reflections of the world around, in a mesmerizing fashion.
+
+On a whim, she gave them butterfly wings. How could she resist?
+
+It was not a simple spell by any means, and took more time than she’d wanted to get right, but she got it done.
+
+Reflections of the Mage (3333 MP, plus 7 Mirrors, Illusion, Fate, Light, Pneuma, and Magic FE per Reflection)
+
+(Level 16; Conjuration, Summon, Abjuration, Reflection, Mirrors, Fate, Pneuma) Summons up to 33 ‘Reflections,’ fast, flying entities specializing in countering and dispelling arcane magic via absorption and reflection. This capacity has inborn limits and involves a comparison test, but can potentially affect any arcane spell regardless of level.
+
+Each Reflection can absorb up to 33 hypothetical spell levels. They must make a comparison at a base level of your caster levels -7 with any spell targeted. Failure by 5 or less still absorbs the spell, but half of it is inaccessible and cannot be discharged except as ‘Distortion Bleed,’ which reduces its levels by only one level per 5 seconds. All spell levels occupy potential capacity and must be discharged in some fashion.
+
+Full success allows immediate reflection back at the caster, or simple negation and immediate discharge if not a reflectable spell casting. A Reflection may also take a 3-second action to discharge any available, non-distorted spell levels as any Evocation type spell of the relevant level. Caster level is the spell level plus your Conjurer bonus (+5).
+
+Thanks to your supernaturally potent artistry, add an additional +7 Effective Levels for any contest for these allies, as a (Sublime) modifier, equivalent to a permanent buff. In addition, their appearance is divine and enchanting, and can be distracting or mesmerizing to the susceptible (such as art appreciators or bumpkins).
+
+Reflections count as knowing and detecting all spells for countermagic purposes. When a Reflection holds an action specifically to counter a magic spell, it is ‘held’ indefinitely rather than for just a 5-second period. They may act normally from then on.
+
+Reflections can perform a Dodge at your full caster levels. They have Physical Armor 2, Magical Armor 2, and Magic Resistance 3. Reflections have a pentagram mark etched in their surface that makes them completely immune to ‘automatic’ dismissals. They are at +10 (+2 fr. Conjurer, +3 fr. the pentagram) Effective Levels to resist dispelling. If such resistance fails, do not dispel the summon; instead, remove this effect.
+
+Duration is 33 minutes. Casting time is 5 seconds and requires the use of an attuned spell tower. No further modifications can be made to this spell by a spell tower or personal abilities.
+
+You have gained 2 exp in [Magineer] through spell acquisition thanks to [Comprehension: Evolver].
+
+Samantha nodded more and more as she read the spell.
+
+This is gonna be the shiznit.
