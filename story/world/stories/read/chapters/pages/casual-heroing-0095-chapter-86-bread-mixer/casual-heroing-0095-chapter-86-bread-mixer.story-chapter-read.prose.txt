@@ -1,0 +1,139 @@
+Heh.
+
+Sadly, I wasn't able to complete my studies on time, forcing me to return to work before I could experiment with my enchanting idea. Now, what I'm about to share may sound absurd, but bear with me.
+
+My greatest skill in baking is decoration. That's my specialization, and it gives me an edge over the competition. Although my fundamentals are undoubtedly among the best on Earth, my signature move involves crafting intricate decorations that demand extraordinary hand control, exceptional hand-eye coordination, and the ability to visualize the end result before it's complete.
+
+It's mostly a residue of what my capabilities from childhood. Back then, I was able to do incredible things. Although I no longer possess my prodigious memory and processing abilities, baking has helped me retain some of my other skills.
+
+Now.
+
+What is Enchanting?
+
+Enchanting, in its purest form, involves ensuring that the rune you're drawing can recreate the spell matrix you're aiming for. From what I can deduce about apprenticeships, I believe it's practically unheard of for someone starting out with magicto create their own runes. Instead, you get apprenticed to a master enchanter who passes their runes down to you. If you can innovate on that, you might eventually surpass them.
+
+On a normal day, I'd probably tell you that I'm not in a position to aspire to innovate or create something out of thin air. I'm not special. But there's maybe a tiny little fleck of special stuff that I can do. Well, a few flecks of it. And those flecks just happen to fit perfectly with the criteria to become a terrific enchanter.
+
+The conduits of power that form a rune are each responsible for the materialization of a part of the spell matrix. At the same time, they also influence each other in a way that is very hard to predict. Imagine drawing a half-moon—well, that will generate a zig-zagged pattern in a spell matrix.
+
+Does a [Light] spell also have a zig-zag pattern? Well, it does have a slight tremor in its lines, but to replicate it, you would need a smaller and fatter half-moon shape. The [Light] spell itself is actually easy to identify because it consists of three lines joined at two points; although the lines are squiggly, as if drawn by someone with Parkinson's disease.
+
+Man, imagine just how terribly hard Enchanting becomes at higher levels if just making a [Light] turns out to be this problematic.
+
+But here’s the cool thing:
+
+It’s all math and geometry.
+
+There’s an intrinsic polarity to the conduits of power that you can account for as you draw up a spell matrix. And you can just use a little of the powdered Mana Stone with a brush to see how the bit of the spell matrix would turn out.
+
+It’s very early in the morning as I start etching on a little wooden table that I bought at the market to find the relationship between the conduits of power and the spell matrix. And… it’s much easier than I thought it would be.
+
+Which… kinda makes sense, you know?
+
+How? Well, think about it. If you are not using [Advanced Mana Sense], you are going blind, trying out a myriad of combinations that might lead nowhere. Even when you think you might be close to something, one of the pieces of the puzzle might be missing, and you might have built a picture that will never be complete. The very fact that it’s all about some sort of bending magnetism that each conduit enforces on the other means that the overall resonance effect is mind-bogglingly hard to predict. But that’s for complex spell matrixes. For a small one? It’s pretty straightforward. Plus, once you take into consideration the shape and all the conduits, who says you cannot just layer everything so that it will generate anti-matrixes as well?
+
+The book loves to talk about the reductionist approach to magic, which essentially means boiling spells down to their simplest components. And when you apply the same principle to the rune, it’s just as easy to generate overlapping matrixes. Imagine you need to slightly separate two lines – you can gently push them away like two magnets with the same polarity. As long as you draw the conduit in the right way, you can create a refracting magnetism that will allow the spell matrixes not to merge with each other.
+
+And that’s the basis of how I’ll develop the spinning mechanism for my bread mixer.
+
+Look, I know it will be a big thing, ok? But I really want to help Happy Bakery flourish. And sure, I am going on a bit of a magic craze at the moment, but it’s all in order to improve how baking works in this world.
+
+Now, though, there are some design concepts. I have had a few programmer friends over the years whom I have greatly helped get in touch with some game, if you know what I mean. You have no idea how many times they were talking about executing the right design, making the right decisions at the start, and so on.
+
+Sadly, I will give it to them that this is exactly what I need to do here.
+
+My First Cantrip works as a ping-pong ball that gets swatted one time. If the bread mixer needs to go at a somewhat even speed, I need a better solution, don’t I? And more so, I need the Enchantment to fire repeatedly.
+
+“Book, if I need an enchantment to keep going with the same potency for a while, how would I go about doing that? Please, if you can, keep the explanation short.”
+
+Sadly, the book doesn’t seem to be in the mood for summaries.
+
+‘Context, while learning magic, is the most important thing you’ll ever have access to in your path to becoming an [Archmage]. There are no shortcuts when knowledge is involved.’
+
+‘A firing mechanism such as the one you described involves triggers that you will need to place inside your matrix. The simplest way is to have a rune that gets connected and disconnected to the other working parts by an injection of Mana. The first one to discover such a mechanism was, interestingly enough, not a [Mage]. It was one of the Hidden Heroes of the Vanedeni who found a way to create enchantments without magic. He is the same one credited for the creation of Bricollae – bags of holdings for peasants – and the Vanedeni’s insignia, the Flying Vessel. Reports are scattered in Vanedeni culture about who this person actually was. The hypotheses made by the [Scholars] among the Vanedeni seem to point to some of the great [Heroes] that emerged right after Idner, the First Hero, the bearer of the Scarlet Thunder.’
+
+Wait.
+
+Is that… what was it? Dammit! I can’t remember!
+
+“So, I have to build a switch that gets flicked every time exogenous Mana enters the circuit,” I say with a thinking expression. “That sounds—”
+
+I manage to bite my tongue before saying, ‘easy.’
+
+“Well, doesn’t that sound terribly hard, right, book?”
+
+‘It is an elegant implementation and an easy one to learn. Just insert this symbol in the thinnest part of the spell matrix. It will naturally break the rune apart when there’s no external Mana to activate it. When you power it, the symbol will connect the two parts it’s drawn upon; when you do it again, it will separate them.’
+
+Who said that being superstitious never works, huh?
+
+…
+
+I just finished sketching out what the final spell matrix would need to look like on a blank sheet of paper. So, now, I know how I can activate the spell, but I also need a solution to make it… loop? I applied the same principle that was suggested to me—a switch.
+
+Essentially, when the circular motion reaches a full circle, it will trigger another anti-matrix that will get regenerated each time, and this will hit the ping-pong ball—sorry, the [Light]. Now, if you put this down at the center of a bar, the bar will have a [Light]-powered motion make it spin from its very edge. It’s not exactly Light Magic—it’s more like neutral magic. I don’t want to say force magic because I don’t actually know if Force Magic has some elements that I am missing, maybe like the fact that it would be invisible or something like that.
+
+What I can tell you for certain, though, is that figuring out the actual conduits of power took me a while. The damn anti-matrixes made it much harder than I had thought. At the same time, the fact that the book explained how to make a switch with a smaller figure made everything much, much easier.
+
+The anti-matrix spell that recognizes the thing is, in fact, nothing more than a switch. The spinning object the Enchantment will be applied to moves, but the matrix itself stays in place. Every time the magic force at the edge of the bar – our ping-pong ball, to be clear – passes through the part of the spell matrix constituting the trigger for another swatting, it will… trigger that. Yeah. That’s it. That should keep the motion relatively stable. I did some math to figure out how much force it has and how much I can generate with a normal spell to avoid having it accelerate endlessly and burn the bread. When I say burn, I don’t mean burn-burn, but that if your mixer overheats the bread, it will both kill the yeast and mess up your gluten reticule.
+
+Ok, great.
+
+I’m basically done.
+
+Wait.
+
+Shoot.
+
+I need to actually draw out the components of a bread mixer, don’t I?
+
+…
+
+The forge I went to stands in a modest corner of Amorium, in the Northern district. It reflects the unpretentious nature of Elves in this world. There isn’t any weird, Tolkenian atmosphere surrounding it; its exterior walls were simple, made of locally-sourced stone and timber, blending seamlessly with the surrounding environment.
+
+Upon entering, the air is filled with the scent of burning coal, molten metal, and the sweat of earnest labor. The forge is a spacious chamber, its wooden beams supporting the humble roof overhead. Sunlight filters in through small windows, casting a warm glow on the busy workers below.
+
+At the center of the forge, a large, practical furnace radiates heat, providing the necessary temperatures for working the metals skillfully. Around the furnace, several anvils and workstations are arranged, each attended by a focused [Apprentice Blacksmith] under the watchful eye of an experienced [Blacksmith]. The rhythmic clang of hammers striking metal echoes throughout the chamber, punctuated by the occasional hiss of hot metal cooling in water.
+
+I must look like a ghost to the guy who helps out with the ovens at Happy Bakery. I had to ask Clodia where to find him, and she almost strangled me when I told her I had yet to shut my eyes.
+
+“This… it shouldn’t be complicated. You want it made of bronze?” Raul asks.
+
+Yep. His name is Raul. His parents apparently lived off Epretos at first before coming here—he is an Elf still, but an ex-expat. However, he is also the [Apprentice Blacksmith] who works at Happy Bakery.
+
+“Yeah. Gold would be better, but I don’t want people to break into Happy Bakery to steal a bread mixer. Also, only the spiral and the bowl need to be made of bronze. The rest can be made of steel.”
+
+“Steel?”
+
+“Steel,” I nod.
+
+“And Clodia sanctioned this?”
+
+“All of it. She said to bring the invoice—or whatever you have, to her. She’s paying, basically.”
+
+Raul shrugs and turns to bring my drawings to his master, who’s been looking at us with some curiosity.
+
+“You want me to make all these components and put them together, lad?”
+
+The [Blacksmith] is a big, burly man with arms as big as my head. He could probably arm-wrestle Clodia and win.
+
+Probably.
+
+“Yes, sir. Can you make it out of steel? Like, steel that is capable of holding an enchantment? Both for the part that is attached to the spiral you see on paper and the other part that is attached to the bottom of the huge pot.”
+
+“My name is Hyginus,” he nods at me. “And I can do this with no trouble. I heard that you are the Human who’s working at Clodia’s. Raul here talked about you quite a bit. Get me the cake you made for that other young lassie, Flaminia, and I’ll have this ready in a week.”
+
+“Oh no, no. I can make the cake right now. But I need this by tonight.”
+
+Hyginus, the [Blacksmith], blinks repeatedly before looking back at the piece of paper.
+
+“This?” He points to the paper. “The measures you have written down mean I need to resupply for all that steel and bronze. I would also need two carriages to bring this over. I can do it comfortably in a week, lad. A day? I would need to start right now and have Raul run at our supplier—”
+
+I take my personal bag of gold and empty half of it—twenty pieces on the table. I have no idea how much money I actually have in total. I asked Clodia to keep tabs for me and simply give it to me fifty at a time.
+
+“Consider this a bonus for making it in one day. You can fetch the rest from Clodia tonight, Hyginus, my friend. Are we good?”
+
+Hyginus nods at me, impressed, with his chin forward.
+
+“Alright, lad. Lemme get to work. I’ll have it done before the 26th hour and delivered to you. Raul will take care of assembling it at the bakery.”
+
+“Perfect!”
