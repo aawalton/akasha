@@ -116,6 +116,7 @@ export const alan = {
   bodyweight: 177.9,
   contributor:
     "contributor/contributor-9bc4d42501098ce9fad8a73ad03e2ef5d1e89b4a1fac8426b100f7c4d7e5e3d4",
+  scheme: "light",
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-09-25T12:39:29.000Z",
+  updatedAt: "2026-10-24T21:52:42.855Z",
 } as const satisfies Person
