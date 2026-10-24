@@ -36,6 +36,14 @@ export const colorWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A light hex is written into the rule for the light scheme alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A light hex that rule does not declare is said rather than added.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The hexes are worked out again only where a color page or a stylesheet moved.",
     },
     {
@@ -60,5 +68,5 @@ export const colorWriting = {
     },
   ],
   createdAt: "2026-09-24T22:38:22.775Z",
-  updatedAt: "2026-09-24T22:38:34.000Z",
+  updatedAt: "2026-10-24T19:49:34.818Z",
 } as const satisfies ChangeGenerator

@@ -22,12 +22,23 @@ const NAME = "name"
 
 const HEX = "hex"
 
+const LIGHT_HEX = "lightHex"
+
 const PAGE = "ts"
+
+const LIGHT_RULE = /\[data-scheme="light"\][^{]*\{[^}]*\}/
 
 export type Hued = {
   readonly name: string
   readonly color: string
   readonly hex: string | null
+  readonly lightHex?: string | null
+}
+
+type Parted = {
+  readonly before: string
+  readonly light: string | null
+  readonly after: string
 }
 
 type Written = {
@@ -46,8 +57,27 @@ function declaredIn(name: string): RegExp {
   return new RegExp(`^(\\s*--${name}\\s*:\\s*)([^;]*)(;)`, "m")
 }
 
+function writtenOnce(rules: string, name: string, hex: string): string | null {
+  const found = declaredIn(name)
+  if (!found.test(rules)) return null
+  return rules.replace(
+    found,
+    (_whole, opened: string, _was: string, shut: string) => `${opened}${hex}${shut}`
+  )
+}
+
+function partedAt(css: string): Parted {
+  const found = LIGHT_RULE.exec(css)
+  if (found === null) return { before: css, light: null, after: "" }
+  const end = found.index + found[0].length
+  return { before: css.slice(0, found.index), light: found[0], after: css.slice(end) }
+}
+
 export function writtenInto(css: string, hued: readonly Hued[], at: string): Written {
-  let body = css
+  const parted = partedAt(css)
+  let before = parted.before
+  let light = parted.light
+  let after = parted.after
   const said: string[] = []
   for (const one of hued) {
     if (one.hex === null) {
@@ -56,20 +86,23 @@ export function writtenInto(css: string, hued: readonly Hued[], at: string): Wri
       )
       continue
     }
-    const found = declaredIn(one.name)
-    if (!found.test(body)) {
+    const inBefore = writtenOnce(before, one.name, one.hex)
+    const inAfter = inBefore === null ? writtenOnce(after, one.name, one.hex) : null
+    if (inBefore !== null) before = inBefore
+    else if (inAfter !== null) after = inAfter
+    else
       said.push(
         `\`${at}\` declares no \`--${one.name}\`, so \`color/${one.color}\` is written nowhere`
       )
-      continue
-    }
-    const hex = one.hex
-    body = body.replace(
-      found,
-      (_whole, opened: string, _was: string, shut: string) => `${opened}${hex}${shut}`
-    )
+    if (light === null || one.lightHex === null || one.lightHex === undefined) continue
+    const inLight = writtenOnce(light, one.name, one.lightHex)
+    if (inLight !== null) light = inLight
+    else
+      said.push(
+        `the light rule in \`${at}\` declares no \`--${one.name}\`, so the light hex of \`color/${one.color}\` is written nowhere`
+      )
   }
-  return { body, said }
+  return { body: `${before}${light ?? ""}${after}`, said }
 }
 
 function huedIn(shadow: Shadow, stated: unknown): readonly Hued[] {
@@ -79,7 +112,12 @@ function huedIn(shadow: Shadow, stated: unknown): readonly Hued[] {
     const color = slugAt(one, COLOR)
     if (name === null || color === null) continue
     const page = shadow.index.pageAt(COLOR, color)
-    found.push({ name, color, hex: page === null ? null : textAt(page, HEX) })
+    found.push({
+      name,
+      color,
+      hex: page === null ? null : textAt(page, HEX),
+      lightHex: page === null ? null : textAt(page, LIGHT_HEX),
+    })
   }
   return found
 }
