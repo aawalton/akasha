@@ -9,7 +9,7 @@ const skeletonVariants = cva(
   [
     "relative overflow-hidden cursor-default select-none",
     "before:absolute before:inset-0",
-    "before:bg-gradient-to-r before:from-transparent before:via-white/[0.04] before:to-transparent",
+    "before:bg-gradient-to-r before:from-transparent before:via-primary/[0.04] before:to-transparent",
     "before:bg-[length:200%_100%]",
     "before:animate-skeleton-shimmer",
   ],
