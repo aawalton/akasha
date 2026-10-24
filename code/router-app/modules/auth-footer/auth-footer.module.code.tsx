@@ -1,6 +1,20 @@
 import { useSidebarState } from "akasha/design/interface/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
-import { LogIn, LogOut } from "lucide-react"
+import { LogIn, LogOut, Settings } from "lucide-react"
 import { Link } from "react-router"
+
+const FOOTER_LINK =
+  "flex cursor-pointer items-center gap-3 rounded-md px-3 py-2 text-secondary text-sm transition-colors hover:bg-surface-2 hover:text-primary"
+
+export function SettingsFooterLink() {
+  const { effectiveIsCollapsed } = useSidebarState()
+
+  return (
+    <Link to="/settings" className={FOOTER_LINK}>
+      <Settings className="h-5 w-5 shrink-0" />
+      {!effectiveIsCollapsed && <span>Settings</span>}
+    </Link>
+  )
+}
 
 export function AuthFooter({ signedIn }: { signedIn: boolean }) {
   const { effectiveIsCollapsed } = useSidebarState()
@@ -20,10 +34,7 @@ export function AuthFooter({ signedIn }: { signedIn: boolean }) {
   }
 
   return (
-    <Link
-      to="/sign-in"
-      className="flex cursor-pointer items-center gap-3 rounded-md px-3 py-2 text-secondary text-sm transition-colors hover:bg-surface-2 hover:text-primary"
-    >
+    <Link to="/sign-in" className={FOOTER_LINK}>
       <LogIn className="h-5 w-5 shrink-0" />
       {!effectiveIsCollapsed && <span>Sign In</span>}
     </Link>

@@ -6,7 +6,10 @@ import { EdgeSwipeNav } from "akasha/alan/web/modules/edge-swipe-nav/edge-swipe-
 
 import { DynamicNavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
 import { PullToRefresh } from "akasha/alan/web/modules/pull-to-refresh/pull-to-refresh.module.code.tsx"
-import { AuthFooter } from "akasha/code/router-app/modules/auth-footer/auth-footer.module.code.tsx"
+import {
+  AuthFooter,
+  SettingsFooterLink,
+} from "akasha/code/router-app/modules/auth-footer/auth-footer.module.code.tsx"
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
@@ -121,7 +124,12 @@ function AppShellInner({ children, brand, signedIn, accountId, ssrNavItems }: Ap
       brandLabel: brand.toUpperCase(),
       bottomNavMaxItems: 5,
       navReady,
-      footerSlot: <AuthFooter signedIn={signedIn} />,
+      footerSlot: (
+        <>
+          {signedIn && <SettingsFooterLink />}
+          <AuthFooter signedIn={signedIn} />
+        </>
+      ),
       skipRoutes: (p) => p === "/sign-in" || p === "/sign-up",
       renderPrimaryItems: (items, renderItem) => (
         <SortableNavs

@@ -4,7 +4,7 @@ export const authFooter = {
   id: "01a08e43-fb7d-780f-b702-af0566841b73",
   type: "page-type/module",
   slug: "auth-footer",
-  definition: "the sidebar footer a person signs in from, or signs out of by posting a form",
+  definition: "the sidebar footer a person signs in or out from, or reaches settings from",
   code: "tsx",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const authFooter = {
     },
   ],
   createdAt: "2026-09-11T02:20:15.101Z",
-  updatedAt: "2026-09-15T18:33:01.000Z",
+  updatedAt: "2026-10-24T19:58:32.489Z",
 } as const satisfies Module
