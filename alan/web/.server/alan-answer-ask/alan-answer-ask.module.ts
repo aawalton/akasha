@@ -44,9 +44,9 @@ export const alanAnswerAsk = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page type's shape asked in a browser is carried the same way as a question.",
+      statement: "A page type's shape asked in a browser is carried for any reader signed in.",
     },
   ],
   createdAt: "2026-09-22T01:25:04.311Z",
-  updatedAt: "2026-10-24T17:31:22.362Z",
+  updatedAt: "2026-10-24T17:40:55.329Z",
 } as const satisfies Module
