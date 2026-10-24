@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { jennyPageTypeSeat } from "akasha/person/access/pages/jenny-page-type-seat.person-access.ts"
 import { accessKind } from "akasha/person/access-kind/access-kind.page-type.ts"
 import { pageType as pageTypeKind } from "akasha/person/access-kind/pages/page-type.access-kind.ts"
 import {
@@ -135,6 +136,20 @@ test("a person's grants are read off the access pages", async () => {
     permitted: true,
     narrows: null,
   })
+})
+
+test("Jenny's seat access reads the one seat it narrows to and writes none", async () => {
+  const { target, deed, narrow } = jennyPageTypeSeat
+  const grants = await grantsOf(
+    "jenny",
+    answeringByType({ "person-access": [{ target, deed: [...deed], narrow }] })
+  )
+  expect(reachOf(grants, "seat", DEEDS.READ, "jenny")).toEqual({
+    permitted: true,
+    narrows: [{ key: "slug", is: "couples-therapist" }],
+  })
+  expect(reachOf(grants, "seat", DEEDS.WRITE, "jenny").permitted).toBe(false)
+  expect(reachOf(grants, "persona", DEEDS.READ, "jenny").permitted).toBe(false)
 })
 
 test("a narrow the access pages carry reaches the reach", async () => {

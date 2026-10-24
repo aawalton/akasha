@@ -20,6 +20,7 @@
 {"propertySlug":"person-access-person","path":"person/access/pages/jenny-page-type-readout-scale.person-access.ts","id":"01a0c50e-494a-77ad-a095-de45a08c035b"}
 {"propertySlug":"person-access-person","path":"person/access/pages/jenny-page-type-readout.person-access.ts","id":"01a0c50e-16e9-717d-8503-45811c32d27c"}
 {"propertySlug":"person-access-person","path":"person/access/pages/jenny-page-type-runtime-error.person-access.ts","id":"01a0c50e-c6f9-7ca6-b331-e9bfea3c6273"}
+{"propertySlug":"person-access-person","path":"person/access/pages/jenny-page-type-seat.person-access.ts","id":"01a16ee2-03d1-76c5-b3fd-9773ee0d6651"}
 {"propertySlug":"person-authority-person","path":"person/authority/pages/jenny-feature-request-all.person-authority.ts","id":"01a05433-f107-756f-b005-96376bf6df11"}
 {"propertySlug":"relationship-sms-handler-target","path":"alan/relationships/relationship/pages/jennifer-walton/jennifer-walton.relationship.ts","id":"019db533-f382-757e-93d6-8b217ef99d58"}
 {"propertySlug":"relationship-topic-people","path":"alan/relationships/relationship-topic/pages/alan.relationship-topic.ts","id":"019db533-f382-7158-a470-03266e4f50c9"}
