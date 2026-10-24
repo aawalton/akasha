@@ -421,6 +421,8 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-account-config/supervisor-account-config.module.ts","id":"01a0683e-3dbe-7000-8023-4fb6336e3734"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.ts","id":"01a0683e-3dbe-7003-8c74-a74611900fdd"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.ts","id":"01a0683e-3dbe-7012-8f94-55170087009a"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-reply-notifying/modules/reply-notify-poll/reply-notify-poll.module.ts","id":"01a16f80-7143-7dd2-8007-1bb06f10176a"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-reply-notifying/seat-reply-notifying.domain.ts","id":"01a16f80-7143-783f-ba97-16653fa64c74"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-supervisor.domain.ts","id":"01a08859-4c01-7bf5-9ebc-b39e6b3406fa"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.ts","id":"01a0686d-9d5e-7003-85f7-c26e7d26b125"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts","id":"01a06838-5a84-7006-be45-2e23ffbbeeca"}

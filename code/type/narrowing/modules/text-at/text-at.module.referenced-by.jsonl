@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/seat/fleet/modules/seat-forest/seat-forest.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/seat/fleet/modules/seat-roster/seat-roster.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/seat/supervisor/seat-reply-notifying/modules/reply-notify-poll/reply-notify-poll.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/subagent/modules/liveness/subagent-liveness.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-at.module.code.ts","path":"alan/collection/royal-road/modules/held/royal-road-held.module.code.ts","typed":false,"deferred":false}

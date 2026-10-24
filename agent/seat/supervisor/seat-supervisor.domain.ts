@@ -32,6 +32,7 @@ export const seatSupervisor = {
     "domain/seat-agent-mcp",
     "page-type/supervisor-action",
     "domain/seat-auto-compact",
+    "domain/seat-reply-notifying",
   ],
   decisions: [
     {
@@ -40,5 +41,5 @@ export const seatSupervisor = {
     },
   ],
   createdAt: "2026-09-09T22:45:48.673Z",
-  updatedAt: "2026-09-25T13:32:41.000Z",
+  updatedAt: "2026-10-24T20:00:51.010Z",
 } as const satisfies Domain

@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/supervisor/seat-reply-notifying/modules/reply-notify-poll/reply-notify-poll.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts","id":"01a0658d-c92f-7071-838b-e88aa8479137"}

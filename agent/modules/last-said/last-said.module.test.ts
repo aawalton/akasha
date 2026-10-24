@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { lastAskedIn, lastSaidIn } from "akasha/agent/modules/last-said/last-said.module.code.ts"
+import {
+  lastAskedIn,
+  lastReplyIn,
+  lastSaidIn,
+} from "akasha/agent/modules/last-said/last-said.module.code.ts"
 
 function said(text: string, more: Record<string, unknown> = {}): string {
   return JSON.stringify({
@@ -118,4 +122,21 @@ test("a tail the person wrote nothing in answers nothing", () => {
   expect(lastAskedIn("")).toBeNull()
   expect(lastAskedIn(said("mine"))).toBeNull()
   expect(lastAskedIn(asked("   "))).toBeNull()
+})
+
+test("the last reply is the agent's last words with the id of the line holding them", () => {
+  const tail = [said("first", { uuid: "a" }), said("second", { uuid: "b" }), called("Bash")]
+  expect(lastReplyIn(tail.join("\n"))).toEqual({ id: "b", text: "second" })
+})
+
+test("words on a line with no id are no reply", () => {
+  expect(lastReplyIn([said("first", { uuid: "a" }), said("second")].join("\n"))).toEqual({
+    id: "a",
+    text: "first",
+  })
+})
+
+test("a subagent's words are no reply", () => {
+  const tail = [said("mine", { uuid: "a" }), said("theirs", { uuid: "b", isSidechain: true })]
+  expect(lastReplyIn(tail.join("\n"))).toEqual({ id: "a", text: "mine" })
 })

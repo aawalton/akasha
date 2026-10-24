@@ -20,7 +20,14 @@ const TYPE = "type"
 
 const TEXT = "text"
 
+const UUID = "uuid"
+
 const HELD = z.record(z.string(), z.unknown())
+
+export interface Reply {
+  readonly id: string
+  readonly text: string
+}
 
 type Held = z.infer<typeof HELD>
 
@@ -69,7 +76,13 @@ function askingIn(held: Held): string | null {
   return message === null ? null : textIn(message[CONTENT])
 }
 
-function lastIn(tail: string, found: (held: Held) => string | null): string | null {
+function replyIn(held: Held): Reply | null {
+  const text = wordsIn(held)
+  const id = held[UUID]
+  return text === null || typeof id !== "string" || id === "" ? null : { id, text }
+}
+
+function lastIn<Found>(tail: string, found: (held: Held) => Found | null): Found | null {
   const lines = tail.split("\n")
   for (let at = lines.length - 1; at >= 0; at -= 1) {
     const held = heldIn(lines[at] ?? "")
@@ -86,4 +99,8 @@ export function lastSaidIn(tail: string): string | null {
 
 export function lastAskedIn(tail: string): string | null {
   return lastIn(tail, askingIn)
+}
+
+export function lastReplyIn(tail: string): Reply | null {
+  return lastIn(tail, replyIn)
 }

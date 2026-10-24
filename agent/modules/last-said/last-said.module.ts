@@ -33,10 +33,14 @@ export const lastSaid = {
       statement: "A turn the agent closed with a tool call and no words answers nothing.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The agent's last reply is known by the id of the line holding its words.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here opens a transcript.",
     },
   ],
   createdAt: "2026-09-11T14:17:08.537Z",
-  updatedAt: "2026-09-25T18:20:38.000Z",
+  updatedAt: "2026-10-24T20:00:51.010Z",
 } as const satisfies Module

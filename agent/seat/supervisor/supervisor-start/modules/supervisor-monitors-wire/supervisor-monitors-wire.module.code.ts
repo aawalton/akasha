@@ -10,6 +10,7 @@ import {
 } from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
 import { browserReapPoll } from "akasha/agent/seat/supervisor/seat-agent-mcp/modules/browser-reaping/browser-reaping.module.code.ts"
 import { autoCompactPoll } from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"
+import { replyNotifyPoll } from "akasha/agent/seat/supervisor/seat-reply-notifying/modules/reply-notify-poll/reply-notify-poll.module.code.ts"
 import { startLimitResumeMonitor } from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
 import { startWaitResumeMonitor } from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"
 import { pollAgentAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
@@ -63,6 +64,7 @@ export function startPerAgentMonitors(args: {
         log,
       }),
       autoCompactPoll({ getAgentId: args.getAgentId, log }),
+      replyNotifyPoll({ getAgentId: args.getAgentId, log }),
       bridgeSessionPoll({ getAgentId: args.getAgentId }),
     ],
   })
