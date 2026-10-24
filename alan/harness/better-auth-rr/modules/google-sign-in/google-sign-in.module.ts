@@ -42,7 +42,12 @@ export const googleSignIn = {
       statement:
         "A traded session lands the reader where a browser sign-in would have landed them.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Leaving the card takes its place in the history, so going back never returns to it.",
+    },
   ],
   createdAt: "2026-09-19T18:43:29.086Z",
-  updatedAt: "2026-09-22T00:50:00.000Z",
+  updatedAt: "2026-10-24T21:42:59.638Z",
 } as const satisfies Module

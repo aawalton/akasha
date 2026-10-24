@@ -81,7 +81,7 @@ export function GoogleSignIn() {
       setGoing(false)
       return
     }
-    window.location.href = landingAt
+    window.location.replace(landingAt)
   }
 
   const start = async () => {
@@ -109,7 +109,7 @@ export function GoogleSignIn() {
         setGoing(false)
         return
       }
-      window.location.href = url
+      window.location.replace(url)
     } catch {
       setError(REFUSED)
       setGoing(false)
