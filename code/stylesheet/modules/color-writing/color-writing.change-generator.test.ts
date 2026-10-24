@@ -117,6 +117,35 @@ test("a light hex the light rule does not declare is said and written nowhere", 
   ])
 })
 
+const NESTED = [
+  ":root,",
+  '[data-scheme="dark"] {',
+  "  --surface-0: #000000;",
+  "}",
+  "",
+  ':root[data-scheme="light"],',
+  '[data-scheme="light"] {',
+  "  --surface-0: #000000;",
+  "}",
+  "",
+].join("\n")
+
+test("a light rule that also names any element whose scheme is light is written as one rule", () => {
+  const written = writtenInto(
+    NESTED,
+    [{ name: "surface-0", color: "soot", hex: "#010101", lightHex: "#ffffff" }],
+    AT
+  )
+
+  expect(written.body).toBe(
+    NESTED.replace("--surface-0: #000000;", "--surface-0: #010101;").replace(
+      "--surface-0: #000000;",
+      "--surface-0: #ffffff;"
+    )
+  )
+  expect(written.said).toEqual([])
+})
+
 test("rules with no light rule never write a light hex", () => {
   const written = writtenInto(
     STATED,

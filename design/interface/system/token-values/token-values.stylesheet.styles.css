@@ -1,4 +1,5 @@
-:root {
+:root,
+[data-scheme="dark"] {
   color-scheme: dark;
   --surface-0: #010101;
   --surface-1: #141414;
@@ -55,7 +56,8 @@
   --content-clearance-tabs: calc(var(--tab-bar-height) + var(--safe-area-bottom) + 1rem);
 }
 
-:root[data-scheme="light"] {
+:root[data-scheme="light"],
+[data-scheme="light"] {
   color-scheme: light;
   --surface-0: #ffffff;
   --surface-1: #f5f5f5;

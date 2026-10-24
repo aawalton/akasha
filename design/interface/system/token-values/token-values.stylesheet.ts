@@ -58,7 +58,11 @@ export const tokenValues = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The light scheme is the rule for a root whose scheme is light.",
+      statement: "The light scheme is the rule for a root or any element whose scheme is light.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The dark scheme is the rule for a root and for any element whose scheme is dark.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -66,5 +70,5 @@ export const tokenValues = {
     },
   ],
   createdAt: "2026-09-01T10:48:05.962Z",
-  updatedAt: "2026-10-24T19:58:05.220Z",
+  updatedAt: "2026-10-24T20:04:24.740Z",
 } as const satisfies Stylesheet
