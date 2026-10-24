@@ -1,0 +1,133 @@
+New class skills available! [Enduring Grit] or [Power Strike]!
+
+New class skills available! [Vitality Tether] or [Wave of Restoration]!
+
+The first choice was simple. [Enduring Grit] was an enhancement skill, almost certainly with the [body] sub aspect. And while Leif only received a general impression of both skills, he could relate the feeling [Enduring Grit] gave off to other skills he possessed.
+
+[Power Strike] may be a potent increase to his offensive potential, but [Amber Blight Spriggan], [Brawler] and [Adept] all granted a bonus to [Enhancement (body)] skills via their class perks.
+
+===
+
+Enduring Grit:
+
+Aspects: Enhancement (Body)*
+
+You gain an increase to your physical resilience. The more injured you become, the greater the enhancement from this skill.
+
+===
+
+It was hard to gain an immediate sense for how potent this new skill was, treebound as Leif currently was. If he was in a form he was more familiar with, then the change may have been noticeable. Regardless, he was pleased with [Enduring Grit], though the skill was simple, he suspected the increase to his physical resilience was substantial due to his synergistic bonuses.
+
+That left him with the final skill choice, and if Leif was being honest with himself, he didn’t have a clue which to pick. They were both healing skills, that much was obvious from a cursory glance.
+
+If Leif had to put a finger on the difference between both skills, it would be that [Vitality Tether] was a constant, but single target heal. While [Wave of Restoration] was a wide, area effecting heal.
+
+Leif suspected, though he couldn’t tell from feeling out the properties of both skills, that [Vitality Tether] was both more efficient, and far more potent over the period of time the skill would last.
+
+[Wave of Restoration] was more immediate, broader in its use, and as a result far less efficient. Leif considered the use of both skills when used in combat against undead. In that contest the latter was the clear winner. In a prolonged session of restoration, his current ability to heal thanks to [Blight’s Bounty] was more than sufficient.
+
+I just don’t see a situation where [Vitality Tether] actually does anything that I cannot already do. But on the other hand, once I regain use of [Healing Palm] I can modify that skill using [Life Spells] to have an area of effect. Leif paused, then realised he didn’t have [Life Spells] any more.
+
+His spell casting skill and his cultivation skill, [The Well Within] had merged, fused together in a moment of desperation. For the first time, Leif truly considered the events that had transpired during the battle for Far-reach. It left him with a dull ache, but also a strange sense of pride. Of satisfaction.
+
+Protecting others, even at the potential cost of his own life had felt like the correct thing to do. Though looking back on that day, he knew that without aspects of both his power, and parts of the system he didn’t and likely would never truly understand, he would have died.
+
+Was he arrogant to believe he had survived due to anything other than blind luck? I don’t know. He thought dourly. Leif half expected to spiral down into a whirlpool of negativity and self loathing. That mindstate had become so easy to fall into during the days leading up to his near death.
+
+But he didn’t, maybe it was his current form partially changing his mentality, or maybe it was the minor truth about himself he had finally accepted as death loomed overhead. There was still pain, loss, and deep down Leif suspected that part of him would never truly leave. But it wasn’t all consuming, not anymore.
+
+Maybe I’m just happy to be alive. He mused, then laughed, albeit only internally. He had been using his skill selection to distract himself from his newly cleared consciousness, bleary from pain and however long his rest had been. But now his introspection had distracted him from his skill selection.
+
+Since he wasn’t sure which skill to pick, he just chose the one that felt more immediately appealing.
+
+===
+
+Wave of Restoration:
+
+Aspects: Technique (Life)*
+
+Project a burst of restorative energy in a direction. This effect loses potency the further from you a target is.
+
+===
+
+Leif was pleased with his selections. He reread over his newest skills, familiarising himself with their descriptions. Afterwards, he allocated his twenty free points. He put ten into [Charisma], bringing the attributes base total to one hundred and one. He half expected a notification to coincide with the achievement, but nothing happened. Then he allocated the remaining ten into [Willpower], bringing the attribute up to forty two.
+
+There was one more notification Leif needed to action, though there didn’t seem to be a time limit attached to it. He had peeked a glance when he had first pulled up the swarm of system windows, and he was pretty excited about what it contained.
+
+Congratulations! In recognition of your triumph over a powerful foe, you have been awarded an item that will allow you to promote a class, improving it and increasing its level cap. Additionally, you may instead merge two compatible tier 1 classes into a promoted class!
+
+Manifest promotion emblem? Y/N
+
+Warning! Once this item is manifested it may not be unmanifested! This promotion item is not keyed to you, and may be used by anyone else!
+
+Leif had to rack his memory, promotion items had once been explained to him by Marcus and Sieg, and he knew there were several grades. I’m pretty sure seals are the tier one version of what I just got. Leif recalled. And emblems are for tier two classes.
+
+Closing the prompt he considered his predicament. It meant that if he used the emblem to promote or merge his tier one classes, he would technically be wasting the item's full potential. Sieg had needed an emblem to promote his class that had reached the level cap of twenty. According to both him and Marcus, emblems were very valuable, requiring a sizable amount of mana shards of an equivalent grade and an expert craftsman to create.
+
+Well, I had planned to merge [Adept] and [Attuned:Life] to free up the general class slot, but [Adept] can’t be levelled up until [Healing Palm] is fixed, I assume this restriction also includes promotion via merge. Leif put the issue aside and closed out of his actioned notifications. He wouldn’t manifest the emblem now, he couldn’t use it anyway. Finally he pulled up his full status sheet, and took in all the changes.
+
+===
+
+Name: Leif Vin
+
+Race: Amber Blight Spriggan
+
+Age: 12
+
+Awaiting manifestation: Emblem
+
+Attributes:
+
+Free: 0
+
+Might: 47 (+10%)
+
+Alacrity: 47 (+10%)
+
+Intelligence: 33 (+10%)
+
+Willpower: 42 (+10%)
+
+Spirit: 66 (+10%)
+
+Charisma: 101 (+90%)
+
+Total Level: 45
+
+Monster Classes: 1/1
+
+Amber Blight Spriggan: 18/20
+
+Skills: Gold Iron Physique / Amber Sympathy / Blight's Bounty / Font of Life III / Settle / Amber Steps / Embolden Vegetation  / Veil of Nature / Wood Manipulation
+
+Classes: 3/3
+
+Brawler: 9/10
+
+Skills: Grounded Stance II / Combative Gumption / Enduring Grit
+
+Adept: 3/10 (Locked)
+
+Skills: Healing Palm (Fractured)
+
+Attuned: Life 5/10
+
+Skills: Wave of Restoration
+
+Auxiliary Classes: 1
+
+Noble: 10/10
+
+Skills: Aura of Nobility II / Grand Action / Under My Protection / Legacy
+
+===
+
+There was an almost visceral satisfaction in seeing his attributes, classes and skills all improve. He wondered how difficult life would be if someone didn’t have the system to quantify and guide their growth.
+
+It would probably be awful. Leif concluded, shuddering at the thought. Now that it was all laid out before him, and his future wasn't in danger of being decided by a coin flip, he had time to consider his next steps.
+
+The next advancement bottleneck was at level fifty, he would need to start fusing his now bloated list of skills down to a more manageable amount. He had new skills to test, and existing skills to improve, especially [Aura of Nobility], he felt as though he was on the cusp of what was required for that particular rank up.
+
+Fixing [Healing Palm] went without saying, though he didn’t know where to start. Level fifty was close, surprisingly so. It hadn’t been long at all since he broke through the level twenty five bottleneck. Well actually, my status screen does say my age is now twelve and not eleven like it used to, I’m not sure how close I was to my listed age ticking over but it’s been several months at the minimum.
+
+He was close to reaching a total level of fifty, but before that Leif would almost certainly reach level twenty in his [Amber Blight Spriggan] class. It was strange, but Leif was genuinely excited to see where his next evolution would take him.
