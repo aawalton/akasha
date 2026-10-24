@@ -48,6 +48,7 @@ export const alanWebRoutes = {
     "route/alan-web-requests",
     "route/alan-web-services",
     "route/alan-web-settings",
+    "route/alan-web-therapy",
     "route/alan-web-sign-in",
     "route/alan-web-sign-out",
     "route/alan-web-sign-up",
@@ -92,5 +93,5 @@ export const alanWebRoutes = {
     },
   ],
   createdAt: "2026-09-10T15:18:13.817Z",
-  updatedAt: "2026-10-24T20:51:01.335Z",
+  updatedAt: "2026-10-24T21:52:05.693Z",
 } as const satisfies AppRoutes

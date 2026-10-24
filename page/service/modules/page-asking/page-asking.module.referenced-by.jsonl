@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"alan/track/daily/modules/day-stretches/day-stretches.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"alan/track/daily/modules/nutrition-grams/nutrition-grams.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"alan/web/.server/home-dni-param/home-dni-param.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"alan/web/routes/alan-web-therapy/alan-web-therapy.route.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"alan/web/routes/claude-usage/claude-usage.route.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"alan/web/routes/claude-usage/claude-usage.route.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"alan/web/routes/wallpaper/wallpaper.route.code.ts","typed":true,"deferred":false}
