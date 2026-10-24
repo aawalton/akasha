@@ -30,6 +30,10 @@ export const seatName = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A person's handler seat is named for the person alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A seat of persons whose persona is not the default is named for that persona, whatever its persons.",
     },
@@ -62,5 +66,5 @@ export const seatName = {
     },
   ],
   createdAt: "2026-09-13T19:33:54.805Z",
-  updatedAt: "2026-10-24T20:32:55.123Z",
+  updatedAt: "2026-10-24T20:40:20.578Z",
 } as const satisfies Domain
