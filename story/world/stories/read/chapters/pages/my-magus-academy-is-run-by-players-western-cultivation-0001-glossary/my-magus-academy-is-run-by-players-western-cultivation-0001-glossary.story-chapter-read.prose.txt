@@ -1,0 +1,83 @@
+Academy main page:
+
+Academy Name: Sanctum of Interdimensional MagiHeadmaster: Victor AsteriscusAcademy Points: 290Academy Grade: Level 2Total Acolytes: 184/250Progression Value: 210/250
+
+Academy levels:
+
+Level 1 Academy Grade: Level-1 Nexus Tower, 1:1 timeLevel 2 Academy Grade: Level-1 Nexus Tower, Magic Botanical Garden, 1:1 timeLevel 3 Academy Grade: Level-2 Nexus Tower, Magic Botanical Garden, Alchemical Hall, 2:1 timeLevel 4 Academy Grade: Level-2 Nexus Tower, Magic Botanical Garden, Alchemical Hall, Artificer Hall, 2:1 time
+
+…
+
+Status screen:
+
+Victor Asteriscus
+
+HP: 100%MP: 420/420
+
+Power Rank: Elemental Adept MagusElemental Affinity: Cosmo (95%) | Anemo (82%) | Pyro (57%) Mana Aptitude: Inferior bright gradeMeditation Technique: Myriad Elements Method (prototype schematic, -)Status: Healthy
+
+Strength: (31)Agility: (30)Vitality: (31)Magical Power: (41)Infused Mana (total): (417 → 420)
+
+Spell Repertoire:
+
+How stats work:
+
+Average humans have Strength, Agility, and Vitality stats at value of 5.
+
+For each increment of 1 point, the individual becomes 10% stronger than its previous stats. So, 2 points in Strength means 2,1 instead of simply 2.
+
+Average stats according to the stages of power:
+
+First-rank Initiate Attunement: 12-15 on SAV and 1-10 on Magical Power
+
+Second-rank Initiate Attunement: 17-20 on SAV and 15-20 on Magical Power
+
+Third-rank Initiate Attunement: 22-25 on SAV and 25-35 on Magical Power
+
+First-sigil Elemental Adept: 33-34 on SAV and 43-44 on Magical PowerSecond-sigil Elemental Adept: 35-36 on SAV and 45-46 on Magical PowerThird-sigil Elemental Adept: 37-38 on SAV and 47-48 on Magical PowerFourth-sigil Elemental Adept: 39-40 on SAV and 49-50 on Magical PowerFifth-sigil Elemental Adept: 41-42 on SAV and 51-52 on Magical PowerSixth-sigil Elemental Adept: 43-45 on SAV and 53-55 on Magical Power
+
+Every known element (in the story so far):
+
+Anemo, Geo, Hydro, Pyro, Cryo, Dendro, Electro. (Basic)
+
+Lux, Umbra, Bio, Necro. (Rare)
+
+Cosmo, Chrono, (Extremely Rare)
+
+Other than this, there’s also non-elemental magic.
+
+Aptitude level:
+
+Mundane -> faint -> ordinary -> glimmering -> bright -> shining -> radiant
+
+Sub-level: inferior -> intermediate -> advanced -> superior
+
+Mundane: Individuals with Mundane aptitude have little to no affinity for manipulating mana. Their chances of becoming a Magus are practically impossible, and they are likely to focus on other professions or skills.
+
+Faint: Faint aptitude individuals possess a slight sensitivity to mana but lack the innate talent to harness it fully. Their chances of becoming Elemental Novice acolytes are extremely low, much less an official Magus, and they may only master basic spells with great effort.
+
+Ordinary: Ordinary aptitude individuals show potential in mana manipulation and spellcasting. They have a slight chance of becoming an official Magus with proper training and guidance.
+
+Glimmering: Glimmering aptitude individuals display a natural gift for controlling mana and mastering a wide range of spells. They have a significantly higher chance of becoming a Magus, and their progression in spellcasting is relatively swift.
+
+Bright: Bright aptitude individuals are born with rare talent, allowing them to excel in the art of spellcasting. They are guaranteed of becoming Magi and can quickly ascend to higher cultivation stages with proper guidance and resources.
+
+Shining: Shining aptitude individuals are once-in-a-generation talents and possess unparalleled affinity for mana and spellcraft. They are destined to become powerful Magi if they don’t die and can access profound magic that others can only dream of.
+
+Radiant: Radiant-level aptitude individuals that are only said to appear in legends. They are destined for greatness, becoming legendary Magi with unrivaled power and knowledge of the arcane arts.
+
+Rank of Magic Equipment:
+
+Low-grade magic tool: First-stage Initiate Attunement acolyte
+
+Mid-grade magic tool: Second-stage Initiate Attunement acolyte
+
+High-grade magic tool: Third-stage Initiate Attunement acolyte
+
+Superior-grade magic tool: Elemental Adept Magus
+
+Low-grade magic artifact: Nexus Temporal Magus
+
+Mid-grade magic artifact: Sigil Master Magus
+
+High-grade magic artifact: Nexus Conjurer Magus
