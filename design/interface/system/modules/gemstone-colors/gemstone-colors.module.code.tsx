@@ -1,5 +1,11 @@
 "use client"
 
+import { blue } from "akasha/design/interface/color/pages/blue.color.ts"
+import { green } from "akasha/design/interface/color/pages/green.color.ts"
+import { orange } from "akasha/design/interface/color/pages/orange.color.ts"
+import { purple } from "akasha/design/interface/color/pages/purple.color.ts"
+import { red } from "akasha/design/interface/color/pages/red.color.ts"
+import { yellow } from "akasha/design/interface/color/pages/yellow.color.ts"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { TokenSwatch } from "akasha/design/interface/system/modules/token-swatch/token-swatch.module.code.tsx"
 
@@ -13,45 +19,39 @@ export function GemstoneColorsPanel() {
       <div className="flex flex-col gap-2">
         <TokenSwatch
           name="green"
-          value="oklch(0.57 0.12 155)"
-          rgba="rgba(45, 140, 87, 1)"
+          color={green}
           description="Successful completion — terminal success"
-          style={{ backgroundColor: "var(--green)" }}
+          className="bg-green"
         />
         <TokenSwatch
           name="blue"
-          value="oklch(0.47 0.12 258)"
-          rgba="rgba(44, 90, 157, 1)"
+          color={blue}
           description="Ready to engage — the highlighted next thing"
-          style={{ backgroundColor: "var(--blue)" }}
+          className="bg-blue"
         />
         <TokenSwatch
           name="purple"
-          value="oklch(0.51 0.14 308)"
-          rgba="rgba(124, 76, 163, 1)"
+          color={purple}
           description="Verification & deployment — finalize, verify, deploy"
-          style={{ backgroundColor: "var(--purple)" }}
+          className="bg-purple"
         />
         <TokenSwatch
           name="yellow"
-          value="oklch(0.63 0.13 73)"
-          rgba="rgba(184, 123, 17, 1)"
+          color={yellow}
           description="Preparatory — queued or being prepared"
-          style={{ backgroundColor: "var(--yellow)" }}
+          className="bg-yellow"
         />
         <TokenSwatch
           name="orange"
-          value="oklch(0.58 0.15 50)"
-          rgba="rgba(190, 90, 10, 1)"
+          color={orange}
           description="Active work — happening right now"
-          style={{ backgroundColor: "var(--orange)" }}
+          className="bg-orange"
         />
         <TokenSwatch
           name="red"
-          value="oklch(0.47 0.17 19)"
-          rgba="rgba(165, 28, 50, 1)"
+          color={red}
           description="Unsuccessful completion — terminal failure"
-          style={{ backgroundColor: "var(--red)" }}
+          className="bg-red"
         />
       </div>
     </PanelCard>

@@ -1,5 +1,9 @@
 "use client"
 
+import { chalk } from "akasha/design/interface/color/pages/chalk.color.ts"
+import { silver } from "akasha/design/interface/color/pages/silver.color.ts"
+import { stone } from "akasha/design/interface/color/pages/stone.color.ts"
+import { yellow } from "akasha/design/interface/color/pages/yellow.color.ts"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { TokenSwatch } from "akasha/design/interface/system/modules/token-swatch/token-swatch.module.code.tsx"
@@ -13,22 +17,19 @@ export function TextColorsPanel() {
           <div className="flex flex-col gap-2">
             <TokenSwatch
               name="primary"
-              value="oklch(0.88 0 0)"
-              rgba="rgba(215, 215, 215, 1)"
+              color={chalk}
               description="Headings, important content"
               className="bg-primary"
             />
             <TokenSwatch
               name="secondary"
-              value="oklch(0.72 0 0)"
-              rgba="rgba(164, 164, 164, 1)"
+              color={silver}
               description="Body text, descriptions"
               className="bg-secondary"
             />
             <TokenSwatch
               name="tertiary"
-              value="oklch(0.56 0 0)"
-              rgba="rgba(116, 116, 116, 1)"
+              color={stone}
               description="Labels, captions, metadata"
               className="bg-tertiary"
             />
@@ -38,8 +39,7 @@ export function TextColorsPanel() {
           <Heading>Semantic</Heading>
           <TokenSwatch
             name="accent"
-            value="oklch(0.63 0.13 73)"
-            rgba="rgba(184, 123, 17, 1)"
+            color={yellow}
             description="Values, results. Must always be bold."
             className="bg-accent"
           />

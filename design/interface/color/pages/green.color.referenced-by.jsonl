@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"green.color.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"green.color.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"green.color.ts","path":"design/interface/system/modules/gemstone-colors/gemstone-colors.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"green.color.ts","path":"design/interface/system/modules/property-badge-panels/property-badge-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"green.color.ts","path":"design/interface/token/modules/semantic-color/semantic-color.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"green.color.ts","path":"page/ui/component/modules/title-color/title-color.module.test.ts","typed":false,"deferred":false}
