@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const cosmicAscensionProgressionLitrpg = {
+  id: "01a16b60-e7c9-7927-b1d6-042b9ace8d24",
+  type: "page-type/story-read",
+  slug: "cosmic-ascension-progression-litrpg",
+  author: "Hikaru_Genji & Adam_King",
+  following: false,
+  unit: "unit/words",
+  title: "Cosmic Ascension [Progression, Litrpg] ",
+  world: "world/cosmic-ascension-progression-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "93920",
+      externalLink: "https://www.royalroad.com/fiction/93920/cosmic-ascension-progression-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Anti-Hero Lead",
+    "Space Opera",
+    "Psychological",
+    "Non-Human Lead",
+    "Action",
+    "Horror",
+    "Sci-fi",
+    "Artificial Intelligence",
+    "Attractive Lead",
+    "Cyberpunk",
+    "GameLit",
+    "Genetically Engineered",
+    "High Fantasy",
+    "Male Lead",
+    "Soft Sci-fi",
+    "Strong Lead",
+  ],
+  publicationStatus: "completed",
+  readLater: true,
+  createdAt: "2026-10-24T00:47:55.337Z",
+  updatedAt: "2026-10-24T00:47:55.337Z",
+} as const satisfies StoryRead
