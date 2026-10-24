@@ -20,5 +20,7 @@ export const theArchmageCoefficientOpArchmageMageAcademy0152152CompoundSpells = 
     },
   ],
   createdAt: "2026-10-23T22:48:11.683Z",
-  updatedAt: "2026-10-23T22:48:11.683Z",
+  updatedAt: "2026-10-24T02:47:02.018Z",
+  ownProgress: 2987,
+  progressedAt: "2026-10-24T02:47:02.018Z",
 } as const satisfies StoryChapterRead

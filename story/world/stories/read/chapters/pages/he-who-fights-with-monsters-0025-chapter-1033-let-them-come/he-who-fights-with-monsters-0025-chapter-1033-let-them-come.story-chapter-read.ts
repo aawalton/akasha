@@ -20,5 +20,7 @@ export const heWhoFightsWithMonsters0025Chapter1033LetThemCome = {
     },
   ],
   createdAt: "2026-10-23T22:48:11.683Z",
-  updatedAt: "2026-10-23T22:48:11.683Z",
+  updatedAt: "2026-10-24T02:47:02.018Z",
+  ownProgress: 2683,
+  progressedAt: "2026-10-24T02:47:02.018Z",
 } as const satisfies StoryChapterRead
