@@ -379,7 +379,6 @@ export function SeatComposer({
             keepDraft(shelfHere(), key, event.target.value)
             beat.typed(event.target.value)
           }}
-          onBlur={beat.stopped}
           onKeyDown={(event) => {
             if (!enterSends(event, touch)) return
             event.preventDefault()

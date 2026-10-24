@@ -15,7 +15,11 @@ export const seatTyping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A person stops being shown typing on sending, emptying the box, or leaving it.",
+      statement: "A person stops being shown typing on sending or emptying the box.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A person leaving the box, the page or the app is still shown typing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,5 +39,5 @@ export const seatTyping = {
     },
   ],
   createdAt: "2026-10-24T22:31:35.532Z",
-  updatedAt: "2026-10-24T23:33:09.040Z",
+  updatedAt: "2026-10-24T23:33:49.092Z",
 } as const satisfies Module
