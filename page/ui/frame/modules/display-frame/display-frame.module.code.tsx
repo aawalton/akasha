@@ -59,6 +59,43 @@ export function DisplayFrame({
     [focusEnabled, onSurfaceClick]
   )
 
+  const jump = followMode !== null && showJumpToLatest && !chromeHidden && (
+    <div
+      data-slot="frame-jump-to-latest"
+      className={cn(
+        "pointer-events-none z-30 flex justify-center",
+        footer != null ? "absolute inset-x-0 bottom-full mb-3" : "sticky bottom-24"
+      )}
+    >
+      {followMode === "top" ? (
+        <button
+          type="button"
+          onClick={jumpToLatest}
+          aria-label="Jump to latest"
+          className={cn(
+            "pointer-events-auto flex h-11 w-11 items-center justify-center",
+            "rounded-full border border-primary/10 text-primary shadow-lg",
+            surfaceClass(2)
+          )}
+        >
+          <ArrowDown className="h-5 w-5" />
+        </button>
+      ) : (
+        <button
+          type="button"
+          onClick={jumpToLatest}
+          className={cn(
+            "pointer-events-auto w-fit rounded-full px-4 py-2",
+            "border border-primary/10 font-medium text-primary text-sm shadow-lg",
+            surfaceClass(2)
+          )}
+        >
+          Jump to latest ↓
+        </button>
+      )}
+    </div>
+  )
+
   return (
     <div className="flex min-h-screen flex-col">
       {}
@@ -73,41 +110,13 @@ export function DisplayFrame({
       >
         <FrameHeaderActionAt value={actionAt}>{children}</FrameHeaderActionAt>
       </article>
-      {footer != null && <FrameStickyFooter>{footer}</FrameStickyFooter>}
-      {}
-      {followMode !== null && showJumpToLatest && !chromeHidden && (
-        <div
-          data-slot="frame-jump-to-latest"
-          className="pointer-events-none sticky bottom-24 z-30 flex justify-center"
-        >
-          {followMode === "top" ? (
-            <button
-              type="button"
-              onClick={jumpToLatest}
-              aria-label="Jump to latest"
-              className={cn(
-                "pointer-events-auto flex h-11 w-11 items-center justify-center",
-                "rounded-full border border-primary/10 text-primary shadow-lg",
-                surfaceClass(2)
-              )}
-            >
-              <ArrowDown className="h-5 w-5" />
-            </button>
-          ) : (
-            <button
-              type="button"
-              onClick={jumpToLatest}
-              className={cn(
-                "pointer-events-auto w-fit rounded-full px-4 py-2",
-                "border border-primary/10 font-medium text-primary text-sm shadow-lg",
-                surfaceClass(2)
-              )}
-            >
-              Jump to latest ↓
-            </button>
-          )}
-        </div>
+      {footer != null && (
+        <FrameStickyFooter>
+          {jump}
+          {footer}
+        </FrameStickyFooter>
       )}
+      {footer == null && jump}
     </div>
   )
 }
