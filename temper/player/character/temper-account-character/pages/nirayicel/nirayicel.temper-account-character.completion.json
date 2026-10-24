@@ -5099,8 +5099,8 @@
     }
   },
   "skillPoints": {
-    "total": 414,
-    "unassigned": 28,
+    "total": 415,
+    "unassigned": 29,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -5110,7 +5110,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 176,
     "totalSkyshards": 530,
-    "zoneQuestTotal": 85,
+    "zoneQuestTotal": 86,
     "groupDungeonTotal": 25,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -5185,7 +5185,7 @@
       "EP4": 3,
       "HB": 6,
       "CL": 0,
-      "SU": 2,
+      "SU": 3,
       "MM": 0,
       "WP": 0,
       "NE": 0,
@@ -7498,10 +7498,12 @@
     6112,
     6113,
     6125,
+    6126,
     6130,
     6132,
     6134,
     6142,
+    6153,
     6171,
     6172,
     6181,
@@ -11440,7 +11442,8 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
       "2": [
         1,
@@ -14189,7 +14192,7 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792877904,
+      "capturedAt": 1792878239,
       "buildHash": "ATQOLMUCgHZhxRNCyJtAEIBCyJtAEIBC5gtuULJC5gtuULJC5gtuULJC5gtuULJC5gtuULIQlKtuULJBHb1AEIAQQbtuULImJTHbcoWURBMdbcoWVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAVTUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYABAZBxiQNYAAAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
@@ -14233,17 +14236,6 @@
       },
       "activeBuffs": [
         {
-          "abilityId": 122586,
-          "name": "Merciless Resolve",
-          "description": "",
-          "effect": "",
-          "stacks": 10,
-          "powerAtOnset": {
-            "weapon": 4285,
-            "spell": 4285
-          }
-        },
-        {
           "abilityId": 63569,
           "name": "Gallop",
           "description": "",
@@ -14285,30 +14277,8 @@
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 4285,
-            "spell": 4285
-          }
-        },
-        {
-          "abilityId": 183047,
-          "name": "Recuperative Treatise",
-          "description": "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your Arcanist skills, and striking an enemy with one deals an additional |cffffff3722|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality, increasing your Weapon and Spell Damage by |cffffff20|r%.",
-          "effect": "",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4666,
-            "spell": 4666
-          }
-        },
-        {
-          "abilityId": 194875,
-          "name": "Fated Fortune",
-          "description": "Increases your Critical Damage and Critical Healing by |cffffff0|r% while you have one or more Crux.",
-          "effect": "",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4285,
-            "spell": 4285
+            "weapon": 3475,
+            "spell": 3475
           }
         }
       ],
@@ -15921,9 +15891,9 @@
       "moving": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-critical-bonus": 0.26,
+        "healing-critical-bonus": 0.14,
         "healing-taken-base": 0.02,
-        "critical-damage": 0.36,
+        "critical-damage": 0.24,
         "healing-done-base": 0.08
       },
       "advancedSheet": {
@@ -15976,7 +15946,7 @@
           "category": "Healing Bonuses",
           "label": "Critical Healing",
           "format": "percent",
-          "percent": 26
+          "percent": 14
         },
         "sprint-speed": {
           "category": "Core Abilities",
@@ -16112,7 +16082,7 @@
           "category": "Damage Bonuses",
           "label": "Critical Damage",
           "format": "percent",
-          "percent": 36
+          "percent": 24
         },
         "bash-cost": {
           "category": "Core Abilities",
