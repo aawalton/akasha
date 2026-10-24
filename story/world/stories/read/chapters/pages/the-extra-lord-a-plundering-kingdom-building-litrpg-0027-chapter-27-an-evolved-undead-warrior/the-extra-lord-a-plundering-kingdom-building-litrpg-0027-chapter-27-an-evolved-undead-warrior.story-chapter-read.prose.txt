@@ -1,0 +1,189 @@
+Displaying a list of Tier 2 Classes.
+
+Death Knight
+
+| Focus: Dark Magic and Close Combat
+
+Abilities:
+
+| Unholy Blade: Infuse your weapon with dark energy, dealing additional necrotic damage.
+
+| Life Drain: Steal life force from enemies with each strike, healing yourself.
+
+| Dark Resilience: Enhanced resistance to physical and magical attacks.
+
+Bone Reaver
+
+| Focus: Bone Manipulation and Versatility
+
+Abilities:
+
+| Bone Armour: Utilising Vitality as an energy source, form an armour made of bones, increasing defence and reflecting some damage.
+
+| Bone Shield: Summon a shield of bones to block attacks.
+
+| Corpse Consumption: Absorb bones from fallen foes to heal, empower oneself, and gain temporary buffs.
+
+Wraithblade
+
+| Focus: Stealth and Shadow Combat
+
+Abilities:
+
+| Shadow Step: Teleport short distances through the shadows.
+
+| Phantom Strike: Perform a powerful attack that phases through armour.
+
+| Spectral Ambush: Become invisible for a short duration, with the next attack dealing massive damage.
+
+Lich Lord
+
+| Focus: Magic and Summoning
+
+Abilities:
+
+| Death Bolt: Cast a powerful bolt of necrotic energy at enemies.
+
+| Animate Dead: Permanently raise skeletons or zombies to fight alongside you.
+
+| Soul Harvest: Absorb the souls of the dead to restore mana and health.
+
+Grave Knight
+
+| Focus: Mounted Combat and Cavalry Tactics
+
+Abilities:
+
+| Eternal Steed: Summon a spectral warhorse that can traverse any terrain.
+
+| Cavalry Charge: Perform a devastating charge attack that knocks back and stuns enemies.
+
+| Deathly Cavalier: Gain enhanced combat abilities while mounted, such as increased speed and damage.
+
+Owen stopped in thought. It was all well and good he himself had something in mind, but it was best to ask Lome what he wanted. It was his life after all. And being a Lord meant choosing something that their subjects would thrive with. So that’s what he did.
+
+“What do you think, Lome?” Owen asked, clearly knowing Lome was looking at the same screen that he was.
+
+The flames hiding in Lome’s eye sockets flickered. His silence meant he was thinking. Honestly, that surprised him–
+
+“Whatever Lord chooses,” Lome said, “is good enough for me.”
+
+“Alright,” Owen sighed. So he had to make the decision in the end after all. Truthfully, although Grave Knight, Lich Lord, and Wraithblade sounded awesome, Lome was his one and only front line warrior. As the strongest right now, along with the Armour of Nerzu, he was a walking tank. Owen had to keep that role for him and enhance it.
+
+With that in mind, it was between Bone Reaver and Death Knight. Both sounded kick-ass. Both were more or less the same. But Owen was thinking of the future. Death Knight held magical properties, while Bone Reaver used Vitality as an energy source instead. It meant that instead of having to place stats into Magic and Mana, Lome could focus entirely on Strength and Vitality.
+
+The abilities weren’t as ‘cool’ as Death Knight’s were, but with the added stats, and the ability to heal, strengthen himself, and with the utility of having bone shields, made it the obvious choice to Owen.
+
+The Lord has chosen the Bone Reaver Class for the Warrior: Lome.| Lome is evolving…
+
+Owen paid attention to Lome, as did everyone else. Instead of growing taller and larger like Owen expected, Lome actually shrunk. From 7 or so feet, to around 6 foot 7. It appeared to be a big downgrade, but seeing how thick Lome’s bones were, it wasn’t so simple.
+
+Additionally, a bone-like crown had carved itself into his head, and metal grew from the surface of his bones like a natural armour. His teeth, more specifically his canines, elongated into a sharpened tip. The flames acting as his eyes had transformed from a yellow-flame, to a crackling green and black. Although shorter and more compact, he looked menacing.
+
+Lome flexed and Owen swore he saw a smile adorn his skeletal visage. Owen looked at his new stats. It was made apparent why.
+
+Name: Lome
+
+| Race: Undead Giant
+
+| Level: 25
+
+| Class: Bone Reaver
+
+Attributes:
+
+| Strength: 73
+
+| Vitality: 91
+
+| Dexterity: 25
+
+| Magic: 9
+
+| Mana: 15
+
+Skills
+
+| Overpower — Mastery: Low
+
+| Stalwart Skeleton — Mastery: Low
+
+| Bone Armour — Mastery: None
+
+| Bone Shield — Mastery: None
+
+| Corpse Consumption — Mastery: None
+
+His physical stats had taken a sharp increase. Owen got excited for his skeleton friend. Lome jumped to the side, testing his new strength as he practically blasted off, leaping at least 8 metres. The moment he landed, his dark-green eyes flashed, and he summoned a small wall of bones in front of him. Just like his own skeleton, small copper plates of metal adorned the surface of the creation.
+
+After that, he tested his Bone Armour. Absorbing the bones from the wall, they covered his body like thick plated armour.
+
+Owen had an idea. Summoning the Armour of Nerzu, he handed it over to Lome and told him to wear it, then summon the bone armour over the top. Lome did so, bone covering armour. He looked like a walking tank, but the extra weight had little effect on him. With that, he could keep the armour hidden from his enemies, while benefiting from the augments it brought him.
+
+Lome slammed his fist into his palm and looked at Owen with fervour. “I’m ready, my Lord! Point me to the enemy and I’ll devour any in my way.”
+
+Owen laughed and placed his hand on the skeleton’s shoulder. “I love the enthusiasm, Lome. But the rest of us have mortal bodies. We need rest.”
+
+“I will carry them on my back,” Lome said. “I will become the steed of my Lord’s war.”
+
+“Now that would be a damn good sight,” Rehan said in amusement.
+
+Owen smiled. “And now it’s time for the rest of you to reach the next stage. No doubt the orcen lord has the same idea as he’s busy training his warriors. He has wasted time and resources trying to hold us back. He’ll most likely change his strategy now.” He looked at Rehan. “What do you think?”
+
+“If he’s smart, then the probability is high,” Rehan said. “But did that orc really look like someone that would play the patient game with us? All his actions so far tell us that he’ll bring the rest of his force to hold us in here today, if not tomorrow.”
+
+Rehan was right. Owen vividly recalled the scene of the lord cleaving his scout in half in a rage of raw, emotional violence. But what if he had the ability to take a step back? What if he was smarter than Owen and Rehan believed.
+
+“I can see you’re not entirely sold on the idea,” Rehan added.
+
+“I’m just trying to think of all the possibilities,” Owen said. He didn’t want more of his people to die unnecessarily. If he could think of the ideal plan, two steps ahead, then that was what he had to do.
+
+“That’s out of my pay grade, I’m afraid,” Rehan shrugged.
+
+“I’m not paying you anything, though?” Owen asked, chuckling.
+
+“Ah.” Rehan smiled. “What is money worth when you can see a kingdom grow in real time? I’ll have my riches soon enough, provided we make it out of this alive.”
+
+“We’ll make it,” Owen said, “we have to.”
+
+While the other Warriors and Hunters were still recovering, Owen turned his attention to the current quests that he was working towards over the past days. The Quest to plunder rock was almost complete now thanks to his tiring work on the mountain and the passage he had created in the orc’s domain. And it was the same for the Sand Hound Quest. He had to kill only 6 more and he’d claim the extra Hunters. That would prove to be a great help.
+
+First, he’d finish up with the mission within his own domain while the others rested. Once he received the Miners, he could put them to work the moment they arrived. He wanted to create a tunnel system from the mountain, to the orcen territory. It would provide another avenue of attack if needed.
+
+That brought him to another worry. Right now, he was getting by with the cacti he had obtained. But they were running out. With more people entering his land, the need for water became a necessity. He had to find a water source, and fast. Owen and his people were going through at least 30-40 cacti per day. He was quickly running out.
+
+Although Owen was tired, he dragged himself to the mountain where he was busy carving out rooms and tunnels. It was time to cash out the Quest and see how Bimpnottin was progressing with the farm.
+
+Entering the main cavern, he took the stairs down into a wide, machine-like carved out cavern. Pockets of stone had sand within them, cactus were growing. Alongside some other plants he had seen around his land.
+
+Bimpnottin raised his friend from tending to one of the cacti and ran over, waddling his little legs. “Me Lord!” he shouted enthusiastically. Anything happening out of the farm was not of his concern. Bombs could go off and he’d be completely unaware.
+
+He continued, “As ye can see, we’ve been busy. Three allotments. One that consists of the cacti. We’ve managed to speak to the spiky plant, convinced it to take in more water, we did.”
+
+As per Bimpnottin’s words, the cacti did seem more full and larger than before. Owen tested it. He cut open a corner of the cactus, and inside, the water storage tissue of the cactus were far larger than ordinary.
+
+“In the middle allotment we have a fruit-like plant that blooms beautifully tasting fruits. Citrusy. Sour, but good, we thinks. Have a taste, my Lord!” Bimpnottin plucked a yellow and orange fruit from the green plant and offered it to Owen.
+
+“Do I have to peel it?” Owen asked, inspecting the fruit.
+
+“Nope. Just bite into it!”
+
+And so he did. Biting into the fruit, the flesh split apart with relative ease, only for a blast of juice and pulp to enter his mouth. His taste buds screamed out in pleasure. Eyes lighting up, Owen finished the entire fruit in seconds, juice dribbling down the corner of his mouth.
+
+“That’s amazing, Bimpnottin!” Owen explained. He looked at the plants. There were so many.
+
+“Thanks to our magic, yes!”
+
+Bimpnottin’s growth magic truly was quite special. Not only had it altered the taste of the fruit, increased its yield, but he had also grown them in a single day…Just how powerful would a high-star farmer be?!
+
+“The right allotment however, I’m not too sure what to do with that. I don’t know what it does yet.”
+
+“How about you go over and call Rizael the Great Healer? He has a Skill that can detect plants. He might know what it does.”
+
+“Oh, good idea, my Lord!” Bimpnottin nodded along and shot out of the cavern with haste.
+
+Owen shook his head with an amused smile. The little guy was so enthusiastic, it was quite contagious. Happy that the farm was well underway to sustaining more of his people, Owen made his way down into the tunnels. He started plundering away at the rock, further and further, securing the passages with powerful bones along the way.
+
+And then finally.
+
+Quest complete: Harvest 10,000 tonnes of Sand Rock.| Reward gained: 5 Summoning Tickets: Miners.
