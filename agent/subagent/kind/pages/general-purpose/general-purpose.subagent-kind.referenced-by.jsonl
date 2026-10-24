@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/alan-a68b884f8cd7cbf86/alan-a68b884f8cd7cbf86.subagent.ts","id":"01a0e5de-ae2c-7b75-9910-295713f7c8f3"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/amy-a55901716b5e24643/amy-a55901716b5e24643.subagent.ts","id":"01a16ece-503d-7667-94e1-f22f620e2887"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/amy-a5e75106eb382aca2/amy-a5e75106eb382aca2.subagent.ts","id":"01a16ece-33b6-7834-967f-ab55d5639bc8"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/amy-affaf9fbf9d7f9e64/amy-affaf9fbf9d7f9e64.subagent.ts","id":"01a16ece-7669-7f88-967e-107ec942f7e4"}
