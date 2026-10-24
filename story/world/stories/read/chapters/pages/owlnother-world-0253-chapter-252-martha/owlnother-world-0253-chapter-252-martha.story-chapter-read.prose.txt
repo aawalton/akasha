@@ -1,0 +1,259 @@
+The maid spent over an hour walking through the streets. Had I not been right behind her the entire time, I would have thought she was trying to lose me. Eventually, she found her way to a building at the edge of the central ring and walked down a set of stairs into a cellar. She stopped in front of the door to look around and her gaze fell on me sitting above.
+
+I hooted.
+
+“What in the warp…”, she whispered.
+
+“Is this where your boss hides?”, I sent.
+
+“… yes. Are you observing me through that owl?”
+
+“The answer to that is both yes and no.”
+
+“Mind letting me in?”, I asked quietly with my arcane speaker.
+
+She narrowed her eyes.
+
+“Fine.”
+
+She knocked on the door in a peculiar pattern. A peephole opened up and a set of eyes stared at them.
+
+“You”, a rough voice said.
+
+“And guest”, she answered.
+
+“Who?”
+
+“Someone interested in the documents.”
+
+“Come in.”
+
+The door was unlocked and we were let into a small room with a tiny table and a single chair. There was a mug of ale on top of it. The man that let us in was old and wrinkly and in his hand was a cigar. I could smell the stink even with my weak nose.
+
+We entered and the man stared between us.
+
+“A bird?”
+
+“Good day”, I said, “I’m Fio. Who are you?”
+
+“… the door boy.”
+
+“You don’t look like a boy, sir.”
+
+The man spat.
+
+“You hear that? She called me sir!”
+
+“I did hear”, the maid said.
+
+“Wait here”, he rasped.
+
+He locked the front door and left through a second one leading deeper into the building.
+
+The maid turned to me.
+
+“So you were the one following me?”
+
+I nodded.
+
+“And who’s your master?”
+
+“I am?”
+
+“No. Who hired you.”
+
+“Some middle-aged guy. Definitely disguised. Called himself Gregor.”
+
+“I see. I know a few of those.”
+
+“What do you need the documents for?”
+
+“I sell them.”
+
+“Ah. How much are you getting paid?”
+
+She smirked.
+
+“As if I’d tell you.”
+
+The second door opened up again.
+
+“He’ll see you”, the man said, “Both.”
+
+We followed him through a small wine cellar before getting into a gap between the barrels. There was a short tunnel and then another door. This one was built much more sturdy than most others I had seen. The man knocked and a girl’s voice bid us to enter.
+
+The room was somewhat comfortable for being completely underground. The walls were built clean, the gaps filled with mortar to prevent leaking water. The floor and ceiling were wood. A part in the back was partitioned off with a few curtains and to the side stood a couch. A girl not much older than Circe was slouching on top and nursing a glass of wine.
+
+“Welcome, darling. I thought you’d be faster but I heard there were some issues.”
+
+“Apologies, boss. This owl followed me. I was unable to shake her.”
+
+“You’re the boss?”, I asked.
+
+“Yes. Call me Martha, please. What brings you here, deary?”
+
+“I want a look at those documents she stole.”
+
+“Oh. Wonderful! A customer! Darling, why don’t you leave your loot with me? Your payment is in the back.”
+
+“Thanks, boss.”
+
+The maid handed over the documents and went behind the curtains. I could hear some shuffling of cloth but that was it.
+
+The boss sat up and downed her wine.
+
+“Now, let’s make a deal!”
+
+Her face shifted with a wide grin. Her somewhat loose cloak was pulled tight by an expanding body. Soon, a grown woman sat before me. I could see the faint trail of vis return to her skin. Still a disguise.
+
+“Sure. How much?”
+
+“Oh, I prefer other payment than currency. Would you mind sharing some information?”
+
+“… that’s what you trade with, then? An information network of sorts?”
+
+“Indeed. I heard about a little bird flying through the capital. Not much, mind you. Even the accounts of which species it was were… disarrayed. Which is understandable, now that I meet you. Now, if you answer some of my questions, I am willing to let you have a look at these documents.”
+
+“That seems reasonable. How many questions do you want to ask?”
+
+She smiled.
+
+“Let’s see… I want to satisfy my curiosity. But I fear that would be too much. How about we trade… one page for a question? There are seven of them here. And after that, I might have some more things for you in exchange for more questions.”
+
+“Sure thing. Ask away. If I don’t want to answer, I won’t get a page.”
+
+“Fair.”
+
+Martha nodded and settled back into her couch.
+
+“Right… where to start… Oh, I know! You are an owl, and an evolved one at that. What does your Species description say?”
+
+I pulled up my status page and read the information to her.
+
+“Sgiathan Dorcha Owl: This unique animal is an evolution of the Great Eagle Owl. It has strong alignment with darkness and related aspects. Its primary purpose is exploration and learning, especially magic. It is lonely.”
+
+“Huh. Exploration and learning? We might get along quite well, deary.”
+
+“We’ll see. Next question.”
+
+“Right. You entered the city in company of a Paladin. Why?”
+
+“She is to escort me to the Cathedral.”
+
+“An escort… Why, if that isn’t something new? You are not a [Thaumaturge], then. They would have dragged you there… What is so important about you that the Crimson Church provides an escort to their seat of power?”
+
+“… I have a deep connection with warp. In my Skills and soul.”
+
+“What are your Skills?”
+
+“Not saying.”
+
+“Can’t fault a Lady for trying. Very well… About your companions… One of them is not human. What is she?”
+
+I blinked.
+
+“I guess her disguise is worse than we thought…”
+
+“Oh, deary. How many people show not an inch of skin?”
+
+“Right. She’s a ‘living fortress’, human version.”
+
+“Now, that is good info! These damn guards and their secrecy…”
+
+“Three more”, I said.
+
+“Yes, yes, I know. Let me think about this…”
+
+She leaned back and pulled out a notebook. A stick of charcoal appeared in her hand and she started taking notes. I used the time to look around a little more. The maid had not returned from behind the partition but I still heard her breathing. She seemed to stay perfectly still. Maybe she had a Skill to avoid making noise? When Martha had not made a decision five minutes later, I decided to [Identify] her. I wanted to know who she was.
+
+[Identify]
+
+Species: Human (Adult)
+
+Age: 37
+
+Name: Elune
+
+Gender: female
+
+Status: healthy, sapient, vis enriched (medium)
+
+Level: 29
+
+Class: [Network Agent], -
+
+That… was an interesting Class. And she was vis enriched, at medium level even. She definitely had a connection to the Church somewhere. From the documents she had stolen I could somewhat safely conclude she had no connection to Eterios’ [Spymaster] so was she part of the Cathedral’s spy network? Or was there an underground faction pulling strings somewhere?
+
+“Ah, right!”, she suddenly said, “Can I [Identify] you?”
+
+“Does your [Identify] have any side effects?”
+
+“No. I do have a variant but it only keeps the information in my head. I can half-use the Skill on you again without you noticing but it won’t update anything.”
+
+“That’s awfully friendly of someone like you to tell me all that.”
+
+“I am interested in a cordial relationship. Someone that can trail one of my hired hands that easily has to be skilled.”
+
+“Very well. Go ahead, Elune. I will not count it against your remaining questions.”
+
+“Oh. Oh, my. That is an awfully powerful Skill. What does it rely on?”
+
+“My Willpower and Intelligence need to be higher than the targets to avoid notice.”
+
+“I have never heard of something like that… Normally it would depend on being unnoticed otherwise on top of a condition like that. At the very least. You have to be very experienced at staying out of sight.”
+
+“I’m an owl. Two questions.”
+
+She blinked, then shook her head. I felt the telltale push and pull of [Identify] on my soul. It was no different than normal. Her Skill had to be something purely for herself.
+
+“What a high level. And an enriched Core? I did not know that was possible. I really need to… no. Focus! Let’s see, deary. What should I ask you next? Why are you interested in these documents?”
+
+“I have accepted a target with the condition that I verify their ill-will.”
+
+“Great. No, that’s wonderful, actually. I was considering if I had to call for one of our people…”
+
+“I’m not sure I will take it quite yet.”
+
+“Oh, you will. I am confident. Alright, then. Final question.”
+
+She glanced down at her notes.
+
+“These aren’t that important. I’d rather know who ordered the hit on whom?”
+
+“That’s kind of two questions but fine. I’ll give two half-answers. The hit was ordered by a man calling himself Gregor and my main target is not the owner of those documents.”
+
+“That’s good, that’s good!”, she nodded, “Here, have these. Look through them or copy them, whatever you want. I just want to have the originals back.”
+
+I nodded and accepted the paper. The information was quite similar to what Gregor, or Dolos, had given me. The [Organizer] was taking funds meant for infrastructure and redistributing them. Only, their group was not embezzling the money for their immediate profit. They were buying weapons. And those weapons were brought to a small mining town close to the dwarven border. I only needed to think for a moment before remembering the ambush Alex had experienced and the dead town shortly after.
+
+“Hey, Martha, have you read these?”
+
+“No. That’s why I want them back.”
+
+“Well, they’re buying weapons and bringing them to a place I heard of a few days ago. You see, my friend, the living fortress, was attacked on her journey here from the dwarven border. The town just after that had not only a dead mine but one that reeked of vis. You probably want to know that.”
+
+She blinked.
+
+“Vis? Like, a node?”
+
+“Probably. Alex is better at sensing essence so it might be a hidden [Thaumaturge] but you never know.”
+
+“Why have I not heard of that? Thank you, Fio. I… will forward that information to the right people.”
+
+“I don’t think Alex really trusts the Church so I’m not surprised she never talked about it.”
+
+Martha only mumbled while scribbling in her notebook.
+
+I turned to the partition.
+
+“Goodbye, miss maid”, I called.
+
+“...goodbye”, came back a moment later.
+
+Martha looked up.
+
+“Oh, goodbye. Find me if you learn more. Or if you need something. I owe you one for that last bit.”
+
+“Thanks.”
+
+I turned around and walked out. The muttering behind me did not stop but Martha got up and walked over to the curtains. I was out before I could learn of any details. The old man guarding the entrance gave me a nod as I left. Now, it was time to take a life. To prevent a war.
