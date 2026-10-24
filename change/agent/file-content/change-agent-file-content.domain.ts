@@ -35,7 +35,8 @@ export const changeAgentFileContent = {
     "change-agent/backfill-reading-prismatic-recovery",
     "change-agent/rename-metric-reads",
     "change-agent/backfill-reading-masteries",
+    "change-agent/copy-pinned-readings",
   ],
   createdAt: "2026-09-07T16:45:09.027Z",
-  updatedAt: "2026-10-21T13:48:57.365Z",
+  updatedAt: "2026-10-24T21:34:08.537Z",
 } as const satisfies Domain

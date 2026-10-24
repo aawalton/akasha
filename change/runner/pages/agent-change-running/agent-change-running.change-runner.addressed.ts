@@ -83,6 +83,9 @@ export type Changes = {
   "change-agent/copy-entry-key-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/copy-pinned-readings": Parameters<
+    typeof import("akasha/change/agent/file-content/copy-pinned-readings/copy-pinned-readings.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/copy-property-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts")["runChange"]
   >[1]

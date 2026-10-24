@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"change/agent/file-content/backfill-reading-levels/backfill-reading-levels.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"change/agent/file-content/backfill-reading-masteries/backfill-reading-masteries.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"change/agent/file-content/backfill-reading-prismatic-recovery/backfill-reading-prismatic-recovery.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"change/agent/file-content/copy-pinned-readings/copy-pinned-readings.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"change/agent/file-content/correct-reading-booleans/correct-reading-booleans.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"change/agent/file-content/correct-set-armor-lines/correct-set-armor-lines.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.code.ts","typed":false,"deferred":false}

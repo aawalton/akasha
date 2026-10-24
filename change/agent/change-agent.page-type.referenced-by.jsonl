@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/copy-pinned-readings/copy-pinned-readings.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/correct-reading-booleans/correct-reading-booleans.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/correct-set-armor-lines/correct-set-armor-lines.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.ts","typed":true,"deferred":false}

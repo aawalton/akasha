@@ -1388,6 +1388,7 @@
 {"propertySlug":"decision-kind","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.ts","id":"01a07995-6678-72d8-97ab-a78b836b2f8d"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.ts","id":"01a07932-2568-7c41-8097-885a9fc34263"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.ts","id":"01a081db-f317-7907-8d05-07fbaed64a3d"}
+{"propertySlug":"decision-kind","path":"change/agent/file-content/copy-pinned-readings/copy-pinned-readings.change-agent.ts","id":"01a16fd5-da9a-7c71-b6df-fdf2eaca7565"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/correct-reading-booleans/correct-reading-booleans.change-agent.ts","id":"01a15986-7082-7942-81d5-9c4830ba3aa2"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/correct-set-armor-lines/correct-set-armor-lines.change-agent.ts","id":"01a159eb-72f5-7ece-a37b-387eb121a765"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.ts","id":"01a0d5c2-d5fe-7a78-b594-4228e72d99a5"}
