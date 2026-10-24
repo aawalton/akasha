@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/atlas-web/routes/atlas-map/atlas-map.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/atlas-web/routes/atlas-search/atlas-search.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/web/modules/alan-settings-page-content/alan-settings-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/web/routes/alan-web-home/alan-web-home.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/web/routes/alan-web-principles/alan-web-principles.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts","typed":true,"deferred":false}

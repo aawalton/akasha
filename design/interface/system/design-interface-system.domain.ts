@@ -36,6 +36,7 @@ export const designInterfaceSystem = {
     "module/patterns-visual-panels",
     "module/personality-tone",
     "module/properties-tab",
+    "module/scheme-choice",
     "module/property-badge-panels",
     "module/property-row-panels",
     "module/spacing-radius",
@@ -81,5 +82,5 @@ export const designInterfaceSystem = {
     },
   ],
   createdAt: "2026-09-01T10:48:05.962Z",
-  updatedAt: "2026-09-25T14:54:33.000Z",
+  updatedAt: "2026-10-24T19:57:33.386Z",
 } as const satisfies Domain

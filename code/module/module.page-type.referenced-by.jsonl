@@ -872,6 +872,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-settings-page-content/alan-settings-page-content.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/api-fetch/api-fetch.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/api-origin/api-origin.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/capacitor-bridge/capacitor-bridge.module.ts","typed":true,"deferred":false}
@@ -1623,6 +1624,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/properties-tab/properties-tab.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/property-badge-panels/property-badge-panels.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/property-row-panels/property-row-panels.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/scheme-choice/scheme-choice.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/spacing-radius/spacing-radius.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/state-layers/state-layers.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/strategic-prism/strategic-prism.module.ts","typed":true,"deferred":false}

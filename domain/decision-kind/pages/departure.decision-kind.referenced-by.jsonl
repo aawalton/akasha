@@ -1299,6 +1299,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts","id":"01a078aa-cea1-71ff-8aa2-0b3766623b39"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.ts","id":"01a0655d-dab8-7853-9f9b-b95d2c8ee8a0"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.ts","id":"01a0655d-dab8-75b5-b6b9-521ef16cadd1"}
+{"propertySlug":"decision-kind","path":"alan/web/modules/alan-settings-page-content/alan-settings-page-content.module.ts","id":"01a16f7d-6d4b-7933-81fc-27981210f219"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/api-fetch/api-fetch.module.ts","id":"01a063c9-03ff-702b-9b74-c574af51ce49"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/capacitor-bridge/capacitor-bridge.module.ts","id":"01a063c9-03ff-7eb7-8909-d39430301bb3"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/capacitor-cors/capacitor-cors.module.ts","id":"01a063c9-03ff-733a-9c12-48399577ca75"}
@@ -2712,6 +2713,7 @@
 {"propertySlug":"decision-kind","path":"design/interface/primitive/modules/textarea/textarea.module.ts","id":"01a05be9-d4c6-78ef-a0f5-7b6d2ae73b6a"}
 {"propertySlug":"decision-kind","path":"design/interface/primitive/modules/use-number-draft/use-number-draft.module.ts","id":"01a08e03-e1bc-73b8-a5dc-0d022694948e"}
 {"propertySlug":"decision-kind","path":"design/interface/system/design-interface-system.domain.ts","id":"01a05c95-564a-7ba2-ab36-d818c559b389"}
+{"propertySlug":"decision-kind","path":"design/interface/system/modules/scheme-choice/scheme-choice.module.ts","id":"01a16f7d-6d4c-795e-a5fa-d02d8c6e9e65"}
 {"propertySlug":"decision-kind","path":"design/interface/system/ring/budget-ring/budget-ring.domain.ts","id":"01a0655b-9cdd-7c1c-9464-84a197fb9eab"}
 {"propertySlug":"decision-kind","path":"design/interface/system/ring/completion-ring/completion-ring.domain.ts","id":"01a0655b-9cdd-7e64-82e6-36eae889890f"}
 {"propertySlug":"decision-kind","path":"design/interface/system/ring/ring.domain.ts","id":"01a0655b-9cdd-73ae-8a72-25ca95f9932b"}

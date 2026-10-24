@@ -81,6 +81,8 @@ export const alanWeb = {
 
     "module/readout-guarding",
 
+    "module/alan-settings-page-content",
+
     "module/route-access-holding",
 
     "module/signed-in-redirect",
@@ -97,5 +99,5 @@ export const alanWeb = {
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-01T06:38:44.740Z",
-  updatedAt: "2026-10-24T19:53:05.822Z",
+  updatedAt: "2026-10-24T19:57:33.386Z",
 } as const satisfies RouterApp
