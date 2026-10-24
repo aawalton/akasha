@@ -1,0 +1,141 @@
+The forgemaster of the Sylvan Guard was a gruff-looking guy, barking out orders left and right to a cadre of junior smiths who worked in silence at their respective forges. There were several in the open space the Sylrithar had brought me to.
+
+I briefly thought he’d give me the same treatment when I walked in alone. Aerion was off chatting with the Sylrithar, so it was just me this time.
+
+To my surprise he threw us a respectful nod before showing us to a back room where a separate forge awaited.
+
+I felt the heat well before I saw the beautiful blue flame that filled the magical elven forge’s opening.
+
+This was clearly not one of the journeyman forges his disciples were working on. In fact, it was leagues beyond anything I had ever even seen, let alone used.
+
+And then I saw the gleaming stack of silvery metal neatly arranged in a triangular pile in the corner.
+
+I rubbed my hands together in glee.
+
+Pure mythril ingots, practically begging to be crafted into [Epic] weaponry, and right next to them were racks of armor. Mythril armor. Entire suits of them, exactly as I’d asked.
+
+“Will you require any assistance?” the elf asked.
+
+I shook my head. “I should be fine,” I said. My Blessing would compensate for my lack of experience. “Thank you for this.”
+
+“Anything to help the Champion,” he said. “Still can’t believe Order finally summoned one. Maybe this time truly will be different.”
+
+“Maybe so,” I said, watching the elf disappear back into the main room before scanning the exquisite forge and the array of tools neatly organized on tables that ringed the room.
+
+My goal wasn’t just to outfit Aerion and strengthen our defenses but to maximize our advantage in every conceivable way for the upcoming Cataclysm.
+
+From what Aerion had told me, it would be unlike anything we’d ever faced before. Even with cheat-level gear, I harbored no delusions that this would be a cakewalk. At best, my efforts today would level the playing field. Without it, we might very well die in there.
+
+We were supposed to have months, if not years, to prepare for this kind of thing.
+
+Thinking about that wouldn’t solve anything, though, so I grabbed the surprisingly light ingot with some long tongs—also made of mythril alloy—and stuck it into the forge.
+
+This stuff wasn’t pure mythril, of course. The forgemaster had already done the hard part of alloying it with the right metals to ensure maximum toughness and edge retention. I just had to forge it out and work my Blessing’s magic.
+
+I started with a sword. Nothing fancy, nothing exotic—just a simple shortsword, the kind Rogar could crank out by the dozen. But this would be even simpler. No crossguard, and just leather wraps for the handles. These would be my [Launch] swords. There to defend me when needed and strike at unsuspecting enemies with [Remote Launch].
+
+The lighter and simpler they were, the better.
+
+I waited until the ingot glowed red hot before pulling it out to hammer against the high-quality anvil with my mythril hammer.
+
+“Seriously, who makes hammers out of mythril?” I muttered. It made sense, I supposed. Mythril alloy was notoriously difficult to work with thanks to its magical affinity and toughness. Without tools like these, the elves would have a hell of a time working it.
+
+I hammered, reheated, and hammered again. Over and over. To my surprise, mythril really wasn’t any more difficult to shape than other steel I’d worked with. The blade eventually began to take form, and the time came to insert the soul crystal.
+
+I didn’t want to waste my best ones—not on what was essentially a trial run. Besides, I’d soon have a portable elven forge tucked away in my inventory. Seeing how we were about to enter a high rank dungeon, I doubted I’d be short on exotic materials, either.
+
+What sorts of weapons and armor would I be able to make in there?
+
+For the first time, it really felt like my Blessing was coming together. How would I compare to the other Champions all decked out in my [Epic] and [Legendary] suits?
+
+The infusion process went much the same as before, but the faint colors that indicated the stats the weapon would have when given a soul crystal were far brighter and more distinct.
+
+And though I couldn’t say why, something within my Blessing guided me to carve a hemispherical cavity at the base of the blade, right where the tang would meet the blade.
+
+Every other instinct I had told me that this would be a horrible idea. That putting a hole there would create a glaring structural weakness just begging to break at the slightest stress.
+
+But something told me it would work, that once the crystal was embedded, it would strengthen the blade far beyond what any steel could.
+
+I chose a [Rare] orb for this occasion, carefully heating the blade one final time before gently pressing the crystal into place. I half-expected it to crack as the metal cooled around it, but it slid in smoothly and sealed tight as the metal contracted and hardened.
+
+As the final step, I quenched it in oil and tempered it in a special tempering oven the elves had, finishing the work.
+
+No matter how much I tugged and pulled, the orb in the center proved impossible to pull out. After that, I fashioned the most basic handle imaginable by wrapping leather strips tightly around the tang.
+
+Not the most comfortable thing, but the leather was mostly there for emergencies. If this went according to plan, I wouldn’t be wielding these things at all. Partly why I had omitted a crossguard as well. The lighter this was, the better it would [Launch].
+
+What I eventually came away with was a beautiful shortsword that even Aerion looked at with awe. Basic and undecorated, sure, but structurally perfect, free of impurities, and ready for me to work my magic. Holding my breath, I Initialized the sword.
+
+Would you like to Initialize Soul-Woven Mythril Shortsword [Rare]? Essence Cost: 17.
+
+I blinked at the cost. A [Rare] weapon for about half the cost of what it should’ve been? And why was it [Rare] instead of [Epic], as I thought Mythril gear would be? Was that because of the intact soul inside it? It was the only explanation I could think of, on both counts.
+
+Soulwoven Mythril Shortsword [Rare]
+
+Condition: 1000/1000
+
+Of transcendent quality and forged from an exotic elven metal. And you did a pretty damn good job of it too! Just don’t hold it too much.
+
+Stats:
+
+— Vigor: 17
+
+— Order: 13
+
+— Wisdom: 3
+
+— Grace: 22
+
+— Dominion: 23
+
+Abilities:
+
+— Blade Projection[Foundation - 0]: Creates a metaphysical edge that doubles blade length.
+
+Note: The intact soul that dwells within this blade imbues it with a limited amount of autonomy, including the ability to follow basic commands. All stats granted by soulwoven items are applied immediately and do not need to be earned, so long as the item is being actively wielded.
+
+“The fuck?”
+
+If ‘autonomy’ meant what I thought it meant, then I wasn’t nearly excited enough. And that bit about the stats!
+
+I stared in shock at the description. As if all of that wasn’t enough, Blade Projection alone was insanely useful, depending on how powerful the projected blade was. But the fact that it could act independently? What the hell was this?
+
+Glancing at my own stats, sure enough, my earned stats had increased by the amount of the sword, breaking above even my own ceiling.
+
+Fully believing it wouldn’t work, I gave the sword a mental command to hover in midair.
+
+To my utter shock, when I let go, it remained in place. With another thought, I told it to flip horizontal, which it did almost immediately. It then flew toward the nearest wall. I tried to redirect it at the last moment, but while it responded, it wasn’t fast enough to avoid impacting the wall and clattering to the ground.
+
+I winced, wondering if I’d done any damage. A quick check of its condition showed me it wasn’t any worse for wear.
+
+I gave it another command. It rose again and hovered in midair.
+
+“Wicked cool,” I muttered.
+
+The [Rare] soul crystal I’d used clearly hampered its autonomy somewhat, but this was still incredibly useful. Also, the stats I’d earned by wielding it disappeared the moment it left my hand. So much for abusing that mechanic. Actually, it was worse than that. The sword was bringing its own stats, not enhancing mine. Which meant that I wouldn’t grow at a faster rate or gain any ceiling bump thanks to its effect.
+
+This was a one-time boost, gained as long as I held the weapon.
+
+Even so, my mind spun with the possibilities. Now, not only could I adjust my stats based on the suit I wore, but my choice of weaponry would immediately shift that as well.
+
+For the next run, I melted down that original sword, reclaiming its soul gem, before creating three with the precious few [Epic] I had. I’d need those for the armor, so as much as I wanted to, I didn’t have the luxury of using them for these swords.
+
+I focused the stats entirely on Dominion, Vigor, and Grace. Not like a flying sword had any need of Passion, and I highly doubted it’d be able to use Order. Maybe a [Legendary] could, but even my [Epic] soul crystals were from creatures that would never have been able to master soul magic.
+
+Wisdom was trickier, though. I knew from experience that Wisdom allowed greater manipulation of magic, but I wasn’t sure if the rare or even epic gems could handle that. Still, I put a few points of the stat for two of them, just to test it out. The other I left untouched, adding a crossguard and a pre-made wooden handle the elves had created.
+
+The difference was night and day. Where the Rare-infused swords struggled with responsiveness and had trouble turning sharply, the epic ones sliced effortlessly through the air.
+
+Not just that, they could obey more complex commands too, like ‘guard me’ or ‘spin in a circle’.
+
+Just with those alone, they’d be able to dish out serious damage, not to mention the nasty surprise that would be in store for enemies. Especially when [Remote Launched].
+
+Some hours later, I had two Mythril blades and a Mythril tower shield—provided by the elves and Soulwoven and Initialized by me—all spinning around me in midair like a giant buzzsaw. A spinning vortex of death ready to mince and bash the ever-living shit out of anything stupid enough to wander too close.
+
+It was the most badass fucking thing ever.
+
+I laughed. How could I not? I felt like a fucking god. I laughed the most evil villain laugh I ever had, my voice echoing against the stone walls…
+
+Right as Aerion walked into the room… and froze, eyes shooting open wide in horror.
+
+“What on Axius are you doing!?”

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const soulweaverB3StubsNov2nd0082Soulweaver221SoulPanic = {
+  id: "01a16d50-bfe4-7a96-8676-b8d41556bc12",
+  type: "page-type/story-chapter-read",
+  slug: "soulweaver-b3-stubs-nov-2nd-0082-soulweaver-221-soul-panic",
+  position: 82,
+  publishedAt: "2026-04-01",
+  unit: "unit/words",
+  title: "Soulweaver 221: Soul Panic",
+  story: "story-read/soulweaver-b3-stubs-nov-2nd",
+  ownLength: 1572,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3219417",
+      externalLink:
+        "https://www.royalroad.com/fiction/82936/soulweaver-b3-stubs-nov-2nd/chapter/3219417/soulweaver-221-soul-panic",
+    },
+  ],
+  createdAt: "2026-10-24T09:49:30.977Z",
+  updatedAt: "2026-10-24T09:49:30.977Z",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,155 @@
+We moved through the base’s subterranean corridors faster than we otherwise would have, thanks to Yashas’s awareness giving us a map of every threat within range.
+
+I’d never appreciated what an utterly unfair advantage it was to have minimaps in games, or sensory abilities that let you detect what was on the other side of a door.
+
+Most people just didn’t need skills like that in life, but now I was desperately wishing I had a Cunning suit. It might not grant me the level of total awareness Yashas had, but damn would it be handy.
+
+Instead of perfect awareness, I had short-range teleportation, which was almost as good, and I was ready to grab Yashas and fold space at a moment’s notice.
+
+We’d already had to use it a couple of times to bypass patrols and ferry us down several more flights of stairs, and I had no doubt I’d be flexing that muscle even more in the next few minutes.
+
+The hallways were as utilitarian as one might expect from a modern military installation. Concrete walls, fluorescent lighting, and the occasional posted sign in Japanese that I couldn’t read. It was sometimes hard to remember I was in a dungeon with how different this was from the other one I’d delved.
+
+Which made me recall all the places Cosmo had brought me, which in turn made me wonder for the thousandth time if those would be dungeons I’d visit in the future.
+
+I had to talk to the guy, but I knew even if I did, he wouldn’t give me a straight answer. I needed to do some digging of my own. Confront him with hard evidence he’d be forced to acknowledge somehow. If I were smart, I could frame the encounter such that even when he inevitably dodged the question, the way he dodged it would give me a clue.
+
+We turned a corner, and Yashas stopped so abruptly I almost ran into him.
+
+I was about to ask him what was up, but he held up a hand.
+
+“There is a large open space ahead,” he whispered. “So large it exceeds my maximal range.”
+
+Given how absurdly far the guy could see, that meant this had to be a truly cavernous space. But what could be this large so far underground?
+
+I got my answer soon enough.
+
+We crept forward until we reached a junction where the hallway opened into a catwalk overlooking what I could only describe as a massive underground hangar.
+
+The space was so enormous, I honestly couldn’t believe what I was seeing. We’d emerged near the ceiling of a space that had to be at least ten stories in height, supported by massive concrete pillars on the sides that went up to vaulted arched ceilings. And filling that space was enough military hardware to make an arms dealer weep with joy.
+
+At least a dozen helicopters sat in a neat line, ranging from transport birds to the attack gunships we’d seen circling overhead. They were parked in neat rows, some with maintenance crews working on them. All skeletons, of course.
+
+That, however, wasn’t even the crazy part.
+
+That honor belonged to what looked like a runway in the distance. An underground runway that angled upward toward what must have been a concealed launch exit to the surface. It explained how they always seemed to have air support ready to go. I’d assumed they were launching from some military base elsewhere in Tokyo, calling in reinforcements.
+
+Reality outdid my imagination. They had their own damned airfield down here.
+
+And it wasn’t just helicopters, either.
+
+Rows of fixed-wing aircraft stretched into the distance. Everything from fighter jets with sleek profiles and modern hexagonal wings to cargo planes that looked like they could carry tanks to the bat wing that loomed over them all at the very end.
+
+“You’ve gotta be shitting me,” I muttered, earning a frown from Yashas when he traced my line of sight.
+
+“What is that?” he asked.
+
+“That,” I said, “is a B-21 Raider. A state-of-the-art strategic nuclear bomber with the ultimate in stealth capability. Pretty much the crown jewel of the most advanced military on the planet.”
+
+I’d known the US had stationed their big guns in Japan once the war began, but to find one here was a surprise.
+
+Tearing my eyes off the thing, I looked down the runway to find the telltale rails and mechanisms of a catapult launch system, like the ones on aircraft carriers. Because of course they had that. Why wouldn’t they have a goddamn carrier-style launch system in their underground evil lair?
+
+I didn’t think Raiders could launch from carrier catapults, but who knew what modifications the skeletons had done?
+
+Who knew what all the gods had changed to suit their creation? A more sinister voice at the back of my head said.
+
+“The scale of this operation is truly staggering,” Yashas muttered, sounding as stunned as I felt. “Just when I think I can no longer be amazed at the wonders of your civilization, I come across this. Greg, this is no mere shield generator. This is a full military command center.”
+
+I was about to respond when Yashas pointed at the Raider. “Can you fly that?”
+
+I laughed. “Unfortunately, none of the sims I played had a B-21, and even if they did, I doubt the preflight checks would be true to life. That’s a military secret. Hell, the only reason I’m halfway confident I can start the F-35 is because it’s designed for rapid response.”
+
+Even then, I was all but sure I’d have to figure things out on the fly. I’d hoped to have hours to tinker with the thing and figure it out, but reality was always a bitch. I’d be lucky if I had minutes.
+
+“Are those the type of planes you can fly?”
+
+I looked closer at the jets in question, squinting to make out details from our vantage point. The profile was distinctive with its single engine, internal weapons, and stealth design.
+
+“Yeah,” I said slowly. “Those are F-35s, alright. I can maybe fly them. Assuming I have the right auth codes.”
+
+I’d logged hundreds of hours in simulators back on Earth, but I had no delusions that the real thing would be the same. The planes in those games had been put in by aviation nerds—who, admittedly, were often scarily good at guessing military secrets.
+
+If I did end up flying one of those, I’d be relying on their nerdiness for my own survival. The thought absolutely terrified me. Especially since modern military jets literally couldn’t be flown without computer assistance keeping them in the air—computers that should do their thing without the pilot ever noticing… if they were properly configured.
+
+“Auth codes?” Yashas asked.
+
+“To start the aircraft and unlock its weapons systems. Military aircraft have security features to prevent unauthorized use. Usually tied to biometrics or cryptographic tokens.” I gestured at the fighters. “Without the codes, they’re just very expensive paperweights.”
+
+“I am no stranger to the importance of securing military assets, though we used far more mundane mechanical locks,” Yashas said before going quiet for a moment in thought. “We should acquire those codes now, before the situation deteriorates further. Once we destroy the shield generator, the current level of chaos will seem like a placid lake by comparison.”
+
+I had to hand it to him—that was smart thinking. I’d have procrastinated that difficult task to the last minute and probably been screwed for it. “You’re right. My guess is they’re either keyed to biometrics or embedded into the IFF transponders pilots carry. And, uh, considering how skeletons have no face or fingerprint, I’m gonna guess biometrics are out.”
+
+Was there even enough uniqueness among skulls to use for facial recognition? I had no idea, but I bet I was probably the only person to have ever entertained that ridiculous notion.
+
+The general closed his eyes, concentrating on his awareness ability. “There’s a ready room adjacent to the hangar. I’m sensing… one signature inside. Likely a pilot on standby, though I cannot be certain.”
+
+“Well, if it’s just one guy, we can find out.”
+
+We made our way around the perimeter of the hangar, staying in the shadows and using maintenance equipment for concealment. Yashas’s ability let us avoid the skeleton work crews, and [Spacefold] got us past a couple of patrol routes that would’ve otherwise caught us, allowing us to just… walk on by like we belonged there.
+
+It felt so wrong. It felt like cheating, because that was what it was. It was the same thing I did after replaying a level two dozen times to memorize all that stuff the hard way.
+
+I glanced at Yashas beside me. For all his physical frailty, he very well might be the most terrifying Champion of the bunch.
+
+The ready room was more or less what I expected. A large locker room with some benches, a few chairs, a coffee maker that I had no idea how skeletons were supposed to enjoy, and a lone skeleton in a flight suit sitting at a desk reviewing what looked like mission briefings.
+
+I didn’t need him to have a face to know he was bored out of his mind.
+
+The skeleton looked up, but I didn’t give him time to react. [Spacefold] put me right behind him, and I grabbed him by the collar and slammed him against the nearest locker hard enough to bend the metal.
+
+“Authorization codes,” I growled. “For your F-35. Now.”
+
+The skeleton’s skull turned to look at me, and despite lacking any lips or flesh, I could’ve sworn he was sneering at me. “You think a fleshling like you could pilot that bird?”
+
+I didn’t know what shocked me more—the fact this guy could talk, or that he had a heavy Aussie accent.
+
+In any other circumstance, I would’ve cracked up. Instead, I just pinned him harder, until his bones creaked.
+
+“As a test pilot, I’ve flown most of those birds you’ve got caged in there, so yeah. Gimme the codes, or I take your life.”
+
+The skeleton cackled. “My life? Mate, I’m already dead!”
+
+Its cackles turned into full-blown laughter, and I was sure someone would hear him if I let it go on any longer.
+
+Well, shit. So much for the easy way.
+
+Light of the Fearless took his head off in one clean strike. The body collapsed, and I caught it before it could make noise hitting the floor.
+
+“His IFF transponder probably has the codes embedded in it,” I said to Yashas, pulling the device off the skeleton’s flight suit. “Military hardware usually syncs with personal ID tags. This should work as a master key. If we’re lucky…”
+
+“Yes, luck,” Yashas said, looking like he’d just swallowed a fish. “I very much detest plans that rely on luck.”
+
+I shrugged. “It’s simple, at least. And you’re the general. If it fails, we improvise.”
+
+I shoved the skeleton’s corpse into my inventory, silently thankful that the people stored in there couldn’t see or think. Aerion, Richard, and Arianna would probably freak the fuck out if they suddenly found themselves sharing space with random corpses.
+
+We left the ready room and continued deeper into the complex, following Yashas’s instinct and the map in his head.
+
+The shield generator was likely not a small thing, and it would likely be well protected. That made it relatively easy to find.
+
+I was starting to wonder just how much longer we could keep this stealth run going when the question was answered for me.
+
+Alarms started blaring, and the corridors’ white lighting was replaced with flashing red.
+
+I heard the unmistakable sound of running boots before Yashas announced that we were about to have lots of company, converging from all directions.
+
+“Well,” I said, drawing Light of the Fearless. “No need for stealth anymore, I guess.”
+
+“Indeed,” Yashas replied, bringing up his rifle. “It is time we fought.”
+
+Fighting almost came as a relief to all this sneaking around, but I had to wonder how they’d spotted us. We’d gone undetected for so long. For them to have pinpointed our location… were they tracking our IFF tags? Or did their cameras finally pick up our thermal signatures?
+
+Whatever the case, our cover was blown, so we moved fast… until an entire platoon of skeleton warriors rushed into the hallway junction up ahead.
+
+I pulled everyone out, hoping that the rushing skeletons would be enough explanation of our current situation.
+
+At least, that was the plan—but as Yashas must have known well, no plan survived contact with the enemy, and ours was no different.
+
+Because our enemies rushed into the junction… and rushed right past, taking a different corridor, leaving us alone.
+
+Alone, and dumbfounded.
+
+“Someone mind explaining what the bloody hell just happened?” Richard asked.
+
+“That’s a great idea,” I replied, still staring at the empty junction. “Because I’d sure as hell like one myself.”
