@@ -48,7 +48,7 @@ export const recentLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A job's tree holds part of its history, and answers as a landing's tree does.",
+      statement: "A job's tree holds the whole history, and answers as a landing's tree does.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -57,5 +57,5 @@ export const recentLanding = {
     },
   ],
   createdAt: "2026-09-15T19:58:06.674Z",
-  updatedAt: "2026-09-25T14:12:22.000Z",
+  updatedAt: "2026-10-24T22:49:35.219Z",
 } as const satisfies Module

@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { LATELY_SECONDS } from "akasha/check/code/pages/no-unused-exports/modules/recent-landing/recent-landing.module.code.ts"
 import { ci } from "akasha/infrastructure/container-image/dockerfile/built-image/ci/ci.built-image.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
@@ -87,30 +86,43 @@ test("every git call in a job reads the token from the job's environment when as
   expect(said).toContain("username=x-access-token")
 })
 
-test("a job fetches the commit it is made at rather than the whole history", () => {
-  expect(scriptOf(COMMIT, null)).toContain(`--depth 1 origin ${COMMIT}`)
-  expect(scriptOf(COMMIT, null)).toContain("git checkout -q FETCH_HEAD")
+test("a job fetches into the history its disk keeps what that history lacks", () => {
+  const said = scriptOf(COMMIT, null)
+  expect(said).toContain("git init -q --bare /mirror/akasha.git")
+  expect(said).toContain(`git fetch -q --no-tags origin '+refs/heads/*:refs/heads/*' ${COMMIT}`)
+  expect(said).not.toContain("--shallow-since")
+  expect(said).not.toContain("--depth")
 })
 
-test("a job handed no earlier commit fetches that commit and the history behind it", () => {
-  const since = `--shallow-since=@$(( $(date +%s) - ${LATELY_SECONDS} ))`
-  expect(scriptOf(COMMIT, null)).toContain(`${since} origin ${COMMIT}`)
-  expect(scriptOf(COMMIT, null).split(COMMIT).length - 1).toBe(2)
-  expect(scriptOf(COMMIT, COMMIT).split(COMMIT).length - 1).toBe(2)
+test("a job takes the history's disk one fetch at a time, and lets it go before the run", () => {
+  const said = checkedOut(COMMIT, null)
+  const held = said.findIndex((one) => one.startsWith("flock 8"))
+  const fetched = said.findIndex((one) => one.includes("git fetch"))
+  const left = said.indexOf("exec 8>&-")
+  const cloned = said.findIndex((one) => one.startsWith("git clone"))
+  expect(held).toBeGreaterThan(-1)
+  expect(held).toBeLessThan(fetched)
+  expect(left).toBeGreaterThan(fetched)
+  expect(left).toBeLessThan(cloned)
 })
 
-test("how far back that history reaches is read from the check reading it", () => {
-  expect(scriptOf(COMMIT, null)).toContain(`- ${LATELY_SECONDS} ))`)
+test("a job's tree reads its objects from the history its disk keeps", () => {
+  const said = scriptOf(COMMIT, null)
+  expect(said).toContain("git clone -q --shared --no-checkout /mirror/akasha.git /app/repo")
+  expect(said).toContain(`git checkout -q --detach ${COMMIT}`)
 })
 
-test("a commit older than that history is fetched on its own rather than failing", () => {
-  expect(scriptOf(COMMIT, null)).toContain(`|| git fetch -q --depth 1 origin ${COMMIT}`)
+test("the history its disk keeps loses no object a job's tree reads", () => {
+  const said = scriptOf(COMMIT, null)
+  expect(said).toContain("git config gc.auto 0")
+  expect(said).toContain("git repack -q -d --geometric=2")
+  expect(said).not.toContain("prune")
 })
 
-test("a job fetches an earlier commit it is handed beside the commit it is made at", () => {
+test("a job fetches an earlier commit it is handed where the history lacks it", () => {
   const said = scriptOf(COMMIT, WAS)
-  expect(said).toContain(`--depth 1 origin ${WAS}`)
-  expect(said.indexOf(WAS)).toBeLessThan(said.indexOf(`origin ${COMMIT}`))
+  expect(said).toContain(`git cat-file -e ${WAS}^{commit}`)
+  expect(said.indexOf(`origin ${WAS}`)).toBeLessThan(said.indexOf("git clone"))
 })
 
 test("an earlier commit origin no longer carries leaves the rest of the job running", () => {
@@ -119,8 +131,7 @@ test("an earlier commit origin no longer carries leaves the rest of the job runn
 
 test("a fetch of the commit the transport dropped is made again after a pause", () => {
   const said = scriptOf(COMMIT, null)
-  expect(said).toContain("until git fetch -q --shallow-since=")
-  expect(said).toContain(`|| git fetch -q --depth 1 origin ${COMMIT}; do`)
+  expect(said).toContain("until git fetch -q --no-tags origin")
   expect(said).toContain("sleep $((tried * 5))")
 })
 
@@ -129,7 +140,13 @@ test("a fetch made again past the tries named fails the job", () => {
 })
 
 test("an earlier commit is fetched once", () => {
-  expect(scriptOf(COMMIT, WAS)).not.toContain(`until git fetch -q --depth 1 origin ${WAS}`)
+  expect(scriptOf(COMMIT, WAS)).not.toContain(`until git fetch -q --no-tags origin ${WAS}`)
+  expect(scriptOf(COMMIT, COMMIT)).not.toContain("git cat-file")
+})
+
+test("a job naming no disk for the history mounts none", () => {
+  expect(jobYamlFor(NAME, SCRIPT)).not.toContain("/mirror")
+  expect(jobYamlFor(NAME, SCRIPT, null, null, 60, "held-disk")).toContain("claimName: held-disk")
 })
 
 test("an install that went well says nothing, and one that failed says all it said", () => {

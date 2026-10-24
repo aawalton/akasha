@@ -3,6 +3,7 @@ import { ref } from "akasha/command/argument/pages/ref.argument.ts"
 import { uncounted } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { deploy } from "akasha/command/pages/deploy/deploy.command.ts"
 import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-account.manifest.ts"
+import { deployCache } from "akasha/infrastructure/job/deploy-cache/deploy-cache.manifest.ts"
 import {
   checkedOut,
   NAMED,
@@ -57,5 +58,6 @@ export function jobYamlFor(
   was: string | null
 ): string {
   const script = scriptFor(given, subject, commit, was)
-  return yamlFor(jobNameFor(subject, commit), script, null, deployAccount.slug, DEADLINE_SECONDS)
+  const named = jobNameFor(subject, commit)
+  return yamlFor(named, script, null, deployAccount.slug, DEADLINE_SECONDS, deployCache.slug)
 }

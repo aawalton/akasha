@@ -52,6 +52,10 @@ export const deployJob = {
         "A job fetches the commit its subject was last deployed at beside the commit it is made at.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy's job reads the history the deploys' own disk keeps.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here applies the job to the cluster.",
     },
@@ -64,6 +68,6 @@ export const deployJob = {
       statement: "Nothing here says what a pod a job starts is given.",
     },
   ],
-  updatedAt: "2026-10-08T17:20:34.578Z",
+  updatedAt: "2026-10-24T22:49:35.219Z",
   createdAt: "2026-09-14T17:28:13.666Z",
 } as const satisfies Module

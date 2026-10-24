@@ -31,8 +31,14 @@ test("the deploy a job carries runs under no ceiling of the command's own", () =
 
 test("the commit the subject was last deployed at is fetched beside the one being made", () => {
   const said = scriptFor(ROOT, SUBJECT, COMMIT, WAS)
-  expect(said).toContain(`--depth 1 origin ${WAS}`)
-  expect(said.indexOf(WAS)).toBeLessThan(said.indexOf(`origin ${COMMIT}`))
+  expect(said).toContain(`git fetch -q --no-tags origin ${WAS} || true`)
+  expect(said.indexOf(`origin ${WAS}`)).toBeLessThan(said.indexOf(`checkout -q --detach ${COMMIT}`))
+})
+
+test("a deploy's job reads the history its disk keeps", () => {
+  const said = jobYamlFor(ROOT, SUBJECT, COMMIT, null)
+  expect(said).toContain("claimName: deploy-cache")
+  expect(said).toContain("mountPath: /mirror")
 })
 
 test("a job carries the name it is known by", () => {

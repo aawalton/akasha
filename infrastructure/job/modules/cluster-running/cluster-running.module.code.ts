@@ -1,4 +1,3 @@
-import { LATELY_SECONDS } from "akasha/check/code/pages/no-unused-exports/modules/recent-landing/recent-landing.module.code.ts"
 import { HOLD } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
 import { type PushOutcome, pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import {
@@ -84,36 +83,58 @@ const FETCH_TRIES = 6
 
 const FETCH_PAUSE_SECONDS = 5
 
-const SINCE = `--shallow-since=@$(( $(date +%s) - ${LATELY_SECONDS} ))`
-
-function fetching(ref: string): string {
-  return `git fetch -q ${SINCE} origin ${ref} || git fetch -q --depth 1 origin ${ref}`
-}
-
-function fetchedAgain(ref: string): string {
-  const stop = `[ "$tried" -lt ${FETCH_TRIES} ] || exit 1`
-  const pause = `sleep $((tried * ${FETCH_PAUSE_SECONDS}))`
-  return `tried=0; until ${fetching(ref)}; do tried=$((tried + 1)); ${stop}; ${pause}; done`
-}
-
 const INSTALL_SAID = "/tmp/install.said"
 
 const INSTALLED = `bun install --frozen-lockfile > ${INSTALL_SAID} 2>&1 || { cat ${INSTALL_SAID}; exit 1; }`
 
-function fetchedFor(commit: string, was: string | null): readonly string[] {
-  const at = fetchedAgain(commit)
-  if (was === null || was === commit) return [at]
-  return [`${fetching(was)} || true`, at]
+const MIRROR = "mirror"
+
+const MIRROR_MOUNT_PATH = "/mirror"
+
+const MIRROR_REPO_PATH = `${MIRROR_MOUNT_PATH}/akasha.git`
+
+const MIRROR_LOCK = `${MIRROR_MOUNT_PATH}/mirror.lock`
+
+const MIRROR_HELD = 8
+
+const BRANCHES = "'+refs/heads/*:refs/heads/*'"
+
+function mirrorFetching(ref: string): string {
+  return `git fetch -q --no-tags origin ${BRANCHES} ${ref}`
+}
+
+function mirrorFetchedAgain(ref: string): string {
+  const stop = `[ "$tried" -lt ${FETCH_TRIES} ] || exit 1`
+  const pause = `sleep $((tried * ${FETCH_PAUSE_SECONDS}))`
+  return `tried=0; until ${mirrorFetching(ref)}; do tried=$((tried + 1)); ${stop}; ${pause}; done`
+}
+
+function earlierMirrored(commit: string, was: string | null): readonly string[] {
+  if (was === null || was === commit) return []
+  const held = `git cat-file -e ${was}^{commit} 2>/dev/null`
+  return [`${held} || git fetch -q --no-tags origin ${was} || true`]
 }
 
 export function checkedOut(commit: string, was: string | null): readonly string[] {
+  const named = `git remote set-url origin ${GIT_TRANSPORT_ORIGIN}`
   return [
     "set -eu",
-    `git init -q ${ORCHESTRATOR_CACHE_REPO_PATH}`,
+    `exec ${MIRROR_HELD}>${MIRROR_LOCK}`,
+    `flock ${MIRROR_HELD}`,
+    `find ${MIRROR_REPO_PATH} -name '*.lock' -delete 2>/dev/null || true`,
+    `[ -f ${MIRROR_REPO_PATH}/HEAD ] || git init -q --bare ${MIRROR_REPO_PATH}`,
+    `cd ${MIRROR_REPO_PATH}`,
+    "git config gc.auto 0",
+    "git config transfer.unpackLimit 1",
+    `${named} 2>/dev/null || git remote add origin ${GIT_TRANSPORT_ORIGIN}`,
+    mirrorFetchedAgain(commit),
+    ...earlierMirrored(commit, was),
+    "git repack -q -d --geometric=2",
+    `exec ${MIRROR_HELD}>&-`,
+    `git clone -q --shared --no-checkout ${MIRROR_REPO_PATH} ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
-    `git remote add origin ${GIT_TRANSPORT_ORIGIN}`,
-    ...fetchedFor(commit, was),
-    "git checkout -q FETCH_HEAD",
+    named,
+    `git checkout -q --detach ${commit}`,
     INSTALLED,
   ]
 }
@@ -159,6 +180,16 @@ function workingOn(keptAt: string | null): object {
   return { name: WORK, persistentVolumeClaim: { claimName: keptAt } }
 }
 
+function mirrorOn(mirroredAt: string | null): readonly object[] {
+  if (mirroredAt === null) return []
+  return [{ name: MIRROR, persistentVolumeClaim: { claimName: mirroredAt } }]
+}
+
+function mirrorMounted(mirroredAt: string | null): readonly object[] {
+  if (mirroredAt === null) return []
+  return [{ name: MIRROR, mountPath: MIRROR_MOUNT_PATH }]
+}
+
 function actingAs(account: string | null): object {
   if (account === null) return { automountServiceAccountToken: false }
   return { serviceAccountName: account }
@@ -169,7 +200,8 @@ function jobFor(
   script: string,
   keptAt: string | null,
   account: string | null,
-  deadline: number
+  deadline: number,
+  mirroredAt: string | null
 ): ApiObjectManifest {
   return {
     apiVersion: "batch/v1",
@@ -196,7 +228,7 @@ function jobFor(
           restartPolicy: "Never",
           ...actingAs(account),
           securityContext: { seccompProfile: { type: UNCONFINED } },
-          volumes: [workingOn(keptAt), { name: HELD, emptyDir: {} }],
+          volumes: [workingOn(keptAt), { name: HELD, emptyDir: {} }, ...mirrorOn(mirroredAt)],
           containers: [
             {
               name: JOB.toLowerCase(),
@@ -221,6 +253,7 @@ function jobFor(
               volumeMounts: [
                 { name: WORK, mountPath: ORCHESTRATOR_CACHE_MOUNT_PATH },
                 { name: HELD, mountPath: HOLD },
+                ...mirrorMounted(mirroredAt),
               ],
               resources: {
                 requests: { cpu: "2", memory: "6Gi" },
@@ -239,9 +272,11 @@ export function jobYamlFor(
   script: string,
   keptAt: string | null = null,
   account: string | null = deployAccount.slug,
-  deadline: number = DEADLINE_SECONDS
+  deadline: number = DEADLINE_SECONDS,
+  mirroredAt: string | null = null
 ): string {
-  return synthOne(JOB_NAMESPACE, name, jobFor(name, script, keptAt, account, deadline))
+  const job = jobFor(name, script, keptAt, account, deadline, mirroredAt)
+  return synthOne(JOB_NAMESPACE, name, job)
 }
 
 export type Running = (argv: readonly string[], text: string | null) => Promise<Ran>

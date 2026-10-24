@@ -132,15 +132,24 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A job fetches the commit it is made at rather than the whole history.",
+      statement:
+        "A job checking a commit out reads the whole history from a disk its caller names.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A job fetches the history a check reads back over beside that commit.",
+      statement: "A job fetches onto that disk only what the history there lacks.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "How far back that history reaches is read from the check reading it.",
+      statement: "A job takes that disk one fetch at a time and lets it go before its run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job's tree is its own, and reads its objects from the history on that disk.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The history on that disk loses no object, so no job's tree loses one.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -148,11 +157,7 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A commit older than that history is fetched on its own rather than failing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A job fetches an earlier commit it is handed beside the commit it is made at.",
+      statement: "A job fetches an earlier commit it is handed where the history lacks it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -335,6 +340,6 @@ export const clusterRunning = {
       statement: "A tree naming no commit of its own asks for every commit, however much it holds.",
     },
   ],
-  updatedAt: "2026-10-20T19:19:59.480Z",
+  updatedAt: "2026-10-24T22:49:35.219Z",
   createdAt: "2026-09-16T15:05:01.599Z",
 } as const satisfies Module
