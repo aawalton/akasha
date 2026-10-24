@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   draftKept,
   draftKey,
+  draftWith,
   dropDraftSent,
   enterSends,
   keepDraft,
@@ -94,6 +95,14 @@ test("a draft typed after the send went is kept when the send is confirmed", () 
   keepDraft(shelf, key, "the next message")
   dropDraftSent(shelf, key, "send this")
   expect(draftKept(shelf, key)).toBe("the next message")
+})
+
+test("a message taken back fills an empty composer", () => {
+  expect(draftWith("  ", "what I said")).toBe("what I said")
+})
+
+test("a message taken back goes before what is being written, a blank line between", () => {
+  expect(draftWith("a new thought", "what I said")).toBe("what I said\n\na new thought")
 })
 
 test("a store that refuses keeps nothing and throws nothing", () => {

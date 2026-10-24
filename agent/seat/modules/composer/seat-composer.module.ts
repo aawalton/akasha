@@ -122,7 +122,15 @@ export const seatComposer = {
       decisionKind: "decision-kind/absence",
       statement: "An image attached is not kept that way, and a reload drops it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message taken back returns its words to the box.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Words returned go before what the box holds, with a blank line between.",
+    },
   ],
   createdAt: "2026-09-24T18:02:40.725Z",
-  updatedAt: "2026-10-24T21:17:06.044Z",
+  updatedAt: "2026-10-24T22:27:09.050Z",
 } as const satisfies Module

@@ -57,6 +57,12 @@ export function dropDraftSent(shelf: Shelf | null, key: string, sent: string): u
   return undefined
 }
 
+export type Returned = { readonly key: number; readonly text: string }
+
+export function draftWith(draft: string, returned: string): string {
+  return draft.trim() === "" ? returned : `${returned}\n\n${draft}`
+}
+
 export function enterSends(event: Parameters<typeof sendsNow>[0], touch: boolean): boolean {
   return !touch && sendsNow(event)
 }
@@ -257,16 +263,28 @@ export function SeatComposer({
   seat,
   onSend,
   voice,
+  returned,
 }: {
   seat: string
   onSend: (text: string, images: readonly File[]) => Promise<boolean>
   voice?: Voice
+  returned?: Returned | null
 }) {
   const key = draftKey(seat, useUserId())
   const [draft, setDraft] = useState("")
+  const taken = useRef<number | null>(null)
   useEffect(() => {
     setDraft(draftKept(shelfHere(), key))
   }, [key])
+  useEffect(() => {
+    if (returned == null || returned.key === taken.current || returned.text === "") return
+    taken.current = returned.key
+    setDraft((held) => {
+      const merged = draftWith(held, returned.text)
+      keepDraft(shelfHere(), key, merged)
+      return merged
+    })
+  }, [returned, key])
   const { attached, add, remove, clear } = useAttached()
   const picker = useRef<HTMLInputElement | null>(null)
   const empty = draft.trim() === "" && attached.length === 0

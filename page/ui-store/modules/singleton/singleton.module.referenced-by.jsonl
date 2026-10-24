@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"agent/seat/seat.page-type.page-component.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"agent/seat/modules/conversation-hearing/seat-conversation-hearing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.test.tsx","typed":false,"deferred":true}
