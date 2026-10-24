@@ -43,8 +43,8 @@ export const couplesTherapy = {
       statement: "Nothing in the alan-and-jenny book is a page Jenny cannot read.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The therapist is the default persona until Alan names another.",
+      decisionKind: "decision-kind/departure",
+      statement: "The therapist's persona is Claudius.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -86,5 +86,5 @@ export const couplesTherapy = {
     },
   ],
   createdAt: "2026-10-24T17:03:03.699Z",
-  updatedAt: "2026-10-24T19:04:12.158Z",
+  updatedAt: "2026-10-24T19:54:56.033Z",
 } as const satisfies Domain
