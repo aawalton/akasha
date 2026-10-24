@@ -18,7 +18,7 @@ export const seatFlex = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat that states a person came to exist by being opened.",
+      statement: "A seat that states persons came to exist by being opened.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,5 +35,5 @@ export const seatFlex = {
     },
   ],
   createdAt: "2026-09-03T22:00:32.641Z",
-  updatedAt: "2026-10-22T15:11:55.398Z",
+  updatedAt: "2026-10-24T18:08:14.228Z",
 } as const satisfies Module

@@ -12,7 +12,11 @@ export const couplesTherapy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The therapist's seat states no person, because the seat answers to two.",
+      statement: "The therapist's seat states Alan and Jenny as its persons.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No directive on Alan's person page or on Jenny's binds the therapist.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -70,5 +74,5 @@ export const couplesTherapy = {
     },
   ],
   createdAt: "2026-10-24T17:03:03.699Z",
-  updatedAt: "2026-10-24T17:15:15.674Z",
+  updatedAt: "2026-10-24T18:08:14.228Z",
 } as const satisfies Domain

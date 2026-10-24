@@ -10,7 +10,7 @@ export const seatParentlessRefusal = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat a person opened needs no parent.",
+      statement: "A seat that one person or several persons opened needs no parent.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -23,5 +23,5 @@ export const seatParentlessRefusal = {
     },
   ],
   createdAt: "2026-09-03T18:00:09.310Z",
-  updatedAt: "2026-09-25T17:52:21.000Z",
+  updatedAt: "2026-10-24T18:08:14.228Z",
 } as const satisfies Module

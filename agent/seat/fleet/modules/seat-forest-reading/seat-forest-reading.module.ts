@@ -70,7 +70,7 @@ export const seatForestReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "`principal` names the person the seat's page names.",
+      statement: "`principal` names the persons the seat's page names, joined by commas.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -154,5 +154,5 @@ export const seatForestReading = {
     },
   ],
   createdAt: "2026-09-12T10:22:19.005Z",
-  updatedAt: "2026-09-27T13:11:55.000Z",
+  updatedAt: "2026-10-24T18:08:14.228Z",
 } as const satisfies Module

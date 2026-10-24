@@ -13,7 +13,7 @@ export const personItself = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat in the personas or handlers section warrants the person the seat states.",
+      statement: "A seat in the personas or handlers section warrants the one person it states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,5 +42,5 @@ export const personItself = {
     },
   ],
   createdAt: "2026-08-31T19:50:55.142Z",
-  updatedAt: "2026-10-24T17:50:28.120Z",
+  updatedAt: "2026-10-24T18:08:14.228Z",
 } as const satisfies ContextWarrant

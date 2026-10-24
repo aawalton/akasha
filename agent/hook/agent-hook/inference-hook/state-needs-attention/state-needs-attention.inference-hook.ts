@@ -46,6 +46,10 @@ export const stateNeedsAttention = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat answering to several persons together asks Alan for nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A seat making a played game's turns asks Alan for nothing.",
     },
     {
@@ -58,5 +62,5 @@ export const stateNeedsAttention = {
     },
   ],
   createdAt: "2026-09-26T18:33:41.178Z",
-  updatedAt: "2026-10-19T17:58:10.181Z",
+  updatedAt: "2026-10-24T18:08:14.228Z",
 } as const satisfies InferenceHook
