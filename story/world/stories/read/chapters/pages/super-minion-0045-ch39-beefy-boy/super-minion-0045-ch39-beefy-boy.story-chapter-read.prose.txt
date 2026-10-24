@@ -1,0 +1,277 @@
+*Phwip* *Crack* My kick whipped into the practice target, creating a satisfying sound as hairline cracks extended from the impact point.
+
+After completing the rat-sticher job, I had chosen to forgo sleep, and instead practice my combat movements using the new designs I learned. This of course involved testing Adder’s martial arts training against various targets. I’d throw kicks and punches, again and again, each time making small adjustments to the muscle movements, trying to find the most effective balance between force, stability, and recoil damage. It made for noisy practice, but the shooting range at the HH base was both empty and private, with plenty of disposable targets, which made it a perfect place to try out my new designs.
+
+And oh, what wonderful designs they were.
+
+The will-o-wisp turned out to be a better prize than I expected. Despite the large amount of damage to the corpse, I was able to get some decent samples from it, the best of which was its brain, or should I say brains. Rather than a singular brain, it had what amounted to a bundle of nerve clusters, each cluster able to act as a stand-alone brain by itself. None of these nerve clusters were very complex of course, but the will-o-wisp had already received massive brain damage before our encounter, and yet had still managed to keep going. Effectively a case of quantity over quality, allowing it to lose large amounts of brain matter without dying. It made me wonder how the rat-stitcher’s minions had ever defeated the organism in the first place. Perhaps they just got lucky.
+
+Regardless, the will-o-wisp brain design gave an insightful look at how to run multiple brains concurrently. Technically a human brain did a limited version of this (the left and right hemispheres could somewhat compensate for the loss of the other), but the will-o-wisp brain design did this as a matter of course, and that insight allowed me to almost run multiple copies of Human.exe perfectly in sequence. I was just a single step short. A step which Nicole’s cast-off ‘tail’ propelled me over.
+
+Where to even begin? Once I had dissected the will-o-wisp, I was able to recover the other half of Nicole which I previously amputated. In remarkably good condition too. Apparently the rat-stitcher had retooled the will-o-wisp to transport corpses rather than digest them, a most welcome windfall. Of all the designs I had acquired over the last twenty-four hours, Nicole’s was leaps and bounds above the rest. So much so that it wasn’t worth absorbing the other corpses in the ‘pantry’ in the limited time I had. I didn't want people wondering where the bodies went anyways.
+
+The first amazing thing was Nicole's eyes. She had eight of them on her second head, and each pair worked slightly differently. The forward eyes worked the most like a human’s, just slightly adjusted for low-light conditions. Then came the eyes with no pupils, which apparently sensed heat signatures. Useful for hunting in the dark.
+
+The third pair with the crosshair pupils had me stumped for a while. They had the benefit of being pseudo-binocular vision with a single pupil, but displayed a strange purplish chromatic effect with varying intensity onto my vision depending on what I was looking at. I only figured out what it was when I glanced at a lightbulb and the area around the filament was practically highlighted in purple. Testing it on a few more objects, I determined the eye was identifying electrical currents or fields, or maybe both, I didn’t have enough context for what I was seeing. Either way, its purpose seemed to be to identify dangerous amounts of electrical output, as the electrical impulses in my own body didn't register. Quite the useful adaptation, electricity was one of my worst weaknesses, and the ability to identify live currents at a glance was nice.
+
+The final set of compound eyes were uncomplicated, meant for wide-angle viewing and detection of incoming threats. I had already developed this modification on my own, and in fact most of Nicole’s eyes were obvious advancements of basic eye design, but the real improvement was how they worked in concert. I’d found vision to be the most difficult sense to work with, as information overload became a real problem once you reached a certain mix of quantity/quality, and trying to decipher, calculate, and act on the received information in the midst of combat could be overwhelming. Nicole was somehow processing the information from ten eyes total, across four different types of vision, and doing so fast enough to have near Adder-level response times in combat.
+
+As it turned out, the answer was a second, specialized brain. Located in her second head and attached to the eye system. This brain was wired specifically to handle the different sight inputs, not just by compiling the information, but also by having pre-programmed reflexive responses based on what I assumed to be Nicole’s mental state (I had to assume since I was of course missing Nicole’s human half). Basically this ‘slaved brain’ would download a copy of Nicole’s mind, determine her priorities (was she hungry, what did she consider a dangerous threat, what would she do in x situation etc), and would then begin reacting to incoming stimuli before her core brain was even aware something was happening. As its decisions would always line up with the main brain, to Nicole it likely felt as if she just had preternatural reflexes. From this information sharing system between her two brains, I was able to work out a proper hierarchy protocol, with the result being that I could now run multiple human brains all running Human.exe at the same time without my micro units becoming confused!
+
+...Which wasn't all that useful unless I could make biological units separate from my core. I tested it by making a separate brain, and then designating it as the ‘lead’ brain before separating it from my body and core.
+
+It dissolved after three seconds… a new record! Normally having such a large chunk of micro unit saturated flesh disconnect would start the self-destruct process immediately. Having the brain marked as lead brain and running Human.exe on it must have tricked the micro-units into thinking it was still receiving the core signal somehow. Likely some facet of Human.exe that tampered with micro unit functionality to even allow a secondary processing center in the first place. I really wish I could read Human.exe’s base code… Oh well, the eye functionality had made this whole endeavor worthwhile by itself, and yet it was the least of the advancements I’d obtained tonight.
+
+I threw another punch into my practice target with a *crack*, and then analyzed the damage I had done to my hand and the target. Not too bad.
+
+Deconstructing Nicole’s corpse had given me two major modifications: flexible chitin and foldable muscle. The chitin turned out to be a combination of cartilage, modified bone marrow, regular chitin, and a type of chemical layering that was reminiscent of the suit Socket had made for me (if not quite as bullet resistant). It was stronger than bone, but far more flexible, and light enough that the increased weight was negligible. Especially since the foldable muscle was easily capable of applying twice as much force per square inch as what I’d developed on my own. These two modifications were so much more advanced than what I’d been using that I’d decided to do a complete overhaul of my body.
+
+My fist hit the target dummy again with a *thwack*, and the muscles around my ‘elbow’ ruptured, the one-thousand thirty-four punches finally wearing out the stretchable pseudo joint I was using to extend my arms.
+
+There were some…. slight bugs to work out with applying these modifications to a human frame, but I was getting the hang of it. Technically the chitin was meant to be used as an exoskeleton, with the foldable muscle supplying the pressure force from inside. I was doing the exact opposite, using the chitin as my skeleton with the muscle on the outside, and there were some minor glitches to work out as a result. I had briefly considered just changing my normal disguise to accommodate the new materials, but in the end decided against changing what I looked like. Humans were very sensitive to appearance, and I’d rather not make them uncomfortable by switching to a combat model for my disguise. Especially now that some of my acquaintances knew my ‘backstory’. Best not to make any major changes when I was already under scrutiny.
+
+All things said and done, I would be able to maintain my normal disguise of an eighteen year old male youth. While I weighed three-hundred and ninety-four pounds, a combination of baggy clothes and storage compression would keep me looking as average as possible; not too tall, short, fat, skinny, ugly, or handsome. Skin, hair, and eye color would be kept at the average aggregate I developed back when I first formed my disguise, partly for visual consistency around acquaintances that did not know about my shapeshifting capabilities, but also because it made it easy to quickly match the average human crowd palette, allowing me to blend in.
+
+My prefered combat form had changed only in the underlying mechanics. I no longer needed a piston-bone structure to lengthen my limbs (so inefficient), and instead could simply detach joints while stretching the connecting muscles. Nicole’s foldable muscle and flexible chitin-bone made this both possible and preferable to my old system. My entire skeleton was now flexible chitin-bone, giving me unprecedented flexibility even without shifting, and I was even able to get rid of the popping noises that distressed Nicole when I reversed my knees. Socket’s suit had no difficulty accommodating my improved range of movement, and I was able to reduce the size and mechanical complexity of the slug slingshot in my mouth to the point I would no longer have difficulty speaking while using it. Traction claws were of course still present in all four limbs.
+
+Incorporating Nicole’s acid though… required more testing. Apparently the acid Nicole used was just modified stomach acid, and not a volatile mixture of two prepared chemicals like I had hoped. Instead it had to be produced continuously and in large quantities, as it quickly degraded into inert sludge that had to be reabsorbed. That made storage rather risky, as a breach could prove disastrous. Nicole could get away with it because of her large size, natural armor, and her core being far from her stomach, but with my smaller body it was too risky to have such a corrosive material around my core. I’d put finding an implementation method on my list of things to do.
+
+Now I just needed to figure out the best spots to add extra eyes. The improvements from Nicole’s brain meant I could use permanent eyes instead of the low-quality temporary ones I’d used for wide-area detection until now. Definitely at least one on the back of my head where it was inconspicuous. I’d need to ask Socket if he could add extra eye slots to my mask.
+
+And finally, one of the absolute best changes about my design:
+
+Energy reserves = 2.3 months continuous operation.
+
+A few short weeks ago I was still measuring my remaining lifespan in hours. Making energy acquisition decisions on a minute by minute basis. Now I had enough resources to afford wasting them on testing disposable ammo designs, and calculating Gribblin Tamer level generation algorithms. I could never have imagined how far I would advance back in those days in the test chamber. Literally.
+
+I kept testing muscle movements into the early hours of the morning, slowly working out any flaws, and trying to get everything in order to test my new design against Adder when she started morning training. Then I’d need to go to the grocery store near my apartment to buy meatloaf ingredients, and see if Mikey and Cindy were available for lunch. I was hoping to convince Nicole that signing up with Hellion’s Henchmen was the best option for her, and hopefully meeting potential allies would do the trick. That or food. Even with how strong she was, it would benefit her survival to integrate with a strong faction like HH. I’d just have to be cautious about Nicole’s reluctance to be around other people. If there was one thing I’d learned during my time in Fortress City, no matter how strong you were, strength in numbers could not be ignored.
+
+*Thwack* *Crack* *CRUNCH*
+
+My punches shattered a chunk off of the cement block I was using as a practice dummy. It had started as a cement cube, six feet across per side, but now half of it was crumbling rubble. The result of several hours chipping away at it.
+
+Hmm… even with my enhancements, strength of numbers couldn’t be ignored. But power was power, and I had grown quite a bit since those early days in E13. How might my punches fair against, say, Magenta’s forcefield now?
+
+More testing required.
+
+Viper
+
+*BEEP BEEP BEEP BEEP BEEP BEEP*
+
+Lily was startled out of a deep sleep, momentarily unable to remember where she was, but that didn’t stop her from reflexively grabbing her phone with one clawed hand. She brought it up to her bleary eyes, and tried to make out what was going on. For the past three days, she’d had her phone set to ring if any specific keywords showed up in E13 news feeds or message services. The news channel playing now showed an overzealous reporter speaking to the camera as police directed civilians in the background, Brick and Magenta both visible among the crowd. The reporter was relaying the “miraculous” rescue of the people kidnapped by the “rat swarms,” and of course getting about half the details wrong. For one thing, the real rescue had happened hours ago, and the heroes hadn’t exactly been a part of it.
+
+Lily continued watching (just to get Central’s version), scoffing here and there at how badly the reporter mangled the order of events. He claimed the hostages had been “rescued” early that morning when heroes found the “hidden lair” they were being kept in. Of course, the reality of the situation was that they had been rescued hours ago when Imp and Tofu infiltrated the Central holding facility. HH minions had then provided cursory medical attention, organized an evacuation of the hostages, and phoned in an anonymous tip after stripping the Central facility of everything that wasn’t nailed down and ditching the scene. HH wouldn’t get any official credit for the rescue, but honestly that was for the best. Good news could be hard to come by during Odd Summer, and the population needed to be reassured whenever possible, even if that meant the heroes got some undue credit.
+
+Still, a few details irked Lily enough that she resolved to post some scathing comments on their website. For one thing, they were claiming that the abductions were perpetrated by a swarm of mutant rats, and not by a person with powers. That wasn’t the bad part, heck, it made sense to do. The story wouldn’t hold out under scrutiny, but the majority of people who just glanced at the news would buy it until the next story came along. No one wanted to remind the populace at large that one asshole with a lucky power could create uncontrollable amounts of devastation and death, especially not when that asshole’s M.O. had been so reminiscent of cowls like Lesion or Bloody Piper.
+
+But did the reporter have to put such an emphasis on it being a mutant swarm of rats? Asshole. Conveniently glossing over the fact that all the victims were mutants as well.
+
+Lily’s claws made a staccato of clicks and clacks against the reinforced screen of her phone as she pounded out several posts on the website. One well-worded long post about the issue and why it was an issue, several alt accounts agreeing with and upvoting it, and one unrelated account to make a separate post insulting the reporter’s receding hairline. Then to really grind it in she posted links for #puristreporterahole to whichever micropost websites she had open.
+
+Annnnnddd, done. Fuck this guy in particular.
+
+With a satisfied grunt, Lily checked the time and groaned. It was six in the morning, well before her usual rise and shine time. She’d forgotten to remove the alarm last night.
+
+She briefly considered going back to sleep, but decided against it. Sandra would need help with the after-action reports and hazard pay bonuses for the hostage rescue. Plus, the stack of files on potential hires had been growing rather large, Odd Summer was a busy hiring season. If Lily slept in, Sandra would likely try to finish it all before Lily even got into the office, and then brush off the extra work with her usual chipper attitude.
+
+Lily groaned as she sat up and swung her legs off the lumpy couch she had claimed. She hadn’t made it home last night, instead falling asleep on a couch in one of the rec rooms. One thing you learned in the villainy business: stock your lair with places to crash.
+
+Even if they are lumpy as hell. Ugh, and I slept with my mask on.
+
+She rubbed around the edges of the black domino mask she was wearing. She was tempted to ditch it, but there were too many new faces around due to the aforementioned hiring, and despite all their precautions you never really knew. Stupid really, the mask wouldn’t do shit to disguise her identity from a mole, but the law was the law, set in stone by the maker of Fortress City at its founding. If they caught you in an act of villainy without your mask on you could kiss your civilian life goodbye. Sandra of course got to dispense with a mask entirely, oh she of the legal loopholes.
+
+Lily made her way to the elevators, glaring at any of the early risers that tried to talk to her about yesterday before she’d had coffee. Once she had a large cup from the cafeteria, she headed topside, being careful to dodge the line-of-sight of Adder and Tofu who she spotted heading for the training rooms. There was always that risk that Adder would drag her into an early morning training session.
+
+Lily shuddered. Never. Again.
+
+She took an elevator up to the fake jacket store next to the office and walked the short distance between the buildings, grumbling at how bright it already was (the real summer of course overlapping the Odd one). She pushed the door open, and spotted the first good thing about the day: Gregor was waiting at her reception desk.
+
+Well hel~lo Mr. tall, dark, and handsome.
+
+Well, more like tall, dark green, and was probably rather handsome under the scales. Either way, he was polite, respectful, and didn’t oogle too much, which all counted for a lot in Lily’s book. It wasn’t like she of all people was going to complain about scales.
+
+Plus, knife-proof. Hel-lo.
+
+“Good morning Gregory. Can I help you with something?” asked Lily, in a voice Tofu likely wouldn’t recognize.
+
+“Good morning,” replied Gregory, turning to face her. “Thank you, but Sandra is already helping me. There was a problem with Central and my… my, um, bank account.”
+
+Lily gave him an understanding smile. “I’ve had that problem before. They tried to freeze my assets dozens of times before they finally gave up. No worries, we’ll have that all cleared up and the C’s will eventually get the message. Let me know if there’s anything you need until then okay?”
+
+“Oh, uh, thank you… er, just so you know, you’ve got some... lines? Around your eyes?” said Gregory. His hand traced the area around his own eyes to show where he meant.
+
+Lily’s brow furrowed in confusion as she pulled out her phone and turned on the front camera. The problem was immediately visible; sleeping in her mask had left a glaringly obvious imprint around her eyes, and her makeup from the day before had smeared hideously within that imprint. She looked like one of those grungy trash-panda memes that were being used to mock villains on the message boards lately.
+
+She turned off her phone and smiled awkwardly at Gregory, “Aheh, I’d better go fix this before the C’s see me. Wouldn’t want to make more work for Sandra. You, uh, have a good day.”
+
+“You as well.”
+
+Lily fled to Sandra’s office, closing the door behind her. She put her back to the door and let out a large sigh, suddenly very glad she hadn’t tried to go with a direct approach. Way more coffee was required before flirting was on the table.
+
+Lily took another sip, hoping the caffeine would kick in soon, and briefly wishing she was a morning person before banishing that thought to the hells where it belonged. Sandra was of course already hard at work behind her desk, shuffling through a stack of papers on the shelf behind her.
+
+“Morning Sandra. Mind telling me your early morning secrets?” asked Lily.
+
+“Mhm? What do you mean Lily?” replied Sandra.
+
+She turned from the pile of papers, and Lily almost dropped her coffee when she saw Sandra’s decidedly not perky morning face. In fact, this was probably the most rumpled she’d ever seen Sandra. Her suit was wrinkled, her eyes were red from what looked like crying, and her makeup was in desperate need of touching up. Not as badly as Lily’s, but still, Sandra never looked less than perfect.
+
+What the hell?
+
+“Oh! Lily, you have some lines on your face,” said Sandra, pointing around her own eyes.
+
+Lily rolled her eyes, “Yeah yeah, I know. But what about you? Were you here all night? Did you even sleep?”
+
+Sandra gave her a confused look before glancing at her computer screen, her eyes widening in surprise. “Oh, I guess I… I lost track of time.”
+
+“Doing what exactly?”
+
+“Oh I had to update some profiles. Sorting new employees into teams. I did another round of background checks. Um, made sure the hostages we rescued are receiving the assistance they’re entitled to, I thought I’d just look into that. Tried to see if any reports of newly discovered secret lairs have been sent to Central. Um…”
+
+Lily raised an eyebrow as Sandra continued listing off things she had done last night. Most of which was superfluous double-checking, or was unrelated to her job description, and none of it was important enough to explain why she felt the need to stay up all night working.
+
+Lily set her coffee on Sandra’s desk and pulled up a seat. “Alright Sandra. Spill. What the hell’s got you so wound up?”
+
+Sandra visibly deflated, whatever energy had been sustaining her workaholic spree banished by the direct question. “I had a bit of an argument with Imp about proper interrogation procedures,” she replied.
+
+“Do I need to castrate him?”
+
+Sandra snorted, “No no, but I learned some things about Tofu that I rather wouldn’t have.”
+
+“The twerp? What did he do?”
+
+“Not what he did, what was done to him. Lily he’s… he’s like Olson.”
+
+“He’s a lab rat!?”
+
+“Don’t use that term.”
+
+“Yeah yeah, it explains a lot though. Was it the rat guy from last night?”
+
+“Tofu didn’t say, but I don’t think so. Imp and the rest found all the children who went missing, so it seems the ‘rat man’ wasn’t completely amoral.”
+
+“Well shit, at least there’s a silver lining to all the crap he put us through,” replied Lily. Then a thought occurred to her. “What about that girl Tofu dragged in? Is she in the same boat?”
+
+“No, she’s… well, her circumstances aren’t any better,” said Sandra sadly. She handed Lily a printout. It was an incident report for Nicole’s mutation. They were supposed to be completely confidential and only available to medical personnel, so Lily was surprised to see that Sandra had it until she saw the details. Records like that were only released to the public in the case of bad triggers and...
+
+“This can’t be right. It says her mutation was a class four? And she was sent to... good lord, Tartarus for her rehabilitation? That’s a containment facility, not a hospital. What the fuck?”
+
+“Supposedly they didn’t have a facility that could accommodate her needs. She was kept there for a few months before another one of the… patients, caused a containment breach, and Nicole disappeared in the confusion.”
+
+Lily took a moment to absorb that information. She remembered the physical and mental rehabilitation she’d needed to go through after her own mutation, and while it was nothing too terrible, it wasn’t a pleasant memory. Trying to imagine going through it while confined to a place like Tartarus gave her goosebumps.
+
+This explains why Sandra’s having a meltdown though. The stuff with kids always hits her hard. I’m gonna need to have a little ‘talk’ with Imp later.
+
+Lily thought it over briefly and then sighed, deciding to get it over with. “Alright Sandra, give me what you’ve put together so far and I’ll do Nicole’s interview.”
+
+“Oh it’s fine Lily, I can handle it. I know how they annoy you.”
+
+“Nope. You’ve got a date with a pillow or you won’t be ready to go out drinking tonight.”
+
+“Lily, I can’t do that now. There’s too many things to be done.”
+
+“Like you haven’t already organized it all for the interns to handle. Come on Sandra, Tofu’s fine, Nicole’s safe downstairs, and all the Tots are rescued. Enough depressing shit, let’s paint the town red.”
+
+Sandra waffled for a second, but eventually gave in with a small smile. “Alright. I suppose I could use a good drink. Let me just give these forms to Gregory and then I’ll get out of your hair…” then her smile turned mischievous, “...unless you want to give the forms to Gregory? I’m sure he’d appreciate it.”
+
+Lily rolled her eyes, not bothering to deny what Sandra had noticed. It wouldn’t do any good anyways.
+
+*Thump*
+
+I was, once again, face up on the practice mat.
+
+Environmental interference.
+
+Adder had managed to completely dodge my grapple attempt, and then followed that up with a kick that moved my leg just enough to destabilize my center of gravity. It shouldn’t have worked; I was far too heavy for someone as small as Adder to be able to produce enough force to move my leg, but the mat we were fighting on slipped when I went for the grapple. Her kick added the last bit of force needed to unbalance me.
+
+“Figured it out yet?” asked Adder.
+
+“...Are you sure you don’t have a power?”
+
+Adder just laughed.
+
+I got up from the mat. Adder and I had been sparring for half an hour now, and my results were… mixed. On one hand, Adder had been having a much harder time knocking me down due to my much more solid frame. On the other hand... she was still managing to knock me down.
+
+“It seems my weight is causing the mats to slip,” I finally answered.
+
+“Yup, you’re pulling up the adhesive. You weigh too much and it’s not being distributed over a wide enough area when you kick off. Why exactly are you so heavy anyways? You weren’t before, is something wrong?”
+
+“No, I just made a few internal changes.”
+
+“Like what? Filling your belly with lead? Where are you even keeping it all? And why?” she poked at my stomach.
+
+“Umm…”
+
+She rolled her eyes, “You don’t need to tell me every little detail you wussy, but I can’t help you improve if I don’t have a clue what’s going on.”
+
+I considered it. Sharing the specific mechanics of my abilities was too risky, but if she could help me improve… I supposed an abridged explanation wouldn’t give away anything she didn’t already know.
+
+“It’s for fuel compression,” I supplied as an answer. “Shifting takes a lot of calories.”
+
+She raised an eyebrow at me. “Can’t you just eat a speedster bar?”
+
+“Yes, but keeping energy in reserve is vital.”
+
+“Well yeah, but you’re kinda overdoing it. You need to burn some of that fat off.”
+
+“It’s not fat, it’s compressed muscle tissue.”
+
+She frowned, “That’s… at your weight… and if that’s all muscle…”
+
+Her eyes narrowed at me, and an awkward silence stretched until she finally spoke again.
+
+“Follow me.”
+
+Adder led me over to the training equipment side of the gym, and stopped in front of an oddly shaped machine next to the wall. It had a spring mechanism with a circular pad attached to it. Imp had used it as a strength tester during the orientation.
+
+“Hit it as hard as you can,” Adder ordered.
+
+I stood in front of the pad and set my stance before punching it. The spring compressed and a calculated number was displayed on the machine a second later. I didn’t really think a blunt measurement like this was all that useful for combat calculations, but I admit I was pleased when the number was four times larger than during the orientation.
+
+“No no no,” dismissed Adder, “Not like that. Use your power too, like when you fought Magenta. Hit it like you mean it.”
+
+I turned back to the target and unfolded my limbs. My knees reversed (without a pop), and most of the joints in my arms and legs unhinged so the muscles could properly unpack. My torso and neck both stretched as my spine extended, the new folded muscle that connected the individual segments stretching and becoming the main support for my body. I was now closer to eight feet tall like Gregor, although much skinnier as my muscles were stretched over my elongated frame, which was hunched over for stability.
+
+Once finished, I faced the target again and punched. Punching was different in my combat form; while disguised as a human the force of my punch relied on synchronizing muscles along my entire frame, while in my new combat form the motion is a bit more like a whip, the foldable muscle twisting in sequence down my arm until the final movement snaps my fist with incredible force. It took an hour or so when I was practicing to get my hands to the point they wouldn’t break with the force of the impact.
+
+My fist hit the punch pad with a snap. The spring supporting the pad jolted quite a bit more this time, and a second later the machine spit out a number that was just over nine times larger than the one from orientation. I hadn’t measured my combat form performance back then, but I was sure I had improved considerably, and I was sure I could get the number even higher with more practice. When I turned to face Adder she was squinting, almost glaring, at the number on the machine.
+
+“Hmm… That’s quite a bit higher than what we have recorded for you,” she finally said, eyeing me up and down.
+
+“I’ve made multiple improvements since the last time it was measured.”
+
+“Indeed. Follow me.” She led me back through the cluster of training machines to the mats. “So. There’s two main things I want to go over with you. The first of which is that you’ve been sandbagging in our spars.”
+
+“Sandbagging?”
+
+“Holding back. I assume how you look now is what you’re most comfortable with?”
+
+“When fighting yes.”
+
+“Then that’s what you’ll practice with. No point wasting time with the normal stuff if you aren’t even gonna use it in a real fight.”
+
+“But who will I spar against?”
+
+“Me of course.”
+
+“Er, I’ve been testing my punches on concrete.”
+
+“Oh-ho! The student is worried about the teacher, how cute. Get on the damn mat.”
+
+I took a position on the practice mat while she went to her duffel bag which had been placed to the side. Out of it she pulled a helmet (not a mask, but some kind of protective gear), and two… sticks? She flicked them and they periscoped out, two-and-a-half feet at full extension.
+
+“The second point I need to go over with you is: you’re too heavy. You look like a giant scarecrow yet you’re over half again the weight of the heaviest minion in HH. The fact your spine hasn't snapped in half from the weight is mind-boggling.”
+
+“The foldable musc-”
+
+“Blah blah blah. The point is that you need to lose weight.”
+
+“But I don’t want to lose weight.” I had it precisely calibrated to maximize my energy stores.
+
+“No worries. I’ve got that problem covered.”
+
+Adder clicked a button on the sticks she was holding, and they lit up with a hum. A faint purplish chrona shimmered around them.
+
+“Time for you to go on a diet.”
+
+...A what now?

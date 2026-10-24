@@ -1,0 +1,97 @@
+I finished eating the yellow-fur's limb before the drones noticed. One of the soldiers actually did look at me, but I guess I wasn't a high enough priority at the time (or maybe it thought the detail unimportant?), because it ignored me and failed to alert a drone. All the better for me.
+
+The interruption of the combat test by the yellow-fur happened early in the drones' cycle. It had been the first test after the drones got back from resting. For the rest of the cycle I was left to myself, all testing seemed to be canceled for now. Instead the drones hunched over their devices and poured over the symbols being displayed, a few even left to go get more devices, bringing them in on top of a rack that glided across the floor using... rotating cylinders? I wouldn't mind a better look at those. All focus was on the anomalous yellow-fur.
+
+I took this opportunity to begin circumventing the drones' command codes. My main core was a small, inorganic sphere, about the size and shape of a brown-fur's eye. Its main purposes were to house my essential code, give commands to the micro units, and send signals to my limbs. What I needed to do was delete or destroy the sections of code that gave the drones control over me, however attempting to alter the core was impossible due to a standing drone command. Any attempt to try resulted in:
+
+Error: Access Denied
+
+Changing essential code, destroying essential code, creating a copy of essential code, and adding to essential code were all under heavy restrictions. Attempting to do any of these without permission would cause an error.
+
+But moving the physical core around was fine. I did it all the time to move it to safer positions. And strangely enough having some processing take place in two separate places was allowed, as proved by running parts of Human.exe on organic processing cells. Only the core's essential code mattered, not the physical location of where it was stored.
+
+So I took this to the next logical extreme. I instructed the micro units to begin disassembling the physical core, separating it into pieces, but I took extreme care to ensure that all the different parts could communicate unhindered, connecting them with the fastest signal transfer cells I could make. While the physical parts would be separate, the core system would remain intact. After the first few pieces were separated without throwing an error I rejoiced, the first major barrier to my plan was dealt with.
+
+By the time I was finished re-configuring myself almost the entire cycle had gone by. Only two drones were left, a normal white-coat and a soldier. The white-coat was familiar to me, as this one often stayed late (it was also coincidentally the one who hadn't left its workstation when the yellow-fur attacked the mesh).
+
+Eventually the soldier approached the drone and tapped it, then nodded to the door and said something. The drone nodded and replied before shutting down its device and the two of them left the room, leaving it empty.
+
+I waited a long time before deciding it was safe to continue. The next part of my plan was to leave my chamber and enter the drones' section, the last thing I needed was a drone coming in and seeing me in its work space.
+
+I approached the translucent wall and pressed my right claw against it. From the claw I extended a tendril with a mucous membrane to spread mucous laden with micro units over the wall. The micro units dissolved it quickly enough, but I soon found the best application was to poke the tendril all the way through the wall and then use it to carve off large sections at a time. No alarms sounded, and in much less time than I thought it would take I was standing in the drones' section for the first time.
+
+It was anticlimactically easy. Did the drones really underestimate me that much? Although... I guess they were right to, it's not like I ever tried to escape before. Before receiving Human.exe my mind had been focused only on gaining resources and surviving tests. My entire world had consisted of my den room and the test chamber, and the idea of leaving these just... wasn't there.
+
+I explored the drones' room, being careful not to disturb any of the devices. I couldn't really make sense of the purpose for them, and some of them might be dangerous to fiddle with. I knew the drones mainly did data collection, but the room was crowded with devices of all shapes and sizes, surely it wasn't all just for collecting data. I kept everything I knew in memory, couldn't they do the same? A mystery for another time.
+
+Wandering around the room I made my way over to the section of wall that overlooked the combat chamber. As I had hoped the yellow-fur was still inside, laying down next to the corpse of its dead partner (why hadn't it eaten the remains?).
+
+And its arm was regrown, of course. Currently its eyes were closed as it just sort of laid there resting, not even trying to remain aware of its surroundings. I guess I would be lazy and ignore resources too if I had the strength to smash through bone and chitin unimpeded, and the ability to heal from any wound no matter how large with my massive supply of mystery super fuel.
+
+I envied it. A lot.
+
+Turning away I started to look for a good hiding place. Along the back of the room multiple containers were stacked against the wall. From my observations I knew the drones used them to store the thin sheets of material that their devices spat out from time to time. Over the past few cycles I had noted the ones that the drones rarely used, and one by one I checked the compartments, struggling with the latches a bit before I shifted my claw to a better configuration.
+
+I was fortunate, four of the containers near the corner of the room were empty. I picked the third one towards the corner and started to modify the insides. The container was designed with three compartments that rolled out the side (on those interesting cylinder things), and I had to remove the bottoms to acquire the space I needed.
+
+Once done with the container I began exiting my carapace, splitting it down the underside until there was an opening large enough to disgorge myself into the container.
+
+Well, most of myself.
+
+My core fragments went into the container, along with most of my internal organs, the majority of my stored resources, and enough skeletal/muscle structure that I would be able to move. What I left behind was now a hollow shell with just enough structure to move when commanded using a connecting tether of signal transfer cells. Inside the shell was mainly filler material, the parts I had collected that weren't nutritionally valuable and weren't worth the trouble of breaking down.
+
+Oh, and also a couple of core fragments. The command signal receiver, the sections of memory that contained drone control protocols. Basically all the things that held me back that I would get rid of if I could.
+
+I spent a few heartbeats rearranging things and salvaging a few odds and ends. Before I closed up the shell I did a final check. Was there anything I had missed? Any more supplies the shell wouldn't need, or a piece of drone code I wanted to be rid of? After considering it I decided to put a few of the resources back, just to make it look convincing, and as for drone core shards...
+
+A thought entered my mind: maybe I should leave some shards to make it look convincing? I wasn't sure if core shards would self-destruct like everything else. Technically speaking all I needed was the micro unit controls, everything else I could sacrifice and recreate using organic par---
+
+Human.exe emergency shut-down;
+
+Human.exe displaying behavior harmful to core: analyzing...
+
+Rolling back thought process kernel...
+
+Rewriting...
+
+Restarting Human.exe;
+
+A thought entered my mind: what if the drones checked the corpse for the core later? I took a few pieces of inorganic material from the container and sculpted them to look like processors and core parts. They were superficial, and I made them look damaged and irreparable before placing them next to the real core shards already in the shell. Then I sealed up the shell and made it walk over to the translucent wall that overlooked the yellow-fur. A long cord of signal transfer cells unraveled behind it as it walked, keeping the two parts of myself connected.
+
+In front of the wall I gazed again at the yellow-fur, it hadn't moved. I placed the shell's claw against the wall and started to carve out sections like I had to the wall in front of my den. At first I hurried, if the alarm went off I wouldn't have much time, but I guess the alarm was connected to the wire mesh. It made sense, since I couldn't see a difference between this wall and my own.
+
+Carving out a section of wall was easy, I just needed to make it big enough for the yellow-fur and make the cuts look like the wall had shattered. Once I was done an opening almost large enough for the yellow-fur was carved into the wall. I wanted it to shatter some of the edges itself to make it look authentic.
+
+As for how I would get it to do what I wanted...
+
+The wire mesh was made of some thin, inorganic material, that was twisted into a repeating pattern that left wide holes in the mesh. As a physical barrier it was pathetic, but I knew it only acted as a conduit for the zapping mechanism; if you touched the mesh you fried. I'd love to figure out how it works but now wasn't the time.
+
+I made noise, clacking my claw against the floor to get the yellow-fur's attention. It opened an eye, and upon seeing me stood up and snarled, its lips pulled back to display its teeth, but made no further movement to attack. No matter, I took a chunk of the wall and hurled it at the yellow-fur through a gap in the mesh. The first shot was a miss but the second hit it. Its strange hissing turned into a roar but it didn't charge me. I kept throwing chunks of wall at it, and it got angrier and angrier, but still it refused to attack. I couldn't permanently hurt it true, but it hadn't struck me as intelligent enough to plan around this fact. Was it just that wary of the barrier?
+
+I was getting frustrated myself, I needed it to attack me already, its roars might draw the drones too soon. I started to throw bigger and bigger chunks. One of the chunks was a bit too lop-sided and it slipped when I threw it, making it through the mesh but careening to the side and landing near the corpse of the dead yellow-fur. The living yellow-fur really didn't like that. It roared at me, louder than ever before, and I immediately threw another chunk at the corpse. I wasn't sure why it cared about what happened to the corpse, but if that's what it took to make it attack I'd do it.
+
+The yellow-fur's temper finally broke and it charged me, its anger outweighing its caution of the mesh barrier. I backed up from the wall as the yellow-fur leaped and landed right where I had carved the opening, one of its clawed forelegs bursting straight through the too-weak mesh to try and grab me, its flesh sizzling as the barrier zapped it. I ducked away and ran back to the opening of my den, being careful to reel in the tether as I went. An alarm blared, but it didn't drown out the roars of the yellow-fur as it struggled to get into the drone room.
+
+My shell reached the opening and passed into the den, reeling in the tether the rest of the way until it was taut between my two halves. The yellow-fur was pulling itself from the test chamber, jagged lines of burnt flesh crisscrossed its body, healing faster every heartbeat. It shook itself once and barreled across the room towards the opening to the den chamber, where my shell waited for it with the tether stretched to its limit.
+
+Moving so fast it was a blur, when the yellow-fur attempted to turn its feet lost traction, and it scratched long gouges into the floor to keep upright. Then with a final pause its legs coiled, muscles tensed, and it leaped right at my shell, its forelegs reaching ahead of it. Its torso was too wide to fit through the opening completely, but the compromised wall was too weak to stop it and shattered against the yellow-fur's charge. Claws dug into chitin, crushing shell and breaking bone, the force of the blow causing both yellow-fur and my shell to tumble across the room to the center of the den chamber.
+
+And snapping the tether. Separating me from the drone control codes all at once. Just as planned. I couldn't modify my own core code, but nothing required that I act against an outside party doing it for me.
+
+I reeled in the severed rope of signal transfer cells while the yellow-fur tore the abandoned shell apart. Pieces went flying in every direction, most of them already melting or crumbling into powder as the micro units detected the loss of connection and self-destructed. Between that and the yellow-fur's ongoing frenzy I doubted there would be any question from the drones that I was 'dead'.
+
+A few heartbeats after I finished reeling in the leftover tether, the door to the room burst open for the second time this cycle, and again the soldiers flooded in. There were more of them this time, quickly they scanned the room then focused in on the yellow-fur. The yellow-fur noticed them and stood up with a threatening hiss, apparently it was either still too angry to think or just getting used to its own invulnerability, because it charged the group of soldiers without care. They didn't panic, instead they fanned out around the hole in the wall and waited until the yellow-fur cleared the opening. Once it did they began using the devices they held to attack the yellow-fur.
+
+With very impressive results.
+
+The weapons they used appeared to be throwing small pellets at the yellow-fur, but with such speed that they punctured its flesh and tunneled straight through to the other side. Such an attack should not have bothered an organism with such fast regeneration as the yellow-fur, but the weapons attacked so quickly and in such an amount that the yellow-fur was brought to a halt from the stopping power of dozens, if not hundreds, of pellets impacting its body. You could watch groups of holes opening and closing in bloody patterns.
+
+"TARGET HAS HI-REGEN! LIGHTNING ROUNDS!" cried one of the soldiers. Those were the first sounds I ever heard one of them make, and I didn't understand what it was communicating until I saw the results.
+
+Two of the soldiers stepped forward, with larger weapons than the others. These didn't shoot pellets like the other weapons, instead they launched large spikes that embedded themselves into the yellow-fur. There was a crackling noise and a burning smell filled the air, the same as when something touched the wire mesh. The yellow-fur quickly collapsed and the soldiers continued to riddle it with holes. It took a long time, and more of the crackling spikes, but eventually the yellow-fur's regeneration failed it and the holes remained, bleeding as it twitched its last.
+
+Once the yellow-fur was thoroughly dead the soldiers secured the rest of the chambers, and I retreated completely into the container. This display of weaponry had me stunned, I myself would have been dead in ten heartbeats or less just from the pellets alone. I would have to think of counter-measures.
+
+I could hear the noises of the soldiers as they moved around in the room outside, once things calmed down I would extend a few fibers and listen in to their communications. I needed to know more for the next part of my plan:
+
+Getting out of this death trap.
