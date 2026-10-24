@@ -43,6 +43,7 @@ export interface TaskData {
   priority?: string
   completionCardId?: string
   completionItemPath?: (string | number)[]
+  filler?: boolean
 }
 
 export interface PassiveTraceRow {

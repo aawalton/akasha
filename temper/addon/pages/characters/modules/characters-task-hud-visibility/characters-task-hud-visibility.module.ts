@@ -6,6 +6,16 @@ export const charactersTaskHudVisibility = {
   slug: "characters-task-hud-visibility",
   definition: "which tasks and quests the task HUD shows now, and which of them count as done",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A filler task is shown on a day its due date has not reached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A filler task counts as done only where its progress reads full.",
+    },
+  ],
   createdAt: "2026-09-02T16:23:41.518Z",
-  updatedAt: "2026-09-21T17:05:12.000Z",
+  updatedAt: "2026-10-24T19:46:51.427Z",
 } as const satisfies Module

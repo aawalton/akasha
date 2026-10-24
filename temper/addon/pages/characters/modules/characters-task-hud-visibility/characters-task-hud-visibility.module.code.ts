@@ -20,7 +20,11 @@ import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function isTaskVisible(task: TaskData): boolean {
-  if (task.dueDate !== undefined && task.dueDate > getEsoDayStringFromSec(GetTimeStamp())) {
+  if (
+    task.filler !== true &&
+    task.dueDate !== undefined &&
+    task.dueDate > getEsoDayStringFromSec(GetTimeStamp())
+  ) {
     return false
   }
 
@@ -52,6 +56,7 @@ export function isQuestExpanded(questKey: string, isAssisted: boolean): boolean 
 }
 
 export function isTaskComplete(taskId: string, task: TaskData): boolean {
+  if (task.filler === true) return false
   const sv = getSavedVariables()
   const key =
     task.scope === "all_characters" || task.scope === "next_character"

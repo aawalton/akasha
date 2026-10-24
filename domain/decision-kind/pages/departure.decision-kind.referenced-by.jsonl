@@ -4441,6 +4441,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.ts","id":"01a062ee-f028-7069-9bf4-0162a138b3ea"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-story-zone-quests/characters-task-hud-story-zone-quests.module.ts","id":"01a0c668-c0bf-7f02-b4ff-ef9773265644"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-view/characters-task-hud-view.module.ts","id":"01a11c82-12cd-76b2-8e5b-fdf64ecca3ec"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-visibility/characters-task-hud-visibility.module.ts","id":"01a062ee-f0ce-7072-a02f-7b8f8b50609e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud/characters-task-hud.module.ts","id":"01a062ee-f13b-7078-8d2b-e3b2c0499a1f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-skills/characters-task-progress-resolver-skills.module.ts","id":"01a062ee-f099-706f-8191-446ff9807a6f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.ts","id":"01a062ee-f0ac-7070-96f5-4bfe27c4bb49"}
