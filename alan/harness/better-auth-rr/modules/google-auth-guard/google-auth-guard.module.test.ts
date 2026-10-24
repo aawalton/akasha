@@ -61,9 +61,22 @@ async function cookieFor(contributor: string, look: boolean): Promise<string> {
     .join("; ")
 }
 
-function asked(method: string, cookie: string): Request {
-  return new Request(SEND_AT, { method, headers: { cookie } })
+const READ_AT = "https://alanwalton.com/api/ask"
+
+const READ_BY_POST: ReadonlySet<string> = new Set([new URL(READ_AT).pathname])
+
+function asked(method: string, cookie: string, at: string = SEND_AT): Request {
+  return new Request(at, { method, headers: { cookie } })
 }
+
+function refusedOf(request: Request): Promise<Response | null> {
+  return lookingRefused(request, READ_BY_POST)
+}
+
+test("a session to look only posts to a path read by post", async () => {
+  const cookie = await cookieFor(JENNY, true)
+  expect(await refusedOf(asked("POST", cookie, READ_AT))).toBe(null)
+})
 
 test("a session traded for a code to look only is signed in and looks only", async () => {
   const cookie = await cookieFor(JENNY, true)
@@ -73,29 +86,29 @@ test("a session traded for a code to look only is signed in and looks only", asy
 
 test("a session to look only is refused a send", async () => {
   const cookie = await cookieFor(JENNY, true)
-  const refused = await lookingRefused(asked("POST", cookie))
+  const refused = await refusedOf(asked("POST", cookie))
   expect(refused?.status).toBe(403)
   expect(await refused?.json()).toEqual({ ok: false, error: LOOKING_ONLY })
 })
 
 test("a session to look only is refused a put and a delete", async () => {
   const cookie = await cookieFor(JENNY, true)
-  expect((await lookingRefused(asked("PUT", cookie)))?.status).toBe(403)
-  expect((await lookingRefused(asked("DELETE", cookie)))?.status).toBe(403)
+  expect((await refusedOf(asked("PUT", cookie)))?.status).toBe(403)
+  expect((await refusedOf(asked("DELETE", cookie)))?.status).toBe(403)
 })
 
 test("a session to look only still looks", async () => {
   const cookie = await cookieFor(JENNY, true)
-  expect(await lookingRefused(asked("GET", cookie))).toBe(null)
+  expect(await refusedOf(asked("GET", cookie))).toBe(null)
 })
 
 test("Alan's driven session sends as before", async () => {
   const cookie = await cookieFor(ALAN, false)
   expect((await signedInAs(asked("GET", cookie)))?.contributor).toBe(ALAN)
   expect(await looksOnly(asked("GET", cookie))).toBe(false)
-  expect(await lookingRefused(asked("POST", cookie))).toBe(null)
+  expect(await refusedOf(asked("POST", cookie))).toBe(null)
 })
 
 test("nobody is left to the route to refuse", async () => {
-  expect(await lookingRefused(asked("POST", ""))).toBe(null)
+  expect(await refusedOf(asked("POST", ""))).toBe(null)
 })

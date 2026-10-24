@@ -7,6 +7,13 @@ import {
   signedInAs,
 } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { servedRouterApp } from "akasha/alan/harness/modules/router-app-serving/router-app-serving.module.code.ts"
+import { alanWebApiAsk } from "akasha/alan/web/routes/alan-web-api-ask/alan-web-api-ask.route.ts"
+import { alanWebApiPageFollow } from "akasha/alan/web/routes/alan-web-api-page-follow/alan-web-api-page-follow.route.ts"
+import { alanWebApiShape } from "akasha/alan/web/routes/alan-web-api-shape/alan-web-api-shape.route.ts"
+
+const READ_BY_POST: ReadonlySet<string> = new Set(
+  [alanWebApiAsk, alanWebApiPageFollow, alanWebApiShape].map((route) => `/${route.urlPath}`)
+)
 
 await servedRouterApp({
   name: "alanwalton-web",
@@ -27,6 +34,6 @@ await servedRouterApp({
     if (new URL(request.url).hostname === "idle.alanwalton.com") {
       return Response.redirect("https://alanwalton.com/", 301)
     }
-    return (await lookingRefused(request)) ?? served()
+    return (await lookingRefused(request, READ_BY_POST)) ?? served()
   },
 })

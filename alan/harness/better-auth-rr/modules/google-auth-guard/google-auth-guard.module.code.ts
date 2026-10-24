@@ -37,8 +37,12 @@ export async function looksOnly(request: Request): Promise<boolean> {
   return objectIn(objectIn(await sessionOf(request))?.session)?.look === true
 }
 
-export async function lookingRefused(request: Request): Promise<Response | null> {
+export async function lookingRefused(
+  request: Request,
+  readByPost: ReadonlySet<string>
+): Promise<Response | null> {
   if (LOOKING_METHODS.has(request.method.toUpperCase())) return null
+  if (readByPost.has(new URL(request.url).pathname)) return null
   if (!(await looksOnly(request))) return null
   return Response.json({ ok: false, error: LOOKING_ONLY }, { status: FORBIDDEN })
 }

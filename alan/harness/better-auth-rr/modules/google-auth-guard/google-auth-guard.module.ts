@@ -40,6 +40,10 @@ export const googleAuthGuard = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A post to a path the server names as a read is let through as a get is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "That refusal is made before the request reaches any route.",
     },
     {
@@ -48,5 +52,5 @@ export const googleAuthGuard = {
     },
   ],
   createdAt: "2026-09-19T18:43:04.112Z",
-  updatedAt: "2026-10-24T21:46:01.700Z",
+  updatedAt: "2026-10-24T22:26:45.352Z",
 } as const satisfies Module
