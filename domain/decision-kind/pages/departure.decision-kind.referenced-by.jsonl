@@ -1345,6 +1345,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.ts","id":"01a08834-9fa8-7538-bb21-73af9a36b58d"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-image/alan-web-api-seat-image.route.ts","id":"01a0d49f-ffe0-7a3c-9a82-45a6c09b5b3a"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.ts","id":"01a0d493-a7df-70bc-8964-34c002acd32e"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-notice/alan-web-api-seat-notice.route.ts","id":"01a16ffe-1c42-741d-974e-7343d9f61274"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-regret/alan-web-api-seat-regret.route.ts","id":"01a16ff7-b672-7cbe-9dd9-7cf24d4bcf07"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-voice/alan-web-api-seat-voice.route.ts","id":"01a11b35-8c5b-7131-a1a2-2976f365503f"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-shape/alan-web-api-shape.route.ts","id":"01a0e17c-6623-70a6-ab15-2e192f21e346"}

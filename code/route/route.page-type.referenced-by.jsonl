@@ -82,6 +82,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-seat-image/alan-web-api-seat-image.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-seat-notice/alan-web-api-seat-notice.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-seat-regret/alan-web-api-seat-regret.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-seat-voice/alan-web-api-seat-voice.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-shape/alan-web-api-shape.route.ts","typed":true,"deferred":false}
