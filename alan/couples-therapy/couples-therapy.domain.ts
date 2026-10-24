@@ -59,6 +59,14 @@ export const couplesTherapy = {
       decisionKind: "decision-kind/absence",
       statement: "The therapist never says unasked that it is an AI or is unlicensed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Jenny is texted patch notes for the therapy page from Claudius's number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Patch notes go to Jenny in batches of at least three changes.",
+    },
   ],
   directives: [
     {
@@ -87,5 +95,5 @@ export const couplesTherapy = {
     },
   ],
   createdAt: "2026-10-24T17:03:03.699Z",
-  updatedAt: "2026-10-24T20:51:01.335Z",
+  updatedAt: "2026-10-24T21:18:49.329Z",
 } as const satisfies Domain
