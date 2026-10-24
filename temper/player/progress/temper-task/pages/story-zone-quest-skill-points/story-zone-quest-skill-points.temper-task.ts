@@ -9,7 +9,7 @@ export const storyZoneQuestSkillPoints = {
   character: "temper-account-character/nirayicel",
   completionCard: "temper-completion-category/characters-skill-points",
   completionItemPath: ["storyZoneQuests"],
-  dueDate: "2026-10-25",
+  dueDate: "2026-10-24",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -21,5 +21,5 @@ export const storyZoneQuestSkillPoints = {
   progressTotal: 3280,
   progressCurrent: 1489,
   createdAt: "2026-09-21T22:44:17.814Z",
-  updatedAt: "2026-10-24T17:35:10.297Z",
+  updatedAt: "2026-10-24T18:35:42.354Z",
 } as const satisfies TemperTask
