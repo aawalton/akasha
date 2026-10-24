@@ -15,11 +15,12 @@ export const storyZoneQuestSkillPoints = {
   accountPage: "temper-account/alanarre",
   scope: "next_character",
   priority: "p4",
+  filler: true,
   effectiveCharacter: "temper-account-character/nirayicel",
   lastCompletedAt: "2026-10-24T16:45:46.000Z",
   progress: "jsonl",
   progressTotal: 3280,
   progressCurrent: 1495,
   createdAt: "2026-09-21T22:44:17.814Z",
-  updatedAt: "2026-10-24T19:26:26.736Z",
+  updatedAt: "2026-10-24T19:47:27.427Z",
 } as const satisfies TemperTask
