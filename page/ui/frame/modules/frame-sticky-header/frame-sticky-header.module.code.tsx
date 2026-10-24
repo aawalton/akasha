@@ -27,6 +27,14 @@ export interface FrameHeader {
   readonly menu?: ReactNode
 }
 
+const ROUTER_PLACE = "idx"
+
+function cameInApp(state: unknown): boolean {
+  if (typeof state !== "object" || state === null || !(ROUTER_PLACE in state)) return false
+  const place: unknown = state[ROUTER_PLACE]
+  return typeof place === "number" && place > 0
+}
+
 export function FrameStickyHeader({
   header,
   actionAt,
@@ -38,8 +46,7 @@ export function FrameStickyHeader({
   const title = header.title ?? ""
 
   function onBack() {
-    const canGoBack = typeof window !== "undefined" && window.history.length > 1
-    if (canGoBack) window.history.back()
+    if (typeof window !== "undefined" && cameInApp(window.history.state)) window.history.back()
     else router.push("/")
   }
 
