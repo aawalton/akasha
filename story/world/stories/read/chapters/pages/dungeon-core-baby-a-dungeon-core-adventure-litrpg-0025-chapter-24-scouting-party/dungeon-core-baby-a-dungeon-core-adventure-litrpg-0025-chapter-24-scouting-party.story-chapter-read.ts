@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const dungeonCoreBabyADungeonCoreAdventureLitrpg0025Chapter24ScoutingParty = {
+  id: "01a16b62-5c92-755b-9287-f96aa02d79ec",
+  type: "page-type/story-chapter-read",
+  slug: "dungeon-core-baby-a-dungeon-core-adventure-litrpg-0025-chapter-24-scouting-party",
+  position: 25,
+  publishedAt: "2024-09-06",
+  unit: "unit/words",
+  title: "Chapter 24: Scouting Party",
+  story: "story-read/dungeon-core-baby-a-dungeon-core-adventure-litrpg",
+  ownLength: 2887,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1791671",
+      externalLink:
+        "https://www.royalroad.com/fiction/92366/dungeon-core-baby-a-dungeon-core-adventure-litrpg/chapter/1791671/chapter-24-scouting-party",
+    },
+  ],
+  createdAt: "2026-10-24T00:49:30.769Z",
+  updatedAt: "2026-10-24T00:49:30.769Z",
+} as const satisfies StoryChapterRead

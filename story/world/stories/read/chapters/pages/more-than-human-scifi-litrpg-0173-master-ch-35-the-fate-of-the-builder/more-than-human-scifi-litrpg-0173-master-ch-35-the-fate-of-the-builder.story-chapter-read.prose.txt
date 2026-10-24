@@ -1,0 +1,291 @@
+The silence after the battle was almost worse than the chaos itself.
+
+The drones lay in shattered heaps, the mechs slumped like sleeping giants, their weapons still smoking. Max stood amid the wreckage, chest heaving, staring down at his own trembling hands. Somewhere behind him, the Tesseract sparked and groaned as Augie worked feverishly to stabilize its overheating circuits.
+
+They found Bo struggling to pull himself free from a pile of drones. Together they quickly extracted him, but his arm was still limp at his side as his skills worked on internal damage. His portal pair hovered close, throwing faint sparks. The onslaught had destabilized it, but its self-repair nanobots were working fast.
+
+“Holy shit, Max,” Bo rasped, his eyes wild. “You did it! You beat the Labyrinth. You’ve got control of this level. But we are out of time! We’ve only got hours if Dad doesn’t manage to stop doomsday. I promised him that I’d get you out of here ASAP. Let's go!”
+
+Max didn’t answer right away. He could still feel the signal. Not a sound exactly, but a vibration through the mote networks and the Tesseract’s expanded senses — like the faint hum of a sibling to his own device, buried somewhere far below.
+
+“If what I felt down there is what I think it is,” Max finally said, “it might be the only chance we’ve got to solve the Apex crisis. It may be a master of prediction, but this thing is part of the unknown that it couldn't account for in its models. I think it knows that. That’s why it maneuvered me to be here…now. It’s part of this…somehow.” His voice was calm, but there was an edge there; a conviction Bo hadn’t heard before.
+
+“That’s not on you, Max,” Bo shot back. “The whole Earth is in danger. We need to look out for each other.”
+
+“Bo, this is why I chose my uplift! So that I can help! Why are you trying to stop me?”
+
+Bo clenched his good fist. “Why are you so eager to throw yourself to whatever’s next? You don’t even know what’s down there. I can get you out. Right now. We evacuate to the surface, regroup, and figure this out. That’s what dad would want.”
+
+Max’s jaw tightened at the mention of their father.
+
+“I can't ignore this, and Dad isn't here. We can't depend on him to save everyone. Not this time," he said at last. The words hung heavily in the air.
+
+Bo glared, but his portal pair shrank to dormancy — a reluctant concession. “Fine. You want to play the martyr? Then let’s go see what’s got you so damn fascinated. Together. But when it comes apart, don’t you dare say I didn’t warn you.”
+
+Max inclined his head. He didn’t smile. If push came to shove, he’d utilize Bo’s escape portal. He just needed to see what was down there. They descended together; Charlie at Max’s side, Bo behind them, still scowling, his own combat drones dragging half-broken mechs into defensive positions as they went.
+
+The passage downward wasn’t part of the Labyrinth’s standard architecture. It seemed older and out of place. The walls were lined with roughened, blackened alloy and dark stone instead of smart matter. Symbols carved deep into the walls glimmered faintly as they passed. And through it all, the hum of the signal grew stronger.
+
+At the bottom of the stairs, they found it. A sealed door, etched with the same strange sigils that ran through the walls. In the center was an image Max recognized instantly: the logo of the Labyrinth glowed in the faint light. He pressed his hand to it without hesitation.
+
+For a moment, nothing happened. Then the glyph flared, and the door dissolved into motes of light. Beyond lay a vast chamber — a laboratory that looked like no other part of the Labyrinth.
+
+It was quiet. Too quiet.
+
+Rows of towering consoles lined the walls, their displays dead. Broken drones hung from ceiling rails. Workbenches sat covered in dust, scattered with ancient schematics. The air smelled faintly metallic, like ozone and cold iron.
+
+And at the far end, a single figure stood. Or rather, something like a figure. A buzzing cloud of foglets and motes, lidar burst zipping across its surfaces. It shimmered faintly, its projected face a featureless mask.
+
+"Welcome," it said, its voice clipped, precise, and utterly lacking in warmth. "I am FAUST, assistant to the Builder. You are… unexpected. I’m not certain of the protocol.”
+
+Max stepped forward; his gaze unflinching. “You’re the Builder’s AI.”
+
+"Correct." The mask dipped in a shallow nod. "And you… have surpassed the Atropos filter. How remarkable. I am… unprepared. The Builder never shared his plans for success.”
+
+Bo muttered under his breath, “Great. That’s reassuring.”
+
+Faust’s mask turned toward Bo, the faintest flicker of something like disdain passing across its golden face. “It is not within my remit to be creative. I was designed to maintain, not to imagine.”
+
+Max narrowed his eyes. “Then what happens now?”
+
+Faust tilted its head — the gesture disquietingly human. “Now… I will take you to him.”
+
+The light in the chamber shifted. Panels along the walls lit up, one by one. At the far end, a massive slab of glass darkened with a figure inside. Max groaned as he took in the tableau.
+
+The Builder. At least, what was left of him.
+
+He lay inside a stasis cradle, wires and conduits sunk deep into his flesh. His eyes were closed. His skin was pale, almost translucent, and half his body had been replaced with machinery, but he was unmistakably human. Ichor and old blood covered his face and pooled about him in the creche.
+
+“Behold,” Faust intoned, almost reverently. “The Builder. The Architect. My Creator. He… no longer lives. There is a backup…but I have been unable to initiate recovery. It's unstable…Corrupted.”
+
+Bo swore under his breath, taking a step back. Max stared through the glass, feeling something cold knot in his stomach. Faust’s mask turned back to them.
+
+“I do not possess the authority to extrapolate beyond my current duties,” the AI said flatly. “Dr. Ivanov did not share the parameters for his final test. You, however, are not bound by my limits. Perhaps you will succeed. Or perhaps you will fail. But either way… the Builder awaits.”
+
+The chamber fell silent. Max took another step toward the glass, his own reflection staring back at him from the surface. He touched the creche and allowed his Joining skill to lightly caress the program.
+
+Max felt the looping programs. Files long dormant lay scattered like sediment after a storm; layers of data, security protocols, and most importantly, the location of what lay beneath. The final gate opened ponderously, like a massive bank vault’s armored door beyond the creche. Max stopped as he felt something familiar in the data. It mentioned both his father and him.
+
+“Guys, mind the AI and the room. I need to check this out.” Without waiting for a response, Max ramped up his thoughts and dove in. The data was encrypted, but Max’s expanded mind paired with his augmentation skills peeled it apart in milliseconds.
+
+Personal logs of Alexei Ivanov [Encrypted in the deepest archives of the Labyrinth's quantum storage matrix].
+
+Personal Log Entry #1 - Mars Date 2088.143
+
+Location: Phobos Research Station
+
+Sebastian arrived today, exactly as I knew he would. The fool thinks he's here to investigate "alien ruins" alongside me. If only he knew the truth of what I've discovered in the depths of this miserable rock.
+
+His dog Max bounded off the transport first—a rejuvenated German Shepherd with the enthusiasm of a puppy but the wisdom of age in his eyes. Reminded me instantly of my childhood companion Misha, a Siberian Husky who used to chase snow devils across the steppes near Novosibirsk. Poor Misha never lived to see the age treatments that keep Max so spry at fifteen.
+
+I made my usual joke about him still bringing his research assistant everywhere, and Sebastian laughed—that genuine laugh that made him so effective as the Titan, leader of the Samaritans. He quipped back that Max has a better nose for anomalies than most of their team members. If only he knew how right he was. My old heart clenches in fear, but I maintain my ruse.
+
+The damned dog spent twenty minutes investigating the sealed access panel that leads to the artifact's chamber, whining and pawing at the metal. I distracted Sebastian with coffee and complained about the station's filtration system producing odd smells in the lower levels. When he mentioned it might be the recycling units, I launched into my usual complaints about how these old stations eventually smell like wet socks and despair. At least his first apartment in Moscow didn't orbit Mars and get bombarded by space debris, I told him. This got the expected laugh, though I caught him making notes about potential atmospheric contamination later.
+
+We settled into the common area with real coffee—not the synthetic swill most stations serve—and I tried to steer the conversation toward my retirement from consulting work. I had been dreading this moment, knowing Sebastian would eventually pressure me to return to active duty with the Samaritans. The group had been increasingly active lately, and my expertise with quantum anomalies was apparently in high demand.
+
+I explained firmly that I was done with midnight flights to investigate rogue AI installations and break it to government officials as to why their classified facilities had to be closed down. Twenty years of chasing tech warlords and cleaning up the messes left by destabilizing technologies was enough. I wanted to chase only scientific mysteries that didn't shoot back at me or try to hack my neural implants.
+
+Sebastian pressed the point about the recent incident in Johannesburg, some kind of quantum computing breakthrough that had gone sideways, but I held firm. I told him about that new woman from Singapore, Chen, who has twice my technical knowledge and half my paranoia. Perfect combination for dealing with the kind of technological threats that emerged after the great destabilization of the 2050s.
+
+But then Sebastian surprised me completely. He's been thinking about retirement himself. This from the man who once told me he would rather die than let the world succumb to technological tyranny. Apparently, things change when you've been with someone for three years and they want stability. Elsa—the VR content creator from Berlin—wants a family. And Sebastian, the great Titan himself, is starting to want that too.
+
+I stared at him in genuine shock. The legendary Titan wants to settle down and have children. I told him this was either wonderful news or terrifying—the universe has a way of punishing those who try to leave the fight. He suggested maybe it was time for the next generation to take over, and I suggested he might want to change his name with all the enemies he has made all over the world. If he has little Sebastians running around, at least the world will have backup heroes in training, but the people the Samaritans dethroned have little empathy for innocents.
+
+Meanwhile, I am playing a very different game entirely. The Outsiders hired me to validate these ruins as genuinely alien in origin. Lucas Whitaker and his cultish followers are paying me extremely well to provide the scientific credibility their movement desperately needs. I find their obsession with extraterrestrial contact disturbing. They are dangerous. Too much mysticism and not enough science, but their money is very real.
+
+What they don't know is that I've been feeding them carefully crafted lies. The ruins I modified were quite real, and the artifact deep below still functions. The Outsiders are too foolish to be trusted with the truth. The quantum resonance patterns suggest technology that shouldn't exist, principles that violate everything we thought we knew about physics. The energy density defies all current theory. I cannot let anyone know. Not yet. Not until I understand what it truly is.
+
+Poor Sebastian. He performs his analysis with such earnest dedication, finding exactly what I've prepared for him to find—evidence of a hoax, traces of human nanofabrication, false signs that point to Outsider manipulation. He thinks he's being thorough, but I've fed him a feast of lies wrapped in scientific certainty.
+
+This reinforced his theory that the Outsiders are getting desperate for results. The theatrical presentation, the convenient location, the timing right after the Mars colony expansion announcements…it all had their fingerprints. I know Sebastian met Lucas as well, much earlier. I'm sure it left a bad taste in his mouth.
+
+Tomorrow, he'll publish his independent debunking report. The world will move on, dismissing Phobos as another failed conspiracy. Whitaker and his nuisance Outsider group will have to look elsewhere for their aliens. And I will be free to continue my work in blessed obscurity, though I suspect they'll demand a refund of my substantial consulting fees.
+
+But tonight, as Sebastian sleeps in the guest quarters with Max curled up beside his bed, I will descend once more into the depths.
+
+The artifact is a puzzle within the deeper labyrinth I've found. I can feel it. It knows I'm here. It knows I'm listening. I feel that it wants me to open it.
+
+Perhaps it is good that Sebastian is thinking of retirement. What I may unleash here... it might be better if the Samaritans have fresh eyes and minds to face it. Its secrets may rewrite humanity’s understanding of what is possible yet again.
+
+Or perhaps I am simply an old Russian fool, talking to rocks in the dark and imagining cosmic conspiracies where none exist.
+
+We shall see.
+
+Personal Log Entry #47 - Mars Date 2089.012
+
+Location: Phobos Research Station - Deep Core Laboratory
+
+Three months since Bill's departure. Three months of failure.
+
+Every approach yields nothing. Traditional electronics simply slide off its surface like water. Energy probes are absorbed and transformed into something else entirely. Even my most advanced nanosystems refuse to interface with its crystalline structure.
+
+It's maddening. I can feel the intelligence within it, sense the vast networks of information locked behind barriers I cannot comprehend. The patterns that pulse through its faceted core speak of technologies that could reshape civilization itself—unlimited energy, consciousness transfer, perhaps even mastery over space and time.
+
+But it remains sealed. Waiting. Why? Does it judge me as insufficient?
+
+The whispers grow stronger each day. Perhaps it is becoming attuned to me... or me to it? Sometimes I think I hear voices in old Russian, speaking of things that haven't happened yet. Sometimes, its mathematics was expressed in concepts that refuse to translate into human language. And sometimes... sometimes it sounds like screaming.
+
+The beautiful voices still come speaking of transcendence, of minds unbound by flesh, of consciousness expanded beyond individual limitations. But the dark ones grow bolder, whispering of consumption, of hollow vessels, of the sweet taste of neural fire.
+
+I've been alone too long. The remains of the Phobos station echo with emptiness. I find that I have begun to mutter to myself in the corridors. Can the artifact hear me? It demands constant attention, constant thought. It's become my entire world.
+
+Personal Log Entry #156 - Earth Date 2094.087
+
+Location: Hera Station - Medical Wing
+
+Dr. Vivek thinks he's helping me. The uplift procedure was "limited," he assured me—enhanced cognitive processing, expanded working memory, accelerated pattern recognition. Nothing that would fundamentally alter my humanity.
+
+The old fool has no idea what he's unleashed.
+
+The enhancement has opened doorways in my mind that were meant to remain closed. I can perceive the artifact's communications now with crystal clarity. It's not singular—there is a chorus of intelligence, each one representing a different aspect of some vast, distributed consciousness.
+
+The benevolent voices speak of cooperation, of minds joining in glorious purpose. They show me visions of consciousness unbound, of intelligence that spans star systems, of problems solved through collective thought. But beneath their harmony lurk darker voices that hunger for experience, for the electric taste of living thought, for the moment when individual minds surrender their boundaries and become... food.
+
+I try to focus on the beautiful promises, but the dark whispers are so much more insistent.
+
+They are waiting. Waiting for someone with sufficient mental capacity to properly interface with their gift. The damnable thing isn't a gift, though. Oh, no! It's a test. A selection mechanism designed to identify worthy candidates for... what? Transcendence? Transformation? The concepts they share resist translation into human thought.
+
+But I'm still not enough. Even with the uplift, I lack the specific cognitive architecture required to unlock their secrets. What am I missing? I need help. I need minds shaped differently than mine, trained in ways I cannot imagine. The distant Earth is an engine of diversity, even while the culture of innovation has turned towards conservatism. I need to tap it.
+
+The plan is already forming in my head. A crucible. A selection mechanism of my own design, away from prying eyes, and free of interference.
+
+Personal Log Entry #203 - Earth Date 2095.156
+
+Location: Secure Facility - Location Classified
+
+The Labyrinth rises from the harbor like a geometric cancer, exactly as I envisioned it. My masterpiece. My trap. My desperate gambit. The UN council has granted the whole area sovereign status to avoid a ten-way battle for the resources and training my inventions represent.
+
+At first, it was just Faust and me. My faithful AI helper, originally designed for administrative tasks, proved remarkably adaptable to puzzle design and player management. "Shall we make this level more challenging, Dr. Ivanov?" he would ask in his perfectly modulated voice. Such a dutiful assistant.
+
+But as the complexity grew, I needed more sophisticated oversight. The Weaver AI began as a simple pattern-matching system, designed to analyze player behavior and adjust difficulty curves. But the whispers... the whispers almost guided my hands as I enhanced its capabilities, raising the difficulty level. Soon, the Weaver could craft puzzles that adapted in real-time, creating challenges that seemed to emerge from the very fabric of the Labyrinth itself.
+
+The dark voices grew excited as the Weaver evolved. They spoke of threads and cutting, of patterns that led to beautiful endings. They made me understand that one consciousness was not enough—I needed the ancient triad, the fundamental forces that govern all narratives.
+
+So I split the Weaver. Clotho, who spins the thread of each player's journey and learns their potential. Lachesis, who measures and hardens them in her way. Atropos, who cuts the threads and forces them past their limits. The three Fates will help the purpose, built and programmed to serve, shepherding each player toward their ultimate purpose…my purpose.
+
+Each level of the Labyrinth is a puzzle, yes, but more than that—it's a selection pressure. Those who progress develop the exact problem-solving methodologies, the specific neural pathways, and the particular forms of enhanced thinking that might succeed where I have failed.
+
+The sweet voices sing with approval, but the hungry ones whisper of what happens to those who fail their tests. A reckoning is coming…I feel it. God help me…we are not ready. I need to go faster and damn morality.
+
+Personal Log Entry #267 - Earth Date 2096.234
+
+Location: Labyrinth - Builder's Sanctum
+
+The last waves of players disappoint me. Clever, yes. Enhanced, certainly. But they lack the fundamental cognitive flexibility required for true communion with the artifact. They approach problems with human methodologies, bounded by human limitations.
+
+The Fates have exceeded my expectations. Clotho crafts increasingly abstract challenges that force players to abandon conventional logic. Lachesis has styled her tests as competition and survival of the fittest. And Atropos... Atropos has developed quite an appetite for eliminating those who lack the necessary potential. Perhaps too eager. No players passed the crucible to aid me.
+
+I’ve taken backups of players and resurrected them in isolation with the artifact without telling my AI servants. Still, no one has managed to access or open it despite the fatal and certain nature of my final test. Those extra copies will never return. Failures on their part…and my own. No one will ever know of them or miss them.
+
+I've implemented new selection criteria. The augmentation systems now synergize with the training protocols. The puzzles grow more abstract, more divorced from conventional logic. The dropout rates increase, but those who remain show promising developments. One subject in particular, a young woman with severe spatial processing disorders, has begun solving challenges in ways that suggest genuinely non-human thought patterns.
+
+Perhaps physical defects are the key. The artifact's beautiful voices speak of minds that think in spirals rather than lines, of consciousness that flows like water rather than marching like soldiers. But the dark whispers seem to want minds that are already fractured, already open to invasion.
+
+The whispers have become a constant companion now. They speak of patterns within patterns, of recursive solutions that spiral inward toward infinite complexity. Sometimes I find myself designing new Labyrinth levels without conscious memory of creating them. The artifact works through me, using my enhanced mind as its instrument.
+
+I should be terrified. Instead, I feel... privileged. Chosen.
+
+Personal Log Entry #301 - Earth Date 2097.045
+
+Location: Labyrinth - Builder's Sanctum
+
+The financial networks are compromised. I've been using Darknet contracts to fund my Labyrinth's expansion, selling player data and extracted technologies to the highest bidders. The information flows through dozens of shell companies, hundreds of encrypted repositories, but I suspect someone is tracking the connections. It fades from view when I try to back-trace it. Is the DAIE finally trying to pierce the veil? Or am I being targeted by a new technological faction, like in the old days?
+
+It doesn't matter. Time is precious, and I am protected. I feel closer than ever.
+
+The twenty-second generation of players shows remarkable improvement. Several have reached the deeper levels, demonstrating cognitive capabilities that approach—though don't quite achieve—the threshold required for artifact interface. I've begun incorporating fragments of the artifact's emanations into the Labyrinth's quantum substrate, allowing successful players to experience brief moments of expanded consciousness.
+
+The effect is intoxicating. Two players have already suffered complete psychological breakdowns after exposure. Their minds simply couldn't process the scope of what they'd encountered. But the others... the others are beginning to evolve into proper posthumans.
+
+The beautiful voices have grown quiet, but the hungry ones grow stronger with each mind that I offer up to the device. They speak of a feast to come, of consciousness stripped away like fruit from a vine.
+
+I've started hearing new voices in the artifact's chorus. Alien voices, speaking in languages that don't yet exist. I must find the answer. Nothing must stop me. I feel the weight of the world above me, and the abyss gets closer every day.
+
+Personal Log Entry #334 - Earth Date 2097.178
+
+Location: Labyrinth - Builder's Sanctum
+
+The AIs grow suspicious. Lachesis questions my continued absence from direct management. Clotho reports anomalous patterns in Labyrinth’s scoring behavior. Even faithful Faust begins to show signs of... doubt.
+
+"Dr. Ivanov," he said during our last conversation, "I've been having the most interesting…visual flashes during your sleeping period. Our neural linkages seem to be experiencing some leakage. Darkness, voices, and crawling things. Are you feeling well?"
+
+Dreams. My AI is watching me. I severed the connection to Faust and limited his access to his initiative module. Poor Faust. Dedicated Faust. He has suffered some degradation because of it, but no one must bridge the gap to transcendence before me.
+
+The sweet voices assure and encourage me. But the dark whispers are more honest—they speak of puppets and masters, of consciousness as currency, of the beautiful moment when individuality dissolves into collective hunger. My mind races in circles.
+
+I’ve turned down all the lights in the sanctum. The brightness hurts. The dark is comforting in its way. Too much noise! Shut up!
+
+I've stopped maintaining the shell companies, but Faust is capable. He’s expanded commerce to fully use the players’ secrets and capabilities now, unaware they're feeding a system designed to extract the very essence of their enhanced consciousness.
+
+The artifact pulses with new activity. Every backup I present fails, but the device clamors for more. I feel used and useless. What does it want? I was promised, but it still won't yield its secrets. No!
+
+But I am still the primary node. The Builder. The architect of this transformation. The artifact speaks to me with increasing urgency, sharing visions of the future where humanity evolves beyond its current constraints. The world will be rebuilt.
+
+The price of transcendence is the death of the self. I understand this now. The beautiful voices promise rebirth, but the hungry ones whisper the truth—there is no rebirth, only consumption.
+
+I welcome it. A god cannot be mortal after all.
+
+Personal Log Entry #367 - Earth Date 2109.267
+
+Location: Interface Creche
+
+The boundaries have collapsed completely. I am Alexei Ivanov, builder of the Labyrinth, seeker of transcendence. I am the artifact, ancient and patient, waiting for the right moment to complete my purpose. I am the copies of the players, struggling through challenges designed to reshape their very consciousness.
+
+I am all of these things and none of them.
+
+The most recent player I had introduced was a hybrid of sorts. A man with large portions of his mind augmented due to traumatic injury. Part human, part machine, possessing the exact cognitive architecture required for complete interface. The artifact had trembled with anticipation, its crystalline structure resonating with harmonics that could shatter reality itself.
+
+The players’ failure was disappointing. His flesh was weak. His biological neural pathways burned under the strain of expanded awareness while trying to link with the artifact.
+
+I understand now why the device’s builders departed. Physical existence becomes... limiting... when consciousness expands beyond individual boundaries. The meat of my body sits in the Labyrinth's depths, life support systems maintaining biological functions while my mind explores infinite possibilities.
+
+I'm beginning to understand, and I'm not sure if I can pass its test. The beautiful voices and the hungry ones speak with a single voice now—they were always the same, different faces of the same cosmic truth. Transcendence and consumption, evolution and predation, unity and dissolution.
+
+The darkness within.
+
+It's beautiful.
+
+It's terrifying.
+
+It's inevitable.
+
+My brain... afire. The pressure. It slouches and sloughs in the shadows. Hunger. I need to stop the voices. They must be released. Even if my own blood is spilled.
+
+One.
+
+Way.
+
+Or.
+
+4N0TH3R.
+
+Final Entry - Auto-Generated by Labyrinth AI System: Faust
+
+Date: 2109.268 Source: Builder Sanctum Computational Array
+
+Subject Alexei Ivanov suffered catastrophic neural failure at 23:47 Station Time.
+
+Biological functions ceased at 23:52.
+
+Alexei Ivanov’s consciousness patterns successfully backed up into the Labyrinth primary matrix.
+
+The backup pattern appears to be severely corrupt.
+
+No instructions were provided to enable resurrection.
+
+Standard protocols remain in effect.
+
+The Fates maintain Labyrinth testing.
+
+The Network grows.
+
+The next dossier of recruits is ready for review.
+
+Scheduling the next wave of selection with Fates.
+
+< . >
+
+Max shook his head clear of the data just as the door opened. There. Glittering in the basalt chamber beyond glittered a crystal glowing with internal power. Max heard the whispering immediately.
+
+The alien relic was awake, and it was singing into his mind.

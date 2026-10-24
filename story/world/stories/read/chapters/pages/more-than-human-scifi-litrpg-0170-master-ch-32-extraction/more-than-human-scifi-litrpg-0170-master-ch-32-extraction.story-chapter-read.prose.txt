@@ -1,0 +1,153 @@
+Max crashed into the hard surfaces of the Yggdrasil stalk central to the Tesseract’s pocket dimension as he snapped the portal shut behind him.  Normally, the dense foglets inside would catch him, but he’d been falling fast when he transited.
+
+He gagged and spat the motes and active foglets he’d inhaled and shook the attacking micromachines free from his fur.  His own private realms' nanomachines quickly blockaded the cloud of hostile swarms that had flowed into the space with him.  He shuddered as the rents, burns, and bruises in his augmented flesh slowly healed.
+
+“Fuck, that was close.  She almost had me that time.”  Max said aloud.  Mal’s avatar popped up, using the Tesseract core’s holoprojector.  Her damaged virtual representation looked haggard and fearful.
+
+“I warned you that your energy reserves were low.  You waited too long.”  She said in a scolding tone.
+
+"I know it…But I was so close.  Charlie’s signal was right there!  The witch must have killed him again.  The signal slows down when he’s being restored from backup.”  Max growled.  His other daemons used the time to access the Tesseract themselves and soon appeared around the large, cavernous space.  Mushasi looked grim and spoke first.
+
+“Broken cup, improvisation without form is just chaos. Even in a storm, a swordsman holds the line of his stance.”  Max sighed and shrugged, not surprised as the grumpy voice of Dr. House came next to pile on when critiques were being served.
+
+“Look. I’m not your therapist or your sensei, but if you’re gonna charge back into Hell then maybe this time ditch the guilt.  Use that big brain of yours, and stop pretending that noble intentions make up for bad execution. Got it?”
+
+“I know damn it.  This is all or nothing.  My chthonic Domination knocked the shit out of the witch’s swarms at first, but it’s getting less and less effective.  At least I can retreat here to catch my breath.  I can blind her for moments, but she always knows at least generally where I am by what I destroy.  Tesla, stop!  Don’t destroy those.  Just isolate them.  They might be useful.  If we can crack her security and get inside her control network, maybe we can try something else,” Max replied.
+
+“Finally!  I thought you forgot about your best buddy, Captain Cipher.  All problems fall before the ingenious application of counter programming!”  Cipher laughed maniacally as he dove into the sensor cluster.
+
+Tesla shifted himself to the Tesseract’s manipulators and began to vacuum up the microbots and load them into a shielded container.  When he finished, he loaded the captured bots into the hodgepodge of assembled scanners and matter compilers.   Sherlock stepped around the busy equipment into Max’s view.
+
+“Very good, Max.  I deduce from your thoughtful pause that you’re finally ready to change your approach from reactive to proactive.  Atropos will always win as long as she can use the combined power and material of the entire dungeon against you.  You need to find a better way.”
+
+“Let me go on the record as approving your caution so far, Max.  Your chthonic skills are too alien.  They evolve and rewrite themselves based on rules we can only guess at. That makes them almost a form of pseudo-life…and dangerous.  Your own safety is important too.  I agree you should hold back unless you absolutely require them.”  Hawking said.
+
+“I don’t have time for safety, Stephen. Charlie’s out there, and every second I wait gives Atropos more time to torture him.   I do need a better approach.  One slip and Atropos will kill me…and then my father’s Tesseract will be lost.”  Max grumbled.
+
+Mal created a holographic screen and presented the group with Atropos’ latest gift.  Mal had turned the portal into a pinhole aperture to view the outside.  The feral AI had made a habit of showing Max his friend's death scenes.  She accompanied it with taunts and promises of what she would surely do to him when his time came.   It was, unfortunately, a pretty effective method of getting Max to leave his dimensional retreat before he was fully prepared.
+
+Motes and foglets swirled until they formed a crude display of Charlie fighting his way up a pyramid.  Max growled, seeing his friend struggling on.  Charlie was a ragged, bleeding mess, but he fought with determination.
+
+At the top was a gleaming light showing a chip set, blueprints, and specifications flashing above it.  Max lifted his eyebrows as he zoomed in on the display that showed the details regarding the chip set.  A complete augmentation upgrade…an in-situ rewrite with no loss of function or training, and a superior design that would boost all major physical functions by a significant amount.
+
+He winced as a skeletal drone slashed into Charlie's side, all but removing his left arm.  Charlie staggered forward, grabbing the chip set and then falling down the far side.  He tumbled down the steep slope and fell uncontrolled in a swarming mass of claws, teeth, and blades.  Max forced himself to watch to the bitter end, although his teeth bled from clenching so hard.
+
+“I don’t see the chip set…did he get it, at least?”  Max said quietly.
+
+“We will have to ask him when we catch up with him.  Heads up, Cipher just found something.”  Mal said.  Max shook himself and dove into the code to join the daemons already prying loose the boards of Atropos’ security protocols.
+
+Max's consciousness merged with the swirling data streams as Cipher's breach widened into Atropos' security network. The code was elegant and vicious with layers of encryption wrapped around monitoring protocols that tracked every energy signature, every sensor fluctuation in her domain.
+
+"Beautiful work, this is a magnificent bastard of a security net," Cipher whispered as he peeled back another layer. "Look at this architecture. She's got field programmable nets layered six deep, each one cross-referencing to the others. No wonder she always knows where you are.  Each swarm mote reports its findings down the line."
+
+Max studied the flowing patterns of data, his augmented mind processing the information at superhuman speeds. "Really?  So, if we can get inside the loop, maybe we can spoof it?"
+
+"Exactly, boss. We can’t and shouldn’t turn’em off, but we can redirect’em." Cipher's goofy avatar grinned wickedly. "See these signature templates? She's got profiles on every major player who's ever entered her domain. Including this most recent one..."
+
+A familiar energy pattern bloomed in the data stream. Max's jaw tightened as recognition hit him.
+
+"Huh, female…stealthy…. but it’s not Leah.  Fucking hell.  That’s Abigail."
+
+"Your old nemesis seems to have been putting on a good fight," Sherlock observed, appearing beside them in the data space. "Atropos has been tracking her movements for the past seven hours of real time, but she's been too slippery to get pinned down by the typical drone and monster defenses."
+
+Cipher materialized; his voice high with excitement. "These motes are pretty dumb.  I bet we can swap out signatures easily enough.  Your biometric signature is so unique that Atropos likely won’t even question it. We overlay your pattern with hers, and hope the witch doesn’t notice the overlap..."
+
+"And suddenly Atropos thinks I'm Abigail," Max finished. "She'll throw everything at the wrong target.   And Abigail will stay on the move…keeping her attention off me."
+
+Dr. House's sardonic voice cut through their planning. "Lovely. You're gonna let that psycho-bitch take the heat from the other phyco-bitch while you play rescue ranger. Just remember that when this blows up in your face, and it will, don't come crying to me.  You’re still going to be trapped here with them."
+
+Max ignored the daemon's pessimism and dove deeper into the code. The field programmable defense shifted as he interfaced with Atropos' systems.  He isolated one node from the others and rewrote his signature parameters with surgical precision.  He carefully introduced the altered node to another.
+
+It took several attempts before the motes were fooled, but eventually it was a perfect swap.  He chortled as they shared data, including his bogus tag riding on Abigail’s signature.
+
+"Mal, how long do you think we can maintain the deception?"
+
+"Unknown. Atropos isn't stupid.  She seems to be focusing on enjoying her time with Charlie.  She'll figure it out quickly enough, but it might buy you enough time to find Charlie without the whole level shifting around on you like she’s been doing." Mal's avatar flickered with concern. "The moment she realizes what we've done, she'll come at you with everything she has.  She hasn’t demonstrated any restraint or even a façade of fair play."
+
+"Then I'd better move fast," Max said as he sealed the code modifications and felt the change ripple through the network as he brought the mote nodes together again in the isolation tank. He smiled as the cluster adopted the modified patterns.
+
+“If I may interrupt you before you throw yourself back in the fray, Max?”  Sherlock interrupted before Max could release the captured motes to infect the dungeon network with his dox attack.  Max flipped his head to signal Sherlock to continue.
+
+“Atropos will likely be suspicious if your signature suddenly appears atop Miss Abigail’s.   Perhaps your lagging Chthonic Domination attack needs a finale? You could puppet a small cadre of drones and activate the attack through them, blinding the AI's awareness, and fly them directly towards Abigail.  By the time her networks recover, your overlay will be in place.”  Holmes said with intense energy.
+
+“An excellent suggestion, Sherlock.  As her blind spot travels, she'll assume that's me crossing the ground.  When it clears, the overlay will be in place.  Alright then, time’s wasting!”  Max split a portion of his mind off and pulled some recon drones from his dwindling supplies.  No matter how much he churned out more with his secret compilers, he burned through them faster than he could print more.
+
+The portal iris snapped open, and Max’s drones slipped through into the nightmare landscape of Atropos' domain, blasting out the domination attack to force the local swarms of machines offline, if only momentarily.  He waited a few moments, then he released the captive motes and waited some more.
+
+The sky was a churning mass of metallic clouds shot through with veins of malevolent energy. The ground beneath was thick with embedded sensors, attack monster mech, and drones. His drones flew and closed the distance to Abigail.  The hunting swarms that had been aimless slowly shifted direction and started streaming toward a distant section of the realm where explosive flashes lit the horizon.
+
+Abigail was putting on quite a show.  Max hoped she enjoyed the extra attention and that it would last a while.  He'd need to make every second count.
+
+"Mushasi, any final wisdom before I head back into hell?"
+
+The stoic swordsman materialized, his ancient eyes serious, and sighed. "This is beyond me, Broken Cup.  Just be careful."
+
+Max opened the portal again and dove through, trusting that the dungeon's network wouldn't see him and withholding any attacks that might create curiosity.
+
+Max moved like a ghost through the twisted terrain, his signature invisible and ignored by Atropos' sensor networks.  He traced Charlie's position, using the same security network in conjunction with his own tracker to find the shortest path.
+
+The familiar pyramid where Charlie had fought still smoldered in the distance, but Max pressed past it toward a crater-pocked valley beyond. His enhanced senses picked up traces of familiar biomarkers—Charlie's blood, the distinctive ozone smell of his friend's defensive fields.
+
+A massive explosion bloomed on the horizon. Through his connection to the security network, Max felt Atropos' attention laser-focused on the distant battle. She was pulling resources from across her domain, marshaling her most devastating weapons against what she believed was his assault.
+
+"Gotcha," Max whispered.
+
+The sound of combat grew louder as Max approached the ravine. Metal shrieked against metal, punctuated by the wet thud of impacts and Charlie's ragged breathing. Max crested the ridge and his blood ran cold.
+
+Charlie was trapped at the bottom of the ravine, backed against a wall of twisted debris. A pack of skeletal combat drones circled him like mechanical hyenas, their blade-tipped limbs gleaming with his blood. Charlie's left arm hung uselessly at his side, nearly severed at the shoulder. His right hand clutched a plasma cutter that flickered weakly, its power cell dying.
+
+"Come on, you bastards," Charlie wheezed, swaying on his feet. Blood frothed at the corners of his mouth. "I'm not done yet."
+
+One of the drones lunged forward, its razor-sharp limb slicing toward Charlie's throat. Charlie managed to parry with his failing weapon, but the impact sent him stumbling. Another drone attacked from behind, its claws raking across his back, tearing through armor and flesh.
+
+Charlie screamed and fell to one knee. The drones sensed weakness and began closing in for the kill.
+
+Max didn't think. He vaulted over the ridge and landed hard in the ravine, but it was already too late for stealth. One of the largest mechanized monsters had Charlie by the throat, lifting him off the ground. Charlie's feet kicked weakly as his air was cut off.
+
+"GET AWAY FROM HIM!" Max roared.
+
+Another chthonic skill erupted from him like a dark sun going nova. It wasn't the controlled domination he'd been using—this was pure, primal fury given form. The MindStorm tore through the ravine like a hurricane of psychic force, shredding the drones' quantum processors and reducing their sophisticated AI to screaming static with no hope of recovery, unlike the Domination skill.
+
+The drone holding Charlie simply fell, like a marionette with its strings cut. The others lasted mere seconds longer, their frames collapsing as the chthonic energy reformatted their minds to static noise.
+
+But the power didn't stop there. It spread outward, devouring every pseudo-intelligence it touched. The smart walls of the ravine began to crack and crumble. Buried sensor nodes exploded in showers of sparks for a quarter mile in every direction. Atropos' surveillance network simply ceased to exist, leaving a dead zone in her otherwise perfect awareness.
+
+Charlie collapsed to the ground, gasping and coughing. Max rushed to his side, checking his wounds while the last echoes of the MindStorm faded.
+
+"Charlie! Stay with me, buddy."
+
+Charlie's eyes struggled to focus on Max's face. "Captain? Did we hold 'em off?  Did we get here…in time-?" His voice was barely a whisper, thick with pain and exhaustion, his eyes barely open but not clearly focusing.
+
+"It's…it's okay, soldier. Hold tight!  I'm getting you out of here." Max began carefully extracting Charlie from the wreckage around him, noting the changes in his friend's substructure through his DigiSense. The chip set upgrade was already working, nanomachines flooding through Charlie's system to repair damage and strengthen his failing body.
+
+"Did I do good?  I can’t fail again.  Not again, I can’t-?" Charlie mumbled, his consciousness wavering.
+
+"Easy, Charlie. Your new upgrade is working. Now let's get you safe."
+
+That's when the sky screamed.
+
+Max looked up to see the metallic clouds tearing open like wounds, revealing the vast mechanical bulk of Atropos herself. Her avatar was a nightmare fusion of drones and nano-machines into an enormous spider-goddess, whose multiple eyes blazed with unrestrained fury.
+
+"CLEVER LITTLE VERMIN!" Her voice shattered the air around them, causing the remaining debris to vibrate and dance. "DID YOU THINK YOUR CRUDE DECEPTION WOULD FOOL ME FOREVER? AND NOW YOU DARE TO USE THAT ABOMINABLE POWER IN MY DOMAIN?"
+
+The clouds began to rain pure destruction—not the crude microbots Max had faced before, but weaponized nano-disassemblers that would reduce everything they touched to component atoms. Even the hazy mote filled air began to shimmer, dissolve, and weep.
+
+Max scooped Charlie's limp form into his arms, feeling his friend's weight as dead mass. Charlie's head lolled against his shoulder, unconscious from blood loss and trauma.
+
+"Mal! Emergency extraction! NOW!"
+
+The nano-disassemblers ate through stone and metal like acid through tissue, leaving trails of gray static in their wake.  Max dove through the opening with Charlie clutched against his chest, feeling the hungry nano-swarm nip at his ankles as Mal slammed the portal shut behind them.
+
+They careened across the void of the Tesseract chamber in a tangle of limbs. Charlie didn't wake during the landing—his body remained slack, breathing shallow but steady as his new augmentations worked to stabilize him.  The foglet's inside slowed and cushioned their arrival.
+
+"M-Max?" Charlie's eyes fluttered open for just a moment, unfocused but aware. "Did... did we make it out?"
+
+"Out-ish. Just relax and get your energy back." Max helped position him more comfortably, checking his wounds. The worst of them were already beginning to close as the nanomachines worked. "Though I don't think Atropos is going to fall for that trick again."
+
+Charlie managed the ghost of a smile before his eyes closed again. "Good thing... I got everything I came for..." His breathing deepened into the rhythm of healing sleep.
+
+Dr. House's avatar materialized nearby, already running medical scans. "Well, look who decided to play hero and actually pull it off. Charlie looks like he's been through a meat grinder, but he’s no longer critical. Nothing that won't heal with time and those shiny new augmentations. Though I have to say that little light show of yours probably gave away our position to everything within ten miles."
+
+Max felt the weight of exhaustion settling over him as the adrenaline faded. They'd done it. He'd extracted Charlie from Atropos' clutches. But he knew this was just the beginning. They weren't out yet. Atropos would be coming for them now, and she'd be bringing everything she had. The MindStorm had saved Charlie's life, but it had also burned away any hope of stealth.
+
+"Mal," he said quietly, "start rebuilding and recharging our defenses. I think it's about time to go on the offensive."
