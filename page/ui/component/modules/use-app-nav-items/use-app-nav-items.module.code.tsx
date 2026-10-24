@@ -4,6 +4,7 @@ import type { AppNavItem } from "akasha/design/interface/layout/modules/nav-type
 import { IconPicker } from "akasha/design/interface/pattern/modules/icon-picker/icon-picker.module.code.tsx"
 import { Icon } from "akasha/design/interface/pattern/modules/lucide-icon/lucide-icon.module.code.tsx"
 import { triggerSafeNode } from "akasha/design/interface/primitive/modules/trigger-safe-node/trigger-safe-node.module.code.ts"
+import { NEVER_MATCH_SLUG } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -44,6 +45,7 @@ interface UseAppNavItemsArgs {
   app?: string
   primaryItems: readonly AppNavItem[]
   initialRows?: ReadonlyArray<Record<string, unknown>>
+  served?: boolean
 }
 
 export function useAppNavItems({
@@ -51,20 +53,20 @@ export function useAppNavItems({
   app,
   primaryItems,
   initialRows,
+  served,
 }: UseAppNavItemsArgs): PrimaryNavItemsResult {
   const navWhere = useMemo<PageWhere>(
     () => [{ key: "app", eq: app != null && app !== "" ? app : "" }],
     [appId, app]
   )
   const { rows: liveRows, isLoading } = usePages({
-    pageTypeSlug: NAV_SLUG,
+    pageTypeSlug: served === true ? NEVER_MATCH_SLUG : NAV_SLUG,
     where: navWhere,
     limit: NAV_ITEM_LIMIT,
   })
 
-  const navItemPages: ReadonlyArray<Record<string, unknown>> = isLoading
-    ? (initialRows ?? [])
-    : liveRows
+  const navItemPages: ReadonlyArray<Record<string, unknown>> =
+    served === true || isLoading ? (initialRows ?? []) : liveRows
 
   const navReady = initialRows != null || !isLoading
 

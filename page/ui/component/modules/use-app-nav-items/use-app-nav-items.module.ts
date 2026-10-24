@@ -40,7 +40,11 @@ export const useAppNavItems = {
       decisionKind: "decision-kind/departure",
       statement: "The nav items at the top are drawn in the order of their titles.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nav items the server serves are drawn as served, and none is asked for again.",
+    },
   ],
   createdAt: "2026-09-02T20:05:45.270Z",
-  updatedAt: "2026-10-18T15:44:08.149Z",
+  updatedAt: "2026-10-24T21:46:24.050Z",
 } as const satisfies Module
