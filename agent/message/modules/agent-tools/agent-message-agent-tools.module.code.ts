@@ -115,34 +115,39 @@ export async function startChannelListener(
   server: ChannelServer,
   agentId: string
 ): Promise<() => void> {
-  const to = seatNameForAgent(agentId)
-  if (to === null) {
+  const first = seatNameForAgent(agentId)
+  if (first === null) {
     throw new Error(
       `no seat page names agent ${agentId}, so there is no recipient directory to watch and ` +
         "nothing here could say which messages are this seat's"
     )
   }
+  let last = first
+  const to = (): string => {
+    last = seatNameForAgent(agentId) ?? last
+    return last
+  }
 
   const witness = startDeliveryWitness({
     agentId,
     advance: async (messageId) => {
-      const taken = await takeMessage(to, messageId)
+      const taken = await takeMessage(to(), messageId)
       return taken.kind === "refused" ? taken.detail : null
     },
     currentTranscriptPath: (id) => transcriptOf(id)?.value ?? null,
     heartbeatMs: WITNESS_HEARTBEAT_MS,
     markInjected: (messageId) => {
-      markInjected(to, messageId)
+      markInjected(to(), messageId)
     },
     offerAgain: (messageId) => {
-      releaseClaim(to, messageId)
+      releaseClaim(to(), messageId)
       watching.offerAgain(messageId)
     },
   })
 
   const watching = watchMessagesTo(to, (message) =>
     message.from === STEP_SENDER && noticeStale(message.body, stepStatuses())
-      ? dropStale(to, message.id)
+      ? dropStale(to(), message.id)
       : deliverClaimedMessage({
           row: {
             id: message.id,
@@ -150,9 +155,9 @@ export async function startChannelListener(
             sender_agent_id: message.from,
             source: MESSAGE_SOURCE,
           },
-          claim: (messageId) => Promise.resolve(claimMessage(to, messageId)),
+          claim: (messageId) => Promise.resolve(claimMessage(to(), messageId)),
           notify: (msg) => sendChannelNotification(server, msg),
-          release: (messageId) => Promise.resolve(releaseClaim(to, messageId)),
+          release: (messageId) => Promise.resolve(releaseClaim(to(), messageId)),
           witness: witness.track,
         })
   )

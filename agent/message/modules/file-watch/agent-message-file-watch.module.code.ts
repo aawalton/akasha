@@ -20,14 +20,14 @@ interface Watch {
 }
 
 export function watchMessagesTo(
-  to: string,
+  recipient: () => string,
   onMessage: (message: Message) => unknown,
   opts: { readonly backstopMs?: number; readonly onError?: (err: unknown) => void } = {}
 ): Watch {
-  const refused = recipientRefused(to)
+  const refused = recipientRefused(recipient())
   if (refused !== null) throw new Error(refused)
   const onError = opts.onError ?? ((err) => console.error("[messages] watch:", err))
-  const dir = `${akashaRoot()}/${messageDirRelPath(to)}`
+  const dir = `${akashaRoot()}/${messageDirRelPath(recipient())}`
   try {
     mkdirSync(dir, { recursive: true })
   } catch (err) {
@@ -47,7 +47,7 @@ export function watchMessagesTo(
     try {
       do {
         again = false
-        for (const message of unclaimedTo(to)) {
+        for (const message of unclaimedTo(recipient())) {
           if (offered.has(message.id)) continue
           offered.add(message.id)
           try {
