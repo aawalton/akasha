@@ -3,6 +3,7 @@ import {
   draftKept,
   draftKey,
   dropDraftSent,
+  enterSends,
   keepDraft,
   type Shelf,
 } from "akasha/agent/seat/modules/composer/seat-composer.module.code.tsx"
@@ -36,6 +37,22 @@ const REFUSING: Shelf = {
     throw new Error("refused")
   },
 }
+
+const ENTER_KEY_CODE = 13
+
+function enter(shiftKey: boolean) {
+  return { key: "Enter", shiftKey, nativeEvent: { isComposing: false, keyCode: ENTER_KEY_CODE } }
+}
+
+test("Enter on a keyboard with a fine pointer sends, and Shift with Enter does not", () => {
+  expect(enterSends(enter(false), false)).toBe(true)
+  expect(enterSends(enter(true), false)).toBe(false)
+})
+
+test("Return on a touch screen starts a new line rather than sending", () => {
+  expect(enterSends(enter(false), true)).toBe(false)
+  expect(enterSends(enter(true), true)).toBe(false)
+})
 
 test("a draft is kept apart for each seat and each person", () => {
   const keys = new Set([

@@ -86,6 +86,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/launching/seat-launching.module.ts","id":"01a05d8f-50d9-7000-8a2a-2bc819c63d01"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.ts","id":"01a06a06-5c03-75e8-ac45-a622024f1f89"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.ts","id":"01a06949-b281-7b6f-900b-fa221e76dbd9"}
+{"propertySlug":"decision-kind","path":"agent/seat/modules/composer/seat-composer.module.ts","id":"01a0d495-78d5-7ce9-aae8-5a65074332ad"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/spawn-guard/spawn-guard.module.ts","id":"01a0695a-d2ea-7bcd-b07f-19486629a01c"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/turn-state.computed-property.ts","id":"01a0d8d9-4ec0-71bf-b400-66c7c3f6abc1"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/working-color.computed-property.ts","id":"01a0d418-de99-707f-a82d-2e055619cb91"}

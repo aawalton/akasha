@@ -8,6 +8,7 @@ import {
   useReturnSends,
 } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
+import { useCoarsePointer } from "akasha/page/ui/block-editor/modules/use-coarse-pointer/use-coarse-pointer.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { ImagePlus, LoaderCircle, Mic, MicOff, X } from "lucide-react"
 import { type ChangeEvent, useEffect, useRef, useState } from "react"
@@ -51,6 +52,10 @@ export function keepDraft(shelf: Shelf | null, key: string, draft: string): unde
 export function dropDraftSent(shelf: Shelf | null, key: string, sent: string): undefined {
   if (draftKept(shelf, key).trim() === sent) keepDraft(shelf, key, "")
   return undefined
+}
+
+export function enterSends(event: Parameters<typeof sendsNow>[0], touch: boolean): boolean {
+  return !touch && sendsNow(event)
 }
 
 const SEND_AT = "/api/seat/message"
@@ -274,6 +279,7 @@ export function SeatComposer({
     clear()
   }
   const returnSends = useReturnSends(send)
+  const touch = useCoarsePointer()
   return (
     <div className="mx-auto flex w-full max-w-[710px] flex-col gap-2 px-4 py-2">
       {voice?.state.kind === "failed" && (
@@ -308,19 +314,19 @@ export function SeatComposer({
           <ImagePlus className="size-5" />
         </Button>
         <Textarea
-          ref={returnSends}
+          ref={touch ? undefined : returnSends}
           value={draft}
           onChange={(event) => {
             setDraft(event.target.value)
             keepDraft(shelfHere(), key, event.target.value)
           }}
           onKeyDown={(event) => {
-            if (!sendsNow(event)) return
+            if (!enterSends(event, touch)) return
             event.preventDefault()
             send()
           }}
           rows={1}
-          enterKeyHint="send"
+          enterKeyHint="enter"
           placeholder="Message"
           aria-label="Message to this seat"
           className="max-h-48 min-h-10 flex-1 resize-none"

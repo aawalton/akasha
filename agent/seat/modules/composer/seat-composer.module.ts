@@ -10,7 +10,29 @@ export const seatComposer = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Enter sends, and Shift with Enter starts a new line, on every device.",
+      statement:
+        "Where the primary pointer is fine, Enter sends and Shift with Enter starts a new line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where the primary pointer is coarse, as a phone's is, Return starts a new line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where the primary pointer is coarse, only the send button sends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The box asks the phone for a Return key rather than a Send or Go key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The box sits in no form, so nothing submits it but the send button.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A tablet with a keyboard has a coarse primary pointer, so Return starts a line there.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -87,5 +109,5 @@ export const seatComposer = {
     },
   ],
   createdAt: "2026-09-24T18:02:40.725Z",
-  updatedAt: "2026-10-24T20:51:34.054Z",
+  updatedAt: "2026-10-24T21:15:57.363Z",
 } as const satisfies Module
