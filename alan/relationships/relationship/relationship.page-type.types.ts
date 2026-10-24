@@ -14,6 +14,7 @@ import type { RelationshipPhone } from "akasha/alan/relationships/relationship/p
 import type { RelationshipRole } from "akasha/alan/relationships/relationship/properties/relationship-role.text-property.types.ts"
 import type { RelationshipSmsAllowed } from "akasha/alan/relationships/relationship/properties/relationship-sms-allowed.boolean-property.types.ts"
 import type { RelationshipSmsHandlerTarget } from "akasha/alan/relationships/relationship/properties/relationship-sms-handler-target.relation-property.types.ts"
+import type { RelationshipSmsSeat } from "akasha/alan/relationships/relationship/properties/relationship-sms-seat.text-property.types.ts"
 import type { RelationshipTopics } from "akasha/alan/relationships/relationship/properties/relationship-topics.multi-relation-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
@@ -37,4 +38,5 @@ export type Relationship = Page & {
   relationshipSmsHandlerTarget?: RelationshipSmsHandlerTarget
   relationshipTopics?: RelationshipTopics
   relationshipNotes?: RelationshipNotes
+  relationshipSmsSeat?: RelationshipSmsSeat
 }

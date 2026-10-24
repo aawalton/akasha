@@ -34,6 +34,7 @@ const relationshipSmsRowSchema = z.object({
   accountUserId: z.string().optional(),
   smsAllowed: z.boolean().optional(),
   smsHandlerTarget: z.string().nullish(),
+  smsSeat: z.string().nullish(),
 })
 type RelationshipSmsRow = z.infer<typeof relationshipSmsRowSchema>
 
@@ -45,7 +46,8 @@ export function projectSmsIdentities(
     if (row.accountUserId === undefined || row.accountUserId.length === 0) continue
     const phoneDigits = normalizePhone(row.phone ?? "")
     if (phoneDigits.length === 0) continue
-    const target = row.smsHandlerTarget?.trim() ?? ""
+    const seat = row.smsSeat?.trim() ?? ""
+    const target = seat.length > 0 ? seat : (row.smsHandlerTarget?.trim() ?? "")
     out.push({
       phoneDigits,
       accountUserId: row.accountUserId,

@@ -28,6 +28,7 @@ export const relationship = {
     "text-property/relationship-met-at",
     "text-property/relationship-role",
     "url-property/relationship-linkedin-url",
+    "text-property/relationship-sms-seat",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -70,6 +71,7 @@ export const relationship = {
       maxCount: null,
     },
     { pageProperty: "file-property/relationship-notes", required: false, many: false },
+    { pageProperty: "text-property/relationship-sms-seat", required: false, many: false },
   ],
   decisions: [
     {
@@ -100,5 +102,5 @@ export const relationship = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:44:04.194Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-24T21:50:37.773Z",
 } as const satisfies PageType

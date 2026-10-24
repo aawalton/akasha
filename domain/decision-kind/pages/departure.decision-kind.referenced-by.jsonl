@@ -1178,6 +1178,7 @@
 {"propertySlug":"decision-kind","path":"alan/relationships/connection-activity/connection-activity.page-type.ts","id":"01a0658e-c30d-7f83-bcba-db0766dbd484"}
 {"propertySlug":"decision-kind","path":"alan/relationships/relationship-deposit/relationship-deposit.page-type.ts","id":"01a0658d-16bc-7759-82e4-2d059f33ac84"}
 {"propertySlug":"decision-kind","path":"alan/relationships/relationship-topic/relationship-topic.page-type.ts","id":"01a0658a-170f-73cd-a458-8f98d995452e"}
+{"propertySlug":"decision-kind","path":"alan/relationships/relationship/properties/relationship-sms-seat.text-property.ts","id":"01a16fe4-f2ce-7a52-a55b-f36e7985ed7c"}
 {"propertySlug":"decision-kind","path":"alan/relationships/relationship/relationship.page-type.ts","id":"01a06594-c6e2-7bab-9ba9-948b607cfd13"}
 {"propertySlug":"decision-kind","path":"alan/relationships/relationships.domain.ts","id":"01a0658f-90a6-7faf-883a-b68b1891fd70"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/alan-requests-web.router-app.ts","id":"01a0c537-ba4f-70c8-8138-07fe3a3ea045"}

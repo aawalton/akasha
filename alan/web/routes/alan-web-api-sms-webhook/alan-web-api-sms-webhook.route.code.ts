@@ -49,6 +49,7 @@ const RELATIONSHIP_KEYS: readonly string[] = [
   "relationshipAccountUserId",
   "relationshipSmsAllowed",
   "relationshipSmsHandlerTarget",
+  "relationshipSmsSeat",
 ]
 
 const SEAT_KEYS: readonly string[] = ["slug"]
@@ -87,6 +88,7 @@ function identitiesIn(rows: readonly Row[]): readonly SmsExternalIdentity[] {
       accountUserId: saidIn(row.relationshipAccountUserId),
       smsAllowed: row.relationshipSmsAllowed === true,
       smsHandlerTarget: bareIn(row.relationshipSmsHandlerTarget),
+      smsSeat: bareIn(row.relationshipSmsSeat),
     }))
   )
 }

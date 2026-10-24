@@ -25,7 +25,7 @@ export const alanWebApiSmsWebhook = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An inbound text becomes a message to the handler seat the sender's relationship names.",
+        "An inbound text becomes a message to the seat the sender's relationship routes it to.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -61,5 +61,5 @@ export const alanWebApiSmsWebhook = {
     },
   ],
   createdAt: "2026-09-09T22:00:46.561Z",
-  updatedAt: "2026-09-28T16:42:27.000Z",
+  updatedAt: "2026-10-24T21:50:37.773Z",
 } as const satisfies Route

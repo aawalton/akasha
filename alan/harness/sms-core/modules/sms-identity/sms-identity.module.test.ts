@@ -58,6 +58,20 @@ describe("projectSmsIdentities", () => {
     ])
     expect(only?.handlerTarget).toBe("amy")
   })
+
+  test("sends a text to the seat a relationship names before its handler", () => {
+    const [only] = projectSmsIdentities([
+      { phone: "+18015551234", accountUserId: "acct-1", smsHandlerTarget: "jenny", smsSeat: "amy" },
+    ])
+    expect(only?.handlerTarget).toBe("amy")
+  })
+
+  test("reads a blank seat as no seat named", () => {
+    const [only] = projectSmsIdentities([
+      { phone: "+18015551234", accountUserId: "acct-1", smsHandlerTarget: "alan", smsSeat: " " },
+    ])
+    expect(only?.handlerTarget).toBe("alan")
+  })
 })
 
 describe("decideSmsRoute", () => {
