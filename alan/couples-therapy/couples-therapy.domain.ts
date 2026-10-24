@@ -67,6 +67,10 @@ export const couplesTherapy = {
       decisionKind: "decision-kind/departure",
       statement: "Patch notes go to Jenny in batches of at least three changes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan sees each batch of patch notes before it is sent to Jenny.",
+    },
   ],
   directives: [
     {
@@ -95,5 +99,5 @@ export const couplesTherapy = {
     },
   ],
   createdAt: "2026-10-24T17:03:03.699Z",
-  updatedAt: "2026-10-24T21:18:49.329Z",
+  updatedAt: "2026-10-24T21:44:12.021Z",
 } as const satisfies Domain
