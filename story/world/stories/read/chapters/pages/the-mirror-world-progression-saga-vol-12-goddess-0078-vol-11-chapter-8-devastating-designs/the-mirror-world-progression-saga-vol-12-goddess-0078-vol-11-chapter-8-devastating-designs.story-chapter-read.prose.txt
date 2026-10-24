@@ -1,0 +1,69 @@
+While she had the time, Samantha took the time to focus on researching and developing another custom spell, primarily to take full advantage of [World Figure: Breaker of the Unbreakable] and its absurd bonus of a rare category. Appropriate default spells for that were somewhat lacking at high levels, at least for the default wizard spell list. Aside from that, she could most certainly give extra oomph to it.
+
+She also wanted instantaneousness and some decent targeting versatility to fully exploit her speed and shifting strategic needs. One spell, either single-target or AoE, with a modular function, would work best. As she’d done once before with Pillar of Force, the most ‘power-retaining’ method was to use Alternate Effects that depended on FE usage.
+
+And, of course, she wanted to counter wound negations. She sensed that Fate needed to be integrated for that, especially for maximum potency and efficiency. No problem!
+
+While it was tempting to go for some ‘meteor’ effect in honor of Six Moons Falling’s violent arrival, she’d fought in places without a sky far too often. It was just too limiting.
+
+The best bet for what exactly she would do in reality was to create explosions. That was among the most violent of ‘breakings.’ In this case, it would be raw concussive force, either at a point or in a larger radius.
+
+Seal of Devastation (60 MP, 3 Magic FE, 3 Fate FE, Optionally 3 Pneuma FE)
+
+(Level 14; Evocation, Alteration, Explosion, Curse) With a gesture, mark a target within 333 meters for immediate destruction by detonating outward from a remotely fashioned symbol marking. The marking can technically be dodged, but it is exceptionally difficult — add +10 Effective Levels for accuracy purposes only. A miss will detonate in the open air or on an intervening surface, possibly still causing damage.
+
+A direct surface hit in the vicinity of the vitals on a target under level 10, without wound negations, kills automatically. Otherwise, Lethality Grade is equal to caster level +6, diminishing to +5 if missing a surface detonation, and rapidly reducing with additional distance from the point of effect, causing no damage beyond two meters. The wounding type is (Explosion).
+
+A surface hit ignores all armor and has 3 levels of Toughness Penetration; a near hit or worse ignores physical armor, has 2 levels of Magical Armor Penetration, and 2 levels of Toughness Penetration.
+
+After assessing wounding, remove any additional wound negations remaining. If a direct hit is scored, and the target survives, the mark remains on them for 24 hours. During this time, they are afflicted with the curse ‘Sealed for Doom,’ preventing them from gaining any further wound negations, reducing their total Effective Levels to resist this spell by 10%, rounded down, and allowing you to track and target them without line of sight. Additional hits do afflict the curse multiple times, but the EL reduction doesn’t stack.
+
+Base level is [Wizard]. One additional class may add as normal, providing (level/3, rounded up) to the base class — this includes certain special classes (Note: [Goddess] adds).
+
+Alternate Effect (Seal of Expanding Detonations): By expending 3 Pneuma FE and an extra +30 MP in addition, the effect changes to a wider detonation rather than a point, and diminishing less with distance. A ‘direct surface hit’ becomes impossible, and the Lethality Grade becomes equal to caster level +4 within a two-meter radius, and reducing the grade by -1 per two meters beyond this. If desired, the destructive radius may be limited to 10 meters.
+
+The explosion is also charged with pneuma and causes a secondary Burning effect, and any targets wounded suffer the pain-like malus [Scoured] until healed. The wounding type remains (Explosion).
+
+I can dig it! Let’s blow shit up, essentially.
+
+You have gained 2 exp in [Magineer] through spell acquisition thanks to [Comprehension: Evolver].
+
+The power of the AoE, despite the limitations, could not be overstated. She could strip wound negations from entire groups at once, and she could drop two of these one after the other, though it certainly wasn’t cheap on the mana.
+
+Despite the fact that she’d obtained higher totals than ever before through all this, it didn’t invalidate [Spellfyr: Unleash] for various reasons — Unleash had no damage type, it ignored Magic Resistance, it had different rules against wound negations, and so on. The seal certainly didn’t eliminate the usefulness of [Spellfyr: Charged Strike], which could claim the same bonuses but was melee.
+
+She flew out into the wilderness far outside Geirkos to practice and play with the new spell a bit, enjoying herself as she violently detonated rocks and earth and so forth. She avoided obliterating live trees… it was probably dumb, but she always felt guilty killing trees after befriending Redberry.
+
+In any case, the demands of her realm pulled her back, as she sensed the ‘DoJF’ (Depth of Jeeves’s Frown) growing too critical, to which she knew the direct hand of the goddess was the only cure.
+
+She had an urgent need to do one of the least pleasant things she ever had on the itinerary: release discontents from Heaven. It was just a fact of life, death, and afterlife: some people didn’t want to continue, even in apparent paradise. Some were very old and tired, with loved ones already passed on that they missed… and it wasn’t so bad. It had a sense of closure. Others were just depressed and broken. Something in them didn’t accept Heaven, she supposed.
+
+A part of her spirit was deliberately partitioned as the ‘releaser,’ so that, as she turned her face away from that unfortunate business of untangling soul ties and letting them pass on to what was widely called the ‘System Lottery,’ she left the finer details and memories of those souls within that partition. It was easier that way.
+
+Heaven still had plenty of unproductive people, though they remained a minority. Samantha was always loath to release a soul before being absolutely confident their mood would not change and improve with time and attention. And indeed, the system she had, with contoured mental and emotional specialists heading it, rehabilitated many of them.
+
+The vast majority in Heaven, however, became a machine of production faster than she would’ve thought possible. The City of Tomorrow’s Cardinal Rule #3, the ‘Forge of Invention,’ produced an endless funnel of magic items for the needy material realm. It also became a great FE-sink, because it required constant investiture, and divine items had their specialties that arcane couldn’t match, such as those of the medicinal bent.
+
+She needed those sinks. As Redberry had once predicted, the maximum FE restriction became far more relevant for Samantha than her FE production. She couldn’t find enough boosts to the maximum lately. It was never truer, because her worship was exploding basically as fast as they could keep up with, the gains increasing daily. It was highly probable that this was an exceptional scenario compared to baseline expectations when it came to deity advancement…
+
+There weren’t ever enough priests, in truth, and boy, was everything suffering without Orswyth’s additional leadership, as he was sequestered away to finish the special project. It wasn’t that Estara wasn’t doing an admirable job — she really needed both of them running shit.
+
+It was ‘Day 62’ when she barely got a warning of the next deity quest being near completion before it was executed. She’d crested 22,222 Followers, and the FE began climbing toward the new maximum.
+
+The quest “Major Deity: Key Icon” is complete. 10,000 FE gained. +80,000 Maximum FE added. 16(12) exp gained in [Goddess]. [Assurance] upgraded.
+
+Cool beans. No more Major Deity quests? Damn. Level 12 is getting close.
+
+______________________________
+
+Samantha, Goddess of Fate & Illusion______________________________
+
+Goddess, level 11 [95/110]; Major Deity
+
+Domains (6/6): Mirrors, Illusion, Fate, Light, Pneuma, MagicFaith Energy: 210,004/280,000FE (Mirrors): 14,788 ; (Illusion): 6,644 ; (Fate): 8981 ; (Light): 7355 ; (Pneuma): 11,439 ; (Magic): 8429Followers: 22,222 (Daily FE Gain: 29,436 - 52 Afterlife Maintenance)Devout: 3622 + 68 FanaticsPriests: 2599 + 148 Community Bonuses + 777 Special Classes (Crusaders, etc.)Brute: 1 [10/20]Saboteur: 5 [36/60]Magineer (Abjurer+4): 14 [120/150]Bard: 3 [36/40]MP: 1900/1900 (950) SP: 26/26
+
+Special Skills: First Aid, Tarot Reading, Meditation, Sympathetic Targeting (Ex), Swimming (Ex), Diplomacy (Ex), Favored Wpn: Staff, Acting (GM), Teaching
+
+Class Skills: {W} Comprehension (GM), Arcane Breach (GM); {R} Rogue's Luck, Stealth (Ex); Priestly Ordination, Holy Relic Investiture, Create Servitor, Consecration, Magical Invention (GM), Sense Magic+3, Ritual Cast+1*, Inspire Ally (2/2), Musical Talent, Jack of All Trades 2, Exploit Weakness+1, Avoidance, Sabotage+2, Scrapping, Heavenly Inspiration, Holy Proclamation
+
+Special Traits: Token User, Immortal, Demiplane Domain, Conceptual Body, Fueled By Faith, Spirit Sight+1, Soul Companion (Azure), Detection Ward+2, Light Speed, Perfect Vision, Light Absorption, Matter As Spirit, Multitask Magician, Mana Font, Assurance, Timeless Coalescent, Oppression of Divinity, Immortal CoilAvatars: Av 1 (Core): Samantha (Mental Res 4+2, Magic Res 3, Quick 4, Favored Wpn: Staff 3+1) PFE: 230/230; Faces: Core (Pain Res 2), Stillwater (Charisma 1, Vital Strike +1), Puck (Arcane Breach +1); Av 2: Green (Mental Res 3, Magic Res 1, Quick 3, PFE: 230/230; Faces: Greenleaf, Samantha)Spells (MP): Allspell 14- (3*lvl), My Future Now (!), Hard Light Layer (4), Three Small Fortunes (6+), Mirror Array (12+), False Mind (22+), Pillar of Force (16+), Missile Blocker (20+), Justified Dispel (18), Aura of Punishment (26+), Bubble Shield (22), Fire Funnel (24), Breath of Spell Stasis (40), Total Mundanity (36+), Crowned Tower (30), Wire Jammer (42), Perfect Decoy (50+), Wyld Inferno (77), Sizzling Array (46+), Spell Reflector (50+), Seal of Devastation (60+), Trilogy Fusion Soul (66+)Powers: FE Utilization, Grant Prayer (Illusion, Fate, Light, Pneuma, Pantheon, Magic), Mirror+1: (Sense, Communication, Maze, Walk, Other, Control, Opposition, Curse), Intuition, Alter Fate, Conjure, Grant Invisibility, Dazzling Spectrum, False Auras+1, Mirroring Duplicates+1*, Reflect Force+1, Light Manipulation, The Dawn Will Rise*, Removal, Channel Domain, The Unseen Animus, Purify, Phantasmal Haunt, Sheath of Light, Deific Pneumamancy+1, Fated Knot, Dismissal, Spellfyr+1, Deific Counterspell+1Items: Foolmaker (+2 EL, +1 Arm Pen, Knockout, Spell Absorption 13/13, Echostrike, Magi’s Rapport, Cone of Sound), BDoFM, Suit of Mirrors (Relic; +2 M. Armor), D.I.V.A., Ardioq (shield emblem), Mystic Astrolabe, Contempt For The End, Breathbane, Bracers of Supreme Knocking, Ring of the Cheater, Amulet of All Defense, Extremely Flowy Necklace (154+154), Dimension Closet Sack (portal DIA: 32 cm), Horn of the Wild’s Vengeance, Temp Mana Earring x2 (26+26 MP), Potion of Seal Major Wound (1)Status: Days Lived (62), Ascendant*, World Figure, Savior of the Fae, Triangulation of Knowledge, Slayer, Spells of Deja Vu (39/999), Free Minor Divine Enchantment (1/use)

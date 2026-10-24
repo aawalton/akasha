@@ -1,0 +1,79 @@
+Before long, the spell was finished!
+
+Sizzling Array (46 MP, 3 Magic FE, 3 Pneuma FE)
+
+(Level 13; Conjuration, Array) You summon into existence 5 + (2 x caster level) number of small, color-changing magic balls that form an Array in a mass above your head. You may only have one Array-type spell cast on you at any given time. Duration is 1 minute plus 1 minute per 2 full caster levels. The balls are immaterial and nonreactive until you utilize them, but do exist to some magical effects.
+
+Each ball can fire at high speeds as a spell attack, at a target within (200 meters + 10 meters per Caster Level). You have +6/+5/+4/+2/+1 to Effective Caster Levels within 10/20/30/50/75 meters, for accuracy purposes only.
+
+The balls may be fired actively for a one-second aiming period, or fire automatically every two seconds, or three every five seconds against a single target. Reduce the accuracy bonus by 2 for any automatic attack. Automatic fire can be interrupted with active fire when desired, but this ends automatic fire for that particular period or ‘volley.’
+
+The attacks count as physical projectiles by magically-enchanted ammo, with Armor Penetration 2 and Magic Armor Penetration 1. Lethality Grade is equal to Effective Caster Level +2. Base level is [Wizard]. One additional class may add as normal, providing (level/3, rounded up) to the base class — this only includes certain special classes (Note: [Goddess] adds). An individual ball can only deal up to a [Major Wound].
+
+When initially cast, and then before each 5-second volley, the element of a volley may be changed between the following types: Fire, Ice, Force, Electric, Acid, Sound, Light, or Pneuma. These have the standard secondary effects of their element. The balls give no physical indications of their element, continually color-changing themselves in the same way, whatever element they happen to be at any given time.
+
+Huzzah! It’s beautiful, so very beautiful!
+
+You have gained 2 exp in [Magineer] through spell acquisition thanks to [Comprehension: Evolver].
+
+She cast it immediately to play around with it and blast targets at the tower’s sturdy firing range level, which was stacked with stationary as well as ‘ambient mana regenerating’ golem targets. It was fun knocking down the golems with the (Force) version. She felt like some sort of magician juggler with the glowing, crackling, color-shifting balls gathered above her. And looking at them was downright hypnotizing.
+
+Preeeetty.
+
+She somewhat regretted she couldn’t somehow cheat ‘Abjurer’ in there for the additional benefits, but Arrays were spells with significantly stricter limits than normal, and were entirely offensive-oriented. Abjuration just wasn’t compatible.
+
+While she had the free time, creative energy, and in general, the ‘juice’ to continue research and development, she did have an Abjuration or Protection type spell she needed to design, influenced by recent experiences, including the wound she’d taken from the lich.
+
+The concept of wound negations for mind and spirit did exist, but there was nothing innate in spells that would provide it. Perhaps certain specialty Domains would give it, but hers seemed to focus on aggregate totals and bonuses more than negations. That was perfectly fine — one part of the equation. She’d survived a max-level lich’s attack thanks to that stuff, even if he wasn’t apparently a ‘murderin’ specialist’ type of lich. But she could fill the hole of that weakness better if she had another layer. And ‘another layer’ was what wound negations were all about.
+
+As soon as she started investigating it, she could tell she was going to be squeezing really hard for value to get maximum negations against both mental and spiritual wounds. The specialty effects of False Mind were dead in the water if she wanted both the maximum of two wound negations and the combo covering almost everything non-physical. It was impossible to cover everything due to high-level Domain effects being their own special shit, like Entropy and Fate, with their own rules. But they were rare, with the access very foggy for mortals.
+
+What she really wanted to squeeze in wasn’t the ‘fake out’ thing, which she’d already smoked the Dominion with once very prominently — and thus was unlikely to pull off again… Instead, she just wanted something hard as shit to dispel, because dispels had often cramped her style up something fierce.
+
+And that? Very doable with the rest, synergizing with the magic ‘school’ of Abjuration very strongly and touching on her perhaps strongest Domain identity as the Goddess of Magic.
+
+Two wound negations were the max for the levels. She’d take it.
+
+In her inspired state, the concept rolled out of her mind quite productively, churned through quite quickly… until the last damn 2%. It then became a grind.
+
+The ideas were so simple at their core: what she wanted from the System, from the ‘stats’ of things. Her power and authority. But she struggled with it actually making sense and being a part of her. The name and what it actually was, which was particularly important for magic that touched upon the spirit.
+
+She paced and paced. She even did the literal stereotype of writing shit on paper and rolling up balls to toss into the garbage. She spoiled that a bit by ending up burning it all up in a flash as she let out a frustrated scream.
+
+The ‘fun’ of the session from before was definitely gone.
+
+Her eureka came completely out of the blue. She saw it like a waking vision, the concept of something she was already doing or ‘was’ on some level, hitting her, shortly followed by a weird name. But it fit. It had a ring to it. She’d go with it!
+
+In a slurry of activity, manipulating rune structures in the open air, she finished the spell with a dash of intuition, not entirely knowing how the actual text would end up reading. It was generated in a flash, and she hungrily read it as it did.
+
+Trilogy Fusion Soul (66 MP, 3 Light FE, 3 Magic FE, 3 Pneuma FE)
+
+(Level 13; Protection, Mind, Spirit, Body) You fuse and interstitch the mind, spirit, and body with a complex, magical interlacing structure that protects it. This provides +2 Synthesis Armor, which protects against physical, mental, or spiritual attacks, stacking with Magical Armor, if relevant.
+
+It also provides 2 ‘reserve’ wound negations that may be used or saved against physical, mental, or spiritual wounds. These replace any wound negations of the mind or spirit. If physical wound negations exceed this amount, keep only the excess as additional, normal wound negations otherwise following their typical rules.
+
+This effect is anchored to a body, which serves as an enchantment foundation, and cannot be removed unless the body is killed, at which point it automatically is dispelled and cannot be cast again for 24 hours.
+
+This spell requires a special material component to be prepared before or during the casting: one fingerlength each of thread of gold, silver, and copper, stitched into worn fabric in a triangle. This will transmute into a brand into the flesh like a metallic tattoo once the casting is complete.
+
+Casting time is 30 seconds, or 5 seconds to simply refresh expended wound negations — this may be done once every 5 minutes and doesn’t require new material components. Duration is 20 minutes per caster level. Caster Level base level is [Wizard]. One additional class may add as normal, providing (level/3, rounded up) to the base class — this only includes certain special classes (Note: [Goddess] adds).
+
+Whoa.
+
+You have gained 2 exp in [Magineer] through spell acquisition thanks to [Comprehension: Evolver].
+
+She had to re-read the spell a couple of times. It was certainly unique. The anti-dispel was even better than she’d hoped: it was basically impossible to dispel.
+
+There was a trade-off with the spell. At the benefit of unheard-of, ‘choice-based,’ modular wound negations, she couldn’t have both full stacks of normal wound negations and this benefit. Instead, she’d have an extra normal wound negation and have to ‘share’ the rest between whatever might wound her. It also had quite a hard limit on refreshing itself.
+
+Nonetheless, she was happy with it, suiting her needs far better than before. She was so massively stacked on the physical side comparatively, with tons of reducers and such, and it was entirely feasible to refresh physical wound negations over the top as needed — especially considering her Resemblant support ghosts could do that.
+
+No one other than certain super high-level supports or solo-buffers was getting four wound negations, but that was coming at some point for the lot of them, and would be a little better balance, being ‘two on top of two,’ as it were. Aside from that, the unique armor bonus the spell provided, undispellable, had basically upgraded her entire defense. This spell was absolutely a long-term type of buff she should always have on.
+
+The tactical benefit of saving wound negations was incredible. She could read intensity and soak wounds that wouldn’t have done much to her, or even let in a significant wound if something even worse was expected to come.
+
+Samantha was quite done with spell design and creation, but she did order the spell components needed — actually just the copper, as she already had the others in stock. She practiced with conjured material, stitching thread into clothing. She could use telekinesis, but doing the actual threading was key to the ritual — she couldn’t shortcut it by using [Conjure] to embed the clothing directly with what was needed.
+
+It wasn’t long before she got her authentic thread-of-copper and stitched her first triangle into her sleeve at the shoulder. She cast the spell and felt it lock in, entwining around her entire body, spirit, and mind, much like thread cocooning it. A little odd until she stopped focusing on it, at which point it faded into the background.
+
+She grinned. One more layer before she went to break the unbroken fortress. Their greatest challenge yet. Soon, the armies would march. Before then, she had to investigate just how to do the breaking.
