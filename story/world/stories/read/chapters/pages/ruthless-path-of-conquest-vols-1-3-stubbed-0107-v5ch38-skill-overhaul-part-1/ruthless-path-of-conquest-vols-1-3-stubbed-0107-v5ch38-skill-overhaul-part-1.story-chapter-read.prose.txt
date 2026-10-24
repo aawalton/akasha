@@ -1,0 +1,381 @@
+James finally opened his Status again. It hadn’t actually been very long, but it felt like forever—and with no meaningful progress since the last time he had checked.
+
+Fuck, I’m falling behind some bastard who isn’t confined to a bed, James thought. Vidarr, your blessing had better be damned useful in the end…
+
+Then he put the negative thoughts fully from his mind—mental discipline was one of the superhuman qualities about him now—and focused on the Skills.
+
+[Status
+
+Name: James Robard
+
+Race: Evolver Human, Lv. 27
+
+Class: Predator in Human Skin, Lv. 33
+
+Job: Fisher King, Lv. 23
+
+Health: 225/36,100
+
+Mana: 34,600/34,600
+
+Stamina: 33,856/33,856
+
+Wrath Meter: 0%
+
+Stats
+
+Strength: 156
+
+Agility: 169
+
+Stamina: 184
+
+Fortitude: 190
+
+Dexterity: 142
+
+Perception: 194
+
+Will: 200
+
+Intelligence: 173
+
+Charisma: 203
+
+Stealth: 183
+
+Free Points: 0
+
+Skills
+
+Affinity of the Fisher King, Lv. 4
+
+Air Strike, Lv. 5
+
+Aura of the Fisher King, Lv. 6
+
+Basic Elemental Magic: Earth, Lv. 4
+
+Basic Elemental Magic: Gravity, Lv. 4
+
+Basic Elemental Magic: Water, Lv. 4
+
+Berserk Mode, Lv. 0
+
+Blessing of the Fisher King, Lv. 6
+
+Command Presence, Lv. 1
+
+Command Structure
+
+Complete Illusion Magic, Lv. 0
+
+Curse of the Fisher King, Lv. 1
+
+Dominion
+
+Dreamwalk, Lv. 7
+
+Echolocation, Lv. 0
+
+Empathic Projection, Lv. 12
+
+Enhanced Stem Cell Production, Lv. 9
+
+False Reality, Lv. 6
+
+Fate Resistance
+
+Full Body Control, Lv. 5
+
+Goodwill of the Fisher King, Lv. 5
+
+Hand of Glory, Lv. 2
+
+Hidden Magic, Lv. 0
+
+Hypnotic Shriek, Lv. 0
+
+Identify, Lv. 9
+
+Indeterminate Past, Lv. 0
+
+Intelligence of the Fisher King, Lv. 2
+
+Invisibility
+
+Laying on Hands, Lv. 7
+
+Lightning Strike, Lv. 3
+
+Loyal Following, Lv. 5
+
+Mass Blessing of the Fisher King, Lv. 2
+
+Mass Pillage, Lv. 2
+
+Meteor Strike, Lv. 3
+
+Mind of the Predator, Lv. 7
+
+Monster Control, Lv. 10
+
+Monster Generation, Lv. 10
+
+Omnivore, Lv. 6
+
+Organization, Lv. 6
+
+Pain Resistance, Lv. 9
+
+Passive Improbable Evasion, Lv. 0
+
+Perfect Choice of Words, Lv. 7
+
+Pillage, Lv. 12
+
+Predator’s Missile, Lv. 3
+
+Predator’s Sacred Armor, Lv. 2
+
+Predator’s Strike, Lv. 6
+
+Predator’s Venomous Armaments, Lv. 1
+
+Proficient Silk Fabrication, Lv. 2
+
+Rapid Recovery, Lv. 7
+
+Self-Control, Lv. 4
+
+Shapechange, Lv. 0
+
+Shed Skin, Lv. 9
+
+Skill Fusion
+
+Skill Transfer
+
+Solar Ray, Lv. 2
+
+Solar Recovery, Lv. 4
+
+Soul-Freezing Gaze, Lv. 0
+
+Soul Magic, Lv. 2
+
+Summon Divine Helper, Lv. 1
+
+System Interface
+
+System Store Access
+
+Territorial Control, Lv. 5
+
+Threads of Fate, Lv. 1
+
+Universal Language Comprehension
+
+Way of the Predator, Lv. 6
+
+Will of the Fisher King, Lv. 2
+
+Zone of Influence, Lv. 1
+
+Talents
+
+Alpha Presence, Lv. 1
+
+Basic Spellcraft, Lv. 6
+
+Brutal Strength
+
+Cannibalism, Lv. 6
+
+Cool-Headed, Lv. 8
+
+Earth Affinity
+
+Efficient Magic, Lv. 5
+
+Elementalist
+
+Fisher Land Management, Lv. 5
+
+Fisher Sentient Resources, Lv. 4
+
+Flame Affinity
+
+Genius Loci, Lv. 2
+
+Leadership, Lv. 5
+
+Manipulation, Lv. 9
+
+Marksmanship, Lv. 4
+
+Mass Manipulation, Lv. 3
+
+Monster Patriarch, Lv. 10
+
+Ogre Constitution, Lv. 1
+
+Pain Resistance, Lv. 3
+
+Selective Empathy, Lv. 6
+
+Solar Power, Lv. 3
+
+Soul Eater, Lv. 1
+
+Ultrasonic Pitch, Lv. 0
+
+Water Affinity
+
+Titles
+
+A Stitch in Time
+
+Aeromaster
+
+Avenger
+
+Blessed One of Vidarr
+
+Chosen One of Anansi
+
+Citizen of the Dead Marsh
+
+Deceiver
+
+Devout Beacon
+
+Dreamweaver
+
+Figure of Destiny
+
+Friend of All Spiders
+
+Living Legend
+
+Monster Progenitor
+
+Pack Leader
+
+Pillar of Creation
+
+Ruler of the Dark Waters
+
+Savior
+
+Silencer
+
+Spider-King
+
+Storyteller
+
+Sublime Creator
+
+Swiss Army Mage
+
+System Pioneer
+
+Trickster
+
+Usurper
+
+Xenocide II]
+
+Upon reading all of the Skill descriptions, he came to some conclusions immediately.
+
+None of the “of the Fisher King” Skills get fused with anything, he decided. They’re all too important. Same with Universal Language Comprehension, System Store Access, and definitely System Interface. James could all too easily imagine having to go through the rest of his life without the ability to visualize his Status screen, track his levels, or try doing experiments like this where he would merge a Skill and then want to look at the name and description of the new Skill. For that matter, I’d have to memorize the Skill names to be able to use them, wouldn’t I? What a pain in the ass…
+
+If worse came to worst, he thought he could probably just Pillage or Skill Transfer the essential Skills from dead bodies or created monsters. But then he recalled that the monsters he had created did not automatically carry any of those abilities. Probably because they had a creator who was the one who actually managed their Status sheets for them, and none of them had ever purchased anything from the System Store either.
+
+It’s not as if I’ve ever seen a monster using any System-generated item. Maybe the System Store is just for humans, or at least the other Races like humans, since Anansi mentioned elves and dwarves exist…
+
+James further ruled out any fusion that would include Basic Elemental Magic: Earth and Basic Elemental Magic: Water, since those two magics were his natural affinities, and he had also continuously grown more and more familiar with manipulating those elements. Dominion, Dreamwalk, Invisibility, and Shapechange also seemed too good to be improved upon, so he wouldn’t bother with those either.
+
+Dominion was so powerful that the Skill had to be stored in a separate item from James’s body, Dreamwalk was probably his most useful non-combat Skill, Invisibility had been completely impenetrable the few times he had used it, and the same was true of Shapechange, that one time he employed it back in Orientation. It would be foolish to meddle with perfection. That still left almost fifty Skills to mess around with.
+
+I already know which one I’m going to try to dispose of first.
+
+Despite having chosen to forego fusing some of his most basic Skills, like Universal Language Comprehension, James was also aware that some of his Skills were simply unnecessary as they existed currently. One of them was Identify. He had never actually needed to know who his opponents were before he fought them, and aside from deities and demigods, whose presence he figured he could recognize on his own, he had not met the enemy who he did not believe he could kill under proper circumstances.
+
+All of this meant that the staple Skill, Identify, was more or less completely unnecessary from James’s point of view. If it could enhance some other Skill via merger, he would happily throw away the Identify function. And James thought that the unique properties of the Skill—analyzing and identifying an enemy on sight—could probably merge with some other ability in an interesting way.
+
+I’ll know what the enemy was after it’s dead, anyway. Plus, I have a bunch of monsters now with the Identify Skill, if I ever want to take it back from one of them.
+
+He tried temporarily fusing Identify and Solar Ray, and the result was Targeted Solar Ray.
+
+[Targeted Solar Ray: Naturally harness the power of the sun for a targeted energy attack. The target selected will not be able to evade by natural means, as the solar ray will bend to strike where they move.]
+
+Not good enough. In fact, not even really worth having to make the effort to get Identify again. No, I’m sure there’s a better combo out there. Maybe I’ll come back to this one if a monster comes back, and I can just grab a spare Identify.
+
+He spent a few minutes doing experiments with Identify, the main result of which was that he found that combining it with almost anything gave him either the “Targeted” modifier or the “Infallible” modifier. Potential Skills that James read descriptions for and rejected included Targeted Gravity, Targeted Wrath, Infallible Predator’s Strike, Targeted Hypnotic Shriek, Targeted Soul Magic, Infallible Predator’s Missile, and Infallible Lightning Strike.
+
+James assumed, without checking, that trying to combine Air Strike or Meteor Strike with Identify would have the same result as using it with Lightning Strike.
+
+He had interesting enough choices remaining anyway, without needing to waste mental energy with those potential options. He was already a little tired of the sheer number of possibilities that Identify offered, most of which were not meaningfully distinct from each other.
+
+The three good options in his opinion were Specialized Venomous Armaments, Specialized Predator Armor, and Special Prediction. These could be made by combining Identify with Predator’s Venomous Armaments, Predator’s Sacred Armor, or Empathic Projection respectively. And they were all a tier above the others in James’s opinion, just in terms of gaining the most function.
+
+It was time to review the choices and make a final selection, because he wasn’t interested in going back to just having Identify.
+
+[Specialized Venomous Armaments: With just a few blows exchanged, or even on mere sight of the enemy, the Predator develops his understanding of the foe, and his power adapts to meet the challenge. Produces a specialized venom targeted at your specific prey and excreted from your body by touch onto any surface. Improves with expanded knowledge of the enemy. Consumes Stamina and/or Mana dependent on the nature of the prey and venom produced.]
+
+That was an obviously powerful Skill that made a meaningful improvement over the existing one, but James thought it was potentially weaker than the other two options.
+
+[Specialized Predator Armor: With just a few blows exchanged, or even on mere sight of the enemy, the Predator develops his understanding of the foe, and his power adapts to meet the challenge. Produces a specialized defense against the opponent’s attacks, whether using Mana or your own flesh and bones as the material of your shield. Improves with increased familiarity with the enemy and its attacks. Consumes Stamina and/or Mana dependent on the nature of the enemy and its abilities.]
+
+The Skills were similar at a surface level, but James found the Specialized Predator Armor was deeper and richer in its implied powers. A specialized defense against attacks from certain enemies was a lot more versatile than a specialized venom. The venom might have more potential to be useful in a short fight, but while both Skills would grow more valuable in a longer fight, James saw more potential for the Specialized Predator Armor to become relatively more powerful. Because custom venom was less multidimensional than custom armor. There was also the fact that he was sorely lacking in dedicated defensive Skills, so enhancing the one major defensive ability he had would be a great boon to his combat power.
+
+But the last fusion option might have been the most tempting of all.
+
+[Special Prediction: The eyes of the Predator see everything, and they penetrate with deep understanding. Lay eyes on the enemy and experience a vision of its forthcoming actions. Once daily, observe a continual stream in your mind’s eye, displaying an almost perfectly accurate view of thirty seconds into the future of an enemy’s actions. Skill duration is dependent on level. Experience functions as a parallel channel of vision in addition to the user’s existing senses. Consumes Stamina and Mana, may strain the user’s eyes and mind.]
+
+That sounds broken, James thought. There’s no way I could pick something else after that description. Rereading it, the choice was only more obvious. There are so many conditions on this thing. “Once daily,” I have to see the enemy, it’s only “almost” perfectly accurate, and it “may strain” my mind. The only reason the System includes that many limiters is because this Skill is overpowered otherwise.
+
+He smiled and locked in the fusion permanently. For a moment, he winced. A needle seemed to have stabbed through his eyes and into his brain, from the sensations he felt—though Pain Resistance did its job, and James guessed this was not nearly as unpleasant as it should have been.
+
+The next choices were easier, just combining Skills that would be redundant otherwise.
+
+First, he used Skill Fusion on Echolocation and Hand of Glory, two Skills that were both centered around navigating when he could not see. The result left his head pounding slightly, as his brain modified itself to adapt to the new Skill. It wasn’t as big of a change as Mind of the Predator had been, and it was a slight, dull pain compared to acquiring Special Prediction, but there was a different feeling to his brain afterward. When he opened his eyes again, it felt like there was another layer of vision laid over the top of the first one—or perhaps it would be more accurate to say just beneath? And he could also somehow see things that were not within his range of vision.
+
+It was as if he had eyes in the back of his head. When he closed his physical eyes, the other layer of vision remained. And when he blinked his eyes open and shut to check the effect out further, he could also hear his eyes blinking with much greater clarity than he could before. As if there were ears on his eyes or something.
+
+What is this Skill? he thought. He finally examined it.
+
+The fusion had made for a completely new and broader category of Skill: Extrasensory.
+
+[Extrasensory: When hostile environments and enemy Skills seek to sap your sensory abilities, those interferences succeed. But something else is unlocked. A sense that only exists within the combined reach of your own sphere of Mana and natural Perception. It perfectly replicates the functioning of all your existing senses assuming no impairment—and may provide a glimpse of something more. Consumes Stamina and Mana.]
+
+It’s going to be weird having these layered senses and then also using Special Prediction to livestream the future, he thought. But I guess I’m up to the task.
+
+He would have to be. Both Extrasensory and Special Prediction were too obviously good to defuse. He moved on.
+
+Enhanced Stem Cell Production and Rapid Recovery were fused into True Regeneration, which sounded like a nice step up from his existing recovery Skills. It also happily did not lose the mortality-fighting effects of Enhanced Stem Cell Production.
+
+[True Regeneration: Your body quickly repairs itself from damage, using both magical and biological means. Damage includes injuries, fatigue, Mana depletion, aging, disease, exposure to harsh environments or toxins, and any factor that decreases Health.]
+
+That just might help me get out of this bed sooner, and it’s a keeper for that reason alone if nothing else…
+
+Then he started to run into more difficult choices again.
+
+The Skill Organization fused with Proficient Silk Fabrication to form Proficient Web Fabrication.
+
+[Proficient Web Fabrication: Refines the organs that naturally produce silk into a more sophisticated form that permits the production of complex, powerful, and magical web formations. Permits the generation of fully formed silk webs in various shapes outside the body, using Mana as a substitute for the silk-producing organs. All crafted webs can be manipulated via Mana. Silk quality can be improved by the infusion of mana or other energies. Webs can be infused with Skill effects. Consumes caloric energy. Consumes additional forms of energy if the user attempts to produce silk beyond a certain threshold without a break. Silk can be infused with life energy for additional effects.]
+
+That’s not really a huge improvement on either of the underlying Skills, if I’m being honest. The description was hardly different from the original Skill of Proficient Silk Fabrication.
+
+[Proficient Silk Fabrication: Enhances the organs that naturally produce silk, permitting the production of more powerful and magical silk substances. Permits the creation of silk outside the body, using Mana as a substitute for the silk-producing organs. All crafted silk can be manipulated via Mana. Silk quality can be improved by the infusion of mana or other energies. Silk can be infused with Skill effects. Consumes caloric energy. Consumes additional forms of energy if the user attempts to produce silk beyond a certain threshold without a break. Silk can be infused with life energy for additional effects.]
+
+He thought about defusing the Skills again, but instead first attempted, experimentally, to fuse Proficient Web Fabrication with Lightning Strike. This created Lightning Web, but again, James decided that this new Skill was not a meaningful enough improvement over the three previous ones.
+
+[Lightning Web: Mystically enhances and refines the organs that naturally produce silk into a sophisticated and combat-oriented form. All webs created are automatically infused with Lightning Mana. Efficiently produces lightning-infused webbing at a reduced cost in Mana and Stamina relative to Skills that would produce either lightning or silk separately. Permits the generation of fully formed silk webs in various shapes outside the body, using Mana as a substitute for the silk-producing organs. All crafted webs can be manipulated via Mana. Silk quality can be improved by the infusion of mana or other energies. Webs can be infused with additional Skill effects as long as they do not conflict with the application of Lightning Mana. Consumes caloric energy. Consumes additional forms of energy if the user attempts to produce silk beyond a certain threshold without a break. Silk can be infused with life energy for additional effects.]
+
+Yes, it would make a web infused with Lightning Mana, but I could just create a web and then decide if I want to use Lightning Strike on whatever is trapped in there. Removing the separation also removes the flexibility and makes Lightning Mana less usable in melee. Really feels like I just made the Skill unnecessarily complicated for no good reason.
+
+He defused the Skill into its three components and got ready to try another combination.
+
+There was one Skill James was absolutely determined to fuse before he stopped for the day. A Skill he didn’t want to ever end up using accidentally when he was around anyone he cared about.
