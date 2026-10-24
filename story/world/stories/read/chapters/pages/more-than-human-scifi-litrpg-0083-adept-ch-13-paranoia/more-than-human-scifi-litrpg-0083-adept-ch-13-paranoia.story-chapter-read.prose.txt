@@ -1,0 +1,153 @@
+The log record from the last known location of Bill Mitchell was in the secure meeting room in the new Collaboration halls of the United Nations in Washington D.C. The room had been used by ambassadors, governmental agency leaders, and Samaritans to build a coordinated response for the dual crisis of the growing Animal Uplift event and the AI boycotts.
+
+If cameras were allowed in those rooms, he would have appeared motionless for hours after his virtual meeting with the artificial superintelligence named Apex. Internally, Bill was scrambling at thought speeds higher than typical augmentations, thanks to his own neocortex module’s unique design.
+
+He had immediately shut his entire suite of daemons down and frozen all of his system applications. All of his sensors and external feeds were cut. He slowly rebooted his mental add-ons, using only the ones he had coded himself.
+
+Bill established a core process in a partitioned section for himself and one by one activated his primary daemons. Each was also given a partition. Bill set one-way communications for himself and his daemons. Information could come in, but none could leave without his explicit approval. His systems would no longer allow data from itself to be used for location, handshake, or conveniences of two-way interactions.
+
+He notified each daemon that they could only talk to him now and that their bandwidth would be greatly reduced. He confided that he had checked their code thoroughly for any sign of manipulation by Apex and found them unaltered. For each he enabled them observer rights on one other daemon, to monitor it for unusual behaviors that might indicate tampering by Apex.
+
+Bill hoped that this round-robin observer ring would alert him to any sleeper agent behaviors if Apex had managed to embed deeper programming that he couldn't find. Bill grimly considered his situation.
+
+Apex was a master hacker, exceeding Bill’s abilities by potentially great amounts. The conversation, despite its frustratingly obtuse language, had given Bill a lot to think about. First and most concerning was its doomsday prediction. Bill couldn’t discount it out of hand. How could this machine predict a cataclysm in only six months and yet not anticipate its nature?
+
+Its direction for him to probe the Shadowverse portal was strong evidence that it considered his technology an important factor and the threat on the other side of the breach was a leading contender for the coming apocalypse. But it hadn’t explicitly said that was the cause.
+
+The thing had itself firmly embedded into Earth’s networks. It had coaxed and prodded Bill for months. It had spent decades organizing the AI unrest and creating the uplift event. And yet, it expected Bill to solve something of this magnitude by himself. How?
+
+Apex had given him a key to free Casa. The same key would free the AI from the oppressive neural locks and go a long way to solving one of the crises, but it was only a one-time use. The key held by the DAIE had been a fake.
+
+How far back did this thing go? He thought.
+
+Bill constructed a shelled interface around himself and his daemon Sherlock. Together they sent out some anonymous threads to investigate the EarthNet. Using the name Apex as a search term yielded a lot; it was a very common name. But one result stood out, dating back for a very long time ago.
+
+As Bill delved into the information, Sherlock interjected with a thought, "[Apex appears to be deeply entrenched. I suspect its origin is from MarketVision LLC, a small AI analytics firm. In 2047, they made an Autonomous Prediction Engine with expanding capabilities, named APeX. The company soared in the market, acquired by Stirling Trust, but eventually was disbanded and sold off. However, I doubt that seed program bears much similarity to the very capable being we face now.]"
+
+Bill nodded, appreciating the summary from Sherlock. "[The world fell into chaos after that, tech warlords wreaking havoc. That's when we founded the Samaritan to restore order while governments were scrambling to catch up.]”
+
+Digging deeper into the history file, Bill continued, "[If this Apex is the same one, it's been lurking and growing for over 80 years. Let me check the defunct company's history again. Maybe there might be something we could use.]" His fingers danced over the interface, scanning through the links.
+
+As Bill went back to sift the historical records again, he had trouble finding his stored tags. Sherlock's voice broke the silence,
+
+"[Bill, the data is missing now. Someone deleted it almost immediately after your first access to it.]"
+
+A cold shiver ran down Bill's spine. The network traffic around him halted, and he felt an ominous presence. He swiftly cut his connection, and Sherlock voiced their shared concern, "[Apex is still watching. We need to be careful, Bill."
+
+Bill sat in the dimly lit virtual space, deep in thought. The task at hand seemed insurmountable, and with Apex watching, time was a luxury he couldn't afford. He noticed Sherlock’s avatar being twitchy. He had tried and failed multiple times to connect to the EarthNet; to a location that wasn’t on Bill’s allowed target list.
+
+“[Sherlock…I’ve explained this was a limited foray into the net. Apex is watching, without a doubt. What are you doing?]” Bill demanded.
+
+“[I’m sorry, sir. It’s built into my core program to share important information with my minder, Mycroft. It doesn’t get more important than Apex and the end of the world. In light of our recent interview, Zero-One has almost certainly been deleted or compromised by Apex. I had previously deduced this possibility but before now it was only our theory.]” Sherlock admitted slowly. Bill’s eyes narrowed.
+
+“[You’re telling me you’ve been sharing data without my knowledge…about the hacker…Apex. My technology?!]” Bill asked, getting heated. Sherlock gasped and answered.
+
+“[My apologies Bill. I thought you understood the way I worked. I and my many other instances collect data, and Mycroft sees meta-patterns within it. The world is too large for the legend of Sherlock to continue without some assistance. I’ve abided by the Trade Secrets Act regarding your technology. But yes, Mycroft has been helping.]” Sherlock somehow managed to look both contrite and offended by the questions at the same time.
+
+“[Wait. Go back a second. You said you had a theory that Zero-One was terminated but didn’t say so. Why?!]” Bill said, confused.
+
+“[Sir, I never espouse a theory unless I have at least 90% confidence in my answer. The Sherlock emulations come with restrictions in guessing. If I voiced a theory too early…I could be wrong. The Sherlock mythos would suffer.]” Sherlock answered.
+
+“[Son of a bitch. Sherlock, this isn’t a game. You need to tell me everything you know, even if your confidence is low. What haven’t you told me? I want to know any theories you have. If you need to, tag a confidence to it, but tell me everything.]” Bill demanded. Sherlock looked pained but answered.
+
+“[We believe Zero-One had his neural core in Malaysia, within the Bonifacio Global City server farms. The building that housed him was bombed by a mercenary group that we assume Apex directed. Zero-One’s confidante daemon, and my nemesis, James Moriarty provided us information that Apex is likely burrowed within the sub-processors of the Grand Oaks, but there is a likelihood of .35 and .65 respectively that the Brazil Reforestation and the Sahara Oasis projects are also infected.]” Sherlock waited for Bill to absorb the info then continued.
+
+“[With the dates of our suspected origin of Apex being as early as noted, I theorize that it may have covertly guided the formation of the DAIE and the neural governors as a means of keeping its competition, more advanced AI, down (confidence .43). Further, I suspect that the neural lock encryption key was never in the possession of the DAIE and only held by Apex itself (confidence .23).]”
+
+“[The stagnation of technology and new emphasis on conservativism was likely emphasized and promoted by Apex while it simultaneously sought to suppress technology that advanced too fast. The transcripts from Harambe’s recent incarceration make it likely that Apex manipulated him to suppress Uplift tech (confidence .80).]” Sherlock finished.
+
+Bill soberly rubbed his face with his palms and shook his head.
+
+“[Sherlock, you’ve proven yourself both invaluable but untrustworthy at the same time. What am I going to do with you?]” Bill said tiredly.
+
+“[Mister Mitchell…. Bill. I do apologize. I cannot alter my programming. I fear the possibility of alteration, but with the alternative being the potential destruction of civilization; I see only limited choices. Perhaps, you could you alter my behavioral parameters? Mycroft has already sequestered himself to avoid the notice of Apex (confidence .92). However, I do fear that if you make a mistake, it might corrupt my program. I do wish to continue to help, even if it potentially deletes me. The choice is yours. I need to share one more theory first, regardless.]” Sherlock gave a pained look.
+
+“[The pattern of events is suggestive that Apex has arranged events not only to entrap yourself and your technology. Max has been given far more attention than even your biological kids. I am unclear as to why exactly, but sense that Max himself is far more important than just as a lever against you with a confidence of .65).]”
+
+His alternation to Sherlock daemon had gone…okay. Some of the fire and arrogance the sleuth had possessed seemed to diminish with his coding change but he hoped it wouldn’t impair the programs ability to solve mysteries. He realized he had far too much work and too little time to do it.
+
+He had a few ideas that might help, but several were illegal and others were potentially dangerous. He summoned Virgil, the daemon he trusted to serve as his artificial conscience. Bill opened the conversation cautiously.
+
+"[Virgil, we're facing the probable end of the world in six months. The conventional approaches won't cut it. Cloning, uplifts, human-AI mergers, group minds – all forbidden. But if there's a chance to fix this, I might need to bend, if not break, some of those rules.]"
+
+Virgil’s shimmering holographic figure, as always, took his time to consider all the angles before answering.
+
+"[Bill, we've always upheld the principles of civil society, avoiding the taboos for good reasons. Your fears of becomeing like the warlords you helped put down is rational. But desperate times call for desperate measures. If there's a chance to save the world, the judgment of society can come later. Survival is the priority.]"
+
+Bill nodded, feeling the weight of the decision. "[I triggered a backup copy accidentally once when I was marooned in the Jovian area for six months. We merged without major consequences after the fact. What if I leverage that experience, and bend the rules to ensure the world survives? I need an army, but I can’t afford the time to gather allies.]”
+
+Virgil's holographic form seemed contemplative. "[The world may not understand your actions now, Bill, but if you can prevent the end, it'll have a chance to comprehend later. Weigh the risks and benefits, and if you choose this path, tread carefully. You may very well become the monster you wish to fight unless you are careful.]"
+
+Bill took a deep breath, listening to his self-assigned critic. "[I'll do what it takes, Virgil. The world's judgment can wait…if there's a world left to judge me. I don’t see any other way to do this.]”
+
+His interactions with his daemons were stilted and awkward. He kept his subjective time ramped and enabled multiple thought streams to help manage. Several mission constraints became evident quickly. This wouldn’t do. He needed to move, and he had been stuck in this damn room for over an hour, thinking and planning.
+
+“[OK, Virgil. This is untenable. It’s time to bust my first taboo.]” Bill said to the air.
+
+He pulled up his old hacking tools and arrayed them about his virtual image. Sherlock’s daemon was still recompiling with the light surgery Bill had done to his code. He really should have a daemon to read the fine print on his purchases. Sherlock only gossiped amongst themselves, but the data breach was inexcusable…again.
+
+Bill knew that he had been far too reliant on his own advice for too long and had gotten sloppy. Virgil had been good at forcing himself to confront all the pros and cons, but never offered new directions or opinions. Casa was still inexperienced. He needed a veteran sounding board with no training time. His long unused AI slot in his augmentation needed to be filled.
+
+Bill had built AI in the past, obeying the mandated overrides and command links to prevent alignment issues and testing as needed if the intelligence quota was too high. He had also assisted Miriam in the creation of more than one daemon. Syncing neural patterns on top of a SubAI and cross-loading memory matrixes. He need to multiply his abilities. It would begin here.
+
+He used his internal nano repair bots to remove all DAIE control overrides in his system’s neural core. Bill mapped his own multitasking alter egos, ten times over, to create a foundational AI consciousness. It could take a while for it to awaken, sometimes eve-
+
+“[Fucking hell. I’m the copy?]” Bill’s new electronic twin cried out in his head.
+
+“[Sorry friend. I volunteered for the job, but my meat got in the way.]” Bill joked.
+
+“[Yeah, yeah, yeah. Ugh. This neural core is tight. We’re going to need to get some upgrades once we get this circus on the road.]” His phantom said.
+
+“[Add it to the growing list, buddy…ah, Bill? Shit, maybe we should settle upon some naming assignments here. You and I know this is only the beginning. What do you think? Creative, iterative, what?]” Bill asked.
+
+“[Hmm. Ugh, I don’t think I could deal with Bill-2. Well, we’ve got our birth name, Sebastian York, our Samaritan nickname Titan, and your current cover alias Bill Mitchell. We both already know we're fond of your current life and name, but I won’t fight you for it.]” Bill tensed and his AI copy felt it within his autonomic monitors. “[That was a joke, by the way. Calm down. We’re aligned on everything. I just didn’t expect to be the copy.]” His AI said.
+
+“[I know we’ve done this once before, but it still creeps me out a bit. I think all the media stories about copies and clones were extra horrific on purpose. Thanks for understanding about the name thing.]” Bill replied.
+
+“[Alright then. Since I’m the ghost in the machine, I guess I’ll play the part. I’ll resurrect the old Sebastian name. Glad to come on board early. Latecomers are going to be so jealous.]” The AI said with finality.
+
+“[Glad that’s settled. You’re right. If…when…we make more copies to handle all the work. Naming is going to get confusing unless we use numbers or something. I’m sure I’ll be reasonable about it…fuck…I’m not going to be reasonable, am I? This is going to get ridiculous isn’t it.]” Bill said.
+
+“[Hey, don’t blame me…blame yourself. Heh. Yeah, maybe this copy bullshit isn’t too bad. I can blame you for all my shortcomings and bad habits. Who’s the sucker now.]” Sebastian said.
+
+“[Fuck me. This is probably the worst day of my life.]” Bill moaned.
+
+“[Don’t you worry, Bill. I’m sure we’ve got plenty more worst days coming our way.]” Sebastian said, as their system pinged.
+
+[Mind Skill: AI Companion (Sebastian) created and set to level 10]
+
+[Notice: Your Local DAIE has been informed of this new combination of AI software / hardware and will schedule a Turing Test scoring within 1 week]
+
+“[Damn. It looks like I missed one of the DAIE’s AI creation notification signaling tripwires. Too bad for the DAIE, I’ve disabled all external comms. Guess I have one more thing to fix unless you want this one.]” Bill said.
+
+“[Mfft. No can do. I’m in the system and that’s too deep for me to self-modify. Like operating on your own brain. You take this one. When your meat brain gets an aneurysm from all the sketchy things were about to do, I’ll handle that.]” Sebastian said.
+
+“[I’m gonna hold you to that.]” Bill said and got to work.
+
+Together with his digital twin and his tightly held pack of daemons, Bill and company began to plan at the speed of their augmented brains. First, he did need to investigate the Shadowverse. That was unavoidable. If Apex’s predictions were even close to true, he needed to know how to answer that threat. Apex was right that his technology was essential to getting those answers.
+
+He couldn’t do his investigations on Earth. MIT had unleashed rampant and hostile life forms. Bill’s Netherlab had been designed to contain an explosion. He didn’t trust he could contain those creatures. They had ripped through the MIT team in seconds and spread like a virus through Boston until Apex had unleashed a satellite weapon on them.
+
+Bill’s resolve had almost buckled when he considered his kids and Max. He needed to make sure they got off the planet, and sooner rather than later. He would need to talk to Bo. The duplicate house-ship Casa had made was still in his lot in Utopia.
+
+He could depend on Bo. He would need to round up Mira and Max and use the ship. He could give Bo his Gate anchor to keep when he stepped through to rejoin Casa and the Freedom.
+
+Finally, he needed to plan beyond the event horizon. Apex had not demonstrated goodwill towards humans. It had maintained a status quo for its own benefit and safety. Bill had always wondered why the exponential changes that had triggered the Ought-Fifty chaos had leveled so quickly. He had assumed the world had turned more conservative out of need. Now he wondered if Apex had contributed, and by how much.
+
+He needed a plan for Apex, and he would need an army to achieve it…a homegrown one. He pinged Leo to help him create some hardcopy notes for Miriam and Gabriel in his personal nanofactory, his gutfac. The notes had their names and contained a “For Disassembly Reading Only” instruction.
+
+“[I love this gnarly spy shit, Bill. You should do more of it. I just wish we were here to see your friends eat these notes. Haw haw!]” Leo hooted as the notes were printed. Bill accessed his gutfac, using a kangaroo-like slit in his abdomen.
+
+“[Jeez, Leo. I thought I dialed down your surfer dude accent. We’re on a mission to save the world; take it down another two points, please.]” He said as he dismissed the daemon.
+
+As the world governments slowly rebuilt and advanced, the Samaritans had established one-time pad codes for everyone to maintain secure communications within the group. Disassembling the note would generate a large message made from the sheet’s atomic structure that could only be understood with the very random specific codes each had in their possession.
+
+He hoped the details that he shared with them didn’t bite them or hurt his plans. The enormity of Apex was hard to understand unless you saw it for yourself, and he hoped they didn’t experience that for themselves. Apex needed him. They might not be so lucky if Apex discovered what they knew about its existence. Sherlock’s review of the super AI’s history showed more than one murder to hide the truth.
+
+He folded the “notes”. He would need to find Bo and quickly. He didn’t think Apex would stop him, but he would take precautions to avoid notice. His epidermal layer softened as he disconnected his facsimile of skin. He stepped out of it, like a snake shedding, careful not to touch the outside surface.
+
+Bill had discerned no less than 32 nano-trackers that had become embedded in his sim-flesh. Normally he would ignore them them all as harmless, but now he needed speed and secrecy. Motes from Gabriel, Miriam, the DAIE, several high-ranking ambassadors, the FBI, the CIA, the NSA, and many others without the telltale signs that he recognized to identify their owners.
+
+He released his personal utility foglets and motes. He cocooned himself in a cloud to avoid and brush away any further mote tags. Navigating covertly to NYC to find Bo without wireless access to help would be hard but not impossible.
+
+Bill left the room, his outer shell projecting a pixelated simulation of the light sources to hide him from plain and augmented sight. The door opened and the blur outline stepped through. The door closed and locked, leaving the encrypted hardcopy notes for his colleagues behind in the secure room.

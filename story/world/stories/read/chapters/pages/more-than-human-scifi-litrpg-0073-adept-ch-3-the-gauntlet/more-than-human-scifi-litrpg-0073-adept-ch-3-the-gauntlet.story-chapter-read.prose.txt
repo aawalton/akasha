@@ -1,0 +1,273 @@
+The team entered the first level, and the system welcomed them with a blue screen notification.
+
+[New Quest Unlocked: Labyrinth level 1 - The Gauntlet: Each team member must solo complete an uninterrupted series of combat matches to gain a key to unlock the next level.]
+
+The stairwell had ended with a door. The team had entered cautiously despite the Fates' mention of it starting with a safe area. Once everyone had entered and the door closed it had disappeared like it was never there.
+
+The rest area looked like the lobby of the playground level, where the team had waited for Max to recover. It was brightly lit with tables and chairs, some lounging sofas, bathrooms, and a matter compiler/recycler in the wall. One wall had what looked like an elevator door with a large EXIT sign overhead. On the other side of the room, there was a large hall.
+
+A yellow-striped caution tape covered the borders of the entryway to the large hall. It transitioned from the carpeted rest area into a stony torchlight hall that curved away into the darkness, the bright warning tape emphasized the border of the rest zone.
+
+Xavier whistled quietly and said, “And so it begins. Nice of them to taunt us with an exit. All the accounts I’ve read say that if you leave for any reason then that's it. No more tries at the Labyrinth for you. Game over, man.”
+
+“Well, that's just fine with me. The only way home is through for me. Are you guys ready to try it, or do you need anything from the rest area?” Charlie asked. Everyone agreed to go.
+
+Charlie glanced nervously at his team before stepping cautiously over the caution tape. The torches cast dancing shadows against the stony walls, creating an illusion of movement that made him jumpy. The air was damp and carried the faint aroma of moss and ancient stone. The others followed their steps echoing in the hall.
+
+The hallway soon came to a large circular room with four new passages along its perimeter. A large initial was carved into the stone lintel above each portal; “C”, “L”, “M”, and “X”.
+
+“Heh. The Mystery Labyrinth ain’t being too mysterious so far. My great powers of deduction have already solved this puzzle. It’s telling us our assigned paths.” Xavier said, his smile somewhat ruined by his Thark face. The tusks to either side of his face limiting his expression.
+
+“I don’t like that our first mission as a team is to split up. This is too much like a bad horror movie for this to be a good idea.” Max said.
+
+“Should we take it in turns?” Leah asked.
+
+“I can go first if you like.” Charlie volunteered.
+
+“Here’s an idea. Maybe we can watch your trial with our sensor motes accompanying you and even share an audio-only virtual layer while you do it?” Xavier suggested.
+
+“I don’t know. The AI seemed to get riled up when I helped Xavier that way in the Puzzle Maze section of the Adept Obstacle course upstairs.” Max said.
+
+“The quest didn’t mention anything about advice. I think combat and puzzle-solving might have different rules about solo versus teamwork. I think we should try it.” Charlie said.
+
+“Alright, but I’ll go second then.” Max said, eager to fight again.
+
+Seeing no objections, Charlie spun on his heel and slowly walked down the hall marked with the “C”. Max’s sense of the map expanded as his sensor motes followed Charlie down the hall. Max was worried as Charlie started to jog.
+
+“[Charlie, I know this is supposed to be a combat test, but you should still watch for traps.]” Max sent over the shared audio link.
+
+“[No worries, buddy. I’ve got my AI companion when you were out of it. I named him Auggie. He’s helping parse my senses and running his cog speed ramped up. If anything jumps out at me then my Reflex skill will get some extra exercise.]” Charlie sent back.
+
+The hall had curved, and Max’s signal was getting sketchy. He deployed more Power Bank motes to help create a COMM chain. The walls of the dungeon were opaque to sensors and even blocked radio. Max’s system pinged him as he reconfigured the swarm.
+
+[Swarm +1, Swarm reaches level 2: Continue to use this skill to enhance its power. 1 replication using an approved matter compiler has been unlocked to double your swarm inventory.]
+
+Nice! Max thought. He was about to share the news when Charlie’s hall opened to a circular room. A familiar training mannequin stood in the center in a relaxed pose. A sparring ring was visible on the floor.
+
+Charlie confidently strode up to the ring and as he stepped over the threshold, doors slammed shut closing the room. Max’s connection to his motes was cut off. Max shook his head. The tracker mote still worked, despite also using radio communication. The dungeon was filtering what signals it would allow.
+
+“Damn it. Did you two lose your signal too?” Max asked looking over to Xavier and Leah. The two were about to answer when the passage leading back to the rest area closed, a hidden door dropping down and obstructing the exit.
+
+“I guess the dungeon has spoken. We each do our challenges alone.” Leah said. Despite the grim tone, her eyes sparkled with excitement about the coming challenge. Only Xavier seemed hesitant.
+
+“Hey Xavier…” Max said. Xavier refocused on him. “You can do this. This is supposed to be just more training. Right? Hell, man. You beat Leah once in sparring. That's no mean feat. A bunch of mannequins shouldn't be a problem, right?”
+
+“Right, Max. I can do this.” Xavier flexed his four arms and shook himself. “Okay, let’s go. No mannequin is going to hold me back. See you on the other side.”
+
+Xavier jogged off down his passage and a stone door slammed down behind him. Leah performed a quick bow to Max with an amused grin and wink. Without another word, she charged down her path also. As her passage closed, Max internalized his own advice and pulled his nano motes tightly about him as he strode down the last hall to meet the challenge. The bang of the door locking him into his gauntlet resounded in the corridor.
+
+Soon Max found himself in a chamber, identical to what he had viewed through his sensor swarm for Charlie’s first challenge. He found a similar combat mannequin inside the ring and a notification pinged him.
+
+[Gauntlet challenge 1 of 20: Defeat your opponent. Stay inside the ring. Leaving the ring for more than 5 seconds is a forfeit of the match.]
+
+Okay, not a point match then but the ring might be useful if I can keep the sparring bot outside for more than 5 seconds. Max thought. No time limit, so I should go slow. Slow is smooth and smooth is fast. No mistakes. Max pinged Mal and his cadre of daemons for advice.
+
+“[I’d just go in and start blasting.]” Mal said confidently.
+
+“[Ahem, caution is wise, my dear Max. This trial has a greater purpose from the hints dropped by those AI Fate impersonators and the system prompts. It is intended to improve any gaps in your skills. Your opponents are likely not too overpowered this early in the labyrinth. Maybe focus on your weakest skills while you can?]” Sherlock advised.
+
+“[As this is a physical challenge, your weakest combat skills are Precision 1, Poisoning 1, Vorpal 1, Disable 2, Multitask 2, Strobe 3, EMP Blast 3, Hulk 3, Shock 4, and Ballistics 4. It might be a good time to utilize your grappling kunai as well to improve your SkillZ education for it.]” Musashi mused.
+
+“[Huh. I guess that makes sense. Hmm, do you think the bot will be affected by my Poison skill?]” Max sent.
+
+“[An excellent question, Max. Mannequin dummies are used in lots of augmentation programs. Some can mimic biological systems for greater realism. Pure observation won’t tell us here. The truth might only be discovered with experimentation.]” Tesla commented. Max snorted and spoke out loud.
+
+“Time to lay down some scientific method on this bot.” Max said, stepping into the ring. He expected the mannequin to bow, but instead, it immediately advanced with a punch. Max swayed to the side, and his [Balance] skill triggered keeping him from a fall.
+
+Max amped up his thought speed with [FastCog] and triggered his [Multitask] skill. With the freedom to plan his quick responses, he would play out this fight like a chess match. He would pair his attacks and defenses to hit the skills he needed to improve. Mal, his new minder and the link to his augmentations, seeing Max’s cognition boosted in multiple ways, allowed the normally restricted system notifications during combat to be announced.
+
+[Balance +1, Balance reaches level 10, Skill Cap reached +100 XP]
+
+[New Body Skill Unlocked: Dodge 1: Augmentation assistance in optimal evasion technique.]
+
+Max slid past the punch, to the inside of the robot's guard. His SkillZ boosted Kempo training, already helping him to instinctually have a blocking guard against the bot’s other hand. With deliberate precision, he swiped across his opponent's neck with his claws while triggering his [Poison] attack.
+
+With his boosted speed, split awareness, and his WorldMap sense of his enemy; Max saw the next attack coming. He spun away as the robot kicked out and slashed the outstretched leg with his other claw, triggering [Poison] again.
+
+Max smiled as he continued to block or dodge while slashing or poking the sparring dummy with his [Poison] skill. Mal was enthusiastic as the welts that he left behind had reddened on the mannequin’s artificial skin. It was slowing down and even acting as if its wounds were painful, further inhibiting its fighting.
+
+Max wore the robot down until it collapsed on the ground, its wounds seeping fluid and its synthetic skin mottled in color.
+
+[Quest - Ready to Rumble III, 4 of 20 opponents defeated, +100 XP]
+
+[Agility +2, Perception +2]
+
+[Poison +1, Poison reaches level 2]
+
+[Precision +1, Precision reaches level 2]
+
+[Dodge +1, Dodge reaches level 2]
+
+[Quest - The Gauntlet - 1 of 20 complete]
+
+Max grinned at the notifications. Progress with his advancement always seemed to come in a rush. He intended to maximize this one. A new door was opening on the far side of the round combat chamber. Another tunnel which would presumably lead to his next spar. He trotted down it with confidence.
+
+“God damn it. Why won’t you die!?” Max yelled at his fourth opponent. He dodged left, but the blow was too fast and delivered a painful glancing blow on his right ear.
+
+“[Max, it’s very subtle but the mannequin’s skin appeared to have shifted in quality and character over each iteration. Thicker each time. And what wounds you leave don’t appear to slow it as much as it once did.]” Sherlock observed.
+
+“[I think the test is escalating. Your opponents are evolving to counter your skills. Your growth in the poison skill defeated a few, but now it doesn’t seem as effective.]” Tesla responded.
+
+“Right! Time to switch it up!” Max ducked the next blow and punched with his claws extended activating his [Vorpal] and [Poison] skills together. His claws pierced his opponent’s thick skin, penetrating deep. The robot doubled over.
+
+Max sent a powerful front kick into his foe’s side knocking it out of the sparring ring. The robot struggled to stand, falling over a couple of times. The timer must have expired as it abruptly collapsed like a puppet with its strings cut and the next door opened.
+
+[Quest - Ready to Rumble III, 7 of 20 opponents defeated, +100 XP]
+
+[Perception +2]
+
+[Vorpal +2, Vorpal reaches level 3]
+
+[Poison +1, Poison reaches level 4]
+
+[Precision +1, Precision reaches level 4]
+
+[Dodge +1, Dodge reaches level 5]
+
+[Quest - The Gauntlet 4 of 20 complete]
+
+[Max E. Mitchell +1 Level, reached Adept 17, +10 Free stat points awarded]
+
+Max bent over in relief. He was making progress, but there was no doubt about the fact that the opponents were growing stronger. They seemed to grow specifically to counter the abilities he used. Max shook the sweat beading up in his fur, repeating his mantra he walked slowly to his next challenge.
+
+Slow is smooth, and smooth is fast.
+
+Max impacted the wall and fell to the ground. He shook his head and staggered up, he had been thrown from the ring and the counter was ticking.
+
+[5…..4….3.]
+
+At least the damn spar dummy doesn’t actively try to stop me returning. Max thought as he grimly shuffled into the ring and the timer notifications stopped. He approached the new brute cautiously. The sparring mannequin was bigger and tougher than ever, sporting some armor under its tough skin.
+
+Max regretted using his [Strike] and [Disable] skills so soon. His latest opponent was significantly stronger and more durable now. He wiped the blood off his fur. His regenerative skills were already capped. They would enable him to bounce back but wouldn’t improve anymore.
+
+He needed to overwhelm this one and reshuffle his plan. It was already damaged, a few more hits or one awesome strike should do it. He gritted his teeth. He didn’t like this skill. Every time he previously used it, he’d been worse off. Musashi insisted he needed to try.
+
+“Dammit! It’s smashing time.” Max sidestepped the large bot’s powerful kick grabbing its extended foot. He activated his [Hulk] skill and then grabbed the off-balanced mannequin’s shoulder and LIFTED it over his head with ease as the skill overloaded his body with strength and energy.
+
+Max didn’t just drop the dummy. He PULLED it down HARD upon his braced knee and broke the thing’s spine. Notices pinged and the door opened as the light from the robot’s optical sensors faded.
+
+[Quest - Ready to Rumble III, 13 of 20 opponents defeated, +100 XP]
+
+[Vorpal +1, Vorpal reaches level 5]
+
+[Poison +1, Poison reaches level 5]
+
+[Precision +1, Precision reaches level 6]
+
+[Dodge +1, Dodge reaches level 6]
+
+[Hulk +1, Hulk reaches level 5]
+
+[Quest - The Gauntlet 9 of 20 complete]
+
+Max collapsed to the ground beside the ruined mannequin. All his muscles felt like they were on fire and his joints ached. He really hated that skill.
+
+Thank god for no timer. This floor feels really nice. I’ll just recover a bit. Max thought. He slowed his breathing like he’d learned from Musashi and at the Wuxia Dojo. Using multiple skills in combat took a lot of energy. Even with the bonuses provided by unlocking his [Power Core] that fight had pushed him to his limits.
+
+Mal had already confirmed his guess that meditating helped recover energy faster. Max had combined the different techniques he had learned and refined them to maximize his recovery. Breathing, conscious tension release, and even utilizing [Multitask] to observe his biological brain thought patterns as they shifted into a meditative state. He almost dropped out of his meditation when the notification hit.
+
+[SkillZ Input contribution potential identified - Augmented Meditation. Train this skill for SkillZ trade?]
+
+A slight smile tugged at his mouth, as Max accepted and continued to meditate. He had planned to use meditation anyway, now he could get another skill for doing it. Using his [Multitask] alter, he pulled up his status screen.
+
+[Name: Max E. Mitchell Level: Adept 17 (11,650/12,000 XP)]
+
+[Body Design Model: Custom – Canis Familiarus Uplift Free Stats: 10]
+
+[Strength: 100 Agility: 74 Endurance: 100 Vitality: 100 Energy: 75/1360]
+
+[Perception: 52 Intelligence: 87 Will: 53 Regen: 306/min]
+
+[Body Skills - Claws/Vorpal:10/5 Strike/Disable: 10/4 Speed/Reflex: 10/8]
+
+[Body Skills - Stamina/Tireless: 10/8 Balance/Gymnast/Dodge: 10/10/6]
+
+[Body Skills - Leap: 10 Stun: 7 Shock: 4 EMP Blast: 3 Strobe: 3 Poison: 5]
+
+[Body Skills - Heal/Regenerate/Transform: 10/10/4 Oxygen/Recycle: 10/3]
+
+[Body Skills - Painless:10 Precision: 6 Ballistics: 4 Gland: 10]
+
+[Body Skills - Unbreakable: 10 Armor: 7 Skin: 10 Hulk: 5]
+
+[Body Skills - Stealth/Chameleon: 4/2]
+
+[Resist Skills - Neural Scaffold: 10 Poison: 10 Shock: 10 Sonic: 9 Light: 10]
+
+[Resist Skills - EMP: 10 Heat: 4 Cold: 3 ANDD: 1]
+
+[Sense Skills - DigiSense: 10 Scent: 10 ExaVision: 7 EM Fields: 7 EchoLoc: 2]
+
+[Mind Skills - AI Assist/Companion (Mal): 10/5 Identify/Analyze: 10/8]
+
+[Mind Skills - OverLayer/World Map: 10/5 Language: 3 Dream Learn: 9]
+
+[Mind Skills - Access/Hack/Intrude: 10/9/1 Privacy: 6 Bastion: 9]
+
+[Mind Skills - Pattern/Decode: 10/2 FastCog/PreCog: 10/3 Telekinesis: 3]
+
+[Mind Skills – Empath/Poker-Face: 10/1 Memory: 9 Multitask: 4 Pilot:1]
+
+[Mind Skills - Daemon: 4 (Musashi, Sherlock, Nikola Tesla, Captain Cypher)]
+
+[Mind Skills - SkillZ: 4.0 In: Swim, NanoCraft, Brachiate, Meditate .10*]
+
+[Mind Skills - SkillZ: Out: Katana, Kempo, Kunai: 0.05, pending]
+
+[Domain Skills – Swarm: 2 PowerCore: 3 Backup: 1]
+
+Max relaxed as his energy replenished for his next bout. He kept his [Multitask] alter ego busy managing his mote swarm. He’d lost a few when the dungeon had closed off Charlie’s challenge. He needed to hit the rest area’s matter compiler to build up his swarm. When he had advanced the skill, he should have unlocked one duplication to grow his stockpile.
+
+Max was getting to his feet with his energy stores almost full as his system pinged again. He looked at it and laughed weakly as he started walking to the next room.
+
+[Power Core +1, Power Core reaches level 4 - Energy regeneration rate boosted x4]
+
+Max coughed up blood. He faced his sixteenth Gauntlet challenge. He staggered around the perimeter of the ring. His mannequin opponent appeared as a fully armored samurai. Its katana and wakizashi blades were already coated in Max’s blood. He had deep wounds still bleeding from multiple clashes.
+
+“[This dungeon has a sense of thematic karma, perhaps influenced by your earlier use of the Grappler’s kunai weapon.]” Sherlock opined.
+
+Max was rapidly running out of new tricks to play. He continued to use his weaker skills and occasionally introduced a new one as the robots gained resistance. The growth in his skills and his levels with the new fights was astonishing.
+
+He had almost lost several fights, resorting to his hated [Hulk] skill, and once he managed to use [Hack] to keep his opponent outside the ring for a forfeit victory. The new mannequins were resistant to that trick now. Max dug deep into his reserves to keep going.
+
+Only four more to go. He thought as he threw both his kunai at the same time. The samurai deflected one with his katana, but the second struck lower, piercing its knee. Max grabbed the grappling cord and used his [Shock] skill. The line conducted his attack into the robot, knocking it down.
+
+Max leaped quickly and landed with his right knee on its neck with the full force of his weight. As the light left its eyes and notifications pinged, Max grabbed both of its dropped blades.
+
+“Thank you very much, Mister Samurai. This katana set should help me out nicely for finishing my last fights.” Max said with a grin and rolled off the broken dummy.
+
+[Quest Ready to Rumble III - 20 of 20 complete, +100 XP awarded]
+
+[Quest Gauntlet - 16 of 20 complete]
+
+Max tumbled over the giant samurai symbot’s glaive sweep and continued into a roll behind it. His kunai had previously pierced its Achilles tendon and his roll had encircled it. He yanked the cord tight, snapping its legs together.
+
+Max activated his [Leap] skill and used all his capped strength to charge the unbalanced robot. He crashed into it knocking them both out of the ring. As they tumbled, Max snapped the cord twice. It snaked about and another loop encircled the giant’s legs.
+
+[5…..4…. 3..]
+
+Max rolled back into the ring and kicked up into a fighting stance. The samurai bot struggled but couldn’t get free in time. It deactivated and Max howled in triumph.
+
+[Quest Gauntlet - 20 of 20 complete, +500 XP awarded, + Gauntlet exit key awarded, Gauntlet reward token awarded.]
+
+[Max E. Michell +1, Max reaches level Adept 19, +10 Free stat points awarded.]
+
+[+2 Agility, +2 Perception]
+
+[Shock +1, Shock reaches level 7]
+
+[Precision +1, Precision reaches level 8]
+
+[Ballistics +1, Ballistics reaches level 7]
+
+[WorldMap +1, WorldMap reaches level 5]
+
+Max saw the final opponent begin to fall apart. The smart matter performed a final act of breaking itself down. Max wondered if he could get his [Intrusion] skill high enough; could he force an opponent like this to self-destruct? None of the other combat dummies had dissolved.
+
+He inspected it and found a square card and a round chip in the debris of his opponent. He picked them up and saw each had a gauntlet symbol embossed on their faces. Max was about to tuck them into a pocket when he saw his smart suit was quite literally falling apart. Max’s stomach rumbled. He had been sparring for hours.
+
+[Recycling +1, Recycling reaches level 4: Food is no longer a necessity, internal energy regeneration can provide chemical energy for function. Note: Loss of organic materials from membrane punctures will result in degradation of overall efficiency.]
+
+“Nice. But I’m still going to get a triple helping from that rest area immediately.” Max commented out loud to himself. He accessed his smart suit to repair and reconfigure it, adding some hooks to secure his acquired swords better.
+
+The doors back to the rest area began opening one after another. Max started jogging and sped up into a run as he tucked away his prizes. He was HUNGRY.
