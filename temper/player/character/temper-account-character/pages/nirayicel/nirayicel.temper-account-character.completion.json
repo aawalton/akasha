@@ -3543,6 +3543,7 @@
       "50": [
         2,
         7,
+        11,
         13
       ],
       "51": [
@@ -3721,7 +3722,12 @@
         103
       ],
       "30": [
-        54
+        32,
+        33,
+        34,
+        54,
+        78,
+        79
       ]
     }
   },
@@ -7437,6 +7443,7 @@
     5902,
     5905,
     5914,
+    5919,
     5921,
     5922,
     5931,
@@ -14136,55 +14143,49 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792585892,
-      "buildHash": "ATQNLMUCgHZhxRNCyJtAEIBCyJtAEIBC5gtuULJC5gtuULJC5gtuULJC5gtuULJC5gtuULIQlKtuULJBHb1AEIAQQbtuULImJTHbcoWURBMdbcoWVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAVTUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYfBAZBxiQNY",
+      "capturedAt": 1792859192,
+      "buildHash": "ATQOLMUCgHZhxRNCyJtAEIBCyJtAEIBC5gtuULJC5gtuULJC5gtuULJC5gtuULJC5gtuULIQlKtuULJBHb1AEIAQQbtuULImJTHbcoWURBMdbcoWVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAVTUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYfBAZBxiQNYAAAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 500,
-      "health": 24546,
+      "health": 21809,
+      "healthBefore": 24546,
       "healthPaired": false,
       "stats": {
-        "stamina-recovery": 887,
-        "power-weapon": 4285,
-        "health-maximum": 24546,
-        "penetration-spell": 17886,
-        "critical-rating-spell": 6225,
-        "power-spell": 4285,
-        "resistance-physical": 11199,
-        "critical-rating-weapon": 6225,
-        "stamina-maximum": 25676,
-        "magicka-recovery": 524,
-        "health-recovery": 0,
-        "penetration-physical": 17886,
-        "resistance-spell": 11199,
         "magicka-maximum": 20187,
-        "resistance-critical": 1320
+        "stamina-maximum": 25676,
+        "resistance-physical": 11199,
+        "critical-rating-spell": 6225,
+        "health-recovery": 0,
+        "stamina-recovery": 887,
+        "critical-rating-weapon": 6225,
+        "power-spell": 4285,
+        "resistance-spell": 11199,
+        "penetration-spell": 17886,
+        "resistance-critical": 1320,
+        "magicka-recovery": 524,
+        "penetration-physical": 17886,
+        "power-weapon": 4285,
+        "health-maximum": 24546
       },
       "unbonusedStats": {
-        "stamina-recovery": 887,
-        "power-weapon": 1000,
-        "health-maximum": 24546,
-        "penetration-spell": 0,
-        "critical-rating-spell": 2181,
-        "power-spell": 1000,
-        "resistance-physical": 0,
-        "critical-rating-weapon": 2181,
-        "stamina-maximum": 25676,
-        "magicka-recovery": 524,
-        "health-recovery": 0,
-        "penetration-physical": 0,
-        "resistance-spell": 0,
         "magicka-maximum": 20187,
-        "resistance-critical": 0
+        "stamina-maximum": 25676,
+        "resistance-physical": 0,
+        "critical-rating-spell": 2181,
+        "health-recovery": 0,
+        "stamina-recovery": 887,
+        "critical-rating-weapon": 2181,
+        "power-spell": 1000,
+        "resistance-spell": 0,
+        "penetration-spell": 0,
+        "resistance-critical": 0,
+        "magicka-recovery": 524,
+        "penetration-physical": 0,
+        "power-weapon": 1000,
+        "health-maximum": 24546
       },
       "activeBuffs": [
-        {
-          "abilityId": 43752,
-          "name": "Soul Summons",
-          "description": "· Once per hour, you can resurrect without the need for a soul gem",
-          "effect": "",
-          "stacks": 0
-        },
         {
           "abilityId": 127531,
           "name": "Corrupting Bloody Mara",
@@ -14234,8 +14235,19 @@
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 4631,
-            "spell": 4631
+            "weapon": 4285,
+            "spell": 4285
+          }
+        },
+        {
+          "abilityId": 20309,
+          "name": "Sneak",
+          "description": "",
+          "effect": "You are concealed from enemy sight, as long as you remain undetected. While Sneaking, your next Direct Damage attack will Critically Strike and gain bonus effects depending on the attack type, as long the target isn't facing you.\n\n- Melee Attacks stun the first enemy hit for |cffffff2|r seconds and gain maximum Critical Damage against monsters.\n- Ranged Attacks gain |cffffff50|r% Critical Damage against monsters.\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4687,
+            "spell": 4687
           }
         }
       ],
@@ -14805,7 +14817,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:3245:0|h|h",
+          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:3145:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -14880,7 +14892,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:5230:0|h|h",
+          "link": "|H0:item:215597:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:5130:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 2084,
@@ -14920,7 +14932,7 @@
         },
         {
           "slot": 3,
-          "link": "|H0:item:128348:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:2345:0|h|h",
+          "link": "|H0:item:128348:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:1945:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -14955,7 +14967,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:210:0|h|h",
+          "link": "|H0:item:133787:364:50:26844:370:50:7:25:0:0:0:0:0:0:2049:4:0:1:0:206:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 0,
@@ -14980,7 +14992,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:4900:0|h|h",
+          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:4200:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 781,
@@ -15020,7 +15032,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:6850:0|h|h",
+          "link": "|H0:item:215601:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:6500:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -15060,7 +15072,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:6950:0|h|h",
+          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:6750:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -15200,7 +15212,7 @@
         },
         {
           "slot": 20,
-          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:281:0|h|h",
+          "link": "|H0:item:166196:364:50:54484:370:50:4:25:0:0:0:0:0:0:2049:14:0:1:0:280:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 0,
@@ -15351,116 +15363,531 @@
           "description": "What they don't know can kill them. Increase your Physical and Spell Penetration by |cffffff1240|r per Herald of the Tome ability slotted.\n\nCurrent bonus: |cffffff4960|r."
         }
       ],
+      "otherPassives": [
+        {
+          "abilityId": 45444,
+          "name": "Forceful",
+          "description": "Your Light and Heavy Attacks damage up to |cffffff3|r other nearby enemies for |cffffff100|r% of the damage inflicted to the primary target."
+        },
+        {
+          "abilityId": 45430,
+          "name": "Heavy Weapons",
+          "description": "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your Weapon and Spell Damage by |cffffff258|r.\n\nAxes increase your Critical Damage done by |cffffff12|r%.\n\nMaces increase your Offensive Penetration by |cffffff2974|r."
+        },
+        {
+          "abilityId": 45443,
+          "name": "Balanced Blade",
+          "description": "Reduces the Stamina cost of your Two-Handed abilities by |cffffff15|r%."
+        },
+        {
+          "abilityId": 45446,
+          "name": "Follow Up",
+          "description": "When you complete a fully-charged Heavy Attack, your damage done with Two Handed attacks increases by |cffffff10|r% for |cffffff4|r seconds."
+        },
+        {
+          "abilityId": 45448,
+          "name": "Battle Rush",
+          "description": "Increases your Stamina Recovery by |cffffff30|r% for |cffffff10|r seconds after killing a target."
+        },
+        {
+          "abilityId": 45500,
+          "name": "Tri Focus",
+          "description": "Fully-charged Inferno Staff Heavy Attacks deal an additional |cffffff14400|r Flame Damage over |cffffff20|r seconds.\n\nFully-charged Lightning Staff Heavy Attacks damage nearby enemies for |cffffff100|r% of the damage done.\n\nFully-charged Ice Staff Heavy Attacks grant you a damage shield that absorbs |cffffff8100|r damage. This effect scales off your Max Health.\n\nWhile an Ice Staff is equipped, blocking costs Magicka instead of Stamina."
+        },
+        {
+          "abilityId": 45509,
+          "name": "Penetrating Magic",
+          "description": "Your Destruction Staff abilities ignore |cffffff2974|r of the enemy's Spell Resistance."
+        },
+        {
+          "abilityId": 45512,
+          "name": "Elemental Force",
+          "description": "Increases your chance to apply status effects by |cffffff100|r%."
+        },
+        {
+          "abilityId": 45513,
+          "name": "Ancient Knowledge",
+          "description": "Inferno Staves increases your damage done with damage over time and Status Effects by |cffffff12|r%.\n\nLightning Staves increases your damage done with direct damage and channeled effects by |cffffff12|r%.\n\nEquipping an Ice Staff reduces the cost of blocking by |cffffff36|r% and increases the amount of damage you block by |cffffff20|r%."
+        },
+        {
+          "abilityId": 45514,
+          "name": "Destruction Expert",
+          "description": "When you kill an enemy with a Destruction Staff ability, you restore |cffffff3600|r Magicka.\n\nWhen you absorb damage using a Destruction Staff Damage Shield, you restore |cffffff1800|r Magicka. This effect can occur once every |cffffff10|r seconds."
+        },
+        {
+          "abilityId": 150185,
+          "name": "Light Armor Bonuses",
+          "description": "Each piece of Light Armor does the following:\n\nReduces damage taken from Magical attacks by |cffffff1|r%\n\nReduces the cost of Roll Dodge by |cffffff3|r%\n\nReduces the Movement Speed penalty of Sneak by |cffffff5|r%\n\nReduces the cost of Break Free by |cffffff5|r%\n\nReduces the cost of Bash by |cffffff3|r%"
+        },
+        {
+          "abilityId": 152778,
+          "name": "Light Armor Penalties",
+          "description": "Each piece of Light Armor does the following:\n\nIncreases damage taken from Martial attacks by |cffffff1|r%\n\nIncreases the cost of Block by |cffffff3|r%\n\nDecreases damage done with Bash by |cffffff1|r%"
+        },
+        {
+          "abilityId": 45549,
+          "name": "Grace",
+          "description": "Reduces the effectiveness of snares applied to you by |cffffff4|r% for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff0|r%.\n\nReduces the cost of Sprint by |cffffff3|r% for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff0|r%."
+        },
+        {
+          "abilityId": 45557,
+          "name": "Evocation",
+          "description": "Increases your Magicka Recovery by |cffffff4|r% for each piece of Light Armor equipped. \n\nCurrent bonus: |cffffff0|r%.\n\nReduces the Magicka cost of your abilities by |cffffff2|r% for each piece of Light Armor equipped.\n\nCurrent bonus: |cffffff0|r%."
+        },
+        {
+          "abilityId": 45559,
+          "name": "Spell Warding",
+          "description": "Increases your Spell Resistance by |cffffff726|r for each piece of Light Armor equipped. \n\nCurrent bonus: |cffffff0|r."
+        },
+        {
+          "abilityId": 45561,
+          "name": "Prodigy",
+          "description": "Increases your Weapon and Spell Critical rating by |cffffff219|r for each piece of Light Armor equipped.\n\nCurrent bonus: |cffffff0|r."
+        },
+        {
+          "abilityId": 45562,
+          "name": "Concentration",
+          "description": "Increases your Physical and Spell Penetration by |cffffff939|r for each piece of Light Armor worn.\n\nCurrent bonus: |cffffff0|r"
+        },
+        {
+          "abilityId": 150181,
+          "name": "Medium Armor Bonuses",
+          "description": "Each piece of Medium Armor does the following:\n\nReduces the cost of Sprint by |cffffff1|r%\n\nReduces the cost of Sneak by |cffffff5|r%\n\nReduces the cost of Block by |cffffff3|r%\n\nReduces damage taken from Area of Effect attacks by |cffffff2|r% for |cffffff2|r seconds after you use Roll Dodge\n\nIncreases Movement Speed by |cffffff2|r% while immune to crowd control"
+        },
+        {
+          "abilityId": 45564,
+          "name": "Dexterity",
+          "description": "Increases your Critical Damage and Healing done rating by |cffffff2|r% for every piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff14|r%."
+        },
+        {
+          "abilityId": 45565,
+          "name": "Wind Walker",
+          "description": "Increases your Stamina Recovery by |cffffff4|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff28|r%.\n\nReduces the Stamina cost of your abilities by |cffffff2|r% per piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff14|r%."
+        },
+        {
+          "abilityId": 45567,
+          "name": "Improved Sneak",
+          "description": "Reduces the cost of Sneak by |cffffff7|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff49|r%.\n\nReduces the size of your detection area while Sneaking by |cffffff5|r% for each piece of Medium Armor equipped. \n\nCurrent bonus: |cffffff35|r%."
+        },
+        {
+          "abilityId": 45572,
+          "name": "Agility",
+          "description": "Increases your Weapon and Spell Damage by |cffffff2|r% for each piece of Medium Armor worn.\n\nCurrent bonus: |cffffff14|r%."
+        },
+        {
+          "abilityId": 45574,
+          "name": "Athletics",
+          "description": "Increases the Movement Speed bonus of Sprint by |cffffff3|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff21|r%.\n\nReduces the cost of Roll Dodge by |cffffff4|r% for each piece of Medium Armor equipped.\n\nCurrent bonus: |cffffff28|r%."
+        },
+        {
+          "abilityId": 150184,
+          "name": "Heavy Armor Bonuses",
+          "description": "Each piece of Heavy Armor does the following:\n\nReduces damage taken from Martial attacks by |cffffff1|r%\n\nIncreases the amount of damage blocked by |cffffff1|r%\n\nIncreases damage done with Bash by |cffffff30|r\n\nReduces your damage taken while immune to crowd control by |cffffff1|r%"
+        },
+        {
+          "abilityId": 152780,
+          "name": "Heavy Armor Penalties",
+          "description": "Each piece of Heavy Armor does the following:\n\nIncreases damage taken from Magical attacks by |cffffff1|r%\n\nReduces the Movement Speed bonus of Sprint by |cffffff1|r%\n\nIncreases the cost of Roll Dodge by |cffffff3|r%\n\nIncreases the size of your detection area while Sneaking by |cffffff10|r%"
+        },
+        {
+          "abilityId": 45533,
+          "name": "Resolve",
+          "description": "Increases your Physical and Spell Resistance by |cffffff343|r for each piece of Heavy Armor equipped.\n\nCurrent bonus: |cffffff0|r."
+        },
+        {
+          "abilityId": 45526,
+          "name": "Constitution",
+          "description": "Increases your Health Recovery by |cffffff4|r% for each piece of Heavy Armor equipped. \n\nCurrent bonus: |cffffff0|r%.\n\nYou restore |cffffff108|r Magicka and Stamina when you take damage for each piece of Heavy Armor equipped. This effect can occur once every |cffffff4|r seconds. \n\nCurrent bonus: |cffffff0|r."
+        },
+        {
+          "abilityId": 45546,
+          "name": "Juggernaut",
+          "description": "Increases your Max Health by |cffffff2|r% for each piece of Heavy Armor equipped.  \n\nCurrent bonus: |cffffff0|r%."
+        },
+        {
+          "abilityId": 45528,
+          "name": "Revitalize",
+          "description": "Increases the Magicka or Stamina your Heavy Attacks restore by |cffffff4|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff0|r%"
+        },
+        {
+          "abilityId": 45529,
+          "name": "Rapid Mending",
+          "description": "Increases your healing received by |cffffff1|r% for each piece of Heavy Armor worn.\n\nCurrent bonus: |cffffff0|r%"
+        },
+        {
+          "abilityId": 139909,
+          "name": "Hand Brush",
+          "description": "Removes |cFFFFFF1|r layer of soil or rock from a |cFFFFFF1x1|r area.\n\nGenerates: |c19D3FF1 Intuition|r\nMaximum Intuition: |cFFFFFF4|r."
+        },
+        {
+          "abilityId": 139905,
+          "name": "Augur",
+          "description": "Indicates how near the Antiquity is to the selected location. \n\nCan only be used a limited number of times, based on the Antiquity's Difficulty.\n\nWorks on |cFFFFFFthe lowest six layers|r of dirt and rocks. Cannot detect Bonus Loot.\n\n|cFFFFFFUsing Augur does not consume a turn.|r"
+        },
+        {
+          "abilityId": 140093,
+          "name": "Trowel",
+          "description": "Removes |cFFFFFF3|r layers of dirt or rock from a |cFFFFFF1x1|r area.\n\nCosts |c19D3FF2 Intuition|r to use.\n|cFFFFFFCan safely trigger Fissures to create explosive chain reactions.|r"
+        },
+        {
+          "abilityId": 140174,
+          "name": "Keen Eye: Dig Sites",
+          "description": "Antiquity Dig Sites will be easier to see when you are |cffffff30|r meters or closer."
+        },
+        {
+          "abilityId": 139911,
+          "name": "Excavator's Reserves",
+          "description": "Further increases the amount of time you have available when excavating a dig site."
+        },
+        {
+          "abilityId": 139907,
+          "name": "Heavy Shovel",
+          "description": "Removes |cFFFFFF1|r layer of dirt and rocks from up to a |cFFFFFF3x3|r area.\n\nThe shovel only affects a single contiguous height of dirt and rocks.\n\nCosts |c19D3FF2 Intuition|r to use.\n|cFFFFFFHas a chance to consume no Intuition on use.|r"
+        },
+        {
+          "abilityId": 139772,
+          "name": "Keen Eye: Treasure Chests",
+          "description": "Treasure Chests will be easier to see when you are |cffffff30|r meters or closer."
+        },
+        {
+          "abilityId": 63802,
+          "name": "Improved Hiding",
+          "description": "Reduces the cost of Sneak by |cffffff40|r%."
+        },
+        {
+          "abilityId": 63806,
+          "name": "Light Fingers",
+          "description": "Increases your chances of successfully Pickpocketing by |cffffff50|r%"
+        },
+        {
+          "abilityId": 63810,
+          "name": "Trafficker",
+          "description": "Increases the number of fence interactions you can use each day by |cffffff180|r%."
+        },
+        {
+          "abilityId": 63814,
+          "name": "Locksmith",
+          "description": "Improves your chances of forcing locks by |cffffff70|r%."
+        },
+        {
+          "abilityId": 63818,
+          "name": "Kickback",
+          "description": "Reduces bounties you willingly pay to guards and fences by |cffffff40|r%."
+        },
+        {
+          "abilityId": 139942,
+          "name": "Scry",
+          "description": "Adds the selected contiguous group of facets to your area of control.\n\nConsumes 1 turn."
+        },
+        {
+          "abilityId": 141018,
+          "name": "Antiquarian Insight",
+          "description": "Allows you to scry for Antiquities of up to Ultimate difficulty."
+        },
+        {
+          "abilityId": 139779,
+          "name": "Scrier's Patience",
+          "description": "Grants you two additional turns of Scrying."
+        },
+        {
+          "abilityId": 139306,
+          "name": "Coalescence",
+          "description": "Unites a hexagonal cluster of facets in the Antiquarian's Eye, converting the symbols to match that of the central facet.\n\nNew Effect: The ability's range increases by one facet, creating a snowflake-like pattern.\n\nConsumes 1 Magicka Charge."
+        },
+        {
+          "abilityId": 139781,
+          "name": "Future Focus",
+          "description": "Grants you two additional Magicka Charges for use in Scrying."
+        },
+        {
+          "abilityId": 139308,
+          "name": "Dilation",
+          "description": "Claim all facets of the selected type that touch your area of control, as well as matching facets directly adjacent.\n\nNew Effect: Dilation now claims ALL contiguous facets of the same type.\n\nConsumes 1 Magicka Charge."
+        },
+        {
+          "abilityId": 139321,
+          "name": "Farsight",
+          "description": "Claim a line of facets, stretching out from your area of control.\n\nNew Effect: Range increased from 4 facets to 6.\n\nConsumes 1 Magicka Charge."
+        },
+        {
+          "abilityId": 139777,
+          "name": "Preemptive Power",
+          "description": "Start each Scrying attempt with an additional row of facets already claimed."
+        },
+        {
+          "abilityId": 45590,
+          "name": "Soul Summons",
+          "description": "Allows you to revive once every |cffffff1|r hour without spending a Soul Gem."
+        },
+        {
+          "abilityId": 45583,
+          "name": "Soul Shatter",
+          "description": "When your Health drops below |cffffff20|r% your soul explodes, dealing |cffffff2454|r Magic Damage to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every |cffffff2|r minutes and scales off your Max Health."
+        },
+        {
+          "abilityId": 45580,
+          "name": "Soul Lock",
+          "description": "Killing an enemy has a |cffffff10|r% chance of automatically filling an empty Soul Gem."
+        },
+        {
+          "abilityId": 42054,
+          "name": "Feed",
+          "description": "Allows you to feed on an unsuspecting target, killing them and increasing your Vampire Stage. Higher Stages make you a stronger Vampire at the cost of your humanity. Stages decrease over long periods of time. \n\nStage 1/2/3/4\n\nHealth Recovery: -10%/-30%/-60%/-100%\nFlame Damage Taken: +5%/+8%/+13%/+20%\nRegular Ability Costs: +3%/+5%/+8%/+12%\nVampire Ability Costs: -6%/-10%/-16%/-24%"
+        },
+        {
+          "abilityId": 46041,
+          "name": "Dark Stalker",
+          "description": "Ignore the Movement Speed penalty of Sneak.\n\nDecreases the time it takes to enter Sneak by |cffffff50|r%."
+        },
+        {
+          "abilityId": 46040,
+          "name": "Strike from the Shadows",
+          "description": "When you leave Sneak, invisibility, or Mist Form your Weapon and Spell Damage is increased by |cffffff300|r for |cffffff6|r seconds."
+        },
+        {
+          "abilityId": 33090,
+          "name": "Undeath",
+          "description": "Reduces your damage taken by up to |cffffff15|r% based on your missing Health.\n\nCurrent bonus: |cffffff3|r%"
+        },
+        {
+          "abilityId": 33091,
+          "name": "Blood Ritual",
+          "description": "Allows you to infect another player with Noxiphilic Sanguivoria once every |cffffffweek|r by returning to the Vampire ritual site. \n\nPlayers already infected with Lycanthropy cannot be infected with Noxiphilic Sanguivoria."
+        },
+        {
+          "abilityId": 135218,
+          "name": "Unnatural Movement",
+          "description": "Reduces the cost of Sprint by |cffffff50|r%.\n\nIf you continuously Sprint for |cffffff3|r seconds you automatically become invisible."
+        },
+        {
+          "abilityId": 78219,
+          "name": "Blade of Woe",
+          "description": "Call the weapon of the Dark Brotherhood to your hand and deliver a killing blow to an unsuspecting target. Experience from this target is reduced by 75%.\n\nThis ability does not work on players or difficult targets."
+        },
+        {
+          "abilityId": 79865,
+          "name": "Scales of Pitiless Justice",
+          "description": "Bounty and Heat resulting from a witnessed Murder or Assault is reduced by |cffffff50|r%."
+        },
+        {
+          "abilityId": 79868,
+          "name": "Padomaic Sprint",
+          "description": "Grants Major Expedition, increasing your Movement Speed by |cffffff30|r% for |cffffff12|r seconds after killing an enemy with Blade of Woe."
+        },
+        {
+          "abilityId": 77396,
+          "name": "Shadowy Supplier",
+          "description": "A contact from the Brotherhood provides beneficial items once per day. This contact is located in Outlaw Refuges, the Gold Coast Dark Brotherhood Sanctuary, and the Hew's Bane Thieves Den."
+        },
+        {
+          "abilityId": 77400,
+          "name": "Shadow Rider",
+          "description": "Aggression radius from hostile monsters is decreased by 50% while mounted."
+        },
+        {
+          "abilityId": 77401,
+          "name": "Spectral Assassin",
+          "description": "15% chance to shroud you when using the Blade of Woe, shielding you from being witnessed and receiving a Bounty."
+        },
+        {
+          "abilityId": 29062,
+          "name": "Intimidating Presence",
+          "description": "Allows you to Intimidate NPCs in conversation.\n\nReduces the Stamina cost of your Fighters Guild abilities by |cffffff15|r%."
+        },
+        {
+          "abilityId": 45596,
+          "name": "Slayer",
+          "description": "Increases your Weapon and Spell Damage by |cffffff3|r% for each Fighters Guild ability slotted.\n\nCurrent bonus: |cffffff0|r%."
+        },
+        {
+          "abilityId": 45599,
+          "name": "Banish the Wicked",
+          "description": "You generate |cffffff3|r Ultimate whenever you kill an enemy."
+        },
+        {
+          "abilityId": 40393,
+          "name": "Skilled Tracker",
+          "description": "Your Fighters Guild abilities deal an additional |cffffff10|r% damage. This bonus doubles against player Vampires and Werewolves."
+        },
+        {
+          "abilityId": 35804,
+          "name": "Bounty Hunter",
+          "description": "Allows you to accept bounty quests from the Fighters Guild in Cyrodiil."
+        },
+        {
+          "abilityId": 29061,
+          "name": "Persuasive Will",
+          "description": "Allows you to Persuade NPCs in conversation."
+        },
+        {
+          "abilityId": 45601,
+          "name": "Mage Adept",
+          "description": "Reduces the Magicka and Health cost of your Mages Guild abilities by |cffffff15|r%."
+        },
+        {
+          "abilityId": 45602,
+          "name": "Everlasting Magic",
+          "description": "Increases the duration of your Mages Guild abilities by |cffffff2|r seconds."
+        },
+        {
+          "abilityId": 45603,
+          "name": "Magicka Controller",
+          "description": "Increases your Max Magicka and Magicka Recovery by |cffffff2|r% for each Mages Guild ability slotted.\n\nCurrent bonus: |cffffff0|r%."
+        },
+        {
+          "abilityId": 45607,
+          "name": "Might of the Guild",
+          "description": "Casting a Mages Guild ability grants you Empower, increasing the damage of your Heavy Attacks against monsters by |cffffff150|r% for |cffffff10|r seconds."
+        },
+        {
+          "abilityId": 103793,
+          "name": "See the Unseen",
+          "description": "The insight you have gained from the Psijic Order grants you vision of the spiritual world. You can now interact with rifts all throughout Tamriel."
+        },
+        {
+          "abilityId": 103811,
+          "name": "Clairvoyance",
+          "description": "Reduces the cost of your Psijic Order abilities by |cffffff15|r%."
+        },
+        {
+          "abilityId": 103878,
+          "name": "Spell Orb",
+          "description": "When you cast a Psijic Order ability while you are in combat, you generate a spell charge for |cffffff10|r seconds. When you reach |cffffff5|r spell charges, you launch a spell orb at the closest enemy to you dealing |cffffff3602|r Magic Damage.\n\nThis effect scales off your highest offensive stats."
+        },
+        {
+          "abilityId": 103964,
+          "name": "Concentrated Barrier",
+          "description": "While you have a Psijic Order ability slotted and are Bracing, you gain a damage shield that absorbs |cffffff5000|r damage. \n\nThis damage shield recharges back to full strength after you spend |cffffff10|r seconds not Bracing."
+        },
+        {
+          "abilityId": 103972,
+          "name": "Deliberation",
+          "description": "While you are casting or channeling a Psijic Order ability you reduce your damage taken by |cffffff30|r%."
+        },
+        {
+          "abilityId": 74580,
+          "name": "Finders Keepers",
+          "description": "Thieves troves are caches that are located all over Tamriel. They can only be opened by members of the Thieves Guild."
+        },
+        {
+          "abilityId": 76457,
+          "name": "Swiftly Forgotten",
+          "description": "Bounty is decreased by |cffffff115|r after |cFFFFFF3|r minutes.\nHeat is decreased by |cffffff64|r after |cFFFFFF3|r seconds."
+        },
+        {
+          "abilityId": 76461,
+          "name": "Haggling",
+          "description": "Stolen items sold at a fence are worth |cffffff10|r% more. Does not apply to Laundering."
+        },
+        {
+          "abilityId": 76451,
+          "name": "Clemency",
+          "description": "When a guard accosts you, you may use Clemency once per day. If used, the Guard will not arrest you or take your money and stolen goods. Additionally, Guards will not attempt to accost you for  |cFFFFFF1|r minute after you use Clemency unless you commit other crimes."
+        },
+        {
+          "abilityId": 76452,
+          "name": "Timely Escape",
+          "description": "When you have Bounty and are in combat, you have a chance to spot a \"Footpad\" in a town with a Refuge. Interacting with the Footpad will transport the player safely into the nearest Refuge."
+        },
+        {
+          "abilityId": 76453,
+          "name": "Veil of Shadows",
+          "description": "Decreases detection range of Witnesses and Guards by |cffffff10|r%. Witnesses and Guards are thus less likely to notice criminal actions, though this has no impact on the range from which Guards will accost you."
+        },
+        {
+          "abilityId": 55676,
+          "name": "Undaunted Command",
+          "description": "Activating a synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: |cffffff1059|r Health, |cffffff1027|r Stamina, and |cffffff807|r Magicka."
+        },
+        {
+          "abilityId": 55386,
+          "name": "Undaunted Mettle",
+          "description": "Increases your Max Health, Stamina, and Magicka by |cffffff2|r% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: |cffffff2|r%."
+        },
+        {
+          "abilityId": 45614,
+          "name": "Continuous Attack",
+          "description": "Increases your Weapon and Spell Damage by |cffffff10|r% and Health, Magicka, and Stamina Recovery by |cffffff20|r% for |cffffff10|r minutes after you capture a Lumber Mill, Farm, Mine, or Keep.\n\nGain Gallop at all times, increasing your Mount Speed by |cffffff15|r%."
+        },
+        {
+          "abilityId": 45621,
+          "name": "Reach",
+          "description": "Increases the range of long-range abilities by |cffffff5|r meters while near a keep or outpost.\n\nAny ability with a range greater than |cffffff28|r meters is affected."
+        },
+        {
+          "abilityId": 45619,
+          "name": "Combat Frenzy",
+          "description": "You generate |cffffff20|r Ultimate when you kill an enemy player."
+        },
+        {
+          "abilityId": 45622,
+          "name": "Magicka Aid",
+          "description": "Increases your Magicka Recovery by |cffffff10|r% for each Support ability slotted.\n\nCurrent bonus: |cffffff0|r%."
+        },
+        {
+          "abilityId": 45624,
+          "name": "Combat Medic",
+          "description": "Increases your healing done by |cffffff20|r% when you are near a Keep."
+        },
+        {
+          "abilityId": 45625,
+          "name": "Battle Resurrection",
+          "description": "Reduces the time it takes you to resurrect another player by |cffffff30|r% while you are in a PvP area."
+        },
+        {
+          "abilityId": 36582,
+          "name": "Amphibian",
+          "description": "Increases your experience gain with the Restoration Staff skill line by |cffffff15|r%.\n\nIncreases your swimming speed by |cffffff50|r%."
+        },
+        {
+          "abilityId": 45258,
+          "name": "Life Mender",
+          "description": "Increases your healing done by |cffffff6|r%."
+        },
+        {
+          "abilityId": 45255,
+          "name": "Argonian Resistance",
+          "description": "Increases your Max Health by |cffffff1000|r and your Disease and Poison Resistance by |cffffff2310|r."
+        },
+        {
+          "abilityId": 45247,
+          "name": "Resourceful",
+          "description": "Increases your Max Magicka and Max Stamina by |cffffff1000|r.\n\nWhen you drink a potion, you restore |cffffff3125|r Health, Magicka, and Stamina."
+        }
+      ],
       "inArchive": false,
       "blocking": false,
       "moving": false,
       "archiveBoons": [],
       "advanced": {
-        "critical-damage": 0.24,
         "healing-done-base": 0.08,
-        "healing-taken-base": 0.02,
-        "healing-critical-bonus": 0.14
+        "healing-critical-bonus": 0.14,
+        "critical-damage": 0.24,
+        "healing-taken-base": 0.02
       },
       "advancedSheet": {
-        "block-cost": {
-          "category": "Core Abilities",
-          "label": "Block Cost",
-          "format": "flat",
-          "flat": 1351
+        "physical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Physical Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
         },
-        "sprint-speed": {
-          "category": "Core Abilities",
-          "label": "Sprint Speed",
+        "subscriber-alliance-points-bonus": {
+          "category": "ESO Plus",
+          "label": "Alliance Points",
           "format": "percent",
-          "percent": 165
+          "percent": 10
         },
-        "critical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Critical Damage",
+        "block-mitigation": {
+          "category": "Core Abilities",
+          "label": "Block Mitigation",
           "format": "percent",
-          "percent": 24
-        },
-        "fire-damage": {
-          "category": "Damage Bonuses",
-          "label": "Flame Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "bash-damage": {
-          "category": "Core Abilities",
-          "label": "Bash Damage",
-          "format": "flat",
-          "flat": 371
-        },
-        "shock-damage": {
-          "category": "Damage Bonuses",
-          "label": "Shock Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "oblivion-damage": {
-          "category": "Damage Bonuses",
-          "label": "Oblivion Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "healing-done-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Done",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 8
-        },
-        "sprint-cost": {
-          "category": "Core Abilities",
-          "label": "Sprint Cost",
-          "format": "flat",
-          "flat": 198
-        },
-        "cc-break-cost": {
-          "category": "Core Abilities",
-          "label": "Break Free Cost",
-          "format": "flat",
-          "flat": 5180
-        },
-        "bleed-resist": {
-          "category": "Resistances",
-          "label": "Bleed Resistance",
-          "format": "flat-or-percent",
-          "flat": 11199,
-          "percent": 16.9681816101
+          "percent": 52
         },
         "fire-resist": {
           "category": "Resistances",
           "label": "Flame Resistance",
-          "format": "flat-or-percent",
-          "flat": 11199,
-          "percent": 16.9681816101
-        },
-        "dodge-cost": {
-          "category": "Core Abilities",
-          "label": "Dodge Roll Cost",
-          "format": "flat",
-          "flat": 2668
-        },
-        "subscriber-inspiration-bonus": {
-          "category": "ESO Plus",
-          "label": "Crafting Inspiration",
-          "format": "percent",
-          "percent": 10
-        },
-        "subscriber-telvar-bonus": {
-          "category": "ESO Plus",
-          "label": "Tel Var",
-          "format": "percent",
-          "percent": 10
-        },
-        "shock-resist": {
-          "category": "Resistances",
-          "label": "Shock Resistance",
           "format": "flat-or-percent",
           "flat": 11199,
           "percent": 16.9681816101
@@ -15472,18 +15899,51 @@
           "flat": 0,
           "percent": 0
         },
-        "poison-damage": {
+        "cold-damage": {
           "category": "Damage Bonuses",
-          "label": "Poison Damage",
+          "label": "Frost Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "block-speed": {
-          "category": "Core Abilities",
-          "label": "Block Move Speed",
+        "subscriber-inspiration-bonus": {
+          "category": "ESO Plus",
+          "label": "Crafting Inspiration",
           "format": "percent",
-          "percent": 42
+          "percent": 10
+        },
+        "dodge-cost": {
+          "category": "Core Abilities",
+          "label": "Dodge Roll Cost",
+          "format": "flat",
+          "flat": 2668
+        },
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "frost-resist": {
+          "category": "Resistances",
+          "label": "Frost Resistance",
+          "format": "flat-or-percent",
+          "flat": 11199,
+          "percent": 16.9681816101
+        },
+        "poison-resist": {
+          "category": "Resistances",
+          "label": "Poison Resistance",
+          "format": "flat-or-percent",
+          "flat": 13509,
+          "percent": 20.4681816101
+        },
+        "sprint-speed": {
+          "category": "Core Abilities",
+          "label": "Sprint Speed",
+          "format": "percent",
+          "percent": 165
         },
         "magic-damage": {
           "category": "Damage Bonuses",
@@ -15498,43 +15958,49 @@
           "format": "flat",
           "flat": 26
         },
-        "block-mitigation": {
-          "category": "Core Abilities",
-          "label": "Block Mitigation",
-          "format": "percent",
-          "percent": 52
-        },
-        "disease-damage": {
+        "poison-damage": {
           "category": "Damage Bonuses",
-          "label": "Disease Damage",
+          "label": "Poison Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "critical-healing": {
-          "category": "Healing Bonuses",
-          "label": "Critical Healing",
+        "subscriber-telvar-bonus": {
+          "category": "ESO Plus",
+          "label": "Tel Var",
           "format": "percent",
-          "percent": 14
+          "percent": 10
+        },
+        "shock-damage": {
+          "category": "Damage Bonuses",
+          "label": "Shock Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "sprint-cost": {
+          "category": "Core Abilities",
+          "label": "Sprint Cost",
+          "format": "flat",
+          "flat": 198
+        },
+        "critical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Critical Damage",
+          "format": "percent",
+          "percent": 24
+        },
+        "cc-break-cost": {
+          "category": "Core Abilities",
+          "label": "Break Free Cost",
+          "format": "flat",
+          "flat": 5180
         },
         "subscriber-all-xp": {
           "category": "ESO Plus",
           "label": "Experience",
           "format": "percent",
           "percent": 10
-        },
-        "sneak-speed-reduction": {
-          "category": "Core Abilities",
-          "label": "Sneak Speed",
-          "format": "percent",
-          "percent": 100
-        },
-        "cold-damage": {
-          "category": "Damage Bonuses",
-          "label": "Frost Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
         },
         "healing-taken-bonuses": {
           "category": "Healing Bonuses",
@@ -15543,9 +16009,87 @@
           "flat": 0,
           "percent": 2
         },
-        "frost-resist": {
+        "magic-resist": {
           "category": "Resistances",
-          "label": "Frost Resistance",
+          "label": "Magic Resistance",
+          "format": "flat-or-percent",
+          "flat": 11199,
+          "percent": 16.9681816101
+        },
+        "critical-healing": {
+          "category": "Healing Bonuses",
+          "label": "Critical Healing",
+          "format": "percent",
+          "percent": 14
+        },
+        "fire-damage": {
+          "category": "Damage Bonuses",
+          "label": "Flame Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 8
+        },
+        "subscriber-coin-bonus": {
+          "category": "ESO Plus",
+          "label": "Gold",
+          "format": "percent",
+          "percent": 10
+        },
+        "disease-resist": {
+          "category": "Resistances",
+          "label": "Disease Resistance",
+          "format": "flat-or-percent",
+          "flat": 13509,
+          "percent": 20.4681816101
+        },
+        "shock-resist": {
+          "category": "Resistances",
+          "label": "Shock Resistance",
+          "format": "flat-or-percent",
+          "flat": 11199,
+          "percent": 16.9681816101
+        },
+        "bash-damage": {
+          "category": "Core Abilities",
+          "label": "Bash Damage",
+          "format": "flat",
+          "flat": 371
+        },
+        "sneak-speed-reduction": {
+          "category": "Core Abilities",
+          "label": "Sneak Speed",
+          "format": "percent",
+          "percent": 100
+        },
+        "block-cost": {
+          "category": "Core Abilities",
+          "label": "Block Cost",
+          "format": "flat",
+          "flat": 1351
+        },
+        "disease-damage": {
+          "category": "Damage Bonuses",
+          "label": "Disease Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "block-speed": {
+          "category": "Core Abilities",
+          "label": "Block Move Speed",
+          "format": "percent",
+          "percent": 42
+        },
+        "bleed-resist": {
+          "category": "Resistances",
+          "label": "Bleed Resistance",
           "format": "flat-or-percent",
           "flat": 11199,
           "percent": 16.9681816101
@@ -15555,58 +16099,18 @@
           "label": "Bash Cost",
           "format": "flat",
           "flat": 675
-        },
-        "magic-resist": {
-          "category": "Resistances",
-          "label": "Magic Resistance",
-          "format": "flat-or-percent",
-          "flat": 11199,
-          "percent": 16.9681816101
-        },
-        "physical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Physical Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "poison-resist": {
-          "category": "Resistances",
-          "label": "Poison Resistance",
-          "format": "flat-or-percent",
-          "flat": 13509,
-          "percent": 20.4681816101
-        },
-        "disease-resist": {
-          "category": "Resistances",
-          "label": "Disease Resistance",
-          "format": "flat-or-percent",
-          "flat": 13509,
-          "percent": 20.4681816101
-        },
-        "subscriber-coin-bonus": {
-          "category": "ESO Plus",
-          "label": "Gold",
-          "format": "percent",
-          "percent": 10
-        },
-        "subscriber-alliance-points-bonus": {
-          "category": "ESO Plus",
-          "label": "Alliance Points",
-          "format": "percent",
-          "percent": 10
         }
       },
       "sheet": {
-        "critical-chance-weapon": 28.4090900421,
-        "attribute-points-unspent": 0,
-        "attribute-points-stamina": 59,
-        "riding-speed": 60,
-        "attribute-points-magicka": 5,
         "riding-stamina": 60,
-        "attribute-points-health": 0,
+        "riding-speed": 60,
+        "attribute-points-unspent": 0,
+        "critical-chance-weapon": 28.4090900421,
+        "attribute-points-magicka": 5,
+        "attribute-points-stamina": 59,
         "critical-chance-spell": 28.4090900421,
-        "riding-capacity": 60
+        "riding-capacity": 60,
+        "attribute-points-health": 0
       },
       "passiveRankIds": [
         [
@@ -17921,46 +18425,47 @@
       ]
     },
     "backBar": {
-      "capturedAt": 1792857257,
+      "capturedAt": 1792858343,
       "buildHash": "ATQOLMUCgHZhxRNCyJtAEIBCyJtAEIBC5gtuULJC5gtuULJC5gtuULJC5gtuULJC5gtuULIQlKtuULJBHb1AEIAQQbtuULImJTHbcoWURBMdbcoWVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAVTUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYfBAZBxiQNYAAAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 500,
-      "health": 21830,
+      "health": 16303,
+      "healthBefore": 19051,
       "healthPaired": false,
       "stats": {
-        "stamina-recovery": 887,
-        "power-weapon": 4631,
-        "health-maximum": 24546,
-        "penetration-physical": 10346,
-        "critical-rating-spell": 7101,
-        "power-spell": 4631,
+        "magicka-maximum": 20187,
+        "stamina-maximum": 25676,
         "resistance-physical": 11199,
+        "critical-rating-spell": 7101,
+        "health-recovery": 0,
+        "stamina-recovery": 887,
         "critical-rating-weapon": 7101,
+        "power-spell": 4631,
+        "resistance-spell": 11199,
+        "penetration-spell": 10346,
         "resistance-critical": 1320,
         "magicka-recovery": 524,
-        "stamina-maximum": 25676,
-        "penetration-spell": 10346,
-        "resistance-spell": 11199,
-        "magicka-maximum": 20187,
-        "health-recovery": 0
+        "penetration-physical": 10346,
+        "power-weapon": 4631,
+        "health-maximum": 24546
       },
       "unbonusedStats": {
-        "stamina-recovery": 887,
-        "power-weapon": 1000,
-        "health-maximum": 24546,
-        "penetration-physical": 0,
-        "critical-rating-spell": 2181,
-        "power-spell": 1000,
+        "magicka-maximum": 20187,
+        "stamina-maximum": 25676,
         "resistance-physical": 0,
+        "critical-rating-spell": 2181,
+        "health-recovery": 0,
+        "stamina-recovery": 887,
         "critical-rating-weapon": 2181,
+        "power-spell": 1000,
+        "resistance-spell": 0,
+        "penetration-spell": 0,
         "resistance-critical": 0,
         "magicka-recovery": 524,
-        "stamina-maximum": 25676,
-        "penetration-spell": 0,
-        "resistance-spell": 0,
-        "magicka-maximum": 20187,
-        "health-recovery": 0
+        "penetration-physical": 0,
+        "power-weapon": 1000,
+        "health-maximum": 24546
       },
       "activeBuffs": [
         {
@@ -17992,10 +18497,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
+          "abilityId": 61667,
+          "name": "Major Savagery",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
           "stacks": 0
         },
         {
@@ -18006,10 +18511,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61667,
-          "name": "Major Savagery",
+          "abilityId": 61665,
+          "name": "Major Brutality",
           "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
         },
         {
@@ -18024,12 +18529,7 @@
           }
         }
       ],
-      "pets": [
-        {
-          "name": "Nuzhimeh",
-          "dead": false
-        }
-      ],
+      "pets": [],
       "championPoints": [
         {
           "championSkillId": 68,
@@ -19425,7 +19925,7 @@
         {
           "abilityId": 33090,
           "name": "Undeath",
-          "description": "Reduces your damage taken by up to |cffffff15|r% based on your missing Health.\n\nCurrent bonus: |cffffff3|r%"
+          "description": "Reduces your damage taken by up to |cffffff15|r% based on your missing Health.\n\nCurrent bonus: |cffffff6|r%"
         },
         {
           "abilityId": 33091,
@@ -19635,114 +20135,37 @@
       ],
       "inArchive": false,
       "blocking": false,
-      "moving": false,
+      "moving": true,
       "archiveBoons": [],
       "advanced": {
-        "critical-damage": 0.24,
         "healing-done-base": 0.08,
-        "healing-taken-base": 0.02,
-        "healing-critical-bonus": 0.14
+        "healing-critical-bonus": 0.14,
+        "critical-damage": 0.24,
+        "healing-taken-base": 0.02
       },
       "advancedSheet": {
-        "block-cost": {
-          "category": "Core Abilities",
-          "label": "Block Cost",
-          "format": "flat",
-          "flat": 1351
+        "physical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Physical Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
         },
-        "sprint-speed": {
-          "category": "Core Abilities",
-          "label": "Sprint Speed",
+        "subscriber-alliance-points-bonus": {
+          "category": "ESO Plus",
+          "label": "Alliance Points",
           "format": "percent",
-          "percent": 165
+          "percent": 10
         },
-        "critical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Critical Damage",
+        "block-mitigation": {
+          "category": "Core Abilities",
+          "label": "Block Mitigation",
           "format": "percent",
-          "percent": 24
-        },
-        "fire-damage": {
-          "category": "Damage Bonuses",
-          "label": "Flame Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "bash-damage": {
-          "category": "Core Abilities",
-          "label": "Bash Damage",
-          "format": "flat",
-          "flat": 371
-        },
-        "shock-damage": {
-          "category": "Damage Bonuses",
-          "label": "Shock Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "oblivion-damage": {
-          "category": "Damage Bonuses",
-          "label": "Oblivion Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "healing-done-bonuses": {
-          "category": "Healing Bonuses",
-          "label": "Healing Done",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 8
-        },
-        "sprint-cost": {
-          "category": "Core Abilities",
-          "label": "Sprint Cost",
-          "format": "flat",
-          "flat": 198
-        },
-        "cc-break-cost": {
-          "category": "Core Abilities",
-          "label": "Break Free Cost",
-          "format": "flat",
-          "flat": 5180
-        },
-        "bleed-resist": {
-          "category": "Resistances",
-          "label": "Bleed Resistance",
-          "format": "flat-or-percent",
-          "flat": 11199,
-          "percent": 16.9681816101
+          "percent": 52
         },
         "fire-resist": {
           "category": "Resistances",
           "label": "Flame Resistance",
-          "format": "flat-or-percent",
-          "flat": 11199,
-          "percent": 16.9681816101
-        },
-        "dodge-cost": {
-          "category": "Core Abilities",
-          "label": "Dodge Roll Cost",
-          "format": "flat",
-          "flat": 2668
-        },
-        "subscriber-inspiration-bonus": {
-          "category": "ESO Plus",
-          "label": "Crafting Inspiration",
-          "format": "percent",
-          "percent": 10
-        },
-        "subscriber-telvar-bonus": {
-          "category": "ESO Plus",
-          "label": "Tel Var",
-          "format": "percent",
-          "percent": 10
-        },
-        "shock-resist": {
-          "category": "Resistances",
-          "label": "Shock Resistance",
           "format": "flat-or-percent",
           "flat": 11199,
           "percent": 16.9681816101
@@ -19754,18 +20177,51 @@
           "flat": 0,
           "percent": 0
         },
-        "poison-damage": {
+        "cold-damage": {
           "category": "Damage Bonuses",
-          "label": "Poison Damage",
+          "label": "Frost Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "block-speed": {
-          "category": "Core Abilities",
-          "label": "Block Move Speed",
+        "subscriber-inspiration-bonus": {
+          "category": "ESO Plus",
+          "label": "Crafting Inspiration",
           "format": "percent",
-          "percent": 42
+          "percent": 10
+        },
+        "dodge-cost": {
+          "category": "Core Abilities",
+          "label": "Dodge Roll Cost",
+          "format": "flat",
+          "flat": 2668
+        },
+        "oblivion-damage": {
+          "category": "Damage Bonuses",
+          "label": "Oblivion Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "frost-resist": {
+          "category": "Resistances",
+          "label": "Frost Resistance",
+          "format": "flat-or-percent",
+          "flat": 11199,
+          "percent": 16.9681816101
+        },
+        "poison-resist": {
+          "category": "Resistances",
+          "label": "Poison Resistance",
+          "format": "flat-or-percent",
+          "flat": 13509,
+          "percent": 20.4681816101
+        },
+        "sprint-speed": {
+          "category": "Core Abilities",
+          "label": "Sprint Speed",
+          "format": "percent",
+          "percent": 165
         },
         "magic-damage": {
           "category": "Damage Bonuses",
@@ -19780,24 +20236,43 @@
           "format": "flat",
           "flat": 26
         },
-        "block-mitigation": {
-          "category": "Core Abilities",
-          "label": "Block Mitigation",
-          "format": "percent",
-          "percent": 52
-        },
-        "critical-healing": {
-          "category": "Healing Bonuses",
-          "label": "Critical Healing",
-          "format": "percent",
-          "percent": 14
-        },
-        "disease-damage": {
+        "poison-damage": {
           "category": "Damage Bonuses",
-          "label": "Disease Damage",
+          "label": "Poison Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
+        },
+        "subscriber-telvar-bonus": {
+          "category": "ESO Plus",
+          "label": "Tel Var",
+          "format": "percent",
+          "percent": 10
+        },
+        "shock-damage": {
+          "category": "Damage Bonuses",
+          "label": "Shock Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "sprint-cost": {
+          "category": "Core Abilities",
+          "label": "Sprint Cost",
+          "format": "flat",
+          "flat": 100
+        },
+        "critical-damage": {
+          "category": "Damage Bonuses",
+          "label": "Critical Damage",
+          "format": "percent",
+          "percent": 24
+        },
+        "cc-break-cost": {
+          "category": "Core Abilities",
+          "label": "Break Free Cost",
+          "format": "flat",
+          "flat": 5180
         },
         "subscriber-all-xp": {
           "category": "ESO Plus",
@@ -19812,19 +20287,38 @@
           "flat": 0,
           "percent": 2
         },
-        "cold-damage": {
+        "magic-resist": {
+          "category": "Resistances",
+          "label": "Magic Resistance",
+          "format": "flat-or-percent",
+          "flat": 11199,
+          "percent": 16.9681816101
+        },
+        "critical-healing": {
+          "category": "Healing Bonuses",
+          "label": "Critical Healing",
+          "format": "percent",
+          "percent": 14
+        },
+        "fire-damage": {
           "category": "Damage Bonuses",
-          "label": "Frost Damage",
+          "label": "Flame Damage",
           "format": "flat-and-percent",
           "flat": 0,
           "percent": 0
         },
-        "frost-resist": {
-          "category": "Resistances",
-          "label": "Frost Resistance",
-          "format": "flat-or-percent",
-          "flat": 11199,
-          "percent": 16.9681816101
+        "healing-done-bonuses": {
+          "category": "Healing Bonuses",
+          "label": "Healing Done",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 8
+        },
+        "subscriber-coin-bonus": {
+          "category": "ESO Plus",
+          "label": "Gold",
+          "format": "percent",
+          "percent": 10
         },
         "disease-resist": {
           "category": "Resistances",
@@ -19833,32 +20327,18 @@
           "flat": 13509,
           "percent": 20.4681816101
         },
-        "bash-cost": {
-          "category": "Core Abilities",
-          "label": "Bash Cost",
-          "format": "flat",
-          "flat": 675
-        },
-        "magic-resist": {
+        "shock-resist": {
           "category": "Resistances",
-          "label": "Magic Resistance",
+          "label": "Shock Resistance",
           "format": "flat-or-percent",
           "flat": 11199,
           "percent": 16.9681816101
         },
-        "physical-damage": {
-          "category": "Damage Bonuses",
-          "label": "Physical Damage",
-          "format": "flat-and-percent",
-          "flat": 0,
-          "percent": 0
-        },
-        "poison-resist": {
-          "category": "Resistances",
-          "label": "Poison Resistance",
-          "format": "flat-or-percent",
-          "flat": 13509,
-          "percent": 20.4681816101
+        "bash-damage": {
+          "category": "Core Abilities",
+          "label": "Bash Damage",
+          "format": "flat",
+          "flat": 371
         },
         "sneak-speed-reduction": {
           "category": "Core Abilities",
@@ -19866,29 +20346,49 @@
           "format": "percent",
           "percent": 100
         },
-        "subscriber-coin-bonus": {
-          "category": "ESO Plus",
-          "label": "Gold",
-          "format": "percent",
-          "percent": 10
+        "block-cost": {
+          "category": "Core Abilities",
+          "label": "Block Cost",
+          "format": "flat",
+          "flat": 1351
         },
-        "subscriber-alliance-points-bonus": {
-          "category": "ESO Plus",
-          "label": "Alliance Points",
+        "disease-damage": {
+          "category": "Damage Bonuses",
+          "label": "Disease Damage",
+          "format": "flat-and-percent",
+          "flat": 0,
+          "percent": 0
+        },
+        "block-speed": {
+          "category": "Core Abilities",
+          "label": "Block Move Speed",
           "format": "percent",
-          "percent": 10
+          "percent": 42
+        },
+        "bleed-resist": {
+          "category": "Resistances",
+          "label": "Bleed Resistance",
+          "format": "flat-or-percent",
+          "flat": 11199,
+          "percent": 16.9681816101
+        },
+        "bash-cost": {
+          "category": "Core Abilities",
+          "label": "Bash Cost",
+          "format": "flat",
+          "flat": 675
         }
       },
       "sheet": {
-        "critical-chance-weapon": 32.4068984985,
-        "attribute-points-unspent": 0,
-        "attribute-points-stamina": 59,
         "riding-stamina": 60,
-        "attribute-points-magicka": 5,
         "riding-speed": 60,
-        "attribute-points-health": 0,
+        "attribute-points-unspent": 0,
+        "critical-chance-weapon": 32.4068984985,
+        "attribute-points-magicka": 5,
+        "attribute-points-stamina": 59,
         "critical-chance-spell": 32.4068984985,
-        "riding-capacity": 60
+        "riding-capacity": 60,
+        "attribute-points-health": 0
       },
       "passiveRankIds": [
         [
