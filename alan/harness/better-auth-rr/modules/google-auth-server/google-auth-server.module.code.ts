@@ -109,6 +109,11 @@ function makeAuthServer() {
         subjectHash: { type: "string", required: false, input: true },
       },
     },
+    session: {
+      additionalFields: {
+        look: { type: "boolean", required: false, input: false, defaultValue: false },
+      },
+    },
     plugins: [appHandoverPlugin()],
   })
 }

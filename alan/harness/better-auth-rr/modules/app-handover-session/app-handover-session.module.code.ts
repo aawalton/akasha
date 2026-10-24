@@ -1,6 +1,6 @@
 import { CONTRIBUTOR } from "akasha/alan/harness/better-auth-rr/modules/sign-in-naming/sign-in-naming.module.code.ts"
 import { APP_AUDIENCE } from "akasha/alan/harness/handover-rr/modules/handover-app/handover-app.module.code.ts"
-import { contributorInCode } from "akasha/alan/harness/handover-rr/modules/handover-code/handover-code.module.code.ts"
+import { handedInCode } from "akasha/alan/harness/handover-rr/modules/handover-code/handover-code.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import type { BetterAuthPlugin, User } from "better-auth"
 import { createAuthEndpoint } from "better-auth/api"
@@ -16,6 +16,10 @@ const CONTRIBUTOR_FIELD = "contributor"
 const CONTRIBUTOR_KEYS: readonly string[] = ["slug"]
 
 const NO_MAIL_REACHES = "handover.invalid"
+
+const LOOK_SECONDS = 15 * 60
+
+const SECOND_MS = 1000
 
 export const appHandoverBody = z
   .object({ code: z.string().min(1), verifier: z.string().min(1) })
@@ -53,12 +57,13 @@ export function appHandoverPlugin() {
       appHandoverExchange: createAuthEndpoint.serverOnly(
         { method: "POST", body: appHandoverBody },
         async (ctx): Promise<AppHandoverTrade> => {
-          const contributor = await contributorInCode({
+          const handed = await handedInCode({
             code: ctx.body.code,
             audience: APP_AUDIENCE,
             verifier: ctx.body.verifier,
           })
-          if (contributor === null) return NOBODY
+          if (handed === null) return NOBODY
+          const contributor = handed.contributor
           const held = await ctx.context.adapter.findOne<User>({
             model: USER_MODEL,
             where: [{ field: CONTRIBUTOR_FIELD, value: contributor }],
@@ -75,8 +80,18 @@ export function appHandoverPlugin() {
               },
               { method: APP_HANDOVER_PLUGIN }
             ))
-          const session = await ctx.context.internalAdapter.createSession(user.id)
-          await setSessionCookie(ctx, { session, user })
+          if (!handed.look) {
+            const session = await ctx.context.internalAdapter.createSession(user.id)
+            await setSessionCookie(ctx, { session, user })
+            return { contributor }
+          }
+          const session = await ctx.context.internalAdapter.createSession(
+            user.id,
+            true,
+            { look: true, expiresAt: new Date(Date.now() + LOOK_SECONDS * SECOND_MS) },
+            true
+          )
+          await setSessionCookie(ctx, { session, user }, true)
           return { contributor }
         }
       ),

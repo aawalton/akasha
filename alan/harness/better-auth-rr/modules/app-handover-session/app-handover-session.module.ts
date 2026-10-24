@@ -55,7 +55,20 @@ export const appHandoverSession = {
       decisionKind: "decision-kind/departure",
       statement: "A refused trade is a contributor of nobody rather than a thrown error.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A code saying its browser only looks is traded for a session marked to look only.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session marked to look only ends fifteen minutes after it is made.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session marked to look only is held by a cookie that ends with the browser.",
+    },
   ],
   createdAt: "2026-09-20T01:45:15.863Z",
-  updatedAt: "2026-09-22T13:46:30.000Z",
+  updatedAt: "2026-10-24T21:46:01.700Z",
 } as const satisfies Module

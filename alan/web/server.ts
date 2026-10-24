@@ -2,7 +2,10 @@ import {
   legClosed,
   legSaid,
 } from "akasha/alan/couples-therapy/couples-call/modules/room/couples-call-room.module.code.ts"
-import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
+import {
+  lookingRefused,
+  signedInAs,
+} from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { servedRouterApp } from "akasha/alan/harness/modules/router-app-serving/router-app-serving.module.code.ts"
 
 await servedRouterApp({
@@ -24,6 +27,6 @@ await servedRouterApp({
     if (new URL(request.url).hostname === "idle.alanwalton.com") {
       return Response.redirect("https://alanwalton.com/", 301)
     }
-    return served()
+    return (await lookingRefused(request)) ?? served()
   },
 })
