@@ -1,0 +1,29 @@
+"UHHHHHhhhhhhhh. Yeah. So I don't think Susan has a website. I'm pretty sure she doesn't even have a name for the gym... Honestly, I didn't even think about it." Markus responded.
+
+Sevs was taken aback. Who started a business without even coming up with a name? It would be even more short-sighted to do so for a business that relied on customers to come to you. It wasn't like Susan would have sales reps going around and advocating for her establishment. Also, as they were in a large city, this would not be the only gym nearby. It wouldn't even be the only gym of its type. He was not sure, but there were probably dozens of various MMA gyms that had a lot of overlap in services. Right now, Susan relies only on word of mouth to bring people in. That might work, but it definitely was not optimal.
+
+With the critical piece of information filled in, Sevs realized that this quest might be a bit harder than he first thought. There would be no low-hanging fruit. He would probably have to do more things from scratch. Maybe the System would take pity on him, and once he got it started, others would be there to help. Sevs didn't have much hope for that.
+
+Markus and Sevs continued to do their usual work, but in the back of his mind, Sevs began to plan. Before he made any significant moves, he would probably need to talk with Susan about the naming thing. However, that wasn't going to be enough. Sevs needed a way to make her take him seriously. Markus and Father might know better now. However, most people don't take pre-K kids seriously. He might get her to name the company, but getting her to work with him on anything else would be difficult. Going for several sessions might make it so that eventually, she got to know him better, but that was no guarantee.
+
+No Sevs would have to bring proof of his capabilities when he approached her. In his mind, the best way to do that was to make the frameworks of a website already as a demo, and then they would talk. Sevs had distressingly little experience with web development, but for this, he didn't need to be an expert. First, he would need some computer time and internet use. Honestly, he wasn't sure what Father's policy was on it now. Mother had been strict. However, Sevs was reasonably certain that he had enough of Father's trust to get some time.
+
+Sevs started planning. He would get some basic bootstrap templates; a single-page site should be enough. There would be a few sections that users could scroll through. Maybe a few pictures, the location, a schedule, and a contact info section. If this worked, he could add things like a signup for an email list or a way to pay online. It might be a good idea to add prices too...
+
+Markus broke into Sevs thoughts. "Hey, it's your turn to drive."
+
+Markus shoved the keyboard over to Sevs and leaned back in his chair. Sevs had to snap back out of his thoughts. He scanned the code to pick up where they were. They had just finished the investigation. Unfortunately, Sevs had missed the actual conclusion of their search as he was thinking. They were checking to see if the name of some field came through correctly, as it had shown up wrong in the bug report. Hmmm. If Markus had just passed him the keyboard, then they likely had just confirmed the case that was causing the issue. Now, what were they testing last?
+
+After a quick minute of typing, Sevs added a couple conditions that should fix the logic. Then he ran the tests again. He looked over at Markus, who nodded. "Yeah, I think that wraps it up."
+
+Markus put his chair back on all four legs before continuing. "As you know, the bug backlog is bottomless. So if you would rather, we can pick up something new... But I have another idea. It's a little different than what we usually do, but I think you might enjoy it. Also, while I enjoy bug hunting with you, I don't know if it is worth your time anymore."
+
+That last bit was especially true. Sevs had not only knocked off the centuries-old rust from his programming skills, but he had surprisingly made strides forward. Markus was an excellent teacher, giving Sevs enough room to figure things out. He also gave Sevs enough support so that Sevs didn't waste too much time. Sevs was surprised to improve something usually more of an intelligence activity, despite his low modifier. What was almost more surprising was that he still hadn't got a skill for it despite all the practice. He must have used a high modifier in previous runs as more of a crutch than he had thought.
+
+"I'm willing to try something new. What do you have in mind, Markus?"
+
+Markus took back the keyboard. He then pulled up a web page from the internal docs site. "So this is a design doc that a more junior member of my team wrote last week. He is rather talented but lacks experience. Both in system design and in writing. Actually kinda like you." Markus scrolled down the document showing a few short sections and some diagrams. It would have been maybe 5 pages if printed out. "What I had in mind is you go through the document, and then we can talk about it and leave some comments."
+
+Feeling apprehensive, Sevs agreed. Markus was right. This was not something Sevs had experience in. He had only ever worked with Markus much and had never written a design doc. He would moronically just think it out and then start programming. Most of the projects he had were simple tasks that he wanted to automate, not larger systems that others would rely on and operate.
+
+Sevs took the mouse, scrolled to the top, and began to read.

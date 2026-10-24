@@ -1,0 +1,47 @@
+As Sevs went through the document, his confidence started to grow. It wasn't too hard to understand, and the diagrams made more sense than he feared they would. Navigating up and down the doc to check previous parts, Sevs started to piece together what was being proposed. It was a simple system that would sit in a cluster and periodically send a request to each program running. It would expect a simple status response. If it didn't get the one it expected, it would consider it down and alert some humans to take care of it.
+
+"So my first impression was that a simple up or down might be sufficient, but you could do much more without adding, much if any more traffic. What if you included some info about metadata or load. That seems like it would be useful to know. The idea isn't complicated and should work. The watcher won't take too many resources and should still be able to cover all the pods running programs in the cluster."
+
+Markus made an acknowledging face. "Fair points, that's not bad. There are a few other things I can think of that bear mentioning. What else can you think of?"
+
+"Well... hmmm," Sev muttered as he started thinking. "It's a good idea for only one per cluster as we don't want to incur a lot of cross-cluster traffic. Maybe we need one per pod? Are you worried about the watcher not being able to keep up with the load?"
+
+Markus shook his head. "No, that's not it. The resources proposed should be just fine. Let me give you a hint. The programs the watcher uses have a lot of inbuilt recovery mechanisms."
+
+"Oh! yeah, good point." Sevs explained. "If the pod was unable to respond for a second at the wrong time, a human would be notified, but there might not be anything to do. So this wouldn't scale."
+
+"Good, so how do you fix that problem?"
+
+"Maybe you need to have a window which you evaluate over. If you don't get any response in 15 minutes after checking every minute. You need to get a human involved."
+
+"That is probably too large of a window, but yeah, a window would help. What else?"
+
+"Uhhhh... Maybe if many pods are down you can consolidate the alerts slash notifications?"
+
+"We normally say pages. Whosoever job it is for the week will get a call."
+
+"Okay, so if there is an issue affecting the whole cluster, we can send one page out instead of one for each."
+
+Markus put his hands together for a polite golf clap. It looked comical coming from such a large man. "Okay, what else can be improved?"
+
+This continued for a long time. Sevs would come up with ideas for possible issues, and Markus would help him come up with solutions. Sometimes Markus would let Sevs know why it wasn’t an issue. But as soon as they had figured it out, Markus would ask for what else there was. Pretty soon, Sevs was running out of ideas. When he claimed nothing else was wrong. Markus asked, "Really? You don't think any of this could be made better, and you don't see any more issues? What about when adding a pod or ..."
+
+Then Markus would give him an example of another thing to think about. That would usually spark a few more ideas in Sevs. But that was how Markus worked. He would have Sevs think of everything he could, then prod and pry more out of Sevs's brain. Markus would give out hints sometimes when Sevs was stuck, usually only for what the issue was. When it came to fixing it, Markus let Sevs wonder for much longer. He always made Sevs think of multiple solutions too. Once the problem was pointed out, Sevs could usually think of a couple solutions. When trying to figure out which approach was the best was when Markus offered the most help. They would discuss trade-offs of perforce and storage, latency, and throughput. Many times during these discussions, the conversation would wander off from the proposal. The topic would become more of a lesson on general principles.
+
+Eventually, the things Markus would nudge Sevs into talking about became smaller and smaller issues. They were also harder to realize sometimes. Eventually, Markus was satisfied. Sevs started to write up the comments. "Markus, after all those things we found, this doesn't seem like a very good document anymore."
+
+Markus laughed. "It is not the best, but I have seen much worse. At least there was nothing wrong with the proposal, just things missing or not considered. There have been many times I reviewed things that were just totally wrong. I bet if you asked the author, he would be able to tell you many of the questions we came up with. It was just inexperience that made him think they were not important or too obvious to include. We will leave these questions and suggestions. He might think differently about the design choices than you or I, but that doesn't make him wrong. Next time he writes up a design, I bet it will be significantly better."
+
+Sevs was about to finish writing up the last suggestions and questions. However, Markus interrupted him when he checked the clock. "Oh shoot, we need to go!"
+
+That got Sevs's attention, and he shot out of his seat.
+
+"Your Father is going to kill me," Markus added.
+
+In the rush, Sevs almost missed the system notification that had popped up a second ago. He smiled to himself, it was a long time coming, but he would check it later when he had some time to himself.
+
+They both quickly gathered their things and rushed out of the building. By the entryway, they found Father waiting, not too impatiently. "Took you long enough."
+
+"Markus was giving me a crash course in system design, and we lost track of time," Sevs explained. Father clapped him on the shoulder. "No worries. Next time try to let me know if you want a bit of extra time or set a timer."
+
+"Will do." With that, they went their separate ways.

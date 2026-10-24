@@ -1,0 +1,87 @@
+The morning went pretty much the same as the previous one. Sevs and Father got ready early in the morning and went to the same diner to break their fast. For the most part, they were silent. Sevs was thinking, reflecting on the notification and the talk they had last night.
+
+It wasn’t until Father finished the first couple of sips of his coffee. That was when the conversation started back up again.
+
+“So right after we get there, I have to drop you off with Markus. I have some things in the morning that I won’t be able to take you with me for. We should meet for lunch, and you can stay with me after.”
+
+Sevs nodded as he sipped his orange juice. He put it down carefully before responding. Looking over Father’s shoulder, he saw the pretty, young waitress that usually served them, covering her smiling mouth with her hand as their eyes met.
+
+Sevs considered what his drinking his juice must look like to an outsider. He looked just like a young boy copying the motions of his father drinking coffee, acting all serious. That was ignoring that he had been performing the same thing, with his own coffee, for more years than she could probably conceive of.
+
+“I don’t have a problem with that. Do I need a badge to get around, or will Markus be waiting for us?”
+
+“Oh, that reminds me,” Father said as he pulled out his phone and sent a quick message. As he set the phone down on the table next to his plate, it buzzed in reply. Looking down at it. “He will meet us by the front door.”
+
+When the waitress dropped off their check with a smile, Father put down some cash, and they got up to go.
+
+***
+
+After parking, Father and Sevs walked to the front door of Markus’s building, and when they got there, Markus was not waiting.
+
+“Typical,” Father grunted. “He says he’ll be a minute,” as he leaned against the wall by the door. Father put his phone back in his jacket pocket and looked at Sev, who had been reading a flier on display by the welcome desk.
+
+Realizing Father had put his phone away instead of checking on his work messages, Sevs looked up.
+
+“What is it, Father?” He asked while tilting his head quickly to the side.
+
+Sevs met Father’s eyes. He noticed a bit of concern in them.
+
+“I know you have my number. If you need anything, call me.” Father put a hand up to forestall Sevs. Sevs closed his mouth. “I don’t care if I am in a meeting. You contact me right away if something goes wrong, understand?”
+
+Sevs was a bit surprised by the intensity of Father’s gaze and words. Sevs nodded. He opened his mouth to reply but was interrupted by a booming voice. “Hey there! Sorry, I'm late. I got caught up.”
+
+Markus came down the hallway at a light jog, a splitting grin on his clean-shaven face. Father chuckled as he shook his hand. With his free hand, he gestured to the right corner of Markus's mouth. “Looks like you got caught up in another donut box.”
+
+Markus rubbed the bit of pink frosting from his face as he smiled sheepishly. “Always gets me. That's why I work out so much, you know that.”
+
+“Yeah, but that’s not going to stop me from giving you a hard time about your eating habits.” Father turned to Sevs, “If this guy ate the way he trained, he would be some fitness model.”
+
+Markus reached out to shake Sevs hand as well. “That is a sacrifice that I am not willing to make. But if you want me to show you the ropes, I can teach you how to PUMP SOME IRON!”
+
+Markus said the last few words in a faux announcer voice while flexing one bicep with a cartoonish grin on his face.
+
+Father ran his hand down his face and groaned. “You have no shame. Sevs, I don’t know why I try to banter with this guy; he just always escalates.”
+
+Putting his hand on Sevs shoulder, Markus waved Father away. “You are just sensitive, old friend. Don’t worry about us. Go make your meeting. I will show Sevs what I do.”
+
+As Father turned to go, he shot a smile at Sevs and a warning look at Markus. Who kept smiling innocently; as Father walked out the door. Sevs looked up at Markus. Internally he was a bit conflicted. Markus seemed really cool, and Sevs was looking forward to getting to know him. On the other hand, he was still a small kid, left on his own without his only parent for the first time in a while.
+
+With a deep breath, Sevs stamped down the instinctual reaction that the system induced due to his age. “So what's the plan, Markus?”
+
+“Well, I don’t have that many meetings today, and the one I do have is online. I have a bit of work I need to get done. But it's not the most urgent. Don’t tell my boss that, though. So I suppose it is up to you.”
+
+Sevs nodded, “Why don’t we knock out that work first, and we can go from there?”
+
+Markus nodded and, with a serious face, said. “That sounds like a reasonable plan. Let's do that.”
+
+They headed down the hallway, Sevs trailing half a step behind Markus. After rounding a few corners, they arrived at Markus’ empty work area. “Unlike your bigwig father, we plebs don’t get fancy offices. We have to make do with this open-office concept. My desk is right there. In about the next half an hour, the team will start showing up. But let me grab my laptop. I booked a conference room for the morning so we won’t get in everyone's way.”
+
+Grabbing his laptop, Markus led Sevs through a few more hallways before he opened a door leading to a frosted glass room with a small table and a half dozen chairs. Sevs pulled out one of the chairs while Markus connected his computer to the big screen on the far wall.
+
+“So I can walk you through what I am doing if you want, but you gotta let me know if you are getting bored, okay?”
+
+Sevs grinned a little. He had dabbled in programming a few times. It was something that he enjoyed. He wouldn’t say he was an expert. Like most things he had worked at over the eons, he had hit a wall when it came to improving. In his natural life, he might have been a slightly below-average programmer. With all the time doing it, he was definitely above average. Sevs wouldn’t be considered a prodigy, even at this age.
+
+Despite his innate lack of talent, that would not stop him from keeping up. “Sure thing, so what project are you working on anyways?”
+
+Markus rubbed his chin, considering. “Well, the service is kinda complicated. Honestly, I don’t have much to do with the end-facing product. I do a lot of work behind the scenes. Yesterday I found this bug in a clean-up routine for some of our local state stores. It is not super urgent, but we pay for the space used, so it's best to get cleaned up as soon as possible.”
+
+Sevs took a second to parse that. It must have been longer than he thought. Also, he wasn’t used to larger projects.
+
+“So you are paying per hour per gigabyte used on some third-party service. It is supposed to be cleaned regularly, and do you think you can make it better? Did I get that right?”
+
+“Spot on. Well, not better, really. I just need to fix something that was broken recently.”
+
+Markus quickly typed in his password, pulled up some code, and started typing. As he was going, he explained the purpose of the code he was editing to Sevs.
+
+Time flew by. Markus was actually a really good instructor. After a bit of a refresher, things started to come back to Sevs. Markus seemed surprised by his knowledge of basic data structures but kept silent about it.
+
+After a while, Markus stopped typing for a second and looked over at Sevs. “You want to drive for a bit?”
+
+“Huh?”
+
+“Drive, so when working with a partner, we call whoever is typing the driver. Do you want to drive?”
+
+“I’m not going to be able to type very fast. My hands are too small.”
+
+“Ah, don’t worry, we will have plenty of time to finish.” Markus waved off Sevs concerns and pushed the keyboard over to him. Markus then leaned back in his chair to look at the monitor on the wall. “Have at it.”

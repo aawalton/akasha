@@ -1,0 +1,61 @@
+ID
+
+X77
+
+Progress
+
+Tutorial: Lvl 5
+
+Titles
+
+STR
+
+-10%
+
+DEX
+
+-10%
+
+INT
+
+-10%
+
+AGI
+
+-10%
+
+WIS
+
+-10%
+
+CHA
+
++60%
+
+CON
+
+-10%
+
+Sevs looked at the simple status. There were a lot of things missing, and some things wouldn’t show up until after the tutorial.
+
+At the creation phase, attribute modifiers could be adjusted to a certain extent. Every attribute modifier started with a minus 10% penalty. The penalty was accumulated in a distributable way that gave the player 70 percentage points to distribute as they wished. Ten percent for each attribute. These attribute modifiers were only multipliers on the base level of ability the user had. For example, if you did a lot of muscle training, you would get stronger, but the displayed status would not change. And if you only did pushups, you might get strong at pushing with your arms, but that wouldn’t help with squatting, where you would push with your legs.
+
+This system made min-maxing difficult because it wasn’t as simple as putting points into one area. Especially since there was no base value to know. Each time you did an action, the modifier was applied on top. So if you can lift 100 lbs with one movement, you would get 90 lbs with a -10%. But that 90 lbs didn’t translate very well when applied to another movement. Just like with the squats and pushups. This made training much more important.
+
+The status was almost always balanced in a way. Changing it from the starting values was quite rare. It was possible to raise an attribute without impacting another, but that was even more difficult than moving percentage points around after character creation. Instead, it was typical for players to gain power from learning new skills and then raising that skill level. Or from just training. Combat and other intense actions were where skills would really advance, but you might not get much stronger without the training to go with it.
+
+For example, a strength-focused skill used by a person with a -10% modifier of the STR attribute would be much less effective compared to a person with a 20% attribute given the same amount of training. However, if you have a -10% modifier but are trained to the point that your unmodified strength was 2 times a person who had a 20% modifier then the person with the lower attribute would be more effective using STR skills. To be strong, work was required.
+
+To Sevs's shock, this wasn’t the only menu he still had access to. He could feel the access to his log and skill list as well. With a thought, he brought up his log.
+
+Congratulations! Through studying under a master of the skill you have learned Leadership. You have learned that to lead one does not need an official position. Instead, you lead by example and take ownership of all the results around you. You will be slightly more eloquent and persuasive when getting people to follow your directions. (Normal training restrictions suppressed)
+
+After reading the notification Sevs hurriedly pulled up the skills page to be sure. He was greeted by the simple list.
+
+Skills: Leadership 1
+
+Skills were complicated. Anyone could learn any skill, but the effect they could perform it was limited by their attributes and personal experience. Also, skills were not truly transferred from one play to another. But if you truly knew how to do something, it was much easier to pick it up again if your stats learned that way. And skills that were spells or not a real thing from the real world didn’t transfer at all. Knowing how to cast fireballs didn’t seem to be included in the overriding philosophy of giving the user their real capabilities as a baseline. The tutorial was also a way for you to shore up your baseline. If you just rode it out, you would end up similar to the person who started the dive. However, if you really tried new things, especially if they were in line with the attribute modifier distributions. You were really able to shift what the system would consider your baseline.
+
+There was a debate about whether you needed to demonstrate mastery of the skill first or train your body to react the way it should as if you knew the skill. Sevs was not really sure it mattered. Either way, he didn’t think that a lot of his normal skills would transfer over. There are a few general skills that probably would eventually, but the INT-specific ones mostly would not. He couldn’t seem to hit the threshold required to unlock them, and he was not focused on building that up. He hoped a lot of his problem-solving skills would transfer, but something like meditation would probably not.
+
+Even so, Sevs was ecstatic with his progress. He shouldn’t even be earning skills yet, but to also unlock a completely new one to him was beyond unexpected. Sevs was still thinking about what he was going to do about all his new opportunities when his young body decided it had enough and kicked him into a deep sleep.
