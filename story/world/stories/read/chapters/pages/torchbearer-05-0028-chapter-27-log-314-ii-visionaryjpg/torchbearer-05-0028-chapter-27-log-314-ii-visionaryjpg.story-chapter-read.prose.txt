@@ -1,0 +1,207 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.14-II - Visionary.jpg]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Vision is the ability to see into the future what others cannot see. Vision is the ability to talk about the future with such clarity, it is as if we are talking about the past.//
+
+//A vision is a way to answer your own “why” in life. It gives you the reason for your actions, choices, hopes, and desires.//
+
+[>>DATA CORRUPTED]
+
+E3 %Why, what did she do after?%
+
+E2 %She returned to Wexler and killed every noble she could find. Didn’t matter who it was. But the adherents like to stay quiet about that part.%
+
+E1 %She must have had her reasons!%
+
+E2 %Sure.%
+
+Frantically, with all the focus my sluggish mind could muster, I went over the recent notifications again. But my thoughts kept wandering. I thought about work, and Chris and all our friends and how very much I missed them. As my mind almost tore itself to burning pieces, I barely registered the giant wolf nearby as a threat, and that worried me on some level.
+
+Think, Sam. Think. In order to lead, I needed to understand.
+
+In order to lead others, you need to lead yourself first.
+
+Urgh. Not again. Shut up, you died.
+
+Are you leading, or are you being led?
+
+Who is the wielder, and who is the tool?
+
+“I said shut up.”
+
+Zephyro cringed. “But Sultana, we must…”
+
+“Not you…” I mumbled.
+
+“Sultana!”
+
+“Shhhh…” I said. My rage had finally started to fade. I just wanted to sleep. Everything was so warm. My head felt fuzzy.
+
+The LB needed had gone up when I upgraded my CPU again, maybe it had something to do with how often I used the Wish… the Logic… whatever on something. Back when…. When I was still in my real body, I had to spend more of my Wish to advance an item the more complex it already was. Heh, oh yeah, I remembered that. Turning a stick into a torch had been easy after a bit of RnD, but turning a cruddy homemade Abacus into a mechanical calculator had taken me a day’s worth of Wishpower, and turning that into an electronic calculator had—
+
+With a howl muffled by the shield, the wolf tried to power through again. The blue dome flashed bright white, and when the light faded, more cracks than solid surface remained. That was worrisome, wasn’t it? Yes, I… needed to do something.
+
+{CPU Load: 99%}
+
+{Core Temp: 86° C}
+
+I lay with my back to a crate, facing the breadth of a main thoroughfare. There were no people around anymore, probably already fled to the palace. A quick look at the stars above revealed that about two-thirds of them were already gone, swallowed by the void.
+
+I wondered how that would feel. Would it hurt? I wasn’t hurting anymore. That was good, wasn’t it?
+
+“FEAST,” the wolf said in its broken-bass-speaker voice. It hurt my ears, rattled in my head, shook my bones. The haze faded, just a little, letting the fear back in. I wanted to go back to the warm and fuzzy place, but fear begot anger, and my anger wouldn’t let me flee.
+
+“Sultana?” Zephyro asked. “What is it? What are we facing?”
+
+“Wolf, approximately three meters ground to shoulder, red electricity, razor claws,” I said as I tried to get up again. My broken arm and leg were definitely an impediment to that endeavor. I collapsed, suppressing a cry of pain.
+
+Zephyro’s face stuttered between frown and concern. “Though I can feel my dire—my shield— weakening, the Beast is still not being revealed to me. I asked my people for help, but none of them could come close without drawing the attention of the Shackled or their masters. Until either one of them sneaks through, or the beast comes close to my Body, I won’t be able to see them.”
+
+The wolf sniffed at the barrier, pacing on its perimeter.
+
+“But they are connected to your Domain,” I said. “Aren’t they basically connected to you?”
+
+“They are, Sultana. But consider this: Were you always aware of all of your thoughts when you were alive?”
+
+I shook my head with a grimace.
+
+“And did you sometimes overlook details when you were distracted?”
+
+“Then imagine you are holding an entire world in your mind while being under attack by hundreds of enemies. I am obviously looking for this Feral in my mind, but it manages to hide its presence well.”
+
+He was right.
+
+“Probably some sort of IP masking,” I said, remembering a DevSecOps talk one of my teams had forced me to attend half a lifetime ago. The thought seemed less and less funny as my thoughts returned to a halfway normal state.
+
+“Your wisdom is unparalleled,” Zephyro said, and this time I could definitely make out a hint of snark. He was growing tired of my bullshit, and I couldn’t really blame him. “But perhaps you should use your Blessing to repair the damage you have sustained, so we can leave, yes?”
+
+“I’m not going to use my Wish on my own body!” Never that. Not unless I wanted to mutate into—
+
+So many eyes they are all around us and see everything you have to come and see see see see see see Torchbearer join us, WITNESS!
+
+I exhaled sharply, burying that memory as fast and deep as I could. For a second, I felt cold despite the heat and exhaustion. My vision swam, the world glitched… Then everything snapped back into focus.
+
+I couldn’t use my Wish on humans. We were too complex. Too many concepts, too much flesh, a soul, and even more organs and systems I didn’t even know existed, let alone understand.
+
+“While you are wise to be careful, you are not made of Flesh anymore, Sultana,” the Vizier said, gritting his teeth as the Wolf attacked his shield another time. The world distorted around us, buzzing with the broken sounds of a failing alarm system. Zephyro cursed, then briefly burned with blue light, and everything went back to normal.
+
+I paused. He was right. My body was gone. Was I even still operating under the same rules as before? I was still human, but stuck on a piece of hardware, so…
+
+“Are you sure? I can use Logic on myself? I won’t grow a few arms?” I asked, unable to hide the slight tremor in my voice. The memories haunted me, whispered from where they lay buried.
+
+“Of course, Sultana. But only ever to restore what has been there before. I have done it many times, and do not forget you do not labor under the wims of the Blessing, for you are its creator! But if I may be so brazen as to ask we make haste,—” the Wolf howled over his next few words. I felt it vibrating deep in my solar plexus “—time anymore. We need to leave, and soon!”
+
+I looked at the wolf.
+
+It leered back, lips pulled into a hideous, toothy grin.
+
+I closed my eyes and searched for the eternal bell inside me.
+
+{AVAILABLE LOGIC - 82 LB}
+
+Grimacing, I willed a tiny bit of it into my digital avatar, focusing on the concept of stability, presence, and strength. Come on, let this work, let this work…
+
+{CONSUMED LOGIC - 2 LB}
+
+{AVAILABLE LOGIC - 80 LB}
+
+A jet of blue rushed down my arm, and my mangled fingers reset themselves with a wet crunching sound that nearly made me throw up. I winced, closing my eyes and…
+
+{memOS - currently consuming: 3 LKB Memory, 72% CPU}
+
+{Current task: Restoring: Samantha_v1//personality_matrix.mp25 - 45%}
+
+It worked! Oh god, it actually worked!
+
+The pain in my hand receded, as if washed away by relief. It felt like it had been freezing, and now I had stuck it into pleasantly warm water.
+
+Okay, think about the how and why later, focus on the now…
+
+Projecting confidence I didn’t fully feel, I breathed more Logic into my body, directing it where I hurt the most: my leg, arm, my torso.
+
+{CONSUMED LOGIC - 15 LB}
+
+{AVAILABLE LOGIC - 65 LB}
+
+{memOS - currently consuming: 3 LKB Memory, 75% CPU}
+
+{Current task: Restoring: Samantha_v1//personality_matrix.mp25 - 75%}
+
+I got to my feet and stretched, flicking the torch back on. It sputtered a few times, but as the pain receded inside me, the flames dancing in the golden brazier became more stable.
+
+“FEAST,” said the wolf with gluttonous fury, pressing its head against the fragmented shield. There was a loud snap as more cracks appeared, but the dome held. Barely.
+
+Zephyro started running, but I couldn’t follow.
+
+My confidence, shattered as it was, floating in darkness, begged to be held together.
+
+I needed the anger, it said.
+
+It would keep me safe, it said.
+
+I looked at the weapon in my hand. The flames streamed a steady blue, just like before. Just like before, when it hadn’t been enough. I glanced at the Feral. It didn’t look any worse for wear. No blood or scar, or even a bruise remained where I had hit it in the face. I didn’t have a chance. I would die here. I would—
+
+I shook my head.
+
+The anger was still there, offering me a chance at victory. At safety. It would not tolerate my cowardice. Fleeing was for the weak. If I ran, my fury would abandon me forever, just leave me as fodder for my own despair. The sickness would eat me up until nothing remained, again, until every idea, every drive was gone, and I just wasted my insignificant time away.
+
+Then the last of my friends would leave and I’d be alone.
+
+Or, I could fight back now.
+
+Just give in to that fire…
+
+Zephyro had already run a few steps, away from the wolf and deeper into the alleys. He wanted me to hide again. I could see it in his frantic motions as he waved for me to follow him, to move.
+
+“Quickly, Sultana. Follow me. We will take another path.”
+
+{memOS - idle: 3 LKB Memory, 10% CPU}
+
+{Last task: Restoring: Samantha_v1//personality_matrix.mp25 - 100%}
+
+{CPU Load: 21%}
+
+{Core Temp: 79° C}
+
+{[Arx, Saint's Embrace] IS NOW ACTIVE.}
+
+The wolf howled again, the boom of its broken bass shaking me to the core.
+
+My anger boiled, spilling over my damned cowardice. I’d run before. I’d tried submission and peace before. And what had it gotten me, besides dead friends and shattered dreams?
+
+I closed my eyes, willed my breath into a steady rhythm. My thoughts set on that cool, dark path that would get me where I needed to go. Towards revenge. Towards retribution.
+
+“I am done running,” I said and opened my eyes.
+
+The sensor array still listened to my commands. It would obey.
+
+A part of me wished it didn’t, and that I could just be blind, to not see my end coming.
+
+But that part was weak, and my anger would not suffer its presence.
+
+As long as I could see, I could fight. It was just a beast. I had killed dozens of them before.
+
+I held the torch up high, framing it with dying stars consumed by an endless void. Blue flames danced before the stygian backdrop, and for a brief moment, lost in their magnificent radiance, I almost believed they could hold back the darkness all by themselves.
+
+The wolf charged.
+
+The Torch flickered, flames wafting away from the beast as it gathered its power.
+
+Zephyro couldn’t see it, of course. But I could.
+
+I focused on the concepts of light, direction, guidance, and seeing.
+
+The Feral’s claws ripped into the cracks.
+
+I exhaled.
+
+The shield shattered.
+
+A bell tolled.

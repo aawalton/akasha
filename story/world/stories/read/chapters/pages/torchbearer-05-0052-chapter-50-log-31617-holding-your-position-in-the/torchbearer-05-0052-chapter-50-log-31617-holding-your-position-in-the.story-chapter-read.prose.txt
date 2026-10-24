@@ -1,0 +1,163 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.16.17 - Holding your Position in the Market]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Once you bring yourself into an advantageous (or disadvantageous) position, the hard part begins: holding it. There merest slip-up can cost you all your hard-earned progress.//
+
+//In the days of old, in the times just around the advent of the Torchbearer, the free market was a myth. How could there be a free market when a Mage Lord could utter a few words and regulate everything by himself? I won’t say this system didn’t have its advantages. But it certainly didn’t make anyone rich. Anyone, but the Tradeweaver. Today, it’s different. Today, you got Machines coming in from &/%&$&/()=//
+
+[>>DATA CORRUPTED]
+
+E2 %But we would be living, Voni! Living! Dad would still be alive. We wouldn’t have to run the Path. We wouldn’t have to fight for our spots in the assembly! We wouldn’t have had to try and repair the fucking Music Box, because dad would have been able to fix it! We wouldn’t have to drag it in here, because you promised this place would heal it. You promised, Voni! But what did we get instead? A cursed temple to the Witch Queen, a machine pointing a gun at your head, and the circuit-frying Takers on our asses!%
+
+The smaller Spiders relayed increasing amounts of Logic harvested from their fallen comrades back to the Snake. It flared its solar-sail hood, panel-casings screeching over hardened glass. At least it had stopped mutating. Seeing the ethereal connection between the snake and the spider-mind, I hoped the abomination was spending all its resources force-feeding its minion new materials. It was clear the mind’s body hadn’t adapted to constructing spiders of this size. Under tortured, distorted screeches, the hulking beast pushed more arachnids out of its painfully distorted mouth. Just as the spider-mind was almost within arms reach, our advance stalled.
+
+The enemy numbers swelled, crested.
+
+Then we got pushed back into chaos. Zephyro and I did the best we could to kill as many spiders as fast as we could, but with the Feral’s overmind devoting all its resources into killing us, there was no way we could stem the tide forever. At some point, Zephyro and I got separated, and I had to retract Pharus. Wrapping its chain around my arm with motions I was becoming way too practiced at, I used the mace to kill any spider that dare come close. I was sure that just an hour ago, I wouldn’t even have made a dent in the monsters, but now every strike left crushing wounds, sizzling with bright teal flames. Pharus’ upgrade was definitely putting in the work. As did Arx. I couldn’t attack fast enough, so every once in a while a spider shot their web at me, or tried to electrocute me with their mandibles, or shot corrosive acid that spattered all over my torso. But it didn’t hurt. I swung again, armored forearms blurring through my field of vision. Fuck yes. With the exception of my face, my body was fully covered, now. My CPU load was also climbing steadily as the abuse mounted, but each attack took a much smaller toll on my core temperature. If this was the difference between a program at version 0.9 and a 1.0, I wanted to see what the difference between 1.0 and 2.0 was like. But that would have to wait I’d hit another RAM cap, plus I didn’t have room to breathe, let alone time to calm down and focus. In the heat of battle, the Logic would hardly do exactly what I wanted. Besides, Zephyro’s warning still echoed in my mind. All the Ferals knew exactly what I could do, but there was always the risk of some Shackled scout coming lose enough to see who I really was. Still, without the Vizier and his ability to defeat several Ferals at once, I was faced with the difficult choice of either saving my strength to power Arx, or spending my energy to kill the spiders before they could kill me. Either way, I’d get overwhelmed sooner or later. So while the prospect of future growth was enticing enough to make an angel investor drool, and I would be able to hold my position for a while longer, I wouldn’t be able to get out of this mess unless I showed some initiative. Luckily, as much as that inky-black fear wanted me to forget it, I hadn’t gotten to where I had been by sitting on my hands.
+
+“I wish I could be like you, Sam. You always seem to know what to do.”
+
+“Oh Jirrie, I really don’t.”
+
+I laugh when I see his confused face.
+
+“Sometimes, all options are equally bad, and you just have to make a tough call and see it through.”
+
+I could make tough calls. Decision made, I spun, leaving my back open to the spiders, and faced Zephyro. He was covered in gashes, bleeding from multiple wounds, and desperately trying to fight an enemy he couldn't see. I grimaced, charging forward. Some of the Spider’s attacks missed me because of my sudden burst of speed, but there were still enough hits to almost overload Arx despite the upgrade.
+
+{CPU Load: ▲ 92%}
+
+{Core Temp: ▲ 83° C}
+
+[>>compiling… 83%]
+
+I broke through the ring of spiders that surrounded me, and came down on the mob that harassed Zephyro like the fist of an angry god. I flicked the switch on my weapon, igniting the censer as I threw it forward with nary a thought about my own safety.
+
+The Ferals were packed so dense, when Pharus impacted onto one of them, the resulting puff of flame marked two others.
+
+[>>PROCESSES BY USER Nerv3se4mstre5s-13 ARE NOW HIGHLIGHTED][>>PROCESSES BY USER Nerv3se4mstre5s-78 ARE NOW HIGHLIGHTED][>>PROCESSES BY USER Nerv3se4mstre5s-426 ARE NOW HIGHLIGHTED]
+
+So it was the fire, and not the metal that mattered…
+
+Not a second later, the Ferals lay dead on the ground, cleaved in two clean halves and spilling Logic. But another four spiders took their space as the rest swarmed over every drop of cyan they could find. Their master roared and I could almost hear insane commands in the subliminal notes between screeching metal and dying industrial fans.
+
+I struck again as I closed in, careful not to hurt Zephyro with my strikes. When I got close enough, I grabbed the censer and reattached it, hammering at the attacking spiders until they focused on me. I never stopped the teal flames.
+
+Zephyro was in bad shape. He was still bleeding, and his body seemed to have been poisoned, because his sword hung from arms so limp he could barely hold the blade. He glitched a few times, reconfigured himself. When he gripped his sword again and looked at me, I almost stopped dead in my tracks.
+
+I had expected him to look grim, or determined, maybe angry. I did not expect the look of pure hope uplifting his face. His eyes shone with the endlessly joyful confidence of a man who had caught sight of the savior I was supposed to be. Nothing could have prepared me for the torrent of emotion that look unleashed inside me. There was joy, yes, but mostly it was guilt, shame, and an almost overwhelming desire to turn, flee, and never look back. I could only disappoint him, couldn’t I? Hadn’t I let him down before, just like all of my friends? Wouldn’t he die, just like them?
+
+And then, of course, there was the anger.
+
+It would shield me, it promised, from the downward spiral I was about to slide into.
+
+I tried to shake it off, but faced with such an overwhelming force, my fear just kept growing. It was irrational, I knew, but every twitch of a spider’s leg reminded me of soldiers marching in lockstep, every red eye a fireball, every volt of discharge a gunshot. In my mind’s eye, the Ferals transformed from eldritch beasts to a war-filled night.
+
+That night, when I had been forced to look at Novus Apex and watch it burn, all alone atop the executive offices.
+
+All alone.
+
+But I wasn’t alone now. I had Zephyro, and he depended on me.
+
+Gripping Pharus tighter, I turned, trying to vent all my frustration on the Ferals instead.
+
+[>>PROCESSES BY USER Nerv3se4mstre5s-82 ARE NOW HIGHLIGHTED]
+
+It worked, for a while, but there was still no overcoming the tide.
+
+[>>PROCESSES BY USER Nerv3se4mstre5s-12 ARE NOW HIGHLIGHTED]
+
+How was I supposed to save Zephyro and his people if I couldn’t even save myself?
+
+[>>PROCESSES BY USER Nerv3se4mstre5s-33 ARE NOW HIGHLIGHTED]
+
+How was I supposed to help anyone, when I was helpless?
+
+[>>PROCESSES BY USER Nerv3se4mstre5s-49 ARE NOW HIGHLIGHTED]
+
+The spiders closed in, swarming us.
+
+[>>PROCESSES BY USER Nerv3se4mstre5s-112 ARE NOW HIGHLIGHTED]
+
+A dark night of rusted blades washed over us, with electricity sparking off of chrome mandibles serving as dying stars. Having identified Zephyro as the greater threat, they overwhelmed him fist.
+
+That didn’t stop the rest of them from scoring gashes across my face.
+
+{CPU Load: ▲ 92%}
+
+{Core Temp: ▲ 84° C}
+
+[DPM integrity]
+
+▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱ 66% ▼
+
+A roar of faith and fury burst out from between teal flames and black legs. Shining through the writhing chaos, Zephyro's body glowed silver, his outline defined with a silver pen. The shine was soft at first, gentle, but within a second it was so bright I had to avert my eyes from its fury. As I turned, I noticed that all the monsters had either turned away or were cowering in place, squeezing their hateful eyes shut to avoid being blinded by his radiance, and yet transfixed by it like gawkers at a car crash.
+
+The good thing about friendship is that it’s not a one-way street, Samantha.
+
+A high-pitched noise grew, and when it crescendoed, Zephyro released a blast that sent spiders flying all over the plaza. They peppered the palace walls, they slammed against the gate, and they sailed over marble arches and rooftops, deep into the city. As the monsters released their Logic, distant explosions of cyan flashed in fires and darkness alike, like fireworks of blue in an empty night sky. Those spiders that had flown into the distance detonated last, as the ones that had splatted against the wall slid to the ground. Of the spiders that had clung to Zephyro’s frame, none survived.
+
+The vizier fell to one knee, panting heavily, glitching worse, and I understood why he had saved that attack for an emergency. While he had effectively freed himself and bought us time to breathe, the explosion had only damaged spiders in a circle around him, about 2 meters in diameter, which left him wide open for retaliation.
+
+Luckily, the Ferals that survived had not resumed their attack yet, still dazed by Zephyro’s bright light and terrified, perhaps, by the explosion that had killed so many of their brethren.
+
+I didn’t have the intention of giving them time to recover. As I dashed toward the recovering arachnids, I flared Pharus, wrapping a bit of chain around the hilt and spinning the flail like an old-school slingshot. I kept the momentum going even after the teal flames licked over metallic carapace and set it aflame. I was a whirlwind of blue light as I dashed through the enemy ranks, tagging one spider after the other with a rapid taps.
+
+My time was running out, the spiders were awakening. I had one last target, however… the corrupted Spider Mind. I pressed through a field of twitching carapace and green-red pustules, each step bringing me deeper into the enemy ranks, but also closer to my goal. I kept marking as many as I could, but I was missing several. There was just not enough time.
+
+Just as the server rack regained its eight feet, Pharus struck it dead center, leaving a teal mark burning on its gunmetal shell.
+
+Before the creatures even had time to realize what had happened, Zephyro had risen again, albeit still glitching, and was on them in the blink of an eye. He made their end quick and painless, but it would be a while until he would reach the spider mind. I kept running, drawing in what Logic I could as I rushed towards the scorpion, the next biggest threat.
+
+{INCOMING LOGIC - 225 LB}
+
+{AVAILABLE LOGIC - 450 LB}
+
+It had been dazed by Zephyro’s blinding burst, and I had almost closed half the distance when the beast recovered. I did not know if it was angry, afraid, or if it even understood the concept of emotions, but there was no mistaking the primal rage in its beady eyes as it flexed its misshapen chainsaw pincer in my direction, then brought it together with the bone-rattling screech of motors grinding against metal.
+
+[>>compiling… 83%]
+
+I dodged backward, into a swarming mass of spiders, but I was ready this time. Zephyro was further off, gracefully dispatching the spiders I had marked, but I didn’t need him for these small fry. I could take them, and I didn’t want to put him in danger.
+
+Moving further away from the scorpion, I twirled around my own axis, bringing down my Fury over and over again, reveling in the rush that surged every time my efforts were rewarded by a crack of breaking metal. Every time a spider curled up on its back, asymmetrical legs curled in on themselves, my smile blossomed like a venus flytrap.
+
+Yes, this was it.
+
+No more fear, no more anger.
+
+No thoughts, just bathing in that flow.
+
+No strategy, just destruction.
+
+No forms, no stances, just relentless power and immortality.
+
+{CPU Load: ▲ 88%}
+
+{Core Temp: ▲ 84° C}
+
+The Ferals began to scatter, rushing over to their fallen comrades to suck them dry of their Logic. I let them. They would all fall, in the end. It was inevitable. I was inevitable.
+
+It’s always the same with you, Sam.
+
+You and your damn hubris.
+
+I had been watching the scorpion’s hulking advance from the corner of my eyes, and when it came into striking distance, I turned and made my swing count. I extended Pharus as far as possble, building its momentum by whirling it over my head as I spun, and hurled it straight at the scorpion’s face. Like a star of destruction, teal fire arced towards the beast. It shone so bright it dragged an afterimage through my vision.
+
+The result was not what I expected.
+
+Raising one pincer with unnatural speed, the Feral caught my weapon, then yanked it out of my grip. The force made me fall on my stomach, and I skid over the ground for a few steps. Groaning, I looked up. The scorpion loomed over me as Pharus’s fires spread over its body. It didn’t seem to care.
+
+{[Pharus, Fury of the Torchbearer] HAS BEEN DISABLED.}
+
+[>>PROCESSES BY USER M1S-C0nstR//t ARE NOW HIGHLIGHTED]
+
+[M1S-C0nstR//t]
+
+[DPM filesize: XXX LKB]

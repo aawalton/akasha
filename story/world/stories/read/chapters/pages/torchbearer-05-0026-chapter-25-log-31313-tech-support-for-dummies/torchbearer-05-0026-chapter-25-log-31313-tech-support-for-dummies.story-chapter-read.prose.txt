@@ -1,0 +1,147 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.13.13 - Tech Support for Dummies]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Everyone needs some help every once in a while. That’s okay.//
+
+//IT, or Information Technology, shouldn’t be as big as it is. Compare it to the innovation of the printing press, which took centuries to spread over the entire planet. With personal computers, it wasn’t even 30 years before everyone had one. With the internet, it was even less until there was an access point in most houses.//
+
+[>>DATA CORRUPTED]
+
+E3 %Did the Torchbearer build all machines?%
+
+E2 %…no.%
+
+E1 %Yeah, she couldn’t have. A few, maybe, back in the day, but we see new machines on The Path every day, right?%
+
+“Yessss,” I hissed, jubilant despite the words appearing in my mind like fired into it with a machine gun, and the fact that I was still missing “Memory” whatever that meant. Trying to ignore the pain, I focused on my breathing.
+
+“Ah, did you have success, Sultana?” Zephyro asked, and I nodded, blinking the stars from my eyes.
+
+“But I received a ton of readouts, too, and they hurt like a bitch!”
+
+“Readouts, Sultana?”
+
+“Yeah, you know, information about what my progra—my skills do.”
+
+“Ah Sultana… I am sorry this causes you pain. I do not experience similar issues, but then again, I have always been the same. Perhaps, though, oh mighty Sultana, your words hold true once more, and Pain is the price…”
+
+“Don’t you dare finish that sentence!” I grumbled. Smug Bastard. But if it helped him distract himself from his burning city, that was good enough for me.
+
+Why had I gotten more information on my firewall than on the Torch? Why did it shut itself off at 80° core temperature? Why—It didn’t matter. I had to stop wasting time and actually run that program.
+
+How did a “Ram” look like, anyway? CPUs were the small square shapes, but RAM? I wished I’d paid more attention to the nerds on my team when they built our computers from scratch during my startup phase.
+
+“Zephyro, sorry to ask, but do you know what RAM looks like?” I asked. Perhaps this would distract him further.
+
+“Of course, Sultana. In the Real, RAM takes many shapes, but most often, it looks like a short bar covered in microchips, with copper teeth that sink into a motherboard.”
+
+Considering where I was trapped, that sounded vaguely terrifying.
+
+With a quick look at my expression, Zephyro quickly went on, “It is not as bad as I make it sound, Sultana. Why do you need to know?”
+
+“Because I need more of it to run my Firewall.”
+
+Zephyro frowned. “That is going to be difficult, Sultana. It has been a while since we went out hunting Ferals, and most of our RAM was slotted in our warriors. Besides, I don’t know anyone who could enter your sanctum to upgrade your Body, now that the Old Guard is awake. We would have to power you down, too, of course…”
+
+I cut him off before it got even more terrifying.
+
+“Nono, that will be alright, Zephyro. I just need to know what it looks like, and then I can upgrade it with Logic.”
+
+Zephyro just stared at me as if I had just told him that to cross the ocean, I’d simply take a leisurely stroll across the water. At Mach 5. To his credit, however, he opened his palm and projected an image of something that looked a bit like a green candy bar with some microchips on it.
+
+“Oh, I’ve seen those things before,” I said, smiling. “What does it actually do? Something about memory?”
+
+“…miraculous…” Zephyro breathed, but then he collected himself. “Yes, Sultana. If your CPU is the source of your strength, think of RAM as your ability to hold many things in mind at once. A better CPU might make you more powerful, but RAM allows you to use more of your err… ‘skills’ in parallel. Oh, and I should mention that your storage determines how many skills you can possess at any given time, with more powerful skills requiring more space, of course.”
+
+I was getting an education in Computer Science 101 from a guy who looked like he just walked out of Aladdin. What a life. And yet, I appreciated it.
+
+“Thanks, Zephyro,” I said out loud. “And uh, what skills are there?”
+
+“I do not know, Sultana. Each and every one of us has different skills. They make us who we are. You won’t find two people with the exact same set of skills in all the worlds.”
+
+Just like real people, then. So much like real people.
+
+The city burned, and the screams had gotten more distant as the Ferals moved deeper into the city in search of prey.
+
+No time to waste, I needed more memory. Now that I knew more about what I was actually doing, doubt crept into my mind. Was I actually going to pump pure Wishpower into my brain? Or what counted as my brain, anyway? I tried not to think about the times I had used my Wish on humans. I regretted almost every single one.
+
+No, this was different. Just upgrading a computer. Just upgrading a computer…
+
+I took a calming breath, then focused.
+
+First, I remembered multitasking, and how much it sucked. Then I pushed away all the studies and articles and reports I had read about how bad task switching was for productivity. Instead, I centered my thoughts on all the times I had cooked while I was on one conference call or another, or had answered emails in a meeting. I remembered the times I had been thinking strategically and tactically at the same time, neck-deep in enemy forces. I remembered loving and thinking of 12 people at once.
+
+Another brief moment of concentration. Another sharp intake of breath. Another exhalation. Another bell tolling through the streets, fanning the flames.
+
+{CONSUMED LOGIC - 60 LB}
+
+{AVAILABLE LOGIC - 142 LB}
+
+{Memory: 10/10 LKB RAM
+
+IS NOW
+
+Memory: 13/20 LKB RAM}
+
+[//run Arx.exe]
+
+{NOW RUNNING: [Arx, Saint's Embrace] v. 0.1 - Network Security System}
+
+My robes shifted around me, losing much of their airy design. The color changed from dusky reds to darker tones, more burgundy with a hint of purple. The sleeves wrapped around my arms tightly, as did the pants around my legs. Around my chest, the cloth duplicated, like a snake shedding skin. The deeper layer padded itself, becoming sturdier. The outer layer elongated as if it had absorbed all the excess flowing qualities from the rest of the cloth, molding itself into a short tabard that started with a loose polo neck and ended a few centimeters above my knees, slimming as it went. It was held in place with a black combat-mesh belt that snapped around my stomach with a satisfying click of a square buckle.
+
+It was all very stylish and comfortable. But most importantly, as all the frills and symbols of office sunk into the cloth, padded sections flowed out from around my chest to cover my upper arms and thighs. My lower arms and legs were still dangerously exposed, but properly armored combat gloves and boots finished the ensemble.
+
+I raised my arms and twisted a little, briefly examining myself. Whereas before I had fit into the theme of medieval Middle Eastern Earth perfectly, I definitely stood out now. I could have worn my new outfit to any Berliner nightclub and wouldn’t have had issues at the door.
+
+Well, maybe except for KitKat or Insomia. Not nearly enough uncovered skin and/or enough latex to get in there. And perhaps some of the other ones, too. I’d probably have to try some of the goth shacks?
+
+Anyway, to call it anachronistic would have been an understatement.
+
+As a final check, I patted the armored sections. They gave a satisfying metallic clack, and I nodded, satisfied.
+
+By now, the street was quiet, and up above most of the night sky was already gone, devoured by the void. From our vantage point, I could see the darkness had already swallowed parts of the outer walls. Rearing to go, I turned back to Zephyro.
+
+I found him observing me half in quiet wonder, half in concern. “You must never let anyone besides me and mine see what you do what you just did, Sultana,” he said.
+
+“Because it is forbidden?” I asked, checking for the Torch at my side. It sat in a neat little loop on my belt that I hadn’t even noticed before.
+
+Zephyro shook his head. “No, because any who sees it will be jealous beyond what you can comprehend. Consider the magnitude of your gift, oh Sultana. You are the only one I have ever seen who can control your Blessing like you do. You can create every tool you might ever need, every skill, if only you have the right base materials and Essence at hand.
+
+“With enough time and resources, there is no limit to how strong your Body can become, and even the most powerful opponent would fall before your might. Can you see the advantages you present to anyone who is desperate, foolish, and heretical enough to try and enslave you?”
+
+A short moment later, realization dawned. I cleared my throat. “I am stuck in a computer. I can’t run. Everyone I know in the real world is probably dead, and won’t come to save me… If someone finds out what I can do and gets a hold of the laptop…”
+
+“Yes, Sultana. If they discover both who you are and what you can do, and that your spirit still lies within your last refuge, all will be lost.”
+
+“They’re going to shackle me…” I breathed.
+
+“Yes, Sultana. To force you to build weapons for their other Shackled. They are going to force you to improve your components, then rip them out and force weaker ones into you, to repeat the process until you break.”
+
+Something that felt like ice started filling my lungs. “Zephyro, before you contacted me, someone already started to…”
+
+I couldn’t finish the sentence.
+
+“They did, Sultana. The Old Guard stopped them. One of the Guard, remembering his divine purpose, called out to me to awaken you. I agreed, thinking it better to prepare you for what is to come.”
+
+Around us, all was quiet still. As I thought about it, I noticed that it had been growing more and more quiet ever since I created Arx and upgraded the hardware. This eerie silence was different, however.
+
+“But worry not, Sultana. I inserted your mind into my system where they would not expect it, and hid the connection between your Being and your refuge. It is impossible for them to know who you are, or that you lie hidden inside the Tool of the Maker.”
+
+Following his logic, I said: “This is the first time humans attacked you, right?”
+
+“True, Sultana. This tells me that they didn’t know you lay hidden deep within the Palace.”
+
+“They would have come for me far earlier if they did,” I agreed. “But why are they here now?”
+
+Our conversation filled the silence, only interrupted by the faint crackle of flame and a few cries more distant still.
+
+“Two enemies, two reasons, Sultana. The Humans seek your treasures, and to enslave us. The Ferals seek to—“
+
+“FEAST,” said the giant wolf as he jumped up from the street.

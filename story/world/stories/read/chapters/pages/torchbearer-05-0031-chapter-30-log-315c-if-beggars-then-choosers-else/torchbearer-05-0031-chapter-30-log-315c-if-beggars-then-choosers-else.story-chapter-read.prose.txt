@@ -1,0 +1,117 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.15.C - if {Beggars} then !{Choosers}; else if
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//There is always a choice. You might not like the outcome of every option, but there is a choice.//
+
+//Who do you want to be, Sam?//
+
+[>>DATA CORRUPTED]
+
+E1 %Well how would you react if you fled and someone cornered you?%
+
+E2 %I wouldn’t burn down their palace with their entire family inside!%
+
+E3 %But then why did the Torchbearer do it?
+
+E2 %Because she is evil! Are you guys even listening?!%
+
+I weighed the Torch… or was it still a torch? I weighted the… scepter… mace… thing… I weighed Pharus in my hand and idly thumbed the button that ignited it. Blue flames sprung to life inside its golden cage, their glow chasing deep shadows from both Zephyro and me.
+
+Compared to Pharus v.01, the fire glowed a bit brighter, and obviously, there was the new button, but I didn’t see any obvious differences besides that. Had the cage been golden? I couldn’t remember. As I watched the flame it was almost as if it watched me back, curious as to what I would use it for. I blinked and the image faded, but it left me with a thought.
+
+I held my hand over the flames, but they were cold to the touch. I moved my hand closer until the fire licked over my skin. It had absolutely no effect, other than a strange sensation of power and desire. I frowned and lowered the weapon, but let it burn for light. The void above was busy devouring the stars, and as we came closer to the center of the city, the fires that had previously lit our path had become few and far between.
+
+I swirled the mace in my hand as we walked, sending our shadows to dance on the intricate walls of nearby houses. Zephyro eyed me briefly but didn’t say anything, focused on keeping an eye on the rooftops, while I kept my eyes on the road and nearby alleyways. It was interesting to see that Zephyro still made an effort to spot enemies, even though it had become pretty obvious they were completely invisible to him. It was another one of those illogical tendencies that made it obvious he wasn’t a computer. At least not in the traditional sense. Had I run into him at a 1001-nights-themed party, I would have said he was as human as anyone else, down to the way he kept readjusting his Turban when he was nervous.
+
+“Hey, Zephyro, why do things hurt in here?” I asked to break the quiet.
+
+“Because we are alive, Sultana, and to live means to be in pain. Thus, there is always suffering in life.”
+
+I snorted a laugh. I couldn’t help myself. It was such a 2000s-emo-band reply that I almost couldn’t take it seriously. But when I looked at him, I found him holding my gaze, unsmiling.
+
+“This is a good thing, Sultana. As long as you feel pain, you are alive. Thus, there is joy to be found in pain, and we must remember that always, lest we let it overcome us.”
+
+This time, I broke eye contact first. I scanned the rooftops and glanced into alleyways, but found them deserted. If around us the fires hadn’t raged, the air hadn’t tasted of hot steel and destruction, if the sky hadn’t been collapsing into itself, I would have thought the world had been frozen in time, like an Excel sheet with more than nine thousand tabs open at once. Next to us, a house burst into flames with a loud crack. Zephyro and I gave it a worried glance but didn’t stop walking.
+
+“No,” I said, returning to the conversation after finishing my quick scan and not finding any immediate threats. “I mean, shouldn’t you be able to turn it off with a command, or something?”
+
+“We can not, Sultana.” Now it was his time to scoff a laugh. It sounded vaguely insulted, and I winced. That hadn’t come out the way I wanted it to. “What Vizier would I be if I had the ability to spare my people pain, and would not make use of it? No, I can not control what we feel, and nor do I know why God has deemed it wise for struggle to exist. I only know that if there is struggle, there is pain, and thus, there is life.”
+
+I didn’t reply immediately, lost in thought. His pseudo-philosophical nonsense had stirred something in me, as much as I didn’t want to admit it. I dimly remembered Earth, and coaching, and a guy with long hair explaining to me that I should accept pain as a necessity of life, that it was nothing else but your body telling you of its needs. Obviously, the guy had never felt real pain, hadn’t watched his friends die in battle, one after the other. Didn’t have to listen as Lorelye’s laughter faded away.
+
+I took a deep breath, but it didn’t calm my emotions as much as it had before. I knew I was close to reaching my limit, that point where I’d no longer be able to keep calm, and succumb to the fear. My anger whispered it would help me. That if I laced a tiny bit of it into that string that held my thoughts together, it would never snap.
+
+And so I clenched my fists, almost without thinking about it. It felt good, and just like that, I was back in control.
+
+I returned to my thoughts instead. Pain seemed to do the same thing here as it did in the real world, then; Warn people that something dangerous was happening and they needed to do something about it There was probably some line of kernel code that all these AI shared, maybe there was something in the original memOS that Chris had added to create instinctual self-preservation. Perhaps some of that code just happened to manifest itself as pain, just like Electronic Warfare Suites manifested as weapons and assembly bots looked like carpenters or smiths. Or maybe it was just artifice imitating life. Or no, maybe I had done something wrong with my Wish, or it was another side effect I hadn’t considered.
+
+My fingernails dug into my palm, and I still felt the pain. I couldn’t change it and I couldn’t know why it was still there. That entire line of questioning was a waste of time.
+
+What could I change, then? If I recalled correctly, I had some Logic left, and it probably would be best to spend it now, while everything was calm, rather than in the middle of battle.
+
+But on what?
+
+There was memOS—if I could even advance something already so complex—which repaired my personality matrix and apparently also did some other stuff I didn’t know about. While I could heal myself using Logic, the automatic regeneration was definitely nice. Zephyro had said Logic was not a finite resource, but for all intents and purposes, it was more valuable than rhodium to me. Perhaps if I got a bit stronger before I got out of this damn laptop, I could try and kill some Ferals on my own to collect some of the stuff and run a few experiments. Maybe I’d learn something new that would help me in the Real world. Perhaps I could even use it to get memOS to do what it was supposed to, namely run my DPM to turn the tide of war, instead of trapping me in a laptop.
+
+Speaking of which…
+
+My Digital Personality Matrix held my thoughts and memories and bundled them together into a— well, a person. It also seemed like it was the thing that made me feel pain when I got corrupted, to warn me of incoming danger. I didn’t even want to think about using my Wish on the single thing that made me, me. It would be like using my Wish in my own brain. No, thanks.
+
+Then there was my CPU, which had to work harder the more I exerted myself, which raised my core temperature. If the temperature went up too high, I’d feel exhausted, just like in real life. This exhaustion also turned my thoughts into single-minded sludge, and ‘physical’ activities felt harder. I wondered if I would eventually collapse from overexertion, or if my CPU would literally melt. Could I die from that? Better not think about it too hard.
+
+There was also my RAM, which I’d have to upgrade no matter what I did so I didn’t think too long about it.
+
+I twirled Pharus, feeling its weight. It was comfortable by now, and as I studied the golden cage that held the flame, I was pretty sure that upgrading it would allow me to do more damage to enemies. I didn’t need that, though. I had Zephyro, who could kill even giant wolves with a single blow. All I needed was to mark enemies for him.
+
+Lastly, there was my armor, Arx, which absorbed attacks against my personality matrix, until I reached a certain temperature threshold. That safeguard was probably there to keep me from overheating and/or preventing completely melting my CPU if I caught a massive hit. Upgrading it would definitely be useful, but the wolf had completely shattered the firewall with a single attack, and I didn’t know how much Logic I’d have to spend before I could take that sort of punishment.
+
+So, to put it in terms I understood, the choice came down to upgrading my ability to heal myself, or my… stamina, I guessed? Could I compare my CPU to that? It certainly fit the bill, but I had a feeling it did a lot more than just that, and I doubted I could train up my CPU on an elliptical, even though I had to smirk at the thought.
+
+Almost everything I could upgrade would give me an edge here, but I only had so much Logic to spend, and while I thought most of the upgrades would cost between 30 and 60 LB, I couldn’t be sure.
+
+So, priorities!
+
+As the road we walked on changed from lose dirt to something like asphalt, I considered my role in combat. This world was bending over backwards to resemble reality, so I could be reasonably sure that my weapons and abilities wouldn’t change from one moment to the next. So I had a short mace and rudimentary armor that didn’t even protect all of my arms and legs. The only ability I had besides hitting things with a burning stick, cursing loudly, and running away was marking enemies, which meant that they were revealed to my allies. All of this didn’t combine into the image of the front line fighter I used to be. Stax, Zurne, and Olre had all given me a lot of shit for it, but I was used to donning power armor and wading chest-deep into battle. I couldn’t take sitting back and letting others risk their life for me.
+
+You have to use your Anger before it uses you, Sam…
+
+Exactly, Stax. Exactly.
+
+However, in my current situation, that wasn’t an option. Everything and everyone in this world seemed to be stronger than me, and my only way of survival was to rely on Zephyro. For that, he needed to be able to see the enemy. For that I needed to hit it at least once, and for that I needed to get close, for which in turn I needed to be able to take some punishment. Especially if we would be fighting several Ferals in a row.
+
+And there I had my list of priorities. Survival first, then getting some range, and only then working on my ability to deal damage myself. It was a far cry from what I was used to, but I consoled myself by thinking of Zephyro as the artillery support I wished I had a few months ago.
+
+No, wait. A few decades ago.
+
+Reminding myself of just how much time had passed soured my mood a little. I needed to know what happened, and not getting answers the moment I needed them was frustrating beyond belief. To get answers, however, I needed to survive.
+
+And that meant I had to advance myself. I was procrastinating, perhaps a little scared of something going wrong again. The anger helped me over that hump, kept me sharp and focused. Every option I had, except for Pharus, would make me more durable. A better CPU meant Arx could take more punishment, and I could probably manage an upgrade to Arx itself that focused on consuming less CPU runtime to do what it did. Both of these solutions presented the problem that I didn’t know my relative strength to whatever I was fighting. If I miscalculated, one blow would be all that it took to break that protection and leave me exposed. Also, I reminded myself, I didn’t know how much better each new version was compared to the last. The fact that Pharus had gone from 0.1 to a mere 0.3 at double the cost didn’t bode well. Especially when considering Zephyro, who was running around with programs up to version 3.1 and still said he’d have issues fighting a single Shackled.
+
+This left me with the two programs I hadn’t upgraded yet.
+
+My DPM was completely off-limits, but… Could I just advance memOS?
+
+It would probably be expensive, considering how sophisticated it had already been before we ran the experiment.
+
+Well, nothing to it.
+
+Through the latent heat of my anger, I steeled my mind and took a breath, focusing on memOS and how Chris and I had built it and—
+
+{AVAILABLE LOGIC - 202 LB}
+
+{INSUFFICIENT LOGIC}
+
+…and deflated.
+
+Well, damn. 200 LB was not enough?!
+
+How much Logic did you need to upgrade memOS to… memOS 98 or whatever?
+
+{memOS 11 - Release_ver: REQUIRES 300 LB}

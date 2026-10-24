@@ -1,0 +1,229 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.16.18 - Log 3.16.19 - XVI -The Tower (Reversed)]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Call: {meaning.tower} if (true) then; (resisting change, facing change, choosing a different path, significant personal upheaval and transformation, questioning fundamental truths about yourself)
+
+elseif; loop//
+
+////
+
+[>>DATA CORRUPTED]
+
+E1 %Hey, Pina, come here.
+
+E2 %-Sobbing-%
+
+E1 %Shh…I miss him too. But he always told me that the machines were the Torchbearer’s gift to the world, that their power was ours to harness.%
+
+I had forgotten how to even advance my RAM, and as the events caught up to me, it was hard to care. I was just so tired. The part of me that wished to just let go of all that angry energy grew bigger by the minute. The weak part. The slothful part. The part that—
+
+I groaned and got to my feet. “Chris, help me out? I need something that helps me focus on my RAM, please.”
+
+Beep!
+
+{Memory: 100 LKB RAM: (Tier 1 - LOW) REQUIRES 300 LB}
+
+I winced at the familiar dull headache. “That’s new,” I said when I noticed the tiers. “And helpful.”
+
+Beep!
+
+“Are you sure you can’t turn off the headache?”
+
+Boop!
+
+I grimaced and focused on the readout still aching in my mind, like a splinter embedded in the tip of my finger.
+
+Then, I took a deep breath and exhaled.
+
+{CONSUMED LOGIC - 300 LB}
+
+{AVAILABLE LOGIC - 50 LB}
+
+{Memory: 40 LKB RAM (Gen 0 - Professional Tier)
+
+IS NOW
+
+Memory: 100 LKB RAM: (Gen 1 - Entry Tier)}
+
+[//run remote_access_array_alpha_001.exe]
+
+[>>Now running remote_access_array_alpha_001.exe]
+
+[>>Saintech Remote Access Array]
+
+[>>Possible connections: 1/1]
+
+[>>Devices currently available: TUXXET 1, XXRRET 2, TURRXT 3, THE_ONE_TRUE_TURRET, NO_FUCK_YOU_I_AM, PRINCESS_DONUT_MEMORIAL_TURRET, Adan_Boom_Box, STRONG_CHIN, SHELLSLINGER, Housekitten, SLOWRISK, HOT_FOR_ARCTIC_FOX, OHGREATIWASREBUILTASASOLDIER… (119 more)]
+
+{REQUIRED CPU RUNTIME: VARIES, STATIC PER OPEN CONNECTION. (>15%/ARRAY ENDPOINT)
+
+REQUIRED RAM: VARIES, AT LEAST 10 LKB}
+
+[>>Select device to connect.]
+
+A bell, soft and helpful, filled the square and dampened the sounds of battle. With a lunge, Zephyro burst from the store he’d been flung into. Silver-blue energy coalesced around him as he thrust his sword deep into the scorpion’s carapace.
+
+[>>Select device to connect.]
+
+My head throbbed softly with every pulse of the cursor asking me to make a choice. At least this time, the pain reminded me that help was on the way. After what I had just been through, that made the dull ache almost comforting. Despite the exorbitant 45% cost to my CPU runtime, I was almost excited to huddle down and quickly skim through my options. But first, I had to relieve Zephyro. I was about to sprint to his side when something red flashed in the darkness beyond the arch. Two wolves padded out of the void. Their gait was unsteady, their fur matted into clumps, and their eyes glowed with the same red sheen that I had come to associate with the chthonic beast still dominating the plaza. Fuck. The first minions of a legion to come. At least I wouldn’t have to face them alone.
+
+I gave the nightmare that called them a quick glance. I didn’t even want to know how strong it had become. Its size alone would have spelled trouble, let alone the dozens of slavering mouths and countless teeth.
+
+And yet, there was hope. Ironically, it seemed that the beast had mutated so much that it couldn’t move anymore. That meant that if we bought Zephyro enough time, he’d be able to kill it from afar.
+
+…unless, of course, it mutated more.
+
+Several cryptic solar sails shimmered on the mass’s surface. They glowed red, impossibly angled towards a black hole sun and voracious for power. As I watched, its uncountable eyes blinked commands, crimson orders spelled out in corrupted binary.
+
+The wolves shuddered, shifted, and then turned toward me as one.
+
+[1Nf3cteD.pac]
+
+[DPM filesize: XXX LKB]
+
+[>>Calculate exact filesize?]
+
+[2Nf3cteD.pac]
+
+[DPM filesize: XXX LKB]
+
+[>>Calculate exact filesize?]
+
+Three digits, and Kilobytes to boot. Did that mean their actual size could range anywhere between 100 and 999 LKB? That wasn’t good at all. I still didn’t know exactly how this worked, or how I compared to the Ferals. If I did some roughshod math, adding up all the Logic I had used, I ended up in the 2-4 LKB range, which didn’t give me the greatest odds.
+
+Fuck.
+
+I briefly debated checking their actual filesize, to see if I could take them alone. A quick look at my CPU readout crushed that idea. It would be a while before Arx was back online.
+
+{CPU Load: — 40%}
+
+{Core Temp: ▼ 87° C}
+
+I frowned, wiping sweat off of my forehead. With all the upgrades I had gotten recently, my CPU was struggling to keep up even while idle and cooled down much slower than before. I also had the feeling I’d gotten weaker, somehow? I definitely didn’t want to add another 45% load on top of that, unless I absolutely had to.
+
+“Chris?” I said, eyes still on the approaching wolves. “Upgrade cost for our CPU?”
+
+{SAINTECH Alpha 5 1800X 1-Core Processor (Tier 0, High): REQUIRES 60 LB}
+
+{AVAILABLE LOGIC - 50 LB}
+
+“Godfucking shitfuck,” I mumbled.
+
+Beep.
+
+One thing surprised me, however. Either the wolves were moving slower, or I had become faster. Or, well, that wasn’t it exactly. It just felt like I had more time to think, somehow, and my body reacted quicker to my thoughts. It had to be connected to my recent RAM upgrade and explained how Zephyro could pull off these lightning-fast strikes of his.
+
+The vizier was still locked in combat with the scorpion. While a silver shield flowing from his free hand held the electrified claw at bay, he had jammed his sword against the chainsaw pincer. The noise of the barbed chain grinding against the blade was deafening, and I worried that the constant assaults would break it in two, but whatever the sword was made of, it held. For now. With a grunt, Zephyro pushed the pincer up, pulled his blade free, and brought it around into a risky two-handed swing. The blow drew crackling sparks from the metallic chitin, and electricity traveled along Zephyro’s blade, seizing his hand. But the Vizier did not let go, even as the feral revved its chainsaw and brought it down. Zephyro ducked out of the way of the counterattack, leaning into the electrified pincer. The chainsaw bit into the mosaic, spraying pebbles and gems everywhere. Rubies and sapphires glittered in the electric light, suspended in the air as reality warped with the Feral’s power. It unleashed its tail-beam moments later, straight at Zephyro’s face. Without looking, the vizier brought up a free hand to summon his Moonlight shield once more, and the red light dissipated. Then the two of them were locked in another stalemate, warped metal grinding against and crackling red, drilling into a forcefield of true white.
+
+I definitely needed more upgrades.
+
+I looked around, trying to find another spider I could kill before the wolves arrived, but there were none around. Even if Zephyro didn’t instantly incinerate them as they popped, I wouldn’t have the time to kill them one by one. The wolves would be in striking range before I could farm another 250 LB.
+
+The wall of flesh and teeth and eyes and mouth undulated, shaking the ground under our feet. As if heeding its command, the devouring darkness lurched closer.
+
+The wolves didn’t even glance backward, red eyes fixed on me, padding along, inevitable as the end of a nightmare.
+
+I’d have to face them as I was.
+
+No Arx, Just Pharus.
+
+And a remote access array connected to dozens of automated defense turrets.
+
+Despite the readout that formed in the smoke, telling me my armor was broken, I smiled like I hadn’t smiled in a long time. I pushed the fatigue as far down as I could, and focused on the prompt still hammering a question into my brain.
+
+I didn’t even bother with the huge list that greeted me and picked something at random.
+
+{Connection Request sent to [Shellslinger]}
+
+{Handshaking…\}
+
+[Done.]
+
+{Authenticating…\}
+
+[Done.]
+
+{Awaiting response…\}
+
+{Accepted.}
+
+Then, a blue box popped up right in my face.
+
+{SHELLSLINGER the Piratical invites you to join his party!}
+
+{Accept? Y/N}
+
+“What the f—?”
+
+The wolves growled, sickly and deep and primaly threatening. No time for questions.
+
+I waved my hand at the “Y” button.
+
+In the middle of the Plaza, right underneath Zephyro’s waning moon (more than half was already deep red) a thin line of cyan split the air. As if a blue laser was cutting reality itself, the line descended from about head height all the way to the floor.
+
+After a split second, the line broadened like opening elevator doors, revealing a faint blue rectangle.
+
+A tall, pale man emerged from the gateway. He was wearing a mixture of rune-bound leather armor and dark robes, as well as a long gray cloak that really brought the ensemble together. His eyes glowed a deep red, so much alike and yet so different from the Ferals. Two thin, elven ears poked out from under his shoulder-length dark hair, adorned with earrings on each side.
+
+He’d slung several belts around his torso, holding two pistols, a double-barreled shotgun, and a throwing axe with a short shaft. Last but not least, the butt of an oversized rifle poked over his left shoulder. Like his armor, the stock was engraved with numerous runes, brimming with icy-white energy.
+
+[Shell5ling3r, Baron of the Black Sands]
+
+[Associated Domain: The Old Guard]
+
+[DPM filesize: XXX LKB]
+
+[>>Calculate exact filesize?]
+
+He smiled as he stepped out of the portal, nodding my way in greeting. Then he glanced up at the moon and stopped dead in his tracks. He grimaced, nodding as if he was listening to someone or something, and sighed.
+
+“Listen, while I am usually 100% supportive of your moon-related proclivities, now is not the time.”
+
+He paused.
+
+“Sure, but that lady with the burning mace over there asked us to help her. So, let’s finish this quest, collect the reward, and then I will gladly throw you straight up and at it.”
+
+Another pause.
+
+“It’s also red, like, blood-red, which makes me wonder if that isn’t causing some sorta existential crisis for you.”
+
+He paused once more, then chuckled.
+
+“Alright, it’s a deal.”
+
+Only then did he turn back to me. My utter confusion must have been written plainly on my face because when he noticed me staring, he winced apologetically.
+
+“Uh, hi. Sorry about that.”
+
+Still stunned, I didn’t respond.
+
+“So, uh, what are we doing? Kill quest? Defense?”
+
+I nodded very slowly. “Yeah…” I croaked. My throat felt dry, and I realized my mouth had been open for a while. “Defense, I mean.”
+
+“And we are defending what exactly?” He asked. “I mean, I can get most of it from context, but still, some more information about the event would be good to have.”
+
+“Uh, yeah, we need to kill everything that tries to kill us, Zephyro, or the civilians…” I checked over my shoulder and noticed they were all already safe inside the palace.
+
+“No, don’t worry about the civilians.” God, I hated how awkward this felt. Like a job interview with a new report who seems to know more than you. “The most important part is that we kill that giant monstrosity behind me. It can’t be allowed to grow even more powerful, but to get to it, we need to kill the small guys first.”
+
+“What monstr…” He paused as his eyes traveled upwards. “Ahhhhh shit, that’s huge.”
+
+“We gotta kill the smaller ones first. If I get enough power, I will be able to get more people in.”
+
+“Alright, kill everything that moves, except for you and that guy over there. Yeah, we can do that.”
+
+I was about to answer, but he was listening to whatever voices haunted him, again.
+
+Then he laughed and talked to himself again. “Yeah, I knew this was going to be your sort of quest.”
+
+I tried not to worry about the fact that he was clearly insane, and turned as Shellslinger went into a crouch and unslung the rifle from his back.
+
+Facing the wolves, I ignited Pharus, and not a second later, a shadowy bird, its beak opened wide, shot over my shoulder with blistering speed, heading straight for the Ferals.

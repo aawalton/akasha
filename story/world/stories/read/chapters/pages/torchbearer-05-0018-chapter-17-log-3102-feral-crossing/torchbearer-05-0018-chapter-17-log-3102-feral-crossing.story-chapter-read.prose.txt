@@ -1,0 +1,167 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.10.2 - Feral Crossing]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Children, I know you only seek to play and test your strength, but do not anger the Ferals! Don’t lure them close to our homes!//
+
+//Poke it! What is the worst that could happen?//
+
+[>>DATA CORRUPTED]
+
+E3 %But then why didn’t the Lords kill all the monsters? Weren’t they heroes?%
+
+E1 %Because they were lazy. Through many years of neglect and greed, the Mage Lords let monster lairs fester all around the lands%
+
+E2 %Wrong. It was the tyrant divine, and you know it! The witch lured the monsters to the cities, until the Lords could no longer ignore the problem and took matters into their own hands.%
+
+When I only nodded in response, overwhelmed, Zephyro took it as a sign to resume our journey. I still had so many questions, yet I decided to drop the matter. The Ferals, the people dying, the city burning, it was… a lot to process. I didn’t need to wrestle with concepts I would have struggled to understand even if Zephyro had used technical language instead of his usual metaphors, on top of everything else.
+
+I understood enough to know that whatever my current digital avatar represented needed to travel to the Palace to do something important there. I guessed it was some sort of boot-up sequence? Speaking of which…
+
+Chris, can you show me the bootup stats again?
+
+Beep?
+
+The very first screen thing, I thought distractedly.
+
+Beep.
+
+The information drilled into my brain a split second later.
+
+{SAMANTHA_v0.1}
+
+{▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱}
+
+{DOWNLOADING DATA 99/100%}
+
+{15.6 LTB/15.7 LTB}
+
+{DOWNLOAD PAUSED.}
+
+{LOGIC RAM: 7/10 LKB}
+
+{SYSTEMS:
+
+ACTIVE: NONE
+
+DEFENSIVE: NONE
+
+PASSIVE:
+
+memOS 3 LKB
+
+SAINTECH DPM v0.1 2 LKB
+
+drivers_sensory_Sam_v_0.1 2 LKB
+
+FREE: 3 LKB}
+
+15.6 Logic Terrabytes? Could that be right? If that was what Zephyro meant by ‘essence’, I could see where he was coming from.
+
+I wondered how much Logic he had. It had to be around a thousand terabytes or something.
+
+Chris, I thought more ‘loudly,’ what happens if that download is finished?
+
+Boop! Beep?
+
+Oh yeah, of course. Yes/no questions only.
+
+Uh, can we resume the download?
+
+Beep?
+
+There was a distinct sensation of Chris withdrawing, and then a second later, more words crashed into my mind like freight trucks.
+
+[//connect SSB1; PH_BNKR_EMERGENCY_NODE_14]
+
+[>>connected]
+
+{DOWNLOADING SHACKLE v1.3 = 92%...}
+
+Boop, Boop boop!
+
+[//DISCONNECT SSB1]
+
+[>>disconnected]
+
+{SAMANTHA_v0.1}
+
+{▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱}
+
+{DOWNLOADING DATA 99/100%}
+
+{15.6 LTB/15.7 LTB}
+
+{DOWNLOAD PAUSED.}
+
+Boop.
+
+I seconded the sentiment. It was very, very boop. Briefly, I wondered if that download was “me,” somehow, putting my mind back together after accidentally shattering it with my Wish. Stranger things had happened. But that couldn’t be right. I was moving just fine, and even though it still seemed far away, the Palace was coming closer. Besides, Zephyro would warn me if something truly bad had happened.
+
+So whatever that download was, there’d be time to resume it later.
+
+We kept going, and I didn’t say anything for a while, lost in thought. We had slowed to a brisk walk but still made good progress, always on the lookout for more Ferals. As we moved on, the noise of panicked people rose again. We were coming up to a bigger intersection, and the illusion of peace we had enjoyed in the back alleys disappeared as quickly as the dreams of 20-year-old girls on their first job.
+
+Eventually, as we came closer to the chaos of the main road, the Vizier and I pressed ourselves against the wall and crept forward. The stone was warm to the touch, but I couldn’t tell if it had been warmed by the sun, or if the interior was on fire, smoldering unseen. The closer we came to the crowd, the louder the sounds of jumbled screaming grew, until I could barely hear myself think.
+
+A few meters before the alley ended, Zephyro poked my shoulder, made eye contact and after he was sure I was watching, raised his hand with two fingers held up. He pointed at his eyes, then twitched his fingers toward the other side of the crowd. I could barely make out the opening of another alley between the jostling crush of panicked people.
+
+I was about to ask Zephyro why he was being so secretive. It was loud, sure, but if we yelled, we could probably still talk. I didn’t get the chance, however.
+
+Something—no, someone—exploded in the middle of the crowd, cyan energy showering wailing women and crying men alike. Then another explosion drowned out the screams with the sound of crackling static. Then another. I turned to look at Zephyro for an explanation, but when I saw his expression, I thought better of it.
+
+His jaw was set, his eyes glazed over. There was a tremble quivering on his lips, and moisture collected in the corners of his eyes. Underneath his stern exterior, he was barely holding it together. I’d seen that look a lot when I had worked as an executive consultant at a company that went under. Also, of course, around the table on that last night at Novus Apex.
+
+You must flee, Sam.
+
+Another explosion crashed through my thoughts and left me disoriented for a second. I was losing it, too. I couldn’t afford that. And neither could Zephyro.
+
+I snapped my fingers in front of his face to get his attention, then held up my hand, motioning for him to stay while I went to check for threats.
+
+I crept towards the corner and stuck my head out, surveying the chaos. The crowd had thinned out dramatically, but still, everywhere I looked, people died in showers of sparks. To the right, towards the city boundaries, a few stragglers tried to hurry along, but two large Ferals —a Wolf made of jagged plastic and something that looked like a snake on LSD— were tearing at their heels. As I watched, the plastic wolf grabbed a young man by the leg. It shook its screaming prey, smashing him into the street over and over until the man exploded into a cascade of blue cubes. Some of them immediately vanished, but most were absorbed by the Feral.
+
+As the cyan energy raced over its body, it reddened. The beast grew larger, and long, black cables sprouted from its back, arcing red electricity that was so bright it left an afterimage swimming in my vision. It set its feet, then it howled. It sounded like a giant sheet of plastic being torn asunder. The snake circled around the wolf once, hissed a discordant guitar solo, then wrapped itself around a young woman and squeezed. I forced myself to look away. We needed to find a way through the mess.
+
+The crowd was thinning fast. I didn’t know if they had all fled inside or if they just died. I hoped for the former. The houses here looked expensive and sturdy. Maybe they could hide…
+
+Another of Zephyro’s people, deep within the crowd and far away from the ferals, screamed and burst apart. Someone or something was destroying them in the real world. Maybe it was the Shackled again, or their handlers, but if so, they hadn’t stopped to salvage the outskirts of the city like Zephyro predicted. That didn’t bode well for our timeline. All I could do was hope that these were mere potshots taken by bored hunters and not an orchestrated push for the Bunker.
+
+As the dying citizens vanished and left behind those blue sparks that symbolized their Essence, the wolf and snake both lunged for whatever cyan light didn’t immediately dissolve. They snapped and tore at each other in a fight to reach their prize first, and before long, they were embroiled in a full-on fight.
+
+I shook myself. If we wanted to make it, now was the time, but we needed to be fast. I motioned for Zephyro to hurry, nodding my head toward the other side. After a moment’s hesitation, he nodded back and we fell into a sprint, dashing out into the street and through the rapidly dwindling throng of people.
+
+I got shoved and pulled and even smacked in the head a few times as people struggled to move past me. At some point, I snapped, but when I turned to the last idiot who’d shoved me to tell him to fucking watch it, I was facing a small child, his large eyes wide in horror and fear.
+
+“You’re the Sultana…” he said, and before I could reply, he glitched, distorted, and screamed at something I couldn’t see.
+
+Then he died.
+
+Blue sparks showered me like electric gore, got into my mouth and eyes, and sunk into my skin.
+
+{INCOMING LOGIC - 32 LB}
+
+{Available Logic: 32 LB}
+
+{Hello.}
+
+{Who do you want to be?}
+
+The information wasn’t hammered into my brain like before. Instead, a soft voice spoke them into my very being. It felt familiar, almost like—
+
+A sudden, faint sound resonated gently deep inside me. It was a bell.
+
+We live and thrive by your Blessing, Sultana.
+
+Before my mind’s eye, the kid exploded again.
+
+No. Oh no.
+
+Another fleeing citizen bumped into me, but I hardly reacted. I just stood there as the last bits of blue absorbed into my core, still remembering the horrified look on the kid’s face. I noticed Zephyro was screaming at me. I didn’t resist as he pulled me into the shaded alley. He dragged me along, stumbling. I just let it happen, barely making an effort to stay on my feet until we finally made it around a corner, and out of sight.
+
+Zephyro looked at me, stricken, but all I could think about was the kid. He screamed in my head, over and over, his voice mixing with that faint sound echoing deep inside my soul, like a bell both struck once and echoing for all eternity.

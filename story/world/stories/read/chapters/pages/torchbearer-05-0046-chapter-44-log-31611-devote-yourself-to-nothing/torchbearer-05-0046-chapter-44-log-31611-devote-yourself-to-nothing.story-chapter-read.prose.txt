@@ -1,0 +1,259 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.16.11 - Devote Yourself to Nothing]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//First – Chill – then Stupor – then the letting go – //
+
+//If you hear a loud crack while perfomring CPR, it’s because of ribs breaking. Whatever you do, do not stop. The person’s chest might hurt after they wake up, but they will be thankful to you for saving their life.//
+
+//Breathe your life into me Can’t you see that (/&/%$&%§%!//
+
+[>>DATA CORRUPTED]
+
+E1 %Anyway… After the Tradeweaver was driven from his lands, the Torchbearer took over.%
+
+E2 %And you’re still telling me she wasn’t a Mage Lord…%
+
+[DPM integrity]
+
+▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ 16% ⚠⚠ ▼▼
+
+{CPU Load: ▲ 100%}
+
+{Core Temp: ⚠ ▲▲ 80° C}
+
+{[Arx, Saint’s Embrace] HAS BEEN DISABLED.}
+
+{AVAILABLE LOGIC - 0 LB}
+
+The force of the Feral’s pull made me lose my balance in an instant. I tumbled forward, straight toward its burning, roiling maw. I wanted to scream, but the smoke had filled my lungs and all I could do was cough as— the gas that formed the beast’s body shuddered. I felt weightless for a second, then all resistance faded and I hit the floor hard, congealed green smoke spattering all over my body.
+
+It happened so fast I couldn't even comprehend it at first. One second I had been diving deep into a stinking, flaming maw of rusted teeth, the next I was on the floor, DPM warnings flashing in patterns of burning gel, cyan Logic mingling with plumes of acrid smoke.
+
+[DPM integrity]
+
+▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ 8% ⚠⚠⚠ —
+
+{CPU Load: ▼ 97%}
+
+{Core Temp: ⚠⚠ ▼ 83° C}
+
+I found the beast’s skull—elongated, porous bone that would be the nightmare of every trypopohobe—still clamped around my weapon. It had stopped smoking, and its eyes were just dead LEDs.
+
+When I looked up, who else would be there but Zephyro, kneeling to help me up? I grabbed his offered arm to get back to my knees, absorbing the hyena’s Logic while still in motion. I immediately used it to heal myself and fooled myself into thinking that this time, I would learn from my mistakes.
+
+{INCOMING LOGIC - 325 LB}
+
+{AVAILABLE LOGIC - 325 LB}
+
+{CONSUMED LOGIC - 150 LB}
+
+{AVAILABLE LOGIC - 175 LB}
+
+[DPM integrity]
+
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100%
+
+{CPU Load: ▼ 55%}
+
+{Core Temp: ⚠⚠ ▼ 81° C}
+
+A part of me winced at the high cost of repairing my DPM, but I knew it was well worth the price. My wounds knit back together, and my skin tightened itself, the pock-mark burns disappearing where my armor had been eroded.
+
+I didn’t even bother to clean myself anymore, and neither did Zephyro. His armor and face were still covered with soot, dust, and grime. I spotted the children he had saved entering the protection of the crowd in front of the fortress gates. That was good. They’d send them in, first.
+
+Still panting, I doubled over, hands on my knees, and spat on the ground. My spittle was black and laced with green. It made my bile rise once more, and I lurched forward to at least not throw up all over myself.
+
+After what felt like minutes of emptying my stomach onto the cobblestones with Zephyro’s hand on my back, holding my hair in place, I groaned and rolled back to my heels. I got up with his help.
+
+“Thanks,” I muttered, voice as shaky as my limbs.
+
+“It is my duty, honor, and pleasure, Sultana.”
+
+I coughed out a laugh. “To hold my hair out of my face as I puke? Yeah, right.”
+
+But I believed him.
+
+About 20% of the civilians were left outside the gate, and now that the press of bodies had lessened, they were making progress even faster than before. I let my eyes sweep the Plaza and found no threats, which left me some time to think for the first time in what felt like days.
+
+I still did not understand the first thing about Logic. If that hyena had a DPM size of 12,000-and-something LB, why had I only gotten a fraction of that when I absorbed it? Math had never been my strong suit, but my share had to be less than 5% of its readout. Where did all the rest go? Did it just evaporate? But evaporation meant it would coalesce, right? Just… where?
+
+And speaking of Logic, what about me? How did I compare to, well, everyone? I raised my hand once more, but again didn’t receive a proper readout.
+
+Frowning, I turned to Zephyro instead.
+
+[Zephyro]
+
+[DPM filesize: >XX KLB]
+
+[>>Calculate exact filesize?]
+
+The prompt of whether I wanted to calculate his exact file size hovered in my mind. On a whim, I accepted, and immediately regretted it as my CPU usage skyrocketed. It drew all the energy out of my limbs and I stumbled, making me fall against the vizier.
+
+{CPU Load: ▲▲ 100%}
+
+{Core Temp: ⚠ ▲▲▲ 86° C}
+
+The strain went on for longer than I had anticipated, and my entire body flushed like I had a fever. Zephyro said something, but it was hard to understand him with my heartbeat drumming in my ears. When it finally faded, the result chimed in my head.
+
+[Zephyro - First Vizier of Sultana Samantha the Torchbearer, Steward of Her Blessing, Defender of the Royal Palace, all Her Lands, and Her Will in eternity, inshallah.]
+
+[DPM filesize: 2.55 LMB]
+
+I straightened and gave Zephyro a quiet smile as thanks for holding me up. If he had Megabytes of Logic to his name, that explained why he had such an easy time cleaving through enemies. Especially if they were worth less than a percentage point of his collected Logic. It also meant that my suspicions had probably been correct, and DPM file size directly correlated to power in this weird new reality I found myself in.
+
+I stumbled over that word, Reality. It certainly felt real, didn’t it? The fire was warm, the wind harsh and occasionally speckled with sand. Buildings collapsed exactly like I had seen in the real world, and the screams…
+
+Everything was the same.
+
+If it hadn’t been for anomalies like the Ferals and the occasional glitch, I wouldn’t be able to tell that all of this happened inside a machine. A machine powered by Logic.
+
+Even before the Retreat, I had never been able to fully figure out my Wish. I wielded it quite comfortably, true, but I never understood why it did what it did. A stick could turn into a torch, but it could also turn into a spear, depending on the circumstances. Eventually, I had realized that the concept I held in mind had been an important factor in determining what exactly happened to an object I advanced. So even without adding the factor of my emotional state, it had never been an exact science. Hell, the readouts were the first time I had seen anything relating to my Wish quantified at all.
+
+Absent-minded, I raised my hand and stared at the skull skill clamped around Pharus. Just like the brittle bone, what little I knew had far too many holes to form a coherent picture.
+
+How had I ended up inside the laptop? Why were there still Ferals decades after the initial burst of Logic? Given their greed, they should have eaten each other until only one remained.
+
+The amount of Logic out in the world had to be insanely high to produce the amount of Ferals we had seen so far. I couldn’t even begin to think about how many more were left outside the bunker walls, either, so Logic probably had to be infinite. That wasn’t possible, though. I was trapped in here, and even I didn’t have access to my Wish anymore, so where would be the source of the stuff?
+
+Perhaps it really did evaporate like some sort of liquid, which would mean it would “rain” down someplace again, imbuing another object with rudimentary intelligence, which would then advance and try to feed. That way, there could be a cycle, and the number of Ferals in the outside world would remain relatively stable.
+
+What a terrifying thought. The people of Tobes already had to deal with magical beasts, and now an infinite amount of Ferals as well? The Mage Lords would probably ignore that problem until it got too bad, just like they had ignored the mutated wolves around Peruti.
+
+The ones to pay the price would be the regular folks. As always.
+
+The price of progress.
+
+It was my fault, again.
+
+I sighed, rubbing my temples.
+
+“Are you alright, Sultana?” Zephyro asked.
+
+“Yeah. Just missing a lot of pieces to this puzzle, and I hate it.”
+
+“Ahhh, Sultana, all will be revealed in time, inshallah.”
+
+“Like your plan to get us out of this mess, for example?”
+
+He chuckled. “Indeed, Sultana. Your wisdom shines like the cool evening sun.”
+
+I didn’t point out that the sun was long gone, swallowed by the collapse approaching us from all sides.
+
+His face softened when he caught my expression.
+
+It looked dangerously compassionate.
+
+“Sultana, if I may… whatever burdens your heart, I would hear it.”
+
+And here we were again. Salvation, right at my fingertips. I could open myself to Zephyro, and he’d do his best to help. He’d soothe my fear and I’d never have a reason to get angry again. I’d just depend on him…
+
+“I wasn’t always like this,” I heard myself say.
+
+I was so tired of being angry. So tired of being alone and afraid.
+
+They are all going to leave you, Torchbearer.
+
+Because you do not deserve them.
+
+“Wasn’t always like what, Sultana?”
+
+I waved my hand over myself, all spattered with blood and grime and dust and pain.
+
+“This. An angry woman, too scared to think straight. I didn’t use to make all these mistakes.”
+
+“What mistakes, Sultana?” Zephyro asked. He must have known, but he still made me say it myself.
+
+“I let myself be controlled by my anger over and over because it’s the only way I feel as if I’m in control anymore. And when it comes, it comes abrupt and steals everything I like about myself. And it chews those things and spits out a mass, all mangled and misshapen, and I look at it and I fear that it is me.
+
+Then I get angry at myself and… it’s an endless cycle, Zephyro.”
+
+He nodded, slowly. “I hear your words and they hold your truth, Sultana. But there is at least one other truth out there.”
+
+I snorted humorlessly. “Let’s hear it.”
+
+“That there are no mistakes, just things that happen because of various reasons. I have read the scriptures and the accounts of your tales, Sultana. I know what you have gone through, and even though I will never experience pain such as yours myself, inshallah, it is not hard to understand that it would leave you changed. I do not know many who would get back up after fate struck them as hard as it did you, Sultana, let alone have the strength to try and punch back. Sultana, I mean to say this: Given all I know about your past, you are doing the best you can.”
+
+I laughed, devoid of all joy. “That’s not nearly good enough, though.”
+
+“Ah, Sultana, but who decides what is good enough?”
+
+“Life, Zephyro. Results. Hard metrics. How many of your people have we lost because I was too stuck in my own misery? How many mistakes have I made that I could have avoided if I wasn’t so fucking… angry all the time?
+
+“I collapsed these buildings when I couldn’t control my Wish, I lured the rats straight to the crowd in front of the palace, and stood around like an idiot while people got slaughtered.
+
+“And then I almost got these kids killed, Zephyro. If I had been a little bit slower, the Feral would have had them. And obviously, you had to save me once more, because I can’t do anything myself because I am too fucking weak.”
+
+I snarled the last few words, having talked myself into another fit of rage. Luckily, I caught it soon enough, and with the last bit of my will, I calmed myself down.
+
+“And then,” I whispered, “I vent all of this shit at you, and will probably yell at you in a minute, like an asshole. I’m just… I don’t want to be me anymore, Zephyro.”
+
+The Vizier said nothing.
+
+Obviously.
+
+Who would, after—
+
+He reached out to touch my shoulder, but I shied back.
+
+“No! I mean… no, please. I- I don’t like getting touched.” It sounded weak and feeble, even to me, but Zephyro just nodded and lowered his hand to his side with a comforting smile.
+
+“I must offer you a thousand apologies, Sultana. I should have learned this by now.” He looked at me curiously, catching a stray ribbon from his turban and re-tying it as he thought.
+
+“Perhaps, Sultana… You said you used to be different, yes? Not as possessed by anger?”
+
+I nodded.
+
+“What was it that held your anger at bay, then?”
+
+I shrugged as a gust of hot wind carried the scent of motor oil and septic cleaner to us. “It wasn’t like that. I just… wasn’t an angry person.”
+
+The crowd of people whom Zephyro had rescued at the edge of the plaza finished searching the debris for their friends and headed toward the Palace gates. Zephyro nodded at them as they passed us.
+
+“I guess it all started with Veltruvia,” I said. It hurt.
+
+Zephyro closed his eyes. “Ah, yes. When the apostles started sacrificing themselves for you.”
+
+I snorted so I didn’t have to cry. “Is that what they wrote? I should have fired those bards… They didn’t sacrifice themselves, Zephyro. They died because they had to clean up my messes. I killed them with my fucking hubris, one after the other, as effectively as I would have killed them with the Torch. And with each of them who died, a part of my facade died with them, until it was clear to see I was just… this.”
+
+Again I waved at myself, all bloodstained and gruesome.
+
+“The Conservationists didn’t have much of an issue painting me as the Tyrant Divine after that.”
+
+“Ah, but Sultana, I didn’t read the accounts written by the bards. I read the accounts penned by the Maker.”
+
+“You read Chris’ logs?”
+
+“Yes, Sultana. The Maker entrusted them to us before they left. They were kept in the archives, but I had personal copies made.”
+
+I should have known Chris saved their personal files on the mainframe. It was so very like them. How the fuck they knew what happened during the time between Veltruvia and Novus Apex, I had no idea. It wasn’t like they had been around during that time. And whose fault was that again…?
+
+“That is to say, Sultana, that what I read were not embellished tales, but the words of someone who was… well, very cross with you at the time. Even still, the Maker spoke about how highly the apostles regarded you.”
+
+I was quiet for a while, just watched the fires get slowly swallowed by darkness.
+
+“I said it before, I think, but my friends were the best part of me,” I said eventually. “They hid my ugly sides, and I relied on their strength to do what I wanted to do. Without them, I would have been nothing.”
+
+Zephyro nodded again. “Then why not let me do the same for you, Sultana?”
+
+“Because then it would mean I’d have something to lose again,” I said, still staring into the dying flames.
+
+{CPU Load: 27%}
+
+{Core Temp: ▼ 72° C}
+
+“Let’s get back to the evacuation,” I said, cutting the conversation like a heartstring. “We’ll finish it up, get into the fortress and then think about what to do next.”
+
+Zephyro looked over his shoulder, then nodded. “As you command, Sultana. Should be mere minutes.”
+
+“Thank fuck it’s almost over. I’m so tired of sliding from one fight into the next.”
+
+A rhythmic clatter echoed from the main thoroughfare, rapidly growing louder as its source closed in.
+
+“Ah fuck,” I groaned. “We jinxed it.”

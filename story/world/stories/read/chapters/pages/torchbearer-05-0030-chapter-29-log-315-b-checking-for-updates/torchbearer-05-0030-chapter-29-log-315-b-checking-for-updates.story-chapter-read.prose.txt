@@ -1,0 +1,167 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.15-b //CHECKING FOR UPDATES//
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Rest is important. The human body can not sustain itself without it. We do not know why or how, but something in ourselves requires us to regularly slow down and take stock. And I don’t necessarily mean sleep. Sleep isn’t necessarily restful.//
+
+//Checking for Updates… No connection found. You are al/(&%$§%//
+
+[>>DATA CORRUPTED]
+
+E2 %Exactly! After all she did, who wouldn’t hunt her!? If not the Tradeweaver, surely one of the other Mage Lords!%
+
+With a grunt, I slapped my palms on my knees and got up in. I felt bone-tired, but my body obeyed much better than it should have, perhaps an effect of my new CPU. That train of thought was weird to think about, so I tried to steer away from it as far as possible. I focused on how sore my body felt instead. Definitely would notice that tomorrow.
+
+Chris, Status?
+
+{CPU Load: 20%}
+
+{Core Temp: 76° C}
+
+I sighed. That seemed about right, considering how exhausted I still felt. I would probably need this information to be more readily available, though.
+
+Can I keep this in the corner of my eye somehow? Like a HUD?
+
+Boop.
+
+{PASSIVE SYSTEMS:
+
+memOS - 3 LKB}
+
+A brief moment passed, but before I could say something snippy I would regret later, they added a ponderous “Beep?”.
+
+I didn’t get what I expected, but something better. Instead of a bit of text appearing in the corner of my vision, my CPU Load and Temperature wrote themselves as semi-translucent text on a wall next to me. I blinked, and it faded away. But as soon as I thought about how exhausted I felt, the information appeared on a part of the road I had been looking at and vanished again at a mental acknowledgment.
+
+Huh, I thought. That is actually pretty good UX.
+
+Beep. It sounded very smug.
+
+Can you do that with all readouts, instead of the whole sadistic typewriter thing?
+
+Boop. It sounded very unapologetic.
+
+Oh come on, Chris, is this because of—
+
+[>>User CHRIs is currently busy: Code_dojo.exe]
+
+I rubbed my temples against my rising headache. Chris would be the end of me someday.
+
+“Let’s go,” I said to Zephyro.
+
+He nodded and fell in beside me as we turned into the main road and walked towards the palace. I watched my CPU temperature in the reflection of windows and in the superheated air above crackling flames. I looked up and found it written across the dying stars. It kept dropping, closer now to 65°, where it seemed to plateau.
+
+“Sultana, I assume we are using the thoroughfare because it is faster?” Zephyro asked, and I nodded, speeding up.
+
+“Yes, and there’s no need to stick to the alleys anymore, it will just lead us into more ambushes. They probably know we’re here now, because of…”
+
+“Because you announce your use of your Blessing so proudly?”
+
+Wincing, I thought back to the sound of a monumental Bell that rang throughout the entire city every time I used my Wish to advance myself.
+
+“Yeah. I know it’s not very stealthy, but to be honest, I have no idea how to tone it down.” I’d already had issues with the Wish, especially if I wanted to use it in moments of high stress, but it felt far worse to try and control Logic. If I wasn’t as calm as a hotel pool at 5 a.m., the reaction I got wasn’t just loud, it was almost violent.
+
+“How bad is it?” I asked, meaning how bad did I fuck up?
+
+“The Shackled and Humans have definitely sensed your use of the Blessing, Sultana. Their search grew more frantic after you improved your CPU the first time, and more hurried still after you blessed your Torch. Still, I doubt they know who this power they sense belongs to. They must know it resides in my Domain, somewhere, but they probably suspect me as the source of it. This is a fine enough ruse, but it will crumble to ash if you grant your blessing with one of the Shackled present.”
+
+“So to sum it up for stupid people, using Logic around the Shackled is bad, because they’ll spot me, inform their handlers, and they will move heaven and earth to finish what they started and put a Shackle on me?”
+
+“Yes, Sultana. However, we will have reached the Palace long before that will become a problem. Last I saw them, they had begun to fight among themselves as their greed outpaced what little sense they possess, the savages.”
+
+“They’re fighting over me, huh?”
+
+“Indeed, Sultana.”
+
+“Thank God for stupid people. They’ll think they got you blinded, right? But they don’t know we have a tool up our sleeves.” I patted Pharus where I had stuffed it into my belt.
+
+“Humbly, Sultana, you may want to choose another course of action. The Ferals are easily overcome, but a Shackled, after having feasted on your Blessing for decades… If we meet one of the stronger ones, I confess fighting it might be a challenge, even for me. I will hold them back, of course, but should they strike you with even so much as a glancing blow, they will drink your essence like sand drinks rainwater.”
+
+I absentmindedly scratched my hand where the spider had latched onto me. The spot still itched, and I felt like tucking my hand into the folds of my combat robe to protect it. I forced myself to touch the padded sections of my vest and pants instead, checking for damage. Everything seemed fine. The rips and cuts I’d received from the wolf were already gone, probably repaired by memOS.
+
+I considered that for a second. MemOS was an operating system Chris had built to run personality matrixes, and from what I recalled from earlier, it had spent a considerable amount of computing power to stitch my personality matrix back together again. That made me wonder…
+
+Chris, if my personality matrix becomes corrupt, what happens then? Do I, like, die?
+
+Boop…beep.
+
+So I don’t die, but I do?
+
+Beep.
+
+That could only mean one thing, really. I’ll become Feral or something, right?
+
+Boop? Beep. I guessed that meant ‘Or something like it.’
+
+Close enough.
+
+My personality matrix had already been corrupted before, but I still felt sane enough, even though it had slipped down all the way to 15% integrity.
+
+So if my DPM reaches 0%, is that the threshold of corruption that I need to avoid?
+
+Beep.
+
+Fuck. That had gone way too quickly last time, and checking the integrity of my mind in the middle of combat was more than likely to distract me in a crucial moment, especially with the headache.
+
+Can you add that to my readouts, please?
+
+There was no response, but a nearby arch shifted, its intricate fresco spouting a seemingly endless jumble of letters, hashtags, and numbers. I knew enough to recognize hexadecimal information, but beyond that, I was completely lost.
+
+In product language, if you would? I thought, exasperated. I knew they wanted to get back to working on their snazzy tech problem, but was this really the time to fuck around?
+
+Boohhhhp… Bee-Ee-Ee-Eep-beep-beep… It sounded suspiciously exactly like what I had just said, and I could practically feel them roll their eyes.
+
+The wall of text shifted, and now read
+
+[DPM integrity]
+
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100%
+
+I still wasn’t any closer to understanding how everything fit together, but it was a start.
+
+Thank you.
+
+Beep.
+
+[>>User CHRIs is currently busy: Code_dojo.exe]
+
+After this digital equivalent of slamming their door shut, I left Chris alone.
+
+Zephyro and I walked through the arch, and as the numbers faded and it went back into its original design, I marveled at the detail that had gone into constructing it. Little paintings of the stars and the moon, of torches and battle, and even of quiet rural life and animal husbandry were chiseled into white marble. There was Arabic text, too, but I couldn’t read it. Someone had lined the most important words with gold. And it wasn’t just the arch. The houses around us had begun showing equally beautiful murals and details. The city was so intricate, if it hadn’t been for the occasional glitch scrambling it into an incoherent mess, I would never have known it was “just” a digital construct.
+
+And that was just what I could see. The world felt real, too. The desert heat, the flames, the wind in my face, carrying smells of burning wood and stone baking in the heat.
+
+The distant din of fighting.
+
+Unfortunately, the pain felt real too.
+
+The thought made me pause. Why did getting injured hurt in here? In the real world, pain exists to warn you of danger, to stop you from doing something. In here, that could easily be done via text, or just the suggestion of pain. It didn’t need to be debilitating.
+
+Hey Chris, sorry to bother you again but can you turn down the pain a little?
+
+Boop.
+
+So you can’t?
+
+Beep.
+
+Ah, if only it had been that easy. Still, there had to be some sort of reason… I glanced at the torch. I kept it in its loop, close to hand, ready for the next nightmarish creature that came looking for a fight.
+
+I frowned as a small detail on the handle caught my eye. It was a new button, right next to the one that ignited its flames. I pulled out the weapon, but when I stared at it for too long, a wall of text slammed into my mind.
+
+{[Pharus, Wrath of the Torchbearer] v.03 - Electronic Warfare Suite - 5 LKB
+
+A simple Electronic Warfare Suite designed to breach targeted computer systems. The strength of the attack determines CPU load, with more frequent or sophisticated attacks requiring more computing power.
+
+Features:
+
+.03 - Leaves a traceable signature inside the target user that allows other users to track programs run by the target user. This is true for all users connected to the current system.}
+
+I twitched. That was a long paragraph to get mind-hammered with when you didn’t expect it. I was certain I hadn’t gotten that much information during the fight, but I was glad to have it now. Chris probably hadn’t wanted to distract me earlier. Or perhaps they had been too busy with the turrets.
+
+I didn’t know what I would do without them.

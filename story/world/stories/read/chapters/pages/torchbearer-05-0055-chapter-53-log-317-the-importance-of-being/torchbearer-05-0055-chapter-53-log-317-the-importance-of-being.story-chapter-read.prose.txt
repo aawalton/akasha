@@ -1,0 +1,163 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.17 - The Importance of Being Francois]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head / Zephyro’s Domain
+
+//Oh, pleasure, pleasure! What // //should bring [UNIT] anywhere?//
+
+[>>DATA CORRUPTED]
+
+E2 %But look where it got him, his stupid fascination with the ultra-fried machines! I hate them. I hate them so frying much!%
+
+The projectile passed over my shoulder and collided with one of the wolves just as it prepared to charge. It yelped and stumbled, sliding over the ground in a heap.
+
+Despite the dramatic impact, the raven-projectile hadn’t quite managed to kill the wolf. It got up and growled, but the crazy dark elf immediately started peppering it with pistol shots. After drawing its attention, he started strafing backward, pulling the wolf through a barrage of shadowy ravens like a kite through a hailstorm.
+
+I allowed myself a quick sigh of relief. Despite how batshit insane he was, this “Shellslinger” seemed competent enough. Apparently, he also didn't need me to mark enemies for him, which was even better.
+
+Nevertheless, I flared my weapon, prepping it to mark the next enemy struck, and took a fighting stance. Just having the ability active made me feel more secure somehow, even though I couldn’t quite tell why.
+
+As the Feral came close, I spotted clear signs of disease. Its mouth foamed with greenish spittle, and patches of blistered skin glistened underneath its mangy fur. Its movements were deceptively slow, but its muscles betrayed its feigned weakness. They bulged with strength, unaffected by whatever disease had taken over the beast.
+
+I squinted.
+
+The Feral snarled.
+
+Then it lunged, and the battle was on. I focused on dodging, not wanting to risk the animal infecting me while Arx was down. I still wasn’t sure if my DPM wouldn’t protect me, but staying on the safe side definitely wouldn't hurt. When the wolf missed an attack and passed by me, I slapped it with my chain. The fire raced down the length of gold, pouring over the beast and marking it. The Feral slid to a stop, spun, and came back for another round.
+
+This dance continued for a while. Perhaps it was because the beast was still struggling against the snake's control, or perhaps its disease really did sap its strength, but after less than a minute of fighting and dodging, it became winded. Now it paused after every dash, allowing me to get more strikes in. Considering how strong the readout said it was, that was probably for the best. I’d been hitting it several times, but I couldn’t risk overexerting myself and becoming slower than my enemy. As a result, despite clearly winning this fight, there wasn’t a single wound visible on the monster’s mangy body.
+
+Still, I kept battering it down strike by strike, using my superior reach to land several hits quickly while maintaining a safe distance. After a particularly nasty hit on its snout, it winced back instead of charging back in.
+
+That finally gave me the opportunity I had been waiting for.
+
+Pharus’ blazing head drew an arc through the hot air and smashed straight into the Feral’s head. The force of the attack drew its skull into the floor, cracking it open and revealing the Logic within.
+
+I couldn’t help but grin. I was getting a hang of this, and I dared think that Stax would have been proud of me if he could see me now. It hadn’t gotten a single strike in, and while I did feel the exhaustion burning my lungs, fortunately, my DPM was still hovering at 61%.
+
+I breathed in my reward.
+
+{INCOMING LOGIC - 100 LB}
+
+{AVAILABLE LOGIC - 150 LB}
+
+As I watched, a large chunk of the Feral’s energy—far more than half—split off, racing across the floor toward the dark elf. He was already done with his own beast, and he leisurely leaned down to pick up a glinting blue Shard from within the cloud of Logic.
+
+“Hey, what the hell?” I yelled. “I need that!”
+
+“Oh, sorry, is that a quest item or something? You just mentioned killing the mobs, so…”
+
+Then, turning away, he mumbled: “Never heard of an NPC needing drops before. Is that a new mechanic or something?”
+
+“What do you got? Oh? Come on, man. … Your dad’s really stingy with the details lately… Yeah I know, I—”
+
+I stood there, fuming as seconds slipped by.
+
+Just a few hundred meters away, Zephyro fought for our lives, while a giant, unspeakable wall of demonic flesh beckoned hordes of Ferals to kill us.
+
+And this guy was having a nice inner monologue.
+
+I could feel a vein pulsing in my temple.
+
+“Hey! Focus!” I snapped my fingers in front of his face.
+
+“Okay,” he said with a slightly annoyed chuckle. “You seem nice and all, and I know Francois talks a lot, but interrupting him never ends well. Trust me on that one.”
+
+“Who the fuck is Francois?” I asked.
+
+He raised an eyebrow. “Uh, my Axe?” He pointed down at his belt, where the axe hung, lifeless. “You mean can’t hear him?”
+
+“You named your Axe Francois?! I— Actually, never mind!” I pointed at Zephyro, still fighting the scorpion. “Let’s go, or we all die.”
+
+“Yes, Ma’am!” the elf said, sheepishly, and broke into a sprint towards the Vizier.
+
+As I struggled to keep up, I heard him mumble. “Could have warned me. Not cool, man.”
+
+I forced myself to ignore him, unfurling Pharus’ chain from around my arm. With how sluggish I felt, I’d need my full reach, even if that meant letting the chain drag on the cobblestones as I half-ran, half-stumbled toward Zephyro.
+
+When we finally came close enough, I flared the weapon despite my exhaustion and swung. It drew a low arc as it rushed towards the Scorpion, censer burning brightly. When it impacted, the teal glow that covered the beast’s body refreshed, and Shellslinger hooted with joy.
+
+“Hell yeah, crit buff!”
+
+Before I could ask what fresh madness a “crit buff” was, two more elves, exact copies of the first, sprung up beside Shellslinger. They knelt and took aim at the monster, the muzzle of their rifles glowing purple. Milliseconds passed, and the weapons hummed a menacing soprano as their glow brightened. Finally, a barrage of dark birds erupted from the barrels, cawing as they sailed through the air. They hit the scorpion in the flank with a satisfying explosion of dark feathers, and Shellslinger kept up the assault with an identical barrage not a second later.
+
+Realizing a new threat had emerged, the beast roared, pausing mid-swing to turn towards the Gun-mage. Zephyro did not let the opportunity go to waste. With a yell, his sword drew a crescent through the air, plunging deep into the beast’s side.
+
+The Feral’s roar increased in pitch and it swung its electrified claw toward the side of Zephyro’s head. The Vizier was ready this time, planting his feet and raising his hand to block the strike. For a second I thought he was going to catch it bare-handed, but then a silver shield enveloped his arm just before the claw connected.
+
+He slid backward with the force of the impact, his hand glowing pure white, but he did not fall or falter. When the Feral noticed its attack would not be enough, it shook itself bulging the pustules on its back.
+
+“Get ready for spiders—“ I began, but the Vizier had it under control.
+
+He yelled something I did not understand, and there was a brief flash of white from behind Shellslinger and me. After another flash, a broad beam of moonlight shot straight at the beast’s back. Its searing light rushed over the pustules, incinerating the tiny arachnids before they could spawn.
+
+Shellslinger kept blasting the Feral, peppering him with raven after raven.
+
+“Yeah I know,” he said as he fired. “l also feel ambiguous about getting helped by the moon of all things.”
+
+Then he turned to me. “Scorpion’s at 65% and falling. Keep it up!”
+
+“How can you tell?!” I yelled back between wild swings. Personally, I could have sworn the thing was almost dead, but the Feral’s numerous wounds didn’t seem to slow it down in the slightest. I needed to learn not to rely on my intuition too much in this place.
+
+“Francois’s telling me!” the Elf yelled, “are you sure you can’t hear him? Because he keeps acting as if nothing’s wrong and I can’t tell if this is another one of his pranks.”
+
+“Not the time!” I yelled.
+
+Inwardly, I rolled my eyes. Yes, of course! The talking axe that only you can hear is giving you damage readouts on the giant robot scorpion we’re fighting.
+
+All in between funny pranks!
+
+God save me from this madness.
+
+I yanked Pharus back and swung wide, sending my weapon crashing into the scorpion over and over. A strike from the left, one from the right, left, right, left…
+
+I almost got lost in the rhythm of the censer roaring as it sailed through the air, leaving patches of burning teal on the jagged metal. Each hit was accompanied by a satisfying thunk, putting a beat to the beating. However, while my attacks sounded impressive, it was hard to tell if I was doing any damage. Still, I’d rather not ask the elf—or his axe—for confirmation.
+
+In the meantime, Zephyro kept the Scorpion’s attention on himself, jabbing his sword into a new weak spot each time the beast stopped hammering him with its claws.
+
+In the heat of the moment, neither of us noticed the scorpion’s tail started glowing until it was too late.
+
+I yelled a warning at the vizier, but the laser swiveled toward the elf at the last second.
+
+With an electric boom, a beam of crimson cut through the conflagration-hot air. It hit the elf in the chest with enough force to not only knock him off his feet but push him back several meters as well. The attack faded as quickly as it had begun, but I knew this wasn’t the end.
+
+The burning scar lit up.
+
+There was nothing I could do.
+
+A split-second later, the aftershock sent the Old Guard up into the air and tumbling end over end, crashing into the cracked mosaic. His copies followed his exact arc, vanishing before he even hit the floor.
+
+I remembered the pain from losing my foot, remembered seeing it fly into the city. There was no way I could have survived a hit like that. Could he?
+
+Panic pushed against what calm I’d managed to keep.
+
+You killed them all, Torchbearer! You made them do this, you and your empty promises.
+
+But no Logic streamed from his body. He got up a second later, swaying as he collected his rifle from where it lay beside him.
+
+“Alright…” He said through gritted teeth. “That thing does random AOE damage, gotta stay spread out.”
+
+He threw me a glance as he hobbled back into position. “Can I get some heals over here?”
+
+“Heals?” I asked, quickly turning back to the Feral to renew my assault. We had to kill it, and quickly, before more of its kind arrived. Before they could take more people from me.
+
+“Oh. I thought you were the healer?” Shellslinger said, pulling out his pistols and sending a barrage of ravens at our target as he took position. “I mean, I assumed because…”
+
+“…because?” I asked, grunting with effort as I sent my flail flying into the scorpion’s carapace. It impacted with a puff of teal flames, but did very little besides.
+
+“Because of that, mostly,” the Elf replied, jerking his thumb at the little dent Pharus left in the Monsters’ carapace.
+
+“I’m trying, okay?” I yelled back.
+
+“It’s okay, just won’t let it hit me again!” For what it was worth, he hadn’t stopped firing, even though he was grinning. “39%, almost in execute range.”
+
+“Then let it be done!” Zephyro yelled, mustering all his might for a massive push against the pincer that was electrifying his blade. Shellslinger dashed in close, grabbed his Shotgun from where it hung on his lower back, and unloaded two bursts of darkness straight into the Feral’s face. It recoiled, and the second it broke contact with his sword, Zephyro moved in like a dervish, blade spiraling through the air and impaling one of the beast’s many eyes.
+
+The Feral roared, tail flashing bright red. I wanted to yell a warning, but it was too late. Another crimson ray cleaved through the night, straight at Shellslinger.
+
+The second it hit him, he exploded in a shower of purple sparks.

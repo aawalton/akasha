@@ -1,0 +1,119 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.11a - Mind_Gutter.pul]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Jan 1 — 1796. This day — my first on the light-house — I make this entry in my Diary, as agreed on with De Grät. As regularly as I can keep the journal, I will — but there is no telling what may happen to a man all alone as I am — I may get sick, or worse ..... So far well! The cutter had a narrow escape — but why dwell on that, since I am here, all safe?//
+
+//Pharos was a small island located on the western edge of the Nile Delta. In 332 BC Alexander the Great founded the city of Alexandria on an isthmus opposite Pharos. […] The etymology of “Pharos” is uncertain. The word became generalized in modern Greek (φάρος ‘fáros’), and was borrowed by Italian and Spanish (‘faro’) and French (‘phare’).//
+
+[>>DATA CORRUPTED]
+
+E1 %The Torchbearer needed a new home, and so she set out to sea with only Chrisiin as her companion.%
+
+E2 %She stole the boat. The Tradeweavers’ personal yacht!%
+
+E3 %She was a pirate?!%
+
+E2 %But not the cool kind!%
+
+Zephyro’s armor clinked as he got to his feet. With the ghost of a smile on his lips, he dusted himself off.
+
+“I am glad to answer your questions,” he said, loosening his sword in his scabbard. “But if I might be so bold, Sultana, allow me to suggest we keep making for the palace while we talk further.”
+
+I forced a smile, nodded. “Deal.”
+
+Then we got moving. Deeper again we went, into the maze of streets and away from the dying wails of the crowd. It seemed both a blessing and a curse for Zephyro, who still flinched every time a desperate plea carried on the wind.
+
+I tried to distract him with more questions.
+
+“Tell me more about the Ferals. The two on the thoroughfare seemed larger and stronger than the rats and spiders.” It probably wasn’t the best topic, but it was the first one that came to mind.
+
+“The weakest ones usually take the form of common pests, Sultana. They are spirits trapped in machines that weren’t made to move but warped themselves by the theft of Your Blessing to allow themselves some small range of motion. They consume their brethren until they grow strong enough to hunt bigger prey, and so the cycle of their gluttony begins.”
+
+A few solid chunks of information, that. We rounded a corner and had an unobstructed view of the sky for the first time in a while. The horizon and roughly two fingers higher were already pitch black, consumed by the creeping void. The darkness would probably reach the city outskirts soon. Had anyone survived the attack? I had seen enough Ferals for a lifetime, but at least there didn’t seem to be more of these polygon soldiers that mowed down the militia. I was more than a little thankful for that. They had seemed unstoppable.
+
+“What about the red guys?” I asked. “The ones at the gate. Are they Ferals, too?”
+
+“No, they are Shackled, Sultana.”
+
+I glanced at him. There was a pit in my stomach that told me I wouldn’t like where this line of questioning was going, but I ignored it. I had to know. Had to push on.
+
+“What does that mean?” I asked. We had reached a dead end. The alley ended at a wall twice my height. Some sort of wooden shack leaned against it. Perhaps a toolshed, perhaps a home for someone less fortunate. It was hard to imagine AI constructs being down on their luck, but I suspected that they must exist. Then again, Zephyro didn’t seem to be the kind of person who’d tolerate poverty festering in his city. He’d probably help them out.
+
+The Vizier didn’t answer until he had made up his mind on how to proceed. Effortlessly, he jumped on the roof of the wooden structure and extended his hand toward me.
+
+“We do not know how they managed it, but the Humans have found a way to tame the Ferals,” he said as I grabbed his hand.
+
+He pulled me up in one easy motion. It felt like being launched by a trebuchet. Panic lanced through me as I hit the apex of my rise, but I managed to hold in my curses. I crested over the wall on a graceful arc and even landed in a somewhat smooth crouch. Zephyro hit the floor beside me with impeccable poise. His armor had rattled a little, and dust swirled dramatically from under his feet, but that was it. He casually resumed walking and spoke as if he hadn’t just landed from three meters up in the air.
+
+“All we know,” Zephyro continued, scooting sideways down a particularly narrow passage, “is that the humans shackle them to their will and feed these Shackled the essence of other Ferals. They hunt them, to make the Shackled grow.”
+
+“Wait, if these Shackled are livestock to the humans, does that mean there is an entire ecosystem of Ferals out there?” I asked, sliding into the gap behind him. The air smelled a little stale, and dust tickled my nose.
+
+“Indeed. Not all Ferals are made equal, Sultana. Some of them are nothing more than beasts walking on two legs, snarling and rabid. A few blows and they perish. But the more they feast the smarter they get and… Well, Sultana, you have to watch out for the calm ones.”
+
+“But what do they feast on? Where do they get the Logic? Where does it come from?”
+
+Zephyro shrugged, and more dust fell from his armor. “We were hoping that as the bringer-of-essence, you could tell us.”
+
+I shook my head. “I have no idea, sorry.” There were so many options, the easiest of which was that I had caused some sort of backlash when I had used an unprecedented amount of my Wish to advance memOS. Maybe there was some sort of Global system that governed the mana, and I had fried it somehow? Perhaps I really had created some sort of nanoswarm that had gone airborne.
+
+It clearly made Zephyro as uncomfortable to talk about it as it did me, so I decided to switch topics again.
+
+“Wait, wait, hold up,” I said. We jumped down from a small bridge into a dried-out canal below. I tried to avoid the animal bones and trash as we hurried on. “The humans shackle the Ferals. Alright, so far so bad. But how? With some sort of program? A virus or something?”
+
+I remembered the download Zephyro had stopped. Someone had been trying to download a program called Shackle.exe to the laptop. That couldn’t be a coincidence. The feeling in my stomach grew worse again, begging me to hide, to wait for someone else to make things right again. I clamped down on those thoughts, stoking my anger.
+
+“Yes, Sultana. You can certainly call it a sickness.”
+
+Well, there I had it. That had almost happened to me. They probably had gotten some sort of remote access to the network and just pumped the virus in and hoped for the best, like injecting knockout gas into the ventilation.
+
+But I didn’t know why the shackle had been able to clamp onto my personality matrix to begin with. I wasn’t some sort of program. I was a real person. Besides, I had pumped several weeks’ worth of my Blessing into this digital personality matrix to make sure it would be able to hold my entire consciousness. As programs went, it was far too advanced for a random virus to even recognize it. There was also absolutely no way for these Conservationist fucks to know I wasn’t an AI like the others, so a custom job was out of the question. They didn’t even have the tech for it. They hadn’t back in the war and they probably wouldn’t have it now, even if over 50 years had passed. They had always been so high and mighty about their magic and their enchanted gear and their trained mythical creatures and had laughed in my face when I arrived in that clunky first attempt at power armor. Sure, they hadn’t been above taking the guns from my fallen soldiers and using them on me, but the idea of Conservationists employing a team of developers able to program a computer virus was completely laughable. It would literally be like old-timey Count Dracula building an online store that sold garlic, stakes, and holy water.
+
+Could they have salvaged something I built, then? No. I was sure the laptop that was my new “home” had been the only laptop in existence when I used my Wish on it. Everything else I had advanced had probably long broken down, and unless Chris had built more, all my machines were—
+
+I stumbled over a broken bucket that lay half-buried in the canal and cursed. My body slammed into the grime-covered wall as I failed to brace myself. I remained upright, stopping for a second to silently scream and slap my fists on my thighs against the pain. I could get angry about this, just let it all out…
+
+No! No need to spend all the rage yet. My robes were close to being ruined already, and besides, being presentable was very far down my backlog. With a frustrated grunt, I pushed myself off of the stupid wall and resumed hurrying after Zephyro. I needed to stay calm. Stay logical.
+
+I nearly stumbled again, gritting my teeth in frustration as realization hit me like a wet towel.
+
+Logical. The Logic! I kept forgetting it was just out there, ready to be used by everyone. I was so used to the fact that I had a monopoly on technology, but now… No, I had to be sure.
+
+“Zephyro, when you say the humans feed the Shackled the essence of other Ferals, you mean they let them absorb Logic from other machines?”
+
+He looked uncomfortable at how I had phrased it, but he responded nonetheless. “Yes, Sultana. A Shackle is basically a parasite, siphoning your Blessing to spawn more of its kind.”
+
+“So just to be clear, you can use Logic to advance computer programs? Like you or I?”
+
+He grimaced, clearly offended and trying not to show it. For a split second, he almost looked like he was going to slap me. I remembered his face when he had to leave his soldiers behind. It had been so forlorn, so anguished... How can you tell me to devour my people?
+
+“Sorry,” I said contritely. “I didn’t mean it like that.”
+
+It sounded weak, even to me, but it seemed to be enough. Zephyro’s expression went back to neutral, and when he resumed walking, his movements were smooth, almost relaxed. After catching up, he nodded in response to my question.
+
+“Yes, Sultana. But remember, to use your Essence on yourself nearly always results in madness and disfigurement. The Ferals, the Shackled, even the Old Guard to a degree, all crave this Logic like an addict craves hashish. It makes them stronger, but also makes them a target for other Ferals and Shackled. And so, they need to protect themselves, and so they need to become stronger, which makes them even bigger targets…”
+
+For a second, I wrestled with my anger, making sure it was subdued enough for me to ask a sensitive question. “But… sorry to ask, but what about you? Where did you and your people get this Essence from?”
+
+“From you, of course, Sultana,” Zephyro said, and thankfully he didn’t seem offended. “Almost all the essence I have, and all that I have shared with my people, I received from you in one single moment.”
+
+“…almost?” I asked, with a raised eyebrow. Zephyro didn’t seem the hypocritical kind, so there must be another explanation.
+
+“Yes, Sultana. Your essence is everywhere, sometimes a little denser, sometimes less so. Some of my people can see it, and when they are children, they always take some before we can explain to them that disturbing your Essence is haram. I pray you don’t judge them too harshly for it. They are just curious, and we always make them share with the rest of us.” He didn’t sound like he believed I would, but I shook my head anyway.
+
+“Of course not. But you’re saying that you could, in theory, draw more of this essence from the air?”
+
+“Yes, Sultana. It just takes a very long time. Many, many cycles to catch enough to raise a single one of my people to adulthood, even if we all worked on it together. The Ferals do not have such qualms, of course. All of them are born from stray Essence, but it rarely is enough to grant them intelligence.
+
+So it was possible that this shackle virus had absorbed some ambient Logic and just happened to mutate into a version that was able to handle the complexity of my personality matrix. Well fuck my luck, I guess.
+
+A few meters later, Zephyro’s gauntleted hand grabbed my arm. It felt surprisingly gentle.
+
+“We have left the outskirts of the city now, Sultana, and should be able to make good time in the alleys again. Let us head back up, but we need to make haste, lest we get spotted by more Ferals.” He pointed towards a few steps carved into the side of the gully, and we hurried upwards, immediately turning right. We reached a door that Zephyro kicked in as if it were cardboard, then motioned for me to enter.

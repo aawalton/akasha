@@ -1,0 +1,173 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.16.7 - Predatory game mechanics]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//A Quartz contentment, like a stone – //
+
+//It gets problematic when it’s no longer about the game, but about the psychology behind it.//
+
+//Numbers go up. It’s a basic human need to gather, and we all love to see something grow. It gives us a sense of peace, of security, and (/%&&§//
+
+[>>DATA CORRUPTED]
+
+E2 %Sorry, Tin.%
+
+E1 %Yeah, sorry. I know. I promise to be better. Now where were we?%
+
+E3 %You were saying why the Tradeweaver’s palace burning down led to chaos. Was it because the Torchbearer was so strong, and people were scared of her?%
+
+{CONSUMED LOGIC - 60 LB}
+
+{AVAILABLE LOGIC - 245 LB}
+
+{[Pharus, Wrath of the Torchbearer] v.03
+
+IS NOW
+
+[Pharus, Wrath of the Torchbearer] v.06}
+
+{[Pharus, Wrath of the Torchbearer] v.06 - Electronic Warfare Suite
+
+A simple Electronic Warfare Suite designed to breach targeted computer systems. The strength of the attack determines CPU load, with more frequent or sophisticated attacks requiring more computing power. Updating this program further expands the library of electronic warfare routines, increasing attack potency.
+
+Required CPU load: Varies, min. 8% at current CPU quality.
+
+Required RAM: 10 LKB
+
+>>Features:
+
+.03 - Leaves a traceable signature inside the target user that allows other users to track programs run by the target user. This is true for all users connected to the current system.}
+
+.06 - Updating this program further expands the library of electronic warfare routines, increasing attack potency.
+
+{Memory: 28/40 LKB RAM}
+
+The tolling of a bell rippled from my chest, mixing with the chaotic sounds all over the Plaza. But though the sound was quieter, almost reluctant, it still was loud enough to garner unwanted attention. From the corners of my eyes, I could see people around me perking up. The Ferals all turned to me as one.
+
+Logic rippled over Pharus, distorting its features. The weapon thrummed with power, the cyan glow concentrating on its fiery tip, turning the flame from teal to a brighter blue. It was still a few shades darker than the noble glow of Logic, but definitely bright enough to blind anyone foolish enough to look directly at it in the dark.
+
+Good. It was hot enough to melt flesh, now.
+
+“Sultana!” Zephyro said, his quiet disappointment drilling into the hot shell of my rage. It sounded so much like Patti. It stung, and I inhaled at the sharp sensation in my core.
+
+The Logic built in my lungs. It roared, demanded I be better.
+
+I was tossed between the hot safety of my rage and the cold tides of my shame.
+
+“I don’t want to be angry all the time, Patti. I don’t want to push people away, and lose them.”
+
+“Then don’t be angry, Sam. Be something— someone else.”
+
+I tried blinking the memories from my eyes as the intense pressure of my Logic crushed my chest from the inside out. I groaned in pain and frustration, and a whisper of cyan escaped my lips.
+
+{CONSUMED LOGIC - 30 LB}
+
+{AVAILABLE LOGIC - 215 LB}
+
+{[Arx, Saint’s Embrace] v. 0.1
+
+IS NOW
+
+[Arx, Saint’s Embrace] v. 0.3.5}
+
+The bell struck again, its ring overlapping with the first, mingling, amplifying each other like performers in an orchestra. Two tones, different scales, same harmony. They reverberated with enough force to make me feel it in my stomach.
+
+My armor glowed, first a gentle azure, then a blue so radiant, it was almost white. Within a second, my entire body rivaled the dying stars above. I had to close my eyes, lips pressed together in a desperate attempt to control the relentless buildup of Logic. As the pressure inside me receded, I could feel my gloves and boots lengthening, hugging my forearms and shins with their soft protection. The rest of my armor became more padded, too, and I knew that any strikes would now hurt far less.
+
+{[Arx, Saint’s Embrace] v. 0.3.5 - Network Security System}
+
+{A simple Network Security System automatically monitoring incoming requests for access. Repeated requests or advanced methods of forcing system access cause a [HIGH] increase in CPU load. Sufficiently sophisticated attacks will bypass this program entirely. Automatic shutoff at [80 °C] core temperature.
+
+Required CPU load: Varies, min. 9% at current CPU quality.
+
+Required RAM: 5 LKB}
+
+{Memory: 30/40 LKB RAM}
+
+The Ferals’ heads were trained on me like I had just opened a can of pet food. I had just enough time to breathe a silent “Fuck…”, then the menagerie broke into a mad dash, straight towards the idiot who had just publicly spent Logic like it was candy.
+
+“They're coming,” I grunted, my fingers tensing around my Torch’s handle as the last of my Logic retreated into that eternally musical place in my soul. It hadn’t gone as I had planned, but I had kept control. That was what counted, for now.
+
+One rat was faster than the others and made it ahead of their formation. With my pulse beating in my ears, I readied myself to test the improvements I had made on Pharus. But then an overlay appeared above the Feral, and it made me curse and dodge the Feral’s attack instead.
+
+[IlcuHNtoD-113]
+
+[Absolute danger level: low]
+
+[Relative danger level: medium]
+
+The rat recovered with uncanny speed, its dirty claws and foul teeth trailing a sickly yellow light as it spun. Just a split second later, it was on me again, jumping with its jaw extended to bite deep into my arm. I flared the Torch and rammed it into its underside, using its own momentum to propel it over my shoulders.
+
+[>>PROCESSES BY USER IlcuHNtoD-113 ARE NOW HIGHLIGHTED]
+
+Zephyro did not waste any time and yelled something powerful in Arabic. The giant moon that hung over the Plaza shot a powerful tendril of red and white into the rat’s cybernetic frame. The beam of moonlight pulsed once and sent the rat spasming as it landed. The red tinge on the moon receded a little bit, but the next two rats were on me before I could think about what that meant. Dodging one of the Ferals, I flared my Torch and hit the other, but only after it left a green crackling gash on my armor.
+
+{CPU Load: ▲ 60%}
+
+{Core Temp: ▲ 69° C}
+
+[>>PROCESSES BY USER IlcuHNtoD-124 ARE NOW HIGHLIGHTED]
+
+I didn't bother to check if Zephyro dispatched it, and instead spun around, activated my torch's ability, and slammed it on the back of the other rat. I managed to hit it while it was still turning. Have I gotten faster? Is that practice, or a program?
+
+[>>PROCESSES BY USER IlcuHNtoD-312 ARE NOW HIGHLIGHTED]
+
+A second after Zephyro yelled a battle cry behind me, an ear-piercing screech made my hair stand on end. Two rats down. Rat number three, however, did not give up. It hissed in anger and tensed, readying itself to pounce on Zephyro.
+
+I did not give it the chance. Stomping on its tail, gripped my mace with both hands and brought it down again and again, grunting with exertion at every strike. It only took five pummeling hits before the rodent exploded and released its Logic.
+
+{INCOMING LOGIC - 45 LB}
+
+{INCOMING LOGIC - 53 LB}
+
+{INCOMING LOGIC - 51 LB}
+
+{AVAILABLE LOGIC - 364 LB}
+
+Three down, but it wasn’t over. I drew in a sharp breath as I spun towards the remaining Ferals.
+
+{CPU Load: ▲ 65%}
+
+{Core Temp: ▲ 72° C}
+
+With the hit the rat had scored and the energy I’d put into killing the rats, I had expected my core temperature to be close to breaking Arx, but I felt barely winded. It seemed that the upgrades didn’t just increase in price, but also in potency.
+
+Perhaps Zephyro was right. Perhaps my potential really was limitless in this world.
+
+My nerves settled into a deadly calm, drawing every contour in sharp detail, and I felt a grin spread over my lips. I truly loved this feeling. Intent pulsing in every motion, absolute certainty directing my every move. Nourished by my rage, the battle calm had been my reliable companion through many battles, crushing my fear and burying my uncertainty until only cold, hard purpose remained.
+
+I was facing three rats, with the hyena hovering in the far back. The Ferals seemed to notice the change in me as well, slowing to a hesitant prowl, even as my stance relaxed. Snorting a derisive laugh, I eased even further. I was completely open, and if Stax could have seen me, he would have blown a fuse. But still, the Ferals didn’t so much as twitch in my direction.
+
+This feeling I remembered, too. That aura of fear that shrouded me like a cloak. At some point, people had started fleeing when they heard the whine of my power armor, I had to invest a week’s worth of my Wish into muting the servos.
+
+The Hyena at the back melted into a ball of smoke, then reappeared sprinting towards the edge of the Plaza. At first, I thought it was fleeing, but then I spotted a group of straggling citizens. They’d probably come out of an alley and were trying to hide in an open storefront, but the Feral had gotten their scent.
+
+I frowned and wanted to dash after the hyena to mark it, but the second I turned, the rats dashed forward, encircling me. I swung, trying to mark them, but they dodged back.
+
+“The Hyena is heading for those people over there!” I yelled as I swung once again, keeping the Ferals at bay.
+
+“Go! I got this.”
+
+Zephyro hesitated for a second, but when I shot him a look, he bowed and hurried toward his people.
+
+Again, I wished I had my power armor and my real Torch. Not this replica. If this had been a real battlefield, the rats wouldn’t have circled me as they did. They’d have run, just like the soldiers had when they heard the merest whisper of my servos, or the distinct hum of my weapon.
+
+There was no reason it couldn’t be like that again, my fury whispered sweetly in my mind. I didn’t have my Wish anymore, but the Logic was almost as good.
+
+Briefly, that painful memory flashed before my eyes again, of Patti asking me who I wanted to be, and if the anger would really get me there.
+
+Yes, of course, the anger said. It would keep me going.
+
+I just needed to kill as many Ferals as I could, take their Logic, and shape it with my will. The beasts wouldn’t even know what hit them, and if I just kept to this serene battle calm and kept advancing, soon the Shackled wouldn’t be much of an obstacle, either. Then I’d find a way out of this computer, get my body back, and make the Mage Lords pay.
+
+Or perhaps… did I even need my body? With enough Logic, building an android would be child’s play. Of course, I’d need to find a way to use Logic in the real world first, but that was just a matter of time.
+
+All I needed to do was keep the weakness in its hole, and I knew my anger would always be there to help me to do just that.
+
+I just had to let it in again and let it shape me into who it wanted me to be.

@@ -1,0 +1,287 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.16.3 - Inattentive Blindness.avi-1]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//The Feet, mechanical, go round – //
+
+//Inattentional blindness or perceptual blindness (rarely called inattentive blindness) occurs when an individual fails to perceive an unexpected stimulus in ...//
+
+//Gotta watch out, that’s how it happens.//
+
+[>>DATA CORRUPTED]
+
+E1 %Watchful presence? They turned a blind eye to pretty much everything that didn’t immediately benefit them! Crime was rampant, and their “watch” mostly fell on people who could threaten them!”
+
+{CONSUMED LOGIC - 300 LB}
+
+{AVAILABLE LOGIC - 55 LB}
+
+{drivers_sensory_Sam_v_0.1
+
+IS NOW
+
+[Ardor, Visionary Ambition] - v 1.0 - Interface Driver Solution}
+
+{NEW PROGRAM INSTALLED:}
+
+{[Ardor, Visionary Ambition] - v. 1.0 - Interface Driver Solution}
+
+{A suite of subroutines designed to gather information from devices directly connected to or remotely interfacing with the local system, as well as render them in virtual-metaphoric realities
+
+Features:
+
+.6 - calculates an estimate of targeted systems’ overall capabilities.
+
+Required CPU load: 2% at current CPU quality.
+
+Required RAM: 5 LKB}
+
+[//run ardor.exe]
+
+{MEMORY: 23/20 LKB RAM}
+
+{INSUFFICIENT MEMORY}
+
+[//sudo exit ardor.exe]
+
+As the Bell tolled, further and clearer than before, my headache crested. I doubled over, hands on my temples, trying to stay upright as the words smashed into my mind. When the pain finally stopped, the last reverberation had already faded.
+
+That had been far more expensive than I thought. The entire world distorted for the brief time it took me to blink twice. For a moment I feared I was going blind, but when the hiccup was over, nothing obvious had changed.
+
+Immediately, I had a distinct feeling that something was wrong.
+
+I scanned the plaza but found nothing amiss. People were still fleeing into the palace, Zephyro still stood close, hands tensed around his sword as he glanced up at his moon. It was almost half red now, and I began to suspect that I wouldn’t like what happened when it filled out completely. I shook off the thought and continued my scan. City still on fire, palace still tall and imposing, shadows around the square still deep, mosaic covering the plaza still cracked and singed where the Ferals had spewed their…
+
+The Ferals’ corpses were gone.
+
+Chris, readout?
+
+[>>User CHRIs is currently busy: Code_dojo.exe]
+
+Come on, this is not the time!
+
+[>>User CHRIs is currently busy: Code_dojo.exe]
+
+Chris!
+
+...Beeeep…
+
+{SAINTECH M1X - Portable Computing Device}
+
+{Current Date/Time: ERROR}
+
+{Device Name: Chr1s’ Mag1c Key}
+
+{Operating System: memOS 11 - beta}
+
+{Language: High Tevan}
+
+{System Manufacturer: SAINTECH National, Ultd.}
+
+{System Model: SAINTECH M1X - Portable Computing Device}
+
+{BIOS: CHRIOS}
+
+{VeryX Version: VeryX 1.6 BETA}
+
+{Processor: SAINTECH Alpha 2 1400X 1-Core Processor}
+
+{Memory: 20/20 LKB RAM}
+
+{Available RAM: 0 LKB}
+
+{Hard drive: SAINTECH “Scripture” SLD - 20GB}
+
+{Network:
+
+- v1 Redtooth BUS
+
+- v1 Saint Serial BUS}
+
+{SYSTEMS:}
+
+{ACTIVE:}
+
+{[Pharus, Wrath of the Torchbearer] v.03 - Electronic Warfare Suite
+
+A simple Electronic Warfare Suite designed to breach targeted computer systems. The strength of the attack determines CPU load, with more frequent or sophisticated attacks requiring more computing power.
+
+Required CPU load: Varies, min. 8% at current CPU quality.
+
+Required RAM: 5 LKB
+
+>>Features:
+
+.03 - Leaves a traceable signature inside the target user that allows other users to track programs run by the target user. This is true for all users connected to the current system.}
+
+{DEFENSIVE:}
+
+{[Arx, Saint’s Embrace] v. 0.1 - Network Security System}
+
+A simple Network Security System automatically monitoring incoming requests for access. Repeated requests or advanced methods of forcing system access cause [VERY HIGH] increase in CPU load. Sufficiently sophisticated attacks will bypass this program entirely. Automatic shutoff at [80 °C] core temperature.
+
+Required CPU load: Varies, min. 9% at current CPU quality.
+
+Required RAM: 3 LKB}
+
+{PASSIVE:}
+
+{memOS - 3 LKB}
+
+{SAINTECH DPM v.9 - 7 LKB}
+
+{INACTIVE: [Ardor, Visionary Ambition] - v. 1.0 - Interface Driver Solution}
+
+{A suite of subroutines designed to gather information from devices directly connected to or remotely interfacing with the local system, as well as render them in virtual-metaphoric realities
+
+Features:
+
+.6 - calculates an estimate of targeted systems’ overall capabilities.
+
+Required CPU load: 2% at current CPU quality.
+
+Required RAM: 3 LKB}
+
+{CPU Load: - 35%}
+
+{Core Temp: ▼ 69° C}
+
+{Memory: 20/20 LKB RAM}
+
+“Ungh… FFFFffuuuck…” I groaned. Fortunately, my splitting headache receded as quickly as it had built. And just when I had thought I was good, I heard a gentle chime, followed by more power-tool-drilled words.
+
+[>>You may always request this report by using the mental command “VXdiag”]
+
+“No thank you,” I hissed.
+
+Chris was usually dismissive an easy to annoy whenever they dug their teeth into a problem, but this wasn’t like them. Perhaps…
+
+Chris— are you seeing what’s happening in here right now?
+
+Boop.
+
+[>>User CHRIs is currently busy: Code_dojo.exe]
+
+Oh for fucks’— Remember Veltruvia?
+
+Beep.
+
+It’s that, but worse.
+
+Boop!
+
+No kidding. So can you please grow the fuck up, and pay attention?!
+
+I’d meant for it to sound teasing. Instead, it sounded sad and angry, even to my own ears.
+
+Beep…
+
+It was such a sorry, quiet sound. I winced.
+
+Sorry, Chris, I—
+
+“Sultana!” Zephyro yelled, frantic, grabbing my shoulder and pulling me out of the conversation.
+
+“What?” I snarled before I could school my thoughts. The smoldering thread in my mind flickered with heat. For a second, I was tempted to just let it go, but I needed it. Just a bit longer, until Zephro, his people and I were safe behind the palace walls.
+
+Zephyro urgently pointed toward the crowd, and I turned just in time to see an older man falling to his knees, spasming. Then the screaming started in earnest. The people panicked, scrambling to get away from the collapsed man, but I still didn't understand what was going on. Why was that guy—
+
+“More Ferals, Sultana!"
+
+“Where?” I asked, straining to see.
+
+Oh god, fuck! The sensory suite!
+
+I dug through the information still echoing through my awareness, and it proved my suspicions correct. By upgrading the sensory suite, I replaced it with a new program called Ardor…A program that cost too much RAM to run.
+
+"Sultana, we must help them!” the tremble in his voice wormed its way deep into my heart, coaxing my fear alive. He looked at me with all that infuriating hope. But if Zephyro with all his might couldn’t stop this, what was I supposed to do? Wouldn’t it be better to just accept the inevitable…?
+
+Just lie down. Stop.
+
+I immediately stomped on that nonsense. No time to be weak.
+
+“I lost my sensors, I’m as blind as you are!” I said, thinking frenziedly.
+
+Zephyro looked at me, then at the crowd.
+
+Another woman glitched and exploded into cyan smoke, which immediately dissipated into thin air. Any second, there would be another one...
+
+“Allahu’akbar…” whispered Zephyro.
+
+“Jesus…” whispered I.
+
+There was no time to waste.
+
+Forward, always forward, just don't stop, don’t let it set in.
+
+The readout had been clear in that my current RAM wasn't enough.
+
+More RAM, then. I can fix this.
+
+I inhaled sharply…
+
+{INSUFFICIENT LOGIC}
+
+{AVAILABLE LOGIC - 55 LB}
+
+{RAM T0/HI: REQUIRES 90 LB}
+
+The air left my lungs as a savage hiss.
+
+“Not enough Logic!” I said through gritted teeth.
+
+Another civilian died, screaming. It was a young man, barely an adult, and Logic spewed from his eyes like geysers as his scream ebbed away. That was raw power. I’d just need a little bit… Zephyro’s mouth opened soundlessly, the fires of his burning city sparkling in his eyes as he watched the cyan stars that had been a person, vanish. That sight sparked a memory, and that memory was what pulled me back from the edge, this time.
+
+“Sam, they got some sort of invisibility spell!”
+
+My vision flashes red as the thermal scanners come online, and my vision sharpens.
+
+My Torch erupts into violence.
+
+My vision clouds with boundless rage as Zurne’s body goes limp in my arms.
+
+I can feel his life fading, even as our skin is kept two inches of plastisteel apart.
+
+Later that night, as his body grows cold, it’s the first time I can’t sleep because the rage burns so hot, it makes me sweat.
+
+The Logic vanished into some unseen mouth. I twitched, fighting with the urge to just run into the crowd. Go wild. Fight. Submit to Strife. While I was in there, I could take the Logic left behind by the citizens. Just the ones that were already dead. It would give me enough Logic to... Fortunately, I couldn’t bring myself to do it. And while a small, frightened part of me was glad for that, another searched frantically for a way out of this mess. As my anger snarled, barely contained behind flimsy thoughts and hopes, I skimmed through what I remembered of the readout in my mind. At the same time, my weakness—overstretched between wails of people being brutalized, the terror of savage enemies I couldn’t see, and the heat and stench wafting against me from the blazing architecture around us—clawed at my mind. I smothered it with furious indignation just barely before it could take hold.
+
+I needed to think, and fast.
+
+Before I lost control.
+
+Without Logic, I couldn’t upgrade my RAM.
+
+Without RAM, I couldn’t see.
+
+Without seeing, I couldn’t—kill and take more Logic and finally grow strong enough to be safe forever.
+
+I just wanted to be safe…
+
+Who do you want to be, Sam?
+
+I clenched my teeth. There was no way I’d get more Logic that I could see. Not without breaking a promise I’d made to Zephyro, and myself.
+
+Remembering the oath made something click, venting that violent spiral my thoughts threatened to become into a new, terrifying direction.
+
+This wasn’t just about me, no matter how much that vein of fury pulsed in my mind. There were people out there, dying while afraid that their friends or family would be next.
+
+And I could do something about it.
+
+But only if I stopped caring about myself.
+
+I couldn’t get more Logic to upgrade my RAM to see, not without crossing a line I promised myself I’d never cross.
+
+Not without becoming someone I’d rather kill than look at in the mirror.
+
+But there was another way to free up some memory.
+
+My body started shivering with adrenaline as the thought took hold with grim determination.
+
+Chris, take down the firewall.

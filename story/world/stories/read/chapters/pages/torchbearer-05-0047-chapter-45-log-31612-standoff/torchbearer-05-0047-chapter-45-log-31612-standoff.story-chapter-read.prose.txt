@@ -1,0 +1,291 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.16.12 - Stand/off]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//So if a Mexican standoff involves three parties, what do we call a standoff with 4 parties? Would that even be possible? I guess it would, if every one were strong enough to hold three opponents at bay…//
+
+//It had four arms. Four. And a weapon in each. With one swing, it could fell mountains, so what if it attacked fourscore?//
+
+[>>DATA CORRUPTED]
+
+E1 %She wasn’t a Mage Lord! Under her rule, people prospered.%
+
+At this exact moment, a hideously mutated scorpion clattered out of a nearby alleyway. Its pincers were completely misshapen, one claw replaced with a chainsaw on one side and mashed-together rebar on the other, the other claw boardroom-black, sparking electricity like an arc furnace. Its tail had been replaced with a triangular device, humming ominously and glowing blue like a forgotten nightlight.
+
+[D3-C0nstruct]
+
+[DPM filesize: >XX LKB]
+
+[>>Calculate exact filesize?]
+
+I quickly accepted the prompt and staggered a little as hot exertion overwhelmed me once more.
+
+{CPU Load: ▲ 100%}
+
+{Core Temp: ▲ 77° C}
+
+Luckily, my CPU had time to cool down, or else it probably would have melted. As it was, it merely got dangerously close to losing Arx again.
+
+[D3-C0nstruct]
+
+[DPM filesize: 1.56 LMB]
+
+That was not good at all. And just as I was beginning to think about how we could attack this thing, something stirred in the darkness beyond the square.
+
+If Pharus hadn’t been wrapped around my arm like it was, I might have dropped it, hyena skull and all.
+
+A giant snake slithered through the arch, its mass grinding against the walls as it undulated. I thought I had seen it before, when it had been culling fleeing citizens on the main thoroughfare like a child taking bites out of a cookie. But I couldn’t be sure anymore, because it had gone through horrible changes.
+
+I would almost have described its entrance as majestic, if its body hadn’t been so hideously mutated.
+
+Instead of scales, its skin was made of mismatched, segmented electronic parts. Unknowable machinery hummed and whirred, as it moved, fans whined desperately whenever it hissed, and metal teeth gnashed against each other in places where no body should have mouths. Its main face didn’t just sport two, but eight fangs, and they all dripped with the same acid I had come to associate with burning pain.
+
+[The Eternal Riddle]
+
+[DPM filesize: >XX LKB]
+
+[>>Calculate exact filesize?]
+
+“It must have eaten the wolf,” I mumbled to myself, stunned.
+
+“What?” asked Zephyro. His own eyes wide as he stared up at the beast.
+
+“Wait… Zephyro, you can see it too?”
+
+“The hellish abomination under the Arch?” He replied, still staring at the mass of scrap metal and nightmares.
+
+“Yeah, that one…” I said, voice as small as I felt.
+
+He nodded, and then he did something that surprised me; he turned and smiled.
+
+It caught me by surprise, and I smiled back, a little uncertain.
+
+“Our foes are as the sand under our feet, Sultana.” The Vizier said, firelight twinkling in his eyes. “What is one more grain in the desert?”
+
+I scoffed. “That’s some damn ugly sand.” The Snake hissed, and it sounded like a thousand misaligned fans screeching against their casings.
+
+“So you’re saying you can take it?” I asked again.
+
+“Inshallah.”
+
+Bemused, I noticed that gave me more confidence than I would have thought.
+
+I wouldn’t even attempt to analyze a Feral that called itself The Eternal Riddle. It would just be a waste of CPU runtime. If Zephyro told me he could take it, he could take it.
+
+So instead, I scrounged up what resolve I could. In one decisive strike, I bashed the hyena skull that still clamped around Pharus against the ruined mosaic, shattering the bone into a thousand pieces.
+
+“I think I saw that snake before,” I said, shaking Pharus to get rid of some leftover teeth. “On the main thoroughfare. You know, when...” Panicked eyes and an unspoken plea flashed in my mind.
+
+“Ah, Sultana, that is possible. It is bigger now, yes?”
+
+I nodded.
+
+“Indeed, it is the way of the Ferals,” there wasn’t even a whisper of reproach in his voice. “They will band together as long as they need to, but once one of them gets strong enough to defeat the others, it will devour all of them and add their strength to its own. God knows; In their madness, they know only greed.”
+
+I had just opened my mouth to answer when a house on the other side of the Plaza exploded and dozens of spiders poured out of the gap. They ranged from small, nimble beasts no bigger than my forearm all the way to monster-truck-sized arachnids that left deep gashes in the ground wherever they walked.
+
+I cursed. “Spiders, left side of the plaza.”
+
+“Ya Ibn el Sharmouta!” Zephyro spat.
+
+I did not need a translation for that one.
+
+“How many? And how strong?”
+
+I had plenty of foes to choose from, but identifying the most dangerous one was still an issue. Ardor took too long to provide me with the data I needed. Whenever I needed to scan an enemy, valuable seconds ticked away until I got useful information, and there was always the risk of my target being so complex that I would completely wreck my CPU.
+
+Again I fought my urge to just charge in and let the dice fall as they may. I had learned that even the smallest enemies could pose the biggest threat on this battlefield.
+
+Case in point: that tiny little spider from earlier. The one I’d thought was harmless. The one Zephyro had to kick through a wall before it gave up and died.
+
+Rushing in wasn’t an option unless I wanted to get myself killed.
+
+I had to keep calm.
+
+I mustn’t fail.
+
+There were just so many…
+
+I was alone.
+
+I wasn’t strong enough.
+
+I wouldn’t be able to—
+
+I was useless.
+
+And so my thoughts began their spiraling descent at the worst possible moment.
+
+It was typical.
+
+I was so damn stupid.
+
+My anger was there.
+
+My blood pulsed in my ears again.
+
+I was all alone. I should just give in.
+
+Oh no, please, not again…
+
+[>>User CHRIs is currently busy: Code_dojo.exe]
+
+[>>User CHRIs is currently available]
+
+[//compile remote_access_array_alpha_001.exe]
+
+[>>compiling… 1%]
+
+I gasped. The words raked my brain, and my attention reset to the moment. If Chris hadn’t finished when they did, I would—
+
+[>>compiling… 3%]
+
+Hope flashed, then flickered.
+
+“Chris is done!” I burst out, shedding the shackles of my fury.
+
+“With…?” Zephyro asked. He had unsheathed his sword as he regarded the snake.
+
+“I’ll get control of the turrets, soon,” I said and caught him breathe a sigh of relief.
+
+“God is with us today, Sultana. The Old Guard are many things, and not all of them good, but they are as loyal to you as my fiercest warriors. Once you can invite them in, they will help. How long will it be?”
+
+“Still need a bit more time. Program’s compiling.”
+
+“Ah Sultana, it will be done in time, inshallah,” Zephyro said, and with a quic glance at the people trickling into the palace, he fell into that odd looking pose again, drawing a circle with his sword.
+
+“We just have to give Allah enough time to work a miracle,” the vizier finished, and thrust his sword skyward. The moon pulsed from red to white as Zephyro’s frame flickered through several states, until it reset to a completely undamaged form, clad in his anachronistic riot gear.
+
+As the soothing energy of the moon flowed into me, I forced my aching jaw to relax, tightened Pharus’ chain around my arm, and braced myself for the assault to come. The plan was to take a stand, mark each enemy as they approached, and then do my best to keep Zephyro’s back as he dealt with them, one after the other.
+
+We didn’t even have to kill them all. We just had to stall until Chris finished compiling the turret control program, and then we could retreat into the palace.
+
+Just a little more time, was all.
+
+The Ferals approached with surprising caution, which was confusing at first. I had come to expect that sort of behavior from Ferals at the lower end of the spectrum, like the rats and the spiders, but the scorpion seemed as strong as the wolf we had killed earlier— if not stronger—and I didn’t even want to think about The Eternal Riddle. If all of them piled in on us at once, I’d…
+
+We’d…
+
+In that funeral of a moment, a peculiar twitch of the scorpion’s tail caught my attention. Then I realized it wasn’t pointed at us, but at the spiders. The arachnids were also not fully committed to us but had split into three groups, each led by what looked like a truck-sized server rack on eight cable-bound legs.
+
+And was there an uncertain tilt in the snake’s misshapen head?
+
+My hope shone a little brighter.
+
+As if to confirm my suspicions, a low growl rose from the snake’s many mouths, endlessly rising and sour and poison-violet. My breathing quickened, and not just because of the horrible sound worming its way into my mind. The scorpion and all the spiders froze in place, staring at the snake, and that told me everything I needed.
+
+“Zephyro…” I whispered, careful not to break the stained-glass silence left after the snake’s growl ended.
+
+“Yes, Sultana?” He answered in the same tone, hand on his sword, yet undrawn.
+
+“They’re not part of the same group. If we’re lucky, they’ll attack each other, and wear each other out.”
+
+I was about to suggest we head back into the palace, wait to see who survived, and then return for the coup de grâce when I caught Zephyro’s frown.
+
+“What?” I asked, but I knew the answer before I finished the word.
+
+“Ahhh shit, the Logic.”
+
+“Indeed, Sultana. We can ill afford the beasts to feast off each other.”
+
+“But…” I turned to find the last of the refugees heading into the palace. A single guard stood in front of the small side gate, grim and determined, signaling the all clear and motioning for us to come inside, to safety.
+
+For a second, all I wanted was to run toward that little frame of warm light, toward the heavily armored woman promising to make all my problems go away. Weak, my anger snarled, and unfortunately, I agreed.
+
+The thought sent me reeling on that thin line between action and despair, and I turned around before I could think further and risk falling.
+
+The moon above pulsed its glorious light, asking me to make use of its benefits while it lasted.
+
+I set my shoulders and sighed, and somehow that helped.
+
+“Into the fray, we go,” I said, wistfully.
+
+“Into the fray, Sultana,” Zephyro echoed.
+
+The monsters started to move.
+
+The spiders from one side, the scorpion from another, the snake from straight ahead.
+
+Every second, they inched closer to each other.
+
+Closer to us.
+
+“I’ll mark the Scorpion, then focus on killing the smaller spiders while marking the big ones for you?”
+
+“There are big spiders?”
+
+“Yeah, about as tall as a tru— a really big cart?”
+
+“Anything special about them?”
+
+“Yeah, they look like server racks, and they’re keeping at the back of the clutch. Looks a bit like they’re herding the smaller ones.”
+
+“Hafizani allah min hadha alhura' almutlaq” Zephyro mumbled, exasperated.
+
+“What?”
+
+“I do not like Spiders, Sultana.”
+
+“We have so much in common,” I sighed, circling Pharus around my wrist. The chain clinked quietly, like it was getting ready, too.
+
+Zephyro laughed at my tone. “Indeed we do, Sultana! Indeed we do!”
+
+“Anything else?” I asked while anxiety swallowed our mirth, and the moon devoured itself above the plaza.
+
+“My people are safe, and for this I owe you a thousand thanks. Now, after all my selfishness, I will pay what is due in the blood of your enemies. And as it is spilled, so is your Blessing liberated. Do not let them take it, Sultana. Remind yourself it is sacred, and yours alone.”
+
+I snorted, but I felt his words settle onto my shoulders like guiding hands, and the urgency of his voice made my jaw tense in determination.
+
+“Indeed, oh Vizier,” I said, and it was his turn to chuckle.
+
+[>>compiling… 10%]
+
+Then the spiders surged.
+
+[T3h_skitt3ring_m1nd]
+
+[DPM filesize: XX LKB]
+
+[>>Calculate exact filesize?]
+
+[ThY_ski1töring_t|d3 #28]
+
+[DPM filesize: XX LB]
+
+[>>Calculate exact filesize?]
+
+More hope. While the large spiders looked imposing, by their readout I could tell their power levels hovered in the same range as the fog beast I had killed earlier. The smaller ones were even weaker, and I was sure I could probably kill them in one hit.
+
+As the mass of twitching metal screeched closer, I glanced at a few other spiders at random and found that they all ranged in the same two-digit LB and LKB area respectively. Considering what Zephyro said, that was a necessity. If they didn’t retain an equilibrium, the cluster would tear itself apart until only one last Feral remained, most likely stuffed with more Logic than it could process.
+
+Why the larger spiders hadn’t killed the smaller ones, I couldn’t say, but it made me worry they weren’t as mindless as Zephyro thought. Their strength lay in numbers, and somehow, they had evolved to leverage that fact. Perhaps there was a hint in their names, and the larger spiders served as some sort of hub for a hivemind? Everything was possible, one option more terrifying than the next.
+
+And that wasn’t even including the scorpion and that… thing with the mouths.
+
+I suspected the fact that those two had actual names instead of numbered letter salad wasn’t a good sign, either.
+
+[>>compiling… 11%]
+
+I wished I had the time and resources to check their exact strength, but I needed my CPU to stay cool before the next fight and didn’t want to risk a sudden spike, or even worse, tipping over at the worst possible moment.
+
+{CPU Load: 27%}
+
+{Core Temp: ▼ 63° C}
+
+It turned out to be the right choice, as the spiders rushing at us put on a burst of speed on the final stretches, one wave crashing into the scorpion, cresting over it as if to envelop it in full, the second slammed into the snake who seemed startled at the sudden attack, and the third was almost in range.
+
+“Ready?” I asked, letting the censer fall from my hand and unwinding the chain from my arm. They rattled as they hit the ground, and the sudden lack of pressure on my forearm made me feel weirdly exposed.
+
+“Of course, Sultana. Light the way.”
+
+And so I flared Pharus, pulled back my arm, and sent the head surging forward with as much force as I could muster, aiming straight for the hulking arachnoid server rack. It hissed, its bladed fans whirring and server blades opening, revealing an orb of searing hot magma inside its “mouth”. Pharus was on a collision course with the arachnid’s side, but to my surprise, several of the smaller Ferals jumped up to meet my attack. Pharus’ fiery orb met them in mid-air and while most of them died instantly, they robbed the attack of its momentum, and the censer fell away uselessly.
+
+I yanked it back with a disappointed grunt.
+
+At least the little spiders all released a puff of Logic, but before I could even attempt to absorb it, it got sucked into the red-hot mouth that now towered above me. A shudder went through the hulking monstrosity, then it leaned back, shivered, and regurgitated a splash of smaller spiders onto the floor. I was pretty sure it didn’t convert the Logic one-to-one, losing several spiders’ worth of mass in the process, but somehow, it just didn’t feel like a victory.

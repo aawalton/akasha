@@ -1,0 +1,321 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.19 - Executrix]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Ideas are worthless. Execution is everything.//
+
+///%)=( instruction cycle (also known as the fetch–decode–execute cycle, or simply the fetch-execute cycle) is the cycle that the central processing unit (CPU) follows from boot-up untilö73%//
+
+[>>DATA CORRUPTED]
+
+E3 %It’s that war that the Cities waged over The Path, right? About who gets to claim the upper reaches, close to the Cursed City?%
+
+E1 %I mean that’s true, I’m just surprised you know about the Reclamation Wars, but not the Torchbearer.%
+
+E3 %I know about the Torchbearer. Everyone does. I just don’t know the story. And I never will if you guys don’t stop fighting.%
+
+I watched the undulating wall of flesh and metal shift and warp. At first, I was worried the change would be over in a flash, but apparently, it needed time to shift its mass, or use the Logic, or whatever it was doing. We still had a bit of time.
+
+“Let’s kill it,” I said.
+
+“Deal,” Shellslinger said, smiling. “Let’s get ourselves a World First.”
+
+I wasn’t nearly as relaxed about the prospect of fighting that thing. It was nearly as big as the Palace. Images of Veltruvia flashed in my mind.
+
+Our western flank, Saint Samantha!! They have berserkers, and they’re breaking through!
+
+The memories made me relive the guilt of sending women and men to their deaths.
+
+The shriek of boosters engaging, breaking me free from the mud that is clutching my boots
+
+They made me remember the rush of victory.
+
+It’s the Torchbearer! Oh gods have mercy, it’s her! She’s here!
+
+The grim satisfaction of being feared and respected.
+
+We have drawn her out! Hold fast, men! Hold her as long as you can!
+
+Being annoyed at myself for falling for their trap.
+
+The powershielding on my armor yawns to life, casually deflecting countless projectiles as it rises from its slumber, breaking its fast on swords and axes.
+
+The terror of seeing Stax there with me. Why was he there?
+
+Fuck, Sam, why are you out here? Who’s in charge while you’re gone? I don’t like this at all, they have… oh fuck. SAM, GET DOWN!
+
+Why did he have to do something that stupid? I would have survived it.
+
+Ash all around me, warning icons flashing in my helmet, soot covering my torch. Stax’s armor, halfway molten and merged with his flesh despite the thermic substrata shielding. His eyes, so deep, so blue, still dancing despite the pain.
+
+She’s still alive! Fire! Fire for all you’re worth, this is where the demon dies!
+
+And there it was. The anger. Endless, boundless, hopeless anger.
+
+…who is the wielder, and who is the tool, Sam?
+
+I remember screaming, vowing vengeance.
+
+Stax’s body twitches as thousands of arrows descend upon us like a funeral shroud.
+
+Things had never been the same after that day.
+
+It felt like the old Sam had died on that battlefield, and the anger had taken over the corpse.
+
+A necessary act of vengeful necromancy, or so I told myself.
+
+And that was the beginning of the end.
+
+After the battle had been over, I’d walked straight through the closed city gates and killed anything that moved. I’d walked the boulevard, leaving fire and destruction in my wake. I’d walked to the throne room, and my anger had kept me inoculated against the petty mind tricks the emperor threw at me. I’d walked, always straight forward, never stopped, until my torch had molten her heart and set her empire aflame.
+
+I’d walked straight into our doom.
+
+That night, I’d lost all of my friends, even if I didn’t know it yet. Controlled by my anger, I had failed them all.
+
+I took a shuddering breath, eying Zephyro and Shellslinger. Despite only knowing them for such a short time, they each reminded me of my friends, even though they were obviously different people. A little bit of Underbrook and Patti in Zephyro, a little bit of Iruli and Dezin in the elf. It felt so dangerous. What if they became more than strangers?
+
+Then again, what if I lost them right now? They trusted me. I was responsible.
+
+No, I couldn’t let the anger get me again.
+
+Just as well, I couldn’t worry about calling in the Old Guard. If we didn’t kill this thing, the Ferals or the Shackled would storm the bunker, and they’d all die for sure.
+
+I needed to do this. The only other option was death, or worse, being alone again.
+
+“Chris, can you give me a tally of what I need?”
+
+Beep!
+
+[SAINTECH Alpha 4 1800X 1-Core Processor: REQUIRES 60 LB]
+
+[SAINTECH Alpha 8 2000X 1-Core Processor}: REQUIRES 90 LB]
+
+[SAINTECH Beta 1 1200X 2-Core Processor}: REQUIRES 300 LB]
+
+[SUM: 450 LB]
+
+[TOTAL SUM: 450 LB]
+
+[SAINTECH DPM v.9//Samantha_v1:]
+
+[Digital Personality Matrix partially corrupted. (62% integrity.]
+
+[Would you like to repair “Samantha_v1”?]
+
+[Requires 65 LB]
+
+[Sum: 65 LB]
+
+[Total Sum: 515 LB]
+
+[remote_access_array_alpha_001.exe]
+
+[No viable upgrades found.]
+
+[Manual Upgrade Required.]
+
+{//You may be less alone//300}
+
+{//than you think, Sam.//LB}
+
+[Sum: UNAV{300 LB}BLE]
+
+[Total Sum: 815 LB]
+
+{AVAILABLE LOGIC - 498 LB}
+
+[Difference: -317]
+
+“Damn,” I muttered as I struggled through the headache.
+
+At a kingly 815 LB, this upgrade better be worth it.
+
+The darkness had come closer at a steady pace, and licking at the edges of the parade grounds. Disturbingly, while the void proceeded to slowly immerse the Feral abomination in shadow, its mouths and eyes remained visible, staring out of the dark. Occasionally, they glimmered red and blue, betraying its true size.
+
+“I don’t want to rush you or anything, but we’re cutting it kinda close,” Shellslinger said, eying the pathways to the plaza. “Let’s get the teleportation over with, and move on to the killing.”
+
+“Well, after the stunt you pulled with the “loot”, I’m short 300-something Logic. Otherwise, I would already have your friends here, and perhaps even healed myself to full.”
+
+He laughed. “Yeah, that’s a good one. What were you going to do? Find a merchant, trade in the loot for gold, and then just buy a teleportation scroll? Or were you just going to craft it out of Logic?”
+
+“Actually, yes,” I said, eyes narrowing. I didn’t particularly like it when people questioned my skills at the best of times, and I wasn’t even remotely having the best of times.
+
+“That’s impossible, and you know it. Francois was very clear on that.”
+
+My eyebrow twitched, and I took a deep breath. I thought of power and wiping that Arrogant smirk off his face and—
+
+Oh Sam… Is that who you want to be?
+
+She was right. Getting angry at the people trying to help me wouldn’t solve anything.
+
+“Zephyro, any Shackled nearby I need to worry about?” I asked.
+
+He gave a reluctant shake of his head. “Not to my knowledge, Sultana, but I can not be certain.”
+
+That had to be good enough. I inhaled and reached for the Logic brimming inside of me, focusing on the readout still stuck in my mind like a kernel between teeth.
+
+Ah, so this is the Sam you were hiding down there…
+
+I exhaled, breath stuttering as Patti’s face flashed in my mind, endlessly forgiving, endlessly kind.
+
+{CONSUMED LOGIC - 60 LB}
+
+{AVAILABLE LOGIC - 428 LB}
+
+{SAINTECH Alpha 2 1400X 1-Core Processor (Tier 0, MID)
+
+IS NOW
+
+SAINTECH Alpha 4 1800X 1-Core Processor (Tier 0, HIGH)}
+
+The bell sounded clear this time, powerful and radiant, but there was something dissonant about its reverb, as if it couldn’t decide what sound to send into the world.
+
+It washed over us all as the Logic flashed around my head and heart like an ephemeral halo. Unfortunately, it also caused all the eyes that dominated the void to stare right at me.
+
+“Huh,” Shellslinger said, sounding as impressed as if I’d just downed three shots at once at an after-work bar crawl.
+
+“I take everything back. You can actually craft stuff out of Logic.” He shook his head. “Man, that’s broken.”
+
+Then he lowered his voice to a whisper he thought we couldn’t hear. “You do realize this means war, right? No. You definitely could have told me she can do that. You’re never getting out of that sheath ever again.”
+
+Zephyro and I looked at each other, and we silently agreed just to not talk about it.
+
+“We seem to have gotten its attention, Sultana,” he said.
+
+“Yep,” I said with a grimace. “And I still have several more upgrades on my list.”
+
+“This is most unfortunate, Sultana. Surely, the Ferals will soon swarm this place.”
+
+“Yep,” I said again. “And I need to be strong enough to fight them. If I’m not, I won’t ever get enough Logic to upgrade the array.”
+
+“Ah, Sultana, I don’t suppose you would allow the Old Guard to fight in your stead? If you were to invite the Guard first, you could rely on them to supply you with your Blessing…”
+
+I thought back to Veltruvia, to all the corpses wearing my colors. “No, Zephyro. I won’t let them fight without me. I can’t.”
+
+“I am sure that in your wisdom, you understand I merely want to keep you safe, Sultana…”
+
+“I know, Zephyro. Believe me. But the thing is, if I don’t upgrade my CPU to a level that can handle connecting to dozens of people at once, I will be absolutely defenseless, anyway. So this is killing two birds with one stone.”
+
+The Vizier grimaced, but ultimately, he nodded, and I took a deep breath, repeating the upgrade.
+
+{CONSUMED LOGIC - 90 LB}
+
+{AVAILABLE LOGIC - 348 LB}
+
+{SAINTECH Alpha 4 1800X 1-Core Processor (Tier 0, HIGH)
+
+IS NOW
+
+SAINTECH Alpha 8 2000X 1-Core Processor} (Tier 0, PRO)}
+
+If the bell sounded warbled and insecure before, now it stormed through the plaza with furious determination. Just a short, concentrated blast of sound that made Zephyro stagger and Shellslinger cover his face to protect himself from flying debris.
+
+Up in the endless night skies, countless mouths moaned their desire, and wide-tongued eyes twitched with rapacious bliss.
+
+Then, as if on cue, the Ferals came.
+
+Their eyes gleamed red in blind windows, their paws treaded whispers on broken cobbles. Their deformed bodies leaned over crumbling balustrades, and their laughing shadows snuck through defeated arches. First they were few, then they were many, then they poured out of dead ends, legion.
+
+I grasped Pharus, my fingers flexing on the hilt. My anger told me I could take them. It caressed my face until my cheeks burned hot, purring that I was powerful enough. But I didn’t give in.
+
+It didn’t like that, but I ignored it.
+
+I tilted my head at the oncoming horde and noticed something odd, like a strange aftertaste in your water. Yes, I wasn’t imagining it. The comforting weight of my torch, the fires roaring in their cage, the reassuring touch of my armor, everything had gotten just a little bit lighter.
+
+Or perhaps, I had just gotten a little bit stronger.
+
+{CPU Load: ▼ 37%}
+
+{Core Temp: ▼ 79° C}
+
+[>>Currently connected array endpoints:
+
+1) Shellslinger (6% CPU load)]
+
+Still, looking at the oncoming horde, I wondered if it would be enough.
+
+I told Zephyro as much, and he cursed something in Arabic.
+
+To his left, Shellslinger joined him, rifle in hand, aiming down the plaza and taking raven-powered potshots at the approaching tide.
+
+“Okay, I know you want to get in on the fight and secure your loot,” the Old Guard said between screeching blasts. “But this is definitely a raid for 20 to 40 people, and we don’t even have a tank or a healer.”
+
+I turned to him, a weak smirk on my lips. “You only want your loot.”
+
+He shrugged, aimed, fired, then aimed again. “I mean, doesn’t everyone? You know my terms. One item from the boss for you, all others for the guild. All other drops shared equally according to group size. I think that’s fair, given the circumstances.”
+
+“Still feels like extortion,” I said.
+
+“Hey look, I didn’t aggro the boss, that was all you,” Shellslinger said with a grin, while double-tapping a Feral with two ravens. “Now you gotta make a decision.”
+
+As if if were that easy. Something deep inside me screamed in panic whenever I thought about letting people I didn’t even know fight and die in my stead, while I lay on the floor, exhausted. It reminded me too much of the time after Veltruvia.
+
+“Sultana?” Zephyro said, calm and collected as always. Despite everything, he was still smiling, as if he knew something about me that I didn’t. Whatever it was, it convinced him I was actually worth it all.
+
+In short, he looked at me as if I wouldn’t ruin him, too.
+
+It would be so easy to prove him wrong, unthinkable to prove him right.
+
+Who do you want to be, Sam?
+
+I don’t know. But I won’t let my anger make dumb decisions for me anymore.
+
+At that moment, something moved behind Zephyro, large and slick and dangerous. Blissfully, my instincts took over just in time.
+
+With a roar, I pushed Zephyro out of the way and sent Pharus flying. The chain cut through the air like a reaper’s sickle cuts the night. With an explosion of teal flames, the censer impacted a tall humanoid figure. It was made entirely of something that looked like oil, and loomed in the middle of a swarm of spiders and rats and snakes. My teal flames spread hungrily, setting the creature ablaze.
+
+It howled an unwound-cassette plea, but did not stop its shambling advance.
+
+The Shellslinger didn’t waste a second, fell to one knee, and took aim. Then he sent a raven straight into the oily shape’s chest. Unlike what I was expecting, the projectile didn’t explode on impact, but instead formed a swirling black hole, which drew all creatures in a wide radius off their feet. The creatures screeched and snarled and screamed, creating a cacophony of technology as they were crushed together in the center of the dark globe.
+
+“Hit it!” the Guard yelled, and Zephyro raised his sword, bringing it down in one mighty swing. It extended into a giant sickle, gleaming moonlight-white. It was easily five times as tall the the Vizier, and when it fell on our enemies, time slowed.
+
+Cold fire spread from its edge as it reached the impact point, building in intensity for a breathless moment. Then the blade touched the center of the black hole, and the world went white.
+
+I staggered backward, shielding my face with my hands. It was so bright, I could see their outlines through my closed eyelids.
+
+So loud. So bright. Only Stax’s blue eyes remain, dancing in a white void to a sound only he can hear.
+
+With my ears ringing, I blinked my blindness away.
+
+The image of Stax’s eyes remained, as if he were still lying there on the floor in front of me.
+
+The combined attack had left the area around the black hole completely devastated, bathed in Logic, and bare of enemies.
+
+I panted, looked up, expecting arrows to rain down any second.
+
+Something warm and dusty pressed against my back.
+
+“Sultana?”
+
+I had thrown myself in front of the Vizier.
+
+Something landed on my shoulder, as light and hesitant as a bird. I jerked away. Zephyro’s hand, I realized.
+
+I can’t do this again for a minute, and we got incoming.” I heard the elf say.
+
+I nodded slowly, eyes not leaving the crater. A whine built in my ear, and I barely registered that the Old Guard said something else. When I didn’t answer, he scooped up his share of the loot. He might have even left me more than usual, but I didn’t care. I was still in Veltruvia.
+
+Zephyro’s face came into focus as the ringing in my ears faded. He was concerned, which caused me to slowly pull myself together.
+
+“Go,” I said. “Buy me some time.”
+
+But Veltruvia still held my mind hostage.
+
+Without a further word, the two men fell into a sprint, heading for the edge of the crater we had wrought. The Ferals were already pouring in again, like dark water into an empty bowl. They had begun to feast on the remnants of their fallen brothers, desperately funneling any Logic they could find to their chthonic master.
+
+I only had eyes for the crater. The moon shone above, bathing it red and white.
+
+As I return, I find red speckles on white fletching, as if poppies grew amidst countless lilies covering the crater.
+
+My anger rose, just as it had back then. It urged me to keep going, to fight, to get the Logic, to survive, but it was a distant buzzing now. I just wanted to lie in that crater and somehow make the past right.
+
+The song is over, just crows left, cawing for an encore.
+
+Stax’s eyes have stopped dancing.

@@ -1,0 +1,193 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.16.10 - CPR]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//As Freezing persons, recollect the Snow – //
+
+//Understand the Feral, children. You might be protected now, but you won’t be, forever. While you are in there, I want you to see how they act, how they think. It might just save you one day.//
+
+//Among the best-known toxic gases are carbon monoxide, chlorine, nitrogen dioxide, and phosgene.//
+
+[>>DATA CORRUPTED]
+
+E1 %They never found the bodies, so you can’t prove that. My guess is they just ran away, first chance they got. I mean, if my father had been as terrible as the Tradeweaver, I’d run away, too.%
+
+E3 %No, Voni! You’d stay and fight!%
+
+E2 %Hahaha, he’s right. You really would, you frying goody-two-boots!%
+
+All I needed to do to save the children was to give in once again. The anger would give me everything I needed.
+
+But to my surprise, as the Feral tensed, preparing to sprint after its fleeing prey, a whole other instinct answered my desperate call.
+
+“It’s just wolves, yes, but the Magic ‘as made ‘em grow, girl.”
+
+“Don’t call me girl, please. I’m probably older than you.”
+
+“Yeah, right, lass, and I got a hidden Skill and am a secret Mage Lord. Nah you listen to me, because I’m telling you: you don’t mess with the Wild. You sit tight and wait for the Lords to send their troops.”
+
+“And how long will that be?”
+
+“A few weeks? Months, at worst.”
+
+“Fuck. That.”
+
+Fuck that.
+
+I inhaled.
+
+Something strong and pure chimed deep in my mind.
+
+Once more, a vision of failure flashed before my eyes. Scraping the bottom of my willpower, I held it down, focused on brighter times instead.
+
+No more time to think than that.
+
+I let out a breath, clean and pure, brimming with cyan blue.
+
+{CONSUMED LOGIC - 300 LB}
+
+{AVAILABLE LOGIC - 0 LB}
+
+{[Ardor, Visionary Ambition] - v. 1.0 - Interface Driver Solution
+
+IS NOW
+
+[Ardor, Visionary Ambition] - v. 1.1 - Interface Driver Solution}
+
+{[Ardor, Visionary Ambition] - v. 1.1 - Interface Driver Solution}
+
+{A suite of subroutines designed to gather information from devices directly connected to or remotely interfacing with the local system, as well as render them in virtual-metaphoric realities.
+
+Features:
+
+.6 - calculates an estimate of targeted systems’ overall capabilities.
+
+1.1 - After a period of scanning, provides a more detailed estimation of the target systems’ capabilities. Causes [LOW-HIGH] CPU load, depending on the complexity of the target system.
+
+Required CPU load: Passive 2% at current CPU quality.
+
+Required RAM: 5 LKB}
+
+A bell, golden and mighty dominated the plaza with its single toll. It started as a comforting hum deep in my soul. It spread from my chest like ripples in warm water. It washed over the debris and the crowd and the Ferals with the sort of unyielding fervor only available to those who believe in helping. That did not mean it was any less powerful. No, this was a gentle, soothing power, not made to crush mountains but to move them.
+
+The pebbles around my feet shifted, loose stones finding their place in the family of their mosaic. When the ripple reached Zephyro, he found the strength to lift the slab over his head, and he turned to rest it on his back. He yelled for me to hold on tight as the more trapped victims fled from underneath.
+
+Overhead, in the endlessly dark night sky, the moon, still bathing the square in white and red, pulsed warmly. Within a second, the red glow that had crept way past the halfway mark had been banished back to its starting edge.
+
+The hyena, its gaseous form shifting like smoke in a hurricane underneath the power of my wish, turned to me as it braced itself against the torrent. Strands of acrid green spread behind it, stretching far. The smoke rushed away endlessly, billowing into a giant plume as it hit a wall at the edge of the square.
+
+The stone, once adorned with intricate carvings, went brittle under the smoke’s deadly touch, cracked, then dissolved. As more and more of the creature’s body was peeled away, its skull hovered ahead of its body, streaming green smoke out of its holes.
+
+I itched to rush forward and use this chance, but even with Pharus’ newly added range, I wouldn’t have been able to reach the hyena before the bell’s note faded.
+
+Then, Ardor surprised me with a readout.
+
+[F0G-Eat3r]
+
+[Bronze Ran(*)
+
+>>ERROR]
+
+[F0G-Eat3r]
+
+[Level 9 Fog Bea^@&^*()
+
+>>ERROR]
+
+[F0G-Eat3r]
+
+[DPM filesize: XX LKB]
+
+[>>Calculate exact filesize?]
+
+I blinked, surprised, and apparently, the program took that as a command.
+
+{CPU Load: ▲ 99%}
+
+{Core Temp: ▲ 75° C}
+
+[>>Calculating…]
+
+[>>Done.]
+
+[F0G-Eat3r]
+
+[DPM filesize: 12 LKB]
+
+I checked myself but didn’t get a similar prompt. No baseline, then, but my gut told me that this thing was no pushover. I was tempted to scan Zephyro as well, but there was no time.
+
+As the sound of my wish waned and died down, the beast’s form reassembled. It’s acid-bubbling snarl conquered the silence that my Wish left behind. It sounded ravenous, and even though the Feral had no tongue I could see, I got the impression it was licking its jowls.
+
+Then, using all its pent-up gluttony, it put on a surprising burst of speed, clearing half the distance between us in the blink of an eye.
+
+Definitely not a pushover.
+
+Despite my better judgment, I rushed forward to meet it, saw it pounce, sidestepped to dodge at the last possible moment and flicked my Torch, letting its spiked head slam against the monster’s temple. I half-feared, half-hoped that my attack would just pass straight through its gaseous mass, but I hoped against hope that I’d be able to land a lucky hit and crack its skull.
+
+However, Pharus sank into the hyena’s form instead, in the same way the flat side of a spoon sinks into jelly. Bright green paste congealed at the impact point, spattering across the floor as it dispersed the force of my attack. I’d hit the Feral on the apex of its lunge, and my blow changed its trajectory, sending it several meters off course. For a second I dared to believe I had actually done significant damage.
+
+The wound re-sealed before the beast even hit the ground.
+
+Pharus’ head bounced back, landing several meters away.
+
+The Feral landed in an almost graceful roll, its roiling shape shfting back up without any trouble. It looked at Pharus’ dark blue flame in a way I did not like at all, then gas surged forward from around its shoulders. It was trying to envelop the censer where it lay. I yanked my weapon back just in time before a torrent of smoke streamed onto the cobbles, dissolving them like sugar in warm water.
+
+“Fuck you,” I panted. “No touchy.”
+
+{CPU Load: ▲ 69%}
+
+{Core Temp: ▲ 76° C}
+
+As I pulled the censer back further, I noticed a mechanism to quickly fasten it to the handle, returning my weapon to its old form. I didn’t dare take my eyes off the beast for too long, but I managed to successfully fumble through the unfamiliar motion. The chain was a clear tripping hazard, so I wrapped it around my hand and forearm. I tried to look threatening as I did, and the Feral paced closer slowly, as if amused.
+
+The beast snarled, flaring its fog with an audible hiss, and once more closed the distance between us in the span of two panicked breaths. Its maw opened wide, an amalgamation of green smoke, dripping congealed acid, and rusty metal teeth, coming straight for my face. On instinct, I rammed Pharus—hilt, chain, and censer—into its mouth in a desperate bid to stop it from biting my head off, melting my face, or choking me to death.
+
+But when the wood and metal touched the fog, they slid right through, as the beast clamped its jaws shut with terrible force. My heart skipped a beat, but then both censer and pommel found purchase on bone, keeping the beast’s jaws open inches from my face. The Feral trembled with fury and power, dripping corrosive gel all over my gauntlet, which sizzled and popped wherever the liquid touched it.
+
+{CPU Load: ▲ 99%}
+
+{Core Temp: ▲ 78° C}
+
+Panting, I made eye contact, saw the fog roil like a loaded spring, and commanded Pharus to ignite.
+
+[>>PROCESSES BY USER F0g-Eat3r ARE NOW HIGHLIGHTED]
+
+The feral’s face burst into flames immediately. Heat battered my body, fiery gas rolled over me, boiling and distending: I did not let go of my weapon, kept flaring its power even as the chains wrapped around my arm heated up and began searing through my clothes. Smoke forced itself into my nostrils, no matter how hard I tried not to breathe.
+
+I hadn’t known it was possible for something to emit such a stench. Rancid machine oil. Fried electronics. Superconductors going haywire. They all combined into an acrid smell that would have given Chris a heart attack. As it was, it made me throw up in my mouth, but I dared not open it. So I held on to Pharus with all my might, my closed eyes stinging with acid tears, and in an act of defiance towards my own fear as much as the monster, I leaned forward and pushed Pharus even deeper.
+
+[DPM integrity]
+
+▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱ 35% ⚠ ▼▼
+
+{CPU Load: ▲ 99%}
+
+{Core Temp: ⚠ ▲▲ 79° C}
+
+Fuck, despite all my talk about being frugal and saving it for later, I had completely forgotten to regenerate my DPM. Thinking frantically, grasping for something else I could do, I reached for my Logic.
+
+{AVAILABLE LOGIC - 0 LB}
+
+Fuck… I spent all of it on Ardor. Despite the heat surrounding me, I felt cold. I should have advanced something else, should have saved more, should have spent it differently, should have—
+
+This power is not yours to wield, Witch…
+
+Be fucking careful, Sam! You can’t just—
+
+The power of the gods at your fingertips, and that is how you spend it?!
+
+You’re not worthy of this blessing, tyrant…
+
+No longer able to keep my mouth shut lest I drown in my own puke, I spewed it out, retching and needing air and getting a lungful of burning acid instead. My eyes flew open and I found myself face to face with the hyena as my throat caught on fire.
+
+Red eyes flashed insufferable data, the pain they revealed so disturbingly like my own. By chomping on the spikes of my torch, the hyena had effectively trapped itself. It couldn't bite down any further without driving the jagged metal straight through its skull. It also couldn't pull away, lest it ripped its own muzzle in two. It couldn’t shift its form away, because I had found its weak spot. All it could do was kill me before I killed it.
+
+Still staring at me, let out an ear-piercing sound, a mixture of a scream, a whimper, and a cackling laugh. Its eyes flashed once more, spilling crimson digits like tears.
+
+Then it made a decision, dug its paws into the ground, and pulled.

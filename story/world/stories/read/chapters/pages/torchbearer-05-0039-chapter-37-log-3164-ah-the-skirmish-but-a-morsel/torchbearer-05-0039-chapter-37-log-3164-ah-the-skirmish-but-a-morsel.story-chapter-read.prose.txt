@@ -1,0 +1,151 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.16.4 - Ah, the skirmish! But a morsel…]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//A Wooden way//
+
+//What even is an amuse-gueule?//
+
+//We talked about drugs, about alcohol and gambling. But Violence is like that, too. Some fuckers just develop a taste for it, after the first time they feel their fist connect with another man’s jaw.//
+
+[>>DATA CORRUPTED]
+
+E2 %Oh yeah? Well look at the world now! Look at the Takers! Tell me we live in better times now that the Mage Lords keep to their cities!%
+
+I got a quick series of notifications this time, despite the danger of the request. Chris was clearly paying attention now, and knew what I wanted to do. They’d always been like that.
+
+[//sudo quit Arx.exe]
+
+{[Arx, Saint’s Embrace] HAS BEEN DISABLED.}
+
+{Memory: 17/20 LKB RAM}
+
+[//run ardor.exe]
+
+[>>Now running ardor.exe…]
+
+{NOW RUNNING: [ARDOR, VISIONARY AMBITION] v.01}
+
+{Memory: 20/20 LKB RAM}
+
+My vision glitched again, and when it returned, I immediately grabbed my Torch and ignited it. There were only two reasons the citizens were still alive. One was that the spiders moved cautiously, probably because they hadn’t realized the men and women couldn’t fight back yet. The other, grimmer one was that there were so many people that the spiders couldn’t kill them quickly enough to make a dent in their numbers.
+
+Three spiders were harassing the refugees up close, tackling them to the ground and shocking them with their electric mandibles. Two more spiders, at the back, had begun wrapping people in webs.
+
+I froze.
+
+Dark teal light streamed along the webbing, straight into the feral’s ugly mouths.
+
+A high-pitched noise filled my ears.
+
+“Sultana, please!” Zephyro pleaded.
+
+I looked between him and the spiders.
+
+A child screamed.
+
+The rope inside me snapped taught, strands coming apart. My breath was coming far too quickly, and all the hairs on my body stood on end. I knew that any moment now, I’d turn and run, just like in that forest—
+
+With a piercing cry, I charged forward, fixated on the closest Feral. It was a webber, a bit apart from the crowd, with its back to me. My feet flew over the ground. My strides were too wide. I could barely control where I was going. I had crossed half the distance when a readout appeared, hovering above the Feral.
+
+[SuwfnGmachTn-2]
+
+[Absolute danger level: low]
+
+[Relative danger level: high]
+
+What was I doing?
+
+I slid to a halt, despite the rage bucking inside me, urging me to keep going, to kill until nothing was left that could threaten me.
+
+No. I had to think.
+
+I staggered, trying to get a hold of myself.
+
+Luckily, the Feral was too busy draining someone wrapped in centimeter-thick webbing and hadn’t noticed me yet. As I recovered a semblance of control, I worriedly scanned the other spiders. All of them showed the same threat rating. Absolute danger level low, relative threat level high. I couldn’t choose. My mind was swimming, teetering between exhaustion, fear, and rage like a drunkard on a 10-story rooftop.
+
+After a horrifying moment of having to watch the Feral drain its victim, I finally managed to fall back to tactical instincts I had honed for almost a decade, and paid for in blood.
+
+In my mind’s eye, everything stilled.
+
+When your enemy is already engaged in a melee, and you are attempting a flanking maneuver, the worst thing you can do is to announce your presence, giving away the element of surprise.
+
+Tobesian strategy had still been in the “form lines, run towards each other, then bash anything in front of you until one side remains standing” phase of military history when I first arrived on this world.
+
+Everybody had been looking at the big scary mass of troops up ahead, and nobody checked the woods behind them. Can’t march an army through a forest unnoticed, after all.
+
+Using the forest as cover and the resulting element of surprise, twenty people with guns— even primitive flintlocks—are frightfully effective against 250 armsmen, archers, and riders. Especially when the first shot knocks the general straight off his high horse.
+
+The screams had been music to my ears, and secured us a wide spread of land we later called Republic’s Cradle.
+
+A scream pierced my memories and drew my fleeing thoughts back to the here and now. Your mind would do that, I had learned. If something is too horrible to look at, your thoughts will go someplace else, and leave you just standing there like an idiot. I had thought I had been beyond that stage. I had been mistaken.
+
+I forced my eyes to wander over the slaughter before me, still struggling with that urge to just go and do something, to stop the screaming and pleading that would surely haunt my dreams for weeks, if not months. No. No rushing. I couldn’t help them if I was dead.
+
+I told myself that over and over. As always, it didn’t help, but it kept me focused.
+
+Finally, my mind started to obey again, and I found the weak spot I had been looking for. One spider off to my left started to radiate cyan light as it spasmed, growing additional legs. The Feral twitched in place as if electrocuted while its abdomen bulged and expanded. A large green orb, easily twice the size of its body, sprouted from its back to be held aloft on spindly, broken tendrils of welded metal. The process looked excruciatingly painful, but more importantly, it left the Feral incapacitated.
+
+[MTghEdsIope-1]
+
+[Absolute danger level: medium]
+
+[Relative danger level: high]
+
+I kept low and quiet as I approached, and Pharus’ pulse seemed equally subdued as I willed it to mark the next enemy I’d hit. I had crossed about two-thirds of the distance between us when the bright blue glow slowly softened, retreating into the insect.
+
+I cursed and burst into a full sprint, hoping against hope that the mayhem ahead would keep masking my approach. Ten more meters. Up close, it was larger than I had thought, the top of its torso reaching higher than my head. The last remnant of cyan faded, and the spider hissed in triumph, stretching its hideous body towards the void that ate the stars above. Cursing again, I broke into a sprint. My feet hammered the mosaic. Five meters, four…
+
+I was almost in range just when the spider froze and twitched its multi-faceted camera eyes in my direction. I broke into a slide that carried me the rest of the way underneath its bulging abdomen, and I rammed the Torch upwards, against its carapace.
+
+[>>PROCESSES BY USER MTghEdsIope-1 are now highlighted]
+
+The monster’s chittering was like the rattle of barbed wire against concrete, just infinitely louder. I didn’t have time to cover my ears, however, and darted to the side, already fixated on the other, significantly smaller webber, who had been alerted by the noise. It had interrupted its meal to stare in the direction of the disturbance, mouth still connected to a pulsing web like a bizarre caricature of someone eating spaghetti. It didn’t seem concerned at all and just kept draining its victim. Their screams grew quieter by the second.
+
+For an ephemeral moment, I dared hope that its feeding would keep it distracted and allow me to sneak up on it, but then it unfurled a plethora of weapons, attached haphazardly along its abdomen. They all pointed in my direction. It was obvious it knew I was coming.
+
+Fuck.
+
+Something large and powerful impacted the ground behind me, but I didn’t have time to check what. I only hoped that it was Zephyro, keeping my back, and not another Feral, trying to stab my back. Ahead, atop the hideous body of the spider, guns and aerials and sensors twitched in my direction once, twice, and then the Feral opened fire.
+
+I jumped to the right to dodge, which was a mistake. The spider’s weapons spun out of control atop their thin apertures, unable to handle the recoil. An assortment of all sorts of projectiles tore through the air, peppering every surface in a wide cone. Undeflected by my de-powered robe, an arrow hit my thigh and dug deep into the flesh, and a dart buried itself into my lower left arm while I was still in mid-dodge.
+
+[DPM integrity]
+
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱ 81% ▼
+
+The pain made me tense and fumble the landing. With a scream, I tumbled to the floor, and that cost me all my momentum. It gave the Feral more time to finish its meal, while haphazardly spraying the area around me with weapons-fire to keep me at bay. As the hail of projectiles honed in on my position, I rolled, barely dodging a smattering of pellets that dug into the floor and walls behind me. It sounded like hail against a windshield. Ignoring the pain in my calf, I rose like an Olympic sprinter, desperate in my attempt to close the last remaining meters between me and the spider. It kept up the barrage, but its cone of fire was so wide, it only hit me two more times: A bullet penetrated my coat underneath the ribs, and a razor-thin disc of spinning metal sliced along my cheek.
+
+[DPM integrity]
+
+▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱ 61% ▼
+
+The pain from my stomach mingled with the one in my leg, and only the desperate thought that this body wasn’t organic, that I wouldn’t bleed out kept me from tumbling into a cold stream of panic.
+
+Frantic, agonizing steps ate the distance between the Monster and me.
+
+When the beast noticed its ranged attacks wouldn’t be able to keep me at bay, it pulled one of its forelegs from its feast and pointed it threateningly in my direction. There was no mistaking the wicked gleam of blades running along the limb, telling me that even in close quarters, the Feral was anything but helpless.
+
+I didn’t stop, flaring my weapon in response. The flash of teal fire reflected in the Feral’s manifold, hateful eyes.
+
+Now forced to take me seriously, the beast finally broke its mandibles away from its webbed victim to turn fully in my direction. The bindings dissolved to reveal the glitching form of a crying woman, but the fact barely registered. My mind had found singular purpose, a state of transcendent violence where nothing but the next attack, next defense, next victory mattered.
+
+The ground raced beneath me. I raised my weapon. The spider chittered its horrible screech. I gripped the mace with both hands in preparation for a vicious overhead strike, but the beast dodged backward with deceptive speed, creating more distance and readjusting its menagerie of ranged weaponry in my direction.
+
+Then, from behind me, a bright blue explosion bathed everything in calming cyan. I grinned. Zephyro had come through and killed the Feral I marked. The spider ahead of me saw it, too, its horrible face thrown into stark relief. For a second, greed and caution warred in its manifold eyes.
+
+The greed won. The beast collapsed its weapons into itself, ducked to the side, and put on a burst of speed to get past me.
+
+But I was not about to let it claim my prize.
+
+I inhaled as I once more readied a swing.
+
+{INCOMING Logic - 151 LB}
+
+{AVAILABLE Logic - 206 LB}

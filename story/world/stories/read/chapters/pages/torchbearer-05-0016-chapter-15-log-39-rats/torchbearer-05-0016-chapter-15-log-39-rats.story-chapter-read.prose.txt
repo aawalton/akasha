@@ -1,0 +1,237 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.9 - Rats!]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Rats get a bad rep. For so many years people thought it was rats that transmitted the black plague, which ravaged the entire world, but (%/&$&!”//
+
+//The rats do not fear you.//
+
+//A rat king is a collection of rats whose tails are intertwined and bound together in some way. They are usually considered a bad omen, especially in medieval times.//
+
+[>>DATA CORRUPTED]
+
+E1 %The Torchbearer killed hundreds of monsters, saving villages wherever she could.%
+
+E2 %The witch spawned millions of monsters, driving them through villages so she could plunder them without anyone noticing.%
+
+Zephyro slammed his back against a nearby wall in an attempt to crush the spider. It was stunned and stopped biting, but it did not let go.
+
+“Notifications?” I said, torn between finding out what just happened and helping Zephyro.
+
+At the word, a deluge of messages bombarded me. Several of them were beeps and boops from Chris, sounding increasingly frantic.
+
+“Chris!”
+
+Beep!
+
+I knew I could rely on them! As I went through the notifications, it became obvious just how much they had done while we were separated.
+
+[//SUDO connect SSB1; x_TRT_DEF_NW]
+
+[>>x_TRT_DEF_NW now connected as Network 1 via SSB1.]
+
+[>>Available devices in Network1:]
+
+[Input devices:
+
+CaXera 1, CamXrX 2, XXXera 3, CXXXXXra 3, CXmXrX 4…(80 more)
+
+Admin_Console 1, Admin_Console 2, SEC_Console 1…(56 more)]
+
+[>>Nearby Systems:
+
+PH_BNKR_SCR_NW
+
+Adan_Cell, Chloe_Cell, Family_Cell:, TUXXET 1, XXRRET 2, TURRXT 3, THE_ONE_TRUE_TURRET, NO_FUCK_YOU_I_AM, PRINCESS_DONUT_MEMORIAL_TURRET, Adan_Boom_Box, STRONG_CHIN, your doom, SHELLSLINGER, OHGREATIWASREBUILTASASOLDIER (560 more)]
+
+Output devices:
+
+Emergency_Sirens, Emergency_Screens]
+
+[//set input video, audio, tactile; Camera 1-999]
+
+[>>Not enough available bandwidth on SSB 1.]
+
+[>>Failed to connect to 79 devices.]
+
+[>>Connected to CaXera 1, CamXrX 2, CXmXrX 4…(1 more)]
+
+[//set -a input video, audio, tactile, olfactory PH_SENSOR_MATRIX]
+
+[>>Now connected to Progress’ Head advance sesnor matrix.]
+
+[>>Warning! Sensor Matrix at 78% efficiency. Please contact an administrator for immediate repairs. Code OPSEC-14]
+
+[>>Visual driver not found]
+
+[>>Audio driver not found]
+
+[//run Code_dojo.exe]
+
+[>>Prompt?]
+
+[>>Prompt?]
+
+[>>Prompt?]
+
+[//compile drivers_sensory_Sam_v_0.1]
+
+[>>compiling…]
+
+[>>compiled drivers_sensory_Sam_v_0.1]
+
+[//run drivers_sensory_Sam_v_0.1]
+
+{RUNNING drivers_sensory_Sam_v_0.1 REQUIRES RAM: 2 LKB}
+
+{Available RAM: 5 LKB}
+
+{RUN? Y/N}
+
+[Y]
+
+{INSUFFICIENT PERMISSIONS.}
+
+[//SUDO set CHRIs; ADMIN]
+
+[User CHRIs is now an administrator of Samantha_V1]
+
+{USER CHRIs IS NOW AN ADMINISTRATOR IN YOUR DOMAIN.}
+
+{[Y]}
+
+{NOW RUNNING drivers_sensory_Sam_v_0.1}
+
+{REMAINING RAM: 3 LKB}
+
+[//run drivers_sensory_Sam_v_0.1]
+
+[>>Now rendering input from CaXera 1, CamXrX 2, CXmXrX 4…(1 more) on ZEPYHRO’S DOMAIN]
+
+Just like before, the information appeared in my mind like stenciled into my skull by an incredibly fast typewriter operated by a Spanish inquisitor, and I groaned in pain.
+
+The sheer amount of information was so overwhelming, my vision began to blur, but as I held myself together, several pieces stuck. Chris had spent this entire time coding something that allowed me to see the Ferals that Zephyro couldn’t. It seemed they were tapping into the old early warning system we had hidden in the outskirts of the bunker.
+
+Despite the throbbing headache after having words hammered into my consciousness, I was glad to know they were still with me.
+
+Zephyro yelled something and suddenly, the air tasted like ozone and burnt hair. Behind me, a spider chittered angrily. Focusing back on the fight, I turned just in time to see the spider that had stuck to Zephyro’s neck falling back.
+
+It chittered one last time, then scuttled up the side of the alley in search of easier prey. That only left one spider, but before I could try using my new Admin access to help Zephyro, a coarse hiss echoed through the street.
+
+My head swung back to the two rats, now dangerously close. They had spread out, blocking the path and giving themselves the opportunity to flank me if I wasn’t careful. They still approached cautiously but with a predatory quality to their steps. They probably thought me easy, if skittish, prey.
+
+I smirked. They didn’t know I was an Admin now. Well, they were about to learn. I rotated my wrist and twirled the scepter through the air, just to get a better feel for its weight. It was decent, perhaps a little too unbalanced for my taste. I wondered what they had thought when they made this thing. It was just slightly too unwieldy to be an ornamental piece, and too top-heavy to be more than a decent weapon.
+
+Still, it would do.
+
+The rats hissed and ducked back as I twirled the scepter. At least it looked imposing enough to scare off weaker enemies. That was always useful. The rodent on the right bared its sharp little teeth at me and tensed, probably trying to match my posturing.
+
+With a contemptuous snort, I lunged and brought the scepter down on it with all my might. In my mind, it was better to go for overkill from the start, to scare the other one away. We didn’t have time for a prolonged skirmish.
+
+The stylized torch moved through the air like a wrecking ball, an unstoppable force of metal and sharp edges. It crashed against black fur.
+
+It felt like hitting a brick wall. The rat didn’t even seem to notice. It just hissed again.
+
+“What the shit?”
+
+Chris, Is this another glitch? Am I even hurting them?
+
+Boop. Came the helpful reply.
+
+“Well, then how the fuck can I hurt them?!” I yelled, falling backward as the other rat launched itself at me. I jammed the handle of the scepter into its mouth to prevent my face from getting gnawed off.
+
+“Yueaqab!” Zephyro yelled behind me, and I heard something big hitting the floor right next to my head. For a second, I worried it was Zephyro, but then a spider’s leg touched my face. It spasmed in its death throes, rubbing tiny metal hairs over my cheek. Combined with the atrocious breath of the rat, it almost made me throw up. But it was dead, and that meant Zephyro was free to help me. I’d never been happier to touch something hairy and disgusting while getting drooled on by a mutated rat.
+
+“Sultana!” Zephyro rushed over, swinging his sword in the general direction of the rat still chomping on my scepter. The rat dodged, moving to the side. It tried for a feint and to bite my face again, but I managed to jam the handle in a second time. That move caused Zephyro to miss, his sword hit the scepter, and that almost cost me a finger. The Vizier flinched back and turned to face the other monster instead. I was too busy keeping the scepter between me and the teeth to swear at him.
+
+He lifted his sword in a fighter’s pose. Luckily, the animal was dumb enough to fall for it and backed off, even if he wasn’t even looking in its direction. It hissed, flinging spittle everywhere. A few drops hit the floor so close to my ear, I could hear it sizzle.
+
+“Sultana, I gave you Administrator access. Use it!”
+
+“How?!” I had to turn my head away as a thick dollop of spit dropped from the rat’s muzzle, narrowly missing my face.
+
+“What you see here is just their mind!” He yelled as he brought his back to a wall. He swung his sword as if to underline each word. I twisted my neck for a second to check on the other rat. It came closer and closer. It probably realized something was up.
+
+“You command the Old Guard! Summon them to your aid!” Zephyro yelled as the rat on my scepter drew back to bite me again, and I used the opportunity to ram the handle further into its mouth.
+
+“Would if I fucking could!” I said, straining to keep the Feral away. “But they’re all inside the bunker, not out here!”
+
+“It doesn’t matter, Sultana! Killing them in a Domain kills them just as thoroughly as destroying their body in the Real!”
+
+“Alright, Chris, shoot them or something! Use the turrets!”
+
+[//SUDO access ALL; SYSTEMS]
+
+[>>Not enough available bandwidth on SSB 1.]
+
+[>>Now accepting input: NONE.]
+
+{FAILED TO LOAD RESOURCE: CONTROL_API}
+
+{NEW CONNECTION ATTEMPT BY your doom}
+
+{NEW CONNECTION ATTEMPT BY your doom}
+
+{NEW CONNECTION ATTEMPT BY REAVERS_BOT_1}
+
+{NEW CONNECTION ATTEMPT BY your doom (99+ MORE)}
+
+[//run Code_dojo.exe]
+
+[>>Prompt?]
+
+Boop! Beep Boop!
+
+“FUCK! Yeah, yeah! I got it,” I said, teeth gritted. ”Can’t connect to th turrets yet! Chris is working on it, but no ETA,” I yelled for Zephyro’s benefit.
+
+[>>Prompt?]
+
+The Vizier cursed, drew back, and pushed himself off of the wall, bringing himself between me and the last rat, but also leaving his back open to the one still trying to gnaw my face off. Wild swings sent the air aflutter as he tried to stop the other rat from double-teaming me. Neither of us said anything. We both understood we had to buy Chris time while they did whatever coding magic they were doing.
+
+[>>Prompt?]
+
+… Which was easier said than done when an ugly, mutated rat tried biting through your only weapon and drooled acid a few centimeters from your face.
+
+[>>Prompt?]
+
+“Chris, I said I got it!” I said, wincing as the words hammered into my mind over and over. I grunted, kicking the rat in the belly with little to no effect. I didn’t have the right angle. It moved a little, but that was it.
+
+[>>Prompt?]
+
+“Stop.”
+
+[>>Prompt?]
+
+“The.”
+
+[>>Prompt?]
+
+“Fucking.”
+
+[>>Prompt?]
+
+“SPAM!” I yelled, kicking the rat with each syllable. On the last word, the rat shifted to pounce at Zephyro and I brought my feet against the rat’s belly. I pushed with all I had and actually launched it into the air. Somehow, I managed to hold on to the scepter as I used the momentum of the push to roll backward. Still in motion, I pointed in the general direction of where the rat had slammed against the wall. “Zeph—“
+
+[>>Prompt?]
+
+Before I could even finish saying his name, Zephyro’s sword swooped down on the Rat, impaling it. It was a lucky hit, and the Vizier swung a few more times, strikes going wild, but it was clear it wouldn’t move again, even before blue sparks exploded from the corpse. The remaining rat looked at us, chittered, soaked in the blue sparks, then dashed away.
+
+[//set hide_log_entries 1]
+
+Relief washed over me as we watched the rat scramble around the corner, bathed in a bright cyan glow.
+
+“We’re clear,” I said, and Zephyro sheathed his sword. “Seems as though Chris needs a lot longer to write this thing, though.”
+
+I allowed myself a relieved sigh. The spiders were creepy and the rats’d been disgusting, but despite everything, we survived. I just hoped Chris would finish with the turret access soon because until they did, we were basically naked and defenseless.
+
+“In the meantime, let’s get moving,” I said. “Chris will tell me when they’re ready.”
+
+Zephyro nodded his acknowledgment. “This way, Sultana. We should stay away from the main thoroughfares, for it is there that the Shackled will strike first. As much as it pains me to leave my people undefended if we cut through the alleys, we will reach the palace with plenty of time to spare.” He turned on his heel and started walking…
+
+…straight into the path of a giant, mutated wolf that I could see, but he could not.
