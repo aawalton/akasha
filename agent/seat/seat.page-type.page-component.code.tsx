@@ -1,5 +1,6 @@
 "use client"
 
+import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-naming.module.code.ts"
 import {
   SeatComposer,
   sentToSeat,
@@ -18,7 +19,7 @@ import {
   ReplyNotifyingControl,
   useReplyNotifying,
 } from "akasha/agent/seat/modules/reply-notifying/seat-reply-notifying.module.code.tsx"
-import { SeatTyping } from "akasha/agent/seat/modules/typing/seat-typing.module.code.tsx"
+import { SeatTyping, useMe } from "akasha/agent/seat/modules/typing/seat-typing.module.code.tsx"
 import { useSeatVoice } from "akasha/agent/seat/voice/modules/live/seat-voice-live.module.code.ts"
 import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { PAGE_TITLE_CLASSES } from "akasha/design/interface/layout/modules/page-layout-data/page-layout-data.module.code.ts"
@@ -107,6 +108,9 @@ function useSending(id: string) {
     tell(key, false)
     setPending((held) => held.filter((one) => one.key !== key))
   }
+  const forget = (message: string) => {
+    setPending((held) => held.filter((one) => messageNamed(one.id) !== message))
+  }
   useEffect(() => {
     setPending((held) => {
       const kept = held.filter(
@@ -117,7 +121,7 @@ function useSending(id: string) {
       return kept.length === held.length ? held : kept
     })
   }, [heard])
-  return { heard, again, pending, send, resend, dismiss }
+  return { heard, again, pending, send, resend, dismiss, forget }
 }
 
 function clockOf(at: string | undefined): string | null {
@@ -198,11 +202,14 @@ function PendingDrawn({
   one,
   resend,
   dismiss,
+  regret,
 }: {
   one: Pending
   resend: (one: Pending) => void
   dismiss: (key: number) => void
+  regret: Regret
 }) {
+  const message = messageNamed(one.id)
   return (
     <div className="flex flex-col gap-1 opacity-60">
       <PersonSaid
@@ -211,6 +218,8 @@ function PendingDrawn({
       />
       <span className={cn("flex gap-2", SUBDUED)}>
         {pendingSaid(one)}
+        {one.state === "sent" &&
+          regret.control({ message, text: one.text, files: one.files }, true)}
         {one.state === "unanswered" && (
           <button type="button" className="underline" onClick={() => resend(one)}>
             Send again
@@ -257,7 +266,11 @@ function Conversation({
       {regret.shown(heard.entries).map((entry, at) => (
         <li key={`${at}-${entry.kind}`} className="flex flex-col gap-1">
           <EntryDrawn entry={entry} named={named} />
-          {regret.control(entry)}
+          {entry.message !== undefined &&
+            regret.control(
+              { message: entry.message, text: entry.text ?? "", files: [] },
+              regret.offeredOn(entry)
+            )}
         </li>
       ))}
     </ol>
@@ -266,8 +279,17 @@ function Conversation({
 
 export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   const { page, pageIsLoading, data, allDefinitions } = usePageDefaultContent({ pageTypeSlug, id })
-  const { heard, again, pending, send, resend, dismiss } = useSending(id)
-  const regret = useRegret(id, heard, again, pending)
+  const { heard, again, pending, send, resend, dismiss, forget } = useSending(id)
+  const me = useMe()
+  const regret = useRegret({
+    seat: id,
+    seatName: pageName(data),
+    heard,
+    again,
+    sent: pending,
+    me,
+    forget,
+  })
   const voice = useSeatVoice(id, heard.state === "heard" ? heard.entries : NOTHING_SAID, (text) => {
     send(text, [])
   })
@@ -300,9 +322,17 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
             <h1 className={titleClasses}>{pageName(data)}</h1>
             <ReplyNotifyingControl notifying={notifying} />
             <Conversation heard={heard} persons={persons} regret={regret} />
-            {pending.map((one) => (
-              <PendingDrawn key={one.key} one={one} resend={resend} dismiss={dismiss} />
-            ))}
+            {pending
+              .filter((one) => !regret.hides(messageNamed(one.id)))
+              .map((one) => (
+                <PendingDrawn
+                  key={one.key}
+                  one={one}
+                  resend={resend}
+                  dismiss={dismiss}
+                  regret={regret}
+                />
+              ))}
             <SeatTyping
               seat={id}
               turnState={heard.state === "heard" ? heard.turnState : null}

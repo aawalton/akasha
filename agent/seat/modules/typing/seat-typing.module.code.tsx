@@ -23,7 +23,7 @@ const PARTED_BY = "/"
 
 export type Typing = { readonly person: string; readonly at: string }
 
-function personSlug(person: string): string {
+export function personSlug(person: string): string {
   return person.slice(person.lastIndexOf(PARTED_BY) + 1)
 }
 
@@ -143,7 +143,7 @@ function personIn(said: unknown): string | null {
   return typeof person === "string" && person !== "" ? person : null
 }
 
-function useMe(): string | null {
+export function useMe(): string | null {
   const [me, setMe] = useState<string | null>(null)
   useEffect(() => {
     let dropped = false
