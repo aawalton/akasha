@@ -3731,6 +3731,9 @@
       ],
       "34": [
         23
+      ],
+      "35": [
+        108
       ]
     }
   },
@@ -5095,8 +5098,8 @@
     }
   },
   "skillPoints": {
-    "total": 412,
-    "unassigned": 26,
+    "total": 413,
+    "unassigned": 27,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -5106,7 +5109,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 176,
     "totalSkyshards": 530,
-    "zoneQuestTotal": 83,
+    "zoneQuestTotal": 84,
     "groupDungeonTotal": 25,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -5181,7 +5184,7 @@
       "EP4": 3,
       "HB": 6,
       "CL": 0,
-      "SU": 0,
+      "SU": 1,
       "MM": 0,
       "WP": 0,
       "NE": 0,
@@ -7492,6 +7495,7 @@
     6105,
     6112,
     6130,
+    6132,
     6134,
     6171,
     6172,
@@ -11426,7 +11430,8 @@
     "1011": {
       "1": [
         1,
-        2
+        2,
+        3
       ],
       "2": [
         1,
@@ -14175,7 +14180,7 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792869056,
+      "capturedAt": 1792869702,
       "buildHash": "ATQOLMUCgHZhxRNCyJtAEIBCyJtAEIBC5gtuULJC5gtuULJC5gtuULJC5gtuULJC5gtuULIQlKtuULJBHb1AEIAQQbtuULImJTHbcoWURBMdbcoWVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAVTUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYfBAZBxiQNYAAAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
@@ -14188,7 +14193,7 @@
         "health-recovery": 0,
         "penetration-spell": 17886,
         "power-weapon": 4285,
-        "stamina-recovery": 0,
+        "stamina-recovery": 887,
         "critical-rating-weapon": 6225,
         "resistance-spell": 11199,
         "critical-rating-spell": 6225,
@@ -14205,7 +14210,7 @@
         "health-recovery": 0,
         "penetration-spell": 0,
         "power-weapon": 1000,
-        "stamina-recovery": 0,
+        "stamina-recovery": 887,
         "critical-rating-weapon": 2181,
         "resistance-spell": 0,
         "critical-rating-spell": 2181,
@@ -14226,11 +14231,15 @@
           "stacks": 0
         },
         {
-          "abilityId": 43752,
-          "name": "Soul Summons",
-          "description": "· Once per hour, you can resurrect without the need for a soul gem",
-          "effect": "",
-          "stacks": 0
+          "abilityId": 135402,
+          "name": "Vampire Stage 4",
+          "description": "",
+          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4285,
+            "spell": 4285
+          }
         },
         {
           "abilityId": 63569,
@@ -14266,39 +14275,6 @@
           "description": "",
           "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
-        },
-        {
-          "abilityId": 135402,
-          "name": "Vampire Stage 4",
-          "description": "",
-          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4285,
-            "spell": 4285
-          }
-        },
-        {
-          "abilityId": 122586,
-          "name": "Merciless Resolve",
-          "description": "",
-          "effect": "",
-          "stacks": 6,
-          "powerAtOnset": {
-            "weapon": 4687,
-            "spell": 4687
-          }
-        },
-        {
-          "abilityId": 194875,
-          "name": "Fated Fortune",
-          "description": "Increases your Critical Damage and Critical Healing by |cffffff0|r% while you have one or more Crux.",
-          "effect": "",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4285,
-            "spell": 4285
-          }
         }
       ],
       "pets": [],
@@ -15907,13 +15883,13 @@
       ],
       "inArchive": false,
       "blocking": false,
-      "moving": true,
+      "moving": false,
       "archiveBoons": [],
       "advanced": {
-        "healing-critical-bonus": 0.26,
+        "healing-critical-bonus": 0.14,
         "healing-taken-base": 0.02,
         "healing-done-base": 0.08,
-        "critical-damage": 0.36
+        "critical-damage": 0.24
       },
       "advancedSheet": {
         "bash-cost": {
@@ -15926,7 +15902,7 @@
           "category": "Healing Bonuses",
           "label": "Critical Healing",
           "format": "percent",
-          "percent": 26
+          "percent": 14
         },
         "shock-damage": {
           "category": "Damage Bonuses",
@@ -16069,7 +16045,7 @@
           "category": "Damage Bonuses",
           "label": "Critical Damage",
           "format": "percent",
-          "percent": 36
+          "percent": 24
         },
         "subscriber-coin-bonus": {
           "category": "ESO Plus",
