@@ -183,6 +183,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/he-who-fights-with-monsters/he-who-fights-with-monsters.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/heaven-piercing-giraffe-op-mc-xianxia/heaven-piercing-giraffe-op-mc-xianxia.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/heavenly-demon-emperor-isekai-xianxia-litrpg/heavenly-demon-emperor-isekai-xianxia-litrpg.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/heavy-metal-a-monster-evolution-litrpg/heavy-metal-a-monster-evolution-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/hell-difficulty-tutorial/hell-difficulty-tutorial.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/hell-horizon-healer/hell-horizon-healer.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/hell-hound-evolution-litrpg.world.ts","typed":true,"deferred":false}
@@ -370,11 +371,13 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/spearbound/spearbound.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/speedrunning-the-multiverse-complete/speedrunning-the-multiverse-complete.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/spell-weaver/spell-weaver.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/spire-dweller/spire-dweller.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/spirit-lock-op-mc/spirit-lock-op-mc.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/squid-girl-evolution-monster-girl-evolution-litrpg/squid-girl-evolution-monster-girl-evolution-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/star-hawk-rises/star-hawk-rises.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/stardust-of-aerilis-the-strongest-mage-is-my-problem/stardust-of-aerilis-the-strongest-mage-is-my-problem.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/stonehaven-league/stonehaven-league.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/storm-strider-stubbed/storm-strider-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/stormblade-skill-merge-portal-break-book-4-stubbed/stormblade-skill-merge-portal-break-book-4-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/stray-cat-strut-stubbing-never-lol/stray-cat-strut-stubbing-never-lol.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/strength-based-wizard-book-2-complete/strength-based-wizard-book-2-complete.world.ts","typed":true,"deferred":false}

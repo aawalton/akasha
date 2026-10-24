@@ -1,0 +1,119 @@
+Plot:
+
+- Samantha has new motivations for wanting to become a cultivator, so her relationship with her family changed
+
+- Her uncle and aunt (Thomas's parents) were senselessly killed by a random cultivator during a family outing. Samantha's goal after receiving the quest was to become a cultivator to act as a shield for mortals she loved.
+
+- Because relationships between mortals and cultivators are so poor, her parents do not initially support her decision to pursue this quest. Samantha also feels a level of bitterness at the many things she's required to give up in pursuit of a cultivator's title/power, such as all the important relationships in her life will likely changing for the worse.
+
+-Failing to save Aiden and receiving the hidden quest puts Samantha on a short spiral of hopelessness because she failed to protect a single mortal--her goal in becoming a cultivator in the first place. She despairs at how staying on the floor will probably leave her too weakened to ever achieve that goal in life, but leaving the floor makes the many things she's suffered and sacrificed feel pointless.
+
+- After she kills the Rat King and his mortal minions and visits home, her father takes issue with her newfound callousness towards human life. A rift begins to form when her mother disagrees, saying the situation is nothing like what happened with Aldon's brother and his brother's wife. - Later, Aldon completely disowns Samantha and warns her if she returns to the shop he will report her to the authorities and force her to face the ascension/justice she's seeking to avoid. This deepens her emotional spiral, because now even staying on the floor crippled, she cannot be with her family like before.- The decision to ascend starts with the Braxand duel, but solidifies when threatened by Lord Braxand. Samantha feels she is only causing more trouble for everyone the longer she stays on the floor.- Aldon only begins to soften towards Samantha after he learns she's ascending (accepting the action as Samantha taking responsibility for her wrongdoings). Unfortunately, ascension is less than a week away at that point, so there is no way to perfectly mend their damaged relationship.- The family does make up/come together as they are leaving Yivesh, as best as circumstances allow. Though, hurt is still present.
+
+- Thomas is more an aloof character than a womanizer now, having withdrawn after his parents' murder. And their relationship through the book is more "uncertain". Not in the "I don't know if I like you" way, but the "I haven't had a proper conversation with you in years and don't know how to act" way. - He is upset with Samantha for uprooting his life in Yivesh, but, not wanting to leave things between them strained with her departure from the floor, suggests the "traditional Cray family remedy". This involves giving Samantha a truly horrendous haircut, which she is forced to travel to the ascension obelisk with. She swears a cultivators oath not to hide/fix the awful hairdo until after she is inside the real Registrar's Hall, upon which Thomas wholeheartedly forgives her, per tradition.
+
+Advancement/Progression:
+
+- More strict terminology is used to refer to advancement >    Human cultivators: Stage (Refers to Low, Mid, High, or Peak), Tier (Refers to Copper, Bronze, etc). So, cultivator levels go Stage-Tier, like "Low Bronze">    Spirit beasts: Stage (Refers to Low, Mid, or High), Rank (Refers to a numerical value, with the weakest value being 1). So, spirit beast levels go Stage-Rank, like "Rank 1 - Low"
+
+- Qi density in the dantian goes through cyclical phases within Tiers>    Low Stage = Vapor, Mid Stage = Mist, High Stage = Fog, Peak Stage = Liquid
+
+- Forming droplets of liquid qi happen at Peak Stage every Tier. Advancement to the next Tier requires forming a dantian/core layer (Copper was different from Bronze+ Tier progression before, so its all the same order now)
+
+- I took out "Extraordinary" from Aptitude designations and added "Poor" to the side of the scale below "Average". Now the scale goes: Abysmal: +0.5, Poor: +1, Low: +2, Average: +3, High: +4, Exceptional: +5, Heroic: +6
+
+- Stage increases improve how high an Attribute can be trained, but does not inherently increase the Attribute - Tier increases both improve how high and Attribute can be trained and inherently increases the AttributeYou could be reading stolen content. Head to the original site for the genuine story.>    During Tier ups (not counting when you first go from mortal to cultivator), cultivators can freely allocate the amount of points granted by their Aptitudes. This shows up under a field called "Tier Customizations" in the Potential Maximum calculation>    I realize this is all kind of hard to explain well , so I'll put some examples below
+
+>    Stage advancement    <
+
+Congratulations, you’ve advanced in cultivation (Low → Mid Copper)!
+
+Your natural lifespan has been extended, and your needs for sleep, food, and water have been reduced.
+
+Stage increase: Low → MidThe potential you can achieve through training and hard work has improved in accordance with your Aptitudes. +2 potential maximum Strength (Low Aptitude)+4 potential maximum Agility (High Aptitude)+3 potential maximum Endurance (Average Aptitude)+2 potential maximum Resilience (Low Aptitude)
+
+For being bonded to a spirit beast at the time of your advancement, +1 Bond Ability Point.
+
+>     Tier advancement    <
+
+Congratulations, you’ve advanced in cultivation (Mortal → Low Copper)!
+
+Your natural lifespan has been extended, and your needs for sleep, food, and water have been reduced.
+
+Stage increase: Mortal → LowThe potential you can achieve through training and hard work has improved in accordance with your Aptitudes. +2 potential maximum Strength (Low Aptitude)+4 potential maximum Agility (High Aptitude)+3 potential maximum Endurance (Average Aptitude)+2 potential maximum Resilience (Low Aptitude)
+
+Tier increase: Mortal → CopperYour fundamental ability and potential have improved in accordance with your Aptitudes.+2 Strength and potential maximum (Low Aptitude)+4 Agility and potential maximum (High Aptitude)+3 Endurance and potential maximum (Average Aptitude)+2 Resilience and potential maximum (Low Aptitude)
+
+>    Custom distributions    <
+
+Lets imagine a very average John Doe who's advancing to Bronze Tier. They advance and...
+
+Congratulations! You have chosen to form a Generic Example Core (Common).
+
+Thus far, Attribute and their maximum potential improvements when advancing Tiers were automatically distributed according to Aptitudes:
+
+Abysmal: +0.5Poor: +1Low: +2Average: +3 [Strength, Resilience, Endurance, Agility]
+
+As a Low Bronze, you now have more control over how you develop. Would you like to customize your point allocation (Total Points: 12)? Yes/No
+
+Let's say John Doe chooses "No" and has 10's in every Attribute. This means his Profile would show these values:
+
+Attributes:
+
+Aptitudes:
+
+Strength: 10 → 13
+
+Average (Potential maximum: 19 → 25)
+
+< Base: 19 → 25 >
+
+Agility: 10 → 13
+
+Average (Potential maximum: 19 → 25)
+
+< Base: 19 → 25 >
+
+Endurance: 10 → 13
+
+Average (Potential maximum: 19 → 25)
+
+< Base: 19 → 25 >
+
+Resilience:  10 → 13
+
+Average (Potential maximum: 19 → 25)
+
+< Base: 19 → 25 >
+
+But, if he chose "Yes" and modified his distributions so all his points went to Resilience, it'd look like this instead:
+
+Attributes:
+
+Aptitudes:
+
+Strength: 10
+
+Average (Potential maximum: 19 → 22)
+
+< Base: 19 → 25,  Tier Customizations: -3 >
+
+Agility: 10
+
+Average (Potential maximum: 19 → 22)
+
+< Base: 19 → 25,  Tier Customizations: -3 >
+
+Endurance: 10
+
+Average (Potential maximum: 19 → 22)
+
+< Base: 19 → 25,  Tier Customizations: -3 >
+
+Resilience:  10 → 22
+
+Average (Potential maximum: 19 → 34)
+
+< Base: 19 → 25 ,  Tier Customizations: +9>
+
+Essentially, "Tier Customizations" show how far away someone has chosen to diverge from their natural standard. So Resilience is 9 points higher than it would normally be both in raw value and potential, and everything else is 3 points lower (though, John didn't actually get weaker, per se, since his other Attributes are still 10's)
