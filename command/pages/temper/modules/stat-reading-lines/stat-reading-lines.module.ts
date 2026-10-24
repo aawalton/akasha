@@ -28,7 +28,15 @@ export const statReadingLines = {
       decisionKind: "decision-kind/departure",
       statement: "A reading named by the start of its id is refused where that start fits two.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A short id runs past the millisecond its id was minted in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Readings landed in one millisecond are told apart by their short ids.",
+    },
   ],
   createdAt: "2026-10-19T20:22:53.082Z",
-  updatedAt: "2026-10-19T20:22:53.082Z",
+  updatedAt: "2026-10-24T18:26:44.401Z",
 } as const satisfies Module

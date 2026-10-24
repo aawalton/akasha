@@ -25,7 +25,7 @@ type Choosing = {
   readonly id?: string | undefined
 }
 
-const SHORT = 13
+const SHORT = 18
 
 export function shortIdOf(id: string): string {
   return id.slice(0, SHORT)

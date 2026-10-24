@@ -86,7 +86,16 @@ test("the start of an id names one reading, and a start fitting two is refused",
   expect(chosenIn(lines, { last: 3, id: "ff" })).toEqual({ refused: "no reading's id starts `ff`" })
 })
 
-test("no reading at all is refused, and an id is shortened to its first two groups", () => {
+test("no reading at all is refused, and an id is shortened to its first three groups", () => {
   expect(chosenIn([], { last: 0 })).toEqual({ refused: "at least one reading is shown" })
-  expect(shortIdOf("01a155cc-9d70-7230-a7d4")).toBe("01a155cc-9d70")
+  expect(shortIdOf("01a155cc-9d70-7230-a7d4")).toBe("01a155cc-9d70-7230")
+})
+
+test("readings whose ids were minted in one millisecond are told apart by their short ids", () => {
+  const minted = ["01a16f13-5f08-721c-bfd3", "01a16f13-5f08-7348-a62e", "01a16f13-5f08-7d51-a1f1"]
+  const { lines } = readingLinesIn(minted.map((one, at) => lineOf(one, at)).join("\n"))
+  for (const one of minted) {
+    const said = chosenIn(lines, { last: 1, id: shortIdOf(one) })
+    expect("chosen" in said && said.chosen.map((line) => line.id)).toEqual([one])
+  }
 })
