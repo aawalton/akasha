@@ -79,6 +79,7 @@ export const alanWebRoutes = {
     "route/action-bar",
     "route/chapter-write",
     "route/alan-web-no-such-page",
+    "route/alan-web-api-call-webhook",
   ],
   decisions: [
     {
@@ -91,5 +92,5 @@ export const alanWebRoutes = {
     },
   ],
   createdAt: "2026-09-10T15:18:13.817Z",
-  updatedAt: "2026-10-24T19:57:33.386Z",
+  updatedAt: "2026-10-24T20:51:01.335Z",
 } as const satisfies AppRoutes

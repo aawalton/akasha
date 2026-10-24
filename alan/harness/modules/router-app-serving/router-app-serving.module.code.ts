@@ -90,6 +90,14 @@ export async function servedBy(
 
 type Around = (request: Request, served: () => Promise<Response>) => Promise<Response>
 
+type ServedSocket = { readonly send: (text: string) => unknown; readonly close: () => unknown }
+
+type SocketServing = {
+  readonly path: string
+  readonly said: (socket: ServedSocket, text: string) => unknown
+  readonly closed: (socket: ServedSocket) => unknown
+}
+
 export type RouterAppStart = {
   readonly name: string
   readonly root: string
@@ -98,6 +106,19 @@ export type RouterAppStart = {
   readonly heldToGrants?: boolean
   readonly maxRequestBodySize?: number
   readonly around?: Around
+  readonly socket?: SocketServing
+}
+
+function socketAsked(
+  socket: SocketServing | undefined,
+  request: Request,
+  pathname: string
+): socket is SocketServing {
+  return (
+    socket !== undefined &&
+    pathname === socket.path &&
+    request.headers.get("upgrade")?.toLowerCase() === "websocket"
+  )
 }
 
 function asServerBuild(value: unknown): ServerBuild {
@@ -130,9 +151,23 @@ export async function servedRouterApp(start: RouterAppStart): Promise<Stopping> 
       console.error(`[${start.name}] fetch handler error:`, error)
       return new Response("Internal Server Error", { status: 500 })
     },
-    fetch(request: Request): Promise<Response> {
+    fetch(request, upgrading): Promise<Response> | Response | undefined {
       const pathname = new URL(request.url).pathname
+      if (socketAsked(start.socket, request, pathname)) {
+        if (upgrading.upgrade(request)) return undefined
+        return new Response("Upgrade failed", { status: 400 })
+      }
       return around(request, () => servedBy(serving, request, pathname))
+    },
+    websocket: {
+      idleTimeout: TUNNEL_OUTLASTING_IDLE_SECONDS,
+      message(opened, said) {
+        const text = typeof said === "string" ? said : new TextDecoder().decode(said)
+        start.socket?.said(opened, text)
+      },
+      close(opened) {
+        start.socket?.closed(opened)
+      },
     },
   })
   endedOnTerm(server)

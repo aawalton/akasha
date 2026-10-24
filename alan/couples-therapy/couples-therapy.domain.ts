@@ -5,6 +5,7 @@ export const couplesTherapy = {
   type: "page-type/domain",
   slug: "couples-therapy",
   definition: "the sessions Alan and Jenny hold together with a therapist",
+  parts: ["domain/couples-call"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -86,5 +87,5 @@ export const couplesTherapy = {
     },
   ],
   createdAt: "2026-10-24T17:03:03.699Z",
-  updatedAt: "2026-10-24T19:54:56.033Z",
+  updatedAt: "2026-10-24T20:51:01.335Z",
 } as const satisfies Domain

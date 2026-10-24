@@ -64,6 +64,10 @@ export default [
   ),
   route("api/sms/opt-in", "routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.code.ts"),
   route(
+    "api/call/webhook",
+    "routes/alan-web-api-call-webhook/alan-web-api-call-webhook.route.code.ts"
+  ),
+  route(
     "api/sms/verification-status",
     "routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.code.ts"
   ),

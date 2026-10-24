@@ -64,7 +64,12 @@ export const routerAppServing = {
       decisionKind: "decision-kind/departure",
       statement: "A connection is let idle longer than the tunnel in front of it lets one idle.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An app may name one path where a WebSocket is taken in rather than a route reached.",
+    },
   ],
   createdAt: "2026-09-21T18:55:56.859Z",
-  updatedAt: "2026-09-27T06:04:43.000Z",
+  updatedAt: "2026-10-24T20:51:01.335Z",
 } as const satisfies Module

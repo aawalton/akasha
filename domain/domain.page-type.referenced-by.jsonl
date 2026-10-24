@@ -211,6 +211,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/studying/studying.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/unit/unit.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/watching/watching.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/couples-therapy/couples-call/couples-call.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/couples-therapy/couples-therapy.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/eso/eso.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/eso/the-elder-scrolls-online/the-elder-scrolls-online.domain.ts","typed":true,"deferred":false}

@@ -12,7 +12,8 @@ export const claudius = {
   value: "value/love",
   origin: "origin-kind/human",
   email: "claudius@alanwalton.com",
+  liveVoice: "Charon",
   championedDomain: "domain/couples-therapy",
   createdAt: "2026-10-24T19:54:21.943Z",
-  updatedAt: "2026-10-24T19:54:21.943Z",
+  updatedAt: "2026-10-24T20:51:01.335Z",
 } as const satisfies Persona

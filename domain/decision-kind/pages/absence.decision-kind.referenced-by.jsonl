@@ -268,6 +268,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/reading/modules/shapes/reading-shapes.module.ts","id":"01a0657b-06a7-7ae0-baf9-5cce272d89ba"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/reading/royal-road-reading.module.ts","id":"01a0e98b-04bc-714d-81d9-07c7ec2edde1"}
 {"propertySlug":"decision-kind","path":"alan/collection/sync/sync.page-type.ts","id":"01a06835-e289-7ad6-8588-3a59938a1140"}
+{"propertySlug":"decision-kind","path":"alan/couples-therapy/couples-call/couples-call.domain.ts","id":"01a16fae-6058-7358-ac29-7067f314d048"}
 {"propertySlug":"decision-kind","path":"alan/couples-therapy/couples-therapy.domain.ts","id":"01a16edd-ac15-7a21-ad13-ce45952dfc04"}
 {"propertySlug":"decision-kind","path":"alan/google/drive/google-drive.domain.ts","id":"01a05bec-fc09-7a61-8e09-909bc24a66c2"}
 {"propertySlug":"decision-kind","path":"alan/google/email/google-email.domain.ts","id":"01a05c0e-372c-7620-9bcc-082febbe3f5b"}
@@ -2430,5 +2431,7 @@
 {"propertySlug":"decision-kind","path":"text/writing/modules/counted/counted.module.ts","id":"01a08ccc-aca8-7215-b4dd-560d25d104b5"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/name-drawing/name-drawing.module.ts","id":"01a08206-a5c1-75c9-8635-b646938fd3ac"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/pad-two/pad-two.computed-property-module.ts","id":"01a05c8b-6039-7947-8056-77c452128ce1"}
+{"propertySlug":"import","fileName":"absence.decision-kind.ts","path":"alan/couples-therapy/couples-call/modules/brief/couples-call-brief.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"absence.decision-kind.ts","path":"alan/couples-therapy/couples-call/modules/brief/couples-call-brief.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"absence.decision-kind.ts","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}

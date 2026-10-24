@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"seat-voice-setup.module.code.ts","path":"agent/seat/voice/modules/live/seat-voice-live.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-voice-setup.module.code.ts","path":"agent/seat/voice/modules/setup/seat-voice-setup.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-voice-setup.module.code.ts","path":"alan/couples-therapy/couples-call/modules/brief/couples-call-brief.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-voice-setup.module.code.ts","path":"alan/couples-therapy/couples-call/modules/room/couples-call-room.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-voice-setup.module.code.ts","path":"alan/web/routes/alan-web-api-seat-voice/alan-web-api-seat-voice.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/voice/seat-voice.domain.ts","id":"01a11b35-8c5b-79b0-9351-6ffc788b86f5"}
