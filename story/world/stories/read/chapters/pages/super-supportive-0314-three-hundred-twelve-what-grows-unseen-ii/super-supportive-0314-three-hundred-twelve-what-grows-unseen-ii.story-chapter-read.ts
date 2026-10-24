@@ -20,5 +20,7 @@ export const superSupportive0314ThreeHundredTwelveWhatGrowsUnseenIi = {
     },
   ],
   createdAt: "2026-10-24T04:48:12.323Z",
-  updatedAt: "2026-10-24T04:48:12.323Z",
+  updatedAt: "2026-10-24T12:41:36.494Z",
+  ownProgress: 4990,
+  progressedAt: "2026-10-24T12:41:36.494Z",
 } as const satisfies StoryChapterRead

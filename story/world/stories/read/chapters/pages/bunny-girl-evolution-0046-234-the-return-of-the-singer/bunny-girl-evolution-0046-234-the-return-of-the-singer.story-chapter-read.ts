@@ -20,5 +20,7 @@ export const bunnyGirlEvolution0046234TheReturnOfTheSinger = {
     },
   ],
   createdAt: "2026-10-24T08:49:12.730Z",
-  updatedAt: "2026-10-24T08:49:12.730Z",
+  updatedAt: "2026-10-24T12:41:36.494Z",
+  ownProgress: 2372,
+  progressedAt: "2026-10-24T12:41:36.494Z",
 } as const satisfies StoryChapterRead
