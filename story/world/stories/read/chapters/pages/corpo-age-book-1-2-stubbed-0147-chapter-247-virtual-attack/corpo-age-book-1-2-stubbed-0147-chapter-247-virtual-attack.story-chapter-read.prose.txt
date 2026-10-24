@@ -1,0 +1,141 @@
+Once the meeting was finished, I rushed back to see what Lanus’ alert had been about. I would’ve rushed back first thing, seeing how it was a priority report, but I couldn’t leave the wonder of Aerodynamic so abruptly. Especially when he had something so important to say.
+
+I recorded our entire conversation and exhausted any questions I could think of. Just like before, he didn’t have any concrete intel as to what to watch out for He only knew that things were about to get rocky.
+
+I got back to my workshop within our Aegis branch office, and Lanus automatically projected the latest incident for me to see. It was following a player in our game, Legend of the Mythic War, which got me confused.
+
+“Lanus, how is this a priority alert? If it’s a malicious player that is scamming or hacking, can’t you just ban them?”
+
+In response, dozens of other camera feeds popped up, showing various players in the game.
+
+“Report. One hundred and thirty-six players were detected trying to collapse the in-game economy using the same method. Conjecture. A wide-scale attack on the game is currently taking place.”
+
+“And why haven’t you banned them already?”
+
+“Response. The initial few had already been banned. Further investigation discovered these accounts had been compromised by hackers of corporate origin. Continuing to ban players only causes these hackers to target new victims. Judged the solution to be ineffective.”
+
+“Then—I assume they’ve covered their tracks perfectly?”
+
+“Affirmative.”
+
+Watching the situation unfold, I had to quickly make a decision on how to respond. Lanus was only permitted to make moderate action most of the time to simulate a human moderator behind its actions. It was up to me to decide what to do.
+
+I could continue to ban these malicious actors, but that would only cause more accounts to be caught in the crossfire. This would negatively affect our reputation and make our player base unhappy about our competence. The worst part was that it only delayed the malicious actors’ efforts, but didn’t entirely stop it.
+
+The other option was to shut down the server, citing emergency maintenance and such, but that could be what the other party was aiming for.
+
+While time was ticking, I didn’t rush to make a decision. Instead, I sent a message over to the relevant department to convene an emergency meeting.
+
+Within a few minutes, Claire rushed in along with her assistants. We didn’t say anything and waited for the holographic projector to connect us with the others.
+
+“Everyone,” I called out once most people were connected. “We’re suffering from an attack on Legend of the Mythic War’s economy. While our brilliant team is counteracting any negative effects that are happening, we need to come up with a solution soon.”
+
+Our brilliant team consisted of Lanus and Lanus only. It was the only thing that enabled our ambitious project of a unified economy between several games.
+
+“Why haven’t we shut down the server yet?” Claire asked.
+
+“We aren’t sure if that’s what their objective is. They may have a follow-up plan to attack us publicly. Plus, we’re doing a good job of containing the damage for now.”
+
+“The damage is in the virtual space only,” Lucy, our intel director, added. “It’s not that big of a deal to us yet. It’s mainly an attack on the trust between us and our clients.”
+
+“Yes,” I agreed. “On that note, does anyone have any suggestions on how we should proceed?”
+
+“Find the root cause of what’s allowing these hackers to gain access to our client’s account, of course,” Claire declared. “If we stop them from taking over our existing accounts, then they won’t be able to do that much using brand new accounts.”
+
+“Umm, our team has already looked into that a little. It seems the vulnerability isn’t on our end. It’s just that many of our clients use the same passwords on other platforms. There isn’t much we can do to secure their information elsewhere. Also, I’ve recently gotten a warning that the bigger corporations may be making some moves soon. This may be one of them.”
+
+“If that’s the case, we should be expecting this to get a lot worse,” Thorne chimed in. “We should go bunker down somewhere.”
+
+Despite it not being perfect, we now had a ship up and running for that exact purpose. However, when we knew so little, it was hard to decide what to do. If we allowed others to provoke us into overreacting so easily, we wouldn’t be able to keep up normal operations. On the other hand, not being cautious enough could cost us just as much.
+
+While the meeting continued on, I tried contacting Titus for more information, as he was someone who knew an attack was imminent. Unfortunately, he didn’t answer.
+
+Just as I was wondering what to do next, Lanus sent me an update.
+
+“Report. All malicious activity has ceased.”
+
+“What?!” I muttered.
+
+It caught the attention of everyone in the meeting. I cleared my throat and composed myself as I relayed the news.
+
+“It seems the attack has stopped all of a sudden.”
+
+“So they just gave up?” Claire asked in disbelief.
+
+“No…it may be that they had gotten what they wanted?”
+
+“And that is?”
+
+My mind raced through various possibilities, but nothing jumped out at me. I couldn’t even feel relieved that the attack stopped as an ominous aura hung around.
+
+“That’s what we’ll have to investigate.”
+
+All eyes turned to Lucy as that was in her ballpark. We could only hope that it wasn’t too late.
+
+With the attack having stopped, the meeting was concluded not long after that. Everyone pinned their hope on the intel department, while Thorne got us to be on high alert. He made us evacuate to our ship, leaving body-doubles behind as decoys.
+
+It wasn’t something I had any qualms about. After receiving a warning, it was only a natural course of action after all we’ve experienced. We’d rather be a moving target than a stationary one.
+
+Just as we boarded the ship, another update came from Lanus. As if our foe were playing with us, the alert was about how the economic attack had restarted. Various players were detected manipulating the market using various means. If left unchecked, it caused prices to fluctuate so much that the economic aspect of the game became unplayable.
+
+“Again?” Claire blurted out with a frown. “They’re just messing with us. Thankfully, Lanus is here to make their efforts futile.”
+
+“Well, it may actually be a distraction to something more nefarious.”
+
+“Yeah, I’m not saying we should head back to our offices as if nothing happened.”
+
+With the strange incident ongoing, our ship soon sailed into the darkness of the void. We had no particular destination in mind, but it didn’t matter to me. I could spend my time working in my workshop, designing the other models of star crafts for our company.
+
+I was also trying to decipher the EMP weaponry I took from Aurora. With some time on my hands, I could finally make some headway in analyzing the materials they used. As expected, the special alloy comprised various rare exotic materials exclusive to space. It was something Earth lacked, so it could only be mined from asteroids. That took luck.
+
+Other than that, I became increasingly interested in deciphering the secrets of energy shields. It was one of the most vital technologies around, with practically every competent corporation using it to some degree. I had previously been stumped on the subject, but now, thanks to our allies in Ferrumus Corporation, I received the missing pieces.
+
+Our trade with Ferrumus didn’t just include the rights to my particle beam weapons with their special blades. They also sold us some of their energy shields that were a lot more effective than what we had.
+
+To be honest, our energy shields were outdated. It came from the bodyguard of QuickLinks Logistics. Nowadays, we have long outgrown them, so the energy shield technology we blindly replicated was barely competitive.
+
+As for Ferrumus Corporation, as a party that specialized in melee combat, their mobility and defensive solutions were naturally powerful as well. They relied on it to close the distance, after all.
+
+Having received the necessary knowledge on how to work on energy shields, I endeavored to improve what we had.
+
+While I worked hard in my workshop, our ship continued to sail around the vicinity of Aegis, albeit in full stealth. We didn’t plan to go anywhere far, as we wanted to stay connected with the rest of our company. Otherwise, it would take minutes, if not hours, for a message to get through.
+
+I only momentarily paused from my work when an alarm sounded off. It only took me a second to see through the eyes of what the captain saw, and another few seconds to find what had gone wrong.
+
+Our sensors had detected a ship drifting nearby. It appeared inert and didn’t respond to any communications. Combined with our alert status, the atmosphere was tense, as people prepared for the worse.
+
+However, I didn’t think too much of it. I was confident the stealth measures I implemented couldn’t be discovered so easily. I doubted an attack by a large corporation involved a ghost ship, either. They were too proud to pull stunts like this. They were more the type to employ brute force.
+
+“This is the perfect opportunity to test out The Swarm,” I declared the moment I entered the bridge.
+
+It earned me a few strange looks.
+
+“What? Isn’t this the perfect scenario to test it out?”
+
+“Rollo, do you really want us to do something that could get us exposed? Didn’t you just say you were warned about the large corporation being free to go after you now?” Claire chastised.
+
+“We should be fine. Launching The Swarm at them shouldn’t give away much.”
+
+The Swarn was my latest addition to our arsenal of drones. I used various inspirations from games to design yet. It was a simple and effective solution for infiltrating enemy ships to gather intel and perform sabotage missions if required.
+
+The only drawback of it was that it couldn’t fly over to our targets in space. The void was too spacious for that. Someone is required to bring the nanomachines to the target.
+
+As our test commenced, we continuously received reports of those hackers we’ve been keeping a lookout for, resuming and pausing their attacks. It was a strange turn of events that painted them more as a nuisance than a serious attack. It kept us on our toes while we aimlessly flew around.
+
+Before long, the drones of The Swarm completed their mission and infiltrated the floating ghost ship. They found it completely empty, but traces of battle could be seen.
+
+With the ship being so close to Aegis, it wasn’t too surprising. Many people, like pirates, hung around where the wealth gathered. It wasn’t all that uncommon for these pirates to raid ships for their valuables, and that included people as they could be sold.
+
+After that, we stayed on full alert for another week before we finally debated returning to Aegis or, at least, down to our secret Lab Zero in Elevate City.
+
+The ship we were on was only forcefully made into our hidden base. It wasn’t large enough to enable it to be self-sustaining. Our supplies could only last so long. It was a lot longer than a week, but with nothing special happening besides the occasional attacks in our games, we had to consider returning.
+
+“What do you think? Hunkering down in Lab Zero isn’t that bad of an idea. It beats having to stay isolated with our fleet of one.”
+
+“Then what is this ship for if we’re not going to use it in emergencies?” Thorne argued.
+
+“Look, we only have one measly prototype up and running right now. It’s not exactly an option in the long-term. I’d rather be near Lanus’ main body, where it has access to a colossal amount of resources to help us analyze the situation.”
+
+Having gotten my way after some arguing, we proceeded to return to Aegis. We dropped our disguise and flew straight to our private port, using the proper procedures. As we contacted the traffic controller, what they said caught me off-guard.
+
+“Standby for inspection. You are not authorized to disembark once you have landed.”

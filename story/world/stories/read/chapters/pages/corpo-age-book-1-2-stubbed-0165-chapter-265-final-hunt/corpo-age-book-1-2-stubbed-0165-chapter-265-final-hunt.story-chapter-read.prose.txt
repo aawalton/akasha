@@ -1,0 +1,167 @@
+Status
+
+Level:
+
+60
+
+EXP:
+
+5197/6000
+
+Musculoskeletal:
+
+358
+
+Neural Reflex:
+
+191
+
+Visuomotor Coordination:
+
+207
+
+Endurance:
+
+132
+
+Sensory Perception:
+
+155
+
+Upgrade Points:
+
+0
+
+Upgrades:
+
+Enhancements:
+
+SAID: Halls Corp Grand Maestro Elite v1
+
+Bio-Coprocessor: Halls Corp Flash Elite v1
+
+Optics: Halls Corp Monocle Elite v1
+
+Cyberarm (Left): Halls Corp Talos Elite v1
+
+Cyberarm (Right): Halls Corp Talos Elite v1
+
+Cyberlegs: Halls Corp Hermes Elite v1
+
+Vertebral Column: Halls Corp Theseus Elite v1
+
+Auditory: SocialCorp Echo Custom
+
+Vocal: SocialCorp Orator Custom
+
+Cardiovascular: BioGen Lifepump Custom
+
+Sensory: Halls Corp Argus Elite Custom
+
+Additional Processing: Halls Corp Custom ST
+
+Miscellaneous: Halls Corp HSU Custom Shade
+
+After recovering from the stress of having a ton of information jammed into my head, I took a moment to examine my new status screen.
+
+The process wasn’t comfortable, but I would say I was used to it if the upgrade this time didn’t include two physical skills. It was something I hadn’t experienced in a long time.
+
+After my initial days with the system, I focused on production-based skills that imparted knowledge. I couldn’t remember the last time I upgraded my stealth and hacking skills.
+
+The changes brought by these two skills were incomparable to the purely theoretical knowledge I normally gained. I could still feel knowledge flow into my mind, sure, but the greater sum of it was in the muscle memory and intuition.
+
+The feeling was strange. It was hard to describe. I just knew that it became easier for me to identify the blind spots, and my covert movements became smoother and faster.
+
+It was even more extreme for hacking skills, as almost all of it was in intuition. When I looked at a system, I felt my ability to feel its vulnerabilities increased. Combined with my software engineering knowledge, I could make on-the-fly adjustments to my hacking software.
+
+Once I regained my bearing, I swiftly returned to the workshop in our Aegis office and began putting my new knowledge to good use.
+
+I may have upgraded some physical skills, but the majority of the improvement was still in knowledge-based skills.
+
+I directly raised stealth technology and software engineering to plus fifteen. This was to ensure I had absolute superiority over my adversaries at SocialCorp. I had opted to finish this by dealing with the opposition’s leader, so this would help me deliver a surgical strike.
+
+However, raising these skills so high blindly wouldn’t produce the results I wanted. My knowledge of the theories involved was high, but I had no materials on hand that could bring these scientific concepts into practical technologies. That was why I had to spend points upgrading an entirely new discipline, Electromagnetic Materials.
+
+Electromagnetic materials were exactly what I needed to remedy this issue. With no material on the market I could buy, it was up to me to create the alloys that could support my new ideas. It gave me in-depth information on metamaterials that could manipulate the path of a wide variety of electromagnetic waves.
+
+Otherwise, no matter how good I was, using regular alloys, like steel and aluminum, would never allow me to hide from SocialCorp’s targeted scans. Stealth technology allowed me to create ways to cleverly subvert these types of detection, but the materials imposed a hard limit on the potential. It was like a trained chef could cook a great meal, but they could go much further with better ingredients.
+
+Time was the main constraint we had. I didn’t have much time fine-tuning the best type of materials I could create, so I kind of rushed through everything. It was why I brought my skills to plus fifteen instead of only just thirteen or fourteen. It gave me more leeway to rush things along.
+
+Regardless, it still took me an entire week to install the upgrades to my existing power armors. I was banking on the synergy between my stealth skill and stealth technology. After all, just like with combat, having good equipment was only one part of the equation. The operator was the crucial other half.
+
+“How’s the situation?” I asked upon exiting my workshop for the first time of the week.
+
+“Your guardian angel’s defensive fleet has been fighting them for the past two days,” Claire answered. “And it’s not the small skirmish spread across a dozen battlefields, too. They’re pooling everything they got into one big, unrelenting push.”
+
+“Connect me to the big man.”
+
+The situation must be serious because I didn’t hear any retorts or anything. Claire straightforwardly did as I requested and the holographic image of NPC soon materialized before me.
+
+“Are you tracking Silas’ location?” I asked.
+
+“If we could do that, we wouldn’t be fighting the hard fight right now.”
+
+“You must have some clues when it comes to the whereabouts of someone so important.”
+
+“Nothing concrete. Some say he’s on the frontline while others say he is hiding in his colonies in the rear. The only thing we know for sure is that his elite squad, known as the Executors, is on the frontlines.”
+
+“That’s great and all, but I doubt he’ll care if we capture any of them, right?”
+
+He nodded.
+
+“But that isn’t the point that matters. These Executors are his closest aides. They only move on his orders, so they must have a line of communication open to him at all times. If you’re trying to find Silas, they’re your best bet.”
+
+I pulled up the feed on the ongoing war between the two large space fleets. Thousands of shots were exchanged between them every few seconds. Unlike naval warfare, with the third dimension coming into play, the battle looked like a mess in my perspective.
+
+“So just to confirm. These Executors don’t happen to be at the heart of the battle, do they?”
+
+“Probably not. They’re more likely to be on the capital ships in the rear, surrounded by a well-armed fleet that is high on alert.”
+
+“Great. That sounds so much better.”
+
+NPC was no stranger to my plan. I couldn’t take any action without his fleet supporting me in the first place. That’s why we both knew what was to come. Even so, he hadn’t been able to track down Silas’ movements. It showed how careful our enemy was, and also why NPC had warned me about my plan.
+
+It was high risk high reward. I would be risking my own life, as I could only spend my upgrade points on myself. That meant this stealth mission would be undertaken by me alone. The possibility of me dying or being captured was very real, but I persisted with it against his wishes.
+
+Creating a superior fleet using better technology wasn’t something we would be able to do in a few weeks or even a few months. The scale of starships was on another plane. Unlike the improvements I made to my power armor, warships took years to build. Upgrading them would naturally take at least half a year, which was unacceptable.
+
+After being briefed with the latest intel, I convened one final meeting with my employees before I would head out into the frontlines.
+
+“I’ve come up with numerous contingency plans with Lanus. It’s all saved in his main database, so if anything goes wrong, it’ll notify you guys.”
+
+“Things already have gone wrong!” Thorne said, without bothering to hide the frustration in his voice. “Why in the world do you think it’s a good idea to carry out an infiltration mission against SocialCorp alone?! Talk some sense into him, Claire. I should accompany him, at the very least.”
+
+“Thorne—you should know why Rollo is leaving you behind. I don’t think you’d be able to keep up with his improvements. For once in your life, sit still and carry out your own role.”
+
+“That—”
+
+Thorne was stunned at being reprimanded by the person who he had thought was an ally to his cause. Leaving Thorne speechless, Claire turned to me with a sharp glare.
+
+“Go on and take your stupid risks. Just be sure to end this one and for all.”
+
+She punched me lightly in the chest and stormed away while dragging Thorne along. As they disappeared from view, I couldn’t help but remember the first time we met, when they were captured by some company to be used as test subjects.
+
+They hadn’t changed at all. Many could say that may be a bad thing, but to me, I was happy about it. It showed they weren’t jaded by the harsh realities of society. For a dystopian world like this, it was impressive. Too many had lost hope and settled into their mundane routines. Too many resigned themselves to a life of servitude.
+
+In my opinion, that was literally strangling the potential of humanity. Only when there was hope that people strove to improve. Only when there was a significant number of people striving for a better future that it was possible for our potential to be realized.
+
+Shelving away any last bit of sentimental feelings I had, I moved to the hangar to prepare the stealth ship for my upcoming missions. I spent the last week in my workshop, which meant I hadn’t upgraded the ships. As an alternative, I brought a heavy suitcase with me to the ship. Inside, it was filled with the upgraded nanomachines my Shades made use of.
+
+If I didn’t have time to upgrade the ship, I would just have to upgrade something that could supplement it. These nanomachines could cover themselves all over the hull to help the vessel achieve a higher level of stealth.
+
+It wasn’t long before I got the green light to launch, and a small ripple could be seen on the hangar’s energy shields.
+
+I had turned on all stealth systems already, as the enemy would likely be closely monitoring any action Aegis took.
+
+The battlefield grew closer and closer, and the flashy lights of laser beams firing and ships exploding filled the scenery. We chose to set off during the moments the fighting relaxed a little, but I still decided to take a roundabout path. I circled the active battlefield and slowly approached a fleet surrounding a colossal starship in the distance.
+
+It was painted a deep royal purple and had dozens of gun batteries at the ready. It was one of the suspected flagships for this offensive fleet, and my destination.
+
+Despite it being surrounded by dozens of vessels that constantly sent out active scans of its surroundings, my intuition guided my approach that maximized the effectiveness of the metamaterials coating my hull.
+
+Like that, I weaved through the dense escort fleet and reached the gigantic ship. Confident no one would be able to detect me electronically or visually, I strode out of the ship and made the short jump to the purple hull.
+
+Once I made contact with my target, everything that came after became much easier. Finding a conduit that connected to their system, I injected the breaching software I had prepared, beginning my quest to wrestle control of their systems.
+
+It was time to confront the most powerful corporation in the solar system.

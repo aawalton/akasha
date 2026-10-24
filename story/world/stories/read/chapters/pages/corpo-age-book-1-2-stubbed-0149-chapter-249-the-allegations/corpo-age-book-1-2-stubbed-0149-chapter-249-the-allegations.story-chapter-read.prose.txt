@@ -1,0 +1,83 @@
+I watched as one of the two detectives across from me seemed to not be paying attention to our talks at all. He was wearing a white coat and was completely absorbed in whatever he was doing on his handheld terminal. However, his partner in the burgundy suit raised an eyebrow at my denial of having any involvement with artificial intelligence. Seeing this, I elaborated to make my case.
+
+“Please don’t be fooled by the rumors. Our games just employ the standard pseudo-AI that is in compliance with all the existing regulations. Perhaps people have gotten jealous of our popularity and are defaming us.”
+
+The detective in a red suit stared at me for a full minute before opening his mouth.
+
+“I have heard about the meteoric rise of your business, so that may be a reasonable explanation, but the people who have brought these allegations to you have brought some circumstantial but very compelling evidence.”
+
+“Which is?”
+
+Hearing my question, the man who had his eyes glued to his terminal so far placed his screen before me. It showed two videos, side by side, of two people playing our Legend of the Mythic War. The players on screen were both in the auction house, making a serious of transactions. It soon dawned on me it was footage from one of the saboteurs who had been trying to destabilize the economy in the game with stolen accounts.
+
+“Why are you showing me this? These are the malicious users who have been trying to ruin the game’s economy. You think we used an AI to try to ruin our own game?”
+
+I quickly shook my head at the ridiculousness of that line of thought. My mind raced for other possibilities. From the way the hackers kept hijacking accounts one after the other whenever we shut them down definitely appeared to be the works of an AI. It was too consistent. I voiced my suspicions without any hesitation. I needed to keep up the facade that I was getting emotional about the ordeal, increasing the credibility of my testimony.
+
+“No—maybe you think we facilitated testing of some AI? There’s no way we would do that with our cash cow. It’d be too easy to be linked back to us. No one would be that stupid.”
+
+“Mr. Halls, please calm down,” the man in the burgundy suit said.
+
+“How can I be calm when it is so obvious that anyone with nefarious intentions could just carry out this type of attack and then blame it on us? Anyone could’ve been behind this.”
+
+“Then why didn’t you stop these attacks in their tracks? If you are aware of it, you should’ve been easily able to block the connection from these attackers.”
+
+“These hackers or the AI carrying out the hack persistent took over new accounts whenever we did. We believed it wasn’t worth playing a game of whack-a-mole with them when it would only inconvenience our customers.”
+
+“Let’s steer our conversation back on track, shall we?” the man in the white suit chimed in before looking me in the eye. “Mr. Halls, we’re not saying that you’ve assisted anyone in carrying out tests for artificial intelligence.”
+
+“Then what are you insinuating? Be straightforward with me if you’re going to take me into your custody.”
+
+The two detectives shared a glance with each other and fell silent. They were likely conversing with each other through means I couldn’t overhear. While I waited for them to turn their attention back to me, I couldn’t help but miss the legal system in my old world.
+
+While it was far from perfect, I could at least leave everything in the hands of a capable lawyer to defend me. Here, none of that mattered. If the consortium was convinced of your crimes, they could easily take extrajudicial action. Proving their case in a court of law was unnecessary. It reminded me of the unreasonableness of the inquisitions of antiquity.
+
+“Look,” the detective in the white suit finally said, pointing to the screen. “Don’t you see a pattern in how your team responds? Your attackers tried to break the economy in your game in various ways, but it seems your team has responded perfectly in every situation. While the response time differs case-by-case, how likely is it for a company of your size to respond to every incident with such precision? In my opinion, it’s almost like you’re cheating in a game of chess with a computer engine.”
+
+“That’s some highly speculative work you’re doing here in order to cast us in a bad light,” I mechanically replied.
+
+I was panicking inside at the fact, trying to formulate ways to deny their claims. What they brought up was something I had missed! While I accounted for the variance in reaction time, I hadn’t programmed Lanus to purposefully botch his work.
+
+The AI was highly intelligent, sure, but it needed time to learn. It was my responsibility for relying on my creation so heavily. Ever since I created Lanus, I had begun offloading everything to it. Not enough time was spent to ensure it remained hidden. Now I could only come to regret that.
+
+I thought it would be able to handle all situations ever since I gave it access to the web. It was supposed to learn everything it needed from it.
+
+I should’ve known that the web here doesn’t have as much information as my old world. I’ve gotten too complacent for a long time now.
+
+I could only curse at my unseen enemies for attacking me at such a tricky angle.
+
+“Well, unfortunately, Mr. Halls, we see some merit to these allegations. That is why we have invited you for a chat today. To get to the bottom of this.”
+
+“I’m sure your capable consortium has already investigated our servers by now. You should already know we’re clean.”
+
+“That is hard to say. As you said, criminals aren’t stupid. We wouldn’t believe your company is naive enough to leave any traces if you’re indeed guilty.”
+
+“Well, I’m not what else I can say to make you believe I’m innocent, then? I’m trying to cooperate as best as I can, but what else can I do to prove my innocence?”
+
+“Again, please calm down, Mr. Halls. We won’t treat members of the consortium badly. We just need you to stay with us for a day or so and we will have learned everything we need. If you have nothing more to say, should we show you to your accommodations?”
+
+I nodded and allowed them to take me away. While in transit, I was deep in thought the entire time.
+
+What can they do to figure out if I am lying or not? Our servers are clean. All the evidence of Lanus only exists inside my hidden Lab Zero. They can scour every inch of our company and interview each and every employee and find nothing.
+
+Wait—
+
+An idea suddenly popped into my mind that caused me to instantly attempt to send a message outside. After my ordeal with Nova Tech, I had set up more anonymous contacts to discreetly relay messages across various communication channels. It didn’t matter the consortium could monitor what I was sending out. My methods weren’t that easy to figure out. It entailed checking the various news channels in a certain order or submitting comments to viral videos. I just needed to be able to reach the outside world.
+
+Unfortunately, I couldn’t. The building could have jammed all signals or they may have installed some type of jammer on my person without me knowing, but it didn’t change the fact that I couldn’t contact the outside world.
+
+It was a dangerous scenario, as I needed to get a message to Lanus somehow. If I couldn’t, it wasn’t certain that catastrophe would strike me, but it wasn’t a chance I was willing to take.
+
+Since I was captured, it would’ve been surprising if the other members of my company were too. Even the rank and file may be heavily monitored during this sensitive time.
+
+If the consortium was waiting a day before making a conclusion, they must’ve been waiting for something. They hadn’t said it outright, but it was obvious the people who brought these allegations against me were the ones who had carried out the occasional attacks on our games, or at least were in cahoots with them. That meant the consortium was now working with them to gather evidence as well.
+
+If I were in their shoe, I would get the hackers to resume their attack while preventing any of my employees from working. As much as I wanted to hide everything, the number of employees each company had wasn’t that big of a secret. Especially those who worked openly for the company, like the developers for our software business. There was little reason to hide their identities or their numbers.
+
+By doing this, they could monitor the game to see if any corrective action was taken while our entire team was incapacitated.
+
+They banked on the fact that our company was new. If we did develop an AI, it would be new, too. That meant it would blindly follow our orders to maintain the game. If Lanus proceeded to address the cyberattack right now, it would lead the consortium to believe the allegations were true!
+
+All I could hope for was for Lanus to be capable enough to analyze the situation. As its creator, I was confident it had the capabilities to do so, but the question was if it had reached that point yet.
+
+I really should’ve monitored how far along my AI has come more often instead of relying on it for everything…
