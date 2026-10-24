@@ -20,5 +20,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0275Vol5Chapter247DoNotApol
     },
   ],
   createdAt: "2026-10-23T13:46:00.237Z",
-  updatedAt: "2026-10-23T13:46:00.237Z",
+  updatedAt: "2026-10-24T00:46:12.637Z",
+  ownProgress: 1688,
+  progressedAt: "2026-10-24T00:46:12.637Z",
 } as const satisfies StoryChapterRead
