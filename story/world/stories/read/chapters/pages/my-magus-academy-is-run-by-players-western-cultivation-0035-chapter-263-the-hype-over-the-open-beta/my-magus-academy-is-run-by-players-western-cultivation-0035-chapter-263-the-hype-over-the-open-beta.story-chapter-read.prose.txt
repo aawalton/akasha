@@ -1,0 +1,109 @@
+Dev Diary #11: Beta Version 0.6
+
+“Hear ye, hear ye! Guess who’s back with another juicy dev drop? That’s right, it’s me, your ever-faithful promotional manager. You probably thought, ‘There’s no way another patch is dropping just a week after the last one,’ right? Well, buckle up, because Version 0.6 is coming out today!”
+
+“And it’s all thanks to the tireless efforts of our programming and design teams, who’ve been working around the clock like caffeinated golems. With our superintelligent AI systems now advanced enough (whoops) to handle content creation with minimal developer oversight, updates like this are coming in hot and fast.”
+
+“Furthermore, thanks to the incredible feedback from you players, the dev team decided to go all out in this update. And I mean all out. Between squashing bugs, launching a massive new explorable map, adding a major academy facility, and (totally not) crying over conflicting code, they’ve cooked up an update so big it could pass for a full-blown DLC.”
+
+“So, without further ado, let’s dig into the update and uncover what makes Beta Version 0.6 one of the most exciting to date!”
+
+“After liberating Brightmoon City, the Sanctum of Interdimensional Magi isn’t stopping for a breather. Far from it, in fact. There’s an entire territory waiting to be explored, managed, and reclaimed. From farmland and mines to forgotten ruins, this is your chance to become more than a student; you’re about to become a pioneer. Gather your guildmates and prove to the world that the Sanctum is here to stay and rule.”
+
+“With Brightmoon City officially under academy control, it’s time to roll up your sleeves and dive into the nitty-gritty of territory management. Whether you’re clearing out magical beasts from the wildlands or rebuilding trade routes and farmlands, this new content brings hands-on gameplay for everyone—from combat-focused players to life-skills players.”
+
+“Next on the list, I want to discuss this new meditation paradise. Now, I know the fee of five hundred merit points per hour is steep, but the benefits are worth every point. Compared to ordinary environments, the rate of meditation progress here is more than ten times greater! “Where it would normally take an in-game month to advance from one step to the next, here you’ll need less than three days to achieve the same progress.”
+
+“To keep the experience as realistic as possible, access is capped at only fifty people at a time. The reason is simple: the cavern’s mana and elemental energy can be depleted, and those are exactly what make it a true meditation paradise. So, if you’re aiming to become an official Magus and dream of blasting magical beasts or striking down villains, this is your best chance to get there.”
+
+Victor chose to open only the section of the cavern farthest from the lake, as he didn’t want players disturbing the Abyssal Myrmidon slumbering beneath its waters. Moreover, he intended to reserve that area — where mana and elemental energy were at their densest — for himself and, perhaps, select academy staff. Fortunately, he had already prepared a concealment spell formation in advance, ensuring players wouldn’t accidentally stumble upon it.
+
+“Now, let’s address the elephant in the room. This is a feature that countless players have been asking for since the first day of the game. Yes, it’s finally here; restricted R18 content is now supported. That means deeper, narrative-driven relationships between players and NPCs are now possible. But listen up, there are rules. All romantic content must be consensual, and only one relationship is allowed at a time. This isn’t a dating sim. There will be no forced, exploitative, or inappropriate content. Think of this not as an adult patch, but a tool for greater immersion. If you cross the line, the game’s system will know, and appropriate punishment will be given. Please refer to the updated guidelines for more information on this.”
+
+But then, a stray thought crossed Victor’s mind. What would happen if players — or worse, native NPCs — ended up pregnant? Surely, despite there being magic that prevented pregnancy, accidents could happen. Even if he could place restrictions on the Shadowlink Marks so that players’ avatars couldn’t get pregnant, he couldn’t possibly do that to all the natives…
+
+It looked like the worst-case scenario that he was thinking couldn’t be avoided and was bound to happen sooner or later. Only Victor and some of the players knew that the “game” was a real world, so these ignorant players wouldn’t know the real implications.
+
+“Oh well, I’ll think about it when it comes down to it,” he murmured.
+
+“Moving on, Magus Academy Online is officially going into open beta! After half a year of closed testing, we’re finally ready to open the game to the public. Of course, the strict cap of four hundred new players joining the game each day will remain for the foreseeable future, but the path to getting in has gotten a whole lot easier.”
+
+“You can now invite your family and friends to sign up for the game. Your father, mother, brother, sister — even your distant cousin and cranky neighbor can apply. Yes, even your old grandma could soon be casting fireballs in class! While the overall quota remains limited, the selection criteria have been relaxed. Are you excited? Of course you are!"
+
+Although it was now in the open beta phase, prospective players were still required to fill out a questionnaire. Victor had promised that the allocation of player slots would no longer be based heavily on real-life skills, but rather on dedication and commitment. However, unbeknownst to them, Victor continued to personally vet players based primarily on their personalities. Regardless of how far the “game” progressed, he had no intention of letting trolls slip through the cracks.
+
+“This update will also mark the end of winter. Say goodbye to snow and say hello to magical beasts entering their mating season. With the new season rolling in, players who don’t like violence can now take the opportunity to help expand the farmland outside the academy and assist farmers across nearby villages and the city. It’s a perfect time to rake in those juicy merit points.”
+
+“Next up, let’s talk about a major addition that many of you have been begging for. I constantly see new players complaining about missing out on past events — jealous of the veterans who got all the glory (and loot). Sure, the Virtual Combat Chamber gives you a taste, but let’s be real, it’s not the same without the thrill of looting actual enemies. But fear not! The brand-new Mystical Dungeons facility is here!”
+
+“These dungeons let players relive major events from the past — not as simulations, but as full-fledged, lootable, replayable content. No more fake one-time-only dungeons! Better yet, access is completely free, unlike the Virtual Combat Chamber. No number limitations, no rental fee. Just pure dungeon diving.”
+
+“Of course, with greater rewards come greater risks. Dying in these dungeons will result in the usual death penalties — including potential item loss. That’s why each dungeon has a clearly marked difficulty level, and parties of five are required to enter. This helps minimize casualties and maximize your odds of survival.”
+
+Victor didn’t want to deal with players complaining about losing their gear in the dungeons, so he made sure everything was clearly explained up front. That way, no one could claim they weren’t warned. If they still got complacent and suffered the consequences, the blame would rest squarely on their shoulders — not his.
+
+“All right, quality-of-life improvement is coming! Your Shadowlink Mark can now teleport you to any registered Teleportation Waypoint directly — no more needing to jog to the nearest one first. That’s right, travel just got a whole lot more convenient and instantaneous. This, of course, doesn’t mean that you can use it as a last-second escape method since it takes a few seconds of uninterrupted activation to trigger. As such, don’t count on it to save you at the last second from a fight you can’t win.”
+
+“Onto the next point. Players can now say goodbye to annoying forced logouts during maintenance! We know some of you, who have no life, don’t want to spend even a single day back on Earth if you can help it. Well, we heard you. Maintenance will now be non-intrusive, allowing you to stay logged in through most updates — unless a critical fix demands a full reset.”
+
+“Last but not least, I want to talk about the monthly subscription fee being introduced with this update. I know, I know — it’s always been our goal to make the game accessible to everyone, which is why we’ve never charged for the gaming capsules, and we’ll never do so going forward. And yes, your first month of gameplay will still be completely free.”
+
+“However, to continue delivering the best experience possible, we’re introducing a monthly subscription fee of ten dollars starting from your second month onward. If that feels like too much, don’t worry. You’ll also have the option to pay the equivalent in mana crystals via the in-game currency exchange. This way, dedicated players who grind in-game can cover the cost without spending a cent in real life.”
+
+“I think that just about wraps things up for the eleventh installment of the dev diary. While this update might not come with a massive, explosive event, it’s still packed to the brim with meaningful content. As the official transition into the open beta phase, this marks one of the most significant milestones in the game’s development. Hopefully, I’ve covered everything you need to know — and that you, the players, have plenty to get excited about. Until next time, happy gaming!”
+
+There were actually several reasons why Victor implemented the monthly subscription fee, despite not particularly needing Earth’s money:
+
+Of course, these reasons weren’t publicly stated. Outwardly, it was framed as a necessary measure to maintain server quality and ensure continued content development. But in reality, it was yet another layer of control in Victor’s grand plan to shape his ideal academy.
+
+Some players might complain, or even threaten to quit. But realistically, would they walk away from the only fully-immersive VR game in existence?
+
+The question barely needed to be answered.
+
+And even if some truly did leave, Victor could simply reclaim their gaming capsules through Auralise’s company or even the mysterious figure that the former headmaster had left behind. Their avatars could also be converted into NPCs or repurposed for future functions. Either way, the system remained firmly under his control.
+
+Regardless, Victor tapped “Enter” on the holographic screen and uploaded the update as well as the entire dev diary to the official website forum. He then cracked his fingers and leaned back in his chair with a yawn.
+
+“I wonder how the players will react to this update,” he murmured.
+
+“Aren’t they always excited over nothing, Master?” Lizbeth quipped. “I bet it’ll be the same this time too.”
+
+“Hah, you’re probably right.”
+
+Since this marked the transition into the open-beta phase, Victor wanted to observe firsthand how the players responded. As usual, it took less than two seconds for the first comment to appear. From there, the forum exploded: replies, theories, praise, confusion, and questions flooded the thread almost instantly. Seeing this, Victor chuckled. He couldn’t help but wonder whether these netizens were secretly using bots… or if they just had absolutely nothing better to do with their lives.
+
+Faster_Than_Light: “Thank you for the update.”
+
+Hornycrab: “First!”
+
+Hornycrab: “Wait, what the heck! Are you a bot or something?! (╯°Д°)╯︵/(.□ . \)”
+
+ProcrastinatingPanda: “Man, the time between this update and the last one is less than a week. How is that even possible? Even with a dev team of hundreds, no normal game company can push out content this fast.”
+
+Storm Bringer: “Fascinating. I must say that this update could seriously change the game as we know it.”
+
+Prominence: “Dude! Y’all are missing the real headline here! Call it restricted if you want, but it’s still R18 content! Are you telling me it’s finally possible to snu snu in-game?! (͡° ͜ʖ ͡°)”
+
+ButaYaarou: “I want my sweet waifu Columbina to sit on my face and sing me a lullaby.”
+
+Locktekei: “Bro, you’ve been switching waifus every update. Can you please stick to one for once?”
+
+Castlefrost: “This bunch of weebs is a lost cause…”
+
+GiveMeTheNuclearCode: “C’mon, YOU people are being way too narrow-minded! We’ve got the Virtual Combat Chamber, right? What if we used it to simulate a scenario from an R18 doujin manga? #iykwim”
+
+Prominence: “Genius move, brother! Why didn’t I think of that sooner? Let’s cook up something spicy — just like the ones in Rule… you know… [smoil.jpg]”
+
+TeletubbyPink: “Can I join too?”
+
+JoVar: “+1.”
+
+Alizabeth: “+2.”
+
+QuantumMind: “Please refer to the update before the previous one. The Virtual Combat Chamber cannot be used to simulate indecent content. ☝️🤓”
+
+SirLaughsALot: “I swear, the number of degenerates in this community just keeps rising. Even temporary bans don’t work anymore.”
+
+Mythos Detective: “Preach, brother. Preach. 👏”
+
+Reading these comments, Victor couldn’t help but shake his head and silently join both SirLaughsALot and Mythos in mourning the ever-growing degeneracy of the player base.

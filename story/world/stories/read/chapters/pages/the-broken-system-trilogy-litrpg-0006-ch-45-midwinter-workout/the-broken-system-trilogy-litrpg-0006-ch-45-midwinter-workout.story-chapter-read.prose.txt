@@ -1,0 +1,67 @@
+A few unexpected things happened over the next month. The first was that the pine tree that the strange young emissary had planted continued to grow and bloom even as the weather got colder. The pastries never came back, but every few days, some new fruit would pop up, and they would find it waiting there when they woke up in the morning. Blue plums and purple melons were the most common as the days went on, but there were other, stranger varieties, too.
+
+It was a welcome surprise because the second was that they were running through food faster than they’d anticipated, thanks to spoilage. It was heartbreaking to see so much of their hard work going down the drain, but as the weeks wore on, they found more and more dried fish or smoked venison that was obviously too decayed to eat.
+
+Still, Raja managed to catch a few hares and, once, a mangy wolf, and they still had all the acorns they could stomach, provided they spent hours grinding them into a thin paste. So they weren’t going to starve, but most nights they all went a little hungry, as the dwindling cache of food got smaller and smaller.
+
+During these dark, restless days, they all worked on their own little projects. He worked on his coding projects, Emma sharpened her knives or argued with Matt, Nicole stitched Raja’s spare leather into something resembling armor, Raja worked on creating a new, better bow, and Matt mostly just stared into the fire. It was the last one that disturbed Benjamin the most. Trapped in this tiny room with the rest of them, his eyes took on the intensity of a caged beast.
+
+Benjamin felt it, too. They all did. Only Raja had managed to maintain his good humor despite everything that had happened, and though he couldn’t tell jokes exactly, he laughed at everyone else’s even when they weren’t funny and did his best to keep everyone’s spirits up.
+
+It was worse after the sunset, and the only light came from the small fire they kept burning all the time. After that, there wasn’t really enough light to carve or sew, and everyone either chatted or just waited for sleep to take them. Benjamin, at least, didn’t have that problem. Those were his most productive hours.
+
+He’d already installed the time dilation runes into his codex so he could work at double speed, but nothing was better for productivity than a few hours of uninterrupted work time. In the last few weeks he’d made great progress. He’d been forced to pick up persuasive suggestion to test whether or not he’d successfully hardened his system to mind-control magics. It had wasted a spell slot, but there was really no other way to test it.
+
+Persuasive Suggestion (0 mana): Make a target more likely to help you with anything you ask. Unlikely to work on emotional decisions, or subjects which the target has pre-existing strong feelings about.
+
+He probably should have picked up dominate because it seemed likely that it was more powerful since it cost eight mana, but the very idea of the spell had disgusted him. Regardless, his results had been outstanding. Not only did the changes he made to Raja’s system make his friend completely immune to the magic, but the alert that Benjamin installed to indicate that someone was trying to control him popped up on Raja’s HUD. It was a big step forward.
+
+Benjamin wasn’t so foolish to conclude that he’d conquered this issue in a single stroke, but once he’d started down this rabbit trail, the result had been fairly straightforward. Every day he worked on this problem, he grew more convinced that these defects were intentional.
+
+Some of the earlier problems he’d found, like the unencrypted log files, could have just been sloppy, but to him, it was clear that whoever had designed this system had done so that it was as easy as possible to control the people using it.
+
+It was enough to make him wonder if the taskmasters and the powers that be had the same system or if they used something entirely different than the people they lorded over. That thought disturbed him and made Benjamin wonder what else they might be capable of that he wasn’t ready for, but it wasn’t a constructive thing for him to focus on.
+
+Instead, he focused on the tasks that he could. He needed to make a virus that could infect a large number of strangers and pass between them, and then somehow use that to hack everyone. He’d managed to increase the strength of his brute force attack further by ruling out certain rune combinations that were impermissible within the systems themselves, in the same way a modern OS wouldn’t let you use certain characters when naming a file because it could screw with the file structure.
+
+That discovery had only reduced the complexity of the problem by a couple of orders of magnitude. That wouldn’t be enough to get where he needed to go anytime soon. However, it pleased Raja greatly to be brought one small step closer to getting his voice back.
+
+Then it occurred to Benjamin that he might have been going about this the wrong way, and he ended up spending the next few days feverishly creating a new spell: Data Leak. In a sense it was a war dialer, which was a term that was old when he was young, but basically it took advantage of the same openings he’d just spent the last couple of weeks closing, and convinced the system to give you the key to its own defenses.
+
+Despite the fact that he had magic, he still couldn’t make math go faster when he was checking every single possibility. What he could do, though, was use those security gaps meant to allow for the mage’s foul commands to smuggle data back out. This proved to be a remarkably easy trick to accomplish, but before he finalized the spell, he needed to work on the contagion effect so that it became self-spreading, and there were some parts of that he hadn’t quite worked out.
+
+That was fine. It would come to him. Benjamin had no idea what month it would be in the real world but imagined that it was January or close to it, so he had months left to figure everything out. He used the break to help Raja with his bow project. Lesser creation wasn’t very good at putting complex objects together, but it was pretty good at shaping simple ones, and together with Raja, they proceeded to slice a piece of wood into thin segments and then melt them back together in such a way that the grain alternated.
+
+On Earth, this would have involved glue, and the block of wood they would have ended up with would have been called a laminate. Here, though, it was better. There was no glue. It was just a piece of wood with an impossible amount of rigidity for its size, and that was something that Raja could shape to be what he needed. It still wasn’t as good as the sweet compound bow he’d lost, but when it was done, it was going to be worlds better than what he was struggling to hunt with right now.
+
+It was only when they were all about to go stir-crazy that they started to spar in earnest. One morning, after weeks where not even a single monster had been sighted, and they just couldn’t take sitting in the warm, dark little cave they’d built, they decided to spar.
+
+At first, Benjamin convinced himself it was like calisthenics but slightly more aggressive, but after watching Nicole take Raja apart in a series of armlocks that surprisingly didn’t require healing, he decided it was more like MMA or boxing and immediately began to dread his turn.
+
+Matt called the winner of that fight as it started, which pitted him against Nicole. This was a fight worth watching. Raja had no real training in melee combat, so he was every bit as lost as Benjamin would be compared to these two, but here was a combination of strength vs speed, and though Matt refused to strike the girl, letting her score hit after hit with fast kicks and leaping strikes, once he got his hands on her, he forced her to the ground putting her facedown in the snow until she conceded simply because she was freezing.
+
+That just left him and Emma to slug it out after that. Benjamin honestly wasn’t sure who was going to win this one, given Matt’s hesitance to hurt her before now. He quickly became more interested in just how different Nicole and Emma were fighting. Nicole used her long legs to overcome the reach disadvantage from her short stature, but Emma moved inside Matt’s guard as soon as possible. She stayed there almost the whole time, almost managing to weave out just in time. In the end, he was certain that if she’d had her knives instead of her fists, Matt would be a dead man, even with his healing.
+
+Still, as it was, she could never hope to bring him down barehanded, and eventually he walked away rather than get serious with the woman he loved. Which, of course, meant that it was his turn to face off against her.
+
+“Come on, Benji,” she purred. “I’ll go easy on you. We can fight with one hand tied behind my back.”
+
+He thought about it for a moment but knew he still wouldn’t have a chance. “How about I admit defeat proactively, and you two try to help us learn a few useful moves instead,” he volunteered. “There’s no way that Raja or I can beat a pair of ninjas like you two.”
+
+Emma seemed genuinely disappointed that he wasn’t about to let her wipe the floor with him, but it was the look that Nicole gave Raja that was infinitely more telling: there was no way that the two of them weren’t banging during the times he went off on all those long hunts. Not after the flicker of smolder he just saw.
+
+This, at least, they agreed to, and with a short explanation, the boys found themselves being put through their paces by the girls. Despite the falling temperatures, the vigorous exercise kept all of them at least a little warm, but the whole time, he was more than a little distracted.
+
+Suddenly, Benjamin found himself both jealous of and happy for his friend. Nicole still wore her wedding ring, which struck him as a little weird, but she was very cute. He hoped they’d be happy together, just like he hoped that Emma and Matt would figure out a way to be together again. Not that it seemed likely at this point. He’d be perfectly happy being the fifth wheel for a while if everyone else got to be happy.
+
+At least until he found a nice elf girl to settle down with, he decided with a smirk.
+
+It was that fantasy that cost him. Until that moment, Emma had been taking it easy on him and letting him practice his blocks in a way that was challenging but doable. The moment he looked distracted, though, she delivered a savage jab to his solar plexus that brought him to his knees.
+
+She let him lay there dazed in the snow for a moment before she helped him to his feet. When she did that, though, she whispered, “The next time you lose focus, I might kill you myself.”
+
+Shortly after that they all went back inside the hovel to warm up, but even Benjamin thought that what they’d just done was a good idea, and that they should probably do it more often, no matter how psychotic Emma could be.
+
+The rest of the day was pretty normal, and Benjamin was dead asleep when Nicole came back in and woke everyone sometime in the middle of the night. “You have to come quickly!” she shouted excitedly. “Hurry, come on!”
+
+As he struggled against sleep’s formidable grasp and tugged on his shoes, Benjamin noted that she didn’t sound afraid, though she didn’t know what else it could possibly be.

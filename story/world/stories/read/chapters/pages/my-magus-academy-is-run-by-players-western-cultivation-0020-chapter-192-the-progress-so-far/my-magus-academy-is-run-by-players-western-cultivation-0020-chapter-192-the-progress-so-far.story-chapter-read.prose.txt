@@ -1,0 +1,91 @@
+Victor yawned in his chair as he looked over the blue holographic screen before his eyes.
+
+[Mission Accomplished!]
+
+[Congratulations on passing the mission. You have successfully demonstrated your strength against the foreign invader and stopped the invasion.]
+
+[The reward (5,000 academy points and ???) has been issued.]
+
+He could see the past mission accomplished notifications from the Headmaster’s Journal’s history. This particular mission had been marked as completed right after the deal with the Ghost Necromancer — a deal that still left a bitter taste in his mouth.
+
+In fact, it had been a month since the harrowing events of the undead invasion and the climactic battle against the flesh monstrosity. In that span of time, Victor had introduced the Beta 0.2 version update. While the update didn’t add any particularly groundbreaking new features, it did serve to refine the expansion by addressing various “balance” concerns.
+
+As per the agreement, Valeria would withdraw her army and would only occasionally harass the players beginning a week from there to keep the event going. In return, Victor was tasked with providing her with all sorts of food ingredients, making a routine weekly delivery to her. Reduced from a dignified headmaster to what felt like a deliveryman, Victor could only sigh in resignation every time he thought about it.
+
+At least, the silver lining here was that he could taste her cooking each time he went there, and he must admit that her dishes were the devil’s temptation itself.
+
+Regardless, the recent update had successfully stabilized the sharp decline in living players, and the month that followed saw the academy not only recovering its losses but surpassing them entirely. As a result, the total number of players had now reached exactly 1,153 — more than what it was before the invasion.
+
+Speaking of the total number of players, the academy points, as well as the progression value points, have been piling up too, Victor thought, opening the main tab.
+
+Academy Name: Sanctum of Interdimensional MagiHeadmaster: Victor AsteriscusAcademy Points: 7620Academy Grade: Level 4Total Acolytes: 1153/2000Total Professors: 1/2Total Assistant Professors: 4/8Progression Value: 910/2000
+
+Since Valeria hadn’t formally joined the academy, she wasn’t registered as one of the professors. Even if she decided to officially join, Victor was still short four assistant professors to meet the required staff quota. On top of that, he had yet to gather enough progression value points or reach the necessary number of acolytes to advance the academy’s grade.
+
+In truth, the past month had been devoted entirely to recovery and rebuilding broken buildings and facilities like the academy’s wall. Even the few main missions he had received during that time were centered around guiding this effort, earning him a total of 2,000 AP. With the current level of the Nexus Tower, it had taken significant effort just to get the academy back on its feet.
+
+Despite using some of these academy points to purchase alchemical recipes, blueprints, and other things, Victor found himself sitting on a hefty surplus of academy points, unsure of how best to spend them. He really wanted to pull a Nexus Temporal lootbox at least once to see if he could get a magic artifact — a grade higher than the standard magic tools. It would undoubtedly amplify his power by leaps and bounds.
+
+“But I can’t rely solely on luck to do so,” he muttered, shaking his head.
+
+Neither Lizbeth nor Lillie were around to question his soliloquy, as they were enjoying a quaint tea party with Anne and Rosalie serving them in Lillie’s room. As for Brown, he was currently dispatched to the village to take care of some matters like settling and becoming the middleman for the wolf therianthrope tribe led by Rex, so he wasn’t here.
+
+Interestingly, Lillie had advanced to a first-stage Initiate Attunement acolyte and was already on the verge of reaching the second stage, a feat made possible by her monstrous aptitude. In contrast, Anne and Rosalie, the village head’s granddaughters, who possessed mediocre aptitudes, were still stuck in the first stage. Well, he very rarely taught them and mostly had Elara to teach them magic.
+
+But what was important was Victor’s progress over the past month.
+
+Victor Asteriscus
+
+HP: 100%MP: 1222/1222
+
+Power Rank: Third-sigil Elemental Adept Magus | Ki SentinelElemental Affinity: Cosmo (97%) | ??? | Anemo (82%) | Pyro (57%) A case of literary theft: this tale is not rightfully on Amazon; if you see it, report the violation.Mana Aptitude: Advanced bright gradeMeditation Technique: Omni-Elemental Fusion Method (third sub-level, 99%)Breathing Technique: Harmonic Resonance Art (second level)Status: Healthy
+
+Strength: (38 → 40)Agility: (38 → 39)Vitality: (38 → 40)Magical Power: (50 → 51)Infused Mana (total): (1044 → 1222)
+
+Spell Repertoire:
+
+In just a month, he had progressed from just forming his third sigil to nearly forming his fourth. It was worth noting that it typically took an Elemental Adept Magus months or even years to form each sigil, with the process becoming increasingly difficult as more were added. This remarkable pace was thanks to the massive number of mana crystals he had used, combined with Victor’s exceptional mana aptitude.
+
+Actually, he should have hit the ceiling of his current level a week ago and been able to form his fourth sigil by now, but something was preventing him from doing so. And he assumed that the reason lay in the peculiarity on the status screen.
+
+Indeed, the reward marked as “???” from the main mission had turned out to be another elemental affinity, as revealed in his status screen. Victor was convinced that this new affinity must be either the extremely rare Chrono element or, at the very least, another rare one. Still, he reminded himself not to let his hopes get too high.
+
+“But if it’s of the Chrono element, would that make me the first Magus to wield both Chrono and Cosmo in this kingdom? No, perhaps in the entire world…!” he mused in total excitement. The mere idea of such a monumental achievement was enough to make his heart race. His name would definitely go down in history.
+
+However, even as an Elemental Adept Magus, possessing both of the rarest elemental affinities would make him a prime target. If this secret were exposed, evil Magi would undoubtedly come after him. Those ancient relics of power, long hidden in seclusion, might resurface just to experiment on him — or worse, to extract his affinities for themselves. While there was a chance that some benevolent Magi might offer their protection or even take him under their wings, that was not a future Victor desired in the slightest.
+
+Putting this far-fetched thought aside, Victor had also mastered three new Bet-tier spells: {Nova}, {Space Fold}, and {Gravity Hammer}. The core concepts for these spells had come from the players themselves. There was a massive thread on the forum where players and even non-testing players were pitching spell ideas and even helped generate the spell models using the Spell Generator program — these had inspired and helped him a lot.
+
+To give a short explanation, the spell {Nova} imitated the effect of the stellar phenomenon of the same name. The spell extracted hydrogen from every molecule within a hundred-meter radius. Once enough hydrogen was gathered, it would be compressed and then ignited, triggering a rapid and devastating nuclear reaction. Naturally, the blast wouldn’t be extremely large because of the spell’s tier limitation, but it was still a few times stronger than similar spells of the same tier!
+
+Then there was {Space Fold}. This spell directly manipulated the space around the target, turning the target itself two-dimensional and then folding it on itself several times. It was lethal by default, but if the spellcaster willed it, the folded target could be kept alive and then stored for later deployment. As a result, it became a more controllable and safe form of {Gap Hole}.
+
+Lastly, the spell {Gravity Hammer} couldn’t be underestimated as well. The spell blanketed an area and anyone in it with a field of altered gravity that used the target’s own mass against them, causing them to collapse under their own weight. While it might be the least deadly of the three, its utility in various scenarios made it invaluable.
+
+Victor could feel his confidence rising with his newly acquired arsenal of spells, but his main concern still remained in the fact that he couldn’t form his fourth sigil for some reason and the looming challenge posed by the new main mission.
+
+—— [Headmaster’s Journal] ——
+
+Mission: Long-Distance Travel Inconvenience
+
+With the development of the academy, its sphere of influence has increased many times, leading to increasing travel inconvenience for players. As the headmaster, as well as the mastermind behind this “game,” you must devise a solution that allows for instantaneous movement between locations and establish at least three items of such a device.
+
+Type: Main mission
+
+Device for Instantaneous Movements: 0/3
+
+Reward: 4,000 academy points
+
+“For a mission that seems simple at first glance, the reward of 4,000 AP is very decent.” But the mission wasn’t as simple as it sounded.
+
+Hrm… I remember playing those MMORPGs in the past, and they always had devices for instant teleportation between locations. Why can’t I just make something similar here?
+
+In this world, teleportation formations did exist, but they were highly inconvenient to use. Their operation required an official Magus and consumed vast amounts of mana crystals. However, Victor believed he could bypass these limitations by implementing ideas inspired by those MMORPGs he used to play.
+
+If he succeeded in building and implementing such devices, it would significantly boost player productivity. Furthermore, in the event of an attack on one location, players from other areas could quickly mobilize to provide assistance. Victor himself stood to gain considerable advantages from such a system.
+
+Still, it was easier said than done. Building such devices would require more than just his mastery over the Cosmo element. He needed the expertise of a highly skilled Artificer and a master of magic formations — roles that, fortunately, Eleanor fulfilled perfectly.
+
+“Welp, time to check on her then,” he said with a resigned sigh, already anticipating Eleanor’s reaction to his latest request.
+
+Thus, he raised from his seat and tore open the space before him to get to her workshop.

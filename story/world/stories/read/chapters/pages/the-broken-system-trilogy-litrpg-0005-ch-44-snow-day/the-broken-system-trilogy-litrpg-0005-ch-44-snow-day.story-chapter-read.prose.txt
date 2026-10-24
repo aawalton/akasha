@@ -1,0 +1,75 @@
+“So, we’re just going to jump because she says so?” Emma asked.
+
+Benjamin noticed that she hadn’t let Matt heal the cut on her throat, and the red scabbed-over line stood out in sharp contrast to her pale skin. The wound was an accusation as much as her words, and as Benjamin flicked open his eyes, he closed them immediately.
+
+He was tired of fighting. He had other things to focus on.
+
+Benjamin had been up half the night after the Throne’s envoy had left, trying to prioritize his to-do list. He needed a way to hack into the systems of the other enslaved peoples, which was a task that still eluded him. More importantly, though, he needed some way to protect all of them from the mind-control magic of the Rhulvin. Thinking about how easily Ethan had used that wand against him was disturbing, and Benjamin was sure that was the tip of the iceberg as far as those dangers went.
+
+Right now, Raja was checking a billion combinations a day, but that was still just a drop in the bucket. So, not only did he need to find a way to upgrade his hacking tools by several orders of magnitude, but he also needed to build the magical equivalent of a firewall from scratch, and he had three months to do it. It was a nightmare project, and instead of letting him focus, Emma wanted to pick a fight with him about whether or not he’d given into the Throne.
+
+He sighed. “I’m very sorry that I chose to save your life. Mea culpa.”
+
+“What?” she demanded, her outrage going up another notch. “You did no such thing! I could have—”
+
+“Gotten your head cut off if you moved a muscle,” Matt interrupted, agreeing with him for once. “That fae woman could have killed us all if she’d felt like it, Emma. Just drop it, okay. It’s not like we had other plans.”
+
+“I can take care of myself,” she said in a huff, though he noted she didn’t refute anything Matt had said. He also noticed that she didn’t go outside like she usually did at this point. He didn’t blame her. He’d gone out first thing in the morning to pick any of the remaining pastry ornaments before the birds got to them so they could all have one nice breakfast, and it was cold out.
+
+Thanks to Raja’s efforts, they had some leather boots and fur gloves they could wear, but without serious winter gear, none of them belonged outside for long. He expected it would only get worse, too. The snow had not stopped falling, and it was almost up to his knees now, which was just enough to start floundering in.
+
+“I mean - what could we possibly have to do that’s more important than saving people who are stuck in the same position we were in?” Nicole asked.
+
+“How about… surviving?” Matt asked. “Fighting those people would be no joke. I’m not sure I can protect all of you if it comes to that.”
+
+He let them debate the issue as he returned to the task at hand. Coming up with a plan. At present, he had no way to hack the average system user in a timely manner. Even if he assumed that all mages were like Lord Jarris had been, and they all used such low-security passwords, it would still take weeks, which meant, what? Sneaking into one of these villages, tying down someone, and running his brute force program until something gave? That sounded like a terrible plan, but all the alternatives were worse.
+
+The easiest way would be to confront one of the mages and steal their wand. If the data stored within it was as unencrypted as everything else had been, then that would be everything he needed right there. That data could give him a bounded search range that was actually manageable, but of course, they would have to actually survive such an encounter, and escape unbrain-washed, which wasn’t nearly as easy as it sounded in his head.
+
+Honestly, it sounded kind of like a death sentence to him. They’d only killed Lord Jarris because the man had been extremely overconfident, and they would need some crazy guerilla tactics to come up with a way to set that up again. For now, what he really needed to do was focus on some sort of mind-control protection spell.
+
+Benjamin had seen spells for resisting the elements and for demons in the spell list, but it seemed to be a very intentional oversight that there was nothing to shield someone from the very powers that the Rhulvin used to maintain control over their warriors. Still, in a basic sense, it wasn’t hard to imagine what it would look like if he created something new by taking the most important rune sets of a mind control spell and added them to a protection spell. There were many to choose from, and he looked at dominate and persuasive suggestion before he finally decided to go with the latter because even for testing he didn’t like the idea of dominating his friends.
+
+He set that aside to let the ideas percolate and focused instead on the interface. It followed that if the systems intentionally had no access to spells related to mental resistance, then they were intentionally vulnerable to such things. That meant that he should be able to close certain ports and theoretically render them immune which would be better than any protection spell he could craft, right?
+
+It was at that moment he had an epiphany. How are these spells able to work anyway if they don’t have the password to the systems in question? Suddenly, he felt like he was going about all this backward, and he needed to dig even deeper into the subject, but that was when his friends distracted him, derailing his whole train of thought.
+
+“So, what do you think we should do, Benji?” Matt asked.
+
+At that moment, he’d been juggling a dozen facts as he tried to link the runes involved with mind control spells to the way that the system seemed almost tailor-made to accept such commands rather than reject them. He almost had it, and then, as his attention was wrenched away by the direct question, they all fell to the ground and shattered. He would have to try to reconstruct them later.
+
+So, with a sigh, he sat up. “I think that I’ve got an awful lot of work to do between now and spring if we are going to be able to do anything to make our… umm, benefactor, happy, and I think once we do, it will be like kicking a hornet’s nest.”
+
+Matt and Raja nodded, at that, and even Emma didn’t seem quite so hostile once he spoke, so he continued. “Look - long term, I just want to get home - the same as the rest of you, but I haven’t figured that part out just yet, but while we’re here - we might as well help all the other people that have had their lives stolen.”
+
+“But that could be thousands or millions with this many cities. We simply don’t know what we’re dealing with,” Emma said, pointing at the map that was already starting to wilt around the edges. “Why do we have to risk our lives for people we don’t know?”
+
+“We don’t have to,” he shot back, “But I want to. Look - maybe it won’t even be that hard. If I can figure out how to make some kind of self-replicating worm or virus, maybe we can take out the Rhulvarian empire without a shot being fired, but right now, I’m pretty far from that point.”
+
+“What do you mean?” Matt asked. “You were able to unlock all of us pretty easily.”
+
+“Yeah, well, that’s because Lord Jarris used a seriously boomer password,” Benjamin sighed, “But next time, that won’t help us unless the first city we go to happens to be the one that he was taking us to, and all the other enslaved humans were locked up with the same style password.”
+
+“So you mean we’ve only gotten this far because you were what? Lucky?” Emma scoffed. “Figures.”
+
+“It’s better to be lucky than to be good,” he countered, not sure where he’d heard the saying that had risen to the top of his mind. “And I’m pretty sure I can. I just need time, and fortunately, if the weather keeps up like this - I should have a lot of it.”
+
+After that, they debated what their plan should be and where they should go when the weather finally allowed it. Raj and Emma thought they should just go to the closest because that would make for the quickest target, while Matt and Nicole thought that they should strike for Arden, the largest nearby city, where their river met the larger Mississippi-style river that flowed west to the sea. Benjamin thought they were both bad ideas.
+
+“There’s just too much we don’t know,” he said, “But the one thing I do know is that the ones closest to the danger will be the ones most prepared to fight. Anything along the forest here - they’ll be ready for us, but these little towns over here in the middle of nowhere? They’ve gotta be farming communities, or training grounds, or something like that. In my mind, that means big enough to have some kind of overseer but small enough that they might not have a whole army to throw at us.”
+
+“Well, with their awful magic, those mages can turn everyone that works for them whenever they want, can’t they?” Nicole asked.
+
+Benjamin nodded. “That’s true. We just have to make sure they don’t get the chance to give any orders. If we can do that, then everyone should stay nice and docile like a beehive until we can set them free.”
+
+“If we can set them free, you mean,” Emma said, twisting the knife.
+
+It might have been Benjamin’s imagination, but he was pretty sure she was being more aggressive than ever since he’d shot her down a few weeks back, and he wasn’t sure how to take that. To her, everything had become a sort of combat, and he was sure that rejection ranked somewhere way up there.
+
+“What happened to the positive girl who always told us to do our best?” he shot back, twisting a knife of his own. “I miss her.”
+
+This time, the sour look on her face was enough to make her leave the hovel, at least for a little bit, with the help of the furs that Raja had made for their watchmen. “I’m going to go look around, assholes,” she spat, and then she was gone, but the only one that seemed to miss her was Matt.
+
+Benjamin allowed himself a moment to wonder if she was always like this, but he’d been too into her to notice or if everything that had happened had broken some important part inside of her. He didn’t dwell on it, though. They were all broken.
+
+“Alright, so when the snows melt, and we aren’t going to all die of frostbite, here’s what I think we should do,” Benjamin said finally, pulling the map closer to himself. A little disguise, a little luck, and a whole lot of programming, and he thought that just maybe they might be able to get a foothold on Rhulvin territory and start just the sort of insurgency that would let them catch these bastards by surprise.
