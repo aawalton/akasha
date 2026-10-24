@@ -254,6 +254,17 @@ export function lastCompactionAt(filed: Filed): number {
   return 0
 }
 
+function wasSaid(held: unknown): boolean {
+  const entry = parseSaid(held)
+  if (entry === null) return false
+  if (entry.kind === "agent") return true
+  return entry.kind === "person" && typeof entry.sender === "string"
+}
+
+export function saidOnly(entries: readonly unknown[]): readonly unknown[] {
+  return entries.filter(wasSaid)
+}
+
 export function conversationOf(filed: Filed, isPerson: IsPerson): readonly ConversationEntry[] {
   const from = lastCompactionAt(filed)
   return conversationFrom(new TextDecoder().decode(filed.read(from, filed.size)), isPerson)

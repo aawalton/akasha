@@ -82,7 +82,11 @@ export const conversationShaping = {
       decisionKind: "decision-kind/departure",
       statement: "A line that does not parse is no entry.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What was said in a conversation is the named persons' entries and the agent's.",
+    },
   ],
   createdAt: "2026-09-24T16:12:07.522Z",
-  updatedAt: "2026-10-24T16:59:46.087Z",
+  updatedAt: "2026-10-24T20:19:02.834Z",
 } as const satisfies ComputedPropertyModule

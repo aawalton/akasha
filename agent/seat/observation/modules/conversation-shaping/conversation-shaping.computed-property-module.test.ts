@@ -4,6 +4,7 @@ import {
   conversationFrom,
   conversationOf,
   lastCompactionAt,
+  saidOnly,
   shapedLine,
   toolLine,
   workedFor,
@@ -147,4 +148,18 @@ test("a message queued from anyone else names its sender", () => {
   expect(shapedLine(line, isPerson)).toEqual({
     entries: [{ kind: "message", sender: "thea", text: "hello\nthere", at: "t" }],
   })
+})
+
+test("only what persons and the agent said is kept, with no tool, turn end, message or start prompt", () => {
+  const entries = [
+    { kind: "person", text: "You are the couples therapist", images: 0, at: "t" },
+    { kind: "person", sender: "alan", text: "hi", images: 0, at: "t" },
+    { kind: "tool", line: "Bash(akasha read)", at: "t" },
+    { kind: "message", sender: "amy", text: "a note", at: "t" },
+    { kind: "agent", text: "Hello both", at: "t" },
+    { kind: "person", sender: "jenny", text: "hello", images: 0, at: "t" },
+    { kind: "turn-end", line: "Worked for 3s", at: "t" },
+    "no entry",
+  ]
+  expect(saidOnly(entries)).toEqual([entries[1], entries[4], entries[5]])
 })
