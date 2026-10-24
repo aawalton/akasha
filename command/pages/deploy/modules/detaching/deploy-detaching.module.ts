@@ -68,7 +68,24 @@ export const deployDetaching = {
       statement:
         "A service that will not start refuses the deploy rather than running it in place.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A deploy in its own service says when it waits behind another deploy of that thing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "It names the process of the deploy it waits behind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call whose deploy says it waits ends there, and the deploy goes on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That call names the service and the log whose end says how the deploy ended.",
+    },
   ],
   createdAt: "2026-10-20T20:35:30.979Z",
-  updatedAt: "2026-10-20T21:40:47.056Z",
+  updatedAt: "2026-10-24T21:57:27.795Z",
 } as const satisfies Module

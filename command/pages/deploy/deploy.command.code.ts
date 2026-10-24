@@ -49,6 +49,7 @@ import {
 import {
   apartFrom,
   detachedDeploy,
+  toldWaiting,
 } from "akasha/command/pages/deploy/modules/detaching/deploy-detaching.module.code.ts"
 import {
   closureFor,
@@ -190,12 +191,12 @@ async function deployInCluster(
   return tagged.refusals.length > 0 ? answeredWith(said, tagged.refusals, OPERATIONAL) : told(said)
 }
 
-function waitsFor(calledAs: string): Waits {
+function waitsFor(calledAs: string, slug: string): Waits {
   let counted: (() => undefined) | null = null
   return {
-    behind: () => {
+    behind: (holder) => {
       counted ??= setAside(page.maxWallSeconds, calledAs)
-      return undefined
+      return toldWaiting(slug, holder)
     },
     onward: () => {
       counted?.()
@@ -237,7 +238,7 @@ export async function deploy(
     return await iosAppInstalled(slug, given, arrived, wanted.device)
   }
   const follows = wanted.ref === null
-  const waits = waitsFor(given.calledAs)
+  const waits = waitsFor(given.calledAs, slug)
   if (sentToCluster(read.kind, slug)) {
     const away = await heldWhile(
       given.root,

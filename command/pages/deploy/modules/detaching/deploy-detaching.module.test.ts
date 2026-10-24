@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { appendFileSync, mkdirSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { OK, OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   apartFrom,
@@ -15,7 +15,10 @@ import {
   followed,
   placeFor,
   RUNTIME_MAX_SECONDS,
+  saidOfGoingOnBehind,
+  saidOfWaiting,
   startArgv,
+  toldWaiting,
   unitFor,
 } from "akasha/command/pages/deploy/modules/detaching/deploy-detaching.module.code.ts"
 
@@ -173,6 +176,41 @@ test("the call says what the deploy says as the log grows, and ends with its cod
 
   expect(text(said)).toBe("commit\tabc\nrecorded\tauth-proxy\tabc\n")
   expect(answer.code).toBe(0)
+})
+
+test("a call whose deploy says it waits ends there, naming the service and its log", async () => {
+  const place = placed()
+  const said: Uint8Array[] = []
+  let ticks = 0
+  const answer = await followed(
+    place,
+    following(
+      said,
+      () => true,
+      () => {
+        ticks += 1
+        if (ticks === 1) writeFileSync(place.log, `${saidOfWaiting("auth-proxy", 41)}\n`)
+      }
+    )
+  )
+
+  expect(text(said)).toBe(`${saidOfWaiting("auth-proxy", 41)}\n`)
+  expect(answer).toEqual({ report: [saidOfGoingOnBehind(place)], refusals: [], code: OK })
+  expect(answer.report[0]).toContain(place.unit)
+  expect(answer.report[0]).toContain(place.log)
+})
+
+test("only a deploy in its own service says that it waits", () => {
+  const lines: string[] = []
+  const write = (line: string): undefined => {
+    lines.push(line)
+    return undefined
+  }
+  toldWaiting("auth-proxy", 41, {}, write)
+  toldWaiting("auth-proxy", 41, { [DETACHED]: "1" }, write)
+
+  expect(lines).toEqual([`${saidOfWaiting("auth-proxy", 41)}\n`])
+  expect(lines[0]).toContain("41")
 })
 
 test("a service gone with no ending written is refused rather than taken as done", async () => {

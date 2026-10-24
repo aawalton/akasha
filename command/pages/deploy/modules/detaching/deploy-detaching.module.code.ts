@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
   answeredWith,
+  OK,
   OPERATIONAL,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
@@ -30,6 +31,10 @@ const POLL_MS = 1000
 const ALIVE_EVERY = 5
 
 const NAME = /^[A-Za-z_][A-Za-z0-9_]*$/
+
+const WAITING = "waiting"
+
+const WAITING_LINE = new RegExp(`^${WAITING}\\t`, "m")
 
 const UNCARRIED: ReadonlySet<string> = new Set([
   "AGENT_ID",
@@ -150,6 +155,31 @@ function saidOfGoingOn(place: Place): string {
   return `the deploy goes on as \`${place.unit}\` after this call ended, and its log is at ${place.log}`
 }
 
+export function saidOfWaiting(slug: string, holder: number): string {
+  return `${WAITING}\t${slug}\tbehind the deploy process ${String(holder)}`
+}
+
+export function toldWaiting(
+  slug: string,
+  holder: number,
+  env: Env = process.env,
+  write: (line: string) => void = (line) => {
+    process.stdout.write(line)
+  }
+): undefined {
+  if (env[DETACHED] === undefined) return undefined
+  write(`${saidOfWaiting(slug, holder)}\n`)
+  return undefined
+}
+
+export function saidOfGoingOnBehind(place: Place): string {
+  return `the deploy waits in \`${place.unit}\` behind the one putting this up now and goes on after this call ends, and the end of ${place.log} says how the deploy carrying this commit ended`
+}
+
+function waitingIn(log: string): boolean {
+  return existsSync(log) && WAITING_LINE.test(readFileSync(log, "utf8"))
+}
+
 function saidOfUnstarted(unit: string, out: string): string {
   return `\`${unit}\` would not start, so nothing was put up — ${out}`
 }
@@ -188,6 +218,7 @@ export async function followed(place: Place, following: Following): Promise<Answ
       poured(place.log, at, following.write)
       return endedAt(place)
     }
+    if (waitingIn(place.log)) return answeredWith([saidOfGoingOnBehind(place)], [], OK)
     if (tick % ALIVE_EVERY === 0 && !following.alive(place.unit)) {
       poured(place.log, at, following.write)
       if (existsSync(place.ended)) return endedAt(place)
