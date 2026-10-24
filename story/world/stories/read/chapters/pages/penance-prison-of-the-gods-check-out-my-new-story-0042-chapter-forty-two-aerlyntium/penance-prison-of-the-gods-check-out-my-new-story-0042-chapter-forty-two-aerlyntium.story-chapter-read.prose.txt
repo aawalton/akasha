@@ -1,0 +1,197 @@
+Chapter Forty-Two: Aerlyntium“Elizabeth. We were just talking. We just had the same conversation twice. You don’t remember?”
+
+[I am sorry, I do not recall.] And then her light blinked out, and for a long, long moment. And then, her light came back, and she spoke again. [You must claim the Aerlyntium as soon as possible. Once you do, we can repair this floor to its original state.]
+
+"Wait, what?" I said, feeling stupid and out of my depth. “Elizabeth, The memory cores. This is like the third time we are—”
+
+{STOP.}
+
+The voice was deep and resonant, and as it spoke, a spike of pain stabbed in my brain. I blacked out.
+
+The second I awoke again, Crystal started talking, our previous conversation, forgotten. It was as if she hadn’t even noticed me passing out.
+
+[The orb in front of you is called an Aerlyntium. It is where the city of Aerlyn took its name from. These magical orbs keep souls, materials, and even whole buildings intact in magical stasis. They cannot free themselves or be used by anyone other than the Penitent chosen by Rellum. And now that you are chosen, we must fulfill the request. ]
+
+"And If I choose not to?" Rellum, the ‘hero of the world,’ had brushed me off immediately. Why shouldn't I brush off his request?
+
+[Then you are condemning people to a fate worse than Penance. They face non-existence. And besides, there are rewards for finishing Rellum's quests. Death boons, weapons, items. It's definitely worth doing what Rellum asked, if only for yourself.]
+
+I nodded. I had a veritable fortune waiting for me in this treasure room, but more power and treasure couldn’t hurt, could it? “Alright, what do I have to do?”
+
+[Easy, touch the Aerlyntium. It will open, and we can start the tutorial when we return to the entrance.]
+
+I walked forward to the floating orb and gently touched it. The orb slowly split into two, and the halves spun around, forming a vortex. The vortex spun and spun and spun. Until the two halves moved away from each other and started devouring the room's contents. I let out a frustrated yell. "Hey, no, cut that out!" I screamed."Crystal, what are they doing? I needed that stuff!" I rushed forward and started picking up barrels of spices left and right. I tried to get to a few unclaimed weapons or crates, but as soon as I approached, the orb would swoop in and devour the items before me. Eventually, they had their fill of the treasure room, burped contentedly, and flew towards me. The item landed in my hand and then disappeared into my inventory.
+
+Treasure Room Aerlyntium 1/6.
+
+Name
+
+Amount
+
+Effect
+
+Description
+
+Alice
+
+1
+
+This is a merchant.
+
+This is Alice. She fell down a rabbit hole one day and ended up here.
+
+Lanterns
+
+5
+
+It’s a lantern… What do you think it does?
+
+A small metal and glass lantern with a circular bail at the top.
+
+Merchant’s Stall
+
+1
+
+This will allow Alice to sell her wares.
+
+An unstocked Merchant’s stall.
+
+River
+
+5
+
+Do I need to explain rivers to you, too? It’s like a lake, but the water flows in a direction. Like, c’mon, man, it’s water!
+
+It's a plot of water. Connect multiple, and you’ve got a river.
+
+Item Barrel
+
+1
+
+Allows a Merchant to sell items at their shop.
+
+A barrel full of random items useful for the random adventurer.
+
+I spent the next 30 minutes combing through the dimly lit remnants of the treasure room. Dust hung heavy in the air, settling over the scattered debris. There were about six weapons left, each one dulled and tarnished by neglect. I sifted through the remnants, the cold iron rough and gritty under my fingers. The weapons lay among scraps of rusted metal and crumbling leather, remnants of whatever the Aerlyntium had done to everything.
+
+Don't get me wrong, I was happy about the arrows and the armor, but there had been so much loot for the taking, and I was left with a measly six items. I felt cheated by Rellum and betrayed by Crystal-Elizabeth, whatever her name was. I was beyond frustrated, not just with the situation but with myself. How could I have let this happen? All that money, gone. I should have just said no.
+
+[I am so sorry. I didn't know it would do that. I wanted us to get the loot. That money would have funded our next 20 runs, let alone geared us up for the challenges ahead. At least now we know for the future. It will take a minimum of 5 more runs to get the Aerlyntium for this room, let alone any more we need to claim for other rooms.]
+
+My face fell. “Other rooms?” I asked, feeling a new wave of exhaustion wash over me.
+
+[Yes, didn't you hear Rellum? This dungeon floor is supposed to be smaller than it is,] Crystal explained.
+
+"Oh, right. The 20 rooms thing. So there's potentially one of these for each room? That's like over 100 Aerlyntiums we would need to claim. Are they guaranteed to spawn each run?" I asked, trying to wrap my head around the monumental task ahead.
+
+[There won't be over 100; it will likely be around 50. Only 10 of the rooms need to be reclaimed,] she clarified.
+
+"Oh, that's a little better, I guess." I sighed, feeling the weight of the information. I was completely worn out. Every muscle in my body ached, and my legs felt like they could give out at any moment. The relentless pace of this penance was draining my energy fast, leaving me feeling weak and on edge. The exhaustion ran deeper than just physical tiredness; it was an emotional and mental drain that sapped my spirit. Memories of past failures haunted me, while fears of future challenges loomed large. I felt trapped in a relentless loop, with no clear way out. It was hard to stay hopeful when every step forward seemed to bring two steps back.
+
+“Crystal, what's my health right now?” I asked, trying to distract myself from my spiraling thoughts.
+
+[Your health is currently 22/45. I would advise you to take your health potion,] she replied.
+
+“Alright then, get me the potion. How much does it heal again? I don’t wanna waste it like I did that regen potion,” I said, feeling a bit more in control with a plan in place.
+
+[It recovers 10 health,] Crystal instructed.
+
+"So, no reason not to drink it all?" I asked, not waiting for a response. I pulled the cork stopper off and drank the entire potion. I glanced despondently as yet another Memory Core descended from the sky.
+
+{Memory core 12/???}
+
+{Would you like to view the memory?} {Y/N}
+
+“No.” I was tired of these orbs and more than a little mad at whatever it had done to Crystal. I was finally going to deny them.
+
+{Would you like to view the memory?} {Y/N}
+
+“I said no.” My temper rising. Why ask if I couldn’t say no?
+
+{Let me rephrase: You will view the memory.}
+
+Everything faded away.
+
+~~~~~~~Inventory~~~~~
+
+Inventory
+
+Death boons:
+
+Gold:
+
+Name
+
+Amount
+
+Condition
+
+Effect
+
+Description
+
+Arrows
+
+20
+
+1/5
+
+Allows you to fire a bow.
+
+A simple wooden arrow with a stone arrowhead. Stronger arrows provide additional effects.
+
+Arrows
+
+20
+
+3/5
+
+Iron Short Sword
+
+1
+
+4/20
+
+Deals 1-6 damage
+
+A sturdy iron short sword with a simple yet effective design. The blade is sharp and well-balanced, perfect for quick strikes and precise cuts. “Careful, it's sharp!” Four fingers Lasalle.
+
+Iron Dagger
+
+1
+
+1/15
+
+Deals 1-4 damage 5% chance to bleed
+
+An inscription on the hilt reads, “Point towards the enemy.”
+
+Iron Greataxe
+
+1
+
+4/25
+
+Deals 4-14 damage
+
+A massive iron greataxe with a double-edged blade designed for powerful and sweeping strikes.
+
+Iron Greaves
+
+1
+
+3/20
+
+Def + 2
+
+Sturdy and well-crafted iron greaves that provide excellent protection for the legs. These greaves are ideal for penitents who engage in close combat.
+
+Iron Plate Armor
+
+1
+
+3/20
+
+Def +2
+
+Heavy and robust iron plate armor that offers superior protection for the entire body. Its reinforced plates and solid construction ensure that the wearer can withstand the harshest of blows.

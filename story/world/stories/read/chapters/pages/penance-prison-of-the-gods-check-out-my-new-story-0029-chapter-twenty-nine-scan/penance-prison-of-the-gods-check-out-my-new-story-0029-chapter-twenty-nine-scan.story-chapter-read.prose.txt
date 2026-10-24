@@ -1,0 +1,359 @@
+Chapter Twenty-Nine: Scan!
+
+With the number of death boons that I had left, I decided to purchase an additional point in vitality, which cost 5; I would also shore up my defense, magic defense, precision, and evasion. That zeroed me out on boons, but I would have better survivability, even if only just barely.
+
+Stat Boons
+
+Boon
+
+Cost
+
+Current Stat
+
+Effect
+
+Potency
+
+5
+
+1
+
+Adds 1 point of damage to all physical attacks
+
+Vitality
+
+10
+
+6
+
+Adds 5 points of health per level
+
+Defense
+
+1
+
+1
+
+Blocks 1 point of damage from all physical attacks
+
+Magic Defense
+
+1
+
+1
+
+Blocks 1 point of damage from all magical attacks
+
+Precision
+
+5
+
+6
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Evasion
+
+5
+
+3
+
+Evasion is the likelihood of your opponent's attacks missing. Each point higher than the target’s precision adds a 5% chance to dodge.
+
+With the issues of Deathboons settled, I left the room through the only remaining non-boss door. I was in luck. I would get to test my new class right away.
+
+~Run 5, L1, Floor 1, Sewers of Aerlyn~
+
+Two Giant rats, greased with sewage, sat in the center of the room; they seemed oblivious to my entrance. A single torch illuminated the room, hanging above a normal crate. Loot was always welcome, even if the goal was to only us. I was once again naked, except for a bow slung around my shoulders and a quiver full of arrows. “I would like to use my scan ability on one of the rats.”
+
+[Scanning target…]
+
+Enemy Entry 0001: Giant Rat (1): Level 2 (Unaffiliated Horde)
+
+The Giant Rat is a common foe found in the dark and damp regions of the Sewers of Aerlyn. Despite its extremely low health, it can be quite a nuisance due to its Potency, which increases by 5 at each level. Weak spot: Target eyes for critical hit guarantee.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+5/5
+
+Health is burned as fuel to keep you from dying.
+
+Potency
+
+8
+
+Adds 1 point of damage to all physical attacks.
+
+Vitality
+
+1
+
+Adds 5 points of health per level.
+
+Precision
+
+5
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+5
+
+33%
+
+Rat Teeth
+
+1-2
+
+33%
+
+Rat Meat
+
+1
+
+33%
+
+Death Boon
+
+1
+
+1%
+
+The eyes of the giant rats glowed the same gold as the loot stars. Perfect pinpoints to aim at. “How does critical hit damage work?”
+
+[A critical strike doubles the damage dealt after factoring in Strength, weapon bonuses, and the dice rolls.]
+
+“How do I use my aim skill?”
+
+She paused as if my question was the dumbest thing she had ever heard. [Just aim at the target and say, whisper, or think the word aim.]
+
+I slung my bow around, and even though I had never used one before, it felt natural in my hands. I steadied my aim and whispered the word, aiming for the second rat’s eye. The arrow loosed and flew straight through the air as if following an invisible current. The dice rolled. [Critical strike! 14 damage! You have killed Giant Rat 2, and have received an overkill boon.]
+
+Before the other rat could react, I whispered Aim again. [Critical strike! Six damage! You have killed Giant Rat 2, and have received an overkill boon.]
+
+Before the golden loot sparkles rose from their bodies, I swiped my hand over the corpses and looted them. [You have looted rat teeth x 2 and rat meat x 1.] As the corpses faded, my arrows clattered to the floor. I examined them, and they were still in seemingly pristine condition, so I put them back in my quiver.
+
+With the demise of the last giant rat, dissolving into the murky waters below, silence reigned—I broke it immediately with a question.
+
+“Hey Crystal, how do arrows work? These two I pulled out are fine.”
+
+[Stone arrow 1, durability 3/5, Stone arrow 2, durability 3/5. They degrade like any other item; however, using a skill like aim uses up an additional point of durability. If you receive a weapon or loot your corpse, I recommend saving your arrows until the second floor. Here’s you quiver,]
+
+Leather Quiver
+
+Name
+
+Amount
+
+Condition
+
+Stone Arrow
+
+2/20
+
+4/5
+
+Stone Arrow
+
+18/20
+
+5/5
+
+[You can only replace them on the third floor unless we’re lucky with arrow traps or, better still, a merchant with arrows on the second floor.] I looked at the bow in my hands. I could speed through this floor and potentially be in danger on the next, or I could find a weapon and slowly make my way through. Of course, I would have to find a weapon first. There was no way I was resorting to using the torches again. That had been sheer desperation.
+
+“Hey Crystal, can I use scan on a crate? So I can see the loot table?”
+
+[Unfortunately, not yet. There is a boon you can purchase on your next run, or a skill in the Urchin line of classes will eventually give you a chest/crate-specific scan skill.]
+
+“Wait, line of classes?”
+
+[What did you think Rank 1 meant?]
+
+“Oh, right, I guess I skimmed over that.”
+
+Crystal let out a loud and long-suffering sounding sigh. [You know I don’t do any of this for my own benefit. It's designed to help you navigate Penance and survive.]
+
+“Alright, alright, I'm sorry. What does it mean?”
+
+[Starting when you beat the second floor, you gain access to more powerful classes; think of the difference between a leather helm and an iron helm. The next rank of classes will be a larger improvement, but it works similarly.]
+
+I sighed, walked over to the crate, pushed the lid off, and reached in.
+
+[You have received a copper short sword.]
+
+Inventory
+
+Death boons: 0
+
+Gold: 47
+
+Name
+
+Amount
+
+Condition
+
+Effect
+
+Description
+
+Copper Short Sword
+
+1
+
+10/10
+
+1-6 Damage
+
+A well-crafted copper short sword, perfect for close combat. It is less durable and reliable than Iron, but still a valuable tool for any adventurer.
+
+“Huh. that’s five less durability than iron,” I mumbled to myself, a note of surprise lacing my words. Deciding it was time to strategize for the future, I stored my bow, hoisted the crate, and returned to the entrance room. Once there, I couldn't help thinking about leaving items at the entrance for the next run. If I got another sword, I could leave it there and have a fresh weapon at the start of a run.
+
+Or I could have a necrotic staff or a whole set of armor. The possibilities were endless. “Crystal, can you confirm something for me? Everything left in the entrance room stays there, right? So I can leave these crates and maybe a couple of pieces of armor or weapons to make my next run easier?”
+
+[Your crate from run 3 was still here, wasn’t it?]
+
+“Okay, true. Are there any other locations where I can leave a crate?”
+
+[You may leave a crate in the first room of any floor; however, it is unnecessary, as upon entering the second floor, you gain access to the vault boon. You can purchase a vault where you can store any and all items and then access the vault on the first floor. As a bonus, the durability of all items will reset as well.]
+
+“Why are you just telling me this now?” I said, frowning at the news.
+
+[You couldn’t afford the boon earlier and didn’t ask.]
+
+“How was I supposed to know to even ask for it?” Frustration was building, but I pinched my nose to try and tamp it down.
+
+[You weren’t.]
+
+I seethed but decided it wasn't worth fighting over. I ignored Crystal and walked to the door to the necromancer’s room.
+
+~Run 5, Necromancer’s lair, Floor 1, Sewers of Aerlyn~
+
+I stepped confidently into the Necromancer’s lair, the air thick with the scent of a summer breeze and decay? I was expecting an empty room, but to my dismay, the necromancer was back—hunched over an altar, ominously chanting as he hovered his hands over a corpse that was barely better than a skeleton, missing most of the skin and muscle from its legs, arms, and body.
+
+A chest was on the floor, partially hidden behind the ritual altar. A sense of danger overwhelmed me before I could step into the room, and I quickly backed into the previous room. “Crystal, If I drop a weapon on the ground, can I use it in combat after using another weapon first?”
+
+[Sure, anything not in your inventory is fair game. That even works with potions, rings, and armor; however, anything left on the ground is also fair game for bad guys. Especially if they are humanoid and/or intelligent.]
+
+“So, If I could somehow wrestle a weapon away from a humanoid, I can pick it up?”
+
+[You know, I have no idea. But do you really wanna be that close to a necromancer’s staff?]
+
+“Probably not, but that’s what evasion is for.”
+
+Clutching my bow tightly and gripping the worn handle of the copper short sword I had just looted, I steeled myself and stepped back into the Necromancer’s dark domain. I didn’t waste time; I threw my bow and arrows down, and immediately cast “Scan!”
+
+Enemy Entry 0002: Necromancer: Level 6 (Malikap)
+
+The Necromancer is a powerful and sinister caster who commands dark magic and manipulates the forces of death. Necromancers are often found in secluded, dark places where they perform their forbidden rituals. Weak spot: Target eyes for critical hit guarantee.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+10/10
+
+Health is burned as fuel to keep you from dying.
+
+Mana
+
+40/40
+
+Mana is burned as fuel to make skills function
+
+Insight
+
+6
+
+Adds 1 point of damage to all Magical attacks.
+
+Arcanum
+
+8
+
+Adds 5 points of mana per level
+
+Vitality
+
+2
+
+Adds 5 points of health per level.
+
+Precision
+
+10
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+15-25
+
+25%
+
+Necromancer Eyes
+
+1-2
+
+35%
+
+Skull Amulet
+
+1
+
+15%
+
+Apprentice’s Grimoire
+
+1
+
+15%
+
+Dark Leather Boots
+
+1
+
+4%
+
+Necromancer Robes
+
+1
+
+4%
+
+Lunar Amulet
+
+1
+
+1%
+
+Solar Amulet
+
+1
+
+1%
+
+I started salivating at the drop table. There were so many different things that you could get from this boss. I had a feeling I would need to come back here a few times to try and get some of the rewards if I wasn’t lucky this time. And then I looked at the stats; I had a feeling that last time, its Insight hadn't been so high. With an eight in the stat, it would've killed me, and it would likely kill me now. But I had a plan that might work.

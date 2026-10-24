@@ -1,0 +1,211 @@
+Chapter Thirty-One: "What Is A Kite?"
+
+~Run 5, Boss room, Floor 1, Sewers of Aerlyn~
+
+The moment I entered the room, I was wholly confused. The altar was still placed on a raised dais in the center of the room. But Instead of draining out of the room through the ceiling, the Sewage was coalescing in the ceiling and slowly filling the room. Three rough-hewn beams, each at a different height, were scattered across the room, their uneven placement adding to the chaos of the surroundings. And yet, the goblins weren’t there. The Enchanted Blood Ruby of the Sewage Goblin Tribes sat in the center of the room on the altar, and I rushed forward, hoping to grab it before the enemies appeared. I could get the gate to open and not have to fight them.
+
+As soon as I approached the altar,I reached for the relic. My hand phased through it as if it wasn’t there.
+
+[You already have the relic. You can not gain a second. The goblins are…]
+
+I didn’t hear the rest of Crystal's words as the three Goblins dropped from above simultaneously. I couldn't understand how I missed them since the skinny pillars they must have been hiding on were mostly visible from where I stood. Drip landed to my right, daggers slashing, as Slikk aimed a crushing blow at my head from above. As all this was occurring, Gurgle must have swung his staff with that gas attack toward me from behind. I wasn’t too sure because I thankfully rolled something good, and time slowed.
+
+I vaulted over the altar and turned to knock an arrow, but somehow, Drip was immediately there, ready with another swing. Time slowed, and I moved out of the way, falling off the platform as I misjudged my distance. Icy sewage splashed over my face, the foul water stinging my eyes and chilling me to the bone; I decided I was in for a penny and a pound. I dove into the swirling muck to get some distance from the goblins. All at once, I was inundated by the acrid soup filling my ears and nose. I didn’t dare open my eyes, but I churned my arms through the thick muck, getting as much space as possible between myself and the raised platform. I rose from the muck and finally turned around, knocking an arrow.
+
+Thankfully, the space I had created allowed me to glance around the room briefly. Gurgle and Slikk were still on the altar staring down at me, but Drip was getting ready to do something. I released the arrow, not bothering to cast aim since I hadn’t been able to scan yet. Gurgle was also active and cast a spell. his aim was so off that a die didn't even roll. The spell exploded into necrotic waste, merging with the still-filling room. That hadn't been a thing last time, right?
+
+Since the fight started, I had been on the defensive and hadn’t even had a moment to use a scan.
+
+“Crystal just read off the health and weak points. Please save the other stuff for later! Scan!”
+
+Enemy Entry 0004: Slikk The Sludger (Sewer Goblin)
+
+Weak Point: The eyes. It's always the eyes!
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+50/50
+
+Health is burned as fuel to keep you from dying.
+
+Potency
+
+5
+
+Adds 1 point of damage to all physical attacks.
+
+Vitality
+
+10
+
+Adds 5 points of health per level.
+
+Precision
+
+10
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Defense
+
+5
+
+Blocks 1 point of damage from all physical attacks
+
+Enemy Entry 0005: Gurgle The Gusher (Sewer Goblin)
+
+Weak Point: The eyes. It's always the eyes!
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+25/25
+
+Health is burned as fuel to keep you from dying.
+
+Mana
+
+40/40
+
+Mana is burned to fuel spells.
+
+Insight
+
+3
+
+Adds 1 point of damage to all Magical attacks.
+
+Vitality
+
+5
+
+Adds 5 points of health per level.
+
+Arcanum
+
+8
+
+Adds 5 points of mana per level
+
+Precision
+
+10
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Defense
+
+1
+
+Blocks 1 point of damage from all physical attacks
+
+Enemy Entry 0006: Drip The Drainer (Sewer Goblin)
+
+Weak Point: The eyes. It's always the eyes!
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+25/25
+
+Health is burned as fuel to keep you from dying.
+
+Stamina
+
+65
+
+Stamina is burned as fuel to make skills function
+
+Vitality
+
+5
+
+Adds 5 points of health per level.
+
+Finesse
+
+13
+
+Adds 5 points of stamina per level
+
+Precision
+
+10
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Evasion
+
+12
+
+Evasion is the likelihood of your opponent's attacks missing. Each point higher than the target’s precision adds a 5% chance to dodge.
+
+Defense
+
+3
+
+Blocks 1 point of damage from all physical attacks
+
+“Ahh! That's still too much, maybe just the weak points!”
+
+[The eyes man! Target the eyes!]
+
+Before Crystal had finished, Drip jumped below and closed the gap between us. I wasn't going to give up the slight upper hand I had, so I wiped Sewage out of my eyes and immediately shoved my hands into Drip's eyes before he could retaliate. The dice rolled, and I must have had the best luck in my entire run. The Sewage completely blinded the goblin, and the force of my shove knocked his head into the metal grate.
+
+[Critical environmental hit! 16 damage! Target is stunned.]
+
+Trying to catch my breath momentarily, I barely realized that Slikk was about to bash my head in. I narrowly dodged the overhand swing the wind tousled my hair from the speed of the blow. It struck Drip's right foot crushing it. Blood seeped from the goblin’s ruined extremity, and I took out my arrow for a well-timed Aim at Slikk and used the spell. The arrow flew straight into Slik's right eye as if being pulled along by a string. [Critical hit. You have dealt six damage to Slikk.]
+
+"Ugh!” A scream of frustration escaped me, echoing off the damp sewer walls as yet another attack barely made a dent. It was the same ridiculousness as the previous fight. Slikk had 4 points of damage resistance due to his Defense, and I would either have to get lucky or whittle him down again, just like last time. I thought Drip was out for the count, but I felt a sharp jab in my leg and looked down to see a dagger make a glancing blow off my cloth boots. The poor right shoe was hanging on by a thread, and blood spilled from a wound near my ankle.
+
+A thunderous boom reverberated through the cavernous sewers, a sinister reminder of Gurgle's power, as his spell lit up the murky depths with fearsome energy. The spell came towards me in slow motion. I tried to move but looked down to see Drip's slimy green fingers holding my leg pinned down. I aimed at the goblin and fired an Arrow at point-blank range, casting Aim. The spell hit me at the same time my arrow hit Drip.
+
+[ Close-range critical hit. 13 damage! You have killed Dripp. Gurgle has dealt 6 damage.]
+
+A triumphant grin spread across my face as Drip fell, but I immediately grimaced at the big chunk of damage. I didn't precisely have hp to spare.
+
+Drip gurgled as he died, and I immediately yanked my leg out of his grasp and took off running. I jumped up and grabbed the platform, pulling myself back onto it. I didn't have time to catch my breath, so I immediately nocked an arrow and aimed for the rampaging Slikk. He was slow, and I knew I would have more time, so I took Aim at the Mage.
+
+[10 damage!]
+
+My third critical strike for ten damage in a row. Crazy, weird luck. I laughed momentarily at the comical sight of an arrow sticking out of the Goblin’s eye. The crazy thing kept it in and tried casting another spell at me. I vaulted over the altar as Slikk came charging up the slanted path of the platform. I fired arrows in quick succession, then tried to backflip off the platform. My foot slipped, aborting the flip midway, sending a jolt of panic up my spine, and I landed on my stomach on the platform, knocking the air out of me. I rolled over just in time to barely miss Slikk’s weapon swinging down. I hadn't needed the supernatural time freeze because it had been sheer coincidence that I moved out of Slikk's way when I did. I Aimed another arrow point blank for the same eye I had hit moments before. [Critical hit close range x2.5 damage. Natural crit! 17 damage.] Slikk let out a blood-curdling scream, and I rolled the rest of the way off of the platform.
+
+Gurgle hadn't been idle, and another gas explosion landed at Slikk's feet, barely missing him as I dived away into the muck. When I landed, I quickly ran under the platform before speaking quickly. "Crystal, can you do me a favor and just say the damage? It's hard to pay attention while dodging these guys. Please. I'm trying hard to be nice to you. I promise.”
+
+And that's when I noticed something was off. The altar above me emitted a ghostly green glow, its eerie light casting long, sinister shadows that danced across the damp walls of the sewer; gas emanated from it as if casting its own spell.
+
+I ran to the other side of the platform and took {aim} at Gurgle with my bow launching an arrow, and then readjusted my aim towards the platform. It probably wouldn't work, but I wanted to try multiple things to disrupt whatever Gurgle was planning with the altar. Slikk let off a scream and jumped down with a slam. A die rolled, and I successfully dodged the Slam attack, moving away into a sprint. My arrows did nothing to stop the spell; I could tell it would go off soon. I focused my efforts on Gurgle and retook Aim, and nothing happened.
+
+[Unfortunately, you are out of stamina, Rod. You could grab a dagger from Dripp; I believe he dropped one of his weapons. Or you can try to kite them while you recover stamina.]
+
+"What do you mean by kite? What is a kite?" Suddenly, a pulse went out from the altar as the temperature in the room lowered. The ever-flowing sewage seemed to flow faster, and I took a moment to realize the sewage ceiling was already startlingly low.
+
+[Oh, just run around taking pot-shots with your bow. If you’re always moving they’re less likely to land hits.]
+
+I tried not to ignore Crystal—It was a great strategy— but I likely only had minutes left to finish the fight. I ran to where I saw Drip's corpse earlier and panicked. There was no dagger in sight. But an idea formed in my mind. I knew I couldn't successfully fire and aim an arrow without the supernatural help Aim provided, but I learned how to stab things. I ran forward like a raging bull mimicking the guttural cry that Slikk kept letting out and slammed an arrow right into the left eye of Gurgle without hesitation.
+
+[You have dealt 8 damage! Great work, keep it up!]
+
+The words distracted me as I struggled with Gurgle for his staff. Somehow, I was having trouble yanking it out of his hands, but slowly, our tug-of-war went in my favor, and his hands slipped from the staff. I could immediately feel magic thrumming through the staff and cast a bolt point-blank in his face.
+
+[You’re amazing Rod! You have dealt 12 damage. Keep it up!]
+
+Gurgle collapsed, momentarily stunned, but the pulsating continued. I could feel my anger rising, I gritted my teeth, struggling to keep from yelling. I asked her to make the messages shorter, and now she was inundating me with platitudes.
+
+I didn’t have any time to complain, though, as suddenly, the sewage ceiling coalesced into a swirling vortex, spinning around the room.

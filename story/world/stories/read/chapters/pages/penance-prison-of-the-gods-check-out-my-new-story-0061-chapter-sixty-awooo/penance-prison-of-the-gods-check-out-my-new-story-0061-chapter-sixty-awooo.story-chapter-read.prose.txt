@@ -1,0 +1,167 @@
+Chapter 60: Awooo!
+
+~~~~~Later~~~~~
+
+I should have listened. But after the Ninja killed me, Thomas and Klericho ran for their lives, terrified of dying the same way. They said it felt like the only choice left to them. Since we were in a group, the increased difficulty of the goblins made it even more challenging to use the textiles room as a base, and the fact that goblins respawned in that room at night made the room a lousy choice for base launching.
+
+Klerichos second floor had an exposed open-air window for creating cooling drafts in the hot climate. And now, it would expose us to moonlight and allow us to recover.
+
+Klericho and I equipped the amulets, and I equipped my overcharge ring, something both Crystal and I had forgotten about, and I finally cast my astral scroll. Watching the skyline was surreal —it was like the world blinked. One moment, it was a hot and windy desert day; the next, it was a cold and windy desert night. At first, we thought everything was okay. Thomas was still stressed, so we talked while Klericho's mana finished regening.
+
+Our conversation went on for another twenty minutes or so. We talked about our favorite moments or runs in the dungeon. Thomas had an entire run as a rogue, and he didn't take a single hit until he got to the boss fight on the second floor. Klericho said his favorite run was his first. Just the craziness of it had him feeling so powerful. Of course, that ended when Slikk caved his head in. It had taken Klericho 15 runs to clear the first floor, and Thomas only took 9. I was the fastest at three runs. They still didn't believe me, especially after my poor showing in our second group battle had led to my death. But that didn't matter, as long as they trusted me to… My thoughts immediately left me as an unearthly howl filled the area.
+
+"Oh, no. I was right." Thomas said, his voice heavy with the cadence of fear. It's the curse." The pale moonlight illuminated the burly man's face. His eyes were wide, and his breaths were heavy as he talked.
+
+“We don’t know for sure that…” I cut myself off as all too human ones replaced the unearthly howls. “Okay, fine, I might have been wrong.”
+
+Klericho and Thomas both looked at me. "Alright, fine. I shouldn't have used the scroll here. We need a game plan to get past this," I said.
+
+“You and your plans. Can’t we rush headlong into whatever this threat is?” Thomas
+
+"Yeah, because that worked so well for us last time." Klericho: "We need to be more careful. I'm hesitant to let myself get killed here. We haven't seen any of those Aerlyntiums here. Besides, we don't know what we are facing yet, and none of us have a class with Scan."
+
+"About that…" I said, directing their attention back to me. "When Rellum gave me the ability to loot the Aerlyntiums, he also gave me the ability to use scan with every class. And it even gives me class-dependent info." Whatever force wouldn't let me tell them about the death boons, wouldn't let me mention how I got scan, either, so I lied, again. Anyone keeping count?
+
+"That's a load of goblin bung," Thomas said, anger lacing his voice. " Why are you so special? Klericho and I have been kicking it here longer than you have. What have you got that we don't?"
+
+“Thomas, I suggest you stop.” Klericho had an intensity in his gaze. “Whatever is going on here is nothing you want to be at the center of.”
+
+I nodded thanks at Klericho, grateful that at least one of my floor companions wouldn't want me dead with the revelation. "Look, we can put this conversation aside for now. Instead, we need to figure out how these monsters work. I have a plan, so please listen…"
+
+A few minutes later, we were back downstairs, ready at the doorway to the outside world. We moved away from our barricades and stepped into a war zone.
+
+Everything was frantic and chaotic. Long limbs and mismatched fur, skin, scales, and metals clashed in a hoard of mis-sharpened monstrosities. Like the stories I had heard growing up, the Werewolf curse was all-consuming. The guards had been transformed, but so had their armor. Their bodies had fused with the hauberks and surcoats. Fur took on a metallic sheen, and blue and reds clashed in tufts of fur like chainmail ringlets.
+
+Yet even more werewolves flooded in to form a concentric circle against our group. What I could only assume were spice mongers were the most malformed of the lot. Large bulbs of spices formed mounds like camel humps on the backs of rainbow-colored wolves. They were not metallic like the former guards but seemed powerful and intimidating.
+
+And then the battle started. I had been worried about how paradigm battles would conflict with my companions and their fighting ability, but I had already spoken privately with Crystal about how that worked. The time-based mechanics were purely for my benefit. Time didn't slow down for anyone or anything else, only for my pets and me. It was to give me some increased time to focus and ensure I used the correct skills for myself and my pets.
+
+I had three staves I could use in my battle: 2 already out, one in each hand, and the third tied to my back. Between the staves, I had necrotic, poison, and water elements. I resummoned my third pet, so I now had Fire, Water, and electric Magic.
+
+Depending on my luck, I knew it could hit for around 25-40 damage, so I would wait for the werewolves to be in range of a death shot. My job was the damage dealer in my group; Klericho only there to heal, with Thomas planning to use his bulk to keep the werewolves from attacking us. The big problem was that they were not tiny monsters. At a towering 8 feet, I was wondering if Thomas could match their bulk. But as time froze, I stopped worrying and got to work.
+
+<Turn 1 Start>
+
+I used scan. Multiple times. For whatever reason, it didn't count as using my move for the turn, and each multicolored werewolf was considered a different monster.
+
+Enemy Entry 0016: Werewolf Soldier (Aerlyntium Guard)
+
+Remember that guard you 'accidentally' got the attention of? Yeah, well, this is what happens when you steal his bread instead of a merchant's
+
+Weak Point: Fire and shadow. Resist, ice, ground.
+
+Stat:
+
+Level
+
+Health
+
+200/200
+
+Mana
+
+50/50
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+5
+
+33%
+
+Enemy Entry 0017: Werewolf Captain (Aerlyntium Guard)
+
+Erik, the Guard captain, was the kindest person in the dungeon. It wasn't even his fault he ended up there. It's not my story to tell, but it sure is horrible that you did this to him. Weak to fire, 1.5x damage Weak to shadow 3.0x
+
+Weak Point: Lightning, Water, Shadow, Light, and fire. Resist, ice, ground.
+
+Stat:
+
+Level
+
+Health
+
+200/200
+
+Mana
+
+50/50
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+5
+
+33%
+
+Enemy Entry 0018: Werewolf Merchant (Innocent Victim)
+
+The merchant you stole from? That was his last loaf of bread, and now he and his children are out on the streets because he couldn't afford his taxes. What a great hero you are. Weak to fire, 1.5x damage Weak to shadow 3.0x;
+
+Weak Point: Lightning, Water, Shadow, Light, and fire. Resist, ice, ground.
+
+Weak Point: Lightning, Water, Shadow, Light, and fire. Resist, ice, ground.
+
+Stat:
+
+Level
+
+Health
+
+200/200
+
+Mana
+
+50/50
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+5
+
+33%
+
+Enemy Entry 0019: Werewolf Swordsman (Innocent Victim)
+
+These merchant bodyguards were once Penitent. Now, they are forever a part of the city of Aerlynt. If you want the absolute truth about what this dungeon entails, these are the people you want to talk to. Weak to fire, 1.5x damage Weak to shadow 3.0x
+
+Weak Point: Lightning, Water, Shadow, Light, and fire. Resist, ice, ground.
+
+Stat:
+
+Level
+
+Health
+
+200/200
+
+Mana
+
+50/50
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+5
+
+33%

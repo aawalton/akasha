@@ -1,0 +1,221 @@
+~Run 5, Goblin Gauntlet, Floor 2, The Fallen Merchant City of Aerlyn~
+
+The next room loomed ahead, a stark contrast to the previous one. Shadows danced on the elongated walls under the dim, flickering light of the Aerlynt orb, casting eerie silhouettes that seemed to stretch endlessly. The air was heavy with the metallic scent of impending danger, tinged with the acrid smell of goblin sweat. At the far end, the ominous dungeon door stood as a grim sentinel, its iron surface cool and foreboding to the touch. My heart hammered against my chest like a trapped bird beating against its cage. Cold sweat trickled down my back, and a shiver ran through me, but the sight of my friends steeled my nerves. We had faced worse before, and we would again. But there are just so many.
+
+Quickly, I pulled out my arrows from inventory space and placed the dagger at my feet. Glancing around, I saw no natural avenue for victory apart from my friends. Fourteen goblins of varying shapes and sizes were bearing down on us—mages with staves already collecting mana, archers with arrows primed and ready, thieves blending into the shadows, bulky tanks prepared to take damage, and worst of all, the brutes—unstoppable wrecking balls of power. Then, all Penance broke loose.
+
+The warriors and brutes charged, their war cries reverberating off the stone walls. The red beady eyes glowed in above their cohort's crooked noses. Oddly enough, the brutes all looked identical, down to the gleaming bronze armor they wore. I took a deep breath, nocked an arrow, and let it fly. One. Two. Three. Four. Each arrow found its mark, yet the horde surged forward, unfazed. I readied my bow and cast scan twice in quick succession.
+
+Enemy Entry 0012: Goblin Brute (4): Level 3 (The Third Tribe)Bulky. Hit taker. Don't let him get in front of allies. They take half damage when guarding others from attack.
+
+The weak point is the eye. What are you, new here?
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+25/25
+
+Health is burned as fuel to keep you from dying.
+
+Defense
+
+4 (8 when guarding)
+
+Blocks 1 point of damage from all physical attacks
+
+It was unlikely I'd get overkill boons killing these guys with a perfect shot, but I let off four arrows quickly, one for each brute, aiming for their eyes. The magical Aim shot true, and each goblin collapsed, though only two died.
+
+[Critical hit x 4! You have dealt 84 total damage between targets. You have gained overkill boon x 2.] I stared in shock. Klericho is insane if he still thinks this class is weak after that.
+
+The rushing horde of goblins stampeded over their fallen comrades. I took another claw grip of arrows and fired again. Four more fell, staggering but not stopping. The relentless tide pressed on.
+
+[Critical hit x 4! You have dealt 56 damage. You have gained an overkill boon x 2.]
+
+The goblins moved forward as one. Like soldiers marching towards the enemy line, these monsters knew their orders. Each one was ready to die for their seemingly inevitable goal—our death. The horde was upon us, but my teammates were not inactive.
+
+Thomas grinned fiercely, "Keep them off me!" he shouted, his sword a blur of steel.
+
+"On it!" I replied, releasing another volley of arrows. He was a force of nature, his weapon slashing back and forth with a precision I had yet to see from him. With fantastic speed, he used Cleave repeatedly with his giant two-handed sword, shearing through goblin after goblin. The initial wave of brutes was over, so Thomas was cleaving through the dagger-wielding goblins that failed to reach him before their head was cleaved clean through. Their heads rolled away as their bodies dropped limply to the ground. Klericho was perfect with his timing, deflecting enemy arrows that could have stopped Thomas with gold shields that popped in and out of place around Thomas.
+
+His spells seemed to warp around Thomas's body, keeping him safe even as droplets of blood from their victims rebounded off the spell and onto the ground, leaving him pristine and dry.
+
+I stood there dumbstruck as my team cleared the most overwhelming force I had seen in the dungeon. How were you supposed to clear this room solo?
+
+“Yo, Rod, we could use some support!” Thomas shouted as he cleaved off another round of goblin heads. “They just keep coming. Those goblins in the back are doing this.”
+
+I pulled my bow back, aiming for the source of our problem. How hadn't I realized that before?
+
+In the back were two mages, similar in size and build to Gurgle, repeatedly casting an overly complicated spell. Each time the spell finished, a new wave of goblin fodder formed. I cast Scan.
+
+Enemy Entry 0013: Goblin Warmage Summoner, level 10: (The Third Tribe)
+
+Weak point: Their eyes. They wear hardened glass goggles to protect against critical hits.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+60/60
+
+Health is burned as fuel to keep you from dying.
+
+Vitality
+
+12
+
+Adds 5 points of health per level.
+
+Defense
+
+5
+
+Blocks 1 point of damage from all physical attacks
+
+Item drops
+
+Amount
+
+Chance to drop
+
+I had relied heavily on my aim and scan skills to the point that I was paralyzed, unsure how to proceed, when I remembered my new item. I hadn't even bothered to ask Crystal about it, but I had, thankfully, placed it at my feet.
+
+I took off down the hallway during a lull between a wave of mobs and Thomas using Cleave. I had my bow ready and used aim as quickly as I could to kill two goblins on the right side of the hall.
+
+[Critical hit x 2! You have dealt 36 damage. You have gained an overkill boon x 2.]
+
+I didn't bother grabbing the arrows. I still had 18 in my quiver to use against other incoming mobs. I jumped over the corpses and readied my bow for the next group of goblins to spawn. I knew something was up when they didn't, but I didn't back up. The mages began a long cast, aiming the inevitably destructive spell my way. I felt the golden shield cover my body as I moved forward. I still needed to learn how the shield worked since I had yet to get to try the class.
+
+A giant fireball as large in diameter as the hallway was wide bore down on me like I was an ant beneath a boot. The heat was oppressive, and I wanted nothing more than to curl up and protect my face, but my actual health wasn't dropping, so I urged myself forward one step at a time. When I was finally up close, I could see the goblin underneath his cloak and hood. He would be the stereotypical wizard of any other race, but his face looked like a hammer had squashed it, and his beard was singed in ten different places. His pockmarked face bulged with open sores, festering with comically gross ooze.
+
+He channeled his magic through a staff twice his size and cast another fireball. This time, I was so close the fireball affected him and his friend. While Klericho's shield broke and my health started to plummet, I didn't let it faze me. I pressed forward, determined to end this.
+
+Gritting my teeth in concentration, as soon as I was in range, I dove forward onto the first of the two goblins, knocking him to the floor. his staff clattered away and disappeared. Straddling him, I ripped off his goggles and started stabbing at his eyes with relentless precision, shouting Aim with each thrust of my dagger. A sickening pop through the air as I demolished the goblin’s eyes and brain. Dice fell from the sky like boulders off a cliff as I decimated the still-struggling creature.
+
+[Critical hit x 5! You have dealt 60 damage.]
+
+I knew I had wasted more than half my stamina on just the one goblin, but I ignored my fear of running out and leaped onto the next one, using my weight to bring him down. I ran out of stamina after the third strike, and it took three more strikes to finally kill him. Gasping for breath, I began the grim task of gathering as many goblin ears as possible. We had to have killed over thirty goblins, which would net me at least sixty ears.
+
+When I finished with my two goblins, I went over to Klericho and Thomas, who were slumped against a wall, exhausted. Thomas's usually steady hands were trembling, and Klericho's face was flushed, his breathing ragged.
+
+"Good work, guys," I said, bending down to collect goblin ears. "Lots of loot to collect. Is this how you bought your house, Klericho? I must've found over four hundred coins here. We could camp out with three people using Cleave and a cleric, farming wave after wave."
+
+Klericho nodded but didn’t elaborate, his eyes distant. His face was red, and it looked like casting spells had drained him completely. I didn't say it aloud, but he was struggling even though Thomas and I did most of the physical work so to speak.
+
+A few minutes later, I had gathered all of the goblin ears, totaling thirty-four in my inventory. I finally approached the Aerlyntium, eager to see what this level would spawn.
+
+[Error! Aerlynt orb does not detect enough material to spawn items. Please provide a source of the following material: Wood 0/25, Metal 0/25, Organic material 0/300]
+
+I sighed. Nothing was ever easy with this dungeon. Frustrated, I spent ten minutes trying different combinations of items to trigger the activation. Eventually, I dumped my entire inventory of collected items out in the room for Klericho and Thomas to see. They looked at the items, but they didn't find anything they wanted. So we decided to let me keep the loot, and they'd keep the gold. It sucked, but I was feeling guilty that I hadn't shown them the Summoner's Staff. I couldn't use it, but a future run probably could.
+
+Enemy Entry 0012: Goblin Brute (4): Level 3 (The Third Tribe)Bulky. Hit taker. Don't let him get in front of allies. They take half damage when guarding others from attack.
+
+The weak point is the eye. What are you, new here?
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+25/25
+
+Health is burned as fuel to keep you from dying.
+
+Vitality
+
+5
+
+Adds 5 points of health per level.
+
+Defense
+
+4 (8 when guarding)
+
+Blocks 1 point of damage from all physical attacks
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+15-55
+
+75%
+
+Bronze Sheild
+
+1
+
+15%
+
+Bronze Cudgel
+
+1
+
+10%
+
+Enemy Entry 0013: Goblin Warmage Summoner, level 10: (The Third Tribe)The most important mage in a goblin army, the warmage summoner, was always lonely growing up, so he started dabbling in friendship magic. He summoned a friend, and then one day, a dirty, horrible, evil, no good, rotten human child killed his friend. He went berserk and joined the goblin military for revenge. As always in society, the problems come down to children being raised to be monsters, creating other monsters.
+
+Weak point: Their eyes. They wear hardened glass goggles to protect against critical hits.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+60/60
+
+Health is burned as fuel to keep you from dying.
+
+Vitality
+
+12
+
+Adds 5 points of health per level.
+
+Defense
+
+5
+
+Blocks 1 point of damage from all physical attacks
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+30-100
+
+85%
+
+Mana ring
+
+1
+
+14%
+
+Summoners staff
+
+1
+
+1%

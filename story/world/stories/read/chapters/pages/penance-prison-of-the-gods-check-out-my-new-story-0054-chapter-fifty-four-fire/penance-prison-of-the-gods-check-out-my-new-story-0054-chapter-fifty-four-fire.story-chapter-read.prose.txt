@@ -1,0 +1,373 @@
+Chapter Fifty-Four: Fire!
+
+~Run 6, Entrance, Floor 1, Sewers of Aerlyn~
+
+I jolted awake with a start, my hand flying to my nose to block out a smell so foul it made me gag. The world had changed. Gone were the roses and vibrant blues of the sky where Jamie and I had sat eating lunch today. Jamie? The image in my mind grew fuzzy, and I shook my head, trying to hold onto it. Ignoring the fading thoughts, I moved my body, trying to figure out where I was.
+
+As I moved, my feet squelched in the foul water, its cold, vicious touch crawling over my skin like slugs. The chill of the stone floor beneath seeped into my feet, making it feel like I was walking on ice. I knew where I was. Memories flooded my brain as I fell to my knees in the muck.
+
+A ninja had poisoned me, and my veins felt like they were on fire, every nerve ending screaming in agony. It was the most excruciatingly painful moment of my entire life—something I never wanted to repeat. I was also mad because my last class was so overpowered that it wasn't funny. Aim and scan were the best possible skills. Without that combo, there would be no way to make it through the rest of the dungeon, right? Oh cmon, don't be like that.
+
+"Hey, Crystal, what a rough one, huh?" I said, trying to shake off the lingering pain, my voice strained.
+
+[You should have heeded my advice and not run off without your tank. It was a very foolish decision,] Crystal said, her voice as calm and unruffled as ever.
+
+"Yeah, yeah, I don't think I'll ever do that again," I grumbled, rubbing my aching arm. "Not a big fan of pain, to be honest." I sighed and sat down on the ground. The familiar smooth stone of the entrance was cold against my bare skin. " How much should I spend?"
+
+[Amazingly, you have twenty-four. It's enough to buy your next class and some stat-ups or quests,] Crystal replied.
+
+"Are you reading my mind again? I thought I asked you to stop," I said, narrowing my eyes.
+
+[You did,] Crystal replied with a hint of amusement in her tone.
+
+I shook my head, feeling a mix of frustration and reluctant humor.
+
+[You should also turn in the Goblin Ears quest,] Crystal added.
+
+"Wait, I can turn that in?" I asked, surprised.
+
+[You finished the quest when you cut off all those ears. Did you really not keep count? Wait, why am I even surprised?] Crystal said.
+
+"Oh, c’mon, they were hard to keep track of when you’re covered in green blood and your friends are staring at you. I had to tell them I wanted to collect them in case they were worth money," I said, rolling my eyes.
+
+"All right, show me the death boons again," I requested.
+
+Stat Boons
+
+Boon
+
+Cost
+
+Current Stat
+
+Potency
+
+5
+
+1
+
+Insight
+
+1
+
+0
+
+Alacrity
+
+1
+
+0
+
+Vitality
+
+10
+
+6
+
+Finesse
+
+1
+
+0
+
+Arcanum
+
+1
+
+0
+
+Defense
+
+5
+
+1
+
+Magic Defense
+
+5
+
+1
+
+Precision
+
+5
+
+6
+
+Evasion
+
+5
+
+3
+
+Player Classes
+
+Boon
+
+Cost
+
+Effect
+
+Mage
+
+4
+
+Starting Equipment: Mana bolt spell. Wooden Mage Staff.
+
+Stats: Vitality: 4, Finesse: 2, Arcanum: 8, Insight: 5.
+
+Penalty: Cannot equip physical weapons, cannot equip iron armor.
+
+Fighter
+
+4
+
+Starting Equipment: Iron sword, iron shield, skill Shield bash.
+
+Stats: Potency: 3, Vitality: 10, Finesse: 6, Evasion: 2.
+
+Penalty: Cannot equip magic items.
+
+Cleric
+
+4
+
+Starting Equipment: Iron mace, shield, and a basic heal spell.
+
+Stats: Potency: 2, Vitality: 6, Finesse: 4, Arcanum: 6.
+
+Penalty: Cannot equip bladed weapons.
+
+Crusader
+
+4
+
+Starting Equipment: Iron sword, iron shield, Basic heal spell.
+
+Stats: Potency: 4, Vitality: 10, Finesse: 4, Arcanum: 4, Defense: 2, Precision: 4, Evasion: 4.
+
+Bonus: Has the guiding light spell.
+
+Conjurer
+
+4
+
+Starting Equipment: Elemental summon spell. Wooden Mage Staff.
+
+Stats: Vitality: 2, Finesse: 2, Arcanum: 8, Precision: 2,
+
+Penalty: None specified.
+
+Dungeon Boons
+
+Boon
+
+Cost
+
+Toggle Active
+
+Effect
+
+Turn-Based Combat.
+
+20
+
+N/A
+
+Pauses combat so that everything takes place in turns makes natural evasion impossible; you must rely on actual evasion stat. It can be toggled on and off.
+
+Identify Enemy:
+
+20
+
+N/A
+
+Enemy stats are highlighted and visible above enemies. Requires Scan Skill to use. It can be toggled on and off.
+
+Loot Table
+
+20
+
+N/A
+
+Allows you to scan chests and crates to see their potential contents.
+
+Time Keeper.
+
+2
+
+N/A
+
+A stopwatch shows the time in the upper right corner of your vision. Essential for speed runs. It can be toggled on and off.
+
+Challenge Mode:
+
+200
+
+N/A
+
+Enemies have triple stats and better weapons but drop better loot and more Death Boons. It can be toggled on and off.“Challenge Accepted!” ~ Photonius The Dead.
+
+Quest Shop
+
+Quest name
+
+Cost
+
+Type
+
+Description
+
+Reward
+
+Rat teeth
+
+1
+
+Collection
+
+Collect 5 rat teeth.
+
+5 Death Boons
+
+Necromancer Eyes
+
+5
+
+Collection
+
+Collect 20 Necromancer Eyes.
+
+25 Death Boons
+
+Goblin Ears
+
+10
+
+Collection
+
+Collect 50 Goblin ears.
+
+50 Death Boons
+
+Aerlyntium Shop
+
+Material name
+
+Cost
+
+Amount
+
+Wood
+
+5
+
+1000
+
+Metal
+
+5
+
+1000
+
+Organic
+
+5
+
+1000
+
+Glass
+
+5
+
+100
+
+"Hey, Crystal, how do the quests work? Is it a one-time-only thing? Or can I buy the goblin ear quest multiple times?" I asked, curiosity piqued by the mechanics.
+
+[You can purchase the quest and turn it in once per run; however, once you finish the first tier, better versions of the quests become available,] Crystal explained.
+
+"Well, that's alright then. I'd like turn in the goblin ears quest," I decided, feeling a surge of adrenaline as I jumped for joy. 50 death boons. What a boon!
+
+[You have earned 50 death boons for completing your quest! Would you like to spend your death boons?] Crystal asked.
+
+"Yes. I would like to buy quite a few things. I want all of the classes. I want the loot table. Then, get all of my stats upgraded by 1," I replied eagerly, excitement building inside me. My heart pounded as I reviewed my options. This was it—the moment I'd been working towards.
+
+[Congratulations! You have unlocked Mage, Cleric, Fighter, Crusader, and Conjuror. You have also unlocked Scan, the map, and loot tables. Additionally, all your stats have been boosted by 1,] Crystal announced.
+
+Crystal's words echoed in my mind as a surge of power enveloped me. One by one, the classes and abilities unlocked, each announcement a step closer to my dream.
+
+“Sweet! Okay, I’d like my class this run to be the Conjuror, please,” I said, my voice trembling with excitement.
+
+My body transformed. I was smaller and a little chubbier, but I felt something new coursing through my veins—unfathomable and uncontrolled—magic. As the magic flowed through my veins, I felt a tingling warmth spread from my core to my fingertips. The air around me crackled with energy, and the faint scent of ozone filled the room.
+
+"Magic!" I shouted, jumping up and down with joy. "I have magic. Real magic!" I could feel a memory core about to form, and then, for some reason, it just didn’t. Something about
+
+Without even thinking, I cast Elemental Summon. The uncontrolled magic swelled in my belly like I had eaten too much, flowing up and out through my arms and fingertips.
+
+A living fire rolled out of my fingertips and onto the ground. The flame bubbled up like a liquid and burst into life. It took the form of a dog. "Fire!" The flame dog barked, running around the room, leaving a trail of flames in its wake. "Fire!" It yapped again before sitting expectantly in front of me.
+
+Tentatively, I reached out to pet it, half-expecting to get burned. Instead, it felt like real fur, tickling my fingers as they moved through the flames. The dog barked happily as I petted him.
+
+"You're a good boy, aren't you? A pet like you needs a name," I said, thinking aloud.
+
+"Fire!" the dog yipped, jumping up to lick my face. I expected to feel heat, but instead, I was soaked in slobber.
+
+I laughed as the dog bowled me over, licking my face. "What a good boy," I said, still laughing.
+
+“What should I name you?” I looked into the coal-black eyes of the little flame dog. Inspiration struck. “How about I name you Coal?”
+
+Coal yipped and barked, "Fire!" again. He ran to the first door of the first floor, chased his tail, and finally settled down to sleep.
+
+[Don’t leave yet. We have plenty to discuss,] Crystal said, her tone suddenly serious.
+
+[Here in the first room of the first floor, your privacy is sacrosanct. Nothing can violate it. There are forces at work here that are beyond everything you've encountered, and you are stuck in the middle. Rellum has gifted you power over the soul. You can bring people back from the beyond. That isn't a power gifted lightly. And I am sure you have noticed that you are the only one with death boons,] Crystal explained.
+
+Crystal paused, and I interjected. "Why did he do that anyway? I'm nobody special. I still have no idea who I was other than a common thief. I don’t think I’ll ever be a good person; I almost got rid of you just because I couldn't deal with the fact that you might have been human."
+
+[I do not begin to understand the machinations of gods, but there is more at play here. Death boons are not Rellum's doing. I talked with the other crystals, and they had no idea what they were. However, I have an innate knowledge of them, as if they have always been part of this dungeon, and I only just noticed the veil being lifted. You aren't supposed to have a tool like this. And things like this usually come at a price,] Crystal said.
+
+"Wait, but you can talk to the other crystals? Since when? And you’ve mentioned past penitents? Didn’t they have death boons?" I asked, feeling more confused.
+
+[Yes, I talked with Thomas’s crystal and with Klericho’s. That's just it. I don't think they did, but in my recollections, they did. Whatever gave us this power edited my memories. Just like yours,] Crystal replied.
+
+My mind returned to the indecipherable words I had scratched into the dirt. "Remember that weird message scratched in the dirt? I think it's related to this. I’m pretty sure I had been about to mention Death Boons to Klericho, and then it was like everything froze for a moment and unfroze. I’m pretty sure it was one of the gods. And then, on the ground, I had somehow written out the words Aunt Ersid. And then I kept trying to tell you about something, and it was like your memory was being erased before my mind.”
+
+[It’s not like many options exist for who is doing this. The only ones powerful enough are Rellum, Malikap, and Aurentum. But none of them are known to mess around with memory.]
+
+Aunt Ersid. Aunt Ersid. What did it mean? My mind raced. If the gods were involved, it had to be a clue about one of them. Aunt... Ersid... Erased! That's it! Aurentum erases minds.
+
+“I think it means that Aurentum erases minds," I explained, feeling a chill run down my spine. “To what end, I don’t know, but he seems determined to prevent people from finding out about the fact that I have access to Death Boons.”
+
+[Maybe it has to do with what Rellum said about you being unclaimed,] Crystal said, her tone grave.
+
+“Rellum said he would contact us again. Maybe once we finish the Aerlynt quest for him, we can let him know that the death merchant is using us somehow,” I suggested, clinging to a sliver of hope.
+
+[And tell him what? That the Merchant of Death is erasing our minds but giving us superpowers?] Crystal questioned, skepticism in her voice.
+
+"Superpowers? I like how that sounds. I don't know, but I would rather be under the protection of the one that's supposed to be good than under the auspices of someone who keeps erasing my mind," I said, trying to sound resolute.
+
+[Fair enough, Rod,] Crystal agreed.
+
+“So what should we do?” I asked, seeking guidance. There was so much more to talk about, but I was confused, and more than a little exhausted from fighting and dying, and speaking.
+
+[I suggest you focus on clearing the first floor again. This new class has a bit of a difficulty curve. But once you learn it, it is overwhelmingly powerful,] Crystal advised.
+
+“Alright then, how does it work?” I inquired, eager to get started.
+
+[I believe you once commented that the Death boon for turn-based combat sounded boring and dull. Well, the class you selected was made for that boon,] Crystal explained.
+
+“Oh. Should I have bought it?” I asked, suddenly uncertain.
+
+[Not necessarily,] Crystal replied. [I can't guarantee you will get the best results without it, but this is the first floor. With your current stats and general knowledge about the strengths and weaknesses of mobs, you will easily overwhelm this floor without that boon. Floor 2, however, you will need it.]
+
+“Alrighty then, how many boons do I have left after my spending spree?” I asked, eager to know my remaining resources.
+
+[You currently possess 12 boons. You need 20 to purchase the turn-based combat boon,] Crystal informed me.
+
+I did a quick calculation. I could gather eight boons between now and the next floor; I just needed to get overkill boons, and I would be fine. Determined, I turned my focus back to the task at hand.
+
+“Crystal, does the time we’ve spent talking count against speed runs?” I asked, hoping for some leniency.
+
+[Unfortunately, yes, it does,] Crystal replied, her tone unwavering.
+
+"Drat," I muttered under my breath—no time to waste. The torches flickered as I squared my shoulders, ready to forge ahead.

@@ -1,0 +1,229 @@
+Chapter Thirty: “Run, Rod, Run!”
+
+Before combat could start, I cast Aim and threw my short sword with as much might as my measly one strength would allow, aiming for the Necromancer's right eye.
+
+[Critical hit! You have dealt 12 damage. You have killed the Necromancer.]
+
+A lot of things happened all at once. My sword flew through the air magically as if pulled along by a string that originated behind the Necromancer's eye. It pierced through his eye and into his brain as the sword made a weird squelching noise. The Necromancer let out a gut-wrenching scream that echoed off the stone walls, marking the end of his dark deeds. He fell backward into a small pond of water behind his altar, his body disappearing into the murky lake. I was confused at how easily I had cleared the Necromancer boss again. It was laughably easy.
+
+Then, as if brought to life by my thoughts on the room's difficulty, the Skeleton on the altar woke up and reached into the water. It picked up the Necromancer by the sword and held the dead man aloft. A snort escaped me despite the rising tension; the absurdity of a skeleton wielding a necromancer like a hammer was too surreal. However, my laugh must have upset it as an unearthly screech emanated from the Skeleton as it charged forward.
+
+I yelled, “Scan!” while backpedaling, only to slam into the dropped gate.
+
+Enemy Entry 0007: Skeleton: Level 4 (Malikap)
+
+Skeletons are the reanimated remains of fallen warriors brought back to life through dark magic. Weak spot: The joints in the arms and legs are natural weak points, but skeletons are naturally resistant to all physical damage types.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+20/20
+
+Health is burned as fuel to keep you from dying.
+
+Mana
+
+40/40
+
+Mana is burned as fuel to make skills function
+
+Potency
+
+2
+
+Adds 1 point of damage to all physical attacks
+
+Insight
+
+2
+
+Adds 1 point of damage to all magical attacks
+
+Arcanum
+
+8
+
+Adds 5 points of mana per level
+
+Vitality
+
+4
+
+Adds 5 points of health per level.
+
+Defense
+
+6
+
+Blocks 1 point of damage from all physical attacks.
+
+Precision
+
+10
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+15-25
+
+30%
+
+Bone Meal
+
+15-25
+
+30%
+
+Ragged Cloth
+
+1-5
+
+30%
+
+Ancient Scroll
+
+1
+
+5%
+
+Enchanted Bone (Quest Item)
+
+1
+
+4%
+
+Skeleton Key
+
+1
+
+1%
+
+As the skeleton raised its ‘club’, the familiar sound of a dice rolling echoed in my mind, signaling an evasion check. As the result set in, time slowed.
+
+[You have dodged Skeleton.]
+
+I dashed to the side and took Aim with the bow. Aiming for the elbow joint on its right arm. The die rolled.
+
+[Critical strike! You have dealt 1 damage. ]
+
+I fired, the arrow striking the Skeleton and skidding away. I quickly circled the altar again to keep my distance. It took a second to spin and face me, so I knocked an arrow and pulled back, but I couldn't get a clear shot as it turned around. And that's when I noticed a tiny glow beneath the Necromancer's feet. Doubt filled me for a second before I shook my head. Right. Aim. Thank goodness for magical aiming, then. I cast Aim, and the arrow followed along another invisible string.
+
+My Aim-guided arrow swerved and struck the Skeleton's ankle.
+
+[Critical strike! You have dealt 3 damage.]
+
+The ankle of the Skeleton shattered from the force of the arrow, and the Skeleton fell under the weight of his necro-hammer. This time, I couldn’t help myself and laughed at the ridiculousness of the situation. The Skeleton shoved the hammer off of himself, and I took another shot with Aim.
+
+[Critical strike! You have dealt 3 damage.]
+
+The arrow obliterated the Skeleton’s elbow, leaving it staggered and barely standing. I aimed again at one of the remaining two weak points.
+
+[Critical strike! You have dealt 5 damage.]
+
+The snap and shattering of the bone was cathartic, but I realized the problem I had found for myself. I still needed to deal about eight more damage, and only one weak point remained. It's not the end of the world, but it would be annoying to clear if I could only deal one damage at a time and only if I rolled 4s. I took Aim.
+
+[Critical strike! You have dealt 0 damage.]
+
+The leg disintegrated into dust. At least it can’t attack anymore. I dove out of the way as the skeleton opened its mouth and fired beam after beam of dark energy toward me. Thankfully, evasion kicked in on the last one as well. Otherwise, I would have been a goner, my health still sitting at one from the mural. I eyed my quiver, the few remaining arrows rattling against each other. A frown creased my brow as reality set in—this fight was burning through my resources faster than I'd thought it would; I might struggle against the goblins. Hopefully, I would still have arrows after this.
+
+—
+
+Ultimately, it took me thirteen more arrows to kill the Skeleton. Each arrow that failed to strike the killing blow added to a growing reservoir of frustration. Seventeen arrows damaged, just like that–What a waste. I slunk down to the floor, panting. I had been running around the room like crazy; my limbs felt heavy, fatigue rolling over me in waves. Each breath seemed harder to draw than the last, my body aching as I leaned against the cool stone of the altar, the dungeon’s chill seeping into my bones. For the first time in the dungeon, I had no energy to move forward as I slunk back against the altar and closed my eyes. If my eyes had been open, I would have noticed the Memory Core descending from the ceiling and conking me on the head.
+
+{Memory core 9/???}
+
+{Would you like to view the memory?} {y/n}
+
+“Yes.” I was answering the question automatically now.
+
+~~~~~~~{Memory Core 9 Start}~~~~~~~
+
+“Run, Rod, run!” Peckolins voice was filled with laughter and an almost childlike wonder. He stared at something behind me and kept laughing but turned around and started running. As soon as I glanced behind me, I started running.
+
+Our guard was in the distance, trying and failing to chase us down. Peck cast some odd spell that made the armor and clothing the guard wore change in size. His helmet fell off as it shrunk to the size of an ant. His metal boots got comically large and slipped off his feet. His gloves started dragging on the ground as the fingers grew, but the cuff and palm shrunk. Peckolin's laughing became contagious as we turned a corner.
+
+His breastplate clattered to the floor, and he had to climb out of the now house-sized suit of armor.
+
+His clothing became the next thing to increase in size, though, and soon, he was wrapped up in a shirt blanket. I kept running until Peck held his hand up.
+
+We were a few streets over. The shouting guard was now a faraway whisper, hidden in the hustle and bustle of our large city. As I came to a stop, Peck waved his hand and said, “Apertar arvex.” Suddenly, a door appeared. It blended seamlessly into the wall as if it had always been there.
+
+Peck opened the door without preamble and pulled me alongside him into the doorway. We exited out into another alleyway halfway across the city.
+
+“I know, I know, I shouldn’t use my magic that way, but he was just begging for it,” Peck said, suddenly serious. “He destroyed Mag’s shelter and took an entire week's worth of alms yesterday. He’s a dirty rat.” “He did what!?” I exclaimed. Mags had lost her entire family to the Blends, a horrifying magical plague that had swept through the world a couple of years earlier. The monstrous disease left what few living victims remained behind as cripples. Mags was left with a single solid leg she hobbled on with a cane. It was a grotesque sight to see.
+
+I wanted to scream and let that guard have my thoughts, but it was not worth the trouble that would follow. Instead, I stared out into the wide expanse of the city. Dozens of stores and shops lay ahead of us.
+
+The great thing about large cities is that you can always have places to be. I had just left a marketplace earlier that morning, and now I was in an entirely new one. Nothing like the tiny little cottage village I was born in. This was the big city.
+
+There were rows and rows of shops selling meat, fresh fish, and mountains of spices. Merchants hawked their wares, and townsfolk shopped, laughed, and wandered. But none of these bounties had what I needed to die. Nothing here was worth months and months of stealing Alcohol to sell full bottles to Peckolin. Instead, Peckolin was taking me to his shop.
+
+Lathaniel’s Lovable Lions (And other assorted pets). The green and blue sign glittered with literal magic, vibrant against the market street's subdued browns, reds, and blacks. The mural would be mine, and Peckolin had just the animal to help me get it.
+
+~~~~~~~{End Memory Core 9}~~~~~~~
+
+My eyes refocused, and I was awake. I was also low on stamina. A large part of the battle had been running around, waiting minutes for my stamina to recover while avoiding those stupid shadow blasts. It was also the first time I had been bored in the dungeon. This class was overpowered, even more so than other classes had been. The Aim skill was ridiculous. But the stupid thing wouldn’t die. It had been worse than trying to kill Slikk during the previous set of Runs.
+
+I proceeded to loot everything in the room. Bronze stars hovered above the Skeleton, igniting a spark of excitement at the prospect of valuable loot. I eagerly tapped its cold remains, only to hear the familiar dice roll in my mind. A slight pang of disappointment washed over me as I realized the roll was terrible, and my face fell as Crystal said,
+
+[You have looted Bonemeal.] I dropped it in disgust, grateful it had come to me inside a bag and that I hadn’t touched actual ground bones. I shuddered. I was doubly grateful as the item disappeared into my inventory.
+
+I moved on to the next lootable item only to kick it in frustration.
+
+The chest had a lock, but I didn’t have a key or the unlock spell. Thankfully, I had figured out a loophole in the previous run, so I hefted the chest up to confirm that I could carry it. It was heavy, but thankfully, it came with an iron grip on either side of the chest. Gritting my teeth, I lifted the cumbersome chest, feeling the weight strain my muscles. The silverish metal gleamed as I slowly lugged it towards the entrance.
+
+I then looted the Necromancer’s staff since I had somehow disarmed him when I shot him through the eye. The weapon had been dropped and was considered lootable; no rolling required.
+
+It was pristine, unlike the first one I had gathered.
+
+I picked up all of my arrows and put them away. I wish there had been an easier way to pick them up after a battle, but at least they could be reused.
+
+A weary exhale slipped through my lips as I reached out and cautiously prodded the necromancer's still body. A die rolled, and I laughed and laughed. Absolute Joy overtook me.
+
+Inventory
+
+Death boons:
+
+Gold: 47
+
+Name
+
+Amount
+
+Condition
+
+Effect
+
+Description
+
+Lunar Amulet
+
+1
+
+NA
+
+Heal one health per minute under direct Moonlight
+
+This enchanting amulet shimmers with a faint, Magical glow, resonating with the energy of the moon.
+
+I equipped the amulet and just sat basking in the moonlight for a minute.
+
+[You have recovered 1 health.] I grinned. That would be extremely useful. I would definitely be resting soon, but I decided to take care of the rest of the loot first.
+
+I picked the chest up from its spot and lugged it back to the entrance. I knew I only had the final boss room left and started worrying. So far, this run has been easier, but still no walk in the park. The Scan was by far the most overpowered of all my abilities. Guaranteed critical hits as long as I had enough stamina for Aim? I was no longer worried. The combo meant I had it in the bag. I stepped back into the Necromancer’s room, ready to exploit my new item.
+
+I sat on the altar and stared at the stars, unaware if they were real or not. I had been trapped in this dungeon for hours, and I already felt like that time would never end and that I’d be stuck here for years and years to come. As I stared, I kept trying to think of the last time I had seen stars, willing a memory core to form, but it never did. It must be that wanting a memory to form prevented them from occurring. I dozed off, but Crystal didn’t let me rest for real as it felt like moments later, Crystal Chimed in and said, [Your health is now full.]
+
+I headed to the boss's room. Round 2 was going to go differently. It had to.

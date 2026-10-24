@@ -1,0 +1,171 @@
+Chapter Twenty-Eight: Forbidden By Penance.
+
+~Run 5, Entrance, Floor 1, Sewers of Aerlyn~
+
+As I awoke in the sewers beneath Aerlyn's vibrant streets, the world above became a faded dream, and I found myself once again ensnared in a realm where daylight was but a distant memory. The gray brick walls of the sewer, usually slick with the moisture of neglect, now seemed dryer than the desert city above. As I looked at the walls in the dim torchlight, I could see something I thought I hadn’t before: dozens of images on each wall illustrated in simple but beautiful art.
+
+At first glance, the images on the wall were perplexing—simple, basic forms that depicted scenes with an almost charming innocence. There were figures armed with spears, animals in mid-flight, and indecipherable symbols whose meanings were as lost to me as the civilization that created them. One mural showed a gathering around a figure slightly larger than the rest. Was this a leader, a hero, or a figment of ancient imagination? The scenes shifted, with basic shapes and lines attempting to convey meaning I couldn’t comprehend. Another portion of the wall was dominated by a dark blotch, encircled by lines that could be walls, mountains, or even waves.
+
+My eyes widened, taken aback. Were these murals always here? I took a step closer. The texture, the faded colors, the rough scent of the sewer-stained walls. Except. The stains were gone. The wall was now pristine. I reached out a hand to the wall, and then the pain came flooding back, knocking me to the floor. After a minute of agony, I propped myself up against the wall using my shaky, unsteady limbs.
+
+And as if by magic, the Mural was gone. It was like the floor, ceiling, and walls were brand new, with silver, polished stones as unblemished as dawn. I tilted my head in all directions, marveling at the room around me. And then, Crystal’s voice finally broke through my mental safari. [Hello? Rod? You in there?]
+
+I blinked, “Yeah, sorry, that was really disorienting.” I rubbed the back of my head. “What were we doing before I killed myself?”
+
+[You were going to spend your boons. You have 13 boons, enough to purchase several stat boons and a new class. Would you like to do so? Or is there a dungeon boon you wish to purchase?]
+
+I bristled at her deciding my choices for me, but making my stats higher was probably the right call. “Alright, Crystal, sounds like good reasoning. Can I get my class first and then spend points on the stat-ups?”
+
+[It is not a good idea to build your stats based on a random class for a single run. I would advise you to build up your health and defense before considering other stats.]
+
+“What? Why not? If I get mage, it would make sense to build up the attack stat for magic.”
+
+[And then on your next 3 runs when you get all offensive classes and those stat ups sit wasted?]
+
+“Oh.” It was a good point, but I was still annoyed at her.
+
+“I would like to spend three boons on a class first, still.”  I took a sharp inhale of breath, hoping for a magic class.
+
+A moment of silence hung in the air, heavy with anticipation, before the die clattered on the stone floor, sealing my fate. I took a sharp inhale of breath, hoping for a magic class.
+
+Archer
+
+4
+
+Starting Equipment: Wooden short bow, quiver, 20 arrows. Skill Aim.
+
+Stats: Potency: 4, Vitality: 4, Finesse: 10, Precision: 10, Evasion: 8.
+
+Bonus: Starts with innate ability Evade.
+
+My heart pounded against my chest, a rhythmic drumbeat that I could hear in my head. “Oh, that’s… interesting.” I wasn't sure how I felt as a vision of my father holding a bow appeared. “My father was an archer.” I said.
+
+[Oh? Is that so? Do you think you’ll actually be good at this class?]
+
+Rod: Rank 1, Archer
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+45/45
+
+Health is burned as fuel to keep you from dying.
+
+Stamina
+
+50/50
+
+Stamina is burned as fuel to make skills function
+
+Potency
+
+1
+
+Adds 1 point of damage to all physical attacks
+
+Vitality
+
+9
+
+Adds 5 points of health per level
+
+Finesse
+
+10
+
+Adds 5 points of stamina per level
+
+Precision
+
+15
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Evasion
+
+10
+
+Evasion is the likelihood of your opponent's attacks missing. Each point higher than the target’s precision adds a 5% chance to dodge.
+
+I gripped the bow that had magically appeared in my hands and felt for an arrow. My hands took on a mind of their own as I pulled the arrow back into the nook. I had never been trained in archery, but it was like I had suddenly spent my whole life hunting in the woods. I was itching to kill something with the bow, but a question was burning through my mind. I was so tired of killing the same five rats over and over and over again.
+
+“Hey Crystal, if I kill a couple of rats to test out this skill, can I still use the Blood Ruby I picked up to skip the floor?” I asked. Her light brightened momentarily as if she was thinking about how to phrase things.
+
+[You haven’t picked it up. It’s on your corpse. By the crate. And it doesn’t allow you to skip the floor; it takes you to the bosses on the floor. But yes, it will still work if you kill a few rats before coming back through. You need to use the amulet before you leave the room the first time though, though.]
+
+As if reading my mind, her words stopped me, hand already on the rusty bar to the first room.“That would probably be a good idea.”
+
+I headed for the Crate and corpse and picked up my belongings. [You have received 47 gold, a leather helm, and an Enchanted Blood Ruby of the Sewage Goblin Tribes.]
+
+Inventory
+
+Death Boons: 13
+
+Gold: 47
+
+Name
+
+Amount
+
+Condition
+
+Effect
+
+Description
+
+Gold
+
+47
+
+N/A
+
+The Currency of Penance.
+
+A simple gold coin on one side is the visage of the Merchant of Death, and on the other is a Thumbs up.
+
+Enchanted Blood Ruby Of The Sewage Goblin Tribes
+
+1
+
+NA
+
+While in your possession, you can speak Goblish. While in your possession, once per run, you can equip an item during combat. You can skip the normal rooms on the first floor and choose to fight only the Necromancer and the Goblins.
+
+A dark, gleaming ruby imbued with the ancient magic of the Sewage Goblin Tribes. The ruby is also one of the seven keys needed to escape Penance.
+
+Leather helmet
+
+1
+
+13/15
+
++1 defense
+
+A sturdy leather helmet crafted to provide basic protection for the head.
+
+The ruby pulsated in my hands, warmth radiating off of it. “How do I activa…” I started, but the words died on my lips as a burst of heat and light pulsed from the ruby, flooding the room and blinding me.
+
+When my vision cleared, three new doors appeared along the stone sewer wall. They were of varying levels of ornateness. The first, a stone door with a skull in place of its door knob, led to the Necromancer. The second had a goblin head and was made of a brilliantly shining limestone, and the 3rd was a dark wood that felt malevolent somehow, like even coming close to the door would put me in danger. I tried not to let my thoughts linger on what I knew to be on the other end of the door.
+
+With my future path forward assured, I walked back to the plain wooden door blocking my path to the first mobs of the floor.
+
+I entered the first room. I suddenly stopped, realizing something. “Before we move forward, I would like an explanation of skills and how they work. I keep asking you things, and I never find out. Please.”
+
+[You don’t need to beg. It’s not even complicated. Each class has 1-2 skills depending on alignment, each costing five stamina. Aim and Scan both cost five stamina.]
+
+“Okay, great. What does alignment mean?”
+
+[I can’t say.]
+
+“What do you mean you can’t say? I’m sure it's not that hard to explain.”
+
+[I mean, I am literally forbidden by Penance.]
+
+“That figures. I guess there’s nothing to it, then. How about I spend my other boons?"
+
+[Sure, what would you like to purchase?]

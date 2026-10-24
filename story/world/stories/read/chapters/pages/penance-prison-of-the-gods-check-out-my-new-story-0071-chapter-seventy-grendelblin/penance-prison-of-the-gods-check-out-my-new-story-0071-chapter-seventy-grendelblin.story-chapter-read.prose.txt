@@ -1,0 +1,113 @@
+~Run 5, The perfumed prison, Floor 2, The Fallen Merchant city of Aerlyn~
+
+The room smelled of wine and cheap perfume, with vibrant incense visible in the air. Cells lined both sides of the wall, stretching into the distance. As my companions entered, I stopped and turned to them.
+
+"We already know we can’t win on this run, but we can figure out a plan for the next one. This room might hold an item that allows the boss to take damage. Let's try and find it!”
+
+"How did you find this place? Fifty runs in, and we never discovered it," Thomas asked, his voice a mix of amazement and frustration.
+
+"I’m guessing once you discovered each room's trick, you stopped exploring," I replied, raising an eyebrow.
+
+"We might have... but it's not our fault. The other devotees here before us 'showed us the ropes.' Rellum said we could trust them," Thomas spat bitterly, his right fist clenched at his side.
+
+"Well, spread out. For all we know, there's treasure here, too." I took off at a brisk jog, glancing into each cell as I passed. They were all unlocked but closed, obscured by a thick fog of different-colored perfume. Despite their emptiness, something nagged at me. Each cell's colorful smoke—reds, blues, greens, and purples—had to be hiding something.
+
+After the fifteenth empty cell, frustration crept in. I called out to my companions, "Every cell is empty, but there has to be more to this. Almost every room on this floor has been a puzzle. Let's go back to the beginning."
+
+They grimaced but followed. As we reset at the start, I took note of the colors. Red and green had adverse effects—arrow traps and poison, if my memory served. Blue and purple seemed safer.
+
+"We should only enter the purple and blue cells. I'll test the first one on my side. Leave red and green alone."
+
+"Why? What if there are items or treasures? I'm going to open this first one," Klericho declared, stepping towards the red cell.
+
+"No! What are you doing?" I screamed in frustration, feeling fire flood my veins. My anger had seemed to have reached a peak again, ever since the revelation that Aurentum had claimed my hard work for himself.
+
+Klericho opened the first red jail cell, and like a line of dominoes, each red cell clanked open, one after another.
+
+With bated breath, I watched as horrifying monstrosities climbed out of each cell.
+
+“Scan!” I shouted, not wasting any time.
+
+Enemy Entry 0022:Grendelblin: Weak against: Shadow, fire, water Strong against: nothing
+
+These beasts are the discarded, often jailed, progeny of the great mythological beast Grendel. It is claimed that once upon a time, he was happy and in love with the Goblin Queen. They married and had all sorts of horrifying offspring. They lived a happy life until one day, Grendel's mother came looking. She slaughtered the Goblin Queen coldly and lured Grendel back through magical control. These Grendelblins were left creating chaos in their parents' wake. The oldest, a boy named Hob, on the cusp of adulthood, corraled his disorderly siblings and threw them all in here. And you crazy idiots just freed them. All 20 of them. Good luck.
+
+Stat:
+
+Level
+
+Health
+
+100/100
+
+Potency
+
+Item drops
+
+Amount
+
+Chance to drop
+
+I stared in horror. Not since the horde room had we faced such numbers. Instead of weak trash, we could quickly push aside, and these monstrosities would likely take hit after hit, given their high health.
+
+As turn-based combat started, my one solace was that I had nine pets under my control—it was about time I began to use them to their full worth. I had been itching for a real battle.
+
+The first Grendelblin was to my immediate right. I jumped forward, swinging a bolt from my staff down on its head.
+
+"All on me!" I shouted, commanding my pets to focus on the beast before me.
+
+[You have dealt 5 damage.]
+
+Time froze as my three skeletons ambled forward. Bones 2 shot an arrow aimed at the eyes, Bones 1 slashed with his red, pulsating sword, and Bones 3 made clicking, cutting moves at the Grendelblin's back.
+
+[Critical strike, bones 1, 2, and 3 deal 40 damage.]
+
+Then, the three Squawks came charging in with their ranged lightning bolts.
+
+[Squawk 1, 2, and 3 have dealt 35 damage.]
+
+The final points of damage were claimed by Otto 1, as the tiny octopus flew through the air and bowled the beast to the ground.
+
+Otto proceeded to slurp and squelch as it devoured the head of the beast, which then exploded in a burst of blood and skull fragments. Unsurprisingly, there was no remaining brain matter.
+
+[Otto 1 has used Brain Slurp. Otto 1 has dealt 83 damage. Otto 1 has overkilled Grendelblin 1. You have received an Overkill Death Boon.]
+
+I couldn't move as the enemy turn came up. The next Grendelblin crouched, its muscular, sinewy limbs tensing beneath dark, leathery skin, each limb ending in a sharp, claw-like point. Large, pointed ears jutted from the sides of its head, framing a face twisted into a snarl that revealed jagged, razor-sharp teeth. It pounced for me, but suddenly, Thomas was there blocking the below like a teleporting giant.
+
+As my next turn came up, I faced a crowd of three Grendelblins. I knew our tactic of rushing them down with targeted damage wouldn't work, so I needed to apply some tactics. Otto's special ability only worked on mobs with less than 10% health, almost always dealing a critical blow with damage up to 100—a crazy good skill to have in my bag.
+
+I decided to send my pet #2s and 3s after Grendelblin 2, calling them Group A, and my 1s after Grendelblin 3, calling them Group B. I hoped Thomas was smart enough to focus on Grendelblin 4 so no group would get overwhelmed.
+
+With the remaining ten seconds of my turn, I shouted orders and decided to avoid getting in damage range, opting to cast spells from my staff. I focused on the third target, relying on my pets to mitigate possible damage from the enemies. This plan would only work if I could count on Thomas and Klericho to perform well in combat, and thankfully, neither man had been a slouch so far.
+
+As the seconds ticked, I cast Necrotic Bolt at Grendelblin 4 and closed my eyes, fearing retaliation.
+
+[You have dealt seven damage.]
+
+I heard the clash of Thomas's sword against the Grendelblin's flesh. I popped open an eye to confirm my thoughts and waited for their turn to tick away.
+
+Team A focused on Grendelblin 2, functioning like a well-oiled machine. Six missiles of varying types charged down on the unsuspecting mob in a cavalcade of colors.
+
+[Group A has dealt 31 damage]
+
+Thirty-one damage wasn't too bad, but I was very concerned about the damage my pets were about to take. Suddenly, Thomas was there, deflecting the Grendelblin's blow with his sword. Meanwhile, Bones 1 stepped up to attack Grendelblin 3. The Red Death absorbed light, casting a dark aura as he swung at his target. Two missiles backed him up: a golden bolt of electricity from the sky and a purple wreath of magic encircling the monster's head.
+
+[Bones 1 has made a second consecutive hit without taking damage. The Red Death has recovered 1 point of durability damage. Potency increase +1. group b has dealt 18 damage.]
+
+The Grendelblin reared back with a roar, charging at Bones 1, but Klericho was faster, his golden sheen of magical light surrounding Bones 1 just in time.
+
+[Grendelblin has used Rear on Bones 1. The attack does no damage due to Shield of Light.]
+
+I fist-pumped the air as the shield faded, then almost facepalmed as Grendelblin 4 prepared to strike Bones 1. But Thomas was there again. I had played barbarian before, and the class was never as fast as Thomas seemed. It could have been due to the Devoted buffs or some sort of warp spell. Then it hit me. That was exactly what was going on. They had told me as much, and now I realized the implications. The power of these classes was due to the perks that came with being a mercenary for the Merchant of Death.
+
+And if they got those perks while being devoted, I got mine from being a mercenary. Rellum had said I would keep all my perks if I 'switched' sides, but could I afford to listen? I didn't like physically oriented classes and had spent an eternity toiling away. The extreme fatigue seemed the most off-putting. I decided not to dwell on the thought; it felt like bad form to focus on anything other than the battle in front of me.
+
+I moved forward from my vantage point and cast a poison bolt from Gurgle’s staff. The greenish glow of the bolt streaked through the air and struck true. I jumped in the air in a small victory. With a 5 in 100 chance, it was crazy that I had seen poison take effect twice in under 20 casts. I froze as my turn ended, watching the results of my pets' attacks unfold.
+
+Group A moved precisely, and another six blasts exploded into Grendelblin 2. I let out a cheer as the coordinated assault continued.
+
+[Group A has dealt 36 damage.]
+
+Thomas wasn't idle; he swung his giant sword and cleaved the monster in two. It was a gruesome sight, with blood and viscera spilling to the floor like my father's spilled soup. I gagged at the errant thought.
+
+And then the real magic happened.

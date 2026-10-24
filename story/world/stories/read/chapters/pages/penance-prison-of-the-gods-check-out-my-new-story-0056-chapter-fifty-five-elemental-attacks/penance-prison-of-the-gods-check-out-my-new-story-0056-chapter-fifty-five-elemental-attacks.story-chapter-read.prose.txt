@@ -1,0 +1,521 @@
+Chapter Fifty-Five: Elemental Attacks
+
+“How does this class work? You said it is unique,” I asked, curiosity piqued.
+
+[You have to give commands to your pets. You can have all 8 elemental pets out at once, but it can be hectic controlling many beings without the forced turn-based combat. However, you can cheat through the first three floors with that perk. The fourth floor is an entirely different beast that we will get to eventually] Crystal explained.
+
+"What’s on the fourth floor?”
+
+[It’s called the Tournament of the Gods, but there isn’t much we can do about it right now. Let's get back to the new class.] Really? She’s going to tell me something like that and expect me to move on?
+
+“Fine, but we’re going to talk about that later. What about the attacks? I know you said I give them commands, but what skills do the pets have? What about their stats?" I pressed, eager to understand the mechanics.
+
+[Their stats are dependent on your stats. They are 1 to 1 with yours.] Crystal replied.
+
+“And what about their dice rolls?” I asked, trying to wrap my head around it.
+
+[Each pet has 4 different attacks. Two physical and two magical. Each type has a non-elemental and an elemental attack. The elemental attacks do critical damage to enemies that are weak to their element,] Crystal continued.
+
+"Oh, so like water beats fire, fire beats plants?" I guessed.
+
+[Yes, except you have it entirely wrong, as usual,] Crystal said sarcastically. [There are three sets of elemental rock-paper-scissors and the two mirror elements.]
+
+“Mirror elements?” I echoed, puzzled.
+
+[I’ll get to it; let me explain,] Crystal said, pausing. I nodded, and she continued, [Fire, water, and ice are the first trilogy of elemental powers. Ice freezes water. Water extinguishes fire. Fire melts ice. But that's just with elements versus elements. Some monsters are straight-up weak to fire, ice, or both. The second set of elements is electricity, earth, and wind. Earth grounds electricity, electricity is carried on the wind, and wind buffets the earth. The third set is ailments. Poison, necrotic, and stun. They don't traditionally stop each other; their effects tend to compound each other, which can be a hassle for most people. Getting stunlocked and poisoned is how you just died. It was quite brutal.]
+
+“I’m aware of how I died. I don't plan on repeating that death ever again,” I said, wincing at the memory.
+
+[We can't always get what we want,] Crystal started in a sing-song fashion. [But if you try sometimes…] She trailed off, realizing I had no idea what she was singing. [The final two elements are the mirror elements. Shadow and light. You can't have one without the other, but both can overpower each other if given the chance.]
+
+"Alright, so my pets are these different elements? Am I able to summon more than one at a time?" I asked, trying to piece it all together.
+
+[Yes, that is the beauty of this class. You can have all 8 pets out at the same time. However, it costs a full bar of mana for each pet summon, no matter your intellect, so you have to sit idly and wait for the mana to recharge. That was one of the things I wanted to talk with you about.] She paused dramatically as if what she said held great power over my life.
+
+[It's time to take out the Lunar amulet, and the staves. You must go through this floor without any magic regen until you reach the Necromancer's chamber, but you should be fine with Coal. His skills are going to make a difference,] Crystal explained.
+
+Without further preamble, two of Crystal's pages appeared in front of me. They showed the following:
+
+Coal Level 1 Fire elemental
+
+Stats
+
+HP
+
+30/30
+
+Stam
+
+20/20
+
+MP
+
+20/20
+
+Skills
+
+Effect
+
+description
+
+Slash
+
+1-6
+
+Coal swipes with his claws. Uses 2 stamina
+
+Fire Slash
+
+1-6 10% chance to burn target
+
+Coal swipes with his claws. Fire element. Uses 5 stamina
+
+Mana Bolt
+
+1-4
+
+Coal sends out a non-elemental bolt of magic. Uses 2 mana.
+
+Fire Bolt
+
+1-4 20% chance to burn target
+
+Coal sends out a bolt of fire magic. Uses 5 Mana.
+
+Cauterize
+
+End any bleed effect by cauterizing the wound.
+
+If you burn a wound, it stops bleeding? I mean, its magic, don't over think it.
+
+The attacks sounded impressive, but I needed more details. "Can you describe them in more detail? The chart doesn’t do much to describe it?" I asked.
+
+[Slash and Fire Slash are claw-based attacks where Coal uses his claws to attack the target. These are valuable because they cost stamina to use instead of mana. Each pet has a supply of stamina and mana based on your stats. So you have to manage those resources as you fight. Unlike your personal stats, pet stats recover upon resting after a battle; pets will usually curl up and sleep until a room is cleared out and the team is ready to move on to the next room,] Crystal explained.
+
+“How many elemental pets can I access right now?” I asked, eager to know my options.
+
+[You can have up to eight, but it will take you killing the Necromancer boss to summon more. The Necromancer's Den is the only place on this floor with moonlight. And your MP regen is pitiful,] Crystal replied bluntly.
+
+"Alright then, let's go," I said, feeling a surge of determination.
+
+I walked over to where Coal was sleeping and gently nudged the Fire Dog awake. He looked around, confused, until he sat down and stared intently at the door. I smiled at his focus and patted his head.
+
+“Time to move, buddy. We’ve got work to do,” I said, feeling a mix of anticipation and excitement.
+
+~Run 5, Room 1R, Floor 1, Sewers of Aerlyn~
+
+The room was the same boring sewage system I had been in a dozen times. Broken pipes hung from the ceiling, and sewage defied gravity again for no discernible reason other than to confuse the newly penitent. Two rats were playing a game of cards on the single crate in the center of the room.
+
+Before they could react, I cast Scan.
+
+Enemy Entry 0001: Giant Rat (1): Level 3 (Unaffiliated Horde)
+
+The Giant Rat is a common foe found in the dark and damp regions of the Sewers of Aerlyn. Despite its extremely low health, it can be quite a nuisance due to its Potency, which increases by 5 at each level. Weak spot: susceptible to fire, lightning, and dark-based attacks but immune to Water, Ice, and Ground attacks.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+5/5
+
+Health is burned as fuel to keep you from dying.
+
+Potency
+
+13
+
+Adds 1 point of damage to all physical attacks.
+
+Vitality
+
+1
+
+Adds 5 points of health per level.
+
+Precision
+
+5
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+5
+
+33%
+
+Rat Teeth
+
+1-2
+
+33%
+
+Rat Meat
+
+1
+
+33%
+
+Death Boon
+
+1
+
+1%
+
+"Coal, do you see the three rats? I want you to use Firebolt on the first one." I took the necrostaff I had off its sling and held it in front of me in a combat stance.
+
+Coal barked in understanding, and I cast Necrobolt at a different rat simultaneously. Dice rolled, and Coal barked as fire shot out of his mouth in a quick and fast as a bolt of lightning. The bolt traveled quickly through the air before exploding into the first rat.
+
+[Critical hit! Weakness: Fire. Your pet has dealt 36 damage. You have received an overkill boon.]
+
+The rat evaporated into a pile of smoke as the bolt of necrotic energy from my staff flew straight and true. It collided with a second rat, engulfing it in a puff of dark energy.
+
+[Critical hit! Weakness: Shadow. You have dealt 10 damage. You have received an overkill boon.]
+
+Before the third rat could react, I shouted, "Coal, as quick as you can, use Fire Slash on the final rat."
+
+Coal moved into close range, his fiery claws slashing down on the slow-moving rat. It was over in an instant.
+
+[Critical hit! The target is weak to fire and shadow. You have dealt 30 damage. You have received an overkill boon.]
+
+I let out a breath I hadn't realized I'd been holding. "Great job, Coal," I said, patting his head as he wagged his tail. The adrenaline from the fight left me feeling both exhilarated and exhausted. We had won this battle, but the dungeon still held many challenges.
+
+[You have received an overkill boon.]
+
+Three down, twelve to go. I was on a roll, and the level had barely started. I would also still get boons from the Necromancer and the Goblin trio. This class packed a punch. I loved how much power it had. I was hitting 30 damage per hit. Crazy good. And the fact that slash hit three times. Oh baby, where was this class my first few runs?
+
+[It was just the luck of the draw, Rod. There are other powerful classes, especially once you unlock the advanced classes. You have so much ahead of you that you don't know what's coming. But first, we have to beat the second floor,] Crystal said.
+
+"Wait, I unlock advanced classes on the third floor?" I said, puzzled.
+
+[Honestly, I can't wait; I'm bored of these rats and the Necromancer. I wish you would go straight to the boss,] Crystal replied, a hint of impatience in her voice.
+
+“You’re the one who said I needed to learn how this class worked,” I pointed out.
+
+[Yes, and you are taking your sweet time. Now hurry up and finish looting,] Crystal urged.
+
+I sighed and kicked the two rat corpses to get my loot.
+
+[Rat teeth and rat meat 1 each]
+
+“Gee, thanks,” I muttered.
+
+I threw the rat meat to Coal, who devoured it in a single gulp, then curled up into a ball and went to sleep. I then opened the crate, reached in, and pulled out a pile of gold. Twenty-five coins. I wished I was back on the second floor fighting the horde. I bet this class can handle that room all on its own.
+
+When I approached the exit door, Coal was back on his feet, and we went through.
+
+~Run 5, Necromancer’s Room, Floor 1, Sewers of Aerlyn~
+
+"Yes!" I shouted as I walked into the room, my excitement mounting as my mana started refilling automatically. It was slow, but definitely worth waiting for.
+
+"Who dares invade my ritual chamber?" The Necromancer's voice was all bark and no bite.
+
+I quickly cast Scan.
+
+Enemy Entry 0002: Necromancer: Level 7 (Malikap)
+
+The Necromancer is a powerful and sinister caster who commands dark magic and manipulates the forces of death. Necromancers are often found in secluded, dark places where they perform their forbidden rituals. Weaknesses: Light and shadow, ground, fire, ice, and lightning.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+15/15
+
+Health is burned as fuel to keep you from dying.
+
+Mana
+
+40/40
+
+Mana is burned as fuel to make skills function
+
+Insight
+
+8
+
+Adds 1 point of damage to all Magical attacks.
+
+Arcanum
+
+8
+
+Adds 5 points of mana per level
+
+Vitality
+
+3
+
+Adds 5 points of health per level.
+
+Precision
+
+12
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+15-25
+
+25%
+
+Necromancer Eyes
+
+1-2
+
+35%
+
+Skull Amulet
+
+1
+
+15%
+
+Apprentice’s Grimoire
+
+1
+
+15%
+
+Dark Leather Boots
+
+1
+
+4%
+
+Necromancer Robes
+
+1
+
+4%
+
+Lunar Amulet
+
+1
+
+1%
+
+Solar Amulet
+
+1
+
+1%
+
+"Coal, let's smoke this jerk. Cast Firebolt," I commanded.
+
+Coal's mouth glowed as a fireball coalesced, and a die rolled. The fireball flew like an arrow, colliding with the Necromancer's head, which promptly exploded in a burst of flame.
+
+[Critical hit! Weakness: Fire. You have dealt 20 damage. You have received an overkill boon.]
+
+The Necromancer dropped dead just as a skeleton rose to its feet. It shambled forward, and I cast Scan again.
+
+Enemy Entry 0007: Skeleton: Level 4 (Malikap)
+
+Skeletons are the reanimated remains of fallen warriors brought back to life through dark magic. Weaknesses: Fire, Light, Shadow.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+20/20
+
+Health is burned as fuel to keep you from dying.
+
+Mana
+
+40/40
+
+Mana is burned as fuel to make skills function
+
+Potency
+
+2
+
+Adds 1 point of damage to all physical attacks
+
+Insight
+
+2
+
+Adds 1 point of damage to all magical attacks
+
+Arcanum
+
+8
+
+Adds 5 points of mana per level
+
+Vitality
+
+4
+
+Adds 5 points of health per level.
+
+Defense
+
+6
+
+Blocks 1 point of damage from all physical attacks.
+
+Magic Defense
+
+2
+
+Blocks 1 point of damage from all magical attacks.
+
+Precision
+
+10
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+15-25
+
+30%
+
+Bone Meal
+
+15-25
+
+30%
+
+Ragged Cloth
+
+1-5
+
+30%
+
+Ancient Scroll
+
+1
+
+5%
+
+Enchanted Bone (Quest Item)
+
+1
+
+4%
+
+Skeleton Key
+
+1
+
+1%
+
+"Coal, use Fire Slash!" I ordered.
+
+Coal moved in, his fiery claws slashing down on the skeleton. It was over in an instant.
+
+[Critical hit x 4! Weakness: fire. You have dealt 106 damage. You have dealt 5 times an enemy's maximum health. You have received 5 overkill boons.]
+
+What was up with my luck lately? I wasn’t complaining, but there had to be another force at play here. Other than the ninja, I had been killing this faster, and getting higher rolls. Something was up.
+
+[I thought the same thing, too, but we can discuss it later,] Crystal interjected.
+
+Sometimes, it was unsettling that Crystal could read my mind, but it was probably for the best that I didn't voice my previous thoughts out loud. I kicked the necro corpse and the skeleton corpse to loot them. The dice rolled.
+
+[Due to the nature of the Necromancer's death, the loot table has changed. You have looted the Amulet of Skulls from the Necromancer. You have looted Ragged Cloth from the Skeleton.]
+
+"Great! A useless piece of cloth and another amulet. I bet it's useless, too," I muttered, frustrated but curious.
+
+[Neither item is useless… In fact, you are quite lucky to have received that skull amulet. It could allow you to take the skeleton as a minion in a future run. It could also work on future skeletons, but they aren't a mob you'll encounter until the third floor,] Crystal explained.
+
+"And this tiny rag masquerading as a pocket square isn’t useless?" I asked, holding up the rag skeptically.
+
+[Nope. It's a quest item back in the marketplace. Now that you have one, I will point out how to turn in the quest for you once we get to the second floor. Now, it's time for us to cheat again,] Crystal replied.
+
+I sat on the altar, staring up at the sky. As soon as my mana regenerated to full, I started my long-winded summoning spell. These summons were not the kind of magic I could easily recast in battle. The die rolled.
+
+Just like the earlier cast, the mana pulled out from my belly. It swelled inside me like I was about to lose my nonexistent lunch. I was just as giddy as when I cast my first spell earlier. Sure, it was the same spell, but magic is magic. It flowed through my channels and out of my arms as it coalesced into a blue shape. At first, it was formless, like a blob, before it started to shake. Suddenly, water flew everywhere as it shaped into a supine feline. Its tail flicked back and forth, sending water in all directions with each flick. Its whiskers mirrored the tail, flicking water back and forth with every movement.
+
+Coal saw my new companion and started yapping incessantly. "Fire!" he growled at the cat. The cat gave Coal one look, licked its paw, and then curled up and went to sleep. Its sleeping form was a giant pearl of water, which seemed like the perfect name for the orb-like cat. I went up to the creature, and petted it. She hissed, backed up, and walked away.
+
+Coal approached me then, barked "fire," happier this time, and sat patiently waiting for me to pet him.
+
+Pearl Level 1 Water Elemental
+
+Stats
+
+HP
+
+30/30
+
+Stam
+
+20/20
+
+MP
+
+20/20
+
+Skills
+
+Effect
+
+description
+
+Claw
+
+1-6
+
+Pearl scratches with his Claws. Uses 2 stamina
+
+Water Claw
+
+1-6 10% chance to slow target
+
+Pearl scratches with his Claws. Water Element. Uses 5 stamina
+
+Mana Bolt
+
+1-4
+
+Pearl sends out a non-elemental bolt of magic. Uses 2 mana.
+
+Water Bolt
+
+1-4 20% chance to Slow target
+
+Pearl sends out a bolt of Water magic. Uses 5 Mana.
+
+Fly
+
+Uses magic to lift you into the air for a brief period of time.
+
+He lifts, you fly.~ A five-ounce bird could not carry a one-pound coconut
+
+I stood there for several minutes petting the dog; as my magic slowly recovered, I prepared to cast the spell again. I liked how the magic felt. It was an addicting rush that I couldn't get enough of. The mana pulled from my body, swelling inside me like a balloon about to burst, and then rushed out of my hands. The die rolled.

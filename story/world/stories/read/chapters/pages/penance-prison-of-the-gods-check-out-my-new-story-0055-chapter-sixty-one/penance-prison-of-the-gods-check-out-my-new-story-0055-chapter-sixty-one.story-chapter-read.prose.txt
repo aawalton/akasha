@@ -1,0 +1,59 @@
+I was overwhelmed by the flood of information, so I mostly skimmed it while saying to Crystal, "Hey, mute the messages, please, I need to focus.] The stats still poured onto the parchments, and I had to wave them away to focus. The whole interaction had taken 20 seconds, so in a panic, I said to Crystal, "Please set my pets to ranged magic and weakness only." While I did this, I angled myself to the right of Thomas to aim at the nearest target.
+
+I used my Necrotic staff to attack the guard captain, figuring he would take the longest to take out.
+
+[You have dealt 4 damage to Werewolf Captain. Werewolf captain has 51 health remaining.] As I froze, I surveyed the battlefield. Thomas was frozen with his sword extended to his right and his other splayed to the left. A golden magical shield radiated around him, Klericho clearly having successfully cast his shield.
+
+And then, the werewolves attacked. For monsters, they were extremely well coordinated.  The guard captain focused on Thomas but directed his allies to try to flank around. Thankfully, time froze for them right as they approached Klericho.
+
+I hadn't had time to focus on my pets, but now they moved before I did. Coal launched a flam missile at the werewolf attacking Klericho, and then Pearl jumped in front and used her claws to slash at the two werewolves. Dust, my poisonous moth, hovered above the crowded field and used an area-of-effect poison spell. It only did 1d4 of damage, but it had a 25-100 percent chance of inflicting poison. Even if I rolled a 1, that was better than any poison spell I had seen. Even the rogue's poison ability had only been 50%.
+
+I didn't want to waste my turn, so seconds before Crystal updated me on my pets, I again aimed my staff at the guard captain. [You have dealt 2 damage to Werewolf Captain. Werewolf captain has 46 health remaining.]
+
+[You have rolled 3. Calculating poison chances. Rolling 7d100…] I had been afraid of that. The poisonous cloud that erupted was not what I had expected. Acrid red smoke that looked like death burst from around my purple familiar in a ball shape. My two familiars, Klericho and the four Werewolves, breathed in the thick smoke.
+
+[Results: 33, 82, 59, 1, 92, 97, and 12.] I wasn't sure how the results were assigned, but I hoped the critical failure would go to Klericho so that he at least would be spared the poison. As if my prayer had been heard, the poison cloud parted around Klericho and one of the wolves. Both my non-moth familiars were poisoned. Coal took on a deeper red color, and the smoke that poured off his tail had changed to match the color of the smoke from the moth's attack. On the other hand, Pearl had taken on a deep purple hue. Little motes of red swirled around her hydric body.
+
+[Poison cloud has poisoned Werewolf 1, 2, 3, Coal, and Pearl. Klericho and Werewolf 4 are not affected. Poison has enchanted the elemental bodies of Coal and Pearl. Creating new elements, Noxiflume and Blightbrine. Ability unlocked: Elemental fusion: By casting one elemental's attacks on another elemental, you can combine elements to create unique effects. Elements discovered:
+
+Noxiflume: Poison-inflicting flames and smoke. Take on a dark red hue that makes it almost look like blood. Inflict a fire elemental with poison.
+
+Blightbrine: Poisonous water. Takes on a byzantium hue, the murky waters as deadly as they look.                   ]
+
+I blinked and then glanced at the time. The third turn was almost upon us, and I hadn’t paid enough attention to combat because of being inundated with information. I had no idea where all of the players were. But the nice thing about this paradigm battle was how it functioned, something I was overjoyed to finally find out.
+
+Each thirty-second turn was 6 seconds of real time; each second slowed to five seconds for my advantage. It was a more extended version of the freezing time that occurred when I evaded. Time passed normally for everyone else, even if it seemed like it didn't for the monsters. It was why their attacks and movements seemed so slowed down. The only real downside was that I was frozen for 30 seconds, but the fact that my teammates moved during that time was like a boon to me. I would have to figure out ways to make this work to my advantage, and I also needed to figure out ways to ensure this didn't seem suspicious to my teammates.
+
+I had already figured out that I could move around during the enemy's turn, but I had no idea how lucky I would be for my companions. My plan was to cast a spell as my turn ended so that I would be stuck in the 2-second long cast animation, which would really be, and then depending on if any enemies were attacking, I could throw myself or roll away. But, as with all plans, this one only got a little bit past thinking it out loud.
+
+My muscles felt like lead as I gripped my staff and cast the spell; time stretched to infinity as the spell collected energy. I had thought 10 seconds would go by quick, but as I mentally tallied seconds, 15 turned to 20, turned to 25, and suddenly it was my turn again, and I was still frozen. The world around me zoomed around like
+
+[what are you doing?] I heard Crystal's voice super fast, so I couldn't understand her. But I could still read her parchment notes. [You can't cast spells during downtime. The spell backlash keeps you locked in the spell until you are attacked or the battle ends.]
+
+As my count approached north of 200 seconds, it finally happened; my spell had been charging for 100-fold the time it had typically taken to cast. I was not surprised when the spell launched off like a missile from a cannon. It exploded into the boss monster, who was already down by more than half his health. A giant d100 rolled as time returned to normal, and my spell launched.
+
+[Skill unlocked: Overcharge. It extends cast time tenfold and allows for a d100 roll. You have rolled a d100. You have dealt 65 damage to Werewolf progenitor. Overkill! You have killed a progenitor with Overkill damage; the Progenitor disease has been cured. Combat ended.]
+
+And just like that, combat was over. And I did not expect it at all. We had killed around 7 of the werewolves, their corpses sprawled out in the entrance foyer, loot crystals shining above their heads. I wish I had known I could do that earlier. 7 people I could have saved, but at least they would respawn when I came through on the run 6. I tapped the 6 loot crystals for my share, and she inundated me with loot messages. The wall of loot confused me as Crystal changed the loot again for what had to be the 6th time. At least she was consistent in her lack of consistency.
+
+[You have looted: Swordsman's Hide: A roll of 28 gets Swordsman's Hide (1-40). Merchant's Loot: A roll 72 gets Assorted Gems (66-85). A roll of 34 gets Bag of Herbs (36-65). Captain's Loot: A roll 89 gets a Gold Coin (76-90). Wolf Loot: A roll of 15 gets Wolf Pelt (1-30). A roll of 57 gets Canine Tooth (31-60). A roll of 94 gets an Enchanted ring (96-99).]
+
+I  then turned to look at the eight villagers who survived the ordeal of the curse. The clothes they had been wearing were damaged or, in a couple of cases out, outright destroyed. They huddled together as we all surveyed the ruins of the city. The werewolf charge destroyed the spice tables, and spice piles clumped together on the ground into unrecognizable mounds. Buildings were damaged or outright destroyed, and we could see the blacksmith section in the distance through what remained of a 4-story apartment building.
+
+All this horror and damage was my fault. This wouldn't have happened if I hadn't insisted on using the scroll. The only good thing that we got out of the deal was the loot, and several of the items seemed intriguing to my mind, but everything was forgotten as a flash of light blanketed the room, and then an aerlyntium lowered from the ceiling and appeared in the middle of the foyer. I groaned, realizing that even if we came back to this place in a future run, it would be a while before all of the shops, people, spices, and items were back.
+
+I approached the Memory core, cursing my horrible choices as I flashed back to another memory.
+
+{Memory core 15/???}
+
+~~~~~{Memory Core 15 Start}~~~~~
+
+The daily life of a citizen of the Country. That thought burned through my mind as I experienced the city's glory. I was six years old, and my father had a rare day off from the royal court. My father was a guard, one of the best. His position was low, but his value was in his dedication and his service. 6pm to 6am. The night duty was essential, even if it wasn't considered respectable.
+
+His father always told him that assassination attempts were most likely to occur in the night. It paid to be alert, and my father had the Eyes of Gold. A rare magical gift that allowed him to see everything. Enchantments, illnesses, lies. His magic was seen as inferior to the training of the elite members of the guard. Magic was seen as broken, a curse of Aurum's touch on Planet. Of course, the royal family all had magic powers; no one seemed to care that they had them; they were just ordinary people. Wizards were hunted or forced to hide; my father was fine as a member of the royal guard because his innate trait was allowed to exist.
+
+I was six when I first saw the signs of stress my father dealt with due to this magic. During the day, he had to shield his eyes from the sun's light. His wide-brimmed hat looped low over his hazel eyes. I saw the light in my father then, half magic, half joy at the world around him.
+
+"Never forget, Roddy, my boy, the world is full of wonder; we just have to choose to see it.
+
+~~~~~{Memory Core 14 End}~~~~~

@@ -1,0 +1,395 @@
+Chapter Forty-Seven: Thomas
+
+Stat Boons
+
+Boon
+
+Cost
+
+Current Stat
+
+Potency
+
+5
+
+1
+
+Insight
+
+1
+
+0
+
+Alacrity
+
+1
+
+0
+
+Vitality
+
+10
+
+6
+
+Finesse
+
+1
+
+0
+
+Arcanum
+
+1
+
+0
+
+Defense
+
+5
+
+1
+
+Magic Defense
+
+5
+
+1
+
+Precision
+
+5
+
+6
+
+Evasion
+
+5
+
+3
+
+“Hey! Why’d you get rid of the effects?” I said, looking at the smaller-than-usual parchment. [Would you have read them anyway?]“Point,” I said, conceding to her. However, I had been planning on reading them this time. Maybe.
+
+Minion Stat Boons (Thumbs)
+
+Boon
+
+Cost
+
+Current Stat
+
+Potency
+
+1
+
+0
+
+Alacrity
+
+1
+
+0
+
+Vitality
+
+1
+
+1
+
+Finesse
+
+1
+
+0
+
+Defense
+
+1
+
+0
+
+Magic Defense
+
+1
+
+0
+
+Player Classes
+
+Boon
+
+Cost
+
+Effect
+
+Mage
+
+4
+
+Starting Equipment: Mana bolt spell. Wooden Mage Staff.
+
+Stats: Vitality: 4, Finesse: 2, Arcanum: 8, Insight: 5.
+
+Penalty: Cannot equip physical weapons, cannot equip iron armor.
+
+Fighter
+
+4
+
+Starting Equipment: Iron sword, iron shield, skill Shield bash.
+
+Stats: Potency: 3, Vitality: 10, Finesse: 6, Evasion: 2.
+
+Penalty: Cannot equip magic items.
+
+Cleric
+
+4
+
+Starting Equipment: Iron mace, shield, and a basic heal spell.
+
+Stats: Potency: 2, Vitality: 6, Finesse: 4, Arcanum: 6.
+
+Penalty: Cannot equip bladed weapons.
+
+Crusader
+
+4
+
+Starting Equipment: Iron sword, iron shield, Basic heal spell.
+
+Stats: Potency: 4, Vitality: 10, Finesse: 4, Arcanum: 4, Defense: 2, Precision: 4, Evasion: 4.
+
+Bonus: Has the guiding light spell.
+
+Conjurer
+
+4
+
+Starting Equipment: Elemental summon spell. Wooden Mage Staff.
+
+Stats: Vitality: 2, Finesse: 2, Arcanum: 8, Precision: 2,
+
+Penalty: None specified.
+
+[Base classes: Each Base class costs 3 Death Boons to unlock. After death, class is unavailable for three runs. Classes are unlocked randomly. Clear the second floor for advanced classes.]
+
+Dungeon Boons
+
+Boon
+
+Cost
+
+Toggle Active
+
+Effect
+
+Turn-Based Combat.
+
+20
+
+N/A
+
+Pauses combat so that everything takes place in turns makes natural evasion impossible; you must rely on actual evasion stat. It can be toggled on and off.
+
+Identify Enemy:
+
+20
+
+N/A
+
+Enemy stats are highlighted and visible above enemies. Requires Scan Skill to use. It can be toggled on and off.
+
+Time Keeper.
+
+2
+
+N/A
+
+A stopwatch shows the time in the upper right corner of your vision. Essential for speed runs. It can be toggled on and off.
+
+Challenge Mode:
+
+200
+
+N/A
+
+Enemies have triple stats and better weapons but drop better loot and more Death Boons. It can be toggled on and off.“Challenge Accepted!” ~ Photonius The Dead.
+
+[Unlock 5 more Dungeon Boons by purchasing all of the basic boons.]
+
+Quest Shop
+
+Quest name
+
+Cost
+
+Type
+
+Description
+
+Reward
+
+Rat teeth
+
+1
+
+Collection
+
+Collect 5 rat teeth.
+
+5 Death Boons
+
+Necromancer Eyes
+
+5
+
+Collection
+
+Collect 20 Necromancer Eyes.
+
+25 Death Boons
+
+Goblin Ears
+
+10
+
+Collection
+
+Collect 50 Goblin ears.
+
+50 Death Boons
+
+I had forgotten about the quests, and a wave of uncertainty washed over me. How could I tackle these when each quest seemed so time-consuming? All the quests would take multiple runs, which was not worth it. In fact, most of the quests would be worth it if they could be done in one or two runs. It was downright insulting. Unless I was missing something crucial, but I decided to let future me handle that. Right now, I had to focus on what I could control.
+
+The Bazaar Goblin ears quest was potentially rewarding, but it wasn’t a sure thing. I thought back to the goblins I had fought, recalling the gritty texture of their rough, leathery skin and the shrill, ear-piercing sound of their screams. The memories were vivid and unsettling. I facepalmed as it dawned on me that I could simply take a dagger and slice the ears off the goblins myself. The thought was gruesome but necessary if I wanted to complete the quest. I suddenly felt a lot better about them.
+
+“Crystal, is there something I’m missing with these quests?”
+
+[Yes, there is. Each quest is a quest line. The base rewards aren’t good, but by the end, the rewards can be worth multiple runs of death boons. I would advise you to start taking them seriously when you can. In fact, you should take the goblin one right now.]
+
+I nodded, and then a thought came to me. "Hey, Thumbs, want to feel more powerful?" I asked, watching the goblin's eyes light up with eager anticipation.
+
+"Thumbs like pow pow. Make kill. Make kill!" Thumbs hopped from foot to foot with boundless energy, miming slashing enemies with his tiny dagger. A manic grin spread across his face, revealing sharp, uneven teeth. The tiny thing would most definitely get itself killed, but I could give it a slight boost.
+
+"Crystal, is it okay to level up thumbs now? You said I should wait until the beginning of a run to spend death boons.”[Maybe give him some defense or health. You'll be fine. You should be able to pick up a few death boons between now and your inevitable death.] I soured as she proclaimed my death was inevitable.“I would like to purchase two level-ups for Mr. Thumbs in those stats, then. Oh, and purchase the quest for me.”The quest window appeared, but I waved it away. Thumbs now had ten health and a single point of defense. He was a lot better off but would probably still die quickly.
+
+"Okay, Crystal, thank you. That was great," I said. I needed to remember to thank her more. Crystal seemed to appreciate kindness, and I desperately wanted to avoid another second-run scenario. "Thumbs, what can you tell me about Kingsley?"
+
+"Oh, Kingsley is scary. Large. Large, large! He uses spears. Much size. Much size! Squash Thumbs, squash, squash, squash."
+
+"Do you know where he is?"
+
+"Oh yes. Follow, follow, follow." Thumbs took off like a rat spooked out of a kitchen by a broom.
+
+I took off after the surprisingly agile goblin. He moved so fast through the debris that he seemed to be swimming through it. I crawled to the next open space and saw Thumbs standing beneath an Aerlynt Orb, his eyes wide with fascination. The swirling colors seemed to hypnotize him, and before I could react, he reached out and touched it.
+
+"[Your minion, Thumbs Goblin Hoarder level 2, has been captured by an Aerlynt orb. You must power up and use the Aerlynt orb to reclaim your minion.]"
+
+I grimaced, realizing that Thumbs might be more of a liability than an asset. His unpredictable behavior was a problem I couldn’t afford right now, with so many other challenges ahead. I grabbed the orb. Just like before, the Aerlynt orb shot around the room, creating a roaring whirlwind of energy. The vortex howled as it sucked in every item in sight, the sound echoing off the walls. Dust and debris swirled around me, and I squinted against the powerful gusts.
+
+Soon, the orb floated in front of my face, and I reached out to grab it again.
+
+Merchant's Alleyway Aerlynt 1 of 6
+
+Name
+
+Amount
+
+Effect
+
+Description
+
+Thomas
+
+1
+
+This is a guard
+
+This is Thomas.
+
+Alleyway Torch
+
+5
+
+It’s a torch… What do you think it does?
+
+If I need to describe a torch to you, we have bigger problems.
+
+Guard Post
+
+1
+
+This will allow Thomas to better defend the hallway.
+
+An unremarkable wooden guard post.
+
+Thumbs
+
+1
+
+It's a goblin!
+
+He’s your minion, remember?
+
+Doorway
+
+2
+
+It's a door. When you open it, it magically teleports you to another room.
+
+It's a white door with a metal handle. The pattern is cool, but since you don't even read these ROD, I’m not going to describe it.
+
+“Why are you being so passive-aggressive with your messages? I’ve been trying to be nice, and I read them this time—at least the aerlynt ones,” I said defensively.
+
+[Oh yeah, then what’s Thomas’s job?]
+
+I tried to look back at the parchment, but Crystal had made it vanish. “I forgot… But I read it!” I shook my head and ignored her antics, deciding it was time to place everything.
+
+I placed the torches along the long corridor, and as the warm light spread, the space transformed. It felt more open and inviting without the clutter of trash, the shadows receding to reveal smooth, stone walls instead of the typical terracotta. The flickering torchlight added a touch of warmth to the once gloomy passage.
+
+After going back and forth several times, I picked out a good location for the guard post, only for Crystal to stop me.
+
+[You have only claimed 33% of this room's Aerlynt Space. Please claim more Aerlynt orbs to claim more space.]
+
+I shook my head and headed back to the door to the "treasure room." I placed the guard post down and then put Thomas in the open slot for the stall.
+
+The guard materialized, wearing the same clothing and armor as the other guards. He opened his eyes and said, "Halt! In the name of the Magistrate!" The man thrust his sword point first at me.
+
+I raised my hands in a pacifying gesture. "Easy there," I said calmly. But Thomas wasn’t having it; he stepped forward, the tip of his sword glinting menacingly in the torchlight, his eyes hard with suspicion.
+
+“State your business, Mongrel. This is a private hallway for merchant use only, and you are not a merchant.”
+
+I considered casting a scan, but the floating crystal above his head gave me pause. Why was he acting like the other guards? His rigid movements and bizarre dialogue seemed eerie. This wasn't the behavior of a living, breathing person; it was unsettling.
+
+"Can't you tell from my crystal? I'm a penitent like you."
+
+Thomas looked up at the crystal above my head, his eyes narrowing. “Having that crystal is not an automatic right of passage. You glory seekers are all the same.”
+
+"What are you talking about? I summoned you from an Aerlyntium orb. Look around—this hallway is deserted. There's nothing here! You're guarding empty space."
+
+The guard's eyes widened in sheer shock as he took in his surroundings for the first time. His metal armor clanged against the wall as he stumbled back, disbelief and confusion etched across his face.
+
+“Oh. I died." He paused for a long moment. His eyes were wide, and his breathing heavy. "I lost my final run. How am I back here? ”
+
+"It's a gift from Rellum, apparently," I explained. "He created these orbs called Aerlyntiums that allow me to recreate things as they were before the Djinn. These powerful orbs can restore everything that was destroyed, though it will take me multiple runs to complete the restoration fully."
+
+“Rellum still saved me? I’m not worthy,” Thomas murmured, his voice tinged with awe and disbelief.
+
+"Hey man, no one is worthy; it's why we are all here," I replied, my voice carrying a hint of bitterness. "Not everyone even gets a chance to come here. We all have to prove ourselves, right?"
+
+I paused, sizing him up. "So, what do you say? Interested in teaming up? I assume you're a warrior class, right? As an archer, I can't take any hits, but with a strong meat shield like you, things would be much easier."
+
+For whatever reason, it was much easier to ask this anonymous guard I had just met to join me than to ask Klericho. But this would be more beneficial; I could stand to play it less defensively. I might make actual progress on this run now.
+
+I watched as Thomas wrestled with his thoughts. His eyes flickered with uncertainty, but then, as if finding resolve, his shoulders squared, and his posture straightened with newfound confidence. "I don't understand how I ended up in this hallway. I haven't been a guard for over a dozen runs." Thomas said, a note of hesitation in his voice. "Have you seen my companion, Klericho?"
+
+"Oh, yeah, I know him. He's running an inn back at the entrance." "Lead on. I can handle most monsters here, but you can deal way more damage unless you're like that idiot. I've never understood his hatred of bows."
+
+Sensing the conversation was finally over, I walked past Thomas and placed one of the two doors. Power radiated out of the room, and it was likely the way back on track to finishing the floor.
+
+[And what about your new minion? Are you just going to leave him hanging out in your inventory like your third pair of cloth pants?] I didn't want to free him. All of the treasure in this room had been destroyed.
+
+I shook my head and reluctantly released the goblin from my inventory, knowing he would be more trouble than he was worth.
+
+"Thumbs was scared. Dark, dark, dark. No warm. No air. So Thumbs sleep," Thumbs said, his voice trembling with fear. I couldn't help but feel a pang of sympathy for the little goblin. Maybe I wouldn't do that to him again. It reminded me of the Plane of Torment. What had the little guy done to deserve going there? I smiled at him reassuringly and opened the door forward into the next room.

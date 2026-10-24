@@ -1,0 +1,135 @@
+~Run 4, Merchant’s alleyway, Floor 2, The Fallen Merchant city of Aerlyn~
+
+I grimaced as I looked at the room. Why did the first room have to be the worst one?
+
+I hated small spaces and did not want to go through this place again. Chairs, tables, knickknacks, and assorted obstacles formed an increasingly small tunnel. This was nerve-wracking and wasn't any better the second time through. I climbed through the mess as a desk chair dug into my side, and a sword tip poked through my shoe between my toes.
+
+"Ahh!" I yelled, grabbing my food and falling to the other side where I had met Thumbs. This time, there was a new goblin trickster to fight. I had already discussed my plan to supercharge my summoning spell with my companions. As soon as I caught sight of the goblin, Crystal interrupted my screaming and flailing:
+
+[Turn 1 start. Thirty seconds remain.]
+
+I cast scan. Staring down the Goblin. He was tall for a goblin, maybe around four and a half feet, and wielded a red sword with black lines in a spiral going from the blade's tip to the hilt. Oddly enough, it also glowed purple.
+
+Enemy Entry 0009: Goblin Hoarder
+
+GregOre!: Level 4 (The Third Tribe)
+
+Goblin Hoarders are amiable and nice. All they care about is hoarding all the loot they can. They'll go for anything, but they like the shiniest things best. Has the Unlock Skill. This is a minion of Kingsley.
+
+Weak point: Put a gold coin down, then smash their head in while they are distracted, you absolute monster.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+20/20
+
+Health is burned as fuel to keep you from dying.
+
+Vitality
+
+4
+
+Adds 5 points of health per level.
+
+Item drops
+
+Amount
+
+Chance to drop
+
+The Red Death
+
+1
+
+100%
+
+And then I cast a single bolt from my staff. The necrotic bolt slipped lazily through the air and blasted into GregOre. [You have dealt four damage to GregOre.]
+
+[Turn one end]
+
+Time froze me, allowing my hands to move slowly through the molasses-like air.
+
+And then I cast summon, hoping overcharge would allow me to produce something powerful. GregOre shrieked and started running towards me. He seemed to move with speed like lighting barreling down on me. As I slowly cast, I thought the goblin would attack me, but before he could, Thomas appeared in front of me just like we planned. He brought his giant sword down on the head of the goblin in a cleaving motion, instantly killing the goblin. Time still didn't unfreeze, as I was stuck in the overcharge casting. Unfathomable, uncontrolled power coursed through my veins, filling my body until I thought I would burst. I felt my mana drain away, as did my health and stamina. It swelled in my belly, filling me until I was about to burst. Just when I thought I couldn't survive any more of it, the mana exploded out of my fingertips, coalesced in dark, black motes of magic, and took the form of three ambling skeletons. One was wielding a sword that shined as bright as starlight, one a normal bow, and one a staff. By the time I was done admiring my pets, Klericho and Thomas had already kicked in the goblin's head.
+
+"Bones one, two, and three; glad you are all here," I said, christening my new pets. The bones of the skeletons radiated the dark purple and black mist from earlier. The mist dispersed around my hand as I waved it through the skeleton's forearm before the bone reformed.
+
+“Cool. Shadow Skeletons. Hey Crystal, any chance these guys resist physical damage or something?”
+
+[That would be awesome, but if you notice, these skeletons don't have HP. Instead, they have double the normal MP of other pets. Anything that disperses their mist causes MP damage. And unlike other mobs, they do not have MP regen. They are exceedingly fragile but powerful. Also, unlike other pets, they do not have both melee and ranged attacks. Only whatever their weapon provides them. And since you overcharged the spell, they only took up one pet spot. So you can still summon three more pets.]
+
+"Wait, I thought it was three max?"
+
+[It’s based on the floor you are on. You can summon an extra pet per floor. But this overcharge mechanic seems to overwrite the rule and could potentially allow you to summon up to 12 pets right now]
+
+“That’s crazy. This class is overpowered. Let's hurry onto the next room.”
+
+[Don’t forget to loot all of the random stuff here. It will be needed when we start placing all of the Aerlyntium items.]
+
+"Right." Thomas, Klericho, and I spent the next 15 minutes looting every item we could from the room. Ultimately, I received the same amount of loot I did from the previous time through the room, which was nice. I wondered if I could sell the excess broken swords to a forge for gold. Even broken, the iron could be salvaged, right?
+
+We made our way through the empty hallway before I noticed the new sword hanging on Thomas's back scabbard. The hilt was now glowing a pulsing black, the same color as my skeleton.
+
+It gave me an idea I didn’t know how to ask. But without even prompting, thomas threw the sword to me. “But I get the next sword, no matter what.”
+
+I grimaced; I didn't want to bet against future loot, but whatever this sword was, it looked like a huge boon for my pet. Crystal shared its stats without prompting.
+
+Inventory
+
+Name
+
+Amount
+
+Condition
+
+Effect
+
+Description
+
+The Red Death, unique.
+
+1
+
+35/35
+
++3 Potency, –10 con (minimum of 1 con). Every successful hit adds + 1 Potency. Every kill regens 1 point of durability.
+
+The sword reeks of death. It is a red blade with sparkling black tendrils running up and down the shaft. It pulses with an odd purple light.
+
+~There Can only be one.
+
+I gasped at the Potency bonus. With my base Potency of three, my pet would have a Potency of 6. That meant every hit with this sword equipped would one-shot monsters on the 1st floor. I wondered, "Hey, Bonesword." I had decided to rename my pet "Come Here." My wispy skeleton waddled over to me. "Take this sword in your left hand, but don't use it in battle. Only use your normal sword for now."
+
+My skeleton's teeth clacked against each other in an unsettling clang as he nodded at me. My other skeletons looked upset that they weren't receiving buffs. I pulled the staff of lunar tides and handed it to the mage skeleton, and then I pulled out my quiver of arrows and gave it to the archer skeleton. My pets were ultra-stacked now, and I could see us making it far. But hubris had been the death of me too many times so far, so I decided to be cautious this run.
+
+"Okay, guys. We need to talk." I said, putting my hand on the door to the next room. "In this next room, please; nobody does any tricks, shortcuts, or walks off alone. I know there is a scary assassin that one-shot my last run but don't interfere until I start casting the big spell. "Bonesword, you're on defense. Please jump in front of me as soon as you are able. Thomas, same deal. Klericho, cast that bubble shield thing on all 3 of us as soon as you can. Start with Thomas, then me, and then the skeleton. I don't want to lose him already, but a pet is better than one of us. Mana is a concern, but as soon as my big spell is cast, we can all rush the Assassin. We're bound to hit him down quickly, given our numbers."
+
+Thomas grinned and said, "There's no problem here. One swing of my sword, and he died last time. Our real problem will be the speed with which we take it down. If it dies before you cast your big spell, what?"
+
+“Then we try something else in the next room.”
+
+~Run 4, The Opulent Oasis, Floor 2, the fallen merchant city of Aerlyn.~
+
+"Wait, this isn’t the assassin room,” I said, raising my arm to stop my companions from triggering the trap. “Why are the rooms out of order?”
+
+“We didn’t want to say anything, but we wondered why you were talking about the assassin. The room order changes every time. Didn’t you know that? It’s less obvious on the first floor where there are only three rooms.”
+
+A question floated through my mind, and I hesitated. Thomas and Klericho were supposed to have comprehensive knowledge of the second floor. Yet, last time, Thomas had tripped and fallen to his death. Was I supposed to believe he was indeed that clumsy? "Don't forget the floor collapses, so we need to be careful." But apparently, I shouldn't have bothered because almost immediately, Thomas tripped into Klericho, and they both fell to their deaths. That answered that question.
+
+I sighed and started running. The second time around, the dangers of the oasis were different. As I turned the first corner, a stalactite fell from the ceiling. Then, a nightmare occurred.
+
+The entire platform I was on started shaking, and then, radiating out in diamond-like patterns, half of the floor fell away. I blinked, and suddenly, the room resembled a broken chessboard. Thankfully, the platforms stopped falling. Taking a minute to calm my heart rate, I caught my breath and examined the tiles.
+
+Tentatively, I stepped onto the next platform. As soon as my right foot was on the new tile, the one under my left started to collapse. I cursed under my breath. That’s when I finally remembered my companions. I looked back at the entrance and sighed with relief. All three of my skeletons were hanging out on the barest platform of wood at the edge of the room.
+
+The new trick to the room was clear: I had to jump or walk between platforms, but as soon as my feet left one for more than a second, it vanished. I had to leap into the air, lurching for another platform just as the one I had been standing on disappeared. To complicate things further, four legendary chests were scattered around the room. If I triggered the aerlynt orb in the center, it would consume the chests.
+
+I decided to play it cautiously. I would move between the chests slowly, activating them within range. My hands shook with anticipation as I jumped toward the first chest. This would be my first chest with an upgraded loot table.
+
+Previously, Klericho or Thomas had claimed all the chests. Now, these four were ripe for the picking, and their contents would be mine. It felt good to adventure alone again, even if only for a brief respite of solitude.
+
+And then, a memory core appeared, of course.

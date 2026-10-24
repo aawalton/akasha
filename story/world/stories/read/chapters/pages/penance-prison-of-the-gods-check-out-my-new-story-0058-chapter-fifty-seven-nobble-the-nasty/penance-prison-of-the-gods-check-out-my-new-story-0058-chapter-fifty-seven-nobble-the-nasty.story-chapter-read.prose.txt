@@ -1,0 +1,171 @@
+Chapter Fifty-Seven: Nobble The Nasty
+
+~Run 6, Goblin Boss room, Floor 1, Sewers of Aerlyn~
+
+It was so convenient that the Amulet worked the way it did. I was getting tired of killing rats, and I definitely didn’t want to get near Slikk again. I switched my noxious staff out for Gurgles, since I had a feeling it would allow me to control the sewage like it had for Gurgle, and I had no intention of taking another mouthful of sewer water.
+
+When we stepped inside, the door slammed shut, trapping my companions and me. The turn-based battle system seized control, and I was not ready. And to make things worse, Slikk, Gurgle, and Drip had a new friend in tow.
+
+Parchments burst into the room like a flurry of pages from an exploding book. Each one shot towards a goblin, my pets, or me, glowing bright red with the numbers we rolled. Eight dice tumbled through the air, ricocheting off walls and landing haphazardly. I couldn't keep track; the deluge of information overwhelmed me, and once the battle began, turn order became a chaotic blur.
+
+Despite Crystal's best attempts to explain, the turn-based combat was a misnomer. It was something called the Active Paradigm window. The parchments were transformed into small clocks, each with a 5-second timer for movement and a 10-second timer for actions. Each team had a 30-second 'Paradigm' to act. Turns could overlap, and if you finished quickly, you could reduce your wait time to a 2-to-1 ratio. The overlapping turns created a hectic mess that still gives me a headache.
+
+[Active Paradigm Battle. At the start of your Paradigm battle, assign a role to each of your pets or assume manual control. Time will not stop while you are making decisions, so beware,] Crystal instructed.
+
+"Wait, what? I thought the point was to give me pinpoint control over the battle? You said it was turn-based! Like God’s and Kings!" I exclaimed, frustration creeping into my voice.
+
+[APB gives you pinpoint control if you choose to use it, and in many scenarios, it's worth it. But with this many enemies, including a new boss, I would advise against it,] Crystal explained calmly.
+
+"Then what do I do?" I asked, my voice rising in panic.
+
+[Scan the goblins on your turn, then before ending your turn, set the Paradigm for your pets to target weaknesses. You should have about 8 seconds left to do this,] Crystal replied, urgency in her tone.
+
+"Scan, as in multiple?" I asked, trying to process the instructions despite my panic.
+
+[Hurry now; time is of the essence!] Crystal urged.
+
+"Scan them all!" I shouted, hoping it would be enough.
+
+Enemy Entry 0004: Slikk The Sludger (Sewer Goblin)
+
+Weak Point: Lightning, Water, Shadow, Light, and fire. Resist, ice, ground.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+60/60
+
+Health is burned as fuel to keep you from dying.
+
+Enemy Entry 0005: Gurgle The Gusher (Sewer Goblin)
+
+Weak Point: Lightning, Water, Shadow, Light, and fire. Resist, ice, ground.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+35/35
+
+Health is burned as fuel to keep you from dying.
+
+Mana
+
+50/50
+
+Mana is burned to fuel spells.
+
+Stolen from its original source, this story is not meant to be on Amazon; report any sightings.
+
+Enemy Entry 0006: Drip The Drainer (Sewer Goblin)
+
+Weak Point: Lightning, Water, Shadow, Light, and fire. Resist, ice, ground.
+
+Stat:
+
+Level
+
+Health
+
+45/45
+
+Enemy Entry 0015: Nobble the Nasty (Sewer Goblin)
+
+Weak Point: Lightning, Water, Shadow, Light, and fire. Resist, ice, ground.
+
+Stat:
+
+Level
+
+Health
+
+35/35
+
+Mana
+
+50/50
+
+[And your Paradigm?] Crystal prompted urgently, her voice tinged with anxiety.
+
+"Weaknesses!" I shouted, my voice echoing off the stone walls as the chaos erupted. I set the paradigms just as the timer ticked to one second. Gripping my lunar staff, I summoned a wave of sewage that surged forward, blocking the path between us and the goblins. My pets remained composed, seizing their moments with precision.
+
+Coal launched himself into the air, flames flickering around his form as he cast Firebolt at Slikk. Squawk flapped its wings, rising with a burst of energy to cast Electric Bolt at Drip. Pearl, glowing a radiant golden hue, must have activated Elemental Dodge, transforming into a shimmering golden-blue orb. Then it was the goblins' turn.
+
+Nobble, the newest goblin, waved his staff with a sinister grin, causing the sewage shield to waver and falter, leaving my team vulnerable.
+
+Slikk rushed forward, swinging his club in a wide arc aimed at Coal's head. A die rolled, but I didn’t have time to see the result as a blast of noxious energy from Gurgle streaked toward me. My feet felt rooted to the ground. I saw the die land on a 3 just as the blast slammed into my chest, an explosion of pain spreading through my body.
+
+[You have taken 5 damage.]
+
+Reeling from the miasmic blast, I watched as Nobble directed a stream of putrid sewage at Pearl. She dodged effortlessly, her movements fluid and precise, but Squawk’s Electric Bolt went wide. Drip teleported behind Squawk, daggers gleaming as he slashed at the parrot's wings. SQUAWK! The parrot screeched, feathers scattering as it plummeted to the ground.
+
+[TURN 2. 30… 29… 28… 27…]
+
+I shook my head, trying to clear the toxic fog clouding my vision. Gritting my teeth, I wielded my staff again. The power surged through me, wild and unsteady like a bucking horse. I managed to control the torrent of sewage, sending it crashing into Nobble. He was bowled over by the onslaught, unable to retaliate since his turn hadn’t come up yet.
+
+My turn ended, and I shifted my focus to my pets, who moved with a will of their own. Coal lunged forward, claws glinting, and slashed at Slikk as three dice rolled overhead.
+
+[Critical hit! Weakness: Fire. 16 damage.]
+
+Squawk, recovering from his earlier attack, dove at the sewage-coated Nobble. His Electric Bolt struck true, the conductivity amplifying the effect. Nobble began to smoke from the damage, barely holding on.
+
+[Critical hit! Weakness: Lightning. 33 damage.]
+
+Pearl, nimble as ever, darted forward with her aquamarine claws gleaming. She aimed for Drip’s eyes, but without magical enhancement, her slashes were less effective.
+
+[4 damage – Drip.]
+
+And that’s when things started to unravel.
+
+Nobble manipulated the sewage with practiced ease, conjuring tornadoes that whirled through the room. He directed them at me, but I leaped aside just as a die rolled and time unfroze. Before I could retaliate, time froze again.
+
+Coal, within range of Slikk, took a solid hit from the goblin’s club. The club seemed to pass through Coal’s fiery head, diminishing his flames but not his resolve.
+
+Drip, with a swift flick, hurled a poisoned dagger at Squawk. It nicked the bird, and my heart sank.
+
+[Drip threw a poison dagger at Squawk. 3 damage. Squawk is poisoned.]
+
+Squawk plummeted to the ground, triggering flashbacks to my painful demise on the previous floor. I shuddered, dread creeping in.
+
+Just like before, sewage began to flood the room, rising steadily toward the ceiling.
+
+[Turn 3 start.]
+
+Immediately, I cast noxious Bolt, aiming for Drip. I couldn’t risk leaving the poisonous assassin alive. The bolt shot through the air, trailing sickly green and black light before striking Drip.
+
+[You deal 4 damage!]
+
+Despite his poisoned state, Squawk swooped down, his beak crackling with electric energy. He targeted Drip's eyes with precision.
+
+[Critical hit! Weakness: Lightning. You dealt 27 damage.]
+
+Sensing danger, Coal retreated to our defensive line and cast Firebolt at Slikk.
+
+[Critical hit! Weakness: Fire. 16 damage.]
+
+Still, under the illusion spell, Pearl showed no fear. She rushed into the fray, focusing on the bleeding Drip. The assassin, barely standing, was a mess of wounds. Pearl seized the moment, her claws charged with water elemental magic. With a powerful slash, she aimed for his eyes, determined to bring him down.
+
+[Critical hit! Weakness: Fire. You attacked a weak point! Natural crit! You dealt 48 damage. You obliterated Drip.]
+
+[Turn End. Enemy turn starts.]
+
+As I froze again, uncertainty gnawed at me. The Paradigm system’s timing mechanic made me feel rushed and insecure, and being a sitting duck during enemy turns was frustrating.
+
+“Crystal, what's the point of this again? So far, it feels like I’m a sitting duck," I complained, irritation bubbling up.
+
+Time unfroze for me, and I dodged out of the way of Slikk's club. I tried to ready my staff for a counterattack, but my complaints to Crystal had distracted me. The sight was almost comical—Slikk frozen mid-swing, his club pointed downwards, while my noxious staff hovered inches from his face, ready to cast.
+
+Pearl faced Gurgle, but the bolt of noxious energy passed harmlessly through her intangible form. The cat lazily flicked her tail, appearing almost bored.
+
+Nobble sent a deluge of sewage at Squawk. The poor bird fell to the ground again. For some reason, Squawk seemed weaker than my other pets. Just as I thought that the electrified bird vanished in a burst of electricity at my feet. A die rolled, and the burst struck both me and Slikk.
+
+[Your pet, Squawk, has perished. Squawk used Explode. Explode hits at close range. Explode deals 18 damage to you. Critical hit, Explode deals 27 damage to Slikk. Slikk has perished.]

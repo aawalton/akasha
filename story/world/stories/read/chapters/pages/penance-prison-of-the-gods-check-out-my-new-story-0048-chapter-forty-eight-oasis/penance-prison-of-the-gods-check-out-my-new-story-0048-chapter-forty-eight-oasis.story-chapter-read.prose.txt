@@ -1,0 +1,163 @@
+Chapter Forty-Eight: Oasis
+
+~Run 5, Opulent Oasis, Floor 2, The Fallen Merchant City of Aerlyn~
+
+I entered the room and was immediately caught off guard as I lost my balance and fell onto the ground my starting spot started shaking, the corners of it collapsing and fading away. I scrambled quickly to my feet and backed away. The floor continued to collapse, so I yelled at Thomas. "Look out, the floor's collapsing." But I was too slow, or he didn't hear me because the man stumbled over the same spot I did but fell backward into the abyss. “Thomas! No!” The man screamed as he fell, and my pulse started thundering in my chest. “Oh no, oh no.”
+
+On the other hand, my goblin must have gained intelligence when I resummoned him because he jumped across the gap and immediately ran up to me and clung to my back in fear.
+
+The floor collapsed under me, so I scrambled to my feet and ran. I had yet to look at my surroundings and wasn't given much time as my feet pounded underneath me. Even with the lack of time, I tried to spy an exit from the room. Thankfully, the floor seemed stable until I walked upon it, so I could change directions as soon as I hit my first wall. I turned right around and ran much the same space I did before.
+
+As I was making my back towards the entrance, everything went from bad to worse. A dice rolled, and time slowed as I slid across the stone floor, avoiding the dagger thrown above my head.
+
+I finally took a risk and glanced around at my surroundings—something I should've done much earlier. The room was large, much larger than the previous hallway, but still more akin to the treasure room than the entrance. A vast open expanse of the same crumbling tile made a crisscross pattern across the room. In the center of the room, shining like a beacon, was an Oasis, a shining tree covered in gems and jewels on a tiny desert island surrounded by water. Between the island and me, a goblin threw daggers at me and 50 soon-to-crumble platforms.
+
+I continued running in the same direction I had been and grabbed my bow from my back. I looked left again and cast scan at the new goblin. Its ears were a blackish red, and its body stood too tall in the room, casting an ominous shadow.
+
+Enemy Entry 0010: Goblin Trickster: Level 2 (The Third Tribe)
+
+The Goblin Trickster is a cunning and elusive adversary who specializes in illusion magic. Known for playing mind games with its enemies, the Trickster creates illusions to confuse and disorient, making it difficult to distinguish reality from deception.
+
+Weak point: The ears.
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+10/10
+
+Health is burned as fuel to keep you from dying.
+
+Mana
+
+0/0
+
+Mana is burned as fuel to make skills function
+
+Vitality
+
+1
+
+Adds 5 points of health per level.
+
+Arcanum
+
+10
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+40-77
+
+85%
+
+Throwing dagger
+
+5
+
+15%
+
+As soon as I hit the next wall, I had my bow ready. I turned around and immediately used aim, targeting the Goblin Trickster's ears. As soon as the arrow left my bow, I continued my run, not waiting to see if the arrow hit the goblin.
+
+I ran a few steps ahead of the collapsing floor but didn't risk changing my pace or path. For all I knew, doing something different would make even more tiles fall. When the next pair of dice rolled, I was prepared and used the time slow-down effect to fire off two more arrows at the goblin; this time, I knew for sure the arrows had connected properly because Crystal chimed in [Critical strike! You have dealt 18 damage. You have killed Goblin Trickster. You have received an overkill death boon..]
+
+"Crystal, a little help here. Do I just keep running? Do I head for the center? What do I do!" I screamed as I hit the wall again and turned. I was honestly afraid that If I let the floor collapse by the time I got to the oasis, the water would fall away, too.
+
+[Do I have to explain everything to you? Just jump. You know how to do that, right?]
+
+I felt a mighty need to facepalm, but I controlled my impulses. Instead, I took a running jump to test it out, and what do you know, it worked. There were 3 or 4 tiny tiles of space behind me held aloft as if by magic. I kept running and tried to judge the distance I could successfully jump.
+
+I did a few more test jumps to gauge if I was right before I turned toward the oasis. I gathered up as much space as I could and jumped and…
+
+Dived into the surprisingly cool oasis water. Thumbs shrieked and flailed as we landed in the water, and I had to grab the goblin to keep him from drowning. I hefted the lightweight goblin onto the island, water flying off him like a dog. He landed face-first in the sand and sputtered before lifting himself up. He then ran face-first into an Aerlyntium for what wouldn't be the last time.
+
+[Your minion, Thumbs Goblin Hoarder level 4, has been captured by an Aerlyntium. You must use the Aerlyntium to reclaim your minion.]
+
+This was a blessing in disguise as a dagger flew through the air where Thumbs' head had been half a second after he vanished. There were dozens of goblin Tricksters running towards me. I had no idea what to do with the most enemies I had ever seen at Once. I started blindly firing with aim, expending mana faster than I could recoup it. The enemies came forward as a horde, but the floor did not. I noticed that only the floor underneath one of the goblins was vanishing. What had the scan said? Illusions? I started using aim and ran out of mana, so I kept firing arrow after arrow at the goblin, but it was futile. As the arrow that killed the goblin landed, the final brick between the oasis and the nothingness below disappeared. The water rushed out of the vacuum quickly, flowing much faster than I had expected. Running out of time, I grabbed the Aerlyntium.
+
+The early orb worked up a frenzy greater than the previous one. It sucked up the water, the tiles, the tree, and even the sand I was standing upon until all that was left in the room was the somehow solid tile I was standing on the walls and the exits.
+
+Opulent Oasis Aerlynt 1 of 6
+
+Name
+
+Amount
+
+Effect
+
+Description
+
+Thomas
+
+1
+
+This is a guard.
+
+This is Thomas.
+
+Carl
+
+1
+
+He’s a merchant.
+
+He has a weird tatoo of a cat that he won't shut up about.
+
+Desert Island
+
+1
+
+It takes up about 30x30 Oasis Tile spaces. To make it an authentic oasis, you can place a water tile in the center.
+
+It’s an Island. Duh.
+
+Oasis Tiles
+
+250
+
+This will allow Thomas to stay alive next time y’all come through the room.
+
+It's a 1x1 foot square tile with a spiral pattern.
+
+Thumbs
+
+1
+
+It's a goblin!
+
+He’s your minion, remember?
+
+I immediately placed three tiles down so I had more space to stand. I was worried about losing my balance and falling into the abyss below.
+
+I tried placing the desert island, but Cyrstal said, [You have insufficient Oasis tile to place the island. Please place down more Oasis tiles in order to establish Oasis Island.]
+
+As tempted as I was, clearly I didn't have enough materials to place the island and escape, so I started placing down the Oasis tiles, two by two, until I reached the next door. I still had around 100 left, so I placed down a ten-by-ten grid. Then I glanced at the last two things on the Aerlyntium list, and I realized something amazing.
+
+I was so excited that I broke down everything and built a bridge back to the exit. I booked it back to the entrance and pounded heavily on Klerichos's door. He opened it rubbing his eyes as if he had been asleep.
+
+"Hey Klericho, awesome, awesome news. You won't believe it, but you gotta trust me, it's incredible. I've cleared the first four rooms you've gotta come with me.
+
+“Woah, slow down a little man. You want me to go where? I told you, I ain’t setting foot in there ever again.” He said/
+
+"What if I could promise you a way to get more runs? I promise I can help you. Please trust me, if it doesn't work, I'll give you 400 gold, I promise. Take the four hundred; we will leave it here in the house. That way, you know you can trust me."
+
+-
+
+Klericho followed me, cowering in fear the whole way. When we got back to the Oasis room, I stopped him. "Be extremely careful here; Thomas tripped and fell to his death here."
+
+His eyes got as wide as saucers, and he turned to flee.
+
+"Wait! Stop! This is what I meant. I can bring Thomas back. Wait!" Thankfully, my words didn't fall on deaf ears. The man slowed his run to a walk and slowly turned around. He stood in front of me.
+
+“Don’t lie to me. What did you say?”
+
+"I said, Rellum gave me the ability to bring people back. My companion, Thomas, fell to his death in the next room. But when I grabbed the Aerlyntium for the room, those things I told you about, one of the items I looted was Thomas. I'm sure of it. If you perish on this floor, I can bring you back."

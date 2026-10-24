@@ -1,0 +1,203 @@
+Chapter Thirty-Two: Whirling Vortex Of Sludge
+
+Time froze as a die rolled, and I dodged. Slikk rushed me, and I escaped again; using the momentum of the goblin against him, I stuck out my foot and tripped him. A dice rolled, but he took no damage.
+
+Using the situation to my advantage, I fired a point-blank arrow into his back, then turned and fled to the still-pulsating altar.
+
+[You deal 2 damage.]
+
+I had hoped using the staff would kill Gurgle, but at least he was essentially out of the fight. My stamina recovered at a measly 2 per minute, and I needed to run circles around these guys to recover stamina.
+
+[I never answered your question, but you discovered what I meant. Kiting is a means of running around, avoiding attacks, and waiting for skills to be available. I suggest you use your superior speed to your advantage]
+
+Slikk was once again barreling up to the platform like a rampaging bull, making it ridiculously easy to shove him down again and shoot another arrow into his back. I did no damage this time but was okay with a war of attrition. If I remember correctly, his armor only had ten durability, but I had quite a few arrows left to use.
+
+With nothing left to do but run, I devised and enacted a plan.
+
+Gurgle dug around in the sewage, looking for something, before jumping up with a triumphant goblin yell. He had found Drip's dagger. The vortex came for me again, but it seemed to have a low hit chance because I kept on receiving my dodge chance. As I dodged out of the way, I realized I had been extra lucky as the vortex swept its erstwhile ally back into the muck. Still wanting to save my stamina, but knowing I needed to change and do something instead of running blindly, I shot two arrows at Gurgle. Of course, they both missed, but he ran at me with the dagger, enraged.
+
+Gurgle was not built like Slikk. I took Aim with my bow, but this time, I waited as Gurgle charged up the ramp closer and closer. I loosed my arrow, and a dice rolled
+
+[You deal 3 damage.]
+
+I jumped off the platform, only to realize I could take another useless potshot at Slikk, and I took advantage of his broad back to make sure I hit him. I, of course, dealt no damage, but I thought I only needed 5 more hits to kill him. Gurgle jumped down to attack me with a leap attack, but I dodged at the last second, using the slow-down effect to climb back up to the altar. I had a dangerous idea this time to buy me some time.
+
+Slikk, behaving somewhat like a brain-damaged animal, came galloping up the grate a third time, still expecting a different outcome. I readied my bow as I would shoot and waited for Slikk to slam his weapon down. The die rolled. And time froze. And I realized just how broken my dodge skill was as I slammed an arrow through the goblin's frozen right foot.
+
+[You deal 1 damage.]
+
+His aim went wide as he tripped and flailed. His bleeding foot is now pinned to the grate. I took advantage of his prone state and stabbed him again, this time in the eye.
+
+[You deal 15 damage.]
+
+I realized it was a waste with how close this battle was now to keep saving stamina; I leaped back and cast Aim, still relatively close range.
+
+[You deal 12 damage. You have killed Slikk.]
+
+I literally whooped into the air, cheering that I was done, and that was when everything went wrong. Just as I regained my footing, a menacing cyclone of sewage swirled around me, its vortex drawing in debris and echoing with the hollow sound of impending doom. Gurgle's shadow loomed over me, dagger poised for a deadly strike. We lifted into the air on the whirling vortex of sludge. We grappled for the dagger, flying through the air in a sickly, sweet-smelling river of sewage. I gagged as some of it got in my mouth before completely throwing up in the face of my attacker. Somehow, that stunned him, and I wrestled the dagger free. I then proceeded to stab him in his remaining good eye, forcing the dagger into his brain with as much force as possible.
+
+[Devastating blow. Instant death.]
+
+The magic supporting the vortex immediately ceased, and I fell to the ground. I had never been so thankful to touch sewage, even as I attempted to wipe the sick from my mouth with a soaked sleeve.
+
+“I’m alright, thanks for asking, Crystal.” I was still annoyed by her antics. That was the most intense fight of my time here so far, and it was different from the first time. "Crystal, why was this time so different? The Goblins seemed a little smarter, and that mage had much more to his repertoire than his staff. And the necromancer—he had a skeleton with him this time. There wasn’t even one in the room last time."
+
+[Well, Rod, each time you clear a floor, it gets harder and harder. There are five levels of difficulty without using death boons. If you die, it goes down one level of difficulty until you can clear it again. On the bright side, there are benefits. You receive a bonus to all Death Boon rewards if you clear the floor, and loot tables favor higher rarity drops.]
+
+"Oh, that's a nice bonus." I climbed my way up to the altar and leaned against it. I'm sure I looked absolutely dreadful, but thankfully, I hadn't seen a mirror or reflective surface in the sewer.
+
+After resting, I proceeded to loot the three goblins. “Hey Crystal, before I loot them, can you tell me what the loot chances are?”
+
+Sure, here's the rest of their bestiary entry as well.
+
+Enemy Entry 0004: Slikk The Sludger (Level 3 Sewer Goblin)
+
+Slikk the Sludger is the bodyguard of Gurgle; his job is to keep Gurgle alive so he can summon their god. With high health and constitution, Slikk can endure prolonged battles, making him a tough opponent to take down.
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Goblin Ears
+
+1-2
+
+50%
+
+Gold
+
+10-100
+
+25%
+
+Chest Key
+
+1-2
+
+15%
+
+Dripp’s Dagger(s)
+
+1-2
+
+10%
+
+Enemy Entry 0005: Gurgle The Gusher (Level 3 Sewer Goblin)
+
+Gurgle the Gusher is the leader of the Sewer Goblins blessed by their god with magical abilities. Despite his low physical health and strength, Gurgle compensates with his defensive capabilities and magical prowess. Beware the Vortex!
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Goblin Ears
+
+1-2
+
+50%
+
+Gold
+
+10-100
+
+25%
+
+Chest Key
+
+1-2
+
+15%
+
+Slikk’s Club
+
+1
+
+10%
+
+Enemy Entry 0006: Drip The Drainer (Level 3 Sewer Goblin)
+
+Drip the Drainer is the personal court assassin of Gurgle; his job is to kill you. With a balance of decent health and high dexterity, Drip excels in dodging attacks and countering with precise strikes.
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Goblin Ears
+
+1-2
+
+50%
+
+Gold
+
+10-100
+
+25%
+
+Chest Key
+
+1-2
+
+15%
+
+Gurgle’s staff of Noxious Fumes
+
+1
+
+10%
+
+I received a rare chest key and four goblin ears. My luck was all over the place, but at least I got Gurgle's staff, which begged a question.
+
+"Hey Crystal, how come I was able to use the staff? I thought weapons were locked to classes like with the torch, or the barbarian not being able to use one-handed weapon?"
+
+[Certain classes have weapon penalties, including classless and the barbarian. The archer doesn't have any penalties.]
+
+"What, why not? I mean, not that I'm complaining."
+
+[I already told you, it's because of your alignment.]
+
+"Okay, and what is my alignment?"
+
+[I already told you I can't answer that, now, if you're done asking stupid questions, loot the chest with the key.]
+
+which was great because I needed it to unlock the rare chest I had left in the entrance room. Funny, last run, I was mad I got one.
+
+I returned to the entrance, unlocked and looted the chest.
+
+[You have looted 125 gold, 1 iron chest piece, 1 copper dagger.]
+
+I didn’t know what was up with my luck that day, but I knew it wouldn't last for the next floor. The lunar locket ended up being an insane boon. As long as I was under moonlight, I regenerated health. And I knew a room with a view of the moon. Happiness washed over me as I clasped the new necklace. After surviving countless life-threatening moments in these dark, twisting sewers, I finally had a way to guarantee I would win.
+
+I hadn't been a jewelry kind of guy before ending up here; I'm sure that I had mocked men with jewelry before, but I had a feeling I wouldn't take it off for the rest of the run.
+
+I collected all of my things and approached the 2nd floor—this time, with Crystal floating above my head.
+
+[Stop, don't go any further] Crystal said as I crossed the threshold of the first floor to the second. I stopped immediately, my foot floating in the air.
+
+[I really messed things up. And I'm sorry. This next floor is going to take a lot of work for you. You won't be able to access the vault because you've aggroed the starting guard, and he will immediately cleave you in two.]
+
+What? What does aggroed mean?”
+
+[I'm sorry, I keep forgetting we're from different worlds, and my terminology doesn't translate well into the common Parlance here.]
+
+"Wait, you're from a world different from the Equiem? How is that even possible?”
+
+[Yes, I come from a planet called Earth. I lived quite a happy life there; it was much safer than your world, but I was pulled here by…]
+
+My balance wavered for a second, but I managed to purposefully fall backward so that I didn't trigger the grate and my death. I took some fall damage, but a quick trek back to the moon room would fix that.
+
+“You were opening up and explaining how you got here.”
+
+[That's not important right now. What is important is planning a way to beat a boss that is equivalent to a floor 7 monster on floor 2. We need to talk this through and come up with a strategy. You can access the vault at the entrance, but there's no way you can loot your previous corpse right by the guard… your arrows wouldn't do much, but maybe they could hit a weak spot. We need to scan the guard and figure out what he's vulnerable to…]
+
+Crystal started talking really fast and trailed off as she realized something.
+
+[The sewage here is highly toxic to humans. I have a plan]
+
+End of Part 1
