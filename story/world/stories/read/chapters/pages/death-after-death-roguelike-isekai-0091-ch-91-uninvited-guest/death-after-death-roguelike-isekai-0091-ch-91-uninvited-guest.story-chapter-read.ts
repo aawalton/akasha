@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const deathAfterDeathRoguelikeIsekai0091Ch91UninvitedGuest = {
+  id: "01a16c3f-e191-79be-b4bc-193e0218684e",
+  type: "page-type/story-chapter-read",
+  slug: "death-after-death-roguelike-isekai-0091-ch-91-uninvited-guest",
+  position: 91,
+  publishedAt: "2024-03-30",
+  unit: "unit/words",
+  title: "Ch. 91 - Uninvited Guest",
+  story: "story-read/death-after-death-roguelike-isekai",
+  ownLength: 2489,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1573830",
+      externalLink:
+        "https://www.royalroad.com/fiction/58180/death-after-death-roguelike-isekai/chapter/1573830/ch-91-uninvited-guest",
+    },
+  ],
+  createdAt: "2026-10-24T04:51:28.271Z",
+  updatedAt: "2026-10-24T04:51:28.271Z",
+} as const satisfies StoryChapterRead
