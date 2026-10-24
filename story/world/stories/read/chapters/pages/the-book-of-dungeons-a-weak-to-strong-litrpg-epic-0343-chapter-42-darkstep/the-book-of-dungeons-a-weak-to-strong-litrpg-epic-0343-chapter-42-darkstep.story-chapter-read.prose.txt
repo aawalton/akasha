@@ -1,0 +1,203 @@
+Darkstep raised a hand to stave off hostilities when I reached for Gladius Cognitus. He watched the otters through a pair of round, tinted welder’s goggles that Gnomes wore in Heaven’s Falls, giving him a steampunk appearance.
+
+The tinted lenses reminded me of sunglasses, giving off an aloof, touristy vibe that I never liked. And I didn’t like them in Hawkhurst any more than I did in Atlantic City, and they certainly made no sense in the dim pre-dawn light.
+
+The eyepieces weren’t the only part of Darkstep’s ensemble that bore no magical properties. None of his gear had stats, contrasting with every expectation. I expected him to wear at least Fabulosa’s Windshadow cloak.
+
+Was he about to surrender himself?
+
+Name
+
+Darkstep
+
+Level
+
+11
+
+Difficulty
+
+Trivial (grey)
+
+Health
+
+190/190
+
+Darkstep’s only magic item was a chest plate that gave him +5 stamina. Beneath it, he wore a fur parka that I’d seen in Malibar. It was a civilian wrap, comfortable and warm, suited for the chilly southern coast. Perhaps underneath it, he carried more magic items, but I saw nothing bulky.
+
+His gaunt skin stretched over the idealized skull of a human player, but his hunched posture suggested that of an older man. Unwashed black hair and pale complexion gave the impression he spent much of his time indoors. His pallor didn’t radiate health, but I didn’t expect better from someone waiting so long to finish the battle royale.
+
+“Let’s converse and give your cooldowns a chance to reset before we start poking each other, eh? Where would you be without Slipstream? Besides, it makes for a better story, my story, in which you’ve played a significant role.”
+
+His suggestion resonated with my tactical brain. Besides getting intel, talking improved my situation. I had only four minutes before resetting Slipstream, but if we talked for ten minutes, I could drink potions.
+
+But what could he be stalling for? If an unarmed level 11 thought he stood a chance against me, then he obviously knew something I didn’t. Like the contest’s chat channel, if my opponents wanted to spill their plans, then I’d happily accommodate them.
+
+Darkstep waved me toward a park bench. “You want answers.” He moved toward it, presenting his back to me without a care in the world. I didn’t move to attack as he sat down. Duchess’s words about Darkstep predicting the future put me on guard to making hasty decisions.
+
+He was correct in guessing that I wanted answers. Why had he chosen me to fight Toadkiller if he was so all-powerful? I didn’t voice the question because asking only rushed things along. The longer we spoke, the more cooldowns I’d have for fighting.
+
+“The first thing you’ll want to know is why I needed you to kill Toadkiller.” Darkstep withdrew a stack of dogeared parchments from his inventory.
+
+My suspicions flared. Detect Magic’s short cooldown made it one of the few spells available in my repertoire, and I cast it. The documents weren’t magic, nor did I see runes nearby. Gladius Cognitus rested across my lap in case he pulled a fast one or something else that tipped conditions in his favor. Oddly enough, Darkstep’s relaxed pose gave me the gut instinct that he wasn’t about to ambush me with tricks.
+
+Unfolding it, he read to himself through his darkened spectacles.
+
+He brightened after skimming his notes. “I forgot his deity’s name. Sometimes, I must rely on my notes. Toadkiller controlled a deity named Morphren—a remarkable accomplishment, and Banishment was something I couldn’t overcome.”
+
+I grunted. I’d guessed that much. My high skills made me uniquely capable of defeating a deity with a home-field advantage. Curiosity got the better of me, and I broke my silence. “How do you know how Banishing works?”
+
+Darkstep searched through the parchments as he replied. “Banished players can communicate via the contest chat interface. I forgot which player told me, but it’s not important.”
+
+“I don’t remember reading that.”
+
+“Quite so. In this timeline, those conversations never happened.”
+
+“This timeline?”
+
+Darkstep withdrew a second object from his inventory. A watch materialized in his palm.
+
+Item
+
+Rewinding Watch
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 20 charm slot item+5 agilityThe White Rabbit thanks you for your service.Item use—Once per week, owner may reset game state to previous hour while retaining their memory.
+
+Darkstep pointed to his notes and read out loud. “The Rewinding Watch was our reward for helping an NPC through a Wonderland-themed rabbit hole. It wasn’t a very good dungeon, but it yielded quite the game changer.” He read silently something else and mumbled to himself. “Oh, that’s right.” He affixed the watch beneath his parka as if following instructions in his notes. Slotting the watch gave him the power to use it whenever he wanted.
+
+“That explains nothing.”
+
+Instead of responding, he referred to his notes, searched for something, and then read his response. “The literary references were dead giveaways of a developer-created dungeon. A dev planted this device to show off Crimson Software’s time dilation.”
+
+“So?”
+
+He continued reading. “They never tested it, or if they did, they didn’t notice that it elevated players to godhood. Apotheosis is a word so rarely used in conversation.” Darkstep’s upraised hand cut short my next question. “The testers missed something. Rewinding it resets everything in Miros—including the watch.”
+
+He continued reading his notes silently as realization dawned on me. If the Rewinding Watch reset itself, Darkstep could use it multiple times—an infinite number of times, to the point in the game when he first acquired the item. And he could do this as many times as he wanted.
+
+Darkstep called my attention back to another passage, pointing to the parchments. “This part is important. Whoever made the watch never realized its implications. Activating it resets the item, allowing me to rewind another hour. I’ve relived countless days, resetting hours, years, and lifetimes. I’m older than you could fathom, and I’ve explored every inch of Miros and its surrounding continents. Yet, with such a resourceful gizmo, it wouldn’t work under Banishment. Your high combat skills and blessing, Holy Smoke, proved the safest way to defeat Toadkiller.”
+
+“Why are you reading from notes? Did you write them?”
+
+“I’ve written this many times, but still keeping it all sorted out takes organization.”
+
+“So I was just a pawn?”
+
+Darkstep waved his notes. “At this point, we both are. Let’s say you were a silent partner.” He flipped the pages and read another passage. “I couldn’t risk fighting Toadkiller without first convincing you to give me Holy Smoke and let me train in the battle college.” He pointed an index finger at me as if queuing my next question.
+
+“Wait. We knew each other?”
+
+Darkstep nodded, turned to his notes, and read. “In other lifetimes, you and I have fought side by side—though you never fully trusted me. I’ve erased these timelines, of course. None of the branches led to anyone in Hawkhurst trusting me before Toadkiller found us. Your obstinance has been a source of great frustration.”
+
+While Darkstep read from his pages, I noticed that my healing spells, Restore and Rejuvenate, became available. The more he explained himself, the more spells I could cast.
+
+He scowled at the parchments as he read. “When Fab realized you protected this place because of your girlfriend, I gave up trying to win your confidence. It seems I’m not a trustworthy person.”
+
+I snorted at the notion of Darkstep and Fabulosa knowing one another. “And it doesn’t bother you that people don’t trust you?”
+
+At last, my strange companion relinquished his attention from his script. “Its inconvenience bothers me. But do I take it personally? No. Self-delusions do not become gentlemen of our vintage. Besides, I wear ruthlessness as a badge of honor. It shows what I’m willing to do to win. That’s something you never had. You never learned that the things we do in The Book of Dungeons don’t matter.”
+
+“I learned early in life that our actions are who we are.”
+
+Darkstep pointed at me. “And there it is—the difference between us. You keep this place as a shrine to her legacy, a monument to memory. To me, this world is just a silly, empty, lonely computer game. I never could maintain the pretense that I cared about your precious NPCs. I could convince no one to stick their hand in the cage, so I waited for those who knew you to die off—and dwarves live a long time.
+
+“And Toadkiller always found me before we could battle out the final two. I could never wait long enough to get Forren’s blessings, so I sent you after Toad instead. Ironically, waiting for you to return from Banishment gave me enough time to acquire the blessings, but they’re irrelevant at this point.”
+
+Something in my gut told me we were never friends. If he’d fought for Hawkhurst, it was to gain advantages. I didn’t hold it against opponents for trying to get an edge in the game, but his attitude toward Iris, Yula, Greenie, and the dwarves wasn’t earning him points in my book.
+
+Darkstep’s attention returned to his parchment, and he snorted as he read something. “You don’t like me—and perhaps you never did. We’ve had this very conversation many times before. You and Toadkiller were always my best enemies. And killing you turned the NPCs against me. They always seemed to know I had something to do with your demise.”
+
+His assertion that he’d killed me raised my alarm, and I took a step away from him before realizing it.
+
+“Oh, don’t make a face. We’ve had a rich and complicated past. I’ve burned down your library, trying to sway you with the cliché that it was always easier to destroy than to build—or some such melodrama. I was angry then, and I’ve done terrible things—things your young brain couldn’t possibly wrap itself around.”
+
+When Slipstream became available, I tightened my grip on my sword. It was hard to know where Darkstep wanted this confessional to go. He was still a level 11. A critical hit wouldn’t kill him, but if I followed up with Moonburn, the Stun would allow me to finish him. But Moonburn’s ten-minute cooldown meant I needed to draw this out.
+
+I asked him an open-ended question, one which might extend our conversation. “You sound like you don’t want to win anymore.”
+
+The question didn’t surprise him—and why would it? If his claim to being a looper were true, we’ve had this discussion before.
+
+Darkstep shook his head. “I’m still going to win. I’ve suffered and have caused more suffering than anyone knows. The only reason I made these notes is to explain my actions to the audience. I want others to know the effort I’ve invested in winning. When this is over, I’ll be a boy again, and if Crimson’s reality show becomes popular, it would make that boy’s life easier if I explained my actions. I’ve done such terrible things in this game.”
+
+“Does winning justify doing terrible things?”
+
+Darkstep read through his notes before responding. At last, he pointed to something and read out loud. “That’s a broader question than you know. On a long enough timeline, anything is justified. A person who has done everything has nothing holding them back—and nothing to look forward to except an end. Ah! And that’s what I’m doing here.”
+
+I shook my head. “Life is a curse, huh? You and Sune Njal would get along—but, of course, you know that, right? Because you know and see everything.”
+
+Darkstep nodded.
+
+“You say you know me, right?”
+
+“I know you more than you know yourself, boy.”
+
+“Then you know how I felt about losing Charitybelle. Is all this about the player you mentioned in your letter—your lost love?”
+
+Darkstep flipped to another sheet of parchment. “And we’re back to the Charitybelle conversation.” He skimmed down the page as he continued. “She called herself QueenB. We lived many lifetimes.”
+
+His reply provoked me. I tried and failed to keep emotion out of my voice. “What’s the problem, then? Eternal bliss wasn’t enough? I’d give up my right arm to have Charitybelle back.”
+
+My opponent read from a passage he’d been searching for. “My difficulty wasn’t getting over my love for her—but the opposite. Every experience and conversation was new to her, and I grew to resent the pleasure she took from things. Familiarity drove a wedge between us. Nature didn’t design our brains to live hundreds of years. Food loses taste. Music loses its allure. Love fades. Humans are finite creatures.”
+
+“You sound like a bumper sticker. Tell me the truth—did you kill her? Was QueenB your knockout?”
+
+Darkstep held up a finger and read before answering. “In this lifetime. In others, I’ve killed you, Fab, and everyone but Toad.”
+
+The analytical gamer in me unraveled his words. “Wait—how would that work? Wouldn’t knocking players out disconnect them from the game and gum up your timeline?”
+
+Darkstep flipped to another page, pointing to the text as he read out loud. “I’ve pondered the issue myself. I believe the game engine caches us in a purgatory or limbo that recalls us if someone resets events. The game engine would need this functionality to maintain continuity for clients using time-stop features. There’s a 2-year hard limit to rewinding past dead players. That must be how long it takes to wake knocked-out players.”
+
+“So your watch has limits.”
+
+“As far as knocked-out opponents, yes. But limits won’t tilt things in your favor—in case you’re looking for loopholes. With Toad gone, I was always going to defeat you. I’ve killed you many times already, but this is the first time we’ve faced one another as the final two contestants.”
+
+It irritated me that his notes commanded more attention than my questions. “And boredom justifies being evil?”
+
+“As I’ve said, on a long enough timeline, there is no morality. Nothing keeps value. Everything is a statistic, soon to be forgotten.”
+
+“So, you’re crazy. That’s why you burned my library?”
+
+“In my attempts to force you to give me Holy Smoke, I killed everyone in Hawkhurst—but you resisted every threat. Philosophers may debate which of us showed fewer scruples.”
+
+Images of him killing NPCs to sway me left a foul taste in my mouth. “There won’t be as much debate as you think.”
+
+Darkstep shook his notes at me. “What does it matter? I’ve left so many blood trails I’ve forgotten to which lifetime they belonged. But one thing about me hasn’t changed. After all my travels, I never hesitated to do monstrous things in order to win. This was an instinct you never possessed.”
+
+“It surprises me you never took a relic.”
+
+Darkstep flapped his hand. “Bah. They were only poison power-ups. Relics couldn’t prevent being Banished by Toadkiller.”
+
+Everything he said made sense. His Rewinding Watch made him all-powerful in Miros, but Banishment disabled the device.
+
+Darkstep’s ten minutes were almost over. When Moonburn became active, I could put an end to this nonsense.
+
+My opponent pulled out a dagger that gave him +10 strength and +3 stamina. As far as big reveals, it underwhelmed me. Surprisingly, he buffed with Heavenly Favor, raising his health pool to 310.
+
+When he cast Heavenly Favor, his health and mana didn’t jump to ridiculous numbers, so I assumed his skill ranks weren’t anything special to worry about. My high willpower ought to shrug off any dark magic surprises he had in store.
+
+“You use light spells.”
+
+My opponent shrugged. “Some. I’m a swirled ice cream cone of light and dark magic—nothing exotic, but what can you expect from someone with so few power points?”
+
+“Why didn’t you level up while I was Banished?”
+
+Darkstep shook his notes and patted his pocket watch. “I have everything I need. Waiting 122 years for you to return has been the cherry on top of this awful game. And it is time to put old stories away.”
+
+When his notes disappeared into his inventory, I knew the time for talking was over.
+
+Darkstep tapped his finger to his head. “Don’t worry, Patch. I have the next part memorized.”
+
+As seagulls called in the distance, Moonburn’s cooldown reset in my interface. Darkstep stood from the park bench and brandished a dagger as if he’d also counted off the ten minutes since I’d invoked Holy Smoke.
+
+I backed away and readied myself, downing stat potions for agility, intelligence, stamina, strength, and willpower. I cast Heavenly Favor and Presence for good measure.
+
+Detect Stealth and the settlement’s radar showed no clandestine operatives lurking about, ready to intercede on Darkstep’s behalf. He wouldn’t sully our showdown with lackeys—this would be a one-on-one affair.
+
+Darkstep’s goggles reflected the pink rays of daybreak. He nodded when I raised Gladius Cognitus.
+
+Neither of us ruined the moment with one-liners. Instead, we got down to resolving the winner of The Great RPG Contest.

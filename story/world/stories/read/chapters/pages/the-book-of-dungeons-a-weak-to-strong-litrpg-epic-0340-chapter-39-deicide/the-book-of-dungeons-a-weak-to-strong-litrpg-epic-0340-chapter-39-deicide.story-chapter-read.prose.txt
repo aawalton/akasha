@@ -1,0 +1,165 @@
+Eyes fixed on the polished obsidian ceiling, I battled the divine monk. The whistle of Morph’s staff readied me for incoming attacks. The sounds of scratching grit beneath his feet matched the reflection’s movements.
+
+Neither of us battled with passion. Morph fought under the weight of obedience, and I battled with a detached concentration.
+
+My interface flickered with tempting updates, but I ignored them. Watching the mirror, I filtered out sensations that did not belong to my feet and sword hand. Gladdy’s weight, momentum, and balance consumed my awareness. I felt the fine layer of grit along the pool’s bottom as I calculated regular withdrawing maneuvers. My robe didn’t itch. I felt no sweat chilling my skin. Armor didn’t shift or sway from sudden movements—I existed only in my weapon and boots.
+
+I took no chances, jabbing and lunging whenever Morph couldn’t block or parry. Unfettered by cooldowns, I applied Aim, Thrust, and Bleed as often as possible, never wavering my focus on my opponent’s posture. By the end of the fourth minute, Morph fell below half of his health pool.
+
+We circled the pool, with Morph constantly advancing and me continually withdrawing. It took over eight minutes of perfect execution to bring down my foe, but I lasted long enough to drop him.
+
+Morph’s body hit the ground only moments before my own. Like demons I’d fought before, his corpse faded into nothingness.
+
+I chased my victory with an immediate Rest and Mend. My health returned to full in an instant, and the cooldown instantly reset. Paying little heed to game updates, I watched the plinth in the mirror for respawning monks. Instead of a monk, an idol appeared in the reflection.
+
+It took a few moments to shake myself out of my meditative state. As my heart slowed, I watched the ceiling, leaned on my elbows, and read my combat log. Aside from my attacks, crits, and Bleeds, nothing transpired. Morph had missed me over 200 times.
+
+I studied the end of the battle.
+
+/Morph misses you./Morph takes 6 Bleed damage./You hit Morph for 74 damage (8 resisted)./Morph misses you./Morph takes 6 Bleed damage./You critically hit Morph for 160 damage (0 resisted)./Morph misses you./Morph takes 6 Bleed damage./You critically hit Morph for 156 damage (0 resisted)./Morph dies.
+
+It delighted me to see combat end on a double crit, a token justification for spending a power point on Aim. I watched the reflection, but nothing respawned.
+
+Then I spotted the idol’s other half in the reflection at the edge of the basin where I’d left it. After getting up, I walked to the side and reached for it. Though I felt cold stone, I saw nothing but empty air. I reached my hand out and tilted it toward me, prepared to catch the invisible burden.
+
+I cradled it in my arms and carried it across the basin to the pool’s central island. After lifting it to the plinth, I shifted it into the correct position.
+
+The idol’s reflection disappeared, yet no magic phased me back to Miros.
+
+I grunted and crossed my arms, wondering how long it would take for Toadkiller to get his comeuppance. I grinned at the irony of him telling Duchess that waiting was the hardest part.
+
+My wait wasn’t long. My interface pinged with a contest alert.
+
+Congratulations!2 Players Remaining
+
+You have reached a milestone in The Great RPG Contest!
+
+Contestants participating in Crimson Software’s The Book of Dungeons Closed Beta 0.71b will no longer be able to communicate using the Great RPG Contest Chat Channel.
+
+Good luck!
+
+And I thought I’d figured out this screwy situation. As far as I knew, none of the players were close together—how had two people gotten knocked out?
+
+Had Duchess or Darkstep somehow incurred the Morphren’s wrath?
+
+The contest’s chat window showed communications before I slew Morph.
+
+I read what I’d missed during the melee.
+
+Duchess If you’ve sent me any mail since my last letter, I haven’t gotten it. There’s no post out here. I know I said I was going quiet, but this is taking a lot longer than I thought. Is there anything wrong?Toadkiller There must be, but we have to wait it out. Duchess Okay. I’m going quiet again.Toadkiller I honestly don’t know what’s happening. It’s up to you if you want to move forward.Duchess Dark’s in Susa.Toadkiller Be careful what you say. This a group chat. Don’t give away your position.Duchess That’s just it—he’s seen me already and doesn’t care. And I’ve been watching him for a while, too. This is taking too long. I’m going in—wish me luck.Toadkiller Popcorn ready. Go get ‘em, girl!Duchess Seriously, Dark, how are you doing this?Toadkiller What’s going on? Duchess I don’t know. He’s gotta have a speed hack.Toadkiller Check for buffs. What spells is he using? Duchess That’s just it. It’s not spells or blessings or powers. He’s not even using an item as far as I can tell. He’s dodges as I attack, and I can’t hit him. I took off, but I don’t know if he’s chasing me. Toadkiller Hang tight, girl. I’m coming down. Duchess It looks like he’s followed me. Toadkiller Are you still in Chapel Hill? Duchess leaves channel.Toadkiller I guess that means congratulations to us for making the final three. Where are you, Dark? Let’s do this. Apache, are you there? How have you survived? I don’t get this. Where did you guys go?Toadkiller leaves channel.
+
+The drawn-out conversation made me wonder if more time-dilation wackery was at play.
+
+It seemed as if Darkstep had killed them, but opening the contest’s leaderboard cast doubt on that conclusion. Instead, it raised more questions.
+
+Remaining Players
+
+Apache – level 32, 0 knockouts
+
+Darkstep – level 11, 2 knockouts
+
+The first detail that caught my attention was my level change—I was no longer level 31. I’d gained a level from defeating Morph. As much as that changed things, the information about Darkstep’s level surprised me even more.
+
+When Crimson introduced the leaderboard, I thought it was the contest's weakest interface feature. But now, it conveyed vital intel about my opponent.
+
+Darkstep gaining only one more knockout meant Morphren had quickly gotten his due against Toadkiller.
+
+Darkstep’s knockout came from Duchess, although it looked as if she’d not gone down quietly. She’d taken a bite out of him, costing seven levels. Darkstep had been level 18, but now he was level 11.
+
+What kind of item could take away seven levels? And if he’d killed her, it meant Darkstep now wielded it.
+
+But it seemed improbable that Darkstep and Duchess battled precisely at the same time I fought Morph.
+
+I expected things would simplify with fewer opponents, but events suggested otherwise.
+
+My remaining update echoed the pleasant news of a level gain.
+
+Congratulations!You are level 32
+
+You have gained a level. You have increased your agility by 1, intelligence by 1, and willpower by 1. You have received 1 power point. You have 8,029/8,450 experience points toward level 33.
+
+When I checked the combat log after killing Morph, it reported no experience gain, but I’d gotten plenty from killing Morph.
+
+My jaw dropped.
+
+/Morph dies./You gain 956 experience points.
+
+Killing a deity rewarded more experience than I’d received from the ward worm, yet at level 31, it amounted to only a single-level gain. Thoughts on how to spend my new power point raised the issue of magic—how could I un-Banish myself without magic?
+
+I tried casting Time Stop, since it was an ability, not a spell, but nothing happened. I didn’t even get the buff that normally appeared for 8 seconds. Instead, a debuff remained in my peripheral vision.
+
+Debuff
+
+Banished
+
+You are out of phase.
+
+Duration
+
+Until you rephase to Miros.
+
+Restoring Morphren to his old self had knocked Toadkiller out of the game, but it hadn’t removed this debuff. While reaching the final two in the contest, smiting deities, and gaining levels stroked my ego, none of it solved my dilemma of shaking this excommunication.
+
+Toadkiller, Phren, and Ostrabog disappeared when I got Banished. Being out of phase meant I’d not be able to interact with other players or NPCs. My inability to see other players presented another set of challenges.
+
+I checked my equipment again, but nothing showed magical properties.
+
+Toadkiller mentioned Dispel Magic, but that itself was a spell. Even with an infinite amount of time, Banishment prevented me from spamming spells to unlock new powers.
+
+Banishment worked both ways. Even if my opponent had collected a bunch of magic items, they couldn’t affect me because of my immunity to magic. Darkstep and I couldn’t see or harm one another. He could cast all the illusions and Fireballs he wanted—none of them could harm someone out of phase.
+
+Then I remembered what I’d been doing before Morph attacked me. I’d been checking my inventory for food. Without my Circle of Temperance working, I couldn’t just outwait my opponent.
+
+Without magic, time was no longer on my side. How would I eat if I couldn’t interact with NPCs? My original plan of out-waiting opponents in the contest had become Darkstep’s key to success. The permanence of Banished spelled out my doom, and I’d gained a new respect for Darkstep’s genius. In one stroke, he’d pitted me against Toadkiller, defeating us both.
+
+Without a body to loot, there seemed no reason to hang about. Maybe leaving Morphren’s Sanctuary would rid me of Banishment.
+
+A quick search of the pedestal revealed no idols or objects, invisible, immaterial, or otherwise.
+
+I reluctantly gathered the glow stones into their bag. “At least you guys are nonmagical.” Lighting conditions dimmed as I plopped them into the bag.
+
+As I collected the glow stones, I caught a glimmer of light off of Mendacium. The pearl pendant bore no description, rendering it even more useless. But the purple item had done its job. It tricked Toadkiller into Banishing me instead of letting his demon knock me out of the contest.
+
+Somehow, Darkstep knew I could defeat Morph without using magic. Mendacium and my melee skills had worked for my rival as much as they did for me. Toadkiller’s pet demon and deity no longer threatened either of us.
+
+I looked for Toadkiller’s gear but didn’t see it anywhere in the sanctuary. It seems he’d made some distance before the deity caught up with him.
+
+I sheathed my inactive sword in its scabbard and double-fisted glow stones. Retracing my steps, I used their soft, steady light to guide my way out of the cathedral and the dungeon’s lower levels. When I reached the burned-out dining hall in the chapter house, I looked upward at the open roof that had collapsed from arson so many years ago.
+
+The roof opened onto a bright blue stretch of nothingness. The sky held no clouds, moons, stars, or sun. Only then did I realize how remote I’d become. I detected no scent in the air. No odors of rot, mold, or burned architecture assailed my nostrils.
+
+The same emptiness yawned from every window. My first sight of the horizon showed no atmospheric perspective in the distance. Location names changed on my map interface as I left, going from Chapter House to Refectory to Calefactory to Narthex.
+
+Jiaolong didn’t meet me at the entrance. And at no point did my equipment return to normal as I left the sanctuary.
+
+Nearby bushes, trees, and grass blurred as if a great filter obscured the greenery—and yet the stone walls and fortifications remained in focus.
+
+Being out of phase with the world meant things were going to be strange until I figured out how to rid myself of this Banished condition.
+
+In terms of The Great RPG Contest, Darkstep shared the same debuff. If he and I couldn’t interact, neither of us could win the game. And if Duchess was right about him using a speed hack or cheat, I might have won this game by disqualification. I doubted her conclusion. In a game that played with time dilation, speed hacks were relative. Darkstep might have slowed her down with a debuff, and she might not have realized it.
+
+When I passed the destroyed gatehouse door and rounded the walls, I caught sight of the horizon.
+
+The aerocline had disappeared.
+
+Blyeheath’s rugged terrain stretched beneath the mesa. No fog blocked my view of buttes, pillars, mesas, and ravines—I could now see everything previously hidden by the thick atmosphere.
+
+The land looked like pictures of the South Dakota Badlands. As I studied the landscape, I realized how quiet it had become. At this elevation, the wind usually howled in my ears, but I heard nothing and felt no breeze on my face. More than anything, the alien silence overwhelmed me.
+
+What was going on? Was the aerocline still there and invisible, or had Miros changed?
+
+With only two players left, I felt prepared to fight one last battle, but Darkstep’s low level cast doubt on this possibility. If he could see into the future, maybe he didn’t feel the need to level up. Perhaps he knew that Banished was a one-way ticket. Maybe he’d already won. Without magic, what chance did I stand of returning myself to rephase with Miros? It might be a while before I could fight anyone.
+
+My immediate hurdle involved getting from this mesa up to Oxum’s level. The sheer face of a cliff leading up to a wooden platform loomed over me. Villagers had defaced the bluff, chiseling away its features to prevent quarantined inmates from escaping. The walls offered no accessible cracks or fissures to climb.
+
+As I retrieved a grappling hook from my inventory, a single active power called attention to itself. Hot Air wasn’t a spell, so it didn’t rely on magic. The blessing came from Forren, who hasn’t forsaken me despite my Banished state.
+
+If time had no definition, it made sense that Hot Air worked even though I’d used it this morning to avoid the zombie stampede. What were days without a sun in the sky? It also explained how Time Stop fizzled. I gazed again into the empty void of blue above me. Perhaps the lack of celestial bodies freed me from the daily cooldown limit. What if the Hot Air ignored cooldowns the same way Aim and Thrust had?
+
+I smiled as a new idea struck me. Cooldowns weren’t what concerned me. If I could cast Hot Air while Banished from Miros, then my other blessings worked.
+
+If respawning had freed Morphren from this ghostly state, then Holy Smoke could be my key back to Miros. Holy Smoke would let me reconstitute in Forren’s temple. To invoke the blessing, I needed to be within the boundaries of my old settlement.
+
+Standing alone at the bottom of a cliff wall, I laughed as I realized where to go.
+
+Hawkhurst hasn’t seen the last of its old governor.

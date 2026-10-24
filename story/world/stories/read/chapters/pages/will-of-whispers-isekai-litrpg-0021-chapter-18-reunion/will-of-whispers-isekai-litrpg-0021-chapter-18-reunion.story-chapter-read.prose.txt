@@ -1,0 +1,239 @@
+“Ah Temp, you’re back!” Cal halted his footsteps.
+
+“Yes Cal, thank you for what you did earlier. I don’t know where the future will take us, but I will stand by your side.”
+
+Cal put on a big smile, “aw Temp, is that your first contraction?”
+
+“I simply felt it was friendlier in the moment. I was mistaken – contractions are foul.”
+
+Cal chuckled. The forest was still very much so alive and watching, so Cal continued, “we can rest up and I can catch you up on what you missed. Let’s stop at an upcoming campground.”
+
+The fallen warrior had indicated this next site with a fire icon in the journal, so Cal decided it was a good spot to rest.
+
+“Ok, Cal. Have you been resting in the same place we were earlier?” Cal glanced over his shoulder at Temp.
+
+“Nasty business really. I ran into a dying deerman and was gifted a book with a solution to all our problems. But then he died.”
+
+“So, the book tells us how to get back to Anu’aris?”
+
+“No Temp, that it does not.” Cal sighed. “But it does tell us a good spot to sleep tonight, and I call that a win.”
+
+Cal rerouted towards his soon-to-be-camp and pulled out the book for Temp to see. “I’ll flip through the pages, so you can begin building a lexicon. I believe it is a journal of the deerman’s travels and his record of the beasts and treasures he had encountered.”
+
+Cal continued while dodging a gnarled root, “there should be sufficient information here to capture at least a partial dictionary for the deerman language, but there is another language towards the end that doesn’t show up anywhere else. You’ll have to try your best with that, I’m not sure we can understand it without any other references.”
+
+“Understood.” As Cal flipped through the pages, Temp was capturing all the information and indexing it for analysis.
+
+“Based on the map, I believe we are about a couple days travel from the entrance. Or at least the deerman’s entrance. If we take a more casual pace, we might make it there in a week.”
+
+After approximately 30 minutes of discussing the formation of a language model based on the journal, Cal finally reached the edge of the clearing where the campsite awaited.
+
+He was filled with confusion. Where he had expected to find a cozy, or at least isolated, campsite, there was only a desolate clearing - scarred and blackened by fire. The charred remnants of trees still smoldered, filling the air with a pungent aroma of burnt wood. He couldn't help but wonder what had caused this destruction in such a serene environment.
+
+Temp scanned the scorched campsite, “We know what the fire icon means now.”
+
+“In hindsight, I suppose this does make sense. Let’s take a look. At least with a camp here, we would be able to prepare for an ambush on one side.”
+
+Cal's sharp gaze caught sight of a nearby outcropping towards the edge of the clearing. The rugged rocks jutted upwards, their surfaces marked with deep crevices and weathered patterns.
+
+He made his way over with Temp, hopeful that there was a nice place to rest within.
+
+"Hey Temp, have you ever considered your chair form used as a blunt weapon?" Cal quipped, eyes twinkling with mischief.
+
+Temp's response came immediately. "And compromise my exquisite design? Perish the thought, Cal. I would rather be known for innovation than intimidation."
+
+"Ah," Cal chuckled, dodging ducking under a brank. "So you'll dazzle them with brilliance—or blind them with science?"
+
+"Exactly," Temp affirmed, its tone rich with the newly discovered nuances of sarcasm.
+
+Cal laughed inside, curious to know what Temp would think of his earlier antics. As he was thinking of a witty way to break the news of his partner's strong body, Cal saw an opening. Nestled within the rocks, like a hidden gem waiting to be discovered, was a natural alcove. Its walls were smoothed by time and erosion, creating a perfect shelter amidst the rising rocks. Cal couldn't help but feel surprised by their luck.
+
+“Perhaps, it... was... a campsite symbol…”
+
+Cal dropped his satchel, placed Temp next to him, and rested on the floor of the alcove, grateful for the temporary reprieve from their journey. He pulled out his canteen and drank heartily, feeling the cool water quenching his thirst.
+
+“Well, this is certainly a pleasant surprise,” Temp said.
+
+“I agree,” Cal replied. “I honestly thought we’d have to travel to the next waypoint.”
+
+Cal paused, taking an opportunity to remove his vambraces from his arms and the spear from his back. His tuxedo was a bloody mess, but he could just craft a new one tomorrow.
+
+“Temp, let’s begin with our statuses. Are there any significant changes?”
+
+“There are some updates, let me bring them up.”
+
+Cal looked at the interface a myriad of statistics and information unfurling before his eyes.
+
+Name
+
+Cal Run
+
+Class
+
+no information
+
+Bloodline
+
+no information
+
+STR
+
+VIT
+
+VIG
+
+DEX
+
+INT
+
+WIS
+
+LUK
+
+Base attributes
+
+89
+
+42
+
+39
+
+54
+
+15
+
+62
+
+-
+
+Total attributes
+
+104
+
+55
+
+51
+
+67
+
+26
+
+76
+
+-
+
+Name
+
+Temp
+
+Class
+
+Mortal chair (level 38 / 50)
+
+Bloodline
+
+Lineage of Leonidas
+
+STR
+
+VIT
+
+VIG
+
+DEX
+
+INT
+
+WIS
+
+LUK
+
+Base attributes
+
+38
+
+43
+
+38
+
+38
+
+38
+
+38
+
+38
+
+Total attributes
+
+50
+
+56
+
+50
+
+50
+
+50
+
+50
+
+50
+
+“Cal, the first thing of note is that you are not capped at 300 attributes. We can assume that you can at least go to 350.”
+
+"Your attributes have not changed much, but I sense with the spear and vambraces, you are far more deadly than before." Temp observed. "Not surprising. You have always been quite... nimble. The spear will be significantly more effective when hunting"
+
+"Good to know. It also seems like you have gotten much stronger. You... now have more vitality than me," Cal retorted dryly, as he sheepishly skipped over the huge gap in intelligence.
+
+“Indeed, my attributes are very balanced. Planning for the future, you should continue hunting strength / dexterity organs. I believe you cheated at least once while I was structuring my soul.”
+
+Cal simply grunted, then continued, “Yes, we have to find them first. I’ve had my eye out for them.”
+
+Temp brought up the next important piece of information.
+
+[Quest: Hunt! Survive the trial grounds on Hetar-172 and claim victory through slaughter (2482 pts / rank 93)]
+
+"Any thoughts on this ladder system?" Cal asked, shifting the conversation as he swiped away the status screen. "The trial eliminations first seemed arbitrary."
+
+Cal also noted that his recent hunts pulled his rank further than when he saw it last.
+
+"Ah, the ladder." Temp’s tone held a note of intrigue. "It seems to be a ranking mechanism, but also a brutal motivator. Survival of the fittest—or the most cunning. We must climb, or else we fall. Luckily, there has been no additional elimination threshold. It should be safe to assume we are safe above rank 100. We have significant leeway with the current threshold at 500. I also have more access to data from the ladder, but so far it's just names. Not of much use."
+
+"Interesting, any suggestions for our next move? I don’t think we need to pay this too much attention at least for now."
+
+"Agreed." Temp paused in contemplation. "The immediate goal is no longer to avoid elimination. To get stronger and coincidentally advance our ranking, we must further understand the rules and exploit them."
+
+"Understand and exploit," Cal repeated, nodding. "Classic. Let's start by mapping out objectives within reach."
+
+"Analyzing the book will be key," Temp added. "Its insights will prove invaluable."
+
+“That means we should stay within the regions that the fallen hunter had traversed for longer and delay our exit from this place.”
+
+"That is correct. We can leave towards the entrance of this cavern after you have maxed out in attributes."
+
+Cal stood, brushing dirt from his pants, a spark igniting in his piercing blue eyes. "We decode the book, we map out our path, and we have some dinner. Easy-peasy."
+
+"Sounds like fun," Temp affirmed.
+
+"Cal, one additional point. Understanding one's own arsenal is as vital as forging ahead," Temp interrupted gently. "I have yet to fully grasp my new power and bloodline ability. I feel the presence but have not been able to activate it. I believe it will come in useful."
+
+Cal exhaled. Seeing temp successfully connect with his bloodline left him conflicted. "I suppose recklessness serves no one. This will be a good time to teach you the basics."
+
+"Thank you, Cal."
+
+Cal surveyed the campsite, noting the eerie calm. He sat down, his body rigid with anticipation.
+
+"Oversoul—it's time you understood it."
+
+Cal placed a stone onto the chair.
+
+"An object first," Cal explained. "To understand control."
+
+Temp agreed. A wave of light enveloped the chair, but nothing happened.
+
+"Control the bloodline. Remember the feeling of connecting it to the Primal. This should be easier," Cal whispered, eyes locked on the chair.
+
+Temp focused, its essence extending beyond physical form. The stone sitting atop the seat cushion shook. The air crackled with energy, but then the stone disintegrated.
+
+"Well, we can work on it."

@@ -1,0 +1,233 @@
+Without my daily cooldowns, including Time Stop, I relied on my melee skills—as I had against Morph. Slipstream swept me across the park behind Darkstep’s position. I struck with my celestial blade, hitting nothing heavier than the moist morning air.
+
+Anticipate chimed and carried Darkstep beyond its glowing tip. Exhausting Anticipates were part of the PvP dance, and it emboldened me to know he’d already used his and couldn’t again—at least, not in this timeline.
+
+As Darkstep began casting a spell I didn’t recognize, I Counterspelled him. Taking away his go-to magic seemed like a logical strategy.
+
+But Darkstep Counterspelled Moonburn, foiling my plans for free critical hits. I activated Aim and Charged him.
+
+Darkstep avoided the attack by Slipstreaming across the park, landing himself on a stone path between two stretches of grass. He had judiciously avoided the dirt—otherwise, I’d upset his footing with Dig. He cast a spell called Mana Burn, giving him a buff I’d not seen before.
+
+Buff
+
+Mana Burn
+
+Your attacks reduce mana instead of health.
+
+Duration
+
+3 minutes, 39 seconds.
+
+I had to be careful. Even though Darkstep had fallen to level 11, he’d accumulated 20 power points and likely tailored his build toward killing me.
+
+My opponent had been so generous in explaining his plans I’d forgotten to ask how Duchess had taken away seven of his levels and if it neutralized power points.
+
+/You miss Darkstep. /Darkstep hits you with Whack for 36 damage (11 resisted)./You Bleed for 15 mana./You hit Darkstep with Thrust./Darkstep Bleeds for 9 damage./You Bleed for 15 mana. /Darkstep casts Choke./You Miss Darkstep.
+
+I froze the flow of time by examining my combat log. Math would decide the outcome of this battle. The first thing I noticed was Whack unlocked at rank 27 in slashing weapons. While Darkstep’s rank in light magic wasn’t high, having Whack made him a significant melee opponent.
+
+When Darkstep hit me, Whack applied a 15-mana Bleed. It was a modest amount. Still, my first four spells cost 100, and with a Bleed, I’d lose enough mana to bring me close to zero within 30 seconds. I needed to use my mana before losing it.
+
+I would have been able to drink a mana potion, but a new Choked debuff prevented it.
+
+Debuff
+
+Choked
+
+You cannot drink potions.
+
+Duration
+
+19 minutes, 57 seconds.
+
+Without Replenish Mana, I had to rely on my melee skills, but I wasn’t out of mana quite yet. Since Darkstep’s Bleed would deplete me, I saw no point in conserving resources. I unloaded on him with Shocking Reach and Scorch.
+
+He deflected the damage with a 90-point Mana Shield.
+
+While Whack ate away at my mana, Darkstep showed signs of breaking. My Thrust had already cost him 87 Bleed damage, reducing him to 224 health.
+
+We’d weakened each other, and both of us had vulnerabilities. I wouldn’t let my full health fool me because I couldn’t drink potions, and without mana, I wouldn’t be able to heal. What bothered me about combat was every one of my normal attacks missed. Darkstep’s footwork looked unremarkable, yet he predicted every move, sidestepping my trickiest maneuvers.
+
+Darkstep’s ability to dodge had to come from his magic watch, so it made sense that he had undeveloped defenses. He had memorized this battle, and his footwork betrayed foreknowledge of my attacks.
+
+Seeing him drink a 100-point health potion to stave off the Bleed from my second Thrust made me feel like I was doing something right.
+
+The only thing he couldn’t avoid was Thrust’s automatic hits and direct damage spells. I took my time, and he let me reset Thrust’s 30-second cooldown. Before landing my third Thrust, I emptied my mana reserves, walloping him with a Scorch and Shocking Reach. His next Mana Shield zeroed out his mana, his health dropped to 167, and with multiple Bleeds, I couldn’t see how he’d last long enough to eat through my health.
+
+Darkstep canceled his Mana Burn buff and switched to inflicting health damage. When he engaged, I tagged him with a fourth Thrust. Without healing, he’d Bleed out—the only option he had was to kill me before his health emptied.
+
+/You hit Darkstep with Thrust./Darkstep hits you for 35 damage (10 resisted)./Darkstep Bleeds for 27 damage./You miss Darkstep. /Darkstep hits you for 37 damage (9 resisted)./Darkstep Bleeds for 27 damage.
+
+His attacks never missed but only hit for 30-40 damage. Even so, I backed away, keeping beyond his reach. He pursued me out of the park and into the street.
+
+I hadn’t forgotten my unspent power point. If he changed things up, I’d invest it into one of my unspent powers.
+
+I took special care not to trip on the broad steps behind me leading to a cathedral.
+
+The fourth Thrust brought his total Bleed damage to 36 per second. With his health at 85, he didn’t have much longer to live.
+
+I had 244 health, outside the margin of killing me with critical hits.
+
+Seconds before his health bottomed out, I realized his plan. In the hundred years of my absence, he’s ingratiated himself with later generations of Hawkhurst’s NPCs enough to gain their trust with blessings. One of Slipstream’s prerequisites was Hot Air. Even with Whack, his mediocre footwork showed me that Dino had never trained him. But future generations of NPCs wouldn’t have known the settlement’s founders.
+
+If Darkstep had convinced the town’s elders to give him Hot Air, he’d convinced them to give him Holy Smoke.
+
+When Darkstep vanished, I knew it wasn’t a sign that I’d won the contest. No trumpets or confetti fell from the morning sky, celebrating my victory. My continued state of combat and event log confirmed my suspicions.
+
+/You miss Darkstep. /Darkstep invokes Holy Smoke.
+
+Holy Smoke would have triggered all his cooldowns, but he’d have full health and mana.
+
+I didn’t have the mana to summon Jasper and flee. Could I make it to the water in time to escape? Amphibious didn’t cost mana. But if Darkstep had convinced Hawkhurst’s officers to bless him with Holy Smoke, it meant he had citizenship, giving him Amphibious powers.
+
+My opponent emerged from the temple, fully rebuffed with Heavenly Favor, sporting 310 health and almost as much mana. He strode through the park and in front of the cathedral, taking his time. He called to me. “I’d hoped to surprise you. For someone with this watch, surprising others is one of life’s remaining pleasures. I’d forgotten that you’d pulled the same trick on Bircht. Perhaps it serves me right for being a copycat.” He stopped outside of spell range, and a blue bubble encompassed him. He Mana Shielded himself—though I didn’t know if it was for 1 point or all his reserves.
+
+The Choked debuff had over ten minutes left on its cooldown.
+
+“Don’t look so down, Patch. You can never defeat a looper.”
+
+I had one power point, but none of the unlocked abilities inflicted 320 damage or prevented him from rewinding events if things didn’t go his way. Even if I critically hit him with a supercharged melee attack, his Mana Shield would help him survive.
+
+I considered Darkstep’s words. Could I defeat a looper? My fate revolved around defeating someone with a Rewinding Watch. How could I do it?
+
+Nonfatal attacks allowed my opponent to rewind to a point where he could dodge them. Incremental progress meant nothing. This reminded me of fighting Rezan—unless I instantly killed him, he could survive any event without a scratch.
+
+But it also meant he was vulnerable to dying in a single attack.
+
+Darkstep was worse than a relic-bearer. Not even suffocation presented a danger. Somehow, I had to kill him in a single strike so he couldn’t activate his watch—and the attack would have to blindside him. Otherwise, he’d never let me land it.
+
+Without mana, spells offered no solution. Promotions and mandates didn’t apply, and blessings like Glowing Coals and Hot Air were still on their 24-hour cooldown.
+
+A glance at the cathedral triggered an old memory. I had three blessings—yet Forren offered four. Ashes-Ashes remained the one blessing I hadn’t attained—the one I’d promised Charitybelle I’d never use.
+
+Power (blessing)
+
+Ashes-Ashes (tier 4)
+
+Prerequisites
+
+Sanctuary, Recipient must be a blessed follower of Forren, 1,000 favor must be spent for every other blessed follower of Forren
+
+Cooldown
+
+Once
+
+Cast time
+
+10 minutes
+
+Description
+
+Blessed follower turns every item and creature within settlement boundaries into ash. Must be within settlement boundaries to invoke.
+
+Darkstep, watching me, smiled and clapped. “Well done, Apache. You get it now, don’t you? Mutually assured destruction. I knew you were clever enough to figure it out.”
+
+With 23,457 NPC citizens and two players, the settlement had enough favor for me to bless myself with this nuclear option. And as an elder of Forren, taking the blessing was my prerogative.
+
+Darkstep smirked at my discomfort. “Quite the predicament, eh? They’re only NPCs. Why not just end it all and split the prize money? Break your oath and wipe out her city! You’ll show everyone you’re still the vicious punk you were growing up. What’s a little infamy, eh?”
+
+Darkstep’s taunts made it difficult to think, and the more he spoke, the less distinguished he sounded. He reminded me of a bully.
+
+I tuned him out as I’d ignored anyone who teased me in school—it was an old but reliable talent.
+
+How could I burn Hawkhurst? After saving it—after posturing about cleaning up my mess and vowing to leave Miros in a better condition than I found it—after accepting my responsibility to be the best leader I could. Would I undo all of it and become the beta test’s biggest mass murderer? I couldn’t even imagine how Charitybelle would feel. Did I really want a shared victory with this psycho daring me to do it?
+
+Would it matter if we didn’t remember our experiences in The Book of Dungeons? I desperately wanted to do things the right way in this contest.
+
+Minutes passed while I cradled my head, trying to work out the decision.
+
+Darkstep continued to tease me. “You once asked me, ‘What does it profit a man to gain the world by losing his soul?’ I wish you remembered my answer—it was a good one. I said, ‘The answer is in the question—the profit, dear boy, is the world.’ Well, here it is, Apache. A shared victory—half of the prize money is enough to pay for tuition. Your ticket to college awaits.”
+
+“Oh, shut up, and let me think.”
+
+“I’ll kill you unless you burn it all down. You know you can’t hit me, and I can’t miss. You’re losing to someone a third of your level. Forget about building Hawkhurst—failure will be your legacy.”
+
+I shook my head. Hawkhurst had been the only home that’s ever welcomed me.
+
+Darkstep chuckled, shook his head, and brandished his blade. “You’re the same old Apache, after all these years—a guard dog to the bitter end. Let’s put you out of my misery.”
+
+My adversary Slipstreamed to me and delivered a Whack. My preoccupation with Ashes-Ashes bought him enough time to reset its 5-minute cooldown. Mine had also reset, but I didn’t have the mana to cast it. And all my stat potion effects expired, dropping my health by 100. Choked still had a few minutes left.
+
+The Bleed from Darkstep’s attack inflicted 15 points every second for the next half-minute, enough to kill me and then some. Having 244 health left me with 17 seconds of life.
+
+I pointed Gladdy. “Air-blast him!” My sword complied with a flourish of squiggled light, releasing the rune stored.
+
+But Darkstep moved before I targeted the location. The thunderclap and white puff knocked him sideways, but the vapor barely rustled his greasy black hair.
+
+My opponent backed off, dropped his blade, and crossed his arms—making it overtly clear he didn’t need to do anything more to win the battle royale.
+
+Aside from Thrusting a 10-second Bleed every half-minute, I couldn’t hit him with anything—despite my high melee skills—and one Thrust wasn’t enough to kill him. Without mana, none of my available powers made sense.
+
+I paused time with my interface to check out my abilities.
+
+Available Abilities
+
+Tier 1:
+
+Artful Dodger, Block, Disarm, Double Blades, Edge Strike, Knockback, Mounted Charge, Multi-shot, Shield Bash, Stunning Blow, Surprising Strike, Whack
+
+Tier 2:
+
+Divine Favor, Concussive Strike, Sealed Fate
+
+Tier 3:
+
+Enchant Object
+
+Power Points:
+
+1
+
+I still possessed an unspent power point for killing Morphren, but none of my abilities offered assured hits except Sealed Fate—but it only delivered poisons and magic effects, not damage. We always gave Yula our poisons, and I’d encountered nothing that inflicted enough damage to kill Darkstep before I fell to zero.
+
+I closed the interface.
+
+Was it possible to defeat a time looper? How do I kill someone who has prepared for everything? If he knew me as well as he claimed, he knew my powers, available powers, combat skills, and magic items. And he knew my actions, having already fought this battle.
+
+But Darkstep wasn’t all-powerful. The watch wouldn’t save him from instant one-shot attacks or anything that instantly knocked players out of the game.
+
+After giving up on my abilities, spells, promotions, mandates, and blessings, my only hope lay in my inventory. Row by row, I searched the void bag. Nothing in it looked promising. I combed the bottom rows, items I hadn’t looked at since we’d first founded Hawkhurst.
+
+I spotted an arrow Fabulosa had purchased during her first trip to Grayton.
+
+Item:
+
+Arrowhead of Withering
+
+Rarity:
+
+Masterwork (green)
+
+Description:
+
+Level 30 missileItem use—Turns living creature below level 15 into a ghoul of half its level.
+
+Duchess mentioned a player named HoppyLite getting instantly knocked out of the game from a specter’s attack. Aside from diseased zombie bites, players turning undead cracked their cores—which knocked them out of the game.
+
+While sheathing my blade, I spent my last power point on Sealed Fate, the ability that allowed me to hit targets without error. My health dropped to 214.
+
+I activated the ability, equipped a bow, and shot Darkstep. It was a close shot, and I certainly wouldn’t miss him with my new power.
+
+The missile whistled through the air and struck him right above his folded arms.
+
+My health dropped to 199.
+
+Darkstep staggered toward me. He raised his hands to the side of his head and pulled off his goggles. The red-rimmed eyes of a cadaver stared back at me.
+
+My health dropped to 139.
+
+“Please don’t begrudge the theatrics. Becoming a zombie was the best way of preserving my avatar for 120 years and protecting me from your arrow.”
+
+My opponent hadn’t dropped to level 11 from facing Duchess. He’d lost levels from becoming undead.
+
+Darkstep pulled the missile from his chest, lifted his arms, and looked at the sky. “A fitting swan song to the world from which I drank so deeply. The look on your face gives me one last gulp. Surprising an opponent is one of life’s few pleasures.”
+
+I dropped my bow while my health fell to 64.
+
+When I started this game, I was a bitter, immature kid. In Miros, I’d grown up, made friends, and learned how to trust. Forgetting who I’d become frightened me more than letting the prize money slip from my fingers. If losing the battle royale would be my fate, I wanted to leave with one memory intact. I resolved to find Charitybelle on the other side.
+
+I focused on her name as Whack’s Bleed dropped my health to 49.
+
+I watched my life ebb to zero while my opponent indulged in having the last word.
+
+Darkstep admired his pale hand. “I’ve done monstrous things in this game, even to myself. There is no such thing as civilized warfare. The difference between us remains, old friend. You never had the winning mindset.”

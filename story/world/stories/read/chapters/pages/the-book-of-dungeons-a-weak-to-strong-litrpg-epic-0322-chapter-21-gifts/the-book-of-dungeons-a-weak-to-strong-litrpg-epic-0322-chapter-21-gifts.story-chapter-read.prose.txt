@@ -1,0 +1,277 @@
+While we ate, Fabulosa told me about her end of the battle. “Hobbling the mech saved my bacon. I don’t know what you did, but the winds weren’t blowing hard, and I didn’t have many options. Those big fists would have delivered bludgeoning damage, which isn’t good for me.”
+
+I recapped my side of the combat. The fight with Flagboi tapped most of my daily cooldowns, and I brought it up before Fabulosa suggested something like waiting around for Toadkiller. “I need to rest before fighting again.”
+
+Fabulosa nodded. “Me too. One problem with my cape is that it’s a one-way ticket. I’m sorry I missed most of the battle. Did you get any loot?” She asked casually but watched me closely.
+
+I’d almost forgotten about the bounty of items. I retrieved Flagboi’s items from my inventory. The best items were the Soles of Darkness, the Crown of Night, and Deathday Suit. I also laid out Flagboi’s rings that gave +3 strength, +4 agility, and +5 stamina.
+
+“What are you taking?”
+
+The boots counted as the best item in the bunch. Controlling low-level undead and augmenting the dark magic wasn’t particularly game-changing. Plus, I’d already given Fabulosa a Necklace of Infravision, an item I sorely missed.
+
+“The boots will give me back my infravision. Do any of these strike your fancy?”
+
+Fabulosa reached for the Deathday Suit. “I could use the armor.”
+
+“Really?”
+
+Fabulosa shrugged. “The cloth armor from Bircht is fine for outdoors, but I could use this the next time I hit a dungeon. Believe me, I’ve opened enough crypts for one lifetime.”
+
+“I’ll take the stamina ring.”
+
+“I’ve got enough rings. I’ll take the crown, I guess. You can have the rest.”
+
+When she mentioned the rest of the haul, I remembered The Eye of the Palace. “Oh! Oliver got his eye back.”
+
+Fabulosa looked above my head. “Oh! Good for him. At least you got a lot of XP. Grats.”
+
+Her comment puzzled me until I realized she had read my nameplate. Thoughts of Flagboi and his flesh golems surviving the battle prompted me to scroll up the event log to verify that they’d died. I’d missed several messages.
+
+Congratulations!You are level 31
+
+You have gained a level. You have increased your agility by 1, stamina by 1, and strength by 1. You have received 1 power point. You have 7,073/7,575 experience points toward level 32.
+
+The first announced that I’d received 384 experience for the tower golem but nothing for Flagboi and his three flesh golems. It was a huge amount that put me beyond level 30.
+
+Having two unspent power points made me feel better about having to fight Flagboi alone. The battle topped off my rank in light magic to 25, unlocking a new spell.
+
+Power (spell)
+
+Sunburst (tier 2)
+
+Prerequisites
+
+Light magic rank 25, Presence
+
+Cost
+
+50 mana
+
+Cooldown
+
+10 minutes
+
+Cast time
+
+Instant
+
+Description
+
+Creatures within 5-foot radius of caster receive 10 points of healing for every rank in light magic. Creatures in caster’s line of sight suffer 2 seconds of blindness.
+
+The spell’s 10-minute cooldown made me question if it counted for what gamers called an ultimate ability. Still, instant heals like this had a way of making the short list of power point purchases.
+
+Sunburst wasn’t exotic, but its simple, powerful utility applied to nearly every combat situation. Like Rally, it affected friends and foes, making it especially useful against undead. But the undead were weak monsters at my level and already susceptible to healing spells.
+
+I wasn’t sure if the benefits of Sunburst justified optimizing my distance from enemies and allies. Besides, my melee skills were so high that I wasn’t worried about melee attackers, Fabulosa’s Phantom Blade notwithstanding.
+
+The Blinding condition intrigued me, but it also meant I had to remember to close my eyes before casting it.
+
+As I parsed the event log, I noticed the mention of something going into my inventory.
+
+Item
+
+Gift of Ratimir
+
+Rarity
+
+Epic (orange)
+
+Description
+
+Level 30 consumableItem use—Permanently increase your spell ranks of any school of magic by two.
+
+Consumables were nothing new in The Book of Dungeons and included things like food and potions. The item looked like a piece of candy from a fancy boutique, a small gelatinous orb with ornate swirls of icing accented with a filigree of chocolate patterns. It seemed a fitting gift from a creature that looked like a walking Fabergé Egg. While beautiful, its nutritional value captured my attention.
+
+Oliver had somehow exchanged the Eye of the Palace for something far more valuable—especially to someone whose magic ranks were above the norm. My upgrades in light and arcane magic were a long time coming.
+
+Judging by how fast the contest map changed everyone’s behavior, even with Applied Knowledge’s tripled rate of acquiring skills, I didn’t expect to attain higher ranks before the end of the game.
+
+My arcane and nature magic ranks stood at 28, while my primal and light magic ranks were 25. Which school did I want to supercharge? This wasn’t something I ought to conserve, and my ranks were already so high that I almost certainly led the pack in every school except dark magic. Nor did it make strategic sense to mention this to Fabulosa, so I held my tongue.
+
+My deliberation was only half-hearted—I had several reasons for choosing arcane magic. First, I’d just ranked up to 28. Second, my Pearl of Power increased the effectiveness of arcane spells by 10. It didn’t apply to most spells, but 10 ranks were a lot.
+
+Between the Pearl of Power and my arcane sword, there wasn’t a debate about which school of magic I’d increase. Arcane had to be my choice. But I wasn’t sure when to do it.
+
+This morsel presented me with a dilemma. Even with Applied Knowledge, it would take a lot of combat to increase my spell ranks to 30. Until that time, all my skills would gain at a rate triple the normal amount. But if I ate this now, it would end Applied Knowledge while simultaneously unlocking whatever spells awaited at rank 30.
+
+With only six players left, did I even have time to reach rank 30 naturally?
+
+Ultimately, the map feature broadcasting my position to opponents convinced me that the contest wouldn’t last very long. When I finished my meal, I gulped down the candy.
+
+Consuming the artisan zombie’s strange gift raised my arcane magic rank to 30, ending Applied Knowledge’s overpowered boon. The closure felt very much like an endgame event. I’d squeezed plenty out of Applied Knowledge and had cashed out on its dividends.
+
+Consuming Ratamir’s gift unlocked two powers. The first was a little esoteric, situational, but potentially game-changing.
+
+Power (spell)
+
+Burrow (tier 4)
+
+Prerequisites
+
+Arcane magic rank 30, Dig
+
+Cost
+
+50 mana
+
+Cooldown
+
+10 minutes
+
+Cast time
+
+Instant
+
+Description
+
+Caster may move at 1 yard per second through loose soil, small stones, and vegetable matter for 1 second per rank of arcane magic. Caster loses any body parts remaining in soil when the spell ends.
+
+At first, I thought the game made a mistake about which school of magic this should fall under. Moving through soil ought to be a nature spell, but Burrow didn’t affect the environment. It altered the caster, hence, the school of arcane magic.
+
+Careless casters could instantly kill themselves, but the inclusion of passing through vegetable matter meant roots wouldn’t be a problem. Another detraction was its limitation of soil, for this spell wouldn’t let me move through solid rock. Burrow wouldn’t work in buildings or masonry, ruling out dungeons. Despite its subterranean nature, it had more application on the surface. I could sink into the ground and surface behind a tree or bush 30 yards away.
+
+Fabulosa might breeze through the air, but moving underground offered more control of where I landed, plus it gave the potential for another surprise backstab.
+
+As amazing as Burrow seemed, the next spell seemed even more powerful. If my interface hadn’t frozen me in time, I’d have dropped my jaw in front of Fabulosa, tipping her off that I’d discovered something powerful.
+
+Power (ability)
+
+Time Stop (tier 4)
+
+Prerequisites
+
+Arcane magic rank 30, Transpose
+
+Cooldown
+
+Once a day
+
+Cast time
+
+Instant
+
+Description
+
+Caster pauses the world, gaining 1 second of actions for every 5 ranks in arcane magic. Buffs and debuffs have no effect on caster during this time.
+
+Abilities like this justified the hours I spent learning how to pen Mr. Fergus’s catalog. Time Stop wasn’t situational—it was a game-changer and ultimate in every sense. It didn’t cost mana, so I could use it in other dimensions. Time Stop bypassed every debuff, every confusing illusion, mind-control, or malady that dark magic imposed. This ability scaled by magic rank. If someone else had the same ability, it would be weaker. My Pearl of Power let me cast arcane spells at rank 40, giving me 8 seconds.
+
+I could dodge any blow and reposition myself to avoid targeting, and coupled with my Cossack of Rewind—I could do so twice. In battles against other players, Time Stop reset battlefields to my favor, letting me avoid tricks like Bircht’s relic and sidestep Duchess’s Stasis by simply moving outside the spell’s range.
+
+Eight seconds gave me enough time to turn any spell into an instant. Time Stop had so many applications that I immediately spent one of my two power points on it and closed the interface.
+
+Fabulosa looked up from her meal. “What did he do?”
+
+I’d lost myself in the conversation. “What did who do?”
+
+“Oliver. Did he say anything, at least?”
+
+“Oh! For the eye. No, he turned and went away.”
+
+Fabulosa grinned. “Yeah. That’s him, alright.”
+
+Inwardly grinning, I changed the subject. “How often do ferries go to Oxum?”
+
+“Skiffs depart every day from Farseed. Oxum is the largest, oldest settlement in the Gray Manors.”
+
+“Why do they call it the Gray Manors again?”
+
+“It’s supposed to look like a bunch of buildings on the horizon.”
+
+My recent acquisition of Time Stop emboldened me, and I wanted to leave. “Are you ready to shake a leg?”
+
+Fabulosa’s eyes narrowed. “Are you fit to travel?”
+
+“Yeah. We get our cooldowns back on the road. Audigger and Toad are catching up with us.”
+
+Fabulosa shrugged and looked toward the city’s interior. Evidence of Flagboi’s disaster scene lingered in the distance—a thin cloud of dust still hung overhead like smog. “I reckon we’ve worn out our welcome.”
+
+I returned her guilty look. “Players, right?”
+
+Fabulosa snorted. “Yeah. We’re a blessing wherever we go.”
+
+I grinned. “Come on, let’s get out of here.”
+
+Fabulosa admired the city as we stood up to go. “I’ll admit, I’m a small-town girl at heart, but I would’ve had a lot of fun with Heaven’s Falls as a starting zone.”
+
+“You’d find fun no matter where you started. Besides, the more civilized the setting, the fewer monsters there are to hunt. It would have taken forever for you guys to level up.”
+
+Fabulosa hummed. “Maybe. We would have found sewers or something.”
+
+Though we localized the wreckage to just a few neighborhoods, the disaster cleared the streets.
+
+After summoning Jasper, we mounted up and rode out of town, making good progress. By the day’s end, we stood on the outskirts of the city once more. Leaving Heaven’s Falls put us on a northeastern road directly to the lip of Blyeheath.
+
+The low-lying clouds backdropped bamboo trees sprouting along the countryside. We passed homes, gardens, and occasional farmsteads before the road grew lonely, winding over the moors of the upper continent.
+
+Seeing the fog up close reminded me of Atlantic City tourists seeing the ocean for the first time. In many ways, Blyeheath was a sea in its own right, and from a distance, it looked no different from water.
+
+We followed the road to a plateau overlooking the vapor. A dozen houses silhouetted the horizon, and rings of strange bamboo frames surrounded them. The frames looked like soccer goals, but instead of holding a net, sheets with pink and brown stains hung from them. The material wasn’t clean, for their white and yellowed edges suggested they’d once been entirely white.
+
+Fabulosa gave me a shrug to show she hadn’t the slightest idea of their purpose. “Those look too dirty to be linens, and I hope that’s not dried blood.”
+
+“Where do we go from here? This looks like a dead end.”
+
+“There ought to be skiffs nearby that we could buy or rent. I was told if we take the west-by-northwest heading, we’ll hit Farseed within a day of sailing. We can pitch the Dark Room here for the night and head out in the morning.”
+
+Fabulosa’s confidence in my cadet-level sailing skills made me uneasy about testing them on an alien blanket of fog. Lloyd never gave me formal lessons, so I learned only from watching him teach Otto and Gretchen.
+
+A local might know where we could find a skiff. Before going further, I ducked into the Dark Room quickly to place Mendacium inside. The absence of it’s life-stealing debuff simplified matters.
+
+I gestured to a pair of feet sticking out from behind the stained fabric. “There’s someone behind that sheet. Let’s ask them.”
+
+Nearby, a small shack stood with an open door, hinting this person hanging their laundry might be friendly and happy for a distraction from a daily routine.
+
+The feet belonged to a deep elf, who hesitantly returned Fabulosa’s wave. Neither of us carried weapons. Our formidable armor and equipment sometimes made strangers nervous.
+
+The deep elf wore a white peasant garment with pink and yellow discolorations, which matched her light complexion. Her wrinkled, weathered skin and cloudy gray eyes reflected the hardened temperament of her labor. Unlike the wary citizens of Heaven’s Falls, her expression conveyed impatience.
+
+Name
+
+Lusha, Deep Elf Harvestor
+
+Level
+
+4
+
+Difficulty
+
+Trivial (gray)
+
+Health
+
+50/50
+
+Fabulosa spoke up before I could introduce ourselves. “Howdy. My name is Fabulosa, and this here is Apache. We’re looking for a skiff to take us to Farseed. Does anyone around here have one?”
+
+The question took the deep elf aback. “Plenty of skiffs. None going to Farseed.”
+
+“We’ll pay for ‘em. If no one wants to take us, we’ll sail it ourselves. Patchy knows how to sail.”
+
+The deep elf only narrowed her eyes.
+
+I waved and confirmed my partner’s offer. “We’ll buy it, and we have plenty of gold. And we can leave it in Farseed for you to pick up.”
+
+Lusha shot a glance at the horizon behind her. “I never took to repeating myself. There are no skiffs going to Farseed. Leastways, not this week.” She disappeared behind the sheet and pulled on it, tightening the wrinkles out of existence.
+
+The plateau from which the houses stood overlooked a gully that leveled out to a wetland of slippy-looking stones, moss, and mud. The lack of trees, grass, and shrubbery gave the impression of a vast infertile scrubland that disappeared into distant fog banks.
+
+Fabulosa growled. “She’s going to make us ask why.”
+
+I ignored her and pretended as if the conversation hadn’t stalled. “And why is that? Did something happen to the skiffs?”
+
+A voice from behind the sheet answered. “Skiffs are fine, but with the fog out, there’s nothing for the skiffs to run on.”
+
+The fog was out? Fabulosa’s source hadn’t mentioned it going in and out like the tide.
+
+Lusha pointed a finger to a shed where a thick rope net stretched across a metal frame. The holes in the net were so small that a person could walk across them without slipping through. The net looked a little like a trampoline. I turned on Magnetism to recognize a titanium composition in the metal frame. Being impervious to rust would be critical in such a humid environment.
+
+It looked more like a raft than a boat. Across the platform, several flattened masts lay, but I could see no canvas sail. The pontoons lashed to the frame looked like inflated garbage bags. The material glistened like treated leather, possibly bladders or organs from giant beasts.
+
+The raft rested on the side of a slope, testifying to its uselessness.
+
+I finally understood why there would be no skiffs to Farseed. Their frames looked light but were too big and wobbly to carry them all the way to the fog, which apparently suspended them. The tide of fog left this homestead high and dry.
+
+Fabulosa’s shortcut had been a bad lead.

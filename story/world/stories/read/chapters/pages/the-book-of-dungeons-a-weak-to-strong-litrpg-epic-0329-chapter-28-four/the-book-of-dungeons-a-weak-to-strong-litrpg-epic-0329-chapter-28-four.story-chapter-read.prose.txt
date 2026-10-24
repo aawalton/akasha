@@ -1,0 +1,161 @@
+Uttering the word “switch” triggered the Switching Boots—the same word activated the gloves, which I abandoned with Captain Jourdain back in Hawkhurst. When Duchess spoke the syllable, she teleported to Audigger’s skiff floating hundreds of yards away and still bobbing across the aerocline.
+
+Audigger took her place, and with her Ossification Flail already raised, she whipped the weapon’s business end onto Fabulosa, impaling its bony spikes into her newly acquired Deathday Suit.
+
+When Audigger released her grip on the weapon’s handle, another flail appeared in her hand.
+
+Fabulosa followed through with her attack meant for Duchess, impaling her saber into Audigger, except the blade passed through her target, spraying blood on a nearby sail protruding from the skiff’s frame. At first, I thought she scored a critical hit, perhaps a dismembering ability Fabulosa learned from our six months apart—but the combat log said otherwise.
+
+/Audigger is Liquified. /Audigger activates Sealed Fate./Audigger hits Fabulosa for 0 damage (37 resisted). /Fabulosa is Spiked and Grappled. /Audigger equips Ossification Flail./Fabulosa misses Audigger. /Audigger Bleeds for 10 damage.
+
+The Phantom Blade swept through its target without resistance. By Liquifying into plasma, Audigger mitigated Fabulosa’s attack to only a Bleed effect. Because Fabulosa hadn’t inflicted damage, Aggression never registered in the combat log. The 10-damage Bleed came from Audigger’s leather armor, the Exsanguinated Skins.
+
+A buff on Audigger for Liquified bore no text in its description. Beside it rested another icon.
+
+Buff
+
+Obscured
+
+Hides descriptions for 2 buffs.
+
+Duration
+
+26 seconds
+
+Audigger used dark magic to Obscure the identity of another effect, Liquify, likely the lynchpin of her attack. It must mean that she had a vulnerability she wanted to hide. Figuring this out wasn’t the only issue we needed to solve.
+
+A third buff, Sealed Fate, also bore no description text. I assumed it increased the chance to hit. Given Fabulosa’s high melee skills, Audigger probably needed it to engage successfully.
+
+Fabulosa’s Spiked debuff gave a -5 agility, but the real danger lay in the Grappled debuff—in addition to slowing its victim, the attached flail prevented escape mechanics.
+
+As Duchess and Bircht had designed an attack to neutralize me with a vacuum, Duchess had done her homework again, inventing a cocktail of debuffs tailored to nullify Fabulosa’s cape.
+
+The skiff gave Fabulosa no room to dodge, and the trampoline-like net hampered her footwork. Her parries splashed red drops of liquid.
+
+Every second, Audigger’s health dropped by 10, but trading blows, toe to toe, without the worry of counters erased her disadvantage of telegraphing attacks. Her next flail attack hit Fabulosa, explaining why anyone would wield a -5 agility weapon—the debuff also applied to its target.
+
+When a second flail appeared in her hand, and she stuck Fabulosa again, I realized her strategy. The debuff Spiked stacked into a -10 agility that visibly slowed my partner.
+
+Fabulosa’s next strike included a Discharge, inflicting a critical hit of 68 electrical damage, barely bringing Audigger down by 100 from her 620 total health.
+
+It seemed natural that electricity counted as Liquified’s vulnerability. The spell also Stunned Audigger, something Discharge normally didn’t do, giving Fabulosa a chance to follow up with Lightning Bolt and Chain Lightning, causing 128 and 166 damage and more Stuns. But casting them exhausted her salvo of electricity-based magic.
+
+When my trident destroyed the wooden block holding the rope puzzle together, I yanked and pulled at the knots, still holding the vessel to the pier. While I worked, I shouted to my partner. “Use cold spells, Fab! Freeze her!” I didn’t know if she’d purchased anything that froze things opponents like frost rays or cones of cold—such spells came from primal magic.
+
+Fabulosa’s Ice Bolts accumulated to only 10 points worth of damage—the bolts flew right through her foe, making tiny splashes of red mist as they passed through Audigger’s fluid form.
+
+Audigger impacted the third flail into a recently equipped Reinforced Tortoise Shell, a shield we’d won from the minotaur.
+
+Fabulosa Shield Bashed her opponent. The Stun bought her a moment of reprieve and inflicted another 60 points of bludgeoning damage. Nothing in Audigger’s armor description mentioned that Liquifying mitigated bludgeoning attacks, so it was to Fabulosa’s credit she’d figured this out. Blunt weapons offered a second vulnerability.
+
+Fabulosa avoided a fourth -5 agility flail by dropping it to her feet. After repositioning, the two squared off and exchanged blows.
+
+Audigger got in a fourth hit, dropping Fabulosa’s agility by 20.
+
+Fabulosa improved her position after switching to the Invisible Club she took from LabRat31 after he jumped her in Hawkhurst, and I didn’t realize she had it until I saw the damage message in the combat log.
+
+/Audigger hits Fabulosa for 29 damage (20 resisted). /Fabulosa is Spiked (x5). /Audigger equips Ossification Flail.Unauthorized use of content: if you find this story on Amazon, report the violation./Fabulosa hits Audigger for 84 damage (18 resisted).
+
+While I watched, I detached my skiff from the docks and unfurled its sail. If I freed myself, I’d have to propel the skiff sideways out of the harbor before heading toward the combatants. Even with an 8-second gain from Time Stop, I couldn’t set the skiff’s sails to catch up with them before their fight resolved.
+
+With Audigger over half-dead and the pair beyond my spell range, I could contribute with missile fire. Aside from the arrows of withering that turned creatures below level 15 into ghouls, I had no special attacks besides Imbuing them with magic.
+
+I equipped my sling and struck Audigger without wasting time with Imbue Weapon.
+
+/You cast Time Stop. /You critically hit Audigger for 124 damage (0 resisted)./You critically hit Audigger for 120 damage (0 resisted)./Time Stop ends. /Audigger drinks Major Health Potion. /Audigger hits Fabulosa for 27 damage (17 resisted). /Fabulosa is Spiked (x6). /Audigger equips Ossification Flail./Fabulosa misses Audigger./You miss Audigger.
+
+Although out of range, I launched one last bullet anyway. My last attack brought Audigger down below 100 health, but the potion brought her out of danger, and she gave herself a weak Rejuvenate.
+
+When it became impossible for Fabulosa to swing the Invisible Club, she switched to spells, attacking Audigger with Elemental Blast and Scorch—causing no damage.
+
+With over 200 health again, Audigger assaulted Fabulosa with another flail. The hits we inflicted on Audigger had splattered the sail with her blood, looking like the Demeter on its doomed trip to London.
+
+My partner lost her footing and couldn’t raise her arm fast enough to block.
+
+I spared a glance at Duchess. She sailed away, leaning over the airboat’s side with arms folded, pleased with the outcome.
+
+Ribbons of Rejuvenate wrapped around my partner as she struggled against the multiple flails sticking to her.
+
+I froze time and studied the combat log. Fabulosa fell to 136 health, with nine spiked flails in her. Her Restore and health potion had prolonged the battle, but she lay prone on the skiff’s netted platform, unable to block attacks.
+
+Audigger switched to a battle axe, scoring 60-damage critical hits with every blow, only stopping after triggering Fabulosa’s Anticipate. Another attack dropped my helpless partner to 34 health.
+
+Fabulosa lay there, struggling but helpless.
+
+Audigger stood up with a broad smile, backing away from the prone figure.
+
+I was still minutes away from maneuvering my craft into spell range.
+
+Notifications in the group appeared.
+
+Audigger Whew. That was close, but a deal’s a deal. She’s all yours.Duchess Thank you, girl.
+
+One of them must have said “switch” to activate the boots again. Duchess appeared in Audigger’s stead, standing over Fabulosa, legs wide for balance. She sported almost a full health pool that she must have recovered while her partner and Fabulosa battled. Brandishing a small knife, she kneeled and said something to the struggling, immobilized figure.
+
+I couldn’t hear her, but it was certainly an insult.
+
+Fabulosa, ignoring her, craned her neck in my direction. Before Duchess could respond, she arched her legs and rolled herself off the skiff into the aerocline. Seconds later, the combat log notified me of her death.
+
+I checked the contest interface to make sure she hadn’t somehow escaped the Grappled mechanic to invoke Hot Air or flip her hood. The game didn’t list her name among active contestants.
+
+Her last action denied Audigger and Duchess the boons of her equipment. To her last, she’d been thinking of me.
+
+Numbed, I focused on the contest chat channel and watched the messages scroll.
+
+Fabulosa It’s on you, now, partner. You’re the last of us. Make us proud.Fabulosa leaves channel. Audigger Are you kidding me? You let her get away! I lost my flail over this.Duchess I can’t believe she got away. What a sore loser! Toadkiller We made the Final Five. Who got the knockout?Audigger Nobody. Duch let her get away with falling damage. Toadkiller That’s a shame. But it narrows the field. Grats, everyone. Audigger I can’t believe you, Duch. All her loot is gone. Goodbye, purple cape.
+
+Paying no heed to Audigger’s bellyaching, I dropped the sail and drifted. My knees gave out, dropping me onto the netted platform.
+
+Watching Fabulosa go out like this deflated me. She deserved a more heroic ending to her story, and none of it seemed fair.
+
+Of course, it wasn’t fair. Fabulosa always wanted to win honorably, a straight-on fair fight, but that’s not how people played games. Competitive gamers weren’t romantic about winning. They avoided fair fights and did everything to tilt the odds in their favor.
+
+I hung my head but couldn’t muster the same tears I shed over Charitybelle. Despite the humbling defeat, Fabulosa had gone out the way she wanted—in the heat of combat. It seemed unfitting not to have her in the endgame. She and I would never have a final duel.
+
+To think she’d gotten knocked out in such a dispiriting fashion rankled me. Looking up, I saw Duchess fumbling with her vessel. The sail luffed in the wind, and when the current shifted, she narrowly dodged the boom’s uncontrolled swing.
+
+I wiped my eyes and bitterly watched her clumsy attempts to control the rigging. Lloyd’s incessant remonstrations had taught us the basics of sailing—one of the many things we learned while playing The Book of Dungeons. What had these nitwits learned—how to subjugate NPCs?
+
+Audigger’s sail stood little more than a silhouette on the horizon. She pulled away toward Oxum as if she hadn’t a care in the world. I looked back at Duchess’s skiff. Its sole occupant couldn’t figure out how to operate the blood-drenched skiff. The floundering vessel seemed a perfect metaphor for Crimson Software’s contest—a player ignorant of her environment because she spent her entire game destroying things.
+
+I dismissed the thought. No, that wasn’t right. Duchess wasn’t ignorant or undeserving. She’d only left me reeling over Fabulosa’s knockout.
+
+When Duchess noticed me watching her, she placed her index finger to her lips in a shushing gesture. At a distance, her pale finger contrasted with the black funerary shroud over her head. The message of a shared secret was impossible to misinterpret.
+
+Despite my bitterness, her confusing hand signal held my attention.
+
+Duchess gave up on the sail and sat on the ledge of the craft with her feet dangling. She loosened one of her boots, leaned forward, and fell into the aerocline—the fog silently swallowed her.
+
+The insanity of her actions dropped my jaw.
+
+After a few seconds, a new notification appeared.
+
+Congratulations!4 Players Remaining
+
+You have reached a milestone in The Great RPG Contest!
+
+Contestants participating in Crimson Software’s The Book of Dungeons Closed Beta 0.71b will no longer see one another on the Player Tracker. You have unlocked a new feature, The Great RPG Contest Leader Board.
+
+Good luck!
+
+Without a combat log, I couldn’t check events to see if Duchess had done what I suspected—saying switch one last time after pitching herself overboard.
+
+I’d killed the rubber elemental the same way inside Iremont.
+
+The contest interface offered a leaderboard instead of a tab to open the map. I toggled the new feature.
+
+Remaining Players
+
+Apache – level 31, 0 knockouts
+
+Darkstep – level 18, 1 knockout
+
+Duchess – level 26, 3 knockouts
+
+Toadkiller – level 43, 15 knockouts
+
+Unlike the contest’s previous features, the leaderboard didn’t reduce the scope of Miros by disclosing our locations. Instead, it revealed the deadliest players and potentially painted targets on contestants.
+
+Duchess’s inclusion in the final four confirmed my suspicion. She’d put Audigger into a freefall without a breathable atmosphere. In such a situation, her ex-partner wouldn’t be able to cast spells or pronounce the Switching Boots’ command word.
+
+A double cross like that was only a matter of time.

@@ -1,0 +1,259 @@
+If the demon were going to respawn, I needed to act fast. After sheathing my blade, I thrust my hands beneath the idol, hoisted it into my arms, and stood—the extra weight shook my legs as they straightened.
+
+After Rejuvenating again, I staggered across the burned exterior toward the stairs, taking one at a time until I reached the porch, whose doorway led back into the dungeon. As quickly as I could, I carried the idol through the catacomb halls toward the cathedral.
+
+If my theory were correct, placing it next to its other brother would unite this deity. Morphren should be strong enough to break his servitude. I could climb into the Dark Room and wait it out. If Morphren smote Toadkiller with his divine staff, a Lightning Bolt, or however deities fought, it solved my dilemma about this respawning demon.
+
+I grimaced at my state. I popped another Rejuvenate and a Restore, bringing me over 300 health. After I drank a mana potion, I had only 155 mana to bolster my Mana Shield, allowing me to survive one last Red Dragon Breath.
+
+With five minutes left on my stat potions, I enjoyed a 39 strength, but the bulk of the half-statue made it awkward to handle. If I didn’t have to carry it, I could Refresh Mana while I walked, at least with Gladdy in my grip. But time was more important than battle readiness. I only needed to restore this idol and hide in the Dark Room.
+
+And though my healing cooldowns had ended, I decided not to top myself off until I could channel mana again. With the heavy, dirty idol in my arms, I waddled out of the catacombs, into the cathedral, and to the basin’s edge of the Pool of Reflection. I dropped into the basin and prepared once more to pull the burden in after me and haul it across the empty pool. I needed only to reserve the strength to lift it onto the pedestal in the room’s center when a voice interrupted my focus.
+
+“Here, let me help you with that.”
+
+/Toadkiller invokes Resistance Sphere.
+
+A shimmering bubble wrapped around Phren’s idol. I reached for it, but my fingers couldn’t pierce its surface.
+
+“It’s a blessing. Don’t bother wasting a Dispel Magic on it. Though, if you had Dispel Magic, you’d have disabled Ostrabog’s rune.”
+
+Wheeling around, I faced the speaker.
+
+Name
+
+Toadkiller
+
+Level
+
+43
+
+Difficulty
+
+Dangerous (orange)
+
+Health
+
+730/730
+
+Toadkiller leaned against the wall, absently fingering the tip of a mace as if I presented no more challenge than a low-level monster. He arched his eyebrows, giving me time to respond.
+
+I opened and then closed my mouth. My hand reached for the hilt of my sword automatically, withdrew it, and began Refreshing Mana.
+
+“Ah, there’s the purple sword. Not bad, Apache.” Toadkiller nodded and gestured that I should continue channeling without his interruption.
+
+I didn’t thank my opponent for the compliment. It wasn’t a sporting gesture made by a gentleman. Toadkiller made a great show of letting me replenish my resources. If he enjoyed toying with me by allowing me to prepare for combat, I had to indulge him.
+
+By now, the other play had inspected my gear, so turnabout was fair play.
+
+Toadkiller sported the same mohawk, though with much shorter hair. He wore a glowing suit of armor covering his physique.
+
+Item
+
+Bands of the Frostmane Tiger
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 36 leather armor+35 armor+25 agility Item use—Once per day, dazes enemies within 30 feet for 2 minutes. Item use—Once per day, gives directional sense of named target for 1 mile and 1 minute per level of wearer.
+
+Luminous multicolored stripes flowed across its surface like a cuttlefish about to attack.
+
+I shrugged off the Dazed effect.
+
+Its hypnotic pattern seemed appropriate for hunting things, but it also called attention to its wearer. Apparently, camouflage wasn’t a tactic Toadkiller employed. The suit’s agility boosted him to insane levels of speed, a challenge even for someone with my combat skills.
+
+His mace sprouted foot-long spikes.
+
+Item
+
+Ogre’s Tenderizer
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 45 bludgeoning, piercing, slashing weapon+35 strength+15 stamina Item use—Wielder may toggle spikes by saying the command word “spikes.”
+
+His weapon choice left a little to be desired. Why bolster your agility and use a weapon as slow as a mace? I understood why he wielded it—having +35 damage was nice. If he knew how to jab with it, it could be an effective combination, but this was a weapon for fighting large monsters.
+
+If this guy swung it around like an amateur, I’d stand a fighting chance—my lack of mana notwithstanding.
+
+A crown of roiling fog covered his head. Miniature lightning bolts silently flashed in the clouds, making him look like an old-time comic book character with bad luck.
+
+Item
+
+Stormfront Crown
+
+Rarity
+
+Epic (orange)
+
+Description
+
+Level 28 head slot item+10 intellect+15 willpower Item use—Prevents scrying and gives +15 willpower against mind-based spells.
+
+I was the wrong person to worry about mind control, but seeing this item description gave me an idea of what to do with Mendacium. I kept the pendant tucked under my robe’s lapel. He wouldn’t be able to see until I wanted him, which served my strategy.
+
+Toadkiller gestured to the idol. “It’s no fun lugging that thing around, is it? It’s a shame idols are indestructible. I’ll have to find another place to hide it. I can’t imagine how Darkstep learned of its location.”
+
+While he spoke, I finished channeling my mana back while casting a quick Restore and Rejuvenate.
+
+“Although, at level 18, I don’t think he’ll give me too much trouble, do you? That quarter million is about as good as mine. Don’t misunderstand me—it’s not exactly the kind of money that puts peacocks on my lawn, but dominating a big contest like this is quite a feather in my cap. I’m hoping it’ll help me get into an MIT grad program.”
+
+Of course, if I could bluff him into doing something stupid with my purple pearl pendant, it wouldn’t be something he’d want on his resume.
+
+A bleating scream issued from the catacombs. My heart leaped at the noise of Ostrabog respawning.
+
+Toadkiller tilted his head toward the noise. “I think that’s for you, pal. It might take him a while, but he’ll pick up your scent. I honestly don’t know why more players don’t bargain with infernals. They’re loyal, and it’s not like our avatars have souls to lose.”
+
+The bola he used in my vision’s boss fight still dangled from his waist, but the movement behind me caught my attention. Without my Helm of Peripheral Vision, I would have missed it, for it made no sound whatsoever when it moved.
+
+Name
+
+Phren
+
+Level
+
+60
+
+Difficulty
+
+red (deadly)
+
+Health
+
+10,000/10,000
+
+Phren moved through chairs as he approached from the other side of the cathedral as if he were nothing more than a projection. That seemed strange. Why would a god of duality be immaterial? He was a deity, not a ghost.
+
+Phren’s wet eyes fell on the unearthed idol, which now stood beyond my grasp inside a Resistance Sphere. I’d come so close to reuniting it with its other half. His expression conveyed the plight of hopelessness—a being sorrowed by deeds its master compelled him to perform.
+
+He, too, bore a debuff.
+
+Debuff
+
+Commanded
+
+Is compelled to obey summoner’s orders.
+
+Duration
+
+Until master loses control.
+
+The effect’s information lacked essential details about how to dispel it. There seemed to be no way of releasing him besides killing his master.
+
+Judging by his garments, he looked to be more of a magic user than a warrior monk. Phren’s robes disappeared into the side of the chairs when he moved close to the basin. The fabric’s shape didn’t change. Was he an elaborate illusion, one that even my high willpower couldn’t resist?
+
+I drank another complement of stat potions and activated my charm of protection against dark magic, but Phren remained visible.
+
+Phren bore another buff, one I’d never seen before.
+
+Buff
+
+Gestalt
+
+A halved piece is less than 50 percent of its whole.
+
+Duration
+
+Until one-half is killed.
+
+This debuff’s information made less sense than Commanded. Gestalt? I’d read about it in an art history book but never understood what it meant. Gestalt was a design philosophy that claimed an organized whole was more than the sum of its parts. Artists considered it profound thinking, but word games wouldn’t help me defeat a deity with 10,000 health or its master.
+
+At first, I thought reuniting the idols was the only way to break Toadkiller’s control over Morphren. Gestalt’s duration hinted that I could do the same by killing Phren. But inflicting so much damage was no small task. I shuddered to think of what a deity’s healing capabilities might entail.
+
+“Ah, yes. You’ve noticed my other Familiar. You might say he’s my best Phren.”
+
+I furrowed my brow.
+
+Toadkiller shrugged. “Sorry. I’m trying to make that a catchphrase. I say that to everyone I Banish, but it’s just not working.”
+
+As Phren casually approached the basin, I backed away, positioning myself to avoid being sandwiched between them.
+
+I pointed to Phren. “What is this? Take your deity to work day? Why don’t you get your hands dirty and face me yourself?”
+
+Toadkiller nodded. “I deserve that, especially in the final four. If puns are on the table, I won’t begrudge you an insult. You won’t have to worry about ol’ Phren, here. He’s more of a bodyguard. No, I think we’ll let demonic nature run its course. Ostrabog is closer now. Can you feel it, too?”
+
+I flipped my lapel to show Mendacium after changing its text.
+
+Item
+
+Pearl of Destruction
+
+Rarity
+
+Celestial (purple)
+
+Description
+
+Level 50 trinket slotItem use—Kills creatures within 1,000 yards. Wielder may not avoid death.
+
+The ability for a purple item was strong but not unfair. Adding the bit about killing its wearer helped sell its authenticity.
+
+Toadkiller stiffened at the sight of the Mendacium. “Wait. You wouldn’t use that. You’d lose the contest.”
+
+“Call off your dog.”
+
+Wide-eyed, Toadkiller held up his hands. “I can’t! Just wait—I need time to think.”
+
+“Then we both go down. Mutually assured destruction is quite the shield, isn’t it?”
+
+Toadkiller hooked his mace on his belt, freeing his hands to make halting gestures. “You’re bluffing!”
+
+“Am I? People with nothing to lose don’t bluff.”
+
+Panic rose in Toadkiller’s eyes, and he looked nervously at the doorway to the catacombs. “I can’t call off Ostrabog! It’s against our pact!”
+
+“Then the leaderboard leader has a big problem, doesn’t he?”
+
+“Oh, well. Fine. Let’s go to Plan B. I would have liked to have taken that purple sword.” Toadkiller folded his arms in disappointment, and when I followed his gaze, I realized he wasn’t talking to me.
+
+I spun toward Phren, brandishing Gladius Cognitus in a Thrust maneuver that extended my blade to the deity standing at the lip of the empty pool. My sword’s tip drew an arc in the air, passing through my target as if he weren’t there.
+
+Phren didn’t react to the blade, and my combat log registered no hits or misses. Wait, was Toadkiller bluffing too? Was Phren an illusion?
+
+Outside, the demon’s hooves clopped down the hall toward the cathedral. If Toadkiller was telling the truth about not being able to call off his infernal pet, bluffing him with Mendacium was pointless.
+
+I activated my Soles of Darkness, Blackening the surrounding area, though my opponent, the demon, and the deity didn’t react or have Blackened or Blind debuffs.
+
+Slipstream was my only meaningful spell, but there seemed no safe place to flee.
+
+Pausing the game, I searched for newly unlocked spells and abilities. Nothing new appeared. Nothing in my inventory seemed useful against this deity, so I closed the void bag.
+
+Ostrabog appeared at the cathedral’s vestibule, sighted me, and roared. All of its horns glowed with fiery embers. When it reached its range, its horns flared, telegraphing its imminent Red Dragon Breath.
+
+I pointed to Mendacium. “I’ll do it, Toad. I mean it!”
+
+Caught between heaven and hell, Toadkiller watched both servants with wide eyes. “Now, Phren, now!”
+
+As Ostrabog opened his sideways maw, flames erupted.
+
+I Slipstreamed out of the basin behind the idol, positioning myself to avoid the demon’s cone of breath. Only Phren and Toadkiller would suffer fire damage. If engulfing them in flames interrupted Plan B, then all the better.
+
+If this wasn’t a dire situation, then no such circumstance existed. I looked up according to Darkstep’s instructions. On the polished obsidian ceiling, I saw only a darkened version of myself, my opponent, and his demon. For whatever reason, the mirror omitted Phren from the picture—as if he were a vampire. Aside from the deity casting no image, the cathedral’s ceiling reflected the scene like any ordinary mirror would, providing no clues or salvation whatsoever.
+
+Darkstep had wronged me. I would fall out of this contest like a fool duped into his own knockout.
+
+I expected to feel the heatwave of Ostrabog’s blast to warm my skin as he filled the room with Red Dragon Breath. The heatwave never came.
+
+Presence extinguished, engulfing the cathedral in darkness. Gladdy’s squiggles of light also disappeared. Not even Toadkiller’s glowing striped armor splintered the nothingness.
+
+Even the string of buffs and debuffs in my periphery vanished, including Netherburned. Only Aggression remained, so I knew that I still occupied Oxum. Its icon rested next to a new debuff. The pair reassured me that my game interface still worked.
+
+Debuff
+
+Banished
+
+You are out of phase.
+
+Duration
+
+Until you rephase to Miros.
+
+The only sounds were those of my making. I heard no clopping hooves, fire-breathing demons, or panicked opponents.

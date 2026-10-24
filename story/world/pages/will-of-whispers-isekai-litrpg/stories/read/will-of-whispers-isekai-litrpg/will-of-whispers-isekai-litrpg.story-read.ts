@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const willOfWhispersIsekaiLitrpg = {
+  id: "01a16c06-f55f-709e-b04f-b12c6bc63a93",
+  type: "page-type/story-read",
+  slug: "will-of-whispers-isekai-litrpg",
+  author: "RokoRaspberry",
+  following: false,
+  unit: "unit/words",
+  title: "Will of Whispers [Isekai LitRPG]",
+  world: "world/will-of-whispers-isekai-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "82013",
+      externalLink: "https://www.royalroad.com/fiction/82013/will-of-whispers-isekai-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Strategy",
+    "Cultivation",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-fi",
+    "Artificial Intelligence",
+    "Attractive Lead",
+    "Grimdark",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Secret Identity",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-24T03:49:17.791Z",
+  updatedAt: "2026-10-24T03:49:17.791Z",
+} as const satisfies StoryRead

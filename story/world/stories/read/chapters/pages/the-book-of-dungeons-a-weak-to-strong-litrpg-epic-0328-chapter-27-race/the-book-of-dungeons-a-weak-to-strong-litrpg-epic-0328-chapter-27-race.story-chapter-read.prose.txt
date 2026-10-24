@@ -1,0 +1,193 @@
+With a power like Time Stop, you might think an 8-second cheat would be a great advantage in a chase. While it helped, it wouldn’t be a game changer. Since players shared information about each other’s powers, I didn’t want to reveal Time Stop over something mundane like getting a jumpstart in a footrace.
+
+The pair we chased took the eastern pier, the side where Ebenezer’s skiff lay docked. Its entrance stood farther away, but perhaps they hadn’t noticed the rope bridge between them at the end.
+
+Summoning Jasper did me little good.
+
+My mount reared at the bamboo boardwalk, refusing to traverse its planks. After wasting precious moments coaxing my Familiar, I dismissed him.
+
+I veered toward the western pier, the closest and most direct path to the farthermost slip where Ebenezer’s skiff waited. If we could beat them to the boat, we could block their escape.
+
+The bamboo clanked as I sprinted down it, but I heard only one set of footfalls. I turned to see Fabulosa taking the eastern pier, hot on the heels of the other girls.
+
+Splitting up wasn’t an entirely stupid plan. The bamboo wouldn’t hold up to magic, and players could stop our pursuit by blowing them up. If Fabulosa could keep them occupied, I could cut them off from taking Ebeneezer’s skiff—the only vessel we knew to be unoccupied and ready to sail.
+
+To press my head start and simplify matters, I stayed on the bottom level. Running through the cargo storage would only antagonize the guards.
+
+Audigger and Duchess took the upper level of the other pier, where most of the harbor’s activities took place. The choice puzzled me. It forced them to weave through stacks of crates and deal with guards. It wasn’t as if traffic crowded the lower tier.
+
+Duchess cast Warp behind them after she and her partner climbed the ramp. The bamboo supports and railings twisted, squealing at the sudden stress of an unseen force, ending them in a shower of splinters.
+
+The move barely slowed Fabulosa, who Air Jumped through the cloud of sawdust where the ramp used to be. Yet Air Jump hadn’t been enough. When she reached the frayed edge of the upper tier, the bamboo beneath her feet gave way to her weight. Only Slipstream saved my partner from falling to the platform below. Crates and barrels by her burst, spilling an amber liquid in a spray.
+
+The necromancers wove through the cargo toward the pier’s end. It amazed me that Duchess kept her black shroud from flying off as she sped away.
+
+Everyone on the docks watched the commotion.
+
+Fabulosa landed on a stable ledge on the upper tier, where half a dozen guards rushed to intercept her. She launched an Improved Fireball that sailed over them and exploded on the docks ahead, causing enough damage to collapse the upper level and impeding further progress.
+
+While Fabulosa tangled with the guards, Audigger and Duchess stopped at the gap made by the Fireball and dropped to the lower boardwalk.
+
+Without the disruption of combat, I made better time on the western docks, unbeknownst to our opponents. I quietly got ahead of them, running along the other side of the harbor. When I spotted an empty skiff, I jumped in, but thanks to its broad span, it didn’t wobble like a rowboat or a canoe.
+
+Its mooring lines had brass rings and heavy blocks of wood attached to them. Their knots looked like brain teasers, preventing anyone who didn’t know the solution from making off with the vessel.
+
+Detect Magic showed a glow on the ropes, and their item description included details that fire couldn’t cut them.
+
+Hoping a celestial blade might trump their magical resilience, I tried sawing through the lines using Gladius Cognitus, but its sharp edge made no headway into the rope. In a world filled with daggers and swords, skiff owners wouldn’t have relied on security measures that anyone could cut through.
+
+After wasting precious seconds with my sword, I studied the other elements of the knot puzzle. The wooden blocks and metal rings didn’t glow and possessed no special properties. Instead of figuring out the puzzle, I bypassed the problem with Mineral Mutation. By turning the heavy metal rings into cotton, I slipped the line free from the heavy wooden blocks holding everything together.
+
+I cast off toward the western side of the harbor.
+
+I targeted a Compression Sphere alongside the craft by the vessel’s center of gravity. The air blast propelled me toward the pair faster than I anticipated. Having not ridden a skiff, I imagined it would move similarly to a boat. Skiffs floated on fog, and air didn’t have the resistance or drag of water, so I whisked myself across the harbor in only seconds.
+
+The thunderclap drew their attention as I expected, and I Counterspelled Duchess’s attempt to put me in Stasis, whose effect would have pitched me overboard in the moving vehicle.
+
+Audigger picked up the slack left by her partner and cast the same spell, freezing me in midair while the skiff sailed out from under me. Of course, they both had Stasis.
+
+The opaque plane of vapor yawned below as if eager to swallow me. I kicked in midair while the Grappled condition held me in place.
+
+Audigger canceled the effect.
+
+After a moment of freefall, it took me two actions of Slipstream—courtesy of my robe—to place myself back to the western side of the harbor where I started. While I recovered, guards from the lower eastern pier converged on Audigger and Duchess. I turned and ran toward the rope bridge ahead.
+
+Though I’d blown through Slipstream and my crucial cooldown resetter, I’d spent both of their Stasis spells, a pivotal point in our battle—for the shrunken head’s vacuum by itself posed only a minor inconvenience.
+
+Half a dozen copies of Duchess flashed into existence, all of whom fled from the guards. All shimmered except one figure who ran down the dock. I suspected her to be the real Duchess.
+
+The guards surrounding Audigger stopped, went slack-jawed, and issued no protest as she slipped between them.
+
+I sprinted without bothering to parse the guard’s debuffs.
+
+The faerie dragon Familiar zipped toward me, and I popped it with a Scorch before it got closer, killing it in a tiny puff of green smoke.
+
+I reached the first of the two bridges spanning the harbor. Without knowing the cooldown to Warp, I held onto the bridge’s rope railings in case the bamboo beneath my feet suddenly disintegrated. Trepidation hit me as I stepped onto the rope bridge. Nothing in my arsenal of powers and items could save me from the lower aerocline’s toxicity.
+
+By the time Fabulosa’s Phantom Blade ramped up, she dazzled the dockyard guards enough to dissuade them from engaging her further. Guards weren’t mindless monsters, and she didn’t need to kill anyone—only show that she could. She activated her cloak and blew through them, quickly flipping the hood back down before the winds carried her further. The narrow dock and inopportune wind direction stopped her from making further use of Windshadow.
+
+The bridge shook as I ran, making a rhythmic, rickety clacking noise.
+
+When I neared the western pier, the clamor drew Duchess’s attention. She pointed and said something to Audigger, who cast Warp on the bridge’s bamboo. The spell shattered the planks beneath me, but I’d been prepared and grabbed onto the horizontal lines suspended across the harbor.
+
+Audigger cast Rust on the rope’s metal anchors on the eastern pier.
+
+Freefall hit me after the weakened metal shattered. I gripped the rope as it pulled me into the aerocline beneath the western dock. Holding my breath, I expected to fall and swing into the docks’ pylons and supports.
+
+But when the tangled ropes and planks disappeared into the fog, I didn’t go with it. Instead, a strange force pulled me upward as the rope bridge collapsed.
+
+My chest lurched in pain, and the combat log scrolled with messages that I’d taken internal damage. Using my interface to slow time, I gained a sense of the situation.
+
+I hadn’t swung with the rest of the rope, which dangled from my hands. Nothing had snagged me, yet I hung in midair a few feet below the surface of the aerocline.
+
+By holding my breath, I inflated my lungs, suspending me in the fog. However, my lungs weren’t strong enough to support my weight. To stop the damage messages, I mentally invoked Hot Air.
+
+Still clinging to the rope, I pulled myself toward the pier as I rose over the plane of fog. I emerged from the ordeal, coughing up blood, but nothing that a Rejuvenate wouldn’t fix.
+
+Knowing that I had over a minute of hang time, I pulled my mask over my face, hoping to stave off the coughing fit. Coughing into my mask made things worse, but I ignored it and pulled myself over the dock. The rope felt heavy, but thanks to my strength potion, I managed the feat.
+
+When I reached the pier, I gently lowered myself to the bottom tier.
+
+For much of the chase, I’d been near the lead, but the setback had cost me my advantage. Detect Stealth revealed nothing, so at least I knew that neither of them had crossed to my side.
+
+Getting my bearings again, I glimpsed Fabulosa, facing an invisible foe on the upper eastern docks, lunging and swiping at the air—but she’d lost no health.
+
+Audigger ran far ahead of her.
+
+I pulled off my mask and cupped my hand to call to her. “Who are you fighting?”
+
+“What?”
+
+“Is that Duchess?”
+
+“She summoned an ogre, but I can’t seem to hit it!”
+
+“It’s an illusion—Fab, there’s nothing there!”
+
+Fabulosa backed away with a look of confusion until she lowered her sword and winced—bracing for a blow that never came.
+
+Mustering more energy, I raced toward the end of the docks. The only damage Fabulosa sustained was to her ego, and she wasted no time running parallel to me. On either side of the harbor, my partner and I hurried.
+
+One last rope bridge spanned the piers. Beneath it, several skiffs awaited. The harbor’s furthest slips seemed to be the most desirable, as tied-off vessels occupied most of them.
+
+By the time Fabulosa and I reached the end of the docks, one of them had already Warped the wood on the rope bridge, reducing its center to loosely hanging lines. With minutes left on my Slipstream cooldown, the idea of another crossing attempt didn’t appeal to me, but with so many skiffs at the end of the pier, perhaps it wasn’t necessary. I studied their design. Their light titanium frame made them impervious to Rust and Warp effects.
+
+On the opposite side of the harbor, Audigger Rusted through a metal ring that jammed up her rope puzzle. Untangling the knots from the wooden blocks freed the vessel from the dock. The skiff slightly wobbled while she untied mooring lines.
+
+I jumped into the nearest vessel and reached for the rope puzzle that locked it into place. A tangle of ropes, heavy brass rings, and wooden blocks awaited me.
+
+With Mineral Mutation on its hour cooldown, I didn’t have time to solve it legitimately. I used Mineral Communion to scan through the ring’s recent memories, hoping to catch glimpses of the puzzle’s solution.
+
+Duchess stopped at the dock, just short of the skiff.
+
+Fabulosa slowed, and the two faced off with brandished weapons.
+
+Audigger looked up from untying the lines. Even after she rusted away the metal rings, untangling the knots from the wooden blocks still posed a problem. “Do you need help, Duch?”
+
+Duchess waved her away and brandished a +30 agility short sword. It blurred in the air in front of her. “Nah, keep working at it. I got her.”
+
+Fabulosa, panting for breath, laughed long and hard. The noise seemed so at odds with the seriousness of the situation that both Audigger and I looked up from our work. “Oh, really?” Fabulosa pointed the Phantom Blade at her opponent. “Did you hear that one, Patch? She says she has me!”
+
+I’d long since gotten used to my partner’s confidence, but her words chilled me with a memory that I couldn’t quite recall. I cast a glance at Audigger, who focused on untying her skiff’s mooring lines.
+
+It seemed like the two would square off without the interference of their partners. They approached each other on the docks, raised their blades, and rang their tips together to kick off melee combat.
+
+Duchess moved swiftly, but Fabulosa’s superior skills scored a hit on her first stab for almost 100 health. After several swings, her health dropped while Fabulosa dodged and blocked her parries. Fabulosa didn’t even need her saber’s illusionary effects.
+
+The only way I could help was to get into the battle, which meant concentrating on the brain teaser. Audigger, in her airboat, worked hard at her knots.
+
+Fabulosa looked like she could handle herself, but taking on two players wasn’t safe. “Fab, hold on! I’ve got sailing skills. We’ll catch them in Oxum!”
+
+Fabulosa was having none of it and pressed her attack. As citizens of Hawkhurst, fighting in a foreign settlement activated Aggression’s bonus damage. Duchess started with only 320 health. Even with two ribbons of Rejuvenate around her, it wasn’t a surprise to see her down to 60 health, and when it jumped up by 100, I knew she drank her only potion.
+
+Fabulosa, also with a Rejuvenate, stood nearly at full health. At this rate, she’d knock them both out of the contest before I reached the other pier.
+
+I redoubled my efforts to jack the skiff, scanning scenes with Mineral Communion to study how to untie the puzzle.
+
+Audigger freed her vessel first, raising the untangled mooring lines in triumph. “I got it, I got it!”
+
+Fabulosa stopped attacking long enough to cast Compression Sphere next to Audigger’s skiff. The thunderclap sent Audigger tumbling, nearly knocking her overboard while the vessel drifted into the aerocline, quickly sending her away from the pier.
+
+Launching without her partner didn’t seem to bother Audigger. She watched the pair fight from a distance while she drifted away, content to reach Oxum before us, but something about her posture felt off. Audigger looked ready for something.
+
+Duchess, now trapped on the docks, became Invisible. I looked for her, but against the sea of fog, it wasn’t easy to spot a telltale shimmer.
+
+While Fabulosa swung her blade at empty air, Duchess materialized by another dock, several slips away from her opponent. She cast Warp on the docks beneath a cleat holding a line to another skiff.
+
+The noise caught Fabulosa’s attention.
+
+As the bamboo pier twisted, the lines holding the skiff loosened, releasing it from what remained of the dock. The weight of dangling cleats and bamboo hung over the vessel’s side, tilting it to a significant degree. The angle created enough surface area for the gentle wind to push it from the pier.
+
+Before anyone could climb aboard, Fabulosa cast a Wall of Fire between Duchess and the skiff. She approached her foe as the empty airboat lazily drifted in the fog.
+
+Duchess tried to fend off her assailant, but half the time, she blocked the illusionary saber—opening her to strikes from the real Phantom Blade.
+
+/Duchess hits Fabulosa for 20 damage (12 resisted). /Fabulosa hits Duchess for 91 damage (9 resisted). /Duchess misses Fabulosa. /Fabulosa hits Duchess for 93 damage (8 resisted)./Duchess misses Fabulosa./Duchess casts Anticipate (augmented)./Fabulosa misses Duchess.
+
+I had no way of knowing how Augmented spells worked, but I could guess by watching Duchess fly out of harm’s way and onto the drifting skiff. The augmented version must have given Duchess the choice of where the magic took her—the castaway vessel.
+
+With my Slipstream cooldown with minutes to go, I expected Fabulosa wouldn’t be able to follow.
+
+But Fabuosa surprised everyone by flipping her hood and drifting over the fog toward her prey. For once, the wind worked in her favor.
+
+Duchess swung wildly at the ghostly Fabulosa flying toward her skiff.
+
+Fabulosa materialized after flipping the hood down, dropping her squarely onto the drifting airboat.
+
+Duchess backed away while Fabulosa gained her footing.
+
+Notifications appeared in the contest’s group chat channel.
+
+Duchess You ready, Dig? Audigger Ready when you are.
+
+Reading Duchess’s words raised concerns. Nothing walked across Miros as deadly as a prepared player. After losing myself in its complicated pattern, I stupidly jerked at the brain teaser. Scorching the heavy rope and slashing it with Gladius did no good. Messages in the combat log relayed the necessity of causing structural damage.
+
+Earthquake would only bring the entire pier crashing down. I pulled out my trident and awkwardly hacked at it. A progress bar with the numbers 4/5 appeared. The amount encouraged me—I could work with 5 structural points.
+
+Movement in the skiff distracted me from my efforts.
+
+Duchess opened her arms wide as if daring Fabulosa to finish her.
+
+My partner didn’t need another invitation. She Charged.
+
+Duchess grinned as if she’d been waiting to say something for a long time. “And—switch!”

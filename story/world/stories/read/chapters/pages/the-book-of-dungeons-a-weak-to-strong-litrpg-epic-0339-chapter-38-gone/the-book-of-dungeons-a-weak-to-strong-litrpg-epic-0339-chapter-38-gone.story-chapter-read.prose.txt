@@ -1,0 +1,241 @@
+I tried reigniting Presence, but the spell fizzled. One of Mr. Fergus’s glow stones still dangled from a leather holder I fastened to my belt, casting a dim light across the cathedral’s interior. This strange, nonmagical item served as my only light source.
+
+Aside from me, the cathedral stood devoid of gods, devils, and men. No sign of Toadkiller, Ostrabog, or Phren remained. And the idol that I ran behind and its twin on the rim of the empty pool, the one that I recently unearthed, disappeared.
+
+Group chat alerts popped into my interface, and I opened them, hoping to find out where they’d gone.
+
+Duchess I got your mail. I told you Apache was wily, didn’t I? Toadkiller You did. Now we need to wait, which is the hardest part. I put the over-under at three days. Duchess I’ll move forward with Plan B. At least you didn’t get his celestial blade.  Toadkiller I wanted that sucker, too. Duchess No news? Toadkiller Nope. You know what I know. Duchess Anyway, I’m halfway through Plan B. I’m going quiet. Toadkiller Got it. Good luck. Hey, Dark, are you in any mood to end this with some dignity, or are you really going to stretch this out? Darkstep, are you there? Darkstep—hello?
+
+The strange thing about the messages is that they populated the channel as if I’d been away or unconscious. I checked my place on the plinth, but I hadn’t moved, wasn’t lying down, and hadn’t passed out.
+
+Had Crimson changed something in the contest’s chat interface? The channel’s messages instantly populated the window like the time-stopping dilation of the battle standard, not like a real-time conversation.
+
+I didn’t feel different. My feet weren’t tired, like I’d been standing here for hours. And what did Toadkiller mean when he said waiting was the hardest part? Was he talking about my death? Between my Necklace of Sustenance and the stores in my inventory, they had another thing coming if they expected to outwait me. I inwardly smirked at what I’d been through with the anomalocaris.
+
+Still, living off the Necklace of Sustenance wasn’t a pleasant experience. In the block of ice, I’d missed chewing on food.
+
+I activated my inventory to retrieve the ring and admire my edibles, only to discover that the big surprise belonged to me.
+
+My void bag didn’t open.
+
+That’s when I noticed Gladdy’s tip no longer glowed blue. Nothing I wore bore descriptions, as if I’d stepped into the Dark Room or another dimension.
+
+The void bag appeared to be an empty sack. Interacting with the container showed none of the gear or food that I’d accumulated. Panicked, I checked my avatar’s personal inventory, the 32 slots that came with playing the game.
+
+I kept only a week’s worth of rations—things that I’d bought in Belden when I’d leveled on monster safaris. It mainly held emergency gear—stacks of potions, shields, and utility items like tools, rope, and a grappling hook. The only non-emergency item was Charitybelle’s old armor, the plate mail we’d taken from Tardee. In giving Hawkhurst the siege hammer, the armor counted for my most precious keepsake. But nothing inside had magical properties, and the void bag’s contents lay inaccessible.
+
+All my magic items had descriptions that showed only level, rarity, and what slots they filled.
+
+After switching to my character sheet, I saw much lower stats reflecting my neutered equipment. My health dropped from 400 to 250, and my glorious mana fell to a middling amount of 280. My willpower suffered the most, plummeting from a resting 74 to 21, leaving me feeling unprotected.
+
+I tried casting Detect Magic, but it fizzled. My spells behaved as if I stood in another dimension. Banished affected me as if Toadkiller or his minions sapped Miros of its energy.
+
+As I retrieved my bag of glow stones, I heard a strange rustling of cloth and the sounds of sandals moving across the floor.
+
+A blow struck me in the head so hard that the sack holding the glow stones dropped, spilling them across into the empty pool. A few clattered to rest on the plinth, giving me plenty of light to see. The glow stones bathed the room in an amber glow, but I saw no enemies around me.
+
+I checked the combat log.
+
+/Phren Banishes you./You leave combat./Morph critically hits you for 120 damage (0 resisted)./Morph critically hits you for 116 damage (0 resisted).
+
+Another attack message filled the log as a second blow clocked me, knocking me off my proverbial pedestal.
+
+I fell from the plinth into the empty pool. Instinctively, I rolled away from the central platform while miraculously holding onto my inert sword.
+
+Aside from the dramatic health loss, the worst part of my predicament was my opponent's invisible nature. My eyes darted around the room, searching for an enemy.
+
+Reflexively, I tried casting Rejuvenate, but it also fizzled. As best as I could determine, Banishment shifted me to another phase in reality—not quite another dimension—but in a state where magic didn’t work.
+
+Whomever I shared it with employed an attack no fancier than a staff.
+
+I attempted to raise my Mana Shield, but it, too, wouldn’t work. The second hit dropped my health to 14, but I had a full mana pool for all the good that it would do.
+
+Lying on the basin’s floor, I searched for my invisible assailant in the dim light of glow stones.
+
+The only attacker I could see came from a reflection of the obsidian ceiling. The shiny black stone showed me lying in the empty pool and a monk looking down from the plinth to my prone form. He carried a wooden staff.
+
+Name
+
+Morph
+
+Level
+
+60
+
+Difficulty
+
+Red (deadly)
+
+Health
+
+10,000/10,000
+
+In the reflection, Morph appeared as Phren’s twin, yet he remained invisible to my naked eye. Usually, I wouldn’t be able to see nameplates in a reflection, but nothing seemed normal anymore. If magic didn’t work, perhaps it came from divine powers.
+
+I considered leaving the cathedral. Killing my spells and equipment might have something to do with fighting Morphren on his home turf, but the thought of evading an invisible pursuer made little sense. This reflective ceiling gave me the only means to defend myself.
+
+In the mirror, Morph’s robes fluttered as he jumped into the basin. He landed like a gymnast without taking extra steps to steady himself, righted himself, and slowly turned to me, drawing his staff back for one final blow.
+
+Dino had taught us how to defend ourselves while lying on the ground, and the lessons came back to me. I rolled away, blocking his swing with Gladius Cognitus.
+
+Though Gladdy’s metal ended with no glowing tip, and its barren description showed no stats or abilities, it still functioned as the right tool for the job. It served as the pointed stick that I needed it to be.
+
+Morph’s footing betrayed how he intended to strike again, so I rolled to a crouch with my blade upraised, blocking the staff once more.
+
+From a crouch, I watched my assailant in the mirror. I dodged Morph’s next swing cleanly, stood, and delivered a hit of my own against his shoulder. Ignoring the fact that my blade aimed for what appeared to be empty air, I felt the impact and focused on the mirror.
+
+I battled a deity toe-to-toe, treating the contest like a top-down fighting game. I fought using the reflection, a disembodying experience, but like any new console game, I adapted to the interface.
+
+My opponent possessed divine qualities, but I was an experienced gamer and familiar with adapting to new rules.
+
+/Morph misses you./You hit Morph for 74 damage (6 resisted).
+
+My probing attack confirmed that I could deal him damage with a normal weapon. The amount confirmed that the sword no longer gave 50-point damage bonuses, but my map interface still listed Oxum as my location. Aggression was a mandate, not a spell, and I still received its double-damage bonus.
+
+The Hawkhurst mandate gave me a glimmer of hope.
+
+With only 14 health and no way to heal, any hit would end my game. I downed a health potion, the first since my fight against the demon, but it raised my health not a single point. Was I seriously thinking of fighting a deity with 10,000 health wielding nothing but a regular blade?
+
+While my spells were defunct, I still had access to abilities. I activated Thrust when an opening presented itself and scored a 168-point Bleed. Being able to activate this every 30 seconds certainly helped my math.
+
+Charging for critical hits would have been nice, but I couldn’t risk Morph scoring a retaliatory strike, and I couldn’t perform Rest and Mend during combat.
+
+Performing an ability reminded me I possessed an unspent power point. After retreating across the room, I opened my available abilities menu to see what would help me the most.
+
+Available Abilities
+
+Tier 1
+
+Aim, Block, Disarm, Double Blades, Edge Strike, Knockback, Multi-shot, Quick Shield, Shield Bash, Stunning Blow, Surprising Strike, Whack
+
+Tier 2
+
+Divine Favor, Concussive Strike, Mounted Charge
+
+Tier 3
+
+Enchant Object
+
+Power Points
+
+1
+
+Unfortunately, no new abilities had unlocked since I’d last looked. After all my time in The Book of Dungeons, I never imagined spending my final power point on a lowly tier-1 ability. High-level ultimates served me no good in this alien dimension, but I refused to be the type of fool who’d leave the contest with unspent power points in his bank.
+
+Whack appealed to me, but its 10-minute cooldown wouldn’t move the needle enough in this situation.
+
+Fortunately, many abilities applied to my plight, but I didn’t want to force my opponent to change their stance to an unpredictable pattern.
+
+I was not too fond of the shield abilities, either. Bringing a shield changed combat dynamics too much, so I leaned toward more passive abilities—force multipliers in sustained battles. Things like Aim and Block appealed to me the most.
+
+Power (ability)
+
+Aim (tier 1)
+
+Prerequisites
+
+Piercing weapons rank 12
+
+Cooldown
+
+30 seconds
+
+Description
+
+For 1 second per rank you have in piercing weapons, the next successful attack with a piercing weapon critically hits on its next attack.
+
+For newbies, an ability like Aim made for a poor choice, and I’d dismissed the low-rank ability back in Belden. But it scaled up for skilled players. If I hadn’t reread its description, I might have missed that a player ranked 29 in piercing weapons could sustain this continually—guaranteeing at least one critical hit every five attacks. Aim wasn’t sexy, but shortening a fight against Morph by 20 percent could win me a quarter million dollars.
+
+Spending a power point now seemed prudent. With Toadkiller out of the way, I wouldn’t need more power points to defeat Duchess and Darkstep.
+
+The next ability offered a more situational bonus.
+
+Power (ability)
+
+Block (tier 1)
+
+Prerequisites
+
+Defense rank 15
+
+Cooldown
+
+60 seconds
+
+Description
+
+For the next 10 seconds, the next attack from a nonmagical weapon that would have hit you misses.
+
+The threat of nonmagical weapons usually occurred at lower levels. When I first saw Block, I hoped it applied to jaws and claws, but natural attacks didn’t count as weapons. It was ridiculous to buy this at this late stage in the game, but here I was, considering it.
+
+Taking Block reduced the risk of getting hit by less than 20 percent. It would have let me use Charge freely, but combining abilities put me off. Considering that I had to fight while watching a mirror, it seemed best to adopt a simpler strategy.
+
+When I spent my last power point on Aim, a new ability called Sealed Fate unlocked.
+
+Power (ability)
+
+Sealed Fate (tier 2)
+
+Prerequisites
+
+Aim, piercing weapons rank 15
+
+Cooldown
+
+10 minutes
+
+Description
+
+For the next 30 seconds, your next attack hits but does not inflict damage.
+
+I didn’t need to wonder why anyone would use Sealed Fate. Audigger used it against Fabulosa to deliver the first Slow from her first flail. Sealed Fate acted as a delivery system for crucial debuffs, poisons, and side effects, perfect for assassins and rogues dabbling in poisons.
+
+Since magic didn’t work in this dimension, it didn’t apply to this fight. Besides, I’d spent my last power point.
+
+Just when I thought I’d figured everything out, I saw Morph’s reflection moving in slow motion only a few paces away. How had he closed the gap between us, and why was he moving so fast? Was the mirror lying to me? The interface slowed time to a barely noticeable crawl, but he moved many times faster than he should. Perhaps a third of the normal rate of movement.
+
+Did Banished somehow break the game’s interface? For the first time since starting The Book of Dungeons, I couldn’t indefinitely retreat behind an interface to meditate.
+
+After closing my interface, I activated Aim and focused on Morph’s reflection.
+
+I tuned out everything except my combat training. Morph’s footwork gave tells, speaking volumes to my practiced eye. Following his movements became paramount to my concerns. I watched him lean into attacks, which I blocked and dodged.
+
+His nonmagical wooden staff matched that of his counterpart, Phren. The obsidian reflected his nameplate, so I saw Commanded and Gestalt debuffs limiting his agency. His compulsory attacks sought no tricks or feigning moves to catch me off guard—but I took no chances and fought conservatively.
+
+From the bird’s eye perspective, I couldn’t read his expression to see if he wanted to win. His lackluster fighting style could be part of an elaborate trick to lull me into complacency. He only needed one blow for victory. But killing me wouldn’t earn him liberty, so perhaps defeating me wasn’t what he wanted.
+
+Another strange thing happened after I performed a Thrust—its cooldown immediately reset. I also noticed that Aim’s cooldown also appeared available to use as if I hadn’t activated it seconds ago.
+
+I backed away to check the combat log. Since reading it no longer slowed time down to a crawl, I had to be careful.
+
+The data showed both Aim and Thrust hitting, and the Bleed effect from Thrust instantly applied its damage. I’d not only used it seconds ago, but it should have taken 25 more seconds to apply the 168 damage. And Morph’s health showed it had already taken the total amount.
+
+Neither he nor I had buffs or debuffs that explained the odd but welcome behavior.
+
+I instantly reset them and struck again when the opportunity arose. Again, the deity’s health reflected taking the full amount of Thrust and its Bleed. Suddenly, knocking out a creature with 10,000 health seemed possible.
+
+Again and again, I predicted, blocked, and dodged every strike, parrying when opportunities arose. With hits averaging around 75 damage and crits around 150, I needed around 100 successful attacks to bring the deity down. When I critically struck with Aim, its cooldown instant reset.
+
+I didn’t understand why Banishment nullified waits for cooldowns, but I gratefully embraced the surprise.
+
+Just because cooldowns didn’t apply didn’t mean I couldn’t fail. I fought carefully, taking shots only when I knew I could get away with it. It required discipline and patience.
+
+When my foot brushed up against the side of the basin, I adjusted my withdrawal maneuvers along the pool’s curvature. We moved in a continual counterclockwise pattern. My first impression of the room’s purpose turned out to be correct—we’d turned the empty basin into an arena.
+
+Gladdy had described my opponent as a deity of duality whose sphere of influence included the mind and body. Toadkiller controlled Morphren by splitting him into beings with separate qualities.
+
+Phren had been visible, silent, and immaterial, invoking blessings like Reflection Sphere and Banish.
+
+His doppelganger, Morph, embodied physical aspects. The religion’s obsession over mirrors, from the polished ceiling to the pool of mercury, suggested that the two formed parts of a whole, which explained the Gestalt origin.
+
+Toadkiller had somehow broken the pair by removing an idol from the cathedral. If killing Morph removed the Gestalt debuff, he might reunite with his twin—perhaps a whole deity was too strong for Toadkiller to Control.
+
+With my eyes fixed on the mirror, I watched my opponent’s legs and weapon. Morph moved fast enough to defeat cadets with combat ranks in the teens. Even someone with ranks in their 20s might have difficulty blocking and dodging every single strike—the mirror added a twist, but it wasn’t unthinkable to avoid one hundred attacks in a row—and my game hung within that sliver of possibility.
+
+But I fought in the proper mental state. It felt like being back on my skateboard, alone, practicing, focusing. But I didn’t skate for the sake of joining a subculture or for the joy of perfecting tricks—I did it to forget who I was.
+
+I lost myself in the activity.
+
+Fighting Morph evoked the same mindset. I rediscovered a peaceful zone for perfect execution.
+
+I was gone.

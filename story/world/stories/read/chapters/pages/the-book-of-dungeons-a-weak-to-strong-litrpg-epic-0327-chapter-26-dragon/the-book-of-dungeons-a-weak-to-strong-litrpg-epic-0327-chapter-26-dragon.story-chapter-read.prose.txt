@@ -1,0 +1,175 @@
+With the collar in my possession, Fabulosa hid her Bracelet of Infernal Command in her inventory. “The demon collar is situational, so I don’t need to wear it. Until we meet Toad, I’m keeping my +5 strength bracers on.” She wiggled her finger at me. “I went through a lot of trouble to get them. It’s best to keep the collar from prying eyes until then.”
+
+I vanished it into my personal inventory. “I won’t take it out until I need it. Do you have any more ideas about Darkstep’s plan?”
+
+Fabulosa shook her head. “Beats me. What worries me most is his patience, and I hate how much influence he has on us. It’s the quiet ones you always have to worry about. Bircht, on the other hand…”
+
+“What?”
+
+“He had a neat trick going, but it disappointed me. I expected someone so smart to be better in combat. I felt like that after fighting LabRat. It felt stupid to over-prepare.”
+
+I didn’t point out that she’d teared up when I feigned death. But if she wanted to appear confident, I’d let her. “Well, let’s not under prepare. Let’s get a little food shopping in before we hit the skiff.”
+
+“I’m getting some of this curry to go.”
+
+“Oh! Good call. Pick up enough for me.”
+
+Fabulosa paid for enough food for a few days. She bought bread that felt as hard as French baguettes. I never understood the attraction to tough, crunchy bread. The trouble it took to eat never seemed worth it.
+
+She splurged on a small cask of ale and a pouch of dried berries and nuts. They would make the passage to the Gray Manors pleasant.
+
+While we dealt with food, messages appeared in the contest’s group chat.
+
+Toadkiller This caravan is so slow, it’s almost faster to walk. Audigger, I want your shortcut.Audigger Sorry. All flights are full. Toadkiller Have you been to Oxum before? Audigger No. But I hear there’s not much to see. A few towns on the other side of the plateau make pottery for the brill farmers. Duchess I always thought they were fishers more than farmers. Toadkiller Will I need a breathing mask?Audigger Why—no. You absolutely won’t need one. Toadkiller Heh. I could always count on you for a straight answer. When are you guys going to throw down? I’m getting a little nervous seeing the four of you sharing the same dot without any fireworks. You’re not plotting against me, are you?Duchess We are totally in cahoots. I’m hanging here with Fab and Apache. We’re just waiting to bushwhack you when you step into our dot. Toadkiller Psht. They’re too smart to team up with the likes of you, Duch.Audigger You’re not afraid of our ambush, T? No thoughts to turning around?Toadkiller Sorry, my dear. I’ve paid a solid 15 silver for my seat on the slowest caravan in Miros, and I plan to see it through.
+
+The chatter wasn’t very revealing except Toadkiller’s ambivalence toward facing four other players. Either he pretended to be brave or didn’t consider us a threat. Either way, waiting around and doing nothing jarred my nerves.
+
+After fighting a battle mech, a sea of fog could hide quite a big surprise. Duchess could be in an offshore submarine, waiting to torpedo skiffs leaving the coast. Farseed stood off a deep precipice, and the lower aerocline would be deadly. Even with a mask and Slipstream, a sunken skiff meant death. Until the tide of vapor rolled further inland, its harbor looked to be the only route to our destination, and the sooner we left, the better.
+
+For the millionth time, I checked the map interface to see if we still shared the same dot with two enemy players. We did. It showed only three dots filled with players. Darkstep’s blip remained in Susa, and Toadkiller’s nearly touched the circle bearing our names. In a few hours, the five of us would be together. I saw no way to fool the player tracker. In a world without teleportation, there probably wasn’t a spell or item that trivialized distance, so the contest map likely spelled out our immediate future.
+
+While Fabulosa looked at clothes, I occupied myself with a booth filled with thin blankets that reminded me of sheets. I’d seen nothing like them in Miros before.
+
+While in the skiff, Fabulosa and I wouldn’t have access to the Dark Room. That meant we’d have to sleep overnight in the open. I held up a blanket. “Do you think these blankets will be more comfortable in this humidity?”
+
+Fabulosa didn’t reply quickly, and when she did, it came in a husky whisper. “Patch—three o’clock. We have company.” She stood very still.
+
+Since we faced different directions, I used my helm to follow Fabulosa’s gaze. To my right, a three-inch lizard rested on the side of a building. Its Familiar nameplate read Ringo the Faerie Dragon. “NPCs can’t see nameplates. Perhaps it doesn’t know we’re here.”
+
+The critter wasn’t paying us any special attention, as far as we could tell. Its mirrored, pupilless eyes reflected the market like ball bearings. It wasn’t facing us, so I wasn’t sure if it knew we were here. A passerby could easily miss it, except its dragonfly wings fluttered in spurts, making soft buzzes. It didn’t look like it was actively searching for us—if anything, it looked relaxed.
+
+Fabulosa shook her head. “I finally get to see a dragon, and it turns out to be the size of my thumb.”
+
+“What do you suppose it’s doing? Do you think it’s safe to go to the skiff?”
+
+Fabulosa pointed past the faerie dragon. “Down there. Look who’s talking to Ebenezer.”
+
+Behind a big floppy hat stood a breathtaking young woman beneath a player’s nameplate.
+
+Name
+
+Audigger
+
+Level
+
+39
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+640/640
+
+Once I overcame her beauty, her level registered in my lizard brain. What had she been doing in The Book of Dungeons—constant combat? I’d lost significant amounts of time in an ice block and dawdled about in Hawkhurst, and I’d assumed the rest of civilized Miros to be tame and bereft of monsters. How had anyone not in the continent’s interior accrued so much experience?
+
+Audigger’s getup answered the question—she hadn’t limited herself to hunting monsters. It was grislier than Fabulosa’s but no less ornate. Her necromancer leanings surpassed Duchess’s maudlin funerary drapery, for Audigger was no pouty teenager in goth fashion.
+
+Audigger’s get-up showed a more active interest in gore, ranging between a chainsaw-wielding psychopath and a cannibal. Humanoid skull and teeth accents adorned her chest plates, helmet, and pauldrons.
+
+She hung a flail from her belt. Its calcium handle ended in a pale yellow chain attached to a spiked skull.
+
+If Miros recognized blood magic, Audigger was a practitioner.
+
+Audigger’s makeup accentuated her piercing eyes and high cheekbones. Her frosted hair offset the ruby-red lip gloss that I’d not yet seen in this fantasy world—and I hated to guess how she manufactured it. She embodied the ideals of beauty and horror.
+
+Item
+
+Exsanguinated Skins
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 43 leather armor+120 armor +15 agility+10 staminaItem use—Wearer may liquefy at the cost of 10 health a second.
+
+The less I pondered the source of the leatherwork, the better—instead, I focused on the item’s stats. What did Liquified mean, and why would anyone want to do it? Was this a shape-changing thing like a superhero who could stretch and slide under closed doors? It didn’t mention a cooldown, although losing health somewhat limited its use. The ability seemed at odds with all the skulls and teeth sewn into the leather, so the wearer’s belongings also transformed from a solid state.
+
+Fabulosa’s snort of laughter shook me out of my reverie. She spoke only loud enough for me to hear. “Nice flail, honey.”
+
+Despite the macabre outfit, the flail set me at ease. Dino taught us they were the worst weapons anyone could wield. They needed a ton of room to swing, telegraphed attacks, provided no defense, and were only effective at the very tip—the spikey ball. The likelihood of snagging it onto your opponent’s armor left their wielders exposed to counterattacks. In all my battles in Miros, only Odum fought with a flail, and he’d used it as a riding crop.
+
+I expected powerful abilities to justify a high-level player using it as her go-to weapon. I read its description.
+
+Item
+
+Ossification Flail
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 33 bludgeoning weapon+20 strength-5 agilityItem use—Wielder may regenerate flail ten times a day. Regenerated flails last for 10 minutes.
+
+Why would Audigger carry something that reduced her agility? And were flails so unwieldy that she needed to regenerate them? The idea of something like this facing off against Fabulosa’s Phantom Blade or Gladius Cognitus seemed wrong—like I was missing something. Perhaps Audigger discovered something in the school of dark magic that increased this weapon’s potential.
+
+I cast Detect Stealth, and it revealed her partner, Duchess, standing nearby, unseen to everyone except me—at least for the next 140 seconds. Duchess stood with her back to us overlooking the aerocline, transfixed by the fog—although I could never be sure about her facing with that melodramatic shroud over her head. Duchess was still level 26 and hung Bircht’s shrunken head around her waist.
+
+The last oddity of their ensemble was their footwear. Each wore a mismatched set of boots.
+
+Item
+
+Switching Boots
+
+Rarity
+
+Masterwork (green)
+
+Description
+
+Level 45 feet slot Item use—Wearer may switch positions with another wearing the opposite boot within range of sight by saying the command word “switch.”
+
+These worked somewhat like the Switching Gloves, making me wonder what would happen if someone in both gloves and boots would say the command word. Would both items trigger? Regardless, it didn’t seem important whether I fought Audigger or Duchess. My combat skills were almost certainly higher than both.
+
+What impressed me was the faith they put in each other by wearing such items. One could easily compromise the other by throwing herself in harm’s way and reciting the command word. At this late stage of the contest, I didn’t anticipate such trust between enemy players. Had they been secret partners longer than they let on?
+
+If Audigger could cast Stasis, it freed Duchess to operate the vacuum, but the activity of the docks somewhat complicated this strategy. The toughs guarding the upper deck’s goods wouldn’t stand for players wreaking havoc on their turf, and it was easy enough for one to interrupt their concentration.
+
+“We’ll just need to keep an eye on each other since they’ll likely want to double-team one of us.”
+
+Fabulosa smirked. “That checks out.”
+
+“Better yet, I’ll Counterspell Stasis if I’m in range. It’ll be easier now that I’ve seen her cast it.”
+
+“They don’t see us yet. Let’s watch what they do.”
+
+Audigger conferred with Ebenezer. His hat bobbed as he nodded, and he pointed to the dock’s end, where the deep elf tied off his skiff.
+
+Fabulosa shook her head. “I’m not giving up my seat for a necro. What about you?”
+
+“I have a feeling the skiff won’t be as crowded as Eb thinks.”
+
+“No. Necros will not be riding on his skiff today. I hope they paid him beforehand.”
+
+Duchess dropped out of Stealth and turned to Ebenezer and her partner. Audigger pointed in our direction, and Duchess’s eyes widened.
+
+Surprisingly, the first to act was the faerie dragon whose squawks sounded so musical I lost track of what was happening.
+
+My game state changed to combat, and a debuff appeared in my vision.
+
+Debuff
+
+Dazed
+
+You are confused into a state of immobility. You may defend yourself if attacked, and if done so, the condition ends.
+
+Duration
+
+3 seconds
+
+After losing track of my thoughts, I turned to Fabulosa, who looked just as lost. When the faerie dragon zipped away, I followed its trajectory toward the two players. When the effect ended, I poked Fabulosa to break the enchantment.
+
+“What’s going on?”
+
+“That little dragon charmed us. Look—Audigger and Duchess are here. They’re trying to take a skiff out to Oxum.”
+
+Audigger and Duchess ran through the market to the eastern docks. If they reached the skiff before us, they wouldn’t wait for Ebenezer.
+
+Fabulosa broke into a run after them.
+
+With the help of the Opal Apple, I drank five stat potions, raising each of my core numbers by 10. I also cast Heavenly Favor. The race to the far end of the harbor began.

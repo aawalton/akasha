@@ -1,0 +1,177 @@
+Toadkiller had double-crossed his companions, but how he accomplished it wasn’t apparent. Mineral Communion provided no sound, nameplates, item descriptions, or ways to divine what powers players used, but the idol figured prominently into the equation.
+
+If I took the remaining half of the idol, would that disable Phren’s power? Was that what Darkstep meant when he wrote about Toadkiller’s vulnerability? It didn’t add up. If it were a liability, why would Toadkiller leave it here?
+
+No, I didn’t think taking the other half of the idol would do anything but incur a deity’s wrath. Perhaps that’s what Darkstep hoped for, a cheap way of ridding himself of both of us. Blasphemy ranked high on the list of traps I intended to avoid.
+
+Asking Darkstep in the group chat invited a host of complications, and it didn’t solve the trust issue.
+
+What if it wasn’t a matter of stealing the other half of the idol but restoring the second half? And how did the pool of mercury tie into things?
+
+The mercury reflected the ceiling, making an infinity mirror. The symbology for a mind and body deity could mean anything. Was I supposed to look into myself for enlightenment or some such thing? Why had they drained it? Were the infinite reflections preventing them from carrying the statue?
+
+But Morphren was a deity of duality, and if taking one idol enslaved him, replacing it might set the god free. And if Toadkiller had earned its wrath, reuniting the idol solved the dilemma of defeating a level 43 opponent.
+
+I watched the interaction between Toadkiller and Morphren. The deity didn’t look thrilled about serving his new master. The monk stared at the ground, slump-shouldered, offering no defiance.
+
+Nothing else about their dynamic caught my attention, but I noticed Toadkiller hadn’t put the idol in his inventory. Instead, he carried the bulky thing to the pool’s edge, awkwardly handling it while climbing out.
+
+Why wouldn’t he put it away? Was it too big or perhaps invalid for inventory storage? Either way, he hauled it out of the sunken cathedral, with the deity slinking behind him. I matched his footprints with those glowing on the ground and followed them down the wide hallway and toward the catacombs. I scanned afterimages for scenes of Toadkiller, and in them, he still carried the right half of the idol.
+
+The hallway to the catacombs narrowed and grew considerably rougher than the pristine masonry leading to the cathedral. Following the footsteps with Mineral Communion almost landed me in an explosive rune—I wouldn’t have noticed it were it not for the glowing footsteps conspicuously avoiding the spot.
+
+Detect Magic showed the rune, and Read Magic revealed another primal spell rigged to it and ready to blow. I knew enough primal spells to recognize that the rune cited the flagstone.
+
+I’d taken enough time to let Mineral Mutation return, and seeing its refreshed cooldown gave me an idea. I cast it on the flagstone bearing the explosive rune and turned it into a slab of meat. After backing away the maximum distance, I Scorched it, cooking the transmuted flesh to medium-rare.
+
+Recasting Detect Magic showed an invalidated rune. Nothing glowed with magic.
+
+“That’s two of your traps I’ve bypassed, Toadkiller. You’ll need better than that to catch me.”
+
+Leaving the patch of ruined meat behind, I rounded a corner that opened into a small, weed-choked courtyard—a poor description of the place, perhaps, but I knew of no other word to describe it. This lonely, forgotten place stood like the margins between monastery structures. The bare, gray sky yawned above me. Three-storied walls hemmed in the narrow courtyard like an open grave, and at this late afternoon hour, no sunlight reached the ground.
+
+The porch I stepped onto had no ornate carvings, and the absence of decorative wall features gave it a back-alley feel. Only chimneys broke up the plain, ugly walls, though what buildings or rooms they heated I couldn’t guess. The narrow, crude stairs leading from the porch disappeared into the earth, rails and all—as if someone buried the landing after its construction. No other doors or windows appeared within reach. Why had Toadkiller brought the statue here?
+
+In a dungeon with such a dismal history, this outdoor area didn’t match my expectations of a catacomb, but the steps disappearing into the ground looked wrong. When the map’s location moniker changed from The Catacombs to The Dumping Well, it confirmed my suspicions about how this place earned its name.
+
+The bricks holding up these unadorned walls bore witness to past horrors. Mineral Communion confirmed my suspicions. Visions of a deeper pit appeared in my mind’s eye. Monks brought bodies here, hundreds, maybe thousands, covering them with wheelbarrows of earth, making a mass grave.
+
+The profanity of it repelled me, though I couldn’t judge the gaunt-eyed undertakers. I hailed from a less desperate place, where people had time and energy to mourn and honor their dead with proper burials. Loose soil wasn’t easy to come by in the mesa, so at least they had the resources to properly inter the bodies with a layer of earth. The monks had made an effort.
+
+Calamity often mothered expedience, and I stood in a similar situation. With Mineral Communion finally expired, I ignored indignity and set about my grim business.
+
+Detect Magic revealed a rune cast across multiple bricks, invisible to all but my eyes. Even with Read Magic, I couldn’t know which bricks to disable the rune because it employed unfamiliar functions, most likely from the school of dark magic. One thing I could be sure of was that it didn’t trigger from proximity.
+
+I harbored no doubts about the rune’s function. Its design featured a gaudy pentacle. Toadkiller also wrangled demons. The rune’s complexity involved too many unfamiliar glyphs to make sense of them. Deciphering it was like trying to decode a 200-word paragraph with only a few commas and words exposed.
+
+This rune wasn’t explosive, something I could back away from—it summoned a demon. It either triggered when someone dug into the soil or touched the statue. Monkeying with it now would only shorten the time I had to return the statue to the cathedral.
+
+I searched the ground using Magnetize. The topsoil muffled the interface arrows, subduing my ability to penetrate the soil and preventing me from seeing the strata of bones a few feet down. Like a mine detector, I swept back and forth across the ground until I located the missing half of the idol.
+
+What would Mr. Fergus think? I snorted at the thought of becoming a Blyeheath archeologist after all this time. The circularity of it amused me. I’d learned enough about archeologists to know that, in this circumstance, I was an archeologist more than a grave robber, even though I’d Dig in graves. But I planned to restore a piece of the past, not plunder it.
+
+Toadkiller’s shallow hole shouldn’t have surprised me. He clearly only wanted it out of sight. I rebuffed Presence and Heavenly Favor and channeled Dig to unearth the statue. The weeds weren’t thick enough that the roots posed problems, and after removing enough dirt, the item’s description materialized—Morph, The Dual One. Its description matched that of the left half, Phren, in every way except its name. Its blessing details remained inaccessible until, presumably, I reunited them.
+
+I looked upward. Was the sky the salvation from above that Darkstep mentioned? It didn’t smell like rain, but I couldn’t be sure at the bottom of this dingy shaft. Would the clouds yield a shower that somehow weakened demons?
+
+Picking up the statue should have allowed me to stash it in my inventory, but for whatever reason, the event log answered my efforts with the cryptic phrase—Invalid Item.
+
+I didn’t have time to meditate on the issue as a tangled knot of blackness swirled before the rune on the wall. A five-foot demon dropped out of midair and bleated a war cry so loud it resonated in my chest.
+
+Name
+
+Ostrabog the Blackened
+
+Level
+
+33
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+2,400/2,400
+
+The demon landed on a pair of cloven hoofs. Its feeble wings extended but hopeless to slow its fall to the courtyard’s earth. Ostrobog’s long head had eyes on the opposite sides, like a goat, but his horizontally hinged mouth split his skull in two when it opened. From the forehead area to its chin, a single maw gaped like a venus flytrap, but charred tusks, not teeth, projected from it.
+
+Its malformed body resembled a humanoid in barbarian straps and hides, showing lots of stringy muscle and crimson body hair.
+
+The demon carried a scimitar, a wicked crescent of silver that flashed off the brilliance of Presence.
+
+Item
+
+Pandemonium Blade
+
+Rarity
+
+Epic (orange)
+
+Description
+
+Level 33 slashing weapon+5 damage +5 agilityItem use—Wielder may root a creature of half the wielder’s level for 2 minutes once a day.
+
+A two-minute Root seemed overpowered, but luckily, I didn’t need to worry about it because I wasn’t half its level. The weapon’s damage wasn’t impressive, which probably explained why Toadkiller had given it to his lackey.
+
+Ostrabog sported a debuff I’d seen before.
+
+Debuff
+
+Commanded
+
+Is compelled to obey summoner’s orders.
+
+Duration
+
+Until master loses control.
+
+The debuff intoned it would respawn and attack me until either Toadkiller or I died. I didn’t know my opponent’s location, so this predicament wrinkled my plans to restore the idol.
+
+The demon exhaled its lips toward one of its black tusks, causing it to glow as if a charcoal in a grill. After a quick inhale, it blew on a second tusk, which flared in gray and red embers.
+
+I immediately drew Gladius Cognitus and cast the demonic protection circle that I’d copied in the warlock dungeon. The rune worked against imps and serpentine demons, so it needed a little tweaking. “Cast the demon rune we practiced, but substitute Ostrabog’s name.”
+
+My sword delivered the report I feared. “I’m sorry, my wielder. The erzatz targeting won’t function. This is an archfiend. The rune’s potency isn’t enough.”
+
+I quaffed five stat potions at once. I would not wait to see what surprises it had in store for me and Thrust the creature with Gladius Cognitus.
+
+The demon swung to deflect my weapon but missed and received a Bleed that would eventually drain 168 points of health. The amount of damage surprised me, but I remembered the monastery stood at the north end of Oxum, a foreign settlement.
+
+Ostrabog’s cloven hooves and double-jointed legs made reading its footwork difficult, but my recent bout with Jiaolong honed me on predictive attacks and defense. It seemed the monk had done me a favor, and I avoided the demon’s parry.
+
+I channeled Dig beneath the hoof that supported its weight, causing the creature to break its stance and flail for balance. Wielding Gladius Cognitus allowed me to perform this without concentrating, letting me focus on a Charge aimed at my opponent’s exposed midsection. I critically hit it for 364 damage, making me think this fight wouldn’t be so bad—Ostrabog was only a yellow-rated monster.
+
+While it regained its footing, the demon finished blowing on its tusks and uttered a string of incantations. If I hadn’t been so focused on the creature’s footwork, I would have Counterspelled it.
+
+/You critically hit Ostrabog for 364 damage (0 resisted)./Ostrabog casts Red Dragon Breath. /You cast Anticipate.
+
+Anticipate triggering at the beginning of the battle wasn’t a good sign, but it slingshotted me behind the monster, poising me for another backstab which I performed.
+
+The cone of fire charred the vegetation in a 180-degree arc. I wasn’t happy to see such widespread damage. Without more Anticipates, I wouldn’t be able to avoid the next one. Still, Aggression gave me a fighting edge, and I took chunks out of its health pool with every hit.
+
+As it fought me off, it blew on its tusks, making them glow with heat.
+
+/Red Dragon Breath hits You for 308 damage (25 resisted)./You are Netherburned.
+
+My Circle of Temperance didn’t prevent fire damage.
+
+What was Netherburned? I inspected the new debuff in my peripheral vision.
+
+Debuff
+
+Netherburned
+
+Heals are 80 percent less effective.
+
+Duration
+
+Until you become fully healed
+
+With weakened heals, it didn’t seem I’d rid myself of this debuff quickly. Toadkiller had chosen the right tool for the job—inflicting Netherburned on players who relied on healing mechanics made sense. On a creature that resummoned after its defeat, this debuff worked exceptionally well.
+
+With only a 500-point health pool, I couldn’t survive many more breath attacks. Regardless, I downed a lousy 20-point health potion and hit myself with Rejuvenate anyway.
+
+I held back nothing from my attack. Digging holes beneath Ostrabog’s feet kept him off balance.
+
+Ostrabog’s tiny wings flapped as he tottered, unable to regain a practical fighting stance, as my celestial blade meted out 170-point blows. He staggered and blew on his tusks like ticks on a countdown clock. After igniting the final tusk, I Counterspelled Red Dragon Breath, foiling his plans. Without my robe’s ability to reset cooldowns, it counted as my only Counterspell for the battle.
+
+Another Dig tripped him up, giving me enough time to recuperate with a 20-point Restore.
+
+What’s more, I parried with a critical hit, delivering another 364-point strike, reducing the creature by a third of its health. By alternating Dig between creating holes and burying its feet in loose soil, it used its Pandemonium Blade mostly to regain its balance.
+
+Reading expressions of a monster with such alien features involved a lot of guessing, but I sensed no frustration at my refusal to die. The demon moved with no sense of urgency—only the dispassionate obedience that it owed its master and not one whit more. Killing me presented as much adventure to the beast as taking out the trash—an obligation fulfilled without enthusiasm or care.
+
+After fighting in places without loose soil against opponents resistant to uneven footing, I felt the dividends of channeling spells while attacking. I tried to use Moonburn’s Stun to stall the next Breath attack, delaying the inevitable inferno. Instead of taking another 333-point roasting, I Slipstreamed behind the demon and backstabbed it for a critical hit.
+
+Ostrabog expelled his breath at no targets—blackening only the bricks on the courtyard wall. The demon complicated the math by healing with his own Rejuvenate, which doubled mine, which meant I needed to inflict another 180 damage.
+
+By the time I’d cut its health in half, all of Ostrabog’s tusks glowed with shimmering heat. I Transposed with the creature, timing my spell with its deadly breath magic. The maneuver put me in position for another backstab, followed by a Charge that earned me my first damage from the demon’s scimitar—a 57-point attack that brought me down to half-health. For the entire fight, I fought on the brink of death from its breath attack.
+
+Dig did its wonders, harrying my enemy’s melee abilities as I hacked it down to 600 health.
+
+Ostrabog’s tusks glowed by the time I’d reduced the demon to 200 health, but I possessed no counters. I dumped 300 mana into my Mana Shield and withstood the blast. I focused on offense to finish the creature.
+
+When I brought its health to zero, it disappeared with another eardrum-shattering bleat.
+
+Falling to the ground, I tried to activate Rest and Mend, but the game wouldn’t let me—the red frame in my peripheral vision confirmed that I remained in a state of combat.
