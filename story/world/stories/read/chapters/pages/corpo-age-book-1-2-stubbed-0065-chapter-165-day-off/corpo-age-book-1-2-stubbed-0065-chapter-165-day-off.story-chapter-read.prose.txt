@@ -1,0 +1,131 @@
+I spent the next week following my new routine at lab three, along with my superior, Cora. We continued our tests on the same cyberarm as an updated iteration of it appeared every few days.
+
+On my way to the testing room, I noticed the adjacent room had even begun testing it on live subjects as well. They were still using various animals, but I knew sooner or later, they would use humans. Whether they were willing testers or not was another matter to be determined.
+
+The sheer scale and resources put into the project made me feel that my own R&D back at my company was inadequate. They had multiple of these fancy labs to optimize their projects to their utmost, and it was hard not to be jealous of it.
+
+At least this is giving me a taste of how to organize my own labs in the future…
+
+While I was on the job, there was one thing my captors weren’t able to keep track of well. Whenever I wrote the reports or had access to their terminal, I would work on my little piece of software that slipped into their internal network.
+
+For discretion, I slowly created the program throughout several sessions. As cautious as I was, it was hard to fathom they would catch on with the knowledge I had from eleven points in software engineering. From their security software, I gauged that whoever created their systems was only at around eight points if it was calculated using my system.
+
+Still, I couldn’t be too confident, as my hacking skill was only at five points. It was another reason why I took it slow, as my intuition and inspiration for finding loopholes around their security was lacking, therefore it took some time.
+
+“Hey, can I really not take a look at the operating system for the project? I think there’s a lot I can do with it if I had access,” I innocently muttered to my superior once I finished my report for the day.
+
+“Trust me, we’re trying…It hasn’t been decided yet, but we’ve been pushing for your promotion to a full-fledged researcher, but the bureaucracy involved may take some time,” Cora responded as she adjusted her glasses.
+
+I had worked with her long enough now to have taken a peek at the function of that eyewear. It could swiftly measure various emissions in its field of vision and could attain a breakdown of the materials to a certain degree. It required her to focus on the object for some time, but the speedy result justified its use.
+
+It was much more convenient than bringing a sample to the bulky analysis machines. It wasn’t as accurate, but was useful to have when constantly reiterating on a project.
+
+“I see, well I guess I’ll be taking my day off tomorrow then…The company doesn’t do rollover vacation days between months, right?”
+
+“Correct.”
+
+“Okay, then confirm me for taking tomorrow off.”
+
+“I can do that, but…you still aren’t authorized to leave the base.”
+
+“...It’s fine,” I sighed.
+
+“Umm, if you want to buy anything, I could help you with it. I’ll be taking the day off soon too, and will be heading to Ceres Station.” Cora kindly offered upon spotting my expression.
+
+“No, thank you. I’d rather explore the place myself when I have a chance to go.”
+
+“...I see.”
+
+Ending on that, we swiftly made our way back to the main lab where I was picked up by Commander Poltrix once again. It kind of surprised me that a mighty commander would personally escort me every day, but also kept me on my toes, seeing how they valued keeping me in captivity.
+
+However, I wouldn’t be staying put for the next day.
+
+When I returned to my room, I instantly jumped into my bed. It was reassuring that throughout this entire time, no one had come to see me after the initial interrogation. They left me alone for the most part, and that was how I liked it.
+
+Based on that fact, it allowed me to come up with a plan to ensure my chances of survival remained high no matter what happened.
+
+The main challenge I currently faced was the lack of information. I didn’t know what was going on in the outside world or when my guardian angel would save me. If we could somehow coordinate, then the ease with which I could escape would rise drastically.
+
+Escaping wasn’t the only issue either. If that was the only consideration, I could likely somehow do it myself. However, that would just get Nova Tech on our asses, hunting me down and harming my company in the process. I could only escape when my backer has returned to keep them in check.
+
+The next morning, I woke up slightly earlier than usual. I grabbed a terminal and pretended to mess around with it as I began connecting with the program I had in their systems.
+
+I only had access to whatever the labs could, and I found all the defensive emplacements were on a separate network, likely controlled by their main security room. At least the lab could view a majority of the camera feeds throughout the facility.
+
+This was my first time accessing their systems directly, and I didn’t dare to make any noticeable changes, like shutting down or looping their cameras. That was because I feared it would leave any trails behind. I simply viewed where they had cameras and at what angles, especially the ones near my room.
+
+After getting a good grasp of their security, I began going through my usual morning routine and prepared myself for the new day. I hit the key to open my door and began to step out, only to abruptly turn back.
+
+“Oh, right…how forgetful of me,” I muttered toward the hidden camera.
+
+However, as I did that, I quickly had my Shade execute the program I had compiled for it. It was a function to enable my active camouflage at the same time as projecting a hologram of me. It allowed my real body to turn invisible while a projection of me returned to bed.
+
+It took some time for my Shade to create enough nanomachines to be left behind that could maintain the projection, but thankfully, it could make use of my handheld terminal’s battery pack instead. It killed two birds with one stone, as the terminal’s battery draining would be more in line with someone making use of it.
+
+Completing my switcheroo, I carefully monitored any alerts in the security system using the internal terminal within me. It was only after several minutes of silence that I dared to leave the vicinity of my room.
+
+Now free to walk the silver halls of this facility, I navigated through it using the information from their systems. The entire place was way more complex than I had thought, and the exit from my room required going up and down on several elevators. However, I didn’t head straight for the exit and instead went to visit my current superior.
+
+Following along the arrows projected directly onto my optics, I soon reached the employee dorm area for researchers. I found a spot hidden from view and waited patiently outside my target’s room.
+
+It took an entire hour before she emerged. She must’ve slept in nicely, but I was glad to see Cora all dressed up, ready for her day out in the largest hub around.
+
+I followed her through the base as she made her way out to a transport ship.
+
+There were several reasons I waited for her. One, I needed transport for my trip to Ceres and on the way back. It would be too difficult otherwise, with having to find the transport schedule and stowing away.
+
+Second, to traverse out of the base, there were heavily reinforced doors and checkpoints. While I believed I could slip past their notice, that was only if the doors were already open. Or else they would find it quite suspicious that their doors were opening by themselves.
+
+Cora soon joined up with several other Nova Tech employees as they boarded the ship inside a colossal hangar.
+
+I could spot dozens of ships in here that were at least ten times bigger than my VTOL, and even smaller fighter aircraft.
+
+This research facility must be important to host this large fleet.
+
+It was nice they scheduled all their employees’ days off in groups, or else I would have to give up if she rode on a small one-seater.
+
+I quickly slipped onto the ship and found myself in a nice spot in the washroom to hide from sight lest I strain my Shade too much. It was only when my Shade was back at a hundred percent that I began exploring the ship.
+
+Soon, we could feel the vibrations of takeoff, and I focused on the screens found around the ship, depicting the scenery outside. We quickly picked up speed and exited out of the energy shield protecting the hangar. In a matter of seconds, we sailed out into the starry seas.
+
+The view wasn’t as beautiful as I thought, because there were numerous asteroids floating around us in every direction. That didn’t change throughout the entire flight.
+
+It only took us thirty minutes to arrive at a gigantic asteroid that I momentarily thought was a planet of some sort. To be precise, I believe it was classified as a dwarf planet, but everyone still called it an asteroid for some reason.
+
+The surface of the dwarf planet was completely bare and filled with craters and uneven terrain. We quickly descended and landed on a helipad-like platform on the surface. Then, the platform began to rumble as it brought our entire ship underground.
+
+The ship elevator took some time before the movement finally stopped.
+
+The voices of the researchers could be heard as they made their way to the airlock
+
+“Finally, back after two months. I can’t wait to go shopping.”
+
+“I’m going to party all night instead. It’s been so long, I can’t stand it!”
+
+“Hey, Iona, are you going to try to find someone using that dating app again?”
+
+“Of course! My superior doesn’t allow workplace romance, so where else will I find my true love?”
+
+The conversations never died down, but the sound of the airlock soon drowned them out. A moment later, all the Nova Tech employees streamed out of the ship.
+
+I didn’t waste any time and caught up with Cora, and continued following her. I needed to find where she was staying the night so I could follow her for the return trip tomorrow.
+
+It was at times like this that I wished I still had my Nyes and other handy tools.
+
+Maybe I should look for parts and a workspace to build up my arsenal…But I don’t have any money and if I access my accounts through the connections around here, it’d be an instant red flag if they monitor such traffic.
+
+Cora made her way out of the spaceport and found herself in Ceres Station proper. It wasn’t anything like Aegis that was hard to differentiate from megacities. Instead, it felt like I entered some giant facility, owing to the cold metal walls everywhere and a low ceiling. I wasn’t surprised as I watched us head underground.
+
+However, even an underground facility like this had a spacious plaza that reminded me of the interior of cruise ships. I watched as numerous people frolicked around, with an unsurprising majority of them being corpos.
+
+As Cora made her way to her lodgings, I spent my time deliberating if the people in Lion City, who operated my account, would leak information about me if I made use of their services. It only took me a few moments to realize I shouldn’t tempt the devil. There were too many moving parts, and the corporations could have cyber security specialists monitor the less sensitive records, like transactions. It was hard to say which corporation could outsmart Lion City.
+
+However, that left me with no money.
+
+After following Cora into a store, that turned out to be a hotel. I left after noting down which room she stayed in, and I swiftly found myself alone and broke.
+
+With no money or tools at my disposal, I had to figure out a way to contact the outside world, and more importantly, the people I trusted.
+
+It didn’t take me long as my eyes were drawn to the passerby sipping a cup of coffee.
+
+What do they say again? Extreme circumstances call for extreme measures, right?

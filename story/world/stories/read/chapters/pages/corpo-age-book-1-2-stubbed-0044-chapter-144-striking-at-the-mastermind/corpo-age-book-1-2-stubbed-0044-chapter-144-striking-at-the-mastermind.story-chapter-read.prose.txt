@@ -1,0 +1,155 @@
+We explored several alternative methods in our retaliation against GrainScape Tech for instigating the incident with Sensorial before we decided on a general direction. It was important to hit back at them, so they knew when to back off.
+
+No definitive decision has been made as we gave our intelligence department some time to gather all the latest developments and lay the groundwork first.
+
+This meant I got my long-awaited free time. Of course, I spent it all in my workshop to clear away the pile of work awaiting me. I alternated between the AI and the power armor projects.
+
+It was mainly optimization, as they both awaited the last pieces of their respective puzzles.
+
+For the AI, I was getting the framework done and would be making another pass at it once I leveled up and placed more points into software engineering. I had never broken past the ten-point mark before with my system, so I wasn’t sure how big the difference would be. That made me more conservative regarding adding any major features.
+
+For the power armor, I struggled with the old issue of balancing the defenses and mobility of it. The stronger the armor, the more heavy it would be, which made it less mobile. It was hard to strike a balance that satisfied me because my power armor’s main advantage would be our signature stealth technology.
+
+Having an invisible tank was nice and all, but if it couldn’t navigate to the right location quickly enough or if it couldn’t live up to its role as a defensive bulwark, then it would be a defective product in my mind.
+
+I was both the creator and client of this product, so it made it difficult not to pursue perfection.
+
+My tentative solution was the high technology I once encountered against the body of QuickLink’s CEO. I still had the salvage from that encounter, a small shield generator that projected a shimmering forcefield of some sort that could easily block bullets.
+
+We only managed to get around it by making use of explosive rounds, as it seemed it couldn’t fully block the shockwaves it generated. It must be because of its design to allow for airflow, which made it weak to shockwaves as a consequence.
+
+There was nothing I could do about that without understanding how the device even worked. For now, I gave up on understanding its principles. I planned on waiting for the AI to be complete first so it could help me in replicating it as it was.
+
+After an entire morning in my workshop, I headed to our daily update meetings. They were to give us the latest updates on the matter regarding GrainScape.
+
+Once that was done, I would normally have a quick lunch with Thorne and Claire, but today, I received an invitation the previous day, so I had other plans.
+
+I boarded a Wraith and exited out of our compound with a small convoy, heading toward the greatest landmark in all of Elevate City, the space elevator.
+
+We passed the ever-present stringent security checks and arrived at the mall attached to the spaceport.
+
+I had my optics guide me directly to the restaurant, where I found a familiar bald man already waiting for me at the table.
+
+“Joey, you sure got here quick.”
+
+“What can I say? I got to avoid the traffic.” He smiled.
+
+Right, he has his own aircraft to chauffeur him around.
+
+We made small talk over our lunch and only got into the core subject matter when the after-meal tea arrived.
+
+“So, Rollo. Tell me about your recent incident.”
+
+“...You should already know most of it. It was hardly covered up or anything. In fact, our customers have been going on about it endlessly online.”
+
+Joey leisurely picked up his cup of tea and took a sip before replying.
+
+“You’re right, so you should know that it’s been a hot topic among members of our alliance. But I want to hear it directly from you. I’m sure there are a lot of details missing from what is publicly available.” He said as he gestured out‌ the window that overlooked the city.
+
+“You’re right…”
+
+I went on to give him the rundown, going into detail on the part regarding who the mastermind was. His expression changed when I mentioned GrainScape, which told me he hadn’t known yet.
+
+“That is a problem…”
+
+“In that case, will the alliance be getting involved?”
+
+He immediately shook his head.
+
+“There are no issues with their actions, as it didn’t break the peace treaty we signed. It’s their hostility that is the problem. If they are acting on their grudges, then others within the High Gate Group may do so as well. We’ll need to discuss how to address this with the alliance to prepare for the future when the contract expires.”
+
+While it would’ve been ideal to have a contract that lasted decades, the fees for these official contracts that were enforceable by the consortium weren’t cheap. Each corporation involved increased the price, which was why our contract was only for two years.
+
+Joey’s reply was quite disappointing, to say the least. It implied that we were on our own in this matter, even after knowing the identity of the perpetrators.
+
+After discussing some potential avenues we could mitigate future risk, we agreed to explore the ideas in a future alliance meeting and parted ways.
+
+All the talks about potential fighting reminded me how much more we should be investing in our security department. Not counting infiltration and ambush operations, I would say my company was average at best in other areas compared to other corporations we were dealing with.
+
+The problem was that we were still an F-Class company that had middle-tier enemies that ranged from E-Class to C-Class.
+
+On paper, we were one of the strongest F-Classes around, but that was simply because we were taking the promotions slow due to our financial considerations.
+
+“How can we strengthen our men?” I accidentally muttered during our ride back into the city.
+
+“Hmm, with training, cybernetics, and equipment, of course,” Thorne replied while flexing his prosthetic arm.
+
+“I guess in the short term, we can direct more money into procuring better weapons and cybernetics…”
+
+“That will help, but wouldn’t it be better to create cybernetics ourselves? You are pretty damn good at it, right?”
+
+“Right…”
+
+I rubbed my shaved chin as I fell into contemplation.
+
+I definitely had the knowledge and skill regarding cybernetics with ten points in it, but there were many reasons I hadn’t gone with designing every single piece of cybernetics for myself.
+
+One of the main reasons was that it took a considerable amount of time to design and optimize each one if I wanted to get it right. Optimization was the name of the game when putting out a good product. You had to tweak the product repeatedly, so you had something that could perform well while keeping it compact and durable.
+
+It hadn’t been that long relatively since our company was founded, so we were constantly held back by time.
+
+Another reason was because of the limited areas I was knowledgeable in. I had ten points in Cybernetics Engineering, Software Engineering, Electric Engineering, and Stealth Technology. While that seemed like a lot, it was still a drop in the bucket when you considered all the other disciplines of science there were. There was only so much one person could do.
+
+Cybernetic engineering only encompassed how to integrate these electronics into the biology of the human body. It didn’t include the other technical know-how to give the products a competitive edge compared to what was on the market. That was why I only designed cyberware in the areas I specialized in, such as stealth.
+
+If I wanted to design my own cyberarm, I would need to delve into other areas like mechanical engineering, physics, and material science. If I wanted any other features, I would need the relevant know-how as well.
+
+I wish I could just hire experts in those fields, but they were just too hard to come by. Other corporations either snatched them up or trained their own.
+
+Maybe I should consider starting my own university or something.
+
+That was when an old project resurfaced in my mind.
+
+The specialized SAIDs that came with hypnopedia features which Claire had been using were a strong tool in learning. It made use of cassettes that each contained different knowledge and helped the user absorb all the new information during sleep.
+
+However, creating the cassettes required a lot of human experimentation for each type of cassette. When the content differed, you needed to find other ways to enter that information into the brain safely. Otherwise, it could easily drive the user insane or have other issues of the mind.
+
+I couldn’t choose to go with these human experiments right away when I knew the alternative of having an AI overwatch the same experiments would drastically decrease the fatality rate.
+
+Another project where the assistance of an AI would exponentially speed things along…
+
+With my determination to finish the AI renewed, I briskly walked back into my workshop.
+
+A whole week later, our intelligence department alerted us that they had gathered everything they could without alerting the opposition.
+
+We knew they were on guard since the incident ended with Sensorial, which was why I hadn’t proceeded with our cooperation plan with them yet. We wanted GrainScape to be guessing in the dark before we attacked.
+
+The initiative was on our side, and it was their turn to go on the defensive. Based on experience, I knew playing defense in the corporate world was much harder than offense. This was especially true the bigger a company was.
+
+I flew over to NLA and met up with Vin at our new branch headquarters. Gone were the days when it was just a bunch of warehouses, and we now had a proper building for ourselves. It reminded me a lot of our old headquarters in Elevate City, as it only stood five stories tall.
+
+“Rollo, we just got some new updates while you were in the air. Here, take a look.” Vin handed me a terminal.
+
+I glanced at the report about a bunch of shipments with their routes and destinations.
+
+“It’s probably fine in the other places, but are you sure they haven’t paid off the inspectors around here?”
+
+“Of course. Food is something everyone needs, so it isn’t so easy to bribe these inspectors with a shared interest among so many corporations preferring clean food. Only a few companies even bother to grow their own provisions, after all.”
+
+“Then let’s put our plan into action.”
+
+I noticed Vin’s gaze wander from me to the cyborg behind me before he added.
+
+“Just so you know, Rollo. Our plan doesn’t include you going out into the field. Please let our employees do their job and earn their keep.”
+
+I knew he was just the spokesperson, so I immediately glared at Thorne.
+
+Issiah - ??? Corporation
+
+“Issiah, how did you get this information? I thought that man was quite territorial about his turf.”
+
+“Well, we just had him leave. It wasn’t easy, but it seems like our little distraction out in the Kuiper Belt did the trick.”
+
+“And the agent you sent is reliable?”
+
+“Of course, I activated my best undercover agents. There was no way I would’ve let this opportunity to gather intel slip by, even at the cost of one of my best assets.”
+
+“That agent? With the way you conserved him, I thought he would’ve been spending his entire life as a mercenary.” The old man took a sip from his cup and sighed. “Anyway, about your report, this is quite concerning, but not to the point we need to act yet.”
+
+“Are you serious? That person values them, so we could surely make use of that.”
+
+“We have other things to worry about. It isn’t like this person is the same kind of fool who destroyed the old elevator. We can put it off for now. We can always take action later once we receive more concrete information. Your current mission is only to keep your eyes and ears open.”
+
+“...Yes, sir.”
+
+Issiah could only sigh once the call ended. He looked down at his home planet, then at the space elevator poking out from it, and sighed again.

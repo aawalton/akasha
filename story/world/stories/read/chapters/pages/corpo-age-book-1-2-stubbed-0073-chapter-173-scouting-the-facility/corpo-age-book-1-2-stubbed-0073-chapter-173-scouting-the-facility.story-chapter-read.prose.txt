@@ -1,0 +1,141 @@
+The next day, I returned to the lab once again. I briefly swept my eyes across the fenced-off test subjects, but couldn’t spot Polina, the woman who I had messaged last night.
+
+I didn’t mind, as I had other avenues to contact her and I’d rather not raise any suspicions.
+
+The senior researcher made a short announcement on the results from yesterday and what we would be working on today before we disbanded into our usual teams. It seemed the neural link function proved to be effective enough to be added, but the other areas of the bio-coprocessor needed more work.
+
+We would be focusing on these other components first, but we had to ensure any changes were compatible with the neural link. Just from the tests yesterday, four percent of the subjects had died. The makeshift prototype we put together was prone to being overloaded, so we needed to come up with a different architecture to handle the load.
+
+For today, we would be once again brainstorming ideas for components that would complement the new neural link. The head researcher was kind enough to give us each a report that outlined the issues that had arisen from the tests yesterday.
+
+The prototype bio-coprocessor we had overloaded too easily due to all the input it had with the thoughts a person had. Combined with its normal functions of elevating the reaction speed of the brain, it made it overheat, burning the victim in the process.
+
+Our lab would have an open line with the material science department to come up with solutions. Problems like these usually weren’t solved by material alone and had to be paired with an equally brilliant architecture.
+
+We were allowed to fabricate our own prototypes and run some tests using the simulation software they had. The best contenders would then move on to live testing after some time. I suspected we would have at least a week before that happened since the material science department would likely need more time.
+
+I mindlessly accomplished our tasks throughout the workday and was once again escorted out by Commander Poltrix himself.
+
+I let out an exaggerated yawn as we made our way back to my room.
+
+“Thanks for walking me again, commander. Glad we could become such great friends. Good night.”
+
+He wordlessly turned around and made himself scarce while I went into my room. Once inside, I dove headfirst into my bed as I mentally dove into the terminal within me.
+
+*Polina, how did it go with getting your people united and finding a pilot?*
+
+*...I’m still working on it. It’s not easy to discreetly make contact with everyone.*
+
+*Very well…You should still have some time while they are working on a new prototype. There shouldn’t be any tests within the next few days.*
+
+*I’ll try to hurry it up…Those sick fucks are going to get us killed if we continue with their experiments. The people who had lost family in that last test are not…taking it well. I’d rather not see it happen anymore.*
+
+*I’ll start formulating a plan, too.*
+
+After some more back and forths with my co-conspirator, I went to take a shower and prepared myself for bed. I walked over to the door and made of show of pretending to check if it was locked and ‘accidentally’ hit the button to open it instead.
+
+With controls of the cameras, I quickly swapped with a holograph projection of myself while the real me exited.
+
+I had previously ventured out to Ceres Station, so I had some basic idea of how to sneak out, but if I wanted to get a hundred people out, the requirements were completely different. In the first place, I needed to secure a vessel or multiple of them that could hold that many people. We would preferably have one large ship, as we weren’t even sure if we had a pilot yet.
+
+Still, I needed to ensure the logistics of getting so many people to the hangar were in order.
+
+That was why I began exploring this facility. I needed to know the ins and outs of the security team here to accomplish my goals. I may have access to the common area security cameras, but it wasn’t enough. I needed to be more proactive rather than reactive to their movements.
+
+I started off by searching for the security room. If I got lucky and was able to sneak in, I would be able to gain full access to this facility. Despite the access I got from the network, I only had partial access to everything. They had cleverly segregated the security controls, which meant I had no access to their defensive emplacements and the encrypted comms channel their security personnel use.
+
+Those controls were all under Commander Poltrix. Not even Dr. Chen, the head researcher, was likely to have those.
+
+If only the access I got from the lab’s terminal gave me the layout of this place or something…
+
+Forced to scout things out the manual way, I began deploying my new Nyes.
+
+During my trip to Ceres Station, I was able to buy some parts from the leftover credits I had. It allowed me to feed enough materials to the repurposed nanomachines I had within me to replicate Nyes.
+
+After losing access to them, it made me appreciate its ability to scout things out for me even more. I wasn’t a cyborg superman or anything, so it would be fatal for me to get caught off guard.
+
+I briefly explored the immediate vicinity of my room before moving on after finding nothing of use.
+
+After finding the stairway up to the floor where my usual lab was, I veered off in the directions I had yet to explore.
+
+Unsurprisingly, I found fortified entrances that were almost identical to the one my lab had. Seeing how I worked in lab three, it was within reason there was at least a lab one and two.
+
+I skipped out on going inside, as the security at the entrance wasn’t something I could easily bypass. They had two sets of doors to go through, and I suspected they had weight sensors in the airlock portion of it.
+
+Moving along, I soon passed by a patrol of two power armors marching along. I smiled when I remembered one of my older infiltration missions back in the day and moved to replicate what I had done previously.
+
+I closely tailed the patrol while maintaining my active camouflage.
+
+Unfortunately, it didn’t go as well as I had thought as they continued into a room with nothing interesting in it. It was a break room where they plugged in a cable into a small compartment of their power armor as if they were refueling an old car.
+
+I guess even with a mini nuclear reactor; they needed to refill other supplies like water and remove the waste accumulated inside. Otherwise, it would be impossible for them to operate in it all day nonstop.
+
+My Shade was close to its limits, so I had to break off and hide somewhere to allow it to rest.
+
+By the time it recovered, the patrol was nowhere in sight. My scans with my Argus couldn’t detect too far as the materials in this facility blocked all signals.
+
+I glanced around at the unfamiliar area I was led to and began my scouting mission once more.
+
+I didn’t even make it five steps when I noticed someone heading my way, and I quickly approached them.
+
+What I found wasn’t the patrol I had been hoping to see, but a tall researcher instead.
+
+He was alone and pushing a long metal cart. Curious, I decided to follow him as well.
+
+He didn’t go far as he soon stopped before a heavily reinforced door that looked like it could withstand a large explosion. He swiped his handheld terminal on the side of it and it swiftly opened.
+
+I followed him inside to find an entire vault filled with cybernetics arms. He didn’t hesitate to enter some information into the terminals before one of the lockers popped open and he began to transfer the contents of his cart over.
+
+I only took a moment to watch him stow away some prototype cyberarms before I sprang into action.
+
+I had found one of their vaults for their latest cybernetics. As Nova Tech was one of the premier corporations dealing in cybernetics arm replacements, I didn’t hesitate to window shop around. I spotted another terminal similar to the one the researcher was using and plugged into it.
+
+The cyber security wasn’t that impressive, to say the least, but I understood why they would slack off on it. The system was isolated and only personnel who had passed through the strenuous security checks of the base would be able to get here.
+
+I quickly breached into the system and downloaded the files before I skimmed it. I didn’t have enough time to go through the details, but it wasn’t hard to see which ones had the higher performances.
+
+While I would like to design my own, nothing said I couldn’t take inspiration from others or even use their products as a stopgap solution. I glanced over to find the researcher still busy unloading the cart and I decided to examine a real sample.
+
+I then ordered the terminal to unlock the cabinet to the cyberarm that I believed to be the most high-end model here that was reserved for internal use. I partially disassembled it to inspect its interior. While I downloaded the schematics, sometimes being able to see the real thing helped. I then returned everything to normal before rejoining the researcher on his way out of the vault.
+
+When I have the time later, I should upgrade. It’s long overdue, and I’ve been getting looks from the other corpos as they were blatantly metallic prosthetics. I needed to install a layer of fake skin over to blend in better.
+
+I went off on my own again to allow my Shade to rest before resuming my exploration.
+
+I ended up finding a dead end after passing by another lab entrance and was forced to double back. I then ventured toward the area closer to the hangars, but before I made it halfway there, I spotted a familiar figure.
+
+A young woman casually sauntered through the hallways by herself.
+
+I immediately recognized Raven, the woman who had interrogated me. Repeating my plan, I tailed after her this time and was led to another part of the facility unknown to me. To my surprise, an imposing power armor was waiting for her at her destination.
+
+The helmet of the power armor was opaque, so I couldn’t see the face of its user, but I didn’t fail to recognize Commander Poltrix, who had escorted me every day.
+
+The power armor he wore was of the same model as the rest, but it had these small modifications I could spot on the exterior plating. Plus, the shoulder had a unique insignia that likely denoted his rank.
+
+“Go on in. I already entered my codes,” a deep nasally voice resonated from the speakers of the power armor.
+
+I made a split-second decision and followed Raven inside to find a large terminal that stood alone in the room. She quickly interfaced with it, and soon a video call was established on the big screen above.
+
+“Henry, Sir. Nothing abnormally has happened, and the captive is behaving normally,” Raven reported while saluting to the screen.
+
+“Good, good. There are finally some new questions I wanted you to ask him. Please prepare to receive the files I’m sending you.”
+
+Raven took a brief moment to download and skim over the file.
+
+“Received! Thank you, Sir.”
+
+“One more thing. Be prepared to move the captive. It may or may not happen, but I want you to be prepared. Is that understood?”
+
+“What? Should I be expecting hostiles, sir?”
+
+“Those aren’t answers I can give you. Just carry out your role.”
+
+“...Understood!”
+
+The two then went on to discuss the details of how I should be transported in the event this Henry gives the orders and I heard every last bit of it.
+
+If they are preparing to move me, does that mean my guardian angel is back? Otherwise, something must’ve happened that is getting Nova Tech on guard…
+
+With that food for thought, I exited the room with Raven. I found Commander Poltrix standing there, waiting for Raven. They exchanged a few words before they parted in different directions.
+
+I can think about that later. Now is the time to follow after my prime target, Commander Poltrix. If anyone will lead me to the most secure areas, it’d be him!

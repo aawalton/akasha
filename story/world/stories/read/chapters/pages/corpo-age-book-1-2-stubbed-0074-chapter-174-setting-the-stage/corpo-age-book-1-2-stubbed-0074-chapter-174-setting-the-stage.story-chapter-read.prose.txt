@@ -1,0 +1,149 @@
+Having parted with Raven, Commander Poltrix didn’t dawdle and walked at a brisk pace. The large figure in power armor noisily walked past a patrol without stopping. The patrols had to quickly move out of the way and salute the man, not daring to move until their superior was a distance away.
+
+I continued following him through the snaked corridors of the facility. His fast pace actually worked out better for me, as my Shade was on a time limit.
+
+We soon descended some stairs and arrived before another fortified entrance that appeared more like a vault door. It was identical to the ones the labs used, so I believed there would be yet another door like that behind it, forming an airlock.
+
+That was why I stopped pursuing him. The security to enter the lab included weight sensors, and I couldn’t afford to be trapped in there if I got discovered. I didn’t even dare to slip a Nye on him for fear of the sensors.
+
+Instead, I placed a Nye to monitor the situation just outside and retreated to let my cybernetics rest.
+
+With that set, I began exploring the facility again. I had my SAID confirm the layout I got from the lab’s terminal, searching for any discrepancies. Then I returned to my room when it was almost morning.
+
+I took a nap to refresh myself and got prepared for another day at the lab.
+
+Meanwhile, I made sure to monitor the Nyes I had left outside the door the commander had led me to. My next plan required learning who went in and out of there and their schedule.
+
+Like that, a week quickly passed.
+
+I continued to work on the bio-coprocessor project and while I did that, I occasionally messaged Polina about her status. She had been slowly getting to know the other captives and gaining their trust. She had even found an old veteran who had flown attack helicopters before in some old war.
+
+We weren’t sure if he would be able to fly a spaceship, but he was the best option we’ve got so far.
+
+However, the most important results throughout this week were from my Nyes lying in wait. While I had to go visit daily to refresh their batteries, my effort had paid off, and I now had a complete schedule of who went to and fro from the alleged security room.
+
+With that information, I planned to infiltrate into that room tonight.
+
+Repeating the same steps I have been using to sneak out into the facility. I swiftly arrived at the fortified doors in question.
+
+This time, I wouldn’t be going in with active camouflage enabled, but instead, projecting an image of someone else. I had fretted over whom to disguise myself as over the past week. There were quite a few security officers to choose from, but they all had a huge drawback.
+
+If I were to replace them, I would have to incapacitate them somehow. I couldn’t risk anyone spotting two of the same person at the same time. There was also a possibility of picking a time when I knew they would be out of the way, but that was risky as well.
+
+Even if I did accomplish it, replacing someone had a huge weakness. If anyone who knew the person asked questions, they could likely tell something was off. I didn’t think sneaking in after their shifts would work either, as they would be questioned by their peers.
+
+That meant there was really only one or two choices. I needed to disguise myself as someone no one would dare to question, which meant the people in charge. I would either take on the guise of Commander Poltrix or Dr. Chen.
+
+I quickly chose the commander as he was the more intimidating of the two and it would be more natural for him to be there. The head researcher would rarely visit such a place unless there was a reason.
+
+I rushed to the security room after work, as I planned to take advantage of the time when the commander was accompanying Raven. Raven would contact her superior using the terminal in this comms room every day, and it was guaranteed the commander would be there.
+
+Once my Shade was adequately rested, I quickly projected the image of a power armor around myself as I began wrapping pieces of junk metal around me to weigh me down. It was easy enough to procure by skimming it off the empty rooms. Combined with the commander escorting me every day, I easily got a detailed scan and its weight profile.
+
+I strode to the front of the huge vault door and waited for it to open.
+
+Thankfully, it did.
+
+I tried to imitate the commander’s confident posture and walked into the airlock. Then I stood still like I did every day when entering the laboratory. Gases sprayed into my chamber as various active scans were swept over me.
+
+I knew my stealth tech would hold up to it, so I stood there with confidence, just like Commander Poltrix.
+
+“Commander Poltrix, I thought you were in the comms room.”
+
+It was during these times that I was happy I had the foresight to install my auditory implant, the SocialCorp Echo IV. With ample samples of the commander’s voice from your daily ‘conversations’, I replicated his voice with ease. Still, I had to keep it short.
+
+“Mind your own business,” my voice spoke out in a deep and robotic tone.
+
+“...”
+
+Before I knew it, the second vault door opened, allowing me inside.
+
+Instantly, I found myself in a dim room that had dozens and dozens of screens plastered onto the walls. They depicted various scenes from the exterior of the facility, looking out into space, to the various labs and residences.
+
+There were half a dozen people laying on a neural interface chair, hooked up to the terminals, likely cyber security experts on standby. Behind them, a dozen other officers were each at their own desk, going through huge walls of text.
+
+Several of them turned their heads to take a look at me, but they quickly looked away when they recognized me.
+
+I spotted a large half-circle desk near the center and moved quickly toward it. However, just as I was halfway there, I noticed one of the screens in the room was showing a sliver of the real Commander Poltrix’s shoulder from the security cameras.
+
+It made me panic for a second, but thankfully, there were simply too many screens for anyone to have noticed yet. Plus, I doubted they could recognize it from just the shoulder at a glance. That was unless he walked fully into the frame.
+
+Still, I quickened my pace and moved toward the desk that I presumed was reserved for me.
+
+I let out a sigh of relief at seeing the nameplate on the desk, seeing it belonged to the commander, and swiftly hopped onto the terminal.
+
+One minute passed as I tried to breach into the commander’s terminal. I would occasionally steal glances around the room to see if anyone had noticed any discrepancy, but thankfully, they didn’t.
+
+Three minutes passed before I got access to the terminal and I quickly enlarged several other camera feeds to cover up the screens.
+
+“Commander?” one of the nearby security officers asked with an uneasy voice.
+
+I was just about to respond when I remembered how the commander always used to respond to me.
+
+I turned my head toward the speaker and glared him down.
+
+“Problem?” I blurted out after seeing the man break eye contact.
+
+“...No, Sir.”
+
+Even with the camera feed covered up, I knew it still wasn’t entirely safe, and I had limited time. I quickly scanned the room and recorded it while I downloaded everything I could from the terminal.
+
+Their system was air-gapped, so this was my only chance. It also let me know that they didn’t have direct control of the cameras either, as their systems only receive the feed in one direction from the other system I had access to. This meant that when it was time for me to take action, I could tamper with the cameras if I didn’t mind them finding out later.
+
+However, I couldn’t place a backdoor program to automatically disable their turrets and access the blast doors for the same reason. I was only able to leave myself a backdoor access to make it easier next time, but I would still have to return to in person sabotage them.
+
+If only I knew exactly when we would carry out the escape plan, then I wouldn’t have to come back again. But if I use this option, I might not be able to do it again when the time comes that my guardian angel comes to rescue me…
+
+Thorne - Halls Corporation
+
+A few days after Thorne and Lana’s meeting with the Grindhouse Rebels, they received a report.
+
+One of their couriers had dropped by this morning and handed off a data chip to Thorne.
+
+Throughout this time, their group had been scouring the streets for information. Of course, they weren’t blatantly asking about the movements of a corporation’s key figure. They simply gathered any type of information they could.
+
+They were in unfamiliar territory, and every bit of information could prove to be a boon in the future. Their biggest harvest was the information regarding the various factions at play on Ganymede Station, both among corporations and the common folks.
+
+“Peng is hungry. Is it lunchtime yet?”
+
+No one in the room answered Peng, not even his childhood friend, Andrew. The tension covering the room was so thick that one could slice through it with a knife.
+
+That was because everyone was waiting impatiently for Lana to analyze the data on the chip they received.
+
+She was going through it at blazing speeds, and her allies gave up on watching her work, as they couldn’t understand what was going on. They all gave up and sat on the nearby couch while they waited. The only noise in the room was from Peng’s mumblings and the clackly noises from Lana typing on her keyboard.
+
+After a whole hour, Lana finally stopped typing, and silence consumed the room. It lasted a split second as Thorne instantly stood up.
+
+“So? What did they give us?”
+
+“A lot of unusable nonsense, to be honest. There was a whole file on the movement of Titus Adiar’s wife and children. None of that is usable unless we want to get him really mad quickly.”
+
+“What? So they were useless, after all?”
+
+“Calm down. I said a lot of it, not all of it. These rebels or whatever they’re called may not have sifted through the info, but they do have a good quantity of it. They got the record of every restaurant Titus has visited throughout this past year and a half. Despite this place mainly catering to the average workers, it doesn’t change the fact that there are several corpo compounds around. There are some high-class restaurants around and I think I have a pretty good idea which one he will visit tomorrow.”
+
+“...Will it even work if we just grabbed a table near to them or something?” Andrew asked.
+
+“Not a chance,” Lana decisively answered. “Their security will probably check the entire building and go through the guest lists. Plus, they’ll also be in their own private room.”
+
+“That’s fine. We don’t have to talk to them in person right away. It’s enough to leave them a message,” Thorne interjected.
+
+“What do you mean? You want us to place a terminal under their table that will ring when they sit down or something? This isn’t the movies, you know? No way their security will miss a suspicious terminal lying around.”
+
+“Come on Lana, what do you think our company specializes in? We’ll just have to leave a message they won’t be able to discover.”
+
+“...”
+
+A few hours later, the team headed out around the time most people would be heading to bed.
+
+They didn’t even bother using a car to avoid being tracked down. Their entire squad consisted of people in power armor, so they had ample leeway to utilize both their active camouflage and holograph disguises to navigate through the city.
+
+Their destination was in an eye-catching area, inside one of the walled-off corporate compounds. However, the difference was that this particular compound wasn’t entirely closed off.
+
+It was owned by a corporation entrenched in the retail and hospitality sector, which meant that built a small mall within their compound that was open to others. Of course, only the wealthy were let it, but it didn’t change the fact it was opened to the public.
+
+Numerous other corpos would visit during their leisure time. This mall had everything except hotels, as the owner didn’t find it worth investing in such a low-traffic destination.
+
+Just as the malls closed down for the night, three figures slipped through the shadows and made their way inside.
+
+Unbeknownst to the owners, the stage was set.

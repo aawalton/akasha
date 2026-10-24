@@ -1,0 +1,151 @@
+The discussion among my fellow researchers in laboratory three only lasted the day. When I arrived at the lab the next morning, I found its interior layout had drastically changed overnight. They had moved around a lot of the machines to clear an open area at the center. They fenced off that open area to create a holding cell for the dozens of people currently trapped inside.
+
+They all wore plain grey clothes and despondent expressions. Their age varied as well, ranging from young children to the elderly.
+
+When I laid eyes on the scene, I couldn’t help but freeze up for a second. It reminded me of the experimental lab where I found Thorne and Claire, except worse. They were all forced into one cage together.
+
+A voice called out to me before my thoughts spiraled.
+
+“Good morning, Rollo. Isn’t it so exciting to embark on a new project?”
+
+I turned to find Cora, my immediate superior, with a wide smile.
+
+“Umm, I thought we were still quite a ways from having a working prototype. Do we really need test subjects already?”
+
+“Oh, it’s better to be prepared than not. We need to record enough data about their condition first and then we can also use some of them to test out existing market products for comparison.”
+
+“...I see.”
+
+I was soon urged to follow my superior out of the main area toward the same cubicle room we had worked in every day. From there, I found all the usual assistants already there, but along with a few new faces.
+
+“Good morning everyone.” Cora declared as she clapped her hands to draw their attention. “We’ll be spending most of today on our terminals, coming up with improvements to existing market bio-coprocessors, so let’s get introductions out of the way first. To start, my name is Cora, the Associate Researcher in charge of this team.”
+
+Going around in a circle, we each introduced ourselves. When everyone was done, Cora turned to me.
+
+“Ryan and Boyce, both of you will be under Mr. Halls starting today. Work hard, you two.”
+
+Two young men shouted out in affirmation at her orders, drawing my attention to a tall young man with a left cyberarm while the other was bulky, like a wrestler.
+
+With the introduction done, we all soon logged into our own terminals and began our work. Cora hadn’t settled on a direction yet, so we all could explore existing products freely until she had orders.
+
+Our terminals had a detailed package with the technical specifications of most existing bio-coprocessors on the market. I quickly skimmed through the list and stopped when I spotted the product line I used.
+
+I opened up the file named SocialCorp Lightning and began studying the very cybernetic implanted that was in me right now. As one of the premium options available, it had high specifications compared to what was commercially available, but I was sure most of the corporations kept the best for themselves.
+
+After all, reflexes could give their security department huge advantages over other adversaries who didn’t enjoy the same benefit. Immediately, the image of the Ferrumus Corporation operatives came to mind, as I remembered them deflecting bullets with nothing but their sword. Whatever bio-coprocessor they had must be top of the line.
+
+I had always been interested in developing a bio-coprocessor myself, but the inner workings of the brain were complicated and it required high-intensity experimentations to tune it correctly. With ten points in cybernetic engineering, I believed I could safely carry it out, but I still never dared to go through with it.
+
+That was because I didn’t have adequate knowledge of nervous systems to increase human response times or any other unique tech that paired well with a bio-coprocessor. If I went through with making one, there wouldn’t be many advantages. It made me feel that the human experimentations required weren’t justified.
+
+However, now that Nova Tech was going ahead with it, I couldn’t help but consider borrowing their resources to design my own model. It would be foolish to openly design it and allow them to obtain my designs, but maybe I could test some of my ideas in isolation with the smaller components.
+
+Just as I was getting started, I began to hesitate. The more radical the idea, the more dangerous it was. It would mean putting the danger to those poor subjects…
+
+I’m in no position to help right now. Focus on doing my own task and look for opportunities!
+
+I took a deep breath and got back to it.
+
+I started by analyzing the various inner workings of existing bio-coprocessors before examining the individual components. My electrical engineering knowledge came in handy, as I could easily spot various issues or improvements that could be made.
+
+The main issue was how to have the more tricky solutions I had in mind tested without giving them away to Nova Tech.
+
+The best way to solve this would be to engineer my solution to fail after accomplishing its task. It would have to be a benign failure that wouldn’t hurt the tester as well.
+
+As I put together a solution using the internal terminal inside of me, Cora called out to me once more.
+
+“Rollo, look at the latest idea team two just put out.”
+
+“Did they already put out something usable?”
+
+“I’m not sure… It’s hard to say. That’s why I wanted to have your opinion.”
+
+I quickly navigated to the company communication channel where the other teams had been posting their ideas. It appeared they had been thinking about it overnight with all the posts already out.
+
+I quickly found the one from team two and read through it. It talked about how it should use mini neural transmitters, similar to the ones used in VR systems, to read the thought commands. This would allow it for preemptive muscle activation based on how the user wants to move. It combined well with the base function of faster reflexes a normal bio-coprocessor would have by allowing the user to act on their thoughts more quickly.
+
+However, I could immediately see that it wouldn’t help with the actual reflexes itself. If something came too fast at the user and they couldn’t react, it wouldn’t be helpful at all.
+
+Most of the other ideas currently in the channel mainly leaned toward neural chemicals and stimulants, so despite its flaws, I agree that the miniature neural transmitter was our best idea so far.
+
+“It’s a good function, and the best idea of the bunch, but it doesn’t help with its base function.”
+
+“That’s fine. It’s an extra component. We can think up other ways to improve its base specifications.”
+
+This is going to be a long day, isn’t it?
+
+Thorne - Halls Corporation
+
+A loud horn sounded, marking the end of yet another shift at one of the many factories located in Ganymede Station. A torrent of workers streamed out as they each breathed in the fresh air and celebrated the end of a workday.
+
+While many of them returned home to rest or find their loved ones, a good portion of them also gathered at their respective hangouts. These hangouts took place at the back of various stores or houses. The people who went to these gatherings were often seen carrying weapons and were not the nicest bunch.
+
+One of these hideouts was located on the second floor of a bar. There was always a person guarding the stairs leading up to it, and today was no different. This person screened who could or could not pass, and they immediately confronted the latest duo who approached.
+
+The two stuck out like a sore thumb with one big cyborg and a lady who seemed too fine to be in this kind of establishment for factory workers.
+
+“You two are going to have to find a seat down here. Upstairs for members only.”
+
+“I’m here to talk to a member. You guys are The Grindhouse Rebels, right?” the cyborg replied.
+
+The bouncer gave Thorne an unimpressed look and pointed him the other way.
+
+“Get lost. We don’t talk to foreign corpos.”
+
+“Come on, now. If you know I’m from a corp, then you should know better than to turn me away without hearing me out. Why don’t you ask someone who can make decisions to come speak with me?”
+
+Before the bouncer could respond, Lana pushed Thorne behind her as she took his place.
+
+“Apologies. My companion is lacking in manners. Here.” Lana passed along some credits to the man. “We’re just here to talk. We’re not looking for trouble. Can you pass the message along?”
+
+“...Wait one moment.”
+
+The guard’s eyes flashed as he called someone, and after some mumbling, he gestured for the duo to go up.
+
+“Go ahead, but don’t you dare try anything.”
+
+The two nodded and slowly climbed up the stairs. They could see someone waiting for them at the top.
+
+“You’re so bad at negotiating. Please let me handle the talking,” Lana whispered.
+
+“...Yeah, yeah. Be my guest.”
+
+They were soon led through the lobby on the second floor, where dozens of people hung out around, toward one of the private booths in the back. They found a man wearing sunglasses, and wearing a white fur jacket, sitting alone.
+
+“I heard you two want to talk, so let’s talk. What do ya want?”
+
+After giving Thorne one last stare to make him back down, Lana turned to the man with a smile.
+
+“Hi there, we heard the Grindhouse Rebels had ears everywhere, so we wanted to buy some intel from you guys.”
+
+“Intel, we can do. Anything else, we’re not getting involved with.”
+
+“Great, do you have any intel on the movements of Titus Adiar? We’re looking to get a message to him.”
+
+The man’s demeanor instantly changed as he shifted his sunglasses down to get a better look at the people he was conversing with.
+
+“The guy from AeroDynamic? You think we keep track of the head of one of the bigger corporations around here? What? You idiots trying to see if we’re plotting a riot or something?”
+
+“Oh no. As you already see, we’re not from around here. We simply want to request a business meeting with him, and wanted to see if you had a way to reach out to him.”
+
+“...Look, anything to do with a corporate top dog is dangerous. There’s a reason they tolerate the existence of gangs like ours, and it’s because we know the lines that shouldn’t be crossed. We can’t get involved in this.”
+
+Thorne grimaced at the negative response, but before he could interject, Lana held out a hand.
+
+“Name your price.”
+
+Lana and the man stared each other down for a full minute before the man sighed.
+
+“For the risk of being purged, I’d say I deserve quite a sum. However, money isn’t what we want around here. Too easy to be noticed. I want weapons and monitoring devices, good ones.”
+
+“I thought you guys weren’t planning to riot and had already good ears around here?” It was Lana’s turn to furrow an eyebrow.
+
+“Only those who strive to improve stay at the top. And if you want peace, prepare for war.”
+
+“...Very clever of you. I’ll see what I can get you, but the quantity won’t be much. Quality, on the other hand, we can get you some of the best.”
+
+The man nodded and spat in his palm. Then he reached out his hand.
+
+“You have a deal.”
+
+“...”
