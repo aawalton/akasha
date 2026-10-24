@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theArmorerAndTheInfiniteDungeon = {
+  id: "01a16dbe-a010-7a31-ae85-c40e6ccaa344",
+  type: "page-type/story-read",
+  slug: "the-armorer-and-the-infinite-dungeon",
+  author: "Vitaly S Alexius",
+  following: false,
+  unit: "unit/words",
+  title: "The Armorer and the Infinite Dungeon",
+  world: "world/the-armorer-and-the-infinite-dungeon",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "54085",
+      externalLink: "https://www.royalroad.com/fiction/54085/the-armorer-and-the-infinite-dungeon",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Time Travel",
+    "Grimdark",
+    "Non-Human Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-fi",
+    "Dungeon Core",
+    "Dystopia",
+    "Female Lead",
+    "GameLit",
+    "Magic",
+    "Reincarnation",
+  ],
+  readLater: true,
+  createdAt: "2026-10-24T11:49:31.792Z",
+  updatedAt: "2026-10-24T11:49:31.792Z",
+} as const satisfies StoryRead
