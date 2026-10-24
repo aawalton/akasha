@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theInfinityDungeonLitrpg = {
+  id: "01a16bd2-175f-77bb-bb8c-ddf84be2a582",
+  type: "page-type/story-read",
+  slug: "the-infinity-dungeon-litrpg",
+  author: "RejectHumanity",
+  following: false,
+  unit: "unit/words",
+  title: "The Infinity Dungeon [LitRPG]",
+  world: "world/the-infinity-dungeon-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "86601",
+      externalLink: "https://www.royalroad.com/fiction/86601/the-infinity-dungeon-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Urban Fantasy",
+    "Progression",
+    "Anti-Hero Lead",
+    "Male Lead",
+    "Action",
+    "Adventure",
+    "Contemporary",
+    "Fantasy",
+    "Dungeon Crawler",
+    "GameLit",
+    "Low Fantasy",
+    "Magic",
+    "Secret Identity",
+    "Strong Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-24T02:51:33.087Z",
+  updatedAt: "2026-10-24T02:51:33.087Z",
+} as const satisfies StoryRead
