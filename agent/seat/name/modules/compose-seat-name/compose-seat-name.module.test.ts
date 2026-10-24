@@ -54,17 +54,30 @@ test("a persona championing no domain seats in the akasha domain", () => {
   expect(personaDefaultsOf(ROOT, iris.slug)?.domain).toBe("akasha")
 })
 
-test("a seat of several persons is named for its domain and its role", () => {
+test("a seat of several persons with a persona of its own is named for that persona", () => {
   expect(
     composeSeatName(
       {
-        attributes: { persona: "claude", domain: "couples-therapy", role: "couples-therapist" },
+        attributes: { persona: "claudius", domain: "couples-therapy", role: "couples-therapist" },
         flex: null,
         principal: principalOfPersons([alan.slug, "jenny"]),
       },
       ROOT
     )
-  ).toBe("couples-therapy-couples-therapist")
+  ).toBe("claudius")
+})
+
+test("a seat of several persons with the default persona is named for its domain and role", () => {
+  expect(
+    composeSeatName(
+      {
+        attributes: { persona: "claude", domain: "couples-therapy", role: "recorder" },
+        flex: null,
+        principal: principalOfPersons([alan.slug, "jenny"]),
+      },
+      ROOT
+    )
+  ).toBe("couples-therapy-recorder")
 })
 
 test("a principal is the fleet, a person, or several persons each named once", () => {

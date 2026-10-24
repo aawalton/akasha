@@ -29,6 +29,11 @@ export const seatName = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A seat of persons whose persona is not the default is named for that persona, whatever its persons.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The persona a seat begins with is read from the seat's page type.",
     },
     {
@@ -56,5 +61,5 @@ export const seatName = {
     },
   ],
   createdAt: "2026-09-13T19:33:54.805Z",
-  updatedAt: "2026-09-24T15:40:45.000Z",
+  updatedAt: "2026-10-24T20:25:13.451Z",
 } as const satisfies Domain

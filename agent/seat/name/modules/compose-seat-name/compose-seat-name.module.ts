@@ -15,16 +15,7 @@ export const composeSeatName = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A seat of Alan's in a game is named for its persona, its role, that game and any flex it has.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Any other seat of Alan's is named for its persona where that persona is not the default.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A seat of several persons is named for its domain, its role and any flex it has.",
+        "A seat of persons in a game is named for its persona, its role, that game and any flex it has.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,5 +53,5 @@ export const composeSeatName = {
     },
   ],
   createdAt: "2026-09-03T22:00:32.641Z",
-  updatedAt: "2026-10-24T18:05:35.764Z",
+  updatedAt: "2026-10-24T20:25:13.451Z",
 } as const satisfies Module

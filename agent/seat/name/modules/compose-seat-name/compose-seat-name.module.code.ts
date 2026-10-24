@@ -79,7 +79,8 @@ function spelling(seat: NameableSeat, root: string): readonly (string | null)[] 
   if (role === HANDLER) {
     return [domain]
   }
-  if (seat.principal === "alan" && persona !== null && !personaIsDefault(root, persona)) {
+  const persons = seat.principal !== null && seat.principal !== FLEET
+  if (persons && persona !== null && !personaIsDefault(root, persona)) {
     return domain !== null && gameAt(root, domain) !== null
       ? [persona, role, domain, stated(seat.flex)]
       : [persona]
