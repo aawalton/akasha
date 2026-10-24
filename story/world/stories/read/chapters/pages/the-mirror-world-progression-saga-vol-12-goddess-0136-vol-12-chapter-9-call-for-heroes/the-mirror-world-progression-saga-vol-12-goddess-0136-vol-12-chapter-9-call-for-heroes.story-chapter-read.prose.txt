@@ -1,0 +1,89 @@
+Samantha, still floating slightly above the floor before the eleven golems, laughed at Lancelot’s boast about ‘the sword to come.’ Finally, she shrugged. “I suppose I have answer enough. But you’ve gotten me off-track. We need to discuss how to handle bringing this final golem to life successfully, and without killing my daughter.”
+
+The golden golem raised his hand — a regal-looking, smaller type within their collective that radiated calm, perhaps wisdom, in a vaguely priestly way. “Sir Percival, Your Majesty. By the Light of Progress, we will finish our dispensation of this particular trial very soon. We must return to that mine with Sir Lancelot, as we yet lack all of the material.”
+
+Samantha blew air out of her mouth. “I might have to help if you’re ever going to finish in time. Because there isn’t much time at all left.”
+
+“No need,” Lancelot said, as the blade suddenly did a series of slashes in the air, teleporting itself multiple times to do so. “All is separated with ease, and quickly, beneath the blade that is Arondight. Present a pear or a peach and see it skinned, even a grape, if Her Majesty desires it. Make it ambrosia wreathed with skin of steel, and it shall lie peeled no less perfectly on your plate. Mining, you say? Stone around ore holds no more challenge. With gladness alone, it will be done.”
+
+The iron golem was rubbing his fake beard thoughtfully. “I imagine that could work, yes. It must be true, by Fate. But does Arondight cause sparks?”
+
+“Nay,” Lancelot said with a vehement shake of his head. “Never, as that would indicate resistance, which Arondight strongly abhors. Sir Lucan, do you have any more doubts to tediously lay at my feet, or shall we conduct ourselves to the moment of proper action elsewhere?”
+
+Lucan shrugged and looked at Samantha.
+
+Crossing her arms and sighing, Samantha studied them all in turn. “First, I need to tell you how the next summoning ritual will go. Somehow, some way, I will ensure Ana has the assistance she needs. If that has to be me, personally, so be it. But it will not happen without my direct say-so. I will be consulted at all relevant stages. Understood?”
+
+Murmurs of “Understood, Your Majesty,” resounded in the infirmary.
+
+Samantha nodded and waved her hand. “Now go. Get us that orichalcum stuff so we can finish this.”
+
+The golems — other than Galahad — walked or thundered away, as the case went for their varying sizes.
+
+To Galahad, she said, “Stay with Ana. Tell Azure to alert me the instant she’s awake.”
+
+The troll golem bowed solemnly. “It shall be as you command, Your Majesty.” With that, he squeezed himself back through the door.
+
+The only one left in the area was Ash, who’d been watching and listening quietly. She raised an eyebrow. “And me, Mother?”
+
+“You have work to do,” Samantha replied. “As do I. Let's both get back to it.”
+
+✦•············•✦•···········•✦
+
+The principal thing Samantha wanted to do leading up to the coming great battle was spellwork. They needed something to actually cast through the powers of the crown, as well as to store in the auxiliary tower, Spellhold.
+
+At a minimum, they needed two spells — one made by her exclusively for the auxiliary tower and one ‘special’ spell specifically designed to be cast with impunity rather than with the hour-long added casting time normal for the tower. She already sensed this could be done, and the line about ‘certain custom spells’ under Direct Portal didn’t have much point if it weren’t true.
+
+Effectively, the more spells, the better.
+
+For the first spell, which she would load into Spellhold, she decided the best thing she could possibly do was conspire to cast the ultimate wide-scale army buff. The Dominion was probably thinking similar things to begin with, and going for some one-off super-nuke was risky, comparatively. With access to Level 16 spells, she could do truly game-breaking shit, when combined with the tricks of custom spellcraft, which punched up higher with additional costs. That was never more true than when she added specialized FE into the equation.
+
+In her initial poking and playing around with the spell design interface in her head, she was hitting a ceiling constantly that she soon realized was the functional Level 20 ‘effect’ ceiling. By adding Pneuma FE and Magic FE in breath-stealing quantities, she was already there. Maximum intensity, maximum options.
+
+The biggest benefit she saw for buffs was that she could just make up her own custom modifier to Effective Levels. This meant she could provide access to additional stacking totals for her entire army… hypothetically.
+
+I have to make it work. That’s too valuable.
+
+She wanted to be able to hit the whole army, but this hypothetical buff she wanted was counterbalanced with a locked low duration and radius, i.e., it was the sort of thing to create hero moments. But she didn’t want a mere hero moment. She wanted ‘hero all day,’ or as close as she could get to that. The crown and the tower could magnify either of these, but the ‘multipliers’ were limited, even when embedded into the custom tower spell. She’d much rather all the x12 ‘oomph’ she had available go to the duration. Indeed, this particular limit was extra stubborn.
+
+She turned her attention to the ‘area of effect.’ She tried tying it to a ‘shout,’ knowing she could make her voice carry, but it only doubled the base radius. She was missing something…
+
+Rather than waste time experimenting further in solo form, she kicked the conundrum over to the Brain Trust for input.
+
+Zephyr was quick with an idea. “Tie it to [Inspire Ally] and [Musical Talent]. You can use your voice, as you’ve done before in a few cases. But this already changes the effect to every ally in range of hearing.”
+
+Samantha marveled. “That would work?!” Despite her question, she immediately slammed these details into the amorphous spell construct in her head and saw it stick. She laughed. “It works!”
+
+Zephyr performed a sage nod. “I’m not surprised, at least. Custom spells, difficult as they are for most to ever access, can incorporate one’s own existing skills, in many cases. A [Bard] intrinsically should be heard, to inspire. Combined with your other authority, well, this is only logical as an alternate vector compared to the simple physical area of effects.”
+
+“Hmm. That reminds me of [Sublime Art]. If I can incorporate visual elements to this somehow, it’ll be even more overpowered!”
+
+Inspired anew, Samantha dove back into tinkering with it. She was somewhat put out by the lowered values if she wanted to make this undispellable, but that was nonnegotiable. If she could factor in [Sublime Art], however, she’d more than make up the difference.
+
+Not hard to make this a transformation in part. Mmn. I got this!
+
+After a final leg of frenzied time-compressed development and refinement, going into a hyper-obsessive mode of problem-solving and artistry… something that would’ve taken a normal mortal months to accomplish due to the complexity… the configuration for the spell was complete.
+
+Call for Heroes (9999 MP, 777 Magic, Fate, and Pneuma FE)
+
+(Level 16; Protection, Enhancement, Transmutation, Sonic, Fate, Pneuma) With a musical call communicating a short message, all allies who hear you are transformed into an idealized, heroic form, slightly larger and interwoven intrinsically with enhancing pneumanic matter, making supreme warriors out of anyone who receives your words and takes them to heart. If any do, this reciprocates back to you and bolsters you to a lesser degree, though you are not transformed as they are.
+
+Add +4 (+2 fr. Abjurer) Effective Levels for any contest, as an (All for One, One for All) modifier. Add 9 (+3 fr. Abjurer) Effective Levels as a pool for Active Defenses, similar to levels in the [Knight] class. Drained levels do not return without another casting. Toughness is improved by 1 level. Physical Armor is improved by 1 level, not to exceed 5 levels. Magical Armor is improved by 1 level, not to exceed 7 levels.
+
+Thanks to your supernaturally potent artistry, add an additional +3 Effective Levels for any contest for these allies, as a (Sublime) modifier. In addition, those who see the heroic figures are inspired to emotion, whether to be inspired or to fear. This is relevant for morale purposes.
+
+So long as at least one of your targets remains alive, you may add +3 (+2 fr. Abjurer) Effective Levels for any contest, as an (All for One, One for All) modifier.
+
+Duration is 66 minutes. Casting time is 1 hour and requires the use of an attuned spell tower. No further modifications can be made to this spell by a spell tower or personal abilities.
+
+This physical enchantment cannot be dispelled by any external means but ends immediately if your focal Avatar is destroyed.
+
+You have gained 2 exp in [Magineer] through spell acquisition thanks to [Comprehension: Evolver].
+
+Samantha had a strange combination of a satisfied smile and a wince at reading the final form of the spell.
+
+Seven levels to a whole fucking army? And more defensive bonuses. An obscene improvement that Dax will absolutely gush about, but oh my gosh, that mana cost. High, even with the nexus halving it. I wonder if it's the maximum cost? Ooh! I think the nexus will double the duration, too. Nice. This is why we bake the modifiers in, baby! It would’ve only been an extra multiple otherwise.
+
+Swiftly, Samantha began organizing a large circle of her highest ‘mana pool’ spellcasters, to mitigate the drain on the tower’s own mana pool, which might be needed later.
+
+It was time to lead a great ritual in Itha Ranon.

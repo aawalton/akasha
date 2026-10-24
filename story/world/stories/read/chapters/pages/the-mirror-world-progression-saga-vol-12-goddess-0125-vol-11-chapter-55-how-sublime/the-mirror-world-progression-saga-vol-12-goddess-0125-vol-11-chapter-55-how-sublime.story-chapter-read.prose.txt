@@ -1,0 +1,135 @@
+Samantha laughed at Azure’s reaction. “Yeah, you’d probably get a dragon shapeshift or something! I could so see you as Othenia! Instead of hanging out all the time, you’d be fighting alongside my Iteration. Then again, it would take away from her mystique…”
+
+Azure’s eyes were wide. “I was a dragon?” She flopped her head back and made piteous, whiny noises. “Ohhh sweet heaveeens! I’ve gotta go to the Hall! I can’t miss out on them!” She suddenly sat back up and made an admonishing finger right in Samantha’s face. “Don’t spoil anything further! I want to experience it myself.”
+
+Samantha looked at the finger and back up to Azure with an impish grin. “Mmmn, I dunno, I’m really excited, I might have to tell you-”
+
+Azure clapped her hand over Samantha’s mouth, her brow knitted, her face stern. “You will not, you little gremlin!”
+
+Samantha met Azure’s eyes in incredulity for a spell, and then they both began cracking up with extensive snickers and snorts.
+
+“That crown really went to your head,” Samantha commented.
+
+“Be silent and return to your review, Subject,” Azure said with mock severity as she adjusted the crown on her head.
+
+“Ohhh, right away, Your Majesty…”
+
+The [Mirroring Duplicates] addition was next.
+
+Strange Phantasm -1: In lieu of a self-cast autonomous hard light construct, you may create this enhanced autonomous construct for double the normal cost of the Hard Light enhancement use of this ability (total cost: 4 FE (Light) or 8 FE). You may also cast this in addition to Strange Phantasm 0 and/or 1.
+
+The construct has its own unique programming and acts largely on its own, but takes commands. It has no distance limitations but is relatively slow and cannot fly.
+
+The construct cannot be destroyed, though it appears to take wounds. Each wound taken will reduce its duration by 1 second. It is a capable melee fighter that uses a club, and can also use special abilities, though these expend its duration by 1 minute each.
+
+You may give it control of one of your [Create] instances, in which case it will facilitate its melee capabilities with potent constructs or illusions, usually aiming to trap, distract, debuff, and otherwise set up for itself or others.
+
+Samantha smiled. There she is. Ashawein. I guess I won’t summon her yet, so Azure doesn’t have her precious experience ‘spoiled.’ No promises by the time battle relevance comes.
+
+Next up was Assurance.
+
+This affects all of your Followers at all times, and any other allies within a radius of 7 meters per deity level, centered on you. Add +1 Effective Levels to all actions or Active Defenses, +2 Effective Levels to resist Knockback or any Stunning, Unconsciousness, Knockdown, or Pain effect, and reduce any Wounding effects by -2 Effective Levels. These bonuses do not apply to you.
+
+For Followers who are also in radius as above, increase the EL effects above to +2/+3/-3.
+
+Cool. Offense and Defense, now. A truly global buff.
+
+And next…
+
+The Unseen Animus+2
+
+(Fate, Illusion) For 2 (Fate) & 2 (Illusion) FE (or double in normal FE), you may curse a target within Line of Sight with the general banality of Fate. You may do this without an action, effectively ‘automatically’ to anyone you can see, without restriction.
+
+You may do this to any number of targets at once, with a reduction in total cost depending on total numbers. Determine cost as normal for the first ten. Give a discount of 10% for 11-20, 20% for 21-30, and so on.
+
+Samantha coughed out a breath, nearly wheezing. “Holy shit…”
+
+“You can curse whole armies with mirrors arranged adequately,” Azure said. “I think everything over a hundred targets is free.”
+
+“Yep. And so we will.”
+
+Next up, Sheath of Light had a simple change: the ‘cooldown’ line was removed. It could be flipped on and off as desired now.
+
+Sweet.
+
+Now, it was time to start digging into more directly ‘experience-inspired’ stuff from the Challenge.
+
+Sublime Art (Grand Master)
+
+You have a knack for art, especially visual pieces that inspire emotion. You can fashion beauty that awes even yourself. For these purposes, add +4 Effective Levels.
+
+Sculpting: You are especially talented at fashioning physical, 3-dimensional forms with various materials. Improve the bonus above to +7 in such cases.
+
+Artistic Integration: You may add the bonuses from Sublime Art to the functionality of other supernatural abilities that can incorporate such creativity, such as [Create] or various spells possessing the flexibility. This takes time, but even a rush job will qualify for a fraction of the bonus.
+
+If you design a custom spell while also using this ability to enhance it, the spell will permanently retain the benefit.
+
+“Whoooa!” Samantha exclaimed, something that finally made her sit up on the couch, her eyes flickering around and feeling especially excited. She smiled at Azure. “There’s so much potential!”
+
+Azure nodded soberly. “And so little time.”
+
+Samantha sighed. “Yeah. True. I guess that’s life, huh?”
+
+Forcibly steering her bubbling creativity back to the present issue, she checked out the new [Tarot Reading] thing.
+
+Quick Read: As a 2-second action, you can assess the current environment and process its future intuitively. You may combine this with any information-gathering actions. In addition to potential vague impressions, add +2 Effective Levels to your next action as well as your next Defense. Does not ‘stack’ if used consecutively.
+
+‘Inevitable Oracle.’ Each time you do this in a crisis or battle, add +2 ELs to the above bonus for the next use. This is cumulative until the crisis or battle’s end, to a maximum of +10 ELs.
+
+Damn. That… could be key in the big battles to come. More potential focus on a singular act.
+
+Next was the mod to Heavenly Inspiration:
+
+Perfect Conduct: Your Devout and Fanatic Followers, and/or those under the effects of Unshakeable Faith, are especially inspired by Heaven, and you as its principal icon.
+
+If performing an act to which they are legitimately inspired, Devout may add +1 Effective Levels, or Fanatics +2. Note that you are capable of directly assisting with this inspiration.
+
+In addition, some individuals with this access may have access to [Moment of Perfection] in critical situations.
+
+Cool. One for the crew! Can’t complain!
+
+From this point, she decided to go back through the remainders of things Ozzy had added through the simulations. Next up was checking out [Conjurer] added to [Abjurer], both now at their maximum boost.
+
+Abjurer/Conjurer
+
+For all arcane magic under the Protection/Abjuration or Conjuration school, you have +5 Effective Levels for all purposes related to spell effects and learn the school’s spells 100% faster. You are considered a [Wizard/Magineer] of +5 levels if there are special effects in spells from raw class levels for this school.
+
+In addition, add +25% to the raw bonuses of arcane spell buffs, rounded up. Add an additional +1 after this.
+
+In addition, add +25% to the statistical values of Conjuration spell matter, or to the general effectiveness of summons. Add an additional +2 Effective Levels to resist the dispelling of your conjurations.
+
+Ahh. Feels good.
+
+Next, she checked out [Giant’s Toughness] and [Giant’s Strength].
+
+Giant’s Toughness
+
+Add 5 extra levels of Toughness to all of your Avatars, and increase the maximum from 10 to 12.
+
+Giant’s Strength
+
+Add +3 Effective Levels to any act of physical strength utilizing your muscles, stacking with everything. This includes Lethality Grade assessed from melee strikes.
+
+Simple and potent!
+
+Next was the interesting new addition related to calling down the clouds.
+
+Wreath of the Clouds
+
+Counts as a Divine spell-like ability. Spend 50 (Magic) and (Pneuma) FE to capture visible clouds in the sky and bring them down — at a minimum, this will use or cause to dissipate half of the visible cloud spectrum. You then fashion the necessary mass into protective sheaths for as many target allies as you have the material for (though it is highly condensed into its ‘pneumanic form,’ it is usually quite extensive). This lasts for up to 7 hours.
+
+The clouds provide 13 ablative levels to protect against wounds dealt, on a one-for-one basis. As a layer, they exist before any physical armor or Toughness, but after other protections such as shields, Magical Armor, or other spell protections.
+
+Alright, then! We make sure to siege the City of Heavenly Order on a super fucking cloudy day! Ha.
+
+Actually, there was some consideration in order. If they very obviously controlled the weather beforehand, the Dominion might instinctively counter. If the day was naturally that way, great. Otherwise, they’d probably execute some sort of quick, illusion-cloaked maneuver to ensure they got off at least one use of this.
+
+It was just too wonderful a cushion for a whole damn army. As soon as Dax heard about it, she’d pretty much demand its use. Samantha needed to test it out a bit, but clouds were truly fucking huge, so she was probably good.
+
+The next thing was something she was looking extra forward to: [Alter Spell: Pentagram]. She’d worked her ass off on it, and she knew exactly what she planned to use it with already.
+
+Pentagram (+6): Fortify creations. Adds ten seconds to casting time to fashion a rune. Can be added to any Conjuration or Summoning spell, making it completely immune to ‘automatic’ dismissals. Add +3 Effective Levels to resist being dispelled. If such resistance fails, do not dispel the creation; instead, remove this effect. If combined with at least one other Alter Spell modification, ignore the cost of the highest mod.
+
+Samantha smiled.
+
+Summon Dragon just got quite a bit better.

@@ -1,0 +1,83 @@
+Samantha next checked out whatever Ozzy did to the much-maligned [Token User].
+
+Token User
+
+You utilized a Promotional Token to arrive within the System. This entitles you to the 30-day Token User Promotional Bonus as well as any future additive promotions for prior Token Users (note: there are no additive promotions for prior Token Users).
+
+You obtained the additive promotion, “Final Form,” thanks to your status as a Token User — Congratulations! You have our heartfelt thanks for being a loyal denizen of the System. Enjoy your permanent benefits forever, in endless perpetuity!
+
+Note: Your form has not been filed. Please file your form in triplicate at the nearest available opportunity.
+
+Final Form Promotion: Add +200% exp to any class experience gains. Add +50% speed of learning for any spells, skills, or learnable abilities.
+
+Ahhh. Here I am at the end of things, and I want to learn and gain experience even more, thanks to these ridiculous modifiers. Quite the blessing and curse, Ozzy!
+
+Considering where she started on things, she decided to go point for point first on Ozzy’s Final Form shenanigans. Her innate conjuration/illusion abilities had upgraded once again, eliminating most enhancements in simplified consolidation.
+
+Create+2
+
+You can create complex physical matter or illusions, the latter of which is more extensive. On your immediate person, you can fashion clothing and gear that is fully tangible. As long as you maintain the same basic shape, limbs, etc., of your avatar, you may also change your appearance otherwise, to the effectiveness of actual shapeshifting. This is impossible to detect as ‘false’ in an innate sense.
+
+Operating continuously as a radius around you, and also creatable in discrete radial ‘fields’ anywhere in line of sight, you may create matter, up to 20 meters in radius (or roughly equivalent area as a square). The matter is fully tangible but requires a contest to affect resisting targets — the substances will simply fail in some way if you lose a contest. They are not rendered inert, however, nor can they be ‘disbelieved’ and ignored. You can gain up to a +4 Effective Levels circumstantial bonus based on the physical advantages (such as the mass and volume of material).
+
+You may also create illusions anywhere within line of sight, as visually and auditorily desired, changeable at will. These illusions have no physical effects, and their believability is determined by the highest class comparison, creativity, and various circumstantial modifiers, as logical (i.e., unreasonable illusions won’t be believed except by the gullible).
+
+Each instance requires a separate action, or multiple actions can be spent generating a larger effect. Each instance or ‘layer’ can either be operated directly or up to 13 can be handed off to independent operation. Effects last up to 3 hours, or 24 hours at relevant FE costs based on the size of the effect. Illusions can be made permanent at three times this cost.
+
+For 10 (Illusion), (Pneuma), and (Magic) FE (or double in normal FE), you may fashion a discrete, singular element (such as an object or a creature) of your illusion or creation into permanent, conjured physical matter. It must fit into a 3-meter radius, and it cannot be controlled, animated, or levitated through this ability (directly — other temporary conjured matter could manipulate it).
+
+The item’s durability utilizes your full [Create] levels for comparisons, and it is considered a generic magical object with inherent improved durability.
+
+You may optionally create many small objects instead of one discrete object with a single use, but they must all fit into a 1-meter radius with a maximum number equal to [Conjure] levels, with a total mass 5 times this in kilograms.
+
+Class comparison gives 2 extra levels to total deity levels. Base classes to channel for creation can be [Goddess], [Bard], [Rogue], [Wizard], or some special classes. One additional class may add as normal, providing (level/3, rounded up) to the base class.
+
+Illusions ‘disbelieved’ do not disappear without special abilities on the part of the victim, and therefore are not ‘unseen’ or ‘unheard,’ merely realized to not be real or tangible. Otherwise, it seems real to the victim until evidence presents otherwise. It does not, however, ‘make it real’ in the case of normal illusions.
+
+Autonomous Construct: For 1000 (Illusion), (Fate), (Pneuma), and (Magic) (or double in normal FE), 2000 MP, and taking twenty minutes of work, you may create a semblance of sapience and autonomy in an existing discrete permanent construct you’ve made, which may or may not be animate. The construct performs limitedly based on your proximity and direction, but weakens with more independence, though this improves over a long period.
+
+At ideal performance, the construct operates equivalent to an independent [Create] instance, declining rapidly in 5% percent increments to a minimum of 50%.
+
+You may use existing mental construct identities, ‘depositing’ them into these physical constructs, and likewise, destroyed construct IDs can be preserved and ‘stored’ for reuse.
+
+Whoa! That’s a cool possibility. More flexible than the golem stuff. Not sure of the odds that I’ll use it before the end.
+
+Of all the enhancements existing before with [Conjure], ‘Independence,’ ‘Persistent Illusion,’ ‘Ranged Emission,’ ‘Hard Light,’ ‘Phantom Constructs,’ and ‘Permanent Constructs’ were gone, all consolidated into the base rules. Her newest one, Total Sensory Suite, remained. She hadn’t lost anything that she could tell. Mostly obsolete ‘phantom’ stuff could still be made. Even Hard Light could be — pointless in many cases, but technically still quite superior to any other created matter for cutting things, despite its fragility.
+
+Next up, she checked out [Alter Fate]. It was simple.
+
+Once per day, and for 1 FE (Fate) or 2 FE, you can improve a task’s chances by 6 Effective Levels. If it would fail, it instead succeeds at the minimum effect of success.
+
+Once per day, and for 1 FE (Fate) or 2 FE, you can reduce a task’s chances by 6 Effective Levels. If it would still succeed, it instead fails at the minimum effect of failure.
+
+Hoping For Daylight (Light Synergy): You have an additional daily use to improve a task's chances by 6, but it does not automatically succeed. This cannot recharge 'uses' at all.
+
+Greater punching up, +4 to +6. I wonder if the uses per day would ever go up. Probably not, but I guess I’ll never know.
+
+She moved on.
+
+Deific Counterspell+3
+
+You can counter any spell or spell-like ability without knowing anything about the spell, by simply being aware of it before it materializes and spending your defense reaction, a waiting ‘unused’ action (including from Haste effects), or instantly by converting an existing instant-cast spell into ‘counterspell’ spell levels. You must sacrifice the prepared spell if used, or otherwise spend equivalent MP for a given desired spell level.
+
+This spell level+5 must equal or exceed the cast spell level, and you must compare caster levels as a contest, but you are at +5 Effective Levels. If you win, the spell fizzles.
+
+Divine spells and spells masquerading as abilities are up now for grabs. That includes a lot of artifact abilities. It isn’t everything, though. I can’t counter shit that refuses anything spell-like. Dragon’s breath, for instance. Innates and class abilities.
+
+Next up was a doozy. Channel Domain options. All of them in the Magic Domain.
+
+Magic: You can amplify some of your Magic-related spells or abilities via [Focus] or [Broaden]. If you attempt something and it fails to resolve, the Channel Domain use is not expended.
+
+Spellcraft (Broaden) — Choose an Arcane spell with at least one target (including Self) or an Area of Effect. Expand the number of targets or the area by a multiple of ten. Increase range by a multiple of ten. If relevant, add +5 Effective Levels to Accuracy. Cast the spell as normal, but triple the MP cost.
+
+Spellcraft (Focus) — Choose an Arcane spell with a single target. Double any numerical bonuses provided by the spell, including any ‘Effective Level’ bonuses. Cast the spell as normal, but triple the MP cost.
+
+Spellfyr: Unleash (Broaden) — Total area becomes a 6x300 meter cylinder. You may warp the cylinder’s ‘progress’ as desired, even performing loops, or reduce its size down to as small as a 2-meter diameter. Increase the penalty to Dodge to -7 ELs. SP base becomes 3, modified by intensity as normal.
+
+Spellfyr: Unleash (Focus) — Strike one target with a hand-wide beam. They are at -10 to Dodge, or any other active defense. Lethality Grade is increased to Effective Level +15. When stripping wound negations more than two, a Major Wound is the maximum result. SP base becomes 3, modified by intensity as normal.
+
+Spellfyr: Charged Strike (Focus) — Add +5 Effective Levels to hit, and Lethality Grade is increased to Effect Level +13. When stripping wound negations more than two, a Major Wound is the maximum result. SP base becomes 3, modified by intensity as normal.
+
+Samanatha whistled. “How about these, Blueberry? How about ‘em?!” She grabbed her wife and shook her.
+
+Azure had a sour look as she endured the jostling. “More broken bullshit. Maybe I should’ve gone with you, after all…”

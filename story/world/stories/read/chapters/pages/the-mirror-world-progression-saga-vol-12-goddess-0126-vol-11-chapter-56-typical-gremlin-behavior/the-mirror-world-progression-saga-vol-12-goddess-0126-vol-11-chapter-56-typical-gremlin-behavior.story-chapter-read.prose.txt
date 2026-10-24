@@ -1,0 +1,85 @@
+It was time to finish up her reviews. She barely glanced at existing skill upgrades — she already knew what they did. Anything Grand Master was adding +4 ELs. Exceptions to that were always rare. [Favored Weapon] and [Diplomacy] were not exceptions, as it turned out.
+
+[Magical Invention] had altered some lines related to spontaneous design, also eliminating the line about the ‘second half’ of spell development taking twice as long. Curiously, it even eliminated the ‘Grandmaster’ bonuses, replacing them all with the new rules.
+
+You learn the majority of any custom spell very easily, potentially even in mere moments, depending on spontaneous inspiration. The final 1-10% to finish is highly variable. In some cases, the last parts of a spell can be learned in a moment. As a rule, this will happen sparingly except in crisis situations. Ignore Spellbreak rules — you can learn the exact rules of a new spell as you cast it.
+
+The promise of Ozra Bosk’s Challenges, this: truly spontaneous spell creation. I already know how it works, essentially, because I’ve been through it time and again. When I need something I don’t have, I’ll make it. Likely not instantly, and that’s enough of a limitation for me these days.
+
+Smiling faintly to herself, Samantha moved on. A custom spell, 'Breath of Spell Stasis,' was completely changed.
+
+Power Stasis (200 MP)
+
+(Level 20; Alteration, Conjuration, Abjuration, Time) With a fling of your hand, you can temporarily ‘freeze’ any ongoing, persistent, or resolving effect of any source you can detect within 5 meters, as it is coated in glittery blue dust; the dust will flow into the effect even if it extends beyond this range. This does not remove the effects of existing passive statistical boosts or buffs, nor the statistical effects of curses, but it will freeze their durations. In the case of auras, it ‘sticks’ the radius in place.
+
+If freezing a resolving effect, all of its functions will be frozen in time. Note that this requires a prepared action similar to a counterspell. It also cannot freeze spells (or other like effects) that operate by Sympathy.
+
+On ongoing or persistent effects, all complex, non-statistical effects and triggers are disabled, and their durations are frozen. Active effects from persistent spells or magic items are unusable. Contingencies will not activate. Any area involved is affected with glowing glitter from the blue dust.
+
+All effects make a comparison with the caster level of effect +14 (+4 fr. Abjurer/Conjurer) to avoid the freeze. Reduce the total Effective Levels by 1 each minute and re-compare. The dust persists for a maximum of 10 minutes, at which point it goes entirely inert.
+
+The dust has a physical presence and can be interfered with, but only with extensive effort, such as from the power of wind-based spells to blow it away. Such measures can effectively ‘dispel’ it, but require a comparison test (without the above bonus, however).
+
+Spell Components: A small handful of fine, precious metal dust (such as silver) to fling.
+
+Samantha’s mouth dropped open upon reading it.
+
+I can counter anything, now. Plus 14?! That’s insane reach. But it’s also very short range, absurdly expensive, and not quite as final as directly countering a spell.
+
+If Samantha ‘prepared’ a counter action, she could move prior to the fling, so its reach was technically improved by Samantha’s sheer speed.
+
+This would’ve been handy during that demon fight at Glae’s ritual. I could’ve saved the tying up of all those Antimages that paused that one Entropy effect.
+
+She decided to finish up checking all the ‘spell stuff.’
+
+Chimera Trap (64 MP)
+
+(Level 15; Conjuration, Trap, Metal) You fashion a ‘trap’ featuring a square of a specified size between one and ten meters across. At the corners, variably-sized (depending on the AoE meters chosen) ‘bear traps’ with anchored chains appear. If hidden, they will trigger upon being stepped on, but will also actively move to close over any foe if another triggers, or if otherwise already detected. They can always reach within their square, or the equivalent distance out of it.
+
+The Lethality Grade of the traps are equal to Effective Caster Level +6. Their strength is equivalent to a [Brute] of one-half caster levels (add +25% for Conjurer). This is in terms of the ability to hold via the chains — the teeth are difficult, and often impossible for most creatures to remove, and will count as an awkward encumbrance burden to movement and physical combat flexibility, even if the posts are pulled out of the ground.
+
+Duration is up to 24 hours.
+
+Seems pretty good. As far as I can tell, it can be used generically in someone’s face, not just as a trap or for area denial.
+
+Pillar of Force (50 MP, Optionally 5 Light FE OR 5 Pneuma FE)
+
+(Level 14; Evocation, Force) A gout of pulverizing magical force erupts from a horizontal portal 5-10 meters in diameter (as desired), up to (80 meters plus 4 meters per caster level) away. It forms a bright blue, energetic pillar pushing downward up to 40 meters. Those caught within may dodge for avoidance or mitigation (depending on reaction speed) at -1 for each meter from the ‘edge’ of the AoE they are.
+
+The quasi-physical attack ignores non-magical armor and Armor values, but not special [Physical Defense] modifiers. It damages armor by one level — completely non-magical metal armor that is damaged also causes the condition [Crushed Armor], inhibiting mobility. Lethality Grade is equal to the Effective Caster Level +4.
+
+Any combatant hit must make a physical contest with an appropriate class (such as Brute) or other class at penalty, against your Effective Caster Levels +7 as though they were [Brute]. Failure causes knockdown.
+
+A flying combatant hit will be sent crashing to the ground as though a fall of doubled velocity. If over 20 meters in height, they are allowed a second dodge chance to move out of the radius at the halfway mark, potentially avoiding impact or mitigating their fall.
+
+Once cast, this spell continues to maintain itself every five seconds for one-fifth the MP cost, without concentration. It can be moved once every five seconds, anywhere within range of your new position.
+
+Alternate Effect (Pillar of Brilliance): By expending 5 Light FE in addition, the wounding type shifts from (Force) to (Light), adds a [Blinding] effect, and acts as a dispel effect against invisibility, illusions, and magic-based shapeshifting, equal to your caster level +8. Any ‘basic’ Invisibility is automatically dispelled. Wounding remains quasi-physical, and there is no burning effect.
+
+Alternate Effect (Pillar of Scouring): By expending 5 Pneuma FE in addition, the wounding type shifts from (Force) to (Pneuma) and becomes purely magical, ignoring all Physical Defense modifiers. Lethality Grade adds +1 Effective Levels (this becomes +5). All knocking effects are removed, and damage becomes Burning with enhanced ignition. Any targets wounded suffer the pain-like malus [Scoured] until healed.
+
+Nice. This was updated. A strong consideration on the battlefield, though it’ll still drain MP a bit, constantly. Hammer time, baby!
+
+Summon Firebirds (100 MP)
+
+(Level 18; Conjuration, Summon, Evocation, Fire) Summons up to thirteen autonomous ‘firebirds’ — hawk-sized, fragile, fiery beings with a potent, perpetually usable firebreath attack at Lethality Grade 21. Alternatively, they can breathe a version of the Fire Funnel spell for greater single-target potency, at Lethality Grade 24. They are immune to fire.
+
+Firebirds can be directed or left to their own devices and have no range limitations. Duration is thirteen minutes.
+
+Samantha began laughing maniacally. “Yes! Fly, my pretties, fly!”
+
+Azure frowned at her. “Calm down, Chestnut.”
+
+“I will not — for my terrors will fly, silly wife!” Samantha suited these words by suddenly casting the spell, summoning thirteen hawk-like, gorgeous-feathered, fiery creatures. She didn’t anticipate them suiting her mood, however — they flew in a great whirlwind of chaos around the area, knocking things over and setting things on fire with their smoldering feathers.
+
+Azure glared at her with her hands on her hips. “Really, Samantha? Our priceless vase?”
+
+“Oops,” Samantha muttered sheepishly, sweeping her hand to dismiss all of the firebirds and fix all the damage (by her heavenly power in Heaven, naturally). “Priceless vase fixed.”
+
+Azure grunted disfavorably, as only a wife could.
+
+Almost all of the firebirds were dismissed, actually — one remained perched and smoldering on her caster’s shoulder, staring back at Azure curiously.
+
+Azure stared much less curiously back. The firebird and Azure had a staring match at that point.
+
+Samantha would bet money on who she thought would win, for sure. It was so obvious!

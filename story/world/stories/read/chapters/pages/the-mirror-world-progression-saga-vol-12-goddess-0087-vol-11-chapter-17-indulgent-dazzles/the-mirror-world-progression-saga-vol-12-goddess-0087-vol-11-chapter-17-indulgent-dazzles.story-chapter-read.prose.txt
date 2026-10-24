@@ -1,0 +1,109 @@
+Azure scowled a bit at the mention of Glae. “Do we even need him or his stupid quests and interference, at this point? We’re doing just fine without him.”
+
+Samantha floated off the ground, crossed her arms, and raised an eyebrow. “Are we now? How many of our best Antimages, used in numerous key battles, relied on and were instrumental, are loyal to Traesh? Loaned to us, by a tenuous alliance?”
+
+Azure kept scowling stubbornly for a moment, but then sighed and shrugged. “Okay. Point taken, boss. If you ask me, though, we should leave it at that. The more he’s involved, the worse the backstab will be. There’s no way we can trust that motherfucker.”
+
+“There’s a saying: keep your friends close, and your enemies closer. And another: the enemy of my enemy is my friend.”
+
+“Yeah, I hate both of those sayings.”
+
+Samantha chuckled. “I do too, but they’re relevant. I have no choice but to deal with him. He’ll be showing up in force for the Capital battle, I imagine. Or… maybe not? Fuck, I really don’t know how he’s going to play this. What I do know is he has some sort of epic plot to debuff the Sage, or something like that. I can’t pass on that. I need to give him his precious last ingredient to do that, and then I at least have the services of his bestest of the best Antimages for the final battle. Or, ah, next to final battle, I suppose.”
+
+Azure shrugged helplessly. “Fine, whatever. I’ll do the thing, of course.” A long pause, and she pointed her finger, squinting her eyes with determination. “After the wedding, that is. Because that is happening, and soon.”
+
+Samantha gasped and beamed with joy. She clasped her hands together and squealed loudly. “Mmnph! I can’t wait!” She rocketed toward Azure, glomped her, and took her up slightly in the air, spinning as she squeezed. “Let’s just do it right now!”
+
+A breathless Azure patted her back. “Easy, easy! Hmmph. Patience, Chestnut. This has political relevance. You’ve got to send a lot of invitations. The cathedral in Itha Ranon will be packed. Anything less will snub key figures. In fact, this is damned to snub some people, whatever we try.”
+
+Sighing, Samantha lowered them to the ground and squinted her eyes open. She looked at Azure with a bit of a deliberate pout. “Can’t we just do one in secret, nice and small and cozy? Celebrities do that, you know.”
+
+Azure rolled her eyes, even as she touched a palm to Samantha’s cheek, cocked her head, and said insistently. “You don’t actually want that.”
+
+Samantha stared back at her for a while, began to wilt, then finally sighed and nodded. “You’re right. Some part of me does, but I suppose I’d end up regretting it.”
+
+“Yes.” She grinned suddenly. “It was really nice to see you so cutely pouting again. It’s been a while. I think I’ll have to demand it again in the bedroom, later. Or sooner, even.”
+
+Samantha smirked, but looked away, feeling oddly bashful, perhaps because it strongly appealed to her, and Azure could likely sense that, too. “If you want… but let me check my level-up and such, first, hmm?”
+
+Azure brought a finger to her lips, squinting her eyes as if considering it. “I’ll allow it, generous that I am.”
+
+Laughing, Samantha nodded. “So generous, is my bedroom dictator.”
+
+“For now.”
+
+Giggling some more, Samantha turned her attention inward. First of all, she needed to see what the Goldie boost was about, an enhancement under [Conceptual Body].
+
+Mind Fortress (‘Naga Improvement’ Synergy): Your mind is innately well protected against intrusion or damage, no matter what form you’re in. Adds an innate 4 levels to Mental Resistance, and improves the normal maximum of 10 levels to 12 levels.
+
+Holy shit, that puts me near the maximum in my Core Avatar! I’m at +10, now. I’ve… basically hit my target for that resistance already. I’m immune to most mind-altering effects, plus another fucking +10 from [Timeless Coalescent], plus my Ascendant bonus is even higher. Gotta be close to out of range even for ritual groups to damage that way, now. Only such ridiculousness as the Sage can fuck with me.
+
+She was next interested in her new Special Trait, which sounded like it was going to be pretty badass.
+
+Spell Dominion
+
+Power (Divine; Light, Fate, Pneuma, Magic, Abjurer Synergy). You have a continual, innate, undispellable spell of (Protection) cast on you that guards against magic spells. Any arcane or divine spell cast on your person, that you do not allow through, must first beat your caster level +3, or the effect fails to afflict you, specifically. Single-target effects fizzle entirely, and Area of Effect spells arrest right outside your body and gear. A propagating AoE spell, such as a cone, will leave a gap behind you. You do not suffer concussive effects from spell-based explosions.
+
+If a wounding type spell does afflict you, reduce the wounding by 3 (+1 fr. Abjurer) levels.
+
+That’s pretty rad. Can save action economy against spellcasters, and no prep is needed.
+
+[Reflect Force] had changed, and she was glad to see another Mirror-type ability added to the ‘grouping’ on her ability list.
+
+Mirror Attack+1
+
+By interposing a mirror that an attack touches, you can completely warp, absorb, and redirect the attack. An AoE attack must be a ‘propagating’ type AoE. The angle is decided by you, but the original effect cannot otherwise be changed. If an effect already caused damage (or the like) before touching the mirror, the damage is not erased.
+
+Weapon-based melee or Ranged attacks against a mirror will literally send the attack back at your simulated skill levels +2 Effective Levels, for accuracy only (note that surprised combatants will be at a disadvantage). Attacks using an attacker's ‘innate’ attacks (such as a fist) directly inflict a wound based on the ideal of the attempted strike, but it must still penetrate any armor over the location.
+
+The power has a 30-second cooldown between uses.
+
+All Light Reflects Me (Light Synergy): You may use this ability without cooldown, against any [Light] based attack, and it automatically hits.
+
+Add +3 Effective Levels for accuracy only, to any reflected pure energy or magic that isn’t [Light]. This does not include anything utilizing a hard projectile.
+
+An improvement of capabilities and the cooldown. Great!
+
+The next thing to check out was that [Grant Invisibility] had changed.
+
+Sphere of Invisibility
+
+You are invisible at will with infinite duration. You may make any number of other targets within 5 meters of you invisible, at the cost of 2 FE (Illusion) or 4 FE. This lasts for 24 hours, or the cost may be stacked to add additional duration, a number of times equal to your deity levels. This invisibility does not end upon an attack.
+
+Your own invisibility requires a ‘detection effect’ or spell of your deity level or higher to detect you, regardless of the method (note that innate detections are generally, but not always, based on the subject’s level). Invisibility on others is not this potent, affecting normal vision and standard Infravision only.
+
+If this invisibility is dispelled, it must be recast, even on yourself. Reactivating your own invisibility doesn’t cost anything and takes 1 second.
+
+Okay, that’s quite an upgrade and makes operation significantly easier.
+
+[Dazzling Spectrum] had changed significantly…
+
+Dazzling
+
+At will, you may cause an intense flash of illusory imagery and/or sound, in a variable but concentrated direction. At maximum effect, it is a cone to a distance of 2 meters + 2 meters per deity level OR a spherical AoE of diameter 2 meters + 1 meter per level, to a range of 30 meters + 10 meters per level. You may warp the shape within this radius to avoid allies.
+
+Instead of using it exclusively as a solo effect, you may add this effect to other physical effects within your capabilities, whether as abilities or spells, in which case targets must deal with both effects separately. This does not require additional time or effort expended.
+
+Targets that do not resist will be stunned senseless for 10 seconds and completely blinded or deafened (based on visual or auditory components) for 1 minute per deity level (alternatively, the blinding and/or deafening effects may be removed).
+
+Base classes for level comparison for resistance purposes are: [Goddess], [Bard], [Wizard], or some special classes. One additional class may add as normal, providing (level/3, rounded up) to the base class. If with a visual component, add 4 Effective Levels to class levels; if concentrated on one single target, add 5 Effective Levels instead. Reduce these values by 1 if using sound only.
+
+Hypnotization: As an alternative effect, you may have the imagery strobe and Hypnotize instead, which will cause targets to do nothing for as long as you concentrate and maintain it, and for 20 seconds after.
+
+Targets will snap out of it upon being attacked (they defend at -2 Effective Levels if applicable) or upon vigorous shaking (or similar) by an ally. If broken due to a threat, they will know they’ve been hypnotized, but if broken by duration running out, they will be confused and only recall zoning out. The deduction of supernatural foul play is up to the individuals.
+
+Whoa… that’s subtle, but ultimately a total ‘go ahead’ addition to all kinds of shit — [Light Manipulation], [Spellfyr], staff attacks, my primary destruction spells like Seal of Destruction. Might be pointless in a lot of cases, but who knows? I can probably pull some bullshit with it, somehow…
+
+Suddenly, she smirked over at Azure, currently enjoying the mountain view. At the look, Azure turned and squinted her eyes suspiciously.
+
+Samantha whispered, “You’re under my sp-sp-spell!” and snapped her fingers, piggybacking [Dazzling: Hypnotization] through it. By not using it ‘purely,’ it seemed to make the effect more subtle.
+
+Her snap continued echoing and echoing as she maintained the effect, and her words kept repeating, somehow more sensual and alluring. Azure stood there, dazed, staring at her fingers, dumbfounded.
+
+Giggling, Samantha let the duration run out, and Azure finally started blinking in confusion. “Wha- whoa, what just happened!?” Blink, blink. “Did I fucking zone out just now for no reason?”
+
+Innocently, ‘idly,’ Samantha shrugged. “Iunno, I’ve just been here, being my dazzling lil’ self, feelin’ cute, checking my new abilities and whatnot…”
+
+Azure frowned at her suspiciously, rubbing her neck.
+
+Hehehe… I totally got away with that!
