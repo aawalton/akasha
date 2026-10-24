@@ -29,6 +29,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/turn-state/properties/turn-state-color.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/subagent/properties/subagent-kind.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/authoring/book-record/properties/record-book.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/book/pages/alan-and-jenny/topic/properties/alan-and-jenny-topic-parents.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/book/pages/all-about-alan/question/properties/question-topic.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-parents.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-related.multi-relation-property.types.ts","typed":true,"deferred":false}

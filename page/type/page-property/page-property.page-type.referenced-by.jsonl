@@ -26,6 +26,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"agent/seat/properties/conversation.computed-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"agent/seat/properties/open-shells.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"agent/seat/properties/seat-persons.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/book/pages/alan-and-jenny/topic/properties/alan-and-jenny-topic-parents.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-parents.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-related.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-part-of.multi-relation-property.types.ts","typed":true,"deferred":false}

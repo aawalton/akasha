@@ -7,6 +7,7 @@ export const alanBook = {
   definition: "a book Alan writes",
   extends: ["page-type/collection", "page-type/domain"],
   parts: [
+    "alan-book/alan-and-jenny",
     "alan-book/all-about-alan",
     "alan-book/learn-everything",
     "alan-book/my-faith",
@@ -18,7 +19,7 @@ export const alanBook = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A book Alan is writing is read by nobody else while Alan writes that book.",
+      statement: "A book Alan writes alone is read by nobody else while Alan writes that book.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -38,5 +39,5 @@ export const alanBook = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-04T15:56:55.337Z",
-  updatedAt: "2026-09-22T00:41:39.000Z",
+  updatedAt: "2026-10-24T18:59:18.841Z",
 } as const satisfies PageType
