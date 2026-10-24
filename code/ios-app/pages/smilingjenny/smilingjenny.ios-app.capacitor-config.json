@@ -6,5 +6,10 @@
   },
   "ios": {
     "limitsNavigationsToAppBoundDomains": false
+  },
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["banner", "list", "sound"]
+    }
   }
 }
