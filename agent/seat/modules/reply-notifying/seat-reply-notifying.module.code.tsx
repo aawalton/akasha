@@ -37,6 +37,12 @@ const openedAt = new Map<string, number>()
 
 const settledFor = new Map<string, string | null>()
 
+const STILL_MS = 120_000
+
+const STIRS = ["pointermove", "pointerdown", "keydown", "wheel", "touchstart"] as const
+
+let stirred = Date.now()
+
 const SUBDUED = "font-mono text-secondary text-xs"
 
 export function excerptOf(text: string): string {
@@ -83,16 +89,23 @@ function permissionNow(): Permission {
     : "unsupported"
 }
 
+export function awayIn(hidden: boolean, focused: boolean, stillFor: number): boolean {
+  return hidden || !focused || stillFor >= STILL_MS
+}
+
 function away(): boolean {
-  return document.visibilityState === "hidden" || !document.hasFocus()
+  return awayIn(document.visibilityState === "hidden", document.hasFocus(), Date.now() - stirred)
+}
+
+function stir(): undefined {
+  stirred = Date.now()
+  return undefined
 }
 
 function shown(seat: string, title: string, reply: Ended): undefined {
   try {
-    const notice = new Notification(title, {
-      body: reply.excerpt,
-      tag: `seat-reply-${seat}`,
-    })
+    const options = { body: reply.excerpt, tag: `seat-reply-${seat}`, renotify: true }
+    const notice = new Notification(title, options)
     notice.onclick = () => {
       window.focus()
       notice.close()
@@ -117,6 +130,12 @@ export function useReplyNotifying(
   useEffect(() => {
     if (!openedAt.has(seat)) openedAt.set(seat, Date.now())
   }, [seat])
+  useEffect(() => {
+    for (const one of STIRS) window.addEventListener(one, stir, { passive: true })
+    return () => {
+      for (const one of STIRS) window.removeEventListener(one, stir)
+    }
+  }, [])
   useEffect(() => {
     if (heard === null) return
     const opened = openedAt.get(seat) ?? Date.now()

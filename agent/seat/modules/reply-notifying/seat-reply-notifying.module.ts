@@ -37,7 +37,16 @@ export const seatReplyNotifying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reply notifies only while the page is hidden or the window is not focused.",
+      statement: "A reply notifies only while the person reading is away from the page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page hidden, a window not focused, or a page untouched for two minutes is away.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each reply sounds its notification even where the last one is still shown.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -57,5 +66,5 @@ export const seatReplyNotifying = {
     },
   ],
   createdAt: "2026-10-24T20:05:08.835Z",
-  updatedAt: "2026-10-24T21:08:43.506Z",
+  updatedAt: "2026-10-24T21:10:08.338Z",
 } as const satisfies Module

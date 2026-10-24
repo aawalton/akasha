@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  awayIn,
   excerptOf,
   type Heard,
   lastReply,
@@ -84,6 +85,13 @@ test("a person who sees only what was said is notified of the same reply", () =>
   expect(saidOnly(said)).toHaveLength(4)
   expect(whole).not.toBeNull()
   expect(seen).toEqual(whole)
+})
+
+test("a page focused and untouched for two minutes is away", () => {
+  expect(awayIn(false, true, 5_000)).toBe(false)
+  expect(awayIn(false, true, 120_000)).toBe(true)
+  expect(awayIn(true, true, 0)).toBe(true)
+  expect(awayIn(false, false, 0)).toBe(true)
 })
 
 test("an excerpt drops markdown and stays short", () => {
