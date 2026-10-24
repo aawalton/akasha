@@ -14,6 +14,7 @@ import {
   ReplyNotifyingControl,
   useReplyNotifying,
 } from "akasha/agent/seat/modules/reply-notifying/seat-reply-notifying.module.code.tsx"
+import { SeatTyping } from "akasha/agent/seat/modules/typing/seat-typing.module.code.tsx"
 import { useSeatVoice } from "akasha/agent/seat/voice/modules/live/seat-voice-live.module.code.ts"
 import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { PAGE_TITLE_CLASSES } from "akasha/design/interface/layout/modules/page-layout-data/page-layout-data.module.code.ts"
@@ -288,6 +289,11 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
             {pending.map((one) => (
               <PendingDrawn key={one.key} one={one} resend={resend} dismiss={dismiss} />
             ))}
+            <SeatTyping
+              seat={id}
+              turnState={heard.state === "heard" ? heard.turnState : null}
+              persona={data.persona}
+            />
             <div ref={endRef} />
           </div>
         </PageLayout.Content>
