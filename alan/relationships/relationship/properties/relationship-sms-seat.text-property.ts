@@ -18,8 +18,12 @@ export const relationshipSmsSeat = {
       statement:
         "A seat is named here as text, since a seat's page goes while no agent sits in it.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Jenny's texts reach Amy's seat until Jenny has a seat of her own.",
+    },
   ],
   types: "ts",
   createdAt: "2026-10-24T21:50:37.773Z",
-  updatedAt: "2026-10-24T21:50:37.773Z",
+  updatedAt: "2026-10-24T21:51:28.002Z",
 } as const satisfies TextProperty

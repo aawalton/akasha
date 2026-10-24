@@ -17,6 +17,7 @@ export const jenniferWalton = {
   relationshipPhone: "+16085122511",
   relationshipSmsAllowed: true,
   relationshipSmsHandlerTarget: "person/jenny",
+  relationshipSmsSeat: "amy",
   relationshipTopics: [
     "relationship-topic/rituals-audit",
     "relationship-topic/marriage-relationship",
@@ -37,5 +38,5 @@ export const jenniferWalton = {
     "relationship-topic/general",
   ],
   createdAt: "2026-04-22T12:39:34.018Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-24T21:51:28.002Z",
 } as const satisfies Relationship
