@@ -23,7 +23,11 @@ export const seatMessageAsking = {
       decisionKind: "decision-kind/departure",
       statement: "A refusal is answered as JSON naming the error, under the status handed in.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat's page is found by its name, for a route keeping values beside it.",
+    },
   ],
   createdAt: "2026-10-24T22:08:51.099Z",
-  updatedAt: "2026-10-24T22:11:07.505Z",
+  updatedAt: "2026-10-24T22:37:13.218Z",
 } as const satisfies Module

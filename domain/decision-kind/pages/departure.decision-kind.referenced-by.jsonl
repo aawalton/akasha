@@ -1350,6 +1350,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.ts","id":"01a0d493-a7df-70bc-8964-34c002acd32e"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-notice/alan-web-api-seat-notice.route.ts","id":"01a16ffe-1c42-741d-974e-7343d9f61274"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-regret/alan-web-api-seat-regret.route.ts","id":"01a16ff7-b672-7cbe-9dd9-7cf24d4bcf07"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-typing/alan-web-api-seat-typing.route.ts","id":"01a1700f-9a83-73e2-8739-cf7ebcacb37b"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-voice/alan-web-api-seat-voice.route.ts","id":"01a11b35-8c5b-7131-a1a2-2976f365503f"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-shape/alan-web-api-shape.route.ts","id":"01a0e17c-6623-70a6-ab15-2e192f21e346"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.ts","id":"01a08836-b1d8-7284-9c85-85d40203b334"}

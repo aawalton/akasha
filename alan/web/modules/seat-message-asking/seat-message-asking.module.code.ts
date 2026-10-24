@@ -1,7 +1,10 @@
 import { whereReadBy } from "akasha/alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import {
+  askingFor,
+  readingFor,
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const SEAT_PAGE_TYPE_SLUG = "seat"
 
@@ -41,4 +44,9 @@ export async function seatSlugOf(from: string, id: string): Promise<string | Ref
   if ("refused" in seats) return { refused: seats.refused, status: 503 }
   const slug = textIn(seats.rows[0]?.slug)
   return slug ?? { refused: `no seat \`${from}\` may read has the id \`${id}\``, status: 404 }
+}
+
+export async function seatPathOf(slug: string): Promise<string | null> {
+  const read = await readingFor({ pages: [{ pageTypeSlug: SEAT_PAGE_TYPE_SLUG, slug }] })
+  return "refused" in read ? null : (read.bodies[0]?.path ?? null)
 }

@@ -30,6 +30,7 @@ export const alanWebRoutes = {
     "route/alan-web-api-seat-message",
     "route/alan-web-api-seat-notice",
     "route/alan-web-api-seat-regret",
+    "route/alan-web-api-seat-typing",
     "route/alan-web-api-seat-voice",
     "route/alan-web-api-narration",
     "route/alan-web-api-narration-close",
@@ -95,5 +96,5 @@ export const alanWebRoutes = {
     },
   ],
   createdAt: "2026-09-10T15:18:13.817Z",
-  updatedAt: "2026-10-24T22:18:06.785Z",
+  updatedAt: "2026-10-24T22:37:13.218Z",
 } as const satisfies AppRoutes

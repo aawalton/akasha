@@ -90,6 +90,10 @@ export default [
     "api/seat/regret",
     "routes/alan-web-api-seat-regret/alan-web-api-seat-regret.route.code.ts"
   ),
+  route(
+    "api/seat/typing",
+    "routes/alan-web-api-seat-typing/alan-web-api-seat-typing.route.code.ts"
+  ),
   route("api/seat/image", "routes/alan-web-api-seat-image/alan-web-api-seat-image.route.code.ts"),
   route(
     "api/seat/notice",

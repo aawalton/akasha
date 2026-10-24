@@ -5,6 +5,7 @@ import { seatTurnState } from "akasha/agent/seat/turn-state/seat-turn-state.page
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import {
   refused,
+  seatPathOf,
   seatSlugOf,
   senderOf,
 } from "akasha/alan/web/modules/seat-message-asking/seat-message-asking.module.code.ts"
@@ -12,7 +13,6 @@ import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.modul
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   askingFor,
-  readingFor,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { z } from "zod"
@@ -88,11 +88,6 @@ function regrettable(held: Held, from: string, message: string): Response | null
     return refused("the reply to that message has finished or moved on, so it stays", 409)
   }
   return null
-}
-
-async function seatPathOf(slug: string): Promise<string | null> {
-  const read = await readingFor({ pages: [{ pageTypeSlug: SEAT_PAGE_TYPE_SLUG, slug }] })
-  return "refused" in read ? null : (read.bodies[0]?.path ?? null)
 }
 
 async function answered(id: string, message: string): Promise<Response> {
