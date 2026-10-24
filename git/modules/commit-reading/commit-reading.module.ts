@@ -67,6 +67,11 @@ export const commitReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A line is looked for only in the bytes the reader has read, however large its buffer grew.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reader is ended as the process exits.",
     },
     {
@@ -107,5 +112,5 @@ export const commitReading = {
     },
   ],
   createdAt: "2026-08-30T10:37:39.272Z",
-  updatedAt: "2026-09-27T14:40:32.000Z",
+  updatedAt: "2026-10-24T21:16:03.615Z",
 } as const satisfies Module

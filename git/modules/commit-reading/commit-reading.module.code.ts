@@ -186,7 +186,8 @@ function filled(held: Reading): undefined {
 
 function lineOf(held: Reading): string {
   for (;;) {
-    const end = held.held.indexOf(NEWLINE, held.from)
+    const found = held.held.subarray(held.from, held.to).indexOf(NEWLINE)
+    const end = found < 0 ? -1 : held.from + found
     if (end >= 0 && end < held.to) {
       const said = held.held.toString("utf8", held.from, end)
       held.from = end + 1
