@@ -10,10 +10,10 @@ export const dcgmExporter = {
   systemd: {
     after: ["network-online.target"],
     wants: ["network-online.target"],
-    stops: ["/usr/bin/podman stop dcgm-exporter"],
+    stops: ["/usr/bin/podman stop --ignore dcgm-exporter"],
     restart: "on-failure",
     restartDelaySeconds: 10,
   },
   createdAt: "2026-09-03T16:45:12.980Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-24T16:50:38.442Z",
 } as const satisfies ServiceWorkstation
