@@ -4,7 +4,7 @@ export const schemeChoice = {
   id: "01a16f7d-6d4c-795e-a5fa-d02d8c6e9e65",
   type: "page-type/module",
   slug: "scheme-choice",
-  definition: "the color scheme a reader chose, read and kept in the browser",
+  definition: "the color schemes a reader chooses between",
   code: "ts",
   decisions: [
     {
@@ -13,17 +13,9 @@ export const schemeChoice = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A choice is kept under the key the scheme boot reads.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A choice tells the scheme boot at once, so the page changes without a reload.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The server knows no choice, so a page it renders shows none until it hydrates.",
+      statement: "A value that is no scheme is read as the dark scheme.",
     },
   ],
   createdAt: "2026-10-24T19:57:33.386Z",
-  updatedAt: "2026-10-24T19:57:33.386Z",
+  updatedAt: "2026-10-24T21:28:38.090Z",
 } as const satisfies Module

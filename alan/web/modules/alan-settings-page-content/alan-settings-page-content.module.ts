@@ -15,7 +15,16 @@ export const alanSettingsPageContent = {
       decisionKind: "decision-kind/departure",
       statement: "A choice takes effect as it is made, with nothing to save.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A choice is kept on the reader's person page, so it follows them to every device.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A choice that could not be kept is said beside the choice.",
+    },
   ],
   createdAt: "2026-10-24T19:57:33.386Z",
-  updatedAt: "2026-10-24T19:57:33.386Z",
+  updatedAt: "2026-10-24T21:28:38.090Z",
 } as const satisfies Module

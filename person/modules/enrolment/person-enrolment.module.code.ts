@@ -156,6 +156,51 @@ export async function accountOfContributor(
   return { ok: true, account: textIn(row[ACCOUNT_KEY]), email: textIn(row[EMAIL_KEY]) }
 }
 
+const SCHEME_KEY = "scheme"
+
+type Schemed =
+  | { readonly ok: true; readonly personSlug: string; readonly scheme: string | null }
+  | { readonly ok: false; readonly unread: boolean; readonly why: string }
+
+export async function schemeOfContributor(
+  contributorSlug: string,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<Schemed> {
+  const contributor = contributorNamed(contributorSlug)
+  if (contributor === null) return { ok: false, unread: false, why: SIGNING_IN_AS_NOBODY }
+  const asked = await askingFor(
+    {
+      pageTypeSlug: PERSON_PAGE_TYPE,
+      where: { [CONTRIBUTOR_KEY]: { is: contributor } },
+      keys: ["slug", SCHEME_KEY],
+    },
+    fetcher,
+    naps
+  )
+  if ("refused" in asked) {
+    return {
+      ok: false,
+      unread: true,
+      why: `the person pages went unread, so the contributor ${contributor} reads no scheme: ${asked.refused}`,
+    }
+  }
+  const held = slugsIn(asked.rows)
+  const row = asked.rows[0]
+  const personSlug = held[0]
+  if (row === undefined || personSlug === undefined) {
+    return { ok: false, unread: false, why: `no person states the contributor ${contributor}` }
+  }
+  if (held.length > 1) {
+    return {
+      ok: false,
+      unread: true,
+      why: `${held.join(" and ")} each state the contributor ${contributor}, so it names no one person`,
+    }
+  }
+  return { ok: true, personSlug, scheme: textIn(row[SCHEME_KEY]) }
+}
+
 export type Whom =
   | { readonly by: "contributor"; readonly contributor: string }
   | { readonly by: "account"; readonly account: string }

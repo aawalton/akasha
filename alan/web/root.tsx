@@ -7,6 +7,7 @@ import {
   guardedRoot,
   type RouteAccessConfig,
 } from "akasha/alan/web/.server/alan-route-guard/alan-route-guard.module.code.ts"
+import { alanScheme } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font-preload.module.code.ts"
 import { PanelToggleProvider } from "akasha/design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
@@ -91,17 +92,20 @@ export const meta = metaFor(null)
 export async function loader({ request }: Route.LoaderArgs) {
   const guarded = await guardedRoot(request, AUTH_CONFIG)
   if (guarded !== null) throw guarded
-  const [document, home, phrases] = await Promise.all([
+  const [document, home, phrases, schemed] = await Promise.all([
     siteDocumentAt(WEB_APP, ""),
     siteDocumentAt(WEB_APP, HOME_PATH),
     phrasesRead(),
+    alanScheme(request),
   ])
-  return { document, homeLabel: home.title, phrases }
+  return { document, homeLabel: home.title, phrases, scheme: schemed?.scheme ?? null }
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const nonce = useDocumentNonce()
-  const homeLabel = useRouteLoaderData<typeof loader>(ROOT)?.homeLabel
+  const rooted = useRouteLoaderData<typeof loader>(ROOT)
+  const homeLabel = rooted?.homeLabel
+  const scheme = rooted?.scheme ?? undefined
   useEffect(() => {
     setStoreDiagnosticsSink((d) =>
       reportError({
@@ -118,7 +122,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
     document.documentElement.dataset.appReady = "1"
   }, [])
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="en" data-scheme-choice={scheme} suppressHydrationWarning>
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />

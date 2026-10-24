@@ -23,10 +23,10 @@ export const schemeBoot = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A choice is kept in the browser rather than on a page.",
+      statement: "The scheme boot reads the choice the server wrote on the root.",
     },
   ],
   types: "ts",
   createdAt: "2026-10-24T19:53:05.822Z",
-  updatedAt: "2026-10-24T19:53:05.822Z",
+  updatedAt: "2026-10-24T21:28:38.090Z",
 } as const satisfies CodeFileProperty
