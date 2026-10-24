@@ -22,10 +22,14 @@ export const alanWebApiSeatNotice = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A notice is written against the commit its person page was read at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A write the pages service refused is answered 503 rather than as a notice chosen.",
     },
   ],
   createdAt: "2026-10-24T22:18:06.785Z",
-  updatedAt: "2026-10-24T22:18:06.785Z",
+  updatedAt: "2026-10-24T22:42:11.888Z",
 } as const satisfies Route

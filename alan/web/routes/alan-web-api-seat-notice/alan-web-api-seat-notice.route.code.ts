@@ -14,6 +14,7 @@ import {
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   askingFor,
+  readingFor,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
@@ -71,14 +72,18 @@ export async function loader({ request }: { request: Request }): Promise<Respons
 }
 
 async function chosen(chooser: Chooser, notice: Notice): Promise<Response> {
+  const read = await readingFor({ pages: [{ pageTypeSlug: PERSON, slug: chooser.person }] })
+  if ("refused" in read) return refused(read.refused, 503)
+  const held = await noticesOf(chooser.person)
   const wrote = await writingFor({
     writer: WRITER,
     message: `${chooser.person} chooses to be told of the seat ${chooser.seat}'s replies by ${notice}`,
+    read: read.at,
     pages: [
       {
         pageTypeSlug: PERSON,
         slug: chooser.person,
-        values: { [SEAT_NOTICES]: noticesWith(chooser.held, chooser.seat, notice) },
+        values: { [SEAT_NOTICES]: noticesWith(held, chooser.seat, notice) },
         merge: true,
       },
     ],
