@@ -13,6 +13,15 @@ export const couplesCallRoom = {
       statement: "A leg is let in only where the call webhook answered its call for a spouse.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The webhook runs in the route bundle and the legs in the server, two module copies.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The calls answered are held on the global object, so both copies read one list.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "The therapist's session opens when the first spouse's leg opens.",
     },
@@ -48,5 +57,5 @@ export const couplesCallRoom = {
     },
   ],
   createdAt: "2026-10-24T20:51:01.335Z",
-  updatedAt: "2026-10-24T20:51:01.335Z",
+  updatedAt: "2026-10-24T21:27:07.207Z",
 } as const satisfies Module

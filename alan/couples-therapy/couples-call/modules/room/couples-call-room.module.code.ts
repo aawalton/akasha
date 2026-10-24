@@ -91,7 +91,15 @@ type Room = {
   ending: boolean
 }
 
-const EXPECTED = new Map<string, { readonly spouse: Spouse; readonly until: number }>()
+type Expected = Map<string, { readonly spouse: Spouse; readonly until: number }>
+
+const EXPECTED_AT = Symbol.for("akasha.couples-call.expected")
+
+const SHARED = globalThis as { [EXPECTED_AT]?: Expected }
+
+SHARED[EXPECTED_AT] ??= new Map()
+
+const EXPECTED: Expected = SHARED[EXPECTED_AT]
 
 const BY_SOCKET = new Map<LegSocket, Leg>()
 
@@ -354,6 +362,7 @@ export function legSaid(socket: LegSocket, text: string, now = Date.now()): unde
     const id = textIn(objectIn(said.start)?.call_control_id)
     const spouse = id === null ? null : spouseExpected(id, now)
     if (spouse === null) {
+      console.error(`[couples-call] a stream for an unanswered call was turned away (${id})`)
       socket.close()
       return
     }
