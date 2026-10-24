@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"persona.page-type.types.ts","path":"persona/pages/awen/awen.persona.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"persona.page-type.types.ts","path":"persona/pages/ceri/ceri.persona.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"persona.page-type.types.ts","path":"persona/pages/claude/claude.persona.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"persona.page-type.types.ts","path":"persona/pages/claudius/claudius.persona.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"persona.page-type.types.ts","path":"persona/pages/dalla/dalla.persona.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"persona.page-type.types.ts","path":"persona/pages/echo/echo.persona.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"persona.page-type.types.ts","path":"persona/pages/elaine/elaine.persona.ts","typed":true,"deferred":false}
