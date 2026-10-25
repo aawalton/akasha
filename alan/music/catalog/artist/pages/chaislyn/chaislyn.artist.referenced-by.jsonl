@@ -1,5 +1,6 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/chaislyn-already-had-it/chaislyn-already-had-it.song.ts","id":"01a0ba64-a513-73b3-8a9c-4469014c8633"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/chaislyn-carbon-copy/chaislyn-carbon-copy.song.ts","id":"01a0ba64-b311-7bd1-8f95-4c6e8af6f7f8"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/chaislyn-dateline/chaislyn-dateline.song.ts","id":"01a17350-a674-7b79-ab89-c702d1f927ac"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/chaislyn-dreams-i-forgot-about/chaislyn-dreams-i-forgot-about.song.ts","id":"01a0ba64-a836-7f6d-a191-2a88648f9967"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/chaislyn-him/chaislyn-him.song.ts","id":"01a0ba64-a975-7a04-9cea-88637113389a"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/chaislyn-little-did-i-know/chaislyn-little-did-i-know.song.ts","id":"01a0ba64-aabd-73f2-aea7-c552ef261294"}
@@ -12,6 +13,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/chaislyn-soulmates/chaislyn-soulmates.song.ts","id":"01a0ba64-b1d9-758a-a7ba-6ab5aca081ad"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/chaislyn-unreliable-narrator/chaislyn-unreliable-narrator.song.ts","id":"01a0ba64-b48c-762e-817a-33ec7425f866"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/chaislyn-already-had-it-already-had-it.track.ts","id":"01a0b9ec-971f-7875-ba8c-db13d53d2fba"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/chaislyn-dateline-dateline.track.ts","id":"01a17350-a674-7467-8ede-c101466148d9"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/chaislyn-dreams-i-forgot-about-dreams-i-forgot-about.track.ts","id":"01a0b9ec-9792-7227-85f2-10a834912626"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/chaislyn-him-him.track.ts","id":"01a0b9ec-9746-7bd9-aac8-3d65590f7d0e"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/chaislyn-little-did-i-know-little-did-i-know.track.ts","id":"01a0b9ec-97bd-795d-b154-bcc1c0705244"}
@@ -25,6 +27,7 @@
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/chaislyn-unreliable-narrator-carbon-copy.track.ts","id":"01a0b9ec-95bc-7c6b-a076-a3dcb146d000"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/chaislyn-unreliable-narrator-unreliable-narrator.track.ts","id":"01a0b9ec-955b-7ba8-a086-04d3ac112f99"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/chaislyn-already-had-it/chaislyn-already-had-it.release.ts","id":"01a0676a-d716-7034-96ae-ed83d4959d81"}
+{"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/chaislyn-dateline/chaislyn-dateline.release.ts","id":"01a17350-a673-7657-9163-c288de706266"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/chaislyn-dreams-i-forgot-about/chaislyn-dreams-i-forgot-about.release.ts","id":"01a0676a-d71c-7039-9feb-bede978e416a"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/chaislyn-him/chaislyn-him.release.ts","id":"01a0676a-d720-7040-bd0d-71e6a55e15c7"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/chaislyn-little-did-i-know/chaislyn-little-did-i-know.release.ts","id":"01a0676a-d723-7038-a9a8-e5b26fe0dcf9"}

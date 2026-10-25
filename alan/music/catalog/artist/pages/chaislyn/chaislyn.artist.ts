@@ -23,10 +23,10 @@ export const chaislyn = {
       source: "spotify",
       externalId: "3zmbniiciaBAJlSX1Bzq9R",
       externalLink: "https://open.spotify.com/artist/3zmbniiciaBAJlSX1Bzq9R",
-      lastSyncedAt: "2026-09-19",
+      lastSyncedAt: "2026-10-25",
     },
   ],
   title: "Chaislyn",
   createdAt: "2026-06-08T01:18:38.245Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-25T13:47:07.763Z",
 } as const satisfies Artist
