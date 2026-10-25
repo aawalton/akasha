@@ -29,6 +29,7 @@ export const relationship = {
     "text-property/relationship-role",
     "url-property/relationship-linkedin-url",
     "text-property/relationship-sms-seat",
+    "relation-property/relationship-email-handler-target",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -72,6 +73,11 @@ export const relationship = {
     },
     { pageProperty: "file-property/relationship-notes", required: false, many: false },
     { pageProperty: "text-property/relationship-sms-seat", required: false, many: false },
+    {
+      pageProperty: "relation-property/relationship-email-handler-target",
+      required: false,
+      many: false,
+    },
   ],
   decisions: [
     {
@@ -88,7 +94,8 @@ export const relationship = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A person the system reaches is named here only where a text is routed.",
+      statement:
+        "A person the system reaches is named here only where a text or an email is routed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -102,5 +109,5 @@ export const relationship = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:44:04.194Z",
-  updatedAt: "2026-10-24T21:50:37.773Z",
+  updatedAt: "2026-10-25T19:19:22.576Z",
 } as const satisfies PageType

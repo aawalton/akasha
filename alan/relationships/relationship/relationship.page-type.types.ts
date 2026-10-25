@@ -5,6 +5,7 @@ import type { RelationshipCompany } from "akasha/alan/relationships/relationship
 import type { RelationshipConnection } from "akasha/alan/relationships/relationship/properties/relationship-connection.number-property.types.ts"
 import type { RelationshipCurrentCircle } from "akasha/alan/relationships/relationship/properties/relationship-current-circle.select-property.types.ts"
 import type { RelationshipEmail } from "akasha/alan/relationships/relationship/properties/relationship-email.email-address-property.types.ts"
+import type { RelationshipEmailHandlerTarget } from "akasha/alan/relationships/relationship/properties/relationship-email-handler-target.relation-property.types.ts"
 import type { RelationshipImpact } from "akasha/alan/relationships/relationship/properties/relationship-impact.number-property.types.ts"
 import type { RelationshipInterest } from "akasha/alan/relationships/relationship/properties/relationship-interest.number-property.types.ts"
 import type { RelationshipLinkedinUrl } from "akasha/alan/relationships/relationship/properties/relationship-linkedin-url.url-property.types.ts"
@@ -39,4 +40,5 @@ export type Relationship = Page & {
   relationshipTopics?: RelationshipTopics
   relationshipNotes?: RelationshipNotes
   relationshipSmsSeat?: RelationshipSmsSeat
+  relationshipEmailHandlerTarget?: RelationshipEmailHandlerTarget
 }

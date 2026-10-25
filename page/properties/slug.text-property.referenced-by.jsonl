@@ -79,6 +79,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/relationships/relationship-deposit/properties/relationship-deposit-value.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/relationships/relationship-topic/properties/relationship-topic-parent.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/relationships/relationship-topic/properties/relationship-topic-people.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/relationships/relationship/properties/relationship-email-handler-target.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/relationships/relationship/properties/relationship-sms-handler-target.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/relationships/relationship/properties/relationship-topics.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/self/identity-statement/properties/identity-statement-value.relation-property.types.ts","typed":true,"deferred":false}

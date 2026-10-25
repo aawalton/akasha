@@ -11,6 +11,7 @@ export const jenniferWalton = {
   relationshipConnection: 5,
   relationshipCurrentCircle: "pair-bond",
   email: "smilingjenny@gmail.com",
+  relationshipEmailHandlerTarget: "person/jenny",
   relationshipImpact: 5,
   relationshipInterest: 5,
   relationshipLinkedinUrl: "https://www.linkedin.com/in/jennifer-walton-aa33919",
@@ -37,5 +38,5 @@ export const jenniferWalton = {
     "relationship-topic/general",
   ],
   createdAt: "2026-04-22T12:39:34.018Z",
-  updatedAt: "2026-10-25T19:15:23.241Z",
+  updatedAt: "2026-10-25T19:19:22.576Z",
 } as const satisfies Relationship

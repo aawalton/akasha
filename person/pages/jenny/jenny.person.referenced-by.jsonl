@@ -32,6 +32,7 @@
 {"propertySlug":"person-access-person","path":"person/access/pages/jenny-page-type-seat.person-access.ts","id":"01a16ee2-03d1-76c5-b3fd-9773ee0d6651"}
 {"propertySlug":"person-access-person","path":"person/access/pages/jenny-route-therapy.person-access.ts","id":"01a16fe6-f5c2-7eb7-a532-71e1bbbb7ac3"}
 {"propertySlug":"person-authority-person","path":"person/authority/pages/jenny-feature-request-all.person-authority.ts","id":"01a05433-f107-756f-b005-96376bf6df11"}
+{"propertySlug":"relationship-email-handler-target","path":"alan/relationships/relationship/pages/jennifer-walton/jennifer-walton.relationship.ts","id":"019db533-f382-757e-93d6-8b217ef99d58"}
 {"propertySlug":"relationship-sms-handler-target","path":"alan/relationships/relationship/pages/jennifer-walton/jennifer-walton.relationship.ts","id":"019db533-f382-757e-93d6-8b217ef99d58"}
 {"propertySlug":"relationship-topic-people","path":"alan/relationships/relationship-topic/pages/alan.relationship-topic.ts","id":"019db533-f382-7158-a470-03266e4f50c9"}
 {"propertySlug":"relationship-topic-people","path":"alan/relationships/relationship-topic/pages/bedtime.relationship-topic.ts","id":"019db533-f382-7143-91ec-77275caee483"}
