@@ -1,1 +1,1 @@
-{"id":"01a17496-fca9-7c00-be2a-796b172986c5","runStartedAt":"2026-10-25T19:43:34.568Z","runStatus":"running"}
+{"id":"01a17496-fca9-7c00-be2a-796b172986c5","runStartedAt":"2026-10-25T19:43:34.568Z","runStatus":"failed","runCompletedAt":"2026-10-25T19:43:52.982Z","durationMs":18414,"createdCount":200,"updatedCount":0,"skippedCount":0,"failedCount":1287,"runErrorMessage":"the sync filed 1287 chapter(s) as failed"}
