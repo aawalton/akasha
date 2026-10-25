@@ -14,7 +14,7 @@ const LINE_END = 10
 
 const INTERRUPTED = "[Request interrupted by user"
 
-export type RegretRefusal = "absent" | "mid-turn" | "overtaken" | "finished"
+type RegretRefusal = "absent" | "mid-turn" | "overtaken" | "finished"
 
 export type RegretCut = { readonly cut: number } | { readonly refused: RegretRefusal }
 
