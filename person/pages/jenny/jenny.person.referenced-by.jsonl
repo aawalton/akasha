@@ -1,3 +1,4 @@
+{"propertySlug":"assignment-slug","path":"agent/seat/pages/jenny/jenny.seat.ts","id":"01a1747b-bba0-7000-b8af-48e61ace8af9"}
 {"propertySlug":"device-token-person","path":"person/device-token/pages/jenny-smilingjenny-16f329938cd7017a68f0fb49b8a3d70f.device-token.ts","id":"01a05dc7-421c-7002-9590-d8530f11aa92"}
 {"propertySlug":"device-token-person","path":"person/device-token/pages/jenny-smilingjenny-8589f4f9e46a096b7a8ac2c73f113b37.device-token.ts","id":"01a05dc7-421c-7001-96bf-303c9e523ffa"}
 {"propertySlug":"email-rule-code-forward-to","path":"alan/harness/inbox/email-rule/code/pages/apple-receipt.email-rule-code.ts","id":"01a06860-54a2-743b-8fad-54f58e5a38a8"}
@@ -51,3 +52,4 @@
 {"propertySlug":"relationship-topic-people","path":"alan/relationships/relationship-topic/pages/trauma-responses.relationship-topic.ts","id":"019db533-f382-70e4-9008-a25f20f24124"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/claudius/claudius.seat.ts","id":"01a16f1c-8e48-7000-b6a3-9aae18284763"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/couples-therapy-recorder/couples-therapy-recorder.seat.ts","id":"01a16f4d-de44-7000-8eb5-11535784bbdc"}
+{"propertySlug":"seat-persons","path":"agent/seat/pages/jenny/jenny.seat.ts","id":"01a1747b-bba0-7000-b8af-48e61ace8af9"}
