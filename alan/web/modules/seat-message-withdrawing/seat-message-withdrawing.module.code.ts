@@ -17,7 +17,7 @@ const CLAIMED_AT = "claimedAt"
 
 const WRITER = "alanwalton web <web@alanwalton.com>"
 
-export type Withdrawal =
+type Withdrawal =
   | { readonly kind: "withdrawn" }
   | { readonly kind: "taken" }
   | { readonly kind: "refused"; readonly why: string; readonly status: number }
