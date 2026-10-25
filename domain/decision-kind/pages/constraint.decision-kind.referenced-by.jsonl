@@ -321,6 +321,7 @@
 {"propertySlug":"decision-kind","path":"command/modules/lone-calling/lone-calling.module.ts","id":"01a0d949-2a6c-79b8-91ec-e386aba092c8"}
 {"propertySlug":"decision-kind","path":"command/pages/browser/sign-in/browser-sign-in.command.ts","id":"01a0d4aa-9729-746e-bb1a-3dc8b0f23b58"}
 {"propertySlug":"decision-kind","path":"command/pages/change/apply/change-apply.command.ts","id":"01a08179-6ebf-724c-8698-aa6e02645d0e"}
+{"propertySlug":"decision-kind","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.ts","id":"01a091ac-1ea6-7af9-a725-96a51aaf0c5f"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/detaching/deploy-detaching.module.ts","id":"01a15b06-be25-778e-904d-5591081e5f6a"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.ts","id":"01a08e07-611c-798a-bc99-55b321247e50"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.ts","id":"01a0c9aa-e537-77da-a7a4-9d0d8d08e341"}

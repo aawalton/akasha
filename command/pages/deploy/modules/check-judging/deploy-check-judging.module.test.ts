@@ -75,7 +75,7 @@ function committed(root: string, said: string): string {
   return gitIn(root, "rev-parse", "HEAD")
 }
 
-test("a file renamed away is judged as taken out, so a check sees the table it left", () => {
+test("a file renamed away is judged where it was, in a change that moves nothing", () => {
   const root = mkdtempSync(join(SCRATCH_AT, "deploy-check-judging-"))
   try {
     const was = "pages/old/old.held.ts"
@@ -93,7 +93,8 @@ test("a file renamed away is judged as taken out, so a check sees the table it l
     const change = changeFrom(root, before, after, new Set([now]))
     expect(change.changed).toContain(now)
     expect(change.changed).toContain(was)
-    expect(change.before(was)).not.toBeNull()
+    expect(change.before).toBe(change.after)
+    expect(change.after(was)).toBeNull()
   } finally {
     rmSync(root, { recursive: true, force: true })
   }

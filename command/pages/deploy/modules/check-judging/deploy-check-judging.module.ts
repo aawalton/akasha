@@ -34,7 +34,21 @@ export const deployCheckJudging = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That change moves nothing, so each body is loaded where the body is.",
+      statement: "Every change a deploy judges moves nothing, so each body is read at this commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The index the checks read is the index this commit holds, however narrow the diff.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A narrowed diff settled onto that index drops a slug a file outside the diff now holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check comparing a body before and after sees no move.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -113,5 +127,5 @@ export const deployCheckJudging = {
     },
   ],
   createdAt: "2026-09-11T18:12:51.494Z",
-  updatedAt: "2026-10-20T20:05:58.028Z",
+  updatedAt: "2026-10-25T00:19:25.046Z",
 } as const satisfies Module

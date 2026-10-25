@@ -40,22 +40,15 @@ export function changeFrom(
   also: readonly string[] = []
 ): Change {
   const at = (path: string) => bodyAt(root, now, path)
-  const pinned = { root, base: now, pages: pagesAt(root, now) }
+  const pinned = { root, base: now, pages: pagesAt(root, now), before: at, after: at }
   if (was === null) {
     const changed = [...built]
-    const carried = carriedWith(root, now, built, changed)
-    return { ...pinned, changed, carried, before: at, after: at }
+    return { ...pinned, changed, carried: carriedWith(root, now, built, changed) }
   }
   const taken = takenBetween(root, was, now)
   const moved = changedBetween(root, was, now).filter((one) => built.has(one) || taken.has(one))
   const changed = [...new Set([...moved, ...also])]
-  return {
-    ...pinned,
-    changed,
-    carried: carriedWith(root, now, built, changed),
-    before: (path) => bodyAt(root, was, path),
-    after: at,
-  }
+  return { ...pinned, changed, carried: carriedWith(root, now, built, changed) }
 }
 
 export function saidOfNoGate(slug: string, broken: string): string {
