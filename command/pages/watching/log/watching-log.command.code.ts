@@ -97,6 +97,7 @@ function heldIn(kind: Kind, row: Row): Held | null {
 }
 
 function names(held: Held, linked: Linked): boolean {
+  if (linked.kind !== undefined && linked.kind !== held.kind) return false
   return held.identities.some(
     (one) => one.source === linked.source && one.externalId === linked.externalId
   )
@@ -242,7 +243,7 @@ async function episodeLogged(
   at: Found
 ): Promise<Answer> {
   const { held, known } = at
-  const kind = held?.kind ?? known?.kind ?? null
+  const kind = held?.kind ?? known?.kind ?? linked.kind ?? null
   if (kind === null) return refusedBy([unknownSaid(linked)], DATA)
   if (kind === movie.slug) {
     return refusedBy([`a film has no episodes, so this link takes no \`${episodeArgument.said}\``])
@@ -260,7 +261,9 @@ async function episodeLogged(
   const tv = await tmdbFor(opened, known, linked, token, calls)
   if (tv === null) return refusedBy([`TMDB holds no show titled ${title}`], DATA)
   const shown: HeldShow =
-    held === null ? { ...opened, identities: [identityOf(linked), tmdbIdentityOf(tv)] } : opened
+    held === null && tmdbIdOf(opened) === null
+      ? { ...opened, identities: [identityOf(linked), tmdbIdentityOf(tv)] }
+      : opened
   const aired = await airedFor(calls, token, tv)
   if (aired === null) return refusedBy([`TMDB answered nothing for its show ${tv}`], OPERATIONAL)
   const under = held === null ? { seasons: [], episodes: [] } : await heldUnder(calls, shown)

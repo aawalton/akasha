@@ -4,13 +4,21 @@ export const watchingLog = {
   id: "01a13bd7-c014-7d8c-a51d-3cb5159400a8",
   type: "page-type/command",
   slug: "watching-log",
-  definition: "the command logging a show or film Alan watched from the link he watched it at",
+  definition: "the command logging a show or film Alan watched from a link naming it",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A page stating the provider and the id is the page logged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A link to Netflix, Prime Video or TMDB is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A TMDB link reaches only a page of the kind its path names.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +79,5 @@ export const watchingLog = {
     { argument: "argument/day" },
   ],
   createdAt: "2026-10-14T19:15:57.587Z",
-  updatedAt: "2026-10-25T19:42:42.006Z",
+  updatedAt: "2026-10-25T23:38:46.276Z",
 } as const satisfies Command

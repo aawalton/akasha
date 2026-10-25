@@ -254,3 +254,33 @@ test("a page found by title is given the provider's id", async () => {
     externalIdentity: [NETFLIX],
   })
 })
+
+const HALLMARK = {
+  source: "tmdb",
+  externalId: "657018",
+  externalLink: "https://www.themoviedb.org/movie/657018",
+} as const
+
+test("a TMDB film link logs the film page stating that TMDB id", async () => {
+  const row = { slug: "a", title: "A", status: "not-started", externalIdentity: [HALLMARK] }
+  const fake = fakeOf({ movie: [row] }, null)
+  const said = await watchingLog(
+    ["--link", "https://www.themoviedb.org/movie/657018-a", "--status", "completed"],
+    GIVEN,
+    fake.calls
+  )
+  expect(said.report[0]).toBe("movie/a  completed  updated")
+  expect(fake.written[0]?.pages?.[0]?.slug).toBe("a")
+})
+
+test("a TMDB show link does not reach a film stating the same number", async () => {
+  const row = { slug: "a", title: "A", status: "not-started", externalIdentity: [HALLMARK] }
+  const fake = fakeOf({ movie: [row] }, null)
+  const said = await watchingLog(
+    ["--link", "https://www.themoviedb.org/tv/657018", "--status", "completed"],
+    GIVEN,
+    fake.calls
+  )
+  expect(fake.written).toHaveLength(0)
+  expect(said.refusals.length).toBeGreaterThan(0)
+})
