@@ -13,6 +13,9 @@ export function Drawing(props: PropertyRowProps) {
       </span>
       <div className="flex min-h-7 min-w-0 flex-1 flex-wrap items-center gap-1">
         <PropertyBadge {...props} context="row" />
+        {props.property.credit === undefined ? null : (
+          <span className="w-full text-tertiary text-xs">{props.property.credit}</span>
+        )}
       </div>
     </div>
   )

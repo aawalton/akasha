@@ -16,6 +16,7 @@ export type PropertyDefinition = {
   config?: Json
   accent?: boolean
   display?: "badge" | "inline"
+  credit?: string
   sort?: "alpha" | "manual"
   storage?: StorageTier
   columnName?: string

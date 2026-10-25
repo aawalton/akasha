@@ -38,6 +38,7 @@ export type PropertyDefinition = {
   readonly pageId?: string
   readonly accent?: boolean
   readonly display?: "badge" | "inline"
+  readonly credit?: string
   readonly sort?: "alpha" | "manual"
   readonly storage?: StorageTier
   readonly groupable?: boolean

@@ -126,10 +126,14 @@ export const filePropertyDefs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A definition has the credit its property states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A definition says it is answered only when asked by name where its property says so.",
     },
   ],
   createdAt: "2026-09-01T07:19:56.976Z",
-  updatedAt: "2026-09-28T23:57:05.000Z",
+  updatedAt: "2026-10-25T20:54:29.077Z",
 } as const satisfies Module

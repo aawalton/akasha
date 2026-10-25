@@ -29,6 +29,7 @@ import {
 import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { propertyDisplay } from "akasha/page/type/page-property/properties/property-display.select-property.ts"
+import { sourceCredit } from "akasha/page/type/page-property/properties/source-credit.text-property.ts"
 import { titleColoredBy } from "akasha/page/type/properties/title-colored-by.relation-property.ts"
 
 const PAGE_TYPE = "page-type"
@@ -59,6 +60,13 @@ const ICON = foldedInLowerCamelCase(icon.propertySlug)
 
 const DISPLAY = foldedInLowerCamelCase(propertyDisplay.propertySlug)
 
+const CREDIT = foldedInLowerCamelCase(sourceCredit.propertySlug)
+
+function creditedBy(page: Value | undefined): { readonly credit?: string } {
+  const said = page === undefined ? null : textAt(page, CREDIT)
+  return said === null || said === "" ? {} : { credit: said }
+}
+
 type Display = (typeof propertyDisplay.values)[number]
 
 function displayedBy(page: Value | undefined): { readonly display?: Display } {
@@ -88,6 +96,7 @@ export type Declared = {
   readonly askedByName?: boolean
   readonly holds?: string
   readonly display?: Display
+  readonly credit?: string
 }
 
 export type Shape = {
@@ -193,6 +202,7 @@ function declaredOf(
     ...(page?.[ASKED_BY_NAME] === true ? { askedByName: true } : {}),
     ...(typeof page?.[HOLDS] === "string" ? { holds: page[HOLDS] } : {}),
     ...displayedBy(page),
+    ...creditedBy(page),
   }
 }
 

@@ -226,6 +226,7 @@ export function definitionOf(one: Declared): PropertyDefinition {
     ...(one.icon === null ? {} : { icon: one.icon }),
     ...(one.askedByName === true ? { askedByName: true } : {}),
     ...(one.display === undefined ? {} : { display: one.display }),
+    ...(one.credit === undefined ? {} : { credit: one.credit }),
   }
 }
 
