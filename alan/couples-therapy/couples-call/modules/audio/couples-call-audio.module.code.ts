@@ -2,8 +2,6 @@ export const LEG_RATE = 8000
 
 export const HEARD_RATE = 16_000
 
-export const SAID_RATE = 24_000
-
 export const FRAME_MS = 20
 
 export const FRAME_SAMPLES = (LEG_RATE * FRAME_MS) / 1000
