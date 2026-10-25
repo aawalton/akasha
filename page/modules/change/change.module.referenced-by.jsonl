@@ -1,5 +1,4 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/dalla/dalla.seat.ts","id":"01a16fe0-759e-7000-b8cc-787a2037ab1d"}
-{"propertySlug":"assignment-slug","path":"agent/subagent/pages/dalla-a62e56bd0f091dd7a/dalla-a62e56bd0f091dd7a.subagent.ts","id":"01a17041-15ab-77a9-b147-3fc12b9997a6"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts","typed":true,"deferred":false}
