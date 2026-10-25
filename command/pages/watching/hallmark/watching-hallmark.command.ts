@@ -91,11 +91,12 @@ export const watchingHallmark = {
     "module/hallmark-listing",
     "module/hallmark-matching",
     "module/hallmark-misfiling",
+    "module/hallmark-placing",
     "module/hallmark-series",
     "module/hallmark-shelving",
   ],
   name: "hallmark",
   arguments: [{ argument: "argument/plan" }],
   createdAt: "2026-10-25T19:42:42.006Z",
-  updatedAt: "2026-10-25T19:59:30.746Z",
+  updatedAt: "2026-10-25T20:43:41.671Z",
 } as const satisfies Command

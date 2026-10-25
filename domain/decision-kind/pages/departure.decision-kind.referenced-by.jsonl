@@ -2714,6 +2714,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/modules/hallmark-listing/hallmark-listing.module.ts","id":"01a17496-2f57-7af2-b83f-e32414453f35"}
 {"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.ts","id":"01a17496-2f57-7fe0-b43c-f2b44fa4f552"}
 {"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/modules/hallmark-misfiling/hallmark-misfiling.module.ts","id":"01a174a5-93ba-7acb-819d-69607d5827a2"}
+{"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/modules/hallmark-placing/hallmark-placing.module.ts","id":"01a174ce-06e7-757b-aaf4-a0810f50f8f6"}
 {"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/modules/hallmark-series/hallmark-series.module.ts","id":"01a17496-2f57-775d-9eb5-986bf5f30c67"}
 {"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/modules/hallmark-shelving/hallmark-shelving.module.ts","id":"01a17496-2f57-74c0-94ae-d2bd50fd20d7"}
 {"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/watching-hallmark.command.ts","id":"01a17496-2f58-737f-8788-a05468c10256"}

@@ -1455,6 +1455,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/hallmark/modules/hallmark-listing/hallmark-listing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/hallmark/modules/hallmark-misfiling/hallmark-misfiling.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/hallmark/modules/hallmark-placing/hallmark-placing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/hallmark/modules/hallmark-series/hallmark-series.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/hallmark/modules/hallmark-shelving/hallmark-shelving.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/log/modules/episode-watching/episode-watching.module.ts","typed":true,"deferred":false}

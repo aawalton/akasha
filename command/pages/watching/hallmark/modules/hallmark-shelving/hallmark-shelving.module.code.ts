@@ -16,6 +16,10 @@ import {
   tmdbIdOf,
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-misfiling/hallmark-misfiling.module.code.ts"
 import {
+  placed,
+  positionsOf,
+} from "akasha/command/pages/watching/hallmark/modules/hallmark-placing/hallmark-placing.module.code.ts"
+import {
   articleOf,
   CATEGORIES,
   type Category,
@@ -88,8 +92,6 @@ const TMDB_SITE = "https://www.themoviedb.org"
 const WIKIPEDIA_SITE = "https://en.wikipedia.org/wiki/"
 
 const SUFFIXES: readonly number[] = [2, 3, 4, 5, 6, 7, 8, 9]
-
-const LAST_DAY = "9999-12-31"
 
 type Taken = { readonly row: Row | null; readonly slug: string }
 
@@ -174,10 +176,6 @@ function providedOf(titled: Titled): Said {
   }
 }
 
-function datedOf(entry: Entry): string {
-  return entry.listed?.aired ?? entry.titled?.publishedAt ?? LAST_DAY
-}
-
 function shelfOf(category: Category): string {
   return `${SHOW_COLLECTION}/${SHELVES[category].slug}`
 }
@@ -258,17 +256,6 @@ function shelvesFor(one: Entry, franchises: Franchised): readonly string[] {
   if (!one.christmas) return [shelfOf(one.base)]
   const mystery = one.kind === "show" && one.base === "mystery"
   return mystery ? [shelfOf("christmas"), shelfOf("mystery")] : [shelfOf("christmas")]
-}
-
-function positionsOf(series: ReadonlyMap<string, Series>): ReadonlyMap<Entry, number> {
-  const positions = new Map<Entry, number>()
-  for (const held of series.values()) {
-    const sorted = [...held.entries].sort((one, other) =>
-      datedOf(one).localeCompare(datedOf(other))
-    )
-    sorted.forEach((one, at) => positions.set(one, at))
-  }
-  return positions
 }
 
 function singlesOf(entries: readonly Entry[]): ReadonlySet<string> {
@@ -358,7 +345,9 @@ export function shelved(plan: Plan): Shelved {
     const taken = takes[one.kind](one.title, tmdbId, year)
     if (taken.row !== null) {
       const kept = keptPage(one, under, taken.row, plan.day)
-      if (kept !== null) pages.push(kept)
+      const position = positions.get(one)
+      const page = placed(kept, taken.row, one.kind, position, shelving)
+      if (page !== null) pages.push(page)
       continue
     }
     const wikipedia = wikipediaOf(one, single)

@@ -11,10 +11,7 @@ export const hallmarkShelving = {
       decisionKind: "decision-kind/departure",
       statement: "The Hallmark shelf has a romance shelf, a mystery shelf and a Christmas shelf.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A title in a series takes the place it aired in among that series.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A new title whose name another title holds is told apart by the year it aired.",
@@ -42,5 +39,5 @@ export const hallmarkShelving = {
     },
   ],
   createdAt: "2026-10-25T19:42:42.006Z",
-  updatedAt: "2026-10-25T19:59:30.746Z",
+  updatedAt: "2026-10-25T20:43:41.671Z",
 } as const satisfies Module
