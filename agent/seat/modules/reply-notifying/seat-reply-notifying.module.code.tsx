@@ -19,15 +19,15 @@ export type Said = {
   readonly at?: string
 }
 
-export type Ended = { readonly key: string; readonly excerpt: string; readonly at: number | null }
+type Ended = { readonly key: string; readonly excerpt: string; readonly at: number | null }
 
-export type Noticed = { readonly settled: string | null; readonly reply: Ended | null }
+type Noticed = { readonly settled: string | null; readonly reply: Ended | null }
 
 export type Heard = { readonly entries: readonly Said[]; readonly turnState: string | null }
 
 type Permission = "unsupported" | NotificationPermission
 
-export type Notifying = {
+type Notifying = {
   readonly offered: boolean
   readonly notice: Notice
   readonly saved: "saved" | "saving" | "unsaved"
