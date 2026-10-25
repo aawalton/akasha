@@ -669,6 +669,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/watching/properties/genres.text-property.ts","id":"01a06599-ee09-7006-a413-b286ec4d7f8d"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/properties/imdb-id.text-property.ts","id":"01a06599-ee09-7007-b8a2-be0208de08b8"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/properties/poster-path.text-property.ts","id":"01a06599-ee09-7008-9531-f53ecb8ff93d"}
+{"propertySlug":"decision-kind","path":"alan/collection/watching/properties/streaming-on.text-property.ts","id":"01a17481-a216-7c3e-a937-ab6a8dde5b35"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/properties/vote-average.number-property.ts","id":"01a06599-ee09-700a-8a23-63fc2cc72b2f"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/season/season.page-type.ts","id":"01a06599-ee09-7003-a52a-e6a01a72f7da"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/show/properties/last-air-date.calendar-date-property.ts","id":"01a06599-ee09-700d-9b99-fd8bc2af90cc"}

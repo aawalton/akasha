@@ -19,6 +19,12 @@ export const show = {
     { pageProperty: "text-property/poster-path", required: false, many: false },
     { pageProperty: "select-property/production-status", required: false, many: false },
     { pageProperty: "number-property/vote-average", required: false, many: false },
+    {
+      pageProperty: "text-property/streaming-on",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -37,5 +43,5 @@ export const show = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-25T19:20:15.125Z",
 } as const satisfies PageType

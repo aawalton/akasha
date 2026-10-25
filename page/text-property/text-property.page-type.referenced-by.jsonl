@@ -138,6 +138,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/watching/properties/genres.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/watching/properties/imdb-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/watching/properties/poster-path.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/watching/properties/streaming-on.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/code-editor/window/properties/window-features.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/inbox/email-rule/agent/properties/email-rule-judgement.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-delay.text-property.ts","typed":true,"deferred":false}
