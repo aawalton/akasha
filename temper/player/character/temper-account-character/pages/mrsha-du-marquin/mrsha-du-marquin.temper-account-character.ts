@@ -12,7 +12,8 @@ export const mrshaDuMarquin = {
   race: "temper-race/khajiit",
   class: "temper-class/warden",
   firstName: "Mrsha",
+  fights: "jsonl",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:25.366Z",
-  updatedAt: "2026-10-19T23:12:44.380Z",
+  updatedAt: "2026-10-25T19:57:17.636Z",
 } as const satisfies TemperAccountCharacter
