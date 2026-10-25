@@ -7,7 +7,7 @@ export const bigSkyRiver = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/big-sky-river"],
-  position: 0,
+  position: 1,
   publishedAt: "2022-08-07",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const bigSkyRiver = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:18.330Z",
-  updatedAt: "2026-10-25T19:47:18.330Z",
+  updatedAt: "2026-10-25T20:45:22.183Z",
 } as const satisfies Movie

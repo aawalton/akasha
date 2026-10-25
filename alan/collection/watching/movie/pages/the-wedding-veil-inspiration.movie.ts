@@ -7,7 +7,7 @@ export const theWeddingVeilInspiration = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/the-wedding-veil"],
-  position: 4,
+  position: 5,
   publishedAt: "2023-01-14",
   status: "not-started",
   unit: "unit/minutes",
@@ -26,5 +26,5 @@ export const theWeddingVeilInspiration = {
   voteAverage: 7.5,
   streamingOn: ["Philo", "fuboTV"],
   createdAt: "2026-10-25T19:47:18.330Z",
-  updatedAt: "2026-10-25T19:47:18.330Z",
+  updatedAt: "2026-10-25T20:45:22.183Z",
 } as const satisfies Movie

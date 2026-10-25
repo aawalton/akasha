@@ -7,7 +7,7 @@ export const theJaneMysteriesInheritanceLost = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/the-jane-mysteries"],
-  position: 0,
+  position: 1,
   publishedAt: "2023-05-12",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const theJaneMysteriesInheritanceLost = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:27.269Z",
-  updatedAt: "2026-10-25T19:47:27.269Z",
+  updatedAt: "2026-10-25T20:45:22.183Z",
 } as const satisfies Movie

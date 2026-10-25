@@ -7,7 +7,7 @@ export const theCasesOfMysteryLane = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/the-cases-of-mystery-lane"],
-  position: 0,
+  position: 1,
   publishedAt: "2023-03-19",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const theCasesOfMysteryLane = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:27.269Z",
-  updatedAt: "2026-10-25T19:47:27.269Z",
+  updatedAt: "2026-10-25T20:45:22.183Z",
 } as const satisfies Movie

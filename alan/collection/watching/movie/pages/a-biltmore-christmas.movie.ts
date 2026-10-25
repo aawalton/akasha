@@ -7,7 +7,7 @@ export const aBiltmoreChristmas = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/a-biltmore-christmas"],
-  position: 0,
+  position: 1,
   publishedAt: "2023-11-26",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const aBiltmoreChristmas = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:18.330Z",
-  updatedAt: "2026-10-25T19:47:18.330Z",
+  updatedAt: "2026-10-25T20:45:22.183Z",
 } as const satisfies Movie

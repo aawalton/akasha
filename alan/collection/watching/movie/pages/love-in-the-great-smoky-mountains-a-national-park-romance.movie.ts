@@ -7,7 +7,7 @@ export const loveInTheGreatSmokyMountainsANationalParkRomance = {
   ownLength: 82,
   ownProgress: 0,
   partOfCollections: ["franchise/a-national-park-romance"],
-  position: 2,
+  position: 3,
   publishedAt: "2023-09-02",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const loveInTheGreatSmokyMountainsANationalParkRomance = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:18.330Z",
-  updatedAt: "2026-10-25T19:47:18.330Z",
+  updatedAt: "2026-10-25T20:45:22.183Z",
 } as const satisfies Movie
