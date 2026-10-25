@@ -14,11 +14,11 @@ export const inventoryManagement = {
   scope: "all_characters",
   priority: "p2",
   progress: "jsonl",
-  progressCurrent: 6,
+  progressCurrent: 7,
   progressTotal: 20,
   lastCompletedAt: "2026-10-24T16:06:39.399Z",
   character: "temper-account-character/erin-solstice",
   createdAt: "2026-09-26T18:09:57.459Z",
-  updatedAt: "2026-10-25T19:34:50.548Z",
+  updatedAt: "2026-10-25T19:36:56.168Z",
   effectiveCharacter: "temper-account-character/erin-solstice",
 } as const satisfies TemperTask
