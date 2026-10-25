@@ -795,6 +795,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/email-inbound/modules/agent-channel/agent-channel.module.ts","id":"01a05bcd-25e3-7b2c-b378-4f00fd2d5eaa"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-inbound/modules/inbound-decision/inbound-decision.module.ts","id":"01a05bcd-25e4-7b6c-9b1e-0ebb793da0e0"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-inbound/modules/persona-channels/persona-channels.module.ts","id":"01a0a026-66e5-7676-b4cd-dedec3726a54"}
+{"propertySlug":"decision-kind","path":"alan/harness/email-inbound/modules/sender-handlers/sender-handlers.module.ts","id":"01a17482-3af7-7db8-95f2-a83b695ca757"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-inbound/modules/sender/sender.module.ts","id":"01a05bcd-25e3-7ad8-94f5-51861579256d"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-routing/email-routing.domain.ts","id":"01a0a134-8b3b-73ff-8e4a-6023f834c680"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-routing/modules/email-rule-planning/email-rule-planning.module.ts","id":"01a0a13e-68ba-75e1-9530-f6b30bf6b3c0"}

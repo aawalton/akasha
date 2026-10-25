@@ -613,6 +613,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-inbound/modules/inbound-decision/inbound-decision.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-inbound/modules/inbound-message/inbound-message.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-inbound/modules/persona-channels/persona-channels.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-inbound/modules/sender-handlers/sender-handlers.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-inbound/modules/sender/sender.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-routing/modules/email-rule-planning/email-rule-planning.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/email-routing/modules/email-zone-reaching/email-zone-reaching.module.ts","typed":true,"deferred":false}

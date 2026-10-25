@@ -49,6 +49,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/world-tree-assemble/world-tree-assemble.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/email-inbound/modules/sender-handlers/sender-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/inbox/modules/reading/inbox-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.code.ts","typed":false,"deferred":false}

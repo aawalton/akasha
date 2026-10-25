@@ -11,6 +11,7 @@ export const emailInbound = {
     "module/inbound-message",
     "module/persona-channels",
     "module/sender",
+    "module/sender-handlers",
   ],
   decisions: [
     {
@@ -31,5 +32,5 @@ export const emailInbound = {
     },
   ],
   createdAt: "2026-09-01T07:09:26.370Z",
-  updatedAt: "2026-09-24T22:43:38.000Z",
+  updatedAt: "2026-10-25T19:20:54.262Z",
 } as const satisfies Domain
