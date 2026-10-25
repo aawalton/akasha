@@ -27,8 +27,10 @@ export const smilingjennyWebRoutes = {
     "route/jenny-sign-out",
     "route/jenny-surplus",
     "route/jenny-upkeep",
+    "route/jenny-api-page-write",
+    "route/jenny-page-detail",
     "route/jenny-no-such-page",
   ],
   createdAt: "2026-09-10T15:12:39.222Z",
-  updatedAt: "2026-10-13T13:49:28.044Z",
+  updatedAt: "2026-10-25T20:07:35.430Z",
 } as const satisfies AppRoutes

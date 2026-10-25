@@ -3950,11 +3950,13 @@
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/modules/jenny-capacitor-bridge/jenny-capacitor-bridge.module.ts","id":"01a06558-c2cc-700b-8c63-64111f2259ac"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/modules/jenny-handover-site/jenny-handover-site.module.ts","id":"01a0c1e4-5f22-7a90-b8d1-3c7e9a4b2f08"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/modules/jenny-push-registration-sync/jenny-push-registration-sync.module.ts","id":"01a06558-c2cc-700c-a9ae-9d94adb263ca"}
+{"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-api-page-write/jenny-api-page-write.route.ts","id":"01a174ac-f906-7510-b54f-38c9dc71af57"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-categorization/jenny-categorization.route.ts","id":"01a08260-8738-752f-9a25-c4cddf4cfd5e"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-connection/jenny-connection.route.ts","id":"01a13586-7a6d-7a51-84fa-e9ec3de05aec"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-cost/jenny-cost.route.ts","id":"01a08bb2-255f-7fcd-be97-19292bc4115b"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-handover/jenny-handover.route.ts","id":"01a0c1e5-8b13-7d44-9e26-51f0a7c3d69b"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-no-such-page/jenny-no-such-page.route.ts","id":"01a0e316-e586-738d-b64c-a9a891b048f5"}
+{"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-page-detail/jenny-page-detail.route.ts","id":"01a174ac-f906-7d0b-83ed-7ab27d24d298"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-requests/jenny-requests.route.ts","id":"01a0c4b8-da65-71b0-9dc6-7a1bce543bd3"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.ts","id":"01a0824d-0956-7e7c-8f1c-271aa57e00a8"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-sign-in/jenny-sign-in.route.ts","id":"01a08823-9dc2-7243-8e1c-b4c0979fbb10"}

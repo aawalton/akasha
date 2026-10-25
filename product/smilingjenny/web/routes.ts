@@ -4,6 +4,10 @@ export default [
   layout("routes/_app-layout.tsx", [
     index("routes/jenny-home/jenny-home.route.code.tsx"),
     route("requests", "routes/jenny-requests/jenny-requests.route.code.tsx"),
+    route(
+      ":pageTypeSlug/:pageHrefParam",
+      "routes/jenny-page-detail/jenny-page-detail.route.code.tsx"
+    ),
   ]),
   route("handover", "routes/jenny-handover/jenny-handover.route.code.ts"),
   route("sign-in", "routes/jenny-sign-in/jenny-sign-in.route.code.ts"),
@@ -25,6 +29,7 @@ export default [
   route("api/page-events", "routes/jenny-api-page-events/jenny-api-page-events.route.code.ts"),
   route("api/page-follow", "routes/jenny-api-page-follow/jenny-api-page-follow.route.code.ts"),
   route("api/page-types", "routes/jenny-api-page-types/jenny-api-page-types.route.code.ts"),
+  route("api/page-write", "routes/jenny-api-page-write/jenny-api-page-write.route.code.ts"),
   route("api/pages/:pageTypeSlug", "routes/jenny-api-pages/jenny-api-pages.route.code.ts"),
   route("*", "routes/jenny-no-such-page/jenny-no-such-page.route.code.tsx"),
 ] satisfies RouteConfig

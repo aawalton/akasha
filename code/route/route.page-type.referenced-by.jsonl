@@ -163,6 +163,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-page-events/jenny-api-page-events.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-page-follow/jenny-api-page-follow.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-page-types/jenny-api-page-types.route.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-page-write/jenny-api-page-write.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-pages/jenny-api-pages.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-push-register/jenny-api-push-register.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-categorization/jenny-categorization.route.ts","typed":true,"deferred":false}
@@ -171,6 +172,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-handover/jenny-handover.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-home/jenny-home.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-no-such-page/jenny-no-such-page.route.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-page-detail/jenny-page-detail.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-requests/jenny-requests.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.ts","typed":true,"deferred":false}
