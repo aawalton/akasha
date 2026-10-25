@@ -24,7 +24,11 @@ export const gmailInboundAdapter = {
       decisionKind: "decision-kind/departure",
       statement: "Both the To and the Cc headers are searched for a persona's channel.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The seat a sender is handed to is looked up by the sender's bare address.",
+    },
   ],
   createdAt: "2026-09-01T08:20:30.641Z",
-  updatedAt: "2026-09-22T13:54:40.000Z",
+  updatedAt: "2026-10-25T19:22:27.284Z",
 } as const satisfies Module

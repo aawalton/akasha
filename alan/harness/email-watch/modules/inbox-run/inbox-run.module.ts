@@ -14,6 +14,11 @@ export const inboxRun = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A message on a persona channel from a sender a relationship hands to a seat is that seat's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A message discarded off a channel is left in the inbox for the reader to clear.",
     },
     {
@@ -81,5 +86,5 @@ export const inboxRun = {
     },
   ],
   createdAt: "2026-09-03T04:46:07.661Z",
-  updatedAt: "2026-10-08T16:25:19.067Z",
+  updatedAt: "2026-10-25T19:22:27.284Z",
 } as const satisfies Module

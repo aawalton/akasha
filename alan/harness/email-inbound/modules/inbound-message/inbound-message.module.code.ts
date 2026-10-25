@@ -8,6 +8,7 @@ export interface InboundMessage {
   readonly to: string
   readonly isFromSelf: boolean
   readonly addressedAgentHandle: string | undefined
+  readonly senderHandler: string | undefined
   readonly hasListUnsubscribe: boolean
   readonly isSpam: boolean
   readonly isSent: boolean

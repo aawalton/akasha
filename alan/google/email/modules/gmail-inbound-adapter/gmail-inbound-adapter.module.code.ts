@@ -10,7 +10,8 @@ import { parseSender } from "akasha/alan/harness/email-inbound/modules/sender/se
 export function buildInboundMessage(
   message: Message,
   selfAddress: string,
-  channels: ReadonlyMap<string, string>
+  channels: ReadonlyMap<string, string>,
+  handlers: ReadonlyMap<string, string>
 ): InboundMessage {
   return {
     from: message.from,
@@ -20,6 +21,7 @@ export function buildInboundMessage(
     to: message.to,
     isFromSelf: message.fromAddress === selfAddress.toLowerCase(),
     addressedAgentHandle: matchAgentChannel(channels, message.to, message.cc),
+    senderHandler: handlers.get(message.fromAddress),
     hasListUnsubscribe: message.unsubscribe !== "",
     isSpam: message.labelIds.includes(SPAM_LABEL),
     isSent: message.labelIds.includes(SENT_LABEL),

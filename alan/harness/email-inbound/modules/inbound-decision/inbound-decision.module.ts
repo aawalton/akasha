@@ -6,10 +6,17 @@ export const inboundDecision = {
   slug: "inbound-decision",
   definition: "what becomes of an arriving email",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A message on a persona channel from anyone but the watched account is discarded.",
+      statement:
+        "A message on a persona channel from a sender a relationship hands to a seat goes to that seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A message on a persona channel from anyone else but the watched account is discarded.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -17,5 +24,5 @@ export const inboundDecision = {
     },
   ],
   createdAt: "2026-09-01T07:09:26.372Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-25T19:22:27.284Z",
 } as const satisfies Module

@@ -7,6 +7,7 @@ import type {
 } from "akasha/alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.code.ts"
 import { decide as decideChannel } from "akasha/alan/harness/email-inbound/modules/inbound-decision/inbound-decision.module.code.ts"
 import { channelsOf } from "akasha/alan/harness/email-inbound/modules/persona-channels/persona-channels.module.code.ts"
+import { handlersOf } from "akasha/alan/harness/email-inbound/modules/sender-handlers/sender-handlers.module.code.ts"
 import { decide } from "akasha/alan/harness/email-watch/modules/email-rule-deciding/email-rule-deciding.module.code.ts"
 import type { Rule } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"
 import { rulesOf } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"
@@ -212,6 +213,7 @@ export async function oneRun(
 ): Promise<RunReport> {
   const rules = rulesOf(person, root)
   const channels = channelsOf(root)
+  const handlers = handlersOf(root)
   const selfAddress = (await box.profile()).emailAddress
   const state = readState()
   const claimed = new Set(state.claims.map((one) => one.messageId))
@@ -276,7 +278,7 @@ export async function oneRun(
     } catch {
       continue
     }
-    const channelWay = decideChannel(buildInboundMessage(message, selfAddress, channels))
+    const channelWay = decideChannel(buildInboundMessage(message, selfAddress, channels, handlers))
     if (channelWay.action === "agent-handle") {
       decisions.push(channelSaid(id, message, channelWay.reason))
       claims.push({

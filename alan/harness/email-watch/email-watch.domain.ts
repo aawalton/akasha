@@ -39,7 +39,7 @@ export const emailWatch = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A message on a persona channel Alan did not send is left alone rather than acted on.",
+        "A message on a persona channel Alan did not send is left alone, but where a seat takes its sender.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -47,5 +47,5 @@ export const emailWatch = {
     },
   ],
   createdAt: "2026-09-03T04:46:07.662Z",
-  updatedAt: "2026-10-08T16:24:29.200Z",
+  updatedAt: "2026-10-25T19:22:27.284Z",
 } as const satisfies Domain

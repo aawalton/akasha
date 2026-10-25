@@ -5,6 +5,13 @@ import type {
 
 export function decide(input: InboundMessage): Decision {
   if (input.addressedAgentHandle !== undefined) {
+    if (!input.isSent && input.senderHandler !== undefined) {
+      return {
+        action: "agent-handle",
+        agentHandle: input.senderHandler,
+        reason: `addressed to ${input.addressedAgentHandle}'s channel by a sender handed to ${input.senderHandler}: hand to ${input.senderHandler}`,
+      }
+    }
     if (!input.isSent) {
       return {
         action: "discard",
