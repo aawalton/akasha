@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const oneChristmasEve = {
+  id: "01a17499-8948-7850-bd12-00dbbf30c2b8",
+  type: "page-type/movie",
+  slug: "one-christmas-eve",
+  ownLength: 86,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-christmas"],
+  publishedAt: "2014-11-30",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "300187",
+      externalLink: "https://www.themoviedb.org/movie/300187",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "One Christmas Eve",
+  genres: ["Comedy", "Drama", "Family", "TV Movie"],
+  imdbId: "tt3725224",
+  posterPath: "/iA31KXW9NwnbJYxdZ4vgfrlRVTB.jpg",
+  voteAverage: 5.8,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T19:46:21.634Z",
+} as const satisfies Movie

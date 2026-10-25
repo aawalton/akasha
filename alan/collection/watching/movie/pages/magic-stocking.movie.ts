@@ -1,0 +1,42 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const magicStocking = {
+  id: "01a17499-8947-735b-b462-44896be1f722",
+  type: "page-type/movie",
+  slug: "magic-stocking",
+  ownLength: 90,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-christmas"],
+  publishedAt: "2015-12-06",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "369056",
+      externalLink: "https://www.themoviedb.org/movie/369056",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Magic Stocking",
+  genres: ["Family", "TV Movie"],
+  imdbId: "tt5062762",
+  posterPath: "/vZsufwUqMO4f7sDaekKodLnnR8K.jpg",
+  voteAverage: 6.5,
+  streamingOn: [
+    "Amazon MX Player",
+    "Amazon Prime Video",
+    "Amazon Prime Video Free with Ads",
+    "Amazon Prime Video with Ads",
+    "Cineverse Amazon Channel",
+    "Dove Amazon Channel",
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Tubi TV",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T19:46:21.634Z",
+} as const satisfies Movie

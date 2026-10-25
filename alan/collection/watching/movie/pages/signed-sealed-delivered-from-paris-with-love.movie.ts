@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const signedSealedDeliveredFromParisWithLove = {
+  id: "01a17499-8948-7b6a-8984-e65608a38f66",
+  type: "page-type/movie",
+  slug: "signed-sealed-delivered-from-paris-with-love",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["franchise/signed-sealed-delivered"],
+  position: 3,
+  publishedAt: "2015-06-06",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "338485",
+      externalLink: "https://www.themoviedb.org/movie/338485",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Signed, Sealed, Delivered: From Paris With Love",
+  genres: ["TV Movie", "Family"],
+  imdbId: "tt4662412",
+  posterPath: "/q03Qy0JLnrE72Dfbva4di9k57Xb.jpg",
+  voteAverage: 7,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T19:46:21.634Z",
+} as const satisfies Movie

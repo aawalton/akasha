@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const strandedInParadise = {
+  id: "01a17499-8949-7e10-bb5f-416d4678d9ee",
+  type: "page-type/movie",
+  slug: "stranded-in-paradise",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2014-08-09",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "286071",
+      externalLink: "https://www.themoviedb.org/movie/286071",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Stranded in Paradise",
+  genres: ["Drama", "Romance", "Comedy", "TV Movie"],
+  imdbId: "tt3815480",
+  posterPath: "/mvfKbcP1dMo5a4tijQ7ReZFH62B.jpg",
+  voteAverage: 6,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "Pluto TV",
+    "The Roku Channel",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T19:46:21.634Z",
+} as const satisfies Movie

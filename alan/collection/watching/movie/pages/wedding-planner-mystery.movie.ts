@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const weddingPlannerMystery = {
+  id: "01a17499-8949-79c4-98c1-75861cda36c8",
+  type: "page-type/movie",
+  slug: "wedding-planner-mystery",
+  ownLength: 83,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-mystery"],
+  publishedAt: "2014-10-19",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "300640",
+      externalLink: "https://www.themoviedb.org/movie/300640",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Wedding Planner Mystery",
+  genres: ["Mystery", "Drama", "TV Movie"],
+  imdbId: "tt3498956",
+  posterPath: "/lR9umkxBR6fb44KKSkivDE8RU4R.jpg",
+  voteAverage: 6,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T19:46:21.634Z",
+} as const satisfies Movie

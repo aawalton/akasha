@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const aWishComeTrue = {
+  id: "01a17499-8943-7ea2-b314-edc89025c550",
+  type: "page-type/movie",
+  slug: "a-wish-come-true",
+  ownLength: 85,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2015-01-31",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "317116",
+      externalLink: "https://www.themoviedb.org/movie/317116",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "A Wish Come True",
+  genres: ["TV Movie", "Romance"],
+  imdbId: "tt4146410",
+  posterPath: "/gRriEKHqruHh4qoc5OglriBCG8j.jpg",
+  voteAverage: 6,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T19:46:21.634Z",
+} as const satisfies Movie

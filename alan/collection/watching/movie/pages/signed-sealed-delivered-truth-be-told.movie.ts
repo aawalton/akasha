@@ -1,0 +1,41 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const signedSealedDeliveredTruthBeTold = {
+  id: "01a17499-8949-7ddc-993d-b664391fb001",
+  type: "page-type/movie",
+  slug: "signed-sealed-delivered-truth-be-told",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["franchise/signed-sealed-delivered"],
+  position: 4,
+  publishedAt: "2015-09-13",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "355730",
+      externalLink: "https://www.themoviedb.org/movie/355730",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Signed, Sealed, Delivered: Truth Be Told",
+  genres: ["Drama", "TV Movie"],
+  imdbId: "tt5026308",
+  posterPath: "/joPBHpo9WhneE31N5LFpjnQDOlG.jpg",
+  voteAverage: 6.7,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T19:46:21.634Z",
+} as const satisfies Movie

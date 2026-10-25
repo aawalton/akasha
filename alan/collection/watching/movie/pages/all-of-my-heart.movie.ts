@@ -1,0 +1,41 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const allOfMyHeart = {
+  id: "01a17499-8943-724c-9972-d80605232da1",
+  type: "page-type/movie",
+  slug: "all-of-my-heart",
+  ownLength: 81,
+  ownProgress: 0,
+  partOfCollections: ["franchise/all-of-my-heart"],
+  position: 0,
+  publishedAt: "2015-02-14",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "317121",
+      externalLink: "https://www.themoviedb.org/movie/317121",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "All of My Heart",
+  genres: ["Romance", "TV Movie"],
+  imdbId: "tt4460176",
+  posterPath: "/nCAvpheAApLv9LtvMW0tjywkz6B.jpg",
+  voteAverage: 6.876,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T19:46:21.634Z",
+} as const satisfies Movie
