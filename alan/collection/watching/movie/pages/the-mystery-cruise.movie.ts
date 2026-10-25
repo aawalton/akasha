@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const theMysteryCruise = {
+  id: "01a17499-66a2-7268-b7a2-bd3088d7c91e",
+  type: "page-type/movie",
+  slug: "the-mystery-cruise",
+  ownLength: 83,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-mystery"],
+  publishedAt: "2013-10-05",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "231622",
+      externalLink: "https://www.themoviedb.org/movie/231622",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "The Mystery Cruise",
+  genres: ["TV Movie", "Mystery"],
+  imdbId: "tt3242640",
+  posterPath: "/nK6RcAfj3eNeaeUIWYs5CNsoi9x.jpg",
+  voteAverage: 5.7,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-25T19:46:12.764Z",
+} as const satisfies Movie

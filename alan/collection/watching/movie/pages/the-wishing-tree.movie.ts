@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const theWishingTree = {
+  id: "01a17499-66a3-745b-be5a-399b8e0326c2",
+  type: "page-type/movie",
+  slug: "the-wishing-tree",
+  ownLength: 86,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-christmas"],
+  publishedAt: "2012-11-10",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "144725",
+      externalLink: "https://www.themoviedb.org/movie/144725",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "The Wishing Tree",
+  genres: ["Comedy", "TV Movie", "Romance"],
+  imdbId: "tt2339739",
+  posterPath: "/yBJ0FHxG6m5OQvNwduZ9gJQTban.jpg",
+  voteAverage: 5.8,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-25T19:46:12.764Z",
+} as const satisfies Movie

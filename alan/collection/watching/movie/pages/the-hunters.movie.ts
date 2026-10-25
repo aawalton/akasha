@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const theHunters = {
+  id: "01a17499-66a2-739b-a02f-107d8d8f9ef1",
+  type: "page-type/movie",
+  slug: "the-hunters",
+  ownLength: 85,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2013-10-25",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "231474",
+      externalLink: "https://www.themoviedb.org/movie/231474",
+      lastSyncedAt: "2026-10-25",
+    },
+    { source: "wikipedia", externalLink: "https://en.wikipedia.org/wiki/The_Hunters_(2013_film)" },
+  ],
+  title: "The Hunters",
+  genres: ["Adventure"],
+  imdbId: "tt2963232",
+  posterPath: "/ubR6x50z4aLflgzJcw7X7HflKKr.jpg",
+  voteAverage: 5.6,
+  streamingOn: [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "AsianCrush",
+    "Cineverse",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+  ],
+  createdAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-25T19:46:12.764Z",
+} as const satisfies Movie
