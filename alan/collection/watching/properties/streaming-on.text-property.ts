@@ -8,6 +8,7 @@ export const streamingOn = {
   definition: "a service a collection streams on in the United States",
   maxLength: 100,
   nameFormat: null,
+  sourceCredit: "Streaming data from JustWatch",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -38,11 +39,11 @@ export const streamingOn = {
       statement: "No view of the Hallmark shelf shows a service.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "A page's own screen shows its services without crediting JustWatch.",
+      decisionKind: "decision-kind/departure",
+      statement: "A page's own screen credits JustWatch directly beneath the services it lists.",
     },
   ],
   types: "ts",
   createdAt: "2026-10-25T19:20:15.125Z",
-  updatedAt: "2026-10-25T20:30:29.025Z",
+  updatedAt: "2026-10-25T20:56:38.401Z",
 } as const satisfies TextProperty
