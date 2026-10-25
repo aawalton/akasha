@@ -7,7 +7,7 @@ export const rouxTheDayAGourmetDetectiveMystery = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/gourmet-detective"],
-  position: 4,
+  position: 5,
   publishedAt: "2020-01-19",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const rouxTheDayAGourmetDetectiveMystery = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie

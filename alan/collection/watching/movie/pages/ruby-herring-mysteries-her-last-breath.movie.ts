@@ -7,7 +7,7 @@ export const rubyHerringMysteriesHerLastBreath = {
   ownLength: 90,
   ownProgress: 0,
   partOfCollections: ["franchise/ruby-herring-mysteries"],
-  position: 1,
+  position: 2,
   publishedAt: "2019-09-29",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const rubyHerringMysteriesHerLastBreath = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie

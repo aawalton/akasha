@@ -7,7 +7,7 @@ export const auroraTeagardenMysteriesAVeryFoulPlay = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/aurora-teagarden-mystery"],
-  position: 11,
+  position: 12,
   publishedAt: "2019-08-18",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const auroraTeagardenMysteriesAVeryFoulPlay = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie

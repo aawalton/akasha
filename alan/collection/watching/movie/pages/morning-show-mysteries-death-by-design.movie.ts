@@ -7,7 +7,7 @@ export const morningShowMysteriesDeathByDesign = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/morning-show-mysteries"],
-  position: 4,
+  position: 5,
   publishedAt: "2019-04-28",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const morningShowMysteriesDeathByDesign = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie

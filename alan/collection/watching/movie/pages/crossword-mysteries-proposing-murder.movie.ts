@@ -7,7 +7,7 @@ export const crosswordMysteriesProposingMurder = {
   ownLength: 82,
   ownProgress: 0,
   partOfCollections: ["franchise/crossword-mysteries"],
-  position: 1,
+  position: 2,
   publishedAt: "2019-10-13",
   status: "not-started",
   unit: "unit/minutes",
@@ -36,5 +36,5 @@ export const crosswordMysteriesProposingMurder = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie

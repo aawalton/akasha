@@ -7,7 +7,7 @@ export const haileyDeanMysteriesKillerSentence = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/hailey-dean-mysteries"],
-  position: 8,
+  position: 9,
   publishedAt: "2019-05-19",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const haileyDeanMysteriesKillerSentence = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie

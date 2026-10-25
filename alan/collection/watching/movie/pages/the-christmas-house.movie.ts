@@ -7,7 +7,7 @@ export const theChristmasHouse = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/the-christmas-house"],
-  position: 0,
+  position: 1,
   publishedAt: "2020-11-22",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const theChristmasHouse = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie

@@ -7,7 +7,7 @@ export const rubyHerringMysteriesSilentWitness = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/ruby-herring-mysteries"],
-  position: 0,
+  position: 1,
   publishedAt: "2019-01-20",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const rubyHerringMysteriesSilentWitness = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie

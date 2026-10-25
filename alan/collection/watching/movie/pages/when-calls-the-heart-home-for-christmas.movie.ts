@@ -7,11 +7,11 @@ export const whenCallsTheHeartHomeForChristmas = {
   ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["franchise/when-calls-the-heart"],
-  position: 6,
+  position: 7,
   publishedAt: "2019-12-25",
   status: "not-started",
   unit: "unit/minutes",
   title: "When Calls the Heart: Home for Christmas",
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie

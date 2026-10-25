@@ -7,7 +7,7 @@ export const emmaFieldingMysteriesMoreBitterThanDeath = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/emma-fielding-mystery"],
-  position: 2,
+  position: 3,
   publishedAt: "2019-02-10",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const emmaFieldingMysteriesMoreBitterThanDeath = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie

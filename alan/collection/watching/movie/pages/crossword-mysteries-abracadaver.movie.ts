@@ -7,7 +7,7 @@ export const crosswordMysteriesAbracadaver = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/crossword-mysteries"],
-  position: 2,
+  position: 3,
   publishedAt: "2020-01-05",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const crosswordMysteriesAbracadaver = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie

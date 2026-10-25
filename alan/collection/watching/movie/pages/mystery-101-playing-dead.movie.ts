@@ -7,7 +7,7 @@ export const mystery101PlayingDead = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/mystery-101"],
-  position: 1,
+  position: 2,
   publishedAt: "2019-06-23",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const mystery101PlayingDead = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-25T20:45:13.587Z",
 } as const satisfies Movie
