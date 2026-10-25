@@ -7,7 +7,7 @@ export const mcbrideFallenIdol = {
   ownLength: 120,
   ownProgress: 0,
   partOfCollections: ["franchise/mcbride"],
-  position: 6,
+  position: 7,
   publishedAt: "2006-03-11",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const mcbrideFallenIdol = {
   posterPath: "/hFH3U0xnleUXDyuArSinP8uK33Y.jpg",
   voteAverage: 6.5,
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

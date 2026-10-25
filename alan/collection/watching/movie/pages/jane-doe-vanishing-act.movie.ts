@@ -7,7 +7,7 @@ export const janeDoeVanishingAct = {
   ownLength: 92,
   ownProgress: 0,
   partOfCollections: ["franchise/jane-doe"],
-  position: 0,
+  position: 1,
   publishedAt: "2005-01-21",
   status: "not-started",
   unit: "unit/minutes",
@@ -27,5 +27,5 @@ export const janeDoeVanishingAct = {
   voteAverage: 5.8,
   streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

@@ -7,7 +7,7 @@ export const janeDoeTilDeathDoUsPart = {
   ownLength: 89,
   ownProgress: 0,
   partOfCollections: ["franchise/jane-doe"],
-  position: 2,
+  position: 3,
   publishedAt: "2005-03-11",
   status: "not-started",
   unit: "unit/minutes",
@@ -26,5 +26,5 @@ export const janeDoeTilDeathDoUsPart = {
   voteAverage: 6,
   streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

@@ -7,7 +7,7 @@ export const mysteryWomanAtFirstSight = {
   ownLength: 120,
   ownProgress: 0,
   partOfCollections: ["franchise/mystery-woman"],
-  position: 6,
+  position: 7,
   publishedAt: "2006-01-21",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const mysteryWomanAtFirstSight = {
   posterPath: "/yClng0JdrfyQEVzbdATnyuFgj7a.jpg",
   voteAverage: 6.3,
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

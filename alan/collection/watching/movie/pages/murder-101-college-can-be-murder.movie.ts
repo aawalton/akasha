@@ -7,7 +7,7 @@ export const murder101CollegeCanBeMurder = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/murder-101"],
-  position: 1,
+  position: 2,
   publishedAt: "2007-01-06",
   status: "not-started",
   unit: "unit/minutes",
@@ -30,5 +30,5 @@ export const murder101CollegeCanBeMurder = {
   voteAverage: 7.1,
   streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

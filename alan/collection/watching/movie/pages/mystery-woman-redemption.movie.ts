@@ -7,7 +7,7 @@ export const mysteryWomanRedemption = {
   ownLength: 77,
   ownProgress: 0,
   partOfCollections: ["franchise/mystery-woman"],
-  position: 9,
+  position: 10,
   publishedAt: "2006-11-06",
   status: "not-started",
   unit: "unit/minutes",
@@ -26,5 +26,5 @@ export const mysteryWomanRedemption = {
   voteAverage: 6.7,
   streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

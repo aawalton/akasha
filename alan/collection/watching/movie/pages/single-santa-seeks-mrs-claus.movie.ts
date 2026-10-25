@@ -7,7 +7,7 @@ export const singleSantaSeeksMrsClaus = {
   ownLength: 96,
   ownProgress: 0,
   partOfCollections: ["franchise/single-santa-seeks-mrs-claus"],
-  position: 0,
+  position: 1,
   publishedAt: "2004-12-11",
   status: "not-started",
   unit: "unit/minutes",
@@ -34,5 +34,5 @@ export const singleSantaSeeksMrsClaus = {
     "Xumo Play",
   ],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

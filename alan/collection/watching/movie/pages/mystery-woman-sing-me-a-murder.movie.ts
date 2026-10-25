@@ -7,7 +7,7 @@ export const mysteryWomanSingMeAMurder = {
   ownLength: 120,
   ownProgress: 0,
   partOfCollections: ["franchise/mystery-woman"],
-  position: 3,
+  position: 4,
   publishedAt: "2005-02-25",
   status: "not-started",
   unit: "unit/minutes",
@@ -26,5 +26,5 @@ export const mysteryWomanSingMeAMurder = {
   voteAverage: 5.8,
   streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

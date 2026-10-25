@@ -7,7 +7,7 @@ export const mcbrideAnybodyHereMurderMarty = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/mcbride"],
-  position: 5,
+  position: 6,
   publishedAt: "2005-08-28",
   status: "not-started",
   unit: "unit/minutes",
@@ -26,5 +26,5 @@ export const mcbrideAnybodyHereMurderMarty = {
   voteAverage: 7.4,
   streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

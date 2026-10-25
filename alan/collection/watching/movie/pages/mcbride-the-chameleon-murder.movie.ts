@@ -7,7 +7,7 @@ export const mcbrideTheChameleonMurder = {
   ownLength: 87,
   ownProgress: 0,
   partOfCollections: ["franchise/mcbride"],
-  position: 0,
+  position: 1,
   publishedAt: "2005-01-14",
   status: "not-started",
   unit: "unit/minutes",
@@ -26,5 +26,5 @@ export const mcbrideTheChameleonMurder = {
   voteAverage: 7.3,
   streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

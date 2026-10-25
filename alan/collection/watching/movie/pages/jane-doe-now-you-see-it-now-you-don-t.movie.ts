@@ -7,7 +7,7 @@ export const janeDoeNowYouSeeItNowYouDonT = {
   ownLength: 89,
   ownProgress: 0,
   partOfCollections: ["franchise/jane-doe"],
-  position: 1,
+  position: 2,
   publishedAt: "2005-02-18",
   status: "not-started",
   unit: "unit/minutes",
@@ -26,5 +26,5 @@ export const janeDoeNowYouSeeItNowYouDonT = {
   voteAverage: 6,
   streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

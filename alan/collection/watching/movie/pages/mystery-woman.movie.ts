@@ -7,7 +7,7 @@ export const mysteryWoman = {
   ownLength: 88,
   ownProgress: 0,
   partOfCollections: ["franchise/mystery-woman"],
-  position: 0,
+  position: 1,
   publishedAt: "2003-08-31",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const mysteryWoman = {
   posterPath: "/7crZ2mg1cIezYaLVMsqEOD3BIdD.jpg",
   voteAverage: 6.4,
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

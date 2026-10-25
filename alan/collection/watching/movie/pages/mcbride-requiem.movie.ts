@@ -7,7 +7,7 @@ export const mcbrideRequiem = {
   ownLength: 90,
   ownProgress: 0,
   partOfCollections: ["franchise/mcbride"],
-  position: 7,
+  position: 8,
   publishedAt: "2006-05-31",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const mcbrideRequiem = {
   posterPath: "/966bO6ryonAiZ8jltRWYakvbYVF.jpg",
   voteAverage: 6.7,
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie

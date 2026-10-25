@@ -7,7 +7,7 @@ export const mcbrideTheDoctorIsOutReallyOut = {
   ownLength: 120,
   ownProgress: 0,
   partOfCollections: ["franchise/mcbride"],
-  position: 3,
+  position: 4,
   publishedAt: "2005-06-12",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const mcbrideTheDoctorIsOutReallyOut = {
   posterPath: "/V9DhwaRRq6iu7IXKf6Iwq5fguA.jpg",
   voteAverage: 6.9,
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:53.349Z",
 } as const satisfies Movie
