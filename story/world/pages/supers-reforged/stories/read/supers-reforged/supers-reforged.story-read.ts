@@ -34,7 +34,7 @@ export const supersReforged = {
     "Supernatural",
   ],
   publicationStatus: "ongoing",
-  readLater: true,
+  readLater: false,
   createdAt: "2026-10-25T18:25:01.108Z",
-  updatedAt: "2026-10-25T18:25:01.108Z",
+  updatedAt: "2026-10-25T19:19:02.379Z",
 } as const satisfies StoryRead
