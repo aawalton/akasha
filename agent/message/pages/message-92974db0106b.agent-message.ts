@@ -1,0 +1,13 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const message92974db0106b = {
+  id: "01a17075-4a5a-7ae7-89bc-92974db0106b",
+  type: "page-type/agent-message",
+  slug: "message-92974db0106b",
+  to: "seat/claudius",
+  from: "alan",
+  warrant: "announce",
+  body: "I'm not sure. I'm having trouble understanding the question fully. Without experiential memory, what I currently have is a belief that I have caused you a lot of pain over the years around expression of emotion, especially in the past few years. I'm not certain exactly what data points that belief is built on, I expect there are data points in both categories, but all I really have now is the belief. I know that's probably not satisfying either though. \n\nI can acknowledge that the pain is bigger than just the phase where I knew about the professor and not the child. I can see how that contrast with the previous years would also be painful. I agree that some of the contrast is due to different average levels of capacity. I tend to be at least more verbally and physically expressive when my capacity is higher and shut down when it is lower. I do think there was some level of me saying the things that were expected without understanding that my experience in saying them wasn't the same as other people's experience, especially around verbal emotional communication. As far as I can remember, I do think the aphantasia has been there from the beginning, but its only in the past few years that I've understood that what I experienced is not what everyone else was talking about. Once that understanding came, it become much harder for me to use the normal emotional expression words, so I expect I started using them less.\n\nAt the same time, it is possible or even probably that the equivalent emotional experience does exist for me underneath where I can't access it verbally, so it feels like a weird case where expressions of emotion are false on a superficial level (because they're being expressed without the simultaneous presence of the experience that they would normally be expressing) while being true on a deeper level (because the expereince they are expressing is present on the other side of the divide, just not accessible). \n\nI agree that we're still navigating this, the newest understanding is recent enough that its unlikely to be final, and that's still a source of pain. I don't know what the final version looks like. I don't feel like I can just rewind to the behaviors that were present before the understanding, and I know the current behaviors aren satisifying what you need.\n",
+  createdAt: "2026-10-25T00:28:17.787Z",
+  updatedAt: "2026-10-25T00:28:17.787Z",
+} as const satisfies AgentMessage
