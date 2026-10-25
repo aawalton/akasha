@@ -1,0 +1,191 @@
+In the quiet halls of Founding Kiln, Custodian Mera Pell sat at her immaculate desk. She was completing the post inspection housekeeping on the Infinite Archive commission. Keeper Sanders’s recent visit had been administratively intense, and there were still several ledgers that required updating now that he had formally demonstrated his standing.
+
+Mera traced a manicured finger down the glowing blue parchment of the amended commission register. Everything was settling perfectly into order, until one entry at the bottom of the ledger refused to clear.
+
+LEGACY REPRESENTATIVE REVIEW REQUIRED
+
+Designation: EXTERNAL CLOSURE CONSULTANT
+
+Authority Token: DAMAGED KEEPER KEY
+
+Identity: RESTRICTED
+
+Current Veyric recognition: ACTIVE - LEGACY
+
+She recognized that credential. It was the same anonymous authority token that had authenticated a sealed directive sent through the legacy courier route, instructing her not to disclose the Master Tile or permit access to the Original Commission Archive only minutes before Keeper Sanders arrived to challenge it. She mentioned it to her assistant Torren Nemm as he looked up from his sorting trays. "Is that unusual, Custodian?"
+
+"Considerably in my opinion, it does not seem to be the way we usually work," Mera said.
+
+She pulled up the foundational paperwork for the commission.
+
+DHORAVEL COMMISSION #IA-0001
+
+Commissioning Institution: INFINITE ARCHIVE
+
+Primary Authorised Officer: KEEPER #4,091
+
+Current Status: UNREACHABLE
+
+Recognised Successor: KEEPER #4,092 (B. Sanders)
+
+"For six centuries, this credential had remained unreviewed in the commission registry," Mera explained, adjusting the parchment. "Keeper #4,091 was listed as unreachable, and no successor had been recognised in the Veyric commission registry. There was nobody competent on record to confirm or challenge the representative."
+
+Nemm leaned closer. "But Keeper Sanders's visit changed that."
+
+"Precisely." Mera pulled a heavy, leather-bound volume toward her. "Review subsection 4 of the Veyric Commission Authentication Code. When an original commission acquires a recognised successor officer, what is the required procedure for legacy representatives?"
+
+Nemm flipped rapidly through the pages. "Ah. Here. 'Any legacy 3rd party representative whose identity cannot be verified must undergo continuing authority confirmation before new instructions affecting sealed commission materials are accepted.'"
+
+"Excellent," Mera said. She pulled a fresh sheet of official Veyric form from her drawer. She was going to request revalidation.
+
+The form Mera selected was the standard one used whenever a commission’s 3rd party records appeared out of date.
+
+FORM 88-C: LEGACY REPRESENTATIVE REVALIDATION REQUIRED
+
+Section A — Identity
+
+Full legal name: ___________________
+
+Current physical address: ___________________
+
+Current correspondence address: ___________________
+
+Previous names used in official transactions: ___________________
+
+Species: ___________________
+
+Current mortality classification (select one): [ ] Living [ ] Undead [ ] Construct [ ] Disembodied [ ] Temporally displaced [ ] Deceased but administratively active [ ] Legally disputed [ ] Other (please specify) ____________
+
+Nemm read over her shoulder. "Why do we ask for mortality classification again?"
+
+"Delivery liability," Mera said, offering absolutely no further explanation.
+
+She then moved on to the next section.
+
+Section B - Authority
+
+Name of commissioning institution: Infinite Archive
+
+Original authorising officer: Keeper #4,091
+
+Mera reached the final box. The most important box in her view.
+
+Current authorised officer confirmation required for continuing 3rd party access. Countersignature required: Keeper #4,092 (Bart Sanders)
+
+Mera paused, her quill hovering over the parchment.
+
+Nemm cleared his throat. "Custodian... isn't Keeper Sanders the guy who we were asked not to cooperate with by this legacy person?"
+
+"Yes."
+
+Nemm hesitated. "That may complicate obtaining his signature."
+
+"I suspect so," Mera agreed mildly.
+
+She drafted a polite cover letter to accompany the form.
+
+NOTICE OF AUTHORISED REPRESENTATIVE REVALIDATION Your credential remains associated with an active Veyric commission. Please complete the attached Form 88-C within 30 days. Explicit refusal to complete the revalidation process will constitute waiver of the remaining response period. Failure to respond, or explicit refusal to comply, may result in suspension of Veyric reliance upon your credential. Thank you for helping us keep the commission records current.
+
+"Do we know his name?" Nemm asked.
+
+"No."
+
+"His address?"
+
+"No."
+
+"If he is alive?"
+
+"No."
+
+Nemm looked at the document. "We appear to be missing almost all of Section A."
+
+"That," Mera said, stamping the letter with the golden Veyric seal, "is why we are sending it."
+
+She dropped the envelope into the legacy document route. The parchment folded itself into a sharp dart and vanished with a pop.
+
+Mera returned to her other paperwork.Just 30 seconds later, the air above her desk cracked. A piece of jagged black paper materialized and dropped onto the desk.Mera had one personal rule regarding correspondence: no document was read until it was properly aligned with the edge of her desk. It was not an official Veyric regulation in fact she had checked twice. The black sheet had landed at an angle, so Mera waited for the faint smoke to clear, rotated it precisely until all four corners were square and only then looked at what it said. A single sentence had been burned into the surface, stamped at the bottom by the broken silver key.
+
+AUTHORITY REMAINS VALID UNDER ORIGINAL COMMISSION.
+
+Mera examined the seal for about 3 seconds.
+
+"Excellent," she murmured softly.
+
+Nemm stared at her. "He didn't fill anything in. He refused."
+
+"Ah but we got a response, Torren" corrected Mera. Just a few seconds ago, the credential might simply have been an abandoned entry surviving in an ancient register.
+
+Someone had just answered with it.
+
+Mera tapped the registry.
+
+LEGACY CREDENTIAL: ACTIVE
+
+Current operator: CONFIRMED
+
+Operator identity: UNVERIFIED
+
+Credential authentication: CONFIRMED
+
+Required identity fields supplied: 0 of 37
+
+"Is that good?" Nemm asked.
+
+"It is still information," Mera said.
+
+She picked up her brass compliance stamp and pressed it onto the black paper in bright red ink.
+
+SUBMISSION INCOMPLETE Identity fields completed: 0 of 37
+
+Response period remains active
+
+A second sheet automatically slid from the registry.
+
+NOTICE OF INCOMPLETE REVALIDATION
+
+Please complete all mandatory fields before the stated deadline.
+
+"Send that," Mera said.
+
+Less than a minute later, the black paper snapped back onto the desk. The letters were burned deeper this time with 4 words.
+
+THIS MATTER IS CLOSED.
+
+Mera turned to her clerk. "Nemm, would you classify that as an explicit refusal to complete the requested revalidation?"
+
+Nemm checked the definitions appendix of the manual. "Very much."
+
+"Excellent."
+
+The 30 day window vanished from the system. Mera pulled up the commission record and made the final adjustment. She was not claiming the power to revoke the Closure Authority itself but her office had clear authority over what Veyr would recognise.
+
+LEGACY CREDENTIAL REVIEW Credential: DAMAGED KEEPER KEY
+
+Underlying external authority: NOT ADJUDICATED
+
+Veyric recognition: SUSPENDED PENDING VERIFICATION
+
+Physical inspection required before future instructions concerning Veyric commission materials will be accepted.
+
+Nemm looked at the screen. "Do we know where the nearest certified Veyric administrative office is to him?"
+
+"No."
+
+"Then how will he present the key in person?"
+
+Mera straightened the paperwork on her desk. "That sounds like his problem."
+
+She drafted a new notice, informing the external consultant that Veyric reliance on his credential was now suspended pending physical inspection, and dropped it into the routing tray.
+
+A moment later, a final sheet of black paper erupted from the void, hitting the desk with enough force to leave a scorch mark in the wood.Mera looked at the mark for slightly longer than she had looked at any of the messages. She would have to deal with that later.
+
+DO NOT CONTACT ME AGAIN.
+
+Mera read it without blinking. She turned calmly to her junior clerk.
+
+"Nemm," she said.
+
+"Yes, Custodian?"
+
+"The unidentified representative has submitted a correspondence preference request." Mera held out her hand. "Form 41-B, please."

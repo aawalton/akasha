@@ -1,0 +1,223 @@
+"You are all going to be disappointed," Bart said.
+
+Hester Crowl folded her arms. "I doubt that."
+
+Conrad Tiller leaned heavily over the consolidation chart, casting a massive shadow across the desk. "If three successor departments are listed, then one of us must hold the primary succession."
+
+Maud Brack adjusted her robes. "Obviously its my department"
+
+Bart opened the heavy record.
+
+HISTORICAL DISCIPLINARY CONSOLIDATION
+
+Original recognized fields: 7
+
+Current successor departments: 3
+
+Primary successor: NONE
+
+Silence fell over the desk.
+
+"Well, that was quick…" Gregor noted.
+
+Bart ignored the tension and began reading through the succession chart, tracing the lines of academic inheritance downward from the seven original fields.
+
+"Department of Pomology," Bart read. "Formed from the consolidation of Pomological Studies and Fermentation Sciences."
+
+Hester immediately brightened. "Two foundational disciplines, as expected."
+
+Bart checked the original contributor records. "Edith Vetch and Bramwell Edden."
+
+Gregor looked at Hester. "Congratulations. You inherited the brewer."
+
+Hester stared at Bramwell Edden's slip of parchment. "Looks like it I guess..."
+
+Bart moved his pen to the next block on the chart.
+
+"Department of Bryological Studies. Formed from Bryology and Mycology."
+
+Maud nodded slowly. "Also two, good"
+
+Hester's smile faded while Maud leaned closer to the contributor records. Her expression changed when she reached Agnes Dorr's name. Her department's famous Rimewater evidence had not originated with a legendary elven scholar at all. It had come from an independent field naturalist.
+
+"Department of Soil Alchemy," Bart finished, tracing the final three lines. "Formed from Soil Alchemy, Medicinal Cultivation, and Agricultural Thaumaturgy."
+
+Conrad looked triumphant. "Three."
+
+Gregor sighed. "Oh, he's going to be unbearable…."
+
+"The majority of Veridian's disciplines clearly fell to my department…"
+
+"Three is not a majority among seven," Bart said.
+
+Conrad paused. "The largest share of Veridian's disciplines clearly fell to my department. Therefore, Soil Alchemy holds the primary…."
+
+"No," Bart interrupted again.
+
+Conrad frowned down at him. "It inherited three of his seven fields."
+
+"Three of the fields represented in the publication," Bart corrected.
+
+"That is what I said."
+
+"No," Bart said. "It isn't."
+
+Gregor leaned against the stone desk. "Precision matters to Boss"
+
+Bart nodded. "Thank you." He looked back at Conrad. "Seven people contributed to one book. Your department inherited three research traditions. That doesn't give you the other four people."
+
+Gregor looked at the three contributor slips whose historical fields now fed into Soil Alchemy: Crispin Ashcombe, Nella Noll, and Hollis Tarn.
+
+"So Soil Alchemy was founded by a technician, a village herbalist, and a farmer?" Gregor asked. Conrad's eye twitched.
+
+Bart looked at the record. "Not founded. Their work contributed to what became the department centuries later."
+
+Bart studied the three professors. "Your departments didn't invent the evidence."
+
+Hester looked up from the table. "Then what did they invent?"
+
+"The connections between it," Bart said.
+
+The pattern finally made sense. Each department had inherited genuine evidence. The mistake came later, when each treated its part of Veridian's record as evidence for the whole.
+
+It wasn't a conspiracy. It was a citation drift with several centuries of institutional vanity layered on top.
+
+"So who owns Veridian?" Hester demanded.
+
+Bart's answer was exceptionally simple. "Nobody."
+
+All three professors protested simultaneously.
+
+Bart held up his hand. "Aldous Veridian is not departmental property. It is a publication identity registered to a collective work."
+
+"Then who holds the primary claim to the work?" Hester asked, her voice rising.
+
+Bart looked at her. "That is a different legal question, and fortunately outside the scope of this review."
+
+He placed his hand on the green-glass indexing plate. The Rooted Quill indexing system processed the finding, updating the active dispute record.
+
+MULTILATERAL ATTRIBUTION REVIEW
+
+Exclusive departmental attribution claim: UNSUPPORTED - ALL CLAIMANTS Historical disciplinary succession: PARTIAL - ALL CLAIMANTS
+
+Gregor watched the green text settle. "So everyone lost?"
+
+Bart considered the display. "Everyone was partially correct."
+
+Gregor looked at the three scowling academics. "They are going to hate that more."
+
+Hester threw up her hands. "Fine. Then correct the record. Remove Veridian entirely and put the seven names on the book."
+
+It seemed like the obvious solution. Bart opened the authority index, preparing to draft the amendment.
+
+The indexing plate immediately flashed a harsh, warning red.
+
+PROPOSED AUTHORITY CORRECTION Replace publication identity ALDOUS VERIDIAN with 7 individual contributor identities?
+
+WARNING
+
+Dependent citations: 38,421
+
+Certified protocols: 6,214
+
+Citation target mismatch risk: SEVERE
+
+Original publication byline: ALDOUS VERIDIAN Historical source identity must be preserved.
+
+Bart pulled his hand back. "We can't erase him."
+
+Gregor frowned. "Didn't we just establish that he doesn't exist?"
+
+"That isn't the same thing," Bart said.
+
+Gregor stared at him. "I knew you were going to say that."
+
+Bart tapped the heavy registration ledger. "If a scholar three hundred years ago cited Treatise on Living Cultures, what name appeared on the work?"
+
+Maud looked at the title page of the record. "Aldous Veridian."
+
+"Then that is what they cited," Bart said. He pointed to Edith Vetch's personnel slip. "Replacing that historical citation with Edith Vetch would make the citation more informative." He paused. "It would also make it inaccurate."
+
+Elian nodded slowly, understanding the bureaucratic trap. The book was published under the name Aldous Veridian. Removing the name would break 38,000+ links that historically pointed to it.
+
+"We don't erase the name," Bart said softly.
+
+"Then what do we do?" Elian asked.
+
+Bart took out his pen. "We fix what the name points to."
+
+He pulled a fresh sheet of paper from his briefcase and began sketching the corrected authority structure.
+
+ALDOUS VERIDIAN Type: COLLECTIVE PUBLICATION IDENTITY
+
+Work: Treatise on Living Cultures
+
+Contributor roots: → Edith Vetch → Bramwell Edden → Merrick Rook → Agnes Dorr → Crispin Ashcombe → Nella Noll → Hollis Tarn
+
+Successor disciplinary relationships: → Pomology → Bryological Studies → Soil Alchemy
+
+Bart placed the sketch against the indexing plate for validation.
+
+The glass turned green. The first three lines settled into place.
+
+Then the lower half of the display flashed amber.
+
+ATTRIBUTION RECONSTRUCTION
+
+Publication identity: VERIFIED
+
+Underlying contributors: VERIFIED - 7
+
+Bibliographic relationship: CORRECTION ACCEPTED
+
+DEPENDENT CLAIM PROVENANCE: INCOMPLETE
+
+Certified protocols requiring claim-level attribution: 6,214
+
+Shared foundational claims: UNRESOLVED Downstream certification cannot be restored until claim provenance is reconstructed.
+
+Elian frowned. "We know who they were. We know they contributed. Isn't that enough?"
+
+"For the book, yes," Bart said. "Not for 6000 odd certified protocols that depend on specific claims. We know who contributed but don't yet know who contributed what."
+
+"Edith Vetch clearly belongs to Pomology," Hester announced, stepping forward to claim her prize.
+
+"She has been dead for several centuries," Bart reminded her.
+
+"Academically," Hester clarified.
+
+"Agnes Dorr's fungal survey falls strictly under my department's jurisdiction," Maud countered.
+
+"Nobody gets the researchers either," Bart said firmly, cutting off Conrad before the massive alchemist could demand the technician.
+
+Gregor sighed. "This is going worse than the departments hoped."
+
+Bart turned his attention away from the indexing plate and pulled the heavy Veridian deposit box toward him from the shelf beneath the registration ledger. Inside were the original foundational drafts of the Treatise on Living Cultures.
+
+He laid the enormous stack of parchment on the table.
+
+It did not look like a normal manuscript. The margins were covered in overlapping, archaic handwriting, fierce annotations, crossed out paragraphs, and faded Rooted Quill attribution marks, many overlapping or only partially preserved.
+
+ORIGINAL DRAFT - ATTRIBUTION MARKUP PRESERVED
+
+Registered contributor hands: 7
+
+Attribution marks preserved: PARTIAL
+
+Collaborative passages: EXTENSIVE
+
+Shared foundational claims: 617 Attribution framework required.
+
+Gregor looked at the massive, chaotic stack of parchment. "How long is that book?"
+
+Bart turned another densely annotated page, revealing a maze of ink and argument. "Very long."
+
+Elian stared at the dense layers of handwriting, overwhelmed by the sheer scale of the administrative task ahead of them.
+
+"So we found the contributors," Elian said.
+
+Bart shook his head. "We found the names."
+
+He turned the first page of the manuscript.
+
+"Now we find the attribution."

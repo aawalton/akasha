@@ -1,0 +1,167 @@
+Mera stood at the edge of the ruined, temperature drained chamber, her trembling finger still pointing toward the empty central socket.
+
+Bart knelt beside the ancient calibration platform. He watched the faint blue pulse disappear into the seam in the ceramic.
+
+"It is not missing," Bart said. "It seems like it is buried."
+
+He opened his newly acquired Safety Code Interpretation procedure and directed it at the floor.
+
+OBSOLETE EMERGENCY PROTOCOL DETECTED
+
+Catastrophic Memory Release Containment Secondary storage chamber active
+
+Mera stared at the glowing blue text. "That protocol was removed from every modern kiln centuries ago."
+
+"Apparently not this one," Bart said.
+
+Mera searched the archived protocols on her wrist panel, then entered the original containment access override. With a deep, grinding hum that vibrated through the soles of their boots, the centre of the platform slowly sank into the floor, revealing a narrow spiral staircase leading downward.
+
+They descended into the dark.
+
+The staircase descended farther than the upper chamber should have allowed. Each step produced a faint note beneath their boots, as though the old kiln were counting them. On the 37 step, Gregor stopped and looked back into the darkness above.
+
+"Did either of you hear it count 40?"
+
+"Keep moving," Mera said.
+
+Gregor's pace shifted into his thief mode immediately.
+
+Beneath the destroyed Original Commission Archive lay a sealed containment chamber. Its walls were layered with ancient Memory Porcelain, built to isolate the Master Tile during a catastrophic release. The destruction above had scarred the entrance but had not crossed the final containment boundary. The oppressive heat of Kiln Zero faded as they descended, replaced by a still, an ancient chill. Unlike the laboratories above, the containment chamber had remained entirely untouched by modernisation of the dwarves.
+
+Gregor walked carefully behind them, frantically patting his empty leather pouch and brushing off his thermal coat. He was meticulously checking for any crumbs. He did not want the facility’s automated defences classifying a stray piece of crust as hostile.
+
+At the centre of the silent, dark chamber rested the Master Memory Tile.
+
+It was not a thin ceramic square like the new containment tiles. It was an enormous porcelain slab, thick as Bart’s hand and nearly as tall as his desk. It rested on a pedestal, humming with a pale blue light.
+
+Its blank surface changed as Bart approached. Pale impressions drifted beneath the porcelain: shelves, hands, fragments of handwriting, and faces that vanished before he could recognise them. The Tile was displaying memories at random kind of like dreaming.
+
+Mera raised her wrist scanner. The device emitted one sharp tone and immediately shut itself down. "It refuses external measurement," she said.
+
+"Sensibly," Bart replied. "I also dislike unsolicited surveys."
+
+"Do not touch it aggressively," Mera warned, her voice sharp with sudden panic. She moved to block his path. "Do not strike it. Do not even tap it with your pencil."
+
+"I am merely inspecting the structural integrity," Bart said.
+
+"You do not understand the scale of the danger," Mera said, staring at the glowing slab. "This is a Master class vessel. A fundamental rule of Veyric ceramic engineering is that damaged Memory Porcelain cannot safely be destroyed. If a vessel of this density fractures, its memories do not disappear. They are released directly into local reality all at once, without sequence, permission, or containment."
+
+"Released into the room?" Bart asked.
+
+"Into everything capable of remembering."
+
+Bart stopped in his steps,He remembered the inscription carved near the sealed East Wing vault back at the Archive.
+
+I should not have let them read the ending.
+
+Bart looked at the enormous slab of Memory Porcelain. Perhaps Keeper #4,091 had tried to destroy it. If so, the danger had not been the tile surviving. The danger had been everything inside it escaping at once into the minds of whatever survivors remained in the multiverse.
+
+If Bart was right, the medium designed to preserve knowledge had made destroying that knowledge impossible.
+
+"I will not break it," Bart promised. "But I have an audit to complete."
+
+Bart stepped around the Custodian and stood directly in front of the massive slab. He simply opened his administrative interface.
+
+"I am formally invoking my Limited Emergency Inspection Warrant," Bart announced to the silent room.
+
+The System screens flared to life, not with their usual soft blue, but with a blinding light that illuminated the entire chamber. The Master Tile hummed in response, recognising a frequency it had not felt in over 600 years.
+
+SUCCESSOR KEEPER RECOGNISED Permitted access: Structural integrity and damaged metadata.
+
+The cyan interface expanded, revealing a schematic of the Master Tile and the five authority channels radiating from the centre of the slab.
+
+MASTER AUTHORITY NETWORK DETECTED
+
+Memory: Partial connection
+
+Record: Unavailable
+
+Citation: Unavailable
+
+Closure: External authority detected
+
+Succession: Provisional
+
+Full Keeper reconstruction denied.
+
+The Record and Citation channels remained completely dark. Succession flickered weakly around Bart’s provisional credentials, while Closure pulsed somewhere beyond the chamber, connected to an external authority.
+
+Only Memory reached back towards the Infinite Archive itself.
+
+LINKED ARCHIVE RECORD DETECTED Employee: Albert Position: Chief Custodian Memory status: Restricted and fragmented
+
+"Accessing damaged metadata," Bart said.
+
+CONTENT ACCESS: DENIED Damaged access metadata contains embedded diagnostic echo Playback status: Automatic, local and non-exportable
+
+Mera examined the notice. "It is not releasing the stored memory. The Tile is replaying a damaged diagnostic echo inside its own."
+
+"So the inspection remains valid?" Bart asked.
+
+"Technically."
+
+Bart nodded. "My favourite kind is valid."
+
+A localised, holographic memory playback projected directly into the cold air of the kiln.
+
+The vision was fractured, filled with static and missing visual data, but the setting was unmistakable. It was the Restricted Section of the Infinite Archive, perfectly pristine, existing long before the Ruin had destroyed the East Wing.
+
+Keeper #4,091 stood with his back to the viewer, looking out through the massive, unbroken Archive windows.
+
+Rows of sealed shelves stretched behind Keeper #4,091, each protected by symbols Bart could not read. Albert stood near the far wall, whole and motionless, his broom held across his ribs like a guard’s spear.
+
+For one fractured second, he turned towards the viewer. His jaw moved, but whatever warning he gave had been stripped from the recording. Then the image skipped, and Albert was suddenly gone.
+
+Bart felt the Memory channel pulse harder but the library was not empty.
+
+Two gigantic sky spanning shadows collided beyond the windows. They were incomprehensible on a human scale, but the Master Tile translated them into shapes Bart’s mind could process.
+
+One was a presence of unbearable white light, shifting constantly like an open book fluttering. It seemed desperate to reveal itself and everything else.
+
+The other was a silent absence among the stars, shaped like a colossal closed book. Everything vanished around it. One seem to demand revelation while the other seems to demand silence.
+
+The audio of the memory was heavily distorted, but Bart could hear the remnants of the cosmic argument that had shaken the Archive vibrating through the floor of the kiln.
+
+"You should have allowed them to choose," a voice like tearing paper echoed from the light.
+
+"You should not have told them," a voice like absolute silence replied from the void.
+
+"They would have learned eventually."
+
+"Not yet."
+
+Suddenly, something resembling a blazing sun crossed the Archive windows. The light overwhelmed the visual sensors.
+
+The memory violently cut to black.
+
+The hologram vanished, leaving the three of them standing in the silence of the underground chamber. Beside him, Mera had gone perfectly still and for the first time since Bart had met her, she had no technical explanation ready.
+
+Bart’s heart was hammering against his ribs. He had witnessed a fragment of the conflict that destroyed the Archive or something dangerously close to it. He still did not know what "the ending" referred to, but he finally understood the scale of the disaster his library had survived.
+
+Before the Master Tile could fully power down, Bart’s procedural instincts kicked in.
+
+He checked the paperwork. Bart rapidly swiped his hand through the system interface, pulling the most recent surviving access entry.
+
+A final system notification blinked in the dark air.
+
+ACCESS LOG: PERMANENT CLOSURE DIRECTIVE External Closure Consultant: Identity restricted. Authority token: Damaged Keeper Key.
+
+Mera frowned at the floating text. "External Closure Consultant? That is not a valid Veyric designation. And the identity is restricted. Who accessed this file?"
+
+Bart recognised the jagged seal from Mera’s black directive. But it was the second line that mattered.
+
+Authority token: Damaged Keeper Key.
+
+He remembered the broken silver key hanging beneath the grey suited man’s collar in Gildara.
+
+The Curator.
+
+The Curator seems to have once served as Keeper #4,091’s External Closure Consultant or still considered himself one. The damaged old key still allowed him to enforce Keeper #4,091’s sealing orders and, Bart suspected, to ensure whatever lay behind them remained buried.
+
+Gregor stood shivering under his heavy thermal coat. He stared at the empty space where the holographic sky had just collapsed, his eyes wide with dread.
+
+"Boss..." Gregor whispered, his voice trembling. "Those giant things in the sky. Are you sure managing a library is a safe job?"
+
+Bart closed the cyan interface and adjusted his heavy goggles.
+
+"No," he said. "But it becomes considerably safer when people follow the rules."

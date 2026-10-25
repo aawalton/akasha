@@ -1,0 +1,321 @@
+"Then who recommended the books?" Gregor asked again.
+
+The Reading Room had gone completely still while the Quiet Clock continued to tick behind Bart's desk with amber light now washing over the shelves. His coffee still steamed beside the paperwork. Across the room, six perfectly ordinary books sat open in front of six increasingly uncomfortable readers.
+
+Above Bart's desk, the System warning remained frozen.
+
+CROSS REFERENCE CONFLICT DETECTEDCIRCULATION RECORDS: DESYNCHRONISED
+
+Bart adjusted his glasses, "Nobody check anything else out. Put the recommended books down and leave them where they are." Elian closed his children's Moonroot guide, Gurrum set aside his book on heritage grains while Albert placed his lint manual neatly beside his broom. Gregor dropped A Lazy Thief's Guide to Proper Posture onto Bart's desk, immediately slouched, noticed what he had done, and angrily straightened again.
+
+"I hate this book." Morzath the Undying was the only one who continued reading.
+
+Gurrum stared at him across the Culinary Research table.
+
+"You can stop now."
+
+"No."
+
+"The Keeper told you to."
+
+Morzath's purple eyes remained fixed on The Gentle Art of Waiting.
+
+"This book believes I lack patience."
+
+Gurrum nodded. "You do."
+
+"I am proving otherwise."
+
+"By refusing to stop?"
+
+Morzath considered that for several seconds before slowly lowering the book.
+
+"I dislike this book."
+
+Bart decided that counted as compliance and began with his own volume, A Visitor's Agricultural History of Greenhollow. Restricted Inspection skill found nothing unusual. General circulation. No known hazards. Bart checked it manually anyway. After the incident with the botanical guide, he had developed a suspicion of innocent looking books. He inspected the spine, binding, preservation enchantment and pages.
+
+Nothing out or ordinary.
+
+Gregor's posture guide, Albert’s lint one were harmless. All six were exactly what they claimed to be. "The books aren't the problem," Bart said.
+
+Elian glanced at the amber light overhead. "Then what is?"
+
+Bart was still considering that when Gregor picked up two of the circulation slips, The thief held them toward the light then he picked up a third.
+
+"Boss."
+
+"What?"
+
+"The stamps."
+
+To Bart, the purple marks looked identical because the Archive had obviously used the same circulation stamp.
+
+Gregor pointed out a tiny chipped corner on the number seven, then a faint pressure mark along the left edge. Both defects appeared on every slip at precisely the same angle.
+
+Gregor lined all six across the desk.
+
+"These aren't six stamps."
+
+Bart leaned closer.
+
+"They're one stamp copied six times."
+
+Bart immediately pulled up the transaction records. Gregor was right.
+
+All six slips carried the same transaction identifier.
+
+The amber display flickered.
+
+LEGACY CIRCULATION STRUCTURE DETECTED COMPOSITE CHECKOUT Patrons: 6 Holdings: 6 Registered transactions: 1
+
+Gregor stared at the screen.
+
+"So six people borrowed six books, but the library says it happened once."
+
+"In simple terms."
+
+"That seems stupid."
+
+"It probably wasn't originally."
+
+The surviving description explained that Composite Checkout had once been used for research groups. Several scholars working on the same subject could borrow a related collection under one shared research session. That part did make sense. The current group of books did not.
+
+Bart had been researching Greenhollow, Gurrum had been supervising dough, Morzath had been attempting not to murder yeast and so on.They were not a research group.
+
+Bart queried the registered subject with the System and received one answer.
+
+RESEARCH ASSOCIATION: GREENHOLLOW
+
+Bart had a smirk and checked the books Gurrum's grain text contained numerous references to old Greenhollow agricultural studies. That was unsurprising, Albert's lint manual cited Greenhollow domestic preservation standards.Then Bart found a reference to the Greenhollow School of Practical Anatomy in the posture guide.
+
+"They studied posture?" Gregor asked.
+
+"Apparently."
+
+" Seems like terrible work."
+
+Even Morzath's book contained a Greenhollow connection. A chapter on allowing natural processes to proceed without interference was an important principle of patience.
+
+Gurrum slowly looked toward the lich. Morzath folded his arms.
+
+"Coincidence?"
+
+Every book contained some connection to Greenhollow. But that did not make the connections useful.
+
+Bart then asked how the titles had been selected to be recommended.
+
+COMMON ASSOCIATION: GREENHOLLOW RELATIONSHIP STANDARD: INFERRED PRIMARY SUPPORT: INCOMPLETE
+
+One word mattered "Inferred"
+
+It had found six books that could plausibly be connected to Greenhollow.
+
+Gregor pointed at his posture guide. "But Greenhollow really is in there."
+
+"Yes."
+
+"So the library was right."
+
+"About a connection existing."
+
+Bart placed the posture guide beside Albert's lint manual. "That does not mean the connection matters."
+
+Elian's gaze drifted toward the three original green alchemy books beside Bart's desk.
+
+Book A cited Book B.
+
+Book B cited Book C.
+
+Book C cited Book A.
+
+"The same problem," Elian said.
+
+Bart nodded.
+
+A reference could be genuine while the conclusion drawn from it was not.
+
+Gregor frowned. "I thought we found more clues."
+
+"We found more things that look like clues," Elian said.
+
+Before the strange books appeared, they had only a handful of independent leads. Elian's original books pointed toward Veridian and Greenhollow. Gurrum's knowledge of fermentation scholarship pointed there too. Rickard's cookbook independently mentioned Greenhollow principles of living fermentation.
+
+Now the Archive could produce dozens, perhaps hundreds, of additional associations.
+
+Agriculture.
+
+Botany.
+
+Anatomy.
+
+Fermentation.
+
+Lint.
+
+The original trail had not disappeared. It had been buried beneath other trails.
+
+Bart looked again at the System.
+
+"These weren't generated by a Patron Recommendation Protocol, were they?"
+
+NO.
+
+Source: LEGACY COMPOSITE RESEARCH REQUEST Display format: GENERAL PATRON SUGGESTION
+
+"They weren't recommendations."
+
+Gregor looked down at the posture guide.
+
+"It felt personal."
+
+"The Archive used the nearest surviving interface to fulfil an old research request."
+
+One final line appeared in the surviving Composite Checkout description.
+
+SHARED RESEARCH SESSION Reading progress synchronisation: ENABLED
+
+Bart looked across the room. There was a small description that explained the synchronized page turning. Apparently scholars had once considered it useful for an entire research team to stay on the same section.
+
+Gregor looked mildly horrified. "Scholars are strange people." Elian did not disagree.
+
+Bart returned to the more important question.
+
+"Is automatic relationship inference currently authorised?"
+
+The response took longer.
+
+AUTOMATIC RELATIONSHIP INFERENCE: SUSPENDED Suspending authority: KEEPER #4,091
+
+A second line appeared beneath it.
+
+A missing relationship is not permission to invent one.
+
+"That guy again." Bart read the sentence twice.
+
+The previous Keeper had not merely worried about false books or corrupted records.
+
+He had worried about the Archive creating relationships that nobody had actually proved.
+
+Elian frowned at the notice. "If he suspended it, how did this happen?"
+
+Bart asked whether the suspension remained active.
+
+CONFIRMED.
+
+"Then how can this Composite Checkout exist?"
+
+The amber screen displayed,
+
+TRANSACTION STATUS: PRE-EXISTING Claimed registration: PRIOR TO SUSPENSION Original timestamp: UNRECOVERABLE
+
+"Then why did Gregor's checkout say 317 years ago?"
+
+CURRENT DISPLAY DATE: CORRUPTED BY COMPOSITE RECONCILIATION
+
+The important part was the claimed registration.
+
+Whoever had created the transaction had not reactivated a forbidden procedure.
+
+They had submitted it as something already running before Keeper #4,091 suspended it.
+
+"So they didn't turn the banned thing back on." said Elian
+
+"No."
+
+"They told the library it was already there."
+
+"Yes, looks like it"
+
+"So they didn't break any rule."
+
+Bart adjusted his glasses and said "They just lied about when the paperwork was actually filed."
+
+Whoever had done this understood the Archive well enough not to fight its rules but had gone around them.
+
+Bart checked the request origin.
+
+REQUEST ORIGIN: EXTERNAL SUBJECT: GREENHOLLOW IDENTITY: UNAVAILABLE
+
+Nothing else.
+
+"They didn't choose the books though, The Archive did. Whoever sent the request only supplied the subject." said Bart
+
+Gregor stared at the pile.
+
+"But Why?"
+
+Bart looked at the books scattered across the desk. Because destroying or hiding a clue could be obvious. But there was another way to stop a person from finding something,
+
+"You give him too many clues."
+
+Elian's expression changed.
+
+"They weren't trying to hide Greenhollow."
+
+"No."
+
+"They were trying to make us unable to tell which Greenhollow trail mattered."
+
+Gregor scratched his chin.
+
+"If you were looking for one pig..."
+
+Bart closed his eyes and started mildly shaking his head.
+
+"...and I showed you every pig in the kingdom."
+
+That stopped Bart and he replied "Surprisingly accurate."
+
+Gregor smiled. "I'll take it."
+
+Bart pulled two empty document trays toward himself. The recommended books went into the first.
+
+He labelled it:
+
+INFERRED ASSOCIATIONS
+
+Into the second went the evidence they had possessed before the incident: Elian's original three alchemy books, Gurrum's copy of Rickard's cookbook, and Bart's notes from Morzath.
+
+PRE-INCIDENT SOURCES
+
+It was not a solution but at least it restored order. "We start again with what we trusted before this happened." Elian nodded and reached for the oldest of his three original books.
+
+Then he stopped suddenly, Bart quickly followed his gaze.
+
+Inside the cover was a faded green emblem: a long quill standing above seven thin roots.
+
+Bart had recorded the mark during his earlier examination of the book and assumed it was an old printer's device. At the time, it had meant nothing to him.
+
+Judging by Elian's expression however, it meant something to him.
+
+"Elian?"
+
+The young wizard touched the symbol carefully.
+
+Beneath it, nearly erased by age, was a single line of print.
+
+Instructional Standard Certified by the Order of the Rooted Quill.
+
+Bart leaned closer. "The Rooted Quill."
+
+Elian was still staring at the emblem.
+
+"You know of it?"
+
+"Yes."
+
+"What is it?"
+
+Elian finally looked up.
+
+"One of the oldest scholarly orders known to the elven academies."
+
+Bart glanced at the three original books. For the first time since the false recommendations appeared, they had something that had not been generated, inferred or suggested by the damaged Archive.
+
+A real mark on a real source.
+
+"Where was the Order based?"
+
+Elian's eyes returned to the seven rooted quill.
+
+"Greenhollow."

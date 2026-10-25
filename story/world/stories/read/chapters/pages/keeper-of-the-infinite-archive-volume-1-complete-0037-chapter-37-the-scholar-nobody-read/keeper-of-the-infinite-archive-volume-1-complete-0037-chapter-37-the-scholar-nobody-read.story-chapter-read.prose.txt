@@ -1,0 +1,433 @@
+The warm golden lights of After Hours had faded away. The normal bright blue Archive lights returned, making the Reading Room look much less comfortable.Bart sat behind his solid oak desk with his BPL mug next to him. Elian had left a few hours back to attend his classes. Three small green books left behind by Elian were lined up neatly in front of him. Gregor leaned against the side of the desk, finishing the last apple pastry from Gurrum’s basket. He looked suspiciously at the books.
+
+“What is wrong with them, Boss?”
+
+Bart opened the first one.
+
+“They are badly cited.”
+
+Gregor continued chewing.
+
+“Is that dangerous?”
+
+“No.”
+
+Gregor relaxed.
+
+“Good.”
+
+Bart adjusted his glasses.
+
+“It is considerably worse.”
+
+Bart pointed at the first book.“Elian found the same alchemical formula in all three books. According to this one, the formula comes from Book B.” He then pointed at the second book.
+
+“Book B says it comes from Book C.”
+
+and tapped the third. “And Book C cites Book A.”
+
+Gregor looked at the three books moving his eyes across em
+
+“So... which one came first like the chicken and the egg?”
+
+Bart nodded.
+
+“Exactly.”
+
+Gregor looked slightly pleased with himself. The ex thief had spent most of his life unable to read, but apparently centuries of academic citation problems could be reduced quite effectively by a man whose main professional experience was relieving people of valuables.
+
+Bart opened all three books and  did what he had done thousands of times at Beaumont Public Library.He checked the books properly inch by inch.
+
+Title page, Publisher if any, Edition, Publication date ,Translator / Translated from, Revision history and any Printer’s notes.
+
+Gregor watched him turn pages for almost 15 minutes.
+
+“Boss.”
+
+“Yes?”
+
+“Is this the exciting part?”
+
+“Yes.”
+
+Gregor looked at the books.
+
+“That is worrying.”
+
+Bart kept ignoring him, Finally, he tapped the first green volume.
+
+“This one is the oldest. Approximately 300 years.”
+
+Gregor leaned over the desk. “So that one came first.”
+
+“Yes.”
+
+“Good then problem solved. Isn't it?”
+
+Bart opened the introduction and read two paragraphs exclaimed “ No”.He turned the book around and pointed at one sentence.
+
+The formula has been repeatedly demonstrated as stable, according to an earlier Greenhollow scholarship.
+
+Gregor read the line very slowly joining the letters, he had been improving after all,
+
+“So Problem is still unsolved.”
+
+“Correct.”
+
+Gregor scratched his chin.
+
+“So Book A says Book B told it.”
+
+“Not exactly.”
+
+“Book B says Book C told it.”
+
+“Cites.”
+
+“Same thing.”
+
+“It really is not.”
+
+Gregor pointed at Book C.
+
+“And this fellow sends us back to the first fellow.”
+
+“Yes.”
+
+Gregor thought about that.
+
+Then he shrugged.
+
+“Sounds like three thieves getting caught with the same pig.”
+
+Bart looked at him confused.
+
+Gregor continued.
+
+“First thief says, ‘Not mine. Got it from Davin.’ Davin says, ‘Not mine. Got it from Porrick.’ Porrick says, ‘Not mine. Bart gave it to me.’”
+
+“Why am I stealing the pig?”
+
+“Its just an example, Boss.”
+
+“Choose somebody else please.”
+
+Gregor thought about it for a moment.
+
+“Albert then.”
+
+Across the Reading Room, Albert stopped sweeping for a moment and responded. “I would never steal a pig, Junior Helper.”
+
+“Fine. Master Morzath then.” From the Culinary Research table came a low voice.
+
+“I have no need to steal livestock.”
+
+Gregor looked around. “This is a really difficult place for examples.”
+
+Bart grew slightly irritated and tapped the book.
+
+“So your point is?”
+
+Gregor looked back at the three volumes.
+
+“They all blame each other and nobody knows where the pig came from.”
+
+Bart paused for a second and nodded “That is a crude description of circular citation but true.”
+
+Gregor smiled.
+
+A missing book was normally simple. Either the book existed somewhere and you found it, or enough evidence eventually proved that the book had been lost.
+
+This was different though, the information existed,books existed, citations existed. However every time Bart followed the trail backward, it ended up in a circle.
+
+He continued flipping through the oldest volume,Nothing much useful in the index or in the acknowledgements or in the translator’s notes.He quickly checked the appendix.
+
+Gregor had wandered away, found another pastry, and came  back.
+
+“Boss.”
+
+“Yes?”
+
+“I think the apple one was better yesterday.”
+
+“Very useful, thanks Gregor.”
+
+“I just thought you should know.”
+
+Bart turned another page. At the very bottom of the final appendix was one tiny line of print.
+
+See Veridian, A., Treatise on Living Cultures.
+
+Bart straightened and exclaimed
+
+“Found something.”
+
+Gregor immediately came around the desk.
+
+“Pig owner?”
+
+“Possibly.”
+
+Bart looked into the air.
+
+“System. Catalogue search. Author: Veridian. Title: The Treatise on Living Cultures.”
+
+A blue window appeared.
+
+CATALOGUE SEARCH COMPLETE Title: The Treatise on Living Cultures Author: Veridian, A. Archive Holding: NOT FOUND
+
+Bart frowned. That by itself meant very little. The Infinite Archive was still mostly destroyed. It was missing almost everything.
+
+“Search surviving catalogue links and external references.”
+
+The System gave a soft hum.
+
+The screen changed.
+
+SURVIVING EXTERNAL REFERENCES: 4,817
+
+CONFIRMED ORIGINAL HOLDINGS: 0
+
+Albert moved in as he was dusting and stared at the number.
+
+“That is a lot.”
+
+“Yes.”
+
+Albert pointed at the screen read out loud around 4000.
+
+“A lot of people have read it?” queried Gregor
+
+“No.” replied Bart
+
+“He said 4000”
+
+“A lot of people have mentioned it and that is something very different”
+
+Bart pulled a blank sheet of paper toward himself and picked up his pencil.
+
+“System. Show me the oldest surviving references. Include the publication date each source gives for Veridian’s original Treatise.”
+
+The screen expanded.
+
+REFERENCE 1 The Treatise on Living Cultures Attributed publication: 287 years ago
+
+REFERENCE 2 The Treatise on Living Cultures Attributed publication: 301 years ago
+
+REFERENCE 3 The Treatise on Living Cultures Attributed publication: 294 years ago
+
+REFERENCE 4 The Treatise on Living Cultures Attributed publication: 312 years ago
+
+REFERENCE 5 The Treatise on Living Cultures Attributed publication: 279 years ago
+
+Bart slowly lowered his pencil. The problem was becoming stranger.
+
+Thousands of scholars apparently agreed that Veridian had written the Treatise.They simply disagreed about when he had written it.
+
+Bart looked back at the screen. Pull up “Author record. Aldous Veridian.”
+
+The System blinked.
+
+AUTHOR RECORD FOUND VERIDIAN, ALDOUS
+
+Honorific: Master
+
+Birth date: NA
+
+CONFLICTING Birthplace:
+
+CONFLICTING Institutional affiliation:
+
+CONFLICTING Recorded death:
+
+CONFLICTING Primary biographical record: NOT FOUND
+
+Gregor read the screen slowly…
+
+“How can his birthday be conflicting?”
+
+“Different records give different dates.”
+
+“What about where he worked?”
+
+“Different institutions claim him.”
+
+“And when he died?”
+
+“Also different.”
+
+Gregor frowned.
+
+“Did this man himself or anyone know anything about him?”
+
+“That is becoming an increasingly reasonable question in this case.”
+
+Bart looked down at the three books again. This was no longer one lazy scholar citing the wrong source.There was a pattern here.
+
+“System. Trace Elian’s formula through all surviving references.”
+
+The normal blue screen changed to amber.
+
+REFERENCE ANOMALY DETECTED
+
+Circular Citation Chain: VERIFIED
+
+Primary Source: UNRESOLVED
+
+Dependent Works Identified: 316
+
+Earliest Common Attribution: GREENHOLLOW
+
+Citation Origin: UNVERIFIED A
+
+Administrative Recommendation: LOCATE PRIMARY SOURCE
+
+Gregor leaned  even closer.
+
+“316 books?”
+
+“Yes.”
+
+“All using the same magic formula?”
+
+“Some use the formula directly whereas others appear to build on work that uses it.”
+
+Gregor stared again at the three green books.“So those three books are holding up three hundred other books.”
+
+“In a very simplified sense.”
+
+“And those three are holding each other up.”
+
+“Precisely.”
+
+Gregor made a small circle with his fingers. “But nothing is underneath them.”
+
+Bart almost wished something had been wrong.Explosions were straightforward for example,
+
+You found the fire, stopped the fire and filed the damage report.
+
+This was 300 years of scholarship resting on an answer nobody could prove had ever existed.
+
+“Veridian?”
+
+Bart looked up.
+
+A huge golden figure was standing across the Reading Room.Master Gurrum Goldbelly had not left after the previous night. Apparently, after witnessing Morzath’s relationship with butter, Gurrum had decided leaving the lich unsupervised around baking ingredients would be professionally irresponsible.The Golden Troll stood beside the Culinary Research table with both hands covered in flour.
+
+“You know him?” Bart asked.
+
+Gurrum walked over.“No.”
+
+“I recognise the name Veridian.”
+
+“But you do not know who he is.”
+
+“There isn't a baker worth his name that  does not know the name”
+
+Gregor looked between them. “That sounds unnecessarily confusing.”
+
+Bart pointed at the System screen.
+
+“Why do bakers know Veridian?”
+
+Gurrum wiped his hands on his heavy apron. “Because eventually every serious book about fermentation mentions him.”
+
+“Every book?” “Not directly. One book cites another. That book cites another. Eventually, they point back to Veridian.”
+
+Bart looked at the 3 green books.
+
+Elian was researching advanced alchemy, Gurrum was talking about baking.
+
+“What exactly is the Veridian fellow supposed to have written about?”
+
+“Living cultures,” Gurrum said. “Yeast. Fermentation. Transformation. The behaviour of small living organisms inside mixtures.”
+
+That got Bart’s attention.
+
+“Have you read the Treatise?”
+
+“No.”
+
+“Have you met a baker who has?”
+
+Gurrum opened his mouth, paused and had a long thought..
+
+“No. I cant believe I do” said with furrowed burrows
+
+Gregor looked at Bart.“Seems a popular chap who once wrote a book that no one has met but I believe him to be the pig owner.”
+
+“Apparently.”
+
+“Gurrum. Rickard’s cookbook please” Gurrum immediately understood.The two of them walked toward the Culinary Research table with Gregor in tow.
+
+At the far end sat Morzath the Undying. The lich was bent over a small glass bowl. Inside was a sourdough starter.Morzath had been informed by Gurrum several times that the yeast was alive. He had also been informed several times that this was normal. The problem was not that Morzath did not understand life but that he understood death extremely well. He simply did not understand why living things were sometimes supposed to be left alone. For nearly 20 minutes, the lich had managed not to kill the yeast, resurrect it, bind it, interrogate it or give it orders.
+
+Gurrum ignored Morzath for now and opened his copy of The Master’s Guide to Advanced Pastry Baking.He turned through the early chapters.
+
+Wild yeast.
+
+Starter maintenance.
+
+Fermentation temperature.
+
+Dough development.
+
+His massive finger moved carefully down the old page and then stopped.
+
+“Here have a look at this”
+
+Bart leaned closer.
+
+At the bottom of the page was a small footnote.
+
+Gurrum read it.
+
+“Adapted from the Greenhollow principles of living fermentation.”
+
+Bart looked at him just mouthed
+
+“Veridian?”
+
+He turned another two pages.
+
+New reference.
+
+Veridian.
+
+Gregor leaned over between them and said “ just so that I understand here, Elian’s potion book and the pastry book are copying the same fellow?”
+
+“Citing,” Bart corrected him. “They are pointing to the same source,”
+
+That was the important part. Alchemy and baking were different fields. Elian’s books were concerned with stabilising magical reactions. Rickard’s cookbook was concerned with making pastry. Yet both trails disappeared into the same place.
+
+“Greenhollow” Bart blurted out while thinking
+
+And somewhere at the end of both trails was a scholar called Aldous Veridian whom thousands of books cited and nobody seemed able to properly identify.
+
+SCRAPE, SCRAPE!!
+
+The spoon inside Morzath’s glass bowl stopped moving.
+
+Everyone looked toward him.
+
+Purple fire burned inside the lich’s empty eye sockets.
+
+“Greenhollow,” Morzath said.
+
+Bart turned fully toward him.
+
+“You know of it?”
+
+Morzath remained completely still.
+
+“I knew it.”
+
+There was a difference between saying you knew a place and saying you had known it.
+
+Especially when the person speaking had been undead for several centuries.
+
+Bart slowly picked up his mug.
+
+“What happened there?” Morzath looked down at the sourdough starter and stirred it once.
+
+“That depends,” the lich said, “which century you mean.”
