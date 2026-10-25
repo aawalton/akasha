@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const liesBetweenFriends = {
+  id: "01a17499-470d-77ad-a6e7-17e30dbb3cb7",
+  type: "page-type/movie",
+  slug: "lies-between-friends",
+  ownLength: 88,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-mystery"],
+  publishedAt: "2010-07-31",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "101318",
+      externalLink: "https://www.themoviedb.org/movie/101318",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Lies Between Friends",
+  genres: ["Drama", "Mystery", "TV Movie"],
+  imdbId: "tt1564005",
+  posterPath: "/eNokZ0GZqrJzjqPXbyAYOgAouJk.jpg",
+  voteAverage: 4.7,
+  streamingOn: [
+    "Amazon MX Player",
+    "Amazon Prime Video",
+    "Amazon Prime Video Free with Ads",
+    "Amazon Prime Video with Ads",
+    "Howdy Amazon Channel",
+    "Shout! Factory Amazon Channel",
+    "The CW",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+  ],
+  createdAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-25T19:46:04.682Z",
+} as const satisfies Movie

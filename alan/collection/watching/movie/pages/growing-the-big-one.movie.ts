@@ -1,0 +1,42 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const growingTheBigOne = {
+  id: "01a17499-470c-7871-a318-ee81c7ab21e6",
+  type: "page-type/movie",
+  slug: "growing-the-big-one",
+  ownLength: 89,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2010-10-23",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "76966",
+      externalLink: "https://www.themoviedb.org/movie/76966",
+      lastSyncedAt: "2026-10-25",
+    },
+    { source: "wikipedia", externalLink: "https://en.wikipedia.org/wiki/Growing_the_Big_One" },
+  ],
+  title: "Growing the Big One",
+  genres: ["TV Movie", "Drama", "Romance"],
+  imdbId: "tt1526745",
+  posterPath: "/3TCuCyRLRvv4m6NlMqnYxSyhntZ.jpg",
+  voteAverage: 5.7,
+  streamingOn: [
+    "Amazon MX Player",
+    "Amazon Prime Video",
+    "Amazon Prime Video Free with Ads",
+    "Amazon Prime Video with Ads",
+    "Howdy Amazon Channel",
+    "Pluto TV",
+    "Shout! Factory Amazon Channel",
+    "The CW",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+  ],
+  createdAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-25T19:46:04.682Z",
+} as const satisfies Movie

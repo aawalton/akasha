@@ -1,0 +1,47 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const dearPrudence = {
+  id: "01a17499-470c-725a-b2d9-66173635527d",
+  type: "page-type/movie",
+  slug: "dear-prudence",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["franchise/prudence"],
+  position: 0,
+  publishedAt: "2008-08-23",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "257799",
+      externalLink: "https://www.themoviedb.org/movie/257799",
+      lastSyncedAt: "2026-10-25",
+    },
+    {
+      source: "wikipedia",
+      externalLink: "https://en.wikipedia.org/wiki/Dear_Prudence_(2008_film)",
+    },
+  ],
+  title: "Dear Prudence",
+  genres: ["Mystery", "TV Movie", "Drama"],
+  imdbId: "tt1249299",
+  posterPath: "/vWNIj2zBcSDg4pSdiuflbCKCNJX.jpg",
+  voteAverage: 6.5,
+  streamingOn: [
+    "Amazon MX Player",
+    "Amazon Prime Video",
+    "Amazon Prime Video Free with Ads",
+    "Amazon Prime Video with Ads",
+    "Fandango at Home Free",
+    "The CW",
+    "The Roku Channel",
+    "Tubi TV",
+    "UP Faith & Family Amazon Channel ",
+    "UP Faith & Family Apple TV channel",
+    "Xumo Play",
+    "YouTube Free",
+  ],
+  createdAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-25T19:46:04.682Z",
+} as const satisfies Movie

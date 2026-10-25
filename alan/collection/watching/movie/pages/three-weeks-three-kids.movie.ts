@@ -1,0 +1,42 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const threeWeeksThreeKids = {
+  id: "01a17499-470f-7a00-b4b7-b95357da4e49",
+  type: "page-type/movie",
+  slug: "three-weeks-three-kids",
+  ownLength: 87,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2011-05-07",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "109753",
+      externalLink: "https://www.themoviedb.org/movie/109753",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Three Weeks, Three Kids",
+  genres: ["Family", "TV Movie", "Comedy"],
+  imdbId: "tt1816698",
+  posterPath: "/sdb0XTvBjHypCWvAgvyqQPPiZLO.jpg",
+  voteAverage: 6.2,
+  streamingOn: [
+    "Amazon MX Player",
+    "Amazon Prime Video",
+    "Amazon Prime Video Free with Ads",
+    "Amazon Prime Video with Ads",
+    "Cineverse Amazon Channel",
+    "Dove Amazon Channel",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-25T19:46:04.682Z",
+} as const satisfies Movie

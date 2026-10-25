@@ -1,0 +1,42 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const safeHarbor = {
+  id: "01a17499-470e-7662-9ce2-6377192bd884",
+  type: "page-type/movie",
+  slug: "safe-harbor",
+  ownLength: 88,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2009-05-30",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "72251",
+      externalLink: "https://www.themoviedb.org/movie/72251",
+      lastSyncedAt: "2026-10-25",
+    },
+    { source: "wikipedia", externalLink: "https://en.wikipedia.org/wiki/Safe_Harbor_(film)" },
+  ],
+  title: "Safe Harbor",
+  genres: ["Drama", "TV Movie"],
+  imdbId: "tt1340795",
+  posterPath: "/rc57mmwf1G5G6NOD5GO3liKi1NQ.jpg",
+  voteAverage: 5.4,
+  streamingOn: [
+    "Amazon MX Player",
+    "Amazon Prime Video",
+    "Amazon Prime Video Free with Ads",
+    "Amazon Prime Video with Ads",
+    "Fandango at Home Free",
+    "The Roku Channel",
+    "Tubi TV",
+    "UP Faith & Family Amazon Channel ",
+    "UP Faith & Family Apple TV channel",
+    "Xumo Play",
+    "YouTube Free",
+  ],
+  createdAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-25T19:46:04.682Z",
+} as const satisfies Movie
