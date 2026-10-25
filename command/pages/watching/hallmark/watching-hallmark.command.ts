@@ -76,6 +76,11 @@ export const watchingHallmark = {
       decisionKind: "decision-kind/departure",
       statement: "A call saying `--plan` reports the shelf and writes nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A write states the commit the pages were asked at, or the one the last write made.",
+    },
   ],
   parts: [
     "module/hallmark-listing",
@@ -86,5 +91,5 @@ export const watchingHallmark = {
   name: "hallmark",
   arguments: [{ argument: "argument/plan" }],
   createdAt: "2026-10-25T19:42:42.006Z",
-  updatedAt: "2026-10-25T19:42:42.006Z",
+  updatedAt: "2026-10-25T19:54:28.649Z",
 } as const satisfies Command

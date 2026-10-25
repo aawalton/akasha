@@ -71,19 +71,27 @@ const ORDER: readonly string[] = ["show-collection", "franchise", "movie", "show
 
 const A_DAY = 10
 
-async function heldFor(calls: Calls): Promise<Held | string> {
+type Asked = { readonly held: Held; readonly at: string | undefined }
+
+async function heldFor(calls: Calls): Promise<Asked | string> {
   const held = new Map<string, readonly Row[]>()
+  let at: string | undefined
   for (const pageTypeSlug of ORDER) {
     const keys = STREAMED.has(pageTypeSlug) ? [...KEYS, "streamingOn"] : KEYS
     const rows = await calls.ask({ pageTypeSlug, keys })
     if ("refused" in rows) return rows.refused
+    at ??= rows.at
     held.set(pageTypeSlug, rows.rows)
   }
+  const rowsOf = (slug: string): readonly Row[] => held.get(slug) ?? []
   return {
-    movie: held.get("movie") ?? [],
-    show: held.get("show") ?? [],
-    franchise: held.get("franchise") ?? [],
-    "show-collection": held.get("show-collection") ?? [],
+    held: {
+      movie: rowsOf("movie"),
+      show: rowsOf("show"),
+      franchise: rowsOf("franchise"),
+      "show-collection": rowsOf("show-collection"),
+    },
+    at,
   }
 }
 
@@ -92,10 +100,14 @@ function ordered(pages: readonly Naming[]): readonly Naming[] {
   return [...pages].sort((one, other) => rank(one) - rank(other))
 }
 
-async function written(pages: readonly Naming[], calls: Calls): Promise<Ran> {
+async function written(
+  pages: readonly Naming[],
+  calls: Calls,
+  readAt: string | undefined
+): Promise<Ran> {
   const commits: string[] = []
   const sorted = ordered(pages)
-  let read: string | undefined
+  let read = readAt
   let created = 0
   let updated = 0
   for (let at = 0; at < sorted.length; at += BATCH) {
@@ -135,8 +147,9 @@ export async function watchingHallmark(
   try {
     const listed = await listedFetched(calls)
     if (typeof listed === "string") return refusedBy([listed], DATA)
-    const held = await heldFor(calls)
-    if (typeof held === "string") return refusedBy([held], OPERATIONAL)
+    const asked = await heldFor(calls)
+    if (typeof asked === "string") return refusedBy([asked], OPERATIONAL)
+    const held = asked.held
     const matched = await matchedAll(calls, token, listed)
     const shows = await airedShows(calls, token)
     const day = new Date().toISOString().slice(0, A_DAY)
@@ -144,7 +157,7 @@ export async function watchingHallmark(
     const fresh = shelf.pages.filter((one) => one.fresh === true).length
     const counted = `${String(fresh)} pages to write fresh and ${String(shelf.pages.length - fresh)} to update`
     if (read.taken.plan) return told([...shelf.report, counted])
-    const ran = await recording(SYNC, () => written(shelf.pages, calls))
+    const ran = await recording(SYNC, () => written(shelf.pages, calls, asked.at))
     const said = [...shelf.report, counted, ...ran.commits.map((one) => `committed as ${one}`)]
     if (ran.refused !== null) return refusedBy([...said, ran.refused], OPERATIONAL)
     return told(said)
