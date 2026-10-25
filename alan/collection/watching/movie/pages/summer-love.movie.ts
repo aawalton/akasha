@@ -1,0 +1,42 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const summerLove = {
+  id: "01a17499-a7d7-7660-ba8b-36168382ebbd",
+  type: "page-type/movie",
+  slug: "summer-love",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2016-08-20",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "411081",
+      externalLink: "https://www.themoviedb.org/movie/411081",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Summer Love",
+  genres: ["TV Movie", "Romance"],
+  imdbId: "tt4997624",
+  posterPath: "/dATs3E9PpdAYSIFYBbdsfWjLUEJ.jpg",
+  voteAverage: 5.9,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "Pluto TV",
+    "The Roku Channel",
+    "Tubi TV",
+    "VIX ",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:29.458Z",
+  updatedAt: "2026-10-25T19:46:29.458Z",
+} as const satisfies Movie

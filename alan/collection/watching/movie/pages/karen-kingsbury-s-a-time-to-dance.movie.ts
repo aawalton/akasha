@@ -1,0 +1,43 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const karenKingsburySATimeToDance = {
+  id: "01a17499-a7d5-7a35-a623-85dab848735d",
+  type: "page-type/movie",
+  slug: "karen-kingsbury-s-a-time-to-dance",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-mystery"],
+  publishedAt: "2016-05-15",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "392628",
+      externalLink: "https://www.themoviedb.org/movie/392628",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Karen Kingsbury's A Time to Dance",
+  genres: ["Drama", "Romance", "TV Movie"],
+  imdbId: "tt4698740",
+  posterPath: "/xBxCYAMotOA5IPfHU8S86Jfs1Lm.jpg",
+  voteAverage: 5.7,
+  streamingOn: [
+    "Amazon MX Player",
+    "Amazon Prime Video",
+    "Amazon Prime Video Free with Ads",
+    "Amazon Prime Video with Ads",
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:29.458Z",
+  updatedAt: "2026-10-25T19:46:29.458Z",
+} as const satisfies Movie
