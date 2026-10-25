@@ -121,6 +121,13 @@ test("a fiction slug holding dashes in a row is named with one dash there", () =
   expect(pageSlugFor("skill-hunter--kill-monsters")).toBe("skill-hunter-kill-monsters")
 })
 
+test("a fiction slug holding anything but letters, digits and dashes is named in lower kebab case", () => {
+  expect(pageSlugFor("oathholder-heretical-oaths,lesbian_romance")).toBe(
+    "oathholder-heretical-oaths-lesbian-romance"
+  )
+  expect(pageSlugFor("-Edge-Case-")).toBe("edge-case")
+})
+
 test("a story made off the read later list alone states read later and not following", () => {
   const values = storyValues(FOLLOWED, META, BOOKSTORE, { following: false, readLater: true })
   expect([values["following"], values["readLater"]]).toEqual([false, true])

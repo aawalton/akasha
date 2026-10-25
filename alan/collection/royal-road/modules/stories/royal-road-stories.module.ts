@@ -63,6 +63,14 @@ export const royalRoadStories = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every run of other characters in that slug is named as one dash.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That slug is named in lower case, with no dash at either end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A story is read from royal road at the link its record of royal road states.",
     },
     {
@@ -91,5 +99,5 @@ export const royalRoadStories = {
     },
   ],
   createdAt: "2026-09-28T19:46:59.746Z",
-  updatedAt: "2026-10-24T09:54:19.776Z",
+  updatedAt: "2026-10-25T09:55:18.795Z",
 } as const satisfies Module

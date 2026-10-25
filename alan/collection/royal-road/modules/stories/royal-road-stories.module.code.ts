@@ -39,7 +39,8 @@ const WORDS = `${unit.slug}/${words.slug}` as const
 const PROSE = "prose"
 const TXT = "txt"
 const LEADING_DIGIT = /^[0-9]/
-const DASHES = /-{2,}/g
+const UNSLUGGED = /[^a-z0-9]+/g
+const EDGES = /^-+|-+$/g
 
 type Restated = Extract<Asking, { at: typeof RESTATE }>
 
@@ -183,7 +184,7 @@ interface Created {
 }
 
 export function pageSlugFor(fictionSlug: string): string {
-  const named = fictionSlug.replace(DASHES, "-")
+  const named = fictionSlug.toLowerCase().replace(UNSLUGGED, "-").replace(EDGES, "")
   return LEADING_DIGIT.test(named) ? `${SOURCE}-${named}` : named
 }
 
