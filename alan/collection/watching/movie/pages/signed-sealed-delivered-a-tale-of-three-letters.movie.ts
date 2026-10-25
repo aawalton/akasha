@@ -1,0 +1,41 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const signedSealedDeliveredATaleOfThreeLetters = {
+  id: "01a1749a-a94c-7c8f-b7f4-dcda69831c18",
+  type: "page-type/movie",
+  slug: "signed-sealed-delivered-a-tale-of-three-letters",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["franchise/signed-sealed-delivered"],
+  position: 14,
+  publishedAt: "2024-07-12",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1302757",
+      externalLink: "https://www.themoviedb.org/movie/1302757",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Signed, Sealed, Delivered: A Tale of Three Letters",
+  genres: ["Drama", "TV Movie", "Mystery", "Crime"],
+  imdbId: "tt32737939",
+  posterPath: "/bs9o9vtv0FUBj4xyVVOo8RW8N2p.jpg",
+  voteAverage: 6.8,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:47:35.367Z",
+  updatedAt: "2026-10-25T19:47:35.367Z",
+} as const satisfies Movie

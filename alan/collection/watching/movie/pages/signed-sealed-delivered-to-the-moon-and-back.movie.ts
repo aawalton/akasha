@@ -1,0 +1,41 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const signedSealedDeliveredToTheMoonAndBack = {
+  id: "01a1749a-a94c-71f7-8755-aca07e584a73",
+  type: "page-type/movie",
+  slug: "signed-sealed-delivered-to-the-moon-and-back",
+  ownLength: 110,
+  ownProgress: 0,
+  partOfCollections: ["franchise/signed-sealed-delivered"],
+  position: 15,
+  publishedAt: "2025-04-26",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1425296",
+      externalLink: "https://www.themoviedb.org/movie/1425296",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Signed, Sealed, Delivered: To the Moon and Back",
+  genres: ["Drama", "TV Movie", "Mystery"],
+  imdbId: "tt31995690",
+  posterPath: "/jMdsTGbM4riS5DaeyMHLqaRn81s.jpg",
+  voteAverage: 6.6,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:47:35.367Z",
+  updatedAt: "2026-10-25T19:47:35.367Z",
+} as const satisfies Movie
