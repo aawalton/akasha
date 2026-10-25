@@ -12,7 +12,7 @@ import { seatTurnState } from "akasha/agent/seat/turn-state/seat-turn-state.page
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { type ReactNode, useEffect, useRef, useState } from "react"
 
-export type Cancellable = {
+type Cancellable = {
   readonly message: string
   readonly text: string
   readonly files: readonly File[]
@@ -47,13 +47,13 @@ const SAID_MS = 6_000
 
 const sentHere = new Set<string>()
 
-export function mineOf(me: string | null, sent: ReadonlySet<string>): (entry: Entry) => boolean {
+function mineOf(me: string | null, sent: ReadonlySet<string>): (entry: Entry) => boolean {
   return (entry) =>
     (entry.message !== undefined && sent.has(entry.message)) ||
     (me !== null && entry.sender !== undefined && personSlug(entry.sender) === personSlug(me))
 }
 
-export function regrettableIn(heard: Heard, mine: (entry: Entry) => boolean): string | null {
+function regrettableIn(heard: Heard, mine: (entry: Entry) => boolean): string | null {
   if (heard.state !== "heard" || heard.turnState !== WORKING) return null
   for (let back = heard.entries.length - 1; back >= 0; back -= 1) {
     const one = heard.entries[back]
@@ -63,7 +63,7 @@ export function regrettableIn(heard: Heard, mine: (entry: Entry) => boolean): st
   return null
 }
 
-export function shownOf(entries: readonly Entry[], hidden: string | null): readonly Entry[] {
+function shownOf(entries: readonly Entry[], hidden: string | null): readonly Entry[] {
   if (hidden === null) return entries
   const at = entries.findIndex((one) => one.message === hidden)
   return at < 0 ? entries : entries.slice(0, at)
@@ -113,7 +113,7 @@ function Control({
   )
 }
 
-export type Regretted = {
+type Regretted = {
   readonly seat: string
   readonly seatName: string
   readonly heard: Heard
