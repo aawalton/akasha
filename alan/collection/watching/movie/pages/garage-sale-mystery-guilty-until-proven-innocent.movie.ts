@@ -7,7 +7,7 @@ export const garageSaleMysteryGuiltyUntilProvenInnocent = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/garage-sale-mysteries"],
-  position: 4,
+  position: 5,
   publishedAt: "2016-01-03",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const garageSaleMysteryGuiltyUntilProvenInnocent = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:29.458Z",
-  updatedAt: "2026-10-25T19:46:29.458Z",
+  updatedAt: "2026-10-25T20:45:04.980Z",
 } as const satisfies Movie

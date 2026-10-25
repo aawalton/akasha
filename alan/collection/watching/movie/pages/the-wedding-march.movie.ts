@@ -7,7 +7,7 @@ export const theWeddingMarch = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/the-wedding-march"],
-  position: 0,
+  position: 1,
   publishedAt: "2016-06-25",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const theWeddingMarch = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:29.458Z",
-  updatedAt: "2026-10-25T19:46:29.458Z",
+  updatedAt: "2026-10-25T20:45:04.980Z",
 } as const satisfies Movie

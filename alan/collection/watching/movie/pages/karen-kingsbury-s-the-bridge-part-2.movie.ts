@@ -7,7 +7,7 @@ export const karenKingsburySTheBridgePart2 = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/karen-kingsbury-s-the-bridge"],
-  position: 1,
+  position: 2,
   publishedAt: "2016-03-20",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const karenKingsburySTheBridgePart2 = {
     "YouTube Free",
   ],
   createdAt: "2026-10-25T19:46:29.458Z",
-  updatedAt: "2026-10-25T19:46:29.458Z",
+  updatedAt: "2026-10-25T20:45:04.980Z",
 } as const satisfies Movie

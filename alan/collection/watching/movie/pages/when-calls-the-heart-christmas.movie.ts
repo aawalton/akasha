@@ -7,7 +7,7 @@ export const whenCallsTheHeartChristmas = {
   ownLength: 86,
   ownProgress: 0,
   partOfCollections: ["franchise/when-calls-the-heart"],
-  position: 3,
+  position: 4,
   publishedAt: "2016-12-25",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const whenCallsTheHeartChristmas = {
   posterPath: "/r4aIq5MgLDmtLQPkcASVb29RwcV.jpg",
   voteAverage: 6,
   createdAt: "2026-10-25T19:46:29.458Z",
-  updatedAt: "2026-10-25T19:46:29.458Z",
+  updatedAt: "2026-10-25T20:45:04.980Z",
 } as const satisfies Movie

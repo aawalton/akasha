@@ -7,11 +7,11 @@ export const goodWitchSecretsOfGreyHouse = {
   ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["franchise/the-good-witch"],
-  position: 9,
+  position: 10,
   publishedAt: "2016-10-22",
   status: "not-started",
   unit: "unit/minutes",
   title: "Good Witch: Secrets of Grey House",
   createdAt: "2026-10-25T19:46:29.458Z",
-  updatedAt: "2026-10-25T19:46:29.458Z",
+  updatedAt: "2026-10-25T20:45:04.980Z",
 } as const satisfies Movie

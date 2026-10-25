@@ -7,7 +7,7 @@ export const theJuliusHouseAnAuroraTeagardenMystery = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/aurora-teagarden-mystery"],
-  position: 3,
+  position: 4,
   publishedAt: "2016-10-16",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const theJuliusHouseAnAuroraTeagardenMystery = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:29.458Z",
-  updatedAt: "2026-10-25T19:46:29.458Z",
+  updatedAt: "2026-10-25T20:45:04.980Z",
 } as const satisfies Movie
