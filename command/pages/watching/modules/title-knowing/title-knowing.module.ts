@@ -4,7 +4,7 @@ export const titleKnowing = {
   id: "01a14472-30ff-7002-8a90-0505651851cb",
   type: "page-type/module",
   slug: "title-knowing",
-  definition: "the show or film a streaming link names, and what is known of it",
+  definition: "the show or film a link names, and what is known of it",
   code: "ts",
   decisions: [
     {
@@ -13,11 +13,19 @@ export const titleKnowing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A link to neither Netflix nor Prime Video is refused.",
+      statement: "A link to none of Netflix, Prime Video and TMDB is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A title is looked up on Wikidata by the provider's id.",
+      statement: "A TMDB link says whether it names a film or a show.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A TMDB title is looked up on TMDB by its id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other title is looked up on Wikidata by the provider's id.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -29,5 +37,5 @@ export const titleKnowing = {
     },
   ],
   createdAt: "2026-10-16T11:21:36.767Z",
-  updatedAt: "2026-10-16T11:21:36.767Z",
+  updatedAt: "2026-10-25T23:37:47.839Z",
 } as const satisfies Module

@@ -119,7 +119,7 @@ export function seasonNumbersIn(said: unknown): readonly number[] {
     .filter((one) => one > 0)
 }
 
-async function tmdbAnswer(calls: Calls, token: string, path: string): Promise<unknown> {
+export async function tmdbAnswer(calls: Calls, token: string, path: string): Promise<unknown> {
   const answered = await fetched(calls, `${TMDB_AT}${path}`, {
     authorization: `Bearer ${token}`,
     accept: "application/json",

@@ -1,19 +1,25 @@
 import { movie } from "akasha/alan/collection/watching/movie/movie.page-type.ts"
 import { show } from "akasha/alan/collection/watching/show/show.page-type.ts"
+import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
+import { asRecordOrEmpty } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import {
   type Calls,
   fetched,
+  tmdbAnswer,
+  tokenSaid,
 } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
 
-type Source = "netflix" | "prime-video"
+type Source = "netflix" | "prime-video" | "tmdb"
+
+export type Kind = typeof show.slug | typeof movie.slug
 
 export type Linked = {
   readonly source: Source
   readonly externalId: string
   readonly externalLink: string
+  readonly kind?: Kind
 }
-
-export type Kind = typeof show.slug | typeof movie.slug
 
 export type Known = {
   readonly kind: Kind
@@ -27,7 +33,12 @@ const SLUG_CEILING = 100
 
 const WIKIDATA_AT = "https://query.wikidata.org/sparql"
 
-const WIKIDATA_ID: Readonly<Record<Source, string>> = { netflix: "P1874", "prime-video": "P8055" }
+const TMDB = "tmdb"
+
+const WIKIDATA_ID: Readonly<Record<Exclude<Source, typeof TMDB>, string>> = {
+  netflix: "P1874",
+  "prime-video": "P8055",
+}
 
 const FILM = "Q11424"
 
@@ -38,6 +49,10 @@ const TMDB_TV = "P4983"
 const NETFLIX_HOST = /(?:^|\.)netflix\.com$/
 
 const PRIME_HOST = /(?:^|\.)primevideo\.com$/
+
+const TMDB_HOST = /(?:^|\.)themoviedb\.org$/
+
+const TMDB_TITLE = /^\/(movie|tv)\/(\d+)(?:-[^/]*)?(?:\/|$)/
 
 const NETFLIX_TITLE = /\/title\/(\d+)/
 
@@ -82,7 +97,19 @@ export function linkedBy(said: string): Linked | string {
       externalLink: `https://www.primevideo.com/detail/${id}`,
     }
   }
-  return `\`${said}\` is a link to neither Netflix nor Prime Video`
+  if (TMDB_HOST.test(url.hostname)) {
+    const named = TMDB_TITLE.exec(url.pathname)
+    const path = named?.[1]
+    const id = named?.[2]
+    if (path === undefined || id === undefined) return `\`${said}\` is a TMDB link naming no title`
+    return {
+      source: TMDB,
+      externalId: id,
+      externalLink: `https://www.themoviedb.org/${path}/${id}`,
+      kind: path === "movie" ? movie.slug : show.slug,
+    }
+  }
+  return `\`${said}\` is a link to none of Netflix, Prime Video and TMDB`
 }
 
 export function slugOf(title: string): string {
@@ -95,11 +122,10 @@ export function slugOf(title: string): string {
     .replace(/^-+|-+$/g, "")
 }
 
-function askedOfWikidata(linked: Linked): string {
-  const id = WIKIDATA_ID[linked.source]
+function askedOfWikidata(id: string, externalId: string): string {
   return [
     "SELECT ?label ?film ?series ?published ?started ?minutes ?tmdb WHERE {",
-    `  ?item wdt:${id} "${linked.externalId}" .`,
+    `  ?item wdt:${id} "${externalId}" .`,
     '  ?item rdfs:label ?label FILTER(lang(?label) = "en")',
     `  BIND(EXISTS { ?item wdt:P31/wdt:P279* wd:${FILM} } AS ?film)`,
     `  BIND(EXISTS { ?item wdt:P31/wdt:P279* wd:${SERIES} } AS ?series)`,
@@ -158,8 +184,33 @@ export function knownFromPrime(html: string): Known | null {
   return { kind, title, publishedAt: null, minutes: null, tmdbId: null }
 }
 
+export function knownFromTmdb(kind: Kind, said: unknown): Known | null {
+  const held = asRecordOrEmpty(said)
+  const id = asNumber(held.id)
+  const title = textIn(held.title) ?? textIn(held.name)
+  if (id === null || title === null) return null
+  const runs = asNumber(held.runtime)
+  return {
+    kind,
+    title,
+    publishedAt: textIn(held.release_date) ?? textIn(held.first_air_date),
+    minutes: kind === movie.slug && runs !== null && runs > 0 ? runs : null,
+    tmdbId: kind === show.slug ? String(id) : null,
+  }
+}
+
+async function tmdbKnown(linked: Linked, calls: Calls): Promise<Known | null> {
+  const token = tokenSaid()
+  if (token === null) return null
+  const kind = linked.kind ?? movie.slug
+  const path = kind === movie.slug ? "movie" : "tv"
+  return knownFromTmdb(kind, await tmdbAnswer(calls, token, `/${path}/${linked.externalId}`))
+}
+
 export async function knownBy(linked: Linked, calls: Calls): Promise<Known | null> {
-  const asked = `${WIKIDATA_AT}?query=${encodeURIComponent(askedOfWikidata(linked))}`
+  if (linked.source === TMDB) return await tmdbKnown(linked, calls)
+  const query = askedOfWikidata(WIKIDATA_ID[linked.source], linked.externalId)
+  const asked = `${WIKIDATA_AT}?query=${encodeURIComponent(query)}`
   const wikidata = await fetched(calls, asked, { accept: "application/sparql-results+json" })
   if (wikidata !== null) {
     const known = knownFromWikidata(await wikidata.json())

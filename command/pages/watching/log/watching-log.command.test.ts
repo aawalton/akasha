@@ -6,6 +6,7 @@ import {
 } from "akasha/command/pages/watching/log/watching-log.command.code.ts"
 import {
   knownFromPrime,
+  knownFromTmdb,
   knownFromWikidata,
   linkedBy,
   slugOf,
@@ -68,8 +69,28 @@ test("a Prime Video link reads as the id at the end of its detail path", () => {
   })
 })
 
-test("a link to neither provider is refused", () => {
-  expect(linkedBy("https://example.com/title/1")).toContain("neither Netflix nor Prime Video")
+test("a TMDB link reads as a film or a show by its path, slugged or not", () => {
+  const film = {
+    source: "tmdb",
+    externalId: "657018",
+    externalLink: "https://www.themoviedb.org/movie/657018",
+    kind: "movie",
+  } as const
+  expect(linkedBy("https://www.themoviedb.org/movie/657018")).toEqual(film)
+  expect(linkedBy("https://www.themoviedb.org/movie/657018-a-beautiful-place?language=en")).toEqual(
+    film
+  )
+  expect(linkedBy("https://www.themoviedb.org/tv/220542-the-apothecary-diaries")).toEqual({
+    source: "tmdb",
+    externalId: "220542",
+    externalLink: "https://www.themoviedb.org/tv/220542",
+    kind: "show",
+  })
+  expect(linkedBy("https://www.themoviedb.org/person/1")).toContain("TMDB link naming no title")
+})
+
+test("a link to no provider read here is refused", () => {
+  expect(linkedBy("https://example.com/title/1")).toContain("none of Netflix, Prime Video and TMDB")
   expect(linkedBy("nothing")).toContain("is no link")
 })
 
@@ -123,6 +144,31 @@ test("a Prime Video page naming a season reads as a show", () => {
     minutes: null,
     tmdbId: null,
   })
+})
+
+test("a TMDB film reads as a movie with its minutes, and a TMDB show with its id", () => {
+  const film = {
+    id: 657018,
+    title: "A Beautiful Place to Die",
+    release_date: "2020-01-12",
+    runtime: 85,
+  }
+  expect(knownFromTmdb("movie", film)).toEqual({
+    kind: "movie",
+    title: "A Beautiful Place to Die",
+    publishedAt: "2020-01-12",
+    minutes: 85,
+    tmdbId: null,
+  })
+  const shown = { id: 220542, name: "The Apothecary Diaries", first_air_date: "2023-10-22" }
+  expect(knownFromTmdb("show", shown)).toEqual({
+    kind: "show",
+    title: "The Apothecary Diaries",
+    publishedAt: "2023-10-22",
+    minutes: null,
+    tmdbId: "220542",
+  })
+  expect(knownFromTmdb("movie", null)).toBe(null)
 })
 
 test("a completed movie states its whole length as watched", () => {

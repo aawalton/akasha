@@ -4,7 +4,7 @@ export const tmdbReading = {
   id: "01a1447c-42d3-7000-b116-5120b0ae70ad",
   type: "page-type/module",
   slug: "tmdb-reading",
-  definition: "what TMDB answers of a show's seasons and episodes",
+  definition: "what TMDB answers of a show or film, and of a show's seasons and episodes",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const tmdbReading = {
     },
   ],
   createdAt: "2026-10-16T11:32:36.691Z",
-  updatedAt: "2026-10-16T11:32:36.691Z",
+  updatedAt: "2026-10-25T23:37:47.839Z",
 } as const satisfies Module
