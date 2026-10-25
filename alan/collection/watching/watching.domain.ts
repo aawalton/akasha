@@ -35,10 +35,6 @@ export const watching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A movie sits under a franchise and under nothing else.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A length is stated only where the collection is watched in one sitting.",
     },
     {
@@ -47,5 +43,5 @@ export const watching = {
     },
   ],
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-09-25T13:06:39.000Z",
+  updatedAt: "2026-10-25T19:15:33.911Z",
 } as const satisfies Domain
