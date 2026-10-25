@@ -17,10 +17,10 @@ export const theHoldernessFamily = {
       source: "spotify",
       externalId: "6tITG4T8LpC0msapZ4wXGA",
       externalLink: "https://open.spotify.com/artist/6tITG4T8LpC0msapZ4wXGA",
-      lastSyncedAt: "2026-09-18",
+      lastSyncedAt: "2026-10-25",
     },
   ],
   title: "The Holderness Family",
   createdAt: "2026-09-03T16:04:08.684Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-25T13:47:03.997Z",
 } as const satisfies Artist
