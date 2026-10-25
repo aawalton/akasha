@@ -1,0 +1,175 @@
+The angel looked more like a demon on closer look; the feathery wings were tarred and blackened like bats, and its skin had the same black tar-tape-like texture she saw on Sarka.
+
+No horns. It is an angel for sure. This is based on a corpse of some sky tribe. I don't remember anything that looked like this, though. Must be the work of RLP.
+
+In the VRMMO, the angels had to look hot and handsome to appeal to the audience, the same deal as elves. Their wings had nothing to do with actual physically accurate flight. It wasn't a simulation. It was just hot people with cool wings.
+
+It was no wonder RLP had to decompose that to natural evolution. The wingspan made sense. Anything the size and weight of a human would indeed require wings of this size for sustained flight. If they were any smaller, they would tire out like hummingbirds. Any larger, they wouldn't be able to fold them.
+
+Suddenly, Darya was very interested in seeing a sky tribe. She wondered what their settlements would look like. They could be sleeping upside down like bats! She could definitely use one for the Desert Rose's crew.
+
+The colossal Dreagans' swirl snapped her back to her situation. She didn't have wings to resist its space-distorting pull.
+
+[Vainfall: Frame Selected Entity]
+
+The command refreshed her position back to the same distance she first appeared.
+
+That's going to be useful. This is going to be the opposite of the last fight. I have to do everything to stay away.
+
+The angel who hovered some distance away looked around when she vanished from its field of view. It flapped its wings and pulsed out a wave of white mana. It swiveled straight toward her the moment that mana wave touched her.
+
+Another flap of its wings propelled it straight at Darya. She extended her gauntlet, flaring red mana from the scales.
+
+The Shadow started rotating along its axis, extending its right arm. White mana burst from its palm in a spiraling line.
+
+[Spell: Mana Funnel]-236 MP • Cone • Instant[view more]
+
+Darya absorbed the full spell. It was more powerful than it looked. She watched a couple of scales loosen off the gauntlet as the spell exceeded its defensive capacity.
+
+Mana Gained+789 MP
+
+Now I know how hard it hits. I shouldn't get hit again.
+
+The Shadow aimed the sharp ends of its wings at Darya as it closed the gap, legs bending like an eagle about to snatch its prey.
+
+[Vainfall: Terminate]
+
+Darya stayed exactly where she was as the world turned monochrome. The shadow froze right before it crashed into her.
+
+One.
+
+She extended her Gauntlet arm forward, moving slowly enough for the prediction dots. She watched the Shadow's flesh rip as her mana-sharpened claws cut through the tar-black surface.
+
+Fighting a winged opponent had its advantages. The biggest one: Their weak point was there for all to see: the wings.
+
+Two.
+
+Darya drove her gauntlet straight into the Shadow's gut as the prediction dots splashed out from the impact. She scraped its torso and reached the back shoulder parts where the wings connected like an extra pair of arms.
+
+She clenched her claws around the joint.
+
+Three.
+
+[Skill: Wind Step]-20 SP • 8s Cooldown[view more]
+
+Phasing through, Darya appeared twenty feet above the Shadow as the prediction dots splashed around the devastating blow.
+
+Half.
+
+It happened almost too fast for the naked eye. The Shadow swept past in a blur, leaving several pieces of itself behind. One wing bent out of shape and wrapped around it as it entered an uncontrollable spin.
+
+There goes. That one's done.
+
+The Shadow desperately twisted mid-air as it tumbled in a downward arc. The pull of the Colossal Dreagan altered its trajectory a little, but it disappeared into the clouds below in a streak of white mana.
+
+It let out an ear-piercing screech that sounded like a disaster siren. Darya flinched where she was. It affected the same heartstrings as the first time she saw the angel. She felt guilty, even if what she did was necessary.
+
+That must be a passive of some sort. Maybe they all have it. It's the opposite of seeing a demon. Makes sense.
+
+The effect of that scream didn't end with a passive effect on her heart. Several others came from the sky around her in response. They were more threatening than the one she just heard.
+
+Darya caught the first glimpse of the Shadow flying in a wide arc around the Dreagan.
+
+She didn't want to waste that anchor point. She grabbed one of the sticks hanging from her waist. It was time for a new collider weapon. She already had a shape in mind. Air resistance was better than water.
+
+[Vainfall: Terminate]
+
+She aimed the stick at the Dreagan and let go. Separated from her outline, it turned monochrome right away.
+
+[Vainfall: Edit Collider Wireframe]
+
+She grabbed a vertex from the sharp end.
+
+One.
+
+[Vainfall: Frame Selected Entity]
+
+She zoomed straight towards the frozen Shadow. Dragging the collider vertex all the way near the Colossal Dreagan, she created a spear that was possibly larger than the one she made underwater.
+
+Two.
+
+Turning in place, she grabbed another vertex near the new tip. This time, she faced right.
+
+[Skill: Wind Step]-20 SP • 8s Cooldown[view more]
+
+Dashing tens of feet to the right, she dragged the new vertex perpendicular to the other one. The sharp edge was now flattened. This collider shape was a very long triangle.
+
+Three.
+
+She grabbed another vertex and looked down.
+
+[Skill: Smooth Slither]-30 SP • 30s Cooldown[view more]
+
+Now the collider was a triangular pyramid, the pointed end gathering back at the handle at least three hundred feet back. The mostly flat triangular profile she just created was at least thirty feet on each edge, or whatever the distances were for Wind Step and Smooth Slither.
+
+She had created the largest club in the world.
+
+She was just on the wrong end of it. She looked back at the handle. There was no way to get back there. The handle wasn't an entity, and no entity was near the handle.
+
+I'm going to have to fly back there, but not against this mana pull. If I turn weightless, I get dragged like an ant in a sink. If I use the Frame command, there's no guarantee I'll appear at that exact spot. It's random.
+
+There was one thing that she could count on. Modifying the collider didn't modify the mass. This was still just a stick in the sky. The mana pull was strong enough to drag it straight to the Dreagan.
+
+The Terminate finished with the hilarious aftermath of what she just did. The Shadow that was flying towards her slammed headfirst into the flat end of the invisible pyramid. Darya entered free fall as it let out another screech. It had suffered even more damage than the first one, both wings bent at weird angles.
+
+It passed Darya in a twisting spiral and disappeared into the clouds.
+
+Arkan Strumfil Defeated.Damage Dealt: 678 (11%)EXP: +433 (View Axes)
+
+Did that one die on the way down? I didn't get anything for the first one. Maybe it's still alive down there somewhere.
+
+More importantly, she saw what she predicted would happen in real time. The stick was moving towards the Dreagan, joining the massive swirl. The collider was already touching its tar-black surface.
+
+A brand new screech came from somewhere behind the Dreagan. Another Shadow had crashed into the invisible shape.
+
+"Aha!" Darya scoffed. This was more fun than she thought. She wondered if the Dreagan would adapt to it.
+
+Either way, she had to be careful with the stray collider floating around. She could very easily make the same mistake while laughing at those stupid Shadows.
+
+[Vainfall: Edit Collider Wireframe]
+
+The massive pyramid was scraping against the Dreagn's tar surface. It didn't have any weight to do any real damage. She needed to grab the handle for that.
+
+Keeping the command active just to see the whereabouts of the stray collider, Darya targeted the Dreagan again. She had to regain some altitude.
+
+[Vainfall: Frame Selected Entity]
+
+The random angle she reappeared at did her no favors. The handle was several hundred feet to her right. From this angle, she could naturally float there with the pull from the swirl.
+
+The collider command was cumbersome. Any other Verse command could dismiss it as a cancellation of the edit mode. She had to remember to reactivate each time she wanted to see any collider.
+
+[Vainfall: Edit Collider Wireframe]
+
+[Spell: Flying Celestian]-254 MP • Circle • Instant[view more]
+
+The Shadows were flying toward her from at least three angles. It was going to take them at least fifteen seconds to catch up. That was plenty of time.
+
+She made small adjustments as she flew towards the floating stick. It took longer than she thought to navigate that safely, when even a light scrape against the sharp edge of this collider could damage her worse than a sword could.
+
+Finally, she managed to grab the handle and held onto it with both hands. The collider didn't even move. She could just cling on. Air resistance added up with a surface this large. Her weight was nothing against it.
+
+The only way she could move it was if she removed that part. For her, that was one of the easiest things to do.
+
+[Vainfall: Terminate]
+
+The collider preview vanished as the world turned monochrome. She entered freefall with her oversized club, unaffected by anything in the world. Holding onto the handle for dear life, Darya spun in place.
+
+She swung it hard enough to phase through anything it came into contact with. Shadows, the Dreagan, and the clouds.
+
+Halfway through a swing, she targeted a Shadow flying towards her. It was halfway between her and the Dreagan.
+
+[Vainfall: Frame Selected Entity]
+
+Zooming forth, she finished the swing at a point near the Dreagan. The collider phased through the tar surface as she slowed. Prediction dots moved, indicating a powerful impact. Lodging it straight across the Dreagan with deliberately slow movements, she let go of the handle.
+
+[Vainfall: Edit Collider Wireframe]
+
+That confirmed it. The collider was going straight into the Dreagan. The last half second came as the world resolved into the prediction dots.
+
+Darya targeted the Dreagan to retreat.
+
+[Vainfall: Frame Selected Entity]
+
+Zooming back, she watched a thick line shatter across the tar-black surface, countless chunks falling off as a massive amount of white blood splashed into the winds. The Colossal Dreagan stopped spinning.
+
+Looks like it can eat about five more of that.

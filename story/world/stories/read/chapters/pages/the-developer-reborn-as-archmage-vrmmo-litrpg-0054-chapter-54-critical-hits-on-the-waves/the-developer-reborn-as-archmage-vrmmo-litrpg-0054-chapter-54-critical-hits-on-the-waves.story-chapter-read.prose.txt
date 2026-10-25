@@ -1,0 +1,205 @@
+The mana projectile splattered against the upper half of the face of the creature, carving a path straight through. It dove back into the water immediately, twisting erratically in pain.
+
+[Inspect]
+
+Creature: Pale Giant EelKind: MagicalLevel: 304HP: 26,829/27,418MP: 5,093/5,093SP 2,391/2,485
+
+This had to be the worst creature that Darya had encountered so far. The stamina points alone were far more intimidating. It could ‘do’ a lot of things, and the amount of effort required wasn’t related to its size.
+
+It also had a mana coating over the giant scales, which made it categorically magical. She hadn’t expected a sea monster to wield mana, but this one had way more than she thought.
+
+This thing was similar to the Dreagans in that it had a different effective health due to its mana protection. The damage that she could deal, and therefore the EXP she could gain, was disproportionately high.
+
+Doesn’t matter if I can’t kill it though. Damage isn’t rewarded by itself.
+
+She caught a glimpse of Nerima through a huge splash of seawater. So far, she had avoided using Terminate. Intending to keep herself afloat, she set her next target to Nerima.
+
+[Frame Selected Entity]
+
+She appeared about six feet above Nerima. The girl almost sank under the waves in panic when she materialized out of nowhere.
+
+“Princess!” Nerima yelled in surprise.
+
+“Everything alright?” Darya yelled over the winds as she fell towards the water.
+
+Nerima waved her hands. “How did you fly so fast—”
+
+Darya caught a glimpse of Fominel flying above. She didn’t want to get soaked in the cold black waves. The wind was freezing enough.
+
+Maybe I should take a potion to heat myself. Seris should’ve made some.
+
+She set the next target before Nerima could even finish asking the question.
+
+[Frame Selected Entity]
+
+Fomienl had the same surprised reaction as the birds that she traumatized when she first used this new ability.
+
+“Princess!” He yelled, wings flapping furiously as he instinctively ducked out of the way.
+
+“Keep an eye on Nerima!” Darya yelled as she buzzed past. “I’m going back to the ship!”
+
+The second sentence was probably too far for him to hear, but Darya knew he heard the first.
+
+She twisted midair to face the ship. Cold ocean winds fluttered through her dress. She could no longer feel her fingers. Jumping out without proper protection against freezing was a mistake.
+
+She saw Lurim eagerly leaning over the railing next to a cannon. Enta was glowing like a lamp in his enclosure.
+
+They’ll get too scared if I appear out of nowhere.
+
+She picked Seris as her next target. She was on the weather deck commanding the other mages to reinforce the mana shield on the hull.
+
+[Frame Selected Entity]
+
+Darya zoomed like a missile, appearing right above Seris in a blur.
+
+“Aaah!” Seris yelped, ducking in fright. “Princess! You came back!” she yelled as Darya landed softly on the wooden floorboards. Some of the new mages looked flabbergasted at her speed.
+
+“I’m freezing out there!” Darya said, setting her spear Manacer against a wooden box nearby.
+
+“Wait!” Seris said, pausing whatever she was casting. She pointed her wand in Darya’s direction and shouted an incantation.
+
+Warm yellow mana spread over Darya like a cozy blanket, instantly getting rid of the cold. Seris quickly dug into her bag and tossed a ball-like bottle with a fiery liquid.
+
+“Drink that for anti-freezing. It’ll be a bit spicy though,” she said, urgently rejoining the casting for the mana shield.
+
+Darya sipped the potion that tasted like diluted hot sauce. It had the same effect as a shot of whiskey. She could tell the heat was going to stay in her body for a while.
+
+Lurim came running with Enta. He started doing mad gestures, trying to tell her how she looked from the ship. He was making a lot of air sounds, drawing long lines across the air.
+
+“Nerima’s doing alright,” Darya told him, patting his messy wet hair.
+
+Lurim nodded as if he wasn’t even remotely worried about it.
+
+“Eek!” Enta squeaked. He was the most awake Darya had ever seen him. His tiny pan-like eyes had opened into full circles, and he seemed to share the same excitement as Lurim.
+
+Darya gently rubbed his cheek through the golden enclosure. Luminous tendrils of mana twisted up her finger, absorbing into her. She was quite sure Enta refilled her.
+
+Have to be careful about that. He’s on his first stamina point. Don’t know how long he can stay awake.
+
+They had bought several mana crystals in order not to rely on the baby, but she preferred to include him as much as possible.
+
+“Big one on the left. Nerima’s coming up!” Master Lam yelled.
+
+Darya ran to the edge of the railing to watch the water bulge like a mountain.
+
+[Inspect]
+
+Creature: Redfin GarslothKind: MagicalLevel: 239HP: 12,427/12,427MP: 3,504/3,504SP: 1,332/1,346
+
+Things didn’t look good this time.
+
+Nerima was shooting straight up, but the sea monster chasing after had long, twisting tendrils. They burst out of the water, instantly creating a forest of tentacles that she couldn’t fall back into.
+
+“Seris! Bring her back!” Darya yelled, placing her foot on the railing. Fominel was already diving towards Nerima with his manablades extending more than a hundred meters each.
+
+Seris interrupted her shielding job again and blasted the end of Nerima’s rope with a bolt of mana.
+
+The glowing spark traveled through the rope and disappeared under the black waves. It caught up with Nerima as she was falling back down. She was trying her best to sneak through the forest of tentacles on her own.
+
+Fominel passed by her with two slashes, cutting at least twenty tentacles in one go. He almost touched the water as he twisted mid-air.
+
+The beak of the giant creature emerged from the falling pile of tentacles. Nerima was headed straight down to it.
+
+Darya grabbed her spear Manacer tight.
+
+[Frame Selected Entity]
+
+Darya didn’t know if she set the target to the creature or Nerima, but she was hovering right next to her within the next second.
+
+She saw Nerima’s bewildered face for a split second before the yellow spark traveling up the rope enveloped her.
+
+“Go back!” Darya yelled as a giant eye emerged from the black waves. It was shaking fantastically.
+
+Nerima reached for her desperately before vanishing in an explosion of mana, leaving the frayed end of the rope behind.
+
+Fomnel flew above, dragging his red blade through the meatiest part of the creature.
+
+Blue blood sprayed from the crevasse of a cut. Darya saw a glimmering yellow part inside.
+
+That has to be something important. I have to hit that for a crit!
+
+She didn’t want to mess up the opportunity Fominel had risked falling into the sea for.
+
+[Vainfall: Terminate]
+
+Falling through the monochrome world, she phased through several tentacles.
+
+She was quite sure her escape options after this attack were low. She was very likely going to splash into the waves, but this time she had the warmth from the potion circulating her body.
+
+[Spell: Seven Petal Spear]-82MP/s • Line • Timed 2s[view more]
+
+The spell worked differently with her new Manacer. The mana crystal at the center burst with power, extending a harpoon-like line directly at her target. She watched the mana attack phase through the glowing inner flesh of the creature.
+
+She counted the seconds as she fell, keeping the spear aimed at the exact spot the whole way down. By some stroke of luck, she had appeared high enough to fall for two whole seconds.
+
+By the time her spell flared into seven in a final explosion, she was only feet away from the glowing flesh. The prediction dots showed a hole the size of a well open beneath her.
+
+She twisted mid-air during the last half a second and slashed whatever she could. She was at least five feet deep inside the creature.
+
+[Spell: Blast Weaver]-293MP/s • Touch. Instant[view more]
+
+The spell burst from the tip of her spear blades, bright mana shattering through a flesh wall.
+
+She felt the shockwave as her first attack punched a hole into the inner flesh, flaring a geyser of blood open. The second spell reverberated through the creature’s body, making its giant tentacles curl.
+
+Landing on the jelly-like, bloodied flesh of the creature, she shaped her gauntleted right arm like a claw and slashed all the way down to control her landing.
+
+Surprisingly, the gauntlet Manacers did a tremendous amount of damage, tearing a trench as she came to a sliding halt in a deep pool of blood.
+
+She could see the glowing inner flesh right beneath her feet. Raising her fist as far as it could go, she brought it down like a hammer.
+
+Mana exploded from her forearm, flaring like flames through the scales of the gauntlet.
+
+[Spell: Blast Weaver]-293MP/s • Touch. Instant[view more]
+
+Blood splashed sky high upon impact, momentarily emptying the entire area of all fluids.
+
+She resisted another punch and began looking for an exit. It was just as busted as she thought before falling into the crevasse.
+
+There was no way out.
+
+Ocean water emerged from the crevasse opening above like waterfalls on both sides, quickly filling up as the creature rotated itself to go back under the waves.
+
+Darya took a big breath, anticipating the wall of water coming her way like a small tsunami.
+
+Then she saw a line of gold passing through a gap in the falling tentacles. Fominel burst through, slashing everything behind him in a vertical circle.
+
+He landed about twenty feet away from her in a huge splash of creature blood and water, driving his manablades deep into the hole that Darya carved with her first spell.
+
+Gripping the blades tightly, he extended them as far as he could, deepening it way further than she could with a spell.
+
+She was sure the glowing red and blue beams burst out the other end deep underwater. The creature’s movements grew erratic as Fominel withdrew the blades.
+
+“Go, I’ll follow!” Darya yelled when he saw her.
+
+Fominel nodded, dashing out in a mess of golden feathers through the gaps in tentacles.
+
+Darya waded forward and then backwards to see him properly as he circled high above. The water was quickly reaching her chest.
+
+She saw him through a gap when a tentacle curled out of the way.
+
+[Frame Selected Entity]
+
+Zooming forward, she found herself back mid-air about a hundred feet away from the creature.
+
+She saw it twist wildly and go underwater, but its movements suddenly stilled.
+
+Fominel twisted under her and flew directly up, as far as his wings could take him. She knew he wanted her to renew her free fall.
+
+[Frame Selected Entity]
+
+This time, she was about thrice as high as before, and the sea monster was fully under the waves.
+
+Redfin Garsloth DefeatedDamage Dealt: 23,678 (77%)EXP: +12,776 (View Axes)
+
+“Ha, there it is!” she yelled into the winds.
+
+The celebration was cut short by the loud sound of cannons erupting to her left. She turned back towards the ship and immediately saw a large dark shape under it. Another creature was ramming the hull.
+
+Fominel was already flying down in a near-vertical dive.
+
+Darya picked a random target on deck and made sure it wasn’t Lurim.
+
+[Frame Selected Entity]
+
+She appeared above the ship in a salty splash ahead of Fominel.

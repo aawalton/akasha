@@ -1,0 +1,211 @@
+The black sphere was at least six times as large as the last Dreagan that Darya fought. It loomed like a moon above the waves, fixed in place in the characteristic silence of Dreagans.
+
+Darya saw it gyrate abruptly as if it was watching both her and Fominel.
+
+The sheer size of the creature exposed a critical problem with the way Frame Selected Entity worked. In the VRMMO, it was supposed to fit the target entity inside the viewport. In RLP, it filled the central field of vision.
+
+Unlike the sea monsters with multiple target points, a Dreagan only had one outline. It was by itself both the entity and the target. The effect of this was simple, but wildly inconvenient: she would always appear hundreds of feet away, for such a colossal Dreagan to fill her vision.
+
+Can’t land a hit with this. Only projectiles. I need to fly.
+
+[Spell: Flying Celestian]-254 MP • Circle • Instant[view more]
+
+She leaned forward as the ocean winds carried her away.
+
+[Skill: Smooth Slither]-30 SP • 30s Cooldown[view more]
+
+Flying in a straight line, she watched Fominel approach from above in two laser lines of red and blue. The crew on the ship was already firing the cannons.
+
+Darya made it ten feet away from the Dreagan, ready to sink the spear through its mana shell. She already knew its weakness. Point damage caused bleed, and the Dreagan would bleed out if cracked hard enough.
+
+Fominel could widen it, but she had to be the missile first.
+
+Diving headfirst, both hands gripping the spear, she pushed herself forward through the black shell.
+
+What happened next was unprecedented. The Dreagan pulsed a massive surge of mana the moment the spear touched its shell. Darya didn’t even see or hear it.
+
+She was rotating mid-air in a wide arc like a thrown pebble.
+
+She saw the mana pulse cratering the black waves below the Dreagan as she flew. She felt sick, the steak she ate almost bursting out of her nostrils.
+
+Holy shit. Didn’t know they could do that.
+
+It had also pushed Fominel further away. He was spiraling like a distressed insect.
+
+[Skill: Wind Step]-20 SP • 8s Cooldown[view more]
+
+Darya used the skill to get herself out of the uncontrollable spin. Having established a direction, she targeted Fominel in the next split second.
+
+[Frame Selected Entity]
+
+Zooming weightlessly with both Flying Celestian and Smooth Slither still active, she came within a few feet of Fominel. One of his mana wings was bent out of shape.
+
+He needs to cast that spell again.
+
+“Princess, go back to the ship!” Fominel yelled while they fell together.
+
+Darya opened her mouth, but the gap between them was growing.
+
+“That’s not the only one!” Fominel’s voice rang out.
+
+She narrowed her eyes, quickly looking at the waves below. He was right. She could see several bulges forming in the water. They had sailed into a minefield of Dreagans.
+
+The closest one to the Desert Rose was only about a hundred feet away. It looked smaller than the first, but it was as large as the ship.
+
+“Fuck!” Darya yelled as Smooth Slither ended, letting the winds carry her weightless body.
+
+She had one new piece of equipment tucked at her waist—A small telescope. She grabbed it and hurriedly aimed it at the Desert Rose. It took some effort to locate it with the zoom level, but she saw a crew member near a cannon.
+
+[Frame Selected Entity]
+
+Passing through the sky in a straight line, she appeared above the ship’s bow, startling several people off their feet.
+
+The second Dreagan was surfacing behind them. She watched it make a much smaller splash. It was doing something different from the last one. It was rippling its tar surface as a shape protruded out of it.
+
+Oh shit. It’s tossing out a Shadow for us.
+
+The effect of Flying Celestian wore off before she saw what it was. With a yelp, she bounced against a mast, got tangled in a rope, and fell to the weather deck with a thud.
+
+She didn’t have time to check herself for damage. Getting onto her elbows, she looked at the Dreagan looming behind the ship.
+
+[Vainfall: Terminate]
+
+As the world turned monochrome, she targeted the Dreagan.
+
+[Frame Selected Entity]
+
+Phasing through half the people on the deck, she passed straight through the length of the ship and emerged out the other side into the ocean winds. The dreagan filled her vision, and this time it wasn’t as far as the last one.
+
+The momentum carried her forward in an arc. She quickly realized this was the wrong angle. She was heading towards the black waves in the last half second of the Terminate.
+
+The right angle was from above.
+
+[Frame Selected Entity]
+
+Instantly regaining altitude before the Terminate even ended, she stared at the Dreagan from a slightly elevated angle. The Shadow it was producing was halfway out. Several others were on the way out, just their heads emerging from the tar.
+
+Is it just going to toss them out? Or are they good swimmers?
+
+She didn’t even want to wait to see that question answered. A battle on her precious ship was unimaginable.
+
+She had to try drastic things to ensure none of these things made it to the water. She had more untested macros, but nothing that quite fit this situation. She decided it was better to rely on battle-tested tools.
+
+There hadn’t been a reason to push the Frame Selected Entity to its limits, unlike Terminate.
+
+Now was the time to see how spammable it was.
+
+As she entered free fall towards the black waves, she targeted the first Shadow, which was halfway out.
+
+[Frame Selected Entity]
+
+Zooming forward, she appeared a few feet away from it.
+
+Aha. There we go. Wait for them to start deploying Shadows.
+
+[Skill: Wind Step]-20 SP • 8s Cooldown[view more]
+
+Moving forth at the same incredible speed, she slammed her gauntlet claw into the Shadow. It sank, caving the man’s head in as she brought her Manacer in with her other hand. She aimed it at his stomach, which was at the boundary.
+
+[Spell: Blast Weaver]-293MP/s • Touch. Instant[view more]
+
+Orange mana erupted in a spark, riddling the Shadow from inside out as her spear sank in through Dreagan’s membrane. As she pushed, it came to a sudden halt.
+
+She knew what was coming. Bracing for impact, she anchored herself into the Shadow with her gauntlet claw.
+
+The Dreagan pulsed mana in a great surge that hit as hard as the first one. It sent her flying as he claw ripped an entire arm and shoulder out of the Shadow.
+
+Darya didn’t give herself a moment to reorient this time. The first glimpse she caught, she targeted the Shadow straight away.
+
+[Frame Selected Entity]
+
+This time, she aimed the spear as she passed a few feet in front of the damaged Shadow.
+
+[Comet Of Volaria]
+
+Mana burst from the tip of her spear, turning into a projectile. It hit the Shadow’s pierced stomach, instantly cratering his black flesh.
+
+The instant that she lost altitude, she targeted the Dreagan.
+
+[Frame Selected Entity]
+
+That repositioned her a hundred feet away.
+
+From there, she targeted the Shadow again.
+
+[Frame Selected Entity]
+
+She zoomed directly towards him in a straight line.
+
+Wind Step was still in cooldown. She leaned forward.
+
+[Skill: Smooth Slither]-30 SP • 30s Cooldown[view more]
+
+Using the skill to carry the same momentum forward, she slammed herself into the Dreagan again; this time, she sank the spear into the stomach. There was no pulse.
+
+Caught it during its cooldown. It can’t do unlimited pulses. Has to be throwing out the mana reserved for the outer shell.
+
+[Spell: Blast Weaver]-293MP/s • Touch. Instant[view more]
+
+This time, she took a risk. She let go of the spear.
+
+[Vainfall: Terminate]
+
+As the world turned monochrome, she ripped and tore into the gored black flesh of the Shadow’s stomach with her gauntlets, creating a cloud of prediction dots around him. Red mana burst around her in wide arcs as she continued for the whole three seconds.
+
+During the last half second, she punched the center of the mess of prediction dots with both fists, making sure they moved fast enough to phase through.
+
+When the world caught up, the tar black surface burst in minced strips of meat as if a thousand balloons popped at once. Her fists sank in as if nothing was there on the other side. Before she knew it, both her arms were forearm deep in the Dreagan.
+
+She could almost feel the electric sparks as the Dreagan charged its pulse again. She didn’t want to waste this opportunity.
+
+[Spell: Blast Weaver]-293MP/s • Touch. Instant[view more]
+
+[Spell: Blast Weaver]-293MP/s • Touch. Instant[view more]
+
+She cast the spell twice, one for each gauntlet. The Dreagan shuddered as shattering explosions spread from the crater.
+
+The pulse hit her like a truck. She flew again, leaving the spear where it was. When her hands popped out of the crater, they came out with thick white streams of Dreagan blood.
+
+She targeted the Dreagan.
+
+[Frame Selected Entity]
+
+Repositioned a hundred feet away yet again, traveling ahead of the mana pulse.
+
+She targeted the Shadow again, but the outline didn’t show up.
+
+Fuck. He’s dead.
+
+The next target was just a head poking out about ten feet away from the first Shadow.
+
+Right before she jumped, she saw Fominel rounding the corner, scraping his red manablade along the Dreagan’s side. He had dodged the pulse with some method. He swung his blue manablade in a circle as he neared the bleeding crater that Darya made.
+
+This was a bad time to go near him. She let herself fall, waiting for Fominel to do what he was planning.
+
+She watched him drive the blue manablade inside the crater while shortening the red. Using the first one as his anchor, he aimed the second one and elongated it through the bleeding hole.
+
+What he did next was too fast for eyes. He looked like a moth circling a light, pivoting his manablades through the hole, widening the crack with insanely fast, lever-like motions.
+
+The Dreagan shuddered, all movements coming to an abrupt halt. Fominel twisted in place as he drove the mana blades further in.
+
+“Princess!”
+
+Distracted by Fominel’s spectacular movements, Darya was only feet away from crashing onto the waves. Nerima was beneath her, ready to catch her.
+
+She still had PTSD from the water race and the resulting cold and fever.
+
+Not again!
+
+[Spell: Flying Celestian]-254 MP • Circle • Instant[view more]
+
+Fortunately, she still had mana left for it. She let the ocean winds carry her, waving at Nerima as she passed. Nerima waved back with a look of relief on her face.
+
+As the winds carried her like a fallen leaf, Darya watched Fominel fling his arms wide open like an orchestra conductor, ripping a chunk out of the Dreagan. Parts fell off it like a ball of cake cut with a laser. A white waterfall of blood burst from the Dreagan.
+
+She saw her brand new Manacer fall into the waves.
+
+There goes my thousands of gold.
+
+She gave up on it, but Nerima had also been watching. She was splitting the waves, swimming straight towards it.
+
+It felt damn good to have dependable allies.

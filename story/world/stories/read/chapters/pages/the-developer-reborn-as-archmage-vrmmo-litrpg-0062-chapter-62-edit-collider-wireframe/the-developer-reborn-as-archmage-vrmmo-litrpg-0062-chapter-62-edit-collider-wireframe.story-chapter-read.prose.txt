@@ -1,0 +1,159 @@
+The empty dev void pulsed blue as her body disappeared in a blink, turning her into a formless entity.
+
+She had to get started putting something together, but she needed an idea first. She had near-unlimited time here, but that was a curse in itself with so many choices to make.
+
+I don’t think there’s anything I can do against a Dreagan that big without admin privileges; it’s not going to be one command. This will probably be another macro.
+
+With that in mind, she opened the menu.
+
+[/dashboard]
+
+Vainfall Version: 17.01.134. RLP-FUser ID: nstrum [lead]Access: admin .
+
+.
+
+.
+
+Her name was still there. N Strum. Somehow, that felt more distant now. It wasn’t even the memory degradation that was mentioned in the README. She was just more used to being Darya Altazark.
+
+She went through the same thoughts as the last time, trying to remind herself why she was doing what she was doing.
+
+She had to collect admin rights with artifacts, fix Vainfall ending to keep the hot elf, the lightsaber warlock, the baby wisp, the yacht with shiny cannons, the pretty mermaid that became her water horse, and her cute brother, and go on her pirate adventure when the missing crewmates were recovered.
+
+She already knew checking /admin_commands wouldn’t be useful. She only had access to Terminate, and now she even had a plausible reason why. It was perhaps because of the resurrection stone, which had to have been an admin artifact delivered to her by that strange Volarian assassin.
+
+The next best thing was /debug_commands, and she remembered scrolling that enormous list for a long time to find what she needed the last time. Luckily, she remembered seeing certain words that she wanted to check out now.
+
+[/debug_commands]
+
+Vainfall: Draw Collisions [off]Vainfall: Detailed Axis Visualizer [off]→ Vainfall: Flash Axis Visualizer [on]Vainfall: Ambient Mana Estimator [off]
+
+.
+
+.
+
+It started the same as before with the same items she already knew. The majority of debug commands weren’t useful, but she wanted to check ones with a specific word that she thought might help the situation. The exact details weren’t clear in her head, perhaps blurring with the memory degradation.
+
+Colliders. Where’s C? I do remember seeing some commands.
+
+.
+
+.
+
+.
+
+Collision: Draw Collider Wireframe [off]Collision: Draw Collider Outline [off]Collision: Detection Finetuning Fix2 [off]Collision: Layer Mask Boundary Refiner [off]Collision: Adjust Buffer [off]Collision: Collider Wireframe Editor [off]
+
+.
+
+.
+
+She knew what collision was supposed to do in a game. This was as basic as knowing why humans needed to drink water. Even with her brain fog worsening, she could remember working on them from the earliest days as a Vainfall developer.
+
+In games, a collider was simply an invisible shape wrapped around objects to define their physical boundaries. They were necessary for the physics system.
+
+Colliders usually had to be simpler shapes than the objects they represented for performance reasons. In the VRMMO, she remembered working on a module to generate collision wireframes for entities like characters and creatures. It was one of the earliest things she ever worked on.
+
+The thing I want to know is: how is it done in the RLP? Is it voxelized, or is it simplified down to a wireframe?
+
+She was pretty sure there was no way to know as things were. She didn’t have source code access. Even if she did, she wasn’t sure about the kind of code the deepcore system would’ve generated to build RLP. It was highly likely not human-readable.
+
+The things that she’d experienced in the world so far were enough to draw some conclusions. She knew the RLP collision system had to be complicated. It was capable of handling all sorts of physics simulations. It wasn’t limited to solids.
+
+Then came the debug_commands list, which still showed some of the familiar options from the VRMMO, things like showing or editing the wireframe. They would’ve been removed from RLP if they had no purpose.
+
+She remembered how the Depth Buffer and Frame Selected Entity worked. They had their own RLP interpretation that still worked. This meant that any command she found here was a valid command to use, regardless of how complex it was under the hood.
+
+She picked Collider Wireframe Editor and Draw Collider Wireframe to the list of considerations for the new macro that she was going to compose.
+
+Next. Anything for Transform? Where’s T?
+
+.
+
+.
+
+There was nothing. It was in the /admin_commands with one big Transform command.  Made sense to lock anything that can change object positions, scales, and rotations behind admin privileges.
+
+As she was scrolling the debug commands, scouring for anything that sounded remotely useful to the tools she was currently using.
+
+.
+
+Entity: Create Empty Instance [off]Entity: Visible Silhouette [off]
+
+.
+
+She could think of uses for both. She stashed them into the same list of considerations. She could mine the list for even longer, but she was eager to get back and test her first idea. If it worked as she thought, this could very well be one of her most powerful capabilities.
+
+Putting the macro together took a bit more time. The commands she selected had more parameters than she thought. Once it was all done, she was ready to head out.
+
+[/close]
+
+She flickered back into Vainfall exactly where she left off, separated from Nerima and the colossal Dreagan looming behind her. Nerima was like a mermaid kite tethered to the Deserted Rose, whatever duration left of Flying Celestian keeping her weightless in the ocean winds.
+
+She must be scared shitless without me there to hug.
+
+The Dreagan was a bigger problem. Darya turned herself towards it. She didn’t bother checking her MP or anything. The next part of the plan was a frantic gamble that didn’t involve any mana.
+
+She used her brand new macro.
+
+[Vainfall: Edit Collider Wireframe]
+
+The visual change was instant upon activation. Everything in the world was overlaid with triangles of various sizes. The resolution of the triangle mesh was relative to her position.
+
+For example, the mesh that defined the physical boundary of her skin had triangles that were too small to see with the naked eye. Similar to the Depth Buffer that gave her a ‘sense of depth’, she gained a sense for these triangles.
+
+This is insanely dense! There’s no way this could’ve ever run on a computer we were developing the VRMMO for.
+
+This was just the ‘Draw’ part of the macro that showed her the wireframe. She was pretty sure just drawing these lines would’ve crashed the consumer hardware Vainfall was supposed to run on.
+
+The more distant triangles grew larger and larger, until the horizon was just four or five triangles put together. She was sure this was just for visual clarity. Things on the horizon still needed colliders just as complex as the ones near her.  Perhaps it was adaptive somehow. She had no idea how that was going to work.
+
+With the new sense for Collider Wireframes in place, she was ready to perform the ‘Edit’ part. Unsure how this would work with a near-infinite amount of triangles, she hovered her hand over the Spear Manacer.
+
+The debug command colored her hand with a glowing blue gradient, clearly designating it as the ‘cursor’ for this collider-editing world.
+
+It was more intuitive than she thought. The vertices enlarged as her hand approached, always giving her something to pull between her fingers.
+
+She pinched and dragged out the first point, already expecting the macro to be useless if she had to edit the mesh one vertex at a time.
+
+It adapted. The other vertices moved with the one she dragged, like a wire net. She could pull and move things as much as she wanted.
+
+When she opened her fingers, the macro deactivated, instantly redrawing the real world.
+
+Whoa. That’s fast.
+
+She tested the spear she just edited. As she moved it around, feeling along its length where she dragged the collider, she felt an invisible spike jabbing her palm.
+
+“Aha, there it is!” Darya laughed.
+
+Not only did it work, but the shape she made by dragging it was sharper than the actual spear could ever be. If she wasn’t careful, she could simply stab herself to death with an invisible blade.
+
+There should be a way to restore the collider. That’s for later.
+
+A luminous mana thread was heading towards her from the Dreagan. The merfolk shadow was targeting her now.
+
+Darya moved to the side, just enough to get out of the way of the thread. She knew the Shadow was planning to teleport near her again.
+
+She had something special for the dreagan, but she had to build it first. This was the most insane part of the plan. She had wanted to test it out since the moment she pictured it in her head.
+
+She let go of the spear.
+
+[Vainfall: Terminate]
+
+As the world turned monochrome, she brought her hand close to the tip of the spear.
+
+[Vainfall: Edit Collider Wireframe]
+
+Millions of triangles. It worked perfectly fine in the black-and-white world, making her hands glow blue.
+
+She grabbed a random vertex at the tip of the spear. Pinching it tightly, she looked ahead.
+
+[Skill: Wind Step]-20 SP • 8s Cooldown[view more]
+
+The skill tossed her thirty feet away within the next second as she moved parallel to the spear. She watched the triangle mesh stretch and adjust to its new elongated shape. It was a valid move. Nothing broke.
+
+She had just elongated the pointy end to an impossible length. Now, she was ready to stab things with it.
+
+A sharp point was the least creative use of the new macro.
+
+She could do so much more.
