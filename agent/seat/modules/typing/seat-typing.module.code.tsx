@@ -7,7 +7,7 @@ import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fe
 import { getPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { useEffect, useMemo, useState } from "react"
 
-export const TYPING_AT = "/api/seat/typing"
+const TYPING_AT = "/api/seat/typing"
 
 export const TYPING_HELD_MS = 300_000
 
@@ -206,7 +206,7 @@ function useTypingHeld(seat: string): readonly Typing[] {
   return held
 }
 
-export function useOthersTyping(seat: string): readonly string[] {
+function useOthersTyping(seat: string): readonly string[] {
   const me = useMe()
   const held = useTypingHeld(seat)
   const [now, setNow] = useState(() => Date.now())
