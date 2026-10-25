@@ -629,6 +629,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/properties/parts-progress-in-words.computed-property.ts","id":"01a06959-98a7-7e83-8ec2-6370d810f6b3"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/status.select-property.ts","id":"01a063de-2c60-7011-92a6-0aefa2934d59"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/unit-words.computed-property.ts","id":"01a06959-98a7-7ec0-bc21-02de65c2abf5"}
+{"propertySlug":"decision-kind","path":"alan/collection/properties/within-collections.computed-property.ts","id":"01a174a8-86b5-7bf4-bfec-4668011d9064"}
 {"propertySlug":"decision-kind","path":"alan/collection/reading/book-section/book-section.page-type.ts","id":"01a0658d-fe50-7001-976d-fd0d35660d1d"}
 {"propertySlug":"decision-kind","path":"alan/collection/reading/book-section/properties/section-of.relation-property.ts","id":"01a08189-6150-743e-b860-1baeba37171d"}
 {"propertySlug":"decision-kind","path":"alan/collection/reading/book-series/book-series.page-type.ts","id":"01a06598-222b-7003-beee-2001c8924b27"}

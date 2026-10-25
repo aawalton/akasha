@@ -38,6 +38,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/place/location-deal/properties/locations.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/collection-tags.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/part-of-collections.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/within-collections.computed-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/watching/properties/genres.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/watching/properties/streaming-on.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.test.ts","typed":false,"deferred":false}

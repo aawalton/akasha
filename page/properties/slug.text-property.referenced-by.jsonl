@@ -46,6 +46,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/collection-type.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/collection-unit.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/part-of-collections.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/within-collection.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/reading/book-section/book-section.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/reading/book-section/properties/section-of.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/reading/gbww-reading/properties/gbww-story.relation-property.types.ts","typed":true,"deferred":false}

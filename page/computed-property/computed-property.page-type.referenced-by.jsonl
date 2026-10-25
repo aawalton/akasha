@@ -32,6 +32,8 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/total-remaining-in-words.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/total-remaining.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/unit-words.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/within-collections.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/within-collections.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/track/daily/day/properties/project-hours.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/track/daily/day/properties/sleep-hours.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/track/daily/day/properties/spend-hours.computed-property.code.ts","typed":true,"deferred":false}
@@ -81,6 +83,7 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/total-remaining-in-words.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/total-remaining.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/unit-words.computed-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/within-collections.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/track/daily/day/properties/project-hours.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/track/daily/day/properties/sleep-hours.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/track/daily/day/properties/spend-hours.computed-property.ts","typed":true,"deferred":false}
