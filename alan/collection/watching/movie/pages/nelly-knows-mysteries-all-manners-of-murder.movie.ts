@@ -7,7 +7,7 @@ export const nellyKnowsMysteriesAllMannersOfMurder = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/nelly-knows-mysteries"],
-  position: 1,
+  position: 2,
   publishedAt: "2026-03-14",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const nellyKnowsMysteriesAllMannersOfMurder = {
     "Philo",
   ],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-25T20:45:31.132Z",
 } as const satisfies Movie

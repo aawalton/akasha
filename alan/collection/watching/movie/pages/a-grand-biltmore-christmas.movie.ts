@@ -7,7 +7,7 @@ export const aGrandBiltmoreChristmas = {
   ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["franchise/a-biltmore-christmas"],
-  position: 1,
+  position: 2,
   publishedAt: "2026-12-05",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const aGrandBiltmoreChristmas = {
   posterPath: "/8YnUZpsKKpMxY95jOzxwE09cXRD.jpg",
   voteAverage: 0,
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-25T20:45:31.132Z",
 } as const satisfies Movie

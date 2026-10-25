@@ -7,7 +7,7 @@ export const garageSaleMysteriesMurderTakesTheStage = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/garage-sale-mysteries"],
-  position: 15,
+  position: 16,
   publishedAt: "2026-09-19",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const garageSaleMysteriesMurderTakesTheStage = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-25T20:45:31.132Z",
 } as const satisfies Movie

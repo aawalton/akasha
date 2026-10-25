@@ -7,7 +7,7 @@ export const hauntedHarmonyMysteriesKeyToTheCastle = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/haunted-harmony-mysteries"],
-  position: 2,
+  position: 3,
   publishedAt: "2026-05-30",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const hauntedHarmonyMysteriesKeyToTheCastle = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-25T20:45:31.132Z",
 } as const satisfies Movie

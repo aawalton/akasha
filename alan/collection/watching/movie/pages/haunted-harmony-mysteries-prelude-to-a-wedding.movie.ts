@@ -7,7 +7,7 @@ export const hauntedHarmonyMysteriesPreludeToAWedding = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/haunted-harmony-mysteries"],
-  position: 3,
+  position: 4,
   publishedAt: "2026-09-05",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const hauntedHarmonyMysteriesPreludeToAWedding = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-25T20:45:31.132Z",
 } as const satisfies Movie

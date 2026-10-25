@@ -7,7 +7,7 @@ export const providenceFalls = {
   ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["franchise/providence-falls"],
-  position: 1,
+  position: 2,
   publishedAt: "2025-08-02",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const providenceFalls = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:45.663Z",
-  updatedAt: "2026-10-25T19:47:45.663Z",
+  updatedAt: "2026-10-25T20:45:31.132Z",
 } as const satisfies Show
