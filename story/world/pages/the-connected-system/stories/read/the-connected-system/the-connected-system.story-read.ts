@@ -12,10 +12,15 @@ export const theConnectedSystem = {
       externalId: "B0CW19LKFJ",
       externalLink: "https://www.amazon.com/dp/B0CW19LKFJ",
     },
+    {
+      source: "royal-road",
+      externalId: "73202",
+      externalLink: "https://www.royalroad.com/fiction/73202/the-connected-system",
+    },
   ],
   grade: "C",
   tags: ["System Apocalypse"],
   unit: "unit/words",
   createdAt: "2026-09-03T04:18:50.407Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-25T09:58:12.668Z",
 } as const satisfies StoryRead
