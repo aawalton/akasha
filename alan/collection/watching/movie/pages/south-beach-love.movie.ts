@@ -1,0 +1,42 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const southBeachLove = {
+  id: "01a1749a-259d-7062-8ff8-0cbeedd49419",
+  type: "page-type/movie",
+  slug: "south-beach-love",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2021-10-09",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "860267",
+      externalLink: "https://www.themoviedb.org/movie/860267",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "South Beach Love",
+  genres: ["TV Movie", "Comedy", "Romance"],
+  imdbId: "tt15214710",
+  posterPath: "/e0q1j4v9tyZUDCXTIteEcRtgOxT.jpg",
+  voteAverage: 6.7,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "Pluto TV",
+    "The Roku Channel",
+    "Tubi TV",
+    "VIX ",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-25T19:47:01.655Z",
+} as const satisfies Movie

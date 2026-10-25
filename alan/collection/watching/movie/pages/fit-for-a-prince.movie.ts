@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const fitForAPrince = {
+  id: "01a1749a-259a-76b7-91c5-425420c42d82",
+  type: "page-type/movie",
+  slug: "fit-for-a-prince",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2021-03-06",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "793423",
+      externalLink: "https://www.themoviedb.org/movie/793423",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Fit for a Prince",
+  genres: ["TV Movie", "Romance", "Comedy", "Drama"],
+  imdbId: "tt14039028",
+  posterPath: "/vFy2okoNPFN7tTVhjtoIgm2okji.jpg",
+  voteAverage: 6.7,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "YouTube Free",
+    "YouTube TV",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-25T19:47:01.655Z",
+} as const satisfies Movie
