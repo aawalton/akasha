@@ -7,7 +7,7 @@ export const auroraTeagardenMysteriesHauntedByMurder = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/aurora-teagarden-mystery"],
-  position: 17,
+  position: 18,
   publishedAt: "2022-02-20",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const auroraTeagardenMysteriesHauntedByMurder = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:18.330Z",
-  updatedAt: "2026-10-25T19:47:18.330Z",
+  updatedAt: "2026-10-25T20:45:19.452Z",
 } as const satisfies Movie

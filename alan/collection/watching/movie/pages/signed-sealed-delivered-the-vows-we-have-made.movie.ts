@@ -7,7 +7,7 @@ export const signedSealedDeliveredTheVowsWeHaveMade = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/signed-sealed-delivered"],
-  position: 13,
+  position: 14,
   publishedAt: "2021-10-17",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const signedSealedDeliveredTheVowsWeHaveMade = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T19:47:10.024Z",
+  updatedAt: "2026-10-25T20:45:19.452Z",
 } as const satisfies Movie

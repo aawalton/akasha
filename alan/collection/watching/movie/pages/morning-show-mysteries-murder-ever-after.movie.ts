@@ -7,7 +7,7 @@ export const morningShowMysteriesMurderEverAfter = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/morning-show-mysteries"],
-  position: 5,
+  position: 6,
   publishedAt: "2021-05-23",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const morningShowMysteriesMurderEverAfter = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T19:47:10.024Z",
+  updatedAt: "2026-10-25T20:45:19.452Z",
 } as const satisfies Movie

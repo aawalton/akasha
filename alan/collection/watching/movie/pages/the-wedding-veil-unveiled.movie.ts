@@ -7,7 +7,7 @@ export const theWeddingVeilUnveiled = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/the-wedding-veil"],
-  position: 1,
+  position: 2,
   publishedAt: "2022-02-12",
   status: "not-started",
   unit: "unit/minutes",
@@ -34,5 +34,5 @@ export const theWeddingVeilUnveiled = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T19:47:10.024Z",
+  updatedAt: "2026-10-25T20:45:19.452Z",
 } as const satisfies Movie

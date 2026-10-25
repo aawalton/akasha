@@ -7,7 +7,7 @@ export const poisonedInParadiseAMarthaSVineyardMystery = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/a-martha-s-vineyard-mystery"],
-  position: 3,
+  position: 4,
   publishedAt: "2021-05-16",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const poisonedInParadiseAMarthaSVineyardMystery = {
     "Philo",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T19:47:10.024Z",
+  updatedAt: "2026-10-25T20:45:19.452Z",
 } as const satisfies Movie
