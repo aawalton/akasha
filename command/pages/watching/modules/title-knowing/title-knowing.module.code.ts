@@ -3,7 +3,7 @@ import { show } from "akasha/alan/collection/watching/show/show.page-type.ts"
 import {
   type Calls,
   fetched,
-} from "akasha/command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.code.ts"
+} from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
 
 type Source = "netflix" | "prime-video"
 

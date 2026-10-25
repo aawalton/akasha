@@ -61,9 +61,10 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/deploy/modules/unchanged/deploy-unchanged.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/seat/send/seat-send.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/story/turn/open/story-turn-open.command.test.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/watching/hallmark/watching-hallmark.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/watching/log/watching-log.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/watching/log/watching-log.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/inference/generation/audio/modules/sound-landing/sound-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/inference/generation/image/modules/graded-f-sweeping/graded-f-sweeping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts","typed":false,"deferred":false}

@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"hallmark-listing.module.code.ts","path":"command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"hallmark-listing.module.code.ts","path":"command/pages/watching/hallmark/modules/hallmark-series/hallmark-series.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"hallmark-listing.module.code.ts","path":"command/pages/watching/hallmark/watching-hallmark.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hallmark-listing.module.code.ts","path":"command/pages/watching/hallmark/watching-hallmark.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"command/pages/watching/hallmark/watching-hallmark.command.ts","id":"01a17496-2f58-737f-8788-a05468c10256"}

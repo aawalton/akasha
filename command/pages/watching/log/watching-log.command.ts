@@ -62,7 +62,7 @@ export const watchingLog = {
       statement: "A call naming no status logs the title as in progress.",
     },
   ],
-  parts: ["module/episode-watching", "module/title-knowing", "module/tmdb-reading"],
+  parts: ["module/episode-watching"],
   name: "log",
   arguments: [
     { argument: "argument/link", required: true },
@@ -71,5 +71,5 @@ export const watchingLog = {
     { argument: "argument/day" },
   ],
   createdAt: "2026-10-14T19:15:57.587Z",
-  updatedAt: "2026-10-16T11:34:10.158Z",
+  updatedAt: "2026-10-25T19:42:42.006Z",
 } as const satisfies Command

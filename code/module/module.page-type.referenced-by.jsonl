@@ -1452,9 +1452,13 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/track/session/modules/day-landing/day-landing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/track/session/modules/session-acting/session-acting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/track/session/modules/session-relationships/session-relationships.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/hallmark/modules/hallmark-listing/hallmark-listing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/hallmark/modules/hallmark-series/hallmark-series.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/hallmark/modules/hallmark-shelving/hallmark-shelving.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/log/modules/episode-watching/episode-watching.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/log/modules/title-knowing/title-knowing.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/modules/title-knowing/title-knowing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/modules/tmdb-reading/tmdb-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/badge-layout-context/badge-layout-context.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/badge/badge.module.ts","typed":true,"deferred":false}

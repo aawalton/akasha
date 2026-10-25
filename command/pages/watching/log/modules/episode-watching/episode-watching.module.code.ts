@@ -9,7 +9,7 @@ import type {
   AiredEpisode,
   AiredSeason,
   Calls,
-} from "akasha/command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.code.ts"
+} from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
 import type {
   Row,
   Asked as Rows,

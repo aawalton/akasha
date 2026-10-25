@@ -27,8 +27,10 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/type/narrowing/modules/text-in/text-in.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"command/pages/watching/hallmark/modules/hallmark-listing/hallmark-listing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"domain/modules/work-initiatives/work-initiatives.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"page/ui-store/collection/modules/change-following/change-following.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"page/ui/supabase/modules/relation-picker/relation-picker.module.code.ts","typed":false,"deferred":false}

@@ -9,7 +9,7 @@ import {
   airedSeasonIn,
   episodeTypeOf,
   seasonNumbersIn,
-} from "akasha/command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.code.ts"
+} from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
 
 const SHOWN: HeldShow = {
   slug: "my-dress-up-darling",

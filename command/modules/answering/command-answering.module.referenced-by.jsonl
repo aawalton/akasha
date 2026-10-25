@@ -507,6 +507,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/track/topic-words/track-topic-words.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/track/weight/track-weight.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/track/weight/track-weight.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/watching/hallmark/watching-hallmark.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/watching/log/watching-log.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-looping/deploy-looping.module.code.ts","typed":false,"deferred":false}

@@ -69,7 +69,7 @@ export async function fetched(
   }
 }
 
-function listOf(said: unknown): readonly unknown[] {
+export function listOf(said: unknown): readonly unknown[] {
   return Array.isArray(said) ? (said as readonly unknown[]) : []
 }
 

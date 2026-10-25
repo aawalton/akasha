@@ -2710,10 +2710,15 @@
 {"propertySlug":"decision-kind","path":"command/pages/track/session/switch/track-session-switch.command.ts","id":"01a07979-7e5f-7249-9356-fdb1cc6b9acc"}
 {"propertySlug":"decision-kind","path":"command/pages/track/topic-words/track-topic-words.command.ts","id":"01a0ca3d-3f9d-7bc5-8a46-b199902bf3ac"}
 {"propertySlug":"decision-kind","path":"command/pages/track/weight/track-weight.command.ts","id":"01a07bfe-36da-7166-8f06-6fa75c6f8c29"}
+{"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/modules/hallmark-listing/hallmark-listing.module.ts","id":"01a17496-2f57-7af2-b83f-e32414453f35"}
+{"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.ts","id":"01a17496-2f57-7fe0-b43c-f2b44fa4f552"}
+{"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/modules/hallmark-series/hallmark-series.module.ts","id":"01a17496-2f57-775d-9eb5-986bf5f30c67"}
+{"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/modules/hallmark-shelving/hallmark-shelving.module.ts","id":"01a17496-2f57-74c0-94ae-d2bd50fd20d7"}
+{"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/watching-hallmark.command.ts","id":"01a17496-2f58-737f-8788-a05468c10256"}
 {"propertySlug":"decision-kind","path":"command/pages/watching/log/modules/episode-watching/episode-watching.module.ts","id":"01a14472-30ff-7000-ae2e-e214bb58b47c"}
-{"propertySlug":"decision-kind","path":"command/pages/watching/log/modules/title-knowing/title-knowing.module.ts","id":"01a14472-30ff-7002-8a90-0505651851cb"}
-{"propertySlug":"decision-kind","path":"command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.ts","id":"01a1447c-42d3-7000-b116-5120b0ae70ad"}
 {"propertySlug":"decision-kind","path":"command/pages/watching/log/watching-log.command.ts","id":"01a13bd7-c014-7d8c-a51d-3cb5159400a8"}
+{"propertySlug":"decision-kind","path":"command/pages/watching/modules/title-knowing/title-knowing.module.ts","id":"01a14472-30ff-7002-8a90-0505651851cb"}
+{"propertySlug":"decision-kind","path":"command/pages/watching/modules/tmdb-reading/tmdb-reading.module.ts","id":"01a1447c-42d3-7000-b116-5120b0ae70ad"}
 {"propertySlug":"decision-kind","path":"command/properties/command-arguments.record-property.ts","id":"01a09409-2933-7981-8332-eb750e91e83b"}
 {"propertySlug":"decision-kind","path":"command/properties/command-max-wall-seconds.number-property.ts","id":"01a0820f-feb2-79e4-8435-06a161f3c6ab"}
 {"propertySlug":"decision-kind","path":"command/properties/entry-default.text-property.ts","id":"01a095ca-f469-7000-9627-eeb375edf870"}

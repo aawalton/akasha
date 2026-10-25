@@ -24,6 +24,7 @@ import {
   tmdbIdentityOf,
   tmdbIdOf,
 } from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
+import { watchingLog as page } from "akasha/command/pages/watching/log/watching-log.command.ts"
 import {
   type Kind,
   type Known,
@@ -31,15 +32,14 @@ import {
   type Linked,
   linkedBy,
   slugOf,
-} from "akasha/command/pages/watching/log/modules/title-knowing/title-knowing.module.code.ts"
+} from "akasha/command/pages/watching/modules/title-knowing/title-knowing.module.code.ts"
 import {
   airedFor,
   type Calls,
   TOKEN_UNSET,
   tmdbSearched,
   tokenSaid,
-} from "akasha/command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.code.ts"
-import { watchingLog as page } from "akasha/command/pages/watching/log/watching-log.command.ts"
+} from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   askingFor,

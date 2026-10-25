@@ -1,16 +1,16 @@
 import { expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
+  freshValues,
+  watchingLog,
+} from "akasha/command/pages/watching/log/watching-log.command.code.ts"
+import {
   knownFromPrime,
   knownFromWikidata,
   linkedBy,
   slugOf,
-} from "akasha/command/pages/watching/log/modules/title-knowing/title-knowing.module.code.ts"
-import type { Calls } from "akasha/command/pages/watching/log/modules/tmdb-reading/tmdb-reading.module.code.ts"
-import {
-  freshValues,
-  watchingLog,
-} from "akasha/command/pages/watching/log/watching-log.command.code.ts"
+} from "akasha/command/pages/watching/modules/title-knowing/title-knowing.module.code.ts"
+import type { Calls } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
 import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 

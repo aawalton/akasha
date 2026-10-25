@@ -330,5 +330,6 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/track/session/switch/track-session-switch.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/track/topic-words/track-topic-words.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/track/weight/track-weight.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/watching/hallmark/watching-hallmark.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/watching/log/watching-log.command.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
