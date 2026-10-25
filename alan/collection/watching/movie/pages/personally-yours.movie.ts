@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const personallyYours = {
+  id: "01a17497-195d-7292-9bfa-2b995c6c9c32",
+  type: "page-type/movie",
+  slug: "personally-yours",
+  ownLength: 89,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2000-10-08",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "143524",
+      externalLink: "https://www.themoviedb.org/movie/143524",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Personally Yours",
+  genres: ["Drama", "Romance"],
+  imdbId: "tt0262682",
+  posterPath: "/dh81DF1RJFDZIqNVxTIuZ8yOrqx.jpg",
+  voteAverage: 6.2,
+  streamingOn: [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "Cineverse Amazon Channel",
+    "Dove Amazon Channel",
+    "Plex",
+    "Plex Channel",
+    "Pluto TV",
+    "The CW",
+    "The Roku Channel",
+    "Tubi TV",
+  ],
+  createdAt: "2026-10-25T19:43:41.911Z",
+  updatedAt: "2026-10-25T19:43:41.911Z",
+} as const satisfies Movie
