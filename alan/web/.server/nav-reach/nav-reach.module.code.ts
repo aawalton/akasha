@@ -23,7 +23,7 @@ function textOf(row: NavRow, key: string): string | null {
   return typeof said === "string" && said !== "" ? said : null
 }
 
-export function reachesNavItem(reach: NavReach, row: NavRow): boolean {
+function reachesNavItem(reach: NavReach, row: NavRow): boolean {
   if (textOf(row, "navHref") === null) return reach.readsNav
   const slug = textOf(row, "slug")
   return slug !== null && grantsRoute(reach.routes, slug)
