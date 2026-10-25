@@ -5,11 +5,12 @@ export const aBeautifulPlaceToDieAMarthaSVineyardMystery = {
   type: "page-type/movie",
   slug: "a-beautiful-place-to-die-a-martha-s-vineyard-mystery",
   ownLength: 85,
-  ownProgress: 0,
+  ownProgress: 85,
   partOfCollections: ["franchise/a-martha-s-vineyard-mystery"],
   position: 1,
   publishedAt: "2020-01-12",
-  status: "not-started",
+  status: "completed",
+  completedAt: "2026-10-25",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -32,5 +33,6 @@ export const aBeautifulPlaceToDieAMarthaSVineyardMystery = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T20:45:13.587Z",
+  updatedAt: "2026-10-25T23:15:03.253Z",
+  progressedAt: "2026-10-25T23:15:03.253Z",
 } as const satisfies Movie
