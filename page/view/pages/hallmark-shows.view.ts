@@ -18,7 +18,7 @@ export const hallmarkShows = {
     { key: "status", comparison: "not-in", values: ["completed", "archived", "not-applicable"] },
   ],
   viewSorts: [{ key: "published-at", descending: false }],
-  visibleProperties: ["part-of-collections", "published-at", "streaming-on", "status"],
+  visibleProperties: ["position"],
   createdAt: "2026-10-25T20:04:28.406Z",
-  updatedAt: "2026-10-25T20:04:28.406Z",
+  updatedAt: "2026-10-25T20:09:36.037Z",
 } as const satisfies View

@@ -22,13 +22,7 @@ export const hallmarkRomance = {
     { key: "position", descending: false },
     { key: "published-at", descending: false },
   ],
-  visibleProperties: [
-    "part-of-collections",
-    "published-at",
-    "own-length",
-    "streaming-on",
-    "status",
-  ],
+  visibleProperties: ["own-length", "position"],
   createdAt: "2026-10-25T20:04:28.406Z",
-  updatedAt: "2026-10-25T20:04:28.406Z",
+  updatedAt: "2026-10-25T20:09:36.037Z",
 } as const satisfies View
