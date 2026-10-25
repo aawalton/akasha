@@ -7,7 +7,7 @@ export const notesFromTheHeartHealer = {
   ownLength: 90,
   ownProgress: 0,
   partOfCollections: ["franchise/the-note"],
-  position: 2,
+  position: 3,
   publishedAt: "2012-05-12",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const notesFromTheHeartHealer = {
   posterPath: "/fRKScoH0tja4aQaNUszol9EbaXA.jpg",
   voteAverage: 6.3,
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-25T20:44:59.267Z",
 } as const satisfies Movie

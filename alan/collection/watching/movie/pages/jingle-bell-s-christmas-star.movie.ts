@@ -7,7 +7,7 @@ export const jingleBellSChristmasStar = {
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["franchise/jingle-bell-s"],
-  position: 1,
+  position: 2,
   publishedAt: "2012-11-23",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const jingleBellSChristmasStar = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-25T20:44:59.267Z",
 } as const satisfies Movie

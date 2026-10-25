@@ -7,7 +7,7 @@ export const christmasComesHomeToCanaan = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/christmas-in-canaan"],
-  position: 1,
+  position: 2,
   publishedAt: "2011-12-17",
   status: "not-started",
   unit: "unit/minutes",
@@ -26,5 +26,5 @@ export const christmasComesHomeToCanaan = {
   voteAverage: 5.5,
   streamingOn: ["The CW"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-25T20:44:59.267Z",
 } as const satisfies Movie

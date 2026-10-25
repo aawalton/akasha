@@ -7,7 +7,7 @@ export const goodnightForJusticeTheMeasureOfAMan = {
   ownLength: 86,
   ownProgress: 0,
   partOfCollections: ["franchise/goodnight-for-justice"],
-  position: 1,
+  position: 2,
   publishedAt: "2012-01-28",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const goodnightForJusticeTheMeasureOfAMan = {
   posterPath: "/s50qyWLirFzU8qI53aL1zO2REPM.jpg",
   voteAverage: 5.7,
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-25T20:44:59.267Z",
 } as const satisfies Movie

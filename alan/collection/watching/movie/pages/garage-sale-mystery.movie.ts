@@ -7,7 +7,7 @@ export const garageSaleMystery = {
   ownLength: 120,
   ownProgress: 0,
   partOfCollections: ["franchise/garage-sale-mysteries"],
-  position: 0,
+  position: 1,
   publishedAt: "2013-09-14",
   status: "not-started",
   unit: "unit/minutes",
@@ -26,5 +26,5 @@ export const garageSaleMystery = {
   voteAverage: 6.1,
   streamingOn: ["Plex", "Plex Channel", "fuboTV"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-25T20:44:59.267Z",
 } as const satisfies Movie

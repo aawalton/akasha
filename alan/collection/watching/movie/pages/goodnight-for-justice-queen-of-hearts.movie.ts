@@ -7,7 +7,7 @@ export const goodnightForJusticeQueenOfHearts = {
   ownLength: 86,
   ownProgress: 0,
   partOfCollections: ["franchise/goodnight-for-justice"],
-  position: 2,
+  position: 3,
   publishedAt: "2013-01-26",
   status: "not-started",
   unit: "unit/minutes",
@@ -29,5 +29,5 @@ export const goodnightForJusticeQueenOfHearts = {
   posterPath: "/vjPQO7UfhjsIMldgOaUnoi4Ifhk.jpg",
   voteAverage: 6.8,
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-25T20:44:59.267Z",
 } as const satisfies Movie
