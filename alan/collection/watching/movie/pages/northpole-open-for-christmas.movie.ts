@@ -7,7 +7,7 @@ export const northpoleOpenForChristmas = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/northpole"],
-  position: 1,
+  position: 2,
   publishedAt: "2015-11-21",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const northpoleOpenForChristmas = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

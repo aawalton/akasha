@@ -7,7 +7,7 @@ export const debbieMacomberSMrMiracle = {
   ownLength: 86,
   ownProgress: 0,
   partOfCollections: ["franchise/mrs-miracle"],
-  position: 2,
+  position: 3,
   publishedAt: "2014-12-06",
   status: "not-started",
   unit: "unit/minutes",
@@ -34,5 +34,5 @@ export const debbieMacomberSMrMiracle = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

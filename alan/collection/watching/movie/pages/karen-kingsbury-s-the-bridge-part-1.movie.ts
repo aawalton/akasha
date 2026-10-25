@@ -10,11 +10,11 @@ export const karenKingsburySTheBridgePart1 = {
     "franchise/karen-kingsbury-s-the-bridge",
     "show-collection/hallmark-christmas",
   ],
-  position: 0,
+  position: 1,
   publishedAt: "2015-12-06",
   status: "not-started",
   unit: "unit/minutes",
   title: "Karen Kingsbury's The Bridge: Part 1",
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

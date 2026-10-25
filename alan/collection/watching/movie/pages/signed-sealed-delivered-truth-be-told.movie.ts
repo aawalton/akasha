@@ -7,7 +7,7 @@ export const signedSealedDeliveredTruthBeTold = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/signed-sealed-delivered"],
-  position: 4,
+  position: 5,
   publishedAt: "2015-09-13",
   status: "not-started",
   unit: "unit/minutes",
@@ -37,5 +37,5 @@ export const signedSealedDeliveredTruthBeTold = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

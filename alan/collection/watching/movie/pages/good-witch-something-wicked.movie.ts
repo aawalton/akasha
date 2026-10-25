@@ -7,11 +7,11 @@ export const goodWitchSomethingWicked = {
   ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["franchise/the-good-witch"],
-  position: 8,
+  position: 9,
   publishedAt: "2015-10-24",
   status: "not-started",
   unit: "unit/minutes",
   title: "Good Witch: Something Wicked",
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

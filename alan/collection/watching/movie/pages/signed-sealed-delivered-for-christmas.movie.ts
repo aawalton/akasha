@@ -7,7 +7,7 @@ export const signedSealedDeliveredForChristmas = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/signed-sealed-delivered", "show-collection/hallmark-christmas"],
-  position: 2,
+  position: 3,
   publishedAt: "2014-11-23",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const signedSealedDeliveredForChristmas = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

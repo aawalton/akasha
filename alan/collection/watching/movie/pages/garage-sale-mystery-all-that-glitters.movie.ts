@@ -7,7 +7,7 @@ export const garageSaleMysteryAllThatGlitters = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/garage-sale-mysteries"],
-  position: 1,
+  position: 2,
   publishedAt: "2014-10-26",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const garageSaleMysteryAllThatGlitters = {
     "YouTube Free",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

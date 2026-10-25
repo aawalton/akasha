@@ -7,7 +7,7 @@ export const garageSaleMysteryTheWeddingDress = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/garage-sale-mysteries"],
-  position: 3,
+  position: 4,
   publishedAt: "2015-08-09",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const garageSaleMysteryTheWeddingDress = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

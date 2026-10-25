@@ -7,7 +7,7 @@ export const whenCallsTheHeartNewYearSWish = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/when-calls-the-heart"],
-  position: 2,
+  position: 3,
   publishedAt: "2015-12-26",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const whenCallsTheHeartNewYearSWish = {
   posterPath: "/4AV6aatp2laOR7xdeVdm9sN7aT3.jpg",
   voteAverage: 0,
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

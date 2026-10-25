@@ -7,7 +7,7 @@ export const garageSaleMysteryTheDeadlyRoom = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/garage-sale-mysteries"],
-  position: 2,
+  position: 3,
   publishedAt: "2015-04-11",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const garageSaleMysteryTheDeadlyRoom = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

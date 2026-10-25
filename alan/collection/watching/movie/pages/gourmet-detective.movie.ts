@@ -7,7 +7,7 @@ export const gourmetDetective = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/gourmet-detective"],
-  position: 0,
+  position: 1,
   publishedAt: "2015-05-16",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const gourmetDetective = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

@@ -7,7 +7,7 @@ export const murderSheBakedAChocolateChipCookieMystery = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/hannah-swensen-mysteries"],
-  position: 0,
+  position: 1,
   publishedAt: "2015-05-02",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const murderSheBakedAChocolateChipCookieMystery = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

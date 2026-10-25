@@ -7,7 +7,7 @@ export const unleashingMrDarcy = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/mr-darcy"],
-  position: 0,
+  position: 1,
   publishedAt: "2016-01-23",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const unleashingMrDarcy = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:29.458Z",
-  updatedAt: "2026-10-25T19:46:29.458Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie

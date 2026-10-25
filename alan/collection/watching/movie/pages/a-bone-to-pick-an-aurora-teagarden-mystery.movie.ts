@@ -7,7 +7,7 @@ export const aBoneToPickAnAuroraTeagardenMystery = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/aurora-teagarden-mystery"],
-  position: 0,
+  position: 1,
   publishedAt: "2015-04-07",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const aBoneToPickAnAuroraTeagardenMystery = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-25T20:45:01.766Z",
 } as const satisfies Movie
