@@ -79,7 +79,8 @@ export const orchestratorCache = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A deploy's fetch the git service dropped is made again after a pause.",
+      statement:
+        "A fetch the git service dropped, at a deploy or a pod start, is made again after a pause.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -125,5 +126,5 @@ export const orchestratorCache = {
     },
   ],
   createdAt: "2026-09-03T12:19:38.524Z",
-  updatedAt: "2026-10-25T22:18:39.404Z",
+  updatedAt: "2026-10-25T22:20:12.498Z",
 } as const satisfies Module

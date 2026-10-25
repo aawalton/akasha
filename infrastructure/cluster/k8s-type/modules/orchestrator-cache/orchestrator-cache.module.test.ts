@@ -191,10 +191,13 @@ test("a deploy's checkout and build are one hold of the lock init-build holds", 
   )
 })
 
-test("a deploy's fetch the git service dropped is made again after a longer pause each time", () => {
-  const script = webCheckoutAndBuild(PACKAGE, ELSEWHERE)
-  expect(script).toContain("until git fetch origin main; do tried=$((tried + 1))")
-  expect(script).toContain('[ "$tried" -lt 6 ] || exit 1; sleep $((tried * 5))')
+test("a fetch the git service dropped is made again after a longer pause each time", () => {
+  const started = initCodeOf(ELSEWHERE).command[2] as string
+  expect(webCheckoutAndBuild(PACKAGE, ELSEWHERE)).toContain("until git fetch origin main; do")
+  expect(started).toContain("until git -C /app/repo fetch origin --prune; do")
+  for (const script of [webCheckoutAndBuild(PACKAGE, ELSEWHERE), started]) {
+    expect(script).toContain('[ "$tried" -lt 6 ] || exit 1; sleep $((tried * 5))')
+  }
 })
 
 function locksLeft(cache: Cache): readonly string[] {

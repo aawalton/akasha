@@ -134,7 +134,7 @@ export function orchestratorCacheInitContainer(opts: {
       `    git -C ${ORCHESTRATOR_CACHE_REPO_PATH} remote set-url origin "${opts.location.cloneOriginUrl}"`,
       `  fi`,
       `  echo "init-code: ${ORCHESTRATOR_CACHE_REPO_PATH} already cloned, fetching origin and resetting to ${commit}"`,
-      `  git -C ${ORCHESTRATOR_CACHE_REPO_PATH} fetch origin --prune`,
+      `  ${fetchedAgain(`git -C ${ORCHESTRATOR_CACHE_REPO_PATH} fetch origin --prune`)}`,
       `  git -C ${ORCHESTRATOR_CACHE_REPO_PATH} reset --hard ${commit}`,
       `  echo "init-code: source-sync to ${commit} complete"`,
       "else",
