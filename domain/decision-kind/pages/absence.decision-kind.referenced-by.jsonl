@@ -1512,6 +1512,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/track/session/switch/track-session-switch.command.ts","id":"01a07979-7e5f-7249-9356-fdb1cc6b9acc"}
 {"propertySlug":"decision-kind","path":"command/pages/track/topic-words/track-topic-words.command.ts","id":"01a0ca3d-3f9d-7bc5-8a46-b199902bf3ac"}
 {"propertySlug":"decision-kind","path":"command/pages/track/weight/track-weight.command.ts","id":"01a07bfe-36da-7166-8f06-6fa75c6f8c29"}
+{"propertySlug":"decision-kind","path":"command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.ts","id":"01a17496-2f57-7fe0-b43c-f2b44fa4f552"}
 {"propertySlug":"decision-kind","path":"command/pages/watching/log/modules/episode-watching/episode-watching.module.ts","id":"01a14472-30ff-7000-ae2e-e214bb58b47c"}
 {"propertySlug":"decision-kind","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.ts","id":"01a0c501-134c-7c7e-ab5f-bcd62d76c5ee"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/drag-hold/drag-hold.module.ts","id":"01a09093-a35f-7798-8306-75a6528275cb"}

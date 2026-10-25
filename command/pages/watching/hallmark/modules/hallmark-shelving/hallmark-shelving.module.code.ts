@@ -70,6 +70,8 @@ const NOT_APPLICABLE = "not-applicable"
 
 const STREAMING_ON = "streamingOn"
 
+const PROVIDED: readonly string[] = ["posterPath", "genres", "imdbId", "voteAverage", STREAMING_ON]
+
 const TMDB_SITE = "https://www.themoviedb.org"
 
 const WIKIPEDIA_SITE = "https://en.wikipedia.org/wiki/"
@@ -298,7 +300,27 @@ function freshValues(one: Entry, under: readonly string[], extra: Said): Said {
   }
 }
 
+function undonePage(one: Entry, under: readonly string[], row: Row): Naming | null {
+  const refused = one.refused
+  if (one.titled !== null || refused === null) return null
+  const wrong = String(refused.id)
+  if (tmdbIdOf(row) !== wrong) return null
+  const sources = recordsOf(row.externalIdentity).filter(
+    (said) => !(said.source === "tmdb" && said.externalId === wrong)
+  )
+  const values: Record<string, unknown> = {
+    ownLength: 0,
+    partOfCollections: unioned(row.partOfCollections, under),
+    ...(sources.length === 0 ? {} : { externalIdentity: sources }),
+  }
+  const clears = [...PROVIDED, ...(sources.length === 0 ? ["externalIdentity"] : [])]
+  const slug = typeof row.slug === "string" ? row.slug : ""
+  return { pageTypeSlug: one.kind, slug, merge: true, values, clears }
+}
+
 function keptPage(one: Entry, under: readonly string[], row: Row, day: string): Naming | null {
+  const undone = undonePage(one, under, row)
+  if (undone !== null) return undone
   const values: Record<string, unknown> = {}
   const merged = unioned(row.partOfCollections, under)
   if (!sameList(merged, textsOf(row.partOfCollections))) values.partOfCollections = merged

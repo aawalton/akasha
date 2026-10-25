@@ -1,6 +1,7 @@
 import type { Listed } from "akasha/command/pages/watching/hallmark/modules/hallmark-listing/hallmark-listing.module.code.ts"
 import {
   type Matched,
+  type Refused,
   squashed,
   type Titled,
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.code.ts"
@@ -14,6 +15,7 @@ export type Entry = {
   readonly title: string
   readonly listed: Listed | null
   readonly titled: Titled | null
+  readonly refused: Refused | null
   readonly christmas: boolean
   readonly base: Plain
   series: string | null
@@ -235,11 +237,13 @@ export function entriesOf(listed: readonly Matched[], shows: readonly Titled[]):
       if (tv.has(titled.id)) continue
       tv.add(titled.id)
     }
+    const onTv = (titled?.kind ?? one.refused?.kind) === "tv"
     entries.push({
-      kind: titled?.kind === "tv" ? "show" : "movie",
+      kind: onTv ? "show" : "movie",
       title: one.listed.title,
       listed: one.listed,
       titled,
+      refused: one.refused,
       christmas: christmasOf(one.listed, one.listed.title),
       base: baseOf(one.listed, titled),
       series: null,
@@ -258,6 +262,7 @@ export function entriesOf(listed: readonly Matched[], shows: readonly Titled[]):
       title: titled.title,
       listed: null,
       titled,
+      refused: null,
       christmas: christmasOf(null, titled.title),
       base: baseOf(null, titled),
       series: null,
@@ -300,8 +305,12 @@ export function summaryOf(
   const loose = entries.flatMap((one) =>
     one.titled?.loose === true ? [`loose  ${one.title}  as  ${one.titled.title}`] : []
   )
+  const refused = entries.flatMap((one) =>
+    one.refused === null ? [] : [`refused  ${one.title}  as  ${one.refused.title}`]
+  )
   const unmatched = entries.flatMap((one) =>
     one.titled === null ? [`unmatched  ${String(one.listed?.year ?? "")}  ${one.title}`] : []
   )
-  return [titles, counted(entries, categoryOf), servicesSaid(entries), ...loose, ...unmatched]
+  const said = [titles, counted(entries, categoryOf), servicesSaid(entries)]
+  return [...said, ...loose, ...refused, ...unmatched]
 }

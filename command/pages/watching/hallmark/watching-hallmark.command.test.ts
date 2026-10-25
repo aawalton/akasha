@@ -7,6 +7,9 @@ import {
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-listing/hallmark-listing.module.code.ts"
 import {
   alike,
+  distinguishing,
+  type Matched,
+  type Refused,
   servicesIn,
   type Titled,
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.code.ts"
@@ -96,6 +99,10 @@ function titling(id: number, title: string, more: Partial<Titled> = {}): Titled 
   }
 }
 
+function matching(title: string, titled: Titled | null, refused: Refused | null = null): Matched {
+  return { listed: listing(title), titled, refused }
+}
+
 test("each row of each table is read with the year and channel heading it", () => {
   const listed = listedFrom(WIKITEXT)
   expect(listed.map((one) => one.title)).toEqual([
@@ -153,15 +160,9 @@ test("titles sharing a TMDB collection are shelved under one series", () => {
   const gathering = { id: 9, name: "Garage Sale Mysteries Collection" }
   const mystery = { gathering, genres: ["Mystery"] }
   const listed = [
-    {
-      listed: listing("Garage Sale Mystery: A"),
-      titled: titling(1, "Garage Sale Mystery: A", mystery),
-    },
-    {
-      listed: listing("Garage Sale Mystery: B"),
-      titled: titling(2, "Garage Sale Mystery: B", mystery),
-    },
-    { listed: listing("Winter in Vail"), titled: titling(3, "Winter in Vail") },
+    matching("Garage Sale Mystery: A", titling(1, "Garage Sale Mystery: A", mystery)),
+    matching("Garage Sale Mystery: B", titling(2, "Garage Sale Mystery: B", mystery)),
+    matching("Winter in Vail", titling(3, "Winter in Vail")),
   ]
   const shelf = shelved({ listed, shows: [], held: NOTHING_HELD, day: DAY })
   const franchise = shelf.pages.find((one) => one.pageTypeSlug === "franchise")
@@ -180,7 +181,7 @@ test("a held title gains its shelf, keeps its status and loses services it left"
     externalIdentity: [{ source: "tmdb", externalId: "3" }],
     streamingOn: ["Philo"],
   }
-  const listed = [{ listed: listing("Winter in Vail"), titled: titling(3, "Winter in Vail") }]
+  const listed = [matching("Winter in Vail", titling(3, "Winter in Vail"))]
   const shelf = shelved({ listed, shows: [], held: { ...NOTHING_HELD, movie: [row] }, day: DAY })
   const page = shelf.pages.find((one) => one.slug === "winter-in-vail")
   expect(page?.merge).toBe(true)
@@ -191,10 +192,43 @@ test("a held title gains its shelf, keeps its status and loses services it left"
 
 test("a name that makes no export name opens with its page type", () => {
   const listed = [
-    { listed: listing("Class"), titled: titling(4, "Class") },
-    { listed: listing("12 Gifts of Christmas"), titled: titling(5, "12 Gifts of Christmas") },
+    matching("Class", titling(4, "Class")),
+    matching("12 Gifts of Christmas", titling(5, "12 Gifts of Christmas")),
   ]
   const shelf = shelved({ listed, shows: [], held: NOTHING_HELD, day: DAY })
   const slugs = shelf.pages.filter((one) => one.pageTypeSlug === "movie").map((one) => one.slug)
   expect(slugs).toEqual(["movie-class", "movie-12-gifts-of-christmas"])
+})
+
+test("a near title that differs in a word that tells it apart is distinguished", () => {
+  const blessing = "When Calls the Heart: The Greatest Christmas Blessing"
+  expect(distinguishing(blessing, "When Calls the Heart: The Greatest Christmas Wish")).toEqual([
+    "blessing",
+    "wish",
+  ])
+  expect(distinguishing("Do I Say I Do?", "Say I Do")).toEqual(["i", "do"])
+  expect(distinguishing("The Confession", "Beverly Lewis' The Confession")).toEqual([])
+  const note = "The Note II: Taking a Chance on Love"
+  expect(distinguishing("Taking a Chance on Love", note)).toEqual([])
+  const dean = "Hailey Dean Mysteries: Dating Is Murder"
+  expect(distinguishing("Hailey Dean Mystery: Dating is Murder", dean)).toEqual([])
+})
+
+test("a held page holding a refused match loses it and what TMDB gave it", () => {
+  const row = {
+    slug: "say-i-do",
+    title: "Do I Say I Do?",
+    partOfCollections: [ROMANCE],
+    externalIdentity: [{ source: "tmdb", externalId: "77" }],
+    streamingOn: ["Philo"],
+  }
+  const refused = { kind: "movie", id: 77, title: "Say I Do" } as const
+  const listed = [matching("Do I Say I Do?", null, refused)]
+  const shelf = shelved({ listed, shows: [], held: { ...NOTHING_HELD, movie: [row] }, day: DAY })
+  const page = shelf.pages.find((one) => one.slug === "say-i-do")
+  expect(page?.values.ownLength).toBe(0)
+  expect(page?.values.externalIdentity).toBe(undefined)
+  expect(page?.clears).toContain("externalIdentity")
+  expect(page?.clears).toContain("streamingOn")
+  expect(page?.clears).toContain("posterPath")
 })

@@ -13,6 +13,21 @@ export const hallmarkMatching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A near title differing from the listed title in a word that tells it apart is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An article, an author's name before a title, or a series before a colon tells none apart.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "Wikipedia lists no running time, so no near title is kept on its year and length.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A match is taken only from a year within one of the year the film aired.",
     },
     {
@@ -25,5 +40,5 @@ export const hallmarkMatching = {
     },
   ],
   createdAt: "2026-10-25T19:42:42.006Z",
-  updatedAt: "2026-10-25T19:42:42.006Z",
+  updatedAt: "2026-10-25T19:53:05.597Z",
 } as const satisfies Module

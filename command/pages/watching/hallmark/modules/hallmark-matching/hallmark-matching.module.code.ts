@@ -25,7 +25,17 @@ export type Titled = {
   readonly loose: boolean
 }
 
-export type Matched = { readonly listed: Listed; readonly titled: Titled | null }
+export type Refused = { readonly kind: Kind; readonly id: number; readonly title: string }
+
+export type Matched = {
+  readonly listed: Listed
+  readonly titled: Titled | null
+  readonly refused: Refused | null
+}
+
+const PASSING: ReadonlySet<string> = new Set(["the", "a", "an", "and", "of"])
+
+const OWNER = /^(?:[A-Z][\w.]*\s+){0,2}[A-Z][\w.]*(?:'s|')\s+/
 
 const TMDB_AT = "https://api.themoviedb.org/3"
 
@@ -120,6 +130,46 @@ export function alike(one: string, other: string): boolean {
   return short.length >= 6 && long.includes(short) && overlap(one, other) >= 0.5
 }
 
+function countedWords(said: string): readonly string[] {
+  return said
+    .replace(OWNER, "")
+    .normalize("NFKD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/'s\b/g, "")
+    .replace(/mysteries/g, "mystery")
+    .split(/[^a-z0-9]+/)
+    .filter((one) => one !== "" && !PASSING.has(one))
+}
+
+function leftOver(these: readonly string[], those: readonly string[]): readonly string[] {
+  const rest = [...those]
+  const over: string[] = []
+  for (const word of these) {
+    const at = rest.indexOf(word)
+    if (at < 0) over.push(word)
+    else rest.splice(at, 1)
+  }
+  return [...over, ...rest]
+}
+
+function readings(title: string): readonly string[] {
+  const colon = title.indexOf(": ")
+  return colon < 0 ? [title] : [title, title.slice(colon + 2)]
+}
+
+export function distinguishing(one: string, other: string): readonly string[] {
+  let fewest: readonly string[] | null = null
+  for (const these of readings(one)) {
+    for (const those of readings(other)) {
+      const over = leftOver(countedWords(these), countedWords(those))
+      if (fewest === null || over.length < fewest.length) fewest = over
+    }
+  }
+  return fewest ?? []
+}
+
 function yearNear(said: unknown, year: number): boolean {
   const dated = Number((textIn(said) ?? "").slice(0, 4))
   return Number.isFinite(dated) && dated > 0 && Math.abs(dated - year) <= 1
@@ -164,70 +214,95 @@ export function titledFrom(kind: Kind, said: unknown, loose: boolean): Titled | 
 
 type Found = { readonly kind: Kind; readonly id: number; readonly loose: boolean }
 
+type Searched = { readonly found: Found | null; readonly refused: Refused | null }
+
+type Candidate = { readonly id: number; readonly name: string; readonly exact: boolean }
+
 function namesOf(one: Readonly<Record<string, unknown>>): readonly string[] {
   return [textIn(one.title), textIn(one.original_title)].flatMap((said) => said ?? [])
 }
 
-async function filmFound(
+function judged(kind: Kind, candidates: readonly Candidate[], title: string): Searched {
+  const exact = candidates.find((one) => one.exact)
+  if (exact !== undefined) return { found: { kind, id: exact.id, loose: false }, refused: null }
+  let refused: Refused | null = null
+  for (const one of candidates) {
+    if (distinguishing(one.name, title).length === 0) {
+      return { found: { kind, id: one.id, loose: true }, refused: null }
+    }
+    refused ??= { kind, id: one.id, title: one.name }
+  }
+  return { found: null, refused }
+}
+
+async function filmSearched(
   calls: Calls,
   token: string,
   title: string,
   year: number,
   exactOnly: boolean
-): Promise<Found | null> {
+): Promise<Searched> {
   const asked = encodeURIComponent(title)
   const exactly = squashed(title)
   const paths = [
     `/search/movie?query=${asked}&primary_release_year=${String(year)}`,
     `/search/movie?query=${asked}`,
   ]
+  let refused: Refused | null = null
   for (const path of paths) {
     const said = asRecordOrEmpty(await tmdbJson(calls, token, path))
-    const near = listOf(said.results)
+    const candidates = listOf(said.results)
       .map(asRecordOrEmpty)
       .filter((one) => yearNear(one.release_date, year))
-    const exact = near.find((one) => namesOf(one).some((name) => squashed(name) === exactly))
-    const close = near.find((one) => namesOf(one).some((name) => alike(name, title)))
-    const chosen = exact ?? (exactOnly ? undefined : close)
-    const id = chosen === undefined ? null : asNumber(chosen.id)
-    if (id !== null) return { kind: "movie", id, loose: exact === undefined }
+      .flatMap((one): Candidate[] => {
+        const id = asNumber(one.id)
+        const names = namesOf(one)
+        const exact = names.some((other) => squashed(other) === exactly)
+        const name = names.find((other) => alike(other, title))
+        if (id === null || (!exact && (exactOnly || name === undefined))) return []
+        return [{ id, name: name ?? title, exact }]
+      })
+    const searched = judged("movie", candidates, title)
+    if (searched.found !== null) return searched
+    refused ??= searched.refused
   }
-  return null
+  return { found: null, refused }
 }
 
-async function showFound(
+async function showSearched(
   calls: Calls,
   token: string,
   title: string,
   year: number,
   exactOnly: boolean
-): Promise<Found | null> {
+): Promise<Searched> {
   const exactly = squashed(title)
   const path = `/search/tv?query=${encodeURIComponent(title)}`
   const said = asRecordOrEmpty(await tmdbJson(calls, token, path))
-  for (const one of listOf(said.results).map(asRecordOrEmpty)) {
-    const name = textIn(one.name) ?? ""
-    const id = asNumber(one.id)
-    const exact = squashed(name) === exactly
-    const same = exact || (!exactOnly && overlap(name, title) >= 0.75)
-    if (id !== null && same && yearNear(one.first_air_date, year)) {
-      return { kind: "tv", id, loose: !exact }
-    }
-  }
-  return null
+  const candidates = listOf(said.results)
+    .map(asRecordOrEmpty)
+    .filter((one) => yearNear(one.first_air_date, year))
+    .flatMap((one): Candidate[] => {
+      const name = textIn(one.name) ?? ""
+      const id = asNumber(one.id)
+      const exact = squashed(name) === exactly
+      const near = !exactOnly && overlap(name, title) >= 0.75
+      return id !== null && (exact || near) ? [{ id, name, exact }] : []
+    })
+  return judged("tv", candidates, title)
 }
 
-async function foundAs(
+async function searchedAs(
   calls: Calls,
   token: string,
   title: string,
   year: number,
   exactOnly = false
-): Promise<Found | null> {
-  return (
-    (await filmFound(calls, token, title, year, exactOnly)) ??
-    (await showFound(calls, token, title, year, exactOnly))
-  )
+): Promise<Searched> {
+  const film = await filmSearched(calls, token, title, year, exactOnly)
+  if (film.found !== null) return film
+  const show = await showSearched(calls, token, title, year, exactOnly)
+  return show.found !== null ? show : { found: null, refused: film.refused ?? show.refused }
 }
 
 export async function detailFor(
@@ -243,12 +318,14 @@ export async function detailFor(
 async function oneMatched(calls: Calls, token: string, listed: Listed): Promise<Matched> {
   const year = listed.aired === null ? listed.year : Number(listed.aired.slice(0, 4))
   const also = listed.alsoTitled
-  const found =
-    (await foundAs(calls, token, listed.title, year)) ??
-    (also === null ? null : await foundAs(calls, token, also, year, true))
+  const first = await searchedAs(calls, token, listed.title, year)
+  const second =
+    first.found !== null || also === null ? null : await searchedAs(calls, token, also, year, true)
+  const found = first.found ?? second?.found ?? null
+  const refused = found === null ? first.refused : null
   const titled =
     found === null ? null : await detailFor(calls, token, found.kind, found.id, found.loose)
-  return { listed, titled }
+  return { listed, titled, refused }
 }
 
 export async function eachAtOnce<Given, Got>(

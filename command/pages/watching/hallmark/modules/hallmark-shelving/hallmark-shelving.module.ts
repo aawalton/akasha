@@ -27,7 +27,11 @@ export const hallmarkShelving = {
       decisionKind: "decision-kind/departure",
       statement: "A name that makes no export name opens with its page type.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page holding a TMDB match now refused loses that match and all TMDB gave it.",
+    },
   ],
   createdAt: "2026-10-25T19:42:42.006Z",
-  updatedAt: "2026-10-25T19:45:36.263Z",
+  updatedAt: "2026-10-25T19:53:05.597Z",
 } as const satisfies Module
