@@ -148,7 +148,7 @@ export function uncompletionValues(
 export function readsAsDone(shape: CompletionShape, values: TaskValues): boolean {
   if (shape.kind !== "collection") return textAt(values, shape.doneKey) !== null
   const length = asNumber(values[shape.lengthKey])
-  if (length === null) return textAt(values, shape.doneKey) !== null
+  if (length === null || length <= 0) return textAt(values, shape.doneKey) !== null
   return (asNumber(values[shape.progressKey]) ?? 0) >= length
 }
 
