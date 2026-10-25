@@ -20,5 +20,7 @@ export const babyArchmageOpmcLitrpgReincarnatorNoAiWriting0016Chapter16BonusChap
     },
   ],
   createdAt: "2026-10-24T16:20:48.900Z",
-  updatedAt: "2026-10-24T16:20:48.900Z",
+  updatedAt: "2026-10-25T01:22:38.739Z",
+  ownProgress: 2823,
+  progressedAt: "2026-10-25T01:22:38.739Z",
 } as const satisfies StoryChapterRead
