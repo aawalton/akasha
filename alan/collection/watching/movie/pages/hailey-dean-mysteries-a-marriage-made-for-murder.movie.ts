@@ -1,0 +1,41 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const haileyDeanMysteriesAMarriageMadeForMurder = {
+  id: "01a17499-e803-7fb5-85d9-65644c8c6991",
+  type: "page-type/movie",
+  slug: "hailey-dean-mysteries-a-marriage-made-for-murder",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["franchise/hailey-dean-mysteries"],
+  position: 4,
+  publishedAt: "2018-06-10",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "529369",
+      externalLink: "https://www.themoviedb.org/movie/529369",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Hailey Dean Mysteries: A Marriage Made for Murder",
+  genres: ["Mystery", "Crime", "Drama"],
+  imdbId: "tt8497714",
+  posterPath: "/uto1ndz0PWsdfcgjPC40cxFXOn2.jpg",
+  voteAverage: 7,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T19:46:45.888Z",
+} as const satisfies Movie

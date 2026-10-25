@@ -1,0 +1,41 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const trueLoveBlooms = {
+  id: "01a17499-e806-7465-ab0c-e78f9eac51b5",
+  type: "page-type/movie",
+  slug: "true-love-blooms",
+  ownLength: 90,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2019-04-06",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "583727",
+      externalLink: "https://www.themoviedb.org/movie/583727",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "True Love Blooms",
+  genres: ["Romance", "TV Movie"],
+  imdbId: "tt9759938",
+  posterPath: "/kesL2ioCEGNNLahaZhTJkWWxDFf.jpg",
+  voteAverage: 6.5,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "YouTube TV",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T19:46:45.888Z",
+} as const satisfies Movie
