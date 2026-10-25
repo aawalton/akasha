@@ -31,6 +31,7 @@ export type AgentProcess = {
   proxyLivenessMonitor: { stop: () => void } | null
   limitResumeMonitor: { stop: () => void } | null
   waitResumeMonitor: { stop: () => void } | null
+  regretWatch?: { stop: () => void }
   mcpConfigPath: string | null
   configDir: string | null
   stopSessionWatch?: () => void

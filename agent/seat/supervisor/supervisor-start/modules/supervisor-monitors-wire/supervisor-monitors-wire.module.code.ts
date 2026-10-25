@@ -14,7 +14,10 @@ import { autoCompactPoll } from "akasha/agent/seat/supervisor/seat-auto-compact/
 import { replyNotifyPoll } from "akasha/agent/seat/supervisor/seat-reply-notifying/modules/reply-notify-poll/reply-notify-poll.module.code.ts"
 import { startLimitResumeMonitor } from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
 import { startWaitResumeMonitor } from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"
-import { pollAgentAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
+import {
+  pollAgentAction,
+  startRegretWatch,
+} from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
 import { buildHeartbeatMonitor } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { handleVersionUpdate } from "akasha/agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts"
 import {
@@ -28,6 +31,7 @@ type PerAgentMonitors = {
   proxyLivenessMonitor: { stop: () => void }
   limitResumeMonitor: { stop: () => void }
   waitResumeMonitor: { stop: () => void }
+  regretWatch: { stop: () => void }
 }
 
 export function startPerAgentMonitors(args: {
@@ -82,10 +86,18 @@ export function startPerAgentMonitors(args: {
 
   const waitResumeMonitor = startWaitResumeMonitor({ getAgentId: args.getAgentId, log })
 
+  const regretWatch = startRegretWatch({
+    getAgentId: args.getAgentId,
+    deliver: async (event) => {
+      await getAgentActionHandler()?.(event)
+    },
+  })
+
   return {
     heartbeatTimer,
     proxyLivenessMonitor,
     limitResumeMonitor,
     waitResumeMonitor,
+    regretWatch,
   }
 }

@@ -44,6 +44,34 @@ async function readAgentAction(agentId: string): Promise<AgentActionEvent | null
   }
 }
 
+export const REGRET_TICK_MS = 1_000
+
+export function startRegretWatch(args: {
+  readonly getAgentId: () => string | null
+  readonly deliver: (event: AgentActionEvent) => void | Promise<void>
+  readonly tickMs?: number
+  readonly read?: (agentId: string) => Promise<AgentActionEvent | null>
+}): { readonly stop: () => void } {
+  const read = args.read ?? readAgentAction
+  let reading = false
+  const tick = async (): Promise<undefined> => {
+    if (reading) return
+    const agentId = args.getAgentId()
+    if (agentId === null || agentId === "") return
+    reading = true
+    try {
+      const event = await read(agentId)
+      if (event?.action === regret.slug) await args.deliver(event)
+    } catch (err) {
+      console.error(`${LOG} regret watch: reading agent ${agentId} failed:`, err)
+    } finally {
+      reading = false
+    }
+  }
+  const timer = setInterval(() => void tick(), args.tickMs ?? REGRET_TICK_MS)
+  return { stop: () => clearInterval(timer) }
+}
+
 export async function pollAgentAction(
   getAgentId: () => string | null,
   deliver: (event: AgentActionEvent) => void | Promise<void>

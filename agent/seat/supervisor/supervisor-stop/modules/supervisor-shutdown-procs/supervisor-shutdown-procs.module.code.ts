@@ -60,6 +60,7 @@ export async function killProcessesForShutdown(preserveClaude: boolean): Promise
       p.proxyLivenessMonitor?.stop()
       p.limitResumeMonitor?.stop()
       p.waitResumeMonitor?.stop()
+      p.regretWatch?.stop()
       p.stopCredentialWatch?.()
       if (p.proc) {
         if (preserveClaude && p.interactive) {

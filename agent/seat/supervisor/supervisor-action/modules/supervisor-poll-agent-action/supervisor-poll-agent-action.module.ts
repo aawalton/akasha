@@ -17,7 +17,15 @@ export const supervisorPollAgentAction = {
       decisionKind: "decision-kind/departure",
       statement: "Each action is named by the slug of the page imported for it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A regret is read every second rather than on the heartbeat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The heartbeat reads every action, a regret among them.",
+    },
   ],
   createdAt: "2026-09-03T18:15:30.177Z",
-  updatedAt: "2026-09-25T13:45:00.000Z",
+  updatedAt: "2026-10-25T02:51:45.849Z",
 } as const satisfies Module
