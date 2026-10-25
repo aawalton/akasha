@@ -188,3 +188,13 @@ test("a held title gains its shelf, keeps its status and loses services it left"
   expect(page?.values.status).toBe(undefined)
   expect(page?.clears).toEqual(["streamingOn"])
 })
+
+test("a name that makes no export name opens with its page type", () => {
+  const listed = [
+    { listed: listing("Class"), titled: titling(4, "Class") },
+    { listed: listing("12 Gifts of Christmas"), titled: titling(5, "12 Gifts of Christmas") },
+  ]
+  const shelf = shelved({ listed, shows: [], held: NOTHING_HELD, day: DAY })
+  const slugs = shelf.pages.filter((one) => one.pageTypeSlug === "movie").map((one) => one.slug)
+  expect(slugs).toEqual(["movie-class", "movie-12-gifts-of-christmas"])
+})

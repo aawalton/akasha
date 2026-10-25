@@ -23,6 +23,7 @@ import {
   yearOf,
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-series/hallmark-series.module.code.ts"
 import { slugOf } from "akasha/command/pages/watching/modules/title-knowing/title-knowing.module.code.ts"
+import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
@@ -98,7 +99,7 @@ type Taken = { readonly row: Row | null; readonly slug: string }
 
 type Taking = (title: string, tmdbId: string | null, year: number | null) => Taken
 
-function takingFrom(rows: readonly Row[]): Taking {
+function takingFrom(rows: readonly Row[], kind: string): Taking {
   const taken = new Set(rows.flatMap((row) => (typeof row.slug === "string" ? [row.slug] : [])))
   const byTmdb = new Map<string, Row>()
   const byTitle = new Map<string, Row[]>()
@@ -124,9 +125,11 @@ function takingFrom(rows: readonly Row[]): Taking {
     }
     const plain = slugOf(title)
     const dated = year === null ? plain : `${plain}-${String(year)}`
-    const tries = [plain, dated, ...SUFFIXES.map((n) => `${dated}-${String(n)}`)]
-    const slug =
-      tries.find((one) => one !== "" && !taken.has(one)) ?? `${dated}-${String(taken.size)}`
+    const numbered = SUFFIXES.map((n) => `${dated}-${String(n)}`)
+    const tries = [plain, dated, ...numbered].flatMap((one) => [one, `${kind}-${one}`])
+    const free = (one: string): boolean =>
+      one !== "" && !taken.has(one) && nameFaultIn(one) === null
+    const slug = tries.find(free) ?? `${kind}-${dated}-${String(taken.size)}`
     taken.add(slug)
     return { row: null, slug }
   }
@@ -232,7 +235,7 @@ function franchisePage(
 }
 
 function franchised(series: ReadonlyMap<string, Series>, plan: Plan): Franchised {
-  const take = takingFrom(plan.held.franchise)
+  const take = takingFrom(plan.held.franchise, FRANCHISE)
   const pages: Naming[] = []
   const slugs = new Map<string, string>()
   const categories = new Map<string, Category>()
@@ -317,7 +320,10 @@ export function shelved(plan: Plan): Shelved {
   const franchises = franchised(series, plan)
   const positions = positionsOf(series)
   const single = singlesOf(entries)
-  const takes = { movie: takingFrom(plan.held.movie), show: takingFrom(plan.held.show) }
+  const takes = {
+    movie: takingFrom(plan.held.movie, "movie"),
+    show: takingFrom(plan.held.show, "show"),
+  }
   const pages: Naming[] = [...shelfPages(plan.held[SHOW_COLLECTION]), ...franchises.pages]
   for (const one of entries) {
     const under = shelvesFor(one, franchises)
