@@ -7,7 +7,7 @@ export const theNineKittensOfChristmas = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/the-nine-lives-of-christmas"],
-  position: 1,
+  position: 2,
   publishedAt: "2021-11-25",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const theNineKittensOfChristmas = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie

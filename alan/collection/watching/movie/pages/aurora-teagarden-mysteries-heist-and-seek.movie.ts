@@ -7,7 +7,7 @@ export const auroraTeagardenMysteriesHeistAndSeek = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/aurora-teagarden-mystery"],
-  position: 12,
+  position: 13,
   publishedAt: "2020-05-17",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const auroraTeagardenMysteriesHeistAndSeek = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie

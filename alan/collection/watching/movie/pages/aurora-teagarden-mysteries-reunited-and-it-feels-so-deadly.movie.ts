@@ -7,7 +7,7 @@ export const auroraTeagardenMysteriesReunitedAndItFeelsSoDeadly = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/aurora-teagarden-mystery"],
-  position: 13,
+  position: 14,
   publishedAt: "2020-10-18",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const auroraTeagardenMysteriesReunitedAndItFeelsSoDeadly = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie

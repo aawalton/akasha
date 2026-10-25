@@ -7,7 +7,7 @@ export const picturePerfectMysteriesDeadOverDiamonds = {
   ownLength: 80,
   ownProgress: 0,
   partOfCollections: ["franchise/picture-perfect-mysteries"],
-  position: 1,
+  position: 2,
   publishedAt: "2020-02-16",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const picturePerfectMysteriesDeadOverDiamonds = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie

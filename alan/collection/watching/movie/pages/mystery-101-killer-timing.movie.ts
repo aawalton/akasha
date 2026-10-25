@@ -7,7 +7,7 @@ export const mystery101KillerTiming = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/mystery-101"],
-  position: 5,
+  position: 6,
   publishedAt: "2021-03-21",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const mystery101KillerTiming = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T19:47:10.024Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie

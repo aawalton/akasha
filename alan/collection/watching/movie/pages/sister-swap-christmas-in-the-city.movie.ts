@@ -7,7 +7,7 @@ export const sisterSwapChristmasInTheCity = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/sister-swap"],
-  position: 1,
+  position: 2,
   publishedAt: "2021-12-12",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const sisterSwapChristmasInTheCity = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T19:47:10.024Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie

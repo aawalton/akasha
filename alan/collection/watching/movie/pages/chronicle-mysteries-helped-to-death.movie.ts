@@ -7,7 +7,7 @@ export const chronicleMysteriesHelpedToDeath = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/chronicle-mysteries"],
-  position: 4,
+  position: 5,
   publishedAt: "2021-02-21",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const chronicleMysteriesHelpedToDeath = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T19:47:10.024Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie

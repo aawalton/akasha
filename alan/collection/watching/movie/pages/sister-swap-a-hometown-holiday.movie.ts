@@ -7,7 +7,7 @@ export const sisterSwapAHometownHoliday = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/sister-swap"],
-  position: 0,
+  position: 1,
   publishedAt: "2021-12-05",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const sisterSwapAHometownHoliday = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie

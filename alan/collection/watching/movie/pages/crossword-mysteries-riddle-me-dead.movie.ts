@@ -7,7 +7,7 @@ export const crosswordMysteriesRiddleMeDead = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/crossword-mysteries"],
-  position: 4,
+  position: 5,
   publishedAt: "2021-04-11",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const crosswordMysteriesRiddleMeDead = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T19:47:10.024Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie

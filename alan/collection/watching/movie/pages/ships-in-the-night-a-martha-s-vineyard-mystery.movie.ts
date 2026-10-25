@@ -7,7 +7,7 @@ export const shipsInTheNightAMarthaSVineyardMystery = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/a-martha-s-vineyard-mystery"],
-  position: 2,
+  position: 3,
   publishedAt: "2021-01-17",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const shipsInTheNightAMarthaSVineyardMystery = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T19:47:10.024Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie

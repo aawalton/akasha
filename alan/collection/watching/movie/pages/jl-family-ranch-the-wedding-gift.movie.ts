@@ -7,7 +7,7 @@ export const jlFamilyRanchTheWeddingGift = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/jl-family-ranch"],
-  position: 1,
+  position: 2,
   publishedAt: "2020-09-27",
   status: "not-started",
   unit: "unit/minutes",
@@ -36,5 +36,5 @@ export const jlFamilyRanchTheWeddingGift = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie

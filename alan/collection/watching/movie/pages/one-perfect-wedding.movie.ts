@@ -7,7 +7,7 @@ export const onePerfectWedding = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/one-winter"],
-  position: 2,
+  position: 3,
   publishedAt: "2021-04-03",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const onePerfectWedding = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-25T20:45:16.967Z",
 } as const satisfies Movie
