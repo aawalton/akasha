@@ -281,3 +281,42 @@ test("a listed film held as a show for a refused match is taken off and written 
   expect(film?.values.status).toBe("not-started")
   expect(film?.values.publishedAt).toBe("2020-01-04")
 })
+
+test("a series counts its titles from one in the order they aired, held or fresh", () => {
+  const gathering = { id: 9, name: "Garage Sale Mysteries Collection" }
+  const later = { gathering, genres: ["Mystery"], publishedAt: "2021-01-01" }
+  const first = { gathering, genres: ["Mystery"] }
+  const listed = [
+    {
+      listed: listing("Garage Sale Mystery: B", { aired: "2021-01-01" }),
+      titled: titling(2, "Garage Sale Mystery: B", later),
+      refused: null,
+    },
+    matching("Garage Sale Mystery: A", titling(1, "Garage Sale Mystery: A", first)),
+  ]
+  const shelf = shelved({ listed, shows: [], held: NOTHING_HELD, day: DAY })
+  const franchiseSlug = shelf.pages.find((one) => one.pageTypeSlug === "franchise")?.slug ?? ""
+  const placedAt = (slug: string): unknown =>
+    shelf.pages.find((one) => one.slug === slug)?.values.position
+  expect(placedAt("garage-sale-mystery-a")).toBe(1)
+  expect(placedAt("garage-sale-mystery-b")).toBe(2)
+  const row = {
+    slug: "garage-sale-mystery-a",
+    title: "Garage Sale Mystery: A",
+    position: 0,
+    partOfCollections: [`franchise/${franchiseSlug}`],
+    externalIdentity: [{ source: "tmdb", externalId: "1" }],
+  }
+  const again = shelved({ listed, shows: [], held: { ...NOTHING_HELD, movie: [row] }, day: DAY })
+  const held = again.pages.find((one) => one.slug === "garage-sale-mystery-a")
+  expect(held?.values.position).toBe(1)
+  const elsewhere = { ...row, partOfCollections: [`${SHELVED_AS}x`] }
+  const outside = shelved({
+    listed,
+    shows: [],
+    held: { ...NOTHING_HELD, movie: [elsewhere] },
+    day: DAY,
+  })
+  const kept = outside.pages.find((one) => one.slug === "garage-sale-mystery-a")
+  expect(kept?.values.position).toBe(undefined)
+})

@@ -66,7 +66,7 @@ export const watchingHallmark = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A title already held keeps its status and progress, and only gains shelves and services.",
+        "A title already held keeps its status and progress, and gains only shelves, services and its place.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -98,5 +98,5 @@ export const watchingHallmark = {
   name: "hallmark",
   arguments: [{ argument: "argument/plan" }],
   createdAt: "2026-10-25T19:42:42.006Z",
-  updatedAt: "2026-10-25T20:43:41.671Z",
+  updatedAt: "2026-10-25T20:44:25.931Z",
 } as const satisfies Command

@@ -65,6 +65,7 @@ const KEYS: readonly string[] = [
   "partOfCollections",
   "externalIdentity",
   "publishedAt",
+  "position",
 ]
 
 const STREAMED: ReadonlySet<string> = new Set(["movie", "show"])
