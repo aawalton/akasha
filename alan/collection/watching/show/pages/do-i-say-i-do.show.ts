@@ -10,20 +10,7 @@ export const doISayIDo = {
   publishedAt: "2020-08-24",
   status: "not-started",
   unit: "unit/minutes",
-  externalIdentity: [
-    {
-      source: "tmdb",
-      externalId: "105203",
-      externalLink: "https://www.themoviedb.org/tv/105203",
-      lastSyncedAt: "2026-10-25",
-    },
-  ],
   title: "Do I Say I Do?",
-  genres: ["Reality"],
-  imdbId: "tt12540060",
-  posterPath: "/5xNtHWWxt3vGSrfbPLdhSxmhMOp.jpg",
-  voteAverage: 5.2,
-  streamingOn: ["Netflix", "Netflix Standard with Ads"],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-25T19:55:33.372Z",
 } as const satisfies Show
