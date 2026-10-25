@@ -5,6 +5,7 @@ import type { Nullable } from "akasha/page/type/page-property/properties/nullabl
 import type { PropertyDisplay } from "akasha/page/type/page-property/properties/property-display.select-property.types.ts"
 import type { PropertySlug } from "akasha/page/type/page-property/properties/property-slug.text-property.types.ts"
 import type { Quoted } from "akasha/page/type/page-property/properties/quoted.boolean-property.types.ts"
+import type { SourceCredit } from "akasha/page/type/page-property/properties/source-credit.text-property.types.ts"
 import type { Unique } from "akasha/page/type/page-property/properties/unique.relation-property.types.ts"
 import type { UniqueProperty } from "akasha/page/type/page-property/properties/unique-property.relation-property.types.ts"
 import type { Types } from "akasha/page/type/properties/types.file-property.types.ts"
@@ -19,4 +20,5 @@ export type PageProperty = Domain & {
   quoted?: Quoted
   namesAPropertyKey?: NamesAPropertyKey
   display?: PropertyDisplay
+  sourceCredit?: SourceCredit
 }

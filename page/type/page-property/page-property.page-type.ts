@@ -24,6 +24,7 @@ export const pageProperty = {
     "text-property/property-slug",
     "boolean-property/names-a-property-key",
     "select-property/property-display",
+    "text-property/source-credit",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -36,6 +37,7 @@ export const pageProperty = {
     { pageProperty: "boolean-property/quoted", required: false, many: false },
     { pageProperty: "boolean-property/names-a-property-key", required: false, many: false },
     { pageProperty: "select-property/property-display", required: false, many: false },
+    { pageProperty: "text-property/source-credit", required: false, many: false },
   ],
   decisions: [
     {
@@ -128,5 +130,5 @@ export const pageProperty = {
     { partOfSpeech: "part-of-speech/noun", spelling: "properties" },
   ],
   createdAt: "2026-08-29T14:49:52.765Z",
-  updatedAt: "2026-10-18T14:44:00.044Z",
+  updatedAt: "2026-10-25T20:48:23.359Z",
 } as const satisfies PageType
