@@ -7,7 +7,7 @@ export const darrowDarrow = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/darrow-darrow"],
-  position: 0,
+  position: 1,
   publishedAt: "2017-10-22",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const darrowDarrow = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T20:45:07.643Z",
 } as const satisfies Movie

@@ -7,7 +7,7 @@ export const allOfMyHeartTheWedding = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/all-of-my-heart"],
-  position: 2,
+  position: 3,
   publishedAt: "2018-09-29",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const allOfMyHeartTheWedding = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T20:45:07.643Z",
 } as const satisfies Movie

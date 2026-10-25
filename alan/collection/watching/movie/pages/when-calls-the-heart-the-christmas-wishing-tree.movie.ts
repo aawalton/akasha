@@ -7,7 +7,7 @@ export const whenCallsTheHeartTheChristmasWishingTree = {
   ownLength: 120,
   ownProgress: 0,
   partOfCollections: ["franchise/when-calls-the-heart"],
-  position: 4,
+  position: 5,
   publishedAt: "2017-12-25",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const whenCallsTheHeartTheChristmasWishingTree = {
   posterPath: "/RMtTuG5jnWYmgxmu0yY9oNslb7.jpg",
   voteAverage: 6,
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T20:45:07.643Z",
 } as const satisfies Movie

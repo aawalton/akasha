@@ -7,7 +7,7 @@ export const garageSaleMysteryMurderMostMedieval = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/garage-sale-mysteries"],
-  position: 9,
+  position: 10,
   publishedAt: "2017-08-20",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const garageSaleMysteryMurderMostMedieval = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T20:45:07.643Z",
 } as const satisfies Movie

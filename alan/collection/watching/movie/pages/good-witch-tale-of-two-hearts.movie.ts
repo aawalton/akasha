@@ -7,11 +7,11 @@ export const goodWitchTaleOfTwoHearts = {
   ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["franchise/the-good-witch"],
-  position: 11,
+  position: 12,
   publishedAt: "2018-10-21",
   status: "not-started",
   unit: "unit/minutes",
   title: "Good Witch: Tale of Two Hearts",
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T20:45:07.643Z",
 } as const satisfies Movie

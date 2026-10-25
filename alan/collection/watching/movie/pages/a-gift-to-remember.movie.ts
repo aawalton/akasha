@@ -7,7 +7,7 @@ export const aGiftToRemember = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/a-gift-to-remember"],
-  position: 0,
+  position: 1,
   publishedAt: "2017-11-19",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const aGiftToRemember = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T20:45:07.643Z",
 } as const satisfies Movie

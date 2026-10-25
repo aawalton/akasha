@@ -7,7 +7,7 @@ export const thePerfectBrideWeddingBells = {
   ownLength: 90,
   ownProgress: 0,
   partOfCollections: ["franchise/the-perfect-bride"],
-  position: 1,
+  position: 2,
   publishedAt: "2018-06-09",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const thePerfectBrideWeddingBells = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T20:45:07.643Z",
 } as const satisfies Movie

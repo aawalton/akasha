@@ -7,7 +7,7 @@ export const engagingFatherChristmas = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/father-christmas"],
-  position: 1,
+  position: 2,
   publishedAt: "2017-11-12",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const engagingFatherChristmas = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T20:45:07.643Z",
 } as const satisfies Movie

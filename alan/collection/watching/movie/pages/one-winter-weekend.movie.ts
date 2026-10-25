@@ -7,7 +7,7 @@ export const oneWinterWeekend = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/one-winter"],
-  position: 0,
+  position: 1,
   publishedAt: "2018-01-20",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const oneWinterWeekend = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T20:45:07.643Z",
 } as const satisfies Movie

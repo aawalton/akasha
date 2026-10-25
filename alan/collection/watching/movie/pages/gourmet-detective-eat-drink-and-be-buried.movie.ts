@@ -7,7 +7,7 @@ export const gourmetDetectiveEatDrinkAndBeBuried = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/gourmet-detective"],
-  position: 3,
+  position: 4,
   publishedAt: "2017-10-08",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const gourmetDetectiveEatDrinkAndBeBuried = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T20:45:07.643Z",
 } as const satisfies Movie
