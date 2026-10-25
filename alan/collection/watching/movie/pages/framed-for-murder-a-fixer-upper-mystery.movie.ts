@@ -1,0 +1,41 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const framedForMurderAFixerUpperMystery = {
+  id: "01a17499-c95c-7551-b6fb-390ad1d5e8fa",
+  type: "page-type/movie",
+  slug: "framed-for-murder-a-fixer-upper-mystery",
+  ownLength: 83,
+  ownProgress: 0,
+  partOfCollections: ["franchise/fixer-upper-mysteries"],
+  position: 0,
+  publishedAt: "2017-01-15",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "435720",
+      externalLink: "https://www.themoviedb.org/movie/435720",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Framed for Murder: A Fixer Upper Mystery",
+  genres: ["Drama", "TV Movie", "Mystery"],
+  imdbId: "tt6343348",
+  posterPath: "/7MqMOINtrT8X5Ot4QEh25jCczA4.jpg",
+  voteAverage: 6.611,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T19:46:38.041Z",
+} as const satisfies Movie

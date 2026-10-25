@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const roadToChristmas = {
+  id: "01a17499-c95e-75a4-9987-df99827e9dc5",
+  type: "page-type/movie",
+  slug: "road-to-christmas",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-christmas"],
+  publishedAt: "2018-11-04",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "550017",
+      externalLink: "https://www.themoviedb.org/movie/550017",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Road to Christmas",
+  genres: ["Family", "Romance", "TV Movie"],
+  imdbId: "tt8732914",
+  posterPath: "/7F46Dl9oHsVjdCxQtNReXrD4PUq.jpg",
+  voteAverage: 6.274,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T19:46:38.041Z",
+} as const satisfies Movie

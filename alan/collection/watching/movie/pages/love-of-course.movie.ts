@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const loveOfCourse = {
+  id: "01a17499-c95d-7965-a90d-5c3f89de5af7",
+  type: "page-type/movie",
+  slug: "love-of-course",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2018-10-20",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "547243",
+      externalLink: "https://www.themoviedb.org/movie/547243",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Love, of Course",
+  genres: ["Romance", "Drama", "TV Movie"],
+  imdbId: "tt8989870",
+  posterPath: "/sJE5vmEMWK0b8c6a66aAca2cDyf.jpg",
+  voteAverage: 6.7,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "YouTube Free",
+    "YouTube TV",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T19:46:38.041Z",
+} as const satisfies Movie

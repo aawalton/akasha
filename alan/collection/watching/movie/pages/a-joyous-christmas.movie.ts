@@ -1,0 +1,36 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const aJoyousChristmas = {
+  id: "01a17499-c95a-70cc-9efd-6316e8d11932",
+  type: "page-type/movie",
+  slug: "a-joyous-christmas",
+  ownLength: 83,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-christmas"],
+  publishedAt: "2017-11-26",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "483551",
+      externalLink: "https://www.themoviedb.org/movie/483551",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "A Joyous Christmas",
+  genres: ["TV Movie", "Romance", "Drama"],
+  imdbId: "tt7696976",
+  posterPath: "/HepGTcrZXntj9kVbWdtiGhwc9I.jpg",
+  voteAverage: 5.5,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Pluto TV",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T19:46:38.041Z",
+} as const satisfies Movie

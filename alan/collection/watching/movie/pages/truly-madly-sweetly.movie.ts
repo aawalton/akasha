@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const trulyMadlySweetly = {
+  id: "01a17499-c960-7e30-9dd2-b1233c0293b9",
+  type: "page-type/movie",
+  slug: "truly-madly-sweetly",
+  ownLength: 85,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2018-09-22",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "543338",
+      externalLink: "https://www.themoviedb.org/movie/543338",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Truly, Madly, Sweetly",
+  genres: ["Romance", "TV Movie"],
+  imdbId: "tt7116712",
+  posterPath: "/gVb2zfMW4uwMJDrgGiHMHA8Bx02.jpg",
+  voteAverage: 6.5,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-25T19:46:38.041Z",
+} as const satisfies Movie
