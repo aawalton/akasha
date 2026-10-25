@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const ourItalianChristmasMemories = {
+  id: "01a1749a-66c0-7492-b62f-0f9eb3e4a361",
+  type: "page-type/movie",
+  slug: "our-italian-christmas-memories",
+  ownLength: 84,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-christmas"],
+  publishedAt: "2022-11-12",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1028185",
+      externalLink: "https://www.themoviedb.org/movie/1028185",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Our Italian Christmas Memories",
+  genres: ["TV Movie", "Comedy", "Drama", "Romance"],
+  imdbId: "tt22258198",
+  posterPath: "/j7sbVqC6hHryIw6dwJROD2p1t3n.jpg",
+  voteAverage: 5.2,
+  streamingOn: [
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "Tubi TV",
+    "YouTube Free",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:47:18.330Z",
+  updatedAt: "2026-10-25T19:47:18.330Z",
+} as const satisfies Movie
