@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const supersReforged = {
+  id: "01a1744f-10b4-78e9-aeec-5908a99daf71",
+  type: "page-type/story-read",
+  slug: "supers-reforged",
+  author: "RejectHumanity",
+  following: false,
+  unit: "unit/words",
+  title: "Supers Reforged",
+  world: "world/supers-reforged",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "183557",
+      externalLink: "https://www.royalroad.com/fiction/183557/supers-reforged",
+    },
+  ],
+  externalTags: [
+    "Progression",
+    "Super Heroes",
+    "Male Lead",
+    "Contemporary",
+    "Slice of Life",
+    "Action",
+    "Fantasy",
+    "Romance",
+    "Cozy",
+    "Magic",
+    "Magical Girl",
+    "Multiple Lovers",
+    "Romance Subplot",
+    "Supernatural",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-25T18:25:01.108Z",
+  updatedAt: "2026-10-25T18:25:01.108Z",
+} as const satisfies StoryRead

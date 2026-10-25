@@ -20,5 +20,7 @@ export const oneWasWorthyBookTwoComplete01201EpilogueGoodHunting = {
     },
   ],
   createdAt: "2026-10-23T20:48:53.395Z",
-  updatedAt: "2026-10-23T20:48:53.395Z",
+  updatedAt: "2026-10-25T18:25:01.108Z",
+  ownProgress: 1623,
+  progressedAt: "2026-10-25T18:25:01.108Z",
 } as const satisfies StoryChapterRead

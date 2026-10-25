@@ -20,5 +20,7 @@ export const oneWasWorthyBookTwoComplete011044InterludeOldLessons = {
     },
   ],
   createdAt: "2026-10-23T20:48:43.247Z",
-  updatedAt: "2026-10-23T20:48:43.247Z",
+  updatedAt: "2026-10-25T18:25:01.108Z",
+  ownProgress: 2365,
+  progressedAt: "2026-10-25T18:25:01.108Z",
 } as const satisfies StoryChapterRead

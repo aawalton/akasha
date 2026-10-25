@@ -5,7 +5,7 @@ export const oneWasWorthyBookTwoComplete = {
   type: "page-type/story-read",
   slug: "one-was-worthy-book-two-complete",
   author: "Materia-Blade",
-  following: false,
+  following: true,
   unit: "unit/words",
   title: "One Was Worthy (Book Two Complete)",
   world: "world/one-was-worthy-book-two-complete",
@@ -39,7 +39,7 @@ export const oneWasWorthyBookTwoComplete = {
     "Strategy",
   ],
   publicationStatus: "ongoing",
-  readLater: true,
+  readLater: false,
   createdAt: "2026-10-23T20:48:22.888Z",
-  updatedAt: "2026-10-23T20:48:22.888Z",
+  updatedAt: "2026-10-25T18:25:01.108Z",
 } as const satisfies StoryRead
