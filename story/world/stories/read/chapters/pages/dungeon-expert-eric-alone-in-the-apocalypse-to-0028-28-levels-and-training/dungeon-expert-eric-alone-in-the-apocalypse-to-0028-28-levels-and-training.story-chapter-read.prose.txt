@@ -1,0 +1,135 @@
+Eric pulled up his status menu.
+
+Eric James | Level 6 > 9
+
+Class: Mage
+
+Status: Wounded
+
+STR: 9>11
+
+MAG: 29>35
+
+STM: 14>20
+
+DEX: 18>23
+
+DEF: 7>10
+
+MDF: 9>12
+
+Skills:
+
+Mana Sight
+
+Mana Pool
+
+Spells:
+
+Regeneration
+
+Firebolt
+
+Explosion
+
+Fireball [WARNING]
+
+Familiar
+
+Skill Choice Unlocked! Please choose a skill.
+
+Enhanced Mana Pool
+
+Enhances your, and your familiars’, mana pools. You can store more mana. Cost: None
+
+Mana Regeneration
+
+Regenerate mana faster. Cost: None.
+
+Mana Burn
+
+Burn your mana to enhance your physical characteristics for a short time. Cost scales with the relative enhancement. [Patch Note: this skill will not enhance your body as much as any enhancement spell or skill. Its output has been capped to make it the low level skill it was always intended to be. Do not attempt to abuse it or you will be punished.]
+
+“Yes! Double digits!” He’d finally hit double digits in everything! Everything except his level, that is… but one more and he’d hit double digits in that, too! His magic, stamina, and dexterity were climbing rapidly, while his defenses and strength lagged. He’d known he wasn’t getting good strength growth from the class description, but the low defense growth was really starting to hurt. The Trinotaur had thrown him around like a leaf.
+
+It’s getting better. I have ranged spells now, and enough mana to consistently use them. From now on, I should stay well away from most enemies. Of course, like the Trinotaur, the enemies got a say in that, too… but it was something to aim for. And one of his initial objectives, so it felt good to finally reach the point that he could realize that.
+
+He looked over the skills once he was done taking in the stats. Enhanced Mana Pool and Mana Regeneration were the obvious picks; he didn’t want something to burn his mana faster, and ideally, he wouldn’t be using his physical characteristics too often.
+
+Eric considered for a moment, then picked Enhanced Mana Pool. Having Cy be able to cast more than one Swarm would be invaluable on its own. Plus, he was working with Cy on gaining Mana Regeneration the old-fashioned way. It wouldn’t be as fast or immediate as picking it up through the System, but he did want to try Cy’s route and compare it to the System’s, and the best way to do it was to learn Cy’s route first, then gain the skill and compare the two. Or, if Cy’s way was good enough, he could even bypass that skill and move on to the next skill the System had to offer.
+
+Mana Pool > Enhanced Mana Pool
+
+Instantly, he felt the difference. Just like with the first expansion, a big void opened up inside him, empty for now, but slowly starting to fill. I think I could use a good two, maybe three Fireballs now, Eric thought, though he wasn’t sure. In any case, as long as his pool was full, he definitely had enough to carry him through a dungeon now.
+
+That only left the loot he’d picked up from the final chest. There were a lot of red tokens, which he’d come to expect, along with the one big green token. This time, it was a token for a blacksmith. He looked at it, then sent it into his inventory. As much as he wanted to use it and get a weapon forged just for him, he honestly had plenty of weapons. On top of that, he didn’t really have any materials. The armorer had warned him: “Most people use the token before they have enough tokens.” And her costs had been greatly lowered by the number of materials he’d had on hand. Without any materials to offset the cost, he wasn’t confident he’d be able to afford anything the blacksmith made.
+
+On top of that, there was the whole linked dungeon thing. The reward from the hot dungeon would help him clear the cold one. If he got a blacksmith token from one, wasn’t there a good chance he got the materials to help offset the cost of the blacksmith from the other? Or the materials to make a really cool weapon, one or the other? Using it before exploring the second dungeon seemed like a throw, so he tucked it away.
+
+The rest of the chest was crafting materials (mostly scorpion parts), a health potion, and a mana potion. Those went into his inventory with interest. I hope mana potions get less rare later. They’re so essential.
+
+And that was it. Levels, loot, and rewards, all sorted. He stood up, dusting himself off, and set off through the house. “Cy! Where are you?”
+
+“Right over here. What is it?” Cy asked, crawling down the stairs front legs-back legs style.
+
+“I want to work on aura manipulation a little more. Can you help me?”
+
+Cy paused on the stair he was on and scratched behind his ear. “And I thought it was something serious.”
+
+“Oh, come on. It is serious.”
+
+“Well, naturally. But you don’t require me, do you? I’ve already told you what to practice.”
+
+Eric put his hands on his hips. “Practice only breeds habits. If I don’t practice correctly, I’ll breed bad habits, isn’t that right?”
+
+“It’s not… incorrect,” Cy allowed.
+
+“Look, you don’t have to do much. I’m not asking you to teach me a new technique or anything. Just sit near me and correct me if I start doing the wrong thing.”
+
+Cy considered for a moment, then continued climbing down the stairs. “Certainly. I can do that. You know, it’s been a while since I’ve had such an eager student.”
+
+“I do love learning,” Eric said. Especially magic, but he’d always been a curious and experimental guy. Reading a wiki page online with friends on a call was unironically his idea of a good time. It was why he’d chosen a science major, and then engineering. He probably would have been happier as some form of pure science rather than applied science—physics, chemistry, biology—but his mother was of the opinion that those did not pay, and if they did not pay, then she wouldn’t contribute anything to his college fund, so engineering it was.
+
+“Shall we?” Cy gestured toward the porch.
+
+“I’m just wondering, but… is there a reason you prefer the porch?” Eric asked. Their last lesson had been on the porch as well.
+
+“Gives me something to watch. And the mana flows more naturally outside than inside. Your dungeons are outside for the most part; if I taught you only how to manage mana and your aura in artificial environments, I’d be doing you a disservice.”
+
+“That’s fair.” Mana flow was different inside and outside? He hadn’t particularly noticed, but then, he hadn’t exactly been fighting inside lately. Nor had he done much practice absorbing mana inside. It was something to look for.
+
+“By the way,” Cy said, a little to casually, “did you do something earlier?”
+
+“Do something…?” Eric wondered aloud, then snapped his fingers. “Oh, right! I got a new skill. It should make your mana pool bigger, too.”
+
+“Ah, that explains it.”
+
+“Why, is that a problem?” Eric asked.
+
+“No, not at all… it’s just that I usually know when my mana systems change and grow, so to have an outside intervention change it gave me pause. Let me know, next time, though? It was a bit perturbing to suddenly… gain something, without any heads up.”
+
+“Oh… of course, sorry. I didn’t think about it, I just picked the skill. I’ll do it next time.”
+
+“Ensure that you do.”
+
+“By the way, Cy, before we start… how did you know that I couldn’t handle Fireball yet? Is there something about my body or something?”
+
+Cy gestured. “Your mana circuits. They’re woefully underdeveloped. Then again, I suppose just having any is a miracle in of itself, given the poor situation your world found itself in… but yes, it’s them. The pathways magic uses to travel through your body. Yours aren’t strong enough or complex enough to withstand Fireball. I’m amazed you managed to fire it off not once, but twice.”
+
+“I combined the two circuits in my sword, not in my body, so the ones in my body didn’t have to be all that strong,” Eric explained.
+
+“Truthfully? That focus is more capable than I thought. Incredible. Hold onto that sword. It’s more valuable than you think. More akin to a vessel than a focus.” Cy hopped forward. “By the way, you are training your circuits, right?”
+
+“I spend some time working on them every day,” Eric confirmed. Every morning and every night, he set some time aside to snap them into place and run mana through them without firing off spells. They had been growing stronger, but it was a slow process. He’d noticed the System strengthening them as he leveled up as well, but it didn’t hurt to practice on his own. It was true before now, but it was even more true now that he knew he could combine existing spells to create more powerful spells he wasn’t supposed to have access to yet.
+
+“Excellent. Then let’s focus on training your aura…”
+
+Eric spent the rest of the day alternating between trying to feel his aura and attempting to actively absorb mana, all while running Regeneration in the background. By the end of the day, he could faintly feel something just over his skin when he truly stopped and focused. He couldn’t harden it yet or do any of the neat things Cy could do, but being aware of his aura was the first step toward all of that. On the mana regeneration side, he became competent enough at manual regeneration that if he sat down and meditated intentionally on regaining mana, he gained it about 1.5 times as fast as his usual passive mana regeneration. A 50% improvement wasn’t nothing; in fact, it was enormous… that is, until he considered that it usually took him a whole day to regenerate his entire mana pool. A 50% improvement meant it took him 75% of a day to recover his whole mana pool instead of a whole day. It wasn’t huge, it wasn’t tiny; it wasn’t yet worth stopping in a dungeon to meditate, but it was getting there.
+
+And that was with my old mana pool. With my new mana pool, who knows if I can even refill it in a day? Might be that this mana regeneration buff just gives me the ability to fill my new pool in a day.
+
+It was at least now worth it to try meditating when he was spending a day to recover. Sure, his mana pool mostly filled up overnight anyways, but if he filled it up during the day, that meant more mana to practice spells with. Again, not groundshaking, but it was steady improvement, and that was better than nothing.
+
+The System’s boosts were usually more powerful than that, so he had a feeling that if he took Mana Regeneration the next time he had an option, it would be far more powerful than what he’d learned from Cy, but at the same time, he could continue to manually grow and enhance this skill using Cy’s method. It didn’t feel fair to compare his initial brush at trying meditation with the System’s skill. It was like comparing his first stick figure with an experienced artist. Of course he couldn’t match up; he was just starting out. He didn’t know what he was doing. But with enough effort (and some online tutorials or in this case, Cy’s help) he could get there. And getting a bonus skill without having to wait for the System to hand it out sounded just as awesome as getting a spell by combining the two spells he had, even if he couldn’t really use it yet.
+
+Like that, a whole day passed. He recovered, his wounds healed, and when it was all done, he went to sleep. Tomorrow, he’d be back in the dungeons, but for today, he rested.
