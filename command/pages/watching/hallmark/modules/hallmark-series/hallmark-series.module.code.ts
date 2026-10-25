@@ -237,7 +237,7 @@ export function entriesOf(listed: readonly Matched[], shows: readonly Titled[]):
       if (tv.has(titled.id)) continue
       tv.add(titled.id)
     }
-    const onTv = (titled?.kind ?? one.refused?.kind) === "tv"
+    const onTv = titled?.kind === "tv"
     entries.push({
       kind: onTv ? "show" : "movie",
       title: one.listed.title,

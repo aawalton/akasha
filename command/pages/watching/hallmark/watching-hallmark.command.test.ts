@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { season } from "akasha/alan/collection/watching/season/season.page-type.ts"
+import { show } from "akasha/alan/collection/watching/show/show.page-type.ts"
 import { showCollection } from "akasha/alan/collection/watching/show-collection/show-collection.page-type.ts"
 import {
   dayOf,
@@ -23,6 +25,10 @@ import {
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-shelving/hallmark-shelving.module.code.ts"
 
 const SHELVED_AS = `${showCollection.slug}/`
+
+const SHOW = show.slug
+
+const SEASON = season.slug
 
 const ROMANCE = `${SHELVED_AS}${SHELVES.romance.slug}`
 
@@ -62,7 +68,14 @@ const WIKITEXT = [
   "|}",
 ].join("\n")
 
-const NOTHING_HELD = { movie: [], show: [], franchise: [], "show-collection": [] }
+const NOTHING_HELD = {
+  movie: [],
+  show: [],
+  franchise: [],
+  "show-collection": [],
+  season: [],
+  episode: [],
+}
 
 const DAY = "2026-10-25"
 
@@ -231,4 +244,40 @@ test("a held page holding a refused match loses it and what TMDB gave it", () =>
   expect(page?.clears).toContain("externalIdentity")
   expect(page?.clears).toContain("streamingOn")
   expect(page?.clears).toContain("posterPath")
+})
+
+test("a listed film held as a show for a refused match is taken off and written as a movie", () => {
+  const shown = {
+    slug: "do-i-say-i-do",
+    title: "Do I Say I Do?",
+    partOfCollections: [ROMANCE],
+    publishedAt: "2020-01-04",
+  }
+  const aSeason = { slug: "a-season", partOfCollections: [`${SHOW}/${shown.slug}`] }
+  const anEpisode = { slug: "an-episode", partOfCollections: [`${SEASON}/a-season`] }
+  const elsewhere = { ...shown, slug: "a-show-of-its-own", partOfCollections: [`${SHELVED_AS}x`] }
+  const held = {
+    ...NOTHING_HELD,
+    show: [elsewhere, shown],
+    season: [aSeason],
+    episode: [anEpisode],
+  }
+  const refused = { kind: "tv", id: 9, title: "Say I Do" } as const
+  const shelf = shelved({
+    listed: [matching("Do I Say I Do?", null, refused)],
+    shows: [],
+    held,
+    day: DAY,
+  })
+  expect(shelf.removes).toEqual([
+    { pageTypeSlug: "show", slug: "do-i-say-i-do" },
+    { pageTypeSlug: SEASON, slug: "a-season" },
+    { pageTypeSlug: "episode", slug: "an-episode" },
+  ])
+  const film = shelf.pages.find((one) => one.pageTypeSlug === "movie")
+  expect(film?.fresh).toBe(true)
+  expect(film?.slug).toBe("do-i-say-i-do")
+  expect(film?.values.partOfCollections).toEqual([ROMANCE])
+  expect(film?.values.status).toBe("not-started")
+  expect(film?.values.publishedAt).toBe("2020-01-04")
 })

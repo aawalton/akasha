@@ -14,6 +14,7 @@ import {
   airedShows,
   matchedAll,
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.code.ts"
+import type { Gone } from "akasha/command/pages/watching/hallmark/modules/hallmark-misfiling/hallmark-misfiling.module.code.ts"
 import {
   type Held,
   shelved,
@@ -24,6 +25,7 @@ import {
   TOKEN_UNSET,
   tokenSaid,
 } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   askingFor,
@@ -69,7 +71,31 @@ const STREAMED: ReadonlySet<string> = new Set(["movie", "show"])
 
 const ORDER: readonly string[] = ["show-collection", "franchise", "movie", "show"]
 
+const UNDER_SHOWS: readonly string[] = ["season", "episode"]
+
 const A_DAY = 10
+
+type Removed = { readonly read: string | undefined; readonly refused: string | null }
+
+async function removedAll(
+  gone: readonly Gone[],
+  root: string,
+  calls: Calls,
+  read: string | undefined
+): Promise<Removed> {
+  if (gone.length === 0) return { read, refused: null }
+  const paths = gone.flatMap((one) =>
+    listedAt(root, one.pageTypeSlug, one.slug).map((at) => at.path)
+  )
+  const wrote = await calls.write({
+    writer: WRITER,
+    message: `the Hallmark shelf takes away ${String(paths.length)} pages a refused match left`,
+    ...(read === undefined ? {} : { read }),
+    removes: paths,
+  })
+  if ("refused" in wrote) return { read, refused: wrote.refused }
+  return { read: wrote.commit ?? read, refused: null }
+}
 
 type Asked = { readonly held: Held; readonly at: string | undefined }
 
@@ -83,6 +109,11 @@ async function heldFor(calls: Calls): Promise<Asked | string> {
     at ??= rows.at
     held.set(pageTypeSlug, rows.rows)
   }
+  for (const pageTypeSlug of UNDER_SHOWS) {
+    const rows = await calls.ask({ pageTypeSlug, keys: ["slug", "partOfCollections"] })
+    if ("refused" in rows) return rows.refused
+    held.set(pageTypeSlug, rows.rows)
+  }
   const rowsOf = (slug: string): readonly Row[] => held.get(slug) ?? []
   return {
     held: {
@@ -90,6 +121,8 @@ async function heldFor(calls: Calls): Promise<Asked | string> {
       show: rowsOf("show"),
       franchise: rowsOf("franchise"),
       "show-collection": rowsOf("show-collection"),
+      season: rowsOf("season"),
+      episode: rowsOf("episode"),
     },
     at,
   }
@@ -157,7 +190,9 @@ export async function watchingHallmark(
     const fresh = shelf.pages.filter((one) => one.fresh === true).length
     const counted = `${String(fresh)} pages to write fresh and ${String(shelf.pages.length - fresh)} to update`
     if (read.taken.plan) return told([...shelf.report, counted])
-    const ran = await recording(SYNC, () => written(shelf.pages, calls, asked.at))
+    const removed = await removedAll(shelf.removes, given.root, calls, asked.at)
+    if (removed.refused !== null) return refusedBy([...shelf.report, removed.refused], OPERATIONAL)
+    const ran = await recording(SYNC, () => written(shelf.pages, calls, removed.read))
     const said = [...shelf.report, counted, ...ran.commits.map((one) => `committed as ${one}`)]
     if (ran.refused !== null) return refusedBy([...said, ran.refused], OPERATIONAL)
     return told(said)

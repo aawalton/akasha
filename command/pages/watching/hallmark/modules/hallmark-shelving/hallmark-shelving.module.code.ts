@@ -8,6 +8,14 @@ import type {
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.code.ts"
 import { squashed } from "akasha/command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.code.ts"
 import {
+  type Gone,
+  goneWith,
+  misfiledShow,
+  recordsOf,
+  textsOf,
+  tmdbIdOf,
+} from "akasha/command/pages/watching/hallmark/modules/hallmark-misfiling/hallmark-misfiling.module.code.ts"
+import {
   articleOf,
   CATEGORIES,
   type Category,
@@ -32,6 +40,8 @@ export type Held = {
   readonly show: readonly Row[]
   readonly franchise: readonly Row[]
   readonly "show-collection": readonly Row[]
+  readonly season: readonly Row[]
+  readonly episode: readonly Row[]
 }
 
 export type Plan = {
@@ -43,6 +53,7 @@ export type Plan = {
 
 export type Shelved = {
   readonly pages: readonly Naming[]
+  readonly removes: readonly Gone[]
   readonly report: readonly string[]
 }
 
@@ -79,23 +90,6 @@ const WIKIPEDIA_SITE = "https://en.wikipedia.org/wiki/"
 const SUFFIXES: readonly number[] = [2, 3, 4, 5, 6, 7, 8, 9]
 
 const LAST_DAY = "9999-12-31"
-
-function recordsOf(said: unknown): readonly Said[] {
-  if (!Array.isArray(said)) return []
-  return (said as readonly unknown[]).filter(
-    (one): one is Said => one !== null && typeof one === "object"
-  )
-}
-
-function textsOf(said: unknown): readonly string[] {
-  if (!Array.isArray(said)) return []
-  return (said as readonly unknown[]).filter((one): one is string => typeof one === "string")
-}
-
-function tmdbIdOf(row: Row): string | null {
-  const one = recordsOf(row.externalIdentity).find((said) => said.source === "tmdb")
-  return typeof one?.externalId === "string" ? one.externalId : null
-}
 
 type Taken = { readonly row: Row | null; readonly slug: string }
 
@@ -347,8 +341,18 @@ export function shelved(plan: Plan): Shelved {
     show: takingFrom(plan.held.show, "show"),
   }
   const pages: Naming[] = [...shelfPages(plan.held[SHOW_COLLECTION]), ...franchises.pages]
+  const removes: Gone[] = []
+  const shelving = new Set([
+    ...CATEGORIES.map(shelfOf),
+    ...[...franchises.slugOf.values()].map((slug) => `${FRANCHISE}/${slug}`),
+  ])
   for (const one of entries) {
-    const under = shelvesFor(one, franchises)
+    const misfiled = misfiledShow(one, plan.held.show, shelving)
+    const own = shelvesFor(one, franchises)
+    const under = misfiled === null ? own : unioned(misfiled.partOfCollections, own)
+    if (misfiled !== null) {
+      removes.push(...goneWith(misfiled, plan.held.season, plan.held.episode))
+    }
     const year = yearOf(one.listed?.aired ?? one.titled?.publishedAt) ?? one.listed?.year ?? null
     const tmdbId = one.titled === null ? null : String(one.titled.id)
     const taken = takes[one.kind](one.title, tmdbId, year)
@@ -371,5 +375,6 @@ export function shelved(plan: Plan): Shelved {
     pages.push({ pageTypeSlug: one.kind, slug: taken.slug, fresh: true, values })
   }
   const report = [...franchises.report, ...summaryOf(entries, franchises.categoryOf)]
-  return { pages, report }
+  const taken = removes.map((one) => `taken  ${one.pageTypeSlug}/${one.slug}`)
+  return { pages, removes, report: [...report, ...taken] }
 }

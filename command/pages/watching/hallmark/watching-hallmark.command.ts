@@ -79,17 +79,23 @@ export const watchingHallmark = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The pages a run takes away go in a write of their own before any page is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A write states the commit the pages were asked at, or the one the last write made.",
     },
   ],
   parts: [
     "module/hallmark-listing",
     "module/hallmark-matching",
+    "module/hallmark-misfiling",
     "module/hallmark-series",
     "module/hallmark-shelving",
   ],
   name: "hallmark",
   arguments: [{ argument: "argument/plan" }],
   createdAt: "2026-10-25T19:42:42.006Z",
-  updatedAt: "2026-10-25T19:54:28.649Z",
+  updatedAt: "2026-10-25T19:59:30.746Z",
 } as const satisfies Command

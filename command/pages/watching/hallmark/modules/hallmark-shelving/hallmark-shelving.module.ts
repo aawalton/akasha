@@ -31,7 +31,16 @@ export const hallmarkShelving = {
       decisionKind: "decision-kind/departure",
       statement: "A page holding a TMDB match now refused loses that match and all TMDB gave it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A listed film held as a show only for a refused match is taken off with what sits under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That film is written again as a movie, keeping the shelves its show had.",
+    },
   ],
   createdAt: "2026-10-25T19:42:42.006Z",
-  updatedAt: "2026-10-25T19:53:05.597Z",
+  updatedAt: "2026-10-25T19:59:30.746Z",
 } as const satisfies Module
