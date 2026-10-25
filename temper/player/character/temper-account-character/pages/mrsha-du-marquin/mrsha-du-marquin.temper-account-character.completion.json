@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQO8oFAQABgQQMy5V1AEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIA2AANAEIBBKTdAEIBBKTdAEIBBKTdAEIAeBUnbcoWXwQ4xpKCAAHMAJA0QiRgAO0IonXwaBkl4gkQQpEAfz4GhHYFh3QOqRGwiMiByjGdBBnUODHCIhQhIyIgIDMwIjISAiMiNSAiMiIjNBACIiAyIQACEzIjA6MjAjoiZDMjIyAAKCIiQqMwEiIwI6y6AGo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAwQGQsYkDWBRDUgAAAAK",
+  "buildHash": "ATQO8oFAQABgQQMy5V1AEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIA2AANAEIBBKTdAEIBBKTdAEIBBKTdAEIAeBUnbcoWXwQ4xpKCAAHMAJA0QiRgAO0IonXwaBkl4gkQQpEAfz4GhHYFh3QOqRGwiMiByjGdBBnUODHCIhQhIyIgIDMwIjISAiMiNSAiMiIjNBACIiAyIQACEzIjA6MjAjoiZDMjIyAAKCIiQqMwIiIwI6y6AGo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAwQGQsYkDWBRDUgAAAAK",
   "gender": 1,
   "level": 50,
   "classId": 4,
@@ -2516,9 +2516,9 @@
       "nextRankXP": 211320
     },
     "111": {
-      "currentRank": 7,
-      "currentXP": 49,
-      "nextRankXP": 160
+      "currentRank": 8,
+      "currentXP": 119,
+      "nextRankXP": 180
     },
     "117": {
       "currentRank": 12,
@@ -2526,9 +2526,9 @@
       "nextRankXP": 100
     },
     "118": {
-      "currentRank": 1,
+      "currentRank": 2,
       "currentXP": 5,
-      "nextRankXP": 25
+      "nextRankXP": 50
     },
     "127": {
       "currentRank": 50,
@@ -4452,7 +4452,7 @@
     }
   },
   "skillPoints": {
-    "total": 379,
+    "total": 380,
     "unassigned": 67,
     "level": 64,
     "mainQuests": 11,
@@ -4463,7 +4463,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 173,
     "totalSkyshards": 520,
-    "zoneQuestTotal": 57,
+    "zoneQuestTotal": 58,
     "groupDungeonTotal": 20,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -4548,7 +4548,7 @@
       "EP0b": 0,
       "AD3": 3,
       "AD4": 2,
-      "GC": 0,
+      "GC": 1,
       "CC": 1,
       "WW": 0,
       "EP5": 3,
@@ -6663,6 +6663,8 @@
     5536,
     5537,
     5538,
+    5540,
+    5542,
     5543,
     5545,
     5549,
@@ -12778,8 +12780,8 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792958446,
-      "buildHash": "ATQO8oFAQABgQQMy5V1AEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIA2AANAEIBBKTdAEIBBKTdAEIBBKTdAEIAeBUnbcoWXwQ4xpKCAAHMAJA0QiRgAO0IonXwaBkl4gkQQpEAfz4GhHYFh3QOqRGwiMiByjGdBBnUODHCIhQhIyIgIDMwIjISAiMiNSAiMiIjNBACIiAyIQACEzIjA6MjAjoiZDMjIyAAKCIiQqMwEiIwI6y6AGo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAwQGQsYkDWBRDUgAAAAK",
+      "capturedAt": 1792958603,
+      "buildHash": "ATQO8oFAQABgQQMy5V1AEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIA2AANAEIBBKTdAEIBBKTdAEIBBKTdAEIAeBUnbcoWXwQ4xpKCAAHMAJA0QiRgAO0IonXwaBkl4gkQQpEAfz4GhHYFh3QOqRGwiMiByjGdBBnUODHCIhQhIyIgIDMwIjISAiMiNSAiMiIjNBACIiAyIQACEzIjA6MjAjoiZDMjIyAAKCIiQqMwIiIwI6y6AGo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAwQGQsYkDWBRDUgAAAAK",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 30,
@@ -14182,9 +14184,9 @@
           "description": "Increases your chance of successfully Pickpocketing by |cffffff20|r%."
         },
         {
-          "abilityId": 63807,
+          "abilityId": 63808,
           "name": "Trafficker",
-          "description": "Increases the number of fence interactions you can use each day by |cffffff120|r%."
+          "description": "Increases the number of fence interactions you can use each day by |cffffff140|r%."
         },
         {
           "abilityId": 63811,
