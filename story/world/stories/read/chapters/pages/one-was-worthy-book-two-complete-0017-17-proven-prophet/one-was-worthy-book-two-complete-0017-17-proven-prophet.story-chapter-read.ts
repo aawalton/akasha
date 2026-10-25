@@ -20,5 +20,7 @@ export const oneWasWorthyBookTwoComplete001717ProvenProphet = {
     },
   ],
   createdAt: "2026-10-23T20:48:22.888Z",
-  updatedAt: "2026-10-23T20:48:22.888Z",
+  updatedAt: "2026-10-25T18:24:53.801Z",
+  ownProgress: 1990,
+  progressedAt: "2026-10-25T18:24:53.801Z",
 } as const satisfies StoryChapterRead

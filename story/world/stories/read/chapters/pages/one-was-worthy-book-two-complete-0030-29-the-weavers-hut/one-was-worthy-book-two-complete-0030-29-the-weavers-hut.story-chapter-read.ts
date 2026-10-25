@@ -20,5 +20,7 @@ export const oneWasWorthyBookTwoComplete003029TheWeaversHut = {
     },
   ],
   createdAt: "2026-10-23T20:48:33.302Z",
-  updatedAt: "2026-10-23T20:48:33.302Z",
+  updatedAt: "2026-10-25T18:24:53.801Z",
+  ownProgress: 2364,
+  progressedAt: "2026-10-25T18:24:53.801Z",
 } as const satisfies StoryChapterRead
