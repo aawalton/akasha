@@ -7,7 +7,7 @@ export const theGoodWitch = {
   ownLength: 89,
   ownProgress: 0,
   partOfCollections: ["franchise/the-good-witch"],
-  position: 0,
+  position: 1,
   publishedAt: "2008-01-19",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const theGoodWitch = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

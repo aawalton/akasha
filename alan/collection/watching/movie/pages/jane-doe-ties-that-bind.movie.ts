@@ -7,7 +7,7 @@ export const janeDoeTiesThatBind = {
   ownLength: 80,
   ownProgress: 0,
   partOfCollections: ["franchise/jane-doe"],
-  position: 6,
+  position: 7,
   publishedAt: "2007-03-17",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const janeDoeTiesThatBind = {
   posterPath: "/wIzP0uFK3jr19abOskSmeSKUovp.jpg",
   voteAverage: 5.2,
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

@@ -7,7 +7,7 @@ export const murder101IfWishesWereHorses = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/murder-101"],
-  position: 2,
+  position: 3,
   publishedAt: "2007-08-18",
   status: "not-started",
   unit: "unit/minutes",
@@ -29,5 +29,5 @@ export const murder101IfWishesWereHorses = {
   posterPath: "/6qM1vlxAEMKSx10YIv1FuFhKnjL.jpg",
   voteAverage: 7.111,
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

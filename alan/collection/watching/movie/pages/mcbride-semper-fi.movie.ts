@@ -7,7 +7,7 @@ export const mcbrideSemperFi = {
   ownLength: 90,
   ownProgress: 0,
   partOfCollections: ["franchise/mcbride"],
-  position: 8,
+  position: 9,
   publishedAt: "2007-01-20",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const mcbrideSemperFi = {
   posterPath: "/balPKoeH5MfxOwJOB8wlmhKLHmh.jpg",
   voteAverage: 6.4,
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

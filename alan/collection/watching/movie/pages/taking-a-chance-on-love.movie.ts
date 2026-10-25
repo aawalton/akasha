@@ -7,7 +7,7 @@ export const takingAChanceOnLove = {
   ownLength: 88,
   ownProgress: 0,
   partOfCollections: ["franchise/the-note"],
-  position: 1,
+  position: 2,
   publishedAt: "2009-01-31",
   status: "not-started",
   unit: "unit/minutes",
@@ -30,5 +30,5 @@ export const takingAChanceOnLove = {
   voteAverage: 4.7,
   streamingOn: ["Amazon Prime Video", "Amazon Prime Video with Ads", "Tubi TV"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

@@ -7,7 +7,7 @@ export const perfectlyPrudence = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/prudence"],
-  position: 1,
+  position: 2,
   publishedAt: "2011-01-08",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const perfectlyPrudence = {
   posterPath: "/4ShcKrgFwLKMhiDtm7IS1SC4W40.jpg",
   voteAverage: 3.9,
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

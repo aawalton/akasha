@@ -7,7 +7,7 @@ export const murder101TheLockedRoomMystery = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/murder-101"],
-  position: 3,
+  position: 4,
   publishedAt: "2008-08-02",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const murder101TheLockedRoomMystery = {
   posterPath: "/y3lArHF4fR43SrYVgOqcAdMcHPb.jpg",
   voteAverage: 6,
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

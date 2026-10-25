@@ -7,7 +7,7 @@ export const christmasInCanaan = {
   ownLength: 86,
   ownProgress: 0,
   partOfCollections: ["franchise/christmas-in-canaan"],
-  position: 0,
+  position: 1,
   publishedAt: "2009-12-12",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const christmasInCanaan = {
     "Xumo Play",
   ],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

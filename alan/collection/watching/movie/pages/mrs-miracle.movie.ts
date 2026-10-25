@@ -7,7 +7,7 @@ export const mrsMiracle = {
   ownLength: 90,
   ownProgress: 0,
   partOfCollections: ["franchise/mrs-miracle"],
-  position: 0,
+  position: 1,
   publishedAt: "2009-12-05",
   status: "not-started",
   unit: "unit/minutes",
@@ -26,5 +26,5 @@ export const mrsMiracle = {
   voteAverage: 6,
   streamingOn: ["fuboTV"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

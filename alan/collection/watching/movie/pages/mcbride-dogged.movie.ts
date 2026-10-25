@@ -7,7 +7,7 @@ export const mcbrideDogged = {
   ownLength: 90,
   ownProgress: 0,
   partOfCollections: ["franchise/mcbride"],
-  position: 9,
+  position: 10,
   publishedAt: "2007-03-10",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const mcbrideDogged = {
   posterPath: "/zS4teHSiVM4B7nV4cOHTRHEsBhR.jpg",
   voteAverage: 7,
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

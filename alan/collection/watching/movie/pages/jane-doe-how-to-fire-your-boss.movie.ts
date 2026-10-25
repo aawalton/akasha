@@ -7,7 +7,7 @@ export const janeDoeHowToFireYourBoss = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/jane-doe"],
-  position: 7,
+  position: 8,
   publishedAt: "2007-05-08",
   status: "not-started",
   unit: "unit/minutes",
@@ -25,5 +25,5 @@ export const janeDoeHowToFireYourBoss = {
   posterPath: "/l46aGhS2by8wEK3nrqUWJlWo8B2.jpg",
   voteAverage: 6,
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

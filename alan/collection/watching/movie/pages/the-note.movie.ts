@@ -7,7 +7,7 @@ export const theNote = {
   ownLength: 86,
   ownProgress: 0,
   partOfCollections: ["franchise/the-note"],
-  position: 0,
+  position: 1,
   publishedAt: "2007-12-08",
   status: "not-started",
   unit: "unit/minutes",
@@ -27,5 +27,5 @@ export const theNote = {
   voteAverage: 6.4,
   streamingOn: ["Amazon Prime Video", "Amazon Prime Video with Ads", "Tubi TV"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie

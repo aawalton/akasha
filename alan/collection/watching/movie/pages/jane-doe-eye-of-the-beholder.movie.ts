@@ -7,7 +7,7 @@ export const janeDoeEyeOfTheBeholder = {
   ownLength: 120,
   ownProgress: 0,
   partOfCollections: ["franchise/jane-doe"],
-  position: 8,
+  position: 9,
   publishedAt: "2008-01-12",
   status: "not-started",
   unit: "unit/minutes",
@@ -26,5 +26,5 @@ export const janeDoeEyeOfTheBeholder = {
   voteAverage: 6.1,
   streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T20:44:55.748Z",
 } as const satisfies Movie
