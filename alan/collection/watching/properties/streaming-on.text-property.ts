@@ -35,10 +35,14 @@ export const streamingOn = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No screen shows a service yet.",
+      statement: "No view of the Hallmark shelf shows a service.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A page's own screen shows its services without crediting JustWatch.",
     },
   ],
   types: "ts",
   createdAt: "2026-10-25T19:20:15.125Z",
-  updatedAt: "2026-10-25T19:20:15.125Z",
+  updatedAt: "2026-10-25T20:30:29.025Z",
 } as const satisfies TextProperty
