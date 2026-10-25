@@ -7,7 +7,7 @@ export const weddingAtGraceland = {
   ownLength: 90,
   ownProgress: 0,
   partOfCollections: ["franchise/at-graceland"],
-  position: 1,
+  position: 2,
   publishedAt: "2019-06-01",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const weddingAtGraceland = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie

@@ -7,7 +7,7 @@ export const christmasInEvergreenTidingsOfJoy = {
   ownLength: 90,
   ownProgress: 0,
   partOfCollections: ["franchise/christmas-in-evergreen"],
-  position: 2,
+  position: 3,
   publishedAt: "2019-11-29",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const christmasInEvergreenTidingsOfJoy = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie

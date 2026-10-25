@@ -7,7 +7,7 @@ export const oneWinterProposal = {
   ownLength: 90,
   ownProgress: 0,
   partOfCollections: ["franchise/one-winter"],
-  position: 1,
+  position: 2,
   publishedAt: "2019-01-12",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const oneWinterProposal = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie

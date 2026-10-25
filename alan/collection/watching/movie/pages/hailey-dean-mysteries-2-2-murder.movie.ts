@@ -7,7 +7,7 @@ export const haileyDeanMysteries22Murder = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/hailey-dean-mysteries"],
-  position: 3,
+  position: 4,
   publishedAt: "2018-06-03",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const haileyDeanMysteries22Murder = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie

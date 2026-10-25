@@ -7,11 +7,11 @@ export const whenCallsTheHeartTheGreatestChristmasBlessing = {
   ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["franchise/when-calls-the-heart"],
-  position: 5,
+  position: 6,
   publishedAt: "2018-12-25",
   status: "not-started",
   unit: "unit/minutes",
   title: "When Calls the Heart: The Greatest Christmas Blessing",
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T19:55:18.520Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie

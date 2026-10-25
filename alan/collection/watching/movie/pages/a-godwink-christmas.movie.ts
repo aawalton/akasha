@@ -7,7 +7,7 @@ export const aGodwinkChristmas = {
   ownLength: 90,
   ownProgress: 0,
   partOfCollections: ["franchise/a-godwink-christmas"],
-  position: 0,
+  position: 1,
   publishedAt: "2018-11-18",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const aGodwinkChristmas = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie

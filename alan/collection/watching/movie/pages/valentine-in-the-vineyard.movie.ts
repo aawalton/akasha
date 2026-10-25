@@ -7,7 +7,7 @@ export const valentineInTheVineyard = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/in-the-vineyard"],
-  position: 2,
+  position: 3,
   publishedAt: "2019-02-02",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const valentineInTheVineyard = {
     "Philo",
   ],
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie

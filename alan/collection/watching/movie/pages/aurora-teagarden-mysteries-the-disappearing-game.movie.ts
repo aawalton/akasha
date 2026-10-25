@@ -7,7 +7,7 @@ export const auroraTeagardenMysteriesTheDisappearingGame = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/aurora-teagarden-mystery"],
-  position: 8,
+  position: 9,
   publishedAt: "2018-07-29",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const auroraTeagardenMysteriesTheDisappearingGame = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie

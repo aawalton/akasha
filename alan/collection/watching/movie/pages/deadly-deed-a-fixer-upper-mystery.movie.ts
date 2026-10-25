@@ -7,7 +7,7 @@ export const deadlyDeedAFixerUpperMystery = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/fixer-upper-mysteries"],
-  position: 2,
+  position: 3,
   publishedAt: "2018-03-11",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const deadlyDeedAFixerUpperMystery = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie

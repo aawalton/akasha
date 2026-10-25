@@ -7,7 +7,7 @@ export const garageSaleMysteriesPictureAMurder = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/garage-sale-mysteries"],
-  position: 13,
+  position: 14,
   publishedAt: "2018-08-19",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const garageSaleMysteriesPictureAMurder = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie

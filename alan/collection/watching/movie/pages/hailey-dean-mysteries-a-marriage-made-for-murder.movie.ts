@@ -7,7 +7,7 @@ export const haileyDeanMysteriesAMarriageMadeForMurder = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/hailey-dean-mysteries"],
-  position: 4,
+  position: 5,
   publishedAt: "2018-06-10",
   status: "not-started",
   unit: "unit/minutes",
@@ -37,5 +37,5 @@ export const haileyDeanMysteriesAMarriageMadeForMurder = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie

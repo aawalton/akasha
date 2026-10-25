@@ -7,7 +7,7 @@ export const darrowDarrowInTheKeyOfMurder = {
   ownLength: 82,
   ownProgress: 0,
   partOfCollections: ["franchise/darrow-darrow"],
-  position: 1,
+  position: 2,
   publishedAt: "2018-05-06",
   status: "not-started",
   unit: "unit/minutes",
@@ -33,5 +33,5 @@ export const darrowDarrowInTheKeyOfMurder = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T19:46:45.888Z",
+  updatedAt: "2026-10-25T20:45:10.655Z",
 } as const satisfies Movie
