@@ -64,10 +64,19 @@ export const deployJob = {
       statement: "Nothing here reads the workstation's checkout.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here says what a pod a job starts is given.",
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy's job reserves 16Gi, about what a deploy has been measured to reach.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Deploys past what node-06 holds wait for room rather than all starting at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A deploy's quarter hour starts when its pod does, so a deploy that waited loses none.",
     },
   ],
-  updatedAt: "2026-10-24T22:49:35.219Z",
+  updatedAt: "2026-10-25T21:17:26.783Z",
   createdAt: "2026-09-14T17:28:13.666Z",
 } as const satisfies Module

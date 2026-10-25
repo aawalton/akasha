@@ -15,6 +15,8 @@ import type { Reading } from "akasha/page/index/modules/shape/index-shape.module
 
 const DEADLINE_SECONDS = 900
 
+const HELD_AT_LEAST = "16Gi"
+
 export function jobNameFor(subject: string, commit: string): string {
   return `${deploy.name}-${subject}-${commit.slice(0, NAMED)}`
 }
@@ -59,5 +61,6 @@ export function jobYamlFor(
 ): string {
   const script = scriptFor(given, subject, commit, was)
   const named = jobNameFor(subject, commit)
-  return yamlFor(named, script, null, deployAccount.slug, DEADLINE_SECONDS, deployCache.slug)
+  const account = deployAccount.slug
+  return yamlFor(named, script, null, account, DEADLINE_SECONDS, deployCache.slug, HELD_AT_LEAST)
 }

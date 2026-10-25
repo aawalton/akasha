@@ -48,3 +48,7 @@ test("a job carries the name it is known by", () => {
 test("a deploy's job is ended a quarter hour after it starts", () => {
   expect(jobYamlFor(ROOT, SUBJECT, COMMIT, null)).toContain("activeDeadlineSeconds: 900")
 })
+
+test("a deploy's job reserves the memory a deploy has been measured to reach", () => {
+  expect(jobYamlFor(ROOT, SUBJECT, COMMIT, null)).toContain("memory: 16Gi")
+})
