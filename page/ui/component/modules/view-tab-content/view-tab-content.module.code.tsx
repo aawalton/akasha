@@ -11,7 +11,10 @@ import {
   type ViewFilter,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/page/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
-import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
+import {
+  useAppCompleting,
+  useAppEditing,
+} from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { useCreateOverride } from "akasha/page/ui/component/modules/create-override/create-override.module.code.tsx"
 import { PageCardRenderer } from "akasha/page/ui/component/modules/page-card-renderer/page-card-renderer.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
@@ -95,6 +98,7 @@ export function ViewTabContent({
   const completePage = useCompletePageOptimistic()
   const userId = useUserId()
   const editing = useAppEditing()
+  const completing = useAppCompleting()
 
   const { handleCreatePage, handleIconChange, handleDeletePage, handleToggleFavorite } =
     useViewRowHandlers({
@@ -267,7 +271,7 @@ export function ViewTabContent({
                 : handlePropertyChange
             }
             onComplete={
-              !editing || isLocked(effectiveConfig, "editRowValues") ? undefined : handleComplete
+              !completing || isLocked(effectiveConfig, "editRowValues") ? undefined : handleComplete
             }
             onDelete={
               !editing || isLocked(effectiveConfig, "deletePage") ? undefined : handleDeletePage
@@ -295,7 +299,7 @@ export function ViewTabContent({
               }
               completion={completion}
               onComplete={
-                !editing || isLocked(effectiveConfig, "editRowValues")
+                !completing || isLocked(effectiveConfig, "editRowValues")
                   ? undefined
                   : (value) => handleComplete(page, value)
               }

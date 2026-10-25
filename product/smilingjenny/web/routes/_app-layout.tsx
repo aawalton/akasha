@@ -46,7 +46,7 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
   useLoaderFollowing(READ)
   return (
     <AuthProvider reader={loaderData.reader} accountId={loaderData.accountId}>
-      <AppEditingProvider editing={false}>
+      <AppEditingProvider editing={false} completing>
         <AppShell
           brand={loaderData.brand}
           signedIn={loaderData.signedIn}
