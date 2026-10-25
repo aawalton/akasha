@@ -73,12 +73,22 @@ function holdingCacheLock(who: string, body: readonly string[]): readonly string
   ]
 }
 
+const FETCH_TRIES = 6
+
+const FETCH_PAUSE_SECONDS = 5
+
+function fetchedAgain(fetching: string): string {
+  const stop = `[ "$tried" -lt ${FETCH_TRIES} ] || exit 1`
+  const pause = `sleep $((tried * ${FETCH_PAUSE_SECONDS}))`
+  return `{ tried=0; until ${fetching}; do tried=$((tried + 1)); ${stop}; ${pause}; done; }`
+}
+
 function checkoutSteps(sha: string): readonly string[] {
   return [
     LEFT_LOCKS_CLEARED,
     `trap "${LEFT_LOCKS_CLEARED}" EXIT INT TERM`,
     `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
-    "git fetch origin main",
+    fetchedAgain("git fetch origin main"),
     `git reset --hard ${sha}`,
   ]
 }

@@ -191,6 +191,12 @@ test("a deploy's checkout and build are one hold of the lock init-build holds", 
   )
 })
 
+test("a deploy's fetch the git service dropped is made again after a longer pause each time", () => {
+  const script = webCheckoutAndBuild(PACKAGE, ELSEWHERE)
+  expect(script).toContain("until git fetch origin main; do tried=$((tried + 1))")
+  expect(script).toContain('[ "$tried" -lt 6 ] || exit 1; sleep $((tried * 5))')
+})
+
 function locksLeft(cache: Cache): readonly string[] {
   const left = ["HEAD.lock", "index.lock"].map((one) => join(cache.repo, ".git", one))
   for (const one of left) writeFileSync(one, "", "utf8")

@@ -79,6 +79,15 @@ export const orchestratorCache = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A deploy's fetch the git service dropped is made again after a pause.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each pause is longer than the one before, and a fetch past six tries stops the build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Every lock git left in the checkout goes once that lock is held, before git runs.",
     },
@@ -116,5 +125,5 @@ export const orchestratorCache = {
     },
   ],
   createdAt: "2026-09-03T12:19:38.524Z",
-  updatedAt: "2026-10-08T18:14:28.519Z",
+  updatedAt: "2026-10-25T22:18:39.404Z",
 } as const satisfies Module
