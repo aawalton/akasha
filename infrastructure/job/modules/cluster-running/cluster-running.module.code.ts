@@ -75,6 +75,8 @@ const KEPT_SECONDS = 3600
 
 const DEADLINE_SECONDS = 3600
 
+const HELD_AT_LEAST = "6Gi"
+
 const UNCONFINED = "Unconfined"
 
 const ON_NODE = "spec.nodeName"
@@ -201,7 +203,8 @@ function jobFor(
   keptAt: string | null,
   account: string | null,
   deadline: number,
-  mirroredAt: string | null
+  mirroredAt: string | null,
+  memory: string
 ): ApiObjectManifest {
   return {
     apiVersion: "batch/v1",
@@ -209,10 +212,10 @@ function jobFor(
     metadata: { name, namespace: JOB_NAMESPACE },
     spec: {
       backoffLimit: 0,
-      activeDeadlineSeconds: deadline,
       ttlSecondsAfterFinished: KEPT_SECONDS,
       template: {
         spec: {
+          activeDeadlineSeconds: deadline,
           nodeSelector: workloadClassMemberSelector(CLASS),
           affinity: {
             nodeAffinity: {
@@ -256,7 +259,7 @@ function jobFor(
                 ...mirrorMounted(mirroredAt),
               ],
               resources: {
-                requests: { cpu: "2", memory: "6Gi" },
+                requests: { cpu: "2", memory },
                 limits: { cpu: "30", memory: "48Gi" },
               },
             },
@@ -273,9 +276,10 @@ export function jobYamlFor(
   keptAt: string | null = null,
   account: string | null = deployAccount.slug,
   deadline: number = DEADLINE_SECONDS,
-  mirroredAt: string | null = null
+  mirroredAt: string | null = null,
+  memory: string = HELD_AT_LEAST
 ): string {
-  const job = jobFor(name, script, keptAt, account, deadline, mirroredAt)
+  const job = jobFor(name, script, keptAt, account, deadline, mirroredAt, memory)
   return synthOne(JOB_NAMESPACE, name, job)
 }
 

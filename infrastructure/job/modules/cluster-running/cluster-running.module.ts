@@ -236,6 +236,18 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That time is counted on the job's pod from when a node takes it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job waiting for a node with room spends none of the time it may run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The memory a job reserves is its caller's to say, and 6Gi where none says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A job reserves what one run needs and may take what the fastest node has spare.",
     },
     {
@@ -350,6 +362,6 @@ export const clusterRunning = {
       statement: "A tree naming no commit of its own asks for every commit, however much it holds.",
     },
   ],
-  updatedAt: "2026-10-24T23:24:15.110Z",
+  updatedAt: "2026-10-25T21:16:56.904Z",
   createdAt: "2026-09-16T15:05:01.599Z",
 } as const satisfies Module

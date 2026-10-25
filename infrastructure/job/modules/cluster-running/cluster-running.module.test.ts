@@ -170,8 +170,11 @@ test("a job that failed is not run again by the cluster", () => {
   expect(jobYamlFor(NAME, SCRIPT)).toContain("backoffLimit: 0")
 })
 
-test("a job bounds what that job carries", () => {
-  expect(jobYamlFor(NAME, SCRIPT)).toContain("activeDeadlineSeconds")
+test("a job's clock and memory sit on its pod, at what its caller names", () => {
+  const said = jobYamlFor(NAME, SCRIPT, null, null, 900, null, "16Gi")
+  expect(said.indexOf("activeDeadlineSeconds: 900")).toBeGreaterThan(said.indexOf("template:"))
+  expect(said).toContain("memory: 16Gi")
+  expect(jobYamlFor(NAME, SCRIPT)).toContain("memory: 6Gi")
 })
 
 test("the key a job decrypts a secret with is handed in from a secret", () => {
