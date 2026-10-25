@@ -7,7 +7,7 @@ export const loveOnTheDanubeLoveSong = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/love-on-the-danube"],
-  position: 0,
+  position: 1,
   publishedAt: "2024-09-10",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const loveOnTheDanubeLoveSong = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:35.367Z",
-  updatedAt: "2026-10-25T19:47:35.367Z",
+  updatedAt: "2026-10-25T20:45:28.240Z",
 } as const satisfies Movie

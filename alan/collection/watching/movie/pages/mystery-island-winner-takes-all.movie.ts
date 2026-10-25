@@ -7,7 +7,7 @@ export const mysteryIslandWinnerTakesAll = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/mystery-island"],
-  position: 1,
+  position: 2,
   publishedAt: "2025-03-13",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const mysteryIslandWinnerTakesAll = {
     "Philo",
   ],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-25T20:45:28.240Z",
 } as const satisfies Movie

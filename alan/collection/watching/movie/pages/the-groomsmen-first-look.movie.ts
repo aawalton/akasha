@@ -7,7 +7,7 @@ export const theGroomsmenFirstLook = {
   ownLength: 83,
   ownProgress: 0,
   partOfCollections: ["franchise/the-groomsmen"],
-  position: 0,
+  position: 1,
   publishedAt: "2024-10-17",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const theGroomsmenFirstLook = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:35.367Z",
-  updatedAt: "2026-10-25T19:47:35.367Z",
+  updatedAt: "2026-10-25T20:45:28.240Z",
 } as const satisfies Movie

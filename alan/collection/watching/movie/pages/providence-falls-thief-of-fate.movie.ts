@@ -7,10 +7,10 @@ export const providenceFallsThiefOfFate = {
   ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["franchise/providence-falls"],
-  position: 3,
+  position: 4,
   status: "not-started",
   unit: "unit/minutes",
   title: "Providence Falls: Thief of Fate",
   createdAt: "2026-10-25T19:47:35.367Z",
-  updatedAt: "2026-10-25T19:47:35.367Z",
+  updatedAt: "2026-10-25T20:45:28.240Z",
 } as const satisfies Movie

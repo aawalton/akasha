@@ -7,7 +7,7 @@ export const heartsAroundTheTableJennaSFirstLove = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/hearts-around-the-table"],
-  position: 0,
+  position: 1,
   publishedAt: "2025-03-22",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const heartsAroundTheTableJennaSFirstLove = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:35.367Z",
-  updatedAt: "2026-10-25T19:47:35.367Z",
+  updatedAt: "2026-10-25T20:45:28.240Z",
 } as const satisfies Movie

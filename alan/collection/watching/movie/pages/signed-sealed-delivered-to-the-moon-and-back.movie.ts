@@ -7,7 +7,7 @@ export const signedSealedDeliveredToTheMoonAndBack = {
   ownLength: 110,
   ownProgress: 0,
   partOfCollections: ["franchise/signed-sealed-delivered"],
-  position: 15,
+  position: 16,
   publishedAt: "2025-04-26",
   status: "not-started",
   unit: "unit/minutes",
@@ -37,5 +37,5 @@ export const signedSealedDeliveredToTheMoonAndBack = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:35.367Z",
-  updatedAt: "2026-10-25T19:47:35.367Z",
+  updatedAt: "2026-10-25T20:45:28.240Z",
 } as const satisfies Movie
