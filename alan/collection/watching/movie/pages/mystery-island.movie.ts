@@ -7,7 +7,7 @@ export const mysteryIsland = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/mystery-island"],
-  position: 0,
+  position: 1,
   publishedAt: "2023-09-29",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const mysteryIsland = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:27.269Z",
-  updatedAt: "2026-10-25T19:47:27.269Z",
+  updatedAt: "2026-10-25T20:45:25.537Z",
 } as const satisfies Movie

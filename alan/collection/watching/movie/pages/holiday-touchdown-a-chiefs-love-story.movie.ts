@@ -7,7 +7,7 @@ export const holidayTouchdownAChiefsLoveStory = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/holiday-touchdown"],
-  position: 0,
+  position: 1,
   publishedAt: "2024-11-30",
   status: "not-started",
   unit: "unit/minutes",
@@ -36,5 +36,5 @@ export const holidayTouchdownAChiefsLoveStory = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:27.269Z",
-  updatedAt: "2026-10-25T19:47:27.269Z",
+  updatedAt: "2026-10-25T20:45:25.537Z",
 } as const satisfies Movie

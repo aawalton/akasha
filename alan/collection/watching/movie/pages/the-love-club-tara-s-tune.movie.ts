@@ -7,7 +7,7 @@ export const theLoveClubTaraSTune = {
   ownLength: 85,
   ownProgress: 0,
   partOfCollections: ["franchise/the-love-club"],
-  position: 3,
+  position: 4,
   publishedAt: "2023-02-23",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const theLoveClubTaraSTune = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:27.269Z",
-  updatedAt: "2026-10-25T19:47:27.269Z",
+  updatedAt: "2026-10-25T20:45:25.537Z",
 } as const satisfies Movie

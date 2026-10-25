@@ -7,7 +7,7 @@ export const signedSealedDeliveredATaleOfThreeLetters = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/signed-sealed-delivered"],
-  position: 14,
+  position: 15,
   publishedAt: "2024-07-12",
   status: "not-started",
   unit: "unit/minutes",
@@ -37,5 +37,5 @@ export const signedSealedDeliveredATaleOfThreeLetters = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:35.367Z",
-  updatedAt: "2026-10-25T19:47:35.367Z",
+  updatedAt: "2026-10-25T20:45:25.537Z",
 } as const satisfies Movie

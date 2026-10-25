@@ -7,7 +7,7 @@ export const auroraTeagardenMysteriesSomethingNew = {
   ownLength: 84,
   ownProgress: 0,
   partOfCollections: ["franchise/aurora-teagarden-mystery"],
-  position: 18,
+  position: 19,
   publishedAt: "2023-06-09",
   status: "not-started",
   unit: "unit/minutes",
@@ -32,5 +32,5 @@ export const auroraTeagardenMysteriesSomethingNew = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:27.269Z",
-  updatedAt: "2026-10-25T19:47:27.269Z",
+  updatedAt: "2026-10-25T20:45:25.537Z",
 } as const satisfies Movie

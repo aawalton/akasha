@@ -7,7 +7,7 @@ export const curiousCatererFoiledPlans = {
   ownLength: 86,
   ownProgress: 0,
   partOfCollections: ["franchise/the-curious-caterer"],
-  position: 3,
+  position: 4,
   publishedAt: "2024-04-26",
   status: "not-started",
   unit: "unit/minutes",
@@ -31,5 +31,5 @@ export const curiousCatererFoiledPlans = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:35.367Z",
-  updatedAt: "2026-10-25T19:47:35.367Z",
+  updatedAt: "2026-10-25T20:45:25.537Z",
 } as const satisfies Movie
