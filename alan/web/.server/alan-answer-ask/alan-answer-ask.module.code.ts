@@ -89,7 +89,7 @@ function rowSeen(row: unknown): unknown {
   return { ...held, [CONVERSATION]: saidOnly(conversation) }
 }
 
-export function answerSeenBy(person: string | null, answer: unknown): unknown {
+function answerSeenBy(person: string | null, answer: unknown): unknown {
   if (person === SEES_THE_WORK) return answer
   const held = objectIn(answer)
   const rows = held?.rows
