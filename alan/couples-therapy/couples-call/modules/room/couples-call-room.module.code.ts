@@ -3,11 +3,13 @@ import {
   bytesOf,
 } from "akasha/agent/seat/voice/modules/setup/seat-voice-setup.module.code.ts"
 import {
+  bytesOfSamples,
   dequeued,
   doubled,
   emptied,
   FRAME_MS,
   FRAME_SAMPLES,
+  HEARD_RATE,
   LEG_RATE,
   mixed,
   muLawOfSamples,
@@ -240,8 +242,8 @@ function batchSent(room: Room): undefined {
     at += one.length
   }
   room.heardBatch = []
-  const data = base64Of(new Uint8Array(batch.buffer))
-  sentLive(room, { realtimeInput: { audio: { data, mimeType: "audio/pcm;rate=16000" } } })
+  const data = base64Of(bytesOfSamples(batch))
+  sentLive(room, { realtimeInput: { audio: { data, mimeType: `audio/pcm;rate=${HEARD_RATE}` } } })
 }
 
 function framed(room: Room): undefined {

@@ -63,7 +63,12 @@ export const couplesCallRoom = {
       decisionKind: "decision-kind/departure",
       statement: "Sound is paced to the clock, a frame per leg every 20 milliseconds.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Sound sent to the therapist is little-endian samples at the rate the audio names.",
+    },
   ],
   createdAt: "2026-10-24T20:51:01.335Z",
-  updatedAt: "2026-10-24T22:59:31.868Z",
+  updatedAt: "2026-10-25T21:30:55.476Z",
 } as const satisfies Module
