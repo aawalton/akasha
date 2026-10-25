@@ -3,7 +3,7 @@ import type { SeatNotice } from "akasha/person/properties/seat-notice.select-pro
 
 export type Notice = SeatNotice
 
-export type Noticed = { readonly seat: string; readonly notice: Notice }
+type Noticed = { readonly seat: string; readonly notice: Notice }
 
 const NOTICES: readonly string[] = seatNotice.values
 
@@ -17,7 +17,7 @@ export function isNotice(held: unknown): held is Notice {
   return typeof held === "string" && NOTICES.includes(held)
 }
 
-export function noticesIn(held: unknown): readonly Noticed[] {
+function noticesIn(held: unknown): readonly Noticed[] {
   if (!Array.isArray(held)) return []
   const kept: Noticed[] = []
   for (const one of held) {
