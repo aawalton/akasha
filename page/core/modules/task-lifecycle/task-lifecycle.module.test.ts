@@ -61,6 +61,12 @@ test("a collection stating no length of its own reads as done where it is stampe
   expect(readsAsDone(COLLECTION_SHAPE, {})).toBe(false)
 })
 
+test("a collection stating a length of nothing reads as done only where it is stamped", () => {
+  expect(readsAsDone(COLLECTION_SHAPE, { ownLength: 0, ownProgress: 0 })).toBe(false)
+  const stamped = { ownLength: 0, ownProgress: 0, completedAt: "2026-09-06T22:00:00.000Z" }
+  expect(readsAsDone(COLLECTION_SHAPE, stamped)).toBe(true)
+})
+
 test("a checked collection reads as done and an unchecked one reads as not done", () => {
   const held = { ownLength: 12, ownProgress: 5 }
   const checked = { ...held, ...completionValues(COLLECTION_SHAPE, held, AT) }

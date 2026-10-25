@@ -75,6 +75,10 @@ export const taskLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A collection stating a length of nothing has no length of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A collection read partway reads as the share of its own length its progress is.",
     },
     {
@@ -112,5 +116,5 @@ export const taskLifecycle = {
     },
   ],
   createdAt: "2026-09-01T06:05:33.511Z",
-  updatedAt: "2026-10-19T13:06:13.663Z",
+  updatedAt: "2026-10-25T20:32:07.215Z",
 } as const satisfies Module
