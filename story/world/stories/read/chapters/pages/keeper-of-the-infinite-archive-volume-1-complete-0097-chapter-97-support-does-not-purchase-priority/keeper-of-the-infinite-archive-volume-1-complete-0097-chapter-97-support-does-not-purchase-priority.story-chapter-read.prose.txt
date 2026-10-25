@@ -1,0 +1,301 @@
+Bart sat at the Patron Services desk, staring at a suspended interface tab.
+
+The catalogue treated the string as a destination record, but that was almost the limit of Bart's understanding.
+
+⟦Δ17 ⇄ Δ23 · 4/9 · Λ06.16 · ⊥2⟧
+
+He could not tell what the individual symbols represented or how the values related to one another. He had spent  about 12 minutes comparing the record against surviving references to legacy boundary-relative indexing without finding an interpretation guide.
+
+In the corner of his screen, a separate alert pulsed quietly, pulling his attention away from the puzzle.
+
+PROJECTED FUNDED OPERATING PERIOD AT CURRENT EXPENDITURE: 20 ARCHIVE DAYS
+
+Bart stared at the pulsing number and closed the notation tab.
+
+Gregor, currently organising a stack of returned folios, noticed it.
+
+“You are not going to figure out what the strange symbols mean?” Gregor asked.
+
+“Eventually,I hope” Bart said.
+
+“You looked very invested.”
+
+“I am,” Bart said, picking up his stylus. “But payroll is considerably more immediate.”
+
+The mystery could wait but the institution could not.
+
+Nell arrived from the back office, carrying her clipboard and a freshly printed summary. She looked every bit a librarian who had finally finished reconciling her circulation data.
+
+She placed the document on the counter, turning it so Bart could read it.
+
+POST-RUIN SERVICE SUMMARY
+
+PARTNER INSTITUTIONS WITH SERVICEABLE REQUESTS: 5
+
+REQUESTS MADE SERVICEABLE THROUGH RESTORED ACCESS: 19
+
+REFERENCE QUERIES COMPLETED: 14
+
+LEGACY INTERLIBRARY REQUESTS REVALIDATED: 27
+
+BLOCKED DEMAND COLLECTION CLUSTERS MAPPED: 1
+
+“You asked who benefits from the Archive being open,” Nell said, tapping the paper with a green finger.
+
+Bart nodded, scanning the metrics.
+
+“Now we know,” Nell said.
+
+Bart looked at the five active external partners. “Does benefiting from the Archive create an obligation for them to fund it?”
+
+“No,i doubt that” Nell said immediately. “It does, however, create a very compelling reason for us to ask.”
+
+It was the correct distinction. The Archive was a neutral repository, not a toll road. They could not demand payment in exchange for knowledge. But they desperately needed to transition away from a single, temporary Tremendian endowment.
+
+Bart accessed the Archive’s surviving institutional records. He did not search for a magical gold reserve but an administrative precedent.
+
+“System,” Bart ordered. “Provide the pre-Ruin operational framework for shared multiversal services.”
+
+The interface chimed and produced a clean, highly structured document that had survived the collapse of the old network.
+
+RECIPROCAL INSTITUTIONAL SUPPORT
+
+PURPOSE: Preservation of common archival service capacity
+
+PERMITTED SUPPORT: Financial / personnel / materials / technical expertise / preservation services / transport capacity
+
+ACCESS PRIORITY IN EXCHANGE: PROHIBITED
+
+COLLECTION CONTROL IN EXCHANGE: PROHIBITED
+
+STAFFING AUTHORITY IN EXCHANGE: PROHIBITED
+
+RESEARCH OUTCOME INFLUENCE: PROHIBITED
+
+PUBLIC DISCLOSURE: REQUIRED
+
+The old Archive had not operated as a pay to access hierarchy where wealthy academies bought the right to skip the queue. It had operated as critical public infrastructure. Institutions that relied on the Archive simply contributed toward maintaining the shared service they all used.
+
+It matched perfectly with the strict neutrality terms that Bart had made Tremendia already agree.
+
+Nell leaned over to read the list.
+
+“So they could give us money, staff and materials” Nell observed.
+
+“Yes, thats the good part” Bart said.
+
+Nell pointed to the third line. “And none of that moves their requests up the queue?”
+
+Bart looked mildly offended. “Absolutely not.”
+
+The corner of Nell's mouth lifted. “I just wanted to hear you say it.”
+
+The precedent existed, but the practical problem remained: who exactly was Bart supposed to ask? He could not attach a fundraising appeal to the 18,441 legacy interlibrary requests sitting in the queue. That would look more like a ransom demand, violating the entire spirit of neutral service.
+
+“We only approach institutions with a demonstrated, current reliance on our operations,” Nell suggested. “Not individual patrons. And not dormant accounts.”
+
+Together, they established the outreach criteria.
+
+SUSTAINABILITY OUTREACH - INITIAL ELIGIBILITY
+
+Current verified institutional relationship
+
+Demonstrated current reliance on Archive service
+
+Contactable authorised representative
+
+Contribution must not affect access priority
+
+No support request attached to a specific pending loan
+
+Bart reviewed the final line and highlighted it for emphasis.
+
+“We do not send a funding request in the same box as a book,” Bart stated firmly.
+
+“Agreed,” Nell said.
+
+“Or immediately after telling them a specific book is available.”
+
+“Also agreed,” Nell said. “It is a conversation, not a transaction.”
+
+Gregor, listening from the end of the counter, raised a hand. “What if the book they want is very expensive?”
+
+Bart and Nell spoke in perfect unison. “No. thats no how a library functions”
+
+Applying the criteria, they identified three initial outreach targets. They did not invent new institutional relationships; they relied on the ones they had already earned.
+
+The first was the Silver Spire. They had already recognised the Archive as an external repository and declared it eligible for interlibrary partnership, and they were actively utilising research access.
+
+The second was Tessera's municipal administration. The Archive already had an active institutional relationship with the Municipal Bureau of Civic Geometry & Public Wayfinding through Chief Surveyor Harold Truepath.
+
+The third was the North Mere Municipal Consortium. Talven Civic Library, Nell's previous institution, belonged to the consortium, and several North Mere requests had just been made serviceable through the newly restored Wing C access.
+
+Bart looked at Nell. “You worked for them.”
+
+“I did just before” Nell said.
+
+“Would contacting them create a conflict?”
+
+Nell considered it. “Not if you contact the consortium directly through the institutional channel and I stay completely out of the negotiation.”
+
+Bart just nodded.
+
+They did not include Tremendia as it was already funding 100% of the current reserve. The entire goal was to reduce that concentration before the 20 days expired.
+
+Bart opened a blank form and began drafting the formal notice.
+
+INFINITE ARCHIVE - INSTITUTIONAL SUPPORT ENQUIRY
+
+The Archive is currently providing recognised reference, interlibrary, repository, and collection-access services across multiple jurisdictions. Current operations are funded through a temporary, single jurisdiction reserve.
+
+Institutions currently relying on Archive services may elect to discuss voluntary support toward shared service capacity.
+
+Contributions do not purchase:
+
+Support may include:
+
+Bart meticulously aligned the points, ensuring the prohibitions were unambiguous.
+
+Nell read over the draft and raised an eyebrow.
+
+“You have stated the same restriction twice in slightly different ways,” Nell pointed out.
+
+“That is correct,” Bart said.
+
+“Do you genuinely think both are necessary?”
+
+Bart considered every king, ambitious academic, and demanding government representative / entities he had encountered since becoming Keeper.
+
+“Yes to make it doubly sure” Bart said.
+
+He dispatched the notices through the External Liaison Network.
+
+The first response arrived approximately 18 minutes later.
+
+NORTH MERE MUNICIPAL CONSORTIUM
+
+Bart glanced at Nell. “You said you were staying out of this.”
+
+“I am,” Nell said.
+
+“They replied within 18 minutes.”
+
+“North Mere has high service standards.”
+
+“For funding enquiries?”
+
+“For any correspondence.”
+
+Bart looked at the response again. 18 minutes. He was beginning to understand Talven Civic.
+
+PROPOSED SUPPORT: RECIPROCAL PROFESSIONAL CAPACITY
+
+SERVICE ALLOCATION: 16 STAFF HOURS PER 30 ARCHIVE DAYS
+
+TERM: PROVISIONAL
+
+SPECIALISM: Reference triage / catalogue reconciliation / interlibrary correspondence
+
+ACCESS SCOPE: NON RESTRICTED PROFESSIONAL SERVICES QUEUE ONLY
+
+ACCESS PRIORITY REQUESTED: NONE
+
+North Mere was offering to take a portion of the Archive's routine professional backlog through a restricted service queue, freeing Nell to focus on complex reference work and collection mapping.
+
+The Tessera response arrived mid afternoon. Harold Truepath had forwarded the request through Tessera's municipal administration. The message was characteristically structured, explaining that the city could not immediately allocate discretionary cash under their current municipal budget rules.
+
+However, they could offer something else. The approved response assigned limited time from a municipal records preservation specialist.
+
+PROPOSED SUPPORT:
+
+SERVICE ALLOCATION: 24 PROFESSIONAL HOURS PER 30 ARCHIVE DAYS
+
+TERM: PROVISIONAL
+
+SPECIALISM: Archival condition assessment / records preservation / fragile material handling
+
+ACCESS PRIORITY REQUESTED: NONE
+
+Bart stared at the screen. He immediately opened the previous day's Wing C retrieval manifest, finding the entry for the fragile text Gregor had left on the shelf.
+
+CONDITION ASSESSMENT REQUIRED
+
+Bart looked back at the Tessera offer. He realised, with quiet satisfaction, that this might really come in handy.
+
+Nell read the offer over his shoulder. “That does not seem to extend our payroll.”
+
+“It does not,” Bart agreed.
+
+“But it means we do not have to hire that specific capability ourselves immediately.”
+
+Bart looked at the 20 day forecast sitting in the corner of his screen. “Which extends what our current payroll can accomplish.”
+
+A third notification chimed. The Silver Spire had responded. They were not offering an immediate commitment. They were an elite academic institution, and they required data.
+
+REQUEST FOR REVIEW
+
+Please provide:
+
+REPORTING BASIS: ARCHIVE STANDARD TIME
+
+Nell looked at the list of demands.
+
+“They want a budget,” Nell said.
+
+“We have a budget,” Bart replied.
+
+“On the contrary we have a countdown,” Nell corrected.
+
+Bart intensely disliked the distinction, primarily because it was accurate.
+
+“We are going to need somebody independent to look at this before we send it,” Nell observed, studying the Spire’s demands for governance safeguards and multi year projections.
+
+Bart thought immediately of a retired dragon who visited the gardening section often to read about tomatoes. He did not reply to the Spire yet. Instead, he formally accepted the North Mere and Tessera offers, instructing the System to register the new operating reality.
+
+The interface expanded the existing contribution record into the restored consortium framework.
+
+RECIPROCAL INSTITUTIONAL SUPPORT FRAMEWORK: REACTIVATED- LIMITED
+
+ACTIVE SUPPORTING INSTITUTIONS: 3
+
+Tremendia - Financial operating reserve
+
+Tessera - Preservation professional services
+
+North Mere - Library professional services
+
+CASH FUNDING CONCENTRATION: 100% TREMENDIA
+
+OPERATIONAL SUPPORT SOURCE CONCENTRATION: REDUCED
+
+SUSTAINABILITY STATUS: INSUFFICIENT
+
+It was an honest assessment. The System did not magically declare the financial crisis solved. They had merely taken the first steps to being operational again.
+
+Nell looked at the final line. “Insufficient.”
+
+“It is accurate,” Bart said.
+
+“You seem much happier about that word than most people would be.”
+
+Bart looked at the list of supporting institutions. “Yesterday it was only one.”
+
+Nell smiled. She tapped the Silver Spire’s pending request on his screen, bringing the final required item to the centre of the display.
+
+REQUIRED: THREE-YEAR OPERATING PROJECTION
+
+REPORTING BASIS: ARCHIVE STANDARD TIME
+
+Bart stared at it. The old Archive could have produced a three-year projection in seconds. The current Archive barely knew what the floor in Sector 9 looked like let alone what it will require to bring it into operation.
+
+Bart looked at the corner of his screen.
+
+PROJECTED FUNDED OPERATING PERIOD AT CURRENT EXPENDITURE: 20 ARCHIVE DAYS
+
+“20 days,” Bart whispered.
+
+Nell considered this for a moment,
+
+“Then we have some extrapolating to do,” she said cheerfully.
+
+Bart just closed his eyes.

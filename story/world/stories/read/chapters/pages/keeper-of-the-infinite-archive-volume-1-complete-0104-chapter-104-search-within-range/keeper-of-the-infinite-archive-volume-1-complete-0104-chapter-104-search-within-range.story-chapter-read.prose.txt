@@ -1,0 +1,241 @@
+Bart immediately submitted the query parameters. The Archive, however, did not accept chronological assumptions lightly.
+
+TIME STANDARD REQUIRED
+
+AVAILABLE:
+
+Gregor leaned over the desk. “We know when it happened.”
+
+“We know the order in which it happened,” Bart corrected.
+
+It was a crucial distinction. Time flowed differently across the infinite realities connected to the Archive. A local timestamp was useless without knowing the specific realm it belonged to.
+
+Bart selected ROUTING-NETWORK EVENT ORDER.
+
+He then established deliberately broad parameters. He did not search for “when Keeper #4,091 went somewhere,” because that would trigger the System’s protective lockdown.
+
+SEARCH WINDOW
+
+START: 30 NETWORK-MINUTES BEFORE CONTINUITY TRANSFER AUTHORISATION
+
+END: 30 NETWORK-MINUTES AFTER LAST CONFIRMED TRANSIT EVENT
+
+DESTINATION FILTER: NONE
+
+REFERENCE FILTER: NONE
+
+QUALIFIER FILTER: NONE
+
+“That seems very broad,” Gregor noted.
+
+“That is intentional,” Bart replied.
+
+He executed the query.
+
+HISTORICAL REFERENCE-STATE EVENTS: 3,842
+
+COMPLETE RECORDS: 2,917
+
+PARTIAL RECORDS: 611
+
+UNRESOLVED LEGACY RECORDS: 314
+
+Gregor looked at Bart. “That is not useful at all”
+
+“It is considerably more useful,” Bart said. He did not complain about the volume of data; he simply began narrowing it procedurally, using thel rules he had established earlier.
+
+“System,” Bart ordered. “Filter results by event type: Reference State Evaluation. Filter by routing use: Confirmed. Filter by reference count: Two or more independent dynamic references.”
+
+The interface processed the constraints.
+
+MATCHING EVENTS: 47
+
+It was a substantial improvement but Bart also knew there were two confirmed successful routing outcomes strictly relevant to their sequence: the continuity transfer delivery, and #4,091’s own transit completion.
+
+He had to be careful not to query either destination directly.
+
+“System,” Bart said. “Among these 47 reference-state events, identify events that supported more than one successful route validation during the selected window. Do not return destination identities.”
+
+QUERY PERMITTED
+
+MATCHING REFERENCE-STATE EVENTS: 3
+
+The list was resolved into three classifications.
+
+EVENT RSE-1182
+
+VALIDITY DURATION: 02:11
+
+SUCCESSFUL ROUTE VALIDATIONS: 4
+
+SCALE: MUNICIPAL
+
+EVENT RSE-2217
+
+VALIDITY DURATION: 19:44
+
+SUCCESSFUL ROUTE VALIDATIONS: 31
+
+SCALE: INTER-REGIONAL
+
+EVENT RSE-3942
+
+VALIDITY DURATION: 08:37
+
+SUCCESSFUL ROUTE VALIDATIONS: 2
+
+SCALE: [LEGACY CLASSIFICATION]
+
+Gregor immediately pointed a thick finger at the final entry. “That one.”
+
+Bart stopped him. “Two validations are suggestive.”
+
+“There were only  two.”
+
+“There were two that we know about,” Bart corrected.
+
+He refused to rely on intuition he already possessed the exact event-order markers for the two transits.
+
+“System,” Bart said. “For each candidate, compare its validity interval against the event markers for the continuity transfer delivery confirmation and the Keeper transit completion. Do not disclose any associated destination or reference identity.”
+
+He was comparing time overlap, not protected attributes. The Archive found the logic acceptable.
+
+RSE-1182
+
+OVERLAP - CONTINUITY TRANSFER DELIVERY: NO
+
+OVERLAP - KEEPER TRANSIT COMPLETION: NO
+
+RSE-2217
+
+OVERLAP - CONTINUITY TRANSFER DELIVERY: YES
+
+OVERLAP - KEEPER TRANSIT COMPLETION: NO
+
+RSE-3942
+
+OVERLAP - CONTINUITY TRANSFER DELIVERY: YES
+
+OVERLAP - KEEPER TRANSIT COMPLETION: YES
+
+Silence fell over the Patron Services desk.
+
+There was one vital question remaining about the timing.
+
+“Was RSE-3942 one continuous validity event?” Bart asked.
+
+YES
+
+STATE TRANSITION: UNSATISFIED → SATISFIED
+
+CONTINUOUS VALIDITY: CONFIRMED
+
+STATE TRANSITION: SATISFIED → UNSATISFIED
+
+The delivery of the continuity transfer and Keeper #4,091’s transit completion had both occurred inside the same uninterrupted state window.
+
+“So he didn't wait for it twice,” Gregor said.
+
+“We know he did not require two separate validity events,” Bart corrected looking on at the evidence.
+
+He commanded the System to overlay his known chronology against the continuous event, extracting a visual map of what had actually occurred.
+
+REFERENCE-STATE EVENT RSE-3942
+
+VALIDITY OPENS
+
+↓
+
+CONTINUITY TRANSFER - DELIVERY CONFIRMED
+
+↓
+
+DESTINATION AMENDMENT - RECORDED
+
+↓
+
+KEEPER #4,091 - TRANSIT COMPLETION
+
+↓
+
+VALIDITY CLOSES
+
+Bart stared at the rebuilt sequence.
+
+The sequence completely recontextualized Keeper #4,091’s actions. He had not simply thrown a crate into the void and fled. He had sent the continuity transfer through first. He had obtained confirmation that it had safely arrived.
+
+Then, while the exact same validity window remained open, he had redirected himself to follow it.
+
+Gregor saw the practical implication instantly. “He sent something through before he went and waited until it arrived safely.”
+
+Bart looked at the sequence on the screen. “The records do establish delivery confirmation before his destination amendment.”
+
+It was a remarkably strong inference, but he refused to state it as absolute fact.
+
+“It is consistent with that at least," Bart finally said.
+
+“You have become very difficult to talk to,” Gregor grumbled.
+
+“System,” Bart said. “What was the exact duration of event RSE-3942?”
+
+TOTAL CONTINUOUS VALIDITY: 41 MINUTES, 12 SECONDS - NETWORK STANDARD
+
+“41 minutes,You can do a lot in 41 minutes.” Gregor mumbled
+
+It was a finite, highly specific operational opportunity. It had opened, remained valid for less than an hour, and closed behind him.
+
+Bart naturally tried the most tempting question.
+
+“What caused the event RSE-3942?”
+
+QUERY REQUIRES REFERENCE IDENTITIES OR PROTECTED RELATIONAL ATTRIBUTES
+
+ACCESS DENIED
+
+The refusal was entirely expected, and for the first time in weeks, it was not frustrating. The query had already delivered a substantial answer; he did not need it to break its own security protocols.
+
+He could not ask what references caused the event. But he could ask a general historical question about the event itself.
+
+“Was RSE-3942 independently observed by any system other than the Archive routing network?” Bart asked.
+
+A large relational state event capable of shifting a routing destination might have left an impression elsewhere.
+
+EXTERNAL EVENT CORRELATION: AVAILABLE
+
+REGISTERED OBSERVATIONAL SOURCES: 4
+
+SURVIVING RECORDS: 2
+
+SOURCE A: LEGACY ROUTING-NETWORK OBSERVATORY
+
+SOURCE B: INFINITE ARCHIVE - STRUCTURAL / BOUNDARY TELEMETRY
+
+Bart stared at the second source.Ada, who had been watching the display quietly from the edge of the desk, leaned forward.
+
+“The Archive recorded it,” Bart said.
+
+“Not as a destination?” Ada asked.
+
+“As something that happened to its boundaries,” Bart said.
+
+Before Bart could immediately interrogate the telemetry records, Nell approached the counter carrying a thick folder.
+
+“Silver Spire replied,” Nell said, placing the folder on the brass counter.
+
+Bart looked from the historical event screen to the physical folder. For a fraction of a second, his instinct was to ignore it. The mystery of the continuous validity window was pulling him forward.
+
+He stopped himself nevertheless. He had spent quite some time learning that the institution could not be run solely around his obsessions.
+
+He looked at Nell. “Urgent?”
+
+“No,” Nell said. “ But it requires a review before tomorrow.”
+
+“Put it in my review queue.”
+
+Nell nodded and moved the folder to his designated tray. Bart did not immediately tear it open.
+
+Gregor was still studying the timeline overlay on the main interface.Then his expression changed. It lost the casual confusion and settled into something much quieter.
+
+“Whatever was in that transfer mattered more than getting himself there,” Gregor said.
+
+Bart did not correct him because, for once, the records supported the conclusion.

@@ -1,0 +1,201 @@
+Bart needed an interpretation schedule  however the Infinite Archive did not possess one.
+
+He sat at the Patron Services desk early the next morning, staring at the empty results of his internal catalogue search. Even though the Archive capacity seemed vast in the past it had apparently lost the specific manual required to decode legacy boundary relative indexing.
+
+He did, however, have a lead. Bernard had encountered the qualifying symbol in old Cawnee municipal records. “System,” Bart said. “Expand query to the External Liaison Network. Search parameters: Cawnee municipal administration, historical survey ledgers, boundary indexing.”
+
+The interface paused as the query routed outward, searching the registered external catalogues reachable through the restored network. Three external references appeared. One holding was registered as destroyed. Another was an incomplete citation from an agricultural dispute.
+
+The third was promising.
+
+CAWNEE MUNICIPAL RECORDS OFFICE
+
+COLLECTION: Historical Survey, Boundary & Transit Administration
+
+HOLDING: Boundary-Relative Survey Standards and Interpretation Schedules, Revised Compilation
+
+CATALOGUE STATUS: VERIFIED
+
+Bart stared at the record. “Of course Bernard's municipality kept the manual.”
+
+Nell, sorting through the morning's interlibrary correspondence, glanced over. “He was an auditor there for two centuries so it's no surprise"
+
+He requested the remote service options, his instinct was to have the information delivered safely to his desk.
+
+REMOTE REFERENCE REQUEST: AVAILABLE
+
+DIGITAL REPRODUCTION: UNAVAILABLE
+
+INTERLIBRARY LOAN: PROHIBITED
+
+REASON: FRAGILE MUNICIPAL RECORD / RESTRICTED HANDLING
+
+EXTRACT REQUEST: LIMITED TO IDENTIFIED ENTRY
+
+FULL SCHEDULE CONSULTATION: ON-SITE ONLY
+
+Bart stared at the final two words longer than was strictly reasonable.
+
+He could not request a specific extract because he did not yet know how the schedule was organised or what the 06 in Λ06.16 represented. He could ask the Cawnee staff to search blindly, but that risked giving an external municipal institution sensitive, #4,091-related information without knowing exactly what he was asking them to find.
+
+“We need the schedule itself,” Bart concluded quietly.
+
+Gregor, arriving at the desk with a cart of processed returns, leaned over to look at the screen.
+
+“Does that mean we have to go there?” Gregor asked.
+
+Bart looked at him. “You do not yet know where we need to go.”
+
+“It is somewhere that isn't here, thats all i am interested in after being stuffed in here a while” Gregor pointed out.
+
+It was an irrefutable argument but leaving the Archive was not a simple proposition. Bart began mentally listing the institutional consequences of his absence.
+
+“If I leave, Patron Services stalls,” Bart said, pulling up his dashboard. “Admissions escalation fails. Interlibrary review stops. Keeper authorisations for …”
+
+Nell let him finish his rant  for another 12 seconds before interrupting.
+
+“Patron Services  can remain operational,” she stated firmly.
+
+Bart looked at her. “But I work here.”
+
+“I am aware,” Nell said. She tapped her stylus counter. “I am at Patron Services. Mabel controls Access and security. Albert manages returns and shelving. Ada holds standing stop-work authority for facilities. Routine retrieval remains within published capacity, and anything requiring Keeper authority can be deferred or escalated.”
+
+“North Mere now also absorbs a portion of routine interlibrary correspondence,” Nell added. “And you remain reachable through the registered channel for actual Keeper only escalation.”
+
+Bart hesitated for a moment and then said,
+
+“System,” Bart ordered. “Assess whether current published service can continue for one standard service period without the Keeper physically present on Archive premises.”
+
+The interface processed the query.
+
+CURRENT PUBLISHED SERVICE: MAINTAINABLE
+
+KEEPER PHYSICAL PRESENCE: NOT REQUIRED
+
+KEEPER REMOTE AVAILABILITY: REQUIRED
+
+NON-ROUTINE AUTHORITY ACTIONS: MAY BE DEFERRED OR ESCALATED
+
+SERVICE CAPACITY REDUCTION: MINOR
+
+“You look offended,” Nell noted.
+
+“I am considering the implications.”
+
+“The implication,” Nell said gently, “is that you successfully hired people who are responsible”
+
+Delegation, Bart discovered, was substantially more uncomfortable than danger. He immediately attempted to compensate by drafting an absurdly detailed absence protocol.
+
+KEEPER OFF-SITE CONTINUITY PLAN - DRAFT 1
+
+Nell watched him enter the text for five minutes, then leaned over and highlighted half the document and proceeded to delete it “You do not need to specify what I should do if a patron returns a book,” Nell said.
+
+“It removes any ambiguity,” Bart argued.
+
+“You do know I am also a librarian,” she reminded him.
+
+Bart reluctantly removed the section titled ORDINARY RETURNS.
+
+He then considered who should travel. He preferred not to navigate an unfamiliar municipal administration without local knowledge, particularly when he intended to evaluate historical records tied to #4,091.Gregor had travelled unfamiliar routes with him before, could handle himself if something went wrong, and judging by his expression, had already decided he was coming.
+
+Then he said out aloud,
+
+“System. Amend the previous continuity assessment. Assume Gregor is also off-site for one standard service period.”
+
+The interface processed the change.
+
+CURRENT PUBLISHED SERVICE: MAINTAINABLE
+
+MANUAL RETRIEVAL CAPACITY: REDUCED
+
+NON-URGENT RETRIEVAL: MAY BE DEFERRED
+
+ROUTE OPERATIONS CAPACITY: REDUCED
+
+PUBLIC SERVICE INTERRUPTION: NOT REQUIRED
+
+Gregor leaned over his shoulder. “Still good to go?”
+
+“Apparently.”
+
+He still needed a local reference though,Bart sent a brief inquiry through the Liaison Network.
+
+REFERENCE CONSULTATION REQUEST
+
+DESTINATION: Cawnee Municipal Records Office
+
+PURPOSE: Legacy boundary-standard research
+
+REQUEST: Local orientation only
+
+Bernard’s reply arrived three minutes later.
+
+AVAILABLE: YES
+
+WARNING: MUNICIPAL ARCHIVES CLOSE EARLY ON  3rd DAY REVIEW CYCLES
+
+ADDITIONAL WARNING: DO NOT USE THE EAST RECORDS ENTRANCE
+
+Gregor frowned at the screen. “Why not the east entrance?”
+
+Bart sent a quick follow-up, followed by an immediate reply,
+
+BERNARD: STAIRS
+
+However, the actual route remained slightly inconvenient. Bernard could not simply portal them directly into the records office. Large Format Patron Access could establish a registered connection to the Cawnee Large Format Transit Terminal on Caelora, but the Municipal Records Office was elsewhere in the city.
+
+ARCHIVE → CAWNEE LARGE-FORMAT TRANSIT TERMINAL
+
+LOCAL CONNECTION REQUIRED
+
+“How far?” Gregor asked.
+
+ESTIMATED TRANSIT TIME: 47 MINUTES
+
+Gregor smiled.
+
+Bart looked at him. “Why are you pleased?”
+
+“I've never been on transit,” Gregor said.
+
+Bart paused. “Neither have I.”
+
+Half an hour later, Bart stood near the doors of Large Format Patron Access, giving Nell final instructions. She already knew them.
+
+“If anything unusual happens …” Bart began.
+
+“I contact you,” Nell said.
+
+“If anything dangerous happens…”
+
+“Ada or Mabel stops it before contacting you.”
+
+“If…”
+
+“Bart.”
+
+He stopped.
+
+Nell smiled, adjusting Gregor’s satchel. “Go look at the book and get some answers”
+
+Bart turned toward the doors. The Archive established the authorised connection to the municipal terminal. The metal panels groaned and parted. They opened onto a wide, sunlit municipal transit concourse. Enormous reinforced platforms stretched outward beneath a vaulted glass ceiling. Multiple species moved efficiently through structured commuter lanes. Mechanical arrival boards clattered overhead. Bernard stood waiting on the other side, holding his case.
+
+Gregor stepped through the threshold first and simply stared at the bustling world with Bart following. The moment both feet crossed the threshold, a small display appeared near his wrist.
+
+KEEPER STATUS: OFF SITE
+
+ARCHIVE PUBLIC SERVICE: ACTIVE
+
+Bart stopped and  turned back looking through the still open doorway.
+
+Nell was already at Patron Services, helping a visiting scholar. Albert pushed a quiet returns trolley down the central aisle. Mabel stood near the admission gates, politely but firmly returning an incomplete application to its increasingly frustrated owner.
+
+Nothing had collapsed as yet, The institution still functioned.
+
+Bart once again looked at the second line of display.
+
+ARCHIVE PUBLIC SERVICE: ACTIVE
+
+Gregor called from the concourse. “Bart are you alright?”
+
+He nodded and let the doors close behind him.

@@ -1,0 +1,295 @@
+The next morning, Bart Sanders sat at the Patron Services desk and discovered that just multiplying was not forecasting.
+
+The Silver Spire had demanded a 3 year operating projection. Bart currently possessed a short run of verified post-Ruin expenditure data, 19 archive days of projected funded operation remaining, one temporary cash funder, two brand new professional support arrangements, dozens of unresolved facilities liabilities, and almost no idea what the Archive would look like in six months, never mind three years.
+
+He had spent two hours attempting to bridge the gap. He had produced something mathematically correct but still useless. Nell walked up to the counter, carrying her clipboard. She leaned over to read his glowing tablet.
+
+“You multiplied the current daily expenditure by the number of Archive days in three years,” Nell observed.
+
+“Yes,” Bart said.
+
+“Is that a projection?”
+
+“It is projected expenditure.”
+
+“Assuming absolutely nothing changes,” Nell clarified.
+
+Bart looked around the cavernous, dimly lit expanse of the Infinite Archive. He looked at the cracked stone, the unmapped corridors, and the cross-brace Ada had installed the previous day.
+
+“That is admittedly a weak assumption,” Bart said grudgingly.
+
+He closed the draft. In a separate tab, the legacy boundary-relative notation from Sector 8 remained untouched. Bart did not even glance at it. The mystery could wait until the institution actually had a future to operate in.
+
+Nell checked her pocket watch. “Silver Spire specifically requested governance safeguards and a long range projection. If we submit your multiplication table, they will ask who verified our methodology.”
+
+“Which is why you asked for independent scrutiny,” Bart said.
+
+“It seemed prudent.”
+
+Nell had sent the review request through Bernard’s registered reply channel the previous evening. His response had been characteristically brief.
+
+AVAILABLE: NEXT OPENING
+
+SCOPE: INDEPENDENT REVIEW
+
+TERMS: TO BE RECORDED ON ARRIVAL
+
+The heavy iron doors of Large Format Patron Access groaned open. A blue notice appeared in the air above the threshold.
+
+REGISTERED ARRIVAL: BERNARD
+
+REGISTERED MASS: 8.94 TONNES
+
+CERTIFIED LARGE-FORMAT CAPACITY: 12 TONNES
+
+ADMISSION: PERMITTED
+
+Bernard frowned, pausing in the doorway. “That record is out of date.”
+
+Bart looked up.
+
+“8.93,” Bernard corrected. “I have been gardening.”
+
+Bart opened the patron record.
+
+MASS CORRECTION: 8.93 TONNES - UNVERIFIED
+
+Bernard read the entry. “Good, now that's in order.”
+
+He stepped through the doorway under the existing certification. The retired Senior Municipal Auditor had not changed since his last visit. His dark scales gleamed faintly in the light. He carried a leather case, his silver reading lenses, and a huge quantity of paper.
+
+It was Bernard who had first pointed out that Bart was a single point of failure across three essential systems, and who had served as the independent reference leading them to Ada. He had a gift for locating structural weaknesses and quietly dragging them into the light.
+
+“Thank you for agreeing to review this,” Bart said as the dragon approached the desk. “Before we begin, your terms?”
+
+Bernard looked approvingly at him. “One time independent professional review. No fee. No continuing obligation.”
+
+Bart recorded it. “Understood and Thank you”
+
+“You wrote something,” Bernard noted.
+
+He placed his silver lenses on the tip of his snout.
+
+“I agreed to review it,” Bernard said. “I did not agree to approve it.”
+
+Bart transferred his drafted projection via the interface,so the auditor could read the rows of carefully calculated figures.
+
+Bernard looked at it for less than a minute.
+
+“Does this assume Nell Mercer personally remains employed for all three years?” Bernard asked, his voice a deep, gravelly rumble.
+
+“No,” Bart said. “Her current appointment is provisional.”
+
+“Then why does the line item say Nell Mercer?”
+
+Bernard tapped the slate. “You are projecting the cost of a function, Keeper. Not the continued existence of a particular employee.”
+
+Nell quietly made a note on her clipboard.
+
+“Does your model require Ada specifically?” Bernard continued.
+
+“No.”
+
+“Does it require competent facilities engineering capacity?”
+
+Bart looked at the 63 yet unresolved measures. “Yes.”
+
+“Then project the capacity.” Bernard moved further down the list. “Does this model account for the 63 unresolved temporary facilities measures?”
+
+“Only through Ada's current assessment allocation,” Bart said.
+
+“Then your facilities cost is uncertain.”
+
+“Am getting the drift,”
+
+“Good. Mark it uncertain.”
+
+Bernard reached out and tapped the interface, closing the projection entirely.
+
+“This is not a 3 year plan,” the auditor said.
+
+Bart looked at the blank screen, then at his own tablet where the carefully calculated figures still lived. “It contains three years.”
+
+“So does a calendar,” replied Bernard without stopping a moment.
+
+Bart had felt pressure to predict exactly what the Archive would cost over the next three years. He felt his forecast was dishonest because he did not know enough about the future to fill the spreadsheet.
+
+“You are treating uncertainty as if acknowledging it makes the document inaccurate,” Bernard observed, watching Bart’s expression.
+
+“Does it not?” Bart asked.
+
+“No,” Bernard said firmly. “Concealing uncertainty makes the document inaccurate.”
+
+Bart took a breath. “What am I supposed to predict?”
+
+“Nothing.”
+
+Bart just stared at him.
+
+Bernard picked up a blank sheet of paper. “You identify what must continue. You identify what may change. You identify what would cause it to change, and you document what you will do when it does.”
+
+They spent the next two hours working together. Nell understood the service demand. Bart knew the Archive’s policy frameworks and legacy commitments. Bernard handled the financial logic and governance.
+
+They structured three distinct operating realities.
+
+THREE YEAR OPERATING PROJECTION - SCENARIO BASIS
+
+SCENARIO A - MINIMUM CONTINUITY
+
+SCENARIO B - STABLE SERVICE
+
+SCENARIO C - CONTROLLED EXPANSION
+
+RESTORATION ASSUMPTION: NOT AUTOMATIC
+
+Bart stared at the final line.
+
+“You look pleased,” Nell observed.
+
+“We have formally documented that we are not required to repair the archive within three years,” Bart said.
+
+Bernard then caught an essential categorisation error. In Bart’s revised resource column, he had naturally been tempted to calculate Tessera’s 24 professional hours and North Mere’s 16 staff hours as equivalent monetary value, padding the financial bottom line.
+
+“Do not put those in your cash reserve,” Bernard warned, his claw tapping the glass.
+
+“They have value,” Bart argued.
+
+“Of course they have value,” Bernard said dryly. “They are not money.”
+
+He made Bart separate the resources entirely. If the North Mere consortium suddenly withdrew its sixteen hours, the Archive’s cash balance would not fall, but Nell’s administrative workload would instantly rise. If Tremendia withdrew its support, the actual payroll would fail. Different support types produced different institutional risks. Treating them all as “income” concealed the danger.
+
+They rebuilt the resource columns.
+
+CASH CAPACITY
+
+PROFESSIONAL SERVICE CAPACITY
+
+FACILITIES CAPACITY
+
+UNFUNDED LIABILITY
+
+Once the projection was properly structured, Bart allowed the System to compile the aggregate data.
+
+LONG-RANGE OPERATING PROJECTION: COMPLETE - CONDITIONAL
+
+PROJECTION BASIS: SCENARIO / DISCLOSED ASSUMPTIONS
+
+CURRENT CASH SUPPORT SOURCES: 1
+
+CURRENT PROFESSIONAL SUPPORT SOURCES: 2
+
+PRIMARY FINANCIAL DEPENDENCY: CROWN OF TREMENDIA
+
+SINGLE-FUNDER RISK: HIGH
+
+THREE-YEAR CONTINUITY: NOT CURRENTLY FUNDED
+
+Bernard sat back, resting his massive hands on his writing case. “There.”
+
+Bart stared at the final line.
+
+“That looks substantially worse,” Bart said.
+
+“It is substantially more accurate,” Bernard countered.
+
+Bart looked at the dragon. “Will you certify it?”
+
+“No,I will not do that” Bernard replied immediately.
+
+“I will certify that your assumptions are disclosed, your scenarios are internally coherent, and your operational risks have not been hidden,” Bernard explained
+
+“Isn't that certification?” Bart asked.
+
+“It is a review,” Bernard corrected.
+
+Bernard signed the document with a precise, elegant flourish.
+
+INDEPENDENT REVIEW: COMPLETED
+
+REVIEWER: BERNARD - RETIRED SENIOR MUNICIPAL AUDITOR
+
+FINANCIAL SUSTAINABILITY: NOT ATTESTED
+
+PROJECTION METHODOLOGY: ACCEPTABLE
+
+MATERIAL UNCERTAINTIES: DISCLOSED
+
+Bart read the assessment and felt It was as rigorous and defensible as it could be right now.
+
+They packaged the projection alongside Bernard’s independent review and transmitted it through the Liaison Network to the Silver Spire.
+
+The response, when it came, was appropriate.
+
+THREE-YEAR OPERATING PROJECTION: RECEIVED
+
+GOVERNANCE REVIEW: SUFFICIENT FOR SUPPORT ASSESSMENT
+
+FUNDING / SUPPORT DECISION: PENDING
+
+He was glad  it was not a rejection, but it was still not money.
+
+He closed the transmission pane. In doing so, the suspended notation tab from the morning briefly became visible again on the main interface.
+
+Bernard’s claw stopped halfway while packing his case.
+
+“Where did you get that?”
+
+Bart looked at the suspended notation.
+
+⟦Δ17 ⇄ Δ23 · 4/9 · Λ06.16 · ⊥2⟧
+
+“A legacy relocation record from Sector Eight,” Bart said.
+
+Bernard adjusted his silver lenses, leaning closer to the glass.
+
+“Can you read it?” Bart asked.
+
+“No, but I have seen that mark before,” Bernard added, tapping a heavy talon near the Λ06.16.
+
+“The lambda?”
+
+“I encountered that mark in old Cawnee boundary ledgers,” the auditor said. “Those records were already obsolete when I was working. It was not used as a coordinate.”
+
+“Then what was it?”
+
+Bernard considered the symbols. “A qualifier.”
+
+“For what exactly?”
+
+“The state under which the rest of the location was valid.”
+
+Bart looked back at the string. “A date then?”
+
+“I did not say that.”
+
+“Do you know what 0-6-16 means?”
+
+“No.” Bernard closed his writing case, snapping locks. “But if this follows the same convention, you are not looking at a location alone.” “You are looking at a location with a condition.”
+
+Bart stared at Λ06.16 for several seconds.
+
+Then he minimised the tab again.
+
+Nell looked from the blank space where the notation had been to the newly transmitted plan,
+
+“So we have a three-year plan,” Nell said.
+
+Bart looked at the operating forecast still sitting in the corner of his screen. “We have a plan for how we would operate for three years.”
+
+“That is normally what those words mean,” Nell said.
+
+“We still only have 19 days of money.”
+
+“Then your next problem is considerably better defined,” the auditor observed, removing his glasses, standing up.
+
+Bart looked at the new projection. Previously, his problem had been a panicked We need money now issue.
+
+Now, the System had categorised it into something precise and useful.
+
+PRIMARY SUSTAINABILITY REQUIREMENT:
+
+DIVERSIFIED RECURRING OPERATING SUPPORT
+
+“I preferred the less specific problem,” Bart admitted quietly.
+
+“Most people do,” Bernard replied and was off.

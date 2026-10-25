@@ -1,0 +1,203 @@
+Bart leaned over the canvas binder. There was no magical text or hidden script requiring translation, only dry bureaucratic processes and definitions.
+
+SECTION VI - RELATIONAL VALIDITY QUALIFIERS
+
+STANDARD FORM: ΛCC.SS
+
+CC: CONDITION CLASS
+
+SS: QUALIFYING STATE
+
+A relational destination carrying a Λ qualifier is serviceable only while the specified state is satisfied.
+
+Gregor pointed immediately at Bart’s open notebook, where the string from Sector 8 was transcribed.
+
+“So six really was six,” Gregor said.
+
+Bart read the next line. “It was not Section Six.”
+
+“It is written in Section Six.”
+
+“Coincidence is not the same as syntax,” Bart corrected mildly.
+
+“You have gotten really worse since your promotion”
+
+Bart looked back at the manual, translating the grammar of the notation against the structure in the book.
+
+Λ06.16
+
+CONDITION CLASS: 06
+
+QUALIFYING STATE: 16
+
+He carefully turned his attention to the corresponding index of Condition Classes. He scanned down the page until he found 06.
+
+It was not a date. It was not a time.
+
+CONDITION CLASS 06 -  DUAL-REFERENCE EQUILIBRIUM
+
+Applied where destination validity depends upon a defined balance between two independently varying references.Positional coordinates remain mathematically definable outside the qualifying state.Routing is prohibited while equilibrium tolerance is unsatisfied.
+
+Bart stared at the definition. It explained the Archive’s previous refusal perfectly.
+
+“So what does it mean exactly r,” Gregor said, reading over his shoulder.
+
+“The location does not disappear, necessarily,” Bart said.
+
+“But you cannot go there.”
+
+“More precisely,” Bart noted, tracing a line under the final sentence with the back of his pen, “the routing standard says you must not treat it as a valid destination.”
+
+He moved to the sub-index, locating the specific qualifying state within Class 06.
+
+STATE 16 - CONSTRAINED BALANCE INTERVAL
+
+REQUIRED CONDITION:
+
+Bart did a double take on third point. Validity must be independently confirmed at dispatch.
+
+The routing standard required a qualifying condition to be verified at dispatch.
+
+Bart looked again at the transit card transcription in his notes.
+
+STABILITY CONDITION: SATISFIED
+
+He still did not know whether Keeper #4,091’s protected qualifier had been Λ06.16. The Archive had explicitly refused to tell him that but he finally understood what that field was for.A relative destination could remain mathematically describable while being unusable for routing. Whatever qualifying state #4,091’s destination required, the Archive had confirmed that state when the continuity transfer arrived and again when #4,091’s own transit completed.
+
+Gregor frowned at the final requirement in the manual. “Does that happen often the condition?”
+
+Bart looked further down the page to the operational notes.
+
+RECURRENCE: DEPENDENT ON REFERENCE BEHAVIOUR
+
+PERIODICITY: NOT INFERABLE FROM QUALIFIER CODE
+
+“Maybe,” Bart said.
+
+“You don't know,” Gregor observed.
+
+“The code does not know.”
+
+“It can recur?”
+
+“It could,” Bart agreed cautiously. “That is not the same as saying it does.”
+
+Bernard had been sitting quietly beside them, adjusting his lenses to read the text from a short distance. He finally understood why he had remembered the symbol from his old auditing career.
+
+“Cawnee used this class for obsolete legal boundaries,” the dragon rumbled, tapping a heavy claw on the edge of the desk. “I audited the transit demarcations for the eastern river platforms. The platforms floated and the survey anchors were mobile. The legal jurisdiction was defined relative to two things that could move independently.” Bernard looked at the manual. “The boundary remained describable. Its legal applicability did not.”
+
+Bart looked at him. “That would have been useful yesterday.”
+
+“Yesterday I did not remember why,” Bernard replied calmly.
+
+It was a profoundly useful context. It proved that Λ06 was a genuine, mundane historical standard, not a mystical code invented specifically by  #4,091but Bart was not finished. He had the binder open in front of him, and he still had the remaining components of the notation to interpret.
+
+He looked at the records specialist, who was standing at a respectful distance.
+
+“Section Four, please,” Bart requested.
+
+The specialist stepped forward and carefully turned the heavy pages back.
+
+SECTION IV - RELATIVE REFERENCE CLASSES
+
+Δ - REGISTERED DYNAMIC REFERENCE
+
+Used where a positional relationship is defined against a reference whose location may vary independently over time.
+
+Numeric suffix identifies registered reference category under the applicable reference register.
+
+Bart wrote the definition in his notebook.
+
+Δ17 ⇄ Δ23.
+
+It meant dynamic reference category 17 relative to dynamic reference category 23.
+
+The binder did not contain the actual registry mapping those categories to their specific registered references, because that was not what this interpretation schedule was for. The schedule provided the grammar, not the actual dictionary.
+
+“So 17 and 23 are what?” Gregor asked.
+
+“Reference categories,” Bart said.
+
+“What references?”
+
+“That is now the correct question,” Bart said.
+
+He did not need to hunt through the Cawnee municipal records for the answer. Now that he knew the term registered reference category, he could formulate a precise query the Archive had previously been unable to answer meaningfully.
+
+“Section Five, please,” Bart said.
+
+The specialist turned the page again.
+
+SECTION V - POSITIONAL FRACTIONS
+
+Expresses prescribed relative position along the registered reference relationship.
+
+Bart wrote it down. 4/9: Registered positional fraction.
+
+He found the final symbol a few pages later in the appendices.
+
+⊥ — ORIENTATION CONSTRAINT
+
+Numeric suffix identifies applicable approach orientation class.
+
+Bart recorded it in his notes. ⊥2 = orientation constraint, Class 2.
+
+The destination record was finally beginning to read like a sentence rather than a mystic code.
+
+Bart took a fresh sheet of paper and reconstructed the entire string in plain English, ensuring his translation was strictly conservative.
+
+WORKING INTERPRETATION - NOT A DESTINATION IDENTIFICATION
+
+A position defined relative to dynamic reference categories 17 and 23, using positional fraction 4/9, serviceable only while Dual-Reference Equilibrium State 16 is satisfied, subject to Orientation Class 2.
+
+Gregor read the long handwritten block of text.
+
+“That is much longer than the symbols,” Gregor noted.
+
+“That is generally the purpose of interpretation,” Bart said.
+
+Bart looked at the two confirmations in his notes again. The continuity transfer dispatched successfully. Keeper #4,091’s later transit completed successfully.
+
+“He timed it,” Bart said quietly.
+
+Bernard and Gregor both looked at him.
+
+Bart corrected himself before the auditor could speak. “No. The records only establish that both actions occurred while his required condition was satisfied.”
+
+“Yeah that would be more accurate,” Bernard said.
+
+Gregor frowned. “So whatever his condition was, he couldn't just go whenever he wanted?”
+
+“His destination was not unconditionally serviceable,” Bart said.
+
+“That sounds like a yes.”
+
+“It is a more accurate way of expressing but yes.”
+
+Bart slowly closed his notebook. He had exactly what he had come for. He did not need to search Cawnee for another missing appendix or a hidden map room. He needed to return to his own desk. Bernard looked at the transcribed notation. “You still need to identify reference categories 17 and 23. Those won't be in this volume.”
+
+Bart nodded, sliding his pen into his pocket. “They don't need to be.”
+
+Gregor looked at the canvas binder as the specialist stepped forward to close it.
+
+“So we know where he went?” Gregor asked.
+
+“No idea” Bart said.
+
+“Do we know when?”
+
+“No idea as well.”
+
+“So what do we know after all this?”
+
+Bart looked again at the notation Keeper #4,091 had chosen for his revised destination.
+
+“We know his destination was not valid unconditionally,” Bart said.
+
+“Meaning he couldn't go whenever he wanted,right”
+
+Bart considered it. “Meaning there were times when the routing standard would not permit it.”
+
+Bart tapped the sequence Δ17 ⇄ Δ23.
+
+“And now we know what to look for.”

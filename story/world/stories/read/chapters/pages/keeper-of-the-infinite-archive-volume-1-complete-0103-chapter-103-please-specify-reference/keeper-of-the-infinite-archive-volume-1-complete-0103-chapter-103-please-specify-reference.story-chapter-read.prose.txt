@@ -1,0 +1,269 @@
+At the Cawnee departure gate, Gregor carefully produced the ticket he had been told to retain.A validator punched a neat hole through its centre.
+
+Gregor stared at the damaged card. “They said to retain it but this damaged it”
+
+“Until completion of the journey,” Bart reminded him.
+
+“That was considerably less permanent than it sounded.”
+
+Gregor put the punched ticket back into his coat anyway.
+
+Bernard stopped beside the departure gate.
+
+“Did you obtain what you required?” the auditor asked.
+
+“I obtained enough to ask a better question,” Bart said.
+
+Bernard nodded. “Usually more useful.”
+
+Bart recorded the auditor’s local-orientation assistance as formally complete, logging it with zero remaining obligations.
+
+“Thank you, Bernard,” Bart said.
+
+“You are welcome, Keeper and take care”
+
+The heavy doors of Large Format Patron Access groaned open.
+
+Bart and Gregor stepped back into the Infinite Archive main hall.
+
+Bart immediately checked his wrist display.
+
+KEEPER STATUS: ON-SITE
+
+ARCHIVE PUBLIC SERVICE: ACTIVE
+
+SERVICE INTERRUPTION DURING ABSENCE: NONE
+
+Nell Mercer sat at the Patron Services desk, updating a ledger
+
+“Still here, and nothin’s busted” Nell noted without looking up
+
+“I can see that,” Bart said with a slight smile.
+
+Bart moved behind the desk, setting his notes down. Suddenly
+
+THUMP!
+
+Bart ignored the sound.
+
+THUMP! THUMP!
+
+The Almanac of Inevitable Doom, previously resting quietly on a secondary reference shelf, violently flung itself open.
+
+Thick red letters burned themselves into the parchment.
+
+THE KEEPER HAS RETURNED FROM VOLUNTARY CONTACT WITH MUNICIPAL ADMINISTRATION.
+
+HIS CONDITION IS TERMINAL.
+
+Bart sighed. “I went to a records office.”
+
+A new line appeared instantly.
+
+EXACTLY.
+
+Nell finally looked up from her ledger. “It may have a point.”
+
+The book’s pages ruffled angrily, shifting its attention to the man standing beside Bart.
+
+THE FORMER THIEF HAS RETURNED WITH PAPERWORK.
+
+CIVILISATION CLAIMS ANOTHER VICTIM.
+
+Gregor leaned over the counter and read the text.
+
+“That's just plain rude,” Gregor decided.
+
+Bart pushed the Almanac slightly to the left and began formulating the query that Cawnee had made possible.
+
+He placed the original Sector 8 notation beside his Cawnee transcription.
+
+⟦Δ17 ⇄ Δ23 · 4/9 · Λ06.16 · ⊥2⟧
+
+“System,” Bart ordered. “Search the surviving legacy Dynamic Reference Register for category definitions 17 and 23 under boundary-relative indexing. Do not compare the query against any restricted destination record.”
+
+The interface chimed.
+
+DYNAMIC REFERENCE CATEGORY 17
+
+CLASS: RADIANT PRIMARY
+
+SCALE: ASTRONOMICAL
+
+REFERENCE BASIS: REGISTERED RADIANT CENTROID
+
+SPECIFIC IDENTITY: DOMAIN DEPENDENT
+
+DYNAMIC REFERENCE CATEGORY 23
+
+CLASS: GRAVITATIONAL PRIMARY
+
+SCALE: ASTRONOMICAL
+
+REFERENCE BASIS: REGISTERED GRAVITATIONAL CENTROID
+
+SPECIFIC IDENTITY: DOMAIN DEPENDENT
+
+Bart stared at the definitions.Gregor provided a helpful summary. “So does that mean one is bright and the other one is heavy.”
+
+Bart looked at him. “That is precisely imprecise.”
+
+“Is it wrong?”
+
+Bart looked back at the definitions. “Not sufficiently.”
+
+The Almanac reacted immediately. Its pages began turning violently, the parchment snapping back and forth.
+
+TWO DYNAMIC REFERENCES.
+
+A POSITION DEFINED BY THEM.
+
+A CONDITION CALLED EQUILIBRIUM.
+
+THIS IS FAR TOO MANY CONDITIONS FOR ANYTHING RESPECTABLE.
+
+Gregor pointed at the book. “That does sound relevant.”
+
+“Everything sounds relevant when you phrase it as an impending disaster,” Bart countered.
+
+Another line burned into the page.
+
+YOU WILL REGRET DISMISSING ME.
+
+“Historically,” Bart told the book, “that has not narrowed anything down.”
+
+He ignored the doom book and focused on clarifying the categories.
+
+“System,” Bart said. “Under the legacy boundary-relative standard, what does the specific identity ‘DOMAIN-DEPENDENT’ signify?”
+
+REFERENCE CATEGORY: GENERIC
+
+SPECIFIC REFERENCE: DEFINED BY APPLICABLE ROUTING DOMAIN
+
+CATEGORY NUMBER DOES NOT IDENTIFY A UNIVERSAL OBJECT
+
+Category 17 was not “the same star everywhere.” It meant that within any given routing domain, the formula would use whatever object was registered as the local radiant primary.
+
+“So we still don't know what 17 is,” Gregor observed.
+
+“We know what kind of thing 17 is,” Bart corrected.
+
+“That sounds like a librarian’s progress.”
+
+Bart sent Ada a brief request for a geometry check. 10 minutes later, she arrived carrying her slate.
+
+Bart showed the engineer the decoded syntax.
+
+Ada studied the string. Δ17 ⇄ Δ23 · 4/9
+
+“Both references can move,” Ada noted.
+
+“Yes,” Bart said.
+
+Ada tapped the 4/9 positional fraction. “Then the destination isn't fixed.”
+
+Ada explained it with irritating simplicity. “A fixed coordinate tells you where something is. This notation tells you where something is relative to two references whose positions can change.”
+
+“So if either reference moves….” Bart began.
+
+“The calculated position moves with it,” Ada finished.
+
+“System,” Bart said. “Under legacy boundary-relative indexing, can a destination defined by two dynamic references and a positional fraction be converted to a permanent static coordinate?”
+
+PERMANENT STATIC COORDINATE: NOT APPLICABLE
+
+STATIC POSITION SNAPSHOT: POSSIBLE WITH CONTEMPORANEOUS REFERENCE STATE
+
+CURRENT POSITION: REQUIRES CURRENT REFERENCE STATE
+
+ROUTE SOLUTION: DYNAMIC
+
+Gregor frowned at the screen. “So even if you knew where it was yesterday…”
+
+“That would not necessarily tell us where it is today,” Bart concluded.
+
+While Bart considered the implications of a constantly shifting destination, the Almanac accidentally nudged him in a useful direction.
+
+DYNAMIC REFERENCES.
+
+CONDITIONAL EQUILIBRIUM.
+
+CONDITIONAL VALIDITY.
+
+PERMANENT DOOM.
+
+Bart ignored the final line.
+
+He looked at the first three. Dynamic references. Conditional validity. If route validity depended on changing reference states, those states had to be evaluated somehow. He remembered the recurrence rule he had copied from the Cawnee manual: DEPENDENT ON REFERENCE BEHAVIOUR.
+
+“System,” Bart said slowly. “Does the legacy reference registry retain historical state changes for dynamic references?”
+
+LEGACY DYNAMIC REFERENCE REGISTER
+
+REFERENCE IDENTITIES: REGISTERED BY ROUTING DOMAIN
+
+STATE HISTORY: PARTIALLY RETAINED
+
+RELATIONAL STATE EVENTS: SEARCHABLE
+
+SEARCH BY RESTRICTED DESTINATION: SUBJECT TO ACCESS CONTROL
+
+SEARCH BY HISTORICAL REFERENCE STATE: PERMITTED
+
+Bart went perfectly still.Gregor immediately saw the opportunity. “So we look for 17 and 23 when Keeper #4,091 left.”
+
+“No,” Bart said.
+
+Gregor looked offended.
+
+“Those belong to the Sector Eight record,” Bart explained sharply. “We do not know Keeper #4,091's reference categories.”
+
+“But the notation matched.”
+
+“The notation family matched. The Archive specifically refused to disclose his qualifying value and reference identities. We do not get to smuggle the protected values back in because we learned what somebody else’s mean.”
+
+Bart formulated a generic procedural question about the missing Keeper.
+
+“System,” Bart said carefully. “Do not disclose Keeper #4,091's reference identities, categories, positional fraction, qualifier value, or orientation constraint. Under the routing standard applicable to his revised destination, did route validation require the state of independently variable references to be evaluated?”
+
+PROCEDURAL QUERY: PERMITTED
+
+INDEPENDENT REFERENCE-STATE EVALUATION: REQUIRED
+
+Bart now knew exactly what kind of historical event he was looking for.
+
+The Almanac’s pages flipped triumphantly.
+
+I TOLD YOU THEY MOVED.
+
+“You also said everyone would die,” Bart pointed out.
+
+EVENTUALLY.
+
+“That one is difficult to argue with,” Gregor admitted.
+
+Bart placed a paperweight on the book. Angry red letters squeezed out beneath the edge of the parchment.
+
+COWARD.
+
+Bart ignored it and opened the final interface.
+
+“System,” Bart said. “Open historical reference-state search.”
+
+HISTORICAL REFERENCE-STATE SEARCH
+
+REFERENCE DOMAIN: OPTIONAL
+
+REFERENCE CATEGORY: OPTIONAL
+
+RELATIONAL EVENT TYPE: OPTIONAL
+
+TIME WINDOW: REQUIRED
+
+Gregor looked at the blank form.
+
+“We don't know his references,or his conditions, so what do we have?” Gregor said.
+
+Bart opened the carefully reconstructed chronological sequence surrounding the emergency continuity transfer, the destination revision, and the Great Divergence or Ruin.
+
+“A time window,” Bart said.

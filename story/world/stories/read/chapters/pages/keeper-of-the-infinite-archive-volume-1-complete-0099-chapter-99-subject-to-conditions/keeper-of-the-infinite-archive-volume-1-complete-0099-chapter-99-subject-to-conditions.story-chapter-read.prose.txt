@@ -1,0 +1,171 @@
+Bart spent the final two hours of the service day documenting the approved three year operating scenarios, archiving Bernard’s independent review, and executing the routine close of service reconciliation for the day's interlibrary service records. He deliberately cleared all the admin work first.
+
+Nell, in the process of updating the blocked demand register , noticed his rush. Finally, with the patron queues clear and the daily records verified, Bart tapped his screen. The suspended tab expanded.
+
+Gregor, carrying a stack of binders back from the reading room, paused at the counter.
+
+“You are doing the strange symbols thing now?” Gregor asked, looking interested.
+
+He looked at the string of characters.
+
+⟦Δ17 ⇄ Δ23 · 4/9 · Λ06.16 · ⊥2⟧
+
+Bernard’s word bothered him. Qualifier.
+
+Bart did not ask the System what Λ06.16 meant. He had already compared the string against the surviving boundary-relative references without finding an interpretation guide. Instead, he changed the question. He used the vocabulary the old auditor had handed him.
+
+“System,” Bart ordered. “Search the Policy and Standards Repository for legacy uses of the terms boundary-relative, qualifier, relational validity, and stability condition.”
+
+The Archive processed the bounded query.
+
+LEGACY BOUNDARY-RELATIVE INDEXING
+
+STANDARD STATUS: SUPERSEDED
+
+INTERPRETATION SCHEDULE: NOT AVAILABLE
+
+SURVIVING PROCEDURAL REFERENCES: 7
+
+COMPLETE REFERENCES: 2
+
+Nell walked over, leaned against the counter to read Bart's screen.
+
+Bart opened one of the two complete references. It contained only a dry procedural definition.
+
+RELATIONAL VALIDITY QUALIFIER
+
+Required where a recorded position is valid only under a specified relational state.
+
+Qualifier records do not form part of the positional coordinates.
+
+A destination must not be treated as serviceable where its qualifying state is unsatisfied.
+
+Qualifier values require the applicable interpretation schedule.
+
+That was enough for Bart to know Bernard was correct.
+
+Λ06.16 was not another coordinate but they still did not know what specific state 06.16 represented because the interpretation schedule was missing. The mystery remained intact as yet, but its structure had been clarified a little.
+
+Nell read the procedural definition again.
+
+“The qualifier isn't part of the coordinates,” Nell observed.
+
+“No,” Bart said.
+
+“So it doesn't tell us where.”
+
+Bart looked at Λ06.16. “It tells us whether the where is valid.”
+
+Nell nodded. “Under a particular state.”
+
+Bart suddenly recalled something and went still for a moment, He closed the standard and immediately accessed his own secured admin files. He retrieved the already-authorised transcription of the ruined transit card they had recovered earlier during the Concord investigation.
+
+The familiar text appeared on the slate.
+
+REVISED DESTINATION CLASS: NON-JURISDICTIONAL
+
+ROUTING METHOD: RELATIVE POSITION
+
+PRIMARY REFERENCE: [DAMAGED]
+
+SECONDARY REFERENCE: [DAMAGED]
+
+STABILITY CONDITION: SATISFIED
+
+Gregor looked at the screen, his brow furrowing. “What?”
+
+Bart pointed to the second and fifth lines. Relative position. Stability condition.
+
+Bernard’s clue about old municipal boundary ledgers had suddenly become directly relevant to the mystery in the Infinite Archive.
+
+Bart performed another carefully bounded comparative query, relying on the precedent he had established when investigating the continuity transfer. The System would permit comparison of restricted records, provided Bart was not asking it to disclose the actual protected contents.
+
+“System,” Bart said carefully. “Do not disclose Keeper #4,091's revised destination, reference identities, or stability-condition value. Compare the routing standard used by that destination with the surviving legacy boundary relative indexing standard. Are they members of the same notation family?”
+
+The interface paused for two long seconds.
+
+RESTRICTED DESTINATION CONTENT: NOT REQUESTED
+
+COMPARATIVE STANDARDS QUERY: PERMITTED
+
+NOTATION FAMILY: MATCH
+
+Gregor stared at the glowing blue confirmation. “So those symbols are where he went?”
+
+“No,I don't think so” Bart said.
+
+“You sound very sure.”
+
+“I am very sure you have skipped several conclusions,” Bart corrected.
+
+The Sector 8 string was not evidence of #4,091's secret destination. It was a separate obsolete destination record written using the same method.
+
+Bart tried the tempting query anyway. He had to know where the boundary lay.
+
+“System. Compare the qualifying-state value in the Sector 8 record with the qualifying-state value attached to Keeper #4,091's revised destination. Are they identical?”
+
+The System did not even pause this time.
+
+COMPARATIVE QUERY: DENIED
+
+REASON: RESPONSE WOULD DISCLOSE RESTRICTED DESTINATION ATTRIBUTE
+
+“Worth checking,” Gregor noted.
+
+“Unfortunately, yes,” Bart said.
+
+But the denial strongly implied that #4,091's restricted destination carried a comparable qualifying-state attribute.
+
+Ada had arrived at the desk a few minutes later, pulling off her work gloves to submit her end-of-shift facilities log.
+
+Bart turned the interface toward her. He had a practical question for the engineer who had originally interpreted the routing card. He showed her the newly discovered definition of a relational validity qualifier.
+
+“When the transit card said stability condition satisfied, is this what it meant?” Bart asked.
+
+Ada read the definition of the qualifying state.
+
+“Possibly,but it could mean other things as well” the engineer said.
+
+“That is not especially helpful,” Bart observed.
+
+“It is accurate though” Ada replied.
+
+She tapped the word relational. “A relative destination can be mathematically defined between two independent references. That does not mean the resulting route is always safe, valid, or accessible. A separate condition could refer to geometry, alignment, network state, or structural stability.”
+
+“Time?” Bart asked.
+
+“Could be as I would really need more data to be sure”
+
+“Could be space?”
+
+“Also could be,” Ada replied in the same tone.
+
+“You two are exceptionally good at making a mystery less satisfying,” Gregor grumbled.
+
+Ada signed her log and departed, leaving Bart staring at the transit card transcription. Bart began piecing together the timeline he had extracted earlier. The emergency continuity transfer had been authorised, dispatched, and its delivery confirmed. Only after that had Keeper #4,091 revised his mediation destination and severed his authority.The continuity transfer had gone to the same destination #4,091 had later redirected himself to.Bart now recognised something new. The transfer had not merely been sent to some secret location. It had been delivered successfully to a conditional relative destination. Which meant whatever condition made that destination valid had already been satisfied before #4,091 ever redirected himself there.
+
+Bart formulated a final query.
+
+“System,” Bart said. “Do not disclose the stability condition. At the time delivery of the continuity transfer was confirmed, was the destination's required stability condition satisfied?”
+
+The Archive chimed instantly.
+
+STABILITY CONDITION AT DELIVERY: SATISFIED
+
+“At the time Keeper #4,091's transit to the revised destination completed, was the required stability condition satisfied?” Bart asked.
+
+STABILITY CONDITION AT TRANSIT COMPLETION: SATISFIED
+
+Bart leaned back in his chair. The transfer and the Keeper had both reached the destination while its qualifying state was valid.The System did not offer a duration or indicate whether the state recurred or when it had actually began, but this seemed atleast a start.
+
+Gregor pointed at the screen. “So where was it?”
+
+Bart looked at the damaged routing card. The destination depended on two unidentified references, a relative position, and a qualifying state.
+
+“We might have been asking a wrong question about where Keeper #4,091 went,” Bart said quietly.
+
+Nell looked at the card. “And?”
+
+Bart tapped the line reading STABILITY CONDITION: SATISFIED.
+
+“I think we need to know what had to be true before there was somewhere to go.”

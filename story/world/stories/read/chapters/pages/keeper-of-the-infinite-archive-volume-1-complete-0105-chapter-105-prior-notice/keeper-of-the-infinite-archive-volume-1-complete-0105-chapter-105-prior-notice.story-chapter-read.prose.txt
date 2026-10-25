@@ -1,0 +1,315 @@
+Bart arrived at the Patron Services desk early the next morning after taking  a break to rest to clear his head. He sat down, adjusted his desk lamp, and opened the thick folder Nell had handed him the previous afternoon.
+
+Nell, sorting a fresh stack of overnight interlibrary requests, noticed.
+
+“You're reading that first,” Nell observed.
+
+“It has a deadline,you mentioned,” Bart replied.
+
+Bart broke the wax seal and opened the Silver Spire institutional response. He read the dense, administrative text carefully. It did not solve all the Archive’s problems but it was a very real victory to say the least.
+
+SILVER SPIRE INSTITUTIONAL SUPPORT REVIEW
+
+THREE-YEAR PROJECTION: METHODOLOGY ACCEPTED
+
+FULL THREE-YEAR COMMITMENT: NOT APPROVED
+
+INITIAL OPERATING SUPPORT: APPROVED
+
+TERM: 12 MONTHS
+
+RENEWAL: SUBJECT TO ANNUAL REVIEW
+
+REPORTING: QUARTERLY
+
+CONDITION: CONTINUED DIVERSIFICATION OF OPERATING SUPPORT
+
+Bart opened his dashboard and checked the Archive’s overall sustainability projection against the new commitment.
+
+RECURRING CASH SUPPORT SOURCES: 2
+
+PROFESSIONAL SUPPORT SOURCES: 2
+
+SINGLE-FUNDER DEPENDENCY: REDUCED
+
+THREE-YEAR CONTINUITY: PARTIALLY FUNDED
+
+LONG-TERM SUSTAINABILITY: NOT YET ESTABLISHED
+
+It was an undeniable improvement for the first time since the crisis began, the Infinite Archive had more than one recurring source of operating cash and some runway.
+
+Gregor arrived with a cart of processed returns and leaned over to read the screen.
+
+“So we're rich?” Gregor asked.
+
+“No,not at all” Bart said.
+
+“Less poorer?”
+
+Bart examined the partially funded projection. “That is regrettably quite accurate."
+
+He recorded the financial commitment, entered the new quarterly reporting requirement into his schedule, and moved the folder to active institutional agreements.
+
+A polite chime sounded from the interlibrary terminal before Bart could reach for the historical slate.
+
+He looked over and saw,
+
+INTERLIBRARY REQUEST - FOLLOW-UP
+
+REQUESTING INSTITUTION: MONASTERY OF THE SEVEN OVENS
+
+REQUESTED TITLE: The Master’s Guide to Advanced Pastry Baking by Rickard Astel
+
+REQUEST PURPOSE: SCHOLARLY REVIEW OF HISTORICAL HERESY
+
+CURRENT STATUS: PENDING RIGHTS HOLDER AUTHORISATION
+
+Bart remembered the request. It had been sitting in the restored interlibrary queue since the Archive resumed normal service.
+
+The surviving signed copy belonged to Master Gurrum Goldbelly. The original loan agreement did not permit onward removal, and the monastery had once rejected the same book as doctrinally unsound.
+
+Someone had added a new message to the request.
+
+ABBOT HALVORN:
+
+For the avoidance of doubt, this institution requests access exclusively for the sober academic examination of historical culinary misconduct.No member of the Order of the Unbroken Crust intends to reproduce any prohibited technique.
+
+A second message appeared beneath it.
+
+BROTHER ODO:
+
+If permission is granted, I would particularly appreciate access to Chapters 4 through 9.
+
+A third message had been added minutes later.
+
+ABBOT HALVORN:
+
+Brother Odo is not authorised to particularly appreciate Chapters 4 through 9.
+
+Gregor leaned over Bart's shoulder.
+
+“The bread monks again.”
+
+“The Order of the Unbroken Crust,” Bart corrected.
+
+Gregor read the correspondence.
+
+“They want their pastry book.”
+
+“They want authorised scholarly access to a privately owned pastry book and they dont claim the book to be theirs”
+
+“That's what I said.”
+
+Bart marked the request:
+
+ACTION REQUIRED: RIGHTS HOLDER CONSULTATION  - MASTER GURRUM GOLDBELLY
+
+ONWARD ACCESS: NOT YET AUTHORISED
+
+Gregor frowned. “Can we just ask Gurrum?”
+
+“Yes that precisely what i classified it as”
+
+“Are you going to?”
+
+Bart moved the request into Nell's routine interlibrary correspondence queue.
+
+“Nell is. She is incharge of ILL”
+
+From the other end of the desk, Nell raised one hand without looking up.
+
+“Already sent.”
+
+Bart stared at her for a moment then he quietly returned to his own work.
+
+Only after completing those steps did he reopen the investigation into the historical event.
+
+Ada , who had arrived early to continue reviewing the boundary data, stepped up to the counter.
+
+“System,” Bart ordered. “Open the surviving structural and boundary telemetry correlated with event RSE-3942.”
+
+INFINITE ARCHIVE - STRUCTURAL / BOUNDARY TELEMETRY
+
+CORRELATED EVENT: RSE-3942
+
+TELEMETRY RECORD: PARTIAL
+
+EVENT CLASS: EXTERNAL REFERENCE REALIGNMENT
+
+ARCHIVE BOUNDARY RESPONSE: AUTOMATIC COMPENSATION
+
+BOUNDARY INTEGRITY: MAINTAINED
+
+INTERNAL CAUSATION: NOT DETECTED
+
+This was a major distinction.
+
+“The Archive didn't cause the event,” Bart noted.
+
+“No,” Ada said, tracing the structural response code. “It reacted to it.”
+
+The event originated in the external reference geometry rather than in the Archive’s own infrastructure. Nothing within the Archive had forced the routing window open. The institution had detected the external change and compensated for it.
+
+“Think of it as the map changing underneath the building,” Ada said.
+
+Bart frowned. “The building didn't move?”
+
+“Not according to this.”
+
+“The coordinate framework did.”
+
+“Close enough,” Ada said.
+
+Gregor crossed his massive arms. “I preferred bright and heavy.”
+
+Bart continued scanning the telemetry record. Halfway down the log, he noticed a field that completely changed his understanding of the timeline.
+
+EVENT DETECTION: FORECAST
+
+Bart stopped.
+
+He looked at it again. The event had not been detected reactively as it happened.
+
+“System,” Bart asked quietly. “Was RSE-3942 detected only after the reference-state transition occurred?”
+
+NO
+
+EVENT STATUS: FORECAST
+
+ADVANCE NOTICE AVAILABLE: YES
+
+“How much advance notice?” Bart demanded.
+
+INITIAL FORECAST NOTICE: 2 HOURS, 47 MINUTES BEFORE VALIDITY OPEN
+
+FORECAST CONFIDENCE: WITHIN ROUTING TOLERANCE
+
+KEEPER NOTICE GENERATED: YES
+
+Bart went completely still.
+
+Gregor looked at the final line. “Which Keeper?”
+
+Bart gave him a long, flat look.
+
+“Right,” Gregor muttered.
+
+But Bart was a creature of evidence; he verified it anyway. “System. Was the Keeper notice associated with the active Keeper at that time?”
+
+YES
+
+“Was it acknowledged?”
+
+The interface paused for a fraction of a second.
+
+KEEPER NOTICE: ACKNOWLEDGED
+
+Gregor stared at the confirmation. He remembered Bernard stopping Bart from making exactly this assumption in the Cawnee municipal records office.
+
+“So he did wait for it,” Gregor said softly.
+
+Bart looked at the acknowledged forecast notice.
+
+He leaned forward, intent on the screen. “System. Reconstruct the non-protected event sequencing surrounding the forecast notice and the continuity transfer.”
+
+The Archive assembled the expanded timeline.
+
+RSE-3942 - FORECAST NOTICE GENERATED
+
+↓
+
+KEEPER NOTICE ACKNOWLEDGED
+
+↓
+
+INSTITUTIONAL CONTINUITY TRANSFER — AUTHORISED
+
+↓
+
+RSE-3942 - VALIDITY OPENS
+
+↓
+
+CONTINUITY TRANSFER - DELIVERY CONFIRMED
+
+↓
+
+DESTINATION AMENDMENT - RECORDED
+
+↓
+
+KEEPER #4,091 - TRANSIT COMPLETION
+
+↓
+
+RSE-3942 - VALIDITY CLOSES
+
+The sequence was clear. This was not a last-second improvisation. Whatever emergency surrounded it, #4,091 had received advance warning and acted on it.
+
+Gregor frowned at the screen. “So #4,091 predicted all this?”
+
+“The Archive predicted it,” Ada corrected.
+
+Bart nodded. “He received the forecast.”
+
+That distinction mattered. The records showed that #4,091 received the prediction, not that he produced it.
+
+“System,” Bart tried naturally. “What reference behaviour produced the RSE-3942 forecast?”
+
+REQUEST WOULD DISCLOSE PROTECTED REFERENCE ATTRIBUTES
+
+ACCESS DENIED
+
+Bart was not annoyed. He already had the answer that mattered most.
+
+“Worth asking,” Gregor noted.
+
+“Yes.” Bart adjusted his approach. “Was RSE-3942 forecast as a unique event, or as part of a recognised event class?”
+
+EVENT CLASS: RECOGNISED
+
+RECURRENCE MODEL: EXISTS
+
+CURRENT MODEL AVAILABILITY: INCOMPLETE
+
+PERIODICITY: NOT ESTABLISHED FROM SURVIVING RECORD
+
+These events belonged to a recognised, modelled class. But nothing in the surviving record established a simple recurrence interval.
+
+Gregor was still studying the timeline overlay. “He had nearly three hours of warning.”
+
+“2 hours and 47 minutes,” Bart corrected automatically.
+
+“That is what I said.”
+
+“It was not.”
+
+Gregor pointed a thick finger at the third entry on the sequence.
+
+INSTITUTIONAL CONTINUITY TRANSFER - AUTHORISED
+
+“And that's what he did with it,” Gregor said.
+
+For several days, Bart had been asking where #4,091 had gone.
+
+The transfer now seemed more important. What had he decided needed to arrive first?
+
+“System,” Bart asked. “Does the institutional continuity transfer have a surviving manifest?”
+
+TRANSFER MANIFEST: EXISTS
+
+ITEM-LEVEL CONTENT: RESTRICTED
+
+MANIFEST STRUCTURE: AVAILABLE
+
+DECLARED TRANSFER CLASSES: AVAILABLE
+
+Bart did not ask for the restricted item-level content. By now, he understood the distinction between what the Archive protected and what its records could legitimately disclose.
+
+“He had a warning,” Gregor said.
+
+Gregor tapped the transfer authorisation.
+
+“And before the window even opened, he did this.”
+
+Bart looked at the glowing blue text reading TRANSFER MANIFEST: EXISTS.
