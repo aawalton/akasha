@@ -1,0 +1,40 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const charlieMe = {
+  id: "01a17497-3825-77e3-bf3a-51c83b260477",
+  type: "page-type/movie",
+  slug: "charlie-me",
+  ownLength: 88,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2008-01-05",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "15381",
+      externalLink: "https://www.themoviedb.org/movie/15381",
+      lastSyncedAt: "2026-10-25",
+    },
+    { source: "wikipedia", externalLink: "https://en.wikipedia.org/wiki/Charlie_&_Me" },
+  ],
+  title: "Charlie & Me",
+  genres: ["TV Movie", "Drama", "Family"],
+  imdbId: "tt1118040",
+  posterPath: "/kbTqEotD1rRaYHBH2blogoSuzqL.jpg",
+  voteAverage: 5.8,
+  streamingOn: [
+    "Amazon MX Player",
+    "Amazon Prime Video",
+    "Amazon Prime Video Free with Ads",
+    "Amazon Prime Video with Ads",
+    "Fandango at Home Free",
+    "The Roku Channel",
+    "Tubi TV",
+    "UP Faith & Family Amazon Channel ",
+    "UP Faith & Family Apple TV channel",
+  ],
+  createdAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-25T19:43:49.795Z",
+} as const satisfies Movie
