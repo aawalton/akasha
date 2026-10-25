@@ -69,6 +69,10 @@ export const deployJob = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: 'Alan approved that 16Gi on 2026-10-25: "That\'s fine."',
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Deploys past what node-06 holds wait for room rather than all starting at once.",
     },
     {
@@ -77,6 +81,6 @@ export const deployJob = {
         "A deploy's quarter hour starts when its pod does, so a deploy that waited loses none.",
     },
   ],
-  updatedAt: "2026-10-25T21:17:26.783Z",
+  updatedAt: "2026-10-25T21:35:35.511Z",
   createdAt: "2026-09-14T17:28:13.666Z",
 } as const satisfies Module
