@@ -1,0 +1,141 @@
+The void pulsed blue around them, making the horizon line wobble and fluctuate erratically. Darya opened the dashboard.
+
+[/dashboard]
+
+Vainfall Version: 17.01.134. RLP-FUser ID: nstrum [lead]Access: admin .
+
+.
+
+.
+
+A thought-trigger scrolled it to the bottom as her eyes brushed by the name that she didn’t have much time to think about since she last saw it.
+
+N. Strum.
+
+Seeing it here again reminded her of the conclusions that she had made last time. N. Strum was her past, the Reverend Mother of light in the strange English letter book that she found on Darya Altazark’s bed.
+
+She recited what she remembered as if it were a mantra to herself.
+
+Find Admin rights, fix the ending. Keep hot elf, warlock, and yacht with princess life.
+
+She had been working on it before she got sidetracked with a kidnapped mermaid and a Seer—wait.
+
+This wasn’t a side track. She wanted to get Emil back, the boy who could read English letters for some mysterious reason. She needed to fill the Desert Rose with dependable allies to go on the adventure to find the admin artifacts, whatever they turned out to be. Rossarie was needed as well. A draconian was a powerful addition to the crew.
+
+Who else should I include?
+
+She had no idea for now. Maybe four would be enough. Maybe there should be others.
+
+“Princess, you can read this arcane script?” Sarka asked, almost reminding her of his presence. It wasn’t four anymore. It was five. Sarka couldn’t be excluded from the crew anymore.
+
+Arcane script, he calls it. This is plain English. No need to bring that up, though. I should play along.
+
+“I’m not fluent in it. I barely know enough to navigate this interface,” Darya lied.
+
+“Remarkable!” Sarka said excitedly. “I was never good at ancient scripts. This reads like gibberish to me.”
+
+“Well, most of it is indeed gibberish,” Darya muttered. She needed to find what more she could do in the dev void now that she was finally here.
+
+[/admin_commands]
+
+Vainfall: Checkpoint [admin access]Vainfall: Transform [admin access]Vainfall: Travel [admin access]Vainfall: Create [admin access]Vainfall: Destroy [admin access]Vainfall: Search [admin access]Vainfall: Time [admin access]→ Vainfall: Terminate [access granted]Character: Absolute Health [admin access]Character: Absolute Mana [admin access]Character: Absolute Stamina [admin access]Character: Pause Movement [admin access]Character: Stat Modification [admin access]Character: Negate Damage [admin access].
+
+.
+
+.
+
+The list of admin commands was too long for one sitting. Not all of them were useful either. They were added, removed, or modified during development. The list could easily get bloated by increasingly obscure and ridiculous toggles, such as: ‘Vainfall: Disable Ambient Shadow Method Test2.1’ at the request of someone who wanted it for whatever reason. She could scroll the list all day and never find what she wanted.
+
+She didn’t need to try any of these either. Except for Terminate, which she somehow still got access to without admin privileges, the rest of the italics were all locked behind admin access. Search and Travel would’ve worked wonders for finding admin artifacts in the world. Alas, things have been rendered a thousand times more difficult.
+
+“So many obscure words! I wish I had something to write these down! Goliante Council would spare a lot of research funds for something like this!” Sarka remarked.
+
+“Nothing important there. Trust me,” Darya said, dismissing the screen. She wanted to find something else. She wanted the runtime commands that didn’t require admin access. These were usually reserved for quality assurance automations or playtesting teams.
+
+[/debug_commands]
+
+Vainfall: Draw Collisions [off]Vainfall: Detailed Axis Visualizer [off]→ Vainfall: Flash Axis Visualizer [on]Vainfall: Ambient Mana Estimator [off]
+
+.
+
+.
+
+This wasn’t any better than admin commands. Debug commands were even more numerous. The first enabled setting that she saw was the one that quickly flashed the five-axis preview of a spell at the activation time. It was always part of the debug visualizers, but she remembered turning it on by default just to make the magic system feel more tangible in the VRMMO.
+
+Scrolling down, she came across a bunch of settings that would be useful if she could enable them at will. The Render layers of the RLP system seemed vastly more complicated than anything she saw in the VRMMO. She couldn’t keep these enabled by default, as they were only supposed to be previews.
+
+.
+
+.Render: Preview Depth Buffer [off]Render: Preview Voxel Tessellation Buffer [off]Render: Preview Outline Buffer [off]Render: Preview Silhouette Buffer [off]Render: Preview Normal Buffer [off]
+
+.
+
+.
+
+She didn’t have a method to expose some of these to quick toggles. In fact, she didn’t even have a convenient way to enter the void without using four Terminates one after the other.
+
+Come to think of it, I need to find a way to deal with that. Shouldn’t have to deal with four commands every time. At least not manually. Is there a way to automate it?
+
+She remembered something. Excited to see if it was still available without admin access, she brought up the command.
+
+[/macros]
+
+Enable Verse Gear Macro Compatibility Layer [off]Enable Runtime Macros [off][Bindings Manager][Advanced Settings]
+
+“Ah, there you are!” Darya let out a gasp. She had finally found something that could be endlessly versatile, and it hadn’t been locked behind admin access.
+
+The word ‘Macro’ could refer to several things specific to game programming. In simple general terms, A macro is a pattern or a rule that determines how to map an input to a replacement output. Darya didn’t know the exact programming language or the paradigm the Deepcore system was implemented in, but back when she was developing the VRMMO, macros were used extensively in the development environment, debugging, and even player-facing settings to perform certain complex actions at play time.
+
+They could be as complex or simple as one wanted, and she remembered working on the runtime macros to unify them into one system rather than messing with several fragmented subsystems. Under that effort, playtime macros for players or playtesters were small scripts that could automate certain controller key presses.
+
+What she had just discovered here was the Verse Gear equivalent of those VRMMO controller macros. Since Verse Gear had no buttons to press, implementing macros into Verse had required a layer to translate all the thought triggers. She enabled both settings right away.
+
+“Did you find what you were looking for?” Sarka asked curiously when the contents of the screen shifted.
+
+“Yes,” Darya said, quickly sweeping through all existing thought trigger bindings. Luckily, the first macro was a command to bring up all the macros during playtime. The trigger was ‘Vainfall: List Macros.’
+
+Very thoughtful. Now I should add anything that isn’t here.
+
+She shoved several commands from the debug category into new bindings, quickly editing the various fields and expressions as she went. Typing and navigating menus near the speed of thought was one of Verse Gear’s primary productivity advantages. She was grateful for it now, as she finished doing things before Sarka could comprehend what had just happened.
+
+The last binding she added was the most important one of all. She titled it ‘Vainfall: Open Void’ and configured it to chain the Terminate command four times with 3.25s gaps in between. Entering the void in any situation was bound to take thirteen seconds. It wasn’t exactly convenient, but there was no other way to access the /dev command from the game, not without admin privileges anyway.
+
+Once everything was readied, she went through the macro list to remove redundant or unnecessary commands. She needed to keep her toolkit clean and simple.
+
+“I am eager to see this arcane spell you memorized!” Sarka’s voice alerted her back to reality.
+
+“That depends on what happens with Drakva. I left him with a slash and what looked like a ghost.”
+
+“Ghost? That was an incarnation of the Eternal Demoness. Although it is unlikely a Berserker of his stature would fall to a curse. Prepare in case he counters it with a protection of his own.”
+
+“Good to know,” Darya said. “Time to go back then. You still know where the girl is, right?”
+
+“Yes, princess. She is in the third corridor. Sounded like they were readying her for travel. The commotion might alert them soon.”
+
+“It would’ve been fantastic if we could snatch her and leave right away, but we need the Seer as well. The exit is unclear. Not many places I could haul a fish tank,” Darya said, trying to come up with a way out.
+
+“I would imagine a carriage chase in the street is not exactly ideal.”
+
+“Hm. Yes. We’ll be caught before we get far. I wonder if the Seer has something arranged for it.”
+
+“He has spent enough time since he infiltrated. I think it is more than likely he at least knows of a way out.”
+
+“One step at a time, then,” Darya dismissed all screens.
+
+[/close]
+
+The void flickered out, and Darya manifested back in Vainfall mid-dash with the tail end of her last Wind Step. The flickering gap that she slipped through passed by, sewing itself shut as if it never existed.
+
+She was still pouring mana into the ritual dagger, energy pulsing away like a heartbeat on her palm. The orange Sun Crystal was glowing like molten iron. She slid across the stone floor and turned to face the giant apparition that she had caught a glimpse of earlier.
+
+The incarnation of the Eternal Demoness looked far more cursed in RLP than it used to be in the VRMMO. This was not a leather-clad dominatrix. She was straight out of Lovecraftian horror, a thin, sunken-faced woman with white dots for eyes. Her upper body was made of hands. Eight hands twisted into each other like ropes to form her two arms. At the end of each wrist were three hands back to back like tentacles made of fingers.
+
+She hovered weightlessly above Drakva, looking down at him with a menacing grin on her face. The lower half of her jaw was stained with blood, likely from the others that Darya cursed with the ritual knife along the way.
+
+Drakva was brimming with red mana, thick luminous vapor trails pushing against the Demoness as she reached in with sharp claws, trying to gouge his heart out.
+
+“You!” Drakva yelled when he finally caught a proper glimpse of Darya. "W-was this you?!”
+
+“We meet again,” Darya said lazily. Just as Sarka predicted, the orc wasn’t going to go down easily. She stopped pouring more mana into the dagger and pointed it in his direction. She was ready to use it as a Manacer now.
+
+[Spell: Seven Petal Spear]-82MP/s • Line • Timed 2s[view more]

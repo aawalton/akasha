@@ -1,0 +1,213 @@
+Seris made a complex gesture with her wand without another word. She looked too afraid even to talk again.
+
+White mana vapor trails burst from the icy blue stone at the tip of her wand. The pattern that she drew with the vapor trails mid-air with her wand expanded into a dome around them. She continued casting a second spell inside the dome afterwards, which turned the vapor trails into threads that wove a transparent blue layer.
+
+She had combined a conceal-type spell, which was neither an attack nor a defense, with a shielding spell beneath it. The first layer got rid of any trace of their existence, and the second one was just in case.
+
+"This should be enough for now," Fominel said in a hushed voice, his eyes still set on the looming Dreagan through the trees.
+
+"I still have no idea what they are," Darya whispered.
+
+"You've forgotten too much, princess!" Fominel sighed. "Dreagans have been plaguing Vainfall for centuries. We set out to fend them off before they reached Karossa."
+
+"What do they do?" Darya asked.
+
+"They take people, swallow them whole, strip them to ribbons inside. The corpses are remade as Shadows that do what the Dreagans want. They'll kill you just enough for the Dreagan to swallow you."
+
+Darya narrowed her eyes. She was concerned this was the endgame, but it didn't seem that way. In version six, the apocalypse was far more straightforward and cinematic. It was called Endworld.
+
+Teleporting necro balls harassing populations for centuries is not exactly an apocalyptic event.
+
+It was undeniably interesting as a mechanic.
+
+This sounded like a routine task if people had to set off on expeditions to fend off Dreagans from approaching their lands. She thought about why she woke up splattered on the ground in a cave.
+
+Something unexpected had happened in the last encounter.
+
+"I'm guessing we met a Shadow here that we didn't expect?"
+
+"Of course, we met the most unexpected one," Fominel said, rolling his lips. "It was Sarka."
+
+Darya blinked, pointing a finger at her head to indicate the lack of memories. "And who's that supposed to be?"
+
+Fominel rubbed his nose bridge. "Apologies, I need to get used to this, princess," he said with a sigh. "Sarka is an archmage supreme who went missing a hundred and twenty years ago."
+
+"Turns out he's been swallowed by the least impressive dark sphere somehow. Imagine our luck, princess! We picked the smaller one first because we thought it was the easiest!" Seris said.
+
+"Bad luck indeed," Darya muttered, looking ahead. She had already gotten a lot of actionable information from these two, but there was still more she needed to know.
+
+"Seris said it took you a while to cut the sphere open, why?" she asked, turning to Fominel.
+
+"A Dreagan has a mana-enforced outer shell, princess," he replied, clutching his Manablades.
+
+"That's what they use most of their mana for," Seris added eagerly. "Makes them really hard to kill."
+
+Darya had guessed as much. The collapsed inner bits of the sphere that she saw in the cave looked soft and brittle. The blackened outer shell looked thin, like a paint layer over a meatball.
+
+"You've fought them before. What do you think about that one?" She asked, pointing at the ominous ball approaching them. It was hopping in straight line dashes across the waves.
+
+"I'd say about four thousand mana based on the size," Fominel said, staring at it warily. "Seris can tell you more about health, but I think the number will be about four thousand as well."
+
+Darya turned to Seris.
+
+"Combined with that shell, the effective health would be fifty-four thousand, I'd say," Seris said.
+
+"That high?!" Darya exclaimed.
+
+"It doesn't matter if you can break the shell. Dreagans go down real fast when they start bleeding."
+
+"I see, so they're weak against bleeding?" Darya asked.
+
+"Oh, they bleed rivers if you manage to crack the shell. That's the hard part, because they're dangerous to get near. If you get hit by something that big that hops around that fast, you're dead even with shielding," Fominel said.
+
+The Dreagan darted in their direction as Fominel finished his sentence.
+
+"It's here!" he said in a hushed whisper.
+
+The waves parted as it approached in a dash. It was close enough to properly comprehend the size now. Darya estimated the sphere to be at least thirty meters in diameter.
+
+The fact that it was hopping around was an understatement. It was fluctuating like mad, displacing air around it in shockwaves. Magic aside, just standing on two feet before it would require good constitution and movement skills.
+
+Darya had a few ideas on how she would've fought this if she were an Archdemon. She didn't even need to check her Skills screen to see what she had. Her Warblade staff was enough evidence that she wasn't built to be a frontliner.
+
+She had another idea.
+
+A dangerous idea.
+
+[Inspect]
+
+She used the command as the Dreagan slowly approached the treeline. It was rotating sporadically like an eyeball.
+
+Creature: Black DreaganKind: MagicalLevel: 135HP: 4,324/4,324MP 4,312/4,312SP 99/121
+
+Fominel's estimations have been correct. Effective health was up for interpretation. The system wasn't doing that calculation for her. She could see why Dreagans were a problem. They were much tougher than what Inspect showed.
+
+Seris must really know what she's talking about.
+
+The Dreagan didn't find anything in their last known location on the beach. It circled the area for a bit, combing the whole forest from above.
+
+"It might drop a Shadow here, if they can smell us," Seris whispered shakily.
+
+Darya already knew why she was scared. The Dreagan could leave after dropping a shadow, but they would have to fight it when their limited protection runs out. As soon as they make contact, the Dreagan would return to swallow them.
+
+"Hmm, in that case, this is a trap," Darya said, looking at her spells again.
+
+[Spells 25/25]
+
+Spell: Seven Petal SpearGrade: 35Rarity: UncommonAxes: Un(163)Mana: 163MATK/s: 326Shaper: LineDuration: 2sStatus Effects: BurningShoot a ray of fire that splits into seven and flares outwards on impact.
+
+Spell: Blast WeaverGrade: 58Rarity: RareAxes: Lo(20) Ae(112) Un(161)Mana: 293MATK: 1,758Shaper: TouchDuration: InstantStatus Effects: Bleed, BurningRelease a cluster of powerful explosions that subdivides and deals damage over three seconds. The explosive sparks can ricochet off surfaces.
+
+Spell: Comet of VolariaGrade: 67Rarity: RareAxes: Un(257) Ri(257)Mana: 514MATK: 2,313Shaper: BoltDuration: InstantStatus Effects: Burning, KnockdownFire a high-speed Mana-infused projectile along a ballistic path that deals heavy damage to the designated target.
+
+.
+
+.
+
+.
+
+"I want to try something," she said, leaning away from the rock. The Dreagan had moved about a hundred meters away. Timing mattered a lot for what she was about to do.
+
+"What?" Seris asked, looking at her curiously.
+
+Darya stood, weighing her Warblade staff.
+
+"W-wait! princess!" Seris yelled, leaping back. "Whe-what are you doing!"
+
+"P-princess!" Fominel gasped.
+
+"I want to test something new. You two follow me, but stay near the treeline until I yell for you," she said, using the staff to hop over the rock slate they were hiding behind.
+
+Without wasting any time after the jump, she started running back to the beach. She felt her heart pounding in her ears as she came to a sliding stop in the middle of the beach, as Seris and Fominel were breaching the treeline.
+
+The Dreagon was rotating on its axis towards her direction. It had detected her already. Darya raised her Warblade staff.
+
+[Seven Petal Spear]
+
+She watched the energy beam splatter into seven across the black surface of the Dreagan. Predictably, the spell didn't deal any visible damage.
+
+Sand and fragments of trees flew as it darted towards her in a straight line. She saw Fominel unsheathing his swords, his mana pouring through the hilts to create two long blades. One silver, one dark red.
+
+There was no time left to yell at him to stay put. It was fair that he didn't trust her to survive on her own.
+
+A gust of wind swept across them as the Dreagan came to an abrupt stop an inch away from the ground. Darya covered her face with her arm as she took a step forward.
+
+"Princ—" Fominel's voice cut off as the Deagan blared like a disaster siren.
+
+Darya gripped her staff as it began releasing a Shadow. The dark figure appeared headfirst, being born from the tar-like outer shell. The face molded itself, and the figure started pushing itself out with its own hands.
+
+Fominel appeared through the dust cloud. He was using some sort of stepping technique to move faster now.
+
+"Princess!" he said in relief. "I'll hold it off!"
+
+Darya grabbed his arm when he tried to leap at it. "I said wait until I yell for you," she said, taking a step forward.
+
+"But—"
+
+"Do what I say, Fom!" she yelled as she began sprinting at the sphere. The emerging Shadow wasn't even out of the Dreagan yet, but it extended its tar-black hands in her direction, gathering mana for a spell. She saw the five-axis star flash between the black fingers and caught a glimpse of the spell beginning to form.
+
+She wasn't going to wait to find out what it was. Leaping forth, she issued the command she had wanted to test since the moment she saw it.
+
+[Vainfall: Terminate]
+
+The world turned gray, freezing everything around her at once. She closed the gap with her Warblade pointed forward.
+
+[Blast Weaver]
+
+The five-axis star flashed as her Warblade glowed red-hot. It was an Unezilo and Aenthune combination spell, the exact two axes that her Manacer needed to be sharp enough to cut stone. This was how she found it in the cave.
+
+It ripped through the dark figure's torso, sinking into the Mana-enforced layer of the dark sphere as the spell formed beyond the tip. Darya leapt with all her might as colors and time returned to the world.
+
+Blast Weaver exploded in the next split second as she plunged the staff deep into the sphere. It cracked like an egg hammered with a nail, spurting a torrent of cold white liquid through the cracks. More cracks appeared from within as the spell ricocheted off everything inside.
+
+"Now!" Darya yelled at Fominel as she pulled out the smoking Warblade, showering in the white blood of the Dreagan.
+
+Fominel charged forward as Darya disappeared behind the curtain of white blood. Seris had said the sphere was going to bleed out, but Darya hadn't expected it to waterboard her this quickly.
+
+[Vainfall: Terminate]
+
+The world turned gray again, freezing the flood of white blood. Darya ran out of it, drenched from head to toe. This was the first time she noticed how this paused state worked.
+
+A faint matrix of dots predicted the changes that she caused in the world. It was hard to notice this preview in the gray void because the dots were only a shade brighter. She was impressed when she finally noticed them. The liquids splashed in this dot form, the sand cratering under her footsteps, even the misty splashes of white blood.
+
+So, the game's still running. Makes sense. You can't predict without comparing two points in time.
+
+This meant that this frozen state wasn't actually setting the time scale to zero. Things were still moving at a certain rate, but far too slow to detect with the eyes and not fast enough to matter in the two- or three-second gap. The predictions were being done in that time scale, extrapolated further with impressive accuracy. The challenge of achieving this made her developer senses tingle.
+
+Marveling at the prediction dots, she dashed towards Seris with her Warblade in hand, passing Fominel, who was charging forward with a determined look on his old face. The gray world faded as she drew near, and she watched as the predictions were fulfilled in real time.
+
+A Darya-sized splash of white blood splattered across the sand in Fominel's direction. Sand flew from the series of delayed impacts of her feet. Fominel's leather cape swayed in the gust of wind of her passing him.
+
+She came to a sliding halt near Seris, who hadn't even registered what had just happened. She was still yelling, reaching out desperately towards Darya's last known location, which was a waterfall of white blood.
+
+"—incess!" The latter half of Seris' scream rang out as she got hit with the gust of wind that Darya carried forward, peppering the poor girl in a mist of white droplets.
+
+"I'm here!" Darya said as Seris's head snapped towards her.
+
+"What in the world! You were there—now you're here?!" Seris blabbered, pointing her finger between the locations that she had last seen Darya. "Eh? H-how, what?! I—prin, what! What!" She continued to make a set of utterly confused elf noises.
+
+Darya smiled at Seris while wiping white blood off her face. She could already tell this blood was going to be sticky like milk. She needed a bath as soon as possible.
+
+Turning around, she watched Fominel as he launched himself at the cracked Dreagan in a diagonal line with both his Mana blades extended at least five meters. He sliced across the leaking spot, rotating mid-air in a flurry of cape cloth and silver hair.
+
+His slashes ripped the biggest hole that Darya created even further, cutting the punctured corpse of the Shadow into several pieces. His blades had two effects. The white-blue one was good at clean slashes and penetration. The red one left crude gashes that slowly widened, material crumbling away with residue mana.
+
+He's the flashiest one here. That's a nice combo. I'll have to inspect those blades later. Seems even higher grade than my staff.
+
+Fominel landed in a splash of white blood as large chunks of the sphere fell apart behind him. Gripping his blades tightly, he pointed both Manablades into the cavernous crater that his slashes had exposed. The dark sphere's brittle inner flesh was fully out.
+
+The swords grew in length tens of meters at a time until they burst out of the top of the sphere, puncturing the inner flesh in a finisher blow. He extended his hands to the sides while turning in place, splitting the sphere into several large pieces.
+
+The ripped chunks splashed into the water below, splashing diluted white blood.
+
+Black Dreagan DefeatedDamage Dealt: 1617 (37%)EXP: +3,597 (View Axes)
+
+Fominel sheathed his Manablades and hurriedly wiped his drenched face.
+
+"Princess! Where are you! Princess!" He started howling at the ground with his hands on his head.
+
+"I'm here, Fominel!" Darya yelled, but Fominel was losing it on his knees, digging the wet sand looking for her.
+
+"Princess is here! Fom! hey!" Seris yelled louder than Darya, cupping her hands around her mouth. Her voice was higher-pitched and louder.
+
+Fominel turned around, panting hard. "Oh!" he yelled when he saw Darya. "Princess!"

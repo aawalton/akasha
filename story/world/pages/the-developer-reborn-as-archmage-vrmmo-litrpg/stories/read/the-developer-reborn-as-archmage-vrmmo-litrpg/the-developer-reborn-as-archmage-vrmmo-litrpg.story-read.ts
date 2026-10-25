@@ -1,0 +1,46 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theDeveloperRebornAsArchmageVrmmoLitrpg = {
+  id: "01a17371-a5c3-72f0-a155-0d2937573424",
+  type: "page-type/story-read",
+  slug: "the-developer-reborn-as-archmage-vrmmo-litrpg",
+  author: "Volarian",
+  following: false,
+  unit: "unit/words",
+  title: "The Developer Reborn As Archmage [VRMMO, LITRPG, ISEKAI]",
+  world: "world/the-developer-reborn-as-archmage-vrmmo-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "170946",
+      externalLink:
+        "https://www.royalroad.com/fiction/170946/the-developer-reborn-as-archmage-vrmmo-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Ruling Class",
+    "Comedy",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Attractive Lead",
+    "Female Lead",
+    "High Fantasy",
+    "Lesbian Romance",
+    "Magic",
+    "Reincarnation",
+    "Romance Subplot",
+    "Secret Identity",
+    "Slice of Life",
+    "Strong Lead",
+    "Survival",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-25T14:23:10.275Z",
+  updatedAt: "2026-10-25T14:23:10.275Z",
+} as const satisfies StoryRead

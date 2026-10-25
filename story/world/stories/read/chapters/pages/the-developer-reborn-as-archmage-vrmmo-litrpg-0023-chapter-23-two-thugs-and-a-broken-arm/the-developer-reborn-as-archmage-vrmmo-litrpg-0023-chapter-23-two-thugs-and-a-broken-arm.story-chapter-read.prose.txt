@@ -1,0 +1,157 @@
+Lurim gave her directions through the ruins again. They were heading away from the cylindrical elder house, even deeper into the ruins. The buildings rapidly reduced to foundations, then soil, and then grass. About a hundred meters further, they reached a wind-bent treeline on the slope.
+
+Whatever the boy wanted to do was on the other side of the treeline. Darya thought twice about heading this far on her own, but she decided to take the risk because she was fairly confident about keeping the boy and herself safe.
+
+She found herself at a cliff overlooking another strip of shoreline after following a grassy footpath through the wet forest. The waves lapped against an abandoned pier with not even a rowboat on it. The wooden building next to it looked recently renovated, but it was still full of gaps and holes.
+
+“Someone’s down there?” Darya asked.
+
+The boy nodded.
+
+“We’ll go talk to them first,” Darya said, looking at the rickety path that led down the cliff. She didn’t know who they were going to fight. It could very well be some merfolk fishermen this toddler had a grudge with.
+
+Apart from a clothes line of dirty rags, there was no sign of any habitation that she could see. Darya placed the boy down, grabbed his hand tightly, and walked down the thin zigzagging path down the cliff.
+
+They walked across the beach right onto the pier without any sign of life in the area. Lurim was preparing his slingshot the whole way there, always with a pebble drawn like a soldier sweeping the terrain.
+
+“Ehhem!”
+
+They both got startled by someone loudly clearing their throat behind them. The boy jumped, turning around to point his slingshot in the direction the voice came from.
+
+“Well, I've seen the brat before, but who the fuck did he bring here now?!” A rough voice erupted from the wooden house as they neared it. Darya heard the click of a weapon behind her.
+
+“Oy, issit that brat from the cave?” a second rough voice asked.
+
+“Gentlemen, I’m just here to talk!” Darya said, interrupting them.
+
+“Hands where I can see them, lady. Or you’ll have no head in a second,” the first voice said. She heard the click of the weapon again. “And tell this brat I’m going to shoot him if he sends another rock my way!”
+
+Well, I don’t know his sign language. If he heard you and still takes a shot, that’s up to him.
+
+“Oy, oy! Gelbur! issen this one of ‘em white nuns?!” the second voice asked, turned to a higher pitch in surprise.
+
+“Who gives a shit, this is our turf.”
+
+Darya managed to turn her head just enough to catch a glimpse of the two men behind her from the corner of her eye. They weren’t merfolk. The first grumpy voice belonged to a fat, gray-skinned man with a crude gun with a stout black barrel. The second voice belonged to a thin man with a curved sword. They both had dirty braided hair.
+
+She hadn’t heard their footsteps or felt their presence before they appeared behind her on the pier. The wood beneath her feet was creaky and loud. There was no way she wouldn’t have noticed.
+
+How were they so silent? A potion? skill?
+
+It couldn’t be spells. These thugs didn’t have Manacers.
+
+[Inspect]
+
+Rork Gelber
+
+Role: DeckhandLevel: 35EXP: 240,220 (40%)
+
+HP: 1,117MAX HP: 1,117MP: 326MAX MP: 326SP: 812MAX SP: 812
+
+STR: 255DEX: 215CON: 120RES: 117
+
+Deckhand. That’s a role now? Deckhand of what ship? Is this a pirate?
+
+Heavy footsteps thudded on the pier as the heavy man walked up to her behind. He grabbed Darya’s hands with one hand while pressing the barrel of the gun against her back with the other.
+
+“Ha! You got somethin’ under the glove!” the man said, squeezing her right hand middle finger. She felt his breath on her neck. “Something big! Ha ha!”
+
+“Princess! Do something! This is an emergency!” Sarka’s panicked voice came from her hand just then.
+
+Ah shit. He panicked.
+
+“Eh?” the man leaned back. “You say summin’?” he asked his friend. “You call someone a–a princess?”
+
+“What? Gelber, you idiot. Thassa nun right there,” the thin man cackled like a dog.
+
+“You called her a princess, not me!” The heavy man said, squeezing Darya’s wrists tighter.
+
+“What are you on about?! Who’s a princess?!” the other man argued.
+
+I need to get rid of the ring. I can’t even throw a punch wearing it!
+
+Darya struggled to loosen the ring inside the glove. The heavy man noticed her twisting her hands and poked her hard with the gun. He yanked her hands back, taking both her gloves off in one go.
+
+“I said, don’t move!” the man yelled, kicking her on the back. Darya flew forward and crashed to the floor as Lurim leapt away. It had somehow worked out. The ring was no longer on her right hand.
+
+Darya stood with a grunt and faced the two thugs. The heavy man was feeling around her gloves to find the solid thing inside. He pointed the gun at her when he noticed her looking at him. He gestured at her to raise her hands.
+
+Just then, a pebble bounced off his forehead with a loud crack, making his head tilt all the way back. Her gloves fell on the pier as the man let out an angry yell.
+
+“Ugh! You!!!” he screamed through clenched teeth, sweeping the gun with a trembling hand. He was swinging in the boy’s direction. Darya caught a glimpse of his finger tightening around the trigger as Lurim started running away.
+
+[Vainfall: Terminate]
+
+She was going to do something she hadn’t done yet. This was about as experimental as anything she did with the Warblade.
+
+[Skill: Wind Step]-20 SP • 8s Cooldown[view more]
+
+She dashed right next to the man in a split second. As expected, she phased through him as she would’ve phased through any rigid material. She saw the prediction dots wiggle a bit like a small ripple on the surface of calm water.
+
+She hadn’t paid attention to this before, but it had always been a thing. She had phased through the flood of white blood when she killed the first Dreagan. She had phased through things multiple times during the Sarka fight and taken it for granted.
+
+What she wanted to do now required her to closely examine the exact threshold.
+
+So, the phasing happens when I move faster than the dots can calculate.
+
+Pivoting around the fat man’s right side, she threw a punch at his gun arm. It had to be thrown deliberately slow, only fast enough to move the prediction dots, but not fast enough to phase straight through.
+
+She watched the prediction dots move both ways upon the impact, her arm compressing and wrist bending a certain way. The impact dragged the man’s arm at the bicep, stretching it more than any muscle ever should. Her punch went through his arm as if she drove her fist into a curtain.
+
+He hadn’t pulled the trigger yet. I caught him in time.
+
+She stopped the punch there as the last half second of Terminate caught up. She only caught a glimpse of the resolution of her action as the monochrome world faded. The man’s arm bent as if he had no bone there. Her own fist burned for a second, and she couldn’t feel anything with the rush of adrenaline. She knew it had to have broken something with the way her wrist bent.
+
+The fat man flew from the impact, his broken arm flailing like a limp tube. The gun flew from his hand, already out of the pier within the second. Terminate ended.
+
+Darya snapped her head to the second man, who had just begun to notice her materializing right between them. His wide eyes caught her just in time. She watched his dirty-toothed mouth open in surprise as he raised his curved sword.
+
+[Vainfall: Terminate]
+
+She stepped off the falling fat man, dashing fast with her own two feet to phase through his body. In a second, she was behind the scrawny one, her back to his back.
+
+She caught a glimpse of her own fist as she brought it up to slam her forearm across the back of the man’s spine. She had punched the fat one hard enough to break her own bones. The glove she wore was in tatters, exposing her knuckles, which had cracked open. Droplets of blood flew in every direction as she shook her hand. The wounds hadn’t even begun to bleed properly yet.
+
+This one’s going to sting. Better use the hand before I start feeling it all.
+
+She made sure to swing where her hand couldn’t meet the metal sword at any point. Once she had the proper angle, she bent down and flung her arm to the side, maintaining a constant speed. She didn’t want to overdo it like the punch that broke her own fist. This time, she held her arm when the prediction dots showed the impact.
+
+Her own skin deforming, flesh jiggling, and the scrawny man’s back straightening. She pushed it an inch further when she started doubting if the hit was hard enough to immobilize him.
+
+This time, she started feeling the pain from the last half-second. Her forearm slammed the man across the lower back like a club. She felt his bones crack, and her own bones rattled. He flew sideways off the pier into the shallow water.
+
+Darya stumbled forward as she emerged from the monochrome world of the Terminate.
+
+“Ouch ouch ouch fuck me,” she winced, shaking her right arm. She could’ve handled the pain, but this felt like burning. She managed to lift it at the elbow and unclench her fingers. Her hand was covered with blood, fingers trembling and bent in slightly wrong angles.
+
+God damn, it hurts like a bitch. Shouldn’t do things like this without Seris nearby.
+
+The fat man crawled away from her while gathering his destroyed right arm. Darya noticed the full aftermath of her punch. His bicep muscle was shredded to strings, his bones shattered to jello. He was bleeding out onto the wood, a thick red puddle growing around him as he desperately crawled back. The water turned pink under the pier. The man was making noises like a wild animal.
+
+She had no medical background, but she knew it was too late for him already. She felt bad, but she stopped herself from feeling any worse. If she didn’t intervene, the toddler would’ve been shot with something worse than a twelve-gauge.
+
+Don’t need to feel bad about assholes, whoever they are. Nearly killed the boy, and fucked my arm up.
+
+Darya turned around and saw the scrawny man face down in the water. He was also bleeding from the back, but it wasn’t as bad as the other one.
+
+The boy had also leapt into the water and was bobbing up and down with his mouth open in surprise. He would’ve only seen Darya flickering between the two men and them flying in opposite directions.
+
+“You alright, Lurim?” Darya asked, trying to ignore the burning pain creeping up her right arm.
+
+The boy threw his hands up, laughing like a madman. Darya laughed with him for a few seconds as the other man’s yells of pain filled the air. She saw him crawl over the edge and splash into the water, turning the water red around him. His yells vanished in watery gurgles.
+
+She noticed the thin man move his arms, finally coming to after breathing enough seawater to fill his lungs.
+
+Wait. I should grab this one. I have questions to ask.
+
+She crouched at the edge of the pier and jumped down, making sure to keep her injured right arm above her head. Getting any saltwater on those wounds would make her glitch out of reality. Grabbing the struggling man by his foot, she started wading back to the beach.
+
+“Lurim! help! Grab his other leg!” she yelled without looking back.
+
+The boy splashed out like a torpedo from the other side, stared at her for a bit, and started pulling the man by his shirt.
+
+Rork Gelber DefeatedDamage Dealt: 847 (75%)EXP: None.
+
+She hadn’t received anything for all the effort it took. She had essentially punched a man to death without using any mana. The damage she dealt didn’t count towards any of the axes.
+
+Well, shit. I really need a Manacer. This asshole better have some answers, or I’m throwing him back to the waves.

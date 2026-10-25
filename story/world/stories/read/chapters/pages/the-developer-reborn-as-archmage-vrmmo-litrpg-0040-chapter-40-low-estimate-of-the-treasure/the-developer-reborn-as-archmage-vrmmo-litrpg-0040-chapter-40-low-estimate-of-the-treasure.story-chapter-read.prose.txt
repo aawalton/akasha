@@ -1,0 +1,181 @@
+“A Seer,” Darya tilted her head. This indeed changed things. She had one immediate question. “How good are you?”
+
+“Master Lam! You’re going to save him, right? Princess?” Nerima asked desperately.
+
+“Yes, answer the question. Was it he who made you a Seer?”
+
+“Y-yes. He made me learn it all because he was getting old—” Nerima clutched her dress. “And wherever we go, we can’t live with people if we don’t do something they find useful, you know. He was telling me to be good at something. Lurim too, but he’s only three. He can talk with fish sometimes, though.”
+
+“He’s a speaker of the Sea!” Sarka yelped again.
+
+“He’s three, and he can talk with fish?!” Darya also found this preposterous, but for a slightly different reason, because the boy couldn’t talk at all.
+
+Is he a mind-bending fish or something? How does that work?
+
+She remembered seeing some fish in their home. Now that she thought about it, that hole in the cave was the actual space for Nerima and Lurim. The creatures there had to be their pets. These merfolk children were quickly becoming more interesting the more she learned about them.
+
+“Why did I hear shouting?” Seris asked, leaving her post at the door for a bit.
+
+“She said she’s a Seer,” Darya said, gesturing at Nerima.
+
+Seris jolted, narrowing her eyes at the mermaid as if she had become a new creature. “Whoa. Then we can—”
+
+Darya shook her head before she spoke her thoughts out loud. Seris seemed to understand, pursing her lips without another word. “I’ll be at the door.”
+
+“I suppose you’ve trained long enough to be good at being a Seer, then?” Darya asked, hands on her hips.
+
+“Y-yes, princess. I can do what master Lam can.”
+
+“I don’t know how good he is, but. Alright. Then you can do more for me than I thought. You should’ve told me this earlier.”
+
+“S-sorry.”
+
+“This means, you can find me the most valuable things in this room, can’t you?”
+
+Nerima blinked several times. “Princess?”
+
+“The owner is dead on the floor. I know Seers need something to see with, and there you go. You have his entire body and everything he owns. Now, be quick. Tell me where he hid the best stuff!” Darya clapped her hands.
+
+“Diabolical use of a Seer, princess!” Sarka said. “I’ve never consulted one to rob from the dead!”
+
+Darya laughed. “Sounds like you never figured out how to have fun, Archmage supreme.”
+
+Nerima peeked over the bed at the dead orc. “I-I’ve never used a corpse, but I can try for you, princess.” She sounded shaky, as if she was afraid.
+
+“What do you need from the corpse? I can cover the face if you don’t want to look at it.”
+
+“I-it’s fine. I was always scared of him. If he haunts me when I’m seeing into his past, I might freeze up. I want you next to me,” Nerima said, patting the bed.
+
+“You can interrupt a Seer if you shock them with your mana, princess,” Sarka said as Darya crawled onto the bed.
+
+“Yes, princess,” Nerima grabbed Darya’s hand, intertwining her fingers. “Do that if I turn cold or if I turn rigid.”
+
+“Fine, I’ll bring you back,” Darya said, squeezing her hand reassuringly.
+
+Nerima bent over the side of the bed and grabbed Drakva’s bloodied hand. She shuddered for a second. She came back up with his blood on her palm. Swallowing hard with a look at Darya, she closed her hand into a fist and hovered it above her chest. Exhaling slowly, she closed her eyes as her skin glowed faint blue mana lines.
+
+Darya watched her closely for any signs to intervene. Nerima mumbled unknown words at certain points, shivered as if she got swept by a chilly wind, and clenched her fist tighter sometimes while loosening at others.
+
+“F-first row of the b-book shelf, th-there’s a lever behind the fifth green book with a crown symbol on it. Gems,” Nerima said shakily.
+
+“Sarka, remember these!” Darya hushed at the ring.
+
+“Near the hearth, ninth brick from the base. Key for a safe, under the bed, in a hole carved into the wall. Head side. Turn the key six times; it’s not a normal key or a normal safe. Gold relic.” Nerima continued. “Behind the painting on the right wall, twin crystal swords from an Elf king. Statue on the writing table, third one from the left. Pull it up, secret drawer on the side. It’s a…map? expensive map. More. I see more! Gold under the floor. Gold bars…”
+
+Darya let this continue until the list grew too long for her to remember without writing it down. Nerima got steadily more unstable the longer it went, and her grip on Darya’s hand only tightened. Her body was turning cold, and the words she spoke broke down halfway.
+
+“I think that’s enough!” Darya announced, concentrating mana into her hand. The effect was immediate. Nerima let out a long sigh, relaxing her whole body at once. The blue lines on her body flickered out.
+
+After setting her at ease against a pillow, Darya and Sarka began going through the whole list. The first find behind the bookshelf itself was more money than Darya thought. It was a hexagonal box full of precious stones ranging from diamonds, emeralds, and rubies to more exotic Vainfall-specific ones like spiritfire, abystone, and dark chovaron. When asked for an estimate, Sarka said millions. Many millions. More than ten.
+
+The rest of the haul was quickly gathered on the bed, laid out in a neat row. Darya was especially fond of the twin crystal swords. Sarka stopped her from unsheathing them because of the possible loss of value. An old elven king’s infused mana was more valuable than the swords.
+
+Darya wrote the total estimates down on a piece of paper as she gathered everything. Once finished, she sat down and checked the total.
+
+Hot damn.
+
+She crumpled the piece of paper into a ball.
+
+“Seris,” Darya called over her shoulder.
+
+“Yes?”
+
+“Catch!”
+
+She started wrapping the entire treasure into an expensive-looking bedsheet from Drakva’s closet. Nerima crawled close to help her with it. They packaged everything in silence, making sure everything was tight and properly tied. The total haul weighed more than Darya thought, but she could still carry it on her back.
+
+Would’ve dislocated something if I had to do this when I was thirty.
+
+She placed it firmly on the ground and walked to the middle of the room. It was time to find the exit, which was the most crucial part of the plan. She could’ve made Nerima find it for her, but since she exhausted her Seer powers on locating treasure, it was up to Darya.
+
+It was fine by her. She already had the solution.
+
+It was one of the macros that she created in the void.
+
+[Vainfall: Overlay Depth Buffer]
+
+The effect was a lot different in RLP than what she expected. In the VRMMO, the render buffers—
+
+What was it like back then?
+
+She knew how and what render buffers were. She wouldn’t have been hired to build Vainfall otherwise. Something was cloudy in her mind. It didn’t make sense for her to forget something this fundamental, yet somehow she couldn’t remember exactly how the VRMMO depth buffer was implemented. Shaking her head, she focused on the present.
+
+The command made the world around her translucent, as if everything was made from layers of wax. There was a matrix of dots just like the prediction dots embedded within the translucent wax, a complex and tighter representation of every structure in the world.
+
+The main difference was that it wasn’t purely visual. A weird sensation flared from somewhere in her brain, and she suddenly gained spatial awareness that gave her whiplash.
+
+What the hell is this? It’s like my skin pores have cameras in them!
+
+There was no other word for it. She had gained a whole new sense. A sense for the depth of structures around her. She could intuitively tell the thickness of things. She could see past her own skin and sense her own arteries pumping blood.
+
+Looking at Nerima, she could see the rows of gills on her ribs under the dress. Her tail had an old slash scar that she hadn’t seen yet.
+
+Seris was coming up to her, looking nervous. She could see through her long elf ears. They looked soft, like bubblegum.
+
+“Princess?” Seris asked in a whisper.
+
+“Yes?”
+
+Darya’s eyes inevitably drifted down on the normal trajectory whenever she looked at Seris.
+
+And she suddenly noticed something she hadn’t so far.
+
+Seris wasn’t wearing a bra.
+
+“D-did I read this number right?” Seris asked, tilting her head.
+
+“Wha—ack!” Darya choked on her own saliva, trying to respond.
+
+She had seen the pretty elf put on a full set of underwear in their hotel room.
+
+When did she take it off? Why did she take it off? What else did she take off?
+
+Of course, she couldn’t ask it directly without sounding weird—
+
+Then she started seeing other weird things about her. Seris’s dress was slightly different. There was a crumpled knot on her right shoulder. The dress used to be below the knee. Now it was above the knee and tilted to one side.
+
+“Um, what happened to your dress, Seris?” Darya asked, leaning in.
+
+Seris froze, her face twisting into pure confusion for a second. “What? My dress?”
+
+“I didn’t notice before, it looks weird.”
+
+“Why is this important?” Seris asked, looking down at herself. “Yours is pretty much done for. Worse than mine!”
+
+“We can get new dresses if you like red ones,” Darya said, trying to steer this conversation somewhere else after starting it uncannily weird.
+
+“I don’t want to see red anything ever again, reminds me of an orc,” Seris said with an indignant scoff. “If you must know, I got slashed when I was running after you. It was someone’s spell. Hit me across the back. That’s why I couldn’t catch up. I was healing my back.”
+
+Ah. Makes sense now. Guess we didn’t have time to talk about things that happened yet.
+
+“I’m really glad you’re a healer!” Darya said, nudging Seris.
+
+Seris smiled, but her smile suddenly vanished when she saw the piece of paper in her own hand. “Princess…!” she yelped. “Is this number correct! How can this be true!”
+
+“It’s just an estimate,” Darya said, looking around for thin walls.
+
+Seris grabbed her hand. “Low or high?” she sounded shaky.
+
+“Low,” Darya tapped the ring. “Sarka told me—”
+
+Oh shit! wait. Can Sarka see the depth buffer as well?
+
+“Princess?” Sarka’s voice was lower than usual. “I’ve been silent, but what am I seeing right now? Why is the world suddenly made of weird clouds?”
+
+Clouds. Thank you.
+
+Thankfully, Sarka was most likely still seeing everything blurry. “Don’t worry about it. It’s a spell that’s helping me locate the exit.”
+
+“What is this spell? I didn’t notice you casting a—”
+
+“You two!” Seris groaned, squeezing Darya’s shoulder. Her hand was trembling.
+
+“Ah, yes. Sorry. Sarka, tell her about our estimate. ”
+
+“What I want to know is, if this is the low estimate, then what’s the high one?” Seris asked, swallowing hard.
+
+“Possibly twice as much, Lady Seris,” Sarka answered. “At thirty-three million, it would be sixty-six.”
+
+“Th-” Seris shoved the estimate paper down her neckline with a trembling hand. “Thirty-three million gold. You know how insane that sounds? That’s a vault!”
+
+Darya grabbed Seris’s shoulder and flipped her around to face the packaged treasure. “That’s our vault right there. Told you I’m going to solve the money problem, didn’t I?” She squeezed Seris’s shoulders. “We’re Desert Rose pirates!”

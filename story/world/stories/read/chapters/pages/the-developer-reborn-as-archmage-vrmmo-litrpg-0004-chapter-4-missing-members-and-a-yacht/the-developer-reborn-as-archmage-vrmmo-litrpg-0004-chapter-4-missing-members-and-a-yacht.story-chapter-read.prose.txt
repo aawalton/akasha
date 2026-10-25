@@ -1,0 +1,235 @@
+They regrouped in front of the remains of the Dreagan floating in the waves. They looked like filleted pieces of a whale.
+
+"Princess! How did you do that!" Fominel asked, his eyes still wide.
+
+"It's just something I can do now," Darya said with a smile. She wasn't about to explain it in any amount of detail.
+
+Seris was gazing at her with wide eyes, mumbling words quietly to herself. "...I'm not seeing this new spell or skill that you're using, princess?" she asked curiously.
+
+She had used the Party screen to inspect Darya.
+
+"Let's just say dying has its benefits. I don't recommend trying it, though. Why don't we get going?"
+
+Darya started walking in the direction that they were heading. Fominel and Seris joined on either side again.
+
+"That's the fastest we ever defeated any Dreagan, princess!" Fominel said. "Whatever it is that you did, I hope it makes you much harder to kill again!"
+
+"By the light! I always knew you were blessed by the Gods!" Seris said eagerly. "A prophet! a miracle! She's the chosen one!"
+
+"Don't get carried away now!" Darya laughed. She had impressed the pretty elf a bit too hard.
+
+That's a good start, though. Maybe I should lean into it.
+
+They walked along the beach in the direction of the campsite where Darya could finally be healed. Seris was utterly convinced that her princess was the second coming of the messiah.
+
+"I'm not that religious, Seris!" Darya said, amused by how enthusiastic the pretty elf was about this topic.
+
+"Eh?! But we're both Dovarists!" Seris said. "Did you forget that as well?!"
+
+"I was?" Darya asked, trying to remember the pantheon of Vainfall.
+
+There were several entities categorized as Gods. She remembered four of them having lore and gameplay importance in version six. Aramiel of Wings, Sevarin The Lightbearer, Eternal Demoness, and the Saint of Paths.
+
+Dovarism was built around the Lightbearer. She couldn't remember the exact details now, but she knew she wasn't a fan. It was loosely inspired by the Abrahamic religions that she was familiar with in real life, and she didn't need that in her escapist fantasy.
+
+She was more into the edgy red and black color palette of the Eternal Demoness in her Archdemon solo run.
+
+So many cool banners and leather outfits and armor kits!
+
+Seris hurriedly dug into the satchel on her waist and pulled out a bunch of silver trinkets. Looking closely, it was a pair of round glasses, a thin silver necklace with a long rod for a pendant, and similar rod-shaped earrings.
+
+Seris separated the pair of glasses from the jewelry. "I almost forgot to hand these back! I stripped you down before using the resurrection stone. These are your Dovarist jewels," she said, presenting them with both hands.
+
+Darya looked at them with interest.
+
+[Inspect]
+
+Item: Light Keys of DovarCategory: JewelryWeight: 0.05 lbsWorth: 190 GoldEffects: +20 RESGrants passive immunity to blinding and blesses the wearer with darkvision.
+
+"Oh, these are useful! Keep them with you for now, my pockets are full of blood," Darya said with a smile.
+
+"You don't remember them at all?" Seris asked. "You never took this necklace off. You used to wear it to sleep!"
+
+That rod's the size of a nail. Was I a Dovarist fanatic?
+
+"I still don't remember, but good to know," Darya said as she turned to Fominel. "What are you, Fominel? You're a Dovarist as well?"
+
+"I follow the Rule of Sands, princess. I come from a long line of warriors who never worshiped any Gods. Not out of disrespect, of course. It was never our way to pray."
+
+Darya vaguely remembered what he was talking about. Fominel was a follower of a warrior doctrine. In that way of life, the doctrine was as good as God. It was a crucial part of survival in a harsh environment.
+
+Karossa was a dry, arid island, if she remembered right. It all made sense now. He had become a palace guard to the princess despite being an atheist clansman. This meant his way of life had no problems coexisting with the Dovarists.
+
+She was curious about the missing party members now that she had gotten to know these two. Emil and Rossarie were out of range, whatever that meant. Earlier, Seris had told her that Emil and Fominel had worked together to break the sphere that swallowed her.
+
+"What happened to our other party members? Do you have any idea?" she asked, looking at them both in turn. Seris's elf ears drooped at the question.
+
+"Rossarie was keeping Sarka preoccupied while Emil was helping me crack the sphere," Fominel said, looking ahead. "Her arm got burned, and Emil rejoined the fight. I didn't see what happened next, only Seris did."
+
+"Sarka warped away," Seris said. "Took that whole chunk of the island with him. I blinked once, and they were gone."
+
+A large-scale porting spell? makes sense for an Archmage supreme. Doesn't make sense as a tactical decision mid-fight.
+
+"Hm...?" Darya hummed, trying to dissect why someone would do such a thing. According to Seris, the Shadows didn't have their own will. From the perspective of the Dreagans, their goal should be to weaken individuals with Shadows to make it easier to swallow them.
+
+Sarka had destroyed her first because she was the most powerful one in the party. The sphere had swallowed her afterwards, and she had died. Warping away after defeating her seemed wrong even at a glance.
+
+Why did he leave? Was it his idea, or did I do something to him during my fight?
+
+She had to check the activity logs to find that out.
+
+[Activity Log]
+
+The screen that came up had a long list of everything that had happened so far. She could scroll back endlessly, and annoyingly, that was the only thing that she could do. There were no convenient features like sorting by anything or searching for anything. It was just a giant list and a scrollbar.
+
+Luckily, she didn't have to scroll that far down to read the things that happened before she woke up. She couldn't tell where the Sarka fight began, but there were hundreds of items. A repeating name of a spell caught her eye.
+
+.
+
+.
+
+.
+
+Action: Used spell [Pillars of Erisoth]Result: target lost.
+
+Action: Used spell [Pillars of Erisoth]Result: target out of activation range.
+
+Action: Used spell [Pillars of Erisoth]Result: target successfully restrained.
+
+.
+
+.
+
+.
+
+That must be a spell that I have. I only checked the attack ones.
+
+She brought up the specific spell.Spell: Pillars of ErisothGrade: 114Rarity: MythicMana: 829MAxes: Ae(364) Un(465)Shaper: CircleDuration: 124sStatus Effects: Restrain, SlowSummon nine pillars of Erisoth to bind a target at the center.
+
+It was a neutral spell with no attack or defense properties. Judging by the grade and the mana cost, it was one of the best spells in her arsenal.
+
+It had failed two times, which amounted to more than 1,600 MP when her total mana capacity was seven thousand. Clearly, this spell was important to restrain Sarka.
+
+The area teleportation made some sense now, whether that decision was sound or not. Sarka had resorted to taking the pillars, the ground, and their party members with him.
+
+"They could still be alive," Darya said, breaking the silence. "Any idea where he warped off to?"
+
+"We need a Seer to find that out, princess," Fominel said. "We were going to find one when we thought the resurrection stone didn't work."
+
+"I see," Darya said. "We should find one as soon as possible. I want to find our missing members. I don't remember them, but that doesn't mean I'm going to abandon them."
+
+They came up on a lagoon at the end of the beach. The forest beyond the beach grew thicker as they went. There were mangroves the size of apartments and coconut trees bent like giant bows.
+
+Things were stylistically exaggerated in the VRMMO version. She hadn't expected them to be fully preserved in the RLP version, but she was glad to see that those things weren't totally removed either. The coconuts hanging from these giant trees looked as big as her torso.
+
+They passed a small campfire where Seris and Fominel had been roasting a fish. The actual campsite was deeper into the lagoon. They kept walking along the beach through the jagged edge of the lagoon until the whole arc of the shoreline was in sight.
+
+She didn't need anyone to point out where the campsite was. It wasn't even important compared to what immediately caught the entirety of her attention.
+
+There was a small ship anchored in the relative shallows.
+
+Her heart tingled when she realized why it was there. Until now, it hadn't even occurred to her that traveling around in a tropical island archipelago required a ship.
+
+She had gone through a pirate ship phase when she was younger. She was more than fascinated with sailing, but the closest she ever got was a horrible carnival cruise when she was thirteen.
+
+The ship before her looked as if it were pulled from a dream. It was a dark brown caravel with cream lines framing decorative golden floral trims. Folded sails were gathered on two masts, and a large black metallic chimney stood between them at about half the height.
+
+Vainfall was set in that middle century between sails and steam. This ship was the perfect poster for the overall level of conventional technology.
+
+The ship looked expensive and luxurious despite its size. It was somewhat weathered and beaten, but it had once been well polished and carefully maintained. Just looking at it infused the sense of adventure directly into her veins.
+
+I can be a pirate princess with a magic staff, a pretty elf, and a katana warlock. Maybe things aren't that bad after all.
+
+"I love it!" she declared, admiring it from the shore. "Is it mine? What is it called?"
+
+"It's your Desert Rose princess! cost a fortune to build it, mind you," Fominel said with a smile.
+
+Darya immediately thought every penny was worth it. As a lead developer on Earth, she only had enough savings to buy a fishing boat. This small ship seemed like Vainfall's equivalent of a yacht.
+
+"When can we set sail?" she asked Fominel excitedly.
+
+"Really?!" Seris exclaimed. "You hate sailing. You always get seasick!"
+
+"I certainly hope my death changed that!" Darya said.
+
+It didn't bode well for her pirate adventure if she was throwing up all day. She didn't know if seasickness was physical or mental. She prayed for it to be mental. She had survived that carnival cruise when she was thirteen with no problem.
+
+"You sound excited. Unfortunately, we should wait for better weather, princess," Fominel said. "It's going to take all evening for us to prepare, and it's going to storm tonight. We can leave in the morning once it passes."
+
+"Good!" Darya said, sticking her Warblade staff in the sand. "I'm going to wash this sticky blood off me."
+
+She stared longingly at the clear ocean lapping at the pristine sands of this beach. She had been wanting to leap in ever since she saw it.
+
+"W-wait, princess! This area is not safe for swimming! Seris yelled.
+
+"Oh? Why not?"
+
+"It's a type of red jellyfish around here. It'll kill you with a touch!" Seris grabbed her hand. "Besides, there's a nice bathroom on the ship that you spent thousands of gold to have installed! Come, I need a bath as well. I'll heal you afterwards."
+
+Darya's eyebrows twitched. On one hand, she didn't like people enough to bathe with them, and she didn't quite enjoy physical touch. On the other hand, it was the world's most beautiful elf girl making the offer. Nothing like this had happened during the thirty years she spent on Earth.
+
+It's my second life. Why the heck shouldn't I?
+
+"Hm! Alright," she said, trying not to giggle like a maniac.
+
+"Come on then, we have to hurry," Seris said, hurrying her steps. "You don't want to let that white blood harden in these winds!"
+
+"Is that bad?" Darya asked Fominel.
+
+"You'll lose every bit of hair on your body, either by trying to peel it off or by trying to dissolve it with a compound!" Fominel was drenched in white blood diluted with seawater, unlike Darya, who received the ungodly firehose.
+
+"Oh!" Darya gasped and started running without another word. She couldn't imagine starting her second life bald with no eyebrows, especially after meeting an elf girl from her dreams.
+
+They reached the campsite with three black canvas tents with floral decorations. The middle tent was dining and supplies, the other two were sleeping quarters.
+
+Seris hurriedly uncovered a paddle boat on the shore and pushed it into the waves. Darya helped her push it waist-deep and struggled into it with her help.
+
+"What about Fominel?" Darya asked, panting loudly.
+
+"He'll wash himself here," Seris said, starting to paddle.
+
+"J-jellyfish?"
+
+"He can handle that, don't worry!"
+
+Darya grabbed the second paddle, and they rowed the boat over the coral reefs in the shallows towards the Desert Rose. She was copying what Seris was doing without any experience with boats, but she quickly found her new body strong enough to contribute.
+
+She had a respectable strength attribute of 467, which would've been enough for absurd strength checks in-game, like busting down doors with a kick. In RLP, it seemed to work much differently. She was strong, but she was only strong for her weight.
+
+It still didn't make sense for attributes to climb to hundreds in that case. It could've easily been capped, placing each individual somewhere between zero to hundred, or ten, for example.
+
+Based on the fact that it was allowed to be as high as four hundred for an Archmage, and ignoring the possibility that attributes were capped at a thousand, this had to be deliberate. She thought about what she would've done to keep the attributes without an upper limit while still grounding characters in physical reality.
+
+Maybe the usage of full strength is limited? Is it what Skills do now? I'll have to check this later.
+
+In that case, Skills could cost Stamina SP to use, and they already had a cooldown. With those conditions, Skills could utilize the full magnitude of an attribute, or a definite fraction of it. It would be interesting.
+
+She had dealt with things like these for a lifetime, and she didn't want to start her second life as a developer. She was a pirate princess archmage now. She started paying attention to her surroundings.
+
+The boat was built with the same type of dark wood as the ship, with similar floral patterns along the edge. Even the paddles were decorated with gold carvings. It was truly a princess yacht. It helped to be reborn wealthy, although she only had one coin to her name right now.
+
+Once they docked at the ship, she followed Seris up the rope ladder and took the shortest path to the bathroom.
+
+She wanted to nerd out over her ship more, but unfortunately, the white blood on her skin was hardening like glue by the minute. With the glimpses that she caught, the interior of the Desert Rose looked magnificent. It was polished wood and floral carvings everywhere.
+
+The bathroom was larger than she expected. It was built with a lot of attention to detail. A large rectangular ceramic bathtub was in the center, surrounded by three identical stalls for showering. This looked more like a small Jacuzzi than a bath.
+
+Seris turned gears on the wall for oil lanterns and a larger wheel with the symbol of water on it. A whirring rumble of a machine came from beneath their feet as the bathtub began filling up with water.
+
+"Is that hot water?" Darya asked, looking around curiously. The ship was big enough to have a water tank, but wasting good water for a giant bath of this size didn't seem wise. This had to be ocean water.
+
+"Can't have hot water, unfortunately. Fominel would kill us both! We're running low on coal," Seris said, loosening her leather straps. "Purification stones still have charge, though. At least it won't be salty."
+
+Seris took off her corset and gestured at the tub. "Get in, princess. We'll need to cycle water once you're clean enough."
+
+Darya realized something all of a sudden.
+
+The brown dress she was wearing was the only thing that she was wearing. This dress had undergarments built in with soft padding. She had forced herself to be adventurous enough to get into a bathroom with the pretty elf with her 'second life, why not' logic, but now she was getting self-conscious.
+
+She looked around nervously. "D-do I have any clothes here?"
+
+"Huh? What do you need clothes for?" Seris asked, taking off both her dress and undergarments in one go rather unceremoniously. The fabrics fell around her feet in a heap.
+
+Darya's mouth fell open.
+
+She was clearly in that kind of situation now.

@@ -1,0 +1,157 @@
+[Vainfall: Terminate]
+
+Darya leapt off the horse.
+
+She needed a way to deal with her mana problem. First was a spell that she had already used once.
+
+Spell: Mana FunnelGrade: 41Rarity: RareAxes: Un(236)Mana: 236MDEF: 885Shaper: ConeDuration: InstantAbsorb incoming damage and convert half of it back to mana.
+
+It converted damage to mana, but there was the small problem of not having 236 mana to cast it, and of taking half the damage, even if it met her resistance and defense layers first.
+
+Luckily for her, Archmage Darya Altazark had thoughtfully arranged her kit. There was one other way to gather mana during a fight. She hadn’t used it thus far, but she remembered seeing it just fine.
+
+Skill: Warding of AltaSource: BloodlineMode: ActiveType: DEFStat: RESSP Cost: 30Cooldown: 250sDEF: 90Status Effects: KnockdownDefend against mana-based attacks; countering at the right moment may absorb some of the received damage as mana.
+
+The skill was expensive in terms of SP cost, and the description was a lot more dubious than the Mana Funnel spell. ‘Convert some of the damage to mana’ was a vague promise. It could just be 1%.
+
+Regardless, she had probably trained and perfected it over the years for this exact scenario of not having mana to harvest more. It was essentially a way to sacrifice some SP for a small amount of defense and an unpredictable amount of mana.
+
+She kept it at the back of her mind to use if the opportunity allowed. The next part of this fight required her to use more things that she added to the list of macros.
+
+Two.
+
+Dashing out of the way, she phased through the horse and the trees. She found the direction of the nearest threat, the man barreling forward like a wild hog.
+
+She used one of the totally untested commands again.
+
+[Vainfall: Frame Selected Entity]
+
+She had put it together with several debug commands that she saw down the list. It was one of the spontaneous ideas she got at the time, but this was a capability that should’ve technically been locked behind admin access.
+
+Guess we weren’t testing the combinations and grading them by capability.
+
+With this macro, she put together a way to select or focus on an entity. Meaning, anything living in the game, and then ‘frame’ it within her field of vision. This was the sort of function that level designers used to move somewhere they wanted to be, to work on something that they wanted quickly. The key difference was that she wasn’t just moving the camera.
+
+In fact, in RLP, there was no camera. She was a human. Her eyes were the cameras. If she had to ‘frame’ anything, she had to move there. She used a debug command that allowed short-distance movement similar to Wind Step and integrated it into the macro.
+
+This essentially meant that she could hop across distances to ‘frame’ entities that she focused on.
+
+Of course, she had no idea how it would work until she used it.
+
+Three.
+
+First, a glowing orange outline marked the man through vegetation. RLP was good at picking up her intention because she was sure the man wasn’t the only entity in that direction. There could be insects, birds, or snakes.
+
+It still picked the man, which was a great relief.
+
+Would’ve had to call it a day if I had to sort through all the insects.
+
+Drawing her dagger, she flew across the forest in a straight line, more like a camera zooming than the Wind Step skill’s movement.
+
+She phased through rows of trees and boulders to get there, and during the last half a second, she was reminded of the dangers of this new command.
+
+It didn’t care for any collisions.
+
+It was only about getting her from point A to point B in a straight line. When the monochrome world faded, Darya felt the bushes and plants graze her skin like razor blades as the RLP physics system delivered the damage of attempting to phase through solid objects.
+
+She stumbled forward with the dagger three feet away from the man running full speed at her. Ignoring the fresh cuts she got from half-phased-through vegetation, she ducked under his wide-eyed face. As botched as this was, she had still caught the man by surprise.
+
+[Vainfall: Terminate Twice]
+
+Due to its nature, Frame Selected Entity needed constant Terminate commands to work. She had to be able to phase through anything in the world. If she made a mistake, she could very well splatter herself on a rock or fuse herself with a tree. The limit was the four Terminates that she could chain before slipping into the /dev void again.
+
+There was risk in that as well.
+
+She could slip to the void at a crucial moment, and when she closes it, she would be defenseless for a split second. This was by no means playing God. She was one mistake away from a very unpleasant death at any moment.
+
+One. This is scary as hell.
+
+She bent down, slashing across the man’s ankle. She was used to the speed of slashing now, slowly watching the prediction dots splash like blood.
+
+The dagger didn’t glow without mana, and the Eternal Demoness wasn’t going to do anything without payment. It was still a sturdy dagger for what she wanted to do. She made sure to cut the ankle at least halfway through. She needed this man immobilized or dead. She wanted to be merciful, but she didn’t want him to easily heal and start chasing again.
+
+Two.
+
+Finishing the slash, Darya looked through the trees for the next target. She found a woman suspended mid-dash through the trees. She seemed to be moving with mana, weightless like Darya’s flying spell.
+
+[Vainfall: Frame Selected Entity]
+
+It was the best possible demonstration of the new command. One second she was finishing a slash, and within the next second, she was face to face with the mage woman, finishing the same slash.
+
+Three.
+
+Rotating in place, she cut across the woman’s face. She wasn’t sure how deep she cut, but the dagger also suffered damage upon impact with the skull. Prediction dots showed the blade bent at the hilt.
+
+Three and a half. Fuck. Not now.
+
+She didn’t have time to worry if the attack was fatal or not. Slashing someone’s face was enough to discourage them in any case, and if she actually cut the face like a cake in the process, there was nothing that could be done about it.
+
+The third target was close by, about thirty feet away from the flying woman. He was bent forward, using mana threads to pull himself through the trees.
+
+Four.
+
+The monochrome world flickered as the second Terminate of the chain activated. Darya was glad she stumbled into the rhythm of avoiding the brief gap between activations. The new command was too dangerous to use that way.
+
+[Vainfall: Frame Selected Entity]
+
+She appeared to his left at a diagonal angle, and she drove the dagger into his trapezius. Prediction dots showed blood spraying and the man hunching about two feet lower with the impact.
+
+The dagger was still bending from the previous impact. Darya quickly found out what that meant. It was off target by an inch or two because the prediction dots were still being calculated for its new shape.
+
+Five.
+
+The fourth, fifth, and sixth targets were about thirty feet behind them in a clearing. She saw one woman and two men.
+
+[Vainfall: Frame Selected Entity]
+
+Darya appeared in front of the first man who was about to dive into the trees from the clearing. He was brimming with blue mana. The dagger’s prediction dot blade met him, cutting rather deeply through the bone. Darya landed on the grass as she lost her grip on the dagger. It remained lodged on the man’s hip, where it sank at an awkward angle.
+
+Six. What now. I don’t have another weapon!
+
+[Vainfall: Frame Selected Entity]
+
+She dashed in front of the woman with her fist clenched.
+
+[Skill: Hammer Fist]-15 SP • 280s Cooldown[view more]
+
+She drove it deep into her gut, punching as hard as she could. It meant punching slowly, not enough to puncture or phase through. The prediction dots showed the woman’s back bulging with the impact. That was enough force to put her to sleep or jumble her organs. Darya couldn’t tell at this point.
+
+Darya’s fist suffered some damage in the process as well; she saw her wrist predicted to bend at a slightly wrong angle.
+
+That’s going to hurt later. Six and a half…
+
+She stepped away from the woman he punched and took a step towards the man four feet away. She had nothing to hit him with as the monochrome world faded back to reality. The man was extending his hand to the sky in a weird gesture. White mana was erupting from his forearm.
+
+It looked as if he had thrown a javelin. Confused, Darya waited for the consequences of her actions to manifest. The man near the tree line crashed to the ground, screaming in pain as blood sprayed from his hip. The woman she punched flew a foot off the ground and fell backwards with blood spurting from her mouth and nostrils.
+
+The third man doing the strange javelin gesture noticed Darya, and he quickly changed his pose, clenching his fists.
+
+Ducking just in time, Darya grabbed a rock off the ground.
+
+[Vainfall: Terminate]
+
+The world flickered with artifacts, and the man froze mid-spell, his white mana turning into sharp twisting blades along his forearm.
+
+One.
+
+Leaping at the man, Darya slammed the rock into his chest. Letting go of it as it half buried itself in the man’s torso, she ducked under his extended right arm and dashed fast enough to phase through him.
+
+Two.
+
+Turning around, she caught a glimpse of a black shape above the distant treeline. It was at least a hundred feet off the ground, a flailing piece of black cloth—
+
+Is that someone fucking flying?!
+
+Darya connected the dots. This man here had done something to send someone flying. She didn’t know what it was. It could be some spell that made another mage weightless or boosted their speed. It didn’t matter. The flying one was well past where the horse was, halfway between Nerima and Seris, heading towards the same beach.
+
+If this flying mage had passed over them without Sarka noticing their mana signature, Seris would have had no chance of detecting them either. She was going to get attacked from behind with no warning.
+
+Three. Fuck. I have to get back there.
+
+Darya made the split-second decision to do one of the most dangerous things she had done so far: propelling herself into the sky without a guaranteed soft landing.
+
+Three and a half.
+
+[Vainfall: Frame Selected Entity]
+
+She zoomed straight towards the flying mage, appearing two feet behind them with only her four limbs to do something with.

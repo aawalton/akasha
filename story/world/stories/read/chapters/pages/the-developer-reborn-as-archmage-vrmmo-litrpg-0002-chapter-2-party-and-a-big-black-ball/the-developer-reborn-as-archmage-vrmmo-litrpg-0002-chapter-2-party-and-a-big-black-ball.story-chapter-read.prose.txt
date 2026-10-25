@@ -1,0 +1,195 @@
+The girl wobbled and fell on her knees on the sand, grabbing onto Darya with all her might with her thin arms as she bawled her eyes out.
+
+Darya didn't know what to do or say. She was never comfortable in situations where people hugged her. She had actually gotten a lot of tearful hugs during the last month when everyone finally got to know about her diagnosis, but she hadn't found solace in any of them. If anything, she felt smothered.
+
+The old man arrived panting after the girl. He fell on the sand just like the girl did, reaching feebly at Darya's feet like a thirsty traveler at the edge of a desert oasis.
+
+They kept sobbing for an uncomfortably long duration. Darya kept staring at them with a blank expression while they were furiously wiping tears and snot on every piece of fabric.
+
+She was thinking about how to have emergent NPC behaviors of this impossible fidelity back in version six. The only viable way she could think of was a gigantic behavior tree with an intricate set of motion-captured animations. Even then, it would've been a patchwork of half measures to work convincingly, or this one interaction sequence alone would've eaten resources of a non-VR game.
+
+Looking at these two and thinking about NPCs, she felt a delayed jolt of empathy for their situation. Their princess, whom they thought was dead, had been resurrected. It was only natural for them to react this strongly.
+
+Snap out of it. These are not NPCs if they can bleed as I do. I should say something.
+
+This thought occurred to her somewhat too late. She felt too awkward to speak any words now. Mouth half open in uncertainty, she continued staring at them.
+
+Eventually, the girl emerged from a fit of sobs. She let go of Darya and leaned back, blowing her nose on her dirt-stained cape. The old man was hunched next to her, hugging himself as if he were cold. It seemed he was just as out of words as Darya.
+
+She examined these party members more closely as they were calming themselves down. She didn’t like people, but she was uncomfortable being rude to strangers.
+
+The old man was definitely older than forty but younger than sixty. He had greying hair with only the roots retaining the former jet black. He was balding at a rather fortunate rate, although he was getting close to a Norwood already. His eyes were a pale shade of brown with faint green rims around the irises. Combined with his sharp eyebrows, he had the demeanor of someone a lot meaner than his current behavior suggested.
+
+He wore a lightly armored leather poncho-half cape thing with blue pants and strapped tall boots. Two sword hilts poked out from a harness on the left side of his hip. They looked like Katanas, but without a long sheath beyond the hilt.
+
+Manablades. I remember we were balance testing those in version six.
+
+One could easily mistake this man for a swordsman based on his appearance, but Darya knew this was a mage, or more fittingly, a warlock. He may have been a swordsman at some point, but the hilts on his waist were a unique set of Manacers, just like her Warblade staff.
+
+She was just about to use Inspect on him to check his name and stats when the girl did something unexpectedly distracting.
+
+She loosened the knot of her cape and took it off while fanning herself.
+
+Darya barely managed to hide the gasp of surprise.
+
+The girl was an elf. The head covering she wore had been hiding everything under its shade. Her pointed ears sprang to the sides as it came off, revealing a copper-haired elf girl with a hypnotizing pair of vibrantly hazel irises. Two sparkling green gems hung from her ears, perfectly complementing her beautiful eyes.
+
+An actual elf in the blood! They're supposed to be pretty, but god damn this one is a doll!
+
+Darya extended her hand for the young elf girl like a chivalrous gentleman. She had a thing for pretty elves in any piece of fiction she ever consumed. It was also the only kind of character that she cosplayed alone in her room when she got into that hobby for a phase. She had such pale skin back then—
+
+Her eyes narrowed. She had pale skin back when? She had a perfect tan now. She tried to remember what she looked like, but suddenly, the image she had in her head flickered into a tanned girl with brown hair.
+
+Huh? Why did I think I was cosplaying as a pale-skinned elf then?
+
+[Soul Merge Conflict: Resolve Identity]
+
+A strange command flashed in the back of her head. She didn't know what it was about, but something had happened. Something that made her feel slightly more comfortable. Perhaps Verse was calibrating itself under the hood still.
+
+Darya focused back on the pretty elf girl who was now grabbing her hand with reverence as if it was special. The rest of her dirty cape fell off as she got onto her feet.
+
+She had enviably perfect pale rose colored skin with no blemishes. She looked about as battered and beaten as her dirt-stained cape, but her dress had once been a nice golden yellow with intricately embroidered floral patterns. The neckline was rather deep. They had that in common. Dresses in Vainfall depended on role, culture, and climate. It was only natural to wear lighter outfits in hot environments.
+
+Actually, there was nothing preventing players from wearing a string bikini to a snowy mountain, even if they were playing as a stocky male dwarf. Vainfall was intended for a mature audience.
+
+Keyword: mature.
+
+Regardless, the elf girl's outfit and her overall presentation were a clear indication that she was a mage. Perhaps a support role like a healer by the aesthetics, but elves as a race were quite versatile in Vainfall. The game designers correctly anticipated it to be one of the popular player choices. She wondered what that meant for RLP if the races were still maximizing player satisfaction.
+
+Taking her greedy eyes off the attractive elf, Darya cleared her throat to speak with them for the first time. "I uh, don't want to be rude, but I don't remember who you two are."
+
+She wanted to lay that out right away because she already predicted a hundred more awkward situations if she pretended nothing was wrong. She couldn't be the Darya Altazark these people knew.
+
+The elf girl let out a gasp at these words, tears welling in her pretty eyes again. The old man shuddered where he was, gazing at her with bated breath.
+
+"Oh no, my princess!" the elf girl whispered in a soft voice. "You lost your memories?! How horrible! Th-the resurrection stone wasn't supposed to do that, maybe we can—"
+
+"No matter, I'd like to hear your names now."
+
+"I'm Seris, princess! Please tell me you remember us growing up together in Karossa?"
+
+"Unfortunately, I don't."
+
+Darya regretted blurting it out because Seris, the unfathomably pretty elf girl, looked heartbroken. She felt bad, as if she accidentally stepped on a kitten's tail.
+
+Slowly clearing her throat, she turned to the old man, beaming at him as pleasantly as she could. "And you?"
+
+"I'm Fominel, princess. Fom for short. You also call me Fomi. It feels wrong to introduce myself. I've been your palace guard since you were six years old..." the old man said. He was also clearly upset and hurt. Hearing his trembling voice somehow felt worse than seeing the elf girl shrink.
+
+Well, what do I do? It’s not my fault that their princess went ahead and got herself killed.
+
+It was more cruel to lie to them.
+
+"Hm, I still don't remember anything," she said bluntly.
+
+She used the command to inspect them both at once while they were coming to terms with this new situation.
+
+[Party]
+
+Fominel EriganWarlock Ascendant IIILevel 58HP: 1,718MP: 6,792
+
+Seris IIIMage SupremeLevel: 62HP: 5,239MP: 16,461
+
+Emil VolfarroStatus unknownMember out of range.
+
+Rossarie LacanisStatus unknownMember out of range.
+
+Fominel and Seris were exactly what she thought they would be. It seemed they had health and mana pools comparable to hers, and in the case of Seris, far exceeding hers in terms of mana. Darya had a guess why that could be.
+
+Elves had certain bloodline traits and perks that could be pushed to maximize a mana-focused build.
+
+Fominel's level was rather low to be a frontliner in a party with an Archmage, but his Manacers had to be quite special. It was highly likely similar to her high-level Warblade.
+
+More concerning was the fact that there were two other members who were out of range. That range mechanic was new. This wasn't how Party was handled in the VRMMO build. Location had nothing to do with whether someone remained a party member or not.
+
+This is for sure something added for total immersion. I wonder about the distance threshold. It just says out of range. Out of what range? For all I know, they could be in a separate realm.
+
+"Princess, you're seriously weak right now!" Seris said out of nowhere, snapping her back to reality. "I can heal you when we're somewhere safe, but for now this is all I have left."
+
+She offered a small bottle of red healing potion with a shaking hand.
+
+"Why, thank you, Seris," Darya said, taking the bottle. It wasn't going to do much with her 92 HP situation. She didn't even need to inspect to know this was a lesser healing potion. Still, she was curious if the numbers had changed.
+
+[Inspect]
+
+Item: Lesser HealingCategory: Consumable/PotionWeight: 0.2 lbsWorth: 3 Gold 5 SilverEffect: +250 HP
+
+It used to be one hundred and fifty in the VRMMO build. Some numbers had certainly been tweaked.
+
+Uncorking the bottle, she started sipping it like iced tea, curious to know what it tasted like.
+
+It tasted like a cocktail concocted by a five-year-old. The best description that she could come up with was tonic and tomato sauce mixed with strawberry jam and pepper. She did her best not to let it spurt from her nostrils. It wasn't especially disgusting, but she didn't like it. She coughed as elegantly as she could, not to embarrass herself in front of her new party. She handed the empty bottle to Seris.
+
+There were no visual effects of healing. She felt the potion spread inside her, and that feeling of relief dissipated quickly.
+
+"Take this too, princess," Fominel dug into his pockets and offered a polished crystal orb encased in a golden frame like a tiny lantern. A yellow core pulsed at its center.
+
+It was a mana globe, an item that could absorb and contain some amount of mana.
+
+"I stored all of your mana to remember you by—well, some of it at least," he said, averting his eyes.
+
+Ah, he's a sentimental dual katana warlock.
+
+"Thank you, Fominel," she said, beaming at him.
+
+[Inspect]
+
+Item: Storm Crystal Mana GlobeCategory: Relic/CrystalWeight: 0.4 lbsWorth: 58 Gold 5 SilverEffect: +1724 MP
+
+Squeezing the top knob of the golden frame released the stored mana in thousands of tiny orbs, which were quickly absorbed through her skin. She felt the pleasant tingles of power traveling up her arm and settling at the back along her spine.
+
+She handed the globe back to Fominel.
+
+"Where is this safe place where I can be healed properly?" she asked, looking at them both. She was only 342 HP after the lesser healing potion.
+
+"Our camp is back that way, princess," Fominel said, pointing over his shoulder. "I can carry you if you'd let me,"
+
+"Walking will do me some good," Darya said blankly. "Let's get going then, we can talk while we walk," she said, starting right away. Seris and Fominel hurriedly picked up things that they had dropped and joined her on either side.
+
+"I'd like to know how I died, but I can already tell it has something to do with a big black ball," Darya said, pointing at the ominous circle marring the beautiful horizon.
+
+"Yes, princess. A Dreagan swallowed you!" Seris started, quickly flipping the hood of the cape over her head. "Fom, Emil and—" she paused. "You don't remember, but we have two other party members, princess."
+
+"I noticed the party members already," Darya said. "So, that thing is called a Dreagan?"
+
+"Yes, princess!" Seris nodded.
+
+Darya couldn't remember seeing any enemy type by that name, not even in the concept art stage. This was entirely new and unknown. She wasn't very comfortable with those, considering this was her much-anticipated and already botched second life.
+
+"Fom, Emil, and Rose went after you. They managed to anchor the Dreagan before it warped off," Seris said.
+
+"They wouldn't have been able to do it if you hadn't damaged it, princess," Fominel said, nodding her way with admiration.
+
+"It took three of you, even after I damaged it? Interesting," Darya said thoughtfully. Seris had used the word 'swallowed,' implying some sort of sentience was at play. "The way I woke up, I thought I was crushed under the weight, or it was the fall that killed me."
+
+"You were inside it, princess! It took a while for Emil and Fom to cut it open. It was too late by then. When you fell out, you were…"
+
+Seris stopped, swallowing hard as if recalling what happened could make it happen again. "Good thing that resurrection stone worked! Or you would've been gone!"
+
+There was one minor issue with this sequence of events that Seris or Fominel couldn't know. There were no resurrection stones or mechanisms in permadeath mode. Darya had been brought back by Verse itself, not a rare item. The way Seris said it was proof that these resurrection stones didn't have a track record of reliability.
+
+Darya had a sudden realization as she thought along these lines. It was something that could only have occurred to her. This unreliable resurrection mechanic sounded like a play-testing solution that she herself could've used in certain situations.
+
+Maybe Verse added these resurrection stones to permadeath mode as an excuse to resurrect whatever character that it needs!
+
+"We should hide!" Fominel's panicked voice snapped her back to reality. He was pushing both her and Seris away towards the treeline while looking at the looming sphere in the distance. "That one's starting to move!"
+
+Seris grabbed Darya's hand and began pulling her towards the treeline. "Come, princess. We can't fight that right now!"
+
+Darya glared at the giant shape in the distance. It was too far to use Inspect on.
+
+Fominel followed them, backing away. The black sphere glided quietly over the small island it was hovering over. It seemed to grow larger even as they watched.
+
+Seris found a crevice between two trees with a jagged slate of rock. They ducked behind, staring at the ocean while Fominel came to them.
+
+"Seris, ready the shield. Looks like it's coming this way," Fominel said, leaning against the rock.
+
+"Strange. That one hasn't moved the whole time we were here. A Dreagan can't smell us this far," Seris said, pulling out her long wand.
+
+Darya narrowed her eyes, thinking out loud. "I fell out of one of those. How badly do I stink?"
+
+She couldn't actually smell anything strong wafting off her, but she was making a guess. Both her party members have been on this island for days without a problem. The only thing that changed was her coming back to life.
+
+Seris and Fominel turned to her, their eyes widened with a hint of realization that they were too terrified to admit.
+
+"Looks like it's coming for me, doesn't it?" Darya asked with a sigh.

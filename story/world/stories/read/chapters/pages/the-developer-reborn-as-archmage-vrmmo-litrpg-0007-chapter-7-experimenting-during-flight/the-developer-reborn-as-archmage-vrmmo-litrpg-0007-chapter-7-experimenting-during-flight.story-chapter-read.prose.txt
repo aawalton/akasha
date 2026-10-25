@@ -1,0 +1,237 @@
+Seris used a spell to locate Fominel without wasting any more time. Darya feared the worst, thinking he must have flown off the weather deck into the cold black waves below.
+
+Green mana poured out of Seris's tear glands as her irises glowed silver-hazel. A faint luminous thread came into existence, tracing a path out of the ship towards the island. Seris turned in that direction, and the threads connecting to her eyes glowed brighter.
+
+Huh? he should've fallen the other way if the blast came from the island.
+
+"He's flying to the island!" Seris said, running to the edge of the ship and leaning over it. "What is he doing!" she yelled.
+
+"Oh, he can fly too?" Darya asked with a sigh. She was glad Fominel was alive, but if what she heard about Sarka was true, that wouldn't be the case for long.
+
+She had to fly too, and she had to do it faster. She wondered if the Terminate command could help her with this problem. She saw a few ways that it could, but she needed a plan.
+
+"I-I'll go bring him back!" Seris said, trying to hop on the fence.
+
+"You will do no such thing," Darya said, pulling her down by the skirt. Seris almost slipped and fell on her head before she caught herself.
+
+"Wh-what?! but—"
+
+"I'll take it from here, Seris," Darya said, setting her upright.
+
+"Y-you can't, princess! We just got you back! You can't fight Sarka again!" Seris was yelling at her desperately.
+
+"Do you think Fominel thought the same thing before he leapt off the ship?" Darya asked, grabbing her Warblade staff.
+
+Seris didn't answer, but the sudden realization on her face told Darya everything she wanted to know.
+
+"Give me a moment," she said, patting Seris's arm.
+
+She had to check her spells and skills and come up with the fastest course of action. Fominel was already on his way to the island. She didn't have long.
+
+She hoped Fominel was moving with a plan. At best, he could be making his way there to check if the other two members warped back with Sarka. At worst, he was trying to buy time for them to escape.
+
+And escape where in this storm? We can't sail. Maybe he wants us to hide somewhere for the night and sail when the storm passes.
+
+In that case, Fominel could've hidden with them. He was flying to the island instead. If he had a plan besides sacrificing himself to buy time, there was something else that he could actually do by sneaking around on the same island as Sarka to look for the missing members.
+
+Either way, this couldn't be allowed without knowing what he was actually going to do. For all she knew, he could be ready for any outcome. He had no chance against an Archmage Supreme who had already killed her.
+
+She wanted to check her non-attack spells.
+
+[Spells]
+
+Spell: Repelling BlastGrade: 45Rarity: RareAxes: Un(210) Ri(209)Mana: 419MDEF: 1,068Shaper: SphereDuration: InstantStatus Effects: Knockdown, DazedSpark a blinding mana explosion from the skin projecting outwards in a sphere that repels both physical and magical attacks.Spell: Flying CelestianGrade: 38Rarity: RareAxes: Ae(127) Ri(127)Mana: 254MShaper: SelfDuration: InstantTake flight in a desired direction.Spell: Pillars of ErisothGrade: 114Rarity: MythicAxes: Ae(364) Un(465)Mana: 829MShaper: CircleDuration: 124sStatus Effects: Restrain, SlowSummon nine pillars of Erisoth to bind a target at the center.Spell: Mana FunnelGrade: 41Rarity: RareAxes: Un(236)Mana: 236MDEF: 885Shaper: ConeDuration: InstantAbsorb incoming damage and convert half of it back to mana.
+
+She had one spell for omnidirectional countering that could absorb a thousand points of damage, a traversal spell of dubious parameters, and the restraining spell that had already been useful against Sarka.
+
+The traversal spell was something she hadn't seen before. It mentioned 'take flight', but nothing about landing or control, leaving a lot up to interpretation. This would've been fine in VRMMO, but in RLP, Darya had safety concerns. Not even Terminate could save her from splattering on the ground if she fell from a great height.
+
+The fourth spell was something she was already familiar with. A cone-shaped spell that could absorb damage and convert half of it to mana. It could only absorb a maximum of 885 damage, and it cost 236 mana to cast. The maximum mana it could yield would be around 440.
+
+Two other attack spells of lower rarity and grade looked somewhat useful. She had completely ignored them before because of their lower damage output.
+
+Spell: Mud of ArkenGrade: 23Rarity: UncommonAxes: Ae(91) Un(43) Ru(80)Mana: 214MATK: 278Shaper: FieldDuration: InstantStatus Effects: SlowMelt and loosen the soil beneath the target area.
+
+Spell: Dorthak SpiralGrade: 25Rarity: UncommonAxes: Un(78) Ri(91)Mana: 169MATK/s: 113Shaper: CircleDuration: 3sStatus Effects: BleedSurround the target with a cylindrical spiral of slashing energy.
+
+A higher rarity neutral spell also caught her attention as useful. She was familiar with this one.
+
+Spell: Sense SphereGrade: 36Rarity: RareAxes: Un(270)Mana: 3M/sShaper: SphereDuration: ContinuousDetect incoming mana-based spells from any direction.
+
+She had sifted through her twenty-five spell slots to find the most useful ten so far, including the attack spells that she had already seen. The rest of the spells were mostly utility, low-grade attack, and defense. This was to be expected from an Archmage Ascendant. She still had spells that she hoarded along the way, but never had the time to replace or upgrade.
+
+With spells dealt with, Darya turned to skills that she hadn't touched yet. She was quite curious about the RLP skill system earlier when she was rowing the boat to the ship.
+
+[Skills]
+
+Skill: StrengthenSource: BasicMode: PassiveType: DEFStat: CONSP Cost: 25Harden the body, unlock half strength.
+
+Skill: Smooth SlitherSource: LearnedMode: ActiveType: UtilityStat: DEXSP Cost: 30Cooldown: 30sStatus Effects: HastedSlither forth weightlessly at high speed. Unlocks full dexterity.
+
+Skill: Shatter TouchSource: LearnedThe author's narrative has been misappropriated; report any instances of this story on Amazon.Mode: ActiveType: ATKStat: STRSP Cost: 50Cooldown: 120sATK: 75Status Effects: Weaken
+
+Skill: Warding of AltaSource: BloodlineMode: ActiveType: DEFStat: RESSP Cost: 30Cooldown: 250sDEF: 90Status Effects: KnockdownDefend against mana-based attacks; countering at the right moment may absorb some of the received damage as mana.
+
+Skill: Wind StepSource: LearnedMode: ActiveType: UtilityStat: DEXSP Cost: 20Cooldown: 8sStatus Effects: HastedMomentarily turn weightless and take a step in a desired direction at high speed.
+
+Skill: Hammer FistSource: LearnedMode: ActiveType: ATKStat: STRSP Cost: 15Cooldown: 280sATK: 23Status Effects: StunClobber anything with reinforced fists, unlocking full strength.
+
+Skill: Diamond EyesSource: LearnedMode: ActiveType: UtilityStat: DEXSP Cost: 65Cooldown: 400sGrants faster visual processing and increases reaction speed with unlocked dexterity.
+
+Skills were in the same situation as spells. She had fifteen slots, but only seven looked useful to the current situation. The Warding of Alta caught her eye because it was a bloodline skill. With her name being Altazark, that made sense.
+
+She was more optimistic about mixing skills with Terminate, especially anything to do with close quarters and movement.
+
+"That should be enough," Darya muttered. She was going to take a risk either way; at least now it felt calculated. "I'm going to stress test this build."
+
+"Eh, what?!" Seris snapped her back to reality. "Wh-what are those words?!"
+
+She had muttered a set of words that had no meaning for a Vainfall local. 'Stress testing a build' would've sounded like random words put together for Seris. Darya smiled.
+
+"Don't worry about it," she said. "More importantly, have you seen me use this flying spell before?"
+
+"Yes, princess?"
+
+"How does it work?" she asked.
+
+"It turns you and anything you're holding weightless. You can fly in the direction you reach for afterwards," Seris said.
+
+"Landing?"
+
+"You can drift down if you stop moving," Seris said. "S-see, you don't even remember your spells, princess! you shouldn't—"
+
+Darya quickly checked her stats.
+
+[Character]
+
+Character: Darya AltazarkRole: Archmage Ascendant ILevel: 75EXP: 1,299,532 (11%)
+
+HP: 2,526MAX HP: 2,526MP: 5,312MAX MP: 7,265SP: 323MAX SP: 452
+
+STR: 467DEX: 588CON: 398RES: 1,342
+
+Seris had fully healed her, and she had recovered a considerable amount of mana. Her stamina was better than the abysmal 12 that it used to be at the start.
+
+It was time to get going.
+
+[Flying Celestian]
+
+Darya lifted off the ground and started floating.
+
+"Ah!" Seris let out a yelp.
+
+"You stay out of trouble. Meet up with Fominel, understood?" Darya said, looking down at her.
+
+"But I can't fly—"
+
+"You don't need to. You can stay here for him, or get to the island however you can. Stay out of the fight," she said, pointing her Warblade towards the island.
+
+"Princess!"
+
+"I'll be back, don't worry," Darya said, reaching in the direction she wanted to fly. White trails of Mana burst from her hand. It felt less like flying, but more like an invisible rope from the island's direction pulling her that way.
+
+Seris's screams trailed off into the wind as Darya cut through the rain. She had Fominel's direction already. She had to catch up before he made it to the beach.
+
+Unfortunately, RLP was getting in the way.
+
+Rain hammered her as she flew, cold winds battering her from every direction. Flight was always a spectacular thing to do, but flying in a storm wearing one layer of fabric was nothing but misery.
+
+She needed to get this over with fast, with a skill on top of the spell.
+
+[Smooth Slither]
+
+She was already weightless with the Flying Celestian. The skill gave her far more control than pointing her Manacer in a direction. The speed boost of unlocking her full dexterity of 588 was added on top of the base speed of the spell.
+
+Darya wove through the storm winds like a snake as her body cooled enough to accumulate a thin layer of frost on her skin.
+
+This is the fastest way to freeze to death.
+
+[Vainfall: Terminate]
+
+The world froze and turned gray around her as she slithered forth at the same speed. Water droplets bounced off in dot matrix form, her as she passed, splitting the wind.
+
+This was as good a time as any to test the limits of it. She tried to count seconds. The effect lasted for about three, maybe four. It had instant or near instant activation, but it took about half a second to end. The world caught up to the matrix of prediction dots during that transition.
+
+Is this rate limited at all? It would be hilarious if it weren't.
+
+Popping out of it, leaving a tunnel of wind and water in her wake, she used it in quick succession.
+
+[Vainfall: Terminate]
+
+[Vainfall: Terminate]
+
+[Vainfall: Terminate]
+
+[Vainfall: Terminate]
+
+There was nothing preventing activations; nothing else broke or showed a warning.
+
+During this volley, she counted about the same number of seconds yet again. The effect didn't seem to stack with multiple activations. It had a limit, and that limit was being quietly reinforced while letting the player do whatever command they wanted.
+
+There was no reason why it should have stacked. This command was about force-quitting the game. It wasn't a skill meant for gameplay. Stacking would've meant force-quitting even more forcefully. She found it amusing to think about.
+
+That should be the rage quit option.
+
+Coming out of that experiment, she tried the same thing again. This time, she wanted to test overriding each activation before letting them finish.
+
+[Vainfall: Terminate]
+
+She counted two seconds.
+
+[Vainfall: Terminate]
+
+She counted one second, and the world transitioned back to real speed. The duration hadn't been extended. This meant the second activation was ignored, confirming the existence of a rate limit.
+
+For the third test, she wanted to see the exact limit to figure out how closely she could chain it.
+
+[Vainfall: Terminate]
+
+She counted two seconds and waited for the third. She activated again during the transition.
+
+[Vainfall: Terminate]
+
+The gray world and prediction dots stuttered as the world approached real time. The frozen raindrops started moving again, and she felt the cold wind on her skin.
+
+The stuttering increased, and she caught a glimpse of visual artifacting. It was barely noticeable, but she saw the world crack at the seams.
+
+Activating Terminate in the transition of another Terminate was doing something. The glimpse she caught was gone before she could even process what she saw. There was something in that last half-second that needed further testing.
+
+She was thinking about what to do as the gray world fully faded, and she suddenly noticed where she was. She had gotten carried away with her tests and completely missed Fominel and the beach where she intended to catch him.
+
+Leaning back, she stopped everything, hovering weightlessly in the winds to check her surroundings. She was above the forest. An ocean of giant coconut trees swayed like whips beneath her feet.
+
+She had to have passed Fominel. She turned around to face the beach. She had a rough idea where the ship was based on the shape of the lagoon. A lightning strike revealed it around where she looked.
+
+Fominel was flying from the ship, and he was halfway to the beach when Seris located him. It was impossible to locate another flying body in this storm darkness. Drawing a direct line from the ship to the beach, she had a general area where he would land.
+
+Maybe that should be Seris's problem to solve. I should meet Sarka before Fominel does.
+
+The purple column of light was glowing like a beacon to the right of her.
+
+[Smooth Slither]
+
+She activated it again. It had run out somewhere during her experiments. Moving faster again, she came to a hovering stop about a hundred feet in the air before the light column.
+
+The purple haze was excess mana burning up in a hollow cylinder. Darya burst through it and reached a vortex similar to the eye of a tornado.
+
+Mana swirled around her in great tendrils as the end of the Flying Celestian spell lowered her to the ground.
+
+The ground beneath her had been cut in a perfect circle. The trees and terrain at the edges were jagged and broken, debris flying away in the swirling mess of mana, and the storm winds on the outside.
+
+This must be the piece of land that Sarka warped away with.
+
+It had returned to the exact location again with this gigantic mana explosion.
+
+Darya landed softly on a grassy patch. It was a harder landing than she thought because she felt the impact on her knees. The RLP was indeed too real. In the VRMMO version, all she had to do was select the point she wanted to get to. Now she had to think about the best method of landing without breaking her limbs.
+
+She looked around, narrowing her eyes against the light. There was a vertical bolt of purple lightning suspending a dark shape about twenty feet in the air.
+
+[Inspect]
+
+Character: Sarka Vol RecaldorRole: Archmage SupremeLevel: 146EXP: 5,717,701 (34%)
+
+HP: 6,971MAX HP: 14,080MP: 3,426MAX MP: 8,426SP: 3,424MAX SP: 8,424
+
+STR: 4,055DEX: 5,151CON: 4,558RES: 3,047
+
+"There you are," Darya muttered as she pointed her Warblade in his direction. "You fucked up my yacht."
