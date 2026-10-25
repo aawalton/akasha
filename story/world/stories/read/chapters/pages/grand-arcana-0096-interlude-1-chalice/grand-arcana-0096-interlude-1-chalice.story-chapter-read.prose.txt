@@ -1,0 +1,103 @@
+ONE OF CHALICE
+
+(Rarity - Common)
+
+CLOSE WOUND: close small wound stopping bleeding (on self)
+
+TWO OF CHALICE
+
+(Rarity - Common)
+
+MINOR HEAL: heal small wound (on self)
+
+EIGHT OF CHALICE
+
+(Rarity - Common)
+
+IGNORE WOUND: ignore a single wound (on self)
+
+NINE OF CHALICE
+
+(Rarity - Common)
+
+THREAD STRIKE: (sharp weapon required) continue a slash by sending a thread of hardened aether in the direction of the strike
+
+TEN OF CHALICE
+
+(Rarity - Common)
+
+ICE SHIELD: cover body part with solid layer of hardened ice
+
+ELEVEN OF CHALICE
+
+(Rarity - Common)
+
+ACID COATING: cover item or self with acid
+
+FOURTEEN OF CHALICE
+
+(Rarity - Common)
+
+MINOR REGENERATION: boost natural regeneration ten times
+
+THE LISTENER (I, MAJOR)
+
+(Rarity - Common)
+
+1 FAR HEARING: distinguish, identify, and make out sounds from a massive distance
+
+2 ???
+
+THE DRUNKARD (II, MAJOR)
+
+(Rarity - Common)
+
+1 CHAOS STRIKE: perform an attack that cannot be predicted
+
+2 ???
+
+THE ALCHEMIST (III, MAJOR)
+
+(Rarity - Common)
+
+1 HERBOLOGY: Know the basic properties and qualities of plants
+
+2 ALCHEMY: (alchemy equipment required) Create potions, powders, pills, and ointments
+
+3 ??? (Variant skill)
+
+THE BARD (IV, MAJOR)
+
+(Rarity - Exceptional)
+
+1 MUSIC: Provides mastery of all music instruments. The owner can soothe the hurt, calm the angry, cheer up the sad, and provide hope to the desperate
+
+2 PERFORMANCE: Create false impressions in the minds of others
+
+3 SONG THREADS: Create aether threads while singing to affect living targets. Efficiency depends on magic strength.
+
+SPECIAL: CHARMING: be the target of positive emotions
+
+THE LOVER (V, MAJOR)
+
+(Rarity - Exceptional)
+
+1 BESTOW SYMPATHY: Appear sympathetic in the eyes of others
+
+2 ???
+
+3 ???
+
+THE MAGICIAN (VI, MAJOR)
+
+(Rarity - Rare)
+
+1 MAGIC SIGHT: See magic
+
+2 SPELL CIRCLES: Create static spell circles
+
+3 COMBAT CIRCLES
+
+4: MEGA SPELLS: create massive spells of destructive power encompassing entire areas.
+
+SPECIAL: AETHER STORE: accumulate aether beyond your magic level

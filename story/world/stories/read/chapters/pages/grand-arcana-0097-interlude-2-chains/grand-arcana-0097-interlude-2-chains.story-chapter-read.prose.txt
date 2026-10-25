@@ -1,0 +1,71 @@
+ONE OF CHAINS
+
+(Rarity - Common)
+
+SHARP RESISTANCE: sharp weapons inflict less damage
+
+TWO OF CHAINS
+
+(Rarity - Common)
+
+CRUSHING GRIP: bend, crack, and break objects through the strength of your hand and arm grip.
+
+FIVE OF CHAINS
+
+(Rarity - Common)
+
+BLOCK: (shield or weapon required) block an attack.
+
+SIX OF CHAINS
+
+(Rarity - Common)
+
+ENTANGLE: (rope weapon required) entangle an enemy in a single action.
+
+THE DRUMMER (VII, MAJOR)
+
+(Rarity - Common)
+
+1 ROUT: increases the odds of a defeated group of enemies to flee
+
+2 ???
+
+THE ACROBAT (IX, MAJOR)
+
+(Rarity - Common)
+
+1 ACROBATICS: perform basic acrobatics such as jumping, balance, and summersaults
+
+2 ???
+
+THE GATEKEEPER (X, MAJOR)
+
+(Rarity – Exceptional)
+
+1 RESTRICT – Prevents an opponent from using a specific action. Contact must be achieved.
+
+2 ISOLATE ITEM: restrict the usage of a single item only to entities you approve of
+
+3 ???
+
+THE THIEF (XI, MAJOR)
+
+(Rarity – Exceptional)
+
+1 SILENT STEP: create no sound while walking
+
+2 ???
+
+3 ???
+
+THE EMPEROR (XII, MAJOR)
+
+(Rarity – Rare)
+
+1 INSPIRE: boost the strength, will, and stamina of allies within view or earshot
+
+2 DOMINANCE: impose crushing awe on everyone within view or earshot
+
+3 ???
+
+4 ???

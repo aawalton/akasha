@@ -1,0 +1,87 @@
+ONE OF SWORDS
+
+(Rarity - Common)
+
+POWER THRUST: (sharp weapon required) perform a powerful thrust attack, increasing the damage dealt tenfold.
+
+THREE OF SWORDS
+
+(Rarity - Exceptional)
+
+1 DUAL WIELD: (small or medium-sized weapons only) use two weapons simultaneously in battle
+
+2 ARC COMBO ATTACK: (two edged weapons required) perform a series of consecutive slash attacks (VARIANT)
+
+FOUR OF SWORDS
+
+(Rarity - Common)
+
+DIRECT THROW: (sword or spear required) the precision and range of weapons thrown in this fashion is increased tenfold.
+
+TEN OF SWORDS
+
+(Rarity - Common)
+
+MULTI-ATTACK: (weapon required) perform multiple simultaneous attacks in immediate succession
+
+THIRTEEN OF SWORDS
+
+(Rarity - Common)
+
+BACKSTAB: (weapon required) surprise attacks from behind triple the strength
+
+FOURTEEN OF SWORDS
+
+(Rarity - Common)
+
+BUTTERFLY STRIKE: (sharp weapon required) perform an uninterrupted curved slash attack that could be continuously repeated. The direction of the attack can be changed freely at any point without interrupting the attack.
+
+THE KNAVE (XIII, MAJOR)
+
+(Rarity - Common)
+
+1 MELEE FEINT: (weapon required) change the direction of a strike mid action
+
+2 ???
+
+THE ARCHER (XIV, MAJOR)
+
+(Rarity - Common)
+
+1 SHARPSHOOTING: (ranged weapon required) strike a target dead on
+
+2 FLUIDITY: (bow required) draw and shoot freely while also using the bow in melee combat
+
+SPECIAL: EAGLE EYE: see perfectly at wider angle of view and a great distance
+
+THE CHAMPION (XV, MAJOR)
+
+(Rarity - Exceptional)
+
+1 CIRCULAR SLASH: (weapon required) perform a spin strike, tripling the strength of the attack
+
+2 ???
+
+3 ???
+
+THE RIDER (XVI, MAJOR)
+
+(Rarity - Exceptional)
+
+1 RIDE ANIMAL: (animal required) mount and ride an animal at full control
+
+2 MOUNTED ACTIONS: perform actions while riding
+
+3 ???
+
+THE PALADIN (XVII, MAJOR)
+
+(Rarity - Rare)
+
+1 HOLY BLADE: (requires weapon): ignore evil corruption
+
+2 CLEANSE EVIL: (weapon required) damage inflicted on undead and evil beings is increased tenfold
+
+3 ???
+
+4 ???
