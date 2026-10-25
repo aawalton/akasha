@@ -1,0 +1,231 @@
+Bart stood at the safe edge of the red chalk line, staring across Gallery B at the tarnished plate Ada had just uncovered.
+
+A temporary structural diversion authorised by Keeper #4,091, currently 616 years overdue. It was the first surviving evidence Bart had found connecting his missing predecessor to a specific structural alteration inside the Archive before the Ruin.
+
+He immediately addressed out loud. “System, provide the complete repair and inspection record for Keeper #4,091’s structural diversion.”
+
+REPAIR RECORD: INCOMPLETE
+
+LOAD DESTINATION: UNREGISTERED
+
+SUPPORTING DOCUMENTATION: LOCATION UNKNOWN
+
+PHYSICAL INVESTIGATION: RESTRICTED BY STOP WORK ORDER
+
+Bart looked up from the screen. “ Ada, Could we carefully remove the plate to examine the cavity, or perhaps open a small section of the wall to follow the load path?”
+
+Ada Kett did not even look at the wall but stared directly at Bart.
+
+“That repair has survived 616 years,” Ada said. “The evidence crate hovering in your intake zone has been suspended for 23 minutes, and 42 more crates are currently awaiting transfer. We address the active problem first.”
+
+Bart desperately wanted to pry the plate off the wall, but he had explicitly hired Ada to stop him from making catastrophic decisions.
+
+“You are entirely correct,” Bart said, reluctantly forcing himself to turn his back on the mystery. “The active problem.Yes that’s right”
+
+The active problem was humming ominously just inside the main entrance. The first heavy, evidence crate from the Concord hearing was currently suspended in the air by the Archive’s intake ward, awaiting an approved destination that did not exist.
+
+“System, what is the status of the intake suspension ward?” Bart asked.
+
+INTAKE WARD FUNCTION: TRANSFER
+
+CURRENT USE: SUSPENDED STORAGE
+
+SUPPORTED DURATION: LIMITED
+
+REMAINING SAFE DURATION: 3 HOURS, 41 MINUTES
+
+TRANSFER REVERSAL: ORIGIN RESERVATION UNCONFIRMED
+
+FAILED REVERSAL OUTCOME: UNCONTROLLED PLACEMENT
+
+Gregor stared at the glowing countdown. “What does ‘uncontrolled placement’ mean?”
+
+“Uncontrolled placement means the ward drops a crate whose load is more than 600% of our certified floor limit,” Bart translated.
+
+The crate of historical grievances suddenly had a very literal deadline. Bart began proposing the obvious storage solutions. “Can we move the evidence into the Closed Collection? It has reinforced physical and magical security.”
+
+Mabel’s lion tail lashed sharply and she responded. “Unverified materials may not enter a protected collection.”
+
+Ada agreed with the Sphinx. “We do not know whether these crates contain magical, biological, or structural hazards. Placing unknown loads in a secure area violates basic quarantine principles.”
+
+The System confirmed the dual rejection.
+
+CLOSED COLLECTION ADMISSION: DENIED
+
+REASON: CONTENTS UNKNOWN
+
+Albert glided forward, polishing a silver tray. “Perhaps the unused administrative alcoves near Culinary Research, sir? The floors there are grounded directly into the primary bedrock.”
+
+From the adjoining Culinary Research gallery, Morzath the Undying who was still around and his dry, rasping voice drifted through the archway.
+
+“I object to storing political evidence beside the our great Culinary section”
+
+Gregor looked surprised. “Because the evidence might be dangerous?”
+
+“Because the delegates will eventually come looking for it,” Morzath replied.
+
+Bart decided not to argue with the lich. “Albert, do we have anywhere else?”
+
+Albert paused, tapping a skeletal finger against his chin. “There was a shallow large format processing bay in Sector 4, sir. It was originally used for oversized maps and heavy stone tablets. It possesses a wide entrance, zero public traffic, and a floor designed for immense weight.”
+
+Ada refused to accept the bay's historical purpose as proof of present safety, but she agreed to inspect it.
+
+They needed a safe path to Sector 4, Gregor immediately decided to take the lead. He knew exactly which doorway the largest cart fit through, where the stone floor sloped dangerously, or which corridor caught the wheels as he had been exploring the archive due to his work.
+
+“Walk the proposed route with an empty cart,” Ada instructed him.Gregor pushed a standard cart down the dimly lit service corridor. Halfway to the processing bay, he stopped.
+
+“This turn is too narrow for the crates,” Gregor called out, measuring the clearance with his hands. “The cart barely fits. If the crates are wider, they will scrape the masonry.” He pointed to a wooden shelving unit bolted into the corner. “We could remove this shelf to widen the turning radius.”
+
+Ada walked up beside him, her tools gleaming in the dim light. “Is the shelving unit structural? Is it currently bracing that wall?”
+
+Gregor examined the bolts, the surrounding stone, and the oak planks. He looked at Ada and shrugged.
+
+“I am not sure really.”
+
+Ada gave him a look of profound professional respect. She pulled a small resonance hammer and a strain gauge from her belt, fastening the gauge across the seam between the shelving unit and the wall.
+
+“Watch the needle,” she told Gregor. “If it moves in either direction, say stop.”
+
+“What if it does not move?”
+
+“Then you may loosen the bolts.”
+
+Ada released a fraction of the tension from the first anchor. Gregor watched the needle with concentration.
+
+“Nothing,” he reported.
+
+“Good. Now we know something.”
+
+The shelf was not structural. They removed it, clearing the route.
+
+When they reached the large-format processing bay, Ada conducted her assessment. The floor was indeed incredibly stable, but it was not infinite.
+
+“I can certify this bay,” Ada announced. “But it can safely hold a maximum of 6 crates. No more.”
+
+Bart stared at the bay. Formal objections from both the human and Fae delegations were already arriving in the system, each demanding immediate evidentiary protection for its entire submission.
+
+“System,” Bart said slowly. “Can the Archive separate physical possession of an item from formal evidentiary custody?”
+
+The interface flickered as it processed the administrative distinction.
+
+EVIDENTIARY CONTROL: POSSIBLE
+
+PHYSICAL POSSESSION: DEFERRED
+
+ORIGIN SEAL: REQUIRED
+
+REMOTE SEAL MONITORING: ACTIVE
+
+BREACH NOTIFICATION: IMMEDIATE
+
+MANIFEST REGISTRATION: REQUIRED
+
+TRANSFER SEQUENCE: REQUIRED
+
+The Archive could formally register each sealed manifest, assign official accession numbers, and guarantee the chain of custody while the physical crates remained secured at their registered points of origin. Physical transfers could then occur safely in 6 crate batches, with the next batch arriving only after the previous crates cleared quarantine and processing.
+
+Everyone contributed to the quarantine zone’s activation. Albert retrieved a few old cataloguing cradles to distribute the weight. Gregor managed the cart path, strictly ordered by Ada not to open or alter anything. Bart stood at the entrance, ready to record accession numbers.
+
+Mabel positioned herself squarely in the centre of the doorway. “Who possesses the authority to admit someone to this room?”
+
+“Only the Keeper, or someone acting under a recorded order from the investigating panel,” Bart began.
+
+“Put it in writing, please” Ada interrupted.
+
+Bart turned to the interface. “System, formally designate this room.”
+
+TEMPORARY EVIDENCE QUARANTINE ZONE
+
+AUTHORIZED DURATION: UNTIL NO LONGER REQUIRED
+
+“No,” Ada said immediately. “Temporary requires a date.”
+
+Bart considered the 616 year old repair they had just discovered.
+
+“Agreed. System, register the following requirements as the Archive’s standard for all future temporary measures.”
+
+MAXIMUM OCCUPANCY: 6 REGISTERED EVIDENCE CRATES
+
+ENTRY AUTHORIZATION: KEEPER / RECORDED CONCORD PANEL ORDER
+
+ACCESS CONTROL: MABEL
+
+CERTIFICATION DURATION: 7 DAYS
+
+RESPONSIBLE OFFICIAL: KEEPER
+
+REVIEW TRIGGERS: LOAD CHANGE / DAMAGE / EXPIRATION
+
+REMOVAL PLAN: RETURN TO ORIGIN OR TRANSFER AFTER CLEARANCE
+
+AUTOMATIC EXPIRATION: ENABLED
+
+“Bring the first one in,” Ada ordered.
+
+After Ada required temporary work lamps to be hung along the route, Gregor positioned the first distributed load cradle beneath the hovering crate. Only after Ada checked all contact points did Bart instruct the intake ward to lower it. The box settled onto the cradle without ever touching the flagstones.
+
+Gregor carefully guided the crate through the cleared corridor on its low cradle. Ada monitored the cradle’s strain gauges at every threshold and change in floor level. When the crate finally came to rest inside the bay, Gregor and Ada stepped back into the corridor. Mabel closed and sealed the heavy wooden doors behind them.
+
+EVIDENCE CRATE 1 OF 43: RECEIVED
+
+CHAIN OF CUSTODY: INTACT
+
+PROVENANCE: PRESERVED
+
+QUARANTINE STATUS: ACTIVE
+
+NEXT PHYSICAL TRANSFER: SCHEDULED
+
+Bart let out a long breath.
+
+The manifests for the remaining 42 deferred crates began scrolling acrossSystem. He reviewed the contents, ensuring the System assigned proper sequential accession numbers.
+
+Halfway down the list, one particular entry caught his eye.
+
+CRATE 37
+
+CONTENTS INCLUDE: ARCHIVE MEDIATION ROUTING CORRESPONDENCE
+
+ASSOCIATED KEEPER: #4,091
+
+Bart’s finger hovered over the screen. The exact correspondence that might explain why Keeper #4,091 never attended the Fae conference and was potentially sitting inside Crate 37.
+
+PRIORITY BASIS?
+
+Bart typed carefully on the System interface: Potential direct relevance to Archive mediator deployment failure.
+
+RELEVANCE FLAG: ACCEPTED
+
+EVIDENCE CUSTODIAN AUTHORITY: MAY FLAG
+
+QUEUE REORDERING AUTHORITY: CONCORD PANEL
+
+PRIORITY REVIEW: REQUESTED
+
+CURRENT QUEUE POSITION: 37
+
+Bart stepped back from the tablet, leaving the crate at position 37 pending the panel’s decision.
+
+“Is the evidence registration complete, Keeper?” Ada asked, packing her tools away.
+
+“Yes,” Bart said. Leaving Crate 37 untouched was frustrating, but considerably less dangerous than deciding that neutrality applied only when it was convenient. “And the temporary quarantine designation is formally approved.”
+
+“Good,” Ada said, because the designation had a real expiration date.
+
+At Bart’s instruction, the System applied the standard he had just adopted at Ada’s insistence to the rest of the accessible Archive.
+
+The primary interface flared a brilliant, urgent amber.
+
+TEMPORARY MEASURE STANDARD: REGISTERED
+
+LEGACY TEMPORARY INSTALLATIONS DETECTED: 63
+
+INSTALLATIONS WITH IDENTIFIED OWNER: 0
+
+INSTALLATIONS WITH VALID REVIEW DATE: 0
+
+Ada slowly turned her head and looked directly at Bart.
+
+“30 days,” Bart reminded her quickly.
+
+Ada just looked back at the interface, staring at the 63 ownerless, unreviewed temporary measures scattered throughout the accessible Archive and sighed.

@@ -1,0 +1,293 @@
+Gregor studied the open hatch, watching a few final motes of dust drift down toward the desk. “Does that mean we follow it?”
+
+“It means we read the warning attached to it,” Bart said.
+
+Before Gregor could ask how one was supposed to read a 600 century old warning meant for a dead department, the interface hovering above the Intake Tray flared with a cascade of new blue text. The System had registered the physical arrival of the carrier.
+
+ROUTE 3 LOCAL RESPONSE CONFIRMED
+
+LOCAL PRESSURE: 4%
+
+CENTRAL SWITCHING NETWORK: UNAVAILABLE
+
+REMOTE RECONNECTION: NOT RECOMMENDED
+
+MANUAL INSPECTION ACCESS: SERVICE CONCOURSE THREE
+
+RESTORE HISTORICAL ROUTING TABLE?
+
+Bart read the final prompt and immediately said . “No.”
+
+Gregor looked at him, leaning his forearms against the back of his wooden chair. “You answered that very quickly.”
+
+“The card says not to authorise unverified endpoints,” Bart pointed out.
+
+“The card is 600 years old.”
+
+“And it is still giving better advice than anyone here,” Bart said.
+
+When Bart first arrived, he might have pushed through the restoration option just to see what happened, hoping for an immediate upgrade. Now he understood that a 600 year old routing table could create more problems before he could get to understand them. He picked up the card and looked at the handwritten note again. Then he placed it flat on the desk.
+
+“System,” Bart said. “Locate the pending administrative action for Keeper #4091. Attach this diagnostic card and its delivery timestamp as evidence.”
+
+RELATED ADMINISTRATIVE REVIEW LOCATED
+
+KEEPER #4,091 TERMINATION REVIEW STATUS: OVERDUE
+
+EVIDENCE ADDED REVIEW REMAINS OVERDUE
+
+Gregor pushed himself up from his chair, groaning slightly. He looked toward the eastern corridor. “Service Concourse Three is behind the cross reference stacks, right? Let’s go.”
+
+“Sit back down,” Bart said.
+
+Gregor stopped. “You just said we have to inspect it.”
+
+“I said manual inspection access is located there. We are not leaving.”
+
+“Why?”
+
+“Because you are still under a mandatory rest period,” Bart said, ticking the reasons off on his fingers. “Albert is actively supervising Reading Gallery B. Mabel is holding the admission queue at Access. And we currently have patrons relying on this desk. I cannot simply abandon Patron Services every time the building does something interesting. Not without arranging alternatives first.”
+
+Gregor slumped back into the chair. He looked simultaneously annoyed by the restriction and deeply relieved that he did not have to walk anywhere yet.
+
+Bart turned to the interface and formally adjusted the Archive’s operating status. He wasn't closing the doors, but he had to ensure the institution wouldn't make promises while the Keeper was occupied and result in lowering service standards.
+
+PATRON SERVICES STATUS: LIMITED DESK SERVICE
+
+NEW RETRIEVAL REQUESTS: QUEUED
+
+ACTIVE RETRIEVALS: PAUSED PENDING STAFF AVAILABILITY
+
+CURRENT READING SERVICES: UNAFFECTED
+
+NEW ADMISSIONS: TEMPORARILY PAUSED
+
+Leslie Briggs and the other scholars in Gallery B could continue their research uninterrupted. Their positions in the retrieval queue remained protected. Nobody new would be admitted, and no one would be given a false expectation of immediate service.
+
+Elian, who had been quietly reading near the public catalogue, closed his book and walked over to the desk. He looked at the updated status display, then at Bart.
+
+“I could watch the catalogue desk,” Elian offered mildly.
+
+Bart looked at the Veridian scholar. He appreciated the offer, but the Archive had rules.
+
+“You may show another patron how to use the public catalogue if they ask,” Bart said, drawing a firm, unyielding boundary. “You may not access staff records, alter requests, promise retrievals, or become an unpaid employee simply because I have failed to hire enough people.”
+
+Elian considered this, a faint smile touching the corners of his mouth. “That was considerably more specific than my offer.”
+
+“Experience as an unpaid employee from where I come from,” Bart said.
+
+He stepped out from behind the desk and walked over to the entrance. Mabel looked down at him, her golden eyes unblinking.
+
+“I need to inspect Service Concourse Three,” Bart told her. “Can you monitor departures, the Gallery B public zone, and the emergency service bell?”
+
+“I cannot perform any catalogue work though is that ok,” the Sphinx rumbled, her voice vibrating through the floorboards.
+
+“I don't need you to,” Bart said. “I just need you to maintain physical safety.”
+
+“That is my function, Keeper. Go.”
+
+Bart returned to Patron Services. He did not rush but behind the desk, organizing the pending request slips, answering a brief directional question from the silver robed historian, and waiting for the System clock to tick down.
+
+45 minutes later, the interface updated.
+
+MANDATORY REST PERIOD: COMPLETE
+
+FIT FOR LIGHT TECHNICAL DUTY: PROVISIONAL
+
+Bart ignored the second line and looked directly at Gregor. "How do you actually feel?"
+
+"Tired," Gregor admitted. "But no longer likely to collapse atleast."
+
+"Inspection only," Bart instructed. "No lifting, dismantling, or repairs."
+
+Gregor glanced toward the concourse. "You are removing the most of the enjoyable parts of my job"
+
+Bart called Albert from Gallery B, ensuring the patrons knew where to leave their finished texts, and led his two staff members toward the eastern stacks.
+
+They didn't walk far. Tucked behind the heavy wooden shelves of the cross-reference section, partially obscured by centuries of dust, was a narrow, utilitarian iron door. It bore no ornate carvings or welcoming plaques.
+
+A broad tarnished metal sign was bolted to the centre of the iron at just his eye level.
+
+SERVICE CONCOURSE THREE AUTHORISED STAFF ONLY
+
+STAND CLEAR WHILE ROUTING IS ACTIVE DO NOT ENTER CARRIER TUBES
+
+Albert produced a key among dozens from the depths of his robes, inserted it into the lock, and turned. The mechanism protested with a harsh, grinding screech, but the door eventually swung outward.
+
+Bart stepped over the threshold, and the Archive immediately changed character.
+
+This was not a library wing, no desks, books, shelves etc. This was the industrial machinery beneath the institution, the hidden mechanical heart that made the magic of the reading rooms possible.
+
+The air smelled dry with dust so much so that except for everyone they had to cover their mouths and noses briefly when the door was opened. Thick pneumatic lines, some as wide as a man’s torso, ran across the low ceiling in a tangled, overlapping web. Narrow iron rails were bolted into the stone floor, designed to carry oversized book carts that were currently nowhere to be seen.
+
+Along the walls,racks held padded carrier cradles designed to protect ordinary volumes from the violence of pneumatic transit. Faded, colour coded handling marks were painted on the stonework, distinguishing routes for normal, fragile, and restricted material. Manual supply cabinets stood open, revealing crumbling leather handling gloves, canvas straps, conservation sleeves, and emergency atmospheric seals.
+
+The switching gates connecting the vast network of pipes were massive, complex assemblies that looked partly mechanical and partly magical, relying on iron counterweights and dormant crystalline relays.
+
+Dust covered absolutely everything in a thick blanket. But at the far end of the concourse, bolted to a primary manifold, one single pressure gauge was trembling slightly, its needle twitching against the zero reading.
+
+Bart looked at the rails on the floor, the tubes on the ceiling, and the handling racks on the walls. He realized instantly that there had never been one universal, magical delivery system. The old Archive hadn't just conjured books onto tables.
+
+It used three distinct retrieval methods. Pneumatic carriers for ordinary books of safe dimensions. Rail carts for oversized, fragile, or unusually shaped material. And trained staff handling for restricted, dangerous, or living texts.
+
+It meant manual retrieval had always been an important job. Fixing Route 3 would not eliminate Gregor’s role; it would merely make it survivable.
+
+Albert stepped further into the room, his skeletal hands clasped behind his back. The custodian’s glowing blue eye lights swept over the silent machinery.
+
+“I remember this,” Albert murmured.
+
+He walked slowly down the central aisle, pausing to touch the edge of a padded carrier cradle. He pointed to the faded paint on the walls, identifying the routing colours, the station inspection sequence, and the specific bays where certain types of volatile spellbooks were strictly forbidden from entering the tubes.
+
+“It was never silent here, sir,” Albert said, his voice unusually soft. “Even during the after hours service period, one could hear the carriers passing behind the walls. A deep, rushing sound. The heavy clack of the switching gates locking into alignment. You could feel the pressure shifting in the floorboards.”
+
+Bart looked around the vast, dead concourse. “How many people worked here?”
+
+Albert’s skeletal fingers rested against an empty routing station, tracing the rim of a dispatch tube.
+
+“Enough that I never thought to count them,” Albert said.
+
+Bart looked across the empty routing stations. The old Archive’s power had not come from its shelves alone. It had depended on people whose names the abandoned workstations no longer remembered.
+
+Gregor allowed the silence to remain for several seconds. Then he turned toward the primary switching manifold and began examining the machinery.
+
+He stepped carefully onto a sturdy iron crate to peer through an open section of the ironwork, catching Bart’s immediate warning glance.
+
+“Inspection only,” Gregor promised.
+
+He wiped away a thick layer of grime and leaned closer.
+
+“Something is caught inside,” he said.
+
+“Can you be more specific?” Bart asked.
+
+Gregor pointed into the mechanism. “That gate is trying to close, but all that hardened material is wedged between the teeth. That wheel has slipped out of its groove, and there is something metallic trapped farther down the pipe.”
+
+Albert moved beside him and examined the obstruction.
+
+“Carrier padding,” the skeleton said. “A transport cylinder must have ruptured inside the junction.”
+
+Gregor indicated a brass inspection panel with several stripped screws. “Someone opened that in a hurry. Wrong tool, too much force, and they put it back badly.”
+
+That, Bart believed. Gregor might not understand the Archive’s retrieval network, but he understood locks, forced entrances and the marks left by impatient hands.
+
+“Can you open it?” Bart asked.
+
+“Yes.”
+
+“Can you repair what is behind it?”
+
+Gregor looked through the gap again. “I can remove things that should not be there. I can put that wheel back into its groove. I have no idea what the glowing crystals do.”
+
+“Switching relays,” Albert supplied. “The local circuit must be isolated and its pressure discharged before the inspection panels are opened.”
+
+Gregor looked at him. “And if we skip that?”
+
+“The trapped carriers may leave the mechanism at considerable speed.”
+
+Gregor climbed down from the crate. “Then we should not probably skip that.”
+
+Bart turned toward the control board. “System. Provide the minimum safe inspection procedure for Route Three.”
+
+MANUAL MAINTENANCE REQUIREMENTS LOCAL CIRCUIT ISOLATION: REQUIRED RESIDUAL PRESSURE DISCHARGE: REQUIRED SWITCHING RELAY LOCKOUT: REQUIRED ENDPOINT VERIFICATION: REQUIRED
+
+The repair would require all three of them. Gregor could reach the damaged mechanism. Albert understood how it had once operated. The System could identify the surviving safeguards.
+
+Bart’s job was to make certain none of them proceeded until those safeguards were actually in place.
+
+Bart walked over to what looked like the main local switching board, a massive console of levers, indicator bulbs, and a glowing degraded magical interface.
+
+He wiped the dust from the glass panel and placed his hand against the primary rune.
+
+ROUTE 3 - LOCAL SWITCHING CONTROL HISTORICAL ENDPOINTS: 184
+
+NO STRUCTURAL RESPONSE: 177
+
+RESPONSIVE ENDPOINTS: 7
+
+VERIFIED SAFE ENDPOINTS: 6
+
+UNRESOLVED LEGACY ENDPOINT: 1
+
+Bart requested the breakdown of the six verified safe endpoints. The list populated slowly, the blue text flickering.
+
+Bart let out a slow breath. The North Diplomatic Stacks were on the verified list. If they could clear the physical jams on this specific circuit, they could retrieve Leslie Briggs's book without sending Gregor on another long ass hike without knowing the conditions.
+
+It was a small loop, but restoring those six points would improve the Archive's service dramatically while leaving the vast, dangerous ruins of the broader facility entirely untouched.
+
+Bart requested a safe isolation model from the control board.
+
+LIMITED LOCAL CIRCUIT AVAILABLE VERIFIED ENDPOINTS ONLY: 6 ESTIMATED RESTORATION RISK: ACCEPTABLE WITH MANUAL INSPECTION UNVERIFIED ENDPOINT EXCLUSION: AVAILABLE
+
+RESTORE HISTORICAL ROUTING TABLE?
+
+The System offered the historical table again. Bart refused it immediately.
+
+“Why not reconnect all seven responsive stations?” Gregor asked, looking over Bart's shoulder at the readout. “We could test them individually once they are clear.”
+
+“Because ‘responsive’ means something that answered the signal,” Bart explained, his voice low. “It does not mean the room still exists. It does not mean the destination is physically safe. And it certainly does not mean that whatever answered the signal actually wants a book.”
+
+Gregor swallowed visibly. “Right. Six is plenty.”
+
+Bart turned his attention to the single anomaly on the board.
+
+“System,” Bart said. “Detail the unresolved legacy endpoint.”
+
+The interface flickered, struggling to pull the data from the degraded local memory.
+
+LEGACY ENDPOINT 3-7
+
+PUBLIC DESIGNATION: REMOVED
+
+LOCATION METADATA: WITHHELD
+
+CURRENT STATUS: ADMINISTRATIVELY DISCONNECTED
+
+DISCONNECTION METHOD: MANUAL
+
+TIME OF DISCONNECTION: 2 HOURS, 8 MINUTES BEFORE NETWORK FAILURE
+
+Bart stared at the final line of text. On the physical board, the indicator assigned to Endpoint 3-7 pulsed with a dull amber light.
+
+He reached into his pocket and pulled out the diagnostic card they had received at Patron Services. He held it up next to the glowing blue interface.
+
+ISSUED: 2 HOURS, 11 MINUTES BEFORE NETWORK FAILURE
+
+Three minutes.
+
+Exactly three minutes separated the two actions.
+
+Albert looked at the card, then at the board, his blue eye-lights narrowing. “Someone issued the diagnostic, sir, and then removed an endpoint.”
+
+“Not removed,” Bart said, his eyes fixed on the exact wording of the readout. “Disconnected.”
+
+Gregor looked at the blank designation line on the interface. “Is there a difference?”
+
+“Disconnected means the endpoint may still exist,” Bart said quietly. “Someone chose to sever access instead of recording it as destroyed.”
+
+The concourse suddenly felt much colder. The records supplied no name and no reason. They did not even prove that the same person had performed both actions.They established only two facts. Someone had issued a Route 3 diagnostic. Three minutes later, someone had manually disconnected a destination and removed its name.
+
+Bart looked back at the interface.
+
+“System,” Bart ordered, his voice echoing slightly in the vast, dead room. “Set repair scope.”
+
+ROUTE 3 REPAIR SCOPE AUTHORISED: VERIFIED LOCAL CIRCUIT ONLY
+
+ENDPOINT 3-7: EXCLUDED
+
+AUTOMATIC RECONNECTION: PROHIBITED
+
+MANUAL AUTHORISATION REQUIRED: KEEPER
+
+He was rebuilding the Archive, but he was not going to blindly undo every safety decision made by the desperate people who had stood in this room before him.
+
+Albert looked at the amber light. “Will we investigate the hidden destination, sir?”
+
+“Eventually,” Bart said. “After we know what it is, why it was disconnected, and who decided it should remain unreachable.”
+
+Gregor studied the jammed switching gates above them and began rolling up his sleeves.
+
+“So we fix the six,” Gregor said, “and leave the seventh alone.”
+
+Bart looked at the blank line on the interface where the destination’s name should have been.
+
+“We isolate the seventh,” Bart said. “Then we fix one tube.”

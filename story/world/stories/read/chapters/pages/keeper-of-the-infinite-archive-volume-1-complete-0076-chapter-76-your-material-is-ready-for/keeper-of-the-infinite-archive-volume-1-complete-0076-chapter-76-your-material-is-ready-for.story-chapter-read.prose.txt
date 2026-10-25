@@ -1,0 +1,355 @@
+The administrative exclusion Bart had allowed earlier remained active on the switching board. He instructed Gregor to confirm that Endpoint 3-7’s physical junction remained mechanically disengaged.
+
+ENDPOINT 3-7 ADMINISTRATIVE EXCLUSION: ACTIVE
+
+PHYSICAL JUNCTION: DISENGAGED
+
+RECONNECTION AUTHORITY: KEEPER
+
+“Good,” Bart said. “Now we try to fix one tube.”
+
+“Gregor, panels and visible obstructions only. Don’t improvise. If Albert or the System can’t give you an exact procedure, stop.”
+
+Gregor weighed an old iron wrench that he had found lying around . “You do know what profession I had before this?”
+
+“The one involving locks?”
+
+“Among other things.”
+
+“Then consider these very large locks,” Bart said.
+
+He turned to Albert. “I need the old handling procedure. Carrier padding, pressure isolation, and anything the system manual has neglected to mention.”
+
+“The system manual might have neglected quite a great deal, sir,” Albert said smoothly.
+
+“That is why I’m asking you.”
+
+Bart remained at the switching board. The System supplied pressure readings, lockout confirmations, and route diagnostics while Gregor cleared the physical obstructions he could reach from the floor.
+
+“Clear the line to Conservation Intake,” Bart ordered.
+
+Gregor checked the final accessible brass lug and stepped back. “Line is clear. Ready to test.”
+
+“We need a test mass,” Bart said.
+
+Albert glided toward a tall, heavy metal cabinet marked CALIBRATION in faded stenciling. He opened the doors, reached past a row of crumbling leather straps, and withdrew a dense, rectangular object wrapped in heavy canvas.
+
+He brought it to the control board and set it down with a heavy thud.
+
+STANDARD BOOK SHAPED TEST WEIGHT
+
+Gregor leaned over and examined it. “That is a brick.”
+
+Bart checked the stamped calibration number on the brass plate bolted to the side of the canvas. “It is a calibrated brick.”
+
+Gregor picked it up, weighing it in his hands. “It is a brick with a label.”
+
+The concourse’s maintenance dispatch port entered the circuit immediately behind Patron Services, so the System registered it as the public desk endpoint.
+
+“Put the calibrated brick into the carrier,” Bart said.
+
+Gregor placed the weight into a battered cylinder, secured the end cap, and slotted the carrier into the dispatch tube.
+
+The System evaluated the surviving service instructions.
+
+RECOMMENDED INITIAL TEST PRESSURE: 10%
+
+MAXIMUM TEST LOAD: ONE CARRIER
+
+Bart authorized the recommended limits.
+
+The carrier entered the tube with a sharp hiss. It travelled approximately 4ft, emitted a pathetic, groan, and stopped dead.
+
+ROUTE THREE LOCAL CIRCUIT: TEST FAILED INADEQUATE PRESSURE RETENTION DETECTED
+
+“Kill it,” Gregor said, reaching toward the pipe.
+
+“Wait,” Bart said. He tapped the interface.
+
+LOCAL CIRCUIT DEPRESSURIZED MAINTENANCE LOCKOUT CONFIRMED
+
+Only then did Gregor kneel beside pipe “The hiss was coming from here,” he said, examining the first joint. “The pipe feels solid, though.”
+
+Albert stepped beside him. He ignored the pipe and examined the carrier lodged behind the inspection window.
+
+“The carrier seal has hardened,” Albert said. “It can no longer maintain pressure while sliding through the tube.”
+
+Albert retrieved a roll of preserved, magically treated replacement padding from the service cabinet. He showed Gregor how the old staff had stripped the degraded seals and fitted the new sealing strips.
+
+Once the new seal was fitted, Gregor slotted the carrier back into the dispatch tube.
+
+The second test began with a clean more powerful hiss.
+
+TEST ROUTE: PATRON SERVICES → CONSERVATION INTAKE → PATRON SERVICES DESTINATION CONFIRMATION REQUIRED
+
+The carrier disappeared into the system with a satisfying rush of displaced air. Above them, the switching relays activated in sequence with loud, rhythmic clacks. The local circuit produced a series of thumps that grew increasingly distant.
+
+Ten seconds later, the sequence reversed. The thumps grew louder.
+
+With a sharp CLUNK, the carrier dropped into the receiving tray at the Patron Services terminal out in the main hall.
+
+CONSERVATION INTAKE: NO ARRIVAL CONFIRMATION DESTINATION NOT REACHED
+
+They returned to Patron Services, where the System mirrored Route Three’s controls across the desk interface. Gregor recovered the carrier from the receiving tray and grinned.
+
+“Fastest retrieval yet,” the Junior Helper said.
+
+Bart stared at the interface. “It retrieved what we already had.”
+
+The System immediately offered a solution.
+
+INCREASE TRANSMISSION PRESSURE?
+
+“No,” Bart said, canceling the prompt. “Pressure is not the problem. It travelled perfectly. We told it the wrong place to go.”
+
+Bart ignored the magical schematic and asked the System to place the current directory beside the original commission register.
+
+He worked down the two lists. After several minutes, a pattern emerged. The station names had changed. Their permanent identity seals had not.
+
+“The route is using names as identities,” Bart said. “Names change. Identity records shouldn’t.”
+
+“System,” Bart commanded. “Generate a translation table from the original commission records. Exclude Endpoint 3-7, and reject anything without an exact match.”
+
+The interface flickered rapidly as the System cross-referenced the physical station seals against the current directory, generating a provisional map that bypassed the corrupted historical table.
+
+“Try it again,” Bart said.
+
+The third test was directed specifically to the North Diplomatic Stacks.
+
+The carrier launched from Patron Services. This time, the route indicators on the mirrored desk interface advanced through the correct, verified relays. The carrier reached the North Diplomatic endpoint, remained there for a brief, intentional holding period, and returned.
+
+The brass cylinder dropped into the receiving tray.
+
+Gregor pumped a fist. “It works.”
+
+“ So far once,” Bart said.
+
+The System marked North Diplomatic as verified, but Bart refused to certify the entire circuit from one successful journey.
+
+The fourth test repeated the North Diplomatic route at standard operating pressure. It ran flawlessly. Two successful journeys did not certify the network, but they established that the direct North Diplomatic path was stable.
+
+The fifth test, directed toward Reading Gallery B, did not.
+
+The carrier entered the system, travelled for fifteen seconds, and stopped with a dull, hollow clatter somewhere inside the eastern walls.
+
+DESTINATION ADDRESS: VERIFIED
+
+PHYSICAL ROUTE: VERIFIED
+
+RELAY SEQUENCE: INCONSISTENT
+
+AUTOMATIC SAFETY REVERSAL ENGAGED CAUSE: UNDETERMINED
+
+A minute later, the carrier dropped back into the Patron Services tray with the calibrated brick still inside.
+
+Bart opened it and checked the seal, the padding, and the test weight. Everything remained intact. The safety reversal had worked, even if the route had not.
+
+Bart compared the records again, but this time everything matched. The records were sound. whatever had failed lay somewhere beyond them.
+
+Bart stared at the failed route. “Verified safe” meant that the destination still existed and could receive a signal. It did not mean that every relay between here and there still worked.
+
+“The records are correct, sir,” Albert said gently.
+
+“Then why did it stop?”
+
+“That,” Albert said, “would traditionally have been a question for Facilities Engineering.”
+
+The interface shifted, presenting a new prompt.
+
+REQUIRED REVIEW: FACILITIES ENGINEER
+
+REQUIRED SPECIALIZATION: ARCHIVE TRANSIT AND RELAY SYSTEMS CURRENTLY APPOINTED: NONE
+
+CONTINUE UNCERTIFIED ROUTING TESTS: KEEPER OVERRIDE AVAILABLE
+
+The override rune waited beneath his hand. Keeper authority would permit more tests. It would not make Bart qualified to understand what that test might break.
+
+“No override,” Bart said after a moments thought.
+
+He looked at the unfulfilled requirement on the screen.
+
+“Update the Facilities Engineer staffing requirement,” Bart said. “Add archive transit and relay systems. Priority: urgent.”
+
+STAFFING REQUIREMENT UPDATED POSITION: FACILITIES ENGINEER REQUIRED
+
+SPECIALIZATION: ARCHIVE TRANSIT AND RELAY SYSTEMS
+
+PRIORITY: URGENT
+
+The System evaluated the successful tests and produced one remaining option.
+
+SAFE FALLBACK AVAILABLE: PATRON SERVICES ↔ NORTH DIPLOMATIC STACKS ISOLATE FROM LOCAL SWITCHING MATRIX?
+
+STATUS AFTER ISOLATION: PROVISIONAL KEEPER SUPERVISION REQUIRED
+
+Bart reviewed the route record. The direct route had passed twice and could be separated without altering any relay logic.
+
+“Authorize isolation.”
+
+The other station indicators faded. Only Patron Services and North Diplomatic remained blue.
+
+Before Bart committed to a live retrieval on the provisional route, he needed to establish the exact limitations of the destination.
+
+The North Diplomatic endpoint contained a surviving, automated local stack selector, a localized magical mechanism designed to pull books from the shelves and load them into the carriers as explained to him by Albert. But the selector was bound by strict historical safety parameters.
+
+AUTOMATED STACK SELECTOR: NORTH DIPLOMATIC RETRIEVAL PERMITTED WHEN:
+
+The machine could not retrieve mis-shelved materials. It could not transport fragile or damaged books, oversized volumes, or restricted works. It would absolutely refuse to handle living, sentient, cursed, or otherwise unusual texts. It could not reach beyond the verified ranges of the North Diplomatic Stacks, and the carrier network itself remained limited to a single point-to-point connection.
+
+Most of the Archive's retrieval burden would therefore still remain entirely manual.
+
+Bart was not yet willing to call for Leslie’s book.
+
+Instead, he selected a duplicate administrative volume from the nearest verified range.
+
+ITEM: NORTH DIPLOMATIC SHELF REGISTER - DUPLICATE COPY SIX
+
+FORMAT: Standard bound volume
+
+CONDITION: STABLE
+
+REPLACEMENT COPIES: FIVE
+
+SHELF LOCATION: VERIFIED - NORTH DIPLOMATIC STACKS, SECTOR 10, RANGE 3
+
+AUTOMATED HANDLING: PERMITTED
+
+An empty carrier travelled to North Diplomatic shelves. The selector removed the register, loaded it, and returned it to Patron Services.
+
+Bart inspected the cover, spine, and page block. Finding no damage, he sent it back.
+
+RESHELVING CONFIRMED AUTOMATED STACK SELECTOR: VERIFIED
+
+Only then did Bart pull up Leslie Briggs’s request.
+
+ITEM: Early Compacts of Inter Realm Diplomatic Passage
+
+FORMAT: Standard bound volume
+
+CONDITION: Stable
+
+SHELF LOCATION: VERIFIED - NORTH DIPLOMATIC STACKS, SECTOR 11, RANGE 4
+
+AUTOMATED HANDLING: PERMITTED
+
+REPLACEMENT COPIES: NONE
+
+Bart took a deep breath. “System. Execute retrieval.”
+
+He had authorized the Archive’s first automated patron retrieval since the network failure.
+
+An empty padded carrier vanished into the tube above Patron Services.
+
+There was a much longer pause than during the test runs. Bart stood behind the desk, listening intently. Far beyond the eastern wall, deep within the structural ruins of the library, he heard the faint sound of machinery moving, not the entire Archive waking up, merely one local selector doing the single task it had been built to do.
+
+A moment later, the return sequence triggered.
+
+CLUNK.
+
+The carrier dropped into the tray.
+
+Bart picked it up. He twisted the cap, reached inside, and pulled out a book bound in cracked, dark blue leather with faded silver lettering stamped into the spine.
+
+He set the book on the mahogany desk and checked it against the request slip.
+
+He verified the title, the catalogue number and the specific edition. He also checked the physical condition of the binding, ensuring the transit hadn't damaged the spine, and verified the shelf record to guarantee the selector hadn't simply grabbed the volume sitting next to the target.
+
+It was all perfect.
+
+Bart then placed his hand on the interface.
+
+REQUEST STATUS: READY FOR COLLECTION PATRON
+
+NOTIFICATION: SENT HOLD
+
+PERIOD: THREE ARCHIVE DAYS
+
+Only after the notification had officially left the desk did Bart allow himself to smiles little.
+
+Leslie Briggs, who had been working in Reading Gallery B, arrived three minutes later. They crossed the main hall with the same precise, immaculate posture they had maintained during their earlier complaint. Leslie approached the desk, looked at the blue leather volume and presented their collection notice. Bart then slid the book across the desk.
+
+Leslie placed a perfectly manicured hand on the cover. They opened the book, checked the title page, inspected the publication seal, and closed the book with a satisfied nod. It was exactly the edition they had requested.
+
+“If you don't mind my asking,” Bart said, leaning slightly against the desk. “Why does this specific edition matter? The catalogue lists four newer, revised editions of the same compact.”
+
+Leslie rested their hand on the book. “We have an inter-realm hearing at the moment. The modern legal texts describe diplomatic passage through fae roads as a privilege granted by human rulers. The phrasing in the later revisions treats the roads as a concession. This early compact, however, demonstrates that the arrangement was originally entirely reciprocal.” They tapped the silver lettering on the spine.
+
+“Fae roads kept isolated human regions supplied during the long winters,” Leslie explained, their voice taking on the clipped, factual cadence of a seasoned academic. “In exchange, human jurisdictions protected certain volatile crossings and granted our custodians legal immunity. Neither side granted passage as a favour. Neither side possessed the sole authority to revoke it.”
+
+“And if the hearing accepts the later wording?” Bart asked.
+
+Leslie’s fingers tightened slightly against the cover. “Then a mutual obligation becomes a revocable privilege.”
+
+“That's important, then,” Bart said.
+
+“It is evidence,” Leslie said, picking up the heavy volume. “Importance is what people do once they can no longer claim the evidence does not exist.”
+
+They adjusted the book against their silver collared robes and looked back at Bart.
+
+“You promised to notify me when it was physically present,”
+
+“It took longer than it should have,” Bart said.
+
+“Yes,” Leslie said. “But you did not promise a date you could not keep.”
+
+They gave a small, formal nod of acknowledgment, turned, and walked back toward Reading Gallery B.
+
+Bart turned back to the interface.
+
+He drafted and published an updated public retrieval notice to the Archive's directory.
+
+ROUTE THREE LOCAL TRANSIT: PROVISIONAL VERIFIED TRANSIT ENDPOINTS: TWO (POINT-TO-POINT)
+
+AUTOMATED STACK RETRIEVAL: NORTH DIPLOMATIC STANDARD RANGES ONLY
+
+CAPACITY: One carrier in transit
+
+HOLD PERIOD: Three Archive days
+
+PUBLIC DELIVERY ESTIMATES: Temporarily unavailable
+
+MANUAL AND SPECIAL-HANDLING REQUESTS: Unchanged
+
+The System immediately prompted him.
+
+CALCULATE PUBLIC AVERAGE FROM FIRST COMPLETED PATRON RETRIEVAL?
+
+“No, not at all,” Bart said.
+
+ESTIMATE CONFIDENCE: 61% PUBLIC ESTIMATE DISABLED UNTIL 20 COMPLETED RETRIEVALS
+
+The retrieval queue reorganized around the newly established provisional service.
+
+OPEN RETRIEVAL REQUESTS:14
+
+PROVISIONAL ROUTE-ELIGIBLE - NORTH DIPLOMATIC: 5
+
+MANUAL RETRIEVAL REQUIRED: 9
+
+SUPERVISED ROUTE CAPACITY: IMPROVED
+
+Five books Gregor would previously have needed to locate and carry by hand could now be processed through North Diplomatic route. Bart had not solved retrieval at all but five requests could be a lesser burden on Gregor.
+
+HOLDINGS RETRIEVAL CAPACITY: IMPROVED BUT NOT SUSTAINABLE
+
+ACCREDITATION DEFICIENCY 5: OPEN
+
+BLOCKING REQUIREMENT: FACILITIES ENGINEER - TRANSIT SYSTEMS
+
+The System chimed again.
+
+NEXT PRIORITY REVIEW: PUBLIC SERVICE HOURS
+
+CURRENT PUBLIC SERVICE PERIOD ENDS: NOT DEFINED
+
+Gregor came to stand beside the desk and studied the blue text. Beyond them, conversation and turning pages continued in Reading Gallery B.
+
+“Keeper,” Gregor said slowly. “When do we actually close?”
+
+Bart looked across the occupied tables, then at the functional retrieval tube. He was tied to the desk. He had patrons relying on the gallery. Gregor still had nine manual retrievals pending.
+
+and he had never established an answer.
+
+The Archive could retrieve some books again on its own.
+
+It still did not know when to stop.

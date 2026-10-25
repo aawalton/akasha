@@ -1,0 +1,235 @@
+Bart sat up once again and looked at the blue text once again,
+
+REMOTE ACCESS REQUESTS: 314
+
+CURRENTLY ELIGIBLE FOR PHYSICAL ADMISSION: 47
+
+Gregor, who had been following Bart's gaze, helpfully started counting chairs. "23."
+
+Bart looked around again. "There are only 22 by my count"
+
+Gregor pointed toward the reinforced black stone bay. "I counted him."
+
+"Bernard is not a chair," Bart said.
+
+"He takes up more room than one."
+
+Bart realized the uncomfortable fact that Gregor wasn't entirely wrong. Maximum occupancy wasn't just a count of available seating. The Infinite Archive currently housed ordinary patrons, a large-format patron, specific emergency transit corridors, damaged sections, spatially abnormal rooms, and wards.
+
+He could not safely guess how many people to let in.
+
+"System," Bart said. "Display the Infinite Archive's public occupancy standard."
+
+The blue text flared,
+
+FACILITY CAPACITY ASSESSMENT
+
+Governing standard: IA-CW-14 (Practical Civic Architecture for Spatially Uncooperative Structures)
+
+Local copy: UNAVAILABLE
+
+Surviving registered copy: IDENTIFIED
+
+Current holder: Tessera Municipal Bureau of Civic Geometry & Wayfinding
+
+Loan status: OVERDUE
+
+Duration overdue: 617 YEARS
+
+Gregor had a big smile as it could be time away from mundane admin tasks. "Book recovery?"
+
+Bart looked at him. "Book recovery seems like it"
+
+"So they're thieves," Gregor said, cracking his knuckles.
+
+Bart opened the detailed circulation record. He frowned. "Actually, no."
+
+Borrower class: Institutional
+
+Original purpose: Municipal building code revision
+
+Renewal requests submitted: 213
+
+Renewal requests processed: 0
+
+Reason: LENDING INSTITUTION UNAVAILABLE
+
+Gregor deflated slightly. "So they're not thieves then."
+
+"No. They've actually followed procedure remarkably well," Bart said. "They kept asking for an extension. There was simply nobody left here to process it."
+
+Bart stood up and called out “Mabel”. The Sphinx turned her massive head.
+
+"No more additional physical admissions until I establish capacity," Bart instructed. "Albert, handle Patron Services. Bernard and Elian can remain; they're already admitted under the current occupancy profile."
+
+"And if another eligible patron arrives?" Mabel asked.
+
+"Remote access only until I return."
+
+"Even if they object?"
+
+Bart looked at the glowing occupancy warning. "Especially if they object."
+
+Gregor adjusted the strap of his satchel. "You're actually leaving Albert in charge of the main desk?"
+
+Albert's blue eye lights narrowed.
+
+"I meant that respectfully," Gregor added quickly.
+
+"No, you didn't,come along now Gregor" Bart said.
+
+He reached into his pocket for the key to the Staff Restroom. It was a strange feeling, leaving the Archive during operational hours, but the institution could finally function without him physically standing behind the desk.
+
+“System. Route to the current holder of IA-CW-14.”
+
+The faded sign above the door shimmered.
+
+OUTBOUND INSTITUTIONAL RECOVERY
+
+World: KHAROS Destination: TESSERA Registered population: PREDOMINANTLY MINOTAUR Destination type: MUNICIPAL CAPITAL WAYFINDING CONFIDENCE: 100%
+
+Bart stared at the final line.
+
+“100%?”
+
+Albert glanced over from the Main Desk.
+
+“Tessera usually has maintained exceptionally precise destination records, sir.”
+
+Bart looked back at the word MINOTAUR.
+
+“A civilization famous for labyrinths has the most accurate address in the multiverse.”
+
+Gregor frowned. “What's a labyrinth?”
+
+“Its like a maze”
+
+“So we could get lost.”
+
+“We will find out!.”
+
+He opened the door.
+
+WHOOSH! GURGLE!
+
+They stepped through the door and emerged into Tessera.Tessera was clean and had an absolutely planned city layout. The streets were perfectly straight, wide avenues paved in flawless white stone. Districts seemed colour coded with painted curbs. Street names were carved in massive block lettering at every junction. Every public building had redundant maps bolted to its facade, and intersections featured glowing markers declaring YOU ARE STILL HERE!. A tiny, 3 metre alleyway nearby possessed three separate, brightly painted exit signs.
+
+Gregor attempted to wander down a side street, only to be immediately confronted by a massive stone pillar detailing his exact coordinates, the nearest civic amenities, and the way back to the main avenue.
+
+At the end of a short sideway, a massive plaque read: DEAD END - THIS IS INTENTIONAL. DO NOT REPORT AS A WAYFINDING FAILURE.
+
+"They really don't like getting lost," Gregor said.
+
+"I can see that," Bart replied.
+
+Gregor stopped in the middle of the perfectly gridded intersection. "This isn't right."
+
+Bart looked at him. "What isn't?"
+
+"Minotaurs." Gregor frowned at a passing citizen. "Didnt you say minotaurs are famous for their labyrinths?"
+
+The minotaur, carrying a stack of ledgers and wearing a high-vis sash, stopped. His expression hardened. "Yes. It was considered a public safety catastrophe."
+
+He adjusted his ledgers and marched away down a perfectly straight street.
+
+They found the Tessera Municipal Bureau of Civic Geometry & Public Wayfinding exactly where the map said it would be. Inside, they were directed to the office of Chief Surveyor Harold Truepath. Harold was a massive minotaur with polished capped horns, wearing a bright orange safety sash. He had three thick rolls of building plans tucked under one arm and a heavy measuring chain hanging from his belt. He looked utterly like one of the huge builders on earth.
+
+Bart introduced himself and explained the overdue volume.
+
+Harold nodded immediately. "Yes."
+
+Bart paused for a second, he was used to arguing with bureaucrats. "Yes?"
+
+"It belongs to you," Harold said, walking over to his drafting table.
+
+"There's no dispute?" Bart asked.
+
+"No. We have been trying to return it or renew the loan for six centuries," Harold said.
+
+He pulled a heavy wooden file box onto the table. Inside were bundles of preserved correspondence. Bart looked at the stack and see the physical passage of time in the envelopes changing paper stock, shifting ink colors, different wax seals, and evolving handwriting styles as generations of municipal employees meticulously upheld their end of a broken institutional relationship. The oldest envelope at the bottom was stamped 3rd Renewal Request. The crisp, modern envelope at the top read 213th.
+
+Bart had a realization that the Archive's collapse hadn't just stranded multiversal scholars; it had left ordinary, diligent civic institutions talking to an empty room for 6 centuries.
+
+"There is, however, a problem," Harold said.
+
+"I wouldn't have even guessed," Bart sighed.
+
+Harold unrolled a map. "Your book is the foundational reference behind Tessera's modern building code not just because it is magical, but because it contains the only surviving authoritative standards for interiors larger than exteriors, structures with variable gravity, and occupancy where floor area changes depending on observer count. We have made copies over the centuries, but they are derivative copies of derivative copies. We will return the original though before we remove it from municipal custody, I would like the city's working copy authenticated against it."
+
+Bart agreed instantly. That was exactly what a partnership should do. "Where is the original?"
+
+"In the Old Planning Annex," Harold said, pointing to a red square on the map. "The annex used an experimental spatial compression design several centuries ago. It recently failed. The building hasn't collapsed. Its internal geometry has simply become... unhelpful."
+
+MUNICIPAL NOTICE: OLD PLANNING ANNEX
+
+External dimensions: 38m × 22m
+
+Verified internal corridor length: 6.4 km
+
+Expected internal corridor length: 412m
+
+BUILDING STATUS: CONDEMNED
+
+WAYFINDING CONFIDENCE: 11%
+
+Gregor stared at the notice. "Your building turned into a maze."
+
+Harold looked genuinely offended. "Spatial circulation failure."
+
+"Maze."
+
+"No It's Spatial…."
+
+10 minutes later, Bart, Gregor, and Harold were walking down a grey stone corridor inside the Old Planning Annex. It didn't look dangerous, there were simply doors that led to hallways that shouldn't exist, and staircases that went up but somehow you arrived back on the ground floor.Halfway down the hall, Bart opened a heavy wooden door marked SUPPLY CLOSET. Instead of mops, the doorway opened directly into the exact corridor they were currently standing in, approximately 20 metres ahead, looking back at their own backs. He quietly closed the door.
+
+Harold carried the original architectural plan, plus every single renovation amendment filed over the last six centuries.
+
+"We need the old Reference Vault," Harold said, checking a brass compass that was currently spinning in lazy circles.
+
+Bart began comparing the historical amendments. The building wasn't random. Six centuries of municipal renovations had been layered onto spatial enchantments that were never designed to coexist.
+
+Up ahead, Gregor suddenly stopped. He tapped his boot against the stone floor.
+
+"Boss," Gregor said.
+
+"Yes?"
+
+"We've passed that same crack three times."
+
+Harold checked the massive sheaf of plans. "Impossible."
+
+Gregor pointed at a faded municipal inspection sticker half peeled off the wall. "Very visible for impossible. I know when I'm walking in a circle."
+
+Bart took the plans from Doran. He overlaid a transparent schematic from 300 years ago over the modern layout. The maps were individually accurate. The problem was that they referred to different versions of the building.
+
+"Surveyor Truepath," Bart said. "In municipal year 424, did Tessera install a temporary bypass corridor to route traffic around a localized gravity failure?"
+
+Harold checked his ledger. "Yes. It was designated Corridor 4-B."
+
+"Did anyone ever remove Corridor 4-B from the active spatial index when the gravity failure was repaired?"
+
+Harold went very still as he continued to look at the paperwork.
+
+"Your building has a deprecated hallway," Bart said. "The architecture is routing us through a corridor that physically no longer exists, but administratively still counts as a valid connection."
+
+Gregor frowned. "Can hallways be deprecated?"
+
+Harold stared at the plans for a long, painful pause. "I guess we are going to find out”
+
+The Chief Surveyor pulled a stamp from his belt, pressed it against the specific amendment in his ledger, and formally voided the temporary corridor.
+
+The grey stone hallway shuddered, the air popped with old dust and then the corridor snapped straight. Gregor looked ahead. He expected to see a heavy steel door marked REFERENCE VAULT.
+
+Instead, the corridor branched into three perfectly identical hallways, all tilting at slightly different angles.
+
+Above them, the System updated the municipal survey.
+
+WAYFINDING CONFIDENCE: 26%
+
+OBSOLETE ROUTING DEPENDENCIES REMAINING: 17
+
+Gregor stared at the floating blue text. "17?"
+
+Bart looked down at 600 years of structural amendments.
+
+Bart replied, "Looks like they were very fond of temporary solutions."

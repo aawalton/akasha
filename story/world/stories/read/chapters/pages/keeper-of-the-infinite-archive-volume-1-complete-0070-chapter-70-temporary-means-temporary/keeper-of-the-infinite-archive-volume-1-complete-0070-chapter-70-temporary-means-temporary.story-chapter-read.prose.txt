@@ -1,0 +1,217 @@
+Bart stared at the three identical, slightly tilted hallways stretching out before them.
+
+He looked down at the massive sheaf of historical amendments Harold had provided. The problem wasn't just that there were 17 obsolete routes remaining in the Old Planning Annex. It was that Bart couldn't simply cross them all out at once.
+
+"We can't just void them blindly," Bart realized, tracing a line on a parchment schematic from three centuries ago. "Some of these temporary corridors were later used as anchor points for permanent construction. If we simply delete the obsolete records, we might collapse legitimate modern routes that rely on them."
+
+Gregor crossed his arms, evaluating the stone walls with a professional thief’s eye. "So someone built a door around the fake hallway."
+
+"Well thats one way to put it," Bart said.
+
+"Then built another door around that."
+
+"Yes."
+
+"For  about six hundred years."
+
+Bart opened his System interface. He had to distinguish between an obsolete route, a historical dependency, an active route, and a safe connection. The maps told him what should theoretically exist. He needed to know what physically remained.
+
+"Gregor," Bart said. "Scout the left corridor, Don't go further than the first intersection. Just tell me what's physically there." Gregor nodded and slipped down the hallway. He returned less than a minute later, not even slightly out of breath.
+
+"The door there goes to the stairs," Gregor reported.
+
+Bart checked the active municipal plan. "According to this plan, the door supposedly number 12  goes to Records."
+
+For the next hour, they established a rhythm. Bart would trace the chronological dependency chain through the ledgers. Gregor would jog down and back, physically scouting the short loops and architectural dead ends.
+
+"There's a brick wall painted to look like a hallway," Gregor called out.
+
+"Amendment 88-C," Bart confirmed, checking the ledger. "Aesthetic remediation. Void it, Surveyor Truepath."
+
+Harold stamped the ledger and the wall vanished.
+
+Gregor jogged back from a central stairwell a few minutes later. "There's a staircase with thirteen steps going up, and twelve coming down," he reported.
+
+Harold looked sharply at him. "Impossible."
+
+"I counted twice just to make sure and even pinched myself "
+
+Bart checked the chronological ledger and found Amendment 203-F. "TEMPORARY STEP COMPRESSION MEASURE - FESTIVAL CROWD CONTROL."
+
+Bart looked at Harold while Harold just tried to look busy.
+
+"Temporary," Gregor said.
+
+"How long?"
+
+" 306 years."
+
+They successfully cleared eight more loops until Gregor returned from the right hand split, wiping dust from his jacket.
+
+"Corridor 7 exists," Gregor reported.
+
+Bart frowned. "It was marked demolished 412 years ago."
+
+Harold checked his modern facility plans. "It is also the current emergency route for the eastern records offices."
+
+Bart pulled up the Archive's spatial reading.
+
+OBSOLETE ROUTE 7-C
+
+Historical status: TEMPORARY
+
+Current physical status: ACTIVE
+
+Dependent modern routes: 6
+
+Safe deletion: NO
+
+"So this one isn't dead," Gregor said.
+
+"It's dead in the records," Bart corrected.
+
+"It also means we can't delete it without severing 6 modern rooms from the rest of the building," Bart said. He hesitated, looking at the ledger, then at the Chief Surveyor. "I can tell you what the historical record requires. I cannot redesign your municipal emergency route."
+
+Harold nodded once. "Sure that makes sense"
+
+Gregor frowned. "Why is that any good?"
+
+"Because he's a librarian," Harold said, already unfolding a fresh survey parchment and withdrawing his pen, "and not a municipal engineer."
+
+Harold began a formal survey of the existing stone beneath their feet. He mapped the physical dimensions, documented the active doorways, and certified its modern emergency function. He handed the document to Bart.
+
+SUCCESSOR CONNECTION 7-C/1
+
+Physical route: VERIFIED
+
+Current use: VERIFIED
+
+Emergency function: VERIFIED
+
+Supersedes temporary routing designation: 7-C
+
+Harold finally brought his heavy brass stamp down on the old record.
+
+OBSOLETE - SUPERSEDED
+
+The building groaned, but instead of vanishing, the corridor simply settled solidly into place, the tilt righting itself into a perfect alignment.
+
+They methodically worked through the remaining dependencies over the next half hour. When Harold stamped the final obsolete record,he exhaled loudly.
+
+50 feet away, at the end of a very normal, very straight corridor, stood a steel door marked REFERENCE VAULT.
+
+Harold unlocked it with a key he was carrying.Inside, resting on a central pedestal under a preservation ward, was the book.
+
+Practical Civic Architecture for Spatially Uncooperative Structures. It was a bit battered, and heavily annotated.
+
+The walls around it were lined with several deep shelves of building reference material, all derivative copies drawn from this single authoritative source. Bart opened one and could see later editions, bound annotations, structural diagrams, and legal commentaries based on the original standards. The covers visibly became newer as the centuries passed. It was physical evidence of how one borrowed text had propagated into an entire, enduring civic tradition.
+
+Gregor walked up to the pedestal, grabbed the spine of the massive book, and pulled. He grunted, planted his boots on the stone, and heaved. The book didn't move an inch.
+
+Harold though stepped forward, reached out with one massive hand, and picked it up effortlessly.
+
+Bart inspected the volume.
+
+HOLDING VERIFIED Infinite Archive property Institutional loan Condition: ACCEPTABLE
+
+Overdue period: 617 years
+
+Borrower misconduct: NONE
+
+"We are legally dependent on this text," Harold said quietly, holding the heavy book. "Returning the original leaves the Bureau relying entirely on derivative copies."
+
+Bart didn't just assert ownership and leave Tessera to deal with the consequences. "Let's authenticate your working copy," Bart said.
+
+He took Tessera's modern reference volume from Harold and placed it on the pedestal. He initiated a comparative Record sweep, matching the derivative text against the original.
+
+"There is an addition here," Bart noted, scanning the text. "Section 18.4 - Horn Clearance in Public Doorways."
+
+Gregor couldn't stop himself looking at Harold. Harold met his gaze flatly. "Just a local amendment."
+
+Bart confirmed it was properly marked as such. He also noticed a standard stating that observer dependent floor area should be calculated using the maximum reasonably foreseeable observer count. Tessera hadn't just copied the standard; they had improved it through centuries of practical application.
+
+He verified that nothing material had been omitted, then used Citation to confirm that the derivative provenance remained traceable to the original.
+
+DERIVATIVE REFERENCE CERTIFICATION
+
+Record integrity: VERIFIED
+
+Citation relationship: VERIFIED
+
+Local amendments: VALIDLY DISTINGUISHED
+
+Provenance chain: COMPLETE
+
+RECIPROCAL CITATION UPDATE: RECOMMENDED
+
+Bart signed the certification on the System interface. Tessera now possessed a working copy formally authenticated against the Infinite Archive's original holding. The Archive got its original back.
+
+"Thank you, Keeper Sanders," Harold said, respectfully handing over the massive original volume which Gregor had to help Bart carry as well.
+
+"Thank you, Surveyor," Bart replied. "Your filing system is exceptional."
+
+Harold rolled up the corrected survey. "Your Junior Helper has excellent spatial awareness."
+
+Gregor winked at Bart. "Never in doubt."
+
+"Nobody disputed that," Bart said.
+
+"Lots of people have," Gregor muttered.
+
+"Keeper Sanders," Harold said, holding out a thinner, orange bound volume. "Our current municipal code. 619th revision."
+
+Bart looked at it. "A donation?"
+
+"Interinstitutional reference copy."
+
+Bart accepted it carefully, putting it just above the heavier book.
+
+Gregor looked between them. "Are we taking two books home?"
+
+"One recovery," Bart said. "One acquisition."
+
+When Bart and Gregor stepped back through the Staff Restroom door, the Infinite Archive was reassuringly intact. Elian was still in midst of  reading, Bernard was resting. Albert was sweeping near the mahogany desk. Bart decided this qualified as reassuringly normal.
+
+Both he and Gregor walked to Patron Services and dropped the massive architectural tome into the Intake Tray.
+
+The scales flared a brilliant, blinding blue.
+
+FOUNDATIONAL FACILITIES REFERENCE RESTORED Subject cluster recovered: Architecture Civic Works Building Safety Spatial Planning Public Wayfinding
+
+The floorboards at the far end of the eastern wing groaned. The sound of shifting timber echoed through the stacks.
+
+NEW SECTION RESTORED ARCHITECTURE & CIVIC WORKS
+
+Bart placed the orange bound Tessera municipal code onto the tray next. The scales glowed a soft green, processing the new acquisition and filing it away into the newly restored section.
+
+Bart and Gregor walked down the main aisle to look. It was a beautifully purposeful workspace. A long, angled oak drafting table sat in the center of the room. Beside it stood wide, flat plan drawers with polished handles. Rolled maps rested in leather holsters along the walls, and a massive floor plan frame hung near the entrance. Gregor looked at the mostly empty new shelves, then at the drafting table. "We got a whole section from one book?"
+
+Albert, gliding up silently behind them, rested his hands on his broom. "A foundational reference, Junior Helper."
+
+Bart just smiled. He walked over to the drafting table and gently set Practical Civic Architecture for Spatially Uncooperative Structures on the slanted wood.
+
+FACILITY CAPACITY ASSESSMENT NOW AVAILABLE
+
+Bart tapped the interface. "Maximum safe occupancy."
+
+The System chimed.
+
+ASSESSMENT CANNOT YET BE COMPLETED
+
+Required:
+
+Verified accessible floor area
+
+Structural load classification
+
+Emergency egress throughput
+
+Nonstandard patron equivalency
+
+Active spatial distortion survey
+
+Gregor stared at the glowing blue text. "We went through a broken minotaur building for another list?"
+
+Bart opened the leather bound cover of the recovered book.
+
+"We went through a broken minotaur building for the correct list," Bart said.

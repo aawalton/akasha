@@ -1,0 +1,327 @@
+Bart looked across the occupied tables in Reading Gallery B. He then looked at Gregor, who was covered in dust.
+
+“Today,” Bart decided. “We close today.”
+
+He turned back to the desk and tapped the intake tray interface.
+
+“System,” Bart said. “Retrieve the Archive’s historical public operating schedule.”
+
+The interface flickered, digging through the administrative archives before producing a neatly formatted block of text.
+
+HISTORICAL GENERAL ACCESS PERIOD: CONTINUOUS
+
+HISTORICAL STAFFING ALLOCATION: 418.6 FULL-TIME EQUIVALENTS
+
+CURRENT AVAILABLE OPERATIONAL PERSONNEL: 4
+
+RESTORE HISTORICAL SERVICE PERIOD?
+
+“No,” Bart said instantly.
+
+He squinted at the glowing blue text. “What was 0.6?”
+
+“Several specialized employees were only partially located within conventional time, sir,” Albert explained smoothly coming to the edge of the desk.
+
+“Oh I see Right,” Bart said, deciding immediately not to ask any follow up questions.
+
+He began separating the Archive’s vast responsibilities into manageable categories. A library this large could not simply turn off the lights and lock the doors, but it also could not provide full service all the time. He needed to distinguish general service from essential operational functions.
+
+SERVICE CATEGORY DEFINITIONS
+
+GENERAL PUBLIC SERVICE: DEFINED HOURS
+
+AFTER HOURS CONSULTATION: CONTROLLED ACCESS
+
+MATERIAL RETURNS: CONTINUOUS
+
+EMERGENCY REFERENCE ACCESS: CONTINUOUS
+
+SAFETY AND EVACUATION SYSTEMS: CONTINUOUS
+
+He established the initial operating rules. There would be 8 Archive Standard Time hours of general public service per day. There would be no new admissions during the final hour. There would be no new manual retrieval requests accepted during the final 2 hours.
+
+The provisional North Diplomatic carrier route would operate only when Bart was physically present to supervise it. Materials already issued to patrons would remain subject to their normal loan terms, meaning patrons could stay in their preferred seating if they possessed after hours clearance, but the Patron Services desk would cease operations.
+
+The System processed the parameters and automatically converted the resulting schedule into the local timeframes of every currently connected world, ensuring that a researcher arriving from a different dimension would still understand the deadlines.
+
+“How did the Archive historically remove patrons at closing?” Bart asked.
+
+POTENTIAL AVAILABLE CLOSING METHODS:
+
+Gregor immediately pointed at the screen. “Number five.”
+
+“Nobody is being magically thrown out of the library,” Bart said.
+
+“It saves walking,” Gregor argued. “And I bet it’s fun to watch. Why keep the option if we aren't going to use it?”
+
+“Because it will require a safety review, that would be potentially more work with limited staff” Bart said, selecting the first method. “We will start with an announcement.”
+
+He set a  30 minute warning, followed by a final 10 minute reminder.
+
+GENERAL PUBLIC SERVICE ENDS IN: THIRTY MINUTES INITIATING COURTESY ANNOUNCEMENT
+
+A soft, melodic chime resonated through the main hall and echoed gently across the high, vaulted ceilings of Reading Gallery B. It was followed by a pleasant, magically amplified voice that sounded remarkably like Albert’s.
+
+“The Infinite Archive will close for general public service in 30 minutes,” the voice announced. “Patrons without after-hours clearance, please complete your current consultation and return any Archive material not yet loaned to Patron Services.”
+
+Bart glanced at Gregor, who was already eyeing the stacks.
+
+“Do not begin any activity requiring several kilometres of walking,” Bart instructed.
+
+Gregor happily leaned back against the desk.
+
+In the gallery, the reactions varied. Elian, the Silver Spire scholar, immediately began organizing his notes with hurried efficiency, stacking his parchments into neat, aligned squares. A patron from a dimension that possessed no actual night approached the desk to politely ask what the concept of “closing” meant, requiring a brief explanation of sleep from Gregor. Albert glided among the tables with alarming speed, silently collecting unattended teacups before the patrons had even finished standing up.
+
+When the 10 minute warning sounded, Leslie Briggs approached Patron Services.
+
+The fae scholar placed their  volume on the desk surface so Bart could formally confirm continued custody.
+
+ITEM STATUS: ISSUED TO PATRON
+
+RETURN DUE: THREE ARCHIVE DAYS
+
+EXTERNAL HEARING USE: PERMITTED
+
+CONDITION CHECK: REQUIRED UPON RETURN
+
+“Your loan remains active,” Bart assured them. “Closing the building does not cancel a valid issue. You have three Archive days.”
+
+“I appreciate the clarification,” Leslie said, resting a hand on the book.
+
+“When does the hearing occur?” Bart asked.
+
+“Soon,” Leslie said dryly. “Assuming the human delegations finish arguing about who is entitled to represent humanity.”
+
+It was a quiet, fleeting glimpse into the vast, complicated political machinery operating outside the Archive’s doors. Bart chose not to pry further. “We will see you when it concludes,”
+
+Leslie offered a crisp nod, took up the volume, and departed gracefully through the portal.
+
+A moment later, the floorboards groaned.Bernard approached the desk. The massive retired auditor moved with a slow, deliberate grace that belied his immense size. He carried the gardening book he had been consulting, sliding it onto the intake tray.
+
+He did not merely try to return the book but submitted his consultation notes, a meticulously detailed condition report, a list of three suspected typo errors and a formal complaint regarding an illustration that had completely misidentified the root.
+
+Bart accepted the paperwork, filing it directly into the catalogue maintenance queue.
+
+Bernard lowered his massive, scaled head to peer at the glowing blue interface hovering above the desk, his golden eyes scanning the newly established public hours.
+
+“Who supervises the carrier route during the first service period?” Bernard asked, his deep voice vibrating in Bart’s chest.
+
+“I do,” Bart said.
+
+“And Patron Services?”
+
+“Also me.”
+
+“Emergency response?”
+
+Bart hesitated for a moment.
+
+“You,I would guesss” Bernard concluded.
+
+The dragon auditor let out a slow, rumbling breath. He tapped a massive talon against the stone floor. “You have defined public hours, Keeper. You have not defined a sustainable staffing model. You are a single point of failure for three essential systems.”
+
+“I am aware,” Bart said. “The System has identified an urgent requirement for a Facilities Engineer to handle the transit and relay systems. I cannot run the retrieval  tube and the desk simultaneously.”
+
+Bernard’s eyes gleamed for a moment. “Chief Surveyor Truepath trained  a facilities specialist in Tessera. Her name is Ada Kett.”
+
+“A minotaur?” Gregor asked.
+
+“No she is remarkable, a goblin, in fact” Bernard corrected.
+
+Gregor blinked. “Nobb and Hedd didn't have surnames.”
+
+“Cave goblins are different,” Bernard explained patiently, his tone carrying the practiced weight of an educator. “I am speaking of Tessera.”
+
+“So Tessera gives goblins surnames?” Gregor asked.
+
+“Tessera gives everyone forms,” Bernard said. “The surnames naturally follow. Ada is her personal name. Kett is her household registration. She is a licensed civil engineer.”
+
+“Why do you recommend her?” Bart asked.
+
+“I encountered Engineer Kett while auditing a joint Tessera-Caelora public transit project,” Bernard said. “It was designed to accommodate large format passengers.”
+
+“Was the project successful?” Bart asked.
+
+“No,” Bernard said flatly. “Engineer Kett failed it.”
+
+Gregor frowned. “You’re recommending the engineer whose project failed?”
+
+“It was her own project,” Bernard said, a note of deep, rumbling respect entering his voice. “She discovered, mere days before certification, that the original Caeloran load calculations excluded passengers above six tonnes. The structure would have held the average minotaur. It would not have held me.”
+
+The dragon looked at Bart. “The project would have opened on schedule if she had remained silent. The error was buried in the math. No one else had caught it. Instead, she stopped the project, accepted immense professional embarrassment, infuriated the Caeloran delegates, and demanded the support system be redesigned.”
+
+Bernard tapped his talon against the floor again.
+
+“Do not hire her because I recommend her, Keeper. Ask her what she refuses to repair.”
+
+It was the highest praise an auditor could possibly offer. Ada Kett did not prioritize speed over safety, and she was entirely willing to halt a flawed system rather than pretend it worked.
+
+“Would she be interested in a broken Archive?” Bart asked.
+
+“Possibly,” Bernard said. “Though her first questions will concern authority, liability, and compensation.”
+
+Bart looked at the interface. He could define the position’s authority and identify its liabilities. But the Archive’s compensation system remained offline, and he could not offer Ada terms he had no means to fund.
+
+“I can answer two of them,” Bart admitted.
+
+“Then you are not yet ready to recruit her,” Bernard said.
+
+The dragon gave a low, rumbling chuckle.
+
+The massive dragon offered a polite, surprisingly graceful bow of his head, turned, and made his way toward Large Format Patron Access, his tail sweeping the dust from the floor behind him.
+
+The reinforced transit doors opened onto Caelora, then closed behind him. The last patron had departed.
+
+Mabel remained at Access, her golden eyes fixed on the empty corridor.
+
+Bart walked over to the towering Sphinx.
+
+“General access is closed,” Bart told her. “Your scheduled duty period has ended.”
+
+Mabel did not freeze as she had when Bart terminated her emergency posting. She simply looked operationally confused.
+
+“Who assumes responsibility for the entrance?” Mabel asked, her deep voice vibrating through the floorboards.
+
+“No one is being admitted,” Bart said. “The emergency alert remains active, the doors are sealed, and I am on call.”
+
+Mabel studied the heavy doors, then looked down at Bart. “That is a highly unusual arrangement.”
+
+“It is called closing,” Bart said.
+
+Mabel considered this for a long moment.
+
+MABEL - SENIOR ACCESS GUARDIAN STATUS: OFF DUTY
+
+NEXT ASSIGNED PERIOD: PENDING ROSTER
+
+She stepped away from the doors, officially relieving herself of her post for the first time at the end of an ordinary shift. It was a smaller, quieter milestone than her initial rescue, but to Bart, it felt equally important. She was beginning to experience employment as a sequence of defined shifts, rather than one endless, unbroken obligation.
+
+Albert appeared at her side, carrying a polished silver tray with two empty porcelain cups.
+
+“Would you care to join me for tea in the staff annex, Madam?” Albert asked politely.
+
+Mabel looked at the skeletal custodian. “I do not drink tea.”
+
+“Neither do I, Madam,” Albert said.
+
+Mabel processed the logic of the invitation. “Very well.”
+
+The two of them departed toward the annex, leaving Bart and Gregor alone in the main hall.
+
+Bart returned to the desk to finalize the staffing rotation for the next service period. He assigned the available personnel to the required roles.
+
+Compensation had remained the second open deficiency since Halver’s inspection. Bart had dealt first with evacuation, safe capacity, and public hours. But a repeating staff rota could no longer be built on emergency arrangements.
+
+PROPOSED STAFF ROTA ACCESS GUARDIAN: MABEL
+
+PATRON SERVICES & OPERATIONS: ALBERT
+
+MANUAL RETRIEVAL: GREGOR
+
+KEEPER SUPERVISION & CARRIER TRANSIT: KEEPER SANDERS
+
+The System evaluated the proposal instantly.
+
+PROPOSED PUBLIC SERVICE PERIOD: POSSIBLE
+
+REPEATED COVERAGE: UNSUSTAINABLE
+
+SINGLE-POINT STAFF DEPENDENCIES: FOUR\
+
+EXPANDED SERVICE COVERAGE: INSUFFICIENT
+
+The System was right. If Mabel needed a break, the admittance system failed. If Albert stepped away, the reading desk had an issue. If Gregor rested, manual retrieval stopped. And if Bart was required at Patron Services, the new retrieval route had to be shut down.
+
+Instead of expecting everyone to work continuously to mask the staffing deficit, Bart reduced general public service from 8 Archive Standard Time hours to 6, with a separate hour reserved for opening and closing procedures.
+
+The System accepted the limited, honest schedule.
+
+GENERAL PUBLIC SERVICE HOURS: DEFINED
+
+LOCAL-TIME CONVERSION: PUBLISHED
+
+ACCREDITATION DEFICIENCY 1: REMEDIATED
+
+The primary dashboard updated, flashing a calm, steady blue beside the first requirement.
+
+DEFICIENCY 1 - PUBLIC HOURS UNDEFINED: REMEDIATED
+
+DEFICIENCY 2 - STAFF COMPENSATION FRAMEWORK INOPERATIVE: OPEN
+
+DEFICIENCY 3 - EMERGENCY AND EVACUATION PLAN: REMEDIATED
+
+DEFICIENCY 4 - PATRON CAPACITY STANDARDS: REMEDIATED
+
+DEFICIENCY 5 - HOLDINGS RETRIEVAL CAPACITY: OPEN
+
+“That’s 3 out of 5,” Gregor said, studying the amber retrieval warning.
+
+. “Retrieval remains open until we hire a specialist.”
+
+Bart tapped the interface, instructing the System to officially publish the new staff rota.
+
+The interface flared red.
+
+SCHEDULED DUTY ASSIGNMENT REQUIRES COMPENSATION TERMS
+
+STAFF COMPENSATION FRAMEWORK: INOPERATIVE STANDARD WAGE: UNDEFINED
+
+OVERTIME: UNDEFINED
+
+LEAVE ENTITLEMENT: UNDEFINED
+
+Gregor stared at the glowing red text and pointed.
+
+“That’s the deficiency I liked.”
+
+“I do remember,” Bart smiled.
+
+“My compensation is room and board.”
+
+“That was our agreement, yes”
+
+Gregor looked down at the dust coating his clothes. “We made that agreement before either of us knew how many kilometres were in the job.”
+
+Bart could not reasonably dispute that. He opened Gregor’s personnel record.
+
+CURRENT COMPENSATION: ROOM AND BOARD STANDARD
+
+WORK EQUIPMENT: PROVIDED
+
+AGREEMENT TYPE: EMERGENCY ARRANGEMENT
+
+BASE WAGE: UNDEFINED
+
+HAZARD DIFFERENTIAL: UNDEFINED
+
+LEAVE ENTITLEMENT: UNDEFINED
+
+FORMAL REVIEW: OVERDUE
+
+Bart requested the complete personnel ledger.
+
+The System paused.
+
+HISTORIC COMPENSATION RECORDS DETECTED
+
+UNDISBURSED STAFF OBLIGATIONS: PRESENT
+
+PARTNER CONTRIBUTION NETWORK: OFFLINE
+
+UNRESTRICTED PAYROLL RESERVE: 0
+
+Gregor looked at Bart.
+
+“Boss.”
+
+“Yes?”
+
+“Are we broke?”
+
+Bart studied six centuries of unresolved staff obligations and an unrestricted payroll reserve containing precisely nothing.
+
+“Administratively,” he said, “we do appear to be extremely broke.”
+
+The Archive finally knew when to stop.
+
+Next, it would have to account for everything it owed.

@@ -1,0 +1,211 @@
+Ada Kett did not look up from the heavily smudged card. She remained perfectly still at the table, her gloved finger hovering just above the faint sketch that defined Keeper #4,091’s final destination.
+
+“Can we go there?” Gregor asked.
+
+He looked from the centuries old card to the tracks of Route 3 running along the wall, as if expecting Bart to immediately pull a lever and dispatch them into the unknown.
+
+“No,” Ada replied immediately.
+
+She tapped the two corrupted reference marks on the form with the blunt end of her stylus. “A destination defined relative to two independent references requires those references to exist, and it requires us to know what they are. Without the references, you don't have a route. You have routing instructions with two missing terms.”
+
+Bart turned to his primary interface, needing to be absolutely certain the door was closed. “System, attempt to reconstruct the revised destination for Keeper #4,091’s final mediation deployment.”
+
+ROUTE RECONSTRUCTION: UNAVAILABLE
+
+REQUIRED REFERENCE IDENTITIES: INCOMPLETE
+
+“Worth checking,” Gregor noted
+
+Ada looked at Gregor, her expression one of mild exasperation. “You don't have a destination,” she explained clearly. “You have evidence that one once existed.”
+
+Bart stared at the routing form. The vocabulary snagged in his mind. Destination. The word bothered him. Not because it was strange, but because it was suddenly, irritatingly familiar. He had seen it recently, attached to another restricted file associated with his predecessor, but in a completely different context.
+
+He tapped his screen, backing out menus and accessing the Archive’s financial core. He pulled up the pre-Ruin treasury ledger they had discovered while investigating the Archive's failed payroll system.
+
+He found the anomaly exactly where he had left it.
+
+FINAL PRE-RUIN TREASURY ACTION: EMERGENCY TRANSFER
+
+AUTHORIZING OFFICER: KEEPER #4,091
+
+DESTINATION RECORD: SEALED
+
+TRANSFER PURPOSE: CONTINUITY MEASURE
+
+Gregor leaned his heavy arms on the table, peering over Bart’s shoulder at the glowing interface. “The missing money.”
+
+“The historical support network handled considerably more than currency,” Bart corrected him, scanning the text. “It managed materials, provisions, and other infrastructure. We don't actually know what was transferred. We only know it was a continuity measure.”
+
+Ada saw the direction of Bart’s thought instantly.
+
+“You think this destination may be the same one,” Ada said.
+
+“I don't know,” Bart replied, his eyes fixed on the screen. “But I may not need to know what either destination is to find out.”
+
+Bart didn't need the contents of either sealed record. He only needed to know whether they referred to the same thing. He deliberately framed his query so that he was not requesting restricted content.
+
+“System,” Bart said. “Do not disclose the identity of either destination. Compare the destination attached to Keeper #4,091's emergency continuity transfer with the revised destination attached to his mediation deployment. Do both records refer to the identical destination?”
+
+The interface paused for a moment, a small amber processing icon spun in the corner of the screen while strict logic sorted the parameters of the request. Bart held his breath, the amber icon vanished, suddenly replaced by crisp blue text.
+
+RESTRICTED RECORD CONTENT: NOT REQUESTED
+
+COMPARATIVE RECORD QUERY: PERMITTED
+
+REFERENTIAL IDENTITY: CONFIRMED
+
+“So he sent something there,” Gregor concluded.
+
+“He authorised something to be sent there,” Ada corrected.
+
+“That is what I said.”
+
+“It isn't exactly that”
+
+A short, quiet laugh escaped Bart, breaking the tension for a fraction of a second before the immense weight of the revelation settled back over the table.
+
+“If the emergency transfer went to the same relative position he later redirected himself to,” Bart said, his mind racing, “we need to know the order of operations. Did he go there and then call for the transfer, or did he send it first?”
+
+The termination record had established that the destination revision was #4,091's final exercise of Keeper authority. The continuity-transfer authorization therefore had to precede it, but Bart wanted the complete sequence.
+
+“System,” Bart ordered. “Provide the relative sequence of events for these two actions. Do not provide exact timestamps.”
+
+The System processed the request without hesitation.
+
+RELATIVE EVENT SEQUENCE: DISCLOSURE PERMITTED
+
+Bart stared at the lines.
+
+Whatever had happened in the final seconds, #4,091 had already known about the destination before he redirected himself there.
+
+“He sent it there before he went,” Gregor observed, tracing the lines in the air with a thick finger.
+
+“According to this sequence, yes,” Ada allowed, her voice incredibly quiet.
+
+Bart looked at the final two steps. “Then this didn't begin three seconds before the Divergence.”
+
+The authority severance might have occurred three seconds before the Ruin, but the sequence proved that whatever #4,091 was doing had begun before those final seconds.
+
+“What did he send?” Ada asked, cutting straight to the core of the problem.
+
+“System,” Bart said. “Provide the transfer manifest for the emergency continuity measure.”
+
+TRANSFER MANIFEST: RESTRICTED
+
+Bart didn’t flinch but simply widened the net. “Provide the broad transfer class. Was it a personal asset transfer?”
+
+PERSONAL ASSET TRANSFER: NO
+
+“Was it a collection holdings transfer?”
+
+COLLECTION HOLDINGS TRANSFER: NO
+
+“Identify the transfer class.”
+
+TRANSFER CLASS: INSTITUTIONAL CONTINUITY
+
+That was enough to rule out the worst assumptions. Keeper #4,091 had not been secretly moving his own wealth into hiding, nor had he been stealing or attempting to save a curated chunk of the Archive’s historical collection. Whatever he had sent, the Archive classified it as part of institutional continuity.
+
+Albert, who had been standing silently by the edge of the processing table, stepped slightly forward.
+
+“Continuity measures were intended to preserve essential functions after catastrophic service interruption, sir,” the Chief Custodian offered.
+
+“What kinds of functions?” Bart asked.
+
+“I remember only broad categories,” Albert replied carefully. “Records, supplies, administrative capability. Perhaps personnel or infrastructure.”
+
+Bart looked at the sequence on his screen, then at the Custodian. “A backup Archive?”
+
+Albert straightened his spine, resting his polished skeletal hands on the edge of the table. He did not let the desperate hope of the question sway his factual precision. “I do not remember enough to support that conclusion, Keeper Sanders.”
+
+Ada nodded once, deeply approving of the Custodian’s evidentiary restraint.
+
+Bart turned back to the tablet, determined to chip away at the edges of the restricted manifest.
+
+“System,” Bart said. “Was the transfer currency?”
+
+TRANSFER MANIFEST: RESTRICTED
+
+“Equipment?”
+
+TRANSFER MANIFEST: RESTRICTED
+
+“Personnel?”
+
+TRANSFER MANIFEST: RESTRICTED
+
+Ada folded her arms over her coat and slightly glared at him.
+
+Bart stopped and looked up. “I know.”
+
+“I didn't say anything,” Ada replied smoothly.
+
+“You were about to.”
+
+“I was considering whether 17 attempts now constitutes established behaviour,” Ada said.
+
+“17 seems unfairly specific,” Gregor muttered, trying to defend Bart.
+
+Bart let out a long breath, returning his focus to the event sequence still displayed on the interface. He read through the 5 steps again. Authorised. Dispatched. Received. Revised. Severed.
+
+His eyes stopped moving on step 3.
+
+He leaned closer to the screen. Received.
+
+“System,” Bart said, his voice dropping an octave. “In the context of this specific sequence, does a completed delivery confirmation indicate that the transfer was dispatched, or does it indicate confirmed delivery?”
+
+DELIVERY CONFIRMATION: RECEIVED
+
+“Does that prove someone was physically present at the destination to receive it?” Bart pressed.
+
+CONSCIOUS RECIPIENT PRESENCE: NOT ESTABLISHED
+
+“A receipt can be generated by infrastructure,” Ada warned instantly, preventing him from making a massive logical leap. “An automated intake bay logging a spatial delivery would generate a confirmation without a conscious recipient.”
+
+Bart nodded. She was absolutely right. But even an automated intake bay meant something profound.
+
+“System,” Bart refined the query, borrowing Ada’s logic. “Does a received delivery confirmation establish that the destination possessed a functioning mechanism capable of accepting an institutional continuity transfer from the Infinite Archive?”
+
+The interface pulsed.
+
+AFFIRMATIVE
+
+The word seemed to ring in the quiet air of the main hall.
+
+Before Keeper #4,091 had ever revised his destination, before he had ever severed his authority, the strange, undefined relative position had not been an empty void.
+
+It had already possessed something capable of receiving an institutional continuity transfer from the Archive.
+
+“So who received it?” Gregor asked, asking the simplest question in the room.
+
+“System,” Bart commanded. “Identify the receiving authority for the continuity transfer.”
+
+RECEIVING AUTHORITY: RECORD RESTRICTED
+
+Ada summed up the reality of their position, stripping away the speculation and leaving only what the evidence could support. “Then we know the destination was functional before #4,091 redirected himself there. We do not know who operated it, what it was, or whether anyone was physically there.”
+
+“Agreed,” Bart said softly.
+
+He realized, with a faint sense of unease, that these records still did not establish where Morzath’s encounter with #4,091 and the dying Albert fit into the sequence. The chronology of his predecessor’s final hours remained fragmented.
+
+Bart arranged the three pieces of evidence on the table before him.He set the faded mediation deployment card on the left. He placed the interface displaying the continuity transfer sequence in the center and visualized the glowing amber text of the termination record on the right.
+
+Individually, they had looked like failures and isolated emergency actions. A missed conference, a sealed treasury transfer and an unexplained severance of Keeper authority.
+
+Together, they had begun to look deliberate.
+
+“He sent something there,” Gregor summarized, looking at the layout on the table.
+
+“Yes, and it arrived,” Bart said.
+
+“Then he went there.”
+
+Bart looked at the sequence. “Then he redirected himself there.”
+
+“And who received it?” Gregor asked again, his brow furrowing.
+
+Bart looked at the unanswered field.
+
+RECEIVING AUTHORITY: RECORD RESTRICTED
+
+But Bart was no longer looking at the restriction. His eyes had moved back to the event sequence specifically the 3rd one.

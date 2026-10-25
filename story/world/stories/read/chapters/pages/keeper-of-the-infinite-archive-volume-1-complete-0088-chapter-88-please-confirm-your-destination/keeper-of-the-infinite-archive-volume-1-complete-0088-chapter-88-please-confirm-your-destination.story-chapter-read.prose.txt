@@ -1,0 +1,209 @@
+Bart stared at the final line of the succession record.
+
+3 seconds before the Great Divergence.
+
+His predecessor had not been sitting in the Infinite Archive when the disaster struck. He had changed the destination of his mediation deployment, travelled there, and deliberately severed his Keeper authority from that new location.
+
+“Whatever happened to him,” Bart said quietly, “the Archive entered the Great Divergence without a Keeper.”
+
+Gregor broke the silence in the hall.
+
+“So where did he go?”
+
+Bart turned back to the glowing tablet. “System, identify the revised destination for Keeper #4,091’s final mediation deployment.”
+
+REVISED DESTINATION: RECORD UNAVAILABLE
+
+SUPPORTING ROUTING RECORDS: RESTRICTED
+
+Bart tapped the glass, trying to get past the blockade. “Identify the destination class.”
+
+RECORD RESTRICTED
+
+“Identify the transit endpoint.”
+
+RECORD RESTRICTED
+
+“Identify the destination jurisdiction.”
+
+Ada Kett reached over and gently but firmly pushed Bart’s hand away from the screen.
+
+“You have established what the record permits you to know,” Ada said, her voice carrying the calm authority of an engineer diagnosing a solid wall. “Asking it 17 different ways will not make the restriction structurally unsound.”
+
+“Worth checking though,” Gregor noted.
+
+“It is a closed door,” Ada told Gregor. “We do not pick it by repeating the question.”
+
+Ada was right. The administrative record remained behind a historical access restriction that the Archive's new recognition had not lifted but Bart was not solely reliant on the Archive's internal memory.
+
+He had physical evidence.
+
+“Crate 37,” Bart said suddenly.
+
+Albert tilted his skull. “Sir?”
+
+“The Concord evidence,” Bart said, pulling up the temporary quarantine manifest on his tablet. He scrolled rapidly past the entries. “The 37th crate from the delegates’ historical grievances. I flagged it yesterday when we were organizing the intake. It contains Archive mediation routing correspondence associated with Keeper #4,091.”
+
+Gregor straightened up, looking instantly toward the dimly lit corridor leading to Sector Four. “Can we open it then?”
+
+“It’s 37th in the queue,” Bart said.
+
+“You know what’s inside,” Gregor pointed out.
+
+“That does not make it right.”
+
+Gregor looked at him with profound, pragmatic disbelief. “Keeper. We are currently standing seconds away from a 600 year old mystery, and the answer is apparently in crate 37, which we have politely agreed not to receive yet. ”
+
+“It is in a wooden box under formal evidentiary quarantine,” Bart corrected. “I am the custodian of that evidence, not the investigating panel. I asked the System to flag it for priority review, and the System deferred that decision to the Concord.”
+
+He wanted the contents of that crate just as desperately as Gregor did.
+
+“If we breach the sequential accession process because I am personally curious,” Bart said, “we prove to the Fae and human delegations that the Archive cannot be trusted with their historical grievances. We process the crates in order.”
+
+For once, Bart knew almost exactly where the next answer was going to come from.
+
+For the next two days, the Archive continued its ordinary restricted service. Patrons arrived, submitted requests, and sat in the reading rooms. Albert managed the desk. Mabel maintained security. Gregor ran the provisionally certified local circuit of Route 3, carefully logging the vibration of every passing carrier with standardized marks.
+
+And slowly, methodically, Bart processed Concord's historical evidence.
+
+The evidence arrived in its authorized 6 crate batches. Bart opened each crate in sequence, verified the origin seals, logged the chain of custody, recorded the manifests, and transferred the processed contents into secure neutral holding before the next batch was admitted. It was repetitive, meticulous, deeply bureaucratic work.
+
+On the afternoon of the second day, the batch containing Crate 37 finally arrived.
+
+Mabel stood squarely in the doorway of the Sector Four quarantine bay, verifying access. Bart checked the seals on the crate’s bands, confirming that the chain of custody remained perfectly intact.
+
+Gregor reached inside the crate and pulled out a thick, bundled stack of paper. He looked at it, then reached in and pulled out three more. Gregor stared at the pile in his hands. He seemed enormously disappointed.
+
+“Six centuries of mystery,” Gregor said heavily.
+
+Bart lifted another bundle of correspondence, blowing a thin layer of dust from the ribbon binding. “Mostly forms.”
+
+“That is how history is usually recorded,” Albert offered helpfully from the doorway.
+
+They spread the bundles across a large processing table. There were only stacks of diplomatic notices, routing receipts, official complaints, and copied transit forms, all preserved in paper.
+
+Bart began sorting them chronologically.
+
+Morzath the Undying had already given Bart the diplomatic timeline. The great Fae mediation conference had occurred nine days before the Ruin. There had been thirteen delegates, but fourteen seats. They had waited three days for Keeper #4,091, who had never arrived.
+
+Now, Bart had the administrative side of the failure.
+
+He pulled a heavy, official deployment order from the earliest bundle.
+
+KEEPER MEDIATION DEPLOYMENT
+
+ASSIGNED MEDIATOR: KEEPER #4,091
+
+ORIGINAL DESTINATION: [FAE CONFERENCE VENUE]
+
+DEPLOYMENT ACCEPTANCE: CONFIRMED
+
+ARRIVAL CONFIRMATION: NOT RECEIVED
+
+“He accepted it,” Bart murmured, tracing the confirmation stamp. “He didn’t refuse the assignment. He confirmed the deployment.”
+
+He sorted through the next stack. It was exactly what Morzath had described a growing cascade of irritation.
+
+MEDIATOR ARRIVAL STATUS REQUESTED
+
+NO CONFIRMATION RECEIVED
+
+There were sharply worded letters from the Fae delegation demanding to know if the Archive had been insulted. There were equally sharp letters from the human realms accusing the Fae of magically interfering with the Keeper’s transit. There were administrative demands for transit verification, route audits, and jurisdictional assurances.
+
+But as Bart laid out the timeline, he noticed something strange about the sequence of paperwork.
+
+Bart tapped a formal inquiry dated seven days after the conference began.
+
+DEPLOYMENT STATUS: ACTIVE
+
+TRANSIT AUTHORIZATION: VALID
+
+ARRIVAL CONFIRMATION: OUTSTANDING
+
+“It was never closed,” Bart said.
+
+Ada looked up from a transit log. “Which means the transit authority attached to the deployment was still valid.”
+
+“Yes,” Bart said, the realization clicking into place. That explained how his predecessor had managed to revise a destination three seconds before the Ruin, despite having supposedly abandoned his duties nine days earlier.
+
+Keeper #4,091 hadn't created a completely new journey. He had repurposed an existing, authorized transit assignment.
+
+“Look for a destination amendment,” Bart instructed. “It should be dated on the day of the Great Divergence.”
+
+They sifted through the final stacks of correspondence. Most of the documents were duplicate transmissions sent to the participating institutions the Fae and the human courts updating them on the status of the mediation. Because the external recipients didn't need the Archive's internal spatial mechanics, the Keeper-routing data was sparse.
+
+But near the bottom of the crate, beneath a pile of unanswered diplomatic demands, Gregor found a stiff card bearing the seal of the Archive’s transit authority.
+
+“Is this it?” Gregor asked, sliding it across the table.
+
+Bart read the faded text.
+
+MEDIATION DEPLOYMENT - DESTINATION AMENDMENT
+
+ORIGINAL JURISDICTIONAL DESTINATION: SUPERSEDED
+
+REVISED DESTINATION CLASS: NON-JURISDICTIONAL
+
+ROUTING METHOD: RELATIVE POSITION
+
+PRIMARY REFERENCE: [DAMAGED]
+
+SECONDARY REFERENCE: [DAMAGED]
+
+STABILITY CONDITION: SATISFIED
+
+Bart stared at the words. “Where is that?”
+
+Ada stepped around the table and studied the card. She traced the terms with a gloved finger, her brow furrowing slightly.
+
+“That isn’t a conventional destination,” Ada said.
+
+“It says destination,” Gregor pointed out.
+
+“The form says destination,” Ada corrected. “The routing data doesn’t.”
+
+She pulled a blank sheet of paper toward her and quickly sketched a grid. “A conventional destination tells the route where to go,” Ada said. “This one tells it what the destination must remain relative to.”
+
+Gregor frowned at the grid. “If one of the reference points moves?”
+
+“Then the destination moves,” Ada said simply.
+
+Gregor crossed his arms. “So he went somewhere that moves?”
+
+“Potentially.” Ada looked at the faded amendment.
+
+“Relative to what?” Bart asked.
+
+Ada pointed her stylus at the two corrupted, illegible smudges on the card. “That would have been useful information to preserve.”
+
+Bart looked at the form again, the logic forming a cold knot in his stomach. The Fae conference had an address. It was a fixed location in a recognized realm. Keeper #4,091 had deliberately replaced that address with something entirely different.
+
+He had chosen a destination that belonged to no jurisdiction. It was defined entirely relative to two unknown references. It required a specific stability condition to exist. And yet, it had apparently remained reachable through standard Keeper transit.
+
+Bart looked up. “He didn’t redirect himself to another conference.”
+
+“No,” Ada agreed.
+
+“Another world?”
+
+“Not according to this.”
+
+Bart turned to his tablet. He had to know what was anchoring the route. “System, identify the primary and secondary references used in the destination amendment for Keeper #4,091’s final deployment.”
+
+PRIMARY REFERENCE: RECORD RESTRICTED
+
+SECONDARY REFERENCE: RECORD RESTRICTED
+
+Bart exhaled sharply. The Archive was still holding the line on divulging.
+
+Ada ignored the tablet. She was still looking at the surviving routing diagram at the bottom of the transit amendment. It was a faint geometric sketch of two heavy, dark reference marks, with a tiny indicated position held in a delicate, precise relationship to both.
+
+“So where did he go?” Gregor asked again.
+
+Bart looked at Ada while she continued staring at the sketch.
+
+“That’s the problem,” she said quietly. “This isn’t an address.”
+
+She tapped the two missing reference points.
+
+“It’s a position defined by whatever those were.”

@@ -1,0 +1,361 @@
+Architecture & Civic Works was still pristine and mostly empty. The long drafting table in the center of the room smelled faintly of old polish.
+
+Bart was reading the book Practical Civic Architecture for Spatially Uncooperative Structures . Gregor stood beside him, leaning over to read the glowing blue text hovering beside.
+
+FACILITY CAPACITY ASSESSMENT Required:
+
+Verified accessible floor area
+
+Structural load classification
+
+Emergency egress throughput
+
+Nonstandard patron equivalency
+
+Active spatial distortion survey
+
+"Which one tells us how many chairs?" Gregor asked.
+
+"None of them," Bart said.
+
+"Then it isn't quite a good book?."
+
+"It's an excellent book."
+
+Bart tapped the interface, authorizing the newly restored section to begin a facility survey.
+
+The massive floor plan frame hanging near the entrance flared with pale light. A ghostly wireframe of the Infinite Archive began to render itself across the glass but because a lot of it was still ruined, closed, or disconnected, the map struggled.
+
+ACTIVE FACILITY SURVEY
+
+Total historic facility area: UNRESOLVABLE
+
+Currently connected area: PARTIAL
+
+Publicly accessible area: REQUIRES VERIFICATION
+
+Recommendation: PHYSICAL WALKTHROUGH
+
+Gregor looked at the enormous Archive stretching out beyond the open door. "We have to measure it?"
+
+Bart reached into a drawer, pulled out a heavy measuring chain, and handed it to him.
+
+Ten minutes later, Bart had formed an inspection team. Initially, he had reached for the chain himself though he stopped because the Archive was supposed to be open and operating.
+
+He assigned Albert, who knew the historical room functions and physical maintenance quirks, to handle the primary zone identification. Gregor took the measuring chain for the inaccessible corners. Bart remained at the drafting table, managing the records and standards.
+
+"Mabel remains at Access," Bart told them. "Bernard and Elian are currently admitted patrons, so they will not be disturbed unless their specific reading areas require verification."
+
+Then the survey began.
+
+For the first hour, Gregor and Albert measured the currently open public spaces. Back in Architecture & Civic Works, the floor plan frame slowly filled in with solid, verified white lines.
+
+Main Reading Room.
+
+Patron Services.
+
+Cross-Reference.
+
+Community Literacy.
+
+The Large-Format Bay.
+
+Though Bart kept losing square metres. The shelf area wasn't automatically a public floor area. Some aisles between restored stacks were too narrow for safe evacuation. Some sections of floor that looked solid hadn't been structurally verified yet.
+
+VISIBLE FLOOR AREA: 1,184 m²
+
+VERIFIED PUBLIC FLOOR AREA: 612 m²
+
+Gregor jogged back into the room, dragging the chain and looked at the numbers. "Where did the other half go?"
+
+"It hasn't gone anywhere," Bart said. "People being physically able to stand somewhere does not make it a safe public area," Bart explained, making another notation on the drafting table.
+
+Gregor looked around the Archive. "That explains a lot about taverns."
+
+The survey continued. As Albert cleared the corridor behind Patron Services, the floor plan frame suddenly highlighted a small, enclosed rectangle Bart had never properly investigated.
+
+KEEPER RESIDENTIAL QUARTERS Area: 64 m²
+
+Status: ACCESSIBLE
+
+Occupancy classification: PRIVATE / STAFF
+
+Gregor stopped dragging the chain. "Boss."
+
+"Keep going," Bart said, not looking up from his calculations.
+
+"Boss."
+
+"It's not a public floor area."
+
+"You have a bedroom."
+
+Bart kept writing. "Great to know"
+
+"You've been sleeping behind your desk," Gregor pointed out.
+
+"The Archive had other priorities."
+
+"You have nevertheless been sleeping behind your desk, sir," Albert noted mildly from the doorway.
+
+Bart looked at him. "I was aware."
+
+Bart then moved on to the next requirement. Structural load classification initially sounded easy.
+
+Then Bernard ruined the simplicity simply by being at the Archive.
+
+STANDARD PUBLIC LOAD: ACCEPTABLE
+
+CONCENTRATED LARGE-FORMAT LOAD: LIMITED
+
+UNVERIFIED FLOOR SECTIONS: 3
+
+Bart checked the data for Bernard's specific reading bay. Because the bay had been reinforced specifically for Bernard, the area passed easily.
+
+LARGE-FORMAT BAY Supported mass: 12 tonnes
+
+Current patron mass: 8.94 tonnes
+
+Compliance: PASS
+
+But Bart realized they couldn't simply let future heavy patrons stand anywhere they wanted. That would have to become a permanent admission parameter:
+
+Emergency Egress Throughput followed directly from the evacuation drill. They already had the routes. Now they needed to know how many people those routes could evacuate safely within a required period.
+
+"System," Bart asked. "How many Class A patrons can the Staff Restroom process?"
+
+The System ran the old data against the current, severely degraded portal state.
+
+STAFF RESTROOM EMERGENCY THROUGHPUT
+
+Stable sequential departures: 11 / minute
+
+Simultaneous transit: NOT RECOMMENDED
+
+Route interruption risk above sustained load: ELEVATED
+
+Gregor leaned over the drafting table. "Eleven people a minute through a bathroom."
+
+"Door," Bart corrected.
+
+Capacity, Bart realized, wasn't just one number. The safe number depended entirely on the composition of the patrons. 20 ordinary scholars did not equal 20 dragons, nor did they equal 20 people who could open their own magical portals. Which led directly to the 4th requirement.
+
+"Define nonstandard patron equivalency," Bart asked the System.
+
+STANDARD PATRON EQUIVALENT (SPE) Capacity-planning abstraction combining:
+
+Gregor read the glowing blue list slowly. "So... how many people is Bernard?"
+
+"That is not what it means," Bart said immediately.
+
+Unfortunately, the System answered.
+
+PATRON: BERNARD Capacity allocation: 6.2 SPE
+
+Silence hung in the room for a second.
+
+"He is still one patron," Bart insisted.
+
+"6.2 patrons," Gregor muttered.
+
+He moved quickly to the final requirement. Active Spatial Distortion Survey.
+
+Bart assumed this would simply verify the rooms they had already measured. Architecture & Civic Works sent a thin, pulsing blue grid across the restored core.
+
+Most areas came back normal. Then, a section of the eastern wall didn't.
+
+SPATIAL DISTORTION DETECTED
+
+Location: East Public Concourse
+
+Classification: STABLE / DORMANT
+
+Cause: LEGACY EXPANSION GEOMETRY
+
+Risk: LOW WHILE INACTIVE
+
+Bart and Albert walked out to the main hall to look. Behind a  pair of inactive, dust covered doors was a room Bart had mostly treated as ruined or inaccessible. Albert, however, recognized it immediately.
+
+"Reading Gallery B, sir."
+
+Bart looked at him. "Did you mention that before?"
+
+"There were several reading galleries," Albert said softly.
+
+Albert rested one skeletal hand against the sealed door.
+
+"This gallery primarily served general scholarship," he said. "No restricted consultations or diplomatic delegations. Students, researchers and ordinary readers."
+
+Bart looked through the narrow opening. Rows of pale rectangles marked places where reading tables had once stood beneath the dust.
+
+"Busy?" Bart asked.
+
+Albert's blue eye lights softened. "Usually."
+
+Somewhere inside the dark room, something settled with a distant creak.
+
+Albert withdrew his hand. "The west tables were always the first to fill."
+
+Bart looked again at the dark gallery.  One of the smaller rooms.
+
+READING GALLERY B
+
+Historic seating capacity: 240
+
+Current structural integrity: 71%
+
+Spatial envelope: STABLE
+
+Public access: OFFLINE
+
+Emergency lighting: OFFLINE
+
+Egress certification: EXPIRED
+
+Furnishings: MOSTLY UNAVAILABLE
+
+Gregor the popped up behind and peered through the cracked gap between the heavy doors.
+
+"240?" Gregor asked.
+
+"It was one of the smaller galleries" Albert noted.
+
+Bart walked back to the drafting table. The survey was complete.
+
+CURRENT SAFE PUBLIC CAPACITY
+
+Standard-equivalent capacity: 28 SPE
+
+Current public allocation: Bernard: 6.2 Elian: 1.0
+
+Other active patrons: 0
+
+Available admission capacity: 20.8 SPE
+
+Eligible physical admission requests: 47
+
+Gregor studied the figures.
+
+“What about us?”
+
+Bart looked over. “Us?”
+
+“Me,  Albert, Mabel and You. We're standing in the building too.”
+
+Bart paused for a second and asked aloud
+
+“System. Are operating personnel included in the capacity assessment?”
+
+PERSONNEL OCCUPANCY
+
+Keeper / active staff present: 4
+
+Structural-load calculation: INCLUDED
+
+Emergency-egress calculation: INCLUDED
+
+Public SPE allocation: NOT APPLICABLE
+
+Personnel safety allowance: RESERVED SEPARATELY
+
+Bart nodded. “We're included in the safety calculation. We don't consume patron admission capacity.”
+
+“So I don't count?”
+
+“That is very specifically not what it says, we can admit twenty ordinary patrons," Bart said.
+
+INCORRECT Capacity varies by patron profile.
+
+Bart closed his eyes briefly.
+
+The easy response would be to admit people first come first served right now. But Bart looked at the 47 waiting requests and thought operationally. If he filled the Archive to its absolute limit immediately, they would have no surge capacity or flexibility or even an emergency margin.
+
+He didn't want to maximize occupancy.
+
+"System," Bart said. "Recommended operating limit."
+
+RECOMMENDED OPERATING LIMIT: 75% VERIFIED CAPACITY UNTIL SERVICE DATA AVAILABLE
+
+"Set it," Bart ordered.
+
+The figures reorganized themselves across the display.
+
+VERIFIED SAFE CAPACITY: 28 SPE
+
+INITIAL OPERATING LIMIT: 21 SPE
+
+CURRENT ALLOCATION: 7.2 SPE
+
+AVAILABLE OPERATING CAPACITY: 13.8 SPE
+
+Gregor stared at the decimals. "So 13 more people."
+
+"13.8 standard patron equivalents," Bart corrected.
+
+"How many people is it?"
+
+"That depends on the people."
+
+Gregor stared at him for a moment while Bart pointed discreetly toward Bernard. The dragon briefly looked up from his gardening book on detecting being pointed at but went back to it.
+
+Gregor nodded slowly. "Right. 6.2 people."
+
+"One patron," Bart said.
+
+"Very large patron."
+
+Bart looked at the next obvious solution on the interface.
+
+CAPACITY REMEDIATION OPTIONS Restore Reading Gallery B
+
+Estimated additional capacity: +38 SPE under current degraded infrastructure
+
+Restore North Reading Annex STATUS: STRUCTURALLY UNSAFE
+
+Expand Large Format Bay Does not materially increase standard occupancy
+
+RECOMMENDED: READING GALLERY B
+
+Gregor peered through the dusty doors again. "Looks easy."
+
+Albert turned his glowing blue eyes toward the Junior Helper. "It has been closed for 616 years."
+
+"Moderately easy," Gregor amended.
+
+Bart opened the new Architecture & Civic Works plans. He issued their first real internal renovation project.
+
+RESTORATION PROJECT CREATED READING GALLERY B
+
+Objective: Restore safe public use
+
+Required:
+
+Structural stabilization
+
+Emergency lighting
+
+Accessible circulation route
+
+Egress certification
+
+Minimum viable furnishing
+
+Historic seating capacity: 240
+
+Current verified Archive capacity: 28 SPE
+
+Projected capacity after remediation: 66 SPE
+
+Net additional capacity: +38 SPE
+
+Gregor looked through the cracked doors into the massive, empty room.
+
+"How many chairs do we have?" Gregor asked.
+
+Bart checked the inventory on the drafting table.
+
+AVAILABLE SERVICEABLE READING CHAIRS: 22
+
+A long pause stretched across the drafting table.
+
+"We should have taken some furniture from the minotaurs," Gregor said.

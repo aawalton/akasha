@@ -1,0 +1,241 @@
+"The retrieval estimate has increased again, hasn't it?" Bart asked.
+
+"It has," replied the voice in a soothing yet questioning tone.
+
+When Bart finally turned around, the fae was standing like a celebrity. Their gold collared robes were immaculate, their expression devoid of any anger but with a shade of disappointment.
+
+Bart checked the interface hovering over the desk.
+
+ESTIMATED REMAINING RETRIEVAL TIME: 91 MINUTES
+
+"I was informed originally that my request would require 18 minutes," the fae said evenly.
+
+"That was the original estimate," Bart said.
+
+"Then 51, 74…."
+
+"Also yes."
+
+The fae scholar tilted their head a fraction of an inch. "Your estimates appear to be travelling in the wrong direction again as i mentioned before"
+
+Bart had no answer, he looked past the fae, toward the edge of the desk. Gregor was leaning heavily against the trolley. His jacket was coated in a fresh layer of dust, his boots were scuffed, and his breathing was shallow. He had walked more than 8 kms through the labyrinth that was the archive, carrying piles of ancient texts and he looked entirely exhausted.
+
+The problem was not that Gregor was too slow but that Bart had promised more service than one employee could physically provide.
+
+"You're right," Bart said.
+
+The fae paused and replied "I am generally known to be."
+
+"No, I mean the service is failing," Bart said flatly. He did not blame the System, the damaged Archive or Gregor. "I should not allow the archive to give you estimates I cannot support."
+
+Bart turned his attention fully to the System interface, expanding the operational readout for the entire retrieval network.
+
+ACTIVE STAFF RETRIEVAL TASKS: 22
+
+REQUESTED ITEMS: 31
+
+CURRENT RETRIEVAL PERSONNEL: 1
+
+AVERAGE ESTIMATE CONFIDENCE: 14%
+
+As they spoke, the System chimed softly. Another request appeared on the queue from the west tables in Reading Gallery B and another…
+
+Bart acted. "System. Temporarily suspend all new immediate staff retrieval commitments."
+
+The blue text flared instantly.
+
+REQUEST INVALID RETRIEVAL SERVICE CANNOT BE SUSPENDED WHILE PUBLIC ACCESS REMAINS ACTIVE
+
+Bart didn't argue with the machine; he simply refined his parameters. "Continue accepting requests," Bart clarified. "Stop assigning immediate completion estimates until the queue is under control."
+
+The System processed the logic and accepted the new parameters.
+
+NEW REQUEST STATUS: QUEUED - COMPLETION TIME NOT YET ASSIGNED
+
+Patrons could still submit requests. The Archive would simply stop promising what it could not deliver.
+
+Bart looked over at Gregor. "You are off active retrieval duty for the next service period."
+
+Gregor pushed himself upright, his pride immediately bristling. "I can do another run."
+
+"You can barely stand," Bart pointed out.
+
+"You have completed more than 8 kms of retrieval work," Bart said, his voice leaving no room for negotiation. "Sit down."
+
+Gregor stared at him for a second, then deflated, a profound wave of relief washing over his face beneath the stubbornness.
+
+From the shadows near the entrance to Gallery B, Albert glided forward silently. He carried a cushioned chair from one of the reading galleries and placed it directly behind Gregor. He handed the Junior Helper a glass of cold water, offered no commentary whatsoever, and returned to his post. Gregor collapsed into the chair with a sigh.
+
+Bart began diagnosing the real queue.The current catalogue treated every recorded hit as though the item was immediately retrievable. That flaw was the root of the scholars' frustration: if the catalogue confirmed the Archive held the book, the patron naturally expected to read it. Bart needed to separate theoretical holdings from practical reality.
+
+He established four factual distinctions and forced the System to sort the 31 requested items accordingly.
+
+REQUEST AVAILABILITY
+
+Publicly accessible: 4
+
+Staff retrieval available: 15
+
+Route inaccessible: 7
+
+Holding status unverified: 5
+
+Of the 31 requests, four required no staff retrieval and five had never progressed beyond catalogue uncertainty. The remaining 22 had been assigned as staff tasks even though 7 of their routes were physically inaccessible.
+
+Bart realized with a spike of irritation that those 7 tasks should never have been dispatched in the first place. If a route was physically offline, sending a Junior Helper to walk toward it made it useless.
+
+He removed the 7 unreachable items from the active retrieval queue. The five uncertain holdings remained outside it, assigned instead to a separate verification queue.
+
+CURRENTLY UNAVAILABLE
+
+ACCESS ROUTE OFFLINE: 7
+
+HOLDING VERIFICATION REQUIRED: 5
+
+A moment later, one of the human scholars who had arrived in the initial cohort marched out of Gallery B and approached the desk.
+
+"Excuse me," the scholar said, waving a glowing blue slip of parchment. "My request just changed to unavailable."
+
+"The Archive holds the volume, but no verified route presently reaches it," Bart told them clearly. "I should have told you that when you submitted the request."
+
+"So when will it be available?"
+
+"I don't know," Bart said.
+
+The scholar frowned. "That is not particularly helpful."
+
+"No," Bart agreed. "But it is accurate."
+
+The scholar remained visibly disappointed, but there was no argument to be had against physical reality. Bart offered them the option to register for future notification once the route was restored, which they accepted with a curt nod before returning to the gallery to find alternative texts.
+
+The fae scholar, however, was still waiting patiently at the desk. Bart remembered the notifications he had sent earlier. The Archive had already proven it could reach applicants across the multiverse.
+
+"System," Bart said. "Can the registered reply channel notify a patron when their requested material is ready?"
+
+YES REQUEST STATUS NOTIFICATIONS:
+
+AVAILABLE CURRENT CONFIGURATION: INACTIVE
+
+Bart frowned at the glowing text. "Why was this not active?"
+
+NO ACTIVE REQUEST MANAGEMENT POLICY DETECTED
+
+The capability existed. What the Archive lacked was a policy.
+
+He quickly drafted the Archive's first formal retrieval workflow.
+
+RETRIEVAL REQUEST STATUS
+
+"Requested material will be held at Patron Services for a defined period," Bart said, opening the duration field.
+
+"How long should we hold it?" Gregor asked from his chair, sipping his water.
+
+"Three Archive days," Bart said.
+
+He turned his attention back to the queue. He couldn't simply batch every nearby request first. That would artificially inflate their average speed while allowing inconvenient, older requests to sit in the queue forever. He created a simple, binding policy.
+
+REQUEST PRIORITY FRAMEWORK
+
+Request age: PRIMARY
+
+Safe route efficiency: SECONDARY
+
+Accessibility adjustment: WHERE REQUIRED
+
+Patron rank, title, wealth, magical power, or number of hereditary names: IRRELEVANT
+
+Bart turned back to the fae.He checked the details of the original request.
+
+PATRON: LESLIE BRIGGS
+
+REQUEST: Early Compacts of Inter-Realm Diplomatic Passage
+
+"Your volume is located in the North Diplomatic Stacks," Bart told them. "It is reachable, but the route is distant and heavily degraded. Because it is one of the oldest verified requests, it remains near the front of the active queue."
+
+Bart offered them a set of concrete choices. "You may wait in Gallery B. You may continue your research with alternative material from the open stacks. You may leave the Archive entirely and receive a notification when the book is ready, or you may withdraw the request."
+
+Leslie Briggs considered this. "When will it be ready?"
+
+Bart looked at the estimated completion field, which was currently blank.
+
+"I cannot give you a reliable time," Bart said firmly.
+
+"Then what can you give me?"
+
+"Your place will be preserved," Bart promised. "You will be notified when the material is physically at this desk….not when someone begins looking for it."
+
+The fae scholar held Bart's gaze for a long moment. Their expression did not soften, but some minute tension left their shoulders.
+
+"That is the first useful estimate you have given me," they said softly.
+
+"It wasn't an estimate," Bart replied.
+
+"Precisely."
+
+"I will continue my other research in the gallery," Leslie said. "Notify me when the volume is physically present."
+
+"You will be notified," Bart promised.
+
+The fae gave a slight, elegant bow and returned gracefully to Gallery B.
+
+The pressure at the desk eased. Nobody had received a book faster, but at least everyone now knew what the Archive could and could not provide.
+
+ACTIVE STAFF RETRIEVAL TASKS: 22 → 15
+
+PUBLIC-STACK SELF-SERVICE: 4
+
+QUEUED FOR STAFF RETRIEVAL: 15
+
+CURRENTLY UNAVAILABLE - ROUTE OFFLINE: 7
+
+HOLDING VERIFICATION REQUIRED: 5
+
+ACTIVE RETRIEVAL PERSONNEL: 0
+
+Bart did not celebrate the reduced number and had a long way to go if the archive were to start operating normally again.
+
+Gregor was seated, resting his legs and finishing his water. Albert continued his quiet supervision of the west tables in Gallery B. Mabel stood like a mountain at Access, holding admissions at the Archive's current safe capacity while verifying the departure of the few patrons who had chosen to leave.
+
+Bart looked over the main hall. The library had become calmer without closing. For the first time since admissions opened, nobody was being promised something the Archive could not deliver.
+
+Then, Bart finally turned his attention to the terminal of the pneumatic retrieval tube bolted to the wall.
+
+Another sound came from deep inside the dormant machinery.
+
+HISSSSS!
+
+A thin cloud of dust leaked from the seams of the hatch.
+
+CLINK CHUNK!
+
+The metal door sprang open several inches, hanging slightly off kilter on its ancient hinges.
+
+Gregor started to rise again, staring at the hatch.Bart pointed at the chair without looking away from the machine and he reluctantly sat back down.
+
+The hatch shuddered again. With a sharp metallic scrape, a small, battered carrier slid out of the dark pipe and tumbled heavily into the receiving tray.
+
+It was not carrying a book Bart walked over to the tray and picked it up. Inside was a yellowed service card.
+
+At BPL, printer diagnostics had usually consumed half an ink cartridge and three sheets of paper to explain that the printer could not print. Bart's expectations were not high.
+
+ROUTE 3 LOCAL DIAGNOSTIC CENTRAL NETWORK: UNAVAILABLE
+
+SERVICE CONCOURSE THREE: MANUAL INSPECTION REQUIRED
+
+UNVERIFIED ENDPOINTS: DO NOT AUTHORISE
+
+ISSUED: 2 HOURS, 11 MINUTES BEFORE NETWORK FAILURE
+
+Bart's diagnostic had not created the message. It had briefly restored enough pressure to deliver one that had been trapped inside Route 3 for six centuries.
+
+But as Bart turned the card over, he saw something else.
+
+Scrawled across the back, in hurried, ordinary handwriting in faded black ink, was a single sentence.
+
+If this reaches Patron Services, the local circuit is still alive.
+
+"The tube sent us a note," Gregor said.
+
+Bart looked at the open hatch, peering into the dark, dusty pipe that disappeared into the inaccessible depths of Service Concourse 3.
+
+"No," Bart said quietly. "It answered the diagnostic."

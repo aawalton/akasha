@@ -1,0 +1,307 @@
+The blue text hovered above the desk, casting a pale light over the black paper.
+
+CLOSURE REVIEW
+
+Verification requirements: UNKNOWN
+
+Associated procedure: RECALL
+
+Status: DAMAGED
+
+Bart stared at the glowing glass. "Recall what exactly?"
+
+Gregor leaned closer to the interface, studying the damaged status. "Can we try to recall the fourth Authority?"
+
+"I don't believe Authorities are just books," Bart noted.
+
+Gregor considered this, looking around at the endless rows of towering wooden shelves of newer rebuilt sections. "Everything eventually becomes like a book or part of archive around here."
+
+It was not entirely terrible logic, considering everything that had happened since Bart arrived. But Bart needed institutional specifics, not philosophy. He tapped the indexing plate.
+
+"System. Define the Recall procedure."
+
+The Archive paused for a moment, a light flickered, struggling to pull data that had been dormant and broken for centuries. Slowly, a fragmented text box revealed itself.
+
+ARCHIVAL PROCEDURE: RECALL
+
+Procedure family: CIRCULATION / CUSTODY
+
+Purpose: [CORRUPTED]
+
+Applicable materials: Externally held Archive property
+
+Function: Request return to reviewable custody where continued external retention requires reassessment.
+
+WARNING: Recall does not itself revoke restriction, Closure, ownership, or lawful custody.
+
+Full procedure: UNAVAILABLE
+
+. It was a vital distinction, Recall was not a magical cheat code. He could not simply shout "Recall everything!" and expect the Curator's collection to materialize on the front desk. Recall merely created a formal administrative mechanism by which Archive owned material held elsewhere could be called back for review. But Bart immediately caught the most important phrase in the entire definition.
+
+Externally held Archive property.
+
+Bart looked down at the Curator's warning letter resting on the desk.
+
+Closure remains external.
+
+He looked back at the System display for the fourth Authority.
+
+CLOSURE - EXTERNAL
+
+Holder: ACTIVE
+
+Authority legitimacy: UNRESOLVED
+
+"System," Bart said. "Does the External Closure holder possess Infinite Archive property?"
+
+The glass flashed instantly, rejecting the query with a block of text.
+
+QUERY BLOCKED BY ACTIVE CLOSURE
+
+Bart frowned. "That seems suspicious."
+
+Gregor looked at him, expecting Bart to be angry. "He's hiding what he took."
+
+"He's executing Closure," Bart said calmly. He didn't regard confidentiality itself as evidence of wrongdoing. If the Curator's job was to seal dangerous knowledge, then the Archive's search functions should be blind to it. Bart tried to methodically test the boundaries of the blackout.
+
+"System," Bart said, invoking his second Authority. "Display Record history for External Closure custody transfers."
+
+RECORD DISCOVERY BLOCKED BY ACTIVE CLOSURE
+
+Bart shifted to his third Authority. "Cross-Reference: Identify holdings associated with the External Closure Consultant."
+
+RELATIONSHIP DISCOVERY BLOCKED BY ACTIVE CLOSURE
+
+Restricted Inspection was useless; there was no actual restricted item physically in front of Bart to inspect.
+
+Gregor watched the sequence of glowing rejections. "So the fourth Authority has hidden all the records that tell us whether the fourth Authority is behaving properly."
+
+"At present, yes that seems to be the case" Bart said.
+
+"That's quite convenient."
+
+But Bart did not conclude that the Curator was therefore illegitimate. He only concluded that the Archive could not currently verify him. Albert had been standing quietly near the desk, listening to the queries. His skull tilted slightly at the word Recall.
+
+"Recall was a circulation procedure, sir," the skeleton noted.
+
+Bart looked over. "Do you remember the procedure?"
+
+Albert tapped his bare skull with one bony finger. "I remember there being a procedure."
+
+"Very Helpful," Gregor muttered.
+
+Albert ignored the thief and walked stiffly toward the heavy iron cabinet behind the main desk. He pulled open a heavy drawer and extracted the leather bound master index. Dust puffed into the air as he dropped it onto the desk.
+
+Albert ran a skeletal finger down the yellowed pages, searching for the administrative frameworks of the old Keepers.
+
+"Ah," Albert said. He pointed.
+
+External Custody, Closure Delegation, Custody Review, Recall, and Return of Administrative Records. See Volume 73.
+
+Gregor stared at the index. "Seven..ty three."
+
+"Yes," Albert said.
+
+"Isn't that one of the plumbing ones?" said Bart
+
+Albert slowly closed the master index. "Precisely sir!"
+
+"I don't think volume 73 will be useful unless you have short statured Italian twin with a mustache, Albert ," Bart said.
+
+Both Gregor and Albert stared at Bart for a second, He dismissed it by saying “Never mind that”
+
+He looked back at the index headings Albert had found. External Custody. Closure Delegation.
+
+Custody not necessarily ownership.
+
+That was where the Cross-Reference procedure demonstrated its value. Citation and Cross-Reference could not penetrate the Curator’s internal blackout. But they could establish verified relationships from external institutional records already linked to the Archive.
+
+"System," Bart ordered. "Cross-reference External Closure Consultant against verified external institutional records already associated with the Archive."
+
+The green glass pulsed. The System was no longer attempting to search through the Curator's closed records. It was examining external records already submitted to, connected with, or recognised by the Archive's restored institutional network.
+
+VERIFIED EXTERNAL RELATIONSHIP FOUND Institution: VEYRIC KILN CONCORD
+
+Commission: Dhoravel Commission #IA-0001
+
+Related designation: EXTERNAL CLOSURE CONSULTANT
+
+Credential: DAMAGED KEEPER KEY
+
+Relationship type: LEGACY THIRD-PARTY REPRESENTATIVE
+
+Bart knew exactly where that came from.
+
+DING.
+
+A stiff, heavy card with a distinct white ceramic edge slid from the brass slot of the Cross-Reference section.
+
+Gregor eyed it warily. "Please don't let this one be about a sock left behind."
+
+Bart picked it up. It was an updated commission record from Veyr. Earlier, after Veyr recognised Bart as the Infinite Archive's successor officer under the commission, Mera had evidently demanded the anonymous External Closure Consultant revalidate his legacy authority.
+
+Beneath the credential status was a short correspondence history.
+
+COMMISSION STATUS UPDATE
+
+Legacy representative: EXTERNAL CLOSURE CONSULTANT
+
+Credential: DAMAGED KEEPER KEY
+
+Credential operator: ACTIVE / CONFIRMED
+
+Operator identity: UNVERIFIED
+
+Legacy revalidation request: ISSUED Credential response: RECEIVED Mandatory identity fields completed: 0 / 37 Explicit refusal to complete revalidation: RECORDED
+
+Current Veyric response: SUSPENDED PENDING VERIFICATION
+
+Preserved responses: THIS MATTER IS CLOSED. DO NOT CONTACT ME AGAIN.
+
+Bart read it carefully and said. "Mera appears to have contacted him."
+
+Gregor read what he could over Bart's arm. " What did she do?"
+
+"She stopped accepting his credential on behalf of Veyr until he proves who he is."
+
+Gregor shrugged. "Ah, that's less exciting."
+
+"It is considerably more useful to us," Bart said.
+
+It gave Bart something the Curator could not seal: an independent institution's record of dealing with him. The Curator could selectively blind the Infinite Archive. He could not retroactively erase Mera's filing cabinet.
+
+"We've been asking the Archive what the Curator hid," Bart said.
+
+Gregor nodded. "And it won't tell us."
+
+"It can't." Bart picked up the Veyric notice. "So we stop asking the Archive."
+
+Gregor frowned. "We're asking the dwarves?"
+
+"We're asking everyone who kept a receipt," Bart said.
+
+Bart placed the Veyric record beside the master index. The Curator's warning letter remained on the desk beside them. The evidence came from different directions. Veyr independently recorded an active legacy representative called the External Closure Consultant, authenticated by a Damaged Keeper Key. The Archive's surviving Employee Guide index placed External Custody, Closure Delegation, and Recall within the same procedural framework. And the Archive itself currently recognizes an active external Closure holder.
+
+Bart activated Cross-Reference. It did not need to infer who the Curator was or what he held. It only needed to establish the institutional relationship the surviving records already described.
+
+LEGACY PROCEDURAL RELATIONSHIP VERIFIED
+
+Designation: EXTERNAL CLOSURE CONSULTANT
+
+Institutional relationship: INFINITE ARCHIVE
+
+Authority category: CLOSURE
+
+Operational model: EXTERNAL CUSTODY
+
+Closure contents: SEALED
+
+Closure determinations: SEALED
+
+Holding identities: SEALED
+
+Custodial relationship itself: NOT SEALED
+
+Bart couldn't know what the Curator possessed. But the fact that the Curator acted as an external custodian could be established independently of the closed files.
+
+Gregor squinted at the screen. "What's the big deal?"
+
+"Ownership tells you whose thing it is," Bart explained simply. "Custody tells you who currently has it."
+
+Gregor looked toward the Curator's black letter. "So they're his?"
+
+"We don't know yet," Bart said.
+
+He asked the next, crucial question.
+
+"System. Under the surviving External Closure procedure, does the appointment of an External Closure Consultant automatically transfer ownership of affected holdings?" The Archive took a long time to respond, .
+
+"Locate the disposition record," Bart ordered.
+
+UNAVAILABLE
+
+Bart pulled out his notepad. "Can external records establish whether one was filed?" He tapped the Veyric card against the glass again. It wasn't full proof that all holdings remained Archive owned, but it was enough to form a hypothesis. Cross-Reference returned the surviving external designation:
+
+Representative capacity: CUSTODIAL / ADVISORY
+
+Ownership standing: NONE RECORDED
+
+Bart took his pen and wrote down
+
+CLOSURE ≠ OWNERSHIP
+
+Albert had been quiet all along. The skeleton stood perfectly still, his gaze fixed on the iron doors of the East Wing where the vault mechanisms lay dormant.
+
+"The old Keeper trusted the Closure Consultant," Albert said softly.
+
+Bart looked at him. "I do believe he did."
+
+Everything Bart had recovered suggested Keeper #4,091 had been desperately trying to stop a catastrophe. The Curator's authority had clearly been created intentionally as part of that containment effort.
+
+"Then why investigate him, Sir?" Albert asked.
+
+"Because trust isn't the same as permanent exemption from review," Bart said.
+
+A permanent restriction could be justified. A permanently unreviewable decision was something else entirely.
+
+Bart turned back to the glass. He needed an administrative hook.
+
+"System. What must an External Closure Consultant maintain?"
+
+If the dangerous books themselves were sealed from discovery, there still had to be some administrative tether. The institution had to know if a closure happened, who authorized it, what hazard standard was applied, whether the material still existed, and what custody basis applied.
+
+The System struggled again, piecing together fragments of the corrupted procedure.
+
+EXTERNAL CLOSURE - MINIMUM ADMINISTRATIVE REQUIREMENTS
+
+Custody acknowledgment
+
+Closure determination
+
+Hazard classification
+
+Disposition status
+
+Review record
+
+Master closure register: REQUIRED
+
+Register status: EXTERNAL
+
+Register identity: CLOSED
+
+Current location: UNAVAILABLE
+
+"He should have a list, " Bart exclaimed.
+
+"System," Bart said, asking the final question of the morning. "Is an External Closure register itself subject to Recall?"
+
+The Archive again took a very long time.
+
+RECALL ELIGIBILITY ASSESSMENT Target: External Closure administrative register Originating institution: INFINITE ARCHIVE
+
+Current custody: EXTERNAL
+
+Ownership status: [PARTIALLY RECOVERED]
+
+Review dependency: MANDATORY
+
+Potentially recallable.
+
+Requirements for procedure activation:
+
+Gregor read the last word slowly. "Custo…dian."
+
+Gregor looked back at the black letter sitting on the desk. "So we're going to prove that the Curator has something belonging to us."
+
+Bart corrected him gently. "We're going to determine whether he does."
+
+Gregor raised an eyebrow. "And if he does?"
+
+Bart picked up the black coloured warning paper.
+
+Do not attempt to open what was closed.
+
+Bart placed it neatly into a folder and closed the cover.
+
+"Then we ask for the right paperwork."

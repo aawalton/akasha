@@ -1,0 +1,189 @@
+“We need an assistant librarian,” Bart said.
+
+Gregor looked at him. “Where do you get one?”
+
+Bart paused for a second,  Asst. Librarian was a title he knew well and had barely been given time to hold. He had spent three years working toward the promotion at the BPL. Mr. Ashburton had finally handed him the official letter on the morning Bart had “died”.
+
+The work itself circulation, reference questions, shelving, confused patrons, and the immediate mess of public service Bart knew intimately.Recruiting an Assistant Librarian however was another matter entirely.
+
+“Usually someone else handled this part of the process,” Bart said.
+
+Gregor considered that. “Can we hire them?”
+
+Bart ignored him, he tapped his primary interface, dismissing the lingering interlibrary loan queue and accessing the Archive’s central administrative core.
+
+“System,” Bart ordered. “Provide the historical position specification for professional library staff.”
+
+The interface chimed and produced a dense, multi-page document which Bart began to read immediately. It was completely unsuitable for their current reality. The document was not filled with nonsense; it was the exact, rigorous specification for a mature, fully functioning multiversal institution. It demanded expertise in multiple legacy classification standards. It required fluency in cross jurisdictional lending protocols. It outlined profound responsibilities regarding restricted collections, advanced provenance tracking, and specialised reference services for visiting dignitaries.
+
+The old Archive had been hiring specialists into a massive institutional machine equipped with hundreds of staff members, functioning infrastructure, and an established management hierarchy.
+
+Bart needed a generalist for a broken upcoming library.
+
+RESTORE HISTORICAL POSITION SPECIFICATION?
+
+Bart stared at the glowing blue prompt. Earlier in his tenure, he might have been tempted to preserve the ancient standard out of a sense of duty. But he was no longer trying to resurrect the old Archive exactly as it had been. He was trying to operate the one that had survived.
+
+“No, do not restore it,” Bart said quietly.
+
+He cleared the screen and initiated a new, blank form.
+
+POSITION TITLE: ASSISTANT LIBRARIAN
+
+Gregor leaned his heavy arms on the counter and noticed Bart hesitate before typing the next line.
+
+“Want that your job in your old world,” Gregor noted.
+
+“It was,” Bart said.
+
+“So you are hiring yourself.”
+
+“I am definitely not doing that.”
+
+Bart stopped typing upon realizing Gregor was accidentally correct about the danger. If he wrote the position specification entirely around his own experience, he would produce a description of himself rather than a description of the Archive’s actual needs.
+
+He started with the obvious, fundamental duties of the job.
+
+Patron Services
+
+Reference and research assistance
+
+Circulation
+
+Interlibrary lending
+
+Catalogue reconciliation
+
+Request management
+
+Bibliographic verification
+
+Then he reached collection access. This was the hardest part of the job, and the point where the Infinite Archive differed from a normal municipal library. He paused his typing and opened a secondary query.
+
+“System,” Bart asked. “What percentage of the overall collection is currently accessible?”
+
+He expected a depressing number though he got something much more realistic.
+
+GLOBAL COLLECTION ACCESSIBILITY: UNDETERMINED
+
+CAUSES:
+
+FACILITY ACCESS INCOMPLETE
+
+HOLDING VERIFICATION INCOMPLETE
+
+ROUTE STATUS INCOMPLETE
+
+CATALOGUE CONDITION VARIABLE
+
+It was precisely the problem they had just encountered with the waterproof fire safety manual. The catalogue could confirm that a book existed and even identify its location. That did not mean a verified route could reach it.
+
+The Asst. Librarian should not be expected to repair inaccessible sectors or retrieve books. That was Ada’s engineering jurisdiction and Gregor’s retrieval duty. But the librarian could determine which inaccessible collections actually mattered to the patrons.
+
+Bart realized this was the key to their future growth. They shouldn't reopen one inaccessible sector merely because it happened to be next numerically. If 37 active requests pointed into another while the first had none, that mattered. Safety would still win and the demand list  would never overrule Ada’s authority but patron demand could now inform their engineering priorities.
+
+He added a new block of responsibilities to the form.
+
+COLLECTION ACCESS COORDINATION
+
+Record unmet demand for inaccessible holdings.
+
+Maintain notification records.
+
+Identify repeated subject / collection demand.
+
+Coordinate service priorities with Facilities and Retrieval.
+
+The System pulsed, prompting him for the next mandatory field.
+
+COMPENSATION TERM
+
+Bart hesitated. He had a functioning, System approved compensation framework, but sustainable long-term funding beyond the current operational reserve they had secured from Aurelius was still unresolved.
+
+He refused to hide that. The Archive would not lie to a prospective employee.
+
+INITIAL COMPENSATION: GUARANTEED UNDER CURRENT OPERATIONAL RESERVE
+
+LONG TERM APPOINTMENT: SUBJECT TO SUSTAINABLE FUNDING
+
+Gregor read the lines over Bart’s shoulder. “You are putting that directly in the advertisement?”
+
+“It is the reality,” Bart said.
+
+“People will be considerably less likely to apply.”
+
+“That is also a reality we need to face”
+
+“You are very bad at this part aren't ya?.”
+
+“I am attempting to hire a librarian, not sell one,” Bart replied dryly.
+
+He tapped the screen to finalize the document. As it compiled, the historical employment template automatically appended a standard, boilerplate line to the bottom of the duty list.
+
+OTHER DUTIES AS REQUIRED
+
+Bart stared at the words.
+
+He highlighted the text and was pensive about it.
+
+“Why did you do that?” Gregor asked.
+
+Bart looked up from the screen. He looked around the Infinite Archive. “It is far too broad,” Bart said.
+
+He replaced it with something considerably safer.
+
+OTHER LIBRARY DUTIES WITHIN ESTABLISHED ACCESS AND SAFETY LIMITS
+
+Ada, walking past the Patron Services desk with her clipboard, glanced at the glowing screen.
+
+“Acceptable and correct” the engineer declared, without breaking her stride.
+
+Bart turned his attention to the minimum qualifications. He did not ask for obscure multiversal degrees or specialised archival certificates. The current Archive did not need prestige. It needed demonstrated competence.
+
+He typed rapidly, letting practical necessity dictate the requirements.
+
+Demonstrated public/reference library experience.
+
+Catalogue and bibliographic work.
+
+Circulation/interlibrary service.
+
+Ability to work with incomplete information.
+
+Ability to explain that something is unavailable without inventing an answer.
+
+Ability to deal with difficult or unusual patrons.
+
+Willingness to work within safety/access restrictions.
+
+Ability to collaborate with Retrieval, Access and Facilities.
+
+He paused, considering what the Archive truly demanded of a person, then added one final criterion.
+
+MUST BE CAPABLE OF SAYING “I DON'T KNOW” ACCURATELY.
+
+Gregor squinted at the screen. “That is an actual qualification?”
+
+“It is a surprisingly important one,” Bart confirmed.
+
+He reviewed the entire document. It was not a glamorous posting but a honest description of a broken library trying to rebuild itself.
+
+The External Liaison Network was already functioning. Now that the Archive had secured formal external recognition, Bart could publish the vacancy through it as a verified institutional posting.
+
+He tapped the final command.
+
+VACANCY PUBLISHED
+
+POSITION: ASSISTANT LIBRARIAN
+
+APPLICATION CHANNEL: OPEN
+
+Bart looked at the title on the screen for a moment.
+
+Then, slowly, applications began arriving.
+
+Not hundreds but a few. Gregor watched another notification icon appear in the corner of Bart’s screen.
+
+“You’ve just created another queue,” Gregor sighed heavily and pointed out.
+
+Bart just closed his eyes.

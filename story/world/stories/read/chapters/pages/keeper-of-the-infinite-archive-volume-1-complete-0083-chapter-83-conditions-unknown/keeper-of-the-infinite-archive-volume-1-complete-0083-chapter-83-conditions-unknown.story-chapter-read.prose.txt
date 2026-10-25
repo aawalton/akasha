@@ -1,0 +1,141 @@
+Ada Kett tapped the underside of the decorative marble balcony with her hammer. It produced a dull, hollow resonance that made her teeth ache.
+
+The project’s senior engineer, a highly connected Tessera minotaur with a spotless political record, had already personally promised the municipal council that the balcony would safely support a 50 person civic reception.
+
+Ada opened her inspection ledger and checked the box marked CRITICAL DEFICIENCY.
+
+When she submitted the file, it was immediately routed back to her cramped desk in the Department of Civic Works. The margin contained a note from the division administrator: Please reconsider the practical context of this installation.
+
+Ada picked up her stylus.
+
+PRACTICAL CONTEXT: BALCONY REMAINS SUBJECT TO GRAVITY.
+
+She filed it again. She knew what the division administrator wanted to happen. Her name would be quietly removed from the final report, a more compliant junior surveyor would sign off on the structure, and Ada would be reassigned to inspect an even more trivial piece of municipal architecture. Her technical judgment was trusted privately by everyone in the department, but avoided publicly by anyone seeking promotion. She had acquired a reputation for being “difficult.”
+
+Her terminal chimed. An external request had been forwarded directly to her desk. Ada opened the file. It was an application for a facilities assessment from an institution calling itself the Infinite Archive. The structural specifications were absurdly incomplete.
+
+Ada assumed someone in the department was mocking her. No professional engineer would accept a commission with that many unknown variables. Expecting immediate bureaucratic evasion, Ada replied with the standard Tessera municipal engineering liability questionnaire.
+
+10 minutes later, the response arrived.
+
+The Keeper of the Archive had checked the boxes for Spatial, Temporal, Reality, and Divine Damage. For the date of the last comprehensive structural inspection, he had responded: At least 616 years ago. For the number of currently known structural failures, he had simply entered: Unknown.
+
+Ada printed the form and marched directly into the office of Chief Surveyor Truepath.
+
+Truepath looked up and set his own paperwork aside. “Your balcony report stands, by the way. The reception has been moved to the courtyard.”
+
+“They complained about the rain,” Ada noted.
+
+“The rain is less likely to kill fifty people.” Truepath gestured to the parchment Ada dropped onto his massive desk. “What is that?”
+
+“He checked all 4 damage categories,” Ada said.
+
+Truepath examined the form. “Spatial, temporal, reality, and divine?”
+
+“All four.”
+
+“Did he provide the required explanation?”
+
+“Yes but it wasn't clear,” Ada said. “It made the answers considerably worse.”
+
+“Then either he is unusually honest or completely insane,” Truepath noted calmly.
+
+“Those are not mutually exclusive.”
+
+“No, they are not,” Truepath agreed, handing the form back. “But when I spoke to Bernard, he told me that this Keeper specifically asked for the person most likely to stop him. He does not need someone who will make the building state agree with him. He needs someone willing to tell him when it doesn’t. I also have had some experience with him and found him resourceful and willing to listen to reason”
+
+That had been the thing that had pushed her to at least have a look. Ada expressed no interest in the possible permanent position. She accepted only the paid site assessment, packed her tools, and authorized a transit relay.
+
+The Infinite Archive proved worse than its questionnaire status. Its Keeper, however, proved better. Upon arrival, Ada found a damaged load bearing arch, an uncertified evidence zone, and a suspended crate whose proposed placement exceeded the recorded floor limit by a huge margin. She drew her red boundary across the flagstones and ordered a kind of shutdown.
+
+The Keeper Bart asked how much of the Archive she had closed.
+
+“Not enough,” she had replied.
+
+He did not argue, cite historical precedent, or ask her to reconsider the practical context. He simply accepted the operational restriction. That was the first unexpected result of her assessment.
+
+With the gallery formally locked down and the outraged diplomats filtering out through the main hall, Ada began the actual work.
+
+She needed to establish the immediate parameters of the hazard. She pulled out her instruments and turned to the Archive’s System interface.
+
+“System,” Ada said. “Provide the eastern wall’s displacement under the current load.”
+
+DISPLACEMENT: ACCEPTABLE
+
+Ada narrowed her eyes. “Numerically.”
+
+DISPLACEMENT: 2.8 mm
+
+“Change since the gallery was evacuated.”
+
+DISPLACEMENT CHANGE: DECREASED BY 0.04 mm
+
+CURRENT RATE OF CHANGE: LESS THAN 0.01 mm per hour
+
+Ada looked at Bart, who was watching her from the safe side of the red line. “That is why ‘acceptable’ is not a measurement. Your system has learned engineering from a solicitor maybe.”
+
+Albert glided forward. “The gallery has regularly held much larger gatherings, Madam Engineer. Particularly before the Ruin.”
+
+“Surviving a previous load is not proof of present capacity,” Ada told the custodian. “It is only proof that the floor did not collapse yesterday.”
+
+Mabel stepped into the doorway, her lion tail flicking once. “I require an exact spatial boundary for what must remain closed.”
+
+Ada gave her precise measurements from the archway to the intake zone. Mabel repeated them once, committed them to memory, and nodded.
+
+Ada decided she could work well with the Sphinx. “Madam Engineer,” Gregor said, pointing toward the eastern wall of the gallery. “When I push the carts through here, they always drift slightly toward that wall and the stone sounds different there.”
+
+Ada walked over to the section Gregor had indicated. She knelt and tapped the flagstones with her hammer.
+
+CLACK! CLICK ! CLACKK
+
+The weird guy was right.Ada traced the load path, the weight of the floor and the heavy stone wall should have transferred cleanly down into a supporting column or the primary foundation. It did not in this case, the wall was clearly carrying a massive amount of weight, but when Ada consulted the partial plan Bart had given her, there was absolutely nothing behind the wall capable of receiving that weight.
+
+“Keeper,” Ada called out. “Can you consult and identify the structural load path for the eastern wall of Gallery B.”
+
+Bart relayed the instruction to system.
+
+STRUCTURAL LOAD PATH: ACTIVE
+
+LOAD DESTINATION: VALID
+
+DESTINATION ACCESSIBILITY: UNAVAILABLE
+
+DESTINATION REGISTRATION: INCOMPLETE
+
+Ada resisted the temptation to name the cause immediately. The plans might simply be wrong or the destination might have been lost or severed or someone might have redirected the load deliberately, perhaps through spatial displacement. Until she found physical evidence, those were just possibilities, not facts.
+
+She stood up and walked back to the red line.
+
+“Here is my provisional ruling,” Ada told Bart. “Gallery B may receive a restricted use authorization for transit only: no gatherings or queues, and no more than 12 occupants at once. Placing 43 evidence crates along that wall, however, would not be fine. Only one crate may occupy the intake boundary at a time, and it remains suspended by the ward. Nothing touches the gallery floor. Further transfers remain suspended until I certify a temporary quarantine area. Finally, no structural work begins in this sector until the load destination is identified.”
+
+Bart considered the restrictions. “Can you fix it?”
+
+“I don’t yet know what ‘it’ is,” Ada replied.
+
+“Does that mean you’re staying?”
+
+Ada looked at the incomplete plan in her hand, the wall, and the Keeper who had obeyed her first stop work order without a single complaint.
+
+“It means I may require the full 30 days,” Ada said.
+
+Leaving people to use a room supported by a destination that officially did not exist violated every professional instinct she possessed.
+
+Ada crouched back down at the base of the eastern wall, using a small chisel to carefully scrape away a layer of newer, crumbling mortar from the flagstones. Her tool caught on metal.
+
+She brushed the dust away, revealing an old repair plate concealed beneath the stonework. The deeply engraved inscription read:
+
+TEMPORARY STRUCTURAL DIVERSION
+
+AUTHORISED BY: KEEPER #4,091
+
+REQUIRED REVIEW INTERVAL: 30 DAYS
+
+Bart stepped up to the line and directed the system to the plate.
+
+REPAIR RECORD IDENTIFIED
+
+SUBSEQUENT REVIEW: NOT RECORDED
+
+CURRENTLY OVERDUE: 616 YEARS and counting
+
+Ada just stared at the message, temporary repairs did not frighten Ada however temporary repairs whose supporting structure no longer officially existed did.

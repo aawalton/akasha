@@ -1,0 +1,303 @@
+After the Curator’s administrative blackout, the Infinite Archive felt significantly smaller. Bart stood at the main desk, trying to reconstruct exactly what had disappeared. Gregor was watching the newly activated Cross-Reference section behave strangely.
+
+DING!
+
+A small catalogue card emerged from the brass slot.
+
+KEEPER #4,091 See also:
+
+[INFORMATION UNAVAILABLE]
+
+[INFORMATION UNAVAILABLE]
+
+[INFORMATION UNAVAILABLE]
+
+DING.
+
+Another card emerged.
+
+RUIN (EVENT) See also: [INFORMATION UNAVAILABLE] [INFORMATION UNAVAILABLE]
+
+"It seems considerably less useful today," Gregor observed.
+
+"It is functioning correctly,though" Bart said, adjusting his glasses.
+
+Bart needed to test the limits of the blackout. He placed a blank card on the indexing plate.
+
+"Cross-reference King Aurelius IV."
+
+The glass pulsed. A second later, a fresh, detailed card emerged.
+
+AURELIUS IV, KING OF TREMENDIA TREMENDIA: Verified
+
+ROYAL HISTORIAN: Thaddeus
+
+BEATRICE: Documented Incident Participant
+
+WATERFOWL: Associated
+
+Gregor brightened. "Ah I recognise the word Beatrice so it does work…."
+
+"Apparently," Bart said. So Cross-Reference itself was still functioning. It was only the ruin-era administrative cluster that had gone dark.
+
+Bart checked the Archive's overall status plate.
+
+CLOSURE CONTINUATION ACTIVE
+
+Affected relationship class: LEGACY CLOSURE / RUIN-ERA AUTHORITY RECORDS
+
+Existing verified relationships: RETAINED INTERNALLY
+
+Affected discovery pathways: SUSPENDED
+
+Underlying records: NOT DELETED
+
+All unrelated Cross-Reference functions: ACTIVE Closure authority: EXTERNAL Review status: UNAVAILABLE
+
+"He didn't destroy the records," Bart noted, finding that somewhat reassuring. The Curator had not disabled Cross-Reference itself. He had reasserted Closure only over the relationships already within his mandate.
+
+Bart looked at the screen. "He just made it impossible to find them."
+
+"That sounds extremely similar."
+
+"Administratively, it is not," Bart said.
+
+But practically, it was proving difficult. Bart methodically tested the obvious loopholes. He tried searching by Keeper #4,091, the Ruin, the East Wing, the Master Authority Network Or by specific dates preceding the Ruin.
+
+Every route returned variations of the same glowing blue text:
+
+RELATIONSHIP UNAVAILABLE UNDER ACTIVE CLOSURE
+
+"What if we ask it badly?" Gregor suggested.
+
+Bart looked at him. "What?"
+
+"You keep asking very specific questions. What if we ask a stupid one?"
+
+It was a fair point. Bart tried an extremely vague, overly broad relational query.
+
+UNSUPPORTED CIRCUMVENTION OF ACTIVE CLOSURE DENIED.
+
+The new Cross-Reference Authority explicitly forbade unsupported inference. He couldn't ask Cross-Reference to violate the standard that made its answers trustworthy.
+
+Bart stopped asking for the closed information. Instead, he asked the system about Closure itself. "System," Bart said. "What information about a Closure remains available to the institution responsible for it?" The System paused, then returned a block of administrative metadata.
+
+CLOSURE ACCOUNTABILITY METADATA
+
+Closure authority: AVAILABLE
+
+Current holder: AVAILABLE
+
+Existence of determination: AVAILABLE
+
+Hazard category: AVAILABLE where disclosure non-hazardous
+
+Review requirement: AVAILABLE
+
+Review history: CLOSED / UNAVAILABLE
+
+Underlying contents: CLOSED
+
+Supporting evidence: CLOSED
+
+Bart paused at the 5th line. "System," Bart said carefully. "Does a Closure require review?"
+
+YES.
+
+Frequency: DEPENDENT ON HAZARD CLASSIFICATION
+
+Independent review requirement: [DAMAGED]
+
+Legacy review procedure: PARTIALLY RECOVERABLE
+
+It was the first procedural opening Bart had found. Nothing here proved the Curator's Closures invalid. But Closure itself contained the concept of periodic review.
+
+"Display one non content hazard classification associated with active legacy Closure," Bart ordered.
+
+The System flashed a quick warning.
+
+Metadata only. No content reconstruction permitted.
+
+Then, a small, terrifying summary appeared.
+
+LEGACY CLOSURE EXAMPLE
+
+Item identity: CLOSED
+
+Hazard class: MEMETIC / REPRODUCTIVE
+
+Exposure vector: ORAL RECITATION
+
+Confirmed consequence: ASTRONOMICAL BODY LOSS
+
+Casualties: UNAVAILABLE
+
+Closure status: ACTIVE
+
+Gregor slowly read the screen. "Astronomical body?"
+
+"Possibly a moon," Bart said quietly.
+
+Gregor stared at him. "Someone lost a moon because of a book?" Bart could just nod silently while understanding the gravity of things under closure. He looked at the hazard metadata. It was entirely possible that some of the objects the Curator possessed were genuinely catastrophic hazards.
+
+"Show another," Bart said.
+
+Hazard class: NECROMANTIC RECURSION
+
+Confirmed consequence: MASS HOSTILE RETURN EVENT
+
+Casualties: UNAVAILABLE
+
+Closure status: ACTIVE
+
+Gregor frowned. "What's that mean?"
+
+"I don't think we need to find out," Bart said.
+
+He looked at the glowing blue text, the weight of the Curator's responsibility settling over the desk.
+
+"Some of these Closures should probably remain in force," Bart admitted.
+
+Gregor looked surprised. "So the Curator is right?"
+
+Bart took the question seriously. "About some of the books? Yes i think so"
+
+"About never reviewing the decision again? No." Bart tapped his notepad. "A permanent restriction might be justified. It shouldn't mean a permanent absence of accountability."
+
+Bart turned back to the glass plate. He needed to check one final casualty of the Curator's blackout.
+
+"System. Status of Succession supporting records."
+
+SUCCESSION - HISTORICAL BASIS
+
+Status: UNAVAILABLE - ACTIVE CLOSURE
+
+Reason: Supporting relationships intersect closed Master Authority Network records.
+
+"So he is actively stopping you from becoming the new Keeper?" Gregor asked.
+
+"No," Bart said. "I am already Keeper #4,092. My current Succession is simply provisional."
+
+Bart adjusted his glasses. "He stopped us finding out how the Archive historically decided whether a Keeper's succession was complete."
+
+"Is that better?"
+
+"Don’t know"
+
+Bart tested a hypothesis. "System. Can Succession be verified without historical precedent?"
+
+YES.
+
+Current institutional evidence may satisfy Succession.
+
+Evaluation criteria: PARTIALLY DAMAGED.
+
+Historical examples: CLOSED.
+
+Bart filed that away. There was another route which he didn't need to solve today. But they still had the immediate problem of the Black Catalogue. Bart could not locate the Curator through Cross-Reference, and physical inspection was impossible because they didn't know where the Closed Collection was.
+
+Gregor had been quiet. The thief was leaning against the edge of the desk, staring at the small pile of black and white correspondence accumulated from their exchange with the Curator. tGregor picked up the Curator's final black-bordered message. He turned it over and held it to the light while running a thumb along the heavy edge. He sniffed the paper.
+
+Bart watched him. "What are you doing?"
+
+"Looking at where it's been."
+
+"It arrived magically via teleportation"
+
+"Things still travel," Gregor said.
+
+Gregor laid the two messages beside each other. "Same crease." He pointed at one corner. "Same black dust. Same little mark."
+
+Bart frowned. "They arrived magically though"
+
+"Magic courier still leaves marks," Gregor said.
+
+Albert, who had been dusting nearby, paused and leaned over to inspect the paper.
+
+"Old Archive courier routing scars, sir," Albert confirmed quietly. "Standard legacy routing."
+
+Bart looked at the paper. Closure blocked the Archive from telling him where the Curator was. But Bart already had a valid correspondence relationship with him.
+
+"System," Bart said. "Can a physical destination be derived from the return routing?"
+
+NO.
+
+Bart frowned.Then a second line appeared.
+
+SHARED LEGACY DESTINATION ANCHOR DETECTED.
+
+Courier network: ACTIVE
+
+Staff portal network: ACTIVE - DEGRADED
+
+Destination identity: CLOSED
+
+Destination anchor: VALID
+
+Personnel transit: NOT AUTHORISED
+
+Gregor stared at it. "So the letter knows where he lives."
+
+"No," Bart said.
+
+"You always say that."
+
+Albert had stopped sweeping. "The old courier network and the staff portal network were separate services, sir," he said. "But they used the same institutional destination registry."
+
+Bart looked at him. "Meaning?"
+
+"The courier cannot tell us where the Curator is," Albert said. He pointed a bony finger at the glowing blue line. "But it can tell the Staff Restroom Portal which address not to tell us."
+
+Gregor understood instantly. "We don't need the address."
+
+Gregor tapped the glass above DESTINATION ANCHOR: VALID. "We need our door to remember the road."
+
+Bart looked at the pile of correspondence. Their entire argument in the previous chapter suddenly had a second consequence. The Curator thought Bart was building an evidentiary chain. Meanwhile, every reply the Curator had sent had left fresh residue along the same legacy destination anchor.
+
+"How long does the route remain traceable?" Bart asked.
+
+LEGACY COURIER TRACE
+
+Destination anchor: VALID
+
+Current correspondence to anchor trace: ACTIVE
+
+Trace stability: MEDIUM
+
+Destination identity: CLOSED
+
+Route integrity: 63%
+
+"This seems like at least a three-sandwich problem," Gregor noted, packing an extra wrapped bundle and getting ready to go.
+
+Bart looked backed once at the Curator's final message. "System," Bart ordered. "Request inspection of degraded active legacy courier route."
+
+ROUTE INSPECTION: REQUESTED
+
+Destination anchor: VALID
+
+Location: CLOSED
+
+Personnel transit: PENDING AUTHORISATION
+
+Gregor slung the satchel over his shoulder. "So where does it go?"
+
+"Somewhere we're apparently not supposed to find," Bart said.
+
+Gregor smiled. "Those are usually the interesting places."
+
+Far away, the damaged Keeper key beneath the Curator's collar turned cold.
+
+A pale notice appeared in the gloom above the Black Catalogue.
+
+LEGACY ROUTE INSPECTION INITIATED
+
+Requesting authority: KEEPER #4,092
+
+Purpose: CUSTODIAL REVIEW
+
+External custodial objection: AVAILABLE
+
+The Curator read it , his gloved finger hovered over the objection field. He could deny the inspection, keep the destination anchor inaccessible to personnel and leave Sanders with nothing but an address the Archive was forbidden to reveal.
+
+For several seconds, the Closed Collection remained perfectly silent. Then the Curator dismissed the notice. He did not end up objecting.

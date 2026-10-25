@@ -1,0 +1,269 @@
+Nell Mercer arrived for her first actual shift at the Infinite Archive precisely on time. She walked through the Staff Restroom door, her faded brown cardigan pulled tight, carrying an even larger canvas satchel than she had brought to her interview.
+
+Bart had prepared a proper induction package. He placed it on the counter of Patron Services.
+
+It was a huge ass binder.
+
+INFINITE ARCHIVE
+
+NEW STAFF ORIENTATION - PROFESSIONAL SERVICES
+
+REVISION: 1
+
+Nell looked at the binder then  at Bart.
+
+“How long is this?” Nell asked.
+
+“The orientation?” Bart asked.
+
+“The binder.”
+
+Bart considered the distinction. “212 pages.”
+
+Nell picked it up, feeling the substantial weight of the paper. “You wrote this since yesterday?” rolling hey eyes.
+
+“I did not,” Bart said. “Some of it already existed.”
+
+The binder was not an administrative fantasy; it was a practical necessity according to Bart. The Infinite Archive was a building that could kill people who did not understand its rules.
+
+Bart walked Nell through the first section of the binder, carefully defining the operational hierarchy of the current institution. This was not the old bureaucracy of the pre-Ruin Archive but the functional reality of the people currently keeping the lights on.
+
+KEEPER - BART SANDERS: Institutional authority, professional oversight, policy.
+
+ACCESS - MABEL: Admission, security, restricted-material access.
+
+FACILITIES - ADA KETT: Structural safety, stop-work authority.
+
+ROUTE OPERATIONS and ACQUISITIONS - GREGOR: Authorized retrieval, Route 3 operation only.
+
+CUSTODIAL OPERATIONS - ALBERT: Returns, shelving, physical operations.
+
+ASSISTANT LIBRARIAN - NELL MERCER: Patron Services, reference, circulation, catalogue/interlibrary service, collection access coordination.
+
+Nell ran her finger down the list and stopped at Ada’s name.
+
+“Stop-work authority,” Nell read aloud. “Not subject to service priority override.”
+
+“That is accurate and I have learnt it the hard way” Bart said.
+
+Bart moved to the next section and formally introduced Nell to Mabel. Even though Nell was a broad-shouldered orc, Mabel the Sphinx looked absolutely enormous sitting beside her.
+
+Bart explained Mabel’s admission and threat-evaluation authority. Nell instinctively offered her hand to the Sphinx.
+
+Mabel looked down at the hand with her golden eyes.
+
+Nell looked at Mabel’s massive, clawed paw. She slowly lowered her hand.
+
+“Different greeting?” Nell asked.
+
+“A verbal acknowledgment is sufficient,” Mabel stated, her voice deep and vibrating slightly in the stone hall.
+
+“Excellent,” Nell said. “Good morning.”
+
+“You are formally admitted as staff and welcome" Mabel replied.
+
+Bart turned the page in the binder. He brought Nell to one of Ada's red survey lines near a compromised archway.
+
+“Anything beyond a red line requires explicit facilities clearance,” Bart instructed.
+
+“Even if the catalogue says the book is right there?” Nell asked, pointing a green finger into the darkness beyond the arch.
+
+“Especially then,” Bart said.
+
+“Absolutely right,” Ada called out from across the hall.
+
+Nell accepted the rule immediately. A dead librarian could not process anything.
+
+Bart turned to the third section of the binder.
+
+EMPLOYMENT / OPERATING RESERVE
+
+CURRENT GUARANTEED FUNDING WINDOW: TEMPORARY
+
+SUSTAINABLE FUNDING: UNRESOLVED
+
+Nell stopped reading and looked up. “30 days.”
+
+“That was the original guarantee,” Bart corrected quietly.
+
+Nell frowned. “Was?”
+
+Bart paused. He did not like explaining this part. He tapped his tablet, opening the reserve forecast they had secured from Aurelius.
+
+ORIGINAL ENDOWMENT TERM: 30 ARCHIVE DAYS
+
+CURRENT PAYROLL OBLIGATIONS: INCREASED
+
+PROJECTED FUNDED OPERATING PERIOD AT CURRENT EXPENDITURE: 21 ARCHIVE DAYS
+
+Nell stared at the number. “I shortened it.”
+
+“Your appointment increased our payroll expenditure,” Bart said carefully. “Some of the original term had also already elapsed.”
+
+The same reserve was currently supporting Bart’s Keeper compensation, Ada’s paid facilities assessment, Gregor’s technical stipend, the Archive’s baseline operating costs, and now Nell’s salary. Hiring her had been a deliberate investment, but it made the financial deadline significantly tighter.
+
+“So this isn't just my contract,” Nell observed.
+
+“It is not,” Bart said.
+
+“The Archive itself has a runway.”
+
+Bart disliked the word intensely. “It is a temporary operating reserve.”
+
+“It's a runway,” Nell repeated.
+
+“Reserve,” Bart insisted.
+
+Nell let him have the word, but the reality remained.
+
+“Who benefits from us being open?” Nell asked.
+
+“Patrons,” Bart said immediately. “Partner institutions. Independent researchers. Anyone requiring access to our holdings.”
+
+“Then those are the people whose institutions have a reason to keep us open,” Nell concluded.
+
+Bart stopped for second, had he been treating the blocked-demand register as a purely operational problem: which books do we need to reach?
+
+Nell was looking at it as an institutional asset: how do we prove we matter?
+
+If they could demonstrate that other institutions genuinely relied on Archive services, Bart would have evidence for a broader, diversified support model without allowing those contributions to purchase priority or control.
+
+After taking all the morning going through various sections,Bart finally closed the binder.
+
+“That completes the mandatory portion,” Bart said.
+
+Nell looked at the enormous, 200 odd page  document. “That was the mandatory portion?”
+
+“It was,” Bart said.
+
+Gregor, organizing a stack of retrieval crates nearby, spoke up. “Don't even think of asking about the optional portion.”
+
+Nell immediately asked for the interlibrary request data.
+
+Bart gave her access to the current request queue, the legacy interlibrary ledger, holding-verification records, route status, and the revalidation results. She sat down at the desk and started building the blocked-demand register.She immediately began creating her own analytical fields.
+
+ADEQUATE SUBSTITUTE AVAILABLE
+
+COMMON SUBJECT / COLLECTION DEPENDENCY
+
+SERVICE IMPACT
+
+Bart watched her methodology. She did not merely sort the requests by raw volume. She found seven distinct requests concerning different editions of the same dense legal code. She preserved all seven requests separately, but linked them under a common subject demand cluster. The requests remained individual obligations; the cluster simply showed that they shared an underlying collection dependency.She found three requests for three different books on a specific, collapsed irrigation technique. She grouped those into a single subject cluster.She found one incredibly old legacy request for which an excellent, easily accessible substitute was already available in the main reading room. She flagged the request for a substitute offer, but left the original request open pending acceptance.
+
+Her method was less catalogue centred than Bart's. It exposed relationships between requests that his normal workflow treated separately.A patron interrupted her work, asking for an obscure title. Bart, standing nearby, checked his interface and prepared to explain that the holding was currently located behind an offline route.
+
+Nell looked up from her screen. “What do you actually need it for?”
+
+The patron, a young visiting student, explained that he needed a specific reference regarding low level kinetic wards.
+
+Nell spent two minutes querying the catalogue and found an accessible substitute manual covering the exact same principles. She offered it to the student, who accepted it happily and left perfectly satisfied.
+
+Nell turned back to her screen and updated the register.
+
+REQUEST RESOLVED BY SUBSTITUTE
+
+Bart saw the distinction immediately. A blocked holding and an unresolved service need were not necessarily the same thing. If an acceptable substitute satisfied the patron, the inaccessible original no longer carried the same restoration priority.
+
+By mid-afternoon, Nell’s model had taken a clear, rigorous shape.
+
+BLOCKED DEMAND
+
+Active request
+
+No adequate accessible substitute
+
+Holding confirmed
+
+Demand cluster
+
+Service impact
+
+She printed a preliminary list and handed it to Ada Kett.
+
+Ada read the list, her eyes scanning the columns. She handed it back.
+
+“This tells me what people want,” Ada said.
+
+“It does,” Nell agreed.
+
+“It does not tell me what I can inspect.”
+
+Nell picked up a pen and drew a new, blank column on the right side of the page.
+
+FACILITIES FEASIBILITY
+
+Ada looked at the new column. “That works for me.”
+
+Gregor leaned over the counter. “I want a column as well”
+
+Nell drew another line.
+
+RETRIEVAL FEASIBILITY
+
+Gregor studied it. “Can mine say ‘bad idea’?”
+
+“Absolutely not,” Bart said instantly.
+
+“We can define a standardized risk category,” Nell offered smoothly.
+
+Gregor grinned. He liked her.
+
+Near the end of her shift, Nell called Bart over to her terminal. She had removed the duplicates, resolved the substitute cases, excluded the unverified holdings, and grouped the remaining legitimate demands by their inaccessible areas.
+
+One specific cluster stood out on the screen.
+
+BLOCKED DEMAND CLUSTER: 01
+
+COLLECTION DESIGNATION: LAND RECORDS, BOUNDARIES & SETTLEMENT HISTORY
+
+CONFIRMED HOLDINGS: 19
+
+ACTIVE REQUESTS: 27
+
+ADEQUATE SUBSTITUTES: 3
+
+UNRESOLVED SERVICE NEEDS: 24
+
+COMMON ACCESS DEPENDENCY: SECTOR 8 / WING C
+
+Bart read the numbers. “24 requests.”
+
+“24 unresolved needs,” Nell corrected him, which was a very thing Bart expected Nell to do, being very patron centric.
+
+Bart called Ada over to the desk. He pointed at the common access dependency on the screen.
+
+“System,” Bart ordered. “Status of Sector 8, Wing C.”
+
+The interface updated immediately.
+
+PUBLIC ACCESS: CLOSED
+
+PRIMARY ROUTE: UNVERIFIED
+
+STRUCTURAL STATUS: PARTIAL RECORD AVAILABLE
+
+LAST CERTIFIED INSPECTION: PRE-RUIN
+
+Ada studied the glowing text, her hand resting thoughtfully on her clipboard.
+
+“I can assess this,” the engineer decided.
+
+Bart looked at her. “Can we reopen it?”
+
+Ada looked back at him, her expression completely flat. “You asked whether I can assess it.”
+
+Bart paused, catching the distinction. It was exactly the lesson she had taught him weeks ago. “Right. Assessment first.”
+
+Nell watched the exchange, then looked back at the blocked demand cluster on her screen. Finally, she looked at the funding warning still glowing in the corner of Bart’s primary tablet.
+
+“Good,” Nell said. “Because I would prefer not to be unemployed before I finish the register.”
+
+Bart looked at the 24 unresolved needs, then at the projected 21 days of operating reserve.
+
+“I would prefer to still be able to pay you when you finish it,” Bart said quietly.
+
+Nell looked back at the register. “Then we'd better make ourselves useful.”
+
+Bart considered the wording. “Measurably useful.”
+
+“Of course. The patron is king. Kings are usually very sure what they want. Finding out what would actually help them is our job.”

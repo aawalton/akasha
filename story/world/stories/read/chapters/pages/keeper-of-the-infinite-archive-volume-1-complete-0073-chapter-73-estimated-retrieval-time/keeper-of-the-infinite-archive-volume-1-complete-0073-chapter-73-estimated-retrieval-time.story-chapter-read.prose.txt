@@ -1,0 +1,293 @@
+Bart stood behind the desk, looking at the glowing blue text hovering above the Intake Tray.
+
+PHYSICAL ADMISSIONS OPEN
+
+Eligible requests: 47
+
+Available patron operating capacity: 24.3 SPE
+
+Initial admission cohort recommended: 12
+
+Projected cohort allocation: 14.7 SPE
+
+Within available operating capacity: YES
+
+SEND ADMISSION NOTIFICATIONS?
+
+Bart frowned. "Notifications?"
+
+Approved applicants retain registered reply channels through the Archive request network.
+
+Bart thought about it. Of course. If the Archive could receive a remote request, it had to retain some means of answering it.
+
+"Send only 12 please," Bart instructed.
+
+The chime from System indicated it was done with the text,
+
+NOTIFICATIONS SENT: 12 ACCEPTED: 3 AWAITING RESPONSE: 9
+
+Gregor leaned against the edge of the desk. "So we wait?"
+
+From the door of the Staff Restroom, a distinct WHOOSH echoed, followed by the heavy click of the latch disengaging.
+
+"Not much i guess," Mabel rumbled.
+
+The door opened and the first patron was a small feathered avian. Mabel stepped forward, visibly inspected the admission mark beside the scholar's name, checked the route signature, and stepped aside. The avian offered a polite bow to the Sphinx, who returned a solemn nod, before the scholar made their way over to Patron Services.
+
+PATRON ADMISSION PROFILE
+
+Standard Patron Equivalent: 0.4
+
+Accommodation: PERCH PREFERRED
+
+Structural load: MINIMAL
+
+Egress class: A
+
+Environmental requirements: NONE
+
+Gregor stared at the readout. "0.4,less than a…"
+
+"Don't," Bart said immediately.
+
+"I didn't say anything."
+
+"You were going to."
+
+Bart formally admitted the patron. The avian gave a cheerful sound, bypassed the standard reading tables entirely, and fluttered directly into Reading Gallery B. They landed comfortably on the highest resting bar of the metal perch array.
+
+The Staff Restroom door hissed again. Mabel verified the incoming signature. The second patron was physically smaller than Gregor, an aquatic salamander-like creature, currently floating inside a magically sealed travel sphere.
+
+PATRON ADMISSION PROFILE
+
+Standard Patron Equivalent: 1.8
+
+Required accommodation: AQUATIC READING BASIN
+
+Minimum water volume: 740 litres
+
+Salinity: 1.25 SG is preferred
+
+Egress class: D ASSISTED
+
+Emergency transit vessel: PRESENT
+
+Gregor looked at the creature then he looked at the 1.8 SPE and at the bird scholar sitting happily on the perch.
+
+"They're smaller," Gregor noted.
+
+"SPE is not body size," Bart said, processing the admission. "It's the total operational burden."
+
+"I'm beginning to get that part slowly"
+
+Bart checked the gallery's inventory. "The Aquatic Reading Basin is functional, but its current status is drained."
+
+"Of course it is, it was closed for six centuries" Gregor said.
+
+"We do need water though"
+
+Gregor slowly turned toward him. "How much?"
+
+Bart checked the readout again. "740 litres." and started staring at him
+
+Gregor stared at him. "No…no way"
+
+The Junior Helper then turned and marched off toward the supply closet. He returned a moment later carrying a single metal bucket.
+
+Bart looked at the bucket and at the massive stone basin of Gallery B. The aquatic scholar floated patiently in their temporary sphere nearby.
+
+"You said water," Gregor said defensively.
+
+Albert glided past, carrying a polishing cloth. He reached over the edge of the stone basin, twisted a tarnished iron valve, and stepped back. A broad stream of conditioned saltwater thundered into the basin.
+
+AQUATIC BASIN FILL SYSTEM
+
+Design flow rate: 140 l/min
+
+Current degraded flow rate: 86 l/min
+
+Estimated fill time: 8 minutes 36 seconds
+
+Gregor looked at the torrent. "You could have said something before!."
+
+"Yes, Junior Helper, you're welcome" Albert replied with a slight glint in his eye, moving on to dust a nearby lectern.
+
+8 minutes later, the basin reached its required level. The scholar released the seal on their travel sphere and slipped gratefully into the conditioned water.
+
+The third patron to emerge from the Staff Restroom was a fae. Immaculate, elegant they glided to the desk, presented their credentials with flawless etiquette, and requested a text on early inter realm diplomacy.
+
+LOCATION: North Diplomatic Stacks Sector 11
+
+STAFF RETRIEVAL REQUIRED ESTIMATED REMAINING RETRIEVAL TIME: 18 MINUTES
+
+The fae accepted this with a graceful nod and selected a seat at the newly cleaned west tables in Gallery B.
+
+Over the next five minutes, the other responses began arriving. Five accepted immediately while two deferred their visits. Another acceptance appeared on the interface while Mabel was still verifying the route signature of the previous arrival. Bart didn't attempt introductions beyond what Patron Services required. He admitted a silver robed historian, two human scholars, something broad and stone skinned, and two others whose species he couldn't have identified without asking.
+
+Gallery B began to fill slowly.
+
+TOTAL CURRENT PATRON ALLOCATION: 17.6 SPE
+
+OPERATING LIMIT: 31.5 SPE
+
+REMAINING OPERATING CAPACITY: 13.9 SPE
+
+They were still comfortably within capacity. Bart glanced through the open doors. One of the new scholars had chosen the west tables. Albert had stopped beside them and adjusted the reader's chair by perhaps half an inch, and checked the brass reading lamp.
+
+"Everything satisfactory?" Bart asked.
+
+Albert looked across the occupied gallery. "Quite satisfactory, sir." Then he went back to work.
+
+For approximately a few minutes, all seemed fine
+
+Then, the requests started. Three more requests appeared almost together. With the fae's existing request, Bart now had four retrieval tasks. He grouped the three requests that seemed in the same zone and left the fae's request for the next run. He suspected the fae would have opinions about their efficiency shortly.
+
+STAFF RETRIEVAL TASKS PENDING: 4
+
+Gregor took the grouped list, grabbed the brass trolley, and jogged toward the eastern stacks.
+
+He returned 12 minutes later, unloaded the books, and reached for the next batch.
+
+STAFF RETRIEVAL TASKS PENDING: 9
+
+The newly open stacks helped somewhat. Elian retrieved his own material. But much of the Archive’s surviving collection remained scattered across miles of staff-only stacks, partially restored corridors, and areas that had never been certified for public access.
+
+The catalogue, Bart was discovering, was considerably healthier than the library as many holdings were not accessible or lost during ruin so not every request made it as far as Gregor.
+
+One of the human scholars appeared at the desk. I have been waiting for a book but you staff doesn't seem to be able to retrieve it for me. Bart quickly scanned the request
+
+HOLDING: VERIFIED LOCATION: Western Deep Stacks ACCESS ROUTE: OFFLINE REQUEST STATUS: CURRENTLY UNAVAILABLE
+
+“Ah am sorry but that's not possible”
+
+“But the catalogue says you have it.”
+
+“We do,” Bart said.
+
+“Then I would like to read it.”
+
+Bart checked the route status again. “You currently can't though.”
+
+The scholar continued to stare at him.
+
+“That is not a useful distinction from where I’m standing .”
+
+Bart also discovered very quickly that the number of patrons had almost nothing to do with the number of books they would request. The silver robed historian submitted five citations at once to be checked. The System split them into seven separate retrieval tasks. Before Bart had finished processing them, two more single item requests arrived from the west tables.
+
+STAFF RETRIEVAL TASKS PENDING: 16
+
+The aquatic scholar raised a webbed hand above the rim of their basin. "I require Comparative Spellcraft, Third Revised Edition."
+
+Bart checked the catalogue.
+
+LOCATION: East Stacks (Sector 4)
+
+DISTANCE FROM PATRON SERVICES: 1.4 km
+
+STAFF RETRIEVAL REQUIRED
+
+Bart slowly looked at Gregor. The Junior Helper was leaning heavily against the desk from his retrieval tasks.
+
+"No," Gregor breathed.
+
+"Gregor."
+
+Gregor grumpily grabbed the trolley handle. The System marked the aquatic request IN PROGRESS, and he disappeared into the stacks once again.
+
+A moment later, the System chimed. Another scholar at the west tables had submitted a cross referenced bibliography requiring six separate texts from three different wings. Also the status of some of the texts was unknown.
+
+STAFF RETRIEVAL TASKS PENDING: 22
+
+Bart stared at the number. He had 22 retrieval tasks and exactly one Gregor. Gregor was currently somewhere in Sector 4.
+
+He turned back to the desk when he found himself almost face to face with someone. The fae scholar was standing perfectly still in front of Patron Services.
+
+"Keeper," they said politely.
+
+"Yes?"
+
+"The estimated wait has increased."
+
+Bart checked the system.
+
+ESTIMATED REMAINING RETRIEVAL TIME: 51 MINUTES
+
+"It has been revised," Bart said.
+
+"Upward significantly"
+
+Bart looked at the number once more. "Yes, I do apologise for the wait but we are still slightly understaffed at the moment"
+
+The fae scholar offered a small, terrifyingly polite smile. "Estimates are traditionally expected to approach zero."
+
+Bart had no response to that.
+
+Albert moved quietly between the gallery tables, while Elian and Bernard remained absorbed in their books in their assigned reading areas.
+
+15 minutes later, the fae scholar returned to the desk.
+
+"It is now 74 minutes."
+
+"I am aware," Bart said, looking at the screen.
+
+"I wished to ensure you remained so."
+
+They turned and walked back to their desk.
+
+The next time the trolley squeaked into the main hall, Gregor returned with the expression of a man who wanted just the day to be over. He parked the cart, slumped against the desk, and stared blankly at the ceiling.
+
+DISTANCE TRAVERSED THIS SERVICE PERIOD: 8.3 km
+
+Gregor looked at Bart. Then he looked at the pneumatic retrieval hatches bolted into the wall near the cross reference section.
+
+"I want the tubes back working," Gregor said.
+
+Bart didn't argue with him feeling a bit of pity, He checked the System interface.
+
+FACILITY CAPACITY: WITHIN LIMITS
+
+PATRON CAPACITY: WITHIN LIMITS
+
+HOLDINGS RETRIEVAL CAPACITY: EXCEEDED
+
+SERVICE STANDARD: FAILING
+
+Bart could tolerate most things but he drew the line at SERVICE STANDARD: FAILING They had enough room for the patrons and had established safe capacity. They simply couldn't serve them at a high standard.
+
+Bart pulled up the Archive's infrastructure schematic.
+
+"System," Bart said quietly. "Query the old automated retrieval system."
+
+AUTOMATED HOLDINGS RETRIEVAL NETWORK NETWORK STATUS: OFFLINE
+
+LOCAL COMPONENT STATUS: UNKNOWN
+
+Nearest accessible control: SERVICE CONCOURSE THREE
+
+Inspection access: AVAILABLE
+
+Bart looked around the main hall, Mabel was stationed at Access, processing the final late acceptance from the initial cohort. Albert was supervising Gallery B. Gregor had just walked more than 8kms retrieving books and looked ready to collapse. Patrons were waiting at the desk.
+
+There was no one to cover Patron Services. He couldn't simply disappear into Service Concourse Three anymore. He was running an active library.
+
+THUNK!.
+
+The heavy sound echoed through the main hall. Gregor jumped while Bart looked up.
+
+Across the room, the casing of the pneumatic retrieval tube shuddered. A faint, dusty hiss escaped from the seams of the sealed hatch.
+
+DIAGNOSTIC RESPONSE DETECTED
+
+LOCAL ROUTE 3: PARTIAL RESPONSE
+
+CENTRAL NETWORK CONNECTION: OFFLINE
+
+Gregor stared at the tube. "Please tell me that's a problem for later"
+
+Behind them, a very polite almost musical voice he had come to hate spoke again.
+
+"Keeper."
+
+Bart just closed his eyes not wanting to turn around.
+
+"The retrieval estimate has increased again, hasn't it?"

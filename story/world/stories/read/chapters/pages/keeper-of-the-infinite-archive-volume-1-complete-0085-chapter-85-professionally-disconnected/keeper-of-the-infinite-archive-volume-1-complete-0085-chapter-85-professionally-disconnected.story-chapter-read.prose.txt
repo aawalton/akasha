@@ -1,0 +1,169 @@
+Bart also stared at the glowing amber notification hovering above, 63 unreviewed, ownerless temporary measures were currently scattered throughout the accessible Archive.
+
+“You have guaranteed funding for 30 days,” said Ada, packing a set of calipers into her coat. “I have not yet estimated how long the assessment will take.”
+
+“Is 30 days a plausible estimate?”
+
+Ada looked at the 63 unresolved measures. “No.”
+
+Bart sighed, pulling up the list. He assumed they would need to begin at item one and work their way through the hazards.
+
+“An engineer does not treat every unresolved item as equally dangerous,” Ada explained, stepping up to the desk. “System, classify the legacy temporary measures by severity.”
+
+LEGACY TEMPORARY MEASURES: 63
+
+NON-STRUCTURAL / ADMINISTRATIVE: 31
+
+STABLE PENDING REVIEW: 19
+
+REQUIRING PHYSICAL INSPECTION: 8
+
+POTENTIALLY CRITICAL: 4
+
+CLASSIFICATION IMPOSSIBLE: 1
+
+Gregor leaned over the interface. “Is ‘classification impossible’ worse than ‘potentially critical’?”
+
+COMPARATIVE SEVERITY: CLASSIFICATION IMPOSSIBLE
+
+“We do not inspect the impossible one blindly,” Ada said, refusing to let the it frighten them with an undefined category. “System, confirm its location, occupancy, and connection to active services.”
+
+LOCATION: DISCONNECTED SECTOR
+
+REGISTERED OCCUPANCY: NONE
+
+ACTIVE SERVICE DEPENDENCIES: NONE
+
+REMOTE INSPECTION: UNAVAILABLE
+
+“Isolate the record and schedule a controlled inspection,” Ada said. “We do not investigate an unknown hazard by walking into it.”
+
+She turned her attention back to the list. “Prioritize anything affecting occupied areas, evacuation routes, or active services,” Ada told Bart. “What is your most pressing operational restriction?”
+
+The System instantly answered for him.
+
+ACCREDITATION DEFICIENCY 5: HOLDINGS RETRIEVAL
+
+REMEDIATION STATUS: INCOMPLETE
+
+FACILITIES ASSESSMENT: REQUIRED
+
+AFFECTED SYSTEM: ROUTE 3
+
+“The book delivery network,” Bart explained, gesturing to the track system built into the wall directly behind Patron Services. “It currently operates only on a limited local circuit between Patron Services and the North Diplomatic sector. Endpoint 3-7 remains manually disconnected.”
+
+Bart quickly outlined what they already knew. The endpoint had been manually severed two hours and eight minutes before the network failure. A system diagnostic had been issued three minutes prior to the disconnection, and the endpoint’s public designation had been subsequently wiped from the Archive’s directory. Bart had refused to authorize a reconnection without understanding why it had been severed in the first place.
+
+Ada listened closely, analyzing the sequence of events. “Are you asking me to restore the entire route, or determine what portion can be used safely?”
+
+Bart paused. Several weeks earlier, he would have desperately asked for a full restoration to pass the audit.
+
+“Determine what can be used safely,” Bart said.
+
+Ada nodded. “Show me the route.”
+
+They moved behind the Patron Services desk to the primary Route 3 intake assembly. Albert remained at Patron Services to manage any accidentally arriving patrons, while Mabel guarded the temporary evidence quarantine bay in Sector Four.
+
+Ada pulled out her tools and began examining the carrier rails, the spatial anchoring points, the load tolerances, and the emergency stops. Gregor assisted her by loading empty padded book carriers onto the surviving local circuit, sending them down the track so Ada could listen to where they rattled, slowed, or drifted. Gregor understood the route’s practical behaviour, but he did not pretend to understand its engineering.
+
+Ada handed him a small brass gauge. “Hold this against the primary rail and call out the readings as the carrier passes.”
+
+As they worked, the System produced an apparently encouraging diagnostic on Bart’s interface
+
+ROUTE 3 MECHANICAL CONDITION: SERVICEABLE
+
+LOCAL CIRCUIT STABILITY: 97.4%
+
+RECONNECTION READINESS: 94%
+
+KEEPER OVERRIDE: AVAILABLE
+
+Ada paused her inspection to study the hovering text. “What constitutes the missing 6%?”
+
+DESTINATION CONDITION: UNKNOWN
+
+“And the safety of reconnecting to an unknown destination?” Ada asked.
+
+SAFETY DETERMINATION: REQUIRES RECONNECTION
+
+Ada looked at Bart. “Your building approaches engineering like a shaman attempting alchemy: perform the experiment first, identify the explosion afterward”
+
+Ada moved further down the track to examine the physical isolation assembly where the branch for Endpoint 3-7 had been severed. She ran her hands over the valves, checking the spatial anchors and the seals.
+
+“Is the route broken?” Bart asked quietly.
+
+“No,” Ada answered, shining a small light into the sealed assembly. “Broken systems fail accidentally. This was professionally disconnected.”
+
+She stepped back, wiping dust from her gloves. “The branch was depressurized before disconnection. The spatial load was safely transferred to the local circuit so the main line wouldn't collapse. The endpoint seal was installed from the Archive side, entirely according to standard emergency containment procedures. And no subsequent attempt was made to reverse the containment.”
+
+Above Bart, the System flashed a helpful, dangerous prompt.
+
+RECONNECTION AVAILABLE WITH KEEPER AUTHORIZATION
+
+WARNING ACKNOWLEDGEMENT REQUIRED
+
+Bart was deeply tempted. Endpoint 3-7 had been isolated shortly before the Ruin. Reconnecting it might provide the first solid lead on what happened
+
+Ada looked at the prompt, then at Bart, and issued her ruling.
+
+“I am prohibiting reconnection.”
+
+“Containment measures are not damage,” Ada stated clearly. “Removing one without knowing what it contains would be the damage.”
+
+Bart looked at the sealed valves, then nodded. “Accepted. We leave Endpoint 3-7 isolated.”
+
+She turned her attention back to the surviving tracks. After compiling the gauge readings and inspecting the spatial anchors, Ada determined that the remaining circuit could safely transport ordinary library materials under a strict set of operational limits.
+
+“The circuit is restricted to journeys between Patron Services and the North Diplomatic sector only,” Ada mandated. “No living passengers. No sealed hazardous materials. Maximum carrier weight must be strictly observed. The track must be visually inspected after every 25 journeys, the operator must record every trip in a ledger, and the emergency stops must remain physically accessible at both ends.”
+
+The System rapidly processed the parameters.
+
+ROUTE 3 LOCAL CIRCUIT: PROVISIONALLY CERTIFIED
+
+ENDPOINT 3-7: ISOLATED
+
+RECONNECTION: PROHIBITED
+
+RESPONSIBLE OPERATOR: UNASSIGNED
+
+Ada looked up at Gregor holding the brass gauge. “You know the route better than anyone currently alive.” “I can recommend you for provisional training. If the Keeper approves.”
+
+“Approved,” Bart said. “Provisional training and local circuit authority only.”
+
+“The journey ledger uses standardized marks,” Ada added. “Written annotations will be part of your training.”
+
+Gregor examined the new ledger and his eyes dreamed of gold. “I want an added stipend before the lessons begin.”
+
+Bart smiled, quietly proud that Gregor had agreed on a task that involved writing. “Yes. We will authorize a provisional technical stipend from the Tremendian operational reserve.”
+
+PROVISIONAL ROUTE TECHNICIAN: GREGOR
+
+AUTHORIZATION: LOCAL CIRCUIT ONLY
+
+TRAINING STATUS: ACTIVE
+
+With the route technician assigned and the safety parameters logged, the System evaluated the Archive's overall operational status. The safe, functioning local circuit proved that the Archive possessed at least one controlled holdings retrieval process enough to submit for Halver’s assessment, though not enough to guarantee approval.
+
+Bart’s tablet pulsed with a bright, triumphant blue light.
+
+ACCREDITATION DEFICIENCY 5: REMEDIATION EVIDENCE AVAILABLE
+
+EXTERNAL REVIEW: REQUIRED
+
+ALL FIVE DEFICIENCIES: READY FOR REINSPECTION
+
+Bart exhaled a long breath. It was a genuine milestone. They had not passed the audit yet, but they had assembled remediation evidence for all five deficiencies identified during Halver’s accreditation inspection. He could finally request the auditor’s return inspection.
+
+Ada remained at the severed branch line, documenting the physical condition of the isolation assembly in her ledger. She traced the heavy iron hinges on the containment seal, paused, and frowned.
+
+“Keeper,” Ada called out.
+
+Bart walked over. “Did you find a problem?”
+
+“Just an observation,” Ada said, tapping her pen against the emergency shutters bolted over the severed endpoint. She pointed to the thick locking mechanisms and the reinforced bracing structure.
+
+“These braces are positioned to resist force coming from the far side of Endpoint 3-7,” Ada said. “They weren’t installed to protect the endpoint from a failure in the Archive.”
+
+Bart stared at the reinforced shutters. “Then the Archive wasn’t protecting Endpoint 3-7.”
+
+“No,” Ada said, stepping back. “It was protecting itself.”

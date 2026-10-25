@@ -1,0 +1,241 @@
+Gregor stared at the glowing text hovering above the desk.
+
+“How broke is extremely broke?” he asked.
+
+Bart addressed the interface. “System. Generate a complete financial summary of available institutional assets.”
+
+The System processed the request with immediate, unhelpful efficiency.
+
+ARCHIVE FINANCIAL SUMMARY
+
+UNRESTRICTED PAYROLL RESERVE: 0
+
+CURRENT LIQUID CURRENCY HOLDINGS: 0
+
+RESTRICTED MAINTENANCE RESOURCES: AVAILABLE
+
+ARCHIVE HOLDINGS: NOT AUTHORIZED FOR LIQUIDATION
+
+PATRON PROPERTY AND DEPOSITS: NOT ARCHIVE ASSETS
+
+Gregor’s eyes drifted slowly across the main hall, landing thoughtfully on the secure shelves of the Lost Property alcove.
+
+“No,” Bart said, before Gregor could even open his mouth.
+
+“People abandon things all the time,” Gregor reasoned. “Sometimes expensive things.”
+
+“We do not sell patrons lost things to fund our operations,” Bart said firmly. “And we certainly do not sell the books.”
+
+“I didn't say the books.”
+
+“You were going to look at the books next.”
+
+Bart sighed, stepping back from the desk. The Archive possessed nearly infinite value in knowledge. What it did not possess was a single usable form of payment. But before he could solve the funding problem, he needed to understand exactly what he was attempting to fund.
+
+“System,” Bart said. “Can you recall Albert and Mabel to Patron Services.”
+
+A soft chime sounded in the staff annex. A moment later, Albert glided back into the main hall, carrying the tray with the two unused porcelain cups. Mabel followed him, she looked mildly displeased that her first official off duty period in six centuries had lasted approximately four minutes.
+
+“Has my next duty period begun?” the Sphinx asked, her voice vibrating low in her chest.
+
+“No,” Bart said. “This is a staff consultation.”
+
+Mabel sat back on her haunches, her eyes narrowing slightly. “Is attendance compulsory?”
+
+Bart paused. That was suddenly a very important question. He was no longer giving orders in a crisis; he was attempting to establish an ethical workplace.
+
+“No,” Bart decided. “It is voluntary. But it concerns your compensation.” Mabel shrugged but decided to stay.
+
+Bart turned back to the interface. “System. Separate current employment arrangements from historic claims. Show me Gregor first.”\
+
+EMPLOYEE: GREGOR
+
+CURRENT COMPENSATION: ROOM AND BOARD
+
+STANDARD WORK EQUIPMENT: PROVIDED
+
+AGREEMENT STATUS: VALID EMERGENCY ARRANGEMENT
+
+ROLE EXPANSION SINCE AGREEMENT: SUBSTANTIAL
+
+HAZARD EXPOSURE: RECORDED
+
+FORMAL COMPENSATION REVIEW: OVERDUE
+
+“Your compensation hasn't technically been withheld,” Bart told him. “The problem is that the old agreement no longer matches the work.”
+
+“I’m not complaining about the food,” Gregor said quickly. “Or the boots. The boots are excellent. But if the Archive ever decides it doesn't need me anymore… do I lose my room that night?”
+
+Bart understood. Room and board controlled entirely by an employer was not independence. It was a leash.
+
+“A fair point,” Bart said. “System, show me Senior Access Guardian Mabel.”
+
+EMPLOYEE: MABEL
+
+ORIGINAL EMPLOYMENT TERMS: PARTIALLY RECOVERED
+
+EMERGENCY POSTING DURATION: 616 YEARS
+
+HISTORIC SERVICE CLAIM: PRESERVED
+
+VALUATION: IMPOSSIBLE UNDER CURRENT RECORDS
+
+Bart stared at the duration. “The surviving terms are incomplete. I cannot honestly reduce six centuries of service to a number.”
+
+“Then do not,” Mabel said calmly. “Most of the civilizations whose currency I might have used have likely turned to dust.”
+
+“What do you require?” Bart asked.
+
+Mabel lifted her chin. “Formal assurance that an emergency posting cannot become permanent again. I require the right to leave.”
+
+“Recorded,” Bart promised. He tapped the interface again. “Chief Custodian Albert.”
+
+EMPLOYEE: ALBERT
+
+EMPLOYMENT CONTINUITY: PRESERVED
+
+BIOLOGICAL INTERRUPTION: NOT A TERMINATION EVENT
+
+CURRENT COMPENSATION DESTINATION: INVALID
+
+OUTSTANDING OBLIGATIONS: PRESENT
+
+Gregor blinked. “Biological interruption?”
+
+“I ceased breathing some time ago, sir,” Albert explained smoothly. “The System kindly did not view this as a resignation.”
+
+“I have very few living expenses, Keeper,” Albert continued, turning to Bart. “A modest personal allowance would suffice, though I would strongly request guaranteed maintenance resources and a proper budget for the staff annex. The tea supply is dwindling.”
+
+“Not needing food does not make your work free,” Bart told him. “You retain the right to refuse continuous duty.”
+
+“A comforting safeguard, sir.”
+
+Gregor looked back at the screen. “What about you, Boss?”
+
+Bart queried his own status.
+
+POSITION: KEEPER
+
+CLASSIFICATION: ARCHIVAL OFFICEHOLDER
+
+ORDINARY PAYROLL ELIGIBILITY: NOT APPLICABLE
+
+HOUSING, SUBSISTENCE AND OFFICIAL EXPENSES: AUTHORIZED
+
+KEEPER STIPEND: INOPERATIVE
+
+“So none of us are getting paid,” Gregor summarized, “including the person deciding how we get paid.”
+
+“That does not improve matters,” Bart said.
+
+His first instinct was to establish one fair standard. If he couldn't pay them yet, he could at least define the wage.
+
+“System,” Bart ordered. “Establish a flat baseline wage across all current staff. Recommend a universal currency.”
+
+NO UNIVERSALLY RECOGNIZED LEGAL TENDER DETECTED
+
+“Then suggest a fair amount.”
+
+CLARIFICATION REQUIRED:
+
+Requesting amount adjusted for which connected world? Which species' lifespan? Which local economy? Which atmospheric or dietary requirements?
+
+Bart frowned. He tried another route. “Can we convert operational Mana into a payroll reserve?”
+
+MANA CLASSIFICATION: RESTRICTED OPERATIONAL RESOURCE
+
+PAYROLL CONVERSION: PROHIBITED
+
+He was a librarian, not an economist. He understood fairness, but he did not understand inter realm exchange rates, pension valuations, or six century old employment claims.
+
+“How did the Archive historically compensate its staff?” Bart asked.
+
+The interface cleared, replacing the errors with a historical ledger.
+
+The Archive, Bart quickly realized, had not survived on late fees or patron subscriptions. It had functioned as a collectively supported inter realm institution. Partner worlds and civilizations had contributed a complex combination of assets to maintain this neutral facility.
+
+HISTORIC ARCHIVAL SUPPORT MODEL
+
+Participating jurisdictions contributed:
+
+The central network had automatically converted those contributions into valid, localized compensation packages based on each employee’s registered home jurisdiction. The Archive had not paid everyone in one currency; it had paid them in whatever sustained them.
+
+PARTNER CONTRIBUTION NETWORK: OFFLINE
+
+TREASURY CONVERSION SERVICES: OFFLINE
+
+INTER REALM EMPLOYMENT TABLES: INCOMPLETE
+
+Without the partner network, the Archive had assets, but no accessible operating cash.
+
+While scrolling through the defunct treasury records, Bart noticed a glaring anomaly near the very end of the ledger.
+
+FINAL PRE RUIN TREASURY ACTION: EMERGENCY TRANSFER
+
+AUTHORIZING OFFICER: KEEPER #4,091
+
+DESTINATION RECORD: SEALED
+
+TRANSFER PURPOSE: CONTINUITY MEASURE
+
+The treasury records had not merely ended with the Ruin. Immediately beforehand, Keeper #4,091 had authorized an emergency transfer to a destination that remained sealed.
+
+Bart tried the entry once more. Whatever Keeper #4,091 had funded, he couldn't find out more.
+
+He stepped back from the desk and looked at his three staff members.
+
+He could not set any valid monetary values today but he could establish protections. He could stop the Archive from continuing to exploit its workers through inertia.
+
+“System,” Bart commanded. “Draft an interim employment framework.”
+
+Bart dictated the terms carefully, drawing on his own experience with employment.
+
+INTERIM STAFF EMPLOYMENT STANDARD
+
+“I cannot pay you today,” Bart told them honestly. “But if you accept this charter, the Archive formally acknowledges its obligations to you, and it cannot alter your roles or keep you on duty indefinitely without your consent. It will allow us to operate a temporary rota while I find a way to fund it.”
+
+Mabel read the terms hovering in the air. Her eyes lingered on the preservation of historic claims and the mandatory consent. She gave a slow, deep nod.
+
+Albert bowed slightly. “Perfectly acceptable, Keeper.”
+
+Gregor looked at the protection against housing being used as leverage. “I’ll take it.”
+
+“System,” Bart said. “Apply the Interim Staff Employment Standard. Authorize a temporary service rota.”
+
+The interface flashed blue, processing the new ethical baseline.
+
+INTERIM EMPLOYMENT STANDARD: ACCEPTED
+
+TEMPORARY ROTA : AUTHORIZED (TO BE RENEWED in 21 Archive days)
+
+HISTORIC STAFF CLAIMS: PRESERVED
+
+PAYROLL EXECUTION: UNAVAILABLE
+
+Bart waited for the deficiency to change. However, ACCREDITATION DEFICIENCY 2: OPEN
+
+Meant it was still open. The charter protected the staff, but it did not fund them. Deficiency 2 remained open.
+
+“What is required to restore payroll and close the deficiency?” Bart asked.
+
+COMPENSATION FRAMEWORK REQUIRES VERIFIED FUNDING SOURCE
+
+ACCEPTABLE FUNDING SOURCES:
+
+PROOF OF FUNDING REQUIRED
+
+Gregor studied the list, crossing his arms.
+
+“So I guess we need someone to give us money,” the Junior Helper translated.
+
+“Not give,” Bart said. “Contribute.”
+
+“That sounds like asking with more paperwork.”
+
+Bart looked at the dead partner network on the interface, then at the sealed treasury record left behind by Keeper #4,091.
+
+Unfortunately, Gregor was entirely correct.
+
+Before the Archive could hire an engineer, or formally pay the people currently standing in the hall, it would first have to rebuild something even more fragile than its pneumatic retrieval system.
+
+It would have to build a budget.

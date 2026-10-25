@@ -1,0 +1,401 @@
+The blue text hovering above the STAFF RESTROOM door updated with a low ding.
+
+Bart glanced from the main desk.
+
+ROUTE INSPECTION REQUEST UPDATED
+
+External custodial objection: NONE FILED
+
+Inspection basis: ACCEPTED
+
+Destination anchor: VALID
+
+Destination identity: CLOSED
+
+Staff portal transit: AUTHORISED - LIMITED
+
+Purpose: CUSTODIAL REVIEW
+
+Route integrity: 63%
+
+They words rearranged themselves and re formed into something Bart had never seen before.
+
+OUTBOUND CUSTODIAL INSPECTION
+
+Destination: CLOSED
+
+Route source: LEGACY DESTINATION ANCHOR
+
+Route integrity: 63%
+
+Access purpose: CLOSURE REVIEW
+
+Transit endpoint: EXTERNAL CUSTODY BOUNDARY
+
+Final custodial destination: NOT PORTAL ADDRESSABLE
+
+Bart paused at the final two lines. Looks like the anchor would take them only as far as the old transfer boundary. From there, they would have to follow the courier route themselves.
+
+Gregor joined him at the door, peering at the new words on display.
+
+"It doesn't tell us where we're going."
+
+"That's the point, plus says 63% accurate" Bart said.
+
+"63?."
+
+"Yes."
+
+"Is that any good?"
+
+Bart thought back to several previous journeys involving inaccurate portal coordinates. "Hmm, not really!."
+
+Gregor tightened the heavy strap on his satchel. "Good thing then I packed enough sandwiches."
+
+Bart reached for the brass handle.Behind them, Albert stood beside the main desk, his skeletal hands gripping his wooden broom handle tightly.
+
+"Do be careful, sir," the skeleton said quietly for the first time his eyes glowing briefly.
+
+Bart looked back over his shoulder. "We are just conducting a custodial review."
+
+"Yes, sir." Albert's his eyes dimmed once again. "That was not the part that concerned me."
+
+Bart didn't know what exactly to make of it, he decided to move on and quickly turned the handle.
+
+Whoosh! Gurgle!
+
+Golden light filled the doorway, spilling out across the Archive's wooden floorboards. Bart stepped through the light with Gregor following close behind.The door slammed shut behind them with a solid sound that echoed much farther than it should have.They were not in a library anymore. In fact there was no city, forest, road, palace , cave or even a person. Oh and absolutely no visible sky.
+
+Bart felt the cold air that bit immediately through his sweater. His shoes rested on grated black metal. A vast, industrial platform stretched away into darkness. Weak low light lamps had been fixed along its edges at regular intervals, but only perhaps one in six still worked. Their flickering light showed pieces of decaying machinery, brass pipes, and transport rails disappearing into the blackness. Above them was nothing Bart could identify as a ceiling. It was simply dark.
+
+Gregor slowly turned in a circle. "Boss."
+
+"Yes?"
+
+"Where are we?"
+
+"I don't know," Bart said.
+
+Gregor let out a long breath, looking relieved.
+
+Bart frowned, glancing at him. "Why is that reassuring?"
+
+"Because if you'd said something like 'interdimensional custodial blah blah,' I was going to start worrying that you actually understood this place."
+
+A pale blue window appeared in the freezing air directly in front of them.
+
+LOCATION IDENTITY: CLOSED
+
+LEGACY FACILITY CLASS: EXTERNAL CUSTODY TRANSFER
+
+FACILITY STATUS: DECOMMISSIONED
+
+PRIMARY DESTINATION: UNAVAILABLE
+
+PERSONNEL PORTAL ENDPOINT: TRANSFER BOUNDARY ONLY
+
+RETURN ROUTE: AVAILABLE
+
+Gregor read the first few words, gave up somewhere around the word LEGACY, and looked at Bart.
+
+"Loading dock?"
+
+Bart studied the heavy iron rails embedded in the floor. "Could be."
+
+Bart walked toward the nearest rail. Two iron tracks ran across the grated platform before splitting into the darkness ahead. Old, hulking freight mechanisms sat rusting beside them: brass switching units, winches, wheeled platforms, and containers large enough to hold several people. The sheer scale of the facility bothered him. This hadn't been built to move individual books. It had been built to move entire collections.
+
+Gregor kicked lightly at one of the iron rails. "So the restroom door couldn't take us all the way?"
+
+"No," Bart replied.
+
+A row of routing consoles stood beside the edge of the platform, facing the tracks. Most were dead. Some had cracked green or blue glass faces. Others had been smashed completely centuries ago. Bart approached the first surviving display and wiped gritty dust from the glass. A weak light crawled across the surface.
+
+CONTINUITY TRANSFER CHANNEL
+
+Status: PERMANENTLY SEVERED
+
+Destination: CLOSED
+
+Last activity: 616 years ago
+
+Bart stared at it. "Continuity," he murmured.
+
+Gregor wandered closer, peering over Bart's shoulder. "Bad?"
+
+"Unknown."
+
+"Usually when you say unknown, it becomes bad later," Gregor noted.
+
+Bart tapped the plate, trying to request more information from the old machine.
+
+RELATED RELATIONSHIPS: UNAVAILABLE UNDER ACTIVE CLOSURE
+
+Of course, he moved on to the next one.It was completely dead, its glass shattered. But the brass routing plate bolted beneath it still bore an unfamiliar engraved shape. There was no readable destination name. Only a stamped metal label.
+
+LEGACY TRANSFER NODE IDENTIFIER: [CORRUPTED]
+
+Status: PERMANENTLY SEVERED
+
+Whatever the station had once connected to, its road had been deliberately cut.
+
+"Boss."
+
+Gregor's voice came from farther down the platform.
+
+Bart turned. Gregor stood over a series of faded yellow rectangles painted onto the grated iron floor. At first, Bart had assumed they were ordinary. Then he saw the numbers painted inside the yellow borders.
+
+BATCH 391.
+
+Several feet farther down the platform: BATCH 392.
+
+Then: BATCH 393.
+
+Gregor pointed toward the darkness. The faded yellow markings continued in a long, neat line toward the tracks.
+
+"Those numbers from the paperwork?" Gregor asked quietly.
+
+Bart nodded. "The original emergency transfer."
+
+Gregor stared at the rails. "Six thousand boxes came through here?"
+
+"At least during the original transfer," Bart said.
+
+The original transfer had contained 6,204 containers. The Curator had maintained external custody for another six centuries. Bart had no idea how large the collection had become since.
+
+Somewhere through those tunnels sat the Black Catalogue. There were 20 branching corridors leading off the platform. "System," Bart said aloud, his voice swallowed by the vast, dead space. "Identify active custodial route associated with External Closure Consultant."
+
+DESTINATION RELATIONSHIP: CLOSED
+
+"Display infrastructure status without destination relationship."
+
+The System hesitated, the blue text flickered for a moment,
+
+MULTIPLE LEGACY ROUTES PRESENT DISCLOSURE LIMITED BY ACTIVE CLOSURE
+
+Bart stared at the text, adjusting his glasses in mild frustration.
+
+Gregor walked past him. "Good."
+
+Bart lowered the glowing screen. "Good?"
+
+Gregor reached the mouth of the first tunnel and crouched beside the heavy iron rail. "Yes."
+
+"Why?"
+
+Gregor looked back over his shoulder. "Because now we stop asking for the signs."
+
+He reached into his satchel and pulled out a small brass lantern. He struck a match, lit the wick, and closed the glass. Bart watched him work. Gregor didn't touch the routing consoles. He crouched at the first corridor and ran one finger through the thick layer of dust beside the rail.
+
+"Flat," Gregor said. He stood up.
+
+"What?" Bart asked.
+
+"Dust." He moved to the next tunnel, shining the lantern low across the grating. "Same."
+
+At the third corridor, he crouched again. "Rust all the way across the joint."
+
+Bart followed him in silence.
+
+Gregor tested the switching lever beside the fourth corridor. It let out a grinding groan. "Hasn't moved."
+
+The fifth tunnel had a visibly broken rail. The sixth contained a huge spiderweb stretched completely across the entrance. Gregor immediately moved on.
+
+At the seventh corridor, he stopped.He leaned closer to the switching lever, bringing the lantern down until the glass nearly touched the iron. Then he rubbed one finger across the handle. A clean streak appeared through the dirt.
+
+"This one," Gregor said.
+
+Bart stepped beside him. "How do you know?"
+
+Gregor held up his finger. "No dust."
+
+Bart examined the handle. Gregor lowered his lantern toward the iron rails leading into the dark. Thin, shiny silver lines showed through the dark, crusted rust.
+
+"Scrapes," Gregor said. He pointed at the silver streaks. "Something heavy still runs over these."
+
+Bart adjusted his glasses. "He went this way."
+
+The seventh tunnel went down gradually. The weak lights became increasingly rare, until Gregor's lantern provided almost all of their light. The cold deepened, sinking through Bart's clothes. They walked for perhaps fifteen minutes before the iron tracks widened, stopping briefly at a large, round stone chamber built into the tunnel.
+
+Gregor stopped so suddenly that Bart nearly bumped into him. Resting on either side of the iron track were two enormous, clawed paws.
+
+Bart adjusted his glasses, squinting into the gloom. At first, he thought it was a statue. The enormous body had the colour and texture of carved pale stone. Folded wings rose almost to the vaulted ceiling.
+
+Then, one claw moved.
+
+KRRRA.
+
+The sound of stone dragging against iron set Bart on edge.
+
+"Boss," Gregor whispered, his hand on his knife.
+
+"I see it."
+
+Two massive golden eyes opened in the dark, glowing with light. Dust fell from the creature's sides as it slowly pushed itself upward. Its wings stretched outward, blocking the entire width of the tunnel.
+
+"HALT," the creature boomed. The voice shook the floorboards.
+
+Gregor took three rapid steps backward. "Very large cat."
+
+The creature ignored him, her golden eyes locking onto Bart. "NONE MAY PASS INTO THE SEALED ANNEX WITHOUT SATISFYING THE THREE CHALLENGES OF…"
+
+The creature's eyes suddenly flicked downward, catching the blue glow of the System window hovering beside Bart.
+
+CUSTODIAL REVIEW AUTHORITY: VALID
+
+It paused. The terrible, rumbling echo in her voice faded, replaced by something much less enthusiastic.
+
+"...unless possessing authorised inspection access."
+
+Bart held up the glowing authorization. "We possess authorised inspection access."
+
+The creature stared at it. "Yes."
+
+"Then I believe we may proceed," Bart said.
+
+A pale blue identification box appeared next to her massive golden head as Bart came closer.
+
+ANNEX SECURITY OFFICER Name: Mabel
+
+Species: Sphinx
+
+Position: Senior Access Guardian
+
+Security mandate: INDEPENDENT
+
+Employment status: ACTIVE
+
+Posting: EXTERNAL CUSTODY ANNEX 7
+
+Posting status: CONTINUOUS
+
+Relief status: NONE ASSIGNED
+
+Departure from post: REQUIRES RELIEF
+
+Challenge protocol: UNAUTHORISED ENTRY ONLY
+
+Last formal challenge administered: 903 years ago
+
+Bart frowned at the final line. "Last formal challenge administered: 903 years ago."
+
+Gregor looked from the blue box to the terrifying predator. "You haven't challenged anyone in 900 years?"
+
+The creature drew herself up, puffing her chest slightly. "Correct."
+
+"What have you been doing?"
+
+"Guarding."
+
+Gregor looked around the empty, freezing tunnel. "Right."
+
+Her wings folded back against the wall, sending another shower of dust over the tracks.
+
+Bart began walking past her while Gregor remained rooted to the spot.
+
+"Can I do one?" Gregor asked.
+
+"Gregor," Bart warned.
+
+The creature’s golden eyes shifted downward toward the thief. "Voluntarily?"
+
+"Sure."
+
+The Sphinx leaned down, bringing her massive, terrifying face mere inches from Gregor.
+
+"What belongs to you," Mabel purred, elevating her voice, "yet is used more often by others?"
+
+Gregor thought very seriously, crossing his arms. "My knife?"
+
+Mabel stared at him for a while…and replied "Your name."
+
+Gregor considered this. "People use my name?"
+
+"Yes."
+
+"More than me?"
+
+"Of course!"
+
+Gregor frowned. "Seems a bit rude, whats yours then"
+
+The Sphinx didnt know how to react..”I uhh am Mabel”
+
+“Well nice to meet ya Mabel” , He nodded respectfully to the giant cat, adjusted his satchel, and jogged to catch up with Bart.
+
+Behind them, Mabel settled back onto her paws and the silence closed around them again.
+
+They continued down the dark tunnel and found a large chamber. A massive wall stood at the far end of the chamber. Built in the center were two immense vault doors.
+
+Above the doors was a brass plaque. Centuries of black grease and grime covered most of the lettering. Bart stepped up to the wall, reached up, and wiped the upper half of the plaque clean with the sleeve of his sweater.
+
+EXTERNAL CUSTODY ANNEX 7
+
+The small lettering beneath had been almost completely worn away.
+
+Gregor eventually broke the silence. "Seven?"
+
+" Coincidence!"
+
+Gregor shook his head slowly. "Libraries."
+
+A narrow panel bolted to the stone beside the vault suddenly flickered to life, glowing blue light.
+
+CUSTODIAL REVIEW AUTHORITY DETECTED
+
+Requesting officer: KEEPER #4,092
+
+Current custodian: EXTERNAL CLOSURE CONSULTANT
+
+Custodial objection: NONE
+
+Inspection access: VALID
+
+There was a deep, resonating metallic CLUNK! from inside the stone.
+
+Gregor looked at Bart, taking a step back. "You didn't touch anything."
+
+"No."
+
+"Then he knows"
+
+Bart looked at the glowing blue text. "He knew when we filed the request."
+
+Gregor approached the massive iron wheel in the center of the right vault door. He placed both hands on it and pushed. It moved almost effortlessly, spinning perfectly. “Well maintained “ muttered Gregor
+
+The wheel completed its turn. Chunky iron locks withdrew one after another, sound echoing deep inside the walls.
+
+CLUNK! CLUNK! CLUNK!
+
+The enormous vault doors began to open and then Bart saw the Closed Collection.
+
+There was no dust. After the decay in the transfer station, the difference was almost unsettling. Everything beyond the vault doors was immaculate.
+
+Rows upon rows of heavy black iron boxes stretched away into the dark. There were no wooden shelves holding books but boxes. Thousands of them. Some were no larger than ordinary document cases, Others were enormous, heavy crates sealed with iron bolts.
+
+A normal library was designed to help people find things. This one however, had been designed to make finding them impossible. At the center of the nearest aisle, lit by light, stood a reinforced iron lectern. On it rested an enormous ledger bound in black leather.
+
+The Black Catalogue and beside it stood the Curator. He wore his immaculate grey suit and pristine white gloves. His hands rested lightly on the iron lectern.He looked over at Bart and Gregor.
+
+"You took longer than expected," the Curator said. His voice was calm and measured. Gregor's hand moved instantly toward his belt, his posture slightly tense. "You knew we were coming."
+
+"Yes," the Curator said simply.
+
+Bart stepped across the threshold, his shoes clicking against the pristine floor. "You had the choice to object and could have prevented the inspection."
+
+The Curator met his eyes. "Yes."
+
+Silence stretched between them for a while.
+
+Gregor slowly looked around, lowering the lantern. His usual boldness faded as he took in the seemingly endless rows of iron. "How many books are in here?"
+
+The Curator chose not to respond and just stare at them, Gregor being a bit uncomfortable glanced back over his shoulder toward the massive open doors. His eyes landed on the old plaque..
+
+Gregor frowned. "So it wasn't always called the Closed Collection?"
+
+The Curator followed his gaze to the tarnished plaque. "No."
+
+Bart looked at him carefully and asked "What was it called?"
+
+For the first time since Bart had met him, something almost like tired amusement crossed the Curator's face. He looked at the thousands of sealed boxes accumulated across six centuries and at the enormous Black Catalogue.
+
+"Temporary storage."

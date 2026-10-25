@@ -1,0 +1,255 @@
+There was only a pin drop silence across the whole of Closed Collection.There was no dust or shelves, only rows of heavy black iron boxes stretching into the dark, containing potentially disasters across centuries. At the center was an enormous black ledger rested on a reinforced iron lectern.
+
+The Curator stood before it in his immaculate grey suit white gloved hands resting beside the ledger.
+
+SWOOSH!
+
+A brief white flame flared directly above the lectern. A single piece of parchment drifted downward, landing squarely on the leather cover of the Black Catalogue.
+
+The Curator glanced at it,
+
+CUSTODY VERIFICATION NOTICE
+
+Target asset: BLACK CATALOGUE
+
+Last registered custodian: EXTERNAL CLOSURE CONSULTANT
+
+Response required:
+
+[ ] I retain custody
+
+[ ] Custody transferred - identify recipient
+
+[ ] Asset lost/destroyed
+
+[ ] Dispute ownership
+
+He did not move for several seconds because the new Keeper had managed to do something the Curator did not believe the ruined Archive could still do. Sanders hadn't found the Closed Collection but he was onto something potentially much worse, he had managed to reconstruct the paperwork trail. The Curator's eyes moved slowly from the white form to the reinforced iron lectern beneath the Black Catalogue.
+
+The Catalogue's own records on closure were closed. But six centuries ago, someone had reinforced the lectern..
+
+“Maintenance records.”.
+
+“Very Clever. Mr. Sanders”
+
+The Curator read the four checkboxes and immediately understood the trap.If he claimed he did not possess the ledger, the Archive could legally classify its own Master Closure Register as lost institutional property. If he disputed ownership, Sanders would trigger a formal ownership adjudication. If he simply refused to answer, the Archive would log a live, asset-specific correspondence chain. Sanders had narrowed his options considerably.
+
+But the Curator had been around for a long time and knew how procedures worked. He reached out and picked up a pen. He knowingly chose to confirm custody because he believed the procedural rules of Closure inherently favored him.
+
+He neatly placed an X in the first box. Beneath it, he wrote:
+
+Custody remains lawful under External Closure authority. The Black Catalogue is not subject to Recall. Closure supersedes circulation. Do not contact me regarding this matter again.
+
+He set the pen down. The paper vanished in a flicker of colourless flame. A faint shoosh echoed across the main desk of the Infinite Archive. A black bordered form dropped into the tray.
+
+Gregor leaned forward. "He answered?"
+
+Bart picked up the form. "Yes."
+
+"Did he say he has it?"
+
+Bart turned the parchment around.He looked at the checked box, then at the sharp, deliberate handwriting beneath it.
+
+"He actually filled it in?" Gregor asked in disbelief.
+
+Bart noticed immediately what the Curator had done. The System had recognized it, too.
+
+CURRENT CUSTODY VERIFIED
+
+Asset: BLACK CATALOGUE
+
+Current custodian: EXTERNAL CLOSURE CONSULTANT
+
+Verification basis: Current authenticated custodial acknowledgment
+
+The glass pulsed with a steady blue light.
+
+RECALL ACTIVATION REQUIREMENTS: 3 / 3
+
+RECALL - MINIMUM FUNCTIONAL PROCEDURE RESTORED
+
+Gregor grinned. "Looks like you may have got him there Boss!"
+
+Bart didn't celebrate though he was looking at the Curator's handwritten addition.
+
+Closure supersedes circulation.
+
+"He knew that checking the box would complete our requirement," Bart said softly.
+
+Gregor frowned. "Then why tell us?"
+
+"Because he thinks he can still be in the right."
+
+Bart tapped the indexing plate. "System. Display the restored Recall procedure."
+
+ARCHIVAL PROCEDURE: RECALL
+
+Purpose: Return externally held Archive property to reviewable custody.
+
+Recall does not automatically:
+
+Recall may require:
+
+Bart read the limitations carefully. Recall was an administrative tool, not a teleportation spell.
+
+Gregor read the screen. "So we recall all six thousand boxes?"
+
+"No," Bart said immediately.
+
+"Why not the books?"
+
+"Because I have no basis to conclude they should be opened, moved, or returned." Bart pulled a blank form toward him. "I'm reviewing the decision. Not reversing it."
+
+Bart began to write, constructing a careful request.
+
+OFFICIAL RECALL NOTICE
+
+Asset: BLACK CATALOGUE
+
+Identifier: IA-CR-0001
+
+Purpose: Mandatory Closure review
+
+Requested action: Produce administrative register for supervised review.
+
+Existing Closure determinations: REMAIN IN FORCE
+
+Sealed holdings: NOT REQUESTED
+
+Contents: NOT REQUESTED FOR UNRESTRICTED ACCESS
+
+Custodial authority: NOT REVOKED
+
+"I would prefer there be no ambiguity," Bart said quietly. He placed it in the tray.
+
+In the Closed Collection, the colourless flame flared a second time. The Curator picked up the Official Recall Notice. As he read the meticulously bound parameters of the request, his expression finally changed. He had expected Sanders to demand the key back, Instead, Sanders wanted the audit trail.
+
+That made Sanders an infinitely more dangerous opponent in his opinion but the Curator possessed a strong procedural objection. The Black Catalogue wasn't merely paperwork. It was the sole map to every horror Closure had buried. Moving it created an apocalyptic risk, even if nobody opened it.
+
+The Curator wrote his reply.
+
+RECALL DENIED
+
+Authority: EXTERNAL CLOSURE
+
+Reason: The requested administrative register constitutes the sole containment index for active Closure holdings. Physical transfer creates unacceptable discovery risk.
+
+CLOSURE SUPERSEDES CIRCULATION.
+
+The denial materialized in the brass tray.
+
+Bart read it.
+
+"Let me guess, he said No?," Gregor observed.
+
+"Yes."
+
+"So what now?"
+
+Bart placed the denial on the desk. "His objection is reasonable."
+
+Gregor continued to stare at him. Bart turned back to the glass plate. If moving the Black Catalogue was a documented danger, then Bart wouldn't move it. "System. Does Recall require physical transfer where transfer itself presents a documented containment risk?"
+
+NO.
+
+Alternative compliance permitted:
+
+Gregor caught on. "So we're going to him, Boss?"
+
+"Not yet."
+
+Bart wrote out a new directive and dropped it into the flame.
+
+ALTERNATIVE COMPLIANCE REQUEST
+
+Physical transfer: WAIVED
+
+Contents access: NOT REQUESTED
+
+Requested review parameters:
+
+The Curator looked at the new request on the iron lectern. He understood exactly what Bart was doing. Sanders didn't want the forbidden books itself. He wanted to know who had reviewed the person who decided nobody could ever see them. The Curator looked down at the Black Catalogue. If he produced the review history, Sanders would discover the weakness at the centre of External Closure: the Curator's decisions had long outlived the system meant to review them.
+
+The Curator picked up his pen. He needed to stop him before he reconstructed the chain Keeper #4,091 had believed too dangerous to leave intact.
+
+STOP RECONSTRUCTING ANCIENT RELATIONSHIPS.
+
+Some knowledge is dangerous when read. Some are dangerous when enough separate facts are connected.
+
+Bart read the warning coming in hot in the tray. He pulled a fresh sheet of paper and wrote his response.
+
+Then where is the hazard assessment?
+
+The reply returned almost instantly.
+
+You do not understand.
+
+Bart wrote back.
+
+Correct. That is why I am requesting the record.
+
+The white flame flared again. The Curator's handwriting was pressing harder into the parchment now, so that you could see the imprint on the other side.
+
+Some records should not be reconstructed.
+
+Bart wrote a single line and returned it,
+
+Then there should be a record explaining why.
+
+In the emptiness of the Closed Collection, the Curator stared at the paper. The exchange had ceased to be an argument. Sanders was constructing an evidentiary chain. And if the Curator continued answering, he would become part of it. He had to sever all the connections.
+
+The Curator placed his white gloved hand on the Black Catalogue and invoked the terrible weight of his mandate.
+
+EMERGENCY CLOSURE CONTINUATION
+
+Scope: Existing legacy Closure relationships only
+
+New Closure classifications created: NONE
+
+Basis: Existing legacy Closure classification
+
+Relationship discovery suspended pending Closure review.
+
+The Curator let out a slow breath. It was done.
+
+Tap.
+
+For a fraction of a second, the shadow beneath one distant iron box turned impossibly white.
+
+The Curator froze, The light vanished. He looked toward the shadows, his blood running cold. Then he looked down at Sanders's paperwork. The danger was not always in opening the book. Sometimes the danger was in making enough records to agree on the status of the said knowledge.
+
+Back at the main desk, Bart's restored Cross-Reference display suddenly began to collapse.
+
+Glowing blue lines mapping the Archive's deepest history snapped and vanished.
+
+KEEPER #4,091 - TERMINAL RECORDS: CLOSED
+
+RUIN - CAUSATION RELATIONSHIPS: CLOSED
+
+MASTER AUTHORITY NETWORK - ORIGIN RELATIONSHIPS: CLOSED
+
+"He closed our questions out?," Gregor said, watching the text disappear.
+
+"He closed the relationships," Bart corrected.
+
+"Is that any better?"
+
+"No."
+
+A final entry flickered onto the glass, burning bright blue for a fraction of a second before fading.
+
+SUCCESSION - HISTORICAL BASIS
+
+Supporting relationships dependent on closed Master Authority Network records
+
+Status: UNAVAILABLE - ACTIVE CLOSURE
+
+Bart went completely still and looked down the long corridor toward the East Wing. Three seals glowed faintly in the darkness.
+
+Memory, Record and Citation.
+
+Closure remained external.
+
+Succession remained provisional.
+
+"I am going to find out, one way or another" whispered Bart.

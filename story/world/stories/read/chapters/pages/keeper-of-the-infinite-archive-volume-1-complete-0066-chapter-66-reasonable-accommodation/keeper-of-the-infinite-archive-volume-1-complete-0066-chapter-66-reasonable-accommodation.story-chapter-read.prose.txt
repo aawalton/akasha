@@ -1,0 +1,223 @@
+Chapter 66: Reasonable Accommodation
+
+Bart spent ten minutes pacing the eastern edge of the Reading Room with a measuring stick.
+
+"9 tonnes," Bart muttered, eyeing the polished floorboards. "If we remove three of the oak tables, repurpose the space we could probably support the weight. Assuming he doesn't jump."
+
+Gregor, who was currently organizing a stack of returned library cards, watched Bart measure the same section of floor for the third time.
+
+"Boss," Gregor said.
+
+"What?"
+
+"How's he supposed to get through the bathroom?"
+
+Bart stopped measuring for a moment and looked at the portal door.It was exactly 32 inches wide. It was also the only currently functioning gateway into the Infinite Archive.
+
+Bart slowly lowered the measuring stick. "Right."
+
+He walked back to his desk and pulled up Bernard's registration file on the System interface. The dragon's paperwork was flawlessly submitted
+
+PATRON ACCESS ASSESSMENT
+
+Species: DRAGON
+
+Mass: 8,940 kg
+
+Standard Stack Access: UNSUPPORTED
+
+Assisted Retrieval Service: OFFLINE
+
+Large-Format Reading Facility: OFFLINE
+
+Bart tapped the screen, looking for a temporary workaround. "System, can we authorize remote delivery for this specific request?"
+
+The System pulled up the catalogue record for Bernard's requested item, followed by a message from the dragon dated earlier that morning.
+
+Holding status: REFERENCE COPY
+
+Circulation: IN-ARCHIVE CONSULTATION ONLY
+
+Reason: Sole surviving large-format edition
+
+I have been informed remote access is an option. However, the requested material is classified as consultation only and cannot leave Archive jurisdiction. I am also unable to reduce my physical size. I have been asked this before.  Bernard
+
+The interface immediately flashed with a secondary, much older alert. It was a foundational rule of the library.
+
+ACCESS SHALL NOT BE DENIED WHERE REASONABLE MODIFICATION IS POSSIBLE.
+
+He liked it immediately.
+
+"All right," he said. "Then we modify."
+
+"Mabel," Bart called out.
+
+The massive Sphinx turned her head from the entryway. "Yes, Keeper?"
+
+"Historically, how did enormous patrons enter the building?"
+
+"Large format patrons were not routed through staff transit, Keeper," Mabel rumbled. "There was a designated heavy transit corridor. I do not know if it survived the Ruin. My emergency orders restricted me to Annex Seven."
+
+Bart looked at Albert.
+
+"East wing, sir," the skeletal custodian supplied, resting his hands on his broom. "Just past the collapsed geography section."
+
+It took them 20 minutes of clearing debris to find it.
+
+It wasn't a grand, magical portal glowing with cosmic energy. Tucked behind a fallen row of marble pillars were two absurdly massive doors, completely covered by dust.
+
+Bolted to the stone beside them was a tarnished plaque.
+
+LARGE FORMAT PATRON ACCESS WINGS / TAILS / EXTERNAL LIMBS MUST REMAIN WITHIN MARKED AREAS
+
+Gregor stared up at the doors, which were easily 40 ft high. "How big were the old customers?"
+
+"Some were very enthusiastic readers, sir," Albert noted mildly.
+
+Bart touched the iron doors. "System. Can Large Format Patron Access be restored?"
+
+FULL TRANSIT NETWORK RESTORATION: UNAVAILABLE
+
+REGISTERED PATRON CONNECTION: AVAILABLE
+
+Patron: Bernard
+
+Destination anchor: VALID
+
+Connection type: SINGLE-PATRON ACCESS
+
+Access Guardian authorization: REQUIRED
+
+Mabel stepped forward. "I approve of the patron."
+
+RESTORATION REQUIRES REALLOCATION OF ACTIVE RESOURCES. WARNING: Re-routing structural wards will require the dismantling of 3 recently restored standard Reading Tables.
+
+Bart hesitated. Then looked at Bernard's access assessment.
+
+"Do it," Bart said.
+
+The Archive shuddered for a moment. blue structural lines tore themselves free from beneath the restored tables. The furniture remained intact for approximately two seconds before all three sagged heavily to the floor.
+
+STANDARD READING STATIONS: DECOMMISSIONED
+
+Albert looked at the wreckage. "Those were recently polished, sir."
+
+A massive square of flooring near the doors glowed with reinforced structural wards. The floor settled. A low slab of black stone rose from the reinforced section, broad enough to serve as either a reading table or a small monument.
+
+LARGE FORMAT READING BAY: ACTIVE
+
+"Alright," Bart said, dusting off his hands. "He has a temporary door, and he has a place to sit. But we can't safely accommodate him in the stacks. His file says 'Standard Stack Access: Unsupported.'"
+
+"Because he would destroy them," Mabel agreed.
+
+"So how does he get his book?" Bart asked.
+
+Albert looked up. "The Assisted Retrieval Service, sir. Historically, the Archive utilized a pneumatic delivery network. Automated shelving tracks shuttled requested volumes through glass tubes directly to the reading bays."
+
+Bart looked back at the System interface.
+
+AUTOMATED HOLDINGS RETRIEVAL
+
+Main conveyor: OFFLINE
+
+Shelf-routing network: 0.04% responsive
+
+Pneumatic delivery: OFFLINE
+
+Manual retrieval fallback: AVAILABLE
+
+Gregor squinted at the blue text. "What's manual retrieval?"
+
+Bart slowly looked down the endless, dimly lit corridor of the eastern stacks, stretching out for miles into the dark.
+
+Albert quietly reached out and handed Gregor a wheeled trolley.
+
+Gregor stared at it. Then he looked at the System interface as Bernard's specific book request finally loaded.
+
+REQUEST LOCATION: EAST CENTRAL STACK / AISLE 18,441 / LEVEL 6 ESTIMATED WALKING DISTANCE: 3.7 KM
+
+Gregor slowly looked at Bart. "I want the tubes back."
+
+"Take a lantern," Bart said, patting his shoulder.
+
+Nearly two hours later, Gregor emerged from the eastern stacks, panting heavily and pushing the brass trolley. Resting in the center of it was a single, oversized tome.
+
+"I want the tubes back," Gregor wheezed.
+
+"Duly Noted," Bart said.
+
+The massive iron doors of the Large Format Patron Access groaned, shedding years of dust as they slowly swung inward.
+
+A shadow fell over the reinforced reading bay. A massive silhouette blotted out the light. Enormous, razor sharp claws clicked against the stone. Plumes of grey smoke drifted from a snout the size of a carriage. 9 tonnes of ancient, dark scaled dragon stepped carefully into the Infinite Archive, lowering its massive horned head to peer at the tiny people below.
+
+"Good afternoon," the dragon rumbled, his voice deep and perfectly modulated. "I am Bernard."
+
+Bart stepped forward. "Keeper Sanders."
+
+"A pleasure, Keeper Sanders." Bernard reached into a massive satchel slung across his chest. With excruciating precision, one giant claw slid a thick folder across the black stone. "I have brought identification, proof of residence, two professional references, and my borrowing history."
+
+Bart opened the folder and saw the documents were perfectly preserved and even tabbed.
+
+Bart liked him immediately.
+
+Former occupation: Senior Municipal Auditor
+
+"I must apologize for the delay," Bart said. "I'm afraid stack access isn't currently available for large format patrons."
+
+Bernard blinked, his golden eyes adjusting to the light. "I wasn't planning to enter the stacks. It would be highly irregular. I submitted a retrieval request."
+
+Bart checked the registration file again. He had. It was properly indexed under ASSISTED RETRIEVAL REQUIRED. Bart had somehow managed to overlook it.
+
+"My apologies," Bart said. "I should also inform you that this particular edition is designated for in-Archive consultation only. It cannot leave the premises."
+
+Bernard looked visibly relieved. "Excellent. I prefer not to assume off site custody of institutional assets. It creates unnecessary liabilities."
+
+Bart stared at him. The dragon was an auditor to the core. A genuine, literal auditor.
+
+Bart checked the catalogue record of the book resting on Gregor's trolley. Practical Cultivation of Temperate Vegetables.
+
+Bernard sighed. "Tomatoes."
+
+"Tomatoes?"
+
+"Mine keep splitting before harvest, and the soil acidity is entirely uncooperative," Bernard explained, carefully hooking the large print book with one claw and sliding it onto the reinforced reading stone. "My eyesight is not what it was, so I appreciate the format accommodation."
+
+Bart glanced back at the occupation listed on Bernard's registration.
+
+"Did you always garden?"
+
+"Certainly not. I spent 224 years auditing the Municipal Department of Parks and Recreation of Cawnee, on the world of Caelora "
+
+Gregor, still recovering against the trolley, looked up. "They needed an auditor?"
+
+Bernard's expression became distant.
+
+"They had 17 standing committees, 6 seasonal committees, a permanent subcommittee for decorative shrubbery, and one seasonal committee whose sole responsibility was determining whether benches were facing the correct direction."
+
+Bart, being fascinated by such a mythic creature, asked  "And Were they?"
+
+"No, Never the best directions"
+
+Bernard lowered his head toward the gardening book.
+
+"When I retired, I believed growing vegetables would involve less administration."
+
+"And?"
+
+Bernard stared at the page.
+
+"Tomatoes are completely unwilling to respect procedure."
+
+Bart watched the retired municipal auditor gently open a gardening manual. It was the most peaceful the Archive had felt in days.
+
+Then suddenly the System chimed overhead.
+
+ACCESSIBILITY SERVICE RESTORED LARGE-FORMAT PATRON SERVICE: ACTIVE Transit mode: REGISTERED CONNECTIONS ONLY
+
+PENDING LARGE-FORMAT ACCESS REQUESTS: 43
+
+Current reading bay safe load: 12 TONNES
+
+Largest pending patron mass: 312 TONNES
+
+Bart slowly looked down at the newly reinforced floor. 312 tonnes and picked up the measuring stick again.

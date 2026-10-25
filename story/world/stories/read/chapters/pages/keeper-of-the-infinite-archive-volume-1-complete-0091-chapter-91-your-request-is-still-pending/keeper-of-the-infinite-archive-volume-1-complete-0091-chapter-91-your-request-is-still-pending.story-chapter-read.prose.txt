@@ -1,0 +1,183 @@
+Bart watched Nobb and Hedd disappear down the dimly lit corridor, carefully clutching their drainage manual as if it were a sacred artifact. The quiet warmth of the interaction lingered still in the vaulted air of Patron Services. The Infinite Archive was functioning. It was doing exactly what a library was supposed to do.
+
+He tapped his primary interface to officially close out the cave goblins’ circulation record.
+
+The screen cleared. Immediately, a new notification pulsed in the corner of the interface, replacing the quiet satisfaction of the moment with the administrative reality of their recent success.
+
+INTERLIBRARY PARTNERSHIP: ELIGIBLE
+
+NEW RESEARCH ACCESS: PERMITTED WITHIN PUBLISHED CAPACITY
+
+Bart stared at the blue text. Auditor Halver’s reinspection had officially cleared the Archive’s provisional status. They were a formally recognized, externally accountable operating institution. That recognition came with consequences. He tapped the notification, pulling up a queue that had been held for a long time. He had actively avoided it because, until now, there had been no responsible way to service it.
+
+The number loaded onto the glass.
+
+PENDING INTERLIBRARY REQUESTS: 18,441
+
+“I preferred the goblins,” Bart murmured and sighed. The backlog was not new. It had been sitting in the Archive’s administrative core for over six centuries, frozen in time when the Archive's interlibrary network collapsed. What had changed was that recognition had finally made the queue an operational responsibility instead of merely a horrifying number.
+
+“We cannot simply fulfill them,” Bart said, staring at the figure. “If we blindly activate the queue, we turn eighteen thousand dormant requests into active work at once. Holdings verification, retrieval, external transfer, and correspondence would be overwhelmed immediately.”
+
+Bart scrolled to the very bottom of the ledger and tapped the oldest surviving request. He wanted to see exactly what the Archive was dealing with.
+
+The System immediately threw up a cascade of amber warnings.
+
+REQUEST AGE: OVER SIX CENTURIES
+
+REQUESTING INSTITUTION: CURRENT STATUS UNVERIFIED
+
+CURRENT REQUESTING AUTHORITY: UNVERIFIED
+
+REQUEST CONTINUED INTEREST: UNKNOWN
+
+Bart sighed. A 600 year old interlibrary request could not be blindly dispatched into the void just because it remained active in a queue.
+
+“So after six hundred years they might not want the book?” Gregor asked.
+
+“That is one possibility,” Bart said.
+
+Albert drifted out from the stacks, his skeletal hands clasped neatly before him. “Another is that they no longer exist, sir.”
+
+Gregor frowned. “That is less encouraging.”
+
+The real problem was not retrieval but  revalidation,Bart pulled up a blank form and began constructing an interlibrary-request revalidation rule. Six centuries of administrative silence did not constitute confirmation of continued need.
+
+He typed out the parameters. Before a legacy request could be formally revalidated, the System had to confirm 4 distinct criteria:
+
+1st the requesting institution still existed, 2nd, a current authorised contact existed, 3rd the request was still wanted and 4th fourth, the requested title, edition, or format was still relevant.
+
+If a request survived revalidation, it would move to a separate operational stage. Bart outlined the secondary checks:
+
+FULFILMENT REVIEW
+
+HOLDING STATUS: VERIFY
+
+LOANABILITY / CONTAINMENT: VERIFY
+
+ACCESS ROUTE: VERIFY
+
+DELIVERY / RETURN METHOD: VERIFY
+
+CURRENT SERVICE CAPACITY: VERIFY
+
+Bart reviewed the logic. It was better librarianship, separating continued demand from the Archive's ability to fulfil it. He added one final, non negotiable parameter to the bottom of the rule.
+
+ORIGINAL REQUEST DATE SHALL BE PRESERVED UPON SUCCESSFUL REVALIDATION
+
+He would not let six centuries of institutional delay magically reset everyone to the back of the queue. If a patron had been waiting for over six hundred years, they were keeping their place in line.
+
+“Let us test the protocol,” Bart said.
+
+He did not choose the oldest request. Instead, he searched the queue for an absurd but genuine request he had noticed when he first discovered the backlog. It belonged to an aquatic university.
+
+REQUESTED ITEM: FIRE SAFETY FOR BEGINNERS
+
+FORMAT RESTRICTION: WATERPROOF EDITION
+
+Bart selected the request and applied his new revalidation rule. He did not send the book. He instructed the System to transmit a routing query out to the destination.
+
+TRANSMISSION INITIATED:
+
+PLEASE CONFIRM THIS REQUEST IS STILL REQUIRED.
+
+Bart expected an immediate routing failure, or perhaps an automated response indicating the aquatic university had ceased to exist during the Ruin.
+
+A minute passed and Gregor went back to filling out his Route 3 logs while Albert began polishing the railing of the delivery tracks.
+
+The interface chimed softly,the requesting university actually still existed, though the System noted it was operating under a successor institutional name. A formal reply had successfully routed back through the surviving interinstitutional network.
+
+REQUEST CONFIRMED.
+
+There was a brief pause on the screen, followed by a secondary addendum.
+
+WATERPROOF EDITION STILL REQUIRED.
+
+Gregor looked up from his ledger. “They've had six hundred years to solve that issue.”
+
+Bart did not make a joke of it. The response proved exactly what he needed to know. The revalidation process worked. They could safely identify which legacy requests were still active without risking clogging at once.
+
+A confirmed request did not make an inaccessible book accessible. It did, however, tell Bart which inaccessible books people were still waiting for but as Bart looked at the confirmed request, the true weight of the operational reality settled over him.
+
+The request was current. The catalogue showed that the waterproof edition existed in the stacks. But fulfilling it was not simply a matter of pulling it off a shelf.
+
+Processing a single interlibrary loan involved a strict sequence of actions. He had to verify the holdings. He had to perform a loanability and physical access check. The book had to be physically retrieved assuming a verified route still reached it. It had to be packaged for secure spatial transit. Inter-institutional terms had to be established. Return tracking had to be initialized. And finally, someone had to manage the ongoing correspondence.
+
+Bart looked around the vast expanse of the main hall and began mentally assigning pieces of the workflow. Gregor had his Route 3 training retrieval duty in addition to his junior helper acquisitions role. Mabel was Access, she guarded the doors, evaluated threats, and enforced the Archive's physical security protocols. Albert was Chief Custodian. He covered physical operations, returns, shelving, the day to day maintenance of the facility and was the institutional memory of the archive. Ada was a contracted facilities assessor, she was an engineer, not library staff yet.
+
+He looked at the 18,441 pending requests and at the single revalidated request for a waterproof fire safety manual.He was still the only actual librarian in the archive. Bart decided to process the first request himself, just to establish the baseline effort required. He tapped into the catalog, checking the stack location for the waterproof edition.
+
+Before he could confirm the location, a patron approached the desk. It was an older Silver Spire historian, requesting an obscure cross-reference regarding a Fae territorial dispute.
+
+Bart paused his Inter Library Loan ( ILL) processing and spent 4 minutes answering the reference question, expertly guiding the historian to the correct sub-collection.
+
+As the historian walked away, Gregor leaned over the counter, holding up a retrieval slip.
+
+“Boss, catalogue question,” Gregor said. “The request asks for Tesseraic Runes and their Applications. The stacks are showing three different editions. The slip doesn't specify which one. Do I just send the heaviest?” Bart spent the next 3 minutes showing him how to compare the request citation, publication date, and edition notes against the catalogue record.
+
+While he was speaking, he watched Mabel intercept a new patron near the main doors. The Sphinx smoothly evaluated a magically active artifact in the patron’s satchel, issued a firm provisional access ruling, and admitted the visitor without ever glancing toward the desk for Bart’s approval. Albert was quietly re-shelving a cart of returned folios.Ada was perched on a high scaffold, precisely measuring the stone integrity of a vaulted window.
+
+Bart turned back to the ILL request. He confirmed the waterproof book was loanable and initiated the retrieval sequence. While it was processing , he lookjed around,
+
+Mabel was handling security perfectly. Albert was managing operations perfectly. Ada was handling engineering perfectly. Gregor was managing Route 3 competently within his assigned limits, but required professional guidance whenever a task bled into actual library science.
+
+The Archive no longer had a staffing problem everywhere. It had a librarian problem.
+
+Bart pulled his revalidation rule back up on the screen. He was not going to drown the Archive in an impossible operational surge just because they had the legal authority now to do so. A functional institution understood its limits.
+
+He established a strict operational boundary.
+
+LEGACY INTERLIBRARY SERVICE - LIMITED REVALIDATION
+
+AUTOMATIC DISPATCH: PROHIBITED
+
+LEGACY REQUEST REVALIDATION: ACTIVE
+
+ORIGINAL QUEUE AGE: PRESERVED
+
+FULFILMENT: SUBJECT TO HOLDINGS / ACCESS / CAPACITY REVIEW
+
+He set a modest daily processing cap. The System would only revalidate a manageable handful of requests per day, preventing the workflow from overwhelming their non-existent interlibrary loan department.
+
+Ada walked past the counter, pausing briefly to read the glowing parameters on the glass.
+
+“You do know you have limited service to available capacity,” Ada observed.
+
+“I understood that recently,” Bart said.
+
+He finalized the rule and tapped the single request they had already processed.
+
+The System officially brought the first piece of the ancient backlog back to life.
+
+LEGACY REQUEST: REVALIDATED
+
+ORIGINAL QUEUE POSITION: PRESERVED
+
+FULFILMENT STATUS: PENDING
+
+Gregor looked at the screen, reading the final status line.
+
+“So after six hundred years,” Gregor summarized, “we've written to them to say we're still working on it.”
+
+“Accurate but a little sad if you put it that way, at least we are honest” Bart replied.
+
+Bart stepped back from the desk. He looked at the active ILL request, the lingering notes from his reference inquiry, and the administrative weight of the Keeper’s office resting on his interface.
+
+He tapped the screen.
+
+“System,” Bart asked quietly. “Historical staffing. Who normally managed interlibrary and reference services?”
+
+INTERLIBRARY / REFERENCE SERVICES: PROFESSIONAL LIBRARY STAFF
+
+DEDICATED STAFF ASSIGNED: 0
+
+Gregor looked over from his ledger. “You're library staff.”
+
+“I'm also the Keeper,” Bart replied.
+
+He looked at the zero on the screen. There was no magical artifact in the vault that could solve this. There was no spatial shortcut. The Infinite Archive had survived the Ruin, secured external recognition, and proven its worth even by getting a lich to understand baking, helping literacy among goblins, solving  scholar issues from Silver spire.
+
+Now, it had a completely normal, entirely different problem.
+
+Bart tapped the screen, closing the interlibrary queue.
+
+“We need an assistant librarian.”

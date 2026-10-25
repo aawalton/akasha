@@ -1,0 +1,163 @@
+They stood in a row at the edge of one of Ada's red chalk survey lines across the stone floor of the central corridor. Bart was looking at his primary interface. Nell carried a clipboard holding her newly printed out blocked demand register, Gregor was slouching on the side while Ada stood still, a tool holder slung over her orange coat.
+
+50 metres down the dim, echoing corridor, the iron framework of a massive shelf range was visible through a warped service archway. The books they wanted were not lost in some mystical, shifting labyrinth. 24 unresolved patron needs were sitting right there in the dark, gathering six centuries of dust, and nobody was allowed to walk toward them because nobody could prove the floor would not collapse beneath their boots.
+
+Nell looked past the red line, squinting into the gloom.
+
+“Those are the shelves?” Nell asked.
+
+“Those are some of the shelves, yes” Bart corrected mildly.
+
+“And we cannot reach them.”
+
+“You cannot reach them,” Ada stated, her voice flat and absolute.
+
+Gregor leaned against the stone wall and grinned “Oh, I noticed the distinction there.”
+
+Bart tapped his interface, pulling up the current sector record from the Archive’s administrative core. He needed to know exactly what they were looking at before they committed resources.
+
+SECTOR 8 / WING C
+
+COLLECTION: LAND RECORDS, BOUNDARIES & SETTLEMENT HISTORY
+
+PUBLIC ACCESS: CLOSED
+
+STAFF ACCESS: UNVERIFIED
+
+PRIMARY ROUTE: UNVERIFIED
+
+ACTIVE REQUESTED HOLDINGS: 19
+
+UNRESOLVED SERVICE NEEDS: 24
+
+Bart looked at the glowing blue text. The catalogue associated tens of thousands of records with Wing C, covering everything from cadastral surveys to municipal land grants and historical border disputes.
+
+“To reopen this wing,” Bart began, mentally calculating the required workflow, “we will need a comprehensive structural certification of the overhead structure. We will need to verify the load bearing capacity of the floor under full public foot traffic. Lighting will need to be inspected and restored, and we will have to establish a safe browsing perimeter ....”
+
+“Keeper,” Nell interrupted gently.
+
+Bart stopped. He looked at his new Assistant Librarian.
+
+“Do the patrons need to come in here?” Nell asked.
+
+Bart paused. He looked down the dark corridor, then back at Nell. “No.”
+
+“Then why are we reopening the wing?”
+
+Bart had approached the problem as a reopening: certify the wing, restore public access, then resume service.
+
+Nell had separated those things. The patrons did not need the wing. They needed the books.
+
+Gregor understood the distinction immediately.
+
+“You just need me to get the books,” the provisional route technician replied.
+
+Ada looked at Bart. “No, You need a certified route for him to get the books.”
+
+They did not need a grand public reopening or need a browsing perimeter / reading light. What they actually needed was a limited, highly specific staff retrieval corridor connecting the safe zone to the shelf ranges containing those 19 requested holdings.
+
+Nell unclipped her register and referenced her catalogue map. She had not merely listed the books but had mapped their recorded shelf locations within the closed wing.
+
+“12 of the requested holdings are in the first shelf range,” Nell said, pointing toward the warped archway. “4 are in the next aisle over. The last 3 are approximately 30 metres deeper in.”
+
+She held out the map. Ada took it, her eyes scanning the plotted coordinates.
+
+“Then I do not need to certify Wing C,” Ada concluded.
+
+“What do you need to certify?” Bart asked.
+
+Ada pointed a gloved finger at a narrow, jagged path traced through the map’s grid. “That.”
+
+Ada unrolled her tool wrap. She crouched at the boundary and tested the first stretch of stone from the safe side, working outward with her gauge. Only after marking the first cleared slabs did she straighten.
+
+“Gregor, inspection assistance authorised. Step only where I mark.”
+
+“Roger that, i hope we better get some hazard pay” Gregor muttered.
+
+They stepped across the line.
+
+Nell did not follow them and remained behind the red chalk mark. Bart noted her discipline with quiet approval. She was new, and the dark ruins of the Infinite Archive were undeniably fascinating, but she did not treat the expedition like an adventure. She respected her role, and she respected Ada’s boundaries.
+
+The corridor had simply been neglected. Ada’s powerful inspection lantern illuminated cracked floor joints, one visibly unsupported ceiling panel, shattered globes, and stale route markings that had faded into the stone. The service doors had warped on their hinges, and the towering iron shelving had not been stability tested in over 600 years.
+
+Gregor proved exceptionally useful during the walk. Where Ada looked for structural integrity, Gregor looked for retrieval logistics.“A standard transfer trolley cannot make that corner,” Gregor called back, his voice echoing slightly. He pointed to a section where a fallen pillar had narrowed the path. “We'll need to route around the debris and stay over the supported floor.”
+
+Ada paused, inspecting the floor near the debris. She handed Gregor a brass calibrator.
+
+“Hold this against the lowest stone block,” Ada instructed.
+
+Gregor pressed the tool against the stone. “Am I permitted to interpret the reading?”
+
+“No,you are not qualified,” Ada said. “You are permitted to recite the number however”
+
+“We seem to be making excellent progress,” Gregor muttered against his breadth.
+
+Behind the red line, Nell cross referenced the shelf locations Ada and Gregor were calling out against her live demand register. She checked her interface, frowned, and tapped a quick sequence of commands.
+
+“You do not need to clear a path to Shelf 8-C-44,” Nell called out into the dark.
+
+Gregor stopped mid-stride. He looked back over his shoulder. “Why not?”
+
+“The only request requiring Shelf 8-C-44 accepted an accessible substitute 12 minutes ago,” Nell said, marking the record resolved on her screen. “We no longer have an active service need in that aisle.”
+
+Gregor turned back around, looking at the suddenly unnecessary detour he would not have to clear.
+
+“I really like her,” he muttered.
+
+After a careful inspection, Ada and Gregor returned to the safe side of the boundary. The funding reality immediately became an operational constraint.
+
+“A full public restoration of Wing C is not currently justified,” Ada reported, wiping dust from her gloves. “However, a limited staff retrieval route is entirely feasible.”
+
+“What is required?” Bart asked.
+
+“Local bracing around the first archway, temporary lighting, a shelf stability check on the three affected ranges, and fresh route marking,” Ada listed efficiently.
+
+“Do we possess the materials?”
+
+“The materials are available from restricted maintenance stock. An additional capital purchase is not required.” Ada paused, looking evenly at the Keeper. “The materials are not the problem. My time however is.”
+
+“You are paying me to assess this building for approximately 21 more days,” Ada stated flatly. “Every day I spend restoring service in a localised retrieval corridor is a day I am not inspecting something potentially critical to the primary structure.”
+
+“Will this limited route delay any potentially critical safety inspections?” Bart asked.
+
+“No,” Ada said. “The critical items remain scheduled. But a full public reopening absolutely would.”
+
+“And the limited retrieval path?”
+
+“It can fit between higher severity assessments,” Ada confirmed.
+
+Bart tapped his interface, formally authorising the project in the Archive’s core system.
+
+SCOPE AUTHORISED: LIMITED STAFF RETRIEVAL ACCESS
+
+PUBLIC REOPENING: NOT AUTHORISED
+
+PRIORITY BASIS: VERIFIED UNMET SERVICE DEMAND
+
+REQUEST QUEUE PRIORITY: UNCHANGED
+
+FACILITIES STOP-WORK AUTHORITY: UNCHANGED
+
+Nell watched the authorisation process complete. “What happens after Gregor retrieves the books?”
+
+“The requests return to Patron Services,” Bart said. “Local requests move to ready for collection when the holdings are retrieved. Interlibrary requests move to fulfilment review, and the requesting institutions receive status notifications through their registered channels.”
+
+“And we record exactly how many institutions received service because we executed this specific project?” Nell pushed, leaning slightly over her clipboard.
+
+“Oh yes of course.”
+
+Ada knelt and used a thick piece of red chalk to mark a new, temporary safe boundary 3 m further into the corridor. She stood up and put the chalk away, but she did not formally certify the route.
+
+Nell looked down at the dark, ruined wing.
+
+“We are reopening access to the books people actually need, with your help” Bart said in a satisfactory tone with a slight smile
+
+Ada looked up from her equipment wrap. “After I certify the route.”
+
+Bart nodded. “After she certifies the route, of course”
+
+The interface chimed softly, displaying the new administrative reality of Sector 8.
+
+SECTOR 8 / WING C: CLOSED
+
+LIMITED STAFF RETRIEVAL PATH: ASSESSMENT IN PROGRESS

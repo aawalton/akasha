@@ -1,0 +1,211 @@
+The Concord Chair struck her cracked wooden gavel against the evidence table.
+
+“This preliminary hearing is hereby adjourned.”
+
+At that exact moment, the System registered the formal conclusion of the material witness testimony.
+
+ADDITIONAL WITNESS LOAD: CONCLUDED
+
+HEARING CAPACITY RECOVERED: 0.6 SPE
+
+CONNECTION REALLOCATION: REVERSING
+
+On the remote projection frame inside Gallery B, the tiny, low resolution crown icon vanished. Aurelius’s face reappeared just in time to see the delegates and panel members beginning to pack up and leave.
+
+“Excellent,” Aurelius declared. “I will now deliver my closing address.”
+
+“The proceedings have already concluded,” Bart informed him.
+
+A muffled shout came through the wall from Patron Services.
+
+“REOPEN THEM!”
+
+8/10ths  of a second later, Aurelius’s projected face repeated the demand.
+
+“REOPEN THEM!”
+
+Bart and the panel ignored the projection. Bart felt a sudden, urgent instinct to go up to the lich and demand everything he knew about Keeper #4,091, but Morzath had already given the Concord exactly what he had personally witnessed.
+
+Bart turned his thoughts back onto the result of concord, He assumed “submit your surviving records” meant the respective governments would carefully organize their archives, securely package the materials, and send them to the Infinite Archive over the next several days.
+
+The System swiftly corrected his optimism.
+
+FIRST EVIDENCE TRANSFER: 17 MINUTES
+
+EXPECTED SUBMISSIONS: 43 CRATES
+
+ADDITIONAL DECLARED EXHIBITS: 6
+
+“17 minutes?” Bart stared at the interface. Both factions were apparently rushing to submit their version of history before the other could.
+
+Gregor leaned over Bart’s shoulder. “Can evidence win by arriving before the other evidence?”
+
+“No it does not work that way,” replied Bart
+
+From the centre of Gallery B, one of the remaining human delegates called out while aggressively shoving documents into a satchel. “It can establish the initial evidentiary record!”
+
+He was about to request a temporary delay in the evidence transfer when the System updated its assessment of the incoming crates.
+
+POTENTIAL CORRELATION: CROSSING FAILURE REPORTS
+
+POTENTIAL CORRELATION: DELEGATE COMMUNICATIONS
+
+POTENTIAL CORRELATION: ARCHIVE MEDIATION REQUEST
+
+POTENTIAL CORRELATION: KEEPER DEPLOYMENT FAILURE
+
+RECONSTRUCTION PROBABILITY: UNKNOWN
+
+Bart froze for a moment the crates did matter to him as well, Somewhere inside 43 boxes of frantically compiled historical grievances was the documentary trail of Keeper #4,091. It might contain the exact correspondence that explained why his predecessor had accepted the mediation request but never arrived.
+
+However, Bart could not simply pry open the Fae and human crates to satisfy his own curiosity. The materials had to be formally received, authenticated, separated by provenance, and preserved with a completely intact chain of custody.
+
+The System immediately identified another, far more modern complication.
+
+EVIDENCE CUSTODIAN: INFINITE ARCHIVE
+
+CURRENT PRIMARY FUNDING SOURCE: CROWN OF TREMENDIA
+
+CROWN OF TREMENDIA: INTERESTED HUMAN PARTY
+
+EVIDENTIARY INDEPENDENCE SAFEGUARDS: REQUIRED
+
+Aurelius, whose remote projection was still active on the frame, immediately objected.
+
+“I am funding shelves that I am forbidden to inspect?” the king demanded.
+
+“Yes,” Bart said.
+
+“That is an appalling return on investment.”
+
+“It is institutional independence,” Bart corrected.
+
+“I prefer it when we call it ingratitude,” Aurelius muttered.
+
+“The Crown of Tremendia’s contribution provides thirty days of operating reserve,” Bart stated formally, ensuring the System recorded the declaration. “It does not grant the Crown access to sealed evidence, priority authentication, or any influence over the Archive’s findings.”
+
+With this  political boundary firmly established, Bart left Gallery B and returned to the Patron Services desk. The Archive had nowhere safe to put the crates.
+
+Reading Gallery B had to reopen for limited public service shortly. The primary access corridor could not be obstructed. The Closed Collection could not accept unreviewed, potentially hazardous material. The few unused rooms within the accessible Archive had not been structurally inspected in over six centuries. And stacking 43 heavy crates in one temporary location would almost certainly exceed the floor’s certified load capacity.
+
+“We could spread them across several rooms,” Gregor suggested, gesturing vaguely toward the deeper, unlit corridors.
+
+Bart nearly agreed, but stopped himself. He had no idea if the floors of those rooms were structurally connected, or if separating the Fae and human records across different architectural sectors would compromise the chain of custody. He was a librarian not a structural engineer.
+
+The interface glowed amber.
+
+TEMPORARY EVIDENCE STORAGE: UNAVAILABLE
+
+CERTIFIED LOAD ASSESSMENT: REQUIRED
+
+FACILITIES ENGINEER: URGENT
+
+Bart looked at the recruitment task he had postponed twice in the last two days. When Bart opened the employment module, the Archive’s automated recruitment template dutifully generated a thoroughly at least in Bart’s mind a dishonest proposition.
+
+JOIN A PRESTIGIOUS MULTIVERSAL INSTITUTION WITH UNLIMITED OPPORTUNITIES FOR GROWTH.
+
+Bart tapped the screen, deleting prestigious, unlimited, and growth.
+
+He bypassed the template available entirely and drafted an invitation based entirely on brutal, specific honesty.
+
+INVITATION FOR SITE ASSESSMENT
+
+Bart was not offering anyone a permanent job. He was inviting them to conduct a paid professional assessment, after which both parties could decide if employment actually made sense.
+
+He transmitted the offer to Tessera via Truepath, especially addressing Ada who had been recommended by Bernard.
+
+Ada Kett did not just reply but sent a questionnaire instead.
+
+DATE OF LAST COMPREHENSIVE STRUCTURAL INSPECTION?
+
+“At least six hundred and sixteen years ago,” typed Bart.
+
+CURRENT NUMBER OF KNOWN STRUCTURAL FAILURES?
+
+“Unknown,” Bart entered.
+
+CURRENT NUMBER OF UNKNOWN STRUCTURAL FAILURES?
+
+Gregor leaned heavily over the desk, squinting at the glowing form. “That does feel like a trick question.”
+
+HAS THE FACILITY EXPERIENCED SPATIAL, TEMPORAL, REALITY OR DIVINE DAMAGE?
+
+Bart carefully checked all four boxes.
+
+The form immediately flashed.
+
+ADDITIONAL EXPLANATION REQUIRED
+
+“There isn’t enough space,” Bart said aloud to the desk.
+
+SUPPLEMENTARY EXPLANATION FORM ATTACHED
+
+Bart sighed and filled out the supplementary paperwork. 10 minutes later, the response arrived from Tessera.
+
+Ada had not accepted employment, but she had accepted the assessment. Chief Surveyor Truepath had evidently assured her that Bart understood where a librarian’s competence ended, and Bart had answered every alarming question without attempting to disguise the Archive’s catastrophic condition.
+
+SITE ASSESSMENT: ACCEPTED
+
+EMPLOYMENT INTEREST: UNDETERMINED
+
+ESTIMATED ARRIVAL: IMMEDIATE
+
+INSTRUCTION: DO NOT MOVE THE EVIDENCE
+
+The first evidence crate materialized within the Archive’s registered evidence transfer boundary. The intake ward held it suspended, waiting for an approved destination.
+
+PROPOSED TEMPORARY LOCATION: GALLERY B
+
+PROJECTED CONCENTRATED FLOOR LOAD: 612% OF CERTIFIED LIMIT
+
+The portal materialised with the sound of WHOOSH GURGLE! And a weird figure emerged.
+
+Ada Kett was a goblin. Beyond the green skin and pointed ears, however, little about her resembled Nobb or Hedd. She wore a fitted orange municipal survey coat, reinforced work boots, and her dark hair in a tightly secured bun. A compact, impeccably organized tool case hung from her belt alongside an array of measuring instruments. Six different municipal engineering licences were neatly pinned inside her coat lapel.
+
+She looked at the vaulted magical ceiling, the glowing interfaces, and the suspended evidence crate without the slightest trace of awe.
+
+She walked directly to the desk. “Ada Kett. You are the Keeper?”
+
+“I am,” Bart said.
+
+“Where are the plans?”
+
+Bart retrieved a copy of the partial floor plan that he, Albert, and Gregor had assembled in Architecture & Civic Works.
+
+Ada unrolled the parchment. She looked at the smudged ink, the missing sectors, and the massive blank areas labeled Condition Unknown.
+
+“These are not plans,” Ada said flatly, rolling the parchment back up. “These seems like some rumours with measurements.”
+
+Gregor broke into a wide grin, he seemed to immediately like her. Ada walked past the desk toward Gallery B. She paused at the threshold, her sharp eyes studying the floor, the nearest visibly damaged stone arch, and the suspended evidence crate.
+
+She turned back to Bart. “Who certified this area for concentrated archival loading?”
+
+“No one,” Bart answered truthfully.
+
+Ada looked at him with something approaching approval.
+
+“Good answer!”
+
+She reached into a pocket of her orange coat, pulled out a thick stick of bright red survey chalk, and drew a thick, unbroken line across the stone floor directly in front of the intake boundary and the entrance to Gallery B.
+
+“Nobody crosses this,” Ada commanded.
+
+Above the desk, the System interface flashed with a new, overriding directive that honored Bart’s assessment terms.
+
+PAID SITE ASSESSMENT: ACTIVE
+
+PROFESSIONAL CREDENTIALS: VALID
+
+DELEGATED STOP WORK AUTHORITY: RECOGNISED
+
+AFFECTED AREA: GALLERY B / EVIDENCE INTAKE ZONE / PATRON SERVICES WORK AREA
+
+EMERGENCY EGRESS: PRESERVED
+
+Bart stared at the glowing red boundary, realizing exactly what he had just formally empowered her to do.
+
+“How much of the Archive did you just close?” Bart asked.
+
+Ada followed the red chalk line with her eyes, assessing the sheer scale of the structural liability surrounding them.
+
+“Not enough.”

@@ -1,0 +1,285 @@
+Later in the day, the Infinite Archive was pleasantly quiet. Aside from Bart and the staff, there were only two patrons currently utilizing the main hall.
+
+Elian Monther was seated at his usual table near Cross-Reference, making careful notes. In the Large-Format Reading Bay, Bernard was quietly returning to a chapter on crop rotation. The large transit doors had closed after his arrival, severing the temporary connection to Cawnee. While Bernard himself remained comfortably settled beside the black stone reading slab for sometime.
+
+Bart pushed aside Comparative Temporal Standards for Multiversal Public Institutions and cleared a large space on his desk. He pulled a fresh sheet of parchment from the drawer, uncorked an inkwell, and wrote out a heading.
+
+ACCREDITATION REMEDIATION DEFICIENCY 3 - EMERGENCY & EVACUATION PLAN
+
+Gregor, pushing the trolley past the desk, leaned over to look. "We're not doing the employee pay first?"
+
+"The registrar specifically recommended emergency evacuation," Bart said with a slight smile.
+
+He took out his pen and began to take some notes down.
+
+In the event of an emergency, proceed to the nearest exit.
+
+Albert had also arrived back from his cleaning duties and quietly read the line over Bart's shoulder.
+
+"That may require qualification, sir," the skeletal custodian murmured.
+
+"Why?"
+
+"In a multiversal repository, the nearest exit may not lead somewhere the patron can survive."
+
+Bart paused. He slowly crossed out NEAREST.
+
+"System," Bart said. "How did the pre Ruin Archive manage evacuation?"
+
+The massive blue interface flared above his desk, bringing up fragments of old administrative architecture.
+
+LEGACY EMERGENCY TRANSIT CLASSES
+
+PUBLIC NETWORK TRANSIT
+
+REGISTERED PERSONAL TRANSIT
+
+LARGE FORMAT TRANSIT ASSISTED
+
+TRANSIT EMERGENCY REFUGE
+
+Bart stared at the second item. "Registered personal transit?"
+
+"Some patrons maintained their own magical portals, sir," Albert explained. "They could request departure authorization through Access Control."
+
+Gregor stopped the trolley. "So some customers brought their own doors?"
+
+"Patrons," Bart corrected automatically.
+
+"Some patrons brought their own doors?"
+
+"Yeah you could say that I guess" Bart said.
+
+A library where patrons accidentally evacuated themselves into some random sun was not going to pass an accreditation review. The System chimed, producing a piece of old public facing instruction to illustrate the point.
+
+EMERGENCY TRANSIT GUIDANCE YOUR ASSIGNED EXIT MAY BE IN FRONT OF YOU, BEHIND YOU, OR TEMPORARILY LOCATED IN ANOTHER REALITY.
+
+Gregor pointed behind himself. "How can an exit be temporarily behind you?"
+
+"Multiversal architecture," Bart said, and Gregor just rubbed his eyes!
+
+The so-called new Archive couldn't support the full pre-Ruin network, but it desperately needed a simpler, temporary equivalent. Bart pulled out another sheet of parchment. "We need to assign emergency transit profiles when patrons are admitted."
+
+He spent a few minutes drafting the categories, occasionally consulting with Albert on the physical realities of the restored corridors.
+
+CURRENT EMERGENCY EGRESS CLASSES
+
+CLASS A (Standard Return Transit): Archive-managed return via Staff Restroom.
+
+CLASS B (Registered Personal Transit): Patron-operated transit; Access Guardian authorization required.
+
+CLASS C (Large-Format Transit): Dedicated registered connection required.
+
+CLASS D (Assisted Transit): Patron requires staff support or environmental accommodation.
+
+CLASS E (Refuge In Place): Used where immediate transit presents greater danger.
+
+"Alright," Bart said, looking over the hall. "Let's test the people who are actually here."
+
+He opened Elian's patron profile.
+
+PATRON: ELIAN MONTHER
+
+Standard return anchor: VALID
+
+Transit class: CLASS A
+
+Additional magical transit capabilities: UNREGISTERED
+
+"Elian," Bart called out.
+
+The Silver Spire scholar looked up.
+
+"Do you have a personal transit route registered with the Archive?"
+
+Elian paused, his quill hovering over his notes. "I know portal magic."
+
+"That wasn't exactly my question."
+
+"No."
+
+"Then you're Class A," Bart said, making a note. "Standard return through the Staff Restroom."
+
+Elian nodded and returned to his book.
+
+Bart turned his attention to the Large-Format bay. "System. Status of Bernard's return connection."
+
+LARGE-FORMAT RETURN ANCHOR
+
+Patron: BERNARD
+
+Destination: CAWNEE
+
+Anchor: VALID
+
+Connection: INACTIVE
+
+Reactivation: AVAILABLE
+
+Access Guardian authorization: REQUIRED
+
+Mabel rumbled softly from the entrance. "I authorize the connection."
+
+Bart noted it though he stopped before assigning the transit class. An evacuation plan could not assume that a portal connection would always be available during the specific emergency causing the evacuation. If the connection failed, Bernard physically could not fit through the Staff Restroom.
+
+"Mr. Bernard," Bart said.
+
+The enormous dragon carefully lifted his head. "Keeper Sanders?"
+
+"If your portal fails during an emergency, you have no alternate exit."
+
+"A exit without an alternate is generally considered undesirable," Bernard agreed mildly.
+
+Bart checked the System again. The Large-Format bay had been reinforced the previous day, but it needed to be officially recognized as a safe zone.
+
+LARGE-FORMAT READING BAY
+
+Structural reinforcement: ACTIVE
+
+Independent containment: PARTIAL
+
+Emergency refuge suitability: PROVISIONAL
+
+"System, what would make it not provisional?" Bart asked.
+
+Required: Emergency designation / Access Guardian concurrence
+
+Bart quickly looked at Mabel. "The bay is structurally suitable," the Sphinx said. "I concur."
+
+Bart signed the designation on the System interface.
+
+LARGE-FORMAT EMERGENCY REFUGE: ACTIVE
+
+Bernard's file updated instantly, assigning him Class C transit with a Class E fallback.
+
+Bart began assigning the staff roles. "I'll coordinate from the desk. Albert, you handle zone clearance."
+
+"I approve, sir," Albert murmured.
+
+"Why does the cleaner get evacuation sweeps?" Gregor asked.
+
+Albert turned his glowing blue eye lights toward the Junior Helper. "Because, Junior Helper, I know every place people believe nobody will look."
+
+"Fair enough" Gregor muttered.
+
+"I am the Senior Access Guardian, what role do i play" Mabel interrupted, her voice vibrating through the floorboards.
+
+Bart crossed out his own name for departure control. It was a strange feeling, not assigning himself every critical task. But a functioning institution meant letting qualified employees do their jobs.
+
+"Mabel authorizes all Class B and Class C departures and controls access to the Class A route," Bart corrected. "I will manage the System interface."
+
+Bart pulled out a final sheet of parchment and wrote in large, block letters:
+
+EMERGENCY EVACUATION DRILL THIS IS NOT AN EMERGENCY FOLLOW YOUR ASSIGNED TRANSIT INSTRUCTIONS
+
+He hung it on the front of the desk.
+
+Gregor stared at it. "Do we need an actual emergency?"
+
+"No," Bart said.
+
+"Small fire?"
+
+"No."
+
+"Not even a very small fire?"
+
+"Gregor!."
+
+"Just checking how serious the test is."
+
+"System," Bart said. "Initiate emergency drill."
+
+The Archive shuddered slightly. Thin amber arrows suddenly ignited along the floorboards, pointing toward approved transit routes.
+
+Then, a deep, resonant voice echoed from the ceiling.
+
+ATTENTION PLEASE. EMERGENCY RELOCATION PROCEDURE ACTIVE. PLEASE LEAVE ALL ARCHIVE MATERIAL ON THE NEAREST READING SURFACE. DO NOT ATTEMPT TO FINISH YOUR CHAPTER.
+
+Elian immediately looked down at his book sighed and closed it.
+
+Mabel stepped beside the plain white door of the Staff Restroom. "Class A."
+
+Elian followed the amber arrows toward her. In drill mode, the portal remained closed, but the System interface above the door verified his return anchor as he reached the threshold.
+
+Across the hall, a second set of amber arrows illuminated the boundary of the Large-Format Reading Bay.
+
+CLASS C PRIMARY ROUTE: AVAILABLE CLASS E REFUGE POSITION: CONFIRMED
+
+Bernard shifted one enormous foreleg inside the marked boundary. "Adequate," the dragon rumbled.
+
+Only then did Bart turn to the staff.
+
+"Albert, take Patron Services and the western public rooms," Bart ordered. "Gregor, Cross-Reference and the accessible east stacks. Nobody enters closed collection space."
+
+Gregor disappeared between the nearest restored shelves. It took less than four minutes. He reappeared, slightly out of breath. "Empty."
+
+"You checked everything?" Bart asked.
+
+"Boss, I spent most of my life learning how to get out of buildings before the people inside knew I was there."
+
+Albert emerged a moment later from the opposite side. "All currently open public zones are clear, sir."
+
+Bart checked the interface.
+
+DRILL COMPLETE Patrons accounted for: ALL
+
+Staff accounted for: ALL
+
+Transit assignments: COMPLETE
+
+CURRENT-OCCUPANCY DRILL: PASSED
+
+FULL-CAPACITY VALIDATION: UNAVAILABLE
+
+Reason: Maximum safe occupancy undefined.
+
+Bart stared at the final line. The drill itself had worked flawlessly at their current scale though he couldn't prove it would work when the Archive was full, because he still didn't know what "full" really meant. He sighed and submitted the procedure anyway.
+
+EMERGENCY & EVACUATION PROCEDURE
+
+Documented: YES
+
+Tested: YES
+
+Access Guardian responsibilities: ASSIGNED
+
+Emergency transit classification: ACTIVE
+
+Large-format refuge provision: ACTIVE
+
+The blue text flared, then resolved.
+
+ACCREDITATION DEFICIENCY 3 - REMEDIATED REMAINING DEFICIENCIES: 4
+
+Bart smiled for once, It was a small victory.
+
+Then, another line appeared beneath it.
+
+EVACUATION CAPACITY VALIDATION
+
+Maximum safe patron occupancy: NOT ESTABLISHED
+
+Current compliance: CANNOT BE DETERMINED
+
+Gregor leaned over the desk. "Does that mean we're over the limit?"
+
+"It means we don't have a limit," Bart said, watching the text pulse.
+
+Gregor thought about this. " Isn't that better."
+
+"It really isn't."
+
+Bart pulled the next blank sheet of parchment toward him.
+
+DEFICIENCY 4 - PATRON CAPACITY STANDARDS UNDEFINED
+
+He looked around the Reading Room.Two patrons with plenty of space.
+
+Bart was about to write something down when from somewhere above the desk, the System chimed.
+
+REMOTE ACCESS REQUESTS: 314
+
+CURRENTLY ELIGIBLE FOR PHYSICAL ADMISSION: 47
+
+He groaned and put his head down on the table.

@@ -1,0 +1,201 @@
+The Infinite Archive was a recognised, externally accountable operating institution for the first time in 616 years. However Bart & Co's attention was captured by the amber screen they were looking at :
+
+KEEPER #4,091
+
+OFFICE TERMINATION RECORD
+
+REVIEW STATUS: AUTHORISED
+
+Gregor said. “Shouldn't we celebrate first?”
+
+Bart stared at the text. He thought about the critical temporary measures, the shutters sealing Endpoint 3-7, and the centuries of silence that had defined his predecessor's legacy.
+
+“After we know whether my predecessor destroyed the Archive,” Bart said.
+
+Gregor sighed “Celebrations can wait then I guess.”
+
+Bart tapped the notification, authorising the unlock. He expected a flood of administrative files, personal logs, and mediation reports to pour onto the interface. Instead, the Archive granted the absolute minimum permitted by its restored external status.
+
+SUCCESSION RECORD ACCESS: LIMITED
+
+AUTHORISED RECORDS: 1
+
+SUPPORTING DOCUMENTS: RESTRICTED
+
+CROSS-REFERENCE ACCESS: PARTIAL
+
+Gregor looked at the list of severe restrictions. “That is a very small amount of transparency.”
+
+“It is considerably more transparent than nothing, Master Gregor,” Albert replied, his skeletal hands clasped formally before him.
+
+With no other record available, Bart pressed to open the single authorised file.
+
+Before the file displayed, the interface flared a stark, brilliant white, initiating a standard security protocol.
+
+IDENTITY AUTHENTICATION: ACCEPTED
+
+RELATION TO RECORD: SUBJECT
+
+Bart froze, his finger hovering over the glass. “I am not the subject.”
+
+The screen flickered violently, the text fragmenting for a fraction of a second before resolving into a new line.
+
+RELATION TO RECORD: SUCCESSOR
+
+Bart let out a tense breath. “A damaged record error?” he tried, looking at the others.
+
+Ada narrowed her eyes at the screen, but it was Albert who answered. As Chief Custodian, he had survived more of the Archive’s damaged operation than anyone present, though even his own memories remained fragmented.
+
+“I have seen the Archive confuse dates, titles, and occasionally even deaths,” Albert said carefully. “I do not remember it confusing a successor with the subject of a succession record. Unfortunately, I also do not remember enough to promise you that it never has.”
+
+Bart looked at him. “That is not reassuring.”
+
+“It was not intended to be, sir.”
+
+With no reliable explanation available, Bart turned back to the tablet, where the glitch had vanished, replaced entirely by the administrative reality of the past.
+
+KEEPER: #4,091
+
+KEEPER TENURE: TERMINATED
+
+TERMINATION METHOD: KEEPER-INITIATED AUTHORITY SEVERANCE
+
+AUTHORITY TRANSFER: NOT COMPLETED
+
+DESIGNATED SUCCESSOR: NONE
+
+RECORDED DEATH: NONE
+
+TIME BEFORE GREAT DIVERGENCE: 00:00:03
+
+ARCHIVE FAILURE CASCADE: COMMENCED CONCURRENTLY
+
+For several seconds, nobody spoke.
+
+“Then he survived the severance,” Bart said. “Morzath saw him for a brief time during the collapse.”
+
+“Yes, sir,” Albert replied, pointing one finger at the screen. “But the record does not establish how long he survived or what became of him afterward.”
+
+Ada stepped closer “Could authority be severed accidentally? A catastrophic spatial failure during the Divergence might have shattered his connection to the administrative network.”
+
+Bart tapped the screen, relaying the question. “System, could the authority severance have been accidental?”
+
+KEEPER-INITIATED ACTION: CONFIRMED
+
+ACCIDENTAL EXECUTION: NOT PERMITTED
+
+CONFIRMATION STEPS COMPLETED: 7 OF 7
+
+Ada crossed her arms. No one accidentally confirmed 7 steps. “It was deliberate.”
+
+“System,” Bart said, his voice tightening. “What functions were lost when Keeper #4,091 severed his authority?”
+
+KEEPER AUTHORITY WITHDRAWN FROM:
+
+TRANSIT OVERSIGHT
+
+STRUCTURAL ARBITRATION
+
+COLLECTION CONTAINMENT
+
+SUCCESSION INITIATION
+
+EMERGENCY COMMAND
+
+“If the structural diversion and the severed route were parts of the same emergency response,” she said, “then Keeper #4,091 withdrew the only authority capable of coordinating them immediately before the network failed.”
+
+“If they were his,” Bart said.
+
+“Correct,” Ada replied. “We have chronology. We do not yet have causation.”
+
+Bart looked at the timeline, trying to find the missing link. “System, did the Great Divergence occur because the Keeper severed his authority?”
+
+CAUSAL RELATIONSHIP: NOT ESTABLISHED
+
+“Did he sever it because he knew the Divergence was coming?”
+
+CAUSAL RELATIONSHIP: NOT ESTABLISHED
+
+“Was he attempting to prevent it?” Bart pressed, desperate for a clear motive.
+
+INTENT RECORD: RESTRICTED
+
+Bart dragged a hand down his face. Three entirely plausible, completely contradictory interpretations remained alive. Keeper #4,091 might have caused the Ruin. He might have anticipated the Ruin and tried to prevent something even worse from happening. Or something external had forced him to choose between remaining Keeper and saving the Archive itself.
+
+Albert drifted toward the desk, his usual posture slumping slightly.
+
+“During the Ruin,” Albert said, his voice barely more than a dry whisper. “The Archive stopped answering properly. The containment fields buckled. The spatial routes shattered. For centuries, I believed the Keeper had been somewhere beyond the surviving core, desperately attempting to repair the damage. I assumed he was still trying to command it.”
+
+“We kept waiting for him to take control,” Albert said quietly.
+
+Bart looked at the termination record.
+
+“He couldn’t,” Bart said softly. “The man might have returned. The Keeper did not.”
+
+Albert had tried his best through centuries of decay, waiting for an order that could never come.
+
+Mabel shifted her massive paws, her tail flicking with slow, agitated precision. “Keeper authority was not meant to end without a successor. If he intended to relinquish it, to whom was he handing it?”
+
+Bart immediately turned and asked. “System, who was supposed to succeed Keeper #4,091?”
+
+ORIGINAL SUCCESSION HANDOFF: INCOMPLETE
+
+PRE-RUIN SUCCESSOR CANDIDATE: RECORD UNAVAILABLE
+
+NEXT KEEPER DESIGNATION RESERVED: #4,092
+
+PRE-RUIN APPOINTMENT: NOT COMPLETED
+
+Bart stared at the reserved numerical designation. It sat there, glaring and empty.
+
+“System,” Bart asked. “Was another candidate selected for designation #4,092 before me?”
+
+QUERY EXCEEDS AUTHORISED HISTORICAL ACCESS
+
+Bart swallowed hard, he needed facts he could verify.
+
+“System,” Bart ordered. “Provide the final action performed under Keeper #4,091’s authority before the severance.”
+
+The interface hesitated. A small red warning icon flashed in the corner of the screen.
+
+ACTION RECORD: RESTRICTED
+
+CATEGORY DISPLAY ONLY PERMITTED UNDER CURRENT ACCREDITATION
+
+“Display the category,” Bart said.
+
+FINAL EXERCISE OF KEEPER AUTHORITY: DESTINATION REVISION
+
+AFFECTED SERVICE: KEEPER MEDIATION DEPLOYMENT
+
+REVISED DESTINATION: RECORD UNAVAILABLE
+
+REVISION TIMESTAMP: RESTRICTED
+
+AUTHORITY SEVERANCE: 3 SECONDS BEFORE GREAT DIVERGENCE
+
+Bart stepped back from the desk as one part of the old mystery finally became clear.
+
+It was the Fae mediation conference, the diplomatic crisis his predecessor had supposedly failed to attend and which had hardened into six centuries of inter-realm grievance. Keeper #4,091 had not simply refused the assignment. He had accepted the mediation deployment and then changed its destination. The record did not reveal where he had gone, when he had arrived, or why he had redirected himself.
+
+“Why?” Albert asked, staring at the timeline. “Why would a Keeper abandon the Archive seconds before it needed him most?”
+
+Bart studied the administrative logic of the record. He thought about Ada’s warning that containment measures were not damage, and the iron shutters on Route 3 facing inward to protect the Archive from whatever lay on the far side.
+
+“He may not have been abandoning it,” Bart said quietly.
+
+Above the desk, the System appended one final, unprompted line of text to the bottom of the authorised record.
+
+CROSS-REFERENCE COMPLETE
+
+TERMINATION REQUEST: EXECUTED FROM REVISED DESTINATION
+
+Bart felt the cold stone of the floor beneath his shoes.
+
+The authority severance had not been executed before he left. It had been executed from the revised destination.
+
+Keeper #4,091 had gone somewhere else.
+
+Three seconds later, the Great Divergence as the system called it or Ruin began.
+
+Whatever #4,091 had intended, the Infinite Archive entered the Ruin without a Keeper.

@@ -1,0 +1,255 @@
+Gregor leaned over the drafting table in Architecture & Civic Works, staring at the glowing blue text.
+
+AVAILABLE SERVICEABLE READING CHAIRS: 22
+
+"We could always borrow some," Gregor suggested.
+
+"From whom?" Bart asked.
+
+"Tessera, Tremendia or even Greenhollow they won't notice a few missing."
+
+Bart looked at him. "Legally. We are not looting anyone’s infrastructure," . He tapped the interface, expanding the Archive's historical inventory.
+
+There were, in fact, thousands of seating units registered in the ancient database. Unfortunately, most of them shared the same status lines:
+
+LOCATION: UNVERIFIED CONDITION: UNKNOWN ACCESS ROUTE: OFFLINE
+
+Bart filtered the list to the immediate vicinity.
+
+RECOVERABLE FURNISHINGS WITHIN ACTIVE FACILITY: 61
+
+Bart brightened slightly. "61."
+
+ADDITIONAL SERVICEABLE WITHOUT REPAIR: 8
+
+The existing 22 serviceable chairs were already scattered through the Archive's active reading areas. Bart wasn't about to empty one room to furnish another.
+
+"It's a start," Bart said.
+
+They did not simply march down and kick the doors open. Reading Gallery B was about to transition from a dormant, sealed ruin into a public operating zone, which meant it fell under Mabel's jurisdiction.
+
+Bart stood at the Patron Services desk and adjusted the Archive's status.
+
+NEW PHYSICAL ADMISSIONS: TEMPORARILY PAUSED
+
+Reason: ACCESS GUARDIAN FACILITY INSPECTION
+
+Bernard and Elian remained undisturbed in their assigned reading areas; the pause applied only to new arrivals.
+
+Gregor frowned. "People have to wait because Mabel is looking at a door?"
+
+"Yes," Bart said.
+
+"A very large door," Mabel rumbled, pacing past the desk toward the eastern concourse.
+
+She spent several minutes inspecting the sealed entrance, checking the heavy iron hinges and the dormant magical wards for residual instability.
+
+Albert joined them at the eastern concourse. Once Mabel gave the clearance nod, he stepped forward and pushed the heavy double doors inward.
+
+A massive, billowing cloud of gray dust rolled out into the hallway.
+
+Gregor immediately backed away, covering his mouth.
+
+Albert walked straight through the cloud, completely unbothered. He stood in the center of the vast, silent room, his blue eye-lights sweeping over the accumulated grime of six centuries.
+
+"It requires substantial cleaning, I think sir," Albert said, his voice carrying a note of profound professional satisfaction.
+
+Inside, the physical reality of the old Archive finally matched the scale of its reputation. The room had once been designed to hold 240 readers, and the remnants of that capacity were everywhere.
+
+Many of the long tables were missing or collapsed, but several heavy stone benches survived intact. There were tarnished reading lecterns, faded floor markings guiding the non-existent traffic, and an abandoned service point near the back wall.
+
+They also found furniture that defied immediate explanation.
+
+STANDARD READING TABLE
+
+LOW-GRAVITY RESTRAINT DESK
+
+AQUATIC READING BASIN
+
+DRAINED PERCH ARRAY
+
+CONDITION: FAIR
+
+Gregor stopped in front of the tall metal frame of the perch array. He looked at the resting bars.
+
+"Chair?" Gregor asked.
+
+"No," Bart said.
+
+"Someone seems to have sat there."
+
+"Still no."
+
+Bart looked across the massive room. Restoring all 240 historical seats would take resources they didn't have. More importantly, it wasn't necessary.
+
+"System," Bart said. "Minimum initial service configuration for Gallery B."
+
+TARGET SEATING EQUIVALENTS: 32
+
+Accessible positions: 4
+
+Large-format positions: 0
+
+Staff observation point: 1
+
+Bart realized they didn't need to rebuild the entire room. They only needed to reopen a fraction of it safely. They salvaged the 8 serviceable chairs. Gregor stripped usable brackets, hinges, and braces from the broken furniture while Albert repaired 10 of the less hopeless chairs. Gregor was extremely good at taking things apart while Albert was considerably better at putting them back together correctly.
+
+They utilized the surviving fixed benches, which the System generously counted as multiple standard positions. Bart kept wanting to count physical pieces of furniture, but the interface patiently kept counting usable occupant spaces.
+
+With the seating arranged, Bart checked the next requirement.
+
+EMERGENCY LIGHTING: OFFLINE
+
+"That looks more complicated," Gregor said, eyeing the dark ceiling.
+
+"The emergency illumination was independent of the main Archive power network, sir," Albert explained, dusting off a wall panel near the entrance. "A localized spatial failure was not supposed to disable the marked routes."
+
+Bart found that oddly reassuring whatever else had failed, the old Archive had at least planned for emergencies. Albert unlatched a metal wall cabinet. Inside were rows of dormant crystals wired into the masonry.
+
+"Should I open it?" Gregor asked, reaching for the casing.
+
+Bart watched him. "Can you open it without breaking it?"
+
+"Those are totally different questions."
+
+Gregor meticulously bypassed the rusted locking mechanism without snapping the delicate internal pins. Several of the old safety crystals were cracked or dead, but enough survived intact. Bart directed the System to restore power only to the circuit serving the marked evacuation route, ignoring the dead zones at the back of the room.
+
+EMERGENCY ILLUMINATION
+
+Total gallery coverage: 68%
+
+Active evacuation-route coverage: 100%
+
+Active public seating-zone coverage: 100%
+
+COMPLIANCE: PASS
+
+They didn't necessarily restore the gallery but made it safely usable.
+
+Mabel took the next requirement, the Accessible Circulation Route extremely seriously. The historical furniture arrangement failed the standard instantly. The old layout had assumed the presence of automated retrieval carts and pneumatic delivery tubes.
+
+Albert hesitated, his skeletal hands resting on a table. "The west tables were historically aligned with the central aisle, sir."
+
+"Would the old arrangement work now?" Bart asked.
+
+Albert looked at the dead retrieval hatch built into the wall, then at Gregor's manual trolley. "No, sir." A functioning Archive mattered more than nostalgia. Together, they shoved the heavy tables outward, widening the central artery to accommodate more pedestrian traffic.
+
+For the Egress Certification, they ran a localized evacuation test. Mabel paced the primary route from the furthest planned seat through the gallery doors and onward to the Staff Restroom. Then she tested the separate fallback route to the Large-Format refuge.
+
+ACCESSIBLE CIRCULATION ROUTE: PASS
+
+EGRESS CONFIGURATION: PASS - PROVISIONAL
+
+Bart frowned at the blue text hovering above the doorway. "Why provisional?"
+
+The System immediately identified the final hurdle.
+
+STRUCTURAL STABILIZATION: INCOMPLETE
+
+Bart knew the gallery's overall integrity was sitting at 71% . "System, what specifically needs repairing?"
+
+The interface produced a highly targeted list of defects.
+
+Two compromised support arches
+
+One cracked spatial load anchor
+
+One floor section subject to variable compression
+
+Legacy expansion joint failure
+
+Architecture & Civic Works could identify the problems, the standards and the repair specifications. But at the bottom of the list, a hard requirement threw a spanner in their work..
+
+EXECUTION / CERTIFICATION REQUIREMENT Qualified structural practitioner required.
+
+"Define qualified," Bart said.
+
+FACILITIES ENGINEER
+
+Appropriate specializations: Structural Spatial Dimensional Load bearing enchantment
+
+Current Archive personnel qualified: 0
+
+Gregor looked around the dusty room. "Albert?"
+
+"Custodian, sir," Albert replied.
+
+"Mabel?"
+
+"Access Guardian," the Sphinx rumbled.
+
+Gregor looked at Bart.
+
+" Keeper," Bart said.
+
+Gregor pointed to himself.
+
+Bart didn't even need to check the interface. "No."
+
+"You didn't even ask."
+
+Bart looked at the compromised arches spanning the far end of the gallery. He couldn't magically invent an engineering degree, and he certainly wasn't going to let Gregor attempt structural load bearing enchantments with a lockpick. "System," Bart said. "Can the gallery operate safely without structural intervention?"
+
+PARTIAL OCCUPANCY POSSIBLE Unsafe zone may be isolated.
+
+Maximum additional capacity: +14 SPE
+
+Full restoration capacity: +38 SPE
+
+Bart had a choice either wait indefinitely for a perfect solution, or reopen a smaller, verified safe section right now. He chose to go with the smaller safe section.
+
+They recovered several queue liners and faded velvet ropes from the abandoned service point and barricaded the compromised half of the room. Mabel formally signed off on the restricted access boundary. Albert stared at the roped off area, clearly hating it, but he tolerated it for the sake of the institution.
+
+USABLE SEATING WITHIN VERIFIED ZONE: 18
+
+The System chimed, signaling the end of the project.
+
+READING GALLERY B - PARTIAL SERVICE
+
+Public zone restored: 41%
+
+Additional verified capacity: +14 SPE
+
+Current verified public capacity: 42 SPE
+
+Recommended initial operating limit: 31.5 SPE
+
+Current patron allocation: 7.2 SPE
+
+Available patron operating capacity: 24.3 SPE
+
+Beneath the capacity update, a persistent warning lingered.
+
+Structural works are outstanding.
+
+FACILITIES ENGINEERING SUPPORT: REQUIRED FOR FULL RESTORATION
+
+Bart left the warning active. The Archive was growing beyond what its current personnel could safely maintain. For the first time, Facilities Engineer looked more like a vacancy for a growing company.
+
+Bart walked back out to the main hall and checked the Patron Services interface.
+
+AVAILABLE OPERATING CAPACITY: 24.3 SPE
+
+ELIGIBLE PHYSICAL ADMISSION REQUESTS: 47
+
+ADMISSION QUEUE READY
+
+Bart looked through the open doors at the newly usable gallery. Opening it created another problem.
+
+"Albert, Gallery B for the first service period," Bart said.
+
+Albert inclined his skull. "Of course, sir."
+
+"Gregor, retrieval and Patron Services."
+
+Gregor looked toward the distant stacks. "Again?" he shrugged and started slowly moving towards his cart.
+
+Mabel had already returned to Access and that left Bart at the main desk.
+
+Four people, Two public reading areas, an entrance, a retrieval system that consisted mostly of Gregor walking about, and 47 people waiting. The Archive had gained 14 units of capacity. It had not gained even 1 more additional staff.
+
+Bart sighed and tapped the interface.
+
+"Now we let some people in."
+
+LIMITED ADMISSIONS OPEN - The System chimed

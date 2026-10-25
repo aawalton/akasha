@@ -1,0 +1,215 @@
+Bart turned the first page of the original Treatise on Living Cultures. The heavy parchment was nearly faded. It was less a finished manuscript than scribbles of overlapping script, edits, and archaic notation. The three professors immediately leaned in, their eyes darting across the chaos, trying to make sense of their own territories out of the text.
+
+Hester pointed a thick finger at a paragraph describing fruit culture stabilization. "Edith Vetch. Clearly." Conrad spotted a dense cluster of substrate equations near the bottom margin. "Ashcombe." Maud traced a line of text referencing fungal symbiosis. "Dorr." Hester frowned, pointing at a section on grafting. "That is undeniably a Pomological technique."
+
+The academics continued to bicker, pointing out every sentence that faintly resembled their modern disciplines. But Gregor wasn't looking at the sentences. He didn't understand the academic talk, so his eyes naturally drifted to the negative space the margins, the headers, the gaps between the paragraphs.
+
+He had survived on the streets by noticing repeated marks like patrol patterns or graffiti scribbles by gangs.
+
+He pointed at the edge of the parchment.
+
+"Boss."
+
+"Yes?"
+
+"Those scratches keep repeating," Gregor said.
+
+Bart stopped turning the pages. He looked closer at the margins.
+
+The faded marks weren't simply miscellaneous scribbles or ink blots. They were distinct, deliberate symbols. There weren't a lot of unique marks, but exactly seven basic shapes, appearing individually and in heavily clustered combinations next to every major claim in the manuscript.
+
+Gregor counted them on the next page. "Seven again."
+
+"Yes," Bart said softly.
+
+Bart saw why the handwriting alone wasn't enough. A passage physically penned by Edith might carry Edith, Bramwell, and Crispin’s marks. Another passage written by Merrick might carry all seven. Handwriting and attribution were not the same thing.
+
+"Then what are the marks recording?" Elian asked, following Bart's gaze.
+
+"Not who held the pen," Bart said. "Where the claim or idea came from."
+
+He pulled away from the manuscript and crouched slightly, inspecting the side of the heavy Rooted Quill indexing desk. He ran his hand along the wood paneling beneath the green glass plate until his fingers caught a small, nearly invisible seam. He pressed it.
+
+A tiny, shallow reference drawer slid open. A tarnished brass plate sat inside.
+
+DEPOSIT MARKING STANDARDS
+
+Gregor stared at the drawer. "They kept instructions for their own filing system?"
+
+Bart looked up, almost offended. "Of course they did, they were nothing but precise"
+
+He wiped the dust from the brass plate.
+
+ROOTED QUILL CLAIM ATTRIBUTION STANDARD
+
+Single root mark: Independently derived claim
+
+Multiple root marks: Jointly derived claim
+
+Full root cluster: Collective foundational claim
+
+Writing hand does not establish intellectual provenance.
+
+The seven contributors had already solved exactly the problem Bart was currently facing. Hester immediately leaned over the manuscript. "Then we simply count the marks. The Pomological root appears independently on page 4, 7 , and…"
+
+"The Soil Alchemy root is present in every major section!" Conrad interrupted, leaning heavily on the desk.
+
+"Mycology and Bryology share the highest number of joint marks," Maud noted, her eyes darting across the margins.
+
+Bart placed his hand flat on the parchment, covering the page.
+
+"We are not counting points," Bart said.
+
+Gregor crossed his arms. "I was."
+
+"Stop."
+
+Gregor looked at the three professors. “So the records say seven people shared the work, and you're arguing over who shared it the most?”
+
+Nobody had an answer.
+
+Bart looked at the 617 shared foundational claims logged by the system. The problem was never which one of the seven wrote each claim. The problem was which combination of roots supported each claim. Some claims were rooted in Edith's work alone, Some others were rooted jointly in Agnes and Merrick. Some drew from Edith, Bramwell, and Nella. And some carried all seven roots.
+
+"We've been trying to divide the Treatise into seven piles," Bart realized.
+
+Elian looked at him. "And?"
+
+"It wasn't written that way."
+
+Elian suddenly froze and stared at the densely annotated page Bart had just uncovered.
+
+"Wait a minute"
+
+Elian pulled off his satchel and unbuckled the flap. He reached inside and pulled out the three green bound books.
+
+He placed all three books on the desk, right next to the  ancient manuscript. They were the three texts that had started this entire ordeal, the circular citing loop that Elian had brought to the Archive days ago.
+
+"Bart," Elian said, his voice tight.
+
+Elian pointed to a sprawling, heavily annotated derivation taking up the entire bottom half of the original manuscript page.
+
+"This is my formula."
+
+Bart leaned closer. "The same result?"
+
+"No," Elian said, tracing the archaic variables with a shaking finger. "The same derivation. They've simplified the notation in the modern texts, but this is the full experimental proof. This is where it comes from."
+
+It was the living culture stabilization relation. The exact formula Elian had been trying to trace.
+
+Bart looked at the margin next to the foundational derivation.
+
+It did not bear a single root mark. It bore the full cluster of all seven symbols.
+
+Bart pressed the heavy parchment against the indexing plate.
+
+FOUNDATIONAL CLAIM 117 Subject: Living system thaumaturgical stabilization Attribution roots: I / II / III / IV / V / VI / VII
+
+Attribution mode: JOINTLY DERIVED
+
+Public publication identity: ALDOUS VERIDIAN
+
+Silence hung over the desk.
+
+"All seven?" Elian asked softly.
+
+"All seven," Bart said.
+
+Hester's jaw tightened. "Vetch's orchard experiments were fundamental to that…"
+
+"Ashcombe's substrate work clearly provided the base mathematical…" Conrad started.
+
+"Without the fungal cultures…" Maud tried.
+
+"Jointly," Bart said firmly. "Derived."
+
+Elian stared at the heavy ink strokes on the parchment. "So who actually wrote the formula?"
+
+"The record doesn't establish who physically wrote the notation," Bart said.
+
+Elian frowned. "Then what does it establish?"
+
+"Who contributed to the claim?"
+
+"And?"
+
+Bart looked at the seven root marks clustered together in the margin. "All seven of them."
+
+Bart pulled out his notepad. He could finally see a possible shape to Elian's circular citation problem. The three green books might not have been competing primary sources at all. They could have been later descendants of the exact same foundational claim.
+
+But that was still an assumption, and Bart did not just assume.
+
+He placed his hand on the green glass indexing plate. "Citation history. Claim 117."
+
+The glass flared to life.
+
+CLAIM 117 - DERIVATIVE CITATION HISTORY
+
+Original publication source: Treatise on Living Cultures
+
+Early disciplinary derivatives: VERIFIED
+
+Direct foundational citations: PRESENT
+
+Later abbreviated editions: ROOT REFERENCE OMITTED
+
+Cross-disciplinary supporting citations: ADDED
+
+Current condition: CIRCULAR DERIVATIVE CHAIN
+
+Root relationship: LOST
+
+Bart pulled his pen out and sketched the confirmed diagram on his notepad.
+
+Treatise on Living Cultures / Claim 117
+
+↓
+
+Early disciplinary descendants
+
+↓
+
+Book A / Book B / Book C ↺
+
+Elian looked at the sketch. "So none of my three books was the original source."
+
+"No," Bart said.
+
+"Then what was missing?"
+
+Bart tapped the massive, sprawling manuscript of the Treatise.
+
+"Not a source," Bart said. He drew a firm line connecting Elian's three books directly back to Claim 117. "A relationship."
+
+The indexing plate chimed, responding to the restored structural framework.
+
+FOUNDATIONAL CLAIM PROVENANCE IDENTIFIED
+
+Claim attribution framework: VERIFIED
+
+REFERENCE ANOMALY
+
+Primary publication: LOCATED
+
+Foundational claim: LOCATED
+
+Attribution roots: VERIFIED 7
+
+Circular derivative chain: UNRESOLVED
+
+Dependent works: 316
+
+Wider certified protocol network: 6,214
+
+Required action: REBUILD VERIFIED CITATION CHAIN FROM ROOT
+
+Elian leaned over and read the staggering numbers at the bottom of the glowing glass.
+
+"We have to fix six thousand books?" Elian asked.
+
+Bart studied the verified attribution framework.
+
+"No."
+
+Bart turned back to the original claim.
+
+"We have to fix the beginning."

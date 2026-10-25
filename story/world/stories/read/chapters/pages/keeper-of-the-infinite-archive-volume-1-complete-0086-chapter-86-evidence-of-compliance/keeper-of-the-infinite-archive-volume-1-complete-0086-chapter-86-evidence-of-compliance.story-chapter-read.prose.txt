@@ -1,0 +1,237 @@
+Endpoint 3-7 remained exactly as Ada had left it: shuttered, braced inward, and marked DO NOT RECONNECT.
+
+Bart spent the remainder of the day resisting the urge to discover what the Archive had once been protecting itself from. Instead, he documented the orientation of the shutters, accepted Ada’s formal prohibition, and attached the entire finding to the Route 3 remediation record. Whatever lay beyond the endpoint, preserving the barrier was now part of operating the surviving circuit safely.
+
+With that decision recorded, all five accreditation deficiencies were ready for external review. Bart submitted the request to Silver Spire.
+
+Halver’s response contained seven words:
+
+RETURN INSPECTION SCHEDULED FOR NEXT PUBLIC OPENING
+
+She arrived exactly four minutes before it began and stepped briskly out of the dim corridor leading to the Staff Restroom, the exact route she had used to depart during her previous, visit. Her severe grey suit was immaculate, her clipboard was already drawn, and her expression was one of deep skepticism.
+
+Bart stood waiting at his desk. He had spent the morning preparing neatly ordered evidence files, one for each of the critical accreditation deficiencies Halver had cited previously. He tapped the first folder, ready to launch into a detailed summary of their operational remediation.
+
+Halver glanced at the folders, but did not reach for them. “I am here to inspect an operating repository, Keeper Sanders,” Halver said, her voice echoing sharply in the entrance hall. “Not its ability for paperwork.”
+
+Bart reluctantly moved his hands away from the folders though before he could suggest a starting point, Ada Kett stepped forward.
+
+“Auditor,” Ada said. “Before you proceed, you will observe the active safety boundaries. Gallery B remains restricted to transit only, with no more than 12 occupants permitted at any time. The temporary evidence quarantine bay in Sector 4 is entirely excluded from this inspection. Furthermore, Endpoint 3-7 on the holdings retrieval network is under a formal facilities prohibition. You will remain on the marked side of all survey boundaries.”
+
+Halver stopped and had a look at the goblin engineer, the licenses pinned to her lapel, and the unyielding posture of someone who would happily fail a monarch for not following the safety rules.
+
+Halver immediately stepped up to the edge of the nearest red chalk line without crossing it. She raised her clipboard.
+
+QUALIFIED FACILITIES OVERSIGHT: ACTIVE
+
+STOP WORK AUTHORITY: OBSERVED IN PRACTICE
+
+Bart just stared at Ada. She had managed to get the Archive passed a portion of the inspection before Bart had even managed to say good morning.
+
+“Very well,” Halver said, turning her attention back to the Keeper. “Deficiency One. Show me your public hours.”
+
+They walked across the hall to the Patron Services desk. Halver examined the polished plaque Albert had mounted beside the counter. She verified that the public service hours were explicitly tied to Archive Standard Time, that admission closed at a strictly defined hour, and that patrons already inside had clear, enforceable departure rules. She then noted the separate, controlled provisions for the After-Hours Reading Room and the emergency access protocols.
+
+Bart took a breath, preparing to explain the immense complexity of reconciling time dilation, lag, and temporal flow across multiple realms to arrive at a single standard.
+
+Halver interrupted him. “Can a patron determine whether you are open before travelling here?”
+
+“Yes,” Bart said.
+
+“Then the hours are defined.”
+
+DEFICIENCY 1 - PUBLIC SERVICE HOURS UNDEFINED: CLOSED
+
+Bart just blinked, the sheer simplicity of the assessment slightly offended him, considering the sheer mathematical agony he had to undergo to create the schedule.
+
+“Deficiency Two,” Halver continued, already moving. “Compensation. I require evidence that your framework is not merely theoretical.”
+
+Bart had the relevant documentation ready. He displayed the formally adopted staff compensation charter, the individual compensation elections, the funded Tremendian operational reserve, and the completed ledger for their first funded pay period. He also proudly pointed out Gregor’s newly approved provisional technical stipend.
+
+Halver ignored all that and turned directly to Gregor “Do you understand what you are being paid?” Halver asked him.
+
+“More than I did when I was stealing,” Gregor answered honestly.
+
+“Theft was not unpaid employment,” Bart reminded him quietly.
+
+Without being prompted, Gregor reached into his pocket and produced a small, neatly folded receipt card showing his base compensation payment and the separately authorised technical stipend, demonstrating that he had learned both to ask about his payment and to document it.
+
+He handed the card to Halver, then pointed toward Ada. “Can my technical stipend be made retroactive to the exact moment the engineer first handed me the gauge?”
+
+“That is outside the scope of this inspection,” Halver said, handing the card back.
+
+Halver then turned to Albert and Mabel, verifying that their own arrangements were entirely voluntary, thoroughly documented, and actively funded by the operational reserve. She made a few quick notations on her clipboard.
+
+DEFICIENCY 2 - STAFF COMPENSATION FRAMEWORK INOPERATIVE: CLOSED
+
+FUTURE REVIEW REQUIRED: SUSTAINABLE FUNDING BEYOND CURRENT GUARANTEE
+
+Bart exhaled slowly, The future review requirement did not block their immediate accreditation; it simply kept the financial reality alive. He still had to find a way to pay for the Archive once King Aurelius’s 30 day funds ran out.
+
+By the time Halver finished examining the compensation records, public hours had already begun. Mabel had admitted a small group of patrons under the Archive’s normal SPE limit.
+
+“Deficiencies 3 and 4,” Halver announced. “Evacuation and capacity. I will not accept theoretical reports without a practical test.”
+
+She stopped in the middle of the primary junction connecting the main hall to the deeper corridors.
+
+“This is a drill,” Halver declared, pointing at the floor. “A catastrophic, localized dimensional collapse has rendered this corridor impassable. Evacuate the facility.”
+
+The staff responded instantly. Mabel stepped in front of the main entrance, her tail sweeping across the floor as she formally suspended all new admissions. Ada swiftly checked the partial structural plans, identifying exactly which secondary corridors lacked the certified load capacity to handle a panicked, redirected crowd.
+
+Bart kept his eyes locked on his tablet, monitoring the total active Standard Patron Equivalents (SPE) inside the building.
+
+Albert glided rapidly between the reading tables, directing the patrons currently inside toward their assigned exits. The System ensured the appropriate persons were assigned the right egress exits.
+
+Gregor checked the exposed sections of Route 3 that crossed the emergency egress paths, confirming that the tracks and suspended carriers created no obstruction.
+
+“Evacuation complete,” Bart announced, checking the timer on his tablet.
+
+They had concluded the drill well within the published Silver Spire standard. More importantly, Halver checked the system logs and verified that the Archive had remained below its operating SPE limit throughout the entire redirected movement.
+
+DEFICIENCY 3 - EMERGENCY AND EVACUATION PLAN INCOMPLETE: CLOSED
+
+DEFICIENCY 4 - PATRON CAPACITY STANDARDS UNDEFINED: CLOSED
+
+Mabel looked at Halver from the main doors. “Is the drill formally concluded before I reopen admission?”
+
+“It is,” Halver said. She gave the Sphinx a rare, approving nod, appreciating a security officer who did not operate on assumptions.
+
+“Deficiency 5,” Halver said, turning back toward Patron Services. “Holdings retrieval. Show me.”
+
+Halver did not ask Bart to retrieve a pre-selected, prepared item. She pulled up the Archive’s public catalogue and selected an ordinary, eligible book from the North Diplomatic collection. She deliberately chose something that was not restricted, not hazardous, comfortably within the certified carrier weight limit, and accessible via the surviving Route 3 local circuit.
+
+Gregor took his station at the Patron Services intake assembly while Albert remained beside the counter to observe the test.
+
+Gregor followed Ada’s certified procedure with deliberate precision. He confirmed that Halver’s requested volume possessed a verified shelf location, remained within the maximum carrier-weight limit, and was approved for automated handling. He entered the catalogue number into the routing controls and confirmed the North Diplomatic endpoint.
+
+He picked up his new journey ledger and recorded the outward trip using standardized marks.
+
+Gregor pulled the lever, the empty padded carrier vanished into the dark tube with a sharp rush of displaced air.
+
+The route indicators advanced through the isolated circuit. Several minutes later, a blue signal illuminated the control board.
+
+NORTH DIPLOMATIC STACK SELECTOR: ACTIVE
+
+SHELF LOCATION: VERIFIED
+
+REQUESTED ITEM: ACQUIRED
+
+RETURN TRANSIT: INITIATED
+
+Far beyond the eastern wall, they heard the faint clank of the selector loading the volume into the carrier.
+
+Gregor monitored the strain gauge throughout the return journey, his eyes following the needle closely. The carrier finally slid into the Patron Services intake assembly with a metallic clank.
+
+Inside was the exact diplomatic volume Halver had requested.
+
+Gregor checked the catalogue number against the request, recorded the completed journey in the ledger, and stepped back, ensuring the red emergency stop remained physically accessible. The automated retrieval had succeeded well within the published service time.
+
+Halver walked over to the desk and examined Gregor’s open ledger. She pointed to one specific, jagged symbol drawn beside the return timestamp.
+
+“What does this indicate?” Halver asked.
+
+“The carrier made an unpleasant noise,” Gregor explained seriously. “But Madam Engineer determined it was not yet an expensive noise.”
+
+Ada looked over from the track. “Increased vibration within the permitted range.”
+
+Gregor pointed firmly at his jagged symbol. “That is considerably harder to draw.”
+
+Halver did not smile at that, but she checked a box on her clipboard.
+
+HOLDINGS RETRIEVAL DEMONSTRATION: SUCCESSFUL
+
+Halver walked up to the Sector 3 and looked up from the ledger, her gaze tracing the rails until they reached the sealed isolation assembly Ada had inspected the day before. She noticed the bright red prohibition tag attached to the heavy iron valves of Endpoint 3-7.
+
+“Your retrieval network remains incomplete,” Halver noted.
+
+Bart did not scramble for an excuse but explained the engineering reality.
+
+“The surviving local circuit has been provisionally certified under strict operating limits,” Bart said calmly. “Endpoint 3-7 was professionally disconnected before the Ruin. Its destination and its far side condition are entirely unknown. Our contracted facilities assessor has classified the disconnection as an active containment measure rather than a malfunction. Reconnecting it would violate the current facilities safety order.”
+
+Halver did not ask Bart if his explanation was correct but immediately turned directly to Ada.
+
+“Can the local circuit operate safely while that endpoint remains isolated?” Halver asked.
+
+“Yes,” Ada said.
+
+“Can the entire network operate safely?”
+
+“No.”
+
+Halver turned back to Bart. “You may possess an override for that. Why haven't you used it?”
+
+Bart looked at the shutters, the bolts and braces designed to keep something out. He wanted to authorize that reconnection more than anything to find out more of what really happened.
+
+“Because an available override is not evidence that using it is safe,” Bart said.
+
+Halver held his gaze for a long moment. Then, she raised her clipboard.
+
+“Knowing which service you cannot safely provide is part of providing the services you can,” Halver said softly.
+
+DEFICIENCY 5 - HOLDINGS RETRIEVAL CAPACITY INSUFFICIENT: CLOSED
+
+Halver walked back to Bart’s Main Desk. She stood in the center of the hall, compiling the final data on her clipboard. Bart waited, his muscles tight, bracing himself for another unexpected deficiency, a hidden technicality, or a sudden demand for a nonexistent permit.
+
+Halver issued only the single recommendation regarding sustainable future funding. She tapped her stylus against the glass. The primary interface above Bart’s desk chimed, the sound echoing cleanly off the stone ceiling.
+
+SILVER SPIRE PROVISIONAL PARTNER STATUS: SUPERSEDED
+
+EXTERNAL REPOSITORY STATUS: RECOGNISED
+
+INTERLIBRARY PARTNERSHIP: ELIGIBLE
+
+NEW RESEARCH ACCESS: PERMITTED WITHIN PUBLISHED CAPACITY
+
+OUTSTANDING DEFICIENCIES: 0
+
+Bart did not say anything. For several long seconds, he simply stared at the glowing blue text, allowing himself to be profoundly, genuinely pleased. They had actually done it.
+
+Albert stepped forward, clasping his skeletal hands over his chest. “Allow me to formally congratulate you, Keeper Sanders.”
+
+“The finding accurately reflects our current operations,” Mabel stated from the doorway, which, coming from the Sphinx, was high praise.
+
+Gregor stared at the interface. “Do recognised institutions pay larger technical stipends?”
+
+“Compensation negotiations remain outside my authority,” Halver told him, sliding her clipboard into her grey satchel.
+
+“Then Silver Spire recognition has limited practical value,” Gregor murmured.
+
+Ada pulled out her own ledger and officially recorded the Archive as fit for restricted public operation under its current limits.
+
+Bart turned to the goblin engineer. “Does the formal accreditation change your decision about remaining here?”
+
+Ada looked around the massive hall and gestured with her stylus. “I already accepted a 30 day assessment,” she reminded him. “Recognition has not resolved your 63 temporary measures. Some of them may still be holding the ceiling up.”
+
+“So you’re staying?”
+
+"At least for 30 days.”
+
+Halver offered a brief, professional nod, turned on her heel, and marched back down the dim corridor toward the Staff Restroom.
+
+As soon as she disappeared, the Infinite Archive reacted to its new status. Silver Spire recognition formally restored the Archive’s standing as an operating external repository, satisfying an archaic condition for limited access to its succession records.
+
+Bart’s tablet pulsed in his hand.
+
+EXTERNAL REPOSITORY RECOGNITION: VERIFIED
+
+INSTITUTIONAL OPERATING STATUS: RESTORED
+
+SUCCESSION RECORD ACCESS: EXPANDED
+
+LIMITED HISTORICAL REVIEW: AVAILABLE
+
+Bart stared at the screen as a new file generated itself out of the locked depths of the Archive’s sealed history.
+
+KEEPER #4,091
+
+OFFICE TERMINATION RECORD
+
+REVIEW STATUS: AUTHORISED
+
+Bart read the notification twice, his heart hammering against his ribs. The question that had followed him since discovering the erased traces of Keeper #4,091 was finally sitting within reach.
+
+Albert glided closer to the desk, his hollow eye sockets fixed on the glowing message.
+
+“Does it say what happened to him, sir?” Albert asked quietly.
+
+“No,” Bart said. “But it may finally let us ask.”

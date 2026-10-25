@@ -1,0 +1,641 @@
+The morning continued quietly at the archive after Aurelius and co had left the building. The newly activated Reference & Cross-Reference section was quietly processing the backlog, rebuilding verified relationships for holdings whose old catalogue records were incomplete.
+
+DING.
+
+A small bell chimed from the desk. A stiff, rectangular catalogue card emerged.
+
+LEGACY ACQUISITION RECORD - INCOMPLETE
+
+Holding: Bounty Poster
+
+Section: CRIME AND BOUNTIES
+
+Classification: CRIMINAL RECORDS
+
+Restoration acquisition: #000001
+
+Subject: GREGOR THE THIEF
+
+Acquisition method: EXCHANGE
+
+Acquiring Keeper: #4,092
+
+Original source location: INCOMPLETE
+
+Transfer parties: UNRECORDED
+
+Provenance completeness: 31%
+
+Bart stopped as he read the card,
+
+Gregor peered over his arm. "Bad?"
+
+"Its Incomplete"
+
+"Who filed it?"
+
+Bart didn't want to answer that,
+
+Gregor looked at him. "Boss?"
+
+Bart adjusted his glasses, cleared his throat and said "It was my first day."
+
+Gregor grinned. "Excuses huh!"
+
+Bart slowly stared at him. Gregor immediately became extremely interested in opening a different drawer.
+
+Bart picked up the card. It was true, his very first act of archival intake had been exceptionally primitive. He had simply shoved the greasy, crumpled poster into the tray because, at the time, proper provenance had seemed less urgent than having a chair. That poster had become the Infinite Archive's first new holding in centuries, and it had helped the creation of the Crime and Bounties section.
+
+"We need the original," Bart said.
+
+They walked back through the aisles to the old Crime section.
+
+It was still there, sitting exactly where the system had first built it. It looked smaller than Bart remembered. Once, it had been almost the only functioning shelf in the entire building. Now, it was dwarfed by other rows of restored shelves as the archive health continued to improve. The yellow, greasy poster was still on a stand. Bart carefully removed it.
+
+Gregor looked at the crumpled parchment. "That's it?"
+
+"My first acquisition."
+
+"Looks like trash."
+
+"The System made a similar observation."
+
+Gregor frowned. "What's it actually say?"
+
+Bart hesitated,he realized, with a sudden, quiet clarity, that Gregor had never actually been able to read the document that brought him here.
+
+Bart handed the poster to him. "Read it."
+
+Gregor held the parchment close. His finger moved slowly beneath the first heavy, black word.
+
+"Wan..." He frowned. "Want?"
+
+"Wanted," Bart corrected gently.
+
+"Wanted."
+
+Gregor moved his finger to the next word. "Gregor." He stopped and looked up. "That's me."
+
+"Yes, continue…"
+
+His finger continued tracing the ink. "The... thief."
+
+He skipped the crude charcoal drawing of his face and moved to the bottom line.
+
+"Re... ward." Another pause. He squinted at the final two words. "Two pigs."
+
+Gregor lowered the parchment and stared straight ahead.
+
+"Two pigs?"
+
+"Yeah, it seems that was offered in exchange for your capture," Bart said.
+
+"That's insulting."
+
+"The theft?"
+
+"The price." Gregor held up the poster, genuinely offended. "Boss, I was worth at least three pigs."
+
+"That is not the lesson I hoped you would take from this," Bart said.
+
+Bart took the poster back and returned to the Cross-Reference desk. He placed the crumpled parchment on the indexing plate. He wanted it to correlate the original timestamp, the surviving portal transit record, and Gregor’s known origin point.
+
+The glass flared.
+
+SOURCE ROUTE PARTIALLY RECONSTRUCTED
+
+Holding: Bounty Poster
+
+Intake portal event: MATCHED
+
+Regional relationship: DOREN
+
+Source route confidence: 89%
+
+Original transfer parties: UNIDENTIFIED
+
+Provenance completion requires source confirmation where available.
+
+World: Varrow
+
+Region: Doren March
+
+Nearest settlement: Doren City
+
+Bart lifted the poster from the indexing plate and handed it back to Gregor.
+
+Gregor's expression changed when the name appeared. "Doren."
+
+Bart looked at him. "Where you grew up?"
+
+"Yeah."
+
+"Home?"
+
+Gregor looked down at the bounty poster in his hands. "Where I grew up. Not the same thing."
+
+Bart chose not to pry and tapped the green glass. He needed to finish his first intake properly. He explained how he had originally obtained the poster to Gregor.
+
+Gregor became increasingly amused. "You traded for it?"
+
+"Yes."
+
+"What did you give them?"
+
+"A pen."
+
+Gregor thought about it. "Good trade."
+
+"The pen jammed."
+
+"Still good."
+
+"They attempted to eat my legs."
+
+Gregor paused. "Not so good."
+
+Bart admitted that he had never gotten their names, never recorded their provenance, and fled before resolving their complaint about the broken pen.
+
+Gregor stared at him. "Boss."
+
+"Yes?"
+
+"Did you cheat two goblins?"
+
+"No." Bart paused. "At least not intentionally."
+
+He began preparing an outbound transit slip. "We're only returning to the cave," Bart said.
+
+Gregor looked relieved. "Good."
+
+Bart paused. "You don't want to visit the city?"
+
+Gregor glanced at the bounty poster. "Last time I was there, the guards were trying to hang me."
+
+"Fairpoint."
+
+Gregor watched Bart finalize the transit request. "We're travelling across worlds because you filled out your first form badly?"
+
+"There wasn't a form."
+
+Gregor looked horrified. "You really were new I guess."
+
+They stepped through the white STAFF RESTROOM door.
+
+OUTBOUND ACQUISITIONS: VARROW - DOREN REGION
+
+Historical source route: RECOVERED
+
+Destination accuracy: 78%
+
+Prior commercial relationship: UNRESOLVED
+
+Local condition: MUDDY
+
+Gregor looked at the final line. "Just muddy? "The door opened and there was an enormous amount of mud.
+
+Gregor stepped out into the wet cavern. "Accurate enough"
+
+It was the same cave system. And, sitting near a small, sputtering fire, were the same two goblins. Gregor's shoulders immediately tightened. Bart noticed his hand drifting closer to his belt.
+
+"Problem?" Bart asked quietly.
+
+"Cave goblins."
+
+"Yes."
+
+"They bite."
+
+One of the goblins picked his nose, examining the result with almost academic interest.
+
+Gregor lowered his voice. "Sometimes even before negotiating."
+
+Except these goblins weren't preparing an ambush, Instead, the broken blue BPL ballpoint pen had become a status object. It was mounted upright on a crude little stand built from stones, small bones, and silverware. One of the goblins was holding the pen aloft, aggressively waving it in the other's face. His words sounded like someone gargling rocks, but the Archive's translation field supplied the meaning automatically.
+
+"MY TURN TALK. YOU LISTEN."
+
+The other goblin sat in resentful silence.
+
+Bart frowned. "Is the pen deciding who gets to speak?"
+
+Gregor watched for a moment. His shoulders relaxed slightly. "Talking stick."
+
+"Excuse me?"
+
+"Whoever holds it gets to talk. Cave goblins use bones sometimes."
+
+Bart looked at the blue plastic pen. "It doesn't speak."
+
+Gregor shrugged. "Neither does a bone."
+
+He crouched slightly as they moved closer to the firelight. "Don't show them food, boss."
+
+"Why?"
+
+"Then it's a negotiation."
+
+"We're already here to negotiate."
+
+Gregor shook his head. "No, boss. A goblin negotiation."
+
+Bart decided not to ask what distinguished the two.
+
+One of the goblins finally turned and spotted them. He squinted at Gregor.
+
+Gregor squinted back.
+
+The goblin's eyes dropped to the yellow parchment poster under Gregor's arm. Then back to Gregor's face. His eyes widened.
+
+"PAPER DRAWN GUY!"
+
+Gregor straightened. "Acquisitions Assistant if you will"
+
+The goblin pointed a dirty finger at him. "DOREN THIEF!"
+
+Gregor considered it. "...Also maybe an ex thief."
+
+The goblin then pointed at Bart. "Wood Priest."
+
+The other goblin jumped up, pointing furiously at the crude shrine. "YOU BROKE MAGIC!"
+
+Bart stepped fully into the firelight. "Good afternoon. I require the blue pen."
+
+The goblin clutched the pen against his chest. "Why?"
+
+Gregor nodded toward Bart. "He can try to fix."
+
+Nobb narrowed his eyes. "Fix?"
+
+Bart held out his hand. "Well yes, that is the intention."
+
+The goblin slowly surrendered the pen.
+
+Bart examined it and found that the tiny spring mechanism was still jammed sideways inside the plastic casing. He clicked it firmly against the cave wall, pushing the cartridge back into place.
+
+CLICK!
+
+Both goblins hit the muddy ground.
+
+"STICK SPEAKS!"
+
+Bart clicked it again.
+
+CLICK.
+
+They stared up at him. "WOOD PRIEST FIXED MAGIC!"
+
+"I repaired a pen," Bart tried to correct them.
+
+One of them pointed reverently. "HE MAKE STICK SPEAK."
+
+Gregor sighed. "You're never fixing this."
+
+"Look like it." Bart pulled out his notepad. "For the record, I require your names."
+
+The first goblin puffed out his chest. "Nobb."
+
+The second pointed proudly at himself. "Hedd."
+
+Bart stopped writing. Gregor looked from one goblin to the other. "Nobb. Hedd."
+
+Bart looked at him and Gregor noticed. A slow grin spread across his face. "What?"
+
+"They are two separate names," Bart said smoothly.
+
+"I know, boss." Gregor pointed at the first goblin. "Nobb." Then the second. "Hedd."
+
+"Thank you."
+
+Gregor nodded solemnly. "Nobb Hedd."
+
+"Gregor."
+
+"Just learning the names, boss."
+
+Bart pulled out a fresh piece of parchment. He handed the clicking pen to Gregor. "Show them."
+
+Gregor hesitated. He gripped the pen awkwardly and slowly wrote a single word on the parchment and pointed at himself and said “GREGOR”
+
+GREGOR
+
+The letters weren't perfect, but they were legible. The goblins continued stared at the paper.
+
+Nobb pointed at Gregor and then at the parchment.
+
+"Small Greegoor."
+
+"No."
+
+"Flat Greegoor."
+
+"No." Gregor tapped the ink. "That's my name."
+
+Nobb gasped and stumbled backward. "You trapped name?"
+
+Gregor froze. He looked slowly at Bart. "Boss?"
+
+"You haven't trapped anything," Bart assured him.
+
+"Good." Gregor let out a breath. "Because Albert never explained that part."
+
+Bart looked at the two terrified, fascinated goblins and finally he looked at Gregor.
+
+"Why don't you show them?"
+
+Gregor stared at him in genuine alarm. "Show them what?"
+
+"How writing works."
+
+"Me?"
+
+"Yes."
+
+Gregor looked at the two mud covered cave goblins.
+
+"Boss. They're goblins."
+
+"So."
+
+"Goblins don't read."
+
+Bart looked at him. "Neither did you."
+
+Gregor opened his mouth.
+
+He closed it.
+
+"That feels targeted," Gregor said finally.
+
+"It wasn't."
+
+"Felt targeted." Gregor sighed and ran a hand through his hair. "Boss, I only just learned."
+
+Bart considered that. "Then you remember which parts were difficult."
+
+Gregor reluctantly sat down in the mud. The two goblins sat opposite him, watching the blue pen with reverence.
+
+Gregor drew a single letter.
+
+A
+
+Nobb immediately pointed. "Mountain."
+
+"No." He looked over his shoulder at Bart. "We're not doing the mountain thing."
+
+It went poorly immediately.
+
+"A makes an 'ah' sound," Gregor explained.
+
+Nobb stared at him. "Why?"
+
+"Because it does."
+
+"Why?"
+
+Gregor looked at Bart. "Why?"
+
+"That is a substantially longer linguistic question," Bart said.
+
+Gregor turned back to the goblins. "Boss doesn't know."
+
+"That is not what I said."
+
+To give them something concrete, Gregor held up the old bounty poster. "See? Letters make words. This one says I was worth two pigs."
+
+Nobb's ears perked up. "Two pigs?"
+
+Gregor pointed the pen at him. "Don't start."
+
+Nobb grinned. "Two Pig Man."
+
+Gregor closed his eyes. "I have made a mistake teaching you these words."
+
+Hedd took the pen and proudly wrote the A backward.
+
+"Wrong," Gregor said.
+
+"What?"
+
+"You reversed letters when you started."
+
+Gregor stared at the backward A. Hedd smiled proudly, waiting for praise.
+
+Gregor sighed heavily. "...Acceptable mountain."
+
+Gregor took the pen back and slowly wrote:
+
+NOBB
+
+He pointed at the first goblin. "That's you."
+
+Nobb stared at the letters. He looked down at himself. Then back at the parchment.
+
+"Small Nobb."
+
+Gregor sighed. "We've already been through this."
+
+Nobb snatched the pen and tried to reproduce it. It looked awful, more like squiggles than letters. Gregor looked at it for a long moment. Then he tapped the paper. "Again."
+
+Bart looked at Gregor.
+
+Gregor noticed. "What?"
+
+"Nothing," Bart said softly.
+
+Hedd immediately shoved Nobb aside and pointed at himself. "HEDD."
+
+Gregor sighed again. "Fine." He started writing.
+
+Bart quietly returned to his other pending paperwork.
+
+Gregor looked over. "Don't you want to see Nobb Hedd learn to read?"
+
+Bart's pencil stopped. "Two names, Gregor."
+
+"I know."
+
+To give them something to practice, Gregor carefully wrote out a few basic words on the parchment.
+
+NO EAT LEGS
+
+"Important rule," Gregor explained.
+
+Nobb looked suspiciously at the parchment. "Paper good fire."
+
+Gregor looked down at the parchment. "Yeah," he said quietly. "I used to think that too."
+
+Bart finished updating the original acquisition record.
+
+RESTORATION ACQUISITION #000001 -
+
+PROVENANCE UPDATED Holding: Bounty Poster
+
+Source location: Doren Region
+
+Transfer parties: NOBB / HEDD
+
+Acquisition method: VOLUNTARY EXCHANGE
+
+Consideration: ONE BEAUMONT PUBLIC LIBRARY BALLPOINT PEN
+
+Acquisition provenance: COMPLETE
+
+Gregor peered over his arm. "Nobb Hedd."
+
+Bart tapped the card. "The slash is important."
+
+"Very important slash, boss."
+
+Bart let the goblins keep the pen. He had traded it away originally; it was not his to reclaim.
+
+Nobb clicked it.
+
+CLICK.
+
+He looked up at Bart. "Trade good."
+
+Bart nodded. "Thank you."
+
+Gregor stared at him. "You came all this way for that?"
+
+"Among other things," Bart said.
+
+Transaction dispute: RESOLVED
+
+As they turned to leave, a smaller line of blue text appeared in the air beside Bart.
+
+STAFF DEVELOPMENT ACTIVITY NOTED
+
+Instructor: GREGOR
+
+Subject: BASIC LITERACY
+
+Instructor qualification: PROVISIONAL
+
+Students: 2
+
+Outcome: TECHNICALLY POSITIVE
+
+Gregor painstakingly read the last word. "Po...si...tive."
+
+Bart smiled slightly. "Correct."
+
+Gregor grinned. "Still counts."
+
+They walked toward the glowing white portal door.
+
+"GOODBYE WOOD PRIEST!"
+
+Nobb proudly held up his parchment. He hadn't mastered spelling, but he had aggressively copied the shapes Gregor had drawn for him. Across the paper, in huge, jagged strokes, was written:
+
+NO EAT LEGS
+
+Bart studied it. "Excellent progress euhh Nobb"
+
+Nobb beamed. He pointed at Bart's legs. "No eat."
+
+Gregor nodded approvingly.
+
+"GOODBYE TWO-PIG MAN!"
+
+Gregor stopped. He turned toward the goblins but Bart quickly grabbed his sleeve. "We're leaving."
+
+"Three pigs, boss."
+
+"To the Portal."
+
+"At least three."
+
+They stepped out of the STAFF RESTROOM door and back into the Infinite Archive.
+
+Albert was waiting near Bart's desk looking serious. A single sheet of black paper sat in the center of Bart's desk. Gregor peered around him. "More paperwork?"
+
+Bart didn't answer. He walked to the desk and picked up the black parchment. The message was short, written in sharp, deliberate script.
+
+KEEPER #4,092,
+
+You have restored Memory, Record and Citation.
+
+Do not mistake recovery for permission. Closure remains external. Do not attempt to open what was closed.
+
+- THE CURATOR
+
+Gregor had been trying to read over his arm. "Clo..."
+
+"Closure," Gregor finished.
+
+"Yes."
+
+Gregor looked at the black paper. "That's the fourth one isn't it."
+
+Bart looked toward the heavy iron doors of the East Wing and replied "Yes."
+
+He placed the black paper flat on the desk.
+
+"System," Bart said aloud. "Display the basis for the existing Closure Authority."
+
+A blue screen materialized instantly.
+
+CLOSURE - EXTERNAL Holder: ACTIVE
+
+Authority legitimacy: UNRESOLVED
+
+Closure determinations: SEALED
+
+Supporting records: UNAVAILABLE
+
+Closed holdings catalogue: UNAVAILABLE
+
+Physical location: UNAVAILABLE
+
+Bart stared at the screen. "That's a lot things unavailable."
+
+"That is rather the point of Closure, sir," Albert noted quietly.
+
+Bart wasn't finished though he quickly resorted to using cross reference.
+
+"Cross-reference the Closure Authority against existing Archive holdings."
+
+The System paused for a long moment.
+
+NO VERIFIED RELATIONSHIP AVAILABLE
+
+Relationship discovery: BLOCKED BY ACTIVE CLOSURE
+
+Bart frowned. "Blocked?"
+
+Greenhollow had been difficult because the historical relationships had been lost. This was different. Someone had deliberately made sure the relationships could not be searched.
+
+Bart looked at the black letter. Then at the Albert,
+
+"Albert."
+
+"Yes, Keeper?"
+
+"What exactly is the Closure Authority?"
+
+"It is the authority to decide that certain knowledge should no longer be accessible."
+
+Gregor frowned. "Ever?"
+
+"Sometimes."
+
+Bart tapped the desk. "Who reviews the decision?"
+
+Albert had no answer.
+
+Bart looked back at the glowing blue text.
+
+"System," Bart ordered. "Procedure for reviewing an external Closure determination."
+
+The Archive was silent for a long time.
+
+Then, the blue text finally responded.
+
+CLOSURE REVIEW
+
+Verification requirements: UNKNOWN
+
+Associated procedure: RECALL
+
+Status: DAMAGED

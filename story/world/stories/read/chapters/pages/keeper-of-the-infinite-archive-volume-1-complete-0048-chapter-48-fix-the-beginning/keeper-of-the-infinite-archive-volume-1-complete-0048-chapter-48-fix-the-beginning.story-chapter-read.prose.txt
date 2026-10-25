@@ -1,0 +1,317 @@
+"We have to fix the beginning," said Bart,
+
+Elian looked at the screen, then at the massive manuscript. "What does that mean?"
+
+Bart pointed at the Treatise. "Your three books aren't wrong because they cite one another. Scholars cite later work all the time."
+
+"Then what is wrong?"
+
+"They cite one another as the origin."
+
+Gregor nodded slowly, working through the logic. "So they can recommend each other."
+
+"Essentially," Bart said.
+
+"They just can't all claim the other one started it."
+
+Bart considered that. "Correct."
+
+He placed his hand on the indexing plate, preparing to establish the authoritative root for Claim 117 and its dependent citation chain.
+
+FOUNDATIONAL CITATION RECORD Work: Treatise on Living Cultures
+
+Publication identity: ALDOUS VERIDIAN
+
+Identity type: COLLECTIVE PUBLICATION IDENTITY
+
+Foundational claim: 117
+
+Claim attribution: JOINT — 7 VERIFIED ROOTS
+
+Exclusive departmental ownership: NONE
+
+Hester Crowl frowned at the display. "Pomology should be listed first."
+
+Bart didn't look up. "Why?"
+
+Hester opened her mouth but she couldnt come up with a valid response,
+
+"Should we try alphabetically like the ones at archive?" Gregor suggested.
+
+"That would at least be a system," Bart noted.
+
+He didn't immediately apply the correction to the thousands of dependent records. First, he needed to test it. He gestured for Elian’s three books and placed them on the indexing plate.
+
+The Rooted Quill system scanned the first text.
+
+CURRENT RELATIONSHIP:  Claim 117 origin attributed to: BOOK B
+
+Book B relationship: SECONDARY DERIVATIVE SOURCE
+
+Origin designation: UNSUPPORTED
+
+Supporting citation: VALID
+
+Then the second.
+
+CURRENT RELATIONSHIP: BOOK B Origin → C: UNSUPPORTED Supporting citation → C: VALID
+
+Then the third.
+
+CURRENT RELATIONSHIP: BOOK C Origin → A: UNSUPPORTED Supporting citation → A: VALID
+
+That was the crucial distinction. The citations themselves did not have to disappear. The books were genuinely related pieces of later scholarship. The false claim was simply that one of them was the original source. Bart adjusted the structure.
+
+Treatise on Living Cultures / Claim 117
+
+↓
+
+Book A / Book B / Book C
+
+Elian stared at the corrected diagram. "So Book A can still cite Book B?"
+
+"Yes," Bart said.
+
+"But not as the source of the formula."
+
+"Correct." nodded Bart
+
+Elian let out a long breath. Then he asked the most practical question of the entire week. "Then what am I supposed to cite?"
+
+"Veridian, Aldous. Treatise on Living Cultures. Claim 117."
+
+Elian stared at him. "I'm supposed to cite the elf who doesn't exist?"
+
+Bart adjusted his glasses. "The elf doesn't exist. The publication identity does."
+
+"And if someone wants to know who actually contributed?" Elian pressed.
+
+"They follow the attribution record."
+
+"To the seven contributors"
+
+The Rooted Quill plate pulsed, ready to apply the validated framework to the rest of the historical index.
+
+CORRECT FOUNDATIONAL RELATIONSHIP? Potential dependent records: 316 Wider protocol dependencies: 6,214
+
+PROPAGATE CORRECTION?
+
+Bart held on for a minute before saying anything,
+
+He remembered the rule mentioned by Keeper #4091 centuries ago.
+
+A missing relationship is not permission to invent one.
+
+"Will propagation infer any relationship not supported by the surviving records?" Bart asked the system.
+
+The green glass processed the query.
+
+NO; Procedure will:
+
+No new relationship will be inferred.
+
+Bart then nodded. "Proceed."
+
+As the system began working, Elian watched the indexing plate rapidly identifying the seven Rooted Quill symbols across the margins of the Treatise.
+
+"You don't have to check all six hundred shared claims yourself?" Elian asked.
+
+"I guess marks are already there," Bart said.
+
+"Then what was missing?"
+
+Gregor answered before Bart could. "We didn't know what the scratches meant."
+
+Bart nodded. "Yep that."
+
+The marks on the physical manuscript were incomplete, but the Rooted Quill had not relied on the manuscript alone. Every certified claim in the Treatise had also been entered into the deposit index when the work was certified. Where a marginal mark had faded, the indexing plate could still match the claim number to its original registration.
+
+Bart wasn't asking it to guess what the missing marks had once said. He was asking it to read its own surviving catalogue. Green light spread across the indexing plate.
+
+Thousands of tiny, glowing citation threads appeared in the glass. Some remained anchored. Some shifted smoothly to new positions. Tight, glowing circular loops collapsed, their threads reaching backward through time to connect to the central root.
+
+Nothing was magically rewritten inside the physical pages of the old books across the university. Instead, the administrative authority layer, the index that tied Greenhollow’s knowledge together was corrected.
+
+CITATION RECONSTRUCTION IN PROGRESS
+
+Historical bibliographic citations preserved: 38,421
+
+Shared foundational claims checked: 617 / 617
+
+Claim 117 dependent works reindexed: 316 / 316
+
+Certified protocols evaluated: 6,214
+
+Verified claim provenance restored: COMPLETE
+
+Unsupported origin designations: REMOVED
+
+Unsupported relationships inferred: 0
+
+The green light stabilized, and the final ruling on the academic war was delivered.
+
+MULTILATERAL ATTRIBUTION REVIEW — CONCLUDED
+
+ALDOUS VERIDIAN Publication identity: VALID
+
+Contributor provenance: VERIFIED 7
+
+Exclusive departmental affiliation: NONE
+
+SUCCESSOR RELATIONSHIPS
+
+Pomology: PARTIAL
+
+Bryological Studies: PARTIAL
+
+Soil Alchemy: PARTIAL
+
+Research disbursement hold: RELEASED
+
+Certification renewal: RESTORED
+
+The heavy indexing desk gave a quiet mechanical whir, and a slot near the bottom extruded a stiff piece of university parchment.
+
+Bart picked it up.
+
+REFERENCE CORRECTION CERTIFICATE Query: Living culture stabilization relation
+
+Primary source: Treatise on Living Cultures
+
+Citation identity: Aldous Veridian
+
+Foundational claim: 117 Contribution: JOINT 7 VERIFIED ROOTS
+
+Reference chain: VERIFIED
+
+Bart handed it to Elian. "That's it?" Elian asked.
+
+"That's your citation," Bart said.
+
+"We crossed much of Greenhollow for one citation."
+
+Bart frowned slightly. "A good citation is supposed to be shorter than the investigation."
+
+Bart looked at Elian. "Anything else?"
+
+Elian looked at the silent, stunned professors. He looked at the thousands of sealed deposit boxes stretching into the dark vault.
+
+"No, but thanks"
+
+"Please don't ask him that," Gregor muttered hoping he could get back to his nice pillow under Bart’s desk at the archive.
+
+The soft green light of the Rooted Quill interface slowly dimmed.
+
+A moment later, the crisp, unmistakable blue light of the Infinite Archive’s System overlaid the glass.
+
+KEEPER PROCEDURE VERIFIED
+
+Historical citation preserved Contributor provenance restored Primary and derivative sources distinguished Missing relationships recovered through evidence Unsupported inference: NONE
+
+Patron reference query: RESOLVED
+
+CITATION - VERIFIED
+
+It seemed he had his third Authority.
+
+They left the Joint Deposit Archive behind, crossing the sprawling, sunlit university grounds toward the edge of Ravespire. Our trio of feuding professors quickly departed without much of a fuss to get back back to their experiments while thanking Bart.
+
+As they walked past the central academic quadrangle, Bart heard a voice booming over a crowd of younger students gathered beneath a towering marble statue.
+
+"Aldous Veridian," the lecturer proclaimed, gesturing grandly to the stone figure, "was famously a towering, silver haired elf of unmatched intellect…"
+
+From across the paved pathway, another lecturer near a different faculty building shouted back. "Nonsense! Contemporary descriptions establish that Veridian was completely bald!"
+
+"There are no contemporary descriptions!" the first lecturer snapped.
+
+"Then your silver hair is even less defensible!"
+
+Gregor slowed his pace. He looked back at the arguing academics, then looked at Bart and Elian.
+
+"Should we tell them?" Gregor asked.
+
+Bart kept walking. "We did in a way"
+
+Gregor caught up, matching his stride. "They don't seem to know."
+
+"They know where to look," Bart said.
+
+They found the white door marked STAFF RESTROOM in the cellar of a minor administrative building near the edge of the city.
+
+Bart opened it.
+
+Whoosh! Gurgle!
+
+They stepped out of the damp cellar and onto the polished hardwood floor of the Infinite Archive. Elian quickly thanked Bart as well as Gregor and departed back to his classes. Albert seemed to be still occupied in dusting a shelf high up in the culinary section.
+
+Citation Authority did not arrive in the brilliant cascade that had accompanied Record Authority for example. Its restoration was quieter Thin, luminous blue lines began appearing across the endless rows of towering shelves. A book on a high shelf suddenly drew a glowing line to a tome across the aisle. Another line branched from a stack of loose manuscripts, arcing gracefully toward a heavy records cabinet. Several faint, jagged lines connecting unrelated sections flickered and vanished entirely. A damaged, collapsed alcove near the edge of the Reading Room groaned. Split wood repaired itself, straightening into pristine oak. Narrow drawers appeared, slotting themselves perfectly into the refurbished structure.
+
+A polished brass sign slowly formed above the new alcove.
+
+REFERENCE & CROSS-REFERENCE
+
+Gregor looked at the newly formed desk and its array of small, specialized drawers. "We got another department."
+
+"Section," Bart corrected.
+
+"Looks like they skimped the budget?"
+
+Bart ignored him, watching the blue System text materialize in the air above the front desk.
+
+ARCHIVE HEALTH UPDATED Previous health: 0.00003% Current health: 0.0001% Rank: F - BARELY OPERATIONAL
+
+NEW KEEPER PROCEDURE CROSS-REFERENCE Trace, establish, or restore verified relationships between holdings, claims, contributors, and derivative records. Restriction: Unsupported relationships may not be inferred.
+
+He didn't stop to admire the new section, instead both he and Gregor walked directly down the main corridor, bypassing the Reading Room and heading straight for the iron doors of the East Wing.
+
+As they approached, the ancient vault shone with the following,
+
+KEEPER AUTHORITY NETWORK
+
+MEMORY - VERIFIED
+
+RECORD - VERIFIED
+
+CITATION - VERIFIED
+
+CLOSURE - EXTERNAL
+
+SUCCESSION - PROVISIONAL
+
+VERIFIED: 3 / 5 ACCESS: DENIED
+
+THUD!
+
+Deep within the iron, a third enormous internal mechanism engaged, its heavy tumblers echoing through the quiet hallway. The third jagged seal on the vault burned blue.
+
+Gregor stared at the massive doors. "Three."
+
+"Three," Bart agreed.
+
+The blue text hovered for a moment longer. Then, the fourth line on the list pulsed once.
+
+CLOSURE - EXTERNAL
+
+Bart noticed the pulse and filed the detail away, already turning his mind towards getting a nice cuppa at his desk.
+
+Far away, in the perfect silence of the Closed Collection, the Curator sat alone, He was methodically reviewing a black bound catalogue when the damaged, jagged Keeper key hanging beneath his collar suddenly turned freezing cold. He paused and set his pen down with deliberate care and drew the damaged key from beneath his grey collar with a gloved hand. A faint, pale blue display projected upward from the cold metal. This was not a fragment of portal traffic, The Authority Network itself was contacting its remaining external holder.
+
+MASTER AUTHORITY NETWORK UPDATE Keeper #4,092
+
+Memory - VERIFIED
+
+Record - VERIFIED
+
+Citation - VERIFIED
+
+Closure - EXTERNAL
+
+Succession - PROVISIONAL
+
+3 / 5 AUTHORITIES VERIFIED
+
+Bart Sanders had recovered Memory through Dhoravel, restored Record in Tremendia and now he had even restored Citation in Greenhollow.
+
+Three Authorities active, He had expected the new Keeper to rebuild a few sections, reopen minor patron services, perhaps even make the minor sections of the Infinite Archive useful again before eventually succumbing to the weight of the job but had not expected this.
+
+In fact he had expected Sanders to fail quite quickly, What he had not expected him to rebuild is what a Keeper was.

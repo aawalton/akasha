@@ -1,0 +1,369 @@
+The three requirements for recall hung in glowing blue text above the desk.
+
+Requirements for procedure activation:
+
+Gregor looked at the list and read slowly "Which one is the easiest Boss?"
+
+Bart considered and replied. "None of them i guess"
+
+He thought about the problem. They couldn't search the Curator's holdings. They couldn't search the Closure determinations. They didn't know what the master register was called, and they didn't know where it was. But they knew something had been physically moved almost six centuries ago. Closure might conceal the books, but somebody still had to move them.
+
+"We don't look for the holdings," Bart said quietly.
+
+Gregor frowned. "Isn't that what we're trying to find?"
+
+"No. We look for whoever moved them."
+
+Gregor understood immediately. "You don't look for the stolen necklace."
+
+Bart looked at him.
+
+"You look for the fence," Gregor finished.
+
+"That is not quite…"
+
+"Same principle."
+
+Bart reluctantly considered it and replied "You make a disturbingly good point."
+
+If the books had physically left the Archive, there had to be a record of the transit. He had seen the same principle in Tremendia. King Aurelius had hidden thousands of documents by pulling them out of circulation into his private archive, but the Archive's transit history had preserved exactly where the physical objects had gone.
+
+"System," Bart said. "Display surviving outbound physical custody records associated with External Closure."
+
+This did not trigger BLOCKED BY ACTIVE CLOSURE. He wasn't asking what was closed. He was asking if Archive property had physically left the premises.
+
+The System took its time to compile the data from the final, frantic hours just before the Ruin.
+
+LEGACY LOGISTICS RECORD
+
+Content identity: CLOSED
+
+Classification: CLOSED
+
+Destination: CLOSED
+
+Transfer event existence: AVAILABLE
+
+Physical container count: AVAILABLE
+
+Administrative custody: AVAILABLE
+
+Bart sighed. "So it won't tell us what left, or where it went."
+
+"Very useful." replied Gregor
+
+Bart tapped the bottom line. "Though it will tell us how custody changed."
+
+He pressed his hand against the glass plate. "Display available fields."
+
+The glass pulsed. A summary screen materialized, detailing the sheer administrative scale of what had happened during the Archive's final hours before ruin.
+
+EMERGENCY EXTERNAL CUSTODY EVENTS
+
+Associated authority: Closure
+
+Period: Final 72 Archive hours before Ruin
+
+Transfer batches: 417
+
+Sealed containers transferred: 6,204
+
+Administrative registers: 1
+
+Gregor squinted at the number. "Six thou..sand?"
+
+Bart had no idea how extensive the Curator's operation was, Six thousand sealed containers meant that even the original emergency transfer had been the size of an entire collection. Though he focused on the final line.
+
+Administrative registers: 1
+
+The books were closed. The register was not simply another dangerous book. It was the paperwork governing all the dangerous books.
+
+"Display emergency custody manifest for the administrative register," Bart ordered.
+
+The screen flickered.
+
+EMERGENCY CUSTODY MANIFEST
+
+Receiving authority: EXTERNAL CLOSURE CONSULTANT
+
+Credential: [DAMAGED]
+
+Physical destination: CLOSED
+
+Holdings: CLOSED
+
+Administrative register: IA-CLOSURE-[CORRUPTED]
+
+Ownership disposition: [MISSING]
+
+Bart frowned. He needed the ownership line. Without it, he could not satisfy Requirement #1.
+
+He stared at the corrupted manifest. Gregor leaned over the desk, ignoring the missing text. His eyes tracked across the physical layout of the old transfer forms the System was projecting.
+
+"Boss."
+
+Bart kept reading.
+
+"Boss."
+
+"What?"
+
+Gregor tapped the glass, highlighting two different logistics slips. One was for a batch of sealed containers. The other was the manifest for the administrative register.
+
+"Different stamps," Gregor noted.
+
+Bart looked closer.
+
+The logistics slip for the sealed books was stamped:
+
+EXTERNAL CUSTODY
+
+The slip for the administrative register was stamped:
+
+EXTERNAL CUSTODY - ADMINISTRATIVE ASSET
+
+And beneath that, stamped in small, faint red ink, was a tiny symbol of a chained book with a circular arrow beneath it.
+
+"Return mark," Gregor said immediately.
+
+Bart looked at him. "Excuse me?"
+
+"Things meant to stay gone don't normally have return marks."
+
+It was a brilliant observation born entirely from life dealing with fences and stolen goods. Bart turned to Albert and asked, “Do you recognise this?” Albert stepped forward and examined the tiny red stamp. His eye sockets narrowed slightly. "Ah. Yes."
+
+"What is it?"
+
+"Archive Property Control, sir," Albert explained. "An old mark. Used primarily on furniture, specialized cataloguing carts, indexing equipment, and other institutional assets taken off site."
+
+"Meaning?"
+
+"Still ours," Albert said with quiet certainty. "Merely elsewhere."
+
+Bart smiled.
+
+"System," Bart said. "Interpret surviving logistics standard for Archive Property Control mark."
+
+PROPERTY CONTROL MARK VERIFIED
+
+Status: EXTERNAL CUSTODY
+
+Institutional title retained by: INFINITE ARCHIVE
+
+Transfer of ownership: NONE
+
+Return obligation: ACTIVE UPON VALID RECALL
+
+DING!
+
+A small, satisfying bell chimed from the System. The blue requirements list updated itself.
+
+Gregor grinned. "One."
+
+Now they had to identify the register.
+
+They had the damaged identifier: IA-CLOSURE-[CORRUPTED].
+
+Bart couldn't just ask the Archive to guess the name; unsupported inference was forbidden by the new Cross-Reference rules. He had to search for other references to the asset serial number. "Cross-reference administrative asset serial against surviving pre-Ruin property records," Bart ordered.
+
+The System hummed as it went thru records. Furniture inventories, Office transfers, Closure equipment schedules.
+
+Then suddenly one matched.
+
+LEGACY ASSET RECORD MATCH
+
+Asset classification: MASTER CLOSURE REGISTER
+
+Institutional owner: INFINITE ARCHIVE
+
+Assigned officer: EXTERNAL CLOSURE CONSULTANT
+
+Transfer status: OFF-SITE CUSTODY
+
+Asset family: IA-CR
+
+Specific identifier: CLOSED
+
+Registered designation: CLOSED
+
+Bart checked the requirement. It remained incomplete. A Master Closure Register was a classification. Recall required the identity of the actual registered asset.
+
+"How do we identify a record whose name is classified?" Gregor asked.
+
+Bart thought about it. "What fields remain outside Closure?"
+
+The System responded immediately.
+
+Physical description.
+
+Custody class.
+
+Binding specification.
+
+Replacement value.
+
+Gregor blinked. "Replacement value?"
+
+"Apparently even forbidden knowledge had a value," Bart noted.
+
+He tapped the physical description field.
+
+Format: Ledger
+
+Binding: Black leather
+
+Dimensions: Oversized
+
+Furniture requirement: Reinforced iron lectern
+
+Content display restrictions: Titles prohibited
+
+The description was incredibly specific. It was an oversized black leather ledger requiring a reinforced iron lectern, and whatever it recorded, titles were forbidden. Though, Bart wouldn't find the name in the Closure records. He would find it where all great administrative secrets were eventually uncovered: in the furniture inventory.
+
+"Cross-reference reinforced iron lectern against surviving maintenance records," Bart ordered.
+
+The System chimed.
+
+WORK ORDER
+
+Equipment: Central Closure Lectern
+
+Repair requested: Structural reinforcement
+
+Reason: BLACK CATALOGUE EXCEEDS RECOMMENDED DESK LOAD
+
+Closure had concealed the register's contents and catalogue identity. It had apparently never classified the repair history of the furniture beneath it.
+
+Gregor stared at the screen. "The secret book was too heavy for the table?"
+
+"Yep."
+
+Gregor looked from the classified register to the maintenance request. "And that's how we found it?"
+
+Bart allowed himself the smallest smile. "Elementary my dear!"
+
+Gregor frowned. "What's elementary?"
+
+"The furniture."
+
+Gregor considered this. "Libraries are strange places."
+
+"Oh you have no idea!" continued Bart smiling.
+
+Because the maintenance record was independent of the Closure determinations, Cross-Reference could now legally connect the name to the asset without inventing it.
+
+DING!
+
+SPECIFIC REGISTER IDENTIFIED
+
+Formal classification: MASTER CLOSURE REGISTER
+
+Recorded designation: BLACK CATALOGUE
+
+Asset identifier: IA-CR-0001
+
+Bart looked at the name. "Black Catalogue."
+
+Albert spoke quietly from the edge of the desk. "Closure was never known for cheerful naming conventions, sir."
+
+Bart asked the obvious next question. "System. Display contents of Black Catalogue."
+
+ACCESS BLOCKED BY ACTIVE CLOSURE
+
+Gregor shrugged. "Worth asking I guess."
+
+The refusal confirmed only one thing: whatever the Black Catalogue contained remained protected by active Closure. Bart now knew its name, physical description, and administrative purpose. He still had no idea what was written inside it.
+
+Now for Requirement #3.
+
+"System. Current custodian of Black Catalogue."
+
+UNVERIFIED
+
+Last verified custody: External Closure Consultant
+
+Credential: Damaged Keeper Key
+
+Verification age: 616 years
+
+Current physical possession: UNCONFIRMED
+
+Gregor pointed at the black warning letter still sitting on Bart's desk. "He sent that himself."
+
+"That proves the credential is active," Bart said.
+
+"Same thing."
+
+"No." It was a very important administrative distinction. "Active authority does not prove physical possession of a specific asset."
+
+Gregor frowned. "You think somebody else might have his black book?"
+
+"I have no evidence either way."
+
+Bart looked at the glass. "How do we verify current custody?"
+
+CUSTODY CONFIRMATION OPTIONS
+
+Physical inspection
+
+Registered custodial acknowledgment
+
+Valid return / Recall response
+
+Physical inspection was impossible. They didn't know where the Black Catalogue was. There was no registered acknowledgment on file.
+
+Which left only one option.
+
+Bart pulled a fresh stock requisition form from his drawer. It was not a Recall notice
+
+CUSTODY VERIFICATION NOTICE
+
+Target asset: BLACK CATALOGUE
+
+Last registered custodian: EXTERNAL CLOSURE CONSULTANT
+
+Response required:
+
+[ ] I retain custody
+
+[ ] Custody transferred - identify recipient
+
+[ ] Asset lost/destroyed
+
+[ ] Dispute ownership
+
+Gregor read the options. "Then why send it?"
+
+Bart uncapped his pen. "Because if he answers a notice naming the Black Catalogue, his answer becomes evidence."
+
+"Even if he says no?"
+
+"Especially if he explains why."
+
+Bart filled out the top fields in his neat, precise handwriting. He placed the document into the legacy routing tray at the edge of the desk.
+
+He paused, his hand hovering over the lever.
+
+Gregor noticed. "What's wrong?"
+
+"Nothing," Bart said.
+
+He looked down at the Curator's warning letter one last time.
+
+Do not attempt to open what was closed.
+
+Bart placed the new form directly over the tray.
+
+CUSTODY CONFIRMATION REQUIRED
+
+"I'm not asking to open it," Bart said quietly.
+
+WHOOSH!
+
+A brief colourless flame consumed the document, routing it through the surviving legacy courier network.
+
+The System chimed softly.
+
+DELIVERY CONFIRMED
+
+Recipient: EXTERNAL CLOSURE CONSULTANT

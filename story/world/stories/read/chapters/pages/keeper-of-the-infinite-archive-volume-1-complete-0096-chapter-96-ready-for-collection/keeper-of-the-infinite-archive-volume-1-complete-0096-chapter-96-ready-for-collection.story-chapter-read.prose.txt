@@ -1,0 +1,207 @@
+The next morning, the primary route into Sector 8, Wing C remained closed. Bart stood at the edge of the red chalk line, watching Ada methodically tighten a cross brace against the stone of a service archway. The limited retrieval path was not yet ready. Ada and Gregor had been working since the shift began, checking the relevant shelf ranges, marking the supported walking line, and installing temporary lighting along the jagged 30m corridor.
+
+Bart checked his interface. The financial forecast updated silently in the corner of his screen.
+
+PROJECTED FUNDED OPERATING PERIOD AT CURRENT EXPENDITURE: 20 ARCHIVE DAYS
+
+“How long?” Bart asked.
+
+“Until it is safe,” Ada replied, her wrench turning with a sharp, echoing click.
+
+“Do you have an estimate?”
+
+Bart waited for a reply
+
+Ada locked the brace and turned around. “Yes, when it is safe.”
+
+Bart nodded and stepped back from the line. He returned to Patron Services, where Nell was already cross referencing the morning’s ILL correspondence against her demand register.
+
+“We are still at 18 active requested holdings,” Nell reported without looking up. “But we are down to 21 unresolved service needs.”
+
+“Two more resolved?” Bart asked.
+
+“Yep, I reviewed three possible substitute cases this morning. Two patrons accepted. Both were requests for holdings that still have other active requests against them, so the service count dropped but the retrieval list did not.”
+
+“And the third?”
+
+“The third patron explicitly refused a substitute.” Nell tapped her screen, bringing up the individual request record. “They require the 312th Boundary Commission survey specifically. We found a potential substitute from a sister institution, the 314th and 315th editions. They declined.”
+
+“Why?” Bart asked.
+
+“Because they are legally challenging the 313th revision.”
+
+Gregor, carrying a stack of empty transfer crates near  the counter, frowned. “I do not understand any of that.”
+
+“Neither does the government involved, apparently,” Nell said. “The patron requires the exact edition. The request remains open.”
+
+At mid morning, Ada returned to the desk, wiping grease from her gloves.
+
+“The retrieval corridor is stable,” the engineer announced.
+
+Bart refreshed his primary interface. The System immediately registered the new structural reality.
+
+SECTOR 8 / WING C: CLOSED
+
+PUBLIC ACCESS: PROHIBITED
+
+LIMITED STAFF RETRIEVAL PATH: CERTIFIED
+
+AUTHORISED PURPOSE: REQUESTED-HOLDING RETRIEVAL ONLY
+
+AUTHORISED PERSONNEL: DESIGNATED RETRIEVAL STAFF
+
+FACILITIES STOP-WORK AUTHORITY: ACTIVE
+
+Bart stared at the glowing blue text. It bothered him, briefly, that after a day of planning, assessment, and targeted structural engineering, the primary status still read CLOSED.
+
+Nell looked over the counter at his screen. “Can we get the books now?”
+
+“Yes, thanks to Ada” Bart said.
+
+She tapped her own terminal and generated a formal retrieval manifest. It was not a simple list instructing Gregor to find 18 books. Each record contained the catalogue identifier, recorded shelf location, edition and format, handling notes, and request status. She handed the printed manifest to Gregor.
+
+Gregor looked at the document, his brow furrowing. “There are 18 books listed here. But you said there were 21 requests.”
+
+“Several people want the same holdings,” Nell explained.
+
+Gregor looked at Bart and grinned “You finally found a way to satisfy more than one person at the same time”
+
+“Gregor!, its just an efficient approach” Bart noted.
+
+Gregor took a narrow retrieval cart that Ada had explicitly approved for the certified route and pushed it toward Sector 8. When Gregor returned around 40 minutes later, the cart was heavy, but it did not contain all 18 items. He placed 16 volumes carefully onto the counter.
+
+“I can count only 16 items,” said Bart
+
+“Shelf 8-C-19 was empty,” Gregor reported, pointing to a line on the manifest. “The catalogue said it was there. It wasn't there however.”
+
+Nell immediately updated the status on her terminal.
+
+CATALOGUE STATUS: HOLDING CONFIRMED
+
+PHYSICAL LOCATION: NOT CONFIRMED
+
+“I will move it into the trace and search queue,” Nell said. “We will check the surrounding shelves during the next run. What happened to the other one?”
+
+“Damaged binding,” Gregor said. He tapped the handling notes on the manifest. “It looked like it would come apart if I lifted it. The instructions told me to stop if the condition was unsafe.”
+
+“So you left it?” Bart asked.
+
+“It was written in bold,” Gregor pointed out.
+
+“Good,” Bart said. He accessed the specific holding record.
+
+Bart changed the item status to CONDITION ASSESSMENT REQUIRED and left it in place pending an approved handling plan.
+
+They began matching the 16 recovered volumes to the open requests. It was in a way deeply satisfying work for Bart & Nell . Gregor hauled a massive, bound historical cadastral atlas out of the cart and laid it flat on the desk.
+
+Nell scanned the atlas. 4 requests appeared against the same holding.
+
+“Who gets it?”
+
+Nell checked the queue. “The oldest eligible request first. The others remain queued.”
+
+Bart watched the queue update. The Archive’s established fairness protocols remained perfectly intact. One physical retrieval had made four queued requests serviceable. Only one requester could use the atlas at a time, but the other three no longer depended on reopening the wing.
+
+Nell executed the workflow. The request queue finally moved.
+
+For the local patrons, the System updated with clean, mundane efficiency.
+
+RETRIEVAL STATUS: READY FOR COLLECTION
+
+HOLD PERIOD: 3 ARCHIVE DAYS
+
+PATRON NOTIFICATION: SENT
+
+For the legacy interlibrary loans, the System obeyed Bart’s strict revalidation protocol.
+
+HOLDING RECOVERED
+
+FULFILMENT REVIEW: REQUIRED
+
+REQUESTING INSTITUTION: NOTIFIED
+
+Two hours later, a young woman in a modest robe approached Patron Services. She looked uncertainly between Bart and Nell.
+
+“I received a notification,” she said. “Yesterday, I was told my request was physically inaccessible.”
+
+Nell reached under the counter and retrieved a slim volume on municipal boundary law. She placed it on the brass counter.
+
+The patron stared at it in surprise. “You said it was unavailable.”
+
+“It was,” Nell said.
+
+“And now it isn't?”
+
+Nell considered the status of Sector 8, Wing C. “For our most esteemed partners, no.”
+
+Bart quietly disliked the phrasing. Technically, the wing remained thoroughly unavailable.
+
+“Would you prefer I explain the corridor classification system and our temporary load-bearing restrictions?” Nell whispered looking at Bart’s disapproving stare.
+
+“No,its all right” the patron said quickly, taking the book.
+
+“Probably wise,” Bart murmured.
+
+Near closing, Bart and Nell stood at the terminal to reconcile the day’s operational results.
+
+TARGETED HOLDINGS: 18
+
+SUCCESSFULLY RETRIEVED: 16
+
+CONDITION HOLD: 1
+
+LOCATION DISCREPANCY: 1
+
+REQUESTS MADE SERVICEABLE THROUGH RESTORED ACCESS: 19
+
+LOCAL REQUESTS COLLECTED: 1
+
+LOCAL REQUESTS AWAITING COLLECTION: 2
+
+INTERLIBRARY REQUESTS ADVANCED TO FULFILMENT REVIEW: 16
+
+PARTNER INSTITUTIONS WITH REQUESTS ADVANCED: 5
+
+Nell looked at the numbers. “16 out of 18.”
+
+Bart's attention went first to the two failures while Nell's went to the 16 recoveries.Nell took the reconciled service results and appended them to the institutional value record she had begun building the previous day.
+
+POST-RUIN EXTERNAL SERVICE - VERIFIED
+
+PARTNER INSTITUTIONS WITH REQUESTS ADVANCED: 5
+
+REQUESTS MADE SERVICEABLE THROUGH RESTORED ACCESS: 19
+
+Bart read the update, then glanced at the corner of his interface.
+
+PROJECTED RUNWAY: 20 ARCHIVE DAYS
+
+“Now we have something to show them,” Nell said, following his gaze.
+
+“We already had books,” Bart pointed out.
+
+“Books demonstrate what you own,” Nell said firmly. “This demonstrates what you do.”
+
+Before ending his shift, Bart investigated the single location discrepancy record. He pulled up the catalogue entry for Shelf 8-C-19 to see when the missing volume had last been audited.
+
+The System did not say LOST. Instead, it provided an odd administrative legacy note.
+
+LAST VERIFIED LOCATION: 8-C-19
+
+RELOCATION STATUS: RECORDED
+
+TRANSFER STANDARD: LEGACY BOUNDARY RELATIVE INDEXING
+
+DESTINATION RECORD: ⟦Δ17 ⇄ Δ23 · 4/9 · Λ06.16 · ⊥2⟧
+
+Bart paused for a moment, The record contained no sector, wing, or shelf address. The relocation had instead been recorded under an obsolete standard that described locations relative to boundaries and reference points.
+
+Nell, packing her canvas satchel, noticed him stop. “Problem?”
+
+“Old notation,” Bart said, staring at the screen.
+
+“Can you read it?”
+
+Bart looked around the vast, dimly lit expanse of the Archive, at the restored catalogues and the dark, unmapped corridors leading into the unknown depths.
+
+“Not yet,” Bart said.

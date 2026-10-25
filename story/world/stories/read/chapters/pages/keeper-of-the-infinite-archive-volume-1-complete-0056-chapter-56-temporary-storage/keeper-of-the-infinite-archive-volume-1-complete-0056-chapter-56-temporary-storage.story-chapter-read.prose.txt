@@ -1,0 +1,301 @@
+The Curator stood perfectly still before the Black Catalogue, his hands still resting lightly on the edge of the iron lectern.
+
+"Temporary storage," the Curator repeated softly.
+
+Gregor looked from the man to the rows upon rows of boxes stretching all the way. "How long is temporary?"
+
+"Under ordinary circumstances?" the Curator asked.
+
+"Yes."
+
+"Much less than six centuries."
+
+Gregor nodded. "Good, Just checking if i understood the word correctly"
+
+616 years,The Archive had collapsed, The portal network had died and The last Keeper had vanished. The Curator had apparently kept on doing his job.Bart respected that kind of dedication.
+
+The Curator then broke the silence and got straight to the point.
+
+"You have found the Closed Collection. Congratulations. Now tell me what you intend to do with it"
+
+"Nothing," Bart said calmly.
+
+The Curator's pale eyes narrowed slightly. "Nothing?"
+
+"I didn't come here to read the books." Bart pointed at the Black Catalogue. "I came here to inspect your paperwork."
+
+Gregor shifted uncomfortably and smirked. "Somehow that sounded more threatening."
+
+The Curator's expression changed. "Custodial review parameters," the Curator said,
+
+A faint grey line of light appeared in the air between Bart and the lectern, hanging like a physical boundary.
+
+"Asset existence. Custody. Administrative status. Original appointment. Review requirements. Non-hazardous metadata."
+
+His eyes remained on Bart. "Forbidden: titles. Content. Discovery locations. Hazardous relationships." he paused for a bit,
+
+"Ending-related records."
+
+"Acceptable," Bart said.
+
+Gregor frowned. "We're agreeing not to look at anything inside the box?"
+
+"We're agreeing to look at the correct things," Bart said.
+
+Bart stepped up to the iron lectern. He placed his hands near the edges of the Black Catalogue, but he did not touch it.
+
+He invoked Record and Citation, then opened the custodial inspection authority the Curator had already acknowledged.
+
+The air above the book shimmered, and a pale blue System display materialized .
+
+MASTER CLOSURE REGISTER
+
+Designation: BLACK CATALOGUE
+
+Institutional owner: INFINITE ARCHIVE
+
+Custodial officer: EXTERNAL CLOSURE CONSULTANT
+
+Current Closure holdings: [CLOSED]
+
+Active restrictions: [CLOSED]
+
+Original delegation record: AVAILABLE
+
+Institutional review record: AVAILABLE
+
+Bart immediately pointed to the bottom line. "Original delegation record."
+
+The blue text shifted, displaying a document that had not been seen since the hours before the Archive fell.
+
+ORIGINAL EMERGENCY DELEGATION
+
+Authority granted by: KEEPER #4,091
+
+Purpose: EMERGENCY EXTERNAL CLOSURE
+
+Scope:
+
+Bart read the glowing words carefully.
+
+He looked over at the Curator. "So he really did give you all this?"
+
+"Yes, of course it is my responsibility" the Curator said simply.
+
+"You could have shown us this earlier and cleared it up" Bart noted.
+
+"It was Closed."
+
+Bart stared at him and he didn't have a good response to that. He stepped back from the lectern, adjusting his glasses. "Your original appointment was legitimate."
+
+"However," Bart continued, "that does not automatically establish that your current operation remains compliant."
+
+The Gregor looked at Curator. "There he is."
+
+"Who?" Curator asked, a bit confused.
+
+"The real Boss mate..keep up will ya" said Gregor
+
+Bart ignored the commentary. He turned back to the glowing blue interface above the Black Catalogue. "Display last institutional review."
+
+The System processed the request slowly, digging deep into the Black Catalogue's administrative metadata.
+
+LAST COMPLETE CLOSURE REVIEW
+
+Reviewing authority: KEEPER #4,091
+
+Status: EMERGENCY CONTINUATION APPROVED
+
+Date: 616 years ago
+
+Next review due: [Multiple intervals dependent upon hazard class]
+
+Current review status: OVERDUE
+
+616 years overdue. "There was no Keeper," the Curator said quietly.
+
+"That's a reasonable explanation," Bart said.
+
+Gregor looked shocked. "Boss, you're agreeing with him?"
+
+"But there's someone responsible for the office now," Bart finished.
+
+"Responsibility and authority are not identical," the Curator noted.
+
+"Neither is 616 years and 'temporarily overdue,'" Bart replied.
+
+The Curator gestured toward the endless rows of iron boxes behind him in the dark.
+
+"There is a military manual in aisle 78 that can resurrect every soldier who has ever died following its orders," the Curator said softly. "There is a children's astronomy text that removed one of its planet's moons when a reader corrected a diagram and there is a 43 page pamphlet whose argument becomes more convincing every time someone disagrees with it."
+
+Gregor frowned. "That doesn't sound so bad."
+
+"The last known disagreement ended with twelve thousand people building a cathedral but starving ," the Curator said. He looked back at Bart, his pale eyes intense. "Which one would you like to review first?"
+
+"I don't know," Bart admitted.
+
+"Precisely."
+
+"I'm not arguing that they should be opened," Bart said quietly. "I'm arguing that nobody gets to stop asking why they're closed."
+
+The Curator stared back at him.
+
+Bart turned back to the interface. "Display the final Closure review conducted by Keeper #4,091."
+
+REVIEW CONTENT: Partially Closed
+
+Administrative metadata: Available
+
+Associated personnel: Available where non-hazardous
+
+Period: FINAL 72 HOURS PRECEDING RUIN
+
+Bart continued. "Display associated emergency staff."
+
+Names appeared. Most immediately dissolved red closure bars.
+
+One remained.
+
+ASSOCIATED EMERGENCY STAFF
+
+Name: ALBERT
+
+Position: Chief Custodian
+
+Status at beginning of period: LIVING
+
+Bart's eyes stopped there as the next line appeared,
+
+Status at end of period: UNDEAD
+
+Gregor leaned closer to the blue text. "LIV-ING?"
+
+Bart didn't have an answer.
+
+Gregor repeated . "Albert was alive?"
+
+He then stared at the next line. "Is undead normally a staff classification?"
+
+The Curator considered the question. "Historically, more often than you would expect."
+
+"System," Bart said quickly. "What happened to him?"
+
+RELATIONSHIP CLOSED
+
+"Who authorised the Closure?" Bart demanded.
+
+KEEPER #4,091
+
+"Of course," Bart murmured. But a second line of metadata had appeared beneath the restriction warning.
+
+Memory record deposited: YES
+
+Institutional anchor: Chief Custodian continuity record
+
+Recovery requirement: Memory + Closure concurrence
+
+Bart stared at the final line. Memory alone had never been enough. He looked from the recovery requirement to the Curator.
+
+Memory and Closure.
+
+Two signatures for one locked door.
+
+"Two signatures?" Gregor asked.
+
+"Yes."
+
+"To remember something?"
+
+"Apparently."
+
+Gregor shook his head. "No wonder everyone forgot."
+
+Bart looked at the Curator. "I need access to the memory record."
+
+"No," the Curator said immediately.
+
+Gregor sighed loudly. "Here we go again."
+
+But the Curator didn't turn away. He looked at the boxes, then back at the Black Catalogue.
+
+"Not here," the Curator finished.
+
+A new pale blue window materialized above the ledger.
+
+MEMORY RECOVERY PROCEDURE AVAILABLE
+
+Subject: ALBERT
+
+Location required: Infinite Archive
+
+Additional anchor: Veyric Memory Porcelain
+
+Closure concurrence: REQUIRED
+
+"If I grant concurrence, the memory becomes reviewable," the Curator said.
+
+The Curator studied Bart,then he removed his right glove with deliberate care and placed his bare palm against the cold leather of the Black Catalogue.
+
+"Closure concurrence granted."
+
+Bart studied him. “Why now?”
+
+The Curator’s expression didn’t change.
+
+“You have spent weeks obstructing me.”
+
+“Correct.”
+
+“You hid the Closure records.”
+
+“They were Closed.”
+
+Bart ignored that. “You challenged my authority at every opportunity.”
+
+“Also factually correct.”
+
+Gregor glanced between them. “This is a surprisingly healthy relationship.”
+
+Bart kept his eyes on the Curator. “So why grant concurrence?”
+
+The Curator looked past him, toward the endless iron boxes.
+
+“Because when you entered this facility, I expected you to ask what was inside them. But you did not.”
+
+“I asked who was responsible for them.”
+
+“Exactly.”
+
+The Curator’s gaze returned to him.
+
+“Most people who discover a locked door immediately ask what lies behind it. Keepers are particularly prone to the habit.”
+
+“And what should they ask?”
+
+“Who locked it.”
+
+Bart glanced at the Black Catalogue.
+
+“Why.”
+
+“Yes.”
+
+“And when it was last reviewed.”
+
+For the briefest moment, the Curator looked almost irritated again.
+
+“You were doing well until that part.” Gregor snorted on the side.
+
+Bart adjusted his glasses. “So this is a test?”
+
+“No.”
+
+“It does feel like one.” Bart then adjusted his glasses. "Thank you."
+
+"Do not thank me yet," the Curator said quietly.
+
+Bart paused. "Why?"
+
+The Curator's bare hand remained on the Black Catalogue. There was no irritation in his expression now or disdain.
+
+"Because Keeper #4,091 went to extraordinary lengths to ensure Albert forgot those three days."
