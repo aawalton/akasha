@@ -1,0 +1,40 @@
+import type { Show } from "akasha/alan/collection/watching/show/show.page-type.types.ts"
+
+export const whenCallsTheHeart = {
+  id: "01a1749a-c86d-7b80-83a2-9c63e9bbe058",
+  type: "page-type/show",
+  slug: "when-calls-the-heart",
+  ownLength: 0,
+  ownProgress: 0,
+  partOfCollections: ["franchise/when-calls-the-heart"],
+  position: 1,
+  publishedAt: "2014-01-11",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "61865",
+      externalLink: "https://www.themoviedb.org/tv/61865",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "When Calls the Heart",
+  genres: ["Drama", "Western"],
+  imdbId: "tt2874692",
+  posterPath: "/3d8XxE3qDLzeewtaC4DGamI6Ofa.jpg",
+  voteAverage: 8.3,
+  streamingOn: [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "The Roku Channel",
+    "YouTube TV",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-25T19:47:43.335Z",
+} as const satisfies Show

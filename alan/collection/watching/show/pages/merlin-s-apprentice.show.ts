@@ -1,0 +1,42 @@
+import type { Show } from "akasha/alan/collection/watching/show/show.page-type.types.ts"
+
+export const merlinSApprentice = {
+  id: "01a1749a-c86d-77fd-aedd-fe074b23b77f",
+  type: "page-type/show",
+  slug: "merlin-s-apprentice",
+  ownLength: 0,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2006-09-02",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "23295",
+      externalLink: "https://www.themoviedb.org/tv/23295",
+      lastSyncedAt: "2026-10-25",
+    },
+    { source: "wikipedia", externalLink: "https://en.wikipedia.org/wiki/Merlin's_Apprentice" },
+  ],
+  title: "Merlin's Apprentice",
+  genres: ["Sci-Fi & Fantasy"],
+  imdbId: "tt0463826",
+  posterPath: "/9a4JIPlOlUQ2QUV0SbhssoNPMPU.jpg",
+  voteAverage: 4.9,
+  streamingOn: [
+    "Amazon MX Player",
+    "Amazon Prime Video",
+    "Amazon Prime Video Free with Ads",
+    "Amazon Prime Video with Ads",
+    "Pluto TV",
+    "Shout! Factory TV",
+    "The Roku Channel",
+    "Tubi TV",
+    "UP Faith & Family Amazon Channel ",
+    "UP Faith & Family Apple TV channel",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-25T19:47:43.335Z",
+} as const satisfies Show

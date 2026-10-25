@@ -1,0 +1,40 @@
+import type { Show } from "akasha/alan/collection/watching/show/show.page-type.types.ts"
+
+export const chesapeakeShores = {
+  id: "01a1749a-c86c-7f80-ba98-3721f01e4efb",
+  type: "page-type/show",
+  slug: "chesapeake-shores",
+  ownLength: 0,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2016-08-14",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "67265",
+      externalLink: "https://www.themoviedb.org/tv/67265",
+      lastSyncedAt: "2026-10-25",
+    },
+  ],
+  title: "Chesapeake Shores",
+  genres: ["Drama"],
+  imdbId: "tt5151816",
+  posterPath: "/wAWnKnDwrhfUZZ3hKlwr23yBOwM.jpg",
+  voteAverage: 7.8,
+  streamingOn: [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "Hallmark TV Amazon Channel",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Philo",
+    "Plex",
+    "Plex Channel",
+    "The Roku Channel",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-25T19:47:43.335Z",
+} as const satisfies Show

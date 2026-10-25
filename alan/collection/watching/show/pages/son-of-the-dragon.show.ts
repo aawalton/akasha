@@ -1,0 +1,41 @@
+import type { Show } from "akasha/alan/collection/watching/show/show.page-type.types.ts"
+
+export const sonOfTheDragon = {
+  id: "01a1749a-c86d-77c1-9ae0-f2b56c79fd6c",
+  type: "page-type/show",
+  slug: "son-of-the-dragon",
+  ownLength: 0,
+  ownProgress: 0,
+  partOfCollections: ["show-collection/hallmark-romance"],
+  publishedAt: "2008-04-02",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "20409",
+      externalLink: "https://www.themoviedb.org/tv/20409",
+      lastSyncedAt: "2026-10-25",
+    },
+    { source: "wikipedia", externalLink: "https://en.wikipedia.org/wiki/Son_of_the_Dragon_(film)" },
+  ],
+  title: "Son of the Dragon",
+  genres: ["Action & Adventure"],
+  imdbId: "tt0874679",
+  posterPath: "/m0xG0n1D0gJF9Hd41UDNo48TKpy.jpg",
+  voteAverage: 5.1,
+  streamingOn: [
+    "Amazon MX Player",
+    "Amazon Prime Video",
+    "Amazon Prime Video Free with Ads",
+    "Amazon Prime Video with Ads",
+    "Pluto TV",
+    "Shout! Factory Amazon Channel",
+    "Shout! Factory TV",
+    "The Roku Channel",
+    "Tubi TV",
+    "fuboTV",
+  ],
+  createdAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-25T19:47:43.335Z",
+} as const satisfies Show
