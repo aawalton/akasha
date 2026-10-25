@@ -155,11 +155,16 @@ export const dallaResourceManagement = {
       workingMemory:
         "All 32 workloads reading resources from a page state killMemoryMb, and it reaches limits.memory. The 16 sites writing resources as literals in code all set a memory limit, but in code rather than from a page, among them the orchestrator-cache helpers and 48Gi on the CI Job in cluster-running. The 9 vendored workloads have no memory limit anywhere.",
     },
+    {
+      statement: "A cluster Job reserves the memory a page states from that Job's measured peak.",
+      workingMemory:
+        "On 2026-10-25 seven deploy Jobs reserving 6Gi packed onto node-06, peaked at 6.6 to 17.2 GB together, and the kernel killed one. The 48Gi limit bounds one Job, and only the request bounds how many share the node. A deploy Job now reserves 16Gi in deploy-job's code, audit Jobs 6Gi (they peak near 3.9 GB). The deadline sits on the pod, so waiting for room spends none of it.",
+    },
   ],
   constraints: [
     "Adding a mechanism requires Alan's approval.",
     "Setting specific numbers requires Alan's approval.",
   ],
   createdAt: "2026-09-11T16:15:38.782Z",
-  updatedAt: "2026-09-25T21:58:04.000Z",
+  updatedAt: "2026-10-25T21:18:06.184Z",
 } as const satisfies Initiative
