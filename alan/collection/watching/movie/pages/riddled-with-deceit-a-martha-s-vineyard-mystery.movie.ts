@@ -5,7 +5,7 @@ export const riddledWithDeceitAMarthaSVineyardMystery = {
   type: "page-type/movie",
   slug: "riddled-with-deceit-a-martha-s-vineyard-mystery",
   ownLength: 84,
-  ownProgress: 0,
+  ownProgress: 84,
   partOfCollections: ["franchise/a-martha-s-vineyard-mystery"],
   position: 2,
   publishedAt: "2020-02-23",
@@ -32,5 +32,7 @@ export const riddledWithDeceitAMarthaSVineyardMystery = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T20:45:16.967Z",
+  updatedAt: "2026-10-26T02:48:56.190Z",
+  completedAt: "2026-10-26T02:48:55.626Z",
+  progressedAt: "2026-10-26T02:48:56.190Z",
 } as const satisfies Movie
