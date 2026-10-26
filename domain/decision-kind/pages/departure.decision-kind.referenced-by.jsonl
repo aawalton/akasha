@@ -3383,6 +3383,7 @@
 {"propertySlug":"decision-kind","path":"page/access/modules/patch/patch.module.ts","id":"01a05bd6-c534-767a-b98d-e5ad35f5a86b"}
 {"propertySlug":"decision-kind","path":"page/access/modules/read-gate/read-gate.module.ts","id":"01a0c548-c02e-7339-91e3-4f4b0e3874cf"}
 {"propertySlug":"decision-kind","path":"page/access/modules/routing-core/routing-core.module.ts","id":"01a05bd6-c535-767d-b8ac-7e540084e42d"}
+{"propertySlug":"decision-kind","path":"page/access/modules/view-narrowing/view-narrowing.module.ts","id":"01a17a06-cb79-7293-9cef-ba89b5c567d0"}
 {"propertySlug":"decision-kind","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}
 {"propertySlug":"decision-kind","path":"page/action-button-property/action-button-property.page-type.ts","id":"01a0a038-58f8-77ef-9a9c-55d8f5e3d9ad"}
 {"propertySlug":"decision-kind","path":"page/action-button-property/properties/action-button-verb.text-property.ts","id":"01a0c5fb-5db6-7c79-af84-a877d7d23ada"}

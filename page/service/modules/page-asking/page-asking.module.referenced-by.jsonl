@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/file-write-many/file-write-many.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/file-write/file-write.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/file-write/file-write.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/view-narrowing/view-narrowing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/service/modules/call-reading/call-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.test.ts","typed":false,"deferred":false}

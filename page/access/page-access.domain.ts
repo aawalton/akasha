@@ -39,6 +39,7 @@ export const pageAccess = {
     "module/upsert",
     "module/read-gate",
     "module/increment-property",
+    "module/view-narrowing",
   ],
   decisions: [
     {
@@ -63,5 +64,5 @@ export const pageAccess = {
     },
   ],
   createdAt: "2026-09-01T07:19:56.979Z",
-  updatedAt: "2026-09-25T16:35:06.000Z",
+  updatedAt: "2026-10-26T21:03:48.089Z",
 } as const satisfies Domain

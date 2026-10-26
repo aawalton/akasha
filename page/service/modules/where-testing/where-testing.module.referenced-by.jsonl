@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"where-testing.module.code.ts","path":"page/access/modules/file-narrow/file-narrow.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"where-testing.module.code.ts","path":"page/access/modules/file-write-narrow/file-write-narrow.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"where-testing.module.code.ts","path":"page/access/modules/read-gate/read-gate.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"where-testing.module.code.ts","path":"page/access/modules/view-narrowing/view-narrowing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"where-testing.module.code.ts","path":"page/query/modules/store-questioning/store-questioning.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"where-testing.module.code.ts","path":"page/service/modules/call-reading/call-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"where-testing.module.code.ts","path":"page/service/modules/follow-narrowing/follow-narrowing.module.code.ts","typed":false,"deferred":false}

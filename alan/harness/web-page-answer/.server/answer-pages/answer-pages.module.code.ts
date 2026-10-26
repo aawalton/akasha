@@ -4,11 +4,13 @@ import {
   pagesDeps,
   type ReadUser,
 } from "akasha/page/access/modules/answer/answer.module.code.ts"
+import { viewNarrowing } from "akasha/page/access/modules/view-narrowing/view-narrowing.module.code.ts"
 
 export function answerPages(
   request: Request,
   pageTypeSlug: string,
   readUser: ReadUser
 ): Promise<Response> {
-  return answerFrom(request, pageTypeSlug, pagesDeps(readUser, mayRead))
+  const deps = viewNarrowing(request, pageTypeSlug, pagesDeps(readUser, mayRead))
+  return answerFrom(request, pageTypeSlug, deps)
 }
