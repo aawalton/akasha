@@ -7,11 +7,11 @@ export const shave = {
   title: "Shave",
   toDoCategory: "health",
   toDoDueDate: "2026-10-26",
-  priority: "p2",
+  priority: "p3",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 47,
   toDoValue: "value/health",
   toDoLastCompletedAt: "2026-10-25T23:55:05.254Z",
   createdAt: "2026-10-19T10:32:45.698Z",
-  updatedAt: "2026-10-25T23:55:07.381Z",
+  updatedAt: "2026-10-26T12:11:15.473Z",
 } as const satisfies ToDo
