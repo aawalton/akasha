@@ -142,7 +142,15 @@ export const seatComposer = {
       decisionKind: "decision-kind/departure",
       statement: "Typing in the box tells the seat's page the person signed in is typing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page drawing again leaves the words in the box as they are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A send takes the words the box holds, whether or not a keystroke announced them.",
+    },
   ],
   createdAt: "2026-09-24T18:02:40.725Z",
-  updatedAt: "2026-10-24T23:24:02.293Z",
+  updatedAt: "2026-10-26T19:34:32.595Z",
 } as const satisfies Module

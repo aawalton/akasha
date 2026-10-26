@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { GlobalRegistrator } from "@happy-dom/global-registrator"
 import {
   draftKept,
   draftKey,
@@ -7,8 +8,13 @@ import {
   dropDraftSent,
   enterSends,
   keepDraft,
+  SeatComposer,
   type Shelf,
 } from "akasha/agent/seat/modules/composer/seat-composer.module.code.tsx"
+
+if (!("document" in globalThis)) GlobalRegistrator.register()
+
+const { fireEvent, render } = await import("@testing-library/react")
 
 const SEAT = "01a1505b-0000-7000-8000-000000000001"
 
@@ -125,4 +131,36 @@ test("a store that refuses keeps nothing and throws nothing", () => {
   expect(() => keepDraft(REFUSING, key, "words")).not.toThrow()
   expect(draftKept(REFUSING, key)).toBe("")
   expect(draftKept(null, key)).toBe("")
+})
+
+function boxIn(shown: ReturnType<typeof render>): HTMLTextAreaElement {
+  return shown.getByLabelText("Message to this seat") as HTMLTextAreaElement
+}
+
+test("words the phone put in the box unannounced, as dictation can, outlive the page drawing again", () => {
+  const shown = render(<SeatComposer seat={SEAT} onSend={async () => true} />)
+  const box = boxIn(shown)
+  box.value = "words spoken into the box"
+  shown.rerender(<SeatComposer seat={SEAT} onSend={async () => false} />)
+  expect(boxIn(shown).value).toBe("words spoken into the box")
+  shown.unmount()
+})
+
+test("the send button sends what the box holds, though no keystroke announced it", () => {
+  const sent: string[] = []
+  const shown = render(
+    <SeatComposer
+      seat={OTHER_SEAT}
+      onSend={async (text) => {
+        sent.push(text)
+        return false
+      }}
+    />
+  )
+  fireEvent.change(boxIn(shown), { target: { value: "typed" } })
+  boxIn(shown).value = "typed, then spoken"
+  fireEvent.click(shown.getByLabelText("Send"))
+  expect(sent).toEqual(["typed, then spoken"])
+  expect(boxIn(shown).value).toBe("")
+  shown.unmount()
 })

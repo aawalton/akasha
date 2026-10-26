@@ -15,7 +15,7 @@ import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version
 import { useCoarsePointer } from "akasha/page/ui/block-editor/modules/use-coarse-pointer/use-coarse-pointer.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { ArrowUp, LoaderCircle, Mic, MicOff, Plus, X } from "lucide-react"
-import { type ChangeEvent, useEffect, useRef, useState } from "react"
+import { type ChangeEvent, useCallback, useEffect, useRef, useState } from "react"
 
 const DRAFT_AT = "seat-composer-draft"
 
@@ -303,14 +303,25 @@ export function SeatComposer({
   drafted.current = draft
   const taken = useRef<number | null>(null)
   const given = useRef<Given | null>(null)
+  const box = useRef<HTMLTextAreaElement | null>(null)
+  const inBox = () => box.current?.value ?? drafted.current
+  const put = (next: string) => {
+    drafted.current = next
+    setDraft(next)
+    if (box.current !== null && box.current.value !== next) box.current.value = next
+  }
+  const took = (next: string) => {
+    drafted.current = next
+    setDraft(next)
+    keepDraft(shelfHere(), key, next)
+  }
   useEffect(() => {
-    setDraft(draftKept(shelfHere(), key))
+    put(draftKept(shelfHere(), key))
   }, [key])
   const { attached, add, remove, clear, restore, drop } = useAttached()
   const placed = (next: string) => {
-    if (next === drafted.current) return
-    drafted.current = next
-    setDraft(next)
+    if (next === inBox()) return
+    put(next)
     keepDraft(shelfHere(), key, next)
   }
   useEffect(() => {
@@ -319,13 +330,13 @@ export function SeatComposer({
       const held = given.current
       if (held === null || held.key !== returned.key) return
       given.current = null
-      placed(draftWithout(drafted.current, held.merged, held.before))
+      placed(draftWithout(inBox(), held.merged, held.before))
       drop(held.files)
       return
     }
     if (returned.key === taken.current) return
     taken.current = returned.key
-    const before = drafted.current
+    const before = inBox()
     const merged = draftWith(before, returned.text)
     const files = returned.files ?? []
     given.current = { key: returned.key, before, merged, files }
@@ -336,20 +347,27 @@ export function SeatComposer({
   const empty = draft.trim() === "" && attached.length === 0
   const beat = useTypingBeat(seat)
   const send = () => {
-    if (empty) return
+    const text = inBox().trim()
+    if (text === "" && attached.length === 0) return
     beat.stopped()
-    const text = draft.trim()
     void onSend(
       text,
       attached.map((one) => one.file)
     ).then((sent) => {
       if (sent) dropDraftSent(shelfHere(), key, text)
     })
-    setDraft("")
+    put("")
     clear()
   }
   const returnSends = useReturnSends(send)
   const touch = useCoarsePointer()
+  const boxed = useCallback(
+    (textarea: HTMLTextAreaElement | null) => {
+      box.current = textarea
+      return touch ? undefined : returnSends(textarea)
+    },
+    [touch, returnSends]
+  )
   const plane = useSurface()
   return (
     <div className="mx-auto flex w-full max-w-[710px] flex-col gap-2 px-4 py-2">
@@ -372,13 +390,13 @@ export function SeatComposer({
           </ul>
         )}
         <Textarea
-          ref={touch ? undefined : returnSends}
-          value={draft}
+          ref={boxed}
           onChange={(event) => {
-            setDraft(event.target.value)
-            keepDraft(shelfHere(), key, event.target.value)
+            took(event.target.value)
             beat.typed(event.target.value)
           }}
+          onCompositionEnd={(event) => took(event.currentTarget.value)}
+          onBlur={(event) => took(event.currentTarget.value)}
           onKeyDown={(event) => {
             if (!enterSends(event, touch)) return
             event.preventDefault()
