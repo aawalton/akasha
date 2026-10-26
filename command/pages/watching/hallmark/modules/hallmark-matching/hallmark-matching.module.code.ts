@@ -7,7 +7,7 @@ import {
   listOf,
 } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
 
-export type Kind = "movie" | "tv"
+type Kind = "movie" | "tv"
 
 export type Titled = {
   readonly kind: Kind
@@ -81,7 +81,7 @@ async function answeredBy(calls: Calls, token: string, path: string): Promise<Re
   }
 }
 
-export async function tmdbJson(calls: Calls, token: string, path: string): Promise<unknown> {
+async function tmdbJson(calls: Calls, token: string, path: string): Promise<unknown> {
   for (let taken = 1; taken <= ATTEMPTS; taken += 1) {
     const answered = await answeredBy(calls, token, path)
     if (answered?.ok === true) return await answered.json()
@@ -114,7 +114,7 @@ function wordsOf(said: string): ReadonlySet<string> {
   )
 }
 
-export function overlap(one: string, other: string): number {
+function overlap(one: string, other: string): number {
   const these = wordsOf(one)
   const those = wordsOf(other)
   let shared = 0
@@ -183,7 +183,7 @@ export function servicesIn(said: unknown): readonly string[] {
   return [...new Set(named)].sort()
 }
 
-export function titledFrom(kind: Kind, said: unknown, loose: boolean): Titled | null {
+function titledFrom(kind: Kind, said: unknown, loose: boolean): Titled | null {
   const held = asRecordOrEmpty(said)
   const id = asNumber(held.id)
   const title = textIn(held.title) ?? textIn(held.name)
@@ -305,7 +305,7 @@ async function searchedAs(
   return show.found !== null ? show : { found: null, refused: film.refused ?? show.refused }
 }
 
-export async function detailFor(
+async function detailFor(
   calls: Calls,
   token: string,
   kind: Kind,
@@ -328,7 +328,7 @@ async function oneMatched(calls: Calls, token: string, listed: Listed): Promise<
   return { listed, titled, refused }
 }
 
-export async function eachAtOnce<Given, Got>(
+async function eachAtOnce<Given, Got>(
   given: readonly Given[],
   work: (one: Given) => Promise<Got>
 ): Promise<Got[]> {
