@@ -48,14 +48,14 @@ export type Held = {
   readonly episode: readonly Row[]
 }
 
-export type Plan = {
+type Plan = {
   readonly listed: readonly Matched[]
   readonly shows: readonly Titled[]
   readonly held: Held
   readonly day: string
 }
 
-export type Shelved = {
+type Shelved = {
   readonly pages: readonly Naming[]
   readonly removes: readonly Gone[]
   readonly report: readonly string[]
@@ -63,7 +63,7 @@ export type Shelved = {
 
 type Said = Readonly<Record<string, unknown>>
 
-export const SHELF = "hallmark"
+const SHELF = "hallmark"
 
 export const SHELVES: Readonly<
   Record<Category, { readonly slug: string; readonly title: string }>
