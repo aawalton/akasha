@@ -26,6 +26,18 @@ export const sshDelivery = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The delivered script runs in a process group of its own on the host.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That group is ended whole once the ssh session that started it is gone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A script run to its end answers with its own exit, as if run directly.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A connection is given up after four missed keepalives fifteen seconds apart.",
     },
     {
@@ -34,5 +46,5 @@ export const sshDelivery = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-26T20:19:08.275Z",
 } as const satisfies Module
