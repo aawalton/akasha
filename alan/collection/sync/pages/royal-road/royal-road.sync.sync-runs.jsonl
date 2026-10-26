@@ -2144,4 +2144,4 @@
 {"id":"01a1773b-ef37-7e2b-853b-eeddb8fbf5f8","runStartedAt":"2026-10-26T08:02:58.990Z","runStatus":"failed","runCompletedAt":"2026-10-26T08:04:02.524Z","durationMs":63534,"runErrorMessage":"Error: 500  for https://www.royalroad.com/my/follows?page=1"}
 {"id":"01a17773-c810-7b92-8166-50ee51cdea4e","runStartedAt":"2026-10-26T09:03:58.984Z","runStatus":"success","runCompletedAt":"2026-10-26T09:23:07.012Z","durationMs":1148028,"createdCount":3,"updatedCount":0,"skippedCount":0,"failedCount":0}
 {"id":"01a177ab-a0ec-7f93-b39a-bcee4725c82c","runStartedAt":"2026-10-26T10:04:58.980Z","runStatus":"success","runCompletedAt":"2026-10-26T10:24:58.083Z","durationMs":1199103,"createdCount":1,"updatedCount":0,"skippedCount":0,"failedCount":0}
-{"id":"01a177df-d051-7e7a-9a7e-c1d852934bdd","runStartedAt":"2026-10-26T11:01:58.985Z","runStatus":"running"}
+{"id":"01a177df-d051-7e7a-9a7e-c1d852934bdd","runStartedAt":"2026-10-26T11:01:58.985Z","runStatus":"success","runCompletedAt":"2026-10-26T11:25:19.422Z","durationMs":1400437,"createdCount":0,"updatedCount":0,"skippedCount":0,"failedCount":0}
