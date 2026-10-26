@@ -44,7 +44,7 @@ async function readAgentAction(agentId: string): Promise<AgentActionEvent | null
   }
 }
 
-export const REGRET_TICK_MS = 1_000
+const REGRET_TICK_MS = 1_000
 
 export function startRegretWatch(args: {
   readonly getAgentId: () => string | null
