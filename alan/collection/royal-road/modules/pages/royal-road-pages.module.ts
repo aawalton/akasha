@@ -6,6 +6,7 @@ export const royalRoadPages = {
   slug: "royal-road-pages",
   definition: "a Royal Road fiction page and chapter page turned into values",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -36,11 +37,19 @@ export const royalRoadPages = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A request whose connection fails before its whole answer arrives is sent once more.",
+        "A request whose connection fails, or that Royal Road answers 403, 429 or 5xx, is sent again.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A request Royal Road answers with a refusal is not sent again.",
+      statement: "A request is sent again after five, fifteen and forty-five seconds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a request still failing on its fourth sending fails the read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request Royal Road answers with any other refusal is not sent again.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -52,5 +61,5 @@ export const royalRoadPages = {
     },
   ],
   createdAt: "2026-09-03T04:20:34.578Z",
-  updatedAt: "2026-10-04T12:10:03.000Z",
+  updatedAt: "2026-10-26T12:04:59.904Z",
 } as const satisfies Module

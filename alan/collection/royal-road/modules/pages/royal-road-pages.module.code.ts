@@ -235,7 +235,47 @@ export function parseChapterProse(html: string): ProseRead {
 
 const NO_BODY = new Set([101, 103, 204, 205, 304])
 
-export async function answerFrom(
+const CHALLENGED = 403
+
+const TOO_MANY = 429
+
+const SERVER_FAULT = 500
+
+const WAITS_MS: readonly number[] = [5_000, 15_000, 45_000]
+
+export function passing(status: number): boolean {
+  return status === CHALLENGED || status === TOO_MANY || status >= SERVER_FAULT
+}
+
+function slept(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
+
+export async function steadily(
+  send: () => Promise<Response>,
+  wait: (ms: number) => Promise<void> = slept,
+  waits: readonly number[] = WAITS_MS
+): Promise<Response> {
+  for (const ms of waits) {
+    const answer = await send().catch((thrown: unknown) => {
+      if (thrown instanceof Error) return null
+      throw thrown
+    })
+    if (answer !== null && !passing(answer.status)) return answer
+    await wait(ms)
+  }
+  return await send()
+}
+
+export function answerFrom(
+  url: string,
+  headers: Readonly<Record<string, string>>,
+  form?: URLSearchParams
+): Promise<Response> {
+  return steadily(() => answerOnce(url, headers, form))
+}
+
+async function answerOnce(
   url: string,
   headers: Readonly<Record<string, string>>,
   form?: URLSearchParams
@@ -273,20 +313,8 @@ function answerTo(url: string, cookie: string | undefined): Promise<Response> {
   })
 }
 
-class Refused extends Error {}
-
-async function bodyAt(url: string, cookie: string | undefined): Promise<string> {
-  const response = await answerTo(url, cookie)
-  if (!response.ok) throw new Refused(`${response.status} ${response.statusText} for ${url}`)
-  return await response.text()
-}
-
 export async function fetchHtml(url: string, cookie?: string): Promise<string> {
-  try {
-    return await bodyAt(url, cookie)
-  } catch (thrown) {
-    if (thrown instanceof Refused) throw thrown
-    await betweenRequests()
-    return await bodyAt(url, cookie)
-  }
+  const response = await answerTo(url, cookie)
+  if (!response.ok) throw new Error(`${response.status} ${response.statusText} for ${url}`)
+  return await response.text()
 }
