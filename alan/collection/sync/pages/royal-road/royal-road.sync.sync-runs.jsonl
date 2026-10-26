@@ -2142,3 +2142,4 @@
 {"id":"01a176cd-27d2-731a-8f31-8ee02fb0d2c3","runStartedAt":"2026-10-26T06:01:58.986Z","runStatus":"failed","runCompletedAt":"2026-10-26T06:23:02.905Z","durationMs":1263919,"createdCount":0,"updatedCount":0,"skippedCount":0,"failedCount":1,"runErrorMessage":"the sync filed 1 chapter(s) as failed"}
 {"id":"01a17706-d578-70e0-ae9b-5124fe4e543c","runStartedAt":"2026-10-26T07:04:58.992Z","runStatus":"success","runCompletedAt":"2026-10-26T07:26:57.410Z","durationMs":1318418,"createdCount":4,"updatedCount":0,"skippedCount":0,"failedCount":0}
 {"id":"01a1773b-ef37-7e2b-853b-eeddb8fbf5f8","runStartedAt":"2026-10-26T08:02:58.990Z","runStatus":"failed","runCompletedAt":"2026-10-26T08:04:02.524Z","durationMs":63534,"runErrorMessage":"Error: 500  for https://www.royalroad.com/my/follows?page=1"}
+{"id":"01a17773-c810-7b92-8166-50ee51cdea4e","runStartedAt":"2026-10-26T09:03:58.984Z","runStatus":"running"}
