@@ -18,7 +18,7 @@ export type Listed = {
 
 const WIKIPEDIA_AT = "https://en.wikipedia.org/w/api.php"
 
-export const LISTS: readonly string[] = [
+const LISTS: readonly string[] = [
   "List of Hallmark Channel Original Movies (2000s)",
   "List of Hallmark Channel Original Movies (2010s)",
   "List of Hallmark Channel Original Movies (2020s)",
@@ -66,7 +66,7 @@ function cellOf(said: string): string {
   return attributes === null ? said : said.slice(attributes[0].length)
 }
 
-export function plainOf(said: string): string {
+function plainOf(said: string): string {
   return said
     .replace(/\[\[(?:[^\]|]*\|)?([^\]]*)\]\]/g, "$1")
     .replace(/\{\{[^{}]*\}\}/g, "")
