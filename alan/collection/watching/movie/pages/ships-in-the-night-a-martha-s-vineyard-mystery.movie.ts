@@ -5,11 +5,11 @@ export const shipsInTheNightAMarthaSVineyardMystery = {
   type: "page-type/movie",
   slug: "ships-in-the-night-a-martha-s-vineyard-mystery",
   ownLength: 84,
-  ownProgress: 0,
+  ownProgress: 84,
   partOfCollections: ["franchise/a-martha-s-vineyard-mystery"],
   position: 3,
   publishedAt: "2021-01-17",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -32,5 +32,7 @@ export const shipsInTheNightAMarthaSVineyardMystery = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T20:45:16.967Z",
+  updatedAt: "2026-10-26T19:01:45.943Z",
+  completedAt: "2026-10-26T19:01:44.819Z",
+  progressedAt: "2026-10-26T19:01:45.943Z",
 } as const satisfies Movie
