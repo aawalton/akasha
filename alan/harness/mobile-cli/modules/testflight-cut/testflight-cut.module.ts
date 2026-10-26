@@ -30,6 +30,11 @@ export const testflightCut = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A caller listening is handed the mac's output as the mac says it, sink or no sink.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The ref is pinned to a single commit per repository before anything is built.",
     },
     {
@@ -95,5 +100,5 @@ export const testflightCut = {
     },
   ],
   createdAt: "2026-09-02T07:53:10.598Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-26T20:20:30.515Z",
 } as const satisfies Module

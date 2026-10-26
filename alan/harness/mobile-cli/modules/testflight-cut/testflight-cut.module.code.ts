@@ -132,6 +132,7 @@ export async function runTestflightCut(
     readonly password: string
     readonly ref: string
     readonly say?: Say
+    readonly heard?: Say
   }
 ): Promise<undefined> {
   const { app, configuration, buildNumber, sync, wait, noUpload, password, ref } = opts
@@ -209,6 +210,7 @@ export async function runTestflightCut(
     stream: watched,
     quiet: !watched,
     sendEnv: { [KEYCHAIN_PASSWORD_SSH_ENV]: password },
+    ...(opts.heard === undefined ? {} : { heard: opts.heard }),
   })
   done.push(macRanSaid(MACBOOK.host, noUpload))
   if (!watched) say(out.endsWith("\n") ? out : `${out}\n`)
