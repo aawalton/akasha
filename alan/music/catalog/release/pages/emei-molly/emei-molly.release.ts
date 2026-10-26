@@ -4,7 +4,7 @@ export const emeiMolly = {
   id: "01a17878-1d57-784a-99f1-f64c070feb61",
   type: "page-type/release",
   slug: "emei-molly",
-  ownLength: 3.2,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
@@ -21,5 +21,5 @@ export const emeiMolly = {
   ],
   title: "Molly",
   createdAt: "2026-10-26T13:48:20.183Z",
-  updatedAt: "2026-10-26T13:48:20.183Z",
+  updatedAt: "2026-10-26T14:01:00.531Z",
 } as const satisfies Release
