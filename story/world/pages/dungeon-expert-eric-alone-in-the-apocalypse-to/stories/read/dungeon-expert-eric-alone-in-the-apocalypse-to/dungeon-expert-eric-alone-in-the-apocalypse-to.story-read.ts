@@ -5,7 +5,7 @@ export const dungeonExpertEricAloneInTheApocalypseTo = {
   type: "page-type/story-read",
   slug: "dungeon-expert-eric-alone-in-the-apocalypse-to",
   author: "noct",
-  following: true,
+  following: false,
   unit: "unit/words",
   title:
     "Dungeon Expert Eric: Alone in the Apocalypse to Solo the Dungeons [LitRPG, Mage, Weak to Strong]",
@@ -38,5 +38,5 @@ export const dungeonExpertEricAloneInTheApocalypseTo = {
   publicationStatus: "ongoing",
   readLater: false,
   createdAt: "2026-10-25T23:22:06.506Z",
-  updatedAt: "2026-10-26T01:24:03.881Z",
+  updatedAt: "2026-10-26T02:19:26.404Z",
 } as const satisfies StoryRead

@@ -20,5 +20,7 @@ export const chrysalis0545NoChapsThisWeek = {
     },
   ],
   createdAt: "2026-10-26T01:24:03.881Z",
-  updatedAt: "2026-10-26T01:24:03.881Z",
+  updatedAt: "2026-10-26T02:19:26.404Z",
+  ownProgress: 3,
+  progressedAt: "2026-10-26T02:19:26.404Z",
 } as const satisfies StoryChapterRead
