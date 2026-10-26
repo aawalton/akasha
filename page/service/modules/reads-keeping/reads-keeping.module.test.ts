@@ -95,6 +95,15 @@ test("a page worked out again is named only for what it read the last time", () 
   )
 })
 
+test("a file read in a folder already kept writes nothing", () => {
+  const root = scratch.rootFor("akasha-reads-")
+  keptReads(root, reading([], ["logs"]))
+  const at = join(root, uncommittedAt(PROPERTY) ?? "")
+  const before = statSync(at).mtimeMs
+  keptReads(root, reading(["logs/one.jsonl"]))
+  expect(statSync(at).mtimeMs).toBe(before)
+})
+
 test("nothing is written where what is kept would stay the same", () => {
   const root = scratch.rootFor("akasha-reads-")
   keptReads(root, reading(["people/alan.person.ts"]))

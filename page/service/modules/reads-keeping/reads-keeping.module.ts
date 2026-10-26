@@ -22,6 +22,14 @@ export const readsKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What a property keeps is held in memory while its file stays as it was read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Reads that file already covers are passed over before anything kept is folded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A keeping that fails is said, and the answer that read it is not refused.",
     },
     {
@@ -43,5 +51,5 @@ export const readsKeeping = {
     },
   ],
   createdAt: "2026-09-24T19:18:10.094Z",
-  updatedAt: "2026-09-28T23:48:54.000Z",
+  updatedAt: "2026-10-26T20:27:41.563Z",
 } as const satisfies Module

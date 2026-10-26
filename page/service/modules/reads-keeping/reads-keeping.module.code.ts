@@ -102,10 +102,35 @@ export function readersFor(root: string): Readers {
   }
 }
 
+type Covered = { readonly files: ReadonlySet<string>; readonly folders: ReadonlySet<string> }
+
+const COVERED = new WeakMap<object, Covered>()
+
+function coveredBy(held: Readonly<Record<string, unknown>> | null): Covered | null {
+  if (held === null) return null
+  const found = COVERED.get(held)
+  if (found !== undefined) return found
+  const kept = keptIn(held)
+  const made = { files: new Set(kept.files), folders: new Set(kept.folders) }
+  COVERED.set(held, made)
+  return made
+}
+
+function within(covered: Covered | null, read: Covered): boolean {
+  if (covered === null) return false
+  for (const one of read.folders) if (!covered.folders.has(one)) return false
+  for (const one of read.files) {
+    if (!covered.files.has(one) && !covered.folders.has(dirname(one))) return false
+  }
+  return true
+}
+
 export function keptReads(root: string, read: Reads): undefined {
   for (const [at, one] of read) {
     try {
-      const before = keptIn(uncommittedIn(root, at))
+      const stated = uncommittedIn(root, at)
+      if (within(coveredBy(stated), one)) continue
+      const before = keptIn(stated)
       const after = foldedReads(
         [...before.files, ...one.files],
         [...before.folders, ...one.folders]
