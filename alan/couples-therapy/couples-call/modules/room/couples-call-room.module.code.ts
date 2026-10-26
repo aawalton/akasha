@@ -33,7 +33,7 @@ import {
   objectIn,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
-export type Spouse = "alan" | "jenny"
+type Spouse = "alan" | "jenny"
 
 const SPOUSES: readonly Spouse[] = ["alan", "jenny"]
 
@@ -60,7 +60,7 @@ const TICK_MS = 10
 
 const BEHIND_FRAMES = 25
 
-export type LegSocket = { readonly send: (text: string) => unknown; readonly close: () => unknown }
+type LegSocket = { readonly send: (text: string) => unknown; readonly close: () => unknown }
 
 type Refused = { readonly refused: string }
 
