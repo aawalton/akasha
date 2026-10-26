@@ -9,7 +9,7 @@ export const riddledWithDeceitAMarthaSVineyardMystery = {
   partOfCollections: ["franchise/a-martha-s-vineyard-mystery"],
   position: 2,
   publishedAt: "2020-02-23",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -32,7 +32,7 @@ export const riddledWithDeceitAMarthaSVineyardMystery = {
     "fuboTV",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-26T02:48:56.190Z",
+  updatedAt: "2026-10-26T02:53:11.936Z",
   completedAt: "2026-10-26T02:48:55.626Z",
   progressedAt: "2026-10-26T02:48:56.190Z",
 } as const satisfies Movie
