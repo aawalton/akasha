@@ -17,10 +17,10 @@ export const emei = {
       source: "spotify",
       externalId: "7E2aQQjErJocovYFjYLzWU",
       externalLink: "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU",
-      lastSyncedAt: "2026-09-21",
+      lastSyncedAt: "2026-10-26",
     },
   ],
   title: "Emei",
   createdAt: "2026-09-03T16:04:08.683Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-26T13:48:20.183Z",
 } as const satisfies Artist
