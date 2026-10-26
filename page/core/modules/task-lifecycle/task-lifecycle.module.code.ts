@@ -20,7 +20,12 @@ type CollectionShape = {
   readonly lengthKey: string
   readonly progressKey: string
   readonly doneKey: string
+  readonly statusKey: string
 }
+
+const DONE_STATUS = "completed"
+
+const UNDONE_STATUS = "not-started"
 
 type MarkShape = {
   readonly kind: "mark"
@@ -34,6 +39,7 @@ export const COLLECTION_SHAPE: CollectionShape = {
   lengthKey: "ownLength",
   progressKey: "ownProgress",
   doneKey: "completedAt",
+  statusKey: "status",
 }
 
 const COMPLETION_SHAPES: Readonly<Record<string, CompletionShape>> = {
@@ -121,9 +127,10 @@ function collectionCompletionValues(
   atMs: number
 ): Readonly<Record<string, string | number>> {
   const stamp = new Date(atMs).toISOString()
+  const done = { [shape.doneKey]: stamp, [shape.statusKey]: DONE_STATUS }
   const length = asNumber(values[shape.lengthKey])
-  if (length === null) return { [shape.doneKey]: stamp }
-  return { [shape.doneKey]: stamp, [shape.progressKey]: length }
+  if (length === null) return done
+  return { ...done, [shape.progressKey]: length }
 }
 
 export function completionValues(
@@ -139,8 +146,10 @@ export function completionValues(
 
 export function uncompletionValues(
   shape: CompletionShape
-): Readonly<Record<string, null | number>> {
-  if (shape.kind === "collection") return { [shape.doneKey]: null, [shape.progressKey]: 0 }
+): Readonly<Record<string, null | number | string>> {
+  if (shape.kind === "collection") {
+    return { [shape.doneKey]: null, [shape.progressKey]: 0, [shape.statusKey]: UNDONE_STATUS }
+  }
   if (shape.kind === "mark") return { [shape.doneKey]: null }
   return { [shape.stampKey]: null, [shape.doneKey]: null }
 }

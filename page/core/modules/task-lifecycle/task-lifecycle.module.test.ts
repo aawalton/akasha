@@ -34,16 +34,34 @@ test("the nearest page type declaring a completion shape answers for the chain",
 
 test("checking a collection carries its own progress to its own length and stamps it", () => {
   const said = completionValues(COLLECTION_SHAPE, { ownLength: 4200, ownProgress: 300 }, AT)
-  expect(said).toEqual({ completedAt: "2026-09-06T22:00:00.000Z", ownProgress: 4200 })
+  expect(said).toEqual({
+    completedAt: "2026-09-06T22:00:00.000Z",
+    ownProgress: 4200,
+    status: "completed",
+  })
 })
 
-test("checking a collection stating no length of its own stamps it alone", () => {
+test("checking a collection stating no length of its own stamps it and states it completed", () => {
   const said = completionValues(COLLECTION_SHAPE, { ownProgress: 3 }, AT)
-  expect(said).toEqual({ completedAt: "2026-09-06T22:00:00.000Z" })
+  expect(said).toEqual({ completedAt: "2026-09-06T22:00:00.000Z", status: "completed" })
 })
 
-test("unchecking a collection clears its stamp and its own progress", () => {
-  expect(uncompletionValues(COLLECTION_SHAPE)).toEqual({ completedAt: null, ownProgress: 0 })
+test("a collection checked in progress states completed rather than the status it held", () => {
+  const held = { ownLength: 84, ownProgress: 0, status: "not-started" }
+  expect({ ...held, ...completionValues(COLLECTION_SHAPE, held, AT) }.status).toBe("completed")
+})
+
+test("a collection's completion is stamped as an instant to the millisecond", () => {
+  const said = completionValues(COLLECTION_SHAPE, { ownLength: 84 }, AT)
+  expect(said.completedAt).toMatch(/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z$/)
+})
+
+test("unchecking a collection clears its stamp and its own progress and states it not started", () => {
+  expect(uncompletionValues(COLLECTION_SHAPE)).toEqual({
+    completedAt: null,
+    ownProgress: 0,
+    status: "not-started",
+  })
 })
 
 test("a collection reads as done where its own progress reaches its own length", () => {

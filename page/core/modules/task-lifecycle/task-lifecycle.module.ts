@@ -95,6 +95,14 @@ export const taskLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Marking a collection done states its status as completed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Taking a collection's completion back states its status as not started.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A rule that will not parse leaves the due date alone.",
     },
     {
@@ -116,5 +124,5 @@ export const taskLifecycle = {
     },
   ],
   createdAt: "2026-09-01T06:05:33.511Z",
-  updatedAt: "2026-10-25T20:32:07.215Z",
+  updatedAt: "2026-10-26T02:51:25.614Z",
 } as const satisfies Module
