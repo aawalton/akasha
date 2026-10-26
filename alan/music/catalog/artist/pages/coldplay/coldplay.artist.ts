@@ -23,7 +23,7 @@ export const coldplay = {
       source: "spotify",
       externalId: "4gzpq5DPGxSnKTe4SA8HAU",
       externalLink: "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU",
-      lastSyncedAt: "2026-09-19",
+      lastSyncedAt: "2026-10-26",
     },
   ],
   title: "Coldplay",
@@ -38,5 +38,5 @@ export const coldplay = {
     "britpop",
   ],
   createdAt: "2026-09-03T16:04:08.683Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-26T13:48:13.041Z",
 } as const satisfies Artist
