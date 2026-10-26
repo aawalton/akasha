@@ -121,6 +121,10 @@ export async function shipIosApp(
       ref,
       say: (text) => {
         spoken.push(text)
+        process.stderr.write(text)
+      },
+      heard: (text) => {
+        process.stderr.write(text)
       },
     })
   } catch (err) {

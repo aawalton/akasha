@@ -83,11 +83,16 @@ export const deployIosShipping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Nothing is said until the build has finished.",
+      statement:
+        "What the build says and what the mac says are written to stderr as they are said.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy run apart from its call keeps that progress in its log.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes to an output stream.",
+      statement: "Nothing here writes to stdout, which carries the call's answer alone.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -99,5 +104,5 @@ export const deployIosShipping = {
     },
   ],
   createdAt: "2026-09-02T06:56:09.541Z",
-  updatedAt: "2026-09-25T18:09:47.000Z",
+  updatedAt: "2026-10-26T20:21:01.420Z",
 } as const satisfies Module
