@@ -40,10 +40,7 @@ type Counted = {
   readonly failed: number
 }
 
-export type Recording = <Run extends Counted>(
-  source: string,
-  run: () => Promise<Run>
-) => Promise<Run>
+type Recording = <Run extends Counted>(source: string, run: () => Promise<Run>) => Promise<Run>
 
 type Ran = Counted & { readonly commits: readonly string[]; readonly refused: string | null }
 
