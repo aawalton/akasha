@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/related-pipeline/related-pipeline.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/view-match/view-match.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":true,"deferred":false}

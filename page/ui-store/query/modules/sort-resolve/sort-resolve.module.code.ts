@@ -54,15 +54,14 @@ export interface ViewResolveCtx {
 
 export function pageDataOf(row: PageRow): PageDataJSON {
   const rec = asPageRecord(row)
-  return asPageDataJSON({
-    ...attributesOf(row),
-    id: rec.id,
-    title: rec.title,
-    icon: rec.icon,
-    slug: rec.slug,
-    pageTypeId: rec.page_type_id,
-    pageTypeSlug: rec.page_type_slug,
-  })
+  const attributes = attributesOf(row)
+  const promoted: Record<string, unknown> = {}
+  for (const [key, column] of Object.entries(PROMOTED_COLUMN)) {
+    if (!(column in rec)) continue
+    if (rec[column] === null && key in attributes) continue
+    promoted[key] = rec[column]
+  }
+  return asPageDataJSON({ ...attributes, ...promoted })
 }
 
 export function classifyKey(

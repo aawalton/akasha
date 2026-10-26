@@ -32,6 +32,12 @@ test("a column no key is held in is read back under no key", () => {
   expect(flattenRow({ ...ROW }).favoritedAt).toBe(undefined)
 })
 
+test("a page's status held in a column of its own is read back under its key", () => {
+  expect(flattenRow({ ...ROW, status: "completed" }).status).toBe("completed")
+  expect(fromColumn("status")).toBe("status")
+  expect(isPromotedKey("status")).toBe(true)
+})
+
 test("the key a column is read under is the key that column is written from", () => {
   expect(fromColumn("completed_at")).toBe("completedAt")
   expect(isPromotedKey("completedAt")).toBe(true)

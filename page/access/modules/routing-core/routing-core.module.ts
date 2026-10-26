@@ -24,7 +24,11 @@ export const routingCore = {
       decisionKind: "decision-kind/departure",
       statement: "The instant a page was marked done is in a column of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page's status is in a column of its own.",
+    },
   ],
   createdAt: "2026-09-01T07:19:56.981Z",
-  updatedAt: "2026-09-15T18:35:14.000Z",
+  updatedAt: "2026-10-26T03:07:15.117Z",
 } as const satisfies Module

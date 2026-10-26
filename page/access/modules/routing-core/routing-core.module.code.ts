@@ -11,6 +11,7 @@ export const PROMOTED_COLUMN = {
   pageTypeId: "page_type_id",
   pageTypeSlug: "page_type_slug",
   uniqueKey: "unique_key",
+  status: "status",
   completedAt: "completed_at",
 } as const
 

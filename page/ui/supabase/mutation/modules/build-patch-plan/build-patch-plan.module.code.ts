@@ -11,6 +11,7 @@ const PromotedColumnPatchSchema = z
     slug: z.string().nullable().optional(),
     page_type_id: z.string().optional(),
     page_type_slug: z.string().optional(),
+    status: z.string().nullable().optional(),
     completed_at: z.string().nullable().optional(),
   })
   .strict()

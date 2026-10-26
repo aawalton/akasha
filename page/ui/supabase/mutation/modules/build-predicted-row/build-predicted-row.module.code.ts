@@ -22,7 +22,7 @@ export function buildPredictedRow(
     slug: stringAt(props, "slug"),
     attributes,
     unique_key: null,
-    status: null,
+    status: stringAt(props, "status"),
     completed_at: stringAt(props, "completedAt"),
     favorited_at: null,
     last_viewed_at: null,
