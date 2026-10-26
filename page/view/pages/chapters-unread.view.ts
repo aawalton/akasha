@@ -1,0 +1,25 @@
+import type { View } from "akasha/page/view/view.page-type.types.ts"
+
+export const chaptersUnread = {
+  id: "01a0e996-9366-76d4-aa46-5033bbb97da0",
+  type: "page-type/view",
+  slug: "chapters-unread",
+  title: "Unread",
+  nav: "nav/chapters",
+  pageType: "page-type/story-chapter-read",
+  viewPlace: 0,
+  layout: "list",
+  narrows: [
+    { key: "own-remaining", comparison: "at-or-after", values: ["1"] },
+    { key: "removed-at", comparison: "empty", values: ["true"] },
+    { key: "story.following", comparison: "is", values: ["true"] },
+  ],
+  viewSorts: [{ key: "published-at", descending: false }],
+  groupSorts: [],
+  visibleProperties: ["story", "published-at"],
+  pageSize: 12,
+  itemPageSize: 12,
+  groupPageSize: 6,
+  createdAt: "2026-09-28T19:55:54.598Z",
+  updatedAt: "2026-10-06T11:37:43.000Z",
+} as const satisfies View
