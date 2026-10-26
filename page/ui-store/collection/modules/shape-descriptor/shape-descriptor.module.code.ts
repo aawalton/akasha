@@ -1,5 +1,5 @@
 export type NamedPages =
-  | { readonly by: "id" | "slug"; readonly values: readonly string[] }
+  | { readonly by: "id" | "slug" | "view"; readonly values: readonly string[] }
   | { readonly by: "where"; readonly key: string; readonly values: readonly string[] }
 
 export function namedParam(named: NamedPages): string {

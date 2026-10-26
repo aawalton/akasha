@@ -15,6 +15,10 @@ export const hooksViewQuery = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A view narrowing through a relation asks for the pages its narrows let through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A relation holding many values narrows a view as a relation holding one does.",
     },
     {
@@ -28,5 +32,5 @@ export const hooksViewQuery = {
     },
   ],
   createdAt: "2026-09-02T11:27:44.767Z",
-  updatedAt: "2026-09-28T19:54:54.000Z",
+  updatedAt: "2026-10-26T21:05:50.798Z",
 } as const satisfies Module

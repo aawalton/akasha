@@ -10,9 +10,10 @@ export const shapeDescriptor = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set is named by ids, by slugs, or by the values one relation holds.",
+      statement:
+        "A set is named by ids, by slugs, by the values one relation holds, or by a view's narrows.",
     },
   ],
   createdAt: "2026-09-01T05:20:20.805Z",
-  updatedAt: "2026-09-26T15:04:02.000Z",
+  updatedAt: "2026-10-26T21:05:50.798Z",
 } as const satisfies Module

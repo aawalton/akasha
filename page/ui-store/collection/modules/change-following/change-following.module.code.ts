@@ -131,6 +131,7 @@ export function pushedIn(data: unknown): Pushed | null {
 export function followedOf(pageTypeSlug: string, named: NamedPages | undefined): Followed {
   if (named === undefined) return { pageTypeSlug }
   if (named.by === "where") return { pageTypeSlug, where: { [named.key]: { in: named.values } } }
+  if (named.by === "view") return { pageTypeSlug }
   return { pageTypeSlug, by: named.by, values: named.values }
 }
 

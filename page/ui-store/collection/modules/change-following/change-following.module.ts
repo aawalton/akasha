@@ -22,6 +22,10 @@ export const changeFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A set named by a view is followed as its whole page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What is followed is said again whole shortly after it changes.",
     },
     {
@@ -72,5 +76,5 @@ export const changeFollowing = {
     },
   ],
   createdAt: "2026-09-24T18:50:58.381Z",
-  updatedAt: "2026-09-28T23:57:05.000Z",
+  updatedAt: "2026-10-26T21:05:50.798Z",
 } as const satisfies Module

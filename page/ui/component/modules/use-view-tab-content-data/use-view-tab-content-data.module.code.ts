@@ -48,6 +48,8 @@ import { useCallback, useMemo } from "react"
 
 const NO_NARROWS: readonly ViewFilter[] = []
 
+const NO_SLUGS: readonly string[] = []
+
 interface ViewTabContentData {
   viewConfig: ViewDataJSON | undefined
   localFilters: readonly ViewFilter[] | undefined
@@ -164,8 +166,12 @@ export function useViewTabContentData({
     return parsePageTypeData(effectivePageType.properties).propertyDefinitions
   }, [effectivePageType])
 
-  const read = useReadViewConfig(askedConfig, rowProperties, pageTypes)
+  const viewSlugRaw = view?.properties.slug
+  const byView = narrows.length === 0 && typeof viewSlugRaw === "string" ? viewSlugRaw : undefined
+  const read = useReadViewConfig(askedConfig, rowProperties, pageTypes, byView)
   const readConfig = read.viewConfig
+  const served = read.view
+  const gating = served === undefined ? viewTargetSlugs.gating : NO_SLUGS
   const held = read.pending || read.error !== null
   const shownFilters = useMemo(
     () => (read.ownFilters === undefined ? undefined : besideNarrows(read.ownFilters, narrows)),
@@ -190,7 +196,7 @@ export function useViewTabContentData({
         properties: rowProperties,
         viewId,
         viewUpdatedAt,
-        gatingTargetSlugs: viewTargetSlugs.gating,
+        gatingTargetSlugs: gating,
         displayTargetSlugs: viewTargetSlugs.display,
       }
     }
@@ -202,8 +208,9 @@ export function useViewTabContentData({
         properties: rowProperties,
         viewId,
         viewUpdatedAt,
-        gatingTargetSlugs: viewTargetSlugs.gating,
+        gatingTargetSlugs: gating,
         displayTargetSlugs: viewTargetSlugs.display,
+        ...(served === undefined ? {} : { viewSlug: served }),
       }
     }
     return undefined
@@ -217,6 +224,8 @@ export function useViewTabContentData({
     viewId,
     viewUpdatedAt,
     viewTargetSlugs,
+    gating,
+    served,
   ])
   const flatResult = usePageViewQuery(
     flatQueryArgs ?? { pageTypeId: NEVER_MATCH_VALUE, viewConfig: undefined }

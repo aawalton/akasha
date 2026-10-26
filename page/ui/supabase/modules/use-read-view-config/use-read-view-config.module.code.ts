@@ -32,6 +32,7 @@ type ReadViewConfig = {
   readonly ownFilters: readonly ViewFilter[] | undefined
   readonly pending: boolean
   readonly error: Error | null
+  readonly view?: string
 }
 
 type RowsOf = {
@@ -125,7 +126,8 @@ function kindsBelowOf(pageTypes: readonly PageWithProperties[]): KindsBelow {
 export function useReadViewConfig(
   viewConfig: ViewDataJSON | undefined,
   definitions: readonly PropertyDefinition[],
-  pageTypes: readonly PageWithProperties[]
+  pageTypes: readonly PageWithProperties[],
+  byView?: string
 ): ReadViewConfig {
   const definitionsOf = useMemo(() => definitionsBySlug(pageTypes), [pageTypes])
   const read = useMemo(
@@ -133,8 +135,12 @@ export function useReadViewConfig(
     [viewConfig?.filters, definitions, definitionsOf]
   )
   const related = "own" in read ? read.related : NO_RELATED
+  const served = byView !== undefined && related.length > 0
   const kindsBelow = useMemo(() => kindsBelowOf(pageTypes), [pageTypes])
-  const slugs = useMemo(() => related.map((one) => one.pageTypeSlug), [related])
+  const slugs = useMemo(
+    () => (served ? [] : related.map((one) => one.pageTypeSlug)),
+    [related, served]
+  )
   const kindsOf = useMemo(
     () => new Map(slugs.map((slug) => [slug, kindsBelow(slug)] as const)),
     [slugs, kindsBelow]
@@ -153,6 +159,16 @@ export function useReadViewConfig(
     }
     if ("unread" in read) {
       return { viewConfig: undefined, ownFilters: undefined, pending: true, error: null }
+    }
+    if (served) {
+      const own = read.own.length > 0 ? read.own : undefined
+      return {
+        viewConfig: viewConfig === undefined ? undefined : { ...viewConfig, filters: own },
+        ownFilters: read.own,
+        pending: false,
+        error: null,
+        view: byView,
+      }
     }
     if (targets.error !== null) {
       return { viewConfig: undefined, ownFilters: read.own, pending: false, error: targets.error }
@@ -175,5 +191,5 @@ export function useReadViewConfig(
       pending: false,
       error: null,
     }
-  }, [read, targets, viewConfig, kindsOf])
+  }, [read, targets, viewConfig, kindsOf, served, byView])
 }

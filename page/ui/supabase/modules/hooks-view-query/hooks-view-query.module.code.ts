@@ -78,6 +78,7 @@ export function usePageViewQuery({
   viewUpdatedAt,
   gatingTargetSlugs,
   displayTargetSlugs,
+  viewSlug,
 }: {
   pageTypeId: string
   pageTypeSlug?: string
@@ -88,6 +89,7 @@ export function usePageViewQuery({
   viewUpdatedAt?: string
   gatingTargetSlugs?: readonly string[]
   displayTargetSlugs?: readonly string[]
+  viewSlug?: string
 }): {
   pages: readonly PageWithProperties[]
   isLoading: boolean
@@ -136,8 +138,11 @@ export function usePageViewQuery({
   }, [crossPredicate])
 
   const shapes = useMemo(
-    () => relationShapesOf(pageTypeSlug, filters, properties),
-    [pageTypeSlug, filters, properties]
+    () =>
+      viewSlug !== undefined && pageTypeSlug !== undefined
+        ? [namedShapeDescriptor(pageTypeSlug, { by: "view", values: [viewSlug] })]
+        : relationShapesOf(pageTypeSlug, filters, properties),
+    [pageTypeSlug, filters, properties, viewSlug]
   )
 
   const result = useViewPagesSupabase({
