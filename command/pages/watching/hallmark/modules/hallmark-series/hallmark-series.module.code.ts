@@ -52,7 +52,7 @@ const PREFIX = /^(.+?):\s/
 
 const SHOWN = 10
 
-export function coreOf(said: string): string {
+function coreOf(said: string): string {
   return said
     .toLowerCase()
     .replace(/\s*\([^)]*\)/g, "")
