@@ -31,6 +31,7 @@ export interface RunSshOptions {
   readonly stream?: boolean
   readonly quiet?: boolean
   readonly sendEnv?: Readonly<Record<string, string>>
+  readonly heard?: (chunk: string) => void
 }
 
 export interface SshResult {
@@ -96,11 +97,13 @@ function sshExec(
     if (quiet && child.stderr) {
       child.stderr.on("data", (chunk: Buffer) => {
         stdout += chunk.toString()
+        options.heard?.(chunk.toString())
       })
     }
     if (child.stdout) {
       child.stdout.on("data", (chunk: Buffer) => {
         stdout += chunk.toString()
+        options.heard?.(chunk.toString())
         if (options.stream === true) {
           process.stdout.write(chunk)
         }

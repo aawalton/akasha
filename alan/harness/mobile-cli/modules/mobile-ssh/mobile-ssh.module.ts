@@ -38,6 +38,10 @@ export const mobileSsh = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller listening is handed each piece of the host's output as it arrives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A quiet rsync says nothing on either stream.",
     },
     {
@@ -50,5 +54,5 @@ export const mobileSsh = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-26T20:20:10.950Z",
 } as const satisfies Module
