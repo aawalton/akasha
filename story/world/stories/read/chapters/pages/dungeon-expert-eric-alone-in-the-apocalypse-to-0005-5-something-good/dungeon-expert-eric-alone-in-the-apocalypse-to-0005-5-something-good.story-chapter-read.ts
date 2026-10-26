@@ -20,5 +20,7 @@ export const dungeonExpertEricAloneInTheApocalypseTo00055SomethingGood = {
     },
   ],
   createdAt: "2026-10-25T23:22:06.506Z",
-  updatedAt: "2026-10-25T23:22:06.506Z",
+  updatedAt: "2026-10-26T01:24:03.881Z",
+  ownProgress: 2632,
+  progressedAt: "2026-10-26T01:24:03.881Z",
 } as const satisfies StoryChapterRead

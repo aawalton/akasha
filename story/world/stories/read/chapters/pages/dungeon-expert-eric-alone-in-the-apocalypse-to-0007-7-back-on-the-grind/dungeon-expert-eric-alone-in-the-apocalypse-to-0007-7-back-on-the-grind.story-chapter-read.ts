@@ -20,5 +20,7 @@ export const dungeonExpertEricAloneInTheApocalypseTo00077BackOnTheGrind = {
     },
   ],
   createdAt: "2026-10-25T23:22:06.506Z",
-  updatedAt: "2026-10-25T23:22:06.506Z",
+  updatedAt: "2026-10-26T01:24:03.881Z",
+  ownProgress: 5187,
+  progressedAt: "2026-10-26T01:24:03.881Z",
 } as const satisfies StoryChapterRead
