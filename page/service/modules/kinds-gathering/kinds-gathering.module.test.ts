@@ -126,6 +126,16 @@ test("a calculation a page type under the one named declares is worked out on th
   expect(said.get("two")?.["thrice"]).toBeUndefined()
 })
 
+test("a caller naming the keys to work out works those keys alone", () => {
+  const root = scratch.rootFor("akasha-kinds-")
+  worlded(root)
+  filed(root, "further", "three", { count: 3 })
+  const counting = gatheredFor(root, "held", carriedFor(root, "held"))
+  const one = computedInto(root, counting, new Set(["twice"])).rows[0]?.value
+  expect(one?.["twice"]).toBe(6)
+  expect(one?.["thrice"]).toBeUndefined()
+})
+
 test("a row carries the page type its own page states", () => {
   const root = scratch.rootFor("akasha-kinds-")
   worlded(root)

@@ -86,8 +86,6 @@ export type Testing = (value: Value) => boolean
 
 export type Picking = (kind: string) => readonly string[] | null
 
-export type Named = Map<string, ReadonlyMap<string, Value>>
-
 function sourceFor(given: string | Reading): Source {
   const reading = readingIn(given)
   return sourceAmong(
@@ -114,22 +112,6 @@ export function carriedBeside(
 
 export function carriedFor(given: string | Reading, pageTypeSlug: string): readonly Carried[] {
   return carriedBeside(given, pageTypeSlug) ?? propertiesFrom(pageTypeSlug, sourceFor(given))
-}
-
-export function pagesOfType(
-  root: string,
-  named: Named,
-  pageTypeSlug: string
-): ReadonlyMap<string, Value> {
-  const found = named.get(pageTypeSlug)
-  if (found !== undefined) return found
-  const made = new Map<string, Value>()
-  for (const one of valuesOfType(root, pageTypeSlug)) {
-    const slug = textAt(one.value, "slug")
-    if (slug !== null && !made.has(slug)) made.set(slug, one.value)
-  }
-  named.set(pageTypeSlug, made)
-  return made
 }
 
 export function kindsFor(given: string | Reading, pageTypeSlug: string): readonly string[] {
@@ -315,7 +297,8 @@ function fileOver(root: string): (path: string) => Filed | null {
 export function computedOver(
   root: string,
   counting: readonly Counting[],
-  taken: readonly Valued[]
+  taken: readonly Valued[],
+  only?: ReadonlySet<string>
 ): Counted {
   if (counting.every((one) => one.computed.length === 0)) {
     return { rows: taken, dark: new Map(), read: new Map() }
@@ -332,7 +315,7 @@ export function computedOver(
     if (slug !== null && !named.has(slug)) named.set(slug, one.row.path)
   }
   const placing = reachingIn(root, subjects, named)
-  const computing = computingOver(placing)
+  const computing = computingOver(placing, only)
   const computedAt = new Map(counting.map((one) => [one.row.path, one.computed]))
   const dark = new Map<string, string>()
   type Into = {
@@ -365,11 +348,16 @@ export function computedOver(
   return { rows, dark, read }
 }
 
-export function computedInto(root: string, counting: readonly Counting[]): Counted {
+export function computedInto(
+  root: string,
+  counting: readonly Counting[],
+  only?: ReadonlySet<string>
+): Counted {
   return computedOver(
     root,
     counting,
-    counting.map((one) => one.row)
+    counting.map((one) => one.row),
+    only
   )
 }
 

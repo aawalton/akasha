@@ -124,7 +124,7 @@ function readingOf(one: Heard | undefined): Reading {
   }
 }
 
-export function computingOver(source: Source): Computing {
+export function computingOver(source: Source, only?: ReadonlySet<string>): Computing {
   const answers = new Map<string, Answer>()
   const views = new Map<string, Held>()
   const settled = new Map<string, Working>()
@@ -284,6 +284,7 @@ export function computingOver(source: Source): Computing {
     const dark = new Map<string, string>()
     const read = new Map<string, Reading>()
     for (const one of subject.computed) {
+      if (only !== undefined && !only.has(one.key)) continue
       try {
         const held = view[one.key]
         if (held !== undefined) value[one.key] = held

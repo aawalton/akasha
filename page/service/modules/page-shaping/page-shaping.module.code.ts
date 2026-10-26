@@ -23,9 +23,11 @@ import { icon } from "akasha/page/properties/icon.text-property.ts"
 import {
   carriedFor,
   kindsFor,
+} from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
+import {
   type Named,
   pagesOfType,
-} from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
+} from "akasha/page/service/modules/pages-naming/pages-naming.module.code.ts"
 import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { propertyDisplay } from "akasha/page/type/page-property/properties/property-display.select-property.ts"

@@ -248,20 +248,52 @@ function pathsOf(sorted: readonly Valued[]): readonly string[] {
   return sorted.map((one) => one.path)
 }
 
+function namedIn(query: Query): ReadonlySet<string> {
+  const named = new Set(Object.keys(query.where ?? {}))
+  if (query.sortBy !== undefined) named.add(query.sortBy)
+  return named
+}
+
+function readsTogether(one: Reads, two: Reads): Reads {
+  if (one.size === 0) return two
+  if (two.size === 0) return one
+  const held = new Map(one)
+  for (const [at, read] of two) {
+    const was = held.get(at)
+    held.set(
+      at,
+      was === undefined
+        ? read
+        : {
+            files: new Set([...was.files, ...read.files]),
+            folders: new Set([...was.folders, ...read.folders]),
+            pages: new Map([...(was.pages ?? []), ...(read.pages ?? [])]),
+          }
+    )
+  }
+  return held
+}
+
 function countedFirst(
   root: string,
   query: Query,
   counting: readonly Counting[],
+  working: boolean,
   withheld: Withheld
 ): Faulted<Asked> {
-  const counted = computedInto(root, counting)
+  const counted = computedInto(root, counting, namedIn(query))
   const darkened = unlit(query, counted.dark)
   if (darkened !== null) return { refused: darkened, fault: "service" }
   const held = counted.rows.filter((one) => narrows(one.value, query.where))
   const sorted = orderedIn(query, held)
   const lore = loreRefused(root, pathsOf(sorted), withheld)
   if (lore !== null) return lore
-  return answering(query, takenIn(query, sorted), sorted.length, counted.read)
+  const taken = takenIn(query, sorted)
+  if (!working) return answering(query, taken, sorted.length, counted.read)
+  const worked = computedOver(root, counting, taken)
+  const dark = unlit(query, worked.dark)
+  if (dark !== null) return { refused: dark, fault: "service" }
+  return answering(query, worked.rows, sorted.length, readsTogether(counted.read, worked.read))
 }
 
 function narrowedFirst(
@@ -331,7 +363,7 @@ export function asking(root: string, query: Query, withheld: Withheld = []): Fau
       const computed = one.computed.every(answered) ? one.computed : one.computed.filter(answered)
       return row === one.row && computed === one.computed ? one : { row, computed }
     })
-    if (narrowing) return countedFirst(root, query, counting, withheld)
+    if (narrowing) return countedFirst(root, query, counting, working, withheld)
     return narrowedFirst(root, query, counting, working, withheld, paged)
   } catch (thrown) {
     return { refused: thrown instanceof Error ? thrown.message : String(thrown), fault: "service" }

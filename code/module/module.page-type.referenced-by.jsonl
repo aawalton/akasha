@@ -2345,6 +2345,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/page-threading/page-threading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/page-writing/page-writing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/pages-foldered/pages-foldered.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/pages-naming/pages-naming.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/place-calling/place-calling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/read-answering/read-answering.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/read-settling/read-settling.module.ts","typed":true,"deferred":false}

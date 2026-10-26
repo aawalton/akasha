@@ -180,6 +180,7 @@ export const pageService = {
     "module/page-shaping",
     "module/page-writing",
     "module/pages-foldered",
+    "module/pages-naming",
     "module/reads-keeping",
     "module/refusal-fault",
     "module/select-refusing",
@@ -193,5 +194,5 @@ export const pageService = {
     "module/write-claiming",
   ],
   createdAt: "2026-08-31T23:59:18.778Z",
-  updatedAt: "2026-10-24T23:14:37.680Z",
+  updatedAt: "2026-10-26T20:09:51.526Z",
 } as const satisfies ServiceWorkstation

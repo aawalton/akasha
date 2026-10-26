@@ -79,6 +79,10 @@ export const kindsGathering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller naming the keys to work out works those keys and what they read alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A row is keyed by its path.",
     },
     {
@@ -184,5 +188,5 @@ export const kindsGathering = {
     },
   ],
   createdAt: "2026-09-05T15:42:05.209Z",
-  updatedAt: "2026-09-28T23:48:54.000Z",
+  updatedAt: "2026-10-26T20:09:51.526Z",
 } as const satisfies Module

@@ -3622,6 +3622,7 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/page-threading/page-threading.module.ts","id":"01a0e2f6-e95d-79a4-b210-9cbd5bc5df3c"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-writing/page-writing.module.ts","id":"01a05abd-fe05-794d-8493-811846971bf6"}
 {"propertySlug":"decision-kind","path":"page/service/modules/pages-foldered/pages-foldered.module.ts","id":"01a0a5a9-545f-783d-8733-5a27ccc6ba98"}
+{"propertySlug":"decision-kind","path":"page/service/modules/pages-naming/pages-naming.module.ts","id":"01a179d5-68a7-7c4e-9ce9-9d6f8fd3e867"}
 {"propertySlug":"decision-kind","path":"page/service/modules/place-calling/place-calling.module.ts","id":"01a1642d-2618-7ab1-9d7e-e6aa44959141"}
 {"propertySlug":"decision-kind","path":"page/service/modules/read-answering/read-answering.module.ts","id":"01a0e2ed-bc6b-78d5-8ecc-ec56df49e7a2"}
 {"propertySlug":"decision-kind","path":"page/service/modules/read-settling/read-settling.module.ts","id":"01a0e2eb-49cf-7b9f-8e9d-0d6026dac245"}

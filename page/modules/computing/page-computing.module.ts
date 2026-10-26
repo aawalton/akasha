@@ -34,6 +34,10 @@ export const pageComputing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A working naming its keys works those keys and what they read, and no other.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A key already worked answers the same on every later read.",
     },
     {
@@ -158,5 +162,5 @@ export const pageComputing = {
     },
   ],
   createdAt: "2026-09-05T12:58:08.148Z",
-  updatedAt: "2026-09-25T13:07:21.000Z",
+  updatedAt: "2026-10-26T20:09:51.526Z",
 } as const satisfies Module

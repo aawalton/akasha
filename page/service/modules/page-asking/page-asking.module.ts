@@ -124,7 +124,11 @@ export const pageAsking = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A question testing or ordering on a calculated key works every calculation out first.",
+        "A question testing or ordering on a calculated key first works out only the keys it names so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other calculation its rows carry is worked out over the rows taken alone.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -295,5 +299,5 @@ export const pageAsking = {
     },
   ],
   createdAt: "2026-08-31T22:53:56.578Z",
-  updatedAt: "2026-09-30T10:09:06.000Z",
+  updatedAt: "2026-10-26T20:09:51.526Z",
 } as const satisfies Module
