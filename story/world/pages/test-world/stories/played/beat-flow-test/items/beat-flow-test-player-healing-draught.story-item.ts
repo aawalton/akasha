@@ -8,9 +8,9 @@ export const beatFlowTestPlayerHealingDraught = {
   world: "world/test-world",
   story: "story-played/beat-flow-test",
   character: "character-player/beat-flow-test-player",
-  quantity: 2,
+  quantity: 1,
   category: "consumable",
   description: "A small corked bottle of red liquid that closes minor wounds, restoring 6 health.",
   createdAt: "2026-10-27T22:33:42.090Z",
-  updatedAt: "2026-10-27T22:33:42.090Z",
+  updatedAt: "2026-10-27T22:49:53.212Z",
 } as const satisfies StoryItem
