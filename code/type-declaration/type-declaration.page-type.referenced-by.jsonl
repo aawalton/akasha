@@ -190,6 +190,7 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-globals/eso-globals.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-guild-history-legacy/eso-guild-history-legacy.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-guild-history/eso-guild-history.type-declaration.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-hud-manager/eso-hud-manager.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.ts","typed":true,"deferred":false}

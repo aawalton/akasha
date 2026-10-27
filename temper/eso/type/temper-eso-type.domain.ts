@@ -106,7 +106,8 @@ export const temperEsoType = {
     "type-declaration/lua-length",
     "type-declaration/eso-api-4",
     "type-declaration/eso-interface-extra-5",
+    "type-declaration/eso-hud-manager",
   ],
   createdAt: "2026-09-02T05:20:24.696Z",
-  updatedAt: "2026-09-26T16:10:34.000Z",
+  updatedAt: "2026-10-27T19:24:45.897Z",
 } as const satisfies Domain
