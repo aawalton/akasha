@@ -4,3 +4,4 @@
 {"propertySlug":"import","fileName":"difficulty-level.page-type.types.ts","path":"story/world/stories/played/difficulty-levels/pages/very-easy.difficulty-level.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"difficulty-level.page-type.types.ts","path":"story/world/stories/played/difficulty-levels/pages/very-hard.difficulty-level.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
+{"propertySlug":"target-page-type","path":"story/world/stories/played/properties/difficulty.relation-property.ts","id":"01a17edd-5e42-7d4e-8835-cb9b0e34d614"}

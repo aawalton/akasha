@@ -50,6 +50,7 @@ export const storyPlayed = {
     "page-type/story-chapter-played",
     "page-type/story-turn-played",
     "page-type/difficulty-level",
+    "relation-property/difficulty",
     "relation-property/world",
     "instant-property/story-opens-at",
     "relation-property/cover-reroll",
@@ -145,8 +146,14 @@ export const storyPlayed = {
       uncommitted: true,
     },
     { pageProperty: "boolean-property/roleplayed", required: false, many: false },
+    {
+      pageProperty: "relation-property/difficulty",
+      required: false,
+      many: false,
+      default: "difficulty-level/normal",
+    },
     { pageProperty: "file-property/chat", required: false, many: false, default: "jsonl" },
   ],
   createdAt: "2026-09-02T22:01:28.988Z",
-  updatedAt: "2026-10-27T19:35:27.090Z",
+  updatedAt: "2026-10-27T19:36:39.233Z",
 } as const satisfies PageType
