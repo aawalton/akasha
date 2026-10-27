@@ -125,6 +125,16 @@ export const writer = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Tell The Outcome",
+      act: "Tell each settled action as its outcome tier's writer instruction says.",
+      warrant: "An action told better or worse than it landed contradicts the card above it.",
+      aids: [
+        "The outcomes are the `.outcomes.jsonl` file beside the turn; each line names its outcome tier.",
+        "Name no tier, score or modifier in the prose.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Render The Changes",
       act: "Render the changes each beat makes as the turn shows them, and name no number the changes lack.",
       warrant:
@@ -175,5 +185,5 @@ export const writer = {
     },
   ],
   createdAt: "2026-09-26T17:21:24.281Z",
-  updatedAt: "2026-10-19T19:48:20.781Z",
+  updatedAt: "2026-10-27T20:31:04.692Z",
 } as const satisfies Role

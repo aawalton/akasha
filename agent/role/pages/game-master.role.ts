@@ -244,6 +244,19 @@ export const gameMaster = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Action Difficulty",
+      act: "Name each rolled action's difficulty and its situational modifiers, and never its score.",
+      warrant: "A number picked to land an outcome reads exactly like one the dice made.",
+      aids: [
+        "Pick the difficulty from the action-difficulty pages for the task alone, never for who tries it.",
+        "The character's skill and the story's difficulty level are the formula's; never weigh them in.",
+        "A modifier names a circumstance of this moment, at most three.",
+        "Add a recent success only where the character just succeeded at a like action.",
+        "Beat the action as its outcome tier's writer instruction says.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Numbers To Mechanics",
       act: "Write no number or item a turn changes onto a page; the mechanics step works each one out.",
       warrant:
@@ -292,5 +305,5 @@ export const gameMaster = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-27T19:45:46.403Z",
+  updatedAt: "2026-10-27T20:31:04.692Z",
 } as const satisfies Role
