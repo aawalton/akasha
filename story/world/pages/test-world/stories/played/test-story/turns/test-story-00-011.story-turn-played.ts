@@ -13,8 +13,9 @@ export const testStory00011 = {
   action: "For each of the next 5 days I drill swordplay in the hall, from morning to evening.",
   beats: "jsonl",
   lore: ["lore/test-world-overview", "place/test-world-hall"],
+  reviewedBy: ["story-reviewer/scene"],
   createdAt: "2026-10-27T23:23:51.683Z",
-  updatedAt: "2026-10-27T23:32:44.022Z",
+  updatedAt: "2026-10-27T23:33:44.699Z",
   ownLength: 78,
   endsAt: "2026-11-08T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
