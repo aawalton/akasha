@@ -1,3 +1,4 @@
+{"propertySlug":"characters","path":"story/world/pages/test-world/stories/played/test-story/turns/test-story-00-010.story-turn-played.ts","id":"01a17f62-f720-7213-9210-560fa502059c"}
 {"propertySlug":"import","fileName":"test-story-player.character-player.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-story-player.character-player.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-story-player.character-player.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-upkeep.world-check.settling.test.ts","typed":false,"deferred":false}
