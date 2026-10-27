@@ -5,7 +5,7 @@ import {
   placeHudPanels,
 } from "akasha/temper/addon/pages/temper-core/modules/hud-layout-place/hud-layout-place.module.code.ts"
 
-const SCREEN = { width: 1000, height: 500 }
+const SCREEN = { width: 1000, height: 500, top: 0 }
 
 const GAPS: Record<HudDock, number> = {
   "top-left": 10,
@@ -42,6 +42,11 @@ describe("placeHudPanels", () => {
       { key: "a", point: "TOPRIGHT", offsetX: -10, offsetY: 10, room: 100 },
       { key: "b", point: "TOPRIGHT", offsetX: -10, offsetY: 120, room: 40 },
     ])
+  })
+
+  test("a top dock stacks from where the screen's room begins", () => {
+    const places = placeHudPanels({ ...SCREEN, top: 30 }, [panel("a", "top-left", 1, 50)], GAPS)
+    expect(places).toEqual([{ key: "a", point: "TOPLEFT", offsetX: 10, offsetY: 40, room: 50 }])
   })
 
   test("a bottom dock stacks its panels upward", () => {

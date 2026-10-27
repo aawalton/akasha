@@ -32,6 +32,7 @@ export interface HudPanelPlace {
 export interface HudScreen {
   readonly width: number
   readonly height: number
+  readonly top: number
 }
 
 type Side = "left" | "center" | "right"
@@ -81,9 +82,9 @@ function stackHeight(panels: readonly HudPanelBox[], rooms: Rooms, gap: number):
   return panels.length > 0 ? total - gap : 0
 }
 
-function startEnd(panels: readonly HudPanelBox[], rooms: Rooms, gap: number): number {
-  if (panels.length === 0) return 0
-  let cursor = gap
+function startEnd(panels: readonly HudPanelBox[], rooms: Rooms, gap: number, top: number): number {
+  if (panels.length === 0) return top
+  let cursor = top + gap
   for (const panel of panels) {
     cursor = panel.neverMoves
       ? Math.max(cursor, panel.top + panel.height + gap)
@@ -144,12 +145,12 @@ function placeColumn(
   const middleRun = (rooms: Rooms): number =>
     middle.length > 0 ? between + stackHeight(middle, rooms, middleGap) + between : between
   const over =
-    startEnd(starting, natural, startGap) +
+    startEnd(starting, natural, startGap, screen.top) +
     middleRun(natural) -
     endStart(ending, natural, endGap, screen.height)
   const rooms = over > 0 ? shrinkToFit(over, starting, middle, ending) : natural
   const places: HudPanelPlace[] = []
-  let cursor = startGap
+  let cursor = screen.top + startGap
   for (const panel of starting) {
     if (panel.neverMoves) {
       cursor = Math.max(cursor, panel.top + panel.height + startGap)
@@ -185,9 +186,10 @@ function placeColumn(
   }
   if (middleDock === undefined || middle.length === 0) return places
   const middleHeight = stackHeight(middle, rooms, middleGap)
-  const highest = startEnd(starting, rooms, startGap) + between
+  const highest = startEnd(starting, rooms, startGap, screen.top) + between
   const lowest = endStart(ending, rooms, endGap, screen.height) - between - middleHeight
-  let middleCursor = Math.max(highest, Math.min(lowest, (screen.height - middleHeight) / 2))
+  const centred = (screen.top + screen.height - middleHeight) / 2
+  let middleCursor = Math.max(highest, Math.min(lowest, centred))
   const side = sideOf(middleDock)
   for (const panel of middle) {
     const room = roomOf(panel, rooms)

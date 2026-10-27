@@ -14,7 +14,7 @@ export const hudLayoutPlace = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dock's first panel sits one gap from the screen's edge.",
+      statement: "A dock's first panel sits one gap from the edge of the room the screen leaves.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,5 +42,5 @@ export const hudLayoutPlace = {
     },
   ],
   createdAt: "2026-10-27T19:07:14.498Z",
-  updatedAt: "2026-10-27T19:07:14.498Z",
+  updatedAt: "2026-10-27T19:30:27.875Z",
 } as const satisfies Module
