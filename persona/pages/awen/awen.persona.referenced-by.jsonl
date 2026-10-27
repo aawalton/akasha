@@ -19,6 +19,7 @@
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-e79a6e39de58424a.image.ts","id":"01a0e971-1094-77bb-ad28-b30d6b51be79"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-f270d9ac0cb52316.image.ts","id":"019f1839-4093-788a-96a1-a5d7fc05292e"}
 {"propertySlug":"import","fileName":"awen.persona.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-beat-flow.initiative.ts","id":"01a17ecd-1762-7eac-9a56-f898bbd9d50c"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-character-data.initiative.ts","id":"01a17ead-74c1-7bc6-853a-b8e38597db67"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-character-panel.initiative.ts","id":"01a17ead-74c1-7d79-95f9-216dc0793812"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-chat-panel.initiative.ts","id":"01a17eae-d9b6-7854-a3a3-565b4404a657"}
