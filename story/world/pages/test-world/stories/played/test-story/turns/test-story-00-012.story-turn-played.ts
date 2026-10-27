@@ -13,9 +13,9 @@ export const testStory00012 = {
   action:
     "Each day I drill swordplay in the hall from morning to evening, until my swordplay reaches its next rung, for at most 10 days.",
   beats: "jsonl",
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
   createdAt: "2026-10-27T23:37:05.705Z",
-  updatedAt: "2026-10-27T23:43:23.142Z",
+  updatedAt: "2026-10-27T23:43:33.100Z",
   ownLength: 108,
   endsAt: "2026-11-11T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
