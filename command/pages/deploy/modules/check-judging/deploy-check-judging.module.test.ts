@@ -61,6 +61,11 @@ test("the change is judged over the pages the deploy's commit holds, index and b
   }
 })
 
+test("the change is pinned, so its tests are read at the deploy's commit", () => {
+  expect(FRESH.pinned).toBe(true)
+  expect(NAMED.pinned).toBe(true)
+})
+
 const GIT = ["git", "-c", "user.name=held", "-c", "user.email=held@example.com"]
 
 function gitIn(root: string, ...words: string[]): string {

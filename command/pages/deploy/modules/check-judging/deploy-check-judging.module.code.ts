@@ -40,7 +40,7 @@ export function changeFrom(
   also: readonly string[] = []
 ): Change {
   const at = (path: string) => bodyAt(root, now, path)
-  const pinned = { root, base: now, pages: pagesAt(root, now), before: at, after: at }
+  const pinned = { root, base: now, pinned: true, pages: pagesAt(root, now), before: at, after: at }
   if (was === null) {
     const changed = [...built]
     return { ...pinned, changed, carried: carriedWith(root, now, built, changed) }

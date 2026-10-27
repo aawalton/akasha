@@ -125,7 +125,16 @@ export const deployCheckJudging = {
       statement:
         "The change carries every file the deploy is built from, so the run reads that commit.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The change is pinned, so each test run and its imports are read at this commit too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landing after this commit moves nothing the deploy's tests read by import.",
+    },
   ],
   createdAt: "2026-09-11T18:12:51.494Z",
-  updatedAt: "2026-10-25T00:19:25.046Z",
+  updatedAt: "2026-10-27T20:52:36.697Z",
 } as const satisfies Module
