@@ -1,2 +1,3 @@
 {"propertySlug":"import","fileName":"critical-failure.outcome-tier.ts","path":"story/world/mechanics/modules/tiered-roll/tiered-roll.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"critical-failure.outcome-tier.ts","path":"story/world/mechanics/modules/tiered-roll/tiered-roll.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"critical-failure.outcome-tier.ts","path":"story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx","typed":false,"deferred":false}
