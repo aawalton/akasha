@@ -3,5 +3,5 @@
 {"beat":3,"event":"The player cuts once, level, through the taper's middle.","prose":"You step in and cut once, level, through the middle of the taper.","changes":[],"memory":[],"pictured":[]}
 {"beat":4,"event":"The blade passes clean, and the burning top half drops onto the counter.","prose":"The blade passes clean, and the burning top half drops onto the counter.","continues":true,"changes":[],"memory":[],"pictured":[]}
 {"beat":5,"event":"Its flame ducks and gutters low as it falls, then rights itself and burns on.","prose":"The flame ducks and gutters low on the way down, then rights itself and burns on.","continues":true,"changes":[],"memory":[],"pictured":[]}
-{"beat":6,"event":"The shopkeeper has stepped back from the counter, staring at the two halves.","prose":"The shopkeeper has stepped back from the counter. She stares at the two halves of the taper.","changes":[]}
+{"beat":6,"event":"The shopkeeper has stepped back from the counter, staring at the two halves.","prose":"The shopkeeper has stepped back from the counter. She stares at the two halves of the taper.","changes":[],"memory":[]}
 {"beat":7,"event":"She looks from the burning half to the bare blade and asks the player what that was for.","prose":"Her eyes go from the burning half to your bare blade. \"What was that for?\"","continues":true,"at":"2026-10-27T08:44:00.000Z","changes":[]}
