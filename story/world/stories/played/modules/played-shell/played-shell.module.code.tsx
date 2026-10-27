@@ -362,8 +362,7 @@ function PlayedStory({
   const settled = panelsHeld !== null && (barRead || bar === null)
   const placed = chatPlaced(
     placedFrom(shown, (drawn) => <PlayedPanels shown={drawn} envelope={envelope} run={panelRun} />),
-    playable ? externalId : undefined,
-    narrator
+    playable ? externalId : undefined
   )
 
   return (

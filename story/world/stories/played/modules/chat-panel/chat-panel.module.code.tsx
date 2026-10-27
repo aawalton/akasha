@@ -20,9 +20,10 @@ import {
   sendAction,
 } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import type { PendingAction } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
-import { feedbackTo } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { ArrowUp } from "lucide-react"
 import { type ReactNode, useCallback, useEffect, useLayoutEffect, useRef, useState } from "react"
+
+const THE_ASSISTANT = "the assistant"
 
 export type ChatFrom = "alan" | "game-master"
 
@@ -279,16 +280,11 @@ export function AssistantChat({
 
 export function chatPlaced(
   placed: ReadonlyMap<string, ReactNode>,
-  gameExternalId: string | undefined,
-  narrator: string | null
+  gameExternalId: string | undefined
 ): ReadonlyMap<string, ReactNode> {
   if (gameExternalId === undefined) return placed
   const drawn = (
-    <AssistantChat
-      key={chat.slug}
-      gameExternalId={gameExternalId}
-      answerer={feedbackTo(narrator)}
-    />
+    <AssistantChat key={chat.slug} gameExternalId={gameExternalId} answerer={THE_ASSISTANT} />
   )
   return new Map<string, ReactNode>([...placed, [chat.slug, drawn]])
 }
