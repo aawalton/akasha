@@ -47,6 +47,7 @@ export const worldCheck = {
     "world-check/overwhere-iv-needs",
     "world-check/overwhere-iv-trade",
     "world-check/test-story-action-check",
+    "world-check/gifted-reborn-time-passing",
   ],
   properties: [
     { pageProperty: "module-property-group/settling", required: true, many: false },
@@ -106,5 +107,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-27T19:38:29.106Z",
+  updatedAt: "2026-10-27T19:39:20.989Z",
 } as const satisfies PageType

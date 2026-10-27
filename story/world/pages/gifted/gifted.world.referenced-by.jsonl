@@ -44,4 +44,7 @@
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-outpost-office.place.ts","id":"01a17edb-c5da-7a10-acbd-78842a45efbc"}
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-outpost-stable.place.ts","id":"01a17edb-c5da-72c7-b670-e243ac551c1b"}
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-outpost-yard.place.ts","id":"01a17edb-c5db-7968-8fc6-f2e34d215c56"}
+{"propertySlug":"world","path":"story/world/pages/gifted/stories/played/gifted-reborn/characters/gifted-reborn-nala.character-player.ts","id":"01a17edf-d61e-7bf0-988c-dabc6d7162ff"}
+{"propertySlug":"world","path":"story/world/pages/gifted/stories/played/gifted-reborn/gifted-reborn.story-played.ts","id":"01a17edf-d61e-70e1-90ec-fc5f0aacf6e3"}
+{"propertySlug":"world","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-time-passing.world-check.ts","id":"01a17edf-d61f-7574-9598-5df749060e23"}
 {"propertySlug":"world","path":"story/world/pages/gifted/stories/read/gifted/gifted.story-read.ts","id":"01a0e9b3-1cb0-7d10-8141-d9958442ce60"}

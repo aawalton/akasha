@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"world-check.page-type.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-time-passing.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-action-check.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-growth.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-harm.world-check.ts","typed":true,"deferred":false}
