@@ -104,7 +104,7 @@ function restatingSaid(asked: BeatAsking): Said {
   const listed = issues.map((one) => `- ${one.issue}`).join("\n")
   return {
     who: "game master",
-    work: `The numbers seat refused beat ${beat}:\n\n${listed}\n\nState the turn's beats again from beat ${beat} on, or rule the issue out by stating beat ${beat} as it was. Write the whole beats file: every beat before beat ${beat} word for word as it is in \`${beats}\`, then beat ${beat} and the beats after it as they should be. The beats before beat ${beat} keep every part the steps gave them, and every part of beat ${beat} and the beats after it is worked again.`,
+    work: `The numbers seat refused beat ${beat}:\n\n${listed}\n\nState the turn's beats again from beat ${beat} on, or rule the issue out by stating beat ${beat} as it was. Write a beats file holding beat ${beat} and the beats after it alone, its first line naming beat ${beat}, as the lines in \`${beats}\` are shaped. Hand in none of the beats before beat ${beat}: they are kept as they are, with every part the steps gave them, and every part of beat ${beat} and the beats after it is worked again.`,
     flags: `${beatsFile.said} ${PATH}`,
   }
 }
