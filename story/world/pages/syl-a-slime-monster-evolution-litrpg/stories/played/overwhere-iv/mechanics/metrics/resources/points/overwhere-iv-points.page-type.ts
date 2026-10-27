@@ -5,7 +5,7 @@ export const overwhereIvPoints = {
   type: "page-type/page-type",
   slug: "overwhere-iv-points",
   definition: "the unspent points of one kind a character in Overwhere IV holds",
-  extends: ["page-type/metric-character-resource"],
+  extends: ["page-type/metric-character-point"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -28,5 +28,5 @@ export const overwhereIvPoints = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-29T12:27:03.550Z",
-  updatedAt: "2026-09-29T12:27:09.000Z",
+  updatedAt: "2026-10-27T18:53:28.972Z",
 } as const satisfies PageType

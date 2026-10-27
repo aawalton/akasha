@@ -1,3 +1,3 @@
-import type { MetricCharacterResource } from "akasha/story/world/mechanics/metrics/metric-character/resource/metric-character-resource.page-type.types.ts"
+import type { MetricCharacterPoint } from "akasha/story/world/mechanics/metrics/metric-character/resource/point/metric-character-point.page-type.types.ts"
 
-export type OverwhereIvPoints = MetricCharacterResource & {}
+export type OverwhereIvPoints = MetricCharacterPoint & {}

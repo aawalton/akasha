@@ -5,9 +5,9 @@ export const otherwhereIxStatPoints = {
   type: "page-type/page-type",
   slug: "otherwhere-ix-stat-points",
   definition: "the unspent stat points a character in Otherwhere IX holds",
-  extends: ["page-type/metric-character-resource"],
+  extends: ["page-type/metric-character-point"],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-29T01:25:44.499Z",
-  updatedAt: "2026-09-29T01:25:49.000Z",
+  updatedAt: "2026-10-27T18:53:28.972Z",
 } as const satisfies PageType
