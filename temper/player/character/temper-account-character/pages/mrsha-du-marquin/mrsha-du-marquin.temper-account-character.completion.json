@@ -2516,9 +2516,9 @@
       "nextRankXP": 211320
     },
     "111": {
-      "currentRank": 8,
-      "currentXP": 119,
-      "nextRankXP": 180
+      "currentRank": 9,
+      "currentXP": 131,
+      "nextRankXP": 200
     },
     "117": {
       "currentRank": 12,
@@ -10106,7 +10106,8 @@
         1,
         2,
         3,
-        4
+        4,
+        5
       ],
       "2": [
         1,
@@ -12783,11 +12784,11 @@
   },
   "inventoryCheck": {
     "date": "2026-10-27",
-    "misplaced": 71
+    "misplaced": 49
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1793115348,
+      "capturedAt": 1793115687,
       "buildHash": "ATQO8oFAQABgQQMy5V1AEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIA2AANAEIBBKTdAEIBBKTdAEIBBKTdAEIAeBUnbcoWXwQ4xpKCAAHMAJA0QiRgAO0IonXwaBkl4gkQQpEAfz4GhHYFh3QOqRGwiMiByjGdBBnUODHCIhQhIyIgIDMwIjISAiMiNSAiMiIjNBACIiAyIQACEzIjA6MjAjoiZDMjIyAAKCIiQqMwIiIwI6y6AGo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAwQGQsYkDWBRDUgAAAAK",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
@@ -12809,7 +12810,7 @@
         "resistance-physical": 12551,
         "penetration-physical": 5854,
         "health-recovery": 399,
-        "stamina-recovery": 0,
+        "stamina-recovery": 1543,
         "power-weapon": 2886
       },
       "unbonusedStats": {
@@ -12826,7 +12827,7 @@
         "resistance-physical": 0,
         "penetration-physical": 0,
         "health-recovery": 399,
-        "stamina-recovery": 0,
+        "stamina-recovery": 1543,
         "power-weapon": 1000
       },
       "activeBuffs": [
@@ -14331,7 +14332,7 @@
       ],
       "inArchive": false,
       "blocking": false,
-      "moving": true,
+      "moving": false,
       "archiveBoons": [],
       "advanced": {
         "critical-damage": 0.1,
