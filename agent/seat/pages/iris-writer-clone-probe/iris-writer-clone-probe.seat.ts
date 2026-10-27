@@ -11,6 +11,7 @@ export const irisWriterCloneProbe = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "c501499f-6c79-43a6-90b5-1ea90faef2a4",
   createdAt: "2026-10-27T21:54:53.063Z",
-  updatedAt: "2026-10-27T21:54:53.063Z",
+  updatedAt: "2026-10-27T21:55:05.597Z",
 } as const satisfies Seat
