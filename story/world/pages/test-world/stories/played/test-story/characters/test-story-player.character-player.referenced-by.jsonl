@@ -13,6 +13,7 @@
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-shop-lantern.story-item.ts","id":"01a17f0a-b98f-75c4-b982-82d081995f76"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/test-world/lore/test-world-overview.lore.ts","id":"01a17ec5-127b-73a8-816f-db2d2a379d02"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/test-world/places/test-world-cellar.place.ts","id":"01a17ec5-127b-7fa9-be67-1de8f228ceee"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/places/test-world-hall.place.ts","id":"01a17ec5-127c-7c95-8abc-8383ca570a2c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/test-world/places/test-world-shop.place.ts","id":"01a17ec5-127c-728d-b964-e90af5658595"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/test-story/mechanics/metrics/experiences/test-story-player.metric-character-experience.ts","id":"01a17ec6-9eaf-768f-b5d0-4a37a58f65de"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/test-story/mechanics/metrics/healths/test-story-player.metric-character-health.ts","id":"01a17ec6-9eaf-7b0b-8053-c85cc6cd59a0"}
