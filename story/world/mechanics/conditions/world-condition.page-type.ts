@@ -7,10 +7,10 @@ export const worldCondition = {
   definition: "a change the world makes to a character, that stays with them",
   pluralSlug: "conditions",
   extends: ["page-type/world-mechanic"],
-  parts: ["page-type/overwhere-iv-condition-held"],
+  parts: [],
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-09-30T09:52:25.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies PageType

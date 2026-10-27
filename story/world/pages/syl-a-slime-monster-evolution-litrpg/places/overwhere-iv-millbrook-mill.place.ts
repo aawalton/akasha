@@ -9,7 +9,7 @@ export const overwhereIvMillbrookMill = {
   facts: [
     {
       fact: "Millbrook Mill is the water mill by the town gate, its wheel turned by the Millbrook.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The mill is run by the miller Hesper Pell, who grinds grain for the whole vale.",
@@ -17,19 +17,11 @@ export const overwhereIvMillbrookMill = {
     },
     {
       fact: "The mill's main shaft is cracked, and the stones can only turn slowly or not at all.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
     {
       fact: "Harvest grain is backing up in sacks and carts outside the mill.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
     {
       fact: "A new shaft needs a great oak beam and a skilled millwright, neither to be had nearby.",
@@ -45,5 +37,5 @@ export const overwhereIvMillbrookMill = {
     },
   ],
   createdAt: "2026-09-29T12:38:36.572Z",
-  updatedAt: "2026-09-30T08:42:02.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Place

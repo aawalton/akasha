@@ -25,19 +25,11 @@ export const overwhereIvWatBarrow = {
     },
     {
       fact: "Captain Hale has ordered every traveller robbed by the Red Hand sent to him to be asked.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wat would tell a robbed stranger to see the captain in the gatehouse, and Sister Anwen for bread.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No toll is asked of a stranger on foot with nothing to sell.",
@@ -45,36 +37,20 @@ export const overwhereIvWatBarrow = {
     },
     {
       fact: "Wat Barrow is a young, lanky guard of Millbrook's gate watch who keeps a gate ledger.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wat wrote Nala into the gate ledger by name, her business robbed, and asked her no toll.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sister Anwen at Millbrook's shrine gives out bread at dusk.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wat saw the room bend when the hall crystal flared at Nala's touch.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
@@ -82,5 +58,5 @@ export const overwhereIvWatBarrow = {
     },
   ],
   createdAt: "2026-09-30T08:46:56.466Z",
-  updatedAt: "2026-09-30T11:36:33.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

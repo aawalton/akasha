@@ -9,19 +9,19 @@ export const overwhereIvMillbrookCommon = {
   facts: [
     {
       fact: "Millbrook Common is open grazing ground along a brook, below a small walled town.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A wooden footbridge crosses the brook, and a mill wheel turns beside the town gate.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sheep graze the common, and a few small blue slimes bob in the long grass by the water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A road runs past the common into the town gate, busy with carts on market days.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Millbrook lies in a quiet corner of the kingdom, far from great cities and famed adventurers.",
@@ -45,11 +45,7 @@ export const overwhereIvMillbrookCommon = {
     },
     {
       fact: "Lately more slimes gather on the common each day than the day before.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "Some of the new slimes are melon-sized, larger than the fist-sized ones usual here.",
@@ -57,15 +53,11 @@ export const overwhereIvMillbrookCommon = {
     },
     {
       fact: "The townsfolk have noticed the growing slime crowd, and nobody can say why.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "A slime with a red stone followed Nala across the common as far as the water's edge.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "This afternoon some thirty small slimes and five melon-sized ones dot the common.",
@@ -73,7 +65,7 @@ export const overwhereIvMillbrookCommon = {
     },
     {
       fact: "Near Nala the slimes grow calm and drift toward her; none flees her spear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A thrust that misses the core only splashes jelly; the slime lurches and clings to the foot.",
@@ -89,7 +81,7 @@ export const overwhereIvMillbrookCommon = {
     },
     {
       fact: "A killed slime slumps to a puddle of jelly around its core, which dulls from red to grey.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Three jelly children work the common with jars, led by Tam Brewer, a boy of ten.",
@@ -105,11 +97,11 @@ export const overwhereIvMillbrookCommon = {
     },
     {
       fact: "Slime jelly nettles bare skin at once with a hot prickle.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A boy of about ten claims a melon-sized slime with a red stone as his, and warned Nala off it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The slimes gather because they are drawn to Nala's dimensional mana.",
@@ -121,7 +113,7 @@ export const overwhereIvMillbrookCommon = {
     },
     {
       fact: "Upstream of the footbridge, a screen of willows hides a grassy bend from town and road.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A few small slimes always bob in the willow bend, where the jelly children seldom go.",
@@ -130,5 +122,5 @@ export const overwhereIvMillbrookCommon = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:10:28.174Z",
-  updatedAt: "2026-09-30T10:39:08.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Place

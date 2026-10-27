@@ -13,15 +13,11 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "The hall is a narrow stone building on the square, with a guild sign over the door.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The job board by the hall door holds pinned notices of work and bounties.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "Most jobs on the board are small: pest slimes, wolves, lost sheep, escorts and herbs.",
@@ -41,11 +37,7 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "Bronze registration costs one silver, and the new member receives a bronze tag.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "Bronze members may take small jobs and are paid through the hall.",
@@ -69,11 +61,7 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "Pest slimes: 3 copper for each slime core brought in from farms or the common.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "Wolves in the Tangle: 5 copper a wolf pelt, 2 silver for the grey pack leader.",
@@ -127,7 +115,6 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "Touching the cracked crystal is free, offered to any newcomer who asks.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
         "lore/overwhere-iv-brenna-holt",
         "lore/overwhere-iv-wat-barrow",
       ],
@@ -136,10 +123,6 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "For most folk the cracked crystal gives a faint glow in one or two colours, and no more.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
@@ -147,43 +130,23 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "The Millbrook Adventurers' Hall stands on the town square, up the lane from the gate.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A cloudy fist-sized crystal, cracked across, sits on a shelf behind the hall's counter.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "Inside the hall are a long counter, a few benches, a hearth and walls papered with notices.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "Wolf and goblin work at the hall pays better than slimes, and is more dangerous.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "A branch hall's bronze tag is a punched metal tag on a leather cord.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "Crystal tags that hold coin and count kills are issued only at city halls like Aubrin's.",
@@ -191,25 +154,16 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "The ledger reads NALA, WATCH, OWES 1 S; Ilsa takes the silver off her core money.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "Ilsa pays the same for a cracked core as a whole one; alchemists grind them anyway.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "The hall's cracked crystal tells a newcomer's colour, and not much else.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
         "lore/overwhere-iv-brenna-holt",
         "lore/overwhere-iv-wat-barrow",
       ],
@@ -220,11 +174,7 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "Tonight the Brookside Four sit by the hearth, back from the Tangle with two wolf pelts.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "The crystal shows fire as red, water as blue, earth as brown and air as pale green.",
@@ -254,10 +204,6 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "Her flare is clear yet bends the light behind it, like looking through folded glass.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
@@ -267,10 +213,6 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "The flare fills the hall a heartbeat, and the crack runs on with a sound like river ice.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
@@ -280,10 +222,6 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "No other color shows beside Nala's flare.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
@@ -293,21 +231,13 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "A card of colours in neat ink hangs on a nail beside the hall's crystal.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
       ],
     },
     {
       fact: "Ilsa told Nala her clear flare is not on the card of colours.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "The goblin bounty pays only on an ear; a goblin driven off pays nothing.",
@@ -315,19 +245,11 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "Goblins raiding a farm are written in the ledger, and Ilsa pins a job for them by morning.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "A fresh notice by the hall counter reads GOBLINS AT HOBB'S. 1 SILVER AN EAR.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "For the lookout Ilsa pays 5 silver for ears, 8 copper a goblin core, 3 copper a sheep home.",
@@ -347,5 +269,5 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
   ],
   createdAt: "2026-09-29T12:37:34.866Z",
-  updatedAt: "2026-10-03T11:25:38.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Place

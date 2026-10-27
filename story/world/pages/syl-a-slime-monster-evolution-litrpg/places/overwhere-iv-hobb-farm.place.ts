@@ -9,11 +9,11 @@ export const overwhereIvHobbFarm = {
   facts: [
     {
       fact: "Hobb Farm lies a mile west of Millbrook, across the footbridge, hard against the Tangle.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "It is a stone farmhouse, a barn, an orchard and three sheep fields walled in dry stone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Farmer Jory Hobb is a widower of sixty, stooped and sour, with a sheepdog called Bran.",
@@ -25,7 +25,7 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "Some forty blue slimes crowd the orchard and the ditches, eating the windfall apples.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The slimes here are LV 1 to 3, fatter than the common's for the apples.",
@@ -33,7 +33,7 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "Two of Hobb's sheep went missing this week from the field nearest the trees.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goblin tracks and a torn fleece lie in the mud at the far wall, by a gap onto the Tangle.",
@@ -49,7 +49,7 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "As at the common, the orchard slimes still and drift to Nala; they come to her in a crowd.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hobb has never seen slimes come to anyone, and would call it witchery, half-pleased.",
@@ -73,27 +73,23 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "Hobb Farm, on the Tangle's edge, is overrun with pest slimes, and Hobb wants every one gone.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "Pim, a boy of about fourteen, is the farmer's grandson; the farm's sheepdog is Bran.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hobb blames wolves for his two lost sheep.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hobb has never seen the thief; he guesses a wolf or two from the sheep taken.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pim once glimpsed two small figures at the far wall at dusk, and took them for village boys.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The two goblins have about nine and twelve health, and wear hide scraps worth a ward of one.",
@@ -105,35 +101,27 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "Hobb called the slimes coming to Nala witchery, half-pleased.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At dusk on day two Bran stiffened and barked hard toward the orchard's far field wall.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pim's two small figures went on two legs, and ran into the Tangle's trees when he shouted.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Small bare-toed tracks, not paws, and a torn fleece lie in the mud by the far wall's gap.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "At dusk on day two, two child-sized grey-green figures in hide scraps crept from the Tangle.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Of the two figures, one carries a flint-tipped spear and one a rusty knife; both eye the sheep.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "The spear goblin is the LV 4 and goes first; the LV 3 knife goblin hangs a step behind it.",
@@ -141,7 +129,7 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "A lone woman who seems afraid draws both goblins on, jabbering and grinning, spear levelled.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The spear goblin stops to jab from its spear's length; it has never met a longer reach.",
@@ -149,11 +137,11 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "A goblin that breaks runs for the gap and the Tangle, quick on bare feet over wet grass.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In the Tangle's dark past the gap, a fleeing goblin is lost within a few strides.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The goblins jabber in their own tongue; spoken to in the common tongue, they only sneer.",
@@ -169,7 +157,7 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "The cornered knife goblin ducks for the low bramble gap as soon as her spear moves.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The knife goblin wears a thong pouch holding one bent copper and three shiny river pebbles.",
@@ -185,50 +173,45 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "Told goblins took his sheep and were driven off hurt, Hobb pays Nala a silver of his own.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hobb fears the goblins will be back with more, and wants the hall told tonight.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hobb presses her to take stew first, and sends Pim with a lantern to the footbridge.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The spear goblin dropped its flint spear in the grass of the far field as it fled.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala cornered the bleeding knife goblin against a bramble at the Tangle's edge, a low gap behind it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's folded thrust cut the knife goblin's neck; her spearhead then snagged fast in the bramble.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The neck-cut knife goblin, bleeding and slowing, is squeezing half through the low bramble gap.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala told Hobb, Pim and then Ilsa the sheep thieves were two goblins, driven off into the Tangle.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-brookside-four",
       ],
     },
     {
       fact: "Hobb's three lost sheep came home from the Tangle; Hobb counted them twice and shook every hand.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
   ],
   createdAt: "2026-09-30T17:32:04.132Z",
-  updatedAt: "2026-09-30T21:01:04.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Place

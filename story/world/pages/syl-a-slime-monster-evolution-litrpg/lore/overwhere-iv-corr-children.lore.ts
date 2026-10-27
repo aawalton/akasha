@@ -37,21 +37,13 @@ export const overwhereIvCorrChildren = {
     },
     {
       fact: "Told it's training the senses, Lissy dares the sitter to find her blindfold, and runs to hide.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-corr-children",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-corr-children"],
     },
     {
       fact: "Bram calls Lissy in for stable chores at dusk, and she always comes, grumbling.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-corr-children",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-corr-children"],
     },
   ],
   createdAt: "2026-09-29T12:39:52.161Z",
-  updatedAt: "2026-10-02T17:34:25.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

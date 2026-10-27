@@ -9,11 +9,7 @@ export const overwhereIvMaudTarrow = {
   facts: [
     {
       fact: "Maud Tarrow is the baroness of Tarrow.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
     {
       fact: "She has no children, and her nephew Cedric is her heir.",
@@ -29,14 +25,10 @@ export const overwhereIvMaudTarrow = {
     },
     {
       fact: "Garrett calls Baroness Maud firm but fair, and says she has been poorly since summer.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:40:31.892Z",
-  updatedAt: "2026-09-30T08:42:02.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

@@ -17,11 +17,7 @@ export const overwhereIvEastRoad = {
     },
     {
       fact: "The Red Hand bandits prey on travellers and carts along the east road.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
     {
       fact: "Carters and merchants travel the east road in groups when they can.",
@@ -29,11 +25,7 @@ export const overwhereIvEastRoad = {
     },
     {
       fact: "The Red Hand strike in Hollin Wood, past the second bridge, a day's walk east of town.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "They come eight to ten strong, faces masked in red-dyed cloth, with bows and clubs.",
@@ -49,13 +41,9 @@ export const overwhereIvEastRoad = {
     },
     {
       fact: "Brigands have worked the east road all month, stripping folk to their smallclothes.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
   ],
   createdAt: "2026-09-29T12:39:29.056Z",
-  updatedAt: "2026-09-30T09:05:52.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Place

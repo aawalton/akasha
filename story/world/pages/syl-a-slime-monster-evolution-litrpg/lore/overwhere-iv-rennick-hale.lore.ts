@@ -18,11 +18,7 @@ export const overwhereIvRennickHale = {
     },
     {
       fact: "He questions each traveller the Red Hand robbed: where, how many, which way they went.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A robbery story with no place, no count and no road in it would make him wary.",
@@ -38,61 +34,33 @@ export const overwhereIvRennickHale = {
     },
     {
       fact: "To anyone wanting strength he says: levels come from fighting, and fighting kills fools.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He would send a would-be fighter to the hall, to start on slimes and pests and learn.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He knows a first real fight won often brings the System's offer of a class.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The watch drills recruits in the gate yard at dawn; he takes anyone who stays the course.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Watch pay is 6 copper a day with a bunk and board, and the watch is short of hands.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Captain Hale is a broad older man in a worn leather coat who works from the gatehouse.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hale has seen robbed men lose all but the memory of the knife, afterward.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T12:39:52.162Z",
-  updatedAt: "2026-09-30T09:05:52.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

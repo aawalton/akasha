@@ -18,7 +18,7 @@ export const overwhereIvTheTangle3 = {
     },
     {
       fact: "A fox at the cleft's dead bolts from anyone coming; nothing else living is near by day.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On a breeze down the cleft comes faint woodsmoke from Grakk's camp fires, two and a half miles on.",
@@ -26,11 +26,11 @@ export const overwhereIvTheTangle3 = {
     },
     {
       fact: "A breeze down the cleft by day carries a faint smell of woodsmoke from far up the trail.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Grakk's trail watchers are LV 4 and LV 5 goblins in a brush hide on a rise beside the trail.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The LV 5 watcher holds a horn to warn the camp; the LV 4 would run to it.",
@@ -70,7 +70,7 @@ export const overwhereIvTheTangle3 = {
     },
     {
       fact: "Alarmed, the LV 5 lifts his horn first, needing a breath to blow; a rend at once beats it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The watcher's horn, blown, is heard at the camp; a dozen goblins come down within half an hour.",
@@ -82,19 +82,19 @@ export const overwhereIvTheTangle3 = {
     },
     {
       fact: "Nala cut six cores from the goblin dead in the cleft and bagged them with their ears.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Past the cleft the deer trail climbs on through oak and yew, toward a smell of smoke.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A mile and more past the cleft, two goblin watchers hide behind a fallen trunk by the trail.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At a stick's crack under Nala's boot, the smaller watcher ran for camp; the other raised a horn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "As the horn falls, the fleeing LV 4 is some twenty-eight paces off, in plain sight up the trail.",
@@ -106,7 +106,7 @@ export const overwhereIvTheTangle3 = {
     },
     {
       fact: "From the watchers' rise the woodsmoke is plain, and faint axe-strokes carry down from up the trail.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Since the strike broke, Grakk has the camp felling oaks to stake a wall round the stone ring.",
@@ -114,15 +114,15 @@ export const overwhereIvTheTangle3 = {
     },
     {
       fact: "Her sense, spread wide, finds nothing living near but birds; the trail ahead lies empty.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In the hide lie a water gourd, a gnawed hare bone, and the watcher's horn of yellowed bone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's rends beheaded both trail watchers: the LV 5 before he could blow, the LV 4 as he ran.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At dusk the watchers' relief finds them headless; at first light Grakk sends a dozen down to hunt.",
@@ -174,15 +174,15 @@ export const overwhereIvTheTangle3 = {
     },
     {
       fact: "On day 10 Nala crept alone up the deer trail, off it in the brush, her sense spread in pulses.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Near 08:45, some 1.7 miles in, her sense found two silent goblins coming down, forty paces ahead.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Beyond those two she heard many goblins muttering up the trail, and one heavy tread.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In the still air of day 10's morning, the hunters' muttering carries some hundred paces.",
@@ -202,11 +202,7 @@ export const overwhereIvTheTangle3 = {
     },
     {
       fact: "Hot on a chase, the hunters follow their quarry out of the trees and into the ford.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Alone, the scouts keep their distance, shrieking where she is, and close only once the file is up.",
@@ -214,15 +210,15 @@ export const overwhereIvTheTangle3 = {
     },
     {
       fact: "Creeping on the scouts, Nala crunched leaves at twenty paces; the nearer saw her and shrieked.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The nearer scout skipped back out of reach; the other took up the shriek and hid behind a trunk.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the shrieks, a roar went up some ninety paces off, and the file came charging down at her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The hunters' scouts are their sharpest: a LV 6 and a LV 5, each with a knife and a short spear.",
@@ -230,11 +226,7 @@ export const overwhereIvTheTangle3 = {
     },
     {
       fact: "At the treeline the hobgoblin shoulders to the front, roaring, and wades first into the ford.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "The hunters' hobgoblin is LV 9, in a hide jerkin, with an iron-banded maul.",
@@ -250,33 +242,21 @@ export const overwhereIvTheTangle3 = {
     },
     {
       fact: "Running for the ford, Nala took a sling stone high on her left shoulder.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala crossed Tull's ford and got over the sheep wall to the Four, the hunters pouring out behind.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "A hobgoblin with a maul burst from the trees roaring and waded first into the ford.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Nine goblins poured out of the Tangle after Nala, shrieking, straight for Tull's ford.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
   ],
   createdAt: "2026-10-03T11:23:15.751Z",
-  updatedAt: "2026-10-08T16:25:51.892Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

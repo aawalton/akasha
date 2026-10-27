@@ -18,15 +18,15 @@ export const overwhereIvGarrettPell = {
     },
     {
       fact: "Garrett hauls grain and goods with a two-horse cart, to the mill and east to Aubrin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He stopped his cart on the road by the common to stare at a barefoot stranger.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garrett will offer a stranger in need a ride into town and his old coat.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He knows everyone in the vale and chatters about all of them.",
@@ -38,11 +38,11 @@ export const overwhereIvGarrettPell = {
     },
     {
       fact: "Asked where she is, Garrett says Millbrook, in the Wendmere Vale, barony of Tarrow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He takes a barefoot, half-dressed stranger for a traveller robbed on the east road.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Her grey shirt and black tights look to him like foreign underthings, and he reddens.",
@@ -50,11 +50,11 @@ export const overwhereIvGarrettPell = {
     },
     {
       fact: "He hears her faint lilt as some far southern accent and thinks no more of it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Today his cart carries sacks of grain to his sister's mill by the town gate.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He would send a stray to the Brook & Barrel, where Marta Hesk is kind to strays.",
@@ -86,7 +86,7 @@ export const overwhereIvGarrettPell = {
     },
     {
       fact: "Talking of the vale, he names the goblins taking sheep from Tangle-edge farms.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He grumbles that the Red Hand bandits make every run east to Aubrin a gamble.",
@@ -94,77 +94,61 @@ export const overwhereIvGarrettPell = {
     },
     {
       fact: "He frets aloud over Hesper's cracked mill shaft and the grain piling up outside.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He speaks warmly of the baroness, and sadly, for word is she has been ailing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He finds Cedric Tarrow, who runs things now, smooth-spoken and cold, and keeps clear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He calls Old Selby a witch, fondly, and swears by her salves for his back.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He says the Brookside Four are good lads but green, and Crowstone Quarry is best avoided.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garrett Pell is a big carter for the vale, forty or so, who drives two brown horses.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garrett has hauled the vale's roads for twenty years, grain to the mill, wool and jelly east.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garrett's wife died of a fever three winters ago.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garrett has two daughters, Pip and Wenna, whom his sister minds while he is out.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garrett's cart horses are named Barley and Moss.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the gate Garrett told Wat that the Red Hand had robbed Nala.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garrett told Captain Hale he found Nala sat in the grass on the common.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garrett let Nala keep his coat, saying Millbrook is small and she will not lose him.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At dawn Garrett's cart left Millbrook east for Aubrin, carrying the report.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T12:38:22.066Z",
-  updatedAt: "2026-09-30T21:49:50.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

@@ -65,27 +65,27 @@ export const overwhereIvCrakeGill = {
     },
     {
       fact: "Five miles up the Crowstone track a steep gully crosses it, its sides choked with gorse.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A beast tall as a pony sleeps among bones in a hollow under a rock shelf at the gully's head.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The sleeping beast has a ridge down its spine, hard and thin as a row of blades.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the track, gorse hides the overhang at the gully's head from sight.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Above the overhang at the gully's head is a lip of loose stone, steep and high.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ten minutes of Nala's tries from the gully never stirred the sleeping beast.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Along the gill's north rim, sixty paces of soft heather reach the lip; only its last are loose.",
@@ -113,35 +113,35 @@ export const overwhereIvCrakeGill = {
     },
     {
       fact: "The gully's north rim is soft heather, with loose stones hidden under it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Stones clattering down the gully side woke the sleeping beast at once.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Awake, the grey-black beast raises the ridge on its back and charges in silence.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Up the fifteen-pace scramble the wolf comes in bounds, head low and neck leading, in sight.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The scramble gives her two heartbeats, no more, between its foot and the rim.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Throat cut, the beast ran onto Nala's braced spear and hangs on it, silent but still alive.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The speared beast shoves up the shaft, snapping; the soft-iron head grinds and the ash shaft bows.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The wolf's weight on the practice spear has split the ash shaft a hand below the head.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A dead blade wolf's spine ridge keeps its edge; grabbed or rolled carelessly, it cuts.",
@@ -165,9 +165,9 @@ export const overwhereIvCrakeGill = {
     },
     {
       fact: "The practice spear's head stays buried in the dead blade wolf's chest.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T17:41:20.650Z",
-  updatedAt: "2026-10-02T18:47:01.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Place

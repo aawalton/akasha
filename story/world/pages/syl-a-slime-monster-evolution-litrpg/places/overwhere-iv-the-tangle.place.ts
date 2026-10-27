@@ -13,11 +13,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Its oaks and yews grow close and dark, with thick undergrowth and few paths.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Greyback wolves of LV 5 to 9 hunt in packs in the Tangle.",
@@ -37,11 +33,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Goblins out of the Tangle have been taking sheep from the edge farms this month.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
     {
       fact: "From Hobb's gap a blood trail runs a mile in, to a goblin lookout in a hollow by a fallen oak.",
@@ -57,11 +49,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Three of Hobb's sheep are penned alive at the lookout behind a rope of plaited bark.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "If a fight turns against it, the lookout sends its fastest goblin running deeper in.",
@@ -93,11 +81,11 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "A thrown Rift Rend is a thin black-purple line, laid at the very spot she fixes her eye on.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A thrown rend parts yew boughs in its line as easily as flesh, and they fall.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A runner that gets away brings a dozen goblins back to the hollow within the hour.",
@@ -105,7 +93,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "The slinger atop the oak is twenty paces from Nala, and aims at her chest.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The slinger's arm snaps just before the stone flies; a drop timed to the snap lets it pass.",
@@ -121,119 +109,75 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Dace reaches the fallen oak's foot as the slinger throws at Nala, and swings up at it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Hobb's gap's blood trail runs most of a mile in, toward a hollow walled by a fallen oak.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "At the fallen-oak hollow, a stone whirred out of the hollow and cracked off Dace's shield.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Near the fallen-oak hollow, Nala's sense felt a body crouched behind a yew on her left.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A goblin slinger throws stones at the Four from atop the fallen oak by the hollow.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Merrit's fireball burst against the fallen oak, and the slinger atop it yelped and ducked.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Mid-fight one goblin ran from the hollow deeper in; Wren shouted it was going for the rest.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Nala's thrown Rift Rend cut the fleeing LV 2 goblin runner in two among the yews.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Seeing the runner fall, the two hurt goblin scouts shrank back behind the penned sheep.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The singed slinger rose atop the fallen oak and whirled its sling at Nala, not at Dace.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The slinger skipped back along the oak out of Dace's reach and fitted a fresh stone to its sling.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Nala dropped a hair late at the slinger's snap; its stone cracked her shoulder, not her chest.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Whirling its sling, the slinger holds still on the trunk for the space of a breath.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A rend laid through the slinger parts the oak's bark and a limb beneath it as well.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "If the slinger falls, the two hurt scouts throw down their weapons and grovel for mercy.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's thrown Rift Rend took the slinger's sling arm and bit deep into its side.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "The slinger fell with the oak limb and lies gasping, alive, under Dace's foot at the oak's foot.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "A goblin's core sits under the breastbone; Wren cuts them out quickly with a skinning knife.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "The walk back from the lookout to Millbrook, driving three sheep, takes some two hours.",
@@ -241,11 +185,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "From the lookout Nala and the Four took five goblin ears and five cores, and freed three sheep.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Grakk's camp lies some five miles into the Tangle, in a ring of old stones on a rise.",
@@ -269,7 +209,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "The raiders rest at a stream three miles in through mid-morning, the sheep watered and tied.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The raiders' trail from Tull's ford is plain: churned mud, wool on thorns, sheep dung.",
@@ -313,7 +253,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "The deer trail can be kept in the dark by Spatial Sense alone, its edges felt within her reach.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Grakk's strike moves dark, and lights torches only at the meadow's edge, to fire the farm.",
@@ -321,7 +261,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Two goblin scouts go quietly fifty paces ahead of the strike; the main band follows them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The main band is loud in the brush; on a still night it is heard a hundred paces off.",
@@ -369,10 +309,10 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Over two miles in, the deer trail runs single file down a cleft walled with bramble.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
-  updatedAt: "2026-10-08T16:27:28.258Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
   createdAt: "2026-09-29T12:38:46.421Z",
 } as const satisfies Place

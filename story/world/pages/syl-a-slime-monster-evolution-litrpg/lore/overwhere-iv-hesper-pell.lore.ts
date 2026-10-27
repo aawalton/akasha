@@ -21,13 +21,9 @@ export const overwhereIvHesperPell = {
     },
     {
       fact: "Hesper's mill shaft has been cracked for weeks, and she can't pay to mend it till she grinds.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
   ],
   createdAt: "2026-09-29T12:38:22.067Z",
-  updatedAt: "2026-09-30T08:42:02.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

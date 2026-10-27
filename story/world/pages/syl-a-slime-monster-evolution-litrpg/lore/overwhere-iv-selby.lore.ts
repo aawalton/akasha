@@ -18,14 +18,10 @@ export const overwhereIvSelby = {
     },
     {
       fact: "Old Selby sells salves in Millbrook, and some call her a witch.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:40:13.932Z",
-  updatedAt: "2026-09-30T08:42:02.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

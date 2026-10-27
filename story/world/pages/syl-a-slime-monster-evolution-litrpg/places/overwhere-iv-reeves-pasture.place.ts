@@ -9,19 +9,19 @@ export const overwhereIvReevesPasture = {
   facts: [
     {
       fact: "The reeve's back pasture is a hedged field half a mile north of town, up the brook.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Neither the town wall nor the road has a view into the pasture, for its hedges are tall.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The great oak is centuries old, some eighty feet tall and four feet thick at its foot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The oak leans toward the reeve's stone byre at the pasture's edge.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The mill shaft wants a straight trunk twenty feet long, stripped of its limbs.",
@@ -49,23 +49,23 @@ export const overwhereIvReevesPasture = {
     },
     {
       fact: "An oak sheared level through falls wherever its lean takes it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An ox team and an old herdsman on a timber sledge wait in the pasture.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The old herdsman shouted to Nala to mind the reeve's byre, asking if Ilsa sent her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The byre is north of the oak; open grass runs east a hundred feet to the brook.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Col's ox team and sledge wait by the west gate, clear of any fall to the east.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A notch and a hinge can swing an oak's fall up to a quarter turn from its lean.",
@@ -73,11 +73,11 @@ export const overwhereIvReevesPasture = {
     },
     {
       fact: "Felled east, the oak lands on open grass, its crown short of the brook.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A green oak takes a rend without a sound; it holds a breath, then creaks and goes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the gate, Col sees the oak fall but not the rends; the lines are too thin at his range.",
@@ -85,11 +85,11 @@ export const overwhereIvReevesPasture = {
     },
     {
       fact: "Nala felled the great oak east with a level back rend and an angled front rend, leaving a hinge.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The old herdsman, who saw only the oak fall, asked Nala what she had cut it with.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Col catches 'spear skill' and little more, and takes it as some adventurer's trick.",
@@ -97,19 +97,19 @@ export const overwhereIvReevesPasture = {
     },
     {
       fact: "Col wants the trunk cut twenty feet from the butt and its limbs taken off along that length.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Four limbs, each a foot thick, grow from the trunk's first twenty feet; the rest are above.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The crown and upper limbs are left for the reeve's men to saw for firewood.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Col keeps a felling axe on the sledge, but his back is too old for oak limbs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Chained to the sledge, the trimmed trunk takes Col's oxen an hour to drag to the mill yard.",
@@ -121,9 +121,9 @@ export const overwhereIvReevesPasture = {
     },
     {
       fact: "Nala cut the oak twenty feet from the butt and limbed it with five rends of her spear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-30T21:40:20.123Z",
-  updatedAt: "2026-09-30T22:27:06.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Place

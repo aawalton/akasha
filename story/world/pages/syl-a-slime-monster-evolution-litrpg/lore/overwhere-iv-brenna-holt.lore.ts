@@ -25,7 +25,7 @@ export const overwhereIvBrennaHolt = {
     },
     {
       fact: "She would take a new woman recruit into her curtained corner and see her kitted out.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She lost two fingers of her left hand to a goblin blade, and still holds a shield with it.",
@@ -33,17 +33,16 @@ export const overwhereIvBrennaHolt = {
     },
     {
       fact: "Sergeant Brenna Holt of the Millbrook watch is square-built, with a pale scar along her chin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Brenna Holt's left hand is short two fingers, and she works it quick as anything.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Holt has heard slimes creep toward strong mana, and guesses Nala carries a strong affinity.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
         "lore/overwhere-iv-brenna-holt",
         "lore/overwhere-iv-wat-barrow",
       ],
@@ -52,7 +51,6 @@ export const overwhereIvBrennaHolt = {
       fact: "Holt would tell Nala to touch the hall's cracked crystal, or go to Aubrin to be tested.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
         "lore/overwhere-iv-brenna-holt",
         "lore/overwhere-iv-wat-barrow",
       ],
@@ -63,29 +61,17 @@ export const overwhereIvBrennaHolt = {
     },
     {
       fact: "Holt lets a recruit with a real hurt sit out sparring, but not without asking to see it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Holt would send a hurt knee to Orla at the hall, who heals the watch for a copper or two.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Holt thinks less of a recruit who hides a hurt and makes it worse.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-30T09:11:35.649Z",
-  updatedAt: "2026-09-30T17:13:10.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

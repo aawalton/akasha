@@ -14,11 +14,7 @@ export const overwhereIvMartaHesk = {
     },
     {
       fact: "She lost her son to what the town believes were wolves in the Tangle.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-marta-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-marta-hesk"],
     },
     {
       fact: "Marta hears all the gossip in Millbrook and passes most of it on.",
@@ -26,11 +22,7 @@ export const overwhereIvMartaHesk = {
     },
     {
       fact: "Marta at the Brook & Barrel is kind to strays and sees them fed.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
     {
       fact: "Marta takes the spear-skill tale whole, and will have it round the square by supper.",
@@ -46,14 +38,10 @@ export const overwhereIvMartaHesk = {
     },
     {
       fact: "Marta would press Nala's three copper back: a goblin-killer's first meal is on the house.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-marta-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-marta-hesk"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:38:22.067Z",
-  updatedAt: "2026-09-30T23:26:05.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

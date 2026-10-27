@@ -29,19 +29,15 @@ export const overwhereIvMillbrook = {
     },
     {
       fact: "Inside the gate a cobbled lane runs up to the market square, the heart of the town.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The inn, the adventurers' hall, a small shrine and the smithy face the market square.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Market day falls every seventh day, when farmers from across the vale fill the square.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
     {
       fact: "On market days stalls sell wool, cheese, apples, eggs, rope, pots and secondhand clothes.",
@@ -133,34 +129,19 @@ export const overwhereIvMillbrook = {
     },
     {
       fact: "Millbrook lies in the Wendmere Vale, in the barony of Tarrow.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
     {
       fact: "The vale around Millbrook is quiet sheep and apple country.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
     {
       fact: "At night a still figure stood in the dark shrine porch as Nala crossed the square, then was gone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Millbrook's wall walk rings the whole town, with steep stone steps at every tower.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-dell",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-oswin-pike",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Besides the Brook and Barrel, Millbrook has no inn; a widow or two lets a bed by the week, for less.",
@@ -168,5 +149,5 @@ export const overwhereIvMillbrook = {
     },
   ],
   createdAt: "2026-09-29T12:36:30.195Z",
-  updatedAt: "2026-10-03T11:09:18.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Place

@@ -21,10 +21,6 @@ export const overwhereIvBrooksideFour = {
       fact: "Merrit's touch lit the hall crystal a strong red, the brightest in Millbrook till now.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
@@ -45,11 +41,11 @@ export const overwhereIvBrooksideFour = {
     },
     {
       fact: "Orla's healing closes scrapes and takes swelling down in a few minutes, glowing soft rose.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Orla would put a watch hurt on the hall's slate if the one hurt has no coin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "They take most of the wolf, boar and goblin work posted at the hall.",
@@ -57,20 +53,12 @@ export const overwhereIvBrooksideFour = {
     },
     {
       fact: "The Brookside Four, of Millbrook's adventurers' hall, are good lads but green.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-garrett-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-garrett-pell"],
     },
     {
       fact: "Merrit would call the clear flare a fault of the cracked crystal, not her gift.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
@@ -80,9 +68,6 @@ export const overwhereIvBrooksideFour = {
       fact: "Wren, their scout, saw the room bend through the flare, and trusts her own eyes.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
@@ -92,13 +77,9 @@ export const overwhereIvBrooksideFour = {
       fact: "Orla, their healer, would be kind to Nala and ask if the crystal hurt her hand.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
-        "character-player/overwhere-iv-nala",
       ],
     },
     {
@@ -121,10 +102,6 @@ export const overwhereIvBrooksideFour = {
       fact: "Merrit wears a scorched red coat and names his magic as fire.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
@@ -134,10 +111,6 @@ export const overwhereIvBrooksideFour = {
       fact: "A thin young woman in a hooded jerkin at the hall hearth saw the room bend in the flare.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
@@ -147,10 +120,6 @@ export const overwhereIvBrooksideFour = {
       fact: "A round-faced girl from the hall hearth checked Nala's palm after the flare; it was unburnt.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-brenna-holt",
-        "character-other/overwhere-iv-wat",
-        "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
@@ -158,17 +127,16 @@ export const overwhereIvBrooksideFour = {
     },
     {
       fact: "The round-faced girl who heals at the hall hearth is Orla.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Evenings the Four sup at the hall hearth till the night bell; Orla heals there for 2 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dace would want goblins at Hobb's for the Four, and ask Nala how many and how big.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-brookside-four",
       ],
@@ -177,7 +145,6 @@ export const overwhereIvBrooksideFour = {
       fact: "Merrit would scoff that a watch recruit with a practice spear drove off two goblins.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-brookside-four",
       ],
@@ -186,26 +153,17 @@ export const overwhereIvBrooksideFour = {
       fact: "The broad young man of the Four is Dace, who says the Four take goblin work in Millbrook.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-brookside-four",
       ],
     },
     {
       fact: "Told two small goblins with flint and a rusty knife, Dace means to go to Hobb's gap at noon.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Dace would ask Nala to show the Four the gap after her drill, for an even share of ears.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Wren hears Nala out in silence and watches how she holds the practice spear.",
@@ -213,35 +171,19 @@ export const overwhereIvBrooksideFour = {
     },
     {
       fact: "Dace reckons the two goblins scouts, and says where there's two, there's a camp.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Dace takes Nala along gladly, and puts her on the left flank beside Wren.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "The Four's order in the trees: Wren scouting ahead, Dace with shield, Merrit and Orla behind.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Merrit mutters that the recruit will get someone killed, just loud enough to be heard.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Identify shows Wren as Human LV 16, Scout LV 12; Merrit as Human LV 15, Mage LV 13.",
@@ -261,53 +203,29 @@ export const overwhereIvBrooksideFour = {
     },
     {
       fact: "Wren reached the hollow's edge, stared at the bough Nala's rend cut, and said \"Gods above.\"",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Dace holds that goblins who raid sheep die, grovelling or not, and lets Nala take them.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Orla turns away from killing a grovelling goblin, but says nothing against it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Dace splits the ear bounty evenly five ways, whoever made the kill; Merrit grumbles at it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Dace wants Hobb's three sheep driven home, and the goblins' cores cut out for the hall.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "Merrit's fire burst against the front of the goblin rush on Tull's fold and scorched it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
   ],
   createdAt: "2026-09-29T12:40:13.932Z",
-  updatedAt: "2026-10-03T01:31:04.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

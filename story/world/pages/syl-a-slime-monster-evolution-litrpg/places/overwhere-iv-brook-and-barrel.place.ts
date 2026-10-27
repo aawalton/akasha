@@ -9,7 +9,7 @@ export const overwhereIvBrookAndBarrel = {
   facts: [
     {
       fact: "The Brook and Barrel is the inn on Millbrook's market square.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     { fact: "The inn is run by the widow Marta Hesk.", knowers: ["lore-disclosure/game-master"] },
     {
@@ -46,31 +46,23 @@ export const overwhereIvBrookAndBarrel = {
     },
     {
       fact: "At noon the taproom talks of the goblin lookout, and of the watch girl with the spear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Marta would sit a moment with the watch girl, fishing for how she cut a goblin in two.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-marta-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-marta-hesk"],
     },
     {
       fact: "Marta keeps the Brook and Barrel; she told Nala so herself.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-marta-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-marta-hesk"],
     },
     {
       fact: "The inn's taproom is warm and loud, with long tables and a smell of stew and ale.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A midday pottage, bread and cheese with a small ale costs 3 copper at the inn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Supper is mutton stew, bread and small ale for 3 copper.",
@@ -82,23 +74,15 @@ export const overwhereIvBrookAndBarrel = {
     },
     {
       fact: "That night the taproom tells it as the redhead's spear trick: seven goblins and a hobgoblin.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-marta-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-marta-hesk"],
     },
     {
       fact: "For the goblins' killer Marta won't take coin for supper, and sets down a second bowl.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-marta-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-marta-hesk"],
     },
     {
       fact: "Behind the kitchen a wooden tub can be filled from the copper for 2 copper, with soap and a towel.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pip heats and carries the bathwater, and bars the washhouse door for a woman bathing.",
@@ -106,23 +90,15 @@ export const overwhereIvBrookAndBarrel = {
     },
     {
       fact: "On the night of the wolf, the taproom talks of nothing but the head on Ilsa's counter.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-marta-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Talk of the head runs from a wolf the size of a horse to a demon out of the old quarry.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-marta-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The inn's serving girl heats the bathwater and bars the washhouse door for a woman bathing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the inn a pallet in the common room is 2 copper a night; a small room upstairs is 5.",
@@ -138,5 +114,5 @@ export const overwhereIvBrookAndBarrel = {
     },
   ],
   createdAt: "2026-09-29T12:37:56.463Z",
-  updatedAt: "2026-10-03T11:09:18.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Place

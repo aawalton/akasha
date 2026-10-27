@@ -31,12 +31,11 @@ export const overwhereIvAubrin = {
       fact: "A proper testing of magic is had at Aubrin, four days east of Millbrook.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
         "lore/overwhere-iv-brenna-holt",
         "lore/overwhere-iv-wat-barrow",
       ],
     },
   ],
   createdAt: "2026-09-29T12:39:37.735Z",
-  updatedAt: "2026-09-30T11:14:20.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Place

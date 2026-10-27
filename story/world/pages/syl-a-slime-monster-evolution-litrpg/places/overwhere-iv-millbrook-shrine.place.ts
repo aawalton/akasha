@@ -10,15 +10,15 @@ export const overwhereIvMillbrookShrine = {
   facts: [
     {
       fact: "The shrine is one whitewashed room off the square, cool and dim, with benches and an altar.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Seven books sit chained on a shelf behind the altar; Sister Anwen keeps the key.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The books: two of scripture, a herbal, a vale chronicle, a primer, a road book and hero tales.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anwen lets a sober reader sit with a book by daylight, for a copper in the poor box.",
@@ -30,7 +30,7 @@ export const overwhereIvMillbrookShrine = {
     },
     {
       fact: "The vale chronicle says Crowstone Quarry was worked out and shut some thirty years ago.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The road book maps the vale, the east road to Aubrin, and the barony's villages.",
@@ -38,15 +38,11 @@ export const overwhereIvMillbrookShrine = {
     },
     {
       fact: "The herbal names moonleaf, frostcap and a hundred other plants of the vale, with drawings.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sister Anwen lets a sober reader sit with one of the shrine's books by daylight.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "character-other/overwhere-iv-ilsa-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "Sister Anwen is sixty, stout and grey, slow of speech and kind, with sharp eyes.",
@@ -62,31 +58,31 @@ export const overwhereIvMillbrookShrine = {
     },
     {
       fact: "One hero tale tells of the Wayfarer, who stepped between cities in a breath.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The tale's Wayfarer cut a castle gate with a black blade no one else could see.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The hero tales call the Wayfarer long dead, and give no place, date or true name.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sister Anwen asks a copper in the poor box for a sitting with the shrine's books.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sister Anwen is an old woman, stout and grey, with sharp eyes, who mends in the shrine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anwen takes three copper as a gift past the price, and blesses the giver for it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The hero tales are a hand-copied book of some two hundred pages, a dozen tales in all.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At Nala's pace the hero tales take some fifteen minutes to read through.",
@@ -94,71 +90,71 @@ export const overwhereIvMillbrookShrine = {
     },
     {
       fact: "Among the tales: the Wayfarer, the first sealing of the demon labyrinth, the guild's founding.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The labyrinth tale says it must be sealed again at each deadline, by rising heroes or a diamond.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Wayfarer tale says the gods marked him at birth, and no one ever taught him his art.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Wayfarer tale ends with him stepping through a door of his own making, never to return.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Asked for any book, Anwen hands over the vale chronicle, the one she loves best.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The chronicle keeps three hundred years of the Wendmere Vale: floods, plagues, reeves, harvests.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "It says goblins in the Tangle rise and ebb in waves; the last great wave was forty years ago.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "It says a cave-in killed four men at Crowstone the year the quarry shut; folk called it unlucky.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its newest entries are in Anwen's hand; the last notes the mill shaft cracking this summer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At Nala's pace the five books left take some two hours together.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "One scripture holds the gods' sayings; the other, the lives of folk the gods blessed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The scripture says an oath sworn before the gods binds, and the world asks the other to accept it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The herbal says moonleaf eases headaches and frostcap breaks fevers.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The herbal warns of nightcap, a black mushroom of the Tangle that kills within a day.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The road book shows Crowstone Quarry two days north-west, at the end of a disused cart track.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The road book shows Tarrow Hall a day north, and Aubrin four days east along the east road.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The primer teaches letters and sums, with a child's drawings in its margins.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At Nala's pace the vale chronicle takes some twenty minutes to read through.",
@@ -166,5 +162,5 @@ export const overwhereIvMillbrookShrine = {
     },
   ],
   createdAt: "2026-09-30T22:32:39.116Z",
-  updatedAt: "2026-10-02T15:34:20.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Place

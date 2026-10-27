@@ -10,11 +10,11 @@ export const overwhereIvTheTangle2 = {
   facts: [
     {
       fact: "Two hours into the Tangle by night, Nala heard a big band coming down the deer trail to Tull's ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Where the cleft starts, a bramble-grown bank rises beside the trail, good to lie hidden in.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In the dark a rend's black line can't be seen, and gives no sign of where it came from.",
@@ -26,7 +26,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "Once goblins see their own fall, the band halts and bunches about the hobgoblins, shrieking.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bunched, the LV 10 hobgoblin blows his horn, and the slingers throw blind into the brambles.",
@@ -34,7 +34,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "The two scouts ahead turn back at the shrieking, and come up the trail toward the band.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When the band breaks, most goblins flee back up toward the camp; a few bolt on down toward the ford.",
@@ -54,23 +54,23 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "The band down the cleft is twenty and more goblins, with two far bigger ones mid-line.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Of the band's two big ones, one shoulders a great maul and one bears a spear and a horn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the bramble bank Nala killed a LV 4 and a LV 5 goblin, and cut a third's shoulder.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The band's slingers threw blind into the brambles, and none of their stones came near Nala.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The spear-bearer blew his horn; the blast rolled up the cleft and away through the trees.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goblins dying unseen at the foot of the bank turn the hobgoblins' eyes to that side of the cleft.",
@@ -86,11 +86,11 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "A rend gone wide sheared a yew bough over Nala's bank; it crashed into the brambles near her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the bough's crash the maul hobgoblin pointed at her bank, and six goblins came at the brambles.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The six are LV 2, 2, 3, 3, 4 and 5; the LV 4 and 5 wear hide, a ward of 1, and carry short spears.",
@@ -114,7 +114,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "Nala's rends killed both scouts, LV 4 and LV 3, silently at the foot of her bank.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The six climb spread across some six paces of bank, in twos and threes, not in one line.",
@@ -122,11 +122,11 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "A line held across the bramble is unseen by the climbers, who push into it without slowing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Rising from the brambles, Nala is seen by every goblin on the bank, and they shriek it to the band.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On the open trail goblins run no faster than she does; in the dark off it they keep pace better.",
@@ -138,15 +138,15 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "Tull's fold lantern shows from the Tangle's edge, across the last two hundred paces of meadow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's held line across the bank killed two climbers; then, rising, she was seen and ran.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A sling stone took Nala between the shoulders and threw her down on the trail below the bank.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "As she falls, the LV 3 club is eight paces behind the spear, the two LV 2 knives fifteen.",
@@ -166,7 +166,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "As Nala fled for the ford, the maul-bearer roared; the four climbers and a slinger ran after her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The spear goblin's hide stops at its chest; its throat is bare.",
@@ -186,11 +186,11 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "Nala's slash from the ground missed; the spear goblin's stab tore a shallow gash in her side.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala got to her feet, spear in hand, as the club goblin burst past the spear and swung at her head.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A club goblin swinging overhand at a head leaves its own body open beneath the arm.",
@@ -198,7 +198,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "From where Nala fell, Tull's ford lies some two miles down the deer trail.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hurt and drained, Nala can keep a hard run on the trail for about a mile before she flags.",
@@ -222,7 +222,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "Nala outran her pursuers down the deer trail, lost them in the dark, and came out by Tull's ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Having lost her, the pursuers go back up the trail to the band; none comes on toward the ford.",
@@ -242,7 +242,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "Nala dodged the club by her close sense and fled; a second sling stone missed, cracking off an oak.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Rushing from the trees, the strike comes within forty paces of Tull's fold in under a minute.",
@@ -262,7 +262,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "The strike's torches surged into Tull's ford, the two hobgoblins a head taller amid them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "By their own torches the running hobgoblins' heads show plain from the fold, bobbing as they run.",
@@ -274,15 +274,15 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "Nala's rend killed the spear hobgoblin through the skull, and laid the maul-bearer's eyes open.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The strike broke at Tull's, flung down its torches and fled back over the ford into the Tangle.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Left alone and blind in the meadow, the maul hobgoblin roars, swings, and lurches toward the fold.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The blind maul-bearer swings at sound; a quiet foe coming from aside is hard for it to meet.",
@@ -298,17 +298,12 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "Nala's last rend, run low across shoulder and chest, killed the blind maul hobgoblin in the meadow.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
-        "lore/overwhere-iv-brookside-four",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
     {
       fact: "The six goblins dead in the cleft lie two miles in; their ears fetch 1 silver each at the hall.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-brookside-four",
       ],
@@ -319,11 +314,11 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "By day 9 crows and a fox have been at the dead in the cleft, but ears and cores are there to take.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The goblins left their dead in the cleft, with two slings, three clubs, short spears and knives.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "By day the cleft is empty of goblins; Grakk's camp is two and a half miles further up the trail.",
@@ -331,5 +326,5 @@ export const overwhereIvTheTangle2 = {
     },
   ],
   createdAt: "2026-10-02T22:12:08.267Z",
-  updatedAt: "2026-10-03T11:34:18.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore

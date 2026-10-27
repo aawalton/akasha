@@ -12,7 +12,6 @@ export const worldSkill = {
     "page-type/tower-skill",
     "page-type/overwhere-i-skill",
     "page-type/overwhere-ii-talent",
-    "page-type/overwhere-iv-skill",
     "page-type/overwhere-iii-skill",
     "number-property/skill-mana-cost",
     "number-property/skill-duration-minutes",
@@ -29,5 +28,5 @@ export const worldSkill = {
     { pageProperty: "relation-property/skill-attribute", required: false, many: false },
   ],
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-10-27T19:41:00.931Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies PageType

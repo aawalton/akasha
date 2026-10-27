@@ -48,7 +48,6 @@ export const overwhereIvSlimesAndCores = {
       fact: "Country folk say slimes creep toward strong mana like moths to a lamp; few have seen it.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iv-nala",
         "lore/overwhere-iv-brenna-holt",
         "lore/overwhere-iv-wat-barrow",
       ],
@@ -325,5 +324,5 @@ export const overwhereIvSlimesAndCores = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:34:55.400Z",
-  updatedAt: "2026-09-30T11:14:20.000Z",
+  updatedAt: "2026-10-27T19:42:51.926Z",
 } as const satisfies Lore
