@@ -4185,6 +4185,11 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.ts","id":"01a17f15-90c1-7322-9224-70cbc8178934"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-time-passing.world-check.ts","id":"01a17edf-d61f-7574-9598-5df749060e23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.ts","id":"01a0e822-39b3-7bc0-be8e-4a7093388b67"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-action-check.world-check.ts","id":"01a17f3e-4458-7bef-a632-9445724d5264"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-time-passing.world-check.ts","id":"01a17f3e-4458-763b-bdfb-1198fcd7d248"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-training.world-check.ts","id":"01a17f3e-4458-743e-bf45-5d0dd0503864"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-upkeep.world-check.ts","id":"01a17f3e-4458-79e3-a45d-48f949ff80cb"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/metrics/resources/points/clone-probe-points.page-type.ts","id":"01a17f3e-4455-7853-8020-d0f02724ac13"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.ts","id":"01a17ede-ad87-7ec9-8f62-82b148152d82"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-time-passing.world-check.ts","id":"01a17eeb-58ce-70c9-8378-278e625a0e58"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.ts","id":"01a17eeb-58ce-7db2-b591-31fafaef9d7c"}
