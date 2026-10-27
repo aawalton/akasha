@@ -174,10 +174,10 @@ export const otherwhereIxSystem = {
     },
     {
       fact: 'The system calls Firrelia "The First World".',
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T22:48:51.549Z",
-  updatedAt: "2026-09-28T23:24:43.000Z",
+  updatedAt: "2026-10-27T19:33:50.636Z",
 } as const satisfies Lore

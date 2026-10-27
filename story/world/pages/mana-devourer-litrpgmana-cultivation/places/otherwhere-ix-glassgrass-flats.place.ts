@@ -10,15 +10,15 @@ export const otherwhereIxGlassgrassFlats = {
   facts: [
     {
       fact: "The Glassgrass Flats are open plains of stiff, pale, translucent grass that chimes in wind.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Glassgrass blades are sharp at the edges and nick bare skin.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The sky over the Flats is a deep, clear blue with a faint violet cast toward the horizon.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Flats are an E grade zone; its beasts are weak by this world's measure, not a human's.",
@@ -26,7 +26,7 @@ export const otherwhereIxGlassgrassFlats = {
     },
     {
       fact: "Far to the east a thin dark line on the horizon is a walled waystation on a trade road.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The waystation is Tollmere, a half day's walk away, run by a trading house.",
@@ -58,19 +58,19 @@ export const otherwhereIxGlassgrassFlats = {
     },
     {
       fact: "Stunted black-barked trees with leaves glinting like metal stand alone here and there on the Flats.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Something low, hidden in the glassgrass, crept toward Nala, stopped close by, and sniffed.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When Nala called out, the hidden beast stopped, rattled, and began circling toward her back.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The circling beast's snout followed Nala's bleeding hand; it went still when she faced it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Glassgrass Flats fill the west of the Kessen Zone, from the yellow barrier to Tollmere.",
@@ -142,15 +142,15 @@ export const otherwhereIxGlassgrassFlats = {
     },
     {
       fact: "Each time Nala came square to the circling beast it stopped, quills up, watching, then slid on.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Glassgrass crunches and rings loudly under bare feet with every step.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala stumbled and looked down; the rattle stopped and the beast rushed silently at her ankles.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bloodmoss grows grey on tinleaf roots; chewed to a paste and packed in, it thickens blood.",
@@ -163,5 +163,5 @@ export const otherwhereIxGlassgrassFlats = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T22:25:09.306Z",
-  updatedAt: "2026-09-29T02:21:27.000Z",
+  updatedAt: "2026-10-27T19:33:50.636Z",
 } as const satisfies Place

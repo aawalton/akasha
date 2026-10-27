@@ -10,7 +10,6 @@ export const metricCharacterPoint = {
   parts: [
     "page-type/tower-attribute-point",
     "page-type/tower-of-nimue-free-point",
-    "page-type/otherwhere-ix-stat-points",
     "page-type/overwhere-iv-points",
     "page-type/test-story-points",
   ],
@@ -27,5 +26,5 @@ export const metricCharacterPoint = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-27T18:53:28.972Z",
-  updatedAt: "2026-10-27T19:12:21.539Z",
+  updatedAt: "2026-10-27T19:33:50.636Z",
 } as const satisfies PageType

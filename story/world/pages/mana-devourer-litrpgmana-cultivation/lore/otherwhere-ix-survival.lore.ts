@@ -6,7 +6,7 @@ export const otherwhereIxSurvival = {
   slug: "otherwhere-ix-survival",
   title: "Survival",
   world: "world/mana-devourer-litrpgmana-cultivation",
-  about: "world-mechanic/otherwhere-ix-survival",
+  about: "world/mana-devourer-litrpgmana-cultivation",
   facts: [
     {
       fact: "A bleeding wound is packed with cloth and pressed hard, and the press is held.",
@@ -50,7 +50,7 @@ export const otherwhereIxSurvival = {
     },
     {
       fact: "More than a few mouthfuls of blood turn the stomach, and a body brings them back up.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Constitution toughens skin and flesh only slowly; under 50, a glass edge still opens it.",
@@ -58,7 +58,7 @@ export const otherwhereIxSurvival = {
     },
     {
       fact: "Higher Constitution makes a wound shallower and quicker to stop bleeding, not closed.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hunger, thirst, cold and lost sleep each weigh on every act, and together they bring a body down.",
@@ -66,5 +66,5 @@ export const otherwhereIxSurvival = {
     },
   ],
   createdAt: "2026-09-29T02:21:24.167Z",
-  updatedAt: "2026-09-29T03:03:15.000Z",
+  updatedAt: "2026-10-27T19:33:50.636Z",
 } as const satisfies Lore

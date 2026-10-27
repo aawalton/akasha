@@ -12,7 +12,6 @@ export const worldSkill = {
     "page-type/tower-skill",
     "page-type/otherwhere-i-skill",
     "page-type/otherwhere-vii-technique",
-    "page-type/otherwhere-ix-skill",
     "page-type/otherwhere-x-skill",
     "page-type/overwhere-i-skill",
     "page-type/overwhere-ii-talent",
@@ -33,5 +32,5 @@ export const worldSkill = {
     { pageProperty: "relation-property/skill-attribute", required: false, many: false },
   ],
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-10-27T19:33:10.685Z",
+  updatedAt: "2026-10-27T19:33:50.636Z",
 } as const satisfies PageType

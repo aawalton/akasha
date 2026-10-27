@@ -10,7 +10,7 @@ export const otherwhereIxStatus = {
   facts: [
     {
       fact: "A status screen lists Name, Class, Health, Mana, then six attribute lines.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: 'Each line is its own bracketed box, such as "[Name: Markus Brown]".',
@@ -38,7 +38,7 @@ export const otherwhereIxStatus = {
     },
     {
       fact: "The attribute lines run Strength, Agility, Arcana, Constitution, Spirit, then a sixth.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: 'Where the sixth attribute is locked, its line reads "[???: 0]".',
@@ -112,5 +112,5 @@ export const otherwhereIxStatus = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T22:51:32.182Z",
-  updatedAt: "2026-09-29T01:23:12.000Z",
+  updatedAt: "2026-10-27T19:33:50.636Z",
 } as const satisfies Lore

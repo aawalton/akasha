@@ -34,9 +34,9 @@ export const otherwhereIxCarrionHawk = {
     },
     {
       fact: "A carrion hawk is broad-winged, and the pale edges of its wings glitter as it turns.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T03:26:55.160Z",
-  updatedAt: "2026-09-29T03:37:17.000Z",
+  updatedAt: "2026-10-27T19:33:50.636Z",
 } as const satisfies Lore

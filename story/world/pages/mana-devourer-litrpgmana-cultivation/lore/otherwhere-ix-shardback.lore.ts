@@ -14,7 +14,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A shardback is low and broad like a badger, with a grey-green hide and a blunt snout.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its back bristles with glassy quills grown from the glassgrass it chews.",
@@ -38,7 +38,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A shardback bites low, at ankles and calves, and hangs on, twisting.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its quills snap off in whatever strikes its back, and the shards cut as they work loose.",
@@ -74,11 +74,11 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A shardback is about knee-high, its back packed with pale glassy quills that look like glassgrass.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback rattles its quills with a dry sound like glass beads shaken hard in a cup.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback kept always in front tires of circling within a few minutes, and tests with a feint.",
@@ -106,7 +106,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A rushing shardback lays its quills flat to run; they bristle up the instant its back is touched.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Carrion hawks take young shardbacks, so a young one jinks aside from anything dropping at it.",
@@ -126,7 +126,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "Arms locked round a shardback's back or nape take quill shards with every twist it makes.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback locked on a bite keeps hold through pain; only failing breath or a snout blow frees it.",
@@ -134,19 +134,19 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A shardback's throat is softer than its nape, but its jaw and bite sit right above it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A rushing shardback lays its quills flat along its back.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback's neck is short and thick, quilled at the nape, with nothing there to grip or squeeze.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback's throat and belly are soft, bare skin with no quills at all.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback whose throat is squeezed shut lets go its bite within moments, to heave for air.",
@@ -154,7 +154,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "Held shut, a young shardback's throat fails it in about a minute, and it goes limp.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A choked shardback that goes limp comes round again soon after the grip loosens.",
@@ -162,7 +162,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "Its nape quills pierce tight cloth, but fewer get through than into bare skin.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A snapped quill is a finger-long glass sliver, sharp enough for soft skin but brittle on bone.",
@@ -170,27 +170,27 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A quill sliver gripped bare cuts the hand holding it as it is driven in.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A stab that opens a shardback's windpipe chokes it on its own blood, and it lets go its bite.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A quill sliver snaps when driven hard into a shardback's throat, leaving a stub.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback stabbed shallowly in the throat keeps its bite locked and twists harder.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback's jaw is hard bone; a glass sliver striking it skids off.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A quill stub in a shardback's throat, driven deeper, can open its windpipe.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Weight pressed down on a shardback's bare throat shuts its breath as a squeeze does.",
@@ -198,7 +198,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "Quill shards in an arm pressed hard against anything drive deeper into that arm.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback with its windpipe opened drowns in its own blood within a few minutes.",
@@ -210,27 +210,27 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A dead shardback's blood thickens within minutes; little flows from it after that.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Shardback blood is dark, gritty and bitter, with a taste of iron and glass.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A dead shardback's quills lie flat and come free whole with a slow twist at the root.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A whole quill has a blunt, unglazed root a thumb long; held by it, it does not cut the hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The longest quills run along the spine, a hand and a half long and thick as a finger.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A whole quill stabs like a knife into soft flesh but snaps on hide, bone or a hard twist.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bound to a stick with bark strip or sinew, a spine quill makes a spear point for a few thrusts.",
@@ -266,11 +266,11 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A shardback's short flank quills snap at a touch.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback's eyes are small and deep-set under a ridge of short brow quills, hard to reach.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A grown shardback warned off its food rears up on its hind legs, showing its bare belly.",
@@ -290,11 +290,11 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A grown shardback is stronger in the body than an untrained woman of her size.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback locked on a bite keeps its legs braced wide and is hard to shift sideways.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Rolled onto its back, a shardback's quills jam into the ground and hold it a moment, belly up.",
@@ -302,7 +302,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "To roll a shardback, hands grip its flanks, where the short quills snap into the palms.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback on its back lets go its bite to claw and heave itself over.",
@@ -314,9 +314,9 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A grown shardback is thigh-high, heavy through the shoulders, its back a thick mat of pale quills.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T22:47:18.926Z",
-  updatedAt: "2026-09-29T04:08:13.000Z",
+  updatedAt: "2026-10-27T19:33:50.636Z",
 } as const satisfies Lore
