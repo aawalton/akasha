@@ -5,6 +5,7 @@ import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
 import {
   endTaken,
   timeCheckIn,
+  timeCheckOf,
   untimedRefused,
 } from "akasha/command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts"
 import { storyTurnAdvance } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
@@ -65,6 +66,14 @@ test("a story settles its time by the check under its folder importing the time-
 
 test("a story with no such check under its folder settles no time", () => {
   expect(timeCheckIn(STORY, [OTHER, TEST])).toBeNull()
+})
+
+test("a story whose check forwards to another story's settles its time by its time-passing check", () => {
+  expect(timeCheckOf(null, "probe", (check) => check === "probe-time-passing")).toBe(
+    "probe-time-passing"
+  )
+  expect(timeCheckOf(null, "probe", () => false)).toBeNull()
+  expect(timeCheckOf("saga-time", "probe", () => true)).toBe("saga-time")
 })
 
 test("a turn stating no endsAt in a story settling its time is refused with the settle call", () => {
