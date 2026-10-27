@@ -21,14 +21,8 @@ export const giftedSoulsAndDemons = {
       fact: "A soul rising from the Ocean passes through a light that scrubs away its memories.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Demons are creatures of the Hells.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A demon can possess a living body.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Demons are creatures of the Hells.", knowers: ["lore-disclosure/game-master"] },
+    { fact: "A demon can possess a living body.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Overgrown claws on a creature are a sign of a demon riding it.",
       knowers: ["lore-disclosure/game-master"],
@@ -53,7 +47,11 @@ export const giftedSoulsAndDemons = {
       fact: "Some would kill a child of a demon cult on sight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A soul devouring a demon keeps its shreds and gains its Shadow affinity and a Path of Soulstealing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-27T19:33:43.164Z",
+  updatedAt: "2026-10-27T23:41:20.481Z",
 } as const satisfies Lore

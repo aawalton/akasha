@@ -49,7 +49,11 @@ export const giftedRebornNala = {
       fact: "She has no Status yet, and no name in this world.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "With the demon gone, the Myriad Paths find her mind too young, and ask her to kick twice to choose.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-27T21:50:33.226Z",
+  updatedAt: "2026-10-27T23:41:20.481Z",
 } as const satisfies Lore

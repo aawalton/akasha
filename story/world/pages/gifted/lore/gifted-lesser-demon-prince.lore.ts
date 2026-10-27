@@ -7,7 +7,6 @@ export const giftedLesserDemonPrince = {
   title: "The Demon",
   world: "world/gifted",
   about: "world-character/gifted-lesser-demon-prince",
-  secrets: "jsonl",
   facts: [
     {
       fact: "The demon slipped into the Ocean of Souls and swallowed a soul rising to rebirth.",
@@ -29,7 +28,23 @@ export const giftedLesserDemonPrince = {
       fact: "It is a formless darkness with claws and teeth, and its voice is a cruel snicker.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "So weakened, the demon can barely defend itself, and a soul attacking it now can tear it apart.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "If the demon recovers before it is destroyed, it will try to devour the soul that shares its body.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The demon is a Lesser Demon Prince, and the cult summoned it to be born in the child.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Destroying and absorbing it earns two Achievements: Lesser Demon Prince slain unborn; soul consumed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T21:48:20.815Z",
-  updatedAt: "2026-10-27T21:48:20.815Z",
+  updatedAt: "2026-10-27T23:41:20.481Z",
 } as const satisfies Lore
