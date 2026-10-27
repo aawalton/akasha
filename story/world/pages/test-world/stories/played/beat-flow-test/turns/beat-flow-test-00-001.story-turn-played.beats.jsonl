@@ -1,6 +1,6 @@
 {"beat":1,"event":"The player stands in the cobbled square, a healing draught in hand.","at":"2026-11-06T09:30:00.000Z","place":"place/test-world-square","present":["character-player/beat-flow-test-player"],"changes":[]}
 {"beat":2,"event":"He works the cork free with his thumb; it comes out with a soft pop.","changes":[]}
-{"beat":3,"event":"He drinks the red draught down in two swallows, sweet and faintly metallic."}
+{"beat":3,"event":"He drinks the red draught down in two swallows, sweet and faintly metallic.","changes":[{"page":"story-item/beat-flow-test-player-healing-draught","note":"Healing draught used: 2 → 1","key":"quantity","from":2,"to":1}]}
 {"beat":4,"event":"Warmth spreads through his chest, but he has no wound for it to close."}
 {"beat":5,"event":"He lowers the empty bottle and turns slowly to take in the square."}
 {"beat":6,"event":"Cobbles run out in every direction from a stone well at the square's middle."}
