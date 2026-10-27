@@ -13,6 +13,8 @@ export const amazonPurchases = {
       comparison: "contains",
       values: [
         "ordered:",
+        "item:",
+        "items:",
         "shipped",
         "out for delivery",
         "arriving",
@@ -32,5 +34,5 @@ export const amazonPurchases = {
   ],
   filing: "archive",
   createdAt: "2026-09-03T17:45:38.721Z",
-  updatedAt: "2026-09-21T04:14:11.000Z",
+  updatedAt: "2026-10-27T21:19:16.125Z",
 } as const satisfies EmailRuleCode
