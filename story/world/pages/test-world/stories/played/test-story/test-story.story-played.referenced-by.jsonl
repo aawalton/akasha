@@ -1,3 +1,4 @@
+{"propertySlug":"chapter-story","path":"story/world/pages/test-world/stories/played/test-story/chapters/test-story-0001-the-square-and-the-hall.story-chapter-played.ts","id":"01a17ec9-0e87-79a4-b56e-f4b25dc133f5"}
 {"propertySlug":"character-story","path":"story/world/pages/test-world/stories/played/test-story/characters/test-story-player.character-player.ts","id":"01a17ec6-0539-7d18-ad0a-73a0e374878e"}
 {"propertySlug":"item-story","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-brass-token.story-item.ts","id":"01a17ec8-4446-73ce-b60a-aa518effccfd"}
 {"propertySlug":"item-story","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-copper-ore.story-item.ts","id":"01a17ec8-4446-799f-b800-9446dfbec17c"}
@@ -5,8 +6,6 @@
 {"propertySlug":"item-story","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-iron-sword.story-item.ts","id":"01a17ec8-4447-7b8f-84ce-f555af8a3b67"}
 {"propertySlug":"item-story","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-lantern.story-item.ts","id":"01a17ec8-4447-7970-a7e2-d7805584d1d4"}
 {"propertySlug":"item-story","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-leather-coat.story-item.ts","id":"01a17ec8-4447-7db2-9c5a-4613a9f7257d"}
-{"propertySlug":"part-of-collections","path":"story/world/pages/test-world/stories/played/test-story/turns/test-story-00-001.story-turn-played.ts","id":"01a17ec8-ef11-7688-8401-dede6790add8"}
-{"propertySlug":"part-of-collections","path":"story/world/pages/test-world/stories/played/test-story/turns/test-story-00-002.story-turn-played.ts","id":"01a17ec8-ef11-7fc7-81ff-4da973ecf91a"}
 {"propertySlug":"part-of-collections","path":"story/world/pages/test-world/stories/played/test-story/turns/test-story-00-003.story-turn-played.ts","id":"01a17ec8-ef11-7d20-956c-4fac52512691"}
 {"propertySlug":"part-of-collections","path":"story/world/pages/test-world/stories/played/test-story/turns/test-story-00-004.story-turn-played.ts","id":"01a17ec8-ef11-744c-9952-a9601cabe717"}
 {"propertySlug":"trait-story","path":"story/world/pages/test-world/stories/played/test-story/mechanics/traits/test-story-player-night-eyes.character-trait.ts","id":"01a17ec7-ed60-7ec9-887c-d01036b16464"}
