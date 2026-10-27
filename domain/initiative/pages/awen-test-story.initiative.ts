@@ -8,11 +8,6 @@ export const awenTestStory = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    {
-      statement: "A test world holds the lore, places and mechanics a played story needs.",
-      workingMemory:
-        "Alan asked for an explicit test world and test story, since every played story is being removed under `awen-story-removal`. Its slugs and titles say test. Use the character data shapes as `awen-character-data` lands them: item category, skill experience and attribute, character-title, metric-character-point.\n",
-    },
     { statement: "A played test story in that world has a player character." },
     {
       statement:
@@ -32,5 +27,5 @@ export const awenTestStory = {
     "The test story is played only by agents testing the engine, never offered to Alan.",
   ],
   createdAt: "2026-10-27T19:03:53.823Z",
-  updatedAt: "2026-10-27T19:03:53.823Z",
+  updatedAt: "2026-10-27T19:10:51.462Z",
 } as const satisfies Initiative
