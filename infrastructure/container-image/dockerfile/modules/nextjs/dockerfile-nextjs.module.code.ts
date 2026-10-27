@@ -83,7 +83,7 @@ export function generateNextjsDockerfile(
   lines.push("")
 
   lines.push(`# Stage 2: Production runtime`)
-  const runtimeImage = ext.runtime_image ?? "node:22.14.0-alpine"
+  const runtimeImage = ext.runtime_image ?? "node:22.23.4-alpine"
   lines.push(`FROM ${runtimeImage} AS ${runtimeAlias}`)
   lines.push("")
   lines.push("WORKDIR /app")
