@@ -13,9 +13,9 @@ export const cloneProbe00001 = {
   action: "I look around the hall and check my sword's edge.",
   beats: "jsonl",
   lore: ["place/test-world-hall"],
-  reviewedBy: ["story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity"],
   endsAt: "2026-11-06T08:50:00.000Z",
   createdAt: "2026-10-27T21:53:57.824Z",
-  updatedAt: "2026-10-27T22:09:23.311Z",
+  updatedAt: "2026-10-27T22:09:33.100Z",
   ownLength: 152,
 } as const satisfies StoryTurnPlayed
