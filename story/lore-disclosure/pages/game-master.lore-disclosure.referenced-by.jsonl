@@ -1613,6 +1613,13 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/terminus/lore/terminus-the-system.lore.ts","id":"01a11cfe-9a25-7924-a51a-9ce909a57880"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/terminus/lore/terminus-tower-administrators.lore.ts","id":"01a11d5b-dde4-7dfd-a66b-16d87433e770"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/terminus/lore/terminus-weather.lore.ts","id":"01a11cff-cbaf-7da4-a399-55f82d17826b"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/lore/test-world-folk.lore.ts","id":"01a17ec5-127a-7403-8668-8583d26d91ac"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/lore/test-world-magic.lore.ts","id":"01a17ec5-127b-7d17-92de-54d9bb669770"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/lore/test-world-overview.lore.ts","id":"01a17ec5-127b-73a8-816f-db2d2a379d02"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/places/test-world-cellar.place.ts","id":"01a17ec5-127b-7fa9-be67-1de8f228ceee"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/places/test-world-hall.place.ts","id":"01a17ec5-127c-7c95-8abc-8383ca570a2c"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/places/test-world-shop.place.ts","id":"01a17ec5-127c-728d-b964-e90af5658595"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/places/test-world-square.place.ts","id":"01a17ec5-127c-7e15-9e56-26cc379d4bb3"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-beholder/lore/colette-vane.lore.ts","id":"01a0ddf8-63fc-7743-afaf-b7f56d2f6b72"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-beholder/lore/mr-aldous.lore.ts","id":"01a0ddf8-63fd-73fc-b1e1-46e9dc9adacd"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-beholder/lore/pearl-colette-vane.lore.ts","id":"01a0ddf8-63fd-790e-a826-5815832dda26"}

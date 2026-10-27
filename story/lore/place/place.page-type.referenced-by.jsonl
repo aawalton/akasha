@@ -536,6 +536,10 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-vaelyssan-sea.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-volcano-isle.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-ygdrans-dungeon.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/test-world/places/test-world-cellar.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/test-world/places/test-world-hall.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/test-world/places/test-world-shop.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/test-world/places/test-world-square.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-beholder/places/the-beholder-backstage.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-beholder/places/the-beholder-city.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-beholder/places/the-beholder-glass-tower-atrium.place.ts","typed":true,"deferred":false}
