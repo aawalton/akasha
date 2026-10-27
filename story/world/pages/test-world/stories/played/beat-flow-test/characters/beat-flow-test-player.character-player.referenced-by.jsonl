@@ -6,6 +6,7 @@
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/beat-flow-test/items/beat-flow-test-player-lantern.story-item.ts","id":"01a17f7f-6e81-7530-91cc-aaacffab3070"}
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/beat-flow-test/items/beat-flow-test-player-leather-coat.story-item.ts","id":"01a17f7f-6e81-74aa-8dcb-5fefb4d5db4c"}
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/beat-flow-test/items/beat-flow-test-player-shop-lantern.story-item.ts","id":"01a17f7f-6e81-73f9-bcd3-0357856d2b90"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/lore/test-world-magic.lore.ts","id":"01a17ec5-127b-7d17-92de-54d9bb669770"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/test-world/lore/test-world-overview.lore.ts","id":"01a17ec5-127b-73a8-816f-db2d2a379d02"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/metrics/experiences/beat-flow-test-player.metric-character-experience.ts","id":"01a17f7f-6e81-75b0-9832-51b60bfc2553"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/metrics/healths/beat-flow-test-player.metric-character-health.ts","id":"01a17f7f-6e81-7630-8fc5-10242db7d7d4"}
