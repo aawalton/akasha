@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { signalNamed } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
   ALLOWED,
   allowedAgain,
@@ -168,7 +169,7 @@ async function ranOf(stated: string): Promise<Ran> {
   const out = await new Response(kid.stdout).text()
   const said = await new Response(kid.stderr).text()
   await kid.exited
-  return { signal: kid.signalCode, code: kid.exitCode, said, out }
+  return { signal: signalNamed(kid.signalCode), code: kid.exitCode, said, out }
 }
 
 test("a call whose page states seconds is stopped where that call runs past them", async () => {
