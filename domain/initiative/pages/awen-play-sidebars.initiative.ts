@@ -27,9 +27,8 @@ export const awenPlaySidebars = {
         "Where both sidebars leave the turns too narrow to read, opening one side closes the other.",
     },
     { statement: "On a phone, a bottom tab bar opens each place full screen over the turns." },
-    { statement: "On a phone, an open place has a switch to the other place on its side." },
   ],
   constraints: ["Nothing inside a panel changes but the place that panel is drawn in."],
   createdAt: "2026-10-27T18:26:40.142Z",
-  updatedAt: "2026-10-27T18:51:05.388Z",
+  updatedAt: "2026-10-27T18:51:06.578Z",
 } as const satisfies Initiative
