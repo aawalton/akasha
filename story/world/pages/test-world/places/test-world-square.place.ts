@@ -23,9 +23,9 @@ export const testWorldSquare = {
   facts: [
     {
       fact: "The square is cobbled, with a well at its middle and a bench beside the well.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
     },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T19:10:06.969Z",
+  updatedAt: "2026-10-27T22:53:52.805Z",
 } as const satisfies Place

@@ -8,6 +8,7 @@
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/beat-flow-test/items/beat-flow-test-player-shop-lantern.story-item.ts","id":"01a17f7f-6e81-73f9-bcd3-0357856d2b90"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/test-world/lore/test-world-magic.lore.ts","id":"01a17ec5-127b-7d17-92de-54d9bb669770"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/test-world/lore/test-world-overview.lore.ts","id":"01a17ec5-127b-73a8-816f-db2d2a379d02"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/places/test-world-square.place.ts","id":"01a17ec5-127c-7e15-9e56-26cc379d4bb3"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/metrics/experiences/beat-flow-test-player.metric-character-experience.ts","id":"01a17f7f-6e81-75b0-9832-51b60bfc2553"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/metrics/healths/beat-flow-test-player.metric-character-health.ts","id":"01a17f7f-6e81-7630-8fc5-10242db7d7d4"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/metrics/levels/beat-flow-test-player.metric-character-level.ts","id":"01a17f7f-6e81-79f6-ba6d-6b1ae20cb159"}
