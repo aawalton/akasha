@@ -1,0 +1,9 @@
+You stand in the Test Square. The cobbles are dry, and a well sits at the middle with a bench beside it.
+
+To the north, steps climb to the Test Hall. A green door on the east side opens into the Test Shop.
+
+By the well, a stone stair leads down into the dark of the Test Cellar.
+
+[This paragraph is an aside, set in square brackets, so agents can check how an aside is drawn.]
+
+A breeze turns a loose page on the bench, and the town is quiet.
