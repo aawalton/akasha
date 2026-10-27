@@ -14,6 +14,23 @@ describe("core-config", () => {
     expect(hudLayoutIn({ version: 1, hudLayout: LAYOUT })).toEqual(LAYOUT)
   })
 
+  test("a panel measured by another control answers that control", () => {
+    const measured: HudLayout = {
+      docks: {},
+      panels: [
+        {
+          key: "ZO_HUDTrackers",
+          dock: "top-right",
+          displayOrder: 1,
+          neverMoves: false,
+          measuredBy: "ZO_HUDTrackersScrollContainerScrollChild",
+        },
+      ],
+    }
+    const panel = hudLayoutIn({ version: 1, hudLayout: measured })?.panels[0]
+    expect(panel?.measuredBy).toBe("ZO_HUDTrackersScrollContainerScrollChild")
+  })
+
   test("a config stating no HUD layout answers none", () => {
     expect(hudLayoutIn({ version: 1 })).toBeUndefined()
   })

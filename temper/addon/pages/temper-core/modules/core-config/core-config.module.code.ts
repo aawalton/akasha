@@ -11,6 +11,7 @@ export interface HudLayoutPanel {
   readonly dock: HudDock
   readonly displayOrder: number
   readonly neverMoves: boolean
+  readonly measuredBy?: string
 }
 
 export interface HudLayout {

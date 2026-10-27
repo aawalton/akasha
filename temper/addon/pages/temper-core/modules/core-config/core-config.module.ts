@@ -12,7 +12,11 @@ export const coreConfig = {
       decisionKind: "decision-kind/departure",
       statement: "A config stating no version above zero states no layout.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel measured by another control names that control in `measuredBy`.",
+    },
   ],
   createdAt: "2026-10-27T19:15:03.182Z",
-  updatedAt: "2026-10-27T19:15:03.182Z",
+  updatedAt: "2026-10-27T19:39:27.982Z",
 } as const satisfies Module
