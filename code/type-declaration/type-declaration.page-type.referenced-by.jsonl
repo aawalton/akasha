@@ -51,6 +51,7 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/writ-mark-decl-tracker/writ-mark-decl-tracker.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/guild-history/sales-history-controls/sales-history-controls.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/inventory-config-global/inventory-config-global.type-declaration.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/core-config-declarations/core-config-declarations.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-combobox/addon-menu-eso-combobox.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-controls/addon-menu-eso-controls.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.ts","typed":true,"deferred":false}

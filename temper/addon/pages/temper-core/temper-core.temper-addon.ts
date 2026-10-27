@@ -10,7 +10,11 @@ export const temperCore = {
   addonBinFolder: true,
   bindings: "xml",
   bundleEntry: "module/hud-addon-entry",
+  luaModules: ["lua-module/core-config-global"],
   parts: [
+    "lua-module/core-config-global",
+    "type-declaration/core-config-declarations",
+    "module/core-config",
     "domain/temper-addon-menu",
     "domain/temper-async",
     "domain/temper-chat-message",
@@ -76,5 +80,5 @@ export const temperCore = {
     },
   ],
   createdAt: "2026-09-02T10:58:22.045Z",
-  updatedAt: "2026-10-27T19:07:14.498Z",
+  updatedAt: "2026-10-27T19:15:03.182Z",
 } as const satisfies TemperAddon

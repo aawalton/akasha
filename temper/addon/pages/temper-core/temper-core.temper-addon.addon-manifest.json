@@ -22,7 +22,7 @@
     "TemperDebugLoggerSettings",
     "TemperDebugLoggerLog"
   ],
-  "additionalLuaFiles": [],
+  "additionalLuaFiles": ["TemperConfig.lua"],
   "dependsOn": [],
   "optionalDependsOn": [
     "LibGroupBroadcast",

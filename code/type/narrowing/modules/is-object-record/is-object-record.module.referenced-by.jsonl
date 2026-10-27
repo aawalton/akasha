@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/temper-core/modules/core-config/core-config.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-init/housing-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts","typed":false,"deferred":false}
