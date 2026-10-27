@@ -39,7 +39,12 @@ export const settleSeeding = {
       decisionKind: "decision-kind/departure",
       statement: "Each ingredient of a seed is read from what the repository records.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter's line is read before its `turn` was stamped on, so a close moves no seed.",
+    },
   ],
   createdAt: "2026-09-29T03:37:07.873Z",
-  updatedAt: "2026-10-06T11:37:01.000Z",
+  updatedAt: "2026-10-27T21:31:24.523Z",
 } as const satisfies Module

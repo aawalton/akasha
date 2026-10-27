@@ -17,10 +17,24 @@ export function linesIn(read: Reading, outcomes: string | null): readonly string
   return kept.split(BREAK).filter((one) => one.trim() !== "")
 }
 
+const STAMPED = /,"turn":-?\d+\}$/
+
+const CLOSING = "}"
+
+export function turnStamped(line: string, position: number): string {
+  const trimmed = line.trimEnd()
+  if (!trimmed.endsWith(CLOSING)) return trimmed
+  return `${trimmed.slice(0, -CLOSING.length)},"turn":${position}${CLOSING}`
+}
+
+export function turnUnstamped(line: string): string {
+  return line.trimEnd().replace(STAMPED, CLOSING)
+}
+
 export function lineBefore(read: Reading, turns: readonly Chained[]): string | null {
   for (const one of turns.toSorted((a, b) => b.position - a.position)) {
     const line = linesIn(read, one.outcomes).at(-1)
-    if (line !== undefined) return line
+    if (line !== undefined) return turnUnstamped(line)
   }
   return null
 }

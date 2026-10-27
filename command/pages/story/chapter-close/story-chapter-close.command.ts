@@ -62,7 +62,11 @@ export const storyChapterClose = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A chapter's outcomes are each turn's outcome lines in order, as the turn kept them.",
+        "A chapter's outcomes are each turn's outcome lines in order, each stamped with its `turn`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter keeps the paragraph each turn it takes starts at, under its number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -76,5 +80,5 @@ export const storyChapterClose = {
     { argument: "argument/title", required: true },
   ],
   createdAt: "2026-09-24T19:29:09.156Z",
-  updatedAt: "2026-10-06T11:34:46.000Z",
+  updatedAt: "2026-10-27T21:31:24.523Z",
 } as const satisfies Command

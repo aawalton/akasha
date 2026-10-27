@@ -24,6 +24,7 @@ import { storyChapterClose as page } from "akasha/command/pages/story/chapter-cl
 import {
   linesIn,
   type Reading,
+  turnStamped,
 } from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
 import { beatsHeld } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import { onDisk, outcomesAt } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
@@ -46,6 +47,7 @@ import {
   beatsJoined,
   beatsWritten,
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import { drawnParagraphsIn } from "akasha/story/engine/core/modules/prose-paragraphs/prose-paragraphs.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
@@ -188,10 +190,27 @@ export function chapterBeatsOf(each: readonly Beats[]): string | null {
 
 export function chapterOutcomesOf(
   read: Reading,
-  turns: readonly { readonly at: string }[]
+  turns: readonly { readonly at: string; readonly position: number }[]
 ): string | null {
-  const lines = turns.flatMap((one) => linesIn(read, outcomesAt(one.at)))
+  const lines = turns.flatMap((one) =>
+    linesIn(read, outcomesAt(one.at)).map((line) => turnStamped(line, one.position))
+  )
   return lines.length === 0 ? null : `${lines.join(BREAK)}${BREAK}`
+}
+
+type TurnStart = { readonly position: number; readonly paragraph: number }
+
+export function turnStartsOf(
+  turns: readonly { readonly position: number }[],
+  texts: readonly string[]
+): readonly TurnStart[] {
+  const starts: TurnStart[] = []
+  let paragraph = 0
+  for (const [at, one] of turns.entries()) {
+    starts.push({ position: one.position, paragraph })
+    paragraph += drawnParagraphsIn(texts[at] ?? "")
+  }
+  return starts
 }
 
 function storyOf(slug: string): string {
@@ -294,6 +313,7 @@ async function closed(
       unit: WORDS,
       prose: HELD,
       ...(turnCovers.length === 0 ? {} : { turnCovers }),
+      turnStarts: turnStartsOf(turns, texts),
       ...lastTurnOf(turns),
       ...endsAtOf(turns),
       ...(beats === null ? {} : { [BEATS]: BEATS_HELD }),

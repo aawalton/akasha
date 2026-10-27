@@ -6,6 +6,8 @@ import {
   lineBefore,
   lineChained,
   seedAfter,
+  turnStamped,
+  turnUnstamped,
   unmadeLogged,
 } from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
@@ -59,6 +61,14 @@ test("the line before falls back to the latest closed chapter holding outcomes",
   expect(lineChained(read, [{ position: 9, outcomes: "none" }], chapters)).toBe("first")
   expect(lineChained(read, [{ position: 9, outcomes: "open" }], chapters)).toBe("own")
   expect(lineChained(read, [], [])).toBeNull()
+})
+
+test("a line stamped with its turn reads back as the line it was, so a close moves no seed", () => {
+  const stamped = turnStamped(LINE, 8)
+  expect(stamped).toBe('{"check":"world-check/growth","answered":{"level":1},"turn":8}')
+  expect(turnUnstamped(stamped)).toBe(LINE)
+  const read = (path: string) => (path === "chapter" ? `${stamped}\n` : null)
+  expect(lineChained(read, [], [{ position: 1, outcomes: "chapter" }])).toBe(LINE)
 })
 
 function git(...argv: readonly string[]): undefined {
