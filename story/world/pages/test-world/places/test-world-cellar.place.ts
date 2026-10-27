@@ -18,9 +18,9 @@ export const testWorldCellar = {
   facts: [
     {
       fact: "The cellar is cool and dry, with barrels along one wall and a single lamp hook.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/test-story-player"],
     },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T20:51:01.132Z",
+  updatedAt: "2026-10-27T20:56:29.811Z",
 } as const satisfies Place
