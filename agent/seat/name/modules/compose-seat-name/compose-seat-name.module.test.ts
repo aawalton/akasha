@@ -14,7 +14,7 @@ import { awenEngineImprovements } from "akasha/domain/initiative/pages/awen-engi
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import { awen } from "akasha/persona/pages/awen/awen.persona.ts"
 import { iris } from "akasha/persona/pages/iris/iris.persona.ts"
-import { theTower } from "akasha/story/world/pages/personas/stories/played/the-tower/the-tower.story-played.ts"
+import { climb } from "akasha/story/world/pages/climb/stories/written/climb/climb.story-written.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
@@ -23,25 +23,25 @@ function alans(persona: string, role: string, domain: string): NameableSeat {
 }
 
 test("a seat of Alan's whose domain is a game is named for its persona, role and game", () => {
-  expect(composeSeatName(alans(iris.slug, gameMaster.slug, theTower.slug), ROOT)).toBe(
-    "iris-game-master-the-tower"
+  expect(composeSeatName(alans(iris.slug, gameMaster.slug, climb.slug), ROOT)).toBe(
+    "iris-game-master-climb"
   )
-  expect(composeSeatName(alans(iris.slug, worldBuilder.slug, theTower.slug), ROOT)).toBe(
-    "iris-world-builder-the-tower"
+  expect(composeSeatName(alans(iris.slug, worldBuilder.slug, climb.slug), ROOT)).toBe(
+    "iris-world-builder-climb"
   )
 })
 
 test("a persona's game master seat and world builder seat on one game are two names", () => {
-  const master = composeSeatName(alans(iris.slug, gameMaster.slug, theTower.slug), ROOT)
-  const builder = composeSeatName(alans(iris.slug, worldBuilder.slug, theTower.slug), ROOT)
+  const master = composeSeatName(alans(iris.slug, gameMaster.slug, climb.slug), ROOT)
+  const builder = composeSeatName(alans(iris.slug, worldBuilder.slug, climb.slug), ROOT)
   expect(master).not.toBe(builder)
 })
 
 test("two seats of one persona, role and game are parted by the flex each carries", () => {
-  const one = { ...alans(iris.slug, gameMaster.slug, theTower.slug), flex: "flex-1" }
-  const two = { ...alans(iris.slug, gameMaster.slug, theTower.slug), flex: "flex-2" }
-  expect(composeSeatName(one, ROOT)).toBe("iris-game-master-the-tower-flex-1")
-  expect(composeSeatName(two, ROOT)).toBe("iris-game-master-the-tower-flex-2")
+  const one = { ...alans(iris.slug, gameMaster.slug, climb.slug), flex: "flex-1" }
+  const two = { ...alans(iris.slug, gameMaster.slug, climb.slug), flex: "flex-2" }
+  expect(composeSeatName(one, ROOT)).toBe("iris-game-master-climb-flex-1")
+  expect(composeSeatName(two, ROOT)).toBe("iris-game-master-climb-flex-2")
 })
 
 test("a seat of Alan's whose domain is no game keeps its persona's name alone", () => {
@@ -93,11 +93,11 @@ test("a seat working for the fleet on a game is named for the game and its role"
   expect(
     composeSeatName(
       {
-        attributes: { persona: null, domain: theTower.slug, role: gameMaster.slug },
+        attributes: { persona: null, domain: climb.slug, role: gameMaster.slug },
         flex: null,
         principal: "agent",
       },
       ROOT
     )
-  ).toBe("the-tower-game-master")
+  ).toBe("climb-game-master")
 })
