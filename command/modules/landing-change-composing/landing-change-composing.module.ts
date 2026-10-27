@@ -112,7 +112,11 @@ export const landingChangeComposing = {
       statement:
         "A folder move leaves a page every referenced-by row an importer outside that folder files.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path a move lands on and the landing then takes away is written by nothing.",
+    },
   ],
   createdAt: "2026-09-11T02:28:12.531Z",
-  updatedAt: "2026-09-25T17:49:24.000Z",
+  updatedAt: "2026-10-27T21:05:14.352Z",
 } as const satisfies Module

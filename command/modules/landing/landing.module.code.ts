@@ -46,6 +46,7 @@ import {
   besideBefore,
   besideRebased,
   changeOf,
+  landedBodies,
   type Settled,
   splitIn,
 } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
@@ -71,7 +72,6 @@ import {
   orphaningIn,
   orphaningSaid,
 } from "akasha/command/modules/orphaning/orphaning.module.code.ts"
-import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import {
   asideOnto,
   movedOnto,
@@ -171,22 +171,6 @@ function wroteOnto(
     wrote.push(one.path)
   }
   return { wrote, took }
-}
-
-function bodiesOf(
-  putting: readonly Bodied[],
-  moving: readonly FileMove[],
-  onto: readonly Bodied[],
-  before: ReadonlyMap<string, Uint8Array | null>
-): ReadonlyMap<string, Uint8Array> {
-  const held = new Map<string, Uint8Array>()
-  for (const one of putting) if (one.body !== null) held.set(one.path, one.body)
-  for (const one of moving) {
-    const body = before.get(one.from) ?? null
-    if (body !== null) held.set(one.to, body)
-  }
-  for (const one of onto) if (one.body !== null) held.set(one.path, one.body)
-  return held
 }
 
 function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>): undefined {
@@ -380,7 +364,7 @@ async function landingHeld(
         try {
           const onto = committing.filter((one) => lands.has(one.path))
           const then = wroteOnto(root, onto)
-          const bodies = bodiesOf(putting, moving.committing, onto, before)
+          const bodies = landedBodies(putting, moving.committing, onto, before)
           const wrote = [...bodies.keys()]
           const took = [
             ...new Set([...put.took, ...moving.committing.map((one) => one.from), ...then.took]),

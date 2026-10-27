@@ -101,6 +101,25 @@ export function splitIn(root: string, changes: readonly FileChange[]): Split {
   return { edits: [...edits.values()], moves }
 }
 
+export function landedBodies(
+  putting: readonly Bodied[],
+  moving: readonly FileMove[],
+  onto: readonly Bodied[],
+  before: ReadonlyMap<string, Uint8Array | null>
+): ReadonlyMap<string, Uint8Array> {
+  const held = new Map<string, Uint8Array>()
+  for (const one of putting) if (one.body !== null) held.set(one.path, one.body)
+  for (const one of moving) {
+    const body = before.get(one.from) ?? null
+    if (body !== null) held.set(one.to, body)
+  }
+  for (const one of onto) {
+    if (one.body === null) held.delete(one.path)
+    else held.set(one.path, one.body)
+  }
+  return held
+}
+
 export function beforeOf(
   root: string,
   base: string,

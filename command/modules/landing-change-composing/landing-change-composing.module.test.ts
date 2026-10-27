@@ -68,6 +68,25 @@ test("a beside file this landing takes away keeps a row the tree filed since, an
   expect(body === undefined || body === null ? null : TEXT.decode(body)).toBe(`${naming("two")}\n`)
 })
 
+const MOVED_REFERENCED = "akasha/b.domain.referenced-by.jsonl"
+
+test("a referenced-by file moved and emptied in one landing goes, rather than failing in git", async () => {
+  const root = repoWith({ [REFERENCED]: `${naming("one")}\n` })
+  const said = await landing(
+    root,
+    [
+      { kind: "move", pathFrom: REFERENCED, pathTo: MOVED_REFERENCED },
+      { kind: "remove", path: MOVED_REFERENCED },
+    ],
+    "moved and emptied",
+    NO_GATE
+  )
+  expect("refusals" in said ? said.refusals : []).toEqual([])
+  const tree = git(root, ["ls-tree", "-r", "--name-only", "HEAD"])
+  expect(tree).not.toContain(REFERENCED)
+  expect(tree).not.toContain(MOVED_REFERENCED)
+})
+
 const BESIDE = "akasha/a.page-type.shapes.jsonl"
 
 const rowFor = (slug: string, target: string): string =>
