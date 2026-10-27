@@ -27,7 +27,11 @@ export const testWorldHall = {
       fact: "The hall's stone floor is kept swept and bare from end to end.",
       knowers: ["lore-disclosure/game-master", "character-player/clone-probe-player"],
     },
+    {
+      fact: "The hall's hearth is at its far end, with cots beside it for travellers to sleep on.",
+      knowers: ["lore-disclosure/game-master", "character-player/clone-probe-player"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T22:04:57.023Z",
+  updatedAt: "2026-10-27T22:05:37.029Z",
 } as const satisfies Place
