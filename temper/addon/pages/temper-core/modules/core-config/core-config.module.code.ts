@@ -7,10 +7,10 @@ export interface HudLayoutDock {
 }
 
 export interface HudLayoutPanel {
-  readonly control: string
+  readonly key: string
   readonly dock: HudDock
-  readonly order: number
-  readonly fixed: boolean
+  readonly displayOrder: number
+  readonly neverMoves: boolean
 }
 
 export interface HudLayout {

@@ -11,18 +11,18 @@ export type HudDock =
 export type HudPoint = "TOPLEFT" | "TOP" | "TOPRIGHT" | "BOTTOMLEFT" | "BOTTOM" | "BOTTOMRIGHT"
 
 export interface HudPanelBox {
-  readonly control: string
+  readonly key: string
   readonly dock: HudDock
-  readonly order: number
+  readonly displayOrder: number
   readonly top: number
   readonly height: number
   readonly hidden: boolean
-  readonly fixed: boolean
+  readonly neverMoves: boolean
   readonly shrinks: boolean
 }
 
 export interface HudPanelPlace {
-  readonly control: string
+  readonly key: string
   readonly point: HudPoint
   readonly offsetX: number
   readonly offsetY: number
@@ -66,11 +66,13 @@ function shownIn(panels: readonly HudPanelBox[], dock: HudDock | undefined): Hud
   if (dock === undefined) return []
   return panels
     .filter((panel) => panel.dock === dock && !panel.hidden)
-    .sort((a, b) => (a.fixed === b.fixed ? a.order - b.order : a.fixed ? -1 : 1))
+    .sort((a, b) =>
+      a.neverMoves === b.neverMoves ? a.displayOrder - b.displayOrder : a.neverMoves ? -1 : 1
+    )
 }
 
 function roomOf(panel: HudPanelBox, rooms: Rooms): number {
-  return rooms.get(panel.control) ?? panel.height
+  return rooms.get(panel.key) ?? panel.height
 }
 
 function stackHeight(panels: readonly HudPanelBox[], rooms: Rooms, gap: number): number {
@@ -83,7 +85,7 @@ function startEnd(panels: readonly HudPanelBox[], rooms: Rooms, gap: number): nu
   if (panels.length === 0) return 0
   let cursor = gap
   for (const panel of panels) {
-    cursor = panel.fixed
+    cursor = panel.neverMoves
       ? Math.max(cursor, panel.top + panel.height + gap)
       : cursor + roomOf(panel, rooms) + gap
   }
@@ -99,7 +101,9 @@ function endStart(
   if (panels.length === 0) return height
   let cursor = height - gap
   for (const panel of panels) {
-    cursor = panel.fixed ? Math.min(cursor, panel.top - gap) : cursor - roomOf(panel, rooms) - gap
+    cursor = panel.neverMoves
+      ? Math.min(cursor, panel.top - gap)
+      : cursor - roomOf(panel, rooms) - gap
   }
   return cursor + gap
 }
@@ -115,9 +119,9 @@ function shrinkToFit(
   let left = over
   for (const panel of lowestFirst) {
     if (left <= 0) break
-    if (!panel.shrinks || panel.fixed) continue
+    if (!panel.shrinks || panel.neverMoves) continue
     const taken = Math.min(panel.height, left)
-    rooms.set(panel.control, panel.height - taken)
+    rooms.set(panel.key, panel.height - taken)
     left -= taken
   }
   return rooms
@@ -147,14 +151,14 @@ function placeColumn(
   const places: HudPanelPlace[] = []
   let cursor = startGap
   for (const panel of starting) {
-    if (panel.fixed) {
+    if (panel.neverMoves) {
       cursor = Math.max(cursor, panel.top + panel.height + startGap)
       continue
     }
     const side = sideOf(startDock)
     const room = roomOf(panel, rooms)
     places.push({
-      control: panel.control,
+      key: panel.key,
       point: pointOf(side, false),
       offsetX: offsetXOf(side, startGap),
       offsetY: cursor,
@@ -164,14 +168,14 @@ function placeColumn(
   }
   let fromBottom = endGap
   for (const panel of ending) {
-    if (panel.fixed) {
+    if (panel.neverMoves) {
       fromBottom = Math.max(fromBottom, screen.height - panel.top + endGap)
       continue
     }
     const side = sideOf(endDock)
     const room = roomOf(panel, rooms)
     places.push({
-      control: panel.control,
+      key: panel.key,
       point: pointOf(side, true),
       offsetX: offsetXOf(side, endGap),
       offsetY: -fromBottom,
@@ -188,7 +192,7 @@ function placeColumn(
   for (const panel of middle) {
     const room = roomOf(panel, rooms)
     places.push({
-      control: panel.control,
+      key: panel.key,
       point: pointOf(side, false),
       offsetX: offsetXOf(side, middleGap),
       offsetY: middleCursor,

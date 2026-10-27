@@ -18,8 +18,17 @@ const GAPS: Record<HudDock, number> = {
   "bottom-right": 10,
 }
 
-function panel(control: string, dock: HudDock, order: number, height: number): HudPanelBox {
-  return { control, dock, order, top: 0, height, hidden: false, fixed: false, shrinks: false }
+function panel(key: string, dock: HudDock, displayOrder: number, height: number): HudPanelBox {
+  return {
+    key,
+    dock,
+    displayOrder,
+    top: 0,
+    height,
+    hidden: false,
+    neverMoves: false,
+    shrinks: false,
+  }
 }
 
 describe("placeHudPanels", () => {
@@ -30,8 +39,8 @@ describe("placeHudPanels", () => {
       GAPS
     )
     expect(places).toEqual([
-      { control: "a", point: "TOPRIGHT", offsetX: -10, offsetY: 10, room: 100 },
-      { control: "b", point: "TOPRIGHT", offsetX: -10, offsetY: 120, room: 40 },
+      { key: "a", point: "TOPRIGHT", offsetX: -10, offsetY: 10, room: 100 },
+      { key: "b", point: "TOPRIGHT", offsetX: -10, offsetY: 120, room: 40 },
     ])
   })
 
@@ -42,28 +51,26 @@ describe("placeHudPanels", () => {
       GAPS
     )
     expect(places).toEqual([
-      { control: "a", point: "BOTTOM", offsetX: 0, offsetY: -10, room: 50 },
-      { control: "b", point: "BOTTOM", offsetX: 0, offsetY: -70, room: 30 },
+      { key: "a", point: "BOTTOM", offsetX: 0, offsetY: -10, room: 50 },
+      { key: "b", point: "BOTTOM", offsetX: 0, offsetY: -70, room: 30 },
     ])
   })
 
   test("a hidden panel takes no room and leaves no gap", () => {
     const hidden = { ...panel("a", "top-left", 1, 100), hidden: true }
     const places = placeHudPanels(SCREEN, [hidden, panel("b", "top-left", 2, 40)], GAPS)
-    expect(places).toEqual([{ control: "b", point: "TOPLEFT", offsetX: 10, offsetY: 10, room: 40 }])
+    expect(places).toEqual([{ key: "b", point: "TOPLEFT", offsetX: 10, offsetY: 10, room: 40 }])
   })
 
   test("a panel that never moves begins its dock and is not placed", () => {
-    const fixed = { ...panel("bar", "bottom", 5, 70), fixed: true, top: 400 }
-    const places = placeHudPanels(SCREEN, [panel("a", "bottom", 1, 30), fixed], GAPS)
-    expect(places).toEqual([{ control: "a", point: "BOTTOM", offsetX: 0, offsetY: -110, room: 30 }])
+    const bar = { ...panel("bar", "bottom", 5, 70), neverMoves: true, top: 400 }
+    const places = placeHudPanels(SCREEN, [panel("a", "bottom", 1, 30), bar], GAPS)
+    expect(places).toEqual([{ key: "a", point: "BOTTOM", offsetX: 0, offsetY: -110, room: 30 }])
   })
 
   test("a middle dock is centred, between the corner docks of its edge", () => {
     const places = placeHudPanels(SCREEN, [panel("m", "right", 1, 100)], GAPS)
-    expect(places).toEqual([
-      { control: "m", point: "TOPRIGHT", offsetX: -10, offsetY: 200, room: 100 },
-    ])
+    expect(places).toEqual([{ key: "m", point: "TOPRIGHT", offsetX: -10, offsetY: 200, room: 100 }])
   })
 
   test("a middle dock is pushed below a top corner that reaches past the centre", () => {
@@ -73,7 +80,7 @@ describe("placeHudPanels", () => {
       GAPS
     )
     expect(places[1]).toEqual({
-      control: "m",
+      key: "m",
       point: "TOPRIGHT",
       offsetX: -10,
       offsetY: 270,
@@ -85,8 +92,8 @@ describe("placeHudPanels", () => {
     const tasks = { ...panel("tasks", "top-right", 1, 400), shrinks: true }
     const places = placeHudPanels(SCREEN, [tasks, panel("loot", "bottom-right", 1, 200)], GAPS)
     expect(places).toEqual([
-      { control: "tasks", point: "TOPRIGHT", offsetX: -10, offsetY: 10, room: 270 },
-      { control: "loot", point: "BOTTOMRIGHT", offsetX: -10, offsetY: -10, room: 200 },
+      { key: "tasks", point: "TOPRIGHT", offsetX: -10, offsetY: 10, room: 270 },
+      { key: "loot", point: "BOTTOMRIGHT", offsetX: -10, offsetY: -10, room: 200 },
     ])
   })
 

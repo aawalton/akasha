@@ -48,15 +48,15 @@ test("each dock is keyed by its slug and states its gap", () => {
   })
 })
 
-test("each panel states its control, dock, order, and whether it is fixed", () => {
+test("each panel states its key, dock, display order, and whether it never moves", () => {
   expect(hudLayoutOf([], [ATTRIBUTES, ACTION_BAR]).panels).toEqual([
-    { control: "ZO_ActionBar1", dock: bottom.slug, order: 1, fixed: true },
-    { control: "ZO_PlayerAttribute", dock: bottom.slug, order: 2, fixed: false },
+    { key: "ZO_ActionBar1", dock: bottom.slug, displayOrder: 1, neverMoves: true },
+    { key: "ZO_PlayerAttribute", dock: bottom.slug, displayOrder: 2, neverMoves: false },
   ])
 })
 
-test("panels are written by dock and then by order whatever order they were read in", () => {
-  const read = hudLayoutOf([], [COMPASS, ATTRIBUTES, ACTION_BAR]).panels.map((one) => one.control)
+test("panels are written by dock and then by display order whatever order they were read in", () => {
+  const read = hudLayoutOf([], [COMPASS, ATTRIBUTES, ACTION_BAR]).panels.map((one) => one.key)
   expect(read).toEqual(["ZO_ActionBar1", "ZO_PlayerAttribute", "ZO_CompassFrame"])
 })
 
@@ -75,8 +75,9 @@ test("the layout is written under TemperConfig's hudLayout", async () => {
   const written = h.content() ?? ""
   expect(written).toContain("TemperConfig =")
   expect(written).toContain('["hudLayout"] =')
-  expect(written).toContain('["control"] = "ZO_ActionBar1",')
-  expect(written).toContain('["fixed"] = true,')
+  expect(written).toContain('["key"] = "ZO_ActionBar1",')
+  expect(written).toContain('["displayOrder"] = 1,')
+  expect(written).toContain('["neverMoves"] = true,')
 })
 
 test("an unchanged layout is not written again", async () => {

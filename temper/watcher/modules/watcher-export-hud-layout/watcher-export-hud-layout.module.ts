@@ -14,16 +14,13 @@ export const watcherExportHudLayout = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A panel states its control, its dock's slug, its order, and whether it is fixed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A panel is fixed where its page says it never moves.",
+      statement:
+        "A panel states its key, its dock's slug, its display order, and whether it never moves.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Panels are written by dock and then by order, so an unchanged layout is unwritten.",
+        "Panels are written by dock and then by display order, so an unchanged layout is unwritten.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -31,5 +28,5 @@ export const watcherExportHudLayout = {
     },
   ],
   createdAt: "2026-10-27T19:18:31.117Z",
-  updatedAt: "2026-10-27T19:18:31.117Z",
+  updatedAt: "2026-10-27T19:26:45.205Z",
 } as const satisfies Module

@@ -6,7 +6,7 @@ import {
 
 const LAYOUT: HudLayout = {
   docks: { bottom: { gap: 10 } },
-  panels: [{ control: "ZO_ActionBar1", dock: "bottom", order: 1, fixed: true }],
+  panels: [{ key: "ZO_ActionBar1", dock: "bottom", displayOrder: 1, neverMoves: true }],
 }
 
 describe("core-config", () => {

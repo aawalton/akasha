@@ -22,10 +22,10 @@ interface HudLayoutDock {
 }
 
 interface HudLayoutPanel {
-  readonly control: string
+  readonly key: string
   readonly dock: string
-  readonly order: number
-  readonly fixed: boolean
+  readonly displayOrder: number
+  readonly neverMoves: boolean
 }
 
 interface HudLayout {
@@ -47,17 +47,17 @@ function stated<T>(held: T | null, page: Page, key: string): T {
 
 function panelOf(page: Page): HudLayoutPanel {
   return {
-    control: stated(textAt(page, "key"), page, "key"),
+    key: stated(textAt(page, "key"), page, "key"),
     dock: stated(slugAt(page, "dock"), page, "dock"),
-    order: stated(numberAt(page, "displayOrder"), page, "displayOrder"),
-    fixed: page["neverMoves"] === true,
+    displayOrder: stated(numberAt(page, "displayOrder"), page, "displayOrder"),
+    neverMoves: page["neverMoves"] === true,
   }
 }
 
-function byDockThenOrder(a: HudLayoutPanel, b: HudLayoutPanel): number {
+function byDockThenDisplayOrder(a: HudLayoutPanel, b: HudLayoutPanel): number {
   if (a.dock !== b.dock) return a.dock < b.dock ? -1 : 1
-  if (a.order !== b.order) return a.order - b.order
-  return a.control < b.control ? -1 : a.control > b.control ? 1 : 0
+  if (a.displayOrder !== b.displayOrder) return a.displayOrder - b.displayOrder
+  return a.key < b.key ? -1 : a.key > b.key ? 1 : 0
 }
 
 export function hudLayoutOf(docks: readonly Page[], panels: readonly Page[]): HudLayout {
@@ -67,7 +67,7 @@ export function hudLayoutOf(docks: readonly Page[], panels: readonly Page[]): Hu
       gap: stated(numberAt(dock, "gap"), dock, "gap"),
     }
   }
-  return { docks: gaps, panels: panels.map(panelOf).sort(byDockThenOrder) }
+  return { docks: gaps, panels: panels.map(panelOf).sort(byDockThenDisplayOrder) }
 }
 
 export async function runExportHudLayout(
