@@ -1,3 +1,4 @@
+{"propertySlug":"extends-type","path":"temper/addon/shared/hud-component/temper-hud-dock/temper-hud-dock.page-type.ts","id":"01a17ec5-26a5-7132-972f-0035beb6be88"}
 {"propertySlug":"extends-type","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts","id":"01a0e135-d98c-795f-9e2a-cf25be809fb6"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-level-band/temper-level-band.page-type.ts","id":"01a0e16a-6334-7f44-b34f-f5518d7dad42"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-set-rule/temper-set-rule.page-type.ts","id":"01a0e1a3-2f08-76b7-8133-d11fe8bbf220"}
@@ -28,6 +29,7 @@
 {"propertySlug":"extends-type","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}
 {"propertySlug":"extends-type","path":"temper/web/phrase/temper-web-phrase.page-type.ts","id":"01a0e299-6ed9-7114-a745-1830d563ab9f"}
 {"propertySlug":"extends-type","path":"temper/web/player-inventory-management-ui/temper-rule-card-phrase/temper-rule-card-phrase.page-type.ts","id":"01a0e272-3ee8-728e-bb34-eea061366568"}
+{"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-dock/temper-hud-dock.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/gear/temper-level-band/temper-level-band.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/gear/temper-set-rule/temper-set-rule.page-type.types.ts","typed":true,"deferred":false}
