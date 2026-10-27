@@ -16,7 +16,7 @@ export const temperHudPanel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A panel's key is the global name of the top-level control the panel places.",
+      statement: "A panel's key is the global name of the control the panel places.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -31,5 +31,5 @@ export const temperHudPanel = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-27T19:11:11.511Z",
-  updatedAt: "2026-10-27T19:11:11.511Z",
+  updatedAt: "2026-10-27T19:11:32.211Z",
 } as const satisfies PageType
