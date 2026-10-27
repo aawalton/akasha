@@ -4,6 +4,7 @@ import type { Asking } from "akasha/change/runner/pages/mechanical-change-runnin
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Chained } from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
 import type { Casting } from "akasha/command/pages/story/settle/modules/settle-character/settle-character.module.code.ts"
+import type { Oddsed } from "akasha/command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.code.ts"
 import {
   type Reach,
   type Roll,
@@ -91,7 +92,8 @@ export function reachOver(
   turns: readonly Turn[],
   unmade = 0,
   step: TurnStep = "writer",
-  chapters: readonly Chained[] = []
+  chapters: readonly Chained[] = [],
+  odds: Oddsed = { answered: null }
 ): Reach {
   return {
     turnsOf: (_root, story) => (story === "the-saga" ? turns : []),
@@ -102,6 +104,7 @@ export function reachOver(
     unmadeOf: () => unmade,
     stepOf: () => step,
     castingOf: () => CASTING,
+    oddsOf: () => odds,
   }
 }
 

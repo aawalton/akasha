@@ -115,6 +115,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/settle/modules/settle-character/settle-character.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.code.ts","typed":false,"deferred":false}

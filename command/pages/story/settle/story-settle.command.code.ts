@@ -48,6 +48,12 @@ import {
   characterRefused,
 } from "akasha/command/pages/story/settle/modules/settle-character/settle-character.module.code.ts"
 import {
+  type Odds,
+  type Oddsed,
+  oddsIndexed,
+  rolledBy,
+} from "akasha/command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.code.ts"
+import {
   type Taken,
   taken,
 } from "akasha/command/pages/story/settle/modules/settle-taking/settle-taking.module.code.ts"
@@ -97,6 +103,7 @@ export type Reach = {
   readonly unmadeOf: (root: string, turn: string) => number
   readonly stepOf: (root: string, turn: string) => TurnStep | null
   readonly castingOf: (root: string, story: string) => Casting
+  readonly oddsOf: (root: string, story: string, check: string) => Oddsed
 }
 
 export type Roll = {
@@ -104,6 +111,7 @@ export type Roll = {
   readonly reading: Record<string, unknown>
   readonly dice?: Dice
   readonly seed?: string
+  readonly difficulty?: Odds
   readonly answered: unknown
 }
 
@@ -152,6 +160,7 @@ const INDEXED: Reach = {
   unmadeOf: (root, turn) => unmadeLogged(root, [turn, outcomesAt(turn) ?? turn]),
   stepOf: (root, turn) => stepIn(valueByPath(root, turn)?.[STEP_STATUS]),
   castingOf: castingIndexed,
+  oddsOf: oddsIndexed,
 }
 
 export function outcomesAt(turn: string): string | null {
@@ -179,6 +188,9 @@ function rowsOf(made: Made, turn: string, commit: string | null): readonly strin
     rows.push(`dice${TAB}${roll.dice.said}${TAB}${roll.dice.faces.join(" ")}`)
   }
   if (roll.seed !== undefined) rows.push(`seed${TAB}${roll.seed}`)
+  if (roll.difficulty !== undefined) {
+    rows.push(`difficulty${TAB}${roll.difficulty.level}${TAB}${roll.difficulty.by}`)
+  }
   if (isRecord(roll.answered)) {
     for (const [key, value] of Object.entries(roll.answered)) {
       rows.push(`${key}${TAB}${JSON.stringify(value)}`)
@@ -203,6 +215,7 @@ type Placed = {
   readonly code: string
   readonly unmade: number
   readonly step: TurnStep | null
+  readonly odds: Odds | null
 }
 
 type Made = {
@@ -234,7 +247,10 @@ function placedFor(root: string, held: Taken, reach: Reach): Placed | Refusing {
   }
   const unmade = held.dice === null ? 0 : reach.unmadeOf(root, on.at)
   const chapters = held.dice === null ? [] : reach.chaptersOf(root, held.story)
-  return { turns, chapters, on, at, code, unmade, step: reach.stepOf(root, on.at) }
+  const odds = held.dice === null ? { answered: null } : reach.oddsOf(root, held.story, held.check)
+  if ("refused" in odds) return { refused: odds.refused, by: DATA }
+  const step = reach.stepOf(root, on.at)
+  return { turns, chapters, on, at, code, unmade, step, odds: odds.answered }
 }
 
 async function rollMade(
@@ -247,12 +263,14 @@ async function rollMade(
   const cast = castFor(keptAt, placed, held.dice)
   if ("refused" in cast) return { refused: cast.refused, by: INPUT }
   const thrown = cast.answered
-  const said = await settledAt(root, placed.code, held.reading, thrown?.roll ?? null)
+  const moved = thrown === null ? null : rolledBy(thrown.roll, placed.odds)
+  const said = await settledAt(root, placed.code, held.reading, moved)
   if ("refused" in said) return { refused: said.refused, by: DATA }
   const roll: Roll = {
     check: `${worldCheck.slug}/${held.check}`,
     reading: held.reading,
     ...(thrown === null ? {} : { dice: thrown.dice, seed: thrown.seed }),
+    ...(thrown === null || placed.odds === null ? {} : { difficulty: placed.odds }),
     answered: said.answered.answered,
   }
   const before = settledBefore(keptAt(placed.at), roll)

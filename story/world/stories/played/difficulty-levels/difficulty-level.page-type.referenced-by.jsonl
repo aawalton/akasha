@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"difficulty-level.page-type.ts","path":"command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"difficulty-level.page-type.ts","path":"command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"difficulty-level.page-type.types.ts","path":"story/world/stories/played/difficulty-levels/pages/easy.difficulty-level.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"difficulty-level.page-type.types.ts","path":"story/world/stories/played/difficulty-levels/pages/hard.difficulty-level.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"difficulty-level.page-type.types.ts","path":"story/world/stories/played/difficulty-levels/pages/normal.difficulty-level.ts","typed":true,"deferred":false}

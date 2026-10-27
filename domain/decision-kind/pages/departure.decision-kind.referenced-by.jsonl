@@ -2554,6 +2554,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/modules/turn-changes/turn-changes.module.ts","id":"01a10262-bbed-735d-a323-5c1e9b056260"}
 {"propertySlug":"decision-kind","path":"command/pages/story/modules/turn-scenes/turn-scenes.module.ts","id":"01a10246-d64b-738f-a057-bb7eb2c39ee2"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/modules/settle-character/settle-character.module.ts","id":"01a1019b-5c58-776f-96f4-d149ffd1c219"}
+{"propertySlug":"decision-kind","path":"command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.ts","id":"01a17ee1-3c44-7068-85bb-57dfe660e7ff"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/modules/settle-taking/settle-taking.module.ts","id":"01a1019b-5c58-702b-951c-3fc5ff239f6b"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"decision-kind","path":"command/pages/story/state/story-state.command.ts","id":"01a10299-5dfe-7f4b-b89b-b0b3fe5b0896"}
