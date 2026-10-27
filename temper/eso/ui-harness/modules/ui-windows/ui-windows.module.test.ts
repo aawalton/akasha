@@ -39,6 +39,18 @@ describe("uiWindowNamed", () => {
     expect(window?.opens).toBe('SCENE_MANAGER:Show("inventory")')
   })
 
+  test("brings the whole HUD up with every Temper addon that draws on it", () => {
+    const hud = uiWindowNamed("hud")
+    expect(hud?.addon).toBe("Temper")
+    expect(hud?.alongside).toEqual(["TemperCharacters", "TemperWorld", "TemperCombat"])
+    expect(hud?.savedVariables).toEqual([
+      "Temper",
+      "TemperCharacters",
+      "TemperWorld",
+      "TemperCombat",
+    ])
+  })
+
   test("answers with nothing for a window it does not know", () => {
     expect(uiWindowNamed("no-such-window")).toBeUndefined()
   })

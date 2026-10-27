@@ -115,6 +115,10 @@ export const uiWindows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The whole HUD is the screen, with every Temper addon that draws on the HUD up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Advanced Stats is opened by its button's fragment group once the stats scene shows.",
     },
@@ -125,5 +129,5 @@ export const uiWindows = {
     },
   ],
   createdAt: "2026-09-22T18:34:22.283Z",
-  updatedAt: "2026-10-20T18:36:49.985Z",
+  updatedAt: "2026-10-27T19:22:45.618Z",
 } as const satisfies Module

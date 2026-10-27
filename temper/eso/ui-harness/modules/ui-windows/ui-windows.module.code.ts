@@ -33,6 +33,8 @@ const LOREBOOKS = "temper.catalog.world.lorebook.modules"
 
 const SHOWS_HUD = 'SCENE_MANAGER:Show("hud")'
 
+const HUD_ADDONS: readonly string[] = ["TemperCharacters", "TemperWorld", "TemperCombat"]
+
 const OPENS_STORE = `
   SCENE_MANAGER:Show("tradinghouse")
   __ui_raise(EVENT_OPEN_TRADING_HOUSE)
@@ -173,6 +175,11 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     `
   ),
   ownWindow("hud-bar", "Temper", "TemperHudBar", SHOWS_HUD),
+  {
+    ...ownWindow("hud", "Temper", "GuiRoot", SHOWS_HUD),
+    alongside: HUD_ADDONS,
+    savedVariables: ["Temper", ...HUD_ADDONS],
+  },
   ownWindow("housing", "Temper", "HouseTravel_TLW", 'SLASH_COMMANDS["/temperhouses"]("open")'),
   ownWindow(
     "settings",
