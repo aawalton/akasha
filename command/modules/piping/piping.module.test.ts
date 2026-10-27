@@ -36,7 +36,7 @@ const READS =
   ':"tty" in held?"tty":`unreadable ${held.unreadable}`)'
 
 function heldOpen(carrying: string): { readonly said: string; readonly waited: number } {
-  const held = `exec 3< <(${carrying}; sleep ${String(HELD_OPEN)})`
+  const held = `exec 3< <(${carrying}; exec sleep ${String(HELD_OPEN)} 2>/dev/null)`
   const began = Date.now()
   const done = ran(["bash", "-c", `${held}; exec ${process.execPath} -e '${READS}' <&3`], {
     timeout: HELD_OPEN * 1000,
