@@ -7,8 +7,9 @@ export const testStory00009 = {
   unit: "unit/words",
   partOfCollections: ["story-played/test-story"],
   position: 9,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "For each of the next 10 days I drill swordplay in the hall, from morning to evening.",
+  lore: ["place/test-world-hall"],
   createdAt: "2026-10-27T21:07:55.307Z",
-  updatedAt: "2026-10-27T21:07:55.307Z",
+  updatedAt: "2026-10-27T21:09:08.349Z",
 } as const satisfies StoryTurnPlayed
