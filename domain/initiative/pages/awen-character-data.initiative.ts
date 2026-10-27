@@ -7,10 +7,8 @@ export const awenCharacterData = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [
-    { statement: "Level-up choices are a generic mechanic rather than The Tower's alone." },
-  ],
+  intentStack: [],
   constraints: ["Alan approves the shape of each new page type or property before it is built."],
   createdAt: "2026-10-27T18:44:19.264Z",
-  updatedAt: "2026-10-27T19:03:23.861Z",
+  updatedAt: "2026-10-27T19:13:52.680Z",
 } as const satisfies Initiative
