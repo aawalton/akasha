@@ -1,5 +1,5 @@
 {"beat":1,"event":"The player sets the lantern down and draws the iron sword in the middle of the shop.","at":"2026-10-27T08:43:00.000Z","changes":[{"page":"story-item/test-story-player-shop-lantern","note":"Lantern set down, out of hand","key":"slot","from":"item-slot/off-hand","to":null}]}
-{"beat":2,"event":"The player eyes the lit taper the lantern was lit from, standing on the counter."}
+{"beat":2,"event":"The player eyes the lit taper the lantern was lit from, standing on the counter.","changes":[]}
 {"beat":3,"event":"The player cuts once, level, through the taper's middle."}
 {"beat":4,"event":"The blade passes clean, and the burning top half drops onto the counter."}
 {"beat":5,"event":"Its flame ducks and gutters low as it falls, then rights itself and burns on."}
