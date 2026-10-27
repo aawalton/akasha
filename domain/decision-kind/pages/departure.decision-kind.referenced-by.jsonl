@@ -4004,6 +4004,7 @@
 {"propertySlug":"decision-kind","path":"story/chapter/properties/rulings.file-property.ts","id":"01a10450-ad04-7d07-ab7f-df5a4bfd486e"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-recorded-by.multi-relation-property.ts","id":"01a0e058-679f-70f6-baaf-b82f0c8a4690"}
 {"propertySlug":"decision-kind","path":"story/chapter/properties/step-reviewed-by.multi-relation-property.ts","id":"01a0deb0-cf67-7a1e-bb3d-6859e1f25fce"}
+{"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/beats.step-status.ts","id":"01a17ee3-24b9-7b40-b272-4559c9115562"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/game-master.step-status.ts","id":"01a0dead-3b10-7234-922d-8dfc80845bcc"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/mechanics.step-status.ts","id":"01a1024d-9f93-7d0a-bcf2-c0e594dac5a1"}
 {"propertySlug":"decision-kind","path":"story/chapter/step-status/pages/player.step-status.ts","id":"01a0dead-3b11-793d-b1ad-794e91dbdfaf"}
@@ -4267,6 +4268,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/service-workstations/turn-undo-answering/turn-undo-answering.service-workstation.ts","id":"01a0f1ca-3316-79ad-8946-c58f07e6f30e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.ts","id":"01a1022f-b5dc-7b0c-91af-b84b4c92f314"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.ts","id":"01a17ee3-24ba-77f1-a6ba-74e695bddc23"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-cast/turn-cast.module.ts","id":"01a0ea6e-4e6c-7af1-9a9e-477f55abd52a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.ts","id":"01a0dec2-87a0-7072-b427-5155e34684b0"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.ts","id":"01a0f17a-cd74-7e4b-abcf-ece5c4c8f55f"}

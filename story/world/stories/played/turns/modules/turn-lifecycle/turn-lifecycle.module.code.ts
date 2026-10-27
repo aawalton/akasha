@@ -1,4 +1,5 @@
 import { jsonEqual } from "akasha/code/type/narrowing/modules/json-equal/json-equal.module.code.ts"
+import { beats as beatsStatus } from "akasha/story/chapter/step-status/pages/beats.step-status.ts"
 import { gameMaster } from "akasha/story/chapter/step-status/pages/game-master.step-status.ts"
 import { mechanics } from "akasha/story/chapter/step-status/pages/mechanics.step-status.ts"
 import { player } from "akasha/story/chapter/step-status/pages/player.step-status.ts"
@@ -11,6 +12,7 @@ import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-cha
 import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 import type { Pictured } from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
 import type { BeatProse } from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
+import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import type {
   BeatScene,
   Planned,
@@ -19,6 +21,7 @@ import type {
 const TURN_STEPS = [
   worldBuilder.slug,
   gameMaster.slug,
+  beatsStatus.slug,
   mechanics.slug,
   writer.slug,
   reviewersStatus.slug,
@@ -32,6 +35,8 @@ export const WORLD_BUILDER: TurnStep = worldBuilder.slug
 
 export const GAME_MASTER: TurnStep = gameMaster.slug
 
+export const BEATS: TurnStep = beatsStatus.slug
+
 export const MECHANICS: TurnStep = mechanics.slug
 
 export const REVIEWERS: TurnStep = reviewersStatus.slug
@@ -42,7 +47,7 @@ export const RECORDERS: TurnStep = recordersStatus.slug
 
 export const PLAYER: TurnStep = player.slug
 
-const MANY: readonly TurnStep[] = [REVIEWERS, RECORDERS]
+const MANY: readonly TurnStep[] = [BEATS, REVIEWERS, RECORDERS]
 
 export const STEP_SENDER = "story-step"
 
@@ -67,6 +72,7 @@ type Prose = {
   readonly prose: string
   readonly characters: readonly string[]
   readonly beatProse?: readonly BeatProse[]
+  readonly beat?: number
 }
 
 export type Handed =
@@ -87,6 +93,7 @@ export type Handed =
       readonly issues?: readonly string[]
       readonly memory?: readonly Memory[]
       readonly pictured?: readonly Pictured[]
+      readonly beat?: number
     }
 
 export type Noun = "turn" | "chapter"
@@ -113,6 +120,8 @@ export type Held = {
   readonly pictured?: readonly Pictured[]
   readonly planned?: Planned
   readonly roleplayed?: boolean
+  readonly flow?: Beats
+  readonly characters?: readonly string[]
 }
 
 export type Caller = { readonly role: string | null; readonly game: string | null }
@@ -136,6 +145,7 @@ export type Moved = {
   readonly rulings?: readonly Ruling[] | null
   readonly starts: readonly Start[]
   readonly landsKept: boolean
+  readonly flow?: Beats | null
 }
 
 export type Advanced = Moved | { readonly refused: string }
@@ -158,6 +168,7 @@ export type Moving = {
   readonly mechanicsIssues?: readonly string[] | null
   readonly rulings?: readonly Ruling[] | null
   readonly landsKept?: boolean
+  readonly flow?: Beats | null
 }
 
 type Values = Readonly<{ [key: string]: unknown }>
@@ -177,6 +188,7 @@ export function moved(status: TurnStep, values: Values, moving: Moving = {}): Mo
     rulings: moving.rulings ?? null,
     starts: moving.starts ?? [],
     landsKept: moving.landsKept ?? false,
+    flow: moving.flow ?? null,
   }
 }
 
@@ -184,7 +196,7 @@ export function leftOf(all: readonly string[], done: readonly string[]): readonl
   return all.filter((one) => !done.includes(one))
 }
 
-function published(values: Values): Values {
+export function published(values: Values): Values {
   return { ...values, issues: undefined, mechanicsIssues: undefined, rulings: undefined }
 }
 
@@ -252,6 +264,7 @@ export type Made =
 const WHO: Readonly<Record<TurnStep, string>> = {
   "world-builder": "the world builder",
   "game-master": "the game master",
+  beats: "the writer and recorders",
   mechanics: "the mechanics recorder",
   writer: "the writer",
   reviewers: "the reviewers",

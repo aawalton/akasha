@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"memory.story-recorder.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"memory.story-recorder.ts","path":"command/pages/story/turn/record/story-turn-record.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"memory.story-recorder.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"memory.story-recorder.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"memory.story-recorder.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"memory.story-recorder.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"memory.story-recorder.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.test.ts","typed":false,"deferred":false}

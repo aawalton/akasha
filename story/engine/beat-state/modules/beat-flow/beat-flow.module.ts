@@ -7,6 +7,7 @@ export const beatFlow = {
   definition: "which step each beat of a turn is ready for, worked out from the turn's beats file",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -45,5 +46,5 @@ export const beatFlow = {
     },
   ],
   createdAt: "2026-10-27T19:34:15.047Z",
-  updatedAt: "2026-10-27T19:34:15.047Z",
+  updatedAt: "2026-10-27T19:42:57.720Z",
 } as const satisfies Module

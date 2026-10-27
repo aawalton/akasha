@@ -10,7 +10,11 @@ export const turnWaiting = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each status but player names the one role a turn waits on there.",
+      statement: "Each status but beats and player names the one role a turn waits on there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn at beats waits on its game's writer and story recorder seats together.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -28,5 +32,5 @@ export const turnWaiting = {
     },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-17T20:51:44.066Z",
+  updatedAt: "2026-10-27T19:42:57.720Z",
 } as const satisfies Module

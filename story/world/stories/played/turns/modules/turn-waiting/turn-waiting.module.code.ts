@@ -6,6 +6,7 @@ import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/stor
 import { worldBuilder as worldBuilderRole } from "akasha/agent/role/pages/world-builder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import {
+  BEATS,
   type Caller,
   CHAPTER,
   GAME_MASTER,
@@ -21,6 +22,7 @@ const NARRATED: readonly TurnStep[] = [WORLD_BUILDER, GAME_MASTER]
 const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
   "world-builder": worldBuilderRole.slug,
   "game-master": gameMasterRole.slug,
+  beats: null,
   mechanics: storyRecorderRole.slug,
   writer: writerRole.slug,
   reviewers: reviewerRole.slug,
@@ -35,7 +37,17 @@ export function roleOf(held: Pick<Held, "status" | "roleplayed">): string | null
   return roleplayRecorderRole.slug
 }
 
+const AT_BEATS: readonly string[] = [writerRole.slug, storyRecorderRole.slug]
+
+function beatCallerRefused(held: Held, caller: Caller): string | null {
+  if (caller.role !== null && AT_BEATS.includes(caller.role) && caller.game === held.game) {
+    return null
+  }
+  return `the turn is at ${BEATS}, so it waits on the ${AT_BEATS.join(" and ")} seats of \`${held.game}\`, beat by beat`
+}
+
 export function callerRefused(held: Held, caller: Caller): string | null {
+  if (held.status === BEATS && held.roleplayed !== true) return beatCallerRefused(held, caller)
   const role = roleOf(held)
   const noun = held.noun ?? TURN
   if (role === null && noun === CHAPTER) {

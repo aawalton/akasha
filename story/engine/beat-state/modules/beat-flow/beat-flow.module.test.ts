@@ -6,16 +6,7 @@ import {
   readyFor,
   shownThrough,
 } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts"
-import {
-  type Beats,
-  beatsIn,
-} from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
-
-function beatsOf(...lines: readonly object[]): Beats {
-  const read = beatsIn(lines.map((one) => JSON.stringify(one)).join("\n"))
-  if ("refused" in read) throw new Error(read.refused)
-  return read
-}
+import { beatsOf } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts"
 
 const STATED = beatsOf(
   { beat: 1, event: "One." },

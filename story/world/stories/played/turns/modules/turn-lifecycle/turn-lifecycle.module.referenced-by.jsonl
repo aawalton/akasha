@@ -44,6 +44,8 @@
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/modules/turn-undo-answering/turn-undo-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
@@ -59,6 +61,7 @@
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.test-fixtures.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.test-fixtures.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.test-fixtures.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.test-fixtures.ts","path":"story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.test-fixtures.ts","path":"story/world/stories/played/turns/modules/turn-prose/turn-prose.module.test.ts","typed":false,"deferred":false}

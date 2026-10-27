@@ -6,6 +6,7 @@ import type {
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
+import { beatRouted } from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
 import type {
   Admitted,
   Character,
@@ -76,6 +77,7 @@ type Kind = Handed["kind"]
 const TAKES: Readonly<{ [step in TurnStep]: Kind | null }> = {
   "world-builder": "lore",
   "game-master": "beats",
+  beats: null,
   mechanics: "record",
   writer: "prose",
   reviewers: "review",
@@ -344,6 +346,8 @@ export function advanced(
 ): Advanced {
   const refused = callerRefused(held, caller) ?? toldRefused(held, handed)
   if (refused !== null) return { refused }
+  const onBeat = beatRouted(held, caller, handed, cast, admitted)
+  if (onBeat !== null) return onBeat
   const takes = roleplayTakes(held) ?? TAKES[held.status]
   if (takes === null) {
     return { refused: `the ${nounOf(held)} is at ${held.status}, and nothing advances it` }
