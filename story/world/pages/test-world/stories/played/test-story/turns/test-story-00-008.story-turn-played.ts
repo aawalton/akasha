@@ -9,12 +9,12 @@ export const testStory00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/test-story-player"],
-  stepStatus: "step-status/beats",
+  stepStatus: "step-status/player",
   action:
     "I draw my sword and try to slice the lantern's taper in half in one stroke without putting out its flame.",
   beats: "jsonl",
   endsAt: "2026-10-27T08:44:00.000Z",
   createdAt: "2026-10-27T20:57:59.590Z",
-  updatedAt: "2026-10-27T21:05:25.075Z",
+  updatedAt: "2026-10-27T21:06:10.845Z",
   ownLength: 112,
 } as const satisfies StoryTurnPlayed
