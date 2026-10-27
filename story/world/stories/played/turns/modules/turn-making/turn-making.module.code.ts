@@ -306,6 +306,7 @@ export async function turnMadeFor(
   const turn = { pageTypeSlug: storyTurnPlayed.slug, slug: made.slug, path: at }
   const wrote = await calls.write({
     writer: MAKER,
+    ...(joins ? { read: read.at } : {}),
     message: joins
       ? `${made.slug} takes the player's next action too`
       : `${made.slug} is made from the player's action`,

@@ -117,6 +117,7 @@ test("an action while the next turn still waits joins that turn's action", async
     merge: true,
     values: { action: "I open the gate\n\nI step through" },
   })
+  expect(wrote[0]?.read).toBe("a-commit")
 })
 
 test("an action writes the next turn as new, beside the turn before it", async () => {

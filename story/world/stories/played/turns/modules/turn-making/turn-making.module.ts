@@ -48,6 +48,11 @@ export const turnMaking = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A join states the commit it read the turn at, so a turn moved since is not joined.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A story left with no open turn makes its next turn after its last chapter's last turn.",
     },
     {
@@ -93,5 +98,5 @@ export const turnMaking = {
     },
   ],
   createdAt: "2026-09-26T17:39:09.550Z",
-  updatedAt: "2026-10-27T22:21:48.436Z",
+  updatedAt: "2026-10-27T22:50:38.151Z",
 } as const satisfies Module
