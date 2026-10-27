@@ -19,6 +19,12 @@ test("a key whose property declares a target is answered, and a key whose proper
   ])
 })
 
+test("a key is held to the target its page's own property declares, not its slug's", () => {
+  const known = { ...KNOWN, targetIn: () => null }
+
+  expect(namingsIn({ partSlugs: ["b"] }, known)).toEqual([])
+})
+
 test("a record's fields are answered one by one under that record", () => {
   expect(namingsIn({ parts: [{ partSlugs: "b" }] }, KNOWN)).toEqual([
     {

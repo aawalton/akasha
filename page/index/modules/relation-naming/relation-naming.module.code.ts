@@ -38,7 +38,7 @@ export function namingsIn(value: Value, known: Shaped): readonly Naming[] {
     const propertySlug = known.slugOfKeyIn(value, key)
     if (propertySlug === null) continue
     const identity = FILED_AS_IDENTITY.has(key)
-    if (known.targetOf(propertySlug) !== null) {
+    if (known.targetIn(value, key) !== null) {
       found.push({ key, propertySlug, said: propertySlug, held, identity })
       continue
     }

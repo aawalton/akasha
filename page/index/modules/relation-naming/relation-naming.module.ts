@@ -14,6 +14,11 @@ export const relationNaming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A key whose slug two kinds of property share is held to the one the page's own type declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A record property's fields are answered one by one under that record.",
     },
     {
@@ -30,5 +35,5 @@ export const relationNaming = {
     },
   ],
   createdAt: "2026-10-27T21:57:11.656Z",
-  updatedAt: "2026-10-27T21:57:11.656Z",
+  updatedAt: "2026-10-27T22:26:15.850Z",
 } as const satisfies Module
