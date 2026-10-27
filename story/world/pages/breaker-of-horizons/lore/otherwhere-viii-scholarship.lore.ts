@@ -109,11 +109,7 @@ export const otherwhereViiiScholarship = {
     },
     {
       fact: "The curve Nala drew for the lens table dips toward both axes and never touches them.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-viii-nala",
-        "character-other/otherwhere-viii-hallick",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "So an Aiestan table gives answers one at a time, and a drawn rule gives every answer at once.",
@@ -122,5 +118,5 @@ export const otherwhereViiiScholarship = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T01:39:18.799Z",
-  updatedAt: "2026-09-29T02:44:22.000Z",
+  updatedAt: "2026-10-27T19:30:40.267Z",
 } as const satisfies Lore

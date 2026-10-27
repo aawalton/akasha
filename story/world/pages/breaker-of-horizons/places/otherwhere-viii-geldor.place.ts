@@ -98,10 +98,10 @@ export const otherwhereViiiGeldor = {
     },
     {
       fact: "Geldor lies north of Carrowgate, on the way to the Imperial Academy.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T22:51:44.053Z",
-  updatedAt: "2026-09-28T23:38:11.000Z",
+  updatedAt: "2026-10-27T19:30:40.267Z",
 } as const satisfies Place

@@ -26,43 +26,39 @@ export const otherwhereViiiTheWorkshop = {
     },
     {
       fact: "A new bench hand starts at the sorting table, by the door, under Coyle's eye.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-viii-nala",
-        "character-other/otherwhere-viii-hallick",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The sorting table holds trays of lens blanks and small brass parts from repairs.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sorting means gauging each blank's thickness with a calliper and trying it against a card.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The gauge card lists thicknesses in lines and tenths, and blanks go to trays by the card.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Brass parts are cleaned in a tin of spirit and wiped with rag before they go back to repair.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A bench hand is given a grey canvas apron and cotton gloves off the peg by the door.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The glyphed parts come back from repair still faintly warm, and hum if held too long.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Coyle forbids anyone to touch a glyph on a repaired part until he has checked it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The apprentices talk as they work, of the call-up, Tessa's brother, exams and the Chosen One.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Lunch at noon is bread, cheese and tea, set out by the stove for everyone, bench hands too.",
@@ -94,26 +90,22 @@ export const otherwhereViiiTheWorkshop = {
     },
     {
       fact: "Coyle is a big, quiet man of about fifty, who walks with a lame leg.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hallick's own bench stands under the workshop's north window.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-viii-nala",
-        "character-other/otherwhere-viii-hallick",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The workshop's tea is kept by the stove, and waits for noon.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tessa is an apprentice of about seventeen, with ink on her fingertips.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T03:28:30.279Z",
-  updatedAt: "2026-09-29T04:04:46.000Z",
+  updatedAt: "2026-10-27T19:30:40.267Z",
 } as const satisfies Place
