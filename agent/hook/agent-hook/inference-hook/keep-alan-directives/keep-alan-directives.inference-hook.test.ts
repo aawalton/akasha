@@ -28,7 +28,6 @@ import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent
 import { domain } from "akasha/domain/domain.page-type.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import { person } from "akasha/person/person.page-type.ts"
-import { theDatingGame } from "akasha/story/world/pages/personas/stories/played/the-dating-game/the-dating-game.story-played.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 
 const ALAN_AT = `${person.slug}/${alan.slug}` as const
@@ -140,7 +139,7 @@ test("a seat naming no role answers nothing", () => {
   expect(roleIn(ROLED, "d")).toBeNull()
 })
 
-const GAME_AT = `${storyPlayed.slug}/${theDatingGame.slug}` as const
+const GAME_AT = `${storyPlayed.slug}/a-game` as const
 
 const DOMAIN_AT = `${domain.slug}/${arousal.slug}` as const
 
