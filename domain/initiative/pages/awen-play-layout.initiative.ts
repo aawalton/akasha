@@ -8,7 +8,6 @@ export const awenPlayLayout = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    { statement: "On desktop, the chat place opens as a full-height right sidebar." },
     { statement: "A played story's page hides the site's own navigation sidebar." },
     {
       statement:
@@ -20,5 +19,5 @@ export const awenPlayLayout = {
     "Agents test only on the test story, never on Alan's stories.",
   ],
   createdAt: "2026-10-27T19:51:01.842Z",
-  updatedAt: "2026-10-27T20:20:44.022Z",
+  updatedAt: "2026-10-27T20:20:45.777Z",
 } as const satisfies Initiative
