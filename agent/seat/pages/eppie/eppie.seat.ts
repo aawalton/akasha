@@ -11,6 +11,7 @@ export const eppie = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "c401b795-941c-411a-b57d-36e49c074390",
   createdAt: "2026-10-27T20:02:07.661Z",
-  updatedAt: "2026-10-27T20:02:07.661Z",
+  updatedAt: "2026-10-27T20:02:12.389Z",
 } as const satisfies Seat
