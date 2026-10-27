@@ -43,6 +43,10 @@ export const pageKnowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That property is the one the page's own type declares at that key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The pages naming a path under one property are answered from the world's index.",
     },
     {
@@ -152,5 +156,5 @@ export const pageKnowing = {
     },
   ],
   createdAt: "2026-09-07T00:55:16.949Z",
-  updatedAt: "2026-09-29T02:15:26.000Z",
+  updatedAt: "2026-10-27T22:41:32.648Z",
 } as const satisfies Module

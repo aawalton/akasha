@@ -34,8 +34,7 @@ export function namersIn(world: World, at: string, propertySlug: string): readon
 }
 
 export function targetsIn(known: Shaped, value: Value, key: string): readonly string[] {
-  const slug = known.slugOfKeyIn(value, key)
-  return slug === null ? [] : eachTarget(known.targetOf(slug))
+  return eachTarget(known.targetIn(value, key))
 }
 
 const BARE = "bare"
@@ -43,7 +42,7 @@ const BARE = "bare"
 type Addressed = { readonly value: string } | { readonly refused: string }
 
 export function addressedIn(known: Shaped, value: Value, key: string, named: string): Addressed {
-  return addressedUnder(known, known.slugOfKeyIn(value, key), key, named)
+  return addressedAmong(known, targetsIn(known, value, key), key, named)
 }
 
 export function addressedUnder(
@@ -53,6 +52,15 @@ export function addressedUnder(
   named: string
 ): Addressed {
   const targets = propertySlug === null ? [] : eachTarget(known.targetOf(propertySlug))
+  return addressedAmong(known, targets, key, named)
+}
+
+function addressedAmong(
+  known: Shaped,
+  targets: readonly string[],
+  key: string,
+  named: string
+): Addressed {
   if (targets.length === 0) return { value: named }
   const reached = reaches(named, targets, known)
   if ("refused" in reached) {
