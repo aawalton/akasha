@@ -8,10 +8,6 @@ export const awenDifficulty = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    {
-      statement:
-        "Very Easy, Easy, Normal, Hard and Very Hard are each a page stating that level's difficulty.",
-    },
     { statement: "A played story names one difficulty level." },
     { statement: "The engine moves every check's odds by the story's difficulty level." },
     { statement: "A difficulty level says how bad a failure may get." },
@@ -26,5 +22,5 @@ export const awenDifficulty = {
     "Alan approves the shape of each new page type or property before it is built.",
   ],
   createdAt: "2026-10-27T19:26:39.651Z",
-  updatedAt: "2026-10-27T19:26:39.651Z",
+  updatedAt: "2026-10-27T20:28:43.699Z",
 } as const satisfies Initiative
