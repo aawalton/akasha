@@ -65,6 +65,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/request/modules/reaching/request-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/chapter-split/story-chapter-split.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/clone/story-clone.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-described/turn-described.module.code.ts","typed":false,"deferred":false}

@@ -6,5 +6,6 @@
 {"propertySlug":"import","fileName":"add-property-value.change-mechanical-file-content.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-property-value.change-mechanical-file-content.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-property-value.change-mechanical-file-content.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"add-property-value.change-mechanical-file-content.ts","path":"command/pages/story/clone/story-clone.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-property-value.change-mechanical-file-content.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/mechanical/file-content/add/change-mechanical-file-content-add.domain.ts","id":"01a07cbf-ddf1-7510-8754-5aa087d7d8a0"}

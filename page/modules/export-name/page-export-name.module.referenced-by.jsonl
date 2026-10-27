@@ -57,6 +57,7 @@
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/modules/calling/calling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/modules/calling/calling.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/clone/story-clone.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/modules/settle-difficulty/settle-difficulty.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
