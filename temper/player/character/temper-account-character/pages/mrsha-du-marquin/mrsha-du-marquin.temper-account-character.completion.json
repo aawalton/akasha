@@ -2527,7 +2527,7 @@
     },
     "118": {
       "currentRank": 2,
-      "currentXP": 10,
+      "currentXP": 20,
       "nextRankXP": 50
     },
     "127": {
@@ -4452,8 +4452,8 @@
     }
   },
   "skillPoints": {
-    "total": 380,
-    "unassigned": 67,
+    "total": 381,
+    "unassigned": 68,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -4463,7 +4463,7 @@
     "endlessArchive": 1,
     "skyshardPoints": 173,
     "totalSkyshards": 520,
-    "zoneQuestTotal": 58,
+    "zoneQuestTotal": 59,
     "groupDungeonTotal": 20,
     "publicDungeonTotal": 36,
     "skyshards": {
@@ -4548,7 +4548,7 @@
       "EP0b": 0,
       "AD3": 3,
       "AD4": 2,
-      "GC": 1,
+      "GC": 2,
       "CC": 1,
       "WW": 0,
       "EP5": 3,
@@ -6678,6 +6678,7 @@
     5577,
     5581,
     5582,
+    5595,
     5668,
     5708,
     5733,
@@ -10142,6 +10143,7 @@
         2
       ],
       "10": [
+        1,
         3,
         4,
         5
@@ -12238,6 +12240,7 @@
       7,
       8,
       9,
+      11,
       13,
       14,
       15,
@@ -12780,17 +12783,17 @@
   },
   "inventoryCheck": {
     "date": "2026-10-27",
-    "misplaced": 67
+    "misplaced": 71
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1793114720,
+      "capturedAt": 1793115348,
       "buildHash": "ATQO8oFAQABgQQMy5V1AEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIBS1TlAEIA2AANAEIBBKTdAEIBBKTdAEIBBKTdAEIAeBUnbcoWXwQ4xpKCAAHMAJA0QiRgAO0IonXwaBkl4gkQQpEAfz4GhHYFh3QOqRGwiMiByjGdBBnUODHCIhQhIyIgIDMwIjISAiMiNSAiMiIjNBACIiAyIQACEzIjA6MjAjoiZDMjIyAAKCIiQqMwIiIwI6y6AGo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mAwQGQsYkDWBRDUgAAAAK",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
-      "ultimate": 42,
-      "health": 32955,
-      "healthBefore": 32057,
+      "ultimate": 99,
+      "health": 30064,
+      "healthBefore": 29110,
       "healthPaired": false,
       "stats": {
         "critical-rating-spell": 2940,
@@ -12800,7 +12803,7 @@
         "magicka-maximum": 13972,
         "resistance-spell": 14003,
         "magicka-recovery": 785,
-        "health-maximum": 32955,
+        "health-maximum": 30064,
         "penetration-spell": 5854,
         "resistance-critical": 1320,
         "resistance-physical": 12551,
@@ -12817,7 +12820,7 @@
         "magicka-maximum": 13972,
         "resistance-spell": 0,
         "magicka-recovery": 785,
-        "health-maximum": 32955,
+        "health-maximum": 30064,
         "penetration-spell": 0,
         "resistance-critical": 0,
         "resistance-physical": 0,
@@ -12847,28 +12850,6 @@
           "description": "increases Maximum Health",
           "effect": "Increases your Maximum Health by |cffffff2225|r.\n",
           "stacks": 0
-        },
-        {
-          "abilityId": 20309,
-          "name": "Sneak",
-          "description": "",
-          "effect": "You are concealed from enemy sight, as long as you remain undetected. While Sneaking, your next Direct Damage attack will Critically Strike and gain bonus effects depending on the attack type, as long the target isn't facing you.\n\n- Melee Attacks stun the first enemy hit for |cffffff2|r seconds and gain maximum Critical Damage against monsters.\n- Ranged Attacks gain |cffffff50|r% Critical Damage against monsters.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 2886,
-            "spell": 2886
-          }
-        },
-        {
-          "abilityId": 88490,
-          "name": "Minor Toughness",
-          "description": "Increases your Max Health by |cffffff10|r%.",
-          "effect": "Increases your Max Health by |cffffff10|r%.\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 2886,
-            "spell": 2886
-          }
         }
       ],
       "pets": [],
@@ -13437,7 +13418,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:205386:364:50:0:0:0:0:0:0:0:0:0:0:0:1:0:0:1:0:4590:0|h|h",
+          "link": "|H0:item:205386:364:50:0:0:0:0:0:0:0:0:0:0:0:1:0:0:1:0:4485:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1221,
@@ -13502,7 +13483,7 @@
         },
         {
           "slot": 2,
-          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:2635:0|h|h",
+          "link": "|H0:item:96972:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:2535:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 2012,
@@ -13592,7 +13573,7 @@
         },
         {
           "slot": 4,
-          "link": "|H0:item:149443:364:50:54484:370:50:7:25:0:0:0:0:0:0:2049:84:0:1:0:301:0|h|h",
+          "link": "|H0:item:149443:364:50:54484:370:50:7:25:0:0:0:0:0:0:2049:84:0:1:0:300:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 0,
@@ -13632,7 +13613,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:96978:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:5400:0|h|h",
+          "link": "|H0:item:96978:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:4995:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 754,
@@ -13677,7 +13658,7 @@
         },
         {
           "slot": 8,
-          "link": "|H0:item:96976:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:7045:0|h|h",
+          "link": "|H0:item:96976:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:6845:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1760,
@@ -13815,7 +13796,7 @@
         },
         {
           "slot": 16,
-          "link": "|H0:item:96974:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:6295:0|h|h",
+          "link": "|H0:item:96974:363:50:0:0:0:14:25:0:0:0:0:0:0:2049:11:0:1:0:6195:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1006,
@@ -13901,7 +13882,7 @@
           "slot": 6,
           "abilityId": 86165,
           "name": "Gripping Shards",
-          "description": "Conjure icy shards around you to skewer enemies in the area, immobilizing them for |cffffff3|r seconds and dealing |cffffff1045|r Frost Damage every |cffffff1|r second for |cffffff12|r seconds.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by |cffffff30|r% for |cffffff3|r seconds.\n\nDamage done is based on your Max Health and has a higher chance to apply the Chilled status effect.",
+          "description": "Conjure icy shards around you to skewer enemies in the area, immobilizing them for |cffffff3|r seconds and dealing |cffffff955|r Frost Damage every |cffffff1|r second for |cffffff12|r seconds.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by |cffffff30|r% for |cffffff3|r seconds.\n\nDamage done is based on your Max Health and has a higher chance to apply the Chilled status effect.",
           "durationMs": 12000,
           "castMs": 0,
           "channeled": false,
@@ -14230,7 +14211,7 @@
         {
           "abilityId": 45583,
           "name": "Soul Shatter",
-          "description": "When your Health drops below |cffffff20|r% your soul explodes, dealing |cffffff3690|r Magic Damage to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every |cffffff2|r minutes and scales off your Max Health."
+          "description": "When your Health drops below |cffffff20|r% your soul explodes, dealing |cffffff3367|r Magic Damage to enemies within |cffffff8|r meters of you.\n\nThis effect can occur once every |cffffff2|r minutes and scales off your Max Health."
         },
         {
           "abilityId": 45580,
@@ -14305,7 +14286,7 @@
         {
           "abilityId": 55676,
           "name": "Undaunted Command",
-          "description": "Activating a synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: |cffffff1344|r Health, |cffffff997|r Stamina, and |cffffff558|r Magicka."
+          "description": "Activating a synergy restores |cffffff4|r% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: |cffffff1226|r Health, |cffffff997|r Stamina, and |cffffff558|r Magicka."
         },
         {
           "abilityId": 55386,
@@ -16756,7 +16737,7 @@
             {
               "abilityId": 263549,
               "name": "Pound of Flesh",
-              "description": "Knock upon death's door and demand your due.\n\nWhen you take damage you have a |cffffff10|r% chance to heal |cffffff3361|r Health and restore |cffffff5|r% of your missing Stamina, up to once per second. This chance increases by |cffffff1|r% for every missing Health percent you have and the healing is based off your Max Health.",
+              "description": "Knock upon death's door and demand your due.\n\nWhen you take damage you have a |cffffff10|r% chance to heal |cffffff3066|r Health and restore |cffffff5|r% of your missing Stamina, up to once per second. This chance increases by |cffffff1|r% for every missing Health percent you have and the healing is based off your Max Health.",
               "purchased": false
             },
             {
@@ -16812,13 +16793,13 @@
             {
               "abilityId": 263585,
               "name": "Bastion of Light",
-              "description": "Light consecrates the ground on which you tread.\n\nSacred Ground is now applied while you are in your own Nova and Spear Shards, and while Radial Sweep and Solar Barrage are active. While Sacred Ground is active, you heal for |cffffff2689|r Health every |cffffff1|r second. If you are at full Health after being healed from this effect while in combat, you also gain |cffffff2|r Ultimate.",
+              "description": "Light consecrates the ground on which you tread.\n\nSacred Ground is now applied while you are in your own Nova and Spear Shards, and while Radial Sweep and Solar Barrage are active. While Sacred Ground is active, you heal for |cffffff2453|r Health every |cffffff1|r second. If you are at full Health after being healed from this effect while in combat, you also gain |cffffff2|r Ultimate.",
               "purchased": false
             },
             {
               "abilityId": 263586,
               "name": "Devout Guardian",
-              "description": "Radiant is the shield that pushes back the dark.\n\nWhile Sacred Ground is active, you gain a damage shield for |cffffff6|r seconds, up to once every |cffffff6|r seconds. The shield absorbs up to |cffffff7580|r damage and provides |cffffff300|r Health, Magicka, and Stamina Recovery while active. If the shield breaks, you gain |cffffff10|r Ultimate.",
+              "description": "Radiant is the shield that pushes back the dark.\n\nWhile Sacred Ground is active, you gain a damage shield for |cffffff6|r seconds, up to once every |cffffff6|r seconds. The shield absorbs up to |cffffff6914|r damage and provides |cffffff300|r Health, Magicka, and Stamina Recovery while active. If the shield breaks, you gain |cffffff10|r Ultimate.",
               "purchased": false
             },
             {
@@ -16904,13 +16885,13 @@
             {
               "abilityId": 263873,
               "name": "Calculated Defense",
-              "description": "Success is a certainty when nothing is left to chance.\n\nWhile beginning to use a Sorcerer ability or an ability with a cast time, you gain a damage shield for |cffffff0.5|r seconds that can absorb |cffffff12506|r damage. This effect is based off your Max Health. If the shield does not break, you and nearby group members gain |cffffff6|r% Weapon and Spell Damage for |cffffff20|r seconds.",
+              "description": "Success is a certainty when nothing is left to chance.\n\nWhile beginning to use a Sorcerer ability or an ability with a cast time, you gain a damage shield for |cffffff0.5|r seconds that can absorb |cffffff11409|r damage. This effect is based off your Max Health. If the shield does not break, you and nearby group members gain |cffffff6|r% Weapon and Spell Damage for |cffffff20|r seconds.",
               "purchased": false
             },
             {
               "abilityId": 263874,
               "name": "Sphere of Influence",
-              "description": "Magicka extends your reach, a benefit to those who fight beside you.\n\nCasting a damage shield on yourself or an ally grants an additional shield that absorbs up to |cffffff5684|r damage for |cffffff4|r seconds and |cffffff225|r Health, Magicka, and Stamina Recovery for |cffffff12|r seconds. The shield scales off the higher of your Max Health or Max Magicka, and is capped at |cffffff25|r% of the target's Max Health.",
+              "description": "Magicka extends your reach, a benefit to those who fight beside you.\n\nCasting a damage shield on yourself or an ally grants an additional shield that absorbs up to |cffffff5185|r damage for |cffffff4|r seconds and |cffffff225|r Health, Magicka, and Stamina Recovery for |cffffff12|r seconds. The shield scales off the higher of your Max Health or Max Magicka, and is capped at |cffffff25|r% of the target's Max Health.",
               "purchased": false
             }
           ]
