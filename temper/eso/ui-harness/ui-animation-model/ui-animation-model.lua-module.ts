@@ -30,6 +30,16 @@ export const uiAnimationModel = {
       statement: "A handler for stopping taken away while it waits is not called.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game's own Lua gives an animation in a timeline a handler of its own for stopping.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each animation's handler for stopping is told before the timeline's, with its control.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A timeline played forward ends at its end, and one played backward at its start.",
     },
@@ -64,5 +74,5 @@ export const uiAnimationModel = {
     },
   ],
   createdAt: "2026-09-24T15:03:49.980Z",
-  updatedAt: "2026-09-25T19:42:10.000Z",
+  updatedAt: "2026-10-27T19:21:21.813Z",
 } as const satisfies LuaModule

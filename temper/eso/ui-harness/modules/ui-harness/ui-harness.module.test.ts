@@ -312,6 +312,17 @@ describe("ui-harness", () => {
     expect(await toldSince(harness, made)).toBe("declared 70 0")
   })
 
+  test("an animation's handler for stopping is told before its timeline's, once settled", async () => {
+    const told = await toldSince(
+      harness,
+      `local line = ANIMATION_MANAGER:CreateTimeline()
+      line:InsertAnimation(nil, GuiRoot):SetHandler("OnStop", function() TemperTell("animation") end)
+      line:SetHandler("OnStop", function() TemperTell("timeline") end)
+      line:PlayFromStart()`
+    )
+    expect(told).toBe("animation|timeline")
+  })
+
   test("a control named nothing is answered with nothing", async () => {
     expect(await harness.snapshot("NoSuchControl")).toBeNull()
   })

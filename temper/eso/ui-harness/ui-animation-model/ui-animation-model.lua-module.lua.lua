@@ -21,10 +21,12 @@ local Timeline = setmetatable({}, { __index = unmodelledAs })
 local declared = {}
 
 local function animationOn(control, kind)
-  return setmetatable({ uiControl = control, uiKind = kind }, { __index = Animation })
+  return setmetatable({ uiControl = control, uiKind = kind, uiHandlers = {} }, { __index = Animation })
 end
 
 function Animation:GetTimeline() return self.uiTimeline end
+function Animation:SetHandler(event, handler) self.uiHandlers[event] = handler end
+function Animation:GetHandler(event) return self.uiHandlers[event] end
 function Animation:GetAnimatedControl() return self.uiControl end
 function Animation:SetAnimatedControl(control) self.uiControl = control end
 function Animation:SetUpdateFunction(update) self.uiUpdate = update end
@@ -36,11 +38,20 @@ local function timeline()
   )
 end
 
+local function stopLater(animation)
+  local stopped = animation.uiHandlers.OnStop
+  if stopped == nil then return end
+  _G.zo_callLater(function()
+    if animation.uiHandlers.OnStop == stopped then stopped(animation, animation.uiControl, true) end
+  end, 0)
+end
+
 local function finished(self, progress)
   self.uiProgress = progress
   for _, one in ipairs(self.uiAnimations) do
     if one.uiUpdate ~= nil then one.uiUpdate(one, progress) end
   end
+  for _, one in ipairs(self.uiAnimations) do stopLater(one) end
   local stopped = self.uiHandlers.OnStop
   if stopped ~= nil then
     _G.zo_callLater(function()
