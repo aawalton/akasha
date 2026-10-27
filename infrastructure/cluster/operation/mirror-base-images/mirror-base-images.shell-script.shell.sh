@@ -9,9 +9,9 @@ REPO="$(cd -- "$HERE/../../../.." && pwd -P)"
 LOCAL_REGISTRY="registry.registry.svc.cluster.local:5000"
 
 DOCKER_HUB_IMAGES=(
-  "oven/bun:1.3-alpine"
-  "oven/bun:1.3.14-alpine"
-  "oven/bun:1.3.14-debian"
+  "oven/bun:1.4-alpine"
+  "oven/bun:1.4.4-alpine"
+  "oven/bun:1.4.4-debian"
   "alpine:3.21"
   "debian:bookworm-slim"
 )
