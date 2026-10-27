@@ -15,6 +15,6 @@ export const testStory00006 = {
   lore: ["place/test-world-shop"],
   endsAt: "2026-10-27T08:40:00.000Z",
   createdAt: "2026-10-27T20:20:32.867Z",
-  updatedAt: "2026-10-27T20:24:44.520Z",
-  ownLength: 39,
+  updatedAt: "2026-10-27T20:25:37.851Z",
+  ownLength: 53,
 } as const satisfies StoryTurnPlayed
