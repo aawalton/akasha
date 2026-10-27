@@ -29,13 +29,15 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { storyCloneRemove as page } from "akasha/command/pages/story/clone-remove/story-clone-remove.command.ts"
 import {
   addressOf,
+  cloneWorldOf,
   committedUnder,
   folderOf,
-  inTestWorld,
   isCode,
   type Referrer,
   referrersOf,
-  TEST_WORLD,
+  worldFolderOf,
+  worldNameOf,
+  worldPageOf,
 } from "akasha/command/pages/story/modules/cloning/story-cloning.module.code.ts"
 import {
   listedAt,
@@ -74,6 +76,8 @@ const CLONED_FROM = "clonedFrom"
 const ASSIGNMENT = "assignmentSlug"
 
 const STORY = "story"
+
+const TESTING = "testing"
 
 const FACT = "fact"
 
@@ -194,9 +198,11 @@ function last(path: string): number {
 export function planned(root: string, slug: string, reach: Reach): Plan | Refusing {
   const storyPath = reach.storyAt(root, slug)
   if (storyPath === null) return { refused: `\`${slug}\` names no played story here`, code: DATA }
-  if (!inTestWorld(storyPath)) {
+  const worldFolder = worldFolderOf(storyPath)
+  const worldAt = worldPageOf(worldFolder)
+  if (reach.valueOf(root, worldAt)?.[TESTING] !== true) {
     return {
-      refused: `\`${slug}\` sits at \`${storyPath}\`, outside \`${TEST_WORLD}\`, and only a clone there is removed`,
+      refused: `\`${slug}\` sits in \`${worldAt}\`, which states no \`${TESTING}: true\`, and only a clone in a testing world is removed`,
       code: INPUT,
     }
   }
@@ -207,7 +213,8 @@ export function planned(root: string, slug: string, reach: Reach): Plan | Refusi
       code: INPUT,
     }
   }
-  const folder = folderOf(storyPath)
+  const ownWorld = worldNameOf(worldFolder) === cloneWorldOf(slug)
+  const folder = ownWorld ? worldFolder : folderOf(storyPath)
   const committed = reach.committedUnder(root, folder)
   const pages = committed.filter(isPage)
   const outside = new Set<string>()
@@ -225,7 +232,7 @@ export function planned(root: string, slug: string, reach: Reach): Plan | Refusi
         if (address !== null) unlisting.push({ at: referrer.path, value: address })
         continue
       }
-      if (referrer.path.startsWith(TEST_WORLD)) shared.add(referrer.path)
+      if (referrer.path.startsWith(worldFolder)) shared.add(referrer.path)
       else foreign.add(referrer.path)
     }
   }
@@ -247,7 +254,7 @@ export function planned(root: string, slug: string, reach: Reach): Plan | Refusi
       .map((one) => `\`${one}\``)
       .join(", ")
     return {
-      refused: `${named} name a page of \`${slug}\` from outside \`${TEST_WORLD}\`, or other than as a fact's knower on a page \`${slug}\` did not make, so nothing is removed`,
+      refused: `${named} name a page of \`${slug}\` from outside \`${worldFolder}\`, or other than as a fact's knower on a page \`${slug}\` did not make, so nothing is removed`,
       code: DATA,
     }
   }

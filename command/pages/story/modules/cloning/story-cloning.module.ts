@@ -10,11 +10,23 @@ export const storyCloning = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only a played story under the test world is cloned.",
+      statement: "A clone is a world of its own, `<clone>-world`, beside its source's world.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A clone's world copies its source world's own pages and the source story alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "So no clone's play changes a page another story reads.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A clone copies every file under its source's folder but its turns and chapters.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A copied world page knows no character but the clone's own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -23,6 +35,10 @@ export const storyCloning = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The source's slug becomes the clone's wherever it is a whole name or begins one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The source world's slug becomes the clone world's in the same way.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +87,5 @@ export const storyCloning = {
     },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-27T22:03:42.729Z",
+  updatedAt: "2026-10-27T23:43:41.809Z",
 } as const satisfies Module

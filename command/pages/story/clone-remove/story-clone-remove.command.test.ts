@@ -36,6 +36,14 @@ const TYPED = "page-type"
 
 const PLAYER_AT = `${FOLDER}characters/probe-player.character-player.ts`
 
+const OWN_WORLD = "story/world/pages/own-world/"
+
+const OWN_WORLD_AT = `${OWN_WORLD}own-world.world.ts`
+
+const OWN_PLACE_AT = `${OWN_WORLD}places/own-world-hall.place.ts`
+
+const OWN_STORY_AT = `${OWN_WORLD}stories/played/own/own.story-played.ts`
+
 const PLACE_AT = "story/world/pages/test-world/places/test-world-hall.place.ts"
 
 const LORE_AT = "story/world/pages/test-world/lore/test-world-overview.lore.ts"
@@ -64,11 +72,19 @@ const VALUES: Record<string, Record<string, unknown>> = {
     ],
   },
   [LORE_AT]: { mentions: [PLAYER] },
+  "story/world/pages/test-world/test-world.world.ts": { slug: "test-world", testing: true },
+  [OWN_STORY_AT]: {
+    type: `${TYPED}/${storyPlayed.slug}`,
+    slug: "own",
+    clonedFrom: `${storyPlayed.slug}/test-story`,
+  },
+  [OWN_WORLD_AT]: { slug: "own-world", testing: true },
   [ORIGINAL]: { type: `${TYPED}/${storyPlayed.slug}`, slug: "test-story" },
   [GIFTED]: { type: `${TYPED}/${storyPlayed.slug}`, slug: "gifted-reborn" },
 }
 
 const STORIES: Record<string, string> = {
+  own: OWN_STORY_AT,
   probe: STORY_AT,
   "test-story": ORIGINAL,
   "gifted-reborn": GIFTED,
@@ -209,6 +225,21 @@ test("a shared page naming the clone other than as a knower refuses the removal"
   expect(calls.landed).toEqual([])
 })
 
+test("a clone in a world of its own goes with every file of that world", async () => {
+  const calls = fresh()
+  const reach: Reach = {
+    ...reachInto(calls),
+    committedUnder: (_root, folder) =>
+      folder === OWN_WORLD ? [OWN_WORLD_AT, OWN_PLACE_AT, OWN_STORY_AT] : [],
+    referrersOf: () => [],
+  }
+  const answer = await storyCloneRemove(["--story", "own"], GIVEN, landingInto(calls), reach)
+  expect(answer.code).toBe(0)
+  const ats = (calls.landed[0] ?? []).map((one) => (one.given as { readonly at: string }).at)
+  expect(ats).toEqual([OWN_WORLD_AT, OWN_PLACE_AT, OWN_STORY_AT])
+  expect(calls.swept).toEqual([OWN_WORLD])
+})
+
 test("a seat refusing to stop leaves every page where it is", async () => {
   const calls = fresh()
   const answer = await storyCloneRemove(
@@ -235,7 +266,7 @@ test("a story that is no clone is refused, and nothing is stopped", async () => 
   expect(calls.landed).toEqual([])
 })
 
-test("a story outside the test world is refused, and nothing is stopped", async () => {
+test("a story of a world stating no testing is refused, and nothing is stopped", async () => {
   const calls = fresh()
   const answer = await storyCloneRemove(
     ["--story", "gifted-reborn"],

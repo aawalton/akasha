@@ -26,19 +26,21 @@ import { storyClone as page } from "akasha/command/pages/story/clone/story-clone
 import {
   addressOf,
   type Copy,
-  cloneFolderOf,
+  cloneWorldFolderOf,
   committedUnder,
-  copied,
+  copiedFrom,
   copiesOf,
   folderOf,
-  inTestWorld,
   isCode,
   latestOf,
   masterOf,
   referrersOf,
-  slugsRenamed,
+  renamedFor,
+  type Story,
   storyBoundIn,
-  TEST_WORLD,
+  worldFolderOf,
+  worldNameOf,
+  worldPageOf,
 } from "akasha/command/pages/story/modules/cloning/story-cloning.module.code.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -66,6 +68,8 @@ const PAGE_FILE = ".ts"
 const PARTS = "parts"
 
 const MASTER = "coordinatorAgent"
+
+const TESTING = "testing"
 
 const ENDS = "endsAt"
 
@@ -140,7 +144,7 @@ function rank(at: string): number {
 function partsAsked(
   root: string,
   sources: readonly string[],
-  held: Taken,
+  story: Story,
   folder: string,
   reach: Reach
 ): readonly Asking[] {
@@ -150,7 +154,7 @@ function partsAsked(
     const value = reach.valueOf(root, path)
     const address = value === null ? null : addressOf(value)
     if (address === null) continue
-    const copy = slugsRenamed(address, held.from, held.to)
+    const copy = renamedFor(address, story)
     for (const parent of reach.partsNaming(root, path)) {
       if (parent.startsWith(folder)) continue
       asked.push({ at: ADD_VALUE, given: { at: parent, key: PARTS, value: copy } })
@@ -167,14 +171,16 @@ export function planned(
   const storyPath = reach.storyAt(root, held.from)
   if (storyPath === null)
     return { refused: `\`${held.from}\` names no played story here`, code: DATA }
-  if (!inTestWorld(storyPath)) {
+  const worldFolder = worldFolderOf(storyPath)
+  const worldAt = worldPageOf(worldFolder)
+  if (reach.valueOf(root, worldAt)?.[TESTING] !== true) {
     return {
-      refused: `\`${held.from}\` sits at \`${storyPath}\`, outside \`${TEST_WORLD}\`, and only a story there is cloned`,
+      refused: `\`${held.from}\` sits in \`${worldAt}\`, which states no \`${TESTING}: true\`, and only a story of a testing world is cloned`,
       code: INPUT,
     }
   }
   const folder = folderOf(storyPath)
-  const cloneFolder = cloneFolderOf(folder, held.from, held.to)
+  const cloneFolder = cloneWorldFolderOf(worldFolder, held.to)
   if (reach.storyAt(root, held.to) !== null || reach.there(root, cloneFolder)) {
     return { refused: `\`${held.to}\` is held already, so no clone is made under it`, code: INPUT }
   }
@@ -196,7 +202,8 @@ export function planned(
     })
   const opensAt = latestOf(ends)
   const sources: { path: string; text: string }[] = []
-  for (const path of files.filter((one) => copied(folder, one))) {
+  const worldFiles = reach.committedUnder(root, worldFolder)
+  for (const path of worldFiles.filter((one) => copiedFrom(worldFolder, folder, one))) {
     const text = reach.textOf(root, path)
     if (text !== null) sources.push({ path, text })
   }
@@ -208,11 +215,10 @@ export function planned(
       code: DATA,
     }
   }
-  const copies = copiesOf(sources, {
-    folder,
-    storyPath,
-    story: { from: held.from, to: held.to, master, opensAt },
-  }).toSorted((one, two) => rank(one.at) - rank(two.at))
+  const story = { from: held.from, to: held.to, world: worldNameOf(worldFolder), master, opensAt }
+  const copies = copiesOf(sources, { worldFolder, folder, storyPath, story }).toSorted(
+    (one, two) => rank(one.at) - rank(two.at)
+  )
   const added: Asking[] = copies.map((one) => ({
     at: ADD_FILE,
     given: isCode(one.at)
@@ -222,8 +228,8 @@ export function planned(
   const parts = partsAsked(
     root,
     sources.map((one) => one.path),
-    held,
-    folder,
+    story,
+    worldFolder,
     reach
   )
   return { asked: [...added, ...parts], copies, master, opensAt, folder: cloneFolder }

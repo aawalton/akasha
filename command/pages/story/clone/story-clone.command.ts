@@ -4,17 +4,17 @@ export const storyClone = {
   id: "01a17f38-e4a8-704c-b8f5-64a5048e96f6",
   type: "page-type/command",
   slug: "story-clone",
-  definition: "the command cloning a played story of the test world under a new slug",
+  definition: "the command cloning a played story of a testing world under a new slug",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story outside the test world is refused, and nothing lands.",
+      statement: "A story whose world states no `testing: true` is refused, and nothing lands.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A slug a played story or a folder of the test world holds already is refused.",
+      statement: "A slug a played story holds, or whose clone world's folder is there, is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -52,5 +52,5 @@ export const storyClone = {
     { argument: "argument/clone-as", required: true },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-27T23:24:33.107Z",
+  updatedAt: "2026-10-27T23:43:41.809Z",
 } as const satisfies Command

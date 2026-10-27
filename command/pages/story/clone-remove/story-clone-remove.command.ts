@@ -10,7 +10,13 @@ export const storyCloneRemove = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story outside the test world is refused, and nothing is stopped or removed.",
+      statement:
+        "A story whose world states no `testing: true` is refused, and nothing is stopped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A clone in a world of its own, `<clone>-world`, goes with every file of that world.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,7 +61,7 @@ export const storyCloneRemove = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page outside the test world naming a page of the clone refuses the removal.",
+      statement: "A page outside the clone's world naming a page of the clone refuses the removal.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -77,5 +83,5 @@ export const storyCloneRemove = {
     { argument: "argument/draft" },
   ],
   createdAt: "2026-10-27T21:21:01.035Z",
-  updatedAt: "2026-10-27T23:24:33.107Z",
+  updatedAt: "2026-10-27T23:43:41.809Z",
 } as const satisfies Command

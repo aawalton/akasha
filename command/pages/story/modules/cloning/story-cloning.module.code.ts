@@ -10,9 +10,15 @@ import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case
 import { settledBy } from "akasha/story/world/mechanics/checks/properties/settled-by.relation-property.ts"
 import { worldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.ts"
 
-export const TEST_WORLD = "story/world/pages/test-world/"
-
 const PLAYED = "stories/played/"
+
+const STORIES = "stories/"
+
+const WORLD_PAGE = ".world.ts"
+
+const WORLD_TAIL = "-world"
+
+const PARTED = "/"
 
 const LEFT_DIRS: readonly string[] = ["turns/", "chapters/"]
 
@@ -76,25 +82,44 @@ function pascal(slug: string): string {
   return `${said.slice(0, 1).toUpperCase()}${said.slice(1)}`
 }
 
-export function inTestWorld(path: string): boolean {
-  return path.startsWith(TEST_WORLD) && path.includes(`/${PLAYED}`)
-}
-
 export function folderOf(storyPath: string): string {
-  const at = storyPath.lastIndexOf("/")
+  const at = storyPath.lastIndexOf(PARTED)
   return at < 0 ? "" : storyPath.slice(0, at + 1)
 }
 
-export function cloneFolderOf(folder: string, from: string, to: string): string {
-  const tail = `${PLAYED}${from}/`
-  if (!folder.endsWith(tail)) return folder
-  return `${folder.slice(0, -tail.length)}${PLAYED}${to}/`
+export function worldFolderOf(storyPath: string): string {
+  const at = storyPath.indexOf(`${PARTED}${PLAYED}`)
+  return at < 0 ? "" : storyPath.slice(0, at + 1)
+}
+
+export function worldNameOf(worldFolder: string): string {
+  return worldFolder.slice(0, -1).split(PARTED).at(-1) ?? ""
+}
+
+export function worldPageOf(worldFolder: string): string {
+  return `${worldFolder}${worldNameOf(worldFolder)}${WORLD_PAGE}`
+}
+
+export function cloneWorldOf(to: string): string {
+  return `${to}${WORLD_TAIL}`
+}
+
+export function cloneWorldFolderOf(worldFolder: string, to: string): string {
+  const parent = worldFolder.slice(0, -1 - worldNameOf(worldFolder).length)
+  return `${parent}${cloneWorldOf(to)}${PARTED}`
 }
 
 export function copied(folder: string, path: string): boolean {
   if (!path.startsWith(folder)) return false
   const within = path.slice(folder.length)
   if (LEFT_DIRS.some((one) => within.startsWith(one))) return false
+  return !LEFT_ENDINGS.some((one) => within.endsWith(one))
+}
+
+export function copiedFrom(worldFolder: string, storyFolder: string, path: string): boolean {
+  if (!path.startsWith(worldFolder)) return false
+  const within = path.slice(worldFolder.length)
+  if (within.startsWith(STORIES)) return copied(storyFolder, path)
   return !LEFT_ENDINGS.some((one) => within.endsWith(one))
 }
 
@@ -109,9 +134,19 @@ export function slugsRenamed(text: string, from: string, to: string): string {
   return text.replace(slug, to).replace(camel, inLowerCamelCase(to)).replace(typed, pascal(to))
 }
 
-export function clonedPath(path: string, folder: string, from: string, to: string): string {
-  const within = path.slice(folder.length)
-  return `${cloneFolderOf(folder, from, to)}${slugsRenamed(within, from, to)}`
+export function renamedFor(text: string, story: Story): string {
+  const storied = slugsRenamed(text, story.from, story.to)
+  return slugsRenamed(storied, story.world, cloneWorldOf(story.to))
+}
+
+export function clonedPath(path: string, worldFolder: string, story: Story): string {
+  const within = path.slice(worldFolder.length)
+  return `${cloneWorldFolderOf(worldFolder, story.to)}${renamedFor(within, story)}`
+}
+
+export function strangersDropped(text: string, to: string): string {
+  const named = `"character[\\w-]*/(?!${escaped(to)}-)[\\w-]+"`
+  return text.replace(new RegExp(`,\\s*${named}|${named},\\s*|${named}`, "g"), "")
 }
 
 export function masterOf(master: string, from: string, to: string): string | null {
@@ -123,6 +158,7 @@ export function masterOf(master: string, from: string, to: string): string | nul
 export type Story = {
   readonly from: string
   readonly to: string
+  readonly world: string
   readonly master: string
   readonly opensAt: string | null
 }
@@ -147,6 +183,7 @@ export type Source = { readonly path: string; readonly text: string }
 export type Copy = { readonly at: string; readonly body: string }
 
 export type Cloning = {
+  readonly worldFolder: string
   readonly folder: string
   readonly storyPath: string
   readonly story: Story
@@ -167,13 +204,14 @@ export function storyBoundIn(sources: readonly Source[], folder: string): readon
 }
 
 export function copiesOf(sources: readonly Source[], cloning: Cloning): readonly Copy[] {
-  const { folder, storyPath, story } = cloning
+  const { worldFolder, folder, storyPath, story } = cloning
   const made: Copy[] = []
   for (const one of sources) {
-    if (!copied(folder, one.path)) continue
+    if (!copiedFrom(worldFolder, folder, one.path)) continue
     if (isCode(one.path)) continue
-    const at = clonedPath(one.path, folder, story.from, story.to)
-    const body = settledByOf(one.text, pageBody(slugsRenamed(one.text, story.from, story.to)))
+    const at = clonedPath(one.path, worldFolder, story)
+    const renamed = settledByOf(one.text, pageBody(renamedFor(one.text, story)))
+    const body = one.path.startsWith(folder) ? renamed : strangersDropped(renamed, story.to)
     made.push({ at, body: one.path === storyPath ? storyBody(body, story) : body })
   }
   return made.toSorted((one, two) => (one.at < two.at ? -1 : one.at > two.at ? 1 : 0))
