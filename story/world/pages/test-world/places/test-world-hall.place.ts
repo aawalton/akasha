@@ -13,7 +13,7 @@ export const testWorldHall = {
   facts: [
     {
       fact: "The hall is one long room with a stone floor, a hearth and a notice board.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/clone-probe-player"],
     },
     {
       fact: "Anyone may use the hall by day, and its long floor is clear enough to drill on.",
@@ -35,7 +35,11 @@ export const testWorldHall = {
       fact: "A table for meals stands near the hall's hearth, benches pushed in under it.",
       knowers: ["lore-disclosure/game-master", "character-player/clone-probe-player"],
     },
+    {
+      fact: "The hall's notice board hangs on its wall, papers pinned across it.",
+      knowers: ["lore-disclosure/game-master", "character-player/clone-probe-player"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T22:06:10.379Z",
+  updatedAt: "2026-10-27T22:06:46.764Z",
 } as const satisfies Place
