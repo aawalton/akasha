@@ -25,11 +25,16 @@ export const giftedRebornTimePassing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Day one is a snowy night of early winter, about a week after Nala was born.",
+      statement:
+        "Day one is the day Nala's soul reached her unborn body, four months into her mother's term.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Nala reached the Horndale outpost at half past eight in the evening of day one.",
+      statement: "Nala reached the womb at half past eight in the evening of day one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nala is born about five months after day one, in early winter.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,12 +47,13 @@ export const giftedRebornTimePassing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A newborn sleeps most of every day, and a sleep runs two to four hours.",
+      statement:
+        "An unborn or newborn child sleeps most of every day, a sleep running two to four hours.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Dawn runs ten past seven to twenty to eight, and dusk half past four to ten past five.",
+        "Dawn runs six to half past six, and dusk six to twenty to seven, the whole year round.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -61,9 +67,9 @@ export const giftedRebornTimePassing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Nala has no clock, so the prose shows the hour only as light, hunger and sleep show it.",
+        "Nala has no clock, so the prose shows the hour only as light, sound, hunger and sleep show it.",
     },
   ],
   createdAt: "2026-10-27T19:39:20.989Z",
-  updatedAt: "2026-10-27T19:39:20.989Z",
+  updatedAt: "2026-10-27T21:51:18.954Z",
 } as const satisfies WorldCheck
