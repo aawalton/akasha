@@ -178,6 +178,16 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/fairweather/places/fairweather-old-toll-bridge.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/fairweather/places/fairweather-orchid-glasshouse.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/fairweather/places/fairweather-underbloom.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/gifted/places/gifted-cult-hideout.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/gifted/places/gifted-horndale-mountains.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/gifted/places/gifted-horndale-outpost.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/gifted/places/gifted-outpost-common-room.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/gifted/places/gifted-outpost-family-rooms.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/gifted/places/gifted-outpost-guest-rooms.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/gifted/places/gifted-outpost-kitchen.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/gifted/places/gifted-outpost-office.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/gifted/places/gifted-outpost-stable.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/gifted/places/gifted-outpost-yard.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/god-of-trash/places/otherwhere-vii-alliance-capital.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/god-of-trash/places/otherwhere-vii-ashford-road-ditch.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/god-of-trash/places/otherwhere-vii-ashford-road.place.ts","typed":true,"deferred":false}
