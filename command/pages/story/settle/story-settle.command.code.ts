@@ -57,15 +57,15 @@ import {
   type Taken,
   taken,
 } from "akasha/command/pages/story/settle/modules/settle-taking/settle-taking.module.code.ts"
+import { settlingFound } from "akasha/command/pages/story/settle/modules/settling-finding/settling-finding.module.code.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
-  listedAt,
   valueByPath,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { pathOf } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
-import { settling } from "akasha/story/world/mechanics/checks/properties/settling.module-property-group.ts"
+
 import { worldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.ts"
 import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import type { Dice } from "akasha/story/world/mechanics/modules/dice-rolling/dice-rolling.module.code.ts"
@@ -80,8 +80,6 @@ import {
 import { outcomes } from "akasha/story/world/stories/played/turns/properties/outcomes.file-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
-const CODE = "code"
-const HELD_TS = "ts"
 const JSONL = "jsonl"
 const UTF8 = "utf8"
 const TAB = "\t"
@@ -146,9 +144,7 @@ export function chaptersIndexed(root: string, story: string): readonly Chained[]
 }
 
 export function settlingIndexed(root: string, check: string): string | null {
-  const listed = listedAt(root, worldCheck.slug, check)[0]
-  if (listed === undefined) return null
-  return besideAt(listed.path, `${settling.propertySlug}.${CODE}`, HELD_TS)
+  return settlingFound(root, check)
 }
 
 const INDEXED: Reach = {

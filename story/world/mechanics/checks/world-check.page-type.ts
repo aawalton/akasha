@@ -22,10 +22,12 @@ export const worldCheck = {
     "world-check/clone-probe-time-passing",
     "world-check/clone-probe-training",
     "world-check/clone-probe-upkeep",
+    "relation-property/settled-by",
   ],
   properties: [
-    { pageProperty: "module-property-group/settling", required: true, many: false },
+    { pageProperty: "module-property-group/settling", required: false, many: false },
     { pageProperty: "boolean-property/difficulty-moved", required: false, many: false },
+    { pageProperty: "relation-property/settled-by", required: false, many: false },
   ],
   decisions: [
     {
@@ -36,6 +38,11 @@ export const worldCheck = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A check that rolls nothing is handed no dice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A check carries its own `settling` or names in `settledBy` the check settling it.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -81,5 +88,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-27T21:38:27.218Z",
+  updatedAt: "2026-10-27T22:02:10.738Z",
 } as const satisfies PageType
