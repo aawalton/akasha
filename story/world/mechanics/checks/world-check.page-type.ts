@@ -75,10 +75,36 @@ export const worldCheck = {
       statement:
         "A check's code and its test read a page's address off that page's slug by importing the page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A check's code may export `next`, answering one session's reading and answer with the next.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "`next` answers `{ reading, crossed, left }`: the next reading, what was crossed, why it left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A crossed name is what one session crossed into, such as a rung or a tier.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`left` is null, or says why a session left the routine the player asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check with no `next` is no montage's activity or upkeep.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story's upkeep is its check `<story>-upkeep`, charged each montage session.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
-  loadedExport: ["settled", "added"],
+  loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-27T19:38:05.062Z",
+  updatedAt: "2026-10-27T19:38:29.106Z",
 } as const satisfies PageType

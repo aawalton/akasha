@@ -22,7 +22,7 @@ export const timePassing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Time never runs backward, and no turn passes more than a week.",
+      statement: "Time never runs backward, and no single reading passes more than a week.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,5 +35,5 @@ export const timePassing = {
     },
   ],
   createdAt: "2026-09-28T21:17:55.679Z",
-  updatedAt: "2026-09-28T22:05:38.000Z",
+  updatedAt: "2026-10-27T19:38:29.106Z",
 } as const satisfies Module
