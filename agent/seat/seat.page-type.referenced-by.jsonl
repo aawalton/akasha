@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/eppie/eppie.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-game-master-test-story/iris-game-master-test-story.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-reviewer-test-story-flex-1/iris-reviewer-test-story-flex-1.seat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-reviewer-test-story-flex-2/iris-reviewer-test-story-flex-2.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-story-recorder-test-story-flex-1/iris-story-recorder-test-story-flex-1.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-story-recorder-test-story-flex-2/iris-story-recorder-test-story-flex-2.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-story-recorder-test-story-flex-3/iris-story-recorder-test-story-flex-3.seat.ts","typed":true,"deferred":false}
