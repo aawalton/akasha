@@ -69,7 +69,11 @@ export const giftedRebornNala = {
       fact: "Not kicking, or kicking once, lets her Status sleep, its rewards held until it wakes near five.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She spread into the half of the body the demon held; the whole small body is hers now.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-27T23:44:45.428Z",
+  updatedAt: "2026-10-27T23:59:05.753Z",
 } as const satisfies Lore
