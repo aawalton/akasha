@@ -44,7 +44,15 @@ export const giftedLesserDemonPrince = {
       fact: "Destroying and absorbing it earns two Achievements: Lesser Demon Prince slain unborn; soul consumed.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "It held Nala in its teeth the whole way up from the Ocean, toying with her.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
+    {
+      fact: "Nala turned on it while it could barely hold its shape, and bit into its darkness.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T21:48:20.815Z",
-  updatedAt: "2026-10-27T23:41:20.481Z",
+  updatedAt: "2026-10-27T23:52:35.987Z",
 } as const satisfies Lore
