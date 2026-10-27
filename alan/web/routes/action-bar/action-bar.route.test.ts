@@ -144,7 +144,7 @@ test("a game master whose seat is not running is the action bar player's, to be 
     game: GAME,
     person: ACTION_BAR_PLAYER,
   })
-  expect(gameSeatHeld(SEAT, GAME, { slug: SEAT, person: "person/someone-else" })).toEqual({
+  expect(gameSeatHeld(SEAT, GAME, { slug: SEAT, persons: ["person/someone-else"] })).toEqual({
     kind: "seated",
     seat: SEAT,
     game: GAME,

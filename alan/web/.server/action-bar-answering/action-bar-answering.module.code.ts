@@ -13,6 +13,7 @@ import {
   withCors,
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
+import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -54,7 +55,7 @@ const COORDINATOR_AGENT = "coordinatorAgent"
 
 const SLUG = "slug"
 
-const PERSON = "person"
+const PERSONS = "persons"
 
 const TO = "to"
 
@@ -158,7 +159,7 @@ async function seatOfGame(gameExternalId: string): Promise<GameSeat> {
   const seats = await askingFor({
     pageTypeSlug: SEAT_PAGE_TYPE_SLUG,
     where: { [SLUG]: { is: seat } },
-    keys: [SLUG, PERSON],
+    keys: [SLUG, PERSONS],
   })
   if ("refused" in seats) return { kind: "unread", why: seats.refused }
   return gameSeatHeld(seat, slug, seats.rows[0])
@@ -166,8 +167,8 @@ async function seatOfGame(gameExternalId: string): Promise<GameSeat> {
 
 export function gameSeatHeld(seat: string, game: string, held: Row | undefined): GameSeat {
   if (held === undefined) return { kind: "seated", seat, game, person: ACTION_BAR_PLAYER }
-  const person = textIn(held[PERSON])
-  return { kind: "seated", seat, game, person: person === null ? null : slugOf(person) }
+  const [person] = stringsIn(held[PERSONS])
+  return { kind: "seated", seat, game, person: person === undefined ? null : slugOf(person) }
 }
 
 async function pendingRowsAsked(): Promise<readonly Row[] | { readonly refused: string }> {
