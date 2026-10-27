@@ -31,7 +31,6 @@ import {
   usePanelsHeld,
 } from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
 import { above } from "akasha/story/ui/played-panel/panel-place/pages/above.panel-place.ts"
-import { aside } from "akasha/story/ui/played-panel/panel-place/pages/aside.panel-place.ts"
 import { run } from "akasha/story/ui/played-panel/panel-place/pages/run.panel-place.ts"
 import { panelPlace } from "akasha/story/ui/played-panel/panel-place/panel-place.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
@@ -43,10 +42,7 @@ import {
 import { sendAction } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import { usePlayedBeside } from "akasha/story/world/stories/played/modules/played-beside/played-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
-import {
-  NARROW_PAGE,
-  PlayedLayout,
-} from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
+import { NARROW_PAGE } from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
 import { useQuietFor } from "akasha/story/world/stories/played/modules/played-quiet/played-quiet.module.code.ts"
 import {
@@ -75,6 +71,10 @@ import {
   playedWorking,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
 import {
+  PlayedSidebars,
+  placedFrom,
+} from "akasha/story/world/stories/played/modules/played-sidebars/played-sidebars.module.code.tsx"
+import {
   stateOf,
   usePlayedState,
 } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
@@ -92,8 +92,6 @@ const NOTE_LINE = "font-mono text-tertiary text-xs"
 const GAME_UNREAD = "The game beside this story went unread, so only its own prose is drawn."
 
 const ABOVE = namedAs(panelPlace.slug, above.slug, null)
-
-const ASIDE = namedAs(panelPlace.slug, aside.slug, null)
 
 const RUN = namedAs(panelPlace.slug, run.slug, null)
 
@@ -359,13 +357,15 @@ function PlayedStory({
     )
   }
 
-  const drawnAside = shownIn(shown, ASIDE)
   const drawnRun = shownIn(shown, RUN)
   const settled = panelsHeld !== null && (barRead || bar === null)
+  const placed = placedFrom(shown, (drawn) => (
+    <PlayedPanels shown={drawn} envelope={envelope} run={panelRun} />
+  ))
 
   return (
     <div className={settled ? undefined : UNSETTLED}>
-      <PlayedLayout
+      <PlayedSidebars
         head={
           <>
             {titleRow}
@@ -383,11 +383,7 @@ function PlayedStory({
           )
         }
         bar={bar}
-        panelsAside={
-          drawnAside.length === 0 ? null : (
-            <PlayedPanels shown={drawnAside} envelope={envelope} run={panelRun} />
-          )
-        }
+        placed={placed}
       />
     </div>
   )

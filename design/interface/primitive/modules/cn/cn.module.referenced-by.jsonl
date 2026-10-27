@@ -128,6 +128,7 @@
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"story/chapter/narration/modules/bar/narration-bar.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cn.module.code.ts","path":"story/world/stories/played/modules/played-sidebars/played-sidebars.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/build-action-buttons/build-action-buttons.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/character-editor-header/character-editor-header.module.code.tsx","typed":false,"deferred":false}
