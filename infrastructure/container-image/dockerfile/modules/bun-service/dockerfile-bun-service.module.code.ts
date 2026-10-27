@@ -36,7 +36,7 @@ function generateWorkspaceBunService(
 ): string {
   const appDir = config.dir
   const lines: string[] = []
-  const baseImage = ext.base_image ?? "oven/bun:1.3.14-alpine"
+  const baseImage = ext.base_image ?? "oven/bun:1.4.4-alpine"
   const port = ext.expose_port ?? 3000
 
   if (ext.extra_stages?.length != null && ext.extra_stages.length > 0) {
@@ -150,7 +150,7 @@ function generateSingleStageBunService(
   ext: DockerfileExtensions
 ): string {
   const lines: string[] = []
-  const runtimeImage = ext.runtime_image ?? "oven/bun:1.3.14-alpine"
+  const runtimeImage = ext.runtime_image ?? "oven/bun:1.4.4-alpine"
 
   lines.push(`FROM ${runtimeImage}`)
   lines.push("")
