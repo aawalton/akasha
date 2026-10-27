@@ -7,8 +7,8 @@ export const towerHud = {
   definition: "the tower's three pools, read off what the climber has left",
   code: "tsx",
   drawn: "js",
-  place: "panel-place/aside",
+  place: "panel-place/above",
   position: 50,
   createdAt: "2026-09-21T15:40:58.689Z",
-  updatedAt: "2026-09-28T12:54:48.000Z",
+  updatedAt: "2026-10-27T18:39:40.072Z",
 } as const satisfies PlayedPanel

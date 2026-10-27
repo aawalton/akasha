@@ -7,11 +7,11 @@ export const otherCharacters = {
   definition: "an empty panel, the other characters being drawn in the player character's panel",
   code: "tsx",
   drawn: "js",
-  place: "panel-place/aside",
+  place: "panel-place/above",
   position: 20,
   decisions: [
     { decisionKind: "decision-kind/stopgap", statement: "A story may still name this panel." },
   ],
   createdAt: "2026-09-28T13:06:27.258Z",
-  updatedAt: "2026-10-03T19:44:38.000Z",
+  updatedAt: "2026-10-27T18:39:40.072Z",
 } as const satisfies PlayedPanel
