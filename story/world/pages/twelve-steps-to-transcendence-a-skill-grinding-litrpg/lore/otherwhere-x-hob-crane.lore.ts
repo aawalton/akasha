@@ -30,11 +30,11 @@ export const otherwhereXHobCrane = {
     },
     {
       fact: "The goose boy is Hob, son of Aldous Crane, Harrow's reeve.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hob had never heard the name Nala before.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hob was born in Harrow and has never been further than Wexley market.",
@@ -54,5 +54,5 @@ export const otherwhereXHobCrane = {
     },
   ],
   createdAt: "2026-09-29T01:46:23.912Z",
-  updatedAt: "2026-10-03T19:44:44.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

@@ -6,7 +6,7 @@ export const otherwhereXProgression = {
   slug: "otherwhere-x-progression",
   title: "Progression",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-progression",
+  about: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   facts: [
     {
       fact: "An hour of earnest practice banks one point, and an hour under a teacher two more.",
@@ -98,5 +98,5 @@ export const otherwhereXProgression = {
     },
   ],
   createdAt: "2026-09-29T01:51:26.174Z",
-  updatedAt: "2026-09-29T01:51:29.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

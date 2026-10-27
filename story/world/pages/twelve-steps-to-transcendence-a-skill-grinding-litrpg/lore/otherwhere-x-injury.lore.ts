@@ -6,7 +6,7 @@ export const otherwhereXInjury = {
   slug: "otherwhere-x-injury",
   title: "Injury",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-injury",
+  about: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   facts: [
     {
       fact: "A blow is settled only once an act has landed it.",
@@ -74,5 +74,5 @@ export const otherwhereXInjury = {
     },
   ],
   createdAt: "2026-09-29T01:51:04.411Z",
-  updatedAt: "2026-09-29T01:51:08.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

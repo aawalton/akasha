@@ -6,8 +6,8 @@ export const otherwhereXNanAshby = {
   slug: "otherwhere-x-nan-ashby",
   title: "Old Nan Ashby",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  story: "story-played/otherwhere-x",
+  story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   place: "place/otherwhere-x-harrow-green",
   createdAt: "2026-09-29T01:44:21.492Z",
-  updatedAt: "2026-10-03T19:48:13.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies CharacterOther

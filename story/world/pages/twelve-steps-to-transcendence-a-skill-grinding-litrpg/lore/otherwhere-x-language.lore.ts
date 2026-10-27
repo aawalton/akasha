@@ -6,7 +6,7 @@ export const otherwhereXLanguage = {
   slug: "otherwhere-x-language",
   title: "Language",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-language",
+  about: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   facts: [
     {
       fact: "One common tongue is spoken across the Central and Western Plains, by high and low alike.",
@@ -50,5 +50,5 @@ export const otherwhereXLanguage = {
     },
   ],
   createdAt: "2026-09-29T00:01:54.183Z",
-  updatedAt: "2026-09-29T04:20:40.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

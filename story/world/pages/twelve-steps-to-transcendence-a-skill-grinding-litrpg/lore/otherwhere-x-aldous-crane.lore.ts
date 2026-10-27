@@ -34,19 +34,11 @@ export const otherwhereXAldousCrane = {
     },
     {
       fact: "Aldous will not sleep an unknown stranger under his own roof, with his boy in the house.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Aldous lodges strangers in the Sheaf's loft on his word, and Martha takes the reeve's word.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "A stranger who cannot say where home is sounds, to Aldous, like one hiding it.",
@@ -78,61 +70,33 @@ export const otherwhereXAldousCrane = {
     },
     {
       fact: "Aldous answers a question about Sulon plainly, then asks one of his own back.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Aldous has been to Wexley often and to Aldermere once; he has never seen the capital.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Aldous's house is one warm room: a hearth, a supper board, an iron-bound chest in the corner.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Aldous held his door open for Nala as the dusk bell by it rang slow and heavy over the green.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Aldous asked Nala how she came to be on Harrow Mile at dusk, barefoot, with no token.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "To Aldous, a stranger brought here by magic is a thing for past the walls, or a fever.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Aldous stood by the Sheaf's door through Nala's songs, his face gone still as at her name.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
   ],
   createdAt: "2026-09-29T00:59:31.508Z",
-  updatedAt: "2026-10-03T19:45:03.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

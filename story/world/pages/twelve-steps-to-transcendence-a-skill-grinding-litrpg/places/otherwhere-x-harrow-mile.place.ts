@@ -10,15 +10,15 @@ export const otherwhereXHarrowMile = {
   facts: [
     {
       fact: "Harrow Mile is a stretch of rutted cart road between harvested barley fields.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A waist-high milestone sits at the road's edge, lichen on its north face.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The milestone is carved: HARROW 2 with an arrow east, and a worn crest above.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The crest on the milestone is the royal mark of Sulon, a Central Plains kingdom.",
@@ -26,11 +26,11 @@ export const otherwhereXHarrowMile = {
     },
     {
       fact: "A hawthorn hedge runs along the field's edge, heavy with red berries.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wood smoke rises from beyond a low rise to the east.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Harrow is a farming village of some forty households two miles east.",
@@ -50,7 +50,7 @@ export const otherwhereXHarrowMile = {
     },
     {
       fact: "The road runs east and west; westward it slopes down toward a line of trees.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The hawthorn berries are ripe, mealy and safe to eat, though they fill no one.",
@@ -58,7 +58,7 @@ export const otherwhereXHarrowMile = {
     },
     {
       fact: "The rutted road is hard-packed earth with flints in it; bare feet feel every stone.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The line of trees to the west is the alder fringe along the Tarrant, hours off by foot.",
@@ -78,15 +78,15 @@ export const otherwhereXHarrowMile = {
     },
     {
       fact: "The stubble where Nala woke is flattened in a ring some ten paces across, stalks laid outward.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A thin ditch of still rainwater, dust floating on it, runs along the road's north side.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A dark forest edge of oak and beech runs a mile north of the road, across the stubble.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   exits: [
@@ -107,5 +107,5 @@ export const otherwhereXHarrowMile = {
     },
   ],
   createdAt: "2026-09-28T23:36:25.846Z",
-  updatedAt: "2026-09-29T00:23:18.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Place

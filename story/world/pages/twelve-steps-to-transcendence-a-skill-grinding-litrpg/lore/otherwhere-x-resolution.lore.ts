@@ -6,7 +6,7 @@ export const otherwhereXResolution = {
   slug: "otherwhere-x-resolution",
   title: "Resolution",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-resolution",
+  about: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   facts: [
     {
       fact: "An act whose outcome is in doubt and matters is settled; a sure or trifling act is told.",
@@ -78,5 +78,5 @@ export const otherwhereXResolution = {
     },
   ],
   createdAt: "2026-09-29T01:50:48.502Z",
-  updatedAt: "2026-09-29T01:50:52.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

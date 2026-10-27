@@ -10,11 +10,7 @@ export const otherwhereXMarthaDeane = {
   facts: [
     {
       fact: "Martha Deane, a brisk widow, keeps the Sheaf, Harrow's alehouse on the green.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-martha-deane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-martha-deane"],
     },
     {
       fact: "Martha is stout, grey-haired and loud, and rules her room with a look.",
@@ -76,12 +72,11 @@ export const otherwhereXMarthaDeane = {
       fact: "After Nala's songs Martha said the lass can sing, and asked another, then where she got such songs.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
         "character-other/otherwhere-x-martha-deane",
         "character-other/otherwhere-x-aldous-crane",
       ],
     },
   ],
   createdAt: "2026-09-29T01:43:25.268Z",
-  updatedAt: "2026-10-03T19:45:33.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

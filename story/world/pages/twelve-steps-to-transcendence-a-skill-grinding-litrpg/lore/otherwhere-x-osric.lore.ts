@@ -10,11 +10,7 @@ export const otherwhereXOsric = {
   facts: [
     {
       fact: "Sulon's king is Osric, second of that name, of House Sable.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Osric keeps his court at Everhold, in the south of the kingdom.",
@@ -30,11 +26,7 @@ export const otherwhereXOsric = {
     },
     {
       fact: "To heartland folk the king is a name on coin and tally rather than a face.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Osric has an old grievance with a neighbouring kingdom over a river ford.",
@@ -42,13 +34,9 @@ export const otherwhereXOsric = {
     },
     {
       fact: "A reeve like Aldous answers up through his lord and the king's steward, never to the king.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
   ],
   createdAt: "2026-09-29T01:41:59.491Z",
-  updatedAt: "2026-10-03T19:45:03.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

@@ -18,7 +18,7 @@ export const otherwhereXTheSheaf = {
     },
     {
       fact: "On day one's evening the Sheaf's hearth has a pot of mutton stew on it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Sheaf supper wants a singer; the fiddler who played it last year died in the spring.",
@@ -26,19 +26,15 @@ export const otherwhereXTheSheaf = {
     },
     {
       fact: "A long thatched building in Harrow has a sheaf of grain painted on its sign and smells of stew.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Sheaf has wanted a singer since the fiddler died.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-martha-deane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-martha-deane"],
     },
     {
       fact: "The Sheaf is one long smoky room of trestles and benches, a hearth at the far end.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The loft is reached by a ladder behind the hearth, and is warm from the chimney.",
@@ -54,11 +50,7 @@ export const otherwhereXTheSheaf = {
     },
     {
       fact: "The Sheaf's folk pay a singer in coppers left on the trestle, one or two apiece.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-martha-deane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-martha-deane"],
     },
     {
       fact: "The Sheaf's regulars are Ned Fuller the smith, Hattie Rook, and the Cranes' two hands.",
@@ -68,20 +60,18 @@ export const otherwhereXTheSheaf = {
       fact: "Harrow folk understand every word Nala sings; it is the song itself that is new to them.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
         "character-other/otherwhere-x-martha-deane",
         "character-other/otherwhere-x-aldous-crane",
       ],
     },
     {
       fact: "Of an evening a dozen or so Harrow men and women drink in the Sheaf after the dusk bell.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On day one's evening Nala sang O Danny Boy and Homeward Bound in the Sheaf.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
         "character-other/otherwhere-x-martha-deane",
         "character-other/otherwhere-x-aldous-crane",
       ],
@@ -90,7 +80,6 @@ export const otherwhereXTheSheaf = {
       fact: "The Sheaf's room was pleased with Nala's singing and uneasy about her at once.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
         "character-other/otherwhere-x-martha-deane",
         "character-other/otherwhere-x-aldous-crane",
       ],
@@ -98,5 +87,5 @@ export const otherwhereXTheSheaf = {
   ],
   exits: [{ to: "place/otherwhere-x-harrow", way: "out the front door onto the green" }],
   createdAt: "2026-09-29T01:18:36.149Z",
-  updatedAt: "2026-10-03T19:45:33.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Place

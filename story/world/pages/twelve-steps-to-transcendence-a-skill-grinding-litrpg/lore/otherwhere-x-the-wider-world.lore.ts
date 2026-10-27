@@ -14,19 +14,11 @@ export const otherwhereXTheWiderWorld = {
     },
     {
       fact: "Every child in the Central Plains knows about mana, core and skills; it is common talk.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Most heartland folk live and die without seeing a monster or a rift.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Names of other kingdoms are pedlar talk here: Courat, Bellhame, and the like.",
@@ -34,19 +26,11 @@ export const otherwhereXTheWiderWorld = {
     },
     {
       fact: "The regional walls ring the Central Plains; folk say one pulses, and none may go through it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Past the walls lies the wild country where rifts open and monsters come from.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "A village's news of the wide world comes from pedlars, the mill cart and passing soldiers.",
@@ -58,5 +42,5 @@ export const otherwhereXTheWiderWorld = {
     },
   ],
   createdAt: "2026-09-29T01:41:59.492Z",
-  updatedAt: "2026-10-03T19:45:03.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

@@ -14,11 +14,7 @@ export const otherwhereXAubreyKell = {
     },
     {
       fact: "Lord Kell holds the vale, and his steward comes at quarter days.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Aubrey Kell is forty-eight and holds Kell Manor at Wexley's edge, not in the vale.",
@@ -46,5 +42,5 @@ export const otherwhereXAubreyKell = {
     },
   ],
   createdAt: "2026-09-29T01:48:59.560Z",
-  updatedAt: "2026-10-03T19:45:03.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

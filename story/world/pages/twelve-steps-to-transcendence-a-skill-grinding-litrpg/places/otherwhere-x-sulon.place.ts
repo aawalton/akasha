@@ -86,19 +86,11 @@ export const otherwhereXSulon = {
     },
     {
       fact: "In Sulon everyone awakens at fourteen, and a village marks each awakening with a feast.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Rifts seldom open in the heartland; when one does, soldiers and guild come and villages empty.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Heartland folk hold a Tier 1 fighter great, and a Tier 3 magister a figure out of legend.",
@@ -114,29 +106,17 @@ export const otherwhereXSulon = {
     },
     {
       fact: "Sulon is the king's land: farms and sheep, with a village every few miles all the way round.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "The king's soldiers keep Sulon's roads.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Far off from Sulon's heartland lie the walls, and past the walls, monsters.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
   ],
   createdAt: "2026-09-28T23:53:05.477Z",
-  updatedAt: "2026-10-03T19:45:03.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Place

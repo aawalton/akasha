@@ -6,7 +6,7 @@ export const otherwhereXStanding = {
   slug: "otherwhere-x-standing",
   title: "Standing",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-standing",
+  about: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   facts: [
     {
       fact: "A turn is marked on keeping her word, respect, aid given, fair dealing and honesty.",
@@ -58,5 +58,5 @@ export const otherwhereXStanding = {
     },
   ],
   createdAt: "2026-09-29T01:51:42.137Z",
-  updatedAt: "2026-09-29T01:51:45.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

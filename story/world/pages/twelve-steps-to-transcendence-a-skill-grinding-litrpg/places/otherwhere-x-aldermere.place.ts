@@ -14,11 +14,7 @@ export const otherwhereXAldermere = {
     },
     {
       fact: "The king's steward for the north sits at Aldermere, and the vale's business goes there.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-aldous-crane"],
     },
     {
       fact: "Aldermere keeps a garrison, a magistrate's hall and a guild hall of its own.",
@@ -40,5 +36,5 @@ export const otherwhereXAldermere = {
     },
   ],
   createdAt: "2026-09-29T01:49:19.199Z",
-  updatedAt: "2026-10-03T19:45:03.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Place

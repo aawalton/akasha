@@ -71,9 +71,9 @@ export const otherwhereXHarrowVale = {
     },
     {
       fact: "On the afternoon of day one, the local dogs all howled at once.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T23:54:55.133Z",
-  updatedAt: "2026-09-29T01:49:04.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Place

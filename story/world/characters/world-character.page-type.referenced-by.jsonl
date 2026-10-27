@@ -2,7 +2,6 @@
 {"propertySlug":"extends-type","path":"story/world/characters/character-player/character-player.page-type.ts","id":"01a0c9ee-c13b-7e54-a823-a455c8cf45ac"}
 {"propertySlug":"import","fileName":"world-character.page-type.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.ts","path":"command/pages/story/settle/modules/settle-character/settle-character.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"world-character.page-type.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/checks/otherwhere-x-standing.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.ts","path":"story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/characters/character-other/character-other.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/characters/character-player/character-player.page-type.types.ts","typed":true,"deferred":false}
@@ -2372,7 +2371,6 @@
 {"propertySlug":"target-page-type","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/skills/properties/overwhere-iv-skill-character.relation-property.ts","id":"01a0ed1b-1aed-7115-95a2-ed2207f31a89"}
 {"propertySlug":"target-page-type","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/reputations/properties/overwhere-iii-reputation-character.relation-property.ts","id":"01a0ed2d-fea0-73e7-bc8f-22459708572c"}
 {"propertySlug":"target-page-type","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/skills/properties/overwhere-iii-skill-character.relation-property.ts","id":"01a0ed2d-2c5d-7074-bec8-03a4b3db516f"}
-{"propertySlug":"target-page-type","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/skills/properties/otherwhere-x-skill-character.relation-property.ts","id":"01a0ea7c-4061-75ea-a07d-2c388df3d2a7"}
 {"propertySlug":"target-page-type","path":"story/world/properties/reading-character.relation-property.ts","id":"01a0d3cb-ae43-75ef-bbd5-cfe20827da69"}
 {"propertySlug":"view-page-type","path":"page/view/pages/characters-alphabetical.view.ts","id":"01a0c940-f015-75f6-8db4-7ac9450de7f7"}
 {"propertySlug":"view-page-type","path":"page/view/pages/characters-most-seen.view.ts","id":"01a0c940-deed-7a99-9b05-12fa214b9b30"}

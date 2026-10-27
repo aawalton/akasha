@@ -6,13 +6,13 @@ export const otherwhereXPapers = {
   slug: "otherwhere-x-papers",
   title: "Papers and Suspicion",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-papers",
+  about: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   facts: [
     {
       fact: "A road token, asked of travellers, is a reeve's letter or a stamped tally.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T00:50:25.902Z",
-  updatedAt: "2026-09-29T00:50:29.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

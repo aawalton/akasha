@@ -6,7 +6,7 @@ export const otherwhereXSurvival = {
   slug: "otherwhere-x-survival",
   title: "Survival",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-survival",
+  about: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   facts: [
     {
       fact: "A body's needs are counted in hours: since a drink, since a meal, awake, and in the cold.",
@@ -78,5 +78,5 @@ export const otherwhereXSurvival = {
     },
   ],
   createdAt: "2026-09-29T01:51:04.412Z",
-  updatedAt: "2026-09-29T01:51:08.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

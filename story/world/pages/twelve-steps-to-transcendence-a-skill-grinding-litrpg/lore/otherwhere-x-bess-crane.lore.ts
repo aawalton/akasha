@@ -18,15 +18,11 @@ export const otherwhereXBessCrane = {
     },
     {
       fact: "Bess will not turn a barefoot woman away hungry, whatever Aldous thinks of her.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "character-other/otherwhere-x-bess-crane",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-x-bess-crane"],
     },
     {
       fact: "The stout woman at the Cranes' door says anyone on her doorstep gets fed.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bess was born in Wexley, the daughter of a chandler, and has kin there still.",
@@ -50,5 +46,5 @@ export const otherwhereXBessCrane = {
     },
   ],
   createdAt: "2026-09-29T01:46:23.912Z",
-  updatedAt: "2026-10-03T19:45:18.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

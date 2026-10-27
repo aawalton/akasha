@@ -6,7 +6,6 @@
 {"propertySlug":"extends-type","path":"story/world/pages/sovereign-sight-progression-fantasy-cultivation/stories/played/overwhere-ii/mechanics/talents/overwhere-ii-talent.page-type.ts","id":"01a0ed17-fe33-7511-a427-5770eb83aeb1"}
 {"propertySlug":"extends-type","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/skills/overwhere-iv-skill.page-type.ts","id":"01a0ed1b-1aec-7cc5-b168-ec7265608cd4"}
 {"propertySlug":"extends-type","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/skills/overwhere-iii-skill.page-type.ts","id":"01a0ed2d-2c5c-78f6-9786-69d8cab391e1"}
-{"propertySlug":"extends-type","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/skills/otherwhere-x-skill.page-type.ts","id":"01a0ea7c-4060-75df-b0ed-90f543ecfc55"}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
@@ -4704,7 +4703,6 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/skills/otherwhere-x-tale-telling.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/skills/otherwhere-x-unarmed-combat.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/skills/otherwhere-x-warforged.world-skill.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/skills/otherwhere-x-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/skills/character-skill/properties/held-skill.relation-property.ts","id":"01a10362-0c7c-7e04-9df8-e6bff42d988e"}
 {"propertySlug":"target-page-type","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/techniques/properties/otherwhere-vii-technique-skill.relation-property.ts","id":"01a0ea42-5750-7b6a-b202-2e2bf40eda5f"}
@@ -4714,6 +4712,5 @@
 {"propertySlug":"target-page-type","path":"story/world/pages/sovereign-sight-progression-fantasy-cultivation/stories/played/overwhere-ii/mechanics/talents/properties/overwhere-ii-talent-talent.relation-property.ts","id":"01a0ed17-fe34-75a5-8698-7d4cd0cb3b11"}
 {"propertySlug":"target-page-type","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/skills/properties/overwhere-iv-skill-skill.relation-property.ts","id":"01a0ed1b-1aed-7b74-b179-e2621c08ec11"}
 {"propertySlug":"target-page-type","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/skills/properties/overwhere-iii-skill-skill.relation-property.ts","id":"01a0ed2d-2c5e-7d1d-9915-41c2d22b35db"}
-{"propertySlug":"target-page-type","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/skills/properties/otherwhere-x-skill-skill.relation-property.ts","id":"01a0ea7c-4061-7085-b1bc-114083b0a4fe"}
 {"propertySlug":"view-page-type","path":"page/view/pages/skills-alphabetical.view.ts","id":"01a0c954-1289-70ab-9473-94b0ce50f4b5"}
 {"propertySlug":"view-page-type","path":"page/view/pages/skills-most-seen.view.ts","id":"01a0c954-126b-7843-9cc6-4caf0b3729bb"}

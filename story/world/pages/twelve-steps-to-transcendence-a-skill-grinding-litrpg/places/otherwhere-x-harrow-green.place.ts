@@ -10,7 +10,7 @@ export const otherwhereXHarrowGreen = {
   facts: [
     {
       fact: "Harrow Green is the open grass at the middle of the village, with the well and the bell post.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The cottages ring the green, and the Sheaf and the Cranes' house face onto it.",
@@ -48,5 +48,5 @@ export const otherwhereXHarrowGreen = {
     },
   ],
   createdAt: "2026-09-29T01:49:39.503Z",
-  updatedAt: "2026-09-29T04:12:15.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Place

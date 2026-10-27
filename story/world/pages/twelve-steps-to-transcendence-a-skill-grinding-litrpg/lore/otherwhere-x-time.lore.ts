@@ -6,7 +6,7 @@ export const otherwhereXTime = {
   slug: "otherwhere-x-time",
   title: "Time",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-time",
+  about: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   facts: [
     {
       fact: "Day one is Monday the twenty-eighth of September, and days are counted from it.",
@@ -58,5 +58,5 @@ export const otherwhereXTime = {
     },
   ],
   createdAt: "2026-09-29T01:50:48.503Z",
-  updatedAt: "2026-09-29T01:50:52.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

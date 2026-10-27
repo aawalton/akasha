@@ -6,7 +6,7 @@ export const otherwhereXBargaining = {
   slug: "otherwhere-x-bargaining",
   title: "Bargaining",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-bargaining",
+  about: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   facts: [
     {
       fact: "Ten copper make a silver, and twenty silver a gold.",
@@ -54,5 +54,5 @@ export const otherwhereXBargaining = {
     },
   ],
   createdAt: "2026-09-29T01:51:42.136Z",
-  updatedAt: "2026-09-29T01:51:45.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore

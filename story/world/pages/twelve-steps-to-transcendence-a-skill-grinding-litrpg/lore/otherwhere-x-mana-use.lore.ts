@@ -6,7 +6,7 @@ export const otherwhereXManaUse = {
   slug: "otherwhere-x-mana-use",
   title: "Mana Use",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-mana-use",
+  about: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   facts: [
     {
       fact: "A Tier 0 has no mana to spend, whatever she tries.",
@@ -58,5 +58,5 @@ export const otherwhereXManaUse = {
     },
   ],
   createdAt: "2026-09-29T01:51:26.173Z",
-  updatedAt: "2026-09-29T01:51:29.000Z",
+  updatedAt: "2026-10-27T19:34:48.550Z",
 } as const satisfies Lore
