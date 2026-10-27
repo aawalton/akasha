@@ -15,16 +15,18 @@ local ANCHOR_CONSTRAINTS = {
   ANCHOR_CONSTRAINS_XY = _G.ANCHOR_CONSTRAINS_XY,
 }
 
-local function told(control, event)
+local function told(control, event, ...)
   local named = {}
   for key in pairs(control.uiHandlers) do
     if string.sub(key, 1, #event + 1) == event .. ":" then insert(named, key) end
   end
   table.sort(named)
   local unnamed = control.uiHandlers[event]
-  if unnamed ~= nil then unnamed(control) end
-  for _, key in ipairs(named) do control.uiHandlers[key](control) end
+  if unnamed ~= nil then unnamed(control, ...) end
+  for _, key in ipairs(named) do control.uiHandlers[key](control, ...) end
 end
+
+_G.__ui_told = told
 
 local function toldBelow(control, event)
   told(control, event)

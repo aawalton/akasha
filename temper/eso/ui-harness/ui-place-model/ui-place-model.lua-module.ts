@@ -219,7 +219,12 @@ export const uiPlaceModel = {
       decisionKind: "decision-kind/departure",
       statement: "A call that raises leaves no control marked as being placed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Many controls are placed in one call, and one that raises is left out of the answer.",
+    },
   ],
   createdAt: "2026-09-22T16:27:03.745Z",
-  updatedAt: "2026-10-27T19:08:33.255Z",
+  updatedAt: "2026-10-27T19:11:25.299Z",
 } as const satisfies LuaModule

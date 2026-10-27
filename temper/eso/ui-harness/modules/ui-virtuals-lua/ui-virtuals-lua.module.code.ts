@@ -31,6 +31,10 @@ const HANDED: Readonly<Record<string, string>> = {
   OnUpdate: "time",
   OnDragStart: "button",
   OnReceiveDrag: "button",
+  OnRectChanged: "newLeft, newTop, newRight, newBottom, oldLeft, oldTop, oldRight, oldBottom",
+  OnRectWidthChanged: "newWidth, oldWidth",
+  OnRectHeightChanged: "newHeight, oldHeight",
+  OnResizedToFit: "newWidth, newHeight",
 }
 
 function handedTo(event: string): string {

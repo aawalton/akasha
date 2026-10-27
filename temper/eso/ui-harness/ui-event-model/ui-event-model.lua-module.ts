@@ -83,7 +83,32 @@ export const uiEventModel = {
       decisionKind: "decision-kind/departure",
       statement: "Every error run past is kept, once each, so a caller can name it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each round of settling then compares every shown control's rect with the last seen.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control not seen before was last seen with no rect at the screen's corner.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control whose rect changed is told so, with its new and its old edges.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control whose width or height changed is told of that measure too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control growing to fit whose size changed is told it was resized to fit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Settling goes on while a rect changed, so a handler moving a control is seen.",
+    },
   ],
   createdAt: "2026-09-22T14:36:26.746Z",
-  updatedAt: "2026-10-18T20:23:03.716Z",
+  updatedAt: "2026-10-27T19:11:25.299Z",
 } as const satisfies LuaModule

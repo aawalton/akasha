@@ -42,6 +42,11 @@ export const uiControlMethods = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Telling a control of an event runs the unnamed handler, then the named ones by name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control hidden by a forebear reads as hidden.",
     },
     {
@@ -129,5 +134,5 @@ export const uiControlMethods = {
     },
   ],
   createdAt: "2026-09-24T15:32:39.418Z",
-  updatedAt: "2026-10-18T23:39:39.149Z",
+  updatedAt: "2026-10-27T19:11:25.299Z",
 } as const satisfies LuaModule

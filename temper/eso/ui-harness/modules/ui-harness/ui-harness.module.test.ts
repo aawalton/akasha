@@ -11,6 +11,7 @@ import {
   openProbed,
   PER_EM,
   SIZE,
+  toldSince,
 } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.test-fixtures.ts"
 
 const PROBE = 2389
@@ -248,6 +249,67 @@ describe("ui-harness", () => {
     const padded = await harness.snapshot("TemperPadded")
     expect(padded?.width).toBe(120)
     expect(padded?.height).toBe(50)
+  })
+
+  test("a control whose rect changed is told its new and old edges at settling, by each handler", async () => {
+    const first = await toldSince(
+      harness,
+      `local moving = WINDOW_MANAGER:CreateTopLevelWindow("TemperMoving")
+      moving:SetDimensions(100, 50)
+      moving:SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, 10, 20)
+      moving:SetHandler("OnRectChanged", function(_, ...) TemperTell("unnamed", ...) end)
+      moving:SetHandler("OnRectChanged", function(_, ...) TemperTell("named", ...) end, "Layout")`
+    )
+    expect(first).toBe("unnamed 10 20 110 70 0 0 0 0|named 10 20 110 70 0 0 0 0")
+    const moved = await toldSince(
+      harness,
+      "TemperMoving:ClearAnchors() TemperMoving:SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, 30, 20)"
+    )
+    expect(moved).toBe("unnamed 30 20 130 70 10 20 110 70|named 30 20 130 70 10 20 110 70")
+    expect(await toldSince(harness, "")).toBe("")
+  })
+
+  test("a control whose width alone changed is told of its width and not its height", async () => {
+    await toldSince(
+      harness,
+      `local sized = WINDOW_MANAGER:CreateTopLevelWindow("TemperSized")
+      sized:SetDimensions(100, 50)
+      sized:SetHandler("OnRectWidthChanged", function(_, ...) TemperTell("width", ...) end)
+      sized:SetHandler("OnRectHeightChanged", function(_, ...) TemperTell("height", ...) end)`
+    )
+    expect(await toldSince(harness, "TemperSized:SetWidth(140)")).toBe("width 140 100")
+    expect(await toldSince(harness, "TemperSized:SetHeight(20)")).toBe("height 20 50")
+  })
+
+  test("a control growing to fit is told its new size when what it holds grows", async () => {
+    await toldSince(
+      harness,
+      `local fitting = WINDOW_MANAGER:CreateTopLevelWindow("TemperFitting")
+      fitting:SetResizeToFitDescendents(true)
+      WINDOW_MANAGER:CreateControl("TemperFittingInside", fitting, CT_CONTROL):SetDimensions(60, 30)
+      fitting:SetHandler("OnResizedToFit", function(_, ...) TemperTell("fitted", ...) end)`
+    )
+    const grown = await toldSince(harness, "TemperFittingInside:SetDimensions(80, 30)")
+    expect(grown).toBe("fitted 80 30")
+  })
+
+  test("a hidden control is told its rect changed once it is shown", async () => {
+    await toldSince(
+      harness,
+      `local hiding = WINDOW_MANAGER:CreateTopLevelWindow("TemperHiding")
+      hiding:SetDimensions(100, 50)
+      hiding:SetHidden(true)
+      hiding:SetHandler("OnRectChanged", function(_, ...) TemperTell("shown", ...) end)`
+    )
+    expect(await toldSince(harness, "TemperHiding:SetWidth(40)")).toBe("")
+    expect(await toldSince(harness, "TemperHiding:SetHidden(false)")).toBe(
+      "shown 0 0 40 50 0 0 0 0"
+    )
+  })
+
+  test("a handler a document declares for a changed width names the new and the old width", async () => {
+    const made = `WINDOW_MANAGER:CreateControlFromVirtual("TemperDeclared", GuiRoot, "TemperDeclaredWide")`
+    expect(await toldSince(harness, made)).toBe("declared 70 0")
   })
 
   test("a control named nothing is answered with nothing", async () => {

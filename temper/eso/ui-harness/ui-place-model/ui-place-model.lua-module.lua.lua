@@ -354,6 +354,21 @@ end
 
 _G.__ui_place = place
 
+function _G.__ui_rects(controls)
+  local rects = {}
+  worked = {}
+  for _, control in ipairs(controls) do
+    local ok, left, top, width, height = pcall(placed, control)
+    if ok then
+      rects[control] = { left, top, left + width, top + height }
+    else
+      placing, worked = {}, {}
+    end
+  end
+  worked = nil
+  return rects
+end
+
 local function charactersOf(line)
   local found = {}
   for one in string.gmatch(line, CHARACTER) do found[#found + 1] = one end

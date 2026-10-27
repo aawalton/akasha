@@ -178,12 +178,47 @@ local function runLater()
   return ran
 end
 
+local UNSEEN = { 0, 0, 0, 0 }
+
+local function toldOf(control, event, ...)
+  local ok, thrown = pcall(_G.__ui_told, control, event, ...)
+  if not ok then _G.__ui_swallow(tostring(control.uiName) .. " " .. event, thrown) end
+end
+
+local function sameRect(one, other)
+  return one[1] == other[1] and one[2] == other[2] and one[3] == other[3] and one[4] == other[4]
+end
+
+local function rectsChanged()
+  local shown = shownFrom(_G.GuiRoot, {})
+  local rects = _G.__ui_rects(shown)
+  local moved = 0
+  for _, control in ipairs(shown) do
+    local now, was = rects[control], control.uiRectSeen or UNSEEN
+    if now ~= nil and not sameRect(now, was) then
+      control.uiRectSeen = now
+      moved = moved + 1
+      toldOf(control, "OnRectChanged", now[1], now[2], now[3], now[4], was[1], was[2], was[3], was[4])
+      local width, height = now[3] - now[1], now[4] - now[2]
+      local oldWidth, oldHeight = was[3] - was[1], was[4] - was[2]
+      if width ~= oldWidth then toldOf(control, "OnRectWidthChanged", width, oldWidth) end
+      if height ~= oldHeight then toldOf(control, "OnRectHeightChanged", height, oldHeight) end
+      if control.uiResizeToFit and (width ~= oldWidth or height ~= oldHeight) then
+        toldOf(control, "OnResizedToFit", width, height)
+      end
+    end
+  end
+  return moved
+end
+
 function _G.__ui_settle(rounds)
   local ran = 0
   local passes = rounds or 8
   for _ = 1, passes do
     ran = ran + runLater() + frame()
-    if #later == 0 then break end
+    local moved = rectsChanged()
+    ran = ran + moved
+    if #later == 0 and moved == 0 then break end
   end
   return ran
 end

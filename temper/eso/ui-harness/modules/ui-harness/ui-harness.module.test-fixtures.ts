@@ -152,6 +152,31 @@ const ELLIPSED = `<GuiXml><Controls>
   </Label>
 </Controls></GuiXml>`
 
+const DECLARED_WIDE = `<GuiXml><Controls>
+  <Control name="TemperDeclaredWide" virtual="true">
+    <Dimensions x="70" y="10" />
+    <OnRectWidthChanged>TemperTell("declared", newWidth, oldWidth)</OnRectWidthChanged>
+  </Control>
+</Controls></GuiXml>`
+
+const TELLING = `
+TemperTold = {}
+function TemperTell(...)
+  local said = {}
+  for at = 1, select("#", ...) do
+    local one = select(at, ...)
+    said[at] = type(one) == "number" and string.format("%g", one) or tostring(one)
+  end
+  table.insert(TemperTold, table.concat(said, " "))
+end
+`
+
+export async function toldSince(harness: UiHarness, lua: string): Promise<unknown> {
+  await harness.load(`${TELLING}${lua}`)
+  await harness.settle()
+  return harness.load("return table.concat(TemperTold, '|')")
+}
+
 const DECLARED = `
 WINDOW_MANAGER:CreateControlFromVirtual("TemperWrappedDeclared", GuiRoot, "TemperEllipsedTemplate")
 `
@@ -179,7 +204,7 @@ export async function openProbed(): Promise<UiHarness> {
   await harness.load(HELD)
   await harness.load(MEASURED)
   await harness.load(WRAPPED)
-  await harness.templates(virtualsLua(virtualsFrom([TIPS, ELLIPSED]), 10))
+  await harness.templates(virtualsLua(virtualsFrom([TIPS, ELLIPSED, DECLARED_WIDE]), 10))
   await harness.load(TIPPED)
   await harness.load(DECLARED)
   return harness
