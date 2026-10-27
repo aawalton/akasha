@@ -8,7 +8,7 @@ export const temperWeb = {
   resourceKind: "Deployment",
   namespace: "temper",
   resourceName: "web",
-  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
+  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git",
   replicas: 1,
   containerPort: 3000,
   probePath: "/api/watcher/version",
@@ -48,6 +48,6 @@ export const temperWeb = {
     "secret/git-transport-secrets-git-access-token",
     "secret/temper-secrets-session-key",
   ],
-  updatedAt: "2026-10-26T21:22:20.195Z",
+  updatedAt: "2026-10-27T07:38:37.802Z",
   createdAt: "2026-09-01T04:07:55.830Z",
 } as const satisfies ServiceCluster

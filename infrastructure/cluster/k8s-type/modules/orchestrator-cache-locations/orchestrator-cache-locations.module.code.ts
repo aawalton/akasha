@@ -1,3 +1,5 @@
+import { sourcedRef } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
+
 export interface CacheLocation {
   readonly backing: "hostPath" | "emptyDir"
   readonly hostPath: string
@@ -40,4 +42,4 @@ export const BUN_INSTALL_CACHED = {
   value: `${ORCHESTRATOR_CACHE_MOUNT_PATH}/.bun-install-cache`,
 } as const
 
-export const BUN_RUNTIME_IMAGE = "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest"
+export const BUN_RUNTIME_IMAGE = sourcedRef("cluster/bun-git")

@@ -91,7 +91,12 @@ export const workloadDeploying = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads a page.",
+      statement: "Nothing here reads a page but the built image a placeholder tag names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A placeholder tag is given the hash of the tree deployed before anything is planned.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -134,5 +139,5 @@ export const workloadDeploying = {
     },
   ],
   createdAt: "2026-09-01T03:15:54.902Z",
-  updatedAt: "2026-09-27T14:21:43.000Z",
+  updatedAt: "2026-10-27T07:38:37.802Z",
 } as const satisfies Module

@@ -119,6 +119,11 @@ export const deployWebPuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A built image the manifests name is built where the registry lacks it, before any apply.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A build that failed leaves the version running serving.",
     },
     {
@@ -168,5 +173,5 @@ export const deployWebPuttingUp = {
     },
   ],
   createdAt: "2026-09-02T00:41:45.895Z",
-  updatedAt: "2026-09-26T18:12:38.000Z",
+  updatedAt: "2026-10-27T07:38:37.802Z",
 } as const satisfies Module

@@ -8,7 +8,10 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { builtFrom } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
-import { heldInRegistry } from "akasha/infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"
+import {
+  heldInRegistry,
+  publishedFor,
+} from "akasha/infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"
 import { DeployRefused } from "akasha/infrastructure/service/akasha-service/secret/modules/placing/secret-placing.module.code.ts"
 import {
   alreadyBuilt,
@@ -270,6 +273,19 @@ export async function putUpWebApp(
         OPERATIONAL
       )
     }
+  }
+
+  try {
+    for (const one of await publishedFor(
+      plan.manifests.map((manifest) => manifest.yaml),
+      codeAt,
+      up
+    )) {
+      report.push(`image\t${one.ref}\t${one.held ? "in the registry" : "built and pushed"}`)
+    }
+  } catch (thrown) {
+    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    return answeredWith(report, [why], OPERATIONAL)
   }
 
   const putting: Putting = {

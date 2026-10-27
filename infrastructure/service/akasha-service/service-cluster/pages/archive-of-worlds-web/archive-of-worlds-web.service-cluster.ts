@@ -8,7 +8,7 @@ export const archiveOfWorldsWeb = {
   resourceKind: "Deployment",
   namespace: "archive-of-worlds",
   resourceName: "web",
-  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
+  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git",
   replicas: 1,
   containerPort: 3000,
   probePath: "/api/health",
@@ -28,5 +28,5 @@ export const archiveOfWorldsWeb = {
     "secret/git-transport-secrets-git-access-token",
   ],
   createdAt: "2026-09-01T04:07:55.830Z",
-  updatedAt: "2026-09-25T16:37:40.000Z",
+  updatedAt: "2026-10-27T07:38:37.802Z",
 } as const satisfies ServiceCluster

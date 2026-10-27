@@ -6,6 +6,10 @@ import {
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
 import { CHECKOUT_PLACEHOLDER } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
+import {
+  SOURCE_PLACEHOLDER,
+  withSources,
+} from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import type { Workload } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 
 const KUBECTL = "kubectl"
@@ -162,7 +166,7 @@ export async function planFor(
     if (typeof entry.name !== "string" || typeof entry.yaml !== "string") {
       return `${synthPath} emitted an entry carrying no name and body`
     }
-    entries.push({ name: entry.name, yaml: entry.yaml })
+    entries.push({ name: entry.name, yaml: withSources(entry.yaml, root) })
   }
   return plannedFrom(workload, synthPath, entries)
 }
@@ -211,7 +215,7 @@ export function planFromFile(
 ): Plan | string {
   const held = textThere(join(root, manifestsPath))
   if (held === null) return `${manifestsPath} holds no manifests`
-  return plannedFrom(workload, manifestsPath, documentsIn(filled(held)))
+  return plannedFrom(workload, manifestsPath, documentsIn(withSources(filled(held), root)))
 }
 
 export function unfilledIn(manifest: Manifest): readonly string[] {
@@ -224,6 +228,9 @@ export function unfilledIn(manifest: Manifest): readonly string[] {
   }
   if (manifest.yaml.includes(CHECKOUT_PLACEHOLDER)) {
     left.push("the commit a checkout is reset to is a placeholder nothing filled in")
+  }
+  if (manifest.yaml.includes(`:${SOURCE_PLACEHOLDER}`)) {
+    left.push("an image names a placeholder tag that no built image's page answers for")
   }
   return left
 }

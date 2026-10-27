@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { CHECKOUT_PLACEHOLDER } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import { GIT_TRANSPORT_ORIGIN } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { SOURCE_PLACEHOLDER } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import {
   manifestsOf,
   type Stated,
@@ -127,6 +128,13 @@ test("the instance label a page states is the one the selector names", () => {
 
 test("a cluster service keeping a checkout runs the image its page states, tag and all", () => {
   expect(containerNamed(manifestsOf(SYNCED), "web")?.image).toBe(SYNCED.image)
+})
+
+test("a cluster service keeping a checkout runs an untagged image at the placeholder a deploy fills", () => {
+  const untagged = { ...SYNCED, image: "registry.registry.svc.cluster.local:5000/cluster/one-git" }
+  expect(containerNamed(manifestsOf(untagged), "web")?.image).toBe(
+    `registry.registry.svc.cluster.local:5000/cluster/one-git:${SOURCE_PLACEHOLDER}`
+  )
 })
 
 test("a checkout is cloned into the directory the page states and reset to the placeholder", () => {

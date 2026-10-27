@@ -16,7 +16,12 @@ export const workloadWriting = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An image a page names with no tag is written with the placeholder a deploy fills.",
+    },
   ],
   createdAt: "2026-09-25T16:36:42.311Z",
-  updatedAt: "2026-09-25T16:37:05.000Z",
+  updatedAt: "2026-10-27T07:38:37.802Z",
 } as const satisfies Module

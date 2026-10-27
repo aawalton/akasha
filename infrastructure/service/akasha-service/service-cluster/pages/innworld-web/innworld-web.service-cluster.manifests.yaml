@@ -57,7 +57,7 @@ spec:
           envFrom:
             - secretRef:
                 name: innworld-secrets
-          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
+          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:IMAGE_SOURCE
           imagePullPolicy: IfNotPresent
           lifecycle:
             preStop:
@@ -126,7 +126,7 @@ spec:
               value: /tmp
             - name: BUN_INSTALL_CACHE_DIR
               value: /app/.bun-install-cache
-          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
+          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:IMAGE_SOURCE
           imagePullPolicy: IfNotPresent
           name: code-sync
           resources:
@@ -153,7 +153,7 @@ spec:
             - sh
             - -c
             - chown 1000:1000 /app
-          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
+          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:IMAGE_SOURCE
           imagePullPolicy: IfNotPresent
           name: init-chown-cache
           resources:
@@ -228,7 +228,7 @@ spec:
               value: /tmp
             - name: BUN_INSTALL_CACHE_DIR
               value: /app/.bun-install-cache
-          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
+          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:IMAGE_SOURCE
           imagePullPolicy: IfNotPresent
           name: init-code
           resources:
@@ -301,7 +301,7 @@ spec:
           envFrom:
             - secretRef:
                 name: innworld-secrets
-          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
+          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:IMAGE_SOURCE
           imagePullPolicy: IfNotPresent
           name: init-build
           resources:

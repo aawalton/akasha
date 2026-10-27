@@ -8,7 +8,7 @@ export const innworldWeb = {
   resourceKind: "Deployment",
   namespace: "innworld",
   resourceName: "web",
-  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
+  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git",
   replicas: 1,
   containerPort: 3000,
   probePath: "/api/health",
@@ -23,5 +23,5 @@ export const innworldWeb = {
   manifests: "yaml",
   secrets: ["secret/git-transport-secrets-git-access-token"],
   createdAt: "2026-09-21T21:42:56.496Z",
-  updatedAt: "2026-09-25T16:41:22.000Z",
+  updatedAt: "2026-10-27T07:38:37.802Z",
 } as const satisfies ServiceCluster
