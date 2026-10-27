@@ -221,6 +221,7 @@ export function shaped(pages: Readonly<Record<string, string>>): Shaped {
     },
     fieldsOf: (propertySlug) => (propertySlug === "parts" ? ["part-slugs"] : []),
     slugOfKeyIn: (_value, key) => KEYED[key] ?? null,
+    targetIn: (_value, key) => TARGETS[KEYED[key] ?? ""] ?? null,
     fieldOfKey: (propertySlug, key) => {
       const slug = KEYED[key] ?? null
       const fields = propertySlug === "parts" ? ["part-slugs"] : []

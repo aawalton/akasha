@@ -189,7 +189,7 @@ export type Adding = {
   readonly body: string
 }
 
-const KNOWS_NOTHING: Shaped = {
+const KNOWS_NOTHING: Omit<Shaped, "targetIn"> = {
   targetOf: () => null,
   admitting: () => [],
   mortal: () => false,
@@ -203,7 +203,12 @@ const KNOWS_NOTHING: Shaped = {
 }
 
 export function knownOf(said: Partial<Shaped>): Shaped {
-  return { ...KNOWS_NOTHING, ...said }
+  const made = { ...KNOWS_NOTHING, ...said }
+  const targetIn: Shaped["targetIn"] = (value, key) => {
+    const slug = made.slugOfKeyIn(value, key)
+    return slug === null ? null : made.targetOf(slug)
+  }
+  return { ...made, targetIn: said.targetIn ?? targetIn }
 }
 
 export function bodyOf(said: Answer, textOf: BodyOf = () => null): string {

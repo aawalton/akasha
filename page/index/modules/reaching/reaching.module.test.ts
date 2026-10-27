@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { cases } from "akasha/agent/model/test/properties/cases.page-property-entry.ts"
+import { pageDomain } from "akasha/domain/properties/page-domain.relation-property.ts"
 import {
   B,
   C,
@@ -26,6 +27,8 @@ import { lineFiled } from "akasha/page/index/test-fixtures/filing/index-filing.t
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { pagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.ts"
+import { relationProperty } from "akasha/page/relation-property/relation-property.page-type.ts"
+import { selectProperty } from "akasha/page/select-property/select-property.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
@@ -366,6 +369,39 @@ test("a property naming members that declare no fields has none of its own", () 
   const known = knownAt(root, repo)
 
   expect(known.fieldsOf("either")).toEqual([])
+})
+
+function sharingSlug(): { readonly root: string; readonly repo: string } {
+  const { root, repo } = grounded()
+  declaring(
+    root,
+    selectProperty.slug,
+    pageDomain.slug,
+    { propertySlug: pageDomain.propertySlug },
+    repo
+  )
+  const typed = (slug: string, said: string, id: string): undefined => {
+    const path = `${slug}.page-type.ts`
+    const value = {
+      id,
+      type: `${pageType.slug}/${pageType.slug}`,
+      slug,
+      properties: [{ pageProperty: said }],
+    }
+    writeFileSync(join(repo, path), `export const it = ${JSON.stringify(value)}\n`)
+    lineFiled(root, `page-type/page-type/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
+  }
+  typed("chore", `${selectProperty.slug}/${pageDomain.slug}`, "5")
+  typed("plot", `${relationProperty.slug}/${pageDomain.slug}`, "6")
+  return { root, repo }
+}
+
+test("a slug two kinds of property share reaches the target of the one the page's type declares", () => {
+  const { root, repo } = sharingSlug()
+  const known = knownAt(root, repo)
+
+  expect(known.targetIn({ type: `${pageType.slug}/chore` }, "domain")).toBe(null)
+  expect(known.targetIn({ type: `${pageType.slug}/plot` }, "domain")).toBe("domain")
 })
 
 test("a name carrying a scope under a page type the target does not admit is refused", () => {

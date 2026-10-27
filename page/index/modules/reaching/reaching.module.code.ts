@@ -17,7 +17,10 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { propertiesIfNamedOf } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import {
+  type Carried,
+  propertiesIfNamedOf,
+} from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 
 const RECORD = "record-property"
@@ -60,6 +63,7 @@ type Scoping = {
 export type Shaped = Known & {
   readonly fieldsOf: (propertySlug: string) => readonly string[]
   readonly slugOfKeyIn: (value: Value, key: string) => string | null
+  readonly targetIn: (value: Value, key: string) => Wanted
   readonly fieldOfKey: (propertySlug: string, key: string) => string | null
   readonly rowFieldOfKey: (slug: string, key: string) => string | null
   readonly entriedIn: (value: Value) => readonly Rowed[]
@@ -89,26 +93,39 @@ function membersIn(value: Value): readonly string[] {
 
 export function knownIn(reading: Reading, pageOf: (path: string) => Value | null): Shaped {
   const target = new Map<string, string>()
+  const targetOfKind = new Map<string, string>()
+  const slugs = new Set<string>()
+  const shared = new Set<string>()
   const keyOfSlug = new Map<string, string>()
   const keyed = new Map<string, string[]>()
+  const keyedKinds = new Map<string, { readonly kind: string; readonly slug: string }[]>()
   for (const held of shapesAt(reading).values()) {
+    if (slugs.has(held.slug)) shared.add(held.slug)
+    slugs.add(held.slug)
     const named = held.targetPageTypeSlug
-    if (named !== null) target.set(held.slug, named)
+    if (named !== null) {
+      target.set(held.slug, named)
+      targetOfKind.set(`${held.pageTypeSlug}/${held.slug}`, named)
+    }
     if (held.propertySlug === "") continue
     const key = exportedAs(held.propertySlug)
     keyOfSlug.set(held.slug, key)
     keyed.set(key, [...(keyed.get(key) ?? []), held.slug])
+    const carrying = { kind: held.pageTypeSlug, slug: held.slug }
+    keyedKinds.set(key, [...(keyedKinds.get(key) ?? []), carrying])
   }
-  const carried = new Map<string, ReadonlyMap<string, string>>()
-  const carriedBy = (pageTypeSlug: string): ReadonlyMap<string, string> => {
-    const found = carried.get(pageTypeSlug)
-    if (found !== undefined) return found
-    const made = new Map<string, string>()
-    for (const one of propertiesIfNamedOf(pageTypeSlug, reading, pageOf) ?? []) {
-      made.set(one.key, one.pagePropertySlug)
+  const carried = new Map<string, ReadonlyMap<string, Carried>>()
+  const carriedIn = (value: Value, key: string): Carried | null => {
+    const stated = textAt(value, "type")
+    if (stated === null) return null
+    const pageTypeSlug = slugOf(stated)
+    let made = carried.get(pageTypeSlug)
+    if (made === undefined) {
+      const every = propertiesIfNamedOf(pageTypeSlug, reading, pageOf) ?? []
+      made = new Map(every.map((one) => [one.key, one]))
+      carried.set(pageTypeSlug, made)
     }
-    carried.set(pageTypeSlug, made)
-    return made
+    return made.get(key) ?? null
   }
 
   const scoped = new Map<string, Scoping | null>()
@@ -228,6 +245,25 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     return found
   }
 
+  const slugOfKeyIn = (value: Value, key: string): string | null => {
+    const held = keyed.get(key) ?? []
+    const one = held[0]
+    if (one === undefined) return null
+    if (held.length === 1) return one
+    return carriedIn(value, key)?.pagePropertySlug ?? null
+  }
+
+  const targetIn = (value: Value, key: string): Wanted => {
+    const held = keyedKinds.get(key) ?? []
+    const alone = held.length === 1 ? held[0] : undefined
+    const declared = alone === undefined ? carriedIn(value, key) : null
+    const kind = alone?.kind ?? declared?.pageTypeSlug
+    const slug = alone?.slug ?? declared?.pagePropertySlug
+    if (kind === undefined || slug === undefined) return null
+    if (!shared.has(slug)) return targetOf(slug)
+    return targetOfKind.get(`${kind}/${slug}`) ?? null
+  }
+
   return {
     targetOf,
     admitting,
@@ -235,16 +271,8 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     scoping: scopingOf,
     filed: (address) => listedEvery(reading, address),
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
-    slugOfKeyIn: (value, key) => {
-      const held = keyed.get(key) ?? []
-      const one = held[0]
-      if (one === undefined) return null
-      if (held.length === 1) return one
-      const stated = textAt(value, "type")
-      if (stated === null) return null
-      const said = carriedBy(slugOf(stated)).get(key)
-      return said === undefined ? null : said
-    },
+    slugOfKeyIn,
+    targetIn,
     fieldOfKey: (propertySlug, key) => keyedAmong(fields, propertySlug, key),
     rowFieldOfKey: (slug, key) => keyedAmong(rowFields, slug, key),
     entriedIn: (value) => {

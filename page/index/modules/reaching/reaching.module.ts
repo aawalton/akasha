@@ -114,6 +114,11 @@ export const reaching = {
       decisionKind: "decision-kind/departure",
       statement: "Which property each key of a page carries is read here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A slug two kinds of property share reaches the target of the one the page's type declares.",
+    },
 
     {
       decisionKind: "decision-kind/departure",
@@ -126,5 +131,5 @@ export const reaching = {
     },
   ],
   createdAt: "2026-08-29T20:54:01.686Z",
-  updatedAt: "2026-10-27T21:57:11.656Z",
+  updatedAt: "2026-10-27T22:16:29.654Z",
 } as const satisfies Module
