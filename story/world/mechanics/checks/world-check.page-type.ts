@@ -17,6 +17,9 @@ export const worldCheck = {
     "world-check/dragons-and-dungeons-check",
     "world-check/test-story-action-check",
     "world-check/gifted-reborn-time-passing",
+    "world-check/test-story-time-passing",
+    "world-check/test-story-training",
+    "world-check/test-story-upkeep",
   ],
   properties: [
     { pageProperty: "module-property-group/settling", required: true, many: false },
@@ -76,5 +79,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-27T19:50:20.465Z",
+  updatedAt: "2026-10-27T19:51:55.341Z",
 } as const satisfies PageType

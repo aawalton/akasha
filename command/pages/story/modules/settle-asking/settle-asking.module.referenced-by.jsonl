@@ -5,4 +5,6 @@
 {"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.settling.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.settling.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-upkeep.world-check.settling.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/story/story.namespace.ts","id":"01a0b700-14b1-7be0-b5a7-5e8a66c9eece"}

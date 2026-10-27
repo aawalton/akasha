@@ -8,4 +8,7 @@
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attribute-check.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-essence-absorption.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-time-passing.world-check.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-upkeep.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
