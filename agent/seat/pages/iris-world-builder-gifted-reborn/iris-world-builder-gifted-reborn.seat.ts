@@ -11,6 +11,7 @@ export const irisWorldBuilderGiftedReborn = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "96ec83a8-9d97-45e9-8ca5-5d6ea9b72ad3",
   createdAt: "2026-10-27T23:35:42.325Z",
-  updatedAt: "2026-10-27T23:35:42.325Z",
+  updatedAt: "2026-10-27T23:35:45.491Z",
 } as const satisfies Seat
