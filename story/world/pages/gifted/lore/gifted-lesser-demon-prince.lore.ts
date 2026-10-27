@@ -72,7 +72,11 @@ export const giftedLesserDemonPrince = {
       fact: "Nala swallowed it a shred at a time, cold and bitter, until nothing of it was left.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Its shrieking stopped, and the place where it had been beside Nala was empty.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T21:48:20.815Z",
-  updatedAt: "2026-10-27T23:56:56.804Z",
+  updatedAt: "2026-10-27T23:57:43.942Z",
 } as const satisfies Lore
