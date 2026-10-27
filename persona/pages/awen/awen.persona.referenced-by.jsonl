@@ -21,7 +21,6 @@
 {"propertySlug":"import","fileName":"awen.persona.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-beat-flow.initiative.ts","id":"01a17ecd-1762-7eac-9a56-f898bbd9d50c"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-character-data.initiative.ts","id":"01a17ead-74c1-7bc6-853a-b8e38597db67"}
-{"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-character-panel.initiative.ts","id":"01a17ead-74c1-7d79-95f9-216dc0793812"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-chat-panel.initiative.ts","id":"01a17eae-d9b6-7854-a3a3-565b4404a657"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-engine-improvements.initiative.ts","id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-gifted-story.initiative.ts","id":"01a17ed1-bbbc-7f28-81c4-6ef774dab60d"}
