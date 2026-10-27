@@ -14,7 +14,11 @@ export const turnAdvancing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game master's advance goes to mechanics, or to writer with no mechanics seat.",
+      statement: "A game master's first beats of a played turn send it to beats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game master's mend goes to mechanics, or to writer with no mechanics seat.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -137,5 +141,5 @@ export const turnAdvancing = {
     },
   ],
   createdAt: "2026-10-03T14:34:03.612Z",
-  updatedAt: "2026-10-17T20:43:47.275Z",
+  updatedAt: "2026-10-27T20:16:56.891Z",
 } as const satisfies Module

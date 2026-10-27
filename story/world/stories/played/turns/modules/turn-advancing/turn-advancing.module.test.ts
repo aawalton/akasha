@@ -51,11 +51,11 @@ test("the world builder may hand in no lore", () => {
   expect(said.values).toEqual({ stepStatus: at("game-master") })
 })
 
-test("the game master's beats go to the writer, starting no seat", () => {
+test("the game master's beats go to beats, starting no seat", () => {
   const beats = ["Mara opens the gate", "The hall is dark"]
   const said = movedOf(advanced(heldAt("game-master"), MASTER, { kind: "beats", beats }, TWO))
-  expect(said.status).toBe("writer")
-  expect(said.values).toEqual({ stepStatus: at("writer"), beats: "jsonl" })
+  expect(said.status).toBe("beats")
+  expect(said.values).toEqual({ stepStatus: at("beats"), beats: "jsonl" })
   expect(said.planned).toEqual({ beats, scenes: [] })
   expect(said.starts).toEqual([])
 })
@@ -260,7 +260,7 @@ test("prose naming a character of the story its advance leaves out is refused, t
   }
 })
 
-test("prose handed in beat by beat gives every beat its own", () => {
+test("beat by beat prose gives every beat its own", () => {
   const held = heldAt("writer", { noun: "chapter", beats: 2, proseOnBeats: true })
   const short = { ...PROSE, beatProse: [{ beat: 1, prose: "One." }] }
   expect(refusalOf(advanced(held, WRITER, short, TWO))).toContain("for 1 of")
@@ -283,7 +283,7 @@ function stepping(held: Held, caller: Caller, handed: Handed) {
 
 test("the game master's beats go to mechanics, emptying its last run, and on to the writer", () => {
   const gain = { beat: 1, page: "metric/xp", key: "value", from: 1, to: 2, note: "+1" }
-  const ran = heldAt("game-master", { recordedBy: STEPPED, changes: [gain] })
+  const ran = heldAt("game-master", { recordedBy: STEPPED, changes: [gain], written: true })
   const said = movedOf(stepping(ran, MASTER, { kind: "beats", beats: ["a"] }))
   expect([said.status, said.changes, said.values["recordedBy"]]).toEqual([
     "mechanics",

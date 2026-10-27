@@ -76,6 +76,7 @@ import { storyReviewerInstructions } from "akasha/story/reviewer/properties/stor
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
+  BEATS,
   bareOf,
   CHAPTER,
   GAME_MASTER,
@@ -210,6 +211,7 @@ export async function noticesSent(
 ): Promise<undefined> {
   if (status === PLAYER) await readyTold(reach.readyPushed, root, game, turn, after.report, noun)
   if (status === PLAYER && noun === CHAPTER) await backlogTold(reach.backlogKept, game, after)
+  if (status === BEATS) return undefined
   if (master === null) {
     after.faults.push(
       `\`${game}\` names no game master seat, so no seat was told the ${noun} moved`

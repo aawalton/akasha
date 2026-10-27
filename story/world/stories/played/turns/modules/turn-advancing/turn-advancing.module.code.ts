@@ -6,13 +6,17 @@ import type {
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
-import { beatRouted } from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
+import {
+  beatRouted,
+  flowsOn,
+} from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
 import type {
   Admitted,
   Character,
 } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 import {
   type Advanced,
+  BEATS,
   type Caller,
   firstMoved,
   GAME_MASTER,
@@ -210,6 +214,7 @@ function fromBeats(
     ...ruled.values,
   }
   const moving = { planned: { beats, scenes }, ...ruled.moving }
+  if (flowsOn(given)) return moved(BEATS, values, moving)
   const mechanics = leftOf(staff.mechanics, recordedBy)
   const told = held.roleplayed === true && held.written
   if (told && mechanics.length === 0)

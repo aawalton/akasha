@@ -23,6 +23,10 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn moving to beats is told to no seat, since each step is handed its beats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A notice of a turn holding issues says it came back for repair, naming each issue file.",
     },
@@ -97,5 +101,5 @@ export const turnReaching = {
     },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-04T00:22:44.000Z",
+  updatedAt: "2026-10-27T20:16:56.891Z",
 } as const satisfies Module

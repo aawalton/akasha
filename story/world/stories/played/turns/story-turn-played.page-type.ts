@@ -85,8 +85,12 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn moves through world-builder, game-master, beats, player.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "A turn moves through world-builder, game-master, mechanics, writer, recorders, reviewers, player.",
+        "A roleplayed turn, or one mended after review, goes mechanics, writer, recorders, reviewers, player.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -175,5 +179,5 @@ export const storyTurnPlayed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T00:47:51.415Z",
-  updatedAt: "2026-10-27T19:47:05.445Z",
+  updatedAt: "2026-10-27T20:16:56.891Z",
 } as const satisfies PageType

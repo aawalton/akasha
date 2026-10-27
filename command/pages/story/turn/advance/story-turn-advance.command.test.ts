@@ -44,20 +44,19 @@ import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts
 
 afterAll(() => rmSync(ROOT, { recursive: true, force: true }))
 
-test("the game master's beats land on the turn and tell the writer the lore to read, starting no seat", async () => {
+test("the game master's first beats land on the turn and send it to beats, telling no seat", async () => {
   const into = seen()
   const reach = reachOver(turnAt("game-master"), seatOf("game-master", MASTER), into)
   const answer = await advancedBy(["--beats-file", join(ROOT, "beats.txt")], reach)
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values).toEqual({
-    stepStatus: `${stepStatus.slug}/writer`,
+    stepStatus: `${stepStatus.slug}/beats`,
     beats: "jsonl",
   })
   expect(into.folded[0]?.bodies).toEqual({ beats: PLANNED_BODY })
   expect(into.folded[0]?.path).toBe(AT)
   expect(into.folded[0]?.merge).toBe(true)
-  expect(into.starts).toEqual([])
-  expect(into.notices).toEqual(toldAll("writer"))
+  expect(into.notices).toEqual([])
   expect(into.stops).toEqual([])
 })
 

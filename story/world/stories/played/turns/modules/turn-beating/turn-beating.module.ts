@@ -52,6 +52,11 @@ export const turnBeating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A played turn flows by beats unless it is roleplayed, written already, or holds issues.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A beat's changes reach their pages in the move that shows that beat.",
     },
     {
@@ -61,5 +66,5 @@ export const turnBeating = {
     },
   ],
   createdAt: "2026-10-27T19:42:57.720Z",
-  updatedAt: "2026-10-27T19:49:36.414Z",
+  updatedAt: "2026-10-27T20:16:56.891Z",
 } as const satisfies Module

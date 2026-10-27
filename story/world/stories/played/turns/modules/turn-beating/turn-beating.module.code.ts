@@ -24,6 +24,7 @@ import {
   type Advanced,
   BEATS,
   type Caller,
+  CHAPTER,
   type Handed,
   type Held,
   moved,
@@ -157,6 +158,11 @@ function proseOn(
   const taken = proseTaken(whole, characters, telling.cast, telling.admitted)
   if ("refused" in taken) return taken
   return { flow: { ...flow, prose }, prose: taken.prose, values: taken.values }
+}
+
+export function flowsOn(held: Held): boolean {
+  if (held.noun === CHAPTER || held.roleplayed === true || held.written) return false
+  return held.issues.length === 0 && (held.mechanicsIssues ?? []).length === 0
 }
 
 export function beatRouted(

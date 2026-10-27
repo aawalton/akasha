@@ -5,6 +5,7 @@ import {
   beatJobsOf,
   changesShown,
   changesUnshown,
+  flowsOn,
   recorderOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
 import type { Handed } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
@@ -125,6 +126,15 @@ test("each list part names the recorder that fills it, and prose names none", ()
     "picture",
   ])
   expect(recorderOf("prose")).toBeNull()
+})
+
+test("a played turn flows by beats unless roleplayed, written, holding issues, or a chapter", () => {
+  expect(flowsOn(heldAt("game-master"))).toBe(true)
+  expect(flowsOn(heldAt("game-master", { roleplayed: true }))).toBe(false)
+  expect(flowsOn(heldAt("game-master", { written: true }))).toBe(false)
+  expect(flowsOn(heldAt("game-master", { issues: ["voice: a fault"] }))).toBe(false)
+  expect(flowsOn(heldAt("game-master", { mechanicsIssues: ["beat 1: no coin"] }))).toBe(false)
+  expect(flowsOn(heldAt("game-master", { noun: "chapter" }))).toBe(false)
 })
 
 test("a beat named off the beats status is refused", () => {
