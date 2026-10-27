@@ -48,6 +48,13 @@ test("a beat's message names its turn and number and carries its line as the ste
   expect(said).toContain("inventory.story-recorder.instructions.md")
 })
 
+test("a recorder is told to read its instructions afresh for each beat, and the writer is not", () => {
+  const fresh = "Read each instructions file named above with `akasha read --file-path <path>`"
+  expect(beatPrompt("changes", ASKED)).toContain(fresh)
+  expect(beatPrompt("memory", ASKED)).toContain(fresh)
+  expect(beatPrompt("prose", ASKED)).not.toContain(fresh)
+})
+
 test("the writer is asked for one beat's prose, and each recorder for its own part", () => {
   const prose = beatPrompt("prose", { ...ASKED, beat: 1 })
   expect(prose).toContain("--beat 1 --prose-file <path> --character <address>")

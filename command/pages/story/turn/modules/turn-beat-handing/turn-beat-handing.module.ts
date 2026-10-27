@@ -37,6 +37,11 @@ export const turnBeatHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A recorder's beat message tells it to read its instructions afresh for that beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn's beats flow across the story's turns at beats, the earliest first.",
     },
     {
@@ -75,5 +80,5 @@ export const turnBeatHanding = {
     },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-27T22:07:47.220Z",
+  updatedAt: "2026-10-27T23:13:43.255Z",
 } as const satisfies Module

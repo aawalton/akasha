@@ -65,6 +65,9 @@ const STATUS = "stepStatus"
 
 const PATH = "<path>"
 
+const FRESH =
+  "Read each instructions file named above with `akasha read --file-path <path>` before this beat, never from memory: it may have changed, and one unchanged costs a line."
+
 const NUMBERS_TOO: readonly string[] = [inventory.slug, plan.slug]
 
 type Flowing = { readonly slug: string; readonly at: string; readonly beats: Beats }
@@ -170,6 +173,7 @@ export function beatPrompt(part: FlowPart, asked: BeatAsking): string {
     line,
     "",
     said.work,
+    ...(part === "event" || part === "prose" ? [] : ["", FRESH]),
     "",
     "Hand in this beat alone, once:",
     "",
