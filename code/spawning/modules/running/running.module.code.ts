@@ -9,6 +9,7 @@ import {
   rmdirSync,
   writeFileSync,
 } from "node:fs"
+import { constants as osConstants } from "node:os"
 import { basename, dirname, join } from "node:path"
 import { pidAliveOrAssumeAlive } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import {
@@ -481,7 +482,7 @@ export function bytes(argv: readonly string[], asked: Asked = {}): Held {
     return heldOf(
       open,
       done.exitCode,
-      done.signalCode ?? null,
+      signalNamed(done.signalCode),
       done.stdout,
       done.stderr.toString(),
       Number(done.resourceUsage?.cpuTime.total ?? 0n) / MICROS
@@ -510,7 +511,7 @@ export async function bytesAwaited(argv: readonly string[], asked: Asked = {}): 
     return heldOf(
       open,
       done.exitCode,
-      done.signalCode ?? null,
+      signalNamed(done.signalCode),
       out,
       err,
       Number(done.resourceUsage()?.cpuTime.total ?? 0n) / MICROS
@@ -526,6 +527,11 @@ function saidOf(done: Held): Said {
 
 export async function ranAwaited(argv: readonly string[], asked: Asked = {}): Promise<Said> {
   return saidOf(await bytesAwaited(argv, asked))
+}
+
+export function signalNamed(ended: number | string | null | undefined): NodeJS.Signals | null {
+  const name = Object.entries(osConstants.signals).find((entry) => entry[1] === ended)?.[0]
+  return ((typeof ended === "number" ? name : ended) ?? null) as NodeJS.Signals | null
 }
 
 export function endingOf(code: number, signal: string | null): string {

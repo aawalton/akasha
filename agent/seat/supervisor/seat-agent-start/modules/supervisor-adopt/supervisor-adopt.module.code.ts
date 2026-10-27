@@ -25,6 +25,7 @@ import {
   reconcileClaudeConfig,
 } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
 import type { SupervisorHandoff } from "akasha/agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
+import { signalNamed } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { z } from "zod"
 
 const CLAUDE_CONFIG_HELD = z.record(z.string(), z.unknown())
@@ -138,7 +139,7 @@ export function spawnClaudeChild(opts: {
   return {
     pid: sub.pid,
     exited: sub.exited,
-    exitStatus: () => ({ exitCode: sub.exitCode, signal: sub.signalCode }),
+    exitStatus: () => ({ exitCode: sub.exitCode, signal: signalNamed(sub.signalCode) }),
     kill: (signal) => {
       if (typeof signal === "number") {
         sub.kill(signal)
