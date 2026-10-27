@@ -1,11 +1,14 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
+import { settledBy } from "akasha/story/world/mechanics/checks/properties/settled-by.relation-property.ts"
+import { worldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.ts"
 
 export const TEST_WORLD = "story/world/pages/test-world/"
 
@@ -28,9 +31,11 @@ const LEFT_ENDINGS: readonly string[] = [
 
 const ROOT = "akasha/"
 
-const EXPORTED = /^export (?:async )?(?:function\*?|const|let|class) ([A-Za-z_$][\w$]*)/gm
+const SETTLING = /^ {2}settling: \{[^\n]*\},\n/m
 
-const TYPED = /^export (?:type|interface) ([A-Za-z_$][\w$]*)/gm
+const OWN_SLUG = /^ {2}slug: "([^"]+)",$/m
+
+const SETTLED_BY = exportedAs(settledBy.propertySlug)
 
 const CODE_ENDINGS: readonly string[] = [".code.ts", ".test.ts", ".test-fixtures.ts"]
 
@@ -147,19 +152,11 @@ export type Cloning = {
   readonly story: Story
 }
 
-function namesIn(text: string, pattern: RegExp): readonly string[] {
-  return [...text.matchAll(pattern)].flatMap((one) => (one[1] === undefined ? [] : [one[1]]))
-}
-
-export function forwardOf(path: string, text: string): string {
-  const from = JSON.stringify(`${ROOT}${path}`)
-  const values = namesIn(text, EXPORTED)
-  const types = namesIn(text, TYPED)
-  return [
-    ...(values.length === 0 ? [] : [`export { ${values.join(", ")} } from ${from}`]),
-    ...(types.length === 0 ? [] : [`export type { ${types.join(", ")} } from ${from}`]),
-    "",
-  ].join(BREAK)
+export function settledByOf(source: string, copy: string): string {
+  const slug = OWN_SLUG.exec(source)?.[1]
+  if (slug === undefined || !SETTLING.test(copy)) return copy
+  const named = JSON.stringify(`${worldCheck.slug}/${slug}`)
+  return copy.replace(SETTLING, `  ${SETTLED_BY}: ${named},\n`)
 }
 
 export function storyBoundIn(sources: readonly Source[], folder: string): readonly string[] {
@@ -174,12 +171,9 @@ export function copiesOf(sources: readonly Source[], cloning: Cloning): readonly
   const made: Copy[] = []
   for (const one of sources) {
     if (!copied(folder, one.path)) continue
+    if (isCode(one.path)) continue
     const at = clonedPath(one.path, folder, story.from, story.to)
-    if (isCode(one.path)) {
-      made.push({ at, body: forwardOf(one.path, one.text) })
-      continue
-    }
-    const body = pageBody(slugsRenamed(one.text, story.from, story.to))
+    const body = settledByOf(one.text, pageBody(slugsRenamed(one.text, story.from, story.to)))
     made.push({ at, body: one.path === storyPath ? storyBody(body, story) : body })
   }
   return made.toSorted((one, two) => (one.at < two.at ? -1 : one.at > two.at ? 1 : 0))

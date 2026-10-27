@@ -30,7 +30,11 @@ export const storyCloning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A code file is copied as one line forwarding its exports to the source's code.",
+      statement: "No code file and no test is copied.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A copied check names in `settledBy` the source check whose code settles it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,11 +42,7 @@ export const storyCloning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A test beside code is not copied, since the source's test proves that code.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Code importing a page of its own story is found, since forwarding it is wrong.",
+      statement: "Code importing a page of its own story is found, since settling by it is wrong.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +71,5 @@ export const storyCloning = {
     },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-27T21:38:10.117Z",
+  updatedAt: "2026-10-27T22:03:42.729Z",
 } as const satisfies Module

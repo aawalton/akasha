@@ -62,6 +62,15 @@ const FORWARDED = [
   "",
 ].join("\n")
 
+const CHECK = [
+  "export const testStoryUpkeep = {",
+  '  id: "01a17eeb-58cf-776b-ba64-5cc96eee1074",',
+  '  slug: "test-story-upkeep",',
+  "  settling: {},",
+  "} as const satisfies WorldCheck",
+  "",
+].join("\n")
+
 const CLONING = {
   folder: FOLDER,
   storyPath: STORY_AT,
@@ -148,16 +157,20 @@ test("a page is copied with no id, instant or history, and its relations name th
   )
 })
 
-test("code beside a page is copied as one line forwarding to the source's code", () => {
+test("code beside a page is not copied", () => {
   const at = `${FOLDER}checks/test-story-upkeep.world-check.settling.code.ts`
-  const made = copiesOf([{ path: at, text: FORWARDED }], CLONING)[0]
-  expect(made?.at).toBe(
-    "story/world/pages/test-world/stories/played/probe/checks/probe-upkeep.world-check.settling.code.ts"
-  )
+  expect(copiesOf([{ path: at, text: FORWARDED }], CLONING)).toEqual([])
+})
+
+test("a copied check names the source check whose code settles it, in place of its own", () => {
+  const at = `${FOLDER}checks/test-story-upkeep.world-check.ts`
+  const made = copiesOf([{ path: at, text: CHECK }], CLONING)[0]
   expect(made?.body).toBe(
     [
-      `export { settled, added } from "akasha/${at}"`,
-      `export type { Kept } from "akasha/${at}"`,
+      "export const probeUpkeep = {",
+      '  slug: "probe-upkeep",',
+      '  settledBy: "world-check/test-story-upkeep",',
+      "} as const satisfies WorldCheck",
       "",
     ].join("\n")
   )
@@ -173,7 +186,7 @@ test("code importing a page of its own story is found, and other code is not", (
   expect(storyBoundIn(sources, FOLDER)).toEqual([bound])
 })
 
-test("a test beside code is left, since the copy forwards to code the source's test proves", () => {
+test("a test beside code is left, since the copy is settled by code the source's test proves", () => {
   expect(copied(FOLDER, `${FOLDER}a/test-story-upkeep.world-check.settling.test.ts`)).toBe(false)
 })
 
