@@ -17,12 +17,8 @@ export const awenCharacterPanel = {
       statement:
         "The Stats tab shows portrait, name, titles, level with an XP bar, resources and attributes.",
     },
-    {
-      statement:
-        "The Inventory tab has a search, and each item shows its quantity and opens to its description.",
-    },
     { statement: "Use, Equip, Unequip and Drop buttons send a turn rather than change state." },
   ],
   createdAt: "2026-10-27T18:44:19.264Z",
-  updatedAt: "2026-10-27T19:14:01.681Z",
+  updatedAt: "2026-10-27T19:14:06.073Z",
 } as const satisfies Initiative
