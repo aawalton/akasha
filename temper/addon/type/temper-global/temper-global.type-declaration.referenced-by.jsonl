@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-command/characters-command.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-task-hud/characters-task-hud.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-hud-fields/combat-hud-fields.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events/crafting-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-init/potion-init.module.code.ts","typed":false,"deferred":false}

@@ -20,7 +20,15 @@ export const charactersTaskHud = {
       statement:
         "The line sits where the first row would, as the display is too narrow to centre it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where the HUD layout places the display, it fits the room that layout gives it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where the HUD layout places the display, the display cannot be dragged.",
+    },
   ],
   createdAt: "2026-09-02T16:23:41.627Z",
-  updatedAt: "2026-10-18T17:39:47.514Z",
+  updatedAt: "2026-10-27T19:34:37.385Z",
 } as const satisfies Module

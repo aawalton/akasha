@@ -67,6 +67,7 @@ import {
   styleTextOverPlay,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-global/temper-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
@@ -247,7 +248,8 @@ export function refreshTaskHud(): undefined {
   const seen: HintSeen = { questHint: false }
   const rows = entries.map((entry) => taskRow(entry, activeQuests, seen))
   const measured = measureRows(rows, 0)
-  const fit = fitNodes(measured.nodes, roomBelow(hudWindow), PLEDGE_SUB_ROW_HEIGHT + ROW_PADDING)
+  const room = roomOf(hudWindow, measured.yOffset)
+  const fit = fitNodes(measured.nodes, room, PLEDGE_SUB_ROW_HEIGHT + ROW_PADDING)
   if (!isWhole(fit, rows.length)) {
     resetPools()
     seen.questHint = false
@@ -275,8 +277,17 @@ interface HudRow {
   readonly foldable: boolean
 }
 
-function roomBelow(hudWindow: TopLevelWindow): number {
-  return GuiRoot.GetHeight() - hudWindow.GetTop() - DRAG_HEIGHT
+function roomOf(hudWindow: TopLevelWindow, wanted: number): number {
+  const given = Temper?.fitHudPanel(
+    hudWindow.GetName(),
+    wanted + DRAG_HEIGHT,
+    function (this: void): undefined {
+      refreshTaskHud()
+    }
+  )
+  if (given === undefined) return GuiRoot.GetHeight() - hudWindow.GetTop() - DRAG_HEIGHT
+  hudWindow.SetMovable(false)
+  return given - DRAG_HEIGHT
 }
 
 function measureRows(
