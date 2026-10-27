@@ -26,9 +26,9 @@ export const testWorldOverview = {
     },
     {
       fact: "The iron sword's edge runs even from hilt to point, with no nick or rolled spot.",
-      knowers: ["lore-disclosure/game-master", "character-player/clone-probe-player"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T22:42:39.728Z",
+  updatedAt: "2026-10-27T23:24:42.204Z",
 } as const satisfies Lore

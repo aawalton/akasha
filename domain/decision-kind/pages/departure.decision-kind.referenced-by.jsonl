@@ -4195,11 +4195,6 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-training.world-check.ts","id":"01a17f7f-6e81-7f07-be86-2d613c9930d0"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-upkeep.world-check.ts","id":"01a17f7f-6e81-7ce2-836e-c88153bf64ff"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/metrics/resources/points/beat-flow-test-points.page-type.ts","id":"01a17f7f-6e81-74c5-a9e2-2b8bf7de8492"}
-{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-action-check.world-check.ts","id":"01a17f4c-d936-7a81-be7f-f813da5f15a7"}
-{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-time-passing.world-check.ts","id":"01a17f4c-d936-7b1c-aa9b-b7a8bbd22cb8"}
-{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-training.world-check.ts","id":"01a17f4c-d936-7d96-ba7e-f2a61645a5dc"}
-{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-upkeep.world-check.ts","id":"01a17f4c-d936-74a4-b50a-80a29da305d3"}
-{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/metrics/resources/points/clone-probe-points.page-type.ts","id":"01a17f4c-d936-7153-b5ae-90be24dde8cc"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.ts","id":"01a17ede-ad87-7ec9-8f62-82b148152d82"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-time-passing.world-check.ts","id":"01a17eeb-58ce-70c9-8378-278e625a0e58"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.ts","id":"01a17eeb-58ce-7db2-b591-31fafaef9d7c"}
