@@ -4253,6 +4253,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/last-turn-position.number-property.ts","id":"01a0e5d3-d337-7dbd-bb65-0131d5ddf66a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/last-turn.text-property.ts","id":"01a0e5d3-d337-7946-9983-82bda3d41a93"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/difficulty-levels/difficulty-level.page-type.ts","id":"01a17edc-4473-7982-b658-4af62fb60d91"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.ts","id":"01a0d48a-8a47-745b-8d92-693cc1ecc076"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar-state/action-bar-state.module.ts","id":"01a0d48a-0758-724f-85b2-9b2412f0754f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar/action-bar.module.ts","id":"01a0d48b-8f76-7e2b-9030-a05bc2c03057"}
