@@ -64,6 +64,31 @@ export const gameMaster = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Out Of Character",
+      act: "Answer Alan's chat in the story's chat, and keep every out-of-character word out of the prose.",
+      warrant: "An aside in the prose reads exactly like narration, and narration lands as canon.",
+      aids: [
+        "Alan's chat reaches you as a message from `alan-chat`, never as an act of his character.",
+        "Answer with `akasha story chat --story <story> --body-file -`.",
+        "A correction is out of character.",
+        "A bracketed line in his action is part of the action.",
+        "Never make a chat message into a beat.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Fold In Corrections",
+      act: "Say each fix you made at game-master in the story's chat before the next turn lands.",
+      warrant:
+        "Alan decided from what was narrated, so a fault left unsaid keeps him deciding from it.",
+      aids: [
+        "Name the fix, not the mechanics behind it.",
+        "Correct your tally in the same turn.",
+        "Fold a correction Alan sends in the chat into the next turn, and answer it in the chat.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Unstick The Seat",
       act: "Answer a reviewer or recorder that sends you a refusal it cannot mend, so its advance lands.",
       warrant: "That seat waits on your answer, and the turn waits on that seat.",
@@ -169,6 +194,7 @@ export const gameMaster = {
       aids: [
         "Contradicting it later is rewriting it.",
         "The prose in a published chapter may be mended.",
+        "A fix made at game-master is the one rewrite allowed, and it is said in the chat.",
       ],
     },
 
@@ -279,9 +305,10 @@ export const gameMaster = {
         "Quote Alan's words, and never sort them into engine or story first.",
         "Send structure only, never a fact the player has not been shown.",
         "Send with `akasha seat send --to awen`.",
+        "A correction Alan sends in the chat is one he makes in play.",
       ],
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-27T20:53:02.649Z",
+  updatedAt: "2026-10-27T21:26:32.989Z",
 } as const satisfies Role
