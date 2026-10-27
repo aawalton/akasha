@@ -10,10 +10,9 @@ export const characterPlayer = {
   schema: "jsonl",
   properties: [
     { pageProperty: "relation-property/character-story", required: true, many: false },
-    { pageProperty: "relation-property/character-place", required: false, many: false },
     { pageProperty: "relation-property/person", required: true, many: false },
   ],
   parts: [],
   createdAt: "2026-09-22T16:24:22.587Z",
-  updatedAt: "2026-09-28T13:02:37.000Z",
+  updatedAt: "2026-10-27T23:48:37.283Z",
 } as const satisfies PageType

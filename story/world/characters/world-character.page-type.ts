@@ -36,6 +36,7 @@ export const worldCharacter = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
+    { pageProperty: "relation-property/character-place", required: false, many: false },
     { pageProperty: "number-property/appearance-count", required: false, many: false },
     { pageProperty: "computed-property/max-level", required: false, many: false },
     { pageProperty: "number-property/event-count", required: false, many: false },
@@ -74,11 +75,16 @@ export const worldCharacter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Every character carries the place a story's beats last left it in, whatever its kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A character's cover is the image a play screen draws that character as.",
     },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:15:29.485Z",
-  updatedAt: "2026-09-28T20:14:41.000Z",
+  updatedAt: "2026-10-27T23:48:37.283Z",
 } as const satisfies PageType

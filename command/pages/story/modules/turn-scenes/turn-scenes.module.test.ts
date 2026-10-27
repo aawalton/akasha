@@ -12,6 +12,8 @@ import {
   type BeatScene,
   plannedIn,
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
+import { characterPlace } from "akasha/story/world/characters/properties/character-place.relation-property.ts"
+import { worldCharacter } from "akasha/story/world/characters/world-character.page-type.ts"
 
 const MARA = "character-player/mara"
 
@@ -93,6 +95,24 @@ test("a chapter's scenes cache every placed character's place and no end time", 
     ["mara", { place: HALL }],
     ["ceri", { place: HALL }],
   ])
+})
+
+const DEMON = "world-character/demon-prince"
+
+test("a world character present at a place, then leaving, has its place cached as any character's", () => {
+  const scenes = scenesOf([
+    JSON.stringify({ event: "a", place: HALL, present: [MARA, DEMON] }),
+    JSON.stringify({ event: "b", leave: [DEMON] }),
+  ])
+  const said = settled(scenesSettled([], TURN, ["a", "b"], scenes, KNOWN, false))
+  expect(said.namings).toContainEqual({
+    pageTypeSlug: worldCharacter.slug,
+    slug: "demon-prince",
+    merge: true,
+    values: { place: HALL },
+  })
+  const declared = worldCharacter.properties.map((one) => one.pageProperty)
+  expect(declared.some((one) => one.endsWith(`/${characterPlace.slug}`))).toBe(true)
 })
 
 test("a mend that keeps a character where she was caches her old place again", () => {

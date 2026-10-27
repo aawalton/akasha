@@ -42,6 +42,10 @@ export const turnScenes = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A world character is placed, and leaves, as a player character does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A mended turn's scenes correct the places its earlier run cached.",
     },
     {
@@ -59,5 +63,5 @@ export const turnScenes = {
     },
   ],
   createdAt: "2026-10-03T14:59:19.243Z",
-  updatedAt: "2026-10-17T21:25:30.313Z",
+  updatedAt: "2026-10-27T23:48:37.283Z",
 } as const satisfies Module
