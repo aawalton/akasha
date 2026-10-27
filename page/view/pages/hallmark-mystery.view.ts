@@ -7,7 +7,7 @@ export const hallmarkMystery = {
   title: "Mystery",
   nav: "nav/hallmark",
   pageType: "page-type/movie",
-  viewPlace: 1,
+  viewPlace: 0,
   layout: "cards",
   narrows: [
     {
@@ -24,5 +24,5 @@ export const hallmarkMystery = {
   ],
   visibleProperties: ["own-length", "position"],
   createdAt: "2026-10-25T20:04:28.406Z",
-  updatedAt: "2026-10-25T20:09:36.037Z",
+  updatedAt: "2026-10-27T23:32:34.109Z",
 } as const satisfies View
