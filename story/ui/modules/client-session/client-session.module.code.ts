@@ -33,6 +33,8 @@ const ClientSkillSchema = z.object({
   rank: z.union([z.number(), z.string()]).optional(),
   score: z.number().optional(),
   note: z.string().optional(),
+  experience: z.number().optional(),
+  attribute: z.string().optional(),
 })
 type ClientSkill = z.infer<typeof ClientSkillSchema>
 
@@ -54,6 +56,7 @@ const ClientItemSchema = z.object({
   name: z.string().optional(),
   note: z.string().optional(),
   quantity: z.number().optional(),
+  category: z.string().optional(),
 })
 export type ClientItem = z.infer<typeof ClientItemSchema>
 
@@ -167,6 +170,8 @@ function toClientSkill(raw: unknown): ClientSkill | null {
   if (typeof rank === "string" || typeof rank === "number") candidate["rank"] = rank
   if (typeof rec["score"] === "number") candidate["score"] = rec["score"]
   if (typeof rec["note"] === "string") candidate["note"] = rec["note"]
+  if (typeof rec["experience"] === "number") candidate["experience"] = rec["experience"]
+  if (typeof rec["attribute"] === "string") candidate["attribute"] = rec["attribute"]
   const parsed = ClientSkillSchema.safeParse(candidate)
   return parsed.success ? parsed.data : null
 }
@@ -200,6 +205,7 @@ function toClientItem(raw: unknown): ClientItem | null {
   if (typeof rec["name"] === "string") candidate["name"] = rec["name"]
   if (typeof rec["note"] === "string") candidate["note"] = rec["note"]
   if (typeof rec["quantity"] === "number") candidate["quantity"] = rec["quantity"]
+  if (typeof rec["category"] === "string") candidate["category"] = rec["category"]
   const parsed = ClientItemSchema.safeParse(candidate)
   return parsed.success ? parsed.data : null
 }

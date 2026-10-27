@@ -104,6 +104,11 @@ test("an item stating one or no quantity carries no quantity", () => {
   expect(countedAs(undefined)).toBeNull()
 })
 
+test("an item stating a category carries that category", () => {
+  const had = hadIn([rowOf({ title: HIDE, category: "material" }), rowOf({ title: MAUL })], SLOTS)
+  expect(had.carried).toEqual([{ name: MAUL }, { name: HIDE, category: "material" }])
+})
+
 test("a worn item keeps its description and how many", () => {
   const had = hadIn([rowOf({ title: MAUL, slot: HELD, description: NOTE, quantity: 2 })], SLOTS)
   expect(had.worn).toEqual({ [mainHand.title]: { name: MAUL, note: NOTE, quantity: 2 } })

@@ -24,11 +24,18 @@ const QUANTITY_AT = "quantity"
 
 const UNREVEALED_AT = "unrevealed"
 
+const CATEGORY_AT = "category"
+
 const NO_SLOT_NAMES: Record<string, string> = {}
 
 export type Filed = { readonly values: Record<string, unknown> }
 
-type Carried = { readonly name: string; readonly note?: string; readonly quantity?: number }
+type Carried = {
+  readonly name: string
+  readonly note?: string
+  readonly quantity?: number
+  readonly category?: string
+}
 
 type Worn = Carried
 
@@ -39,6 +46,7 @@ type Owned = {
   readonly note: string | null
   readonly quantity: number | null
   readonly slot: string | null
+  readonly category: string | null
 }
 
 export function slotNamesIn(rows: readonly Filed[]): Record<string, string> {
@@ -68,11 +76,13 @@ function ownedIn(row: Filed, slots: Record<string, string>): Owned | null {
   if (row.values[UNREVEALED_AT] === true) return null
   const said = row.values[DESCRIPTION_AT]
   const note = typeof said === "string" && said !== "" ? said : null
+  const sort = row.values[CATEGORY_AT]
   return {
     title,
     note,
     quantity: countedAs(row.values[QUANTITY_AT]),
     slot: slotNameOf(row.values[SLOT_AT], slots),
+    category: typeof sort === "string" && sort !== "" ? sort : null,
   }
 }
 
@@ -81,6 +91,7 @@ function carriedOf(one: Owned): Carried {
     name: one.title,
     ...(one.note === null ? {} : { note: one.note }),
     ...(one.quantity === null ? {} : { quantity: one.quantity }),
+    ...(one.category === null ? {} : { category: one.category }),
   }
 }
 
@@ -122,7 +133,16 @@ async function hadBy(slug: string, overlay: BeatOverlay): Promise<Had | null> {
     askedLoudly({
       "page-type": ITEM_TYPE,
       where: { character: { "ends-with": `/${slug}` } },
-      keys: [SLUG_AT, CHARACTER_AT, TITLE_AT, SLOT_AT, DESCRIPTION_AT, QUANTITY_AT, UNREVEALED_AT],
+      keys: [
+        SLUG_AT,
+        CHARACTER_AT,
+        TITLE_AT,
+        SLOT_AT,
+        DESCRIPTION_AT,
+        QUANTITY_AT,
+        CATEGORY_AT,
+        UNREVEALED_AT,
+      ],
     }),
     slotNames(),
   ])
