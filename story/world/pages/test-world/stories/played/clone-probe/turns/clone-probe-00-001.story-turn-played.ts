@@ -12,8 +12,9 @@ export const cloneProbe00001 = {
   stepStatus: "step-status/beats",
   action: "I look around the hall and check my sword's edge.",
   beats: "jsonl",
+  lore: ["place/test-world-hall"],
   endsAt: "2026-11-06T08:50:00.000Z",
   createdAt: "2026-10-27T21:53:57.824Z",
-  updatedAt: "2026-10-27T22:04:35.110Z",
-  ownLength: 75,
+  updatedAt: "2026-10-27T22:05:08.018Z",
+  ownLength: 90,
 } as const satisfies StoryTurnPlayed
