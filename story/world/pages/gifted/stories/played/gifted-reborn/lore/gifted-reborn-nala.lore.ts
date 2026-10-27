@@ -53,7 +53,23 @@ export const giftedRebornNala = {
       fact: "With the demon gone, the Myriad Paths find her mind too young, and ask her to kick twice to choose.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: 'Her soul hears: "Status withheld. Mind too young to choose. If you understand, kick twice."',
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
+    {
+      fact: "The choice is whether to open her Status now, or let it sleep until she is about five.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Kicking twice proves her mind can choose, and her Status opens at once with every reward due.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Not kicking, or kicking once, lets her Status sleep, its rewards held until it wakes near five.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-27T23:41:20.481Z",
+  updatedAt: "2026-10-27T23:44:45.428Z",
 } as const satisfies Lore
