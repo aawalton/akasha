@@ -29,7 +29,7 @@ const ORDERED: ReadonlySet<string> = new Set([
 
 const MOMENTS: ReadonlySet<string> = new Set(["now", "eso-day", "eso-day-next"])
 
-export type Narrow = {
+type Narrow = {
   readonly key: string
   readonly comparison: string
   readonly values: readonly string[]
