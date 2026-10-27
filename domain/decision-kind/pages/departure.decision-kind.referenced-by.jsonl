@@ -3494,6 +3494,7 @@
 {"propertySlug":"decision-kind","path":"page/index/modules/quote-holding/quote-holding.module.ts","id":"01a0a582-6d44-7000-9ebd-3e0bec1aaca3"}
 {"propertySlug":"decision-kind","path":"page/index/modules/reaching/reaching.module.ts","id":"01a04f4d-00d6-727f-b504-659312870b32"}
 {"propertySlug":"decision-kind","path":"page/index/modules/reading/index-reading.module.ts","id":"01a04bdd-596c-7b76-9978-92ebfa6a20e4"}
+{"propertySlug":"decision-kind","path":"page/index/modules/relation-naming/relation-naming.module.ts","id":"01a17f5e-0968-7cc4-b7d3-b10adf0b8dd3"}
 {"propertySlug":"decision-kind","path":"page/index/modules/settling/index-settling.module.ts","id":"01a08c06-6aac-7a7a-be73-529b101223b1"}
 {"propertySlug":"decision-kind","path":"page/index/modules/shape/index-shape.module.ts","id":"01a05867-bb6d-7a3e-875e-b5a55432fb00"}
 {"propertySlug":"decision-kind","path":"page/index/modules/surface/index-surface.module.ts","id":"01a04f55-919c-7d2a-ab3d-8e6aca34022b"}

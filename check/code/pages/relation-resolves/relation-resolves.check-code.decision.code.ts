@@ -9,11 +9,13 @@ import {
   filedById,
   type Known,
   namesIn,
-  namingsIn,
-  namingsInRows,
   reaches,
   type Shaped,
 } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
+import {
+  namingsIn,
+  namingsInRows,
+} from "akasha/page/index/modules/relation-naming/relation-naming.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { type Rowing, rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"

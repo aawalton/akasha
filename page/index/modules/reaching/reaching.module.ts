@@ -114,18 +114,7 @@ export const reaching = {
       decisionKind: "decision-kind/departure",
       statement: "Which property each key of a page carries is read here.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The value standing under that key is answered with that property.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page's `id` and `slug` and `type` are answered as that page's identity.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "How a caller answers a naming being an identity is that caller's own.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The module saying a page's entries names nothing here.",
@@ -137,5 +126,5 @@ export const reaching = {
     },
   ],
   createdAt: "2026-08-29T20:54:01.686Z",
-  updatedAt: "2026-09-24T17:13:46.000Z",
+  updatedAt: "2026-10-27T21:57:11.656Z",
 } as const satisfies Module

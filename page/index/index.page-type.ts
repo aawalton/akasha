@@ -41,6 +41,7 @@ export const index = {
     "module/property-shaping",
     "module/quote-holding",
     "module/reaching",
+    "module/relation-naming",
     "module/tree-reading",
     "test-fixture/fixture-world",
     "text-property/index-name",
@@ -222,5 +223,5 @@ export const index = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-29T19:15:48.879Z",
-  updatedAt: "2026-09-25T15:08:30.000Z",
+  updatedAt: "2026-10-27T21:57:11.656Z",
 } as const satisfies PageType

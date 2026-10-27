@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"command/pages/music/capture/music-capture.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"page/index/modules/reaching/reaching.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"page/index/modules/relation-naming/relation-naming.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"page/index/modules/settling/index-settling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"page/modules/entries/page-entries.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"page/modules/entries/page-entries.module.test.ts","typed":false,"deferred":false}

@@ -15,8 +15,6 @@ import {
   eachTarget,
   namesIn,
   namesMortal,
-  namingsIn,
-  namingsInRows,
   type Reached,
   reaches,
   type Shaped,
@@ -27,6 +25,10 @@ import {
   heldEach,
   readingIn,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  namingsIn,
+  namingsInRows,
+} from "akasha/page/index/modules/relation-naming/relation-naming.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Rowing } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import {

@@ -60,6 +60,7 @@
 {"propertySlug":"import","fileName":"index-entries.module.test-fixtures.ts","path":"page/index/modules/identities/index-identities.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-entries.module.test-fixtures.ts","path":"page/index/modules/path-claiming/path-claiming.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-entries.module.test-fixtures.ts","path":"page/index/modules/reaching/reaching.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-entries.module.test-fixtures.ts","path":"page/index/modules/relation-naming/relation-naming.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-entries.module.test-fixtures.ts","path":"page/index/page-property/index-page-property.index.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-entries.module.test-fixtures.ts","path":"page/index/page-type/index-page-type.index.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-entries.module.test-fixtures.ts","path":"page/index/page/index-page.index.test.ts","typed":false,"deferred":false}
