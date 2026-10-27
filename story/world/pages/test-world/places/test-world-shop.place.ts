@@ -28,7 +28,11 @@ export const testWorldShop = {
       fact: "A lit taper sits on the counter for lighting lanterns.",
       knowers: ["lore-disclosure/game-master", "character-player/test-story-player"],
     },
+    {
+      fact: "The door behind the shop's counter opens on wooden steps down to the cellar.",
+      knowers: ["lore-disclosure/game-master", "character-player/test-story-player"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T20:51:01.132Z",
+  updatedAt: "2026-10-27T20:55:56.747Z",
 } as const satisfies Place
