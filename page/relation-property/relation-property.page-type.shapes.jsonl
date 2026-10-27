@@ -107,6 +107,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-rank","unique":null,"uniquePropertySlug":null,"slug":"held-rank","propertySlug":"rank","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-skill","unique":null,"uniquePropertySlug":null,"slug":"held-skill","propertySlug":"skill","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-species","unique":null,"uniquePropertySlug":null,"slug":"held-species","propertySlug":"species","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-title","unique":null,"uniquePropertySlug":null,"slug":"held-title","propertySlug":"world-title","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"identity-statement-value","propertySlug":"identity-statement-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"image-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"host","unique":null,"uniquePropertySlug":null,"slug":"inference-host","propertySlug":"host","fileName":null,"folderName":null}
@@ -278,6 +279,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"subagent-kind","unique":null,"uniquePropertySlug":null,"slug":"subagent-kind","propertySlug":"subagent-kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"shell-script","unique":null,"uniquePropertySlug":null,"slug":"sync-script","propertySlug":"sync-script","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"target-page-type","propertySlug":"target-page-type","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"title-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"title-colored-by","propertySlug":"title-colored-by","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"to-do-value","propertySlug":"to-do-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"mastery-level","unique":null,"uniquePropertySlug":null,"slug":"topic-mastery-level","propertySlug":"mastery-level","fileName":null,"folderName":null}

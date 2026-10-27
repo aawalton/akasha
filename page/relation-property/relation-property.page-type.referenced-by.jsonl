@@ -193,6 +193,8 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/skills/properties/skill-attribute.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/species/character-species/properties/held-species.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/species/character-species/properties/species-character.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/titles/character-title/properties/held-title.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/titles/character-title/properties/title-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/traits/character-trait/properties/trait-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/traits/properties/trait-story.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/arts/properties/otherwhere-viii-art-character.relation-property.ts","typed":true,"deferred":false}

@@ -8,8 +8,9 @@ export const worldTitle = {
   pluralSlug: "titles",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
+  parts: ["page-type/character-title"],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-09-19T11:25:39.000Z",
+  updatedAt: "2026-10-27T19:02:30.081Z",
 } as const satisfies PageType
