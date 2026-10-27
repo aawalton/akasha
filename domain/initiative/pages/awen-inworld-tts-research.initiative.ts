@@ -14,9 +14,8 @@ export const awenInworldTtsResearch = {
       workingMemory:
         "Voyage's settings say its text to speech uses Inworld 1.5 or 2.0. The page is `domain/inworld-tts`, a part of `domain/voyage` under `story/engine/voyage/`. Akasha already runs local speech models: `infrastructure/inference/pool/service-inferences/qwen3-tts.service-inference.ts` and `moss-tts.service-inference.ts`.\n",
     },
-    { statement: "The Inworld TTS page says what each model costs." },
     { statement: "The Inworld TTS page says whether each model can run on local hardware." },
   ],
   createdAt: "2026-10-27T18:30:14.524Z",
-  updatedAt: "2026-10-27T18:30:14.524Z",
+  updatedAt: "2026-10-27T18:33:23.867Z",
 } as const satisfies Initiative
