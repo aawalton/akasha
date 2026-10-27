@@ -8,7 +8,6 @@ export const awenPlayLayout = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    { statement: "A played story's page hides the site's own navigation sidebar." },
     {
       statement:
         "A played story's page has an action entry bar built from the composer the Seats pages use.",
@@ -19,5 +18,5 @@ export const awenPlayLayout = {
     "Agents test only on the test story, never on Alan's stories.",
   ],
   createdAt: "2026-10-27T19:51:01.842Z",
-  updatedAt: "2026-10-27T20:20:45.777Z",
+  updatedAt: "2026-10-27T20:20:47.343Z",
 } as const satisfies Initiative
