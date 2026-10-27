@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
+import { metricCharacterHealth } from "akasha/story/world/mechanics/metrics/metric-character/resource/health/metric-character-health.page-type.ts"
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 import { testStoryPlayer } from "akasha/story/world/pages/test-world/stories/played/test-story/characters/test-story-player.character-player.ts"
 import {
@@ -26,10 +27,11 @@ test("a good day earns two experience and crosses the next rung", () => {
   expect(added(READING, said.answered)).toEqual([{ page, key: "experience", by: 2 }])
 })
 
-test("a natural one hurts, earns nothing and leaves the routine", () => {
+test("a natural one costs three health, earns nothing and leaves the routine", () => {
   const said = settled(READING, { total: 1, crit: false, fumble: true })
   if (!("answered" in said)) throw new Error("refused")
-  expect(added(READING, said.answered)).toEqual([])
+  const page = `${metricCharacterHealth.slug}/${testStoryPlayer.slug}`
+  expect(added(READING, said.answered)).toEqual([{ page, key: "value", by: -3 }])
   expect(next(READING, said.answered).left).toBe("hurt in the drill")
 })
 

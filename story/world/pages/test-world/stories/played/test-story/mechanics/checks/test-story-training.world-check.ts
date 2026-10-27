@@ -20,7 +20,11 @@ export const testStoryTraining = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A natural one hurts the drill's swordsman and earns nothing.",
+      statement: "A natural one hurts the drill's swordsman for three health and earns nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hurt takes from the health `<character>` of the reading's character.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -41,5 +45,5 @@ export const testStoryTraining = {
     },
   ],
   createdAt: "2026-10-27T19:51:55.341Z",
-  updatedAt: "2026-10-27T21:36:37.885Z",
+  updatedAt: "2026-10-27T23:30:00.595Z",
 } as const satisfies WorldCheck

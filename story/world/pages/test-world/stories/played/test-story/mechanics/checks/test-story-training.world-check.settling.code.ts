@@ -1,5 +1,6 @@
 import type { Added } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { metricCharacterHealth } from "akasha/story/world/mechanics/metrics/metric-character/resource/health/metric-character-health.page-type.ts"
 import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 import { z } from "zod"
@@ -11,6 +12,8 @@ const RUNG = 10
 const GOOD_DAY = 15
 
 const HURT = "hurt in the drill"
+
+const HURT_HEALTH = 3
 
 const DRILL = z.object({
   character: z.string().trim().min(1),
@@ -46,7 +49,12 @@ export function settled(reading: unknown, roll: Rolled): Settled {
 export function added(reading: unknown, answered: unknown): readonly Added[] {
   const held = DRILL.safeParse(reading)
   const drilled = DRILLED.safeParse(answered)
-  if (!held.success || !drilled.success || drilled.data.gained === 0) return []
+  if (!held.success || !drilled.success) return []
+  if (drilled.data.hurt) {
+    const health = `${metricCharacterHealth.slug}/${slugOf(held.data.character)}`
+    return [{ page: health, key: "value", by: -HURT_HEALTH }]
+  }
+  if (drilled.data.gained === 0) return []
   const page = `${characterSkill.slug}/${slugOf(held.data.character)}-${DRILLED_SKILL}`
   return [{ page, key: "experience", by: drilled.data.gained }]
 }
