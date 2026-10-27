@@ -6,8 +6,8 @@ export const testWorldHealingDraught = {
   slug: "test-world-healing-draught",
   title: "Healing Draught",
   world: "world/test-world",
-  description: "A small corked bottle of red liquid that closes minor wounds.",
+  description: "A small corked bottle of red liquid that closes minor wounds, restoring 6 health.",
   category: "consumable",
   createdAt: "2026-10-27T19:10:44.195Z",
-  updatedAt: "2026-10-27T19:10:44.195Z",
+  updatedAt: "2026-10-27T19:57:14.595Z",
 } as const satisfies WorldItem
