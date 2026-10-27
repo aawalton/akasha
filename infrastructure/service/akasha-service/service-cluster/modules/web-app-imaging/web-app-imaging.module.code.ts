@@ -37,7 +37,7 @@ const WEB_APP_IMAGES = "web-app"
 
 const TAG_LENGTH = 12
 
-const BASE_IMAGE = "oven/bun:1.3.14-alpine"
+const BASE_IMAGE = "oven/bun:1.4.4-alpine"
 
 const SCRATCH_AT = "/var/tmp"
 
