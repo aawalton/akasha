@@ -22,12 +22,8 @@ export const awenPlaySidebars = {
     },
     { statement: "Each sidebar shows one place at a time, and both sidebars can be open at once." },
     { statement: "An open sidebar pushes the turns aside rather than covering them." },
-    {
-      statement:
-        "Where both sidebars leave the turns too narrow to read, opening one side closes the other.",
-    },
   ],
   constraints: ["Nothing inside a panel changes but the place that panel is drawn in."],
   createdAt: "2026-10-27T18:26:40.142Z",
-  updatedAt: "2026-10-27T18:51:07.937Z",
+  updatedAt: "2026-10-27T18:51:09.279Z",
 } as const satisfies Initiative
