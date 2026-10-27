@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/montage/modules/montage-placing/montage-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.types.ts","path":"story/world/pages/test-world/stories/played/test-story/chapters/test-story-0001-the-square-and-the-hall.story-chapter-played.ts","typed":true,"deferred":false}

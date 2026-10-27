@@ -30,9 +30,11 @@ import {
 import {
   listedAt,
   valueByPath,
+  valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { worldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.ts"
+import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.ts"
 import { storyOpensAt } from "akasha/story/world/stories/played/properties/story-opens-at.instant-property.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
@@ -49,6 +51,10 @@ const TIME_PASSING = "time-passing"
 export const NEXT = "next"
 
 const STEP_STATUS = "stepStatus"
+
+const POSITION = "position"
+
+const STORY = "story"
 
 const ENDS_AT = exportedAs(turnEndsAt.propertySlug)
 
@@ -76,6 +82,19 @@ function turnOf(turns: readonly Turn[], held: Taken): Turn | undefined {
   return turns.toSorted((a, b) => a.position - b.position).at(-1)
 }
 
+function chapterEnd(root: string, story: string): string | null {
+  const named = `${storyPlayed.slug}/${story}`
+  let latest: { readonly position: number; readonly ends: string } | null = null
+  for (const one of valuesOfType(root, storyChapterPlayed.slug)) {
+    const position = one.value[POSITION]
+    const ends = one.value[ENDS_AT]
+    if (one.value[STORY] !== named || typeof position !== "number") continue
+    if (typeof ends !== "string") continue
+    if (latest === null || position > latest.position) latest = { position, ends }
+  }
+  return latest?.ends ?? null
+}
+
 function fromOf(root: string, turns: readonly Turn[], on: Turn, story: string): string | null {
   const own = valueByPath(root, on.at)?.[ENDS_AT]
   if (typeof own === "string") return own
@@ -86,6 +105,8 @@ function fromOf(root: string, turns: readonly Turn[], on: Turn, story: string): 
     const ends = valueByPath(root, one.at)?.[ENDS_AT]
     if (typeof ends === "string") return ends
   }
+  const closed = chapterEnd(root, story)
+  if (closed !== null) return closed
   const listed = listedAt(root, storyPlayed.slug, story)[0]
   const opens = listed === undefined ? undefined : valueByPath(root, listed.path)?.[OPENS_AT]
   return typeof opens === "string" ? opens : null
