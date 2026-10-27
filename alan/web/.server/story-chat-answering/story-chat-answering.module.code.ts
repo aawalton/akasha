@@ -77,6 +77,14 @@ export async function appendedTo(
       writer: WRITER,
       message: `Alan says a message in the chat of ${game}`,
       puts: [{ path, content: `${held}${line}` }],
+      pages: [
+        {
+          pageTypeSlug: storyPlayed.slug,
+          slug: game,
+          values: { [chat.propertySlug]: HELD },
+          merge: true,
+        },
+      ],
       read: read.at,
     })
     if (!("refused" in wrote)) return { ok: true }

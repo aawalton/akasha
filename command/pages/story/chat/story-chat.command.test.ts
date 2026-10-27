@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { addPageProperty } from "akasha/change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts"
 import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -9,6 +10,12 @@ const AT = "2026-10-27T19:00:00.000Z"
 
 const APPEND = `${changeMechanicalFileContent.slug}/${appendLines.slug}`
 
+const ADD = `${changeMechanicalFileContent.slug}/${addPageProperty.slug}`
+
+const CHAT = "s/test-story.story-played.chat.jsonl"
+
+const PLACED = { page: "s/test-story.story-played.ts", chat: CHAT, stated: true }
+
 const GIVEN: Given = {
   root: "/nowhere",
   calledAs: "story chat",
@@ -18,8 +25,14 @@ const GIVEN: Given = {
 }
 
 test("a message is appended to the chat rather than written over it", () => {
-  const asked = askedFor("a/b.story-played.chat.jsonl", "mari", "yes", AT)
+  const asked = askedFor(PLACED, "mari", "yes", AT)
   expect(asked.map((one): string => one.at)).toEqual([APPEND])
+})
+
+test("the first message states the chat on the story's page as well", () => {
+  const asked = askedFor({ ...PLACED, stated: false }, "mari", "yes", AT)
+  expect(asked.map((one): string => one.at)).toEqual([APPEND, ADD])
+  expect(asked[1]?.given).toEqual({ at: PLACED.page, key: "chat", value: '"jsonl"' })
 })
 
 test("a call appends the body to the story's chat as the calling seat", async () => {
@@ -31,12 +44,12 @@ test("a call appends the body to the story's chat as the calling seat", async ()
       landed.push([...asked])
       return { commit: "c0ffee", landed: [] } as never
     },
-    (_root, story) => (story === "test-story" ? "s/test-story.story-played.chat.jsonl" : null),
+    (_root, story) => (story === "test-story" ? PLACED : null),
     "mari-roleplay-test-story"
   )
   expect(answer.code).toBe(0)
   const given = landed[0]?.[0]?.given as { readonly at: string; readonly content: string }
-  expect(given.at).toBe("s/test-story.story-played.chat.jsonl")
+  expect(given.at).toBe(CHAT)
   const line = JSON.parse(given.content) as Record<string, unknown>
   expect([line["from"], line["body"]]).toEqual([
     "mari-roleplay-test-story",
@@ -65,7 +78,7 @@ test("a message saying nothing is refused", async () => {
     ["--story", "test-story", "--body", "   "],
     GIVEN,
     async () => ({ commit: "c0ffee", landed: [] }) as never,
-    () => "s/test-story.story-played.chat.jsonl",
+    () => PLACED,
     "mari"
   )
   expect(answer.code).not.toBe(0)

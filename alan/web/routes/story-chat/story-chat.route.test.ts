@@ -105,6 +105,7 @@ test("a browser's preflight is answered with nothing to do", async () => {
 
 test("an append writes the chat whole at the commit it read, the new line last", async () => {
   const puts: { readonly path: string; readonly content: string; readonly read?: string }[] = []
+  const stated: unknown[] = []
   const held = '{"at":"t","from":"alan","body":"one"}\n'
   const said = await appendedTo(
     GAME,
@@ -115,6 +116,7 @@ test("an append writes the chat whole at the commit it read, the new line last",
         : { at: "c1", bodies: [{ path: PAGE, content: "" }], unplaced: [] },
     async (writing) => {
       for (const one of writing.puts ?? []) puts.push({ ...one, read: writing.read })
+      stated.push(...(writing.pages ?? []).map((one) => one.values))
       return { commit: "c2", wrote: [CHAT], took: [] }
     }
   )
@@ -122,4 +124,5 @@ test("an append writes the chat whole at the commit it read, the new line last",
   expect(puts).toEqual([
     { path: CHAT, content: `${held}{"at":"u","from":"alan","body":"two"}\n`, read: "c1" },
   ])
+  expect(stated).toEqual([{ chat: "jsonl" }])
 })

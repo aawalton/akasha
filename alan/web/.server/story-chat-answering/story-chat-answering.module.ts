@@ -29,6 +29,11 @@ export const storyChatAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An append states the chat on the story's page, since an unstated file is never read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The game master is told by a message from the chat's own sender, as typed.",
     },
     {
@@ -41,5 +46,5 @@ export const storyChatAnswering = {
     },
   ],
   createdAt: "2026-10-27T19:21:46.037Z",
-  updatedAt: "2026-10-27T19:21:46.037Z",
+  updatedAt: "2026-10-27T19:55:45.778Z",
 } as const satisfies Module
