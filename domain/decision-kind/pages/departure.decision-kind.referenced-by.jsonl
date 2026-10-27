@@ -4188,6 +4188,11 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.ts","id":"01a17f15-90c1-7322-9224-70cbc8178934"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-time-passing.world-check.ts","id":"01a17edf-d61f-7574-9598-5df749060e23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.ts","id":"01a0e822-39b3-7bc0-be8e-4a7093388b67"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-action-check.world-check.ts","id":"01a17f7f-6e81-7774-a985-a2358303cf31"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-time-passing.world-check.ts","id":"01a17f7f-6e81-7a03-b0ee-3bf46aa993f8"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-training.world-check.ts","id":"01a17f7f-6e81-7f07-be86-2d613c9930d0"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-upkeep.world-check.ts","id":"01a17f7f-6e81-7ce2-836e-c88153bf64ff"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/metrics/resources/points/beat-flow-test-points.page-type.ts","id":"01a17f7f-6e81-74c5-a9e2-2b8bf7de8492"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-action-check.world-check.ts","id":"01a17f4c-d936-7a81-be7f-f813da5f15a7"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-time-passing.world-check.ts","id":"01a17f4c-d936-7b1c-aa9b-b7a8bbd22cb8"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-training.world-check.ts","id":"01a17f4c-d936-7d96-ba7e-f2a61645a5dc"}

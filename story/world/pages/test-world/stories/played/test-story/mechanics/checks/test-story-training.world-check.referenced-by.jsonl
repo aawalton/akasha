@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"test-story-training.world-check.settling.code.ts","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-training.world-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-story-training.world-check.settling.code.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
+{"propertySlug":"settled-by","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-training.world-check.ts","id":"01a17f7f-6e81-7f07-be86-2d613c9930d0"}

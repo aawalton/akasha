@@ -630,6 +630,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/cornerstone/stories/written/cornerstone/mechanics/metrics/attributes/warmth/cornerstone-warmth.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/gifted/mechanics/metrics/resources/unallocated-stats/gifted-unallocated-stats.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/metrics/resources/points/beat-flow-test-points.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/metrics/resources/points/clone-probe-points.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/metrics/resources/points/test-story-points.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/ranks/tier/the-beholder-tier.page-type.ts","typed":true,"deferred":false}
