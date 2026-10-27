@@ -13,8 +13,18 @@ export const metricCharacterPoint = {
     "page-type/otherwhere-ix-stat-points",
     "page-type/overwhere-iv-points",
   ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each story's points left to spend are pages of a kind extending this one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "How a story's points are earned and spent is its own mechanic's business.",
+    },
+  ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-27T18:53:28.972Z",
-  updatedAt: "2026-10-27T18:53:28.972Z",
+  updatedAt: "2026-10-27T18:53:59.157Z",
 } as const satisfies PageType

@@ -4121,6 +4121,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/metric-character/resource/experience/metric-character-experience.page-type.ts","id":"01a0f1f1-0f1b-7070-b95e-646c0c05316e"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/metric-character/resource/health/metric-character-health.page-type.ts","id":"01a0f1f1-0f1b-7d96-9b01-7a6e4b6419b0"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/metric-character/resource/mana/metric-character-mana.page-type.ts","id":"01a0f1f1-0f1b-7bc7-8066-465a59efd9cf"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/metric-character/resource/point/metric-character-point.page-type.ts","id":"01a17eb5-d80d-72e5-8c0a-53380a0f0aee"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/metric-character/resource/stamina/metric-character-stamina.page-type.ts","id":"01a0f1f1-0f1b-7d99-ad27-2cbf826e5302"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/properties/history.file-property.ts","id":"01a0c9fe-db25-75da-99e7-c4f8a29375a8"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/properties/revealed-as.text-property.ts","id":"01a0f1c4-51cf-7ebc-8f74-f8162bdf2b0c"}
