@@ -9,8 +9,23 @@ export const sheetInventory = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The inventory tab opens on the character's purse, above what the character carries.",
+      statement: "A row of filters heads the list: all, equipped, each category held, currency.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A filter is drawn only where something falls under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Categories are drawn as filters and groups only where two or more are held.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item stating no category falls under Other.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The purse is the currency group, above what the character carries.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,14 +37,6 @@ export const sheetInventory = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A switch under the list turns from the items carried to the slots filled.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The switch is drawn only where a slot is filled.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A slot with nothing in it is not shown, so gear not yet owned is not foretold.",
     },
     {
@@ -38,5 +45,5 @@ export const sheetInventory = {
     },
   ],
   createdAt: "2026-10-27T19:04:03.834Z",
-  updatedAt: "2026-10-27T19:04:03.834Z",
+  updatedAt: "2026-10-27T19:23:01.232Z",
 } as const satisfies Module

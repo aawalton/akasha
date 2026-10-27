@@ -64,6 +64,14 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Skills are grouped under the attribute governing them, and the rest under Other.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill stating experience shows its level and that experience, with no bar.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An affinity is shown once gained, being knowledge its holder has earned.",
     },
     {
@@ -101,5 +109,5 @@ export const sheetPanel = {
     },
   ],
   createdAt: "2026-09-02T14:52:27.089Z",
-  updatedAt: "2026-10-27T19:04:03.834Z",
+  updatedAt: "2026-10-27T19:23:01.232Z",
 } as const satisfies Module

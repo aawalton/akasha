@@ -5,11 +5,11 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import {
   ToggleGroup,
   ToggleGroupItem,
 } from "akasha/design/interface/primitive/modules/toggle-group/toggle-group.module.code.tsx"
+import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import type {
   ClientItem,
   ClientLedgerLine,
@@ -32,11 +32,17 @@ const SPENT = "−"
 
 const SHOWN_NUMBER: Intl.NumberFormatOptions = { maximumFractionDigits: 2 }
 
-const ITEMS = "items"
+const ALL = "all"
 
 const EQUIPPED = "equipped"
 
-type View = typeof ITEMS | typeof EQUIPPED
+const CURRENCY = "currency"
+
+const OTHER = "other"
+
+const SORTS = ["armor", "consumable", "material", "tool", "weapon"]
+
+const CHIP = "h-7 flex-none rounded-full px-2.5 font-mono text-[11px] data-[state=on]:text-accent"
 
 export function shownOf(value: number | string): string {
   return typeof value === "number" ? value.toLocaleString(undefined, SHOWN_NUMBER) : value
@@ -122,23 +128,20 @@ function actsOf(name: string, worn: boolean): readonly Act[] {
   ]
 }
 
+function sortOf(item: ClientItem): string {
+  return item.category ?? OTHER
+}
+
 function CarriedRows({
   carried,
-  query,
   acting,
 }: {
   carried: readonly ClientItem[]
-  query: string
   acting: SheetActing | undefined
 }) {
-  if (carried.length === 0) {
-    return <div className="font-mono text-[12px] text-tertiary">nothing carried</div>
-  }
-  const shown = searched(byName(carried), query)
-  if (shown.length === 0) return <NoneFound />
   return (
     <Rows>
-      {shown.map((item, i) => (
+      {carried.map((item, i) => (
         <Entry
           key={item.name ?? `item-${String(i)}`}
           name={item.name ?? ""}
@@ -149,6 +152,34 @@ function CarriedRows({
         />
       ))}
     </Rows>
+  )
+}
+
+function GroupedRows({
+  carried,
+  sorts,
+  query,
+  acting,
+}: {
+  carried: readonly ClientItem[]
+  sorts: readonly string[]
+  query: string
+  acting: SheetActing | undefined
+}) {
+  const shown = searched(byName(carried), query)
+  if (shown.length === 0) return <NoneFound />
+  if (sorts.length < 2) return <CarriedRows carried={shown} acting={acting} />
+  return (
+    <div className="flex flex-col gap-3">
+      {sorts.map((sort) => {
+        const held = shown.filter((item) => sortOf(item) === sort)
+        return held.length === 0 ? null : (
+          <Section key={sort} title={titledAs(sort)}>
+            <CarriedRows carried={held} acting={acting} />
+          </Section>
+        )
+      })}
+    </div>
   )
 }
 
@@ -200,6 +231,18 @@ export function inventoryShownIn(sheet: ClientSheet): boolean {
   )
 }
 
+function sortsIn(carried: readonly ClientItem[]): readonly string[] {
+  const held = new Set(carried.map(sortOf))
+  const named = SORTS.filter((sort) => held.has(sort))
+  return named.length === 0
+    ? held.size === 0
+      ? []
+      : [OTHER]
+    : held.has(OTHER)
+      ? [...named, OTHER]
+      : named
+}
+
 export function InventoryTab({
   sheet,
   acting,
@@ -209,50 +252,56 @@ export function InventoryTab({
 }) {
   const carried = sheet.items ?? []
   const worn = Object.entries(sheet.equipment ?? {})
-  const [view, setView] = useState<View>(carried.length === 0 && worn.length > 0 ? EQUIPPED : ITEMS)
-  const shown: View = worn.length === 0 ? ITEMS : view
+  const purse = sheet.purse
+  const sorts = sortsIn(carried)
+  const filters = [
+    ALL,
+    ...(worn.length > 0 ? [EQUIPPED] : []),
+    ...(sorts.length > 1 ? sorts : []),
+    ...(purse === undefined ? [] : [CURRENCY]),
+  ]
+  const [picked, setPicked] = useState(ALL)
+  const shown = filters.includes(picked) ? picked : ALL
+  const items = shown === ALL ? carried : carried.filter((item) => sortOf(item) === shown)
+  const purseShown = purse !== undefined && (shown === ALL || shown === CURRENCY)
   return (
-    <div className="flex flex-col gap-3">
-      {sheet.purse === undefined ? null : (
-        <Section title="Purse">
-          <PurseRows purse={sheet.purse} ledgers={sheet.ledgers} />
-        </Section>
+    <Searched label={shown === EQUIPPED ? "equipped" : "items"}>
+      {(query) => (
+        <div className="flex flex-col gap-3">
+          {filters.length < 2 ? null : (
+            <ToggleGroup
+              type="single"
+              size="sm"
+              value={shown}
+              onValueChange={(next) => {
+                if (next !== "") setPicked(next)
+              }}
+              className="w-full flex-wrap justify-start gap-1"
+            >
+              {filters.map((filter) => (
+                <ToggleGroupItem key={filter} value={filter} className={CHIP}>
+                  {titledAs(filter)}
+                </ToggleGroupItem>
+              ))}
+            </ToggleGroup>
+          )}
+          {purseShown ? (
+            <Section title={titledAs(CURRENCY)}>
+              <PurseRows purse={purse} ledgers={sheet.ledgers} />
+            </Section>
+          ) : null}
+          {shown === EQUIPPED ? (
+            <WornRows worn={worn} query={query} acting={acting} />
+          ) : shown === CURRENCY || items.length === 0 ? null : (
+            <GroupedRows
+              carried={items}
+              sorts={shown === ALL ? sorts : []}
+              query={query}
+              acting={acting}
+            />
+          )}
+        </div>
       )}
-      {carried.length === 0 && worn.length === 0 ? null : (
-        <Searched label={shown === ITEMS ? "items" : "equipped"}>
-          {(query) =>
-            shown === ITEMS ? (
-              <CarriedRows carried={carried} query={query} acting={acting} />
-            ) : (
-              <WornRows worn={worn} query={query} acting={acting} />
-            )
-          }
-        </Searched>
-      )}
-      {worn.length === 0 ? null : (
-        <ToggleGroup
-          type="single"
-          size="sm"
-          value={shown}
-          onValueChange={(next) => {
-            if (next === ITEMS || next === EQUIPPED) setView(next)
-          }}
-          className={`w-full rounded-lg ${surfaceClass(2)} p-[3px]`}
-        >
-          <ToggleGroupItem
-            value={ITEMS}
-            className="font-mono text-[12px] data-[state=on]:text-accent"
-          >
-            Items
-          </ToggleGroupItem>
-          <ToggleGroupItem
-            value={EQUIPPED}
-            className="font-mono text-[12px] data-[state=on]:text-accent"
-          >
-            Equipped
-          </ToggleGroupItem>
-        </ToggleGroup>
-      )}
-    </div>
+    </Searched>
   )
 }

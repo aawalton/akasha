@@ -187,6 +187,24 @@ function counted(one: Counted): Held {
   }
 }
 
+type Part = { readonly title: string; readonly held: readonly Held[]; readonly usable?: boolean }
+
+function skillPartsOf(held: readonly Held[]): readonly Part[] {
+  const governed = [...new Set(held.flatMap((one) => one.attribute ?? []))].sort()
+  return [
+    ...governed.map((title) => ({
+      title,
+      held: held.filter((one) => one.attribute === title),
+      usable: true,
+    })),
+    {
+      title: governed.length === 0 ? "Skills" : "Other",
+      held: held.filter((one) => one.attribute === undefined),
+      usable: true,
+    },
+  ]
+}
+
 function usingOf(name: string): readonly Act[] {
   return [{ label: "Use", text: `I use ${name}`, tone: "use" }]
 }
@@ -218,7 +236,16 @@ function HeldRows({
                 {one.rank == null ? null : (
                   <span className="font-semibold text-secondary">{one.rank}</span>
                 )}
-                {one.score == null ? null : <span>{one.score}</span>}
+                {one.experience === undefined ? (
+                  one.score == null ? null : (
+                    <span>{one.score}</span>
+                  )
+                ) : (
+                  <span>
+                    {one.score == null ? "" : `Level ${String(one.score)} / `}
+                    {one.experience} XP
+                  </span>
+                )}
               </>
             }
             note={one.note}
@@ -237,7 +264,7 @@ function HeldTab({
   acting,
 }: {
   label: string
-  parts: readonly { title: string; held: readonly Held[]; usable?: boolean }[]
+  parts: readonly Part[]
   acting: SheetActing | undefined
 }) {
   return (
@@ -295,7 +322,7 @@ export function SheetTabs({
 }: SheetShown & { readonly sheet: ClientSheet; readonly head: SheetHead }) {
   const [picked, setPicked] = useState<string>(STATS)
   const skills = [
-    { title: "Skills", held: sheet.skills ?? [], usable: true },
+    ...skillPartsOf(sheet.skills ?? []),
     { title: "Affinities", held: (sheet.affinities ?? []).map(counted) },
   ].filter((part) => part.held.length > 0)
   const traits = [
