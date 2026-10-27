@@ -7,8 +7,8 @@ export const cloneProbePlayer = {
   title: "Test Player",
   cover: "image/image-17f59c7233925455",
   story: "story-played/clone-probe",
-  place: "place/test-world-square",
+  place: "place/test-world-hall",
   person: "person/alan",
   createdAt: "2026-10-27T21:38:27.218Z",
-  updatedAt: "2026-10-27T21:38:27.218Z",
+  updatedAt: "2026-10-27T21:57:31.063Z",
 } as const satisfies CharacterPlayer
