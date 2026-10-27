@@ -12,6 +12,7 @@
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-iron-sword.story-item.ts","id":"01a17ec8-4447-7b8f-84ce-f555af8a3b67"}
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-lantern.story-item.ts","id":"01a17ec8-4447-7970-a7e2-d7805584d1d4"}
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-leather-coat.story-item.ts","id":"01a17ec8-4447-7db2-9c5a-4613a9f7257d"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/lore/test-world-overview.lore.ts","id":"01a17ec5-127b-73a8-816f-db2d2a379d02"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/test-story/mechanics/metrics/experiences/test-story-player.metric-character-experience.ts","id":"01a17ec6-9eaf-768f-b5d0-4a37a58f65de"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/test-story/mechanics/metrics/healths/test-story-player.metric-character-health.ts","id":"01a17ec6-9eaf-7b0b-8053-c85cc6cd59a0"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/test-story/mechanics/metrics/levels/test-story-player.metric-character-level.ts","id":"01a17ec6-9eb0-78c5-a231-b365260380ed"}

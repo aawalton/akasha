@@ -9,11 +9,15 @@ export const testStory00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/test-story-player"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/player",
   action: "I use Healing Draught",
   beats: "jsonl",
-  issues: "txt",
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/continuity"],
+  reviewedBy: [
+    "story-reviewer/scene",
+    "story-reviewer/holdings",
+    "story-reviewer/continuity",
+    "story-reviewer/style",
+  ],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
@@ -23,6 +27,6 @@ export const testStory00005 = {
   ],
   endsAt: "2026-10-27T08:37:00.000Z",
   createdAt: "2026-10-27T19:47:39.549Z",
-  updatedAt: "2026-10-27T20:11:54.835Z",
+  updatedAt: "2026-10-27T20:13:20.792Z",
   ownLength: 53,
 } as const satisfies StoryTurnPlayed

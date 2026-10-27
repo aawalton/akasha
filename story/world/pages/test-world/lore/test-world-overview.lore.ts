@@ -16,7 +16,11 @@ export const testWorldOverview = {
       fact: "Every name in the Test World says plainly what the thing is.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A healing draught's red liquid tastes of iron and honey.",
+      knowers: ["lore-disclosure/game-master", "character-player/test-story-player"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T19:10:06.969Z",
+  updatedAt: "2026-10-27T20:13:20.792Z",
 } as const satisfies Lore
