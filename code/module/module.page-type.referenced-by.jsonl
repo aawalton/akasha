@@ -2778,7 +2778,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/needs-weighing/needs-weighing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/time-passing/time-passing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/modules/affinity-element/affinity-element.module.ts","typed":true,"deferred":false}

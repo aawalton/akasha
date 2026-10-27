@@ -6,7 +6,7 @@ export const overwhereIStarfallLegacy2 = {
   slug: "overwhere-i-starfall-legacy-2",
   title: "Starfall Legacy, continued",
   world: "world/hell-hound-evolution-litrpg",
-  about: "overwhere-i-legacy/overwhere-i-starfall-legacy",
+  about: "world/hell-hound-evolution-litrpg",
   facts: [
     {
       fact: "The earth-and-air ripple is a Weave use, easy to read in a den, reaching about thirty yards.",
@@ -18,7 +18,7 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "An earth-and-air ripple feels hollows and moving air sharply, but living bodies only faintly.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No System window names a thing she finds; she learns what it is from someone who knows.",
@@ -86,7 +86,7 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "Her legacy cannot yet melt stone to lava; heated stone only glows, cracks and bursts.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Held 30 seconds, a heated patch bursts, flinging hot chips 3 yards; it costs 20 mana a half-minute.",
@@ -162,11 +162,11 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "A beam can be loosed from her eyes, aimed where she looks; untried, that is a band harder.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Loosing beams from her eyes leaves her dazzled a moment after, her next look a band harder.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Eye beams cost what hand beams cost; they harm neither her eyes nor her held flame.",
@@ -202,11 +202,11 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "Fire on a wound sears it shut with pain; air, water or earth alone do nothing for it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A water-and-earth weave held on a wound, meant as flesh knitting, mends it: a Weave use, no new way.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The mending weave restores 1 health every 2 minutes at 10 mana a minute, on shallow wounds only.",
@@ -230,15 +230,15 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "The mending weave closes shallow wounds slowly, at a steady cost in mana.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Fire bound with air on a wound burns it worse, flaring like a hot stove.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On a deep wound the mending weave takes no hold at all, its mana draining for nothing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A fire-and-earth strength working is fire-strength by another road: same Strength, same cost.",
@@ -278,7 +278,7 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "A lightning strike cracks like thunder; anyone within a mile hears it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A lightning strike is a Surge blast for harm; no scale, hide or metal wards it.",
@@ -286,11 +286,11 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "Nala first called lightning on day 8: twin strikes from above onto the Weir Wyrm's skull.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Struck by her lightning, the Weir Wyrm lay stunned a moment, unable to move.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Earth can thrust stone up as spikes within a held working's reach in about a second; a Surge use.",
@@ -322,11 +322,11 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "Nala can thrust a stone surface up into spikes within her reach, in about a second.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Eye beams leave Nala dazzled by afterglow for a couple of seconds.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A gentle steam weave played over her own skin and clothes cleans them without scalding; no roll.",
@@ -342,7 +342,7 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "An earth-and-water weave worked into a wool tear felts its fibres shut in a stiff, ridged seam.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Felting wool costs 10 mana a minute; a hand-span tear takes about five minutes, with no roll.",
@@ -354,5 +354,5 @@ export const overwhereIStarfallLegacy2 = {
     },
   ],
   createdAt: "2026-09-30T22:04:36.881Z",
-  updatedAt: "2026-10-03T13:05:16.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

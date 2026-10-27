@@ -109,7 +109,7 @@ export const overwhereITheWesternMarch = {
     },
     {
       fact: "The ford is in the Western March of the Kingdom of Aubrevine, which its folk call the Vinelands.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A small mana crystal is a thumb-joint of pale blue crystal, cold to hold and faintly aglow in shade.",
@@ -117,15 +117,15 @@ export const overwhereITheWesternMarch = {
     },
     {
       fact: "One who draws on a small mana crystal regains 30 mana, and the crystal crumbles to dust.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Held in hand, a mana crystal hums faintly against anyone with a mana reserve.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Drawing a small mana crystal dry takes about half a minute, held in a bare hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Drawing on a mana crystal needs no skill and no check; anyone with a mana reserve can do it.",
@@ -133,5 +133,5 @@ export const overwhereITheWesternMarch = {
     },
   ],
   createdAt: "2026-09-29T12:35:59.953Z",
-  updatedAt: "2026-10-02T17:15:01.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

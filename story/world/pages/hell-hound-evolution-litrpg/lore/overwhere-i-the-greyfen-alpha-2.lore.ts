@@ -10,27 +10,11 @@ export const overwhereITheGreyfenAlpha2 = {
   facts: [
     {
       fact: "Ghost-Eye, the two biggest and one returned wolf hold the east shore, facing her, till the pups go.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-ghost-eye",
-        "character-other/overwhere-i-pine-isle-drakewolf-six",
-        "character-other/overwhere-i-pine-isle-drakewolf-seven",
-        "character-other/overwhere-i-pine-isle-drakewolf-eight",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ghost-Eye gives one long howl as the pups leave; it carries far across the fen.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-ghost-eye",
-        "character-other/overwhere-i-pine-isle-drakewolf-four",
-        "character-other/overwhere-i-pine-isle-drakewolf-five",
-        "character-other/overwhere-i-pine-isle-drakewolf-six",
-        "character-other/overwhere-i-pine-isle-drakewolf-seven",
-        "character-other/overwhere-i-pine-isle-drakewolf-eight",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The next thing she must answer: at the hummocks' end, 200 yards off, she sees the pups leaving.",
@@ -50,33 +34,15 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "Within minutes two of the returned wolves lead the pups off the island's west side into deep fen.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-ghost-eye",
-        "character-other/overwhere-i-pine-isle-drakewolf-four",
-        "character-other/overwhere-i-pine-isle-drakewolf-five",
-        "character-other/overwhere-i-pine-isle-drakewolf-six",
-        "character-other/overwhere-i-pine-isle-drakewolf-seven",
-        "character-other/overwhere-i-pine-isle-drakewolf-eight",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Through day 3's early afternoon every wolf on the island faces the south-east marsh where Nala lies.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-ghost-eye",
-        "character-other/overwhere-i-pine-isle-drakewolf-four",
-        "character-other/overwhere-i-pine-isle-drakewolf-five",
-        "character-other/overwhere-i-pine-isle-drakewolf-six",
-        "character-other/overwhere-i-pine-isle-drakewolf-seven",
-        "character-other/overwhere-i-pine-isle-drakewolf-eight",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At 13:30 on day 3, from the hummocks' end, Nala saw two wolves lead the pups west off the island.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ghost-Eye stands still on the shore about 210 yards from her; a slug at it there is a hard act.",
@@ -96,14 +62,7 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "Missed, Ghost-Eye stands its ground snarling; the shore wolves hold until the pups are clear.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-ghost-eye",
-        "character-other/overwhere-i-pine-isle-drakewolf-six",
-        "character-other/overwhere-i-pine-isle-drakewolf-seven",
-        "character-other/overwhere-i-pine-isle-drakewolf-eight",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A hit at a cost only grazes it, for half harm, and it still comes at her with the three.",
@@ -115,11 +74,7 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "At 13:31 on day 3 Nala's slug fell spent into the channel; Ghost-Eye held the shore, snarling.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-ghost-eye",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "After the second spent slug, Ghost-Eye marks exactly where she lies and judges her shots harmless.",
@@ -147,42 +102,19 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "After her second miss Ghost-Eye fixed calmly on her hummock and growled low.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-ghost-eye",
-        "character-other/overwhere-i-pine-isle-drakewolf-six",
-        "character-other/overwhere-i-pine-isle-drakewolf-seven",
-        "character-other/overwhere-i-pine-isle-drakewolf-eight",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At 13:32 on day 3 the two biggest slipped north and south off the shore into reeds, out of sight.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-ghost-eye",
-        "character-other/overwhere-i-pine-isle-drakewolf-six",
-        "character-other/overwhere-i-pine-isle-drakewolf-seven",
-        "character-other/overwhere-i-pine-isle-drakewolf-eight",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "After her second miss Ghost-Eye and Six stayed on the shore, watching her.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-ghost-eye",
-        "character-other/overwhere-i-pine-isle-drakewolf-six",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At 13:32 on day 3 Nala's second slug fell spent in the channel, a few yards short of Ghost-Eye.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-ghost-eye",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wading upright into the open marsh she is seen at once; 100 yards takes her about two minutes.",
@@ -250,15 +182,15 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "About 13:33 on day 3 four slugs killed the two biggest wolves as they burst from the reeds at her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "About 13:36 on day 3 five of Nala's slugs killed Ghost-Eye as it swam the channel, 70 yards off.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ghost-Eye's body floats low in the channel and drifts slowly north round the island.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Killing Ghost-Eye, 15 levels above her, does not raise her legacy rank; that needs 20 above.",
@@ -270,32 +202,19 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "At 13:33 on day 3 Ghost-Eye barked once, and Six turned and loped west into the pines.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-ghost-eye",
-        "character-other/overwhere-i-pine-isle-drakewolf-six",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In a dead body the water answers again, slow and heavy; plucking an eye or ears with it is easy.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ghost-Eye's milky eye is a hard pearl of clouded crystal, mana-grown; alchemists would pay well.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Antler Hall pays Ghost-Eye's bounty on the whole head; an eye and ears alone it will not take.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Ghost-Eye's head weighs about thirty pounds; its whole body as much as three grown men.",
@@ -311,15 +230,11 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "Ghost-Eye's milky eye, plucked, is a hard pearl of clouded crystal.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Up close Ghost-Eye is huge, its grey-green scales scarred pale along the flank.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Left in the channel, Ghost-Eye's body is torn by fen scavengers; by day 5 the head is gone.",
@@ -331,13 +246,9 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "Nala killed Ghost-Eye and its pack's highest-level wolves on day 3; the rest of the pack lives.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
   ],
   createdAt: "2026-09-30T21:01:47.715Z",
-  updatedAt: "2026-10-02T15:38:47.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

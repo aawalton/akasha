@@ -41,10 +41,10 @@ export const overwhereIIvoTessaly = {
     },
     {
       fact: "The drover Hob Tanner says Factor Ivo Tessaly sold him dark, empty crystals as full.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:37:01.015Z",
-  updatedAt: "2026-10-02T23:16:08.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

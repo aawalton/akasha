@@ -17,11 +17,10 @@ export const metricCharacterResource = {
     "page-type/tower-mana",
     "page-type/tower-stamina",
     "page-type/overwhere-iii-blightstones",
-    "page-type/overwhere-i-reserve",
   ],
 
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T15:53:22.493Z",
-  updatedAt: "2026-10-27T19:44:46.500Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies PageType

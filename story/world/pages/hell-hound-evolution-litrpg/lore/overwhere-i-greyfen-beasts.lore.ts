@@ -41,7 +41,7 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "Reedlurkers of Level 8 to 12 are long otter-bodied ambushers with crocodile jaws in the channels.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A reedlurker skin makes waterproof boots and sells for five silver.",
@@ -101,31 +101,31 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "When one of a sounder is hurt, the rest charge whoever did it; the boar kicks back like a mule.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Fenwatch sounder's old boar is bigger than the four sows, grey-bristled and scarred.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A charging Grubboar is fast for a short burst but blows within a minute; wind-speed outruns it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When a sounder's old boar falls, the sows break and scatter into the carr instead of fighting on.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala drowned the Fenwatch sounder's old boar in its wallow; the four sows fled into the carr.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An old Grubboar weighs as much as four grown men.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The old boar's carcass sank to its shoulders in the wallow, its tusks under water and out of reach.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sawing through an old Grubboar's neck with a water disc takes about two minutes held.",
@@ -133,7 +133,7 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "An old Grubboar's head alone weighs about as much as a grown man.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Taking a Grubboar's head off with a water disc is a moderate act, even with the head under water.",
@@ -141,11 +141,11 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "Nala sawed off the old boar's head and dragged it a few hundred yards into the alder carr.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An old boar's tusks are yellow and forearm-long; a fast water disc takes each off in under a minute.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A pair of old Grubboar tusks sells to carvers for two silver.",
@@ -161,7 +161,7 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "Nala cut both tusks off the old boar's head with a thin, fast water disc.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A reedlurker has 20 health and slick hide warding 1; it strikes from under water and drags prey in.",
@@ -173,23 +173,23 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "Three reedlurkers raid Jory Weir's eel traps by night and tear them up.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A grown reedlurker is as long as a man, brown and sleek, with webbed claws and small yellow eyes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "By day reedlurkers lie up in holts dug into channel banks, the holt mouths under water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Reedlurkers come to Jory's traps after full dark, drawn by the eels caught in them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory knows two reedlurker holts by their mud slides in the bank near his traps.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Level 12 reedlurker holts alone under an alder root a hundred yards up the channel.",
@@ -205,11 +205,11 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "A holt shows as a smooth mud slide into the water, with a small air hole in the reeds above.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A holt tunnels up from under water into a dry chamber in the bank, below its air hole.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A reedlurker holds its breath a quarter hour, so water held on its head drowns it only that slowly.",
@@ -253,7 +253,7 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "After Nala's thump, something scrabbled under the first slide; bubbles ran mid-channel and stopped.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Mud worked into a holt squeezes the den and forces its sleeper out through the water mouth.",
@@ -281,7 +281,7 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "Nala's mud grip found the first slide's den empty, trodden mud; whatever scrabbled there had left.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Out of the water a reedlurker is slow and clumsy; acts against it on land are a band easier.",
@@ -293,11 +293,11 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "Nala heaved a reedlurker out of the channel in held water and dropped it on the mud.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On land a reedlurker is clumsy; its webbed claws skid, and it drags itself back toward water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wet, a reedlurker's hide wards 3 against fire and heat, against 1 for blows.",
@@ -313,15 +313,15 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "Nala's searing hot-wind blast blistered the reedlurker's wet hide; it lived, dragging toward water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Level 10 reedlurker died on the bank to Nala's hot-wind blast at 10:53 on day 2.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Killing the Level 10 reedlurker raised Nala to Level 4.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The fight's noise woke the Level 9; it lies awake and still in its dry den, not in the channel.",
@@ -337,6 +337,6 @@ export const overwhereIGreyfenBeasts = {
     },
   ],
   secrets: "jsonl",
-  updatedAt: "2026-10-08T16:27:28.258Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
   createdAt: "2026-09-29T12:35:59.952Z",
 } as const satisfies Lore

@@ -17,7 +17,7 @@ export const overwhereISootjaw = {
     },
     {
       fact: "It is a shaggy black four-legged beast the size of a small bear, thick-necked and heavy-boned.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its short snout is crowded with pointed teeth, and it hisses like a cat before it charges.",
@@ -81,7 +81,7 @@ export const overwhereISootjaw = {
     },
     {
       fact: "Fenwatch pays a bounty of one gold and the pelt to whoever kills it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "It is an ordinary danger of the march; loosed raw element at full strength would end it.",
@@ -89,15 +89,15 @@ export const overwhereISootjaw = {
     },
     {
       fact: "Its muzzle is soot-black, and its short snout is crowded with pointed teeth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its forepaws are as wide as the big paw prints in the mud at Greyfen Ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On day one it came down the ridge track to the ford, saw Nala across it, and hissed like a cat.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sootjaw has 16 health at most, and all 16 left this morning.",
@@ -109,15 +109,15 @@ export const overwhereISootjaw = {
     },
     {
       fact: "Its hide gives no ward against fire, and its dry, matted fur catches and burns.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On day one Nala burned it through the chest with a beam of fire, and it died in the ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its carcass still smokes in the shallows of Greyfen Ford after Nala's kill.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Brute meat is dark, gamy and tough, but good stewed long, and Fenwatch would not refuse it.",
@@ -129,19 +129,19 @@ export const overwhereISootjaw = {
     },
     {
       fact: "Nala's beam burned a neat round hole clean through Sootjaw, chest to back.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sootjaw's carcass weighs as much as three grown men.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Stewed long, Sootjaw's tough meat would feed half of Fenwatch.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Skinned, the hide is slit belly to throat and down each leg, then worked off with a knife.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Skinning and quartering it takes Hessa most of an hour at the water's edge.",
@@ -149,22 +149,22 @@ export const overwhereISootjaw = {
     },
     {
       fact: "The burn hole through its chest spoils part of the pelt, which now fetches three silver.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its heart is small and hard; hunters leave a Brute's guts in the water for the eels.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Unspoiled, Sootjaw's pelt would have fetched four silver.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Under its matted, stiff fur, Sootjaw's skin is thick and pale, threaded with fat.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:27:58.317Z",
-  updatedAt: "2026-09-30T08:59:27.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

@@ -37,7 +37,7 @@ export const overwhereIWennaThorne = {
     },
     {
       fact: "Fen-fever has taken hold among the reed-cutters this summer, and she is worn thin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She wants an apprentice with steady hands before her own fail.",
@@ -61,10 +61,10 @@ export const overwhereIWennaThorne = {
     },
     {
       fact: "At the feast a tall, stooped woman with cropped white hair and scarred hands stared long at Nala.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:32:10.023Z",
-  updatedAt: "2026-09-30T10:17:56.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

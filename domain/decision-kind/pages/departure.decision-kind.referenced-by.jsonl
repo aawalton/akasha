@@ -4144,7 +4144,6 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.ts","id":"01a0de28-48fb-7955-8bf2-53eabca62339"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
-{"propertySlug":"decision-kind","path":"story/world/mechanics/modules/needs-weighing/needs-weighing.module.ts","id":"01a0ea2c-1597-79c2-ab49-dae0d0cd08fb"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.ts","id":"01a0de82-ec49-7228-a137-9e9f1a4de0d8"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/time-passing/time-passing.module.ts","id":"01a0e9e1-aa5f-7d53-b9bb-61529eb4291d"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/aliases.text-property.ts","id":"01a06558-a991-7721-9c7a-fb59e452d286"}
@@ -4170,18 +4169,6 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/mechanics/metrics/resources/unallocated-stats/gifted-unallocated-stats.page-type.ts","id":"01a17ede-cda6-7931-879e-9e0437dff415"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-time-passing.world-check.ts","id":"01a17edf-d61f-7574-9598-5df749060e23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.ts","id":"01a0e822-39b3-7bc0-be8e-4a7093388b67"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-action-check.world-check.ts","id":"01a0ed21-5ed8-7476-8439-ac8b7d7e371d"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-growth.world-check.ts","id":"01a0ed25-0488-7ca5-9f1f-ce7b5dcf8170"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-harm.world-check.ts","id":"01a0ed23-989a-7b30-981f-4ddfdf312eff"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-needs.world-check.ts","id":"01a0ed26-0a4e-77c4-ad84-ae5250411878"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-notice.world-check.ts","id":"01a0ed27-cca3-70b9-904d-5c8b7ef6d0e5"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-standing.world-check.ts","id":"01a0ed27-0ada-7c1f-b23a-47f4a371e1a6"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-time-passing.world-check.ts","id":"01a0ed1c-7db5-7368-895f-318772151bde"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-trade.world-check.ts","id":"01a0ed28-82df-7831-95df-3201016faaf9"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/held/overwhere-i-legacy-held.page-type.ts","id":"01a0ed17-2f4e-73a6-940e-85672d8c9fb8"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/overwhere-i-legacy.page-type.ts","id":"01a0ed17-2f4f-7e6b-803f-da64697e2bcf"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/metrics/resources/reserve/overwhere-i-reserve.page-type.ts","id":"01a0ed2b-b8a2-7386-a822-fd111999eefc"}
-{"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/skills/overwhere-i-skill.page-type.ts","id":"01a0ed15-c07a-7af3-800b-dd692b3a0334"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/mechanics/checks/dragons-and-dungeons-check.world-check.ts","id":"01a0e3a2-2fca-74ba-add3-c6d38b930e0b"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.ts","id":"01a0dee4-f4b7-70af-bd38-a35274387d8c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.ts","id":"01a0de1c-e954-742b-969b-e66eaf0b328e"}

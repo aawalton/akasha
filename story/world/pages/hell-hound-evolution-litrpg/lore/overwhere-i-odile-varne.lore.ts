@@ -17,7 +17,7 @@ export const overwhereIOdileVarne = {
     },
     {
       fact: "She is thin and silver-haired, with ink-stained fingers and a grey velvet coat.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She holds court in the town hall on the square and keeps the tax rolls for the villages.",
@@ -41,31 +41,23 @@ export const overwhereIOdileVarne = {
     },
     {
       fact: "Odile Varne holds her court in the Moot Hall, the town hall on the square.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Her court sits at noon; the town clerk writes each name at the door and calls them in that order.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Odile Varne, Magistrate of Wendlow, sits in judgement for the margrave.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Grete Holm sent Odile Varne the letter the day it came off the quarry road, with no word.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Odile Varne says Harl Voss kept no company with the merchants' counting-house.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "She takes a quiet share of the guild's crystal profits for looking away from its prices.",
@@ -109,51 +101,27 @@ export const overwhereIOdileVarne = {
     },
     {
       fact: "Varne locked Voss's letter in a press behind her bench in the Moot Hall.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne bound Nala to keep Voss's letter between the three of them; Grete knows to hold her tongue.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne says a stranger with no lord and no papers gets asked about in Wendlow, sooner or later.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "For Nala's silence, Varne offers her papers as a sworn hunter of Wendlow, under Varne's seal.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne says papers under her seal answer any gate, reeve or watch that asks who the bearer is.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne asks Nala her home and her lord, to write on her papers.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Weigh Words feels Nala's 'no home, no lord, no papers' believed, but 'born in the wilds' not.",
@@ -189,27 +157,15 @@ export const overwhereIOdileVarne = {
     },
     {
       fact: "A sworn hunter of Wendlow answers Varne's bench against outlaws and beasts, paid at Board rates.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne's sworn hunters pay no fee for their papers, and pass Wendlow's gate without toll.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "A sworn hunter's oath is spoken with one hand on the town book, the clerk to witness, then sealed.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "She has written three times to the margrave for riders to clear the east road, and been refused.",
@@ -253,83 +209,43 @@ export const overwhereIOdileVarne = {
     },
     {
       fact: "A sworn hunter swears three things: keep the margrave's peace, answer Varne's call, speak true.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Speaking true under the oath means telling Varne straight what one has seen on her roads.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Otherwise a sworn hunter goes where she likes and hunts for whom she likes.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "A sworn hunter may turn Varne's call down with a reason given; ignoring one breaks the oath.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "A broken oath voids a sworn hunter's papers and strikes her name.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "A sworn hunter may hand her papers back before Varne's bench any day, and be quit of the oath.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "In war the margrave may summon the march's sworn hunters; so far in this war he has not.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne says the letter bargain stands apart from the oath, whatever Nala chooses.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne has written the margrave three times for riders to clear the east road, refused each time.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne says that if Nala swears, the east road is her first call on Nala.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne knows the Board proved Voss and eight dead, of a crew reckoned a dozen-odd; no more than that.",
@@ -353,45 +269,25 @@ export const overwhereIOdileVarne = {
     },
     {
       fact: "Varne's first call on Nala: rid the east road of what is left of Harl Voss's crew.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne says the Board proved Voss and eight of his men, Nala's work, of a crew reckoned a dozen-odd.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne wants first to learn who of Voss's crew is left, and where.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne pays two gold a crewman at the Board's rate: his right ear with its tag, or him alive.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
     {
       fact: "Varne wants word of Voss's crew before the next tax rider, ten days from day 9.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-odile-varne",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-odile-varne"],
     },
   ],
   createdAt: "2026-09-29T12:37:01.015Z",
-  updatedAt: "2026-10-04T13:32:13.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

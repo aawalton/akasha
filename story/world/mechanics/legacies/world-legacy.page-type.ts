@@ -7,10 +7,10 @@ export const worldLegacy = {
   definition: "an ability a character inherits from whoever had it before",
   pluralSlug: "legacies",
   extends: ["page-type/world-mechanic"],
-  parts: ["page-type/overwhere-i-legacy"],
+  parts: [],
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-09-29T12:15:19.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies PageType

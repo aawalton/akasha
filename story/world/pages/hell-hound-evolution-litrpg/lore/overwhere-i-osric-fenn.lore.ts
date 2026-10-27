@@ -57,11 +57,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Hearing of a drake-pearl, Osric is first to Nala, offering two gold for it on sight.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric's two gold is a pedlar's price; a Wendlow alchemist pays about four for the drake-pearl.",
@@ -69,107 +65,55 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric Fenn named himself to Nala at the Stag as a pedlar.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric takes Nala's two silver gladly; he never turns down coin for talk.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric says Wendlow alchemists grind drake-pearls into night-sight draughts.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric says a mage can drain a drake-pearl like a fat crystal, and calls that burning gold.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric won't say what an alchemist pays, and lifts his offer to two gold and five silver.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric knows a Wendlow enchanter, Ilse Varrow, who sets such stones for mages, at a rich man's price.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric knows no more of what a pearl focus does than that mages swear by them.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Hearing she has gold plenty, Osric laughs, lets his offer stand till he leaves, and presses no more.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric leaves Fenwatch for Wendlow on the morning of day 5.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric offers Nala free passage to Wendlow on his cart at dawn on day 5, if she rides as its guard.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric wants a guard because Harl Voss's men have robbed carts on the east road this summer.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Hearing her ask, Osric steps up at once with his offer of passage as his cart's guard.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric's mule cart leaves the Stag at 5:00 on day 5; guards walk beside or sit the tailboard.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric's terms: Nala and Tobin ride free and eat from his stores; any bounty on robbers is theirs.",
@@ -199,7 +143,6 @@ export const overwhereIOsricFenn = {
       fact: "Told Voss is dead, Osric presses 5 silver on Nala for the road, and swears the east carts owe her.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
@@ -208,41 +151,30 @@ export const overwhereIOsricFenn = {
       fact: "Osric scrambles out from under the cart, bruised from the run, and stares at Nala as if at a ghost.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
     {
       fact: "Of the toll silver Osric asks back only the one silver he paid; the rest, he says, is spoils.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric whistles at the head, names the Board's thirty gold for it, and offers salt from his stock.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
     {
       fact: "Osric sells salt at 4 copper a sack, as Garrick does; one sack keeps a head three weeks.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric says the Board pays only at Wendlow, two more days east by cart from Ketter's Well.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
@@ -253,17 +185,12 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Salting and packing the head and ears in Voss's sack takes about a quarter hour.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-tobin-ashdown",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-tobin-ashdown"],
     },
     {
       fact: "One 4-copper sack of salt packs Voss's head and all the ears together; salted, they keep 3 weeks.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
@@ -272,57 +199,36 @@ export const overwhereIOsricFenn = {
       fact: "Salt paid, Osric counts 5 silver into her hand for the road, then sheepishly asks his toll back.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
     {
       fact: "Osric's mule is spent from its bolt; he will not roll before 6:00.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric laughs that the mule would drop in the shafts; they roll at six, and she should sleep first.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric stops an hour at noon to rest the mule, push or no push.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric always nights at the Ford Inn; he says the mule's done and Wendlow's gate would be shut.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "From Brennock Ford, Osric means to reach Wendlow about noon on day 7.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Osric and Tobin roll from the Ford Inn at 6:00 on day 7.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:32:10.023Z",
-  updatedAt: "2026-10-02T23:10:34.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

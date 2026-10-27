@@ -9,7 +9,7 @@ export const overwhereIGarrickPell = {
   facts: [
     {
       fact: "Garrick Pell keeps the Tarred Stag, Fenwatch's longhall inn on the green.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Analyze shows him as Human - Level 6; his Class is Brewer.",
@@ -17,11 +17,7 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "He is round and bald, with a bushy red beard and a laugh that shakes the rafters.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
     {
       fact: "The Tarred Stag has one long hall with a central hearth and benches, and four small guest rooms.",
@@ -29,7 +25,7 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "A bed and supper there cost four copper; a mug of his dark ale costs one copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He serves eel pie, oat bread, goat stew and turnip mash, and brews his own ale.",
@@ -57,23 +53,19 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "A round, bald man with a bushy red beard stood grinning by the reeve in the Tarred Stag.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He heats water for a wooden tub in the back room; a hot bath costs two copper.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
     {
       fact: "He can break a gold coin into silver and copper from the inn's takings.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He stews the Brute for a feast on the green on the evening of day one.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Mornings he is in the Stag's hall, sweeping and brewing, with the reeve at her tallies.",
@@ -81,31 +73,19 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "For Ghost-Eye's killer Garrick stands the bath, supper and bed that night free.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
     {
       fact: "Garrick's free supper on day 3 is eel pie and dark ale, and the night at the Stag passes quiet.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garrick sells a sack of salt for four copper; packing the head in it takes about an hour.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
     {
       fact: "Garrick offers his salt and a hand packing the head in the Stag's back room tonight.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
     {
       fact: "Packed in salt in a tarred cask, Ghost-Eye's head is ready by about 18:15 on day 4.",
@@ -113,38 +93,22 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "Garrick charges two silver for a bed and supper at the Stag on day 4; his free night was day 3.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
     {
       fact: "One sack of salt packs Ghost-Eye's head.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
     {
       fact: "Nala and Garrick packed Ghost-Eye's head in salt in about an hour on the evening of day 4.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
     {
       fact: "On day 4 Nala's bath is not free; Garrick takes his usual two copper for it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:32:10.022Z",
-  updatedAt: "2026-10-02T15:19:57.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

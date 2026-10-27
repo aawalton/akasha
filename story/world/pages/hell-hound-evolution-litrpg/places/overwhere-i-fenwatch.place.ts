@@ -29,7 +29,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "A palisade of sharpened pine stakes rings the village, with a west gate and an east gate.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The west gate opens on the ridge track to the ford; the east gate opens on the road to Wendlow.",
@@ -37,11 +37,11 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Houses are timber and wattle under thick fen-reed thatch, crowded close inside the palisade.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Tarred Stag, a longhall inn of dark tarred timber, sits on the green and is where all gather.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A small stone shrine to the Almighty Above, the oldest building in Fenwatch, faces the green.",
@@ -101,7 +101,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Reeve Agathe Morrow has cried a bounty of one gold and the pelt for whoever kills Sootjaw.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Many villagers blame Rowan Coalby's bonded Drakewolf for the stock kills.",
@@ -125,7 +125,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "The pedlar Osric Fenn is due in Fenwatch from Wendlow in two days.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Fenwatch folk swear by the Almighty Above and curse by the Scaly Bastard Below.",
@@ -137,15 +137,15 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Fenwatch, the hunter's village, lies an hour's walk east over the ridge, the nearest folk.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The dead Brute at the ford is the beast that has been taking Fenwatch's goats.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Fenwatch has a reeve, who pays the bounty on Sootjaw.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Fenwatch's regard for Nala stands at 2, welcome, since Hessa Vane owned the Brute's kill as hers.",
@@ -153,7 +153,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Tobin's news has a crowd of villagers at the west gate when the cart comes in on day one.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Fenwatch has no shop; folk buy from each other's doors, or from the pedlar Osric Fenn.",
@@ -161,15 +161,15 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Bet Ashdown, Tobin's mother, sells homespun tunics, leggings and cloaks from her house.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Aldo Brack, the tanner, cures hides in pits by Otter Brook and makes boots, belts and packs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Brack charges a silver to cure a pelt into a rug or blanket, and it takes him three weeks.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Brack's boots cost three silver and take two days; a leather pack costs two silver.",
@@ -177,15 +177,15 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Fenwatch has no shop; folk sell what they make from their own doors.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet Ashdown is a thin, quick woman of forty, with reed-cut fingers and her son's sunburn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet has a few tunics, leggings and cloaks made up, and can take them in to fit by dusk.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tobin has talked of nothing but Nala all afternoon, and it makes his mother wary of her.",
@@ -193,43 +193,39 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Aldo Brack is a stooped, sour man of fifty with stained brown hands, who smells of his pits.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Brack has packs and belts ready; boots he makes to the foot, ready the morning of day three.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Until boots are made, Brack sells soft hide foot-wraps tied with thongs for two copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Brack takes a pelt to cure at once and asks his silver when the work is done.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Brack's price for a leather pack is two silver.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Fenwatch has no bounty board; the reeve chalks its bounties on a slate by the Stag's door.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The slate: reedlurkers robbing the eel traps at the fen edge, three silver a head.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The slate: Grubboars rooting the oat strips south of the palisade, five silver for the old boar.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-agathe-morrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-agathe-morrow"],
     },
     {
       fact: "The slate also copies Wendlow's Board: Ghost-Eye, 25 gold; Harl Voss, 30; his men, 2 each.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Three reedlurkers work the eel traps; the Grubboar sounder is an old boar of Level 12 and four sows.",
@@ -241,7 +237,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "By day the Grubboar sounder beds in a wallow in alder carr, a quarter hour south of the oat strips.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hauling a carcass that size from the wallow to the palisade takes about forty minutes.",
@@ -278,7 +274,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Mornings the green is quiet: folk are at the reed beds, charcoal mounds and oat strips.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ending the Grubboar boar a day after Sootjaw raises Fenwatch's regard for Nala.",
@@ -304,41 +300,36 @@ export const overwhereIFenwatch = {
       fact: "The old boar's carcass sank deep in the swamp muck where Nala killed it; she got only the tusks out.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-garrick-pell",
       ],
     },
     {
       fact: "Jory Weir, a gap-toothed old eel-man, runs the eel traps and the smoking shed by the east gate.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
     {
       fact: "The eel traps are wicker, sunk in the channels at the fen's edge a half hour north of the ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Reedlurkers have torn up half Jory's traps this month, and last week bit his grandson's leg.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Mid-morning Jory Weir is at his smoking shed by the east gate, hanging the night's few eels.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory would walk Nala out to his traps by day, but will not stay there after dark.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory's own path to his traps crosses the Greyback north of the track, an hour's walk.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:27:58.318Z",
-  updatedAt: "2026-09-30T17:08:38.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Place

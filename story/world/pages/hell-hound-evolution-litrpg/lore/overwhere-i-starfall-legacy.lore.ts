@@ -6,7 +6,7 @@ export const overwhereIStarfallLegacy = {
   slug: "overwhere-i-starfall-legacy",
   title: "Starfall Legacy",
   world: "world/hell-hound-evolution-litrpg",
-  about: "overwhere-i-legacy/overwhere-i-starfall-legacy",
+  about: "world/hell-hound-evolution-litrpg",
   facts: [
     {
       fact: "The water saw is a blast shape of Starfall Surge, not a new skill or legacy way.",
@@ -22,11 +22,11 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A Weave binds two elements only; a third bound into it makes the whole working slip.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Water and fire woven make steam; air and fire woven make a hot, drying wind.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A weave counts as one working, so with a third working held beside it she can still hold three.",
@@ -38,15 +38,15 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Nala wove fire and wind into a hot, dry wind and dried her washed clothes in about three minutes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An earth-and-water weave sent out as a ripple comes back as a felt shape of hollows and bodies.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A sensing ripple reaches about fifty yards through wet ground and water, and blurs past that.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Reading a ripple is a moderate act; known holts to calibrate on add 2.",
@@ -62,19 +62,19 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A ripple returns as knowing, not sight: hollows feel empty, living bodies warm, heavy, stirring.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Earth and water woven bind as one working, felt as a heavy, wet pull behind her breastbone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's first sensing ripples came back as one blur of wet ground, water and roots.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A ripple pushed too hard leaves as a thump that shudders the bank and slumps mud into the channel.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An earth-and-water weave moves wet ground and mud as a slow, heavy grip that can haul a body.",
@@ -102,7 +102,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Reaching for water in a living body finds nothing to grip, like a locked door; a few seconds go.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A hot-wind blast is a Surge strike for harm and bands; a lurker on land makes it an easy act.",
@@ -114,11 +114,11 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Starfall Surge rose to level 3 from use on day 2, adding +3 Attunement.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A wide water hold feels what moves in its free water as pushes against the hold, not as shapes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Telling a lurker from eels by feel in a wide water hold is a moderate act, not Surge-eased.",
@@ -142,7 +142,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Starfall Surge rose to level 4 from use at 11:09 on day 2, adding +3 Attunement.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A water grip can draw a dead beast down a flooded tunnel and out into the channel; an easy act.",
@@ -150,27 +150,27 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "An air-and-earth weave kicks the ground back under each stride: a horse's gallop on firm ground.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On marsh the air-and-earth stride sinks and slows to a fast run.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An air-and-water weave skims her over water and wet marsh like a skater, at a horse's gallop.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On dry ground the air-and-water skim has nothing to ride and gives no speed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A hot wind at her back pushes her no faster than plain wind, and scorches the ground behind her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Surge wind-speed is still the fastest over a short dash; a weave is slower but lasts its minute.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The 30-yard limit binds held workings only; a thrown or loosed working flies on alone and fades.",
@@ -178,11 +178,11 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A Surge fire beam holds whole to about 30 yards, then spreads and cools to nothing by 50.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An air-and-earth rock bullet flies faster than a sling stone, about 150 yards, true to about 60.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A rock bullet strikes at the legacy's full force as a blow, so hide wards it, not fire wards.",
@@ -194,7 +194,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A fire-and-air burst fans flame in a half-circle ten yards out; each thing in it takes half a blast.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The beam is a Surge use; the moves, bullet and burst are Weave uses; none is a new way.",
@@ -210,19 +210,19 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Starfall Weave rose to level 2 from practice at about 13:45 on day 2, adding +3 Attunement.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Earth can shape a bullet's stone into a sleek, grooved slug; shaped stone keeps its shape after.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Shaping one slug takes a few seconds of an earth working, so slugs are best made ahead and carried.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A grooved slug flung with spinning air flies true to about 100 yards and carries about 200.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A spun slug is easy within 50 yards, moderate to 100, hard past that; it pierces 1 point of ward.",
@@ -234,7 +234,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Getting shape and spin right takes about a dozen practice shots; the first few wobble short.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "One minute's earth working at the Surge cost shapes about six slugs, and is a Surge use.",
@@ -242,7 +242,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A spun slug flies a third faster than a plain bullet, with the same force behind it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Practice shots at still marks need no check; the dozen, with mana's return, fill about two hours.",
@@ -250,15 +250,15 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Starfall Weave rose to level 3 from slug practice ending about 15:48 on day 2, adding +3 Attunement.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A minute's earth working shapes about six grooved slugs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A grooved slug weighs about two ounces; sixty ride easily in her pack, about eight pounds.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Past about a hundred slugs, some twelve pounds, the pack drags on her when she runs.",
@@ -266,15 +266,15 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A three-element lens slips; a Surge water lens held in air magnifies about three times.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An air-and-water weave holds two water lenses in line, a spyglass seeing about ten times closer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Fire in a lens only sets the air shimmering and blurs the view.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Getting a clear two-lens spyglass takes about an hour's practice; each lens held is a use.",
@@ -286,11 +286,11 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Starfall Surge rose to level 5 at about 16:05 on day 2, adding +3 Attunement.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Starfall Weave rose to level 4 at about 09:30 on day 3, adding +3 Attunement.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A slug is a Surge strike for harm and bands; its bands are before the easing, which still applies.",
@@ -306,15 +306,15 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Starfall Weave rose to level 5 at 13:04 on day 3, adding +3 Attunement.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pouring a second Weave cast into one slug gives it half again the force, at double the cost.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Past 150 yards a slug is spent, striking with half its force.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Treading water too deep to stand, she cannot loose a slug true; each shot is two bands harder.",
@@ -326,5 +326,5 @@ export const overwhereIStarfallLegacy = {
     },
   ],
   createdAt: "2026-09-30T11:22:11.430Z",
-  updatedAt: "2026-09-30T22:07:17.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

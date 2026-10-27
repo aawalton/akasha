@@ -37,7 +37,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Ghost-Eye's Drakewolf pack holds the middle fen and hunts it at dawn and dusk.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Small goblin bands live on dry islands deep in the fen and keep away from humans.",
@@ -53,11 +53,11 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Since spring the western channels run warm and smell faintly of rotten eggs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dead fish float in the western channels, and the reed there grows yellow and brittle.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Beasts have moved east out of the deep fen all summer, toward the ford and the villages.",
@@ -65,7 +65,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Reed-cutters have seen pale lights moving in the deep fen at night, and call them marsh-ghosts.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A reed-cutter pulled a skull with a faint light in one eye from a channel, and threw it back.",
@@ -81,7 +81,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "The channels by Jory's traps run tea-dark and chest-deep, three or four yards wide.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "After the thump Jory stands five yards back from the channel, out of a reedlurker's reach.",
@@ -89,11 +89,11 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "A thin thread of bubbles rises in the channel by Jory's traps, where the earlier bubbles stopped.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The second known reedlurker holt's slide lies forty yards up the channel from the first.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A wicker eel trap costs Jory two days' weaving; he'd take five copper for one.",
@@ -101,27 +101,27 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "At 10:55 on day 2 Nala's water grab tore one of Jory's eel traps out and burst it; it's ruined.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The eel trap Nala burst was one of Jory's good ones, and one of the few he has left.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory calls the trap even: one dead reedlurker is worth far more to him than a wicker trap.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory has eight traps along sixty yards of this channel; three are still whole.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Each of Jory's traps is tied to a peeled willow stake on the bank, pale and easy to see.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory wants neither the skin nor the bounty for the trap; she keeps both.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory's three whole traps sit 10, 25 and 50 yards up the channel from the first slide.",
@@ -133,7 +133,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "While Nala hunts the Level 12, Jory follows ten yards behind her, well back from the water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory will vouch for all three reedlurker kills to Agathe once he has seen the third body.",
@@ -141,7 +141,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Seeing the third body, Jory whoops, vouches for all three, and promises her a string of smoked eels.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the fen edge by the ford, the middle fen's pine island lies about eight miles due west.",
@@ -161,31 +161,31 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "A low rise of dead alders stands six hundred yards east of the middle fen's pine island.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Toward midday on day 3 the wind blew steady from the west, off the pine island.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the Greystakes, 570 yards of wet marsh run west to a 30-yard channel ringing the pine island.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The pine island is about two hundred yards across, its east edge a strip of shade under the pines.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The marsh west of the Greystakes is knee-deep water and sedge, open but for scattered reed hummocks.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The channel ringing the pine island runs dark and over head height.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A line of reed hummocks runs south-west from the Greystakes, giving cover to 200 yards of the isle.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Creeping bent low from hummock to hummock along the line takes about forty minutes.",
@@ -193,11 +193,11 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "The hummock line ends south-east of the pine island, off its south-east shore.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A half-sunk pine log lies 140 yards off the island's south-east shore, cover for one crouching.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the pine island back to Fenwatch is about four hours' wading, or two skimming by weave.",
@@ -205,7 +205,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "The pack's den under the pines holds bones, and a reed-cutter's knife and tin token of Sallow Hythe.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Mana crystals grow in the island's drowned pine roots; a careful search there finds two small ones.",
@@ -213,27 +213,27 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "No wolf crosses her path between the pine island and Fenwatch on day 3.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At about 13:50 on day 3 the pine island held no wolves.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The pack's den mouth gapes under the roots of a great drowned pine in the pine island's middle.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Under the pines on the island's east shore lie the pack's flattened beds and a reek of wolf.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The pine den is three linked hollows under the roots, empty of any living thing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The den holds one tin token, stamped with a reed sheaf and the name Ewan Dell.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ewan Dell was one of the two Sallow Hythe reed-cutters Ghost-Eye's pack killed this summer.",
@@ -249,7 +249,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "The earth-and-air ripple feels two small hard, cold knots in the drowned pine roots beside the den.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An earth working draws the two knots out of the root-bound soil in about a minute; an easy act.",
@@ -261,50 +261,38 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "The two knots are thumb-joint crystals, pale blue, cold, faintly aglow in shade.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Held, the two pale blue crystals hum faintly against Nala's mana.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala drew the two cold knots up from the drowned pine's root-bound soil with an earth working.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wading with Rowan and a sled, the pine island is five hours from the fen edge.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "No wolf crosses them wading out on day 4; the pack's fresh tracks run west, away from the island.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Under Sedge's lead, the wade out on day 4 keeps to firm going and is uneventful.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Hauling the head back on the sled, they reach the fen edge about 16:00 on day 4.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No beast troubles the haul home on day 4.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:33:48.057Z",
-  updatedAt: "2026-10-02T14:42:42.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Place

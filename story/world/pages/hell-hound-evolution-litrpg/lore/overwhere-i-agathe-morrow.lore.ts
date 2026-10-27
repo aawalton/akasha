@@ -13,7 +13,7 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "She is about sixty, stout and short, with an iron-grey braid pinned in a crown.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She leans on an ash staff for a bad hip, and her voice carries across the green without shouting.",
@@ -33,7 +33,7 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "The levy collector comes from Wendlow after harvest for coin, or for two young men to march north.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She has sworn to have Rowan Coalby's Drakewolf killed if the stock kills do not stop.",
@@ -69,27 +69,27 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "Agathe Morrow, Fenwatch's reeve, will pay the Sootjaw bounty on Hessa's word the kill was Nala's.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She pays the bounty as one gold coin, counted out on the Tarred Stag's table before witnesses.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She leans on an ash staff, and her voice carries the length of a hall without her raising it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She named herself to Nala as Agathe Morrow, reeve of Fenwatch.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Having paid the bounty, she asked Nala where she has come from and whether she is staying.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "If Nala stays to hunt, she'd put her up at the Stag on the village purse for a week.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She takes the old boar's head as proof for its bounty, and would send a cart for the carcass.",
@@ -99,7 +99,6 @@ export const overwhereIAgatheMorrow = {
       fact: "The old boar's tusks alone are proof enough for her to pay its bounty.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-garrick-pell",
       ],
@@ -108,7 +107,6 @@ export const overwhereIAgatheMorrow = {
       fact: "The boar's hide and meat are Nala's; she'd buy the meat for the village at two silver.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-garrick-pell",
       ],
@@ -117,7 +115,6 @@ export const overwhereIAgatheMorrow = {
       fact: "Mornings she keeps the tallies at the Stag's long table while the village is out at work.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-garrick-pell",
       ],
@@ -126,7 +123,6 @@ export const overwhereIAgatheMorrow = {
       fact: "She pays the boar bounty as five silver coins from the chest, and sends a cart for the carcass.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-garrick-pell",
       ],
@@ -135,7 +131,6 @@ export const overwhereIAgatheMorrow = {
       fact: "She takes Nala's gift of the boar gladly; its meat and hide go to the village purse and pots.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-garrick-pell",
       ],
@@ -144,7 +139,6 @@ export const overwhereIAgatheMorrow = {
       fact: "She means to haul the sunk boar out of the swamp with ropes, a mule and four men.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-garrick-pell",
       ],
@@ -157,7 +151,6 @@ export const overwhereIAgatheMorrow = {
       fact: "On Jory's word she pays the three reedlurker bounties as nine silver, counted out at the Stag.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-garrick-pell",
       ],
@@ -166,7 +159,6 @@ export const overwhereIAgatheMorrow = {
       fact: "Agathe would not have Nala go against Ghost-Eye alone.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-garrick-pell",
       ],
@@ -179,7 +171,6 @@ export const overwhereIAgatheMorrow = {
       fact: "Hearing it, Agathe lifts her oath against Sedge and grants Rowan winter shelter in the palisade.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-rowan-coalby",
         "lore/overwhere-i-garrick-pell",
@@ -188,11 +179,7 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "At the Stag Agathe told Nala that Antler Hall pays Ghost-Eye's bounty on the head alone.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-agathe-morrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-agathe-morrow"],
     },
     {
       fact: "Agathe says Fenwatch's chest cannot pay Ghost-Eye's bounty; only Antler Hall in Wendlow does.",
@@ -201,5 +188,5 @@ export const overwhereIAgatheMorrow = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:31:35.564Z",
-  updatedAt: "2026-10-02T14:41:12.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

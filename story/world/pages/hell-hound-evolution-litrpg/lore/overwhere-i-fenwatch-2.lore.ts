@@ -20,7 +20,6 @@ export const overwhereIFenwatch2 = {
       fact: "News that Ghost-Eye is dead fills the Stag by nightfall of day 3; the hall toasts Nala.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-rowan-coalby",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-garrick-pell",
@@ -33,15 +32,11 @@ export const overwhereIFenwatch2 = {
     },
     {
       fact: "At the gate near 17:40 on day 3, the watch bristles at Sedge until Rowan speaks up for it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "At 17:45 on day 3 the Stag holds Garrick, Agathe, Osric and a score of villagers at supper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hessa Vane rides into Fenwatch about 9:00 on day 4, after Nala and Rowan have gone into the fen.",
@@ -51,7 +46,6 @@ export const overwhereIFenwatch2 = {
       fact: "At 17:00 on day 4 half the village crowds the green to see Ghost-Eye's head on Rowan's sled.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-rowan-coalby",
         "lore/overwhere-i-hessa-vane",
         "lore/overwhere-i-tobin-ashdown",
@@ -64,7 +58,6 @@ export const overwhereIFenwatch2 = {
       fact: "Hessa, Tobin, Agathe, Garrick and Osric are all on the green when the head comes in.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-rowan-coalby",
         "lore/overwhere-i-hessa-vane",
         "lore/overwhere-i-tobin-ashdown",
@@ -76,13 +69,9 @@ export const overwhereIFenwatch2 = {
     },
     {
       fact: "The night of day 4 at Fenwatch passes quiet, and the cart leaves on time with no hitch.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
   ],
   createdAt: "2026-09-30T19:13:38.911Z",
-  updatedAt: "2026-10-02T15:19:57.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

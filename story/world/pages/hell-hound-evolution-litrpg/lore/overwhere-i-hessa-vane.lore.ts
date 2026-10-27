@@ -21,7 +21,7 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "She is lean and weathered, with a grey-streaked black braid and the tip of her left ear missing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She carries a yew longbow, a heavy boar spear and a skinning knife, in patched green leathers.",
@@ -73,19 +73,19 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "She came to the ford in patched green leathers, a longbow in hand and a spear across her back.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Asked where this is, she answers plainly and gives her name, then asks who killed the Brute.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She gives her name as Hessa Vane, hunter of Fenwatch.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She and her young companion tracked the Brute from Fenwatch to the ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Seeing the burn through Sootjaw's chest, she believes Nala killed it, though not how.",
@@ -97,15 +97,15 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "Hessa judged Sootjaw Nala's kill after looking over the burn through its chest and back.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hessa is skinning and quartering Sootjaw at the ford, to be carted to Fenwatch.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "While she skinned the Brute, Hessa asked Nala her name.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She lets Nala watch, names each cut as she goes, and lets her help if asked.",
@@ -113,11 +113,11 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "Hessa let Nala watch her skin the Brute, and named each cut as she made it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the skinning, Hessa asked Nala where she is from, and said she is not from the march.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She takes 'here and there' as a lady not wanting to say, and does not press.",
@@ -125,15 +125,15 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "Asked for challenges, she names Ghost-Eye and Voss's crew, and says neither is for one alone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hessa let Nala's 'here and there' pass and did not ask again where she is from.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She'd have Nala wait for the cart and walk to Fenwatch with it, so she can vouch for the kill.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's easy talk of money and the fen reads to her as gentry bravado, and it worries her.",
@@ -141,37 +141,28 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "Hessa warned that putting off Ghost-Eye or Voss till tomorrow is how people end up in the fen.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hessa told Nala that money is not easy come here, and nor are second chances.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hessa told the reeve the Brute was Nala's kill, saying she saw the wound.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hessa looks the head over a long while, then tells Nala plainly she had not thought to see her back.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Hessa tells Nala to salt the head tonight, or it will be past the Hall's taking within a week.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Hessa tells Nala Wendlow is three days east by cart on the east road, two by a good horse.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-hessa-vane",
         "lore/overwhere-i-tobin-ashdown",
       ],
@@ -180,7 +171,6 @@ export const overwhereIHessaVane = {
       fact: "Hessa takes 'I don't care who comes' as plain enough, and lets Tobin go to Wendlow with Nala.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-hessa-vane",
         "lore/overwhere-i-tobin-ashdown",
       ],
@@ -196,5 +186,5 @@ export const overwhereIHessaVane = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:31:35.565Z",
-  updatedAt: "2026-10-02T15:13:14.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

@@ -10,7 +10,7 @@ export const overwhereIGreyfenBeasts2 = {
   facts: [
     {
       fact: "An awake reedlurker feels a sensing ripple as a shiver and freezes in its den; it does not bolt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the first slide a ripple reaches the Level 9's den at 40 yards, not the Level 12's at 100.",
@@ -18,7 +18,7 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "Nala's ripple from the first slide felt a lurker lying awake in the bank under the second slide.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A forewarned, awake reedlurker gripped in mud thrashes at once; holding it stays a hard act.",
@@ -30,19 +30,19 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "Mud-hauled up through the bank, not out the water mouth, a lurker lands on dry reeds, off the water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala mud-hauled the Level 9 from its den and killed it with one hot-wind blast at 11:02 on day 2.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory has never found the third reedlurker's holt near his traps.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ripples walked up the channel find the third den once she's within fifty yards of the alder root.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "By ripple the Level 12 feels longer and denser than the other two, and it is still asleep.",
@@ -50,7 +50,7 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "A ripple feels the alder roots over the third den as a hard, knotted net in the wet earth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Alder roots lace the third den's bank; a mud grip can't haul through them, only out the water mouth.",
@@ -58,15 +58,15 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "Nala's ripple found the third reedlurker asleep under a bank alder, 100 yards up the first slide.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "By ripple the third reedlurker feels longer and denser than the other two.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Alder roots wrap the third den on every side; its only open way is the tunnel down to the water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The third den is dry; water fills only its tunnel, from the channel mouth up to the den's lip.",
@@ -78,7 +78,7 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "Steam in a den vents from its air hole as a white plume among the roots.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A scalded reedlurker bolts down its tunnel into the channel and lunges at the nearest leg ashore.",
@@ -90,15 +90,15 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "Nala's den steam killed the Level 12 at 11:09 on day 2; its body lies in its tunnel under the roots.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala killed all three reedlurkers by Jory's traps before noon on day 2.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Level 12's carcass is half again the size of the others, its hide scalded pink in patches.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A scalded or blistered reedlurker skin sells for two silver, not five.",
@@ -142,7 +142,7 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "Mire Snappers are fen turtles as broad as cart wheels.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A Mire Snapper's head, out and tearing at meat, wards 1; a slug pierces that to nothing.",
@@ -158,7 +158,7 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "At the first slug, the other snapper pulls in its head and slides at once for deep water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A snapper dead in deep water sinks; a water working draws it up, slow and heavy, in a minute.",
@@ -174,15 +174,15 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "About 10:02 on day 4 Nala's three slugs killed one Mire Snapper; it sank in the channel.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The second Mire Snapper went under unhurt and stays down.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The dead Mire Snapper lies sunk in the channel by Ghost-Eye's reeds, too deep to reach by hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A ripple feels the dead snapper on the channel bed and the live one lying still in the deep mud.",
@@ -194,5 +194,5 @@ export const overwhereIGreyfenBeasts2 = {
     },
   ],
   createdAt: "2026-09-30T18:29:14.409Z",
-  updatedAt: "2026-10-08T16:25:02.515Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

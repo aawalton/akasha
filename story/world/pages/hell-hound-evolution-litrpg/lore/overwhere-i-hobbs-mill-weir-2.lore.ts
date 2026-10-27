@@ -10,7 +10,7 @@ export const overwhereIHobbsMillWeir2 = {
   facts: [
     {
       fact: "Tam Hobb unbars at the thunder and lends Nala his mill barrow to wheel the head to Wendlow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wheeling the 80-pound head in the barrow, the towpath to Wendlow takes about two and a half hours.",
@@ -18,23 +18,23 @@ export const overwhereIHobbsMillWeir2 = {
     },
     {
       fact: "Nala found the wyrm's bile sac whole, but her blade slipped cutting it free; it burst, worthless.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The burst wyrm bile stung Nala's wrists and forearms like nettles.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A fast water disc took the dead wyrm's neck through in about a minute.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Miller Tam Hobb is a stout, grey man in a flour-dusted apron.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Weir Wyrm's bile sac is a green bag the size of a fist, lying under its liver.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Two fangs, each a hand long and about a pound, come from the wyrm's jaw with a water blade; easy.",
@@ -42,7 +42,7 @@ export const overwhereIHobbsMillWeir2 = {
     },
     {
       fact: "Steam washes the wyrm bile off Nala's arms, and the nettle sting fades within the hour.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory says the crews will roll the wyrm's carcass and head into the pool once she is done with it.",
@@ -62,33 +62,33 @@ export const overwhereIHobbsMillWeir2 = {
     },
     {
       fact: "Nala cut the wyrm's two fangs out whole: hooked, yellow-white, each a hand long.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala left the Weir Wyrm's head on the weir apron with its carcass.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Seeing Nala steam herself clean, Tam Hobb calls it a handy trick and says he'll be grinding by two.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory lingers, eyes on Dickon's belt in Nala's hand, and slowly holds out his own hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Once Nala has the fangs, the barge crews whistle and head back up the bank to their barges.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory takes Dickon's belt with a bow of the head; he'll carry it to Dickon's mother at Brennock Ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory tells Nala the Wend Maid owes her passage anywhere on the Wend, any time, free.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-03T12:23:47.893Z",
-  updatedAt: "2026-10-08T16:26:03.902Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

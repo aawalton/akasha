@@ -85,19 +85,15 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Wendlow, three days east of Fenwatch, has the bounty Board the Fenwatch slate copies from.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In Wendlow the enchanter Ilse Varrow sets mana-grown stones into rings and rods for mages.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Ilse Varrow sets a drake-pearl into a focus ring for three gold, taking three days.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Board pays a crewman's bounty on his right ear with his levy tag; Voss's 30 gold wants his head.",
@@ -105,11 +101,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Voss and eight crewmen in proof come to 46 gold at the Board; Ghost-Eye's head, 25 more.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Wendlow's gates shut at sunset, about 19:00, and open again at dawn.",
@@ -117,7 +109,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Wendlow's gate takes a copper a head and asks each stranger's business.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A head in a sack at the gate fetches the gate sergeant, who sends bounty business to the Board.",
@@ -125,44 +117,43 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Wendlow's long grey stone wall stands by a broad brown river, roofs crowding up behind it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Told she brings bounties, the watchman sends a boy for the gate sergeant, Bram Coyle.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Weapons may be carried in Wendlow, but a crossbow must go in unstrung.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Osric's cart pays three copper at the gate: one for him, two for its wheels; Tobin pays his own.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
     {
       fact: "Sergeant Coyle peers in the sack, whistles at Voss's face, and sends her to Antler Hall.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Gate sergeant Bram Coyle is thickset and grey-bearded.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Antler Hall stands up the high street under a sign of stag's antlers; Grete Holm is asked for there.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the gate to Antler Hall up the high street is about ten minutes on foot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Antler Hall is a timbered hall hung with antlers and old bounty slips; a long counter runs its back.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Grete Holm is a lean grey woman with a hunter's scarred hands; she keeps the Board's strongbox.",
@@ -170,7 +161,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "A woman carrying a cask on her shoulder up the high street draws stares and a following of boys.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Grete Analyzes each hunter who brings proof, then counts it on the counter before she pays.",
@@ -182,11 +173,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete doubts a Level 10 alone took a Level 24 sergeant, and asks who else was in it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Grete has never seen Name ??? on a living soul; it makes her careful, not hostile.",
@@ -194,27 +181,23 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete's first words: 'That's a Drakewolf cask or I'm a goose. Set it down, and tell me whose head.'",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At noon Antler Hall holds only Grete and two idle hunters dicing by the hearth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Behind Antler Hall's counter stands a lean grey woman with scarred hands.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wendlow's high street leans timber and plaster over the road and smells of bread, dung and river.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Grete checks each tag against the Board's levy list and finds every one of Voss's crew there.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Ghost-Eye's size, scarred crest and empty left socket satisfy Grete; she pays its 25 gold.",
@@ -222,27 +205,15 @@ export const overwhereIWendlow = {
     },
     {
       fact: "The Board's strongbox holds 60 gold; Grete pays that and writes a chit for 11, good in two days.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "The chit is paid from the magistrate's purse when the tax rider comes, on day 9.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Hearing her tale, Grete offers to enter Nala on the hunters' roll, which brings Board contracts.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "The two dicing hunters fall silent at Voss's head; by evening the tale is all over Wendlow.",
@@ -250,23 +221,15 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete Holm, Board-master, named herself to Nala and Analyzed her before counting the proof.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Grete accepted Ghost-Eye's head as proof; the dicing hunters fell silent at Voss's face.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Grete gives one short laugh, says the march has a use for mad ones, and unlocks the strongbox.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Grete believes her; climbing from Level 4 to 10 in days is what killing far above you does.",
@@ -274,11 +237,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete asks what name to write on the receipt, since her Analyze shows none.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Grete asks the name for the receipt, pays the 60 and the chit, then offers the roll, in that order.",
@@ -290,31 +249,19 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete believed Nala's account of doing it alone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Grete writes 'Nala Arthur' on the receipt and on the 11-gold chit, and signs both.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "The hunters' roll costs nothing to join; a rolled hunter gets first call on Board contracts.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "A rolled hunter answers to the Board for her kills, and must bring word of any monster she sees.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Grete offers the roll and waits for Nala's yes; she writes no one on it unasked.",
@@ -322,53 +269,29 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete keeps both heads to hang in the hall; the ears and tags go into the Board's chest.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Grete enters Nala Arthur on the roll and gives her a bronze antler badge that marks a rolled hunter.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "With Voss and Ghost-Eye down, the Board holds two open contracts, and Grete shows Nala both.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "One contract: the margrave's reeve pays 8 gold for a true account of why Greyfen crystals went dark.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "The other: 15 gold for the Weir Wyrm, a river serpent taking bargemen at Hobb's Mill weir downriver.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Hobb's Mill weir lies two hours' walk down the Wend from Wendlow.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
   ],
-  updatedAt: "2026-10-08T16:27:28.258Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
   createdAt: "2026-09-29T12:34:15.118Z",
 } as const satisfies Place

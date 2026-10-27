@@ -10,11 +10,7 @@ export const overwhereITheGreyfenAlpha3 = {
   facts: [
     {
       fact: "Near 10:00 on day 4 two Mire Snappers are tearing at Ghost-Eye's haunches.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "With Rowan's hatchet, taking Ghost-Eye's head off takes about ten minutes.",
@@ -22,27 +18,19 @@ export const overwhereITheGreyfenAlpha3 = {
     },
     {
       fact: "By dawn of day 4 scavengers have fed on Ghost-Eye's body, but its head is still whole.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "On day 4 Ghost-Eye's body lies snagged in reeds on the pine island's north bank, half out of water.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "From the marsh across the channel, the snappers on Ghost-Eye's body are about 35 yards off.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "By 10:02 on day 4 Ghost-Eye's body lies free of scavengers in the reeds, its head whole.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On day 4's late morning nothing else dangerous is within a quarter mile of Ghost-Eye's body.",
@@ -62,15 +50,11 @@ export const overwhereITheGreyfenAlpha3 = {
     },
     {
       fact: "On day 4 Rowan took Ghost-Eye's head off in about ten minutes and lashed it to his sled.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Nothing dangerous showed while they took Ghost-Eye's head on day 4.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Salted, Ghost-Eye's head keeps three weeks; unsalted, it rots past the Hall's taking in a week.",
@@ -78,11 +62,7 @@ export const overwhereITheGreyfenAlpha3 = {
     },
     {
       fact: "On day 4 Nala and Rowan hauled Ghost-Eye's head out of the Greyfen unharmed by about 16:00.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Ghost-Eye's head in its cask of salt weighs about seventy pounds.",
@@ -90,9 +70,9 @@ export const overwhereITheGreyfenAlpha3 = {
     },
     {
       fact: "Ghost-Eye's head travels in a tarred cask, salt packed round it to the lid.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-01T14:22:52.479Z",
-  updatedAt: "2026-10-03T13:52:41.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

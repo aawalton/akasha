@@ -9,19 +9,19 @@ export const overwhereIGreyfenFord = {
   facts: [
     {
       fact: "Greyfen Ford is a shallow stone ford where a forest cart track crosses a clear, cold stream.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tall dark pines crowd both banks, and the far bank climbs to a ridge of bare grey rock.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wheel ruts and the prints of hooves and large paws mark the mud at the water's edge.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Thin chimney smoke rises beyond the ridge to the east, perhaps an hour's walk away.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The ford lies at the wild edge of settled land, far from the great powers and their wars.",
@@ -33,11 +33,11 @@ export const overwhereIGreyfenFord = {
     },
     {
       fact: "The ridge and the chimney smoke lie across the stream to the east, beyond the far bank.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The big paw prints in the mud are sharp-edged and fresh, pressed over the wheel ruts.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The cart track runs west from the ford into the Greyfen, and east over the Greyback to Fenwatch.",
@@ -73,30 +73,30 @@ export const overwhereIGreyfenFord = {
     },
     {
       fact: "The morning sky over the ford is a pale red, with a small white sun.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Downstream of the ford the bank runs open and stony for fifty yards and more.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The streambed at the ford is laid with flat grey stones.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Above the waterline stands a knee-high, gapped ring of stone round a heap of fallen stone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Folk call this crossing Greyfen Ford, after the Greyfen, the marsh that lies west of it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The ford's crossing stones are cold and slick, and the water there barely wets the ankles.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:03:06.426Z",
-  updatedAt: "2026-09-30T08:59:27.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Place

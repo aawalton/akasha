@@ -14,22 +14,11 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "Through the lens, four men crossed the track's clearing two miles off, the third limping.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-        "character-other/overwhere-i-quarry-crewman-three",
-        "character-other/overwhere-i-quarry-crewman-five",
-        "character-other/overwhere-i-mirren-dask",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The last of the four, crossbow in hand, stopped at the clearing's edge and looked back at the knoll.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-mirren-dask",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Warned by the glint, Voss sets Crow and Crossbowman Five in ambush on the cart track's last mile.",
@@ -37,7 +26,7 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "Jays scolded along the cart track two miles off, where the four then crossed the clearing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crow and Five lie in the pines 25 yards off the track at a bend, a mile short of the camp.",
@@ -77,30 +66,15 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "Crow and the helmed crossbowman lay in ambush in the pines, 25 yards off the track at the bend.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-mirren-dask",
-        "character-other/overwhere-i-quarry-crewman-five",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the bend her ward turned Crow's bolt; the helmed man's bolt grazed her ribs.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-mirren-dask",
-        "character-other/overwhere-i-quarry-crewman-five",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Her striding beam burned Crow's shoulder; he stays up, and both men crank for another volley.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-mirren-dask",
-        "character-other/overwhere-i-quarry-crewman-five",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Cranking, Crow and Five crouch half-hidden in the pines; a beam at a head or neck is hard.",
@@ -128,15 +102,15 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "Nala's beams killed Crow in the pines at the bend, and the helmed crossbowman as he ran.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Two of the four, Voss among them, are still ahead on the track toward the smoke.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crow lies dead among the roots at the bend; the helmed crossbowman lies on the track ten yards on.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crow carries a long knife at his belt; Five a short sword.",
@@ -156,23 +130,23 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "From the bend, circling to the fold's rim above the camp takes about forty minutes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The camp fold lies north-east; circling north, Nala comes to its rim from the north-west.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Below the rim lie a turf hut, a smoky fire and four charcoal mounds facing the track.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the rim, 30 yards above, three men show crouched behind the mounds, watching the track.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss, by the hut door, packs a sack, glancing often at the track.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The camp heard Five's scream from the bend; no one comes down the track to look.",
@@ -180,15 +154,15 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "Nala took Five's short sword at the bend.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala drove Five's short sword through the dead necks of Five and Crow at the bend.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala lies flat in the pines on the fold's rim, 30 yards above the camp, sword in hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Once one falls, the rest turn and loose up at the rim; a beam at a man shooting back is hard.",
@@ -196,11 +170,7 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "At the first beam Voss snatches the sack and runs east out of the fold, shield on his back.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss's shield on his back wards 3 from behind; his head is bare since he tore off the cap.",
@@ -228,27 +198,15 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "Nala's twin beams killed both camp keepers; their bolts struck her shoulder and forearm.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-quarry-crewman-three",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Blademan Three flung down his crossbow, knelt with hands high, and begs not to be burned.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-quarry-crewman-three",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss vanished into the pines past the fold's east lip, shield on his back and the sack with him.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A beam at kneeling Blademan Three is easy.",
@@ -280,7 +238,7 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "Voss's trail runs east along a stream through the pines, with no fork, to his overhang.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss keeps the sack with him; he does not hide it.",
@@ -292,27 +250,19 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "Nala's beams killed Blademan Three as he knelt, yielding.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala lies hidden in thick pines at a stream bend, a hundred yards short of Voss's overhang.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At dusk Voss sits under a rock overhang above the stream, sack by him, sword drawn, facing back.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Under the overhang Voss props his shield upright before him, sword across his knees.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss's shield, held up before him, wards 4; under it his mail shirt wards 1.",
@@ -336,7 +286,7 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "Voss answers that he comes dearer than that, holds till she is 30 yards off, then charges.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Besides Analyze, Voss has Shield Rush: his charge ends in a bash that knocks a smaller foe flat.",
@@ -348,13 +298,13 @@ export const overwhereITheDeserterCrew3 = {
     },
     {
       fact: "Nala's twin beams burned through Voss's shield and mail; he died ten yards short of her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss lies dead on the stream bank below his overhang; his sack sits under the overhang.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
-  updatedAt: "2026-10-08T16:27:28.258Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
   createdAt: "2026-10-02T17:47:01.942Z",
 } as const satisfies Lore

@@ -10,55 +10,31 @@ export const overwhereIWendlow3 = {
   facts: [
     {
       fact: "The Weir Wyrm is a Level 18 river serpent; Grete knows no more of it than bargemen's tales.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Grete writes Nala's name in the roll ledger beside the date and her level.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Grete counts an 80-pound wyrm head too big to carry; she pays the Weir Wyrm's bounty on its fangs.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Grete hangs the wyrm's fangs on a nail beside Voss's head and wipes the wyrm off the Board.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Asked nothing, Grete says only that the letter went to the magistrate yesterday, and no more of it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "The walk back from Hobb's Mill brings Nala to Wendlow's gate a little before 14:30.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The wyrm's 15-gold chit is paid with the other from the magistrate's purse when the tax rider comes.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Ending the Weir Wyrm frees Wendlow's river trade; the town's regard for Nala rises to 4.",
@@ -66,153 +42,113 @@ export const overwhereIWendlow3 = {
     },
     {
       fact: "No new contract is posted on day 8; Grete expects fresh slips with the tax rider on day 9.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "At the gate the watch knows her now; she pays her copper and is waved through with a grin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The towpath back from Hobb's Mill passes quietly on day 8.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Grete says the Board is bare till the rider brings fresh slips, and dips her pen in the ink.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nell Cooley at the Bell and Barrel mends torn clothes with needle and thread, 2 copper a tear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's afternoon of day 8 in Wendlow passes without incident.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's night of day 8 at the Bell and Barrel passes quietly; she wakes rested about 6:00 on day 9.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The tax rider rides in about 10:00 on day 9 with four guards and the magistrate's purse.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Odile Varne wants to learn whether Nala read Voss's letter, and who else she has told of it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Grete reads the magistrate's note, says only 'Mind your tongue up there,' and hands it over.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "By 10:30 on day 9 the Board's share reaches Antler Hall; Grete pays both of Nala's chits, 26 gold.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "With the Board's share comes a note: Magistrate Varne asks Nala Arthur to the Moot Hall at noon.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "At supper Nell Cooley eyes Nala's ragged cloak hem and offers to stitch it, 2 copper a tear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "That evening bargemen in the taproom toast the Weir Wyrm's death; the river is open again.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The taproom now knows the wyrm's killer is the same woman who ended Voss; some stare at Nala.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bell and Barrel supper on day 8 is eel stew, black bread and small beer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The rider brings two slips; the reeve's 8 gold for why Greyfen crystals went dark still stands too.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "New slip: 18 gold for a Level 20 mantis-beast taking sheep and a shepherd on Coldbrook Downs.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Lowcross ferry lies half a day east of Wendlow; the Ferryman's bounty pays on him, alive or dead.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Breakfast on day 9 is the Bell and Barrel's porridge with honey and small beer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Coldbrook Downs lie a day's walk north of Wendlow; the mantis bounty pays on its head or forelimbs.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "New slip: 12 gold for Cal Ferrin, the Ferryman, a Level 16 outlaw robbing folk at Lowcross ferry.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "On day 8 Bram Cooley took 8 copper for Nala's eel-stew supper and bed together.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Moot Hall stands on the square, a grey stone hall with its door up a broad flight of steps.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Inside is one long room: a raised bench, the clerk's desk below it, and presses of tax rolls.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Two watchmen keep the Moot Hall's door, and let a hunter in with her sword.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On day 9 a wine factor on the square repeats the taproom tale of a woman hunter taking Voss's head.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-03T12:48:30.527Z",
-  updatedAt: "2026-10-08T16:25:46.249Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

@@ -25,7 +25,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Sedge is lean and grey-green, with a lizard muzzle, slanted yellow eyes and a spiked steel collar.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Through the bond Rowan feels Sedge's moods and can call it to him from a long way off.",
@@ -57,15 +57,15 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "At the feast he thanks Nala, stammering, with Sedge at his heel, and offers her any help he has.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Rowan Coalby is broad and soot-dark, and his words catch when he speaks.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sootjaw took Rowan's goats, and Fenwatch blamed his beast Sedge until the Brute was killed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hearing Ghost-Eye's howl, Rowan comes out with Sedge and meets Nala at the fen edge near dusk.",
@@ -73,7 +73,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Sedge bristles and whines at Ghost-Eye's scent on Nala's pack, and will not come near her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Rowan and Sedge wait at the fen edge by the Greyback from mid-afternoon of day 3 till dusk.",
@@ -81,39 +81,27 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Told Ghost-Eye is dead, Rowan goes quiet, then laughs; Sedge's name is cleared for good.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At 16:30 on day 3 Rowan and Sedge met Nala at the fen edge by the Greyback.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Rowan, stammering, asked Nala about the howl he heard from the fen after noon.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Rowan knows an old alpha's clouded eye as a drake-pearl, grown of mana, that alchemists prize.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Rowan reckons a drake-pearl fetches several gold from an alchemist in Wendlow.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Rowan warns the Hall pays on the head alone, and fen scavengers will have the body in two days.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Rowan says a wild pup taken young can be bonded, as Sedge was, and would fetch a fortune alive.",
@@ -125,41 +113,40 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Rowan wants to see the eye; at the sight of it Sedge flattens its crest and backs off, growling low.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Rowan agrees to go, but not into the fen by night; he asks to set out at first light on day 4.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He says the fen after dark belongs to the pack and worse, and he wades too slow to be out by dusk.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He refuses her gold, stammering that Sedge's name cleared is pay enough.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He will bring a hatchet, rope and the reed drag-sled he hauls charcoal on.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sedge will come, uneasy near the carcass, but leads them by the firmest ground.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tonight he offers to walk her in to Fenwatch and tell the Stag Sedge never killed stock.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Rowan says Sedge will come and lead them over the firmest ground.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In the Stag Rowan tells the hall, stammering, that Nala killed Ghost-Eye and Sedge never took stock.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-rowan-coalby",
         "lore/overwhere-i-agathe-morrow",
         "lore/overwhere-i-garrick-pell",
@@ -168,31 +155,19 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "At first light, about 5:00 on day 4, Rowan waits by his charcoal mounds with sled, rope and Sedge.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "While Nala shoots the snappers, Rowan holds Sedge back on the marsh, barking at them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Rowan swims the 30-yard channel slowly, hatchet in his belt; Sedge swims it strongly.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Rowan leaves the sled on the marsh side and ropes the head back across the channel to it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "Sedge will not go within ten yards of Ghost-Eye's body, and whines on the bank.",
@@ -200,22 +175,14 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "On day 4 Sedge hung back ten yards from Ghost-Eye's body, hackles up, and came no closer.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
     {
       fact: "At dawn on day 5 Rowan and Sedge come to the gate to see Nala off; Sedge, for once, sniffs her hand.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-rowan-coalby",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-rowan-coalby"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:32:36.444Z",
-  updatedAt: "2026-10-02T15:19:57.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

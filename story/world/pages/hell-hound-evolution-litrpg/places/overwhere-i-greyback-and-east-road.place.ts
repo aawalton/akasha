@@ -13,7 +13,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "The cart track climbs its western face from the ford in three tight switchbacks through pines.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The climb from the ford to the crest takes most of half an hour on foot.",
@@ -21,11 +21,11 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "From the crest the track runs down through stumps and rough pasture to Fenwatch's west gate.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the crest one sees Fenwatch's smoke and palisade to the east and the whole Greyfen to the west.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A flat rock at the crest called Wolf's Seat is where Fenwatch hunters sit to watch the fen.",
@@ -47,7 +47,6 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Beyond Fenwatch the track becomes the east road, which runs to Wendlow in about three days by cart.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-hessa-vane",
         "lore/overwhere-i-tobin-ashdown",
       ],
@@ -86,7 +85,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Hauling the sled on from the fen edge, they reach Fenwatch's gate about 17:00 on day 4.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The east road from Fenwatch to Wendlow runs about sixty miles.",
@@ -96,26 +95,17 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "On foot the east road to Wendlow is also about three days, much as the cart.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-hessa-vane",
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
     {
       fact: "Day 5's road climbs out of the fen country into pine forest, quiet until the quarry.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Cutter's Quarry lies by the road seventeen miles east of Fenwatch; the cart reaches it about 15:00.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Ketter's Well, a stone well and lean-to clearing, lies by the road twenty miles east of Fenwatch.",
@@ -135,7 +125,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "By 15:03 on day 5 Osric's mule, cart and cask had gone out of sight down the road east.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The quarry's bare stone does not burn; the pines at its rim catch only from open flame.",
@@ -143,11 +133,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Nala's heat-working set a yard of the quarry pit floor glowing until it burst into hot chips.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Osric's cart stays stopped half a mile east of the quarry; nothing stirs on the road meanwhile.",
@@ -155,15 +141,15 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "A granite knoll rises above the pines 300 yards north of the quarry; the climb takes ten minutes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the knoll an old cart track shows cutting north-east through the pines toward low hills.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From her deer trail the granite knoll is 400 yards west; on her hurt leg she tops it in 15 minutes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Osric's cart, the cask aboard, camps at Ketter's Well tonight; the quarry is three miles back.",
@@ -173,18 +159,17 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "At Ketter's Well, Osric and Tobin sleep by the cart with the cask; they roll on east at 6:00.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
     {
       fact: "Fresh mule hoofprints and cart ruts run east in the road's dust below Cutter's Quarry.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ketter's Well is a stone well and trough with a drovers' lean-to, three miles east of the quarry.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The cart ruts run plain along the road to Ketter's Well; following them by flamelight is easy.",
@@ -192,7 +177,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Striding while her mana allows and walking the rest, Nala reaches Ketter's Well about 00:20.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No one and nothing else is on the road between the quarry and Ketter's Well tonight.",
@@ -200,15 +185,15 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Osric's mule cart stands at Ketter's Well by the embers of a fire.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At a passing place past the quarry, the cart ruts tangle with older tracks.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Osric's mule stands hobbled close by his cart at Ketter's Well.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From Ketter's Well to Wendlow is forty miles of road through pine and farmland.",
@@ -226,7 +211,6 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Day 6's road leaves the pines for farmland by noon; it passes quiet.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
@@ -235,34 +219,25 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "With Nala's help on day 6, the cart reaches Brennock Ford by about 15:00.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
     {
       fact: "Pushing on from Brennock Ford, the last 20 miles bring the cart to Wendlow's gate after it shuts.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "At Brennock Ford a westbound drover grumbles that Wendlow's guild sold dark, empty crystals as full.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Brennock Ford is a hamlet of five farms by a stone-paved ford, with the two-storey Ford Inn.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "The Ford Inn charges 8 copper a bed and 3 copper for a hot bath in its back-room tub.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Working in the inn's back room, Nala draws no notice but the innkeeper's girl, who peeks once.",
@@ -270,42 +245,40 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "At dusk the Ford Inn serves mutton stew at 2 copper; the westbound drover drinks by its hearth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Ford Inn's innkeeper is a broad woman whose daughter, about ten, helps about the inn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Ford Inn's tub takes a quarter hour to fill with kettle water; it comes with a cake of lye soap.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Ford Inn's beds are narrow straw ticks in small upstairs rooms, each with a door that bars.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The night of day 6 at the Ford Inn passes quiet.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Day 7's last twenty miles to Wendlow run through farmland and pass quiet.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
     {
       fact: "At supper the drover, Hob Tanner, tells all who'll listen that factor Ivo Tessaly sold him duds.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Leaving the Ford Inn at 6:00 on day 7, Osric's cart reaches Wendlow a little after 11:30.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-osric-fenn",
         "lore/overwhere-i-tobin-ashdown",
       ],
@@ -320,17 +293,17 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "On day 9, west of Wendlow, an eastbound wool carter, Jory Webb, meets Nala on the road.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory was tolled a silver on day 7 near Fenwatch by a lone crossbowman with a northern burr.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No other trader in Wendlow or on the road today has word of Voss's crew since he fell.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T12:33:48.056Z",
-  updatedAt: "2026-10-04T13:43:55.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Place

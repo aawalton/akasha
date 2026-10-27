@@ -49,19 +49,19 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "He came to the ford with Hessa: gangly, sunburnt, chipped front tooth, a hunting bow in hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "His leather jerkin is too big for him.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hessa's young companion is named Tobin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hessa sent Tobin back to Fenwatch to borrow a cart and tell the reeve the Brute is dead.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He comes back to the ford with the reeve's mule cart a little before half past one.",
@@ -69,21 +69,20 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "Hessa said Tobin will be back at the ford with a cart early in the afternoon.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tobin came back to the ford early in the afternoon, leading a mule in a two-wheeled cart.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tobin can't get anyone in Fenwatch to believe his tale of the Brute and the burn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Seeing the head, Tobin begs Nala to take him to Wendlow; Hessa says nothing either way.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-tobin-ashdown",
         "lore/overwhere-i-rowan-coalby",
         "lore/overwhere-i-hessa-vane",
@@ -93,49 +92,34 @@ export const overwhereITobinAshdown = {
       fact: "Tobin takes her question as a yes and grins; Hessa says he goes only if Nala says so plainly.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-tobin-ashdown",
         "lore/overwhere-i-hessa-vane",
       ],
     },
     {
       fact: "That evening Tobin's mother Bet packs him a bag and asks Nala to bring him home whole.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
     {
       fact: "Tobin's mother is Bet Ashdown, a reed-weaver.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-garrick-pell",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-garrick-pell"],
     },
     {
       fact: "Let go to Wendlow, Tobin whoops and runs off across the green shouting for his mother.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-tobin-ashdown",
         "lore/overwhere-i-hessa-vane",
       ],
     },
     {
       fact: "Bet nods, tight-lipped, and says Tobin never ran from anything but chores; Tobin goes red.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-tobin-ashdown",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-tobin-ashdown"],
     },
     {
       fact: "At the gate at dawn on day 5 Hessa gives Tobin a full quiver and one curt nod.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-tobin-ashdown",
         "lore/overwhere-i-hessa-vane",
       ],
@@ -146,11 +130,7 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "At the quarry Tobin loosed at a running crewman and missed.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-tobin-ashdown",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-tobin-ashdown"],
     },
     {
       fact: "After the fight Tobin stays crouched by Osric in the ditch, bow strung, until Nala calls him.",
@@ -162,17 +142,12 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "At Ketter's Well Tobin keeps watch, bow strung; he challenges anyone who comes out of the dark.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-tobin-ashdown",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-tobin-ashdown"],
     },
     {
       fact: "Knowing Nala's voice, Tobin lowers his bow with a shaky laugh; he and Osric are unhurt.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-tobin-ashdown",
         "lore/overwhere-i-osric-fenn",
       ],
@@ -181,7 +156,6 @@ export const overwhereITobinAshdown = {
       fact: "Tobin carries Hessa's pot of yarrow salve, which slows bleeding; he offers it for her wounds.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-tobin-ashdown",
         "lore/overwhere-i-osric-fenn",
       ],
@@ -190,30 +164,28 @@ export const overwhereITobinAshdown = {
       fact: "Tobin asks how many there were, and if it's true Voss is dead.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-tobin-ashdown",
         "lore/overwhere-i-osric-fenn",
       ],
     },
     {
       fact: "Hessa's yarrow salve stops the bleeding of Nala's bolt wounds; it heals nothing by itself.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Seeing Voss's head, Tobin goes white and turns away, then grins: Fenwatch will sing of it.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
         "lore/overwhere-i-tobin-ashdown",
         "lore/overwhere-i-osric-fenn",
       ],
     },
     {
       fact: "Dressing all Nala's wounds uses about half of Hessa's pot of salve.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:31:35.565Z",
-  updatedAt: "2026-10-02T21:49:27.000Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

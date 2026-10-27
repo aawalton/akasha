@@ -18,41 +18,23 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Nala's slugs struck both crossbowmen and two burned blademen as they ran; all kept moving.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A bolt from someone unseen in the trees struck Nala's shoulder; she turned the next.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss and all five reached the quarry pit and are behind stone, out of her line from the road.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-        "character-other/overwhere-i-quarry-crewman-one",
-        "character-other/overwhere-i-quarry-crewman-two",
-        "character-other/overwhere-i-quarry-crewman-three",
-        "character-other/overwhere-i-quarry-crewman-four",
-        "character-other/overwhere-i-quarry-crewman-five",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Heat on the open pit floor drives the crew back into the galleries, beyond 30 yards of the lip.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-        "character-other/overwhere-i-quarry-crewman-one",
-        "character-other/overwhere-i-quarry-crewman-two",
-        "character-other/overwhere-i-quarry-crewman-three",
-        "character-other/overwhere-i-quarry-crewman-four",
-        "character-other/overwhere-i-quarry-crewman-five",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Scrub and boulders give cover from the road to 25 yards of the pit's lip; the last 25 are open.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The two crossbowmen on the lip loose at her once she is out of cover; Crow keeps on from the trees.",
@@ -60,19 +42,11 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "When stone first bursts in the pit, Voss shouts for parley from behind the stone.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss offers free road for Osric and all Fenwatch carts for good, and the toll silver he holds.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss holds about four gold in toll silver in the galleries.",
@@ -88,23 +62,19 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Cutter's Quarry pit is an old cut 40 yards across and 15 feet deep, its back wall cut in galleries.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crossing to the scrub, an unseen bowman's bolt struck Nala's thigh.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "To parley, Voss steps into a gallery mouth, shield up, about 60 yards from Nala's cover.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Even from the open lip the gallery mouth is 40 yards off, past a held working's 30-yard reach.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Feeling his cap warm, Voss tears it off and steps back into the gallery out of sight.",
@@ -128,15 +98,11 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Nala's working reached for Voss's cap and stopped at 30 yards, short of him; he felt nothing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At her answer Voss laughs once, says his head comes dearer than that, and steps back out of sight.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "After that the crossbowmen show at gallery mouths only a heartbeat to loose; a slug at one is hard.",
@@ -180,7 +146,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Voss ducks back as he speaks; her first slug after the answer finds only stone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crossbows from the galleries have no line on her behind the boulders; they loose to keep her down.",
@@ -192,69 +158,59 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Nala's aimed slugs struck both crossbowmen in the face; one fell in a gallery mouth and lies there.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bolts from the galleries and two from the trees struck her boulders; none had a line on her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Then the galleries fell silent; the fallen crossbowman is the only man in sight.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "By the time her lens sweeps the pines, Crow has gone; nothing in the trees moves or looses.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crow's stand in the pines shows trampled needles and a dropped bolt; scuffed needles lead north.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A spyglass sweep of the treeline from her boulders takes about a minute.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Through the lens the pit's north wall shows a goat path to the forest, its dust freshly scuffed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The lens shows the gallery mouths dark and still; nothing within them shows from her boulders.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crossbowman Four lies dead on his face in the gallery mouth, his crossbow under him.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "As Nala draws the crystals, a man groans in a gallery and another voice hisses him quiet.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The pit's back wall holds four gallery mouths, each cut about ten yards into the rock.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Blademen One and Two lie in the easternmost gallery, behind a heap of spoil.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-quarry-crewman-one",
-        "character-other/overwhere-i-quarry-crewman-two",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the east rim by the back wall, 15 yards off and above, the easternmost gallery shows inside.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Blademan Two sits burned against the wall, sword on his knees; One lies beside him, moaning.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-quarry-crewman-one",
-        "character-other/overwhere-i-quarry-crewman-two",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Heard on the rim, Blademan Two calls out that they yield, and begs her not to burn them.",
@@ -262,7 +218,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "At the goat path's top, boot prints of four men run north into the pines.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Circling the rim through pines and loose stone takes 3 minutes; quietly, thigh and all, is moderate.",
@@ -274,7 +230,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Unheard, the blademen stay hidden and still; Two keeps his sword in hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A beam at an unaware blademan's head from the east rim is moderate.",
@@ -290,7 +246,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "The four's trail runs north-east through the pines, hurried and plain; following it is easy.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Slowed by burned Blademan Three, the four are about a mile ahead; Nala closes in an hour.",
@@ -314,11 +270,11 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Nala's fire beams killed Blademen Two and One in the easternmost gallery, both through the head.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A quarter mile north-east, Nala lost the four's trail on bare rock and strayed onto a game trail.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The crew holds an old charcoal burners' camp in a hill fold four miles north-east of the quarry.",
@@ -326,7 +282,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "From the knoll, thin smoke shows rising from a hill fold at the cart track's far end.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Lensing the four crossing the track's one clearing, two miles off, is moderate; one man limps.",
@@ -337,6 +293,6 @@ export const overwhereITheDeserterCrew2 = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
-  updatedAt: "2026-10-08T16:27:28.258Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
   createdAt: "2026-10-02T15:59:57.264Z",
 } as const satisfies Lore

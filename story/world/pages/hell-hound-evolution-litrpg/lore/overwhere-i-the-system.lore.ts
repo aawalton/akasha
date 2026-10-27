@@ -85,7 +85,7 @@ export const overwhereITheSystem = {
     },
     {
       fact: 'Beasts killed read "Prey Eliminated!"; thinking foes such as humans read "Foe Eliminated!"',
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: 'Destroyed undead read "Undead Vanquished!", as in "Undead Vanquished! Level 16 skeleton!"',
@@ -101,7 +101,7 @@ export const overwhereITheSystem = {
     },
     {
       fact: 'After a kill line comes "Experience Gained!" or "No Experience Awarded."',
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Packmates hear each other's kill messages; a non-pack ally's kills send none.",
@@ -109,7 +109,7 @@ export const overwhereITheSystem = {
     },
     {
       fact: 'A level-up reads "You have leveled up!", then "You are now level 22!", then lines like "+9 Vigor".',
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Humans usually take months, often a year or more, to reach level 10.",
@@ -349,7 +349,7 @@ export const overwhereITheSystem = {
     },
     {
       fact: 'Odd requests get "[Unrecognized request. Please see the help menu for available functions.]"',
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Elemental reserves hold five elements: Fire, Electricity, Water, Wind and Earth.",
@@ -364,6 +364,6 @@ export const overwhereITheSystem = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
-  updatedAt: "2026-10-08T16:27:28.258Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
   createdAt: "2026-09-29T12:24:10.186Z",
 } as const satisfies Lore

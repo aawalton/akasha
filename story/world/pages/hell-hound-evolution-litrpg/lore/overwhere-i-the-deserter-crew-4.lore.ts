@@ -26,31 +26,31 @@ export const overwhereITheDeserterCrew4 = {
     },
     {
       fact: "Under the overhang Voss's sack slumped over, spilling silver coins across the rock.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Each of Voss's men, Voss too, still wears his stamped tin levy tag on a cord at the neck.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss's sack holds the toll: 36 silver and 40 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On Voss: a purse of 1 gold 2 silver, his sword, and a sealed letter folded in his jerkin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The camp dead carry 8, 15 and 22 copper; the hut purse holds 30 more.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the bend Crow carries 9 silver and a fine crossbow; Five carries 12 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the quarry Four carries 6 copper; Blademen One and Two, 10 copper between them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Walking back by night, overhang to camp, bend and quarry, is ten miles: about four hours.",
@@ -58,7 +58,7 @@ export const overwhereITheDeserterCrew4 = {
     },
     {
       fact: "By night foxes have been at the bodies at the bend; ears and tags are still there to take.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss's head adds about twelve pounds to the sack; unsalted it rots past taking in a week.",
@@ -90,15 +90,15 @@ export const overwhereITheDeserterCrew4 = {
     },
     {
       fact: "Near midnight the burned crew Drakewolf rose growling from among the gallery dead.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala cut off Voss's head with a spun blade of water and took it with his purse, letter and tag.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala cut the right ear and took the tag from the three camp dead, Crow and the helmed crossbowman.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Drakewolf stands 10 yards off in the gallery mouth; a beam at it there is moderate.",
@@ -123,11 +123,11 @@ export const overwhereITheDeserterCrew4 = {
     { fact: "Nothing else stirs at the quarry tonight.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Nala's twin eye beams killed the crew Drakewolf in the gallery mouth; they dazzled her a moment.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala took the ear and tag of Four and Blademen One and Two; every crewman's is now in her sack.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Counted, Nala's proof is eight ears with their tags, and Voss's head with his tag.",
@@ -147,9 +147,9 @@ export const overwhereITheDeserterCrew4 = {
     },
     {
       fact: "Jory Webb reckons one of Voss's crew has set up tolling the road on his own.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T20:41:04.947Z",
-  updatedAt: "2026-10-08T16:23:24.848Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
 } as const satisfies Lore

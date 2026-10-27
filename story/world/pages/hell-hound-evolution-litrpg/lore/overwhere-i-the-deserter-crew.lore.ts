@@ -13,11 +13,7 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Cutter's Quarry is an old stone pit beside the east road, a day east of Fenwatch.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Eight of them deserted the king's levy in the northern passes; two are Iron March men.",
@@ -25,11 +21,7 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Harl Voss leads them, a former levy sergeant whom Analyze shows as Human - Level 24.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-grete-holm",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-grete-holm"],
     },
     {
       fact: "Voss is big, grey-bearded and scar-lipped, and fights with a long-hafted axe and a round shield.",
@@ -65,15 +57,15 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Wendlow's Hunters' Board offers thirty gold for Voss and two gold for each of his crew.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Harl Voss and a dozen-odd deserters hold Cutter's Quarry, a day east, and toll the road.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Harl Voss's crew deserted from the king's levy, and toll every cart that passes Cutter's Quarry.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "About 15:00 on day 5 Voss and five men bar the road at Cutter's Quarry; Crow waits in the trees.",
@@ -85,11 +77,7 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Osric pays Voss the silver toll without fuss, as he always has.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Voss reads Nala as Level 8 and laughs at Osric hiring so small a guard.",
@@ -97,11 +85,7 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Voss's eye falls on the tarred cask, and he asks what it holds.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "If Voss learns the cask holds Ghost-Eye's head, he claims it as the cart's toll.",
@@ -113,27 +97,15 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Five men and a leashed Drakewolf in a spiked collar stand with Voss at the quarry.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Voss laughed at Osric for hiring so small a guard.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "At the quarry a big grey-bearded, scar-lipped man with axe and shield, hailed Voss, bars the road.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "At the roadblock Voss stands 8 yards from Nala, his five men 6 to 12 yards, Crow 35 in the trees.",
@@ -202,39 +174,19 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Nala's first slug struck Voss in the head; bleeding, shield up, he charges her with axe high.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The crew's Drakewolf dragged Nala down on the road, jaws locked on her forearm.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-voss-drakewolf",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At her first slug two of the five raised crossbows and three drew blades and closed.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-quarry-crewman-one",
-        "character-other/overwhere-i-quarry-crewman-two",
-        "character-other/overwhere-i-quarry-crewman-three",
-        "character-other/overwhere-i-quarry-crewman-four",
-        "character-other/overwhere-i-quarry-crewman-five",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Osric dove under his cart at Nala's first slug.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "lore/overwhere-i-osric-fenn",
-      ],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-i-osric-fenn"],
     },
     {
       fact: "Breaking the crew Drakewolf's jaw-hold on her arm is a hard act.",
@@ -254,11 +206,7 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Voss wears a steel cap; Nala's first slug cracked into it above his brow.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Four seconds in, Voss, the wolf and the three blademen are inside ten yards; both crossbowmen at 12.",
@@ -282,7 +230,7 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "At the fire Osric's mule rears and starts to bolt down the road, cart, cask and all.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "With blades out, Tobin looses at the nearest blademan.",
@@ -302,49 +250,23 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Nala's fire burst set three blademen alight; they dropped their blades and ran.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-        "character-other/overwhere-i-quarry-crewman-one",
-        "character-other/overwhere-i-quarry-crewman-two",
-        "character-other/overwhere-i-quarry-crewman-three",
-        "character-other/overwhere-i-quarry-crewman-four",
-        "character-other/overwhere-i-quarry-crewman-five",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Burned, the crew Drakewolf let go Nala's arm and bolted, smoking.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-voss-drakewolf",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Voss came on through the fire behind his shield, then at three sharp whistles broke for the pit.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At three sharp whistles the whole crew broke and ran for the quarry pit.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-i-nala",
-        "character-other/overwhere-i-harl-voss",
-        "character-other/overwhere-i-quarry-crewman-one",
-        "character-other/overwhere-i-quarry-crewman-two",
-        "character-other/overwhere-i-quarry-crewman-three",
-        "character-other/overwhere-i-quarry-crewman-four",
-        "character-other/overwhere-i-quarry-crewman-five",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's air ward turned two crossbow bolts and a third from someone unseen in the trees.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The two crossbowmen and Voss reach the pit about 8 seconds after the whistles.",
@@ -376,6 +298,6 @@ export const overwhereITheDeserterCrew = {
     },
   ],
   secrets: "jsonl",
-  updatedAt: "2026-10-08T16:27:28.258Z",
+  updatedAt: "2026-10-27T19:46:50.059Z",
   createdAt: "2026-09-29T12:36:29.229Z",
 } as const satisfies Lore
