@@ -80,10 +80,6 @@ const SKILL_KEY = "skill"
 
 const RANK_KEY = "rank"
 
-const LEVEL_KEY = "level"
-
-const AXIS_KEY = "axis"
-
 const OBJECTIVE_KEY = "objective"
 
 const STATUS_KEY = "status"
@@ -93,8 +89,6 @@ const POINTS_KEY = "relationshipPoints"
 const ELEMENT_KEY = "element"
 
 const COUNTER_KEY = "counter"
-
-const TRAIT_KEY = "trait"
 
 const NOTHING_FILED: Filed = {
   pools: {},
@@ -214,9 +208,6 @@ async function readFiled(
         TITLE_KEY,
         DESCRIPTION_KEY,
         SKILL_KEY,
-        RANK_KEY,
-        LEVEL_KEY,
-        AXIS_KEY,
         EXPERIENCE_KEY,
         ATTRIBUTE_KEY,
         UNREVEALED_KEY,
@@ -248,16 +239,7 @@ async function readFiled(
     askedLoudly({
       "page-type": characterTrait.slug,
       where: { character: { is: character } },
-      keys: [
-        TYPE_KEY,
-        CHARACTER_KEY,
-        SLUG_KEY,
-        TITLE_KEY,
-        DESCRIPTION_KEY,
-        TRAIT_KEY,
-        RANK_KEY,
-        UNREVEALED_KEY,
-      ],
+      keys: [TYPE_KEY, CHARACTER_KEY, SLUG_KEY, TITLE_KEY, DESCRIPTION_KEY, UNREVEALED_KEY],
     }),
     itemsOf(character, overlay),
   ])
@@ -290,7 +272,6 @@ async function readFiled(
         RANK_KEY,
         CHARACTERS_KEY,
         ELEMENT_KEY,
-        TRAIT_KEY,
         ATTRIBUTE_KEY,
         ...HELD_KINDS.map(([, k]) => k),
       ]
