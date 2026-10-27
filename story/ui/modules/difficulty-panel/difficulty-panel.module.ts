@@ -10,7 +10,7 @@ export const difficultyPanel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The levels and their words are read from their pages when the panel opens.",
+      statement: "The levels and their titles are read from their pages when the panel opens.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,9 +22,14 @@ export const difficultyPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The chosen level's failure ceiling is shown beneath it.",
+      statement: "The panel draws no level's failure ceiling or stance, only its title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change once kept is confirmed beneath the select as holding from the next turn.",
     },
   ],
   createdAt: "2026-10-27T19:56:41.328Z",
-  updatedAt: "2026-10-27T19:56:41.328Z",
+  updatedAt: "2026-10-27T23:37:37.460Z",
 } as const satisfies Module

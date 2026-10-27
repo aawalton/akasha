@@ -15,7 +15,7 @@ import { exportedAs } from "akasha/page/modules/export-name/page-export-name.mod
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { difficultyLevel } from "akasha/story/world/stories/played/difficulty-levels/difficulty-level.page-type.ts"
-import { failureCeiling } from "akasha/story/world/stories/played/difficulty-levels/properties/failure-ceiling.standard-agent-english-property.ts"
+
 import { oddsModifier } from "akasha/story/world/stories/played/difficulty-levels/properties/odds-modifier.number-property.ts"
 import { levelUnnamed } from "akasha/story/world/stories/played/modules/difficulty-unnamed/difficulty-unnamed.module.code.ts"
 import { difficulty } from "akasha/story/world/stories/played/properties/difficulty.relation-property.ts"
@@ -26,8 +26,6 @@ const SLUG = "slug"
 const TITLE = "title"
 
 const MODIFIER = exportedAs(oddsModifier.propertySlug)
-
-const CEILING = exportedAs(failureCeiling.propertySlug)
 
 const NAMED = exportedAs(difficulty.propertySlug)
 
@@ -43,7 +41,7 @@ const NO_ADDRESS = "This story answers no address, so no level can be read or ch
 
 const KEPT = "Holds from the next turn."
 
-export type Level = { readonly address: string; readonly title: string; readonly ceiling: string }
+export type Level = { readonly address: string; readonly title: string }
 
 type Held =
   | { readonly levels: readonly Level[]; readonly chosen: string | null }
@@ -55,10 +53,8 @@ export function levelsIn(rows: readonly Row[]): readonly Level[] {
     const slug = row[SLUG]
     const title = row[TITLE]
     const by = row[MODIFIER]
-    const ceiling = row[CEILING]
-    if (typeof slug !== "string" || typeof title !== "string") continue
-    if (typeof by !== "number" || typeof ceiling !== "string") continue
-    held.push({ level: { address: namedAs(difficultyLevel.slug, slug, null), title, ceiling }, by })
+    if (typeof slug !== "string" || typeof title !== "string" || typeof by !== "number") continue
+    held.push({ level: { address: namedAs(difficultyLevel.slug, slug, null), title }, by })
   }
   return held.toSorted((one, other) => other.by - one.by).map((one) => one.level)
 }
@@ -72,7 +68,7 @@ async function heldFor(storyAddress: string): Promise<Held> {
   const address = addressIn(storyAddress)
   if (address.kind !== "qualified") return { refused: NO_ADDRESS }
   const [levels, story] = await Promise.all([
-    askingFor({ pageTypeSlug: difficultyLevel.slug, keys: [SLUG, TITLE, MODIFIER, CEILING] }),
+    askingFor({ pageTypeSlug: difficultyLevel.slug, keys: [SLUG, TITLE, MODIFIER] }),
     askingFor({
       pageTypeSlug: address.pageTypeSlug,
       where: { [SLUG]: { is: address.slug } },
@@ -140,8 +136,6 @@ export function DifficultyPanel({ storyAddress }: { readonly storyAddress: strin
     [chosen, storyAddress]
   )
 
-  const shown = levels.find((one) => one.address === chosen)
-
   return (
     <SurfaceProvider level={1} className={PANEL}>
       <p className={HEADING}>Difficulty</p>
@@ -161,7 +155,7 @@ export function DifficultyPanel({ storyAddress }: { readonly storyAddress: strin
           ))}
         </SelectContent>
       </Select>
-      {shown === undefined ? null : <p className={NOTE}>{shown.ceiling}</p>}
+
       {error === null ? null : <p className={ERROR_LINE}>{error}</p>}
       {kept && error === null ? <p className={NOTE}>{KEPT}</p> : null}
     </SurfaceProvider>
