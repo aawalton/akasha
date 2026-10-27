@@ -6,8 +6,8 @@ export const overwhereIvIlsaCrane = {
   slug: "overwhere-iv-ilsa-crane",
   title: "Ilsa Crane",
   world: "world/syl-a-slime-monster-evolution-litrpg",
-  story: "story-played/overwhere-iv",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   place: "place/overwhere-iv-millbrook-adventurers-hall",
   createdAt: "2026-09-30T09:57:50.276Z",
-  updatedAt: "2026-10-03T20:39:03.000Z",
+  updatedAt: "2026-10-27T19:42:04.089Z",
 } as const satisfies CharacterOther
