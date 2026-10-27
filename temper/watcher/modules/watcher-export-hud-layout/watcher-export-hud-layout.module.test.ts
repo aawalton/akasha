@@ -56,6 +56,26 @@ test("each panel states its key, dock, display order, and whether it never moves
   ])
 })
 
+test("a panel measured by another control states that control, and no other panel does", () => {
+  const trackers = asPage({
+    id: "panel-5",
+    key: "ZO_HUDTrackers",
+    dock: AT_TOP,
+    displayOrder: 2,
+    measuredBy: "ZO_HUDTrackersScrollContainerScrollChild",
+  })
+  expect(hudLayoutOf([], [COMPASS, trackers]).panels).toEqual([
+    { key: "ZO_CompassFrame", dock: top.slug, displayOrder: 1, neverMoves: false },
+    {
+      key: "ZO_HUDTrackers",
+      dock: top.slug,
+      displayOrder: 2,
+      neverMoves: false,
+      measuredBy: "ZO_HUDTrackersScrollContainerScrollChild",
+    },
+  ])
+})
+
 test("panels are written by dock and then by display order whatever order they were read in", () => {
   const read = hudLayoutOf([], [COMPASS, ATTRIBUTES, ACTION_BAR]).panels.map((one) => one.key)
   expect(read).toEqual(["ZO_ActionBar1", "ZO_PlayerAttribute", "ZO_CompassFrame"])

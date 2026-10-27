@@ -20,6 +20,11 @@ export const watcherExportHudLayout = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A panel measured by another control states that control, and no other panel does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Panels are written by dock and then by display order, so an unchanged layout is unwritten.",
     },
     {
@@ -33,5 +38,5 @@ export const watcherExportHudLayout = {
     },
   ],
   createdAt: "2026-10-27T19:18:31.117Z",
-  updatedAt: "2026-10-27T19:35:50.116Z",
+  updatedAt: "2026-10-27T19:39:03.762Z",
 } as const satisfies Module

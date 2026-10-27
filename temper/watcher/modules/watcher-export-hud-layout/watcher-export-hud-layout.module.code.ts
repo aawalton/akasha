@@ -26,6 +26,7 @@ interface HudLayoutPanel {
   readonly dock: string
   readonly displayOrder: number
   readonly neverMoves: boolean
+  readonly measuredBy?: string
 }
 
 interface HudLayout {
@@ -46,11 +47,13 @@ function stated<T>(held: T | null, page: Page, key: string): T {
 }
 
 function panelOf(page: Page): HudLayoutPanel {
+  const measuredBy = textAt(page, "measuredBy")
   return {
     key: stated(textAt(page, "key"), page, "key"),
     dock: stated(slugAt(page, "dock"), page, "dock"),
     displayOrder: stated(numberAt(page, "displayOrder"), page, "displayOrder"),
     neverMoves: page["neverMoves"] === true,
+    ...(measuredBy === null ? {} : { measuredBy }),
   }
 }
 
