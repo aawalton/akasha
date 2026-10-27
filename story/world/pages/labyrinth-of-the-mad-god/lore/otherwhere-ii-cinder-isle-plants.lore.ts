@@ -9,7 +9,7 @@ export const otherwhereIiCinderIslePlants = {
   facts: [
     {
       fact: "Fanpalms line the shores: palm-like trees whose broad fronds grow downward in a skirt.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A fanpalm nut is a hard green husk the size of a head, holding a cup of sweet water.",
@@ -25,11 +25,11 @@ export const otherwhereIiCinderIslePlants = {
     },
     {
       fact: "A fanpalm husk is a thumb thick, woody and fibrous; nails and hands make no mark on it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A glass shard scores a fanpalm husk slowly but snaps if twisted or used to pry.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Smashed hard on driftwood or sand a fanpalm nut only bruises; on rock it cracks.",
@@ -73,29 +73,29 @@ export const otherwhereIiCinderIslePlants = {
     },
     {
       fact: "A whole fallen fanpalm nut is heavy, and liquid sloshes inside it when shaken.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A fanpalm husk is hard as wood; fingers and nails leave no mark on it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Knocked on driftwood, a fanpalm nut only thuds and bruises; its husk does not crack.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A split fanpalm nut spills most of its water; each half keeps a little in the bottom.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Fanpalm nut water is sweet and faintly cloudy.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A fanpalm nut is lined inside with a thin layer of white flesh, bland and soft.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T19:47:16.023Z",
-  updatedAt: "2026-09-28T22:39:25.000Z",
+  updatedAt: "2026-10-27T19:30:04.169Z",
 } as const satisfies Lore

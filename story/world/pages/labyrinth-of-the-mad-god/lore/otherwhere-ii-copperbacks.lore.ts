@@ -9,7 +9,7 @@ export const otherwhereIiCopperbacks = {
   facts: [
     {
       fact: "Copperbacks are long-armed tree apes the size of a big dog, brown with copper-banded tails.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Copperbacks live in a troop of some forty, led by an old grey-muzzled female.",
@@ -33,7 +33,7 @@ export const otherwhereIiCopperbacks = {
     },
     {
       fact: "Copperbacks throw sticks, fruit and stones at intruders from the canopy.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Copperbacks are beasts: their calls are no speech, and Gift of Tongues gives them no words.",
@@ -45,7 +45,7 @@ export const otherwhereIiCopperbacks = {
     },
     {
       fact: "Copperbacks chase a fleeing intruder with barks and missiles, but not past the treeline.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A copperback that bluffs slaps branches and bares its teeth; one that means it goes silent.",
@@ -86,5 +86,5 @@ export const otherwhereIiCopperbacks = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T19:47:16.023Z",
-  updatedAt: "2026-09-28T22:39:25.000Z",
+  updatedAt: "2026-10-27T19:30:04.169Z",
 } as const satisfies Lore

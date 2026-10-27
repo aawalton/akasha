@@ -19,8 +19,6 @@ export const metricCharacterAttribute = {
     "page-type/tower-of-nimue-level",
     "page-type/the-beholder-attribute",
     "page-type/otherwhere-i-connection",
-    "page-type/otherwhere-ii-skill",
-    "page-type/otherwhere-ii-ability",
     "page-type/otherwhere-iv-skill",
     "page-type/otherwhere-iv-cultivation-stage",
     "page-type/otherwhere-vii-cultivation",
@@ -35,5 +33,5 @@ export const metricCharacterAttribute = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T16:33:19.046Z",
-  updatedAt: "2026-09-30T11:32:37.000Z",
+  updatedAt: "2026-10-27T19:30:04.169Z",
 } as const satisfies PageType

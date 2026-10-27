@@ -14,7 +14,7 @@ export const otherwhereIiGlassrun = {
     },
     {
       fact: "It meets the Black Shore about two miles south of where Nala woke, between double palm rows.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its lowest half mile runs brackish with the tide, too salt to drink.",
@@ -38,7 +38,7 @@ export const otherwhereIiGlassrun = {
     },
     {
       fact: "Reeds and deep mud line the lower banks; above the Stillpool the banks are rock.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Glassrun's water is clean to drink raw.",
@@ -47,5 +47,5 @@ export const otherwhereIiGlassrun = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T19:47:16.024Z",
-  updatedAt: "2026-09-28T22:39:25.000Z",
+  updatedAt: "2026-10-27T19:30:04.169Z",
 } as const satisfies Place
