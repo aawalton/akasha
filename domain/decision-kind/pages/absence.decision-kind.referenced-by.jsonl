@@ -1912,6 +1912,9 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.ts","id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-action-check.world-check.ts","id":"01a17f4c-d936-7a81-be7f-f813da5f15a7"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-training.world-check.ts","id":"01a17f4c-d936-7d96-ba7e-f2a61645a5dc"}
+{"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/checks/clone-probe-upkeep.world-check.ts","id":"01a17f4c-d936-74a4-b50a-80a29da305d3"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.ts","id":"01a17ede-ad87-7ec9-8f62-82b148152d82"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.ts","id":"01a17eeb-58ce-7db2-b591-31fafaef9d7c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-upkeep.world-check.ts","id":"01a17eeb-58cf-776b-ba64-5cc96eee1074"}
