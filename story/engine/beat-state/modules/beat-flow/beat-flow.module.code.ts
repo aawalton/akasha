@@ -33,10 +33,16 @@ export function doneBy(held: Beats, part: FlowPart): boolean {
   return held.beats.length > 0 && filledThrough(held, part) === held.beats.length
 }
 
+export function refusedAt(held: Beats): number | null {
+  const beats = (held.issues ?? []).map((one) => one.beat)
+  return beats.length === 0 ? null : Math.min(...beats)
+}
+
 export function readyFor(held: Beats, part: FlowPart): number | null {
   const before = AFTER[part]
   if (before === null) return null
   const next = filledThrough(held, part) + 1
+  if ((held.issues ?? []).some((one) => one.beat === next)) return null
   return filledOn(held, next, before) ? next : null
 }
 

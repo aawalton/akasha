@@ -61,10 +61,34 @@ export const turnBeating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The numbers seat refuses a beat by handing in its issues and no changes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the numbers seat refuses a beat, so a shown beat is never refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game master states a refused beat again by handing in the whole beats file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A restatement moving a beat before the refused one is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A restatement keeps every part of the beats before the refused one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A restatement clears every part of the refused beat and the beats after it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The pages hold the values the shown beats left, so numbers are checked from there.",
     },
   ],
   createdAt: "2026-10-27T19:42:57.720Z",
-  updatedAt: "2026-10-27T20:16:56.891Z",
+  updatedAt: "2026-10-27T20:26:52.073Z",
 } as const satisfies Module

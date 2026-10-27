@@ -275,7 +275,9 @@ function proseHanded(root: string, said: Said): Extract<Handed, { kind: "prose" 
 
 function beatOn(handed: Handed, beat: number | undefined): Handed | Refusal {
   if (beat === undefined) return handed
-  if (handed.kind === "prose" || handed.kind === "record") return { ...handed, beat }
+  if (handed.kind === "prose" || handed.kind === "record" || handed.kind === "beats") {
+    return { ...handed, beat }
+  }
   return {
     refused: [
       `\`${beatArgument.said}\` names the beat whose part a step hands in, and this hands in ${handed.kind}`,

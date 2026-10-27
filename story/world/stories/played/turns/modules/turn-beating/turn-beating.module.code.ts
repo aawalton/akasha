@@ -1,3 +1,4 @@
+import { gameMaster as gameMasterRole } from "akasha/agent/role/pages/game-master.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
@@ -6,6 +7,7 @@ import {
   type FlowPart,
   readyAcross,
   readyFor,
+  refusedAt,
   shownThrough,
 } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts"
 import {
@@ -25,6 +27,7 @@ import {
   BEATS,
   type Caller,
   CHAPTER,
+  firstMoved,
   type Handed,
   type Held,
   moved,
@@ -32,6 +35,10 @@ import {
   published,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import {
+  beatsRefused,
+  issuesRefused,
+} from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
 import { proseTaken } from "akasha/story/world/stories/played/turns/modules/turn-prose/turn-prose.module.code.ts"
 
 type Listed = "changes" | "memory" | "pictured"
@@ -58,6 +65,7 @@ type Part = { readonly part: FlowPart; readonly role: string }
 
 function partOf(handed: Handed): Part | Refused {
   if (handed.kind === "prose") return { part: "prose", role: writerRole.slug }
+  if (handed.kind === "beats") return { part: "event", role: gameMasterRole.slug }
   if (handed.kind !== "record") {
     return {
       refused: `at ${BEATS} an advance hands in one beat's numbers, prose, memory or pictures`,
@@ -73,7 +81,7 @@ function partOf(handed: Handed): Part | Refused {
 
 function readyRefused(flow: Beats, part: FlowPart, beat: number | undefined): string | null {
   if (beat === undefined) return `at ${BEATS} an advance names the beat it hands in at \`--beat\``
-  const ready = readyFor(flow, part)
+  const ready = part === "event" ? refusedAt(flow) : readyFor(flow, part)
   const step = STEP_OF[part]
   if (ready === null) return `no beat is ready for ${step} yet, and this hands in beat ${beat}`
   if (ready !== beat)
@@ -98,11 +106,62 @@ function noneWith(flow: Beats, beat: number, part: Listed): Beats {
   return { ...flow, none: [...(flow.none ?? []), { beat, part }] }
 }
 
+function refusedOn(
+  flow: Beats,
+  beat: number,
+  part: Listed,
+  handed: Extract<Handed, { kind: "record" }>
+): Beats | Refused {
+  if (part !== "changes") {
+    return { refused: `only the \`${mechanics.slug}\` recorder refuses a beat, before it is shown` }
+  }
+  if ((handed.changes ?? []).length > 0) {
+    return { refused: "a refused beat hands in its issues and no changes" }
+  }
+  const issues = handed.issues ?? []
+  const long = issuesRefused(issues, "turn")
+  if (long !== null) return { refused: long }
+  const more = issues.map((issue) => ({ beat, issue }))
+  return { ...flow, issues: [...(flow.issues ?? []), ...more] }
+}
+
+function restatedOn(
+  flow: Beats,
+  handed: Extract<Handed, { kind: "beats" }>,
+  beat: number,
+  held: Held
+): Beats | Refused {
+  const planned = { beats: handed.beats, scenes: handed.scenes ?? [] }
+  if (beat <= shownThrough(flow)) {
+    return { refused: `beat ${beat} is shown, and a shown beat is never stated again` }
+  }
+  if (planned.beats.length < beat) {
+    const many = planned.beats.length
+    return { refused: `the beats file holds ${many} beats, and beat ${beat} is stated again` }
+  }
+  const wrong = beatsRefused(planned.beats, held)
+  if (wrong !== null) return { refused: wrong }
+  const differs = firstMoved({ beats: flow.beats, scenes: flow.scenes }, planned)
+  if (differs !== null && differs < beat) {
+    return {
+      refused: `beat ${differs} differs from the beat it was, and only beat ${beat} and the beats after it are stated again`,
+    }
+  }
+  const kept = (one: { readonly beat: number }) => one.beat < beat
+  return {
+    ...planned,
+    changes: flow.changes.filter(kept),
+    memory: flow.memory.filter(kept),
+    pictured: (flow.pictured ?? []).filter(kept),
+    prose: (flow.prose ?? []).filter(kept),
+    none: (flow.none ?? []).filter(kept),
+  }
+}
+
 function recordedOn(flow: Beats, beat: number, part: Listed, handed: Handed): Beats | Refused {
   if (handed.kind !== "record") return flow
-  if ((handed.issues ?? []).length > 0) {
-    return { refused: `issues on a beat are not taken at ${BEATS}` }
-  }
+  const issues = handed.issues ?? []
+  if (issues.length > 0) return refusedOn(flow, beat, part, handed)
   if (part === "changes") {
     const more = handed.changes ?? []
     if (more.length === 0) return noneWith(flow, beat, part)
@@ -160,6 +219,11 @@ function proseOn(
   return { flow: { ...flow, prose }, prose: taken.prose, values: taken.values }
 }
 
+function beatOf(handed: Handed): number | undefined {
+  const named = handed.kind === "prose" || handed.kind === "record" || handed.kind === "beats"
+  return named ? handed.beat : undefined
+}
+
 export function flowsOn(held: Held): boolean {
   if (held.noun === CHAPTER || held.roleplayed === true || held.written) return false
   return held.issues.length === 0 && (held.mechanicsIssues ?? []).length === 0
@@ -175,7 +239,7 @@ export function beatRouted(
   if (held.status === BEATS && held.roleplayed !== true) {
     return fromBeat(held, caller, handed, cast, admitted)
   }
-  const beat = handed.kind === "prose" || handed.kind === "record" ? handed.beat : undefined
+  const beat = beatOf(handed)
   if (beat === undefined) return null
   return { refused: `\`--beat\` names a beat only while a turn is at ${BEATS}` }
 }
@@ -194,9 +258,14 @@ function fromBeat(
   if (caller.role !== found.role) {
     return { refused: `${STEP_OF[found.part]} hands in this part, from a ${found.role} seat` }
   }
-  const beat = handed.kind === "prose" || handed.kind === "record" ? handed.beat : undefined
+  const beat = beatOf(handed)
   const unready = readyRefused(flow, found.part, beat)
   if (unready !== null || beat === undefined) return { refused: unready ?? "" }
+  if (handed.kind === "beats") {
+    const restated = restatedOn(flow, handed, beat, held)
+    if ("refused" in restated) return restated
+    return onward(restated, {}, null, false)
+  }
   if (handed.kind === "prose") {
     const told = proseOn(held, flow, handed, beat, { cast, admitted })
     if ("refused" in told) return told
@@ -211,7 +280,20 @@ function fromBeat(
 
 export type BeatJob = { readonly part: FlowPart; readonly turn: number; readonly beat: number }
 
+function refusalJobsOf(before: readonly Beats[], after: readonly Beats[]): readonly BeatJob[] {
+  return after.flatMap((now, turn): BeatJob[] => {
+    const at = refusedAt(now)
+    const had = before[turn]
+    const was = had === undefined ? null : refusedAt(had)
+    return at === null || at === was ? [] : [{ part: "event", turn, beat: at }]
+  })
+}
+
 export function beatJobsOf(before: readonly Beats[], after: readonly Beats[]): readonly BeatJob[] {
+  return [...refusalJobsOf(before, after), ...steppedJobsOf(before, after)]
+}
+
+function steppedJobsOf(before: readonly Beats[], after: readonly Beats[]): readonly BeatJob[] {
   return STEPPED.flatMap((part) => {
     const now = readyAcross(after, part)
     if (now === null) return []

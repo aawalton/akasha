@@ -83,6 +83,7 @@ export type Handed =
       readonly scenes?: readonly BeatScene[]
       readonly rulings?: readonly Ruling[]
       readonly told?: Prose
+      readonly beat?: number
     }
   | { readonly kind: "review"; readonly reviewer: string; readonly issues: readonly string[] }
   | Prose

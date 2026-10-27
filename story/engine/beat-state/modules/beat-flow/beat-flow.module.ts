@@ -32,8 +32,16 @@ export const beatFlow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The game master states every beat of a turn at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "No beat is ever ready for the game master, who states every beat of a turn at once.",
+        "A beat holding issues is refused, and is ready for no step until it is stated again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refused beat is ready for the game master, the earliest refused beat first.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,5 +54,5 @@ export const beatFlow = {
     },
   ],
   createdAt: "2026-10-27T19:34:15.047Z",
-  updatedAt: "2026-10-27T19:42:57.720Z",
+  updatedAt: "2026-10-27T20:26:52.073Z",
 } as const satisfies Module

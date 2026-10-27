@@ -52,6 +52,19 @@ test("the writer is asked for one beat's prose, and each recorder for its own pa
   expect(beatPrompt("pictured", ASKED)).toContain("--recorder picture --pictured-file <path>")
 })
 
+test("a refused beat is handed to the game master with its issues, to state again from there", () => {
+  const refused = beatsOf(
+    { beat: 1, event: "Mara opens the gate.", changes: [] },
+    { beat: 2, event: "The hall is dark.", issues: ["beat 2: no lamp is lit"] }
+  )
+  const said = beatPrompt("event", { ...ASKED, turn: { ...ASKED.turn, beats: refused } })
+  expect(said).toContain("You are the game master of The Saga")
+  expect(said).toContain("- beat 2: no lamp is lit")
+  expect(said).toContain("saga-00-004.story-turn-played.beats.jsonl")
+  expect(said).toContain("--beat 2 --beats-file <path>")
+  expect(beatPrompt("changes", ASKED)).toContain("--issues-file")
+})
+
 test("the turns flowing are those at beats and the turn handed in, in turn order", () => {
   const paged = (slug: string, position: number, status: TurnStep) => ({
     slug,

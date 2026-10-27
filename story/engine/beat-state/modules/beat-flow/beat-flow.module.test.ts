@@ -4,6 +4,7 @@ import {
   filledOn,
   readyAcross,
   readyFor,
+  refusedAt,
   shownThrough,
 } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts"
 import { beatsOf } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts"
@@ -79,6 +80,17 @@ test("a step reaches a turn's first beat only once it has filled every beat of t
   expect(doneBy(remembered, "memory")).toBe(true)
   expect(readyAcross([remembered, after], "memory")).toEqual({ turn: 1, beat: 1 })
   expect(readyAcross([remembered], "memory")).toBeNull()
+})
+
+test("a beat holding issues is refused, and is ready for no step until stated again", () => {
+  const held = beatsOf(
+    { beat: 1, event: "One.", changes: [] },
+    { beat: 2, event: "Two.", issues: ["beat 2: no coin"] }
+  )
+  expect(refusedAt(held)).toBe(2)
+  expect(readyFor(held, "changes")).toBeNull()
+  expect(readyFor(held, "prose")).toBe(1)
+  expect(refusedAt(STATED)).toBeNull()
 })
 
 test("a turn the game master has not stated holds every step at that turn", () => {

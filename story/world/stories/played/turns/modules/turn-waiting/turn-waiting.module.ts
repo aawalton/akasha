@@ -14,7 +14,8 @@ export const turnWaiting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn at beats waits on its game's writer and story recorder seats together.",
+      statement:
+        "A turn at beats waits on its game's game master, writer and story recorder seats together.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -32,5 +33,5 @@ export const turnWaiting = {
     },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-27T19:42:57.720Z",
+  updatedAt: "2026-10-27T20:26:52.073Z",
 } as const satisfies Module

@@ -49,6 +49,10 @@ export const beatRecords = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A refused beat states its issues as a list on its line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A line out of order, or a part shaped wrong, refuses the whole file.",
     },
     {
@@ -61,5 +65,5 @@ export const beatRecords = {
     },
   ],
   createdAt: "2026-10-03T18:12:36.929Z",
-  updatedAt: "2026-10-27T19:34:15.047Z",
+  updatedAt: "2026-10-27T20:26:52.073Z",
 } as const satisfies Module

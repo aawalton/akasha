@@ -102,7 +102,11 @@ export const beatState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rerun replaces its turn's beats whole, so nothing is applied twice.",
+      statement: "A refused beat reruns only itself and the beats after it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shown beat is never rewritten, so nothing it changed is applied twice.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -126,5 +130,5 @@ export const beatState = {
     },
   ],
   createdAt: "2026-10-03T14:40:55.210Z",
-  updatedAt: "2026-10-27T19:34:15.047Z",
+  updatedAt: "2026-10-27T20:26:52.073Z",
 } as const satisfies Domain

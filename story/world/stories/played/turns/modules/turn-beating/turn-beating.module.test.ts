@@ -62,7 +62,9 @@ test("a part handed in for another step, or from another seat, is refused", () =
   const stray = { kind: "record", recorder: "inventory", beat: 1 } as const
   expect(refusalOf(advanced(flowing(STATED), RECORDER, stray, TWO))).toContain("no part of a beat")
   expect(refusalOf(advanced(flowing(STATED), WRITER, numbers(1), TWO))).toContain("story-recorder")
-  expect(refusalOf(advanced(flowing(STATED), MASTER, numbers(1), TWO))).toContain("beat by beat")
+  expect(refusalOf(advanced(flowing(STATED), MASTER, numbers(1), TWO))).toContain(
+    "from a story-recorder seat"
+  )
   const far = numbers(1, { changes: [{ ...GAIN, beat: 2 }] })
   expect(refusalOf(advanced(flowing(STATED), RECORDER, far, TWO))).toContain("names beat 2")
 })
@@ -135,6 +137,46 @@ test("a played turn flows by beats unless roleplayed, written, holding issues, o
   expect(flowsOn(heldAt("game-master", { issues: ["voice: a fault"] }))).toBe(false)
   expect(flowsOn(heldAt("game-master", { mechanicsIssues: ["beat 1: no coin"] }))).toBe(false)
   expect(flowsOn(heldAt("game-master", { noun: "chapter" }))).toBe(false)
+})
+
+const REFUSED = beatsOf(
+  { beat: 1, event: "One.", changes: [], prose: "One told." },
+  { beat: 2, event: "Two.", issues: ["beat 2: no coin"] },
+  { beat: 3, event: "Three." }
+)
+
+test("the numbers seat refuses a beat with its issues, and the game master is handed it", () => {
+  const issues = { ...numbers(2), issues: ["beat 2: no coin"] }
+  const once = beatsOf({ beat: 1, event: "One.", changes: [] }, { beat: 2, event: "Two." })
+  const said = movedOf(advanced(flowing(once), RECORDER, issues, TWO))
+  expect(said.flow?.issues).toEqual([{ beat: 2, issue: "beat 2: no coin" }])
+  expect(beatJobsOf([once], [said.flow ?? once])).toEqual([{ part: "event", turn: 0, beat: 2 }])
+  const both = { ...issues, changes: [{ ...GAIN, beat: 2 }] }
+  expect(refusalOf(advanced(flowing(once), RECORDER, both, TWO))).toContain("no changes")
+})
+
+test("the game master states the refused beat and those after it again, keeping the beats before", () => {
+  const beats = ["One.", "Two, mended.", "Three, mended."]
+  const said = movedOf(advanced(flowing(REFUSED), MASTER, { kind: "beats", beats, beat: 2 }, TWO))
+  expect(said.status).toBe("beats")
+  expect(said.flow?.beats).toEqual(beats)
+  expect(said.flow?.prose).toEqual([{ beat: 1, prose: "One told." }])
+  expect(said.flow?.none).toEqual([{ beat: 1, part: "changes" }])
+  expect(said.flow?.issues).toBeUndefined()
+  expect(beatJobsOf([REFUSED], [said.flow ?? REFUSED])[0]).toEqual({
+    part: "changes",
+    turn: 0,
+    beat: 2,
+  })
+})
+
+test("a restatement moving a beat before the refused one, or naming another beat, is refused", () => {
+  const moved = { kind: "beats", beats: ["One, moved.", "Two."], beat: 2 } as const
+  expect(refusalOf(advanced(flowing(REFUSED), MASTER, moved, TWO))).toContain("beat 1 differs")
+  const early = { kind: "beats", beats: ["One.", "Two."], beat: 1 } as const
+  expect(refusalOf(advanced(flowing(REFUSED), MASTER, early, TWO))).toContain(
+    "beat 2 is the beat ready for the game master"
+  )
 })
 
 test("a beat named off the beats status is refused", () => {

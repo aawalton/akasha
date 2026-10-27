@@ -37,7 +37,7 @@ export function roleOf(held: Pick<Held, "status" | "roleplayed">): string | null
   return roleplayRecorderRole.slug
 }
 
-const AT_BEATS: readonly string[] = [writerRole.slug, storyRecorderRole.slug]
+const AT_BEATS: readonly string[] = [gameMasterRole.slug, writerRole.slug, storyRecorderRole.slug]
 
 function beatCallerRefused(held: Held, caller: Caller): string | null {
   if (caller.role !== null && AT_BEATS.includes(caller.role) && caller.game === held.game) {

@@ -24,6 +24,8 @@ type ListedPart = "changes" | "memory" | "pictured"
 
 type NoneStated = { readonly beat: number; readonly part: ListedPart }
 
+export type BeatIssue = { readonly beat: number; readonly issue: string }
+
 export type Beats = {
   readonly beats: readonly string[]
   readonly scenes: readonly BeatScene[]
@@ -32,6 +34,7 @@ export type Beats = {
   readonly pictured?: readonly Pictured[]
   readonly prose?: readonly BeatProse[]
   readonly none?: readonly NoneStated[]
+  readonly issues?: readonly BeatIssue[]
 }
 
 type Refused = { readonly refused: string }
@@ -52,6 +55,8 @@ const PROSE = "prose"
 
 const CONTINUES = "continues"
 
+const ISSUES = "issues"
+
 const SCENE_KEYS: readonly string[] = ["at", "place", "present", "arrive", "leave"]
 
 const KNOWN: readonly string[] = [
@@ -63,6 +68,7 @@ const KNOWN: readonly string[] = [
   PICTURED,
   PROSE,
   CONTINUES,
+  ISSUES,
 ]
 
 const LINES = /\r?\n/
@@ -91,6 +97,17 @@ type Read = {
   readonly pictured: string[]
   readonly prose: BeatProse[]
   readonly none: NoneStated[]
+  readonly issues: BeatIssue[]
+}
+
+function issuesUnder(beat: number, value: unknown): readonly BeatIssue[] | string {
+  if (value === undefined) return []
+  const listed = Array.isArray(value) ? value : []
+  const said = listed.filter((one): one is string => typeof one === "string" && one.trim() !== "")
+  if (!Array.isArray(value) || said.length !== listed.length || said.length === 0) {
+    return `beat ${beat} states \`${ISSUES}\` as no list of issues`
+  }
+  return said.map((issue) => ({ beat, issue: issue.trim() }))
 }
 
 const LISTED: readonly ListedPart[] = [CHANGES, MEMORY, PICTURED]
@@ -131,6 +148,9 @@ function lineRead(read: Read, line: string, beat: number): string | null {
   if (typeof memory === "string") return memory
   const pictured = entriesUnder(beat, held[PICTURED])
   if (typeof pictured === "string") return pictured
+  const issues = issuesUnder(beat, held[ISSUES])
+  if (typeof issues === "string") return issues
+  read.issues.push(...issues)
   read.beats.push(event.trim())
   if (typeof told === "string") {
     const prose = { beat, prose: told.trim() }
@@ -144,8 +164,13 @@ function lineRead(read: Read, line: string, beat: number): string | null {
   return null
 }
 
-function withNone(held: Beats, none: readonly NoneStated[]): Beats {
-  return none.length === 0 ? held : { ...held, none }
+function withNone(
+  held: Beats,
+  none: readonly NoneStated[],
+  issues: readonly BeatIssue[] = []
+): Beats {
+  const stated = none.length === 0 ? held : { ...held, none }
+  return issues.length === 0 ? stated : { ...stated, issues }
 }
 
 export function beatsIn(text: string): Beats | Refused {
@@ -161,6 +186,7 @@ export function beatsIn(text: string): Beats | Refused {
     pictured: [],
     prose: [],
     none: [],
+    issues: [],
   }
   for (const [index, line] of lines.entries()) {
     const wrong = lineRead(read, line, index + 1)
@@ -176,7 +202,8 @@ export function beatsIn(text: string): Beats | Refused {
   if (told !== null) return { refused: told }
   const held = { beats: read.beats, scenes: read.scenes, changes, memory }
   const drawn = pictured.length === 0 ? held : { ...held, pictured }
-  return withNone(read.prose.length === 0 ? drawn : { ...drawn, prose: read.prose }, read.none)
+  const written = read.prose.length === 0 ? drawn : { ...drawn, prose: read.prose }
+  return withNone(written, read.none, read.issues)
 }
 
 function moved<Held extends { readonly beat: number }>(
@@ -194,6 +221,7 @@ export function beatsJoined(each: readonly Beats[]): Beats {
   const pictured: Pictured[] = []
   const prose: BeatProse[] = []
   const none: NoneStated[] = []
+  const issues: BeatIssue[] = []
   for (const one of each) {
     const past = beats.length
     beats.push(...one.beats)
@@ -203,10 +231,11 @@ export function beatsJoined(each: readonly Beats[]): Beats {
     pictured.push(...moved(one.pictured ?? [], past))
     prose.push(...moved(one.prose ?? [], past))
     none.push(...moved(one.none ?? [], past))
+    issues.push(...moved(one.issues ?? [], past))
   }
   const held = { beats, scenes, changes, memory }
   const drawn = pictured.length === 0 ? held : { ...held, pictured }
-  return withNone(prose.length === 0 ? drawn : { ...drawn, prose }, none)
+  return withNone(prose.length === 0 ? drawn : { ...drawn, prose }, none, issues)
 }
 
 function listedOn(
@@ -218,6 +247,11 @@ function listedOn(
   if (entries.length > 0) return { [part]: entries }
   const stated = (held.none ?? []).some((one) => one.beat === beat && one.part === part)
   return stated ? { [part]: [] } : {}
+}
+
+function issuesOn(held: Beats, beat: number): { readonly [key: string]: readonly string[] } {
+  const said = (held.issues ?? []).filter((one) => one.beat === beat).map((one) => one.issue)
+  return said.length === 0 ? {} : { [ISSUES]: said }
 }
 
 function unbeaten(one: Entry): Entry {
@@ -242,6 +276,7 @@ export function beatsWritten(held: Beats): string {
         ...listedOn(held, beat, CHANGES, changes),
         ...listedOn(held, beat, MEMORY, memory),
         ...listedOn(held, beat, PICTURED, pictured),
+        ...issuesOn(held, beat),
       }
       return `${JSON.stringify(record)}\n`
     })

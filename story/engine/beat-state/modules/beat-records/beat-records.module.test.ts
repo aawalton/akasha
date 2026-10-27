@@ -137,6 +137,16 @@ test("a part stated as an empty list stays on its line, apart from a part never 
   expect(beatsJoined([read, read]).none?.map((one) => one.beat)).toEqual([1, 1, 2, 4, 4, 5])
 })
 
+test("a refused beat's issues sit on its line and read back, and an empty list is refused", () => {
+  const file = `${JSON.stringify({ beat: 1, event: "One.", issues: ["beat 1: no coin"] })}\n`
+  const read = beatsIn(file)
+  expect(read).toMatchObject({ issues: [{ beat: 1, issue: "beat 1: no coin" }] })
+  if ("refused" in read) return
+  expect(beatsWritten(read)).toBe(file)
+  const empty = `${JSON.stringify({ beat: 1, event: "One.", issues: [] })}\n`
+  expect(beatsIn(empty)).toEqual({ refused: "beat 1 states `issues` as no list of issues" })
+})
+
 test("beats joined end to end are numbered on from the beats before them", () => {
   const picture = { beat: 1, cover: "image/image-a", coverAfter: "Mara", setting: "the attic" }
   const later: Beats = { ...HELD, pictured: [picture] }

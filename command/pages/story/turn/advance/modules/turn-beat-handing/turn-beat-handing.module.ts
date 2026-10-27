@@ -43,7 +43,11 @@ export const turnBeatHanding = {
       decisionKind: "decision-kind/departure",
       statement: "A beat that could not be handed out is named in the answer, and undoes nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refused beat is handed to the game master seat with its issues.",
+    },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-27T19:54:42.651Z",
+  updatedAt: "2026-10-27T20:26:52.073Z",
 } as const satisfies Module

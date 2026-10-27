@@ -1,8 +1,11 @@
+import { gameMaster as gameMasterRole } from "akasha/agent/role/pages/game-master.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import { beat as beatArgument } from "akasha/command/argument/pages/beat.argument.ts"
+import { beatsFile } from "akasha/command/argument/pages/beats-file.argument.ts"
 import { changesFile } from "akasha/command/argument/pages/changes-file.argument.ts"
 import { character } from "akasha/command/argument/pages/character.argument.ts"
+import { issuesFile } from "akasha/command/argument/pages/issues-file.argument.ts"
 import { memoryFile } from "akasha/command/argument/pages/memory-file.argument.ts"
 import { picturedFile } from "akasha/command/argument/pages/pictured-file.argument.ts"
 import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
@@ -84,8 +87,21 @@ function instructionsOf(recorders: readonly Recorder[], slugs: readonly string[]
 
 type Said = { readonly who: string; readonly work: string; readonly flags: string }
 
+function restatingSaid(asked: BeatAsking): Said {
+  const { beat, turn } = asked
+  const beats = besideAt(turn.at, "beats", "jsonl") ?? turn.at
+  const issues = (turn.beats.issues ?? []).filter((one) => one.beat === beat)
+  const listed = issues.map((one) => `- ${one.issue}`).join("\n")
+  return {
+    who: "game master",
+    work: `The numbers seat refused beat ${beat}:\n\n${listed}\n\nState the turn's beats again from beat ${beat} on, or rule the issue out by stating beat ${beat} as it was. Write the whole beats file: every beat before beat ${beat} word for word as it is in \`${beats}\`, then beat ${beat} and the beats after it as they should be. The beats before beat ${beat} keep every part the steps gave them, and every part of beat ${beat} and the beats after it is worked again.`,
+    flags: `${beatsFile.said} ${PATH}`,
+  }
+}
+
 function saidFor(part: FlowPart, asked: BeatAsking): Said {
   const { beat, recorders } = asked
+  if (part === "event") return restatingSaid(asked)
   if (part === "prose") {
     const prose = besideAt(asked.turn.at, "prose", "txt") ?? asked.turn.at
     return {
@@ -99,7 +115,7 @@ function saidFor(part: FlowPart, asked: BeatAsking): Said {
     const read = instructionsOf(recorders, [recorder, ...NUMBERS_TOO])
     return {
       who: "numbers seat",
-      work: `Work this one beat by each of your instructions, ${read}, from the pages as the beats shown before it left them. Draft no edit: write this beat's changes to a file, one json change to a line naming beat ${beat}, and leave out \`${changesFile.said}\` where the beat changes nothing.`,
+      work: `Work this one beat by each of your instructions, ${read}, from the pages as the beats shown before it left them. Draft no edit: write this beat's changes to a file, one json change to a line naming beat ${beat}, and leave out \`${changesFile.said}\` where the beat changes nothing. Where this beat cannot work, hand in no changes: write each issue to a file instead, one to a line naming beat ${beat}, and hand it in at \`${issuesFile.said}\`, and the game master states the beat again.`,
       flags: `${recorderArgument.said} ${recorder} ${changesFile.said} ${PATH}`,
     }
   }
@@ -151,6 +167,7 @@ export function beatPrompt(part: FlowPart, asked: BeatAsking): string {
 function startingOf(job: BeatJob, asked: BeatAsking, persona: string, game: string): Starting {
   const prompt = beatPrompt(job.part, asked)
   const recorder = recorderOf(job.part)
+  if (job.part === "event") return { persona, role: gameMasterRole.slug, game, flex: null, prompt }
   if (recorder === null) return { persona, role: writerRole.slug, game, flex: null, prompt }
   const flex = flexOf(
     asked.recorders.map((one) => one.slug),
