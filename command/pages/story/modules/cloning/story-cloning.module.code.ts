@@ -22,7 +22,15 @@ const LEFT_ENDINGS: readonly string[] = [
   ".schema.jsonl",
   ".shapes.jsonl",
   ".lock",
+  ".test.ts",
+  ".test-fixtures.ts",
 ]
+
+const ROOT = "akasha/"
+
+const EXPORTED = /^export (?:async )?(?:function\*?|const|let|class) ([A-Za-z_$][\w$]*)/gm
+
+const TYPED = /^export (?:type|interface) ([A-Za-z_$][\w$]*)/gm
 
 const CODE_ENDINGS: readonly string[] = [".code.ts", ".test.ts", ".test-fixtures.ts"]
 
@@ -139,18 +147,39 @@ export type Cloning = {
   readonly story: Story
 }
 
+function namesIn(text: string, pattern: RegExp): readonly string[] {
+  return [...text.matchAll(pattern)].flatMap((one) => (one[1] === undefined ? [] : [one[1]]))
+}
+
+export function forwardOf(path: string, text: string): string {
+  const from = JSON.stringify(`${ROOT}${path}`)
+  const values = namesIn(text, EXPORTED)
+  const types = namesIn(text, TYPED)
+  return [
+    ...(values.length === 0 ? [] : [`export { ${values.join(", ")} } from ${from}`]),
+    ...(types.length === 0 ? [] : [`export type { ${types.join(", ")} } from ${from}`]),
+    "",
+  ].join(BREAK)
+}
+
+export function storyBoundIn(sources: readonly Source[], folder: string): readonly string[] {
+  const own = `"${ROOT}${folder}`
+  return sources
+    .filter((one) => isCode(one.path) && copied(folder, one.path) && one.text.includes(own))
+    .map((one) => one.path)
+}
+
 export function copiesOf(sources: readonly Source[], cloning: Cloning): readonly Copy[] {
   const { folder, storyPath, story } = cloning
   const made: Copy[] = []
   for (const one of sources) {
     if (!copied(folder, one.path)) continue
     const at = clonedPath(one.path, folder, story.from, story.to)
-    const renamed = slugsRenamed(one.text, story.from, story.to)
     if (isCode(one.path)) {
-      made.push({ at, body: renamed })
+      made.push({ at, body: forwardOf(one.path, one.text) })
       continue
     }
-    const body = pageBody(renamed)
+    const body = pageBody(slugsRenamed(one.text, story.from, story.to))
     made.push({ at, body: one.path === storyPath ? storyBody(body, story) : body })
   }
   return made.toSorted((one, two) => (one.at < two.at ? -1 : one.at > two.at ? 1 : 0))

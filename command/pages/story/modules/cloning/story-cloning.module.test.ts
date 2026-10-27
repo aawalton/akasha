@@ -7,6 +7,7 @@ import {
   latestOf,
   masterOf,
   slugsRenamed,
+  storyBoundIn,
 } from "akasha/command/pages/story/modules/cloning/story-cloning.module.code.ts"
 
 const FOLDER = "story/world/pages/test-world/stories/played/test-story/"
@@ -45,6 +46,19 @@ const PURSE = [
 const CODE = [
   'import { testStoryPlayer } from "akasha/story/world/pages/test-world/stories/played/test-story/characters/test-story-player.character-player.ts"',
   'const SEAT = "mari-roleplay-test-story"',
+  "",
+].join("\n")
+
+const FORWARDED = [
+  'import { z } from "zod"',
+  "export type Kept = { readonly paid: number }",
+  "export function settled(reading: unknown) {",
+  "  return reading",
+  "}",
+  "export async function added() {",
+  "  return []",
+  "}",
+  "function hidden() {}",
   "",
 ].join("\n")
 
@@ -134,16 +148,33 @@ test("a page is copied with no id, instant or history, and its relations name th
   )
 })
 
-test("code beside a page is copied whole, with its imports naming the copy", () => {
+test("code beside a page is copied as one line forwarding to the source's code", () => {
   const at = `${FOLDER}checks/test-story-upkeep.world-check.settling.code.ts`
-  const made = copiesOf([{ path: at, text: CODE }], CLONING)[0]
+  const made = copiesOf([{ path: at, text: FORWARDED }], CLONING)[0]
+  expect(made?.at).toBe(
+    "story/world/pages/test-world/stories/played/probe/checks/probe-upkeep.world-check.settling.code.ts"
+  )
   expect(made?.body).toBe(
     [
-      'import { probePlayer } from "akasha/story/world/pages/test-world/stories/played/probe/characters/probe-player.character-player.ts"',
-      'const SEAT = "mari-roleplay-test-story"',
+      `export { settled, added } from "akasha/${at}"`,
+      `export type { Kept } from "akasha/${at}"`,
       "",
     ].join("\n")
   )
+})
+
+test("code importing a page of its own story is found, and other code is not", () => {
+  const bound = `${FOLDER}checks/test-story-upkeep.world-check.settling.code.ts`
+  const free = `${FOLDER}checks/test-story-time-passing.world-check.settling.code.ts`
+  const sources = [
+    { path: bound, text: CODE },
+    { path: free, text: FORWARDED },
+  ]
+  expect(storyBoundIn(sources, FOLDER)).toEqual([bound])
+})
+
+test("a test beside code is left, since the copy forwards to code the source's test proves", () => {
+  expect(copied(FOLDER, `${FOLDER}a/test-story-upkeep.world-check.settling.test.ts`)).toBe(false)
 })
 
 test("the latest instant is the latest stated", () => {

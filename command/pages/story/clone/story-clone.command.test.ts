@@ -141,6 +141,28 @@ test("a slug held already is refused, and nothing lands", async () => {
   expect(landed.length).toBe(0)
 })
 
+test("a source whose code imports a page of that story is refused, and nothing lands", async () => {
+  const landed: Landed[] = []
+  const code = `${FOLDER}mechanics/checks/test-story-upkeep.world-check.settling.code.ts`
+  const bound: Reach = {
+    ...REACH,
+    committedUnder: () => [STORY_AT, CHECK_AT, code],
+    textOf: (root, path) =>
+      path === code
+        ? `import { testStoryPlayer } from "akasha/${FOLDER}characters/test-story-player.character-player.ts"\n`
+        : REACH.textOf(root, path),
+  }
+  const answer = await storyClone(
+    ["--story", "test-story", "--as", "probe"],
+    GIVEN,
+    landingInto(landed),
+    bound
+  )
+  expect(answer.code).not.toBe(0)
+  expect(answer.refusals.join(" ")).toContain(code)
+  expect(landed.length).toBe(0)
+})
+
 test("a slug that is no lower kebab case is refused", async () => {
   const landed: Landed[] = []
   const answer = await storyClone(

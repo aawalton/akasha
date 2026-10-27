@@ -37,6 +37,7 @@ import {
   masterOf,
   referrersOf,
   slugsRenamed,
+  storyBoundIn,
   TEST_WORLD,
 } from "akasha/command/pages/story/modules/cloning/story-cloning.module.code.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
@@ -198,6 +199,14 @@ export function planned(
   for (const path of files.filter((one) => copied(folder, one))) {
     const text = reach.textOf(root, path)
     if (text !== null) sources.push({ path, text })
+  }
+  const bound = storyBoundIn(sources, folder)
+  if (bound.length > 0) {
+    const named = bound.map((one) => `\`${one}\``).join(", ")
+    return {
+      refused: `${named} import pages of \`${held.from}\` itself, so a clone forwarding to that code would settle against \`${held.from}\` — read the pages the reading names instead`,
+      code: DATA,
+    }
   }
   const copies = copiesOf(sources, {
     folder,

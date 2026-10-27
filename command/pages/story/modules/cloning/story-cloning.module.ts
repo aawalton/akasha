@@ -26,7 +26,23 @@ export const storyCloning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That renaming reaches paths, values and code alike.",
+      statement: "That renaming reaches paths and the values of pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code file is copied as one line forwarding its exports to the source's code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "So no rule is spelled in two files, and a fix to the source reaches every clone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A test beside code is not copied, since the source's test proves that code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Code importing a page of its own story is found, since forwarding it is wrong.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,5 +71,5 @@ export const storyCloning = {
     },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-27T21:16:37.415Z",
+  updatedAt: "2026-10-27T21:38:10.117Z",
 } as const satisfies Module

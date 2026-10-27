@@ -22,6 +22,10 @@ export const storyClone = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A source whose code imports a page of that story is refused, naming the files.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What a clone copies is read from what the source has committed.",
     },
     {
@@ -44,5 +48,5 @@ export const storyClone = {
     { argument: "argument/clone-as", required: true },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-27T21:22:21.913Z",
+  updatedAt: "2026-10-27T21:38:10.117Z",
 } as const satisfies Command
