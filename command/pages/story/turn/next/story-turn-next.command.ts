@@ -30,10 +30,25 @@ export const storyTurnNext = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Asking lands nothing and sends no message.",
+      statement: "Asking lands nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A game master with nothing to restate hands every other step its ready beat again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "So a hand-out an advance failed to make is made the next time the game master asks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A beat handed twice costs nothing, since a seat takes up the beat this command hands it.",
     },
   ],
   name: "next",
   createdAt: "2026-10-27T20:47:29.242Z",
-  updatedAt: "2026-10-27T20:47:29.242Z",
+  updatedAt: "2026-10-27T23:54:42.258Z",
 } as const satisfies Command
