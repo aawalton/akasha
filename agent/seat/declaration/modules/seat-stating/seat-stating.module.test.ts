@@ -19,8 +19,8 @@ import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { akasha as akashaPersona } from "akasha/persona/pages/akasha/akasha.persona.ts"
 import { athena } from "akasha/persona/pages/athena/athena.persona.ts"
 import { persona } from "akasha/persona/persona.page-type.ts"
-import { theTower } from "akasha/story/world/pages/personas/stories/played/the-tower/the-tower.story-played.ts"
-import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
+import { climb } from "akasha/story/world/pages/climb/stories/written/climb/climb.story-written.ts"
+import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
@@ -191,13 +191,13 @@ test("a seat short of a domain is addressed as nothing", () => {
   expect(addressFor(short("domain"), NO_PAGE, ROOT, false)).toBeNull()
 })
 
-const THE_TOWER_GAME = `${storyPlayed.slug}/${theTower.slug}` as const
+const CLIMB_STORY = `${storyWritten.slug}/${climb.slug}` as const
 
-test("a game's slug is addressed under the story played page type", () => {
-  expect(assignmentAddressOf(theTower.slug, ROOT)).toBe(THE_TOWER_GAME)
-  expect(assignmentAddressOf(THE_TOWER_GAME, ROOT)).toBe(THE_TOWER_GAME)
-  expect(seatBody({ ...WHOLE, domain: theTower.slug }, "x", ROOT)).toContain(
-    `assignmentSlug: "${THE_TOWER_GAME}"`
+test("a story's slug is addressed under its kind of story", () => {
+  expect(assignmentAddressOf(climb.slug, ROOT)).toBe(CLIMB_STORY)
+  expect(assignmentAddressOf(CLIMB_STORY, ROOT)).toBe(CLIMB_STORY)
+  expect(seatBody({ ...WHOLE, domain: climb.slug }, "x", ROOT)).toContain(
+    `assignmentSlug: "${CLIMB_STORY}"`
   )
 })
 
