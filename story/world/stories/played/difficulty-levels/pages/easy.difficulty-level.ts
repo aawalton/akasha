@@ -5,7 +5,7 @@ export const easy = {
   type: "page-type/difficulty-level",
   slug: "easy",
   title: "Easy",
-  oddsModifier: 2,
+  oddsModifier: 10,
   failureCeiling:
     "A failure costs time, coin or a lead; a hurt heals with rest, and nothing is lost for good.",
   gameMasterStance: [
@@ -14,5 +14,5 @@ export const easy = {
     "Other characters give the player's character the benefit of the doubt.",
   ],
   createdAt: "2026-10-27T19:36:21.500Z",
-  updatedAt: "2026-10-27T19:36:21.500Z",
+  updatedAt: "2026-10-27T20:35:07.596Z",
 } as const satisfies DifficultyLevel

@@ -70,7 +70,7 @@ function rulesFor(root: string, placed: Placed): Rules {
       const thrown = thrownFrom(seed, dice)
       if ("refused" in thrown) return thrown
       const roll = rolledBy(thrown.answered.roll, placed.odds)
-      const moved = placed.odds === null ? {} : { difficulty: placed.odds }
+      const moved = placed.odds === null ? {} : { difficultyLevel: placed.odds }
       return { answered: { stated: { dice: thrown.answered.dice, seed, ...moved }, roll } }
     },
     settle: async (check, reading, roll) => await settledAt(root, codeOf(check), reading, roll),

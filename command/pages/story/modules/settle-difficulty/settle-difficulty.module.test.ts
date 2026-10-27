@@ -19,7 +19,7 @@ const HARD = { level: `${difficultyLevel.slug}/${hard.slug}`, by: hard.oddsModif
 
 test("a level moves the roll's total and leaves a natural twenty as rolled", () => {
   expect(rolledBy({ total: 20, crit: true, fumble: false }, HARD)).toEqual({
-    total: 18,
+    total: 20 + HARD.by,
     crit: true,
     fumble: false,
   })
@@ -38,13 +38,13 @@ test("a moved roll is handed to the check moved, and its line states the level",
   expect((roll.answered as { readonly total: number }).total).toBe(
     (faces[0] ?? 0) + (faces[1] ?? 0) + HARD.by
   )
-  expect(roll.difficulty).toEqual(HARD)
-  expect(answer.report).toContain(`difficulty\t${HARD.level}\t${HARD.by}`)
+  expect(roll.difficultyLevel).toEqual(HARD)
+  expect(answer.report).toContain(`difficultyLevel\t${HARD.level}\t${HARD.by}`)
 })
 
 test("a roll the level does not move states no level", async () => {
   const { appended } = await answeredBy(argvFor("answering"), reachOver([LATEST]))
-  expect(rollIn(appended[0] as Appended)).not.toHaveProperty("difficulty")
+  expect(rollIn(appended[0] as Appended)).not.toHaveProperty("difficultyLevel")
 })
 
 test("a story naming a level that is no page appends nothing", async () => {

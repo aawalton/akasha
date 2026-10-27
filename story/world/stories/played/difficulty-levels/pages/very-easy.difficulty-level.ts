@@ -5,7 +5,7 @@ export const veryEasy = {
   type: "page-type/difficulty-level",
   slug: "very-easy",
   title: "Very Easy",
-  oddsModifier: 4,
+  oddsModifier: 20,
   failureCeiling:
     "A failure is a setback, and the story moves on; nothing is lost and no hurt outlasts the scene.",
   gameMasterStance: [
@@ -14,5 +14,5 @@ export const veryEasy = {
     "Other characters are trusting and slow to see through the player's character.",
   ],
   createdAt: "2026-10-27T19:36:21.500Z",
-  updatedAt: "2026-10-27T19:36:21.500Z",
+  updatedAt: "2026-10-27T20:35:07.596Z",
 } as const satisfies DifficultyLevel

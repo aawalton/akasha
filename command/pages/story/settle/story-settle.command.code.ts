@@ -111,7 +111,7 @@ export type Roll = {
   readonly reading: Record<string, unknown>
   readonly dice?: Dice
   readonly seed?: string
-  readonly difficulty?: Odds
+  readonly difficultyLevel?: Odds
   readonly answered: unknown
 }
 
@@ -188,8 +188,9 @@ function rowsOf(made: Made, turn: string, commit: string | null): readonly strin
     rows.push(`dice${TAB}${roll.dice.said}${TAB}${roll.dice.faces.join(" ")}`)
   }
   if (roll.seed !== undefined) rows.push(`seed${TAB}${roll.seed}`)
-  if (roll.difficulty !== undefined) {
-    rows.push(`difficulty${TAB}${roll.difficulty.level}${TAB}${roll.difficulty.by}`)
+  if (roll.difficultyLevel !== undefined) {
+    const { level, by } = roll.difficultyLevel
+    rows.push(`difficultyLevel${TAB}${level}${TAB}${by}`)
   }
   if (isRecord(roll.answered)) {
     for (const [key, value] of Object.entries(roll.answered)) {
@@ -270,7 +271,7 @@ async function rollMade(
     check: `${worldCheck.slug}/${held.check}`,
     reading: held.reading,
     ...(thrown === null ? {} : { dice: thrown.dice, seed: thrown.seed }),
-    ...(thrown === null || placed.odds === null ? {} : { difficulty: placed.odds }),
+    ...(thrown === null || placed.odds === null ? {} : { difficultyLevel: placed.odds }),
     answered: said.answered.answered,
   }
   const before = settledBefore(keptAt(placed.at), roll)

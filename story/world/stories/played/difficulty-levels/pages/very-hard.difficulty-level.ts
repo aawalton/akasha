@@ -5,7 +5,7 @@ export const veryHard = {
   type: "page-type/difficulty-level",
   slug: "very-hard",
   title: "Very Hard",
-  oddsModifier: -4,
+  oddsModifier: -20,
   failureCeiling:
     "A failure can leave a lasting injury, lose an item for good, or kill the player's character.",
   gameMasterStance: [
@@ -14,5 +14,5 @@ export const veryHard = {
     "Other characters see through a bluff and act on what they learn.",
   ],
   createdAt: "2026-10-27T19:36:21.500Z",
-  updatedAt: "2026-10-27T19:36:21.500Z",
+  updatedAt: "2026-10-27T20:35:07.596Z",
 } as const satisfies DifficultyLevel

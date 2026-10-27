@@ -5,7 +5,7 @@ export const hard = {
   type: "page-type/difficulty-level",
   slug: "hard",
   title: "Hard",
-  oddsModifier: -2,
+  oddsModifier: -10,
   failureCeiling:
     "A failure can leave an injury that lasts or lose an item for good; the player's character does not die.",
   gameMasterStance: [
@@ -14,5 +14,5 @@ export const hard = {
     "Other characters guard their interests and remember a slight.",
   ],
   createdAt: "2026-10-27T19:36:21.500Z",
-  updatedAt: "2026-10-27T19:36:21.500Z",
+  updatedAt: "2026-10-27T20:35:07.596Z",
 } as const satisfies DifficultyLevel
