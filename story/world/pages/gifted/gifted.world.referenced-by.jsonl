@@ -7,6 +7,7 @@
 {"propertySlug":"world","path":"story/world/pages/gifted/characters/gifted-cornelius-hawthorn.world-character.ts","id":"01a17edc-e1bb-78f7-a19b-12d8845508f4"}
 {"propertySlug":"world","path":"story/world/pages/gifted/characters/gifted-falkon.world-character.ts","id":"01a17edc-e1bb-7ff1-bdeb-2bfda7431e99"}
 {"propertySlug":"world","path":"story/world/pages/gifted/characters/gifted-halkur.world-character.ts","id":"01a17edc-e1bb-722e-bbbe-b0eb92050728"}
+{"propertySlug":"world","path":"story/world/pages/gifted/characters/gifted-lesser-demon-prince.world-character.ts","id":"01a17f55-efd0-7f30-9054-68a0f4a3faad"}
 {"propertySlug":"world","path":"story/world/pages/gifted/characters/gifted-melody.world-character.ts","id":"01a17edc-e1bb-7472-8588-c2e92895718c"}
 {"propertySlug":"world","path":"story/world/pages/gifted/characters/gifted-penelope-hawthorn.world-character.ts","id":"01a17edc-e1bb-7bec-8f40-b9fe0672bd11"}
 {"propertySlug":"world","path":"story/world/pages/gifted/lore/gifted-adventurers.lore.ts","id":"01a17eda-ae7d-7221-b602-91220a9ecea2"}
@@ -15,6 +16,7 @@
 {"propertySlug":"world","path":"story/world/pages/gifted/lore/gifted-customs.lore.ts","id":"01a17eda-ae7e-704a-9617-a679f5951d9a"}
 {"propertySlug":"world","path":"story/world/pages/gifted/lore/gifted-falkon.lore.ts","id":"01a17edc-e1bc-7556-b38e-1ea905b74441"}
 {"propertySlug":"world","path":"story/world/pages/gifted/lore/gifted-halkur.lore.ts","id":"01a17edc-e1bc-7133-9c35-d605f69af199"}
+{"propertySlug":"world","path":"story/world/pages/gifted/lore/gifted-lesser-demon-prince.lore.ts","id":"01a17f55-efd1-7b0f-849a-e4138b0e556a"}
 {"propertySlug":"world","path":"story/world/pages/gifted/lore/gifted-melody.lore.ts","id":"01a17edc-e1bc-77a1-b674-f8336cb6f621"}
 {"propertySlug":"world","path":"story/world/pages/gifted/lore/gifted-myriad-paths.lore.ts","id":"01a17eda-ae7e-788c-bf6e-30fe3c909357"}
 {"propertySlug":"world","path":"story/world/pages/gifted/lore/gifted-penelope-hawthorn.lore.ts","id":"01a17edc-e1bd-7f87-b347-639e31f0c9f5"}
@@ -34,6 +36,7 @@
 {"propertySlug":"world","path":"story/world/pages/gifted/mechanics/titles/gifted-consume-another-soul.world-title.ts","id":"01a17edd-ccb4-744a-94fa-df7f639bc646"}
 {"propertySlug":"world","path":"story/world/pages/gifted/mechanics/titles/gifted-defeat-a-lesser-demon-prince-while-unborn.world-title.ts","id":"01a17edd-ccb4-7447-b9b4-a0068b04ff96"}
 {"propertySlug":"world","path":"story/world/pages/gifted/mechanics/titles/gifted-survive-a-fatal-blow.world-title.ts","id":"01a17edd-ccb4-7257-8312-226bb1e7dbb7"}
+{"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-cult-birthing-room.place.ts","id":"01a17f55-efd1-767a-85ff-48973163874c"}
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-cult-hideout.place.ts","id":"01a17edb-c5d8-7cfe-a394-3a5501944e0b"}
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-horndale-mountains.place.ts","id":"01a17edb-c5d9-749c-b98f-ff98b776bf1d"}
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-horndale-outpost.place.ts","id":"01a17edb-c5d9-7c7d-a774-c69d34680426"}
@@ -44,6 +47,7 @@
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-outpost-office.place.ts","id":"01a17edb-c5da-7a10-acbd-78842a45efbc"}
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-outpost-stable.place.ts","id":"01a17edb-c5da-72c7-b670-e243ac551c1b"}
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-outpost-yard.place.ts","id":"01a17edb-c5db-7968-8fc6-f2e34d215c56"}
+{"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-womb.place.ts","id":"01a17f55-efd1-7551-9e74-470700fb8660"}
 {"propertySlug":"world","path":"story/world/pages/gifted/stories/played/gifted-reborn/characters/gifted-reborn-nala.character-player.ts","id":"01a17edf-d61e-7bf0-988c-dabc6d7162ff"}
 {"propertySlug":"world","path":"story/world/pages/gifted/stories/played/gifted-reborn/gifted-reborn.story-played.ts","id":"01a17edf-d61e-70e1-90ec-fc5f0aacf6e3"}
 {"propertySlug":"world","path":"story/world/pages/gifted/stories/played/gifted-reborn/items/gifted-reborn-nala-linen-bandage.story-item.ts","id":"01a17ee2-05fa-7367-a086-c559b9ed630f"}
