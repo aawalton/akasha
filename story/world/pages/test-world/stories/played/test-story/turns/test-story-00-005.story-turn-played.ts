@@ -12,7 +12,7 @@ export const testStory00005 = {
   stepStatus: "step-status/reviewers",
   action: "I use Healing Draught",
   beats: "jsonl",
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/continuity"],
   recordedBy: [
     "story-recorder/inventory",
     "story-recorder/plan",
@@ -22,6 +22,6 @@ export const testStory00005 = {
   ],
   endsAt: "2026-10-27T08:37:00.000Z",
   createdAt: "2026-10-27T19:47:39.549Z",
-  updatedAt: "2026-10-27T20:08:20.160Z",
+  updatedAt: "2026-10-27T20:09:09.114Z",
   ownLength: 58,
 } as const satisfies StoryTurnPlayed
