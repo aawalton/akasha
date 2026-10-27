@@ -198,11 +198,30 @@ async function followedIn(game: string, calls: Calls): Promise<Followed> {
   return { latest: after, page: { pageTypeSlug: storyChapterPlayed.slug, slug: chapter } }
 }
 
-export function turnAfter(latest: Latest | null, action: string): Made {
-  if (action.trim() === "") return { refused: "An action says what you do, and this says nothing." }
-  if (action.length > LONGEST_ACTION) {
-    return { refused: `An action is at most ${LONGEST_ACTION} characters.` }
+function actionRefused(action: string): string | null {
+  if (action.trim() === "") return "An action says what you do, and this says nothing."
+  if (action.length > LONGEST_ACTION) return `An action is at most ${LONGEST_ACTION} characters.`
+  return null
+}
+
+export function firstTurnOf(game: string, unit: string | null, action: string): Made {
+  const refused = actionRefused(action)
+  if (refused !== null) return { refused }
+  return {
+    slug: `${game}${OPENING}`,
+    values: {
+      [COLLECTIONS]: [storyOf(game)],
+      [POSITION]: FIRST,
+      ...(unit === null ? {} : { [UNIT]: unit }),
+      [STATUS]: statusOf(WORLD_BUILDER),
+      [ACTION]: action,
+    },
   }
+}
+
+export function turnAfter(latest: Latest | null, action: string): Made {
+  const unsaid = actionRefused(action)
+  if (unsaid !== null) return { refused: unsaid }
   if (latest?.behind === true) {
     const joined = `${latest.action ?? ""}${JOINED}${action}`.trim()
     if (joined.length > LONGEST_ACTION) {
@@ -262,6 +281,7 @@ export async function turnMadeFor(
   const followed = await followedIn(game, calls)
   if ("unread" in followed) return { kind: "unread", why: followed.unread }
   const { latest, page } = followed
+  if (latest === null) return await firstTurnMadeFor(game, action, calls)
   const made = turnAfter(latest, action)
   if ("refused" in made || latest === null || page === null) {
     return { kind: "refused", said: "refused" in made ? made.refused : "" }
@@ -303,6 +323,33 @@ function openingAt(story: string, slug: string): string {
 
 function refusal(said: string): TurnMade {
   return { kind: "refused", said }
+}
+
+async function firstTurnMadeFor(game: string, action: string, calls: Calls): Promise<TurnMade> {
+  const stories = await calls.ask({
+    pageTypeSlug: storyPlayed.slug,
+    where: { [SLUG]: { is: game } },
+    keys: [SLUG, ROLEPLAYED, UNIT],
+  })
+  if ("refused" in stories) return { kind: "unread", why: stories.refused }
+  const story = stories.rows[0]
+  if (story === undefined) return refusal(`\`${game}\` is no played story here.`)
+  if (story[ROLEPLAYED] === true) return refusal(makingRefused(null) ?? "")
+  const made = firstTurnOf(game, textIn(story[UNIT]), action)
+  if ("refused" in made) return refusal(made.refused)
+  const read = await calls.read({ pages: [{ pageTypeSlug: storyPlayed.slug, slug: game }] })
+  if ("refused" in read) return { kind: "unread", why: read.refused }
+  const held = read.bodies[0]
+  if (held === undefined) return { kind: "unread", why: `\`${game}\` was read nowhere` }
+  const at = openingAt(held.path, made.slug)
+  const page = { pageTypeSlug: storyTurnPlayed.slug, slug: made.slug, path: at, fresh: true }
+  const wrote = await calls.write({
+    writer: MAKER,
+    message: `${made.slug} is made from the player's action, as ${game}'s first turn`,
+    pages: [{ ...page, values: made.values }],
+  })
+  if ("refused" in wrote) return { kind: "unread", why: wrote.refused }
+  return { kind: "made", slug: made.slug, at, roleplayed: false }
 }
 
 export async function openingMadeFor(

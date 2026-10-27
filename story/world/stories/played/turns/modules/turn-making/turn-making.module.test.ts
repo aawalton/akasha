@@ -314,6 +314,49 @@ test("a story nowhere is not opened", async () => {
   expect(wrote).toEqual([])
 })
 
+const PLAYED_STORY = { slug: GAME, unit: WORDS }
+
+test("an action in a story with no turn and no chapter makes its first turn", async () => {
+  const wrote: Writing[] = []
+  const made = await turnMadeFor(GAME, "I open the gate", callsUnopened(PLAYED_STORY, [], wrote))
+  const at = `stories/the-saga/turns/the-saga-00-001.${storyTurnPlayed.slug}.ts`
+  expect(made).toEqual({ kind: "made", slug: "the-saga-00-001", at, roleplayed: false })
+  expect(wrote[0]?.pages).toEqual([
+    {
+      pageTypeSlug: storyTurnPlayed.slug,
+      slug: "the-saga-00-001",
+      path: at,
+      fresh: true,
+      values: {
+        partOfCollections: [`${storyPlayed.slug}/${GAME}`],
+        position: 1,
+        unit: WORDS,
+        stepStatus: `${stepStatus.slug}/${worldBuilder.slug}`,
+        action: "I open the gate",
+      },
+    },
+  ])
+})
+
+test("a first turn is told to its seats as any turn is, rather than waiting", async () => {
+  const made = await turnMadeFor(GAME, "I open the gate", callsUnopened(PLAYED_STORY, [], []))
+  expect("waits" in made).toBe(false)
+})
+
+test("a roleplayed story with no turn takes no action until it is opened", async () => {
+  const wrote: Writing[] = []
+  const calls = callsUnopened(ROLEPLAYED_STORY, [], wrote)
+  expect(await turnMadeFor(GAME, "I open the gate", calls)).toMatchObject({ kind: "refused" })
+  expect(wrote).toEqual([])
+})
+
+test("a first turn saying nothing is refused, and nothing is written", async () => {
+  const wrote: Writing[] = []
+  const made = await turnMadeFor(GAME, "  ", callsUnopened(PLAYED_STORY, [], wrote))
+  expect(made).toMatchObject({ kind: "refused" })
+  expect(wrote).toEqual([])
+})
+
 test("a turn's page sits in the folder of the turn before it", () => {
   expect(besideTurn("a/b/turns/x-00-001.story-turn-played.ts", "x-00-002")).toBe(
     "a/b/turns/x-00-002.story-turn-played.ts"

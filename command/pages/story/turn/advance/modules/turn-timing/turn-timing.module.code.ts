@@ -28,7 +28,7 @@ const ENDS_AT = exportedAs(turnEndsAt.propertySlug)
 
 const SETTLE = "akasha story settle"
 
-const READING = `'{"from":"<when the turn before ended>","minutes":<the minutes the beats take>}'`
+const READING = `'{"from":"<when the turn before ended, or the story's opensAt for its first turn>","minutes":<the minutes the beats take>}'`
 
 const PARTED = "/"
 

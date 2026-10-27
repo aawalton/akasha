@@ -44,6 +44,18 @@ export const turnMaking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A story with no turn and no chapter makes its first turn from the action.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A first turn takes the opening's slug and place, holding the player's action.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A first turn is told to its seats and runs every step as any turn does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A turn made in a roleplayed story is roleplayed, and every reviewer has passed it.",
     },
@@ -73,5 +85,5 @@ export const turnMaking = {
     },
   ],
   createdAt: "2026-09-26T17:39:09.550Z",
-  updatedAt: "2026-10-27T20:59:58.311Z",
+  updatedAt: "2026-10-27T21:43:59.912Z",
 } as const satisfies Module
