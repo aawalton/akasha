@@ -9,11 +9,6 @@ export const awenStoryRemoval = {
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
     {
-      statement: "No played story remains under `story/world/pages/`.",
-      workingMemory:
-        "Alan chose to remove all 20 played stories and the thornford, blue-boxes and personas worlds, written stories in them included. The personas world holds anthology, come-here, the-violet-hour, date-night-free-play and date-night-the-reading-room. Story-only panels such as tower-hud and the otherwhere-the-library ones may be left with no story.\n",
-    },
-    {
       statement:
         "The thornford, blue-boxes and personas worlds are gone, with every story in them.",
     },
@@ -21,5 +16,5 @@ export const awenStoryRemoval = {
   ],
   constraints: ["Every other world stays, with its lore and its read and written stories."],
   createdAt: "2026-10-27T19:02:08.001Z",
-  updatedAt: "2026-10-27T19:02:08.001Z",
+  updatedAt: "2026-10-27T20:09:03.800Z",
 } as const satisfies Initiative
