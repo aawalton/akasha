@@ -10,8 +10,8 @@ export const testStory00005 = {
   stepStatus: "step-status/mechanics",
   action: "I use Healing Draught",
   beats: "jsonl",
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/plan"],
   endsAt: "2026-10-27T08:37:00.000Z",
   createdAt: "2026-10-27T19:47:39.549Z",
-  updatedAt: "2026-10-27T19:54:41.840Z",
+  updatedAt: "2026-10-27T19:55:28.449Z",
 } as const satisfies StoryTurnPlayed
