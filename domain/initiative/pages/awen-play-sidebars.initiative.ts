@@ -17,11 +17,8 @@ export const awenPlaySidebars = {
       statement: "A played story's top bar has a button for each of those places that has a panel.",
     },
     { statement: "A button stays highlighted while the place it opens is open." },
-    {
-      statement: "Character and journal open in a left sidebar, and map and chat in a right one.",
-    },
   ],
   constraints: ["Nothing inside a panel changes but the place that panel is drawn in."],
   createdAt: "2026-10-27T18:26:40.142Z",
-  updatedAt: "2026-10-27T18:51:11.763Z",
+  updatedAt: "2026-10-27T18:51:12.989Z",
 } as const satisfies Initiative
