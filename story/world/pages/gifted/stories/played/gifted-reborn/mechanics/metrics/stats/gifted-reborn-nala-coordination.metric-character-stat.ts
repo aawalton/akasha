@@ -7,7 +7,8 @@ export const giftedRebornNalaCoordination = {
   character: "character-player/gifted-reborn-nala",
   value: 100,
   minValue: 0,
+  unrevealed: true,
   displayOrder: 3,
   createdAt: "2026-10-27T19:40:48.360Z",
-  updatedAt: "2026-10-27T19:40:48.360Z",
+  updatedAt: "2026-10-27T21:49:15.827Z",
 } as const satisfies MetricCharacterStat

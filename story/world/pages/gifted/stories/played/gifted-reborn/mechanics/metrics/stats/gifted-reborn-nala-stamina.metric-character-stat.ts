@@ -5,9 +5,10 @@ export const giftedRebornNalaStamina = {
   type: "page-type/metric-character-stat",
   slug: "gifted-reborn-nala-stamina",
   character: "character-player/gifted-reborn-nala",
-  value: 107,
+  value: 100,
   minValue: 0,
+  unrevealed: true,
   displayOrder: 2,
   createdAt: "2026-10-27T19:40:48.360Z",
-  updatedAt: "2026-10-27T19:40:48.360Z",
+  updatedAt: "2026-10-27T21:49:15.827Z",
 } as const satisfies MetricCharacterStat
