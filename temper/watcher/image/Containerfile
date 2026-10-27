@@ -9,8 +9,8 @@ COPY temper/watcher/watcher-tray/watcher-tray.rust-crate.crate-icon.json ./carri
 RUN mkdir -p /out && bun -e 'const { carriedIn } = await import("./carried-file.ts"); const one = carriedIn(await Bun.file("carrier.json").text(), "watcher-tray.rust-crate.crate-icon.json"); await Bun.write("/out/" + one.name, one.bytes)'
 
 FROM rust:1.95-alpine3.23 AS rust-builder
-ARG COMMIT_SHA
-ENV COMMIT_SHA=${COMMIT_SHA}
+ARG SOURCE_HASH
+ENV COMMIT_SHA=${SOURCE_HASH}
 RUN apk add --no-cache mingw-w64-gcc musl-dev
 RUN rustup target add x86_64-pc-windows-gnu
 WORKDIR /build
@@ -34,8 +34,8 @@ RUN mkdir -p .cargo && \
 RUN cargo build --target=x86_64-pc-windows-gnu --release
 
 FROM oven/bun:1.4.4-alpine AS worker-builder
-ARG COMMIT_SHA
-ENV COMMIT_SHA=${COMMIT_SHA}
+ARG SOURCE_HASH
+ENV COMMIT_SHA=${SOURCE_HASH}
 WORKDIR /workspace
 COPY . .
 RUN bun install --frozen-lockfile

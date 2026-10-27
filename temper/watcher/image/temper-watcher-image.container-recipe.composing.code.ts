@@ -106,8 +106,8 @@ function iconStage(carrier: string, icon: string): readonly string[] {
 function rustStage(folder: string, copies: readonly Copied[]): readonly string[] {
   return [
     "FROM rust:1.95-alpine3.23 AS rust-builder",
-    "ARG COMMIT_SHA",
-    "ENV COMMIT_SHA=${COMMIT_SHA}",
+    "ARG SOURCE_HASH",
+    "ENV COMMIT_SHA=${SOURCE_HASH}",
     "RUN apk add --no-cache mingw-w64-gcc musl-dev",
     "RUN rustup target add x86_64-pc-windows-gnu",
     "WORKDIR /build",
@@ -129,8 +129,8 @@ function rustStage(folder: string, copies: readonly Copied[]): readonly string[]
 function workerStage(worker: string): readonly string[] {
   return [
     "FROM oven/bun:1.4.4-alpine AS worker-builder",
-    "ARG COMMIT_SHA",
-    "ENV COMMIT_SHA=${COMMIT_SHA}",
+    "ARG SOURCE_HASH",
+    "ENV COMMIT_SHA=${SOURCE_HASH}",
     "WORKDIR /workspace",
     "COPY . .",
     "RUN bun install --frozen-lockfile",
