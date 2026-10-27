@@ -213,7 +213,8 @@ local function spanned(control, width, height)
   end
   placing, worked = outerPlacing, outerWorked
   if left == nil then return width, height end
-  return math.max(width, right - left), math.max(height, bottom - top)
+  local across, down = control:GetResizeToFitPadding()
+  return math.max(width, right - left + across), math.max(height, bottom - top + down)
 end
 
 local function fitted(tip)

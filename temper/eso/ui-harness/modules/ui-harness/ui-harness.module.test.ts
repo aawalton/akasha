@@ -236,6 +236,20 @@ describe("ui-harness", () => {
     expect(second?.top).toBe(300)
   })
 
+  test("a control growing to fit adds its padding to what its children span", async () => {
+    await harness.load(`
+      local padded = WINDOW_MANAGER:CreateTopLevelWindow("TemperPadded")
+      padded:SetResizeToFitDescendents(true)
+      padded:SetResizeToFitPadding(20, 10)
+      local inner = WINDOW_MANAGER:CreateControl("TemperPaddedInner", padded, CT_CONTROL)
+      inner:SetDimensions(100, 40)
+      inner:SetAnchor(TOPLEFT, padded, TOPLEFT, 10, 5)
+    `)
+    const padded = await harness.snapshot("TemperPadded")
+    expect(padded?.width).toBe(120)
+    expect(padded?.height).toBe(50)
+  })
+
   test("a control named nothing is answered with nothing", async () => {
     expect(await harness.snapshot("NoSuchControl")).toBeNull()
   })

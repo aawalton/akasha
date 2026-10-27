@@ -146,6 +146,10 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A control growing to fit adds its padding to the span its shown children make.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A control with two anchors takes the width and the height those anchors leave it.",
     },
@@ -217,5 +221,5 @@ export const uiPlaceModel = {
     },
   ],
   createdAt: "2026-09-22T16:27:03.745Z",
-  updatedAt: "2026-10-18T23:39:39.149Z",
+  updatedAt: "2026-10-27T19:08:33.255Z",
 } as const satisfies LuaModule
