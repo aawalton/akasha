@@ -36,6 +36,11 @@ import {
   reportThrown,
   titlesOf,
 } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
+import {
+  type Point,
+  pointsOf,
+  unpointed,
+} from "akasha/story/world/stories/played/modules/played-points/played-points.module.code.ts"
 import { poolsIn } from "akasha/story/world/stories/played/modules/played-pools/played-pools.module.code.ts"
 import { readPurses } from "akasha/story/world/stories/played/modules/played-purses/played-purses.module.code.ts"
 import {
@@ -102,6 +107,7 @@ export type Filed = {
   readonly attributes: Readonly<Record<string, number>>
   readonly resources?: Readonly<Record<string, string | number>>
   readonly experience?: readonly Experience[]
+  readonly points?: readonly Point[]
   readonly purse?: Readonly<Record<string, string | number>>
   readonly ledgers?: Readonly<Record<string, readonly LedgerLine[]>>
   readonly skills: readonly Skill[]
@@ -192,6 +198,7 @@ async function readFiled(
   overlay: BeatOverlay = NO_OVERLAY
 ): Promise<Filed> {
   const { purse, ledgers } = await readPurses(character, turn, overlay)
+  const pointed = await pointsOf(character, overlay)
   const [resources, scores, holdings, quests, bonds, attunements, traits, had] = await Promise.all([
     askedLoudly({
       "page-type": metricCharacterResource.slug,
@@ -316,7 +323,7 @@ async function readFiled(
   const resourceRows = overlaidRows(rowsOf(resources), metricCharacterResource.slug, overlay)
   const pools = poolsIn(resourceRows, turn)
   const scored = scoresIn(overlaidRows(rowsOf(scores), metricCharacterAttribute.slug, overlay))
-  const held = resourcesIn(resourceRows)
+  const held = resourcesIn(unpointed(resourceRows, pointed))
   const earned = experienceIn(resourceRows)
   return {
     pools: pools.pools,
@@ -325,6 +332,7 @@ async function readFiled(
     attributes: scored.attributes,
     ...(Object.keys(held).length === 0 ? {} : { resources: held }),
     ...(earned.length === 0 ? {} : { experience: earned }),
+    ...(pointed.points.length === 0 ? {} : { points: pointed.points }),
     ...(Object.keys(purse).length === 0 ? {} : { purse }),
     ...(Object.keys(ledgers).length === 0 ? {} : { ledgers }),
     skills: skillsIn(skillRows, titles, descriptions),
@@ -373,6 +381,7 @@ function sheetOf(filed: Filed): RevealedSheet {
     ...(Object.keys(filed.attributes).length === 0 ? {} : { attributes: { ...filed.attributes } }),
     ...(filed.resources === undefined ? {} : { resources: { ...filed.resources } }),
     ...(filed.experience === undefined ? {} : { experience: [...filed.experience] }),
+    ...(filed.points === undefined ? {} : { points: [...filed.points] }),
     ...(filed.purse === undefined ? {} : { purse: { ...filed.purse } }),
     ...(filed.ledgers === undefined ? {} : { ledgers: ledgersOf(filed.ledgers) }),
     ...(filed.skills.length === 0 ? {} : { skills: [...filed.skills] }),

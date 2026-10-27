@@ -64,6 +64,8 @@ const ClientExperienceSchema = z.object({
   words: z.string().optional(),
 })
 
+const ClientPointSchema = z.object({ label: z.string(), value: z.number() })
+
 const ClientLedgerLineSchema = z.object({
   turn: z.number(),
   change: z.string(),
@@ -81,6 +83,7 @@ export const ClientSheetSchema = z.object({
   attributes: z.record(z.string(), z.union([z.number(), z.string()])).optional(),
   resources: z.record(z.string(), z.union([z.number(), z.string()])).optional(),
   experience: z.array(ClientExperienceSchema).optional(),
+  points: z.array(ClientPointSchema).optional(),
   purse: z.record(z.string(), z.union([z.number(), z.string()])).optional(),
   ledgers: z.record(z.string(), z.array(ClientLedgerLineSchema)).optional(),
   skills: z.array(ClientSkillSchema).optional(),
@@ -206,6 +209,11 @@ function toClientExperience(raw: unknown): z.infer<typeof ClientExperienceSchema
   return parsed.success ? parsed.data : null
 }
 
+function toClientPoint(raw: unknown): z.infer<typeof ClientPointSchema> | null {
+  const parsed = ClientPointSchema.safeParse(raw)
+  return parsed.success ? parsed.data : null
+}
+
 function toClientEquipment(value: unknown): Record<string, ClientItem> | undefined {
   const rec = asRecord(value)
   if (rec === null) return undefined
@@ -230,6 +238,7 @@ function toClientSheet(revealed: unknown): ClientSheet | null {
     attributes: scalarRecord(rec["attributes"]),
     resources: scalarRecord(rec["resources"]),
     experience: projectedArray(rec["experience"], toClientExperience),
+    points: projectedArray(rec["points"], toClientPoint),
     purse: scalarRecord(rec["purse"]),
     ledgers: ledgerRecord(rec["ledgers"]),
     skills: projectedArray(rec["skills"], toClientSkill),

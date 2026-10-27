@@ -42,6 +42,10 @@ export const playedStateBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The character's points left to spend are on the sheet apart from its resources.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The character's purses are read with the currencies they name, apart from its resources.",
     },
@@ -74,5 +78,5 @@ export const playedStateBeside = {
     },
   ],
   createdAt: "2026-09-26T15:18:51.476Z",
-  updatedAt: "2026-10-03T20:11:47.000Z",
+  updatedAt: "2026-10-27T18:57:49.256Z",
 } as const satisfies Module

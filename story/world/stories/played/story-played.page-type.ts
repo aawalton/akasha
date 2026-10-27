@@ -32,6 +32,7 @@ export const storyPlayed = {
     "module/player-beside",
     "module/played-channel",
     "module/played-panels",
+    "module/played-points",
     "module/played-pools",
     "module/played-purses",
     "module/played-rows",
@@ -140,5 +141,5 @@ export const storyPlayed = {
     { pageProperty: "boolean-property/roleplayed", required: false, many: false },
   ],
   createdAt: "2026-09-02T22:01:28.988Z",
-  updatedAt: "2026-10-27T18:54:57.088Z",
+  updatedAt: "2026-10-27T18:57:49.256Z",
 } as const satisfies PageType

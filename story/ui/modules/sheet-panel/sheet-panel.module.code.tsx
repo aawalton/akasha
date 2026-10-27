@@ -224,6 +224,17 @@ function StatsTab({
           <ScalarRows record={profile} single />
         </Section>
       ) : null}
+      {(sheet.points ?? []).length > 0 ? (
+        <Section title="Level Up Choices Available">
+          <Rows>
+            {(sheet.points ?? []).map((one) => (
+              <div key={one.label} className="font-mono text-[12.5px] text-accent">
+                {one.value} {one.label} Available
+              </div>
+            ))}
+          </Rows>
+        </Section>
+      ) : null}
       {resources !== undefined ? (
         <Section title="Resources">
           <ScalarRows record={resources} single />

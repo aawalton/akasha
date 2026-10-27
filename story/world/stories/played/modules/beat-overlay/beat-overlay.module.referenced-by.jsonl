@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"beat-overlay.module.code.ts","path":"story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-overlay.module.code.ts","path":"story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-overlay.module.code.ts","path":"story/world/stories/played/modules/beat-overlay/beat-overlay.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-overlay.module.code.ts","path":"story/world/stories/played/modules/played-points/played-points.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-overlay.module.code.ts","path":"story/world/stories/played/modules/played-purses/played-purses.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-overlay.module.code.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-overlay.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
