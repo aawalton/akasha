@@ -40,6 +40,7 @@ export const worldBuilder = {
         "Lore states no figure a check works out, such as harm; that figure is the check's alone.",
         "Advance with `akasha story turn advance`, one `--lore` for each page.",
         "Name a written chapter with `--chapter` in place of `--turn`.",
+        "For an action passing time in sessions, state `interruptsAt` at the world's first break-in, not why.",
       ],
     },
     {
@@ -95,5 +96,5 @@ export const worldBuilder = {
     },
   ],
   createdAt: "2026-09-24T17:35:31.527Z",
-  updatedAt: "2026-10-27T19:05:06.272Z",
+  updatedAt: "2026-10-27T20:35:15.107Z",
 } as const satisfies Role
