@@ -109,6 +109,8 @@ export const gameMaster = {
         "Hand the beats in as a file, one beat per line, with `--beats-file`.",
         "Name a written chapter with `--chapter` in place of `--turn`.",
         "Where your beats state no time and your story has a time-passing check, settle it first.",
+        "Once an advance lands, take each beat `akasha story turn next` hands you, until it hands none.",
+        "Restate a beat the numbers seat refused from that beat on, with `--beat <n>`, and no beat before it.",
       ],
     },
     {
@@ -310,5 +312,5 @@ export const gameMaster = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-27T22:30:11.220Z",
+  updatedAt: "2026-10-27T22:37:42.270Z",
 } as const satisfies Role
