@@ -10,7 +10,6 @@ export const testStoryPlayerShopLantern = {
   title: "Lantern",
   story: "story-played/test-story",
   character: "character-player/test-story-player",
-  slot: "item-slot/off-hand",
   createdAt: "2026-10-27T20:26:11.727Z",
-  updatedAt: "2026-10-27T20:53:20.074Z",
+  updatedAt: "2026-10-27T21:01:40.186Z",
 } as const satisfies StoryItem

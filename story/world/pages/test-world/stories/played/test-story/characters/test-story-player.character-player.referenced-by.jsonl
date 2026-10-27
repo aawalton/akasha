@@ -3,6 +3,7 @@
 {"propertySlug":"characters","path":"story/world/pages/test-world/stories/played/test-story/turns/test-story-00-005.story-turn-played.ts","id":"01a17ee7-719d-72eb-b6c5-a73eb1ad559f"}
 {"propertySlug":"characters","path":"story/world/pages/test-world/stories/played/test-story/turns/test-story-00-006.story-turn-played.ts","id":"01a17f05-8de4-781f-baeb-9fc85bb26086"}
 {"propertySlug":"characters","path":"story/world/pages/test-world/stories/played/test-story/turns/test-story-00-007.story-turn-played.ts","id":"01a17f20-ca27-7a85-b6d3-61cf7494d3ac"}
+{"propertySlug":"characters","path":"story/world/pages/test-world/stories/played/test-story/turns/test-story-00-008.story-turn-played.ts","id":"01a17f27-d626-757d-b021-556086161452"}
 {"propertySlug":"import","fileName":"test-story-player.character-player.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-story-player.character-player.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-story-player.character-player.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.settling.test.ts","typed":false,"deferred":false}

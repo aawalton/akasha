@@ -7,11 +7,14 @@ export const testStory00008 = {
   unit: "unit/words",
   partOfCollections: ["story-played/test-story"],
   position: 8,
+  prose: "txt",
+  characters: ["character-player/test-story-player"],
   stepStatus: "step-status/beats",
   action:
     "I draw my sword and try to slice the lantern's taper in half in one stroke without putting out its flame.",
   beats: "jsonl",
   endsAt: "2026-10-27T08:44:00.000Z",
   createdAt: "2026-10-27T20:57:59.590Z",
-  updatedAt: "2026-10-27T20:59:57.986Z",
+  updatedAt: "2026-10-27T21:01:40.186Z",
+  ownLength: 18,
 } as const satisfies StoryTurnPlayed
