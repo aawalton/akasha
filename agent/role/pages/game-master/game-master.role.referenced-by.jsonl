@@ -2,8 +2,8 @@
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"command/pages/seat/messaged/seat-messaged.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"game-master.role.ts","path":"command/pages/story/turn/advance/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"game-master.role.ts","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts","typed":false,"deferred":false}

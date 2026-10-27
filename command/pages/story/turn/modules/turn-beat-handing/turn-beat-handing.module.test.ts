@@ -2,7 +2,8 @@ import { expect, test } from "bun:test"
 import {
   beatPrompt,
   flowingIn,
-} from "akasha/command/pages/story/turn/advance/modules/turn-beat-handing/turn-beat-handing.module.code.ts"
+  seatPartOf,
+} from "akasha/command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts"
 import { beatsOf } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts"
 import {
   statusOf,
@@ -63,6 +64,19 @@ test("a refused beat is handed to the game master with its issues, to state agai
   expect(said).toContain("saga-00-004.story-turn-played.beats.jsonl")
   expect(said).toContain("--beat 2 --beats-file <path>")
   expect(beatPrompt("changes", ASKED)).toContain("--issues-file")
+})
+
+test("a seat's step is read off its role, and a story recorder's off its flex number", () => {
+  const slugs = RECORDERS.map((one) => one.slug)
+  const seat = (name: string, role: string) => ({ name, role, game: "saga" })
+  expect(seatPartOf(seat("iris-writer-saga", "writer"), "iris", slugs)).toBe("prose")
+  expect(seatPartOf(seat("iris-game-master-saga", "game-master"), "iris", slugs)).toBe("event")
+  const numbers = seat("iris-story-recorder-saga-flex-2", "story-recorder")
+  expect(seatPartOf(numbers, "iris", slugs)).toBe("changes")
+  const pictures = seat("iris-story-recorder-saga-flex-4", "story-recorder")
+  expect(seatPartOf(pictures, "iris", slugs)).toBe("pictured")
+  const plans = seat("iris-story-recorder-saga-flex-5", "story-recorder")
+  expect(seatPartOf(plans, "iris", slugs)).toBeNull()
 })
 
 test("the turns flowing are those at beats and the turn handed in, in turn order", () => {

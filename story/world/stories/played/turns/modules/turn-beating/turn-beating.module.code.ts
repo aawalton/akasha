@@ -253,10 +253,7 @@ function fromBeat(
 ): Advanced {
   const flow = held.flow
   if (flow === undefined) return { refused: `the turn at ${BEATS} has no beats file to read` }
-  const mastering = caller.role === gameMasterRole.slug
-  if (mastering && handed.kind === "lore" && handed.lore.length === 0) {
-    return moved(BEATS, {}, { flow, again: true })
-  }
+
   const found = partOf(handed)
   if ("refused" in found) return found
   if (caller.role !== found.role) {

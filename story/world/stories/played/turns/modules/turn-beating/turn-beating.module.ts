@@ -83,10 +83,7 @@ export const turnBeating = {
       decisionKind: "decision-kind/departure",
       statement: "A restatement clears every part of the refused beat and the beats after it.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A game master's advance handing in nothing at beats changes no beat.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -94,5 +91,5 @@ export const turnBeating = {
     },
   ],
   createdAt: "2026-10-27T19:42:57.720Z",
-  updatedAt: "2026-10-27T20:38:41.559Z",
+  updatedAt: "2026-10-27T20:47:29.242Z",
 } as const satisfies Module

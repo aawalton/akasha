@@ -39,7 +39,6 @@ import {
   breakIndexed,
   lengthRefused,
 } from "akasha/command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts"
-import { beatsHanded } from "akasha/command/pages/story/turn/advance/modules/turn-beat-handing/turn-beat-handing.module.code.ts"
 import {
   type Crossing,
   crossedIndexed,
@@ -60,6 +59,7 @@ import {
   timeCheckIndexed,
   untimedRefused,
 } from "akasha/command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts"
+import { beatsHanded } from "akasha/command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts"
 import {
   heldOf,
   repairsAfter,

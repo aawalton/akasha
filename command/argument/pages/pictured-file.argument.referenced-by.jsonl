@@ -1,5 +1,5 @@
 {"propertySlug":"argument","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","id":"01a0deca-7611-72a6-9435-385ed7dedb72"}
 {"propertySlug":"argument","path":"command/pages/story/turn/picture/story-turn-picture.command.ts","id":"01a106f8-d29d-7c1f-b833-eb571240be41"}
-{"propertySlug":"import","fileName":"pictured-file.argument.ts","path":"command/pages/story/turn/advance/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pictured-file.argument.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pictured-file.argument.ts","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pictured-file.argument.ts","path":"command/pages/story/turn/picture/story-turn-picture.command.code.ts","typed":false,"deferred":false}

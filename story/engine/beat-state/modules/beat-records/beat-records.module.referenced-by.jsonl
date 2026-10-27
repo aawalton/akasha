@@ -7,8 +7,8 @@
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"command/pages/story/turn/picture/story-turn-picture.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts","typed":false,"deferred":false}

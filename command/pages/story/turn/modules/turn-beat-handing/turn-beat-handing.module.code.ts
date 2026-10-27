@@ -19,13 +19,20 @@ import {
 } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import type { Starting } from "akasha/command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts"
 import type { Recorder } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
-import type {
-  Reach,
-  Told,
+import {
+  REACHED,
+  type Reach,
+  type Told,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import type { Context } from "akasha/command/pages/story/turn/modules/turn-starting/turn-starting.module.code.ts"
+import { storyTurnNext } from "akasha/command/pages/story/turn/next/story-turn-next.command.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { FlowPart } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts"
+import {
+  type FlowPart,
+  type Ready,
+  readyAcross,
+  refusedAt,
+} from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts"
 import {
   type Beats,
   beatsWritten,
@@ -134,6 +141,12 @@ function saidFor(part: FlowPart, asked: BeatAsking): Said {
   }
 }
 
+const LAST_WORD = /\S+$/
+
+function nextCallOf(calledAs: string): string {
+  return calledAs.replace(LAST_WORD, storyTurnNext.name)
+}
+
 export function beatPrompt(part: FlowPart, asked: BeatAsking): string {
   const { beat, turn } = asked
   const said = saidFor(part, asked)
@@ -159,9 +172,57 @@ export function beatPrompt(part: FlowPart, asked: BeatAsking): string {
     "",
     `${asked.calledAs} ${playedTurn.said} ${address} ${beatArgument.said} ${beat} ${said.flags}`,
     "",
-    "The advance ends this beat, not this seat. Once it lands, take up at once any message handing you another beat that reached you while you worked. End your turn only when none has: the next beat ready for you comes as a message of its own.",
+    `The advance ends this beat, not this seat. Once it lands, run \`${nextCallOf(asked.calledAs)}\` and take up the beat it hands you, whatever messages say. End your turn only once it says no beat is ready for you: the next beat ready for you then comes as a message of its own.`,
     ...stuck,
   ].join("\n")
+}
+
+type StepSeat = { readonly name: string; readonly role: string; readonly game: string }
+
+const LISTED: readonly FlowPart[] = ["changes", "memory", "pictured"]
+
+export function seatPartOf(
+  seat: StepSeat,
+  persona: string,
+  recorders: readonly string[]
+): FlowPart | null {
+  if (seat.role === writerRole.slug) return "prose"
+  if (seat.role === gameMasterRole.slug) return "event"
+  if (seat.role !== storyRecorderRole.slug) return null
+  const named = (recorder: string) =>
+    `${persona}-${storyRecorderRole.slug}-${seat.game}-${flexOf(recorders, recorder)}`
+  return LISTED.find((part) => seat.name === named(recorderOf(part) ?? "")) ?? null
+}
+
+function readyOn(turns: readonly Beats[], part: FlowPart): Ready | null {
+  if (part !== "event") return readyAcross(turns, part)
+  const turn = turns.findIndex((one) => refusedAt(one) !== null)
+  const held = turns[turn]
+  const beat = held === undefined ? null : refusedAt(held)
+  return beat === null ? null : { turn, beat }
+}
+
+export function readyBeatOf(root: string, seat: StepSeat, calledAs: string): string | null {
+  const story = REACHED.storyOf(root, seat.game)
+  const master = story?.master ?? null
+  const persona = master === null ? null : (coordinatorOf(master, seat.game)?.persona ?? null)
+  if (persona === null) return null
+  const recorders = REACHED.recordersIn(root)
+  const part = seatPartOf(
+    seat,
+    persona,
+    recorders.map((one) => one.slug)
+  )
+  if (part === null) return null
+  const flowing = flowingIn(storyIndexed(root, seat.game, false), "")
+  const ready = readyOn(
+    flowing.map((one) => one.beats),
+    part
+  )
+  const turn = ready === null ? undefined : flowing[ready.turn]
+  if (ready === null || turn === undefined) return null
+  const title = story?.title ?? seat.game
+  return beatPrompt(part, { title, calledAs, turn, beat: ready.beat, recorders, master })
 }
 
 function startingOf(job: BeatJob, asked: BeatAsking, persona: string, game: string): Starting {
@@ -198,11 +259,8 @@ export async function beatsHanded(
   }
   const flowing = flowingIn(storyIndexed(root, held.game, false), slug)
   const now = flowing.map((one) => one.beats)
-  const was = held.status === BEATS && said.again !== true ? (held.flow ?? NO_BEATS) : NO_BEATS
-  const before = flowing.map((one, index) => {
-    if (said.again === true) return NO_BEATS
-    return one.slug === slug ? was : (now[index] ?? NO_BEATS)
-  })
+  const was = held.status === BEATS ? (held.flow ?? NO_BEATS) : NO_BEATS
+  const before = flowing.map((one, index) => (one.slug === slug ? was : (now[index] ?? NO_BEATS)))
   for (const job of beatJobsOf(before, now)) {
     const turn = flowing[job.turn]
     if (turn === undefined) continue
