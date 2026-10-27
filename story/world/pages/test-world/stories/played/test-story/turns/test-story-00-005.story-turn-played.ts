@@ -9,7 +9,7 @@ export const testStory00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/test-story-player"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "I use Healing Draught",
   beats: "jsonl",
   issues: "txt",
@@ -17,6 +17,6 @@ export const testStory00005 = {
   recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
   endsAt: "2026-10-27T08:37:00.000Z",
   createdAt: "2026-10-27T19:47:39.549Z",
-  updatedAt: "2026-10-27T20:09:59.131Z",
-  ownLength: 58,
+  updatedAt: "2026-10-27T20:10:49.959Z",
+  ownLength: 53,
 } as const satisfies StoryTurnPlayed
