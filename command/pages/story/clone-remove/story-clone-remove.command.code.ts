@@ -325,11 +325,7 @@ async function removed(
     given.root,
     plan.asked,
     `remove the clone ${held.slug} and its seats`,
-    {
-      agentId: given.agentId,
-      writer: given.writer,
-      done,
-    }
+    { writer: given.writer, done }
   )
   if ("refusals" in landed) return keeping(done, refusedBy([...rows, ...landed.refusals], DATA))
   reach.sweep(given.root, plan.folder, plan.pages)

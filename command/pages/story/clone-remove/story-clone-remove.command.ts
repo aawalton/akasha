@@ -34,6 +34,10 @@ export const storyCloneRemove = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That landing is the command's own, so no read its caller made can hold it back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page outside that folder whose `story` is the clone goes with it.",
     },
     {
@@ -73,5 +77,5 @@ export const storyCloneRemove = {
     { argument: "argument/draft" },
   ],
   createdAt: "2026-10-27T21:21:01.035Z",
-  updatedAt: "2026-10-27T23:23:39.103Z",
+  updatedAt: "2026-10-27T23:24:33.107Z",
 } as const satisfies Command

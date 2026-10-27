@@ -38,6 +38,10 @@ export const storyClone = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That landing is the command's own, so no read its caller made can hold it back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Each copied page is handed a fresh id, since nothing mints one under a copied type.",
     },
@@ -48,5 +52,5 @@ export const storyClone = {
     { argument: "argument/clone-as", required: true },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-27T21:38:10.117Z",
+  updatedAt: "2026-10-27T23:24:33.107Z",
 } as const satisfies Command

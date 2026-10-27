@@ -253,7 +253,6 @@ async function cloned(
   const made = planned(given.root, held, reach)
   if ("refused" in made) return refused(made.refused, made.code)
   const landed = await landing(given.root, made.asked, `clone ${held.from} as ${held.to}`, {
-    agentId: given.agentId,
     writer: given.writer,
     done,
   })
