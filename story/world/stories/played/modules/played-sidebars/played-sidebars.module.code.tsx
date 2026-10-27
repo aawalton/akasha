@@ -9,7 +9,7 @@ import {
 } from "akasha/design/interface/primitive/modules/toggle-group/toggle-group.module.code.tsx"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Shown } from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
-import { aside } from "akasha/story/ui/played-panel/panel-place/pages/aside.panel-place.ts"
+
 import { character } from "akasha/story/ui/played-panel/panel-place/pages/character.panel-place.ts"
 import { chat } from "akasha/story/ui/played-panel/panel-place/pages/chat.panel-place.ts"
 import { journal } from "akasha/story/ui/played-panel/panel-place/pages/journal.panel-place.ts"
@@ -112,12 +112,6 @@ const PHONE_PLACE_TITLE = "font-medium text-primary text-sm"
 
 const PHONE_PLACE_BODY = "flex flex-col gap-4 p-4"
 
-const ASIDE = namedAs(panelPlace.slug, aside.slug, null)
-
-function placeOf(shown: Shown): string {
-  return shown.place === ASIDE ? namedAs(panelPlace.slug, journal.slug, null) : shown.place
-}
-
 export function placedFrom(
   shown: readonly Shown[],
   draw: (drawn: readonly Shown[]) => ReactNode
@@ -125,7 +119,7 @@ export function placedFrom(
   const placed = new Map<string, ReactNode>()
   for (const look of LOOKS) {
     const at = namedAs(panelPlace.slug, look.slug, null)
-    const drawn = shown.filter((one) => placeOf(one) === at)
+    const drawn = shown.filter((one) => one.place === at)
     if (drawn.length > NONE) placed.set(look.slug, draw(drawn))
   }
   return placed

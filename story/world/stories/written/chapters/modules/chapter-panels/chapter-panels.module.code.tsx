@@ -33,7 +33,7 @@ import {
   type Shown,
   usePanelsHeld,
 } from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
-import { aside } from "akasha/story/ui/played-panel/panel-place/pages/aside.panel-place.ts"
+
 import { character } from "akasha/story/ui/played-panel/panel-place/pages/character.panel-place.ts"
 import { chat } from "akasha/story/ui/played-panel/panel-place/pages/chat.panel-place.ts"
 import { journal } from "akasha/story/ui/played-panel/panel-place/pages/journal.panel-place.ts"
@@ -63,7 +63,7 @@ import {
 import { type ReactNode, useEffect, useMemo } from "react"
 
 const BESIDE: ReadonlySet<string> = new Set(
-  [aside, character, journal, map, chat].map((place) => namedAs(panelPlace.slug, place.slug, null))
+  [character, journal, map, chat].map((place) => namedAs(panelPlace.slug, place.slug, null))
 )
 
 const NO_PANELS: readonly Shown[] = []

@@ -8,7 +8,6 @@ export const panelPlace = {
   extends: ["page-type/domain"],
   parts: [
     "panel-place/above",
-    "panel-place/aside",
     "panel-place/run",
     "panel-place/character",
     "panel-place/journal",
@@ -32,5 +31,5 @@ export const panelPlace = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T16:28:55.825Z",
-  updatedAt: "2026-10-27T18:30:31.321Z",
+  updatedAt: "2026-10-27T18:40:49.096Z",
 } as const satisfies PageType
