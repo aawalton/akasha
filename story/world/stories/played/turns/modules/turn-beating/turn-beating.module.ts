@@ -85,10 +85,14 @@ export const turnBeating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A game master's advance handing in nothing at beats changes no beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The pages hold the values the shown beats left, so numbers are checked from there.",
     },
   ],
   createdAt: "2026-10-27T19:42:57.720Z",
-  updatedAt: "2026-10-27T20:26:52.073Z",
+  updatedAt: "2026-10-27T20:38:41.559Z",
 } as const satisfies Module

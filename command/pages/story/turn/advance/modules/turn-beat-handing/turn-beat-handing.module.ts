@@ -47,7 +47,16 @@ export const turnBeatHanding = {
       decisionKind: "decision-kind/departure",
       statement: "A refused beat is handed to the game master seat with its issues.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat taking a beat up at once takes up any beat handed it while it worked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A game master's advance handing in nothing at beats hands every ready beat out again.",
+    },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-27T20:26:52.073Z",
+  updatedAt: "2026-10-27T20:38:41.559Z",
 } as const satisfies Module

@@ -147,6 +147,7 @@ export type Moved = {
   readonly starts: readonly Start[]
   readonly landsKept: boolean
   readonly flow?: Beats | null
+  readonly again?: boolean
 }
 
 export type Advanced = Moved | { readonly refused: string }
@@ -170,6 +171,7 @@ export type Moving = {
   readonly rulings?: readonly Ruling[] | null
   readonly landsKept?: boolean
   readonly flow?: Beats | null
+  readonly again?: boolean
 }
 
 type Values = Readonly<{ [key: string]: unknown }>
@@ -190,6 +192,7 @@ export function moved(status: TurnStep, values: Values, moving: Moving = {}): Mo
     starts: moving.starts ?? [],
     landsKept: moving.landsKept ?? false,
     flow: moving.flow ?? null,
+    ...(moving.again === true ? { again: true } : {}),
   }
 }
 

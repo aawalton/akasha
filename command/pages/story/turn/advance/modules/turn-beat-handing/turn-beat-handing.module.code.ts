@@ -159,7 +159,7 @@ export function beatPrompt(part: FlowPart, asked: BeatAsking): string {
     "",
     `${asked.calledAs} ${playedTurn.said} ${address} ${beatArgument.said} ${beat} ${said.flags}`,
     "",
-    "The advance ends this beat, not this seat: once it lands, end your turn, and the next beat ready for you comes as a message of its own.",
+    "The advance ends this beat, not this seat. Once it lands, take up at once any message handing you another beat that reached you while you worked. End your turn only when none has: the next beat ready for you comes as a message of its own.",
     ...stuck,
   ].join("\n")
 }
@@ -198,8 +198,11 @@ export async function beatsHanded(
   }
   const flowing = flowingIn(storyIndexed(root, held.game, false), slug)
   const now = flowing.map((one) => one.beats)
-  const was = held.status === BEATS ? (held.flow ?? NO_BEATS) : NO_BEATS
-  const before = flowing.map((one, index) => (one.slug === slug ? was : (now[index] ?? NO_BEATS)))
+  const was = held.status === BEATS && said.again !== true ? (held.flow ?? NO_BEATS) : NO_BEATS
+  const before = flowing.map((one, index) => {
+    if (said.again === true) return NO_BEATS
+    return one.slug === slug ? was : (now[index] ?? NO_BEATS)
+  })
   for (const job of beatJobsOf(before, now)) {
     const turn = flowing[job.turn]
     if (turn === undefined) continue

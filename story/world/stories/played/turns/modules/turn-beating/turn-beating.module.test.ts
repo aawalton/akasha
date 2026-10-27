@@ -179,6 +179,11 @@ test("a restatement moving a beat before the refused one, or naming another beat
   )
 })
 
+test("the game master's advance handing in nothing at beats hands every ready beat out again", () => {
+  const said = movedOf(advanced(flowing(STATED), MASTER, { kind: "lore", lore: [] }, TWO))
+  expect([said.status, said.again, said.flow]).toEqual(["beats", true, STATED])
+})
+
 test("a beat named off the beats status is refused", () => {
   const said = advanced(heldAt("writer"), WRITER, { ...PROSE, beat: 1 }, TWO)
   expect(refusalOf(said)).toContain("only while a turn is at beats")
