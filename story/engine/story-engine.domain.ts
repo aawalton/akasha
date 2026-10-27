@@ -10,6 +10,7 @@ export const storyEngine = {
     "domain/narrative-story-turn-promotion",
     "domain/story-engine-core",
     "module/phase-timing",
+    "domain/voyage",
   ],
   decisions: [
     {
@@ -22,5 +23,5 @@ export const storyEngine = {
     },
   ],
   createdAt: "2026-09-02T14:23:28.546Z",
-  updatedAt: "2026-10-03T14:41:05.000Z",
+  updatedAt: "2026-10-27T18:17:26.313Z",
 } as const satisfies Domain

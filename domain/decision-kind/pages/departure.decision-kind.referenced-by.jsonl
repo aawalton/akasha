@@ -4024,6 +4024,7 @@
 {"propertySlug":"decision-kind","path":"story/engine/modules/phase-timing/phase-timing.module.ts","id":"01a0e945-5def-7027-9139-7923bd22c6e4"}
 {"propertySlug":"decision-kind","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts","id":"01a0675b-16f4-75bf-bef9-7a513c9dd7d7"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
+{"propertySlug":"decision-kind","path":"story/engine/voyage/voyage.domain.ts","id":"01a17e94-d82a-756c-8ab0-01dcc4b79396"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/lore-disclosure.page-type.ts","id":"01a0d419-8845-7ed9-a90b-d476417c30f4"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/modules/lore-rereading/lore-rereading.module.ts","id":"01a0e337-29f5-7855-af44-8e1c85997314"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.ts","id":"01a0da6b-b93f-789a-a8cd-4da980b5664a"}
