@@ -18,6 +18,8 @@
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-outcome-marks/turn-outcome-marks.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-outcome-marks/turn-outcome-marks.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts","typed":true,"deferred":false}

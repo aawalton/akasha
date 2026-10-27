@@ -17,6 +17,7 @@ export const storyTurnAdvance = {
     "module/chapter-length",
     "module/turn-memory",
     "module/turn-roleplay-telling",
+    "module/turn-outcome-marks",
   ],
   decisions: [
     {
@@ -90,6 +91,11 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A mechanics seat's changes are checked against the pages before they land.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A recorder at mechanics handing in last is refused while an outcome's add of its own is unmarked.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -261,5 +267,5 @@ export const storyTurnAdvance = {
     { argument: "argument/beat" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-27T20:47:29.242Z",
+  updatedAt: "2026-10-27T22:37:14.463Z",
 } as const satisfies Command

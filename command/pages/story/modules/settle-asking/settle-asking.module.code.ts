@@ -159,20 +159,25 @@ export function latestMontageAt(lines: readonly unknown[]): number {
   return at
 }
 
-export function countedLines(kept: string): readonly string[] {
-  const lines = outcomeLines(kept)
-  const held: unknown[] = lines.map((one) => JSON.parse(one))
+export function countedPlaces(kept: string): readonly number[] {
+  const held: unknown[] = outcomeLines(kept).map((one) => JSON.parse(one))
   const latest = latestMontageAt(held)
-  const live = lines.filter((_, place) => place >= latest || sessionOf(held[place]) === null)
   const replaced = new Set<string>()
-  const counted: string[] = []
-  for (const line of live.toReversed()) {
-    const key = replacingKey(JSON.parse(line))
+  const counted: number[] = []
+  for (let place = held.length - 1; place >= 0; place -= 1) {
+    const was = held[place]
+    if (place < latest && sessionOf(was) !== null) continue
+    const key = replacingKey(was)
     if (key !== null && replaced.has(key)) continue
     if (key !== null) replaced.add(key)
-    counted.push(line)
+    counted.push(place)
   }
   return counted.toReversed()
+}
+
+export function countedLines(kept: string): readonly string[] {
+  const lines = outcomeLines(kept)
+  return countedPlaces(kept).map((place) => lines[place] ?? "")
 }
 
 type Unfound = { readonly refused: string; readonly unfound: string }

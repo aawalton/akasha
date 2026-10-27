@@ -54,6 +54,7 @@ import {
   taken,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
 import { memorySettled } from "akasha/command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts"
+import { marksOn } from "akasha/command/pages/story/turn/advance/modules/turn-outcome-marks/turn-outcome-marks.module.code.ts"
 import { noticesOver } from "akasha/command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts"
 import {
   endTaken,
@@ -216,6 +217,8 @@ async function heldOn(
   const reading = reach.changing(given.root)
   const unchanged = changesChecked(reading, held, read.handed)
   if (unchanged !== null) return refused(unchanged, DATA)
+  const unmarked = marksOn(textOf, turn.at, held, read.handed)
+  if (unmarked !== null) return refused(unmarked, DATA)
   const telling = memorySettled(rootReading(given.root), held, read.handed, said.status)
   if ("refused" in telling) return refused(telling.refused, DATA)
   const scened = scenedOf(reach.scenesOf, given.root, held, turn, read.handed)

@@ -2576,6 +2576,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-described/turn-described.module.ts","id":"01a0e96d-d288-76ac-94d2-21b8dd6a0ec1"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.ts","id":"01a0e949-667e-7c20-a21e-7af61ed6ae8c"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.ts","id":"01a10292-b21c-717d-b28a-458f7ec0db75"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-outcome-marks/turn-outcome-marks.module.ts","id":"01a17f82-b35f-74e1-999e-b2d1e59a6977"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.ts","id":"01a14ad9-e67d-7b6d-b50d-1adbb916b211"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.ts","id":"01a0ea0c-6c1c-73f4-8e1a-d0369ea6ecd3"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","id":"01a0deca-7611-72a6-9435-385ed7dedb72"}
