@@ -16,8 +16,6 @@ import type {
   Asked as Sought,
 } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
 import type { Wrote } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
-import { doneBy } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts"
-import { beatsIn } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.ts"
 import { roleplayed } from "akasha/story/world/stories/played/properties/roleplayed.boolean-property.ts"
@@ -33,6 +31,7 @@ import {
   stepIn,
   WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { holdsBack } from "akasha/story/world/stories/played/turns/modules/turn-queueing/turn-queueing.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const MAKER = "action bar <action-bar@alanwalton.com>"
@@ -96,19 +95,9 @@ const CALLS: Calls = {
   write: (asked) => writingFor(asked),
 }
 
-function rememberedIn(body: unknown): boolean {
-  if (typeof body !== "string") return false
-  const read = beatsIn(body)
-  return !("refused" in read) && doneBy(read, "memory")
-}
-
-function waitsBehind(row: Row | undefined): boolean {
-  return row !== undefined && stepIn(row[STATUS]) === BEATS && !rememberedIn(row[BEATS_FILE])
-}
-
 async function heldBack(game: string, before: string, calls: Calls): Promise<boolean> {
   const turns = await calls.ask(latestAsked(game))
-  return !("refused" in turns) && waitsBehind(turns.rows.find((row) => row[SLUG] === before))
+  return !("refused" in turns) && holdsBack(turns.rows.find((row) => row[SLUG] === before))
 }
 
 function latestIn(row: Row | undefined, before?: Row): Latest | null {
@@ -124,8 +113,8 @@ function latestIn(row: Row | undefined, before?: Row): Latest | null {
     unit: textIn(row[UNIT]),
     status,
     told: row[ROLEPLAYED] === true && row[PROSE] !== undefined,
-    remembered: status !== BEATS || rememberedIn(row[BEATS_FILE]),
-    behind: status === WORLD_BUILDER && waitsBehind(before),
+    remembered: !holdsBack(row),
+    behind: status === WORLD_BUILDER && holdsBack(before),
     action: textIn(row[ACTION]) ?? "",
   }
 }
@@ -234,7 +223,7 @@ export function turnAfter(latest: Latest | null, action: string): Made {
     }
     return { slug: latest.slug, joins: true, waits: true, values: { action: joined } }
   }
-  const flowing = latest?.status === BEATS
+  const flowing = latest?.status === BEATS || latest?.remembered === false
   const refused = flowing ? null : makingRefused(latest)
   if (refused !== null || latest === null) return { refused: refused ?? "" }
   const slug = slugAfter(latest.slug)

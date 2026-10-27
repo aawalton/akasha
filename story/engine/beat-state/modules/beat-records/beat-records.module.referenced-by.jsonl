@@ -21,7 +21,7 @@
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/played/turns/modules/turn-queueing/turn-queueing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-beat-reading/chapter-beat-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-records.module.code.ts","path":"story/world/stories/written/chapters/story-chapter-written.page-type.page-component.code.tsx","typed":true,"deferred":false}

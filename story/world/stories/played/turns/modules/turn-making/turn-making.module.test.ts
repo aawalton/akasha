@@ -104,6 +104,14 @@ test("a turn made as the turn before's memory finishes is told, not left waiting
   expect(["waits" in made, asked]).toEqual([false, []])
 })
 
+test("an action while the last turn is at game-master makes the next turn waiting", async () => {
+  const made = await turnMadeFor(GAME, "I wait", callsFlowing([turnRow(2, "game-master")], []))
+  expect(made).toMatchObject({ kind: "made", slug: "the-saga-00-003", waits: true })
+  const rows = [turnRow(3, "world-builder", { action: "I wait" }), turnRow(2, "game-master")]
+  const joined = await turnMadeFor(GAME, "I sit", callsFlowing(rows, []))
+  expect(joined).toMatchObject({ kind: "made", slug: "the-saga-00-003", waits: true })
+})
+
 test("an action while the next turn still waits joins that turn's action", async () => {
   const wrote: Writing[] = []
   const rows = [

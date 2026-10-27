@@ -18,6 +18,7 @@ export const storyTurnPlayed = {
     "module/turn-making",
     "module/turn-notice",
     "module/turn-prose",
+    "module/turn-queueing",
     "module/turn-seats",
     "module/turn-waiting",
 
@@ -192,5 +193,5 @@ export const storyTurnPlayed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T00:47:51.415Z",
-  updatedAt: "2026-10-27T21:23:40.652Z",
+  updatedAt: "2026-10-27T23:00:22.175Z",
 } as const satisfies PageType

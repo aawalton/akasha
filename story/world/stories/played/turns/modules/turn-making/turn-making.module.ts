@@ -30,6 +30,14 @@ export const turnMaking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "So does an action sent while the latest turn is at world-builder or game-master.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a turn holds the next back is `turn-queueing`'s.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "That turn waits, telling no seat, until the turn before has every beat's memory.",
     },
     {
@@ -98,5 +106,5 @@ export const turnMaking = {
     },
   ],
   createdAt: "2026-09-26T17:39:09.550Z",
-  updatedAt: "2026-10-27T22:50:38.151Z",
+  updatedAt: "2026-10-27T23:00:22.175Z",
 } as const satisfies Module
