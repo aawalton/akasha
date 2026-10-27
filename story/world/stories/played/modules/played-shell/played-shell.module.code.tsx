@@ -330,22 +330,21 @@ function PlayedStory({
     </div>
   )
 
-  const bar =
-    externalId === undefined || coordinatorAgent === undefined ? null : (
-      <>
-        {undo.dialog}
-        <ActionBar
-          gameExternalId={externalId}
-          storyTitle={title}
-          turnsSeen={ready.length}
-          lastTurn={lastTurn}
-          making={making}
-          undoneAt={undoneAt}
-          onWaiting={setWaiting}
-          onRead={onBarRead}
-        />
-      </>
-    )
+  const bar = (
+    <>
+      {undo.dialog}
+      <ActionBar
+        gameExternalId={externalId ?? null}
+        storyTitle={title}
+        turnsSeen={ready.length}
+        lastTurn={lastTurn}
+        making={making}
+        undoneAt={undoneAt}
+        onWaiting={setWaiting}
+        onRead={onBarRead}
+      />
+    </>
+  )
 
   if (tail.drawn.length === 0) {
     return (
@@ -357,7 +356,7 @@ function PlayedStory({
   }
 
   const drawnRun = shownIn(shown, RUN)
-  const settled = panelsHeld !== null && (barRead || bar === null)
+  const settled = panelsHeld !== null && barRead
   const placed = chatPlaced(
     placedFrom(shown, (drawn) => <PlayedPanels shown={drawn} envelope={envelope} run={panelRun} />),
     playable ? externalId : undefined,

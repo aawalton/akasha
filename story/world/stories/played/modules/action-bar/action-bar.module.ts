@@ -69,7 +69,16 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A phone shows no Send button, and the line takes its room.",
+      statement:
+        "The line is written in the card a seat's composer is, with its round send button.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The send button is disabled while the line is empty or a send is under way.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story naming no game refuses a line sent from it, and says why.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -85,5 +94,5 @@ export const actionBar = {
     },
   ],
   createdAt: "2026-09-24T17:51:51.158Z",
-  updatedAt: "2026-10-27T19:27:24.244Z",
+  updatedAt: "2026-10-27T20:12:19.317Z",
 } as const satisfies Module

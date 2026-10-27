@@ -1,7 +1,10 @@
 "use client"
 
-import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import {
+  COMPOSER_TEXT,
+  ComposerBox,
+  ComposerSend,
+} from "akasha/agent/seat/modules/composer-box/composer-box.module.code.tsx"
 import {
   type SendCause,
   sendsNow,
@@ -49,6 +52,8 @@ const SIGNED_OUT = "Sign in to send the game an action."
 const SIGN_IN_AT = "/sign-in"
 
 const STILL_MAKING = "The turn is still being made. Ask anything else in the Chat."
+
+const NO_GAME = "This story names no game, so no action can be sent to it."
 
 const NOTE_LINE = "font-mono text-[12px] text-tertiary"
 
@@ -107,7 +112,7 @@ export function ActionBar({
   onWaiting,
   onRead,
 }: {
-  gameExternalId: string
+  gameExternalId: string | null
   storyTitle: string
   turnsSeen: number
   lastTurn: number | null
@@ -149,6 +154,7 @@ export function ActionBar({
   }, [])
 
   const refresh = useCallback(async () => {
+    if (gameExternalId === null) return
     const askedAt = Date.now()
     const read = await readWaiting(gameExternalId)
     if (read === null) return
@@ -183,7 +189,7 @@ export function ActionBar({
   }, [undoneAt, refresh])
 
   useEffect(() => {
-    if (turnReadyNews(toldAt.current, turnsSeen)) {
+    if (gameExternalId !== null && turnReadyNews(toldAt.current, turnsSeen)) {
       fireContentNotification(storyTitle, turnReadySaid(lastTurn), gameExternalId)
     }
     toldAt.current = turnsSeen
@@ -203,6 +209,10 @@ export function ActionBar({
     const next = sendingFor(text, pending, echoes, armed)
     if (next === "none") return
     const typed = text.trim()
+    if (gameExternalId === null) {
+      setError(NO_GAME)
+      return
+    }
     if (making !== null) {
       setError(STILL_MAKING)
       return
@@ -284,7 +294,7 @@ export function ActionBar({
         ) : error === null ? null : (
           <p className={ERROR_LINE}>{error}</p>
         )}
-        <div className="flex items-end gap-2">
+        <ComposerBox end={<ComposerSend submits disabled={sending || text.trim() === ""} />}>
           <Textarea
             ref={returnSends}
             value={text}
@@ -313,12 +323,9 @@ export function ActionBar({
             enterKeyHint="send"
             placeholder={PLACEHOLDER}
             aria-label="Your action"
-            className={`${surfaceClass(1)} max-h-48 min-h-9 flex-1 resize-none`}
+            className={COMPOSER_TEXT}
           />
-          <Button type="submit" disabled={sending} className="hidden min-[584px]:inline-flex">
-            Send
-          </Button>
-        </div>
+        </ComposerBox>
       </form>
     </div>
   )

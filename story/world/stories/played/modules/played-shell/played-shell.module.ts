@@ -87,11 +87,12 @@ export const playedShell = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game naming a coordinator agent has an action bar drawn under the run.",
+      statement: "Every story played has an action bar drawn under the run.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game naming no coordinator agent has no action bar.",
+      statement:
+        "A game naming no coordinator agent refuses an action its bar sends, and says why.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -138,5 +139,5 @@ export const playedShell = {
     },
   ],
   createdAt: "2026-09-14T19:28:23.697Z",
-  updatedAt: "2026-10-27T18:54:57.088Z",
+  updatedAt: "2026-10-27T20:12:19.317Z",
 } as const satisfies Module
