@@ -9,6 +9,7 @@ export const giftedRebornNalaMinorAetherCore = {
   story: "story-played/gifted-reborn",
   character: "character-player/gifted-reborn-nala",
   description: "Her Aether Core is Minor, the smallest grade.",
+  unrevealed: true,
   createdAt: "2026-10-27T19:41:44.313Z",
-  updatedAt: "2026-10-27T19:41:44.313Z",
+  updatedAt: "2026-10-27T21:50:00.767Z",
 } as const satisfies CharacterTrait
