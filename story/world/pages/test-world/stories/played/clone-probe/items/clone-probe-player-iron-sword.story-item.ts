@@ -8,9 +8,8 @@ export const cloneProbePlayerIronSword = {
   world: "world/test-world",
   story: "story-played/clone-probe",
   character: "character-player/clone-probe-player",
-  slot: "item-slot/main-hand",
   category: "weapon",
   description: "A plain iron sword with a leather grip.",
   createdAt: "2026-10-27T21:38:27.218Z",
-  updatedAt: "2026-10-27T22:05:47.008Z",
+  updatedAt: "2026-10-27T22:06:57.497Z",
 } as const satisfies StoryItem

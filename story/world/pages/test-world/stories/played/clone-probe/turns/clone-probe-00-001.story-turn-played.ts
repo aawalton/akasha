@@ -15,6 +15,6 @@ export const cloneProbe00001 = {
   lore: ["place/test-world-hall"],
   endsAt: "2026-11-06T08:50:00.000Z",
   createdAt: "2026-10-27T21:53:57.824Z",
-  updatedAt: "2026-10-27T22:06:21.213Z",
-  ownLength: 128,
+  updatedAt: "2026-10-27T22:06:57.497Z",
+  ownLength: 152,
 } as const satisfies StoryTurnPlayed
