@@ -1,3 +1,5 @@
+{"propertySlug":"item-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/items/gifted-reborn-nala-linen-bandage.story-item.ts","id":"01a17ee2-05fa-7367-a086-c559b9ed630f"}
+{"propertySlug":"item-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/items/gifted-reborn-nala-swaddling-blanket.story-item.ts","id":"01a17ee2-05fa-70fe-b020-cb8518841084"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/points/gifted-reborn-nala.gifted-unallocated-stats.ts","id":"01a17ee1-2b69-75b9-a6a1-74c415a3c331"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-aether.metric-character-stat.ts","id":"01a17ee1-2b6a-7881-b8ec-8befbe795294"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-coordination.metric-character-stat.ts","id":"01a17ee1-2b6a-7544-ad52-255dd77330db"}
@@ -14,3 +16,9 @@
 {"propertySlug":"skill-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-soulstealing.character-skill.ts","id":"01a17ee1-97ba-7a0c-a622-e32f92e4cbb4"}
 {"propertySlug":"skill-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-the-completionist.character-skill.ts","id":"01a17ee1-97ba-7812-ac78-9cb84b2649f3"}
 {"propertySlug":"skill-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-willpower.character-skill.ts","id":"01a17ee1-97ba-7c06-bccb-c6325b099b44"}
+{"propertySlug":"title-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/titles-held/gifted-reborn-nala-complete-a-basic-path.character-title.ts","id":"01a17ee2-05fb-7ce2-ad62-beea20592245"}
+{"propertySlug":"title-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/titles-held/gifted-reborn-nala-consume-another-soul.character-title.ts","id":"01a17ee2-05fb-74b2-9664-7d6daec70dc7"}
+{"propertySlug":"title-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/titles-held/gifted-reborn-nala-defeat-a-lesser-demon-prince-while-unborn.character-title.ts","id":"01a17ee2-05fb-7a63-ad21-360705597a6c"}
+{"propertySlug":"title-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/titles-held/gifted-reborn-nala-survive-a-fatal-blow.character-title.ts","id":"01a17ee2-05fb-727b-b639-4f660767361c"}
+{"propertySlug":"trait-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/traits/gifted-reborn-nala-minor-aether-core.character-trait.ts","id":"01a17ee2-05fb-7188-b742-9081661c388f"}
+{"propertySlug":"trait-character","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/traits/gifted-reborn-nala-weak-aether-channels.character-trait.ts","id":"01a17ee2-05fb-7792-aded-a3c8cc87ae3e"}

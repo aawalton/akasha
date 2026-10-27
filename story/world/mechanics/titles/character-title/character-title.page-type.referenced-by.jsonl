@@ -1,3 +1,7 @@
 {"propertySlug":"import","fileName":"character-title.page-type.ts","path":"story/world/stories/played/modules/played-titles/played-titles.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-title.page-type.types.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/titles-held/gifted-reborn-nala-complete-a-basic-path.character-title.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-title.page-type.types.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/titles-held/gifted-reborn-nala-consume-another-soul.character-title.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-title.page-type.types.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/titles-held/gifted-reborn-nala-defeat-a-lesser-demon-prince-while-unborn.character-title.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-title.page-type.types.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/titles-held/gifted-reborn-nala-survive-a-fatal-blow.character-title.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-title.page-type.types.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/titles-held/test-story-player-tester.character-title.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/titles/world-title.page-type.ts","id":"01a06558-a991-7a45-b681-fed7723c95e3"}
