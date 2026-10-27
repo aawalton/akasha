@@ -21,6 +21,10 @@ export const roleItself = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat warrants each part its role names, after the role.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A role whose page cannot be found is no warrant.",
     },
     {
@@ -29,5 +33,5 @@ export const roleItself = {
     },
   ],
   createdAt: "2026-08-31T14:16:55.080Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-27T20:37:31.524Z",
 } as const satisfies ContextWarrant

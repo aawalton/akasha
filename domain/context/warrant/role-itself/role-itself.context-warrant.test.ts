@@ -4,13 +4,16 @@ import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { owedIn } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
+  domainListed,
   pathsOf,
   roleListed,
   seatListed,
+  typedListed,
   warrantsSeeded,
 } from "akasha/domain/context/modules/warranting/warranting.module.test-fixtures.ts"
 import {
   ROLE,
+  ROLE_PART,
   roleItself,
 } from "akasha/domain/context/warrant/role-itself/role-itself.context-warrant.code.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
@@ -34,6 +37,16 @@ test("a role is named by its slug where the seat states it under a page type", (
   const held = roleListed(root, "definer")
   const at = seatListed(root, "one", `role: "role/definer"`)
   expect(pathsOf(roleItself(root, at))).toEqual([held.path])
+})
+
+test("a seat warrants each part its role names, after the role", () => {
+  const root = scratch.rootFor("akasha-role-itself-")
+  const checks = domainListed(root, "checks")
+  const held = typedListed(root, "role", "keeper", `parts: ["domain/checks", "domain/ghost"]`)
+  const at = seatListed(root, "one", `role: "keeper"`)
+  const found = roleItself(root, at)
+  expect(pathsOf(found)).toEqual([held.path, checks.path])
+  expect(found[1]?.owed).toBe(ROLE_PART)
 })
 
 test("a seat stating no role warrants none", () => {

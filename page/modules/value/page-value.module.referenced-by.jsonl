@@ -86,6 +86,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"domain/context/warrant/file-property/file-property.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"domain/context/warrant/initiative-ancestors/initiative-ancestors.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"domain/context/warrant/person-itself/person-itself.context-warrant.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"domain/context/warrant/role-itself/role-itself.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"domain/modules/reading/domain-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"domain/modules/work-initiatives/work-initiatives.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts","typed":false,"deferred":false}
