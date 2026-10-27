@@ -1,5 +1,5 @@
 {"beat":1,"event":"The player sits down by the hall's hearth and waits.","prose":"You get up from the cot, sit down by the hearth and wait.","at":"2026-11-06T08:46:00.000Z","changes":[],"memory":[],"pictured":[]}
 {"beat":2,"event":"The player rests the sword arm and lets the stiffness of ten days' drill ease.","prose":"You rest your sword arm on your knee, and the stiffness from ten days of drill starts to ease out of your shoulder.","continues":true,"changes":[],"memory":[],"pictured":[]}
-{"beat":3,"event":"The long stone floor where the player drilled lies empty in the morning light.","prose":"The stretch of stone floor where you drilled lies empty in the morning light.","changes":[],"pictured":[]}
+{"beat":3,"event":"The long stone floor where the player drilled lies empty in the morning light.","prose":"The stretch of stone floor where you drilled lies empty in the morning light.","changes":[],"memory":[],"pictured":[]}
 {"beat":4,"event":"From the hearth, the notice board on the hall's wall is in plain view.","prose":"From where you sit, the notice board on the wall beside the hearth is in plain view.","continues":true,"changes":[]}
 {"beat":5,"event":"The morning wears on toward half past nine with the player still by the hearth.","at":"2026-11-06T09:30:00.000Z","changes":[]}
