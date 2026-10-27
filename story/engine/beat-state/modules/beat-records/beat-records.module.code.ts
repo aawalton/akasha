@@ -235,7 +235,8 @@ export function beatsJoined(each: readonly Beats[]): Beats {
   }
   const held = { beats, scenes, changes, memory }
   const drawn = pictured.length === 0 ? held : { ...held, pictured }
-  return withNone(prose.length === 0 ? drawn : { ...drawn, prose }, none, issues)
+  const leading = prose.length > 0 && proseLeadingRefused(prose) === null
+  return withNone(leading ? { ...drawn, prose } : drawn, none, issues)
 }
 
 function listedOn(

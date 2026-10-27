@@ -37,7 +37,13 @@ export const beats = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A writer replaces each beat's prose, naming every beat.",
+      statement:
+        "A writer at beats gives one beat its prose, and any other writer names every beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter joining turns whose prose sits only in prose files keeps none on its beats.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -63,5 +69,5 @@ export const beats = {
   ],
   types: "ts",
   createdAt: "2026-10-03T18:25:20.715Z",
-  updatedAt: "2026-10-09T00:57:41.310Z",
+  updatedAt: "2026-10-27T21:28:02.205Z",
 } as const satisfies FileProperty

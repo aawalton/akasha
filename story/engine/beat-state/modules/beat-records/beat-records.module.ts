@@ -63,7 +63,12 @@ export const beatRecords = {
       decisionKind: "decision-kind/departure",
       statement: "Beats joined end to end are numbered on from the beats before them.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Beats joined whose prose would not run from the first beat carry none, as their prose file holds it.",
+    },
   ],
   createdAt: "2026-10-03T18:12:36.929Z",
-  updatedAt: "2026-10-27T20:26:52.073Z",
+  updatedAt: "2026-10-27T21:28:02.205Z",
 } as const satisfies Module

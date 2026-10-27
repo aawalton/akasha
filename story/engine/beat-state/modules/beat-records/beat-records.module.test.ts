@@ -160,6 +160,15 @@ test("beats joined end to end are numbered on from the beats before them", () =>
   expect(beatsJoined([HELD])).toEqual(HELD)
 })
 
+test("beats joined whose prose would not run from the first beat carry no prose", () => {
+  const whole: Beats = { beats: ["Two."], scenes: [], changes: [], memory: [] }
+  const told: Beats = { ...whole, prose: [{ beat: 1, prose: "Two told." }] }
+  const mixed = beatsJoined([whole, told])
+  expect(mixed.prose).toBeUndefined()
+  expect(beatsIn(beatsWritten(mixed))).toEqual(mixed)
+  expect(beatsJoined([told, whole]).prose).toEqual([{ beat: 1, prose: "Two told." }])
+})
+
 test("a line out of order, or a part shaped wrong, refuses the whole file", () => {
   const swapped = `${JSON.stringify({ beat: 2, event: "Two." })}\n`
   expect(beatsIn(swapped)).toEqual({ refused: "line 1 names beat 2, out of order" })
