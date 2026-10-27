@@ -67,6 +67,7 @@ export const storyPlayed = {
     "text-property/turn-undo-refused",
     "boolean-property/roleplayed",
     "module/played-quiet",
+    "relation-property/cloned-from",
   ],
   decisions: [
     {
@@ -156,7 +157,8 @@ export const storyPlayed = {
       default: "difficulty-level/normal",
     },
     { pageProperty: "file-property/chat", required: false, many: false, default: "jsonl" },
+    { pageProperty: "relation-property/cloned-from", required: false, many: false },
   ],
   createdAt: "2026-09-02T22:01:28.988Z",
-  updatedAt: "2026-10-27T20:40:18.723Z",
+  updatedAt: "2026-10-27T21:09:29.155Z",
 } as const satisfies PageType

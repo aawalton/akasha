@@ -2,6 +2,7 @@ import type { ExternalId } from "akasha/alan/collection/external/properties/exte
 import type { Story } from "akasha/story/story.page-type.types.ts"
 import type { ActionDraft } from "akasha/story/world/stories/played/properties/action-draft.text-property.types.ts"
 import type { Chat } from "akasha/story/world/stories/played/properties/chat.file-property.types.ts"
+import type { ClonedFrom } from "akasha/story/world/stories/played/properties/cloned-from.relation-property.types.ts"
 import type { CoverReroll } from "akasha/story/world/stories/played/properties/cover-reroll.relation-property.types.ts"
 import type { CoverRerollRefused } from "akasha/story/world/stories/played/properties/cover-reroll-refused.text-property.types.ts"
 import type { Difficulty } from "akasha/story/world/stories/played/properties/difficulty.relation-property.types.ts"
@@ -21,4 +22,5 @@ export type StoryPlayed = Story & {
   roleplayed?: Roleplayed
   difficulty?: Difficulty
   chat?: Chat
+  clonedFrom?: ClonedFrom
 }
