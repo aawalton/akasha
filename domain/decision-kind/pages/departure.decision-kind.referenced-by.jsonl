@@ -1841,6 +1841,7 @@
 {"propertySlug":"decision-kind","path":"code/component/properties/component-code.code-file-property.ts","id":"01a071cb-913e-7640-a55f-ecae5999419f"}
 {"propertySlug":"decision-kind","path":"code/component/properties/component-test.code-file-property.ts","id":"01a071cb-913e-712f-ae34-97ed4fde93c2"}
 {"propertySlug":"decision-kind","path":"code/container-recipe/container-recipe.page-type.ts","id":"01a06815-9efd-7003-8c8e-4c03b44672b2"}
+{"propertySlug":"decision-kind","path":"code/container-recipe/properties/built-from-root.boolean-property.ts","id":"01a17c8f-fe74-763e-8ce6-cc9aa96ff4f8"}
 {"propertySlug":"decision-kind","path":"code/data-table/data-table.page-type.ts","id":"01a0c946-b6a1-7375-926b-b5d5111118d0"}
 {"propertySlug":"decision-kind","path":"code/data-table/properties/data-table-code.code-file-property.ts","id":"01a0c946-d9cf-7224-8be1-0a9e8e6dc563"}
 {"propertySlug":"decision-kind","path":"code/data-table/properties/data-table-data.file-property.ts","id":"01a0cac3-0af1-75bc-918f-6270451170de"}

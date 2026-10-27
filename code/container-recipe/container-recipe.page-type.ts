@@ -9,12 +9,14 @@ export const containerRecipe = {
     "file-property/recipe",
     "module-property-group/composing",
     "text-property/recipe-repository",
+    "boolean-property/built-from-root",
   ],
   extends: ["page-type/akasha-service"],
   properties: [
     { pageProperty: "file-property/recipe", required: true, many: false },
     { pageProperty: "module-property-group/composing", required: false, many: false },
     { pageProperty: "text-property/recipe-repository", required: false, many: false },
+    { pageProperty: "boolean-property/built-from-root", required: false, many: false },
   ],
   loadedBy: "change-generator/group-writing",
   decisions: [
@@ -36,7 +38,8 @@ export const containerRecipe = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The folder a build is handed is the package the recipe sits in.",
+      statement:
+        "The folder a build is handed is the recipe's package, or the root where it says so.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,5 +58,5 @@ export const containerRecipe = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:24:02.557Z",
-  updatedAt: "2026-09-24T19:29:15.000Z",
+  updatedAt: "2026-10-27T08:52:54.003Z",
 } as const satisfies PageType

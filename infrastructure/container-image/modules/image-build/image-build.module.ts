@@ -29,6 +29,10 @@ export const imageBuild = {
       statement: "A container recipe is handed the package that recipe sits in.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A container recipe stating it is built from the root is handed the root.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "An image no repository is named for is built by nothing here.",
     },
@@ -51,5 +55,5 @@ export const imageBuild = {
     },
   ],
   createdAt: "2026-09-11T00:40:29.217Z",
-  updatedAt: "2026-09-25T18:14:32.000Z",
+  updatedAt: "2026-10-27T08:52:54.003Z",
 } as const satisfies Module
