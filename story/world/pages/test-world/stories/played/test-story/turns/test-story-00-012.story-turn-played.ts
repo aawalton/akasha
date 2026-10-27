@@ -11,5 +11,6 @@ export const testStory00012 = {
   action:
     "Each day I drill swordplay in the hall from morning to evening, until my swordplay reaches its next rung, for at most 10 days.",
   createdAt: "2026-10-27T23:37:05.705Z",
-  updatedAt: "2026-10-27T23:37:16.482Z",
+  updatedAt: "2026-10-27T23:38:03.457Z",
+  endsAt: "2026-11-11T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
