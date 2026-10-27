@@ -2365,7 +2365,6 @@
 {"propertySlug":"target-page-type","path":"story/world/mechanics/traits/character-trait/properties/trait-character.relation-property.ts","id":"01a0ca5d-b332-7057-9c07-e79aaa1dd975"}
 {"propertySlug":"target-page-type","path":"story/world/pages/climb/stories/written/climb/mechanics/floors/properties/climb-floor-character.relation-property.ts","id":"01a0f953-d88d-7204-8c33-e97c2c9a552b"}
 {"propertySlug":"target-page-type","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/properties/harem-hotel-floor-character.relation-property.ts","id":"01a0e822-39b4-7464-bee4-28d89d0777ae"}
-{"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-character.relation-property.ts","id":"01a0de38-6904-7c2d-8fa4-cddabf2b88c3"}
 {"propertySlug":"target-page-type","path":"story/world/properties/reading-character.relation-property.ts","id":"01a0d3cb-ae43-75ef-bbd5-cfe20827da69"}
 {"propertySlug":"view-page-type","path":"page/view/pages/characters-alphabetical.view.ts","id":"01a0c940-f015-75f6-8db4-7ac9450de7f7"}
 {"propertySlug":"view-page-type","path":"page/view/pages/characters-most-seen.view.ts","id":"01a0c940-deed-7a99-9b05-12fa214b9b30"}

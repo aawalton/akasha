@@ -8,7 +8,6 @@ export const metricCharacterPoint = {
   pluralSlug: "points",
   extends: ["page-type/metric-character-resource"],
   parts: [
-    "page-type/tower-attribute-point",
     "page-type/tower-of-nimue-free-point",
     "page-type/test-story-points",
     "page-type/gifted-unallocated-stats",
@@ -26,5 +25,5 @@ export const metricCharacterPoint = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-27T18:53:28.972Z",
-  updatedAt: "2026-10-27T19:42:51.926Z",
+  updatedAt: "2026-10-27T20:05:18.843Z",
 } as const satisfies PageType

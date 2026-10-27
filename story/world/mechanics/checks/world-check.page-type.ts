@@ -12,11 +12,6 @@ export const worldCheck = {
     "boolean-property/difficulty-moved",
     "page-type/action-difficulty",
     "page-type/outcome-tier",
-    "world-check/tower-attack-resolution",
-    "world-check/tower-attribute-check",
-    "world-check/tower-essence-absorption",
-    "world-check/the-dating-game-closeness-scoring",
-    "world-check/dragons-and-dungeons-check",
     "world-check/test-story-action-check",
     "world-check/gifted-reborn-time-passing",
     "world-check/test-story-time-passing",
@@ -81,5 +76,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-27T19:55:22.173Z",
+  updatedAt: "2026-10-27T20:05:18.843Z",
 } as const satisfies PageType

@@ -7,12 +7,12 @@ export const attunementRank = {
   definition: "a rung on the ladder of control over an element",
   pluralSlug: "ranks",
   extends: ["page-type/world-rank"],
-  parts: ["number-property/attunement-rank-cap", "page-type/tower-attunement-rank"],
+  parts: ["number-property/attunement-rank-cap"],
   properties: [
     { pageProperty: "number-property/attunement-rank-cap", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T18:46:44.278Z",
-  updatedAt: "2026-09-26T17:59:43.000Z",
+  updatedAt: "2026-10-27T20:05:18.843Z",
 } as const satisfies PageType

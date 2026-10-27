@@ -13,7 +13,6 @@ export const worldAttunement = {
     "relation-property/attunement-element",
     "relation-property/rank-of-attunement",
     "page-type/attunement-rank",
-    "page-type/tower-attunement",
   ],
   properties: [
     { pageProperty: "relation-property/attunement-character", required: true, many: false },
@@ -24,5 +23,5 @@ export const worldAttunement = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T18:46:07.587Z",
-  updatedAt: "2026-09-26T14:51:48.000Z",
+  updatedAt: "2026-10-27T20:05:18.843Z",
 } as const satisfies PageType

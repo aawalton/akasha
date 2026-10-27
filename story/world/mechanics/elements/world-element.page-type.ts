@@ -7,7 +7,7 @@ export const worldElement = {
   definition: "a kind of essence a world is made of",
   pluralSlug: "elements",
   extends: ["page-type/world-mechanic"],
-  parts: ["page-type/tower-element"],
+  parts: [],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   decisions: [
     {
@@ -18,5 +18,5 @@ export const worldElement = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T18:43:07.616Z",
-  updatedAt: "2026-09-26T14:50:55.000Z",
+  updatedAt: "2026-10-27T20:05:18.843Z",
 } as const satisfies PageType

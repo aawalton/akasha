@@ -8,7 +8,6 @@ export const playedPanel = {
   extends: ["page-type/module"],
   parts: [
     "module/panel-drawing",
-    "played-panel/tower-hud",
     "module/pool-panel",
     "played-panel/quest-list",
     "played-panel/story-so-far",
@@ -22,7 +21,6 @@ export const playedPanel = {
     "change-generator/played-panel-drawing",
     "played-panel/scene-cover",
     "played-panel/time",
-    "played-panel/tower-player-character",
     "played-panel/player-character",
     "played-panel/player-intent",
     "played-panel/difficulty",
@@ -61,5 +59,5 @@ export const playedPanel = {
     { pageProperty: "number-property/panel-position", required: true, many: false },
   ],
   createdAt: "2026-09-21T15:38:28.999Z",
-  updatedAt: "2026-10-27T19:57:56.505Z",
+  updatedAt: "2026-10-27T20:05:18.843Z",
 } as const satisfies PageType

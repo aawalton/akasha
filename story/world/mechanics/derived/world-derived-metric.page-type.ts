@@ -10,15 +10,6 @@ export const worldDerivedMetric = {
   parts: [
     "module-property-group/formula",
     "module/derived-beside",
-    "world-derived-metric/tower-health-max",
-    "world-derived-metric/tower-mana-max",
-    "world-derived-metric/tower-stamina-max",
-    "world-derived-metric/tower-initiative",
-    "world-derived-metric/tower-physical-attack",
-    "world-derived-metric/tower-physical-defence",
-    "world-derived-metric/tower-mental-attack",
-    "world-derived-metric/tower-mental-defence",
-    "world-derived-metric/tower-leveling",
     "world-derived-metric/cornerstone-wakefulness",
     "world-derived-metric/tower-of-nimue-hp",
     "world-derived-metric/tower-of-nimue-focus",
@@ -28,5 +19,5 @@ export const worldDerivedMetric = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T17:31:29.032Z",
-  updatedAt: "2026-09-28T12:55:55.000Z",
+  updatedAt: "2026-10-27T20:05:18.843Z",
 } as const satisfies PageType

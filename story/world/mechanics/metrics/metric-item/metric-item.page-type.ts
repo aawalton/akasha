@@ -6,15 +6,10 @@ export const metricItem = {
   slug: "metric-item",
   definition: "a number kept for an item",
   extends: ["page-type/world-metric"],
-  parts: [
-    "relation-property/metric-of-item",
-    "page-type/tower-item-attack",
-    "page-type/tower-item-defence",
-    "page-type/tower-item-damage",
-  ],
+  parts: ["relation-property/metric-of-item"],
   properties: [{ pageProperty: "relation-property/metric-of-item", required: true, many: false }],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T18:03:30.499Z",
-  updatedAt: "2026-09-28T12:55:55.000Z",
+  updatedAt: "2026-10-27T20:05:18.843Z",
 } as const satisfies PageType

@@ -9,7 +9,6 @@ export const worldSkill = {
   extends: ["page-type/world-mechanic"],
   parts: [
     "page-type/character-skill",
-    "page-type/tower-skill",
     "number-property/skill-mana-cost",
     "number-property/skill-duration-minutes",
     "number-property/skill-experience",
@@ -25,5 +24,5 @@ export const worldSkill = {
     { pageProperty: "relation-property/skill-attribute", required: false, many: false },
   ],
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-10-27T19:50:20.465Z",
+  updatedAt: "2026-10-27T20:05:18.843Z",
 } as const satisfies PageType

@@ -2,7 +2,6 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/ranks/character-rank/character-rank.page-type.ts","id":"01a10362-78a2-7494-92b0-5b5472ced524"}
 {"propertySlug":"extends-type","path":"story/world/pages/cornerstone/mechanics/ranks/depth/cornerstone-depth.page-type.ts","id":"01a0dee6-492c-728a-b2ed-cf137b64fbd8"}
 {"propertySlug":"extends-type","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/cornerstone-wakefulness-tier.page-type.ts","id":"01a0dee6-492e-7912-9c50-5b25d4ebb420"}
-{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.ts","id":"01a0de18-0b70-730f-a089-da22794b99f8"}
 {"propertySlug":"extends-type","path":"story/world/pages/the-beholder/mechanics/ranks/tier/the-beholder-tier.page-type.ts","id":"01a0deed-aa86-70a1-94ba-361ba920f093"}
 {"propertySlug":"import","fileName":"world-rank.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/mechanics/attunements/ranks/attunement-rank.page-type.types.ts","typed":true,"deferred":false}
@@ -16,7 +15,6 @@
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks/fairweather-rank-e.world-rank.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks/fairweather-rank-f.world-rank.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/ranks/fairweather-rank-s.world-rank.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/ranks/super-supportive-rank-a.world-rank.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/ranks/super-supportive-rank-b.world-rank.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/ranks/super-supportive-rank-c.world-rank.ts","typed":true,"deferred":false}

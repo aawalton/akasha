@@ -1,5 +1,3 @@
-{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/tower-element.page-type.ts","id":"01a0ca6d-e683-7fa9-8dc8-8be6325284d8"}
-{"propertySlug":"import","fileName":"world-element.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/tower-element.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-element.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/elements/super-supportive-ground.world-element.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-element.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/elements/super-supportive-life.world-element.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-element.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/elements/super-supportive-light.world-element.ts","typed":true,"deferred":false}

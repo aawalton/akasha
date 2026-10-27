@@ -24,12 +24,7 @@ export const uncertainty = {
       decisionKind: "decision-kind/departure",
       statement: "Uncertainty a persona manufactures is rigging, and Alan sees through it.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The Dating Game hides a persona's closeness and its progress from Alan, so he reads it from her.",
-    },
   ],
   createdAt: "2026-09-26T15:35:39.472Z",
-  updatedAt: "2026-09-26T16:51:21.000Z",
+  updatedAt: "2026-10-27T20:05:18.843Z",
 } as const satisfies Kindling

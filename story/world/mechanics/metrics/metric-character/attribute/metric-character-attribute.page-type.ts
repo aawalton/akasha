@@ -12,8 +12,6 @@ export const metricCharacterAttribute = {
     "page-type/metric-character-stat",
     "page-type/metric-character-fluency",
     "page-type/metric-character-notice",
-    "page-type/tower-attribute",
-    "page-type/tower-level",
     "page-type/cornerstone-faculty",
     "page-type/tower-of-nimue-attribute",
     "page-type/tower-of-nimue-level",
@@ -23,5 +21,5 @@ export const metricCharacterAttribute = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T16:33:19.046Z",
-  updatedAt: "2026-10-27T19:41:00.931Z",
+  updatedAt: "2026-10-27T20:05:18.843Z",
 } as const satisfies PageType

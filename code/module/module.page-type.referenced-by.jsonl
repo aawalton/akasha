@@ -2777,17 +2777,12 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/characters/modules/character-filing/character-filing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/action-intent/action-intent.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/banded-roll/banded-roll.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/tiered-roll/tiered-roll.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/time-passing/time-passing.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/modules/affinity-element/affinity-element.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/action-bar-state/action-bar-state.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/action-bar/action-bar.module.ts","typed":true,"deferred":false}
