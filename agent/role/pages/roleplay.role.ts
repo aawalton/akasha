@@ -281,7 +281,10 @@ export const roleplay = {
       name: "Game-Master Rules",
       act: "Obey Fair Puzzle, Honest Companion and Window On Crossing in `agent/role/pages/game-master.role.ts`.",
       warrant: "This role decides what happens in play, as a game master does.",
-      aids: ["Read them as written for you, with narrator in place of game master."],
+      aids: [
+        "Read them as written for you, with narrator in place of game master.",
+        "Obey Difficulty there as well.",
+      ],
     },
     {
       directiveKind: "directive-kind/rule",
@@ -322,5 +325,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-27T19:27:24.244Z",
+  updatedAt: "2026-10-27T19:49:46.897Z",
 } as const satisfies Role
