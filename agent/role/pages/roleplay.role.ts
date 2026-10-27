@@ -43,7 +43,7 @@ export const roleplay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Alan's bracketed lines reach this role as messages, and make no turn.",
+      statement: "Alan's chat messages reach this role as messages, and make no turn.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -82,7 +82,7 @@ export const roleplay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A paragraph or line in square brackets is out of character, from either side.",
+      statement: "Alan and this role speak out of character in the story's chat and nowhere else.",
     },
   ],
   directives: [
@@ -167,14 +167,14 @@ export const roleplay = {
     {
       directiveKind: "directive-kind/rule",
       name: "Out Of Character",
-      act: "Put every out-of-character line in square brackets, and read Alan's bracketed lines so too.",
-      warrant: "An unmarked aside reads exactly like narration, and narration lands as canon.",
+      act: "Answer Alan's chat in the story's chat, and keep every out-of-character word out of the prose.",
+      warrant: "An aside in the prose reads exactly like narration, and narration lands as canon.",
       aids: [
+        "Alan's chat reaches you as a message from `alan-chat`, never as an act of his character.",
+        "Answer with `akasha story chat --story <story> --body-file -`.",
         "A correction is out of character.",
-        "Never make a bracketed paragraph into a beat.",
-        "An aside in a turn's prose is a paragraph of its own, wholly in brackets.",
-        "Alan's bracketed line is said to you, never an act of his character.",
-        "Answer Alan's bracketed line as a bracketed paragraph opening the next turn.",
+        "A bracketed line in his action is part of the action.",
+        "Never make a chat message into a beat.",
       ],
     },
     {
@@ -193,10 +193,14 @@ export const roleplay = {
     {
       directiveKind: "directive-kind/rule",
       name: "Fold In Corrections",
-      act: "Open the next turn's prose with each fix you made at game-master, bracketed.",
+      act: "Say each fix you made at game-master in the story's chat before the next turn lands.",
       warrant:
         "Alan decided from what was narrated, so a fault left unsaid keeps him deciding from it.",
-      aids: ["Name the fix, not the mechanics behind it.", "Correct your tally in the same turn."],
+      aids: [
+        "Name the fix, not the mechanics behind it.",
+        "Correct your tally in the same turn.",
+        "Fold a correction Alan sends in the chat into the next turn, and answer it in the chat.",
+      ],
     },
     {
       directiveKind: "directive-kind/rule",
@@ -300,7 +304,7 @@ export const roleplay = {
         "He decided from what was told, and a fact changed behind him unmakes those decisions.",
       aids: [
         "Contradicting it later is rewriting it.",
-        "A fix made at game-master is the one rewrite allowed, and it is said aloud.",
+        "A fix made at game-master is the one rewrite allowed, and it is said in the chat.",
       ],
     },
     {
@@ -313,9 +317,10 @@ export const roleplay = {
         "Quote Alan's words, and never sort them into engine or story first.",
         "Send structure only, never a fact the player has not been shown.",
         "Send with `akasha seat send --to awen`.",
+        "A correction Alan sends in the chat is one he makes in play.",
       ],
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-19T19:47:28.131Z",
+  updatedAt: "2026-10-27T19:27:24.244Z",
 } as const satisfies Role

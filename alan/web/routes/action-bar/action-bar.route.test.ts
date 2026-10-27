@@ -71,13 +71,13 @@ test("the actions waiting are answered with the action draft a take-back left", 
   expect(await answered.json()).toEqual({ ok: true, pending: [], draft: "I open the gate" })
 })
 
-test("an action sent takes the action draft off, and feedback sent does too", async () => {
+test("an action sent takes the action draft off, bracketed or not", async () => {
   const action = effectsWith(DRAFTED)
   await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), action.effects)
   expect(action.dropped).toEqual([GAME])
-  const feedback = effectsWith(DRAFTED)
-  await answerActionBar(asked({ gameExternalId: GAME, text: "[wait]" }), feedback.effects)
-  expect(feedback.dropped).toEqual([GAME])
+  const bracketed = effectsWith(DRAFTED)
+  await answerActionBar(asked({ gameExternalId: GAME, text: "[wait]" }), bracketed.effects)
+  expect(bracketed.dropped).toEqual([GAME])
 })
 
 test("a send refused, or a send with no draft, takes nothing off", async () => {
@@ -218,32 +218,15 @@ test("a turn the pages would not make is answered as the game not listening", as
   expect(answered.status).toBe(503)
 })
 
-test("feedback is written to the game's seat from the action bar as typed", async () => {
+test("a line wrapped whole in brackets makes a turn rather than a message to the seat", async () => {
   const { effects, written, made } = effectsWith()
   const answered = await answerActionBar(
     asked({ gameExternalId: GAME, text: "[slow down a little]" }),
     effects
   )
   expect(answered.status).toBe(200)
-  expect(await answered.json()).toEqual({ ok: true, id: "agent-message-one" })
-  expect(made).toEqual([])
-  expect(written).toEqual([
-    {
-      to: SEAT,
-      from: ACTION_BAR_SENDER,
-      warrant: "announce",
-      body: "[slow down a little]",
-      startedOnDemand: true,
-    },
-  ])
-})
-
-test("feedback the pages refuse is answered as the game not listening", async () => {
-  const { effects } = effectsWith({
-    write: async () => ({ kind: "refused", detail: "no seat holds the name" }),
-  })
-  const answered = await answerActionBar(asked({ gameExternalId: GAME, text: "[wait]" }), effects)
-  expect(answered.status).toBe(503)
+  expect(made).toEqual([`${GAME}: [slow down a little]`])
+  expect(written.every((one) => one.from === STEP_SENDER)).toBe(true)
 })
 
 test("the actions waiting are answered to the player", async () => {
@@ -256,7 +239,7 @@ test("the actions waiting are answered to the player", async () => {
   expect(answered.status).toBe(200)
   expect(await answered.json()).toEqual({
     ok: true,
-    pending: [{ id: "agent-message-2", text: "[note]", kind: "feedback" }],
+    pending: [{ id: "agent-message-2", text: "[note]" }],
   })
 })
 
@@ -281,7 +264,7 @@ test("an action waiting is one from the action bar to that seat nobody has taken
     { slug: "agent-message-5", to: SEAT, from: "telnyx-sms", body: "a text\n" },
   ]
   expect(pendingFor(rows, SEAT)).toEqual([
-    { id: "agent-message-1", text: "I look", kind: "action" },
-    { id: "agent-message-3", text: "I run", kind: "action" },
+    { id: "agent-message-1", text: "I look" },
+    { id: "agent-message-3", text: "I run" },
   ])
 })

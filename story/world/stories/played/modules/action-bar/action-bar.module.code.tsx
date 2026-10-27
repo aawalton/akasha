@@ -10,10 +10,6 @@ import {
 } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import {
-  type ActionBarMessageKind,
-  classifyActionBarMessage,
-} from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
-import {
   fireContentNotification,
   notificationPermission,
   requestNotificationPermission,
@@ -52,17 +48,7 @@ const SIGNED_OUT = "Sign in to send the game an action."
 
 const SIGN_IN_AT = "/sign-in"
 
-const FEEDBACK = "feedback"
-
-const ACTION = "action"
-
-function stillMaking(making: Making): string {
-  return `The turn is still being made. Feedback in [brackets] reaches ${making.feedbackTo}.`
-}
-
-function makingPlaceholder(making: Making): string {
-  return `[Feedback for ${making.feedbackTo}]`
-}
+const STILL_MAKING = "The turn is still being made. Ask anything else in the Chat."
 
 const NOTE_LINE = "font-mono text-[12px] text-tertiary"
 
@@ -70,13 +56,10 @@ const ERROR_LINE = "font-mono text-[12px] text-red"
 
 const ROW = "flex items-baseline justify-between gap-2 font-read text-[15px] text-tertiary italic"
 
-const TAG = "shrink-0 font-mono text-[10px] text-tertiary uppercase not-italic tracking-[0.28em]"
-
-function ActionRow({ text, kind }: { text: string; kind: ActionBarMessageKind }) {
+function ActionRow({ text }: { text: string }) {
   return (
     <p className={ROW}>
       <span>{text}</span>
-      {kind === FEEDBACK ? <span className={TAG}>{FEEDBACK}</span> : null}
     </p>
   )
 }
@@ -220,8 +203,8 @@ export function ActionBar({
     const next = sendingFor(text, pending, echoes, armed)
     if (next === "none") return
     const typed = text.trim()
-    if (making !== null && classifyActionBarMessage(typed) === ACTION) {
-      setError(stillMaking(making))
+    if (making !== null) {
+      setError(STILL_MAKING)
       return
     }
     if (next === "arm") {
@@ -271,7 +254,7 @@ export function ActionBar({
   }
 
   const listed: readonly PendingAction[] =
-    making === null ? pending : [...pending, { id: making.slug, text: making.action, kind: ACTION }]
+    making === null ? pending : [...pending, { id: making.slug, text: making.action }]
   const shown = echoesShown(echoes, listed)
   const anyWaiting = listed.length + shown.length > 0
 
@@ -286,10 +269,10 @@ export function ActionBar({
       {!anyWaiting ? null : (
         <div className="flex flex-col gap-1">
           {listed.map((one) => (
-            <ActionRow key={one.id} text={one.text} kind={one.kind} />
+            <ActionRow key={one.id} text={one.text} />
           ))}
           {shown.map((echo) => (
-            <ActionRow key={echo.key} text={echo.text} kind={echo.kind} />
+            <ActionRow key={echo.key} text={echo.text} />
           ))}
         </div>
       )}
@@ -328,7 +311,7 @@ export function ActionBar({
             }}
             rows={1}
             enterKeyHint="send"
-            placeholder={making === null ? PLACEHOLDER : makingPlaceholder(making)}
+            placeholder={PLACEHOLDER}
             aria-label="Your action"
             className={`${surfaceClass(1)} max-h-48 min-h-9 flex-1 resize-none`}
           />

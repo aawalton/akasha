@@ -66,12 +66,12 @@ test("the actions waiting are read for the game named", async () => {
   const { asked, fetching } = answering(200, {
     ok: true,
     pending: [
-      { id: "agent-message-1", text: "[note]", kind: "feedback" },
-      { id: "agent-message-2", text: "odd", kind: "shout" },
+      { id: "agent-message-1", text: "[note]" },
+      { id: "agent-message-2", text: 7 },
     ],
   })
   expect(await readWaiting("the game", fetching)).toEqual({
-    pending: [{ id: "agent-message-1", text: "[note]", kind: "feedback" }],
+    pending: [{ id: "agent-message-1", text: "[note]" }],
     draft: null,
   })
   expect(asked[0]?.input).toBe(`${ACTION_BAR_AT}?game=the%20game`)

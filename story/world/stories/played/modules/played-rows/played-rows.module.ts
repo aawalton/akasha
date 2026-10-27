@@ -74,8 +74,7 @@ export const playedRows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A turn being made in a story with a narrator is said as hers, and its feedback reaches her.",
+      statement: "A turn being made in a story with a narrator is said as hers.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -114,5 +113,5 @@ export const playedRows = {
     },
   ],
   createdAt: "2026-09-14T19:22:52.305Z",
-  updatedAt: "2026-10-17T18:24:15.219Z",
+  updatedAt: "2026-10-27T19:27:24.244Z",
 } as const satisfies Module

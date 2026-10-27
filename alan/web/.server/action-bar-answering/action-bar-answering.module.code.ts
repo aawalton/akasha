@@ -27,8 +27,6 @@ import {
 import {
   ACTION_BAR_PLAYER,
   ACTION_BAR_SENDER,
-  type ActionBarMessageKind,
-  classifyActionBarMessage,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
@@ -74,8 +72,6 @@ const GAME_PARAM = "game"
 
 const ANNOUNCE: Warrant = "announce"
 
-const FEEDBACK: ActionBarMessageKind = "feedback"
-
 const NEWLINE = "\n"
 
 const NOT_SIGNED_IN = "Not authenticated."
@@ -100,7 +96,6 @@ type Row = Readonly<Record<string, unknown>>
 type PendingAction = {
   readonly id: string
   readonly text: string
-  readonly kind: ActionBarMessageKind
 }
 
 type GameSeat =
@@ -143,7 +138,7 @@ export function pendingFor(rows: readonly Row[], seat: string): readonly Pending
     if (row[FROM] !== ACTION_BAR_SENDER || slugOf(to) !== seat) continue
     if (textIn(row[CLAIMED_AT]) !== null) continue
     const text = body.endsWith(NEWLINE) ? body.slice(0, -NEWLINE.length) : body
-    held.push({ id, text, kind: classifyActionBarMessage(text) })
+    held.push({ id, text })
   }
   return held.sort((one, two) => (one.id < two.id ? -1 : one.id > two.id ? 1 : 0))
 }
@@ -287,21 +282,6 @@ async function writtenBy(effects: ActionBarEffects, stated: Stated): Promise<Wri
   }
 }
 
-async function fedBack(
-  effects: ActionBarEffects,
-  seat: string,
-  text: string,
-  answer: Answer
-): Promise<Response> {
-  const stated = { to: seat, from: ACTION_BAR_SENDER, warrant: ANNOUNCE, body: text }
-  const written = await writtenBy(effects, { ...stated, startedOnDemand: true })
-  if (written.kind === "refused") {
-    console.error(`feedback for ${seat} was not written: ${written.detail}`)
-    return answer({ ok: false, error: NOT_LISTENING }, 503)
-  }
-  return answer({ ok: true, id: written.id }, 200)
-}
-
 async function turnMade(
   effects: ActionBarEffects,
   seat: string,
@@ -358,10 +338,7 @@ export async function answerActionBar(
   const gate = await gateFor(effects, request, asked.game, answer)
   if (!gate.ok) return gate.answered
   console.info(SENT_BY_LOG, sentBySaid(gate.game, asked.text, body))
-  const sent =
-    classifyActionBarMessage(asked.text) === FEEDBACK
-      ? await fedBack(effects, gate.seat, asked.text, answer)
-      : await turnMade(effects, gate.seat, gate.game, asked.text, answer)
+  const sent = await turnMade(effects, gate.seat, gate.game, asked.text, answer)
   if (sent.ok) await draftSent(effects, gate.game)
   return sent
 }

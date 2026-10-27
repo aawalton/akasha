@@ -1,18 +1,11 @@
-import {
-  type ActionBarMessageKind,
-  classifyActionBarMessage,
-} from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
-
 export type PendingAction = {
   readonly id: string
   readonly text: string
-  readonly kind: ActionBarMessageKind
 }
 
 export type Echo = {
   readonly key: string
   readonly text: string
-  readonly kind: ActionBarMessageKind
   readonly id: string | null
   readonly sentAt: number
 }
@@ -23,10 +16,8 @@ export type TurnAwaited = { readonly turnsAt: number; readonly at: number } | nu
 
 export const TURN_AWAITED_MS = 600_000
 
-const ACTION = "action"
-
-export function awaitsTurn(sent: readonly { readonly kind: ActionBarMessageKind }[]): boolean {
-  return sent.some((one) => one.kind === ACTION)
+export function awaitsTurn(sent: readonly unknown[]): boolean {
+  return sent.length > 0
 }
 
 export function turnAwaited(
@@ -41,7 +32,7 @@ export function turnAwaited(
 }
 
 export function echoOf(key: string, text: string, sentAt: number): Echo {
-  return { key, text, kind: classifyActionBarMessage(text), id: null, sentAt }
+  return { key, text, id: null, sentAt }
 }
 
 export function echoWritten(
@@ -62,9 +53,7 @@ export function echoesSettled(
   askedAt: number,
   awaiting: boolean
 ): readonly Echo[] {
-  const kept = echoes.filter(
-    (echo) => echo.id === null || echo.sentAt > askedAt || (awaiting && echo.kind === ACTION)
-  )
+  const kept = echoes.filter((echo) => echo.id === null || echo.sentAt > askedAt || awaiting)
   return kept.length === echoes.length ? echoes : kept
 }
 

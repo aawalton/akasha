@@ -167,7 +167,6 @@ describe("playedReady and playedMaking", () => {
       action: "I open the gate",
       step: "reviewers",
       said: "The reviewers are working…",
-      feedbackTo: "the game master",
     })
   })
 
@@ -241,10 +240,10 @@ describe("playedReady and playedMaking", () => {
     expect(playedMaking([untold, read], [])?.step).toBe("world-builder")
   })
 
-  test("a turn a narrator makes is said as hers, and its feedback reaches her", () => {
+  test("a turn a narrator makes is said as hers", () => {
     const untold = turnPage({ id: "b", position: 2, stepStatus: at("world-builder") })
     const writing = playedMaking([untold, read], [seat("working")], 0, "Mari")
-    expect([writing?.said, writing?.feedbackTo]).toEqual(["Mari is writing…", "Mari"])
+    expect(writing?.said).toBe("Mari is writing…")
     const stalled = playedMaking([untold, read], [], STALL_AFTER_MS, "Mari")
     expect(stalled?.said).toBe("The turn has stalled.")
   })

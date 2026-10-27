@@ -34,15 +34,7 @@ export const actionBarAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Feedback is a message to the seat the game names as its coordinator agent.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every feedback is sent under the one name the action bar sends from.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The body of the message is the feedback as typed, brackets and all.",
+      statement: "A line wrapped whole in square brackets makes a turn as any other line does.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -80,7 +72,7 @@ export const actionBarAnswering = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Feedback still waiting is a message from the action bar to that seat which no one has claimed.",
+        "An action still waiting is a message from the action bar to that seat which no one has claimed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -100,5 +92,5 @@ export const actionBarAnswering = {
     },
   ],
   createdAt: "2026-09-24T17:47:09.572Z",
-  updatedAt: "2026-10-17T19:43:16.338Z",
+  updatedAt: "2026-10-27T19:27:24.244Z",
 } as const satisfies Module

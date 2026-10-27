@@ -1,4 +1,3 @@
-import { ACTION_BAR_MESSAGE_KINDS } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import {
   ClientBeatSchema,
   ClientHudSchema,
@@ -20,7 +19,6 @@ const ClientPendingActionSchema = z
   .object({
     text: z.string(),
     submittedAt: z.number(),
-    kind: z.enum(ACTION_BAR_MESSAGE_KINDS),
   })
   .strict()
 

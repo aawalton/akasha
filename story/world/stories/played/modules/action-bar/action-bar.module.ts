@@ -43,11 +43,12 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An action typed while a turn is being made is refused, and feedback still sends.",
+      statement:
+        "A line typed while a turn is being made is refused, and the refusal points to the Chat.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "While a turn is being made, the line names whom its feedback reaches.",
+      statement: "A line wrapped whole in square brackets is an action like any other.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -84,5 +85,5 @@ export const actionBar = {
     },
   ],
   createdAt: "2026-09-24T17:51:51.158Z",
-  updatedAt: "2026-10-17T18:24:34.400Z",
+  updatedAt: "2026-10-27T19:27:24.244Z",
 } as const satisfies Module

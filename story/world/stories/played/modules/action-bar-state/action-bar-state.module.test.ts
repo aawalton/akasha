@@ -16,12 +16,7 @@ import {
   turnReadySaid,
 } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
 
-const LOOK: PendingAction = { id: "agent-message-1", text: "I look around", kind: "action" }
-
-test("an echo of a line wrapped whole in brackets is tagged feedback", () => {
-  expect(echoOf("k", "[slow down]", 1).kind).toBe("feedback")
-  expect(echoOf("k", "I wait", 1).kind).toBe("action")
-})
+const LOOK: PendingAction = { id: "agent-message-1", text: "I look around" }
 
 test("an echo still sending is shown", () => {
   expect(echoesShown([echoOf("k", "I wait", 1)], [])).toHaveLength(1)
@@ -47,14 +42,14 @@ test("an action's echo is kept while the turn answering it is awaited", () => {
   expect(echoesSettled(echoes, 6, true)).toHaveLength(1)
 })
 
-test("feedback's echo is settled by the waiting list even while a turn is awaited", () => {
+test("a bracketed line's echo is kept while a turn is awaited, as any action's is", () => {
   const echoes = echoWritten([echoOf("k", "[slow down]", 1)], "k", "agent-message-2", 5)
-  expect(echoesSettled(echoes, 6, true)).toEqual([])
+  expect(echoesSettled(echoes, 6, true)).toHaveLength(1)
 })
 
-test("a turn is awaited over an action and not over feedback", () => {
+test("a turn is awaited over any line sent, bracketed or not", () => {
   expect(awaitsTurn([LOOK])).toBe(true)
-  expect(awaitsTurn([{ kind: "feedback" }])).toBe(false)
+  expect(awaitsTurn([echoOf("k", "[slow down]", 1)])).toBe(true)
   expect(awaitsTurn([])).toBe(false)
 })
 

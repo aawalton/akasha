@@ -24,10 +24,7 @@ export const actionBarState = {
       decisionKind: "decision-kind/departure",
       statement: "A turn is awaited from an action sent or waiting until the story has more turns.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Feedback awaits no turn.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A turn stops being awaited ten minutes after the last action was seen waiting.",
@@ -42,7 +39,7 @@ export const actionBarState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A line wrapped whole in square brackets is tagged as feedback.",
+      statement: "A line wrapped whole in square brackets is an action like any other.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -50,5 +47,5 @@ export const actionBarState = {
     },
   ],
   createdAt: "2026-09-24T17:50:10.776Z",
-  updatedAt: "2026-09-29T03:38:59.000Z",
+  updatedAt: "2026-10-27T19:27:24.244Z",
 } as const satisfies Module

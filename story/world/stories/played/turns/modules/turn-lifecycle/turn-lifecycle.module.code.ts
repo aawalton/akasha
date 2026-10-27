@@ -299,10 +299,6 @@ export function makingSaid(
   return `${STALLED}: ${WHO[step]} ${isOf(step)} not working on it.`
 }
 
-export function feedbackTo(narrator: string | null): string {
-  return narrator ?? WHO[GAME_MASTER]
-}
-
 export function linesIn(text: string): readonly string[] {
   return text
     .split(LINES)

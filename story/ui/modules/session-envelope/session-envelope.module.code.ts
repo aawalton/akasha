@@ -1,4 +1,3 @@
-import { classifyActionBarMessage } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import {
   proseWindowSegmentsIn,
   type WrittenWindow,
@@ -126,11 +125,7 @@ export function composeSessionEnvelope(
       inputs.actions ?? [],
       inputs.latestTurnAt ?? null,
       inputs.latestStateAt ?? null
-    ).map((action) => ({
-      text: action.text,
-      submittedAt: action.submittedAt,
-      kind: classifyActionBarMessage(action.text),
-    }))
+    ).map((action) => ({ text: action.text, submittedAt: action.submittedAt }))
   }
   assertEnvelopeMatchesModules(modules, envelope)
   return envelope

@@ -58,8 +58,15 @@ export const story = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A message wrapped whole in square brackets speaks to the game master rather than acts in the world.",
+      statement: "A story played's chat is where Alan and its game master speak out of character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line Alan sends from the action bar acts in the world, brackets or none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bracketed aside already in a story's prose is still drawn as an aside.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -131,5 +138,5 @@ export const story = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T14:31:17.577Z",
-  updatedAt: "2026-10-03T21:23:10.000Z",
+  updatedAt: "2026-10-27T19:27:24.244Z",
 } as const satisfies PageType

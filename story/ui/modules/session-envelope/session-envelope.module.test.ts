@@ -145,7 +145,7 @@ describe("composeSessionEnvelope", () => {
     ])
   })
 
-  test("sorts the action box and tells a bracketed note from an act", () => {
+  test("sorts the action box, a bracketed line an act like any other", () => {
     const modules: StoryDisplayModules = { actionBox: {} }
     const out = composeSessionEnvelope("A Game", modules, {
       state: null,
@@ -158,8 +158,8 @@ describe("composeSessionEnvelope", () => {
       latestTurnAt: 10,
     })
     expect(out.actionBox).toEqual([
-      { text: "swing", submittedAt: 20, kind: "action" },
-      { text: "[a note]", submittedAt: 30, kind: "feedback" },
+      { text: "swing", submittedAt: 20 },
+      { text: "[a note]", submittedAt: 30 },
     ])
   })
 })

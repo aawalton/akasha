@@ -3,7 +3,6 @@ import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-ty
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
 import {
-  feedbackTo,
   firstMoved,
   type Handed,
   type Held,
@@ -100,7 +99,6 @@ test("a turn a narrator makes names her writing it, and says its stall bare", ()
   expect(makingSaid("world-builder", false, STALL_AFTER_MS)).toBe(
     "The turn has stalled: the world builder is not working on it."
   )
-  expect([feedbackTo("Mari"), feedbackTo(null)]).toEqual(["Mari", "the game master"])
 })
 
 const STEPPED = ["mechanics", "inventory"]

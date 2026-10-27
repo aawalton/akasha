@@ -15,7 +15,6 @@ import type {
 import { composeSessionEnvelope } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
 import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
-  feedbackTo,
   makingSaid,
   PLAYER,
   stepIn,
@@ -119,7 +118,6 @@ export type Making = {
   readonly action: string
   readonly step: TurnStep
   readonly said: string | null
-  readonly feedbackTo: string
 }
 
 const PLAYED_ROLEPLAYED_KEY = "roleplayed"
@@ -176,7 +174,6 @@ export function playedMaking(
     action: typeof action === "string" ? action : "",
     step,
     said: saidOver(step, seats, quietMs, narrator),
-    feedbackTo: feedbackTo(narrator),
   }
 }
 

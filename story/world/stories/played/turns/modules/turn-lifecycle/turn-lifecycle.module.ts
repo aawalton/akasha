@@ -48,11 +48,7 @@ export const turnLifecycle = {
       decisionKind: "decision-kind/departure",
       statement: "A stall in a turn a narrator makes names no step and no seat.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Feedback on a turn reaches its narrator, or the game master where none narrates.",
-    },
   ],
   createdAt: "2026-09-26T17:28:05.792Z",
-  updatedAt: "2026-10-17T18:23:12.223Z",
+  updatedAt: "2026-10-27T19:27:24.244Z",
 } as const satisfies Module

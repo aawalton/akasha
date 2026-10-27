@@ -1,7 +1,6 @@
 import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import type { SendCause } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
-import { ACTION_BAR_MESSAGE_KINDS } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import type { PlayerActionInput } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import type { PendingAction } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
 
@@ -67,8 +66,7 @@ function pendingIn(held: unknown): readonly PendingAction[] | null {
     const said = one as Readonly<Record<string, unknown>>
     const id = textIn(said["id"])
     const text = textIn(said["text"])
-    const kind = ACTION_BAR_MESSAGE_KINDS.find((named) => named === said["kind"])
-    if (id !== null && text !== null && kind !== undefined) found.push({ id, text, kind })
+    if (id !== null && text !== null) found.push({ id, text })
   }
   return found
 }

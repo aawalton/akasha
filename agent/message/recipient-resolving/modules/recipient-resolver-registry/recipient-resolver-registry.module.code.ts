@@ -165,7 +165,7 @@ function gameSeatSpec(
 
 function narrating(start: FirstStart | null, seat: string, story: string): FirstStart | null {
   if (start === null) return null
-  const prompt = `You are \`${seat}\`, and you narrate the played story \`${story}\`. Alan plays it on the play screen alone, so each notice of its turns and each bracketed line he sends reaches you as a message.`
+  const prompt = `You are \`${seat}\`, and you narrate the played story \`${story}\`. Alan plays it on the play screen alone, so each notice of its turns and each line he says in its chat reaches you as a message.`
   return { ...start, startMode: SEAT_MODE_HEADLESS, prompt }
 }
 
