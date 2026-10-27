@@ -17,6 +17,11 @@ export const domRegistering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The abort signal the runtime came with is kept too, since its fetch refuses another.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The components one test rendered are taken away before the next test runs.",
     },
     {
@@ -25,5 +30,5 @@ export const domRegistering = {
     },
   ],
   createdAt: "2026-09-03T03:38:29.168Z",
-  updatedAt: "2026-09-15T18:21:01.000Z",
+  updatedAt: "2026-10-27T07:28:17.980Z",
 } as const satisfies Module
