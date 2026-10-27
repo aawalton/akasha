@@ -80543,7 +80543,7 @@
     "74": 1,
     "75": 1,
     "76": 1,
-    "80": 1,
+    "80": 3,
     "87": 3,
     "91": 3,
     "93": 2,
@@ -80955,6 +80955,7 @@
     "574": 1,
     "575": 1,
     "576": 2,
+    "577": 1,
     "578": 1,
     "579": 1,
     "580": 1,
@@ -80975,6 +80976,7 @@
     "598": 1,
     "599": 1,
     "600": 1,
+    "601": 1,
     "602": 3,
     "603": 3,
     "604": 3,
@@ -90752,7 +90754,7 @@
             "name": "Concealed Weapon",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -90788,7 +90790,7 @@
             "name": "Impale",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -90806,7 +90808,7 @@
             "name": "Soul Harvest",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -90824,7 +90826,7 @@
             "name": "Merciless Resolve",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -90982,7 +90984,7 @@
             "name": "Swallow Soul",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -92132,7 +92134,7 @@
             "name": "Pragmatic Fatecarver",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -92150,7 +92152,7 @@
             "name": "Tentacular Dread",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -92168,7 +92170,7 @@
             "name": "Fulminating Rune",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -92186,7 +92188,7 @@
             "name": "Recuperative Treatise",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -92204,7 +92206,7 @@
             "name": "The Languid Eye",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
