@@ -193,6 +193,11 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A write appending lines is sent again as any write is, since an append lands once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A line appended beside a page is sent through this module.",
     },
     {
@@ -227,5 +232,5 @@ export const pageCalling = {
     },
   ],
   createdAt: "2026-09-01T17:34:08.092Z",
-  updatedAt: "2026-10-27T21:01:01.319Z",
+  updatedAt: "2026-10-27T22:43:01.523Z",
 } as const satisfies Module

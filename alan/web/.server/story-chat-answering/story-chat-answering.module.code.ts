@@ -36,14 +36,14 @@ const NOT_TOLD = "Your message is kept, but it did not reach the game master. Se
 export type Appended = { readonly ok: true } | { readonly refused: string }
 
 export type ChatEffects = ActionBarEffects & {
-  readonly append: (game: string, line: string) => Promise<Appended>
+  readonly append: (game: string, line: string, id: string) => Promise<Appended>
 }
 
 type Reading = typeof readingFor
 
 type Writing = typeof writingFor
 
-type Placed = { readonly path: string; readonly stated: boolean }
+type Placed = { readonly path: string; readonly stated: boolean; readonly at: string }
 
 const STATED = `${chat.propertySlug}: "${HELD}"`
 
@@ -57,7 +57,7 @@ async function chatPathOf(
   if (page === undefined) return { refused: `no story played is named \`${game}\`` }
   const at = besideAt(page.path, chat.propertySlug, HELD)
   if (at === null) return { refused: `\`${page.path}\` can hold no chat beside it` }
-  return { path: at, stated: page.content?.includes(STATED) === true }
+  return { path: at, stated: page.content?.includes(STATED) === true, at: read.at }
 }
 
 async function statedOn(game: string, read: string, writing: Writing): Promise<Appended> {
@@ -80,6 +80,7 @@ async function statedOn(game: string, read: string, writing: Writing): Promise<A
 export async function appendedTo(
   game: string,
   line: string,
+  id: string,
   reading: Reading = readingFor,
   writing: Writing = writingFor
 ): Promise<Appended> {
@@ -88,22 +89,28 @@ export async function appendedTo(
   const wrote = await writing({
     writer: WRITER,
     message: `Alan says a message in the chat of ${game}`,
-    appends: [{ path: placed.path, content: line }],
+    appends: [{ path: placed.path, content: line, id }],
   })
   if ("refused" in wrote) return wrote
-  if (wrote.commit === null) {
+  const held = wrote.held?.includes(id) === true
+  if (wrote.commit === null && !held) {
     return { refused: `\`${placed.path}\` landed no commit, and a line was meant` }
   }
-  return placed.stated ? { ok: true } : await statedOn(game, wrote.commit, writing)
+  return placed.stated ? { ok: true } : await statedOn(game, wrote.commit ?? placed.at, writing)
 }
 
 function chatEffects(): ChatEffects {
-  return { ...defaultEffects(), append: (game, line) => appendedTo(game, line) }
+  return { ...defaultEffects(), append: (game, line, id) => appendedTo(game, line, id) }
 }
 
-async function keptBy(effects: ChatEffects, game: string, line: string): Promise<Appended> {
+async function keptBy(
+  effects: ChatEffects,
+  game: string,
+  line: string,
+  id: string
+): Promise<Appended> {
   try {
-    return await effects.append(game, line)
+    return await effects.append(game, line, id)
   } catch (thrown) {
     return { refused: saidBy(thrown) }
   }
@@ -132,11 +139,9 @@ export async function answerStoryChat(
   const gate = await gateFor(effects, request, asked.game, answer)
   if (!gate.ok) return gate.answered
   const text = asked.text.trim()
-  const kept = await keptBy(
-    effects,
-    gate.game,
-    chatLine(CHAT_PLAYER, text, new Date().toISOString())
-  )
+  const id = crypto.randomUUID()
+  const line = chatLine(CHAT_PLAYER, text, new Date().toISOString(), id)
+  const kept = await keptBy(effects, gate.game, line, id)
   if ("refused" in kept) {
     console.error(`the chat of ${gate.game} kept no message: ${kept.refused}`)
     return answer({ ok: false, error: NOT_KEPT }, 503)

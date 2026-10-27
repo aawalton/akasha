@@ -7,6 +7,7 @@ import type { Asking } from "akasha/change/runner/pages/mechanical-change-runnin
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type {
+  Append,
   Asked,
   Kept,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
@@ -20,6 +21,8 @@ const WRITTEN_BY = "Written-by: "
 const APART = "\n\n---\n\n"
 
 const AUTHORED = /^[^<>]+ <[^<>@\s]+@[^<>\s]+>$/
+
+const ID_LEAST = 16
 
 export const PUT = `${changeMechanicalFile.slug}/${addIfNotPresentFile.slug}` as const
 
@@ -72,7 +75,56 @@ export function refusalIn(asked: Asked): string | null {
     }
     if (one.split(PARTED_BY).includes(ABOVE)) return `\`${one}\` reaches above the root`
   }
+  for (const one of asked.appends ?? []) {
+    if (one.id.length < ID_LEAST) {
+      return `an append's \`id\` is ${ID_LEAST} characters or more, so no other line holds it by chance`
+    }
+    if (!one.content.includes(one.id)) {
+      return "an append carries its `id` in its `content`, so the file itself says the append landed"
+    }
+  }
   return null
+}
+
+export function appendsIn(given: unknown): readonly Append[] | string {
+  if (!Array.isArray(given)) return "`appends` is a list"
+  const appends: Append[] = []
+  for (const each of given) {
+    if (typeof each !== "object" || each === null) return "`appends` holds JSON objects"
+    const [path, content, id] = ["path", "content", "id"].map((key) => Reflect.get(each, key))
+    if (typeof path !== "string") return "an append states its `path` as a string"
+    if (typeof content !== "string") return "an append states its `content` as a string"
+    if (typeof id !== "string") {
+      return "an append names itself as `id`, a string, so it lands once however often it is sent"
+    }
+    appends.push({ path, content, id })
+  }
+  return appends
+}
+
+export function unheldIn(
+  batch: readonly Asked[],
+  bodyAt: (path: string) => string | null
+): { readonly batch: readonly Asked[]; readonly held: readonly string[] } {
+  const bodies = new Map<string, string | null>()
+  const seen = new Set<string>()
+  const held: string[] = []
+  const landed = (one: Append): boolean => {
+    if (seen.has(one.id)) return true
+    seen.add(one.id)
+    if (!bodies.has(one.path)) bodies.set(one.path, bodyAt(one.path))
+    return bodies.get(one.path)?.includes(one.id) === true
+  }
+  const unheld = batch.map((asked) => {
+    if (asked.appends === undefined) return asked
+    const appends = asked.appends.filter((one) => {
+      if (!landed(one)) return true
+      held.push(one.id)
+      return false
+    })
+    return { ...asked, appends }
+  })
+  return { batch: unheld, held }
 }
 
 export function editsIn(asked: Asked): readonly Edit[] {

@@ -10,8 +10,13 @@ export type ChatSaid = {
 
 const BREAK = "\n"
 
-export function chatLine(from: string, body: string, at: string): string {
-  return `${JSON.stringify({ at, from, body })}${BREAK}`
+export function chatLine(
+  from: string,
+  body: string,
+  at: string,
+  id: string = crypto.randomUUID()
+): string {
+  return `${JSON.stringify({ id, at, from, body })}${BREAK}`
 }
 
 function saidIn(line: string): ChatSaid | null {

@@ -194,6 +194,17 @@ test("an act that throws fails its own caller and leaves the next act running", 
   expect(await next).toBe("ran")
 })
 
+test("an append sent again after it landed lands nothing, and is answered as held", async () => {
+  const chat = "akasha/a.chat.jsonl"
+  const id = "0123-4567-89ab-cdef"
+  const content = `{"id":"${id}","body":"hi"}\n`
+  const root = rootHolding(chat, content)
+  const said = await landedIn(root, [asking({ appends: [{ path: chat, content, id }] })])
+  expect(said).toEqual({ commit: null, wrote: [], took: [], held: [id] })
+  expect(readFileSync(join(root, chat), "utf8")).toBe(content)
+  cleared(root)
+})
+
 test("a value kept again merges onto what the page already keeps", async () => {
   const root = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
   const at = "akasha/a.thing.ts"

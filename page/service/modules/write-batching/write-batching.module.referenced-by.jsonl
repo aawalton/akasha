@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"write-batching.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"write-batching.module.code.ts","path":"page/service/modules/call-reading/call-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"write-batching.module.code.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"write-batching.module.code.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"write-batching.module.code.ts","path":"page/service/modules/page-writing/page-writing.module.test.ts","typed":false,"deferred":false}

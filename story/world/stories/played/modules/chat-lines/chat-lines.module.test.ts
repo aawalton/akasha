@@ -14,6 +14,12 @@ test("a line written is read back as said", () => {
   ])
 })
 
+test("a line carries the id it was written under, or one made for it", () => {
+  const id = "0123-4567-89ab-cdef"
+  expect(chatLine("alan", "hi", AT, id)).toContain(`"id":"${id}"`)
+  expect(chatLine("alan", "hi", AT)).not.toBe(chatLine("alan", "hi", AT))
+})
+
 test("a chat with no file reads as nothing said", () => {
   expect(chatSaidIn(null)).toEqual([])
 })

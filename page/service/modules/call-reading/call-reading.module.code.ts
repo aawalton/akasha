@@ -8,6 +8,7 @@ import type {
   Asked as Sought,
 } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
 import type {
+  Append,
   Asked,
   Kept,
   Put,
@@ -16,6 +17,7 @@ import {
   TESTS_RUN,
   type Test,
 } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
+import { appendsIn } from "akasha/page/service/modules/write-batching/write-batching.module.code.ts"
 import {
   type Claim,
   claimsIn,
@@ -237,14 +239,14 @@ function namingsIn(given: unknown): readonly Naming[] | string {
   return pages
 }
 
-function putsIn(given: unknown, key: string, one: string): readonly Put[] | string {
-  if (!Array.isArray(given)) return `\`${key}\` is a list`
+function putsIn(given: unknown): readonly Put[] | string {
+  if (!Array.isArray(given)) return "`puts` is a list"
   const puts: Put[] = []
   for (const each of given) {
     const put = objectIn(each)
-    if (put === null) return `\`${key}\` holds JSON objects`
-    if (typeof put.path !== "string") return `a ${one} states its \`path\` as a string`
-    if (typeof put.content !== "string") return `a ${one} states its \`content\` as a string`
+    if (put === null) return "`puts` holds JSON objects"
+    if (typeof put.path !== "string") return "a put states its `path` as a string"
+    if (typeof put.content !== "string") return "a put states its `content` as a string"
     puts.push({ path: put.path, content: put.content })
   }
   return puts
@@ -261,7 +263,7 @@ export function writeIn(given: unknown): Written {
     writer: string
     message: string
     puts?: readonly Put[]
-    appends?: readonly Put[]
+    appends?: readonly Append[]
     removes?: readonly string[]
     kept?: readonly Kept[]
     read?: string
@@ -273,12 +275,12 @@ export function writeIn(given: unknown): Written {
     asked.claims = claims
   }
   if (held.puts !== undefined) {
-    const puts = putsIn(held.puts, "puts", "put")
+    const puts = putsIn(held.puts)
     if (typeof puts === "string") return { refused: puts }
     asked.puts = puts
   }
   if (held.appends !== undefined) {
-    const appends = putsIn(held.appends, "appends", "append")
+    const appends = appendsIn(held.appends)
     if (typeof appends === "string") return { refused: appends }
     asked.appends = appends
   }

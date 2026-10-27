@@ -22,6 +22,7 @@ import type {
   ShapedEvery,
 } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
 import type {
+  Append,
   Kept,
   Put,
   Wrote,
@@ -88,7 +89,7 @@ export type Writing = {
   readonly writer: string
   readonly message: string
   readonly puts?: readonly Put[]
-  readonly appends?: readonly Put[]
+  readonly appends?: readonly Append[]
   readonly removes?: readonly string[]
   readonly kept?: readonly Kept[]
   readonly pages?: readonly Naming[]

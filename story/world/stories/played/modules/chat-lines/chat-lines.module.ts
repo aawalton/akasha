@@ -14,6 +14,14 @@ export const chatLines = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every line carries an id, so a line sent again is known as the same line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line written under no id named is given one made for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A line that is no message is passed over rather than thrown on.",
     },
     {
@@ -22,5 +30,5 @@ export const chatLines = {
     },
   ],
   createdAt: "2026-10-27T19:21:46.037Z",
-  updatedAt: "2026-10-27T19:21:46.037Z",
+  updatedAt: "2026-10-27T22:43:01.523Z",
 } as const satisfies Module

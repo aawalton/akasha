@@ -11,6 +11,7 @@ import {
   WRITER,
 } from "akasha/page/service/modules/page-writing/page-writing.module.test-fixtures.ts"
 import {
+  appendsIn,
   editsIn,
   keptFilesIn,
   keptIn,
@@ -20,8 +21,23 @@ import {
   pathsOver,
   refusalIn,
   thrownWhy,
+  unheldIn,
   wroteBy,
 } from "akasha/page/service/modules/write-batching/write-batching.module.code.ts"
+
+const CHAT = "akasha/a.chat.jsonl"
+
+const ONE = "0000-one-0000-one"
+
+const TWO = "0000-two-0000-two"
+
+function line(id: string): {
+  readonly path: string
+  readonly content: string
+  readonly id: string
+} {
+  return { path: CHAT, content: `{"id":"${id}"}\n`, id }
+}
 
 test("a write naming no writer is refused", () => {
   expect(refusalIn(asking({ writer: "", puts: [{ path: "akasha/a.ts", content: "" }] }))).toContain(
@@ -107,26 +123,68 @@ test("two writes in one batch reaching one path keep the later one", () => {
 })
 
 test("lines appended land as an append-lines edit and are paths of the write", () => {
-  const held = asking({ appends: [{ path: "akasha/a.chat.jsonl", content: "one\n" }] })
-  expect(pathsIn(held)).toEqual(["akasha/a.chat.jsonl"])
+  const held = asking({ appends: [line(ONE)] })
+  expect(refusalIn(held)).toBe(null)
+  expect(pathsIn(held)).toEqual([CHAT])
   expect(editsIn(held)).toEqual([
     {
       at: `${changeMechanicalFileContent.slug}/${appendLines.slug}`,
-      given: { at: "akasha/a.chat.jsonl", content: "one\n" },
+      given: { at: CHAT, content: line(ONE).content },
     },
   ])
-  expect(wroteBy(editsIn(held), []).wrote).toEqual(["akasha/a.chat.jsonl"])
+  expect(wroteBy(editsIn(held), []).wrote).toEqual([CHAT])
 })
 
 test("two writes in one batch appending to one file both land, in order", () => {
-  const edits = latestIn([
-    asking({ appends: [{ path: "akasha/a.chat.jsonl", content: "one\n" }] }),
-    asking({ appends: [{ path: "akasha/a.chat.jsonl", content: "two\n" }] }),
-  ])
+  const edits = latestIn([asking({ appends: [line(ONE)] }), asking({ appends: [line(TWO)] })])
   expect(edits.map((one) => one.given)).toEqual([
-    { at: "akasha/a.chat.jsonl", content: "one\n" },
-    { at: "akasha/a.chat.jsonl", content: "two\n" },
+    { at: CHAT, content: line(ONE).content },
+    { at: CHAT, content: line(TWO).content },
   ])
+})
+
+test("an append naming no id is refused, so no append can land twice when it is sent again", () => {
+  expect(appendsIn([{ path: CHAT, content: "one\n" }])).toContain("names itself as `id`")
+  expect(appendsIn([line(ONE)])).toEqual([line(ONE)])
+})
+
+test("an append whose id is short enough to be met by chance is refused", () => {
+  const said = refusalIn(asking({ appends: [{ path: CHAT, content: '{"id":"a"}\n', id: "a" }] }))
+  expect(said).toContain("16 characters or more")
+})
+
+test("an append whose content does not carry its id is refused", () => {
+  const said = refusalIn(asking({ appends: [{ path: CHAT, content: "one\n", id: ONE }] }))
+  expect(said).toContain("carries its `id` in its `content`")
+})
+
+test("an append the file already holds is dropped and answered as held", () => {
+  const { batch, held } = unheldIn(
+    [asking({ appends: [line(ONE), line(TWO)] })],
+    () => line(ONE).content
+  )
+  expect(held).toEqual([ONE])
+  expect(latestIn(batch).map((one) => one.given)).toEqual([
+    { at: CHAT, content: line(TWO).content },
+  ])
+})
+
+test("an append sent twice in one batch lands once", () => {
+  const { batch, held } = unheldIn(
+    [asking({ appends: [line(ONE)] }), asking({ appends: [line(ONE)] })],
+    () => null
+  )
+  expect(held).toEqual([ONE])
+  expect(latestIn(batch).length).toBe(1)
+})
+
+test("a file is read once however many appends a batch makes to it", () => {
+  const read: string[] = []
+  unheldIn([asking({ appends: [line(ONE), line(TWO)] })], (path) => {
+    read.push(path)
+    return ""
+  })
+  expect(read).toEqual([CHAT])
 })
 
 test("a page a value is kept for is a path of the write", () => {

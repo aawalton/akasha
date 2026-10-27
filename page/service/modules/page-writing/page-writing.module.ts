@@ -33,6 +33,15 @@ export const pageWriting = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Whether a file already holds an append is judged against the disk as the batch lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write whose every append is held already lands no commit, and names those ids.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Every body a write puts and every path a write takes away lands through a change page.",
     },
     {
@@ -239,5 +248,5 @@ export const pageWriting = {
     },
   ],
   createdAt: "2026-09-01T02:13:15.909Z",
-  updatedAt: "2026-10-27T21:01:01.319Z",
+  updatedAt: "2026-10-27T22:43:01.523Z",
 } as const satisfies Module

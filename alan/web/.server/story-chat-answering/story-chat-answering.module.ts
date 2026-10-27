@@ -34,7 +34,16 @@ export const storyChatAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A write landing no commit is no append, and the message is answered as not kept.",
+      statement:
+        "A message's line is appended under an id chosen once, for the line and its appends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line the chat held already, from an earlier try, is answered as kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other write landing no commit is no append, and is answered as not kept.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -50,5 +59,5 @@ export const storyChatAnswering = {
     },
   ],
   createdAt: "2026-10-27T19:21:46.037Z",
-  updatedAt: "2026-10-27T21:01:01.319Z",
+  updatedAt: "2026-10-27T22:43:01.523Z",
 } as const satisfies Module

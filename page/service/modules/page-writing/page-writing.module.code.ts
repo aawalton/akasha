@@ -23,6 +23,7 @@ import {
   messageIn,
   refusalIn,
   thrownWhy,
+  unheldIn,
   wroteBy,
 } from "akasha/page/service/modules/write-batching/write-batching.module.code.ts"
 import {
@@ -36,6 +37,8 @@ export type Put = {
   readonly path: string
   readonly content: string
 }
+
+export type Append = Put & { readonly id: string }
 
 export type Kept = {
   readonly path: string
@@ -52,7 +55,7 @@ export type Asked = {
   readonly writer: string
   readonly message: string
   readonly puts?: readonly Put[]
-  readonly appends?: readonly Put[]
+  readonly appends?: readonly Append[]
   readonly removes?: readonly string[]
   readonly kept?: readonly Kept[]
   readonly keptPuts?: readonly Put[]
@@ -67,6 +70,7 @@ export type Wrote =
       readonly commit: string | null
       readonly wrote: readonly string[]
       readonly took: readonly string[]
+      readonly held?: readonly string[]
     }
   | { readonly refused: string }
 
@@ -130,17 +134,21 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<F
   return landed
 }
 
-async function landedUnclaimed(root: string, batch: readonly Asked[]): Promise<Faulted<Wrote>> {
-  const first = batch[0]
+async function landedUnclaimed(root: string, given: readonly Asked[]): Promise<Faulted<Wrote>> {
+  const first = given[0]
   if (first === undefined)
     return { refused: "a batch carries at least one write", fault: "service" }
   const done: string[] = []
   try {
+    const { batch, held } = unheldIn(given, (path) => textOf(diskAt(root, path)))
     const kept = keptIn(batch)
     const changes = latestIn(batch)
     const besideWritten = (): Promise<readonly string[]> =>
       checkoutChanging(() => beside(root, batch, kept))
-    if (changes.length === 0) return { commit: null, wrote: await besideWritten(), took: [] }
+    const heldSaid = held.length === 0 ? {} : { held }
+    if (changes.length === 0) {
+      return { commit: null, wrote: await besideWritten(), took: [], ...heldSaid }
+    }
     const asked = changes
     const said = await runMechanicalChange(root, asked, messageIn(batch), {
       writer: first.writer,
@@ -153,9 +161,10 @@ async function landedUnclaimed(root: string, batch: readonly Asked[]): Promise<F
       commit: said.commit,
       wrote: [...answered.wrote, ...(await besideWritten())],
       took: answered.took,
+      ...heldSaid,
     }
   } catch (thrown) {
-    return { refused: thrownWhy(batch, thrown, done), fault: "service" }
+    return { refused: thrownWhy(given, thrown, done), fault: "service" }
   }
 }
 

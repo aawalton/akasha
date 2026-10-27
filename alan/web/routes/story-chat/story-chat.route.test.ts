@@ -102,13 +102,18 @@ test("a browser's preflight is answered with nothing to do", async () => {
   expect(answered.status).toBe(204)
 })
 
+const ID = "0123-4567-89ab-cdef"
+
+const LINE = `{"id":"${ID}","at":"u","from":"alan","body":"two"}\n`
+
 test("a message is appended to the chat, and the first one states the chat on its page", async () => {
-  const appends: { readonly path: string; readonly content: string }[] = []
+  const appends: { readonly path: string; readonly content: string; readonly id: string }[] = []
   const stated: unknown[] = []
-  const line = '{"at":"u","from":"alan","body":"two"}\n'
+  const line = LINE
   const said = await appendedTo(
     GAME,
     line,
+    ID,
     async () => ({ at: "c1", bodies: [{ path: PAGE, content: "" }], unplaced: [] }),
     async (writing) => {
       appends.push(...(writing.appends ?? []))
@@ -117,16 +122,46 @@ test("a message is appended to the chat, and the first one states the chat on it
     }
   )
   expect(said).toEqual({ ok: true })
-  expect(appends).toEqual([{ path: CHAT, content: line }])
+  expect(appends).toEqual([{ path: CHAT, content: line, id: ID }])
   expect(stated).toEqual([{ chat: "jsonl" }])
 })
 
 test("an append whose write lands no commit is refused rather than answered as kept", async () => {
   const said = await appendedTo(
     GAME,
-    '{"at":"u","from":"alan","body":"two"}\n',
+    LINE,
+    ID,
     async () => ({ at: "c1", bodies: [{ path: PAGE, content: 'chat: "jsonl"' }], unplaced: [] }),
     async () => ({ commit: null, wrote: [], took: [] })
   )
   expect("refused" in said).toBe(true)
+})
+
+test("an append the chat held from an earlier try is answered as kept, and lands no line", async () => {
+  const said = await appendedTo(
+    GAME,
+    LINE,
+    ID,
+    async () => ({ at: "c1", bodies: [{ path: PAGE, content: 'chat: "jsonl"' }], unplaced: [] }),
+    async () => ({ commit: null, wrote: [], took: [], held: [ID] })
+  )
+  expect(said).toEqual({ ok: true })
+})
+
+test("each message is appended under the id its line carries", async () => {
+  const ids: string[] = []
+  const { effects, appended } = effectsWith({
+    append: async (_game, line, id): Promise<Appended> => {
+      appended.push(line)
+      ids.push(id)
+      return { ok: true }
+    },
+  })
+  await answerStoryChat(asked({ gameExternalId: GAME, text: "one" }), effects)
+  await answerStoryChat(asked({ gameExternalId: GAME, text: "two" }), effects)
+  expect(ids.length).toBe(2)
+  expect(ids[0]).not.toBe(ids[1])
+  ids.forEach((id, at) => {
+    expect(appended[at]).toContain(`"id":"${id}"`)
+  })
 })
