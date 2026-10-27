@@ -301,6 +301,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.ts","id":"01a06949-b281-7b6f-900b-fa221e76dbd9"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.ts","id":"01a06949-b281-701f-825a-4790c9603a69"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/beside/seat-beside.module.ts","id":"01a06949-b281-7c3a-b172-8f45292e9e17"}
+{"propertySlug":"decision-kind","path":"agent/seat/modules/composer-box/composer-box.module.ts","id":"01a17efa-321b-7be4-b8c1-d98795f47f0f"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/composer/seat-composer.module.ts","id":"01a0d495-78d5-7ce9-aae8-5a65074332ad"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/conversation-hearing/seat-conversation-hearing.module.ts","id":"01a17006-627a-7d02-aa55-f557d03b7e20"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/notice-choosing/seat-notice-choosing.module.ts","id":"01a16ff8-661e-766e-b2d7-8ce3fc97620b"}

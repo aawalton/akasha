@@ -1,11 +1,13 @@
 "use client"
 
+import {
+  COMPOSER_TEXT,
+  ComposerBox,
+  ComposerSend,
+} from "akasha/agent/seat/modules/composer-box/composer-box.module.code.tsx"
 import { useTypingBeat } from "akasha/agent/seat/modules/typing/seat-typing.module.code.tsx"
 import type { Voice } from "akasha/agent/seat/voice/modules/live/seat-voice-live.module.code.ts"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
-import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import {
   sendsNow,
   Textarea,
@@ -14,7 +16,7 @@ import {
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { useCoarsePointer } from "akasha/page/ui/block-editor/modules/use-coarse-pointer/use-coarse-pointer.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { ArrowUp, LoaderCircle, Mic, MicOff, Plus, X } from "lucide-react"
+import { LoaderCircle, Mic, MicOff, Plus, X } from "lucide-react"
 import { type ChangeEvent, useCallback, useEffect, useRef, useState } from "react"
 
 const DRAFT_AT = "seat-composer-draft"
@@ -368,7 +370,6 @@ export function SeatComposer({
     },
     [touch, returnSends]
   )
-  const plane = useSurface()
   return (
     <div className="mx-auto flex w-full max-w-[710px] flex-col gap-2 px-4 py-2">
       {voice?.state.kind === "failed" && (
@@ -376,19 +377,46 @@ export function SeatComposer({
           Voice stopped: {voice.state.why}
         </p>
       )}
-      <div
-        className={cn(
-          "flex flex-col gap-1 rounded-[1.75rem] border border-primary/10 p-2 transition-colors focus-within:border-primary/20",
-          surfaceClass(plane + 1)
-        )}
+      <ComposerBox
+        above={
+          attached.length > 0 && (
+            <ul className="flex gap-3 overflow-x-auto px-1 pt-1.5" aria-label="Images attached">
+              {attached.map((one) => (
+                <Thumbnail key={one.key} one={one} remove={remove} />
+              ))}
+            </ul>
+          )
+        }
+        start={
+          <>
+            <input
+              ref={picker}
+              type="file"
+              accept="image/*"
+              multiple
+              hidden
+              aria-label="Images to attach"
+              onChange={add}
+            />
+            <Button
+              variant="tertiary"
+              size="icon-lg"
+              className="rounded-full border border-primary/10"
+              aria-label="Attach an image"
+              disabled={attached.length >= IMAGES_HELD}
+              onClick={() => picker.current?.click()}
+            >
+              <Plus className="size-5" />
+            </Button>
+          </>
+        }
+        end={
+          <>
+            {voice !== undefined && <VoiceButton voice={voice} />}
+            <ComposerSend disabled={empty} onClick={send} />
+          </>
+        }
       >
-        {attached.length > 0 && (
-          <ul className="flex gap-3 overflow-x-auto px-1 pt-1.5" aria-label="Images attached">
-            {attached.map((one) => (
-              <Thumbnail key={one.key} one={one} remove={remove} />
-            ))}
-          </ul>
-        )}
         <Textarea
           ref={boxed}
           onChange={(event) => {
@@ -406,43 +434,9 @@ export function SeatComposer({
           enterKeyHint="enter"
           placeholder="Message"
           aria-label="Message to this seat"
-          className="max-h-48 min-h-10 resize-none rounded-none bg-transparent px-2 py-1.5 shadow-none focus-visible:[outline:none]"
+          className={COMPOSER_TEXT}
         />
-        <div className="flex items-center gap-2">
-          <input
-            ref={picker}
-            type="file"
-            accept="image/*"
-            multiple
-            hidden
-            aria-label="Images to attach"
-            onChange={add}
-          />
-          <Button
-            variant="tertiary"
-            size="icon-lg"
-            className="rounded-full border border-primary/10"
-            aria-label="Attach an image"
-            disabled={attached.length >= IMAGES_HELD}
-            onClick={() => picker.current?.click()}
-          >
-            <Plus className="size-5" />
-          </Button>
-          <div className="ml-auto flex items-center gap-2">
-            {voice !== undefined && <VoiceButton voice={voice} />}
-            <Button
-              variant="accent"
-              size="icon-lg"
-              className="rounded-full bg-accent text-surface-0"
-              aria-label="Send"
-              disabled={empty}
-              onClick={send}
-            >
-              <ArrowUp className="size-5" />
-            </Button>
-          </div>
-        </div>
-      </div>
+      </ComposerBox>
     </div>
   )
 }

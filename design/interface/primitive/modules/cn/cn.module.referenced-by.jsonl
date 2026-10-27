@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"cn.module.code.ts","path":"agent/seat/modules/composer/seat-composer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cn.module.code.ts","path":"agent/seat/modules/composer-box/composer-box.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"agent/seat/modules/regret/seat-regret.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"agent/seat/modules/reply-notifying/seat-reply-notifying.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"agent/seat/seat.page-type.page-component.code.tsx","typed":false,"deferred":false}
