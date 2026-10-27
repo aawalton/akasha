@@ -7,8 +7,8 @@ export const otherwhereTheLibraryMap = {
   definition: "the Library's rooms the player has been shown, lit where they have power",
   code: "tsx",
   drawn: "js",
-  place: "panel-place/aside",
+  place: "panel-place/map",
   position: 45,
   createdAt: "2026-09-28T13:34:22.067Z",
-  updatedAt: "2026-09-28T19:18:52.000Z",
+  updatedAt: "2026-10-27T18:39:31.375Z",
 } as const satisfies PlayedPanel
