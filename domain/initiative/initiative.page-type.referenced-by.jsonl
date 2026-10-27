@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-character-panel.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-chat-panel.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-engine-improvements.initiative.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-gifted-story.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-story-engine-v3.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-story-removal.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-test-story.initiative.ts","typed":true,"deferred":false}
