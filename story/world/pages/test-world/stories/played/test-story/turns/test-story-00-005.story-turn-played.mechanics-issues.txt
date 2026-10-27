@@ -1,1 +1,0 @@
-beat 3: no page defines how much health a healing draught restores; health is 18 of 24
