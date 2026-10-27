@@ -110,7 +110,19 @@ export const uiStaging = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A host file is loaded from the game's addons folder, as the watcher wrote it, where it is there.",
+        "A host file the watcher builds from pages alone is built from the pages as they are now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A copy of that file in the game's addons folder is passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every host file built from the pages is carried back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other host file is loaded from the game's addons folder where it is there.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -262,5 +274,5 @@ export const uiStaging = {
     },
   ],
   createdAt: "2026-09-22T18:33:40.383Z",
-  updatedAt: "2026-10-27T19:18:52.778Z",
+  updatedAt: "2026-10-27T19:37:27.413Z",
 } as const satisfies Module

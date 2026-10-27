@@ -129,6 +129,10 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
         ? "every add-on file came from its build"
         : `${String(staged.live.length)} add-on file(s) came from the game's addons folder, as the` +
           ` watcher wrote them: ${staged.live.join(", ")}`,
+      staged.fromPages.length === 0
+        ? "no add-on file was built from the pages"
+        : `${String(staged.fromPages.length)} add-on file(s) were built from the pages as they are` +
+          ` now, as the watcher builds them: ${staged.fromPages.join(", ")}`,
       `\`${window.control}\` sits at ${Math.round(snapshot.left)}, ${Math.round(snapshot.top)}` +
         ` and is ${Math.round(snapshot.width)} by ${Math.round(snapshot.height)}`,
       hiddenBy === "" ? "it is shown" : `it is hidden, by \`${hiddenBy}\``,

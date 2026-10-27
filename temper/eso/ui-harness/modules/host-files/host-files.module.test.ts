@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  hostFileFromPages,
   hostFilesOf,
   liveHostFileAt,
 } from "akasha/temper/eso/ui-harness/modules/host-files/host-files.module.code.ts"
@@ -64,4 +65,24 @@ test("a host file's live copy is found in the game's addons folder", () => {
 
 test("a host file the game's addons folder lacks has no live copy", () => {
   expect(liveHostFileAt("Hosting", "Other.lua", [LIVE])).toBe(null)
+})
+
+const BUILT = { Hosting: { "HostingConfig.lua": async () => "HostingConfig = { built = true }" } }
+
+test("a host file the pages build is answered with what they build", async () => {
+  expect(await hostFileFromPages("Hosting", "HostingConfig.lua", BUILT)).toBe(
+    "HostingConfig = { built = true }"
+  )
+})
+
+test("a host file no page builds is answered with nothing", async () => {
+  expect(await hostFileFromPages("Hosting", "Other.lua", BUILT)).toBe(null)
+  expect(await hostFileFromPages("Plain", "HostingConfig.lua", BUILT)).toBe(null)
+})
+
+test("Temper's core config is built from the HUD pages", async () => {
+  const built = (await hostFileFromPages("Temper", "TemperConfig.lua")) ?? ""
+  expect(built).toContain("TemperConfig =")
+  expect(built).toContain('["hudLayout"] =')
+  expect(built).toContain('["panels"] =')
 })

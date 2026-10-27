@@ -4,8 +4,24 @@ import { addonManifestSchema } from "akasha/temper/addon/build/resolve/modules/a
 import { addonManifestPathIn } from "akasha/temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { listAllAddons } from "akasha/temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"
 import { esoLiveDirCandidates } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
+import { coreConfigFromPages } from "akasha/temper/watcher/modules/watcher-export-hud-layout/watcher-export-hud-layout.module.code.ts"
 
 const ADDONS_UNDER = "AddOns"
+
+type BuiltFromPages = Readonly<Record<string, Readonly<Record<string, () => Promise<string>>>>>
+
+const BUILT_FROM_PAGES: BuiltFromPages = {
+  Temper: { "TemperConfig.lua": () => coreConfigFromPages() },
+}
+
+export async function hostFileFromPages(
+  addon: string,
+  rel: string,
+  built: BuiltFromPages = BUILT_FROM_PAGES
+): Promise<string | null> {
+  const build = built[addon]?.[rel]
+  return build === undefined ? null : build()
+}
 
 const HOSTED = addonManifestSchema.pick({ additionalLuaFiles: true }).passthrough()
 

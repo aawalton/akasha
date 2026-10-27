@@ -25,6 +25,7 @@ import {
 } from "akasha/temper/eso/ui-harness/modules/game-manifest/game-manifest.module.code.ts"
 import { namesUnstubbedLua } from "akasha/temper/eso/ui-harness/modules/game-names/game-names.module.code.ts"
 import {
+  hostFileFromPages,
   hostFilesOf,
   liveHostFileAt,
 } from "akasha/temper/eso/ui-harness/modules/host-files/host-files.module.code.ts"
@@ -183,9 +184,32 @@ type Staged = {
   readonly templates: number
   readonly refused: readonly string[]
   readonly live: readonly string[]
+  readonly fromPages: readonly string[]
 }
 
-type Loading = { readonly loaded: string[]; readonly live: string[] }
+type Loading = {
+  readonly loaded: string[]
+  readonly live: string[]
+  readonly fromPages: string[]
+}
+
+async function hostedText(
+  addon: string,
+  rel: string,
+  hosted: readonly string[],
+  loading: Loading
+): Promise<string | null> {
+  if (!hosted.includes(rel)) return null
+  const built = await hostFileFromPages(addon, rel)
+  if (built !== null) {
+    loading.fromPages.push(join(addon, rel))
+    return built
+  }
+  const live = liveHostFileAt(addon, rel)
+  if (live === null) return null
+  loading.live.push(live)
+  return readFileSync(live, "utf8")
+}
 
 type StagingAsked = {
   readonly root: string
@@ -261,11 +285,11 @@ async function loadAddon(
   if (loaded.includes(addon)) return
   const hosted = hostFilesOf(built.slice(0, -join(BUILT_UNDER, addon).length - 1), addon)
   for (const one of manifestEntries(manifest)) {
-    const live = hosted.includes(one.rel) ? liveHostFileAt(addon, one.rel) : null
-    if (live !== null) loading.live.push(live)
-    const at = live ?? join(built, one.rel)
-    if (!existsSync(at)) continue
-    const text = readFileSync(at, "utf8")
+    const at = join(built, one.rel)
+    const text =
+      (await hostedText(addon, one.rel, hosted, loading)) ??
+      (existsSync(at) ? readFileSync(at, "utf8") : null)
+    if (text === null) continue
     if (one.kind === "xml") await declareDocument(harness, text, declaring)
     else if (one.rel === `${addon}.lua`) await harness.loadBundle(text)
     else await harness.load(text, one.rel)
@@ -370,7 +394,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await harness.load(PLAYED_ACCOUNT_LUA)
     for (const chunk of icons) await harness.load(chunk)
     if (asked.stages !== undefined) await harness.load(asked.stages)
-    const loading: Loading = { loaded: [], live: [] }
+    const loading: Loading = { loaded: [], live: [], fromPages: [] }
     const loaded = loading.loaded
     const near = [found.tree, ...trees.filter((one) => one !== found.tree)]
     await loadAddon(harness, near, dirname(found.bundle), asked.addon, declaring, loading)
@@ -406,6 +430,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
       templates,
       refused,
       live: loading.live,
+      fromPages: loading.fromPages,
     }
   } catch (thrown) {
     await harness.close()

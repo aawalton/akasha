@@ -24,7 +24,16 @@ export const hostFiles = {
       decisionKind: "decision-kind/departure",
       statement: "A manifest whose extra Lua files go unread is refused rather than read as none.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A host file the watcher builds from pages alone is built here by the watcher's own code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Temper's core config is such a host file.",
+    },
   ],
   createdAt: "2026-10-19T16:32:19.989Z",
-  updatedAt: "2026-10-19T16:32:19.989Z",
+  updatedAt: "2026-10-27T19:37:27.413Z",
 } as const satisfies Module

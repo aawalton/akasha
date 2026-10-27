@@ -68,6 +68,10 @@ export const temperPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The answer names every add-on file built from the pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A picture is played as the character a call names, or else as the last one played.",
     },
@@ -116,5 +120,5 @@ export const temperPicture = {
     { argument: "argument/character" },
   ],
   createdAt: "2026-09-22T18:35:18.990Z",
-  updatedAt: "2026-10-20T18:36:49.985Z",
+  updatedAt: "2026-10-27T19:37:27.413Z",
 } as const satisfies Command
