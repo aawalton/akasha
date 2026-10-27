@@ -255,6 +255,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"store","unique":null,"uniquePropertySlug":null,"slug":"shopping-item-store","propertySlug":"store","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"contributor","unique":null,"uniquePropertySlug":null,"slug":"sign-in-contributor","propertySlug":"contributor","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"web-app","unique":null,"uniquePropertySlug":null,"slug":"site-document-web-app","propertySlug":"web-app","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"metric-character-attribute","unique":null,"uniquePropertySlug":null,"slug":"skill-attribute","propertySlug":"attribute","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"skill-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-skill-line","unique":null,"uniquePropertySlug":null,"slug":"skill-line","propertySlug":"skill-line-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-skill-line-category","unique":null,"uniquePropertySlug":null,"slug":"skill-line-category","propertySlug":"category","fileName":null,"folderName":null}

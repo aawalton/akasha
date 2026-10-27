@@ -24,6 +24,8 @@ export const worldSkill = {
     "page-type/overwhere-iii-skill",
     "number-property/skill-mana-cost",
     "number-property/skill-duration-minutes",
+    "number-property/skill-experience",
+    "relation-property/skill-attribute",
   ],
   runsTabooCheck: false,
   types: "ts",
@@ -31,7 +33,9 @@ export const worldSkill = {
   properties: [
     { pageProperty: "number-property/skill-mana-cost", required: false, many: false },
     { pageProperty: "number-property/skill-duration-minutes", required: false, many: false },
+    { pageProperty: "number-property/skill-experience", required: false, many: false },
+    { pageProperty: "relation-property/skill-attribute", required: false, many: false },
   ],
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-10-03T20:08:45.000Z",
+  updatedAt: "2026-10-27T19:01:22.017Z",
 } as const satisfies PageType

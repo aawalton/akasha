@@ -45,3 +45,4 @@
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/attributes/suspicion/otherwhere-x-suspicion.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/attributes/tier/otherwhere-x-tier.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/metrics/metric-character/metric-character.page-type.ts","id":"01a0ca49-6168-7496-8941-ce63271b7a53"}
+{"propertySlug":"target-page-type","path":"story/world/mechanics/skills/properties/skill-attribute.relation-property.ts","id":"01a17ebd-0fe1-701f-8c20-b038c1c009c4"}
