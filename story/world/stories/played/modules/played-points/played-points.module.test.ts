@@ -1,17 +1,15 @@
 import { expect, test } from "bun:test"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
-import { theTowerAlan } from "akasha/story/world/pages/personas/stories/played/the-tower/characters/the-tower-alan.character-player.ts"
-import { overwhereIvNala } from "akasha/story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/characters/overwhere-iv-nala.character-player.ts"
 import {
   labelOf,
   pointsIn,
   unpointed,
 } from "akasha/story/world/stories/played/modules/played-points/played-points.module.code.ts"
 
-const ALAN = namedAs(characterPlayer.slug, theTowerAlan.slug, null)
+const ALAN = namedAs(characterPlayer.slug, "the-tower-alan", null)
 
-const NALA = namedAs(characterPlayer.slug, overwhereIvNala.slug, null)
+const NALA = namedAs(characterPlayer.slug, "overwhere-iv-nala", null)
 
 test("a point is labelled by its kind less the words its character's slug has", () => {
   expect(labelOf("tower-attribute-point", "the-tower-alan", ALAN, 3)).toBe("Attribute Points")
