@@ -4494,6 +4494,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.ts","id":"01a062ee-f050-706b-865b-cca0db9bf255"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.ts","id":"01a062ee-f116-7076-9ec8-826920a7ed16"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment/characters-task-hud-enrichment.module.ts","id":"01a062ee-f104-7075-aa43-acf135684faa"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-fit/characters-task-hud-fit.module.ts","id":"01a17ea0-3f67-7f74-9028-5bf8c48059c5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-rows/characters-task-hud-rows.module.ts","id":"01a062ee-f128-7077-9396-8431051e6c14"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.ts","id":"01a062ee-f028-7069-9bf4-0162a138b3ea"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-story-zone-quests/characters-task-hud-story-zone-quests.module.ts","id":"01a0c668-c0bf-7f02-b4ff-ef9773265644"}

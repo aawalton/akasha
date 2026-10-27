@@ -2029,6 +2029,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-bought-passives/characters-bought-passives.module.ts","id":"01a15e82-6ba6-7309-9979-036d56146f37"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.ts","id":"01a062ed-3979-7008-b38a-d2d8bc3af92b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.ts","id":"01a0dee5-fc86-7cee-bb08-6e8be41ee7e7"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-fit/characters-task-hud-fit.module.ts","id":"01a17ea0-3f67-7f74-9028-5bf8c48059c5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-view/characters-task-hud-view.module.ts","id":"01a11c82-12cd-76b2-8e5b-fdf64ecca3ec"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.ts","id":"01a062ed-398d-7009-a4a9-bb8458c10c02"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-types/companion-qol-types.module.ts","id":"01a0611d-84ce-7b51-8ddf-74ea1f57955c"}

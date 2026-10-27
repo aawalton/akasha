@@ -3009,6 +3009,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment-daily-writs/characters-task-hud-enrichment-daily-writs.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment/characters-task-hud-enrichment.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-fit/characters-task-hud-fit.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-full-completion/characters-task-hud-full-completion.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-rows/characters-task-hud-rows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.ts","typed":true,"deferred":false}

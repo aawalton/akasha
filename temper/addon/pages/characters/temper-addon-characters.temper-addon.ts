@@ -183,6 +183,7 @@ export const temperAddonCharacters = {
     "module/characters-elder-dragon-pairing",
     "module/characters-active-buffs",
     "module/characters-bought-passives",
+    "module/characters-task-hud-fit",
   ],
   interfaces: [
     "eso-interface/skill-point-finder-layout",
@@ -230,5 +231,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-10-21T12:49:27.974Z",
+  updatedAt: "2026-10-27T18:29:53.639Z",
 } as const satisfies TemperAddon
