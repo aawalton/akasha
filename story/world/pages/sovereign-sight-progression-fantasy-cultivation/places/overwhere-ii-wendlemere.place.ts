@@ -9,7 +9,7 @@ export const overwhereIiWendlemere = {
   facts: [
     {
       fact: "Wendlemere is a river valley on the north side of Carrow, one of Teyr's many isles.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Carrow lies far to the south and west of the Vale's isle, weeks away by ship.",
@@ -37,7 +37,7 @@ export const overwhereIiWendlemere = {
     },
     {
       fact: "Wendlemere has no Charterstone; the nearest is in Carrowmouth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No one from Wendlemere has gone to the Spires in living memory.",
@@ -57,11 +57,11 @@ export const overwhereIiWendlemere = {
     },
     {
       fact: "Since midwinter Aberrants have come down off the Whitecombs, taking sheep and two men.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Valley folk say the Deep Children rise from deep still water after dark and call people in.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A peddler comes up from Carrowmouth each month the road is open; the spring road is mud.",
@@ -77,13 +77,13 @@ export const overwhereIiWendlemere = {
     },
     {
       fact: "Threllsnacht was kept a fortnight ago, and the Carrowmouth Charterstone was lit for it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In the spring thaw, snow still lies on the fells above Wendlemere.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T12:22:29.044Z",
-  updatedAt: "2026-09-30T08:46:29.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Place

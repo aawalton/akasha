@@ -9,11 +9,11 @@ export const overwhereIiOswyCrake = {
   facts: [
     {
       fact: "Oswy Crake is a Mendicant, a Water thief, working the Carrowmouth road with four men.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake is lean, soft-spoken and smiling, and a ring of keys jangles at his belt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "His Talent is Siphon, Minor, at First Depth: at a touch he drinks another's Water.",
@@ -57,7 +57,7 @@ export const overwhereIiOswyCrake = {
     },
     {
       fact: "Oswy Crake is a Water thief on the Carrowmouth road, with ten silver bars on his head.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "While Nala keeps to the Ford, Crake waits at Grey Shaw, patient, and robs no one near the valley.",
@@ -69,11 +69,11 @@ export const overwhereIiOswyCrake = {
     },
     {
       fact: "Pip is a thin, freckled boy of thirteen in a too-big coat, who sells whittled whistles.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On market day a thin, freckled boy of thirteen in a too-big coat watched Nala, then fled downvalley.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pip reaches Grey Shaw by dusk on day eleven and tells Crake that Nala saw him watching her.",
@@ -81,7 +81,7 @@ export const overwhereIiOswyCrake = {
     },
     {
       fact: "The boy who watched Nala on market day was hawking whittled whistles among the stalls.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Knowing she is wary now, Crake means to draw Nala out of the Ford with a plea she will answer.",
@@ -97,7 +97,7 @@ export const overwhereIiOswyCrake = {
     },
     {
       fact: "The woman is Bet Loddon, the Loddon brothers' sister, and her son's fever is a story Crake paid for.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ashlin Farm lies empty half a day down the valley road, its folk gone to Carrowmouth last autumn.",
@@ -129,7 +129,7 @@ export const overwhereIiOswyCrake = {
     },
     {
       fact: "A spear in a lone traveller's hand alarms no one; Crake's men expect one on a road with wolves.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Coralsnout venom in a wound chokes a Talent's Locks within a minute, and holds them shut for hours.",
@@ -161,30 +161,30 @@ export const overwhereIiOswyCrake = {
     },
     {
       fact: "The loft's first two bolts were aimed low, at Nala's legs, not at her heart.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Someone was waiting on Dray's path in the beck gully; iron rang there instead of a crow's caw.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A soft voice from the barn bids Nala put the spear down, and promises nobody bleeds tonight.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Someone with jangling keys waits in the dark of the barn under the loft, not by the house hearth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake robbed Lady Varrow's road for a year, and took three Talented off it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake has three Talented captives chained in a cellar in Carrowmouth's Salt Lanes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:25:02.809Z",
-  updatedAt: "2026-10-03T20:16:54.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

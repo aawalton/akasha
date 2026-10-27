@@ -9,7 +9,7 @@ export const overwhereIiOswyCrake2 = {
   facts: [
     {
       fact: "Crake fights bare-handed, with a long knife at his hip he seldom draws; his touch is the weapon.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake wears a short coat of saltsteel rings under his jerkin, over chest and belly.",
@@ -33,7 +33,7 @@ export const overwhereIiOswyCrake2 = {
     },
     {
       fact: "Charged, Crake slips aside and reaches along the spear shaft for the hands that hold it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake keeps two venom darts in his left cuff and flicks one at bare skin when he can.",
@@ -73,77 +73,77 @@ export const overwhereIiOswyCrake2 = {
     },
     {
       fact: "A coat of rings under Crake's jerkin armours his chest and belly; Nala's spear point grinds on it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A needle dart from Crake's left cuff broke the skin of Nala's neck; cold creeps toward her Locks.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake's cuff dart is the one Dray warned of; its venom chokes a Talent's Locks.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's spear thrust lifted Crake off his feet and slammed him against a barn post.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake's bare head is open to Undertow: a hard pull can yank it down and forward like a rope.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Undertow cannot touch the cold-iron head, but driving Nala's own arms it speeds her thrust.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A cold-iron point driven hard into Crake's bare neck breaks his First Depth skin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Speared through the neck, Crake dies in moments, and his reservoir spills out as cold brine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake keeps his chin tucked to his ring coat in a fight; the neck is a narrow mark.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The venom chokes Nala's Locks within the minute; she has that long to use Undertow at all.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Locks choked, Nala's Water stays penned in her well: no Undertow, but her refined body holds.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "If Crake falls, Bet cries out to Wil from the lane, and Wil lowers his crossbow; Kit follows.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dying, Crake's hands found nothing to drink from on Nala's spear: only wood and cold iron.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When Crake fell, someone small ran from the farmhouse for the hedges.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala killed Crake in Ashlin Farm's barn, her Undertow-driven spear through his bare neck.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "After Crake fell and Bet called to Wil, both crossbows in the loft clattered down.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "After Crake fell, the beck gully behind Ashlin Farm's barn went quiet.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric says Crake had been a blight on the Carrowmouth road a long year.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T16:49:15.726Z",
-  updatedAt: "2026-10-02T21:02:53.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

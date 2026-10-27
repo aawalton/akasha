@@ -41,43 +41,43 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Tansy Horne, the miller's girl of fourteen, has greymaw rot past the elbow and some three days left.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sedge Horne would pay a silver bar, or anything asked, to anyone who saved Tansy.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Col Ashby of the watch lies at the Reeve's house with a greymaw gash gone grey with rot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth says the miller's girl at the Ford, Tansy Horne, was bitten ten days back and is bad.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth says Tansy is worse than Wren was, and Horne's silver has not helped her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth says Horne will let in to see Tansy anyone Goody Brannoc vouches for.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth says the ten days are since Tansy was bitten, and nobody knows how long she has left.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sedge Horne is heavy, grey and hard-faced, and trusts no Talented stranger, but trusts Goody.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tansy's mother, Aud Horne, has not left her daughter's bedside in three days.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tansy's rot runs far deeper than Wren's; drawing it clean takes near an hour of steady care.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Drawn clean, Tansy keeps her arm, but it hangs weak for a month while it mends.",
@@ -85,19 +85,19 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Tansy's rot comes out as a double handful of grey salt, too much to hold in one palm.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sedge Horne swore he would see Nala hang if she hurt Tansy.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tansy's rot is in her right arm; black veins crawl past her elbow toward her shoulder.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "To Undertow, Tansy's rot is a sour tangle soaked through her arm, threaded deep into her life.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Drained of her own Water, Tansy sinks, and dies within the hour unless it is given back.",
@@ -105,67 +105,67 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Deep in Tansy's arm the rot threads grow finer, crossing and doubling back past telling apart.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's pull drank some of Tansy's own life; Tansy went ashen, cold and blue-lipped, and swooned.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's first try drew only a pinch of salt from Tansy; her rot is still nearly whole.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sedge Horne hauled Nala off Tansy's bed by the collar, pinned her to the wall, and roared at her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala pushed Tansy's warmth back into her with a little of her own Water; Tansy's blue lips faded.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's Water holds Tansy's rot still and sluggish, but nearly all of it is still in her arm.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tansy woke from her swoon, cold, and asked for her mam, who held her and wept.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At Goody's word Sedge Horne let Nala go, then asked if she could get the rest of the rot out.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala drew all of Tansy's rot; the black veins are gone and her bite is an ordinary wound.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sedge Horne told Nala to name her price for saving Tansy: a silver bar, more, anything he has.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Horne pays his debts to the copper, and would be shamed to give less than a silver bar.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pim Sallow, a carter's widow at the Ford, has a slow grey rot in her hand from an eel spine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sedge Horne pressed on Nala a finger-long silver bar in a leather pouch for saving Tansy.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Aud Horne asked Nala to eat at the mill and sleep in its spare bed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Col Ashby's greymaw gash is in his leg; the Reeve's house where he lies is by the green.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pim Sallow took the eel spine in her hand at Threllsnacht.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tam Oakes, the Ford's village reeve, stout and fussy, keeps Reeve Dray's house and nursed Col there.",
@@ -185,23 +185,23 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Reeve Oakes, stout and fussy, kept Col Ashby in the slate-roofed Reeve's house by the green.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Col Ashby is broad and stubborn-jawed, thirty, his leg bandaged knee to ankle and reeking of rot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Col Ashby growled that he needs his leg, not a stranger, but did not send Nala away.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "To Undertow, Col's rot is a coarse grey knot in his calf, easier to find than Tansy's.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Drawn clean, Col is gruff and grateful, and swears the watch owes Nala a debt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Reeve Oakes cannot keep a tale; the whole valley will hear of Col's healing by nightfall.",
@@ -209,39 +209,39 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Col's rot took half an hour to draw and came out as a palmful of grey salt, burned in the hearth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Reeve Oakes talks to anyone who will listen of the wonder he saw at Col's bed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Drawn clean, Col's gash is a clean red line; he flexed foot and knee and called it his leg back.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pim Sallow, sixty and sharp-tongued, lives alone by the carters' yard at the Ford's south end.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pim's rot is small but old, a grey swelling in her palm; it takes a quarter hour to draw.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pim is poor and proud, and will press on a healer the eggs and honey that are all she has.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala drew Pim's rot clean; Pim pressed on her a basket of six brown eggs and a crock of honey.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Reeve pays two silver a head for any greymaw brought in dead.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The watch swore a silver bar from its chest to whoever killed the white-eye; Dray will honour it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Reeve Dray will ask Nala to stay in the valley, and offer her the empty watch cottage by the ford.",
@@ -249,7 +249,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Dray sends Dunn and Aldo Cray with the watch cart to Marsh Croft; they are back by noon.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Once the cart is back, Dray pays eight silver for the four greymaws and the watch's silver bar.",
@@ -261,13 +261,13 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Col Ashby, up and walking with a stick, is at the Reeve's when Nala comes, and vouches for her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hob Tarrant can forge a boar spear with a cold-iron head in three days, for a silver bar.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T12:24:24.371Z",
-  updatedAt: "2026-09-30T18:24:27.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

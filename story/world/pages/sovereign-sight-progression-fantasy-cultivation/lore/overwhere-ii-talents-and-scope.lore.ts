@@ -310,9 +310,9 @@ export const overwhereIiTalentsAndScope = {
     },
     {
       fact: "Folk here call someone whose body does more than a body should Talented, and some are wary of it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T12:25:34.638Z",
-  updatedAt: "2026-09-30T08:03:44.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

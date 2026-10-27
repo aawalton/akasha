@@ -13,11 +13,11 @@ export const overwhereIiPip = {
     },
     {
       fact: "Pip carries a little clasp knife, and holds it out shaking when he is found, not to use it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Told Crake is dead, Pip does not believe it until Dray shows him the stone of his fists.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pip feared Crake more than he loved him; when he believes it, he cries, then goes quiet.",
@@ -25,7 +25,7 @@ export const overwhereIiPip = {
     },
     {
       fact: "Pip offers the stash under the tollhouse hearthstone, if they will not hang him.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pip ran Crake's bottles to the thaumist Oriel Vance in Carrowmouth, by her back gate.",
@@ -37,13 +37,13 @@ export const overwhereIiPip = {
     },
     {
       fact: "Once Pip believes Crake is dead, he cries hard, as a child does, then all at once goes quiet.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pip flinched when Dray read the name Oriel Vance from Crake's ledger.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T18:11:24.509Z",
-  updatedAt: "2026-10-02T18:35:46.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

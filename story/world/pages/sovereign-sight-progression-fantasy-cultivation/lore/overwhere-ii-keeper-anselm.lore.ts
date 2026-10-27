@@ -29,11 +29,11 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "He writes to his superiors in Carrowmouth each week by the carrier.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He would report any great new Talent in the valley, as a Keeper must, to Carrowmouth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Word from Carrowmouth's Keepers reaches the Spires in a month.",
@@ -41,7 +41,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm felt a vast drawing of Water in the hills at dawn on day one, and it frightened him.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm felt Nala's hour at the mill as a slow tide in the village, and goes to find its source.",
@@ -49,7 +49,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "A young man in orange robes felt Nala's working from the shrine, like the whole river turning over.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm knows Nala's denial is false, but he won't call her a liar in front of others.",
@@ -57,27 +57,27 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm will walk with Nala, asking questions, and would hold a patient steady if asked.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm has kept the shrine to Threll at the Ford since last autumn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm's small Talent, Tidesense, feels it when Water is drawn nearby.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm felt a slow, steady tide from the mill that morning, an hour long, like breathing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At dawn Anselm thought the Sea itself had come up out of the fells, and did not sleep again.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala told Anselm she was unsure what he meant; he inclined his head and did not argue.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Watching Nala draw, Anselm feels Undertow as a tide at his elbow; he is awed, not afraid.",
@@ -85,31 +85,31 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm judges Nala's Talent no small one, and would rather hear of it from her first.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm held Col's ankle while Nala drew, gone rigid, breathing like a man at the edge of the sea.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No canticle Anselm knows names a Talent called Undertow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm knows the Keepers' teaching on Talents, Depths and Descent, and would gladly share it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm asked Nala to come to the shrine tomorrow, to be taught what he knows.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm felt the drawing at Marsh Croft at dusk on day one, and set off up the valley at a run.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nearing the dark fell at nightfall, Anselm lost heart for the pack and turned back to the shrine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm sets out for Marsh Croft again at first light on day two.",
@@ -117,63 +117,63 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm can teach Nala the Keepers' daily practice of refining skin and muscle.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Coming up the river lane on day two, Anselm meets Nala on her way to the Ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On day two Anselm is muddy to the knees and grey under the eyes from a sleepless night.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm told Nala he was sorry he lost his nerve at the foot of the fell in the dark.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm knows Carrowmouth thaumists buy Aberrant chambers; none in the valley would.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The carrier who takes Anselm's letters comes on market day, in two days, and could carry chambers.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm knows of no training use for an empty chamber but as a vessel for Water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On day two Anselm offered to walk Nala to the Reeve, and then on to the shrine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm knows Nala killed the white-eye; he knew its cracked chamber on sight, twice the others' size",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On day two Anselm came to the watch cottage for Nala, to take her on to the shrine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Keepers' practice: slow the Current and press Water out into the skin, one limb at a time.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Keepers refine skin whole before any muscle, an hour at dawn and an hour at dusk.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Skin taking the practice prickles like nettles, then burns like a scald, then goes numb.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm has refined his own skin over three years, and nothing deeper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm teaches that each Descent brings a Tribulation, a trial in the Sea no one can face for you.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm has never heard of anyone refining as fast as Nala does.",
@@ -181,67 +181,67 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm's Tidesense feels Nala refining with Undertow as a tide turning over and over at his side.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No Keeper teaching Anselm knows uses a Talent to drive its own refining.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm keeps bread, hard cheese and small beer at the shrine, and shares them gladly.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm means to write of Nala in his letter for market day, and will tell her before he does.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Keepers teach that no one Descends until the body is refined enough to bear it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Keepers teach every Talent draws from the Sea and grows by Depths, each reached by a Descent.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the shrine Anselm asked Nala to try the skin practice with him then, her left arm first.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On day two Nala told Anselm she was free for a few hours, and he took her to the shrine to teach.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm asked Nala if there is anything she would have him leave out of his letter.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm will leave out whatever Nala asks, save that a great Talent is in his charge.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm expects Carrowmouth's Keepers to send a senior Keeper up the valley once the road dries.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm expects the Keepers to urge Nala to take the Chartermark and go south to the Spires.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm expects a full letter to reach the Spires in a month, and a Talent like hers to draw them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm knows letters pass many hands in Carrowmouth, and a great Talent's name draws ill notice too.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm thinks a bare letter would slow the Keepers, but they would still come to see for themselves.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Were Anselm to hide a great Talent and be found out, the Keepers would take his charge from him.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm is glad Nala chose a full letter, and writes it that night by rushlight.",
@@ -249,34 +249,34 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm knows the Carrowmouth Charterstone gives marks only at Threllsnacht, nearly a year off.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm expects the Keepers would teach Nala through the year until Threllsnacht, if she keeps near.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm judges Nala's Undertow the greatest new Talent he has seen, and told her so.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm's letter will name Nala, her Undertow, what he has felt and what he saw on day two.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm asked Nala whether his letter should tell all of it, or only the bare bones.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala told Anselm to write it all; he will, tonight, and it goes with the carrier on market day.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm says if Nala wanders far before Threllsnacht, the Keepers will only have to find her first.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:24:24.370Z",
-  updatedAt: "2026-09-30T21:29:25.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

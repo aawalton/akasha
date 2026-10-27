@@ -10,7 +10,7 @@ export const overwhereIiMarshCroft = {
   facts: [
     {
       fact: "Marsh Croft is a low turf-roofed cottage with a fold and a byre, a quarter mile below the barn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth Marsh keeps forty ewes there, most of them in lamb, and one old pony.",
@@ -26,41 +26,41 @@ export const overwhereIiMarshCroft = {
     },
     {
       fact: "The house smells of peat smoke, wet wool and Goody Brannoc's bitter poultice.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Cold iron nails are driven along the fold's top rail and over the cottage door.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Marsh Croft's one smoky room holds a peat fire, a table, a loft ladder and a box bed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Marsh Croft is three miles from Wendle Ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth's porridge pot is plain black iron from Carrowmouth, not cold iron; the tide feels it fine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The grey rot salt drawn from Wren lies in Garth's black iron porridge pot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Two of Garth's ewes took greymaw scratches at the fold and have gone lame and sour with rot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth keeps a basket of dry gorse and split ash by the hearth to build the fire up fast.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The rot salt from Wren burned to white ash in Garth's hearth fire; no rot is left at Marsh Croft.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T12:25:40.106Z",
-  updatedAt: "2026-09-30T09:55:27.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Place

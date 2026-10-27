@@ -22,7 +22,7 @@ export const overwhereIiHollowTarn = {
     },
     {
       fact: "Worn stone steps run down into the tarn on its east shore and on into the dark water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Valley folk say a drowned shrine lies under the tarn, older than the faith of the Ancestors.",
@@ -46,11 +46,11 @@ export const overwhereIiHollowTarn = {
     },
     {
       fact: "Within sight of Hollow Tarn, Nala's well stirs and leans toward the water, like a tide to the moon.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When Nala draws or pushes beside the tarn, its water ripples toward her against the wind.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From Hollow Tarn down to Wendle Ford is some three hours on foot.",
@@ -58,14 +58,14 @@ export const overwhereIiHollowTarn = {
     },
     {
       fact: "Hollow Tarn is a black lake in grey crags; no bird calls there, and the air smells of the sea.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "As Nala walks away from the tarn its pull on her well fades, and is gone once it is out of sight.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:22:29.043Z",
-  updatedAt: "2026-09-30T19:47:19.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Place

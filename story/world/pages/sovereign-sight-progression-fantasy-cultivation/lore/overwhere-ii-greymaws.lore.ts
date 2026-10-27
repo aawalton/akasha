@@ -13,19 +13,19 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "A greymaw is pony-sized, with grey scale in its fur, webbed claws and a second row of teeth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Greymaws stink of rotten salt, and their bite carries spiritual rot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The pack is led by a Sea-Maddened she-wolf twice the size of the rest, with a white eye.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A greymaw's reservoir sits in a bone chamber behind its breastbone, and piercing it kills.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Greymaws hunt at dusk and dawn, and shun fire, cold iron and the wargrass smoke.",
@@ -37,11 +37,11 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "This winter the greymaws have killed some forty sheep, a watchman and a carter.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A greymaw shrugs off a spear thrust that would kill an ordinary wolf.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Reeve's watch has killed one greymaw in two fights and lost a man doing it.",
@@ -49,19 +49,19 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Garth warns of greymaws: wolves big as ponies, scaled and stinking of salt, off the Whitecombs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth says greymaws hunt at dusk and dawn, and shun fire and cold iron.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth says the greymaws came down off the Whitecombs at midwinter.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At sundown on day one, greymaws howled from the screes above Marsh Croft, one answering closer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At dusk the white-eyed she-wolf leads three greymaws down on Marsh Croft; the rest stay above.",
@@ -73,11 +73,11 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Within its reach, Undertow can draw a greymaw's Water out of the bone chamber behind its breastbone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Under a hard pull a common greymaw staggers in a few heartbeats and drops dead within ten.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The she-wolf's reservoir is deep; draining her takes a full minute of hard pull.",
@@ -85,11 +85,11 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Greymaw Water drawn into Nala tastes brackish; its rot gathers on her palm as thick grey salt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Undertow's push throws a greymaw off its feet, but it rises again unhurt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Greymaw jaws can tear Nala's tough skin; she can draw any rot from such a wound herself.",
@@ -97,23 +97,23 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Nala drained three greymaws dead in the lane at Marsh Croft at dusk on day one.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Greymaws come on fast and silent, reeking of rotten brine like a beach full of dead fish.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At dusk on day one four greymaws came on Marsh Croft; the she-wolf hung back on the slope.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "After three greymaws fell, the she-wolf scented the air and started down toward Nala.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pushed back while drained, the she-wolf's charge slows and her legs go heavy.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The she-wolf's scale turns a glancing spear, but a braced point met head-on sinks into her chest.",
@@ -121,7 +121,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Pierced to the bone chamber, the she-wolf's Water bursts out as a cold gush of brine, and she dies.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "With the she-wolf dead, the five greymaws left in the screes lose heart and scatter.",
@@ -129,31 +129,31 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "The rest of the pack fled howling up the screes toward the tarn, and did not come back.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala killed the white-eyed she-wolf on a braced boar spear at Marsh Croft at dusk on day one.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The she-wolf's reservoir is far deeper than a common greymaw's, and fights a pull like a rope.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A dead greymaw holds no clean life to take, only cold brine that stings a wound it is pulled into.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth knows the dead she-wolf as the white-eye herself, the one that leads the pack.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The three greymaws Nala drained keep their bone chambers whole but empty of Water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A greymaw's chamber is a fist-sized knot of polished grey bone, layered like a shell.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An empty greymaw chamber sells for about a silver bar in Carrowmouth; none buy them in the valley.",
@@ -165,43 +165,43 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Cutting a chamber from behind the breastbone takes half an hour's hard work with a stout knife.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The dead she-wolf lies up the fell from Marsh Croft, dark against the heather.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nothing living will eat greymaw flesh; the carcasses lie untouched through the night.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The she-wolf's cracked chamber splits in two if torn out roughly; eased out, it holds together.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Leaderless, the pack does not come down to Marsh Croft at dawn on day two.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At dawn on day two Nala pulled three whole chambers from the lane greymaws with Undertow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala eased the she-wolf's chamber out whole; twice a common one's size, cracked by the spear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A whole Aberrant chamber can be filled with a Talent's own Water, and holds it for years.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The white-eye's cracked chamber would leak away any Water put into it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nothing on the fells but the white-eye grows a chamber the size of hers.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A cold-iron blade bites greymaw scale like fire; a greymaw struck by one flinches off.",
@@ -209,23 +209,23 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Within ten paces Undertow feels a greymaw's rot as a sour knot, even through rock.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Woken by day, greymaws are slow and clumsy for their first few heartbeats.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A spear thrust driven by Undertow pierces greymaw scale; reaching the bone chamber, it kills.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The limping greymaw hangs back, and if the fight turns it bolts up the scree for the tarn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala speared four greymaws dead in the den; the limping one fled up the scree toward the tarn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A chamber pierced by a spear is cracked through and sells for half a whole one's price.",
@@ -233,11 +233,11 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "On three legs the last greymaw is slow; Nala runs it down at the tarn's east shore by the old steps.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala killed the last greymaw by the tarn's steps; the whole pack of nine is dead.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Flies crawl on a greymaw carcass, drawn by the reek, but feed on none of it and lay no eggs.",
@@ -245,35 +245,35 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "All five greymaws Nala speared in the den and by the tarn have chambers cracked through.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pushed with her tide, raw Sea-Water sinks into a whole greymaw chamber through the bone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A whole greymaw chamber holds raw Sea-Water fast; nothing seeps back out.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A chamber holding raw Sea-Water goes ice-cold, and tugs faintly toward the pool it came from.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The tug is weak; the chamber stays put in a hand or a tied bag.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The black bead fills only a sliver of a greymaw chamber, which could hold far more.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray's men carted the last five greymaws down; their chambers sit in a crate in Dray's storeroom.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray keeps the five chambers for Nala, and hands them to a Keep rider who asks in her name.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A cracked greymaw chamber leaks raw Sea-Water as it leaks any Water, through the crack.",
@@ -281,5 +281,5 @@ export const overwhereIiGreymaws = {
     },
   ],
   createdAt: "2026-09-29T12:25:02.807Z",
-  updatedAt: "2026-10-03T12:32:30.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

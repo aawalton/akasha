@@ -22,15 +22,15 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "At the Drowned Lantern a hot meal is one copper and a bed by the fire is two.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The shrine to Threll holds a tithe vessel of glowing Water, kept by Keeper Anselm.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody Brannoc, herbwife and the valley's only healer, lives by the mill race.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hob Tarrant the smith forges cold iron charms and nails as well as plough irons.",
@@ -78,15 +78,15 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "Wendle Ford has stone houses, a ford with a stone footbridge, and a mill wheel at its east end.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The lane from Marsh Croft meets the river and runs along beside it to Wendle Ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Horne's mill is a big stone mill with a slate-hung house joined on, the finest in the valley.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Horne kitchen keeps a hot iron range lit all day, below Tansy's room.",
@@ -94,11 +94,11 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "Horne's kitchen range, below Tansy's room, is lit and hot as a forge, and Horne stokes it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "For a greymaw bounty the Reeve sends a cart to fetch the carcasses, and pays once he has seen them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The shrine's tithe vessel is an old Aberrant chamber the faithful fill with their Water.",
@@ -106,19 +106,19 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "Threll's shrine lies across the green; inside it is cool and dim, a bench beside the altar vessel.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Day three dawns clear and cold, frost on the green, the Whitecombs sharp against the sky.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From dawn Maddy Fenn sells a day's bread, cheese and cold mutton wrapped for the road, two coppers.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The carrier is Wat Brisk, who drives a covered cart to Carrowmouth and back each week.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wat sells goods in Carrowmouth for a fifth of the price, and brings the rest back next market day.",
@@ -130,7 +130,7 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "Wat Brisk sleeps at the Lantern on market night and leaves for Carrowmouth at first light.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Market stalls sell wool, cheese, eggs, eels, oatmeal, a tinker's pots and needles, and cloth.",
@@ -138,41 +138,41 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "The market tinker sells a leather waterskin for three coppers and a wool blanket for a silver.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Day four is market day: stalls go up on the green at dawn, and the carrier's cart is by the Lantern.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Maddy at the Lantern keeps a pot of bone broth on for Nala while she refines her bones.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Day eleven is market day; the carrier's cart comes up the valley road to the green.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On day sixteen a stranger begs Nala at the Lantern to heal her fevered son at Ashlin Farm.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The begging woman says Ashlin Farm is half a day down the road; she paused over her son's age.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Maddy knows most faces in the valley, and has never seen the begging woman before.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pleading, the woman's tears look real, but her eyes keep going to the Lantern's door.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Asked, the woman says her son is eight, nine come summer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T12:22:29.044Z",
-  updatedAt: "2026-10-02T15:53:03.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Place

@@ -25,7 +25,7 @@ export const overwhereIiGoodyBrannoc = {
     },
     {
       fact: "She has watched rot kill four people this winter and could not stop it in any of them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She was a girl of twenty when Liss Aske drowned, and Liss was her friend.",
@@ -41,70 +41,70 @@ export const overwhereIiGoodyBrannoc = {
     },
     {
       fact: "Garth says Goody Brannoc at the Ford tends all the rot-sick, and would know who else.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody Brannoc smells the Sea on Nala, clean and deep, as she has smelled it on no living thing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's face stops Goody's breath: it is the face of her girlhood friend Liss Aske, unchanged.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody Brannoc is a tiny, bent old woman with sharp black eyes, in a cottage by the mill race.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: 'At the sight of Nala\'s face Goody went white and whispered, "Liss? Liss Aske?"',
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody fears the tarn has sent back a drowned thing, and would test Nala with cold iron first.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody says Liss Aske was her dearest friend, red-haired, drowned in Hollow Tarn 51 winters ago.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody says Liss Aske was twenty-five when she drowned, and Nala's face is hers not a day older.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody pressed cold iron to Nala's wrist; it left no mark, so she judged Nala no drowned thing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody keeps an iron nail in her apron.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth told Goody that Nala drew the rot out of Wren's leg into salt, and Wren's leg is clean.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody has asked Nala, whoever she is, to come to the mill now to Tansy Horne.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody's Knack feels Nala's drawing as gooseflesh and a cold sea-smell filling the room.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody set a wide earthenware basin by Tansy's bed to hold the rot Nala draws.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody sniffed Tansy's bite after Nala's drawing and whispered, \"Clean.\"",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody knows of three more rot-sick: Col Ashby, Pim Sallow, and Garth's two ewes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:23:50.363Z",
-  updatedAt: "2026-09-30T11:03:51.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

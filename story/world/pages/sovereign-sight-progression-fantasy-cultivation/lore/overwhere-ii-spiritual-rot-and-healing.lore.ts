@@ -315,15 +315,15 @@ export const overwhereIiSpiritualRotAndHealing = {
     },
     {
       fact: "The rot salt in Garth's plain iron pot is not dead; it crawls slowly toward the nearest warm life.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Plain iron neither holds nor kills rot salt; within hours it seeps through, as damp through clay.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In a hot fire rot salt spits, stinks and burns away to clean white ash.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pressed to cold iron, rot salt goes still and grey as road grit, and harms no one after.",
@@ -331,7 +331,7 @@ export const overwhereIiSpiritualRotAndHealing = {
     },
     {
       fact: "A plain iron lid does not stop the pot's rot salt; its faint reach still leans toward Wren.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A low peat fire only warms rot salt and sets it reeking; it takes a fire built up hot to end it.",
@@ -339,5 +339,5 @@ export const overwhereIiSpiritualRotAndHealing = {
     },
   ],
   createdAt: "2026-09-29T12:24:16.040Z",
-  updatedAt: "2026-09-30T09:49:30.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

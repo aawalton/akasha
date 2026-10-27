@@ -9,19 +9,19 @@ export const overwhereIiTernHollow = {
   facts: [
     {
       fact: "Tern Hollow is a lone stone barn in a sheltered fold of hills, with a sagging hay loft.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Old snow lies in the barn's shadow, and meltwater runs in the ruts of the lane outside.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A lane runs down from the barn to a river valley of small farms and bare fields.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "White mountains rise along the far side of the valley, their peaks hidden in cloud.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The barn belongs to a farm whose family is away at market for the week.",
@@ -33,7 +33,7 @@ export const overwhereIiTernHollow = {
     },
     {
       fact: "Tern Hollow is the upland barn of the Aske farm, in Wendlemere on the isle of Carrow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Aske farmhouse is shut up at the foot of the lane, half a mile below the barn.",
@@ -69,33 +69,33 @@ export const overwhereIiTernHollow = {
     },
     {
       fact: "Marsh Croft, Garth Marsh's place, is a quarter mile down the lane from the barn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wendle Ford, the nearest village, is three miles down the lane and along the river.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Big clawed prints, rank with rotten salt, crossed the lane below the barn two nights ago.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The barn holds only a cart with one wheel off and a row of iron hooks along the wall.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Somewhere down the lane from the barn are a barking dog and a man who hushes it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The loft floor is about ten feet above the barn's flagstones, reached by a ladder.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The man with Burr calls the barn where Nala woke Aske's barn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T12:06:37.786Z",
-  updatedAt: "2026-09-30T08:36:44.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Place

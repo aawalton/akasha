@@ -13,43 +13,43 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Bet has no son; she came for her brothers' sake, and for two silver Crake paid her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet is afraid of Crake, and more afraid of what he would do to her brothers if she failed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Led to the Reeve by the arm, Bet goes white and tries to twist free, but Nala's grip holds.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When Dray names Crake to her face, Bet breaks and weeps, and begs them not to kill her brothers.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pressed, Bet tells that Crake and all four of his men wait at Ashlin Farm, which is empty.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet tells that her brothers lie in the barn's hayloft with crossbows on the yard below.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet tells that Big Harl waits inside the farmhouse, and Crake with him, by the hearth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet tells that Pip watches the valley road, to run ahead and warn Crake who comes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet is to bring Nala alone up the front lane before dusk; a lamp in the window means all is ready.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "If Bet is not back at Ashlin Farm by nightfall, Crake will judge it gone wrong and break camp.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet knows nothing of where Crake keeps his captives, only that he has some.",
@@ -57,7 +57,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Bet walks down the road beside Nala, too frightened to give Crake's men a sign either way.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet's brothers are Wil Loddon, the elder and steadier, and Kit, younger and quick to shoot.",
@@ -69,41 +69,41 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Given hope, Bet steadies, and means to call her brothers by name once the fight turns.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet swears to Nala she will not give the trap away; her hands still shake.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On the road Bet asks Nala, low, whether her brothers will hang.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet says her brother Wil will listen to her, and she will call to him if it goes badly for Crake.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When the loft shot at Nala, Bet pressed flat against the hedge at the lane's mouth, untouched.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the loft Wil calls that both bows are down, and asks leave to come down the ladder unarmed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "After Crake fell, Bet stood sobbing out in Ashlin Farm's lane.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When her brothers yield, Bet drops beside them and holds the younger one's head to her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hearing her brothers spared the rope, Bet bends over them weeping again, but differently now.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T16:03:07.170Z",
-  updatedAt: "2026-10-02T17:52:44.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

@@ -9,51 +9,51 @@ export const overwhereIiKeeperAnselm2 = {
   facts: [
     {
       fact: "Anselm is stunned Nala's muscle is whole in four days; his skin alone took him three years.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm teaches that refining goes outside in: skin, then muscle, bone, organs, and last blood.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm says most Talented Descend once skin and muscle are whole, and refine bone after.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm says each part refined before a Descent makes its Tribulation easier to bear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm knows no Keeper practice for bone; he has heard it aches deep and goes slow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The canticles say Descent first calls in a dream of water going down, once the body is ready.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm says the call does not compel; it comes again, stronger, until it is answered.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The canticles say one answers the call where the dream shows, or in still, quiet water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm begs Nala not to Descend in haste; a botched Descent can maim or kill.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm thinks the senior Keeper from Carrowmouth could guide Nala's Descent, if she waits.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm is relieved Nala waits; the canticles praise one who answers the call only when ready.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm asks Nala to tell him before she answers the call, so someone knows where she went.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm's Tidesense feels Nala refining bone as a slow, deep tide, heavier than before.",
@@ -61,23 +61,23 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "On day eleven the carrier brings Anselm the Keepers' reply to his letter about Nala.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Keepers write that Senior Keeper Maud Ashby will come up the valley once the road dries.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Keepers bid Anselm keep Nala near, and keep her from Descending until Keeper Ashby comes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Carrow road is expected dry enough for Keeper Ashby by the end of the month.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Senior Keeper Maud Ashby reaches Wendle Ford on day twenty-eight, and Anselm tells her Nala's news.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Keeper Ashby rides on up the valley to Varrow Keep once she has seen the Callow tidepool.",
@@ -85,13 +85,13 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "Senior Keeper Maud Ashby rode into Wendle Ford on day twenty-eight, asking after Nala.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm says Hob Tarrant could forge the cold iron stakes to ring the Callow tidepool.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T15:21:11.991Z",
-  updatedAt: "2026-10-03T13:15:00.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

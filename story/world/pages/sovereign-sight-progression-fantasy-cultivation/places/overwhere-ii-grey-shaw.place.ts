@@ -14,15 +14,15 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "From Ashlin Farm to Grey Shaw is some twelve miles of road, running gently downhill.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The ruined tollhouse sits at the wood's near edge, roofless at one end, by an old toll bar.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake's stash lies under the tollhouse hearthstone: bottled Water, a coin box, and his ledger.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The tollhouse is empty tonight; all of Crake's band went to Ashlin Farm.",
@@ -30,63 +30,63 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "Anyone on the road reaches the tollhouse without a guide; the road runs past its door.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A half moon rises an hour after dark, enough to see the pale road by.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake's iron coin box is locked; its keys are on the ring at Crake's belt, back at Ashlin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "By law Crake's stash goes to the watch, but Dray asks Nala what she would have done with it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The pit holds twenty-two small bottles of stolen Water, each a draught's worth, cold and dense.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A Carrowmouth thaumist pays about a silver bar a bottle; a drained Talent drinks it back to heal.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The coin box holds eleven silver bars and fifty silver pieces: Crake's year of sales.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake's ledger names every Talent he drained, every bottle sold, and Oriel Vance as his buyer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Water from Crake's three captives is in the bottles; drunk back, it would speed their healing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray says a Reeve holds recovered goods for Lady Varrow's court; by custom the taker has a third.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray agrees the bottles go first to the freed captives, and the coin to those the ledger robbed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray means Nala's third to be a third of the coin, on top of the five bars for Crake.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A drained Talent who drinks bottled Water refills in an hour, not days, and mends faster.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bottled Water only fills a reservoir; it deepens no one, and leaves no lasting gain.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Thaumists brew bottled Water into elixirs that ease refining, which is why it sells so dear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "To Nala, with a well that refills from the Sea within the hour, a bottle is worth nothing.",
@@ -94,17 +94,17 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "Dray says Lady Varrow will want Crake's ledger badly.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray offers to sleep at the tollhouse till first light, or carry the stash back to Ashlin tonight.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's third of Crake's coin is four silver bars, of six hundred silver in all.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T17:58:48.460Z",
-  updatedAt: "2026-10-02T18:42:34.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Place

@@ -14,27 +14,27 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "Its folk left for Carrowmouth last autumn, and the farm has been empty all winter.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A long, low stone farmhouse faces a stone barn across an open yard of trodden mud.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The barn's hayloft door looks straight down on the yard and the end of the lane.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Behind the farm, Ashlin Beck runs in a wooded gully that reaches the back of the barn unseen.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the beck gully a man can reach the barn's back wall without crossing open ground.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The lane runs a long bowshot between hedges and opens on the yard with no cover at its end.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A rain butt sits by the barn's corner, brim-full of standing rainwater.",
@@ -46,11 +46,11 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "At dusk a lamp burns in the farmhouse window, the sign Crake's men are ready.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The yard is some twenty paces across from the lane's end to the barn's wide doorway.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Inside, the barn is dim, floored with old straw, with a ladder up to the loft by the doorway.",
@@ -62,15 +62,15 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "The barn is dim inside, its floor strewn with straw.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "As Crake died, the fight in the beck gully had gone to shouting and a man's howl of pain.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ashlin is quiet on their return: Col kept watch, and Bet sleeps against her brothers in the straw.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Big Harl tried once to slip his bonds near midnight; Col knocked him down, and he has sulked since.",
@@ -78,11 +78,11 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "Carrying the stash uphill at Pip's pace, Nala and Dray reach Ashlin a little past two at night.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake's body lies under a sheet by the barn wall; Rob Reed dozes there, his arm bound clean.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The watch's packs hold bread, cheese and a skin of small beer, enough for Nala's hollow belly.",
@@ -94,21 +94,21 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "From Ashlin back to Wendle Ford is half a day's march at the prisoners' pace.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At grey light the Pells lift the hurdle, and Big Harl stands roped between Col and Rob.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On the march Dray shares out the watch's bread, cheese and small beer as they go.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Leaving Ashlin soon after dawn, the column reaches Wendle Ford a little after noon.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T16:02:50.891Z",
-  updatedAt: "2026-10-02T20:30:01.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Place

@@ -45,7 +45,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Reeve Dray is a grey, square man in a leather jerkin, whose watch lost a man to the white-eye.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray lodges at the Reeve's house by the green when in the Ford; Tam Oakes keeps it for him.",
@@ -53,23 +53,23 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray is Reeve of Wendlemere; Tam Oakes, the Ford's village reeve, keeps his house by the green.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anselm named Nala to Reeve Dray as the one who drew the rot from Tansy Horne and from Col.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray knew the white-eye's chamber on sight, and asked Nala where the carcasses are and who saw.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray takes the carcasses and Garth's word as proof enough; he needs no witness to the kill.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray wants the five greymaws left hunted down before lambing, and would pay Nala to lead the hunt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray overlooks Nala's lack of papers, but must write her name into Lady Varrow's rolls.",
@@ -77,47 +77,47 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Lambing in Wendlemere begins in about three weeks.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala told Dray the carcasses lie at Marsh Croft for his cart, and a few greymaws got away.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray lets no one hunt alone for him till they best him in a bout: her spear against his Stonehand.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "For the hunt Dray pays a silver bar beyond the head bounty, and will put it toward a spear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray's spare pack is a canvas knapsack with leather straps, left by the watchman the greymaws took.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Besides Hob's forge, no spear better than the watch's plain iron is to be had short of Carrowmouth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray's Talent turns his forearms grey and hard as stone; they grate like millstones.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala told Dray she will hunt the greymaws alone, and put up to two silver bars toward a spear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray challenged Nala to the bout at once, on the green: a watch spear against his hands.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray holds to his test: killing the white-eye proves she can kill, not how she fights a man.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray, at First Depth, doubts a Surface stranger could hurt him, and says so with a grim smile.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray's stone forearms turn a plain iron spear point, but the rest of him is only refined flesh.",
@@ -125,19 +125,19 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Folk gather on the green to watch the Reeve's bout, and Anselm watches white-faced.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray planted a plain iron spear on the green for Nala: fight him with it, or hunt with the watch.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala told Dray the stragglers are no threat to her alone, and she would hate to hurt him needlessly.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray fights close, catching points on his stone forearms and hitting like a falling wall.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray's skin turns an ordinary thrust, but one driven by Nala's strength and Undertow breaks it.",
@@ -149,59 +149,59 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Pulled by Undertow, Dray feels a tide drag at him, and knows at once her Talent is no small one.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray rode Undertow's pull instead of fighting it, and it carried him inside Nala's spear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray's stone fist threw Nala flat in the first bout; her ribs are bruised but whole.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray judges Nala no small Talent, but says she fights like one, and offers another bout.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When Dray lets his Talent go, the grey stone fades from his hands back to flesh.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wary now of her pull, Dray braces against it, and a sudden push then overbalances him.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray leans his weight into every swing; at the end of one his flank is open for a heartbeat.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "For Dray a spear point touched to his body anywhere below the stone counts as struck true.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala struck Dray true in the second bout, and he lets her hunt the greymaws alone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray will pay Nala when his cart is back by noon, and sent her to see Hob about a spear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray lends Nala the watch spear for the hunt, to be brought back after.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray takes right ears as tally for the bounty, once his cart has found the carcasses.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray's cart came back by noon on day two with the four Marsh Croft greymaws; he has seen them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On the afternoon of day two Dray is at the Reeve's house by the green, the carcasses in its yard.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No cart climbs to the Tarn Screes; for kills up there Dray pays on the right ears alone.",
@@ -213,7 +213,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray will send two watchmen with a pony to fetch the den carcasses down and burn them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray has never gone past the cairn to Hollow Tarn; he knows it only as a place shepherds shun.",
@@ -221,63 +221,63 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray takes a no to the cottage without argument; he expected no less of a Talent her size.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray lets the killer keep anything cut from a greymaw; he wants only the carcasses burned.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray's two men and pony fetch the den carcasses at first light on day three, back by mid-afternoon.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray's watchmen will not go past the cairn; the greymaw by the tarn is left where it fell.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray fears something worse drove the greymaws off the Whitecombs, and that it will follow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray has no one fit to climb the Whitecombs and see what stirs there; he would pay well for it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray knows of Oswy Crake, a Water thief on the Carrowmouth road with ten bars on his head.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray can write Nala a Reeve's letter naming her, which serves as papers in Carrowmouth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray pays a silver bar for sure word of what drove the greymaws off the Whitecombs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray sends anyone climbing the Whitecombs to Ebba Callow at Callow Beck, who knows the tracks.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray knows a black pool smelling of the sea for a tidepool; he saw one on the coast as militia.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray knows tidepools draw Aberrants in, and turn beasts that linger by them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray thinks greymaws fleeing downhill fits a thing driving them, not a pool drawing them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray pays half a bar for word of the Callow pool, and the rest for what drove the greymaws.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Told Nala's well leans at both, Dray fears Hollow Tarn is a tidepool too, and a bigger one.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In the evening of day three Dray sits by the fire in the Reeve's house, the watch back from the den.",
@@ -285,21 +285,21 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray paid Nala eighteen silver for nine greymaws, the watch's silver bar and a bar for the hunt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray offered Nala the empty watch cottage by the ford, hers if she will stay in the valley.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala turned down the watch cottage; she means to leave the valley once its larger troubles are done.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala told Dray she will scout the Whitecombs on day three, and talk of Oswy Crake after.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
-  updatedAt: "2026-10-08T16:27:28.258Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
   createdAt: "2026-09-29T12:24:24.371Z",
 } as const satisfies Lore

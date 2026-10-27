@@ -21,7 +21,7 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Garth is minding the Askes' sheep and house while they are at Carrowmouth market.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth has a Knack: his hands warm what they hold, enough to save a chilled lamb.",
@@ -33,11 +33,11 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "A week ago a greymaw bit Wren's leg at the fold, and the bite has gone black with rot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth sent to Varrow Keep for help for Wren and has had no answer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He would give anything he has, and bind himself to anyone, to save Wren.",
@@ -45,7 +45,7 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Garth would take a barefoot stranger in the Aske barn for a runaway, and still feed her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He is honest to a fault, wary of the Talented, and never forgets a kindness.",
@@ -53,7 +53,7 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Garth found the salt-rank prints below Tern Hollow and nailed cold iron along his fold.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth has an old boar spear, a crook, a shepherd's sling and no other weapon.",
@@ -61,15 +61,15 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "A man down the lane from the barn where Nala woke hushes a dog called Burr in a slow, deep voice.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Burr, the dog of the man down the lane, is a rough grey collie.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The man down the lane walks unevenly, one foot landing heavier than the other.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A leap from a loft landed unhurt tells Garth at once that the stranger is Talented.",
@@ -81,19 +81,19 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Burr's man is big and bearded, forty-odd, in a sheepskin coat, leaning on a shepherd's crook.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Burr barked once at Nala, then sniffed her fist and leaned his whole weight on her leg.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Seeing Nala leap from the loft unhurt, Burr's man named her Talented and gripped his crook.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth takes a lost, barefoot Talented stranger for a runaway, or an Aspirant who lost her road.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Once he trusts a Talented stranger even a little, Garth asks whether she can do aught for Wren.",
@@ -101,31 +101,31 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Burr's man is Garth Marsh, of Marsh Croft a quarter mile down the lane.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth has a lass at home who is abed poorly, and he wants no Talent used under his roof.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth keeps his dead wife Anni's boots and cloak in a chest, and could be brought to part with them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth, who doesn't hold with the Talented, has asked Nala whether she can do aught for Wren.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth knows a Charterstone only as where Aspirants take their marks, not as any help for rot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When Nala drew Wren's rot, Garth and Wren both came up in cold, prickling gooseflesh.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Seeing Wren's rot drawn out, Garth asked Nala roughly what in the Ancestors' name she is.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Once Garth or Wren speaks of it, word of a rot-drawer reaches the Ford in a day, Varrow Keep in two.",
@@ -133,79 +133,79 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Garth offers Nala the worn boots and brown wool cloak of Anni, Wren's mother, three winters dead.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anni's boots are a little large for Nala, but serve well with the laces pulled tight.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At Garth's limping pace the three miles to the Ford take about an hour and a half.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Goody Brannoc brought Wren into the world, and Garth's word carries weight with her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Anni's brown wool cloak is heavy and soft, and smells faintly of cedar from Garth's chest.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth has agreed to leave Wren and walk Nala to the Ford now, to speak for her to Goody Brannoc.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth says Goody burns every poultice that has touched rot, in a hot fire, and never reuses one.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth cannot feel the rot salt himself, and leaves to Nala the call on how to be rid of it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The iron lid of Garth's pot hangs on a hook by his hearth, where a peat fire burns.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth's mother told him of Liss Aske, the red-haired Aske girl the tarn took.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth went home to Wren and will have the fold ready for Nala to see his ewes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala drew the rot from Garth's two ewes across the fold rail at once; they stand sound again.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth keeps an old boar spear over his door, and reached for it when the greymaws howled.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "By the evening of day one Wren is well enough to sit up at Marsh Croft's door with Burr.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth's boar spear is ash with a plain iron head and a crossbar below the blade.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Facing the greymaws, Garth gave Nala his spear and barred himself inside with Wren and Burr.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When the she-wolf fell, Garth opened Marsh Croft's door with a lantern and stood staring.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth would wash wolf spit and salt from Nala's half-healed bite before she tries more.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth means to bind Nala's bite and then have her eat; he sent Wren for clean linen.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth has heard Aberrants carry something precious in them, but not what, and has a flensing knife.",
@@ -213,11 +213,11 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Garth has only heard of Aberrant chest bones; Carrowmouth folk buy them, not valley folk.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth keeps a stout skinning knife on a peg at Marsh Croft.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garth has a two-wheeled handcart, and will haul greymaw heads to the Ford under sacking.",
@@ -225,10 +225,10 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "On the morning of day two Garth stays at Marsh Croft to see to his ewes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:23:21.044Z",
-  updatedAt: "2026-09-30T17:46:10.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

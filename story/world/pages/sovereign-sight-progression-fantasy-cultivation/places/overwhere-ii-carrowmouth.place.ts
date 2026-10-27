@@ -13,7 +13,7 @@ export const overwhereIiCarrowmouth = {
     },
     {
       fact: "Carrowmouth is two days' walk down the valley road from Wendle Ford, one by hound cart.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its market runs all week in spring, when the upland wool comes down.",
@@ -21,7 +21,7 @@ export const overwhereIiCarrowmouth = {
     },
     {
       fact: "Carrowmouth has a Charterstone in its harbour square, lit each Threllsnacht.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ships sail from Carrowmouth to the larger isles, and a lighthouse marks the harbour.",
@@ -37,7 +37,7 @@ export const overwhereIiCarrowmouth = {
     },
     {
       fact: "The Charterstone gave its marks on Threllsnacht eve and gives none again until next year.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Two Carrowmouth youths took the Chartermark this Threllsnacht and sailed for a Travelspire.",
@@ -57,13 +57,13 @@ export const overwhereIiCarrowmouth = {
     },
     {
       fact: "Two Carrowmouth lads took the Chartermark this year.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Carrowmouth lies down on the coast.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T12:25:40.106Z",
-  updatedAt: "2026-09-30T08:46:29.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Place

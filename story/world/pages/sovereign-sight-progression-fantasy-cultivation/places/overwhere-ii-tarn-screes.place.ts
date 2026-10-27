@@ -14,37 +14,37 @@ export const overwhereIiTarnScrees = {
     },
     {
       fact: "The greymaw den is a deep cleft in the screes, rank with rotten salt and strewn with sheep bones.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "By day the five greymaws left lie up in the den, sluggish and ill-tempered until dusk.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Greymaw tracks are plain: webbed prints and smears of grey slime on the stones.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the den mouth the cairn hung with cold iron shows on the skyline above.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On the way up lie a half-eaten ewe from last night's flight and tufts of scaled fur on the heather.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The five greymaws left are together in the den through the day; one limps from the fight.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The den cleft is narrow; no more than two greymaws can come at anyone in it at once.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The four greymaws killed in the den lie where they fell, already stiffening in the cold cleft.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-30T19:08:56.347Z",
-  updatedAt: "2026-09-30T19:47:20.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Place

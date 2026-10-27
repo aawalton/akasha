@@ -9,11 +9,11 @@ export const overwhereIiSirEdricHale = {
   facts: [
     {
       fact: "Sir Edric Hale is tall and grey-bearded, in a good riding cloak, a plain sword at his hip.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric reaches the Ford on the morning of day twenty, alone, on a tall grey horse.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric is some fifty-five, a knight sworn to House Varrow for thirty years.",
@@ -25,7 +25,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "His hand on the Reeve's doorpost felt a faint hum in the stone, leaning toward the Whitecombs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric is courteous and dry, an old soldier who says little and listens hard.",
@@ -33,7 +33,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric wants Nala to lead him up to the split crag tomorrow, and tell him of the pull there.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Lady Varrow bade Sir Edric take the measure of the Talent Dray wrote of, and tell her.",
@@ -41,7 +41,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric heard of Crake's death on the road in, and means to thank Nala in Lady Varrow's name.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "If Nala proves as strong as Dray wrote, Sir Edric carries Lady Varrow's welcome to Varrow Keep.",
@@ -49,11 +49,11 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "On arriving, Sir Edric laid a bare hand flat on the Reeve's doorpost stone, eyes half shut.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "On arriving at the Ford, Sir Edric asks Dray for Nala, and Dray calls her down from the lane.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No soldier in the valley salutes as Nala does; Sir Edric reads it as some far land's custom.",
@@ -61,11 +61,11 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric answers a salute with a short bow from the neck, as knights greet a sworn equal.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric speaks low and unhurried, with the clipped vowels of the Keep's end of the valley.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric judges a Talent by eyes and breathing; Nala's calm, deep breath tells him she is strong.",
@@ -73,27 +73,27 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric would set out at first light, and leave his horse at Callow Beck, where the tracks begin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric lodges at the Lantern tonight, and asks Nala to meet him at the ford at first light.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric climbs steadily for his years, but slower than Nala; he will not be hurried on rock.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric means to lay his hand on the crag's split stone and feel how deep the strain runs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Through the split stone Sir Edric feels the mountain's root bowed upward, like a dam under flood.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The crag's crack runs down past where his sense can follow, deeper than any fault he has felt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Under the strain he feels a slow swell and ease in the rock, like the breath of something asleep.",
@@ -101,7 +101,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric feels fresh hairline cracks fanning out east and west along the range from the crag.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In thirty years Sir Edric has felt nothing like it, and it frightens him, though he hides it.",
@@ -109,7 +109,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Hearing Nala, Sir Edric tells her of the bowed root, the bottomless crack and the spreading cracks.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric keeps the slow breath in the rock to himself, until he has told Lady Varrow.",
@@ -117,15 +117,15 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric means to ride for Varrow Keep at dawn tomorrow, to tell Lady Varrow himself.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Having heard Nala, Sir Edric asks her to Varrow Keep in Lady Varrow's name, to tell it there.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric is glad Nala will come; they leave the Ford together at dawn, he riding, she on foot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric reckons they reach the Keep before the gate is barred at dusk, keeping a steady pace.",
@@ -133,21 +133,21 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric warns Nala that Lady Varrow is cold of manner, but never forgets a debt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray wrote Sir Edric that Nala found a crag split open, with something pulling under it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the split crag Sir Edric lays a bare hand on the split stone, eyes half shut; his jaw tightens.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hand on the split stone, Sir Edric asks Nala to tell him of the pull, what she feels there and then.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T20:44:57.141Z",
-  updatedAt: "2026-10-02T21:31:18.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

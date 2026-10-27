@@ -10,11 +10,11 @@ export const overwhereIiWatchCottage = {
   facts: [
     {
       fact: "The watch cottage is a squat stone house by the ford, one room with a sleeping loft and a hearth.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The watchman the greymaws took lived in the watch cottage; it has been empty since midwinter.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The watch cottage belongs to the Reeve's office, and whoever keeps it pays no rent.",
@@ -26,11 +26,11 @@ export const overwhereIiWatchCottage = {
     },
     {
       fact: "The watch cottage has a rope bed, a table, a cold hearth and the dead watchman's few pots.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dray lets Nala sleep in the watch cottage while she works for him, and asks nothing for it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A stack of peat sits by the watch cottage door, dry on top, and a flint and steel on the mantel.",
@@ -42,9 +42,9 @@ export const overwhereIiWatchCottage = {
     },
     {
       fact: "The river runs loud a stone's throw from the watch cottage's door.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-30T19:48:36.219Z",
-  updatedAt: "2026-09-30T21:04:43.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Place

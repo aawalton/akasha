@@ -9,39 +9,39 @@ export const overwhereIiLoddonBrothers = {
   facts: [
     {
       fact: "Wil Loddon, about twenty-eight, is broad and bearded, slow-spoken and steady.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Kit Loddon, about nineteen, is thin and wild-eyed, and shakes as he comes down the ladder.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The brothers come down with empty hands held open, Wil first, and kneel in the straw unbidden.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wil says no one else is at Ashlin but Big Harl in the gully and the boy Pip, who ran.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wil knows the dart in Nala's neck: the venom shuts a Talent's Locks till about dawn, no longer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wil reckons Pip runs for Grey Shaw, to grab what he can of Crake's stash and vanish.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crake's stash at the Grey Shaw tollhouse holds bottled stolen Water, coin, and his ledger.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wil knows Crake keeps three Talented chained in a cellar in Carrowmouth's Salt Lanes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wil will tell which cellar in the Salt Lanes, if it buys his and Kit's lives.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "One hired man, a drunk named Gorry, feeds and guards the captives while Crake is away.",
@@ -49,21 +49,21 @@ export const overwhereIiLoddonBrothers = {
     },
     {
       fact: "Pip reaches the Grey Shaw tollhouse near midnight, a full day's walk on the road.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pip keeps to the road at a jog and a walk; he has about half an hour's start on anyone at Ashlin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An hour down the road from Ashlin, Pip hears runners behind him and hides in the hedge bottom.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wil reckons Pip won't think anyone is coming after him.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T17:32:34.860Z",
-  updatedAt: "2026-10-02T18:07:45.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore

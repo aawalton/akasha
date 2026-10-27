@@ -13,7 +13,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Hawise Tull, about thirty, lean and scarred, leads the Talented's training in the lower court.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hawise's Talent is Quickstep, Minor, at First Depth: for a few breaths she moves twice as fast.",
@@ -21,7 +21,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Hawise fights with two short blades, and speaks little, and that little blunt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Osric Penn, twenty-four, is huge and loud, with a Talent called Heft, Minor, at the Surface.",
@@ -37,23 +37,23 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Spark lets Corra snap stinging blue sparks from her fingertips, enough to numb a hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Training runs two hours from first light: wooden weapons first, then Talents, held light.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Lady Varrow's sparring rule: no Talent may harm what it cannot heal, nor draw on another's Water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Talented have heard Nala killed Crake; Osric wants to test her, Hawise to watch her first.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Corra is curious about Nala, and a little jealous of the Lady's notice.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sir Edric seldom trains with the others; at his years he keeps to drills with Hawise alone.",
@@ -61,11 +61,11 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Osric Penn is huge and loud, and swings a wooden maul one-handed, light as a switch.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Corra Venn is small and sharp-eyed, and snaps tiny blue sparks between her fingertips.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The court's rack holds wooden swords, mauls, short blades, and ash practice spears, blunt-capped.",
@@ -73,7 +73,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Osric fights in overhead and sweeping blows, fast for their weight, and leaves his flank open after.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Osric has never fought anyone with a spear's reach who could keep him at its end.",
@@ -81,27 +81,27 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "A practice bout ends at a clean touch to head or body, or when Hawise calls it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hawise's Quickstep lasts three or four breaths, then she needs a dozen heartbeats before the next.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Before each Quickstep, Hawise drops her weight onto the balls of her feet, a tell few catch.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At twice her speed, bad footing throws Hawise worse than it would a common fighter.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hawise has never sparred a water Talent, and does not think of the ground as a weapon.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Lady's rule leaves free the water in the court: frost, puddles, the well, the trough.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Undertow's push on a sparring partner is a shove of Nala's own tide, and the Lady's rule allows it.",
@@ -113,19 +113,19 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Pushing off puddle or trough water, Nala can shove herself half a step aside, faster than a stride.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A small push lands on Hawise as a cold slap of tide; the first one jolts her, after that she braces.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pushes timed with spearwork in a flurry wear Nala's mind fast, like fine work, not plain towing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Corra spars with a wooden sword, weakest of the three with a blade; she relies on getting close.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Corra's spark leaps a hand's breadth from her fingertips, or runs through whatever she touches.",
@@ -133,51 +133,51 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "A spark runs along water: wet flags, a soaked shaft, or a tide of Water touching Corra.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "If Nala's push touches Corra as she sparks, the spark runs back up the tide and numbs Nala's hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Corra knows sparks run along water, and will wet the ground near Nala to use it if she can.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "After the Hawise bout, Nala's mind holds only a few more fine pushes before they start to slip.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In Nala's first bout, her blunt spear touched Osric clean in the ribs; his maul caught her after.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "For a few breaths Hawise can blur to twice the speed a common fighter moves.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In Nala's second bout, Hawise blurred past her spear and touched her clean in the ribs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In Nala's third bout, a puddle slicked under Hawise's foot and Nala's spear touched her breastbone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: 'After losing to Nala, Hawise said she had never fought the ground before, and nodded: "Good."',
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "After Hawise's bout, Corra hopped down from the well-curb, sparks crackling, to spar Nala next.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In Nala's fourth bout, Corra's spark ran up her tide, numbed her hand, and Corra touched her ribs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At Callow Beck, Hawise draws her two steel short blades and leaves the call to Nala, the free blade.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Lady bade Hawise see Callow mended; she stays at Nala's side till it is.",
@@ -189,5 +189,5 @@ export const overwhereIiVarrowTalented = {
     },
   ],
   createdAt: "2026-10-02T23:40:33.733Z",
-  updatedAt: "2026-10-03T13:14:38.000Z",
+  updatedAt: "2026-10-27T19:44:46.500Z",
 } as const satisfies Lore
