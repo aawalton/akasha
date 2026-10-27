@@ -11,6 +11,7 @@ export const irisWorldBuilderProbeTwo = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "ab623e76-9292-418f-9314-774cf5127c18",
   createdAt: "2026-10-27T23:50:03.908Z",
-  updatedAt: "2026-10-27T23:50:03.908Z",
+  updatedAt: "2026-10-27T23:50:09.868Z",
 } as const satisfies Seat
