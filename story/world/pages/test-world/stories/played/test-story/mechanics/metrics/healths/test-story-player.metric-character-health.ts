@@ -5,11 +5,11 @@ export const testStoryPlayer = {
   type: "page-type/metric-character-health",
   slug: "test-story-player",
   character: "character-player/test-story-player",
-  value: 24,
+  value: 21,
   minValue: 0,
   maxValue: 24,
   history: "jsonl",
   displayOrder: 1,
   createdAt: "2026-10-27T19:11:48.398Z",
-  updatedAt: "2026-10-27T20:13:20.792Z",
+  updatedAt: "2026-10-27T23:32:12.833Z",
 } as const satisfies MetricCharacterHealth
