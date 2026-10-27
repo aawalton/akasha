@@ -7,17 +7,12 @@ export const awenTrainingMontage = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [
-    {
-      statement:
-        "The game master tells a montage in a few beats: its start, its highlights and its end.",
-    },
-  ],
+  intentStack: [],
   constraints: [
     "A montage pays out exactly what playing each of its sessions would have.",
     "A montage is asked for in the player's own words, with no control of its own.",
     "Alan approves the shape of each new page type or property before it is built.",
   ],
   createdAt: "2026-10-27T19:31:06.923Z",
-  updatedAt: "2026-10-27T23:59:16.765Z",
+  updatedAt: "2026-10-27T23:59:20.582Z",
 } as const satisfies Initiative
