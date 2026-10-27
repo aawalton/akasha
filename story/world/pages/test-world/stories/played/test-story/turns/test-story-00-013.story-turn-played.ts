@@ -16,7 +16,7 @@ export const testStory00013 = {
   lore: ["lore/test-world-folk"],
   interruptsAt: "2026-11-13T12:00:00.000Z",
   createdAt: "2026-10-27T23:44:58.546Z",
-  updatedAt: "2026-10-27T23:50:34.825Z",
-  ownLength: 86,
+  updatedAt: "2026-10-27T23:51:22.076Z",
+  ownLength: 112,
   endsAt: "2026-11-13T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
