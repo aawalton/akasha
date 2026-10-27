@@ -318,7 +318,8 @@ async function readFiled(
 export function usePlayedState(
   character: string,
   turn: number | null,
-  overlay: BeatOverlay = NO_OVERLAY
+  overlay: BeatOverlay = NO_OVERLAY,
+  shown = ""
 ): Filed | null {
   const slug = slugIn(character) ?? ""
   const [filed, setFiled] = useState<Filed | null>(null)
@@ -339,7 +340,7 @@ export function usePlayedState(
     return () => {
       alive = false
     }
-  }, [character, slug, turn, overlay])
+  }, [character, slug, turn, overlay, shown])
 
   return filed
 }

@@ -15,6 +15,7 @@ import type {
 import { composeSessionEnvelope } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
 import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
+  BEATS,
   makingSaid,
   PLAYER,
   stepIn,
@@ -129,8 +130,22 @@ function stepOf(row: Page): TurnStep {
 }
 
 function toldOf(row: Page): boolean {
-  if (stepOf(row) === PLAYER) return true
-  return row[PLAYED_ROLEPLAYED_KEY] === true && row[PLAYED_PROSE_KEY] !== undefined
+  const step = stepOf(row)
+  if (step === PLAYER) return true
+  const written = row[PLAYED_PROSE_KEY] !== undefined
+  return written && (step === BEATS || row[PLAYED_ROLEPLAYED_KEY] === true)
+}
+
+function makingOf(row: Page | undefined): row is Page {
+  return row !== undefined && (!toldOf(row) || stepOf(row) === BEATS)
+}
+
+const PLAYED_OWN_LENGTH_KEY = "ownLength"
+
+export function playedShownKey(ready: readonly Page[]): string {
+  const last = playedOrder(ready).at(-1)
+  if (last === undefined) return ""
+  return `${slugIn(last) ?? last.id}:${String(last[PLAYED_OWN_LENGTH_KEY] ?? "")}`
 }
 
 export function playedReady(rows: readonly Page[]): readonly Page[] {
@@ -154,7 +169,7 @@ function saidOver(
 
 export function playedMakingKey(rows: readonly Page[]): string | null {
   const last = playedOrder(rows).at(-1)
-  if (last === undefined || toldOf(last)) return null
+  if (!makingOf(last)) return null
   const step = stepOf(last)
   return `${slugIn(last) ?? last.id}:${step}`
 }
@@ -166,7 +181,7 @@ export function playedMaking(
   narrator: string | null = null
 ): Making | null {
   const last = playedOrder(rows).at(-1)
-  if (last === undefined || toldOf(last)) return null
+  if (!makingOf(last)) return null
   const step = stepOf(last)
   const action = last[PLAYED_TURN_ACTION_KEY]
   return {

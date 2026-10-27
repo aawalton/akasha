@@ -10,6 +10,7 @@ import {
   playedMaking,
   playedMakingKey,
   playedReady,
+  playedShownKey,
   playedTail,
   playedTitleOf,
   playedTurnsOf,
@@ -238,6 +239,12 @@ describe("playedReady and playedMaking", () => {
     })
     expect(playedReady([untold, read]).map((row) => row.id)).toEqual(["a"])
     expect(playedMaking([untold, read], [])?.step).toBe("world-builder")
+  })
+
+  test("a turn at beats is read once shown, while still made", () => {
+    const shown = turnPage({ id: "b", slug: "s", position: 2, stepStatus: at("beats"), prose: "t" })
+    expect([playedReady([shown]).length, playedMaking([shown], [])?.slug]).toEqual([1, "s"])
+    expect(playedShownKey([{ ...shown, ownLength: 9 }])).toBe("s:9")
   })
 
   test("a turn a narrator makes is said as hers", () => {

@@ -66,6 +66,7 @@ import {
   playedMaking,
   playedMakingKey,
   playedReady,
+  playedShownKey,
   playedTail,
   playedTurnsOf,
   playedUpcomingOf,
@@ -249,7 +250,8 @@ function PlayedStory({
     [appointments.rows, ready, opensAt, chapters.rows]
   )
   const sheetTurn = useMemo(() => sheetTurnOf(ready, chapters.rows), [ready, chapters.rows])
-  const filed = usePlayedState(characterAddress, sheetTurn)
+  const shownKey = useMemo(() => playedShownKey(ready), [ready])
+  const filed = usePlayedState(characterAddress, sheetTurn, undefined, shownKey)
   const characterName = textIn(characters.rows[0]?.title)
   const state = useMemo(() => {
     if (filed === null || sheetTurn === null) return null

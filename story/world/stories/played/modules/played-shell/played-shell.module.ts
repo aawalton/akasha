@@ -108,7 +108,11 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only a turn at player reaches the run, the sheet and the turns the bar counts.",
+      statement: "Only a told turn reaches the run, the sheet and the turns the bar counts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sheet is read again as each beat of the latest told turn is shown.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -139,5 +143,5 @@ export const playedShell = {
     },
   ],
   createdAt: "2026-09-14T19:28:23.697Z",
-  updatedAt: "2026-10-27T20:12:19.317Z",
+  updatedAt: "2026-10-27T20:30:20.835Z",
 } as const satisfies Module

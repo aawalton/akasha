@@ -53,6 +53,20 @@ export const playedRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A turn at beats is told from its first shown beat, its prose holding the beats shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn at beats is still being made, so its pending line sits under its shown beats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sheet is read again as the latest told turn's prose grows by a shown beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn stating no status is read as at player.",
     },
     {
@@ -113,5 +127,5 @@ export const playedRows = {
     },
   ],
   createdAt: "2026-09-14T19:22:52.305Z",
-  updatedAt: "2026-10-27T19:27:24.244Z",
+  updatedAt: "2026-10-27T20:30:20.835Z",
 } as const satisfies Module
