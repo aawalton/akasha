@@ -34,6 +34,14 @@ export const turnMaking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A waiting turn asks again once written, and is told where that memory is in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "So a waiting turn is told by whichever of it and the memory landed last.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "An action sent while the next turn waits joins that turn's action after a blank line.",
     },
@@ -85,5 +93,5 @@ export const turnMaking = {
     },
   ],
   createdAt: "2026-09-26T17:39:09.550Z",
-  updatedAt: "2026-10-27T21:43:59.912Z",
+  updatedAt: "2026-10-27T22:21:48.436Z",
 } as const satisfies Module

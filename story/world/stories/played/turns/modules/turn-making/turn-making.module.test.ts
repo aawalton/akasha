@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
+import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { worldBuilder } from "akasha/story/chapter/step-status/pages/world-builder.step-status.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
@@ -90,6 +91,17 @@ test("an action while the last turn's beats flow makes the next turn, waiting on
   const after = await turnMadeFor(GAME, "I open the gate", callsFlowing(remembered, []))
   expect(after).toMatchObject({ kind: "made", slug: "the-saga-00-003" })
   expect("waits" in after).toBe(false)
+})
+
+test("a turn made as the turn before's memory finishes is told, not left waiting", async () => {
+  const before = turnRow(2, "beats", { beats: FLOWING })
+  const asked = [[before], [turnRow(3, "world-builder"), { ...before, beats: REMEMBERED }]]
+  const calls = callsFlowing([], [])
+  const turns = (query: Query) => (query.pageTypeSlug === storyTurnPlayed.slug ? asked.shift() : [])
+  const raced = { ...calls, ask: async (query: Query) => ({ rows: turns(query) ?? [], n: 1 }) }
+  const made = await turnMadeFor(GAME, "I open the gate", raced)
+  expect(made).toMatchObject({ kind: "made", slug: "the-saga-00-003" })
+  expect(["waits" in made, asked]).toEqual([false, []])
 })
 
 test("an action while the next turn still waits joins that turn's action", async () => {

@@ -106,6 +106,11 @@ function waitsBehind(row: Row | undefined): boolean {
   return row !== undefined && stepIn(row[STATUS]) === BEATS && !rememberedIn(row[BEATS_FILE])
 }
 
+async function heldBack(game: string, before: string, calls: Calls): Promise<boolean> {
+  const turns = await calls.ask(latestAsked(game))
+  return !("refused" in turns) && waitsBehind(turns.rows.find((row) => row[SLUG] === before))
+}
+
 function latestIn(row: Row | undefined, before?: Row): Latest | null {
   if (row === undefined) return null
   const slug = textIn(row[SLUG])
@@ -312,7 +317,8 @@ export async function turnMadeFor(
   })
   if ("refused" in wrote) return { kind: "unread", why: wrote.refused }
   const played = roleplay.values[ROLEPLAYED] === true
-  const waits = made.waits ? { waits: true as const } : {}
+  const back = made.waits === true && (joins || (await heldBack(game, latest.slug, calls)))
+  const waits = back ? { waits: true as const } : {}
   return { kind: "made", slug: made.slug, at, roleplayed: played, ...waits }
 }
 
