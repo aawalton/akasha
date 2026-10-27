@@ -55,17 +55,28 @@ function watch(key: string, control: Control): undefined {
   for (const event of WATCHED_EVENTS) control.SetHandler(event, schedulePlacing, NAMESPACE)
 }
 
+function heightOf(panel: HudLayoutPanel, control: Control): number {
+  if (panel.measuredBy === undefined) return control.GetHeight()
+  const measure = GetControl(panel.measuredBy)
+  if (measure === undefined) return control.GetHeight()
+  watch(panel.measuredBy, measure)
+  const height = measure.GetHeight()
+  if (control.GetHeight() !== height) control.SetHeight(height)
+  return height
+}
+
 function boxOf(panel: HudLayoutPanel): HudPanelBox | undefined {
   const control = GetControl(panel.key)
   if (control === undefined) return undefined
   watch(panel.key, control)
+  const height = heightOf(panel, control)
   const shrinking = fitting.get(panel.key)
   return {
     key: panel.key,
     dock: panel.dock,
     displayOrder: panel.displayOrder,
     top: control.GetTop(),
-    height: shrinking?.wanted ?? control.GetHeight(),
+    height: shrinking?.wanted ?? height,
     hidden: control.IsHidden(),
     neverMoves: panel.neverMoves,
     shrinks: shrinking !== undefined,

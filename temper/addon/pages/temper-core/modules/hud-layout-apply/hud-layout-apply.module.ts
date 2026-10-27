@@ -34,6 +34,25 @@ export const hudLayoutApply = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A panel measured by another control is as tall as that control.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel measured by another control is made as tall as that control, so it covers nothing below it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every panel is placed again one frame after a control measuring a panel changes height.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel whose measuring control the game has not made yet is as tall as its own control.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Where no layout reached the game, nothing is moved.",
     },
     {
@@ -42,5 +61,5 @@ export const hudLayoutApply = {
     },
   ],
   createdAt: "2026-10-27T19:32:54.134Z",
-  updatedAt: "2026-10-27T19:32:54.134Z",
+  updatedAt: "2026-10-27T19:39:59.699Z",
 } as const satisfies Module
