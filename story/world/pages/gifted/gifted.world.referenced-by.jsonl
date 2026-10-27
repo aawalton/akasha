@@ -20,6 +20,14 @@
 {"propertySlug":"world","path":"story/world/pages/gifted/lore/gifted-penelope-hawthorn.lore.ts","id":"01a17edc-e1bd-7f87-b347-639e31f0c9f5"}
 {"propertySlug":"world","path":"story/world/pages/gifted/lore/gifted-realms.lore.ts","id":"01a17eda-ae7f-775b-96b2-c2e5fff0fadb"}
 {"propertySlug":"world","path":"story/world/pages/gifted/lore/gifted-souls-and-demons.lore.ts","id":"01a17eda-ae7f-71f4-9724-5784fa456822"}
+{"propertySlug":"world","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-basic-numeracy.world-skill.ts","id":"01a17edd-6b12-7bd9-aafc-93f4ba625ad6"}
+{"propertySlug":"world","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-eavesdropping.world-skill.ts","id":"01a17edd-6b13-770a-b89e-26873efda664"}
+{"propertySlug":"world","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-endurance.world-skill.ts","id":"01a17edd-6b13-77f9-9239-01a744cf6cd7"}
+{"propertySlug":"world","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-exceptionalism.world-skill.ts","id":"01a17edd-6b13-78c4-9357-16487687de42"}
+{"propertySlug":"world","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-linguistics-english.world-skill.ts","id":"01a17edd-6b14-75d3-bc5a-c2cb9f90d899"}
+{"propertySlug":"world","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-soulstealing.world-skill.ts","id":"01a17edd-6b14-716d-9086-c49e87223c28"}
+{"propertySlug":"world","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-the-completionist.world-skill.ts","id":"01a17edd-6b14-7415-bdcb-17cae3d65080"}
+{"propertySlug":"world","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-willpower.world-skill.ts","id":"01a17edd-6b14-761c-af77-15a126b838e8"}
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-cult-hideout.place.ts","id":"01a17edb-c5d8-7cfe-a394-3a5501944e0b"}
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-horndale-mountains.place.ts","id":"01a17edb-c5d9-749c-b98f-ff98b776bf1d"}
 {"propertySlug":"world","path":"story/world/pages/gifted/places/gifted-horndale-outpost.place.ts","id":"01a17edb-c5d9-7c7d-a774-c69d34680426"}

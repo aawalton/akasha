@@ -27,6 +27,14 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-sever.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-tether.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-tribute.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-basic-numeracy.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-eavesdropping.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-endurance.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-exceptionalism.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-linguistics-english.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-soulstealing.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-the-completionist.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-willpower.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-aura-hiding.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-fireball.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-haze.world-skill.ts","typed":true,"deferred":false}
