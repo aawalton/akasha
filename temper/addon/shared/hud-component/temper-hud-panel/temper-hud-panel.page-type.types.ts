@@ -1,3 +1,4 @@
+import type { InputModes } from "akasha/temper/addon/shared/hud-component/temper-hud-panel/properties/input-modes.select-property.types.ts"
 import type { MeasuredBy } from "akasha/temper/addon/shared/hud-component/temper-hud-panel/properties/measured-by.text-property.types.ts"
 import type { NeverMoves } from "akasha/temper/addon/shared/hud-component/temper-hud-panel/properties/never-moves.boolean-property.types.ts"
 import type { PanelDock } from "akasha/temper/addon/shared/hud-component/temper-hud-panel/properties/panel-dock.relation-property.types.ts"
@@ -11,4 +12,5 @@ export type TemperHudPanel = TemperThing & {
   displayOrder: DisplayOrder
   neverMoves?: NeverMoves
   measuredBy?: MeasuredBy
+  inputModes: InputModes
 }

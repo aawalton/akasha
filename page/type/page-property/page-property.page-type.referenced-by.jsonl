@@ -199,6 +199,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/stories/written/chapters/properties/scene-images.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/addon/properties/eso-interfaces.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/addon/properties/lua-modules.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/properties/input-modes.select-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/champion-point/temper-champion-star/properties/jump-points.number-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/companion/base-role/properties/default-weapon-role-ids.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/companion/base-role/properties/valid-armor-weights.text-property.types.ts","typed":true,"deferred":false}

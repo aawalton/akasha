@@ -8,7 +8,8 @@ export const actionBar = {
   key: "ZO_ActionBar1",
   dock: "temper-hud-dock/bottom",
   displayOrder: 1,
+  inputModes: ["keyboard"],
   neverMoves: true,
   createdAt: "2026-10-27T19:12:09.468Z",
-  updatedAt: "2026-10-27T19:12:09.468Z",
+  updatedAt: "2026-10-27T20:15:17.769Z",
 } as const satisfies TemperHudPanel

@@ -8,6 +8,7 @@ export const nextBossTimetable = {
   key: "TemperNextBossTimeTable",
   dock: "temper-hud-dock/top-left",
   displayOrder: 2,
+  inputModes: ["keyboard"],
   createdAt: "2026-10-27T19:40:57.331Z",
-  updatedAt: "2026-10-27T19:40:57.331Z",
+  updatedAt: "2026-10-27T20:15:17.769Z",
 } as const satisfies TemperHudPanel

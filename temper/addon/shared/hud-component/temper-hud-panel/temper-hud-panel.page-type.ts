@@ -10,6 +10,7 @@ export const temperHudPanel = {
     "relation-property/panel-dock",
     "boolean-property/never-moves",
     "text-property/measured-by",
+    "select-property/input-modes",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -17,6 +18,7 @@ export const temperHudPanel = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "boolean-property/never-moves", required: false, many: false },
     { pageProperty: "text-property/measured-by", required: false, many: false },
+    { pageProperty: "select-property/input-modes", required: true, many: true, maxCount: null },
   ],
   decisions: [
     {
@@ -32,9 +34,13 @@ export const temperHudPanel = {
       decisionKind: "decision-kind/departure",
       statement: "A panel stating nothing of whether it moves is a panel that moves.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Keyboard mode and gamepad mode each place the panels stating that mode.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-27T19:11:11.511Z",
-  updatedAt: "2026-10-27T19:38:16.195Z",
+  updatedAt: "2026-10-27T20:15:17.769Z",
 } as const satisfies PageType

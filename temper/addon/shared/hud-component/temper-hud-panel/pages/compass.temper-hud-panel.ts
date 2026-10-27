@@ -8,6 +8,7 @@ export const compass = {
   key: "ZO_CompassFrame",
   dock: "temper-hud-dock/top",
   displayOrder: 1,
+  inputModes: ["keyboard"],
   createdAt: "2026-10-27T19:12:09.468Z",
-  updatedAt: "2026-10-27T19:12:09.468Z",
+  updatedAt: "2026-10-27T20:15:17.769Z",
 } as const satisfies TemperHudPanel

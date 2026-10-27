@@ -8,6 +8,7 @@ export const playerAttributes = {
   key: "ZO_PlayerAttribute",
   dock: "temper-hud-dock/bottom",
   displayOrder: 2,
+  inputModes: ["keyboard"],
   createdAt: "2026-10-27T19:12:09.468Z",
-  updatedAt: "2026-10-27T19:12:09.468Z",
+  updatedAt: "2026-10-27T20:15:17.769Z",
 } as const satisfies TemperHudPanel

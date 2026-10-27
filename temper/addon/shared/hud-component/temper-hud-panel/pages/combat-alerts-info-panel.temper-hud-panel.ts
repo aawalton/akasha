@@ -8,6 +8,7 @@ export const combatAlertsInfoPanel = {
   key: "TemperCombatAlertsInfoPanel",
   dock: "temper-hud-dock/top-right",
   displayOrder: 3,
+  inputModes: ["keyboard"],
   createdAt: "2026-10-27T19:41:08.099Z",
-  updatedAt: "2026-10-27T19:41:08.099Z",
+  updatedAt: "2026-10-27T20:15:17.769Z",
 } as const satisfies TemperHudPanel

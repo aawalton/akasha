@@ -8,6 +8,7 @@ export const bossHealthBar = {
   key: "TemperCombatAlertsBossHealthBarContainer",
   dock: "temper-hud-dock/left",
   displayOrder: 1,
+  inputModes: ["keyboard"],
   createdAt: "2026-10-27T19:41:18.190Z",
-  updatedAt: "2026-10-27T19:41:18.190Z",
+  updatedAt: "2026-10-27T20:15:17.769Z",
 } as const satisfies TemperHudPanel
