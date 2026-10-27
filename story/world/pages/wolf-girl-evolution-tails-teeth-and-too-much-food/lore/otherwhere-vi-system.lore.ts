@@ -58,7 +58,7 @@ export const otherwhereViSystem = {
     },
     {
       fact: "One with no reading skill who says Inspect, Appraise or Identify gets no answer at all.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Identify can form in one who tries often, with intent, to know what a thing truly is.",
@@ -66,7 +66,7 @@ export const otherwhereViSystem = {
     },
     {
       fact: "Eating a plain berry shows nothing on a status: no line, no effect, no remark.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Thinking a status entry's name, or asking what it does, shows that entry's description.",
@@ -287,5 +287,5 @@ export const otherwhereViSystem = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T22:31:08.083Z",
-  updatedAt: "2026-09-29T00:26:09.000Z",
+  updatedAt: "2026-10-27T19:31:50.267Z",
 } as const satisfies Lore

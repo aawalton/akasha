@@ -65,13 +65,9 @@ export const otherwhereViWenmarch = {
     },
     {
       fact: "The temple at Wenmarch heals with light, for silver; it lies two days on past the ford.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-wat",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T22:46:39.818Z",
-  updatedAt: "2026-09-29T03:00:42.000Z",
+  updatedAt: "2026-10-27T19:31:50.267Z",
 } as const satisfies Place

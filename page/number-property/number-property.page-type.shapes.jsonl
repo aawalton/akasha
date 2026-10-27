@@ -359,8 +359,6 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"original-publication-year","propertySlug":"original-publication-year","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"otherwhere-ix-skill-level","propertySlug":"level","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"otherwhere-v-rank","propertySlug":"rank","fileName":null,"folderName":null}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"otherwhere-vi-skill-level","propertySlug":"level","fileName":null,"folderName":null}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"otherwhere-vi-skill-stamina-cost","propertySlug":"stamina-cost","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"otherwhere-x-skill-level","propertySlug":"level","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"otherwhere-xi-skill-level","propertySlug":"level","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"overwhere-i-legacy-element-cost","propertySlug":"element-cost","fileName":null,"folderName":null}

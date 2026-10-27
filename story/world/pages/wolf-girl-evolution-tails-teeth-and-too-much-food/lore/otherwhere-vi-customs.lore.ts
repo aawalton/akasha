@@ -113,12 +113,7 @@ export const otherwhereViCustoms = {
     },
     {
       fact: "Guest-right: anyone who asks shelter of a roof is fed and warmed that night, no questions.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-        "character-other/otherwhere-vi-wat",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Guest-right is asked plainly and granted without haggling; to refuse is a deep shame.",
@@ -126,12 +121,7 @@ export const otherwhereViCustoms = {
     },
     {
       fact: "Guest-right lasts the night and the morning meal; longer means work, pay or the road.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-wat",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A guest owes news of the road, honest answers, and no hand raised under that roof.",
@@ -143,12 +133,7 @@ export const otherwhereViCustoms = {
     },
     {
       fact: "Charcoal burners, drovers and shepherds hold guest-right hardest; they live by it themselves.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-        "character-other/otherwhere-vi-wat",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A barefoot stranger in a torn shirt and tights reads as a runaway or a madwoman to Weald folk.",
@@ -156,11 +141,7 @@ export const otherwhereViCustoms = {
     },
     {
       fact: "Folk ask a stranger's name, home village and road; no name and no village is a bad answer.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Weald folk take any land they never heard of for somewhere past the Empire's far edge.",
@@ -184,13 +165,9 @@ export const otherwhereViCustoms = {
     },
     {
       fact: "A guest owes the house that shelters her news of the road.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T22:43:19.306Z",
-  updatedAt: "2026-09-29T04:09:43.000Z",
+  updatedAt: "2026-10-27T19:31:50.267Z",
 } as const satisfies Lore

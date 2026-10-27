@@ -18,7 +18,7 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "An hour below the hollow the stream drops down a mossy ravine in a small fall.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The ravine's sides are steep and slick; the dry way round is a deer trail on the west bank.",
@@ -46,7 +46,7 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "The great moon lights the stream brightly tonight; under the thick pines it is near black.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Where the stream meets the Carrow, charcoal burners keep a smoking clamp and a hut.",
@@ -74,27 +74,27 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "The stream's banks are pine needles, roots, moss and loose stone, with no path along them.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The ravine's sides are steep, mossy and slick with spray; a dry trail runs along its west rim.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An owl calls along the stream at night, and the pines creak high overhead in the wind.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The rim trail runs a few hundred paces west of the ravine, out of sight of the water.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The fall's roar carries along the rim trail, so the water can be followed by ear.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The rim trail forks at a split boulder: the left fork drops down a gully to the stream.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The right fork climbs on west, away from the water, toward the Sallow Mire.",
@@ -102,11 +102,11 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "The gully is steep and stony, but dry; it meets the stream below the fall in a quarter hour.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A doe and her yearling bed down tonight on the rim trail, and bolt crashing if come upon.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The two young wolves are working toward the rim trail from the west, following the deer.",
@@ -114,31 +114,31 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "The rim trail's right fork at the split boulder climbs on west, away from the water.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Below the fall the stream runs wider and slower, with alders leaning out over it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A smell of churned mud and animal musk hangs over the water downstream of the fall.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The stream above the fall is ice-cold and tastes of nothing but stone.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tonight two lean, silent wolves watch from the gully's lip; one vanished into a boulder's shadow.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Below the fall the bank is cobble and gravel, with loose stones of every size at the water.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Spring floods pile driftwood against the alders: dead limbs of alder and pine, some sound.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dead pine snaps brittle; green alder bends and will not break; old dry alder is light but sound.",
@@ -146,11 +146,11 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "Some ten minutes down, a drift pile holds a dry alder limb, wrist-thick and taller than her.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The drift pile limb is wedged; working it free takes a few minutes' tugging, not great strength.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The wolf on the lip is a young male, level 4, 28 HP, bolder, and will trail her along the bank.",
@@ -222,11 +222,11 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "The west slope round the wallow is steep, root-laced and black under the pines.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Halfway round, a wind-thrown pine lies across the slope, chest-high, its root plate a wall.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "One who keeps forty paces or more upslope draws a huff from the sow, but no rush.",
@@ -234,19 +234,15 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "The sow shadows a slow retreat a few steps, clacking, then turns back once her young go quiet.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-wallow-sow",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the slope's foot, open gravel bank runs downstream behind one backing from the wallow.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Below the wallow the valley narrows; birch joins the alder, and the stream talks over riffles.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Cowberry carpets the drier banks under the pines, its red berries ripe, sour and safe to eat.",
@@ -278,55 +274,39 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "Dead pine in the drift snaps short and brittle; old dry alder there is light but sound.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The bolder lip wolf trails her down the bank beyond a stone's throw, stopping when she stops.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-lip-wolf",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Downstream, trampled mud and shallows under alders hold one big bristled beast and four smaller.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-lip-wolf",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the edge of that mud the trailing wolf stopped, looked toward it, and trotted back upstream.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-lip-wolf",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When she fell near the mud, the four small beasts squealed and scrambled in behind the big one.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The big beast huffed, clacked its teeth, rushed at her through the mud, and stopped short of her.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-wallow-sow",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Low shrubs on the drier banks under the pines below the wallow carry small red berries.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The shrubs below the wallow hang thick with clusters of small red berries, sharp, sour and seedy.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A handful of the sour red berries below the wallow barely dents an empty stomach's hunger.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   exits: [
@@ -342,5 +322,5 @@ export const otherwhereViHollowStream = {
     },
   ],
   createdAt: "2026-09-28T22:48:38.189Z",
-  updatedAt: "2026-09-29T00:42:30.000Z",
+  updatedAt: "2026-10-27T19:31:50.267Z",
 } as const satisfies Place

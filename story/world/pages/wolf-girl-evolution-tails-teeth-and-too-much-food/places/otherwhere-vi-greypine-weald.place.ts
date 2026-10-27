@@ -21,11 +21,7 @@ export const otherwhereViGreypineWeald = {
     },
     {
       fact: "The river Carrow bounds the Weald on the south and flows west to the market town Wenmarch.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "North of the Weald rise bare fells where no one lives; east it runs into trackless hills.",
@@ -105,36 +101,19 @@ export const otherwhereViGreypineWeald = {
     },
     {
       fact: "Weald folk call the bare fells north of the trees the Bare Backs and say nothing lives up there.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "They call the Carrow the Big Water, and reckon Brackenford half a day down it by raft.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-        "character-other/otherwhere-vi-wat",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A burner gives directions by burns, ridges and fords, never by miles, which he does not count.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Weald folk speak of the Crown's country south beyond the river, and of Wenmarch as the town.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Locals know the wolves' howling ground and will not cross the Weald's middle after dark.",
@@ -142,46 +121,26 @@ export const otherwhereViGreypineWeald = {
     },
     {
       fact: "Locals fear the bear on the east slopes this autumn and go nowhere near them alone.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-wat",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A stranger naming no village and no road is reckoned a runaway or an outlaw, and spoken round.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A stranger who speaks of far countries and no home is answered politely and watched quietly.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vi-jory-tull",
-        "character-other/otherwhere-vi-wat",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wolves hold the Weald's middle, and folk do not cross it after dark.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-wat",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Weald runs days north of the Carrow, all pine and hill.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T22:45:33.594Z",
-  updatedAt: "2026-09-29T02:43:18.000Z",
+  updatedAt: "2026-10-27T19:31:50.267Z",
 } as const satisfies Place

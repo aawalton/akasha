@@ -37,12 +37,7 @@ export const otherwhereViBrackenford = {
     },
     {
       fact: "One vouched for by a Brackenford man is let through the gate without the questions.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-wat",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The inn is the Tallow Lamp, kept by Hesk Amberhide, a bearfolk woman, slow and kind.",
@@ -102,22 +97,13 @@ export const otherwhereViBrackenford = {
     },
     {
       fact: "Brackenford's gate asks a stranger's name, village and road; one with no village is held a runaway.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Jory Tull is a Brackenford man, and his mother is Brackenford's headwoman.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vi-nala",
-        "character-other/otherwhere-vi-wat",
-        "character-other/otherwhere-vi-jory-tull",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T22:46:39.817Z",
-  updatedAt: "2026-09-29T03:00:42.000Z",
+  updatedAt: "2026-10-27T19:31:50.267Z",
 } as const satisfies Place

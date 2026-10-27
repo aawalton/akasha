@@ -9,19 +9,19 @@ export const otherwhereViMossHollow = {
   facts: [
     {
       fact: "Moss Hollow is a dip among old pines, floored with deep moss and ringed by mossy boulders.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Two moons hang over the hollow at night, one large and pale, one small and faintly blue.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The pines are tall and straight, their lowest branches far above head height.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A cold stream runs along the hollow's east edge over flat grey stones.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The stream water is clean and safe to drink.",
@@ -41,11 +41,11 @@ export const otherwhereViMossHollow = {
     },
     {
       fact: "Many voices howl together from the forest north of the hollow at night.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The hollow is cold at night, cold enough that breath shows in the air.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The hollow's stream runs south, and in a day's walk joins the river Carrow.",
@@ -93,7 +93,7 @@ export const otherwhereViMossHollow = {
     },
     {
       fact: "Just below the hollow a narrow trodden line crosses the stream, its mud marked by split hoof prints.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   within: "place/otherwhere-vi-greypine-weald",
@@ -121,5 +121,5 @@ export const otherwhereViMossHollow = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T22:22:21.676Z",
-  updatedAt: "2026-09-28T23:00:28.000Z",
+  updatedAt: "2026-10-27T19:31:50.267Z",
 } as const satisfies Place

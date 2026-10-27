@@ -34,7 +34,7 @@ export const otherwhereViCowberryBank = {
     },
     {
       fact: "Late in the night the wolf pack howls far off to the north-west, long and many-voiced.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Toward dawn frost silvers the bank; under the spruce the needles stay dry and unfrozen.",
@@ -54,11 +54,11 @@ export const otherwhereViCowberryBank = {
     },
     {
       fact: "The cowberry shrubs are the only low cover on the bank, and the north wind blows through them.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At first light on day two frost silvers the bank and mist lies along the stream below.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   exits: [
@@ -69,5 +69,5 @@ export const otherwhereViCowberryBank = {
     },
   ],
   createdAt: "2026-09-29T00:46:04.223Z",
-  updatedAt: "2026-09-29T01:01:26.000Z",
+  updatedAt: "2026-10-27T19:31:50.267Z",
 } as const satisfies Place
