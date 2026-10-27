@@ -28,6 +28,7 @@ import { senderIn } from "akasha/command/pages/seat/send/seat-send.command.code.
 import { storyChat as page } from "akasha/command/pages/story/chat/story-chat.command.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { chatLine } from "akasha/story/world/stories/played/modules/chat-lines/chat-lines.module.code.ts"
 import { chat } from "akasha/story/world/stories/played/properties/chat.file-property.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 
@@ -46,10 +47,6 @@ export type Placing = (root: string, story: string) => string | null
 export function chatAt(root: string, story: string): string | null {
   const listed = listedAt(root, storyPlayed.slug, story)[0]
   return listed === undefined ? null : besideAt(listed.path, chat.propertySlug, HELD)
-}
-
-export function chatLine(from: string, said: string, at: string): string {
-  return `${JSON.stringify({ at, from, body: said })}\n`
 }
 
 export function askedFor(path: string, from: string, said: string, at: string): readonly Asking[] {

@@ -881,6 +881,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/picture-answering/picture-answering.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/readout-guarding/readout-guarding.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/route-access-holding/route-access-holding.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/story-chat-answering/story-chat-answering.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-app-id/alan-app-id.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.ts","typed":true,"deferred":false}
@@ -2786,6 +2787,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/action-bar-state/action-bar-state.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/action-bar/action-bar.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/beat-overlay/beat-overlay.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/chat-lines/chat-lines.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/chat-panel/chat-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/cover-redrawing/cover-redrawing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.ts","typed":true,"deferred":false}

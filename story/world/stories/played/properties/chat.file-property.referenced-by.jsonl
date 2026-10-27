@@ -1,4 +1,6 @@
+{"propertySlug":"import","fileName":"chat.file-property.ts","path":"alan/web/.server/story-chat-answering/story-chat-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"chat.file-property.ts","path":"command/pages/story/chat/story-chat.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"chat.file-property.ts","path":"story/world/stories/played/modules/chat-panel/chat-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"chat.file-property.types.ts","path":"story/world/stories/played/story-played.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"parts","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}

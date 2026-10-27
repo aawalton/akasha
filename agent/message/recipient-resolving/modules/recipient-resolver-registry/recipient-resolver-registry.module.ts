@@ -22,6 +22,10 @@ export const recipientResolverRegistry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A played story's game master is started by a message Alan says in its chat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A world builder seat is started by its game's game master.",
     },
     {
@@ -95,5 +99,5 @@ export const recipientResolverRegistry = {
     },
   ],
   createdAt: "2026-09-03T04:18:48.798Z",
-  updatedAt: "2026-10-24T20:39:57.157Z",
+  updatedAt: "2026-10-27T19:21:46.037Z",
 } as const satisfies Module

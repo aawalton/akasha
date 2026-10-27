@@ -214,7 +214,7 @@ async function draftDropped(game: string): Promise<undefined> {
 
 const throughTheForwarder: Sending = (asked) => writingFor(asked)
 
-function defaultEffects(): ActionBarEffects {
+export function defaultEffects(): ActionBarEffects {
   return {
     signedIn: (request) => signedInAs(request),
     enrol: (contributor) => personSlugFor(asContributor(contributor)),
@@ -229,7 +229,7 @@ function defaultEffects(): ActionBarEffects {
 
 type Answer = (body: unknown, status: number) => Response
 
-function answerFor(request: Request): Answer {
+export function answerFor(request: Request): Answer {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   return (body, status) => Response.json(body, { status, headers: withCors(new Headers(), cors) })
 }
@@ -238,7 +238,7 @@ type Gate =
   | { readonly ok: true; readonly seat: string; readonly game: string }
   | { readonly ok: false; readonly answered: Response }
 
-async function gateFor(
+export async function gateFor(
   effects: ActionBarEffects,
   request: Request,
   gameExternalId: string,
@@ -261,7 +261,7 @@ async function gateFor(
   return { ok: true, seat: seated.seat, game: seated.game }
 }
 
-function actionIn(body: unknown): { readonly game: string; readonly text: string } | null {
+export function actionIn(body: unknown): { readonly game: string; readonly text: string } | null {
   if (typeof body !== "object" || body === null) return null
   const said = body as { readonly gameExternalId?: unknown; readonly text?: unknown }
   const game = textIn(said.gameExternalId)

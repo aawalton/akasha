@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-played.page-type.ts","path":"alan/web/.server/story-chat-answering/story-chat-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"command/pages/measure/story/measure-story.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"command/pages/story/chat/story-chat.command.code.ts","typed":false,"deferred":false}
@@ -18,6 +19,7 @@
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"command/pages/story/turn/modules/turn-undoing/turn-undoing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"command/pages/story/turn/open/story-turn-open.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"command/pages/story/turn/take-back/story-turn-take-back.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-played.page-type.ts","path":"story/world/stories/played/modules/chat-panel/chat-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"story/world/stories/played/modules/played-beside/played-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"story/world/stories/played/modules/player-beside/player-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"story/world/stories/played/modules/player-beside/player-beside.module.test.ts","typed":false,"deferred":false}

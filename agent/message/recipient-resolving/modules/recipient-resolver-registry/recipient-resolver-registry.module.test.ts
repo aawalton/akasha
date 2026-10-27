@@ -13,6 +13,7 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   ACTION_BAR_PLAYER,
   ACTION_BAR_SENDER,
+  CHAT_SENDER,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import {
   JOB_SENDER,
@@ -86,6 +87,12 @@ test("the game master seat is started by the action bar and by its world builder
   expect(heard(MASTER, `agent:${ACTION_BAR_SENDER}`)).toBe(true)
   expect(heard(MASTER, `agent:${BUILDER}`)).toBe(true)
   expect(heard(MASTER, "agent:someone-else")).toBe(false)
+})
+
+test("a played story's game master is started by a chat message, and no other seat is", () => {
+  expect(heard(MASTER, `agent:${CHAT_SENDER}`)).toBe(true)
+  expect(heard(BUILDER, `agent:${CHAT_SENDER}`)).toBe(false)
+  expect(heard(WRITER, `agent:${CHAT_SENDER}`)).toBe(false)
 })
 
 test("the world builder seat is started by its game master, and never by the action bar", () => {

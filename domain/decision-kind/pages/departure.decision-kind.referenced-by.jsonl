@@ -1317,6 +1317,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/.server/picture-answering/picture-answering.module.ts","id":"01a09c61-a5d9-766a-9d6d-662757fe1a24"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/readout-guarding/readout-guarding.module.ts","id":"01a0655e-d39a-743e-a192-9fef67057d38"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/route-access-holding/route-access-holding.module.ts","id":"01a0655e-d39a-7381-af75-83593fd6c7b1"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/story-chat-answering/story-chat-answering.module.ts","id":"01a17ecf-bd36-7b35-8cfc-6bc1dc046199"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts","id":"01a078aa-cea1-71ff-8aa2-0b3766623b39"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.ts","id":"01a0655d-dab8-7853-9f9b-b95d2c8ee8a0"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.ts","id":"01a0655d-dab8-75b5-b6b9-521ef16cadd1"}
@@ -4326,6 +4327,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar-state/action-bar-state.module.ts","id":"01a0d48a-0758-724f-85b2-9b2412f0754f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar/action-bar.module.ts","id":"01a0d48b-8f76-7e2b-9030-a05bc2c03057"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/beat-overlay/beat-overlay.module.ts","id":"01a10390-5892-7717-b2a7-d5037a34ce46"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/modules/chat-lines/chat-lines.module.ts","id":"01a17ecf-bd36-748c-9f18-98233f4e78a6"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/chat-panel/chat-panel.module.ts","id":"01a17eb7-3040-75c3-bb48-6a14f977b150"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/cover-redrawing/cover-redrawing.module.ts","id":"01a1060a-a302-7f33-a06f-8650c2870c98"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.ts","id":"01a0e851-25d9-756c-ab3b-35fef0612b06"}

@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/web/.server/chapter-write-answering/chapter-write-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/web/.server/story-chat-answering/story-chat-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/web/routes/alan-web-api-seat-image/alan-web-api-seat-image.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"change/mechanical/page-type/add/add-page-property-types/add-page-property-types.change-mechanical-page-type.code.ts","typed":false,"deferred":false}

@@ -3,7 +3,9 @@
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-tick/recipient-resolver-tick.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"alan/web/.server/chapter-write-answering/chapter-write-answering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"alan/web/.server/story-chat-answering/story-chat-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"alan/web/routes/action-bar/action-bar.route.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"alan/web/routes/story-chat/story-chat.route.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"story/engine/core/modules/action-bar-message/action-bar-message.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"story/ui/modules/client-envelope/client-envelope.module.code.ts","typed":false,"deferred":false}
@@ -11,5 +13,5 @@
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"story/world/stories/played/modules/action-bar/action-bar.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"story/world/stories/played/modules/chat-panel/chat-panel.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"story/world/stories/played/modules/chat-lines/chat-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}

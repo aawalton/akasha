@@ -1,5 +1,6 @@
 "use client"
 
+import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
@@ -12,14 +13,21 @@ import {
   ToggleGroup,
   ToggleGroupItem,
 } from "akasha/design/interface/primitive/modules/toggle-group/toggle-group.module.code.tsx"
-import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { isOutOfCharacterFeedback } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import type { PageWatch } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
+import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
+import { getPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { chat } from "akasha/story/ui/played-panel/panel-place/pages/chat.panel-place.ts"
 import {
-  readWaiting,
-  sendAction,
-} from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
-import type { PendingAction } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
+  CHAT_PLAYER,
+  type ChatSaid,
+  chatSaidIn,
+} from "akasha/story/world/stories/played/modules/chat-lines/chat-lines.module.code.ts"
+import {
+  askedLoudly,
+  reportThrown,
+} from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
+import { chat as chatFile } from "akasha/story/world/stories/played/properties/chat.file-property.ts"
+import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import { ArrowUp } from "lucide-react"
 import { type ReactNode, useCallback, useEffect, useLayoutEffect, useRef, useState } from "react"
 
@@ -34,10 +42,9 @@ export type ChatLine = {
   readonly said: string | null
 }
 
-export type ChatSent = {
+export type ChatPending = {
   readonly key: string
   readonly text: string
-  readonly id: string | null
   readonly refused: string | null
 }
 
@@ -45,11 +52,21 @@ const ASSISTANT = "assistant"
 
 const ASSISTANT_LABEL = "Assistant"
 
-const POLL_MS = 5000
+const CHAT_AT = "/api/story-chat"
 
-const FEEDBACK = "feedback"
+const ID_KEY = "id"
+
+const CHAT_KEY = chatFile.propertySlug
+
+const HELD = "jsonl"
 
 const SENDING = "Sending…"
+
+const NO_ANSWER = "the chat did not answer. Try again."
+
+const SIGNED_OUT = "sign in to send a message."
+
+const UNAUTHORIZED = 401
 
 const PANEL =
   "flex h-[calc(100dvh-var(--safe-area-top)-6rem)] min-h-80 flex-col gap-3 max-[583px]:h-[calc(100dvh-var(--safe-area-top)-var(--safe-area-bottom)-8.5rem)]"
@@ -74,56 +91,26 @@ export function askedOf(answerer: string): string {
 }
 
 export function emptySaid(answerer: string): string {
-  return `Ask ${answerer} anything out of character. The answer opens the next turn.`
+  return `Ask ${answerer} anything out of character.`
 }
 
-function waitingSaid(answerer: string): string {
-  return `Waiting for ${answerer}`
-}
-
-function readSaid(answerer: string): string {
-  return `Read by ${answerer}`
-}
-
-export function unbracketed(text: string): string {
-  const trimmed = text.trim()
-  return isOutOfCharacterFeedback(trimmed) ? trimmed.slice(1, -1).trim() : trimmed
-}
-
-export function bracketed(text: string): string {
-  const trimmed = text.trim()
-  return isOutOfCharacterFeedback(trimmed) ? trimmed : `[${trimmed}]`
-}
-
-function sentSaid(one: ChatSent, waiting: ReadonlySet<string>, answerer: string): string {
-  if (one.refused !== null) return `Not sent: ${one.refused}`
-  if (one.id === null) return SENDING
-  return waiting.has(one.id) ? waitingSaid(answerer) : readSaid(answerer)
-}
-
-export function chatLinesOf(
-  sent: readonly ChatSent[],
-  pending: readonly PendingAction[],
-  answerer: string
+export function linesOf(
+  said: readonly ChatSaid[],
+  pending: readonly ChatPending[]
 ): readonly ChatLine[] {
-  const asked = pending.filter((one) => one.kind === FEEDBACK)
-  const waiting: ReadonlySet<string> = new Set(asked.map((one) => one.id))
-  const mine: ReadonlySet<string | null> = new Set(sent.map((one) => one.id))
-  const before: ChatLine[] = asked
-    .filter((one) => !mine.has(one.id))
-    .map((one) => ({
-      key: one.id,
-      from: "alan",
-      text: unbracketed(one.text),
-      said: waitingSaid(answerer),
-    }))
-  const after: ChatLine[] = sent.map((one) => ({
+  const kept: ChatLine[] = said.map((one, at) => ({
+    key: `${at}:${one.at}`,
+    from: one.from === CHAT_PLAYER ? "alan" : "game-master",
+    text: one.body,
+    said: null,
+  }))
+  const waiting: ChatLine[] = pending.map((one) => ({
     key: one.key,
     from: "alan",
     text: one.text,
-    said: sentSaid(one, waiting, answerer),
+    said: one.refused === null ? SENDING : `Not sent: ${one.refused}`,
   }))
-  return [...before, ...after]
+  return [...kept, ...waiting]
 }
 
 function LineDrawn({ line }: { line: ChatLine }) {
@@ -229,62 +216,110 @@ export function ChatPanel({
   )
 }
 
-function useAssistantChat(gameExternalId: string, answerer: string) {
-  const userId = useUserId()
-  const [pending, setPending] = useState<readonly PendingAction[]>([])
-  const [sent, setSent] = useState<readonly ChatSent[]>([])
-  const refresh = useCallback(async () => {
-    const read = await readWaiting(gameExternalId)
-    if (read !== null) setPending(read.pending)
-  }, [gameExternalId])
+async function chatRead(storyId: string): Promise<readonly ChatSaid[] | null> {
+  const asked = await askedLoudly({
+    "page-type": storyPlayed.slug,
+    where: { id: { is: storyId } },
+    keys: [ID_KEY, CHAT_KEY],
+    files: [CHAT_KEY],
+  })
+  if (!asked.ok) return null
+  const text = asked.answer.rows[0]?.values[CHAT_KEY]
+  return chatSaidIn(typeof text === "string" && text !== HELD ? text : null)
+}
+
+async function chatSent(gameExternalId: string, text: string): Promise<string | null> {
+  try {
+    const answered = await apiFetch(CHAT_AT, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ gameExternalId, text }),
+    })
+    if (answered.status === UNAUTHORIZED) return SIGNED_OUT
+    const said: unknown = await answered.json().catch(() => null)
+    if (typeof said !== "object" || said === null) return NO_ANSWER
+    if (Reflect.get(said, "ok") === true) return null
+    const error: unknown = Reflect.get(said, "error")
+    return typeof error === "string" ? error : NO_ANSWER
+  } catch {
+    return NO_ANSWER
+  }
+}
+
+function useChatSaid(storyId: string): readonly [readonly ChatSaid[], () => Promise<void>] {
+  const [said, setSaid] = useState<readonly ChatSaid[]>([])
+  const asking = useRef<Promise<void> | null>(null)
+  const ask = useCallback((): Promise<void> => {
+    const running = asking.current
+    if (running !== null) return running.then(() => ask())
+    const made = chatRead(storyId)
+      .catch((thrown: unknown) => {
+        reportThrown(`reading the chat of ${storyId}`, thrown)
+        return null
+      })
+      .then((read) => {
+        asking.current = null
+        if (read !== null) setSaid(read)
+      })
+    asking.current = made
+    return made
+  }, [storyId])
   useEffect(() => {
-    if (userId === null) return
-    void refresh()
-    const every = window.setInterval(() => {
-      void refresh()
-    }, POLL_MS)
-    return () => window.clearInterval(every)
-  }, [userId, refresh])
+    let alive = true
+    let watch: PageWatch | null = null
+    void ask()
+    void getPagesStore().then((store) => {
+      if (alive) {
+        watch = store.watchPage(storyPlayed.slug, storyId, () => {
+          void ask()
+          return undefined
+        })
+      }
+    })
+    const timer = setInterval(() => {
+      if (watch === null || !watch.live()) void ask()
+    }, FILE_BACKING_POLL_MS)
+    return () => {
+      alive = false
+      clearInterval(timer)
+      watch?.release()
+    }
+  }, [storyId, ask])
+  return [said, ask]
+}
+
+function useStoryChat(storyId: string, gameExternalId: string) {
+  const [said, ask] = useChatSaid(storyId)
+  const [pending, setPending] = useState<readonly ChatPending[]>([])
   const send = useCallback(
     (text: string) => {
       const key = crypto.randomUUID()
-      setSent((held) => [...held, { key, text, id: null, refused: null }])
-      void sendAction({ gameExternalId, text: bracketed(text) }).then((answered) => {
-        setSent((held) =>
-          held.map((one) =>
-            one.key !== key
-              ? one
-              : answered.ok
-                ? { ...one, id: answered.id }
-                : { ...one, refused: answered.error }
-          )
+      setPending((held) => [...held, { key, text, refused: null }])
+      void chatSent(gameExternalId, text).then(async (refused) => {
+        if (refused === null) await ask()
+        setPending((held) =>
+          refused === null
+            ? held.filter((one) => one.key !== key)
+            : held.map((one) => (one.key === key ? { ...one, refused } : one))
         )
-        if (answered.ok) void refresh()
       })
     },
-    [gameExternalId, refresh]
+    [gameExternalId, ask]
   )
-  return { lines: chatLinesOf(sent, pending, answerer), send }
+  return { lines: linesOf(said, pending), send }
 }
 
-export function AssistantChat({
-  gameExternalId,
-  answerer,
-}: {
-  gameExternalId: string
-  answerer: string
-}) {
-  const { lines, send } = useAssistantChat(gameExternalId, answerer)
-  return <ChatPanel lines={lines} answerer={answerer} onSend={send} />
+function StoryChat({ storyId, gameExternalId }: { storyId: string; gameExternalId: string }) {
+  const { lines, send } = useStoryChat(storyId, gameExternalId)
+  return <ChatPanel lines={lines} answerer={THE_ASSISTANT} onSend={send} />
 }
 
 export function chatPlaced(
   placed: ReadonlyMap<string, ReactNode>,
-  gameExternalId: string | undefined
+  gameExternalId: string | undefined,
+  storyId: string
 ): ReadonlyMap<string, ReactNode> {
   if (gameExternalId === undefined) return placed
-  const drawn = (
-    <AssistantChat key={chat.slug} gameExternalId={gameExternalId} answerer={THE_ASSISTANT} />
-  )
+  const drawn = <StoryChat key={chat.slug} storyId={storyId} gameExternalId={gameExternalId} />
   return new Map<string, ReactNode>([...placed, [chat.slug, drawn]])
 }

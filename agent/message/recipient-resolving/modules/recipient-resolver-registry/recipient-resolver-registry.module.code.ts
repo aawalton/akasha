@@ -32,6 +32,7 @@ import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.m
 import {
   ACTION_BAR_PLAYER,
   ACTION_BAR_SENDER,
+  CHAT_SENDER,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
@@ -174,7 +175,13 @@ export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAge
       persona === null ? null : { persona, role: as, domain: game, principal: ACTION_BAR_PLAYER }
     const coordinating =
       role === ROLEPLAY ? narrating(startAs(ROLEPLAY), master, game) : startAs(GAME_MASTER)
-    const bar = played === false ? [] : [heardFrom(master, ACTION_BAR_SENDER, "action-bar")]
+    const bar =
+      played === false
+        ? []
+        : [
+            heardFrom(master, ACTION_BAR_SENDER, "action-bar"),
+            heardFrom(master, CHAT_SENDER, "chat"),
+          ]
     const noticed = heardFrom(master, STEP_SENDER, STEP_SENDER)
     const specs = [
       gameSeatSpec(

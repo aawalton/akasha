@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"capacitor-cors.module.code.ts","path":"alan/web/.server/alan-answer-page-types/alan-answer-page-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-cors.module.code.ts","path":"alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-cors.module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"capacitor-cors.module.code.ts","path":"alan/web/.server/story-chat-answering/story-chat-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-cors.module.code.ts","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-cors.module.code.ts","path":"alan/web/modules/capacitor-cors/capacitor-cors.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-cors.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.code.ts","typed":false,"deferred":false}

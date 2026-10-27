@@ -3,11 +3,7 @@ import { appendLines } from "akasha/change/mechanical/file-content/append-lines/
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
-import {
-  askedFor,
-  chatLine,
-  storyChat,
-} from "akasha/command/pages/story/chat/story-chat.command.code.ts"
+import { askedFor, storyChat } from "akasha/command/pages/story/chat/story-chat.command.code.ts"
 
 const AT = "2026-10-27T19:00:00.000Z"
 
@@ -20,15 +16,6 @@ const GIVEN: Given = {
   agentId: null,
   writer: "Mari <mari@alanwalton.com>",
 }
-
-test("a message is one json line holding when, who and what", () => {
-  expect(JSON.parse(chatLine("mari", "two hours", AT))).toEqual({
-    at: AT,
-    from: "mari",
-    body: "two hours",
-  })
-  expect(chatLine("mari", "two hours", AT).endsWith("\n")).toBe(true)
-})
 
 test("a message is appended to the chat rather than written over it", () => {
   const asked = askedFor("a/b.story-played.chat.jsonl", "mari", "yes", AT)

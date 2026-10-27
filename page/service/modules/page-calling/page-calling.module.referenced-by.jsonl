@@ -31,6 +31,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/.server/home-dni-param/home-dni-param.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/.server/story-chat-answering/story-chat-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/modules/seat-message-asking/seat-message-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/modules/seat-message-withdrawing/seat-message-withdrawing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/modules/seat-message-withdrawing/seat-message-withdrawing.module.test.ts","typed":true,"deferred":false}

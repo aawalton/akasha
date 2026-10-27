@@ -2,6 +2,8 @@ export const ACTION_BAR_PLAYER = "alan"
 
 export const ACTION_BAR_SENDER = `${ACTION_BAR_PLAYER}-action-bar`
 
+export const CHAT_SENDER = `${ACTION_BAR_PLAYER}-chat`
+
 export const ACTION_BAR_MESSAGE_KINDS = ["action", "feedback"] as const
 export type ActionBarMessageKind = (typeof ACTION_BAR_MESSAGE_KINDS)[number]
 

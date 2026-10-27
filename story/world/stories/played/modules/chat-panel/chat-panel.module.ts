@@ -21,16 +21,22 @@ export const chatPanel = {
       statement: "A chat message sends whether or not a turn is being made.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "A chat message reaches the game master as a bracketed line the action bar would send.",
+      decisionKind: "decision-kind/departure",
+      statement: "The history is the story's chat file, read again each time the story is pushed.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "The history holds the messages sent on this visit and the messages still waiting.",
+      decisionKind: "decision-kind/departure",
+      statement: "The chat file is read on a timer only while the story's page is not followed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message still sending or refused is drawn after every line the chat kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line said by any seat is drawn as the game master's answer.",
     },
   ],
   createdAt: "2026-10-27T18:54:57.088Z",
-  updatedAt: "2026-10-27T18:54:57.088Z",
+  updatedAt: "2026-10-27T19:21:46.037Z",
 } as const satisfies Module
