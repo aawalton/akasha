@@ -9,13 +9,18 @@ export const testStory00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/test-story-player"],
-  stepStatus: "step-status/beats",
+  stepStatus: "step-status/player",
   action:
     "Each day I drill swordplay in the hall from morning to evening, until my swordplay reaches its next rung, for at most 10 days.",
   beats: "jsonl",
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
+  reviewedBy: [
+    "story-reviewer/holdings",
+    "story-reviewer/scene",
+    "story-reviewer/continuity",
+    "story-reviewer/style",
+  ],
   createdAt: "2026-10-27T23:37:05.705Z",
-  updatedAt: "2026-10-27T23:43:33.100Z",
+  updatedAt: "2026-10-27T23:43:54.308Z",
   ownLength: 108,
   endsAt: "2026-11-11T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
