@@ -3,12 +3,7 @@ import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
-import { theTowerEmberWave } from "akasha/story/world/pages/personas/mechanics/skills/the-tower-ember-wave.world-skill.ts"
-import { theTowerSmithing } from "akasha/story/world/pages/personas/mechanics/skills/the-tower-smithing.world-skill.ts"
-import { theTowerAlan } from "akasha/story/world/pages/personas/stories/played/the-tower/characters/the-tower-alan.character-player.ts"
-import { theTowerCompanionAelwyn } from "akasha/story/world/pages/personas/stories/played/the-tower/characters/the-tower-companion-aelwyn.character-other.ts"
-import { theTowerApprentice } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/pages/the-tower-apprentice.tower-skill-rank.ts"
-import { towerSkillRank } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.ts"
+
 import {
   attunementsIn,
   bondsIn,
@@ -25,15 +20,27 @@ import {
   traitsIn,
 } from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
 
-const SMITHING = namedAs(worldSkill.slug, theTowerSmithing.slug, null)
+const SMITHING_SLUG = "some-smithing"
 
-const EMBER_WAVE = namedAs(worldSkill.slug, theTowerEmberWave.slug, null)
+const SMITHING_TITLE = "Smithing"
 
-const APPRENTICE = namedAs(towerSkillRank.slug, theTowerApprentice.slug, null)
+const EMBER_WAVE_TITLE = "Ember Wave"
 
-const ALAN = namedAs(characterPlayer.slug, theTowerAlan.slug, null)
+const APPRENTICE_TITLE = "Apprentice"
 
-const AELWYN = namedAs(characterOther.slug, theTowerCompanionAelwyn.slug, null)
+const ALAN_SLUG = "some-alan"
+
+const AELWYN_SLUG = "some-companion-aelwyn"
+
+const SMITHING = namedAs(worldSkill.slug, SMITHING_SLUG, null)
+
+const EMBER_WAVE = namedAs(worldSkill.slug, "some-ember-wave", null)
+
+const APPRENTICE = namedAs("some-skill-rank", "some-apprentice", null)
+
+const ALAN = namedAs(characterPlayer.slug, ALAN_SLUG, null)
+
+const AELWYN = namedAs(characterOther.slug, AELWYN_SLUG, null)
 
 const QUEST_ROW = {
   values: {
@@ -265,9 +272,9 @@ test("a purse is named by its currency, shown in its coins or its words, and ord
 
 test("a skill is named by the skill page's title and ranked by the rank page's title", () => {
   const titles = new Map([
-    [SMITHING, theTowerSmithing.title],
-    [EMBER_WAVE, theTowerEmberWave.title],
-    [APPRENTICE, theTowerApprentice.title],
+    [SMITHING, SMITHING_TITLE],
+    [EMBER_WAVE, EMBER_WAVE_TITLE],
+    [APPRENTICE, APPRENTICE_TITLE],
   ])
   const rows = [
     { values: { skill: SMITHING, rank: APPRENTICE, level: 1 } },
@@ -275,15 +282,15 @@ test("a skill is named by the skill page's title and ranked by the rank page's t
     { values: { skill: "unknown", level: 2 } },
   ]
   expect(skillsIn(rows, titles)).toEqual([
-    { name: theTowerEmberWave.title, score: 3, note: "the form" },
-    { name: theTowerSmithing.title, rank: theTowerApprentice.title, score: 1 },
+    { name: EMBER_WAVE_TITLE, score: 3, note: "the form" },
+    { name: SMITHING_TITLE, rank: APPRENTICE_TITLE, score: 1 },
   ])
 })
 
 test("a skill's note is its skill page's description, over the note its holding names", () => {
   const titles = new Map([
-    [SMITHING, theTowerSmithing.title],
-    [EMBER_WAVE, theTowerEmberWave.title],
+    [SMITHING, SMITHING_TITLE],
+    [EMBER_WAVE, EMBER_WAVE_TITLE],
   ])
   const descriptions = new Map([[SMITHING, "shapes metal"]])
   const rows = [
@@ -291,15 +298,15 @@ test("a skill's note is its skill page's description, over the note its holding 
     { values: { skill: EMBER_WAVE, level: 3, axis: "the form" } },
   ]
   expect(skillsIn(rows, titles, descriptions)).toEqual([
-    { name: theTowerEmberWave.title, score: 3, note: "the form" },
-    { name: theTowerSmithing.title, score: 1, note: "shapes metal" },
+    { name: EMBER_WAVE_TITLE, score: 3, note: "the form" },
+    { name: SMITHING_TITLE, score: 1, note: "shapes metal" },
   ])
 })
 
 test("a skill whose rank is a number is scored by that rank", () => {
-  const titles = new Map([[SMITHING, theTowerSmithing.title]])
+  const titles = new Map([[SMITHING, SMITHING_TITLE]])
   expect(skillsIn([{ values: { skill: SMITHING, rank: 2 } }], titles)).toEqual([
-    { name: theTowerSmithing.title, score: 2 },
+    { name: SMITHING_TITLE, score: 2 },
   ])
 })
 
@@ -381,9 +388,9 @@ test("the pages a row names are gathered by type, from a single address or a lis
   const rows = [{ values: { skill: SMITHING, characters: [ALAN, AELWYN] } }]
   expect(namedIn(rows, ["skill", "characters"])).toEqual(
     new Map([
-      [worldSkill.slug, [theTowerSmithing.slug]],
-      [characterPlayer.slug, [theTowerAlan.slug]],
-      [characterOther.slug, [theTowerCompanionAelwyn.slug]],
+      [worldSkill.slug, [SMITHING_SLUG]],
+      [characterPlayer.slug, [ALAN_SLUG]],
+      [characterOther.slug, [AELWYN_SLUG]],
     ])
   )
 })
