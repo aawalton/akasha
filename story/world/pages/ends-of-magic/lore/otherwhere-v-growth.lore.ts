@@ -6,7 +6,7 @@ export const otherwhereVGrowth = {
   slug: "otherwhere-v-growth",
   title: "Growth",
   world: "world/ends-of-magic",
-  about: "world-mechanic/otherwhere-v-growth",
+  about: "world/ends-of-magic",
   facts: [
     {
       fact: "People grow stronger and more skilled by overcoming hard things.",
@@ -14,5 +14,5 @@ export const otherwhereVGrowth = {
     },
   ],
   createdAt: "2026-09-28T22:05:00.272Z",
-  updatedAt: "2026-09-28T22:05:06.000Z",
+  updatedAt: "2026-10-27T19:32:30.855Z",
 } as const satisfies Lore

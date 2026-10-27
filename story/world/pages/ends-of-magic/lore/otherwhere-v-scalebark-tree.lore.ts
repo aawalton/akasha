@@ -14,11 +14,11 @@ export const otherwhereVScalebarkTree = {
     },
     {
       fact: "Scalebark bark is overlapping grey scales, each hand-sized and hard as horn.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Shed scalebark scales have edges sharp enough to cut cord or skin.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Scalebark leaves are long, narrow and blue-green, and stay on the tree through winter.",
@@ -50,5 +50,5 @@ export const otherwhereVScalebarkTree = {
     },
   ],
   createdAt: "2026-09-28T22:00:44.756Z",
-  updatedAt: "2026-09-28T22:07:52.000Z",
+  updatedAt: "2026-10-27T19:32:30.855Z",
 } as const satisfies Lore

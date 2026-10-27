@@ -6,7 +6,7 @@ export const otherwhereVTime = {
   slug: "otherwhere-v-time",
   title: "Time",
   world: "world/ends-of-magic",
-  about: "world-mechanic/otherwhere-v-time",
+  about: "world/ends-of-magic",
   facts: [
     {
       fact: "Nala's days are counted from the evening she landed in Davrar.",
@@ -14,5 +14,5 @@ export const otherwhereVTime = {
     },
   ],
   createdAt: "2026-09-28T22:05:19.651Z",
-  updatedAt: "2026-09-28T22:05:22.000Z",
+  updatedAt: "2026-10-27T19:32:30.855Z",
 } as const satisfies Lore

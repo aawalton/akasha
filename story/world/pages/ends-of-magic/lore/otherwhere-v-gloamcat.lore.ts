@@ -67,7 +67,7 @@ export const otherwhereVGloamcat = {
     },
     {
       fact: "A heavy grey beast burst from the ferns at Nala at full dark, day one, and swerved off hissing.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A gloamcat reads prey that goes quietly away after its feint, back turned, as fleeing.",
@@ -119,7 +119,7 @@ export const otherwhereVGloamcat = {
     },
     {
       fact: "Night, day one: something large moved under the ferns toward Nala's back as she crept to the log.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Prey that breaks into a run draws the gloamcat's rush at once; it runs far faster than a person.",
@@ -127,7 +127,7 @@ export const otherwhereVGloamcat = {
     },
     {
       fact: "Rushing Nala as she runs for the log, it reaches her back ten yards short of the log's mouth.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its rush from behind ends in a leap for the back of the neck, heavy and low.",
@@ -139,7 +139,7 @@ export const otherwhereVGloamcat = {
     },
     {
       fact: "Night, day one: the beast bit the back of Nala's neck and shoulder twice as she crawled for the log.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Prey that twists round and wrestles its jaws off counts as fighting back, noise or none.",
@@ -175,13 +175,13 @@ export const otherwhereVGloamcat = {
     },
     {
       fact: "Night, day one: the beast bit Nala a third time, deep in the side of her neck.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The beast's fur is coarse and thick, and its cheek under the fur is hard as bone.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T21:40:48.318Z",
-  updatedAt: "2026-09-28T22:59:54.000Z",
+  updatedAt: "2026-10-27T19:32:30.855Z",
 } as const satisfies Lore

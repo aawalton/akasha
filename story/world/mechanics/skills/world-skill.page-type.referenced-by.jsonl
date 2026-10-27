@@ -1,5 +1,4 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/skills/character-skill/character-skill.page-type.ts","id":"01a10362-0c7c-73f8-a241-d557905e128b"}
-{"propertySlug":"extends-type","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/utility-skills/otherwhere-v-utility-skill.page-type.ts","id":"01a0ea01-5719-755d-94fd-72e8bfea55a6"}
 {"propertySlug":"extends-type","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/techniques/otherwhere-vii-technique.page-type.ts","id":"01a0ea42-574f-7ae4-a171-8beea7d4ce9a"}
 {"propertySlug":"extends-type","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/skills/overwhere-i-skill.page-type.ts","id":"01a0ed15-c07a-7af3-800b-dd692b3a0334"}
 {"propertySlug":"extends-type","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/skills/otherwhere-i-skill.page-type.ts","id":"01a0e7f8-cd1e-7c5f-99ea-3fcf5cc7205a"}
@@ -14,7 +13,6 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/mechanics/skills/character-skill/character-skill.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/utility-skills/otherwhere-v-utility-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-belong.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-brew.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/skills/fairweather-call.world-skill.ts","typed":true,"deferred":false}

@@ -6,7 +6,7 @@ export const otherwhereVLanguageLearning = {
   slug: "otherwhere-v-language-learning",
   title: "Language Learning",
   world: "world/ends-of-magic",
-  about: "world-mechanic/otherwhere-v-language-learning",
+  about: "world/ends-of-magic",
   facts: [
     {
       fact: "A tongue is learned by hearing it and using it.",
@@ -14,5 +14,5 @@ export const otherwhereVLanguageLearning = {
     },
   ],
   createdAt: "2026-09-28T22:05:19.650Z",
-  updatedAt: "2026-09-28T22:05:22.000Z",
+  updatedAt: "2026-10-27T19:32:30.855Z",
 } as const satisfies Lore

@@ -7,10 +7,10 @@ export const characterTrait = {
   definition: "a lasting way the rules bend for one character",
   pluralSlug: "character-traits",
   extends: ["page-type/world-trait"],
-  parts: ["relation-property/trait-character", "page-type/otherwhere-v-talent"],
+  parts: ["relation-property/trait-character"],
   properties: [{ pageProperty: "relation-property/trait-character", required: true, many: false }],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T18:25:29.795Z",
-  updatedAt: "2026-09-28T21:51:44.000Z",
+  updatedAt: "2026-10-27T19:32:30.855Z",
 } as const satisfies PageType

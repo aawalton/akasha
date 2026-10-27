@@ -6,7 +6,7 @@ export const otherwhereVSurvival = {
   slug: "otherwhere-v-survival",
   title: "Survival",
   world: "world/ends-of-magic",
-  about: "world-mechanic/otherwhere-v-survival",
+  about: "world/ends-of-magic",
   facts: [
     {
       fact: "Thirst, hunger, cold and want of sleep wear a body down.",
@@ -14,5 +14,5 @@ export const otherwhereVSurvival = {
     },
   ],
   createdAt: "2026-09-28T22:05:35.726Z",
-  updatedAt: "2026-09-28T22:05:39.000Z",
+  updatedAt: "2026-10-27T19:32:30.855Z",
 } as const satisfies Lore

@@ -6,7 +6,7 @@ export const otherwhereVInjury = {
   slug: "otherwhere-v-injury",
   title: "Injury",
   world: "world/ends-of-magic",
-  about: "world-mechanic/otherwhere-v-injury",
+  about: "world/ends-of-magic",
   facts: [
     {
       fact: "Cuts, bites, burns and breaks mend slowly.",
@@ -22,5 +22,5 @@ export const otherwhereVInjury = {
     },
   ],
   createdAt: "2026-09-28T22:05:35.725Z",
-  updatedAt: "2026-09-28T22:46:31.000Z",
+  updatedAt: "2026-10-27T19:32:30.855Z",
 } as const satisfies Lore

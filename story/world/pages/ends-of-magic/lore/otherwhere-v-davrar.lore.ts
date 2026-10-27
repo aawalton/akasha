@@ -10,15 +10,15 @@ export const otherwhereVDavrar = {
   facts: [
     {
       fact: "A blue box welcomed Nala to Davrar and said Davrar would help her survive.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Davrar said it was adapting Nala to the local biosystem and determining her capabilities.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Davrar's blue boxes hang before the eyes, turn with the head, and are understood as they are read.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Davrar is the name of the world and of the power that grants Talents, classes, levels and skills.",
@@ -67,5 +67,5 @@ export const otherwhereVDavrar = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T21:25:45.666Z",
-  updatedAt: "2026-09-28T22:49:17.000Z",
+  updatedAt: "2026-10-27T19:32:30.855Z",
 } as const satisfies Lore

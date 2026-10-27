@@ -26,11 +26,11 @@ export const otherwhereVFernHollow = {
   facts: [
     {
       fact: "Fern Hollow is a bowl-shaped clearing in an old forest, floored with moss and ferns.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The hollow's trees are huge and straight, with bark like grey scales and bluish leaves.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A spring rises in the hollow's low side and runs off as a clear, cold brook.",
@@ -38,7 +38,7 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "Faint green lights drift under the canopy at dusk, and the ferns glow where they touch.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The brook runs down toward a woodcutters' track and, beyond it, a river valley.",
@@ -46,15 +46,15 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "A spring wells up between two roots on the hollow's low side and runs downhill as a clear brook.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Faint green lights drift under the canopy over the hollow as the light goes golden toward dusk.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Something unseen in the hollow's ferns ticks and clicks like a clock with too many hands.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The ticking in the ferns is click-lizards, finger-long insect eaters, harmless.",
@@ -94,11 +94,11 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "The ticking in the hollow's ferns falls quiet at a voice, then starts up again after a while.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Three rising whistled notes sound far off around the hollow toward dusk, and are answered.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A slow careful circuit reaches about a hundred yards from the spring by the end of dusk.",
@@ -106,7 +106,7 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "Forty yards east of the spring lies a fallen scalebark, its root end hollow, dry and crawlable.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The fallen trunk's rotted core holds dry, shreddable punk and fibre that would take a spark.",
@@ -114,15 +114,15 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "Dead branches lie everywhere under the trees; the ones off the ground are dry.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Shed bark scales are hand-sized, hard as horn, with edges sharp enough to cut cord or skin.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The brook bed is rounded grey stones; eighty yards down, a bank shows dark glassy flint.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Flint struck on flint throws weak sparks; struck on the grey brook stones it throws none.",
@@ -130,7 +130,7 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "Brookberry canes line the brook sixty yards below the spring, hung with ripe dark-red berries.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Brookberries are tart and safe; a double handful eases hunger a little.",
@@ -146,27 +146,27 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "On the upslope rim, a trunk is scored by deep claw marks at head height, the bark shredded.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The clawed trunk smells of musk, and scat with grey fur and bone bits lies near its roots.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The canopy closes over the hollow; no view of the land beyond can be had from it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The fallen trunk's rotted core is soft, dry punk full of fibre that crumbles to shreds.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Low bushes in the hollow's shade bear sweet-smelling blue-black berries.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A small trail through ferns on the hollow's south rim is marked by pellets and nibbled fern.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The clawed trunk is ninety yards upslope of the spring, eighty yards from the log's mouth.",
@@ -174,7 +174,7 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "Between them is a fern slope, waist-high, over moss, roots and scattered bark scales.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Feeling her way barefoot in full dark, crossing those eighty yards takes about five minutes.",
@@ -198,21 +198,21 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "The fallen log's mouth lies eighty yards downslope of the clawed trunk, across the hollow.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The ferns' ticking falls quiet right around anyone walking through, then resumes behind them.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In full dark the drifting green lights light nothing; they are only points to steer between.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The fallen log's hollow is dry and close inside, and smells of rot and earth.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T21:20:57.450Z",
-  updatedAt: "2026-09-28T22:31:25.000Z",
+  updatedAt: "2026-10-27T19:32:30.855Z",
 } as const satisfies Place
