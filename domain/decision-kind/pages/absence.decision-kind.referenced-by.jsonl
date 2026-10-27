@@ -1916,6 +1916,9 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.ts","id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
+{"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-action-check.world-check.ts","id":"01a17fbf-aff5-77f9-8a21-3c90f97f9836"}
+{"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-training.world-check.ts","id":"01a17fbf-aff5-7971-b3fe-026d1c8213e0"}
+{"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-upkeep.world-check.ts","id":"01a17fbf-aff5-7bb2-8427-debb272ebc2e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-action-check.world-check.ts","id":"01a17f7f-6e81-7774-a985-a2358303cf31"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-training.world-check.ts","id":"01a17f7f-6e81-7f07-be86-2d613c9930d0"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-upkeep.world-check.ts","id":"01a17f7f-6e81-7ce2-836e-c88153bf64ff"}
