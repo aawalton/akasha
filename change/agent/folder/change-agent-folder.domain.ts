@@ -5,7 +5,12 @@ export const changeAgentFolder = {
   type: "page-type/domain",
   slug: "change-agent-folder",
   definition: "a change an agent makes to a whole folder",
-  parts: ["change-agent/move-folder", "change-agent/nest-modules", "change-agent/remove-folder"],
+  parts: [
+    "change-agent/move-folder",
+    "change-agent/nest-modules",
+    "change-agent/remove-folder",
+    "change-agent/unlist-pages-under",
+  ],
   createdAt: "2026-09-07T16:45:05.810Z",
-  updatedAt: "2026-09-25T13:29:24.000Z",
+  updatedAt: "2026-10-27T19:24:03.177Z",
 } as const satisfies Domain

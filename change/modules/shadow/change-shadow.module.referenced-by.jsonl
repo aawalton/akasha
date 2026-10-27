@@ -86,6 +86,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/folder/nest-modules/nest-modules.change-agent.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/folder/remove-folder/remove-folder.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/folder/remove-folder/remove-folder.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/folder/unlist-pages-under/unlist-pages-under.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/folder/unlist-pages-under/unlist-pages-under.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-property/add-page-property/add-page-property.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-property/add-page-property/add-page-property.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-property/remove-page-property/remove-page-property.change-agent.code.ts","typed":false,"deferred":false}
@@ -222,6 +224,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/folder/unlist-pages-under/unlist-pages-under.change-mechanical-folder.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/folder/unlist-pages-under/unlist-pages-under.change-mechanical-folder.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.code.ts","typed":true,"deferred":false}

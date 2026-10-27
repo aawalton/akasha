@@ -230,6 +230,9 @@ export type Changes = {
   "change-agent/sort-property-values-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/unlist-pages-under": Parameters<
+    typeof import("akasha/change/agent/folder/unlist-pages-under/unlist-pages-under.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/unquote-text-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/unquote-text-on-every-page/unquote-text-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
@@ -328,6 +331,9 @@ export type Changes = {
   >[1]
   "change-mechanical-folder/remove-folder": Parameters<
     typeof import("akasha/change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.code.ts")["runChange"]
+  >[1]
+  "change-mechanical-folder/unlist-pages-under": Parameters<
+    typeof import("akasha/change/mechanical/folder/unlist-pages-under/unlist-pages-under.change-mechanical-folder.code.ts")["runChange"]
   >[1]
   "change-mechanical-page-type/add-file-property-extensions": Parameters<
     typeof import("akasha/change/mechanical/page-type/add/add-file-property-extensions/add-file-property-extensions.change-mechanical-page-type.code.ts")["runChange"]

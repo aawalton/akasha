@@ -6,7 +6,11 @@ export const changeMechanicalFolder = {
   slug: "change-mechanical-folder",
   definition: "a mechanical change acting on the files a folder has rather than on one of them",
   extends: ["page-type/change-mechanical"],
-  parts: ["change-mechanical-folder/move-folder", "change-mechanical-folder/remove-folder"],
+  parts: [
+    "change-mechanical-folder/move-folder",
+    "change-mechanical-folder/remove-folder",
+    "change-mechanical-folder/unlist-pages-under",
+  ],
   properties: [],
   decisions: [
     {
@@ -21,5 +25,5 @@ export const changeMechanicalFolder = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-07T11:34:56.412Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-27T19:24:03.177Z",
 } as const satisfies PageType

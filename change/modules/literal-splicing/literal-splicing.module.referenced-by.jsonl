@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"literal-splicing.module.code.ts","path":"change/mechanical/file-content/remove/remove-property-record/remove-property-record.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"literal-splicing.module.code.ts","path":"change/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"literal-splicing.module.code.ts","path":"change/mechanical/file-content/remove/remove-type-member/remove-type-member.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"literal-splicing.module.code.ts","path":"change/mechanical/folder/unlist-pages-under/unlist-pages-under.change-mechanical-folder.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"literal-splicing.module.code.ts","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"literal-splicing.module.code.ts","path":"change/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"literal-splicing.module.code.ts","path":"change/modules/literal-splicing/literal-splicing.module.test.ts","typed":false,"deferred":false}
