@@ -16,7 +16,7 @@ export const otherwhereIvLanqiao = {
   facts: [
     {
       fact: "Lanqiao is the market town thirty li down the river from Three Stones.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     { fact: "Lanqiao is a walled mortal town.", knowers: ["lore-disclosure/game-master"] },
     {
@@ -90,5 +90,5 @@ export const otherwhereIvLanqiao = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T21:50:56.820Z",
-  updatedAt: "2026-09-28T22:18:07.000Z",
+  updatedAt: "2026-10-27T19:31:15.081Z",
 } as const satisfies Place

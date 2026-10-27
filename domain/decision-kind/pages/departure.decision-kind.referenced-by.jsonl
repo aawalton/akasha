@@ -4158,14 +4158,6 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/titles/character-title/character-title.page-type.ts","id":"01a17ebe-19c2-733f-bc86-c00084693644"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"decision-kind","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
-{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-action-check.world-check.ts","id":"01a0e9eb-69c8-7f7c-82e0-e80dc64f4722"}
-{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-cultivating.world-check.ts","id":"01a0ea00-b2f3-7d29-a1a3-ece62f1079dd"}
-{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-harm.world-check.ts","id":"01a0e9f7-c596-7b73-a99b-74525b635bef"}
-{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-needs.world-check.ts","id":"01a0e9f1-97bd-70ba-b847-4b5b04c1bc0a"}
-{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-standing.world-check.ts","id":"01a0e9f4-7487-71e7-be4a-57eb862b8b70"}
-{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-time-passing.world-check.ts","id":"01a0e9ea-7b35-7738-9044-313555b4f9d4"}
-{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/attributes/cultivation-stage/otherwhere-iv-cultivation-stage.page-type.ts","id":"01a0e9fe-6b1e-7d89-a51f-157e82496998"}
-{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/attributes/skill/otherwhere-iv-skill.page-type.ts","id":"01a0e9f2-33a2-7aea-8e04-8f2eb5b5bf1e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/climb/stories/written/climb/mechanics/floors/climb-floor.page-type.ts","id":"01a0f953-d88d-75ad-99c3-5a6db47c8f61"}
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/mechanics/derived/cornerstone-wakefulness.world-derived-metric.ts","id":"01a0dee7-ba7b-7084-b6fd-e83123684331"}
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/mechanics/ranks/depth/cornerstone-depth.page-type.ts","id":"01a0dee6-492c-728a-b2ed-cf137b64fbd8"}

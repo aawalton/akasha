@@ -9,37 +9,21 @@ export const otherwhereIvZhaoHousehold = {
   facts: [
     {
       fact: "At the Zhao house live two sisters, Mei, about fourteen, and Lan, about six.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Zhao family fed Nala rice, pickled mustard greens, half a salted duck egg and weak hot tea.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala was served in the Zhao house's good bowl, the only one she saw without a chipped rim.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Zhao family would not sit until Nala sat, and watched her sidelong as they ate.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T23:02:34.252Z",
-  updatedAt: "2026-09-28T23:02:40.000Z",
+  updatedAt: "2026-10-27T19:31:15.081Z",
 } as const satisfies Lore

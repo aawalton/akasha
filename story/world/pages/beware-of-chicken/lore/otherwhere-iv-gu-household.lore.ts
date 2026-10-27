@@ -21,27 +21,15 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "Headman Gu first asks a claimed spirit to read aloud a line of his almanac, since few can read.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He next asks a reckoning: forty households owing three dou of rice each, in sheng at ten a dou.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The answer to his reckoning is twelve hundred sheng; he takes a long time over it with his abacus.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He last asks why the moon waxes and wanes; he holds that the moon's palace turns away from men.",
@@ -65,19 +53,11 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "Gu's almanac: 9th of the Snake favors weeding, walls, shrine offerings; not journeys or moving.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Headman Gu's last question to Nala: why the moon waxes and wanes, full mid-month, thin at its ends.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Gu holds, as the almanac teaches, that Heaven is a round dome over a square Earth.",
@@ -85,19 +65,11 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "He believes the sun is carried across Heaven each day, rising from the eastern sea.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He believes the sun goes beneath the Earth by night and returns to the east by dawn.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "To Gu the sun moving is plain sight; saying the Earth moves would sound like madness.",
@@ -113,11 +85,7 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "Gu has long seen that the moon's bright side always faces the sun, and never knew why.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An answer that explains a thing he has seen himself persuades Gu more than any wonder.",
@@ -133,51 +101,31 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "Persuaded by Nala's moon answer, Gu bowed deep and gave her his east room, the best in Three Stones.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Gu's grey-haired wife said Nala needs clothes first, then a bath, then rooms.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Gu warns word of Nala will reach Lanqiao by next market; some will call her fox or demon.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Gu expects the Fang boys at his gate by afternoon over the talk of a spirit.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Gu asked Nala to make an offering with him at the Three Stones shrine at dusk, before the village.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Gu Meilan gives Nala her married daughter's old clothes: blue hemp jacket, trousers, sash, shoes.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Gu house bath is a wooden tub in the kitchen shed, filled with water heated in the big wok.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Gus' daughter, Gu Yan, married a Lanqiao cloth dealer and left her old clothes in a chest.",
@@ -185,31 +133,27 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "Gu Meilan tells Nala that everyone calls her Auntie.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala agreed to make the dusk offering with Gu at the Three Stones shrine.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's east room at the Gu house has a quilted bed, a chest, a lattice window and a barred door.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Before the midday meal Auntie Gu makes the house's offering at a small shrine in the main room.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Two loud young brothers came to Gu's gate to see the spirit; Gu told them to wait for dusk.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Gu would put any boar hunt under Tie Bo, never under the Fang brothers.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Gu would give the Fangs torches and gongs as beaters, and keep the two old spears for steadier men.",
@@ -217,19 +161,11 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "Gu wants Zhao Jun to tell the headman's house the whole of the broken walls before any hunt.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The almanac marks the tenth day of the Month of the Snake as favorable for hunting and trapping.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Fang brothers take a spirit's praise as a promise, and will boast of it all over the village.",
@@ -237,13 +173,9 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "Gu named the Fang brothers beaters for the hunt, with torches and gongs, if they keep quiet.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T23:10:43.844Z",
-  updatedAt: "2026-09-29T00:58:59.000Z",
+  updatedAt: "2026-10-27T19:31:15.081Z",
 } as const satisfies Lore

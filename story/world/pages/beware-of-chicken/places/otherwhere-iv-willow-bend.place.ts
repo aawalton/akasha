@@ -20,11 +20,11 @@ export const otherwhereIvWillowBend = {
     },
     {
       fact: "An old willow leans over a grassy bank at the bend, its roots in the water.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Downstream the hillsides step down in flooded rice terraces toward a village.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The village below is Three Stones, a mortal farming village of some forty households.",
@@ -32,11 +32,11 @@ export const otherwhereIvWillowBend = {
     },
     {
       fact: "A cart track runs past the bend, with a carved stone marker where it meets the river.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The marker reads: Three Stones Village, five li downstream.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Upstream the hills rise wilder, forested in pine and bamboo, where beasts are seen.",
@@ -45,5 +45,5 @@ export const otherwhereIvWillowBend = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T21:17:00.395Z",
-  updatedAt: "2026-09-28T22:03:07.000Z",
+  updatedAt: "2026-10-27T19:31:15.081Z",
 } as const satisfies Place

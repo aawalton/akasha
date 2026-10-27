@@ -14,9 +14,9 @@ export const otherwhereIvThreeStonesFolk2 = {
     },
     {
       fact: "Granny Hua bars her door at night, and will not deal with anyone she has not seen by daylight.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-08T16:26:44.594Z",
-  updatedAt: "2026-10-08T16:26:44.594Z",
+  updatedAt: "2026-10-27T19:31:15.081Z",
 } as const satisfies Lore

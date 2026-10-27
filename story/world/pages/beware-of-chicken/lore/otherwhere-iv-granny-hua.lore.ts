@@ -9,7 +9,7 @@ export const otherwhereIvGrannyHua = {
   facts: [
     {
       fact: "Granny Hua's house is the last in the village's west lane, thatched, with a herb garden and racks.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Her garden holds aconite, hemp, mugwort, mint, angelica, and a dozen common simples besides.",
@@ -37,11 +37,7 @@ export const otherwhereIvGrannyHua = {
     },
     {
       fact: "She asks a visitor to come into her yard in the sun and put both hands open in hers.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Then she asks the visitor to pull a mugwort stalk and say what ails it, and judges the answer.",
@@ -69,39 +65,27 @@ export const otherwhereIvGrannyHua = {
     },
     {
       fact: "Granny Hua will not take a crowd's word about a spirit, nor Tie Bo's either.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Granny Hua is small and square-shouldered, with grey hair knotted at the back of her head.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Granny Hua says she deals with nobody she has not looked at.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Granny Hua told Tie Bo she had thought it might come to his brother's boar.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Her garden is rows of feathery, grey-green and tall-stalked plants, some flowering blue.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Granny Hua's hands are brown and knotted, the nails rimmed with green.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Granny Hua reads a stranger's hands for work, sickness and lies, by callus, nail and warmth.",
@@ -109,30 +93,15 @@ export const otherwhereIvGrannyHua = {
     },
     {
       fact: "She holds that a fox-spirit's hands are cold and dry however warm the day.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No hand she has held was ever unmarked; even a lady's shows the needle and the fan.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The mugwort by her gate has black aphids under its leaves, and ants climbing to tend them.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The cure she looks for is ants kept off with an ash ring and the aphids washed off or crushed.",
@@ -148,104 +117,54 @@ export const otherwhereIvGrannyHua = {
     },
     {
       fact: "Granny Hua's hands are dry and hard, and stronger than they look.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The mugwort by her gate is her best stand, and it is sickening.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Under its leaves cluster tiny black insects, with brown ants running among them.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Granny Hua had Nala pull a mugwort stalk and asked her, as a spirit of knowledge, what ails it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No one in the hills knows diatomaceous earth by that or any name, nor digs it anywhere near.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Granny Hua already rings her stems with wood ash, and knows ash and shell lime turn back ants.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She calls the black insects plant lice, and knows the ants guard them for their sweet dew.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An answer that names the ants but not the lice she counts as half an answer, and says so.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She thinks better of a stranger who owns the limits of her knowing than of one who claims all.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hearing a spirit own its limits would make her surer the stranger is no spirit at all.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Granny Hua told Nala she is no spirit, and refused poison to one lying to the village.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Granny Hua, before Tie Bo, demanded that Nala say what she is, if no spirit.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-granny-hua",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T02:06:40.197Z",
-  updatedAt: "2026-09-29T04:06:37.000Z",
+  updatedAt: "2026-10-27T19:31:15.081Z",
 } as const satisfies Lore

@@ -9,15 +9,15 @@ export const otherwhereIvEarthGodShrine = {
   facts: [
     {
       fact: "The earth god's shrine is a waist-high stone house with a small painted clay figure inside.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An offering is three sticks of incense, a cup of rice wine and a bowl of rice, with three bows.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The offerer lights incense at the shrine lamp, raises it to the brow, bows thrice, and plants it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Asking the earth god aloud to guard the fields and the families is customary and pleases the folk.",
@@ -29,7 +29,7 @@ export const otherwhereIvEarthGodShrine = {
     },
     {
       fact: "At dusk nearly all forty households gather at the stones when the headman's gong is beaten.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Granny Hua suspects a fox-spirit, and will watch the stranger's shadow and feet at the rite.",
@@ -53,23 +53,23 @@ export const otherwhereIvEarthGodShrine = {
     },
     {
       fact: "At dusk Gu led Nala to the shrine before the whole village and handed her three sticks of incense.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the dusk rite a sharp-faced old woman at the front stared at Nala's feet, then her shadow.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the dusk rite two big young men with the same broad face shoved to the very front, grinning.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the dusk rite a lean, weathered man with a bow on his shoulder stood silent, apart at the back.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The tea-stall woman came to the dusk rite with a cloth-covered basket and a small boy by the hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No spirit dwells in the shrine's clay figure; the earth god is the village's faith and no more.",
@@ -85,25 +85,25 @@ export const otherwhereIvEarthGodShrine = {
     },
     {
       fact: "Granny Hua holds her doubts until she has seen the stranger by daylight and touched her hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the dusk rite Nala asked Old Grandfather to keep his people, who honor the old ways, safe.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's incense smoke rose straight up, and heads bowed all through the crowd at the rite.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The sharp-faced old woman frowned at the smoke, eyed Nala's ordinary shadow, and did not bow.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the rite the broad-faced brothers Fang Da and Fang Er begged Nala to take them on any hunt.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T00:09:16.929Z",
-  updatedAt: "2026-09-29T01:55:21.000Z",
+  updatedAt: "2026-10-27T19:31:15.081Z",
 } as const satisfies Lore

@@ -9,61 +9,33 @@ export const otherwhereIvHeadmanGu = {
   facts: [
     {
       fact: "Headman Gu is past sixty, thin and grey, with one stiff leg, and rises with a cane.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Zhao Jun brought Nala to Headman Gu as an honored spirit; Gu bowed to her politely, not deeply.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Headman Gu told Nala folk at Lanqiao fairs have claimed to be spirits and taken many coins.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Headman Gu asked leave to put a question or two to Nala before speaking of anything else.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Headman Gu sent the crowd from his gate, and his servant boy shut it and barred it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Zhao Jun told the headman everything, even the parts he did not want to.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-iv-zhao-jun",
-        "character-player/otherwhere-iv-nala",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Headman Gu said the hunt may go, and he will speak of shares.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-iv-zhao-jun",
-        "character-player/otherwhere-iv-nala",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T23:02:34.252Z",
-  updatedAt: "2026-09-29T02:31:01.000Z",
+  updatedAt: "2026-10-27T19:31:15.081Z",
 } as const satisfies Lore

@@ -93,7 +93,7 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "The only sect the villagers can name is the Hidden Spring Sect, somewhere north of Lanqiao.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No one in Three Stones has been to a sect, and none knows the way past Lanqiao.",
@@ -101,79 +101,55 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "Zhao Jun farms the top terraces above Three Stones.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Zhao Jun has never been past the county.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Something breaks Zhao Jun's terrace walls at night, and he does not know what.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Zhao Jun took Nala for a spirit, begged her pardon, and told her the trampled rice is nothing.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Zhao Jun offered to take Nala down to Three Stones, where his wife would feed her.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The headman of Three Stones is a learned man.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nobody in Three Stones knows the road on past Lanqiao.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Zhao Jun first blamed the Fang brothers, but a wall broke the night they slept in Lanqiao.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He thought rain or crabs had weakened the walls, but the breaks are torn open, not slumped.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He has heard Tie Bo talk of a huge boar upstream, but thinks no boar comes this low in spring.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The walls break only on his terraces nearest the bend, which makes him fear a spirit's anger.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He fears he offended the spirit of the old willow, and left rice at its roots; walls still broke.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He sat up one night with a torch and a gong, heard something huge grunting, and fled.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He has not told the headman all of it, being ashamed and already in the headman's debt.",
@@ -185,27 +161,15 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "Each break came between midnight and dawn, and the young rice near it was eaten, roots and all.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In the mud he once found a deep split-hoof print as broad as his spread hand.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He took that print for a buffalo's at first, but no buffalo in the village is loose at night.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "This morning Xu Hong weeds the family's lower terraces beside the track, halfway to the village.",
@@ -217,27 +181,15 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "Three of Zhao Jun's terrace walls have broken this month, and no one else's.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tie Bo is the hunter of Three Stones.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Zhao Jun's wife, Hong, weeds a terrace beside the track down from his top terraces.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Xu Hong is sharp-tongued, pious and practical, and keeps the household's money.",
@@ -257,7 +209,7 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "The headman keeps two old iron-headed spears in his house against bandits.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wu Fan can fit a crossbar to a spear in an afternoon; iron heads come from a Lanqiao smith.",
@@ -277,75 +229,39 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "A night hunt with men of the village needs the headman's leave, or it will offend him.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tie Bo has hunted boar for twenty years, with a spear that has an iron bar across the haft.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Xu Hong is a square, sun-browned woman.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Xu Hong bowed deep to Nala and called her honored spirit.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The headman of Three Stones is called Headman Gu.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Xu Hong invited Nala to eat rice first at the Zhao house, just below the track.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Xu Hong asked Nala to speak to the headman, who won't refuse a spirit but might refuse Zhao Jun.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Zhao house is two mud brick rooms under thatch, just below the top terraces, with a swept yard.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its main room holds a small ancestral shrine; an honored guest sits in the seat facing the door.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A Zhao meal is rice with pickled mustard greens, half a salted duck egg each, and weak tea.",
@@ -380,6 +296,6 @@ export const otherwhereIvThreeStonesFolk = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
-  updatedAt: "2026-10-08T16:27:28.258Z",
+  updatedAt: "2026-10-27T19:31:15.081Z",
   createdAt: "2026-09-28T21:37:36.798Z",
 } as const satisfies Lore

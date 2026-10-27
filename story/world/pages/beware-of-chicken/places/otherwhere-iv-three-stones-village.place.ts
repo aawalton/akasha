@@ -28,11 +28,11 @@ export const otherwhereIvThreeStonesVillage = {
     },
     {
       fact: "By early morning farmers in straw hats work knee-deep in the paddies, weeding.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Water buffalo graze on the field banks, and white egrets stalk the flooded terraces.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The rice was transplanted this month, and families now weed and mind the water.",
@@ -60,11 +60,7 @@ export const otherwhereIvThreeStonesVillage = {
     },
     {
       fact: "The headman's house, the only one with a tiled gate, faces the shrine square.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dogs bark at strangers, and children run to stare at anyone new.",
@@ -92,53 +88,33 @@ export const otherwhereIvThreeStonesVillage = {
     },
     {
       fact: "Near the top of the terraces a paddy wall by the track is broken open, its rice flattened.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala slid into the terrace below the broken wall and trampled a row of a farmer's rice.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Three tall grey stones stand in a ring around a small shrine at the village's heart.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Where the track enters the village, a huge camphor tree shades a stall with stools.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's coming set the village's dogs barking and drew staring children, faces and whispers.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Word runs down the lane that Nala is a spirit holding a secret men have died for.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The shrine at the Three Stones is the earth god's, Old Grandfather of the Three Stones.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T21:37:36.799Z",
-  updatedAt: "2026-09-29T00:00:08.000Z",
+  updatedAt: "2026-10-27T19:31:15.081Z",
 } as const satisfies Place

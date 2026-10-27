@@ -9,7 +9,7 @@ export const otherwhereIvSpiritBeastTales = {
   facts: [
     {
       fact: "Village tales hold that steel will not bite a spirit beast's hide, arrow or spear alike.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tales hold that only a cultivator, or a blade with Qi in it, can kill a spirit beast.",
@@ -29,19 +29,15 @@ export const otherwhereIvSpiritBeastTales = {
     },
     {
       fact: "Folk say a beast newly stirred is worst, being hungry, half wild, and still unafraid of men.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tales warn that a poisoned bait kills the village dogs and no spirit beast.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-player/otherwhere-iv-nala",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Folk say a wounded spirit beast becomes a terror, and hunts whoever cut it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Granny Hua keeps the village's herb lore, learned from her own teacher, and knows aconite's uses.",
@@ -57,19 +53,19 @@ export const otherwhereIvSpiritBeastTales = {
     },
     {
       fact: "Tie Bo's grandfather told of a white stag in the hills that killed three hunters and took no spear.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In that tale the stag left when a wanderer burned a bundle of herbs at the village shrine.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In that tale the wanderer was a cultivator, and the village paid him a year's rice for it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The old stag tale ends with the stag living on the mountain, and nobody hunting it again.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Dried spirit-herb smoke drives a newly awakened beast off, its Qi offending the beast.",
@@ -86,5 +82,5 @@ export const otherwhereIvSpiritBeastTales = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T01:35:47.678Z",
-  updatedAt: "2026-09-29T02:31:01.000Z",
+  updatedAt: "2026-10-27T19:31:15.081Z",
 } as const satisfies Lore
