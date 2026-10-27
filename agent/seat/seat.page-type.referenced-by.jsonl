@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/elin/elin.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ember/ember.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-game-master-test-story/iris-game-master-test-story.seat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-world-builder-test-story/iris-world-builder-test-story.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/jenny/jenny.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/olwen/olwen.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ruby/ruby.seat.ts","typed":true,"deferred":false}
