@@ -10,10 +10,6 @@ export const awenGiftedStory = {
   intentStack: [
     {
       statement:
-        "The Gifted world has the lore, places, characters and mechanics a played story's opening needs.",
-    },
-    {
-      statement:
         "A played story in the Gifted world opens with Alan's character reborn there as a baby girl.",
     },
     {
@@ -26,5 +22,5 @@ export const awenGiftedStory = {
     "The world follows the Gifted book's premise, except that the one reborn is a girl.",
   ],
   createdAt: "2026-10-27T19:23:56.731Z",
-  updatedAt: "2026-10-27T19:23:56.731Z",
+  updatedAt: "2026-10-27T19:45:20.018Z",
 } as const satisfies Initiative
