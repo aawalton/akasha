@@ -18,7 +18,7 @@ export const hudLayoutPlace = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A hidden panel takes no room and leaves no gap.",
+      statement: "A hidden panel, or one with no height, takes no room and leaves no gap.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,5 +42,5 @@ export const hudLayoutPlace = {
     },
   ],
   createdAt: "2026-10-27T19:07:14.498Z",
-  updatedAt: "2026-10-27T19:30:27.875Z",
+  updatedAt: "2026-10-27T19:35:56.810Z",
 } as const satisfies Module

@@ -72,7 +72,7 @@ function offsetXOf(side: Side, gap: number): number {
 function shownIn(panels: readonly HudPanelBox[], dock: HudDock | undefined): HudPanelBox[] {
   if (dock === undefined) return []
   return panels
-    .filter((panel) => panel.dock === dock && !panel.hidden)
+    .filter((panel) => panel.dock === dock && !panel.hidden && panel.height > 0)
     .sort((a, b) =>
       a.neverMoves === b.neverMoves ? a.displayOrder - b.displayOrder : a.neverMoves ? -1 : 1
     )

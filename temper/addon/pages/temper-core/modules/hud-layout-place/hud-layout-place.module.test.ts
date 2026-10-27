@@ -67,6 +67,15 @@ describe("placeHudPanels", () => {
     expect(places).toEqual([{ key: "b", point: "TOPLEFT", offsetX: 10, offsetY: 10, room: 40 }])
   })
 
+  test("a panel with no height takes no room and leaves no gap", () => {
+    const places = placeHudPanels(
+      SCREEN,
+      [panel("empty", "top-left", 1, 0), panel("b", "top-left", 2, 40)],
+      GAPS
+    )
+    expect(places).toEqual([{ key: "b", point: "TOPLEFT", offsetX: 10, offsetY: 10, room: 40 }])
+  })
+
   test("a panel that never moves begins its dock and is not placed", () => {
     const bar = { ...panel("bar", "bottom", 5, 70), neverMoves: true, top: 400 }
     const places = placeHudPanels(SCREEN, [panel("a", "bottom", 1, 30), bar], GAPS)
