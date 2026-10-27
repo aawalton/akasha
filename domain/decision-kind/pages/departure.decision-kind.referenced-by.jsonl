@@ -4062,6 +4062,8 @@
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/player-character-panel/player-character-panel.module.ts","id":"01a0e817-d6c0-7d98-bdd1-fc786451c663"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.ts","id":"01a0e7ff-1168-7fa8-b0c7-08190825f11d"}
+{"propertySlug":"decision-kind","path":"story/ui/modules/sheet-entries/sheet-entries.module.ts","id":"01a17ebf-87fa-783a-ae80-629f446a6cbd"}
+{"propertySlug":"decision-kind","path":"story/ui/modules/sheet-inventory/sheet-inventory.module.ts","id":"01a17ebf-87fb-75d6-ab44-d42b9741ad6b"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/sheet-panel/sheet-panel.module.ts","id":"01a0629b-6851-766f-a3b3-76b010efa64a"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/story-chapters/story-chapters.module.ts","id":"01a0de1e-6b9d-7c94-a226-81457bb9e050"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/time-panel/time-panel.module.ts","id":"01a0e801-8867-7296-b587-5a6ffa7b65ec"}

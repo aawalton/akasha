@@ -14,5 +14,10 @@ const { TOWER_WORKINGS } =
 export const Panel = panelBy(PlayerCharacterPanel, ({ envelope, run }) => ({
   player: run.player,
   showsCover: false,
-  sheet: { sheet: envelope.sheet ?? null, game: run.gameExternalId, workings: TOWER_WORKINGS },
+  sheet: {
+    sheet: envelope.sheet ?? null,
+    game: run.gameExternalId,
+    workings: TOWER_WORKINGS,
+    acting: { gameExternalId: run.gameExternalId, submitPlayerAction: run.submitPlayerAction },
+  },
 }))

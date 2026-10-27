@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/modules/beat-reading/beat-reading.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/modules/chapter-prose/chapter-prose.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/modules/narrative-log/narrative-log.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/modules/sheet-entries/sheet-entries.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/world/stories/played/chapters/story-chapter-played.page-type.page-component.code.tsx","typed":true,"deferred":false}

@@ -250,18 +250,17 @@ type CharacterCardProps = {
 
 function CharacterCard({ shown, steps, sheet }: CharacterCardProps) {
   const revealed = sheet?.sheet ?? null
-  return (
-    <SurfaceProvider level={1} className={CARD}>
-      {shown.name === null && shown.level === null ? null : (
-        <div className="flex items-baseline justify-between gap-3 font-mono">
-          <span className="min-w-0 break-words font-semibold text-primary text-sm">
-            {shown.name}
-          </span>
-          {shown.level === null ? null : (
-            <span className="flex-none font-semibold text-secondary text-sm">Lv {shown.level}</span>
-          )}
-        </div>
-      )}
+  const caption =
+    shown.name === null && shown.level === null ? null : (
+      <div className="flex items-baseline justify-between gap-3 font-mono">
+        <span className="min-w-0 break-words font-semibold text-primary text-sm">{shown.name}</span>
+        {shown.level === null ? null : (
+          <span className="flex-none font-semibold text-secondary text-sm">Lv {shown.level}</span>
+        )}
+      </div>
+    )
+  const pictured = (
+    <>
       {shown.cover === null || shown.whole === null ? null : (
         <ZoomableCover
           key={shown.slug}
@@ -271,13 +270,24 @@ function CharacterCard({ shown, steps, sheet }: CharacterCardProps) {
         />
       )}
       {steps}
-      {sheet === null || revealed === null ? null : (
+    </>
+  )
+  return (
+    <SurfaceProvider level={1} className={CARD}>
+      {sheet === null || revealed === null ? (
+        <>
+          {caption}
+          {pictured}
+        </>
+      ) : (
         <SheetTabs
           sheet={revealed}
+          head={{ caption, cover: pictured }}
           game={sheet.game}
           workings={sheet.workings}
           showsStats={sheet.showsStats}
           showsBonds={sheet.showsBonds}
+          acting={shown.isPlayer ? sheet.acting : undefined}
         />
       )}
     </SurfaceProvider>

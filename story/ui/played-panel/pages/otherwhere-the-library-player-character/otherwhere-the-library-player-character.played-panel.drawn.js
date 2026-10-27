@@ -20,6 +20,7 @@ export const Panel = panelBy(PlayerCharacterPanel, ({ envelope, run }) => ({
       envelope.sheet?.class !== undefined ||
       envelope.sheet?.status !== undefined,
     showsBonds: false,
+    acting: { gameExternalId: run.gameExternalId, submitPlayerAction: run.submitPlayerAction },
   },
   turns: run.turns,
   turnsPageTypeSlug: run.turnsPageTypeSlug,

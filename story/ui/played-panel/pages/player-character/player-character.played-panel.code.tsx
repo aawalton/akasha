@@ -14,6 +14,7 @@ export const Panel = panelBy(PlayerCharacterPanel, ({ envelope, run }) => ({
     game: run.gameExternalId,
     showsStats: statsShownIn(envelope.sheet),
     showsBonds: true,
+    acting: { gameExternalId: run.gameExternalId, submitPlayerAction: run.submitPlayerAction },
   },
   turns: run.turns,
   turnsPageTypeSlug: run.turnsPageTypeSlug,

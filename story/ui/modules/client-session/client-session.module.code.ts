@@ -55,7 +55,7 @@ const ClientItemSchema = z.object({
   note: z.string().optional(),
   quantity: z.number().optional(),
 })
-type ClientItem = z.infer<typeof ClientItemSchema>
+export type ClientItem = z.infer<typeof ClientItemSchema>
 
 const ClientExperienceSchema = z.object({
   name: z.string().optional(),

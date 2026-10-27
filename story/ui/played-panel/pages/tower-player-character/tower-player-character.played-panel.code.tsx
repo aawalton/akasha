@@ -7,5 +7,10 @@ import { TOWER_WORKINGS } from "akasha/story/world/pages/personas/stories/played
 export const Panel = panelBy(PlayerCharacterPanel, ({ envelope, run }) => ({
   player: run.player,
   showsCover: false,
-  sheet: { sheet: envelope.sheet ?? null, game: run.gameExternalId, workings: TOWER_WORKINGS },
+  sheet: {
+    sheet: envelope.sheet ?? null,
+    game: run.gameExternalId,
+    workings: TOWER_WORKINGS,
+    acting: { gameExternalId: run.gameExternalId, submitPlayerAction: run.submitPlayerAction },
+  },
 }))
