@@ -9,6 +9,7 @@ export const worldCheck = {
   extends: ["page-type/world-mechanic", "page-type/domain"],
   parts: [
     "module-property-group/settling",
+    "boolean-property/difficulty-moved",
     "world-check/tower-attack-resolution",
     "world-check/tower-attribute-check",
     "world-check/tower-essence-absorption",
@@ -46,7 +47,10 @@ export const worldCheck = {
     "world-check/overwhere-iv-needs",
     "world-check/overwhere-iv-trade",
   ],
-  properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
+  properties: [
+    { pageProperty: "module-property-group/settling", required: true, many: false },
+    { pageProperty: "boolean-property/difficulty-moved", required: false, many: false },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -75,5 +79,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-27T19:36:24.226Z",
+  updatedAt: "2026-10-27T19:37:30.098Z",
 } as const satisfies PageType
