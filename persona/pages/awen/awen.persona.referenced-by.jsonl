@@ -29,6 +29,7 @@
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-story-engine-v3.initiative.ts","id":"01a17e96-4b46-7bc1-a576-fe8d28348442"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-story-removal.initiative.ts","id":"01a17ebd-c381-7555-a2f4-8725060e8d3a"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-test-story.initiative.ts","id":"01a17ebf-60e0-7113-aaf7-7b557cdbdc9f"}
+{"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-training-montage.initiative.ts","id":"01a17ed8-4c2c-7885-a0b1-14d6faa975d6"}
 {"propertySlug":"lore-about","path":"story/world/pages/personas/lore/the-dating-game-awen.lore.ts","id":"01a0de59-9644-7a70-804f-feb14801561b"}
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/awen-l1.persona-wallpaper-notification.ts","id":"019f182f-7afe-7b5f-8689-d30ea901c096"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
