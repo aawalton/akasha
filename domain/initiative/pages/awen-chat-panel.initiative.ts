@@ -8,11 +8,6 @@ export const awenChatPanel = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    {
-      statement: "The chat place has a panel with a tab row holding one tab, Assistant.",
-      workingMemory:
-        "The chat place is `story/ui/played-panel/panel-place/pages/chat.panel-place.ts`. Brackets today: `action-bar-message` module, the action bar, `action-bar-answering` (feedback becomes an agent message to the story's coordinator seat), replies as bracketed paragraphs in the next turn's prose, drawn by `chapter-prose`. Roles: `roleplay.role.ts` Out Of Character, Fold In Corrections, Report To Awen. Reusable: the seat conversation view and `SeatComposer` under `agent/seat/`.\n",
-    },
     { statement: "The Assistant tab has its own message box and its own history." },
     { statement: "Both Alan's chat messages and the replies are kept with the story." },
     { statement: "The story's game-master seat answers the Assistant tab." },
@@ -28,5 +23,5 @@ export const awenChatPanel = {
     "A chat correction may still be folded into the story and reported to Awen.",
   ],
   createdAt: "2026-10-27T18:45:50.645Z",
-  updatedAt: "2026-10-27T18:45:50.645Z",
+  updatedAt: "2026-10-27T19:04:19.625Z",
 } as const satisfies Initiative
