@@ -27,9 +27,14 @@ export const panelPlace = {
       decisionKind: "decision-kind/absence",
       statement: "No place names the panels drawn in it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel in the character, journal, map or chat place is drawn only while it is open.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T16:28:55.825Z",
-  updatedAt: "2026-10-27T18:40:49.096Z",
+  updatedAt: "2026-10-27T18:50:34.917Z",
 } as const satisfies PageType
