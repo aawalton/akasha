@@ -54,6 +54,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/seat/send/seat-send.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/sms/send/sms-send.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/story/chat/story-chat.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"domain/plain-language/modules/parse-cache/parse-cache.module.code.ts","typed":false,"deferred":false}

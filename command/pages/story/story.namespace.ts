@@ -7,6 +7,7 @@ export const story = {
   definition: "the stories this repository holds, and what a reading of them found",
   parts: [
     "command/story-character-file",
+    "command/story-chat",
     "command/story-join-unread",
     "command/story-chapter-close",
     "command/story-chapter-write",
@@ -24,5 +25,5 @@ export const story = {
   ],
   name: "story",
   createdAt: "2026-09-19T00:10:30.961Z",
-  updatedAt: "2026-10-09T01:02:30.313Z",
+  updatedAt: "2026-10-27T19:13:15.832Z",
 } as const satisfies Namespace

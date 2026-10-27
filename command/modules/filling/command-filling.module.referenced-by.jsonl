@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/seat/send/seat-send.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/sms/send/sms-send.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/story/chat/story-chat.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/story/turn/picture/story-turn-picture.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":false,"deferred":false}

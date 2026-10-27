@@ -48,6 +48,8 @@
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/request/complete/request-complete.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/request/deny/request-deny.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/request/publish/request-publish.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/story/chat/story-chat.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/story/chat/story-chat.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/story/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}

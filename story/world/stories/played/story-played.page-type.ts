@@ -23,6 +23,7 @@ export const storyPlayed = {
     "module/action-bar-state",
     "module/beat-overlay",
     "module/chat-panel",
+    "file-property/chat",
     "module/cover-redrawing",
     "module/cover-rerolling",
     "module/played-asking",
@@ -139,7 +140,8 @@ export const storyPlayed = {
       uncommitted: true,
     },
     { pageProperty: "boolean-property/roleplayed", required: false, many: false },
+    { pageProperty: "file-property/chat", required: false, many: false, default: "jsonl" },
   ],
   createdAt: "2026-09-02T22:01:28.988Z",
-  updatedAt: "2026-10-27T18:57:49.256Z",
+  updatedAt: "2026-10-27T19:13:15.832Z",
 } as const satisfies PageType

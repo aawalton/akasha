@@ -2542,6 +2542,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/chapter-split/story-chapter-split.command.ts","id":"01a11e27-6965-7ec9-8488-9f10a67dd3fe"}
 {"propertySlug":"decision-kind","path":"command/pages/story/chapter-write/story-chapter-write.command.ts","id":"01a0e96e-2932-74ae-9bb2-77118ec08e86"}
 {"propertySlug":"decision-kind","path":"command/pages/story/character-file/story-character-file.command.ts","id":"01a0b700-39f3-76fc-b703-ad293459d8ed"}
+{"propertySlug":"decision-kind","path":"command/pages/story/chat/story-chat.command.ts","id":"01a17ec7-f439-7a26-afdd-d26a50ff074a"}
 {"propertySlug":"decision-kind","path":"command/pages/story/join-unread/story-join-unread.command.ts","id":"01a0eb0e-4c4f-7211-8fd9-ee922888c35a"}
 {"propertySlug":"decision-kind","path":"command/pages/story/modules/beat-rejoining/beat-rejoining.module.ts","id":"01a11e2e-ddaa-739b-8dff-3466106f1697"}
 {"propertySlug":"decision-kind","path":"command/pages/story/modules/settle-asking/settle-asking.module.ts","id":"01a0e9ee-b5f2-7312-a0d8-7655c24d47a2"}
@@ -4349,6 +4350,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/turn-undo-answering/turn-undo-answering.module.ts","id":"01a0f1ca-3316-7873-b641-ff03a2421454"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/turn-undo-control/turn-undo-control.module.ts","id":"01a0f1cc-0384-7697-8ba3-b8c1f839cdad"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/action-draft.text-property.ts","id":"01a0eb37-e283-7d38-ba63-8f6ac63832b9"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/properties/chat.file-property.ts","id":"01a17ec7-f439-73e5-9f24-333750bfdeb7"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/cover-reroll-refused.text-property.ts","id":"01a0e84e-3f8e-7738-bb8e-6205aa186cfb"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/cover-reroll.relation-property.ts","id":"01a0e84e-3f8e-74cf-b543-8711abba573e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/prose.file-property.ts","id":"01a06424-329c-73d2-a881-67d728085a28"}
