@@ -12,10 +12,15 @@ export const cloneProbe00001 = {
   stepStatus: "step-status/beats",
   action: "I look around the hall and check my sword's edge.",
   beats: "jsonl",
-  lore: ["place/test-world-hall"],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity", "story-reviewer/holdings"],
+  lore: ["lore/test-world-overview", "place/test-world-hall"],
+  reviewedBy: [
+    "story-reviewer/scene",
+    "story-reviewer/continuity",
+    "story-reviewer/holdings",
+    "story-reviewer/style",
+  ],
   endsAt: "2026-11-06T08:50:00.000Z",
   createdAt: "2026-10-27T21:53:57.824Z",
-  updatedAt: "2026-10-27T22:09:49.862Z",
+  updatedAt: "2026-10-27T22:10:25.883Z",
   ownLength: 152,
 } as const satisfies StoryTurnPlayed
