@@ -34,7 +34,6 @@ export const otherwhereXiAshlarFarm = {
       fact: "A hurdle lambing pen runs along the yard wall, loud with ewes and new lambs.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
         "character-other/otherwhere-xi-wenna-ashlar",
       ],
@@ -59,7 +58,6 @@ export const otherwhereXiAshlarFarm = {
       fact: "The Ashlar farmhouse is low and stone, with a blue door.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
         "character-other/otherwhere-xi-wenna-ashlar",
       ],
@@ -68,18 +66,13 @@ export const otherwhereXiAshlarFarm = {
       fact: "Two small girls feed the hens in the Ashlar yard.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
         "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
       fact: "The Ashlar farm is the better part of an hour's barefoot walk down the road from the ring.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "The day runs: milk and fodder at dawn, ewes checked at noon, lambs penned and counted at dusk.",
@@ -95,7 +88,7 @@ export const otherwhereXiAshlarFarm = {
     },
     {
       fact: "Pell and Lissa carry water and feed the hens, and would follow Nala everywhere.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wenna's spare robe is faded madder red, ankle-length and far too large for Nala.",
@@ -111,31 +104,19 @@ export const otherwhereXiAshlarFarm = {
     },
     {
       fact: "Water for the Ashlar yard is drawn from a rock cistern.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "A ewe lies down in the Ashlar lambing pen and cannot rise; her one lamb is turned.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "A crock of tallow sits on the shelf inside the Ashlar farmhouse door.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "The Ashlar cistern water smells of stone and snowmelt.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Left an hour past about 8:49 on day one, the down ewe and her lamb would both have died.",
@@ -153,7 +134,6 @@ export const otherwhereXiAshlarFarm = {
       fact: "The household eats together on the floor mat by the hearth; the head of the house is served first.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
         "character-other/otherwhere-xi-wenna-ashlar",
       ],
@@ -176,25 +156,17 @@ export const otherwhereXiAshlarFarm = {
     },
     {
       fact: "Half the Ashlar flock is still to lamb before the month is out.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "By noon the down ewe was up on her feet, and her turned lamb was sucking.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Pell and Lissa follow Nala everywhere, telling her the ewes' names and which hens peck.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-29T00:59:52.947Z",
-  updatedAt: "2026-10-03T19:56:27.000Z",
+  updatedAt: "2026-10-27T19:33:10.685Z",
 } as const satisfies Place

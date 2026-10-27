@@ -38,7 +38,7 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna needs another pair of hands for the lambing and cannot pay for one in coin.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wenna wants her elder son back and the farm kept whole for Tobin.",
@@ -58,7 +58,7 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna could give a woman a robe, a bed by the hearth and meals for help with the lambing.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wenna could teach a willing woman lambing, milking, spinning and barley bread.",
@@ -90,11 +90,7 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna knows the Maradoc wayfarer priest comes each spring, soon, and would know more.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna half-believes the tales; she thinks a stray is as likely a runaway with a clever story.",
@@ -102,25 +98,16 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Tobin's mother knows all the old tales.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Tobin's Mam is tall and rawboned, with grey threading her dark hair.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Tobin's Mam wears a faded red robe and a brown headcloth.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
         "character-other/otherwhere-xi-wenna-ashlar",
       ],
@@ -129,7 +116,6 @@ export const otherwhereXiWennaAshlar = {
       fact: "Tobin's Mam met Nala at her door with a stick in her hand.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
         "character-other/otherwhere-xi-wenna-ashlar",
       ],
@@ -138,7 +124,6 @@ export const otherwhereXiWennaAshlar = {
       fact: "Tobin's Mam held out a spare brown headcloth to Nala without a word.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
         "character-other/otherwhere-xi-wenna-ashlar",
       ],
@@ -147,42 +132,25 @@ export const otherwhereXiWennaAshlar = {
       fact: "Tobin's Mam told him to go back to the flock; he flushed and stayed.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
         "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
       fact: "Wenna laid her spare headcloth over Nala's hair herself and tugged it straight at the brow.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna asked Nala outright whether she is a stray or a runaway with a clever story.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna judges a stranger by work done, not by a tale told.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna cannot read; to her a book is a lord's or a priest's thing.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna has the war only from Joss's talk: fighting over the sea, at a place called Barrier.",
@@ -190,11 +158,7 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna holds that the gods are busy and far off, and do not pluck women from hearths.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna would not send word of a stranger to Imra; she wants no steward's men in her yard.",
@@ -206,11 +170,7 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna would hold a tale of god-touched for the wayfarer priest to judge when he comes.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna told her girls to say nothing outside the house of the red-haired woman.",
@@ -230,11 +190,7 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna teaches by doing, in few words, and corrects by taking the work and starting again.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna's hands are cracked and her grip like a man's from forty ewes a season.",
@@ -246,11 +202,7 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna's big, cracked hands struggle inside a small ewe; slim hands turn a lamb more easily.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna has lost two ewes this spring to turned lambs, and cannot spare a third.",
@@ -258,59 +210,31 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "For a hard lambing Wenna wants a helper to hold the ewe's head, then fetch tallow and water.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna's daughters are named Pell and Lissa.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna gave Nala a faded red robe, ankle-length and thin at the elbows, to wear over her clothes.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna took Nala on to work the Ashlar farm and told her girls so.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna's way with ewes: move slow, come at a ewe from the side, never grab the wool.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna has lost two ewes before to turned lambs.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna would give a lambing hand bed, board, the robe and sandals, and a lamb at the end.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna would tell a neighbour asking that Nala is a hired hand from down the valley, nothing more.",
@@ -318,18 +242,13 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna asked Nala to turn the down ewe's lamb, as Nala's small hands fit where hers cannot.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-wenna-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "Wenna told her household to call Nala a hired hand from down the valley, if anyone asks.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
@@ -338,12 +257,11 @@ export const otherwhereXiWennaAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
       ],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T00:27:14.851Z",
-  updatedAt: "2026-10-03T19:56:27.000Z",
+  updatedAt: "2026-10-27T19:33:10.685Z",
 } as const satisfies Lore

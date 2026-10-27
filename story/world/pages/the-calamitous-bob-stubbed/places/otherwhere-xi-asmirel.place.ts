@@ -86,13 +86,9 @@ export const otherwhereXiAsmirel = {
     },
     {
       fact: "Asmirel is Prince Tavaris's land, and the Tavel valley lies in it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
   ],
   createdAt: "2026-09-29T00:01:46.077Z",
-  updatedAt: "2026-10-03T19:55:25.000Z",
+  updatedAt: "2026-10-27T19:33:10.685Z",
 } as const satisfies Place

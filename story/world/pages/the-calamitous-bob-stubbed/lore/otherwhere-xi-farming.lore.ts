@@ -162,11 +162,7 @@ export const otherwhereXiFarming = {
     },
     {
       fact: "A turned lamb must be pushed back and its legs brought forward by a hand inside the ewe.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
     {
       fact: "A lamb turned cleanly comes out alive and sucks within the hour; the ewe is up by noon.",
@@ -190,5 +186,5 @@ export const otherwhereXiFarming = {
     },
   ],
   createdAt: "2026-09-29T00:25:30.206Z",
-  updatedAt: "2026-10-03T19:56:27.000Z",
+  updatedAt: "2026-10-27T19:33:10.685Z",
 } as const satisfies Lore

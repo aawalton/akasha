@@ -56,7 +56,6 @@ export const otherwhereXiSmoke = {
       fact: "Smoke keeps the Ashlar flock on her own when Tobin tells her to.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
         "character-other/otherwhere-xi-smoke",
       ],
@@ -64,5 +63,5 @@ export const otherwhereXiSmoke = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T00:28:24.406Z",
-  updatedAt: "2026-10-03T19:55:25.000Z",
+  updatedAt: "2026-10-27T19:33:10.685Z",
 } as const satisfies Lore

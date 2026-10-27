@@ -22,13 +22,9 @@ export const otherwhereXiScalehound = {
     },
     {
       fact: "Scalehounds come down off a ridge above the Tavel valley in spring.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
   ],
   createdAt: "2026-09-29T00:12:36.803Z",
-  updatedAt: "2026-10-03T19:55:25.000Z",
+  updatedAt: "2026-10-27T19:33:10.685Z",
 } as const satisfies Lore

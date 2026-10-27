@@ -160,19 +160,11 @@ export const otherwhereXiTavelford = {
     },
     {
       fact: "Tavelford lies in the valley below the waystone ring, where the hearth smoke rises.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "The Ashlar farm, a stone house and a sheepfold, is the first house down the hill road.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Red hair is rare in Vizim; hill folk take a red-haired woman for Paramese.",
@@ -192,14 +184,10 @@ export const otherwhereXiTavelford = {
     },
     {
       fact: "In Tavelford, a helper who saves a ewe at a hard lambing is owed a place at the table.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-wenna-ashlar"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T00:01:46.079Z",
-  updatedAt: "2026-10-03T19:56:27.000Z",
+  updatedAt: "2026-10-27T19:33:10.685Z",
 } as const satisfies Place

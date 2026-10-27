@@ -6,8 +6,8 @@ export const otherwhereXiSmoke = {
   slug: "otherwhere-xi-smoke",
   title: "Smoke",
   world: "world/the-calamitous-bob-stubbed",
-  story: "story-played/otherwhere-xi",
+  story: "story-read/the-calamitous-bob-stubbed",
   place: "place/otherwhere-xi-ashlar-farm",
   createdAt: "2026-09-29T00:28:24.404Z",
-  updatedAt: "2026-10-03T19:56:54.000Z",
+  updatedAt: "2026-10-27T19:33:10.685Z",
 } as const satisfies CharacterOther

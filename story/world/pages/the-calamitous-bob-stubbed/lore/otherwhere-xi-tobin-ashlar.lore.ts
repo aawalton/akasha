@@ -78,27 +78,15 @@ export const otherwhereXiTobinAshlar = {
     },
     {
       fact: "To Tobin the Old Empire is Harrak, over the sea in Param, which fell to the dead long ago.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Tobin has heard from Joss's news that a witch-queen now rules Harrak's dead lands.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Tobin names his home as the Tavel valley in Asmirel, Prince Tavaris's land, two days above Imra.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Tobin has never been past Imra; Param to him is a far land of pale foreigners and wars.",
@@ -106,82 +94,48 @@ export const otherwhereXiTobinAshlar = {
     },
     {
       fact: "Tobin has never heard of a waystone carrying anyone; to him they are shrines, not roads.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "The shepherd boy on the hill road is named Tobin Ashlar.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Tobin is sunburnt, with a mop of black curls and a chipped front tooth.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Tobin wears a sheepskin cloak, wool side in, and carries a sling.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Tobin's voice cracks, and he asks questions without waiting for the answers.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Tobin has a mother, whom he calls Mam.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Tobin takes Nala for Paramese.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-tobin-ashlar",
         "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
       fact: "Tobin may not leave the flock untended; Smoke can hold it on the hill for an hour or so.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Tobin keeps the flock on the hill till noon.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
-        "character-other/otherwhere-xi-tobin-ashlar",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-xi-tobin-ashlar"],
     },
     {
       fact: "Wenna sent Tobin back to the flock, and this time he went, looking back twice.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-wenna-ashlar",
         "character-other/otherwhere-xi-tobin-ashlar",
       ],
@@ -191,12 +145,11 @@ export const otherwhereXiTobinAshlar = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-xi-tobin-ashlar",
-        "character-player/otherwhere-xi-nala",
         "character-other/otherwhere-xi-wenna-ashlar",
       ],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T00:27:14.849Z",
-  updatedAt: "2026-10-03T19:56:27.000Z",
+  updatedAt: "2026-10-27T19:33:10.685Z",
 } as const satisfies Lore
