@@ -21,9 +21,8 @@ export const awenPlaySidebars = {
       statement: "Character and journal open in a left sidebar, and map and chat in a right one.",
     },
     { statement: "Each sidebar shows one place at a time, and both sidebars can be open at once." },
-    { statement: "An open sidebar pushes the turns aside rather than covering them." },
   ],
   constraints: ["Nothing inside a panel changes but the place that panel is drawn in."],
   createdAt: "2026-10-27T18:26:40.142Z",
-  updatedAt: "2026-10-27T18:51:09.279Z",
+  updatedAt: "2026-10-27T18:51:10.568Z",
 } as const satisfies Initiative
