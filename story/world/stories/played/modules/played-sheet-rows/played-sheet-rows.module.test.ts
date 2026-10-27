@@ -14,6 +14,7 @@ import {
   bondsIn,
   countedIn,
   denominationsIn,
+  experienceIn,
   heldIn,
   namedIn,
   pursesIn,
@@ -186,6 +187,37 @@ test("a generic kind is named by what its slug adds past the generic opening, or
     { values: { type: "some-tier", value: 2, slug: "some-nala", character: holder } },
   ]
   expect(scoresIn(scores)).toEqual({ level: 4, attributes: { GRIT: 8, NOTICE: 1, TIER: 2 } })
+})
+
+test("experience is read apart from the resources, with its most and its words", () => {
+  const holder = "character-player/some-nala"
+  const rows = [
+    { values: { type: "metric-character-health", value: 9, maxValue: 10, character: holder } },
+    {
+      values: {
+        type: "metric-character-experience",
+        value: 180,
+        maxValue: 300,
+        displayOrder: 2,
+        character: holder,
+      },
+    },
+    {
+      values: {
+        type: "metric-character-experience",
+        value: 4,
+        title: "Race XP",
+        revealedAs: "almost",
+        displayOrder: 1,
+        character: holder,
+      },
+    },
+  ]
+  expect(resourcesIn(rows)).toEqual({ HEALTH: "9 / 10" })
+  expect(experienceIn(rows)).toEqual([
+    { name: "Race XP", value: 4, words: "almost" },
+    { value: 180, max: 300 },
+  ])
 })
 
 test("a currency's denominations are read largest first, and a malformed one is dropped", () => {

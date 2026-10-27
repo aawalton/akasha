@@ -57,6 +57,13 @@ const ClientItemSchema = z.object({
 })
 type ClientItem = z.infer<typeof ClientItemSchema>
 
+const ClientExperienceSchema = z.object({
+  name: z.string().optional(),
+  value: z.number(),
+  max: z.number().optional(),
+  words: z.string().optional(),
+})
+
 const ClientLedgerLineSchema = z.object({
   turn: z.number(),
   change: z.string(),
@@ -73,6 +80,7 @@ export const ClientSheetSchema = z.object({
   status: z.string().optional(),
   attributes: z.record(z.string(), z.union([z.number(), z.string()])).optional(),
   resources: z.record(z.string(), z.union([z.number(), z.string()])).optional(),
+  experience: z.array(ClientExperienceSchema).optional(),
   purse: z.record(z.string(), z.union([z.number(), z.string()])).optional(),
   ledgers: z.record(z.string(), z.array(ClientLedgerLineSchema)).optional(),
   skills: z.array(ClientSkillSchema).optional(),
@@ -193,6 +201,11 @@ function toClientItem(raw: unknown): ClientItem | null {
   return parsed.success ? parsed.data : null
 }
 
+function toClientExperience(raw: unknown): z.infer<typeof ClientExperienceSchema> | null {
+  const parsed = ClientExperienceSchema.safeParse(raw)
+  return parsed.success ? parsed.data : null
+}
+
 function toClientEquipment(value: unknown): Record<string, ClientItem> | undefined {
   const rec = asRecord(value)
   if (rec === null) return undefined
@@ -216,6 +229,7 @@ function toClientSheet(revealed: unknown): ClientSheet | null {
     status: typeof rec["status"] === "string" ? rec["status"] : undefined,
     attributes: scalarRecord(rec["attributes"]),
     resources: scalarRecord(rec["resources"]),
+    experience: projectedArray(rec["experience"], toClientExperience),
     purse: scalarRecord(rec["purse"]),
     ledgers: ledgerRecord(rec["ledgers"]),
     skills: projectedArray(rec["skills"], toClientSkill),

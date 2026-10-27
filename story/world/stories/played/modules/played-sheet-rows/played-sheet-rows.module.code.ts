@@ -5,6 +5,7 @@ import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.modul
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { QueryRow } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
 import type { Quest } from "akasha/story/engine/core/modules/quest-schema/quest-schema.module.code.ts"
+import { metricCharacterExperience } from "akasha/story/world/mechanics/metrics/metric-character/resource/experience/metric-character-experience.page-type.ts"
 
 const TYPE_KEY = "type"
 
@@ -206,12 +207,43 @@ export function wordsIn(row: QueryRow): string | null {
   return words === null || words.trim() === "" ? null : words
 }
 
+export type Experience = {
+  readonly name?: string
+  readonly value: number
+  readonly max?: number
+  readonly words?: string
+}
+
+export function experienceIn(rows: readonly QueryRow[]): readonly Experience[] {
+  const held: Ordered<Experience>[] = []
+  for (const row of rows) {
+    const value = parseNumber(row.values[VALUE_KEY])
+    if (textIn(row.values[TYPE_KEY]) !== metricCharacterExperience.slug || value === undefined) {
+      continue
+    }
+    const title = textIn(row.values[TITLE_KEY])
+    const most = parseNumber(row.values[MAX_VALUE_KEY])
+    const words = wordsIn(row)
+    held.push({
+      name: title ?? "",
+      shown: {
+        ...(title === null || title === "" ? {} : { name: title }),
+        value,
+        ...(most === undefined ? {} : { max: most }),
+        ...(words === null ? {} : { words }),
+      },
+      order: parseNumber(row.values[DISPLAY_ORDER_KEY]),
+    })
+  }
+  return held.toSorted(byOrder).map((one) => one.shown)
+}
+
 export function resourcesIn(rows: readonly QueryRow[]): Readonly<Record<string, string | number>> {
   const held: Resource[] = []
   for (const row of rows) {
     const type = textIn(row.values[TYPE_KEY])
     const value = parseNumber(row.values[VALUE_KEY])
-    if (type === null || value === undefined) continue
+    if (type === null || value === undefined || type === metricCharacterExperience.slug) continue
     const most = parseNumber(row.values[MAX_VALUE_KEY])
     const numbers = most === undefined ? value : `${String(value)}${OUT_OF}${String(most)}`
     held.push({

@@ -27,10 +27,14 @@ export const playedAsking = {
         "A refusal is handed back as it came, so the screen draws what the other questions answered.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The titles and descriptions of the pages a sheet names are asked here.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },
   ],
   createdAt: "2026-09-28T14:27:43.635Z",
-  updatedAt: "2026-09-28T14:27:55.000Z",
+  updatedAt: "2026-10-27T18:54:07.690Z",
 } as const satisfies Module

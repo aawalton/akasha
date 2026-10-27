@@ -55,6 +55,10 @@ export const playedSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Experience is read apart from the resources, as the bar under the level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A resource stating the words the story gave for it is shown as those words, never its numbers.",
     },
@@ -132,5 +136,5 @@ export const playedSheetRows = {
     },
   ],
   createdAt: "2026-09-26T15:55:55.944Z",
-  updatedAt: "2026-10-04T12:45:10.000Z",
+  updatedAt: "2026-10-27T18:54:07.690Z",
 } as const satisfies Module

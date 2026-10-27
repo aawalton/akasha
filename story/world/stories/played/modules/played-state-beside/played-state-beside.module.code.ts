@@ -1,6 +1,5 @@
 "use client"
 
-import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type {
   Asked,
@@ -35,6 +34,7 @@ import {
 import {
   askedLoudly,
   reportThrown,
+  titlesOf,
 } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
 import { poolsIn } from "akasha/story/world/stories/played/modules/played-pools/played-pools.module.code.ts"
 import { readPurses } from "akasha/story/world/stories/played/modules/played-purses/played-purses.module.code.ts"
@@ -42,6 +42,8 @@ import {
   attunementsIn,
   bondsIn,
   type Counted,
+  type Experience,
+  experienceIn,
   heldIn,
   namedIn,
   questsIn,
@@ -99,6 +101,7 @@ export type Filed = {
   readonly level?: number
   readonly attributes: Readonly<Record<string, number>>
   readonly resources?: Readonly<Record<string, string | number>>
+  readonly experience?: readonly Experience[]
   readonly purse?: Readonly<Record<string, string | number>>
   readonly ledgers?: Readonly<Record<string, readonly LedgerLine[]>>
   readonly skills: readonly Skill[]
@@ -125,35 +128,6 @@ const NOTHING_FILED: Filed = {
   bonds: [],
   attunements: [],
   had: null,
-}
-
-type Named = {
-  readonly titles: ReadonlyMap<string, string>
-  readonly descriptions: ReadonlyMap<string, string>
-}
-
-async function titlesOf(named: ReadonlyMap<string, readonly string[]>): Promise<Named> {
-  const titles = new Map<string, string>()
-  const descriptions = new Map<string, string>()
-  await Promise.all(
-    [...named].map(async ([type, slugs]) => {
-      const asked = await askedLoudly({
-        "page-type": type,
-        where: { slug: { in: [...slugs] } },
-        keys: [SLUG_KEY, TITLE_KEY, DESCRIPTION_KEY],
-      })
-      if (!asked.ok) return
-      for (const row of asked.answer.rows) {
-        const slug = textIn(row.values[SLUG_KEY])
-        if (slug === null) continue
-        const title = textIn(row.values[TITLE_KEY])
-        const description = textIn(row.values[DESCRIPTION_KEY])
-        if (title !== null) titles.set(`${type}/${slug}`, title)
-        if (description !== null) descriptions.set(`${type}/${slug}`, description)
-      }
-    })
-  )
-  return { titles, descriptions }
 }
 
 const UNREVEALED_KEY = "unrevealed"
@@ -343,12 +317,14 @@ async function readFiled(
   const pools = poolsIn(resourceRows, turn)
   const scored = scoresIn(overlaidRows(rowsOf(scores), metricCharacterAttribute.slug, overlay))
   const held = resourcesIn(resourceRows)
+  const earned = experienceIn(resourceRows)
   return {
     pools: pools.pools,
     delta: pools.delta,
     ...(scored.level === undefined ? {} : { level: scored.level }),
     attributes: scored.attributes,
     ...(Object.keys(held).length === 0 ? {} : { resources: held }),
+    ...(earned.length === 0 ? {} : { experience: earned }),
     ...(Object.keys(purse).length === 0 ? {} : { purse }),
     ...(Object.keys(ledgers).length === 0 ? {} : { ledgers }),
     skills: skillsIn(skillRows, titles, descriptions),
@@ -396,6 +372,7 @@ function sheetOf(filed: Filed): RevealedSheet {
     ...(filed.level === undefined ? {} : { level: filed.level }),
     ...(Object.keys(filed.attributes).length === 0 ? {} : { attributes: { ...filed.attributes } }),
     ...(filed.resources === undefined ? {} : { resources: { ...filed.resources } }),
+    ...(filed.experience === undefined ? {} : { experience: [...filed.experience] }),
     ...(filed.purse === undefined ? {} : { purse: { ...filed.purse } }),
     ...(filed.ledgers === undefined ? {} : { ledgers: ledgersOf(filed.ledgers) }),
     ...(filed.skills.length === 0 ? {} : { skills: [...filed.skills] }),
