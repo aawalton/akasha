@@ -20,7 +20,7 @@ import {
 
 const DOMAIN_SLUG_KEY = "slug"
 
-export const GAME = "story-played"
+const GAME = "story-played"
 
 const STORY = "story"
 

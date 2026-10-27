@@ -3,7 +3,6 @@ import {
   defaulted,
   defaultFor,
   defaultSlots,
-  GAME,
   gameAt,
   gamesFound,
   personaIsDefault,
@@ -15,7 +14,8 @@ import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { relationProperty } from "akasha/page/relation-property/relation-property.page-type.ts"
-import { theTower } from "akasha/story/world/pages/personas/stories/played/the-tower/the-tower.story-played.ts"
+import { climb } from "akasha/story/world/pages/climb/stories/written/climb/climb.story-written.ts"
+import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
@@ -71,23 +71,23 @@ test("a seat stating a role keeps that role and still takes the default persona"
   })
 })
 
-const THE_TOWER = theTower.slug
+const STORY = climb.slug
 
-test("a game is found in the domain slot by its address and by its bare slug", () => {
-  const at = gameAt(ROOT, THE_TOWER)
+test("a story is found in the domain slot by its address and by its bare slug", () => {
+  const at = gameAt(ROOT, STORY)
   expect(at).not.toBeNull()
   const { slugs } = gamesFound(ROOT)
-  expect(slugs.get(`${GAME}/${THE_TOWER}`)).toBe(at as string)
-  expect(slugs.get(THE_TOWER)).toBe(at as string)
+  expect(slugs.get(`${storyWritten.slug}/${STORY}`)).toBe(at as string)
+  expect(slugs.get(STORY)).toBe(at as string)
 })
 
-test("a seat stating a game as its domain resolves rather than being refused", () => {
-  const stated = { persona: "iris", role: "game-master", domain: THE_TOWER }
+test("a seat stating a story as its domain resolves rather than being refused", () => {
+  const stated = { persona: "mari", role: "game-master", domain: STORY }
   const resolved = resolveAttributes(stated, [], ROOT, gamesFound(ROOT))
   expect("refusals" in resolved).toBe(false)
   if ("assigned" in resolved) {
     expect(resolved.assigned.find((one) => one.slot === "domain")?.relPath).toBe(
-      gameAt(ROOT, THE_TOWER)
+      gameAt(ROOT, STORY)
     )
   }
 })
