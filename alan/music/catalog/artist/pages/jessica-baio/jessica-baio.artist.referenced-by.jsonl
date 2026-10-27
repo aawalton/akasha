@@ -16,6 +16,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/jessica-baio-every-version/jessica-baio-every-version.song.ts","id":"019ea4f7-722c-704c-b03f-54b532d102f5"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/jessica-baio-excuses/jessica-baio-excuses.song.ts","id":"019ea4f7-7b29-76d1-addf-b0724f7914c7"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/jessica-baio-ferrari/jessica-baio-ferrari.song.ts","id":"019ea4f7-81f0-73bf-8f8f-c378119edcd6"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/jessica-baio-from-scratch/jessica-baio-from-scratch.song.ts","id":"01a17d9d-7a21-715d-9062-91827060bf05"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/jessica-baio-ghost/jessica-baio-ghost.song.ts","id":"019ea4f7-89c9-7e61-9823-ef3f0d53ef2d"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/jessica-baio-glad-you-re-settling/jessica-baio-glad-you-re-settling.song.ts","id":"019ea4f7-8fff-7e62-b235-a49154758147"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/jessica-baio-gone/jessica-baio-gone.song.ts","id":"01a0c622-242f-7cf6-9b00-51408ccf558f"}
@@ -67,6 +68,7 @@
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/jessica-baio-catalyst-start-over.track.ts","id":"01a0c622-22f4-7d26-83af-5c10b677515b"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/jessica-baio-catalyst-trust-issues.track.ts","id":"01a0c622-2346-71dc-ba51-34574d7c88da"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/jessica-baio-crossed-the-line-crossed-the-line.track.ts","id":"01a0c622-2370-7d4e-a17f-e778af27ab17"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/jessica-baio-from-scratch-from-scratch.track.ts","id":"01a17d9d-7a22-77ae-b3bf-798640d92c7c"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/jessica-baio-gone-gone.track.ts","id":"01a0c622-244d-7095-9cea-88419febbceb"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/jessica-baio-he-loves-me-he-loves-me-not-stripped-he-loves-me-he-loves-me-not-stripped.track.ts","id":"01a0c622-1ea9-7756-97fb-13f29a5b20c0"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/jessica-baio-he-loves-me-he-loves-me-not-stripped-he-loves-me-he-loves-me-not.track.ts","id":"01a0c622-1ef0-7a89-9fe9-6b22f84a8d0f"}
@@ -134,6 +136,7 @@
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/jessica-baio-catalyst/jessica-baio-catalyst.release.ts","id":"01a0676a-d71a-7005-bdf9-e2fe09d16264"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/jessica-baio-crossed-the-line/jessica-baio-crossed-the-line.release.ts","id":"01a0676a-d71b-703f-88f7-cc2639836f56"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/jessica-baio-ferrari/jessica-baio-ferrari.release.ts","id":"01a0676a-d71d-7071-84cf-932be020f516"}
+{"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/jessica-baio-from-scratch/jessica-baio-from-scratch.release.ts","id":"01a17d9d-7a21-70f9-ba63-38fe18d61ee4"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/jessica-baio-ghost/jessica-baio-ghost.release.ts","id":"01a0676a-d71e-7057-8a83-ca5de02ceceb"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/jessica-baio-glad-you-re-settling/jessica-baio-glad-you-re-settling.release.ts","id":"01a0676a-d71f-7001-a83f-5ed8185f180d"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/jessica-baio-gone/jessica-baio-gone.release.ts","id":"01a0676a-d71f-701a-9a65-2e30a7fa4679"}

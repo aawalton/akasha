@@ -23,10 +23,10 @@ export const jessicaBaio = {
       source: "spotify",
       externalId: "0VMFTqmv0hYlWruyBERT95",
       externalLink: "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95",
-      lastSyncedAt: "2026-09-21",
+      lastSyncedAt: "2026-10-27",
     },
   ],
   title: "Jessica Baio",
   createdAt: "2026-06-08T01:17:53.302Z",
-  updatedAt: "2026-09-21T22:42:03.000Z",
+  updatedAt: "2026-10-27T13:47:14.849Z",
 } as const satisfies Artist
