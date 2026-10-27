@@ -7,8 +7,9 @@ export const beatFlowTest00003 = {
   unit: "unit/words",
   partOfCollections: ["story-played/beat-flow-test"],
   position: 3,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I sit down on the bench beside the well and rest for a moment.",
+  lore: ["lore/test-world-folk", "lore/test-world-overview", "place/test-world-hall"],
   createdAt: "2026-10-27T23:11:31.734Z",
-  updatedAt: "2026-10-27T23:11:31.734Z",
+  updatedAt: "2026-10-27T23:59:17.980Z",
 } as const satisfies StoryTurnPlayed
