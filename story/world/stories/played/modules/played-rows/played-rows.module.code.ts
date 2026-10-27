@@ -15,6 +15,10 @@ import type {
 import { composeSessionEnvelope } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
 import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
+  WAITING_SAID,
+  waitsOn,
+} from "akasha/story/world/stories/played/modules/played-waiting/played-waiting.module.code.ts"
+import {
   BEATS,
   makingSaid,
   PLAYER,
@@ -167,11 +171,15 @@ function saidOver(
   return makingSaid(step, playedWorking(seats), quietMs, narrator)
 }
 
+function waitingOf(rows: readonly Page[], last: Page): boolean {
+  return waitsOn(last, playedOrder(rows).at(-2))
+}
+
 export function playedMakingKey(rows: readonly Page[]): string | null {
   const last = playedOrder(rows).at(-1)
   if (!makingOf(last)) return null
   const step = stepOf(last)
-  return `${slugIn(last) ?? last.id}:${step}`
+  return `${slugIn(last) ?? last.id}:${step}${waitingOf(rows, last) ? ":waits" : ""}`
 }
 
 export function playedMaking(
@@ -188,7 +196,7 @@ export function playedMaking(
     slug: slugIn(last) ?? last.id,
     action: typeof action === "string" ? action : "",
     step,
-    said: saidOver(step, seats, quietMs, narrator),
+    said: waitingOf(rows, last) ? WAITING_SAID : saidOver(step, seats, quietMs, narrator),
   }
 }
 

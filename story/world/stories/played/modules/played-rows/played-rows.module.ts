@@ -75,6 +75,11 @@ export const playedRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A turn being made that waits for the turn before says so, as `played-waiting` judges.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A story's seats are the seats naming the story as their assignment.",
     },
     {
@@ -127,5 +132,5 @@ export const playedRows = {
     },
   ],
   createdAt: "2026-09-14T19:22:52.305Z",
-  updatedAt: "2026-10-27T20:30:20.835Z",
+  updatedAt: "2026-10-27T23:05:30.373Z",
 } as const satisfies Module

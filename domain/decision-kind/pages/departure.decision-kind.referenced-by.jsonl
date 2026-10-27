@@ -4251,6 +4251,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.ts","id":"01a0de4c-3554-7639-96b1-340c959aae40"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-state-sheet/played-state-sheet.module.ts","id":"01a17eca-6f60-7578-8898-c4a7c88dbae4"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-titles/played-titles.module.ts","id":"01a17ece-91bc-7aff-a6fa-d1f6b0116dbb"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-waiting/played-waiting.module.ts","id":"01a17f9c-9405-7ec3-82e7-cb96525fa0fd"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/player-beside/player-beside.module.ts","id":"01a0ca9e-ea64-779b-b65f-7f138ba63302"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/portrait-redrawing/portrait-redrawing.module.ts","id":"01a0fd85-c8f1-7dda-aae8-0ec2ff4ea1f9"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/prose-beside/prose-beside.module.ts","id":"01a0a161-77ae-7c52-b1d4-6e0f8a35c92b"}
