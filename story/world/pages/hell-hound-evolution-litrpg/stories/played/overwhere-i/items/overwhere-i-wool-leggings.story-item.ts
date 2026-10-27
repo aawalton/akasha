@@ -8,6 +8,7 @@ export const overwhereIWoolLeggings = {
   story: "story-played/overwhere-i",
   character: "character-player/overwhere-i-nala",
   description: "Close-fitting leggings of brown homespun wool.",
+  category: "armor",
   createdAt: "2026-09-30T09:58:25.150Z",
-  updatedAt: "2026-09-30T12:41:54.000Z",
+  updatedAt: "2026-10-27T18:59:22.828Z",
 } as const satisfies StoryItem

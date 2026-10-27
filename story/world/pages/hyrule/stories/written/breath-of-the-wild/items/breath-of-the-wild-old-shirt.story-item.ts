@@ -9,6 +9,7 @@ export const breathOfTheWildOldShirt = {
   character: "character-other/breath-of-the-wild-link",
   description:
     "A thin, rough-woven shirt a hundred years old, faded to a blue so pale it is almost grey.",
+  category: "armor",
   createdAt: "2026-10-03T19:17:10.682Z",
-  updatedAt: "2026-10-03T19:17:13.000Z",
+  updatedAt: "2026-10-27T18:59:22.828Z",
 } as const satisfies StoryItem

@@ -9,6 +9,7 @@ export const overwhereINalaShortSword = {
   character: "character-player/overwhere-i-nala",
   slot: "item-slot/off-hand",
   description: "A plain soldier's short sword, worn at the grip, taken from a dead crossbowman.",
+  category: "weapon",
   createdAt: "2026-10-02T18:36:15.373Z",
-  updatedAt: "2026-10-02T18:43:35.000Z",
+  updatedAt: "2026-10-27T18:59:22.828Z",
 } as const satisfies StoryItem

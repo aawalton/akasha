@@ -8,6 +8,7 @@ export const breathOfTheWildTreeBranch = {
   story: "story-written/breath-of-the-wild",
   description:
     "A fallen limb as thick as a forearm, light and dry, one end broken to a rough point.",
+  category: "weapon",
   createdAt: "2026-10-03T19:17:10.682Z",
-  updatedAt: "2026-10-03T19:17:13.000Z",
+  updatedAt: "2026-10-27T18:59:22.828Z",
 } as const satisfies StoryItem

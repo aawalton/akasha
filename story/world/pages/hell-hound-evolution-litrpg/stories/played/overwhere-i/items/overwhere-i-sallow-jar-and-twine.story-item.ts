@@ -9,6 +9,7 @@ export const overwhereISallowJarAndTwine = {
   character: "character-player/overwhere-i-nala",
   description:
     "A stoppered clay jar and a hank of waxed twine, lent by Mother Sallow for a bile sac.",
+  category: "tool",
   createdAt: "2026-10-03T11:00:25.031Z",
-  updatedAt: "2026-10-03T11:00:27.000Z",
+  updatedAt: "2026-10-27T18:59:22.828Z",
 } as const satisfies StoryItem

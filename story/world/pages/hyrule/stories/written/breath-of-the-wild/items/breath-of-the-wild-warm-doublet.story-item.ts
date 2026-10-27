@@ -8,6 +8,7 @@ export const breathOfTheWildWarmDoublet = {
   story: "story-written/breath-of-the-wild",
   character: "character-other/breath-of-the-wild-link",
   description: "A dark blue quilted doublet lined with something soft, that holds back the cold.",
+  category: "armor",
   createdAt: "2026-10-03T19:17:10.682Z",
-  updatedAt: "2026-10-03T19:17:13.000Z",
+  updatedAt: "2026-10-27T18:59:22.828Z",
 } as const satisfies StoryItem

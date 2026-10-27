@@ -9,6 +9,7 @@ export const overwhereINalaBrutePelt = {
   place: "place/overwhere-i-fenwatch",
   description:
     "The black hide of a Blackbriar Brute, burned through at the chest, curing in the tanner's pit to be made into her rug.",
+  category: "material",
   createdAt: "2026-09-30T09:49:57.065Z",
-  updatedAt: "2026-09-30T10:50:14.000Z",
+  updatedAt: "2026-10-27T18:59:22.828Z",
 } as const satisfies StoryItem

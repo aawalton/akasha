@@ -9,6 +9,7 @@ export const overwhereINalaBrackBoots = {
   character: "character-player/overwhere-i-nala",
   slot: "item-slot/feet",
   description: "Calf-high boots of tanned leather, stitched to her own feet by Fenwatch's tanner.",
+  category: "armor",
   createdAt: "2026-09-30T20:02:08.329Z",
-  updatedAt: "2026-09-30T20:02:12.000Z",
+  updatedAt: "2026-10-27T18:59:22.828Z",
 } as const satisfies StoryItem
