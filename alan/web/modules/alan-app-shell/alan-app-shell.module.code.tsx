@@ -29,6 +29,7 @@ import { useActiveQuickAddPageType } from "akasha/page/ui/component/quick-add/mo
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { useAllPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
+import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import { useCallback, useEffect, useMemo, useState } from "react"
 
 interface AppShellProps {
@@ -41,6 +42,8 @@ interface AppShellProps {
 }
 
 const NO_CODED_ITEMS: readonly AppNavItem[] = []
+
+const PLAYED_STORY_PATH = `/${storyPlayed.slug}/`
 
 function withinTheApp(sections: readonly AppNavItem[]): readonly AppNavItem[] {
   return sections.flatMap((section) => section.children ?? []).filter((one) => !one.external)
@@ -140,6 +143,7 @@ function AppShellInner({
         </>
       ),
       skipRoutes: (p) => p === "/sign-in" || p === "/sign-up",
+      navHiddenRoutes: (p) => p.startsWith(PLAYED_STORY_PATH),
       renderPrimaryItems: (items, renderItem) => (
         <SortableNavs
           items={items}

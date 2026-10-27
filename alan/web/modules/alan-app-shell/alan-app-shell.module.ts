@@ -46,7 +46,11 @@ export const alanAppShell = {
       statement:
         "A reader who reads none of the site's nav pages is drawn the items the layout loaded.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story played's page draws none of the site's navigation.",
+    },
   ],
   createdAt: "2026-09-03T03:44:04.792Z",
-  updatedAt: "2026-10-24T21:48:06.843Z",
+  updatedAt: "2026-10-27T19:55:32.457Z",
 } as const satisfies Module

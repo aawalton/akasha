@@ -45,21 +45,27 @@ function AppShellContent({
 }) {
   const { isHydrated, isHidden } = useSidebarState()
   const mainRef = useRef<HTMLElement>(null)
+  const pathname = useLayoutPathname()
+  const navHidden = config.navHiddenRoutes?.(pathname) ?? false
 
   const shellContextValue = useMemo<AppShellContextValue>(
-    () => ({ hasBottomNav: isHidden, config }),
-    [isHidden, config]
+    () => ({ hasBottomNav: isHidden && !navHidden, config }),
+    [isHidden, navHidden, config]
   )
 
   return (
     <AppShellContext value={shellContextValue}>
-      <AppShellSidebar config={config} />
-      <main ref={mainRef} className="@container min-h-screen pt-(--safe-area-top)">
+      {navHidden ? null : <AppShellSidebar config={config} />}
+      <main
+        ref={mainRef}
+        data-nav-hidden={navHidden ? "" : undefined}
+        className="@container min-h-screen pt-(--safe-area-top)"
+      >
         <LayoutProvider containerRef={mainRef} ready={isHydrated}>
           {children}
         </LayoutProvider>
       </main>
-      <AppShellBottomNav config={config} />
+      {navHidden ? null : <AppShellBottomNav config={config} />}
     </AppShellContext>
   )
 }

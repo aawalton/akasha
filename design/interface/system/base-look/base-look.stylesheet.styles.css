@@ -29,6 +29,12 @@
       width: var(--sidebar-width-expanded);
     }
   }
+  html[data-sidebar] main[data-nav-hidden] {
+    margin-left: 0;
+  }
+  html:has(main[data-nav-hidden]) [data-slot="narration-bar"] {
+    left: 0;
+  }
   html[data-sidebar-ready] main {
     transition: margin 200ms;
   }

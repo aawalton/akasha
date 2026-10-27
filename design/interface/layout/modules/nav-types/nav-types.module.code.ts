@@ -30,6 +30,7 @@ export interface AppNavConfig {
   pinnedItems?: readonly string[]
   footerSlot?: React.ReactNode
   skipRoutes?: (pathname: string) => boolean
+  navHiddenRoutes?: (pathname: string) => boolean
   navReady?: boolean
   renderPrimaryItems?: (
     items: readonly AppNavItem[],
