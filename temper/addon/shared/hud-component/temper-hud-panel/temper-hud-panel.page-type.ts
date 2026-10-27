@@ -6,12 +6,17 @@ export const temperHudPanel = {
   slug: "temper-hud-panel",
   definition: "a part of the HUD placed against a dock",
   extends: ["page-type/temper-thing"],
-  parts: ["relation-property/panel-dock", "boolean-property/never-moves"],
+  parts: [
+    "relation-property/panel-dock",
+    "boolean-property/never-moves",
+    "text-property/measured-by",
+  ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "relation-property/panel-dock", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "boolean-property/never-moves", required: false, many: false },
+    { pageProperty: "text-property/measured-by", required: false, many: false },
   ],
   decisions: [
     {
@@ -31,5 +36,5 @@ export const temperHudPanel = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-27T19:11:11.511Z",
-  updatedAt: "2026-10-27T19:11:32.211Z",
+  updatedAt: "2026-10-27T19:38:16.195Z",
 } as const satisfies PageType
