@@ -8,6 +8,7 @@ export const hudTrackers = {
   key: "ZO_HUDTrackers",
   dock: "temper-hud-dock/top-right",
   displayOrder: 1,
+  measuredBy: "ZO_HUDTrackersScrollContainerScrollChild",
   createdAt: "2026-10-27T19:12:09.468Z",
-  updatedAt: "2026-10-27T19:12:09.468Z",
+  updatedAt: "2026-10-27T19:40:20.910Z",
 } as const satisfies TemperHudPanel
