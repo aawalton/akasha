@@ -28,10 +28,18 @@ export const testStoryTraining = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A drill adds to the skill `<character>-swordplay` of the reading's character.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The code imports no page of its story, so a clone of the story forwards to it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         'The reading is `{"character":"character-player/test-story-player","experience":<held>}`.',
     },
   ],
   createdAt: "2026-10-27T19:51:55.341Z",
-  updatedAt: "2026-10-27T19:51:55.341Z",
+  updatedAt: "2026-10-27T21:36:37.885Z",
 } as const satisfies WorldCheck
