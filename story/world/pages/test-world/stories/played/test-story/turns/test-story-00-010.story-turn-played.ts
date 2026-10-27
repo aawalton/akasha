@@ -13,9 +13,9 @@ export const testStory00010 = {
   action: "I wait by the hearth a while.",
   beats: "jsonl",
   lore: ["place/test-world-hall"],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/continuity"],
   endsAt: "2026-11-06T09:30:00.000Z",
   createdAt: "2026-10-27T22:02:34.656Z",
-  updatedAt: "2026-10-27T22:08:48.423Z",
+  updatedAt: "2026-10-27T22:08:58.663Z",
   ownLength: 83,
 } as const satisfies StoryTurnPlayed
