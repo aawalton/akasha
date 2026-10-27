@@ -62,7 +62,7 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The title and its menu span the same width and edges as the run and its panels.",
+      statement: "The title and its menu span the same width and edges as the run.",
     },
 
     {
@@ -132,5 +132,5 @@ export const playedShell = {
     },
   ],
   createdAt: "2026-09-14T19:28:23.697Z",
-  updatedAt: "2026-10-17T18:27:09.562Z",
+  updatedAt: "2026-10-27T18:41:33.861Z",
 } as const satisfies Module
