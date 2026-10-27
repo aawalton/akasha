@@ -39,6 +39,7 @@ import {
   slugsRenamed,
   TEST_WORLD,
 } from "akasha/command/pages/story/modules/cloning/story-cloning.module.code.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -83,6 +84,7 @@ export type Reach = {
   readonly textOf: (root: string, path: string) => string | null
   readonly valueOf: (root: string, path: string) => Value | null
   readonly partsNaming: (root: string, path: string) => readonly string[]
+  readonly minted: () => string
 }
 
 function textOnDisk(root: string, path: string): string | null {
@@ -103,6 +105,7 @@ const INDEXED: Reach = {
   textOf: textOnDisk,
   valueOf: (root, path) => valueAt(path, root),
   partsNaming: partsIndexed,
+  minted: () => uuidVersion7(),
 }
 
 type Taken = { readonly from: string; readonly to: string }
@@ -203,7 +206,9 @@ export function planned(
   }).toSorted((one, two) => rank(one.at) - rank(two.at))
   const added: Asking[] = copies.map((one) => ({
     at: ADD_FILE,
-    given: { at: one.at, body: one.body },
+    given: isCode(one.at)
+      ? { at: one.at, body: one.body }
+      : { at: one.at, body: one.body, id: reach.minted() },
   }))
   const parts = partsAsked(
     root,

@@ -58,6 +58,8 @@ const VALUES: Record<string, Record<string, unknown>> = {
 
 const STORIES: Record<string, string> = { "test-story": STORY_AT, "gifted-reborn": GIFTED }
 
+const MINTED = "01a17f40-0000-7000-8000-000000000000"
+
 const REACH: Reach = {
   storyAt: (_root, slug) => STORIES[slug] ?? null,
   there: () => false,
@@ -65,6 +67,7 @@ const REACH: Reach = {
   textOf: (_root, path) => TEXTS[path] ?? null,
   valueOf: (_root, path) => VALUES[path] ?? null,
   partsNaming: (_root, path) => (path === CHECK_AT ? [WORLD_CHECK] : []),
+  minted: () => MINTED,
 }
 
 const GIVEN: Given = {
@@ -101,6 +104,7 @@ test("a clone lands its pages, and the parts naming a copied page name the copy"
     "story/world/pages/test-world/stories/played/probe/probe.story-played.ts",
     WORLD_CHECK,
   ])
+  expect((asked[0]?.given as { readonly id?: string }).id).toBe(MINTED)
   expect(asked[2]?.given).toEqual({
     at: WORLD_CHECK,
     key: "parts",
