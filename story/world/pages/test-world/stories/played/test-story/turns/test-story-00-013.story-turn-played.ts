@@ -14,10 +14,10 @@ export const testStory00013 = {
     "For the next 7 days I drill swordplay in the hall from morning to evening, and stop if anyone comes asking for a hired sword.",
   beats: "jsonl",
   lore: ["lore/test-world-folk"],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
   interruptsAt: "2026-11-13T12:00:00.000Z",
   createdAt: "2026-10-27T23:44:58.546Z",
-  updatedAt: "2026-10-27T23:53:38.836Z",
+  updatedAt: "2026-10-27T23:53:52.680Z",
   ownLength: 147,
   endsAt: "2026-11-13T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
