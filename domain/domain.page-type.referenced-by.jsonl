@@ -156,6 +156,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/model/model.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/model/provider/model-provider.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/model/test/outcome/model-test-outcome.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/role/pages/game-master/checks/game-master-checks.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/role/role.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/capability/seat-capability.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/declaration/seat-declaration.domain.ts","typed":true,"deferred":false}

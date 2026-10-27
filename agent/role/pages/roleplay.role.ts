@@ -283,7 +283,7 @@ export const roleplay = {
       warrant: "This role decides what happens in play, as a game master does.",
       aids: [
         "Read them as written for you, with narrator in place of game master.",
-        "Obey Difficulty there as well.",
+        "Obey Difficulty in `domain/game-master-checks` as well.",
       ],
     },
     {
@@ -325,5 +325,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-27T20:42:26.643Z",
+  updatedAt: "2026-10-27T20:53:02.649Z",
 } as const satisfies Role

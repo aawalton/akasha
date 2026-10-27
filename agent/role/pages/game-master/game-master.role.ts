@@ -6,6 +6,7 @@ export const gameMaster = {
   slug: "game-master",
   definition: "an agent that runs a story",
   onCall: true,
+  parts: ["domain/game-master-checks"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -218,18 +219,7 @@ export const gameMaster = {
         "Hold to every limit the mechanics in the story's folder set on a scene.",
       ],
     },
-    {
-      directiveKind: "directive-kind/rule",
-      name: "Difficulty",
-      act: "Run each turn at the story's difficulty level: its stance, and no failure worse than its ceiling.",
-      warrant: "The player chose how hard the story plays, and can change it between turns.",
-      aids: [
-        "The level is the `difficulty` on the story's page; a story naming none is at Normal.",
-        "Read the level's page afresh each turn.",
-        "The engine moves a marked check's roll; never move a roll yourself.",
-        "A reward is the same at every level.",
-      ],
-    },
+
     {
       directiveKind: "directive-kind/rule",
       name: "Settle The Roll",
@@ -242,19 +232,7 @@ export const gameMaster = {
         "An act no check of your game settles is never settled.",
       ],
     },
-    {
-      directiveKind: "directive-kind/rule",
-      name: "Action Difficulty",
-      act: "Name each rolled action's difficulty and its situational modifiers, and never its score.",
-      warrant: "A number picked to land an outcome reads exactly like one the dice made.",
-      aids: [
-        "Pick the difficulty from the action-difficulty pages for the task alone, never for who tries it.",
-        "The character's skill and the story's difficulty level are the formula's; never weigh them in.",
-        "A modifier names a circumstance of this moment, at most three.",
-        "Add a recent success only where the character just succeeded at a like action.",
-        "Beat the action as its outcome tier's writer instruction says.",
-      ],
-    },
+
     {
       directiveKind: "directive-kind/rule",
       name: "Numbers To Mechanics",
@@ -305,5 +283,5 @@ export const gameMaster = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-27T20:31:04.692Z",
+  updatedAt: "2026-10-27T20:53:02.649Z",
 } as const satisfies Role
