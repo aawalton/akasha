@@ -1,6 +1,10 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/titles/character-title/character-title.page-type.ts","id":"01a17ebe-19c2-733f-bc86-c00084693644"}
 {"propertySlug":"import","fileName":"world-title.page-type.ts","path":"story/world/stories/played/modules/played-titles/played-titles.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-title.page-type.types.ts","path":"story/world/mechanics/titles/character-title/character-title.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-title.page-type.types.ts","path":"story/world/pages/gifted/mechanics/titles/gifted-complete-a-basic-path.world-title.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-title.page-type.types.ts","path":"story/world/pages/gifted/mechanics/titles/gifted-consume-another-soul.world-title.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-title.page-type.types.ts","path":"story/world/pages/gifted/mechanics/titles/gifted-defeat-a-lesser-demon-prince-while-unborn.world-title.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-title.page-type.types.ts","path":"story/world/pages/gifted/mechanics/titles/gifted-survive-a-fatal-blow.world-title.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-title.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/titles/super-supportive-authorized-witness.world-title.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-title.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/titles/super-supportive-avowed.world-title.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-title.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/titles/super-supportive-commendation.world-title.ts","typed":true,"deferred":false}

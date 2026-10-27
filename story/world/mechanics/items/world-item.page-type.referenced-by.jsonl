@@ -31,6 +31,8 @@
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/items/fairweather-moonbell.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/items/fairweather-pear-fizz.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/fairweather/stories/written/fairweather/mechanics/items/fairweather-wool.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/gifted/mechanics/items/gifted-linen-bandage.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/gifted/mechanics/items/gifted-swaddling-blanket.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-chameleon-potion.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-cleansing-powders.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-elundite.world-item.ts","typed":true,"deferred":false}
