@@ -23,7 +23,15 @@ export const testStoryActionCheck = {
       decisionKind: "decision-kind/departure",
       statement: "A stat named in place of a skill adds three for each point over ten.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The skills and stats read are the pages naming the reading's character.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The code imports no page of its story, so a clone of the story forwards to it.",
+    },
   ],
   createdAt: "2026-10-27T19:38:05.062Z",
-  updatedAt: "2026-10-27T20:00:25.770Z",
+  updatedAt: "2026-10-27T21:35:41.192Z",
 } as const satisfies WorldCheck
