@@ -58,28 +58,38 @@ function markedBy(owed: Owed, changes: readonly BeatChange[]): number {
   return sum
 }
 
-export function marksRefused(
-  owed: readonly Owed[],
-  changes: readonly BeatChange[],
-  recorder: string
-): string | null {
-  const unmet = owed
-    .filter((one) => recorderOf(one.page) === recorder)
-    .flatMap((one) => {
-      const marked = markedBy(one, changes)
-      if (marked === one.by) return []
-      return [
-        `outcome line ${one.line} adds ${one.by} to \`${one.key}\` of \`${one.page}\`, and the changes marked \`"outcome":${one.line}\` there add ${marked}`,
-      ]
-    })
+export function marksRefused(owed: readonly Owed[], changes: readonly BeatChange[]): string | null {
+  const unmet = owed.flatMap((one) => {
+    const marked = markedBy(one, changes)
+    if (marked === one.by) return []
+    return [
+      `outcome line ${one.line} adds ${one.by} to \`${one.key}\` of \`${one.page}\`, and the changes marked \`"outcome":${one.line}\` there add ${marked}`,
+    ]
+  })
   if (unmet.length === 0) return null
   return `${unmet.join("; ")}; state each on the beat that tells it, or on this beat where that one is shown`
+}
+
+export function unmarkedIn(owed: readonly Owed[], changes: readonly BeatChange[]): string | null {
+  const lines = new Map<string, number[]>()
+  for (const one of owed) {
+    const named = `${one.page}${BREAK}${one.key}`
+    lines.set(named, [...(lines.get(named) ?? []), one.line])
+  }
+  for (const one of changes) {
+    if (one.key === undefined || one.to === undefined) continue
+    const owing = lines.get(`${one.page}${BREAK}${one.key}`)
+    if (owing === undefined) continue
+    if (one.outcome !== undefined && owing.includes(one.outcome)) continue
+    return `the change on beat ${one.beat} sets \`${one.key}\` of \`${one.page}\`, which outcome line ${owing.join(", ")} adds to, and names none of them as its \`"outcome"\`; mark each change stating an add with that add's line`
+  }
+  return null
 }
 
 function lastHanding(held: Held, handed: Handed): boolean {
   if (handed.kind !== "record") return false
   if (held.status === MECHANICS) return true
-  return held.status === BEATS && handed.beat !== undefined && handed.beat === held.beats
+  return handed.beat !== undefined && handed.beat === held.beats
 }
 
 export function marksOn(
@@ -88,11 +98,16 @@ export function marksOn(
   held: Held,
   handed: Handed
 ): string | null {
-  if (handed.kind !== "record" || !lastHanding(held, handed)) return null
+  if (handed.kind !== "record") return null
+  if (held.status !== MECHANICS && held.status !== BEATS) return null
   if (handed.recorder !== mechanics.slug && handed.recorder !== inventory.slug) return null
   const at = outcomesAt(turnAt)
   const text = at === null ? null : textOf(at)
   if (text === null) return null
-  const changes = changesMerged(held.changes ?? [], handed.changes ?? [])
-  return marksRefused(owedIn(text), changes, handed.recorder)
+  const owed = owedIn(text)
+  const mine = (one: Owed) => recorderOf(one.page) === handed.recorder
+  const own = held.status === BEATS ? owed : owed.filter(mine)
+  const unmarked = unmarkedIn(own, handed.changes ?? [])
+  if (unmarked !== null || !lastHanding(held, handed)) return unmarked
+  return marksRefused(own, changesMerged(held.changes ?? [], handed.changes ?? []))
 }

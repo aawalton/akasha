@@ -95,7 +95,12 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A recorder at mechanics handing in last is refused while an outcome's add of its own is unmarked.",
+        "A numbers recorder's change to a key an outcome adds to is refused unless marked with its line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A numbers recorder's last handing is refused while an outcome's add of its own is unmet.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -267,5 +272,5 @@ export const storyTurnAdvance = {
     { argument: "argument/beat" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-27T22:37:14.463Z",
+  updatedAt: "2026-10-27T23:15:14.778Z",
 } as const satisfies Command

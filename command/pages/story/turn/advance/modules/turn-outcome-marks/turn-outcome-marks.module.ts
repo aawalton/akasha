@@ -24,13 +24,22 @@ export const turnOutcomeMarks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Every handing setting a key an add owed names is refused unless it is marked with that add's line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A recorder's last handing of a turn is refused while an add of its own is unmet.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "At beats, the last handing is the one handing the turn's last beat.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At beats, the numbers seat answers for every add, a purse's and an item's too.",
+    },
   ],
   createdAt: "2026-10-27T22:37:14.463Z",
-  updatedAt: "2026-10-27T22:37:14.463Z",
+  updatedAt: "2026-10-27T23:15:14.778Z",
 } as const satisfies Module
