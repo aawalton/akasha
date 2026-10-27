@@ -42,8 +42,27 @@ test("a turn's montage lines are parted from the lines kept before them", () => 
   const said = priorIn([SETTLED, FIRST, SECOND])
   if ("refused" in said) throw new Error(said.refused)
   expect(said.answered.kept).toEqual([SETTLED])
-  expect(said.answered.prior?.text).toBe(`${FIRST}\n${SECOND}\n`)
-  expect(said.answered.prior?.lines).toHaveLength(2)
+  expect(said.answered.prior?.lines).toEqual([JSON.parse(FIRST), JSON.parse(SECOND)])
+})
+
+const lineOf = (check: string, session: number, answered: unknown): string =>
+  JSON.stringify({ check, reading: {}, session, answered })
+
+test("a rerun keeps what came before the first montage and takes back only the latest", () => {
+  const was = [lineOf("t", 1, 1), lineOf("d", 1, 1), lineOf("t", 2, 1), lineOf("d", 2, 1)]
+  const now = [lineOf("t", 1, 2), lineOf("d", 1, 2)]
+  const said = priorIn([SETTLED, ...was, ...now])
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.answered.kept).toEqual([SETTLED])
+  expect(said.answered.prior?.lines).toEqual(now.map((one) => JSON.parse(one)))
+})
+
+test("a one-session rerun of a one-session montage takes back only the rerun", () => {
+  const was = [lineOf("t", 1, 1), lineOf("d", 1, 1)]
+  const now = [lineOf("t", 1, 2), lineOf("d", 1, 2)]
+  const said = priorIn([...was, ...now])
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.answered.prior?.lines).toEqual(now.map((one) => JSON.parse(one)))
 })
 
 test("a turn with no montage lines keeps them all", () => {

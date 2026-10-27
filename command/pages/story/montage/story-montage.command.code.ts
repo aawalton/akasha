@@ -128,7 +128,7 @@ function rowsOf(
   }
   rows.push(`stopped${TAB}${ran.stopped}${TAB}${ran.why}`)
   const replaced = placed.prior?.lines.length ?? 0
-  if (replaced > 0) rows.push(`replaced${TAB}${replaced} lines of the montage before`)
+  if (replaced > 0) rows.push(`superseded${TAB}${replaced} lines of the montage before`)
   for (const one of totalled(sums)) rows.push(["added", one.at, one.key, one.by].join(TAB))
   rows.push(commit === null ? `landed${TAB}nothing` : `commit${TAB}${commit}`)
   return rows
@@ -153,9 +153,7 @@ async function ranOn(
   const sums = sumsOf([...ran.added, ...back.answered], (one) => pathOf(given.root, one))
   if ("refused" in sums) return refused(sums.refused, DATA)
   const read = onDisk(given.root)
-  const replacing = placed.prior?.text ?? null
-  const turnText = read(placed.on.at)
-  const asked = linesAskedFor(placed.at, placed.on.at, ran.lines, ran.endsAt, turnText, replacing)
+  const asked = linesAskedFor(placed.at, placed.on.at, ran.lines, ran.endsAt, read(placed.on.at))
   const landed = await landing(
     given.root,
     [...asked, ...summedFor(sums, read)],

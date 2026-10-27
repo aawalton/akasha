@@ -57,7 +57,7 @@ export const storyMontage = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A montage run again on its turn replaces the one before, taking back what it added.",
+        "A montage run again on its turn supersedes the one before, taking back what it added.",
     },
   ],
   name: "montage",
@@ -74,5 +74,5 @@ export const storyMontage = {
     { argument: "argument/played-turn", required: false },
   ],
   createdAt: "2026-10-27T20:03:26.902Z",
-  updatedAt: "2026-10-27T21:15:04.630Z",
+  updatedAt: "2026-10-27T21:19:47.173Z",
 } as const satisfies Command

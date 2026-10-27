@@ -1,6 +1,6 @@
 import { addPageProperty } from "akasha/change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts"
 import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
-import { changeFileContent } from "akasha/change/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.ts"
+
 import { changePagePageProperty } from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { editsIn, foldedIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
@@ -21,8 +21,6 @@ const APPEND = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as cons
 const RESTATE = `${changeMechanicalFileContent.slug}/${changePagePageProperty.slug}` as const
 
 const ADD = `${changeMechanicalFileContent.slug}/${addPageProperty.slug}` as const
-
-const REPLACE = `${changeMechanicalFileContent.slug}/${changeFileContent.slug}` as const
 
 const ENDS_AT = exportedAs(turnEndsAt.propertySlug)
 
@@ -128,10 +126,11 @@ type SettledLine = {
 }
 
 function replacingKey(was: unknown): string | null {
-  if (!isRecord(was) || typeof was[CHECK] !== "string" || was[DICE] !== undefined) return null
+  if (!isRecord(was) || typeof was[CHECK] !== "string") return null
+  const session = sessionOf(was)
+  if (was[DICE] !== undefined && session === null) return null
   const read = was[READING]
   if (!isRecord(read)) return null
-  const session = typeof was[SESSION] === "number" ? was[SESSION] : null
   return JSON.stringify([was[CHECK], read[CHARACTER] ?? null, session])
 }
 
@@ -150,10 +149,28 @@ export function settledBefore(kept: string | null, roll: Made): SettledLine | nu
   return null
 }
 
+function sessionOf(was: unknown): number | null {
+  if (!isRecord(was)) return null
+  const session = was[SESSION]
+  return typeof session === "number" ? session : null
+}
+
+export function latestMontageAt(lines: readonly unknown[]): number {
+  let at = -1
+  for (let place = 0; place < lines.length; place += 1) {
+    if (sessionOf(lines[place]) === 1 && sessionOf(lines[place - 1]) !== 1) at = place
+  }
+  return at
+}
+
 export function countedLines(kept: string): readonly string[] {
+  const lines = outcomeLines(kept)
+  const held: unknown[] = lines.map((one) => JSON.parse(one))
+  const latest = latestMontageAt(held)
+  const live = lines.filter((_, place) => place >= latest || sessionOf(held[place]) === null)
   const replaced = new Set<string>()
   const counted: string[] = []
-  for (const line of outcomeLines(kept).toReversed()) {
+  for (const line of live.toReversed()) {
     const key = replacingKey(JSON.parse(line))
     if (key !== null && replaced.has(key)) continue
     if (key !== null) replaced.add(key)
@@ -251,13 +268,9 @@ export function linesAskedFor(
   turn: string,
   lines: readonly unknown[],
   endsAt: string,
-  turnText: string | null,
-  replacing: string | null = null
+  turnText: string | null
 ): readonly Asking[] {
   const content = lines.map((one) => `${JSON.stringify(one)}${BREAK}`).join("")
-  const written: Asking =
-    replacing === null
-      ? { at: APPEND, given: { at: outcomes, content } }
-      : { at: REPLACE, given: { at: outcomes, old: replacing, new: content } }
-  return [written, ...timedFor(turn, endsAt, turnText)]
+  const appended: Asking = { at: APPEND, given: { at: outcomes, content } }
+  return [appended, ...timedFor(turn, endsAt, turnText)]
 }

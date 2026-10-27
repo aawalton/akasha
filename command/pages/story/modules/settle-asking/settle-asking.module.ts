@@ -44,7 +44,8 @@ export const settleAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A line stating a montage `session` replaces only a line stating that session.",
+      statement:
+        "A line stating a montage `session` replaces a line of that session, dice or none, and no other.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -52,9 +53,13 @@ export const settleAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A montage rerun's lines replace the earlier montage's lines whole.",
+      statement: "Every montage line before the turn's latest montage counts for nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A montage begins at a line of session 1 following a line of no session 1.",
     },
   ],
   createdAt: "2026-09-28T21:32:10.610Z",
-  updatedAt: "2026-10-27T21:15:04.630Z",
+  updatedAt: "2026-10-27T21:19:47.173Z",
 } as const satisfies Module

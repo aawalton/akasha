@@ -1,4 +1,7 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { countedLines } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
+
+const BREAK = "\n"
 
 const SESSION = "session"
 
@@ -6,14 +9,9 @@ const ANSWERED = "answered"
 
 const ENDS_AT = "endsAt"
 
-const BREAK = "\n"
-
 type Held<Of> = { readonly answered: Of } | { readonly refused: string }
 
-export type Prior = {
-  readonly text: string
-  readonly lines: readonly Readonly<Record<string, unknown>>[]
-}
+export type Prior = { readonly lines: readonly Readonly<Record<string, unknown>>[] }
 
 export type Outcomes = { readonly kept: readonly string[]; readonly prior: Prior | null }
 
@@ -40,15 +38,14 @@ function sessioned(line: string): boolean {
 }
 
 export function priorIn(lines: readonly string[]): Held<Outcomes> {
-  const start = lines.findIndex(sessioned)
-  if (start === -1) return { answered: { kept: lines, prior: null } }
-  const block = lines.slice(start)
-  if (!block.every(sessioned)) {
+  const first = lines.findIndex(sessioned)
+  if (first === -1) return { answered: { kept: lines, prior: null } }
+  if (!lines.slice(first).every(sessioned)) {
     return { refused: "a montage reruns only while its lines are the last of its turn's outcomes" }
   }
-  const text = block.map((one) => `${one}${BREAK}`).join("")
-  const held = block.map((one) => parsed(one) ?? {})
-  return { answered: { kept: lines.slice(0, start), prior: { text, lines: held } } }
+  const counted = countedLines(lines.join(BREAK)).filter(sessioned)
+  const latest = counted.map((one) => parsed(one) ?? {})
+  return { answered: { kept: lines.slice(0, first), prior: { lines: latest } } }
 }
 
 function endOf(line: string): string | null {

@@ -47,11 +47,12 @@ test("many lines are appended at once, and the turn states the end handed in", (
   expect(asked[1]?.given).toEqual({ at: TURN, key: "endsAt", value: '"2026-09-29T11:27:00.000Z"' })
 })
 
-test("a montage rerun replaces the earlier montage's lines rather than appending", () => {
-  const was = '{"session":1}\n'
-  const asked = linesAskedFor(OUTCOMES, TURN, [{ session: 2 }], "2026-09-29T11:27:00.000Z", "", was)
-  expect(asked[0]?.at).toMatch(/\/change-file-content$/)
-  expect(asked[0]?.given).toEqual({ at: OUTCOMES, old: was, new: '{"session":2}\n' })
+test("every montage line before the turn's latest montage counts for nothing", () => {
+  const settled = JSON.stringify({ check: "world-check/timed", reading: {}, answered: 1 })
+  const was = (session: number) => JSON.stringify({ check: "c", reading: {}, session, dice: 1 })
+  const now = (session: number) => JSON.stringify({ check: "c", reading: {}, session, dice: 2 })
+  const kept = [settled, was(1), was(2), was(3), now(1), now(2)].join("\n")
+  expect(countedLines(kept)).toEqual([settled, now(1), now(2)])
 })
 
 test("a turn stating that instant already is asked nothing more", () => {
