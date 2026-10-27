@@ -12,9 +12,9 @@ export const beatFlowTest00001 = {
   stepStatus: "step-status/beats",
   action: "I uncork one healing draught and drink it, then look around the square.",
   beats: "jsonl",
-  lore: ["lore/test-world-overview"],
+  lore: ["lore/test-world-magic", "lore/test-world-overview"],
   createdAt: "2026-10-27T22:41:24.351Z",
-  updatedAt: "2026-10-27T22:51:41.260Z",
-  ownLength: 127,
+  updatedAt: "2026-10-27T22:52:11.294Z",
+  ownLength: 135,
   endsAt: "2026-11-06T09:35:00.000Z",
 } as const satisfies StoryTurnPlayed
