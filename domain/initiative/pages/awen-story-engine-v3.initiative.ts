@@ -6,6 +6,9 @@ export const awenStoryEngineV3 = {
   slug: "awen-story-engine-v3",
   domain: "domain/story-engine",
   persona: "persona/awen",
+  constraints: [
+    "This initiative only coordinates, and subagents under its sub-initiatives do every implementation.",
+  ],
   createdAt: "2026-10-27T18:19:01.317Z",
-  updatedAt: "2026-10-27T18:19:01.317Z",
+  updatedAt: "2026-10-27T18:20:09.961Z",
 } as const satisfies Initiative
