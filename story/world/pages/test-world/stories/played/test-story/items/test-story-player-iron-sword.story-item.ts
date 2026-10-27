@@ -8,9 +8,9 @@ export const testStoryPlayerIronSword = {
   world: "world/test-world",
   story: "story-played/test-story",
   character: "character-player/test-story-player",
-  slot: "item-slot/main-hand",
+
   category: "weapon",
   description: "A plain iron sword with a leather grip.",
   createdAt: "2026-10-27T19:13:36.325Z",
-  updatedAt: "2026-10-27T22:47:25.512Z",
+  updatedAt: "2026-10-27T23:20:04.000Z",
 } as const satisfies StoryItem

@@ -6,9 +6,9 @@ export const testStoryPlayer = {
   slug: "test-story-player",
   character: "character-player/test-story-player",
   currency: "world-currency/test-world-coin",
-  value: 9,
+  value: 39,
   minValue: 0,
   history: "jsonl",
   createdAt: "2026-10-27T19:11:48.398Z",
-  updatedAt: "2026-10-27T23:16:07.448Z",
+  updatedAt: "2026-10-27T23:20:04.000Z",
 } as const satisfies MetricCharacterCurrency
