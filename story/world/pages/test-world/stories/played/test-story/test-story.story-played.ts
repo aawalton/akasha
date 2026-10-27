@@ -8,6 +8,7 @@ export const testStory = {
   world: "world/test-world",
   unit: "unit/words",
   externalId: "test-story",
+  coordinatorAgent: "iris-game-master-test-story",
   chapterBreak: "A thing the player set out to try is done.",
   opensAt: "2026-10-27T08:00:00.000Z",
   panels: [
@@ -21,5 +22,5 @@ export const testStory = {
     "played-panel/otherwhere-the-library-map",
   ],
   createdAt: "2026-10-27T19:11:09.113Z",
-  updatedAt: "2026-10-27T19:11:09.113Z",
+  updatedAt: "2026-10-27T19:30:51.083Z",
 } as const satisfies StoryPlayed
