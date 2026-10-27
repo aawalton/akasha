@@ -21,7 +21,6 @@ export const awenCharacterPanel = {
       statement:
         "The Inventory tab has a search, and each item shows its quantity and opens to its description.",
     },
-    { statement: "The Inventory tab switches to an Equipped view of the filled slots." },
     {
       statement:
         "The Skills and Traits tabs each have a search, and each entry opens to its description.",
@@ -29,5 +28,5 @@ export const awenCharacterPanel = {
     { statement: "Use, Equip, Unequip and Drop buttons send a turn rather than change state." },
   ],
   createdAt: "2026-10-27T18:44:19.264Z",
-  updatedAt: "2026-10-27T19:13:59.121Z",
+  updatedAt: "2026-10-27T19:14:00.459Z",
 } as const satisfies Initiative
