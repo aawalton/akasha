@@ -44,7 +44,12 @@ export const change = {
       decisionKind: "decision-kind/departure",
       statement: "A change may name files carried into the run beside the files it is judged over.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change may say it is pinned, so every body a judge reads is at its base commit.",
+    },
   ],
   createdAt: "2026-08-30T19:37:48.493Z",
-  updatedAt: "2026-09-25T18:05:24.000Z",
+  updatedAt: "2026-10-27T20:50:54.831Z",
 } as const satisfies Module

@@ -1766,6 +1766,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.ts","id":"01a058ff-fbf9-76dc-8437-ad9a61e75657"}
 {"propertySlug":"decision-kind","path":"check/code/pages/shell-clean/shell-clean.check-code.ts","id":"01a05991-d997-76f5-a619-6ddb7444c34f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/swift-parses/swift-parses.check-code.ts","id":"01a0d58c-dd89-71ff-aa5d-ad876fa7323c"}
+{"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/modules/pinned-reading/pinned-reading.module.ts","id":"01a17f21-5af0-770d-bcba-28bb9c09ee45"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.ts","id":"01a0b7c9-d8d8-78e8-bb82-9ac8ee8f4e4b"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/modules/stall-saying/stall-saying.module.ts","id":"01a14f7f-fe02-7c8d-bb3f-107b0592ba05"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/tests-pass.check-code.ts","id":"01a04eb6-9214-7000-be71-821a1a582fbe"}

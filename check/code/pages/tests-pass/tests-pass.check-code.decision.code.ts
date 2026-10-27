@@ -1,3 +1,4 @@
+import { pinnedBodies } from "akasha/check/code/pages/tests-pass/modules/pinned-reading/pinned-reading.module.code.ts"
 import {
   linksIn,
   namedIn,
@@ -280,5 +281,11 @@ export async function refusalsOver(given: Change, shadow: Shadow): Promise<reado
   const change = holdingOver(given)
   const named = namedIn(change, shadow)
   if (named.length === 0) return []
-  return await refusingOver(change.root, named, bodiesOf(change, shadow))
+  return await refusingOver(change.root, named, readFor(change, named, bodiesOf(change, shadow)))
+}
+
+function readFor(change: Change, named: readonly string[], bodies: Bodies): Bodies {
+  const { base, pages } = change
+  if (change.pinned !== true || base === undefined || pages === undefined) return bodies
+  return pinnedBodies(change.root, base, pages, named, bodies)
 }

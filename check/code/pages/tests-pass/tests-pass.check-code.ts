@@ -5,7 +5,7 @@ export const testsPass = {
   type: "page-type/check-code",
   slug: "tests-pass",
   definition: "the check refusing a change whose tests do not pass",
-  parts: ["module/run-naming", "module/stall-saying"],
+  parts: ["module/run-naming", "module/stall-saying", "module/pinned-reading"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -379,9 +379,14 @@ export const testsPass = {
       decisionKind: "decision-kind/departure",
       statement: "That refusal is filed against the first file the tree had nowhere.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A pinned change's run reads each named test and everything it imports at the change's base.",
+    },
   ],
   check: {},
   audit: {},
   createdAt: "2026-08-29T18:09:42.932Z",
-  updatedAt: "2026-10-21T13:55:35.230Z",
+  updatedAt: "2026-10-27T20:50:54.831Z",
 } as const satisfies CheckCode

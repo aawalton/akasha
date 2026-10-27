@@ -3,6 +3,7 @@ import type { Reading } from "akasha/page/index/modules/shape/index-shape.module
 export type Change = {
   readonly root: string
   readonly base?: string
+  readonly pinned?: boolean
   readonly pages?: Reading
   readonly changed: readonly string[]
   readonly carried?: readonly string[]
