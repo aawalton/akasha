@@ -8,7 +8,6 @@ export const awenBeatFlow = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    { statement: "A beat goes to the next step as soon as the step before it hands it in." },
     {
       statement:
         "A beat is shown to the player once its numbers and prose are in, and the sheet changes with it.",
@@ -33,5 +32,5 @@ export const awenBeatFlow = {
     "Which step a beat still needs is read from the turn's beats file, and is stored nowhere else.",
   ],
   createdAt: "2026-10-27T19:18:52.513Z",
-  updatedAt: "2026-10-27T19:18:52.513Z",
+  updatedAt: "2026-10-27T20:55:11.031Z",
 } as const satisfies Initiative
