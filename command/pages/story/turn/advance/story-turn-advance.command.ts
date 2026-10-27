@@ -17,6 +17,7 @@ export const storyTurnAdvance = {
     "module/chapter-length",
     "module/turn-memory",
     "module/turn-roleplay-telling",
+    "module/turn-beat-handing",
   ],
   decisions: [
     {
@@ -107,6 +108,10 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement: "At beats, the memory recorder's advance tells the lore that beat's memory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every landed advance on a turn at beats hands out each beat it made ready.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -257,5 +262,5 @@ export const storyTurnAdvance = {
     { argument: "argument/beat" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-27T19:49:36.414Z",
+  updatedAt: "2026-10-27T19:54:42.651Z",
 } as const satisfies Command

@@ -39,6 +39,7 @@ import {
   breakIndexed,
   lengthRefused,
 } from "akasha/command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts"
+import { beatsHanded } from "akasha/command/pages/story/turn/advance/modules/turn-beat-handing/turn-beat-handing.module.code.ts"
 import {
   type Crossing,
   crossedIndexed,
@@ -318,6 +319,7 @@ async function heldOn(
     await noticesOver(reach, given.root, at, stepped, after)
   }
   if (!roleplayed) await seatsStarted(reach, at, said.starts, done, after)
+  await beatsHanded(reach, given.root, at, held, said, now.slug, done, after)
   if (after.faults.length === 0) return told(after.report)
   return answeredWith(after.report, after.faults, OPERATIONAL)
 }

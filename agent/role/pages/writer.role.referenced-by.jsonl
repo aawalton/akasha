@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"writer.role.ts","path":"agent/hook/agent-hook/block-stop-before-advance/block-stop-before-advance.agent-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"writer.role.ts","path":"command/pages/story/turn/advance/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts","typed":false,"deferred":false}

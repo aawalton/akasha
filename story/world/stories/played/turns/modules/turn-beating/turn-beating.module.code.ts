@@ -4,6 +4,7 @@ import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-cha
 import {
   doneBy,
   type FlowPart,
+  readyAcross,
   readyFor,
   shownThrough,
 } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts"
@@ -200,6 +201,22 @@ function fromBeat(
   const after = recordedOn(flow, beat, part, handed)
   if ("refused" in after) return after
   return onward(after, {}, null, true)
+}
+
+export type BeatJob = { readonly part: FlowPart; readonly turn: number; readonly beat: number }
+
+export function beatJobsOf(before: readonly Beats[], after: readonly Beats[]): readonly BeatJob[] {
+  return STEPPED.flatMap((part) => {
+    const now = readyAcross(after, part)
+    if (now === null) return []
+    const was = readyAcross(before, part)
+    const same = was !== null && was.turn === now.turn && was.beat === now.beat
+    return same ? [] : [{ part, ...now }]
+  })
+}
+
+export function recorderOf(part: FlowPart): string | null {
+  return Object.entries(RECORDED).find(([, listed]) => listed === part)?.[0] ?? null
 }
 
 export function changesUnshown(held: Held): readonly BeatChange[] {

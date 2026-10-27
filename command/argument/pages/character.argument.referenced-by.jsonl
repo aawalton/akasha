@@ -5,6 +5,7 @@
 {"propertySlug":"argument","path":"command/pages/temper/stat-compare/temper-stat-compare.command.ts","id":"01a13ac6-0c63-7b9c-bc03-6035eeeed9e2"}
 {"propertySlug":"argument","path":"command/pages/temper/tooltip-compare/temper-tooltip-compare.command.ts","id":"01a15c14-50a3-71a2-a7f0-58917ebc0bf7"}
 {"propertySlug":"argument","path":"command/pages/temper/tps/temper-tps.command.ts","id":"01a13c20-c7d3-7f3b-bb59-c86221a8b893"}
+{"propertySlug":"import","fileName":"character.argument.ts","path":"command/pages/story/turn/advance/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character.argument.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character.argument.ts","path":"command/pages/temper/combat-compare/temper-combat-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character.argument.ts","path":"command/pages/temper/picture/temper-picture.command.code.ts","typed":false,"deferred":false}

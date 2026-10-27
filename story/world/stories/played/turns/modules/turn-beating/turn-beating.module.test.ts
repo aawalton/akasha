@@ -2,8 +2,10 @@ import { expect, test } from "bun:test"
 import { beatsOf } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts"
 import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
+  beatJobsOf,
   changesShown,
   changesUnshown,
+  recorderOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
 import type { Handed } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
@@ -100,6 +102,29 @@ test("only the changes of beats a move shows reach their pages, once", () => {
   expect(changesShown(flowing(before), "player", null)).toEqual([])
   expect(changesUnshown(flowing(before))).toEqual([later])
   expect(changesShown(heldAt("recorders", { changes: [GAIN] }), "player", null)).toEqual([GAIN])
+})
+
+test("a hand-in hands each step the beat it made ready, and nothing to a step still busy", () => {
+  const numbered = beatsOf({ beat: 1, event: "One.", changes: [] }, { beat: 2, event: "Two." })
+  expect(beatJobsOf([STATED], [numbered])).toEqual([
+    { part: "changes", turn: 0, beat: 2 },
+    { part: "prose", turn: 0, beat: 1 },
+  ])
+  const both = beatsOf(
+    { beat: 1, event: "One.", changes: [] },
+    { beat: 2, event: "Two.", changes: [] }
+  )
+  expect(beatJobsOf([numbered], [both])).toEqual([])
+  expect(beatJobsOf([beatsOf()], [STATED])).toEqual([{ part: "changes", turn: 0, beat: 1 }])
+})
+
+test("each list part names the recorder that fills it, and prose names none", () => {
+  expect([recorderOf("changes"), recorderOf("memory"), recorderOf("pictured")]).toEqual([
+    "mechanics",
+    "memory",
+    "picture",
+  ])
+  expect(recorderOf("prose")).toBeNull()
 })
 
 test("a beat named off the beats status is refused", () => {
