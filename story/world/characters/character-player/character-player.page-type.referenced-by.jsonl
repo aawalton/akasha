@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-upkeep.world-check.settling.test.ts","typed":false,"deferred":false}
