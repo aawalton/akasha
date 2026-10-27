@@ -156,9 +156,10 @@ function easyLeadHintOf(antiquity: OutstandingAntiquity): string | undefined {
 }
 
 function antiquityLeafText(antiquity: OutstandingAntiquity): string {
+  const label = withProgress(antiquity.name, antiquity.lore)
   const hint = easyLeadHintOf(antiquity)
-  if (hint === undefined) return antiquity.name
-  return `${antiquity.name}  |c${hexOf("hint")}${hint}|r`
+  if (hint === undefined) return label
+  return `${label}  |c${hexOf("hint")}${hint}|r`
 }
 
 function antiquityLeadSpecs(enrichment: AntiquityLeadEnrichment): readonly SubRowSpec[] {

@@ -24,6 +24,12 @@ export interface OutstandingAntiquity {
   readonly name: string
   readonly source: "held" | "scry" | "dig" | "buy"
   readonly parentName: string | undefined
+  readonly lore: AntiquityLoreProgress | undefined
+}
+
+interface AntiquityLoreProgress {
+  readonly current: number
+  readonly total: number
 }
 
 interface EasyLeadSource {
@@ -60,6 +66,12 @@ function loreRemainingOf(this: void, antiquityId: number): number {
   return total > 0 ? math.max(0, total - GetNumAntiquityLoreEntriesAcquired(antiquityId)) : 0
 }
 
+function loreProgressOf(this: void, antiquityId: number): AntiquityLoreProgress | undefined {
+  const total = GetNumAntiquityLoreEntries(antiquityId)
+  const current = GetNumAntiquityLoreEntriesAcquired(antiquityId)
+  return total > 0 && current < total ? { current, total } : undefined
+}
+
 function heldLeadOf(this: void, antiquityId: number): ActiveAntiquityLead {
   return {
     antiquityId,
@@ -77,7 +89,13 @@ function outstandingAntiquityOf(
   if (DoesAntiquityHaveLead(antiquityId)) {
     const lead = heldLeadOf(antiquityId)
     if (!isLeftToDig(lead)) return undefined
-    return { antiquityId, name: lead.name, source: "held", parentName: undefined }
+    return {
+      antiquityId,
+      name: lead.name,
+      source: "held",
+      parentName: undefined,
+      lore: loreProgressOf(antiquityId),
+    }
   }
   if (loreRemainingOf(antiquityId) === 0) return undefined
   const easy = easyLeadSourceOf(antiquityId)
@@ -87,6 +105,7 @@ function outstandingAntiquityOf(
     name: antiquityNameOf(antiquityId),
     source: easy.kind,
     parentName: easy.parentId === undefined ? undefined : antiquityNameOf(easy.parentId),
+    lore: loreProgressOf(antiquityId),
   }
 }
 

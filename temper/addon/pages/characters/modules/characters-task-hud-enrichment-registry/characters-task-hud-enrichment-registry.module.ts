@@ -17,7 +17,11 @@ export const charactersTaskHudEnrichmentRegistry = {
       statement:
         "The ways are scry, buy map, and dig the antiquity whose dig rewards this one's lead first.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An antiquity with lore unread says how much of its lore is read after its name.",
+    },
   ],
   createdAt: "2026-09-02T16:23:41.590Z",
-  updatedAt: "2026-10-20T18:28:43.814Z",
+  updatedAt: "2026-10-27T18:25:31.516Z",
 } as const satisfies Module
