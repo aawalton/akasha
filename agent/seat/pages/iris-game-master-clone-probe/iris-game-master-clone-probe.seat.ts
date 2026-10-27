@@ -11,6 +11,7 @@ export const irisGameMasterCloneProbe = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "0411ff5a-0fb9-4d1f-98ce-0cda9ac34396",
   createdAt: "2026-10-27T21:54:26.084Z",
-  updatedAt: "2026-10-27T21:54:26.084Z",
+  updatedAt: "2026-10-27T21:54:29.673Z",
 } as const satisfies Seat
