@@ -15,7 +15,6 @@
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/characters/otherwhere-iv-nala.character-player.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/blue-boxes/stories/played/blue-boxes/characters/blue-boxes-nala.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/characters/otherwhere-viii-nala.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/climb/stories/written/climb/characters/climb-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/cornerstone/stories/written/cornerstone/characters/cornerstone-the-waking-stone-the-core.character-player.ts","typed":true,"deferred":false}
