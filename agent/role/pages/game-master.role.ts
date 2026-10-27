@@ -220,6 +220,18 @@ export const gameMaster = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Difficulty",
+      act: "Run each turn at the story's difficulty level: its stance, and no failure worse than its ceiling.",
+      warrant: "The player chose how hard the story plays, and can change it between turns.",
+      aids: [
+        "The level is the `difficulty` on the story's page; a story naming none is at Normal.",
+        "Read the level's page afresh each turn.",
+        "The engine moves a marked check's roll; never move a roll yourself.",
+        "A reward is the same at every level.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Settle The Roll",
       act: "Settle every roll your game calls for with `akasha story settle` before telling its outcome.",
       warrant:
@@ -280,5 +292,5 @@ export const gameMaster = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-19T19:40:21.897Z",
+  updatedAt: "2026-10-27T19:45:46.403Z",
 } as const satisfies Role
