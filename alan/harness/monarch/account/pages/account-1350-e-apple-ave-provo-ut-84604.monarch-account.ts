@@ -8,11 +8,11 @@ export const account1350EAppleAveProvoUt84604 = {
   definition: "money the family has, sitting in a home account",
   monarchId: "148843443217373542",
   accountDisplayName: "1350 E Apple Ave Provo UT 84604",
-  currentBalance: 1130200,
+  currentBalance: 1126900,
   accountType: "real_estate",
   asset: true,
   accountActive: true,
   accountHidden: false,
   createdAt: "2026-09-03T03:39:10.887Z",
-  updatedAt: "2026-10-20T06:16:09.549Z",
+  updatedAt: "2026-10-27T06:22:26.710Z",
 } as const satisfies MonarchAccount
