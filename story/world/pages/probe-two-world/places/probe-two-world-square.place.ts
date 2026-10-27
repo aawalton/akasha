@@ -27,7 +27,7 @@ export const probeTwoWorldSquare = {
   facts: [
     {
       fact: "The square is cobbled, with a well at its middle and a bench beside the well.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/probe-two-player"],
     },
     {
       fact: "The well is a round stone shaft with still, clear water far below and a bucket on a rope.",
@@ -35,7 +35,7 @@ export const probeTwoWorldSquare = {
     },
     {
       fact: "The square's well is a round shaft of fitted stone, its rim waist-high.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/probe-two-player"],
     },
     {
       fact: "The square's well drops a long way, its stone walls darkening further down.",
@@ -49,7 +49,15 @@ export const probeTwoWorldSquare = {
       fact: "A wooden bucket sits on the rim of the square's well, its rope coiled beside it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The bench beside the square's well is wooden.",
+      knowers: ["lore-disclosure/game-master", "character-player/probe-two-player"],
+    },
+    {
+      fact: "The cobbles around the square's well are worn smooth.",
+      knowers: ["lore-disclosure/game-master", "character-player/probe-two-player"],
+    },
   ],
   createdAt: "2026-10-27T23:43:53.894Z",
-  updatedAt: "2026-10-27T23:43:53.894Z",
+  updatedAt: "2026-10-27T23:58:51.704Z",
 } as const satisfies Place
