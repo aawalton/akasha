@@ -1,4 +1,4 @@
-{"beat":1,"event":"The player asks the shopkeeper to buy one of the lanterns on the shelves.","at":"2026-10-27T08:38:00.000Z"}
+{"beat":1,"event":"The player asks the shopkeeper to buy one of the lanterns on the shelves.","at":"2026-10-27T08:38:00.000Z","changes":[]}
 {"beat":2,"event":"The shopkeeper takes a tin lantern down and says it is eight copper, filled with oil."}
 {"beat":3,"event":"The player counts out eight copper and pays her."}
 {"beat":4,"event":"She sets the lantern on the counter and slides the lit taper toward the player."}
