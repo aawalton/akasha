@@ -1,8 +1,9 @@
 import { synthMulti } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { kubernetesLabels } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
 import { mintedSecretJsonpath } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { sourcedRef } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 
-const ROLLER_IMAGE = "registry.registry.svc.cluster.local:5000/cluster/ci:latest"
+const ROLLER_IMAGE = sourcedRef("cluster/ci")
 const SCHEDULE = "*/15 * * * *"
 const MANAGED_BY = "deploy-script"
 const API_SERVER_NODES = "192.168.68.0/24"

@@ -8,7 +8,7 @@ export const gitTransport = {
   resourceKind: "Deployment",
   namespace: "git",
   resourceName: "git-transport",
-  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
+  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git",
   replicas: 1,
   containerPort: 3000,
   manifest: ["manifest/git-transport-manifests"],
@@ -17,5 +17,5 @@ export const gitTransport = {
     "secret/git-transport-secrets-github-access-token",
   ],
   createdAt: "2026-09-03T16:24:39.441Z",
-  updatedAt: "2026-09-24T23:14:17.000Z",
+  updatedAt: "2026-10-27T07:41:05.138Z",
 } as const satisfies ServiceCluster

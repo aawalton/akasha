@@ -24,6 +24,12 @@ export function sourcedRef(repository: string): string {
   return refFor(repository, SOURCE_PLACEHOLDER)
 }
 
+const TAGGED = /:[^/]+$/
+
+export function pulledAs(image: string): string {
+  return TAGGED.test(image) ? image : `${image}:${SOURCE_PLACEHOLDER}`
+}
+
 export function withSources(yaml: string, codeAt: string = ROOT): string {
   let held = yaml
   for (const named of everyNamed()) {

@@ -28,7 +28,7 @@ import {
   GIT_TRANSPORT_ORIGIN,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { SOURCE_PLACEHOLDER } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
+import { pulledAs } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { COMMIT_PLACEHOLDER } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
 
 const DEPLOYMENT = "Deployment"
@@ -56,8 +56,6 @@ const CACHE_BACKING = "hostPath"
 const CACHE_KIND = "DirectoryOrCreate"
 
 const LATEST = ":latest"
-
-const TAGGED = /:[^/]+$/
 
 const COPYING_RESOURCES = {
   requests: { cpu: "50m", memory: "256Mi" },
@@ -232,10 +230,6 @@ function podOf(stated: Stated): Pod {
     mounts: orchestratorCacheVolumeMounts(),
     volumes: orchestratorCacheVolumes(location),
   }
-}
-
-function pulledAs(image: string): string {
-  return TAGGED.test(image) ? image : `${image}:${SOURCE_PLACEHOLDER}`
 }
 
 function imageOf(stated: Stated): string {

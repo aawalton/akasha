@@ -8,9 +8,9 @@ export const podJanitor = {
   resourceKind: "CronJob",
   namespace: "pod-janitor",
   resourceName: "pod-janitor",
-  image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
+  image: "registry.registry.svc.cluster.local:5000/cluster/ci",
   schedule: "0 */6 * * *",
   manifest: ["manifest/pod-janitor"],
   createdAt: "2026-09-03T16:20:14.336Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-27T07:41:05.138Z",
 } as const satisfies ServiceCluster

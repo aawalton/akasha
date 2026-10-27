@@ -14,6 +14,7 @@ import {
   GIT_TRANSPORT_CACHE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { pulledAs } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { gitTransportManifests } from "akasha/infrastructure/git-transport/manifests/git-transport-manifests.manifest.ts"
 import { INIT_BARE_REPO_SCRIPT } from "akasha/infrastructure/git-transport/modules/bare-repo-init/bare-repo-init.module.code.ts"
 import {
@@ -94,7 +95,7 @@ export function deploymentYaml(): string {
           initContainers: [
             {
               name: "init-bare-repo",
-              image: gitTransport.image,
+              image: pulledAs(gitTransport.image),
               imagePullPolicy: "IfNotPresent",
               command: ["sh", "-c", INIT_BARE_REPO_SCRIPT],
               env: [{ name: "HOME", value: CONTAINER_TMP_PATH }],
@@ -116,7 +117,7 @@ export function deploymentYaml(): string {
           containers: [
             {
               name: APP_NAME,
-              image: gitTransport.image,
+              image: pulledAs(gitTransport.image),
               imagePullPolicy: "IfNotPresent",
               workingDir: ORCHESTRATOR_CACHE_REPO_PATH,
               command: ["bun", "--watch", servingAt()],

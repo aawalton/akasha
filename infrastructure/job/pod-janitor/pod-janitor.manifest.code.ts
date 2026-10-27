@@ -1,6 +1,7 @@
 import { synthMulti } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { synthNamespaceCronjob } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { pulledAs } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { podJanitor as page } from "akasha/infrastructure/job/pod-janitor/pod-janitor.manifest.ts"
 import { podJanitor } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/pod-janitor/pod-janitor.service-cluster.ts"
 
@@ -11,7 +12,7 @@ const COMPONENT = "gc"
 const PART_OF = "infra"
 const MANAGED_BY = "deploy-script"
 
-const JANITOR_IMAGE = podJanitor.image
+const JANITOR_IMAGE = pulledAs(podJanitor.image)
 
 const DEFAULT_MIN_AGE_SECONDS = "3600"
 

@@ -8,9 +8,9 @@ export const gitTransportJanitor = {
   resourceKind: "CronJob",
   namespace: "git",
   resourceName: "git-transport-janitor",
-  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
+  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git",
   schedule: "*/15 * * * *",
   manifest: ["manifest/git-transport-janitor"],
   createdAt: "2026-09-07T15:24:22.380Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-27T07:41:05.138Z",
 } as const satisfies ServiceCluster
