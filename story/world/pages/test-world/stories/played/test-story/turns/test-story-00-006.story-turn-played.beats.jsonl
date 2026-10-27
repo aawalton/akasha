@@ -1,5 +1,5 @@
 {"beat":1,"event":"The player asks the shopkeeper to buy one of the lanterns on the shelves.","prose":"You point to the lanterns on the shelf behind her. \"I'd like to buy one of those.\"","at":"2026-10-27T08:38:00.000Z","changes":[]}
-{"beat":2,"event":"The shopkeeper takes a tin lantern down and says it is eight copper, filled with oil.","changes":[]}
+{"beat":2,"event":"The shopkeeper takes a tin lantern down and says it is eight copper, filled with oil.","prose":"She reaches up, takes a tin lantern down and sets it between you. \"Eight copper, and that's with the oil in it.\"","changes":[]}
 {"beat":3,"event":"The player counts out eight copper and pays her.","changes":[{"page":"metric-character-currency/test-story-player","note":"Paid 8 copper for a lantern (47 → 39)","key":"value","from":47,"to":39},{"page":"metric-character-currency/test-story-player","note":"Purse logged","key":"history","append":{"turn":6,"value":39}}]}
 {"beat":4,"event":"She sets the lantern on the counter and slides the lit taper toward the player."}
 {"beat":5,"event":"The player opens the lantern's window and touches the taper to the wick."}
