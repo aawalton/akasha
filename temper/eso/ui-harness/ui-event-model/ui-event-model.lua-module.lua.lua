@@ -178,6 +178,26 @@ local function runLater()
   return ran
 end
 
+local FRAME_MS = 16
+
+local function runUpdates()
+  local due = {}
+  for namespace, one in pairs(updates) do
+    one.waited = (one.waited or 0) + FRAME_MS
+    if one.waited >= (one.everyMs or 0) then
+      one.waited = 0
+      insert(due, { namespace = tostring(namespace), callback = one.callback })
+    end
+  end
+  table.sort(due, function(a, b) return a.namespace < b.namespace end)
+  local now = _G.GetFrameTimeMilliseconds ~= nil and _G.GetFrameTimeMilliseconds() or 0
+  for _, one in ipairs(due) do
+    local ok, thrown = pcall(one.callback, now)
+    if not ok then _G.__ui_swallow("update " .. one.namespace, thrown) end
+  end
+  return #due
+end
+
 local UNSEEN = { 0, 0, 0, 0 }
 
 local function toldOf(control, event, ...)
@@ -215,7 +235,7 @@ function _G.__ui_settle(rounds)
   local ran = 0
   local passes = rounds or 8
   for _ = 1, passes do
-    ran = ran + runLater() + frame()
+    ran = ran + runLater() + runUpdates() + frame()
     local moved = rectsChanged()
     ran = ran + moved
     if #later == 0 and moved == 0 then break end

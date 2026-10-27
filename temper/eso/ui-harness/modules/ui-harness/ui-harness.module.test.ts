@@ -323,6 +323,15 @@ describe("ui-harness", () => {
     expect(told).toBe("animation|timeline")
   })
 
+  test("an update asked for every frame runs at settling", async () => {
+    const told = await toldSince(
+      harness,
+      `EVENT_MANAGER:RegisterForUpdate("TemperTick", 0, function()
+        EVENT_MANAGER:UnregisterForUpdate("TemperTick") TemperTell("tick") end)`
+    )
+    expect(told).toBe("tick")
+  })
+
   test("a control named nothing is answered with nothing", async () => {
     expect(await harness.snapshot("NoSuchControl")).toBeNull()
   })

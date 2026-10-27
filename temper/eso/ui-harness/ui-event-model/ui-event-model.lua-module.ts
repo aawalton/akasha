@@ -63,8 +63,12 @@ export const uiEventModel = {
       statement: "No filter an addon states narrows which callbacks a raise reaches.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No clock runs, so work waiting on an interval runs only when a caller says.",
+      decisionKind: "decision-kind/departure",
+      statement: "Each round of settling is one frame of sixteen milliseconds on the clock.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An update runs in the first round its interval has passed by, then waits again.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -110,5 +114,5 @@ export const uiEventModel = {
     },
   ],
   createdAt: "2026-09-22T14:36:26.746Z",
-  updatedAt: "2026-10-27T19:11:25.299Z",
+  updatedAt: "2026-10-27T20:01:28.712Z",
 } as const satisfies LuaModule
