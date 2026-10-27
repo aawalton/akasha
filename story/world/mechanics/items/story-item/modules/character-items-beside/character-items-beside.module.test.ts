@@ -94,14 +94,19 @@ test("the carried items come back in the order their names sort", () => {
   expect(hadIn(rows, SLOTS).carried.map((one) => one.name)).toEqual([MAUL, HIDE, CLOAK])
 })
 
-test("an item stating more than one is named with how many", () => {
+test("an item stating more than one carries how many beside its name", () => {
   const had = hadIn([rowOf({ title: HIDE, quantity: 7 })], SLOTS)
-  expect(had.carried).toEqual([{ name: `${HIDE} ×7` }])
+  expect(had.carried).toEqual([{ name: HIDE, quantity: 7 }])
 })
 
-test("an item stating one or no quantity is named alone", () => {
-  expect(countedAs(HIDE, 1)).toBe(HIDE)
-  expect(countedAs(HIDE, undefined)).toBe(HIDE)
+test("an item stating one or no quantity carries no quantity", () => {
+  expect(countedAs(1)).toBeNull()
+  expect(countedAs(undefined)).toBeNull()
+})
+
+test("a worn item keeps its description and how many", () => {
+  const had = hadIn([rowOf({ title: MAUL, slot: HELD, description: NOTE, quantity: 2 })], SLOTS)
+  expect(had.worn).toEqual({ [mainHand.title]: { name: MAUL, note: NOTE, quantity: 2 } })
 })
 
 test("an item the story has not shown is left out", () => {

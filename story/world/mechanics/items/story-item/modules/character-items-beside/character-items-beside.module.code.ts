@@ -28,13 +28,18 @@ const NO_SLOT_NAMES: Record<string, string> = {}
 
 export type Filed = { readonly values: Record<string, unknown> }
 
-type Worn = { readonly name: string }
+type Carried = { readonly name: string; readonly note?: string; readonly quantity?: number }
 
-type Carried = { readonly name: string; readonly note?: string }
+type Worn = Carried
 
 export type Had = { readonly worn: Record<string, Worn>; readonly carried: readonly Carried[] }
 
-type Owned = { readonly title: string; readonly note: string | null; readonly slot: string | null }
+type Owned = {
+  readonly title: string
+  readonly note: string | null
+  readonly quantity: number | null
+  readonly slot: string | null
+}
 
 export function slotNamesIn(rows: readonly Filed[]): Record<string, string> {
   const named: Record<string, string> = {}
@@ -53,8 +58,8 @@ function slotNameOf(named: unknown, slots: Record<string, string>): string | nul
   return at === null || at === "" ? null : (slots[at] ?? null)
 }
 
-export function countedAs(title: string, quantity: unknown): string {
-  return typeof quantity === "number" && quantity > 1 ? `${title} ×${String(quantity)}` : title
+export function countedAs(quantity: unknown): number | null {
+  return typeof quantity === "number" && quantity > 1 ? quantity : null
 }
 
 function ownedIn(row: Filed, slots: Record<string, string>): Owned | null {
@@ -64,9 +69,18 @@ function ownedIn(row: Filed, slots: Record<string, string>): Owned | null {
   const said = row.values[DESCRIPTION_AT]
   const note = typeof said === "string" && said !== "" ? said : null
   return {
-    title: countedAs(title, row.values[QUANTITY_AT]),
+    title,
     note,
+    quantity: countedAs(row.values[QUANTITY_AT]),
     slot: slotNameOf(row.values[SLOT_AT], slots),
+  }
+}
+
+function carriedOf(one: Owned): Carried {
+  return {
+    name: one.title,
+    ...(one.note === null ? {} : { note: one.note }),
+    ...(one.quantity === null ? {} : { quantity: one.quantity }),
   }
 }
 
@@ -82,10 +96,10 @@ export function hadIn(rows: readonly Filed[], slots: Record<string, string>): Ha
   for (const one of owned) {
     const slot = one.slot
     if (slot !== null && !worn.some(([taken]) => taken === slot)) {
-      worn.push([slot, { name: one.title }])
+      worn.push([slot, carriedOf(one)])
       continue
     }
-    carried.push(one.note === null ? { name: one.title } : { name: one.title, note: one.note })
+    carried.push(carriedOf(one))
   }
   worn.sort((one, two) => one[0].localeCompare(two[0]))
   return { worn: Object.fromEntries(worn), carried }

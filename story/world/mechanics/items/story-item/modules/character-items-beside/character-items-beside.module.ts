@@ -36,7 +36,7 @@ export const characterItemsBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The note a carried item shows is that item's description.",
+      statement: "The note an item shows is that item's description, whether carried or worn.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -44,7 +44,7 @@ export const characterItemsBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An item stating more than one is named with how many.",
+      statement: "An item stating more than one carries how many beside its name.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -76,5 +76,5 @@ export const characterItemsBeside = {
     },
   ],
   createdAt: "2026-09-22T19:47:24.481Z",
-  updatedAt: "2026-10-04T08:13:34.000Z",
+  updatedAt: "2026-10-27T18:51:01.174Z",
 } as const satisfies Module

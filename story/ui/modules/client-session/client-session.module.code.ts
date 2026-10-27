@@ -53,13 +53,9 @@ type ClientBond = z.infer<typeof ClientBondSchema>
 const ClientItemSchema = z.object({
   name: z.string().optional(),
   note: z.string().optional(),
+  quantity: z.number().optional(),
 })
 type ClientItem = z.infer<typeof ClientItemSchema>
-
-const ClientEquipItemSchema = z.object({
-  name: z.string().optional(),
-})
-type ClientEquipItem = z.infer<typeof ClientEquipItemSchema>
 
 const ClientLedgerLineSchema = z.object({
   turn: z.number(),
@@ -85,7 +81,7 @@ export const ClientSheetSchema = z.object({
   affinities: z.array(ClientAffinitySchema).optional(),
   bonds: z.array(ClientBondSchema).optional(),
   items: z.array(ClientItemSchema).optional(),
-  equipment: z.record(z.string(), ClientEquipItemSchema).optional(),
+  equipment: z.record(z.string(), ClientItemSchema).optional(),
   titles: z.array(z.string()).optional(),
   derived: z.record(z.string(), z.number()).optional(),
 })
@@ -192,18 +188,18 @@ function toClientItem(raw: unknown): ClientItem | null {
   const candidate: Record<string, unknown> = {}
   if (typeof rec["name"] === "string") candidate["name"] = rec["name"]
   if (typeof rec["note"] === "string") candidate["note"] = rec["note"]
+  if (typeof rec["quantity"] === "number") candidate["quantity"] = rec["quantity"]
   const parsed = ClientItemSchema.safeParse(candidate)
   return parsed.success ? parsed.data : null
 }
 
-function toClientEquipment(value: unknown): Record<string, ClientEquipItem> | undefined {
+function toClientEquipment(value: unknown): Record<string, ClientItem> | undefined {
   const rec = asRecord(value)
   if (rec === null) return undefined
-  const out: Record<string, ClientEquipItem> = {}
+  const out: Record<string, ClientItem> = {}
   for (const [slot, item] of Object.entries(rec)) {
-    const itemRec = asRecord(item)
-    if (itemRec === null) continue
-    if (typeof itemRec["name"] === "string") out[slot] = { name: itemRec["name"] }
+    const held = toClientItem(item)
+    if (held?.name !== undefined) out[slot] = held
   }
   return Object.keys(out).length > 0 ? out : undefined
 }

@@ -325,6 +325,10 @@ function SkillsTab({ sheet, showsBonds }: { sheet: ClientSheet; showsBonds: bool
   )
 }
 
+function countedName(name: string | undefined, quantity: number | undefined): string {
+  return quantity === undefined ? (name ?? "") : `${name ?? ""} ×${String(quantity)}`
+}
+
 function ItemsTab({ sheet }: { sheet: ClientSheet }) {
   const items = sheet.items ?? []
   const equipment = Object.entries(sheet.equipment ?? {})
@@ -346,7 +350,7 @@ function ItemsTab({ sheet }: { sheet: ClientSheet }) {
                 key={it.name != null ? it.name : `item-${i}`}
                 className="font-mono text-[12.5px]"
               >
-                <NoteName name={it.name ?? ""} note={it.note} />
+                <NoteName name={countedName(it.name, it.quantity)} note={it.note} />
               </div>
             ))}
           </Rows>
@@ -360,7 +364,9 @@ function ItemsTab({ sheet }: { sheet: ClientSheet }) {
                 key={slot}
                 className="flex items-baseline justify-between gap-3 font-mono text-[12.5px]"
               >
-                <span className="min-w-0 flex-1 break-words text-primary">{item.name ?? ""}</span>
+                <span className="min-w-0 flex-1 break-words text-primary">
+                  {countedName(item.name, item.quantity)}
+                </span>
                 <span className="flex-none text-tertiary">{slot}</span>
               </div>
             ))}
