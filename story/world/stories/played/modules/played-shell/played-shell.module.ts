@@ -76,7 +76,13 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing beside the run is drawn here but the panels the story names.",
+      statement:
+        "Nothing beside the run is drawn here but the panels the story names and the chat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A signed-in player of a game naming a coordinator agent has a chat in the chat place.",
     },
 
     {
@@ -132,5 +138,5 @@ export const playedShell = {
     },
   ],
   createdAt: "2026-09-14T19:28:23.697Z",
-  updatedAt: "2026-10-27T18:41:33.861Z",
+  updatedAt: "2026-10-27T18:54:57.088Z",
 } as const satisfies Module

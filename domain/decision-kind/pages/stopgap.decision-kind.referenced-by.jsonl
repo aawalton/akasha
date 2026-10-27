@@ -69,6 +69,7 @@
 {"propertySlug":"decision-kind","path":"story/engine/beat-state/modules/beat-replay/beat-replay.module.ts","id":"01a10238-e959-79ba-9502-1029307633d5"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/action-bar-message/action-bar-message.module.ts","id":"01a05b71-e542-79f6-8369-4b9b67355af8"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/pages/other-characters/other-characters.played-panel.ts","id":"01a0e81f-b53a-7ac1-a0c7-8ad8ee82a3aa"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/modules/chat-panel/chat-panel.module.ts","id":"01a17eb7-3040-75c3-bb48-6a14f977b150"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.ts","id":"01a1022f-b5dc-7b0c-91af-b84b4c92f314"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-passive-trace/characters-passive-trace.module.ts","id":"01a13ae5-59e0-7e84-9933-8c858b3849a3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-rotation-reading/characters-rotation-reading.module.ts","id":"01a155ac-671b-7351-9a83-a21564b7fea3"}

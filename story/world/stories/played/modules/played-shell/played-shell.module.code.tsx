@@ -40,6 +40,7 @@ import {
   useFirstRead,
 } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
 import { sendAction } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
+import { chatPlaced } from "akasha/story/world/stories/played/modules/chat-panel/chat-panel.module.code.tsx"
 import { usePlayedBeside } from "akasha/story/world/stories/played/modules/played-beside/played-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
 import { NARROW_PAGE } from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
@@ -359,9 +360,11 @@ function PlayedStory({
 
   const drawnRun = shownIn(shown, RUN)
   const settled = panelsHeld !== null && (barRead || bar === null)
-  const placed = placedFrom(shown, (drawn) => (
-    <PlayedPanels shown={drawn} envelope={envelope} run={panelRun} />
-  ))
+  const placed = chatPlaced(
+    placedFrom(shown, (drawn) => <PlayedPanels shown={drawn} envelope={envelope} run={panelRun} />),
+    playable ? externalId : undefined,
+    narrator
+  )
 
   return (
     <div className={settled ? undefined : UNSETTLED}>

@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"textarea.module.code.tsx","path":"story/ui/modules/player-intent-panel/player-intent-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"textarea.module.code.tsx","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"textarea.module.code.tsx","path":"story/world/stories/played/modules/action-bar/action-bar.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"textarea.module.code.tsx","path":"story/world/stories/played/modules/chat-panel/chat-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"textarea.module.code.tsx","path":"temper/web/modules/text-area-panel-card/text-area-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"textarea.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}
