@@ -6,10 +6,13 @@ export interface HudLayoutDock {
   readonly gap: number
 }
 
+export type InputMode = "keyboard" | "gamepad"
+
 export interface HudLayoutPanel {
   readonly key: string
   readonly dock: HudDock
   readonly displayOrder: number
+  readonly inputModes: readonly InputMode[]
   readonly neverMoves: boolean
   readonly measuredBy?: string
 }
