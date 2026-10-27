@@ -98,6 +98,19 @@ export const orchestratorCache = {
         "A git killed mid-write leaves a lock that the next pod clears rather than trips on.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A process git starts in the background keeps the cache's lock until that process ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fetch on a cache starts no gc and no maintenance of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The packs a fetch adds are rolled up after the reset, while the lock is held.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No token is written into the checkout a pod makes or keeps.",
     },
@@ -126,5 +139,5 @@ export const orchestratorCache = {
     },
   ],
   createdAt: "2026-09-03T12:19:38.524Z",
-  updatedAt: "2026-10-25T22:20:12.498Z",
+  updatedAt: "2026-10-27T08:45:14.948Z",
 } as const satisfies Module

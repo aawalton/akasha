@@ -188,8 +188,9 @@ spec:
                     git -C /app/repo remote set-url origin "http://git-transport.git.svc.cluster.local:3000/alan/akasha.git"
                   fi
                   echo "init-code: /app/repo already cloned, fetching origin and resetting to CHECKOUT_COMMIT"
-                  { tried=0; until git -C /app/repo fetch origin --prune; do tried=$((tried + 1)); [ "$tried" -lt 6 ] || exit 1; sleep $((tried * 5)); done; }
+                  { tried=0; until git -C /app/repo -c gc.auto=0 -c maintenance.auto=false fetch origin --prune; do tried=$((tried + 1)); [ "$tried" -lt 6 ] || exit 1; sleep $((tried * 5)); done; }
                   git -C /app/repo reset --hard CHECKOUT_COMMIT
+                  git -C /app/repo repack -q -d --geometric=2
                   echo "init-code: source-sync to CHECKOUT_COMMIT complete"
                 else
                   if [ -e /app/repo ]; then

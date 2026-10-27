@@ -185,7 +185,7 @@ test("a deploy's checkout and build are one hold of the lock init-build holds", 
   const script = webCheckoutAndBuild(PACKAGE, ELSEWHERE)
   expect(script).toContain('LOCK="/app/.init-lock"')
   expect(script.split("flock -n 9").length).toBe(2)
-  expect(script.indexOf("flock -n 9")).toBeLessThan(script.indexOf("git fetch origin main"))
+  expect(script.indexOf("flock -n 9")).toBeLessThan(script.indexOf("fetch origin main"))
   expect(script.indexOf(`git reset --hard ${ELSEWHERE}`)).toBeLessThan(
     script.indexOf("react-router build")
   )
@@ -193,8 +193,12 @@ test("a deploy's checkout and build are one hold of the lock init-build holds", 
 
 test("a fetch the git service dropped is made again after a longer pause each time", () => {
   const started = initCodeOf(ELSEWHERE).command[2] as string
-  expect(webCheckoutAndBuild(PACKAGE, ELSEWHERE)).toContain("until git fetch origin main; do")
-  expect(started).toContain("until git -C /app/repo fetch origin --prune; do")
+  expect(webCheckoutAndBuild(PACKAGE, ELSEWHERE)).toContain(
+    "until git -c gc.auto=0 -c maintenance.auto=false fetch origin main; do"
+  )
+  expect(started).toContain(
+    "until git -C /app/repo -c gc.auto=0 -c maintenance.auto=false fetch origin --prune; do"
+  )
   for (const script of [webCheckoutAndBuild(PACKAGE, ELSEWHERE), started]) {
     expect(script).toContain('[ "$tried" -lt 6 ] || exit 1; sleep $((tried * 5))')
   }
@@ -213,6 +217,32 @@ test("a deploy's checkout clears the locks a git killed mid-write left behind", 
   runIn(cache, webCheckoutAndBuild(PACKAGE, ahead))
   expect(said(["git", "-C", cache.repo, "rev-parse", "HEAD"]).trim()).toBe(ahead)
   expect(left.filter((one) => existsSync(one))).toEqual([])
+})
+
+function gcDue(cache: Cache): readonly string[] {
+  const git = (...argv: readonly string[]): string => said(["git", "-C", cache.repo, ...argv])
+  for (const [key, value] of [
+    ["gc.auto", "1"],
+    ["gc.autoPackLimit", "1"],
+    ["gc.autoDetach", "false"],
+    ["transfer.unpackLimit", "1"],
+  ]) {
+    git("config", key as string, value as string)
+  }
+  git("repack", "-q", "-a", "-d")
+  return [
+    join(cache.repo, ".git", "gc.pid"),
+    join(cache.repo, ".git", "objects", "pack", "multi-pack-index"),
+  ]
+}
+
+test("a deploy's checkout starts no gc that would hold the lock past the build", () => {
+  const cache = cacheSeeded()
+  const ahead = originAhead(cache)
+  const started = gcDue(cache)
+  runIn(cache, webCheckoutAndBuild(PACKAGE, ahead))
+  expect(said(["git", "-C", cache.repo, "rev-parse", "HEAD"]).trim()).toBe(ahead)
+  expect(started.filter((one) => existsSync(one))).toEqual([])
 })
 
 const TOKEN_REF = { secretName: "held", secretKey: "GIT_ACCESS_TOKEN" }

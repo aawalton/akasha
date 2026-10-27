@@ -167,13 +167,13 @@ test("the pod is checked out to the sha before the build runs", () => {
 })
 
 test("a checkout takes what origin carries rather than what is in the pod", () => {
-  expect(scriptFor()).toContain("git fetch origin main")
+  expect(scriptFor()).toContain("fetch origin main")
 })
 
 test("the checkout and the build are one hold of the cache's lock", () => {
   const script = scriptFor()
   expect(script.split("flock -n 9").length).toBe(2)
-  expect(script.indexOf("flock -n 9")).toBeLessThan(script.indexOf("git fetch origin main"))
+  expect(script.indexOf("flock -n 9")).toBeLessThan(script.indexOf("fetch origin main"))
 })
 
 test("a build leaves the sha it was made from inside the build it made", () => {

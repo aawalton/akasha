@@ -83,13 +83,18 @@ function fetchedAgain(fetching: string): string {
   return `{ tried=0; until ${fetching}; do tried=$((tried + 1)); ${stop}; ${pause}; done; }`
 }
 
+const NO_GC_STARTED = "-c gc.auto=0 -c maintenance.auto=false"
+
+const PACKS_ROLLED_UP = "repack -q -d --geometric=2"
+
 function checkoutSteps(sha: string): readonly string[] {
   return [
     LEFT_LOCKS_CLEARED,
     `trap "${LEFT_LOCKS_CLEARED}" EXIT INT TERM`,
     `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
-    fetchedAgain("git fetch origin main"),
+    fetchedAgain(`git ${NO_GC_STARTED} fetch origin main`),
     `git reset --hard ${sha}`,
+    `git ${PACKS_ROLLED_UP}`,
   ]
 }
 
@@ -134,8 +139,9 @@ export function orchestratorCacheInitContainer(opts: {
       `    git -C ${ORCHESTRATOR_CACHE_REPO_PATH} remote set-url origin "${opts.location.cloneOriginUrl}"`,
       `  fi`,
       `  echo "init-code: ${ORCHESTRATOR_CACHE_REPO_PATH} already cloned, fetching origin and resetting to ${commit}"`,
-      `  ${fetchedAgain(`git -C ${ORCHESTRATOR_CACHE_REPO_PATH} fetch origin --prune`)}`,
+      `  ${fetchedAgain(`git -C ${ORCHESTRATOR_CACHE_REPO_PATH} ${NO_GC_STARTED} fetch origin --prune`)}`,
       `  git -C ${ORCHESTRATOR_CACHE_REPO_PATH} reset --hard ${commit}`,
+      `  git -C ${ORCHESTRATOR_CACHE_REPO_PATH} ${PACKS_ROLLED_UP}`,
       `  echo "init-code: source-sync to ${commit} complete"`,
       "else",
       `  if [ -e ${ORCHESTRATOR_CACHE_REPO_PATH} ]; then`,
