@@ -5,11 +5,11 @@ export const poisonedInParadiseAMarthaSVineyardMystery = {
   type: "page-type/movie",
   slug: "poisoned-in-paradise-a-martha-s-vineyard-mystery",
   ownLength: 84,
-  ownProgress: 0,
+  ownProgress: 84,
   partOfCollections: ["franchise/a-martha-s-vineyard-mystery"],
   position: 4,
   publishedAt: "2021-05-16",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -31,5 +31,7 @@ export const poisonedInParadiseAMarthaSVineyardMystery = {
     "Philo",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T20:45:19.452Z",
+  updatedAt: "2026-10-27T23:32:36.179Z",
+  completedAt: "2026-10-27T23:32:35.302Z",
+  progressedAt: "2026-10-27T23:32:36.179Z",
 } as const satisfies Movie
