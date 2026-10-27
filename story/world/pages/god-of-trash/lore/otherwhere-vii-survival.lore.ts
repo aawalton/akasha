@@ -6,7 +6,7 @@ export const otherwhereViiSurvival = {
   slug: "otherwhere-vii-survival",
   title: "Needs",
   world: "world/god-of-trash",
-  about: "world-mechanic/otherwhere-vii-survival",
+  about: "world/god-of-trash",
   facts: [
     {
       fact: "In early autumn hedges hold blackberries, hazelnuts and sloes, and fields hold gleanings.",
@@ -30,5 +30,5 @@ export const otherwhereViiSurvival = {
     },
   ],
   createdAt: "2026-09-28T23:04:51.651Z",
-  updatedAt: "2026-09-28T23:04:54.000Z",
+  updatedAt: "2026-10-27T19:36:04.419Z",
 } as const satisfies Lore

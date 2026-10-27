@@ -5,7 +5,8 @@ export const otherwhereViiOsricVane = {
   type: "page-type/character-other",
   slug: "otherwhere-vii-osric-vane",
   title: "Osric Vane",
-  story: "story-played/otherwhere-vii",
+  world: "world/god-of-trash",
+  story: "story-read/god-of-trash",
   createdAt: "2026-09-29T02:02:59.219Z",
-  updatedAt: "2026-09-29T02:03:02.000Z",
+  updatedAt: "2026-10-27T19:36:04.419Z",
 } as const satisfies CharacterOther

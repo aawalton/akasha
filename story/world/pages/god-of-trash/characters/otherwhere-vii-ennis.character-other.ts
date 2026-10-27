@@ -5,8 +5,9 @@ export const otherwhereViiEnnis = {
   type: "page-type/character-other",
   slug: "otherwhere-vii-ennis",
   title: "Ennis",
-  story: "story-played/otherwhere-vii",
+  world: "world/god-of-trash",
+  story: "story-read/god-of-trash",
   place: "place/otherwhere-vii-ashford",
   createdAt: "2026-09-28T22:33:16.048Z",
-  updatedAt: "2026-10-03T19:40:51.000Z",
+  updatedAt: "2026-10-27T19:36:04.419Z",
 } as const satisfies CharacterOther

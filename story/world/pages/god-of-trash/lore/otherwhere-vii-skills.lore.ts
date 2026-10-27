@@ -6,7 +6,7 @@ export const otherwhereViiSkills = {
   slug: "otherwhere-vii-skills",
   title: "Skills",
   world: "world/god-of-trash",
-  about: "world-mechanic/otherwhere-vii-skills",
+  about: "world/god-of-trash",
   facts: [
     {
       fact: "Resist skills: Hunger, Pain, Poison, Heat, Cold, Acid, Disease, Bleed and Impurity Resist.",
@@ -50,5 +50,5 @@ export const otherwhereViiSkills = {
     },
   ],
   createdAt: "2026-09-28T23:01:41.344Z",
-  updatedAt: "2026-09-28T23:01:45.000Z",
+  updatedAt: "2026-10-27T19:36:04.419Z",
 } as const satisfies Lore

@@ -5,8 +5,9 @@ export const otherwhereViiJoanReeve = {
   type: "page-type/character-other",
   slug: "otherwhere-vii-joan-reeve",
   title: "Joan Reeve",
-  story: "story-played/otherwhere-vii",
+  world: "world/god-of-trash",
+  story: "story-read/god-of-trash",
   place: "place/otherwhere-vii-ashford",
   createdAt: "2026-09-29T01:14:13.193Z",
-  updatedAt: "2026-10-03T19:16:23.000Z",
+  updatedAt: "2026-10-27T19:36:04.419Z",
 } as const satisfies CharacterOther

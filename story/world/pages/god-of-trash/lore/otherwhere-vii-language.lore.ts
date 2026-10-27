@@ -6,7 +6,7 @@ export const otherwhereViiLanguage = {
   slug: "otherwhere-vii-language",
   title: "Language",
   world: "world/god-of-trash",
-  about: "world-mechanic/otherwhere-vii-language",
+  about: "world/god-of-trash",
   facts: [
     {
       fact: "One common tongue is spoken across Orphela and the old Empire, with local accents.",
@@ -46,5 +46,5 @@ export const otherwhereViiLanguage = {
     },
   ],
   createdAt: "2026-09-28T23:01:41.344Z",
-  updatedAt: "2026-09-29T01:46:45.000Z",
+  updatedAt: "2026-10-27T19:36:04.419Z",
 } as const satisfies Lore

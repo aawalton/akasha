@@ -6,7 +6,7 @@ export const otherwhereViiCultivation = {
   slug: "otherwhere-vii-cultivation",
   title: "Cultivation",
   world: "world/god-of-trash",
-  about: "world-mechanic/otherwhere-vii-cultivation",
+  about: "world/god-of-trash",
   facts: [
     {
       fact: "A mortal wakes to mana by a school's teaching, by a drop of mana potion, or by sensing it alone.",
@@ -47,5 +47,5 @@ export const otherwhereViiCultivation = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T23:01:41.343Z",
-  updatedAt: "2026-09-28T23:01:45.000Z",
+  updatedAt: "2026-10-27T19:36:04.419Z",
 } as const satisfies Lore

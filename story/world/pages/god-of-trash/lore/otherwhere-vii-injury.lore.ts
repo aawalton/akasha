@@ -6,7 +6,7 @@ export const otherwhereViiInjury = {
   slug: "otherwhere-vii-injury",
   title: "Injury",
   world: "world/god-of-trash",
-  about: "world-mechanic/otherwhere-vii-injury",
+  about: "world/god-of-trash",
   facts: [
     {
       fact: "Village healers and midwives set bones, stitch cuts, and poultice with common herbs.",
@@ -30,5 +30,5 @@ export const otherwhereViiInjury = {
     },
   ],
   createdAt: "2026-09-28T23:04:51.650Z",
-  updatedAt: "2026-09-28T23:04:54.000Z",
+  updatedAt: "2026-10-27T19:36:04.419Z",
 } as const satisfies Lore

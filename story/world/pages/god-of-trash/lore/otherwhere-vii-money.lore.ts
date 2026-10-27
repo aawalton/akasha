@@ -6,7 +6,7 @@ export const otherwhereViiMoney = {
   slug: "otherwhere-vii-money",
   title: "Money and Trade",
   world: "world/god-of-trash",
-  about: "world-mechanic/otherwhere-vii-money",
+  about: "world/god-of-trash",
   facts: [
     {
       fact: "Coin is copper pennies, silvers and golds: a hundred pennies a silver, ten silvers a gold.",
@@ -106,5 +106,5 @@ export const otherwhereViiMoney = {
     },
   ],
   createdAt: "2026-09-28T22:54:10.933Z",
-  updatedAt: "2026-09-28T22:54:14.000Z",
+  updatedAt: "2026-10-27T19:36:04.419Z",
 } as const satisfies Lore
