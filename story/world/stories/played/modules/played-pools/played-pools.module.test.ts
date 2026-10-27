@@ -1,11 +1,13 @@
 import { expect, test } from "bun:test"
-import { towerHealth } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-health/tower-health.page-type.ts"
-import { towerMana } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-mana/tower-mana.page-type.ts"
 import {
   changeIn,
   linesIn,
   poolsIn,
 } from "akasha/story/world/stories/played/modules/played-pools/played-pools.module.code.ts"
+
+const HEALTH = "tower-health"
+
+const MANA = "tower-mana"
 
 const MANA_HISTORY = '{"turn":85,"value":120}\n{"turn":87,"value":110}\n{"turn":88,"value":104}\n'
 
@@ -28,18 +30,18 @@ test("the change is the last line less the one before, only where the last is th
 
 test("a pool is keyed by its page type, its most with Max, and holds this turn's change", () => {
   const rows = [
-    { values: { type: towerHealth.slug, value: 121, maxValue: 124, history: HEALTH_HISTORY } },
-    { values: { type: towerMana.slug, value: 104, maxValue: 120, history: MANA_HISTORY } },
+    { values: { type: HEALTH, value: 121, maxValue: 124, history: HEALTH_HISTORY } },
+    { values: { type: MANA, value: 104, maxValue: 120, history: MANA_HISTORY } },
     { values: { type: "tower-stamina", value: "48" } },
     { values: { type: "tower-worded", value: 3, revealedAs: "some" } },
   ]
   expect(poolsIn(rows, 88)).toEqual({
     pools: {
-      [towerHealth.slug]: 121,
-      [`${towerHealth.slug}Max`]: 124,
-      [towerMana.slug]: 104,
-      [`${towerMana.slug}Max`]: 120,
+      [HEALTH]: 121,
+      [`${HEALTH}Max`]: 124,
+      [MANA]: 104,
+      [`${MANA}Max`]: 120,
     },
-    delta: { [towerMana.slug]: -6 },
+    delta: { [MANA]: -6 },
   })
 })

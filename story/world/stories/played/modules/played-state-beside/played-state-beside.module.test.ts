@@ -1,11 +1,12 @@
 import { expect, test } from "bun:test"
 import { GameStateSchema } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
-import { towerHealth } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-health/tower-health.page-type.ts"
 import { revealedRows } from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
 import {
   type Filed,
   stateOf,
 } from "akasha/story/world/stories/played/modules/played-state-sheet/played-state-sheet.module.code.ts"
+
+const HEALTH = "tower-health"
 
 const NOTHING: Filed = {
   pools: {},
@@ -34,10 +35,10 @@ test("a character with nothing filed has no state", () => {
 })
 
 test("the pools filed are the hud, and the name heads the sheet", () => {
-  expect(stateOf({ ...NOTHING, pools: { [towerHealth.slug]: 121 } }, 88, "Alan")).toEqual({
+  expect(stateOf({ ...NOTHING, pools: { [HEALTH]: 121 } }, 88, "Alan")).toEqual({
     turn: 88,
     quests: [],
-    hud: { pools: { [towerHealth.slug]: 121 }, delta: {} },
+    hud: { pools: { [HEALTH]: 121 }, delta: {} },
     revealed: { name: "Alan" },
   })
 })
