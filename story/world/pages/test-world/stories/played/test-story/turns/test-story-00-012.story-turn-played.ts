@@ -14,7 +14,7 @@ export const testStory00012 = {
     "Each day I drill swordplay in the hall from morning to evening, until my swordplay reaches its next rung, for at most 10 days.",
   beats: "jsonl",
   createdAt: "2026-10-27T23:37:05.705Z",
-  updatedAt: "2026-10-27T23:39:57.645Z",
-  ownLength: 20,
+  updatedAt: "2026-10-27T23:40:48.372Z",
+  ownLength: 58,
   endsAt: "2026-11-11T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
