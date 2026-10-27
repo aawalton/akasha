@@ -11,6 +11,7 @@ export const irisWriterGiftedReborn = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "2f528721-1dab-4d2d-8e36-634fef42981d",
   createdAt: "2026-10-27T23:35:56.300Z",
-  updatedAt: "2026-10-27T23:35:56.300Z",
+  updatedAt: "2026-10-27T23:35:59.661Z",
 } as const satisfies Seat
