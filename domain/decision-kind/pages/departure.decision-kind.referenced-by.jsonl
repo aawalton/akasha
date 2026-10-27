@@ -4107,6 +4107,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/currencies/world-currency.page-type.ts","id":"01a0f1da-0622-7635-9a06-b7c5f8bb061e"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.ts","id":"01a0de74-5fb3-7593-a73d-196114cb52c0"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/elements/world-element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/items/properties/world-item-category.select-property.ts","id":"01a17eb7-e856-713c-916b-7668b2ac629e"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.ts","id":"01a0caa8-a2c1-7827-bdaa-42e97874aad7"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/properties/item-essence.relation-property.ts","id":"01a0d428-fd14-7aa0-8b01-dea9a57171d4"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/properties/item-quantity.number-property.ts","id":"01a0f1e8-8f5f-7def-86fe-9403ec8c6de8"}
