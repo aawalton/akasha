@@ -1,5 +1,6 @@
 "use client"
 
+import { DifficultyPanel } from "akasha/story/ui/modules/difficulty-panel/difficulty-panel.module.code.tsx"
 import { HudPanel } from "akasha/story/ui/modules/hud-panel/hud-panel.module.code.tsx"
 import { PlayerCharacterPanel } from "akasha/story/ui/modules/player-character-panel/player-character-panel.module.code.tsx"
 import { PlayerIntentPanel } from "akasha/story/ui/modules/player-intent-panel/player-intent-panel.module.code.tsx"
@@ -28,6 +29,7 @@ const OFFERED: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {
     metricLabel,
     poolPanelBy,
   },
+  "akasha/story/ui/modules/difficulty-panel/difficulty-panel.module.code.tsx": { DifficultyPanel },
   "akasha/story/ui/modules/hud-panel/hud-panel.module.code.tsx": { HudPanel },
 
   "akasha/story/ui/modules/player-character-panel/player-character-panel.module.code.tsx": {

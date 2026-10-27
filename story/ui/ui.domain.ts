@@ -39,6 +39,7 @@ export const ui = {
     "module/character-cover-panel",
     "module/player-character-panel",
     "module/player-intent-panel",
+    "module/difficulty-panel",
     "module/scene-cover-panel",
     "module/inline-cover",
     "module/cover-viewing",
@@ -46,5 +47,5 @@ export const ui = {
     "page-type/played-panel",
   ],
   createdAt: "2026-09-02T14:38:30.875Z",
-  updatedAt: "2026-10-27T19:04:03.834Z",
+  updatedAt: "2026-10-27T19:56:41.328Z",
 } as const satisfies Domain
