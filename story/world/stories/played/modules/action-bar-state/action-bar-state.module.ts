@@ -4,7 +4,7 @@ export const actionBarState = {
   id: "01a0d48a-0758-724f-85b2-9b2412f0754f",
   type: "page-type/module",
   slug: "action-bar-state",
-  definition: "what a game's action bar shows of the actions sent and still waiting",
+  definition: "what a game's action bar shows of the actions sent and the turn being made",
   code: "ts",
   test: "ts",
   decisions: [
@@ -14,7 +14,7 @@ export const actionBarState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An echo goes once a list of waiting actions asked for after its write is read.",
+      statement: "An echo goes once the bar's read after its write comes back.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,12 +22,11 @@ export const actionBarState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn is awaited from an action sent or waiting until the story has more turns.",
+      statement: "A turn is awaited from an action sent until the story has more turns.",
     },
-
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn stops being awaited ten minutes after the last action was seen waiting.",
+      statement: "A turn stops being awaited ten minutes after the last action was sent.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,7 +34,7 @@ export const actionBarState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A line already waiting or echoing is sent again only when sent twice.",
+      statement: "A line already being made or echoing is sent again only when sent twice.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -47,5 +46,5 @@ export const actionBarState = {
     },
   ],
   createdAt: "2026-09-24T17:50:10.776Z",
-  updatedAt: "2026-10-27T19:27:24.244Z",
+  updatedAt: "2026-10-27T22:10:37.219Z",
 } as const satisfies Module

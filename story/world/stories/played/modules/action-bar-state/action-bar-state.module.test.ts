@@ -1,14 +1,13 @@
 import { expect, test } from "bun:test"
 import {
+  type ActionShown,
   armedAfterTyping,
-  awaitsTurn,
   draftFilled,
   echoDropped,
   echoesSettled,
   echoesShown,
   echoOf,
   echoWritten,
-  type PendingAction,
   sendingFor,
   TURN_AWAITED_MS,
   turnAwaited,
@@ -16,7 +15,7 @@ import {
   turnReadySaid,
 } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
 
-const LOOK: PendingAction = { id: "agent-message-1", text: "I look around" }
+const LOOK: ActionShown = { id: "the-game-00-003", text: "I look around" }
 
 test("an echo still sending is shown", () => {
   expect(echoesShown([echoOf("k", "I wait", 1)], [])).toHaveLength(1)
@@ -45,12 +44,6 @@ test("an action's echo is kept while the turn answering it is awaited", () => {
 test("a bracketed line's echo is kept while a turn is awaited, as any action's is", () => {
   const echoes = echoWritten([echoOf("k", "[slow down]", 1)], "k", "agent-message-2", 5)
   expect(echoesSettled(echoes, 6, true)).toHaveLength(1)
-})
-
-test("a turn is awaited over any line sent, bracketed or not", () => {
-  expect(awaitsTurn([LOOK])).toBe(true)
-  expect(awaitsTurn([echoOf("k", "[slow down]", 1)])).toBe(true)
-  expect(awaitsTurn([])).toBe(false)
 })
 
 test("a turn awaited is awaited past the turns seen while an action waits", () => {

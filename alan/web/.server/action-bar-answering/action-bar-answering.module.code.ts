@@ -25,10 +25,7 @@ import {
   type Enrolment,
   personSlugFor,
 } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
-import {
-  ACTION_BAR_PLAYER,
-  ACTION_BAR_SENDER,
-} from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import { ACTION_BAR_PLAYER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   noticeOf,
@@ -47,8 +44,6 @@ const GAME_PAGE_TYPE_SLUG = storyPlayed.slug
 
 const SEAT_PAGE_TYPE_SLUG = "seat"
 
-const MESSAGE_PAGE_TYPE_SLUG = "agent-message"
-
 const EXTERNAL_ID = "externalId"
 
 const COORDINATOR_AGENT = "coordinatorAgent"
@@ -56,14 +51,6 @@ const COORDINATOR_AGENT = "coordinatorAgent"
 const SLUG = "slug"
 
 const PERSONS = "persons"
-
-const TO = "to"
-
-const FROM = "from"
-
-const BODY = "body"
-
-const CLAIMED_AT = "claimedAt"
 
 const ACTION_DRAFT = "actionDraft"
 
@@ -94,11 +81,6 @@ const PROSE_CHECK =
 
 type Row = Readonly<Record<string, unknown>>
 
-type PendingAction = {
-  readonly id: string
-  readonly text: string
-}
-
 type GameSeat =
   | {
       readonly kind: "seated"
@@ -124,24 +106,8 @@ export type ActionBarEffects = {
   readonly seatOf: (gameExternalId: string) => Promise<GameSeat>
   readonly write: (stated: Stated) => Promise<Written>
   readonly make: (game: string, action: string) => Promise<TurnMade>
-  readonly pendingRows: () => Promise<readonly Row[] | { readonly refused: string }>
   readonly draftOf: (game: string) => Promise<string | null>
   readonly dropDraft: (game: string) => Promise<undefined>
-}
-
-export function pendingFor(rows: readonly Row[], seat: string): readonly PendingAction[] {
-  const held: PendingAction[] = []
-  for (const row of rows) {
-    const id = textIn(row[SLUG])
-    const to = textIn(row[TO])
-    const body = textIn(row[BODY])
-    if (id === null || to === null || body === null) continue
-    if (row[FROM] !== ACTION_BAR_SENDER || slugOf(to) !== seat) continue
-    if (textIn(row[CLAIMED_AT]) !== null) continue
-    const text = body.endsWith(NEWLINE) ? body.slice(0, -NEWLINE.length) : body
-    held.push({ id, text })
-  }
-  return held.sort((one, two) => (one.id < two.id ? -1 : one.id > two.id ? 1 : 0))
 }
 
 async function seatOfGame(gameExternalId: string): Promise<GameSeat> {
@@ -169,15 +135,6 @@ export function gameSeatHeld(seat: string, game: string, held: Row | undefined):
   if (held === undefined) return { kind: "seated", seat, game, person: ACTION_BAR_PLAYER }
   const [person] = stringsIn(held[PERSONS])
   return { kind: "seated", seat, game, person: person === undefined ? null : slugOf(person) }
-}
-
-async function pendingRowsAsked(): Promise<readonly Row[] | { readonly refused: string }> {
-  const asked = await askingFor({
-    pageTypeSlug: MESSAGE_PAGE_TYPE_SLUG,
-    where: { [FROM]: { is: ACTION_BAR_SENDER } },
-    keys: [SLUG, TO, FROM, BODY, CLAIMED_AT],
-  })
-  return "refused" in asked ? asked : asked.rows
 }
 
 async function draftAsked(game: string): Promise<string | null> {
@@ -217,7 +174,6 @@ export function defaultEffects(): ActionBarEffects {
     seatOf: (gameExternalId) => seatOfGame(gameExternalId),
     write: (stated) => writeMessage(stated, throughTheForwarder),
     make: (game, action) => turnMadeFor(game, action),
-    pendingRows: () => pendingRowsAsked(),
     draftOf: draftAsked,
     dropDraft: draftDropped,
   }
@@ -353,7 +309,7 @@ async function draftSent(effects: ActionBarEffects, game: string): Promise<undef
   return undefined
 }
 
-export async function answerPendingActions(
+export async function answerActionDraft(
   request: Request,
   effects: ActionBarEffects = defaultEffects()
 ): Promise<Response> {
@@ -368,9 +324,6 @@ export async function answerPendingActions(
   if (game === null) return answer({ ok: false, error: NO_GAME_NAMED }, 400)
   const gate = await gateFor(effects, request, game, answer)
   if (!gate.ok) return gate.answered
-  const rows = await effects.pendingRows()
-  if ("refused" in rows) return answer({ ok: false, error: NOT_LISTENING }, 503)
-  const pending = pendingFor(rows, gate.seat)
   const draft = await effects.draftOf(gate.game).catch(() => null)
-  return answer(draft === null ? { ok: true, pending } : { ok: true, pending, draft }, 200)
+  return answer(draft === null ? { ok: true } : { ok: true, draft }, 200)
 }

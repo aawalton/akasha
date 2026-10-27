@@ -18,12 +18,12 @@ import {
   requestNotificationPermission,
 } from "akasha/story/ui/modules/alert-notification/alert-notification.module.code.ts"
 import {
-  readWaiting,
+  readDraft,
   sendAction,
 } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import {
+  type ActionShown,
   armedAfterTyping,
-  awaitsTurn,
   draftFilled,
   type Echo,
   echoDropped,
@@ -31,7 +31,6 @@ import {
   echoesShown,
   echoOf,
   echoWritten,
-  type PendingAction,
   sendingFor,
   type TurnAwaited,
   turnAwaited,
@@ -120,7 +119,6 @@ export function ActionBar({
   onRead?: () => void
 }) {
   const userId = useUserId()
-  const [pending, setPending] = useState<readonly PendingAction[]>([])
   const [echoes, setEchoes] = useState<readonly Echo[]>([])
   const [text, setText] = useState("")
   const lineNow = useRef(text)
@@ -154,11 +152,10 @@ export function ActionBar({
   const refresh = useCallback(async () => {
     if (gameExternalId === null) return
     const askedAt = Date.now()
-    const read = await readWaiting(gameExternalId)
+    const read = await readDraft(gameExternalId)
     if (read === null) return
     lastAskedAt.current = askedAt
-    setPending(read.pending)
-    settle(awaitsTurn(read.pending), askedAt)
+    settle(false, askedAt)
     const filled = draftFilled(lineNow.current, read.draft, drafted.current)
     drafted.current = filled.filled
     if (filled.text !== null) setText(filled.text)
@@ -204,7 +201,7 @@ export function ActionBar({
     sentBy.current = null
     const boxLength = formAt.current?.querySelector("textarea")?.value.length ?? null
     if (sending) return
-    const next = sendingFor(text, pending, echoes, armed)
+    const next = sendingFor(text, listed, echoes, armed)
     if (next === "none") return
     const typed = text.trim()
     if (gameExternalId === null) {
@@ -245,9 +242,7 @@ export function ActionBar({
     })
     if (sent.ok) {
       setEchoes((held) => echoWritten(held, key, sent.id, Date.now()))
-      if (awaitsTurn([echo])) {
-        awaited.current = turnAwaited(awaited.current, turns.current, Date.now(), true)
-      }
+      awaited.current = turnAwaited(awaited.current, turns.current, Date.now(), true)
       void refresh()
     } else {
       setEchoes((held) => echoDropped(held, key))
@@ -258,8 +253,8 @@ export function ActionBar({
     setSending(false)
   }
 
-  const listed: readonly PendingAction[] =
-    making === null ? pending : [...pending, { id: making.slug, text: making.action }]
+  const listed: readonly ActionShown[] =
+    making === null ? [] : [{ id: making.slug, text: making.action }]
   const shown = echoesShown(echoes, listed)
   const anyWaiting = listed.length + shown.length > 0
 

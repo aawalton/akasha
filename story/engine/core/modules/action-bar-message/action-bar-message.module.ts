@@ -10,13 +10,17 @@ export const actionBarMessage = {
   decisions: [
     {
       decisionKind: "decision-kind/stopgap",
-      statement: "The action bar is played by Alan alone, and sends under a name made from his.",
+      statement: "The action bar is played by Alan alone.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The chat sends under a name of its own, made from his as well.",
+      statement: "The chat sends under a name of its own, made from his.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The action bar has no name to send under, since it sends no message.",
     },
   ],
   createdAt: "2026-09-01T05:29:46.050Z",
-  updatedAt: "2026-10-27T19:27:24.244Z",
+  updatedAt: "2026-10-27T22:10:37.219Z",
 } as const satisfies Module

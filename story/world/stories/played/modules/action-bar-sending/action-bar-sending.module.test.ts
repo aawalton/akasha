@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   ACTION_BAR_AT,
   type Fetching,
-  readWaiting,
+  readDraft,
   sendAction,
 } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import { z } from "zod"
@@ -62,30 +62,18 @@ test("a send that throws says the game did not respond", async () => {
   })
 })
 
-test("the actions waiting are read for the game named", async () => {
-  const { asked, fetching } = answering(200, {
-    ok: true,
-    pending: [
-      { id: "agent-message-1", text: "[note]" },
-      { id: "agent-message-2", text: 7 },
-    ],
-  })
-  expect(await readWaiting("the game", fetching)).toEqual({
-    pending: [{ id: "agent-message-1", text: "[note]" }],
-    draft: null,
-  })
+test("the action draft is read for the game named", async () => {
+  const { asked, fetching } = answering(200, { ok: true, draft: "I open the gate" })
+  expect(await readDraft("the game", fetching)).toEqual({ draft: "I open the gate" })
   expect(asked[0]?.input).toBe(`${ACTION_BAR_AT}?game=the%20game`)
 })
 
-test("the action draft is read with the actions waiting", async () => {
-  const { fetching } = answering(200, { ok: true, pending: [], draft: "I open the gate" })
-  expect(await readWaiting("the-game", fetching)).toEqual({
-    pending: [],
-    draft: "I open the gate",
-  })
+test("a game holding no draft reads as no draft", async () => {
+  const { fetching } = answering(200, { ok: true })
+  expect(await readDraft("the-game", fetching)).toEqual({ draft: null })
 })
 
-test("a refused read of the actions waiting reads as nothing known", async () => {
+test("a refused read of the draft reads as nothing known", async () => {
   const { fetching } = answering(403, { ok: false, error: "no" })
-  expect(await readWaiting("the-game", fetching)).toBeNull()
+  expect(await readDraft("the-game", fetching)).toBeNull()
 })

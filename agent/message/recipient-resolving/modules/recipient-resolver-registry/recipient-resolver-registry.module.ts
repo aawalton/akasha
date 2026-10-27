@@ -14,15 +14,19 @@ export const recipientResolverRegistry = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game master seat is started by its game's action bar and its world builder.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Only a played story's game master is started by the action bar.",
+      statement: "A game master seat is started by its world builder.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A played story's game master is started by a message Alan says in its chat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a played story's game master is started by the chat.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No seat is started by the action bar, since the action bar sends no message.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -99,5 +103,5 @@ export const recipientResolverRegistry = {
     },
   ],
   createdAt: "2026-09-03T04:18:48.798Z",
-  updatedAt: "2026-10-27T19:21:46.037Z",
+  updatedAt: "2026-10-27T22:10:37.219Z",
 } as const satisfies Module

@@ -38,6 +38,7 @@
 {"propertySlug":"decision-kind","path":"agent/message/modules/file/agent-message-file.module.ts","id":"01a06a00-69c9-7000-9e16-a5778d6ad576"}
 {"propertySlug":"decision-kind","path":"agent/message/modules/sending/agent-message-sending.module.ts","id":"01a0c9b0-1b46-73d4-af37-b0116218a5cf"}
 {"propertySlug":"decision-kind","path":"agent/message/recipient-resolving/modules/person-handlers/person-handlers.module.ts","id":"01a0691b-4f64-73b2-8015-87e24cab720b"}
+{"propertySlug":"decision-kind","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.ts","id":"01a0657d-a75e-7003-ad87-1205dd4ec929"}
 {"propertySlug":"decision-kind","path":"agent/message/recipient-resolving/modules/recipient-resolver-revive/recipient-resolver-revive.module.ts","id":"01a0657d-a75e-7004-be2b-c82d305902a9"}
 {"propertySlug":"decision-kind","path":"agent/message/recipient-resolving/modules/seat-identity/seat-identity.module.ts","id":"01a0691b-4f64-74ee-829a-1886f2b0a5e5"}
 {"propertySlug":"decision-kind","path":"agent/message/recipient-resolving/modules/wake-comms-input/wake-comms-input.module.ts","id":"01a0691b-4f64-7b71-ba64-5c92023f77fe"}
@@ -548,6 +549,7 @@
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/modules/lifting/lifting.computed-property-module.ts","id":"01a0c430-b805-7a8b-9fe8-22a00d76e851"}
 {"propertySlug":"decision-kind","path":"alan/value/learn/mathematics/proposition/proposition.page-type.ts","id":"01a06575-c2ab-7655-98f1-b3163771f0dc"}
 {"propertySlug":"decision-kind","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.ts","id":"01a0d487-4384-79e4-9941-54854ae13d0b"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-route-guard/alan-route-guard.module.ts","id":"01a0c129-30bb-7f20-8811-37cb885fa99e"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.ts","id":"01a0c119-72b0-74f5-b872-e3b9944a812a"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/nav-reach/nav-reach.module.ts","id":"01a16fdf-ea8f-714a-af00-6990b8af7c41"}
@@ -1879,6 +1881,7 @@
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/report/narration-report.module.ts","id":"01a113fa-3d0d-7449-b997-fe9546f82d11"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/sounds/narration-sounds.module.ts","id":"01a11cea-1332-7817-9b4d-a4c43716a0cd"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/narration.domain.ts","id":"01a10dba-92d8-79bd-b65d-435b1af749d5"}
+{"propertySlug":"decision-kind","path":"story/engine/core/modules/action-bar-message/action-bar-message.module.ts","id":"01a05b71-e542-79f6-8369-4b9b67355af8"}
 {"propertySlug":"decision-kind","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}
 {"propertySlug":"decision-kind","path":"story/engine/modules/phase-timing/phase-timing.module.ts","id":"01a0e945-5def-7027-9139-7923bd22c6e4"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}

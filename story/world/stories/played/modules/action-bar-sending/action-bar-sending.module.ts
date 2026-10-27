@@ -4,7 +4,7 @@ export const actionBarSending = {
   id: "01a0d48a-8a47-745b-8d92-693cc1ecc076",
   type: "page-type/module",
   slug: "action-bar-sending",
-  definition: "an action a game's action bar sends, and the actions it reads back as waiting",
+  definition: "an action a game's action bar sends, and the action draft it reads back",
   code: "ts",
   test: "ts",
   decisions: [
@@ -22,13 +22,9 @@ export const actionBarSending = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A read of the actions waiting that fails reads as nothing known.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The game's action draft is read with the actions waiting.",
+      statement: "A read of the action draft that fails reads as nothing known.",
     },
   ],
   createdAt: "2026-09-24T17:50:44.295Z",
-  updatedAt: "2026-09-29T03:38:59.000Z",
+  updatedAt: "2026-10-27T22:10:37.219Z",
 } as const satisfies Module

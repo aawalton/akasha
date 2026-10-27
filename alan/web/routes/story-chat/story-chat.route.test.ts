@@ -42,7 +42,6 @@ function effectsWith(over: Partial<ChatEffects> = {}) {
     make: async () => {
       throw new Error("a chat makes no turn")
     },
-    pendingRows: async () => [],
     draftOf: async () => null,
     dropDraft: async () => undefined,
     append: async (_game, line): Promise<Appended> => {

@@ -6,7 +6,7 @@ import type {
   FirstStart,
   OnDemandAgentSpec,
 } from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
-import { ACTION_BAR_SENDER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import { CHAT_SENDER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 
 const SEAT = "mari-game-master-the-dating-game"
 
@@ -17,15 +17,15 @@ const START: FirstStart = {
   principal: "alan",
 }
 
-const FROM_THE_BAR: CommsInput = { sender: `agent:${ACTION_BAR_SENDER}`, content: "I say hello" }
+const FROM_THE_CHAT: CommsInput = { sender: `agent:${CHAT_SENDER}`, content: "how far to dawn?" }
 
 function specWith(firstStart: FirstStart | null): OnDemandAgentSpec {
   const spec: OnDemandAgentSpec = {
     name: SEAT,
     wakeSources: [
       {
-        id: `${SEAT}-action-bar`,
-        senderMatch: `agent:${ACTION_BAR_SENDER}`,
+        id: `${SEAT}-chat`,
+        senderMatch: `agent:${CHAT_SENDER}`,
         contentRegex: undefined,
         target: SEAT,
         status: "LIVE",
@@ -44,7 +44,7 @@ function ranWith(spec: OnDemandAgentSpec, over: Partial<RecipientResolverTickDep
   const deps: RecipientResolverTickDeps = {
     specs: [spec],
     resolveAgent: async () => null,
-    readInboundTo: async () => [FROM_THE_BAR],
+    readInboundTo: async () => [FROM_THE_CHAT],
     startFirst: async (name, as) => {
       started.push({ name, as })
     },
@@ -60,7 +60,7 @@ function ranWith(spec: OnDemandAgentSpec, over: Partial<RecipientResolverTickDep
   return { deps, started, revived }
 }
 
-test("a game master that never ran is started as its spec says when an action waits for it", async () => {
+test("a game master that never ran is started as its spec says when a message waits for it", async () => {
   const { deps, started, revived } = ranWith(specWith(START))
   await runRecipientResolverTick(deps)
   expect(started).toEqual([{ name: SEAT, as: START }])
@@ -96,7 +96,7 @@ test("a seat whose page went is revived for what waits under its name", async ()
     resolveAgent: async () => ({ id: "agent-one" }),
     readInboundTo: async (name) => {
       asked.push(name)
-      return [FROM_THE_BAR]
+      return [FROM_THE_CHAT]
     },
   })
   await runRecipientResolverTick(deps)

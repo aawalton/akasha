@@ -4,17 +4,17 @@ export const actionBar = {
   id: "01a0d48b-8f76-7e2b-9030-a05bc2c03057",
   type: "page-type/module",
   slug: "action-bar",
-  definition: "the line a player types an action into and sends a game, over the actions waiting",
+  definition: "the line a player types an action into and sends a game, over the turn being made",
   code: "tsx",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The actions waiting are drawn grey and italic above the line.",
+      statement:
+        "The turn being made and the actions just sent are drawn grey and italic above the line.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The actions waiting are asked for every five seconds while a player is signed in.",
+      statement: "The action draft is asked for every five seconds while a player is signed in.",
     },
 
     {
@@ -90,9 +90,9 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The line says when its first read of the actions waiting has come back.",
+      statement: "The line says when its first read of the action draft has come back.",
     },
   ],
   createdAt: "2026-09-24T17:51:51.158Z",
-  updatedAt: "2026-10-27T20:59:58.311Z",
+  updatedAt: "2026-10-27T22:10:37.219Z",
 } as const satisfies Module

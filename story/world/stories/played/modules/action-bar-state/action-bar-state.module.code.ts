@@ -1,4 +1,4 @@
-export type PendingAction = {
+export type ActionShown = {
   readonly id: string
   readonly text: string
 }
@@ -15,10 +15,6 @@ type Sending = "none" | "arm" | "send"
 export type TurnAwaited = { readonly turnsAt: number; readonly at: number } | null
 
 export const TURN_AWAITED_MS = 600_000
-
-export function awaitsTurn(sent: readonly unknown[]): boolean {
-  return sent.length > 0
-}
 
 export function turnAwaited(
   awaited: TurnAwaited,
@@ -59,21 +55,21 @@ export function echoesSettled(
 
 export function echoesShown(
   echoes: readonly Echo[],
-  pending: readonly PendingAction[]
+  listed: readonly ActionShown[]
 ): readonly Echo[] {
-  return echoes.filter((echo) => echo.id === null || !pending.some((one) => one.id === echo.id))
+  return echoes.filter((echo) => echo.id === null || !listed.some((one) => one.id === echo.id))
 }
 
 export function sendingFor(
   typed: string,
-  pending: readonly PendingAction[],
+  listed: readonly ActionShown[],
   echoes: readonly Echo[],
   armed: string | null
 ): Sending {
   const text = typed.trim()
   if (text === "") return "none"
   const already =
-    pending.some((one) => one.text === text) || echoes.some((echo) => echo.text === text)
+    listed.some((one) => one.text === text) || echoes.some((echo) => echo.text === text)
   return already && armed !== text ? "arm" : "send"
 }
 

@@ -2,7 +2,6 @@ import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.cod
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import type { SendCause } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import type { PlayerActionInput } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
-import type { PendingAction } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
 
 export const ACTION_BAR_AT = "/api/action-bar"
 
@@ -58,35 +57,18 @@ export async function sendAction(input: ActionSent, fetching: Fetching = apiFetc
   }
 }
 
-function pendingIn(held: unknown): readonly PendingAction[] | null {
-  if (!Array.isArray(held)) return null
-  const found: PendingAction[] = []
-  for (const one of held) {
-    if (typeof one !== "object" || one === null) continue
-    const said = one as Readonly<Record<string, unknown>>
-    const id = textIn(said["id"])
-    const text = textIn(said["text"])
-    if (id !== null && text !== null) found.push({ id, text })
-  }
-  return found
-}
+type Drafted = { readonly draft: string | null }
 
-type Waiting = {
-  readonly pending: readonly PendingAction[]
-  readonly draft: string | null
-}
-
-export async function readWaiting(
+export async function readDraft(
   gameExternalId: string,
   fetching: Fetching = apiFetch
-): Promise<Waiting | null> {
+): Promise<Drafted | null> {
   try {
     const answered = await fetching(`${ACTION_BAR_AT}?game=${encodeURIComponent(gameExternalId)}`)
     if (!answered.ok) return null
     const body = await bodyOf(answered)
     if (body === null || body["ok"] !== true) return null
-    const pending = pendingIn(body["pending"])
-    return pending === null ? null : { pending, draft: textIn(body["draft"]) }
+    return { draft: textIn(body["draft"]) }
   } catch {
     return null
   }

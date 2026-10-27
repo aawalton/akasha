@@ -12,7 +12,6 @@ import { handlerSeatName } from "akasha/agent/seat/name/modules/compose-seat-nam
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   ACTION_BAR_PLAYER,
-  ACTION_BAR_SENDER,
   CHAT_SENDER,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import {
@@ -70,7 +69,7 @@ test("each reviewer and recorder seat of a game has a spec, started again by its
     expect(heard(seat, `agent:${JOB_SENDER}`)).toBe(true)
     expect(heard(seat, `agent:${MASTER}`)).toBe(true)
     expect(heard(seat, `agent:${STEP_SENDER}`)).toBe(false)
-    expect(heard(seat, `agent:${ACTION_BAR_SENDER}`)).toBe(false)
+    expect(heard(seat, `agent:${CHAT_SENDER}`)).toBe(false)
   }
 })
 
@@ -83,8 +82,8 @@ test("a reviewer or recorder seat that never ran is started by its job's advance
   ])
 })
 
-test("the game master seat is started by the action bar and by its world builder", () => {
-  expect(heard(MASTER, `agent:${ACTION_BAR_SENDER}`)).toBe(true)
+test("the game master seat is started by its world builder, and by no name the action bar had", () => {
+  expect(heard(MASTER, "agent:alan-action-bar")).toBe(false)
   expect(heard(MASTER, `agent:${BUILDER}`)).toBe(true)
   expect(heard(MASTER, "agent:someone-else")).toBe(false)
 })
@@ -95,9 +94,9 @@ test("a played story's game master is started by a chat message, and no other se
   expect(heard(WRITER, `agent:${CHAT_SENDER}`)).toBe(false)
 })
 
-test("the world builder seat is started by its game master, and never by the action bar", () => {
+test("the world builder seat is started by its game master, and never by the chat", () => {
   expect(heard(BUILDER, `agent:${MASTER}`)).toBe(true)
-  expect(heard(BUILDER, `agent:${ACTION_BAR_SENDER}`)).toBe(false)
+  expect(heard(BUILDER, `agent:${CHAT_SENDER}`)).toBe(false)
 })
 
 test("every game seat is started by a notice that a turn moved", () => {
@@ -106,8 +105,8 @@ test("every game seat is started by a notice that a turn moved", () => {
   expect(heard(WRITER, `agent:${STEP_SENDER}`)).toBe(true)
 })
 
-test("the writer seat is started by a notice alone, never by the action bar or the game master", () => {
-  expect(heard(WRITER, `agent:${ACTION_BAR_SENDER}`)).toBe(false)
+test("the writer seat is started by a notice alone, never by the chat or the game master", () => {
+  expect(heard(WRITER, `agent:${CHAT_SENDER}`)).toBe(false)
   expect(heard(WRITER, `agent:${MASTER}`)).toBe(false)
 })
 
@@ -200,11 +199,11 @@ test("a roleplay seat that never ran starts headless as its persona, narrating i
   expect(start?.prompt).toContain("as a message")
   const hears = (sender: string) =>
     specs[0]?.wakeSources.some((rule) => ruleMatches(rule, { sender, content: "" })) ?? false
-  expect(hears(`agent:${ACTION_BAR_SENDER}`)).toBe(true)
+  expect(hears(`agent:${CHAT_SENDER}`)).toBe(true)
   expect(hears(`agent:${STEP_SENDER}`)).toBe(true)
 })
 
-test("a written story's game master is started by a notice, never by the action bar", () => {
+test("a written story's game master is started by a notice, never by the chat", () => {
   const master = "mari-game-master-a-book"
   const [spec] = gameSeatSpecs([
     { game: "a-book", master, persona: "mari", builder: null, writer: null, played: false },
@@ -212,5 +211,5 @@ test("a written story's game master is started by a notice, never by the action 
   const hears = (sender: string) =>
     spec?.wakeSources.some((rule) => ruleMatches(rule, { sender, content: "" })) ?? false
   expect(hears(`agent:${STEP_SENDER}`)).toBe(true)
-  expect(hears(`agent:${ACTION_BAR_SENDER}`)).toBe(false)
+  expect(hears(`agent:${CHAT_SENDER}`)).toBe(false)
 })

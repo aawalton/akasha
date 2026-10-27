@@ -77,15 +77,11 @@ export const actionBarAnswering = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An action still waiting is a message from the action bar to that seat which no one has claimed.",
+        "A read of the action bar is answered with the game's action draft, where it has one.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The actions waiting are read from the page forwarder, which sees a claim.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The actions waiting are answered with the game's action draft, where it has one.",
+      decisionKind: "decision-kind/absence",
+      statement: "No message is sent from the action bar, so no action waits as a message.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -97,5 +93,5 @@ export const actionBarAnswering = {
     },
   ],
   createdAt: "2026-09-24T17:47:09.572Z",
-  updatedAt: "2026-10-27T20:59:58.311Z",
+  updatedAt: "2026-10-27T22:10:37.219Z",
 } as const satisfies Module

@@ -2,22 +2,18 @@ import { expect, test } from "bun:test"
 import {
   type ActionBarEffects,
   answerActionBar,
-  answerPendingActions,
+  answerActionDraft,
   gameSeatHeld,
-  pendingFor,
   type Stated,
 } from "akasha/alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts"
-import {
-  ACTION_BAR_PLAYER,
-  ACTION_BAR_SENDER,
-} from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import { ACTION_BAR_PLAYER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { STEP_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const SEAT = "gm-seat"
 
 const GAME = "the-game"
 
-const WAITING_URL = `https://alanwalton.com/api/action-bar?game=${GAME}`
+const DRAFT_URL = `https://alanwalton.com/api/action-bar?game=${GAME}`
 
 function asked(body: unknown, method = "POST", url = "https://alanwalton.com/api/action-bar") {
   if (method === "GET") return new Request(url, { method })
@@ -52,7 +48,6 @@ function effectsWith(over: Partial<ActionBarEffects> = {}) {
       made.push(`${game}: ${action}`)
       return { kind: "made", slug: "the-game-00-003", at: MADE_AT, roleplayed: false }
     },
-    pendingRows: async () => [],
     draftOf: async () => null,
     dropDraft: async (game) => {
       dropped.push(game)
@@ -65,10 +60,15 @@ function effectsWith(over: Partial<ActionBarEffects> = {}) {
 
 const DRAFTED = { draftOf: async () => "I open the gate" }
 
-test("the actions waiting are answered with the action draft a take-back left", async () => {
+test("a read of the action bar is answered with the action draft a take-back left", async () => {
   const { effects } = effectsWith(DRAFTED)
-  const answered = await answerPendingActions(asked(null, "GET", WAITING_URL), effects)
-  expect(await answered.json()).toEqual({ ok: true, pending: [], draft: "I open the gate" })
+  const answered = await answerActionDraft(asked(null, "GET", DRAFT_URL), effects)
+  expect(await answered.json()).toEqual({ ok: true, draft: "I open the gate" })
+})
+
+test("a read of the action bar with no draft is answered with nothing more", async () => {
+  const answered = await answerActionDraft(asked(null, "GET", DRAFT_URL), effectsWith().effects)
+  expect(await answered.json()).toEqual({ ok: true })
 })
 
 test("an action sent takes the action draft off, bracketed or not", async () => {
@@ -229,42 +229,8 @@ test("a line wrapped whole in brackets makes a turn rather than a message to the
   expect(written.every((one) => one.from === STEP_SENDER)).toBe(true)
 })
 
-test("the actions waiting are answered to the player", async () => {
-  const { effects } = effectsWith({
-    pendingRows: async () => [
-      { slug: "agent-message-2", to: `seat/${SEAT}`, from: ACTION_BAR_SENDER, body: "[note]\n" },
-    ],
-  })
-  const answered = await answerPendingActions(asked(null, "GET", WAITING_URL), effects)
-  expect(answered.status).toBe(200)
-  expect(await answered.json()).toEqual({
-    ok: true,
-    pending: [{ id: "agent-message-2", text: "[note]" }],
-  })
-})
-
-test("the actions waiting are refused to a caller who is not signed in", async () => {
+test("a read of the action bar is refused to a caller who is not signed in", async () => {
   const { effects } = effectsWith({ signedIn: async () => null })
-  const answered = await answerPendingActions(asked(null, "GET", WAITING_URL), effects)
+  const answered = await answerActionDraft(asked(null, "GET", DRAFT_URL), effects)
   expect(answered.status).toBe(401)
-})
-
-test("an action waiting is one from the action bar to that seat nobody has taken", () => {
-  const rows = [
-    { slug: "agent-message-3", to: `seat/${SEAT}`, from: ACTION_BAR_SENDER, body: "I run\n" },
-    { slug: "agent-message-1", to: SEAT, from: ACTION_BAR_SENDER, body: "I look\n" },
-    {
-      slug: "agent-message-2",
-      to: SEAT,
-      from: ACTION_BAR_SENDER,
-      body: "I hide\n",
-      claimedAt: "2026-09-24T12:00:00.000Z",
-    },
-    { slug: "agent-message-4", to: "another-seat", from: ACTION_BAR_SENDER, body: "I sing\n" },
-    { slug: "agent-message-5", to: SEAT, from: "telnyx-sms", body: "a text\n" },
-  ]
-  expect(pendingFor(rows, SEAT)).toEqual([
-    { id: "agent-message-1", text: "I look" },
-    { id: "agent-message-3", text: "I run" },
-  ])
 })
