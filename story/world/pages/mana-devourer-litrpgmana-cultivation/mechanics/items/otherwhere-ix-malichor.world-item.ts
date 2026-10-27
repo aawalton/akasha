@@ -7,6 +7,7 @@ export const otherwhereIxMalichor = {
   title: "Malichor",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A silvery living metal that glows in the dark.",
+  category: "material",
   createdAt: "2026-09-28T23:01:09.168Z",
-  updatedAt: "2026-09-28T23:01:14.000Z",
+  updatedAt: "2026-10-27T18:59:43.093Z",
 } as const satisfies WorldItem

@@ -9,6 +9,7 @@ export const theTowerCounterweightColossusStoneAndIronArm = {
   character: "character-other/the-tower-counterweight-colossus-01",
   slot: "item-slot/main-hand",
   description: "An arm of fused stone and iron that comes down like a hammer.",
+  category: "weapon",
   createdAt: "2026-09-24T14:27:41.172Z",
-  updatedAt: "2026-09-26T17:47:23.000Z",
+  updatedAt: "2026-10-27T18:59:43.093Z",
 } as const satisfies StoryItem

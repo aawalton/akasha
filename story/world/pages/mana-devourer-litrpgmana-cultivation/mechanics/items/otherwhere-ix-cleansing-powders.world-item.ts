@@ -7,6 +7,7 @@ export const otherwhereIxCleansingPowders = {
   title: "Cleansing Powders",
   world: "world/mana-devourer-litrpgmana-cultivation",
   description: "A washing powder packed in small paper bags.",
+  category: "consumable",
   createdAt: "2026-09-28T23:01:46.294Z",
-  updatedAt: "2026-09-28T23:01:50.000Z",
+  updatedAt: "2026-10-27T18:59:43.093Z",
 } as const satisfies WorldItem

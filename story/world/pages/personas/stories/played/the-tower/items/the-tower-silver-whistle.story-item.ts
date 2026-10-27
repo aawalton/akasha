@@ -8,6 +8,7 @@ export const theTowerSilverWhistle = {
   story: "story-played/the-tower",
   place: "place/the-tower-gallery-alcove",
   description: "A silver whistle that sounds a single piercing note.",
+  category: "tool",
   createdAt: "2026-09-24T16:33:07.748Z",
-  updatedAt: "2026-09-26T17:47:23.000Z",
+  updatedAt: "2026-10-27T18:59:43.093Z",
 } as const satisfies StoryItem

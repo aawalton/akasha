@@ -9,6 +9,7 @@ export const theTowerTheWelcomersPair01RakingClaws = {
   character: "character-other/the-tower-the-welcomers-pair-01",
   slot: "item-slot/main-hand",
   description: "Claws that rake across the ribs in the half-beat between two hunters' passes.",
+  category: "weapon",
   createdAt: "2026-09-24T14:28:15.240Z",
-  updatedAt: "2026-09-26T17:47:23.000Z",
+  updatedAt: "2026-10-27T18:59:43.093Z",
 } as const satisfies StoryItem

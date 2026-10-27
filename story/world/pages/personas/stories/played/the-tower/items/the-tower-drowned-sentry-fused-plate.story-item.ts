@@ -10,6 +10,7 @@ export const theTowerDrownedSentryFusedPlate = {
   slot: "item-slot/chest",
   description:
     "Old plate rusted fused at every joint, open only at a seam of rotted leather and rings behind the neck.",
+  category: "armor",
   createdAt: "2026-09-24T14:27:44.453Z",
-  updatedAt: "2026-09-26T17:47:23.000Z",
+  updatedAt: "2026-10-27T18:59:43.093Z",
 } as const satisfies StoryItem

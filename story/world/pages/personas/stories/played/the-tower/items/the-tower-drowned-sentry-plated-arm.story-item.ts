@@ -9,6 +9,7 @@ export const theTowerDrownedSentryPlatedArm = {
   character: "character-other/the-tower-drowned-sentry-01",
   slot: "item-slot/main-hand",
   description: "A plated arm that beats down slow and heavy as a hammer.",
+  category: "weapon",
   createdAt: "2026-09-24T14:27:47.508Z",
-  updatedAt: "2026-09-26T17:47:23.000Z",
+  updatedAt: "2026-10-27T18:59:43.093Z",
 } as const satisfies StoryItem

@@ -9,6 +9,7 @@ export const theTowerWindingDrumCore = {
   character: "character-player/the-tower-alan",
   essence: "tower-element/the-tower-force",
   description: "A dense coil of tension-wound iron, humming faintly with a stored force.",
+  category: "material",
   createdAt: "2026-09-22T18:13:47.499Z",
-  updatedAt: "2026-09-26T17:47:23.000Z",
+  updatedAt: "2026-10-27T18:59:43.093Z",
 } as const satisfies StoryItem

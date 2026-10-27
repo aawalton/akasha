@@ -9,6 +9,7 @@ export const theTowerTheWelcomer01RakingClaws = {
   character: "character-other/the-tower-the-welcomer-01",
   slot: "item-slot/main-hand",
   description: "Claws that rake from behind, on a lean cold shape that lunges from arm's reach.",
+  category: "weapon",
   createdAt: "2026-09-24T14:28:12.061Z",
-  updatedAt: "2026-09-26T17:47:23.000Z",
+  updatedAt: "2026-10-27T18:59:43.093Z",
 } as const satisfies StoryItem

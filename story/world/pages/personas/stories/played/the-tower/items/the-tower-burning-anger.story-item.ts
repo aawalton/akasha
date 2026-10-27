@@ -10,6 +10,7 @@ export const theTowerBurningAnger = {
   slot: "item-slot/main-hand",
   description:
     "A twin-headed maul of ember-bound iron, a living core clad in its head, a chain at the free end.",
+  category: "weapon",
   createdAt: "2026-09-22T18:08:11.576Z",
-  updatedAt: "2026-09-26T17:47:23.000Z",
+  updatedAt: "2026-10-27T18:59:43.093Z",
 } as const satisfies StoryItem
