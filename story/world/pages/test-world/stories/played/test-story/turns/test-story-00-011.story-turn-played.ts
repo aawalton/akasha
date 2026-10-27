@@ -10,5 +10,6 @@ export const testStory00011 = {
   stepStatus: "step-status/game-master",
   action: "For each of the next 5 days I drill swordplay in the hall, from morning to evening.",
   createdAt: "2026-10-27T23:23:51.683Z",
-  updatedAt: "2026-10-27T23:24:11.312Z",
+  updatedAt: "2026-10-27T23:24:57.276Z",
+  endsAt: "2026-11-08T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
