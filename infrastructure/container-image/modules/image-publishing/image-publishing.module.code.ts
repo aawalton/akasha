@@ -101,6 +101,12 @@ export function contextArgv(context: string, ref: string): readonly string[] {
   ]
 }
 
+const SOURCE_ARG = "SOURCE_HASH"
+
+function tagIn(ref: string): string {
+  return ref.slice(ref.lastIndexOf(":") + 1)
+}
+
 export function buildArgv(
   at: string,
   build: ImageNamed,
@@ -121,6 +127,8 @@ export function buildArgv(
     `dockerfile=${at}`,
     "--opt",
     `filename=${DOCKERFILE}`,
+    "--opt",
+    `build-arg:${SOURCE_ARG}=${tagIn(ref)}`,
     "--export-cache",
     `type=registry,ref=${cache},mode=min,compression=zstd,${INSECURE}`,
     "--import-cache",

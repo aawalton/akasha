@@ -28,6 +28,10 @@ test("the cache is kept beside the image rather than under a tag a pull would ta
   for (const one of cached) expect(one).toContain("infra/auth-proxy:buildcache")
 })
 
+test("the build is handed the source hash its image is tagged with", () => {
+  expect(ARGV).toContain("build-arg:SOURCE_HASH=abc")
+})
+
 test("the folder the build is handed is the one the image names", () => {
   expect(ARGV.some((one) => one.startsWith("context=/"))).toBe(true)
 })

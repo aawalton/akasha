@@ -26,6 +26,10 @@ export const imagePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build is handed the source hash its image is tagged with, as `SOURCE_HASH`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A build handed a folder takes its context and its Dockerfile from that folder.",
     },
     {
@@ -43,5 +47,5 @@ export const imagePublishing = {
     },
   ],
   createdAt: "2026-09-10T23:25:58.308Z",
-  updatedAt: "2026-09-19T02:44:02.000Z",
+  updatedAt: "2026-10-27T08:51:20.407Z",
 } as const satisfies Module
