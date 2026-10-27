@@ -296,7 +296,9 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/clone-remove/story-clone-remove.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/clone/story-clone.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/modules/cloning/story-cloning.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/modules/settle-character/settle-character.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}

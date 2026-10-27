@@ -1,7 +1,9 @@
 {"propertySlug":"argument","path":"command/pages/change/apply/change-apply.command.ts","id":"01a08179-6ebf-724c-8698-aa6e02645d0e"}
+{"propertySlug":"argument","path":"command/pages/story/clone-remove/story-clone-remove.command.ts","id":"01a17f3c-ea6c-7210-850f-82ad76e4702e"}
 {"propertySlug":"argument","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"argument","path":"command/pages/story/tell/story-tell.command.ts","id":"01a0def0-8330-79a7-a268-bf9d923a71cc"}
 {"propertySlug":"import","fileName":"draft.argument.ts","path":"command/pages/change/apply/change-apply.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"draft.argument.ts","path":"command/pages/story/clone-remove/story-clone-remove.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"draft.argument.ts","path":"command/pages/story/settle/modules/settle-taking/settle-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"draft.argument.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"draft.argument.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}

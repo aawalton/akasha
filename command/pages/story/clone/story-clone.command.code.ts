@@ -22,9 +22,12 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { storyClone as page } from "akasha/command/pages/story/clone/story-clone.command.ts"
 import {
+  addressOf,
   type Copy,
   cloneFolderOf,
+  committedUnder,
   copied,
   copiesOf,
   folderOf,
@@ -32,11 +35,10 @@ import {
   isCode,
   latestOf,
   masterOf,
+  referrersOf,
   slugsRenamed,
   TEST_WORLD,
-} from "akasha/command/pages/story/clone/modules/story-cloning/story-cloning.module.code.ts"
-import { storyClone as page } from "akasha/command/pages/story/clone/story-clone.command.ts"
-import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
+} from "akasha/command/pages/story/modules/cloning/story-cloning.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -59,19 +61,11 @@ const PAGE_TYPE_FILE = ".page-type.ts"
 
 const PAGE_FILE = ".ts"
 
-const REFERENCED = ".referenced-by.jsonl"
-
 const PARTS = "parts"
-
-const TYPE = "type"
-
-const SLUG = "slug"
 
 const MASTER = "coordinatorAgent"
 
 const ENDS = "endsAt"
-
-const BREAK = "\n"
 
 const TAB = "\t"
 
@@ -91,33 +85,21 @@ export type Reach = {
   readonly partsNaming: (root: string, path: string) => readonly string[]
 }
 
-function committedIndexed(root: string, folder: string): readonly string[] {
-  const said = gitTold(root, ["ls-files", "--", folder])
-  if (said === null) return []
-  return said.split(BREAK).filter((one) => one.trim() !== "")
-}
-
 function textOnDisk(root: string, path: string): string | null {
   const at = join(root, path)
   return existsSync(at) ? readFileSync(at, UTF8) : null
 }
 
 function partsIndexed(root: string, path: string): readonly string[] {
-  const held = textOnDisk(root, `${path.slice(0, -PAGE_FILE.length)}${REFERENCED}`)
-  if (held === null) return []
-  const found: string[] = []
-  for (const line of held.split(BREAK)) {
-    if (line.trim() === "") continue
-    const one = JSON.parse(line) as Record<string, unknown>
-    if (one["propertySlug"] === PARTS && typeof one["path"] === "string") found.push(one["path"])
-  }
-  return found
+  return referrersOf(root, path)
+    .filter((one) => one.propertySlug === PARTS)
+    .map((one) => one.path)
 }
 
 const INDEXED: Reach = {
   storyAt: (root, slug) => listedAt(root, storyPlayed.slug, slug)[0]?.path ?? null,
   there: (root, path) => existsSync(join(root, path)),
-  committedUnder: committedIndexed,
+  committedUnder,
   textOf: textOnDisk,
   valueOf: (root, path) => valueAt(path, root),
   partsNaming: partsIndexed,
@@ -144,13 +126,6 @@ export type Planned = {
   readonly master: string
   readonly opensAt: string | null
   readonly folder: string
-}
-
-function addressOf(value: Value): string | null {
-  const type = textAt(value, TYPE)
-  const slug = textAt(value, SLUG)
-  if (type === null || slug === null) return null
-  return `${type.slice(type.indexOf("/") + 1)}/${slug}`
 }
 
 function rank(at: string): number {

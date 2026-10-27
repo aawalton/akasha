@@ -7,7 +7,6 @@ export const storyClone = {
   definition: "the command cloning a played story of the test world under a new slug",
   code: "ts",
   test: "ts",
-  parts: ["module/story-cloning"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -40,5 +39,5 @@ export const storyClone = {
     { argument: "argument/clone-as", required: true },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-27T21:16:37.415Z",
+  updatedAt: "2026-10-27T21:21:01.035Z",
 } as const satisfies Command

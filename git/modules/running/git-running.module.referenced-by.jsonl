@@ -60,7 +60,7 @@
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/measure/modules/checkout-counting/checkout-counting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/measure/repo/modules/repo-measuring/repo-measuring.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/story/clone/story-clone.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/story/modules/cloning/story-cloning.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/story/modules/settle-seeding/settle-seeding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-described/turn-described.module.code.ts","typed":false,"deferred":false}

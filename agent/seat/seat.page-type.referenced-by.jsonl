@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"command/modules/edits-repointing/edits-repointing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat.page-type.ts","path":"command/pages/story/clone-remove/story-clone-remove.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"page/service/modules/page-listening/page-listening.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"story/lore-disclosure/modules/lore-rereading/lore-rereading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}

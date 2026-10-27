@@ -7,7 +7,7 @@ import {
   latestOf,
   masterOf,
   slugsRenamed,
-} from "akasha/command/pages/story/clone/modules/story-cloning/story-cloning.module.code.ts"
+} from "akasha/command/pages/story/modules/cloning/story-cloning.module.code.ts"
 
 const FOLDER = "story/world/pages/test-world/stories/played/test-story/"
 

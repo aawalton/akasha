@@ -1,3 +1,10 @@
+import { existsSync, readFileSync } from "node:fs"
+import { join } from "node:path"
+import { told } from "akasha/git/modules/running/git-running.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 
 export const TEST_WORLD = "story/world/pages/test-world/"
@@ -34,6 +41,18 @@ const SLUG_LINE = /^ {2}slug: .*,\n/m
 const SPECIAL = /[.*+?^${}()|[\]\\]/g
 
 const GAME_MASTER = "game-master"
+
+const TYPE = "type"
+
+const SLUG = "slug"
+
+const BREAK = "\n"
+
+const PAGE_FILE = ".ts"
+
+const REFERENCED = ".referenced-by.jsonl"
+
+const UTF8 = "utf8"
 
 function escaped(said: string): string {
   return said.replace(SPECIAL, "\\$&")
@@ -135,6 +154,37 @@ export function copiesOf(sources: readonly Source[], cloning: Cloning): readonly
     made.push({ at, body: one.path === storyPath ? storyBody(body, story) : body })
   }
   return made.toSorted((one, two) => (one.at < two.at ? -1 : one.at > two.at ? 1 : 0))
+}
+
+export function committedUnder(root: string, folder: string): readonly string[] {
+  const said = told(root, ["ls-files", "--", folder])
+  if (said === null) return []
+  return said.split(BREAK).filter((one) => one.trim() !== "")
+}
+
+export type Referrer = { readonly propertySlug: string; readonly path: string }
+
+export function referrersOf(root: string, path: string): readonly Referrer[] {
+  const at = join(root, `${path.slice(0, -PAGE_FILE.length)}${REFERENCED}`)
+  if (!existsSync(at)) return []
+  const found: Referrer[] = []
+  for (const line of readFileSync(at, UTF8).split(BREAK)) {
+    if (line.trim() === "") continue
+    const one = JSON.parse(line) as Record<string, unknown>
+    const propertySlug = one["propertySlug"]
+    const from = one["path"]
+    if (typeof propertySlug === "string" && typeof from === "string") {
+      found.push({ propertySlug, path: from })
+    }
+  }
+  return found
+}
+
+export function addressOf(value: Value): string | null {
+  const type = textAt(value, TYPE)
+  const slug = textAt(value, SLUG)
+  if (type === null || slug === null) return null
+  return `${type.slice(type.indexOf("/") + 1)}/${slug}`
 }
 
 export function latestOf(instants: readonly (string | null)[]): string | null {
