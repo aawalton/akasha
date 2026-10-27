@@ -31,10 +31,13 @@ import type {
 } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
   type Shown,
-  shownIn,
   usePanelsHeld,
 } from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
 import { aside } from "akasha/story/ui/played-panel/panel-place/pages/aside.panel-place.ts"
+import { character } from "akasha/story/ui/played-panel/panel-place/pages/character.panel-place.ts"
+import { chat } from "akasha/story/ui/played-panel/panel-place/pages/chat.panel-place.ts"
+import { journal } from "akasha/story/ui/played-panel/panel-place/pages/journal.panel-place.ts"
+import { map } from "akasha/story/ui/played-panel/panel-place/pages/map.panel-place.ts"
 import { panelPlace } from "akasha/story/ui/played-panel/panel-place/panel-place.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { useFirstRead } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
@@ -59,7 +62,9 @@ import {
 } from "akasha/story/world/stories/written/chapters/modules/chapter-beat-reading/chapter-beat-reading.module.code.ts"
 import { type ReactNode, useEffect, useMemo } from "react"
 
-const ASIDE = namedAs(panelPlace.slug, aside.slug, null)
+const BESIDE: ReadonlySet<string> = new Set(
+  [aside, character, journal, map, chat].map((place) => namedAs(panelPlace.slug, place.slug, null))
+)
 
 const NO_PANELS: readonly Shown[] = []
 
@@ -376,7 +381,7 @@ function StoryAside({
   useEffect(() => {
     if (ready) onSettled?.()
   }, [ready, onSettled])
-  const drawn = shownIn(shown, ASIDE)
+  const drawn = shown.filter((one) => BESIDE.has(one.place))
   if (drawn.length === 0) return null
   return <PlayedPanels shown={drawn} envelope={envelope} run={run} />
 }

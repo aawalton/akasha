@@ -58,7 +58,7 @@ export const chapterPanels = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only the panels placed aside are drawn beside a chapter.",
+      statement: "Only the panels a play screen draws in a sidebar are drawn beside a chapter.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -101,5 +101,5 @@ export const chapterPanels = {
     },
   ],
   createdAt: "2026-09-28T20:11:30.895Z",
-  updatedAt: "2026-10-12T13:08:17.936Z",
+  updatedAt: "2026-10-27T18:32:22.350Z",
 } as const satisfies Module
