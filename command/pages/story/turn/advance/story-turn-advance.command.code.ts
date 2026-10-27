@@ -1,4 +1,3 @@
-import { readOwnTranscriptsSince } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { renamePage } from "akasha/change/mechanical/page/rename/rename-page/rename-page.change-mechanical.ts"
 import {
@@ -75,14 +74,12 @@ import {
   type Context,
   seatsStarted,
 } from "akasha/command/pages/story/turn/modules/turn-starting/turn-starting.module.code.ts"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import {
   type Ended,
   madeAtOf,
-  phaseEnded,
+  phaseTimed,
 } from "akasha/story/engine/modules/phase-timing/phase-timing.module.code.ts"
-import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import { advanced } from "akasha/story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts"
 import {
   type Admitted,
@@ -100,7 +97,6 @@ import {
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
-import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const PARTED = "/"
 
@@ -111,21 +107,6 @@ const TITLE = "title"
 const RENAME = `${changeMechanical.slug}${PARTED}${renamePage.slug}` as const
 
 export type Timed = (root: string, ended: Ended, agentId: string | null) => undefined
-
-const TIMED_STORIES = [storyPlayed.slug, storyWritten.slug]
-
-function phaseTimed(root: string, ended: Ended, agentId: string | null): undefined {
-  try {
-    const story = TIMED_STORIES.flatMap((type) => listedAt(root, type, ended.story))[0]
-    if (story === undefined) return undefined
-    const since = (from: number) =>
-      agentId === null ? null : readOwnTranscriptsSince(agentId, from)
-    phaseEnded(root, story.path, ended, since)
-  } catch {
-    return undefined
-  }
-  return undefined
-}
 
 function stepAt(reach: Reach, root: string, read: Taken, slug: string): Turn | null {
   return read.chapter ? (reach.chapterAt?.(root, slug) ?? null) : reach.turnAt(root, slug)

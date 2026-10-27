@@ -1,5 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { readOwnTranscriptsSince } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
 import { recorded } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import {
   type Chosen,
@@ -10,8 +11,13 @@ import {
   secondsAs,
 } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
 import { columnsOf } from "akasha/command/pages/measure/modules/checkout-counting/checkout-counting.module.code.ts"
-import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  listedAt,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { phaseTimings } from "akasha/story/properties/phase-timings.file-property.ts"
+import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
+import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 import { z } from "zod"
 
 const ENTRIES = phaseTimings.propertySlug
@@ -183,6 +189,21 @@ export function phaseEnded(
   }
   for (const one of written) recorded(root, page, `${JSON.stringify(one)}\n`, ENTRIES)
   return written
+}
+
+const TIMED_STORIES = [storyPlayed.slug, storyWritten.slug]
+
+export function phaseTimed(root: string, ended: Ended, agentId: string | null): undefined {
+  try {
+    const story = TIMED_STORIES.flatMap((type) => listedAt(root, type, ended.story))[0]
+    if (story === undefined) return undefined
+    const since = (from: number) =>
+      agentId === null ? null : readOwnTranscriptsSince(agentId, from)
+    phaseEnded(root, story.path, ended, since)
+  } catch {
+    return undefined
+  }
+  return undefined
 }
 
 export function phaseRowsIn(root: string, pageTypes: readonly string[]): readonly PhaseRow[] {

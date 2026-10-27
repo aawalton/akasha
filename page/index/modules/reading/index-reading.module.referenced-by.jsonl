@@ -232,7 +232,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
