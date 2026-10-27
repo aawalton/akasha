@@ -39,7 +39,11 @@ export const testWorldHall = {
       fact: "The hall's notice board hangs on its wall, papers pinned across it.",
       knowers: ["lore-disclosure/game-master", "character-player/clone-probe-player"],
     },
+    {
+      fact: "The hall's floor lies open between its door and hearth, wide enough to drill on.",
+      knowers: ["lore-disclosure/game-master", "character-player/clone-probe-player"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T22:06:46.764Z",
+  updatedAt: "2026-10-27T22:07:44.405Z",
 } as const satisfies Place
