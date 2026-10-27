@@ -20,6 +20,7 @@ export const worldMechanic = {
     "module/strike-resolution",
     "module/time-passing",
     "module/banded-roll",
+    "module/tiered-roll",
     "number-property/paragraph",
     "number-property/reference-level",
     "page-property-entry/references",
@@ -178,5 +179,5 @@ export const worldMechanic = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-10-27T19:46:50.059Z",
+  updatedAt: "2026-10-27T19:58:09.393Z",
 } as const satisfies PageType

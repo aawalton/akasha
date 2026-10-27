@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"action-difficulty.page-type.ts","path":"story/world/mechanics/modules/tiered-roll/tiered-roll.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"action-difficulty.page-type.ts","path":"story/world/mechanics/modules/tiered-roll/tiered-roll.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-difficulty.page-type.types.ts","path":"story/world/mechanics/checks/action-difficulties/pages/easy.action-difficulty.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"action-difficulty.page-type.types.ts","path":"story/world/mechanics/checks/action-difficulties/pages/extremely-hard.action-difficulty.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"action-difficulty.page-type.types.ts","path":"story/world/mechanics/checks/action-difficulties/pages/hard.action-difficulty.ts","typed":true,"deferred":false}

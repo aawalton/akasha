@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"outcome-tier.page-type.ts","path":"story/world/mechanics/modules/tiered-roll/tiered-roll.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"outcome-tier.page-type.ts","path":"story/world/mechanics/modules/tiered-roll/tiered-roll.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"outcome-tier.page-type.types.ts","path":"story/world/mechanics/checks/outcome-tiers/pages/basic-success.outcome-tier.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"outcome-tier.page-type.types.ts","path":"story/world/mechanics/checks/outcome-tiers/pages/critical-failure.outcome-tier.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"outcome-tier.page-type.types.ts","path":"story/world/mechanics/checks/outcome-tiers/pages/critical-success.outcome-tier.ts","typed":true,"deferred":false}
