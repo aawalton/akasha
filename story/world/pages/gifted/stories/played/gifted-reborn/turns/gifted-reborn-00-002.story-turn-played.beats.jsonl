@@ -4,7 +4,7 @@
 {"beat":4,"event":"A claw rakes her once, feebly; she bites through the claw.","prose":"One claw scrapes across you, weak as a kitten's. You bite through it.","changes":[]}
 {"beat":5,"event":"No snicker now; it only shrieks, thin and fading.","prose":"The voice that snickered in your head is gone. It shrieks instead, thin and high, and each shriek is fainter than the last.","changes":[]}
 {"beat":6,"event":"She swallows shred after shred, cold and bitter, until nothing of it is left.","prose":"You swallow it a shred at a time. It goes down cold and bitter, and you keep going until there is nothing of it left to swallow.","changes":[{"page":"character-title/gifted-reborn-nala-defeat-a-lesser-demon-prince-while-unborn","note":"Achievement (hidden): Defeat a Lesser Demon Prince while unborn","make":{"title":"Defeat a Lesser Demon Prince while unborn","world":"world/gifted","character":"character-player/gifted-reborn-nala","worldTitle":"world-title/gifted-defeat-a-lesser-demon-prince-while-unborn","unrevealed":true}}]}
-{"beat":7,"event":"The demon is gone; the place beside her is empty.","changes":[]}
+{"beat":7,"event":"The demon is gone; the place beside her is empty.","prose":"Then the shrieking stops. You reach for the place where the demon was, and it is empty.","changes":[]}
 {"beat":8,"event":"She spreads into the half of the body it held; the whole small body is hers now."}
 {"beat":9,"event":"Something cold settles in her: dark threads of the demon, woven through her soul."}
 {"beat":10,"event":"The heartbeat goes on, steady and slow; nothing outside has noticed."}
