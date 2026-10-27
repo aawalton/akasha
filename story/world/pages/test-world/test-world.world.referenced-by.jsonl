@@ -19,6 +19,12 @@
 {"propertySlug":"world","path":"story/world/pages/test-world/places/test-world-hall.place.ts","id":"01a17ec5-127c-7c95-8abc-8383ca570a2c"}
 {"propertySlug":"world","path":"story/world/pages/test-world/places/test-world-shop.place.ts","id":"01a17ec5-127c-728d-b964-e90af5658595"}
 {"propertySlug":"world","path":"story/world/pages/test-world/places/test-world-square.place.ts","id":"01a17ec5-127c-7e15-9e56-26cc379d4bb3"}
+{"propertySlug":"world","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-brass-token.story-item.ts","id":"01a17ec8-4446-73ce-b60a-aa518effccfd"}
+{"propertySlug":"world","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-copper-ore.story-item.ts","id":"01a17ec8-4446-799f-b800-9446dfbec17c"}
+{"propertySlug":"world","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-healing-draught.story-item.ts","id":"01a17ec8-4447-726c-88ee-8957e9c93abf"}
+{"propertySlug":"world","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-iron-sword.story-item.ts","id":"01a17ec8-4447-7b8f-84ce-f555af8a3b67"}
+{"propertySlug":"world","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-lantern.story-item.ts","id":"01a17ec8-4447-7970-a7e2-d7805584d1d4"}
+{"propertySlug":"world","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-leather-coat.story-item.ts","id":"01a17ec8-4447-7db2-9c5a-4613a9f7257d"}
 {"propertySlug":"world","path":"story/world/pages/test-world/stories/played/test-story/mechanics/skills-held/test-story-player-lockpicking.character-skill.ts","id":"01a17ec7-b0a4-7076-a062-633ada616bcc"}
 {"propertySlug":"world","path":"story/world/pages/test-world/stories/played/test-story/mechanics/skills-held/test-story-player-spark.character-skill.ts","id":"01a17ec7-b0a5-749c-9531-bcb5f0872535"}
 {"propertySlug":"world","path":"story/world/pages/test-world/stories/played/test-story/mechanics/skills-held/test-story-player-swordplay.character-skill.ts","id":"01a17ec7-b0a5-7715-9de3-637709904b6d"}
