@@ -1,12 +1,14 @@
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-hud-manager/eso-hud-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 import {
   type HudLayoutPanel,
   hudLayout,
+  type InputMode,
 } from "akasha/temper/addon/pages/temper-core/modules/core-config/core-config.module.code.ts"
 import {
   type HudDock,
@@ -35,10 +37,84 @@ interface FittingPanel {
   readonly fit: (this: void, room: number) => undefined
 }
 
+interface Anchor {
+  readonly point: number
+  readonly relativeTo: Control | undefined
+  readonly relativePoint: number
+  readonly offsetX: number
+  readonly offsetY: number
+}
+
+interface MovedPanel {
+  readonly own: readonly Anchor[]
+  readonly placed: Anchor
+}
+
+const ANCHOR_SLOTS = [0, 1]
+const OFFSET_TOLERANCE = 0.01
+
 const fitting = new Map<string, FittingPanel>()
 const roomsGiven = new Map<string, number>()
+const moved = new Map<string, MovedPanel>()
 const watched = new Set<string>()
 let pending = false
+
+function inputMode(): InputMode {
+  return IsInGamepadPreferredMode() ? "gamepad" : "keyboard"
+}
+
+function anchorsOf(control: Control): Anchor[] {
+  const anchors: Anchor[] = []
+  for (const slot of ANCHOR_SLOTS) {
+    const [valid, point, relativeTo, relativePoint, offsetX, offsetY] = control.GetAnchor(slot)
+    if (valid) anchors.push({ point, relativeTo, relativePoint, offsetX, offsetY })
+  }
+  return anchors
+}
+
+function holdsOnly(anchors: readonly Anchor[], placed: Anchor): boolean {
+  const first = anchors[0]
+  if (anchors.length !== 1 || first === undefined) return false
+  return (
+    first.point === placed.point &&
+    first.relativeTo === placed.relativeTo &&
+    first.relativePoint === placed.relativePoint &&
+    Math.abs(first.offsetX - placed.offsetX) < OFFSET_TOLERANCE &&
+    Math.abs(first.offsetY - placed.offsetY) < OFFSET_TOLERANCE
+  )
+}
+
+function anchorPlaced(key: string, control: Control, placed: Anchor): undefined {
+  const held = moved.get(key)
+  const now = anchorsOf(control)
+  const own = held !== undefined && holdsOnly(now, held.placed) ? held.own : now
+  moved.set(key, { own, placed })
+  control.ClearAnchors()
+  control.SetAnchor(
+    placed.point,
+    placed.relativeTo,
+    placed.relativePoint,
+    placed.offsetX,
+    placed.offsetY
+  )
+}
+
+function releasePanel(key: string): undefined {
+  const held = moved.get(key)
+  if (held === undefined) return
+  moved.delete(key)
+  const control = GetControl(key)
+  if (control !== undefined && holdsOnly(anchorsOf(control), held.placed)) {
+    control.ClearAnchors()
+    for (const one of held.own) {
+      control.SetAnchor(one.point, one.relativeTo, one.relativePoint, one.offsetX, one.offsetY)
+    }
+  }
+  const shrinking = fitting.get(key)
+  if (shrinking === undefined || !roomsGiven.has(key)) return
+  roomsGiven.delete(key)
+  shrinking.fit(GuiRoot.GetHeight())
+}
 
 function anchorOf(point: HudPoint): number {
   if (point === "TOPLEFT") return TOPLEFT
@@ -96,8 +172,13 @@ function placePanels(): undefined {
   if (layout === undefined) return
   const gaps = {} as Record<HudDock, number>
   for (const dock of DOCKS) gaps[dock] = layout.docks[dock]?.gap ?? DEFAULT_GAP
+  const mode = inputMode()
   const boxes: HudPanelBox[] = []
   for (const panel of layout.panels) {
+    if (!panel.inputModes.includes(mode)) {
+      releasePanel(panel.key)
+      continue
+    }
     const box = boxOf(panel)
     if (box !== undefined) boxes.push(box)
   }
@@ -106,8 +187,13 @@ function placePanels(): undefined {
     const control = GetControl(place.key)
     if (control === undefined) continue
     const point = anchorOf(place.point)
-    control.ClearAnchors()
-    control.SetAnchor(point, GuiRoot, point, place.offsetX, place.offsetY)
+    anchorPlaced(place.key, control, {
+      point,
+      relativeTo: GuiRoot,
+      relativePoint: point,
+      offsetX: place.offsetX,
+      offsetY: place.offsetY,
+    })
     const shrinking = fitting.get(place.key)
     if (shrinking === undefined || roomsGiven.get(place.key) === place.room) continue
     roomsGiven.set(place.key, place.room)

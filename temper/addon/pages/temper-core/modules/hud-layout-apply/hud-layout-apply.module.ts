@@ -56,10 +56,33 @@ export const hudLayoutApply = {
       statement: "Where no layout reached the game, nothing is moved.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the panels stating the game's current input mode are placed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every panel is placed again on a switch of input mode, as the game propagates its HUD settings then.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel placed before a switch to a mode it does not state gets back the anchors it had before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel the game has anchored again since it was placed is left where the game put it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel that shrinks is given back the whole screen when it is no longer placed.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes the positions Edit HUD keeps.",
     },
   ],
   createdAt: "2026-10-27T19:32:54.134Z",
-  updatedAt: "2026-10-27T19:39:59.699Z",
+  updatedAt: "2026-10-27T20:22:07.501Z",
 } as const satisfies Module
