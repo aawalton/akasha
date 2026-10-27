@@ -14,9 +14,14 @@ export const testStory00005 = {
   beats: "jsonl",
   issues: "txt",
   reviewedBy: ["story-reviewer/scene", "story-reviewer/holdings", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-27T08:37:00.000Z",
   createdAt: "2026-10-27T19:47:39.549Z",
-  updatedAt: "2026-10-27T20:10:49.959Z",
+  updatedAt: "2026-10-27T20:11:34.148Z",
   ownLength: 53,
 } as const satisfies StoryTurnPlayed
