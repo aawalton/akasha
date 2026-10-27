@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/action-bar.temper-hud-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/boss-health-bar.temper-hud-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/center-screen-announce.temper-hud-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/chat.temper-hud-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/combat-alerts-info-panel.temper-hud-panel.ts","typed":true,"deferred":false}
