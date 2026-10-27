@@ -14,6 +14,7 @@ export const musicChoosing = {
     "page-type/playlist",
     "module/track-picking",
     "module/ungraded-picking",
+    "service-workstation/unheard-playlist",
   ],
   decisions: [
     {
@@ -40,5 +41,5 @@ export const musicChoosing = {
     },
   ],
   createdAt: "2026-09-02T14:23:56.317Z",
-  updatedAt: "2026-09-25T12:52:47.000Z",
+  updatedAt: "2026-10-27T20:07:28.563Z",
 } as const satisfies Domain
