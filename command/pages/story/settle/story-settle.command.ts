@@ -45,6 +45,11 @@ export const storySettle = {
       statement: "No call hands in the seed a roll is rolled from.",
     },
     {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A check's code is handed the roll's total and never the dice, so it cannot refuse the wrong dice.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A settled roll is told with the seed it was rolled from, as its line records it.",
     },
@@ -137,5 +142,5 @@ export const storySettle = {
     { argument: "argument/draft" },
   ],
   createdAt: "2026-09-26T14:39:37.211Z",
-  updatedAt: "2026-10-27T20:03:26.902Z",
+  updatedAt: "2026-10-27T20:35:29.184Z",
 } as const satisfies Command
