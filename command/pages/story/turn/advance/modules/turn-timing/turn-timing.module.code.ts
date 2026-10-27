@@ -30,6 +30,8 @@ const SETTLE = "akasha story settle"
 
 const READING = `'{"from":"<when the turn before ended, or the story's opensAt for its first turn>","minutes":<the minutes the beats take>}'`
 
+const TIME_PASSING = "-time-passing"
+
 const PARTED = "/"
 
 const BREAK = "\n"
@@ -45,13 +47,24 @@ export function timeCheckIn(story: string, references: readonly Reference[]): st
   return found === undefined ? null : basename(found.path).slice(0, -SETTLING.length)
 }
 
+export function timeCheckOf(
+  found: string | null,
+  game: string,
+  filed: (check: string) => boolean
+): string | null {
+  if (found !== null) return found
+  const named = `${game}${TIME_PASSING}`
+  return filed(named) ? named : null
+}
+
 export function timeCheckIndexed(root: string, game: string): string | null {
   const story = listedAt(root, storyPlayed.slug, game)[0]
+  if (story === undefined) return null
   const rule = listedAt(root, modulePageType.slug, timePassing.slug)[0]
   const at = rule === undefined ? null : referencesAt(rule.path)
-  if (story === undefined || at === null) return null
-  const lines = readFileSync(join(root, at), UTF8).split(BREAK)
-  return timeCheckIn(story.path, referencesEach(lines))
+  const lines = at === null ? [] : readFileSync(join(root, at), UTF8).split(BREAK)
+  const found = timeCheckIn(story.path, referencesEach(lines))
+  return timeCheckOf(found, game, (check) => listedAt(root, worldCheck.slug, check).length > 0)
 }
 
 export function untimedRefused(

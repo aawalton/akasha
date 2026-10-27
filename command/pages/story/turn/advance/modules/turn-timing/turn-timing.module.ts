@@ -17,6 +17,15 @@ export const turnTiming = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Where no settling there imports it, the story's check `<story>-time-passing` does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "So a clone, whose settling forwards to its source's, settles its time as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A game master's advance of a turn stating no `endsAt` is refused where the story settles its time.",
     },
     {
@@ -43,5 +52,5 @@ export const turnTiming = {
     },
   ],
   createdAt: "2026-09-28T22:04:37.788Z",
-  updatedAt: "2026-10-17T21:48:11.507Z",
+  updatedAt: "2026-10-27T21:44:35.396Z",
 } as const satisfies Module
