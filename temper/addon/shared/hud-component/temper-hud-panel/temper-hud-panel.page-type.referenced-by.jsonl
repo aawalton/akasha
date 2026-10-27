@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/group-frames.temper-hud-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/hud-trackers.temper-hud-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/loot-history.temper-hud-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/next-boss-timetable.temper-hud-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/player-attributes.temper-hud-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/synergy.temper-hud-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-hud-panel.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/pages/target-unit-frame.temper-hud-panel.ts","typed":true,"deferred":false}
