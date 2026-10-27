@@ -9,7 +9,7 @@ export const testStory00013 = {
   position: 13,
   prose: "txt",
   characters: ["character-player/test-story-player"],
-  stepStatus: "step-status/beats",
+  stepStatus: "step-status/player",
   action:
     "For the next 7 days I drill swordplay in the hall from morning to evening, and stop if anyone comes asking for a hired sword.",
   beats: "jsonl",
@@ -22,7 +22,7 @@ export const testStory00013 = {
   ],
   interruptsAt: "2026-11-13T12:00:00.000Z",
   createdAt: "2026-10-27T23:44:58.546Z",
-  updatedAt: "2026-10-27T23:54:21.527Z",
+  updatedAt: "2026-10-27T23:58:17.601Z",
   ownLength: 147,
   endsAt: "2026-11-13T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
