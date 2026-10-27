@@ -11,6 +11,7 @@ export const irisStoryRecorderBeatFlowTestFlex2 = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "b4493d83-2049-44df-a316-bbd80a9662b1",
   createdAt: "2026-10-27T22:45:11.041Z",
-  updatedAt: "2026-10-27T22:45:11.041Z",
+  updatedAt: "2026-10-27T22:45:14.380Z",
 } as const satisfies Seat
