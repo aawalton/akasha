@@ -7,8 +7,8 @@ export const awenStoryRemoval = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [{ statement: "No page names a removed story or world." }],
+  intentStack: [],
   constraints: ["Every other world stays, with its lore and its read and written stories."],
   createdAt: "2026-10-27T19:02:08.001Z",
-  updatedAt: "2026-10-27T20:09:11.090Z",
+  updatedAt: "2026-10-27T20:09:12.912Z",
 } as const satisfies Initiative
