@@ -1,3 +1,6 @@
+{"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/quest-list/quest-list.played-panel.ts","id":"01a0c4a3-2bf6-71d5-bd9c-5f9b15cc9ae4"}
+{"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/story-so-far/story-so-far.played-panel.ts","id":"01a0c4a3-809b-7891-b681-3ec76c1a02d9"}
+{"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/time/time.played-panel.ts","id":"01a0e801-8868-7da3-8c75-fe90bcef479b"}
 {"propertySlug":"import","fileName":"journal.panel-place.ts","path":"story/world/stories/played/modules/played-sidebars/played-sidebars.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"journal.panel-place.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/ui/played-panel/panel-place/panel-place.page-type.ts","id":"01a0c4cc-9091-7ea4-a3aa-6a4d2c413b4f"}

@@ -7,8 +7,8 @@ export const storySoFar = {
   definition: "what has happened up to now, chapter by chapter",
   code: "tsx",
   drawn: "js",
-  place: "panel-place/above",
+  place: "panel-place/journal",
   position: 70,
   createdAt: "2026-09-21T15:44:04.763Z",
-  updatedAt: "2026-09-28T12:27:35.000Z",
+  updatedAt: "2026-10-27T18:39:15.409Z",
 } as const satisfies PlayedPanel

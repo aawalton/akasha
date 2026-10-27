@@ -7,8 +7,8 @@ export const time = {
   definition: "the story's in-game time and the appointments still to come",
   code: "tsx",
   drawn: "js",
-  place: "panel-place/aside",
+  place: "panel-place/journal",
   position: 40,
   createdAt: "2026-09-28T12:33:29.704Z",
-  updatedAt: "2026-09-28T12:54:48.000Z",
+  updatedAt: "2026-10-27T18:39:15.409Z",
 } as const satisfies PlayedPanel

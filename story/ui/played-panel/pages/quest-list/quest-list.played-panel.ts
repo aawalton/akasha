@@ -7,8 +7,8 @@ export const questList = {
   definition: "what a character has taken on and how far along each one is",
   code: "tsx",
   drawn: "js",
-  place: "panel-place/aside",
+  place: "panel-place/journal",
   position: 60,
   createdAt: "2026-09-21T15:43:43.094Z",
-  updatedAt: "2026-09-28T12:27:35.000Z",
+  updatedAt: "2026-10-27T18:39:15.409Z",
 } as const satisfies PlayedPanel
