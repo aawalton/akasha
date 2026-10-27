@@ -11,6 +11,7 @@ export const irisReviewerGiftedRebornFlex2 = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "4d76e934-85d8-4771-9056-e0605fcb1f1d",
   createdAt: "2026-10-27T23:58:45.727Z",
-  updatedAt: "2026-10-27T23:58:45.727Z",
+  updatedAt: "2026-10-27T23:58:50.072Z",
 } as const satisfies Seat
