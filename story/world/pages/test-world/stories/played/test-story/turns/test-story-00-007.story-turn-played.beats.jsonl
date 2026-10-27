@@ -1,4 +1,4 @@
-{"beat":1,"event":"The player thanks the shopkeeper and holds the lit lantern up.","prose":"\"Thank you.\" You lift the lantern by its wire handle and hold it up, and the light swings across the shelves.","at":"2026-10-27T08:41:00.000Z","changes":[{"page":"story-item/test-story-player-shop-lantern","note":"Lantern held up in off hand, lit","key":"slot","from":null,"to":"item-slot/off-hand"}]}
+{"beat":1,"event":"The player thanks the shopkeeper and holds the lit lantern up.","prose":"\"Thank you.\" You lift the lantern by its wire handle and hold it up, and the light swings across the shelves.","at":"2026-10-27T08:41:00.000Z","changes":[{"page":"story-item/test-story-player-shop-lantern","note":"Lantern held up in off hand, lit","key":"slot","from":null,"to":"item-slot/off-hand"}],"pictured":[]}
 {"beat":2,"event":"The player asks her what lies beyond the shop's back door.","changes":[]}
 {"beat":3,"event":"She glances at the door behind the counter and says it opens on wooden steps down to her cellar."}
 {"beat":4,"event":"She says the cellar is cool and dry, barrels along one wall, with a single hook for a lamp."}
