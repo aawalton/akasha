@@ -10,10 +10,6 @@ export const awenBeatFlow = {
   intentStack: [
     {
       statement:
-        "Who learned what and the lore a beat settled follow the shown beat without holding it back.",
-    },
-    {
-      statement:
         "A shown beat is never rewritten, and a refused beat reruns only itself and the beats after it.",
     },
     {
@@ -27,5 +23,5 @@ export const awenBeatFlow = {
     "Which step a beat still needs is read from the turn's beats file, and is stored nowhere else.",
   ],
   createdAt: "2026-10-27T19:18:52.513Z",
-  updatedAt: "2026-10-27T20:56:00.304Z",
+  updatedAt: "2026-10-27T21:29:34.714Z",
 } as const satisfies Initiative
