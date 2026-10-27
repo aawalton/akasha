@@ -8,7 +8,6 @@ export const awenChatPanel = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    { statement: "The Assistant tab has its own message box and its own history." },
     { statement: "Both Alan's chat messages and the replies are kept with the story." },
     { statement: "The story's game-master seat answers the Assistant tab." },
     {
@@ -23,5 +22,5 @@ export const awenChatPanel = {
     "A chat correction may still be folded into the story and reported to Awen.",
   ],
   createdAt: "2026-10-27T18:45:50.645Z",
-  updatedAt: "2026-10-27T19:04:19.625Z",
+  updatedAt: "2026-10-27T20:16:13.012Z",
 } as const satisfies Initiative
