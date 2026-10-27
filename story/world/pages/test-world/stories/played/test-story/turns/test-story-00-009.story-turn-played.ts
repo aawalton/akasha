@@ -11,6 +11,6 @@ export const testStory00009 = {
   action: "For each of the next 10 days I drill swordplay in the hall, from morning to evening.",
   lore: ["place/test-world-hall"],
   createdAt: "2026-10-27T21:07:55.307Z",
-  updatedAt: "2026-10-27T21:10:51.697Z",
-  endsAt: "2026-11-06T08:00:00.000Z",
+  updatedAt: "2026-10-27T21:15:33.530Z",
+  endsAt: "2026-11-06T08:44:00.000Z",
 } as const satisfies StoryTurnPlayed
