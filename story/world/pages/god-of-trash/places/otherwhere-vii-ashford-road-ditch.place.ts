@@ -9,19 +9,19 @@ export const otherwhereViiAshfordRoadDitch = {
   facts: [
     {
       fact: "A muddy ditch runs beside a rutted cart road through flat farmland.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The ditch holds shallow brown water, reeds and a scatter of rubbish: rags, shards, a boot.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Far off, a mountain rises with a white city at its top whose towers seem to float.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The road runs toward a village of thatched roofs about a mile off, with smoke rising.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The village is Ashford, a farming village a few days' travel from the mountain.",
@@ -37,13 +37,13 @@ export const otherwhereViiAshfordRoadDitch = {
     },
     {
       fact: "On day one, wheels and hooves came up the road toward the ditch from away from the village.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Ashford road is two cold, gritty ruts with a ridge of grass between, stony underfoot.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T22:23:17.314Z",
-  updatedAt: "2026-09-28T22:50:54.000Z",
+  updatedAt: "2026-10-27T19:36:24.226Z",
 } as const satisfies Place

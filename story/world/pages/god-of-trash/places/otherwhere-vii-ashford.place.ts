@@ -119,7 +119,6 @@ export const otherwhereViiAshford = {
       fact: "Aldo Reeve's farm is the big thatched one past the green; he threshes in its barn this week.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-ennis",
         "character-other/otherwhere-vii-aldo-reeve",
       ],
@@ -130,11 +129,7 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "Women winnow the threshed grain with baskets in the barn door's draught, for six pennies a day.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "Aldo hires by sight: he wants no trouble, a name, and a word from someone he knows.",
@@ -166,19 +161,11 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "Joan puts a hired woman in the loft over the cow byre: warm, a straw tick, a ladder up.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-joan-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-joan-reeve"],
     },
     {
       fact: "Joan would lend a decent hired woman Bet's old brown kirtle and a pair of worn clogs.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-joan-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-joan-reeve"],
     },
     {
       fact: "Aldo's household eats porridge at dawn, bread and pottage at noon, and stew with ale at dusk.",
@@ -188,7 +175,6 @@ export const otherwhereViiAshford = {
       fact: "Winnowing is tossing grain in a flat basket so the draught takes the chaff; it takes a knack.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
       ],
@@ -203,59 +189,35 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "The barn's water butt by the door is for the hands; any hand may dip a drink from it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "Ashford is thatched houses strung along the road down to a ford over a slow, clear river.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "Ashford's green sits beside the ford, with a stone well, a pen of rough rails and a notice post.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ashford's women kneel at the river's edge by the ford, beating linen on flat stones.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ashford is taking on hands for threshing this week.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "In Aldo's barn men thresh barley with flails on beaten earth; he says flails are men's work.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "Tally sticks of split hazel hang in a bundle from a peg on a post by Aldo's barn door.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "Joan has Nala eat dinner at noon at the farmhouse table, not with the hands in the barn.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-joan-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-joan-reeve"],
     },
     {
       fact: "Girls in Ashford carry water from the ford in a yoke across the shoulders, two pails at a time.",
@@ -263,11 +225,7 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "In Ashford a woman who reads has been somewhere, and folk would want to know where.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-joan-reeve",
-        "character-player/otherwhere-vii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-joan-reeve"],
     },
     {
       fact: "A villager's name means her kin: a woman with none living is answered for by nobody.",
@@ -287,11 +245,7 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "The north meadow is the herb ground; the riverbank by the ford is picked bare by Ashford's wives.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Ashford's children are told not to go past the north meadow, because of the wood and the boar.",
@@ -339,5 +293,5 @@ export const otherwhereViiAshford = {
     },
   ],
   createdAt: "2026-09-28T22:34:34.502Z",
-  updatedAt: "2026-09-29T04:02:47.000Z",
+  updatedAt: "2026-10-27T19:36:24.226Z",
 } as const satisfies Place

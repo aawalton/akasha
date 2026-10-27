@@ -10,11 +10,7 @@ export const otherwhereViiTamsin = {
   facts: [
     {
       fact: "A girl of about sixteen winnows in Aldo's barn, and laughed out loud when Nala spilled her grain.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-tamsin",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-tamsin"],
     },
     {
       fact: "The other winnower is Aldo's niece Tamsin, sixteen, who thinks winnowing is beneath her.",
@@ -40,7 +36,6 @@ export const otherwhereViiTamsin = {
       fact: "Told Aldo would have her taught letters first, Tamsin went red and said she didn't want it.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-tamsin",
         "character-other/otherwhere-vii-gammer-wyn",
@@ -48,5 +43,5 @@ export const otherwhereViiTamsin = {
     },
   ],
   createdAt: "2026-09-29T00:11:21.793Z",
-  updatedAt: "2026-09-29T01:22:21.000Z",
+  updatedAt: "2026-10-27T19:36:24.226Z",
 } as const satisfies Lore

@@ -10,27 +10,15 @@ export const otherwhereViiGammerWyn = {
   facts: [
     {
       fact: "Gammer Wyn is a bent, toothless winnower of about seventy, with a kerchief over her hair.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-gammer-wyn",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-gammer-wyn"],
     },
     {
       fact: "Gammer Wyn taught Nala to winnow: up and a flick, let the wind have the chaff, catch the grain.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-gammer-wyn",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-gammer-wyn"],
     },
     {
       fact: "Gammer Wyn asked Nala where she sprang from, never to have held a winnowing basket.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-gammer-wyn",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-gammer-wyn"],
     },
     {
       fact: "Gammer Wyn is a bent, toothless widow of seventy who has winnowed Aldo's barley for fifty years.",
@@ -44,7 +32,6 @@ export const otherwhereViiGammerWyn = {
       fact: "Gammer Wyn hears 'scribe's daughter' as gentry fallen on hard times, and says so loudly.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
       ],
@@ -57,7 +44,6 @@ export const otherwhereViiGammerWyn = {
       fact: "Gammer Wyn swears the steward's scale has always been crooked, and has said so for years.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
@@ -65,5 +51,5 @@ export const otherwhereViiGammerWyn = {
     },
   ],
   createdAt: "2026-09-29T00:11:21.792Z",
-  updatedAt: "2026-09-29T02:04:02.000Z",
+  updatedAt: "2026-10-27T19:36:24.226Z",
 } as const satisfies Lore

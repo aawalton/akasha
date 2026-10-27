@@ -14,27 +14,15 @@ export const otherwhereViiHild = {
     },
     {
       fact: "Hild reads a stranger by her hands, feet and eyes before she hears a word of her story.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Hild would treat blistered hands and cut feet for a penny, or for a morning's herb picking.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Hild asks a newcomer where she comes from and whose she is, and remembers the answer.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Hild guards her knowledge: she teaches her simples only to a woman who stays in Ashford.",
@@ -48,7 +36,6 @@ export const otherwhereViiHild = {
       fact: "Bet Reeve has been feverish four days; Hild steeps comfrey and yarrow and watches her at night.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-joan-reeve",
         "character-other/otherwhere-vii-hild",
       ],
@@ -63,24 +50,15 @@ export const otherwhereViiHild = {
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-hild",
         "character-other/otherwhere-vii-joan-reeve",
-        "character-player/otherwhere-vii-nala",
       ],
     },
     {
       fact: "Hild hears 'no one living is mine' as orphan, exile or runaway, and judges which by the hands.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Hild would offer Nala herb-picking at a quarter-penny a bunch, and ask her nothing more.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Hild has midwifed and buried half of Ashford, and her word carries more weight than the headman's.",
@@ -88,27 +66,15 @@ export const otherwhereViiHild = {
     },
     {
       fact: "Hild would tell a kinless woman plainly that she needs a place, and that Ashford could be one.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Hild's good comfrey and yarrow grow in the wet ground half a mile north, toward Hobb's Wood.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Hild pays a quarter-penny a bunch for herbs, or sets a penny against a pot of her grease.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Hild's word once given settles a stranger with Joan and Aldo, and then with the village.",
@@ -127,7 +93,6 @@ export const otherwhereViiHild = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-joan-reeve",
       ],
     },
@@ -136,7 +101,6 @@ export const otherwhereViiHild = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-joan-reeve",
       ],
     },
@@ -149,17 +113,12 @@ export const otherwhereViiHild = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-joan-reeve",
       ],
     },
     {
       fact: "Hild's grease for blistered palms is comfrey and lard, worked in at night.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-hild",
-        "character-player/otherwhere-vii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "The salve stings at first, then cools; it smells of lard and green leaves.",
@@ -179,27 +138,15 @@ export const otherwhereViiHild = {
     },
     {
       fact: "Hild wants a picker to come fed, shod, with salved hands, and to bring nothing but herself.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-hild",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Hild lends her pickers a hooked knife and a flat rush basket, and counts both back at dusk.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-hild",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Hild would ask one thing of Nala before morning: to sit an hour with Bet tonight so Joan sleeps.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-hild",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-hild"],
     },
     {
       fact: "Watching a fever is sponging the brow with cool water, and spooning herb tea between the chills.",
@@ -220,5 +167,5 @@ export const otherwhereViiHild = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T01:36:43.170Z",
-  updatedAt: "2026-09-29T04:12:36.000Z",
+  updatedAt: "2026-10-27T19:36:24.226Z",
 } as const satisfies Lore

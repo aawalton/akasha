@@ -10,19 +10,11 @@ export const otherwhereViiAldoReeve = {
   facts: [
     {
       fact: "Aldo Reeve is a heavy man of about forty-five in a leather apron, slow to speak, slower to smile.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "Aldo chews a straw when he's thinking, and takes it out when he's decided.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "Aldo was made headman for being careful, and he has never lost a harvest or a child to trouble.",
@@ -50,17 +42,12 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Aldo cannot read; he keeps Ashford's harvest count in notches on tally sticks.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "The steward comes in about six days, when the threshing is done.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
@@ -72,7 +59,6 @@ export const otherwhereViiAldoReeve = {
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-tamsin",
       ],
     },
@@ -82,7 +68,6 @@ export const otherwhereViiAldoReeve = {
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-tamsin",
       ],
     },
@@ -91,7 +76,6 @@ export const otherwhereViiAldoReeve = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-aldo-reeve",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
       ],
@@ -100,7 +84,6 @@ export const otherwhereViiAldoReeve = {
       fact: "A tenth of 74 sacks is 7 and a half; the steward's 9 is a sack and a half too many.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
@@ -111,7 +94,6 @@ export const otherwhereViiAldoReeve = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-aldo-reeve",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
       ],
@@ -121,7 +103,6 @@ export const otherwhereViiAldoReeve = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-aldo-reeve",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
       ],
@@ -131,7 +112,6 @@ export const otherwhereViiAldoReeve = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-aldo-reeve",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
       ],
@@ -144,7 +124,6 @@ export const otherwhereViiAldoReeve = {
       fact: "Aldo would sooner catch the steward fair at this year's weighing than accuse him of last year's.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
@@ -169,17 +148,12 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Aldo is ashamed to be taught before his men, but would learn by rushlight after supper.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "Aldo would have Tamsin taught first; he once meant to send her to Bramwick to learn letters.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-tamsin",
         "character-other/otherwhere-vii-gammer-wyn",
@@ -189,7 +163,6 @@ export const otherwhereViiAldoReeve = {
       fact: "Aldo fears the steward would take a village that reckons for a village looking for trouble.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-tamsin",
         "character-other/otherwhere-vii-gammer-wyn",
@@ -201,67 +174,44 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Aldo takes a teaching offer as a kindness beyond the wage, and warms to Nala for it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "The deep notches are grouped at the stick's thick end, the crossed ones last at the thin end.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "Aldo Reeve is Ashford's headman, and his farm is the big thatch past the green.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-ennis",
         "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
     {
       fact: "Aldo told Nala he takes on no folk off the road, and asked her name and who would speak for her.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "Aldo set Nala to winnow the morning: last till noon without wasting barley and there's bread in it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "When Nala spilled a basket, Aldo warned her the next spill sends her back on the road.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
       ],
     },
     {
       fact: "The steward from the mountain weighs Ashford's grain after threshing and takes his tenth.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "The steward writes the tithe in his book, and Aldo makes his mark under it.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
@@ -269,17 +219,12 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Aldo handed Nala last year's barley tally and asked her to reckon what it comes to.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "Last year's barley stick counts seventy-four sacks threshed, nine of them taken as tithe.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
@@ -289,7 +234,6 @@ export const otherwhereViiAldoReeve = {
       fact: "Aldo offered Nala bed, board and ten pennies a day to keep his count through the weighing.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
@@ -299,7 +243,6 @@ export const otherwhereViiAldoReeve = {
       fact: "Aldo told Wyn and Tamsin to say not a word about the steward's cheating.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
@@ -309,7 +252,6 @@ export const otherwhereViiAldoReeve = {
       fact: "Aldo made his mark under the steward's tithe without a word, because the steward's mage stood by.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
@@ -319,7 +261,6 @@ export const otherwhereViiAldoReeve = {
       fact: "Aldo said Joan would show Nala where she sleeps.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
@@ -327,17 +268,12 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Nala stays as Aldo's reckoner on condition she teaches him, and whoever he picks, to reckon.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
       fact: "Aldo wants the reckoning lessons kept secret so the steward hears nothing before the weighing.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-tamsin",
         "character-other/otherwhere-vii-gammer-wyn",
@@ -362,5 +298,5 @@ export const otherwhereViiAldoReeve = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T23:35:26.933Z",
-  updatedAt: "2026-09-29T02:04:02.000Z",
+  updatedAt: "2026-10-27T19:36:24.226Z",
 } as const satisfies Lore

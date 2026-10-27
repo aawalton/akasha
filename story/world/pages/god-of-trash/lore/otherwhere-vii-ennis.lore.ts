@@ -54,31 +54,19 @@ export const otherwhereViiEnnis = {
     },
     {
       fact: "The carter is lean and stooped, about fifty, grizzled, in a greasy leather cap and patched coat.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The carter drives a two-wheeled, iron-rimmed cart behind a grey mule he calls Patience.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "The carter's cart is piled with sacks, broken crockery, bent scrap iron and a crate of old bottles.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "On the Ashford road the carter asked Nala if she had been robbed or had run off from somebody.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "Ennis's back is bad, and bending to sort his load costs him more each year.",
@@ -166,86 +154,46 @@ export const otherwhereViiEnnis = {
     },
     {
       fact: "The carter offered Nala bread, cheese and the ride to Ashford, no coin, to sort one sack clean.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "The carter told Nala only the papermaker, fuller and glue-boiler buy rags and bones.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "The carter's back pains him; he climbs down stiffly and grunts, a hand pressed to it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "The carter pays a penny for a clean sack of rags, and a fouled sack is worth a quarter-penny.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "The carter offered Nala fifteen pennies for her shirt, for its close weave and even dye.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "Nala took the carter's ride to Ashford but would not sell him her shirt.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "At Ashford the carter asked Nala what she meant to do, and said hands were wanted for threshing.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "The carter pointed Nala to Aldo Reeve's barn, but said he would not speak for her.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "The carter raised his offer for Nala's shirt to twenty pennies.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "The carter told Nala he'd be at the midden behind Ashford's mill till noon.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-ennis",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T22:33:16.046Z",
-  updatedAt: "2026-09-28T23:39:12.000Z",
+  updatedAt: "2026-10-27T19:36:24.226Z",
 } as const satisfies Lore

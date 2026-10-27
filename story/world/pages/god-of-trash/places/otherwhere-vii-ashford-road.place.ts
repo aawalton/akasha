@@ -57,13 +57,13 @@ export const otherwhereViiAshfordRoad = {
     },
     {
       fact: "Between the ditch and Ashford the road runs past stubble fields, one farmstead and the waystone.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A knee-high mossy stone at a bend near Ashford is carved with a small drooping flower.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-28T22:59:20.032Z",
-  updatedAt: "2026-09-28T23:27:05.000Z",
+  updatedAt: "2026-10-27T19:36:24.226Z",
 } as const satisfies Place
