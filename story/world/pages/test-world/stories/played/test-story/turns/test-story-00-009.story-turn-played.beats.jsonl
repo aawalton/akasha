@@ -1,0 +1,8 @@
+{"beat":1,"event":"The player sheathes the sword, takes up the lantern and leaves the shop.","at":"2026-10-27T08:45:00.000Z","place":"place/test-world-square"}
+{"beat":2,"event":"The player climbs the steps from the square into the hall.","at":"2026-10-27T08:48:00.000Z","place":"place/test-world-hall"}
+{"beat":3,"event":"The player clears a stretch of the long stone floor and begins to drill."}
+{"beat":4,"event":"Cuts, guards and footwork, over and over, from morning until the light goes."}
+{"beat":5,"event":"Each night the player pays for a cot by the hearth and a meal at the hall's table."}
+{"beat":6,"event":"By the fifth morning the drills come cleaner; swordplay climbs a rung.","at":"2026-11-01T08:44:00.000Z"}
+{"beat":7,"event":"The days run on the same way, drill by day and the cot by night."}
+{"beat":8,"event":"The tenth day's drill is done, and the player wakes in the hall on the eleventh morning.","at":"2026-11-06T08:44:00.000Z"}
