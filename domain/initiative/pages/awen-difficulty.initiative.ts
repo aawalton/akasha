@@ -8,7 +8,6 @@ export const awenDifficulty = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    { statement: "The game master is served the stance of the story's difficulty level." },
     {
       statement:
         "The player changes the difficulty level from the play screen, and it holds from the next beat.",
@@ -19,5 +18,5 @@ export const awenDifficulty = {
     "Alan approves the shape of each new page type or property before it is built.",
   ],
   createdAt: "2026-10-27T19:26:39.651Z",
-  updatedAt: "2026-10-27T20:28:48.320Z",
+  updatedAt: "2026-10-27T20:28:49.845Z",
 } as const satisfies Initiative
