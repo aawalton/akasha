@@ -6,7 +6,10 @@ export const jennaRaineJeansBoysJesusUsedToPray = {
   slug: "jenna-raine-jeans-boys-jesus-used-to-pray",
   ownLength: 2.5291,
   ownProgress: 2.5291,
-  partOfCollections: ["release/jenna-raine-jeans-boys-jesus"],
+  partOfCollections: [
+    "release/jenna-raine-jeans-boys-jesus",
+    "release/jenna-raine-jeans-boys-jesus-deluxe",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "Used To Pray",
@@ -23,7 +26,14 @@ export const jennaRaineJeansBoysJesusUsedToPray = {
       externalId: "6lfLRfYCSSKZZk4KLnziT4",
       externalLink: "https://open.spotify.com/track/6lfLRfYCSSKZZk4KLnziT4",
     },
+    {
+      release: "release/jenna-raine-jeans-boys-jesus-deluxe",
+      discNumber: 1,
+      position: 7,
+      externalId: "4VJyC6tYDp6XappAHLVEhs",
+      externalLink: "https://open.spotify.com/track/4VJyC6tYDp6XappAHLVEhs",
+    },
   ],
   createdAt: "2026-09-21T22:40:52.290Z",
-  updatedAt: "2026-09-24T19:59:43.000Z",
+  updatedAt: "2026-10-27T13:47:07.165Z",
 } as const satisfies Track

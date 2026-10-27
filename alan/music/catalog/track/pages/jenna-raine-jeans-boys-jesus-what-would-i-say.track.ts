@@ -10,6 +10,7 @@ export const jennaRaineJeansBoysJesusWhatWouldISay = {
     "release/jenna-raine-jeans-boys-jesus",
     "release/jenna-raine-god-made-him",
     "release/jenna-raine-what-would-i-say",
+    "release/jenna-raine-jeans-boys-jesus-deluxe",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +36,13 @@ export const jennaRaineJeansBoysJesusWhatWouldISay = {
       externalLink: "https://open.spotify.com/track/2IyguPYck9J0nSXGWPGIWD",
     },
     {
+      release: "release/jenna-raine-jeans-boys-jesus-deluxe",
+      discNumber: 1,
+      position: 11,
+      externalId: "7FTddgGx69f0PQQLPVwzYx",
+      externalLink: "https://open.spotify.com/track/7FTddgGx69f0PQQLPVwzYx",
+    },
+    {
       release: "release/jenna-raine-what-would-i-say",
       discNumber: 1,
       position: 1,
@@ -43,5 +51,5 @@ export const jennaRaineJeansBoysJesusWhatWouldISay = {
     },
   ],
   createdAt: "2026-09-21T22:40:52.863Z",
-  updatedAt: "2026-09-24T19:59:43.000Z",
+  updatedAt: "2026-10-27T13:47:07.165Z",
 } as const satisfies Track

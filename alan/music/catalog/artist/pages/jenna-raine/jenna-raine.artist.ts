@@ -17,10 +17,10 @@ export const jennaRaine = {
       source: "spotify",
       externalId: "3aHe9rMa5HFTjXHw8tEz0A",
       externalLink: "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A",
-      lastSyncedAt: "2026-09-21",
+      lastSyncedAt: "2026-10-27",
     },
   ],
   title: "Jenna Raine",
   createdAt: "2026-09-03T16:04:08.683Z",
-  updatedAt: "2026-09-21T22:40:59.000Z",
+  updatedAt: "2026-10-27T13:47:07.165Z",
 } as const satisfies Artist

@@ -6,7 +6,10 @@ export const jennaRaineJeansBoysJesusGuiltyAsCharged = {
   slug: "jenna-raine-jeans-boys-jesus-guilty-as-charged",
   ownLength: 3.1287833333333332,
   ownProgress: 3.1287833333333332,
-  partOfCollections: ["release/jenna-raine-jeans-boys-jesus"],
+  partOfCollections: [
+    "release/jenna-raine-jeans-boys-jesus",
+    "release/jenna-raine-jeans-boys-jesus-deluxe",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "Guilty As Charged",
@@ -23,7 +26,14 @@ export const jennaRaineJeansBoysJesusGuiltyAsCharged = {
       externalId: "5B2tnGy2KmfE9LcPuc9lXf",
       externalLink: "https://open.spotify.com/track/5B2tnGy2KmfE9LcPuc9lXf",
     },
+    {
+      release: "release/jenna-raine-jeans-boys-jesus-deluxe",
+      discNumber: 1,
+      position: 4,
+      externalId: "52EmFlh3VdFtzUhdsua7p5",
+      externalLink: "https://open.spotify.com/track/52EmFlh3VdFtzUhdsua7p5",
+    },
   ],
   createdAt: "2026-09-21T22:40:52.088Z",
-  updatedAt: "2026-09-24T19:59:43.000Z",
+  updatedAt: "2026-10-27T13:47:07.165Z",
 } as const satisfies Track

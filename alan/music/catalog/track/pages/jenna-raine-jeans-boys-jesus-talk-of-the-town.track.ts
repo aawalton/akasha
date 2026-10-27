@@ -9,6 +9,7 @@ export const jennaRaineJeansBoysJesusTalkOfTheTown = {
   partOfCollections: [
     "release/jenna-raine-jeans-boys-jesus",
     "release/jenna-raine-talk-of-the-town",
+    "release/jenna-raine-jeans-boys-jesus-deluxe",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -27,6 +28,13 @@ export const jennaRaineJeansBoysJesusTalkOfTheTown = {
       externalLink: "https://open.spotify.com/track/4um31MUXi9Ba2cwG9FjXMp",
     },
     {
+      release: "release/jenna-raine-jeans-boys-jesus-deluxe",
+      discNumber: 1,
+      position: 8,
+      externalId: "4qBaib4UOwaouw62y9f68A",
+      externalLink: "https://open.spotify.com/track/4qBaib4UOwaouw62y9f68A",
+    },
+    {
       release: "release/jenna-raine-talk-of-the-town",
       discNumber: 1,
       position: 1,
@@ -35,5 +43,5 @@ export const jennaRaineJeansBoysJesusTalkOfTheTown = {
     },
   ],
   createdAt: "2026-09-21T22:40:53.104Z",
-  updatedAt: "2026-09-24T19:59:43.000Z",
+  updatedAt: "2026-10-27T13:47:07.165Z",
 } as const satisfies Track

@@ -6,7 +6,10 @@ export const jennaRaineJeansBoysJesusTooLateTooLate = {
   slug: "jenna-raine-jeans-boys-jesus-too-late-too-late",
   ownLength: 2.8663,
   ownProgress: 2.8663,
-  partOfCollections: ["release/jenna-raine-jeans-boys-jesus"],
+  partOfCollections: [
+    "release/jenna-raine-jeans-boys-jesus",
+    "release/jenna-raine-jeans-boys-jesus-deluxe",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "Too Late, Too Late",
@@ -23,7 +26,14 @@ export const jennaRaineJeansBoysJesusTooLateTooLate = {
       externalId: "18Ic7ZmOV62VOtT46m52FW",
       externalLink: "https://open.spotify.com/track/18Ic7ZmOV62VOtT46m52FW",
     },
+    {
+      release: "release/jenna-raine-jeans-boys-jesus-deluxe",
+      discNumber: 1,
+      position: 1,
+      externalId: "7cMKhBtW7y5QAdMwet9ApZ",
+      externalLink: "https://open.spotify.com/track/7cMKhBtW7y5QAdMwet9ApZ",
+    },
   ],
   createdAt: "2026-09-21T22:40:51.881Z",
-  updatedAt: "2026-09-24T19:59:43.000Z",
+  updatedAt: "2026-10-27T13:47:07.165Z",
 } as const satisfies Track

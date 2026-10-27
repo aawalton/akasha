@@ -11,6 +11,7 @@ export const jennaRaineJeansBoysJesusItTakesAVillage = {
     "release/jenna-raine-god-made-him",
     "release/jenna-raine-what-would-i-say",
     "release/jenna-raine-it-takes-a-village",
+    "release/jenna-raine-jeans-boys-jesus-deluxe",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -43,6 +44,13 @@ export const jennaRaineJeansBoysJesusItTakesAVillage = {
       externalLink: "https://open.spotify.com/track/0R4g8gvEcMER3PnjYNnU2a",
     },
     {
+      release: "release/jenna-raine-jeans-boys-jesus-deluxe",
+      discNumber: 1,
+      position: 2,
+      externalId: "3ZICALfXCloPB5GxXNBGmW",
+      externalLink: "https://open.spotify.com/track/3ZICALfXCloPB5GxXNBGmW",
+    },
+    {
       release: "release/jenna-raine-what-would-i-say",
       discNumber: 1,
       position: 2,
@@ -51,5 +59,5 @@ export const jennaRaineJeansBoysJesusItTakesAVillage = {
     },
   ],
   createdAt: "2026-09-21T22:40:52.987Z",
-  updatedAt: "2026-09-24T19:59:43.000Z",
+  updatedAt: "2026-10-27T13:47:07.165Z",
 } as const satisfies Track

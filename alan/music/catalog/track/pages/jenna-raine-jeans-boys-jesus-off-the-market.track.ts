@@ -6,7 +6,10 @@ export const jennaRaineJeansBoysJesusOffTheMarket = {
   slug: "jenna-raine-jeans-boys-jesus-off-the-market",
   ownLength: 2.695683333333333,
   ownProgress: 2.695683333333333,
-  partOfCollections: ["release/jenna-raine-jeans-boys-jesus"],
+  partOfCollections: [
+    "release/jenna-raine-jeans-boys-jesus",
+    "release/jenna-raine-jeans-boys-jesus-deluxe",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "Off The Market",
@@ -23,7 +26,14 @@ export const jennaRaineJeansBoysJesusOffTheMarket = {
       externalId: "7tr6pn8ZyErey14TDcvz7A",
       externalLink: "https://open.spotify.com/track/7tr6pn8ZyErey14TDcvz7A",
     },
+    {
+      release: "release/jenna-raine-jeans-boys-jesus-deluxe",
+      discNumber: 1,
+      position: 5,
+      externalId: "15SvL7fzxPj0ppMCA180EB",
+      externalLink: "https://open.spotify.com/track/15SvL7fzxPj0ppMCA180EB",
+    },
   ],
   createdAt: "2026-09-21T22:40:52.160Z",
-  updatedAt: "2026-09-24T19:59:43.000Z",
+  updatedAt: "2026-10-27T13:47:07.165Z",
 } as const satisfies Track

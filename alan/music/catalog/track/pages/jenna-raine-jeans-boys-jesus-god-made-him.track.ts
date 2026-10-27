@@ -6,7 +6,11 @@ export const jennaRaineJeansBoysJesusGodMadeHim = {
   slug: "jenna-raine-jeans-boys-jesus-god-made-him",
   ownLength: 3.71375,
   ownProgress: 3.71375,
-  partOfCollections: ["release/jenna-raine-jeans-boys-jesus", "release/jenna-raine-god-made-him"],
+  partOfCollections: [
+    "release/jenna-raine-jeans-boys-jesus",
+    "release/jenna-raine-god-made-him",
+    "release/jenna-raine-jeans-boys-jesus-deluxe",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "God Made Him",
@@ -30,7 +34,14 @@ export const jennaRaineJeansBoysJesusGodMadeHim = {
       externalId: "1b78hB2DTRVmyTo6n6XmhT",
       externalLink: "https://open.spotify.com/track/1b78hB2DTRVmyTo6n6XmhT",
     },
+    {
+      release: "release/jenna-raine-jeans-boys-jesus-deluxe",
+      discNumber: 1,
+      position: 10,
+      externalId: "1q8n5lWzmFzy4l0ZtMd6C7",
+      externalLink: "https://open.spotify.com/track/1q8n5lWzmFzy4l0ZtMd6C7",
+    },
   ],
   createdAt: "2026-09-21T22:40:52.696Z",
-  updatedAt: "2026-09-24T19:59:43.000Z",
+  updatedAt: "2026-10-27T13:47:07.165Z",
 } as const satisfies Track
