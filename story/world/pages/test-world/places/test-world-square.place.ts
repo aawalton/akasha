@@ -41,7 +41,11 @@ export const testWorldSquare = {
       fact: "The square's well holds clear water far below its rim.",
       knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
     },
+    {
+      fact: "A wooden bucket sits on the rim of the square's well, its rope coiled beside it.",
+      knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T23:02:36.444Z",
+  updatedAt: "2026-10-27T23:03:12.189Z",
 } as const satisfies Place
