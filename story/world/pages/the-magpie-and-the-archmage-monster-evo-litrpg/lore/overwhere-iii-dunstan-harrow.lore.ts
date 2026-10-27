@@ -14,11 +14,11 @@ export const overwhereIiiDunstanHarrow = {
     },
     {
       fact: "He is about fifty-five, thin and stooped, bald, with burn-scarred forearms and few words.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He works out of the inn's back kitchen, reached through the yard by the stable.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He pays 5 copper for a whole jackalope, big or small, and wants it gutted within the day.",
@@ -26,29 +26,17 @@ export const overwhereIiiDunstanHarrow = {
     },
     {
       fact: "He pays the same with its glimmerstone in or out, and tells hunters to dig the stone out first.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-dunstan-harrow",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-dunstan-harrow"],
     },
     {
       fact: "He thinks a glimmerstone left in a carcass is coin thrown in the pot.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-dunstan-harrow",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-dunstan-harrow"],
     },
     {
       fact: "The cook offered Nala five copper apiece for her three dead antlered rabbits.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-dunstan-harrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-dunstan-harrow"],
     },
   ],
   createdAt: "2026-09-30T16:59:00.283Z",
-  updatedAt: "2026-09-30T17:03:59.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

@@ -18,45 +18,25 @@ export const overwhereIiiFairleyFarm = {
   facts: [
     {
       fact: "Fairley Farm lies three miles east of Merrowgate on the Thornmere road, an hour's walk.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-oswin-fairley",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
     {
       fact: "It is a low stone farmhouse, a cow byre, a wattle hen-house, and barley fields gone to stubble.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-oswin-fairley",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
     {
       fact: "The hen-house's wattle is torn open at one corner, the ground thick with feathers and blood.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-oswin-fairley",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
     {
       fact: "Behind the stubble a hazel copse grows on an old hedgebank, riddled with a disused badger sett.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-oswin-fairley",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
     {
       fact: "The blighted fox lairs in the badger sett in the hazel copse; the ground at its mouth is gray.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-oswin-fairley",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
   ],
   createdAt: "2026-10-02T18:14:46.590Z",
-  updatedAt: "2026-10-02T18:16:27.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Place

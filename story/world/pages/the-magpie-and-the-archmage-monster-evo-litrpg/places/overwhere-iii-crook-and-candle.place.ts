@@ -20,11 +20,7 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "Its common room has a big hearth, six trestle tables, and a stair to eight rooms above.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "A bed is 8 copper a night, a hot supper 3, a cup of cider 1, and a hot tub in the scullery 2.",
@@ -32,7 +28,7 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "The rooms are small and cold: a straw tick, a wool blanket, a shutter and a peg for clothes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bet Harrow keeps the inn; her husband Dunstan cooks, and their boy Wat minds the stable.",
@@ -42,7 +38,6 @@ export const overwhereIiiCrookAndCandle = {
       fact: "Tonight's supper is mutton stew, black bread and hill cheese.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-tobin-wick",
         "character-other/overwhere-iii-bet-harrow",
       ],
@@ -53,11 +48,7 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "Talk in the common room tonight is of the boy lost in the Wrenwood and the blight bounty.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "Tonight's supper at the Crook and Candle is mutton and onion pie with new bread.",
@@ -65,20 +56,15 @@ export const overwhereIiiCrookAndCandle = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-bet-harrow",
         "character-other/overwhere-iii-dunstan-harrow",
-        "character-player/overwhere-iii-nala",
       ],
     },
     {
       fact: "Bet gives Nala the same room under the eaves; the night passes quiet but for the wind.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-bet-harrow",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
     {
       fact: "Frost comes hard tonight, and by morning it lies thick and white on every roof in town.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Breakfast at the Crook and Candle is oat porridge with honey and small beer, 1 copper.",
@@ -86,27 +72,15 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "Supper on Nala's third night is barley soup with pork sausages and black bread, 3 copper.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-bet-harrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
     {
       fact: "Tonight the common room talks of the red-haired healer; some raise a cup to her as she comes in.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-bet-harrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
     {
       fact: "The fourth night's supper at the Crook and Candle is ham-hock and barley stew with brown bread.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-bet-harrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
     {
       fact: "The fifth night's supper at the Crook and Candle is roast pork with apples and black bread.",
@@ -114,50 +88,30 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "The sixth night's supper at the Crook and Candle is stew and bread.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-bet-harrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
     {
       fact: "At the Crook and Candle, supper is 3 copper and a bed under the eaves 8 a night.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-bet-harrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
     {
       fact: "At midday the Crook and Candle serves pease pottage with bread and a slab of ham, 2 copper.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-bet-harrow",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
     {
       fact: "The seventh night's supper at the Crook and Candle is beef and onion stew with black bread.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-bet-harrow",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
     {
       fact: "Hunters drinking at the Crook and Candle now and then have a glimmerstone to sell.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Day ten's supper at the Crook and Candle is stew and bread, 3 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-30T08:34:22.791Z",
-  updatedAt: "2026-10-03T11:23:46.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Place

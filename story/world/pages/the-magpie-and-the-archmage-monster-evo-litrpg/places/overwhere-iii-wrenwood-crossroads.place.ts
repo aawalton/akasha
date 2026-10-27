@@ -26,19 +26,19 @@ export const overwhereIiiWrenwoodCrossroads = {
   facts: [
     {
       fact: "Wrenwood Crossroads is where two packed-earth roads meet at the edge of an old beech wood.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A small roofed shrine of gray stone sits at the corner, with a worn carved figure inside.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A wooden signpost points north to a town whose walls show above the fields.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Magpies nest in the beeches at the wood's edge and chatter at anyone passing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The crossroads lies in a quiet region far from where the canon's people are.",
@@ -50,7 +50,7 @@ export const overwhereIiiWrenwoodCrossroads = {
     },
     {
       fact: "The beeches at the crossroads are turning gold.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The east road runs six miles to Applegarth and on, three days in all, to the city of Thornmere.",
@@ -78,27 +78,23 @@ export const overwhereIiiWrenwoodCrossroads = {
     },
     {
       fact: "The crossroads is thick with mana: faint currents run along both roads and meet at the shrine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The beeches' gold is dry dead leaves, and the air at the crossroads is winter-cold.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The crossroads shrine has a slate roof.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "Two mana currents run along the roads and meet at the shrine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The currents hold threads of every color; a few white-gold ones run where they cross at the shrine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "White-gold threads reach no more than a hundred paces from the shrine along either road.",
@@ -106,35 +102,35 @@ export const overwhereIiiWrenwoodCrossroads = {
     },
     {
       fact: "The crossroads shrine's stone is warm to sit against, even in the winter cold.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Resting within a hundred paces of the shrine, a holy mage's mana comes back twice as fast.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Resting against the shrine, white-gold threads drift to a holy mage and seep in, warm as sun.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Resting at the shrine eases a holy mage's bruises and aches too, as the white-gold seeps in.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "After dark the crossroads is empty and still, and the shrine's stone stays warm all night.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Within a hundred paces of the shrine, a holy weave can be fed wholly from white-gold current.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A weave fed wholly from white-gold current costs no mana of her own, but burns her hands: 1 health.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Feeding a weave from current alone is fiddly at first; a slip costs only the try. The knack stays.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Currents of other colors will not carry a holy weave alone; only white-gold will.",
@@ -147,5 +143,5 @@ export const overwhereIiiWrenwoodCrossroads = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:08:25.773Z",
-  updatedAt: "2026-10-02T21:49:56.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Place

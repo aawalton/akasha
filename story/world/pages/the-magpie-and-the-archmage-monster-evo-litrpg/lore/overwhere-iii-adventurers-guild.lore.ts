@@ -38,7 +38,7 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "Ranks run from Copper, the lowest, through Bronze, Silver and Gold up to Adamantite.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Quests are graded by rank, but a member may accept a quest of any rank.",
@@ -46,7 +46,7 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "A Guild Ring's metal shows its wearer's rank, and the ring resizes to fit any wearer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Rings resize because some members shift into animal forms or change size.",
@@ -78,7 +78,7 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "After twenty completed quests a member may take a rank advancement quest.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In Cyene the Bronze advancement quest is to 'defeat' the Cave Badger of Area F.",
@@ -86,7 +86,7 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "Bronze rings show monster names, rough levels and danger by nameplate color.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nameplates: white near your level; green, blue lower; yellow, orange, red, black higher.",
@@ -110,11 +110,7 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "Newcomers register temporarily, giving name, age, race, class, skills, traits and reason.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A temporary registrant may take only Copper quests; one completed quest earns the ring.",
@@ -206,38 +202,26 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "Board work is Guild work, and the Guild pays only its members, so a board job needs registering.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Temporary registration is free: a form and a card, and one job done earns the ring.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A registrant holds the pale signature card and pushes mana into it, and it shows what they have.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A failed quest costs only the Guild's regard; an abandoned one must be told at the desk.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A Copper ring shows its wearer's Guild Profile and quest windows, and nothing of beasts.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:34:30.732Z",
-  updatedAt: "2026-09-30T20:26:13.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

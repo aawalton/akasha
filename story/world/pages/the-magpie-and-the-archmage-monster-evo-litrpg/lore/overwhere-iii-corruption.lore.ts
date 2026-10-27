@@ -18,11 +18,7 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "A beast's first signs: black smoke from the mouth, sclera turning black, then hollow eye pits.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Corrupted flesh rots to black sludge, muscles bulge, and a dark aura and stench hang about it.",
@@ -42,19 +38,11 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Their bites fester, ooze black sludge and lay the Cursed affliction.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Corrupted beasts shrug off arrows and blows, but dodge magic; holy magic kills them fast.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Corrupted creatures hunger to absorb others and may merge into a single crawling mass.",
@@ -62,11 +50,7 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Corruption strikes the injured, the pained, the maddened and the grieving.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Corruption spreads by nearness: one corrupted beast makes others easier to turn.",
@@ -126,11 +110,7 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "When a corrupted creature dies, its ooze gathers into a blightstone, a corrupted glimmerstone.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Blightstones are black and menacing; touching one brings revulsion and despair.",
@@ -158,11 +138,7 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Enough Purify cracks a blightstone and it bursts into a clean glimmerstone.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Blightstones from stronger foes need more Purifies, yet each yields a single glimmerstone.",
@@ -246,7 +222,7 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Blight resists a holy thread: it bites cold up the thread into her hand, and the thread slips.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A Level 15 to 17 blightstone takes about eight Basic Cleansing Weaves to crack.",
@@ -258,15 +234,11 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "One Cleansing Weave left the stag's blightstone a clear shade paler.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "To Mana Weaver's sight a blightstone holds no glow, only a dark smear turned in on itself.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A blight wound must be cleansed before it will mend: Cleansing Weave first, then Mending Weave.",
@@ -286,91 +258,47 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Pulled blight comes up slowly from a wound and clots at its lip into a seed stone.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-brannagh-tull",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
     {
       fact: "Within an hour of cleansing, the purple around a bite pales at its edges to a yellow bruise.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-brannagh-tull",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
     {
       fact: "Three more Cleansing Weaves left the stag's blightstone near half gone to gray.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Eight Cleansing Weaves in all cracked the stag's blightstone into one clean glimmerstone.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Two Cleansing Weaves paled one of the wolf's blightstones two shades.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Two more Cleansing Weaves left the wolf's blightstone near half gray, four of about eight.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Four more Cleansing Weaves cracked the wolf's blightstone into one clean glimmerstone.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Four Cleansing Weaves left the stag's second blightstone half pale, about four from cracking.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Two looped weaves took the stag's second stone to seven of eight; one thin dark thread is left.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "One looped weave cracked the stag's second stone into a clean glimmerstone; Marda said 'Yours.'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Two looped weaves took the wolf's second stone to three of about eight.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A corrupted ridge fox of about Level 5 roams the hedges by the Thornmere road farms.",
@@ -378,6 +306,6 @@ export const overwhereIiiCorruption = {
     },
   ],
   secrets: "jsonl",
-  updatedAt: "2026-10-08T16:27:28.258Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
   createdAt: "2026-09-29T12:37:32.040Z",
 } as const satisfies Lore

@@ -18,22 +18,14 @@ export const overwhereIiiCalFenn = {
     },
     {
       fact: "He has been gone some seven weeks; he was last seen crossing the Wren Brook ford after the stag.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "The town searched ten days and gave him up for dead; only his brother Jory still looks.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:44:52.993Z",
-  updatedAt: "2026-09-30T08:45:05.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

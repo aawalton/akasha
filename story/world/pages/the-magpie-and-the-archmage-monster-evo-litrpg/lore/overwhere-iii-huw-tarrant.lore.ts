@@ -22,7 +22,6 @@ export const overwhereIiiHuwTarrant = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-huw-tarrant",
         "character-other/overwhere-iii-ivy-marsh",
-        "character-player/overwhere-iii-nala",
       ],
     },
     {
@@ -30,7 +29,6 @@ export const overwhereIiiHuwTarrant = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-huw-tarrant",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-ivy-marsh",
       ],
     },
@@ -40,7 +38,6 @@ export const overwhereIiiHuwTarrant = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-huw-tarrant",
         "character-other/overwhere-iii-ivy-marsh",
-        "character-player/overwhere-iii-nala",
       ],
     },
     {
@@ -49,7 +46,6 @@ export const overwhereIiiHuwTarrant = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-huw-tarrant",
         "character-other/overwhere-iii-ivy-marsh",
-        "character-player/overwhere-iii-nala",
       ],
     },
     {
@@ -58,10 +54,9 @@ export const overwhereIiiHuwTarrant = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-huw-tarrant",
         "character-other/overwhere-iii-ivy-marsh",
-        "character-player/overwhere-iii-nala",
       ],
     },
   ],
   createdAt: "2026-10-02T16:06:23.032Z",
-  updatedAt: "2026-10-02T16:13:50.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

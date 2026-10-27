@@ -10,11 +10,11 @@ export const overwhereIiiMotherSallow = {
   facts: [
     {
       fact: "Mother Sallow is a charcoal-burner living alone in a smoking hut by the Wren Brook.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She looks sixty, stooped and soot-grimed, with a kind soft voice and a gray shawl.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She came to the Wrenwood two winters ago; townsfolk buy her charcoal and like her.",
@@ -38,11 +38,7 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "She fights with blight bolts, a rot mist that saps strength, and two corrupted wolves at heel.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-mother-sallow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
     },
     {
       fact: "Her strongest working lands crushing force; her mage's shield wards six.",
@@ -66,15 +62,11 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "To Nala's Mana Weaver sight, the old charcoal-burner's aura is a sick violet-black.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Seeing Nala at her clearing, she said, 'Lost, love? There's nettle tea on, if you're cold.'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-mother-sallow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
     },
     {
       fact: "Unwarned and trusting her charm, she has no shield up; a first strike lands on her unwarded.",
@@ -86,19 +78,11 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "The first holy strike cracks her bone-ring charm; her true face, forty and hard, shows through.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-mother-sallow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
     },
     {
       fact: "Struck, she raises her shield, whistles up her wolves, and answers with blight bolts and rot mist.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-mother-sallow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
     },
     {
       fact: "Her two corrupted wolves are Level 16 and Level 18; one has a torn ear.",
@@ -106,7 +90,7 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "A holy pull tears at the blight in a blight mage's own well; it hurts her far worse than force.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She carries a ritual knife and the bone ring; at her death her hoard of 40 glimmerstones drops.",
@@ -130,7 +114,7 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "Her rot mist hangs over the clearing; inside it Nala's acts take two, as from pain.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Her crushing working is a crushing blow; she spends it once, when first brought under half health.",
@@ -154,19 +138,11 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "Two corrupted wolves came out of the lean-to at her whistle; one has a torn ear.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-mother-sallow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
     },
     {
       fact: "Her eyes, unmasked, are ringed in black.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-mother-sallow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
     },
     {
       fact: "The knot's burst boomed down the brook; she knows the noise will bring folk from the south road.",
@@ -181,7 +157,6 @@ export const overwhereIiiMotherSallow = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-mother-sallow",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-marda-hesk",
         "character-other/overwhere-iii-edda-crane",
       ],
@@ -198,7 +173,6 @@ export const overwhereIiiMotherSallow = {
       fact: "Nala saw her lift her hearthstone, take a stone and notes, and flee south over the brook.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-mother-sallow",
         "character-other/overwhere-iii-marda-hesk",
         "character-other/overwhere-iii-edda-crane",
@@ -206,17 +180,12 @@ export const overwhereIiiMotherSallow = {
     },
     {
       fact: "She struck Nala down with black force, then called off the wolves biting Nala's arm.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-mother-sallow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
     },
     {
       fact: "Sallow commanded the wolves and was corrupted; when Nala confronted her, her face changed.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-edda-crane",
         "character-other/overwhere-iii-marda-hesk",
       ],
@@ -224,5 +193,5 @@ export const overwhereIiiMotherSallow = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:43:52.941Z",
-  updatedAt: "2026-10-03T11:03:53.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

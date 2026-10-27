@@ -247,19 +247,11 @@ export const overwhereIiiMagic = {
     },
     {
       fact: "A mana card lit white-gold marks holy aptitude, rarest of all; the Wrenmark has no holy mage.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Holy magic heals, and it purifies, blight included.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A mana draught takes if 5 mana is poured into the pot, steady, through its night's steeping.",
@@ -276,5 +268,5 @@ export const overwhereIiiMagic = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:35:48.304Z",
-  updatedAt: "2026-09-30T22:54:18.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

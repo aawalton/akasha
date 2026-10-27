@@ -7,10 +7,10 @@ export const worldReputation = {
   definition: "how a people stand toward a character",
   pluralSlug: "reputations",
   extends: ["page-type/world-mechanic"],
-  parts: ["page-type/overwhere-iii-reputation"],
+  parts: [],
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-09-29T12:40:16.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies PageType

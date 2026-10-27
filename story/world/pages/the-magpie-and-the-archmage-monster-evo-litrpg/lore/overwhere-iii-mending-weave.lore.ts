@@ -10,11 +10,11 @@ export const overwhereIiiMendingWeave = {
   facts: [
     {
       fact: "Her first mending with a holy thread earns Mending Weave: [New skill acquired – Mending Weave.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "[Mending Weave – At [Basic] level, stitch holy current into a wound to close it slowly.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At Basic, one Mending Weave gives back about 5 health and closes one small wound.",
@@ -22,19 +22,15 @@ export const overwhereIiiMendingWeave = {
     },
     {
       fact: "Her first Mending Weave took near half an hour of restitching a slipping thread before it held.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A second Mending Weave over a puckered seam within two days smooths it to a clean, flat line.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-hild-wendle",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-hild-wendle"],
     },
     {
       fact: "An old, years-set scar takes three Mending Weaves to smooth; each flattens and pales it a little.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Each Mending Weave laid on a scar counts as a use of the skill.",
@@ -50,29 +46,21 @@ export const overwhereIiiMendingWeave = {
     },
     {
       fact: "A Mending Weave works on her own body as on anyone's; laid on her own burn, it closes it the same.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A shallow burn like a current scald is a small wound; one Mending Weave closes it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Her fifth telling use past Basic shows: [Mending Weave has advanced: Basic → Novice]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ten telling uses past Novice show: [Mending Weave has advanced: Novice → Adept]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-30T11:38:36.666Z",
-  updatedAt: "2026-10-03T01:34:35.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

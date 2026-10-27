@@ -50,11 +50,7 @@ export const overwhereIiiWrenmarkBeasts = {
     },
     {
       fact: "Corrupted beasts seen this winter: a boar of Level 14, a stag of Level 17, a wolf of Level 15.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Bandits are rare in the Wrenmark; the hill passes see a gang or two each summer.",
@@ -62,11 +58,11 @@ export const overwhereIiiWrenmarkBeasts = {
     },
     {
       fact: "A jackalope's glow gathers at its antlers a breath before it lunges to butt and bite.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A jackalope's one glimmerstone sits at the base of its antlers.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A Level 3 jackalope has 9 health and no ward; its soft fur turns nothing.",
@@ -78,15 +74,11 @@ export const overwhereIiiWrenmarkBeasts = {
     },
     {
       fact: "Three corrupted beasts reached Merrowgate's fields this winter; it used to be one a year, if that.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "When one of a jackalope pair is struck, the other charges rather than flees.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Out in the open, off its roots, a jackalope has no cover to dart behind.",
@@ -94,17 +86,13 @@ export const overwhereIiiWrenmarkBeasts = {
     },
     {
       fact: "A Level 2 jackalope's glimmerstone is the size of a small pea, fainter than a Level 3's.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Digging a glimmerstone from a jackalope's antler base is plain knife work, a minute or two.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-dunstan-harrow",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-dunstan-harrow"],
     },
   ],
   createdAt: "2026-09-29T12:45:22.958Z",
-  updatedAt: "2026-09-30T17:13:50.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

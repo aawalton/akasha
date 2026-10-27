@@ -16,167 +16,111 @@ export const overwhereIiiMerrowgateGuildPost = {
   facts: [
     {
       fact: "The Guild post is the squat old tollhouse inside the south gate, with a notice board by its door.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Inside is one room: a desk, a bench, a stove, a long sword on the wall, and a stair up.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "It opens at the dawn bell and shuts at the dusk bell; Marda Hesk is at the desk all day.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Temporary registration is free: a form, and a mana signature card to light.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The form asks name, age, race, class, skills and traits, and reason for joining.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A temporary registrant may take Copper quests; one quest done earns the Guild ring.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Board: rats in the Carrow wool store, 30 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Board: twenty frostcap mushrooms from the Wrenwood's edge, 20 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Board: guard the salt wagon to Applegarth and back, 40 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Board: a blighted boar seen by the south road; kill it, 1 silver 50 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Board: the blight bounty, a silver a stone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Board, in a rough hand: any word of Cal Fenn, to Jory Fenn; he pays what he has.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The post keeps a box of old gear; Marda lends a new registrant a plain knife, to be returned.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A Guild mana signature card is light, smooth and cool, like polished wood.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bounty blightstones sit in a lead-lined box under the desk until the Thornmere wagon takes them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At turn-in Marda counts the goods, pays from the desk's strongbox, and lights the card to log it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Marda keeps unclaimed Copper Guild rings in a tin in the desk drawer.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The post buys no carcasses; Marda sends hunters to Dunstan, the Crook and Candle's cook.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A Copper Guild ring sizes itself to the finger of whoever wears it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The post's box of old gear holds a pair of worn boots near Nala's size.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The lead box is empty; Nala has cracked every stone it held.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Marda would let Nala try on one blightstone, lifted out with tongs, at the desk under her eye.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Marda would let Nala keep the glimmerstone from any blightstone she cleans.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The currents inside the post are thin threads of blue and yellow, with no white-gold.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Marda keeps any blightstone Nala has paled apart in the lead box, for her to come back to.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Marda will not send a blightstone Nala has paled to Thornmere.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Brannagh posts the frostcap job again each market day; this week's is filled.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Nala's first dead rabbit lies on the floor inside the post's door, by the gear box.",
@@ -184,23 +128,15 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "Nala took her first dead rabbit back from the floor by the gear box; it is no longer there.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The post buys only what a posted job asks; Marda sends spare goods on to the buyer.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Board, new this morning: a basket of snowroot from the Wren Brook banks, for Brannagh, 15 copper.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The bounty counts a seed stone from a wound as a tenth of a blightstone: 10 copper.",
@@ -212,43 +148,27 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The post keeps two books behind the desk: a Wrenmark beast guide and the Guild's book of rules.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Marda lends the post's books to ringed adventurers to read at the side bench, never to take away.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The beast guide lists Wrenmark beasts by level, with weak spots, bounties and which parts sell.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The rules book covers Guild ranks, quest terms, the bounty table, and what a ring does.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The beast guide opens on small game: jackalope, snow hare, frost toad, ridge fox, each sketched.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The guide's blight page, new-inked by Marda, says corrupted beasts drop blightstones; burn the dead.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Reading both Guild books through at the side bench takes an afternoon, till about half past four.",
@@ -256,23 +176,15 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The Guild bounty table: a blightstone 1 silver, a seed stone 10 copper, a Wrenmark wolf 20 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Thornmere wagon calls for the lead box at each new moon; the next is twelve days off.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "No blightstones are left in Merrowgate; more come only from new kills.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The wolf's stones were paid their bounty when brought in; cracking a stone earns no bounty.",
@@ -280,63 +192,35 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The Guild post buys and sells no glimmerstones; Marda holds none to sell.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Day 10 word at the post: the blighted boar's track crossed the south road by Edda Crane's clearing.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Day 10 word at the post: a woodcutter found a deer by the Wren Brook, hide rotted to black sludge.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Day ten's night at the post passes quiet; the watch's boots pass the door each hour.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The free room upstairs is narrow: a cot, two wool blankets, a peg, a shutter over the gate street.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Nala took Marda's free room upstairs for day ten's night, glad to save the coin.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The post pays the blightstone bounty, 1 silver, on a small blightstone, part-paled or not.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "On day 11 Nala handed Marda three part-pale small blightstones and was paid 3 silver.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The boar job pays on the boar's tusks brought to the desk, blight or none.",
@@ -345,5 +229,5 @@ export const overwhereIiiMerrowgateGuildPost = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-30T09:03:27.286Z",
-  updatedAt: "2026-10-03T13:26:04.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Place

@@ -34,50 +34,36 @@ export const overwhereIiiPipCarrow = {
     },
     {
       fact: "Mid-afternoon Pip slips into the post, finds the healer reading, and sits down to ask about magic.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-pip-carrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-pip-carrow"],
     },
     {
       fact: "Pip carries word from Brannagh: a carter's dog-bitten wife is coming to the shop at the dusk bell.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-pip-carrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-pip-carrow"],
     },
     {
       fact: "Brannagh's messenger is a quick girl of about twelve with a gap-toothed grin.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Told the healer doesn't know how her magic works, Pip swears to find out first and tell only her.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-pip-carrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-pip-carrow"],
     },
     {
       fact: "Pip gives her name proudly: Pip Carrow, the reeve's daughter, and asks the healer's in return.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-pip-carrow",
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
     {
       fact: "To Nala's sight, the post's thin currents lean toward Pip, as if she drew them without knowing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Pip stays at the healer's elbow reading along until Marda sends her home at half past four.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-pip-carrow",
         "character-other/overwhere-iii-marda-hesk",
       ],
@@ -86,7 +72,6 @@ export const overwhereIiiPipCarrow = {
       fact: "Asked the healer's name, Pip gets it from Marda at the desk: Nala.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-pip-carrow",
         "character-other/overwhere-iii-marda-hesk",
       ],
@@ -96,12 +81,11 @@ export const overwhereIiiPipCarrow = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-pip-carrow",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:42:44.902Z",
-  updatedAt: "2026-09-30T22:42:38.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

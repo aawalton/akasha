@@ -86,27 +86,15 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Foes at or above one's level give the most experience; far weaker foes give little or none.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Party members share quests and experience; a Party Profile lists each one's health and mana.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Support classes gain less from kills they aided; healers and crafters gain by their own work.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Much-seen beings wear a nameplate such as [Kobold – Level 5]; humans show by class, [Human Warrior].",
@@ -114,19 +102,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Nameplate colors: green is far weaker and worth no experience; white is near one's own level.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Yellow and orange nameplates are stronger foes; light pink, a higher tier; red, deadly.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Black nameplates belong only to dungeon masters and the guardians of regions.",
@@ -138,27 +118,15 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Skills are active powers; traits are passive: senses, resistances, body, Inventory.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Skills and traits each fill slots shown as (x/10); higher evolutions raise the cap to 12 or 14.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "With slots full a new skill must replace an old one, and a removed skill can never be relearned.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Skill and trait levels rise Basic, Novice, Adept, Expert, Legend; Innate marks a natural peak.",
@@ -170,11 +138,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "At Legend a skill reaches maximum potential and may be upgraded to Rank 2 for 100 glimmerstones.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A Rank 2 upgrade offers three or four variants, of which one is chosen.",
@@ -190,11 +154,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Two skills or two traits of like level may be fused for good; skills never fuse with traits.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A fusion is irreversible and shows its success rate; using the pair together in battle raises it.",
@@ -218,11 +178,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Skills come from repeated deeds, from teaching, from the skill shop, and in times of great need.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A skill won by use reads [New skill acquired – Peck.] or [You've unlocked a new skill <Rend>.]",
@@ -246,11 +202,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Class advancement is a human's evolution, done at the Guild with a special stone, first at Level 10.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Class advancement brings no new form, only new skills; the ten levels after it come easily.",
@@ -266,11 +218,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Nearly all humanoid adventurers have an Inventory; monsters are not meant to.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Food never spoils in an Inventory, and no one can steal from another's.",
@@ -302,11 +250,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Spells are bought from the System's skill shop with glimmerstones, the same as any skill.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "Hard bodily training on three separate days wins a body skill at Basic; one morning wins none.",
@@ -314,46 +258,30 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Traits come at birth, from long hard use of a sense or the body, or from the skill shop.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The Inventory trait sells in the skill shop for 3 glimmerstones; most adventurers buy it first.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "At Basic an Inventory holds about a full knapsack's worth; each rank holds more.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Buying Inventory shows: [New trait acquired – Inventory.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "[Inventory – At [Basic] level, keep a knapsack's worth in a pocket bound to you.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Appraise sells in the skill shop for 5 glimmerstones.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:34:13.588Z",
-  updatedAt: "2026-10-02T21:28:57.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

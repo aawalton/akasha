@@ -10,29 +10,29 @@ export const overwhereIiiCurrentFeed = {
   facts: [
     {
       fact: "Her first holy weave fed cleanly from white-gold alone earns: [New skill acquired – Current Feed.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "[Current Feed – At [Basic] level, feed a holy weave from white-gold current, not your own well.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A fed weave reads own 0 and spends none of her mana; the raw current's burn costs her 1 health.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Her fifth fed weave shows: [Current Feed has advanced: Basic → Novice]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the shrine a fed Mending Weave gives back more than its burn costs, so it nets her health.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ten fed weaves past Novice show: [Current Feed has advanced: Novice → Adept]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T21:34:51.789Z",
-  updatedAt: "2026-10-03T01:34:34.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

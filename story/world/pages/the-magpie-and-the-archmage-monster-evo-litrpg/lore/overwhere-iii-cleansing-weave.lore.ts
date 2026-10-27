@@ -10,11 +10,11 @@ export const overwhereIiiCleansingWeave = {
   facts: [
     {
       fact: "Her first holy thread through blight earns: [New skill acquired – Cleansing Weave.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "[Cleansing Weave – At [Basic] level, draw holy current through blight to unpick it.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Cleansing Weave is not Purify; Purify stays in her skill shop at 15 glimmerstones.",
@@ -32,30 +32,25 @@ export const overwhereIiiCleansingWeave = {
       fact: "Blight pulled from living flesh clots at the wound's lip into a seed stone, black and seed-sized.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-brannagh-tull",
         "character-other/overwhere-iii-edda-crane",
       ],
     },
     {
       fact: "Each pull sends a cold ache up the thread into her arm, and costs her 1 health.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A seed stone from a bite cracks with one Cleansing Weave into a glimmer speck.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "To Nala's sight a seed stone is a tight knot of black current, a pinprick of pale light at its core.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ten glimmer specks pressed together in a bare palm fuse into one whole glimmerstone.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Each seed stone cracked with a Cleansing Weave counts as a use of the skill.",
@@ -63,7 +58,7 @@ export const overwhereIiiCleansingWeave = {
     },
     {
       fact: "The turned snap-back bites the blight too: a looped weave pales a blightstone half again as much.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Closing a weave in a loop is fiddly; a first try may lose the loop and run plain.",
@@ -71,15 +66,15 @@ export const overwhereIiiCleansingWeave = {
     },
     {
       fact: "A Cleansing Weave closed in a loop turns its snap-back into the stone, not up the arm.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Once a loop has held cleanly, the knack stays; later looped weaves close as easily as plain ones.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala closed her Cleansing Weave in a loop on her first try, and has the knack now.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A Cleansing Weave can pull blight from a living corrupted beast, as from a bite, while it fights.",
@@ -107,21 +102,21 @@ export const overwhereIiiCleansingWeave = {
     },
     {
       fact: "Her fifth telling use past Basic shows: [Cleansing Weave has advanced: Basic → Novice]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Blight in a fresh carcass pulls out like a bite's and clots into a seed stone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She can pull blight from her own wounds as from anyone's, at the same cost as any pull.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ten telling uses past Novice show: [Cleansing Weave has advanced: Novice → Adept]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-09-30T11:35:15.220Z",
-  updatedAt: "2026-10-03T11:58:01.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

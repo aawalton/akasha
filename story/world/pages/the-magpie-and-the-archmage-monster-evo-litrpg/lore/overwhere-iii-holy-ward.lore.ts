@@ -10,7 +10,7 @@ export const overwhereIiiHolyWard = {
   facts: [
     {
       fact: "Practicing at the shrine, the first new shape white-gold takes for her is a close ward.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Finding a new weave in an afternoon's practice is a standard action check.",
@@ -18,7 +18,7 @@ export const overwhereIiiHolyWard = {
     },
     {
       fact: "A Holy Ward lies over her skin as a faint white-gold shimmer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A Holy Ward costs 3 mana, or is fed free from white-gold current near the shrine.",
@@ -38,13 +38,13 @@ export const overwhereIiiHolyWard = {
     },
     {
       fact: "Her first Holy Ward that holds earns: [New skill acquired – Holy Ward.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "[Holy Ward – At [Basic] level, weave white-gold close over yourself to turn blows and blight.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-03T12:40:51.662Z",
-  updatedAt: "2026-10-03T12:47:01.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

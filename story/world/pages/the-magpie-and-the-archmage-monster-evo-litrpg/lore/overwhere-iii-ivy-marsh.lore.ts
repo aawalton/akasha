@@ -10,7 +10,7 @@ export const overwhereIiiIvyMarsh = {
   facts: [
     {
       fact: "Ivy Marsh is about forty, thin and wiry, with black hair gone gray at the temples.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "She is a drover's widow, a Common of Level 9, who drives her late husband's cattle herself.",
@@ -18,19 +18,11 @@ export const overwhereIiiIvyMarsh = {
     },
     {
       fact: "The boar's bite is across the back of her left hand, bound in a rag gone black.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-ivy-marsh",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
     },
     {
       fact: "Purple patches have crept from her hand halfway to her elbow.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-ivy-marsh",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
     },
     {
       fact: "She is proud and hates being tended, and jokes through the pain.",
@@ -42,17 +34,12 @@ export const overwhereIiiIvyMarsh = {
     },
     {
       fact: "She greets a stranger come to heal her with a dry joke: 'Come to take the hand off, then?'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-ivy-marsh",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
     },
     {
       fact: "Nala's first pull at Ivy's bite slipped; her second drew half the blight out.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-ivy-marsh",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -62,7 +49,6 @@ export const overwhereIiiIvyMarsh = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-ivy-marsh",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
@@ -71,7 +57,6 @@ export const overwhereIiiIvyMarsh = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-ivy-marsh",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
@@ -79,21 +64,19 @@ export const overwhereIiiIvyMarsh = {
       fact: "Nala drew the last of the blight from Ivy's hand and closed the bite to a clean pink seam.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-ivy-marsh",
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
     {
       fact: "The morning her bite was closed, the purple on Ivy's arm paled at its edges to a yellow bruise.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Afternoons Ivy works her herd at the east gate pens, her hand mended, with Huw Tarrant as her hand.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-ivy-marsh",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-huw-tarrant",
       ],
     },
@@ -103,10 +86,9 @@ export const overwhereIiiIvyMarsh = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-ivy-marsh",
         "character-other/overwhere-iii-huw-tarrant",
-        "character-player/overwhere-iii-nala",
       ],
     },
   ],
   createdAt: "2026-09-30T17:54:01.149Z",
-  updatedAt: "2026-10-02T16:13:50.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

@@ -10,11 +10,7 @@ export const overwhereIiiCobFerrow = {
   facts: [
     {
       fact: "Cob Ferrow is sixteen, gangly and freckled, and smells of the tannery's lime pits.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-brannagh-tull",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
     {
       fact: "He is a Common, a Tanner's apprentice of Level 3, cocky with other lads and shy with women.",
@@ -29,7 +25,6 @@ export const overwhereIiiCobFerrow = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-cob-ferrow",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
@@ -37,7 +32,6 @@ export const overwhereIiiCobFerrow = {
       fact: "One pull clears Cob's scratch; it is shallow enough to close by itself without a Mending Weave.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-cob-ferrow",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -46,7 +40,6 @@ export const overwhereIiiCobFerrow = {
       fact: "Cob slouches into Brannagh's just after the noon bell, sleeve rolled, trying to look bored.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-cob-ferrow",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -55,20 +48,15 @@ export const overwhereIiiCobFerrow = {
       fact: "A rat in the tannery yard left Cob a thin scratch across his forearm, gone gray with blight.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-cob-ferrow",
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
     {
       fact: "Cob could not look at Nala, and once he had paid her he left fast, his ears red.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-cob-ferrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-cob-ferrow"],
     },
   ],
   createdAt: "2026-09-30T19:45:05.715Z",
-  updatedAt: "2026-09-30T19:52:17.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

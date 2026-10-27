@@ -13,7 +13,6 @@ export const overwhereIiiNightOrder = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-edda-crane",
       ],
     },
@@ -58,7 +57,6 @@ export const overwhereIiiNightOrder = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-edda-crane",
       ],
     },
@@ -113,5 +111,5 @@ export const overwhereIiiNightOrder = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:35:22.815Z",
-  updatedAt: "2026-10-03T02:01:57.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

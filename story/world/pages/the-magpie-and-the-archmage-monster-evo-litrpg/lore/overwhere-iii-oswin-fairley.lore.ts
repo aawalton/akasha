@@ -10,11 +10,7 @@ export const overwhereIiiOswinFairley = {
   facts: [
     {
       fact: "The bitten lad's father is Oswin Fairley, forty, stocky and red-faced, slow to speak.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-oswin-fairley",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
     {
       fact: "Oswin is a Common, a Farmer of Level 8, and keeps hens, two cows and barley on his farm.",
@@ -26,37 +22,21 @@ export const overwhereIiiOswinFairley = {
     },
     {
       fact: "Seeing the fox die a stride short of him, Oswin said only, 'Gods.'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-oswin-fairley",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
     {
       fact: "Oswin presses 5 copper on Nala for the fox's tail, the farmers' due, and a dozen eggs in a cloth.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-oswin-fairley",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
     {
       fact: "Oswin flicks the fox's stone with his stick into an old leather pouch, and gives Nala the pouch.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-oswin-fairley",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
     {
       fact: "Oswin tells Nala she'll never pay for an egg or a bed at Fairley Farm, and means it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-oswin-fairley",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
   ],
   createdAt: "2026-10-02T18:14:16.590Z",
-  updatedAt: "2026-10-02T19:53:55.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

@@ -54,7 +54,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "This winter three corrupted beasts reached the fields, where a year used to see one.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A treant the townsfolk call Old Greyhand lives in the deep wood, and they leave it be.",
@@ -62,7 +62,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "Charcoal-burners work clearings along the south road; one hut by the Wren Brook still smokes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Cal Fenn, a young hunter, went into the deep wood at midwinter and has not come back.",
@@ -70,35 +70,19 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "Frostcaps grow only in frost, on the north side of old beech roots along the wood's edge.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A careful picker finds twenty frostcaps in two or three hours on the paths near the crossroads.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Gravecap looks like frostcap but is grayer and smells of wet ash; eaten, it sickens for days.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A frostcap pulled by the stem bruises gray and is worthless; it must be cut at the root.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Brannagh Tull buys frostcaps for her fever tea and chilblain salve, a copper apiece.",
@@ -106,23 +90,15 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "A blighted boar has been seen along the south road under the wood's edge.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The blight in the Wrenwood is getting worse.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Frostcaps cluster where a mana current brushes old beech roots, so the currents lead to them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Following the currents, a picker who sees them finds twenty good frostcaps in about an hour.",
@@ -130,7 +106,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "A few gravecaps grow among the frostcaps along the edge path west of the shrine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "This morning a Level 3 jackalope feeds among the roots west of the shrine; it bites if cornered.",
@@ -138,67 +114,63 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "An antlered gray-brown rabbit with a small glow feeds under a huge old beech west of the shrine.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's Current Lash tore most of the big frostcap cluster under the huge old beech bruised gray.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Cornered in the old beech's roots, the antlered rabbit fights rather than runs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The antlered rabbit under the old beech is hurt, with a shallow knife cut along its jaw.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's aimed Current Lash killed the antlered rabbit under the old beech in one blow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Four frostcaps under the old beech's root are still whole, glowing cold.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The dead rabbit's glow drained into the current, all but a faint spot at the base of its antlers.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala cut a small glowing glimmerstone from the base of the dead antlered rabbit's antlers.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The currents under the old beech hold blue, green and dull yellow threads, but no white-gold.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A blue current runs on west to a lightning-split beech with three frostcaps and one gravecap.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The split beech is a quarter hour's walk from the old beech along that current.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "One good frostcap and the gravecap are left standing at the split beech.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Brannagh Tull takes up to forty more frostcaps this week at her shop, straight for a copper each.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "By afternoon frost holds only in north-side shade, and the frostcaps there stay firm and good.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Past the split beech the blue current brushes a dozen more beech roots on its way to the Wren Brook.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Along that stretch a picker who sees currents finds twenty good frostcaps in about two hours.",
@@ -210,35 +182,35 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "Two antlered rabbits, each with a small glow, graze the frosted roots by the brook this afternoon.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Frost lies thick on a row of big beech roots by the Wren Brook, with frostcaps glowing there.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "By the Wren Brook the blue current runs thick beside the water's own, and lends a working well.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala's one Current Lash by the brook killed both antlered rabbits in the open.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The lash's end bruised three brookside frostcaps gray; enough good ones stand for five more.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Two dead antlered rabbits lie by the Wren Brook, each with a faint glow at the base of its antlers.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Eight good frostcaps stand on the brookside roots after the three bruised: her five and three spare.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala cut all eight good frostcaps off the brookside roots; none good are left there.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Snowroot is a white finger-thick root under frost-browned leaves on the Wren Brook banks.",
@@ -246,15 +218,11 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "The blighted boar, Level 14, roams the wood's edge between the south road and the Wren Brook ford.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The rotted deer lies on the Wren Brook's north bank, about three hundred paces below the ford.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The deer's wolf thread runs up the brook half a mile to the smoking charcoal hut's clearing.",
@@ -262,46 +230,42 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "On the shingle no print holds; a sharp eye finds wet claw scrapes and black-matted fur on a bramble.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Downstream and on the north bank there is no sign; the brook between is stony shallows.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The wolves walked up the brook bed and left it on the shingle at the charcoal hut clearing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The wolves' claw scrapes lead past the charcoal mound toward a brush lean-to behind the hut.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A stooped old woman lives in the smoking charcoal hut by the Wren Brook.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The charcoal hut's clearing lies half a mile up the Wren Brook from the dead deer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The black-matted wolf fur on the bramble by the charcoal hut clearing stinks of rot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Day 12 word at the south green: a woodcutter heard the blighted boar in brambles above the ford.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-tam-rowe",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Raw currents run thick along the Wren Brook above the ford, blue, green and yellow, enough to knot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:28:15.055Z",
-  updatedAt: "2026-10-03T13:32:19.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Place

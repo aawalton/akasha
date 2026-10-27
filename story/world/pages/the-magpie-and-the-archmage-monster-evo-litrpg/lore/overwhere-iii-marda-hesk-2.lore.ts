@@ -10,90 +10,49 @@ export const overwhereIiiMardaHesk2 = {
   facts: [
     {
       fact: "Nala pressed the specks from Marda's seed stones into her own glimmerstone.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Of the wolf's glimmerstone, Marda said: 'Yours. As I said. That's the last of what I was holding.'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Marda held out her palm to Nala: 'And my six seed stones?'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Marda wants no coin for cracked seed stones: the bounty buys blight unmade; the cleanser keeps it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Marda's ledger: 'Six seed stones and the wolf's. Since noon.'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Seeing Nala's raw pink palms, Marda asked, 'And what did that to your palms?'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Turning Nala's palm to the light, Marda said, 'Hm. Burned clean, at least.' and 'Suit yourself.'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Watching Nala mend her own palms, Marda said, 'Huh. Didn't know you could do that on yourself.'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Giving the day 10 leads, Marda said, 'Small blight first, I'd say. But it's your hunt.'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Nala took the deer first; Marda said it lies on the Wren Brook's north bank, below the ford.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Told of a false-faced blight woman with wolves, Marda names the Night Order rumor aloud, grim.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-edda-crane",
       ],
     },
@@ -102,7 +61,6 @@ export const overwhereIiiMardaHesk2 = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-edda-crane",
       ],
     },
@@ -111,7 +69,6 @@ export const overwhereIiiMardaHesk2 = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-edda-crane",
       ],
     },
@@ -119,7 +76,6 @@ export const overwhereIiiMardaHesk2 = {
       fact: "Marda asked Nala of the false-faced woman, 'Where did she go?'",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-marda-hesk",
         "character-other/overwhere-iii-edda-crane",
       ],
@@ -129,7 +85,6 @@ export const overwhereIiiMardaHesk2 = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-edda-crane",
       ],
     },
@@ -138,7 +93,6 @@ export const overwhereIiiMardaHesk2 = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-edda-crane",
       ],
     },
@@ -147,7 +101,6 @@ export const overwhereIiiMardaHesk2 = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-edda-crane",
       ],
     },
@@ -156,33 +109,20 @@ export const overwhereIiiMardaHesk2 = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-edda-crane",
       ],
     },
     {
       fact: "Marda's rider left for Thornmere at dawn on day eleven, out the east gate.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Seeing Nala's three part-pale blightstones, Marda's brows rose; she asked 'Where'd these come from?'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Marda's ledger, day 11: 'Kiln jackalopes, three.'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Marda counts the Wren Brook ford as wood's edge, outside her ban; the brook path above it is not.",
@@ -190,5 +130,5 @@ export const overwhereIiiMardaHesk2 = {
     },
   ],
   createdAt: "2026-10-02T21:59:30.619Z",
-  updatedAt: "2026-10-03T12:56:21.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

@@ -10,19 +10,19 @@ export const overwhereIiiCurrentLash = {
   facts: [
     {
       fact: "Her first shaping of raw current into force earns the skill Current Lash from the System.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Earning it shows: [New skill acquired – Current Lash.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "[Current Lash – At [Basic] level, loose raw current as a lash, a shove or a ward.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Her first Current Lash loosed far more force than she meant to put in it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A Current Lash thrown with all a Legend Mana Weaver's lending can kill a small beast outright.",
@@ -30,5 +30,5 @@ export const overwhereIiiCurrentLash = {
     },
   ],
   createdAt: "2026-09-30T11:38:36.666Z",
-  updatedAt: "2026-10-02T18:42:03.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

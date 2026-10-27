@@ -10,7 +10,7 @@ export const overwhereIiiGarrickDole = {
   facts: [
     {
       fact: "Garrick Dole is about sixty, big and white-bearded, a hill shepherd gone gaunt in bed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He is a Common, a Herder of Level 14, slow of speech and patient as his sheep.",
@@ -18,11 +18,7 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "The wolf's bite is on his right calf; purple has crept from it past his knee.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-garrick-dole",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-garrick-dole"],
     },
     {
       fact: "He sleeps most of the day now, and wakes muddled for a breath before his head clears.",
@@ -30,15 +26,11 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "The wolf's blight sits deeper than the boar's, and the first pull on it bites hardest.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Garrick lets anyone Brannagh brings tend him, and thanks them slowly and gravely.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-garrick-dole",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-garrick-dole"],
     },
     {
       fact: "The wolf's bite, a week older and deeper, takes three pulls to clear where Ivy's takes two.",
@@ -46,17 +38,12 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "Roused, he looks at a stranger healer a long moment and says only, 'Go on, then, lass.'",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-garrick-dole",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-garrick-dole"],
     },
     {
       fact: "Nala's first pull at Garrick's bite drew about a third of the blight out.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-garrick-dole",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -65,7 +52,6 @@ export const overwhereIiiGarrickDole = {
       fact: "By late morning Garrick is awake and sitting up for broth; the purple has drawn back to his knee.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-garrick-dole",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -74,7 +60,6 @@ export const overwhereIiiGarrickDole = {
       fact: "A second pull on Garrick's bite draws another third; the purple shrinks to a hand round the bite.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-garrick-dole",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -83,7 +68,6 @@ export const overwhereIiiGarrickDole = {
       fact: "Clear-headed now, Garrick asks his healer's name, and says slowly that he owes her.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-garrick-dole",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -92,7 +76,6 @@ export const overwhereIiiGarrickDole = {
       fact: "Once clean, Garrick means to give his healer a fleece-lined sheepskin coat off his farm.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-garrick-dole",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -101,7 +84,6 @@ export const overwhereIiiGarrickDole = {
       fact: "A third pull clears Garrick's bite, and a Mending Weave closes it to a long pink seam.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-garrick-dole",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -110,12 +92,11 @@ export const overwhereIiiGarrickDole = {
       fact: "Garrick's son Aled comes down from the farm on market day, and will bring the sheepskin coat.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-garrick-dole",
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
   ],
   createdAt: "2026-09-30T17:54:01.148Z",
-  updatedAt: "2026-09-30T19:27:41.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

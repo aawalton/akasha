@@ -10,53 +10,49 @@ export const overwhereIiiWrenmarkBeastGuide = {
   facts: [
     {
       fact: "Jackalope, Level 1-4: strike behind the antlers. Meat 5 copper to Dunstan; antlers 2 a pair.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Snow hare, Level 1-2: flees at a footfall; snare it. Pelt 1 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Frost toad, Level 2-5: spits a numbing cold; strike the pale belly. Skin 3 copper to herbalists.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ridge fox, Level 3-6: clever, raids coops; farmers pay 5 copper a tail. Winter pelt 8 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Tree devourer beetle, Level 5-9: strike the soft joint under the head. Shell plates 10 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Thornwing owl, Level 6-10: hunts by night and throws quills. Fletchers pay 1 copper a quill.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wolf, Level 6-12: runs in packs of four to eight. Pelt 15 copper; this winter's bounty 20 a head.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Giantmaw hyena, Level 12-18, deep wood only: 'Do not.' Bounty 1 silver a head.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In Marda's hand beside the jackalope: 'Antler ground fine goes in Brannagh's mana draught.'",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hill boar, Level 4-8: charges head-down; step aside and strike the flank. Meat and tusks 12 copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Marda's fresh blight page: corrupted beasts drop blightstones. Burn the dead.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
   ],
   createdAt: "2026-09-30T20:20:35.563Z",
-  updatedAt: "2026-09-30T20:46:46.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

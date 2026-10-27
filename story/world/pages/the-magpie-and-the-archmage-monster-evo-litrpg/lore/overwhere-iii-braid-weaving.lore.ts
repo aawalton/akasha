@@ -18,7 +18,7 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "A braided weave costs only the weave's own mana; the lent current carries it for nothing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A first braid is fiddly like a first loop; a slip unravels it and its mana is spent.",
@@ -26,19 +26,19 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "A loop closes inside a braid as it does by hand, and works the same.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Her first braid that holds cleanly earns: [New skill acquired – Braid Weaving.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "[Braid Weaving – At [Basic] level, ride a weave out along a lent current.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Once a braid has held cleanly, the knack stays; later braids close as easily as plain weaves.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A braid that holds and lands counts as holding cleanly, even if its snap-back stings her.",
@@ -46,11 +46,11 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "An unlooped braided pull snaps back down the lent current into her, as a plain weave does.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Two of her own weaves braid into one: a Current Lash braided with a pull strikes and draws at once.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A braid of two weaves costs both weaves' mana.",
@@ -62,21 +62,21 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "Braided onto a lent current, a looped weave pales a blightstone twice what a plain weave does.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A braided lash swept across foes bunched within two paces strikes each of them.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Swept across several, the pull strand draws one pull's worth from each, not the pinned double.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A sweeping braid costs both weaves' mana once, however many it strikes.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-02T18:28:53.799Z",
-  updatedAt: "2026-10-03T11:45:22.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

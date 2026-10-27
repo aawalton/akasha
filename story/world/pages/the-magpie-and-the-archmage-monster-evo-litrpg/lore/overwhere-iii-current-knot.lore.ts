@@ -10,11 +10,11 @@ export const overwhereIiiCurrentKnot = {
   facts: [
     {
       fact: "A Legend Mana Weaver can drag every raw current within reach into one knot at a chosen spot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Clashing colors knotted with no weave's shape fight each other and burst.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The burst strikes as a crushing blow at the knot's heart, and heavy within five paces of it.",
@@ -22,23 +22,19 @@ export const overwhereIiiCurrentKnot = {
     },
     {
       fact: "A knot costs none of her own mana; the currents are raw, not lent into a weave.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A knot tied on a mage's shield tears the shield's weave apart as it bursts.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-mother-sallow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-mother-sallow"],
     },
     {
       fact: "The burst blows any mist or working hung on the currents away with it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Knotted currents fight her grip; holding the knot strains her, as a pull past the lending does.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Spent currents come back thin; a second knot in the same spot within the hour is barely a pop.",
@@ -46,17 +42,17 @@ export const overwhereIiiCurrentKnot = {
     },
     {
       fact: "Her first knot that bursts earns: [New skill acquired – Current Knot.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "[Current Knot – At [Basic] level, knot raw currents together until they burst.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A knot dragged onto a charging beast lags behind it, and can tear loose unburst.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-03T01:11:13.679Z",
-  updatedAt: "2026-10-03T13:32:21.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

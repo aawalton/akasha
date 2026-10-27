@@ -1,6 +1,5 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/skills/character-skill/character-skill.page-type.ts","id":"01a10362-0c7c-73f8-a241-d557905e128b"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/tower-skill.page-type.ts","id":"01a0de18-0b70-753b-98c7-6ffd7532c175"}
-{"propertySlug":"extends-type","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/skills/overwhere-iii-skill.page-type.ts","id":"01a0ed2d-2c5c-78f6-9786-69d8cab391e1"}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
@@ -137,7 +136,6 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/skills/overwhere-iii-purify.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/skills/overwhere-iii-spark.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/skills/overwhere-iii-staff-fighting.world-skill.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/skills/overwhere-iii-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/a-bottle-a-day-ink.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/a-bullet-a-day-armor-piercing-round.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/a-crack-in-morality.world-skill.ts","typed":true,"deferred":false}
@@ -4704,6 +4702,5 @@
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/skills/character-skill/properties/held-skill.relation-property.ts","id":"01a10362-0c7c-7e04-9df8-e6bff42d988e"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-skill.relation-property.ts","id":"01a0de38-6904-7a1f-9e70-06ff4082bec7"}
-{"propertySlug":"target-page-type","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/skills/properties/overwhere-iii-skill-skill.relation-property.ts","id":"01a0ed2d-2c5e-7d1d-9915-41c2d22b35db"}
 {"propertySlug":"view-page-type","path":"page/view/pages/skills-alphabetical.view.ts","id":"01a0c954-1289-70ab-9473-94b0ce50f4b5"}
 {"propertySlug":"view-page-type","path":"page/view/pages/skills-most-seen.view.ts","id":"01a0c954-126b-7843-9cc6-4caf0b3729bb"}

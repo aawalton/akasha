@@ -14,7 +14,7 @@ export const overwhereIiiHalDunmore = {
     },
     {
       fact: "He is about forty, lean and weathered, with a drooping brown mustache and a green town tabard.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He is a Common, a Watchman of Level 14, and has known Tobin Wick for twenty years.",
@@ -22,11 +22,7 @@ export const overwhereIiiHalDunmore = {
     },
     {
       fact: "He writes each paperless traveler in the gate book: name, looks, business, and who vouches.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "A stranger a townsman vouches for goes in; one with no voucher waits in the gatehouse till dawn.",
@@ -34,7 +30,7 @@ export const overwhereIiiHalDunmore = {
     },
     {
       fact: "He is tired, fair and dry, and tells any stranger short of work to try the Guild post.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The gate book goes to the reeve each morning, and the reeve reads every stranger's line.",
@@ -42,18 +38,14 @@ export const overwhereIiiHalDunmore = {
     },
     {
       fact: "The gate guard's aura is faint, a shade brighter than Tobin's candle.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The south gate guard is called Hal.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-30T08:24:06.457Z",
-  updatedAt: "2026-09-30T08:35:37.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

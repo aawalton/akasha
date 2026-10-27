@@ -10,29 +10,17 @@ export const overwhereIiiBrannaghTull3 = {
   facts: [
     {
       fact: "At first light on day twelve the drover with the old forearm burn waits on the bench at last.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-brannagh-tull",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
     {
       fact: "The drover pays Brannagh's 10 copper and leaves a twist of salt beef on the counter for the healer.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-brannagh-tull",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
     {
       fact: "Three Mending Weaves smoothed the drover's old forearm burn on day twelve; the first dragged.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-brannagh-tull",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
   ],
   createdAt: "2026-10-03T12:56:23.341Z",
-  updatedAt: "2026-10-03T13:53:48.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

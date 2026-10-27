@@ -10,11 +10,7 @@ export const overwhereIiiHildWendle = {
   facts: [
     {
       fact: "Hild Wendle is forty, stout and red-cheeked, a carter's wife who talks when she's frightened.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-brannagh-tull",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
     {
       fact: "She is a Common, a Carter of Level 9, and drives her husband Joss's second wagon.",
@@ -25,7 +21,6 @@ export const overwhereIiiHildWendle = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-hild-wendle",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
@@ -33,7 +28,6 @@ export const overwhereIiiHildWendle = {
       fact: "One pull clears Hild's fresh bite, but it is torn and needs a Mending Weave to close.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-hild-wendle",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -42,7 +36,6 @@ export const overwhereIiiHildWendle = {
       fact: "Arriving, Hild says, 'They say you drew it out of Ivy Marsh. Draw it out of me, love, please.'",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-hild-wendle",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -55,7 +48,6 @@ export const overwhereIiiHildWendle = {
       fact: "Hild's shin closed puckered and uneven under a dragging Mending Weave; it will scar, but it's clean.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-hild-wendle",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -64,7 +56,6 @@ export const overwhereIiiHildWendle = {
       fact: "Hild's burly carter husband paid Brannagh 10 copper, and Brannagh handed it straight to Nala.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-hild-wendle",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -73,7 +64,6 @@ export const overwhereIiiHildWendle = {
       fact: "Offered a free second mending, Hild calls a scar nothing, but will come to Brannagh's at noon.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-hild-wendle",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -82,7 +72,6 @@ export const overwhereIiiHildWendle = {
       fact: "Hild tells everyone she meets; by tomorrow noon the whole Wool Square knows of the free mending.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-hild-wendle",
         "character-other/overwhere-iii-pip-carrow",
       ],
@@ -91,7 +80,6 @@ export const overwhereIiiHildWendle = {
       fact: "Joss, gruff, says a free wagon ride anywhere on the north road is Nala's for the asking.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-hild-wendle",
         "character-other/overwhere-iii-brannagh-tull",
       ],
@@ -101,19 +89,14 @@ export const overwhereIiiHildWendle = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-hild-wendle",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
     {
       fact: "Hild's shin seam lies flat now, a thin pale line; she went out telling everyone in the lane.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-hild-wendle",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-hild-wendle"],
     },
   ],
   createdAt: "2026-09-30T20:37:33.090Z",
-  updatedAt: "2026-09-30T22:42:52.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Lore

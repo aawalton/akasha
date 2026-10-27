@@ -36,7 +36,7 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "A traveler without papers is written in the gate book with a description and a reason.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The town bell rings at dawn, noon and dusk from the tower over the Wool Square.",
@@ -62,7 +62,6 @@ export const overwhereIiiMerrowgate = {
       fact: "The Adventurers Guild keeps a small post in the old tollhouse inside the south gate.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-tobin-wick",
         "character-other/overwhere-iii-hal-dunmore",
       ],
@@ -101,79 +100,47 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "The Crook and Candle is Merrowgate's one inn.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "Merrowgate's wall is gray fieldstone; a lantern is lit beside its south gate at dusk.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "A slow, deep bell rings out over Merrowgate at sundown.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "The south gate guard writes a stranger without papers in his ledger: name and business.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "At the town wall the road's current thins and frays, as if the stone were in its way.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Merrowgate is gray stone and timber, and woodsmoke hangs thick in its cold evening air.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "The Crook and Candle is a long timbered inn on the town square, its sign a crook and a candle.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "Past the south gate the street opens on a wide market square with a bell tower over it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "Folk call the blight bounty 'a silver a stone'.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-tobin-wick",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
     {
       fact: "A slow, deep bell rings out over Merrowgate at first light.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At first light market carts come into the town square to set up.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Merrowgate's market day comes every fifth day; the next is three days off.",
@@ -181,11 +148,7 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "Brannagh Tull's shop is a lane off the Wool Square, open till full dark; she lives above it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "In midwinter the dusk bell rings at a quarter to six; the gates and the post shut then.",
@@ -193,15 +156,11 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "Brannagh's shop is low and dim, hung with drying herbs, and smells of mint and woodsmoke.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hob Sadler's saddlery by the north gate sells new leather packs at 30 copper, open from dawn.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-bet-harrow",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
     {
       fact: "In midwinter the dawn bell rings at a quarter past seven, and the gates open then.",
@@ -213,11 +172,11 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "A packed path runs inside the whole wall, about a mile round, walked by the watch.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Folk stare at a woman running the wall in a cloak; children trail her a lap, laughing.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Townsfolk who heard Bet's tale nod to the red-haired healer, and some ask after sick kin.",
@@ -225,11 +184,7 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "Mornings a dozen of the town watch haul stones and run drills on Merrowgate's south green.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-maud-ferrow",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-maud-ferrow"],
     },
     {
       fact: "Nell Pask's pie stall on the Wool Square sells a hot mutton pasty, big as two fists, for 2 copper.",
@@ -237,39 +192,27 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "Books are dear here; past the Guild post's two, the Hearth chapel keeps a herbal and a primer.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "The Hearth chapel's keeper, old Sister Wenna, lends her herbal and primer to anyone who reads there.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Nala's third night in Merrowgate passes quiet: hard frost, a clear sky, no alarm at the gates.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The east gate opens on the Thornmere road; the cattle pens and a drovers' trough lie inside it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The pens smell of dung and wet straw; drovers lean on the rails trading prices and road news.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In Merrowgate a glimmerstone changes hands for about 20 copper, when anyone will part with one.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Glimmer specks are not bought or sold in Merrowgate; few folk have ever seen one.",
@@ -278,5 +221,5 @@ export const overwhereIiiMerrowgate = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-29T12:28:15.054Z",
-  updatedAt: "2026-10-02T23:35:53.000Z",
+  updatedAt: "2026-10-27T19:50:20.465Z",
 } as const satisfies Place
