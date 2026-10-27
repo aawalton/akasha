@@ -4,7 +4,7 @@ export const playedLayout = {
   id: "01a0e53c-775d-7506-ae05-7a7bfffc74b5",
   type: "page-type/module",
   slug: "played-layout",
-  definition: "the arrangement of a story played's run, action bar and panels on a screen",
+  definition: "the arrangement of a written chapter's prose and the panels beside it",
   code: "tsx",
   test: "tsx",
   decisions: [
@@ -54,5 +54,5 @@ export const playedLayout = {
     },
   ],
   createdAt: "2026-09-27T23:39:00.317Z",
-  updatedAt: "2026-09-28T20:30:51.000Z",
+  updatedAt: "2026-10-27T18:41:44.075Z",
 } as const satisfies Module
