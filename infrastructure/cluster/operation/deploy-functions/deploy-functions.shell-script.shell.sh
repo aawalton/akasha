@@ -71,34 +71,6 @@ apply_manifests() {
   kubectl apply -n "$ns" -R -f "$dir/"
 }
 
-build_and_push() {
-  local context="${1:?Usage: build_and_push <context> <image> <sha> <dockerfile> [--latest]}"
-  local image="${2:?Usage: build_and_push <context> <image> <sha> <dockerfile> [--latest]}"
-  local sha="${3:?Usage: build_and_push <context> <image> <sha> <dockerfile> [--latest]}"
-  local dockerfile="${4:?Usage: build_and_push <context> <image> <sha> <dockerfile> [--latest]}"
-  local push_latest="${5:-}"
-  local tag="${image}:${sha}"
-
-  if [ ! -f "$dockerfile" ]; then
-    die "Dockerfile not found: $dockerfile"
-  fi
-
-  log "Building $tag from $dockerfile (context: $context)"
-  docker build -t "$tag" -f "$dockerfile" "$context"
-
-  log "Pushing $tag"
-  docker push "$tag"
-
-  if [ "$push_latest" = "--latest" ]; then
-    docker tag "$tag" "${image}:latest"
-    log "Pushing ${image}:latest"
-    docker push "${image}:latest"
-    ok "Pushed $tag + ${image}:latest"
-  else
-    ok "Pushed $tag"
-  fi
-}
-
 rollout_image() {
   local ns="${1:?Usage: rollout_image <ns> <resource> <image>}"
   local resource="${2:?Usage: rollout_image <ns> <resource> <image>}"

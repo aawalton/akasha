@@ -121,39 +121,6 @@ function authorizing(): readonly string[] {
   ]
 }
 
-function building(): readonly string[] {
-  return [
-    "",
-    "build_and_push() {",
-    '  local context="${1:?Usage: build_and_push <context> <image> <sha> <dockerfile> [--latest]}"',
-    '  local image="${2:?Usage: build_and_push <context> <image> <sha> <dockerfile> [--latest]}"',
-    '  local sha="${3:?Usage: build_and_push <context> <image> <sha> <dockerfile> [--latest]}"',
-    '  local dockerfile="${4:?Usage: build_and_push <context> <image> <sha> <dockerfile> [--latest]}"',
-    '  local push_latest="${5:-}"',
-    '  local tag="${image}:${sha}"',
-    "",
-    '  if [ ! -f "$dockerfile" ]; then',
-    '    die "Dockerfile not found: $dockerfile"',
-    "  fi",
-    "",
-    '  log "Building $tag from $dockerfile (context: $context)"',
-    '  docker build -t "$tag" -f "$dockerfile" "$context"',
-    "",
-    '  log "Pushing $tag"',
-    '  docker push "$tag"',
-    "",
-    '  if [ "$push_latest" = "--latest" ]; then',
-    '    docker tag "$tag" "${image}:latest"',
-    '    log "Pushing ${image}:latest"',
-    '    docker push "${image}:latest"',
-    '    ok "Pushed $tag + ${image}:latest"',
-    "  else",
-    '    ok "Pushed $tag"',
-    "  fi",
-    "}",
-  ]
-}
-
 function rolling(): readonly string[] {
   return [
     "",
@@ -196,7 +163,6 @@ export function bodyIn(given: string | Reading): string {
     ...heading(basename(ownShellIn(given))),
     ...nodesReading(nodesBesideIn(given)),
     ...authorizing(),
-    ...building(),
     ...rolling(),
     ...sourcing(dnsBesideIn(given)),
   ]
