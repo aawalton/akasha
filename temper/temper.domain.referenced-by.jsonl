@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-page-with-its-parts/a-page-with-its-parts.folder-shape.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper.domain.ts","path":"temper/web/routes/temper-requests/temper-requests.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"page-domain","path":"domain/initiative/pages/ember-hud-float-layout.initiative.ts","id":"01a17ebb-f7a0-7736-a2f6-cf9828de4734"}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/ember-temper-alpha.initiative.ts","id":"01a0de4d-ccf3-7cab-a8bf-2cae7c1c6bd9"}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/nimue-advanced-sheet.initiative.ts","id":"01a15c0b-2984-7ce6-8f81-17093731a013"}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/nimue-correct-formulas.initiative.ts","id":"01a155a3-3d43-7e5e-8fed-e3c019edcd03"}

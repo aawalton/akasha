@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-story-engine-v3.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/dalla-resource-management.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/elin-wandering-inn-wiki.initiative.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/ember-hud-float-layout.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/ember-infinite-archive-solo-build.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/ember-temper-alpha.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/nimue-advanced-sheet.initiative.ts","typed":true,"deferred":false}
