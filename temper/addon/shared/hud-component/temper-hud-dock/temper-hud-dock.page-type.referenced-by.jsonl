@@ -1,1 +1,9 @@
+{"propertySlug":"import","fileName":"temper-hud-dock.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-dock/pages/bottom-left.temper-hud-dock.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-hud-dock.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-dock/pages/bottom-right.temper-hud-dock.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-hud-dock.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-dock/pages/bottom.temper-hud-dock.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-hud-dock.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-dock/pages/left.temper-hud-dock.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-hud-dock.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-dock/pages/right.temper-hud-dock.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-hud-dock.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-dock/pages/top-left.temper-hud-dock.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-hud-dock.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-dock/pages/top-right.temper-hud-dock.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-hud-dock.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-dock/pages/top.temper-hud-dock.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/shared/hud-component/temper-hud-component.domain.ts","id":"01a060a4-fa38-742d-9517-977730401b38"}
