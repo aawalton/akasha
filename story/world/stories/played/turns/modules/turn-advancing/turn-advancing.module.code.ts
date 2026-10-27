@@ -351,7 +351,7 @@ export function advanced(
 ): Advanced {
   const refused = callerRefused(held, caller) ?? toldRefused(held, handed)
   if (refused !== null) return { refused }
-  const onBeat = beatRouted(held, caller, handed, cast, admitted)
+  const onBeat = beatRouted(held, caller, handed, cast, admitted, reviewers)
   if (onBeat !== null) return onBeat
   const takes = roleplayTakes(held) ?? TAKES[held.status]
   if (takes === null) {

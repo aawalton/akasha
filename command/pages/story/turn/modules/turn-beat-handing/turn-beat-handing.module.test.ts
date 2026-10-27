@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   beatPrompt,
   flowingIn,
+  notesSaid,
   rememberedNow,
   seatPartOf,
   waitingAfter,
@@ -95,6 +96,13 @@ test("the turn waiting behind one whose memory just finished is the next one, at
   const story = [waiting, paged("saga-00-004", 4, "beats")]
   expect(waitingAfter(story, "saga-00-004")).toBe(waiting.at)
   expect(waitingAfter([paged("saga-00-004", 4, "beats")], "saga-00-004")).toBeNull()
+})
+
+test("a reviewer's notes say the turn is never written again, and are heeded in the turns to come", () => {
+  const said = notesSaid(AT, ["beat 2: too quick"])
+  expect(said).toContain(`\`${AT}\``)
+  expect(said).toContain("Mend nothing in that turn")
+  expect(said).toContain("- beat 2: too quick")
 })
 
 test("the turns flowing are those at beats and the turn handed in, in turn order", () => {

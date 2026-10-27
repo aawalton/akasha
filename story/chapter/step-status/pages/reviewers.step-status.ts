@@ -40,7 +40,11 @@ export const reviewers = {
       decisionKind: "decision-kind/departure",
       statement: "A turn with no issues advances to player, its recorders having run.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn at beats is reviewed at beats, and never reaches this status.",
+    },
   ],
   createdAt: "2026-09-26T17:04:49.937Z",
-  updatedAt: "2026-10-04T00:44:25.000Z",
+  updatedAt: "2026-10-27T21:23:40.652Z",
 } as const satisfies StepStatus

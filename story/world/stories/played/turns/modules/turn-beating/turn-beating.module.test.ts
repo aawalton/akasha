@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { beatsOf } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts"
 import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
 import {
   beatJobsOf,
   changesShown,
@@ -17,8 +18,10 @@ import {
   movedOf,
   PROSE,
   RECORDER,
+  REVIEWER,
   refusalOf,
   TWO,
+  VOICE,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts"
 
@@ -87,9 +90,29 @@ test("the part filling the last beat's last step moves the turn to player", () =
     memory: [],
   })
   const picture = { kind: "record", recorder: "picture", beat: 1 } as const
-  const said = movedOf(advanced(flowing(near), RECORDER, picture, TWO))
+  const said = movedOf(advanced(flowing(near), RECORDER, picture, []))
   expect(said.status).toBe("player")
   expect(said.values["stepStatus"]).toBe(at("player"))
+  expect(movedOf(advanced(flowing(near), RECORDER, picture, TWO)).status).toBe("beats")
+})
+
+test("a turn's reviewers are handed it once its last beat is shown, and their notes mend nothing", () => {
+  const last = beatsOf({ beat: 1, event: "One.", changes: [] })
+  const shown = movedOf(advanced(flowing(last), WRITER, { ...PROSE, beat: 1 }, TWO))
+  expect(shown.starts.map((one) => one.kind)).toEqual(["reviewer", "reviewer"])
+  const whole = beatsOf({
+    beat: 1,
+    event: "One.",
+    prose: "One told.",
+    changes: [],
+    memory: [],
+    pictured: [],
+  })
+  const review = { kind: "review", reviewer: VOICE, issues: ["beat 1: too quick"] } as const
+  const held = heldAt("beats", { flow: whole, beats: 1, reviewedBy: [continuity.slug] })
+  const noted = movedOf(advanced(held, REVIEWER, review, TWO))
+  expect([noted.status, noted.notes, noted.flow]).toEqual(["player", ["beat 1: too quick"], whole])
+  expect(refusalOf(advanced(flowing(last), REVIEWER, review, TWO))).toContain("last beat is shown")
 })
 
 const ENTRY = { page: "metric/xp", key: "value", from: 1, to: 2, note: "+1" }

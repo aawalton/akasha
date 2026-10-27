@@ -65,7 +65,11 @@ export const turnBeatHanding = {
       statement:
         "The hand-in giving a turn's last beat its memory tells the seats of the turn waiting next.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reviewer's notes on a turn at beats go to the game master and writer seats.",
+    },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-27T20:59:58.311Z",
+  updatedAt: "2026-10-27T21:23:40.652Z",
 } as const satisfies Module

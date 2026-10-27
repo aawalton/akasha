@@ -98,7 +98,20 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn the reviewers find issues in comes back to game-master for repair.",
+      statement: "A turn off beats that the reviewers find issues in comes back to game-master.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn at beats is reviewed whole once its last beat is shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its reviewers hold up no beat of it and not the turn after it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Their issues reach the game master and writer as notes for the turns after, and mend nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -179,5 +192,5 @@ export const storyTurnPlayed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T00:47:51.415Z",
-  updatedAt: "2026-10-27T20:16:56.891Z",
+  updatedAt: "2026-10-27T21:23:40.652Z",
 } as const satisfies PageType

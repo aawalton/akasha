@@ -1,4 +1,5 @@
 import { gameMaster as gameMasterRole } from "akasha/agent/role/pages/game-master/game-master.role.ts"
+import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
@@ -18,6 +19,7 @@ import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/
 import { mechanics } from "akasha/story/recorder/pages/mechanics.story-recorder.ts"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { picture } from "akasha/story/recorder/pages/picture.story-recorder.ts"
+import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import type {
   Admitted,
   Character,
@@ -33,6 +35,7 @@ import {
   moved,
   PLAYER,
   published,
+  type Start,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
@@ -234,10 +237,11 @@ export function beatRouted(
   caller: Caller,
   handed: Handed,
   cast: readonly Character[],
-  admitted: Admitted
+  admitted: Admitted,
+  reviewers: readonly string[] = []
 ): Advanced | null {
   if (held.status === BEATS && held.roleplayed !== true) {
-    return fromBeat(held, caller, handed, cast, admitted)
+    return fromBeat(held, caller, handed, { cast, admitted }, { held, reviewers })
   }
   const beat = beatOf(handed)
   if (beat === undefined) return null
@@ -248,12 +252,12 @@ function fromBeat(
   held: Held,
   caller: Caller,
   handed: Handed,
-  cast: readonly Character[],
-  admitted: Admitted
+  telling: Telling,
+  review: Reviewing
 ): Advanced {
   const flow = held.flow
   if (flow === undefined) return { refused: `the turn at ${BEATS} has no beats file to read` }
-
+  if (handed.kind === "review") return reviewedOn(flow, caller, handed, review)
   const found = partOf(handed)
   if ("refused" in found) return found
   if (caller.role !== found.role) {
@@ -265,18 +269,18 @@ function fromBeat(
   if (handed.kind === "beats") {
     const restated = restatedOn(flow, handed, beat, held)
     if ("refused" in restated) return restated
-    return onward(restated, {}, null, false)
+    return onward(restated, review)
   }
   if (handed.kind === "prose") {
-    const told = proseOn(held, flow, handed, beat, { cast, admitted })
+    const told = proseOn(held, flow, handed, beat, telling)
     if ("refused" in told) return told
-    return onward(told.flow, told.values, told.prose, false)
+    return onward(told.flow, review, { values: told.values, prose: told.prose })
   }
   const part = found.part === "prose" || found.part === "event" ? null : found.part
   if (part === null) return { refused: `${STEP_OF[found.part]} hands in no list` }
   const after = recordedOn(flow, beat, part, handed)
   if ("refused" in after) return after
-  return onward(after, {}, null, true)
+  return onward(after, review, { landsKept: true })
 }
 
 export type BeatJob = { readonly part: FlowPart; readonly turn: number; readonly beat: number }
@@ -330,13 +334,61 @@ export function changesShown(
   return after.changes.filter((one) => one.beat > from && one.beat <= to)
 }
 
-function onward(
+type Reviewing = { readonly held: Held; readonly reviewers: readonly string[] }
+
+function shownWhole(flow: Beats | undefined): boolean {
+  return flow !== undefined && flow.beats.length > 0 && shownThrough(flow) === flow.beats.length
+}
+
+type Onward = {
+  readonly values?: Readonly<{ [key: string]: unknown }>
+  readonly prose?: string | null
+  readonly landsKept?: boolean
+  readonly reviewedBy?: readonly string[]
+  readonly notes?: readonly string[]
+}
+
+function onward(flow: Beats, review: Reviewing, more: Onward = {}): Advanced {
+  const values = more.values ?? {}
+  const reviewedBy = more.reviewedBy ?? review.held.reviewedBy
+  const left = review.reviewers.filter((one) => !reviewedBy.includes(one))
+  const recorded = STEPPED.every((part) => doneBy(flow, part))
+  const opened = shownWhole(flow) && !shownWhole(review.held.flow)
+  const starts = opened ? left.map((reviewer): Start => ({ kind: "reviewer", reviewer })) : []
+  const moving = {
+    flow,
+    prose: more.prose ?? null,
+    landsKept: more.landsKept ?? false,
+    starts,
+    ...(more.notes === undefined ? {} : { notes: more.notes }),
+  }
+  if (recorded && left.length === 0) return moved(PLAYER, published(values), moving)
+  return moved(BEATS, values, moving)
+}
+
+function reviewedOn(
   flow: Beats,
-  values: Readonly<{ [key: string]: unknown }>,
-  prose: string | null,
-  landsKept: boolean
+  caller: Caller,
+  handed: Extract<Handed, { kind: "review" }>,
+  review: Reviewing
 ): Advanced {
-  const done = STEPPED.every((part) => doneBy(flow, part))
-  const moving = { flow, prose, landsKept }
-  return done ? moved(PLAYER, published(values), moving) : moved(BEATS, values, moving)
+  const { reviewer, issues } = handed
+  const held = review.held
+  if (caller.role !== reviewerRole.slug) {
+    return { refused: `a review is handed in from a ${reviewerRole.slug} seat` }
+  }
+  if (!review.reviewers.includes(reviewer)) {
+    return { refused: `\`${reviewer}\` is no story reviewer` }
+  }
+  if (held.reviewedBy.includes(reviewer)) {
+    return { refused: `\`${reviewer}\` has reviewed this turn already` }
+  }
+  if (!shownWhole(flow)) {
+    return { refused: `a turn at ${BEATS} is reviewed once its last beat is shown` }
+  }
+  const long = issuesRefused(issues, "turn")
+  if (long !== null) return { refused: long }
+  const reviewedBy = [...held.reviewedBy, reviewer]
+  const values = { reviewedBy: reviewedBy.map((one) => `${storyReviewer.slug}/${one}`) }
+  return onward(flow, review, { values, reviewedBy, notes: issues })
 }

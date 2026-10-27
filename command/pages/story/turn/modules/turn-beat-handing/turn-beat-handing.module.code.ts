@@ -228,6 +228,33 @@ export function readyBeatOf(root: string, seat: StepSeat, calledAs: string): str
   return beatPrompt(part, { title, calledAs, turn, beat: ready.beat, recorders, master })
 }
 
+export function notesSaid(turnAt: string, notes: readonly string[]): string {
+  const listed = notes.map((one) => `- ${one}`)
+  return [
+    `A reviewer's notes on \`${turnAt}\`, whose beats are shown and are never written again. Mend nothing in that turn: heed the notes in the turns to come.`,
+    "",
+    ...listed,
+  ].join("\n")
+}
+
+async function notesTold(
+  reach: Reach,
+  at: Context,
+  seats: readonly string[],
+  said: Moved,
+  after: Told
+): Promise<undefined> {
+  const notes = said.notes ?? []
+  if (notes.length === 0) return undefined
+  const body = notesSaid(at.prompting.turnAt, notes)
+  for (const to of seats) {
+    const why = await reach.notify(to, body)
+    if (why === null) after.report.push(`told\t${to}\tnotes`)
+    else after.faults.push(`\`${to}\` was not told a reviewer's notes: ${why}`)
+  }
+  return undefined
+}
+
 export function rememberedNow(before: Beats, after: Beats): boolean {
   return !doneBy(before, "memory") && doneBy(after, "memory")
 }
@@ -276,6 +303,7 @@ export async function beatsHanded(
   const now = flowing.map((one) => one.beats)
   const was = held.status === BEATS ? (held.flow ?? NO_BEATS) : NO_BEATS
   const before = flowing.map((one, index) => (one.slug === slug ? was : (now[index] ?? NO_BEATS)))
+  await notesTold(reach, at, [master, `${persona}-${writerRole.slug}-${at.game}`], said, after)
   const turnNow = flowing.find((one) => one.slug === slug)?.beats ?? NO_BEATS
   const waiting = rememberedNow(was, turnNow) ? waitingAfter(story, slug) : null
   if (waiting !== null) {

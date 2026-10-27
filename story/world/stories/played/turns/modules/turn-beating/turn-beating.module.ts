@@ -44,7 +44,16 @@ export const turnBeating = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The part filling the last step of the last beat moves the turn to player.",
+      statement:
+        "The turn moves to player once every beat has every part and every reviewer has reviewed it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The move showing a turn's last beat hands each story reviewer the turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A review is taken only once the last beat is shown, and changes no beat.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -91,5 +100,5 @@ export const turnBeating = {
     },
   ],
   createdAt: "2026-10-27T19:42:57.720Z",
-  updatedAt: "2026-10-27T20:47:29.242Z",
+  updatedAt: "2026-10-27T21:23:40.652Z",
 } as const satisfies Module
