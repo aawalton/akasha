@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-beat-flow-test-flex-1/iris-reviewer-beat-flow-test-flex-1.seat.ts","id":"01a17f92-785f-7136-b539-a1387195b883"}
+{"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-beat-flow-test-flex-2/iris-reviewer-beat-flow-test-flex-2.seat.ts","id":"01a17f92-97db-73d2-bd2f-9707fa751e18"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-clone-probe-flex-1/iris-reviewer-clone-probe-flex-1.seat.ts","id":"01a17f67-3d12-7458-b962-31d54bdd8505"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-clone-probe-flex-2/iris-reviewer-clone-probe-flex-2.seat.ts","id":"01a17f67-5ef6-7571-b152-dc68be2fd043"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-clone-probe-flex-3/iris-reviewer-clone-probe-flex-3.seat.ts","id":"01a17f67-80b5-7506-b009-ebc40f69f321"}
