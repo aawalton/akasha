@@ -217,7 +217,7 @@ async function heldOn(
   const switched = read.chapter && story?.proseOnBeats === true ? { proseOnBeats: true } : {}
   const planned = { beats: beats.beats, scenes: beats.scenes }
   const parts = { changes, memory, pictured, planned }
-  const held = { ...stated, beats: planned.beats.length, ...parts, ...switched }
+  const held = { ...stated, beats: planned.beats.length, ...parts, ...switched, flow: beats }
   const seat = reach.seatOf(given.root, given.agentId)
   const caller: Caller = seat ?? { role: null, game: null }
   const reviewers = reach.reviewersIn(given.root)
@@ -278,7 +278,7 @@ async function heldOn(
   const folded = reach.fold(given.root, naming)
   if ("refused" in folded) return back([folded.refused])
   const placing = placingIndexed(given.root, held.game, read.chapter)
-  const named = cacheNamed(reading, held, said.status, placing)
+  const named = cacheNamed(reading, held, said.status, placing, said.flow ?? null)
   if ("refused" in named) return back([named.refused])
   const namings = [...scened.namings, ...named.namings]
   const cached = cachedOf(reach.fold, given.root, { values: {}, namings })

@@ -198,6 +198,16 @@ test("a prose file of beat lines shaped wrong is refused, never taken as the pro
   })
 })
 
+test("`--beat` rides on a writer's or a recorder's hand-in, and on no other", () => {
+  const told = taken(["--turn", SLUG, "--prose-file", proseAt(), "--beat", "2"], CALLED, ROOT)
+  expect(told).toMatchObject({ handed: { kind: "prose", prose: "Wren smiles.\n", beat: 2 } })
+  const numbered = taken(["--turn", SLUG, "--recorder", "mechanics", "--beat", "1"], CALLED, ROOT)
+  expect(numbered).toMatchObject({ handed: { kind: "record", recorder: "mechanics", beat: 1 } })
+  expect(taken(["--turn", SLUG, "--beat", "1"], CALLED, ROOT)).toEqual({
+    refused: ["`--beat` names the beat whose part a step hands in, and this hands in lore"],
+  })
+})
+
 test("a titled chapter's slug keeps the story and number and spells the title after them", () => {
   expect(numberedOf("harem-hotel-0001-the-key", "harem-hotel")).toBe("harem-hotel-0001")
   expect(titledOf("harem-hotel-0001", "harem-hotel", "Experiment 2 — Natalie's Table")).toBe(

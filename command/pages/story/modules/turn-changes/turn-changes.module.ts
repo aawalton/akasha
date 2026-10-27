@@ -44,6 +44,20 @@ export const turnChanges = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A turn at beats writes each beat's changes onto their pages as the beat is shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn at beats checks a beat's changes after the changes of beats not yet shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A move at beats writes the beats file as that one beat's part leaves it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A change's lines for a file beside a page are appended to that file, and the page names its ending.",
     },
     {
@@ -72,5 +86,5 @@ export const turnChanges = {
     },
   ],
   createdAt: "2026-10-03T15:29:47.501Z",
-  updatedAt: "2026-10-04T00:19:32.000Z",
+  updatedAt: "2026-10-27T19:49:36.414Z",
 } as const satisfies Module

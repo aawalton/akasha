@@ -55,7 +55,12 @@ export const turnHanding = {
       decisionKind: "decision-kind/departure",
       statement: "A title's slug drops its apostrophes, so a possessive stays one word.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A beat named at `--beat` rides on a prose or a recorder's hand-in, and on no other.",
+    },
   ],
   createdAt: "2026-09-28T18:31:36.830Z",
-  updatedAt: "2026-10-17T20:49:15.708Z",
+  updatedAt: "2026-10-27T19:49:36.414Z",
 } as const satisfies Module

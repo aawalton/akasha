@@ -43,6 +43,8 @@ const STORY = "story"
 
 const OWN_LENGTH = "ownLength"
 
+const CHARACTERS = "characters"
+
 const ROLEPLAYED = roleplayed.propertySlug
 
 const PARTED = "/"
@@ -120,6 +122,7 @@ export function heldOf(turn: Turn, textOf: TextOf = () => ""): Held | { readonly
     written: turn.value[PROSE] !== undefined && turn.value[OWN_LENGTH] !== 0,
     mechanicsIssues: linesBeside(turn, MECHANICS_ISSUES, mechanicsIssuesFile.propertySlug, textOf),
     rulings: rulingsBeside(turn, textOf),
+    characters: stringsIn(turn.value[CHARACTERS]),
     ...(turn.value[ROLEPLAYED] === true ? { roleplayed: true } : {}),
   }
 }

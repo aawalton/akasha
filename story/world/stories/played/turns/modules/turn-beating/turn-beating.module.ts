@@ -50,7 +50,16 @@ export const turnBeating = {
       decisionKind: "decision-kind/departure",
       statement: "A beat named while the turn is at another status is refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A beat's changes reach their pages in the move that shows that beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The pages hold the values the shown beats left, so numbers are checked from there.",
+    },
   ],
   createdAt: "2026-10-27T19:42:57.720Z",
-  updatedAt: "2026-10-27T19:42:57.720Z",
+  updatedAt: "2026-10-27T19:49:36.414Z",
 } as const satisfies Module

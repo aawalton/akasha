@@ -1,4 +1,5 @@
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { beat as beatArgument } from "akasha/command/argument/pages/beat.argument.ts"
 import { beatsFile } from "akasha/command/argument/pages/beats-file.argument.ts"
 import { changesFile } from "akasha/command/argument/pages/changes-file.argument.ts"
 import { character } from "akasha/command/argument/pages/character.argument.ts"
@@ -48,6 +49,7 @@ const NAMED = [
   memoryFile,
   picturedFile,
   titleArgument,
+  beatArgument,
 ] as const
 
 const APOSTROPHES = /['’]/g
@@ -271,6 +273,16 @@ function proseHanded(root: string, said: Said): Extract<Handed, { kind: "prose" 
   }
 }
 
+function beatOn(handed: Handed, beat: number | undefined): Handed | Refusal {
+  if (beat === undefined) return handed
+  if (handed.kind === "prose" || handed.kind === "record") return { ...handed, beat }
+  return {
+    refused: [
+      `\`${beatArgument.said}\` names the beat whose part a step hands in, and this hands in ${handed.kind}`,
+    ],
+  }
+}
+
 export function taken(argv: readonly string[], calledAs: string, root: string): Taken | Refusal {
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return { refused: read.refused }
@@ -284,7 +296,9 @@ export function taken(argv: readonly string[], calledAs: string, root: string): 
       ],
     }
   }
-  const handed = handedFrom(root, held)
+  const unbeaten = handedFrom(root, held)
+  if ("refused" in unbeaten) return unbeaten
+  const handed = beatOn(unbeaten, held.beat)
   if ("refused" in handed) return handed
   const misnamed = titleRefused(turn === "", handed, held.title)
   if (misnamed !== null) return misnamed

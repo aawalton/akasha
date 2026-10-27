@@ -97,6 +97,19 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "At beats, the advance showing a beat writes that beat's changes onto their pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At beats, numbers are checked against the pages as the shown beats left them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At beats, the memory recorder's advance tells the lore that beat's memory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A memory recorder's memory is checked against the lore before it lands.",
     },
     {
@@ -241,7 +254,8 @@ export const storyTurnAdvance = {
     { argument: "argument/memory-file" },
     { argument: "argument/pictured-file" },
     { argument: "argument/title" },
+    { argument: "argument/beat" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-17T21:07:26.540Z",
+  updatedAt: "2026-10-27T19:49:36.414Z",
 } as const satisfies Command

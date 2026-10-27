@@ -95,6 +95,13 @@ test("a recorder's memory is checked with the turn's as handed in, and told with
   expect(memorySettled(READING, HELD, good, "player")).toHaveLength(2)
 })
 
+test("at beats a recorder's memory for its beat is told at once, and no other memory", () => {
+  const beat = { kind: "record", recorder: "memory", beat: 2, memory: [CERI] } as const
+  const flowing = { ...HELD, status: "beats" } as const
+  expect(memorySettled(READING, flowing, beat, "beats")).toHaveLength(1)
+  expect(memorySettled(READING, flowing, { ...beat, memory: [] }, "player")).toEqual([])
+})
+
 const WORLD_AT = "world/w.world.ts"
 
 const SECOND_AT = "world/lore/the-mere-2.lore.ts"

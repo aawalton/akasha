@@ -40,14 +40,18 @@ import {
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import type { Planned } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
+import {
+  changesShown,
+  changesUnshown,
+} from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
 import { typeOf } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 import {
+  BEATS as FLOWING,
   firstMoved,
   type Handed,
   type Held,
   MECHANICS,
   type Moved,
-  PLAYER,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { changesMerged } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
@@ -104,10 +108,14 @@ export function bodiesOf(
 ): { readonly bodies?: { readonly [key: string]: string } } {
   const bodies: { [key: string]: string } = {}
   if (said.prose !== null) bodies[PROSE] = said.prose
+  const flow = said.flow ?? null
+  const records = said.proseRecords
   const beats =
-    said.proseRecords === null
-      ? beatsBodyOf(held, said)
-      : beatsWritten({ ...held, prose: said.proseRecords })
+    flow !== null
+      ? beatsWritten(flow)
+      : records === null
+        ? beatsBodyOf(held, said)
+        : beatsWritten({ ...held, prose: records })
   if (beats !== null) bodies[BEATS] = beats
   for (const [key, lines] of [
     [ISSUES, said.issues],
@@ -180,10 +188,12 @@ export function changesIndexed(root: string): Reading {
 }
 
 export function changesChecked(reading: Reading, held: Held, handed: Handed): string | null {
-  if (handed.kind !== "record" || held.status !== MECHANICS) return null
+  if (handed.kind !== "record" || (held.status !== MECHANICS && held.status !== FLOWING)) {
+    return null
+  }
   const more = handed.changes ?? []
   if (more.length === 0) return null
-  return changesRefused(changesMerged(held.changes ?? [], more), reading)
+  return changesRefused(changesMerged(changesUnshown(held), more), reading)
 }
 
 type Placing = (page: string) => string | null
@@ -294,10 +304,11 @@ export function cacheNamed(
   reading: Reading,
   held: Held,
   status: TurnStep,
-  placing: Placing = () => null
+  placing: Placing = () => null,
+  after: Beats | null = null
 ): Cache | Refused {
-  const changes = held.changes ?? []
-  if (status !== PLAYER || changes.length === 0) return { namings: [], appends: [] }
+  const changes = changesShown(held, status, after)
+  if (changes.length === 0) return { namings: [], appends: [] }
   const cached = cachedOf(changes, reading)
   if ("refused" in cached) return cached
   const appends: Asking[] = []

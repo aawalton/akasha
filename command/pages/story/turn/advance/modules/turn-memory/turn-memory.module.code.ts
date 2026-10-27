@@ -10,6 +10,7 @@ import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/
 import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
 import { loreKnowers } from "akasha/story/lore/properties/lore-knowers.multi-relation-property.ts"
 import {
+  BEATS,
   type Handed,
   type Held,
   PLAYER,
@@ -144,6 +145,10 @@ export function memorySettled(
   handed: Handed,
   status: TurnStep
 ): readonly Asking[] | Refused {
+  if (held.status === BEATS) {
+    const beat = handed.kind === "record" ? (handed.memory ?? []) : []
+    return beat.length === 0 ? [] : memoryTold(beat, reading)
+  }
   const adding = handed.kind === "record" && held.status === RECORDERS
   const more = adding ? (handed.memory ?? []) : []
   const all = [...(held.memory ?? []), ...more].toSorted((one, other) => one.beat - other.beat)

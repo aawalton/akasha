@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
 import { beatsOf } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts"
 import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import {
+  changesShown,
+  changesUnshown,
+} from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
 import type { Handed } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
   advanced,
@@ -81,6 +85,21 @@ test("the part filling the last beat's last step moves the turn to player", () =
   const said = movedOf(advanced(flowing(near), RECORDER, picture, TWO))
   expect(said.status).toBe("player")
   expect(said.values["stepStatus"]).toBe(at("player"))
+})
+
+const ENTRY = { page: "metric/xp", key: "value", from: 1, to: 2, note: "+1" }
+
+const LATER = { ...ENTRY, from: 2, to: 3 }
+
+test("only the changes of beats a move shows reach their pages, once", () => {
+  const one = { beat: 1, event: "One.", changes: [ENTRY], prose: "One told." }
+  const before = beatsOf(one, { beat: 2, event: "Two.", changes: [LATER] })
+  const after = beatsOf(one, { beat: 2, event: "Two.", changes: [LATER], prose: "Two told." })
+  const later = { beat: 2, ...LATER }
+  expect(changesShown(flowing(before), "beats", after)).toEqual([later])
+  expect(changesShown(flowing(before), "player", null)).toEqual([])
+  expect(changesUnshown(flowing(before))).toEqual([later])
+  expect(changesShown(heldAt("recorders", { changes: [GAIN] }), "player", null)).toEqual([GAIN])
 })
 
 test("a beat named off the beats status is refused", () => {

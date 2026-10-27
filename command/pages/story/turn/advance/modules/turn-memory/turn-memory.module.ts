@@ -18,7 +18,12 @@ export const turnMemory = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The lore's knowers grow only as the turn moves to player, in that one landing.",
+      statement: "The lore's knowers grow as the turn moves to player, in that one landing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "At beats, the knowers grow by one beat's memory as that beat's memory is handed in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,5 +44,5 @@ export const turnMemory = {
     },
   ],
   createdAt: "2026-10-03T16:22:10.716Z",
-  updatedAt: "2026-10-06T15:54:27.000Z",
+  updatedAt: "2026-10-27T19:49:36.414Z",
 } as const satisfies Module

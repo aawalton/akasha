@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"story/ui/modules/beat-reading/beat-reading.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"story/world/stories/played/modules/cover-redrawing/cover-redrawing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/engine/beat-state/beat-state.domain.ts","id":"01a10235-fdaa-7b5b-968e-b88481cce87f"}

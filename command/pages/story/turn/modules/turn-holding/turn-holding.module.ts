@@ -27,7 +27,12 @@ export const turnHolding = {
       decisionKind: "decision-kind/departure",
       statement: "A turn's rulings are read from the file beside it, and named to the next seat.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn's characters are read so a beat's prose adds to them rather than replaces them.",
+    },
   ],
   createdAt: "2026-10-03T15:29:47.501Z",
-  updatedAt: "2026-10-04T00:45:14.000Z",
+  updatedAt: "2026-10-27T19:49:36.414Z",
 } as const satisfies Module
