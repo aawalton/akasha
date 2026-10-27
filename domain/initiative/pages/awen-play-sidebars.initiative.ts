@@ -7,14 +7,8 @@ export const awenPlaySidebars = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [
-    {
-      statement: "The aside place is replaced by the character, journal, map and chat places.",
-      workingMemory:
-        "The play page is under `story/world/stories/played/`; layout in `modules/played-layout/`. Panels are pages under `story/ui/played-panel/pages/`, places under `story/ui/played-panel/panel-place/pages/`. Voyage (`domain/voyage`) is the reference: sidebars about 500px, Character and Journal left, Map and Chat right. Alan decided the scene-cover and player-intent panels go in the journal place.\n",
-    },
-  ],
+  intentStack: [],
   constraints: ["Nothing inside a panel changes but the place that panel is drawn in."],
   createdAt: "2026-10-27T18:26:40.142Z",
-  updatedAt: "2026-10-27T18:51:15.456Z",
+  updatedAt: "2026-10-27T18:51:16.656Z",
 } as const satisfies Initiative
