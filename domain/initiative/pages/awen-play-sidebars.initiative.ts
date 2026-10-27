@@ -13,11 +13,8 @@ export const awenPlaySidebars = {
       workingMemory:
         "The play page is under `story/world/stories/played/`; layout in `modules/played-layout/`. Panels are pages under `story/ui/played-panel/pages/`, places under `story/ui/played-panel/panel-place/pages/`. Voyage (`domain/voyage`) is the reference: sidebars about 500px, Character and Journal left, Map and Chat right. Alan decided the scene-cover and player-intent panels go in the journal place.\n",
     },
-    {
-      statement: "A played story's top bar has a button for each of those places that has a panel.",
-    },
   ],
   constraints: ["Nothing inside a panel changes but the place that panel is drawn in."],
   createdAt: "2026-10-27T18:26:40.142Z",
-  updatedAt: "2026-10-27T18:51:14.186Z",
+  updatedAt: "2026-10-27T18:51:15.456Z",
 } as const satisfies Initiative
