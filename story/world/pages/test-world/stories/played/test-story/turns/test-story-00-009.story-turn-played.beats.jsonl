@@ -3,6 +3,6 @@
 {"beat":3,"event":"The player clears a stretch of the long stone floor and begins to drill.","prose":"You clear a stretch of the long stone floor and begin to drill.","changes":[],"memory":[],"pictured":[]}
 {"beat":4,"event":"Cuts, guards and footwork, over and over, from morning until the light goes.","prose":"Cuts, then guards, then footwork, then the cuts again, from morning until the light goes.","continues":true,"changes":[]}
 {"beat":5,"event":"Each night the player pays for a cot by the hearth and a meal at the hall's table.","changes":[{"page":"metric-character-currency/test-story-player","note":"Ten nights of board at 3 coin: purse 39 → 9","key":"history","append":{"turn":9,"value":9}}]}
-{"beat":6,"event":"By the fifth morning the drills come cleaner; swordplay climbs a rung.","at":"2026-11-01T08:44:00.000Z"}
+{"beat":6,"event":"By the fifth morning the drills come cleaner; swordplay climbs a rung.","at":"2026-11-01T08:44:00.000Z","issues":["beat 6: rung 4 comes on the 5th drill (39→40), so by the sixth morning (11-01), not the fifth"]}
 {"beat":7,"event":"The days run on the same way, drill by day and the cot by night."}
 {"beat":8,"event":"The tenth day's drill is done, and the player wakes in the hall on the eleventh morning.","at":"2026-11-06T08:44:00.000Z"}
