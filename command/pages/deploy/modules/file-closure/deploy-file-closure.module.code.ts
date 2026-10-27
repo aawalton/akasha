@@ -235,6 +235,8 @@ const TRAILING = /\/+$/
 
 const THE_CONTEXT = "."
 
+const WHOLE_TREE = ""
+
 function copiedPath(context: string, source: string): string {
   const joined = join(context, source).replace(TRAILING, "")
   return joined === THE_CONTEXT ? "" : joined
@@ -250,7 +252,9 @@ function copiedOutOf(
   const found = [named.recipe]
   for (const one of copiedIn(body)) {
     const at = copiedPath(named.context, one)
-    found.push(...(every.has(at) ? [at] : underFolder(reading.tracked, at)))
+    if (at === WHOLE_TREE) continue
+    if (every.has(at)) found.push(at)
+    else for (const each of underFolder(reading.tracked, at)) found.push(each)
   }
   return found
 }

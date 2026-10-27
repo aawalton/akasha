@@ -386,6 +386,12 @@ test("a container recipe's copies are read from the package that recipe is hande
   expect(found.has("server/server.py")).toBe(false)
 })
 
+test("a copy of the whole repository a recipe is handed seeds nothing", () => {
+  const one: ImageNamed = { slug: "one", repository: "r/one", context: "", recipe: DOCKERFILE }
+  const reading = readingOver(IMAGED_TRACKED, () => "COPY . .\n", INDEX)
+  expect(closureWithImages(reading, [IMAGE_PAGE], new Map([[IMAGE_PAGE, one]])).size).toBe(2)
+})
+
 test("a deploy reaching the page of no image is seeded by no copy", () => {
   const found = imaged(["shared/far.ts"])
   expect(found.has("tsconfig.base.json")).toBe(false)

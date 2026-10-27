@@ -110,6 +110,10 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A copy of the whole repository a recipe is handed seeds nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path a stage copies out of an earlier stage seeds nothing.",
     },
     {
@@ -179,5 +183,5 @@ export const deployFileClosure = {
     },
   ],
   createdAt: "2026-09-11T17:49:21.836Z",
-  updatedAt: "2026-09-25T18:18:03.000Z",
+  updatedAt: "2026-10-27T09:05:59.362Z",
 } as const satisfies Module
