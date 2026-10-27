@@ -4,7 +4,7 @@ export const jennaRaineISeeWhatYoureSaying = {
   id: "01a17d9d-5c1e-7ecf-addc-efff66639ad4",
   type: "page-type/release",
   slug: "jenna-raine-i-see-what-youre-saying",
-  ownLength: 2.8872,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/jenna-raine"],
   position: 0,
@@ -21,5 +21,5 @@ export const jennaRaineISeeWhatYoureSaying = {
   ],
   title: "I See What You're Saying",
   createdAt: "2026-10-27T13:47:07.165Z",
-  updatedAt: "2026-10-27T13:47:07.165Z",
+  updatedAt: "2026-10-27T14:01:00.233Z",
 } as const satisfies Release
