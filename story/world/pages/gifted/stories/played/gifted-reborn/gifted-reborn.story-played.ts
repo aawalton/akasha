@@ -8,6 +8,7 @@ export const giftedReborn = {
   world: "world/gifted",
   unit: "unit/words",
   externalId: "gifted-reborn",
+  coordinatorAgent: "iris-game-master-gifted-reborn",
   chapterBreak: "A day of Nala's new life ends, or a thing she set out to try is done.",
   opensAt: "2026-10-27T20:30:00.000Z",
   panels: [
@@ -20,5 +21,5 @@ export const giftedReborn = {
     "played-panel/difficulty",
   ],
   createdAt: "2026-10-27T19:39:20.989Z",
-  updatedAt: "2026-10-27T20:38:17.019Z",
+  updatedAt: "2026-10-27T23:31:43.113Z",
 } as const satisfies StoryPlayed
