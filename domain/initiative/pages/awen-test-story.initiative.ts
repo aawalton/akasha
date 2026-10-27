@@ -9,13 +9,12 @@ export const awenTestStory = {
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
     {
-      statement:
-        "The test story names a panel in each of the character, journal, map and chat places.",
+      statement: "The test story names a panel in each of the character, journal and chat places.",
     },
   ],
   constraints: [
     "The test story is played only by agents testing the engine, never offered to Alan.",
   ],
   createdAt: "2026-10-27T19:03:53.823Z",
-  updatedAt: "2026-10-27T19:14:34.912Z",
+  updatedAt: "2026-10-27T19:47:26.482Z",
 } as const satisfies Initiative

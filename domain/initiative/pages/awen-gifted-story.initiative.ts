@@ -9,7 +9,7 @@ export const awenGiftedStory = {
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
     {
-      statement: "The story names a panel in each of the character, journal, map and chat places.",
+      statement: "The story names a panel in each of the character, journal and chat places.",
     },
     { statement: "Alan is offered the story once the engine plays a story beat by beat." },
   ],
@@ -18,5 +18,5 @@ export const awenGiftedStory = {
     "The world follows the Gifted book's premise, except that the one reborn is a girl.",
   ],
   createdAt: "2026-10-27T19:23:56.731Z",
-  updatedAt: "2026-10-27T19:45:21.620Z",
+  updatedAt: "2026-10-27T19:47:26.482Z",
 } as const satisfies Initiative
