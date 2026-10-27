@@ -4,6 +4,17 @@
 {"propertySlug":"world","path":"story/world/pages/test-world/lore/test-world-folk.lore.ts","id":"01a17ec5-127a-7403-8668-8583d26d91ac"}
 {"propertySlug":"world","path":"story/world/pages/test-world/lore/test-world-magic.lore.ts","id":"01a17ec5-127b-7d17-92de-54d9bb669770"}
 {"propertySlug":"world","path":"story/world/pages/test-world/lore/test-world-overview.lore.ts","id":"01a17ec5-127b-73a8-816f-db2d2a379d02"}
+{"propertySlug":"world","path":"story/world/pages/test-world/mechanics/currencies/test-world-coin.world-currency.ts","id":"01a17ec5-a3e3-7561-a9e1-1bd00f4fad8d"}
+{"propertySlug":"world","path":"story/world/pages/test-world/mechanics/items/test-world-brass-token.world-item.ts","id":"01a17ec5-a3e4-71f2-a739-91c8124a85f6"}
+{"propertySlug":"world","path":"story/world/pages/test-world/mechanics/items/test-world-copper-ore.world-item.ts","id":"01a17ec5-a3e4-71e6-bbf0-8f6c3ba5f34b"}
+{"propertySlug":"world","path":"story/world/pages/test-world/mechanics/items/test-world-healing-draught.world-item.ts","id":"01a17ec5-a3e4-7034-9e78-61a1ef06030d"}
+{"propertySlug":"world","path":"story/world/pages/test-world/mechanics/items/test-world-iron-sword.world-item.ts","id":"01a17ec5-a3e4-7902-ac5c-5b7a74404339"}
+{"propertySlug":"world","path":"story/world/pages/test-world/mechanics/items/test-world-lantern.world-item.ts","id":"01a17ec5-a3e4-7338-adc4-7d594bb5ad35"}
+{"propertySlug":"world","path":"story/world/pages/test-world/mechanics/items/test-world-leather-coat.world-item.ts","id":"01a17ec5-a3e4-7fb2-bdf9-aafaf957475d"}
+{"propertySlug":"world","path":"story/world/pages/test-world/mechanics/skills/test-world-lockpicking.world-skill.ts","id":"01a17ec5-a3e5-7f02-97ef-f441d85b8821"}
+{"propertySlug":"world","path":"story/world/pages/test-world/mechanics/skills/test-world-spark.world-skill.ts","id":"01a17ec5-a3e5-74c1-a302-1bc65ddb8a9e"}
+{"propertySlug":"world","path":"story/world/pages/test-world/mechanics/skills/test-world-swordplay.world-skill.ts","id":"01a17ec5-a3e5-7c74-910c-b9c92d1b314f"}
+{"propertySlug":"world","path":"story/world/pages/test-world/mechanics/titles/test-world-tester.world-title.ts","id":"01a17ec5-a3e5-7353-b6a0-c0191574891f"}
 {"propertySlug":"world","path":"story/world/pages/test-world/places/test-world-cellar.place.ts","id":"01a17ec5-127b-7fa9-be67-1de8f228ceee"}
 {"propertySlug":"world","path":"story/world/pages/test-world/places/test-world-hall.place.ts","id":"01a17ec5-127c-7c95-8abc-8383ca570a2c"}
 {"propertySlug":"world","path":"story/world/pages/test-world/places/test-world-shop.place.ts","id":"01a17ec5-127c-728d-b964-e90af5658595"}

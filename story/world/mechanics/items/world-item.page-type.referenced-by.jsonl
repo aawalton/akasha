@@ -171,6 +171,12 @@
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-slime-jelly.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-store-boots.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-watch-tunic.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/test-world/mechanics/items/test-world-brass-token.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/test-world/mechanics/items/test-world-copper-ore.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/test-world/mechanics/items/test-world-healing-draught.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/test-world/mechanics/items/test-world-iron-sword.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/test-world/mechanics/items/test-world-lantern.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/test-world/mechanics/items/test-world-leather-coat.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/items/otherwhere-xi-gravitite.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/items/otherwhere-xi-monster-cores.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/items/otherwhere-xi-silverite.world-item.ts","typed":true,"deferred":false}

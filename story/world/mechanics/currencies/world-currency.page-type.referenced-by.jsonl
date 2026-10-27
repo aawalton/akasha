@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/currencies/otherwhere-ix-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/sovereign-sight-progression-fantasy-cultivation/mechanics/currencies/overwhere-ii-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/currencies/overwhere-iv-coin.world-currency.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/test-world/mechanics/currencies/test-world-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/currencies/otherwhere-xi-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/the-idle-epoch/stories/written/the-idle-epoch/mechanics/currencies/the-idle-epoch-gold.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/the-idle-epoch/stories/written/the-idle-epoch/mechanics/currencies/the-idle-epoch-prestige-shard.world-currency.ts","typed":true,"deferred":false}
