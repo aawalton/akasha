@@ -11,6 +11,7 @@ export const testStory = {
   coordinatorAgent: "iris-game-master-test-story",
   chapterBreak: "A thing the player set out to try is done.",
   opensAt: "2026-10-27T08:00:00.000Z",
+  difficulty: "difficulty-level/hard",
   chat: "jsonl",
   panels: [
     "played-panel/player-character",
@@ -23,5 +24,5 @@ export const testStory = {
     "played-panel/quest-list",
   ],
   createdAt: "2026-10-27T19:11:09.113Z",
-  updatedAt: "2026-10-27T19:57:56.505Z",
+  updatedAt: "2026-10-27T20:27:03.353Z",
 } as const satisfies StoryPlayed
