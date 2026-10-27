@@ -9,7 +9,7 @@ export const storiesPlayed = {
   pageType: "page-type/story-played",
   viewPlace: 0,
   layout: "cards",
-  narrows: [{ key: "world", comparison: "not-in", values: ["world/test-world"] }],
+  narrows: [{ key: "world.testing", comparison: "empty", values: ["true"] }],
   viewSorts: [{ key: "title", descending: false }],
   visibleProperties: ["parts-length-in-words"],
   alwaysShowProperties: ["parts-length-in-words"],
@@ -63,5 +63,5 @@ export const storiesPlayed = {
     "world",
   ],
   createdAt: "2026-09-24T16:33:47.763Z",
-  updatedAt: "2026-10-27T19:14:52.859Z",
+  updatedAt: "2026-10-27T23:34:04.191Z",
 } as const satisfies View

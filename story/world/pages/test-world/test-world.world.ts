@@ -5,8 +5,9 @@ export const testWorld = {
   type: "page-type/world",
   slug: "test-world",
   title: "Test World",
+  testing: true,
   description:
     "A small world kept for agents testing the engine, and never offered to Alan as a story to play.",
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T19:10:06.969Z",
+  updatedAt: "2026-10-27T23:34:04.191Z",
 } as const satisfies World
