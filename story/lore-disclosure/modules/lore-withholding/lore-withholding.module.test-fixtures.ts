@@ -2,7 +2,7 @@ import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { definer } from "akasha/agent/role/pages/definer.role.ts"
-import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
+import { gameMaster } from "akasha/agent/role/pages/game-master/game-master.role.ts"
 import { reviewer } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { writer } from "akasha/agent/role/pages/writer.role.ts"
@@ -63,7 +63,7 @@ const TARGET_TYPE = "world-character"
 
 const TARGET = `${TARGET_TYPE}/hidden`
 
-const ROLE_AT = "agent/role/pages/game-master.role.ts"
+const ROLE_AT = "agent/role/pages/game-master/game-master.role.ts"
 
 const GAME_MASTER_AT = "agent/seat/pages/held/held.seat.ts"
 

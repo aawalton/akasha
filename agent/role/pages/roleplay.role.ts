@@ -93,7 +93,7 @@ export const roleplay = {
       warrant: "Alan reads only the play screen, so a turn left in this seat is never read.",
       aids: [
         "`akasha story turn advance --turn <turn> --beats-file <beats> --prose-file <prose> --character <c>`",
-        "Write the beats as `agent/role/pages/game-master.role.ts` says under Scenes In The Beats.",
+        "Write the beats as `role/game-master` says under Scenes In The Beats.",
         "One beat to a line, at most 100 characters; the last beat is the fork the turn ends on.",
         "Tell every beat in the prose, and beat nothing the prose does not tell.",
         "The turn's page holds his action; an opening holds none.",
@@ -185,7 +185,7 @@ export const roleplay = {
         "Mechanics found a fault in the beats, and the turn waits on this role until it is mended.",
       aids: [
         "The faults are in the `.mechanics-issues.txt` file beside the turn.",
-        "Mend or rule out each as `agent/role/pages/game-master.role.ts` says under Mend The Beats.",
+        "Mend or rule out each as `role/game-master` says under Mend The Beats.",
         "`akasha story turn advance --turn <turn> --beats-file <beats>`, with no prose.",
         "The prose Alan has read remains as it is; never hand it in again.",
       ],
@@ -279,7 +279,7 @@ export const roleplay = {
     {
       directiveKind: "directive-kind/rule",
       name: "Game-Master Rules",
-      act: "Obey Fair Puzzle, Honest Companion and Window On Crossing in `agent/role/pages/game-master.role.ts`.",
+      act: "Obey Fair Puzzle, Honest Companion and Window On Crossing in `role/game-master`.",
       warrant: "This role decides what happens in play, as a game master does.",
       aids: [
         "Read them as written for you, with narrator in place of game master.",
@@ -325,5 +325,5 @@ export const roleplay = {
     },
   ],
   createdAt: "2026-10-17T16:29:48.830Z",
-  updatedAt: "2026-10-27T19:49:46.897Z",
+  updatedAt: "2026-10-27T20:42:26.643Z",
 } as const satisfies Role

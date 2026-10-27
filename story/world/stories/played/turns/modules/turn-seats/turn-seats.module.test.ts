@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
+import { gameMaster } from "akasha/agent/role/pages/game-master/game-master.role.ts"
 import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"

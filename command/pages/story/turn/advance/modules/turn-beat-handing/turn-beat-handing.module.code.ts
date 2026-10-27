@@ -1,4 +1,4 @@
-import { gameMaster as gameMasterRole } from "akasha/agent/role/pages/game-master.role.ts"
+import { gameMaster as gameMasterRole } from "akasha/agent/role/pages/game-master/game-master.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import { beat as beatArgument } from "akasha/command/argument/pages/beat.argument.ts"

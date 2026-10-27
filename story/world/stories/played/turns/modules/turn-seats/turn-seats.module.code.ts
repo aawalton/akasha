@@ -1,4 +1,4 @@
-import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
+import { gameMaster } from "akasha/agent/role/pages/game-master/game-master.role.ts"
 import { roleplay } from "akasha/agent/role/pages/roleplay.role.ts"
 import { worldBuilder } from "akasha/agent/role/pages/world-builder.role.ts"
 import { writer } from "akasha/agent/role/pages/writer.role.ts"

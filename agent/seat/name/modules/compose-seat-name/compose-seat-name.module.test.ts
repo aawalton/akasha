@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { definer } from "akasha/agent/role/pages/definer.role.ts"
-import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
+import { gameMaster } from "akasha/agent/role/pages/game-master/game-master.role.ts"
 import { worldBuilder } from "akasha/agent/role/pages/world-builder.role.ts"
 import { principalOfPersons } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
 import {

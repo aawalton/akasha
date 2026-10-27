@@ -8,7 +8,7 @@
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/companion.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/couples-therapist.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/definer.role.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/game-master.role.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/game-master/game-master.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/handler.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/interviewer.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/operator.role.ts","typed":true,"deferred":false}

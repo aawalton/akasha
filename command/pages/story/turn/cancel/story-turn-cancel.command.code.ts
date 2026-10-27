@@ -1,4 +1,4 @@
-import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
+import { gameMaster } from "akasha/agent/role/pages/game-master/game-master.role.ts"
 import {
   type Asking,
   type Landing,
