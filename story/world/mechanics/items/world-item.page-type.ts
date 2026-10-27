@@ -8,7 +8,8 @@ export const worldItem = {
   pluralSlug: "items",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
-  parts: ["page-type/story-item"],
+  parts: ["page-type/story-item", "select-property/item-category"],
+  properties: [{ pageProperty: "select-property/item-category", required: false, many: false }],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -23,5 +24,5 @@ export const worldItem = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-09-26T17:47:23.000Z",
+  updatedAt: "2026-10-27T18:55:44.214Z",
 } as const satisfies PageType
