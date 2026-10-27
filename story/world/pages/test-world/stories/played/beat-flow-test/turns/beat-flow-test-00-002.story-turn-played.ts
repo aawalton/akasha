@@ -11,5 +11,6 @@ export const beatFlowTest00002 = {
   action: "I walk over to the well in the middle of the square and look down into it.",
   lore: ["lore/test-world-magic", "place/test-world-square"],
   createdAt: "2026-10-27T22:45:06.206Z",
-  updatedAt: "2026-10-27T22:57:06.716Z",
+  updatedAt: "2026-10-27T22:57:59.214Z",
+  endsAt: "2026-11-06T09:37:00.000Z",
 } as const satisfies StoryTurnPlayed
