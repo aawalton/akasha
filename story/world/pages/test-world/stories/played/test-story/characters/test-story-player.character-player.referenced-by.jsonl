@@ -10,6 +10,7 @@
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-lantern.story-item.ts","id":"01a17ec8-4447-7970-a7e2-d7805584d1d4"}
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-leather-coat.story-item.ts","id":"01a17ec8-4447-7db2-9c5a-4613a9f7257d"}
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-shop-lantern.story-item.ts","id":"01a17f0a-b98f-75c4-b982-82d081995f76"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/lore/test-world-folk.lore.ts","id":"01a17ec5-127a-7403-8668-8583d26d91ac"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/test-world/lore/test-world-overview.lore.ts","id":"01a17ec5-127b-73a8-816f-db2d2a379d02"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/test-world/places/test-world-cellar.place.ts","id":"01a17ec5-127b-7fa9-be67-1de8f228ceee"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/test-world/places/test-world-hall.place.ts","id":"01a17ec5-127c-7c95-8abc-8383ca570a2c"}

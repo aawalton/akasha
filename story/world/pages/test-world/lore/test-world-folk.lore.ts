@@ -18,9 +18,9 @@ export const testWorldFolk = {
     },
     {
       fact: "A carter bound for the next town wants a hired sword to guard his load on the road.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/test-story-player"],
     },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T23:46:16.630Z",
+  updatedAt: "2026-10-27T23:57:35.062Z",
 } as const satisfies Lore
