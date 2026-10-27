@@ -7,7 +7,6 @@ export const emberHudFloatLayout = {
   domain: "domain/temper",
   persona: "persona/ember",
   intentStack: [
-    { statement: "The layout is placed again when a panel shows, hides or changes size." },
     { statement: "Two docks on one edge share that edge between them." },
     { statement: "A panel of Temper's own shrinks to the room its dock leaves it." },
     { statement: "A panel that never moves is the first panel of its dock." },
@@ -17,5 +16,5 @@ export const emberHudFloatLayout = {
   ],
   constraints: ["No panel scrolls.", "Nothing here writes Edit HUD's saved positions."],
   createdAt: "2026-10-27T19:00:10.271Z",
-  updatedAt: "2026-10-27T20:28:46.686Z",
+  updatedAt: "2026-10-27T20:28:48.127Z",
 } as const satisfies Initiative
