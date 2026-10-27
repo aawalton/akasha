@@ -11,6 +11,7 @@ export const irisGameMasterProbeTwo = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "fcea3282-bf16-42ef-9b7d-0372cbb1b1b2",
   createdAt: "2026-10-27T23:49:49.507Z",
-  updatedAt: "2026-10-27T23:49:49.507Z",
+  updatedAt: "2026-10-27T23:49:53.113Z",
 } as const satisfies Seat
