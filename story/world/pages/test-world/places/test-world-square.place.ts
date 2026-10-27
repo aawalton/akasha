@@ -37,7 +37,11 @@ export const testWorldSquare = {
       fact: "The square's well drops a long way, its stone walls darkening further down.",
       knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
     },
+    {
+      fact: "The square's well holds clear water far below its rim.",
+      knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T23:02:05.753Z",
+  updatedAt: "2026-10-27T23:02:36.444Z",
 } as const satisfies Place
