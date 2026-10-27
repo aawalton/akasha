@@ -7,17 +7,11 @@ export const awenChatPanel = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [
-    {
-      statement:
-        "The game master's chat replies go to the Assistant tab rather than into turn prose.",
-    },
-    { statement: "A chat message can be sent while a turn is being made." },
-  ],
+  intentStack: [{ statement: "A chat message can be sent while a turn is being made." }],
   constraints: [
     "Bracketed asides already in turns and chapters keep being shown as asides.",
     "A chat correction may still be folded into the story and reported to Awen.",
   ],
   createdAt: "2026-10-27T18:45:50.645Z",
-  updatedAt: "2026-10-27T22:02:55.123Z",
+  updatedAt: "2026-10-27T22:02:56.650Z",
 } as const satisfies Initiative
