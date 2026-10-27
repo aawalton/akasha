@@ -14,6 +14,6 @@ export const cloneProbe00001 = {
   beats: "jsonl",
   endsAt: "2026-11-06T08:50:00.000Z",
   createdAt: "2026-10-27T21:53:57.824Z",
-  updatedAt: "2026-10-27T22:03:41.387Z",
-  ownLength: 64,
+  updatedAt: "2026-10-27T22:04:35.110Z",
+  ownLength: 75,
 } as const satisfies StoryTurnPlayed
