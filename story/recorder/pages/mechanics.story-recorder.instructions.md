@@ -10,7 +10,9 @@ The pages hold every number as it stood before this turn. Work out, beat by beat
 - Append a line to a list, such as a metric's history, with `append` in place of `from` and `to`: `{"beat":3,"page":"…","key":"history","append":{"turn":<this turn's number>,"value":160},"note":"XP logged"}`. A metric the turn moved, even back, takes its end value and a history line of the turn and that value.
 - File a page tracking a character or a mechanic already defined, such as a holding, a metric or a relationship, with `make` and its values: `{"beat":3,"page":"<type>/<slug>","make":{…},"note":"…"}`.
 - `note` is the line the writer reads: at most 100 characters, saying what changed and to what, as a system window would show it.
-- A skill a beat advances takes its new rank, level and demonstrations on its holding page.
+- A skill a beat advances takes its new rank, level, demonstrations and `experience` on its holding page.
+- A skill holding you make states `experience` where the story counts toward a skill's next level, starting at 0, and names in `attribute` her own attribute page that plainly governs the skill, where the story keeps one.
+- A title a beat grants a character is a `character-title` page you make on that beat, naming in `character` the one who holds it and in `worldTitle` the world's title.
 - A page for the player's character that the story has not shown the player states `unrevealed: true`; where a beat shows it, change that to false on that beat. A value a beat shows only in words takes `revealedAs` with those words.
 - A bond, holding or metric of hers that comes about in a beat is made with `make` on that beat. A page of hers no beat shows or makes is in the reader's panels from the story's first page, and reads as drift where it states it is shown or was filed after the first turn.
 
