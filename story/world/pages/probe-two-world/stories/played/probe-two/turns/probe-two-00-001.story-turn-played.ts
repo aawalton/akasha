@@ -7,8 +7,8 @@ export const probeTwo00001 = {
   unit: "unit/words",
   partOfCollections: ["story-played/probe-two"],
   position: 1,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I walk over to the well and look down into it.",
   createdAt: "2026-10-27T23:47:43.474Z",
-  updatedAt: "2026-10-27T23:47:43.474Z",
+  updatedAt: "2026-10-27T23:50:45.932Z",
 } as const satisfies StoryTurnPlayed
