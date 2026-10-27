@@ -88,6 +88,7 @@ export type Writing = {
   readonly writer: string
   readonly message: string
   readonly puts?: readonly Put[]
+  readonly appends?: readonly Put[]
   readonly removes?: readonly string[]
   readonly kept?: readonly Kept[]
   readonly pages?: readonly Naming[]

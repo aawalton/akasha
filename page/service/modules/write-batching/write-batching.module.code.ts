@@ -1,6 +1,8 @@
 import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
+import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -23,11 +25,14 @@ export const PUT = `${changeMechanicalFile.slug}/${addIfNotPresentFile.slug}` as
 
 export const TAKE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
-export type Edit = Extract<Asking, { readonly at: typeof PUT | typeof TAKE }>
+export const APPEND = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
+
+export type Edit = Extract<Asking, { readonly at: typeof PUT | typeof TAKE | typeof APPEND }>
 
 export function pathsIn(asked: Asked): readonly string[] {
   return [
     ...(asked.puts ?? []).map((one) => one.path),
+    ...(asked.appends ?? []).map((one) => one.path),
     ...(asked.removes ?? []),
     ...(asked.kept ?? []).map((one) => one.path),
     ...(asked.keptPuts ?? []).map((one) => one.path),
@@ -75,7 +80,10 @@ export function editsIn(asked: Asked): readonly Edit[] {
     (one): Edit => ({ at: PUT, given: { at: one.path, body: one.content } })
   )
   const takes = (asked.removes ?? []).map((one): Edit => ({ at: TAKE, given: { at: one } }))
-  return [...puts, ...takes]
+  const appends = (asked.appends ?? []).map(
+    (one): Edit => ({ at: APPEND, given: { at: one.path, content: one.content } })
+  )
+  return [...puts, ...takes, ...appends]
 }
 
 export function messageIn(batch: readonly Asked[]): string {
@@ -87,8 +95,14 @@ export function messageIn(batch: readonly Asked[]): string {
 
 export function latestIn(batch: readonly Asked[]): readonly Edit[] {
   const held = new Map<string, Edit>()
-  for (const one of batch) for (const edit of editsIn(one)) held.set(edit.given.at, edit)
-  return [...held.values()]
+  const appended: Edit[] = []
+  for (const one of batch) {
+    for (const edit of editsIn(one)) {
+      if (edit.at === APPEND) appended.push(edit)
+      else held.set(edit.given.at, edit)
+    }
+  }
+  return [...held.values(), ...appended]
 }
 
 export function keptIn(batch: readonly Asked[]): readonly Kept[] {
@@ -115,7 +129,7 @@ export function wroteBy(
   landed: readonly string[]
 ): { readonly wrote: readonly string[]; readonly took: readonly string[] } {
   const gone = new Set(asked.filter((one) => one.at === TAKE).map((one) => one.given.at))
-  const put = asked.filter((one) => one.at === PUT).map((one) => one.given.at)
+  const put = asked.filter((one) => one.at === PUT || one.at === APPEND).map((one) => one.given.at)
   return {
     wrote: [...new Set([...landed.filter((one) => !gone.has(one)), ...put])],
     took: landed.filter((one) => gone.has(one)),

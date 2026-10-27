@@ -21,11 +21,7 @@ export const storyChatAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The append reads the chat at a commit and writes it whole, read at that commit.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An append another write beat is read and tried again, five times at most.",
+      statement: "A message lands as a line the pages append to the chat, and reads nothing first.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,7 +34,7 @@ export const storyChatAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A write landing no commit is no append, and is tried again.",
+      statement: "A write landing no commit is no append, and the message is answered as not kept.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -54,5 +50,5 @@ export const storyChatAnswering = {
     },
   ],
   createdAt: "2026-10-27T19:21:46.037Z",
-  updatedAt: "2026-10-27T20:07:21.255Z",
+  updatedAt: "2026-10-27T21:01:01.319Z",
 } as const satisfies Module

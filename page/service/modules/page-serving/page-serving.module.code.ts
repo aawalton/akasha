@@ -189,7 +189,11 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   }
   const read = writeIn(body)
   if ("refused" in read) return said({ refused: read.refused }, 400)
-  const reached = [...(read.asked.puts ?? []).map((one) => one.path), ...(read.asked.removes ?? [])]
+  const reached = [
+    ...(read.asked.puts ?? []).map((one) => one.path),
+    ...(read.asked.appends ?? []).map((one) => one.path),
+    ...(read.asked.removes ?? []),
+  ]
   const owned = ownedRefused(given.root, reached, read.writtenBy ?? null)
   if (owned !== null) return said({ refused: owned }, 400)
   const folded = foldedFor(given.root, read.pages)

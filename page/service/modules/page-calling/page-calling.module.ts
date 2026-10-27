@@ -189,6 +189,10 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A write may append lines to a file the commit keeps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A line appended beside a page is sent through this module.",
     },
     {
@@ -223,5 +227,5 @@ export const pageCalling = {
     },
   ],
   createdAt: "2026-09-01T17:34:08.092Z",
-  updatedAt: "2026-10-22T15:22:35.349Z",
+  updatedAt: "2026-10-27T21:01:01.319Z",
 } as const satisfies Module

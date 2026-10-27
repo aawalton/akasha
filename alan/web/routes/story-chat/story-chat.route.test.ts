@@ -103,27 +103,22 @@ test("a browser's preflight is answered with nothing to do", async () => {
   expect(answered.status).toBe(204)
 })
 
-test("an append writes the chat whole at the commit it read, the new line last", async () => {
-  const puts: { readonly path: string; readonly content: string; readonly read?: string }[] = []
+test("a message is appended to the chat, and the first one states the chat on its page", async () => {
+  const appends: { readonly path: string; readonly content: string }[] = []
   const stated: unknown[] = []
-  const held = '{"at":"t","from":"alan","body":"one"}\n'
+  const line = '{"at":"u","from":"alan","body":"two"}\n'
   const said = await appendedTo(
     GAME,
-    '{"at":"u","from":"alan","body":"two"}\n',
-    async (sought) =>
-      sought.pages === undefined
-        ? { at: "c1", bodies: [{ path: CHAT, content: held }], unplaced: [] }
-        : { at: "c1", bodies: [{ path: PAGE, content: "" }], unplaced: [] },
+    line,
+    async () => ({ at: "c1", bodies: [{ path: PAGE, content: "" }], unplaced: [] }),
     async (writing) => {
-      for (const one of writing.puts ?? []) puts.push({ ...one, read: writing.read })
+      appends.push(...(writing.appends ?? []))
       stated.push(...(writing.pages ?? []).map((one) => one.values))
       return { commit: "c2", wrote: [CHAT], took: [] }
     }
   )
   expect(said).toEqual({ ok: true })
-  expect(puts).toEqual([
-    { path: CHAT, content: `${held}{"at":"u","from":"alan","body":"two"}\n`, read: "c1" },
-  ])
+  expect(appends).toEqual([{ path: CHAT, content: line }])
   expect(stated).toEqual([{ chat: "jsonl" }])
 })
 
@@ -131,10 +126,7 @@ test("an append whose write lands no commit is refused rather than answered as k
   const said = await appendedTo(
     GAME,
     '{"at":"u","from":"alan","body":"two"}\n',
-    async (sought) =>
-      sought.pages === undefined
-        ? { at: "c1", bodies: [{ path: CHAT, content: "" }], unplaced: [] }
-        : { at: "c1", bodies: [{ path: PAGE, content: 'chat: "jsonl"' }], unplaced: [] },
+    async () => ({ at: "c1", bodies: [{ path: PAGE, content: 'chat: "jsonl"' }], unplaced: [] }),
     async () => ({ commit: null, wrote: [], took: [] })
   )
   expect("refused" in said).toBe(true)

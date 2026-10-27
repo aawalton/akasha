@@ -237,6 +237,19 @@ function namingsIn(given: unknown): readonly Naming[] | string {
   return pages
 }
 
+function putsIn(given: unknown, key: string, one: string): readonly Put[] | string {
+  if (!Array.isArray(given)) return `\`${key}\` is a list`
+  const puts: Put[] = []
+  for (const each of given) {
+    const put = objectIn(each)
+    if (put === null) return `\`${key}\` holds JSON objects`
+    if (typeof put.path !== "string") return `a ${one} states its \`path\` as a string`
+    if (typeof put.content !== "string") return `a ${one} states its \`content\` as a string`
+    puts.push({ path: put.path, content: put.content })
+  }
+  return puts
+}
+
 export function writeIn(given: unknown): Written {
   const held = objectIn(given)
   if (held === null) return { refused: "a write is a JSON object" }
@@ -248,6 +261,7 @@ export function writeIn(given: unknown): Written {
     writer: string
     message: string
     puts?: readonly Put[]
+    appends?: readonly Put[]
     removes?: readonly string[]
     kept?: readonly Kept[]
     read?: string
@@ -259,18 +273,14 @@ export function writeIn(given: unknown): Written {
     asked.claims = claims
   }
   if (held.puts !== undefined) {
-    if (!Array.isArray(held.puts)) return { refused: "`puts` is a list" }
-    const puts: Put[] = []
-    for (const one of held.puts) {
-      const put = objectIn(one)
-      if (put === null) return { refused: "`puts` holds JSON objects" }
-      if (typeof put.path !== "string") return { refused: "a put states its `path` as a string" }
-      if (typeof put.content !== "string") {
-        return { refused: "a put states its `content` as a string" }
-      }
-      puts.push({ path: put.path, content: put.content })
-    }
+    const puts = putsIn(held.puts, "puts", "put")
+    if (typeof puts === "string") return { refused: puts }
     asked.puts = puts
+  }
+  if (held.appends !== undefined) {
+    const appends = putsIn(held.appends, "appends", "append")
+    if (typeof appends === "string") return { refused: appends }
+    asked.appends = appends
   }
   if (held.removes !== undefined) {
     const removes = stringsIn(held.removes)

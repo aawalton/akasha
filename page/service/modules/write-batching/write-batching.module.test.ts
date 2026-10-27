@@ -2,6 +2,8 @@ import { expect, test } from "bun:test"
 import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
+import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import {
   AT,
   asking,
@@ -102,6 +104,29 @@ test("two writes in one batch reaching one path keep the later one", () => {
   ])
   expect(edits.length).toBe(1)
   expect(edits[0]?.given).toEqual({ at: "akasha/a.ts", body: "second" })
+})
+
+test("lines appended land as an append-lines edit and are paths of the write", () => {
+  const held = asking({ appends: [{ path: "akasha/a.chat.jsonl", content: "one\n" }] })
+  expect(pathsIn(held)).toEqual(["akasha/a.chat.jsonl"])
+  expect(editsIn(held)).toEqual([
+    {
+      at: `${changeMechanicalFileContent.slug}/${appendLines.slug}`,
+      given: { at: "akasha/a.chat.jsonl", content: "one\n" },
+    },
+  ])
+  expect(wroteBy(editsIn(held), []).wrote).toEqual(["akasha/a.chat.jsonl"])
+})
+
+test("two writes in one batch appending to one file both land, in order", () => {
+  const edits = latestIn([
+    asking({ appends: [{ path: "akasha/a.chat.jsonl", content: "one\n" }] }),
+    asking({ appends: [{ path: "akasha/a.chat.jsonl", content: "two\n" }] }),
+  ])
+  expect(edits.map((one) => one.given)).toEqual([
+    { at: "akasha/a.chat.jsonl", content: "one\n" },
+    { at: "akasha/a.chat.jsonl", content: "two\n" },
+  ])
 })
 
 test("a page a value is kept for is a path of the write", () => {

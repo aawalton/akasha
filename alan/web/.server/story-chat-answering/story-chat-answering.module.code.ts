@@ -25,8 +25,6 @@ const CORS_METHODS = "POST, OPTIONS"
 
 const HELD = "jsonl"
 
-const TRIES = 5
-
 const WRITER = "Alan's chat <chat@alanwalton.com>"
 
 const NO_MESSAGE = "Please write a message."
@@ -87,32 +85,16 @@ export async function appendedTo(
 ): Promise<Appended> {
   const placed = await chatPathOf(game, reading)
   if ("refused" in placed) return placed
-  const path = placed.path
-  let why = "nothing was tried"
-  for (let taken = 1; taken <= TRIES; taken += 1) {
-    const read = await reading({ paths: [path] })
-    if ("refused" in read) {
-      why = read.refused
-      continue
-    }
-    const held = read.bodies.find((one) => one.path === path)?.content ?? ""
-    const wrote = await writing({
-      writer: WRITER,
-      message: `Alan says a message in the chat of ${game}`,
-      puts: [{ path, content: `${held}${line}` }],
-      read: read.at,
-    })
-    if ("refused" in wrote) {
-      why = wrote.refused
-      continue
-    }
-    if (wrote.commit === null) {
-      why = "the pages landed no commit, and a line was meant"
-      continue
-    }
-    return placed.stated ? { ok: true } : await statedOn(game, wrote.commit, writing)
+  const wrote = await writing({
+    writer: WRITER,
+    message: `Alan says a message in the chat of ${game}`,
+    appends: [{ path: placed.path, content: line }],
+  })
+  if ("refused" in wrote) return wrote
+  if (wrote.commit === null) {
+    return { refused: `\`${placed.path}\` landed no commit, and a line was meant` }
   }
-  return { refused: `\`${path}\` was not written in ${TRIES} tries — ${why}` }
+  return placed.stated ? { ok: true } : await statedOn(game, wrote.commit, writing)
 }
 
 function chatEffects(): ChatEffects {

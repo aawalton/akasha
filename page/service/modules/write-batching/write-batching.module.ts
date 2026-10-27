@@ -9,10 +9,18 @@ export const writeBatching = {
   test: "ts",
   decisions: [
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Lines a write appends land as an append, so a file held to appends takes them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every append in a batch lands, in the order the writes arrived.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the disk or lands a commit.",
     },
   ],
   createdAt: "2026-10-27T20:23:51.121Z",
-  updatedAt: "2026-10-27T20:23:51.121Z",
+  updatedAt: "2026-10-27T21:01:01.319Z",
 } as const satisfies Module

@@ -133,6 +133,10 @@ export const pageServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A write may append lines to a file in the commit, as `appends`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page a write has names its page type.",
     },
     {
@@ -288,5 +292,5 @@ export const pageServing = {
     },
   ],
   createdAt: "2026-08-31T22:59:50.433Z",
-  updatedAt: "2026-09-25T17:00:22.000Z",
+  updatedAt: "2026-10-27T21:01:01.319Z",
 } as const satisfies Module
