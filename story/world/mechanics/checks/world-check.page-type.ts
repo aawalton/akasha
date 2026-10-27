@@ -10,6 +10,7 @@ export const worldCheck = {
   parts: [
     "module-property-group/settling",
     "boolean-property/difficulty-moved",
+    "page-type/action-difficulty",
     "world-check/tower-attack-resolution",
     "world-check/tower-attribute-check",
     "world-check/tower-essence-absorption",
@@ -79,5 +80,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-27T19:51:55.341Z",
+  updatedAt: "2026-10-27T19:53:50.083Z",
 } as const satisfies PageType

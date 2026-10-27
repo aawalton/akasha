@@ -5,9 +5,9 @@ export const oddsModifier = {
   type: "page-type/number-property",
   slug: "odds-modifier",
   propertySlug: "odds-modifier",
-  definition: "what a difficulty level adds to the roll of each check it moves",
+  definition: "what a difficulty adds to the score of each check it moves",
   max: null,
   types: "ts",
   createdAt: "2026-10-27T19:35:27.090Z",
-  updatedAt: "2026-10-27T19:35:27.090Z",
+  updatedAt: "2026-10-27T19:53:50.083Z",
 } as const satisfies NumberProperty
