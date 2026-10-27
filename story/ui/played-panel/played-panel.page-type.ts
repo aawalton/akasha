@@ -25,6 +25,7 @@ export const playedPanel = {
     "played-panel/tower-player-character",
     "played-panel/player-character",
     "played-panel/player-intent",
+    "played-panel/difficulty",
     "played-panel/otherwhere-the-library-player-character",
     "played-panel/other-characters",
     "number-property/panel-position",
@@ -60,5 +61,5 @@ export const playedPanel = {
     { pageProperty: "number-property/panel-position", required: true, many: false },
   ],
   createdAt: "2026-09-21T15:38:28.999Z",
-  updatedAt: "2026-10-27T19:41:00.931Z",
+  updatedAt: "2026-10-27T19:57:56.505Z",
 } as const satisfies PageType

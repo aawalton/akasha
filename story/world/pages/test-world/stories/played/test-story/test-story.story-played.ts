@@ -19,8 +19,9 @@ export const testStory = {
     "played-panel/time",
     "played-panel/story-so-far",
     "played-panel/player-intent",
+    "played-panel/difficulty",
     "played-panel/quest-list",
   ],
   createdAt: "2026-10-27T19:11:09.113Z",
-  updatedAt: "2026-10-27T19:55:45.778Z",
+  updatedAt: "2026-10-27T19:57:56.505Z",
 } as const satisfies StoryPlayed
