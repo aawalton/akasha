@@ -1,6 +1,13 @@
-import { getActiveQuests } from "akasha/temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts"
+import {
+  type ActiveQuest,
+  getActiveQuests,
+} from "akasha/temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import { getCharactersConfig } from "akasha/temper/addon/pages/characters/modules/characters-config/characters-config.module.code.ts"
 import { ENRICHMENT_SELECTORS } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"
+import {
+  fitTaskBlocks,
+  type TaskBlock,
+} from "akasha/temper/addon/pages/characters/modules/characters-task-hud-fit/characters-task-hud-fit.module.code.ts"
 import { isFullyCompleteAtLoad } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-full-completion/characters-task-hud-full-completion.module.code.ts"
 import {
   appendQuestHintRow,
@@ -35,6 +42,7 @@ import {
   syncAssistedQuest,
   toggleQuestExpanded,
   toggleTaskExpanded,
+  userExpandedTaskIds,
 } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"
 import {
   getDungeonSetsForCurrentZone,
@@ -216,11 +224,15 @@ export function refreshTaskHud(): undefined {
     return undefined
   }
 
-  const anyRenders = visibleTasks.some(
-    ([, task]) => !isContainerCard(task.completionCardId) || containerCountFor(task) !== undefined
-  )
+  const entries: TaskEntry[] = []
+  for (const [taskId, task] of visibleTasks) {
+    const containerCount = containerCountFor(task)
+    if (isContainerCard(task.completionCardId) && containerCount === undefined) continue
+    entries.push({ taskId, task, containerCount })
+  }
+
   const emptyLabel = getEmptyLabel()
-  if (!anyRenders) {
+  if (entries.length === 0) {
     if (emptyLabel) emptyLabel.SetHidden(false)
     contentContainer.SetHidden(true)
     noteRefreshExit("empty")
@@ -229,16 +241,55 @@ export function refreshTaskHud(): undefined {
   if (emptyLabel) emptyLabel.SetHidden(true)
   contentContainer.SetHidden(false)
 
+  let drawn = drawTasks(entries, activeQuests, [], entries.length)
+  const fit = fitTaskBlocks(drawn.blocks, roomBelow(hudWindow), PLEDGE_SUB_ROW_HEIGHT + ROW_PADDING)
+  if (fit.shown < entries.length || fit.folded.some((one) => one)) {
+    resetPools()
+    drawn = drawTasks(entries, activeQuests, fit.folded, fit.shown)
+    if (fit.shown < entries.length) appendMoreRow(entries.length - fit.shown, drawn.yOffset)
+  }
+
+  const extraMinWidth = drawn.questHintShown ? INDICATOR_WIDTH + 4 + QUEST_HINT_WIDTH + 8 : 0
+  applyAutoWidth(contentContainer, hudWindow, extraMinWidth)
+  noteRefreshExit("completed")
+}
+
+interface TaskEntry {
+  readonly taskId: string
+  readonly task: TaskData
+  readonly containerCount: number | undefined
+}
+
+interface DrawnTasks {
+  readonly blocks: readonly TaskBlock[]
+  readonly yOffset: number
+  readonly questHintShown: boolean
+}
+
+function roomBelow(hudWindow: TopLevelWindow): number {
+  return GuiRoot.GetHeight() - hudWindow.GetTop() - DRAG_HEIGHT
+}
+
+function appendMoreRow(left: number, yOffset: number): undefined {
+  const text = left === 1 ? "+1 more task" : `+${left} more tasks`
+  pushRow(createSubRow({ text, color: "default", indent: 0 }, yOffset, false))
+}
+
+function drawTasks(
+  entries: readonly TaskEntry[],
+  activeQuests: readonly ActiveQuest[],
+  folded: readonly boolean[],
+  shown: number
+): DrawnTasks {
+  const blocks: TaskBlock[] = []
   let yOffset = 0
   let questHintShown = false
-  for (const [taskId, task] of visibleTasks) {
+  for (let index = 0; index < shown; index++) {
+    const entry = entries[index]
+    if (entry === undefined) continue
+    const { taskId, task, containerCount } = entry
     const isContainer = isContainerCard(task.completionCardId)
-
-    let containerCount: number | undefined
-    if (isContainer) {
-      containerCount = containerCountFor(task)
-      if (containerCount === undefined) continue
-    }
+    const top = yOffset
 
     const row = createTaskRow(taskId, task, yOffset, containerCount)
     pushRow(row)
@@ -251,7 +302,7 @@ export function refreshTaskHud(): undefined {
         isTaskComplete(taskId, task) ||
         (progress !== undefined && progress.current >= progress.total)
     }
-    const expanded = isTaskExpanded(taskId, completed)
+    const expanded = isTaskExpanded(taskId, completed) && folded[index] !== true
 
     row.SetMouseEnabled(true)
     row.SetHandler("OnMouseUp", function (this: void): undefined {
@@ -259,9 +310,7 @@ export function refreshTaskHud(): undefined {
       refreshTaskHud()
     })
 
-    if (!expanded) continue
-
-    if (task.completionCardId === "active-quests") {
+    if (expanded && task.completionCardId === "active-quests") {
       for (const quest of activeQuests) {
         const questExpanded = isQuestExpanded(quest.name, quest.isAssisted)
         const questRow = createQuestRow(quest, yOffset)
@@ -278,14 +327,17 @@ export function refreshTaskHud(): undefined {
           questHintShown = true
         }
       }
-    } else {
+    } else if (expanded) {
       yOffset = appendTaskSubRows(task, completed, yOffset)
     }
-  }
 
-  const extraMinWidth = questHintShown ? INDICATOR_WIDTH + 4 + QUEST_HINT_WIDTH + 8 : 0
-  applyAutoWidth(contentContainer, hudWindow, extraMinWidth)
-  noteRefreshExit("completed")
+    blocks.push({
+      height: yOffset - top,
+      foldedHeight: ROW_HEIGHT + ROW_PADDING,
+      foldable: expanded && !userExpandedTaskIds.has(taskId),
+    })
+  }
+  return { blocks, yOffset, questHintShown }
 }
 
 function appendTaskSubRows(task: TaskData, completed: boolean, yOffset: number): number {
