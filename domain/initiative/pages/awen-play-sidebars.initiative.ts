@@ -29,9 +29,8 @@ export const awenPlaySidebars = {
     { statement: "On a phone, a bottom tab bar opens each place full screen over the turns." },
     { statement: "On a phone, an open place has a switch to the other place on its side." },
     { statement: "The player-character panels are drawn in the character place." },
-    { statement: "The quest-list, story-so-far and time panels are drawn in the journal place." },
   ],
   constraints: ["Nothing inside a panel changes but the place that panel is drawn in."],
   createdAt: "2026-10-27T18:26:40.142Z",
-  updatedAt: "2026-10-27T18:51:02.888Z",
+  updatedAt: "2026-10-27T18:51:04.142Z",
 } as const satisfies Initiative
