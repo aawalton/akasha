@@ -40,6 +40,7 @@ test("a config file written back sits in its own addon's directory", () => {
   expect(CONFIG.companionsConfigPath).toBe(
     "/game/AddOns/TemperCharacters/TemperCharactersCompanionsConfig.lua"
   )
+  expect(CONFIG.coreConfigPath).toBe("/game/AddOns/Temper/TemperConfig.lua")
 })
 
 test("every kind of file the watcher knows names the file that kind is read from", () => {

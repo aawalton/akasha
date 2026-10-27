@@ -81,6 +81,11 @@ const SIDE_FILE_KEYS = {
     answerHash: "companionsConfigSideFileHash",
     remembered: "lastCompanionsConfigWriteBackHash",
   },
+  coreConfig: {
+    configPath: "coreConfigPath",
+    answerHash: "coreConfigSideFileHash",
+    remembered: "lastCoreConfigWriteBackHash",
+  },
   inventoryConfig: {
     configPath: "inventoryConfigPath",
     answerHash: "inventoryConfigSideFileHash",

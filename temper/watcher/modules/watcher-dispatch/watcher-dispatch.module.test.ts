@@ -6,11 +6,15 @@ import {
   type DispatchOptions,
   dispatch,
 } from "akasha/temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts"
-import { harness } from "akasha/temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.test-fixtures.ts"
+import {
+  harness,
+  READER,
+  READER_WITH_NO_USER,
+  WROTE_NOTHING_BACK,
+} from "akasha/temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.test-fixtures.ts"
 import { FILE_TYPES } from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
 import { TARGET_OPERATIONS } from "akasha/temper/watcher/modules/watcher-run-observing/watcher-run-observing.module.code.ts"
 import type { SyncOperation } from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
-import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 holdCompanionCatalogFromCheckout()
 holdSkillCatalogFromCheckout()
@@ -31,14 +35,6 @@ const FAKE_URL = "https://example.test"
 
 const CONTENT = "lua-content"
 
-const READER: SignedInReader = {
-  auth: { getUser: async () => ({ data: { user: { id: "user-1" } }, error: null }) },
-}
-
-const READER_WITH_NO_USER: SignedInReader = {
-  auth: { getUser: async () => ({ data: { user: null }, error: null }) },
-}
-
 function optionsFor(
   at: ReturnType<typeof harness>,
   extra: Partial<DispatchOptions> = {}
@@ -55,16 +51,6 @@ function optionsFor(
 
 function stateOf(operations: readonly SyncOperation[], name: string): string | undefined {
   return operations.find((o) => o.name === name)?.state
-}
-
-const WROTE_NOTHING_BACK = {
-  ok: true,
-  writeBack: null,
-  inventoryConfigSideFileHash: null,
-  companionsConfigSideFileHash: null,
-  charactersConfigSideFileHash: null,
-  catalogConfigSideFileHash: null,
-  catalogLandedSideFileHash: null,
 }
 
 test("catalog reaches the catalog import alone and writes nothing back", async () => {
@@ -95,7 +81,7 @@ test("sales reaches the sales import alone and writes nothing back", async () =>
   expect(at.calls).toEqual(["importSales"])
 })
 
-test("errors reaches the errors import alone and writes nothing back", async () => {
+test("errors reaches the errors import and then the HUD layout export", async () => {
   const at = harness()
   const { operations, ...envelope } = await dispatch(
     "errors",
@@ -106,7 +92,15 @@ test("errors reaches the errors import alone and writes nothing back", async () 
   )
   expect(envelope).toEqual(WROTE_NOTHING_BACK)
   expect(operations.every((o) => o.state === "synced")).toBe(true)
-  expect(at.calls).toEqual(["importErrors"])
+  expect(at.calls).toEqual(["importErrors", "exportHudLayout"])
+})
+
+test("errors writes the HUD layout into the core add-on's config", async () => {
+  const at = harness({ hudLayoutHash: "core-hash" })
+  const options = optionsFor(at, { coreConfigPath: PRESENT_ADDON_CONFIG })
+  const result = await dispatch("errors", CONTENT, FAKE_TOKEN, FAKE_URL, options)
+  expect(stateOf(result.operations, "coreConfig")).toBe("synced")
+  expect(result.coreConfigSideFileHash).toBe("core-hash")
 })
 
 test("combat reaches the fights import alone and writes nothing back", async () => {

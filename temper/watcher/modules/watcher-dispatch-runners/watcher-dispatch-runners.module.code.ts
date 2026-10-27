@@ -1,6 +1,7 @@
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import { runExportCompanionBuilds } from "akasha/temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
+import { runExportHudLayout } from "akasha/temper/watcher/modules/watcher-export-hud-layout/watcher-export-hud-layout.module.code.ts"
 import { runExportLandedCatalogs } from "akasha/temper/watcher/modules/watcher-export-landed-catalogs/watcher-export-landed-catalogs.module.code.ts"
 import { runExportMinedUploaded } from "akasha/temper/watcher/modules/watcher-export-mined-uploaded/watcher-export-mined-uploaded.module.code.ts"
 import { runExportSettings } from "akasha/temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"
@@ -30,6 +31,7 @@ export interface DispatchRunners {
   readonly importSales: typeof runImportSales
   readonly importTasks: typeof runImportTasks
   readonly exportCompanionBuilds: typeof runExportCompanionBuilds
+  readonly exportHudLayout: typeof runExportHudLayout
   readonly exportLandedCatalogs: typeof runExportLandedCatalogs
   readonly exportMinedUploaded: typeof runExportMinedUploaded
   readonly exportSettings: typeof runExportSettings
@@ -63,6 +65,7 @@ export const WATCHER_RUNNERS: DispatchRunners = {
   importSales: runImportSales,
   importTasks: runImportTasks,
   exportCompanionBuilds: runExportCompanionBuilds,
+  exportHudLayout: runExportHudLayout,
   exportLandedCatalogs: runExportLandedCatalogs,
   exportMinedUploaded: runExportMinedUploaded,
   exportSettings: exportSettingsOnceRead,

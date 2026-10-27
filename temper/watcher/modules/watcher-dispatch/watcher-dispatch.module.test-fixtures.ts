@@ -2,6 +2,26 @@ import type { RunReport } from "akasha/temper/watcher/modules/watcher-dispatch/w
 import type { DispatchRunners } from "akasha/temper/watcher/modules/watcher-dispatch-runners/watcher-dispatch-runners.module.code.ts"
 import type { ImportTasksOptions } from "akasha/temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts"
 import type { SyncOperation } from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+
+export const READER: SignedInReader = {
+  auth: { getUser: async () => ({ data: { user: { id: "user-1" } }, error: null }) },
+}
+
+export const READER_WITH_NO_USER: SignedInReader = {
+  auth: { getUser: async () => ({ data: { user: null }, error: null }) },
+}
+
+export const WROTE_NOTHING_BACK = {
+  ok: true,
+  writeBack: null,
+  inventoryConfigSideFileHash: null,
+  companionsConfigSideFileHash: null,
+  charactersConfigSideFileHash: null,
+  catalogConfigSideFileHash: null,
+  catalogLandedSideFileHash: null,
+  coreConfigSideFileHash: null,
+}
 
 interface Tweaks {
   exportTasksModified: boolean
@@ -15,6 +35,7 @@ interface Tweaks {
   minedUploadedHash: string | null
   catalogsLanded: Readonly<Record<string, { apiVersion: string; invalidateVersion: number }>>
   landedHash: string | null
+  hudLayoutHash: string | null
   reportError: Error | null
 }
 
@@ -30,6 +51,7 @@ const CALM: Tweaks = {
   minedUploadedHash: null,
   catalogsLanded: {},
   landedHash: null,
+  hudLayoutHash: null,
   reportError: null,
 }
 
@@ -107,6 +129,10 @@ export function harness(tweaks: Partial<Tweaks> = {}): Harness {
     exportCompanionBuilds: async (content) => {
       calls.push("exportCompanionBuilds")
       return { content, modified: false, companionsConfigSideFileHash: null }
+    },
+    exportHudLayout: async (path) => {
+      calls.push("exportHudLayout")
+      return path === undefined ? null : t.hudLayoutHash
     },
     exportLandedCatalogs: async (path) => {
       calls.push("exportLandedCatalogs")

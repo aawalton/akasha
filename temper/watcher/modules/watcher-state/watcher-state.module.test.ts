@@ -19,6 +19,7 @@ test("a hash never recorded is null rather than an empty string", () => {
   expect(state.lastCatalogLandedWriteBackHash).toBeNull()
   expect(state.lastCharactersConfigWriteBackHash).toBeNull()
   expect(state.lastCompanionsConfigWriteBackHash).toBeNull()
+  expect(state.lastCoreConfigWriteBackHash).toBeNull()
 })
 
 test("every kind of file the watcher knows is remembered from the start", () => {

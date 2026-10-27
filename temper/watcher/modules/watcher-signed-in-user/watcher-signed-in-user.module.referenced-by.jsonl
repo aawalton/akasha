@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts","typed":false,"deferred":false}

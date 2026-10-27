@@ -12,6 +12,7 @@ export interface FileState {
   lastCatalogLandedWriteBackHash: string | null
   lastCharactersConfigWriteBackHash: string | null
   lastCompanionsConfigWriteBackHash: string | null
+  lastCoreConfigWriteBackHash: string | null
 }
 
 type WatcherState = Record<FileType, FileState>
@@ -26,6 +27,7 @@ export function initialFileState(): FileState {
     lastCatalogLandedWriteBackHash: null,
     lastCharactersConfigWriteBackHash: null,
     lastCompanionsConfigWriteBackHash: null,
+    lastCoreConfigWriteBackHash: null,
   }
 }
 

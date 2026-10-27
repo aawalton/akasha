@@ -47,6 +47,7 @@ const COMPANIONS_CONFIG = TARGET_OPERATIONS.companions.sideFile
 const INVENTORY_CONFIG = TARGET_OPERATIONS.inventory.sideFile
 const CATALOG_CONFIG = TARGET_OPERATIONS["data-mining"].sideFile
 const CATALOG_LANDED = TARGET_OPERATIONS.catalog.sideFile
+const CORE_CONFIG = TARGET_OPERATIONS.errors.sideFile
 
 export type RunReport = (operations: readonly SyncOperation[]) => Promise<void>
 
@@ -59,6 +60,7 @@ export interface DispatchOptions {
   readonly charactersConfigPath?: string
   readonly catalogConfigPath?: string
   readonly catalogLandedPath?: string
+  readonly coreConfigPath?: string
   readonly sourcePath?: string
   readonly sourceMtimeMs?: number
 }
@@ -72,6 +74,7 @@ interface DispatchResult {
   readonly charactersConfigSideFileHash: string | null
   readonly catalogConfigSideFileHash: string | null
   readonly catalogLandedSideFileHash: string | null
+  readonly coreConfigSideFileHash: string | null
   readonly error?: string
 }
 
@@ -82,6 +85,7 @@ const NOTHING_WRITTEN = {
   charactersConfigSideFileHash: null,
   catalogConfigSideFileHash: null,
   catalogLandedSideFileHash: null,
+  coreConfigSideFileHash: null,
 } as const
 
 type Handled = Omit<DispatchResult, "ok" | "error">
@@ -244,7 +248,16 @@ async function handleErrors(job: Job): Promise<Handled> {
   const { operation } = await observe(job.imported(ERRORS), () =>
     job.runners.importErrors(job.content)
   )
-  return noSideFile(null, [operation])
+  const exported = await observeSideFileExport(
+    CORE_CONFIG,
+    job.options.coreConfigPath,
+    (coreConfigPath) => job.runners.exportHudLayout(coreConfigPath)
+  )
+  return {
+    ...NOTHING_WRITTEN,
+    operations: [operation, ...optional(exported.operation)],
+    coreConfigSideFileHash: exported.value ?? null,
+  }
 }
 
 async function handleCombat(job: Job): Promise<Handled> {
