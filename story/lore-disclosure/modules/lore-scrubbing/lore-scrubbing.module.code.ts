@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import { constants } from "node:os"
 import { join } from "node:path"
+import { signalNamed } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { UNCLASSIFIED } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { valuesByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -271,7 +272,7 @@ export async function scrubbedRun(
     await child.exited
     const held = out.end() + err.end()
     if (held > 0) sinks.err(`${heldNotice(held)}${NEWLINE}`)
-    return codeOf(child.exitCode, child.signalCode)
+    return codeOf(child.exitCode, signalNamed(child.signalCode))
   } finally {
     for (const one of SIGNALS) process.off(one, passed)
   }
