@@ -168,7 +168,7 @@ function StatsTab({
       ) : null}
       {showsStats && Object.keys(derived).length > 0 ? (
         <Section title="Derived">
-          <ScalarRows record={derived} />
+          <ScalarRows record={derived} single />
         </Section>
       ) : null}
     </div>
