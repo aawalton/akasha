@@ -6,7 +6,7 @@ export const otherwhereIiiTheSystem = {
   slug: "otherwhere-iii-the-system",
   title: "The System",
   world: "world/super-supportive",
-  about: "world-mechanic/otherwhere-iii-the-system",
+  about: "world/super-supportive",
   facts: [
     {
       fact: "Its proper name is the Interdimensional Warrior's Contract; most people just say the System.",
@@ -86,5 +86,5 @@ export const otherwhereIiiTheSystem = {
     },
   ],
   createdAt: "2026-09-28T21:19:18.607Z",
-  updatedAt: "2026-09-29T03:18:12.000Z",
+  updatedAt: "2026-10-27T19:28:49.936Z",
 } as const satisfies Lore
