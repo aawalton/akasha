@@ -11,6 +11,7 @@ export const irisStoryRecorderProbeTwoFlex4 = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "dbf40a6d-6600-4ddd-9fea-27bf575ada6d",
   createdAt: "2026-10-27T23:57:21.416Z",
-  updatedAt: "2026-10-27T23:57:21.416Z",
+  updatedAt: "2026-10-27T23:57:25.911Z",
 } as const satisfies Seat
