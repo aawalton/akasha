@@ -14,7 +14,7 @@ export function emitBuilderPreamble(ext: DockerfileExtensions): readonly string[
     "# which is not accessible in COPY --from= instructions)."
   )
 
-  const baseImage = ext.base_image ?? "oven/bun:1.3.14-alpine"
+  const baseImage = ext.base_image ?? "oven/bun:1.4.4-alpine"
   lines.push(`FROM ${baseImage} AS builder`)
   lines.push("WORKDIR /workspace")
   lines.push("")
