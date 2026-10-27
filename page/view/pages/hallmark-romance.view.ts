@@ -7,7 +7,7 @@ export const hallmarkRomance = {
   title: "Romance",
   nav: "nav/hallmark",
   pageType: "page-type/movie",
-  viewPlace: 0,
+  viewPlace: 1,
   layout: "cards",
   narrows: [
     {
@@ -24,5 +24,5 @@ export const hallmarkRomance = {
   ],
   visibleProperties: ["own-length", "position"],
   createdAt: "2026-10-25T20:04:28.406Z",
-  updatedAt: "2026-10-25T20:09:36.037Z",
+  updatedAt: "2026-10-27T23:32:35.343Z",
 } as const satisfies View
