@@ -19,6 +19,10 @@ export const beatReplay = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Beats handed in from a beat on are numbered on from that beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A record states the beat's time, place, who is there, who arrives and who leaves.",
     },
@@ -58,5 +62,5 @@ export const beatReplay = {
     },
   ],
   createdAt: "2026-10-03T14:44:06.617Z",
-  updatedAt: "2026-10-17T21:25:30.313Z",
+  updatedAt: "2026-10-27T22:07:47.220Z",
 } as const satisfies Module

@@ -170,11 +170,11 @@ function recordIn(line: string, beat: number): Readonly<Record<string, unknown>>
   return `beat ${beat} opens as a record and is no json object`
 }
 
-export function plannedIn(lines: readonly string[]): Planned | Refused {
+export function plannedIn(lines: readonly string[], first = 1): Planned | Refused {
   const beats: string[] = []
   const scenes: BeatScene[] = []
   for (const [at, line] of lines.entries()) {
-    const beat = at + 1
+    const beat = at + first
     if (!line.startsWith(OPENS_RECORD)) {
       beats.push(line)
       continue

@@ -49,6 +49,10 @@ export const turnBeatHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The game master is asked for the refused beat and those after it, and no others.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The beat ready for a seat is worked out from the beats files whenever it asks.",
     },
     {
@@ -71,5 +75,5 @@ export const turnBeatHanding = {
     },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-27T21:23:40.652Z",
+  updatedAt: "2026-10-27T22:07:47.220Z",
 } as const satisfies Module

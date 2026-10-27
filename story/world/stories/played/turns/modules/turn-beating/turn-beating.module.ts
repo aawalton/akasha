@@ -78,7 +78,13 @@ export const turnBeating = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game master states a refused beat again by handing in the whole beats file.",
+      statement:
+        "The game master states a refused beat again by handing in that beat and the beats after it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The beats before the refused one are kept as they are and are not handed in again.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -100,5 +106,5 @@ export const turnBeating = {
     },
   ],
   createdAt: "2026-10-27T19:42:57.720Z",
-  updatedAt: "2026-10-27T21:23:40.652Z",
+  updatedAt: "2026-10-27T22:07:47.220Z",
 } as const satisfies Module

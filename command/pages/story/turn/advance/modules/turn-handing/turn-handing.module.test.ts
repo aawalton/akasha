@@ -4,6 +4,7 @@ import { join } from "node:path"
 import {
   movedTo,
   numberedOf,
+  restatedWhole,
   taken,
   titledOf,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
@@ -206,6 +207,21 @@ test("`--beat` rides on a writer's or a recorder's hand-in, and on no other", ()
   expect(taken(["--turn", SLUG, "--beat", "1"], CALLED, ROOT)).toEqual({
     refused: ["`--beat` names the beat whose part a step hands in, and this hands in lore"],
   })
+})
+
+test("beats handed in from a beat on join the beats kept before that beat", () => {
+  const at = join(scratch.rootFor("turn-handing-from-"), "beats.jsonl")
+  writeFileSync(at, `${JSON.stringify({ beat: 2, event: "Rain falls.", at: "2026-01-01" })}\n`)
+  const read = taken(["--turn", SLUG, "--beats-file", at, "--beat", "2"], CALLED, ROOT)
+  if ("refused" in read) throw new Error(read.refused.join("\n"))
+  const scenes = [{ beat: 1, at: "2025" }]
+  const flow = { beats: ["Wren smiles.", "Snow falls."], scenes, changes: [], memory: [] }
+  expect(restatedWhole(read.handed, flow)).toMatchObject({
+    beats: ["Wren smiles.", "Rain falls."],
+    scenes: [{ beat: 1 }, { beat: 2 }],
+  })
+  const whole = { kind: "lore", lore: [] } as const
+  expect(restatedWhole(whole, flow)).toBe(whole)
 })
 
 test("a titled chapter's slug keeps the story and number and spells the title after them", () => {

@@ -49,6 +49,7 @@ import {
   movedTo,
   numberedOf,
   renamedOf,
+  restatedWhole,
   type Taken,
   taken,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
@@ -189,10 +190,11 @@ async function heldOn(
   const textOf = (path: string) => reach.textIn(given.root, path)
   const stated = heldOf(turn, textOf)
   if ("refused" in stated) return refused(stated.refused, DATA)
-  const read = endedOn(reach, given.root, asked, stated.game, turn)
-  if ("refused" in read) return refused(read.refused, DATA)
   const beats = beatsHeld(turn, textOf)
   if ("refused" in beats) return refused(beats.refused, DATA)
+  const whole = { ...asked, handed: restatedWhole(asked.handed, beats) }
+  const read = endedOn(reach, given.root, whole, stated.game, turn)
+  if ("refused" in read) return refused(read.refused, DATA)
   const { changes, memory } = beats
   const pictured = beats.pictured ?? []
   const story = reach.storyOf(given.root, stated.game)

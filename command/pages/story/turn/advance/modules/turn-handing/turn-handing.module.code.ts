@@ -27,6 +27,7 @@ import {
   proseIn,
   proseWritten,
 } from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
+import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { plannedIn } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
 import {
   type Handed,
@@ -128,6 +129,7 @@ type Said = {
   readonly changesFile?: string | undefined
   readonly memoryFile?: string | undefined
   readonly picturedFile?: string | undefined
+  readonly beat?: number | undefined
 }
 
 function kindsIn(said: Said): readonly Handed["kind"][] {
@@ -202,7 +204,7 @@ function beatsIn(root: string, said: Said): Handed | Refusal {
   }
   const read = heldAt(root, beatsFile.said, said.beatsFile)
   if ("refused" in read) return read
-  const planned = plannedIn(linesIn(read.text))
+  const planned = plannedIn(linesIn(read.text), said.beat ?? 1)
   if ("refused" in planned) return { refused: [planned.refused] }
   const ruling = rulingsAt(root, said.rulingsFile)
   if ("refused" in ruling) return ruling
@@ -282,6 +284,17 @@ function beatOn(handed: Handed, beat: number | undefined): Handed | Refusal {
     refused: [
       `\`${beatArgument.said}\` names the beat whose part a step hands in, and this hands in ${handed.kind}`,
     ],
+  }
+}
+
+export function restatedWhole(handed: Handed, flow: Beats): Handed {
+  if (handed.kind !== "beats" || handed.beat === undefined) return handed
+  const from = handed.beat
+  const kept = (one: { readonly beat: number }) => one.beat < from
+  return {
+    ...handed,
+    beats: [...flow.beats.slice(0, from - 1), ...handed.beats],
+    scenes: [...flow.scenes.filter(kept), ...(handed.scenes ?? [])],
   }
 }
 
