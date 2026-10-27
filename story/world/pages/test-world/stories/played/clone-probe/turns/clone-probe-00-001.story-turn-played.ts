@@ -9,7 +9,7 @@ export const cloneProbe00001 = {
   position: 1,
   prose: "txt",
   characters: ["character-player/clone-probe-player"],
-  stepStatus: "step-status/beats",
+  stepStatus: "step-status/player",
   action: "I look around the hall and check my sword's edge.",
   beats: "jsonl",
   lore: ["lore/test-world-overview", "place/test-world-hall"],
@@ -21,6 +21,6 @@ export const cloneProbe00001 = {
   ],
   endsAt: "2026-11-06T08:50:00.000Z",
   createdAt: "2026-10-27T21:53:57.824Z",
-  updatedAt: "2026-10-27T22:10:25.883Z",
+  updatedAt: "2026-10-27T22:10:37.736Z",
   ownLength: 152,
 } as const satisfies StoryTurnPlayed
