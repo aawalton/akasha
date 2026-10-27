@@ -8,10 +8,6 @@ export const awenTrainingMontage = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    {
-      statement:
-        "The engine runs the world's check for one session of the activity once for each session.",
-    },
     { statement: "Each session moves the world's clock and charges that session's upkeep." },
     {
       statement:
@@ -28,5 +24,5 @@ export const awenTrainingMontage = {
     "Alan approves the shape of each new page type or property before it is built.",
   ],
   createdAt: "2026-10-27T19:31:06.923Z",
-  updatedAt: "2026-10-27T23:59:03.331Z",
+  updatedAt: "2026-10-27T23:59:07.097Z",
 } as const satisfies Initiative
