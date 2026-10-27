@@ -1,2 +1,0 @@
-{"check":"world-check/thornford-action-check","reading":{"band":"standard","bonuses":[{"from":"a good moment","by":2},{"from":"charm","by":1}]},"dice":{"said":"1d20","sides":20,"faces":[4]},"seed":"cf681d85199b1488a5d3989d0991e0bd7d2e9f1bc50882950962f83faac366a3","answered":{"outcome":"twist","total":7,"target":12,"margin":-5}}
-{"check":"world-check/thornford-time-passing","reading":{"from":"2026-04-30T21:18:00.000Z","minutes":2},"answered":{"endsAt":"2026-04-30T21:20:00.000Z","day":3,"light":"dusk"}}
