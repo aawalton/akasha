@@ -8,7 +8,7 @@
       "5": 153066,
       "6": 157259
     },
-    "mainHandWeaponType": 9,
+    "companionId": 2,
     "armor": {
       "1": {
         "isEmpty": false,
@@ -74,6 +74,7 @@
         "displayText": "Light, Quickened"
       }
     },
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
     "weapons": {
       "1": {
         "isEmpty": false,
@@ -94,7 +95,6 @@
         "displayText": "Empty"
       }
     },
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
     "jewelry": {
       "1": {
         "isEmpty": false,
@@ -124,7 +124,7 @@
         "displayText": "Quickened"
       }
     },
-    "companionId": 2
+    "mainHandWeaponType": 9
   },
   "targetBuildHash": "AjEAItC0LQtC0LQtDQ0NGNOzqtY7WAA",
   "level": 20,
