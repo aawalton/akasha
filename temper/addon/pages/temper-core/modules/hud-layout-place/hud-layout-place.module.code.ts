@@ -39,10 +39,16 @@ type Side = "left" | "center" | "right"
 
 type Rooms = Map<string, number>
 
-const COLUMNS: readonly (readonly [HudDock, HudDock | undefined, HudDock])[] = [
-  ["top-left", "left", "bottom-left"],
-  ["top", undefined, "bottom"],
-  ["top-right", "right", "bottom-right"],
+interface Column {
+  readonly startDock: HudDock
+  readonly middleDock?: HudDock
+  readonly endDock: HudDock
+}
+
+const COLUMNS: readonly Column[] = [
+  { startDock: "top-left", middleDock: "left", endDock: "bottom-left" },
+  { startDock: "top", endDock: "bottom" },
+  { startDock: "top-right", middleDock: "right", endDock: "bottom-right" },
 ]
 
 function sideOf(dock: HudDock): Side {
@@ -132,7 +138,7 @@ function placeColumn(
   screen: HudScreen,
   panels: readonly HudPanelBox[],
   gaps: Readonly<Record<HudDock, number>>,
-  [startDock, middleDock, endDock]: readonly [HudDock, HudDock | undefined, HudDock]
+  { startDock, middleDock, endDock }: Column
 ): HudPanelPlace[] {
   const starting = shownIn(panels, startDock)
   const middle = shownIn(panels, middleDock)

@@ -75,6 +75,7 @@
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-entry/hud-addon-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-speed/hud-addon-speed.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/modules/hud-layout-apply/hud-layout-apply.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-state/addon-menu-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-async/modules/async-state/async-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts","typed":false,"deferred":false}

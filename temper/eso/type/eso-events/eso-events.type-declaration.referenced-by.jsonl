@@ -65,6 +65,7 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-entry/hud-addon-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/modules/hud-layout-apply/hud-layout-apply.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-iconpicker-menu/addon-menu-widget-iconpicker-menu.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-slider/addon-menu-widget-slider.module.code.ts","typed":false,"deferred":false}

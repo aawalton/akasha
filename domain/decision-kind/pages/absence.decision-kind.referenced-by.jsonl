@@ -2036,6 +2036,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-plan/hud-addon-hide-plan.module.ts","id":"01a061c5-18dd-700b-9e4a-ac33f45c2a8f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-targets/hud-addon-hide-targets.module.ts","id":"01a061c5-18dd-7009-859a-31630f29ad1a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-types/hud-addon-types.module.ts","id":"01a061c5-18dd-7000-bd52-66ec64cec528"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-layout-apply/hud-layout-apply.module.ts","id":"01a17ed9-eef6-704d-8e98-2539e5793c8d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-combobox/addon-menu-eso-combobox.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000030"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-controls/addon-menu-eso-controls.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000029"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000031"}

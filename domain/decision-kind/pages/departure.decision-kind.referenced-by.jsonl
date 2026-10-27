@@ -4817,6 +4817,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-speed/hud-addon-speed.module.ts","id":"01a15aad-557c-76f4-b8a9-2c859f67322b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-types/hud-addon-types.module.ts","id":"01a061c5-18dd-7000-bd52-66ec64cec528"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-addon-visibility-version/hud-addon-visibility-version.module.ts","id":"01a061c5-18dd-7002-98bb-12e2b151ea28"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-layout-apply/hud-layout-apply.module.ts","id":"01a17ed9-eef6-704d-8e98-2539e5793c8d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/modules/hud-layout-place/hud-layout-place.module.ts","id":"01a17ec2-70c2-768d-9d81-aa9985ae345e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/next-boss-layout/next-boss-layout.eso-interface.ts","id":"01a06157-835b-7886-981b-c885f8cbe8e7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/scrollable-menu-controls/scrollable-menu-controls.eso-interface.ts","id":"01a06275-c447-7a91-b3a6-e3e6daef8679"}

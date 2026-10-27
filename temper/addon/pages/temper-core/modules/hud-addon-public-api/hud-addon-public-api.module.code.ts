@@ -7,6 +7,7 @@ import {
 } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-bar/hud-addon-bar.module.code.ts"
 import { registerTemperCommand } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-command/hud-addon-command.module.code.ts"
 import { getHideRegistry } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"
+import { fitHudPanel } from "akasha/temper/addon/pages/temper-core/modules/hud-layout-apply/hud-layout-apply.module.code.ts"
 
 globalThis.Temper = {
   registerField: registerHudField,
@@ -21,4 +22,5 @@ globalThis.Temper = {
     registry.setHidden(id, hidden)
     registry.applyOne(id)
   },
+  fitHudPanel,
 }

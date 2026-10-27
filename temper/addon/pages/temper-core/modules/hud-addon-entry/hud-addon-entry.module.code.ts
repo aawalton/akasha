@@ -22,6 +22,7 @@ import { ADDON_NAME } from "akasha/temper/addon/pages/temper-core/modules/hud-ad
 import { initializeSavedVariables } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
 import { initializeSettingsPanel } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"
 import { installSpeedField } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-speed/hud-addon-speed.module.code.ts"
+import { initializeHudLayout } from "akasha/temper/addon/pages/temper-core/modules/hud-layout-apply/hud-layout-apply.module.code.ts"
 import { initializeEvents } from "akasha/temper/addon/pages/temper-core/temper-events/modules/events-addon-loaded/events-addon-loaded.module.code.ts"
 import { initializeHousing } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-load/housing-load.module.code.ts"
 import { initializeInterface } from "akasha/temper/addon/pages/temper-core/temper-interface/modules/interface-load/interface-load.module.code.ts"
@@ -45,6 +46,7 @@ function initialize(this: void): undefined {
   initializeHousing()
   initializeKeybinder()
   initializeInterface()
+  initializeHudLayout()
 
   EVENT_MANAGER.RegisterForEvent(
     `${ADDON_NAME}_PlayerActivated`,

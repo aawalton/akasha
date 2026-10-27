@@ -21,6 +21,12 @@ interface TemperApi {
     reason: string
   ) => undefined
   setComponentHidden: (this: void, id: string, hidden: boolean) => undefined
+  fitHudPanel: (
+    this: void,
+    key: string,
+    wanted: number,
+    fit: (this: void, room: number) => undefined
+  ) => number | undefined
   registerCommand: (
     this: void,
     command: {
