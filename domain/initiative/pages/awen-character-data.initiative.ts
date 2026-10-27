@@ -15,11 +15,10 @@ export const awenCharacterData = {
     },
     { statement: "A skill states the attribute that governs it." },
     { statement: "A skill states its experience toward its next level." },
-    { statement: "An ability is a page type with a cooldown counted in actions." },
     { statement: "A character states the titles it holds." },
     { statement: "Level-up choices are a generic mechanic rather than The Tower's alone." },
   ],
   constraints: ["Alan approves the shape of each new page type or property before it is built."],
   createdAt: "2026-10-27T18:44:19.264Z",
-  updatedAt: "2026-10-27T18:51:23.321Z",
+  updatedAt: "2026-10-27T18:57:04.023Z",
 } as const satisfies Initiative
