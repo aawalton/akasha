@@ -8,7 +8,12 @@ export const storyTurnCancel = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
+  parts: ["module/cancel-unbeating"],
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At beats, a cancel takes back exactly what its shown beats wrote onto pages.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "Only the latest turn of its story is cancelled.",
@@ -107,5 +112,5 @@ export const storyTurnCancel = {
     { argument: "argument/take-back-mechanics" },
   ],
   createdAt: "2026-09-28T11:48:32.224Z",
-  updatedAt: "2026-10-04T00:29:35.000Z",
+  updatedAt: "2026-10-27T23:19:34.815Z",
 } as const satisfies Command

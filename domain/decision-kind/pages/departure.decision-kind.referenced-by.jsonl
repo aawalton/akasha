@@ -2580,6 +2580,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.ts","id":"01a14ad9-e67d-7b6d-b50d-1adbb916b211"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.ts","id":"01a0ea0c-6c1c-73f4-8e1a-d0369ea6ecd3"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","id":"01a0deca-7611-72a6-9435-385ed7dedb72"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/cancel/modules/cancel-unbeating/cancel-unbeating.module.ts","id":"01a17fa9-769f-7daa-a79d-814a182476e8"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","id":"01a0e7d8-5f60-71ff-af7a-8f3d30913009"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/drop/story-turn-kept-drop.command.ts","id":"01a0ea39-db28-7124-a2ce-64c6a8ac070c"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.ts","id":"01a0ea39-db29-78af-a3aa-0999fd2a6dde"}

@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-crossed/turn-crossed.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-outcome-marks/turn-outcome-marks.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/story/turn/cancel/modules/cancel-unbeating/cancel-unbeating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/story/turn/modules/turn-written/turn-written.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":false,"deferred":false}

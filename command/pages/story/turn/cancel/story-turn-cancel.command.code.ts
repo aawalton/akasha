@@ -21,6 +21,11 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { beatsHeld } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
+import {
+  type Mechanics as Shown,
+  shownTakenBack,
+} from "akasha/command/pages/story/turn/cancel/modules/cancel-unbeating/cancel-unbeating.module.code.ts"
 import { storyTurnCancel as page } from "akasha/command/pages/story/turn/cancel/story-turn-cancel.command.ts"
 import { heldOf } from "akasha/command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts"
 import {
@@ -51,7 +56,9 @@ import {
   putting,
   taking,
 } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
+import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import {
+  BEATS,
   bareOf,
   latestOf,
   PLAYER,
@@ -189,11 +196,7 @@ export function restoredOf(mechanic: Mechanic, position: number): Restoring | Re
 
 type Rewritten = { readonly at: string; readonly kept: string }
 
-type Mechanics = {
-  readonly namings: readonly Naming[]
-  readonly rewritten: readonly Rewritten[]
-  readonly report: readonly string[]
-}
+type Mechanics = Shown & { readonly rewritten: readonly Rewritten[] }
 
 function restoringOf(
   reach: Cancelling,
@@ -227,8 +230,16 @@ async function mechanicsOf(
   root: string,
   turn: Turn,
   gone: readonly string[],
-  takesBack: boolean
+  takesBack: boolean,
+  beats: Beats | null
 ): Promise<Mechanics | Refused> {
+  if (beats !== null) {
+    const shown = await shownTakenBack(reach, root, turn, gone, beats)
+    if ("refused" in shown || takesBack || shown.report.length === 0) return shown
+    return {
+      refused: `beats of \`${turn.slug}\` already shown wrote onto pages, so it is cancelled only with \`${takeBackMechanics.said}\``,
+    }
+  }
   const written = reach.writtenOn(root, turn)
   const undone = await undoneOf(reach, root, turn, gone)
   if ("refused" in undone) return undone
@@ -287,6 +298,7 @@ function askingOf(
   for (const one of mechanics.rewritten) {
     asking.push(taking(one.at), putting({ path: one.at, content: one.kept }))
   }
+  for (const one of mechanics.removed ?? []) asking.push(taking(one))
   asking.push(taking(turn.at))
   return asking
 }
@@ -336,7 +348,9 @@ async function heldOn(
   const notLatest = latestRefused(reach, given.root, slug, held.game)
   if (notLatest !== null) return refused(notLatest, DATA)
   const gone = besideTurn(reach, given.root, turn)
-  const mechanics = await mechanicsOf(reach, given.root, turn, gone, read.takesBack)
+  const beats = held.status === BEATS ? beatsHeld(turn, (at) => reach.textIn(given.root, at)) : null
+  if (beats !== null && "refused" in beats) return refused(beats.refused, DATA)
+  const mechanics = await mechanicsOf(reach, given.root, turn, gone, read.takesBack, beats)
   if ("refused" in mechanics) return refused(mechanics.refused, DATA)
   const asking = askingOf(reach, given.root, turn, mechanics)
   if ("refused" in asking) return refused(asking.refused, DATA)
