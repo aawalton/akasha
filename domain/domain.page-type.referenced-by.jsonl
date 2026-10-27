@@ -598,6 +598,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/chapter/narration/narration.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/beat-state/beat-state.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/core/story-engine-core.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/kokoro-tts/kokoro-tts.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/story-engine.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/voyage/inworld-tts/inworld-tts.domain.ts","typed":true,"deferred":false}

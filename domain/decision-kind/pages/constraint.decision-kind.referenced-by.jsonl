@@ -467,6 +467,7 @@
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/recovery/narration-recovery.module.ts","id":"01a111c2-21eb-76e4-8f9a-4d8209ace7cd"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/modules/segments/narration-segments.module.ts","id":"01a10dc1-6462-7fc5-8567-7b9132654b76"}
 {"propertySlug":"decision-kind","path":"story/chapter/narration/narration.domain.ts","id":"01a10dba-92d8-79bd-b65d-435b1af749d5"}
+{"propertySlug":"decision-kind","path":"story/engine/kokoro-tts/kokoro-tts.domain.ts","id":"01a17ea9-8aea-71a1-a676-ce7d8072067f"}
 {"propertySlug":"decision-kind","path":"story/engine/voyage/inworld-tts/inworld-tts.domain.ts","id":"01a17ea3-56ff-7c26-a90e-219e1714a59d"}
 {"propertySlug":"decision-kind","path":"story/engine/voyage/voyage.domain.ts","id":"01a17e94-d82a-756c-8ab0-01dcc4b79396"}
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/max-level.computed-property.ts","id":"01a0657a-9ccc-799d-b3da-5f74e280345a"}

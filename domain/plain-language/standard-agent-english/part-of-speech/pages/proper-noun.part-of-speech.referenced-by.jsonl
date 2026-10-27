@@ -33,6 +33,7 @@
 {"propertySlug":"part-of-speech","path":"person/pages/katara/katara.person.ts","id":"01a053fe-00f1-74b6-a49f-9f577dba1047"}
 {"propertySlug":"part-of-speech","path":"person/pages/ki/ki.person.ts","id":"01a053fe-00f2-7278-a312-a9d344de7526"}
 {"propertySlug":"part-of-speech","path":"person/pages/lizzy/lizzy.person.ts","id":"01a053fe-00f2-7cf3-92bc-694ea856500c"}
+{"propertySlug":"part-of-speech","path":"story/engine/kokoro-tts/kokoro-tts.domain.ts","id":"01a17ea9-8aea-71a1-a676-ce7d8072067f"}
 {"propertySlug":"part-of-speech","path":"story/engine/voyage/inworld-tts/inworld-tts.domain.ts","id":"01a17ea3-56ff-7c26-a90e-219e1714a59d"}
 {"propertySlug":"part-of-speech","path":"story/engine/voyage/voyage.domain.ts","id":"01a17e94-d82a-756c-8ab0-01dcc4b79396"}
 {"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}

@@ -11,6 +11,7 @@ export const storyEngine = {
     "domain/story-engine-core",
     "module/phase-timing",
     "domain/voyage",
+    "domain/kokoro-tts",
   ],
   decisions: [
     {
@@ -23,5 +24,5 @@ export const storyEngine = {
     },
   ],
   createdAt: "2026-09-02T14:23:28.546Z",
-  updatedAt: "2026-10-27T18:17:26.313Z",
+  updatedAt: "2026-10-27T18:40:02.793Z",
 } as const satisfies Domain
