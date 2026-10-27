@@ -46,6 +46,13 @@ const ROOT_BODY = `{
 
 const FROZEN = ["bun", "install", "--frozen-lockfile", "--dry-run"]
 
+const SKIPPED = "listed in bun.lock but not on disk"
+
+function agreesWithLock(root: string): boolean {
+  const done = ran(FROZEN, { cwd: root })
+  return done.code === 0 && !done.err.includes(SKIPPED)
+}
+
 const LINKED_BODY = `{
   "name": "held",
   "private": true,
@@ -344,9 +351,9 @@ test("a manifest going takes the lockfile with it, as one arriving does", () => 
   const held = lockingFor(root, baseOf(root), going)
   expect(held.edits.map((one) => one.path)).toEqual([LOCK])
   rmSync(join(root, "held/one"), { recursive: true, force: true })
-  expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
+  expect(agreesWithLock(root)).toBe(false)
   for (const one of held.edits) {
     writeFileSync(join(root, one.path), bodyOf(one))
   }
-  expect(ran(FROZEN, { cwd: root }).code).toBe(0)
+  expect(agreesWithLock(root)).toBe(true)
 })

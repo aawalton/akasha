@@ -11,7 +11,13 @@ export const manifestLocking = {
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A manifest parted from its lockfile refuses every install of the whole tree.",
+      statement:
+        "A manifest arriving apart from its lockfile refuses every install of the whole tree.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A manifest going apart from its lockfile is skipped by an install, which says so.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -165,5 +171,5 @@ export const manifestLocking = {
     },
   ],
   createdAt: "2026-09-02T14:36:54.921Z",
-  updatedAt: "2026-09-24T22:44:08.000Z",
+  updatedAt: "2026-10-27T07:30:45.009Z",
 } as const satisfies Module
