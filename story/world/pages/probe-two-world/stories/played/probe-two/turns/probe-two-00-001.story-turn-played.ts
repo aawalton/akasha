@@ -12,8 +12,9 @@ export const probeTwo00001 = {
   stepStatus: "step-status/beats",
   action: "I walk over to the well and look down into it.",
   beats: "jsonl",
+  lore: ["place/probe-two-world-square"],
   createdAt: "2026-10-27T23:47:43.474Z",
-  updatedAt: "2026-10-27T23:58:27.790Z",
+  updatedAt: "2026-10-27T23:59:03.486Z",
   ownLength: 93,
   endsAt: "2026-11-11T09:32:00.000Z",
 } as const satisfies StoryTurnPlayed
