@@ -13,6 +13,7 @@ import type { CoverAfter } from "akasha/story/world/stories/played/turns/propert
 import type { Outcomes } from "akasha/story/world/stories/played/turns/properties/outcomes.file-property.types.ts"
 import type { TurnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.types.ts"
 import type { TurnEndsAt } from "akasha/story/world/stories/played/turns/properties/turn-ends-at.instant-property.types.ts"
+import type { TurnInterruptsAt } from "akasha/story/world/stories/played/turns/properties/turn-interrupts-at.instant-property.types.ts"
 
 export type StoryTurnPlayed = Turn & {
   outcomes?: Outcomes
@@ -29,4 +30,5 @@ export type StoryTurnPlayed = Turn & {
   coverAfter?: CoverAfter
   rulings?: Rulings
   roleplayed?: Roleplayed
+  interruptsAt?: TurnInterruptsAt
 }

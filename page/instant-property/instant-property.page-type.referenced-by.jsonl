@@ -65,6 +65,7 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/played/chapters/properties/chapter-ends-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/played/properties/story-opens-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-ends-at.instant-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-interrupts-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/marked-read-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/removed-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/catalog/world/properties/captured-at.instant-property.ts","typed":true,"deferred":false}
