@@ -8,7 +8,6 @@ export const awenTestStory = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    { statement: "The test story has turns and a closed chapter to show." },
     {
       statement:
         "The test story names a panel in each of the character, journal, map and chat places.",
@@ -18,5 +17,5 @@ export const awenTestStory = {
     "The test story is played only by agents testing the engine, never offered to Alan.",
   ],
   createdAt: "2026-10-27T19:03:53.823Z",
-  updatedAt: "2026-10-27T19:13:42.262Z",
+  updatedAt: "2026-10-27T19:14:34.912Z",
 } as const satisfies Initiative
