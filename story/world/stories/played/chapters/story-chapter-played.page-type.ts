@@ -10,6 +10,8 @@ export const storyChapterPlayed = {
   runsTabooCheck: false,
   parts: [
     "record-property/chapter-turn-covers",
+    "record-property/chapter-turn-starts",
+    "number-property/turn-start-paragraph",
 
     "text-property/last-turn",
     "number-property/last-turn-position",
@@ -18,6 +20,12 @@ export const storyChapterPlayed = {
   properties: [
     {
       pageProperty: "record-property/chapter-turn-covers",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "record-property/chapter-turn-starts",
       required: false,
       many: true,
       maxCount: null,
@@ -74,5 +82,5 @@ export const storyChapterPlayed = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T00:38:51.337Z",
-  updatedAt: "2026-10-06T11:32:36.000Z",
+  updatedAt: "2026-10-27T21:12:07.489Z",
 } as const satisfies PageType
