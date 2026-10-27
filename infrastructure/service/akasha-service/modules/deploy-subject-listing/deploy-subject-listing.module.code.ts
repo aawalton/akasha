@@ -34,6 +34,8 @@ const SLUG = "slug"
 
 const REPOSITORY = "repository"
 
+const BY_HAND = "publishedByHand"
+
 const SERVICE_CLUSTERS = "serviceClusters"
 
 export type Subject = {
@@ -64,7 +66,7 @@ export function kindedElsewhere(kind: Kind, read: Read): boolean {
 
 export function pushedNowhere(kind: Kind, value: Value | null): boolean {
   if (kind !== CONTAINER_RECIPE) return false
-  return value === null || textAt(value, REPOSITORY) === null
+  return value === null || textAt(value, REPOSITORY) === null || value[BY_HAND] === true
 }
 
 export function servedIn(webApps: readonly Value[]): ReadonlySet<string> {

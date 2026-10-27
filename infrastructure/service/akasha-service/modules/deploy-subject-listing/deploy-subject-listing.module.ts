@@ -61,6 +61,10 @@ export const deploySubjectListing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A container recipe published by hand is no subject of that kind either.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A recipe naming a repository is the one a deploy pushes; one naming none is built where it runs.",
     },
@@ -87,5 +91,5 @@ export const deploySubjectListing = {
     },
   ],
   createdAt: "2026-09-12T11:58:31.077Z",
-  updatedAt: "2026-09-25T17:25:02.000Z",
+  updatedAt: "2026-10-27T08:59:22.810Z",
 } as const satisfies Module

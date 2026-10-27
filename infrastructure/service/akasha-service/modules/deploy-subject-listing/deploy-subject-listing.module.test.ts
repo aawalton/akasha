@@ -83,6 +83,11 @@ test("a container recipe naming no repository is no subject, since a deploy has 
   expect(pushedNowhere("container-recipe", null)).toBe(true)
 })
 
+test("a container recipe published by hand is no subject, since only a deploy naming it publishes it", () => {
+  const value = { repository: "cluster/temper-watcher", publishedByHand: true }
+  expect(pushedNowhere("container-recipe", value)).toBe(true)
+})
+
 test("a page of any other kind is a subject whether or not it names a repository", () => {
   expect(pushedNowhere("service-cluster", {})).toBe(false)
   expect(pushedNowhere("temper-addon", null)).toBe(false)
