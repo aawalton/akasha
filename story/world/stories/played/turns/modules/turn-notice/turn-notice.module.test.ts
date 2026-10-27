@@ -55,6 +55,8 @@ test("a notice of a turn no page holds, or no notice at all, is not called stale
 test("a notice of a written chapter names it a chapter and reads back the same way", () => {
   const chapter = "stories/written/saga/chapters/saga-0002.story-chapter-written.ts"
   const said = noticeOf(chapter, "reviewers", [], "chapter")
-  expect(said).toBe(`The chapter \`${chapter}\` is at reviewers.`)
+  expect(said).toStartWith(`The chapter \`${chapter}\` is at reviewers.\n`)
+  expect(said).toContain(`read it with \`akasha read --file-path ${chapter}\``)
+  expect(said).toContain("The story's pages are under `stories/written/saga/`.")
   expect(noticeRead(said)).toEqual({ turn: chapter, step: "reviewers" })
 })

@@ -43,6 +43,7 @@ import {
   taking,
 } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
+import { noticeOf } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const CALLED = "akasha story turn rewind"
 
@@ -123,11 +124,8 @@ test("a rewind at any other step leaves those seats on call and tells its game m
   const into = seen()
   await rewoundBy([], reachOver(turnAt({ action: "I open the gate" }), into), into)
   expect(into.stops).toEqual([])
-  expect(into.notices).toEqual([
-    `${MASTER}: The turn \`${AT}\` is at world-builder.`,
-    `${BUILDER}: The turn \`${AT}\` is at world-builder.`,
-    `${WRITER}: The turn \`${AT}\` is at world-builder.`,
-  ])
+  const said = noticeOf(AT, "world-builder")
+  expect(into.notices).toEqual([`${MASTER}: ${said}`, `${BUILDER}: ${said}`, `${WRITER}: ${said}`])
 })
 
 test("each seat told is named, by path, the lore pages it read that have changed since", async () => {
@@ -138,7 +136,7 @@ test("each seat told is named, by path, the lore pages it read that have changed
     changedLore: (_root, seat) => (seat === WRITER ? [hall] : []),
   }
   await rewoundBy([], reach, into)
-  const said = `The turn \`${AT}\` is at world-builder.`
+  const said = noticeOf(AT, "world-builder")
   expect(into.notices).toEqual([
     `${MASTER}: ${said}`,
     `${BUILDER}: ${said}`,

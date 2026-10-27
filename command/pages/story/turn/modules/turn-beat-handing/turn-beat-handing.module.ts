@@ -32,6 +32,10 @@ export const turnBeatHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The message says how the turn's page is read, as a step notice does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The numbers seat works each beat by the mechanics, inventory and plan instructions.",
     },
@@ -80,5 +84,5 @@ export const turnBeatHanding = {
     },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-27T23:13:43.255Z",
+  updatedAt: "2026-10-27T23:46:28.751Z",
 } as const satisfies Module

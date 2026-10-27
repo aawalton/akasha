@@ -8,6 +8,7 @@ import type { Told } from "akasha/command/pages/story/turn/modules/turn-reaching
 import {
   GAME_MASTER,
   MECHANICS,
+  noticeOf,
   PLAYER,
   RECORDERS,
   WORLD_BUILDER,
@@ -60,7 +61,7 @@ test("a roleplayed turn's move is told to each roleplay-recorder seat of its sto
     status: RECORDERS,
   }
   await roleplayTold(notifying(sent, pushed), telling, after, seatsOf)
-  expect(sent).toEqual([`${RECORDER}: The turn \`${AT}\` is at recorders.`])
+  expect(sent).toEqual([`${RECORDER}: ${noticeOf(AT, RECORDERS)}`])
   expect(pushed).toEqual([])
   expect(after.report).toEqual([`told\t${RECORDER}`])
   expect(after.faults).toEqual([])
@@ -71,7 +72,7 @@ test("a roleplayed turn back at game-master is told to the roleplay seat alone",
   const after: Told = { report: [], faults: [] }
   const telling = { root: "/r", game: "the-saga", turn: AT, from: MECHANICS, status: GAME_MASTER }
   await roleplayTold(notifying(sent, []), telling, after, seatsOf)
-  expect(sent).toEqual([`${NARRATOR}: The turn \`${AT}\` is at game-master.`])
+  expect(sent).toEqual([`${NARRATOR}: ${noticeOf(AT, GAME_MASTER)}`])
 })
 
 test("a roleplayed turn's notice carries each job of its step to the roleplay-recorder alone", async () => {
@@ -86,7 +87,7 @@ test("a roleplayed turn's notice carries each job of its step to the roleplay-re
     jobs: ["the first job", "the second job"],
   }
   await roleplayTold(notifying(sent, []), telling, after, seatsOf)
-  const notice = `The turn \`${AT}\` is at mechanics.`
+  const notice = noticeOf(AT, MECHANICS)
   expect(sent).toHaveLength(1)
   expect(sent[0]).toStartWith(`${RECORDER}: ${notice}\n\n`)
   expect(sent[0]).toEndWith("the first job\n\n---\n\nthe second job")
@@ -104,7 +105,7 @@ test("the roleplay-worldbuilder's notice carries no job", async () => {
     jobs: ["a job"],
   }
   await roleplayTold(notifying(sent, []), telling, after, seatsOf)
-  expect(sent).toContain(`${BUILDER}: The turn \`${AT}\` is at mechanics.`)
+  expect(sent).toContain(`${BUILDER}: ${noticeOf(AT, MECHANICS)}`)
 })
 
 test("a roleplayed turn leaving world-builder is told to its roleplay-illustrator, with no job", async () => {
@@ -119,7 +120,7 @@ test("a roleplayed turn leaving world-builder is told to its roleplay-illustrato
     jobs: ["a job"],
   }
   await roleplayTold(notifying(sent, []), telling, after, seatsOf)
-  expect(sent).toContain(`${ILLUSTRATOR}: The turn \`${AT}\` is at mechanics.`)
+  expect(sent).toContain(`${ILLUSTRATOR}: ${noticeOf(AT, MECHANICS)}`)
   expect(after.report).toContain(`told\t${ILLUSTRATOR}`)
 })
 

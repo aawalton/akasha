@@ -7,7 +7,10 @@ import {
   type Stated,
 } from "akasha/alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts"
 import { ACTION_BAR_PLAYER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
-import { STEP_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import {
+  noticeOf,
+  STEP_SENDER,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const SEAT = "gm-seat"
 
@@ -160,7 +163,7 @@ test("an action makes the game's next turn and tells every game seat, starting a
   expect(answered.status).toBe(200)
   expect(await answered.json()).toEqual({ ok: true, id: "the-game-00-003" })
   expect(made).toEqual([`${GAME}: I wait`])
-  const notice = `The turn \`${MADE_AT}\` is at world-builder.`
+  const notice = noticeOf(MADE_AT, "world-builder")
   expect(written).toEqual([
     { to: MASTER, from: STEP_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
     { to: BUILDER, from: STEP_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
@@ -174,7 +177,7 @@ test("a roleplayed turn's notice to the game's own seat alone ends with the pros
     make: async () => ({ kind: "made", slug: "the-game-00-003", at: MADE_AT, roleplayed: true }),
   })
   await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
-  const notice = `The turn \`${MADE_AT}\` is at world-builder.`
+  const notice = noticeOf(MADE_AT, "world-builder")
   const check =
     'Before you hand the prose in, check every sentence of the turn, including everything a character says or writes. Take out any sentence, or end of a sentence, that sums up, states a rule, or limits what came before it, such as "and that\'s all" or "that\'s the job".'
   expect(written.map((one) => [one.to, one.body])).toEqual([

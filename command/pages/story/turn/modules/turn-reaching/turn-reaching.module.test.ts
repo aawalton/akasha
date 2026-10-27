@@ -25,6 +25,7 @@ import {
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
+import { noticeOf } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 afterAll(() => rmSync(ROOT, { recursive: true, force: true }))
 
@@ -218,5 +219,5 @@ test("a story whose player wrote no intent hands the game master nothing of one"
   const into = seen()
   const after: Told = { report: [], faults: [] }
   await noticesSent(pushingReach(into, []), ROOT, GAME, MASTER, AT, "game-master", after)
-  expect(into.notices[0]).toBe(`${MASTER}: The turn \`${AT}\` is at game-master.`)
+  expect(into.notices[0]).toBe(`${MASTER}: ${noticeOf(AT, "game-master")}`)
 })

@@ -362,6 +362,12 @@ export function repairSaid(noun: Noun, repairs: readonly Repair[]): string {
   return [...faults, ...rulings].join(BREAK)
 }
 
+export function whereSaid(at: string): string {
+  const folder = at.split("/").slice(0, -2).join("/")
+  const story = folder === "" ? "" : ` The story's pages are under \`${folder}/\`.`
+  return `That path is from the akasha repository root: read it with \`akasha read --file-path ${at}\`, and never search the disk for it.${story}`
+}
+
 export function noticeOf(
   turn: string,
   step: TurnStep,
@@ -369,7 +375,7 @@ export function noticeOf(
   noun: Noun = TURN,
   repairs: readonly Repair[] = []
 ): string {
-  const said = [`The ${noun} \`${turn}\` is at ${step}.`]
+  const said = [`The ${noun} \`${turn}\` is at ${step}.`, whereSaid(turn)]
   if (repairs.length > 0) said.push("", repairSaid(noun, repairs))
   if (step === WRITER && ruledIn(repairs)) said.push(PROSE_UNASKED)
   if (changed.length === 0) return said.join(BREAK)

@@ -25,6 +25,15 @@ export const turnLifecycle = {
       decisionKind: "decision-kind/departure",
       statement: "A notice of a turn names its path and its status, and nothing of its content.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A notice says its path is from the repository root and names the read reaching it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A notice names the folder its story's pages are under, so no seat searches.",
+    },
 
     {
       decisionKind: "decision-kind/departure",
@@ -50,5 +59,5 @@ export const turnLifecycle = {
     },
   ],
   createdAt: "2026-09-26T17:28:05.792Z",
-  updatedAt: "2026-10-27T20:59:58.311Z",
+  updatedAt: "2026-10-27T23:46:28.751Z",
 } as const satisfies Module

@@ -24,7 +24,10 @@ import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-ty
 import { beatsWritten } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
-import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import {
+  noticeOf,
+  type TurnStep,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 export const SLUG = "the-saga-00-003"
 
@@ -205,7 +208,7 @@ const BUILDER = "mari-world-builder-the-saga"
 export const WRITER = "mari-writer-the-saga"
 
 export function toldAll(step: TurnStep): string[] {
-  const said = `The turn \`${AT}\` is at ${step}.`
+  const said = noticeOf(AT, step)
   const body = step === "writer" ? `${said}\n\n${loreLine([MARA_LORE])}` : said
   return [MASTER, BUILDER, WRITER].map((to) => `${to}: ${body}`)
 }

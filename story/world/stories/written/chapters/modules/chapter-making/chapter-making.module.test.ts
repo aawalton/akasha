@@ -3,7 +3,10 @@ import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { statusOf } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import {
+  noticeOf,
+  statusOf,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
   besideStory,
   type Calls,
@@ -81,7 +84,7 @@ test("a started chapter is written as new and its story's seats are told", async
     "seat/mari-writer-hotel",
   ])
   expect(sent[0]?.pages?.[0]?.values["body"]).toBe(
-    `The chapter \`${CHAPTER_AT}\` is at world-builder.\n`
+    `${noticeOf(CHAPTER_AT, "world-builder", [], "chapter")}\n`
   )
 })
 

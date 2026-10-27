@@ -54,6 +54,7 @@ import {
   type Moved,
   statusOf,
   WORLD_BUILDER,
+  whereSaid,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
   coordinatorOf,
@@ -171,6 +172,8 @@ export function beatPrompt(part: FlowPart, asked: BeatAsking): string {
     `Beat ${beat} of the turn \`${turn.at}\` is ready for you. Its line in the turn's beats file, as the steps before you left it:`,
     "",
     line,
+    "",
+    whereSaid(turn.at),
     "",
     said.work,
     ...(part === "event" || part === "prose" ? [] : ["", FRESH]),

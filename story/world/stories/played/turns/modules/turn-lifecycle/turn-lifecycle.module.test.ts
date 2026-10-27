@@ -201,7 +201,16 @@ test("a notice of a page holding issues says it came back for repair and names e
   expect(said).toContain("The chapter `x/saga-0001.ts` is at game-master.")
   expect(said).toContain("came back for repair")
   expect(said).toContain("- `x/saga-0001.issues.txt`, listing 2 faults")
-  expect(noticeOf("x/saga-0001.ts", "writer")).toBe("The turn `x/saga-0001.ts` is at writer.")
+  expect(noticeOf("x/saga-0001.ts", "writer")).toStartWith(
+    "The turn `x/saga-0001.ts` is at writer.\n"
+  )
+})
+
+test("a notice says how its page is read and which folder its story's pages are under", () => {
+  const said = noticeOf("w/stories/played/saga/turns/saga-00-002.story-turn-played.ts", "writer")
+  expect(said).toContain("`akasha read --file-path w/stories/played/saga/turns/saga-00-002")
+  expect(said).toContain("never search the disk")
+  expect(said).toContain("The story's pages are under `w/stories/played/saga/`.")
 })
 
 const RULED = { issue: `${VOICE}: beat 2 is dull`, reason: "the beat is quiet on purpose" }
