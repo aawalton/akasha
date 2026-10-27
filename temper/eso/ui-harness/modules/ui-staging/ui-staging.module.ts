@@ -189,6 +189,18 @@ export const uiStaging = {
       statement: "A map tile is named from the first tile the player's game answered for that map.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A capture keeps no answer that is all zeros, falses or empty words.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's documentation says an action slot's item count may be nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item slot whose count the capture holds none of answers that it holds none.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "The player's answers that the player is activated and the skills are ready are not set.",
@@ -250,5 +262,5 @@ export const uiStaging = {
     },
   ],
   createdAt: "2026-09-22T18:33:40.383Z",
-  updatedAt: "2026-10-20T18:36:49.985Z",
+  updatedAt: "2026-10-27T19:18:52.778Z",
 } as const satisfies Module

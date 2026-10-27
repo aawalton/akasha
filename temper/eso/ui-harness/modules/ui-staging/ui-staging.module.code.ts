@@ -89,6 +89,14 @@ GetMapTileTexture = function(index)
   return (string.gsub(first, "_0%.dds$", "_" .. tostring((index or 1) - 1) .. ".dds"))
 end`
 
+const ITEM_COUNTS = `
+local countOf = GetSlotItemCount
+GetSlotItemCount = function(slot, category)
+  local held = countOf(slot, category)
+  if held == nil and GetSlotType(slot, category) == ACTION_TYPE_ITEM then return 0 end
+  return held
+end`
+
 const PER_CHUNK = 40
 
 const UNPINNED = "no commit"
@@ -339,6 +347,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     const refused: string[] = []
     for (const chunk of playedAnswers(asked.root)) await harness.load(chunk)
     await harness.load(MAP_TILES)
+    await harness.load(ITEM_COUNTS)
     await harness.load(NOT_YET_READY)
     const files = gameFiles(esoui).map((file) => ({ ...file, text: readFileSync(file.at, "utf8") }))
     await harness.load(
