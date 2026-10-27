@@ -17,6 +17,10 @@ import {
   type Paged,
   storyIndexed,
 } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
+import {
+  masterOf,
+  startedAgain,
+} from "akasha/command/pages/story/turn/modules/turn-hand-retrying/turn-hand-retrying.module.code.ts"
 import type { Starting } from "akasha/command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts"
 import type { Recorder } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import {
@@ -297,14 +301,12 @@ export async function beatsHanded(
 ): Promise<undefined> {
   if (held.roleplayed === true || held.noun === CHAPTER) return undefined
   if (held.status !== BEATS && said.status !== BEATS) return undefined
-  const master = at.story?.master ?? null
-  const persona = master === null ? null : (coordinatorOf(master, at.game)?.persona ?? null)
-  if (master === null || persona === null) {
-    after.faults.push(
-      `\`${at.game}\` names no game master seat spelling a persona, so no beat was handed out`
-    )
+  const seated = await masterOf(reach, root, at.game)
+  if ("refused" in seated) {
+    after.faults.push(seated.refused)
     return undefined
   }
+  const { master, persona } = seated
   const story = storyIndexed(root, held.game, false)
   const flowing = flowingIn(story, slug)
   const now = flowing.map((one) => one.beats)
@@ -329,7 +331,7 @@ export async function beatsHanded(
     }
     const starting = startingOf(job, asked, persona, at.game)
     try {
-      const handed = await reach.start(starting, done)
+      const handed = await startedAgain(reach, starting, done)
       after.report.push(`${handed.how}\t${handed.name}\tbeat ${job.beat} of ${turn.slug}`)
     } catch (thrown) {
       after.faults.push(`beat ${job.beat} of \`${turn.slug}\` was not handed out: ${whyOf(thrown)}`)

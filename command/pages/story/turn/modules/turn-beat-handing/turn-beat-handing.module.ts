@@ -54,6 +54,10 @@ export const turnBeatHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A hand-out is tried again as `turn-hand-retrying` says before it is given up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refused beat is handed to the game master seat with its issues.",
     },
     {
@@ -84,5 +88,5 @@ export const turnBeatHanding = {
     },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-27T23:46:28.751Z",
+  updatedAt: "2026-10-27T23:58:17.338Z",
 } as const satisfies Module
