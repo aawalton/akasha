@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-character-panel.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-chat-panel.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-engine-improvements.initiative.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-play-sidebars.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-story-engine-v3.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/dalla-resource-management.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/elin-wandering-inn-wiki.initiative.ts","typed":true,"deferred":false}
