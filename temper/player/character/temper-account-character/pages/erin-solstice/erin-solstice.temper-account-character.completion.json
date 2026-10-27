@@ -8490,6 +8490,7 @@
         79,
         80,
         82,
+        89,
         91
       ],
       "21": [
@@ -28350,19 +28351,19 @@
   },
   "inventoryCheck": {
     "date": "2026-10-27",
-    "misplaced": 28
+    "misplaced": 27
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1793123170,
+      "capturedAt": 1793124235,
       "buildHash": "ATQONIDAAIBhxAkDE_tnELIDE_tnELIDJgtnELJDJgtnELIjJgtnELIDJgtnELIDJgtnELIQaO1uULIQQKtuULIQQKtuULIkeTHbcoWURBMdbcoWUSiujklLE8ruM5x0uJJRLGiAiddgqG_3gAJxQk4xcng-Bd__Hbga6GTSK6IFI991UEf14MeIlQiIyICAyMyAiIiIyIgMgIjUiIiAjIjNCIAIjQgMjIzMyNAIARDIiMDojI0A6AiJkMzIjQgAAAjgiICJKMyA0IiIjAjosujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjqOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwSOGzYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TBwBTJlgIJNeGSzniYwSAxhQIR5sF1itcpmGIueCSUIgB7eZta9p5rh7KBkFAAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 302,
-      "health": 30650,
-      "healthBefore": 30138,
-      "healthPaired": false,
-      "elderDragonAmount": 0,
+      "health": 28026,
+      "healthBefore": 27699,
+      "healthPaired": true,
+      "elderDragonAmount": 63,
       "stats": {
         "penetration-spell": 7750,
         "power-weapon": 3286,
@@ -28376,7 +28377,7 @@
         "power-spell": 3286,
         "resistance-critical": 1320,
         "stamina-recovery": 566,
-        "health-recovery": 858,
+        "health-recovery": 934,
         "resistance-spell": 33108,
         "health-maximum": 30650
       },
@@ -28393,7 +28394,7 @@
         "power-spell": 1000,
         "resistance-critical": 0,
         "stamina-recovery": 566,
-        "health-recovery": 858,
+        "health-recovery": 934,
         "resistance-spell": 0,
         "health-maximum": 30650
       },
@@ -29548,7 +29549,7 @@
         {
           "abilityId": 44951,
           "name": "Elder Dragon",
-          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff20|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff0|r"
+          "description": "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff20|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff63|r"
         },
         {
           "abilityId": 44953,
@@ -30050,7 +30051,7 @@
       ],
       "inArchive": false,
       "blocking": false,
-      "moving": false,
+      "moving": true,
       "archiveBoons": [],
       "advanced": {
         "healing-critical-bonus": 0.02,
@@ -30102,7 +30103,7 @@
           "category": "Core Abilities",
           "label": "Sprint Cost",
           "format": "flat",
-          "flat": 415
+          "flat": 0
         },
         "bash-cost": {
           "category": "Core Abilities",
