@@ -7,5 +7,5 @@
 {"beat":7,"event":"A wooden bench sits beside the well, empty.","prose":"Beside the well sits a wooden bench, empty.","continues":true,"changes":[]}
 {"beat":8,"event":"By the well, a stone stair leads down into the dark below the square.","prose":"Close by the well, a stone stair goes down into the dark under the square.","continues":true,"changes":[]}
 {"beat":9,"event":"On the north side, steps climb to the doors of a long hall.","prose":"On the north side, steps climb to the doors of a long hall.","changes":[]}
-{"beat":10,"event":"On the east side, a green door is set into a shopfront.","changes":[]}
+{"beat":10,"event":"On the east side, a green door is set into a shopfront.","prose":"On the east side, a green door is set into a shopfront.","continues":true,"changes":[]}
 {"beat":11,"event":"The square is quiet, and he stands by the well, free to go any way.","at":"2026-11-06T09:35:00.000Z","changes":[]}
