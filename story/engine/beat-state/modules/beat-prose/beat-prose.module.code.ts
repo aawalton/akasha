@@ -44,10 +44,16 @@ function beatProseOf(held: Readonly<Record<string, unknown>>): BeatProse {
   return held[CONTINUES] === true ? { ...one, continues: true } : one
 }
 
-export function proseRefused(prose: readonly BeatProse[], beats: number): string | null {
+export function proseLeadingRefused(prose: readonly BeatProse[]): string | null {
   const at = prose.findIndex((one, index) => one.beat !== index + 1)
   if (at >= 0) return `beat ${prose[at]?.beat} carries prose where beat ${at + 1} is due`
   if (prose[0]?.continues === true) return FIRST_CONTINUES
+  return null
+}
+
+export function proseRefused(prose: readonly BeatProse[], beats: number): string | null {
+  const leading = proseLeadingRefused(prose)
+  if (leading !== null) return leading
   if (prose.length === beats) return null
   return `${beats} beats and prose for ${prose.length} of them, and every beat takes its own prose`
 }

@@ -12,6 +12,7 @@ export const beatState = {
     "module/beat-pictures",
     "module/beat-prose",
     "module/beat-records",
+    "module/beat-flow",
   ],
   decisions: [
     {
@@ -125,5 +126,5 @@ export const beatState = {
     },
   ],
   createdAt: "2026-10-03T14:40:55.210Z",
-  updatedAt: "2026-10-03T21:07:11.000Z",
+  updatedAt: "2026-10-27T19:34:15.047Z",
 } as const satisfies Domain

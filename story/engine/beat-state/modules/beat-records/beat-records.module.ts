@@ -31,7 +31,8 @@ export const beatRecords = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A beats file carries prose on every line of it or on none of them.",
+      statement:
+        "A beats file carries prose on its first beats in order, and on no beat after a gap.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,7 +41,11 @@ export const beatRecords = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A part a beat has none of is left off its line.",
+      statement: "A part no step has stated for a beat is left off its line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A step stating a list part has none on a beat leaves that part as an empty list.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,5 +61,5 @@ export const beatRecords = {
     },
   ],
   createdAt: "2026-10-03T18:12:36.929Z",
-  updatedAt: "2026-10-07T00:33:13.000Z",
+  updatedAt: "2026-10-27T19:34:15.047Z",
 } as const satisfies Module

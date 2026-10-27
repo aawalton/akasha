@@ -1,4 +1,5 @@
 import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
+import { proseRefused } from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
 import type {
   BeatScene,
   Planned,
@@ -273,6 +274,10 @@ function fromProse(
   cast: readonly Character[],
   admitted: Admitted
 ): Advanced {
+  const beatProse = handed.beatProse
+  const short =
+    beatProse === undefined || held.beats === undefined ? null : proseRefused(beatProse, held.beats)
+  if (short !== null) return { refused: short }
   const taken = proseTaken(handed.prose, handed.characters, cast, admitted)
   if ("refused" in taken) return taken
   const moving = { prose: taken.prose, proseRecords: handed.beatProse ?? null }

@@ -18,7 +18,12 @@ export const beatProse = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A beats file carries prose on every line or on none of them.",
+      statement:
+        "A beats file carries prose on its first beats in order, and on no beat after a gap.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A writer handing in a whole chapter's prose gives every beat its own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,5 +45,5 @@ export const beatProse = {
     },
   ],
   createdAt: "2026-10-03T20:59:13.938Z",
-  updatedAt: "2026-10-07T00:33:13.000Z",
+  updatedAt: "2026-10-27T19:34:15.047Z",
 } as const satisfies Module

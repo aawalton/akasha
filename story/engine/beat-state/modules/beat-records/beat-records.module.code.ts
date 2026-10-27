@@ -13,12 +13,16 @@ import {
 } from "akasha/story/engine/beat-state/modules/beat-pictures/beat-pictures.module.code.ts"
 import {
   type BeatProse,
-  proseRefused,
+  proseLeadingRefused,
 } from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
 import {
   type BeatScene,
   sceneOf,
 } from "akasha/story/engine/beat-state/modules/beat-replay/beat-replay.module.code.ts"
+
+type ListedPart = "changes" | "memory" | "pictured"
+
+type NoneStated = { readonly beat: number; readonly part: ListedPart }
 
 export type Beats = {
   readonly beats: readonly string[]
@@ -27,6 +31,7 @@ export type Beats = {
   readonly memory: readonly Memory[]
   readonly pictured?: readonly Pictured[]
   readonly prose?: readonly BeatProse[]
+  readonly none?: readonly NoneStated[]
 }
 
 type Refused = { readonly refused: string }
@@ -85,6 +90,16 @@ type Read = {
   readonly memory: string[]
   readonly pictured: string[]
   readonly prose: BeatProse[]
+  readonly none: NoneStated[]
+}
+
+const LISTED: readonly ListedPart[] = [CHANGES, MEMORY, PICTURED]
+
+function noneOn(held: Entry, beat: number): readonly NoneStated[] {
+  return LISTED.flatMap((part) => {
+    const value = held[part]
+    return Array.isArray(value) && value.length === 0 ? [{ beat, part }] : []
+  })
 }
 
 function lineRead(read: Read, line: string, beat: number): string | null {
@@ -125,7 +140,12 @@ function lineRead(read: Read, line: string, beat: number): string | null {
   read.changes.push(...changes)
   read.memory.push(...memory)
   read.pictured.push(...pictured)
+  read.none.push(...noneOn(held, beat))
   return null
+}
+
+function withNone(held: Beats, none: readonly NoneStated[]): Beats {
+  return none.length === 0 ? held : { ...held, none }
 }
 
 export function beatsIn(text: string): Beats | Refused {
@@ -133,7 +153,15 @@ export function beatsIn(text: string): Beats | Refused {
     .split(LINES)
     .map((one) => one.trim())
     .filter((one) => one !== "")
-  const read: Read = { beats: [], scenes: [], changes: [], memory: [], pictured: [], prose: [] }
+  const read: Read = {
+    beats: [],
+    scenes: [],
+    changes: [],
+    memory: [],
+    pictured: [],
+    prose: [],
+    none: [],
+  }
   for (const [index, line] of lines.entries()) {
     const wrong = lineRead(read, line, index + 1)
     if (wrong !== null) return { refused: wrong }
@@ -144,11 +172,11 @@ export function beatsIn(text: string): Beats | Refused {
   if ("refused" in memory) return memory
   const pictured = picturedIn(read.pictured, read.beats.length)
   if ("refused" in pictured) return pictured
-  const told = read.prose.length === 0 ? null : proseRefused(read.prose, read.beats.length)
+  const told = proseLeadingRefused(read.prose)
   if (told !== null) return { refused: told }
   const held = { beats: read.beats, scenes: read.scenes, changes, memory }
   const drawn = pictured.length === 0 ? held : { ...held, pictured }
-  return read.prose.length === 0 ? drawn : { ...drawn, prose: read.prose }
+  return withNone(read.prose.length === 0 ? drawn : { ...drawn, prose: read.prose }, read.none)
 }
 
 function moved<Held extends { readonly beat: number }>(
@@ -165,6 +193,7 @@ export function beatsJoined(each: readonly Beats[]): Beats {
   const memory: Memory[] = []
   const pictured: Pictured[] = []
   const prose: BeatProse[] = []
+  const none: NoneStated[] = []
   for (const one of each) {
     const past = beats.length
     beats.push(...one.beats)
@@ -173,10 +202,22 @@ export function beatsJoined(each: readonly Beats[]): Beats {
     memory.push(...moved(one.memory, past))
     pictured.push(...moved(one.pictured ?? [], past))
     prose.push(...moved(one.prose ?? [], past))
+    none.push(...moved(one.none ?? [], past))
   }
   const held = { beats, scenes, changes, memory }
   const drawn = pictured.length === 0 ? held : { ...held, pictured }
-  return prose.length === 0 ? drawn : { ...drawn, prose }
+  return withNone(prose.length === 0 ? drawn : { ...drawn, prose }, none)
+}
+
+function listedOn(
+  held: Beats,
+  beat: number,
+  part: ListedPart,
+  entries: readonly Entry[]
+): { readonly [key: string]: readonly Entry[] } {
+  if (entries.length > 0) return { [part]: entries }
+  const stated = (held.none ?? []).some((one) => one.beat === beat && one.part === part)
+  return stated ? { [part]: [] } : {}
 }
 
 function unbeaten(one: Entry): Entry {
@@ -198,9 +239,9 @@ export function beatsWritten(held: Beats): string {
         ...(told === undefined ? {} : { [PROSE]: told.prose }),
         ...(told?.continues === true ? { [CONTINUES]: true } : {}),
         ...(scene === undefined ? {} : unbeaten(scene)),
-        ...(changes.length === 0 ? {} : { [CHANGES]: changes }),
-        ...(memory.length === 0 ? {} : { [MEMORY]: memory }),
-        ...(pictured.length === 0 ? {} : { [PICTURED]: pictured }),
+        ...listedOn(held, beat, CHANGES, changes),
+        ...listedOn(held, beat, MEMORY, memory),
+        ...listedOn(held, beat, PICTURED, pictured),
       }
       return `${JSON.stringify(record)}\n`
     })

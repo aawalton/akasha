@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type BeatProse,
   proseIn,
+  proseLeadingRefused,
   proseRefused,
   proseWritten,
 } from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
@@ -25,6 +26,14 @@ test("a beat given no prose, or prose given twice, refuses the file", () => {
   )
   const twice = [HELD[0] as BeatProse, { beat: 1, prose: "Again." }]
   expect(proseRefused(twice, 2)).toBe("beat 1 carries prose where beat 2 is due")
+})
+
+test("prose on the first beats in order holds, and prose after a gap is refused", () => {
+  expect(proseLeadingRefused([HELD[0] as BeatProse])).toBeNull()
+  expect(proseLeadingRefused([])).toBeNull()
+  expect(proseLeadingRefused([HELD[1] as BeatProse])).toBe(
+    "beat 2 carries prose where beat 1 is due"
+  )
 })
 
 test("a line naming no beat, or stating no prose, is refused", () => {

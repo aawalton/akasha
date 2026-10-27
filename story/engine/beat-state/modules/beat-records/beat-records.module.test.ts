@@ -98,12 +98,43 @@ test("`continues` shaped wrong, on beat 1, or with no prose refuses the whole fi
   })
 })
 
-test("prose on some beats and not others refuses the whole file", () => {
+test("prose on the first beats reads, and prose after a beat with none refuses the file", () => {
   const first = JSON.stringify({ beat: 1, event: "One.", prose: "One told." })
   const second = JSON.stringify({ beat: 2, event: "Two." })
   expect(beatsIn(`${first}\n${second}\n`)).toEqual({
-    refused: "2 beats and prose for 1 of them, and every beat takes its own prose",
+    beats: ["One.", "Two."],
+    scenes: [],
+    changes: [],
+    memory: [],
+    prose: [{ beat: 1, prose: "One told." }],
   })
+  const gap = JSON.stringify({ beat: 2, event: "Two.", prose: "Two told." })
+  expect(beatsIn(`${JSON.stringify({ beat: 1, event: "One." })}\n${gap}\n`)).toEqual({
+    refused: "beat 2 carries prose where beat 1 is due",
+  })
+})
+
+test("a part stated as an empty list stays on its line, apart from a part never stated", () => {
+  const file = [
+    JSON.stringify({ beat: 1, event: "One.", changes: [], memory: [] }),
+    JSON.stringify({ beat: 2, event: "Two.", pictured: [] }),
+    JSON.stringify({ beat: 3, event: "Three." }),
+  ].join("\n")
+  const read = beatsIn(file)
+  expect(read).toEqual({
+    beats: ["One.", "Two.", "Three."],
+    scenes: [],
+    changes: [],
+    memory: [],
+    none: [
+      { beat: 1, part: "changes" },
+      { beat: 1, part: "memory" },
+      { beat: 2, part: "pictured" },
+    ],
+  })
+  if ("refused" in read) return
+  expect(beatsWritten(read)).toBe(`${file}\n`)
+  expect(beatsJoined([read, read]).none?.map((one) => one.beat)).toEqual([1, 1, 2, 4, 4, 5])
 })
 
 test("beats joined end to end are numbered on from the beats before them", () => {

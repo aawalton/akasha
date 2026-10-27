@@ -260,6 +260,12 @@ test("prose naming a character of the story its advance leaves out is refused, t
   }
 })
 
+test("prose handed in beat by beat gives every beat its own", () => {
+  const held = heldAt("writer", { noun: "chapter", beats: 2, proseOnBeats: true })
+  const short = { ...PROSE, beatProse: [{ beat: 1, prose: "One." }] }
+  expect(refusalOf(advanced(held, WRITER, short, TWO))).toContain("for 1 of")
+})
+
 const STEPPED = ["mechanics", "inventory"]
 
 function stepping(held: Held, caller: Caller, handed: Handed) {
