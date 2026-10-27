@@ -31,9 +31,8 @@ export const awenPlaySidebars = {
     { statement: "The player-character panels are drawn in the character place." },
     { statement: "The quest-list, story-so-far and time panels are drawn in the journal place." },
     { statement: "The scene-cover and player-intent panels are drawn in the journal place." },
-    { statement: "Otherwhere's map panel is drawn in the map place." },
   ],
   constraints: ["Nothing inside a panel changes but the place that panel is drawn in."],
   createdAt: "2026-10-27T18:26:40.142Z",
-  updatedAt: "2026-10-27T18:50:58.186Z",
+  updatedAt: "2026-10-27T18:51:01.531Z",
 } as const satisfies Initiative
