@@ -52,6 +52,18 @@ test("an initiative shown keeps its intents", () => {
   expect(keysOf(activeOnly(roots))).toEqual(["top", "one", "one#1", "one#2"])
 })
 
+test("an active initiative keeps every initiative under it, active or not", () => {
+  const roots = [
+    row("root", "top", null, [
+      row("initiative", "one", "blue", [
+        row("initiative", "idle", null, [row("intent", "idle#1", null)]),
+        row("initiative", "red", "red", [row("initiative", "deeper", null)]),
+      ]),
+    ]),
+  ]
+  expect(keysOf(activeOnly(roots))).toEqual(["top", "one", "idle", "idle#1", "red", "deeper"])
+})
+
 test("a top row left with no initiative shown is not drawn", () => {
   const roots = [row("root", "top", null, [row("initiative", "idle", null)])]
   expect(activeOnly(roots)).toEqual([])

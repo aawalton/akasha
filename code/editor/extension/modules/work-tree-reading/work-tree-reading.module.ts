@@ -23,6 +23,10 @@ export const workTreeReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An active initiative keeps every initiative under it, active or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A top row left with no initiative shown is not drawn.",
     },
     {
@@ -47,5 +51,5 @@ export const workTreeReading = {
     },
   ],
   createdAt: "2026-09-03T17:53:52.075Z",
-  updatedAt: "2026-10-27T18:24:42.194Z",
+  updatedAt: "2026-10-27T19:05:02.751Z",
 } as const satisfies Module

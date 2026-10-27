@@ -3,10 +3,11 @@ import { ACTIVE_COLORS } from "akasha/code/editor/extension/modules/agent-forest
 
 function keptActive(row: WorkTreeRow): readonly WorkTreeRow[] {
   if (row.kind === "intent") return [row]
+  const active = row.kind === "initiative" && row.color !== null && ACTIVE_COLORS.has(row.color)
+  if (active) return [row]
   const children = row.children.flatMap(keptActive)
   const holdsInitiative = children.some((child) => child.kind === "initiative")
-  const active = row.kind === "initiative" && row.color !== null && ACTIVE_COLORS.has(row.color)
-  return active || holdsInitiative ? [{ ...row, children }] : []
+  return holdsInitiative ? [{ ...row, children }] : []
 }
 
 export function activeOnly(roots: readonly WorkTreeRow[]): readonly WorkTreeRow[] {
