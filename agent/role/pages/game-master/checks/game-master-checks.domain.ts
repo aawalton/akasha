@@ -31,7 +31,23 @@ export const gameMasterChecks = {
         "Beat the action as its outcome tier's writer instruction says.",
       ],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Montage",
+      act: "Run an activity he asks to repeat with `akasha story montage`; beat its start, crossings and end.",
+      warrant:
+        "Playing each session costs him a turn for no new choice, and progress no check settled is unearned.",
+      aids: [
+        "Take the activity, how often and the bounds from his words: sessions, an end, a goal, or any mix.",
+        "Hand the reading one session would read now; the check's own code carries it on.",
+        "Never pick the bounds yourself or stretch them past what he said.",
+        "A crossing is a beat at its session's `at`; a session that crosses nothing is no beat.",
+        "End on the stop the command names: the bound met, the goal reached, or what broke in.",
+        "Where the world broke in, end on that moment as the fork and leave it to him.",
+        "A check with no `next` cannot be a montage; ask the world builder for one.",
+      ],
+    },
   ],
   createdAt: "2026-10-27T20:53:02.649Z",
-  updatedAt: "2026-10-27T20:53:02.649Z",
+  updatedAt: "2026-10-27T20:56:51.485Z",
 } as const satisfies Domain
