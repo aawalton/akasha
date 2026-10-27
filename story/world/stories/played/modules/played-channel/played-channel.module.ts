@@ -18,6 +18,10 @@ export const playedChannel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn's outcome cards are drawn above its prose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A ruled line marks the last turn play reached.",
     },
     {
@@ -56,5 +60,5 @@ export const playedChannel = {
     },
   ],
   createdAt: "2026-09-14T19:26:29.125Z",
-  updatedAt: "2026-10-02T17:25:43.000Z",
+  updatedAt: "2026-10-27T20:41:29.968Z",
 } as const satisfies Module

@@ -11,6 +11,7 @@ import {
 } from "akasha/story/ui/modules/story-prose-dividers/story-prose-dividers.module.code.ts"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import type { PanelRun } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
+import { OutcomeCards } from "akasha/story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx"
 import { Fragment, useEffect, useMemo, useRef } from "react"
 
 const NO_GAME_MASTER = "No game master is listening to this game, so nothing sent here reaches it."
@@ -25,6 +26,7 @@ export function PlayedChannel({
   pastTurns,
   gameExternalId,
   submitPlayerAction,
+  outcomeCards,
 }: PanelRun) {
   const submit = submitPlayerAction ?? refusePlayerAction
   const asker = playedAsker(gameExternalId)
@@ -53,6 +55,7 @@ export function PlayedChannel({
               <NewestDivider />
             </div>
           ) : null}
+          <OutcomeCards cards={outcomeCards?.get(row.turn.id)} />
           <ChapterProse
             text={row.turn.text}
             segments={row.turn.segments}

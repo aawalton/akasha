@@ -44,6 +44,7 @@ import { chatPlaced } from "akasha/story/world/stories/played/modules/chat-panel
 import { usePlayedBeside } from "akasha/story/world/stories/played/modules/played-beside/played-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
 import { NARROW_PAGE } from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
+import { usePlayedOutcomes } from "akasha/story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
 import { useQuietFor } from "akasha/story/world/stories/played/modules/played-quiet/played-quiet.module.code.ts"
 import {
@@ -216,6 +217,7 @@ function PlayedStory({
   )
   const drawnIds = useMemo(() => tail.drawn.map((row) => row.id), [tail])
   const prose = usePlayedProse(runPageTypeSlug, drawnIds)
+  const outcomeCards = usePlayedOutcomes(runIsTurns ? PLAYED_TURN_PAGE_TYPE_SLUG : null, drawnIds)
 
   const characterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -303,8 +305,10 @@ function PlayedStory({
       pastTurns: undefined,
       gameExternalId: externalId,
       submitPlayerAction: coordinatorAgent === undefined ? undefined : sendAction,
+      outcomeCards,
     }),
     [
+      outcomeCards,
       clock,
       upcoming,
       envelope,

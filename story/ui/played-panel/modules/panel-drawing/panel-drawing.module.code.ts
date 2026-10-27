@@ -4,6 +4,7 @@ import type { ClientBeat } from "akasha/story/ui/modules/client-session/client-s
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import type { BeatOverlay } from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
+import type { OutcomeCard } from "akasha/story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx"
 
 export type PlayedTurnCover = {
   readonly id: string
@@ -39,6 +40,7 @@ export type PanelRun = {
   readonly pastTurns: ChapterProsePastTurns | undefined
   readonly gameExternalId: string | undefined
   readonly submitPlayerAction: SubmitPlayerAction | undefined
+  readonly outcomeCards?: ReadonlyMap<string, readonly OutcomeCard[]> | undefined
 }
 
 export type PanelDrawing = {
