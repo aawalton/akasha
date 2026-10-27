@@ -7,7 +7,7 @@ export const sceneCover = {
   definition: "the scenes pictured in a written chapter, paged through in order",
   code: "tsx",
   drawn: "js",
-  place: "panel-place/aside",
+  place: "panel-place/journal",
   position: 30,
   decisions: [
     {
@@ -26,5 +26,5 @@ export const sceneCover = {
     },
   ],
   createdAt: "2026-09-28T12:30:48.168Z",
-  updatedAt: "2026-10-04T09:32:44.000Z",
+  updatedAt: "2026-10-27T18:39:24.261Z",
 } as const satisfies PlayedPanel

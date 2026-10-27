@@ -7,8 +7,8 @@ export const playerIntent = {
   definition: "the player's standing intent for his character, written and changed in place",
   code: "tsx",
   drawn: "js",
-  place: "panel-place/aside",
+  place: "panel-place/journal",
   position: 55,
   createdAt: "2026-10-03T21:22:21.671Z",
-  updatedAt: "2026-10-03T21:26:57.000Z",
+  updatedAt: "2026-10-27T18:39:24.261Z",
 } as const satisfies PlayedPanel
