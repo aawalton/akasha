@@ -12,9 +12,14 @@ export const testStory00005 = {
   stepStatus: "step-status/recorders",
   action: "I use Healing Draught",
   beats: "jsonl",
-  recordedBy: ["story-recorder/inventory", "story-recorder/plan", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/plan",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+  ],
   endsAt: "2026-10-27T08:37:00.000Z",
   createdAt: "2026-10-27T19:47:39.549Z",
-  updatedAt: "2026-10-27T20:02:24.089Z",
+  updatedAt: "2026-10-27T20:05:05.787Z",
   ownLength: 58,
 } as const satisfies StoryTurnPlayed
