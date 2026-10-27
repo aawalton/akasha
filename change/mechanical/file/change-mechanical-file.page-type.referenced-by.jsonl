@@ -51,8 +51,8 @@
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/service/modules/page-writing/page-writing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/service/modules/write-batching/write-batching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/service/modules/write-batching/write-batching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.types.ts","path":"change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.types.ts","path":"change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.types.ts","path":"change/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.ts","typed":true,"deferred":false}

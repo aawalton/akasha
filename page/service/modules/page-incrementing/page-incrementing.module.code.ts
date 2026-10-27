@@ -14,7 +14,6 @@ import {
 import {
   type Asked,
   landedIn,
-  refusalIn,
   type Writer,
   type Wrote,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
@@ -23,6 +22,7 @@ import type {
   Faulted,
   Refusal,
 } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
+import { refusalIn } from "akasha/page/service/modules/write-batching/write-batching.module.code.ts"
 import { propertiesFrom } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
 export type Incrementing = {

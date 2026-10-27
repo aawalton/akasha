@@ -192,7 +192,8 @@ export const pageService = {
     "module/page-landing",
     "module/trouble-keeping",
     "module/write-claiming",
+    "module/write-batching",
   ],
   createdAt: "2026-08-31T23:59:18.778Z",
-  updatedAt: "2026-10-26T20:09:51.526Z",
+  updatedAt: "2026-10-27T20:23:51.121Z",
 } as const satisfies ServiceWorkstation

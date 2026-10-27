@@ -16,6 +16,6 @@
 {"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"command/pages/story/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"page/service/modules/page-writing/page-writing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"page/service/modules/write-batching/write-batching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"page/service/modules/write-batching/write-batching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/mechanical/file/remove/change-mechanical-file-remove.domain.ts","id":"01a07cbe-1911-72dc-869f-8e733656bc1b"}
