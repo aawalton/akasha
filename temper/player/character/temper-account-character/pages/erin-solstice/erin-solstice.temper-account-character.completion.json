@@ -28356,13 +28356,13 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1793125235,
+      "capturedAt": 1793125603,
       "buildHash": "ATQONIDAAIBhxAkDE_tnELIDE_tnELIDJgtnELJDJgtnELIjJgtnELIDJgtnELIDJgtnELIQaO1uULIQQKtuULIQQKtuULIkeTHbcoWURBMdbcoWUSiujklLE8ruM5x0uJJRLGiAiddgqG_3gAJxQk4xcng-Bd__Hbga6GTSK6IFI991UEf14MeIlQiIyICAyMyAiIiIyIgMgIjUiIiAjIjNCIAIjQgMjIzMyNAIARDIiMDojI0A6AiJkMzIjQgAAAjgiICJKMyA0IiIjAjosujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjqOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwSOGzYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TBwBTJlgIJNeGSzniYwSAxhQIR5sF1itcpmGIueCSUIgB7eZta9p5rh7KBkFAAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
-      "ultimate": 371,
+      "ultimate": 374,
       "health": 30650,
-      "healthBefore": 29351,
+      "healthBefore": 30589,
       "healthPaired": false,
       "elderDragonAmount": 0,
       "stats": {
@@ -29267,7 +29267,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:10000:0|h|h",
+          "link": "|H0:item:215583:370:50:68343:312:50:0:0:0:0:0:0:0:0:1:34:1:1:0:9900:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 2425,
