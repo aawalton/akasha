@@ -1,4 +1,5 @@
 {"propertySlug":"difficulty","path":"story/world/pages/test-world/stories/played/clone-probe/clone-probe.story-played.ts","id":"01a17f4c-d936-7a5f-9f54-dc3756c094f6"}
+{"propertySlug":"difficulty","path":"story/world/pages/test-world/stories/played/test-story/test-story.story-played.ts","id":"01a17ec6-053a-7bbd-aebe-77e7d77942c2"}
 {"propertySlug":"import","fileName":"normal.difficulty-level.ts","path":"story/ui/modules/difficulty-panel/difficulty-panel.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"normal.difficulty-level.ts","path":"story/world/stories/played/modules/difficulty-unnamed/difficulty-unnamed.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"normal.difficulty-level.ts","path":"story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx","typed":false,"deferred":false}
