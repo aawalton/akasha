@@ -7,6 +7,8 @@ export const giftedReborn00002 = {
   unit: "unit/words",
   partOfCollections: ["story-played/gifted-reborn"],
   position: 2,
+  prose: "txt",
+  characters: ["character-player/gifted-reborn-nala"],
   stepStatus: "step-status/beats",
   action:
     "I turn the tables and try to devour the demon while it is weakened like it tried to devour me",
@@ -18,5 +20,6 @@ export const giftedReborn00002 = {
   ],
   endsAt: "2026-10-27T20:40:00.000Z",
   createdAt: "2026-10-27T23:31:47.551Z",
-  updatedAt: "2026-10-27T23:45:54.473Z",
+  updatedAt: "2026-10-27T23:50:26.348Z",
+  ownLength: 40,
 } as const satisfies StoryTurnPlayed
