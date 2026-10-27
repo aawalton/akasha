@@ -16,6 +16,11 @@ export const beatChanges = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A change stating an outcome's `added` names that outcome's line number as `outcome`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "An act sets a key from the value it held, appends a line to a list, or makes a page.",
     },
     {
@@ -50,5 +55,5 @@ export const beatChanges = {
     },
   ],
   createdAt: "2026-10-03T15:05:48.995Z",
-  updatedAt: "2026-10-03T18:53:06.000Z",
+  updatedAt: "2026-10-27T22:34:22.642Z",
 } as const satisfies Module

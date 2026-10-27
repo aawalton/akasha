@@ -62,6 +62,13 @@ test("changes are json lines naming a beat, a page, a note and one act", () => {
   expect(changesIn(late, 5)).toEqual({ refused: "change 2 comes before beat 3's changes" })
 })
 
+test("a change may name the outcome line it states, and only as a line number", () => {
+  expect(changesOf([{ ...GAIN, outcome: 3 }])).toEqual([{ ...GAIN, outcome: 3 }])
+  expect(changesIn([JSON.stringify({ ...GAIN, outcome: 0 })], 5)).toEqual({
+    refused: "change 1 states `outcome` as no line number of the outcomes",
+  })
+})
+
 test("a change from a value the page does not hold is refused, naming both", () => {
   const stale = changesOf([{ ...GAIN, from: 100 }])
   expect(changesRefused(stale, READING)).toContain("was 100, and it is 120")

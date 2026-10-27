@@ -9,6 +9,7 @@ export type BeatChange = {
   readonly to?: unknown
   readonly append?: unknown
   readonly make?: Readonly<Record<string, unknown>>
+  readonly outcome?: number
 }
 
 export type Filed = {
@@ -37,7 +38,19 @@ const LONGEST_NOTE = 100
 
 const PARTED = "/"
 
-const KNOWN: readonly string[] = ["beat", "page", "note", "key", "from", "to", "append", "make"]
+const OUTCOME = "outcome"
+
+const KNOWN: readonly string[] = [
+  "beat",
+  "page",
+  "note",
+  "key",
+  "from",
+  "to",
+  "append",
+  "make",
+  OUTCOME,
+]
 
 export function recordIn(line: string): Readonly<Record<string, unknown>> | null {
   try {
@@ -73,6 +86,11 @@ function shapeRefused(held: Readonly<Record<string, unknown>>, at: number, beats
   if (typeof note !== "string" || note.trim() === "" || note.length > LONGEST_NOTE) {
     return `${where} states no note of 1 to ${LONGEST_NOTE} characters`
   }
+  const outcome = held[OUTCOME]
+  const lined = typeof outcome === "number" && Number.isInteger(outcome) && outcome >= 1
+  if (outcome !== undefined && !lined) {
+    return `${where} states \`${OUTCOME}\` as no line number of the outcomes`
+  }
   if (actsIn(held) !== 1)
     return `${where} states one of \`to\`, \`append\` or \`make\`, and only one`
   if ("make" in held) {
@@ -100,6 +118,7 @@ function changeOf(held: Readonly<Record<string, unknown>>): BeatChange {
     ...(typeof made === "object" && made !== null && !Array.isArray(made)
       ? { make: made as Readonly<Record<string, unknown>> }
       : {}),
+    ...(typeof held[OUTCOME] === "number" ? { outcome: held[OUTCOME] } : {}),
   }
 }
 
