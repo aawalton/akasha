@@ -5,7 +5,7 @@ import { revealedRows } from "akasha/story/world/stories/played/modules/played-s
 import {
   type Filed,
   stateOf,
-} from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
+} from "akasha/story/world/stories/played/modules/played-state-sheet/played-state-sheet.module.code.ts"
 
 const NOTHING: Filed = {
   pools: {},

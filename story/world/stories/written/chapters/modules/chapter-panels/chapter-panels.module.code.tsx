@@ -45,10 +45,8 @@ import { NO_OVERLAY } from "akasha/story/world/stories/played/modules/beat-overl
 import { PlayedLayout } from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
 import { playedEnvelope } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
-import {
-  stateOf,
-  usePlayedState,
-} from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
+import { usePlayedState } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
+import { stateOf } from "akasha/story/world/stories/played/modules/played-state-sheet/played-state-sheet.module.code.ts"
 import {
   PLAYER,
   stepIn,

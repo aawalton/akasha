@@ -35,11 +35,11 @@ import {
   type BeatOverlay,
   NO_OVERLAY,
 } from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
+import { usePlayedState } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
 import {
   type Filed,
   stateOf,
-  usePlayedState,
-} from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
+} from "akasha/story/world/stories/played/modules/played-state-sheet/played-state-sheet.module.code.ts"
 import { type ReactNode, useMemo, useState } from "react"
 
 const SLUG_KEY = "slug"

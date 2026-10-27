@@ -75,10 +75,8 @@ import {
   PlayedSidebars,
   placedFrom,
 } from "akasha/story/world/stories/played/modules/played-sidebars/played-sidebars.module.code.tsx"
-import {
-  stateOf,
-  usePlayedState,
-} from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
+import { usePlayedState } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
+import { stateOf } from "akasha/story/world/stories/played/modules/played-state-sheet/played-state-sheet.module.code.ts"
 import { usePlayedProse } from "akasha/story/world/stories/played/modules/prose-beside/prose-beside.module.code.ts"
 import {
   undoOffered,
