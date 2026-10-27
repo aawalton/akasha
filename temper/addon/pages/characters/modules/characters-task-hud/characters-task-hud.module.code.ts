@@ -5,8 +5,10 @@ import {
 import { getCharactersConfig } from "akasha/temper/addon/pages/characters/modules/characters-config/characters-config.module.code.ts"
 import { ENRICHMENT_SELECTORS } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"
 import {
-  fitTaskBlocks,
-  type TaskBlock,
+  type FitNode,
+  fitNodes,
+  isWhole,
+  type ListFit,
 } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-fit/characters-task-hud-fit.module.code.ts"
 import { isFullyCompleteAtLoad } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-full-completion/characters-task-hud-full-completion.module.code.ts"
 import {
@@ -14,6 +16,7 @@ import {
   createQuestRow,
   createSubRow,
   createTaskRow,
+  type SubRowSpec,
 } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"
 import {
   DRAG_HEIGHT,
@@ -241,15 +244,17 @@ export function refreshTaskHud(): undefined {
   if (emptyLabel) emptyLabel.SetHidden(true)
   contentContainer.SetHidden(false)
 
-  let drawn = drawTasks(entries, activeQuests, [], entries.length)
-  const fit = fitTaskBlocks(drawn.blocks, roomBelow(hudWindow), PLEDGE_SUB_ROW_HEIGHT + ROW_PADDING)
-  if (fit.shown < entries.length || fit.folded.some((one) => one)) {
+  const seen: HintSeen = { questHint: false }
+  const rows = entries.map((entry) => taskRow(entry, activeQuests, seen))
+  const measured = measureRows(rows, 0)
+  const fit = fitNodes(measured.nodes, roomBelow(hudWindow), PLEDGE_SUB_ROW_HEIGHT + ROW_PADDING)
+  if (!isWhole(fit, rows.length)) {
     resetPools()
-    drawn = drawTasks(entries, activeQuests, fit.folded, fit.shown)
-    if (fit.shown < entries.length) appendMoreRow(entries.length - fit.shown, drawn.yOffset)
+    seen.questHint = false
+    drawFitted(rows, fit, 0, 0)
   }
 
-  const extraMinWidth = drawn.questHintShown ? INDICATOR_WIDTH + 4 + QUEST_HINT_WIDTH + 8 : 0
+  const extraMinWidth = seen.questHint ? INDICATOR_WIDTH + 4 + QUEST_HINT_WIDTH + 8 : 0
   applyAutoWidth(contentContainer, hudWindow, extraMinWidth)
   noteRefreshExit("completed")
 }
@@ -260,104 +265,155 @@ interface TaskEntry {
   readonly containerCount: number | undefined
 }
 
-interface DrawnTasks {
-  readonly blocks: readonly TaskBlock[]
-  readonly yOffset: number
-  readonly questHintShown: boolean
+interface HintSeen {
+  questHint: boolean
+}
+
+interface HudRow {
+  readonly draw: (this: void, yOffset: number, opened: boolean) => number
+  readonly children: readonly HudRow[]
+  readonly foldable: boolean
 }
 
 function roomBelow(hudWindow: TopLevelWindow): number {
   return GuiRoot.GetHeight() - hudWindow.GetTop() - DRAG_HEIGHT
 }
 
-function appendMoreRow(left: number, yOffset: number): undefined {
-  const text = left === 1 ? "+1 more task" : `+${left} more tasks`
-  pushRow(createSubRow({ text, color: "default", indent: 0 }, yOffset, false))
+function measureRows(
+  rows: readonly HudRow[],
+  yOffset: number
+): { readonly nodes: FitNode[]; readonly yOffset: number } {
+  const nodes: FitNode[] = []
+  let y = yOffset
+  for (const row of rows) {
+    const top = y
+    y = row.draw(y, true)
+    const height = y - top
+    const inner = measureRows(row.children, y)
+    y = inner.yOffset
+    nodes.push({ height, children: inner.nodes, foldable: row.foldable })
+  }
+  return { nodes, yOffset: y }
 }
 
-function drawTasks(
-  entries: readonly TaskEntry[],
-  activeQuests: readonly ActiveQuest[],
-  folded: readonly boolean[],
-  shown: number
-): DrawnTasks {
-  const blocks: TaskBlock[] = []
-  let yOffset = 0
-  let questHintShown = false
-  for (let index = 0; index < shown; index++) {
-    const entry = entries[index]
-    if (entry === undefined) continue
-    const { taskId, task, containerCount } = entry
-    const isContainer = isContainerCard(task.completionCardId)
-    const top = yOffset
+function drawFitted(rows: readonly HudRow[], fit: ListFit, yOffset: number, depth: number): number {
+  let y = yOffset
+  for (let index = 0; index < fit.shown; index++) {
+    const row = rows[index]
+    const one = fit.nodes[index]
+    if (row === undefined || one === undefined) continue
+    y = row.draw(y, one.kind !== "folded")
+    if (one.kind === "whole") y = measureRows(row.children, y).yOffset
+    if (one.kind === "cut") y = drawFitted(row.children, one.children, y, depth + 1)
+  }
+  const left = rows.length - fit.shown
+  return left > 0 ? appendMoreRow(left, y, depth) : y
+}
 
-    const row = createTaskRow(taskId, task, yOffset, containerCount)
-    pushRow(row)
-    yOffset += ROW_HEIGHT + ROW_PADDING
+function appendMoreRow(left: number, yOffset: number, depth: number): number {
+  const noun = depth === 0 ? (left === 1 ? " task" : " tasks") : ""
+  pushRow(
+    createSubRow({ text: `+${left} more${noun}`, color: "default", indent: depth }, yOffset, false)
+  )
+  return yOffset + PLEDGE_SUB_ROW_HEIGHT + ROW_PADDING
+}
 
-    let completed = false
-    if (!isContainer) {
-      const progress = resolveTaskProgress(task)
-      completed =
-        isTaskComplete(taskId, task) ||
-        (progress !== undefined && progress.current >= progress.total)
-    }
-    const expanded = isTaskExpanded(taskId, completed) && folded[index] !== true
+function taskRow(entry: TaskEntry, activeQuests: readonly ActiveQuest[], seen: HintSeen): HudRow {
+  const { taskId, task, containerCount } = entry
+  let completed = false
+  if (!isContainerCard(task.completionCardId)) {
+    const progress = resolveTaskProgress(task)
+    completed =
+      isTaskComplete(taskId, task) || (progress !== undefined && progress.current >= progress.total)
+  }
+  const expanded = isTaskExpanded(taskId, completed)
+  const children = !expanded
+    ? []
+    : task.completionCardId === "active-quests"
+      ? activeQuests.map((quest) => questRow(quest, seen))
+      : subRowsOf(task, completed)
 
-    row.SetMouseEnabled(true)
-    row.SetHandler("OnMouseUp", function (this: void): undefined {
-      toggleTaskExpanded(taskId, expanded)
-      refreshTaskHud()
-    })
+  return {
+    children,
+    foldable: !userExpandedTaskIds.has(taskId),
+    draw: (yOffset, opened) => {
+      const row = createTaskRow(taskId, task, yOffset, containerCount)
+      pushRow(row)
+      row.SetMouseEnabled(true)
+      row.SetHandler("OnMouseUp", function (this: void): undefined {
+        toggleTaskExpanded(taskId, expanded && opened)
+        refreshTaskHud()
+      })
+      return yOffset + ROW_HEIGHT + ROW_PADDING
+    },
+  }
+}
 
-    if (expanded && task.completionCardId === "active-quests") {
-      for (const quest of activeQuests) {
-        const questExpanded = isQuestExpanded(quest.name, quest.isAssisted)
-        const questRow = createQuestRow(quest, yOffset)
-        yOffset += ROW_HEIGHT + ROW_PADDING
-
-        questRow.SetMouseEnabled(true)
-        questRow.SetHandler("OnMouseUp", function (this: void): undefined {
-          toggleQuestExpanded(quest.name, questExpanded)
-          refreshTaskHud()
-        })
-
-        if (questExpanded && quest.hint !== undefined) {
-          yOffset = appendQuestHintRow(quest.hint, yOffset)
-          questHintShown = true
-        }
-      }
-    } else if (expanded) {
-      yOffset = appendTaskSubRows(task, completed, yOffset)
-    }
-
-    blocks.push({
-      height: yOffset - top,
-      foldedHeight: ROW_HEIGHT + ROW_PADDING,
-      foldable: expanded && !userExpandedTaskIds.has(taskId),
+function questRow(quest: ActiveQuest, seen: HintSeen): HudRow {
+  const questExpanded = isQuestExpanded(quest.name, quest.isAssisted)
+  const hint = quest.hint
+  const children: HudRow[] = []
+  if (questExpanded && hint !== undefined) {
+    children.push({
+      children: [],
+      foldable: false,
+      draw: (yOffset) => {
+        seen.questHint = true
+        return appendQuestHintRow(hint, yOffset)
+      },
     })
   }
-  return { blocks, yOffset, questHintShown }
+
+  return {
+    children,
+    foldable: true,
+    draw: (yOffset, opened) => {
+      const row = createQuestRow(quest, yOffset)
+      row.SetMouseEnabled(true)
+      row.SetHandler("OnMouseUp", function (this: void): undefined {
+        toggleQuestExpanded(quest.name, questExpanded && opened)
+        refreshTaskHud()
+      })
+      return yOffset + ROW_HEIGHT + ROW_PADDING
+    },
+  }
 }
 
-function appendTaskSubRows(task: TaskData, completed: boolean, yOffset: number): number {
+function subRowsOf(task: TaskData, completed: boolean): HudRow[] {
+  const rows: HudRow[] = []
+  let group: HudRow[] | undefined
   for (const selector of ENRICHMENT_SELECTORS) {
     if (!selector.matches(task)) continue
     for (const spec of selector.select(task)) {
-      const subRow = createSubRow(spec, yOffset, completed)
+      if ((spec.indent ?? 1) >= 2 && group !== undefined) {
+        group.push(subRow(spec, completed, []))
+        continue
+      }
+      group = []
+      rows.push(subRow(spec, completed, group))
+    }
+  }
+  return rows
+}
+
+function subRow(spec: SubRowSpec, completed: boolean, children: readonly HudRow[]): HudRow {
+  return {
+    children,
+    foldable: true,
+    draw: (yOffset) => {
+      const row = createSubRow(spec, yOffset, completed)
       const onClick = spec.onClick
       if (onClick !== undefined) {
-        subRow.SetMouseEnabled(true)
-        subRow.SetHandler("OnMouseUp", function (this: void): undefined {
+        row.SetMouseEnabled(true)
+        row.SetHandler("OnMouseUp", function (this: void): undefined {
           onClick()
           refreshTaskHud()
         })
       }
-      pushRow(subRow)
-      yOffset += PLEDGE_SUB_ROW_HEIGHT + ROW_PADDING
-    }
+      pushRow(row)
+      return yOffset + PLEDGE_SUB_ROW_HEIGHT + ROW_PADDING
+    },
   }
-  return yOffset
 }
 
 function applyAutoWidth(
