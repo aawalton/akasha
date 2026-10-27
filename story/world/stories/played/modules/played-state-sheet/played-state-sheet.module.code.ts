@@ -24,6 +24,7 @@ export type Filed = {
   readonly resources?: Readonly<Record<string, string | number>>
   readonly experience?: readonly Experience[]
   readonly points?: readonly Point[]
+  readonly titles?: readonly string[]
   readonly purse?: Readonly<Record<string, string | number>>
   readonly ledgers?: Readonly<Record<string, readonly LedgerLine[]>>
   readonly skills: readonly Skill[]
@@ -46,6 +47,7 @@ function sheetOf(filed: Filed): RevealedSheet {
     ...(filed.resources === undefined ? {} : { resources: { ...filed.resources } }),
     ...(filed.experience === undefined ? {} : { experience: [...filed.experience] }),
     ...(filed.points === undefined ? {} : { points: [...filed.points] }),
+    ...(filed.titles === undefined ? {} : { titles: [...filed.titles] }),
     ...(filed.purse === undefined ? {} : { purse: { ...filed.purse } }),
     ...(filed.ledgers === undefined ? {} : { ledgers: ledgersOf(filed.ledgers) }),
     ...(filed.skills.length === 0 ? {} : { skills: [...filed.skills] }),

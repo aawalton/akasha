@@ -52,6 +52,8 @@ export type Skill = {
   readonly rank?: string
   readonly score?: number
   readonly note?: string
+  readonly experience?: number
+  readonly attribute?: string
 }
 
 export type Counted = { readonly name: string; readonly value?: number }
@@ -96,7 +98,7 @@ const PARTED = "/"
 
 const JOIN = "-"
 
-function ownNameOf(row: QueryRow): string | null {
+export function ownNameOf(row: QueryRow): string | null {
   const title = textIn(row.values[TITLE_KEY])
   if (title !== null && title !== "") return title
   const slug = textIn(row.values[SLUG_KEY])
@@ -108,7 +110,7 @@ function ownNameOf(row: QueryRow): string | null {
 
 const GENERIC_OPENING = "metric-character-"
 
-function genericKindOf(type: string): string | null {
+export function genericKindOf(type: string): string | null {
   return type.startsWith(GENERIC_OPENING) ? type.slice(GENERIC_OPENING.length) : null
 }
 
@@ -161,7 +163,7 @@ const OUT_OF = " / "
 
 const SPACE = " "
 
-function kindOf(type: string, character: string | null): string {
+export function kindOf(type: string, character: string | null): string {
   const holder = character === null ? "" : character.slice(character.lastIndexOf(PARTED) + 1)
   const story = holder.slice(0, holder.lastIndexOf(JOIN) + 1)
   return story !== "" && type.startsWith(story) ? type.slice(story.length) : type
@@ -329,7 +331,8 @@ export function pursesIn(
 export function skillsIn(
   rows: readonly QueryRow[],
   titles: Titles,
-  descriptions: Titles = new Map()
+  descriptions: Titles = new Map(),
+  more?: (row: QueryRow) => Partial<Skill>
 ): readonly Skill[] {
   const skills: Skill[] = []
   for (const row of rows) {
@@ -342,6 +345,7 @@ export function skillsIn(
       textIn(row.values[DESCRIPTION_KEY]) ??
       textIn(row.values[AXIS_KEY])
     skills.push({
+      ...more?.(row),
       name,
       ...(rank === undefined ? {} : { rank }),
       ...(score === undefined ? {} : { score }),

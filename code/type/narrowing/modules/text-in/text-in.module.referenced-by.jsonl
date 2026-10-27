@@ -49,6 +49,8 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/modules/played-pools/played-pools.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/modules/played-purses/played-purses.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/modules/played-skills/played-skills.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/modules/played-titles/played-titles.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-read-backlog/chapter-read-backlog.module.code.ts","typed":false,"deferred":false}

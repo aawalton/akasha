@@ -38,6 +38,8 @@ export const storyPlayed = {
     "module/played-purses",
     "module/played-rows",
     "module/played-sheet-rows",
+    "module/played-skills",
+    "module/played-titles",
     "module/portrait-redrawing",
     "module/played-shell",
     "module/played-state-beside",
@@ -144,5 +146,5 @@ export const storyPlayed = {
     { pageProperty: "file-property/chat", required: false, many: false, default: "jsonl" },
   ],
   createdAt: "2026-09-02T22:01:28.988Z",
-  updatedAt: "2026-10-27T19:15:58.431Z",
+  updatedAt: "2026-10-27T19:20:29.371Z",
 } as const satisfies PageType
