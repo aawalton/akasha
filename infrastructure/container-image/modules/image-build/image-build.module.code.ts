@@ -12,6 +12,7 @@ const DOCKERFILE = "Dockerfile"
 const REPOSITORY = "repository"
 const SLUG = "slug"
 const ROOTED = "builtFromRoot"
+const BY_HAND = "publishedByHand"
 const HANDED_THE_ROOT = ""
 
 export interface ImageNamed {
@@ -19,6 +20,7 @@ export interface ImageNamed {
   readonly repository: string
   readonly context: string
   readonly recipe: string
+  readonly byHand?: boolean
 }
 
 export interface ImageBuild extends ImageNamed {
@@ -38,7 +40,8 @@ function recipesNamed(pages: Pages): readonly Paged[] {
     const here = dirname(one.path)
     const recipe = join(here, WRITTEN)
     const context = one.value[ROOTED] === true ? HANDED_THE_ROOT : dirname(here)
-    found.push([one.path, { slug, repository, context, recipe }])
+    const byHand = one.value[BY_HAND] === true
+    found.push([one.path, { slug, repository, context, recipe, byHand }])
   }
   return found
 }
@@ -50,7 +53,7 @@ function imagesNamed(pages: Pages): readonly Paged[] {
     const slug = textAt(one.value, SLUG)
     if (repository === null || slug === null) continue
     const recipe = join(dirname(one.path), DOCKERFILE)
-    found.push([one.path, { slug, repository, context: HANDED_THE_ROOT, recipe }])
+    found.push([one.path, { slug, repository, context: HANDED_THE_ROOT, recipe, byHand: false }])
   }
   return found
 }

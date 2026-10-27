@@ -30,6 +30,11 @@ export const imagePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A manifest naming an image published by hand claims nothing for a deploy to build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A build handed a folder takes its context and its Dockerfile from that folder.",
     },
     {
@@ -47,5 +52,5 @@ export const imagePublishing = {
     },
   ],
   createdAt: "2026-09-10T23:25:58.308Z",
-  updatedAt: "2026-10-27T08:51:20.407Z",
+  updatedAt: "2026-10-27T09:00:37.438Z",
 } as const satisfies Module

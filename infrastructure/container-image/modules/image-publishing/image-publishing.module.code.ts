@@ -170,8 +170,9 @@ export async function publish(
 }
 
 export function claimedIn(yamls: readonly string[]): readonly ImageNamed[] {
-  return everyNamed().filter((one) =>
-    yamls.some((yaml) => yaml.includes(`${REGISTRY}/${one.repository}:`))
+  return everyNamed().filter(
+    (one) =>
+      one.byHand !== true && yamls.some((yaml) => yaml.includes(`${REGISTRY}/${one.repository}:`))
   )
 }
 
