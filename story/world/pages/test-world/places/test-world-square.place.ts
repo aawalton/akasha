@@ -25,7 +25,11 @@ export const testWorldSquare = {
       fact: "The square is cobbled, with a well at its middle and a bench beside the well.",
       knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
     },
+    {
+      fact: "The well is a round stone shaft with still, clear water far below and a bucket on a rope.",
+      knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T22:53:52.805Z",
+  updatedAt: "2026-10-27T22:57:02.333Z",
 } as const satisfies Place
