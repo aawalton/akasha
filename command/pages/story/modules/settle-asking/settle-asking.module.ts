@@ -42,7 +42,11 @@ export const settleAsking = {
       decisionKind: "decision-kind/departure",
       statement: "A line another replaces counts for nothing to any reader of the outcomes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line stating a montage `session` replaces only a line stating that session.",
+    },
   ],
   createdAt: "2026-09-28T21:32:10.610Z",
-  updatedAt: "2026-10-02T18:07:51.000Z",
+  updatedAt: "2026-10-27T19:37:35.487Z",
 } as const satisfies Module

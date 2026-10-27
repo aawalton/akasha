@@ -101,3 +101,11 @@ test("a later line of a check rolling nothing replaces its earlier line, and a r
   const kept = [lineOf(1), rolled, other, lineOf(2), rolled, ""].join("\n")
   expect(countedLines(kept)).toEqual([rolled, other, lineOf(2), rolled])
 })
+
+test("a line of one montage session never replaces a line of another session", () => {
+  const first = lineOf(1, { session: 1 })
+  const second = lineOf(2, { session: 2 })
+  const again = lineOf(3, { session: 2 })
+  const kept = [lineOf(0), first, second, again].join("\n")
+  expect(countedLines(kept)).toEqual([lineOf(0), first, again])
+})

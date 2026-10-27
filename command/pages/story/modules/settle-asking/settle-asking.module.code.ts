@@ -41,6 +41,8 @@ const ANSWERED = "answered"
 
 const DICE = "dice"
 
+const SESSION = "session"
+
 const NUMBER = "number"
 
 type Settled = { readonly answered: unknown }
@@ -126,7 +128,8 @@ function replacingKey(was: unknown): string | null {
   if (!isRecord(was) || typeof was[CHECK] !== "string" || was[DICE] !== undefined) return null
   const read = was[READING]
   if (!isRecord(read)) return null
-  return JSON.stringify([was[CHECK], read[CHARACTER] ?? null])
+  const session = typeof was[SESSION] === "number" ? was[SESSION] : null
+  return JSON.stringify([was[CHECK], read[CHARACTER] ?? null, session])
 }
 
 function outcomeLines(kept: string): readonly string[] {
