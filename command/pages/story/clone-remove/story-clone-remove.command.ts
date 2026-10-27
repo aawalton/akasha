@@ -34,7 +34,20 @@ export const storyCloneRemove = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page outside that folder naming a page of the clone goes with it.",
+      statement: "A page outside that folder whose `story` is the clone goes with it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other page there loses the clone's pages from the knowers of its facts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fact the clone added stays, since a fact is the world's, whoever told it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page naming the clone's pages anywhere but a fact's knowers refuses the removal.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -60,5 +73,5 @@ export const storyCloneRemove = {
     { argument: "argument/draft" },
   ],
   createdAt: "2026-10-27T21:21:01.035Z",
-  updatedAt: "2026-10-27T21:21:01.035Z",
+  updatedAt: "2026-10-27T23:23:39.103Z",
 } as const satisfies Command

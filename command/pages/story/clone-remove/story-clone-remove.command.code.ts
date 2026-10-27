@@ -11,6 +11,7 @@ import {
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { draft as draftArgument } from "akasha/command/argument/pages/draft.argument.ts"
 import { force as forceArgument } from "akasha/command/argument/pages/force.argument.ts"
@@ -72,6 +73,12 @@ const CLONED_FROM = "clonedFrom"
 
 const ASSIGNMENT = "assignmentSlug"
 
+const STORY = "story"
+
+const FACT = "fact"
+
+const KNOWERS = "knowers"
+
 const TAB = "\t"
 
 export type SeatHeld = { readonly name: string; readonly id: string }
@@ -123,12 +130,50 @@ const INDEXED: Reach = {
 
 export type Unlisting = { readonly at: string; readonly value: string }
 
+export type Unknowing = {
+  readonly at: string
+  readonly key: string
+  readonly fact: string
+  readonly knower: string
+}
+
+function quotedIn(said: string, named: ReadonlySet<string>): boolean {
+  return [...named].some((one) => said.includes(JSON.stringify(one)))
+}
+
+export function unknowingIn(
+  at: string,
+  value: Value,
+  clone: ReadonlySet<string>
+): readonly Unknowing[] | null {
+  const found: Unknowing[] = []
+  const left: Record<string, unknown> = {}
+  for (const [key, held] of Object.entries(value)) {
+    if (!Array.isArray(held)) {
+      left[key] = held
+      continue
+    }
+    left[key] = held.map((record: unknown) => {
+      if (!isRecord(record) || typeof record[FACT] !== "string") return record
+      const knowers = record[KNOWERS]
+      if (!Array.isArray(knowers)) return record
+      const fact = record[FACT]
+      for (const knower of knowers) {
+        if (typeof knower === "string" && clone.has(knower)) found.push({ at, key, fact, knower })
+      }
+      return { ...record, [KNOWERS]: knowers.filter((one) => !clone.has(String(one))) }
+    })
+  }
+  return quotedIn(JSON.stringify(left), clone) ? null : found
+}
+
 export type Plan = {
   readonly folder: string
   readonly seats: readonly SeatHeld[]
   readonly files: readonly string[]
   readonly pages: readonly string[]
   readonly unlisting: readonly Unlisting[]
+  readonly unknowing: readonly Unknowing[]
   readonly asked: readonly Asking[]
 }
 
@@ -167,19 +212,34 @@ export function planned(root: string, slug: string, reach: Reach): Plan | Refusi
   const pages = committed.filter(isPage)
   const outside = new Set<string>()
   const foreign = new Set<string>()
+  const shared = new Set<string>()
   const unlisting: Unlisting[] = []
+  const clone = new Set<string>()
   for (const one of pages) {
+    const value = reach.valueOf(root, one)
+    const address = value === null ? null : addressOf(value)
+    if (address !== null) clone.add(address)
     for (const referrer of reach.referrersOf(root, one)) {
       if (referrer.path.startsWith(folder) || referrer.path.startsWith(AGENTS)) continue
       if (referrer.propertySlug === PARTS) {
-        const value = reach.valueOf(root, one)
-        const address = value === null ? null : addressOf(value)
         if (address !== null) unlisting.push({ at: referrer.path, value: address })
         continue
       }
-      if (referrer.path.startsWith(TEST_WORLD)) outside.add(referrer.path)
+      if (referrer.path.startsWith(TEST_WORLD)) shared.add(referrer.path)
       else foreign.add(referrer.path)
     }
+  }
+  const unknowing: Unknowing[] = []
+  const owner = `${storyPlayed.slug}/${slug}`
+  for (const one of [...shared].sort()) {
+    const value = reach.valueOf(root, one)
+    if (value?.[STORY] === owner) {
+      outside.add(one)
+      continue
+    }
+    const said = value === null ? null : unknowingIn(one, value, clone)
+    if (said === null) foreign.add(one)
+    else unknowing.push(...said)
   }
   if (foreign.size > 0) {
     const named = [...foreign]
@@ -187,7 +247,7 @@ export function planned(root: string, slug: string, reach: Reach): Plan | Refusi
       .map((one) => `\`${one}\``)
       .join(", ")
     return {
-      refused: `${named} name a page of \`${slug}\` from outside \`${TEST_WORLD}\`, so nothing is removed`,
+      refused: `${named} name a page of \`${slug}\` from outside \`${TEST_WORLD}\`, or other than as a fact's knower on a page \`${slug}\` did not make, so nothing is removed`,
       code: DATA,
     }
   }
@@ -198,6 +258,19 @@ export function planned(root: string, slug: string, reach: Reach): Plan | Refusi
     ...unlisting.map(
       (one): Asking => ({ at: REMOVE_VALUE, given: { at: one.at, key: PARTS, value: one.value } })
     ),
+    ...unknowing.map(
+      (one): Asking => ({
+        at: REMOVE_VALUE,
+        given: {
+          at: one.at,
+          key: one.key,
+          value: one.knower,
+          where: FACT,
+          is: one.fact,
+          field: KNOWERS,
+        },
+      })
+    ),
     ...files.map((one): Asking => ({ at: REMOVE_FILE, given: { at: one } })),
   ]
   return {
@@ -206,6 +279,7 @@ export function planned(root: string, slug: string, reach: Reach): Plan | Refusi
     files,
     pages,
     unlisting,
+    unknowing,
     asked,
   }
 }
@@ -214,6 +288,7 @@ function rowsOf(plan: Plan): readonly string[] {
   return [
     ...plan.seats.map((one) => `seat${TAB}${one.name}`),
     ...plan.unlisting.map((one) => `unlist${TAB}${one.at}${TAB}${one.value}`),
+    ...plan.unknowing.map((one) => `unknow${TAB}${one.at}${TAB}${one.knower}${TAB}${one.fact}`),
     ...plan.files.map((one) => `remove${TAB}${one}`),
   ]
 }

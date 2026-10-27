@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"code/type/narrowing/modules/as-record/as-record.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"code/type/narrowing/modules/json-equal/json-equal.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/story/clone-remove/story-clone-remove.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/story/modules/settle-character/settle-character.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/story/montage/modules/montage-replacing/montage-replacing.module.code.ts","typed":false,"deferred":false}
