@@ -124,7 +124,6 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/ranks/world-rank.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/traits/world-trait.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/named-events/named-event.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/otherwhere-i-room.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/pronunciations/pronunciation.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/stories/played/difficulty-levels/difficulty-level.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/world.page-type.types.ts","typed":true,"deferred":false}
@@ -258,7 +257,6 @@
 {"propertySlug":"page-property","path":"story/world/mechanics/ranks/world-rank.page-type.ts","id":"01a0dedc-02c6-7d54-befb-802e0962a76b"}
 {"propertySlug":"page-property","path":"story/world/mechanics/traits/world-trait.page-type.ts","id":"01a0ca5d-0f58-748c-a396-b0062affcee6"}
 {"propertySlug":"page-property","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
-{"propertySlug":"page-property","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/otherwhere-i-room.page-type.ts","id":"01a0e834-91e0-78f1-ba2a-bdbdabf299fd"}
 {"propertySlug":"page-property","path":"story/world/pronunciations/pronunciation.page-type.ts","id":"01a11c0e-f7a2-73f9-b751-0c33aec73a37"}
 {"propertySlug":"page-property","path":"story/world/stories/played/difficulty-levels/difficulty-level.page-type.ts","id":"01a17edc-4473-7982-b658-4af62fb60d91"}
 {"propertySlug":"page-property","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}

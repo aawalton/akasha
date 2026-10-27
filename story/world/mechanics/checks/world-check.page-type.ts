@@ -14,9 +14,6 @@ export const worldCheck = {
     "world-check/tower-attribute-check",
     "world-check/tower-essence-absorption",
     "world-check/the-dating-game-closeness-scoring",
-    "world-check/otherwhere-i-action-check",
-    "world-check/otherwhere-i-harm",
-    "world-check/otherwhere-i-standing",
     "world-check/dragons-and-dungeons-check",
     "world-check/overwhere-ii-time-passing",
     "world-check/overwhere-ii-standing",
@@ -107,5 +104,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-27T19:39:20.989Z",
+  updatedAt: "2026-10-27T19:41:00.931Z",
 } as const satisfies PageType

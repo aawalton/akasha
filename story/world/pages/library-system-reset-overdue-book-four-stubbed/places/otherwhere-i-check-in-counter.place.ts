@@ -11,19 +11,15 @@ export const otherwhereICheckInCounter = {
   facts: [
     {
       fact: "The Check-in Counter is carved with trees blossoming into books, words strung like leaves.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala has seen a huge raised desk at the hall's front, carved with trees blossoming into books.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Counter's carved trees glow gold, and a hand-shaped patch of light waits on its desk.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Restored, the Counter shows as Check-in Counter, Operational, Administrator: Nala.",
@@ -39,11 +35,7 @@ export const otherwhereICheckInCounter = {
     },
     {
       fact: "The failed information packet can be resent only through the Check-in Counter, once it works.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Librarian opens the Library's doors to patrons by her word at the working Counter.",
@@ -72,5 +64,5 @@ export const otherwhereICheckInCounter = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T18:42:01.744Z",
-  updatedAt: "2026-09-28T23:03:13.000Z",
+  updatedAt: "2026-10-27T19:41:00.931Z",
 } as const satisfies Place

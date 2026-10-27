@@ -40,7 +40,7 @@ export const otherwhereIMainHall = {
     },
     {
       fact: "The main hall is at the top of the spiral staircase from the core chamber.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The main hall is ornate and massive, and wrecked by centuries of neglect.",
@@ -48,15 +48,11 @@ export const otherwhereIMainHall = {
     },
     {
       fact: "Books lie scattered everywhere, spines cracked, among broken desks, chairs and tables.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Some 2,880 loose books still lie across the main hall, waiting to be reshelved.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The shelving book, Returns and Reshelving, lies under a broken desk halfway back on the left.",
@@ -64,11 +60,7 @@ export const otherwhereIMainHall = {
     },
     {
       fact: "Shelf Sight is a book whose power shows a glanced book's shelf.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Shelf Sight is a working text of the Library's own magic, some hour's quiet reading.",
@@ -76,19 +68,11 @@ export const otherwhereIMainHall = {
     },
     {
       fact: "Opening Shelf Sight costs 1 mana, and the sight then holds for an hour.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "With Shelf Sight open, sorting a section at a time, a Librarian reshelves some thirty an hour.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The main hall is dimly lit, brighter once a Librarian syncs, and gloomy beyond the entrance.",
@@ -100,7 +84,7 @@ export const otherwhereIMainHall = {
     },
     {
       fact: "At night the Library dims its lights to a low amber, and brightens them again for morning.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Awake again, the kitchen bakes a little on its own, and fresh bread is ready by morning.",
@@ -108,15 +92,15 @@ export const otherwhereIMainHall = {
     },
     {
       fact: "A long path runs back from the counter between massive wooden columns carved low down.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bookshelves rise to the first ceiling, and a second gallery of shelves runs above all round.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Loose pages flutter across the main hall, and it smells stale, sad and faintly of hope.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Two short steps at the dark back of the hall lead up to a floor of more books and carved rails.",
@@ -124,39 +108,27 @@ export const otherwhereIMainHall = {
     },
     {
       fact: "Nala has seen that the main hall is vast and ornate, lit a dim gold, and wrecked.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The lowest shelves are in reach from the floor; higher ones need the hall's rolling ladders.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Each book's spine bears a faint shelf mark that matches a mark on the shelf it belongs on.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "With the five coils stored, the Library left Emergency Power Mode; the alarm stopped.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Library's kitchen has woken, and its sacks of salt with it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Among the books near the counter lies Bookworm Care for Library Assistants, a plain guide.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The bookworm guide holds no power; an hour's reading teaches their habits, bite and salt.",
@@ -164,170 +136,98 @@ export const otherwhereIMainHall = {
     },
     {
       fact: "Nala has cleared the engorged bookworms from the hall, the Library's first task for her.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links named the hall the Magical Library of Everywhere when Nala first saw it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Links hands a newcomer a broom as her first weapon against the bookworms.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Library keeps roots and vegetables that are safe for a human to eat.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "As the first bookworm dried still, the hall's gold light brightened a shade.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala picked up Shelf Sight, a slim plain-bound book, sorting the heaps beside the counter.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "With Shelf Sight open, each book's right shelf glows faintly across the hall.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala reshelved all the heaps beside the counter, the hall's gold light edging brighter.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "When the Library asked Nala to sync again, a low hum rose through the hall from the core.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Through an afternoon of Shelf Sight, Nala shrank the stacks of books by the hall's columns.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Long ago the main hall had every shelf full and its lamps lit gold.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Nala woke to a slow creak of wood and brass from the main hall, a sound new to her there.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At sixty books an hour, the two golems will clear the main hall's loose books in about two days.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Links knows every book shelved in the Library, and can search them by what they teach.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Counter Keeping is a working text of the Library's own magic, teaching the Counter's lending.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Counter Keeping takes some three hours' quiet reading; without its power the Counter lends no book.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Nala shelved Counter Keeping herself, from the heaps by the columns, low down near the Counter.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Courtesies of the Many Peoples is a thick, plain guide to patrons' customs, holding no power.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Courtesies takes days to read whole; its first part, on the commonest peoples, takes an afternoon.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "A golem shelved Courtesies of the Many Peoples this morning, high on the west gallery.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "No book yet shelved in the main hall teaches a healing power.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Until a healing book is shelved, a patron who comes in hurt gets only food and shelter.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Rolling ladders on brass rails reach the high shelves and the gallery above.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-27T14:45:54.369Z",
-  updatedAt: "2026-09-28T23:03:13.000Z",
+  updatedAt: "2026-10-27T19:41:00.931Z",
 } as const satisfies Place

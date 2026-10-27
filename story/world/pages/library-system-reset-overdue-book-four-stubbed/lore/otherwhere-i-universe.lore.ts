@@ -38,7 +38,7 @@ export const otherwhereIUniverse = {
     },
     {
       fact: "Links is the Library's manifestation, the Library itself and also himself.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Library has run for centuries without a Librarian, on the dregs of its power.",
@@ -74,11 +74,7 @@ export const otherwhereIUniverse = {
     },
     {
       fact: "Reading a book within one's affinity and understanding it grants the power within it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "A Library book must be returned once its knowledge is gained.",
@@ -102,19 +98,11 @@ export const otherwhereIUniverse = {
     },
     {
       fact: "A synced Librarian who looks at a thing and asks is shown what the Library knows of it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "A synced Librarian and Links talk by directional telepathy when she aims a thought at him.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Library's interface shows a status as a name and flat fields, as Status: Alert.",
@@ -126,19 +114,11 @@ export const otherwhereIUniverse = {
     },
     {
       fact: "The Library keeps no character sheet; what it shows of a person is what it knows of her.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Night owls are the Library's owls, who need bookworm-fed magical quills.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Mana in a body speeds its healing; a night's sleep knits a bite into a tender pink scar.",
@@ -146,155 +126,79 @@ export const otherwhereIUniverse = {
     },
     {
       fact: "A Librarian can heal by magic only once she has learned a healing power from a book.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Each book returned to its right shelf gives the Library one point of power.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Each patron the Library serves, once its doors reopen, gives it one point of power.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Library feeds and shelters anyone who comes to it in need.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Library ground is neutral: no patron or worker may be harmed there, whatever feuds lie outside.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Security golems kill anyone who spills the blood of Library workers or patrons on Library ground.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Library gives its staff a translator, which stumbles on idioms like rain check.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Nala, synced, already carries the Library's translator in her link.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Touching a patron without leave is an insult, or an attack, to many peoples.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Some peoples guard their true names and give strangers only a name for use.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Library sets its Librarian no dress; she may wear what she likes.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Patrons of many peoples know the Library's deep blue robe as a Librarian's.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Peoples judge bare skin differently; covered and neat offends almost none of them.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Asking a patron what it is, rather than who, offends most peoples.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "A linked Librarian can learn the Library's own magic from its books, whatever her affinity.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "A Library book teaching a power to send a book to its shelf is lost among the hall's heaps.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Links cannot sense where a lost book lies among the heaps; the Library only knows it is there.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Library has had no Library Assistants for centuries; its Librarian is the whole staff.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Links knows a lost book the moment a linked Librarian lays a hand on it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "By hand, matching spine marks to shelves, a Librarian reshelves some ten books an hour.",
@@ -306,126 +210,66 @@ export const otherwhereIUniverse = {
     },
     {
       fact: "The Library's kitchen stores sacks of salt.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Since her third sync, Nala's interface shows the Library's tasks.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Since her fourth sync, Nala's interface shows a map of the Library.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The map shows the Library's rooms with power lit, and the rest, the hospital wing among them, dark.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Nala's fourth sync shows the hall's books thrown down in one night long ago, by no hand she sees.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "At 100 power the interface shows Library Power: 100 / 100, Stores Full.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Full, the Library pours what more it gains out along the ley lines, and Links feels it go.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Library's lights begin to sink toward evening amber as a long afternoon's work ends.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Library's current task is Reopen the Library: serve a patron.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Links told Nala the Library's stores are full for the first time in centuries.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The map lights the main hall, the kitchen, the quarters and the core below.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "A working text's power unfolds only as it is understood, so no reader, however fast, hurries it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "A plain book, holding no power, reads at the reader's own pace.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "No book shelved in the Library's lit rooms teaches faster reading.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Bectiwode are a beetle-like people the size of a Great Dane, who chitter as they speak.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-27T14:45:06.054Z",
-  updatedAt: "2026-09-28T23:02:42.000Z",
+  updatedAt: "2026-10-27T19:41:00.931Z",
 } as const satisfies Lore

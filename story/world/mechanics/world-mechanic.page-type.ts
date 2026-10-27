@@ -54,7 +54,6 @@ export const worldMechanic = {
     "page-type/world-spell",
     "page-type/world-title",
     "page-type/world-trait",
-    "page-type/otherwhere-i-room",
     "text-property/aliases",
     "text-property/chapter-slug",
     "text-property/claimed-by-slug",
@@ -180,5 +179,5 @@ export const worldMechanic = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-09-30T10:26:37.000Z",
+  updatedAt: "2026-10-27T19:41:00.931Z",
 } as const satisfies PageType

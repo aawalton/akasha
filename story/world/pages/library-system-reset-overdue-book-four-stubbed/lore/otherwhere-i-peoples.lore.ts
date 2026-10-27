@@ -9,45 +9,25 @@ export const otherwhereIPeoples = {
   facts: [
     {
       fact: "Courtesies' first part covers the commonest patrons: elves, satyrs, Bectiwode and Aracnio.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Elves give a stranger their house's name before their own, and hear a bare name as cold.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Satyrs take a refused offer of food as a slight, and a shared meal as friendship begun.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Bectiwode hear a low chitter back as warmth, and a silent answer as coldness.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "The Aracnio greet with a dip of the forelegs; a hand thrust out to shake startles them.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-i-links",
-        "character-player/otherwhere-i-alan",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
   ],
   createdAt: "2026-09-28T18:33:00.729Z",
-  updatedAt: "2026-09-28T23:02:42.000Z",
+  updatedAt: "2026-10-27T19:41:00.931Z",
 } as const satisfies Lore

@@ -9,13 +9,9 @@ export const otherwhereIHospitalWing = {
   facts: [
     {
       fact: "The Library's hospital wing stays shut and dark until the Library has more power to open it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
   ],
   createdAt: "2026-09-28T14:09:23.641Z",
-  updatedAt: "2026-09-28T23:02:42.000Z",
+  updatedAt: "2026-10-27T19:41:00.931Z",
 } as const satisfies Place

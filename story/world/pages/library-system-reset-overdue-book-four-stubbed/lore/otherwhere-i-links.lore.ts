@@ -10,31 +10,31 @@ export const otherwhereILinks = {
   facts: [
     {
       fact: "Links watches from high on the core, two bright blue eyes in the grey.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links's usual shape is a lynx as tall as a thigh, larger than any cat.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links's lynx shape is a glowing deep purple, near black, with black stripes.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links's stripes are runic script that moves and twists around his body.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links's eyes are much too large for his head, like a cartoon's, and seldom kind.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links speaks aloud, sharp and impatient, as if nothing a newcomer does will please him.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links's name sounds like lynx and is spelled Links.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links is weary under his irritation, and lonely after centuries without company.",
@@ -42,7 +42,7 @@ export const otherwhereILinks = {
     },
     {
       fact: "Links assumes a newcomer knows everything the packet should have given her.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links can take other shapes: a child, a giant owl, a man, or anything he likes.",
@@ -66,7 +66,7 @@ export const otherwhereILinks = {
     },
     {
       fact: "Links can make a solid platform shaped like his hand to carry a thing.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links pulls numbers from the Library's database, his eyes flickering blue as he does.",
@@ -86,7 +86,7 @@ export const otherwhereILinks = {
     },
     {
       fact: "Links makes bad puns and laughs at them, and says he is an open book.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links keeps things back to spare a newcomer overload, which makes him seem cagey.",
@@ -94,7 +94,7 @@ export const otherwhereILinks = {
     },
     {
       fact: "Links's eyes flicker blue, text scrolling through them, as he searches the Library.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links has not had anyone to talk to for centuries, and forgets how to talk to people.",
@@ -102,34 +102,22 @@ export const otherwhereILinks = {
     },
     {
       fact: "Seeing Nala's bitten arm, Links told her she was bleeding on his floor, quieter than usual.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Links told Nala he would know, and say so loudly, when her hand lands on a useful book.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Links told Nala dragging her clear cost him power he can't spare a second time.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
     {
       fact: "Links told Nala the Library is hers now, and when to open it is her call.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-i-alan",
-        "character-other/otherwhere-i-links",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-i-links"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-27T14:45:30.829Z",
-  updatedAt: "2026-09-28T23:02:42.000Z",
+  updatedAt: "2026-10-27T19:41:00.931Z",
 } as const satisfies Lore

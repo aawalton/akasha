@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-i-room-exits.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/played/modules/played-points/played-points.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":false,"deferred":false}
@@ -20,7 +19,6 @@
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/characters/harem-hotel-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/characters/overwhere-i-nala.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/hollowmere/stories/written/hollowmere/characters/hollowmere-nala.character-player.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/characters/otherwhere-i-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/characters/dragons-and-dungeons-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-dating-game/characters/the-dating-game-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/characters/the-tower-alan.character-player.ts","typed":true,"deferred":false}
