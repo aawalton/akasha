@@ -6,6 +6,7 @@ export const voyage = {
   slug: "voyage",
   definition: "the roleplay site the story engine is measured against",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Voyage" }],
+  parts: ["domain/inworld-tts"],
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
@@ -40,5 +41,5 @@ export const voyage = {
     },
   ],
   createdAt: "2026-10-27T18:17:26.313Z",
-  updatedAt: "2026-10-27T18:17:26.313Z",
+  updatedAt: "2026-10-27T18:33:16.286Z",
 } as const satisfies Domain
