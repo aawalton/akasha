@@ -11,6 +11,7 @@ export const irisWriterBeatFlowTest = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "edf2916b-3df0-4c4d-ae1d-8e99cb7a4c10",
   createdAt: "2026-10-27T22:42:12.283Z",
-  updatedAt: "2026-10-27T22:42:12.283Z",
+  updatedAt: "2026-10-27T22:42:16.582Z",
 } as const satisfies Seat
