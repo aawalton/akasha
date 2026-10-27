@@ -72,6 +72,7 @@ export const temperWatcher = {
     "module/watcher-error-cursor",
     "module/watcher-error-emissions",
     "module/watcher-export-companion-builds",
+    "module/watcher-export-hud-layout",
     "module/watcher-export-landed-catalogs",
     "module/watcher-export-mined-uploaded",
     "module/watcher-export-settings",
@@ -130,5 +131,5 @@ export const temperWatcher = {
     "module/saved-variables-reader",
   ],
   createdAt: "2026-09-02T03:46:23.499Z",
-  updatedAt: "2026-10-19T23:31:52.865Z",
+  updatedAt: "2026-10-27T19:18:31.117Z",
 } as const satisfies ServiceWorkstation

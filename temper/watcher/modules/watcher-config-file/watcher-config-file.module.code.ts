@@ -86,6 +86,14 @@ export function serializeCharactersConfigFile(inputs: CharactersConfigFileInputs
   ])
 }
 
+interface CoreConfigFileInputs {
+  readonly hudLayout: unknown
+}
+
+export function serializeCoreConfigFile(inputs: CoreConfigFileInputs): string {
+  return configFile("TemperConfig", [block("hudLayout", inputs.hudLayout)])
+}
+
 export interface CompanionsConfigFileInputs {
   readonly companionTargetBuilds: Readonly<Record<number, string>>
   readonly companionTargetTimestamps: Readonly<Record<number, number>>

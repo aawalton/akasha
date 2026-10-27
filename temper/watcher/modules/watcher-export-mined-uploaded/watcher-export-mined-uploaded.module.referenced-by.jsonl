@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"watcher-export-mined-uploaded.module.code.ts","path":"temper/watcher/modules/watcher-dispatch-runners/watcher-dispatch-runners.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-export-mined-uploaded.module.code.ts","path":"temper/watcher/modules/watcher-export-landed-catalogs/watcher-export-landed-catalogs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-export-mined-uploaded.module.code.ts","path":"temper/watcher/modules/watcher-export-mined-uploaded/watcher-export-mined-uploaded.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-export-mined-uploaded.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-export-hud-layout/watcher-export-hud-layout.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-export-mined-uploaded.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-export-landed-catalogs/watcher-export-landed-catalogs.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-export-mined-uploaded.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-export-mined-uploaded/watcher-export-mined-uploaded.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/watcher/temper-watcher.service-workstation.ts","id":"01a06039-9c8b-7942-a8fc-234055602831"}
