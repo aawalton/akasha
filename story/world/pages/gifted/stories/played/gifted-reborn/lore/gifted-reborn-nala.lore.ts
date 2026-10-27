@@ -73,7 +73,11 @@ export const giftedRebornNala = {
       fact: "She spread into the half of the body the demon held; the whole small body is hers now.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Cold, dark threads of the demon run all through her soul, woven in among it, and they stay.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-27T23:59:05.753Z",
+  updatedAt: "2026-10-27T23:59:49.223Z",
 } as const satisfies Lore
