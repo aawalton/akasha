@@ -4179,6 +4179,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-speed/hud-addon-speed.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-types/hud-addon-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-visibility-version/hud-addon-visibility-version.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/modules/hud-layout-place/hud-layout-place.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-casts/addon-menu-casts.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-constants/addon-menu-constants.module.ts","typed":true,"deferred":false}
