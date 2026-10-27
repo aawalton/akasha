@@ -8,11 +8,6 @@ export const awenCharacterData = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    {
-      statement: "A story item states its category.",
-      workingMemory:
-        "Generic mechanics sit under `story/world/mechanics/`, per-story subtypes under each story's `mechanics/`. `story-item` has no category; `world-skill` has no XP or governing attribute; `ability` is only a domain; `world-title` links to no character; only The Tower has attribute points. Each piece is then shown in its tab of the character panel (`awen-character-panel`).\n",
-    },
     { statement: "A skill states the attribute that governs it." },
     { statement: "A skill states its experience toward its next level." },
     { statement: "A character states the titles it holds." },
@@ -20,5 +15,5 @@ export const awenCharacterData = {
   ],
   constraints: ["Alan approves the shape of each new page type or property before it is built."],
   createdAt: "2026-10-27T18:44:19.264Z",
-  updatedAt: "2026-10-27T18:57:04.023Z",
+  updatedAt: "2026-10-27T19:00:51.455Z",
 } as const satisfies Initiative
