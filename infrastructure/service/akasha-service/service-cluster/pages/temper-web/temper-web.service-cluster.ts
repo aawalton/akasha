@@ -24,7 +24,7 @@ export const temperWeb = {
   codeSync: { cachePath: "/var/temper-web-cache", minMemoryMb: 256, killMemoryMb: 4096 },
   imageCopies: [
     {
-      image: "registry.registry.svc.cluster.local:5000/cluster/temper-watcher:711278c2e342",
+      image: "registry.registry.svc.cluster.local:5000/cluster/temper-watcher:5bda1c44374c",
       copyFrom: "/build",
       copyTo: "temper/web/watcher",
       copiedFiles: ["temper-watcher.exe", "temper-watcher-worker.exe", "version.txt"],
@@ -48,6 +48,6 @@ export const temperWeb = {
     "secret/git-transport-secrets-git-access-token",
     "secret/temper-secrets-session-key",
   ],
-  updatedAt: "2026-10-27T08:19:37.361Z",
+  updatedAt: "2026-10-27T09:22:23.870Z",
   createdAt: "2026-09-01T04:07:55.830Z",
 } as const satisfies ServiceCluster

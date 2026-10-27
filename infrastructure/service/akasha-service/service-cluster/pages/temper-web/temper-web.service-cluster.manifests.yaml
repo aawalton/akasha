@@ -260,7 +260,7 @@ spec:
               cp -f /build/temper-watcher-worker.exe /app/repo/temper/web/watcher/temper-watcher-worker.exe
               cp -f /build/version.txt /app/repo/temper/web/watcher/version.txt
               echo "init-watcher: copied into /app/repo/temper/web/watcher"
-          image: registry.registry.svc.cluster.local:5000/cluster/temper-watcher:711278c2e342
+          image: registry.registry.svc.cluster.local:5000/cluster/temper-watcher:5bda1c44374c
           imagePullPolicy: IfNotPresent
           name: init-watcher
           resources:
