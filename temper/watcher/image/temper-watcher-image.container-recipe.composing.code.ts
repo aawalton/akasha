@@ -90,7 +90,7 @@ function runIcon(name: string): string {
 
 function iconStage(carrier: string, icon: string): readonly string[] {
   return [
-    "FROM oven/bun:1.3.14-alpine AS icon-builder",
+    "FROM oven/bun:1.4.4-alpine AS icon-builder",
     "WORKDIR /icon",
     "# The crate's icon is a page property carried beside its page as base64 json, so no",
     "# file in akasha holds a NUL byte. This stage writes the bytes back out under the name",
@@ -128,7 +128,7 @@ function rustStage(folder: string, copies: readonly Copied[]): readonly string[]
 
 function workerStage(worker: string): readonly string[] {
   return [
-    "FROM oven/bun:1.3.14-alpine AS worker-builder",
+    "FROM oven/bun:1.4.4-alpine AS worker-builder",
     "ARG COMMIT_SHA",
     "ENV COMMIT_SHA=${COMMIT_SHA}",
     "WORKDIR /workspace",

@@ -1,4 +1,4 @@
-FROM oven/bun:1.3.14-alpine AS icon-builder
+FROM oven/bun:1.4.4-alpine AS icon-builder
 WORKDIR /icon
 # The crate's icon is a page property carried beside its page as base64 json, so no
 # file in akasha holds a NUL byte. This stage writes the bytes back out under the name
@@ -33,7 +33,7 @@ RUN mkdir -p .cargo && \
     echo 'ar = "x86_64-w64-mingw32-ar"' >> .cargo/config.toml
 RUN cargo build --target=x86_64-pc-windows-gnu --release
 
-FROM oven/bun:1.3.14-alpine AS worker-builder
+FROM oven/bun:1.4.4-alpine AS worker-builder
 ARG COMMIT_SHA
 ENV COMMIT_SHA=${COMMIT_SHA}
 WORKDIR /workspace
