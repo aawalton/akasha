@@ -71,4 +71,4 @@
 {"id":"01a16e20-4969-7652-921c-368f30ab1d45","runStartedAt":"2026-10-24T13:36:12.135Z","runStatus":"success","runCompletedAt":"2026-10-24T13:36:13.120Z","durationMs":985,"createdCount":0,"updatedCount":0,"skippedCount":0,"failedCount":0}
 {"id":"01a17345-8dab-76f3-bdb0-1518372223ce","runStartedAt":"2026-10-25T13:35:00.521Z","runStatus":"success","runCompletedAt":"2026-10-25T13:35:01.458Z","durationMs":937,"createdCount":0,"updatedCount":0,"skippedCount":0,"failedCount":0}
 {"id":"01a1786c-ce39-7b80-91a7-32d51a13c67e","runStartedAt":"2026-10-26T13:35:59.031Z","runStatus":"success","runCompletedAt":"2026-10-26T13:35:59.979Z","durationMs":948,"createdCount":0,"updatedCount":0,"skippedCount":0,"failedCount":0}
-{"id":"01a17d94-fee3-750a-87e7-34b09c93275c","runStartedAt":"2026-10-27T13:37:59.009Z","runStatus":"running"}
+{"id":"01a17d94-fee3-750a-87e7-34b09c93275c","runStartedAt":"2026-10-27T13:37:59.009Z","runStatus":"success","runCompletedAt":"2026-10-27T13:37:59.805Z","durationMs":796,"createdCount":0,"updatedCount":0,"skippedCount":0,"failedCount":0}
