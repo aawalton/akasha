@@ -7,3 +7,7 @@ export const DELETE_INTENT_COMMAND = "opsInitiativeTree.deleteIntent"
 export const DELETE_INITIATIVE_COMMAND = "opsInitiativeTree.deleteInitiative"
 
 export const ASSIGN_COMMAND = "opsInitiativeTree.assign"
+
+export const TOGGLE_ACTIVE_COMMAND = "opsInitiativeTree.toggleActive"
+
+export const ACTIVE_ONLY_KEY = "opsInitiativeTree.activeOnly"

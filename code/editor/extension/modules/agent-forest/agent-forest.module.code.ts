@@ -200,7 +200,7 @@ export function sectionContextValue(section: AgentTreeRow): string {
   return runningSeatsUnder(section).length === 0 ? "section" : "section.running"
 }
 
-const ACTIVE_COLORS: ReadonlySet<string> = new Set(["blue", "green", "purple"])
+export const ACTIVE_COLORS: ReadonlySet<string> = new Set(["blue", "green", "purple"])
 
 function keptActive(row: AgentTreeRow): readonly AgentTreeRow[] {
   if (row.kind === "subagent") return [row]

@@ -4,9 +4,27 @@ export const workTreeReading = {
   id: "01a06867-dbcb-78e4-a9b3-4a59f26c06ca",
   type: "page-type/module",
   slug: "work-tree-reading",
-  definition: "what is counted and keyed from work tree rows already in hand",
+  definition: "what is counted, keyed and kept from work tree rows already in hand",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Showing only the active initiatives shows an initiative colored as an active seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An initiative not active is shown where an active initiative hangs under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An initiative shown keeps its intents.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A top row left with no initiative shown is not drawn.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A count of the rows counts every row beneath a root as well as that root.",
@@ -29,5 +47,5 @@ export const workTreeReading = {
     },
   ],
   createdAt: "2026-09-03T17:53:52.075Z",
-  updatedAt: "2026-09-15T18:33:01.000Z",
+  updatedAt: "2026-10-27T18:24:42.194Z",
 } as const satisfies Module

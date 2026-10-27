@@ -25,6 +25,18 @@ export const workTreePanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A button shows only the active initiatives, as the agents panel's shows seats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Showing only the active initiatives is kept across a restart of the editor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The badge and the counts reach every row whether or not it is shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A color is carried on as its name.",
     },
     {
@@ -184,5 +196,5 @@ export const workTreePanel = {
     },
   ],
   createdAt: "2026-09-03T17:53:52.076Z",
-  updatedAt: "2026-09-26T14:06:24.000Z",
+  updatedAt: "2026-10-27T18:24:42.194Z",
 } as const satisfies Module

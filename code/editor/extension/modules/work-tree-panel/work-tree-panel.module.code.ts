@@ -39,13 +39,16 @@ import {
   settledOver,
 } from "akasha/code/editor/extension/modules/work-tree-holding/work-tree-holding.module.code.ts"
 import {
+  ACTIVE_ONLY_KEY,
   ASSIGN_COMMAND,
   DELETE_INITIATIVE_COMMAND,
   DELETE_INTENT_COMMAND,
   REFRESH_COMMAND,
+  TOGGLE_ACTIVE_COMMAND,
   VIEW_ID,
 } from "akasha/code/editor/extension/modules/work-tree-ids/work-tree-ids.module.code.ts"
 import {
+  activeOnly,
   countOfKind,
   countRows,
   workKeys,
@@ -93,18 +96,25 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   context.subscriptions.push(tree, view)
 
   let total = 0
+  let showingActive = context.globalState.get(ACTIVE_ONLY_KEY) === true
+
+  const describe = (): undefined => {
+    const counted = describedAs(tree.matchCount(), total)
+    view.description = showingActive ? `${counted} · active only` : counted
+    return undefined
+  }
 
   const draw = (held: WorkTreeState, trigger: string): undefined => {
     try {
       filed = held.roots
       const roots = settledOver(held.roots, holding)
-      tree.replace(roots)
+      tree.replace(showingActive ? activeOnly(roots) : roots)
       drawn = roots
       const rows = countRows(roots)
       const initiatives = countOfKind(roots, "initiative")
       const intents = countOfKind(roots, "intent")
       total = rows
-      view.description = describedAs(tree.matchCount(), total)
+      describe()
       view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
       view.message = undefined
       const keys = workKeys(roots)
@@ -205,6 +215,15 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
+  const toggleActive = async (): Promise<undefined> => {
+    showingActive = !showingActive
+    await context.globalState.update(ACTIVE_ONLY_KEY, showingActive)
+    output.appendLine(
+      `[active-only] ${showingActive ? "only active initiatives" : "every initiative"}`
+    )
+    return draw({ roots: filed }, "active-only")
+  }
+
   const reading = followState(akashaRoot(), SLUG, workTreeStateSchema, (held) => draw(held, "work"))
 
   context.subscriptions.push(
@@ -215,9 +234,10 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     },
     view.onDidChangeFilterValue((pattern) => {
       tree.filter(pattern)
-      view.description = describedAs(tree.matchCount(), total)
+      describe()
     }),
     vscode.window.registerFileDecorationProvider(createWorkDecorationProvider()),
+    vscode.commands.registerCommand(TOGGLE_ACTIVE_COMMAND, () => toggleActive()),
     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual")),
     vscode.commands.registerCommand(DELETE_INTENT_COMMAND, (row?: WorkTreeRow) =>
       deletingIntent(vscode, said, deleting)(row)
