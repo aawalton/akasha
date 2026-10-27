@@ -1,3 +1,6 @@
+{"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/otherwhere-the-library-player-character/otherwhere-the-library-player-character.played-panel.ts","id":"01a0e81f-b53b-713a-a982-cd2e49fd35ad"}
+{"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/player-character/player-character.played-panel.ts","id":"01a0e81f-b53b-7dba-96d1-85a5175ffc7c"}
+{"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/tower-player-character/tower-player-character.played-panel.ts","id":"01a0e81e-5023-74e7-b569-9edb68b86b81"}
 {"propertySlug":"import","fileName":"character.panel-place.ts","path":"story/world/stories/played/modules/played-sidebars/played-sidebars.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character.panel-place.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/ui/played-panel/panel-place/panel-place.page-type.ts","id":"01a0c4cc-9091-7ea4-a3aa-6a4d2c413b4f"}

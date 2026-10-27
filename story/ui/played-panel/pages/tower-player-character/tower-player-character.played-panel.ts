@@ -8,11 +8,11 @@ export const towerPlayerCharacter = {
     "the Tower's player character: name, then sheet, with the derived numbers the Tower works",
   code: "tsx",
   drawn: "js",
-  place: "panel-place/aside",
+  place: "panel-place/character",
   position: 12,
   decisions: [
     { decisionKind: "decision-kind/departure", statement: "Clicking the cover opens it whole." },
   ],
   createdAt: "2026-09-28T13:04:55.843Z",
-  updatedAt: "2026-09-28T14:20:12.000Z",
+  updatedAt: "2026-10-27T18:38:55.510Z",
 } as const satisfies PlayedPanel

@@ -7,11 +7,11 @@ export const playerCharacter = {
   definition: "the player character's cover, then the other characters', each over its own sheet",
   code: "tsx",
   drawn: "js",
-  place: "panel-place/aside",
+  place: "panel-place/character",
   position: 10,
   decisions: [
     { decisionKind: "decision-kind/departure", statement: "Clicking the cover opens it whole." },
   ],
   createdAt: "2026-09-28T13:06:27.259Z",
-  updatedAt: "2026-10-03T20:13:48.000Z",
+  updatedAt: "2026-10-27T18:38:55.510Z",
 } as const satisfies PlayedPanel

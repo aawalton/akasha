@@ -7,7 +7,7 @@ export const otherwhereTheLibraryPlayerCharacter = {
   definition: "Otherwhere's player character with a sheet without bonds, then the other characters",
   code: "tsx",
   drawn: "js",
-  place: "panel-place/aside",
+  place: "panel-place/character",
   position: 11,
   decisions: [
     { decisionKind: "decision-kind/departure", statement: "Clicking the cover opens it whole." },
@@ -18,5 +18,5 @@ export const otherwhereTheLibraryPlayerCharacter = {
     },
   ],
   createdAt: "2026-09-28T13:06:27.259Z",
-  updatedAt: "2026-10-03T19:44:38.000Z",
+  updatedAt: "2026-10-27T18:38:55.510Z",
 } as const satisfies PlayedPanel
