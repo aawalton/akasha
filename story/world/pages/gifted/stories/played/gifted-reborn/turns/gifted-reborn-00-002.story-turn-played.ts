@@ -7,14 +7,16 @@ export const giftedReborn00002 = {
   unit: "unit/words",
   partOfCollections: ["story-played/gifted-reborn"],
   position: 2,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/beats",
   action:
     "I turn the tables and try to devour the demon while it is weakened like it tried to devour me",
+  beats: "jsonl",
   lore: [
     "lore/gifted-lesser-demon-prince",
     "lore/gifted-reborn-nala",
     "lore/gifted-souls-and-demons",
   ],
+  endsAt: "2026-10-27T20:40:00.000Z",
   createdAt: "2026-10-27T23:31:47.551Z",
-  updatedAt: "2026-10-27T23:41:28.335Z",
+  updatedAt: "2026-10-27T23:45:54.473Z",
 } as const satisfies StoryTurnPlayed
