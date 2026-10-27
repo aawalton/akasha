@@ -7,8 +7,9 @@ export const giftedRebornNalaPathOfEndurance = {
   world: "world/gifted",
   character: "character-player/gifted-reborn-nala",
   skill: "world-skill/gifted-path-of-endurance",
-  experience: 1267,
+  experience: 0,
+  unrevealed: true,
   attribute: "metric-character-stat/gifted-reborn-nala-stamina",
   createdAt: "2026-10-27T19:41:16.088Z",
-  updatedAt: "2026-10-27T19:41:16.088Z",
+  updatedAt: "2026-10-27T21:49:31.853Z",
 } as const satisfies CharacterSkill
