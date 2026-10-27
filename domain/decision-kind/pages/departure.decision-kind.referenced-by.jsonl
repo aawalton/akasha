@@ -4474,6 +4474,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/combat-alerts-settings/modules/menu/combat-alerts-settings-menu.module.ts","id":"01a0deb0-4738-7c8d-812a-62ceba116a7b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/combat-report-layout/combat-report-layout.eso-interface.ts","id":"01a0617f-584e-76ce-83fb-c830e5da8925"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/combat-templates-layout/combat-templates-layout.eso-interface.ts","id":"01a0617f-5852-72f4-9d5e-4c118e7492c2"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-action-fonts/combat-action-fonts.module.ts","id":"01a0617f-5831-72ff-bc69-ccfe46ca94c7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-action-power-lash/combat-action-power-lash.module.ts","id":"01a0617f-5833-7731-89e4-8a2778621a73"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-alerts-style/combat-alerts-style.module.ts","id":"01a0de75-9a8d-71a5-ab9b-2f5ea4dc61c8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-carry-over/combat-carry-over.module.ts","id":"01a0de65-b876-7c64-8a5a-a41ef5aff605"}

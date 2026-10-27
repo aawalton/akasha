@@ -6,6 +6,17 @@ export const combatActionFonts = {
   slug: "combat-action-fonts",
   definition: "the action widgets' label fonts",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A setting names a label's face by the game's font string, as `BOLD_FONT`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The font a label is handed expands that name, as `$(BOLD_FONT)`.",
+    },
+  ],
   createdAt: "2026-09-02T09:42:10.737Z",
-  updatedAt: "2026-09-22T14:04:10.000Z",
+  updatedAt: "2026-10-27T20:05:13.584Z",
 } as const satisfies Module

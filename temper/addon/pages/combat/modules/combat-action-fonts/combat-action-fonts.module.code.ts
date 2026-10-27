@@ -1,13 +1,17 @@
 import type { BarSettings } from "akasha/temper/addon/pages/combat/modules/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
 
 function buildFont(name: string, size: number, style: string): string {
-  return name + "|" + size + "|" + style
+  return "$(" + name + ")|" + size + "|" + style
 }
 
-export function getLabelFont(s: BarSettings): string {
+export function getLabelFont(
+  s: Pick<BarSettings, "barLabelFontName" | "barLabelFontSize" | "barLabelFontStyle">
+): string {
   return buildFont(s.barLabelFontName, s.barLabelFontSize, s.barLabelFontStyle)
 }
 
-export function getStackLabelFont(s: BarSettings): string {
+export function getStackLabelFont(
+  s: Pick<BarSettings, "barStackLabelFontName" | "barStackLabelFontSize" | "barStackLabelFontStyle">
+): string {
   return buildFont(s.barStackLabelFontName, s.barStackLabelFontSize, s.barStackLabelFontStyle)
 }
