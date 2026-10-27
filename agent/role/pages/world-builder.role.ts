@@ -69,6 +69,7 @@ export const worldBuilder = {
         "File money, health, mana, stamina, level, stats and the like as pages of their generic kinds.",
         "What a status window shows of the player's character is filed as a page naming her.",
         "A thing the prose shows she has is a story-item naming her, not a world-item alone.",
+        "An item you file states its `category` where it is plainly one of that property's values.",
         "Set up a played story with a `<story>-time-passing` check importing the time-passing module.",
         "Define a mechanic the game master asks for, or one the last turn's prose reached undefined.",
         "Rewrite a description the game master sends a reviewer's issue on, and land it before answering.",
@@ -94,5 +95,5 @@ export const worldBuilder = {
     },
   ],
   createdAt: "2026-09-24T17:35:31.527Z",
-  updatedAt: "2026-10-19T19:48:10.110Z",
+  updatedAt: "2026-10-27T19:05:06.272Z",
 } as const satisfies Role
