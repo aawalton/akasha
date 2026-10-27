@@ -118,6 +118,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/view/properties/locked-page-type.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/view/properties/sort-descending.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-consent.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/checks/outcome-tiers/properties/succeeds.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/checks/properties/difficulty-moved.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/claimed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/effect-claimed.boolean-property.ts","typed":true,"deferred":false}

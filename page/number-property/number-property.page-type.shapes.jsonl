@@ -425,6 +425,7 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sale-price","propertySlug":"sale-price","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sale-quantity","propertySlug":"quantity","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"scanned-to","propertySlug":"scanned-to","fileName":null,"folderName":null}
+{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"score-floor","propertySlug":"score-floor","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"seating-capacity","propertySlug":"seating-capacity","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"seconds-holding-stretch","propertySlug":"seconds-holding-stretch","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"set-bonus-scale","propertySlug":"set-bonus-scale","fileName":null,"folderName":null}
