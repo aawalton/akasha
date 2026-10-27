@@ -6,6 +6,8 @@
 {"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"code/body/modules/body-loading/body-loading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"command/pages/story/montage/modules/montage-placing/montage-placing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"command/pages/story/montage/story-montage.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"domain/context/modules/warranting/warranting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"page/name-format/modules/format-reaching/format-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-loading.module.test-fixtures.ts","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.test.ts","typed":false,"deferred":false}

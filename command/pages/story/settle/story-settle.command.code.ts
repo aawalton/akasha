@@ -35,6 +35,17 @@ import {
   takenBackOf,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import {
+  type Casting,
+  castingIndexed,
+  characterRefused,
+} from "akasha/command/pages/story/modules/settle-character/settle-character.module.code.ts"
+import {
+  type Odds,
+  type Oddsed,
+  oddsIndexed,
+  rolledBy,
+} from "akasha/command/pages/story/modules/settle-difficulty/settle-difficulty.module.code.ts"
+import {
   type Chained,
   lineChained,
   linesIn,
@@ -42,17 +53,6 @@ import {
   seedAfter,
   unmadeLogged,
 } from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
-import {
-  type Casting,
-  castingIndexed,
-  characterRefused,
-} from "akasha/command/pages/story/settle/modules/settle-character/settle-character.module.code.ts"
-import {
-  type Odds,
-  type Oddsed,
-  oddsIndexed,
-  rolledBy,
-} from "akasha/command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.code.ts"
 import {
   type Taken,
   taken,
@@ -133,7 +133,7 @@ export function turnsIndexed(root: string, story: string): readonly Turn[] {
   return found
 }
 
-function chaptersIndexed(root: string, story: string): readonly Chained[] {
+export function chaptersIndexed(root: string, story: string): readonly Chained[] {
   const named = `${storyPlayed.slug}/${story}`
   const found: Chained[] = []
   for (const one of valuesOfType(root, storyChapterPlayed.slug)) {

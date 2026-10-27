@@ -2,9 +2,9 @@ import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Casting } from "akasha/command/pages/story/modules/settle-character/settle-character.module.code.ts"
+import type { Oddsed } from "akasha/command/pages/story/modules/settle-difficulty/settle-difficulty.module.code.ts"
 import type { Chained } from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
-import type { Casting } from "akasha/command/pages/story/settle/modules/settle-character/settle-character.module.code.ts"
-import type { Oddsed } from "akasha/command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.code.ts"
 import {
   type Reach,
   type Roll,

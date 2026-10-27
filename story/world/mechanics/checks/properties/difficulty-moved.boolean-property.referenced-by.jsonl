@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"difficulty-moved.boolean-property.ts","path":"command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"difficulty-moved.boolean-property.ts","path":"command/pages/story/modules/settle-difficulty/settle-difficulty.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"difficulty-moved.boolean-property.types.ts","path":"story/world/mechanics/checks/world-check.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
 {"propertySlug":"parts","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}

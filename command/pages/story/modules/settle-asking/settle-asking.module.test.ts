@@ -4,6 +4,7 @@ import { addedTo, ledgerAt } from "akasha/change/modules/shadow/change-shadow.mo
 import {
   askedFor,
   countedLines,
+  linesAskedFor,
   pageIn,
   summedFor,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
@@ -34,6 +35,16 @@ test("a roll answering endsAt restates the instant a turn states already", () =>
   expect(asked).toHaveLength(2)
   expect(asked[1]?.at).toMatch(/\/change-page-page-property$/)
   expect(asked[1]?.given).toEqual({ at: TURN, key: "endsAt", to: "2026-09-28T11:27:00.000Z" })
+})
+
+test("many lines are appended at once, and the turn states the end handed in", () => {
+  const lines = [{ session: 1 }, { session: 2 }]
+  const asked = linesAskedFor(OUTCOMES, TURN, lines, "2026-09-29T11:27:00.000Z", "")
+  expect(asked[0]?.given).toEqual({
+    at: OUTCOMES,
+    content: '{"session":1}\n{"session":2}\n',
+  })
+  expect(asked[1]?.given).toEqual({ at: TURN, key: "endsAt", value: '"2026-09-29T11:27:00.000Z"' })
 })
 
 test("a turn stating that instant already is asked nothing more", () => {

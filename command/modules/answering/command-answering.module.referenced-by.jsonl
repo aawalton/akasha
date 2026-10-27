@@ -347,6 +347,8 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/story/character-file/story-character-file.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/story/chat/story-chat.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/story/join-unread/story-join-unread.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/story/montage/modules/montage-placing/montage-placing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/story/montage/story-montage.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/story/state/story-state.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}

@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/montage/modules/montage-placing/montage-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/settle/story-settle.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/state/story-state.command.code.ts","typed":false,"deferred":false}

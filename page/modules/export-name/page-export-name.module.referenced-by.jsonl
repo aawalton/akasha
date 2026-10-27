@@ -58,10 +58,11 @@
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/modules/calling/calling.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/modules/settle-difficulty/settle-difficulty.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/montage/modules/montage-placing/montage-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/temper/catalog/import-lore-books/modules/lore-book-planning/lore-book-planning.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/watching/hallmark/modules/hallmark-shelving/hallmark-shelving.module.code.ts","typed":false,"deferred":false}

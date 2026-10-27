@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   characterRefused,
   meantBy,
-} from "akasha/command/pages/story/settle/modules/settle-character/settle-character.module.code.ts"
+} from "akasha/command/pages/story/modules/settle-character/settle-character.module.code.ts"
 import type {
   Admitted,
   Character,

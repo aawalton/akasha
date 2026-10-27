@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"odds-modifier.number-property.ts","path":"command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"odds-modifier.number-property.ts","path":"command/pages/story/modules/settle-difficulty/settle-difficulty.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"odds-modifier.number-property.ts","path":"story/ui/modules/difficulty-panel/difficulty-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"odds-modifier.number-property.types.ts","path":"story/world/mechanics/checks/action-difficulties/action-difficulty.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"odds-modifier.number-property.types.ts","path":"story/world/stories/played/difficulty-levels/difficulty-level.page-type.types.ts","typed":true,"deferred":false}

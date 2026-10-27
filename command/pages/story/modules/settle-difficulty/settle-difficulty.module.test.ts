@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
-import { rolledBy } from "akasha/command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.code.ts"
+import { rolledBy } from "akasha/command/pages/story/modules/settle-difficulty/settle-difficulty.module.code.ts"
 import {
   type Appended,
   answeredBy,

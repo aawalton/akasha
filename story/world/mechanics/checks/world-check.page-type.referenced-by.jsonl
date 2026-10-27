@@ -1,4 +1,5 @@
-{"propertySlug":"import","fileName":"world-check.page-type.ts","path":"command/pages/story/settle/modules/settle-difficulty/settle-difficulty.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"world-check.page-type.ts","path":"command/pages/story/modules/settle-difficulty/settle-difficulty.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"world-check.page-type.ts","path":"command/pages/story/montage/modules/montage-placing/montage-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-time-passing.world-check.ts","typed":true,"deferred":false}

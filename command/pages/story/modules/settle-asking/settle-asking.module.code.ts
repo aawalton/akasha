@@ -242,3 +242,15 @@ export function askedFor(
   if (typeof endsAt !== "string") return [appended]
   return [appended, ...timedFor(turn, endsAt, turnText)]
 }
+
+export function linesAskedFor(
+  outcomes: string,
+  turn: string,
+  lines: readonly unknown[],
+  endsAt: string,
+  turnText: string | null
+): readonly Asking[] {
+  const content = lines.map((one) => `${JSON.stringify(one)}${BREAK}`).join("")
+  const appended: Asking = { at: APPEND, given: { at: outcomes, content } }
+  return [appended, ...timedFor(turn, endsAt, turnText)]
+}
