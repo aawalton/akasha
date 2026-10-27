@@ -31,6 +31,9 @@ const LEFT_TO_FILL =
   /^\s*(checksum\/[A-Za-z0-9][A-Za-z0-9._-]*):[ \t]*(?!["']?[0-9a-f]{32,64}["']?[ \t]*$)\S.*$/gm
 const NOT_YET_KNOWN = /^\s*(image):\s*\S*MUST_BE_SET\S*\s*$/gm
 const DOCUMENT_BREAK = /^---\n/m
+const STORE_TIMED_OUT = "etcdserver: request timed out"
+const APPLY_TRIES = 4
+const BETWEEN_TRIES_MS = 15_000
 
 export interface Ran {
   readonly argv: readonly string[]
@@ -332,11 +335,25 @@ export type Between = (plan: Plan) => readonly Ran[]
 export interface Kubectl {
   readonly on: (argv: readonly string[], text: string) => Ran
   readonly alone: (argv: readonly string[]) => Ran
+  readonly wait: (ms: number) => void
 }
 
 const nothingBetween: Between = () => []
 
-const RUN_KUBECTL: Kubectl = { on: runKubectlOn, alone: runKubectl }
+const RUN_KUBECTL: Kubectl = { on: runKubectlOn, alone: runKubectl, wait: Bun.sleepSync }
+
+export function storeTimedOut(one: Ran): boolean {
+  return one.code !== 0 && one.stderr.includes(STORE_TIMED_OUT)
+}
+
+function appliedOnce(plan: Plan, manifest: Manifest, kubectl: Kubectl): Ran {
+  let one = kubectl.on(applyOf(plan, manifest), manifest.yaml)
+  for (let tried = 1; tried < APPLY_TRIES && storeTimedOut(one); tried += 1) {
+    kubectl.wait(BETWEEN_TRIES_MS)
+    one = kubectl.on(applyOf(plan, manifest), manifest.yaml)
+  }
+  return one
+}
 
 function appliedEach(
   plan: Plan,
@@ -345,7 +362,7 @@ function appliedEach(
   ran: Ran[]
 ): boolean {
   for (const manifest of manifests) {
-    const one = kubectl.on(applyOf(plan, manifest), manifest.yaml)
+    const one = appliedOnce(plan, manifest, kubectl)
     ran.push(one)
     if (one.code !== 0) return false
   }

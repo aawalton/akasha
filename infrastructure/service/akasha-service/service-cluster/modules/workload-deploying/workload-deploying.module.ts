@@ -66,6 +66,15 @@ export const workloadDeploying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An apply the cluster's store timed out on is tried again a few times before it refuses.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A server-side apply run twice lands what it lands once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A kubectl a caller waits on is run so that the caller's loop keeps turning.",
     },
     {
@@ -139,5 +148,5 @@ export const workloadDeploying = {
     },
   ],
   createdAt: "2026-09-01T03:15:54.902Z",
-  updatedAt: "2026-10-27T07:38:37.802Z",
+  updatedAt: "2026-10-27T21:55:37.262Z",
 } as const satisfies Module

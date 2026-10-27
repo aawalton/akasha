@@ -259,6 +259,25 @@ function watched(seen: string[]): Kubectl {
       seen.push(argv[0] as string)
       return done(argv)
     },
+    wait: () => {
+      seen.push("wait")
+    },
+  }
+}
+
+const TIMED_OUT = "Error from server: etcdserver: request timed out"
+
+function refusing(seen: string[], refused: string, times: number, stderr: string): Kubectl {
+  let left = times
+  const plain = watched(seen)
+  return {
+    ...plain,
+    on: (argv, text) => {
+      seen.push(text)
+      if (text !== refused || left === 0) return done(argv)
+      left -= 1
+      return { argv, code: 1, stdout: "", stderr }
+    },
   }
 }
 
@@ -306,4 +325,34 @@ test("a plan naming no workload applies every manifest and waits on nothing", ()
   const ran = putUp({ ...PUT_UP_PLAN, workload: null }, undefined, watched(seen))
   expect(seen).toEqual(["namespace", "service", "deployment"])
   expect(ran).toHaveLength(3)
+})
+
+test("an apply the cluster's store timed out on is tried again and the rest goes on", () => {
+  const seen: string[] = []
+  const ran = putUp(PUT_UP_PLAN, undefined, refusing(seen, "service", 2, TIMED_OUT))
+  expect(seen).toEqual([
+    "namespace",
+    "service",
+    "wait",
+    "service",
+    "wait",
+    "service",
+    "deployment",
+    "rollout",
+  ])
+  expect(ran.every((one) => one.code === 0)).toBe(true)
+})
+
+test("an apply the cluster's store times out on every try stops the apply", () => {
+  const seen: string[] = []
+  const ran = putUp(PUT_UP_PLAN, undefined, refusing(seen, "service", 9, TIMED_OUT))
+  expect(seen.filter((one) => one === "service")).toHaveLength(4)
+  expect(seen).not.toContain("deployment")
+  expect(ran.at(-1)?.stderr).toBe(TIMED_OUT)
+})
+
+test("an apply refused for any other reason is not tried again", () => {
+  const seen: string[] = []
+  putUp(PUT_UP_PLAN, undefined, refusing(seen, "service", 1, "Error from server (Invalid)"))
+  expect(seen).toEqual(["namespace", "service"])
 })
