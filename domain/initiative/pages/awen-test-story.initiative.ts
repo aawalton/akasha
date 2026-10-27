@@ -10,10 +10,6 @@ export const awenTestStory = {
   intentStack: [
     {
       statement:
-        "The test player character has a level, XP, resources, attributes and unspent points.",
-    },
-    {
-      statement:
         "The test player character holds skills, traits, titles and items of every category.",
     },
     { statement: "The test story has turns and a closed chapter to show." },
@@ -26,5 +22,5 @@ export const awenTestStory = {
     "The test story is played only by agents testing the engine, never offered to Alan.",
   ],
   createdAt: "2026-10-27T19:03:53.823Z",
-  updatedAt: "2026-10-27T19:11:19.832Z",
+  updatedAt: "2026-10-27T19:12:45.586Z",
 } as const satisfies Initiative
