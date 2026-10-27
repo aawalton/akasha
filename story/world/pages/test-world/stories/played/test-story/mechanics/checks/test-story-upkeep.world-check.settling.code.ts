@@ -1,6 +1,6 @@
 import type { Added } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { metricCharacterCurrency } from "akasha/story/world/mechanics/metrics/metric-character/currency/metric-character-currency.page-type.ts"
-import { testStoryPlayer } from "akasha/story/world/pages/test-world/stories/played/test-story/mechanics/metrics/purses/test-story-player.metric-character-currency.ts"
 import { z } from "zod"
 
 const BOARD = 3
@@ -33,10 +33,11 @@ export function settled(reading: unknown): Settled {
   return { answered: { paid: BOARD, coinLeft: held.data.coin - BOARD } }
 }
 
-export function added(_reading: unknown, answered: unknown): readonly Added[] {
+export function added(reading: unknown, answered: unknown): readonly Added[] {
+  const held = KEEP.safeParse(reading)
   const kept = KEPT.safeParse(answered)
-  if (!kept.success) return []
-  const page = `${metricCharacterCurrency.slug}/${testStoryPlayer.slug}`
+  if (!held.success || !kept.success) return []
+  const page = `${metricCharacterCurrency.slug}/${slugOf(held.data.character)}`
   return [{ page, key: "value", by: -kept.data.paid }]
 }
 
