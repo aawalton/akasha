@@ -20,6 +20,7 @@ import {
 import type { Starting } from "akasha/command/pages/story/turn/modules/turn-job-handing/turn-job-handing.module.code.ts"
 import type { Recorder } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import {
+  noticesSent,
   REACHED,
   type Reach,
   type Told,
@@ -28,6 +29,7 @@ import type { Context } from "akasha/command/pages/story/turn/modules/turn-start
 import { storyTurnNext } from "akasha/command/pages/story/turn/next/story-turn-next.command.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
+  doneBy,
   type FlowPart,
   type Ready,
   readyAcross,
@@ -51,6 +53,7 @@ import {
   type Held,
   type Moved,
   statusOf,
+  WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
   coordinatorOf,
@@ -225,6 +228,17 @@ export function readyBeatOf(root: string, seat: StepSeat, calledAs: string): str
   return beatPrompt(part, { title, calledAs, turn, beat: ready.beat, recorders, master })
 }
 
+export function rememberedNow(before: Beats, after: Beats): boolean {
+  return !doneBy(before, "memory") && doneBy(after, "memory")
+}
+
+export function waitingAfter(story: readonly Paged[], slug: string): string | null {
+  const ordered = inOrder(story).filter((one) => one.closed !== true)
+  const next = ordered[ordered.findIndex((one) => one.slug === slug) + 1]
+  if (next?.at === undefined || next.value[STATUS] !== statusOf(WORLD_BUILDER)) return null
+  return next.at
+}
+
 function startingOf(job: BeatJob, asked: BeatAsking, persona: string, game: string): Starting {
   const prompt = beatPrompt(job.part, asked)
   const recorder = recorderOf(job.part)
@@ -257,10 +271,16 @@ export async function beatsHanded(
     )
     return undefined
   }
-  const flowing = flowingIn(storyIndexed(root, held.game, false), slug)
+  const story = storyIndexed(root, held.game, false)
+  const flowing = flowingIn(story, slug)
   const now = flowing.map((one) => one.beats)
   const was = held.status === BEATS ? (held.flow ?? NO_BEATS) : NO_BEATS
   const before = flowing.map((one, index) => (one.slug === slug ? was : (now[index] ?? NO_BEATS)))
+  const turnNow = flowing.find((one) => one.slug === slug)?.beats ?? NO_BEATS
+  const waiting = rememberedNow(was, turnNow) ? waitingAfter(story, slug) : null
+  if (waiting !== null) {
+    await noticesSent(reach, root, held.game, master, waiting, WORLD_BUILDER, after)
+  }
   for (const job of beatJobsOf(before, now)) {
     const turn = flowing[job.turn]
     if (turn === undefined) continue

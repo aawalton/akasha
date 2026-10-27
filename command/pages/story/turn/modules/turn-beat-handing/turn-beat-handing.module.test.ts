@@ -2,7 +2,9 @@ import { expect, test } from "bun:test"
 import {
   beatPrompt,
   flowingIn,
+  rememberedNow,
   seatPartOf,
+  waitingAfter,
 } from "akasha/command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts"
 import { beatsOf } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts"
 import {
@@ -77,6 +79,22 @@ test("a seat's step is read off its role, and a story recorder's off its flex nu
   expect(seatPartOf(pictures, "iris", slugs)).toBe("pictured")
   const plans = seat("iris-story-recorder-saga-flex-5", "story-recorder")
   expect(seatPartOf(plans, "iris", slugs)).toBeNull()
+})
+
+test("the turn waiting behind one whose memory just finished is the next one, at world-builder", () => {
+  const told = beatsOf({ beat: 1, event: "One.", changes: [], prose: "One.", memory: [] })
+  const untold = beatsOf({ beat: 1, event: "One.", changes: [], prose: "One." })
+  expect(rememberedNow(untold, told)).toBe(true)
+  expect(rememberedNow(told, told)).toBe(false)
+  const paged = (slug: string, position: number, status: TurnStep) => ({
+    slug,
+    at: `stories/saga/turns/${slug}.story-turn-played.ts`,
+    value: { position, stepStatus: statusOf(status) },
+  })
+  const waiting = paged("saga-00-005", 5, "world-builder")
+  const story = [waiting, paged("saga-00-004", 4, "beats")]
+  expect(waitingAfter(story, "saga-00-004")).toBe(waiting.at)
+  expect(waitingAfter([paged("saga-00-004", 4, "beats")], "saga-00-004")).toBeNull()
 })
 
 test("the turns flowing are those at beats and the turn handed in, in turn order", () => {

@@ -49,7 +49,61 @@ test("the story's latest turn is asked for by its place among the story's turns"
     where: { partOfCollections: { has: `story-played/${GAME}` } },
     sortBy: "position",
     descending: true,
-    limit: 1,
+    limit: 2,
+    files: ["beats"],
+  })
+})
+
+const FLOWING = `${JSON.stringify({ beat: 1, event: "One.", prose: "One told.", changes: [] })}\n`
+
+const REMEMBERED = `${JSON.stringify({ beat: 1, event: "One.", changes: [], memory: [] })}\n`
+
+function callsFlowing(rows: readonly Readonly<Record<string, unknown>>[], wrote: Writing[]): Calls {
+  return {
+    ask: async () => ({ rows: [...rows], n: rows.length }),
+    read: async () => ({ at: "a-commit", bodies: [{ path: HELD_AT, content: "" }], unplaced: [] }),
+    write: async (asked) => {
+      wrote.push(asked)
+      return { commit: "a-commit", wrote: [], took: [] }
+    },
+  }
+}
+
+const turnRow = (
+  position: number,
+  status: string,
+  more: Readonly<Record<string, unknown>> = {}
+) => ({
+  slug: `the-saga-00-00${position}`,
+  position,
+  partOfCollections: [`story-played/${GAME}`],
+  stepStatus: `${stepStatus.slug}/${status}`,
+  ...more,
+})
+
+test("an action while the last turn's beats flow makes the next turn, waiting on its memory", async () => {
+  const wrote: Writing[] = []
+  const flowing = [turnRow(2, "beats", { beats: FLOWING })]
+  const made = await turnMadeFor(GAME, "I open the gate", callsFlowing(flowing, wrote))
+  expect(made).toMatchObject({ kind: "made", slug: "the-saga-00-003", waits: true })
+  const remembered = [turnRow(2, "beats", { beats: REMEMBERED })]
+  const after = await turnMadeFor(GAME, "I open the gate", callsFlowing(remembered, []))
+  expect(after).toMatchObject({ kind: "made", slug: "the-saga-00-003" })
+  expect("waits" in after).toBe(false)
+})
+
+test("an action while the next turn still waits joins that turn's action", async () => {
+  const wrote: Writing[] = []
+  const rows = [
+    turnRow(3, "world-builder", { action: "I open the gate" }),
+    turnRow(2, "beats", { beats: FLOWING }),
+  ]
+  const made = await turnMadeFor(GAME, "I step through", callsFlowing(rows, wrote))
+  expect(made).toMatchObject({ kind: "made", slug: "the-saga-00-003", waits: true })
+  expect(wrote[0]?.pages?.[0]).toMatchObject({
+    slug: "the-saga-00-003",
+    merge: true,
+    values: { action: "I open the gate\n\nI step through" },
   })
 })
 

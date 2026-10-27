@@ -26,6 +26,19 @@ export const turnMaking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An action sent while the latest turn's beats flow makes the next turn at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That turn waits, telling no seat, until the turn before has every beat's memory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An action sent while the next turn waits joins that turn's action after a blank line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A story left with no open turn makes its next turn after its last chapter's last turn.",
     },
@@ -60,5 +73,5 @@ export const turnMaking = {
     },
   ],
   createdAt: "2026-09-26T17:39:09.550Z",
-  updatedAt: "2026-10-17T20:08:04.087Z",
+  updatedAt: "2026-10-27T20:59:58.311Z",
 } as const satisfies Module

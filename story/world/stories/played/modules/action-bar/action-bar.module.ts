@@ -44,7 +44,7 @@ export const actionBar = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A line typed while a turn is being made is refused, and the refusal points to the Chat.",
+        "A line is sent whatever turn is being made, and the game says why where it takes none.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -94,5 +94,5 @@ export const actionBar = {
     },
   ],
   createdAt: "2026-09-24T17:51:51.158Z",
-  updatedAt: "2026-10-27T20:12:19.317Z",
+  updatedAt: "2026-10-27T20:59:58.311Z",
 } as const satisfies Module

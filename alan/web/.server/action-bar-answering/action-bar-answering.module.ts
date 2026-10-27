@@ -17,11 +17,16 @@ export const actionBarAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An action is refused while the game's latest turn is still being made.",
+      statement:
+        "An action is refused while the latest turn is being made, unless that turn's beats flow.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A turn made is told to the game's game master, world builder and writer seats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn made waiting on the memory of the turn before is told to no seat yet.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -92,5 +97,5 @@ export const actionBarAnswering = {
     },
   ],
   createdAt: "2026-09-24T17:47:09.572Z",
-  updatedAt: "2026-10-27T19:27:24.244Z",
+  updatedAt: "2026-10-27T20:59:58.311Z",
 } as const satisfies Module

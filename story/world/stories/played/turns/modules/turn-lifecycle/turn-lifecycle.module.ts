@@ -11,7 +11,7 @@ export const turnLifecycle = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn is made only once the turn before it reaches player.",
+      statement: "A turn is made only once the turn before it reaches player or beats.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -50,5 +50,5 @@ export const turnLifecycle = {
     },
   ],
   createdAt: "2026-09-26T17:28:05.792Z",
-  updatedAt: "2026-10-27T19:27:24.244Z",
+  updatedAt: "2026-10-27T20:59:58.311Z",
 } as const satisfies Module

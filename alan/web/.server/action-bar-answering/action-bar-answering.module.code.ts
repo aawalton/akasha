@@ -301,7 +301,7 @@ async function turnMade(
     console.error(`a turn of ${game} was not made: ${made.why}`)
     return answer({ ok: false, error: NOT_LISTENING }, 503)
   }
-  void toldOfTurn(effects, seat, game, made)
+  if (made.waits !== true) void toldOfTurn(effects, seat, game, made)
   return answer({ ok: true, id: made.slug }, 200)
 }
 

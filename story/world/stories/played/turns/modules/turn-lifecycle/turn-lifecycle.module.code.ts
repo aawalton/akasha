@@ -256,10 +256,18 @@ export type Latest = {
   readonly unit: string | null
   readonly status: TurnStep | null
   readonly told?: boolean
+  readonly remembered?: boolean
+  readonly behind?: boolean
+  readonly action?: string
 }
 
 export type Made =
-  | { readonly slug: string; readonly values: Readonly<Record<string, unknown>> }
+  | {
+      readonly slug: string
+      readonly values: Readonly<Record<string, unknown>>
+      readonly joins?: true
+      readonly waits?: true
+    }
   | { readonly refused: string }
 
 const WHO: Readonly<Record<TurnStep, string>> = {

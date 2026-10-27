@@ -51,8 +51,6 @@ const SIGNED_OUT = "Sign in to send the game an action."
 
 const SIGN_IN_AT = "/sign-in"
 
-const STILL_MAKING = "The turn is still being made. Ask anything else in the Chat."
-
 const NO_GAME = "This story names no game, so no action can be sent to it."
 
 const NOTE_LINE = "font-mono text-[12px] text-tertiary"
@@ -213,10 +211,7 @@ export function ActionBar({
       setError(NO_GAME)
       return
     }
-    if (making !== null) {
-      setError(STILL_MAKING)
-      return
-    }
+
     if (next === "arm") {
       setArmed(typed)
       setError(null)

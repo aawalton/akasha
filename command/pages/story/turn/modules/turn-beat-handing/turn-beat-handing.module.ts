@@ -60,7 +60,12 @@ export const turnBeatHanding = {
       decisionKind: "decision-kind/departure",
       statement: "A story recorder seat's step is the recorder its flex number names.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The hand-in giving a turn's last beat its memory tells the seats of the turn waiting next.",
+    },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-27T20:47:29.242Z",
+  updatedAt: "2026-10-27T20:59:58.311Z",
 } as const satisfies Module

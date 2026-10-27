@@ -16,11 +16,14 @@ import type {
   Asked as Sought,
 } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
 import type { Wrote } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import { doneBy } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts"
+import { beatsIn } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.ts"
 import { roleplayed } from "akasha/story/world/stories/played/properties/roleplayed.boolean-property.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
+  BEATS,
   type Latest,
   LONGEST_ACTION,
   type Made,
@@ -64,6 +67,12 @@ const PARTED = "/"
 
 const PAGE_ENDING = ".ts"
 
+const BEATS_FILE = "beats"
+
+const ACTION = "action"
+
+const JOINED = "\n\n"
+
 export type Calls = {
   readonly ask: (query: Query) => Promise<Rows>
   readonly read: (sought: Sought) => Promise<Read>
@@ -76,6 +85,7 @@ export type TurnMade =
       readonly slug: string
       readonly at: string
       readonly roleplayed: boolean
+      readonly waits?: true
     }
   | { readonly kind: "refused"; readonly said: string }
   | { readonly kind: "unread"; readonly why: string }
@@ -86,18 +96,32 @@ const CALLS: Calls = {
   write: (asked) => writingFor(asked),
 }
 
-function latestIn(row: Row | undefined): Latest | null {
+function rememberedIn(body: unknown): boolean {
+  if (typeof body !== "string") return false
+  const read = beatsIn(body)
+  return !("refused" in read) && doneBy(read, "memory")
+}
+
+function waitsBehind(row: Row | undefined): boolean {
+  return row !== undefined && stepIn(row[STATUS]) === BEATS && !rememberedIn(row[BEATS_FILE])
+}
+
+function latestIn(row: Row | undefined, before?: Row): Latest | null {
   if (row === undefined) return null
   const slug = textIn(row[SLUG])
   const position = row[POSITION]
   if (slug === null || typeof position !== "number") return null
+  const status = stepIn(row[STATUS])
   return {
     slug,
     position,
     collections: stringsIn(row[COLLECTIONS]),
     unit: textIn(row[UNIT]),
-    status: stepIn(row[STATUS]),
+    status,
     told: row[ROLEPLAYED] === true && row[PROSE] !== undefined,
+    remembered: status !== BEATS || rememberedIn(row[BEATS_FILE]),
+    behind: status === WORLD_BUILDER && waitsBehind(before),
+    action: textIn(row[ACTION]) ?? "",
   }
 }
 
@@ -133,10 +157,11 @@ export function latestAsked(game: string): Query {
   return {
     pageTypeSlug: storyTurnPlayed.slug,
     where: { [COLLECTIONS]: { has: storyOf(game) } },
-    keys: [SLUG, POSITION, COLLECTIONS, UNIT, STATUS, ROLEPLAYED, PROSE],
+    keys: [SLUG, POSITION, COLLECTIONS, UNIT, STATUS, ROLEPLAYED, PROSE, ACTION, BEATS_FILE],
+    files: [BEATS_FILE],
     sortBy: POSITION,
     descending: true,
-    limit: 1,
+    limit: 2,
   }
 }
 
@@ -160,7 +185,7 @@ type Followed =
 async function followedIn(game: string, calls: Calls): Promise<Followed> {
   const turns = await calls.ask(latestAsked(game))
   if ("refused" in turns) return { unread: turns.refused }
-  const latest = latestIn(turns.rows[0])
+  const latest = latestIn(turns.rows[0], turns.rows[1])
   if (latest !== null) {
     return { latest, page: { pageTypeSlug: storyTurnPlayed.slug, slug: latest.slug } }
   }
@@ -178,7 +203,15 @@ export function turnAfter(latest: Latest | null, action: string): Made {
   if (action.length > LONGEST_ACTION) {
     return { refused: `An action is at most ${LONGEST_ACTION} characters.` }
   }
-  const refused = makingRefused(latest)
+  if (latest?.behind === true) {
+    const joined = `${latest.action ?? ""}${JOINED}${action}`.trim()
+    if (joined.length > LONGEST_ACTION) {
+      return { refused: `An action is at most ${LONGEST_ACTION} characters.` }
+    }
+    return { slug: latest.slug, joins: true, waits: true, values: { action: joined } }
+  }
+  const flowing = latest?.status === BEATS
+  const refused = flowing ? null : makingRefused(latest)
   if (refused !== null || latest === null) return { refused: refused ?? "" }
   const slug = slugAfter(latest.slug)
   if (slug === null) {
@@ -186,6 +219,7 @@ export function turnAfter(latest: Latest | null, action: string): Made {
   }
   return {
     slug,
+    ...(flowing && latest.remembered !== true ? { waits: true } : {}),
     values: {
       partOfCollections: [...latest.collections],
       position: latest.position + 1,
@@ -238,25 +272,28 @@ export async function turnMadeFor(
   if ("refused" in read) return { kind: "unread", why: read.refused }
   const held = read.bodies[0]
   if (held === undefined) return { kind: "unread", why: `\`${page.slug}\` was read nowhere` }
-  const at =
-    page.pageTypeSlug === storyTurnPlayed.slug
+  const joins = made.joins === true
+  const at = joins
+    ? held.path
+    : page.pageTypeSlug === storyTurnPlayed.slug
       ? besideTurn(held.path, made.slug)
       : besideChapter(held.path, made.slug)
+  const turn = { pageTypeSlug: storyTurnPlayed.slug, slug: made.slug, path: at }
   const wrote = await calls.write({
     writer: MAKER,
-    message: `${made.slug} is made from the player's action`,
+    message: joins
+      ? `${made.slug} takes the player's next action too`
+      : `${made.slug} is made from the player's action`,
     pages: [
-      {
-        pageTypeSlug: storyTurnPlayed.slug,
-        slug: made.slug,
-        path: at,
-        fresh: true,
-        values: { ...made.values, ...roleplay.values },
-      },
+      joins
+        ? { ...turn, merge: true, values: made.values }
+        : { ...turn, fresh: true, values: { ...made.values, ...roleplay.values } },
     ],
   })
   if ("refused" in wrote) return { kind: "unread", why: wrote.refused }
-  return { kind: "made", slug: made.slug, at, roleplayed: roleplay.values[ROLEPLAYED] === true }
+  const played = roleplay.values[ROLEPLAYED] === true
+  const waits = made.waits ? { waits: true as const } : {}
+  return { kind: "made", slug: made.slug, at, roleplayed: played, ...waits }
 }
 
 function openingAt(story: string, slug: string): string {
