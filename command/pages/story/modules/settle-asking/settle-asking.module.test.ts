@@ -6,7 +6,6 @@ import {
   countedLines,
   linesAskedFor,
   pageIn,
-  summedFor,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import { indexedRepo } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
@@ -60,27 +59,6 @@ test("a turn stating that instant already is asked nothing more", () => {
   expect(askedFor(OUTCOMES, TURN, TIMED, text)).toHaveLength(1)
 })
 
-const HERS = "pages/her.world-relationship.ts"
-
-const POINTS = "relationshipPoints"
-
-test("what a page adds to is summed and restated once from the number it states", () => {
-  const sums = [
-    { at: HERS, key: POINTS, by: 3 },
-    { at: HERS, key: POINTS, by: -1 },
-  ]
-  const asked = summedFor(sums, () => `  ${POINTS}: -2,\n`)
-  expect(asked).toHaveLength(1)
-  expect(asked[0]?.at).toMatch(/\/change-page-page-property$/)
-  expect(asked[0]?.given).toEqual({ at: HERS, key: POINTS, to: "0", holds: "number" })
-})
-
-test("a page stating no number there gains what is added as that key", () => {
-  const asked = summedFor([{ at: HERS, key: POINTS, by: 3 }], () => "")
-  expect(asked[0]?.at).toMatch(/\/add-page-property$/)
-  expect(asked[0]?.given).toEqual({ at: HERS, key: POINTS, value: "3" })
-})
-
 const KEPT_AT = "akasha/kept/fresh.module.ts"
 
 const KEPT_PAGE = `export const fresh = {
@@ -88,25 +66,17 @@ const KEPT_PAGE = `export const fresh = {
   type: "page-type/module",
   slug: "fresh",
   definition: "a page only kept edits hold",
-  ${POINTS}: 2,
 } as const
 `
 
-test("a page only in kept edits is found, and its number read, as those edits leave the tree", () => {
+test("a page only in kept edits is found as those edits leave the tree", () => {
   const root = indexedRepo()
   expect(pageIn(ledgerAt(root, bodyIn(root)).index, "module/fresh")).toBeNull()
   const kept = addedTo(
     ledgerAt(root, bodyIn(root)),
     foldedIn([{ kind: "add", path: KEPT_AT, content: KEPT_PAGE }])
   )
-  const at = pageIn(kept.index, "module/fresh")
-  expect(at).toBe(KEPT_AT)
-  const asked = summedFor([{ at: at ?? "", key: POINTS, by: 3 }], kept.textOf)
-  expect(asked[0]?.given).toEqual({ at: KEPT_AT, key: POINTS, to: "5", holds: "number" })
-})
-
-test("nothing added asks nothing", () => {
-  expect(summedFor([{ at: HERS, key: POINTS, by: 0 }], () => "")).toEqual([])
+  expect(pageIn(kept.index, "module/fresh")).toBe(KEPT_AT)
 })
 
 function lineOf(answered: number, more: Record<string, unknown> = {}): string {

@@ -57,6 +57,15 @@ export const storyTurnRewind = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A line stating `added` was never written onto a page, so its beats' changes undo it instead.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Only a line settled before outcomes kept `added` is taken back off its page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "An outcome only drafted is discarded with the recorders' edits and takes nothing back.",
     },
     {
@@ -115,5 +124,5 @@ export const storyTurnRewind = {
     { argument: "argument/action-file" },
   ],
   createdAt: "2026-09-26T18:27:41.699Z",
-  updatedAt: "2026-10-04T00:29:35.000Z",
+  updatedAt: "2026-10-27T22:26:04.226Z",
 } as const satisfies Command

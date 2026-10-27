@@ -63,8 +63,12 @@ export const storySettle = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What the check's code names as added is kept on the line as `added` and told.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
       statement:
-        "What the check's code names as added for an answer is added in the same landing or draft.",
+        "No settling writes a page; the recorders at mechanics state each `added` as a change.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -101,10 +105,7 @@ export const storySettle = {
       statement:
         "A second such settling on a turn at game-master appends a line replacing the line before.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A line replacing another takes back what the line it replaces added.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A settling replacing a line is told which line it replaces.",
@@ -123,8 +124,7 @@ export const storySettle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A drafting call finds and reads a page its answer adds to as those kept edits leave it.",
+      statement: "A drafting call finds a page its answer adds to as those kept edits leave it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -142,5 +142,5 @@ export const storySettle = {
     { argument: "argument/draft" },
   ],
   createdAt: "2026-09-26T14:39:37.211Z",
-  updatedAt: "2026-10-27T22:02:10.738Z",
+  updatedAt: "2026-10-27T22:26:04.226Z",
 } as const satisfies Command

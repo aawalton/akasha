@@ -38,13 +38,9 @@ const CHECK = "check"
 
 const READING = "reading"
 
-const ANSWERED = "answered"
-
 const DICE = "dice"
 
 const SESSION = "session"
-
-const NUMBER = "number"
 
 type Settled = { readonly answered: unknown }
 
@@ -179,15 +175,6 @@ export function countedLines(kept: string): readonly string[] {
   return counted.toReversed()
 }
 
-export async function takenBackOf(
-  root: string,
-  path: string,
-  was: Readonly<Record<string, unknown>>
-): Promise<readonly Added[]> {
-  const adding = await addingAt(root, path)
-  return adding(was[READING], was[ANSWERED]).map((one) => ({ ...one, by: -one.by }))
-}
-
 type Unfound = { readonly refused: string; readonly unfound: string }
 
 export function sumsOf(
@@ -214,34 +201,6 @@ export function pageIn(index: Pick<Answering, "listedAt">, page: string): string
 
 export function keptOnly(page: string, drafting: string): string {
   return `\`${page}\`, which the answer adds to, is a page only in your kept edits, so settle with \`${drafting}\` or land that page first`
-}
-
-function numberIn(text: string, key: string): number | null {
-  const held = new RegExp(`^\\s*${key}:\\s*(-?\\d+(?:\\.\\d+)?)\\s*,?\\s*$`, "m").exec(text)
-  return held?.[1] === undefined ? null : Number(held[1])
-}
-
-export function summedFor(
-  sums: readonly Summed[],
-  textOf: (path: string) => string | null
-): readonly Asking[] {
-  const totals = new Map<string, Summed>()
-  for (const one of sums) {
-    const named = `${one.at}${BREAK}${one.key}`
-    totals.set(named, { ...one, by: (totals.get(named)?.by ?? 0) + one.by })
-  }
-  const asked: Asking[] = []
-  for (const one of totals.values()) {
-    if (one.by === 0) continue
-    const was = numberIn(textOf(one.at) ?? "", one.key)
-    if (was === null) {
-      asked.push({ at: ADD, given: { at: one.at, key: one.key, value: String(one.by) } })
-      continue
-    }
-    const to = String(was + one.by)
-    asked.push({ at: RESTATE, given: { at: one.at, key: one.key, to, holds: NUMBER } })
-  }
-  return asked
 }
 
 function timedFor(turn: string, endsAt: string, turnText: string | null): readonly Asking[] {

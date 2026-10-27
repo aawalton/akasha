@@ -7,8 +7,8 @@ export const testStoryPlayerSwordplay = {
   world: "world/test-world",
   character: "character-player/test-story-player",
   skill: "world-skill/test-world-swordplay",
-  experience: 48,
+  experience: 35,
   attribute: "metric-character-stat/test-story-player-strength",
   createdAt: "2026-10-27T19:12:58.532Z",
-  updatedAt: "2026-10-27T21:10:51.697Z",
+  updatedAt: "2026-10-27T22:26:04.226Z",
 } as const satisfies CharacterSkill

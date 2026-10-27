@@ -19,8 +19,7 @@ export const montageReplacing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A rerun appends a montage superseding the latest one, and takes back what that one added.",
+      statement: "A rerun appends a montage superseding the latest one.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -32,5 +31,5 @@ export const montageReplacing = {
     },
   ],
   createdAt: "2026-10-27T21:15:04.630Z",
-  updatedAt: "2026-10-27T21:19:47.173Z",
+  updatedAt: "2026-10-27T22:26:04.226Z",
 } as const satisfies Module

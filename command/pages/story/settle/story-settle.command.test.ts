@@ -199,14 +199,15 @@ function scoringArgv(whose: string): readonly string[] {
   return ["--story", "the-saga", "--check", "scoring", "--reading", reading]
 }
 
-test("what a check's answer adds is added to its page in the same landing", async () => {
+test("what a check's answer adds is kept on its line and told, and written onto no page", async () => {
   mkdirSync(join(ROOT, "pages"), { recursive: true })
   writeFileSync(join(ROOT, HER_AT), "  relationshipPoints: 2,\n")
-  const appended = await settledBy("scoring", reachOver([LATEST]), scoringArgv("her"))
+  const { answer, appended } = await answeredBy(scoringArgv("her"), reachOver([LATEST]))
   rmSync(join(ROOT, HER_AT))
-  const summed = { at: HER_AT, key: "relationshipPoints", to: "5", holds: "number" }
-  expect(appended).toHaveLength(2)
-  expect(appended[1] as unknown).toEqual(summed)
+  expect(appended).toHaveLength(1)
+  const added = [{ page: "world-relationship/her", key: "relationshipPoints", by: 3 }]
+  expect(rollIn(appended[0] as Appended).added).toEqual(added)
+  expect(answer.report).toContain(`added\t${HER_AT}\trelationshipPoints\t3`)
 })
 
 test("a check adding to a page that is not here appends nothing", async () => {
@@ -314,7 +315,7 @@ test("a check that rolls nothing settles again only at game-master, appending a 
   expect(corrected.appended[1] as unknown).toEqual({ at: LATEST.at, key: "endsAt", to: ends })
 })
 
-test("a line replacing another takes back what the earlier line added", async () => {
+test("a line replacing another writes no page, since no line's adds were written", async () => {
   const at = outcomesAt(LATEST.at) ?? "no outcomes"
   const was = {
     check: "world-check/scoring",
@@ -327,8 +328,7 @@ test("a line replacing another takes back what the earlier line added", async ()
   const { appended } = await answeredBy(scoringArgv("her"), reachOver([LATEST], 0, "game-master"))
   rmSync(join(ROOT, at))
   rmSync(join(ROOT, HER_AT))
-  const summed = { at: HER_AT, key: "relationshipPoints", to: "6", holds: "number" }
-  expect(appended[1] as unknown).toEqual(summed)
+  expect(appended.map((one) => one.at)).toEqual([at])
 })
 
 test("a roll after a replacing line is chained from that line and its place", async () => {

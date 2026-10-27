@@ -25,13 +25,8 @@ export const settleAsking = {
       statement: "A turn stating that instant already is asked nothing more.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "What an answer adds to one number on a page is summed, and that number restated once.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page stating no such number gains what is added as that key.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here writes what an answer adds onto a page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -61,5 +56,5 @@ export const settleAsking = {
     },
   ],
   createdAt: "2026-09-28T21:32:10.610Z",
-  updatedAt: "2026-10-27T21:19:47.173Z",
+  updatedAt: "2026-10-27T22:26:04.226Z",
 } as const satisfies Module

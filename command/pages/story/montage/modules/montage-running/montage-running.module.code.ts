@@ -108,6 +108,7 @@ async function settledFor(
     reading: checked.reading,
     session,
     ...(thrown?.stated ?? {}),
+    ...(said.answered.added.length === 0 ? {} : { added: said.answered.added }),
     answered: said.answered.answered,
   }
   return { answered: { line, answer: said.answered } }

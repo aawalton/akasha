@@ -23,6 +23,7 @@ import { stamped } from "akasha/command/modules/change-kind-running/change-kind-
 import { appending } from "akasha/command/modules/change-running/change-running.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
+  type Added,
   askedFor,
   keptOnly,
   keptPageOf,
@@ -30,9 +31,7 @@ import {
   type Summed,
   settledAt,
   settledBefore,
-  summedFor,
   sumsOf,
-  takenBackOf,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import {
   type Casting,
@@ -110,6 +109,7 @@ export type Roll = {
   readonly dice?: Dice
   readonly seed?: string
   readonly difficultyLevel?: Odds
+  readonly added?: readonly Added[]
   readonly answered: unknown
 }
 
@@ -263,11 +263,13 @@ async function rollMade(
   const moved = thrown === null ? null : rolledBy(thrown.roll, placed.odds)
   const said = await settledAt(root, placed.code, held.reading, moved)
   if ("refused" in said) return { refused: said.refused, by: DATA }
+  const { added } = said.answered
   const roll: Roll = {
     check: `${worldCheck.slug}/${held.check}`,
     reading: held.reading,
     ...(thrown === null ? {} : { dice: thrown.dice, seed: thrown.seed }),
     ...(thrown === null || placed.odds === null ? {} : { difficultyLevel: placed.odds }),
+    ...(added.length === 0 ? {} : { added }),
     answered: said.answered.answered,
   }
   const before = settledBefore(keptAt(placed.at), roll)
@@ -275,8 +277,7 @@ async function rollMade(
     const why = `\`${held.check}\` is settled on \`${placed.on.slug}\` already for this reading's \`${CHARACTER}\`, and a check that rolls nothing settles there again only at ${GAME_MASTER}, replacing that line`
     return { refused: why, by: DATA }
   }
-  const back = before === null ? [] : await takenBackOf(root, placed.code, before.was)
-  const sums = sumsOf([...said.answered.added, ...back], pageAt)
+  const sums = sumsOf(added, pageAt)
   if ("refused" in sums) return { ...sums, by: DATA }
   return { roll, sums, replaced: before?.place ?? null }
 }
@@ -306,8 +307,7 @@ async function drafted(held: Taken, placed: Placed, given: Given): Promise<Answe
     made.made = rolled
     const turn = world.textOf(placed.on.at)
     const asked = askedFor(placed.at, placed.on.at, rolled.roll, turn)
-    const asking = [...asked, ...summedFor(rolled.sums, textOf)]
-    return stamped(await foldedOver(world, asking), false, false)
+    return stamped(await foldedOver(world, asked), false, false)
   })
   if (why.said !== null) return refused(why.said.refused, why.said.by)
   if (kept.code !== 0 || made.made === null) return kept
@@ -341,12 +341,11 @@ async function settledOn(
     return refused(keptOnly(kept, draftArgument.said), made.by)
   }
   const asked = askedFor(placed.at, placed.on.at, made.roll, read(placed.on.at))
-  const landed = await landing(
-    given.root,
-    [...asked, ...summedFor(made.sums, read)],
-    `settle ${held.check} on ${placed.on.slug}`,
-    { agentId: given.agentId, writer: given.writer, done }
-  )
+  const landed = await landing(given.root, asked, `settle ${held.check} on ${placed.on.slug}`, {
+    agentId: given.agentId,
+    writer: given.writer,
+    done,
+  })
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   return told(rowsOf(made, placed.on.slug, landed.commit))
 }

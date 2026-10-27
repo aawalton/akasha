@@ -43,7 +43,13 @@ export const storyMontage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every session's lines, what they add and the last end land in one landing.",
+      statement:
+        "Every session's lines and the last end land in one landing, and no page is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What a session's checks add is kept on its lines as `added`, as a settle keeps it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,8 +62,7 @@ export const storyMontage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A montage run again on its turn supersedes the one before, taking back what it added.",
+      statement: "A montage run again on its turn supersedes the one before.",
     },
   ],
   name: "montage",
@@ -74,5 +79,5 @@ export const storyMontage = {
     { argument: "argument/played-turn", required: false },
   ],
   createdAt: "2026-10-27T20:03:26.902Z",
-  updatedAt: "2026-10-27T21:19:47.173Z",
+  updatedAt: "2026-10-27T22:26:04.226Z",
 } as const satisfies Command

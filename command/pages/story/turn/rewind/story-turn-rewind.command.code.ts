@@ -84,6 +84,8 @@ const READING = "reading"
 
 const ANSWERED = "answered"
 
+const ADDED = "added"
+
 const STOPPED: readonly string[] = [reviewerRole.slug, storyRecorderRole.slug]
 
 const WORKING: readonly TurnStep[] = [MECHANICS, REVIEWERS, RECORDERS]
@@ -161,6 +163,7 @@ async function addedIn(
     if (!isRecord(roll) || typeof check !== "string") {
       return { refused: `\`${at}\` holds a line naming no check` }
     }
+    if (ADDED in roll) continue
     const adding = await reach.addingOf(root, bareOf(check))
     if (adding === null) {
       return {

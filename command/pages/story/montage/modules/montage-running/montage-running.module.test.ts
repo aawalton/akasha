@@ -96,6 +96,8 @@ test("each session passes time, then rolls the activity chained from the line be
   ])
   expect(rules.seen).toEqual([`1:${TIME}`, `3:${TIME}`, `5:${TIME}`])
   expect(said.answered.added).toHaveLength(3)
+  expect(said.answered.lines[1]?.["added"]).toEqual([{ page: "s", key: "e", by: 1 }])
+  expect(said.answered.lines[0]).not.toHaveProperty("added")
 })
 
 test("the activity carries its reading on from one session to the next", async () => {

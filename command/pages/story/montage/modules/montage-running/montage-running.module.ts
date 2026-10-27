@@ -43,7 +43,11 @@ export const montageRunning = {
       decisionKind: "decision-kind/departure",
       statement: "A montage asked for no number of sessions runs at most 366.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session's line states `added` where its check's code adds to a page.",
+    },
   ],
   createdAt: "2026-10-27T20:03:26.902Z",
-  updatedAt: "2026-10-27T20:03:26.902Z",
+  updatedAt: "2026-10-27T22:26:04.226Z",
 } as const satisfies Module
