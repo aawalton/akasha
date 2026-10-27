@@ -173,13 +173,13 @@ export const changeLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every answer a change gives is dropped from.",
+      statement: "Every answer a change gives is held to appending where a file is append-only.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An answer a change reached inside gives is dropped from at that rung too.",
+      statement: "An answer a change reached inside gives is held so at that rung too.",
     },
   ],
   createdAt: "2026-09-08T14:17:48.690Z",
-  updatedAt: "2026-10-21T11:13:37.603Z",
+  updatedAt: "2026-10-27T21:46:57.348Z",
 } as const satisfies Module

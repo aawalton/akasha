@@ -5,7 +5,7 @@ import {
   type Said,
   untaken,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { dropped } from "akasha/change/modules/edits-dropping/edits-dropping.module.code.ts"
+import { heldToAppending } from "akasha/change/modules/edits-dropping/edits-dropping.module.code.ts"
 import {
   changeOver,
   facingHeld,
@@ -185,13 +185,15 @@ export async function ranBy(
   nested = false
 ): Promise<Answer> {
   if (nested) {
-    return dropped(facingHeld(world), await loaded.run(world, given))
+    const reached = await loaded.run(world, given)
+    if (reached.refused !== null) return reached
+    return heldToAppending(facingHeld(world), reached)
   }
   const untook = untakenIn(given, loaded.takes)
   if (untook !== null) return refusing(untook)
   const ran = await loaded.run(world, given)
   if (ran.refused !== null) return ran
-  return dropped(facingHeld(world), ran)
+  return heldToAppending(facingHeld(world), ran)
 }
 
 function targetIn(given: unknown): string | null {
