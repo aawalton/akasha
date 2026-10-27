@@ -11,7 +11,7 @@ export const awenPlaySidebars = {
     {
       statement: "The aside place is replaced by the character, journal, map and chat places.",
       workingMemory:
-        "The play page is under `story/world/stories/played/`; layout in `modules/played-layout/`. Panels are pages under `story/ui/played-panel/pages/`, places under `story/ui/played-panel/panel-place/pages/`. Voyage (`domain/voyage`) is the reference: sidebars about 500px, Character and Journal left, Map and Chat right. The scene-cover and player-intent panels have no place in the approved scope; ask Awen before placing them.\n",
+        "The play page is under `story/world/stories/played/`; layout in `modules/played-layout/`. Panels are pages under `story/ui/played-panel/pages/`, places under `story/ui/played-panel/panel-place/pages/`. Voyage (`domain/voyage`) is the reference: sidebars about 500px, Character and Journal left, Map and Chat right. Alan decided the scene-cover and player-intent panels go in the journal place.\n",
     },
     {
       statement: "A played story's top bar has a button for each of those places that has a panel.",
@@ -30,10 +30,11 @@ export const awenPlaySidebars = {
     { statement: "On a phone, an open place has a switch to the other place on its side." },
     { statement: "The player-character panels are drawn in the character place." },
     { statement: "The quest-list, story-so-far and time panels are drawn in the journal place." },
+    { statement: "The scene-cover and player-intent panels are drawn in the journal place." },
     { statement: "Otherwhere's map panel is drawn in the map place." },
     { statement: "The other-characters and tower-hud panels are drawn above the turns." },
   ],
   constraints: ["Nothing inside a panel changes but the place that panel is drawn in."],
   createdAt: "2026-10-27T18:26:40.142Z",
-  updatedAt: "2026-10-27T18:26:40.142Z",
+  updatedAt: "2026-10-27T18:28:19.900Z",
 } as const satisfies Initiative
