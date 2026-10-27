@@ -2,6 +2,7 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { splitInlineEmphasis } from "akasha/page/ui/component/modules/reader-prose/reader-prose.module.code.ts"
 import { READER_PROSE_TYPOGRAPHY } from "akasha/page/ui/component/modules/reader-typography/reader-typography.module.code.ts"
+import { proseBlocksOf } from "akasha/story/engine/core/modules/prose-paragraphs/prose-paragraphs.module.code.ts"
 import type { ClientProseSegment } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import {
   type InlineCover,
@@ -20,18 +21,9 @@ import { Fragment, type ReactNode } from "react"
 
 const HEADING_RE = /^#{1,6}\s+/
 
-const PARAGRAPH_BREAK = /\n\n+/
-
 const ASIDE_RE = /^\[([\s\S]*)\]$/
 
 const NO_COVERS: readonly InlineCover[] = []
-
-function blocksOf(text: string): readonly string[] {
-  return text
-    .split(PARAGRAPH_BREAK)
-    .map((b) => b.trim())
-    .filter((b) => b !== "")
-}
 
 type Drawing = {
   readonly placed: Placed<InlineCover>
@@ -183,8 +175,8 @@ export function ChapterProse({
 }) {
   const blocks =
     segments === undefined
-      ? [blocksOf(text)]
-      : segments.map((one) => (one.kind === "prose" ? blocksOf(one.text) : []))
+      ? [proseBlocksOf(text)]
+      : segments.map((one) => (one.kind === "prose" ? proseBlocksOf(one.text) : []))
   const starts = startsOf(blocks)
   const drawing: Drawing = {
     placed: placedAfter(blocks.flat(), covers ?? NO_COVERS),

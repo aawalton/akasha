@@ -12,6 +12,7 @@ export const storyEngineCore = {
     "module/choice-action",
     "module/story-display",
     "module/prose-windows",
+    "module/prose-paragraphs",
     "module/quest-schema",
     "module/revealed",
     "module/state-schema",
@@ -34,5 +35,5 @@ export const storyEngineCore = {
     },
   ],
   createdAt: "2026-09-01T05:29:46.052Z",
-  updatedAt: "2026-09-26T17:33:45.000Z",
+  updatedAt: "2026-10-27T21:13:21.988Z",
 } as const satisfies Domain
