@@ -9,6 +9,11 @@ export const testWorldCellar = {
   depth: -1,
   exits: [
     { to: "place/test-world-square", way: "Up the stone stair to the well.", direction: "up" },
+    {
+      to: "place/test-world-shop",
+      way: "Up the wooden steps to the shop's back door.",
+      direction: "up",
+    },
   ],
   facts: [
     {
@@ -17,5 +22,5 @@ export const testWorldCellar = {
     },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T19:10:06.969Z",
+  updatedAt: "2026-10-27T20:51:01.132Z",
 } as const satisfies Place

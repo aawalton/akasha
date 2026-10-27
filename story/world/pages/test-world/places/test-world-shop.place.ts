@@ -7,7 +7,14 @@ export const testWorldShop = {
   title: "Test Shop",
   world: "world/test-world",
   depth: 0,
-  exits: [{ to: "place/test-world-square", way: "Out through the green door.", direction: "west" }],
+  exits: [
+    { to: "place/test-world-square", way: "Out through the green door.", direction: "west" },
+    {
+      to: "place/test-world-cellar",
+      way: "Through the back door behind the counter and down the wooden steps.",
+      direction: "down",
+    },
+  ],
   facts: [
     {
       fact: "The shop sells blades, coats, lamps, ore and draughts from shelves behind one counter.",
@@ -23,5 +30,5 @@ export const testWorldShop = {
     },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T20:49:11.728Z",
+  updatedAt: "2026-10-27T20:51:01.132Z",
 } as const satisfies Place
