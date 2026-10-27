@@ -13,9 +13,9 @@ export const beatFlowTest00001 = {
   action: "I uncork one healing draught and drink it, then look around the square.",
   beats: "jsonl",
   lore: ["lore/test-world-magic", "lore/test-world-overview", "place/test-world-square"],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity", "story-reviewer/holdings"],
   createdAt: "2026-10-27T22:41:24.351Z",
-  updatedAt: "2026-10-27T22:56:37.517Z",
+  updatedAt: "2026-10-27T22:56:48.321Z",
   ownLength: 191,
   endsAt: "2026-11-06T09:35:00.000Z",
 } as const satisfies StoryTurnPlayed
