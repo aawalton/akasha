@@ -22,10 +22,7 @@ export const needsWeighing = {
       decisionKind: "decision-kind/departure",
       statement: "Wet clothes or skin count each cold hour twice.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A stretch of hours takes each hour's harm at the stage that hour falls in.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -33,5 +30,5 @@ export const needsWeighing = {
     },
   ],
   createdAt: "2026-09-28T22:39:12.791Z",
-  updatedAt: "2026-10-03T11:13:30.000Z",
+  updatedAt: "2026-10-27T19:45:26.431Z",
 } as const satisfies Module
