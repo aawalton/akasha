@@ -35,10 +35,14 @@ export const playedBeside = {
       statement: "A story that is not roleplayed has no narrator.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here polls, so these are read once as the story opens.",
+      decisionKind: "decision-kind/departure",
+      statement: "These are read again whenever the story's page changes while the story is open.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where the store follows no change to that page, these are asked for on a timer.",
     },
   ],
   createdAt: "2026-09-14T19:23:45.843Z",
-  updatedAt: "2026-10-17T18:25:03.311Z",
+  updatedAt: "2026-10-27T23:40:39.611Z",
 } as const satisfies Module

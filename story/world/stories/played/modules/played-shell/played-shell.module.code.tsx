@@ -202,7 +202,7 @@ function PlayedStory({
   const seated = seats.isLoading || seats.error !== null ? null : seats.rows
   const makingKey = useMemo(() => playedMakingKey(turns.rows), [turns.rows])
   const quietMs = useQuietFor(makingKey, playedWorking(seated))
-  const beside = usePlayedBeside(slug)
+  const beside = usePlayedBeside(slug, id)
   const narrator = beside.kind === "read" ? beside.beside.narrator : null
   const making = useMemo(
     () => playedMaking(turns.rows, seated, quietMs, narrator),

@@ -1,6 +1,9 @@
 "use client"
 
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
+import type { PageWatch } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
+import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
+import { getPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { displayNameOf } from "akasha/persona/modules/display-name/persona-display-name.module.code.ts"
 import {
   askedLoudly,
@@ -60,14 +63,15 @@ async function readPlayedBeside(slug: string): Promise<PlayedBesideRead> {
   }
 }
 
-export function usePlayedBeside(slug: string): PlayedBesideRead {
+export function usePlayedBeside(slug: string, storyId: string): PlayedBesideRead {
   const [read, setRead] = useState<PlayedBesideRead>(WAITING)
 
   useEffect(() => {
     if (slug === "") return
     let alive = true
+    let watch: PageWatch | null = null
     setRead(WAITING)
-    void (async () => {
+    const ask = async () => {
       try {
         const held = await readPlayedBeside(slug)
         if (alive) setRead(held)
@@ -75,11 +79,25 @@ export function usePlayedBeside(slug: string): PlayedBesideRead {
         reportThrown(`reading the story played ${slug}`, thrown)
         if (alive) setRead({ kind: "unread", why: saidBy(thrown) })
       }
-    })()
+    }
+    void ask()
+    void getPagesStore().then((store) => {
+      if (alive) {
+        watch = store.watchPage(PLAYED_PAGE_TYPE_SLUG, storyId, () => {
+          void ask()
+          return undefined
+        })
+      }
+    })
+    const timer = setInterval(() => {
+      if (watch === null || !watch.live()) void ask()
+    }, FILE_BACKING_POLL_MS)
     return () => {
       alive = false
+      clearInterval(timer)
+      watch?.release()
     }
-  }, [slug])
+  }, [slug, storyId])
 
   return read
 }
