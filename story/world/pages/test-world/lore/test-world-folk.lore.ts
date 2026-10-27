@@ -16,7 +16,11 @@ export const testWorldFolk = {
       fact: "The shopkeeper trades in plain copper coin and keeps the shop open from dawn to dusk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A carter bound for the next town wants a hired sword to guard his load on the road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T19:10:06.969Z",
+  updatedAt: "2026-10-27T23:46:16.630Z",
 } as const satisfies Lore
