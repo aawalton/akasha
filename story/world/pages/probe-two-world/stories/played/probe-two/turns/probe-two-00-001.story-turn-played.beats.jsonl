@@ -1,5 +1,5 @@
 {"beat":1,"event":"The player stands in the cobbled square, the well at its middle, a bench beside it.","at":"2026-11-11T09:30:00.000Z","place":"place/probe-two-world-square","present":["character-player/probe-two-player"],"changes":[]}
-{"beat":2,"event":"He crosses the cobbles to the well."}
+{"beat":2,"event":"He crosses the cobbles to the well.","changes":[]}
 {"beat":3,"event":"The rim is fitted stone, round and waist-high; he rests his hands on it."}
 {"beat":4,"event":"A wooden bucket sits on the rim, its rope coiled beside it."}
 {"beat":5,"event":"He leans over and looks down the shaft."}
