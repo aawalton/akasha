@@ -14,7 +14,7 @@ export const testStory00009 = {
   beats: "jsonl",
   lore: ["place/test-world-hall"],
   createdAt: "2026-10-27T21:07:55.307Z",
-  updatedAt: "2026-10-27T21:34:12.831Z",
-  ownLength: 63,
+  updatedAt: "2026-10-27T21:34:49.103Z",
+  ownLength: 80,
   endsAt: "2026-11-06T08:44:00.000Z",
 } as const satisfies StoryTurnPlayed
