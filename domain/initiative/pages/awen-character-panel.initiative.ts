@@ -13,7 +13,6 @@ export const awenCharacterPanel = {
       workingMemory:
         "The card is `PlayerCharacterPanel` in `story/ui/modules/player-character-panel/`, with tabs in `story/ui/modules/sheet-panel/`; data from `story/world/stories/played/modules/played-state-beside/`. Its decisions already hide empty slots and unrevealed pages. Voyage (`domain/voyage`) is the reference. Test on Overwhere III (Nala) and The Tower. `awen-character-data` adds the missing data; draw what exists now.\n",
     },
-    { statement: "A character panel tab with nothing to show is hidden." },
     {
       statement:
         "The Stats tab shows portrait, name, titles, level with an XP bar, resources and attributes.",
@@ -30,5 +29,5 @@ export const awenCharacterPanel = {
     { statement: "Use, Equip, Unequip and Drop buttons send a turn rather than change state." },
   ],
   createdAt: "2026-10-27T18:44:19.264Z",
-  updatedAt: "2026-10-27T18:44:19.264Z",
+  updatedAt: "2026-10-27T19:13:59.121Z",
 } as const satisfies Initiative
