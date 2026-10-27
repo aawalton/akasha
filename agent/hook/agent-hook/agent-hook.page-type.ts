@@ -14,6 +14,7 @@ export const agentHook = {
     "agent-hook/block-bun-test",
     "agent-hook/block-combined-akasha-calls",
     "agent-hook/block-destructive-git",
+    "agent-hook/block-disk-crawl",
     "agent-hook/block-git-writes",
     "agent-hook/block-history-search",
     "agent-hook/block-memory-writes",
@@ -125,5 +126,5 @@ export const agentHook = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-29T15:02:17.082Z",
-  updatedAt: "2026-09-30T05:21:26.000Z",
+  updatedAt: "2026-10-27T23:42:46.370Z",
 } as const satisfies PageType

@@ -21,6 +21,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-bun-test/block-bun-test.agent-hook.ts","id":"01a04eab-d4f8-7000-9dec-eba229399731"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.ts","id":"01a07e9e-a423-744c-8496-5006c4bbb90d"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.ts","id":"01a04e16-d380-7002-bd31-c3ca7eb9bdc8"}
+{"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-disk-crawl/block-disk-crawl.agent-hook.ts","id":"01a17fbe-b263-7035-ad25-1b6a2bb0532e"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.ts","id":"01a04e16-d380-7003-9da6-e715140d0718"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.ts","id":"01a09cad-0b46-7233-a9e6-55c321ffc10b"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-memory-writes/block-memory-writes.agent-hook.ts","id":"01a0a0d4-3357-7104-a477-9c33e912a4f6"}

@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/block-bun-test/block-bun-test.agent-hook.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/block-disk-crawl/block-disk-crawl.agent-hook.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/block-memory-writes/block-memory-writes.agent-hook.ts","typed":true,"deferred":false}

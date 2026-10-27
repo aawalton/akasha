@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/agent-hook/block-biome/block-biome.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/agent-hook/block-bun-test/block-bun-test.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/agent-hook/block-disk-crawl/block-disk-crawl.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/agent-hook/block-subagent-audit/block-subagent-audit.agent-hook.code.ts","typed":false,"deferred":false}
