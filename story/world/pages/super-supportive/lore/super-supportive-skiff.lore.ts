@@ -10,10 +10,10 @@ export const superSupportiveSkiff = {
   facts: [
     {
       fact: "The villain he drowned ended up in intensive care, and Skiff looked strained on TV.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T21:35:48.912Z",
-  updatedAt: "2026-10-03T19:34:47.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Lore

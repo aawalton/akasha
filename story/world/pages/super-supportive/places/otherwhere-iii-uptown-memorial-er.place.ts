@@ -13,19 +13,11 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "From the Lawrence platform it is a stair down, then one snowy block east to the ER doors.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "The ER waiting room is warm and bright, with rows of chairs, a muted TV and a triage window.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "At half past five on a Saturday it is quiet: a few people waiting, one man asleep, a cough.",
@@ -33,11 +25,7 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "A guard sits by the sliding doors beside a walk-through metal detector.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "Triage asks name, birth date and address; a patient may give none and still be seen.",
@@ -69,7 +57,7 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "The Uptown Memorial ER is one block from the Lawrence stop.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The triage nurse tonight is Marcus Bell, a big, calm man in his thirties and Denise's friend.",
@@ -81,7 +69,7 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "Wet socks come off at triage, and the ER gives her dry hospital socks with rubber treads.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A patient with no last name or birth date is logged as a Doe until she gives them.",
@@ -93,15 +81,11 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "A doctor sees her feet, finds frostnip only, and asks nothing about papers.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The triage nurse is Marcus, a big, calm man in his thirties with a shaved head.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "It is 2037, so a birth date of January 22, 1986 makes a patient fifty-one.",
@@ -109,7 +93,7 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "Marcus types what he is told; a birth year so far off her face makes him look up and ask again.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Triage checks nothing against records; an out-of-state address is taken as given.",
@@ -117,7 +101,7 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "Later registration runs name and birth date for insurance and finds no match anywhere.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "No match means a self-pay chart, a note for the social worker, and no questions from police.",
@@ -133,19 +117,19 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "Vitals come next: a thermometer, a cuff, a clip on a finger; her temperature reads 96.1.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Marcus swaps her wet socks for dry treaded ones and wraps her in a blanket from a warmer.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Then she is sent to the chairs with a paper bracelet to wait her turn.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Marcus told Nala frostnip waits behind worse cases, so her wait could be a while.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The back corner of the waiting room is out of earshot of the triage window and the guard.",
@@ -153,7 +137,7 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "Near that corner only the man asleep across three chairs sits, and he sleeps on.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A woman muttering in a corner is common in an ER before dawn, and no one looks twice.",
@@ -161,27 +145,27 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "The waiting-room TV runs a Chicago morning channel on mute, captioned: news, weather and ads.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A caption dates the broadcast Saturday, January 31, 2037.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Skiff, a Chicago hero, looks strained and soaked in the footage, talking to reporters on a pier.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A segment marks six months since the hero Hannah Elber left on a System summons and never came back.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hannah Elber was an A-rank Adjuster, once battlefield support to the Chicago hero Arjun Thomas.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Captions say her memorial is set for February 13 on Anesidora Island if she has not returned.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A crawl runs hero sightings and a reminder that all Avowed must register with the government.",
@@ -189,35 +173,35 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "Weather: snow tapering by noon, a high of nineteen, colder tonight, more snow Monday.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Ads run for Anesidora tourism, a lawyer for superhuman-incident claims, and consulate classes.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Sports: the Bulls lost at home last night; the Blackhawks play tonight.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Lead story: Skiff hauled the earth-shaper from under the lake; the villain is in intensive care.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A news crawl runs hero sightings by neighborhood, then: REMINDER — ALL AVOWED MUST REGISTER.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "With no insurance match, registration asks the patient for a Social Security number or any ID.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A no-match patient is marked self-pay and flagged for the social worker; none is turned away.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The clerk knows the consulate as the Desk Demon place downtown, straight south on the Red Line.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A no-ID woman asking for the consulate strikes the clerk as odd, but she lets it go.",
@@ -225,10 +209,10 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "The ER social worker comes on at eight and finds a flagged patient before she leaves.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   within: "place/otherwhere-iii-chicago",
   createdAt: "2026-09-28T22:05:51.835Z",
-  updatedAt: "2026-09-28T23:53:02.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Place

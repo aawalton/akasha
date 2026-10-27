@@ -22,11 +22,7 @@ export const otherwhereIiiPriyaRaman = {
     },
     {
       fact: "Shelter beds open at five in the evening; the day must be spent elsewhere.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
     {
       fact: "She can give her a transit card loaded with twenty dollars and a bag from the clothing closet.",
@@ -42,78 +38,45 @@ export const otherwhereIiiPriyaRaman = {
     },
     {
       fact: "She asks few questions about the past and many about tonight: bed, food, warmth, safety.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
     {
       fact: "The social worker gives her name to Nala as Priya, the social worker at the ER.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
     {
       fact: "Priya is in her mid-thirties, with dark hair tied back tight and quick eyes.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
     {
       fact: "Marcus and Denise both flagged Nala for Priya to see.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
         "character-other/otherwhere-iii-priya-raman",
         "character-other/otherwhere-iii-denise-pruitt",
       ],
     },
     {
       fact: "Priya calls Harbor House from her phone and reserves Nala a bed in her name.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
     {
       fact: "By day she points Nala to the Uptown library, open nine to five, free and warm.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
     {
       fact: "Priya writes the shelter's address and her own desk number on a card for Nala.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
     {
       fact: "Priya gives Nala a transit card with twenty dollars on it and a bag of clothes.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
     {
       fact: "The bag holds a green puffy coat, grey sweatpants, underwear, thick socks and scuffed snow boots.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
   ],
   createdAt: "2026-09-28T23:54:41.126Z",
-  updatedAt: "2026-09-29T00:18:07.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Lore

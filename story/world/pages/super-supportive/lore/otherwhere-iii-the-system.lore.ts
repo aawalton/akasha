@@ -26,19 +26,11 @@ export const otherwhereIiiTheSystem = {
     },
     {
       fact: "A civilian can reach the System only by phone, through the Avowed Communications Network.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "Words spoken aloud to the air by someone not Avowed reach nothing; the System does not answer.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "No one else can see an Avowed's interface.",
@@ -50,7 +42,7 @@ export const otherwhereIiiTheSystem = {
     },
     {
       fact: "A living person on Earth with no record of birth or arrival is an anomaly the System flags.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The network's machine voice gives the System's answers; the Contract does not speak to her itself.",
@@ -58,33 +50,29 @@ export const otherwhereIiiTheSystem = {
     },
     {
       fact: "The System takes no request for affixation outside selection, and says so plainly.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "It makes no contract of silence by telephone and does not bargain with an unregistered caller.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A claim of passing through chaos makes the System order a chaos screening before anything else.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "It tells such a caller to stay where she is, and notifies the nearest consulate's Artonan staff.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The call is logged under her name, and her sigil stays on the lobby phone.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Nala carries no chaos corruption; a screening finds none.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-onn-desveth",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
   ],
   createdAt: "2026-09-28T21:19:18.607Z",
-  updatedAt: "2026-10-27T19:28:49.936Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Lore

@@ -13,19 +13,15 @@ export const otherwhereIiiLawrenceStop = {
     },
     {
       fact: "The stair and the Lawrence Avenue sidewalk are slush over salt, with new snow blowing.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "Before dawn the avenue is dark: a shut diner, a laundromat, the unlit marquee of the Aragon.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Wool socks on slush soak through in a few steps and go icy, but one block is only minutes.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "From the train doors to the ER's sliding doors is about four minutes at Denise's brisk pace.",
@@ -34,5 +30,5 @@ export const otherwhereIiiLawrenceStop = {
   ],
   within: "place/otherwhere-iii-chicago",
   createdAt: "2026-09-28T22:14:06.160Z",
-  updatedAt: "2026-09-28T22:21:27.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Place

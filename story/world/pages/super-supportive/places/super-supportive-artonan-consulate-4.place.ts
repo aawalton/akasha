@@ -13,11 +13,7 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "From Lawrence it is about half an hour south on the Red Line, then a short walk.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
     {
       fact: "On a Saturday the lobby opens at nine with no classes, and Gorgon is at the desk as always.",
@@ -25,7 +21,7 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "It is a blocky gray concrete-and-glass cube behind a security fence with a gate on tracks.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Three poles out front fly multicolored streamers, the Artonans' planetary flags.",
@@ -41,15 +37,11 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "Classes include Artonan Life, logograms, culture and Beginners Wordchaining, some for credit.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its Red Line stop is Monroe, downtown; the consulate is a five-minute walk west from there.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
     {
       fact: "The Red Line from Lawrence runs every ten minutes or so on a Saturday morning.",
@@ -57,27 +49,23 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "It opens at 9 AM and holds only evening classes on weekdays.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "It opens at nine on Saturdays.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-priya-raman",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-priya-raman"],
     },
     {
       fact: "Three tall poles out front fly long streamers of many colors.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The lobby has pale terrazzo floors and a dark wood ceiling set with tiny lights like strange stars.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Crickets chirp in the lobby plants, and tourists photograph the one behind the front desk.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The lobby cameras record pictures but no sound, and Gorgon watches their monitors himself.",
@@ -85,23 +73,15 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "Gorgon told Nala nothing said in the consulate lobby is kept.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "The lobby's spring class leaflet says the classes are free to residents.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The desk takes enrollment forms today; the office upstairs takes them Monday.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "The enrollment office is up one flight, and takes forms on weekdays.",
@@ -117,11 +97,7 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "A public phone is on the lobby wall by the elevators, free for local and System calls.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "On a Saturday that supervisor is on call, and can reach the lobby within the hour.",
@@ -133,11 +109,11 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "Gorgon, an alien prisoner, sits chained to the lobby desk by glowing golden magical bindings.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
   createdAt: "2026-09-28T21:43:56.678Z",
-  updatedAt: "2026-10-03T19:38:54.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Place

@@ -10,43 +10,27 @@ export const superSupportiveAvowedCommunicationsNetwork = {
   facts: [
     {
       fact: "It is the System's phone network for a planet, reached by a very long number.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "It greets callers as Earthling and asks unregistered ones for name, reason and urgency.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "It warns that prank calls will be penalized.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "A caller gets a silver sigil on any phone held, even a rotary, and it cannot be deleted.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Its number is public and any phone can dial it, registered or not.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "The greeting is a machine's; a live answer is not promised.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "The Contract itself speaks to Avowed; the network only takes and passes calls.",
@@ -55,5 +39,5 @@ export const superSupportiveAvowedCommunicationsNetwork = {
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T21:44:59.585Z",
-  updatedAt: "2026-09-29T02:35:57.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Lore

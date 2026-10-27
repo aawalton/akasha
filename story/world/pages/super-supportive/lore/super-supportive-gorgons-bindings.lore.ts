@@ -10,7 +10,7 @@ export const superSupportiveGorgonsBindings = {
   facts: [
     {
       fact: "Glowing golden ropes of magic chain Gorgon to the consulate desk, trailing like jellyfish.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "They also bar talk of chaos, his own kind and extra-dimensional incursions.",
@@ -26,7 +26,7 @@ export const superSupportiveGorgonsBindings = {
     },
     {
       fact: "He clicks when he wants to say something he cannot, and goes flat near advice.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He may give directions, register classes, witness pre-affixation trades and hand out pens.",
@@ -46,14 +46,10 @@ export const superSupportiveGorgonsBindings = {
     },
     {
       fact: "Asked how to become a knight, he went flat and clicked; pressing him got nothing more.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T21:44:59.585Z",
-  updatedAt: "2026-09-29T01:47:48.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Lore

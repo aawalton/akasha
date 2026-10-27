@@ -13,27 +13,27 @@ export const otherwhereIiiBelmontPlatform = {
     },
     {
       fact: "Blue signs on the roof beams read BELMONT and Red Line in white letters.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A lit board overhead scrolls train times in orange: Howard one way, 95th/Dan Ryan the other.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A narrow glass shelter on the platform has a bench and three heat lamps in its roof.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A button on a post, marked PUSH FOR HEAT, lights the lamps for a short while before they click off.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Snow falls past the platform lights, and brick backs of buildings with dark windows face the tracks.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A backlit poster in the shelter advertises the Anesidora Compassion Fund for victims of superhumans.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A stair at the shelter's end, white with snow, leads down to the fare turnstiles and Belmont Avenue.",
@@ -45,7 +45,7 @@ export const otherwhereIiiBelmontPlatform = {
     },
     {
       fact: "A man in a puffy coat and knit cap waits at the far end, looking at his phone.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The man is a line cook going to an early shift, tired, decent, and wary of strangers.",
@@ -53,7 +53,7 @@ export const otherwhereIiiBelmontPlatform = {
     },
     {
       fact: "The man in the puffy coat has seen Nala barefoot in a sleep shirt, talking to the air.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bare feet on the snowy stairs or street go numb within minutes and risk frostbite within the hour.",
@@ -66,5 +66,5 @@ export const otherwhereIiiBelmontPlatform = {
   ],
   within: "place/otherwhere-iii-chicago",
   createdAt: "2026-09-28T21:10:58.831Z",
-  updatedAt: "2026-09-28T21:29:05.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Place

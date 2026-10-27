@@ -10,10 +10,10 @@ export const superSupportiveAnesidoraCompassionFund = {
   facts: [
     {
       fact: "The fund helps people injured in superhuman incidents.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T21:44:59.585Z",
-  updatedAt: "2026-10-03T19:34:47.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Lore

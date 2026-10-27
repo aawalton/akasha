@@ -18,7 +18,6 @@ export const worldCheck = {
     "world-check/otherwhere-i-standing",
     "world-check/otherwhere-ii-action-check",
     "world-check/otherwhere-ii-time-passing",
-    "world-check/otherwhere-iii-time-passing",
     "world-check/otherwhere-iv-time-passing",
     "world-check/otherwhere-iv-action-check",
     "world-check/otherwhere-iv-needs",
@@ -144,5 +143,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-27T19:26:09.866Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies PageType

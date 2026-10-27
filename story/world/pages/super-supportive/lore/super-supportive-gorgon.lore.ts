@@ -10,19 +10,19 @@ export const superSupportiveGorgon = {
   facts: [
     {
       fact: "He is about five feet tall, with smooth gray skin like a stingray's and black shark-like eyes.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He has a wide flat nose with four nostril slits and possibly no ears.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A couple dozen horns curve around his skull and flare into a spiky choker around his neck.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Glowing golden magical bindings chain him to the desk, and his wrists are raw beneath them.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He watches the security monitors, avoids eye contact and needs little sleep.",
@@ -30,7 +30,7 @@ export const superSupportiveGorgon = {
     },
     {
       fact: "He keeps his eyes on the desk's security monitors, away from the phones pointed at him.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He senses no trace of the System on Nala, and a faint, new-made strangeness he cannot place.",
@@ -38,11 +38,11 @@ export const superSupportiveGorgon = {
     },
     {
       fact: "His voice is high-pitched, with an undertone like breaking glass.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "His laugh is a repetitive hissing.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He can reach all public areas of the consulate but has no room of his own.",
@@ -50,7 +50,7 @@ export const superSupportiveGorgon = {
     },
     {
       fact: "He can smell attraction and pity on humans.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He finds scheming a cure for boredom and human adolescence beautiful and stupid.",
@@ -70,15 +70,15 @@ export const superSupportiveGorgon = {
     },
     {
       fact: "He emptied the lobby of tourists for Nala, and told her he had made it so.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He says the lobby is as private as his binding to the desk allows him.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He is bored, finds Nala not boring, and asked to hear her tale.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He smells fear on Nala but no deceit, and believes her: no human could know of his line.",
@@ -106,27 +106,27 @@ export const superSupportiveGorgon = {
     },
     {
       fact: "He smelled a great deal of fear on Nala, and told her there was no lie in it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At the words 'a proud line' he went utterly still, and his golden bindings stopped swaying.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "His face went blank, and he answered none of Nala's claims, yes or no.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He told Nala some things are not said aloud inside these walls, to him or anyone there.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He told Nala the humans call him Gorgon, and that the name will do.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He calls her Nala-not-of-this-Earth, and asked what she wants from him.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "He cannot ask for food; it must be offered before he can accept or refuse it.",
@@ -134,27 +134,15 @@ export const superSupportiveGorgon = {
     },
     {
       fact: "He told Nala to ask him for what he is permitted to give.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "He wrote the Earth Contract's public number on the back of Nala's enrollment form.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/super-supportive-gorgon",
-        "character-player/otherwhere-iii-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "When Nala's System call went dead, he turned his head from the monitors toward her.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "He owes no loyalty to human presidents or kings.",
@@ -162,30 +150,22 @@ export const superSupportiveGorgon = {
     },
     {
       fact: "He told Nala she smells as if she means her promise, and he will remember she made it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "He told Nala those who promise help to the chained mostly forget it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "During Nala's screening he kept his black eyes on the monitors, his nose slits wide.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "When Nala named Esh-erdi, his golden bindings at the desk flickered once, then settled.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T21:35:48.911Z",
-  updatedAt: "2026-09-29T04:20:41.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Lore

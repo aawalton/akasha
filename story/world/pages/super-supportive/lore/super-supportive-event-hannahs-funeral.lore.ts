@@ -9,10 +9,10 @@ export const superSupportiveEventHannahsFuneral = {
   facts: [
     {
       fact: "The funeral is held on Anesidora Island.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T21:47:13.074Z",
-  updatedAt: "2026-10-03T19:34:47.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Lore

@@ -14,11 +14,7 @@ export const superSupportiveSelection = {
     },
     {
       fact: "Most are chosen between the ages of 15 and 17.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
     {
       fact: "Everyone knows the selection speech by heart; it cites the 1963 agreement with the Artonans.",
@@ -30,14 +26,10 @@ export const superSupportiveSelection = {
     },
     {
       fact: "No one past seventeen has ever been chosen; the System closes to an adult for good.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/super-supportive-gorgon",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/super-supportive-gorgon"],
     },
   ],
   secrets: "jsonl",
   createdAt: "2026-09-28T21:44:59.586Z",
-  updatedAt: "2026-09-29T01:47:48.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Lore

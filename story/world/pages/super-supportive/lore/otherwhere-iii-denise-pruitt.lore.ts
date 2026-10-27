@@ -26,11 +26,7 @@ export const otherwhereIiiDenisePruitt = {
     },
     {
       fact: "In her locker at work she keeps an old pair of clogs and a fleece jacket.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "She hears a man leaving a woman stranded as abuse, and takes it seriously.",
@@ -38,27 +34,15 @@ export const otherwhereIiiDenisePruitt = {
     },
     {
       fact: "She would sooner walk Nala into her ER to be seen than leave her on a train.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "She knows a hospital sees anyone who walks in, with no ID or money needed.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "She can call a social worker at the hospital who finds shelter beds and clothing.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "She has a daughter of twenty-three at college in Iowa.",
@@ -70,19 +54,11 @@ export const otherwhereIiiDenisePruitt = {
     },
     {
       fact: "The nurse gives her name as Denise, an ER nurse at Uptown Memorial.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "Denise's stop is Lawrence, two stops past Sheridan.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "Denise believes the stranded story and takes Nala for a woman in trouble, not a liar.",
@@ -98,35 +74,19 @@ export const otherwhereIiiDenisePruitt = {
     },
     {
       fact: "At the ER Denise will offer Nala the desk phone to call someone back home.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "Denise clocks in at 5:30 and told Nala she will come find her on her break.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "At triage Denise gave Nala a small wave and went through a door marked STAFF ONLY.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "Denise takes no for an answer about calling home, and does not ask twice.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "Before she clocks in, Denise writes her cell number on a paper towel for Nala.",
@@ -134,29 +94,17 @@ export const otherwhereIiiDenisePruitt = {
     },
     {
       fact: "Denise asks Marcus to have the social worker see Nala when she comes on at eight.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "Denise's first break comes around nine, and she means to check on Nala then.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "Denise gave Nala a paper towel reading DENISE and a phone number, to call at any hour.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iii-nala",
-        "character-other/otherwhere-iii-denise-pruitt",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
   ],
   createdAt: "2026-09-28T21:47:21.154Z",
-  updatedAt: "2026-09-28T23:20:31.000Z",
+  updatedAt: "2026-10-27T19:29:08.137Z",
 } as const satisfies Lore
