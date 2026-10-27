@@ -1,5 +1,6 @@
 import { addPageProperty } from "akasha/change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts"
 import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
+import { changeFileContent } from "akasha/change/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.ts"
 import { changePagePageProperty } from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { editsIn, foldedIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
@@ -20,6 +21,8 @@ const APPEND = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as cons
 const RESTATE = `${changeMechanicalFileContent.slug}/${changePagePageProperty.slug}` as const
 
 const ADD = `${changeMechanicalFileContent.slug}/${addPageProperty.slug}` as const
+
+const REPLACE = `${changeMechanicalFileContent.slug}/${changeFileContent.slug}` as const
 
 const ENDS_AT = exportedAs(turnEndsAt.propertySlug)
 
@@ -248,9 +251,13 @@ export function linesAskedFor(
   turn: string,
   lines: readonly unknown[],
   endsAt: string,
-  turnText: string | null
+  turnText: string | null,
+  replacing: string | null = null
 ): readonly Asking[] {
   const content = lines.map((one) => `${JSON.stringify(one)}${BREAK}`).join("")
-  const appended: Asking = { at: APPEND, given: { at: outcomes, content } }
-  return [appended, ...timedFor(turn, endsAt, turnText)]
+  const written: Asking =
+    replacing === null
+      ? { at: APPEND, given: { at: outcomes, content } }
+      : { at: REPLACE, given: { at: outcomes, old: replacing, new: content } }
+  return [written, ...timedFor(turn, endsAt, turnText)]
 }

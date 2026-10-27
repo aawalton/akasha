@@ -50,7 +50,11 @@ export const settleAsking = {
       decisionKind: "decision-kind/departure",
       statement: "A montage's lines are appended together, and its last end stated on the turn.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A montage rerun's lines replace the earlier montage's lines whole.",
+    },
   ],
   createdAt: "2026-09-28T21:32:10.610Z",
-  updatedAt: "2026-10-27T20:03:26.902Z",
+  updatedAt: "2026-10-27T21:15:04.630Z",
 } as const satisfies Module

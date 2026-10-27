@@ -47,6 +47,13 @@ test("many lines are appended at once, and the turn states the end handed in", (
   expect(asked[1]?.given).toEqual({ at: TURN, key: "endsAt", value: '"2026-09-29T11:27:00.000Z"' })
 })
 
+test("a montage rerun replaces the earlier montage's lines rather than appending", () => {
+  const was = '{"session":1}\n'
+  const asked = linesAskedFor(OUTCOMES, TURN, [{ session: 2 }], "2026-09-29T11:27:00.000Z", "", was)
+  expect(asked[0]?.at).toMatch(/\/change-file-content$/)
+  expect(asked[0]?.given).toEqual({ at: OUTCOMES, old: was, new: '{"session":2}\n' })
+})
+
 test("a turn stating that instant already is asked nothing more", () => {
   const text = `  endsAt: "2026-09-28T11:27:00.000Z",\n`
   expect(askedFor(OUTCOMES, TURN, TIMED, text)).toHaveLength(1)

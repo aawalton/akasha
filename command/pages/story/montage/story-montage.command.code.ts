@@ -14,11 +14,13 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
+  type Added,
   linesAskedFor,
   type Summed,
   settledAt,
   summedFor,
   sumsOf,
+  takenBackOf,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import { rolledBy } from "akasha/command/pages/story/modules/settle-difficulty/settle-difficulty.module.code.ts"
 import { seedAfter } from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
@@ -34,12 +36,18 @@ import {
   type Rules,
 } from "akasha/command/pages/story/montage/modules/montage-running/montage-running.module.code.ts"
 import { taken } from "akasha/command/pages/story/montage/modules/montage-taking/montage-taking.module.code.ts"
-import { onDisk } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import {
+  onDisk,
+  settlingIndexed,
+} from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { pathOf } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import { thrownFrom } from "akasha/story/world/mechanics/modules/dice-throwing/dice-throwing.module.code.ts"
 import { z } from "zod"
 
 const TAB = "\t"
+
+const CHECK = "check"
 
 const NEXT_SAID = z.object({
   reading: z.record(z.string(), z.unknown()),
@@ -78,6 +86,17 @@ function rulesFor(root: string, placed: Placed): Rules {
   }
 }
 
+async function takenBack(root: string, placed: Placed): Promise<Held<readonly Added[]>> {
+  const back: Added[] = []
+  for (const line of placed.prior?.lines ?? []) {
+    const check = line[CHECK]
+    const code = typeof check === "string" ? settlingIndexed(root, slugOf(check)) : null
+    if (code === null) return { refused: `\`${String(check)}\` names no check here to take back` }
+    back.push(...(await takenBackOf(root, code, line)))
+  }
+  return { answered: back }
+}
+
 function totalled(sums: readonly Summed[]): readonly Summed[] {
   const totals = new Map<string, Summed>()
   for (const one of sums) {
@@ -108,6 +127,8 @@ function rowsOf(
     if (one.left !== null) rows.push(["left", one.session, one.endsAt, one.left].join(TAB))
   }
   rows.push(`stopped${TAB}${ran.stopped}${TAB}${ran.why}`)
+  const replaced = placed.prior?.lines.length ?? 0
+  if (replaced > 0) rows.push(`replaced${TAB}${replaced} lines of the montage before`)
   for (const one of totalled(sums)) rows.push(["added", one.at, one.key, one.by].join(TAB))
   rows.push(commit === null ? `landed${TAB}nothing` : `commit${TAB}${commit}`)
   return rows
@@ -126,11 +147,15 @@ async function ranOn(
   const said = await montageRan(placed.montage, rulesFor(given.root, placed))
   if ("refused" in said) return refused(said.refused, DATA)
   const ran = said.answered
-  if (ran.lines.length === 0) return told(rowsOf(ran, placed, [], null))
-  const sums = sumsOf(ran.added, (one) => pathOf(given.root, one))
+  if (ran.lines.length === 0 && placed.prior === null) return told(rowsOf(ran, placed, [], null))
+  const back = await takenBack(given.root, placed)
+  if ("refused" in back) return refused(back.refused, DATA)
+  const sums = sumsOf([...ran.added, ...back.answered], (one) => pathOf(given.root, one))
   if ("refused" in sums) return refused(sums.refused, DATA)
   const read = onDisk(given.root)
-  const asked = linesAskedFor(placed.at, placed.on.at, ran.lines, ran.endsAt, read(placed.on.at))
+  const replacing = placed.prior?.text ?? null
+  const turnText = read(placed.on.at)
+  const asked = linesAskedFor(placed.at, placed.on.at, ran.lines, ran.endsAt, turnText, replacing)
   const landed = await landing(
     given.root,
     [...asked, ...summedFor(sums, read)],

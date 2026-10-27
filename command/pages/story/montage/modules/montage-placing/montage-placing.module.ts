@@ -11,11 +11,7 @@ export const montagePlacing = {
       decisionKind: "decision-kind/departure",
       statement: "A montage runs on the turn named, or else on the story's latest turn.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A montage starts at its turn's end, else an earlier turn's, the last chapter's, or the opening.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A turn stating `interruptsAt` hands that instant to the montage.",
@@ -26,5 +22,5 @@ export const montagePlacing = {
     },
   ],
   createdAt: "2026-10-27T20:03:26.902Z",
-  updatedAt: "2026-10-27T21:11:52.213Z",
+  updatedAt: "2026-10-27T21:15:04.630Z",
 } as const satisfies Module

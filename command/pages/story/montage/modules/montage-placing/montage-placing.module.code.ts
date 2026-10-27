@@ -14,6 +14,12 @@ import {
   linesIn,
   unmadeLogged,
 } from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
+import {
+  type Chaptered,
+  type Prior,
+  priorIn,
+  startOf,
+} from "akasha/command/pages/story/montage/modules/montage-replacing/montage-replacing.module.code.ts"
 import type {
   Checked,
   Montage,
@@ -70,6 +76,7 @@ export type Placed = {
   readonly montage: Montage
   readonly on: Turn
   readonly at: string
+  readonly prior: Prior | null
   readonly codes: ReadonlyMap<string, string>
   readonly odds: Odds | null
   readonly unmade: number
@@ -82,34 +89,29 @@ function turnOf(turns: readonly Turn[], held: Taken): Turn | undefined {
   return turns.toSorted((a, b) => a.position - b.position).at(-1)
 }
 
-function chapterEnd(root: string, story: string): string | null {
+function chaptersOf(root: string, story: string): readonly Chaptered[] {
   const named = `${storyPlayed.slug}/${story}`
-  let latest: { readonly position: number; readonly ends: string } | null = null
+  const found: Chaptered[] = []
   for (const one of valuesOfType(root, storyChapterPlayed.slug)) {
     const position = one.value[POSITION]
-    const ends = one.value[ENDS_AT]
     if (one.value[STORY] !== named || typeof position !== "number") continue
-    if (typeof ends !== "string") continue
-    if (latest === null || position > latest.position) latest = { position, ends }
+    found.push({ position, ends: one.value[ENDS_AT] })
   }
-  return latest?.ends ?? null
+  return found
 }
 
-function fromOf(root: string, turns: readonly Turn[], on: Turn, story: string): string | null {
-  const own = valueByPath(root, on.at)?.[ENDS_AT]
-  if (typeof own === "string") return own
-  const before = turns
-    .filter((one) => one.position < on.position)
+function startFor(
+  root: string,
+  earlier: readonly Turn[],
+  story: string,
+  kept: readonly string[]
+): string | null {
+  const ends = earlier
     .toSorted((a, b) => b.position - a.position)
-  for (const one of before) {
-    const ends = valueByPath(root, one.at)?.[ENDS_AT]
-    if (typeof ends === "string") return ends
-  }
-  const closed = chapterEnd(root, story)
-  if (closed !== null) return closed
+    .map((one) => valueByPath(root, one.at)?.[ENDS_AT])
   const listed = listedAt(root, storyPlayed.slug, story)[0]
   const opens = listed === undefined ? undefined : valueByPath(root, listed.path)?.[OPENS_AT]
-  return typeof opens === "string" ? opens : null
+  return startOf({ kept, earlier: ends, chapters: chaptersOf(root, story), opens })
 }
 
 function sessionedCode(root: string, check: string, role: string): Held<string> {
@@ -184,16 +186,18 @@ export function placedFor(root: string, held: Taken): Placed | Refusing {
   if ("refused" in activity) return { refused: activity.refused, by: DATA }
   const upkeep = upkeepFor(root, held)
   if ("refused" in upkeep) return { refused: upkeep.refused, by: INPUT }
-  const from = fromOf(root, turns, on, held.story)
-  if (from === null) return { refused: `\`${on.slug}\` has no time to start from`, by: DATA }
   const at = outcomesAt(on.at)
   if (at === null) return { refused: `\`${on.at}\` has no outcomes beside it`, by: DATA }
+  const read = onDisk(root)
+  const outcomes = priorIn(linesIn(read, at))
+  if ("refused" in outcomes) return { refused: outcomes.refused, by: DATA }
+  const { kept, prior } = outcomes.answered
+  const earlier = turns.filter((one) => one.position < on.position)
+  const from = startFor(root, earlier, held.story, kept)
+  if (from === null) return { refused: `\`${on.slug}\` has no time to start from`, by: DATA }
   const odds = held.dice === null ? { answered: null } : oddsIndexed(root, held.story, held.check)
   if ("refused" in odds) return { refused: odds.refused, by: DATA }
-  const read = onDisk(root)
-  const chained = turns
-    .filter((one) => one.position <= on.position)
-    .map((one) => ({ position: one.position, outcomes: outcomesAt(one.at) }))
+  const chained = earlier.map((one) => ({ position: one.position, outcomes: outcomesAt(one.at) }))
   const interrupts = valueByPath(root, on.at)?.[INTERRUPTS_AT]
   const upkept = upkeep.answered
   const codes = new Map([
@@ -212,11 +216,12 @@ export function placedFor(root: string, held: Taken): Placed | Refusing {
       every: held.every,
       bounds: { sessions: held.sessions, until: held.until, crossing: held.crossing },
       interruptsAt: typeof interrupts === "string" ? interrupts : null,
-      before: lineChained(read, chained, chaptersIndexed(root, held.story)),
-      place: linesIn(read, at).length,
+      before: kept.at(-1) ?? lineChained(read, chained, chaptersIndexed(root, held.story)),
+      place: kept.length,
     },
     on,
     at,
+    prior,
     codes,
     odds: odds.answered,
     unmade: held.dice === null ? 0 : unmadeLogged(root, [on.at, at]),

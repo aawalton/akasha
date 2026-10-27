@@ -6,7 +6,12 @@ export const storyMontage = {
   slug: "story-montage",
   definition: "the command settling a played story's repeated activity session by session",
   code: "ts",
-  parts: ["module/montage-placing", "module/montage-running", "module/montage-taking"],
+  parts: [
+    "module/montage-placing",
+    "module/montage-replacing",
+    "module/montage-running",
+    "module/montage-taking",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -49,6 +54,11 @@ export const storyMontage = {
       decisionKind: "decision-kind/departure",
       statement: "A montage stopped before any session lands nothing and says why.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A montage run again on its turn replaces the one before, taking back what it added.",
+    },
   ],
   name: "montage",
   arguments: [
@@ -64,5 +74,5 @@ export const storyMontage = {
     { argument: "argument/played-turn", required: false },
   ],
   createdAt: "2026-10-27T20:03:26.902Z",
-  updatedAt: "2026-10-27T20:03:26.902Z",
+  updatedAt: "2026-10-27T21:15:04.630Z",
 } as const satisfies Command
