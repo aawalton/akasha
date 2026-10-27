@@ -33,6 +33,7 @@ const TREE = "tree"
 export const TRACKED = [":(glob)**/package.json", "package.json", "bun.lock"]
 const INSTALL = ["install", "--frozen-lockfile", "--dry-run"]
 const UNFOUND = /Workspace not found "([^"]*)"/
+const SKIPPED = /listed in bun\.lock but not on disk: "([^"]*)"/
 const SYNC_CONTAINER = "code-sync"
 const REPO_PATH = "/app/repo"
 const FETCHED = "FETCH_HEAD"
@@ -113,17 +114,17 @@ function ranOf(argv: readonly string[], at: string): Ran {
 }
 
 export function unfoundIn(said: string): string | null {
-  return firstCapture(UNFOUND.exec(said))
+  return firstCapture(UNFOUND.exec(said)) ?? firstCapture(SKIPPED.exec(said))
 }
 
 export function whyUninstallable(sha: string, ran: Ran): string | null {
-  if (ran.code === 0) return null
   const unfound = unfoundIn(`${ran.stdout}${ran.stderr}`)
+  if (ran.code === 0 && unfound === null) return null
   if (unfound === null) {
     return `the manifests tracked at ${sha} would not install, so the build in the pod would stop: ${saidBy(ran)}`
   }
   const named = JSON.stringify(unfound)
-  return `the tree at ${sha} names the workspace ${named} and tracks no manifest for it, so the build in the pod would stop at Workspace not found ${named}`
+  return `the tree at ${sha} names the workspace ${named} and tracks no manifest for it, so the build in the pod would stop at Workspace not found ${named} or install without it`
 }
 
 type Installable = { readonly installs: true } | { readonly why: string }

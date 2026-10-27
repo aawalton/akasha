@@ -53,6 +53,10 @@ export const webAppBuilding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An install that skipped such a workspace is refused though it exited cleanly.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The scratch an install is proved in is swept whether the proof passed or failed.",
     },
     {
@@ -175,5 +179,5 @@ export const webAppBuilding = {
     },
   ],
   createdAt: "2026-09-01T04:08:40.540Z",
-  updatedAt: "2026-09-25T16:31:36.000Z",
+  updatedAt: "2026-10-27T07:29:56.040Z",
 } as const satisfies Module
