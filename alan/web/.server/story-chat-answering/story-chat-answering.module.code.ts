@@ -45,16 +45,38 @@ type Reading = typeof readingFor
 
 type Writing = typeof writingFor
 
+type Placed = { readonly path: string; readonly stated: boolean }
+
+const STATED = `${chat.propertySlug}: "${HELD}"`
+
 async function chatPathOf(
   game: string,
   reading: Reading
-): Promise<string | { readonly refused: string }> {
+): Promise<Placed | { readonly refused: string }> {
   const read = await reading({ pages: [{ pageTypeSlug: storyPlayed.slug, slug: game }] })
   if ("refused" in read) return read
-  const page = read.bodies[0]?.path
+  const page = read.bodies[0]
   if (page === undefined) return { refused: `no story played is named \`${game}\`` }
-  const at = besideAt(page, chat.propertySlug, HELD)
-  return at === null ? { refused: `\`${page}\` can hold no chat beside it` } : at
+  const at = besideAt(page.path, chat.propertySlug, HELD)
+  if (at === null) return { refused: `\`${page.path}\` can hold no chat beside it` }
+  return { path: at, stated: page.content?.includes(STATED) === true }
+}
+
+async function statedOn(game: string, read: string, writing: Writing): Promise<Appended> {
+  const wrote = await writing({
+    writer: WRITER,
+    message: `the chat of ${game} is stated on its page`,
+    pages: [
+      {
+        pageTypeSlug: storyPlayed.slug,
+        slug: game,
+        values: { [chat.propertySlug]: HELD },
+        merge: true,
+      },
+    ],
+    read,
+  })
+  return "refused" in wrote ? wrote : { ok: true }
 }
 
 export async function appendedTo(
@@ -63,8 +85,9 @@ export async function appendedTo(
   reading: Reading = readingFor,
   writing: Writing = writingFor
 ): Promise<Appended> {
-  const path = await chatPathOf(game, reading)
-  if (typeof path !== "string") return path
+  const placed = await chatPathOf(game, reading)
+  if ("refused" in placed) return placed
+  const path = placed.path
   let why = "nothing was tried"
   for (let taken = 1; taken <= TRIES; taken += 1) {
     const read = await reading({ paths: [path] })
@@ -77,18 +100,17 @@ export async function appendedTo(
       writer: WRITER,
       message: `Alan says a message in the chat of ${game}`,
       puts: [{ path, content: `${held}${line}` }],
-      pages: [
-        {
-          pageTypeSlug: storyPlayed.slug,
-          slug: game,
-          values: { [chat.propertySlug]: HELD },
-          merge: true,
-        },
-      ],
       read: read.at,
     })
-    if (!("refused" in wrote)) return { ok: true }
-    why = wrote.refused
+    if ("refused" in wrote) {
+      why = wrote.refused
+      continue
+    }
+    if (wrote.commit === null) {
+      why = "the pages landed no commit, and a line was meant"
+      continue
+    }
+    return placed.stated ? { ok: true } : await statedOn(game, wrote.commit, writing)
   }
   return { refused: `\`${path}\` was not written in ${TRIES} tries — ${why}` }
 }

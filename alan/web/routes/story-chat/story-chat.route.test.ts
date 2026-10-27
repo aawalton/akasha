@@ -126,3 +126,16 @@ test("an append writes the chat whole at the commit it read, the new line last",
   ])
   expect(stated).toEqual([{ chat: "jsonl" }])
 })
+
+test("an append whose write lands no commit is refused rather than answered as kept", async () => {
+  const said = await appendedTo(
+    GAME,
+    '{"at":"u","from":"alan","body":"two"}\n',
+    async (sought) =>
+      sought.pages === undefined
+        ? { at: "c1", bodies: [{ path: CHAT, content: "" }], unplaced: [] }
+        : { at: "c1", bodies: [{ path: PAGE, content: 'chat: "jsonl"' }], unplaced: [] },
+    async () => ({ commit: null, wrote: [], took: [] })
+  )
+  expect("refused" in said).toBe(true)
+})

@@ -30,7 +30,15 @@ export const storyChatAnswering = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An append states the chat on the story's page, since an unstated file is never read.",
+        "The first append states the chat on the story's page, since an unstated file is never read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page is stated in a write of its own, after the line has landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write landing no commit is no append, and is tried again.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,5 +54,5 @@ export const storyChatAnswering = {
     },
   ],
   createdAt: "2026-10-27T19:21:46.037Z",
-  updatedAt: "2026-10-27T19:55:45.778Z",
+  updatedAt: "2026-10-27T20:07:21.255Z",
 } as const satisfies Module
