@@ -20,6 +20,6 @@ export const giftedReborn00002 = {
   ],
   endsAt: "2026-10-27T20:40:00.000Z",
   createdAt: "2026-10-27T23:31:47.551Z",
-  updatedAt: "2026-10-27T23:56:17.326Z",
-  ownLength: 229,
+  updatedAt: "2026-10-27T23:56:47.265Z",
+  ownLength: 245,
 } as const satisfies StoryTurnPlayed
