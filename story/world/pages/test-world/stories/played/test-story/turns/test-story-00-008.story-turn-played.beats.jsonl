@@ -1,6 +1,6 @@
 {"beat":1,"event":"The player sets the lantern down and draws the iron sword in the middle of the shop.","prose":"You set the lantern down, step back into the middle of the shop and draw your iron sword.","at":"2026-10-27T08:43:00.000Z","changes":[{"page":"story-item/test-story-player-shop-lantern","note":"Lantern set down, out of hand","key":"slot","from":"item-slot/off-hand","to":null}],"memory":[],"pictured":[]}
 {"beat":2,"event":"The player eyes the lit taper the lantern was lit from, standing on the counter.","prose":"On the counter, the taper you lit the lantern from still stands burning, and you fix your eyes on it.","continues":true,"changes":[],"memory":[],"pictured":[]}
-{"beat":3,"event":"The player cuts once, level, through the taper's middle.","prose":"You step in and cut once, level, through the middle of the taper.","changes":[],"pictured":[]}
+{"beat":3,"event":"The player cuts once, level, through the taper's middle.","prose":"You step in and cut once, level, through the middle of the taper.","changes":[],"memory":[],"pictured":[]}
 {"beat":4,"event":"The blade passes clean, and the burning top half drops onto the counter.","changes":[]}
 {"beat":5,"event":"Its flame ducks and gutters low as it falls, then rights itself and burns on."}
 {"beat":6,"event":"The shopkeeper has stepped back from the counter, staring at the two halves."}
