@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/temper-hud-panel.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/companion/activation-buff/temper-companion-activation-buff.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.types.ts","typed":true,"deferred":false}
@@ -87,6 +88,7 @@
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/thing/temper-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/web/player-inventory-management-ui/temper-rule-card-phrase/temper-rule-card-phrase.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"temper/addon/shared/hud-component/temper-hud-panel/temper-hud-panel.page-type.ts","id":"01a17ec6-0e98-7b7c-9c17-c1fa75e3b289"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/activation-buff/temper-companion-activation-buff.page-type.ts","id":"01a05fcd-41a7-7f50-b3d4-a62fb6c122e1"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.ts","id":"01a05fcd-aece-70c8-8784-e3afaec07950"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts","id":"01a0debe-d7ef-75ff-9915-543ddba45c06"}

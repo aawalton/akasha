@@ -5452,6 +5452,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/modules/hud-scene-source/hud-scene-source.module.ts","id":"01a060a4-fa39-75fa-b8ed-cd9e167bd81c"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/temper-hud-component.domain.ts","id":"01a060a4-fa38-742d-9517-977730401b38"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/temper-hud-dock/temper-hud-dock.page-type.ts","id":"01a17ec5-26a5-7132-972f-0035beb6be88"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/temper-hud-panel/temper-hud-panel.page-type.ts","id":"01a17ec6-0e98-7b7c-9c17-c1fa75e3b289"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/log/modules/addon-log/addon-log.module.ts","id":"01a08e26-c147-7c8e-baea-f2cad9ded7c8"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/log/modules/library-logger/library-logger.module.ts","id":"01a090e5-9062-788e-8317-a0e2f1dee9b7"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/log/temper-addon-log.domain.ts","id":"01a08e26-d48c-7a39-8610-6270e3e33c8f"}

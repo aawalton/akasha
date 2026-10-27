@@ -15,6 +15,7 @@ export const temperHudComponent = {
     "module/hud-scene-parse",
     "module/hud-scene-source",
     "page-type/temper-hud-dock",
+    "page-type/temper-hud-panel",
   ],
   decisions: [
     {
@@ -39,5 +40,5 @@ export const temperHudComponent = {
     },
   ],
   createdAt: "2026-09-02T05:43:39.832Z",
-  updatedAt: "2026-10-27T19:10:12.131Z",
+  updatedAt: "2026-10-27T19:11:11.511Z",
 } as const satisfies Domain
