@@ -7,6 +7,7 @@ export const otherwhereViiBlackTights = {
   title: "Black Tights",
   world: "world/god-of-trash",
   description: "Snug black leggings of a smooth, stretching cloth.",
+  category: "armor",
   createdAt: "2026-09-28T22:52:26.843Z",
-  updatedAt: "2026-09-28T22:52:36.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

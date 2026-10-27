@@ -7,6 +7,7 @@ export const overwhereIvMonsterCore = {
   title: "Monster Core",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "The hard, mana-bearing heart some monsters carry, sold for crafting and magic.",
+  category: "material",
   createdAt: "2026-09-29T12:44:28.506Z",
-  updatedAt: "2026-09-29T12:44:31.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

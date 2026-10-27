@@ -7,7 +7,8 @@ export const otherwhereXiSilverite = {
   title: "Silverite",
   world: "world/the-calamitous-bob-stubbed",
   description: "A silvery metal that holds and blocks magic.",
+  category: "material",
   aliases: ["Star metal"],
   createdAt: "2026-09-29T00:20:07.247Z",
-  updatedAt: "2026-09-29T00:20:16.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

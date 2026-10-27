@@ -7,6 +7,7 @@ export const overwhereIvWatchTunic = {
   title: "Watch Tunic",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "A plain grey wool tunic of the Millbrook watch.",
+  category: "armor",
   createdAt: "2026-09-30T09:11:35.650Z",
-  updatedAt: "2026-09-30T09:11:38.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

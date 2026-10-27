@@ -8,6 +8,7 @@ export const otherwhereVArmatures = {
   world: "world/ends-of-magic",
   aliases: ["winged armatures", "battlesuits", "flying armor"],
   description: "Enchanted winged flying armor.",
+  category: "armor",
   createdAt: "2026-09-28T21:41:21.520Z",
-  updatedAt: "2026-09-28T21:48:52.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

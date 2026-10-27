@@ -7,6 +7,7 @@ export const otherwhereXiMonsterCores = {
   title: "Monster Cores",
   world: "world/the-calamitous-bob-stubbed",
   description: "A weightless, perfect sphere of mana taken from a slain beast.",
+  category: "material",
   createdAt: "2026-09-29T00:15:09.051Z",
-  updatedAt: "2026-09-29T00:15:25.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

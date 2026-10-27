@@ -8,6 +8,7 @@ export const overwhereIiiSnowroot = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description:
     "A white, finger-thick root dug from under frost-browned leaves, sharp-smelling and brewed for coughs.",
+  category: "material",
   createdAt: "2026-09-30T18:46:44.779Z",
-  updatedAt: "2026-09-30T18:46:47.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

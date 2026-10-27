@@ -7,6 +7,7 @@ export const overwhereIiiEggs = {
   title: "Eggs",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "Brown hen's eggs, wrapped in a knotted cloth.",
+  category: "consumable",
   createdAt: "2026-10-02T19:52:16.110Z",
-  updatedAt: "2026-10-02T19:52:19.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

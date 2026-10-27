@@ -7,6 +7,7 @@ export const overwhereIiiOatcakes = {
   title: "Oatcakes",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "Flat round oatcakes baked on a griddle, wrapped in a cloth.",
+  category: "consumable",
   createdAt: "2026-10-02T20:16:39.103Z",
-  updatedAt: "2026-10-02T20:16:43.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

@@ -7,6 +7,7 @@ export const overwhereIiiWoolTunic = {
   title: "Wool Tunic",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description: "A plain brown wool tunic, belted at the waist, darned at one elbow and warm.",
+  category: "armor",
   createdAt: "2026-09-30T17:20:19.966Z",
-  updatedAt: "2026-09-30T17:20:25.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

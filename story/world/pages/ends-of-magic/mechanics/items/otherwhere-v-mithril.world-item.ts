@@ -7,6 +7,7 @@ export const otherwhereVMithril = {
   title: "Mithril",
   world: "world/ends-of-magic",
   description: "A precious magical metal.",
+  category: "material",
   createdAt: "2026-09-28T21:54:22.756Z",
-  updatedAt: "2026-09-28T22:03:30.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

@@ -8,6 +8,7 @@ export const overwhereIiiManaDraught = {
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description:
     "A small blue glass vial of thin, faintly glowing liquor that gives back about 10 mana within a few minutes.",
+  category: "consumable",
   createdAt: "2026-09-30T17:43:32.502Z",
-  updatedAt: "2026-09-30T17:43:35.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

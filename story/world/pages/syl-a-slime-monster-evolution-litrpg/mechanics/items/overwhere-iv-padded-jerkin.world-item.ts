@@ -7,6 +7,7 @@ export const overwhereIvPaddedJerkin = {
   title: "Padded Jerkin",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description: "A quilted jerkin of layered cloth that turns a glancing blow.",
+  category: "armor",
   createdAt: "2026-09-30T09:11:35.650Z",
-  updatedAt: "2026-09-30T09:11:38.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem

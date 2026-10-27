@@ -7,6 +7,7 @@ export const otherwhereViiComfreySalve = {
   title: "Comfrey Salve",
   world: "world/god-of-trash",
   description: "A small pot of comfrey worked into lard, for blisters and raw hands.",
+  category: "consumable",
   createdAt: "2026-09-29T02:10:49.632Z",
-  updatedAt: "2026-09-29T02:10:53.000Z",
+  updatedAt: "2026-10-27T19:00:06.581Z",
 } as const satisfies WorldItem
