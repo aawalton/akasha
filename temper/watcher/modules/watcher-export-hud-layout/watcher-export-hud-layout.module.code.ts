@@ -4,6 +4,7 @@ import {
   numberAt,
   slugAt,
   textAt,
+  textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { serializeCoreConfigFile } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
 import {
@@ -25,6 +26,7 @@ interface HudLayoutPanel {
   readonly key: string
   readonly dock: string
   readonly displayOrder: number
+  readonly inputModes: readonly string[]
   readonly neverMoves: boolean
   readonly measuredBy?: string
 }
@@ -46,12 +48,18 @@ function stated<T>(held: T | null, page: Page, key: string): T {
   return held
 }
 
+function inputModesOf(page: Page): readonly string[] {
+  const modes = textsAt(page, "inputModes")
+  return stated(modes === null || modes.length === 0 ? null : modes, page, "inputModes")
+}
+
 function panelOf(page: Page): HudLayoutPanel {
   const measuredBy = textAt(page, "measuredBy")
   return {
     key: stated(textAt(page, "key"), page, "key"),
     dock: stated(slugAt(page, "dock"), page, "dock"),
     displayOrder: stated(numberAt(page, "displayOrder"), page, "displayOrder"),
+    inputModes: inputModesOf(page),
     neverMoves: page["neverMoves"] === true,
     ...(measuredBy === null ? {} : { measuredBy }),
   }

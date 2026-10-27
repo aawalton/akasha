@@ -19,6 +19,14 @@ export const watcherExportHudLayout = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A panel states the input modes it is placed in, as `inputModes`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel page stating no input mode is refused rather than written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A panel measured by another control states that control, and no other panel does.",
     },
@@ -38,5 +46,5 @@ export const watcherExportHudLayout = {
     },
   ],
   createdAt: "2026-10-27T19:18:31.117Z",
-  updatedAt: "2026-10-27T19:39:03.762Z",
+  updatedAt: "2026-10-27T20:16:18.763Z",
 } as const satisfies Module

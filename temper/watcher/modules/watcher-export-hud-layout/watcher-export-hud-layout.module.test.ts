@@ -20,11 +20,14 @@ const AT_BOTTOM = `${DOCK_PAGE_TYPE_SLUG}/${bottom.slug}`
 
 const AT_TOP = `${DOCK_PAGE_TYPE_SLUG}/${top.slug}`
 
+const KEYBOARD = ["keyboard"]
+
 const ATTRIBUTES = asPage({
   id: "panel-1",
   key: "ZO_PlayerAttribute",
   dock: AT_BOTTOM,
   displayOrder: 2,
+  inputModes: KEYBOARD,
 })
 
 const ACTION_BAR = asPage({
@@ -32,10 +35,17 @@ const ACTION_BAR = asPage({
   key: "ZO_ActionBar1",
   dock: AT_BOTTOM,
   displayOrder: 1,
+  inputModes: KEYBOARD,
   neverMoves: true,
 })
 
-const COMPASS = asPage({ id: "panel-3", key: "ZO_CompassFrame", dock: AT_TOP, displayOrder: 1 })
+const COMPASS = asPage({
+  id: "panel-3",
+  key: "ZO_CompassFrame",
+  dock: AT_TOP,
+  displayOrder: 1,
+  inputModes: KEYBOARD,
+})
 
 function collecting(docks: readonly Page[], panels: readonly Page[]) {
   return async (args: { pageTypeSlug?: string }) =>
@@ -49,11 +59,41 @@ test("each dock is keyed by its slug and states its gap", () => {
   })
 })
 
-test("each panel states its key, dock, display order, and whether it never moves", () => {
+test("each panel states its key, dock, display order, input modes, and whether it never moves", () => {
   expect(hudLayoutOf([], [ATTRIBUTES, ACTION_BAR]).panels).toEqual([
-    { key: "ZO_ActionBar1", dock: bottom.slug, displayOrder: 1, neverMoves: true },
-    { key: "ZO_PlayerAttribute", dock: bottom.slug, displayOrder: 2, neverMoves: false },
+    {
+      key: "ZO_ActionBar1",
+      dock: bottom.slug,
+      displayOrder: 1,
+      inputModes: KEYBOARD,
+      neverMoves: true,
+    },
+    {
+      key: "ZO_PlayerAttribute",
+      dock: bottom.slug,
+      displayOrder: 2,
+      inputModes: KEYBOARD,
+      neverMoves: false,
+    },
   ])
+})
+
+test("a panel placed in both input modes states both", () => {
+  const both = asPage({
+    id: "panel-6",
+    key: "ZO_CompassFrame",
+    dock: AT_TOP,
+    displayOrder: 1,
+    inputModes: ["keyboard", "gamepad"],
+  })
+  expect(hudLayoutOf([], [both]).panels[0]?.inputModes).toEqual(["keyboard", "gamepad"])
+})
+
+test("a panel stating no input mode is refused", () => {
+  const modeless = asPage({ id: "panel-7", key: "ZO_CompassFrame", dock: AT_TOP, displayOrder: 1 })
+  expect(() => hudLayoutOf([], [modeless])).toThrow("the HUD page panel-7 states no inputModes")
+  const emptied = asPage({ ...modeless, id: "panel-8", inputModes: [] })
+  expect(() => hudLayoutOf([], [emptied])).toThrow("the HUD page panel-8 states no inputModes")
 })
 
 test("a panel measured by another control states that control, and no other panel does", () => {
@@ -62,14 +102,22 @@ test("a panel measured by another control states that control, and no other pane
     key: "ZO_HUDTrackers",
     dock: AT_TOP,
     displayOrder: 2,
+    inputModes: KEYBOARD,
     measuredBy: "ZO_HUDTrackersScrollContainerScrollChild",
   })
   expect(hudLayoutOf([], [COMPASS, trackers]).panels).toEqual([
-    { key: "ZO_CompassFrame", dock: top.slug, displayOrder: 1, neverMoves: false },
+    {
+      key: "ZO_CompassFrame",
+      dock: top.slug,
+      displayOrder: 1,
+      inputModes: KEYBOARD,
+      neverMoves: false,
+    },
     {
       key: "ZO_HUDTrackers",
       dock: top.slug,
       displayOrder: 2,
+      inputModes: KEYBOARD,
       neverMoves: false,
       measuredBy: "ZO_HUDTrackersScrollContainerScrollChild",
     },
@@ -99,6 +147,8 @@ test("the layout is written under TemperConfig's hudLayout", async () => {
   expect(written).toContain('["key"] = "ZO_ActionBar1",')
   expect(written).toContain('["displayOrder"] = 1,')
   expect(written).toContain('["neverMoves"] = true,')
+  expect(written).toContain('["inputModes"] =')
+  expect(written).toContain('"keyboard",')
 })
 
 test("the config built from the pages alone is the file the watcher writes", async () => {
