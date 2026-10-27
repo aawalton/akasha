@@ -9,6 +9,16 @@ export const temperWatcherImage = {
   repository: "cluster/temper-watcher",
   builtFromRoot: true,
   publishedByHand: true,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A new watcher reaches the game machine only once temper-web names its tag.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tray and the worker carry the source hash their image is tagged with.",
+    },
+  ],
   createdAt: "2026-09-03T17:42:44.317Z",
-  updatedAt: "2026-10-27T09:01:18.368Z",
+  updatedAt: "2026-10-27T12:30:12.235Z",
 } as const satisfies ContainerRecipe
