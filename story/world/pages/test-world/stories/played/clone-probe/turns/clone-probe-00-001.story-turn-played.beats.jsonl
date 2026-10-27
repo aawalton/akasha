@@ -1,4 +1,4 @@
-{"beat":1,"event":"He climbs the steps on the square's north side and enters the hall.","at":"2026-11-06T08:45:00.000Z","place":"place/test-world-hall","present":["character-player/clone-probe-player"]}
+{"beat":1,"event":"He climbs the steps on the square's north side and enters the hall.","at":"2026-11-06T08:45:00.000Z","place":"place/test-world-hall","present":["character-player/clone-probe-player"],"changes":[]}
 {"beat":2,"event":"The hall is one long room with a stone floor, swept and bare along its length."}
 {"beat":3,"event":"A hearth burns low at the far end, cots ranged beside it where travellers sleep."}
 {"beat":4,"event":"A table stands near the hearth for meals, benches pushed in under it."}
