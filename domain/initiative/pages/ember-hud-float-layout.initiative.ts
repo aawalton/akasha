@@ -7,7 +7,6 @@ export const emberHudFloatLayout = {
   domain: "domain/temper",
   persona: "persona/ember",
   intentStack: [
-    { statement: "The sandbox pictures the game's own HUD panels where the game places them." },
     { statement: "A HUD layout states each panel's dock and display order, and each dock's gap." },
     { statement: "The addon stacks each dock's panels away from that dock's edge or corner." },
     { statement: "A hidden panel takes no room and leaves no gap." },
@@ -21,5 +20,5 @@ export const emberHudFloatLayout = {
   ],
   constraints: ["No panel scrolls.", "Nothing here writes Edit HUD's saved positions."],
   createdAt: "2026-10-27T19:00:10.271Z",
-  updatedAt: "2026-10-27T19:00:10.271Z",
+  updatedAt: "2026-10-27T20:03:57.951Z",
 } as const satisfies Initiative
