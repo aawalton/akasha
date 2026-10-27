@@ -17,7 +17,8 @@ export const giftedReborn = {
     "played-panel/story-so-far",
     "played-panel/player-intent",
     "played-panel/quest-list",
+    "played-panel/difficulty",
   ],
   createdAt: "2026-10-27T19:39:20.989Z",
-  updatedAt: "2026-10-27T19:39:20.989Z",
+  updatedAt: "2026-10-27T20:38:17.019Z",
 } as const satisfies StoryPlayed
