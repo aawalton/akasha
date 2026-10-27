@@ -20,7 +20,11 @@ export const testWorldMagic = {
       fact: "A healing draught tastes sweet, with a faint edge of metal under the sweetness.",
       knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
     },
+    {
+      fact: "Drinking a healing draught spreads warmth through the chest.",
+      knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T22:52:01.034Z",
+  updatedAt: "2026-10-27T22:52:30.460Z",
 } as const satisfies Lore
