@@ -1,6 +1,7 @@
 import "akasha/check/test/modules/dom-registering/dom-registering.module.code.ts"
 import { expect, test } from "bun:test"
 import { fireEvent, render } from "@testing-library/react"
+import { widthClamped } from "akasha/story/world/stories/played/modules/played-sidebar-column/played-sidebar-column.module.code.tsx"
 import {
   BOTH,
   CLOSED,
@@ -27,15 +28,27 @@ function laid(placed: ReadonlyMap<string, ReactNode>) {
 }
 
 test("both sidebars fit beside the turns at desktop width", () => {
-  expect(sidebarsFitting(1184)).toBe(BOTH)
+  expect(sidebarsFitting(1440)).toBe(BOTH)
 })
 
 test("one sidebar fits beside the turns at a middling width", () => {
-  expect(sidebarsFitting(844)).toBe(ONE)
+  expect(sidebarsFitting(1000)).toBe(ONE)
 })
 
 test("no sidebar fits beside the turns at a narrow width", () => {
-  expect(sidebarsFitting(700)).toBe(NONE)
+  expect(sidebarsFitting(900)).toBe(NONE)
+})
+
+test("narrower sidebars fit where wider ones would not", () => {
+  expect(sidebarsFitting(1100, { left: 340, right: 340 })).toBe(BOTH)
+})
+
+test("a sidebar is never resized past leaving the turns their room", () => {
+  expect(widthClamped(900, 1440, 500)).toBe(520)
+})
+
+test("a sidebar is never resized narrower than its least width", () => {
+  expect(widthClamped(100, 1440, 0)).toBe(320)
 })
 
 test("where both fit, opening one side leaves the other open", () => {

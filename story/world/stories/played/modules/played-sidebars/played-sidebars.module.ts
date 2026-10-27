@@ -30,11 +30,15 @@ export const playedSidebars = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A sidebar is as wide as the old aside, so a panel is drawn at the width it had.",
+      statement: "A sidebar is beside the top bar and the turns rather than under the top bar.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No open sidebar leaves the turns narrower than 460 pixels.",
+      statement: "No open sidebar leaves the turns narrower than 420 pixels.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "On a desktop, the action bar stays at the foot of the window under the turns.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -59,5 +63,5 @@ export const playedSidebars = {
     },
   ],
   createdAt: "2026-10-27T18:38:10.173Z",
-  updatedAt: "2026-10-27T18:50:23.026Z",
+  updatedAt: "2026-10-27T20:01:16.453Z",
 } as const satisfies Module

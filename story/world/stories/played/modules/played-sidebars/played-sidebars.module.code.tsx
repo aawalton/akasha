@@ -3,10 +3,6 @@
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
-import {
-  ToggleGroup,
-  ToggleGroupItem,
-} from "akasha/design/interface/primitive/modules/toggle-group/toggle-group.module.code.tsx"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Shown } from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
 
@@ -15,7 +11,17 @@ import { chat } from "akasha/story/ui/played-panel/panel-place/pages/chat.panel-
 import { journal } from "akasha/story/ui/played-panel/panel-place/pages/journal.panel-place.ts"
 import { map } from "akasha/story/ui/played-panel/panel-place/pages/map.panel-place.ts"
 import { panelPlace } from "akasha/story/ui/played-panel/panel-place/panel-place.page-type.ts"
-import { BookOpen, type LucideIcon, Map as MapIcon, MessageCircle, User, X } from "lucide-react"
+import {
+  PlaceHead,
+  SidebarColumn,
+  storedWidths,
+  storeWidths,
+  TURNS_AT_LEAST,
+  WIDTHS,
+  type Widths,
+  widthClamped,
+} from "akasha/story/world/stories/played/modules/played-sidebar-column/played-sidebar-column.module.code.tsx"
+import { BookOpen, type LucideIcon, Map as MapIcon, MessageCircle, User } from "lucide-react"
 import {
   type ReactNode,
   useEffect,
@@ -53,14 +59,6 @@ export type Open = Sides & {
 
 export const CLOSED: Open = { left: null, right: null, last: "left" }
 
-const SIDEBAR_WIDTH = 300
-
-const SIDEBAR_GAP = 16
-
-const PAGE_PADDING = 48
-
-const TURNS_AT_LEAST = 460
-
 export const BOTH = 2
 
 export const ONE = 1
@@ -78,10 +76,13 @@ const TOP_BAR =
 
 const BAR_GROUP = "flex items-center gap-1"
 
-const BODY = "flex w-full items-start gap-4 px-6 pt-3 pb-12 min-[584px]:pt-6"
+const ROW = "flex w-full items-start"
 
-const SIDEBAR =
-  "sticky top-[calc(var(--safe-area-top)+4.5rem)] flex max-h-[calc(100dvh-var(--safe-area-top)-6rem)] w-[300px] shrink-0 flex-col gap-4 overflow-y-auto overscroll-contain [scrollbar-width:none]"
+const CENTER = "flex min-w-0 flex-1 flex-col"
+
+const BODY = "flex w-full px-6 pt-3 pb-12 min-[584px]:pt-6"
+
+const BAR_HELD = "z-10 pt-2 pb-4 min-[584px]:sticky min-[584px]:bottom-0"
 
 const TURNS = "mx-auto flex w-full min-w-0 max-w-[772px] flex-1 flex-col gap-6"
 
@@ -105,10 +106,7 @@ const TAB_BAR_ROOM = "h-[calc(3.5rem+var(--safe-area-bottom))] shrink-0"
 const PHONE_PLACE =
   "fixed inset-x-0 top-0 bottom-[calc(3.5rem+var(--safe-area-bottom))] z-30 flex flex-col overflow-y-auto overscroll-contain pt-(--safe-area-top)"
 
-const PHONE_PLACE_HEAD =
-  "sticky top-0 z-10 flex h-12 shrink-0 items-center justify-between gap-2 border-primary/10 border-b px-4"
-
-const PHONE_PLACE_TITLE = "font-medium text-primary text-sm"
+const PHONE_PLACE_HEAD = "sticky top-0 z-10"
 
 const PHONE_PLACE_BODY = "flex flex-col gap-4 p-4"
 
@@ -125,10 +123,9 @@ export function placedFrom(
   return placed
 }
 
-export function sidebarsFitting(width: number): number {
-  const beside = SIDEBAR_WIDTH + SIDEBAR_GAP
-  if (width >= TURNS_AT_LEAST + PAGE_PADDING + BOTH * beside) return BOTH
-  if (width >= TURNS_AT_LEAST + PAGE_PADDING + beside) return ONE
+export function sidebarsFitting(width: number, widths: Widths = WIDTHS): number {
+  if (width - widths.left - widths.right >= TURNS_AT_LEAST) return BOTH
+  if (width - Math.max(widths.left, widths.right) >= TURNS_AT_LEAST) return ONE
   return NONE
 }
 
@@ -251,36 +248,18 @@ function PhonePlace({
   look: Look
   beside: readonly Look[]
   drawn: ReactNode
-  onSwitch: (look: Look) => void
+  onSwitch: (slug: string) => void
   onClose: () => void
 }) {
   return (
     <div className={cn(PHONE_PLACE, surfaceClass(0))}>
-      <div className={cn(PHONE_PLACE_HEAD, surfaceClass(0))}>
-        {beside.length > ONE ? (
-          <ToggleGroup
-            type="single"
-            variant="elevation"
-            size="sm"
-            value={look.slug}
-            onValueChange={(slug) => {
-              const chosen = beside.find((one) => one.slug === slug)
-              if (chosen !== undefined) onSwitch(chosen)
-            }}
-          >
-            {beside.map((one) => (
-              <ToggleGroupItem key={one.slug} value={one.slug} className="px-3">
-                {one.label}
-              </ToggleGroupItem>
-            ))}
-          </ToggleGroup>
-        ) : (
-          <span className={PHONE_PLACE_TITLE}>{look.label}</span>
-        )}
-        <Button type="button" variant="tertiary" size="icon" aria-label="Close" onClick={onClose}>
-          <X />
-        </Button>
-      </div>
+      <PlaceHead
+        chosen={look}
+        beside={beside}
+        onSwitch={onSwitch}
+        onClose={onClose}
+        className={cn(PHONE_PLACE_HEAD, surfaceClass(0))}
+      />
       <div className={PHONE_PLACE_BODY}>{drawn}</div>
     </div>
   )
@@ -302,11 +281,12 @@ export function PlayedSidebars({
   const [rootAt, width] = useWidth()
   const phone = useSyncExternalStore(subscribePhone, phoneNow, phoneOnServer)
   const [open, setOpen] = useState<Open>(CLOSED)
+  const [widths, setWidths] = useState<Widths>(WIDTHS)
   const textAt = useRef(0)
   const restored = useRef(false)
   const looks = LOOKS.filter((look) => placed.has(look.slug))
   const slugs: ReadonlySet<string> = new Set(looks.map((look) => look.slug))
-  const fitting = phone ? NONE : sidebarsFitting(width)
+  const fitting = phone ? NONE : sidebarsFitting(width, widths)
   const shown = shownOf(open, slugs, fitting)
   const covered = fitting === NONE ? (shown.left ?? shown.right) : null
   const coverLook = looks.find((look) => look.slug === covered)
@@ -314,7 +294,9 @@ export function PlayedSidebars({
   useEffect(() => {
     if (restored.current || width === NONE) return
     restored.current = true
-    if (!phone && sidebarsFitting(width) > NONE) setOpen(storedOpen())
+    const kept = storedWidths()
+    setWidths(kept)
+    if (!phone && sidebarsFitting(width, kept) > NONE) setOpen(storedOpen())
   }, [width, phone])
 
   useEffect(() => {
@@ -344,43 +326,73 @@ export function PlayedSidebars({
   }
   const press = (look: Look) => choose(toggled(open, look.slug, look.side, slugs, fitting))
   const isOn = (look: Look) => shown[look.side] === look.slug
-  const sidebar = (slug: string | null) =>
-    fitting === NONE || slug === null ? null : <aside className={SIDEBAR}>{placed.get(slug)}</aside>
+  const switchTo = (side: Side) => (slug: string) =>
+    choose(toggled(open, slug, side, slugs, fitting))
+  const resize = (side: Side, wanted: number) => {
+    const beside = shown[otherSide(side)] === null ? NONE : widths[otherSide(side)]
+    const kept = widthClamped(wanted, width, beside)
+    const next = side === "left" ? { ...widths, left: kept } : { ...widths, right: kept }
+    setWidths(next)
+    storeWidths(next)
+  }
+  const sidebar = (side: Side) => {
+    const look = looks.find((one) => one.slug === shown[side])
+    if (fitting === NONE || look === undefined) return null
+    return (
+      <SidebarColumn
+        side={side}
+        width={widths[side]}
+        onWidth={(wanted) => resize(side, wanted)}
+        held={{
+          chosen: look,
+          beside: looks.filter((one) => one.side === side),
+          onSwitch: switchTo(side),
+          onClose: () => choose(withSide(open, side, null)),
+        }}
+      >
+        {placed.get(look.slug)}
+      </SidebarColumn>
+    )
+  }
 
   return (
     <div ref={rootAt} className={ROOT}>
-      {phone || looks.length === NONE ? null : (
-        <div className={cn(TOP_BAR, surfaceClass(0))}>
-          {(["left", "right"] as const).map((side) => (
-            <div key={side} className={BAR_GROUP}>
-              {looks
-                .filter((look) => look.side === side)
-                .map((look) => (
-                  <PlaceButton
-                    key={look.slug}
-                    look={look}
-                    on={isOn(look)}
-                    onPress={() => press(look)}
-                  />
-                ))}
+      <div className={ROW}>
+        {sidebar("left")}
+        <div className={CENTER}>
+          {phone || looks.length === NONE ? null : (
+            <div className={cn(TOP_BAR, surfaceClass(0))}>
+              {(["left", "right"] as const).map((side) => (
+                <div key={side} className={BAR_GROUP}>
+                  {looks
+                    .filter((look) => look.side === side)
+                    .map((look) => (
+                      <PlaceButton
+                        key={look.slug}
+                        look={look}
+                        on={isOn(look)}
+                        onPress={() => press(look)}
+                      />
+                    ))}
+                </div>
+              ))}
             </div>
-          ))}
-        </div>
-      )}
-      <div className={BODY}>
-        {sidebar(shown.left)}
-        <div className={TURNS}>
-          {phone || covered === null ? null : (
-            <div className={PLACE_COLUMN}>{placed.get(covered)}</div>
           )}
-          <div className={!phone && covered !== null ? SET_ASIDE : TURNS_TEXT}>
-            {head}
-            {panelsAbove}
-            {runDrawn}
+          <div className={BODY}>
+            <div className={TURNS}>
+              {phone || covered === null ? null : (
+                <div className={PLACE_COLUMN}>{placed.get(covered)}</div>
+              )}
+              <div className={!phone && covered !== null ? SET_ASIDE : TURNS_TEXT}>
+                {head}
+                {panelsAbove}
+                {runDrawn}
+              </div>
+              {bar == null ? null : <div className={cn(BAR_HELD, surfaceClass(0))}>{bar}</div>}
+            </div>
           </div>
-          {bar}
         </div>
-        {sidebar(shown.right)}
+        {sidebar("right")}
       </div>
       {phone && looks.length > NONE ? <div className={TAB_BAR_ROOM} /> : null}
       {phone && coverLook !== undefined ? (
@@ -388,7 +400,7 @@ export function PlayedSidebars({
           look={coverLook}
           beside={looks.filter((look) => look.side === coverLook.side)}
           drawn={placed.get(coverLook.slug)}
-          onSwitch={(look) => choose(toggled(open, look.slug, look.side, slugs, fitting))}
+          onSwitch={switchTo(coverLook.side)}
           onClose={() => choose(withSide(open, coverLook.side, null))}
         />
       ) : null}

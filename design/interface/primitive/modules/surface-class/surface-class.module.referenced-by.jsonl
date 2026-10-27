@@ -114,6 +114,7 @@
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"story/world/stories/played/modules/action-bar/action-bar.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"story/world/stories/played/modules/chat-panel/chat-panel.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"story/world/stories/played/modules/played-sidebar-column/played-sidebar-column.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"story/world/stories/played/modules/played-sidebars/played-sidebars.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"temper/web/modules/account-tab/account-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"temper/web/modules/attributes-panel-card/attributes-panel-card.module.code.tsx","typed":false,"deferred":false}

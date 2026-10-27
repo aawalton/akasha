@@ -31,6 +31,7 @@ export const storyPlayed = {
     "module/played-beside",
     "module/played-layout",
     "module/played-sidebars",
+    "module/played-sidebar-column",
     "module/player-beside",
     "module/played-channel",
     "module/played-panels",
@@ -156,5 +157,5 @@ export const storyPlayed = {
     { pageProperty: "file-property/chat", required: false, many: false, default: "jsonl" },
   ],
   createdAt: "2026-09-02T22:01:28.988Z",
-  updatedAt: "2026-10-27T19:56:41.328Z",
+  updatedAt: "2026-10-27T20:01:16.453Z",
 } as const satisfies PageType
