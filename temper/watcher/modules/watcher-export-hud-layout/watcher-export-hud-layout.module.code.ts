@@ -70,16 +70,19 @@ export function hudLayoutOf(docks: readonly Page[], panels: readonly Page[]): Hu
   return { docks: gaps, panels: panels.map(panelOf).sort(byDockThenDisplayOrder) }
 }
 
+export async function coreConfigFromPages(collect: PageCollect = collectPages): Promise<string> {
+  const [docks, panels] = await Promise.all([
+    collect({ pageTypeSlug: DOCK_PAGE_TYPE_SLUG, pageSize: PAGES_PER_READ }),
+    collect({ pageTypeSlug: PANEL_PAGE_TYPE_SLUG, pageSize: PAGES_PER_READ }),
+  ])
+  return serializeCoreConfigFile({ hudLayout: hudLayoutOf(docks, panels) })
+}
+
 export async function runExportHudLayout(
   coreConfigPath: string | undefined,
   seams: ExportHudLayoutSeams = {}
 ): Promise<string | null> {
   if (coreConfigPath === undefined) return null
-  const collect = seams.collect ?? collectPages
-  const [docks, panels] = await Promise.all([
-    collect({ pageTypeSlug: DOCK_PAGE_TYPE_SLUG, pageSize: PAGES_PER_READ }),
-    collect({ pageTypeSlug: PANEL_PAGE_TYPE_SLUG, pageSize: PAGES_PER_READ }),
-  ])
-  const content = serializeCoreConfigFile({ hudLayout: hudLayoutOf(docks, panels) })
+  const content = await coreConfigFromPages(seams.collect)
   return writeSideFileIfChanged(coreConfigPath, content, seams.disk)
 }

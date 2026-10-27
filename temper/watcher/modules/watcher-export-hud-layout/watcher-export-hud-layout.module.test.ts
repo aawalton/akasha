@@ -3,6 +3,7 @@ import { asPage, type Page } from "akasha/page/core/modules/page-types/page-type
 import { bottom } from "akasha/temper/addon/shared/hud-component/temper-hud-dock/pages/bottom.temper-hud-dock.ts"
 import { top } from "akasha/temper/addon/shared/hud-component/temper-hud-dock/pages/top.temper-hud-dock.ts"
 import {
+  coreConfigFromPages,
   DOCK_PAGE_TYPE_SLUG,
   hudLayoutOf,
   runExportHudLayout,
@@ -78,6 +79,13 @@ test("the layout is written under TemperConfig's hudLayout", async () => {
   expect(written).toContain('["key"] = "ZO_ActionBar1",')
   expect(written).toContain('["displayOrder"] = 1,')
   expect(written).toContain('["neverMoves"] = true,')
+})
+
+test("the config built from the pages alone is the file the watcher writes", async () => {
+  const h = held(undefined)
+  const collect = collecting([BOTTOM, TOP], [COMPASS, ACTION_BAR])
+  await runExportHudLayout(PATH, { collect, disk: h.disk })
+  expect(await coreConfigFromPages(collect)).toBe(h.content() ?? "")
 })
 
 test("an unchanged layout is not written again", async () => {

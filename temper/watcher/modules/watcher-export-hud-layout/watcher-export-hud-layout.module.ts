@@ -26,7 +26,12 @@ export const watcherExportHudLayout = {
       decisionKind: "decision-kind/departure",
       statement: "No config path given writes nothing and answers no hash.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The config is built from the pages apart from writing it, so the sandbox stages the same file.",
+    },
   ],
   createdAt: "2026-10-27T19:18:31.117Z",
-  updatedAt: "2026-10-27T19:26:45.205Z",
+  updatedAt: "2026-10-27T19:35:50.116Z",
 } as const satisfies Module
