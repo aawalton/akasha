@@ -7,8 +7,8 @@ export const giftedRebornNala = {
   title: "Nala",
   world: "world/gifted",
   story: "story-played/gifted-reborn",
-  place: "place/gifted-outpost-common-room",
+  place: "place/gifted-womb",
   person: "person/alan",
   createdAt: "2026-10-27T19:39:20.989Z",
-  updatedAt: "2026-10-27T19:39:20.989Z",
+  updatedAt: "2026-10-27T21:50:33.226Z",
 } as const satisfies CharacterPlayer

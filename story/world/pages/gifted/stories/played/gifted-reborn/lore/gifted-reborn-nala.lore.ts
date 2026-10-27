@@ -22,15 +22,19 @@ export const giftedRebornNala = {
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
-      fact: "At four months in the womb she tore the weakened demon apart and absorbed it.",
+      fact: "The light at the Ocean's surface scoured her and burned away some of her memories.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
-      fact: "The Myriad Paths let her manage her own Status after she kicked twice to show she could.",
+      fact: "The demon wrapped itself around her, so the light burned it far worse than her.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
-      fact: "Her Status is written in English, which nobody in this world speaks.",
+      fact: "She is now in an unborn body, and the demon holds the other half of it.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
+    {
+      fact: "The demon is weak and whimpering beside her, burned by the light.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
@@ -38,38 +42,14 @@ export const giftedRebornNala = {
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
-      fact: "She was born to a demon cult; she calls its mother Birther, and its men King, Rat and Echo.",
+      fact: "She cannot see or speak; she feels the body by spreading her soul through it.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
-      fact: "Birther cut Nala's throat as adventurers stormed the hideout, and Nala nearly bled to death.",
+      fact: "She has no Status yet, and no name in this world.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
-    },
-    {
-      fact: "She is about a week old, with copper hair and dark green eyes.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
-    },
-    {
-      fact: "She understands no word of Helenian yet.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
-    },
-    {
-      fact: "Her eyes see only blurs beyond an arm's length, and she cannot yet hold up her head.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
-    },
-    {
-      fact: "She tires fast and falls asleep often, however hard she fights it.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
-    },
-    {
-      fact: "Penelope named her Nala on sight, and her Status took the name.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
-    },
-    {
-      fact: "Cornelius agreed to keep her at the outpost, where he can watch she is no demonspawn.",
-      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-27T19:43:14.106Z",
+  updatedAt: "2026-10-27T21:50:33.226Z",
 } as const satisfies Lore
