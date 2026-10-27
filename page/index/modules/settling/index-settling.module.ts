@@ -92,7 +92,12 @@ export const indexSettling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A change turning a property's slug turns every reference line naming that slug.",
+      statement: "A change turning a property's slug turns the reference lines naming that slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A line is turned only where its page names through that property as the change leaves it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -202,5 +207,5 @@ export const indexSettling = {
     },
   ],
   createdAt: "2026-09-10T15:53:45.900Z",
-  updatedAt: "2026-09-29T00:10:15.000Z",
+  updatedAt: "2026-10-27T21:49:51.888Z",
 } as const satisfies Module

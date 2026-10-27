@@ -46,11 +46,13 @@ import {
 import {
   importedFrom,
   linesRenamedIn,
+  type NamesNow,
   NOTHING_FILED as NOTHING_REFERENCED,
   namedFrom,
+  namedOut,
   ownedAnew,
   propertiesRenamedIn,
-  turnedLine,
+  turnedWhereNamed,
 } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
 import {
   referencesAt,
@@ -293,6 +295,10 @@ export function settlingOver(
   })
   const vacated = new Set(emptied.map((one) => one.at))
   const renamed = propertiesRenamedIn(held)
+  const namesNow: NamesNow = (path) => {
+    const value = nowPageOf(path)
+    return value === null ? [] : namedOut(value, known, rowsFor(path, value, known, nowBody))
+  }
   const movedTo = new Map(
     emptied.flatMap((one) =>
       one.to === undefined || one.to === one.at ? [] : [[one.at, one.to] as const]
@@ -310,9 +316,9 @@ export function settlingOver(
     const said = LISTED_LINE.safeParse(JSON.parse(one.line))
     if (!said.success) return []
     if (carriedAt.has(said.data.path)) return []
-    return [{ at: to, line: turnedLine(one.line, renamed) }]
+    return [{ at: to, line: turnedWhereNamed(to, one.line, renamed, namesNow) }]
   })
-  const turnedNames = linesRenamedIn(reading, wasKnown, renamed, carriedAt, vacated)
+  const turnedNames = linesRenamedIn(reading, wasKnown, renamed, carriedAt, vacated, namesNow)
   const owned = ownedAnew(held, repo, carriedAt)
   const ownedBody = (at: string, over: Reading, named: typeof naming): readonly Entry[] => {
     const body = bodyAt(at)

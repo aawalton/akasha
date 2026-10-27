@@ -177,6 +177,32 @@ test("a property renamed turns the lines its slug names beside a page no change 
   expect(namedAt(tree, "part-slugs")).toBe(false)
 })
 
+const SHARING = aProperty("14", "part-slugs", "text-property", { propertySlug: "jot" })
+
+const SHARING_RENAMED: Named = [
+  "jot-slugs.text-property.ts",
+  { id: "14", type: `${pageType.slug}/text-property`, slug: "jot-slugs", propertySlug: "jot" },
+]
+
+test("a property renamed leaves the lines another property sharing its old slug names", () => {
+  const tree = heldAt()
+  const root = heldAt()
+  const first = indexingAt(root, tree)
+  wrote(first, tree, [...IDENTIFIERS, NAMING, SHARING, CARRIER, TARGET_PAGE, SOURCE_PAGE])
+  expect(first.settle()).toEqual([])
+  expect(namedAt(tree, "part-slugs")).toBe(true)
+
+  const second = indexingAt(root, tree)
+  const gone = join(tree, SHARING[0])
+  second.took(gone, readFileSync(gone, "utf8"))
+  rmSync(gone)
+  wrote(second, tree, [SHARING_RENAMED])
+  expect(second.settle()).toEqual([])
+
+  expect(namedAt(tree, "part-slugs")).toBe(true)
+  expect(namedAt(tree, "jot-slugs")).toBe(false)
+})
+
 const ROW_SHAPES = aType("13", "page-property-entry", ["page-property"])
 
 const CASE_PAGE = aProperty("6", "case-page", "relation-property", { targetPageType: "domain" })

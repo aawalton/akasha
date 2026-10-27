@@ -73,6 +73,11 @@ export const pageReferenceFiling = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A line whose page names through another property sharing that old slug is left as it was.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A page arriving at a path owns every file whose name opens with that page's name.",
     },
     {
@@ -81,5 +86,5 @@ export const pageReferenceFiling = {
     },
   ],
   createdAt: "2026-09-15T02:55:00.484Z",
-  updatedAt: "2026-09-29T00:10:15.000Z",
+  updatedAt: "2026-10-27T21:49:51.888Z",
 } as const satisfies Module

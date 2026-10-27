@@ -215,6 +215,24 @@ export function turnedLine(line: string, renamed: ReadonlyMap<string, string>): 
   return to === undefined ? line : lineOf({ ...one, propertySlug: to })
 }
 
+export type NamesNow = (path: string) => readonly NamedOut[]
+
+export function turnedWhereNamed(
+  at: string,
+  line: string,
+  renamed: ReadonlyMap<string, string>,
+  namesNow: NamesNow
+): string {
+  const one = referenceIn(line)
+  if (one === null) return line
+  const to = renamed.get(one.propertySlug)
+  if (to === undefined) return line
+  const named = namesNow(one.path).some(
+    (held) => held.propertySlug === to && referencesAt(held.path) === at
+  )
+  return named ? turnedLine(line, renamed) : line
+}
+
 function filesNaming(
   reading: Reading,
   known: Shaped,
@@ -239,18 +257,22 @@ export function linesRenamedIn(
   known: Shaped,
   renamed: ReadonlyMap<string, string>,
   carried: ReadonlySet<string>,
-  vacated: ReadonlySet<string>
+  vacated: ReadonlySet<string>,
+  namesNow: NamesNow
 ): { readonly was: readonly Entry[]; readonly now: readonly Entry[] } {
   const was: Entry[] = []
+  const now: Entry[] = []
   for (const at of filesNaming(reading, known, renamed)) {
     if (vacated.has(at)) continue
     for (const line of (reading.read(at) ?? "").split("\n")) {
       const one = line === "" ? null : referenceIn(line)
       if (one === null || !renamed.has(one.propertySlug) || carried.has(one.path)) continue
+      const turned = turnedWhereNamed(at, line, renamed, namesNow)
+      if (turned === line) continue
       was.push({ at, line })
+      now.push({ at, line: turned })
     }
   }
-  const now = was.map((one) => ({ at: one.at, line: turnedLine(one.line, renamed) }))
   return { was, now }
 }
 
