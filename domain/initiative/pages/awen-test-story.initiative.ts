@@ -1,0 +1,36 @@
+import type { Initiative } from "akasha/domain/initiative/initiative.page-type.types.ts"
+
+export const awenTestStory = {
+  id: "01a17ebf-60e0-7113-aaf7-7b557cdbdc9f",
+  type: "page-type/initiative",
+  slug: "awen-test-story",
+  domain: "domain/story-engine",
+  persona: "persona/awen",
+  parent: "initiative/awen-story-engine-v3",
+  intentStack: [
+    {
+      statement: "A test world holds the lore, places and mechanics a played story needs.",
+      workingMemory:
+        "Alan asked for an explicit test world and test story, since every played story is being removed under `awen-story-removal`. Its slugs and titles say test. Use the character data shapes as `awen-character-data` lands them: item category, skill experience and attribute, character-title, metric-character-point.\n",
+    },
+    { statement: "A played test story in that world has a player character." },
+    {
+      statement:
+        "The test player character has a level, XP, resources, attributes and unspent points.",
+    },
+    {
+      statement:
+        "The test player character holds skills, traits, titles and items of every category.",
+    },
+    { statement: "The test story has turns and a closed chapter to show." },
+    {
+      statement:
+        "The test story names a panel in each of the character, journal, map and chat places.",
+    },
+  ],
+  constraints: [
+    "The test story is played only by agents testing the engine, never offered to Alan.",
+  ],
+  createdAt: "2026-10-27T19:03:53.823Z",
+  updatedAt: "2026-10-27T19:03:53.823Z",
+} as const satisfies Initiative
