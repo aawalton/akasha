@@ -2,6 +2,10 @@
 {"propertySlug":"import","fileName":"panel-place.page-type.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/ui/played-panel/panel-place/pages/above.panel-place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/ui/played-panel/panel-place/pages/aside.panel-place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/ui/played-panel/panel-place/pages/character.panel-place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/ui/played-panel/panel-place/pages/chat.panel-place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/ui/played-panel/panel-place/pages/journal.panel-place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/ui/played-panel/panel-place/pages/map.panel-place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/ui/played-panel/panel-place/pages/run.panel-place.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/ui/played-panel/played-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}
 {"propertySlug":"target-page-type","path":"story/ui/played-panel/properties/drawn-in.relation-property.ts","id":"01a0c4c8-fe4c-7fa4-ae78-af86f4bbc920"}

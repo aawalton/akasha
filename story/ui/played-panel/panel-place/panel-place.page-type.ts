@@ -6,7 +6,15 @@ export const panelPlace = {
   slug: "panel-place",
   definition: "where in a played story's layout a panel is drawn",
   extends: ["page-type/domain"],
-  parts: ["panel-place/above", "panel-place/aside", "panel-place/run"],
+  parts: [
+    "panel-place/above",
+    "panel-place/aside",
+    "panel-place/run",
+    "panel-place/character",
+    "panel-place/journal",
+    "panel-place/map",
+    "panel-place/chat",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -24,5 +32,5 @@ export const panelPlace = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T16:28:55.825Z",
-  updatedAt: "2026-09-28T12:27:35.000Z",
+  updatedAt: "2026-10-27T18:30:31.321Z",
 } as const satisfies PageType
