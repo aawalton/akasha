@@ -10,10 +10,6 @@ export const awenOutcomeTiers = {
   intentStack: [
     {
       statement:
-        "One formula scores every ability check from its dice, skill, modifiers and both difficulties.",
-    },
-    {
-      statement:
         "The game master sets each action's difficulty and its situational modifiers, never the score.",
     },
     { statement: "Each outcome has one instruction the writer is served." },
@@ -27,5 +23,5 @@ export const awenOutcomeTiers = {
     "Alan approves the shape of each new page type or property before it is built.",
   ],
   createdAt: "2026-10-27T19:45:05.667Z",
-  updatedAt: "2026-10-27T20:51:01.680Z",
+  updatedAt: "2026-10-27T20:51:03.509Z",
 } as const satisfies Initiative
