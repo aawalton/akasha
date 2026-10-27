@@ -10,7 +10,16 @@ export const playedOutcomes = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A card heads the turn its line is beside, above that turn's prose.",
+      statement: "A turn's cards are drawn before its first paragraph.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter's cards are drawn before the paragraph the turn each line names starts at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter line whose turn the chapter kept no start for draws no card.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,5 +39,5 @@ export const playedOutcomes = {
     },
   ],
   createdAt: "2026-10-27T20:40:18.723Z",
-  updatedAt: "2026-10-27T20:40:18.723Z",
+  updatedAt: "2026-10-27T21:15:59.502Z",
 } as const satisfies Module

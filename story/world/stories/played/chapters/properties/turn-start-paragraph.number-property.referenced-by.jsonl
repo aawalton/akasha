@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"turn-start-paragraph.number-property.ts","path":"story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-start-paragraph.number-property.types.ts","path":"story/world/stories/played/chapters/properties/chapter-turn-starts.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"story/world/stories/played/chapters/properties/chapter-turn-starts.record-property.ts","id":"01a17f34-c641-7a15-a720-6049f8582e9e"}
 {"propertySlug":"parts","path":"story/world/stories/played/chapters/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}

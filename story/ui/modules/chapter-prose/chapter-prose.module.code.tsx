@@ -28,7 +28,10 @@ const NO_COVERS: readonly InlineCover[] = []
 type Drawing = {
   readonly placed: Placed<InlineCover>
   readonly asker?: RerollAsker | undefined
+  readonly before: ReadonlyMap<number, ReactNode>
 }
+
+const NOTHING_BEFORE: ReadonlyMap<number, ReactNode> = new Map()
 
 function CoversAfter({ covers, drawing }: { covers: readonly InlineCover[]; drawing: Drawing }) {
   return (
@@ -92,6 +95,7 @@ function ProseBlocks({
     <>
       {blocks.map((block, i) => (
         <Fragment key={i}>
+          {drawing.before.get(start + i) ?? null}
           <ProseBlock block={block} muted={muted} />
           <CoversAfter
             covers={drawing.placed.after.get(start + i) ?? NO_COVERS}
@@ -158,6 +162,7 @@ export function ChapterProse({
   text,
   segments,
   covers,
+  before,
   asker,
   muted,
   gameExternalId,
@@ -167,6 +172,7 @@ export function ChapterProse({
   text: string
   segments?: readonly ClientProseSegment[]
   covers?: readonly InlineCover[]
+  before?: ReadonlyMap<number, ReactNode>
   asker?: RerollAsker | undefined
   muted: boolean
   gameExternalId?: string
@@ -181,7 +187,10 @@ export function ChapterProse({
   const drawing: Drawing = {
     placed: placedAfter(blocks.flat(), covers ?? NO_COVERS),
     asker,
+    before: before ?? NOTHING_BEFORE,
   }
+  const drawn = blocks.flat().length
+  const unreached = [...drawing.before.entries()].filter(([at]) => at >= drawn)
   return (
     <section className="flex flex-col gap-3">
       <div className={`flex flex-col gap-[0.8em] ${READER_PROSE_TYPOGRAPHY}`}>
@@ -202,6 +211,9 @@ export function ChapterProse({
         ) : (
           <ProseBlocks blocks={blocks[0] ?? []} start={0} muted={muted} drawing={drawing} />
         )}
+        {unreached.map(([at, node]) => (
+          <Fragment key={`before:${at}`}>{node}</Fragment>
+        ))}
         <CoversAfter covers={drawing.placed.rest} drawing={drawing} />
       </div>
     </section>

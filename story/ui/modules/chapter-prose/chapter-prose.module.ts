@@ -14,6 +14,11 @@ export const chapterProse = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "What is handed to go before a paragraph is drawn before it, or at the end past the last.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A paragraph wholly in square brackets is an aside rather than story.",
     },
     {
@@ -27,5 +32,5 @@ export const chapterProse = {
     },
   ],
   createdAt: "2026-09-02T17:25:53.928Z",
-  updatedAt: "2026-10-17T18:03:18.065Z",
+  updatedAt: "2026-10-27T21:15:59.502Z",
 } as const satisfies Module

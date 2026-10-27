@@ -18,7 +18,8 @@ export const playedChannel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn's outcome cards are drawn above its prose.",
+      statement:
+        "A turn's outcome cards are drawn before its first paragraph, and a chapter's before each turn's.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -60,5 +61,5 @@ export const playedChannel = {
     },
   ],
   createdAt: "2026-09-14T19:26:29.125Z",
-  updatedAt: "2026-10-27T20:41:29.968Z",
+  updatedAt: "2026-10-27T21:15:59.502Z",
 } as const satisfies Module

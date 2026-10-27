@@ -6,7 +6,11 @@ import { greatSuccess } from "akasha/story/world/mechanics/checks/outcome-tiers/
 import { difficultyLevel } from "akasha/story/world/stories/played/difficulty-levels/difficulty-level.page-type.ts"
 import { normal } from "akasha/story/world/stories/played/difficulty-levels/pages/normal.difficulty-level.ts"
 import { veryHard } from "akasha/story/world/stories/played/difficulty-levels/pages/very-hard.difficulty-level.ts"
-import { outcomeCardsOf } from "akasha/story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx"
+import {
+  cardsPlacedOf,
+  outcomeCardsOf,
+  startsIn,
+} from "akasha/story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx"
 
 const TERMS = [
   { from: "Swordplay", by: 35 },
@@ -42,6 +46,32 @@ test("a tiered line is a card naming its skill, difficulty, outcome and terms by
 test("a story level other than Normal is a term of its own", () => {
   const [card] = outcomeCardsOf(lineAt(veryHard))
   expect(card?.terms).toEndWith(`${veryHard.title} story −${Math.abs(veryHard.oddsModifier)}`)
+})
+
+test("a turn's cards are drawn before its first paragraph", () => {
+  const placed = cardsPlacedOf(lineAt(normal), null)
+  expect([...placed.keys()]).toEqual([0])
+})
+
+test("a chapter's cards are drawn before the paragraph their own turn starts at", () => {
+  const first = JSON.stringify({ ...JSON.parse(lineAt(normal)), turn: 3 })
+  const second = JSON.stringify({ ...JSON.parse(lineAt(normal)), turn: 8 })
+  const placed = cardsPlacedOf(
+    `${first}\n${second}\n`,
+    startsIn([
+      { position: 3, paragraph: 0 },
+      { position: 8, paragraph: 14 },
+    ])
+  )
+  expect([...placed.entries()].map(([at, cards]) => [at, cards.length])).toEqual([
+    [0, 1],
+    [14, 1],
+  ])
+})
+
+test("a chapter line naming no turn it kept a start for draws no card", () => {
+  const unturned = cardsPlacedOf(lineAt(normal), startsIn([{ position: 8, paragraph: 14 }]))
+  expect(unturned.size).toBe(0)
 })
 
 test("a line no tiered roll answered draws no card", () => {

@@ -2,6 +2,7 @@
 
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type { PageWatch } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
 import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import { getPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
@@ -22,6 +23,9 @@ import { failure } from "akasha/story/world/mechanics/checks/outcome-tiers/pages
 import { greatSuccess } from "akasha/story/world/mechanics/checks/outcome-tiers/pages/great-success.outcome-tier.ts"
 import { mixedResults } from "akasha/story/world/mechanics/checks/outcome-tiers/pages/mixed-results.outcome-tier.ts"
 import { success } from "akasha/story/world/mechanics/checks/outcome-tiers/pages/success.outcome-tier.ts"
+import { chapterTurnStarts } from "akasha/story/world/stories/played/chapters/properties/chapter-turn-starts.record-property.ts"
+import { turnStartParagraph } from "akasha/story/world/stories/played/chapters/properties/turn-start-paragraph.number-property.ts"
+import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.ts"
 import { difficultyLevel } from "akasha/story/world/stories/played/difficulty-levels/difficulty-level.page-type.ts"
 import { easy as easyLevel } from "akasha/story/world/stories/played/difficulty-levels/pages/easy.difficulty-level.ts"
 import { hard as hardLevel } from "akasha/story/world/stories/played/difficulty-levels/pages/hard.difficulty-level.ts"
@@ -32,7 +36,7 @@ import {
   askedLoudly,
   reportThrown,
 } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
-import { useEffect, useState } from "react"
+import { type ReactNode, useEffect, useState } from "react"
 
 const ID_KEY = "id"
 
@@ -41,6 +45,16 @@ const OUTCOMES_KEY = "outcomes"
 const ANSWERED = "answered"
 
 const LEVEL = "difficultyLevel"
+
+const TURN = "turn"
+
+const STARTS_KEY = exportedAs(chapterTurnStarts.propertySlug)
+
+const POSITION = "position"
+
+const PARAGRAPH = exportedAs(turnStartParagraph.propertySlug)
+
+const FIRST_PARAGRAPH = 0
 
 const BREAK = "\n"
 
@@ -110,7 +124,9 @@ function levelTerm(value: unknown): string | null {
   return `${titleOf(value["level"])} story ${signed(by)}`
 }
 
-function cardOf(line: string): OutcomeCard | null {
+type Lined = { readonly card: OutcomeCard; readonly turn: number | null }
+
+function linedOf(line: string): Lined | null {
   let read: unknown
   try {
     read = JSON.parse(line)
@@ -126,43 +142,82 @@ function cardOf(line: string): OutcomeCard | null {
   const terms = termsIn(answered["terms"])
   const said = terms.map((one) => `${one.from} ${signed(one.by)}`)
   const level = levelTerm(read[LEVEL])
+  const turn = read[TURN]
   return {
-    skill: terms[0]?.from ?? "",
-    actionDifficulty: titleOf(difficulty),
-    outcome: titleOf(outcome),
-    terms: [...said, ...(level === null ? [] : [level])].join(JOINED),
+    card: {
+      skill: terms[0]?.from ?? "",
+      actionDifficulty: titleOf(difficulty),
+      outcome: titleOf(outcome),
+      terms: [...said, ...(level === null ? [] : [level])].join(JOINED),
+    },
+    turn: typeof turn === "number" ? turn : null,
   }
 }
 
-export function outcomeCardsOf(text: string): readonly OutcomeCard[] {
+function linesOf(text: string): readonly Lined[] {
   return text
     .split(BREAK)
     .filter((one) => one.trim() !== "")
     .flatMap((one) => {
-      const card = cardOf(one)
-      return card === null ? [] : [card]
+      const lined = linedOf(one)
+      return lined === null ? [] : [lined]
     })
 }
 
-type Cards = ReadonlyMap<string, readonly OutcomeCard[]>
+export function outcomeCardsOf(text: string): readonly OutcomeCard[] {
+  return linesOf(text).map((one) => one.card)
+}
+
+export type PlacedCards = ReadonlyMap<number, readonly OutcomeCard[]>
+
+export function cardsPlacedOf(
+  text: string,
+  starts: ReadonlyMap<number, number> | null
+): PlacedCards {
+  const placed = new Map<number, OutcomeCard[]>()
+  for (const one of linesOf(text)) {
+    const at = starts === null ? FIRST_PARAGRAPH : starts.get(one.turn ?? Number.NaN)
+    if (at === undefined) continue
+    placed.set(at, [...(placed.get(at) ?? []), one.card])
+  }
+  return placed
+}
+
+export function startsIn(value: unknown): ReadonlyMap<number, number> {
+  const starts = new Map<number, number>()
+  if (!Array.isArray(value)) return starts
+  for (const one of value) {
+    if (!isRecord(one)) continue
+    const position = one[POSITION]
+    const paragraph = one[PARAGRAPH]
+    if (typeof position === "number" && typeof paragraph === "number") {
+      starts.set(position, paragraph)
+    }
+  }
+  return starts
+}
+
+type Cards = ReadonlyMap<string, PlacedCards>
 
 const NO_CARDS: Cards = new Map()
 
 async function readOutcomes(pageTypeSlug: string, ids: readonly string[]): Promise<Cards | null> {
+  const chaptered = pageTypeSlug === storyChapterPlayed.slug
   const asked = await askedLoudly({
     "page-type": pageTypeSlug,
     where: { id: { in: [...ids] } },
-    keys: [ID_KEY, OUTCOMES_KEY],
+    keys: chaptered ? [ID_KEY, OUTCOMES_KEY, STARTS_KEY] : [ID_KEY, OUTCOMES_KEY],
     files: [OUTCOMES_KEY],
   })
   if (!asked.ok) return null
-  const held = new Map<string, readonly OutcomeCard[]>()
+  const held = new Map<string, PlacedCards>()
   for (const row of asked.answer.rows) {
     const id = row.values[ID_KEY]
     const text = row.values[OUTCOMES_KEY]
     if (typeof id !== "string" || typeof text !== "string") continue
-    const cards = outcomeCardsOf(text)
-    if (cards.length > 0) held.set(id, cards)
+    const starts = chaptered ? startsIn(row.values[STARTS_KEY]) : null
+    const cards = cardsPlacedOf(text, starts)
+    if (cards.size > 0) held.set(id, cards)
   }
   return held
 }
@@ -218,6 +273,15 @@ export function usePlayedOutcomes(pageTypeSlug: string | null, ids: readonly str
   }, [pageTypeSlug, asked])
 
   return cards
+}
+
+export function cardsBefore(
+  placed: PlacedCards | undefined
+): ReadonlyMap<number, ReactNode> | undefined {
+  if (placed === undefined) return undefined
+  return new Map(
+    [...placed.entries()].map(([at, cards]) => [at, <OutcomeCards key={at} cards={cards} />])
+  )
 }
 
 export function OutcomeCards({ cards }: { readonly cards: readonly OutcomeCard[] | undefined }) {

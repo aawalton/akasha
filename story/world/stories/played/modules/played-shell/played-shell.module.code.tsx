@@ -217,7 +217,7 @@ function PlayedStory({
   )
   const drawnIds = useMemo(() => tail.drawn.map((row) => row.id), [tail])
   const prose = usePlayedProse(runPageTypeSlug, drawnIds)
-  const outcomeCards = usePlayedOutcomes(runIsTurns ? PLAYED_TURN_PAGE_TYPE_SLUG : null, drawnIds)
+  const outcomeCards = usePlayedOutcomes(runPageTypeSlug, drawnIds)
 
   const characterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
