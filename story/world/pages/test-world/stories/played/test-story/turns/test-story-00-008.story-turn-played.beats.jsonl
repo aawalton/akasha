@@ -2,6 +2,6 @@
 {"beat":2,"event":"The player eyes the lit taper the lantern was lit from, standing on the counter.","prose":"On the counter, the taper you lit the lantern from still stands burning, and you fix your eyes on it.","continues":true,"changes":[],"memory":[],"pictured":[]}
 {"beat":3,"event":"The player cuts once, level, through the taper's middle.","prose":"You step in and cut once, level, through the middle of the taper.","changes":[],"memory":[],"pictured":[]}
 {"beat":4,"event":"The blade passes clean, and the burning top half drops onto the counter.","prose":"The blade passes clean, and the burning top half drops onto the counter.","continues":true,"changes":[],"memory":[]}
-{"beat":5,"event":"Its flame ducks and gutters low as it falls, then rights itself and burns on.","changes":[]}
+{"beat":5,"event":"Its flame ducks and gutters low as it falls, then rights itself and burns on.","prose":"The flame ducks and gutters low on the way down, then rights itself and burns on.","continues":true,"changes":[]}
 {"beat":6,"event":"The shopkeeper has stepped back from the counter, staring at the two halves.","changes":[]}
 {"beat":7,"event":"She looks from the burning half to the bare blade and asks the player what that was for.","at":"2026-10-27T08:44:00.000Z"}
