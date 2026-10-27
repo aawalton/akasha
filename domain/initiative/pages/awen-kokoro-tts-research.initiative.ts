@@ -7,7 +7,7 @@ export const awenKokoroTtsResearch = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [{ statement: "The Kokoro TTS page says what local hardware Kokoro needs." }],
+  intentStack: [],
   createdAt: "2026-10-27T18:36:15.904Z",
-  updatedAt: "2026-10-27T18:40:12.197Z",
+  updatedAt: "2026-10-27T18:40:14.774Z",
 } as const satisfies Initiative
