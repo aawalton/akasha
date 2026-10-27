@@ -6,6 +6,7 @@
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/clone-probe/items/clone-probe-player-lantern.story-item.ts","id":"01a17f4c-d936-78bd-a367-6718088d5c49"}
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/clone-probe/items/clone-probe-player-leather-coat.story-item.ts","id":"01a17f4c-d936-7eb0-9b64-d5b14f381477"}
 {"propertySlug":"item-character","path":"story/world/pages/test-world/stories/played/clone-probe/items/clone-probe-player-shop-lantern.story-item.ts","id":"01a17f4c-d936-796c-a198-365f347c4297"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/test-world/places/test-world-hall.place.ts","id":"01a17ec5-127c-7c95-8abc-8383ca570a2c"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/metrics/experiences/clone-probe-player.metric-character-experience.ts","id":"01a17f4c-d936-7dae-90b6-7bd7e0787fc2"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/metrics/healths/clone-probe-player.metric-character-health.ts","id":"01a17f4c-d936-705d-ac4a-4d521b4b0868"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/test-world/stories/played/clone-probe/mechanics/metrics/levels/clone-probe-player.metric-character-level.ts","id":"01a17f4c-d936-7f3b-941a-f9e4b816e740"}

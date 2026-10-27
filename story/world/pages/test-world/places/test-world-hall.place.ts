@@ -23,7 +23,11 @@ export const testWorldHall = {
       fact: "Travellers sleep on cots by the hall's hearth and eat at its table.",
       knowers: ["lore-disclosure/game-master", "character-player/test-story-player"],
     },
+    {
+      fact: "The hall's stone floor is kept swept and bare from end to end.",
+      knowers: ["lore-disclosure/game-master", "character-player/clone-probe-player"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T21:35:35.097Z",
+  updatedAt: "2026-10-27T22:04:57.023Z",
 } as const satisfies Place
