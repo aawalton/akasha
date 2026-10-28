@@ -8,7 +8,12 @@ export const skillVariants = {
   definition: "an ability the game slots in a skill's place under an ability id of its own",
   properties: [
     { pageProperty: "number-property/eso-skill-id", required: true, many: false },
-    { pageProperty: "text-property/skill-equations", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "text-property/ability-equations",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -32,5 +37,5 @@ export const skillVariants = {
   ],
   types: "ts",
   createdAt: "2026-10-21T05:36:42.191Z",
-  updatedAt: "2026-10-21T05:36:42.191Z",
+  updatedAt: "2026-10-28T21:15:47.446Z",
 } as const satisfies RecordProperty

@@ -1,11 +1,11 @@
 import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
-export const skillEquations = {
+export const abilityEquations = {
   id: "01a1403a-1be8-7e56-bc40-e20174d45df3",
   type: "page-type/text-property",
-  slug: "skill-equations",
+  slug: "ability-equations",
   propertySlug: "equations",
-  definition: "the equation for each number a skill's tooltip names, as UESP fit it",
+  definition: "the equation for each number an ability works out",
   maxLength: 400,
   nameFormat: null,
   types: "ts",
@@ -52,5 +52,5 @@ export const skillEquations = {
     },
   ],
   createdAt: "2026-10-15T15:41:52.487Z",
-  updatedAt: "2026-10-21T02:50:41.512Z",
+  updatedAt: "2026-10-28T21:15:47.446Z",
 } as const satisfies TextProperty

@@ -1,13 +1,13 @@
 import type { Decisions } from "akasha/domain/properties/decisions.record-property.types.ts"
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
 import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
+import type { AbilityEquations } from "akasha/temper/catalog/skill/properties/ability-equations.text-property.types.ts"
 import type { BaseName } from "akasha/temper/catalog/skill/properties/base-name.text-property.types.ts"
 import type { EsoSkillId } from "akasha/temper/catalog/skill/properties/eso-skill-id.number-property.types.ts"
 import type { IsMorph } from "akasha/temper/catalog/skill/properties/is-morph.boolean-property.types.ts"
 import type { LearnedLevel } from "akasha/temper/catalog/skill/properties/learned-level.number-property.types.ts"
 import type { LineRankNeeded } from "akasha/temper/catalog/skill/properties/line-rank-needed.number-property.types.ts"
 import type { MorphIndex } from "akasha/temper/catalog/skill/properties/morph-index.number-property.types.ts"
-import type { SkillEquations } from "akasha/temper/catalog/skill/properties/skill-equations.text-property.types.ts"
 import type { SkillRank } from "akasha/temper/catalog/skill/properties/skill-rank.number-property.types.ts"
 import type { SkillStatus } from "akasha/temper/catalog/skill/properties/skill-status.text-property.types.ts"
 import type { SkillVariants } from "akasha/temper/catalog/skill/properties/skill-variants.record-property.types.ts"
@@ -30,7 +30,7 @@ export type TemperSkill = TemperCatalogThing & {
   status?: SkillStatus
   skillLineId: SkillLine
   hashPlace: HashPlace
-  equations?: SkillEquations
+  equations?: AbilityEquations
   variants?: SkillVariants
   decisions?: Decisions
 }
