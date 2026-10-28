@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/form/modules/input-otp/input-otp.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/form/modules/multi-select/multi-select.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/form/modules/search-multi-select/search-multi-select.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/layout/modules/panel-card/panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/pattern/modules/chip-list/chip-list.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interface/pattern/modules/chip/chip.module.code.tsx","typed":false,"deferred":false}

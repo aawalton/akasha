@@ -21,6 +21,8 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "akasha/design/interface/primitive/modules/collapsible/collapsible.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { ChevronDown } from "lucide-react"
 import type * as React from "react"
 import { useEffect, useLayoutEffect, useRef, useState } from "react"
@@ -58,6 +60,7 @@ export function PanelCard({
   const isLocalToggleScope = usePanelToggleIsLocal()
   const isSummary = usePanelIsSummary()
   const effectiveCollapseProtected = collapseProtected || isSummary
+  const plane = surfaceClass(useSurface() + 1)
 
   const [internalOpen, setInternalOpen] = useState(resolvedDefault)
   const panelToggle = usePanelToggle()
@@ -91,7 +94,7 @@ export function PanelCard({
 
   if (!collapsible) {
     return (
-      <Card id={id} className={cn(PANEL_CARD_WIDTH_CLASSES, className)} {...props}>
+      <Card id={id} className={cn(PANEL_CARD_WIDTH_CLASSES, plane, className)} {...props}>
         {title != null ? (
           <>
             <CardHeader className="items-start">
@@ -123,7 +126,7 @@ export function PanelCard({
         collapsible && !effectiveCollapseProtected && !isLocalToggleScope ? "" : undefined
       }
     >
-      <Card className={cn(PANEL_CARD_WIDTH_CLASSES, className)} {...props}>
+      <Card className={cn(PANEL_CARD_WIDTH_CLASSES, plane, className)} {...props}>
         <CardHeader className="items-start">
           <div className="flex min-w-0 flex-1 flex-col gap-2">
             <div className="flex items-center gap-2">

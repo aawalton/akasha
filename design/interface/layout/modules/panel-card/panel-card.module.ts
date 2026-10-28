@@ -6,6 +6,12 @@ export const panelCard = {
   slug: "panel-card",
   definition: "a card a browser draws around a panel of content",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel card sits one surface level above the level it is drawn on.",
+    },
+  ],
   createdAt: "2026-09-01T05:47:57.209Z",
-  updatedAt: "2026-09-22T13:44:00.000Z",
+  updatedAt: "2026-10-28T22:21:13.119Z",
 } as const satisfies Module
