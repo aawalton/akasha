@@ -15,9 +15,11 @@ export const rascalDoesNotDreamOfAKnapsackKid = {
       source: "tmdb",
       externalId: "1086591",
       externalLink: "https://www.themoviedb.org/movie/1086591",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Rascal Does Not Dream of a Knapsack Kid",
+  streamingOn: ["Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:46:22.465Z",
-  updatedAt: "2026-10-28T18:46:22.465Z",
+  updatedAt: "2026-10-28T19:48:09.806Z",
 } as const satisfies Movie
