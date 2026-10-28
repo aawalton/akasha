@@ -76,6 +76,7 @@ export const temperCharacterStat = {
     "page-type/temper-combat-case",
     "module/combat-case",
     "module/glyph-hit",
+    "module/status-damage",
   ],
   directives: [
     {
@@ -117,5 +118,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-21T17:06:17.684Z",
+  updatedAt: "2026-10-28T22:19:27.199Z",
 } as const satisfies Domain

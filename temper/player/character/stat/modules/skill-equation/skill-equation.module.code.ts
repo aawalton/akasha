@@ -273,7 +273,7 @@ function isOverTime(equation: Equation): boolean {
   return tags.includes(OVER_TIME) && (tags.includes(DAMAGE) || tags.includes(HEAL))
 }
 
-function isDamage(equation: Equation): boolean {
+export function isDamage(equation: Equation): boolean {
   return isDirectDamage(equation) || isDamageOverTime(equation)
 }
 
@@ -387,7 +387,7 @@ function rankedOf(equation: Equation, rank: number | undefined): number | undefi
   return tag === undefined ? undefined : (rank ?? RANK_TAGS[tag])
 }
 
-function flooredSumOf(equation: Equation, stats: EquationStats): number {
+export function flooredSumOf(equation: Equation, stats: EquationStats): number {
   const single = Math.fround
   return equation.terms.reduce(
     (sum, [variable, by]) => sum + Math.floor(single(single(by) * stats[variable])),
