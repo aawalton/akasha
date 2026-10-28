@@ -159,7 +159,7 @@ function showUnmet(label: LabelControl, text: string): undefined {
   return undefined
 }
 
-export function refreshTargetPanel(this: void): undefined {
+function refreshTargetPanel(this: void): undefined {
   if (held === undefined) return undefined
   const panel = held
   for (const line of panel.lines) line.SetHidden(true)
