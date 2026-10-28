@@ -6,6 +6,7 @@ import {
 import { HOUSE_BANK_BAGS } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import { refreshEquipmentLockOverlays } from "akasha/temper/addon/pages/items/modules/inventory-equipment-lock-overlay/inventory-equipment-lock-overlay.module.code.ts"
 import { buildEsoEvalEnv } from "akasha/temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
+import { houseLegOf } from "akasha/temper/addon/pages/items/modules/inventory-house-route/inventory-house-route.module.code.ts"
 import {
   isItemLocked,
   resolvePriceSource,
@@ -183,7 +184,8 @@ export function findMatchedRule(
     ruleIndex: matchedIndex,
     ruleSource: "ordered-rule",
     action: outcome.action,
-    destination: resolved.destination,
+    destination:
+      houseLegOf(compiledRule, outcome.action, itemLink, stackSize) ?? resolved.destination,
     targetQuantity: resolved.targetQuantity,
     stockScope: compiledRule.action === "stock" ? compiledRule.stockScope : undefined,
     useAllocation: resolved.useAllocation,

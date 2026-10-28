@@ -31,6 +31,11 @@ export const inventoryRulesEval = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A furnishing whose chain reaches a house with room is judged bound for that house.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every judging is told whether the price source answered with no price table.",
     },
     {
@@ -62,5 +67,5 @@ export const inventoryRulesEval = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.859Z",
-  updatedAt: "2026-10-28T19:31:05.753Z",
+  updatedAt: "2026-10-28T20:33:22.031Z",
 } as const satisfies Module

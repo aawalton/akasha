@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/addon/pages/items/modules/inventory-house-placement/inventory-house-placement.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/addon/pages/items/modules/inventory-house-route/inventory-house-route.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/items/rules/core/modules/house-destination/house-destination.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/items/rules/eval/modules/destination-resolve/destination-resolve.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts","typed":false,"deferred":false}
