@@ -4763,6 +4763,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-furnishing-scanner/inventory-furnishing-scanner.module.ts","id":"01a06258-b52c-715f-b459-e0ac91ba6964"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-house-placement/inventory-house-placement.module.ts","id":"01a1842e-3580-7f1b-99e1-26cbd323c12c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-house-route/inventory-house-route.module.ts","id":"01a18437-a670-728f-894b-02037f1bb257"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-house-stop/inventory-house-stop.module.ts","id":"01a1844c-e32d-7fe9-8b5d-ca403f31bdd7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-hud-fields/inventory-hud-fields.module.ts","id":"01a06258-b52c-7007-908b-f5798ab11238"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.ts","id":"01a06258-b52d-7b46-8cda-3be08ef726d7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-item-own-link/inventory-item-own-link.module.ts","id":"01a0e17f-0341-75ea-9113-92bae40d697d"}

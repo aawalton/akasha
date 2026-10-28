@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/addon/pages/items/modules/inventory-house-placement/inventory-house-placement.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/addon/pages/items/modules/inventory-house-route/inventory-house-route.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/addon/pages/items/modules/inventory-house-stop/inventory-house-stop.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"house-destination.module.code.ts","path":"temper/items/rules/core/modules/house-destination/house-destination.module.test.ts","typed":false,"deferred":false}
