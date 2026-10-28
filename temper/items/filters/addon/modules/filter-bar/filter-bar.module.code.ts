@@ -27,10 +27,7 @@ import type {
   FilterId,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
 
-import {
-  drawSurface,
-  type SurfaceLevel,
-} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { drawPanelBackground } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 
 const PANEL_NAME = "TemperItemsFilterPanel"
 const PLAN_PANEL_NAME = "TemperItemsActionPanel"
@@ -52,8 +49,6 @@ const CLEAR_X = PANEL_WIDTH - PADDING_X - CLEAR_WIDTH
 const ADD_COMBO_X = CLEAR_X - CONTROL_GAP - ADD_COMBO_WIDTH
 
 const ADD_FILTER_LABEL = "+ Add filter"
-
-const PANEL_LEVEL: SurfaceLevel = 1
 
 const GROUP_LABELS: Record<FilterGroup, string> = {
   quality: "Quality",
@@ -95,7 +90,7 @@ export function createFilterBar(config: FilterBarConfig): undefined {
   tlw.SetHidden(true)
   tlw.SetDimensions(PANEL_WIDTH, HEADER_HEIGHT + PADDING_Y)
 
-  drawSurface(tlw, PANEL_LEVEL)
+  drawPanelBackground(tlw)
 
   const header = WINDOW_MANAGER.CreateControl("$(parent)Header", tlw, CT_CONTROL)
   header.SetAnchor(TOPLEFT, tlw, TOPLEFT, 0, 0)
