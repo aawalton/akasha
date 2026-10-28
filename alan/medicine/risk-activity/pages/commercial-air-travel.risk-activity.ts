@@ -16,6 +16,10 @@ export const commercialAirTravel = {
       injuriesPerMillionUnits: 0.005,
       disabilityWeight: 0.05,
       disabilityYears: 0.3,
+      injuriesPerMillionUnitsLow: 0.002,
+      injuriesPerMillionUnitsHigh: 0.01,
+      disabilityWeightLow: 0.032,
+      disabilityWeightHigh: 0.075,
     },
   ],
   sources: [
@@ -36,5 +40,5 @@ export const commercialAirTravel = {
     },
   ],
   createdAt: "2026-10-28T19:11:22.447Z",
-  updatedAt: "2026-10-28T19:11:22.447Z",
+  updatedAt: "2026-10-28T19:22:46.075Z",
 } as const satisfies RiskActivity

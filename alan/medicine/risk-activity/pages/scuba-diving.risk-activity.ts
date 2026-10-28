@@ -16,12 +16,20 @@ export const scubaDiving = {
       injuriesPerMillionUnits: 300,
       disabilityWeight: 0.1,
       disabilityYears: 0.05,
+      injuriesPerMillionUnitsLow: 200,
+      injuriesPerMillionUnitsHigh: 400,
+      disabilityWeightLow: 0.067,
+      disabilityWeightHigh: 0.14,
     },
     {
       injury: "ED-treated scuba injury (barotrauma, etc.)",
       injuriesPerMillionUnits: 46,
       disabilityWeight: 0.008,
       disabilityYears: 0.05,
+      injuriesPerMillionUnitsLow: 40,
+      injuriesPerMillionUnitsHigh: 52,
+      disabilityWeightLow: 0.003,
+      disabilityWeightHigh: 0.015,
     },
   ],
   sources: [
@@ -44,5 +52,5 @@ export const scubaDiving = {
     },
   ],
   createdAt: "2026-10-28T19:12:19.801Z",
-  updatedAt: "2026-10-28T19:12:19.801Z",
+  updatedAt: "2026-10-28T19:22:46.075Z",
 } as const satisfies RiskActivity
