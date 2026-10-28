@@ -10,7 +10,7 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/mod
 import { instantOf } from "akasha/temper/items/core/modules/capture-instant/capture-instant.module.code.ts"
 import { z } from "zod"
 
-export const KEYBINDER_SAVED_VARIABLES = "TemperKeybinder_SavedVariables"
+const KEYBINDER_SAVED_VARIABLES = "TemperKeybinder_SavedVariables"
 
 const GAME_BINDING = z.object({
   keyCode: z.number(),
