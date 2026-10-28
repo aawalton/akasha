@@ -22,11 +22,7 @@ export const inventoryServerActionWindow = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The budget is 50, half the game's limit.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The other half is left to the game, to other add-ons and to the player.",
+      statement: "Alan set the budget at 100 actions in any 10 seconds, with no margin.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,7 +38,7 @@ export const inventoryServerActionWindow = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Actions go out as fast as they come until 50 went out in the last 10.5 seconds.",
+      statement: "Actions go out as fast as they come until 100 went out in the last 10 seconds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -54,5 +50,5 @@ export const inventoryServerActionWindow = {
     },
   ],
   createdAt: "2026-09-27T15:07:25.637Z",
-  updatedAt: "2026-10-28T20:59:24.681Z",
+  updatedAt: "2026-10-28T21:56:14.131Z",
 } as const satisfies Module

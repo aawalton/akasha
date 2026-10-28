@@ -125,13 +125,7 @@ export const inventoryRulesDispatchBankPaced = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A move is held against the budget for the ten seconds the game allows and a margin above them.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The margin is wide enough for a boundary counted either way and for the two clocks to differ.",
+      statement: "A move is held against the budget for ten seconds, with no margin, as Alan set.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -153,5 +147,5 @@ export const inventoryRulesDispatchBankPaced = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-10-28T20:59:24.681Z",
+  updatedAt: "2026-10-28T21:56:14.131Z",
 } as const satisfies Module

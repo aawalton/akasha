@@ -1,10 +1,8 @@
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-export const SERVER_ACTION_BUDGET = 50
-const ACTION_WINDOW_MS = 10000
-const ACTION_WINDOW_MARGIN_MS = 500
-export const SERVER_ACTION_HELD_MS = ACTION_WINDOW_MS + ACTION_WINDOW_MARGIN_MS
+export const SERVER_ACTION_BUDGET = 100
+export const SERVER_ACTION_HELD_MS = 10000
 
 let sentAt: number[] = []
 let pacedRuns = 0

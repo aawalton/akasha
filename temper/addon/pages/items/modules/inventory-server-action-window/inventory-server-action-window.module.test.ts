@@ -41,7 +41,7 @@ function quiet(): undefined {
 function busiest(sentAt: readonly number[], windowMs: number): number {
   let most = 0
   for (const end of sentAt) {
-    const held = sentAt.filter((at) => at <= end && at >= end - windowMs).length
+    const held = sentAt.filter((at) => at <= end && at > end - windowMs).length
     if (held > most) most = held
   }
   return most
@@ -59,8 +59,9 @@ function sends(count: number, sentAt: number[]): ((this: void) => boolean)[] {
 }
 
 describe("inventory-server-action-window", () => {
-  test("the budget is half the actions the game allows in ten seconds", () => {
-    expect(SERVER_ACTION_BUDGET * 2).toBe(GAME_ACTION_LIMIT)
+  test("the budget is the 100 actions in 10 seconds Alan set", () => {
+    expect(SERVER_ACTION_BUDGET).toBe(GAME_ACTION_LIMIT)
+    expect(SERVER_ACTION_HELD_MS).toBe(GAME_WINDOW_MS)
   })
 
   test("room counts down as actions are noted and comes back as they age out", () => {
@@ -93,16 +94,16 @@ describe("inventory-server-action-window", () => {
     quiet()
     const sentAt: number[] = []
     const ignore = (): undefined => undefined
-    runPaced(sends(40, sentAt), () => true, ignore)
-    runPaced(sends(40, sentAt), () => true, ignore)
+    runPaced(sends(60, sentAt), () => true, ignore)
+    runPaced(sends(60, sentAt), () => true, ignore)
     pump(60000)
-    expect(sentAt.length).toBe(80)
+    expect(sentAt.length).toBe(120)
     expect(busiest(sentAt, GAME_WINDOW_MS)).toBeLessThanOrEqual(SERVER_ACTION_BUDGET)
   })
 
   test("actions noted outside a paced run leave that run less room", () => {
     quiet()
-    noteServerAction(45)
+    noteServerAction(SERVER_ACTION_BUDGET - 5)
     const sentAt: number[] = []
     const startedAt = clock
     runPaced(

@@ -373,21 +373,6 @@ export function busiestWindow(issued: readonly IssuedStackMove[], windowMs: numb
   return busiest
 }
 
-export function busiestWindowInclusive(
-  issued: readonly IssuedStackMove[],
-  windowMs: number
-): number {
-  const times = issued.map((one) => one.atMs).sort((a, b) => a - b)
-  let busiest = 0
-  for (let i = 0; i < times.length; i++) {
-    const end = times[i] ?? 0
-    let held = 0
-    for (let j = 0; j <= i; j++) if ((times[j] ?? 0) >= end - windowMs) held++
-    if (held > busiest) busiest = held
-  }
-  return busiest
-}
-
 export function issueTimes(issued: readonly IssuedStackMove[]): number[] {
   const seen: number[] = []
   for (const one of issued) if (!seen.includes(one.atMs)) seen.push(one.atMs)
