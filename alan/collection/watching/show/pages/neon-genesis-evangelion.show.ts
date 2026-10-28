@@ -11,9 +11,15 @@ export const neonGenesisEvangelion = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "890", externalLink: "https://www.themoviedb.org/tv/890" },
+    {
+      source: "tmdb",
+      externalId: "890",
+      externalLink: "https://www.themoviedb.org/tv/890",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Neon Genesis Evangelion",
+  streamingOn: ["Criterion Channel", "Netflix", "Netflix Standard with Ads"],
   createdAt: "2026-10-28T18:45:20.209Z",
-  updatedAt: "2026-10-28T18:45:20.209Z",
+  updatedAt: "2026-10-28T19:45:23.781Z",
 } as const satisfies Show
