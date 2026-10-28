@@ -10,9 +10,11 @@ import {
   minutesOf,
   pricedOf,
   priceOf,
+  rowOf,
   spreadSaid,
   twoPieceOf,
   unitsIn,
+  unitWidthOf,
 } from "akasha/command/pages/medicine/activity/medicine-activity.command.code.ts"
 
 const GIVEN: Given = {
@@ -145,6 +147,19 @@ test("a price says its parts and what its page assumes", () => {
   expect(said[0]).toContain("hike")
   expect(said.some((line) => line.includes("from death"))).toBe(true)
   expect(said.at(-1)).toBe("assumed: the hike count is assumed")
+})
+
+test("the list's unit column is wide enough for the longest unit, which is said whole", () => {
+  const long: Activity = {
+    ...HIKE,
+    unit: "per 100 person-miles (occupant of passenger car/light truck)",
+  }
+  const width = unitWidthOf([HIKE, long])
+  expect(width).toBe(long.unit.length + 2)
+  const spread = { low: 1, middle: 2, high: 3 }
+  const row = rowOf(long, { total: spread, death: spread, disability: spread }, width)
+  expect(row).toContain(long.unit)
+  expect(row.endsWith("2.00  (1.00 to 3.00)")).toBe(true)
 })
 
 test("a units value that is no number is refused", () => {

@@ -214,9 +214,12 @@ export function unitsIn(said: string | undefined): number | null {
   return Number.isFinite(count) && count > 0 ? count : null
 }
 
-function rowOf(one: Activity, price: Price): string {
-  const unit = one.unit.slice(0, UNIT_WIDTH - 2).padEnd(UNIT_WIDTH)
-  return `  ${one.slug.padEnd(NAME_WIDTH)}${unit}${spreadSaid(price.total)}`
+export function unitWidthOf(activities: readonly Activity[]): number {
+  return Math.max(UNIT_WIDTH, ...activities.map((one) => one.unit.length + 2))
+}
+
+export function rowOf(one: Activity, price: Price, width: number): string {
+  return `  ${one.slug.padEnd(NAME_WIDTH)}${one.unit.padEnd(width)}${spreadSaid(price.total)}`
 }
 
 function closingOf(minutes: Spread): readonly string[] {
@@ -266,10 +269,11 @@ function answerOf(slug: string | undefined, count: number, asJson: boolean, root
   if (chosen === null) {
     const listed = listedOf(activities, healthy)
     if (asJson) return told([JSON.stringify({ age, minutes, listed })])
+    const width = unitWidthOf(activities)
     return told([
       `risk activities, ranked by the disability-adjusted micromorts one unit costs Alan at ${age.toFixed(ONE_PLACE)}`,
-      `  ${"activity".padEnd(NAME_WIDTH)}${"one unit".padEnd(UNIT_WIDTH)}disability-adjusted micromorts`,
-      ...listed.map((one) => rowOf(one.activity, one.price)),
+      `  ${"activity".padEnd(NAME_WIDTH)}${"one unit".padEnd(width)}disability-adjusted micromorts`,
+      ...listed.map((one) => rowOf(one.activity, one.price, width)),
       "",
       ...closingOf(minutes),
     ])
