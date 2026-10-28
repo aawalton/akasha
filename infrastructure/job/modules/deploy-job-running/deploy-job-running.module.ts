@@ -14,6 +14,10 @@ export const deployJobRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run names its job once, and the manifest carries that name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A deploy's job goes up the way every job this system runs goes up.",
     },
     {
@@ -57,6 +61,6 @@ export const deployJobRunning = {
       statement: "What the caller hands the job reaches the job as the caller said it.",
     },
   ],
-  updatedAt: "2026-10-28T18:09:12.032Z",
+  updatedAt: "2026-10-28T18:41:44.660Z",
   createdAt: "2026-09-14T17:41:48.445Z",
 } as const satisfies Module

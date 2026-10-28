@@ -40,9 +40,10 @@ test("a job is put up from the manifest composed for that subject and commit", a
   const held = putting()
   const said = await ranInCluster(ROOT, ROOT, SUBJECT, COMMIT, neverDeployed, held.putting)
   expect(said).toEqual({ said: [] })
-  const name = jobNameFor(SUBJECT, COMMIT)
-  expect(held.put.map((one) => [one.commit, one.name])).toEqual([[COMMIT, name]])
-  expect(held.put[0]?.yaml).toContain(name)
+  const name = held.put[0]?.name ?? ""
+  expect(held.put.map((one) => one.commit)).toEqual([COMMIT])
+  expect(jobsOf(SUBJECT).test(name)).toBe(true)
+  expect(held.put[0]?.yaml).toContain(`name: ${name}`)
 })
 
 test("a deploy's job waits beside every running job deploying the same subject", async () => {
@@ -57,6 +58,7 @@ test("a deploy's job waits beside every running job deploying the same subject",
 test("a subject's jobs are its own at any commit and never another subject's", () => {
   expect(jobsOf("alanwalton").test(jobNameFor("alanwalton", WAS))).toBe(true)
   expect(jobsOf("alanwalton").test(jobNameFor("alanwalton-web", COMMIT))).toBe(false)
+  expect(jobsOf("alanwalton").test("deploy-alanwalton-0123456789ab")).toBe(true)
 })
 
 test("a deploy's ceiling is set aside once its job starts and counted again once it is judged", async () => {

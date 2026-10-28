@@ -80,7 +80,8 @@ export async function ranInCluster(
   handed = ""
 ): Promise<Ended> {
   const name = jobNameFor(subject, commit)
-  const yaml = jobYamlFor(given, subject, commit, await recalling(root, subject), handed)
+  const was = await recalling(root, subject)
+  const yaml = jobYamlFor(given, subject, commit, was, handed, name)
   hearing?.started()
   const finished = finishedAt(subject, commit)
   return await putting(root, commit, name, yaml, jobsOf(subject), hearing, finished)

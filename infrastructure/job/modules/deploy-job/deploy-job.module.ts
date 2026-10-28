@@ -15,7 +15,17 @@ export const deployJob = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A job is named for the subject deployed and the commit it is made at.",
+      statement:
+        "A job is named for the subject deployed, the commit it is made at and the second it was made.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Two runs at one commit are two jobs, so a job kept after it ended is never applied over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A subject's jobs are matched whether or not their name carries that second.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -85,6 +95,6 @@ export const deployJob = {
         "A deploy's quarter hour starts when its pod does, so a deploy that waited loses none.",
     },
   ],
-  updatedAt: "2026-10-28T18:09:12.032Z",
+  updatedAt: "2026-10-28T18:41:44.660Z",
   createdAt: "2026-09-14T17:28:13.666Z",
 } as const satisfies Module

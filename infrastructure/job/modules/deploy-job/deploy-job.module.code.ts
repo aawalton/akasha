@@ -17,8 +17,11 @@ const DEADLINE_SECONDS = 900
 
 const HELD_AT_LEAST = "16Gi"
 
-export function jobNameFor(subject: string, commit: string): string {
-  return `${deploy.name}-${subject}-${commit.slice(0, NAMED)}`
+const BEGUN_BASE = 36
+
+export function jobNameFor(subject: string, commit: string, at: number = Date.now()): string {
+  const begun = Math.floor(at / 1000).toString(BEGUN_BASE)
+  return `${deploy.name}-${subject}-${commit.slice(0, NAMED)}-${begun}`
 }
 
 export const JUDGED = "judged"
@@ -38,7 +41,7 @@ export async function judgedApart<T>(
 }
 
 export function jobsOf(subject: string): RegExp {
-  return new RegExp(`^${deploy.name}-${subject}-[0-9a-f]{${NAMED}}$`)
+  return new RegExp(`^${deploy.name}-${subject}-[0-9a-f]{${NAMED}}(-[0-9a-z]+)?$`)
 }
 
 export function scriptFor(
@@ -57,10 +60,10 @@ export function jobYamlFor(
   subject: string,
   commit: string,
   was: string | null,
-  handed = ""
+  handed = "",
+  named: string = jobNameFor(subject, commit)
 ): string {
   const script = scriptFor(given, subject, commit, was, handed)
-  const named = jobNameFor(subject, commit)
   const account = deployAccount.slug
   return yamlFor(named, script, null, account, DEADLINE_SECONDS, deployCache.slug, HELD_AT_LEAST)
 }
