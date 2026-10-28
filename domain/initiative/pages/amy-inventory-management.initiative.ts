@@ -7,7 +7,6 @@ export const amyInventoryManagement = {
   domain: "domain/temper-items",
   persona: "persona/amy",
   intentStack: [
-    { statement: "Erin carries nothing that is neither useful to her nor in transit elsewhere." },
     {
       statement:
         "Each Saturday, Inventory Management counts a character whose items belong and who saw a banker.",
@@ -18,5 +17,5 @@ export const amyInventoryManagement = {
     },
   ],
   createdAt: "2026-09-26T15:25:47.417Z",
-  updatedAt: "2026-10-28T17:41:57.009Z",
+  updatedAt: "2026-10-28T17:41:58.442Z",
 } as const satisfies Initiative
