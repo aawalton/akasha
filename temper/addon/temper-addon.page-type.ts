@@ -194,6 +194,15 @@ export const temperAddon = {
       statement: "A keybind name keeps the spelling a player's bound keys are stored under.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game names a keybind category when it reads Bindings.xml, before the add-on's load event.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A keybind category in Bindings.xml is named in plain text.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A bundle loads under a Lua 5.1 built as the language publishes it.",
     },
@@ -209,5 +218,5 @@ export const temperAddon = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T03:43:06.615Z",
-  updatedAt: "2026-10-08T13:32:26.000Z",
+  updatedAt: "2026-10-28T21:16:37.244Z",
 } as const satisfies PageType

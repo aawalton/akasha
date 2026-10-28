@@ -1,6 +1,6 @@
 <Bindings>
   <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
-    <Category name="SI_KEYBINDINGS_CATEGORY_TEMPERITEMS">
+    <Category name="Temper Items">
       <Action name="TEMPERINVENTORY_TOGGLE_SELL">
         <Down>TemperItems.ToggleHoveredItemSell()</Down>
       </Action>
