@@ -29,8 +29,8 @@ export const animeWatchNow = {
     "position",
     "total-length",
     "total-progress",
-    "parts-streaming-on",
+    "held-streaming-on",
   ],
   createdAt: "2026-10-28T22:00:00.000Z",
-  updatedAt: "2026-10-28T22:00:00.000Z",
+  updatedAt: "2026-10-28T21:53:12.694Z",
 } as const satisfies View
