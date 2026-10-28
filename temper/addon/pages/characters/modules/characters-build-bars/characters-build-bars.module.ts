@@ -17,11 +17,28 @@ export const charactersBuildBars = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A skill not bought, or bought in another morph, is named rather than slotted.",
+      statement: "A target skill not bought is bought, and one in another morph is morphed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Buying and a first morph happen without a respec where the points suffice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A changed morph, or points too few, starts a skill respec and does the work in it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A respec refunds active skills off the target only while points are too few.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here buys a skill, morphs a skill or scribes a skill.",
+      statement: "No passive and no scribed skill is refunded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill respec's gold is paid without asking, and its cost is said.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,5 +47,5 @@ export const charactersBuildBars = {
     },
   ],
   createdAt: "2026-10-28T20:48:22.497Z",
-  updatedAt: "2026-10-28T20:48:22.497Z",
+  updatedAt: "2026-10-28T21:08:49.086Z",
 } as const satisfies Module

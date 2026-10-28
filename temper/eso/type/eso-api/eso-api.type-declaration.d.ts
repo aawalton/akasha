@@ -86,11 +86,29 @@ declare const SKILLS_DATA_MANAGER: SkillsDataManager
 interface SlottableSkillAllocator {
   IsPurchased: () => boolean
   GetMorphSlot: () => number
+  Purchase: () => boolean
+  Sell: () => boolean
+  Morph: (morphSlot: number) => boolean
+  Unmorph: () => boolean
 }
 
 interface SlottableSkillData {
   GetPointAllocator: () => SlottableSkillAllocator
+  IsPassive: () => boolean
+  IsCraftedAbility: () => boolean
 }
+
+interface SkillLineData {
+  SkillIterator: () => LuaIterable<LuaMultiReturn<[number, SlottableSkillData]>>
+}
+
+interface SkillsAndActionBarManager {
+  ApplyChanges: () => void
+  GetSkillPointAllocationMode: () => number
+}
+declare const SKILLS_AND_ACTION_BAR_MANAGER: SkillsAndActionBarManager
+
+declare function GetSkillRespecCost(this: void, allocationMode: number): number
 
 interface SlottableProgressionData {
   GetSkillData: () => SlottableSkillData

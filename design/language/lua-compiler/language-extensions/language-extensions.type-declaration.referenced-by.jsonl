@@ -45,6 +45,7 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/unpack/unpack.lualib-helper.lua50-code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/weak-map/weak-map.lualib-helper.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/weak-set/weak-set.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-build-bars/characters-build-bars.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-build-champion/characters-build-champion.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.code.ts","typed":false,"deferred":false}

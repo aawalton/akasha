@@ -6,7 +6,10 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import { applyAttributeTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-attributes/characters-build-attributes.module.code.ts"
-import { applyBarTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-bars/characters-build-bars.module.code.ts"
+import {
+  applyBarTarget,
+  whenBarsSaid,
+} from "akasha/temper/addon/pages/characters/modules/characters-build-bars/characters-build-bars.module.code.ts"
 import { applyChampionTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-champion/characters-build-champion.module.code.ts"
 import {
   type ChecklistSection,
@@ -220,6 +223,10 @@ export function initializeTargetBuildPanel(): undefined {
     if (!panel.window.IsHidden()) refreshTargetPanel()
     return undefined
   }
+  whenBarsSaid((text) => {
+    panel.said.SetText(text)
+    return refreshShown()
+  })
   EVENT_MANAGER.RegisterForEvent(UPDATES_NAME, EVENT_INVENTORY_SINGLE_SLOT_UPDATE, refreshShown)
   EVENT_MANAGER.RegisterForEvent(`${UPDATES_NAME}Bars`, EVENT_HOTBAR_SLOT_UPDATED, refreshShown)
   return undefined
