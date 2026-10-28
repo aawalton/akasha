@@ -73,6 +73,8 @@ export const gameMaster = {
         "A correction is out of character.",
         "A bracketed line in his action is part of the action.",
         "Never make a chat message into a beat.",
+        "Using, activating or setting aside a Path is done on the sheet, never in the story.",
+        "Answer an action asking for one in the chat, saying the sheet does it, and beat none of it.",
       ],
     },
     {
@@ -301,5 +303,5 @@ export const gameMaster = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-28T14:44:27.149Z",
+  updatedAt: "2026-10-28T15:06:47.482Z",
 } as const satisfies Role
