@@ -15,10 +15,16 @@ export const swordArtOnlineAlternativeGunGaleOnline = {
   genres: ["Animation", "Action & Adventure", "Sci-Fi & Fantasy"],
   posterPath: "/1EBk96E3cVVOEVlx2z744oEuFQk.jpg",
   voteAverage: 7.691,
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   externalIdentity: [
-    { source: "tmdb", externalId: "78204", externalLink: "https://www.themoviedb.org/tv/78204" },
+    {
+      source: "tmdb",
+      externalId: "78204",
+      externalLink: "https://www.themoviedb.org/tv/78204",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   imdbId: "tt7978710",
   createdAt: "2026-06-07T22:44:46.086Z",
-  updatedAt: "2026-10-28T18:39:52.205Z",
+  updatedAt: "2026-10-28T19:46:14.632Z",
 } as const satisfies Show
