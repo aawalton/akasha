@@ -26,8 +26,12 @@ export const outcomes = {
       statement:
         "A later line of a check rolling nothing replaces its earlier line for the same `character`.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A correction rewrites a line in its place, and every other writer only appends.",
+    },
   ],
   types: "ts",
   createdAt: "2026-09-26T14:33:51.196Z",
-  updatedAt: "2026-10-02T18:07:51.000Z",
+  updatedAt: "2026-10-28T18:08:01.564Z",
 } as const satisfies FileProperty

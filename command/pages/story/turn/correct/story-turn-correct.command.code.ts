@@ -226,10 +226,6 @@ function settledOn(
   asked: Asked,
   now: readonly BeatChange[]
 ) {
-  if (found.chapter) {
-    if (asked.outcomes === null) return { at: null, text: null }
-    return { refused: "a chapter's outcome lines are its turns', and a correction leaves them" }
-  }
   const settling = {
     present: (at: string) => reach.present(root, at),
     textOf: (at: string) => reach.textIn(root, at),

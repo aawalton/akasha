@@ -8,11 +8,8 @@ import {
 import {
   type BeatChange,
   mergedOf,
-  recordIn,
 } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
-
-const ADDED = "added"
 
 type Refused = { readonly refused: string }
 
@@ -24,19 +21,10 @@ export type Settling = {
 }
 
 function replacedRefused(was: string, now: string): string | null {
-  const had = outcomeLines(was)
-  const has = outcomeLines(now)
-  if (had.length !== has.length) {
-    return `the outcomes handed in hold ${has.length} lines, and the turn's hold ${had.length}, and a correction replaces each line in its place`
-  }
-  for (const [at, line] of has.entries()) {
-    const held = recordIn(had[at] ?? "")
-    if (line === had[at]) continue
-    const said = recordIn(line)
-    if (held !== null && said !== null && ADDED in held && ADDED in said) continue
-    return `outcome line ${at + 1} states no \`${ADDED}\`, so no beat wrote it and a correction leaves it`
-  }
-  return null
+  const had = outcomeLines(was).length
+  const has = outcomeLines(now).length
+  if (had === has) return null
+  return `the outcomes handed in hold ${has} lines, and the turn's hold ${had}, and a correction replaces each line in its place`
 }
 
 export function outcomesOn(

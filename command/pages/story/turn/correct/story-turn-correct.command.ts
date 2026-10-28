@@ -26,8 +26,7 @@ export const storyTurnCorrect = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A chapter's outcome lines are its turns', and a correction refuses to replace them.",
+      statement: "A correction replaces outcome lines in place, in a turn or in a chapter.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -47,11 +46,7 @@ export const storyTurnCorrect = {
       decisionKind: "decision-kind/departure",
       statement: "Outcome lines handed in replace the turn's own, as many lines as it had.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "An outcome line is replaced only where it states what it `added`, since no other is a beat's.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -108,5 +103,5 @@ export const storyTurnCorrect = {
     { argument: "argument/beat-event" },
   ],
   createdAt: "2026-10-28T15:26:39.416Z",
-  updatedAt: "2026-10-28T15:46:53.732Z",
+  updatedAt: "2026-10-28T18:08:01.564Z",
 } as const satisfies Command

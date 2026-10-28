@@ -277,9 +277,10 @@ test("outcome lines handed in replace the turn's, and the beat's marks are met a
   expect(into.asked).toContainEqual(putting({ path: OUTCOMES_AT, content: addedLine(5) }))
 })
 
-test("a played chapter's beat is corrected, its event and prose following, its outcomes left", async () => {
+test("a played chapter's beat is corrected, its event, prose and outcome lines following", async () => {
   const into = seen()
-  const reach = correctingOver(into, { chapter: true })
+  const was = `${JSON.stringify({ check: "world-check/the-saga-act", turn: 2 })}\n`
+  const reach = correctingOver(into, { chapter: true, outcomes: was })
   const prose = fileOf("chapter.txt", "You drill until the light goes.\n")
   const argv = ["--beat", "1", "--prose-file", prose, "--beat-event", "Mara drills till dusk."]
   const answer = await correctedBy(argv, reach, into)
@@ -290,9 +291,17 @@ test("a played chapter's beat is corrected, its event and prose following, its o
   const beats = beatsIn((written?.given as { body: string } | undefined)?.body ?? "")
   if ("refused" in beats) throw new Error(beats.refused)
   expect(beats.beats[0]).toBe("Mara drills till dusk.")
-  const outcomes = fileOf("chapter-outcomes.jsonl", "")
-  const refusedAnswer = await correctedBy([...argv, "--outcomes-file", outcomes], reach, into)
-  expect(refusedAnswer.refusals.join(" ")).toContain("a chapter's outcome lines")
+  const acted = `${JSON.stringify({ check: "world-check/the-saga-act", action: "I drill", turn: 2 })}\n`
+  const outcomes = fileOf("chapter-outcomes.jsonl", acted)
+  const mended = await correctedBy([...argv, "--outcomes-file", outcomes], reach, into)
+  expect(mended.refusals).toEqual([])
+  expect(into.asked).toContainEqual(putting({ path: OUTCOMES_AT, content: acted }))
+  const fewer = await correctedBy(
+    [...argv, "--outcomes-file", fileOf("none.jsonl", "")],
+    reach,
+    into
+  )
+  expect(fewer.refusals.join(" ")).toContain("replaces each line in its place")
 })
 
 test("a chapter's beat prose changing its paragraphs is refused", async () => {
