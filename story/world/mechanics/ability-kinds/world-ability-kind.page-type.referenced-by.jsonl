@@ -1,2 +1,4 @@
+{"propertySlug":"import","fileName":"world-ability-kind.page-type.types.ts","path":"story/world/pages/gifted/mechanics/ability-kinds/gifted-path.world-ability-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-ability-kind.page-type.types.ts","path":"story/world/pages/gifted/mechanics/ability-kinds/gifted-skill.world-ability-kind.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/skills/properties/ability-kind.relation-property.ts","id":"01a17ff1-08c1-77f0-a51f-086702ca6b44"}

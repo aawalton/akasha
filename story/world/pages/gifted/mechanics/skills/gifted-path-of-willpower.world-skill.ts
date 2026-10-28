@@ -6,7 +6,8 @@ export const giftedPathOfWillpower = {
   slug: "gifted-path-of-willpower",
   title: "Path of Willpower",
   world: "world/gifted",
+  abilityKind: "world-ability-kind/gifted-path",
   description: "A Basic Path walked by forcing on against what the body wants.",
   createdAt: "2026-10-27T19:36:42.513Z",
-  updatedAt: "2026-10-27T19:36:42.513Z",
+  updatedAt: "2026-10-28T00:39:10.863Z",
 } as const satisfies WorldSkill

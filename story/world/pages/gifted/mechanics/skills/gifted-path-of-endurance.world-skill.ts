@@ -6,7 +6,8 @@ export const giftedPathOfEndurance = {
   slug: "gifted-path-of-endurance",
   title: "Path of Endurance",
   world: "world/gifted",
+  abilityKind: "world-ability-kind/gifted-path",
   description: "A Basic Path walked by holding out against weariness.",
   createdAt: "2026-10-27T19:36:42.513Z",
-  updatedAt: "2026-10-27T19:36:42.513Z",
+  updatedAt: "2026-10-28T00:39:10.863Z",
 } as const satisfies WorldSkill

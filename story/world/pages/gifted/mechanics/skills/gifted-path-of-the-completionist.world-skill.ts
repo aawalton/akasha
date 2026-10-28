@@ -6,7 +6,8 @@ export const giftedPathOfTheCompletionist = {
   slug: "gifted-path-of-the-completionist",
   title: "Path of the Completionist",
   world: "world/gifted",
+  abilityKind: "world-ability-kind/gifted-path",
   description: "An Elite Path walked by completing other Paths.",
   createdAt: "2026-10-27T19:36:42.513Z",
-  updatedAt: "2026-10-27T19:36:42.513Z",
+  updatedAt: "2026-10-28T00:39:10.863Z",
 } as const satisfies WorldSkill

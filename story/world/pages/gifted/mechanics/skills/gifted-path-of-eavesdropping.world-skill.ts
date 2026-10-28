@@ -6,7 +6,8 @@ export const giftedPathOfEavesdropping = {
   slug: "gifted-path-of-eavesdropping",
   title: "Path of Eavesdropping",
   world: "world/gifted",
+  abilityKind: "world-ability-kind/gifted-path",
   description: "A Basic Path walked by listening in on other people's talk.",
   createdAt: "2026-10-27T19:36:42.513Z",
-  updatedAt: "2026-10-27T19:36:42.513Z",
+  updatedAt: "2026-10-28T00:39:10.863Z",
 } as const satisfies WorldSkill

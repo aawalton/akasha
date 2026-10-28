@@ -6,7 +6,8 @@ export const giftedPathOfBasicNumeracy = {
   slug: "gifted-path-of-basic-numeracy",
   title: "Path of Basic Numeracy",
   world: "world/gifted",
+  abilityKind: "world-ability-kind/gifted-path",
   description: "A Basic Path walked by counting and reckoning sums.",
   createdAt: "2026-10-27T19:36:42.513Z",
-  updatedAt: "2026-10-27T19:36:42.513Z",
+  updatedAt: "2026-10-28T00:39:10.863Z",
 } as const satisfies WorldSkill

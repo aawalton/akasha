@@ -6,7 +6,8 @@ export const giftedPathOfSoulstealing = {
   slug: "gifted-path-of-soulstealing",
   title: "Path of Soulstealing",
   world: "world/gifted",
+  abilityKind: "world-ability-kind/gifted-path",
   description: "A Path walked by taking other souls into one's own.",
   createdAt: "2026-10-27T19:36:42.513Z",
-  updatedAt: "2026-10-27T19:36:42.513Z",
+  updatedAt: "2026-10-28T00:39:10.863Z",
 } as const satisfies WorldSkill

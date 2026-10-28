@@ -6,7 +6,8 @@ export const giftedPathOfExceptionalism = {
   slug: "gifted-path-of-exceptionalism",
   title: "Path of Exceptionalism",
   world: "world/gifted",
+  abilityKind: "world-ability-kind/gifted-path",
   description: "An Elite Path walked by doing what is exceptional.",
   createdAt: "2026-10-27T19:36:42.513Z",
-  updatedAt: "2026-10-27T19:36:42.513Z",
+  updatedAt: "2026-10-28T00:39:10.863Z",
 } as const satisfies WorldSkill
