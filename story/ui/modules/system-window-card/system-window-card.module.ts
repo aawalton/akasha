@@ -14,6 +14,10 @@ export const systemWindowCard = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A skill's card whose kind holds slots is headed by that title and Unlocked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The kind is read off the world skill the card's skill is titled as.",
     },
     {
@@ -32,5 +36,5 @@ export const systemWindowCard = {
     },
   ],
   createdAt: "2026-09-02T17:25:53.928Z",
-  updatedAt: "2026-10-28T14:00:14.652Z",
+  updatedAt: "2026-10-28T14:08:12.235Z",
 } as const satisfies Module

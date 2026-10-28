@@ -180,6 +180,8 @@ function LevelUpCard({ level, attrPoints }: { level: number; attrPoints?: number
 
 const SKILL = "Skill"
 
+const UNLOCKED = " Unlocked"
+
 const UNSETTLED = " "
 
 function valuesOf(asked: Asked): readonly Readonly<Record<string, unknown>>[] {
@@ -200,10 +202,11 @@ async function abilityKindTitleOf(skill: string): Promise<string> {
     await askedLoudly({
       "page-type": worldAbilityKind.slug,
       where: { slug: { in: [...slugs] } },
-      keys: [SLUG_KEY, TITLE_KEY],
+      keys: [SLUG_KEY, TITLE_KEY, ACTIVE_SLOTS_KEY],
     })
   )
-  return abilityKindTitlesOf(skills, kinds).get(skill) ?? SKILL
+  const title = abilityKindTitlesOf(skills, kinds).get(skill) ?? SKILL
+  return slottedTitlesOf(skills, kinds).has(skill) ? `${title}${UNLOCKED}` : title
 }
 
 function useAbilityKindTitle(skill: string): string | null {
