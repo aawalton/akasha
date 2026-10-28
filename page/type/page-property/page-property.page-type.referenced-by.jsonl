@@ -55,6 +55,9 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/readout/properties/rest-days.select-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/readout/properties/served-by.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/readout/widget/properties/families.text-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/medicine/cause-of-death/properties/baseline-rates.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/medicine/cause-of-death/properties/icd10-codes.text-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/medicine/cause-of-death/properties/risk-factors.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/music/catalog/artist/properties/artist-genre.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/music/catalog/track/properties/carried-by.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/music/catalog/track/properties/track-artist.record-property.types.ts","typed":true,"deferred":false}

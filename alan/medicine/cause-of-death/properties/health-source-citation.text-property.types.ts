@@ -1,0 +1,1 @@
+export type HealthSourceCitation = string

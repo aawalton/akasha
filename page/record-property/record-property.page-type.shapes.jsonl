@@ -1,4 +1,5 @@
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"audio-media","propertySlug":"audio","fileName":null,"folderName":null}
+{"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"baseline-rates","propertySlug":"baseline-rates","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"bonus-effects","propertySlug":"effects","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"build-env-secret","propertySlug":"from-secret","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"carried-by","propertySlug":"carried-by","fileName":null,"folderName":null}
@@ -54,6 +55,7 @@
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"replacement-patterns","propertySlug":"replacement-patterns","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"request","propertySlug":"request","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"rescued-credential","propertySlug":"rescued-credential","fileName":null,"folderName":null}
+{"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"risk-factors","propertySlug":"risk-factors","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"runtime-env-secret","propertySlug":"from-secret","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"seat-gateway","propertySlug":"seat-gateway","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"seat-notices","propertySlug":"seat-notices","fileName":null,"folderName":null}

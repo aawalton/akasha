@@ -186,6 +186,11 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/reminder-system/reminder/properties/reminder-schedule.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/reminder-system/reminder/properties/reminder-text.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/sms-core/telnyx-account/properties/telnyx-account-api-key.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/health-source-citation.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/icd10-codes.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/risk-factor-applied-as.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/risk-factor-name.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/risk-factor-person-property.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/artist/properties/artist-genre.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/song/properties/lyrics-source.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/track/properties/track-key.text-property.ts","typed":true,"deferred":false}

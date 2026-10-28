@@ -103,6 +103,14 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/readout/scale/properties/red-at.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/readout/scale/properties/yellow-at.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/readout/widget/properties/taps.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/age-band-end.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/age-band-start.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/deaths-per-hundred-thousand.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/disability-weight.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/disability-years-before-death.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/relative-risk-central.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/relative-risk-high.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/relative-risk-low.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/music/catalog/track/properties/disc-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-calls-in-window.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/relationships/connection-activity/properties/connection-activity-attn.number-property.ts","typed":true,"deferred":false}
