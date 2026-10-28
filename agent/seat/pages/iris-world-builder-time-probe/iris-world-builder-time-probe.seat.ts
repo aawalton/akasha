@@ -11,6 +11,7 @@ export const irisWorldBuilderTimeProbe = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "b6e6250c-54d6-4ce2-89ee-4652999c9d48",
   createdAt: "2026-10-28T01:48:09.710Z",
-  updatedAt: "2026-10-28T01:48:09.710Z",
+  updatedAt: "2026-10-28T01:48:13.208Z",
 } as const satisfies Seat
