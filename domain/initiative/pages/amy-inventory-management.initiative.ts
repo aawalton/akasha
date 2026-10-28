@@ -9,13 +9,9 @@ export const amyInventoryManagement = {
   intentStack: [
     {
       statement:
-        "Each Saturday, Inventory Management counts a character whose items belong and who saw a banker.",
-    },
-    {
-      statement:
         "Buy shortfall buys guild store stacks within the shortfall, at most TTC's suggested price.",
     },
   ],
   createdAt: "2026-09-26T15:25:47.417Z",
-  updatedAt: "2026-10-28T17:41:58.442Z",
+  updatedAt: "2026-10-28T17:41:59.873Z",
 } as const satisfies Initiative
