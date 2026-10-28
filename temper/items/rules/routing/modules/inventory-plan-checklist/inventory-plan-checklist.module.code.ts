@@ -19,7 +19,7 @@ export function formatPlanChecklist(plan: ManagementPlan): string {
 
   const lines: string[] = [
     HEADER,
-    `${plural(plan.sessions.length, "login")} · ${plural(plan.totalVenueVisits, "stop")} · ${plural(plan.totalSlots, "item")}`,
+    `${plural(plan.sessions.length, "login")} · ${plural(plan.totalVenueVisits, "stop")} · ${plural(plan.totalSlots, "stack")}`,
     "",
   ]
   let loginNumber = 0

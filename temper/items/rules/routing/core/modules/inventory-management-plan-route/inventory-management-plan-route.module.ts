@@ -16,7 +16,11 @@ export const inventoryManagementPlanRoute = {
       decisionKind: "decision-kind/departure",
       statement: "An item already where the rule sends that item needs no route.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A routed item keeps the stack size its holding reads.",
+    },
   ],
   createdAt: "2026-09-02T08:51:47.593Z",
-  updatedAt: "2026-09-22T10:07:57.000Z",
+  updatedAt: "2026-10-28T19:08:00.033Z",
 } as const satisfies Module

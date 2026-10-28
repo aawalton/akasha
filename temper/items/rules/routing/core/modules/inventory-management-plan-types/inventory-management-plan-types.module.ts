@@ -16,7 +16,15 @@ export const inventoryManagementPlanTypes = {
       statement:
         "A character session gathers the venue stops one character makes before the next takes over.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A plan item carries the stack size the holdings read beside its units.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A group's, a stop's, a session's and a plan's count are counts of stacks.",
+    },
   ],
   createdAt: "2026-09-02T08:51:47.594Z",
-  updatedAt: "2026-09-21T15:39:02.000Z",
+  updatedAt: "2026-10-28T19:08:00.033Z",
 } as const satisfies Module

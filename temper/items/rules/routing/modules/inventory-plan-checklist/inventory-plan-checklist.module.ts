@@ -6,12 +6,18 @@ export const inventoryPlanChecklist = {
   slug: "inventory-plan-checklist",
   definition: "a management plan written out as a checklist a player reads while playing",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A checklist follows the plan's stops in the order the stops are visited.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every count a checklist says is a count of stacks, and its total is called stacks.",
+    },
   ],
   createdAt: "2026-09-02T09:02:04.765Z",
-  updatedAt: "2026-09-21T15:29:55.000Z",
+  updatedAt: "2026-10-28T19:08:00.033Z",
 } as const satisfies Module

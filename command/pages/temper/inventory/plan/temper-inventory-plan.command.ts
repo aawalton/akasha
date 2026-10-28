@@ -30,6 +30,14 @@ export const temperInventoryPlan = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every count the plan and the checklist say is a count of stacks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The plan's JSON keeps each item's units beside the stacks it counts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The unmapped report names the items reaching the end of the rules with no rule acting on them.",
     },
@@ -103,5 +111,5 @@ export const temperInventoryPlan = {
     { argument: "argument/unmapped" },
   ],
   createdAt: "2026-09-02T03:49:49.654Z",
-  updatedAt: "2026-10-20T13:58:19.061Z",
+  updatedAt: "2026-10-28T19:08:00.033Z",
 } as const satisfies Command

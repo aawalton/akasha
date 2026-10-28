@@ -37,9 +37,17 @@ export function buildActionGroups(items: readonly PlanItem[]): readonly ActionGr
       a.itemName.localeCompare(b.itemName)
     )
     const totalValue = sumItemValues(mergedItems)
-    groups.push({ label, items: mergedItems, slotCount: mergedItems.length, totalValue })
+    let slotCount = 0
+    for (const item of mergedItems) slotCount += stacksOf(item)
+    groups.push({ label, items: mergedItems, slotCount, totalValue })
   }
   return groups
+}
+
+export function stacksOf(item: PlanItem): number {
+  const size = item.maxStackSize
+  if (size === undefined || size <= 0) return 1
+  return Math.max(1, Math.ceil(item.stackCount / size))
 }
 
 function sumItemValues(items: readonly PlanItem[]): number | undefined {
@@ -74,6 +82,7 @@ function mergeDisplayItems(items: readonly PlanItem[]): readonly PlanItem[] {
     const existing = mergeMap.get(key)
     if (existing) {
       existing.stackCount += item.stackCount
+      existing.maxStackSize ??= item.maxStackSize
     } else {
       const copy = { ...item }
       mergeMap.set(key, copy)

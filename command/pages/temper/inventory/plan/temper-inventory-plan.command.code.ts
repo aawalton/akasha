@@ -60,6 +60,7 @@ import type {
   PlanItem,
   VenueStop,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import { stacksOf } from "akasha/temper/items/rules/routing/modules/inventory-management-plan-grouping/inventory-management-plan-grouping.module.code.ts"
 
 const NAMED = [
   jsonArgument,
@@ -124,7 +125,7 @@ function venueRows(plan: ManagementPlan): ReadonlyMap<string, Map<string, number
   const labelToVerbs = new Map<string, Map<string, number>>()
   const holdItem = (item: PlanItem, verbs: Map<string, number>): undefined => {
     const verb = verbOf(item.action, undefined)
-    verbs.set(verb, (verbs.get(verb) ?? 0) + item.stackCount)
+    verbs.set(verb, (verbs.get(verb) ?? 0) + stacksOf(item))
     return undefined
   }
   const holdVenue = (venue: VenueStop): undefined => {

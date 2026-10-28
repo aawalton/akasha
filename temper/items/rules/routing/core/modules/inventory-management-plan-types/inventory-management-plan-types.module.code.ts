@@ -16,6 +16,7 @@ export interface PlanItem {
   itemId: number
   itemName: string
   stackCount: number
+  maxStackSize?: number
   quality: number
   action: ItemAction
   note?: string

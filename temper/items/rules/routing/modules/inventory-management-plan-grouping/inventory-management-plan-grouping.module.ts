@@ -6,7 +6,20 @@ export const inventoryManagementPlanGrouping = {
   slug: "inventory-management-plan-grouping",
   definition: "the plan's items put into groups by the action taken on them",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A group counts the stacks its items take rather than its items or their units.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A merged item takes its units over its stack size, rounded up, in stacks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item whose stack size the holdings never read takes one stack.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A group's total is the sum of the item values the group has.",
@@ -25,5 +38,5 @@ export const inventoryManagementPlanGrouping = {
     },
   ],
   createdAt: "2026-09-02T09:02:04.763Z",
-  updatedAt: "2026-09-27T10:05:14.000Z",
+  updatedAt: "2026-10-28T19:08:00.033Z",
 } as const satisfies Module

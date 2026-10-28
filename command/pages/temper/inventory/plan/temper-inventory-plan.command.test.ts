@@ -89,8 +89,8 @@ test("a plan with no venue stop says so rather than saying nothing", () => {
   expect(planSaid(empty)).toEqual(["[TemperItems] Plan:", "  (no actions pending)"])
 })
 
-test("a venue stop says each action it holds by the word for that action", () => {
-  const fish = { itemId: 1, itemName: "Fish", stackCount: 4, quality: 1 }
+test("a venue stop says each action it holds by the word for that action, counted in stacks", () => {
+  const fish = { itemId: 1, itemName: "Fish", stackCount: 450, maxStackSize: 200, quality: 1 }
   const plan: ManagementPlan = {
     sessions: [
       {
@@ -115,7 +115,7 @@ test("a venue stop says each action it holds by the word for that action", () =>
     totalSlots: 2,
   }
 
-  expect(planSaid(plan)).toEqual(["[TemperItems] Plan:", "  Crafting Station — fillet 4, bind 4"])
+  expect(planSaid(plan)).toEqual(["[TemperItems] Plan:", "  Crafting Station — fillet 3, bind 3"])
 })
 
 test("holdings every rule reaches are said as such rather than as an empty list", () => {

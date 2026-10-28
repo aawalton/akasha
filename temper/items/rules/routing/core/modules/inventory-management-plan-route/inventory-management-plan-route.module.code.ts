@@ -48,6 +48,7 @@ export function resolveItemRoute(
     itemId: item.itemId,
     itemName: item.itemName,
     stackCount,
+    maxStackSize: item.maxStackSize,
     quality: item.quality,
     action,
     value: computePlanItemValue(action, item),
