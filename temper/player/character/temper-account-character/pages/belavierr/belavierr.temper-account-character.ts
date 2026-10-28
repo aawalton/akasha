@@ -9,11 +9,12 @@ export const belavierr = {
   completion: "json",
   esoCharacterId: "8796093063486895",
   accountPage: "temper-account/alanarre",
+  targetBuildId: "01a18415-177d-77a9-a999-98ad7861056d",
   race: "temper-race/nord",
   class: "temper-class/necromancer",
   firstName: "Belavierr",
   fights: "jsonl",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:18.724Z",
-  updatedAt: "2026-10-20T14:17:20.236Z",
+  updatedAt: "2026-10-28T19:56:15.905Z",
 } as const satisfies TemperAccountCharacter
