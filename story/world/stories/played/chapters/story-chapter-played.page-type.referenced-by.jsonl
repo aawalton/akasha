@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/clone/story-clone.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/montage/modules/montage-placing/montage-placing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/settle/modules/settle-timing/settle-timing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}

@@ -8,7 +8,7 @@ export const storySettle = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: ["module/settle-taking", "module/settling-finding"],
+  parts: ["module/settle-taking", "module/settling-finding", "module/settle-timing"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -17,6 +17,10 @@ export const storySettle = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The dice are rolled here, and the caller hands in only the reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story's time reading starts where its turn starts, as settle-timing says.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -142,5 +146,5 @@ export const storySettle = {
     { argument: "argument/draft" },
   ],
   createdAt: "2026-09-26T14:39:37.211Z",
-  updatedAt: "2026-10-27T22:26:04.226Z",
+  updatedAt: "2026-10-28T01:43:28.649Z",
 } as const satisfies Command

@@ -2569,6 +2569,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/montage/modules/montage-taking/montage-taking.module.ts","id":"01a17ef5-e63b-740c-bbaa-3db13e33d903"}
 {"propertySlug":"decision-kind","path":"command/pages/story/montage/story-montage.command.ts","id":"01a17ef5-e63b-7d66-8b7e-d812cccdc2a8"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/modules/settle-taking/settle-taking.module.ts","id":"01a1019b-5c58-702b-951c-3fc5ff239f6b"}
+{"propertySlug":"decision-kind","path":"command/pages/story/settle/modules/settle-timing/settle-timing.module.ts","id":"01a1802d-3489-704f-9077-2fb3e63e348b"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/modules/settling-finding/settling-finding.module.ts","id":"01a17f62-99b3-7c26-bfe6-8d4b1e5489ad"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"decision-kind","path":"command/pages/story/state/story-state.command.ts","id":"01a10299-5dfe-7f4b-b89b-b0b3fe5b0896"}

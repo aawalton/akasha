@@ -56,6 +56,7 @@ import {
   type Taken,
   taken,
 } from "akasha/command/pages/story/settle/modules/settle-taking/settle-taking.module.code.ts"
+import { timedFor } from "akasha/command/pages/story/settle/modules/settle-timing/settle-timing.module.code.ts"
 import { settlingFound } from "akasha/command/pages/story/settle/modules/settling-finding/settling-finding.module.code.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
@@ -324,10 +325,13 @@ async function settledOn(
   landing: Landing,
   reach: Reach
 ): Promise<Answer> {
-  const held = taken(argv, given.calledAs)
-  if ("refused" in held) return refused(held.refused, INPUT)
-  const placed = placedFor(given.root, held, reach)
+  const said = taken(argv, given.calledAs)
+  if ("refused" in said) return refused(said.refused, INPUT)
+  const placed = placedFor(given.root, said, reach)
   if ("refused" in placed) return refused(placed.refused, placed.by)
+  const timed = timedFor(given.root, said, placed.turns, placed.on)
+  if ("refused" in timed) return refused(timed.refused, INPUT)
+  const { held } = timed
   if (held.drafts) return await drafted(held, placed, given)
   const read = onDisk(given.root)
   const made = await rollMade(given.root, held, placed, read, (one) =>
