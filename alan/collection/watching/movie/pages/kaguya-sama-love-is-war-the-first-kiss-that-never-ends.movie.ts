@@ -15,9 +15,10 @@ export const kaguyaSamaLoveIsWarTheFirstKissThatNeverEnds = {
       source: "tmdb",
       externalId: "997317",
       externalLink: "https://www.themoviedb.org/movie/997317",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Kaguya-sama: Love Is War -The First Kiss That Never Ends-",
   createdAt: "2026-10-28T18:45:00.272Z",
-  updatedAt: "2026-10-28T18:45:00.272Z",
+  updatedAt: "2026-10-28T19:47:34.240Z",
 } as const satisfies Movie
