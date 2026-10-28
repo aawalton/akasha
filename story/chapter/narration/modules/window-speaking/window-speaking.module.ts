@@ -31,6 +31,10 @@ export const windowSpeaking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An award naming a stat under its group's title is said as that stat unlocked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A fenced screen in a chapter is said one line at a time.",
     },
     {
@@ -44,5 +48,5 @@ export const windowSpeaking = {
     },
   ],
   createdAt: "2026-10-05T20:26:35.515Z",
-  updatedAt: "2026-10-28T16:04:01.781Z",
+  updatedAt: "2026-10-28T16:30:58.877Z",
 } as const satisfies Module

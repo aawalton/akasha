@@ -5,6 +5,7 @@ import {
   askingFor,
   filingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { abilitiesOf } from "akasha/story/chapter/narration/modules/abilities/narration-abilities.module.code.ts"
 import {
   type NarrationSegment,
   narrationSegmentsOf,
@@ -14,17 +15,9 @@ import {
 } from "akasha/story/chapter/narration/modules/segments/narration-segments.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 import {
-  ABILITY_KIND_KEY,
-  ACTIVE_SLOTS_KEY,
   NO_ABILITIES,
-  SLUG_KEY,
-  TIER_STEPS_KEY,
-  TITLE_KEY,
   type WorldAbilities,
-  worldAbilitiesOf,
 } from "akasha/story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts"
-import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
-import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
 
 const VOICE = "af_heart"
 
@@ -237,21 +230,6 @@ async function pronunciationsOf(world: string | null): Promise<readonly Pronunci
   })
   if ("refused" in found) return []
   return pronunciationsFor(found.rows, world)
-}
-
-const KIND_KEYS = [SLUG_KEY, TITLE_KEY, ACTIVE_SLOTS_KEY]
-
-const SKILL_KEYS = [TITLE_KEY, ABILITY_KIND_KEY, TIER_STEPS_KEY]
-
-async function abilitiesOf(world: string | null): Promise<WorldAbilities> {
-  if (world === null) return NO_ABILITIES
-  const where = { world: { is: world } }
-  const [skills, kinds] = await Promise.all([
-    askingFor({ pageTypeSlug: worldSkill.slug, where, keys: SKILL_KEYS }),
-    askingFor({ pageTypeSlug: worldAbilityKind.slug, where, keys: KIND_KEYS }),
-  ])
-  if ("refused" in skills || "refused" in kinds) return NO_ABILITIES
-  return worldAbilitiesOf(skills.rows, kinds.rows)
 }
 
 async function rowHeld(pageTypeSlug: string, row: Row): Promise<Told<ChapterRow>> {

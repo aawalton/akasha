@@ -92,6 +92,7 @@ describe("narrationSegmentsOf", () => {
       abilityKinds: new Map(),
       slottedAbilities: new Set(["Path of Soulstealing"]),
       heldAbilities: new Map(),
+      statGroupTitles: new Set(),
     })
     expect(said.map((one) => one.text)).toEqual([
       "Start.",
@@ -117,6 +118,7 @@ describe("narrationSegmentsOf", () => {
       abilityKinds: new Map(),
       slottedAbilities: new Set(["Path of the Completionist"]),
       heldAbilities: new Map(),
+      statGroupTitles: new Set(),
     })
     expect(said.map((one) => one.text)).toEqual(["Start.", "Status: Path of the Completionist."])
   })

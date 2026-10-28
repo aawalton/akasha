@@ -381,7 +381,7 @@ function windowWords(window: WrittenWindow): number {
 
 function blocksOf(
   prose: string,
-  { abilityKinds, slottedAbilities, heldAbilities }: WorldAbilities
+  { abilityKinds, slottedAbilities, heldAbilities, statGroupTitles }: WorldAbilities
 ): Block[] {
   const blocks: Block[] = []
   const counted: Counted = { words: 0 }
@@ -394,7 +394,7 @@ function blocksOf(
     }
     const words = windowWords(run.window)
     const quiet = slottedWindowOf(run.window, slottedAbilities)
-    const said = spokenWindow(quiet, abilityKinds, heldAbilities)
+    const said = spokenWindow(quiet, abilityKinds, heldAbilities, statGroupTitles)
     const again = last !== null && sameWindow(last, run.window)
     setApart(blocks, again ? said.slice(1) : said, { wordStart: counted.words, words })
     last = run.window

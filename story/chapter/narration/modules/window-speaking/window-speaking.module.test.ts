@@ -66,6 +66,14 @@ describe("spokenWindow", () => {
         held
       )
     ).toEqual(["Path Unlocked: Path of Endurance."])
+    expect(
+      spokenWindow(
+        { kind: "item-award", name: "Talented", note: "Advanced Attribute: Talented (100)" },
+        kinds,
+        held,
+        new Set(["Advanced Attribute"])
+      )
+    ).toEqual(["Advanced Attribute Unlocked: Talented."])
   })
 
   test("a level up says the level reached", () => {

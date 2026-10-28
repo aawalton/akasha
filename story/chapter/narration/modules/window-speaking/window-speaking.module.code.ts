@@ -2,6 +2,7 @@ import {
   abilityTitleIn,
   describedIn,
   tierIn,
+  toldIn,
   unlockIn,
   type WrittenWindow,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
@@ -89,6 +90,17 @@ const NO_KINDS: ReadonlyMap<string, string> = new Map()
 
 const NO_HELD: ReadonlyMap<string, HeldAbility> = new Map()
 
+const NO_GROUPS: ReadonlySet<string> = new Set()
+
+type Described = { label: string; value: string }
+
+function groupUnlockIn(described: readonly Described[], groups: ReadonlySet<string>) {
+  const one = described.find(({ label }) => groups.has(label.trim()))
+  if (one === undefined) return null
+  const rest = toldIn(described.filter((other) => other !== one))
+  return { kind: one.label.trim(), name: abilityTitleIn(one.value.trim()), rest }
+}
+
 const STATUS = "Status"
 
 function statusHeading(held: HeldAbility | undefined, note: string | undefined): string {
@@ -99,7 +111,8 @@ function statusHeading(held: HeldAbility | undefined, note: string | undefined):
 export function spokenWindow(
   window: WrittenWindow,
   abilityKinds: ReadonlyMap<string, string> = NO_KINDS,
-  heldAbilities: ReadonlyMap<string, HeldAbility> = NO_HELD
+  heldAbilities: ReadonlyMap<string, HeldAbility> = NO_HELD,
+  statGroupTitles: ReadonlySet<string> = NO_GROUPS
 ): string[] {
   const { kind, name, rung, level, note } = window
   const abilityKind = abilityKinds.get(name ?? "") ?? SKILL
@@ -128,7 +141,8 @@ export function spokenWindow(
       )
     case "item-award": {
       const kindOf = (title: string) => heldAbilities.get(title)?.kind
-      const unlock = note === undefined ? null : unlockIn(describedIn(note), kindOf)
+      const described = note === undefined ? [] : describedIn(note)
+      const unlock = unlockIn(described, kindOf) ?? groupUnlockIn(described, statGroupTitles)
       if (unlock !== null) {
         return [
           ...sentences(named(`${unlock.kind} Unlocked`, unlock.name)),

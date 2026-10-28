@@ -9,6 +9,7 @@ export const narration = {
     "module/window-speaking",
     "module/narration-segments",
     "module/narration-telling",
+    "module/narration-abilities",
     "module/narration-playhead",
     "module/narration-listening",
     "module/narration-player",
@@ -142,5 +143,5 @@ export const narration = {
     },
   ],
   createdAt: "2026-10-05T20:21:33.528Z",
-  updatedAt: "2026-10-13T15:43:54.505Z",
+  updatedAt: "2026-10-28T16:30:58.877Z",
 } as const satisfies Domain
