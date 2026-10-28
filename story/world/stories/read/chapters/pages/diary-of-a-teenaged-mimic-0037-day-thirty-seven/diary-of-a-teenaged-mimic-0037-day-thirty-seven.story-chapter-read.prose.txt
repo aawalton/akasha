@@ -1,0 +1,133 @@
+Dear Diary,
+
+Remedial Mana Shaping again today. Once Doc had my detector set up and my bubble around me, I set to practicing my Status and Inspect spells. By halfway through the class I'd soaked my uniform with sweat again. I never thought I could exhaust myself sitting still, especially with more Endurance than any two normal people ought to have, but here we are.
+
+As I sat taking a breather, I remembered a couple things I'd wanted to ask, and raised my hand to get the teacher's attention. They saw me and nodded after a few seconds, but it took them like half an hour to get Carruthers to the point he could practice by himself so they could disengage.
+
+"What did you need, Cadet Diaz?"
+
+I'd almost forgotten my question, but managed to remember the core of it. "Can a Spell like Inspect be used on more than one person, or do you need to reshape it for every person you want to Inspect?"
+
+They paused a moment, giving my question some thought before answering. "Inspect specifically ought to be able to target more than one person, although you'd need a fairly large spell to catch all of them in your Spell's field of view. You'd also fill that same sized field of view with all the various Status screens, which might be counterproductive if you're fighting multiple opponents."
+
+I frowned, "Could you retarget it on a new person, so you're only looking at one Inspect at a time?"
+
+They frowned. "I'm... honestly not sure." They looked around the classroom, sighing when they saw Carruthers picking his nose.
+
+"Cadet Carruthers, come over here please."
+
+He jerked like he'd been slapped, trying to hide the booger on his finger as he stood and walked over to us. Doc took down my bubble while asking, "Do you mind if Cadet Diaz uses an Inspect on you?"
+
+He asked, "Can I do one on her?"
+
+"At the moment, no you can't, because you've yet to successfully cast Status, let alone Inspect. Cadet Diaz, would you mind Cadet Carruthers practicing his Inspect on you in turn?"
+
+I shrugged. "Sounds fair to me."
+
+Doc positioned Carruthers at the far right of my field of vision, then moved themselves to my far left. That done, they put a protective sphere around us all, then a slightly smaller one inside that. "Now, Cadet Diaz, begin with Cadet Carruthers, then attempt to change the subject of your Inspect to myself."
+
+I nodded. "Okay. Why like that?"
+
+"For the same reason I took your left side. Inspect, like Status, essentially attempts to divine information from a being's Aura. Unless I am sorely mistaken, my Aura is significantly more powerful than Carruthers', which should make it easier for you to retarget your Inspect."
+
+"And you're on my left because?"
+
+They nodded, "for many people the left side of their bodies is more in tune with their own Aura. While that is not universally true, and the difference is typically marginal in any case, moving from dexter to sinister should be easier than the opposite."
+
+I think I really must have been a little nervous, especially with Doc putting up two layers of protective spheres before we started. "Dexter to sinister?"
+
+They nodded once more, this time looking a little abashed as they answered, "The technical Mana Shaping terms for dominant and submissive sides of a being. In a normal first year Mana Shaping class, we study the terminology almost exclusively for the first few weeks, but here in this class I've found it best to focus on a more hands on approach." They frowned, "You aren't left handed, are you?"
+
+"Nope. Thanks for the info though. You both ready?"
+
+They nodded, and I turned my head just a little toward Carruthers, until I could barely see Doc in my peripheral vision. I pushed my Inspect spell out the same way I had in Basic Heroics, and within a second or so Carruthers' Status screen floated before my eyes.
+
+NAME
+
+Linus Carruthers
+
+RACE
+
+Hybrid
+
+HYBRID
+
+Bag (6.25%) / Dan (12.5%) / Human (81.25%)
+
+AGE
+
+Young Adult
+
+ATTRIBUTES
+
+STRENGTH
+
+6
+
+AGILITY
+
+3
+
+ENDURANCE
+
+4
+
+REASON
+
+1
+
+MEMORY
+
+2
+
+PERSONALITY
+
+1
+
+AFFINITIES
+
+Earth (6.25%) / Fire (9.375%)
+
+PATRON
+
+Apollo
+
+SKILLS
+
+RESIST COMPULSION
+
+1 (+)
+
+RACIAL SKILLS
+
+RESIST CORRUPTION
+
+4
+
+I glanced over the sheet, just to make sure nothing seemed out of whack. When I got to the Resist Compulsion skill, I quietly asked, "is it okay to ask if I see something unusual about the results of my Inspect?"
+
+Doc's answer came immediately, a sign they'd been thinking about me asking something along those lines. "If you were to reveal something personal about Cadet Carruthers without first asking his permission, that would be at the least extremely rude, as well as borderline illegal."
+
+"I don't think it's personal, but," I looked at Carruthers and raised an eyebrow. He just stared until I asked, "do you mind if I ask Doc about something I see on your Status?"
+
+He thought about it for a bit. I swear I saw a little smoke coming out of his ears as the gears inside ground to life. Finally he nodded. "Yeah, that's okay, just keep it quiet, 'kay?"
+
+I lowered my voice to a near whisper and said, "next to one of Carruthers' skills I see a plus next to the number. Is that a glitch?"
+
+In a similarly low tone they replied, "I don't believe so. If Carruthers is technically a Young Adult, any except his Racial skills ought to be capped. That means that while he can practice, and he will gain marginally greater ability with those skills, until he becomes an Adult the skill will not rise. Upon achieving adulthood, such skills will rise very quickly." After a short pause, they continued, "That is, I suppose, one of the biggest reasons we strongly discourage graduation to Hero status for any student who is not yet an Adult; the limitations of Young Adulthood are a serious impediment, and could lead to death or injury in the field."
+
+I waited, but they were done speaking. "Okay, I'm gonna try to change targets." I turned my head, but even when I concentrated on Doc, who was directly in front of me, Carruthers' Status screen remained stubbornly in place. I moved it around a bit, eventually looking directly between them, placing the Status screen over my view of Carruthers and then moving it through my field of view to where Doc stood. Still no joy. Eventually I got frustrated. "It's not working."
+
+Doc patted me on the shoulder as they dispersed their protective bubbles. "Don't be frustrated, Tabitha. Even coming up with a Spell which is functionally equivalent to an existing Spell can often take years of trial and error; changing the actual functionality of a Spell is substantially harder. Still, you have one of the most important qualities for a Mana researcher."
+
+I knew they were trying to console me, but I wanted some consolation, dammit. "What's that?"
+
+"Changing a Spell at all requires casting it time and time again; most researchers seek out the most Mana efficient variation of the Spell before even attempting research. You, on the other hand, seem to have plenty of Mana not only to Shape your Spells, but to do so in the most Mana intensive way possible. If you could trim down the flamboyance, you would be an absolute natural at Spell research." They looked like they wanted to say more, but cut themselves off.
+
+"What else?"
+
+They smiled, "So perceptive. Spell Research is dangerous, Cadet. Very dangerous. Most researchers undertake their studies only due to some pressing external factor, and even then do so with the greatest of trepidation. You, on the other hand..." They petered off.
+
+"Go on," I prompted.
+
+They seemed to argue with themselves a moment before coming to a decision, nodding as they finished their sentence, "You, on the other hand, have absolutely no fear whatsoever."
