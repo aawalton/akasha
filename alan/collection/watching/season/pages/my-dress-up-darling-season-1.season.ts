@@ -9,9 +9,10 @@ export const myDressUpDarlingSeason1 = {
   partOfCollections: ["show/my-dress-up-darling"],
   position: 1,
   publishedAt: "2022-01-09",
-  status: "in-progress",
+  status: "completed",
   unit: "unit/minutes",
   title: "My Dress-Up Darling Season 1",
   createdAt: "2026-10-16T11:18:07.147Z",
-  updatedAt: "2026-10-16T11:18:07.147Z",
+  updatedAt: "2026-10-28T17:06:36.688Z",
+  completedAt: "2026-10-28",
 } as const satisfies Season

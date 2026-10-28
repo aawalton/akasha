@@ -6,11 +6,11 @@ export const myDressUpDarlingS01e24 = {
   slug: "my-dress-up-darling-s01e24",
   description: 'Marin, Wakana, and the others finally have their "Coffin" group cosplay session.',
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 24,
   publishedAt: "2025-09-21",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -24,5 +24,7 @@ export const myDressUpDarlingS01e24 = {
   stillPath: "/zLlymDGY6YwNpbPTfpJOritPWql.jpg",
   voteAverage: 7.8,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:36.688Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:36.688Z",
 } as const satisfies Episode
