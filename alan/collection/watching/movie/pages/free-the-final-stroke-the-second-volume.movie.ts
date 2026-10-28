@@ -15,9 +15,11 @@ export const freeTheFinalStrokeTheSecondVolume = {
       source: "tmdb",
       externalId: "823417",
       externalLink: "https://www.themoviedb.org/movie/823417",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Free! the Final Stroke the Second Volume",
+  streamingOn: ["Crunchyroll"],
   createdAt: "2026-10-28T18:48:44.321Z",
-  updatedAt: "2026-10-28T18:48:44.321Z",
+  updatedAt: "2026-10-28T19:47:17.208Z",
 } as const satisfies Movie
