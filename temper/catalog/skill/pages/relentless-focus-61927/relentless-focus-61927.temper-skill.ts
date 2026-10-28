@@ -20,7 +20,7 @@ export const relentlessFocus61927 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1014,
   createdAt: "2026-05-28T16:03:33.478Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-28T19:51:56.491Z",
   equations: [
     "<<1>> = Major Savagery (Constant)",
     "<<2>> = 12% (Constant)",
@@ -28,7 +28,7 @@ export const relentlessFocus61927 = {
     "<<4>> = 10 (Constant)",
     "<<5>> = 4 (Constant)",
     "<<5>> = 4 (Constant, Repeat)",
-    "<<6>> = 0.18593702 MaxStat + 1.9523388 MaxPower (Ultimate, Dmg, Disease, SingleTarget, Direct)",
+    "<<6>> = 0.18594 MaxStat + 1.95237 MaxPower (Ultimate, Dmg, Disease, SingleTarget, Direct, single precision)",
     "<<7>> = 34% (Constant)",
   ],
 } as const satisfies TemperSkill
