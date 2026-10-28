@@ -6,6 +6,7 @@ import {
   proseWindowSegmentsIn,
   slottedWindowOf,
   tierIn,
+  unlockIn,
   windowOf,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 
@@ -226,4 +227,16 @@ test("a window's tier is its Tier line, and a tier's threshold line is none", ()
   expect(tierIn(describedIn("Tier: 2; Mental: +1"))).toBe(2)
   expect(tierIn(describedIn("Tier 1: 10 steps; Reward: more"))).toBeNull()
   expect(tierIn(describedIn("Class: Enthraller"))).toBeNull()
+})
+
+test("a field naming an ability under its kind's title is that ability's unlock, quieted", () => {
+  const kindOf = (title: string) => (title === "Path of Soulstealing" ? "Path" : undefined)
+  const note = "Path: Path of Soulstealing (mutated); Steps: 0; Unallocated Stats: 2"
+  expect(unlockIn(describedIn(note), kindOf)).toEqual({
+    kind: "Path",
+    name: "Path of Soulstealing (mutated)",
+    rest: [{ label: "Unallocated Stats", value: "2" }],
+  })
+  expect(unlockIn(describedIn("Skill: Path of Soulstealing"), kindOf)).toBeNull()
+  expect(unlockIn(describedIn("Recovered from: the seat"), kindOf)).toBeNull()
 })

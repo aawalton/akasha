@@ -48,7 +48,11 @@ export const proseWindows = {
       decisionKind: "decision-kind/departure",
       statement: "A window's tier is the number its Tier line states.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field naming an ability under its kind's title makes the window that unlock.",
+    },
   ],
   createdAt: "2026-09-24T16:45:13.902Z",
-  updatedAt: "2026-10-28T14:44:27.149Z",
+  updatedAt: "2026-10-28T16:04:01.781Z",
 } as const satisfies Module

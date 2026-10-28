@@ -196,3 +196,18 @@ export function windowOf(written: WrittenWindow): SystemWindow | undefined {
   const drawn = SystemWindowSchema.safeParse(drawnOf(written))
   return drawn.success ? drawn.data : undefined
 }
+
+export type Unlock<Said> = { readonly kind: string; readonly name: string; readonly rest: Said[] }
+
+export function unlockIn<Said extends { label: string; value: string }>(
+  descriptors: readonly Said[],
+  kindOf: (title: string) => string | undefined
+): Unlock<Said> | null {
+  for (const one of descriptors) {
+    const name = one.value.trim()
+    const kind = kindOf(abilityTitleIn(name))
+    if (kind === undefined || kind.toLowerCase() !== one.label.trim().toLowerCase()) continue
+    return { kind, name, rest: toldIn(descriptors.filter((other) => other !== one)) }
+  }
+  return null
+}

@@ -59,6 +59,13 @@ describe("spokenWindow", () => {
     expect(said({ kind: "status-assessment", name: "Path of Endurance" })).toBe(
       "Status: Path of Endurance."
     )
+    expect(
+      spokenWindow(
+        { kind: "item-award", name: "Reward", note: "Path: Path of Endurance; Steps: 0" },
+        kinds,
+        held
+      )
+    ).toEqual(["Path Unlocked: Path of Endurance."])
   })
 
   test("a level up says the level reached", () => {

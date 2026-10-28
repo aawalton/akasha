@@ -6,6 +6,7 @@ import {
   abilityTitleIn,
   tierIn,
   toldIn,
+  unlockIn,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import type {
   ItemAward,
@@ -163,11 +164,34 @@ function TalentActivationCard({ activation }: { activation: TalentActivation }) 
   )
 }
 
+const LETTERED = /\p{L}/u
+
+type Descriptor = NonNullable<ItemAward["descriptors"]>[number]
+
+function abilityNamedIn(descriptors: readonly Descriptor[]): string {
+  const named = descriptors.find(
+    (one) => one.label !== "" && LETTERED.test(one.value) && toldIn([one]).length === 1
+  )
+  return named?.value.trim() ?? ""
+}
+
 function ItemAwardCard({ award }: { award: ItemAward }) {
+  const all = award.descriptors ?? []
+  const named = abilityNamedIn(all)
+  const held = useHeldAbility(named)
+  const unlock =
+    held == null
+      ? null
+      : unlockIn(all, (title) => (title === abilityTitleIn(named) ? held.kind : undefined))
+  const reading = named !== "" && held === undefined
+  const banner = reading ? UNSETTLED : unlock === null ? ITEM : `${unlock.kind}${UNLOCKED}`
+  const shown = reading ? toldIn(all) : (unlock?.rest ?? all)
   return (
-    <WindowFrame banner="Item Acquired" bannerClass="text-accent">
-      <div className="font-mono font-semibold text-[14px] text-primary">{award.item}</div>
-      {award.descriptors?.map((descriptor, index) => (
+    <WindowFrame banner={banner} bannerClass="text-accent">
+      <div className="font-mono font-semibold text-[14px] text-primary">
+        {unlock?.name ?? award.item}
+      </div>
+      {shown.map((descriptor, index) => (
         <CardField
           key={`${descriptor.label}-${index}`}
           label={descriptor.label}
@@ -192,6 +216,10 @@ function LevelUpCard({ level, attrPoints }: { level: number; attrPoints?: number
 const SKILL = "Skill"
 
 const STATUS = "Status Assessment"
+
+const ITEM = "Item Acquired"
+
+const UNLOCKED = " Unlocked"
 
 const UNSETTLED = " "
 

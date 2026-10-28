@@ -177,7 +177,7 @@ export const gameMaster = {
       aids: [
         "A level, a skill, an item; never a story beat.",
         "The crossing tick is a climb too, and earns one.",
-        "A newly gained ability opens a `:::skill` window.",
+        "A newly gained ability opens a `:::skill` window, even as an Achievement's reward.",
         "A tier an ability crosses opens a `:::status-assessment` window naming it, with a `Tier: <n>` line.",
       ],
     },
@@ -304,5 +304,5 @@ export const gameMaster = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-28T15:26:39.416Z",
+  updatedAt: "2026-10-28T16:04:01.781Z",
 } as const satisfies Role

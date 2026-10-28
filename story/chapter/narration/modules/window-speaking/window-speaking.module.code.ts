@@ -2,6 +2,7 @@ import {
   abilityTitleIn,
   describedIn,
   tierIn,
+  unlockIn,
   type WrittenWindow,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import {
@@ -52,11 +53,14 @@ function sentences(...lines: (string | undefined)[]): string[] {
   })
 }
 
-function noteSentences(note: string | undefined): string[] {
-  if (note === undefined) return []
-  return describedIn(note).flatMap(({ label, value }) =>
+function describedSentences(described: readonly { label: string; value: string }[]): string[] {
+  return described.flatMap(({ label, value }) =>
     sentences(label === "" ? value : `${label}, ${value}`)
   )
+}
+
+function noteSentences(note: string | undefined): string[] {
+  return note === undefined ? [] : describedSentences(describedIn(note))
 }
 
 function levelSentence(level: number | undefined): string | undefined {
@@ -122,8 +126,17 @@ export function spokenWindow(
         levelSentence(level),
         ...noteSentences(note)
       )
-    case "item-award":
+    case "item-award": {
+      const kindOf = (title: string) => heldAbilities.get(title)?.kind
+      const unlock = note === undefined ? null : unlockIn(describedIn(note), kindOf)
+      if (unlock !== null) {
+        return [
+          ...sentences(named(`${unlock.kind} Unlocked`, unlock.name)),
+          ...describedSentences(unlock.rest),
+        ]
+      }
       return sentences(named("Item received", name), ...noteSentences(note))
+    }
     case "quest-offer":
     case "quest-added":
       return sentences(named("New quest", name), note)

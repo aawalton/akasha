@@ -38,7 +38,12 @@ export const systemWindowCard = {
       decisionKind: "decision-kind/departure",
       statement: "A status card stating an ability's tier is headed as that tier's crossing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An award naming an ability under its kind's title is drawn as that ability Unlocked.",
+    },
   ],
   createdAt: "2026-09-02T17:25:53.928Z",
-  updatedAt: "2026-10-28T14:44:27.149Z",
+  updatedAt: "2026-10-28T16:04:01.781Z",
 } as const satisfies Module

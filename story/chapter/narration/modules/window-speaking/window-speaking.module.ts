@@ -26,7 +26,8 @@ export const windowSpeaking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A window naming an ability is said under the heading its card shows.",
+      statement:
+        "A window naming an ability, as its name or under its kind's title, is said as its card heads it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,5 +44,5 @@ export const windowSpeaking = {
     },
   ],
   createdAt: "2026-10-05T20:26:35.515Z",
-  updatedAt: "2026-10-28T15:05:41.633Z",
+  updatedAt: "2026-10-28T16:04:01.781Z",
 } as const satisfies Module
