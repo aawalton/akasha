@@ -42,8 +42,8 @@ export const eternusOnlineLitrpgPortalFantasyAntiHero = {
     "Supernatural",
     "Villainous Lead",
   ],
-  publicationStatus: "ongoing",
+  publicationStatus: "hiatus",
   readLater: true,
   createdAt: "2026-10-23T08:52:02.806Z",
-  updatedAt: "2026-10-23T08:52:02.806Z",
+  updatedAt: "2026-10-28T16:30:24.897Z",
 } as const satisfies StoryRead

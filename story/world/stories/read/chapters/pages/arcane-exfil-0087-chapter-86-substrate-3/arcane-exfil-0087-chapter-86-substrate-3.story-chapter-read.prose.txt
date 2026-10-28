@@ -1,0 +1,119 @@
+Miles and Ethan responded at once, their entrance heralded by the detonation of two unfortunate cultists who’d gotten too far out front of the pack.
+
+And Cole wasn’t kidding at all when it came to the use of the word detonation. If anything, it was an understatement. He hadn’t watched men come apart quite like that since the last time he’d seen insurgents think they could challenge an Apache’s thirty-mike. The two cultists had their torsos erased outright. Whatever the rounds left of them sprayed across the concourse in a wet red mist, painting the floor and the comrades unlucky enough to have been standing behind them.
+
+The honest part, as fucked-up as it sounded, was that it came as a relief. It was a seriously morbid thing, rejoicing over a couple guys getting turned inside out fifteen feet away, and he knew it. But after however many minutes of dumping rounds into the Alpha Mimic to absolutely no effect, there was something almost therapeutic about watching the Vicers finally cut loose as the handheld cannons they were built to be.
+
+The reminder did terrible, terrible damage to cultist morale. Their fire dropped off hard, the survivors burrowing into cover now that they’d seen what those rounds left of a man.
+
+Given the circumstances, it actually surprised him a little. He’d half figured a crew that worshipped a literal demon to be past the point of flinching at anything, and here they were, ducking and going quiet like anybody else with a working sense of self-preservation.
+
+Cole wasn’t about to bet on it lasting, though. Fear bought him a lull and not much more; a real fanatic only stayed scared until the conviction caught back up and burned the fear back out of him. The question was just how long the gap ran.
+
+In the meantime, the relative quiet gave him an opportunity to whittle their numbers down before they ran out of options and charged.
+
+He leaned past the pillar, found the sliver of a cultist who’d left too much of himself showing behind the lip of the kiosk, and took his jaw off. The body pitched out of cover and collapsed into view.
+
+The return fire got a lot sparser after that. The cultists who did try to fight back resorted to firing blind, reduced to sticking a revolver around the edge of cover and emptying it down the concourse without ever looking where it went.
+
+Every so often, though, some amateur would leave an arm exposed for just a bit too long, enough for a trained marksman to shoot at. Cole and his team picked off several more cultists and goblins that way, chipping at the edges until the survivors finally decided it was do or die.
+
+Unfortunately for them, their only real option was the latter.
+
+The second they broke cover and charged, it turned into one giant turkey shoot. Same thing that happened to anybody dumb enough to charge a machine gun across open ground in World War I, just scaled down to a hallway. The handful who lived long enough to reconsider turned around and tried to run, only to die doing that instead.
+
+After turning the last of the cultists into chunks of meat, Miles and Ethan pushed forward to clear the corridor proper. Though with body parts already splattered across half of it, the answer was pretty self-evident.
+
+“Clear,” Miles said after a quick look, sounding about as invested as a man reading off a grocery list.
+
+Cole reloaded and turned back to the mimic.
+
+While they’d kept themselves busy with the cultists, Mack’s group had gotten a hell of a lot done. They’d driven the Alpha Mimic back into the mouth of the hallway and frozen off its escape route, making use of all the meltwater from earlier. Whatever they were doing to it now, though, was something new.
+
+Cole studied the setup, trying to figure out what the hell he was looking at.
+
+They’d boxed the Alpha Mimic into what was basically a prison cell, ice walls sealing off every side except one. The open face nearest him was bridged by one of Vale’s barriers, the Celdornian holding it steady to close the gap where the ice came up short. Part of the barrier pinched inward into a narrow throat before opening back into the cell, basically an intake. Another section stretched down the hallway like a straight pipe, an exhaust line to vent the spent gas out the far end.
+
+Off to the side, Graves fed a fire with the rat carcasses from earlier, drawing the black smoke off the flames in a thin ribbon and funneling it into a second barrier sphere hovering just outside the intake. The soot itself never made it inside, catching on the sphere’s wall so that what accumulated within stayed clear apart from a faint white haze of condensation. Had to be carbon dioxide.
+
+But for what?
+
+Cole traced the line back toward the intake nozzle. Then it clicked. The whole thing was built around adiabatic expansion. Gases cooled as they expanded, and the more they expanded, the colder they got.
+
+And that was exactly what happened. The second Mack clamped down on the sphere and squeezed, the compressed gas blasted through the throat and expanded into the cell beyond. The temperature crashed with it. Frost raced across every surface inside, moisture skipping straight past liquid and depositing as ice.
+
+Damn. They’d built a fucking refrigerator with magic.
+
+It took him a minute to piece that together, but once he did, he couldn’t help being a little impressed.
+
+“Can’t say I’ve ever seen some shit like this,” Miles said, ambling up beside him with his rifle slung. “Y’all need help?”
+
+“Yeah, just keep burning the rats if you can,” Mack answered, eyes never leaving the sphere he wrung the gas out of. “Graves can handle the CO2.”
+
+Miles squinted at that. “Yeah, but CO2? What’re you needin’ that for?”
+
+“It’s a heat pump.” Ethan took the question, since Mack had gone tunnel-vision on the cell. “Not too far off how a fridge works, basically.”
+
+“This your idea?” Cole asked.
+
+Ethan nodded. “Yeah.”
+
+That figured. Seemed like something he would think up.
+
+Elina watched the frost climb the cell, her brow drawing in. “Our iceboxes draw the heat off with a cooling glyph, fed from a reservoir.” She looked over the sphere, the throat, the pipe running off down the hall. “I see neither here. How is it you pull the heat with neither?”
+
+Cole fished another mana potion off his belt, thumbed the cork loose, and knocked it back, the trickle of it carving a little more off the headache before he answered.
+
+“Oh – right. Yeah, ours don’t work like your iceboxes. Honestly, probably a lesson for another time.”
+
+Elina’s mouth pressed into a small pout at that.
+
+Cole relented. “Alright, well – short version, you cram a bunch of compressed gas in through that nozzle there. And when it expands out the other side, it cools way down, so the room goes cold with it. Then that cold gas soaks up all the heat, and once it’s warmed back up, you pump it out and shove fresh cold gas in behind it. Round and round.”
+
+He waved at the exhaust line running off down the hall, which covered the gist of it without having to lecture them on thermodynamics.
+
+And the proof was right there in the cell, the cold already well into its work. Frost climbed every inch of the Alpha Mimic, the gel beneath gone cloudy and brittle, fractures spreading out wherever the freeze had bitten hardest. It tried to shift a limb, only for the whole thing to splinter like spring ice on a lake, shards shearing loose and skittering across the floor.
+
+“Pretty damn effective, too.” Mack grinned down at it, the grin a good deal more sadistic than the one he usually wore.
+
+Graves studied the cell. “I have not faced its like before. But I have buried men over lesser things than this, and so have better Slayers than I. To put it down without a grave to dig after – I would not have thought it possible.”
+
+Even Vale held his tongue, which was a sight in itself. The man almost never passed up a chance to lacquer his own commentary over the top of something. Was he, dare Cole say it, actually impressed?
+
+Ethan warmed to it. “There’s plenty more where that came from. Once we’re back, we could sit down and see if we can’t work out where the physics and chemistry from our side give us the most bang for the buck. Figure out what’s worth building first.” He paused. “Though, now that I think about it, that’d mean benching us for a while, if you’re okay with that. Pull us off rotation so we can run the experiments and get it standardized for the rest of the Slayers.”
+
+“A useful thing indeed,” Elina said. “Yet have you done the like before?”
+
+Ethan gave a small shrug. “Well – not personally, no.”
+
+“If it counts for anything,” Miles said, “I’ve sat in on a few classes run by Green Berets. Our professors, basically—” He caught himself. “Well. The fellas who do the teachin’, where we’re from. In terms of killin’, not academia. Long story.”
+
+Vale did not look away from the barrier he held. “Your experience wants for depth, plainly. Still, I’d sooner see talent of any measure spent in strengthening the whole of Celdorne at once, rather than frittered out one operation at a time.”
+
+Graves inclined his head. “Just so.” He looked to Vale. “Gideon – will you lend my proposal your name before the Director-General?”
+
+Vale’s mouth curled. “I see no cause to withhold it. They shall sit idle whilst we sort the intelligence in any event – better we put them to some use than leave them to languish.”
+
+Cole let the talk wash past him and kept his eyes on the cell.
+
+The temperature inside had to be somewhere down in liquid-nitrogen territory by now, the CO2 flooding the cell thick enough to fog the air white. The Alpha Mimic had gone still, at least in any volitional sense. What remained of it drew inward, the gel shriveling and hardening as the temperature plummeted, pulling the whole mass into a sealed, rounded shell. The thing stood a good ten feet tall, caked over with frost and tapered at the top like some monstrous cocoon. The gel had gone glassy under the frost, crystallizing from the inside out.
+
+Cole didn’t like the look of it. Something about it set off alarms in his gut – everybody a little too sure the hard part was over. He’d seen enough horror movies to know how this scene usually went.
+
+“Think it’s about time to confirm the kill, Mack. Plasmaball?”
+
+“On it,” Mack said. “Take the barrier and keep the gas going. I’ll tell you when to stop.”
+
+The moment Cole took over, Mack stepped back and brought up his wand. The air around it started to warp, but it came in slower than it had against the Vampire Lord, sputtering.
+
+“Gimme a sec,” he said. “Mana’s running low.”
+
+Cole settled into the barrier and the intake, holding the cell steady while maintaining the gas flow.
+
+The frost kept eating inward. Sheets of the frozen gel began to slough off the outside, peeling away in brittle plates that shattered when they hit the floor, until what stood inside the cell was just the cocoon itself, glassy and pale and still.
+
+Cole watched it a moment longer. “Mack?”
+
+“Yeah, yeah. Almost there.”
+
+He’d just finished forming the core of it when the cocoon cracked open.
