@@ -123,8 +123,13 @@ export function plannedFor(root: string, helds: readonly Held[]): Planned {
   const keeping = new Map<string, Set<string>>()
   const reading = readingIn(root)
   const keeps = new Map<string, readonly Keep[]>()
+  const whole = new Set<string>()
   for (const held of helds) {
     for (const kind of held.kinds) {
+      if (held.slugs === null) {
+        if (whole.has(kind)) continue
+        whole.add(kind)
+      }
       for (const one of pagesOf(reading, kind, held.slugs)) {
         pages.add(dirname(join(root, one.path)))
       }

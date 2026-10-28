@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { watch, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { ReadableStreamDefaultReader } from "node:stream/web"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   tempPathFor,
   writeFileAtomicSync,
@@ -11,6 +12,7 @@ import { askedIn } from "akasha/page/service/modules/follow-asking/follow-asking
 import {
   type Held,
   heardOf,
+  plannedFor,
   type Target,
 } from "akasha/page/service/modules/follow-planning/follow-planning.module.code.ts"
 import {
@@ -165,6 +167,19 @@ test("a kept file heard is a change to each page whose calculation read it, or t
   expect(changesFor(named, turn, readers)).toEqual([{ pageTypeSlug: "story-played", slug: "a" }])
   const other: Target = { kind: "story-played", slugs: new Set(["b"]), computed: "held/other.ts" }
   expect(changesFor(other, turn, readers)).toEqual([{ pageTypeSlug: "story-played", slug: "b" }])
+})
+
+test("a page type every stream follows whole is planned as it is for one stream", () => {
+  const root = rootOf(import.meta.dir)
+  const seats = held("seats", ["seat"], null)
+  const once = plannedFor(root, [seats])
+  expect(once.pages.size).toBeGreaterThan(0)
+  expect(
+    plannedFor(
+      root,
+      Array.from({ length: 50 }, () => seats)
+    )
+  ).toEqual(once)
 })
 
 test("an event is framed as a named server-sent event", () => {
