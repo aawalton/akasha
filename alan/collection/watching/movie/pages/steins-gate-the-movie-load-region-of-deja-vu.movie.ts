@@ -15,9 +15,10 @@ export const steinsGateTheMovieLoadRegionOfDejaVu = {
       source: "tmdb",
       externalId: "225745",
       externalLink: "https://www.themoviedb.org/movie/225745",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Steins;Gate: The Movie - Load Region of Déjà Vu",
   createdAt: "2026-10-28T18:45:39.203Z",
-  updatedAt: "2026-10-28T18:45:39.203Z",
+  updatedAt: "2026-10-28T19:48:17.251Z",
 } as const satisfies Movie
