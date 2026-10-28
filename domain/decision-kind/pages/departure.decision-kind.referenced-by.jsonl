@@ -4130,6 +4130,7 @@
 {"propertySlug":"decision-kind","path":"story/world/designs/properties/story-premise.file-property.ts","id":"01a06577-f385-7179-9713-a0ebc7944548"}
 {"propertySlug":"decision-kind","path":"story/world/designs/properties/visual-style.text-property.ts","id":"01a06577-f385-7c1c-8e0b-5a8d4ac8821f"}
 {"propertySlug":"decision-kind","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts","id":"01a17ff1-08c1-7ce1-ba38-4ef7f17de05a"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/appointments/properties/appointment-at.instant-property.ts","id":"01a0e3b2-a002-7fc4-bd6d-43ed66441878"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/appointments/world-appointment.page-type.ts","id":"01a0e3b2-a003-7bf8-a19f-54df5fd87c0c"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/checks/action-difficulties/action-difficulty.page-type.ts","id":"01a17eed-1904-7693-9800-12acdbba4c77"}
@@ -4177,6 +4178,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/ranks/world-rank.page-type.ts","id":"01a0dedc-02c6-7d54-befb-802e0962a76b"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.ts","id":"01a0de40-70c2-7965-8757-30658bc2f9ba"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/skills/character-skill/character-skill.page-type.ts","id":"01a10362-0c7c-73f8-a241-d557905e128b"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/skills/properties/ability-kind.relation-property.ts","id":"01a17ff1-08c1-77f0-a51f-086702ca6b44"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/skills/properties/skill-attribute.relation-property.ts","id":"01a17ebd-0fe1-701f-8c20-b038c1c009c4"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/skills/properties/skill-experience.number-property.ts","id":"01a17ebd-0fe2-790b-8a05-079205691525"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/species/character-species/character-species.page-type.ts","id":"01a0f20b-f5fe-7225-9dc6-e532a26f95d1"}

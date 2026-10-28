@@ -1,3 +1,4 @@
+import type { AbilityKind } from "akasha/story/world/mechanics/skills/properties/ability-kind.relation-property.types.ts"
 import type { SkillAttribute } from "akasha/story/world/mechanics/skills/properties/skill-attribute.relation-property.types.ts"
 import type { SkillDurationMinutes } from "akasha/story/world/mechanics/skills/properties/skill-duration-minutes.number-property.types.ts"
 import type { SkillExperience } from "akasha/story/world/mechanics/skills/properties/skill-experience.number-property.types.ts"
@@ -9,4 +10,5 @@ export type WorldSkill = WorldMechanic & {
   durationMinutes?: SkillDurationMinutes
   experience?: SkillExperience
   attribute?: SkillAttribute
+  abilityKind?: AbilityKind
 }

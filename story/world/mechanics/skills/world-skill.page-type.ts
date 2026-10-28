@@ -13,6 +13,7 @@ export const worldSkill = {
     "number-property/skill-duration-minutes",
     "number-property/skill-experience",
     "relation-property/skill-attribute",
+    "relation-property/ability-kind",
   ],
   runsTabooCheck: false,
   types: "ts",
@@ -22,7 +23,8 @@ export const worldSkill = {
     { pageProperty: "number-property/skill-duration-minutes", required: false, many: false },
     { pageProperty: "number-property/skill-experience", required: false, many: false },
     { pageProperty: "relation-property/skill-attribute", required: false, many: false },
+    { pageProperty: "relation-property/ability-kind", required: false, many: false },
   ],
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-10-27T20:05:18.843Z",
+  updatedAt: "2026-10-28T00:37:45.279Z",
 } as const satisfies PageType
