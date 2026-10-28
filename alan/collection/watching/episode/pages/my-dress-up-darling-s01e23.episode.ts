@@ -7,11 +7,11 @@ export const myDressUpDarlingS01e23 = {
   description:
     "Everyone is getting ready for the upcoming Coffin group cosplay but they also have a surprise for Juju.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 23,
   publishedAt: "2025-09-14",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const myDressUpDarlingS01e23 = {
   stillPath: "/vi9o3PZN9fKct1NrbxKMpP9aUK8.jpg",
   voteAverage: 7.5,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:35.598Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:35.598Z",
 } as const satisfies Episode
