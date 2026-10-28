@@ -6,7 +6,7 @@ export const TRIES = 6
 
 const WAIT_MS = 10_000
 
-export type Waiting = (ms: number) => Promise<unknown>
+type Waiting = (ms: number) => Promise<unknown>
 
 const slept: Waiting = async (ms) => await Bun.sleep(ms)
 
