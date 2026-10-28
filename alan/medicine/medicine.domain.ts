@@ -14,9 +14,20 @@ export const medicine = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every factor of Alan's other than a lab value is learned by interviewing him.",
+      statement:
+        "A factor of Alan's that is neither a lab value nor logged is learned by interviewing him.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Alan's physical activity is his mean daily active energy over the trailing three months.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A day under 100 kilocalories of active energy is read as a day the watch was off.",
     },
   ],
   createdAt: "2026-09-03T13:00:18.032Z",
-  updatedAt: "2026-10-28T17:58:43.254Z",
+  updatedAt: "2026-10-28T18:02:01.230Z",
 } as const satisfies Domain
