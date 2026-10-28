@@ -11,6 +11,7 @@ interface StatSubcategoryPanelCardProps {
   subcategoryName: string
   subcategoryNodes: readonly MetricTreeNode[]
   stats: StatsRecord
+  statusDamage: Readonly<Record<string, number>>
   searchTerm?: string
   onStatClick: (metric: MetricValue) => void
   showAdvancedMetrics?: boolean
@@ -20,11 +21,12 @@ export function StatSubcategoryPanelCard({
   subcategoryName,
   subcategoryNodes,
   stats,
+  statusDamage,
   searchTerm,
   onStatClick,
   showAdvancedMetrics,
 }: StatSubcategoryPanelCardProps) {
-  if (!hasVisibleMetricRows(subcategoryNodes, stats, showAdvancedMetrics)) {
+  if (!hasVisibleMetricRows(subcategoryNodes, stats, statusDamage, showAdvancedMetrics)) {
     return null
   }
 
@@ -35,6 +37,7 @@ export function StatSubcategoryPanelCard({
         <MetricTreeRenderer
           nodes={subcategoryNodes}
           stats={stats}
+          statusDamage={statusDamage}
           searchTerm={searchTerm}
           onMetricClick={onStatClick}
           showAdvancedMetrics={showAdvancedMetrics}

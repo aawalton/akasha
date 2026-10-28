@@ -9,6 +9,8 @@ import { useEffect, useState } from "react"
 export function useStatsCalculation(build: CharacterState) {
   const [frontStats, setFrontStats] = useState<Partial<Record<MetricId, MetricValue>>>({})
   const [backStats, setBackStats] = useState<Partial<Record<MetricId, MetricValue>>>({})
+  const [frontStatusDamage, setFrontStatusDamage] = useState<Readonly<Record<string, number>>>({})
+  const [backStatusDamage, setBackStatusDamage] = useState<Readonly<Record<string, number>>>({})
   const [frontSources, setFrontSources] = useState<readonly EffectSource[]>([])
   const [backSources, setBackSources] = useState<readonly EffectSource[]>([])
   const [isLoading, setIsLoading] = useState(true)
@@ -26,6 +28,8 @@ export function useStatsCalculation(build: CharacterState) {
         if (!cancelled) {
           setFrontStats(frontResult.metrics)
           setBackStats(backResult.metrics)
+          setFrontStatusDamage(frontResult.statusDamage)
+          setBackStatusDamage(backResult.statusDamage)
           setFrontSources(frontResult.sources)
           setBackSources(backResult.sources)
         }
@@ -48,6 +52,8 @@ export function useStatsCalculation(build: CharacterState) {
   return {
     frontStats,
     backStats,
+    frontStatusDamage,
+    backStatusDamage,
     frontSources,
     backSources,
     isLoading,

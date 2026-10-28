@@ -18,7 +18,7 @@ import { isNamedSource } from "akasha/temper/player/character/formula-framework/
 import { metricTree } from "akasha/temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts"
 import {
   isMetricNode,
-  isSubcategoryNode,
+  isStatusEffectNode,
   type MetricTreeNode,
 } from "akasha/temper/player/character/stat/modules/metric-tree-types/metric-tree-types.module.code.ts"
 import { getMetricDisplayName } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
@@ -63,9 +63,18 @@ export function StatsPanel({
   const tree = metricTree()
   const phrase = usePhrase()
 
-  const { frontStats, backStats, frontSources, backSources, isLoading } = useStatsCalculation(build)
+  const {
+    frontStats,
+    backStats,
+    frontStatusDamage,
+    backStatusDamage,
+    frontSources,
+    backSources,
+    isLoading,
+  } = useStatsCalculation(build)
 
   const activeStats = activeStatsTab === "primary" ? frontStats : backStats
+  const activeStatusDamage = activeStatsTab === "primary" ? frontStatusDamage : backStatusDamage
   const activeSources = activeStatsTab === "primary" ? frontSources : backSources
 
   const {
@@ -103,12 +112,16 @@ export function StatsPanel({
 
     const lowerSearch = searchTerm.toLowerCase()
 
-    const label = isSubcategoryNode(node) ? node.name : getMetricDisplayName(node.id)
+    const label = isMetricNode(node) ? getMetricDisplayName(node.id) : node.name
     if (label.toLowerCase().includes(lowerSearch)) {
       return true
     }
 
     if (isMetricNode(node) && stats[node.id]) {
+      return true
+    }
+
+    if (isStatusEffectNode(node) && activeStatusDamage[node.id]) {
       return true
     }
 
@@ -221,6 +234,7 @@ export function StatsPanel({
           id={`stats-${categoryKey}`}
           category={category}
           stats={activeStats}
+          statusDamage={activeStatusDamage}
           searchTerm={searchFilter}
           onStatClick={(metric) => {
             setSelectedMetric(metric)

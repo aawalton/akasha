@@ -26,7 +26,12 @@ export const metricTree = {
       statement:
         "The nodes under one parent, and the categories, are in the order of their display order.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A node of type `status-effect` carries the equations its status effect's page states.",
+    },
   ],
   createdAt: "2026-09-25T12:48:53.519Z",
-  updatedAt: "2026-09-26T18:37:16.000Z",
+  updatedAt: "2026-10-28T22:26:56.530Z",
 } as const satisfies Module

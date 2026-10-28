@@ -2,6 +2,7 @@ import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-r
 import { formatStatValue } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
 import {
   isMetricNode,
+  isStatusEffectNode,
   isSubcategoryNode,
   type MetricTreeNode,
 } from "akasha/temper/player/character/stat/modules/metric-tree-types/metric-tree-types.module.code.ts"
@@ -10,13 +11,17 @@ import { getMetricDisplayName } from "akasha/temper/player/character/stat/module
 import type { StatsRecord } from "akasha/temper/web/modules/stats-types/stats-types.module.code.ts"
 import type { ReactElement } from "react"
 
+type StatusDamage = Readonly<Record<string, number>>
+
 export function hasVisibleMetricRows(
   nodes: readonly MetricTreeNode[],
   stats: StatsRecord,
+  statusDamage: StatusDamage,
   showAdvancedMetrics: boolean | undefined
 ): boolean {
   function hasValuedMetric(node: MetricTreeNode): boolean {
     if (isMetricNode(node) && stats[node.id]) return true
+    if (isStatusEffectNode(node) && statusDamage[node.id]) return true
     if (node.children && (isSubcategoryNode(node) || showAdvancedMetrics)) {
       return node.children.some(hasValuedMetric)
     }
@@ -28,6 +33,7 @@ export function hasVisibleMetricRows(
 interface MetricTreeRendererProps {
   nodes: readonly MetricTreeNode[]
   stats: StatsRecord
+  statusDamage: StatusDamage
   searchTerm?: string
   depth?: number
   onMetricClick: (metric: MetricValue) => void
@@ -37,6 +43,7 @@ interface MetricTreeRendererProps {
 export function MetricTreeRenderer({
   nodes,
   stats,
+  statusDamage,
   searchTerm,
   depth = 0,
   onMetricClick,
@@ -45,11 +52,17 @@ export function MetricTreeRenderer({
   const lowerSearch = searchTerm?.trim().toLowerCase()
 
   function getNodeLabel(node: MetricTreeNode): string {
-    return isSubcategoryNode(node) ? node.name : getMetricDisplayName(node.id)
+    return isMetricNode(node) ? getMetricDisplayName(node.id) : node.name
   }
 
   function getNodeValue(node: MetricTreeNode): MetricValue | undefined {
     return isMetricNode(node) ? stats[node.id] : undefined
+  }
+
+  function getNodeShown(node: MetricTreeNode, value: MetricValue | undefined): string | undefined {
+    if (value) return formatStatValue(value)
+    const dealt = isStatusEffectNode(node) ? statusDamage[node.id] : undefined
+    return dealt ? formatStatValue({ value: dealt, valueType: "integer" }) : undefined
   }
 
   function getNodeOnClick(
@@ -73,8 +86,7 @@ export function MetricTreeRenderer({
       return true
     }
 
-    const value = getNodeValue(node)
-    if (value) {
+    if (getNodeShown(node, getNodeValue(node))) {
       return true
     }
 
@@ -94,6 +106,7 @@ export function MetricTreeRenderer({
 
     const label = getNodeLabel(node)
     const value = getNodeValue(node)
+    const shown = getNodeShown(node, value)
     const onClick = getNodeOnClick(node, value)
     const useAccentColor = getNodeUseAccentColor(node)
 
@@ -102,6 +115,7 @@ export function MetricTreeRenderer({
         <MetricTreeRenderer
           nodes={node.children}
           stats={stats}
+          statusDamage={statusDamage}
           searchTerm={searchTerm}
           depth={depth + 1}
           onMetricClick={onMetricClick}
@@ -109,8 +123,7 @@ export function MetricTreeRenderer({
         />
       ) : null
 
-    const shouldShowStatRow =
-      (isSubcategoryNode(node) && childrenElement) || (isMetricNode(node) && value)
+    const shouldShowStatRow = (isSubcategoryNode(node) && childrenElement) || shown
 
     if (shouldShowStatRow || childrenElement) {
       renderedNodes.push(
@@ -118,7 +131,7 @@ export function MetricTreeRenderer({
           {shouldShowStatRow && (
             <StatRow
               label={label}
-              value={value ? formatStatValue(value) : undefined}
+              value={shown}
               depth={depth}
               onClick={onClick}
               useAccentColor={useAccentColor}

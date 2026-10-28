@@ -15,7 +15,15 @@ interface MetricNode {
   useAccentColor?: boolean
 }
 
-export type MetricTreeNode = SubcategoryNode | MetricNode
+export interface StatusEffectNode {
+  type: "status-effect"
+  id: string
+  name: string
+  equations: readonly string[]
+  children?: readonly MetricTreeNode[]
+}
+
+export type MetricTreeNode = SubcategoryNode | MetricNode | StatusEffectNode
 
 export interface CategoryNode {
   id: string
@@ -33,4 +41,8 @@ export function isSubcategoryNode(node: MetricTreeNode): node is SubcategoryNode
 
 export function isMetricNode(node: MetricTreeNode): node is MetricNode {
   return node.type === "metric"
+}
+
+export function isStatusEffectNode(node: MetricTreeNode): node is StatusEffectNode {
+  return node.type === "status-effect"
 }

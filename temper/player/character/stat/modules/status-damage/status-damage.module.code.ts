@@ -1,3 +1,9 @@
+import { metricTree } from "akasha/temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts"
+import {
+  isStatusEffectNode,
+  type MetricTreeNode,
+  type StatusEffectNode,
+} from "akasha/temper/player/character/stat/modules/metric-tree-types/metric-tree-types.module.code.ts"
 import {
   equationOf,
   equationStatsOf,
@@ -37,4 +43,28 @@ export function statusDamageOf(
   ]
   const bonus = done.reduce((sum, stat) => single(sum + (held[stat] ?? 0)), 1)
   return Math.round(single(flooredSumOf(equation, equationStatsOf(held)) * bonus))
+}
+
+function statusEffectsIn(
+  nodes: readonly MetricTreeNode[] | undefined
+): readonly StatusEffectNode[] {
+  return (nodes ?? []).flatMap((node) =>
+    isStatusEffectNode(node) ? [node] : statusEffectsIn(node.children)
+  )
+}
+
+export function statusDamagesOf(
+  stats: ReadonlyMap<string, number>
+): Readonly<Record<string, number>> {
+  const held = Object.fromEntries(stats)
+  const dealt: Record<string, number> = {}
+  for (const category of Object.values(metricTree())) {
+    for (const node of statusEffectsIn(category.children)) {
+      const damage = node.equations
+        .map((line) => statusDamageOf(line, held))
+        .find((one) => one !== undefined)
+      if (damage !== undefined && damage !== 0) dealt[node.id] = damage
+    }
+  }
+  return dealt
 }

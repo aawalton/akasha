@@ -15,6 +15,7 @@ export const metricCalculator = {
     "page-type/temper-target",
     "page-type/temper-target-armor",
     "page-type/temper-vampire-stage",
+    "page-type/temper-status-effect",
     "page-type/temper-skill",
     "page-type/temper-scribed-skill",
     "page-type/temper-focus-script",
@@ -143,7 +144,12 @@ export const metricCalculator = {
       decisionKind: "decision-kind/departure",
       statement: "An estimate handed no Health takes none missing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An estimate gives each status effect's damage from the metrics as the calculation holds them.",
+    },
   ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-10-20T18:59:46.345Z",
+  updatedAt: "2026-10-28T22:26:56.530Z",
 } as const satisfies Module

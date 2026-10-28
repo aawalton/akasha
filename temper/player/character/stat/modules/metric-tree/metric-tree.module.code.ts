@@ -19,11 +19,15 @@ type Node = {
 
 type Under = ReadonlyMap<string | null, readonly Node[]>
 
+type Equations = ReadonlyMap<string, readonly string[]>
+
 type Held = { readonly children?: readonly MetricTreeNode[] }
 
 const PARENT = "temper-metric-tree/"
 
 const SUBCATEGORY = "subcategory"
+
+const STATUS_EFFECT = "status-effect"
 
 const CATEGORY = "category"
 
@@ -65,34 +69,50 @@ function nameOf(node: Node): string {
   return node.title ?? node.nodeId
 }
 
-function heldUnder(under: Under, node: Node): Held {
+function heldUnder(under: Under, equations: Equations, node: Node): Held {
   const held = under.get(`${PARENT}${node.slug}`)
-  return held === undefined ? {} : { children: held.map((one) => treeNode(under, one)) }
+  if (held === undefined) return {}
+  return { children: held.map((one) => treeNode(under, equations, one)) }
 }
 
-function treeNode(under: Under, node: Node): MetricTreeNode {
+function treeNode(under: Under, equations: Equations, node: Node): MetricTreeNode {
+  const children = heldUnder(under, equations, node)
   if (node.nodeType === SUBCATEGORY) {
-    return { type: SUBCATEGORY, id: node.nodeId, name: nameOf(node), ...heldUnder(under, node) }
+    return { type: SUBCATEGORY, id: node.nodeId, name: nameOf(node), ...children }
+  }
+  if (node.nodeType === STATUS_EFFECT) {
+    const stated = equations.get(node.nodeId) ?? []
+    return { type: STATUS_EFFECT, id: node.nodeId, name: nameOf(node), equations: stated }
   }
   return {
     type: "metric",
     id: node.nodeId as MetricId,
     ...(node.includeInChildAggregates ? { includeInChildAggregates: true } : {}),
     ...(node.useAccentColor ? { useAccentColor: true } : {}),
-    ...heldUnder(under, node),
+    ...children,
   }
 }
 
-function categoryNode(under: Under, node: Node): CategoryNode {
-  return { id: node.nodeId, name: nameOf(node), ...heldUnder(under, node) }
+function categoryNode(under: Under, equations: Equations, node: Node): CategoryNode {
+  return { id: node.nodeId, name: nameOf(node), ...heldUnder(under, equations, node) }
 }
 
-export function metricTreeOf(pages: Iterable<Value>): MetricTree {
+function equationsOf(statusEffects: Iterable<Value>): Equations {
+  return new Map(
+    [...statusEffects].map((one) => [
+      String(one.slug),
+      Array.isArray(one.equations) ? one.equations.map(String) : [],
+    ])
+  )
+}
+
+export function metricTreeOf(pages: Iterable<Value>, statusEffects: Iterable<Value>): MetricTree {
   const under = byParent([...pages].map(nodeOf))
+  const equations = equationsOf(statusEffects)
   return Object.fromEntries(
     (under.get(null) ?? [])
       .filter((node) => node.nodeType === CATEGORY)
-      .map((node) => [node.nodeId, categoryNode(under, node)])
+      .map((node) => [node.nodeId, categoryNode(under, equations, node)])
   )
 }
 

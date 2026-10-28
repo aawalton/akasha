@@ -1,7 +1,6 @@
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   type CategoryNode,
-  isMetricNode,
   isSubcategoryNode,
 } from "akasha/temper/player/character/stat/modules/metric-tree-types/metric-tree-types.module.code.ts"
 import type { MetricValue } from "akasha/temper/player/character/stat/modules/metric-value/metric-value.module.code.ts"
@@ -16,6 +15,7 @@ interface StatCategoryPanelCardProps {
   id: string
   category: CategoryNode
   stats: StatsRecord
+  statusDamage: Readonly<Record<string, number>>
   searchTerm?: string
   onStatClick: (metric: MetricValue) => void
   showAdvancedMetrics?: boolean
@@ -26,6 +26,7 @@ export function StatCategoryPanelCard({
   id,
   category,
   stats,
+  statusDamage,
   searchTerm,
   onStatClick,
   showAdvancedMetrics,
@@ -35,19 +36,20 @@ export function StatCategoryPanelCard({
     return null
   }
 
-  if (!hasVisibleMetricRows(category.children, stats, showAdvancedMetrics)) {
+  if (!hasVisibleMetricRows(category.children, stats, statusDamage, showAdvancedMetrics)) {
     return null
   }
 
   return (
     <PanelCard id={id} collapsible={true} title={category.name} className={className}>
       {category.children.map((child) => {
-        if (isMetricNode(child)) {
+        if (!isSubcategoryNode(child)) {
           return (
             <MetricTreeRenderer
               key={child.id}
               nodes={[child]}
               stats={stats}
+              statusDamage={statusDamage}
               searchTerm={searchTerm}
               onMetricClick={onStatClick}
               showAdvancedMetrics={showAdvancedMetrics}
@@ -55,21 +57,18 @@ export function StatCategoryPanelCard({
           )
         }
 
-        if (isSubcategoryNode(child)) {
-          return (
-            <StatSubcategoryPanelCard
-              key={child.id}
-              subcategoryName={child.name}
-              subcategoryNodes={child.children || []}
-              stats={stats}
-              searchTerm={searchTerm}
-              onStatClick={onStatClick}
-              showAdvancedMetrics={showAdvancedMetrics}
-            />
-          )
-        }
-
-        return null
+        return (
+          <StatSubcategoryPanelCard
+            key={child.id}
+            subcategoryName={child.name}
+            subcategoryNodes={child.children || []}
+            stats={stats}
+            statusDamage={statusDamage}
+            searchTerm={searchTerm}
+            onStatClick={onStatClick}
+            showAdvancedMetrics={showAdvancedMetrics}
+          />
+        )
       })}
     </PanelCard>
   )

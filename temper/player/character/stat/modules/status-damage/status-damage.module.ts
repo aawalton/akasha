@@ -29,7 +29,12 @@ export const statusDamage = {
       decisionKind: "decision-kind/departure",
       statement: "A stat is read as the calculation holds it, a fraction where it is one.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build's status damage is worked out for each status effect the stat tree names.",
+    },
   ],
   createdAt: "2026-10-28T22:19:27.199Z",
-  updatedAt: "2026-10-28T22:19:27.199Z",
+  updatedAt: "2026-10-28T22:26:56.530Z",
 } as const satisfies Module

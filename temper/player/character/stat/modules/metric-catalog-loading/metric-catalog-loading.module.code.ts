@@ -8,6 +8,7 @@ import {
   companionMetricCatalogOf,
   holdCompanionMetricCatalog,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
+import { temperStatusEffect } from "akasha/temper/catalog/effect/temper-status-effect/temper-status-effect.page-type.ts"
 import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
 import { temperVampireStage } from "akasha/temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts"
 import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
@@ -67,6 +68,7 @@ export const METRIC_CATALOG_READS: readonly (readonly [string, readonly string[]
       "useAccentColor",
     ],
   ],
+  [temperStatusEffect.slug, ["slug", "equations"]],
   [temperVampireStage.slug, ["slug", "key", "effects"]],
   [
     temperMetric.slug,
@@ -98,7 +100,7 @@ export function holdMetricCatalogOf(
   holdTarget(targetOf(rowsOf(temperTarget.slug)))
   holdTargetArmors(targetArmorsOf(rowsOf(temperTargetArmor.slug)))
   const nodes = rowsOf(temperMetricTree.slug)
-  holdMetricTree(metricTreeOf(nodes))
+  holdMetricTree(metricTreeOf(nodes, rowsOf(temperStatusEffect.slug)))
   holdCompanionMetricGroups(companionMetricGroupsOf(nodes))
   holdVampireStageEffects(vampireStageEffectsOf(rowsOf(temperVampireStage.slug), nodes))
   const stats = rowsOf(temperMetric.slug)

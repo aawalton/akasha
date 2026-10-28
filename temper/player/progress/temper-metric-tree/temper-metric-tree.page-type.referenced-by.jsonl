@@ -82,9 +82,6 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-bloodthirsty.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-break-free-cost.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-break-free-duration.temper-metric-tree.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-burning-damage.temper-metric-tree.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-chilled-damage.temper-metric-tree.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-concussion-damage.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-constitution.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-core-ability-cost.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-critical-damage-spell.temper-metric-tree.ts","typed":true,"deferred":false}
@@ -149,7 +146,6 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-spell-aoe-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-spell-dd-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-defense-spell-mitigation.temper-metric-tree.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-disease-damage.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-divines.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-effective-healing-spell.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-effective-healing-weapon.temper-metric-tree.ts","typed":true,"deferred":false}
@@ -213,7 +209,6 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-health-maximum.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-health-recovery.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-health-restore.temper-metric-tree.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-hemorrhaging-damage.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-la-bow.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-la-dual-wield.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-la-flame-spell-damage.temper-metric-tree.ts","typed":true,"deferred":false}
@@ -262,13 +257,11 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-movement-sprint-speed.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-movement-swim-speed.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-movement-walk-speed.temper-metric-tree.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-overcharged-damage.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-overload-damage.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-penetration-physical.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-penetration-spell.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-penetration.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-player-effective-level.temper-metric-tree.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-poisoned-damage.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-poisoned-duration.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-potion-cooldown.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-potion-duration.temper-metric-tree.ts","typed":true,"deferred":false}
@@ -308,7 +301,6 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-status-effect-chance.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-stealth-detection.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-sturdy.temper-metric-tree.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-sundered-damage.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-synergy-effectiveness.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-target-armor.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-target-attack-bonus.temper-metric-tree.ts","typed":true,"deferred":false}
@@ -341,6 +333,14 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-ultimate-generation.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-ultimate-recovery.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/metric-ultimate-restore.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/status-effect-burning.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/status-effect-chilled.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/status-effect-concussed.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/status-effect-diseased.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/status-effect-hemorrhaging.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/status-effect-overcharged.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/status-effect-poisoned.temper-metric-tree.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/status-effect-sundered.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/subcategory-block.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/subcategory-bloodthirsty.temper-metric-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/subcategory-costs.temper-metric-tree.ts","typed":true,"deferred":false}

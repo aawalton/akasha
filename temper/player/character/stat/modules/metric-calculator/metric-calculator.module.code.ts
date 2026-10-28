@@ -27,11 +27,14 @@ import {
   atOnset,
   type PowerAtOnset,
 } from "akasha/temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.code.ts"
+import { statusDamagesOf } from "akasha/temper/player/character/stat/modules/status-damage/status-damage.module.code.ts"
 
-interface CalculationResult {
-  sources: readonly EffectSource[]
-  metrics: Partial<Record<MetricId, MetricValue>>
+type Calculated = {
+  readonly metrics: Partial<Record<MetricId, MetricValue>>
+  readonly statusDamage: Readonly<Record<string, number>>
 }
+
+type CalculationResult = Calculated & { readonly sources: readonly EffectSource[] }
 
 function extractMetricReferences(node: FormulaNode): Set<MetricId> {
   const refs = new Set<MetricId>()
@@ -150,7 +153,7 @@ function withHealthHeld(sources: readonly EffectSource[], held: HealthHeld): Eff
   const none = sources.map((source) => withMissingHealth(source, () => 0))
   const health = held.health
   if (health === undefined) return none
-  const maximum = calculateBaseStats(none)["health-maximum"]?.value ?? 0
+  const maximum = calculateBaseStats(none).metrics["health-maximum"]?.value ?? 0
   if (maximum <= 0) return none
   const missing = Math.max(0, maximum - health) / maximum
   return sources.map((source) => withMissingHealth(source, (atFull) => atFull * missing))
@@ -169,7 +172,9 @@ function withHigherOfSettled(sources: readonly EffectSource[]): readonly EffectS
         effects: source.effects.filter((effect) => !isHigherOf(effect)),
       }) as EffectSource
   )
-  const before = new Map<string, number>(evaluated(left).map((metric) => [metric.id, metric.value]))
+  const before = new Map<string, number>(
+    evaluated(left).values.map((metric) => [metric.id, metric.value])
+  )
   const poolOf = (metricId: string): number => before.get(metricId) ?? 0
   const highest = (metricIds: readonly string[]): string | undefined =>
     metricIds.reduce<string | undefined>(
@@ -187,10 +192,8 @@ function withHigherOfSettled(sources: readonly EffectSource[]): readonly EffectS
   )
 }
 
-function calculateBaseStats(
-  given: readonly EffectSource[]
-): Partial<Record<MetricId, MetricValue>> {
-  const results = evaluated(withHigherOfSettled(withConditionsMet(given)))
+function calculateBaseStats(given: readonly EffectSource[]): Calculated {
+  const { values: results, statusDamage } = evaluated(withHigherOfSettled(withConditionsMet(given)))
 
   for (const metric of results) {
     if (
@@ -205,10 +208,13 @@ function calculateBaseStats(
 
   const nonZeroResults = results.filter((metric) => metric.value !== 0)
 
-  return indexBy(nonZeroResults, "id")
+  return { metrics: indexBy(nonZeroResults, "id"), statusDamage }
 }
 
-function evaluated(sources: readonly EffectSource[]): MetricValue[] {
+function evaluated(sources: readonly EffectSource[]): {
+  readonly values: MetricValue[]
+  readonly statusDamage: Readonly<Record<string, number>>
+} {
   const withFormulas = metricsWithFormulas()
   const dependencies = buildDependencyGraph(withFormulas)
 
@@ -245,7 +251,7 @@ function evaluated(sources: readonly EffectSource[]): MetricValue[] {
     results.push({ ...metric, value })
   }
 
-  return results
+  return { values: results, statusDamage: statusDamagesOf(metricValues) }
 }
 
 function calculateMetricValues(sources: readonly EffectSource[]): CalculationResult {
@@ -262,12 +268,7 @@ function calculateMetricValues(sources: readonly EffectSource[]): CalculationRes
 
   const sourcesWithBuffs: EffectSource[] = sources.concat(newBuffs)
 
-  const baseStats = calculateBaseStats(sourcesWithBuffs)
-
-  return {
-    sources: sourcesWithBuffs,
-    metrics: baseStats,
-  }
+  return { sources: sourcesWithBuffs, ...calculateBaseStats(sourcesWithBuffs) }
 }
 
 type StarPoints = {
@@ -350,7 +351,7 @@ export function calculateReadingStatsByBar(
   const built =
     stars === undefined ? fromBuild : fromBuild.flatMap((source) => asSpent(source, spent) ?? [])
   const sources = withHealthHeld([baseSource(), ...built, ...activeBuffs], healthHeld)
-  return { sources, metrics: calculateBaseStats(sources), unmatchedBuffNames }
+  return { sources, ...calculateBaseStats(sources), unmatchedBuffNames }
 }
 
 export function calculateBuildStatsByBar(
