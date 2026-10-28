@@ -137,7 +137,7 @@ export function DifficultyPanel({ storyAddress }: { readonly storyAddress: strin
   )
 
   return (
-    <SurfaceProvider level={1} className={PANEL}>
+    <SurfaceProvider className={PANEL}>
       <p className={HEADING}>Difficulty</p>
       <Select
         value={chosen ?? ""}

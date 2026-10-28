@@ -8,6 +8,7 @@ import {
 } from "akasha/design/interface/primitive/modules/collapsible/collapsible.module.code.tsx"
 import { Input } from "akasha/design/interface/primitive/modules/input/input.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import type { Wanted } from "akasha/story/world/mechanics/modules/ability-slotting/ability-slotting.module.code.ts"
@@ -188,6 +189,7 @@ type EntryProps = {
 
 export function Entry({ name, right, note, detail, acts = NO_ACTS, acting }: EntryProps) {
   const userId = useUserId()
+  const plane = useSurface()
   const said = note === undefined || note.trim() === "" ? null : note
   const actable = acts.length > 0 && acting !== undefined && actableBy(userId, acting)
   const line = (
@@ -206,7 +208,7 @@ export function Entry({ name, right, note, detail, acts = NO_ACTS, acting }: Ent
         <ChevronDown className="size-3 flex-none self-center text-tertiary transition-transform group-data-[state=open]/entry:rotate-180" />
       </CollapsibleTrigger>
       <CollapsibleContent
-        className={`mt-1 mb-2 flex flex-col gap-2 rounded-lg ${surfaceClass(2)} p-3`}
+        className={`mt-1 mb-2 flex flex-col gap-2 rounded-lg ${surfaceClass(plane + 1)} p-3`}
       >
         {detail}
         {said === null ? null : (

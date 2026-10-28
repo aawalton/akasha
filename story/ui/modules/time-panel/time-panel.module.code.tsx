@@ -17,7 +17,7 @@ type TimePanelProps = {
 export function TimePanel({ clock, upcoming }: TimePanelProps) {
   if (clock === null && upcoming.length === 0) return null
   return (
-    <SurfaceProvider level={1} className={TIME_PANEL}>
+    <SurfaceProvider className={TIME_PANEL}>
       {clock === null ? null : <p className={CLOCK_LINE}>{clock}</p>}
       {upcoming.length === 0 ? null : (
         <ul className={UPCOMING_LIST}>

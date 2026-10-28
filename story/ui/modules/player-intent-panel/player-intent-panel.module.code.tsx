@@ -90,7 +90,7 @@ export function PlayerIntentPanel({
   }, [storyAddress, text])
 
   return (
-    <SurfaceProvider level={1} className={PANEL}>
+    <SurfaceProvider className={PANEL}>
       <p className={HEADING}>Intent</p>
       <Textarea
         value={text}
