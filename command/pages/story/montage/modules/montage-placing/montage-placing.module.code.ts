@@ -70,7 +70,7 @@ const INTERRUPTS_AT = exportedAs(turnInterruptsAt.propertySlug)
 
 type Held<Of> = { readonly answered: Of } | { readonly refused: string }
 
-export type Refusing = { readonly refused: string; readonly by: typeof DATA | typeof INPUT }
+type Refusing = { readonly refused: string; readonly by: typeof DATA | typeof INPUT }
 
 export type Placed = {
   readonly montage: Montage
