@@ -10,6 +10,7 @@ import {
   getOAuthProxyHandle,
 } from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
 import { browserReapPoll } from "akasha/agent/seat/supervisor/seat-agent-mcp/modules/browser-reaping/browser-reaping.module.code.ts"
+import { startAttentionNotifyWatch } from "akasha/agent/seat/supervisor/seat-attention-notifying/modules/attention-notify-watch/attention-notify-watch.module.code.ts"
 import { autoCompactPoll } from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"
 import { replyNotifyPoll } from "akasha/agent/seat/supervisor/seat-reply-notifying/modules/reply-notify-poll/reply-notify-poll.module.code.ts"
 import { startLimitResumeMonitor } from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
@@ -32,6 +33,7 @@ type PerAgentMonitors = {
   limitResumeMonitor: { stop: () => void }
   waitResumeMonitor: { stop: () => void }
   regretWatch: { stop: () => void }
+  attentionWatch: { stop: () => void }
 }
 
 export function startPerAgentMonitors(args: {
@@ -93,11 +95,14 @@ export function startPerAgentMonitors(args: {
     },
   })
 
+  const attentionWatch = startAttentionNotifyWatch({ getAgentId: args.getAgentId, log })
+
   return {
     heartbeatTimer,
     proxyLivenessMonitor,
     limitResumeMonitor,
     waitResumeMonitor,
     regretWatch,
+    attentionWatch,
   }
 }

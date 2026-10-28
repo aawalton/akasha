@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"agent/seat/fleet/modules/seat-section/seat-section.computed-property-module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"agent/seat/properties/seat-section.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"agent/seat/properties/seat-section.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"agent/seat/supervisor/seat-attention-notifying/modules/attention-notify-watch/attention-notify-watch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"code/editor/extension/modules/agent-forest/agent-forest.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-section.computed-property-module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.code.ts","typed":false,"deferred":false}

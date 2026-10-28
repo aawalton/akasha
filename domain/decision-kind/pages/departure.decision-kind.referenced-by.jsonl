@@ -424,6 +424,8 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.ts","id":"01a06876-abda-700e-b7c6-fdaa53c08fc1"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-agent/supervisor-spawn-agent.module.ts","id":"01a06876-abda-7017-a0af-8bbe92c1bb1b"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.ts","id":"01a06876-abda-7019-8297-ce5c6eed4030"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-attention-notifying/modules/attention-notify-watch/attention-notify-watch.module.ts","id":"01a183e4-11f8-75e1-84e6-3da7555edc65"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-attention-notifying/seat-attention-notifying.domain.ts","id":"01a183e4-11f8-7279-b8e0-3c13c822d638"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-decide/supervisor-compact-decide.module.ts","id":"01a0c57e-03dc-7717-9ac2-10dfd4ab8a6f"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.ts","id":"01a0c57f-1c55-7ed6-9031-b6487631c187"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-auto-compact/seat-auto-compact.domain.ts","id":"01a0c57d-e680-71fb-8cf9-90460d5d30a7"}

@@ -32,6 +32,7 @@ export type AgentProcess = {
   limitResumeMonitor: { stop: () => void } | null
   waitResumeMonitor: { stop: () => void } | null
   regretWatch?: { stop: () => void }
+  attentionWatch?: { stop: () => void }
   mcpConfigPath: string | null
   configDir: string | null
   stopSessionWatch?: () => void

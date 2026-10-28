@@ -64,7 +64,7 @@ function ownPersonaOf(root: string, stated: string | null): string | null {
   return personaIsDefault(root, persona) ? null : persona
 }
 
-function seatOf(agentId: string): ReplySeat | null {
+export function seatOf(agentId: string): ReplySeat | null {
   const slug = seatNameForAgent(agentId)
   if (slug === null) return null
   const root = akashaRoot()
@@ -82,7 +82,7 @@ function seatOf(agentId: string): ReplySeat | null {
   }
 }
 
-function noticeOf(person: string, seat: string): Notice {
+export function noticeOf(person: string, seat: string): Notice {
   return noticeFor(valuedAt(akashaRoot(), PERSON, person).value[SEAT_NOTICES], seat)
 }
 
@@ -90,18 +90,18 @@ function idleOf(agentId: string): boolean {
   return workingOf(agentId).activeTurn === false
 }
 
-function replyOf(agentId: string): Reply | null {
+export function replyOf(agentId: string): Reply | null {
   const tail = readOwnTranscriptTail(agentId, TAIL_BYTES)
   return tail === null ? null : lastReplyIn(tail)
 }
 
-function titleOf(seat: ReplySeat): string {
+export function titleOf(seat: ReplySeat): string {
   if (seat.persona !== null) return displayNameOf(seat.persona)
   const words = (seat.role ?? seat.slug).replaceAll("-", " ")
   return `${words.charAt(0).toUpperCase()}${words.slice(1)}`
 }
 
-function excerptOf(text: string): string {
+export function excerptOf(text: string): string {
   const flat = text.replace(/\s+/g, " ").trim()
   if (flat.length <= EXCERPT_LENGTH) return flat
   return `${flat.slice(0, EXCERPT_LENGTH - 1).trimEnd()}…`
