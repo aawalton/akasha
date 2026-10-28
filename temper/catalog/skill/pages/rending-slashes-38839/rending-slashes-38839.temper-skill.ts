@@ -20,9 +20,9 @@ export const rendingSlashes38839 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1024,
   createdAt: "2026-05-28T16:03:33.497Z",
-  updatedAt: "2026-10-21T14:41:59.956Z",
+  updatedAt: "2026-10-28T19:48:02.473Z",
   equations: [
-    "<<1>> = 0.032035703 MaxStat + 0.33637488 MaxPower (Ultimate, RankMod(1), Dmg, Bleed, SingleTarget, Direct, Melee)",
+    "<<1>> = 0.03099 MaxStat + 0.325395 MaxPower (Ultimate, RankMod(1), Dmg, Bleed, SingleTarget, Direct, Melee, rank IV)",
     "<<2>> = 0.015496 MaxStat + 0.162708 MaxPower (Ultimate, Dmg, Bleed, SingleTarget, DOT, 18s duration, 2s tick, single precision)",
     "<<3>> = 20 seconds (Constant)",
     "<<4>> = 30% (Constant)",
