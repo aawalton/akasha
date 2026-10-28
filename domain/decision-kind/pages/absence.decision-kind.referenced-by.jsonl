@@ -1921,9 +1921,6 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-action-check.world-check.ts","id":"01a17fbf-aff5-77f9-8a21-3c90f97f9836"}
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-training.world-check.ts","id":"01a17fbf-aff5-7971-b3fe-026d1c8213e0"}
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-upkeep.world-check.ts","id":"01a17fbf-aff5-7bb2-8427-debb272ebc2e"}
-{"propertySlug":"decision-kind","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/mechanics/checks/skill-lock-probe-action-check.world-check.ts","id":"01a17ff2-6f78-776c-9159-8dbbf4521e61"}
-{"propertySlug":"decision-kind","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/mechanics/checks/skill-lock-probe-training.world-check.ts","id":"01a17ff2-6f78-7fb5-be2d-56e484554e0b"}
-{"propertySlug":"decision-kind","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/mechanics/checks/skill-lock-probe-upkeep.world-check.ts","id":"01a17ff2-6f78-730f-a19f-2559c5b62c74"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.ts","id":"01a17ede-ad87-7ec9-8f62-82b148152d82"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.ts","id":"01a17eeb-58ce-7db2-b591-31fafaef9d7c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-upkeep.world-check.ts","id":"01a17eeb-58cf-776b-ba64-5cc96eee1074"}

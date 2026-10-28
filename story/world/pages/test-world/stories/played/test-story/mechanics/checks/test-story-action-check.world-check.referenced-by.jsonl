@@ -1,4 +1,3 @@
 {"propertySlug":"import","fileName":"test-story-action-check.world-check.settling.code.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
 {"propertySlug":"settled-by","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-action-check.world-check.ts","id":"01a17fbf-aff5-77f9-8a21-3c90f97f9836"}
-{"propertySlug":"settled-by","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/mechanics/checks/skill-lock-probe-action-check.world-check.ts","id":"01a17ff2-6f78-776c-9159-8dbbf4521e61"}
