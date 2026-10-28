@@ -14,9 +14,9 @@ export type Widths = {
   readonly right: number
 }
 
-export const SIDEBAR_WIDTH = 500
+const SIDEBAR_WIDTH = 500
 
-export const SIDEBAR_NARROWEST = 320
+const SIDEBAR_NARROWEST = 320
 
 const SIDEBAR_WIDEST = 800
 
