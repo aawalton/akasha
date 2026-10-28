@@ -55,7 +55,11 @@ export const giftedSoulsAndDemons = {
       fact: "Past the womb's walls, many women's voices chanted the same words together, words Nala didn't know.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "The chanting voices were close on every side of Nala, rising and falling, and kept on.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T00:49:23.330Z",
+  updatedAt: "2026-10-28T00:50:02.354Z",
 } as const satisfies Lore
