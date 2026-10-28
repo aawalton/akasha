@@ -5,7 +5,7 @@
 {"beat":5,"event":"Words open in her mind, read without eyes, as plain as print on a page.","prose":"Words open in your mind. You have no eyes to read them with, and you read them anyway, plain as print on a page.","changes":[]}
 {"beat":6,"event":"Window: Achievement - Defeat a Lesser Demon Prince while unborn.","changes":[{"page":"character-title/gifted-reborn-nala-defeat-a-lesser-demon-prince-while-unborn","note":"Achievement shown: Defeat a Lesser Demon Prince while unborn","key":"unrevealed","from":true,"to":false}]}
 {"beat":7,"event":"Window: Reward - Path of the Completionist. 2 Unallocated Stats.","changes":[{"page":"character-skill/gifted-reborn-nala-path-of-the-completionist","note":"Reward shown: Path of the Completionist","key":"unrevealed","from":true,"to":false},{"page":"gifted-unallocated-stats/gifted-reborn-nala","note":"Reward: Unallocated Stats 0 → 2","key":"value","from":0,"to":2},{"page":"gifted-unallocated-stats/gifted-reborn-nala","note":"Unallocated Stats logged: 2","key":"history","append":{"turn":3,"value":2}}]}
-{"beat":8,"event":"Window: Achievement - Consume another soul."}
+{"beat":8,"event":"Window: Achievement - Consume another soul.","changes":[{"page":"character-title/gifted-reborn-nala-consume-another-soul","note":"Achievement shown: Consume another soul","key":"unrevealed","from":true,"to":false}]}
 {"beat":9,"event":"Window: Reward - Path of Soulstealing (mutated), 0 steps."}
 {"beat":10,"event":"Window: Status - Name: none. Class: Locked. Skills: none, 3 empty slots."}
 {"beat":11,"event":"Window: Body Features - Aether Core (Minor). Aether Channels (Weak)."}
