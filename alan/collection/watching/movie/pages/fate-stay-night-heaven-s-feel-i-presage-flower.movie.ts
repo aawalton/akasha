@@ -15,9 +15,11 @@ export const fateStayNightHeavenSFeelIPresageFlower = {
       source: "tmdb",
       externalId: "283984",
       externalLink: "https://www.themoviedb.org/movie/283984",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Fate/stay night: Heaven's Feel I. Presage Flower",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:50:21.159Z",
-  updatedAt: "2026-10-28T18:50:21.159Z",
+  updatedAt: "2026-10-28T19:47:09.970Z",
 } as const satisfies Movie
