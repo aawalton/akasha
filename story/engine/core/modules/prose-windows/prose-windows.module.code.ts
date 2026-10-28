@@ -197,7 +197,7 @@ export function windowOf(written: WrittenWindow): SystemWindow | undefined {
   return drawn.success ? drawn.data : undefined
 }
 
-export type Unlock<Said> = { readonly kind: string; readonly name: string; readonly rest: Said[] }
+type Unlock<Said> = { readonly kind: string; readonly name: string; readonly rest: Said[] }
 
 export function unlockIn<Said extends { label: string; value: string }>(
   descriptors: readonly Said[],
