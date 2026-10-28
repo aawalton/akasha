@@ -1,0 +1,29 @@
+import type { Episode } from "akasha/alan/collection/watching/episode/episode.page-type.types.ts"
+
+export const myHeroAcademiaS05e01 = {
+  id: "01a183d4-acc7-7b69-b92d-b58e5d54f530",
+  type: "page-type/episode",
+  slug: "my-hero-academia-s05e01",
+  description:
+    "There's an emergency drill at U.A. High School, and Class 1-A is requested to report for duty!",
+  ownLength: 24,
+  ownProgress: 0,
+  partOfCollections: ["season/my-hero-academia-season-5"],
+  position: 1,
+  publishedAt: "2021-03-27",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "2252141",
+      externalLink: "https://www.themoviedb.org/tv/65930/season/5/episode/1",
+    },
+  ],
+  title: "All Hands on Deck! Class 1-A",
+  episodeType: "standard",
+  stillPath: "/8CPIZOfP1a8Vp5kluJn1Uh4uVNx.jpg",
+  voteAverage: 7.2,
+  createdAt: "2026-10-28T18:45:15.586Z",
+  updatedAt: "2026-10-28T18:45:15.586Z",
+} as const satisfies Episode

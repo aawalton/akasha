@@ -1,0 +1,29 @@
+import type { Episode } from "akasha/alan/collection/watching/episode/episode.page-type.types.ts"
+
+export const myHeroAcademiaS07e01 = {
+  id: "01a183d4-acca-7f15-9957-86e207446b69",
+  type: "page-type/episode",
+  slug: "my-hero-academia-s07e01",
+  description:
+    "As jailbreakers run rampant in Japan, Star and Stripe flies from the U.S. to Japan to help and finds Shigaraki waiting for her in the middle of her flight path.",
+  ownLength: 24,
+  ownProgress: 0,
+  partOfCollections: ["season/my-hero-academia-season-7"],
+  position: 1,
+  publishedAt: "2024-05-04",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "4980945",
+      externalLink: "https://www.themoviedb.org/tv/65930/season/7/episode/1",
+    },
+  ],
+  title: "In the Nick of Time! A Big-Time Maverick from the West",
+  episodeType: "standard",
+  stillPath: "/6fVJvTbPBwwl4kAzZYgZ7kevqYk.jpg",
+  voteAverage: 8.4,
+  createdAt: "2026-10-28T18:45:15.586Z",
+  updatedAt: "2026-10-28T18:45:15.586Z",
+} as const satisfies Episode

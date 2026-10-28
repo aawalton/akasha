@@ -1,0 +1,29 @@
+import type { Episode } from "akasha/alan/collection/watching/episode/episode.page-type.types.ts"
+
+export const myHeroAcademiaS02e24 = {
+  id: "01a183d4-acc4-7057-83ba-6ea2c66e2eda",
+  type: "page-type/episode",
+  slug: "my-hero-academia-s02e24",
+  description:
+    "It’s finally time for Izuku and Bakugo’s practical exam. How can they challenge All Might without a plan?",
+  ownLength: 24,
+  ownProgress: 0,
+  partOfCollections: ["season/my-hero-academia-season-2"],
+  position: 24,
+  publishedAt: "2017-09-23",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1347321",
+      externalLink: "https://www.themoviedb.org/tv/65930/season/2/episode/24",
+    },
+  ],
+  title: "Katsuki Bakugo: Origin",
+  episodeType: "standard",
+  stillPath: "/ayJOzAE2dG2Sg3Ds5yCzOF9S4sj.jpg",
+  voteAverage: 8.7,
+  createdAt: "2026-10-28T18:45:15.586Z",
+  updatedAt: "2026-10-28T18:45:15.586Z",
+} as const satisfies Episode
