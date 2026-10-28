@@ -31,7 +31,7 @@ import type {
   TargetGear,
 } from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
 
-export interface ChecklistLine {
+interface ChecklistLine {
   readonly text: string
   readonly met: boolean
 }
