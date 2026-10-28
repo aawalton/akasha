@@ -11,9 +11,14 @@ export const horimiyaTheMissingPieces = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "228663", externalLink: "https://www.themoviedb.org/tv/228663" },
+    {
+      source: "tmdb",
+      externalId: "228663",
+      externalLink: "https://www.themoviedb.org/tv/228663",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Horimiya: The Missing Pieces",
   createdAt: "2026-10-28T18:49:26.091Z",
-  updatedAt: "2026-10-28T18:49:26.091Z",
+  updatedAt: "2026-10-28T19:44:34.972Z",
 } as const satisfies Show
