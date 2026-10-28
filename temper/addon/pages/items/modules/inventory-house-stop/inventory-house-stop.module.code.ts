@@ -13,7 +13,7 @@ const HOUSE_STORAGE_PREFIX = "house-storage:"
 
 const HOUSE_CHEST_PREFIX = "house-chest:"
 
-export type HouseStopReason =
+type HouseStopReason =
   | { readonly kind: "storage"; readonly chests: number; readonly vault: number }
   | { readonly kind: "scan" }
   | { readonly kind: "place"; readonly stacks: number }
@@ -76,7 +76,7 @@ export function storageHouseOf(keys: readonly string[]): number | undefined {
   return best
 }
 
-export function isStorageVenue(venue: string): boolean {
+function isStorageVenue(venue: string): boolean {
   return (
     venue === FURNITURE_VAULT_VENUE ||
     venue === HOUSE_STORAGE_VENUE ||
