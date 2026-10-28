@@ -186,7 +186,7 @@ export const giftedMyriadPaths = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A Path is no Skill to use; dwelling on one in a Status shows what earns its steps and its next Tier.",
+      fact: "A Path is no Skill to use, and a Status never says what earns a Path's steps.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -205,10 +205,7 @@ export const giftedMyriadPaths = {
       fact: "A small demon-ridden creature dying near her gives Soulstealing one step.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "The Completionist gains one step for each Path its holder completes.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "The Completionist is an Advanced Path, its Tiers falling at 10, 50, 200, 500 and 1000 steps.",
       knowers: ["lore-disclosure/game-master"],
@@ -283,5 +280,5 @@ export const giftedMyriadPaths = {
     },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T15:06:42.997Z",
+  updatedAt: "2026-10-28T15:08:01.258Z",
 } as const satisfies Lore
