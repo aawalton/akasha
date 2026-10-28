@@ -7,8 +7,10 @@ export const testStory00015 = {
   unit: "unit/words",
   partOfCollections: ["story-played/test-story"],
   position: 15,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/beats",
   action: "I nod to the shopkeeper.\n\nI check my purse.",
+  beats: "jsonl",
+  endsAt: "2026-11-13T12:04:00.000Z",
   createdAt: "2026-10-28T01:39:36.765Z",
-  updatedAt: "2026-10-28T01:42:03.871Z",
+  updatedAt: "2026-10-28T01:43:15.198Z",
 } as const satisfies StoryTurnPlayed
