@@ -11,9 +11,15 @@ export const show86EightySix = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "100565", externalLink: "https://www.themoviedb.org/tv/100565" },
+    {
+      source: "tmdb",
+      externalId: "100565",
+      externalLink: "https://www.themoviedb.org/tv/100565",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "86 EIGHTY-SIX",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:57:14.271Z",
-  updatedAt: "2026-10-28T18:57:14.271Z",
+  updatedAt: "2026-10-28T19:45:55.319Z",
 } as const satisfies Show
