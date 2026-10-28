@@ -299,7 +299,10 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
     return a.count > b.count
   })
 
-  const lines: PlanVenue[] = venues.map((v) => ({ ...v, line: `${v.label} — ${v.count} items` }))
+  const lines: PlanVenue[] = venues.map((v) => ({
+    ...v,
+    line: `${v.label} — ${v.count} ${v.count === 1 ? "item" : "items"}`,
+  }))
   for (const entry of plan) {
     for (const h of entry.held) {
       const label = resolveVenueLabel(entry.venue)
