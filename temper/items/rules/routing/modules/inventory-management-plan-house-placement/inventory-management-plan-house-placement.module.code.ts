@@ -20,7 +20,7 @@ const FURNITURE_VAULT_KEY = "FurnitureVault"
 
 type PlannedRule = CompiledOrderedRule | ItemRule
 
-export interface HouseTally {
+interface HouseTally {
   readonly collectibleId: number
   stacks: number
   items: number
