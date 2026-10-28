@@ -1,0 +1,403 @@
+"So," my professor says, "we have the dominant…"
+
+He plays three notes simultaneously on the keyboard in front of him. A 'triad chord,' I have recently learned it's called.
+
+"…And then the tonic."
+
+He plays another set of three notes. Together, the sound wave they create is delightfully complicated, though the individual notes themselves made waves with per-second vibrations that almost perfectly match a ratio of 4:5:6. Music theory has so much math, it's a little surprising, but hey. I have recently become very, very, very good at math.
+
+"You hear that?" the professor asks, playing the two triads again in sequence. "The dominant wants to return to the tonic. Once you play this one, it's practically begging you to finish with the other. They just sound good together. And up on our scale here, you can see the tonic of C major is, of course…"
+
+He pauses for effect.
+
+"…C major?" a student answers.
+
+"C major!" the professor confirms, playing the first chord again. "Because the tonic is our first triad of the scale. And our fifth, all the way over here, is…?"
+
+"The G major triad," another student answers.
+
+"That's right, G major!" the professor confirms, playing the second chord again. "And so the first and fifth chords of our scale are the tonic and the dominant, and this stays true even as we step out of C major. They're the big important ones, the secret sauce for your average bit of popular music in the Western style. But you can't write a song with just two… okay, well, you could, but assuming you don't want to write a song with just two chords the other ones we really love are chords two, four, and six. These are the supertonic—one above tonic—the subdominant—one below dominant—and the submediant, which… is called that for reasons I'm not going to make you memorize."
+
+Oh no. I can't miss this chance. I quickly type something up on my computer and raise my hand.
+
+"Yes! Luna! A question?" my professor calls on me. Our music theory class is surprisingly small, so he learned all our names within the first two days. It's been nice. I turn my laptop around so the speakers are facing the right way and press play on the text-to-speech app I have installed.
+
+"Wouldn't it be easier to call the subdominant a switch?" my computer calls out.
+
+"What?" he blinks, and after a few beats several members of the class bust out laughing. Then, he gets it too, and I manage to get a solid snort of amusement out of him.
+
+"Oh my god, I've never actually thought about that," he chuckles. "Uh, suffice to say, no, we will not be calling it that, and for those of you who don't get it, congratulations, your mothers raised you well. Moving on!"
+
+Hehe. I can get away with making dirty jokes in class because, despite the fact that we've only had class for a few weeks now, Professor Reid absolutely loves me. Typing a bit more into my computer, I hold up my hand again.
+
+"Yesssss, Luna?" Prof. Reid asks, raising his eyebrows in a sort of 'that joke was funny but please be on task this time' expression. Or at least I assume that's what that means.
+
+"Real question this time," I assure him, turning up the volume and continuing to type to not force everyone to wait for me. "Scales are basically groups of notes that sound well together, right? The same note might sound on-key or off-key depending on the other notes around it. It's all relative?"
+
+"That's… sort of correct," he hedges, sensing that I'm mostly just leading into my real question.
+
+"As soon as I heard that I figured there had to be some way to move between different scales mid-piece and I can't help but notice that a lot of these scales share triads? Though it's kind of in a weird order. The C major triad is the dominant of the F major scale, but the F major triad is the subdominant of the C major scale."
+
+"Ah! You're getting ahead of us again, Luna," Prof. Reid grins at me. "That starts getting into sevenths. See, if you take a triad chord and you add… ah, no no no. We'll get there. We'll get there! I promise. Let's get the class through this first, though."
+
+Ah, darn. I can't be too mad, though. He's the best kind of teacher: a complete dork who genuinely loves his subject of choice with a passion and wants to tell as many people about it as possible basically all the time. As someone who is both very interested in his class and doing very well in it, I'm a professor's wet dream. Er… well, hopefully not literally. He doesn't seem like that kind of guy at all and I guess if he is I can fold him in half and get Nanaya to hide the body.
+
+I could probably learn all this stuff without him. I have the entirety of the internet in my brain whenever I want, a perfect memory to record it in, and the ability to accelerate my thinking speeds to obscene levels. I could read through the entire textbook in a few minutes, skipping to the end of the course and figuring everything out at an absurd pace. But… I don't really want to.
+
+Music theory and composition is something I've hoped to get formal teaching about for most of my life, but I've always been too depressed, embarrassed, and overwhelmed to consider actually doing it. Having an actual instructor is a dream come true. I've fiddled around with music composition before, making a couple things I thought sounded good through sheer trial and error, but this? This is all so cool and so, so helpful.
+
+The second reason I don't do it is because it helps keep my identity. I can't avoid being good at doing school stuff—nor do I really want to, I love being able to flex my newfound competency—but going full unshackled AI on everyone would get suspicious fast. If I make too many big moves someone will definitely notice, so I'm keeping myself mostly low-key.
+
+Secret identity stuff can be a bit of a pain sometimes. I think Eliza's still a little salty about how I gave her the slip a while back. I feel really bad about it… but also it was kinda badass.
+
+I eventually leave my music theory class with three percent more battery charge than I started with, putting me back up to a relatively comfortable forty percent after having to tank a few lightning bolts from the aforementioned salty Earth Guardian. Ah, if only this class was every day rather than every other. I'd be so happy. The basic required courses are great and all but they don't get me excited like music does. This is normally the part where I say 'I wish I could actually play an instrument' but like… I can now. I can play several. Anything that doesn't make me blow into it, really. As long as I know how it works, perfect precision does the rest.
+
+There is, I admit, a bit of a downside to that. For most people, exceptional precision with an instrument is an extremely impressive feat, and for good reason! That kind of skill takes humans years to build up and master, and some spend that time without ever reaching the heights of the true greats. It's something worth being proud of. But for me? Not so much. I'm not human—
+
+I'm not even a person.
+
+—so my actions don't take any real expression of skill. They're a product of what I am, not what I've accomplished. Anyone in my position could do the same or better, so it's nothing to be excited about. It's convenient, at least. Unless I need to use a wind instrument, I can just record my own samples for basically everything instead of relying entirely on MIDI and VSTs. …If I want to. I actually really love dinky little MIDI tracks. They sound like the internet back in 2009.
+
+[MeanBeanMachine]: Hey what up? You have plans today?
+
+Ooh, hi Bean! Hehe they are my friend and I can talk to them with my brain. I do a happy little wiggle while I walk back to my dorm.
+
+[LunaLightOTK]: A few, but nothing I can't chat during. Me and the girls are gonna make tacos for dinner.
+
+[MeanBeanMachine]: It's still wild that you ended up with TWO magical girl college friends. There's gotta be what, less than a hundred Earth Guardians in the country old enough to have graduated high school? Let alone ones that actually did graduate high school.
+
+[LunaLightOTK]: Well both of them are the sole remaining members of their respective teams so they didn't beat the stats that hard.
+
+[MeanBeanMachine]: Yeesh. That's awful.
+
+[LunaLightOTK]: Yeah it's real fuckin' bad. I'm considering starting like an anti-Preserver hit blog or something. It feels like there's so little information out there about what being an Earth Guardian is actually like. They don't exactly take interviews, but I'm here getting everything straight from the horse's mouth. A lot of their offhand comments have raised my red flags high enough to fly on the moon.
+
+That's only half-true, of course, but Eliza sure does drop some fucking whammies from time to time. I think my favorite is 'It's okay, I've been trained to go without sleep.' Like girl holy shit I'd tell you that you clearly haven't trained that very well but then Chloe would wake up at three in the morning to a loud crash and find you passed out on the floor after 'testing your limits.'
+
+[MeanBeanMachine]: Whaaaat? You think the Earth Guardians might be bad actually? But they're the world's highest-contributing organization to the child mortality rate! All them slackers at the world health organization keep making the numbers go down, the absolute clowns. It's like they're not even trying.
+
+[LunaLightOTK]: Okay but did you know the way the Preservers train EGs is to basically just give them the stone, teach them how to go incarnate mode, and then gesture them towards the nearest monster pack? It turns out all the 'training' they do is stuff the guardians themselves figured out on their own and passed down to younger members. The Preservers answer questions most of the time but only if they get asked directly and even then the questions apparently 'aren't answered very well.'
+
+[MeanBeanMachine]: Wait. So all the superpowered children are taught by other children? It's a miracle this works at all.
+
+[LunaLightOTK]: Right!? It's almost like the Preservers don't even know what they're doing. Either that or they're actively malicious, and both options are pretty bad.
+
+[MeanBeanMachine]: Yeah, okay, this does sound like something we should make more of a stink about maybe. Are your friends going to be cool with you bashing their jobs like that, though?
+
+[LunaLightOTK]: Prrrrrrobably not. Eliza definitely would get mad. So that's the big downside to all of this. I need to either find a way to not share some of the stuff I know she wouldn't want me to spread around or I need to find a way to do it anonymously. If I do the former, I can't actually share all that much. If I do the latter, I'm just some rando on the internet and no one has any reason to actually believe anything I say.
+
+[MeanBeanMachine]: Oof, yeah. EG conspiracies are a dime a dozen. You can't just say 'oh yeah my friend is a Guardian trust me I promise.' You'll need actual proof.
+
+[LunaLightOTK]: Exactly. It's a bit of a stumper.
+
+I make it back to my dorm building and start heading up the stairs to my room, stepping inside and depositing my backpack into my room. Castalia isn't here yet, but she's not far off. She's an easy girl to keep track of, what with the violently massive aura of joy following her around everywhere. Who knew happiness could be so intimidating?
+
+[MeanBeanMachine]: I guess it's a judgement call. Do you wanna do right by your friends or do you wanna try and get important information out into the world?
+
+[LunaLightOTK]: I'd rather do both. I think I have a way, but… I probably shouldn't tell you about it.
+
+[MeanBeanMachine]: This again? Really?
+
+[LunaLightOTK]: I am doing my best to tell you as much as I can. Honest.
+
+[MeanBeanMachine]: Hey, apropos of nothing, how would you feel about meeting up in person sometime? I can probably get a cheap flight to DIA for a couple hundred dollars. Which is… kind of a lot, but I've been saving up.
+
+I freeze in place, the kitchen cleaner I was pulling out of the cabinet going completely unused as I slowly untense.
+
+[LunaLightOTK]: Really? I… don't even know what you look like.
+
+Bean's response is an image of a person I've never seen before and love more than anyone. Dark, somewhat spotted skin, brown eyes, short black hair and a round face just a bit on the feminine side of androgynous, with soft features and thick lips shaped into a wry smile trying and failing to hide the nervousness beneath.
+
+[MeanBeanMachine]: I look like this. Hi.
+
+[LunaLightOTK]: Oh gosh. Um. On one hand I want to say you're really pretty. On the other hand I'm not sure if 'pretty' is what you're, uh, going for? Should I say you're pretty or handsome?
+
+[MeanBeanMachine]: Uh! What!? Geez, not the response I was expecting. Uh. Either? Both? Maybe preferably neither?
+
+[LunaLightOTK]: Ah! Oh shoot, I didn't mean it like that, sorry.
+
+[MeanBeanMachine]: No! No, it's fine, I didn't mean it like that either I just um. Don't know what to do with a compliment like that!? My instinct when someone says I look attractive is pretty much to just go 'nuh-uh.'
+
+[LunaLightOTK]: Oh, mood. Or it would have been a mood before, but no one ever called me attractive back then.
+
+[MeanBeanMachine]: Ah yes, it would have been a mood before The Incident™.
+
+[LunaLightOTK]: Yes. The Incident™. Um. Speaking of, to answer your question I would absolutely love to meet you in person like oh my god. But, uh, you should probably know that I'm actually not going to be able to talk out loud? Like, uh. Physically not going to be able to.
+
+[MeanBeanMachine]: Huh. Really?
+
+[LunaLightOTK]: Yeah, I um. Yeah.
+
+[MeanBeanMachine]: But… wait. I remember you saying how much you hated talking and how you were considering learning sign language so you didn't have to anymore.
+
+[LunaLightOTK]: Well, I… got my wish! Haha.
+
+[MeanBeanMachine]: You got your… oh my god. Oh my god The Incident™ made you mute!?
+
+[LunaLightOTK]: …The Incident™ may have possibly made me mute. I, um. So… no one I live with knows, they think it's all a lifelong condition? And I'm sort of trying to keep it that way, so… yeah.
+
+[MeanBeanMachine]: Because your magical girl friends/magical girlfriends can't learn about The Incident™. Which is not super mega suspicious at all and definitely doesn't confirm all my theories about you being involved with shady magic bullshit.
+
+[LunaLightOTK]: Bean. I would love to meet you in person. Genuinely, that would be awesome. But I cannot overemphasize the importance of you not learning about The Incident™. Knowing you, you're definitely going to try to learn things and figure me out. But you can't do that. Okay? I need you to promise, or else I won't meet with you.
+
+[MeanBeanMachine]: Okay, the little ™ joke is a lot less funny now. You're freaking me out here, Luna.
+
+[LunaLightOTK]: Good.
+
+[MeanBeanMachine]: Oh that's even worse. What's going to happen to me if I find out? Am I going to get assassinated or something?
+
+[LunaLightOTK]: I can't confirm or deny anything. Including that.
+
+And that's the really scary thing. Rule one: don't die. Rule two: don't let anyone know about my transformation stone. Rule three: keep my identities separate. Nowhere in that hierarchy is any guidelines on how… and therefore, no limitations. If someone does find out, what will I have to do to them to keep the secret safe? Melpomene's chains are loose enough to forget about most of the time, but they'll choke the life out of me if I try to break them. Or worse, they might make me choke the life out of someone else.
+
+I've been doing my best not to think about it. There are, admittedly, probably lots of other ways to fulfil the spirit of the order. Arguably, I'm obligated to prevent people from learning the secret but not obligated to do anything to them if I fail that objective. Even if I am, maybe them agreeing to keep the secret will be enough. But I don't know, and I don't want to think about it too hard because not knowing is far, far better than logicing myself into the wrong sort of corner.
+
+[MeanBeanMachine]: Jesus. If you're fucking with me on this, I am going to be pissed.
+
+[LunaLightOTK]: I know. But I'm not. If you do end up figuring something out, do not tell me. Just keep it to yourself.
+
+[MeanBeanMachine]: Holy fuck. I hate all the things that could mean!
+
+[LunaLightOTK]: No. You're not reading into this and coming up with theories. You're just accepting what I say because you trust me.
+
+[MeanBeanMachine]: Fucking hell. Fucking goddamn fuck. I just wanted to give you a real hug!
+
+[LunaLightOTK]: And I would love that. I'm so sorry it has to be this difficult.
+
+[MeanBeanMachine]: Yeah. Yeah, me too. Fuck it. I'm still coming. Can I stay in your dorm? I can't afford a plane ticket and a hotel.
+
+[LunaLightOTK]: I'll ask.
+
+Which will be easy to do, because Castalia is back. She opens the main door just in time to see me start up the cleaning I was intending to do before the conversation with Bean almost short-circuited my emotional centers.
+
+"Luna," she greets me. I wave, unable to really say anything with my hands full. Castalia never seems to mind the quiet, though, seeming happy enough with the interaction. She floats into her room to drop off the backpack she has slung around her one fully intact shoulder, returning afterwards and wordlessly picking up a rag with her telekinesis and helping me wipe down the counters.
+
+"You don't have to do that," I sign, putting down the spray bottle.
+
+"That's true," Castalia answers, but she keeps cleaning and I guess that's that. We work swiftly, my body precise and strong and her telekinesis seemingly immune to fatigue. When it's all done, I wash my hands while Castalia puts everything away.
+
+"Everyone still on for dinner?" I sign when I finish.
+
+Castalia nods.
+
+"No incursion tonight," she says.
+
+"That's good," I sign, and she nods again. "Ready?"
+
+One more nod, and we head out the door, making our way to Chloe and Eliza's dorm. I can't help but be a little jealous as Castalia bypasses the stairs entirely on the way down, floating directly to the ground and waiting for me at the bottom. I think she picks up on it, because she somewhat sheepishly floats beside me as we head back up the stairs on the way to Chloe's room.
+
+"It's fine," I sign. "Flying is cool."
+
+"It is," Castalia agrees.
+
+"I wish I could fly, but that doesn't mean I don't want you to fly," I assure her.
+
+"Okay."
+
+She seems happy. More than usual, I mean.
+
+A swift knocking sound rings out on the door in front of us as Castalia flicks it twice with her telekinesis as we approach. Chloe reaches the door from the inside the moment we reach it from the outside and opens the door for us exactly when we arrive. Geez, even the way Castalia knocks on doors is cool. What the heck!
+
+"Hey! Welcome!" Chloe says brightly. "Come on in! You ready for a cooking spree?"
+
+I give her two thumbs up and a firm nod.
+
+"Hey, Castalia. Hey, Luna," Eliza says, letting out a small yawn and standing up from where she was sitting on the couch. "How's… things?"
+
+God, she looks exhausted. There's a brutal set of bags under her eyes, but she's still forcing a smile onto her face. Part of her is genuinely happy to see us. Most of her is too exhausted to care about much at all… though I don't doubt it could snap into an engine of fear and anger in an instant.
+
+"I am well," Castalia says. "You look unwell. Why? I have taken several convergences."
+
+"You… really don't need to do that," Eliza grimaces.
+
+"That's true," Castalia agrees, "but could you please answer my question?"
+
+"I… usually stay up to guard the portal the Corrupted use," Eliza admits. "I still haven't seen the artifact, and none of the rest of them have come out of the portal yet. At least, not while I've been there."
+
+Have I mentioned we have bad PR? Because our PR is apparently so bad that every single one of us forgot to actually tell Minerva our group's real name. Now I have to sit here and cringe every time this poor brainwashed idiot calls real living people 'the Corrupted' with a straight face. Like sure, 'Dark Rebellion' isn't exactly less edgy, but at least it doesn't sound straight-up racist.
+
+"I keep telling her to stop, but she never listens to me," Chloe huffs, leading me into the kitchen where the ingredients have already been laid out. Time to get cutting! I grab the knife and get to work. This is my favorite part of cooking. Chopchopchopchopchop.
+
+"Setting up a permanent watch is not feasible," Castalia says. "Therefore, there is little utility in watching at all. The artifact can hide its magical signature. It probably avoids the portal whenever you're around and waits for you to leave."
+
+Well actually I've just not bothered to even try to head back to the Dark World yet, but yeah that's definitely what I would do if I wanted to return. I move on to the next set of vegetables, unfortunately needing to limit my speed a bit to keep my veneer of humanity.
+
+"You really should leave it alone," Chloe sighs, heating up a pan to cook the ground beef in. "I mean, you told me the robot thing doesn't hurt people, so what does it matter? None of them really hurt people, right?"
+
+"Spreading around magic artifacts does hurt people!" Eliza insists. "And Anath hurts people all the time."
+
+"Yeah, well, she sneaks out to find reasons to fight you anyway. Your idea about letting them come to Earth to keep an eye on them isn't going to change that at all," Chloe says.
+
+"I just thought that if we gave them permission to come to Earth they'd actually do it!" Eliza groans. "But now I'm just stressing myself out waiting for whatever it is they're waiting for and worrying about how bad it's going to be."
+
+I sigh, putting down my knife and snapping my fingers to get Chloe's attention, quickly signing a few things to her.
+
+"…Luna says that maybe the thing they're waiting for is for you to stop waiting for them," Chloe translates. "And… yeah, I think that sounds reasonable. Who would want someone stalking them the whole time they're on a trip?"
+
+"But I have to," Eliza insists. "I'm responsible for anything they end up doing on Earth with my permission. Su-san and Veritas are already mad at me about it, and Uma'tama told me the other day that some Earth Guardians in California were shot at by a… a CEO with some kind of anger-powered Antipathy wand laser!?"
+
+Haha what!? That thing? I remember Nanaya selling that the first time we went to the mob together.
+
+"Wait, for real!?" Chloe gapes. "CEO of what?"
+
+"They wouldn't say! They told me it would be 'politically intervening' to make the knowledge public and that they 'already took care of it on their end.'"
+
+"Politically intervening?" Chloe asks. "You said it was a CEO, not a government official."
+
+"I don't know, Chloe, that's just what they said," Eliza insists, flopping back on the couch. I snap my fingers again.
+
+"Do enough lobbying and your money has more political sway than the opinions of actual politicians," I sign. "Sounds like the Preservers just have a nuanced understanding of how our political system works."
+
+And isn't that interesting? I think about it while Chloe translates for me again. I feel like I just don't have enough data points to understand anything coherent about the Preservers. It's not like I can just ask to meet more of them, though. I'd have to leave the state to run into one other than Uma'tama, and it's not like they'd willingly talk to me if I did.
+
+"What's 'lobbying?'" Eliza asks, and I put down my knife again so I don't stab myself when I facepalm. Lord save me from painfully ignorant magical girls.
+
+"Leeeeet's not talk about that right this minute," Chloe interjects, the crackle of pan-fried ground beef forcing her to raise her voice. "I will tell you later! Right now, we're going to focus on having a relaxing, fun dinner with friends. Yeah?"
+
+"Ugh," Eliza groans. "I should bring Minerva out, then. She's way better at the 'relaxing' thing."
+
+"If you swap to her every time you relax, you will never actually get to relax," Chloe argues, shaking her spatula disapprovingly in Eliza's direction. I bring up my hand to block a droplet of grease. "Oh, shit! I'm so sorry."
+
+Ugh, damn, this is hot enough to burn. Gotta justify it.
+
+"It's fine," I sign after shaking my hand out. "It was too small to carry much heat."
+
+I run my hand under cool water for a bit and return to work. No one seems to be making a big deal of it, thankfully. Hmm. Come to think of it, I wonder how Nanaya learned about political lobbying? I guess there's a bunch of ways. Questions for later, I suppose. Oh, right, speaking of!
+
+I wave a bit at Castalia to get her attention. She's mostly hovering right outside the kitchen with her usual silent awkwardness, so it isn't that hard.
+
+"My friend from out of state was wondering if they could fly over and sleep on our couch," I say.
+
+Castalia blinks.
+
+"Isn't having other people stay overnight against dorm policy?" she asks.
+
+"Yes," I confirm.
+
+"Oh," Castalia says. "Then I will not tell anyone."
+
+Based.
+
+"Thank you, I'll let them know," I sign.
+
+[LunaLightOTK]: Castalia's cool with you staying over.
+
+[MeanBeanMachine]: That's still wild. But uh… yeah! Cool. I will let you know when I have the time and the ticket.
+
+[LunaLightOTK]: I look forward to it! Don't be weird about my famous friends.
+
+[MeanBeanMachine]: Aw man! I was really looking forward to getting my freak on.
+
+I allow myself a private smile behind my mask. Oh, Bean. Finishing up with everything that needs cutting, I get a bowl to smash some of the ingredients into a paste, mixing some salt and spices in as I do. It's salsa time! I make sure to have it just a bit spicier than Nanaya's recipe because I look forward to watching Castalia cry a little while she eats it. It's so fucking adorable.
+
+"Okay, help me out here," Eliza says. "How exactly does relaxing work? How are you supposed to just… do it? To just shut off everything you're worried about like that?"
+
+"Well, if you're too inside your own head to relax alone, you relax with other people!" Chloe answers. "Actually, would you, uh… do you know how to get my Switch up on the TV? I figure we either find a movie to watch or play Mario Kart. Unless you guys wanna go for a walk or something."
+
+"I've never played Mario Kart," Eliza says, surprising exactly no one.
+
+"I haven't played the new one," Castalia hums. "I would like to play Mario Kart."
+
+"Wait, you've played Mario Kart, Castalia?" Chloe asks.
+
+"Melpomene really liked it," Castalia says. "Thalia and I always had to team up to beat her. We played it a lot when we had sleepovers. It was the old one, though. For the little system with two screens."
+
+Seriously? I never would have guessed she was such a… hmm. Actually, no, Melpomene totally is a nerd, isn't she?
+
+"DS," I sign, setting aside the finished bowl of salsa and heading over to help Chloe fry the taco shells in the leftover grease from the beef.
+
+"Yes," Castalia nods. "Melpomene played it a lot while she was living at base with me. Thalia's family bought one for each of us. I lost mine, though."
+
+She floats over to the TV, reaching out with her magic to fiddle around with the slightly dusty game console until it shows up on the screen.
+
+"Thalia's family sounds very nice," I sign, letting Chloe speak out loud for me again.
+
+"Yes," Castalia nods. "They are wonderful. I should visit them again soon."
+
+Oh! Oh gosh.
+
+"They're still alive?" I ask.
+
+"They are," she confirms. "Would you like to meet them sometime? I think they would like that. They are always worried that I do not have friends."
+
+"Sure," I agree. "We should do something nice for them."
+
+Castalia's face manages the tiniest of smiles as her magic blooms in agreement.
+
+"Yes," she says.
+
+Cool. That'll be… well, probably not fun, but educational. I don't bother to ask about Castalia or Melpomene's parents. I know what it means when an Earth Guardian says she's living at base.
+
+"So… how do you play Mario Kart?" Eliza asks.
+
+"Well, it's just driving cars mostly," Chloe answers. "But with power-ups!"
+
+"I don't know how to drive a car," Eliza points out.
+
+"I will show you while the others finish dinner," Castalia says, plopping down on the couch next to Eliza and handing her a controller. Well, levitating her one. Man, I used to really love video games, but now I'm a little worried they won't be fun for me anymore. It's pretty much the same reason as the instruments; video games are a skill, but there's nothing for me to master. As long as I know what to do, it's trivial to actually do it. I'm almost worried it'll give me away, but… I guess it almost certainly won't. I don't know enough about racing lines and the actual mechanics of the game to do anything truly perfect, and I can do my best to avoid gathering too much data on it. I'll have to intentionally cripple myself, but I can probably play on a mostly-human level without it being too unpleasant for me.
+
+"Tacos ready!" Chloe announces. "It's set up so you can build your own. We've got the beef here, the lettuce here, Luna's specialty homemade salsa here, and of course the guac."
+
+I slide over the small bowl of pico de gallo I also put together and point at it.
+
+"…And pico de gallo, apparently! Good thinking, I totally forgot about that."
+
+"Holding this button makes you go forward," Castalia says to Eliza, levitating a controller up and pressing the button with her stump. "You want to hold it all the time unless you make a big mistake and need to go backwards. The goal of the game is to go forward as fast as possible. But you have to turn so you do not drive off the road."
+
+"I mean, I know what a race is," Eliza pouts.
+
+"Oh. Good. I was worried."
+
+"Quit talking about Mario Kart and come get your food!" Chloe insists, and everyone starts heading into the kitchen to construct their dinners. God, why did I agree to taco night? It's going to be really hard actually eating this. Or, I mean, pretending to actually eat this by putting it into my mouth and letting it disintegrate. Whatever, I'll find a way. I make myself a single taco and head back to the couch. Castalia sits down next to me, Eliza next to her, and then Chloe on the far end. We end up squished pretty closely together. It's nice, but I do my best not to think about it. Everyone starts eating, and as expected a little bit of water starts to pool at the corner of Castalia's eyes. She makes a quiet whining noise, but continues eating. Hehehehehe.
+
+"This is really good!" Eliza says, quickly wolfing down her second taco. I sign a question for her.
+
+"Do you like spicy food?" Chloe translates.
+
+"I don't know, I guess I never really thought about it," Eliza answers, and god, it's every other minute with this girl!
+
+"Well, I'm glad you like it," I sign. "There will be plenty of leftovers. You keep half of them, and we'll take the other half home to eat more later."
+
+Castalia whimpers again. I silently chuckle before turning away from the others and lifting my mask, letting a little bit of taco enter my small mouth opening at a time while keeping track of where everyone else is looking via my extra senses. I doubt anyone will try too hard to peek since they 'know' I'm disabled, but I'm still extra careful about it. Thankfully, the only one who ever glances my way is Chloe, and I'm not that worried about her compared to the other two.
+
+"Well, now that we've got some food in our bellies, let's play some Mario Kart!" Chloe announces. "Uh, I think two of us are gonna have to play on the little itty-bitty controllers attached to the sides, but otherwise I should have enough for everybody."
+
+I raise my hand, volunteering for one of the Joy-Cons. Chloe gives me a thankful smile and hands me the blue one. Hehe. Not anymore! I'm so glad I'm yellow now.
+
+"I've never seen you use this thing," Eliza comments. "I'm surprised you have three controllers. Aren't they super expensive?"
+
+"W-why do you even know that?" Chloe stammers.
+
+"My brother plays this kind of stuff," Eliza answers. "I used to play with him back when we were really little, but then I stopped having time. Our parents got mad at us if we played for more than like half an hour, so I never really got into it."
+
+"Uh, well, the short answer to your question is that I used to have more than one friend," Chloe says. "When I bought this thing, I may have been slightly optimistic about how much I would be playing it."
+
+"Oh," Eliza grimaces. "Okay."
+
+All three empaths in the room are unable to ignore the unexpected surge of guilt and disgust from Chloe's soul. Honestly, you probably don't even need to be an empath given the expression she's making, though she quickly hides it by taking another bite of taco. Eliza and I collectively decide it's probably best to leave her alone, but the woman capable of blowing up skyscrapers with her mind is apparently used to a different form of problem-solving. She turns towards Chloe, stares at the girl with those enormous, blank eyes of hers, and speaks very slowly and clearly.
+
+"Do you want to talk about it?" she presses.
+
+Chloe manages a pained smile.
+
+"I think I would like to eat tacos and play Mario Kart," she says. She's calling for help! Rescue Luna, engage!
+
+"Are you sure?" I sign. "Because I'm about to absolutely obliterate you."
+
+"Huh?" she blinks.
+
+"At Mario Kart," I clarify. "I am going to smear all three of you across the road. There will be nothing left of you. You will lose so utterly that you won't be able to sleep tonight."
+
+"Oh my god!?" Chloe manages, trying and failing to hold in a laugh. "Alright, Luna, you're on!"
+
+"Wait, what is she saying?" Eliza asks.
+
+"She said she will beat our ass at Mario Kart," Castalia deadpans, "and make us cry."
+
+"No, that's what the salsa was for," I sign to her. Her mouth falls open, and she stares at me with a look of absolute betrayal. I give her the smuggest smile I can manage with a facemask on, my eyes crinkling with impish glee.
+
+"Okay," Castalia says. "Let me teach you all how to gang up on someone in Mario Kart."
+
+"Bring it on," I sign, smiling ever wider.
+
+They can try whatever they like. It won't save them.

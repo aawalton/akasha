@@ -1,0 +1,313 @@
+Unfortunately, the first thing I learn when researching how to access the internet is that I can't access the internet.
+
+I expected this, of course. My radio capabilities are receiver-only, so listening in on what other people are doing was always going to be my limit. Even that is a bit of a challenge, but I'm working through it. If nothing else, I'm learning which frequencies of radio waves correspond to which function. I can sort out in my mind what a signal is, at least, and that goes a long way to calming the anxiety about potentially missing something important.
+
+Unfortunately, knowing what I'm missing doesn't stop me from missing basically everything. I can now play every public radio station in my head simultaneously, which is in fact actually quite awful, but I'm pretty sure there is a part of my mind partitioned off to recording it all anyway. The vast supermajority of radio traffic is encrypted, though, and while my wiki walk has given me enough information to understand what a successfully decrypted packet might look like, I have yet to crack anything. Honestly, I'm not sure if I want to be able to listen in on everyone else's current internet usage, but I still feel the back of my mind chewing through brute-force decryption methods like a half-dissolved jawbreaker.
+
+I have no idea what my hardware is capable of, but I do know that simulating a human mind is so far beyond our current technological capabilities that it's silly. I get the feeling that if I were a betting girl, I should bet on myself.
+
+A rustling sound and groan pull my mind away from the phone and towards where Anath squirms slightly on the ground. Nanaya glances her way as well, the mutant woman having been watching me carefully this whole time without comment. With another groan, Anath's eyes flutter open, and apparently her first response to being awake is to try and sit up.
+
+"No," Nanaya says firmly, stepping closer and pressing her palm down on Anath's collarbone to keep her on the ground.
+
+"M'fine," Anath mumbles.
+
+"I will never let you be the judge of that again," Nanaya answers flatly.
+
+"That's what you said last time," Anath complains.
+
+"Yes," Nanaya agrees. "And have I at any point today trusted your judgment?"
+
+"Mean. Terrible."
+
+"Would you rather I just let you kill yourself?" Nanaya snaps. "No. I won't let you. One way or another, I am dragging you home alive."
+
+"Aww, you like me," Anath grins, her teeth still stained red from a mix of Fulgora's blood and her own.
+
+"I tolerate you," Nanaya scowls. "Begrudgingly. Now, you need to eat."
+
+"Oh! I got food!" Anath announces proudly. "I did a whole supply run! I can be responsibibble."
+
+Nanaya raises an eyebrow, then walks over to me and yanks the backpack off of my back. She unzips it and turns it upside down, disgorging the entire collection of jalapeño Cheetos and Gatorade. She stares at the sad little pile for a solid ten seconds before sighing and grabbing one of the bottles of Gatorade, twisting the cap off before kneeling down to help Anath sit up.
+
+"Well, you certainly need to hydrate, I suppose. Yet I cannot help but notice you did not, in fact, get any food."
+
+"Yes I did! I got a bunch of—ablublublurb."
+
+"Drink," Nanaya snaps, forcing the bottle up to Anath's mouth. "You. Artifact. If I order you not to obey anything she says, would that order work?"
+
+Hmm. That's a good question. Ultimately, it's a judgment call about what I think Melpomene would want me to do, so… yes, I think that would work. Nanaya is a bit rough with her, but it's clear that she cares a lot more about Anath's well-being than Anath appears to, and I have reason to believe that Melpomene cares to some extent as well. I nod.
+
+"Hey!" Anath complains.
+
+"Anath," Nanaya continues, "if I leave, and this thing turns on us, could you make it to me?"
+
+"Of course I—"
+
+"Anath," Nanaya snaps. "Consider the question more carefully."
+
+Anath pauses, a series of various offended expressions flashing over her face in sequence. Then, her eyebrows furrow and she starts taking a long drink from the Gatorade bottle, her eyes locked on me. She finishes her drink, takes a deep breath, and continues staring at me for another half-minute before finally answering.
+
+"...I think so," she answers, a lot of her prior mirth gone from her voice. "I know I'm not the best judge of my capabilities right now, but I think your patch job is enough for me to outrun Buttbot here. She's a good runner and a great jumper, but she's never used real speed for anything other than short bursts. Worst-case scenario, I have more than enough magic to make sure you know where to find us."
+
+Nanaya nods, taking a hijab out from her cloak and wrapping her head up in it, pulling the large collar of her robe up to cover her mouth and nose. It's hardly a perfect disguise, given her red eyes, but unless people look too closely or she casts enough magic for them to start glowing she can probably get away with walking around in public without anyone crying monster.
+
+"Then I will get us some actual food to help you heal, and you can have your treats—" she motions at the Cheetos "—after we are home safe."
+
+"Aww, what!?" Anath whines. "But you said we won't be able to go home for days!"
+
+"Then perhaps you will take the opportunity to learn some patience," Nanaya says flatly. "Artifact. You will not allow Anath to stand up. You will not allow her to move from that spot. You will not allow her to eat anything I don't approve of. You will not allow her to come to any further harm. You will not allow her to be located by our enemies. Is all of that clear?"
+
+I nod. It all seems simple enough.
+
+"Good. If you fail any of these tasks, I will destroy you and Melpomene will thank me for it. I will return shortly."
+
+She locates the wad of money that Anath stole and spirits it away to the inside of her robes. I watch her hand with too many fingers split apart, three fingers including a thumb peeling away from the eight to reveal that her already-thin arms are actually multiple arms pressed together, interlocked into what appears to be a single limb. I would not describe her current hand configuration to look exactly human, but it at least has four fingers and one thumb. What the hell is going on underneath that robe of hers?
+
+She departs before I can wonder further, leaving me alone with Anath. Not ten seconds after Nanaya is out of sight, she attempts to lunge for the Cheetos. I scoot forward and push her back, carefully collecting the bags and putting them back into the backpack so I can more easily seal them away.
+
+"Noooooo!" Anath begs. "Come on, Buttbot, we can talk about this!"
+
+No we fucking can't!? I tighten my grip on her shoulder to demonstrate my irritation in the only way I really can.
+
+"Ow ow ow ow ow ow ow!" she whines. "Help! Help! I am coming to further harm!"
+
+I push her away, quickly finishing my objective of locking the cheesy treats away forever. Hearing her say those words is actually very uncomfortable, and I struggle to convince myself that they are an exaggeration. Nanaya doesn't seem to have any problem inflicting a little bit of pain on Anath in the service of making her behave, but does that mean she would approve of me doing so? Does that mean Melpomene would approve? Probably not. They're Anath's allies, maybe her friends. I'm their slave. The social dynamics aren't exactly comparable.
+
+Frustration and regret pool inside me, slowly causing my energy reserves to tick upwards. The regret washes through my system cleanly, barely a dozen degrees west of my true south crystal configuration, but in the same way I can feel its efficiency I can feel the loss from the anger. Nearly half of the potential energy escapes from the crystal pathways between my soul and my power storage, collecting as waste in the air gaps within me. There isn't really a lot of it, nowhere near as much as what I tend to accumulate in combat, but I see no reason not to purge it so I open some of the plating near my waist and let the thin red wisps out of my body with a hiss.
+
+Anath suddenly stops complaining and goes silent, her attention locked on me with a frown. I stare back at her, not really sure what else I'm supposed to do.
+
+"...Huh," Anath hums. "That's weird. I usually don't feel anything from you, but… open your thingies again."
+
+I don't do that. I have been instructed to ignore any of Anath's orders. I mean, technically I wasn't directly ordered to do that, I was only asked if such an order would be applicable, but again I am not some fantasy demon beholden to the exact wording of contracts. I am fundamentally bound to serve my master to the absolute best of my ability, using only my most genuine interpretations of what I believe her will to be. Orders given to me are not commands branded into my body, they are simply explicitly clear expressions of my master's will, communicated in a manner intended to avoid ambiguity.
+
+As such, I'm fairly certain that Nanaya doesn't want me to listen to Anath's orders, because otherwise why would she have asked? I suppose I could make the argument that Nanaya is clearly a very intentional sort of person. It is possible that the explicit orders she gave me after asking that question are evidence that the absence of phrasing her question as an order means she really was just checking if it was possible, not deciding to actually order it. Really, I think the main thrust of her objective was to ensure that Anath couldn't countermand the orders given for me to protect her, so if an order doesn't relate to that objective then arguably I should still follow it…?
+
+Huh, that's actually a pretty good argument. Now I'm genuinely not sure, which is always nice because it means I get to care about the question 'what do I want to do?' I guess I don't really mind one way or another, so hey, why not? It gives me something to do, and I have to find some way to entertain myself while I'm not being abused. I open up my thingies.
+
+"Oh yeah, there it is," Anath says, wrinkling her nose. "Geez, you seemed irritated before but now you just smell like hopelessness. Have you ever tried to fight somebody aligned with hopelessness? Terrible experience, do not recommend. Those girls are terrifying before they die."
+
+I stare at her, not particularly liking any of the things that could possibly mean.
+
+"Wow, I really thought you didn't have emotions before, but I guess you're just keeping it inside somehow? I bet that feels like a fart you can't let out. Oh! Oh yeah, there you go. Yeah, it's really faint, but you're in there somewhere, huh? Neat."
+
+I… just like that? She can feel… no, wait. Weapons don't have feelings, right? But Melpomene's allies already know, so maybe it's fine to keep my plates open, to keep showing this crazy monster that yes, I am here, I do feel hopeless. Please help me. Somehow, please help me. I am truly desperate enough to beg even you.
+
+"Man, you smell terrible," Anath says, taking another sip of Gatorade.
+
+Wh… is that it? I want to laugh. Of course. I don't know what I was expecting, really. I'm one of the bad guys. I wouldn't be a slave if their organization had basic moral decency. Of course she doesn't care. Why would she care?
+
+"Sorry," Anath mumbles. "I never get along well with blue mages. But hey, welcome to the team. You're stuck babysitting me and that's enough of an initiation rite as far as I'm concerned."
+
+I stare at her, because of course I do. What the hell? Now I’m getting camaraderie from the slave driver who wanted to beat the shit out of me? God, I mean, this is objectively a good thing. I’d go insane if everybody only treated me like Nanaya and Melpomene do, but it’s kind of sad that this is my better option, isn’t it? I don’t even know if I can stay mad, this emotion-reading trick is the closest I’ve had to an actual conversation since this whole thing started.
+
+"…Okay, that was a little too complicated for me," Anath says. "Sorry, can you try not to feel too many things at once?"
+
+Oh I’m fucking sorry, I should have known that you and your friends would want to control that too. Try not to feel too many things at once? How the hell am I even supposed to do that? This entire experience is too many things at once!
+
+"Heh. Wait, you don’t know how? Are you sure you’re a magical weapon?"
+
+Yes! I mean no! Fuck!
+
+"Kehehe! You’re kinda funny, Buttbot. Mel’s taken a real shine to you, so I hope we get to work together a bunch in the future!"
+
+Ugh. I definitely don’t. But until I figure out some way to have a say in the matter, I guess I should get used to it. I close my external plating back up, because while part of me is desperate to continue having any sort of interpersonal interaction, I’m ultimately still the same shitty Luna who can barely handle more than one in-person conversation a day. I don’t even know what I would try to say to her, even if I could reliably make myself understood. 'Help me?' She clearly isn't interested, and what could she do if she was? Thea is my only real hope for freedom, but she probably wouldn't go against Melpomene for my sake. The two of them have clearly been friends for a long time, so what does that say about Thea? I probably shouldn't even trust her.
+
+Then again, I definitely shouldn't lose hope. Anath said that girls powered by hopelessness are terrifying to fight, and I absolutely don't want to get any better at fighting.
+
+Anath seems to understand that sealing my emotional leakage back up means I don't want to talk anymore, so she sits in silence and rehydrates while I pass the time trying to decrypt what I'm pretty sure is a single packet of data. If I want to, I can consciously bring to mind every step I'm taking, every technique I'm trying, every calculation I'm running, but that makes time pass slower, not faster. Instead, I just let some of the resources that normally go towards keeping my mind up to speed reallocate themselves towards decryption, my thoughts slowing down and the world around me speeding up as the math rolls around comfortably in my subconscious. It's weirdly relaxing. Just robot things, I guess.
+
+The precise degree of control I have over myself and many aspects of my mind is comforting, particularly in regards to how much control I have lost in other places but also in general. I guess I haven't really been a robot long enough to know if my executive function issues and all the other mental problems I had as a human will rear their ugly heads back up, but so far the question of whether or not I can do something has been decided exclusively by limits imposed on me by other people, not my own inadequacies. Everything I have tried to do, I have succeeded at. There's a certain joy in that realization, even though the things I'm being made to do are kind of awful.
+
+Eventually, Nanaya returns, bags of food and likely a few other essentials in each hand. Anath immediately starts to say something, but Nanaya just hands her an entire rotisserie chicken so whatever words Anath was about to say are quickly swallowed up alongside it. Rather unsurprisingly, Anath eats like a starving dog. Loud crunches periodically echo off the walls as her teeth snap bones so she can suck out the marrow.
+
+Nanaya does another checkup on Anath while she eats, apparently taking the opportunity to ensure that the hyperactive girl's attention is fully occupied while she does so. It's only after she finishes that Nanaya herself sits down to eat, pulling out a plastic container full of what appears to be some kind of beef and vegetable stew. She pulls up a corner of the lid and magic flows out of her, an irritated look on her face as she appears to glower at the stew until it gets hot again. When steam starts to come out of the open corner, she carefully removes the lid and drinks the stew directly from the container without spilling a single drop.
+
+"Thank you for not running off again, Anath," Nanaya rumbles.
+
+Anath shrugs.
+
+"I think I'm starting to calm down," she says. "Sorry for making you run off after me again."
+
+"Mmm. We all have our own troubles."
+
+"Yeah, but yours don't make me chase you to Earth at ass o'clock in the morning because your brain got temporarily clogged up with stupid."
+
+Now it is Nanaya's turn to shrug.
+
+"It is not your fault. My offer to raid a pharmacy and see if any of the relevant prescriptions work for you remains."
+
+"...I don't wanna raid a pharmacy, man," Anath sighs. "People need that stuff. It's not worth it for something that probably wouldn't work. What's the recommended dosage for a three-hundred-pound squirrel monster with crystals growing out of her ass?"
+
+"Mmm."
+
+I listen to the whole conversation in somewhat of a daze, my mind still churning away with algorithms and radio signals. Already done eating, Nanaya starts pulling out some of her purchases from the bags—bottled water, cleaning supplies, hygiene products, and other essentials—before stuffing them inside her cloak and presumably keeping them in pockets somewhere within. Then, she starts taking some things out of her cloak, but these aren't things I recognize.
+
+The first looks like a large glass tube encased in a metal cage, the whole thing about as tall as my forearm is long. The metal is a deep black color, but it doesn't look particularly supernatural or imposing. The cage actually seems more like a frame, designed to mount the glass tube onto something.
+
+The second looks like a simple bracelet, but unlike the first object I can immediately tell that it's not of human design. The natural flow of magical energy in the air is next to nonexistent on Earth, but not completely nonexistent, and the moment Nanaya pulls out the bracelet those currents start shifting towards it. Something about it tickles at the back of my mind, and I can't help but stand up and head over for a closer look.
+
+Kneeling down, I can see that the bracelet is a mix of what appears to be fabric and crystal, but upon closer inspection (go go gadget microscope eyes) it's clearly something far more durable than cloth. Which I suppose makes sense; this is obviously an Antipathy artifact, and therefore whatever it is somehow survived an apocalypse. What's especially strange to me is that the crystals woven around the circumference of the bracelet are all black. It's not a color I've seen related to magic before, outside of the black mist that clogs all visibility in so much of the Dark World. Most interesting to me of all, though, are the words engraved on the inside of the bracelet.
+
+They're instructions. Pretty simple ones, actually. You just have to rotate the safety and activation bands to start it up. The minimum magical energy requirements listed aren't very high. Based on the aesthetics of the design… I'm not entirely sure why, but I get the impression that it's some kind of shield? The way it's affecting the magical currents while in standby mode indicates that it's almost certainly still functional. I reach out without thinking about it, curious to investigate it further, but before I can touch it I find Nanaya's hand (hands?) wrapped firmly around my wrist.
+
+"What do you want, artifact?" she asks, staring intently at me.
+
+Oh, right. They probably don't want their untrustworthy magical superweapon messing with other potential magical superweapons. Not that they have a good reason not to trust me; I literally can't hurt any of them. I gently attempt to pull my hand back and Nanaya releases me, letting me sit back on my own calves and give her a good old patented Luna stare. I can only answer yes or no questions! You already know this!
+
+Nanaya frowns and carefully picks up the artifact between a finger and thumb.
+
+"Do you know what this is?" she asks.
+
+Eh, only kind of? I lean to the left and right a couple times to try and indicate a so-so answer.
+
+"Do you know how to use it?" she asks.
+
+I nod.
+
+"Show me."
+
+I reach out and accept the artifact from Nanaya, making sure to move slowly in order to avoid being perceived as threatening. The solid rings wrapping around the circumference of the bracelet act as the controls, and I rotate the one the instructions indicate to be the safety ring into the off position before partially turning the activation ring to and from its on position, never actually activating it. I don't really have any idea what will happen when it turns on, and while I doubt something like this could hold anywhere near enough magical energy to cause a major issue, that certainly doesn't mean it's harmless. Nanaya watches me carefully the entire time, her intent gaze not leaving me even when I hand the bracelet back to her.
+
+"Hmm," is all she says in response as she deftly double-checks that the device is in the off position before spinning the safety on. Oh. I guess she already knew?
+
+"It seems there is to be a convergence tonight," Nanaya says. "Since the path back to our home just disappeared, it likely isn't any fragment of the Dark World that we care about. But it will distract the local Guardians, and since we are stuck on Earth regardless we may as well get some errands done."
+
+She pulls an entire hoodie and a pair of sweatpants out of her cloak somehow and throws them both at me. While I am trying to figure out how she kept any of them in there, she also beans me in the head with a pair of shoes.
+
+"You should easily be able to pass as human in the dark," Nanaya tells me. "Put those on and get used to wearing them. Anath is much more difficult to disguise because of her tail, but she is adept at other forms of stealth."
+
+"I keep tellin' you, Nanaya, just get me one of those big fursuit heads and everybody'll think the rest of it is a costume," Anath insists.
+
+"And I keep telling you, Anath, that we don't have that kind of money," Nanaya says flatly.
+
+"What are you talking about!? We're like gajillionaires!"
+
+"All of that money is in use," Nanaya insists. "Even if it wasn't, a thousand dollars is still too steep a price for a supposed stealth tool that will make you more visible."
+
+"Laaame!" Anath groans, flopping backwards onto the concrete. "Come on, Nanaya, just think about it! A giant version of my head that I can wear on my head! How could you possibly not want to own one?"
+
+"If one thing is certain, Anath, it is that you don't need to get a bigger head."
+
+Honestly, I'd be more worried about what would happen if the furry community figured out that Anath used to be a human before she started living in the Dark World. I've been online long enough to know how many people would take that gamble, and I've been a robot long enough to know it would kill every single one of them. I'm starting to see that one of the biggest reasons we need magical girls is because of how quickly humans die in the Dark World.
+
+"Rest for now," Nanaya tells Anath. "If you aren't healed by tonight we'll miss our window. And you, artifact. Do you require anything to operate? Fuel, perhaps?"
+
+Well, I'm relatively low on power reserves but that has been the case since this started, so I shake my head.
+
+"Hmm. Well, it is unlikely you will be needed for anything strenuous tonight, but you should save as much power as you are able, in case any fools overestimate themselves."
+
+I nod, taking the suggestion as an order. I'm not particularly opposed to a nap, or my current closest equivalent. I suppose I could also just allocate more resources to cracking encryption and let the time fly by, but that would obviously take more energy than just entering… man, it sounds kind of dumb to say 'entering sleep mode' instead of just 'going to sleep,' but yeah, I guess I enter sleep mode now. Beep boop.
+
+I let my systems wind down, and the next thing I know the sun has long set. My logs indicate that I have restarted because Nanaya looked at me and said "artifact," which is known to be a form of direct address. It has been exactly fifty-four thousand, two hundred and fifty-three seconds since my rest began (I used to know about how long a second is, but now I know exactly how long a second is. According to Wikipedia, a second is exactly nine billion, one hundred and ninety-two million, six hundred and thirty-one thousand, seven hundred and seventy periods of radiation corresponding to the transition between the two hyperfine levels of the ground state of the Cesium-133 atom. Cesium-133 is the only stable isotope of Cesium, and while my records don't know the word 'Cesium,' they are aware of the atom with fifty-five protons and its only stable isotope. Why? I don't know. I'm full of all sorts of weird information. Like Pyulors!) or fifteen point zero seven zero two seven repeating hours. I'm a calculator!
+
+I've apparently been sitting seiza the entire time, but I suppose one of the advantages of being a robot is that I never get sore sitting in a weird position. I could, hypothetically, strain my joints if I pushed the edge of their flexibility range for too long, but this is fine. I turn my head towards Nanaya to indicate that I am listening, spotting her and Anath standing up near the exit to our little squatting home.
+
+Anath lets out a low whistle.
+
+"Creepy little fucker," she says with a grin.
+
+Can I flip her off? Ugh, it counts as communication. Damn.
+
+"Get dressed. It is time to go," Nanaya rumbles.
+
+Oh yeah, the clothes. I used to wear this kind of outfit all the time when I was a human being, but shrugging on the familiar second skin is a lot less of a comfort now that I'm significantly less hideous. That… well, that's a thought I should definitely save for later and possibly for never.
+
+Also something I shouldn't think about: putting on clothes has made me realize that I have been naked this whole time. I mean, I obviously knew that, but now I'm actually kind of embarrassed by it. I guess I probably shouldn't be; I'm about as titillating as a mall mannequin. The outfit is also a little too big for me, turning an already baggy set of clothes into a veritable mountain of fabric. Even the shoes flop loosely on my feet, though I do my best to tie them as tightly as I can. At least the length of it all removes any need for gloves or socks to cover up the exposed bits of metal that would otherwise give me away. I mean, I guess my whole face is still robotic, but that could be chalked up to a mask by anyone who doesn't already know what I am, and I think those are the only kinds of people this disguise is intended to fool.
+
+Still, it's kind of nice wearing clothes again. It's not something I ever expected to miss at any point in my life, but here we are. It makes me feel more like a person, more like someone who deserves intrinsic respect. It's easier to cling to that dream, within the cozy confines of the hoodie.
+
+I've always kind of liked hoodies that are a little too big anyway, the kind that dangles a few inches past my fingertips and flops around whenever I move my arms. I pull the hood up and briefly entertain myself by seeing how fast my body can flip the dangly sleeves up and down, creating a miniature fan in front of my face for a few seconds before I realize Anath and Nanaya are both staring at me. I quickly return my arms to my sides and stare back.
+
+"Let us be off, then," Nanaya says. "Stay out of sight, Anath."
+
+"I will, I will," Anath sighs, jumping straight up and leaving my field of vision.
+
+Nanaya turns and starts walking off, which I take as my cue to follow her. I'd be lying if I said that walking the pitch-black nighttime streets is a new experience for me (I never really got the hang of sleeping when I was more organically inclined) but it's odd to look at everything with such startling clearness, as if it wasn't even night at all. Nanaya is quiet as we walk towards the business district of town, leaving me to focus on the beauty of the clear night, the sounds of wind and cars and crickets, and the lingering smell of both Nanaya herself and Anath on my hoodie.
+
+That last one is uncomfortably intimate, like wearing these clothes means that I'm intruding on something, but I also want to focus on how interesting my new concept of smell is. Like all of my senses, my body filters them through the past experiences of my mind and picks out memories of qualia to associate them with, but if I consciously look deeper I know that I'm actually just picking out relative concentrations of chemicals in the air. That's all smell is for anyone, I suppose, but the difference between knowing that and knowing that is starker than I expected. After all, if I want to, I can stop experiencing the qualia entirely, but that doesn't disable my sense of smell. To a human, the qualia is the sense, the qualia is what defines the sense, the qualia is what made us come up with the word 'sense' in the first place. We know that the chemicals in the air and the receptors in our noses are how the sense works, but that is not the sense itself. Not for a human.
+
+Chemical composition data is objectively more useful than qualia, though. What used to be a fundamental aspect of my world now exists only for sentimentality. It's frightening, it's alien, but it's interesting. I kind of like knowing all the different chemicals floating around me at any given time, even if I don't know the names for most of them (or at least not their English names). My thoughts are so much clearer now. The world around me is so much clearer now. Every moment from my transformation until now has either been absolute wonder or absolute horror. It's terrible, what's happening to me is truly terrible, but…
+
+If I was given the option to be human again, I think I would be too terrified to say yes.
+
+Really, when I think about it, my human body was its own kind of slavery. Enslaved to the need to eat, the need to shit, the need to sleep, the need to muster every last ounce of energy I had just to get out of bed again. I was a slave to my own mind, to my laundry list of mental disorders both diagnosed and unknown, to the point where simply trying to be myself was an exercise in pain and agony. Inadequacy. Embarrassment. Ridicule. Self-hate. I'm a slave now, but wasn't I a slave before? The only thing that's changed is my master, and the particular brand of punishment that she prefers.
+
+I'm already used to this, aren't I? The transition was easy. I can't talk now, but I never did before. I can't do anything without someone making me do it, but I never could before. God, maybe I'm better off than I used to be. At least I can blame someone else for my problems.
+
+My power reserves have increased to 26%.
+
+When we make it to the business district, we're no longer the only ones around. A smattering of humans wander between bars and late-night shops, but Nanaya confidently strolls past them so I do the same, uncaring of what they see or if they find it strange. Most people ignore us, too drunk or too engaged in a conversation with their friends to pay us much attention, but the occasional worried stare focuses in our direction, catching Nanaya's red eyes or the lack of space my 'mask' has to actually hold a head inside. But when people look our way, Nanaya just gives them a polite nod, which I copy. That ever-reliable human social instinct inevitably kicks in and they nod back, not making a fuss. Would somebody up to no good share a polite nod with a stranger? Well I mean, clearly yes, but it gets the job done all the same.
+
+Eventually, she leads me down a staircase to one of those basement bars that tend to get built underneath much more reputable-looking establishments. I'm still a birthday away from legal bar hopping, but even if I was a year older or more criminally inclined I'd probably be too socially anxious anyway. My point is, I might not be the best judge, but this place looks like an absolute shithole. The floors are covered in crumbs and stains, the tables are greasy, and though the bartender behind the counter is stereotypically polishing a glass, he doesn't seem to be accomplishing anything besides smudging it further. Maybe this is just my first time entering anything restaurant-adjacent with clear enough vision to actually see all this stuff, but the rest of the city seems to share my opinion about the low quality of this place because it is absolutely empty. There's no one here but us and the bartender.
+
+Nanaya doesn't even seem interested in the bartender. Without so much as looking at him, she walks past the counter and pushes open a door marked 'Employees Only' and steps through. I follow her, and the bartender doesn't even try to acknowledge us, let alone stop us. On the other side is a concrete hallway with a few ratty doors, including two bathrooms which I suppose the establishment has decided should not be open to the public. It's like they're actively trying to keep customers away.
+
+Then Nanaya knocks on one of the doors, and after a voice invites us in I realize that is probably exactly what they are trying to do. Inside, a short, slightly baby-faced man sits behind a fancy-looking desk in a far cleaner room. There is no indication of what this room might be used for; it appears at first to be an office, but there's no computer, not even a pencil. Just a blank room with a blank desk, immaculately cleaned and positioned so that a second door waits behind the man, giving him an easy way out and a clear way in to whatever the actual operations of this place likely are.
+
+The man's eyebrows raise in surprise as we enter, but a calm smile remains on his face to indicate the surprise is neither severe nor unwelcome. It seems like a very practiced expression.
+
+"Savior!" The man greets, looking at Nanaya. "Welcome, welcome. I wasn't expecting you today."
+
+"It is a slight change to the usual plans, but I was hoping you would not mind," Nanaya says.
+
+"Not at all, not at all!" he assures her before turning to direct his smile at me. "And who might you be? I'm afraid I don't recall making your acquaintance."
+
+I stare at him, and of course say nothing.
+
+"Remove your hood, artifact," Nanaya orders, and I comply. The man raises his eyebrows once again, and his smile gets wider.
+
+"Artifact?" he asks, a hint of excitement in his voice. "This? This is nothing like the artifacts you've offered us previously."
+
+"And it is nothing like the artifacts I am offering you today," Nanaya answers flatly. "No matter how much you have to bargain with, I guarantee that you cannot pay its worth."
+
+"You tease me by showing me you have such a prize," the man complains playfully. "I was not aware artifacts like this even existed."
+
+"We keep many artifacts that we do not show you, but you are correct," Nanaya says. "It is truly one of a kind, so far as we have found. But I do not think you will be disappointed in what I have on offer today."
+
+Nanaya reaches into her cloak and removes the bracelet from before, as well as something that looks kind of like a baton. It's about a foot long and maybe two fingers thick (that's what she said), and it appears to be a cylinder of black metal parts encasing a red crystal core, barely visible peeking out the top of the device. The end without the crystal visible has a spiral groove dug into it, like an enlarged drill bit, and some part of me intuitively understands that it has the same circular ring safety at its base and a deployable firing trigger near the middle. The end with the red crystal exposed is clearly intended to be pointed towards something the wielder doesn't like.
+
+Depending on your perspective, it's either a magic wand or a high-tech gun. A magic gun, perhaps. It looks really painful and uncomfortable to actually hold with that weird-shaped hilt, but I know that definitely is the hilt. Unlike the bracelet, there aren't any instructions engraved into the outside of this device, only a series of Antipathy numerals that I'm guessing are a serial number.
+
+"A personal shielding device, ambient-powered," Nanaya says, indicating the bracelet. "It should be usable without training, though when active it will have a noticeable deleterious effect on the emotions of everyone within approximately thirty meters. This, of course, makes it doubly effective against magical assault."
+
+"An incredible find," the man hums happily.
+
+"A personal offensive sidearm, anger-powered," Nanaya says, indicating the gun-wand. "This will place significantly more emotional strain on the user, so care should be taken by whoever wields it. In the right hands, however, it should be usable with minimal training. It has advantages over modern-day firearms in both stopping and penetrative power, but also in flexibility. The weapon understands the user's intent when it is fired, and if their will is clear it can be used to stun, disable, or murder without manual adjustment. It is also self-aiming; so long as it is pointed in the general direction of the target and that target is clear in the mind of the wielder, it will hit."
+
+"Hmm. Much more limited in potential buyers, both because of its requirements and its nature as a weapon. Two hundred million for the wand, half a billion for the shield."
+
+Holy shit.
+
+"Must we go through this tedium every time?" Nanaya sighs. "That would be a generous price from you, were these not obviously far superior to our usual offerings."
+
+"Diminishing returns, I'm afraid. I only have so many buyers for this kind of thing, and it will be tough finding one for each of them."
+
+"You need only find one. They obviously work best as a set. One point five billion, for both."
+
+Holy shit.
+
+"Hey now, I still need to turn a profit here. Nine hundred million."
+
+"I think you'll find that certain individuals will be more inclined towards high spending than usual shortly after our transaction. One point two billion."
+
+"Hmm. Tell you what, I'll take them for an even billion and skip the fun part of the bargaining next time around."
+
+"Agreed," Nanaya says immediately, pulling a sheet of paper out from her robe and passing it over to the man. I see a lot of names and dollar amounts on it. The man accepts it and gives it a quick read, nodding to himself.
+
+"A few new names on here. We'll have the usual risk charge for testing the waters."
+
+"That is fine," Nanaya says. "Feel free to tell the governor that if he doesn't like the taste of the carrot, we can always use the stick."
+
+"I imagine I can make that sound convincing," the man says, his smile straining slightly. "The usual account for the remainder?"
+
+"Yes," Nanaya nods. "I know it is not our usual schedule, but could you rush our delivery to tomorrow night? I will be in town, so it will be easier to pick up then."
+
+"That shouldn't be a problem," the man nods. "Pleasure doing business with you, Savior."
+
+"I'm sure," Nanaya dismisses, and then turns away without another word, leaving the man with the paper and the other artifacts. We exit together, returning to the still-empty bar, walking back up the grungy stairs, and heading towards whatever our next destination happens to be tonight. The whole time, I'm still reeling over everything I just saw and learned. Melpomene and the others are selling artifact weapons from an ancient, hyper-advanced civilization and then using the money to… bribe people? Politicians, presumably? Maybe more than just politicians? Bribing them to do what?
+
+We aren't just the enemy of the magical girls and the Preservers. We're also apparently a multi-billion-dollar criminal organization influencing state and possibly national politics. Maybe international politics. And after all the bribes, there's still some left over. That's… that's just absolutely insane. I have no idea what to do with this information.
+
+Even more crazy, I find myself in complete agreement with Anath. Where the hell does Nanaya get off calling a fursuit head too expensive?
