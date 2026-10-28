@@ -6,7 +6,7 @@ export const ruleMythicHouseStorageBank = {
   slug: "rule-mythic-house-storage-bank",
   title: "Bank mythic gear from house storage",
   description:
-    "Moves mythic equipment held in a housing storage container, such as the Wealth chest, to the bank. Sits above the uncollected bind rule and the legendary gear protection, so a mythic in house storage reaches the bank first. Mythics a character carries or wears are left where they are.",
+    "Moves mythic equipment held in a housing storage container, such as the Wealth chest, to the bank. Sits above the uncollected bind rule and the legendary gear protection, so a mythic in house storage reaches the bank first. Mythics a character wears are left where they are.",
   goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
   destination: "bank",
@@ -17,5 +17,5 @@ export const ruleMythicHouseStorageBank = {
   active: true,
   ruleChangedAt: "2026-10-28T19:20:28.000Z",
   createdAt: "2026-10-28T19:20:44.916Z",
-  updatedAt: "2026-10-28T19:20:44.916Z",
+  updatedAt: "2026-10-28T21:38:27.471Z",
 } as const satisfies TemperInventoryRule
