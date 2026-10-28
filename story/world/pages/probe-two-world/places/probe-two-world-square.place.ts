@@ -39,7 +39,7 @@ export const probeTwoWorldSquare = {
     },
     {
       fact: "The square's well drops a long way, its stone walls darkening further down.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/probe-two-player"],
     },
     {
       fact: "The square's well holds clear water far below its rim.",
@@ -63,5 +63,5 @@ export const probeTwoWorldSquare = {
     },
   ],
   createdAt: "2026-10-27T23:43:53.894Z",
-  updatedAt: "2026-10-28T00:01:21.905Z",
+  updatedAt: "2026-10-28T00:02:26.999Z",
 } as const satisfies Place
