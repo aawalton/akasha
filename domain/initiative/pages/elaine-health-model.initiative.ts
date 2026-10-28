@@ -6,12 +6,7 @@ export const elaineHealthModel = {
   slug: "elaine-health-model",
   domain: "domain/medicine",
   persona: "persona/elaine",
-  intentStack: [
-    {
-      statement:
-        "The actions command weighs every voluntary action with a verified effect on a cause of death.",
-    },
-  ],
+  intentStack: [],
   createdAt: "2026-10-28T17:48:39.611Z",
-  updatedAt: "2026-10-28T20:12:59.851Z",
+  updatedAt: "2026-10-28T20:15:01.652Z",
 } as const satisfies Initiative
