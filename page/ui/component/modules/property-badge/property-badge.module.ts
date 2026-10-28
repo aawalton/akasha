@@ -16,7 +16,11 @@ export const propertyBadge = {
       statement:
         "A badge in a row of a property list is drawn bare unless its color names something.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A computed property's badge is never drawn to be edited.",
+    },
   ],
   createdAt: "2026-09-02T12:19:38.821Z",
-  updatedAt: "2026-09-24T20:01:31.000Z",
+  updatedAt: "2026-10-28T20:18:37.705Z",
 } as const satisfies Module

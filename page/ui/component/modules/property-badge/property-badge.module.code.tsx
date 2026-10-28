@@ -73,7 +73,11 @@ function layoutForContext(context: PropertyBadgeContext): {
   return { truncate: "fluid", popoverAlign: "end", bare: false }
 }
 
-export function PropertyBadge(props: PropertyBadgeProps) {
+const WORKED_OUT = "computed-property"
+
+export function PropertyBadge(given: PropertyBadgeProps) {
+  const worked = given.property.drawnBy?.includes(WORKED_OUT) === true
+  const props = worked ? { ...given, editable: false } : given
   const { property, value, context, editable } = props
 
   if (
