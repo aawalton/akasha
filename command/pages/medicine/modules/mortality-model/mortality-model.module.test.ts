@@ -21,6 +21,7 @@ const HELD: Held = {
   shareBelowThree: 0.5,
   shareBelowZero: 0,
   onStimulant: true,
+  stimulantYears: 1,
   conditions: new Map([["ADHD", "self"]]),
   parkinsonsFirstDegree: true,
   neverSmoked: true,

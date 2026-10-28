@@ -45,6 +45,18 @@ const SCREENING_AGE = 45
 
 const SCREENED_SHARE = 0.66
 
+const HALF_YEAR = 0.5
+
+type StimulantBand = { readonly named: string; readonly above: number; readonly upTo: number }
+
+const STIMULANT_BANDS: readonly StimulantBand[] = [
+  { named: "up to 1 year", above: Number.NEGATIVE_INFINITY, upTo: 1 },
+  { named: "1 to 2 years", above: 1, upTo: 2 },
+  { named: "2 to 3 years", above: 2, upTo: 3 },
+  { named: "3 to 5 years", above: 3, upTo: 5 },
+  { named: "over 5 years", above: 5, upTo: Number.POSITIVE_INFINITY },
+]
+
 export type Held = {
   readonly age: number
   readonly steps: number | null
@@ -53,6 +65,7 @@ export type Held = {
   readonly shareBelowThree: number
   readonly shareBelowZero: number
   readonly onStimulant: boolean
+  readonly stimulantYears: number | null
   readonly conditions: ReadonlyMap<string, string>
   readonly parkinsonsFirstDegree: boolean
   readonly neverSmoked: boolean
@@ -99,6 +112,19 @@ function conditionDose(condition: string): Dosing {
 
 const stimulantDose: Dosing = (held) => (held.onStimulant ? 1 : 0)
 
+export function stimulantYearsAt(held: Held, age: number): number {
+  return held.stimulantYears === null
+    ? Number.POSITIVE_INFINITY
+    : held.stimulantYears + age + HALF_YEAR - held.age
+}
+
+function stimulantBandDose(band: StimulantBand): Dosing {
+  return (held, age) => {
+    const years = stimulantYearsAt(held, age)
+    return held.onStimulant && years > band.above && years <= band.upTo ? 1 : 0
+  }
+}
+
 const adhdStimulantDose: Dosing = (held) =>
   held.onStimulant && held.conditions.has("ADHD") ? 1 : 0
 
@@ -124,7 +150,7 @@ const MEAT_SAID =
 const MEAT_GRAMS_SAID = `${MEAT_SAID}; a serving is taken as 75 g, between the source's 100 g red and 50 g processed (assumed); colorectal cancer incidence is read as colorectal cancer death`
 
 const STIMULANT_CARDIO_SAID =
-  "applies where Alan's medications name a stimulant, as the source's odds ratio for more than 5 years of use, taken as reached now (his years of use are unknown); the source counts diagnoses, and adding deaths in a sensitivity analysis gave similar results; its yearly dose-response is significant only at 1.5 defined daily doses or more, and Alan takes about 1.1 (30 mg lisdexamfetamine at a DDD of 30 mg, plus 10 mg amphetamine a week at a DDD of 15 mg), so this cause-specific estimate pooled over doses is the source's nearest fit"
+  "applies where Alan's medications name a stimulant, as the source's odds ratio for the band his cumulative years of use fall in that year, counted from the earliest start date his stimulants state and assuming he keeps taking them; a stimulant stating no start date is read as more than 5 years of use; the source counts diagnoses, and adding deaths in a sensitivity analysis gave similar results; its yearly dose-response is significant only at 1.5 defined daily doses or more, and Alan takes about 1.1 (30 mg lisdexamfetamine at a DDD of 30 mg, plus 10 mg amphetamine a week at a DDD of 15 mg), so these cause-specific estimates pooled over doses are the source's nearest fit"
 
 const NEVER_SMOKED_SAID =
   "applies where Alan's tobacco use is never; the relative risk is a never-smoker's rate over the population's, worked out on the page from the source's smoker ratios and men 65 and over's smoking shares, so it overstates the credit before 65 where more men never smoked"
@@ -159,12 +185,16 @@ const DEPRESSION_SAID =
 const IDEATION_SAID =
   "applies for the share of logged time below safety level 0, on top of depression as the source says; self-diagnosed, so it ranges from no added risk to the source's central value"
 
-function cardioReadings(stimulant: string): readonly Reading[] {
+function cardioReadings(outcome: string): readonly Reading[] {
   return [
     { factor: "daily steps", dose: stepsDose, assumed: STEPS_SAID },
     { factor: "sleep duration", dose: sleepDose, assumed: SLEEP_SAID },
     { factor: "red and processed meat", dose: meatServingDose, assumed: MEAT_SAID },
-    { factor: stimulant, dose: stimulantDose, assumed: STIMULANT_CARDIO_SAID },
+    ...STIMULANT_BANDS.map((band) => ({
+      factor: `ADHD medication ${band.named}, ${outcome}`,
+      dose: stimulantBandDose(band),
+      assumed: STIMULANT_CARDIO_SAID,
+    })),
     SMOKED,
     bmiReading(25),
   ]
@@ -197,8 +227,8 @@ const SUICIDE: readonly Reading[] = [
 export function readingsFor(): ReadonlyMap<string, readonly Reading[]> {
   const cancer = bmiReading(21)
   return new Map<string, readonly Reading[]>([
-    ["heart-disease", cardioReadings("ADHD medication over 5 years, ischaemic heart disease")],
-    ["stroke", cardioReadings("ADHD medication over 5 years, cerebrovascular disease")],
+    ["heart-disease", cardioReadings("ischaemic heart disease")],
+    ["stroke", cardioReadings("cerebrovascular disease")],
     ["lung-cancer", [SMOKED, cancer]],
     ["chronic-lower-respiratory-disease", [SMOKED, bmiReading(25)]],
     ["pancreatic-cancer", [SMOKED, cancer]],
@@ -238,8 +268,20 @@ export function readingsFor(): ReadonlyMap<string, readonly Reading[]> {
   ])
 }
 
+function stimulantsIn(person: Value): readonly Value[] {
+  return recordsIn(person.medications).filter((one) => STIMULANT.test(textAt(one, "name") ?? ""))
+}
+
 export function onStimulantIn(person: Value): boolean {
-  return recordsIn(person.medications).some((one) => STIMULANT.test(textAt(one, "name") ?? ""))
+  return stimulantsIn(person).length > 0
+}
+
+export function stimulantStartIn(person: Value): string | null {
+  const days = stimulantsIn(person)
+    .map((one) => textAt(one, "startedOn"))
+    .filter((day): day is string => day !== null)
+    .sort()
+  return days[0] ?? null
 }
 
 export function conditionsIn(person: Value): ReadonlyMap<string, string> {

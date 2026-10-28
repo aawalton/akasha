@@ -12,6 +12,7 @@ import {
   type Reading,
   readingsFor,
   SELF,
+  stimulantStartIn,
 } from "akasha/command/pages/medicine/modules/mortality-readings/mortality-readings.module.code.ts"
 import {
   valuedAt,
@@ -306,6 +307,7 @@ export function modelIn(root: string, today: string): Model {
   const born = textAt(person, "birthDate")
   if (born === null) throw new Error("Alan's person page states no birth date")
   const logs = logsIn(root, today)
+  const started = stimulantStartIn(person)
   const held: Held = {
     age: ageOn(born, today),
     steps: logs.steps,
@@ -314,6 +316,7 @@ export function modelIn(root: string, today: string): Model {
     shareBelowThree: logs.shareBelowThree,
     shareBelowZero: logs.shareBelowZero,
     onStimulant: onStimulantIn(person),
+    stimulantYears: started === null ? null : ageOn(started, today),
     conditions: conditionsIn(person),
     parkinsonsFirstDegree: parkinsonsIn(person),
     ...habitsIn(person),

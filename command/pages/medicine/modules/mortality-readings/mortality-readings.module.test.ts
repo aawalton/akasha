@@ -8,6 +8,8 @@ import {
   onStimulantIn,
   parkinsonsIn,
   readingsFor,
+  stimulantStartIn,
+  stimulantYearsAt,
 } from "akasha/command/pages/medicine/modules/mortality-readings/mortality-readings.module.code.ts"
 
 const HELD: Held = {
@@ -18,6 +20,7 @@ const HELD: Held = {
   shareBelowThree: 0.5,
   shareBelowZero: 0,
   onStimulant: true,
+  stimulantYears: 1,
   conditions: new Map([["ADHD", "self"]]),
   parkinsonsFirstDegree: true,
   neverSmoked: true,
@@ -54,6 +57,38 @@ test("a person's stimulant, conditions, family history and meat are read off the
   expect(meatPerDayIn(PERSON)).toBe(1)
 })
 
+test("a stimulant's start date is the earliest any stimulant states", () => {
+  expect(
+    stimulantStartIn({
+      medications: [
+        { name: "Adderall (mixed amphetamine salts)", startedOn: "2025-12-01" },
+        { name: "Vyvanse (lisdexamfetamine)", startedOn: "2025-10-28" },
+        { name: "creatine monohydrate", startedOn: "2020-01-01" },
+      ],
+    })
+  ).toBe("2025-10-28")
+  expect(stimulantStartIn(PERSON)).toBeNull()
+})
+
+test("each year takes the stimulant band its years of use fall in, once and only once", () => {
+  const stimulant = (readingsFor().get("heart-disease") ?? []).slice(3, 8)
+  expect(stimulant.map((one) => one.factor)).toEqual([
+    "ADHD medication up to 1 year, ischaemic heart disease",
+    "ADHD medication 1 to 2 years, ischaemic heart disease",
+    "ADHD medication 2 to 3 years, ischaemic heart disease",
+    "ADHD medication 3 to 5 years, ischaemic heart disease",
+    "ADHD medication over 5 years, ischaemic heart disease",
+  ])
+  const doses = (age: number, held: Held = HELD) => stimulant.map((one) => one.dose(held, age))
+  expect(stimulantYearsAt(HELD, 40)).toBeCloseTo(1)
+  expect(doses(40)).toEqual([1, 0, 0, 0, 0])
+  expect(doses(41)).toEqual([0, 1, 0, 0, 0])
+  expect(doses(43)).toEqual([0, 0, 0, 1, 0])
+  expect(doses(50)).toEqual([0, 0, 0, 0, 1])
+  expect(doses(40, { ...HELD, stimulantYears: null })).toEqual([0, 0, 0, 0, 1])
+  expect(doses(50, { ...HELD, onStimulant: false })).toEqual([0, 0, 0, 0, 0])
+})
+
 test("a grandparent alone is no first-degree relative", () => {
   expect(parkinsonsIn({ familyHistory: [PERSON.familyHistory[0]] })).toBe(false)
 })
@@ -64,7 +99,7 @@ test("steps past the source's line count as its top", () => {
 })
 
 test("BMI is read against the people's mean, past the source's change point", () => {
-  const bmi = (readingsFor().get("stroke") ?? [])[5]
+  const bmi = (readingsFor().get("stroke") ?? [])[9]
   expect(bmi?.dose(HELD, 41)).toBeCloseTo((1.1 - 4.4) / 5)
   expect(bmi?.dose({ ...HELD, bmi: null }, 41)).toBe(0)
 })

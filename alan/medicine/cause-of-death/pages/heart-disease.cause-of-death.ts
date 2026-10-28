@@ -122,6 +122,54 @@ export const heartDisease = {
       url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10270853/",
     },
     {
+      factor: "ADHD medication up to 1 year, ischaemic heart disease",
+      personProperty: "medications",
+      appliedAs:
+        "0 to 1 year of cumulative ADHD medication vs none, among people with ADHD, incident ischaemic heart disease; adjusted OR, Table 2; not significant",
+      relativeRiskLow: 0.69,
+      relativeRiskCentral: 0.94,
+      relativeRiskHigh: 1.28,
+      citation:
+        "Zhang L, Li L, Andell P, et al. Attention-Deficit/Hyperactivity Disorder Medications and Long-Term Risk of Cardiovascular Diseases. JAMA Psychiatry 2024;81(2):178-187. doi:10.1001/jamapsychiatry.2023.4294",
+      url: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2811812",
+    },
+    {
+      factor: "ADHD medication 1 to 2 years, ischaemic heart disease",
+      personProperty: "medications",
+      appliedAs:
+        "1 to 2 years of cumulative ADHD medication vs none, among people with ADHD, incident ischaemic heart disease; adjusted OR, Table 2; not significant",
+      relativeRiskLow: 0.49,
+      relativeRiskCentral: 0.72,
+      relativeRiskHigh: 1.06,
+      citation:
+        "Zhang L, Li L, Andell P, et al. Attention-Deficit/Hyperactivity Disorder Medications and Long-Term Risk of Cardiovascular Diseases. JAMA Psychiatry 2024;81(2):178-187. doi:10.1001/jamapsychiatry.2023.4294",
+      url: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2811812",
+    },
+    {
+      factor: "ADHD medication 2 to 3 years, ischaemic heart disease",
+      personProperty: "medications",
+      appliedAs:
+        "2 to 3 years of cumulative ADHD medication vs none, among people with ADHD, incident ischaemic heart disease; adjusted OR, Table 2; not significant",
+      relativeRiskLow: 0.73,
+      relativeRiskCentral: 1.09,
+      relativeRiskHigh: 1.65,
+      citation:
+        "Zhang L, Li L, Andell P, et al. Attention-Deficit/Hyperactivity Disorder Medications and Long-Term Risk of Cardiovascular Diseases. JAMA Psychiatry 2024;81(2):178-187. doi:10.1001/jamapsychiatry.2023.4294",
+      url: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2811812",
+    },
+    {
+      factor: "ADHD medication 3 to 5 years, ischaemic heart disease",
+      personProperty: "medications",
+      appliedAs:
+        "3 to 5 years of cumulative ADHD medication vs none, among people with ADHD, incident ischaemic heart disease; adjusted OR, Table 2; not significant",
+      relativeRiskLow: 0.82,
+      relativeRiskCentral: 1.2,
+      relativeRiskHigh: 1.77,
+      citation:
+        "Zhang L, Li L, Andell P, et al. Attention-Deficit/Hyperactivity Disorder Medications and Long-Term Risk of Cardiovascular Diseases. JAMA Psychiatry 2024;81(2):178-187. doi:10.1001/jamapsychiatry.2023.4294",
+      url: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2811812",
+    },
+    {
       factor: "ADHD medication over 5 years, ischaemic heart disease",
       personProperty: "medications",
       appliedAs:
@@ -158,5 +206,5 @@ export const heartDisease = {
     },
   ],
   createdAt: "2026-10-28T18:35:44.261Z",
-  updatedAt: "2026-10-28T19:10:39.459Z",
+  updatedAt: "2026-10-28T19:34:29.813Z",
 } as const satisfies CauseOfDeath

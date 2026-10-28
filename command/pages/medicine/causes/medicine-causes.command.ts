@@ -34,6 +34,24 @@ export const medicineCauses = {
       statement: "A cause whose chance stays under one in two thousand is left out.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stimulant's heart and stroke risk is the source's figure for Alan's years of use that year.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The source gives a figure for each band of use, so no band borrows another band's figure.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Years of use count from the earliest start date, as if Alan keeps taking them.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A stimulant stating no start date is read as more than five years of use.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A run writes nothing.",
     },
@@ -41,5 +59,5 @@ export const medicineCauses = {
   name: "causes",
   arguments: [{ argument: "argument/json" }],
   createdAt: "2026-10-28T18:57:02.952Z",
-  updatedAt: "2026-10-28T18:57:02.952Z",
+  updatedAt: "2026-10-28T19:34:29.813Z",
 } as const satisfies Command

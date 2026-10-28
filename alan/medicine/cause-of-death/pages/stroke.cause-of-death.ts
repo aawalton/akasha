@@ -122,6 +122,54 @@ export const stroke = {
       url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10270853/",
     },
     {
+      factor: "ADHD medication up to 1 year, cerebrovascular disease",
+      personProperty: "medications",
+      appliedAs:
+        "0 to 1 year of cumulative ADHD medication vs none, among people with ADHD, incident cerebrovascular disease; adjusted OR, Table 2; not significant",
+      relativeRiskLow: 0.72,
+      relativeRiskCentral: 0.93,
+      relativeRiskHigh: 1.2,
+      citation:
+        "Zhang L, Li L, Andell P, et al. Attention-Deficit/Hyperactivity Disorder Medications and Long-Term Risk of Cardiovascular Diseases. JAMA Psychiatry 2024;81(2):178-187. doi:10.1001/jamapsychiatry.2023.4294",
+      url: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2811812",
+    },
+    {
+      factor: "ADHD medication 1 to 2 years, cerebrovascular disease",
+      personProperty: "medications",
+      appliedAs:
+        "1 to 2 years of cumulative ADHD medication vs none, among people with ADHD, incident cerebrovascular disease; adjusted OR, Table 2; not significant",
+      relativeRiskLow: 0.73,
+      relativeRiskCentral: 0.97,
+      relativeRiskHigh: 1.31,
+      citation:
+        "Zhang L, Li L, Andell P, et al. Attention-Deficit/Hyperactivity Disorder Medications and Long-Term Risk of Cardiovascular Diseases. JAMA Psychiatry 2024;81(2):178-187. doi:10.1001/jamapsychiatry.2023.4294",
+      url: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2811812",
+    },
+    {
+      factor: "ADHD medication 2 to 3 years, cerebrovascular disease",
+      personProperty: "medications",
+      appliedAs:
+        "2 to 3 years of cumulative ADHD medication vs none, among people with ADHD, incident cerebrovascular disease; adjusted OR, Table 2; not significant",
+      relativeRiskLow: 0.6,
+      relativeRiskCentral: 0.85,
+      relativeRiskHigh: 1.22,
+      citation:
+        "Zhang L, Li L, Andell P, et al. Attention-Deficit/Hyperactivity Disorder Medications and Long-Term Risk of Cardiovascular Diseases. JAMA Psychiatry 2024;81(2):178-187. doi:10.1001/jamapsychiatry.2023.4294",
+      url: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2811812",
+    },
+    {
+      factor: "ADHD medication 3 to 5 years, cerebrovascular disease",
+      personProperty: "medications",
+      appliedAs:
+        "3 to 5 years of cumulative ADHD medication vs none, among people with ADHD, incident cerebrovascular disease; adjusted OR, Table 2; not significant",
+      relativeRiskLow: 0.8,
+      relativeRiskCentral: 1.1,
+      relativeRiskHigh: 1.52,
+      citation:
+        "Zhang L, Li L, Andell P, et al. Attention-Deficit/Hyperactivity Disorder Medications and Long-Term Risk of Cardiovascular Diseases. JAMA Psychiatry 2024;81(2):178-187. doi:10.1001/jamapsychiatry.2023.4294",
+      url: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2811812",
+    },
+    {
       factor: "ADHD medication over 5 years, cerebrovascular disease",
       personProperty: "medications",
       appliedAs:
@@ -159,5 +207,5 @@ export const stroke = {
     },
   ],
   createdAt: "2026-10-28T18:37:52.016Z",
-  updatedAt: "2026-10-28T19:10:39.459Z",
+  updatedAt: "2026-10-28T19:34:29.813Z",
 } as const satisfies CauseOfDeath
