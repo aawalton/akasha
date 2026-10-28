@@ -35,6 +35,8 @@ const MILLION = 1_000_000
 
 const Z_95 = 1.959964
 
+const Z_90 = 1.644854
+
 const SEED = 20_261_029
 
 const MINUTES_PER_YEAR = 365.2425 * 24 * 60
@@ -62,7 +64,11 @@ const TENTHS = 0.1
 export type Injury = {
   readonly injury: string
   readonly perMillion: number
+  readonly perMillionLow: number | null
+  readonly perMillionHigh: number | null
   readonly weight: number
+  readonly weightLow: number | null
+  readonly weightHigh: number | null
   readonly years: number
 }
 
@@ -87,7 +93,11 @@ export function activityOf(slug: string, value: Value): Activity {
     injuries: recordsIn(value.injuryDisability).map((one) => ({
       injury: textAt(one, "injury") ?? "",
       perMillion: numberAt(one, "injuriesPerMillionUnits") ?? Number.NaN,
+      perMillionLow: numberAt(one, "injuriesPerMillionUnitsLow"),
+      perMillionHigh: numberAt(one, "injuriesPerMillionUnitsHigh"),
       weight: numberAt(one, "disabilityWeight") ?? Number.NaN,
+      weightLow: numberAt(one, "disabilityWeightLow"),
+      weightHigh: numberAt(one, "disabilityWeightHigh"),
       years: numberAt(one, "disabilityYears") ?? Number.NaN,
     })),
   }
@@ -117,18 +127,69 @@ export type Price = {
   readonly disability: Spread
 }
 
-export function priceOf(one: Activity, healthy: Float64Array, count: number): Price {
-  if (!(one.low > 0 && one.high >= one.low)) {
-    throw new Error(`\`${one.slug}\` states micromorts that are no range`)
+export type TwoPiece = {
+  readonly central: number
+  readonly sigmaLow: number
+  readonly sigmaHigh: number
+}
+
+export function twoPieceOf(
+  central: number,
+  low: number | null,
+  high: number | null,
+  z: number,
+  named: string
+): TwoPiece {
+  if (low === null || high === null) return { central, sigmaLow: 0, sigmaHigh: 0 }
+  if (!(low > 0 && low <= central && central <= high)) {
+    throw new Error(`${named} states a low, central and high that are no range`)
   }
-  const mu = (Math.log(one.low) + Math.log(one.high)) / 2
-  const sigma = (Math.log(one.high) - Math.log(one.low)) / (2 * Z_95)
-  const lost = disabilityYearsOf(one) * count
-  const normals = normalsOf(seeded(SEED), healthy.length)
-  const death = normals.map((normal) => Math.exp(mu + sigma * normal) * count)
-  const disability = healthy.map((years) => (years > 0 ? (lost / years) * MILLION : Number.NaN))
-  const total = death.map((dying, index) => dying + (disability[index] ?? 0))
-  return { total: spreadOf(total), death: spreadOf(death), disability: spreadOf(disability) }
+  return {
+    central,
+    sigmaLow: Math.log(central / low) / z,
+    sigmaHigh: Math.log(high / central) / z,
+  }
+}
+
+export function drawnFrom(piece: TwoPiece, normal: number): number {
+  return piece.central * Math.exp(normal * (normal < 0 ? piece.sigmaLow : piece.sigmaHigh))
+}
+
+type InjuryPieces = { readonly rate: TwoPiece; readonly weight: TwoPiece; readonly years: number }
+
+function injuryPiecesOf(one: Activity): readonly InjuryPieces[] {
+  return one.injuries.map((injury) => {
+    const named = `\`${one.slug}\` ${injury.injury}`
+    return {
+      rate: twoPieceOf(injury.perMillion, injury.perMillionLow, injury.perMillionHigh, Z_90, named),
+      weight: twoPieceOf(injury.weight, injury.weightLow, injury.weightHigh, Z_95, named),
+      years: injury.years,
+    }
+  })
+}
+
+export function priceOf(one: Activity, healthy: Float64Array, count: number): Price {
+  const death = twoPieceOf(one.central, one.low, one.high, Z_90, `\`${one.slug}\` micromorts`)
+  const pieces = injuryPiecesOf(one)
+  const draws = healthy.length
+  const stride = 1 + 2 * pieces.length
+  const normals = normalsOf(seeded(SEED), draws * stride)
+  const dying = new Float64Array(draws)
+  const disability = new Float64Array(draws)
+  for (let draw = 0; draw < draws; draw += 1) {
+    const at = draw * stride
+    dying[draw] = drawnFrom(death, normals[at] ?? 0) * count
+    let lost = 0
+    pieces.forEach((piece, index) => {
+      const rate = drawnFrom(piece.rate, normals[at + 1 + 2 * index] ?? 0)
+      const weight = Math.min(1, drawnFrom(piece.weight, normals[at + 2 + 2 * index] ?? 0))
+      lost += (rate / MILLION) * weight * piece.years
+    })
+    const years = healthy[draw] ?? Number.NaN
+    disability[draw] = years > 0 ? ((lost * count) / years) * MILLION : Number.NaN
+  }
+  const total = dying.map((part, index) => part + (disability[index] ?? 0))
+  return { total: spreadOf(total), death: spreadOf(dying), disability: spreadOf(disability) }
 }
 
 export function minutesOf(healthy: Float64Array): Spread {

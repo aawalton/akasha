@@ -41,7 +41,29 @@ export const medicineActivity = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An activity's micromorts are drawn from the lognormal its low and high bound at 95%.",
+        "A figure's median is its central value, with its low and high its 5th and 95th percentile.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A figure's low and high side each take their own log-spread.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The low side's log-spread is ln(central/low)/1.645, and the high side's ln(high/central)/1.645.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A disability weight's low and high are its 95% interval in the Global Burden of Disease study.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An injury's rate and its weight are each drawn, and its duration is held fixed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The list says each activity's unit whole.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -77,5 +99,5 @@ export const medicineActivity = {
     { argument: "argument/json" },
   ],
   createdAt: "2026-10-28T19:17:26.137Z",
-  updatedAt: "2026-10-28T19:17:26.137Z",
+  updatedAt: "2026-10-28T19:25:02.410Z",
 } as const satisfies Command
