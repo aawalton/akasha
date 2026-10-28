@@ -1,3 +1,4 @@
+import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { textFilterPredicate } from "akasha/page/core/property-type/modules/filter-utils/filter-utils.module.code.ts"
 import type {
   FilterConfig,
@@ -5,6 +6,16 @@ import type {
   PropertyTypeOps,
   PropertyValue,
 } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
+import {
+  getOptions,
+  SELECT_OPS,
+} from "akasha/page/core/property-type/modules/select/select.module.code.ts"
+
+const AMONG: ReadonlySet<string> = new Set(["includes", "not_includes"])
+
+function closed(definition: PropertyDefinition): boolean {
+  return getOptions(definition).length > 0
+}
 
 export const TEXT_OPS: PropertyTypeOps = {
   validate() {
@@ -16,7 +27,8 @@ export const TEXT_OPS: PropertyTypeOps = {
     return str !== "" ? str : null
   },
 
-  getFilterOperators(): readonly FilterOperatorOption[] {
+  getFilterOperators(definition: PropertyDefinition): readonly FilterOperatorOption[] {
+    if (closed(definition)) return SELECT_OPS.getFilterOperators(definition)
     return [
       { value: "contains", label: "Contains" },
       { value: "not_contains", label: "Does not contain" },
@@ -27,7 +39,8 @@ export const TEXT_OPS: PropertyTypeOps = {
     ]
   },
 
-  getFilterPredicate(config: FilterConfig) {
+  getFilterPredicate(config: FilterConfig, definition: PropertyDefinition) {
+    if (AMONG.has(config.operator)) return SELECT_OPS.getFilterPredicate(config, definition)
     return textFilterPredicate(config)
   },
 }

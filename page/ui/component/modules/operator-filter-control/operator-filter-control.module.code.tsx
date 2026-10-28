@@ -273,6 +273,17 @@ function ValueInput({
 
   switch (dimension.type) {
     case "text":
+      if ((dimension.options ?? []).length > 0) {
+        return (
+          <SelectBadgePicker
+            dimension={dimension}
+            operator={operator}
+            value={value}
+            onChange={onChange}
+          />
+        )
+      }
+      return <TextValueInput value={value} onChange={onChange} />
     case "url":
     case "markdown":
       return <TextValueInput value={value} onChange={onChange} />

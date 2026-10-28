@@ -14,6 +14,33 @@ const PROGRESSED_AT: PageFilterDimension = {
   ],
 }
 
+const COMPLETION: PageFilterDimension = {
+  id: "completion",
+  label: "Completion",
+  type: "text",
+  options: [
+    { id: "completed", label: "Completed" },
+    { id: "in-progress", label: "In Progress" },
+  ],
+  operators: [
+    { value: "includes", label: "Is any of" },
+    { value: "not_includes", label: "Is none of" },
+  ],
+}
+
+test("text held to a closed set is drawn with the values a filter leaves out", () => {
+  const drawn = render(
+    <OperatorFilterControl
+      dimension={COMPLETION}
+      filter={{ propertyId: "completion", operator: "not_includes", value: ["completed"] }}
+      onFilterChange={() => undefined}
+    />
+  )
+  expect(drawn.container.textContent).toContain("Is none of")
+  expect(drawn.container.textContent).toContain("Completed")
+  drawn.unmount()
+})
+
 test("a filter before a day or empty is drawn as that test and that day", () => {
   const drawn = render(
     <OperatorFilterControl

@@ -12,6 +12,8 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/resolution-target-types/resolution-target-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/rich-document/rich-document.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/select/select.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/text/text.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/text/text.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/schema/modules/pages/pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-filters/apply-filters.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-filters/apply-filters.module.test.ts","typed":true,"deferred":false}
