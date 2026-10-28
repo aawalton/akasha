@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/relate-names-by-key-on-every-page/relate-names-by-key-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/remove-entry-key-on-every-page/remove-entry-key-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.code.ts","typed":false,"deferred":false}

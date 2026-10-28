@@ -19,6 +19,7 @@ export const changeAgentPageType = {
     "change-agent/move-property-on-every-page",
     "change-agent/qualify-relation-by-key-on-every-page",
     "change-agent/qualify-relation-on-every-page",
+    "change-agent/relate-names-by-key-on-every-page",
     "change-agent/remove-entry-key-on-every-page",
     "change-agent/remove-every-page-of-a-type",
     "change-agent/remove-property-from-every-page",
@@ -27,6 +28,6 @@ export const changeAgentPageType = {
     "change-agent/sort-property-values-on-every-page",
     "change-agent/unquote-text-on-every-page",
   ],
-  updatedAt: "2026-10-08T16:48:17.941Z",
+  updatedAt: "2026-10-28T20:28:21.567Z",
   createdAt: "2026-09-08T14:41:24.580Z",
 } as const satisfies Domain

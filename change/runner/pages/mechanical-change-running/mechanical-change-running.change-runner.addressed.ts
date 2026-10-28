@@ -137,6 +137,9 @@ export type Changes = {
   "change-mechanical-page-type/qualify-relation-on-every-page": Parameters<
     typeof import("akasha/change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
+  "change-mechanical-page-type/relate-names-by-key-on-every-page": Parameters<
+    typeof import("akasha/change/mechanical/page-type/change/relate-names-by-key-on-every-page/relate-names-by-key-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
   "change-mechanical-page-type/remove-entry-key-on-every-page": Parameters<
     typeof import("akasha/change/mechanical/page-type/remove/remove-entry-key-on-every-page/remove-entry-key-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]

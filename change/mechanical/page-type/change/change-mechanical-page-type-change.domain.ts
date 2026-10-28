@@ -10,6 +10,7 @@ export const changeMechanicalPageTypeChange = {
     "change-mechanical-page-type/change-property-on-page-type",
     "change-mechanical-page-type/qualify-relation-by-key-on-every-page",
     "change-mechanical-page-type/qualify-relation-on-every-page",
+    "change-mechanical-page-type/relate-names-by-key-on-every-page",
     "change-mechanical-page-type/unquote-text-on-every-page",
   ],
   decisions: [
@@ -23,5 +24,5 @@ export const changeMechanicalPageTypeChange = {
     },
   ],
   createdAt: "2026-09-13T20:21:21.651Z",
-  updatedAt: "2026-09-27T06:25:17.000Z",
+  updatedAt: "2026-10-28T20:28:21.567Z",
 } as const satisfies Domain
