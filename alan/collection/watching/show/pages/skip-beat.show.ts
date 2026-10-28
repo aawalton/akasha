@@ -11,9 +11,15 @@ export const skipBeat = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "46669", externalLink: "https://www.themoviedb.org/tv/46669" },
+    {
+      source: "tmdb",
+      externalId: "46669",
+      externalLink: "https://www.themoviedb.org/tv/46669",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Skip Beat!",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:51:39.460Z",
-  updatedAt: "2026-10-28T18:51:39.460Z",
+  updatedAt: "2026-10-28T19:45:59.536Z",
 } as const satisfies Show
