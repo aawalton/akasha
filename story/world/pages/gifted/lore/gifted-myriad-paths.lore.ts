@@ -221,7 +221,11 @@ export const giftedMyriadPaths = {
       fact: "The Completionist's third Tier gives an Affinity slot, and its fourth an Advanced Attribute slot.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Soulstealing's first Tier falls at 10 steps, and its reward raises the Aether Core one grade.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T00:57:58.987Z",
+  updatedAt: "2026-10-28T00:58:50.834Z",
 } as const satisfies Lore
