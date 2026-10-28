@@ -11,9 +11,15 @@ export const toradora = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "42916", externalLink: "https://www.themoviedb.org/tv/42916" },
+    {
+      source: "tmdb",
+      externalId: "42916",
+      externalLink: "https://www.themoviedb.org/tv/42916",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Toradora!",
+  streamingOn: ["Amazon Prime Video", "Amazon Prime Video with Ads", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:50:08.982Z",
-  updatedAt: "2026-10-28T18:50:08.982Z",
+  updatedAt: "2026-10-28T19:46:30.421Z",
 } as const satisfies Show
