@@ -19,10 +19,10 @@ export const giftedReborn00004 = {
     "lore/gifted-souls-and-demons",
     "place/gifted-womb",
   ],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity", "story-reviewer/holdings"],
   interruptsAt: "2026-10-27T22:00:00.000Z",
   createdAt: "2026-10-28T00:33:02.651Z",
-  updatedAt: "2026-10-28T00:50:25.814Z",
+  updatedAt: "2026-10-28T00:50:37.076Z",
   ownLength: 249,
   endsAt: "2026-10-27T22:00:00.000Z",
 } as const satisfies StoryTurnPlayed
