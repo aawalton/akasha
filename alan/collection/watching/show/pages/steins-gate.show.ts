@@ -11,9 +11,15 @@ export const steinsGate = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "42509", externalLink: "https://www.themoviedb.org/tv/42509" },
+    {
+      source: "tmdb",
+      externalId: "42509",
+      externalLink: "https://www.themoviedb.org/tv/42509",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Steins;Gate",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:45:34.502Z",
-  updatedAt: "2026-10-28T18:45:34.502Z",
+  updatedAt: "2026-10-28T19:46:12.024Z",
 } as const satisfies Show
