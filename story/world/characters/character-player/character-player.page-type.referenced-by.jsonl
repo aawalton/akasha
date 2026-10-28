@@ -26,7 +26,6 @@
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/probe-two-world/stories/played/probe-two/characters/probe-two-player.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/salt-and-lamplight/stories/written/salt-and-lamplight/characters/salt-and-lamplight-nala.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/characters/skill-lock-probe-player.character-player.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/test-world/stories/played/beat-flow-test/characters/beat-flow-test-player.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/test-world/stories/played/test-story/characters/test-story-player.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/the-beholder/characters/the-beholder-pearl.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/the-idle-epoch/stories/written/the-idle-epoch/characters/the-idle-epoch-callum.character-player.ts","typed":true,"deferred":false}

@@ -18,11 +18,7 @@ export const testWorldOverview = {
     },
     {
       fact: "A healing draught's red liquid tastes of iron and honey.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/test-story-player",
-        "character-player/beat-flow-test-player",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-player/test-story-player"],
     },
     {
       fact: "The iron sword's edge runs even from hilt to point, with no nick or rolled spot.",
@@ -30,5 +26,5 @@ export const testWorldOverview = {
     },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T23:24:42.204Z",
+  updatedAt: "2026-10-28T00:39:28.541Z",
 } as const satisfies Lore

@@ -23,29 +23,29 @@ export const testWorldSquare = {
   facts: [
     {
       fact: "The square is cobbled, with a well at its middle and a bench beside the well.",
-      knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The well is a round stone shaft with still, clear water far below and a bucket on a rope.",
-      knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The square's well is a round shaft of fitted stone, its rim waist-high.",
-      knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The square's well drops a long way, its stone walls darkening further down.",
-      knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The square's well holds clear water far below its rim.",
-      knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A wooden bucket sits on the rim of the square's well, its rope coiled beside it.",
-      knowers: ["lore-disclosure/game-master", "character-player/beat-flow-test-player"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T23:03:12.189Z",
+  updatedAt: "2026-10-28T00:39:28.541Z",
 } as const satisfies Place
