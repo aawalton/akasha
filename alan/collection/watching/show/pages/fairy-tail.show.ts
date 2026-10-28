@@ -11,9 +11,15 @@ export const fairyTail = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "46261", externalLink: "https://www.themoviedb.org/tv/46261" },
+    {
+      source: "tmdb",
+      externalId: "46261",
+      externalLink: "https://www.themoviedb.org/tv/46261",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Fairy Tail",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:47:57.774Z",
-  updatedAt: "2026-10-28T18:47:57.774Z",
+  updatedAt: "2026-10-28T19:44:13.511Z",
 } as const satisfies Show
