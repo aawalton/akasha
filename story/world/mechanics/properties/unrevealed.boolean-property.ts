@@ -19,8 +19,12 @@ export const unrevealed = {
       decisionKind: "decision-kind/departure",
       statement: "No play screen shows a page stating true.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill stating true is a skill still locked.",
+    },
   ],
   types: "ts",
   createdAt: "2026-09-30T07:24:29.318Z",
-  updatedAt: "2026-09-30T07:24:38.000Z",
+  updatedAt: "2026-10-28T00:44:44.199Z",
 } as const satisfies BooleanProperty
