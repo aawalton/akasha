@@ -38,3 +38,8 @@ note: Aether Core: Minor; Aether Channels: Weak
 name: Attributes
 note: Strength: 100; Stamina: 100; Coordination: 100; Mental: 100; Aether: 100
 :::
+
+:::status-assessment
+name: Affinity and Paths
+note: Affinity: Shadow (Strong); Paths: Soulstealing, Completionist
+:::
