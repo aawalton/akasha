@@ -1,0 +1,1 @@
+export type NutsGramsPerDay = number

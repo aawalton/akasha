@@ -4,24 +4,37 @@ import type { AnsweredBy } from "akasha/person/properties/answered-by.relation-p
 import type { BirthDate } from "akasha/person/properties/birth-date.calendar-date-property.types.ts"
 import type { BloodPressureCategory } from "akasha/person/properties/blood-pressure-category.select-property.types.ts"
 import type { Bodyweight } from "akasha/person/properties/bodyweight.number-property.types.ts"
+import type { CoffeeCupsPerDay } from "akasha/person/properties/coffee-cups-per-day.number-property.types.ts"
 import type { ColorectalScreening } from "akasha/person/properties/colorectal-screening.select-property.types.ts"
+import type { CovidVaccination } from "akasha/person/properties/covid-vaccination.select-property.types.ts"
 import type { FamilyHistory } from "akasha/person/properties/family-history.record-property.types.ts"
 import type { FirearmAccess } from "akasha/person/properties/firearm-access.boolean-property.types.ts"
+import type { FishServingsPerWeek } from "akasha/person/properties/fish-servings-per-week.number-property.types.ts"
 import type { FluVaccination } from "akasha/person/properties/flu-vaccination.select-property.types.ts"
+import type { FruitVegetableServingsPerDay } from "akasha/person/properties/fruit-vegetable-servings-per-day.number-property.types.ts"
+import type { HasWrittenSafetyPlan } from "akasha/person/properties/has-written-safety-plan.boolean-property.types.ts"
 import type { HealthConditions } from "akasha/person/properties/health-conditions.record-property.types.ts"
+import type { InTherapyForDepression } from "akasha/person/properties/in-therapy-for-depression.boolean-property.types.ts"
+import type { LegumeServingsPerWeek } from "akasha/person/properties/legume-servings-per-week.number-property.types.ts"
 import type { MeatServingsPerWeek } from "akasha/person/properties/meat-servings-per-week.number-property.types.ts"
 import type { Medications } from "akasha/person/properties/medications.record-property.types.ts"
+import type { NutsGramsPerDay } from "akasha/person/properties/nuts-grams-per-day.number-property.types.ts"
 import type { PersonContributor } from "akasha/person/properties/person-contributor.relation-property.types.ts"
 import type { PersonHeight } from "akasha/person/properties/person-height.number-property.types.ts"
 import type { Phone } from "akasha/person/properties/phone.phone-number-property.types.ts"
 import type { PhysicalRiskActivities } from "akasha/person/properties/physical-risk-activities.record-property.types.ts"
 import type { PlantCalorieShare } from "akasha/person/properties/plant-calorie-share.number-property.types.ts"
+import type { SaunaSessionsPerWeek } from "akasha/person/properties/sauna-sessions-per-week.number-property.types.ts"
 import type { Scheme } from "akasha/person/properties/scheme.select-property.types.ts"
 import type { SeatNotices } from "akasha/person/properties/seat-notices.record-property.types.ts"
+import type { SeatbeltUse } from "akasha/person/properties/seatbelt-use.select-property.types.ts"
 import type { Sex } from "akasha/person/properties/sex.select-property.types.ts"
+import type { SocialIsolation } from "akasha/person/properties/social-isolation.select-property.types.ts"
 import type { SugaryDrinksPerWeek } from "akasha/person/properties/sugary-drinks-per-week.number-property.types.ts"
 import type { TobaccoUse } from "akasha/person/properties/tobacco-use.select-property.types.ts"
 import type { VehicleMilesPerYear } from "akasha/person/properties/vehicle-miles-per-year.number-property.types.ts"
+import type { Vo2max } from "akasha/person/properties/vo2max.number-property.types.ts"
+import type { WholeGrainServingsPerDay } from "akasha/person/properties/whole-grain-servings-per-day.number-property.types.ts"
 import type { EmailAddress } from "akasha/persona/properties/email-address.email-address-property.types.ts"
 
 export type Person = Domain & {
@@ -42,6 +55,19 @@ export type Person = Domain & {
   bloodPressureCategory?: BloodPressureCategory
   colorectalScreening?: ColorectalScreening
   fluVaccination?: FluVaccination
+  covidVaccination?: CovidVaccination
+  nutsGramsPerDay?: NutsGramsPerDay
+  wholeGrainServingsPerDay?: WholeGrainServingsPerDay
+  fruitVegetableServingsPerDay?: FruitVegetableServingsPerDay
+  legumeServingsPerWeek?: LegumeServingsPerWeek
+  fishServingsPerWeek?: FishServingsPerWeek
+  coffeeCupsPerDay?: CoffeeCupsPerDay
+  saunaSessionsPerWeek?: SaunaSessionsPerWeek
+  vo2max?: Vo2max
+  socialIsolation?: SocialIsolation
+  seatbeltUse?: SeatbeltUse
+  inTherapyForDepression?: InTherapyForDepression
+  hasWrittenSafetyPlan?: HasWrittenSafetyPlan
   physicalRiskActivities?: PhysicalRiskActivities
   familyHistory?: FamilyHistory
   healthConditions?: HealthConditions
