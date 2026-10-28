@@ -1149,6 +1149,19 @@
 {"propertySlug":"collection-unit","path":"alan/collection/type/pages/season.collection-type.ts","id":"01a06579-855d-7018-95ee-be93ba336738"}
 {"propertySlug":"collection-unit","path":"alan/collection/type/pages/show-collection.collection-type.ts","id":"01a06579-855d-7019-991c-1f9f7b13c39c"}
 {"propertySlug":"collection-unit","path":"alan/collection/type/pages/show.collection-type.ts","id":"01a06579-855d-701a-b01e-80c9b9a561eb"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e01.episode.ts","id":"01a183dd-3da1-7977-b10e-88e1a4b0b595"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e02.episode.ts","id":"01a183dd-3da1-7038-9367-8204e1be8db9"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e03.episode.ts","id":"01a183dd-3da1-74f6-b046-efecfb8afa24"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e04.episode.ts","id":"01a183dd-3da1-74ac-81c1-08f2020ba565"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e05.episode.ts","id":"01a183dd-3da2-742e-aa14-8c18ae41e8e5"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e06.episode.ts","id":"01a183dd-3da2-7db3-9f2a-248ace7b950b"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e07.episode.ts","id":"01a183dd-3da2-75c0-963f-a1e164d94bb2"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e08.episode.ts","id":"01a183dd-3da2-768b-ba98-0bd909124f8c"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e09.episode.ts","id":"01a183dd-3da2-7169-aa6c-249b30100157"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e10.episode.ts","id":"01a183dd-3da2-78ed-96a1-c89479c28c06"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e11.episode.ts","id":"01a183dd-3da2-71f0-95b2-01a35eaa8f1c"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e12.episode.ts","id":"01a183dd-3da2-7e36-bdb6-6c9e2dad5151"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/angel-beats-s01e13.episode.ts","id":"01a183dd-3da3-77aa-87c0-e90876691d17"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/assassination-classroom-s01e01.episode.ts","id":"01a183d6-93b4-7ad6-927c-7946e946dd7a"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/assassination-classroom-s01e02.episode.ts","id":"01a183d6-93b4-7d01-975d-759e0fcbe06d"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/assassination-classroom-s01e03.episode.ts","id":"01a183d6-93b4-71b1-aa4a-f95394d70c7d"}
@@ -9321,6 +9334,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/agatha-all-along-miniseries.season.ts","id":"01a06802-b8b7-700c-a9d0-92b7f96bf108"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/ahsoka-season-1.season.ts","id":"01a06802-b8b7-700d-b48f-147e9bff9546"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/ahsoka-specials.season.ts","id":"01a06802-b8b7-700e-8a19-a73bd4c5b494"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/angel-beats-season-1.season.ts","id":"01a183dd-3da3-75d5-8c43-7471c5812dd9"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/arcane-season-1.season.ts","id":"01a06802-b8b7-700f-bd4c-77e64faeb78d"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/arcane-season-2.season.ts","id":"01a06802-b8b7-7010-8f3e-4870890f4f87"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/arcane-specials-2.season.ts","id":"01a06802-b8b7-7012-8c69-4004967a73fb"}
@@ -10274,6 +10288,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/agents-of-s-h-i-e-l-d.show.ts","id":"01a06802-9331-7003-b4c8-5299632445ac"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/ahsoka.show.ts","id":"01a06802-9331-7004-bb3e-0cc318b540b4"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/andor.show.ts","id":"01a06802-9331-7005-b34b-e628e5eba5a9"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/angel-beats.show.ts","id":"01a183dd-3da3-766a-bd55-ef01e10ee8f9"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/arabian-nights.show.ts","id":"01a1749a-c86c-7448-9bc5-f674ebada072"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/arcane.show.ts","id":"01a06802-9331-7006-9514-a731c8f42770"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/assassination-classroom.show.ts","id":"01a183d6-93b7-7f76-9121-be5cc65c4593"}
