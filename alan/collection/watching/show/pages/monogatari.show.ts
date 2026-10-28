@@ -11,9 +11,15 @@ export const monogatari = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "46195", externalLink: "https://www.themoviedb.org/tv/46195" },
+    {
+      source: "tmdb",
+      externalId: "46195",
+      externalLink: "https://www.themoviedb.org/tv/46195",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Monogatari",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:52:41.143Z",
-  updatedAt: "2026-10-28T18:52:41.143Z",
+  updatedAt: "2026-10-28T19:45:04.022Z",
 } as const satisfies Show
