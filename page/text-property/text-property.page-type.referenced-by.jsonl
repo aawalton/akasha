@@ -517,6 +517,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-action.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/read/properties/external-tags.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-panel/properties/measured-by.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/ability/properties/ability-equations.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/properties/champion-constellation.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/base-role/properties/abbreviation.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/base-role/properties/default-main-hand.text-property.ts","typed":true,"deferred":false}
@@ -599,7 +600,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-research-line/properties/trait-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-tribute-patron/properties/base-card-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-tribute-patron/properties/upgrade-card-name.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/properties/ability-equations.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/properties/base-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/properties/skill-status.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/ability-icon.text-property.ts","typed":true,"deferred":false}

@@ -974,6 +974,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/player-answer/modules/player-answer-capture/player-answer-capture.module.ts","id":"01a0d578-6f2a-7c6e-973e-02a89d44f80e"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/temper-capture-shape.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
+{"propertySlug":"decision-kind","path":"temper/catalog/ability/properties/ability-equations.text-property.ts","id":"01a1403a-1be8-7e56-bc40-e20174d45df3"}
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts","id":"01a0e135-d98c-795f-9e2a-cf25be809fb6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts","id":"01a0debe-d7ef-75ff-9915-543ddba45c06"}
@@ -1047,7 +1048,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/pages/cephaliarch-s-flail/cephaliarch-s-flail.temper-skill.ts","id":"019e6f53-9fc4-7e6c-a107-763cf4dfad95"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/pages/soul-splitting-trap-40328/soul-splitting-trap-40328.temper-skill.ts","id":"019e6f53-a776-71b6-a9d9-edc6cf08dc05"}
-{"propertySlug":"decision-kind","path":"temper/catalog/skill/properties/ability-equations.text-property.ts","id":"01a1403a-1be8-7e56-bc40-e20174d45df3"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/treasure-upstream-verify/treasure-upstream-verify.module.ts","id":"01a06282-dfc3-7860-9a09-26dd6febe9a4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/upstream-leaf-reading/upstream-leaf-reading.module.ts","id":"01a06282-dfc3-722f-9afd-a38cf3034d7a"}

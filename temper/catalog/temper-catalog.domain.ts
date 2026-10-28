@@ -12,6 +12,7 @@ export const temperCatalog = {
     "domain/temper-pursuit",
     "domain/temper-world",
     "page-type/temper-catalog-thing",
+    "page-type/temper-ability",
     "page-type/temper-skill",
     "domain/temper-catalog-core",
     "domain/temper-catalog-side-file",
@@ -34,5 +35,5 @@ export const temperCatalog = {
     },
   ],
   createdAt: "2026-09-02T01:12:12.928Z",
-  updatedAt: "2026-09-27T04:07:32.000Z",
+  updatedAt: "2026-10-28T21:18:51.152Z",
 } as const satisfies Domain

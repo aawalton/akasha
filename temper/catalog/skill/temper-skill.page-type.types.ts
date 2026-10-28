@@ -1,7 +1,7 @@
 import type { Decisions } from "akasha/domain/properties/decisions.record-property.types.ts"
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
+import type { TemperAbility } from "akasha/temper/catalog/ability/temper-ability.page-type.types.ts"
 import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
-import type { AbilityEquations } from "akasha/temper/catalog/skill/properties/ability-equations.text-property.types.ts"
 import type { BaseName } from "akasha/temper/catalog/skill/properties/base-name.text-property.types.ts"
 import type { EsoSkillId } from "akasha/temper/catalog/skill/properties/eso-skill-id.number-property.types.ts"
 import type { IsMorph } from "akasha/temper/catalog/skill/properties/is-morph.boolean-property.types.ts"
@@ -13,10 +13,9 @@ import type { SkillStatus } from "akasha/temper/catalog/skill/properties/skill-s
 import type { SkillVariants } from "akasha/temper/catalog/skill/properties/skill-variants.record-property.types.ts"
 import type { SkillLine } from "akasha/temper/catalog/thing/properties/skill-line.relation-property.types.ts"
 import type { SkillType } from "akasha/temper/catalog/thing/properties/skill-type.relation-property.types.ts"
-import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
 
-export type TemperSkill = TemperCatalogThing & {
+export type TemperSkill = TemperAbility & {
   key: Key
   description: Description
   baseName: BaseName
@@ -30,7 +29,6 @@ export type TemperSkill = TemperCatalogThing & {
   status?: SkillStatus
   skillLineId: SkillLine
   hashPlace: HashPlace
-  equations?: AbilityEquations
   variants?: SkillVariants
   decisions?: Decisions
 }

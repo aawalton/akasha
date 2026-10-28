@@ -1,3 +1,4 @@
+{"propertySlug":"extends-type","path":"temper/catalog/ability/temper-ability.page-type.ts","id":"01a18461-4b11-77c9-b48d-c624be4dbafa"}
 {"propertySlug":"extends-type","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}
 {"propertySlug":"extends-type","path":"temper/catalog/effect/category/temper-effect-category.page-type.ts","id":"01a0df69-212e-7ce1-bdda-e135f0650bde"}
 {"propertySlug":"extends-type","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts","id":"01a05fc5-94ce-7166-8475-467d3eb17bf9"}
@@ -41,7 +42,6 @@
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-class/temper-class.page-type.ts","id":"01a05fca-cb89-7c15-a7d1-9bf0b42293c8"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-scribing-source/temper-scribing-source.page-type.ts","id":"01a05fca-cb8a-71bc-bb97-a0f1bb3ac4fb"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-scribing-thing/temper-scribing-thing.page-type.ts","id":"01a05fca-cb8c-73ea-beae-bd4ddb3a41f3"}
-{"propertySlug":"extends-type","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/type/temper-skill-type.page-type.ts","id":"01a05fca-cb8c-73c3-984c-28544089d7ee"}
 {"propertySlug":"extends-type","path":"temper/catalog/temper-item-type/temper-item-type.page-type.ts","id":"01a0e108-f721-7d6e-bcf7-05c2c0c279ad"}
 {"propertySlug":"extends-type","path":"temper/catalog/temper-specialized-item-type/temper-specialized-item-type.page-type.ts","id":"01a0e10b-e4c6-74e8-9d5b-3cb6c399bae5"}
@@ -58,6 +58,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.ts","id":"01a05fc4-7a95-78b9-afe6-0a16b2b185e3"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-zone/temper-zone.page-type.ts","id":"01a05fc4-7a95-7cb3-941e-d82e9f423411"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/zone/temper-world-zone.page-type.ts","id":"01a06167-3f9b-700d-bf56-54687a9f3c3a"}
+{"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/ability/temper-ability.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/effect/category/temper-effect-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.types.ts","typed":true,"deferred":false}
@@ -101,7 +102,6 @@
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/skill/temper-class/temper-class.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/skill/temper-scribing-source/temper-scribing-source.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/skill/temper-scribing-thing/temper-scribing-thing.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/skill/temper-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/skill/type/temper-skill-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-item-type/temper-item-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-specialized-item-type/temper-specialized-item-type.page-type.types.ts","typed":true,"deferred":false}
