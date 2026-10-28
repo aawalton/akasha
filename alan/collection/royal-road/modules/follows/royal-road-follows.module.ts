@@ -23,6 +23,10 @@ export const royalRoadFollows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sign-in Royal Road answers with a bot check refuses the run as a bot check.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every page of the follow list is read, as many as its paging names.",
     },
     {
@@ -51,5 +55,5 @@ export const royalRoadFollows = {
     },
   ],
   createdAt: "2026-09-28T19:38:50.516Z",
-  updatedAt: "2026-10-22T15:10:11.063Z",
+  updatedAt: "2026-10-28T12:05:48.827Z",
 } as const satisfies Module

@@ -1,8 +1,24 @@
 import { expect, test } from "bun:test"
 import {
+  BotChecked,
+  botChecking,
+  checkedText,
   passing,
   steadily,
 } from "akasha/alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts"
+
+const FOLLOWS = "https://www.royalroad.com/my/follows?page=1"
+
+const CLOUDFLARE_BODY =
+  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>' +
+  '<meta name="robots" content="noindex,nofollow"></head><body></body></html>'
+
+const ANUBIS_BODY =
+  '<!doctype html><html lang="en"><head><title>One moment — Royal Road is checking your ' +
+  'connection</title><script id="anubis_challenge" type="application/json">' +
+  '{"rules":{"algorithm":"fast","difficulty":4}}</script></head><body id="top"></body></html>'
+
+const FOLLOW_BODY = '<div id="result"><div class="fiction-list-item row"></div></div>'
 
 const WAITS = [1, 2, 3]
 
@@ -82,4 +98,34 @@ test("a connection still failing on the last sending throws", async () => {
   const { send } = answering(new Error("curl exited 7"))
   const { wait } = waited()
   await expect(steadily(send, wait, WAITS)).rejects.toThrow("curl exited 7")
+})
+
+test("a Cloudflare challenge is a bot check by its header", () => {
+  const headers = new Headers({ "cf-mitigated": "challenge" })
+  expect(botChecking(headers, CLOUDFLARE_BODY)).toBe(true)
+})
+
+test("a Cloudflare challenge page is a bot check by its body alone", () => {
+  expect(botChecking(new Headers(), CLOUDFLARE_BODY)).toBe(true)
+})
+
+test("an Anubis challenge answered 200 is a bot check", () => {
+  expect(botChecking(new Headers(), ANUBIS_BODY)).toBe(true)
+})
+
+test("a follow list is no bot check", () => {
+  expect(botChecking(new Headers(), FOLLOW_BODY)).toBe(false)
+})
+
+test("a bot check fails the read and names the page Royal Road answered with it", async () => {
+  const answer = new Response(ANUBIS_BODY, { status: 200 })
+  const read = checkedText(FOLLOWS, answer)
+  await expect(read).rejects.toBeInstanceOf(BotChecked)
+  await expect(checkedText(FOLLOWS, new Response(ANUBIS_BODY))).rejects.toThrow(
+    `Royal Road answered ${FOLLOWS} with a bot check`
+  )
+})
+
+test("a page that is no bot check is handed back whole", async () => {
+  expect(await checkedText(FOLLOWS, new Response(FOLLOW_BODY))).toBe(FOLLOW_BODY)
 })

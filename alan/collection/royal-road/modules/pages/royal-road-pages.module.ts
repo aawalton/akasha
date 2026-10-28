@@ -52,6 +52,18 @@ export const royalRoadPages = {
       statement: "A request Royal Road answers with any other refusal is not sent again.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A page Royal Road answers with a bot check fails the read and names that page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bot check is never handed to a parser as the page asked for.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No bot check is solved or got around.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "Royal Road challenges a request sent by the runtime's own fetch.",
     },
@@ -61,5 +73,5 @@ export const royalRoadPages = {
     },
   ],
   createdAt: "2026-09-03T04:20:34.578Z",
-  updatedAt: "2026-10-26T12:04:59.904Z",
+  updatedAt: "2026-10-28T12:05:48.827Z",
 } as const satisfies Module

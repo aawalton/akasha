@@ -1,6 +1,7 @@
 import {
   answerFrom,
   betweenRequests,
+  checkedText,
   fetchHtml,
   royalRoadUrl,
   USER_AGENT,
@@ -93,7 +94,7 @@ export async function signedIn(root: string): Promise<string> {
   const url = royalRoadUrl(SIGN_IN)
   const form = await answerFrom(url, { "user-agent": USER_AGENT })
   kept(jar, form)
-  const token = tokenIn(await form.text())
+  const token = tokenIn(await checkedText(url, form))
   if (token === null) {
     throw new SignInRefused(`${url} answered ${form.status} with no sign-in form to fill`)
   }
@@ -114,6 +115,7 @@ export async function signedIn(root: string): Promise<string> {
     })
   )
   kept(jar, answer)
+  await checkedText(url, answer)
   if (!jar.has(SIGNED_IN)) {
     throw new SignInRefused(
       `${url} answered ${answer.status} to ${email}'s sign-in and set no ${SIGNED_IN} cookie`

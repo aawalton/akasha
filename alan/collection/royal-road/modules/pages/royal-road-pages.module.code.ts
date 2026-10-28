@@ -313,8 +313,33 @@ function answerTo(url: string, cookie: string | undefined): Promise<Response> {
   })
 }
 
+const CLOUDFLARE_MITIGATED = "cf-mitigated"
+
+const CLOUDFLARE_CHALLENGE = "challenge"
+
+const CHALLENGE_MARKS: readonly string[] = [
+  'id="anubis_challenge"',
+  "<title>Just a moment...</title>",
+]
+
+export class BotChecked extends Error {}
+
+export function botChecking(headers: Headers, body: string): boolean {
+  if (headers.get(CLOUDFLARE_MITIGATED) === CLOUDFLARE_CHALLENGE) return true
+  return CHALLENGE_MARKS.some((mark) => body.includes(mark))
+}
+
+export async function checkedText(url: string, response: Response): Promise<string> {
+  const body = await response.text()
+  if (botChecking(response.headers, body)) {
+    throw new BotChecked(`Royal Road answered ${url} with a bot check`)
+  }
+  return body
+}
+
 export async function fetchHtml(url: string, cookie?: string): Promise<string> {
   const response = await answerTo(url, cookie)
+  const body = await checkedText(url, response)
   if (!response.ok) throw new Error(`${response.status} ${response.statusText} for ${url}`)
-  return await response.text()
+  return body
 }
