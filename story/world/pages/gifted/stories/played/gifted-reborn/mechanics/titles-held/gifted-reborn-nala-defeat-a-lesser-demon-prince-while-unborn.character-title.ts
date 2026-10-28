@@ -6,9 +6,9 @@ export const giftedRebornNalaDefeatALesserDemonPrinceWhileUnborn = {
   slug: "gifted-reborn-nala-defeat-a-lesser-demon-prince-while-unborn",
   title: "Defeat a Lesser Demon Prince while unborn",
   world: "world/gifted",
-  unrevealed: true,
+  unrevealed: false,
   character: "character-player/gifted-reborn-nala",
   worldTitle: "world-title/gifted-defeat-a-lesser-demon-prince-while-unborn",
   createdAt: "2026-10-27T23:53:52.604Z",
-  updatedAt: "2026-10-27T23:53:52.604Z",
+  updatedAt: "2026-10-28T00:12:44.529Z",
 } as const satisfies CharacterTitle
