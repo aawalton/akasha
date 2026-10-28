@@ -11,6 +11,7 @@ export const irisReviewerProbeTwoFlex3 = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "20845218-2d5c-4a78-9593-17da7d0f4956",
   createdAt: "2026-10-28T00:03:12.036Z",
-  updatedAt: "2026-10-28T00:03:12.036Z",
+  updatedAt: "2026-10-28T00:03:16.976Z",
 } as const satisfies Seat
