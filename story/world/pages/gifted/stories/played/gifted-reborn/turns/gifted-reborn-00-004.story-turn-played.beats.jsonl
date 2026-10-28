@@ -4,7 +4,7 @@
 {"beat":4,"event":"The wonder wears thin; in the warm dark there is nothing to do but wait.","prose":"After a while the words stop feeling new. The dark is warm and the heartbeat keeps time, and you can't see, or move much, or go anywhere. You are bored.","changes":[]}
 {"beat":5,"event":"To pass the time she counts in her head: one, two, three, on and on.","prose":"So you count. One, two, three, four. Past fifty, past a hundred, on into the hundreds, one number after the next.","changes":[]}
 {"beat":6,"event":"Window: New Path - Path of Basic Numeracy.","changes":[{"page":"character-skill/gifted-reborn-nala-path-of-basic-numeracy","note":"New Path shown: Path of Basic Numeracy","key":"unrevealed","from":true,"to":false}]}
-{"beat":7,"event":"She counts up by twos, then by threes, then back down again."}
+{"beat":7,"event":"She counts up by twos, then by threes, then back down again.","changes":[]}
 {"beat":8,"event":"Window: Path of Basic Numeracy - Tier 1. Mental +1.","at":"2026-10-27T21:15:00.000Z"}
 {"beat":9,"event":"She moves on to multiples, up and down: sevens, then nines, then twelves."}
 {"beat":10,"event":"Muffled through the walls, many women's voices start a chant in words she doesn't know.","at":"2026-10-27T22:00:00.000Z"}
