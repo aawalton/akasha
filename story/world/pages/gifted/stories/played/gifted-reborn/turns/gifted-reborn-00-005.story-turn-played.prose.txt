@@ -11,3 +11,8 @@ The chanting goes on over you. You turn back to your Status, find Path of Soulst
 name: Path of Soulstealing (mutated)
 note: Steps: only from shreds of demon-ridden souls dying nearby
 :::
+
+:::status-assessment
+name: Path of Soulstealing
+note: Tier 1: 10 steps; Reward: Aether Core rises one grade
+:::
