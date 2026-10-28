@@ -11,9 +11,15 @@ export const monster = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "30981", externalLink: "https://www.themoviedb.org/tv/30981" },
+    {
+      source: "tmdb",
+      externalId: "30981",
+      externalLink: "https://www.themoviedb.org/tv/30981",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Monster",
+  streamingOn: ["Netflix", "Netflix Standard with Ads"],
   createdAt: "2026-10-28T18:48:54.116Z",
-  updatedAt: "2026-10-28T18:48:54.116Z",
+  updatedAt: "2026-10-28T19:45:05.792Z",
 } as const satisfies Show
