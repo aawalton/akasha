@@ -15,9 +15,11 @@ export const highSpeedFreeStartingDays = {
       source: "tmdb",
       externalId: "357416",
       externalLink: "https://www.themoviedb.org/movie/357416",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "High☆Speed!: Free! Starting Days",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:48:35.523Z",
-  updatedAt: "2026-10-28T18:48:35.523Z",
+  updatedAt: "2026-10-28T19:47:24.418Z",
 } as const satisfies Movie
