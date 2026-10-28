@@ -1926,6 +1926,9 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/stat-groups/modules/stat-grouping/stat-grouping.module.ts","id":"01a18303-9351-7171-9f2f-499d97d9c63b"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-practice.world-check.ts","id":"01a17ff1-398f-73e3-bd7e-a87a31f93187"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-steps-earned.world-check.ts","id":"01a182d9-3f4f-7e87-b992-aa3bdeec35a6"}
+{"propertySlug":"decision-kind","path":"story/world/pages/pending-roll-trial-world/stories/played/pending-roll-trial/mechanics/checks/pending-roll-trial-action-check.world-check.ts","id":"01a183cf-b828-7d05-a0ac-18bed872ce22"}
+{"propertySlug":"decision-kind","path":"story/world/pages/pending-roll-trial-world/stories/played/pending-roll-trial/mechanics/checks/pending-roll-trial-training.world-check.ts","id":"01a183cf-b828-7aba-be99-92537cf05dc8"}
+{"propertySlug":"decision-kind","path":"story/world/pages/pending-roll-trial-world/stories/played/pending-roll-trial/mechanics/checks/pending-roll-trial-upkeep.world-check.ts","id":"01a183cf-b828-780c-bc8b-3eccca91d56e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.ts","id":"01a17ede-ad87-7ec9-8f62-82b148152d82"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.ts","id":"01a17eeb-58ce-7db2-b591-31fafaef9d7c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-upkeep.world-check.ts","id":"01a17eeb-58cf-776b-ba64-5cc96eee1074"}
