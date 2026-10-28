@@ -121,6 +121,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/cost/cost.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/device-secret-admission/device-secret-admission.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/habit-stoplights/habit-stoplights.route.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/held-ability/held-ability.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/no-such-route/no-such-route.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/pages-ready/pages-ready.route.ts","typed":true,"deferred":false}

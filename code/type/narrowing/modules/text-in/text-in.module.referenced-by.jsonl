@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/.server/chapter-write-answering/chapter-write-answering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/.server/held-ability-answering/held-ability-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/.server/page-icon/page-icon.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/modules/seat-message-asking/seat-message-asking.module.code.ts","typed":false,"deferred":false}

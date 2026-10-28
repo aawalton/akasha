@@ -190,8 +190,10 @@ type Gate =
   | { readonly ok: true; readonly seat: string; readonly game: string }
   | { readonly ok: false; readonly answered: Response }
 
+export type Gating = Pick<ActionBarEffects, "signedIn" | "enrol" | "seatOf">
+
 export async function gateFor(
-  effects: ActionBarEffects,
+  effects: Gating,
   request: Request,
   gameExternalId: string,
   answer: Answer

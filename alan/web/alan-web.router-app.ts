@@ -96,6 +96,7 @@ export const alanWeb = {
     "stylesheet/alan-web-look",
     "module/alan-answer-ask",
     "module/action-bar-answering",
+    "module/held-ability-answering",
     "module/story-chat-answering",
     "module/chapter-write-answering",
     "module/seat-message-asking",
@@ -103,5 +104,5 @@ export const alanWeb = {
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-01T06:38:44.740Z",
-  updatedAt: "2026-10-27T19:21:46.037Z",
+  updatedAt: "2026-10-28T00:56:02.836Z",
 } as const satisfies RouterApp
