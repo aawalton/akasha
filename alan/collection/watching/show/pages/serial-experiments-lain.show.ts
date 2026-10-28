@@ -11,9 +11,14 @@ export const serialExperimentsLain = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "1087", externalLink: "https://www.themoviedb.org/tv/1087" },
+    {
+      source: "tmdb",
+      externalId: "1087",
+      externalLink: "https://www.themoviedb.org/tv/1087",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Serial Experiments Lain",
   createdAt: "2026-10-28T18:55:46.163Z",
-  updatedAt: "2026-10-28T18:55:46.163Z",
+  updatedAt: "2026-10-28T19:45:52.574Z",
 } as const satisfies Show
