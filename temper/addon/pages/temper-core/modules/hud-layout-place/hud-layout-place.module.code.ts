@@ -25,7 +25,7 @@ export interface HudPanelBox {
   readonly shrinks: boolean
 }
 
-export interface HudPanelPlace {
+interface HudPanelPlace {
   readonly key: string
   readonly point: HudPoint
   readonly offsetX: number
@@ -33,7 +33,7 @@ export interface HudPanelPlace {
   readonly room: number
 }
 
-export interface HudScreen {
+interface HudScreen {
   readonly width: number
   readonly height: number
   readonly top: number
