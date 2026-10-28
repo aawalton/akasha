@@ -1,0 +1,1 @@
+export type StreamingFree = boolean

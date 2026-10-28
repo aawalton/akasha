@@ -49,6 +49,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/watching/season/season.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/watching/show-collection/show-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/watching/show/show.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/watching/streaming-service/streaming-service.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/inbox/email-rule/email-rule.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/monarch/category-rule/category-rule.page-type.types.ts","typed":true,"deferred":false}
@@ -186,6 +187,7 @@
 {"propertySlug":"page-property","path":"alan/collection/watching/season/season.page-type.ts","id":"01a06599-ee09-7003-a52a-e6a01a72f7da"}
 {"propertySlug":"page-property","path":"alan/collection/watching/show-collection/show-collection.page-type.ts","id":"01a06807-be66-7006-8d8a-389b26e79b07"}
 {"propertySlug":"page-property","path":"alan/collection/watching/show/show.page-type.ts","id":"01a06599-ee09-7002-9418-3960f44ce6b4"}
+{"propertySlug":"page-property","path":"alan/collection/watching/streaming-service/streaming-service.page-type.ts","id":"01a18432-af59-73c1-8d06-a86e15104dd5"}
 {"propertySlug":"page-property","path":"alan/harness/inbox/email-rule/email-rule.page-type.ts","id":"01a06828-59d3-7486-8463-b59a1768c717"}
 {"propertySlug":"page-property","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.ts","id":"019f5141-c410-7cd1-b491-d017f10e568d"}
 {"propertySlug":"page-property","path":"alan/harness/monarch/category-rule/category-rule.page-type.ts","id":"01a0680c-3c00-7007-a659-3e8d1c4f3108"}

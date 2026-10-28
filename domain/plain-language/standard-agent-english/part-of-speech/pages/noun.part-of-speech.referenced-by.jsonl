@@ -61,6 +61,7 @@
 {"propertySlug":"part-of-speech","path":"alan/collection/watching/movie/movie.page-type.ts","id":"01a06599-ee09-7005-82e2-c1f83dc51c09"}
 {"propertySlug":"part-of-speech","path":"alan/collection/watching/season/season.page-type.ts","id":"01a06599-ee09-7003-a52a-e6a01a72f7da"}
 {"propertySlug":"part-of-speech","path":"alan/collection/watching/show/show.page-type.ts","id":"01a06599-ee09-7002-9418-3960f44ce6b4"}
+{"propertySlug":"part-of-speech","path":"alan/collection/watching/streaming-service/streaming-service.page-type.ts","id":"01a18432-af59-73c1-8d06-a86e15104dd5"}
 {"propertySlug":"part-of-speech","path":"alan/eso/eso.domain.ts","id":"01a0675b-16ea-77df-9153-bac46e026794"}
 {"propertySlug":"part-of-speech","path":"alan/harness/capacity/capacity.domain.ts","id":"01a06230-614e-7825-b4af-dd84fd42f0ce"}
 {"propertySlug":"part-of-speech","path":"alan/harness/code-editor/code-editor.desktop-app.ts","id":"01a0658a-e55d-7059-8f58-e3521a432370"}

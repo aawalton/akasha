@@ -20,6 +20,7 @@ export const watching = {
     "text-property/imdb-id",
     "text-property/poster-path",
     "text-property/streaming-on",
+    "page-type/streaming-service",
   ],
   decisions: [
     {
@@ -44,5 +45,5 @@ export const watching = {
     },
   ],
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-10-25T19:20:15.125Z",
+  updatedAt: "2026-10-28T20:27:56.630Z",
 } as const satisfies Domain

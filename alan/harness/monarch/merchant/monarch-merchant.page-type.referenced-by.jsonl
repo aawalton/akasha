@@ -49,3 +49,4 @@
 {"propertySlug":"import","fileName":"monarch-merchant.page-type.types.ts","path":"alan/harness/monarch/merchant/pages/walmart.monarch-merchant.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"monarch-merchant.page-type.types.ts","path":"alan/harness/monarch/merchant/pages/youtube-premium.monarch-merchant.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}
+{"propertySlug":"target-page-type","path":"alan/collection/watching/streaming-service/properties/streaming-merchant.relation-property.ts","id":"01a18432-af59-7388-a6eb-4c8e5da6e2bd"}
