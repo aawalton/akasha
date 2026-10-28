@@ -11,6 +11,7 @@ export const irisWriterOutcomeCardsCheck = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "7b956339-3f57-4a14-8b2a-e4cbbc8681b7",
   createdAt: "2026-10-28T01:26:49.520Z",
-  updatedAt: "2026-10-28T01:26:49.520Z",
+  updatedAt: "2026-10-28T01:26:52.329Z",
 } as const satisfies Seat
