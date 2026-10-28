@@ -21,7 +21,11 @@ export const coreConfig = {
       statement:
         "A panel names the input modes it is placed in, keyboard or gamepad, in `inputModes`.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel naming no input modes, as a config older than them has, is left out.",
+    },
   ],
   createdAt: "2026-10-27T19:15:03.182Z",
-  updatedAt: "2026-10-27T20:20:59.888Z",
+  updatedAt: "2026-10-28T00:04:55.657Z",
 } as const satisfies Module

@@ -33,8 +33,15 @@ function isCoreConfig(value: unknown): value is CoreConfig {
   return typeof version === "number" && version > 0
 }
 
+function statesInputModes(panel: HudLayoutPanel): boolean {
+  const modes: unknown = panel.inputModes
+  return typeof modes === "object" && modes !== null
+}
+
 export function hudLayoutIn(config: unknown): HudLayout | undefined {
-  return isCoreConfig(config) ? config.hudLayout : undefined
+  if (!isCoreConfig(config) || config.hudLayout === undefined) return undefined
+  const layout = config.hudLayout
+  return { docks: layout.docks, panels: layout.panels.filter(statesInputModes) }
 }
 
 export function hudLayout(): HudLayout | undefined {

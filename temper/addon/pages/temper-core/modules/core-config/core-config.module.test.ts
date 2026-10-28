@@ -45,6 +45,11 @@ describe("core-config", () => {
     expect(panel?.measuredBy).toBe("ZO_HUDTrackersScrollContainerScrollChild")
   })
 
+  test("a panel a config written before input modes states is left out", () => {
+    const older = { version: 1, hudLayout: { docks: {}, panels: [{ key: "ZO_ActionBar1" }] } }
+    expect(hudLayoutIn(older)?.panels).toEqual([])
+  })
+
   test("a config stating no HUD layout answers none", () => {
     expect(hudLayoutIn({ version: 1 })).toBeUndefined()
   })
