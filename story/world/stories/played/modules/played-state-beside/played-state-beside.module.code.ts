@@ -203,122 +203,142 @@ async function readFiled(
   turn: number,
   overlay: BeatOverlay = NO_OVERLAY
 ): Promise<Filed> {
-  const { purse, ledgers } = await readPurses(character, turn, overlay)
-  const pointed = await pointsOf(character, overlay)
-  const [resources, scores, holdings, quests, bonds, attunements, traits, had] = await Promise.all([
-    askedLoudly({
-      "page-type": metricCharacterResource.slug,
-      where: { character: { is: character } },
-      keys: [
-        TYPE_KEY,
-        CHARACTER_KEY,
-        VALUE_KEY,
-        MAX_VALUE_KEY,
-        HISTORY_KEY,
-        SLUG_KEY,
-        TITLE_KEY,
-        DISPLAY_ORDER_KEY,
-        REVEALED_AS_KEY,
-        UNREVEALED_KEY,
-      ],
-      files: [HISTORY_KEY],
-    }),
-    askedLoudly({
-      "page-type": metricCharacterAttribute.slug,
-      where: { character: { is: character } },
-      keys: [
-        TYPE_KEY,
-        CHARACTER_KEY,
-        VALUE_KEY,
-        SLUG_KEY,
-        TITLE_KEY,
-        DISPLAY_ORDER_KEY,
-        STAT_GROUP_KEY,
-        UNREVEALED_KEY,
-      ],
-    }),
-    askedLoudly({
-      "page-type": worldSkill.slug,
-      where: { character: { is: character } },
-      keys: [
-        TYPE_KEY,
-        CHARACTER_KEY,
-        SLUG_KEY,
-        TITLE_KEY,
-        DESCRIPTION_KEY,
-        SKILL_KEY,
-        EXPERIENCE_KEY,
-        ATTRIBUTE_KEY,
-        ABILITY_KIND_KEY,
-        DORMANT_KEY,
-        UNREVEALED_KEY,
-      ],
-    }),
-    askedLoudly({
-      "page-type": worldQuest.slug,
-      where: { character: { is: character } },
-      keys: [
-        TYPE_KEY,
-        CHARACTER_KEY,
-        SLUG_KEY,
-        TITLE_KEY,
-        OBJECTIVE_KEY,
-        STATUS_KEY,
-        UNREVEALED_KEY,
-      ],
-    }),
-    askedLoudly({
-      "page-type": worldRelationship.slug,
-      where: { characters: { has: character } },
-      keys: [TYPE_KEY, SLUG_KEY, CHARACTERS_KEY, POINTS_KEY, UNREVEALED_KEY],
-    }),
-    askedLoudly({
-      "page-type": worldAttunement.slug,
-      where: { character: { is: character } },
-      keys: [TYPE_KEY, SLUG_KEY, CHARACTER_KEY, ELEMENT_KEY, RANK_KEY, COUNTER_KEY, UNREVEALED_KEY],
-    }),
-    askedLoudly({
-      "page-type": characterTrait.slug,
-      where: { character: { is: character } },
-      keys: [TYPE_KEY, CHARACTER_KEY, SLUG_KEY, TITLE_KEY, DESCRIPTION_KEY, UNREVEALED_KEY],
-    }),
-    itemsOf(character, overlay),
+  const [{ purse, ledgers }, pointed, asked, heldAsked] = await Promise.all([
+    readPurses(character, turn, overlay),
+    pointsOf(character, overlay),
+    Promise.all([
+      askedLoudly({
+        "page-type": metricCharacterResource.slug,
+        where: { character: { is: character } },
+        keys: [
+          TYPE_KEY,
+          CHARACTER_KEY,
+          VALUE_KEY,
+          MAX_VALUE_KEY,
+          HISTORY_KEY,
+          SLUG_KEY,
+          TITLE_KEY,
+          DISPLAY_ORDER_KEY,
+          REVEALED_AS_KEY,
+          UNREVEALED_KEY,
+        ],
+        files: [HISTORY_KEY],
+      }),
+      askedLoudly({
+        "page-type": metricCharacterAttribute.slug,
+        where: { character: { is: character } },
+        keys: [
+          TYPE_KEY,
+          CHARACTER_KEY,
+          VALUE_KEY,
+          SLUG_KEY,
+          TITLE_KEY,
+          DISPLAY_ORDER_KEY,
+          STAT_GROUP_KEY,
+          UNREVEALED_KEY,
+        ],
+      }),
+      askedLoudly({
+        "page-type": worldSkill.slug,
+        where: { character: { is: character } },
+        keys: [
+          TYPE_KEY,
+          CHARACTER_KEY,
+          SLUG_KEY,
+          TITLE_KEY,
+          DESCRIPTION_KEY,
+          SKILL_KEY,
+          EXPERIENCE_KEY,
+          ATTRIBUTE_KEY,
+          ABILITY_KIND_KEY,
+          DORMANT_KEY,
+          UNREVEALED_KEY,
+        ],
+      }),
+      askedLoudly({
+        "page-type": worldQuest.slug,
+        where: { character: { is: character } },
+        keys: [
+          TYPE_KEY,
+          CHARACTER_KEY,
+          SLUG_KEY,
+          TITLE_KEY,
+          OBJECTIVE_KEY,
+          STATUS_KEY,
+          UNREVEALED_KEY,
+        ],
+      }),
+      askedLoudly({
+        "page-type": worldRelationship.slug,
+        where: { characters: { has: character } },
+        keys: [TYPE_KEY, SLUG_KEY, CHARACTERS_KEY, POINTS_KEY, UNREVEALED_KEY],
+      }),
+      askedLoudly({
+        "page-type": worldAttunement.slug,
+        where: { character: { is: character } },
+        keys: [
+          TYPE_KEY,
+          SLUG_KEY,
+          CHARACTER_KEY,
+          ELEMENT_KEY,
+          RANK_KEY,
+          COUNTER_KEY,
+          UNREVEALED_KEY,
+        ],
+      }),
+      askedLoudly({
+        "page-type": characterTrait.slug,
+        where: { character: { is: character } },
+        keys: [TYPE_KEY, CHARACTER_KEY, SLUG_KEY, TITLE_KEY, DESCRIPTION_KEY, UNREVEALED_KEY],
+      }),
+      itemsOf(character, overlay),
+    ]),
+    Promise.all(
+      HELD_KINDS.map(async ([type, key]) =>
+        overlaidRows(rowsOf(await askedHeld(type, key, character)), type, overlay)
+      )
+    ),
   ])
-  const heldAsked = await Promise.all(
-    HELD_KINDS.map(async ([type, key]) =>
-      overlaidRows(rowsOf(await askedHeld(type, key, character)), type, overlay)
-    )
-  )
+  const [resources, scores, holdings, quests, bonds, attunements, traits, had] = asked
   const [speciesRows = [], classRows = [], conditionRows = [], legacyRows = [], rankRows = []] =
     heldAsked
   const skillRows = overlaidRows(rowsOf(holdings), worldSkill.slug, overlay)
   const bondRows = overlaidRows(rowsOf(bonds), worldRelationship.slug, overlay)
   const attunementRows = overlaidRows(rowsOf(attunements), worldAttunement.slug, overlay)
   const traitRows = overlaidRows(rowsOf(traits), characterTrait.slug, overlay)
-  const kinds = await abilityKindsOf(skillRows)
-  const { titles, descriptions } = await titlesOf(
-    namedIn(
-      [
-        ...skillRows,
-        ...bondRows,
-        ...attunementRows,
-        ...traitRows,
-        ...speciesRows,
-        ...classRows,
-        ...conditionRows,
-        ...legacyRows,
-        ...rankRows,
-      ],
-      [
-        SKILL_KEY,
-        RANK_KEY,
-        CHARACTERS_KEY,
-        ELEMENT_KEY,
-        ATTRIBUTE_KEY,
-        ...HELD_KINDS.map(([, k]) => k),
-      ]
-    )
+  const attributeRows = overlaidRows(rowsOf(scores), metricCharacterAttribute.slug, overlay)
+  const named = namedIn(
+    [
+      ...skillRows,
+      ...bondRows,
+      ...attunementRows,
+      ...traitRows,
+      ...speciesRows,
+      ...classRows,
+      ...conditionRows,
+      ...legacyRows,
+      ...rankRows,
+    ],
+    [
+      SKILL_KEY,
+      RANK_KEY,
+      CHARACTERS_KEY,
+      ELEMENT_KEY,
+      ATTRIBUTE_KEY,
+      ...HELD_KINDS.map(([, k]) => k),
+    ]
   )
+  const [kinds, { titles, descriptions }, groupRows] = await Promise.all([
+    abilityKindsOf(skillRows),
+    titlesOf(named),
+    slugsAsked(worldStatGroup.slug, statGroupSlugsIn(attributeRows), [
+      SLUG_KEY,
+      TITLE_KEY,
+      PLURAL_TITLE_KEY,
+      STAT_SLOTS_KEY,
+      DISPLAY_ORDER_KEY,
+    ]),
+  ])
   const namesOf = (rows: readonly QueryRow[], key: string): string | undefined => {
     const names = heldIn(rows, key, titles).map((one) => one.name)
     return names.length === 0 ? undefined : names.join(LISTED)
@@ -329,15 +349,7 @@ async function readFiled(
   const status = namesOf(conditionRows, CONDITION_KEY)
   const resourceRows = overlaidRows(rowsOf(resources), metricCharacterResource.slug, overlay)
   const pools = poolsIn(resourceRows, turn)
-  const attributeRows = overlaidRows(rowsOf(scores), metricCharacterAttribute.slug, overlay)
   const scored = scoresIn(attributeRows)
-  const groupRows = await slugsAsked(worldStatGroup.slug, statGroupSlugsIn(attributeRows), [
-    SLUG_KEY,
-    TITLE_KEY,
-    PLURAL_TITLE_KEY,
-    STAT_SLOTS_KEY,
-    DISPLAY_ORDER_KEY,
-  ])
   const attributeGroups = statGroupsOf(
     attributeRows,
     groupRows.map((row) => row.values),

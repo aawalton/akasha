@@ -69,6 +69,14 @@ export const playedStateBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every read needing only the character is asked at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every read needing those answers is asked at once after them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A read is asked again as the story's last turn changes, or shows another beat.",
     },
     {
@@ -86,5 +94,5 @@ export const playedStateBeside = {
     },
   ],
   createdAt: "2026-09-26T15:18:51.476Z",
-  updatedAt: "2026-10-28T14:56:52.048Z",
+  updatedAt: "2026-10-28T22:13:33.357Z",
 } as const satisfies Module
