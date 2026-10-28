@@ -185,7 +185,43 @@ export const giftedMyriadPaths = {
       fact: "A mutated Path takes no steps from an Achievement.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Path is no Skill to use; dwelling on one in a Status shows what earns its steps and its next Tier.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Soulstealing is mutated: only soul shreds of a demon-ridden creature dying nearby give it steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Soulstealing's first Tier lifts its holder's Aether Core a grade, its second their Aether Channels.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Soulstealing's Tiers fall at 10, 50, 200, 500 and 1000 steps, as an Advanced Path's do.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A small demon-ridden creature dying near her gives Soulstealing one step.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Completionist gains one step for each Path its holder completes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Completionist's Tiers fall at 1, 3, 6, 10 and 15 steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Completionist's first Tier gives 2 Unallocated Stats, and its second a Skill slot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Completionist's third Tier gives an Affinity slot, and its fourth an Advanced Attribute slot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T00:44:36.893Z",
+  updatedAt: "2026-10-28T00:51:25.892Z",
 } as const satisfies Lore

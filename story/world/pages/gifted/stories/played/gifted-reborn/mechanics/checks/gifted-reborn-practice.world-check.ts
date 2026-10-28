@@ -7,7 +7,7 @@ export const giftedRebornPractice = {
   title: "Practice",
   world: "world/gifted",
   definition: "what one session of practice earns one of Nala's Basic Paths",
-  description: "How far a stretch of practice carries one of Nala's Basic Paths.",
+  description: "Practising what a Path rewards, counted in steps.",
   settling: {},
   decisions: [
     {
@@ -54,5 +54,5 @@ export const giftedRebornPractice = {
     },
   ],
   createdAt: "2026-10-28T00:37:57.775Z",
-  updatedAt: "2026-10-28T00:37:57.775Z",
+  updatedAt: "2026-10-28T00:51:25.892Z",
 } as const satisfies WorldCheck
