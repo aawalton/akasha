@@ -18,8 +18,7 @@ export const charactersTaskHudEnrichment = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A zone's held leads come first by name, then its antiquities whose lead is easy to get.",
+      statement: "A zone's antiquities are in the order of their names, held or not.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -28,5 +27,5 @@ export const charactersTaskHudEnrichment = {
     },
   ],
   createdAt: "2026-09-02T16:23:41.572Z",
-  updatedAt: "2026-10-20T18:28:43.814Z",
+  updatedAt: "2026-10-28T17:26:48.715Z",
 } as const satisfies Module

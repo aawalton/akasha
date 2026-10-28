@@ -153,10 +153,7 @@ export interface AntiquityLeadEnrichment {
   readonly ungrouped: readonly OutstandingAntiquity[]
 }
 
-function heldFirstThenByName(this: void, a: OutstandingAntiquity, b: OutstandingAntiquity): number {
-  const aHeld = a.source === "held" ? 0 : 1
-  const bHeld = b.source === "held" ? 0 : 1
-  if (aHeld !== bHeld) return aHeld - bHeld
+function byName(this: void, a: OutstandingAntiquity, b: OutstandingAntiquity): number {
   return a.name < b.name ? -1 : a.name > b.name ? 1 : 0
 }
 
@@ -166,7 +163,7 @@ function buildAntiquityLeadEnrichment(
   baseline: readonly OutstandingAntiquity[],
   resolveDigZone: (this: void, antiquityId: number) => string | undefined
 ): AntiquityLeadEnrichment {
-  const sorted = [...current].sort(heldFirstThenByName)
+  const sorted = [...current].sort(byName)
 
   const zoneOrder: string[] = []
   const leadsByZone: Record<string, OutstandingAntiquity[]> = {}
