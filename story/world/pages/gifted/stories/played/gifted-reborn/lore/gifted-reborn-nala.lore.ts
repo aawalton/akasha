@@ -146,10 +146,6 @@ export const giftedRebornNala = {
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
-      fact: "Her Status reads: Affinity: Shadow (Strong); Paths: Soulstealing, Completionist.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
-    },
-    {
       fact: "The Status words stay in her mind after reading, and its unspent stats are hers to place.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
@@ -181,7 +177,11 @@ export const giftedRebornNala = {
       fact: "For consuming a soul, her window showed the reward: Path of Soulstealing, 0 steps.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Her Status reads: Affinity: Shadow (Strong); Paths: Exceptionalism (Tier 1), Soulstealing.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T15:44:17.840Z",
+  updatedAt: "2026-10-28T15:44:19.639Z",
 } as const satisfies Lore
