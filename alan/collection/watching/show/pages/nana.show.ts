@@ -11,9 +11,15 @@ export const nana = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "56568", externalLink: "https://www.themoviedb.org/tv/56568" },
+    {
+      source: "tmdb",
+      externalId: "56568",
+      externalLink: "https://www.themoviedb.org/tv/56568",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "NANA",
+  streamingOn: ["HiDive", "Hidive Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:46:03.381Z",
-  updatedAt: "2026-10-28T18:46:03.381Z",
+  updatedAt: "2026-10-28T19:45:15.731Z",
 } as const satisfies Show
