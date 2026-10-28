@@ -125,6 +125,7 @@ export const alan = {
   meatServingsPerWeek: 7,
   firearmAccess: false,
   bloodPressureCategory: "normal",
+  colorectalScreening: "none",
   physicalRiskActivities: [
     { activity: "hiking", note: "occasional; always on well-marked trails" },
   ],
@@ -204,5 +205,5 @@ export const alan = {
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T18:16:27.870Z",
+  updatedAt: "2026-10-28T19:16:24.480Z",
 } as const satisfies Person
