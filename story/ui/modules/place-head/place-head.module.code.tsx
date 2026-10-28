@@ -11,7 +11,7 @@ const HEAD = "shrink-0 border-surface-2 border-b"
 
 const TITLE_ROW = "relative flex h-12 items-center justify-center px-12"
 
-const TITLE = "truncate font-semibold text-primary text-sm"
+const TITLE = "truncate font-semibold text-lg text-primary"
 
 const CLOSE = "absolute right-3 rounded-full"
 
