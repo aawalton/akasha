@@ -7,15 +7,11 @@ export const awenStoryClone = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [
-    {
-      statement: "One command removes a clone together with every seat that clone started.",
-    },
-  ],
+  intentStack: [],
   constraints: [
     "Only a story in the test world can be cloned or removed by these commands.",
     "A clone is played only by agents testing the engine, never offered to Alan.",
   ],
   createdAt: "2026-10-27T21:04:25.583Z",
-  updatedAt: "2026-10-28T01:26:07.478Z",
+  updatedAt: "2026-10-28T01:26:08.687Z",
 } as const satisfies Initiative
