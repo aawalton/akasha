@@ -3905,6 +3905,7 @@
 {"propertySlug":"decision-kind","path":"person/pages/ki/show/ki-show.page-type.ts","id":"01a06825-d0ec-71a0-a7ee-80d30e5385ef"}
 {"propertySlug":"decision-kind","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"decision-kind","path":"person/properties/bodyweight.number-property.ts","id":"01a06860-a0ef-76b6-bebf-a5ed8fc42f7b"}
+{"propertySlug":"decision-kind","path":"person/properties/family-history.record-property.ts","id":"01a183ad-9231-7ec2-88b1-59b27c5bacdf"}
 {"propertySlug":"decision-kind","path":"person/properties/notice-seat.text-property.ts","id":"01a16fdf-e6d0-7add-a5d1-ecaf6605ed32"}
 {"propertySlug":"decision-kind","path":"person/properties/person-contributor.relation-property.ts","id":"01a0bb36-56fc-7f8a-9518-9365e9db5dac"}
 {"propertySlug":"decision-kind","path":"person/properties/scheme.select-property.ts","id":"01a16fce-01a9-77c2-be47-524e47ddf6b2"}
