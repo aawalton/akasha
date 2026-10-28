@@ -2,6 +2,7 @@ import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-
 import { akashaSeatIdForName } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { CEILING } from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
 import { writingHere } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -67,6 +68,16 @@ export function pageBytesFor(naming: Naming): number {
 
 export const overHttp: Sending = (asked) => writingHere(asked)
 
+type Landed = (slug: string, id: string) => string | null
+
+const landedHere: Landed = (slug, id) => {
+  try {
+    return listedAt(akashaRoot(), MESSAGE, slug).find((one) => one.id === id)?.path ?? null
+  } catch {
+    return null
+  }
+}
+
 export async function writeMessage(
   stated: {
     readonly to: string
@@ -75,7 +86,8 @@ export async function writeMessage(
     readonly body: string
     readonly startedOnDemand?: boolean
   },
-  sending: Sending = overHttp
+  sending: Sending = overHttp,
+  landed: Landed = landedHere
 ): Promise<Written> {
   const refused = recipientRefused(stated.to)
   if (refused !== null) return { kind: "refused", detail: refused }
@@ -111,7 +123,11 @@ export async function writeMessage(
     message: `message to ${stated.to} from ${stated.from}`,
     pages: [naming],
   })
-  if ("refused" in wrote) return { kind: "refused", detail: wrote.refused }
+  if ("refused" in wrote) {
+    const earlier = landed(slug, id)
+    if (earlier !== null) return { kind: "written", id: slug, relPath: earlier }
+    return { kind: "refused", detail: wrote.refused }
+  }
   const page = `/${slug}.${MESSAGE}.ts`
   const relPath = wrote.wrote.find((one) => one.endsWith(page) || one === page.slice(1))
   if (relPath === undefined) {

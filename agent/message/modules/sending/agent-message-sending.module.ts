@@ -45,6 +45,15 @@ export const agentMessageSending = {
       statement: "A message the pages refused is refused with what the pages said.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A write left waiting is sent again, and the attempt left waiting may have landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A send refused where the index files its own id under its name is written.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A message refused where the checkout is read-only names the read-only checkout first.",
@@ -110,5 +119,5 @@ export const agentMessageSending = {
     },
   ],
   createdAt: "2026-09-22T15:15:56.870Z",
-  updatedAt: "2026-09-27T13:10:47.000Z",
+  updatedAt: "2026-10-28T18:07:29.019Z",
 } as const satisfies Module

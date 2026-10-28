@@ -84,6 +84,30 @@ test("a message the pages refused is refused with what the pages said", async ()
   expect(said.kind === "refused" && said.detail).toContain("would not take it")
 })
 
+test("a send refused because its own earlier attempt landed answers as written", async () => {
+  const asked: { slug: string; id: string }[] = []
+  const said = await writeMessage(
+    { to: TO, from: FROM, warrant: "announce", body: "a check turned." },
+    () => Promise.resolve({ refused: "the page holds a body already" }),
+    (slug, id) => {
+      asked.push({ slug, id })
+      return `agent/message/pages/${slug}.agent-message.ts`
+    }
+  )
+  expect(said.kind).toBe("written")
+  expect(said.kind === "written" && said.id).toBe(asked[0]?.slug ?? "")
+  expect(asked[0]?.id.endsWith((asked[0]?.slug ?? "").slice(-12))).toBe(true)
+})
+
+test("a send refused where no earlier attempt landed stays refused", async () => {
+  const said = await writeMessage(
+    { to: TO, from: FROM, warrant: "announce", body: "a check turned." },
+    refusing,
+    () => null
+  )
+  expect(said.kind).toBe("refused")
+})
+
 test("the message named in the answer is the page that was sent", async () => {
   const held = catching()
   const said = await writeMessage(
