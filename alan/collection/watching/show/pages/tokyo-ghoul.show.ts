@@ -11,9 +11,15 @@ export const tokyoGhoul = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "61374", externalLink: "https://www.themoviedb.org/tv/61374" },
+    {
+      source: "tmdb",
+      externalId: "61374",
+      externalLink: "https://www.themoviedb.org/tv/61374",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Tokyo Ghoul",
+  streamingOn: ["Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:46:11.206Z",
-  updatedAt: "2026-10-28T18:46:11.206Z",
+  updatedAt: "2026-10-28T19:46:28.712Z",
 } as const satisfies Show
