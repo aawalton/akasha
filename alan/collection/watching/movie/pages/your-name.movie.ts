@@ -15,9 +15,11 @@ export const yourName = {
       source: "tmdb",
       externalId: "372058",
       externalLink: "https://www.themoviedb.org/movie/372058",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Your Name.",
+  streamingOn: ["HBO Max", "HBO Max Amazon Channel"],
   createdAt: "2026-10-28T18:45:59.164Z",
-  updatedAt: "2026-10-28T18:45:59.164Z",
+  updatedAt: "2026-10-28T19:48:31.941Z",
 } as const satisfies Movie
