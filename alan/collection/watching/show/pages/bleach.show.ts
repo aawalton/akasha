@@ -11,9 +11,15 @@ export const bleach = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "30984", externalLink: "https://www.themoviedb.org/tv/30984" },
+    {
+      source: "tmdb",
+      externalId: "30984",
+      externalLink: "https://www.themoviedb.org/tv/30984",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Bleach",
+  streamingOn: ["Hulu"],
   createdAt: "2026-10-28T18:44:28.395Z",
-  updatedAt: "2026-10-28T18:44:28.395Z",
+  updatedAt: "2026-10-28T19:43:39.657Z",
 } as const satisfies Show
