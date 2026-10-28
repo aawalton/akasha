@@ -16,14 +16,14 @@ import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/
 
 type Refused = { readonly refused: string }
 
-export type Remembered = {
+type Remembered = {
   readonly texts: ReadonlyMap<string, string | null>
   readonly report: readonly string[]
 }
 
-export type Folding = (naming: Naming) => readonly Asking[] | Refused
+type Folding = (naming: Naming) => readonly Asking[] | Refused
 
-export type Remembering = {
+type Remembering = {
   readonly unplaying: Unplaying
   readonly telling: Reading
   readonly fold: Folding
