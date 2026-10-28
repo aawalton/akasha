@@ -11,9 +11,15 @@ export const bocchiTheRock = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "119100", externalLink: "https://www.themoviedb.org/tv/119100" },
+    {
+      source: "tmdb",
+      externalId: "119100",
+      externalLink: "https://www.themoviedb.org/tv/119100",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "BOCCHI THE ROCK!",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:50:26.535Z",
-  updatedAt: "2026-10-28T18:50:26.535Z",
+  updatedAt: "2026-10-28T19:43:41.082Z",
 } as const satisfies Show
