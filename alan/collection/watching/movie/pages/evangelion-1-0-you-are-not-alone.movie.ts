@@ -11,9 +11,14 @@ export const evangelion10YouAreNotAlone = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "15137", externalLink: "https://www.themoviedb.org/movie/15137" },
+    {
+      source: "tmdb",
+      externalId: "15137",
+      externalLink: "https://www.themoviedb.org/movie/15137",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Evangelion: 1.0 You Are (Not) Alone",
   createdAt: "2026-10-28T18:45:23.095Z",
-  updatedAt: "2026-10-28T18:45:23.095Z",
+  updatedAt: "2026-10-28T19:47:00.680Z",
 } as const satisfies Movie
