@@ -11,9 +11,22 @@ export const haikyu = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "60863", externalLink: "https://www.themoviedb.org/tv/60863" },
+    {
+      source: "tmdb",
+      externalId: "60863",
+      externalLink: "https://www.themoviedb.org/tv/60863",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Haikyu!!",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+    "WeTV",
+  ],
   createdAt: "2026-10-28T18:43:12.581Z",
-  updatedAt: "2026-10-28T18:43:12.581Z",
+  updatedAt: "2026-10-28T19:44:29.210Z",
 } as const satisfies Show
