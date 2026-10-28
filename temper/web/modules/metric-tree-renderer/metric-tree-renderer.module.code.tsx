@@ -1,5 +1,8 @@
 import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
-import { formatStatValue } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
+import {
+  formatInteger,
+  formatStatValue,
+} from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
 import {
   isMetricNode,
   isStatusEffectNode,
@@ -62,7 +65,7 @@ export function MetricTreeRenderer({
   function getNodeShown(node: MetricTreeNode, value: MetricValue | undefined): string | undefined {
     if (value) return formatStatValue(value)
     const dealt = isStatusEffectNode(node) ? statusDamage[node.id] : undefined
-    return dealt ? formatStatValue({ value: dealt, valueType: "integer" }) : undefined
+    return dealt ? formatInteger(dealt) : undefined
   }
 
   function getNodeOnClick(

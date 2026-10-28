@@ -1,6 +1,6 @@
 type MetricValue = { value: number; valueType: string; divisor?: number; cap?: number }
 
-function formatInteger(value: number): string {
+export function formatInteger(value: number): string {
   return Math.round(value).toLocaleString()
 }
 
