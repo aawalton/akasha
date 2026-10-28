@@ -129,7 +129,11 @@ export const giftedRebornNala = {
       fact: "Its reward, her window showed, was the Path of the Completionist and 2 Unallocated Stats.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Her window showed the Achievement: Consume another soul and absorb it into your own.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:14:46.723Z",
+  updatedAt: "2026-10-28T00:15:26.540Z",
 } as const satisfies Lore
