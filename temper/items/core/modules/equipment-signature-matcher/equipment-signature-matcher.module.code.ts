@@ -4,6 +4,7 @@ interface SignatureMatchTarget {
   quality: number
   armorType?: number
   weaponType?: number
+  setId?: number
 }
 
 interface MatchableItem {
@@ -12,6 +13,7 @@ interface MatchableItem {
   quality?: number
   armorType?: number
   weaponType?: number
+  setId?: number
 }
 
 export function signatureMatchesItem(sig: SignatureMatchTarget, item: MatchableItem): boolean {
@@ -20,5 +22,6 @@ export function signatureMatchesItem(sig: SignatureMatchTarget, item: MatchableI
   if (item.quality !== sig.quality) return false
   if (sig.armorType !== undefined && item.armorType !== sig.armorType) return false
   if (sig.weaponType !== undefined && item.weaponType !== sig.weaponType) return false
+  if (sig.setId !== undefined && item.setId !== sig.setId) return false
   return true
 }

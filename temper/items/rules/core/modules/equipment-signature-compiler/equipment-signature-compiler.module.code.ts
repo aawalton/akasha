@@ -19,6 +19,7 @@ import type {
   WantedEquipmentSignature,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import { setsAll } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 
 type EsoNums = { readonly get: (constantId: string) => number | undefined }
@@ -32,6 +33,12 @@ const PLAYER_WEAPON_TYPE_TO_ESO = esoNumsIn("weapon-type")
 const PLAYER_ARMOR_TYPE_TO_ESO = esoNumsIn("armor-type")
 
 const PLAYER_QUALITY_TO_ESO = esoNumsIn("quality")
+
+function withSet(sig: WantedEquipmentSignature, setSlug: string): WantedEquipmentSignature {
+  const setId = setsAll().data[setSlug]?.esoSetId
+  if (setId !== undefined && setId !== 0) sig.setId = setId
+  return sig
+}
 
 function weaponEquipType(isTwoHanded: boolean): number {
   return equipTypeNumberOf(isTwoHanded ? "two-hand" : "one-hand")
@@ -70,7 +77,7 @@ export function compileWantedEquipmentForBuild(
     const armorType = PLAYER_ARMOR_TYPE_TO_ESO.get(slot.data.weight)
     const sig: WantedEquipmentSignature = { esoCharId, equipType, traitType, quality }
     if (armorType != null && armorType !== 0) sig.armorType = armorType
-    signatures.push(sig)
+    signatures.push(withSet(sig, slot.data.set))
   }
 
   for (const slotId of jewelrySlots.ids) {
@@ -82,7 +89,7 @@ export function compileWantedEquipmentForBuild(
     if (equipType == null) continue
 
     const quality = playerQualityNumber(slot.data.quality)
-    signatures.push({ esoCharId, equipType, traitType, quality })
+    signatures.push(withSet({ esoCharId, equipType, traitType, quality }, slot.data.set))
   }
 
   for (const barId of weaponBars.ids) {
@@ -98,18 +105,14 @@ export function compileWantedEquipmentForBuild(
         const weaponType = PLAYER_WEAPON_TYPE_TO_ESO.get(mainHand.data.type)
         const sig: WantedEquipmentSignature = { esoCharId, equipType, traitType, quality }
         if (weaponType != null) sig.weaponType = weaponType
-        signatures.push(sig)
+        signatures.push(withSet(sig, mainHand.data.set))
       }
     } else if (mainHand.itemType === "shield") {
       const traitType = esoNumberOfTrait("armor", mainHand.data.trait)
       if (traitType != null && traitType !== 0) {
         const quality = playerQualityNumber(mainHand.data.quality)
-        signatures.push({
-          esoCharId,
-          equipType: equipTypeNumberOf("off-hand"),
-          traitType,
-          quality,
-        })
+        const equipType = equipTypeNumberOf("off-hand")
+        signatures.push(withSet({ esoCharId, equipType, traitType, quality }, mainHand.data.set))
       }
     }
 
@@ -123,18 +126,14 @@ export function compileWantedEquipmentForBuild(
         const weaponType = PLAYER_WEAPON_TYPE_TO_ESO.get(offHand.data.type)
         const sig: WantedEquipmentSignature = { esoCharId, equipType, traitType, quality }
         if (weaponType != null) sig.weaponType = weaponType
-        signatures.push(sig)
+        signatures.push(withSet(sig, offHand.data.set))
       }
     } else if (offHand.itemType === "shield") {
       const traitType = esoNumberOfTrait("armor", offHand.data.trait)
       if (traitType != null && traitType !== 0) {
         const quality = playerQualityNumber(offHand.data.quality)
-        signatures.push({
-          esoCharId,
-          equipType: equipTypeNumberOf("off-hand"),
-          traitType,
-          quality,
-        })
+        const equipType = equipTypeNumberOf("off-hand")
+        signatures.push(withSet({ esoCharId, equipType, traitType, quality }, offHand.data.set))
       }
     }
   }

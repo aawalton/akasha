@@ -70,6 +70,7 @@ export interface WantedEquipmentSignature {
   quality: number
   armorType?: number
   weaponType?: number
+  setId?: number
 }
 
 export interface WantedCompanionEquipmentSignature {

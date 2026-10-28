@@ -77,5 +77,6 @@ export function buildWantedEquipmentFacts(facts: ItemFacts): WantedEquipmentFact
     quality: facts.quality,
     armorType: facts.armorType,
     weaponType: facts.weaponType,
+    setId: facts.setId,
   }
 }

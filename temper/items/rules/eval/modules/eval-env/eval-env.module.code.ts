@@ -94,6 +94,7 @@ export interface WantedEquipmentFacts {
   readonly quality: number
   readonly armorType?: number
   readonly weaponType?: number
+  readonly setId?: number
 }
 
 export interface EvalContext {

@@ -13,6 +13,10 @@ export const equipmentSignatureCompiler = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A player slot's signature names the game's number for the slot's set, if any.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A shield is read as an off-hand with an armor trait.",
     },
     {
@@ -46,5 +50,5 @@ export const equipmentSignatureCompiler = {
     },
   ],
   createdAt: "2026-09-02T14:12:33.895Z",
-  updatedAt: "2026-09-27T06:45:50.000Z",
+  updatedAt: "2026-10-28T21:23:21.139Z",
 } as const satisfies Module

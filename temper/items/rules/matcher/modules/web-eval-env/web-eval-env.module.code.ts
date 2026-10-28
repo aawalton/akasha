@@ -259,6 +259,7 @@ function factsToMatchable(facts: WantedEquipmentFacts): {
   quality: number
   armorType?: number
   weaponType?: number
+  setId?: number
 } {
   return {
     equipType: facts.equipType,
@@ -266,6 +267,7 @@ function factsToMatchable(facts: WantedEquipmentFacts): {
     quality: facts.quality,
     armorType: facts.armorType,
     weaponType: facts.weaponType,
+    setId: facts.setId,
   }
 }
 

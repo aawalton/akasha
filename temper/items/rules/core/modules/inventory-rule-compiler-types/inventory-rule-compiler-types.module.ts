@@ -21,7 +21,11 @@ export const inventoryRuleCompilerTypes = {
       statement:
         "A wanted equipment signature says the gear a build asks for rather than the gear held.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character's wanted equipment signature names the set its slot asks for.",
+    },
   ],
   createdAt: "2026-09-02T07:23:20.429Z",
-  updatedAt: "2026-09-21T15:44:44.000Z",
+  updatedAt: "2026-10-28T21:23:21.139Z",
 } as const satisfies Module
