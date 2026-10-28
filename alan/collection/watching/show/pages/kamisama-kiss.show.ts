@@ -11,9 +11,22 @@ export const kamisamaKiss = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "62741", externalLink: "https://www.themoviedb.org/tv/62741" },
+    {
+      source: "tmdb",
+      externalId: "62741",
+      externalLink: "https://www.themoviedb.org/tv/62741",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Kamisama Kiss",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+    "Tubi TV",
+  ],
   createdAt: "2026-10-28T18:48:47.603Z",
-  updatedAt: "2026-10-28T18:48:47.603Z",
+  updatedAt: "2026-10-28T19:44:49.806Z",
 } as const satisfies Show
