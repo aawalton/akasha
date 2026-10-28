@@ -198,7 +198,7 @@ function actionRefused(action: string): string | null {
   return null
 }
 
-export function firstTurnOf(game: string, unit: string | null, action: string): Made {
+function firstTurnOf(game: string, unit: string | null, action: string): Made {
   const refused = actionRefused(action)
   if (refused !== null) return { refused }
   return {
