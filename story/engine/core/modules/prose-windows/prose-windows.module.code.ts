@@ -81,6 +81,30 @@ export function proseWindowSegmentsIn(text: string): readonly ProseWindowSegment
   return segments
 }
 
+function sameWindow(one: WrittenWindow, other: WrittenWindow): boolean {
+  return one.kind === other.kind && one.name !== undefined && one.name === other.name
+}
+
+export function joinedWindowsIn(
+  segments: readonly ProseWindowSegment[]
+): readonly ProseWindowSegment[] {
+  const joined: ProseWindowSegment[] = []
+  for (const one of segments) {
+    const last = joined.at(-1)
+    if (one.kind !== "window" || last?.kind !== "window" || !sameWindow(last.window, one.window)) {
+      joined.push(one)
+      continue
+    }
+    const notes = [last.window.note, one.window.note].flatMap((said) => said ?? [])
+    const note = notes.length === 0 ? {} : { note: notes.join(LINES) }
+    joined[joined.length - 1] = {
+      kind: "window",
+      window: { ...last.window, ...one.window, ...note },
+    }
+  }
+  return joined
+}
+
 export function describedIn(note: string): { label: string; value: string }[] {
   return note.split(LINES).map((one) => {
     const at = one.indexOf(MARK)

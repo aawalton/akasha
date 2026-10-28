@@ -173,10 +173,14 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A window said the same as the window just before it is said once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-28T14:00:14.652Z",
+  updatedAt: "2026-10-28T14:07:23.689Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module

@@ -1,4 +1,5 @@
 import {
+  joinedWindowsIn,
   proseWindowSegmentsIn,
   type WrittenWindow,
   windowOf,
@@ -75,7 +76,7 @@ function windowSegment(written: WrittenWindow): ClientProseSegment {
 }
 
 export function proseSegmentsOf(text: string): ClientProseSegment[] | undefined {
-  const found = proseWindowSegmentsIn(text)
+  const found = joinedWindowsIn(proseWindowSegmentsIn(text))
   if (found.every((one) => one.kind === "prose")) return undefined
   return found.map(
     (one): ClientProseSegment => (one.kind === "prose" ? one : windowSegment(one.window))

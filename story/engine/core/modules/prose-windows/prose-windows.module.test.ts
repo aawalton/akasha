@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   abilityTitleIn,
   describedIn,
+  joinedWindowsIn,
   proseWindowSegmentsIn,
   slottedWindowOf,
   windowOf,
@@ -159,5 +160,39 @@ describe("slottedWindowOf", () => {
   test("a window naming no slotted ability is left whole", () => {
     const window = { kind: "status-assessment", name: "Fireball", note: "Reward: warmth" }
     expect(slottedWindowOf(window, SLOTTED)).toBe(window)
+  })
+})
+
+describe("joinedWindowsIn", () => {
+  test("two windows of one kind and one name side by side are drawn as one", () => {
+    const text = [
+      ":::status-assessment",
+      "name: Path of the Completionist",
+      "note: Steps: one for each Path completed",
+      ":::",
+      "",
+      ":::status-assessment",
+      "name: Path of the Completionist",
+      "note: Tier 1: 1 step; Reward: 2 Unallocated Stats",
+      ":::",
+      "",
+      "Both sat still.",
+    ].join("\n")
+    expect(joinedWindowsIn(proseWindowSegmentsIn(text))).toEqual([
+      {
+        kind: "window",
+        window: {
+          kind: "status-assessment",
+          name: "Path of the Completionist",
+          note: "Steps: one for each Path completed; Tier 1: 1 step; Reward: 2 Unallocated Stats",
+        },
+      },
+      { kind: "prose", text: "Both sat still." },
+    ])
+  })
+
+  test("windows with prose between them, or of other names, stay apart", () => {
+    const text = ":::skill\nname: A\n:::\nbetween\n:::skill\nname: A\n:::\n:::skill\nname: B\n:::"
+    expect(joinedWindowsIn(proseWindowSegmentsIn(text))).toHaveLength(4)
   })
 })

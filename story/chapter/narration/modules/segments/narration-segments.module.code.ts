@@ -381,14 +381,17 @@ function blocksOf(
 ): Block[] {
   const blocks: Block[] = []
   const counted: Counted = { words: 0 }
+  let saidLast = ""
   for (const run of proseWindowSegmentsIn(prose.replace(RETURNS, "\n"))) {
     if (run.kind === "prose") {
       proseInto(blocks, run.text, counted)
+      saidLast = ""
       continue
     }
     const words = windowWords(run.window)
     const said = spokenWindow(slottedWindowOf(run.window, slotted), abilityKinds)
-    setApart(blocks, said, { wordStart: counted.words, words })
+    if (said.join(" ") !== saidLast) setApart(blocks, said, { wordStart: counted.words, words })
+    saidLast = said.join(" ")
     counted.words += words
   }
   return blocks

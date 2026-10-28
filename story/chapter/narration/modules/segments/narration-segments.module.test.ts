@@ -95,6 +95,24 @@ describe("narrationSegmentsOf", () => {
     ])
   })
 
+  test("a window said the same as the window just before it is said once", () => {
+    const prose = [
+      "Start.",
+      "",
+      ":::status-assessment",
+      "name: Path of the Completionist",
+      "note: Steps: one for each Path completed",
+      ":::",
+      "",
+      ":::status-assessment",
+      "name: Path of the Completionist",
+      "note: Tier 1: 1 step; Reward: 2 Unallocated Stats",
+      ":::",
+    ].join("\n")
+    const said = narrationSegmentsOf(prose, [], new Map(), new Set(["Path of the Completionist"]))
+    expect(said.map((one) => one.text)).toEqual(["Start.", "Status: Path of the Completionist."])
+  })
+
   test("a segment starts at the count of the prose's own words before it", () => {
     const sentence = "The rain had not stopped for three days and the river kept rising."
     const prose = `Start.\n${Array.from({ length: 30 }, () => sentence).join(" ")}\nEnd.`
