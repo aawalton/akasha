@@ -16,3 +16,5 @@ note: Steps: only from shreds of demon-ridden souls dying nearby
 name: Path of Soulstealing
 note: Tier 1: 10 steps; Reward: Aether Core rises one grade
 :::
+
+You try the other one next, Path of the Completionist, and fix on it the same way.

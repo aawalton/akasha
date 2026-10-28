@@ -3,7 +3,7 @@
 {"beat":3,"event":"Under the chanting, she turns to her Status and dwells on the Path of Soulstealing.","prose":"The chanting goes on over you. You turn back to your Status, find Path of Soulstealing, and try to use it. You hold the words in your mind and push at them.","changes":[],"memory":[],"pictured":[]}
 {"beat":4,"event":"Window: Soulstealing (mutated) - steps only from shreds of demon-ridden souls dying nearby.","prose":":::status-assessment\nname: Path of Soulstealing (mutated)\nnote: Steps: only from shreds of demon-ridden souls dying nearby\n:::","changes":[],"memory":[{"page":"lore/gifted-myriad-paths","fact":"Soulstealing is mutated: only soul shreds of a demon-ridden creature dying nearby give it steps.","learns":"character-player/gifted-reborn-nala"},{"page":"lore/gifted-myriad-paths","fact":"Soulstealing is mutated: only soul shreds of a demon-ridden creature dying nearby give it steps.","shown":true}],"pictured":[]}
 {"beat":5,"event":"Window: Soulstealing - Tier 1 at 10 steps: Aether Core rises one grade.","prose":":::status-assessment\nname: Path of Soulstealing\nnote: Tier 1: 10 steps; Reward: Aether Core rises one grade\n:::","changes":[]}
-{"beat":6,"event":"She dwells next on the Path of the Completionist.","changes":[]}
+{"beat":6,"event":"She dwells next on the Path of the Completionist.","prose":"You try the other one next, Path of the Completionist, and fix on it the same way.","changes":[]}
 {"beat":7,"event":"Window: Completionist - one step for each Path she completes.","changes":[]}
 {"beat":8,"event":"Window: Completionist - Tier 1 at 1 step: 2 Unallocated Stats."}
 {"beat":9,"event":"She grasps it: a Path is nothing to use; dwelling on one only shows what earns it."}
