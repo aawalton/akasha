@@ -22,6 +22,7 @@
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-engine-improvements.initiative.ts","id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-outcome-card.initiative.ts","id":"01a18395-ebaa-75df-be04-f7a5743e81df"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-sidebar-edge.initiative.ts","id":"01a183bc-3f69-7bd3-9e04-b8c4491e2c53"}
+{"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-sidebar-header.initiative.ts","id":"01a183cd-bdc8-7e54-8d05-044e9457a6c4"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-story-engine-v3.initiative.ts","id":"01a17e96-4b46-7bc1-a576-fe8d28348442"}
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/awen-l1.persona-wallpaper-notification.ts","id":"019f182f-7afe-7b5f-8689-d30ea901c096"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
