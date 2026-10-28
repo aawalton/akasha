@@ -60,7 +60,7 @@ export const collection = {
     "instant-property/collection-progressed-at",
     "computed-property/within-collections",
     "relation-property/within-collection",
-    "text-property/streaming-service",
+    "relation-property/streaming-service",
     "computed-property/parts-streaming-on",
   ],
   extends: ["page-type/page"],
@@ -197,5 +197,5 @@ export const collection = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-10-28T19:56:25.583Z",
+  updatedAt: "2026-10-28T20:41:21.414Z",
 } as const satisfies PageType

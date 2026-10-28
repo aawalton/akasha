@@ -15,5 +15,5 @@ export const work: Work<Collection, PartsStreamingOn> = (_page, reach) => {
     for (const one of part.partsStreamingOn ?? []) named.add(one.service)
   }
   if (named.size === 0) return null
-  return [...named].sort((a, b) => a.localeCompare(b)).map((service) => ({ service }))
+  return [...named].sort().map((service) => ({ service }))
 }

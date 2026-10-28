@@ -7,7 +7,9 @@ export const partsStreamingOn = {
   propertySlug: "parts-streaming-on",
   definition: "every service the collections a collection holds stream on, however far down",
   holds: "records",
-  properties: [{ pageProperty: "text-property/streaming-service", required: true, many: false }],
+  properties: [
+    { pageProperty: "relation-property/streaming-service", required: true, many: false },
+  ],
   code: "ts",
   test: "ts",
   sourceCredit: "Streaming data from JustWatch",
@@ -22,7 +24,15 @@ export const partsStreamingOn = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The services are in alphabetical order.",
+      statement: "Each service is the address of its streaming service page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The services are in the order their addresses sort in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service is drawn by the title of its page rather than its address.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -31,5 +41,5 @@ export const partsStreamingOn = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:00:00.000Z",
-  updatedAt: "2026-10-28T20:00:00.000Z",
+  updatedAt: "2026-10-28T20:41:21.414Z",
 } as const satisfies ComputedProperty

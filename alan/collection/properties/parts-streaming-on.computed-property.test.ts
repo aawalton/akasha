@@ -3,7 +3,20 @@ import type { Collection } from "akasha/alan/collection/collection.page-type.typ
 import { work } from "akasha/alan/collection/properties/parts-streaming-on.computed-property.code.ts"
 import type { PartsStreamingOn } from "akasha/alan/collection/properties/parts-streaming-on.computed-property.types.ts"
 import { awardWinningMovies } from "akasha/alan/collection/watching/show-collection/pages/award-winning-movies.show-collection.ts"
+import { crunchyroll } from "akasha/alan/collection/watching/streaming-service/pages/crunchyroll.streaming-service.ts"
+import { hboMax } from "akasha/alan/collection/watching/streaming-service/pages/hbo-max.streaming-service.ts"
+import { hulu } from "akasha/alan/collection/watching/streaming-service/pages/hulu.streaming-service.ts"
+import { netflix } from "akasha/alan/collection/watching/streaming-service/pages/netflix.streaming-service.ts"
+import { streamingService } from "akasha/alan/collection/watching/streaming-service/streaming-service.page-type.ts"
 import type { Reach } from "akasha/page/computed-property/computed-property.page-type.ts"
+
+const NETFLIX = `${streamingService.slug}/${netflix.slug}`
+
+const CRUNCHYROLL = `${streamingService.slug}/${crunchyroll.slug}`
+
+const HULU = `${streamingService.slug}/${hulu.slug}`
+
+const HBO_MAX = `${streamingService.slug}/${hboMax.slug}`
 
 type Held = Collection & {
   readonly streamingOn?: readonly string[]
@@ -49,29 +62,29 @@ function servicesOf(
 const PAGES: Readonly<Record<string, Held>> = {
   [FANDOM]: BASE,
   [FRANCHISE]: { ...BASE, partOfCollections: [FANDOM] },
-  [SHOW]: { ...BASE, partOfCollections: [FRANCHISE], streamingOn: ["Netflix", "Crunchyroll"] },
-  [MOVIE]: { ...BASE, partOfCollections: [FANDOM], streamingOn: ["Hulu", "Crunchyroll"] },
+  [SHOW]: { ...BASE, partOfCollections: [FRANCHISE], streamingOn: [NETFLIX, CRUNCHYROLL] },
+  [MOVIE]: { ...BASE, partOfCollections: [FANDOM], streamingOn: [HULU, CRUNCHYROLL] },
   [SPECIAL]: { ...BASE, partOfCollections: [FANDOM] },
 }
 
 test("a collection's parts stream on every service of every collection under it, however deep", () => {
   expect(servicesOf(PAGES, FANDOM)).toEqual([
-    { service: "Crunchyroll" },
-    { service: "Hulu" },
-    { service: "Netflix" },
+    { service: CRUNCHYROLL },
+    { service: HULU },
+    { service: NETFLIX },
   ])
 })
 
 test("a part's own services count beside its parts' services", () => {
   const pages = {
     ...PAGES,
-    [FRANCHISE]: { ...BASE, partOfCollections: [FANDOM], streamingOn: ["Max"] },
+    [FRANCHISE]: { ...BASE, partOfCollections: [FANDOM], streamingOn: [HBO_MAX] },
   }
   expect(servicesOf(pages, FANDOM)).toEqual([
-    { service: "Crunchyroll" },
-    { service: "Hulu" },
-    { service: "Max" },
-    { service: "Netflix" },
+    { service: CRUNCHYROLL },
+    { service: HBO_MAX },
+    { service: HULU },
+    { service: NETFLIX },
   ])
 })
 

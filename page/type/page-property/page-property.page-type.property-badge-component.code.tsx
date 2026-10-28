@@ -13,6 +13,11 @@ import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.
 import { textConfigSchema } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import { keyOf } from "akasha/page/ui/component/modules/badge-keying/badge-keying.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
+import { resolveRelationName } from "akasha/page/ui/component/modules/relation-display/relation-display.module.code.ts"
+import {
+  type PageResolverValue,
+  usePageResolverOptional,
+} from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useEffect, useState } from "react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
@@ -42,16 +47,24 @@ function HeldWhileTyped({
   )
 }
 
-function shownOf(one: unknown, property: PropertyBadgeProps["property"]): string {
+const RELATION = "relation"
+
+function shownOf(
+  one: unknown,
+  property: PropertyBadgeProps["property"],
+  resolver: PageResolverValue | null
+): string {
   const said = scalarText(one)
   if (said !== null) return said
   const sole = property.fields?.length === 1 ? property.fields[0] : undefined
   if (sole === undefined || !isRecord(one)) return ""
-  return scalarText(one[sole.id]) ?? ""
+  const field = scalarText(one[sole.id]) ?? ""
+  return sole.type === RELATION && field !== "" ? resolveRelationName(resolver, field) : field
 }
 
 export function Drawing({ property, value, editable, onPropertyChange }: PropertyBadgeProps) {
   const layout = useBadgeLayoutContext()
+  const resolver = usePageResolverOptional()
   const config = parseConfig(textConfigSchema, property.config, {})
   const otherwise = config.badgeVariant ?? (property.accent ? "accent" : "elevation-muted")
   const variantFor = (shown: string) => resolveBadgeVariant(property, shown) ?? otherwise
@@ -60,7 +73,7 @@ export function Drawing({ property, value, editable, onPropertyChange }: Propert
     return (
       <span className={stackedBadgesClass(layout.popoverAlign ?? "end")}>
         {value.map((one, at) => {
-          const item = shownOf(one, property)
+          const item = shownOf(one, property, resolver)
           return (
             <Badge key={keyOf(one, at)} variant={variantFor(item)}>
               {item}
