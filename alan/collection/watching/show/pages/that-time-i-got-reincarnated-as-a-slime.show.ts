@@ -11,9 +11,15 @@ export const thatTimeIGotReincarnatedAsASlime = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "82684", externalLink: "https://www.themoviedb.org/tv/82684" },
+    {
+      source: "tmdb",
+      externalId: "82684",
+      externalLink: "https://www.themoviedb.org/tv/82684",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "That Time I Got Reincarnated as a Slime",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:47:06.808Z",
-  updatedAt: "2026-10-28T18:47:06.808Z",
+  updatedAt: "2026-10-28T19:46:17.148Z",
 } as const satisfies Show
