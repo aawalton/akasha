@@ -15,9 +15,10 @@ export const kizumonogatariPart1Tekketsu = {
       source: "tmdb",
       externalId: "357786",
       externalLink: "https://www.themoviedb.org/movie/357786",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Kizumonogatari Part 1: Tekketsu",
   createdAt: "2026-10-28T18:52:44.444Z",
-  updatedAt: "2026-10-28T18:52:44.444Z",
+  updatedAt: "2026-10-28T19:47:36.217Z",
 } as const satisfies Movie
