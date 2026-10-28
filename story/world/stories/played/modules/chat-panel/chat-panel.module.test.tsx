@@ -1,13 +1,21 @@
 import "akasha/check/test/modules/dom-registering/dom-registering.module.code.ts"
 import { expect, test } from "bun:test"
 import { fireEvent, render } from "@testing-library/react"
+import { LayoutRouterProvider } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import {
   ChatPanel,
   emptySaid,
   linesOf,
 } from "akasha/story/world/stories/played/modules/chat-panel/chat-panel.module.code.tsx"
+import type { ReactNode } from "react"
 
 const AT = "2026-10-27T19:00:00.000Z"
+
+const ROUTED = { pathname: "/", searchParams: new URLSearchParams() }
+
+function drawn(panel: ReactNode) {
+  return render(<LayoutRouterProvider value={ROUTED}>{panel}</LayoutRouterProvider>)
+}
 
 test("a line Alan said is his, and a line any seat said is the game master's", () => {
   const lines = linesOf(
@@ -39,22 +47,22 @@ test("a message still sending or refused comes after every line the chat kept", 
 })
 
 test("the panel has one tab, Assistant, and says what to ask while empty", () => {
-  const shown = render(<ChatPanel lines={[]} answerer="Mari" onSend={() => undefined} />)
-  expect(shown.getByRole("radio", { name: "Assistant" })).toBeDefined()
+  const shown = drawn(<ChatPanel lines={[]} answerer="Mari" onSend={() => undefined} />)
+  expect(shown.getByRole("tab", { name: "Assistant" })).toBeDefined()
   expect(shown.getByText(emptySaid("Mari"))).toBeDefined()
   shown.unmount()
 })
 
 test("the game master's answer is drawn in the tab", () => {
   const lines = linesOf([{ at: AT, from: "mari", body: "two hours" }], [])
-  const shown = render(<ChatPanel lines={lines} answerer="Mari" onSend={() => undefined} />)
+  const shown = drawn(<ChatPanel lines={lines} answerer="Mari" onSend={() => undefined} />)
   expect(shown.getByText("two hours")).toBeDefined()
   shown.unmount()
 })
 
 test("Send sends what the box holds, though no keystroke announced it, and empties it", () => {
   const said: string[] = []
-  const shown = render(
+  const shown = drawn(
     <ChatPanel
       lines={[]}
       answerer="Mari"

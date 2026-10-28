@@ -5,6 +5,7 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { PlaceHeaded } from "akasha/story/ui/modules/place-head/place-head.module.code.tsx"
 import type { Shown } from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
 
 import { character } from "akasha/story/ui/played-panel/panel-place/pages/character.panel-place.ts"
@@ -13,7 +14,6 @@ import { journal } from "akasha/story/ui/played-panel/panel-place/pages/journal.
 import { map } from "akasha/story/ui/played-panel/panel-place/pages/map.panel-place.ts"
 import { panelPlace } from "akasha/story/ui/played-panel/panel-place/panel-place.page-type.ts"
 import {
-  PlaceHead,
   SidebarColumn,
   storedWidths,
   storeWidths,
@@ -257,12 +257,13 @@ function PhonePlace({
 }) {
   return (
     <div className={cn(PHONE_PLACE, surfaceClass(0))}>
-      <PlaceHead
+      <PlaceHeaded
         label={look.label}
         onClose={onClose}
         className={cn(PHONE_PLACE_HEAD, surfaceClass(0))}
-      />
-      <div className={PHONE_PLACE_BODY}>{drawn}</div>
+      >
+        <div className={PHONE_PLACE_BODY}>{drawn}</div>
+      </PlaceHeaded>
     </div>
   )
 }
@@ -345,6 +346,7 @@ export function PlayedSidebars({
         width={widths[side]}
         onWidth={(wanted) => resize(side, wanted)}
         label={look.label}
+        onClose={() => choose(withSide(open, side, null))}
       >
         {placed.get(look.slug)}
       </SidebarColumn>
@@ -382,8 +384,13 @@ export function PlayedSidebars({
           )}
           <div className={BODY}>
             <div className={TURNS}>
-              {phone || covered === null ? null : (
-                <div className={PLACE_COLUMN}>{placed.get(covered)}</div>
+              {phone || coverLook === undefined ? null : (
+                <PlaceHeaded
+                  label={coverLook.label}
+                  onClose={() => choose(withSide(open, coverLook.side, null))}
+                >
+                  <div className={PLACE_COLUMN}>{placed.get(coverLook.slug)}</div>
+                </PlaceHeaded>
               )}
               <div className={!phone && covered !== null ? SET_ASIDE : TURNS_TEXT}>
                 {head}

@@ -4115,6 +4115,7 @@
 {"propertySlug":"decision-kind","path":"story/ui/modules/difficulty-panel/difficulty-panel.module.ts","id":"01a17eef-b5f0-77aa-940f-5fa16d965a2c"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/inline-cover/inline-cover.module.ts","id":"01a0fda5-e07b-7d50-aaa7-880c4bc48733"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}
+{"propertySlug":"decision-kind","path":"story/ui/modules/place-head/place-head.module.ts","id":"01a183ea-1193-7985-bfce-40d4aec9197e"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/player-character-panel/player-character-panel.module.ts","id":"01a0e817-d6c0-7d98-bdd1-fc786451c663"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.ts","id":"01a0e7ff-1168-7fa8-b0c7-08190825f11d"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/sheet-attributes/sheet-attributes.module.ts","id":"01a18303-9351-7ff9-a9a5-1a27defe5b24"}

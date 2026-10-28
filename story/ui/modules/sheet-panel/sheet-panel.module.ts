@@ -9,7 +9,7 @@ export const sheetPanel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The tabs sit at the top of the card, above everything the card draws.",
+      statement: "The tabs sit in the head of the place the sheet is drawn in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -156,5 +156,5 @@ export const sheetPanel = {
     },
   ],
   createdAt: "2026-09-02T14:52:27.089Z",
-  updatedAt: "2026-10-28T14:56:52.048Z",
+  updatedAt: "2026-10-28T19:08:37.650Z",
 } as const satisfies Module

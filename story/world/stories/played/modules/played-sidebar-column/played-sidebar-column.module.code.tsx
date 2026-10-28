@@ -1,9 +1,9 @@
 "use client"
 
-import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
-import { X } from "lucide-react"
+import { PlaceHeaded } from "akasha/story/ui/modules/place-head/place-head.module.code.tsx"
 import { type KeyboardEvent, type PointerEvent, type ReactNode, useRef } from "react"
 
 export type Widths = {
@@ -28,10 +28,6 @@ const WIDTHS_STORED_AT = "played-sidebar-widths"
 const SIDEBAR =
   "sticky top-(--safe-area-top) z-10 flex h-[calc(100dvh-var(--safe-area-top))] shrink-0 flex-col"
 
-const HEAD = "flex h-12 shrink-0 items-center justify-between gap-2 border-primary/10 border-b px-4"
-
-const HEAD_TITLE = "font-medium text-primary text-sm"
-
 const RAISED = 1
 
 const BODY =
@@ -43,11 +39,6 @@ const HANDLE =
 const HANDLE_LEFT = "-right-[3px]"
 
 const HANDLE_RIGHT = "-left-[3px]"
-
-export type PlaceHeld = {
-  readonly label: string
-  readonly onClose: () => void
-}
 
 export function widthClamped(wanted: number, width: number, beside: number): number {
   const widest = Math.min(SIDEBAR_WIDEST, width - TURNS_AT_LEAST - beside)
@@ -74,28 +65,19 @@ export function storeWidths(widths: Widths): undefined {
   localStorage.setItem(WIDTHS_STORED_AT, JSON.stringify(widths))
 }
 
-export function PlaceHead({ label, onClose, className }: PlaceHeld & { className?: string }) {
-  return (
-    <div className={cn(HEAD, className)}>
-      <span className={HEAD_TITLE}>{label}</span>
-      <Button type="button" variant="tertiary" size="icon" aria-label="Close" onClick={onClose}>
-        <X />
-      </Button>
-    </div>
-  )
-}
-
 export function SidebarColumn({
   side,
   width,
   onWidth,
   label,
+  onClose,
   children,
 }: {
   side: "left" | "right"
   width: number
   onWidth: (wanted: number) => void
   label: string
+  onClose: () => void
   children: ReactNode
 }) {
   const dragged = useRef<{ readonly x: number; readonly width: number } | null>(null)
@@ -122,10 +104,12 @@ export function SidebarColumn({
     onWidth(width + outward * rightward * RESIZE_STEP)
   }
   return (
-    <aside aria-label={label} className={SIDEBAR} style={{ width }}>
-      <SurfaceProvider level={RAISED} className={BODY}>
-        {children}
-      </SurfaceProvider>
+    <aside aria-label={label} className={cn(SIDEBAR, surfaceClass(RAISED))} style={{ width }}>
+      <PlaceHeaded label={label} onClose={onClose}>
+        <SurfaceProvider level={RAISED} className={BODY}>
+          {children}
+        </SurfaceProvider>
+      </PlaceHeaded>
       <div
         role="separator"
         aria-orientation="vertical"

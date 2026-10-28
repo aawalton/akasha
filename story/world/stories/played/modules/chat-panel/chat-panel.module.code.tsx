@@ -1,6 +1,10 @@
 "use client"
 
 import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
+import {
+  Tabs,
+  UnderlineTabsTrigger,
+} from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
@@ -10,13 +14,11 @@ import {
   Textarea,
   useReturnSends,
 } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
-import {
-  ToggleGroup,
-  ToggleGroupItem,
-} from "akasha/design/interface/primitive/modules/toggle-group/toggle-group.module.code.tsx"
+
 import type { PageWatch } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
 import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import { getPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
+import { PlaceTabs } from "akasha/story/ui/modules/place-head/place-head.module.code.tsx"
 import { chat } from "akasha/story/ui/played-panel/panel-place/pages/chat.panel-place.ts"
 import {
   CHAT_PLAYER,
@@ -70,7 +72,7 @@ const SIGNED_OUT = "sign in to send a message."
 const UNAUTHORIZED = 401
 
 const PANEL =
-  "flex h-[calc(100dvh-var(--safe-area-top)-6rem)] min-h-80 flex-col gap-3 max-[583px]:h-[calc(100dvh-var(--safe-area-top)-var(--safe-area-bottom)-8.5rem)]"
+  "flex h-[calc(100dvh-var(--safe-area-top)-7.5rem)] min-h-80 flex-col gap-3 max-[583px]:h-[calc(100dvh-var(--safe-area-top)-var(--safe-area-bottom)-11rem)]"
 
 const HISTORY = "flex min-h-0 flex-1 flex-col gap-3 overflow-y-auto overscroll-contain"
 
@@ -169,11 +171,11 @@ export function ChatPanel({
   const plane = useSurface()
   return (
     <section className={PANEL} aria-label="Chat">
-      <ToggleGroup type="single" variant="elevation" size="sm" value={ASSISTANT}>
-        <ToggleGroupItem value={ASSISTANT} className="px-3">
-          {ASSISTANT_LABEL}
-        </ToggleGroupItem>
-      </ToggleGroup>
+      <Tabs value={ASSISTANT}>
+        <PlaceTabs>
+          <UnderlineTabsTrigger value={ASSISTANT}>{ASSISTANT_LABEL}</UnderlineTabsTrigger>
+        </PlaceTabs>
+      </Tabs>
       <div ref={historyAt} className={HISTORY}>
         {lines.length === 0 ? (
           <p className={NOTE_LINE}>{emptySaid(answerer)}</p>

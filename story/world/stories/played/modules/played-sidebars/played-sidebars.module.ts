@@ -59,7 +59,7 @@ export const playedSidebars = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "On a phone, an open place's head names that place and closes it.",
+      statement: "Every open place has a head naming that place and closing it, on a phone or not.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -80,5 +80,5 @@ export const playedSidebars = {
     },
   ],
   createdAt: "2026-10-27T18:38:10.173Z",
-  updatedAt: "2026-10-28T19:03:17.845Z",
+  updatedAt: "2026-10-28T19:08:37.650Z",
 } as const satisfies Module

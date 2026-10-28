@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/chapter/narration/modules/bar/narration-bar.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/ui/modules/alert-controls/alert-controls.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/ui/modules/place-head/place-head.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/ui/modules/player-intent-panel/player-intent-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/ui/modules/sheet-entries/sheet-entries.module.code.tsx","typed":false,"deferred":false}
@@ -49,7 +50,6 @@
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/world/stories/played/modules/chat-panel/chat-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/world/stories/played/modules/played-layout/played-layout.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/world/stories/played/modules/played-run/played-run.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/world/stories/played/modules/played-sidebar-column/played-sidebar-column.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/world/stories/played/modules/played-sidebars/played-sidebars.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/world/stories/played/modules/turn-undo-control/turn-undo-control.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/world/stories/written/modules/chapter-writing/chapter-writing.module.code.tsx","typed":false,"deferred":false}

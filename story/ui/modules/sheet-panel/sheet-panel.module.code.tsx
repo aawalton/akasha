@@ -3,11 +3,11 @@
 import {
   Tabs,
   TabsContent,
-  TabsList,
-  TabsTrigger,
+  UnderlineTabsTrigger,
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { Progress } from "akasha/design/interface/primitive/modules/progress-bar/progress-bar.module.code.tsx"
 import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
+import { PlaceTabs } from "akasha/story/ui/modules/place-head/place-head.module.code.tsx"
 import {
   AttributeSections,
   ScalarRows,
@@ -53,8 +53,6 @@ const SKILLS = "skills"
 const TRAITS = "traits"
 
 const XP = "XP"
-
-const TAB = "px-1 font-mono text-[12px]"
 
 type Experience = NonNullable<ClientSheet["experience"]>[number]
 
@@ -415,26 +413,18 @@ export function SheetTabs({
   const value = tabs.includes(picked) ? picked : STATS
   return (
     <Tabs value={value} onValueChange={setPicked} className="gap-3">
-      <TabsList>
-        <TabsTrigger value={STATS} className={TAB}>
-          Stats
-        </TabsTrigger>
+      <PlaceTabs>
+        <UnderlineTabsTrigger value={STATS}>Stats</UnderlineTabsTrigger>
         {tabs.includes(INVENTORY) ? (
-          <TabsTrigger value={INVENTORY} className={TAB}>
-            Inventory
-          </TabsTrigger>
+          <UnderlineTabsTrigger value={INVENTORY}>Inventory</UnderlineTabsTrigger>
         ) : null}
         {tabs.includes(SKILLS) ? (
-          <TabsTrigger value={SKILLS} className={TAB}>
-            {abilities}
-          </TabsTrigger>
+          <UnderlineTabsTrigger value={SKILLS}>{abilities}</UnderlineTabsTrigger>
         ) : null}
         {tabs.includes(TRAITS) ? (
-          <TabsTrigger value={TRAITS} className={TAB}>
-            Traits
-          </TabsTrigger>
+          <UnderlineTabsTrigger value={TRAITS}>Traits</UnderlineTabsTrigger>
         ) : null}
-      </TabsList>
+      </PlaceTabs>
       <TabsContent value={STATS}>
         <StatsTab
           sheet={sheet}

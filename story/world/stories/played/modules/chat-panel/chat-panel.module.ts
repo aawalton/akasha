@@ -10,7 +10,7 @@ export const chatPanel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The panel has a row of tabs, and Assistant is the one tab in that row.",
+      statement: "The panel offers its place's head one tab, Assistant.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,5 +38,5 @@ export const chatPanel = {
     },
   ],
   createdAt: "2026-10-27T18:54:57.088Z",
-  updatedAt: "2026-10-27T19:21:46.037Z",
+  updatedAt: "2026-10-28T19:08:37.650Z",
 } as const satisfies Module

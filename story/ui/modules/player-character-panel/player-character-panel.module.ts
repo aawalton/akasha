@@ -15,7 +15,7 @@ export const playerCharacterPanel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The sheet's tabs head the card, and the stats tab holds the caption and the cover.",
+        "The sheet's tabs sit in the head of the card's place, and the stats tab holds the caption and cover.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -87,5 +87,5 @@ export const playerCharacterPanel = {
     },
   ],
   createdAt: "2026-09-28T12:57:51.552Z",
-  updatedAt: "2026-10-27T19:04:03.834Z",
+  updatedAt: "2026-10-28T19:08:37.650Z",
 } as const satisfies Module
