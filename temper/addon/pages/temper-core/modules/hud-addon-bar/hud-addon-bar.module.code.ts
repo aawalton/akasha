@@ -50,13 +50,13 @@ function reflow(): undefined {
     if (label !== undefined) placed.push(label)
   }
   const spans = layoutCells(
-    placed.map((label) => (label.GetText() === "" ? undefined : label.GetTextWidth())),
+    placed.map((label) => (label.GetText() === "" ? 0 : label.GetTextWidth())),
     { edgePad: EDGE_PAD, minWidth: COLUMN_WIDTH, gap: COL_GAP }
   )
   placed.forEach((label, index) => {
     const span = spans[index]
     label.ClearAnchors()
-    if (span === undefined) {
+    if (span === undefined || !span.shown) {
       label.SetHidden(true)
       return
     }

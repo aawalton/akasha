@@ -20,7 +20,11 @@ export const hudAddonLayout = {
       decisionKind: "decision-kind/departure",
       statement: "A cell with no text takes no room on the bar.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cell with no text keeps its place in the list, so no cell after it is lost.",
+    },
   ],
   createdAt: "2026-10-08T19:00:30.132Z",
-  updatedAt: "2026-10-08T19:00:30.132Z",
+  updatedAt: "2026-10-28T15:03:41.205Z",
 } as const satisfies Module
