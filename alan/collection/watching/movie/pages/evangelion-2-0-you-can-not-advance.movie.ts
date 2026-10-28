@@ -11,9 +11,15 @@ export const evangelion20YouCanNotAdvance = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "22843", externalLink: "https://www.themoviedb.org/movie/22843" },
+    {
+      source: "tmdb",
+      externalId: "22843",
+      externalLink: "https://www.themoviedb.org/movie/22843",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Evangelion: 2.0 You Can (Not) Advance",
+  streamingOn: ["Amazon Prime Video", "Amazon Prime Video with Ads"],
   createdAt: "2026-10-28T18:45:24.348Z",
-  updatedAt: "2026-10-28T18:45:24.348Z",
+  updatedAt: "2026-10-28T19:47:02.840Z",
 } as const satisfies Movie
