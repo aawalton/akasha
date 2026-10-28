@@ -15,9 +15,11 @@ export const dragonBallSuperSuperHero = {
       source: "tmdb",
       externalId: "610150",
       externalLink: "https://www.themoviedb.org/movie/610150",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Dragon Ball Super: Super Hero",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:54:04.097Z",
-  updatedAt: "2026-10-28T18:54:04.097Z",
+  updatedAt: "2026-10-28T19:46:55.022Z",
 } as const satisfies Movie
