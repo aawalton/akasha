@@ -8,7 +8,7 @@ export const epicEngineeringFailuresAndTheLessonsTheyTeach = {
   status: "in-progress",
   unit: "unit/minutes",
   ownLength: 924.25,
-  ownProgress: 240.82,
+  ownProgress: 276.08,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/science-great-courses",
@@ -22,6 +22,6 @@ export const epicEngineeringFailuresAndTheLessonsTheyTeach = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-10-19T17:09:47.307Z",
-  progressedAt: "2026-10-19T17:09:47.307Z",
+  updatedAt: "2026-10-28T20:28:03.358Z",
+  progressedAt: "2026-10-28T20:28:03.358Z",
 } as const satisfies GreatCourse
