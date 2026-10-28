@@ -1,3 +1,4 @@
+import type { Decisions } from "akasha/domain/properties/decisions.record-property.types.ts"
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
 import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { BaseName } from "akasha/temper/catalog/skill/properties/base-name.text-property.types.ts"
@@ -31,4 +32,5 @@ export type TemperSkill = TemperCatalogThing & {
   hashPlace: HashPlace
   equations?: SkillEquations
   variants?: SkillVariants
+  decisions?: Decisions
 }

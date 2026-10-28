@@ -53,6 +53,7 @@ export const temperSkill = {
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "text-property/skill-equations", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/skill-variants", required: false, many: true, maxCount: null },
+    { pageProperty: "record-property/decisions", required: false, many: true, maxCount: null },
   ],
   types: "ts",
   schema: "jsonl",
@@ -61,5 +62,5 @@ export const temperSkill = {
     "temper/player/character/build/build-codec/modules/build-codec-v52-skill-pages/build-codec-v52-skill-pages.data-table.code.ts SKILL_PAGES_BEFORE_MINOR_10",
   ],
   createdAt: "2026-09-02T01:45:21.036Z",
-  updatedAt: "2026-10-21T13:36:02.348Z",
+  updatedAt: "2026-10-28T20:01:50.098Z",
 } as const satisfies PageType

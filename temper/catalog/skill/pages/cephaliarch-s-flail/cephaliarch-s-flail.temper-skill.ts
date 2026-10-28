@@ -20,12 +20,27 @@ export const cephaliarchSFlail = {
   skillType: "temper-skill-type/active",
   hashPlace: 194,
   createdAt: "2026-05-28T16:03:31.908Z",
-  updatedAt: "2026-10-28T20:01:23.733Z",
+  updatedAt: "2026-10-28T20:01:50.098Z",
   equations: [
     "<<1>> = 0.08625 MaxStat + 0.90562 MaxPower (Ultimate, Dmg, Physical, AOE, Direct, Melee, 0.3s cooldown, single precision)",
     "<<2>> = 3 seconds (Constant)",
     "<<3>> = 20 seconds (Constant)",
     "<<4>> = 0.04312258 MaxStat + 0.452809 MaxPower (Ultimate, Heal, SingleTarget, Direct, rank IV)",
     "<<5>> = 5% (Constant)",
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Every reading of the damage allows a stat coefficient from 0.086247 to 0.086255.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Every reading of the damage allows a power coefficient from 0.905618 to below 0.9056245.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "The damage takes 0.08625 and 0.90562, the shortest decimals inside those ranges.",
+    },
   ],
 } as const satisfies TemperSkill
