@@ -7,7 +7,7 @@ export const awenGiftedPaths = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [{ statement: "Using a Path is a fixed mechanical change made without a turn." }],
+  intentStack: [],
   createdAt: "2026-10-28T00:37:36.108Z",
-  updatedAt: "2026-10-28T01:52:46.956Z",
+  updatedAt: "2026-10-28T01:52:48.214Z",
 } as const satisfies Initiative
