@@ -8,7 +8,7 @@ const GEMS = {
   stackCount: 14998,
   maxStackSize: 200,
   quality: 1,
-  action: "fill",
+  action: "sell",
 } as const
 
 test("every count a checklist says is a count of stacks, and its total is called stacks", () => {
@@ -25,9 +25,9 @@ test("every count a checklist says is a count of stacks, and its total is called
             slotCount: 75,
           },
           {
-            venue: "backpack",
-            label: "Backpack",
-            actionGroups: [{ label: "Fill", items: [GEMS], slotCount: 75 }],
+            venue: "vendor",
+            label: "Merchant",
+            actionGroups: [{ label: "Sell", items: [GEMS], slotCount: 75 }],
             slotCount: 75,
           },
         ],
@@ -45,7 +45,7 @@ test("every count a checklist says is a count of stacks, and its total is called
     "",
     "[ ] 1. Belavierr",
     "    [ ] Bank — Withdraw 75",
-    "    [ ] Backpack — Fill 75",
+    "    [ ] Merchant — Sell 75",
     "",
   ])
 })

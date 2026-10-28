@@ -38,7 +38,6 @@ export const ACTION_OPTIONS: ActionOption[] = [
   { value: "sell", variant: "accent" },
   { value: "use", variant: "green" },
   { value: "open", variant: "green" },
-  { value: "fill", variant: "green" },
 ]
 
 export const SELL_ACTIONS: ReadonlySet<ItemAction> = new Set(["sell", "fence-sell", "list"])

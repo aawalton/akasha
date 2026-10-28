@@ -14,8 +14,7 @@ function gems(stackCount: number, maxStackSize?: number): PlanItem {
     stackCount,
     maxStackSize,
     quality: 1,
-    action: "fill",
-    note: "Fill",
+    action: "sell",
   }
 }
 

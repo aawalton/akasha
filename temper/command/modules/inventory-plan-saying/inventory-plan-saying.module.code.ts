@@ -45,8 +45,6 @@ function verbOf(action: ItemAction): string {
       return "use"
     case "open":
       return "open"
-    case "fill":
-      return "fill"
     case "nothing":
     case "lock":
     case "unlock":

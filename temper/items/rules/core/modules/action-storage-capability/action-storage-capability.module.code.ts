@@ -13,7 +13,6 @@ export function isBackpackRequiredAction(
   if (action === "fillet") return false
   if (action === "research") return false
   if (action === "use" && destination !== undefined) return false
-  if (action === "fill" && destination !== undefined) return false
   if (action === "nothing") return false
   return true
 }

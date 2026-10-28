@@ -18,10 +18,6 @@ export const inventoryManagementPlanRouteVenue = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A soul gem is filled in the field, so filling is planned from the backpack.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A plan's step words are plan phrase pages, their held titles first.",
     },
     {
@@ -30,5 +26,5 @@ export const inventoryManagementPlanRouteVenue = {
     },
   ],
   createdAt: "2026-09-02T08:51:47.594Z",
-  updatedAt: "2026-10-28T19:42:44.161Z",
+  updatedAt: "2026-10-28T21:13:33.607Z",
 } as const satisfies Module
