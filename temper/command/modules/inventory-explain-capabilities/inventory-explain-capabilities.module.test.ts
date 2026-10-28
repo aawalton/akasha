@@ -1,4 +1,5 @@
 import { beforeAll, describe, expect, test } from "bun:test"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import { holdRecipeCatalogFromCheckout } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.test-fixtures.ts"
 import {
   allBagItems,
@@ -13,6 +14,7 @@ import type {
 import { holdItemCategoryTreeFromCheckout } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 
+holdCompanionCatalogFromCheckout()
 holdRecipeCatalogFromCheckout()
 holdSkillCatalogFromCheckout()
 holdItemCategoryTreeFromCheckout()

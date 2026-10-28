@@ -1,3 +1,4 @@
+import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { loadRecipeCatalog } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog-loading/recipe-list-catalog-loading.module.code.ts"
 import { loadTemperCharactersFromPath } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import { loadTemperItemsConfigFromPath } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
@@ -52,6 +53,7 @@ export async function explainCapabilities(): Promise<ExplainCapabilities> {
     loadItemCategoryTree(),
     loadRecipeCatalog(),
     loadSkillCatalog(),
+    loadCompanionCatalog(),
   ])
   return {
     parseItemLink,
