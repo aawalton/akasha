@@ -24,9 +24,23 @@ export const onsetScaledBuff = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Such a buff listed with no power at its start gives nothing.",
+      statement: "Such a buff listed with no power at its start gives nothing to a stat.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A tooltip reading with no power at its start takes the share its own sheet shows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That share is the lowest damage bonus by type on the sheet, less the damage buffs known.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A share not above 0 or past the buff's cap is no share.",
     },
   ],
   createdAt: "2026-10-21T10:56:52.078Z",
-  updatedAt: "2026-10-21T10:56:52.078Z",
+  updatedAt: "2026-10-28T21:09:49.034Z",
 } as const satisfies Module

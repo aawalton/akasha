@@ -11,10 +11,15 @@ import {
   getWeaponTypeIdsForBar,
 } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
-import { onsetPercentByName } from "akasha/temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.code.ts"
+import {
+  onsetPercentByName,
+  type SheetRow,
+  sheetPercentByName,
+} from "akasha/temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.code.ts"
 import { healingDoneOfSkill } from "akasha/temper/player/character/stat/modules/scoped-healing/scoped-healing.module.code.ts"
 import {
   type ActiveHeld,
+  damageBuffPercentOf,
   type EquationStats,
   equationStatsOf,
   tooltipPairingOf,
@@ -230,6 +235,7 @@ type ReadingHeld = {
     readonly powerAtOnset?: Onset | undefined
   }[]
   readonly championPoints?: readonly { readonly championSkillId: number; readonly points: number }[]
+  readonly advancedSheet?: Readonly<Record<string, SheetRow>>
 }
 
 const POINTS_KEPT = [warMage, mighty]
@@ -237,10 +243,18 @@ const POINTS_KEPT = [warMage, mighty]
 function heldOfReading(
   reading: ReadingHeld
 ): Pick<TooltipCaseRead, "buffs" | "stacks" | "shares" | "championPoints"> {
-  const { activeBuffs, championPoints } = reading
+  const { activeBuffs, championPoints, advancedSheet } = reading
   const stacked = (activeBuffs ?? []).filter((one) => (one.stacks ?? 0) > 0)
+  const known = [...new Set((activeBuffs ?? []).map((one) => one.name))].reduce(
+    (sum, name) => sum + damageBuffPercentOf(name),
+    0
+  )
   const shared = (activeBuffs ?? []).flatMap((one) => {
-    const percent = onsetPercentByName(one.name, one.powerAtOnset)
+    const percent =
+      onsetPercentByName(one.name, one.powerAtOnset) ??
+      (one.powerAtOnset === undefined
+        ? sheetPercentByName(one.name, advancedSheet, known)
+        : undefined)
     return percent === undefined ? [] : [[one.name, percent] as const]
   })
   const pointsOf = (id: number) =>

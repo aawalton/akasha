@@ -203,6 +203,10 @@ const DAMAGE_BUFFS: Readonly<Record<string, number>> = {
   "Power of the Daedra": 10,
 }
 
+export function damageBuffPercentOf(name: string): number {
+  return DAMAGE_BUFFS[name] ?? 0
+}
+
 const LINE_DAMAGE_BUFFS: readonly {
   readonly buff: string
   readonly line: string

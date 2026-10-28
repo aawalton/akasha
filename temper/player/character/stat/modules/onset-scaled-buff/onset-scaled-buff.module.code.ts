@@ -27,6 +27,31 @@ export function onsetPercentByName(
   return percentOf(rule, onset)
 }
 
+export type SheetRow = {
+  readonly category?: string | undefined
+  readonly format?: string | undefined
+  readonly percent?: number | undefined
+}
+
+const DAMAGE_BONUSES = "Damage Bonuses"
+
+const BY_DAMAGE_TYPE = "flat-and-percent"
+
+export function sheetPercentByName(
+  name: string,
+  sheet: Readonly<Record<string, SheetRow>> | undefined,
+  known: number
+): number | undefined {
+  const rule = Object.values(ONSET_SCALED).find((one) => one.name === name)
+  if (rule === undefined || sheet === undefined) return undefined
+  const shown = Object.values(sheet)
+    .filter((row) => row.category === DAMAGE_BONUSES && row.format === BY_DAMAGE_TYPE)
+    .map((row) => row.percent ?? 0)
+  if (shown.length === 0) return undefined
+  const share = Math.min(...shown) - known
+  return share > 0 && share <= rule.capPercent ? share : undefined
+}
+
 export function atOnset(buff: EffectSource, onset: PowerAtOnset | undefined): EffectSource | null {
   const rule = ONSET_SCALED[buff.id]
   if (rule === undefined) return buff
