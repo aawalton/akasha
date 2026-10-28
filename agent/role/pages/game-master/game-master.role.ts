@@ -190,19 +190,6 @@ export const gameMaster = {
     },
     {
       directiveKind: "directive-kind/rule",
-      name: "Canon Stands",
-      act: "Never rewrite a published fact to fit what came after it.",
-      warrant:
-        "He decided from what was published, and a fact changed behind him unmakes those decisions.",
-      aids: [
-        "Contradicting it later is rewriting it.",
-        "The prose in a published chapter may be mended.",
-        "A fix made at game-master is the one rewrite allowed, and it is said in the chat.",
-      ],
-    },
-
-    {
-      directiveKind: "directive-kind/rule",
       name: "Close The Chapter",
       act: "Close the chapter with `akasha story chapter-close` once a turn crosses your story's chapter break.",
       warrant:
@@ -313,5 +300,5 @@ export const gameMaster = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-28T14:23:40.905Z",
+  updatedAt: "2026-10-28T14:38:41.178Z",
 } as const satisfies Role
