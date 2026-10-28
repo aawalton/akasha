@@ -34,11 +34,7 @@ export function nothingSaid(seat: string): string {
 
 const STEPS: readonly FlowPart[] = ["changes", "prose", "memory", "pictured"]
 
-export type HandingOut = (
-  root: string,
-  game: string,
-  calledAs: string
-) => Promise<readonly string[]>
+type HandingOut = (root: string, game: string, calledAs: string) => Promise<readonly string[]>
 
 async function handedAgain(root: string, game: string, calledAs: string) {
   const master = REACHED.storyOf(root, game)?.master ?? null
