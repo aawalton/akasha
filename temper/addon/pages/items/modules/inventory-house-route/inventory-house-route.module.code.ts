@@ -16,7 +16,7 @@ import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaratio
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-export interface VaultHouseCandidate {
+interface VaultHouseCandidate {
   readonly slotIndex: number
   readonly ruleIndex: number
   readonly chain: DestinationChain | undefined
@@ -24,7 +24,7 @@ export interface VaultHouseCandidate {
   readonly units: number
 }
 
-export interface VaultHouseWithdrawal {
+interface VaultHouseWithdrawal {
   readonly slotIndex: number
   readonly ruleIndex: number
   readonly house: number
