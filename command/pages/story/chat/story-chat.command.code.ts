@@ -48,11 +48,11 @@ const NO_SENDER = "`AGENT_ID` names no seat, so there is no seat to say it as, a
 
 const NO_BODY = "a message says something, and this names no `--body` or `--body-file`"
 
-export type Placed = { readonly page: string; readonly chat: string; readonly stated: boolean }
+type Placed = { readonly page: string; readonly chat: string; readonly stated: boolean }
 
-export type Placing = (root: string, story: string) => Placed | null
+type Placing = (root: string, story: string) => Placed | null
 
-export function chatAt(root: string, story: string): Placed | null {
+function chatAt(root: string, story: string): Placed | null {
   const listed = listedAt(root, storyPlayed.slug, story)[0]
   if (listed === undefined) return null
   const at = besideAt(listed.path, chat.propertySlug, HELD)
