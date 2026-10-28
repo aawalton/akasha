@@ -46,6 +46,10 @@ export const storyTurnCorrect = {
       decisionKind: "decision-kind/departure",
       statement: "Outcome lines handed in replace the turn's own, as many lines as it had.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A correction leaving a beat's line as it was writes no beats file.",
+    },
 
     {
       decisionKind: "decision-kind/departure",
@@ -103,5 +107,5 @@ export const storyTurnCorrect = {
     { argument: "argument/beat-event" },
   ],
   createdAt: "2026-10-28T15:26:39.416Z",
-  updatedAt: "2026-10-28T18:08:01.564Z",
+  updatedAt: "2026-10-28T18:08:55.894Z",
 } as const satisfies Command

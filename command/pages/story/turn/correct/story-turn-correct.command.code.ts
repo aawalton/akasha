@@ -303,9 +303,10 @@ async function heldOn(
   const prose = retold.text === null ? [] : [putting({ path: retold.at, content: retold.text })]
   const restated = { changes: now, memory, told: retold, event: asked.event }
   const body = beatsWritten(beatsAfter(beats, beat, restated))
+  const same = body === reach.textIn(root, beatsAt)
   const asking = [
     ...folded,
-    putting({ path: beatsAt, content: body }),
+    ...(same ? [] : [putting({ path: beatsAt, content: body })]),
     ...prose,
     ...rewritten,
     ...written(remembered.texts),
@@ -315,7 +316,7 @@ async function heldOn(
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   const said = retold.text === null ? [] : [`rewritten\t${retold.at}`]
   const outcomes = settled.text === null || settled.at === null ? [] : [`rewritten\t${settled.at}`]
-  const head = [`${slug}\tbeat ${beat}\tcorrected`, `rewritten\t${beatsAt}`]
+  const head = [`${slug}\tbeat ${beat}\tcorrected`, ...(same ? [] : [`rewritten\t${beatsAt}`])]
   return told([...head, ...said, ...outcomes, ...corrected.report, ...remembered.report])
 }
 
