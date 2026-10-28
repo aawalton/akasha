@@ -15,9 +15,10 @@ export const blackButlerBookOfMurder = {
       source: "tmdb",
       externalId: "511082",
       externalLink: "https://www.themoviedb.org/movie/511082",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Black Butler: Book of Murder",
   createdAt: "2026-10-28T18:49:35.132Z",
-  updatedAt: "2026-10-28T18:49:35.132Z",
+  updatedAt: "2026-10-28T19:46:42.031Z",
 } as const satisfies Movie
