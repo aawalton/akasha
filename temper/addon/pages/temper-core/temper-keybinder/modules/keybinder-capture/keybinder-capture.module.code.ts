@@ -3,6 +3,7 @@ import {
   hasBinding,
   keybindingsOfActionName,
 } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
+import { globalNumberNamed } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-casts/keybinder-casts.module.code.ts"
 import { KEYBINDER_STATE } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-state/keybinder-state.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-keybinder/keybinder-declarations/keybinder-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -14,7 +15,9 @@ const BINDING_NAME = "SI_BINDING_NAME_"
 function namingOf(this: void, ref: ActionRef, actionName: string): KeybindingNaming {
   const [layer] = GetActionLayerInfo(ref.layerIndex)
   const [category] = GetActionLayerCategoryInfo(ref.layerIndex, ref.categoryIndex)
-  return { title: GetString(BINDING_NAME, actionName), layer, category }
+  const nameId = globalNumberNamed(`${BINDING_NAME}${actionName}`)
+  const title = nameId === undefined ? undefined : GetString(nameId)
+  return { title, layer, category }
 }
 
 export function recordChange(this: void, ref: ActionRef): undefined {

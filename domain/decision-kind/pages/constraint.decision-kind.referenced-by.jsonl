@@ -722,6 +722,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-global/tweak-global.module.ts","id":"01a06115-1ac8-7d12-a18b-e1aa7e8aafeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-mass-delete/tweak-mail-mass-delete.module.ts","id":"01a06115-1acd-7d48-8f9d-df4974dd41b6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-capture/keybinder-capture.module.ts","id":"01a1848b-457f-7a40-ade3-81b78a7e60da"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/temper-keybinder.domain.ts","id":"01a0c714-5feb-711a-9cd3-b64a8d77564d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-keyboard/main-menu-keyboard.module.ts","id":"01a0605b-c803-7076-8256-6e18f678aa85"}

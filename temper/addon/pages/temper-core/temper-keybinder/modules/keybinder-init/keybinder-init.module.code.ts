@@ -65,8 +65,8 @@ function keepBindButtonEnabled(this: void): undefined {
 }
 
 function appliedOnLogin(this: void, rebound: number): undefined {
-  captureBindings()
   reportApplied(rebound)
+  captureBindings()
 }
 
 export function initialize(this: void): undefined {

@@ -9,6 +9,11 @@ export function asControl(value: unknown): Control {
   return value as Control
 }
 
+export function globalNumberNamed(name: string): number | undefined {
+  const held = (globalThis as Record<string, unknown>)[name]
+  return typeof held === "number" ? held : undefined
+}
+
 export function asConfigKeybindings(value: unknown): Record<string, ConfigKeybinding> {
   return value as Record<string, ConfigKeybinding>
 }

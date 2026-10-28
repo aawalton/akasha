@@ -18,7 +18,7 @@ export const keybinderInit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each login captures the character's bindings once they are applied.",
+      statement: "Each login says how many it set, then captures the character's bindings.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,5 +26,5 @@ export const keybinderInit = {
     },
   ],
   createdAt: "2026-09-02T19:03:40.225Z",
-  updatedAt: "2026-10-28T22:04:42.239Z",
+  updatedAt: "2026-10-28T22:19:04.362Z",
 } as const satisfies Module

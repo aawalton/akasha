@@ -33,7 +33,15 @@ export const keybinderCapture = {
       decisionKind: "decision-kind/departure",
       statement: "A hidden action is captured neither way.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's `GetString` takes a string id as a number, never an id's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An action whose name has no string id is captured with no title.",
+    },
   ],
   createdAt: "2026-10-28T22:04:42.239Z",
-  updatedAt: "2026-10-28T22:04:42.239Z",
+  updatedAt: "2026-10-28T22:19:04.362Z",
 } as const satisfies Module
