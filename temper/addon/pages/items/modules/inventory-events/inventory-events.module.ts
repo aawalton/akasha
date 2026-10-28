@@ -22,6 +22,10 @@ export const inventoryEvents = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Stacking the backpack at login is counted in the shared server action window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A slot the add-on changed at a bank is judged again as any other slot is.",
     },
     {
@@ -57,5 +61,5 @@ export const inventoryEvents = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.851Z",
-  updatedAt: "2026-10-28T20:23:03.295Z",
+  updatedAt: "2026-10-28T21:08:20.548Z",
 } as const satisfies Module

@@ -85,6 +85,7 @@ import {
 import { registerAutoListResultEvents } from "akasha/temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"
 import { registerVenueDispatchEvents } from "akasha/temper/addon/pages/items/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"
 import { invalidateScribingKnowledgeCache } from "akasha/temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
+import { noteServerAction } from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import { migrateLocksToTemperLocks } from "akasha/temper/addon/pages/items/modules/inventory-temper-lock-migrate/inventory-temper-lock-migrate.module.code.ts"
 import { closeBankWhenIdle } from "akasha/temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
@@ -152,7 +153,10 @@ function listenForBags(ns: string): undefined {
       }
       recordFullScan()
       if (getInventoryConfig().backpack?.autoStack !== false) {
-        zo_callLater(() => StackBag(BAG_BACKPACK), 500)
+        zo_callLater(function (this: void): undefined {
+          noteServerAction()
+          StackBag(BAG_BACKPACK)
+        }, 500)
       }
       zo_callLater(() => migrateLocksToTemperLocks(), 1500)
       zo_callLater(() => rescanInventory(), 2000)
