@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-init/housing-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-config-adopt/keybinder-config-adopt.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/world/quests/modules/quests-saved-variables/quests-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-strip/skill-morph-strip.module.code.ts","typed":false,"deferred":false}

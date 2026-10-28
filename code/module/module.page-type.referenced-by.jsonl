@@ -4528,6 +4528,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-fns/keybinder-binding-fns.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-casts/keybinder-casts.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-config-adopt/keybinder-config-adopt.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-constants/keybinder-constants.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-entry/keybinder-entry.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-filter/keybinder-filter.module.ts","typed":true,"deferred":false}

@@ -8,3 +8,7 @@ export function asVkScrollData(value: unknown): VkScrollData {
 export function asControl(value: unknown): Control {
   return value as Control
 }
+
+export function asConfigKeybindings(value: unknown): Record<string, ConfigKeybinding> {
+  return value as Record<string, ConfigKeybinding>
+}

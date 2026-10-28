@@ -18,6 +18,7 @@ export const temperKeybinder = {
     "module/keybinder-binding-fns",
     "module/keybinder-binding-utils",
     "module/keybinder-casts",
+    "module/keybinder-config-adopt",
     "module/keybinder-constants",
     "module/keybinder-entry",
     "module/keybinder-filter",
@@ -80,5 +81,5 @@ export const temperKeybinder = {
     },
   ],
   createdAt: "2026-09-22T03:06:36.395Z",
-  updatedAt: "2026-09-22T10:09:09.000Z",
+  updatedAt: "2026-10-28T22:00:20.506Z",
 } as const satisfies Domain
