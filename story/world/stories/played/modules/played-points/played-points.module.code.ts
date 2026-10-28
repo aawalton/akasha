@@ -31,7 +31,7 @@ const FALLBACK = "point"
 
 export type Point = { readonly label: string; readonly value: number }
 
-export type Pointed = {
+type Pointed = {
   readonly points: readonly Point[]
   readonly pages: ReadonlySet<string>
 }
