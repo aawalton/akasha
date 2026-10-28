@@ -81,7 +81,39 @@ export const giftedRebornNala = {
       fact: 'A flat voice in her, not the demon\'s or hers, said: "Status withheld. Mind too young to choose."',
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Her Status opens as words she reads in her mind, though she has no eyes to see with.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her Status shows no Name, a Locked Class, and no Skills in her three empty Skill slots.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her Body Features read Aether Core - Minor and Aether Channels - Weak.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her five Basic Attributes each read 100, and her one Affinity reads Shadow (Strong).",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Two Achievements open her Status: Defeat a Lesser Demon Prince while unborn; Consume another soul.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Consuming another soul grants her the Path of Soulstealing, a mutated Path, at 0 steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Slaying the Demon Prince unborn grants her the Path of the Completionist and 2 Unallocated Stats.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Soulstealing and the Completionist are her only Paths; no other Path has opened yet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:01:14.050Z",
+  updatedAt: "2026-10-28T00:04:29.662Z",
 } as const satisfies Lore
