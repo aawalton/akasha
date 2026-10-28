@@ -96,6 +96,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/session/modules/seat-bridge-session/seat-bridge-session.module.ts","id":"01a0d900-0f71-7159-9a2e-756c4af02fda"}
 {"propertySlug":"decision-kind","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.ts","id":"01a071f5-4e4d-79a8-aff6-911818ba3e7e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.ts","id":"01a0683e-3dbe-7020-aab5-a279b45af99d"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.ts","id":"01a069bd-bdc4-7370-ba29-d4c25882427e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.ts","id":"01a06838-5a84-7007-ad97-0d2824c6293d"}
 {"propertySlug":"decision-kind","path":"agent/seat/voice/modules/live/seat-voice-live.module.ts","id":"01a11b35-8c5b-72d4-8ea3-ddb274871642"}
 {"propertySlug":"decision-kind","path":"agent/seat/voice/seat-voice.domain.ts","id":"01a11b35-8c5b-79b0-9351-6ffc788b86f5"}

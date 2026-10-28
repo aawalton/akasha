@@ -183,6 +183,13 @@ async function relaunch(input: RelaunchInput, done: string[]): Promise<ResumedSe
   }
 }
 
+type Untaken = "relaunch" | "queued" | "refused"
+
+export function untakenRestart(now: boolean, live: boolean): Untaken {
+  if (!live) return "relaunch"
+  return now ? "refused" : "queued"
+}
+
 async function cycleInPlace(
   agentId: string,
   now: boolean,
@@ -193,16 +200,18 @@ async function cycleInPlace(
   await setRequestedAction(agentId, { action })
   done.push(`armed \`${action}\` on ${agentId}`)
   const outcome = await waitForActionCleared(agentId)
+  const name = seatRecord(agentId)?.name ?? agentId
   if (outcome.ok) {
     const status = now ? "restarted" : SELF_STATUS
     if (now) {
       await sweepSupersededAgentTrees(agentId, seatRecord(agentId)?.supervisorPid ?? undefined)
     }
-    const name = seatRecord(agentId)?.name ?? agentId
     return { kind: "cycled", agentId, name, status }
   }
 
-  if (!holdsLive(agentId)) return await relaunch(relaunchInput, done)
+  const untaken = untakenRestart(now, holdsLive(agentId))
+  if (untaken === "relaunch") return await relaunch(relaunchInput, done)
+  if (untaken === "queued") return { kind: "cycled", agentId, name, status: SELF_STATUS }
   throw operationalError(describeAckTimeout("restart", outcome.reason))
 }
 

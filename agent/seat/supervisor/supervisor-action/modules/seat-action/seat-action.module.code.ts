@@ -2,12 +2,15 @@ import {
   controlOf,
   setControl,
 } from "akasha/agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts"
+import { HEARTBEAT_INTERVAL_MS } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 
 const ACTION_PAGE_TYPE = "supervisor-action"
 
-const DEFAULT_TIMEOUT_MS = 30_000
+const TAKE_UP_GRACE_MS = 15_000
+
+export const TAKE_UP_MS = HEARTBEAT_INTERVAL_MS + TAKE_UP_GRACE_MS
 
 const DEFAULT_POLL_MS = 500
 
@@ -67,7 +70,7 @@ export async function waitForActionCleared(
   agentId: string,
   opts: { timeoutMs?: number; pollMs?: number } = {}
 ): Promise<ActionAckOutcome> {
-  const timeoutMs = opts.timeoutMs ?? DEFAULT_TIMEOUT_MS
+  const timeoutMs = opts.timeoutMs ?? TAKE_UP_MS
   const pollMs = opts.pollMs ?? DEFAULT_POLL_MS
   const deadline = Date.now() + timeoutMs
   while (true) {

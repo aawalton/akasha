@@ -6,7 +6,17 @@ export const seatResume = {
   slug: "seat-resume",
   definition: "a seat put back on the session it was bound to, live or stopped",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gated restart a live seat still holds after the wait is queued, not refused.",
+    },
+
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A restart-now a live seat has not taken up by the end of the wait is refused.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "Running this file calls the default export the file declares.",
@@ -69,5 +79,5 @@ export const seatResume = {
     },
   ],
   createdAt: "2026-09-04T00:21:47.520Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-28T01:19:55.522Z",
 } as const satisfies Module

@@ -1,7 +1,7 @@
 import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import { recordHeartbeat } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 
-const HEARTBEAT_INTERVAL_MS = 30_000
+export const HEARTBEAT_INTERVAL_MS = 30_000
 
 export interface HeartbeatPoll {
   readonly name: string

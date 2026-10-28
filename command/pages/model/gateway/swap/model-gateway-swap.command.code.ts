@@ -4,6 +4,7 @@ import { readProxyState } from "akasha/agent/seat/model-gateway/modules/seat-gat
 import {
   describeAckTimeout,
   setRequestedAction,
+  TAKE_UP_MS,
   waitForActionCleared,
 } from "akasha/agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
@@ -30,8 +31,6 @@ import { modelGatewaySwap as page } from "akasha/command/pages/model/gateway/swa
 const ACTION = "swap-gateway"
 
 const STAGGER_MS = 1_000
-
-const ACK_TIMEOUT_MS = 30_000
 
 type Taken = {
   readonly seat?: string
@@ -119,7 +118,7 @@ async function swapping(read: Taken, done: string[], seams: Seams): Promise<Answ
       [
         describeAckTimeout(ACTION, {
           agentId: found.id,
-          timeoutMs: ACK_TIMEOUT_MS,
+          timeoutMs: TAKE_UP_MS,
           lastRequestedAction: ACTION,
         }),
       ],
