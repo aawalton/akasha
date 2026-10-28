@@ -38,9 +38,9 @@ export const playedSidebarColumn = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A panel drawn in a sidebar is drawn flat rather than as a card.",
+      statement: "A panel drawn in a sidebar is a card one surface level above the sidebar.",
     },
   ],
   createdAt: "2026-10-27T20:01:16.453Z",
-  updatedAt: "2026-10-28T14:35:44.540Z",
+  updatedAt: "2026-10-28T18:22:07.608Z",
 } as const satisfies Module

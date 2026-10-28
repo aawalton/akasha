@@ -2,7 +2,7 @@
 
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { X } from "lucide-react"
 import { type KeyboardEvent, type PointerEvent, type ReactNode, useRef } from "react"
 
@@ -36,8 +36,10 @@ const HEAD = "flex h-12 shrink-0 items-center justify-between gap-2 border-prima
 
 const HEAD_TITLE = "font-medium text-primary text-sm"
 
+const RAISED = 1
+
 const BODY =
-  "flex min-h-0 flex-1 flex-col gap-4 overflow-y-auto overscroll-contain p-4 [scrollbar-width:none] **:data-[surface=1]:rounded-none **:data-[surface=1]:bg-transparent **:data-[surface=1]:px-0 **:data-[surface=1]:shadow-none"
+  "flex min-h-0 flex-1 flex-col gap-4 overflow-y-auto overscroll-contain p-4 [scrollbar-width:none]"
 
 const HANDLE =
   "absolute inset-y-0 z-10 w-1.5 cursor-col-resize touch-none transition-colors hover:bg-accent/40 focus-visible:bg-accent/40 focus-visible:outline-none"
@@ -126,10 +128,12 @@ export function SidebarColumn({
   return (
     <aside
       aria-label={label}
-      className={cn(SIDEBAR, side === "left" ? SIDEBAR_LEFT : SIDEBAR_RIGHT, surfaceClass(0))}
+      className={cn(SIDEBAR, side === "left" ? SIDEBAR_LEFT : SIDEBAR_RIGHT)}
       style={{ width }}
     >
-      <div className={BODY}>{children}</div>
+      <SurfaceProvider level={RAISED} className={BODY}>
+        {children}
+      </SurfaceProvider>
       <div
         role="separator"
         aria-orientation="vertical"

@@ -67,9 +67,9 @@ export const playedSidebars = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The column of turns sits one surface level above the page and the sidebars.",
+      statement: "The column of turns and the sidebars sit one surface level above the page.",
     },
   ],
   createdAt: "2026-10-27T18:38:10.173Z",
-  updatedAt: "2026-10-28T18:08:38.704Z",
+  updatedAt: "2026-10-28T18:22:07.608Z",
 } as const satisfies Module
