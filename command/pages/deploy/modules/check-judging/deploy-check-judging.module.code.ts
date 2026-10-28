@@ -94,7 +94,7 @@ type Judgement = {
 
 const REFUSES_EVERY: ReadonlySet<string> | null = null
 
-export type VerdictOf = () => Promise<Taken>
+type VerdictOf = () => Promise<Taken>
 
 export async function judgementOf(
   root: string,
