@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"outcomes.file-property.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"outcomes.file-property.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"outcomes.file-property.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"outcomes.file-property.types.ts","path":"story/world/stories/played/chapters/story-chapter-played.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"outcomes.file-property.types.ts","path":"story/world/stories/played/turns/story-turn-played.page-type.types.ts","typed":true,"deferred":false}

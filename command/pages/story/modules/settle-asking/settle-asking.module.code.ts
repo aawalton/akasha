@@ -10,11 +10,13 @@ import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record
 import { dice as diceArgument } from "akasha/command/argument/pages/dice.argument.ts"
 import { worldFor } from "akasha/command/modules/change-running/change-running.module.code.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
-
+import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { outcomes } from "akasha/story/world/stories/played/turns/properties/outcomes.file-property.ts"
 import { turnEndsAt } from "akasha/story/world/stories/played/turns/properties/turn-ends-at.instant-property.ts"
+import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const APPEND = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
 
@@ -208,6 +210,25 @@ export function keptOnly(page: string, drafting: string): string {
   return `\`${page}\`, which the answer adds to, is a page only in your kept edits, so settle with \`${drafting}\` or land that page first`
 }
 
+const OUTCOMES = exportedAs(outcomes.propertySlug)
+
+const OUTCOMES_STATED = new RegExp(`^\\s*${OUTCOMES}:`, "m")
+
+const DECLARED = `${fileProperty.slug}/${outcomes.slug}`
+
+function outcomesHeld(): string {
+  for (const one of storyTurnPlayed.properties) {
+    if (one.pageProperty !== DECLARED || !("default" in one)) continue
+    if (typeof one.default === "string") return one.default
+  }
+  return outcomes.extensions[0]
+}
+
+function statedFor(turn: string, turnText: string | null): readonly Asking[] {
+  if (turnText === null || OUTCOMES_STATED.test(turnText)) return []
+  return [{ at: ADD, given: { at: turn, key: OUTCOMES, value: JSON.stringify(outcomesHeld()) } }]
+}
+
 function timedFor(turn: string, endsAt: string, turnText: string | null): readonly Asking[] {
   if (turnText === null || turnText.includes(`${ENDS_AT}: ${JSON.stringify(endsAt)}`)) return []
   if (STATED.test(turnText)) return [{ at: RESTATE, given: { at: turn, key: ENDS_AT, to: endsAt } }]
@@ -215,26 +236,27 @@ function timedFor(turn: string, endsAt: string, turnText: string | null): readon
 }
 
 export function askedFor(
-  outcomes: string,
+  outcomesAt: string,
   turn: string,
   roll: Settled,
   turnText: string | null
 ): readonly Asking[] {
   const content = `${JSON.stringify(roll)}${BREAK}`
-  const appended: Asking = { at: APPEND, given: { at: outcomes, content } }
+  const appended: Asking = { at: APPEND, given: { at: outcomesAt, content } }
+  const stated = statedFor(turn, turnText)
   const endsAt = isRecord(roll.answered) ? roll.answered[ENDS_AT] : undefined
-  if (typeof endsAt !== "string") return [appended]
-  return [appended, ...timedFor(turn, endsAt, turnText)]
+  if (typeof endsAt !== "string") return [appended, ...stated]
+  return [appended, ...timedFor(turn, endsAt, turnText), ...stated]
 }
 
 export function linesAskedFor(
-  outcomes: string,
+  outcomesAt: string,
   turn: string,
   lines: readonly unknown[],
   endsAt: string,
   turnText: string | null
 ): readonly Asking[] {
   const content = lines.map((one) => `${JSON.stringify(one)}${BREAK}`).join("")
-  const appended: Asking = { at: APPEND, given: { at: outcomes, content } }
-  return [appended, ...timedFor(turn, endsAt, turnText)]
+  const appended: Asking = { at: APPEND, given: { at: outcomesAt, content } }
+  return [appended, ...timedFor(turn, endsAt, turnText), ...statedFor(turn, turnText)]
 }

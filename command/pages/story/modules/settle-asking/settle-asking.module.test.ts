@@ -15,6 +15,24 @@ const TURN = "turns/the-saga-00-002.story-turn-played.ts"
 
 const TIMED = { answered: { endsAt: "2026-09-28T11:27:00.000Z", day: 1 } }
 
+const STATED = `  outcomes: "jsonl",\n`
+
+test("a turn stating no outcomes is told it holds them as the turn's declaration defaults", () => {
+  const asked = askedFor(OUTCOMES, TURN, { answered: { total: 7 } }, `  slug: "the-saga-00-002",\n`)
+  expect(asked).toHaveLength(2)
+  expect(asked[1]?.at).toMatch(/\/add-page-property$/)
+  expect(asked[1]?.given).toEqual({ at: TURN, key: "outcomes", value: '"jsonl"' })
+})
+
+test("a turn stating its outcomes already is not told again", () => {
+  expect(askedFor(OUTCOMES, TURN, { answered: { total: 7 } }, STATED)).toHaveLength(1)
+})
+
+test("a montage's lines tell a turn stating no outcomes that it holds them", () => {
+  const asked = linesAskedFor(OUTCOMES, TURN, [{ session: 1 }], "2026-09-29T11:27:00.000Z", "")
+  expect(asked.at(-1)?.given).toEqual({ at: TURN, key: "outcomes", value: '"jsonl"' })
+})
+
 test("a roll answering no endsAt is appended to the outcomes and asks nothing of the turn", () => {
   const roll = { answered: { total: 7 } }
   const asked = askedFor(OUTCOMES, TURN, roll, null)
@@ -23,14 +41,14 @@ test("a roll answering no endsAt is appended to the outcomes and asks nothing of
 })
 
 test("a roll answering endsAt adds that instant to a turn stating none", () => {
-  const asked = askedFor(OUTCOMES, TURN, TIMED, `  slug: "the-saga-00-002",\n`)
+  const asked = askedFor(OUTCOMES, TURN, TIMED, `  slug: "the-saga-00-002",\n${STATED}`)
   expect(asked).toHaveLength(2)
   expect(asked[1]?.at).toMatch(/\/add-page-property$/)
   expect(asked[1]?.given).toEqual({ at: TURN, key: "endsAt", value: '"2026-09-28T11:27:00.000Z"' })
 })
 
 test("a roll answering endsAt restates the instant a turn states already", () => {
-  const asked = askedFor(OUTCOMES, TURN, TIMED, `  endsAt: "2026-09-28T11:15:00.000Z",\n`)
+  const asked = askedFor(OUTCOMES, TURN, TIMED, `  endsAt: "2026-09-28T11:15:00.000Z",\n${STATED}`)
   expect(asked).toHaveLength(2)
   expect(asked[1]?.at).toMatch(/\/change-page-page-property$/)
   expect(asked[1]?.given).toEqual({ at: TURN, key: "endsAt", to: "2026-09-28T11:27:00.000Z" })
@@ -55,7 +73,7 @@ test("every montage line before the turn's latest montage counts for nothing", (
 })
 
 test("a turn stating that instant already is asked nothing more", () => {
-  const text = `  endsAt: "2026-09-28T11:27:00.000Z",\n`
+  const text = `  endsAt: "2026-09-28T11:27:00.000Z",\n${STATED}`
   expect(askedFor(OUTCOMES, TURN, TIMED, text)).toHaveLength(1)
 })
 
