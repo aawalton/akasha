@@ -8,6 +8,7 @@ import type { CollectionTags } from "akasha/alan/collection/properties/collectio
 import type { CollectionType } from "akasha/alan/collection/properties/collection-type.relation-property.types.ts"
 import type { CollectionUnit } from "akasha/alan/collection/properties/collection-unit.relation-property.types.ts"
 import type { Following } from "akasha/alan/collection/properties/following.boolean-property.types.ts"
+import type { HeldStreamingOn } from "akasha/alan/collection/properties/held-streaming-on.computed-property.types.ts"
 import type { OwnLength } from "akasha/alan/collection/properties/own-length.number-property.types.ts"
 import type { OwnLengthInWords } from "akasha/alan/collection/properties/own-length-in-words.computed-property.types.ts"
 import type { OwnProgress } from "akasha/alan/collection/properties/own-progress.number-property.types.ts"
@@ -67,4 +68,5 @@ export type Collection = Page & {
   withinCollections?: WithinCollections
   partsStreamingOn?: PartsStreamingOn
   watchable?: Watchable
+  heldStreamingOn?: HeldStreamingOn
 }

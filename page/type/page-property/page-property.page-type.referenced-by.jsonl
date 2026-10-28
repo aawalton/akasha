@@ -37,6 +37,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/external/properties/external-identity.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/place/location-deal/properties/locations.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/collection-tags.text-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/held-streaming-on.computed-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/part-of-collections.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/parts-streaming-on.computed-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/within-collections.computed-property.types.ts","typed":true,"deferred":false}

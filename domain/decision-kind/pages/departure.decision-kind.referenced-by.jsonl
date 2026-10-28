@@ -617,6 +617,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/sync/sync.module.ts","id":"01a06579-f3d9-7007-b519-cafdb2cbafba"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/watching-queue/watching-queue.module.ts","id":"01a15002-1d5e-7b64-80b0-358ca1adf304"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/service-workstations/sync/great-courses-sync.service-workstation.ts","id":"01a06829-0194-71d6-8b3b-2687352034df"}
+{"propertySlug":"decision-kind","path":"alan/collection/modules/services-left/services-left.computed-property-module.ts","id":"01a1847f-d8d9-7c31-8dca-da3468ca4b24"}
 {"propertySlug":"decision-kind","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.ts","id":"01a0686c-fd2c-7002-a269-4f47fac2fd46"}
 {"propertySlug":"decision-kind","path":"alan/collection/place/location-collection/location-collection.page-type.ts","id":"01a06589-d12e-7daf-abd1-8fb5c89e9127"}
 {"propertySlug":"decision-kind","path":"alan/collection/place/location-deal/location-deal.page-type.ts","id":"01a06585-5fc5-715e-850c-9b88e5597728"}
@@ -627,6 +628,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/properties/collection-published-at.one-of-property.ts","id":"01a063de-2c60-700f-a1f5-3c8c3ba8a091"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/collection-tags.text-property.ts","id":"01a063de-2c60-7012-86a4-f75160a97d69"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/following.boolean-property.ts","id":"01a063de-2c60-700a-b99a-430529589ec1"}
+{"propertySlug":"decision-kind","path":"alan/collection/properties/held-streaming-on.computed-property.ts","id":"01a1847f-d8d9-7ed4-9900-1f700d5dd3ec"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/own-length.number-property.ts","id":"01a06553-4713-7000-832b-753158e3fec9"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/own-progress.number-property.ts","id":"01a06553-4713-7001-b03b-f1f7f97f1aa8"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/part-of-collections.multi-relation-property.ts","id":"01a063de-2c60-700b-8db4-bed38f86b940"}
