@@ -11,9 +11,15 @@ export const thePromisedNeverland = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "83097", externalLink: "https://www.themoviedb.org/tv/83097" },
+    {
+      source: "tmdb",
+      externalId: "83097",
+      externalLink: "https://www.themoviedb.org/tv/83097",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "The Promised Neverland",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "WeTV"],
   createdAt: "2026-10-28T18:52:32.130Z",
-  updatedAt: "2026-10-28T18:52:32.130Z",
+  updatedAt: "2026-10-28T19:46:23.665Z",
 } as const satisfies Show
