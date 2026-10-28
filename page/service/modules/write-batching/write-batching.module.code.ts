@@ -24,13 +24,13 @@ const AUTHORED = /^[^<>]+ <[^<>@\s]+@[^<>\s]+>$/
 
 const ID_LEAST = 16
 
-export const PUT = `${changeMechanicalFile.slug}/${addIfNotPresentFile.slug}` as const
+const PUT = `${changeMechanicalFile.slug}/${addIfNotPresentFile.slug}` as const
 
-export const TAKE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
+const TAKE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
-export const APPEND = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
+const APPEND = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
 
-export type Edit = Extract<Asking, { readonly at: typeof PUT | typeof TAKE | typeof APPEND }>
+type Edit = Extract<Asking, { readonly at: typeof PUT | typeof TAKE | typeof APPEND }>
 
 export function pathsIn(asked: Asked): readonly string[] {
   return [
