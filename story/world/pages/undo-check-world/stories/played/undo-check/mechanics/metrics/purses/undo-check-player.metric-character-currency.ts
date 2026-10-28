@@ -6,8 +6,8 @@ export const undoCheckPlayer = {
   slug: "undo-check-player",
   character: "character-player/undo-check-player",
   currency: "world-currency/undo-check-world-coin",
-  value: 18,
+  value: 16,
   minValue: 0,
   createdAt: "2026-10-28T15:03:47.724Z",
-  updatedAt: "2026-10-28T15:03:47.724Z",
+  updatedAt: "2026-10-28T15:05:06.135Z",
 } as const satisfies MetricCharacterCurrency
