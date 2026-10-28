@@ -153,7 +153,11 @@ export const giftedRebornNala = {
       fact: "Her Status reads: Affinity: Shadow (Strong); Paths: Soulstealing, Completionist.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "The Status words stay in her mind after reading, and its unspent stats are hers to place.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:19:03.284Z",
+  updatedAt: "2026-10-28T00:20:07.916Z",
 } as const satisfies Lore
