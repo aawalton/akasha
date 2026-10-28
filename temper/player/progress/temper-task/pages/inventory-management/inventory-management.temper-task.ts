@@ -7,7 +7,7 @@ export const inventoryManagement = {
   title: "Inventory Management",
   displayOrder: 13,
   completionCard: "temper-completion-category/tasks-inventory-management",
-  dueDate: "2026-10-31",
+  dueDate: "2026-10-28",
   rruleRule: "FREQ=WEEKLY;BYDAY=SA",
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
@@ -19,6 +19,6 @@ export const inventoryManagement = {
   lastCompletedAt: "2026-10-24T16:06:39.399Z",
   character: "temper-account-character/maviola-el",
   createdAt: "2026-09-26T18:09:57.459Z",
-  updatedAt: "2026-10-28T15:05:02.287Z",
+  updatedAt: "2026-10-28T20:57:51.816Z",
   effectiveCharacter: "temper-account-character/maviola-el",
 } as const satisfies TemperTask
