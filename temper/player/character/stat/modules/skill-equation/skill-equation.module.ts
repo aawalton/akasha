@@ -128,6 +128,10 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Power of the Daedra on the caster makes damage 10% stronger.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Damage reads the power the skill-power module grows from the build.",
     },
     {
@@ -253,5 +257,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-21T16:15:00.968Z",
+  updatedAt: "2026-10-28T20:06:22.670Z",
 } as const satisfies Module

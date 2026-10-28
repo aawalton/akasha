@@ -197,6 +197,7 @@ const DAMAGE_BUFFS: Readonly<Record<string, number>> = {
   "Minor Berserk": 5,
   Landslide: 1,
   "Standard of Might": 15,
+  "Power of the Daedra": 10,
 }
 
 const DAMAGE_PER_STACK: Readonly<Record<string, number>> = {
