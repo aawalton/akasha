@@ -11,9 +11,14 @@ export const fullmetalAlchemist = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "37863", externalLink: "https://www.themoviedb.org/tv/37863" },
+    {
+      source: "tmdb",
+      externalId: "37863",
+      externalLink: "https://www.themoviedb.org/tv/37863",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Fullmetal Alchemist",
   createdAt: "2026-10-28T18:42:52.863Z",
-  updatedAt: "2026-10-28T18:42:52.863Z",
+  updatedAt: "2026-10-28T19:44:23.244Z",
 } as const satisfies Show
