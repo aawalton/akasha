@@ -39,8 +39,14 @@ export interface SshResult {
   readonly code: number
 }
 
-function stdioFor(quiet: boolean | undefined): "inherit" | ["ignore", "ignore", "ignore"] {
-  return quiet === true ? ["ignore", "ignore", "ignore"] : "inherit"
+function stdioFor(quiet: boolean | undefined): "inherit" | ["ignore", "ignore", "pipe"] {
+  return quiet === true ? ["ignore", "ignore", "pipe"] : "inherit"
+}
+
+function rsyncRefusal(code: number | null, host: string, said: string): string {
+  const why = said.trim()
+  const exited = `rsync of the deploy script exited ${code} (host: ${host})`
+  return why === "" ? exited : `${exited}: ${why}`
 }
 
 function rsyncFileToHost(
@@ -62,6 +68,10 @@ function rsyncFileToHost(
       ],
       { stdio: stdioFor(quiet) }
     )
+    let said = ""
+    child.stderr?.on("data", (chunk: Buffer) => {
+      said += chunk.toString()
+    })
     child.on("error", (err: Error & { code?: string }) => {
       if (err.code === "ENOENT") {
         reject(new OperationalError("rsync not found on PATH"))
@@ -74,9 +84,7 @@ function rsyncFileToHost(
         resolve()
         return
       }
-      reject(
-        new OperationalError(`rsync of the deploy script exited ${code} (host: ${target.host})`)
-      )
+      reject(new OperationalError(rsyncRefusal(code, target.host, said)))
     })
   })
 }

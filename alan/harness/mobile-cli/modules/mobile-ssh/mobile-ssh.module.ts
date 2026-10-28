@@ -46,6 +46,10 @@ export const mobileSsh = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An rsync that fails is refused with what rsync said on stderr.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A named file reaches the host alone.",
     },
     {
@@ -54,5 +58,5 @@ export const mobileSsh = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-10-26T20:20:10.950Z",
+  updatedAt: "2026-10-28T16:03:27.796Z",
 } as const satisfies Module
