@@ -4203,11 +4203,6 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-practice.world-check.ts","id":"01a17ff1-398f-73e3-bd7e-a87a31f93187"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-time-passing.world-check.ts","id":"01a17edf-d61f-7574-9598-5df749060e23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.ts","id":"01a0e822-39b3-7bc0-be8e-4a7093388b67"}
-{"propertySlug":"decision-kind","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/checks/paths-probe-action-check.world-check.ts","id":"01a18008-7533-75a3-81f1-d63b43732b87"}
-{"propertySlug":"decision-kind","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/checks/paths-probe-time-passing.world-check.ts","id":"01a18008-7533-729c-90de-f4c01b8166dc"}
-{"propertySlug":"decision-kind","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/checks/paths-probe-training.world-check.ts","id":"01a18008-7533-78b2-b1f2-467a05c36a4f"}
-{"propertySlug":"decision-kind","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/checks/paths-probe-upkeep.world-check.ts","id":"01a18008-7533-728f-a383-b1c3014c3b14"}
-{"propertySlug":"decision-kind","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/metrics/resources/points/paths-probe-points.page-type.ts","id":"01a18008-7533-7ea8-a718-4fdfbbdaf697"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.ts","id":"01a17ede-ad87-7ec9-8f62-82b148152d82"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-time-passing.world-check.ts","id":"01a17eeb-58ce-70c9-8378-278e625a0e58"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.ts","id":"01a17eeb-58ce-7db2-b591-31fafaef9d7c"}

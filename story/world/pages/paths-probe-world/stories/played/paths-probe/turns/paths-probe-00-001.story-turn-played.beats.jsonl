@@ -1,7 +1,0 @@
-{"beat":1,"event":"The player looks over what they can do.","prose":"You look over what you can do."}
-{"beat":2,"event":"Swordplay is set aside at tier 2.","changes":[{"page":"character-skill/paths-probe-player-swordplay","note":"Swordplay set aside","key":"dormant","from":null,"to":true},{"page":"character-skill/paths-probe-player-swordplay","note":"Swordplay loses 19 toward its next tier","key":"experience","from":44,"to":25}]}
-{"beat":3,"event":"Swordplay is taken up again.","changes":[{"page":"character-skill/paths-probe-player-swordplay","note":"Swordplay taken up again","key":"dormant","from":true,"to":false}]}
-{"beat":4,"event":"Swordplay is set aside at tier 2.","changes":[{"page":"character-skill/paths-probe-player-swordplay","note":"Swordplay set aside","key":"dormant","from":false,"to":true}]}
-{"beat":5,"event":"Spark is taken up again.","changes":[{"page":"character-skill/paths-probe-player-spark","note":"Spark taken up again","key":"dormant","from":true,"to":false}]}
-{"beat":6,"event":"Spark is set aside at tier 1.","changes":[{"page":"character-skill/paths-probe-player-spark","note":"Spark set aside","key":"dormant","from":false,"to":true}]}
-{"beat":7,"event":"Swordplay is taken up again.","changes":[{"page":"character-skill/paths-probe-player-swordplay","note":"Swordplay taken up again","key":"dormant","from":true,"to":false}]}
