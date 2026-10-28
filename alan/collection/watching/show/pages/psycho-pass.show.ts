@@ -11,9 +11,20 @@ export const psychoPass = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "43865", externalLink: "https://www.themoviedb.org/tv/43865" },
+    {
+      source: "tmdb",
+      externalId: "43865",
+      externalLink: "https://www.themoviedb.org/tv/43865",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Psycho-Pass",
+  streamingOn: [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+  ],
   createdAt: "2026-10-28T18:51:45.135Z",
-  updatedAt: "2026-10-28T18:51:45.135Z",
+  updatedAt: "2026-10-28T19:45:38.903Z",
 } as const satisfies Show
