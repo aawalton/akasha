@@ -345,10 +345,6 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/paths-probe-world/places/paths-probe-world-hall.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/paths-probe-world/places/paths-probe-world-shop.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/paths-probe-world/places/paths-probe-world-square.place.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/probe-two-world/places/probe-two-world-cellar.place.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/probe-two-world/places/probe-two-world-hall.place.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/probe-two-world/places/probe-two-world-shop.place.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/probe-two-world/places/probe-two-world-square.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/salt-and-lamplight/places/salt-and-lamplight-morrow-head.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/salt-and-lamplight/places/salt-and-lamplight-penmorrow.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/sovereign-sight-progression-fantasy-cultivation/places/overwhere-ii-ashlin-farm.place.ts","typed":true,"deferred":false}
