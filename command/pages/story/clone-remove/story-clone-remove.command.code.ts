@@ -85,9 +85,9 @@ const KNOWERS = "knowers"
 
 const TAB = "\t"
 
-export type SeatHeld = { readonly name: string; readonly id: string }
+type SeatHeld = { readonly name: string; readonly id: string }
 
-export type Halting = (
+type Halting = (
   given: Given,
   agentId: string,
   name: string,
@@ -132,9 +132,9 @@ const INDEXED: Reach = {
   sweep: swept,
 }
 
-export type Unlisting = { readonly at: string; readonly value: string }
+type Unlisting = { readonly at: string; readonly value: string }
 
-export type Unknowing = {
+type Unknowing = {
   readonly at: string
   readonly key: string
   readonly fact: string
@@ -145,7 +145,7 @@ function quotedIn(said: string, named: ReadonlySet<string>): boolean {
   return [...named].some((one) => said.includes(JSON.stringify(one)))
 }
 
-export function unknowingIn(
+function unknowingIn(
   at: string,
   value: Value,
   clone: ReadonlySet<string>
@@ -171,7 +171,7 @@ export function unknowingIn(
   return quotedIn(JSON.stringify(left), clone) ? null : found
 }
 
-export type Plan = {
+type Plan = {
   readonly folder: string
   readonly seats: readonly SeatHeld[]
   readonly files: readonly string[]
@@ -195,7 +195,7 @@ function last(path: string): number {
   return path.endsWith(PAGE_TYPE_FILE) ? 1 : 0
 }
 
-export function planned(root: string, slug: string, reach: Reach): Plan | Refusing {
+function planned(root: string, slug: string, reach: Reach): Plan | Refusing {
   const storyPath = reach.storyAt(root, slug)
   if (storyPath === null) return { refused: `\`${slug}\` names no played story here`, code: DATA }
   const worldFolder = worldFolderOf(storyPath)
