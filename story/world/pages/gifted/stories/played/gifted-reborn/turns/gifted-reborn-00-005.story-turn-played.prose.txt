@@ -1,1 +1,6 @@
 You finish the twelves anyway, down the last rungs to zero, under the sound of them.
+
+:::status-assessment
+name: Path of Basic Numeracy
+note: Tier: 2; Mental: +1
+:::

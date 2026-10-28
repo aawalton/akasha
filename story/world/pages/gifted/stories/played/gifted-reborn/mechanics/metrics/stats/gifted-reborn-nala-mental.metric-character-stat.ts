@@ -5,11 +5,11 @@ export const giftedRebornNalaMental = {
   type: "page-type/metric-character-stat",
   slug: "gifted-reborn-nala-mental",
   character: "character-player/gifted-reborn-nala",
-  value: 101,
+  value: 102,
   minValue: 0,
   history: "jsonl",
   unrevealed: false,
   displayOrder: 4,
   createdAt: "2026-10-27T19:40:48.360Z",
-  updatedAt: "2026-10-28T00:46:21.318Z",
+  updatedAt: "2026-10-28T00:55:39.888Z",
 } as const satisfies MetricCharacterStat
