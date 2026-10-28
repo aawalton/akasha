@@ -19,8 +19,9 @@ export const temperEsoGenerate = {
     "command/temper-eso-generate-sandbox-library",
     "command/temper-eso-generate-strings",
     "module/capture-text",
+    "command/temper-eso-generate-antiquities",
   ],
   name: "generate",
   createdAt: "2026-09-07T13:38:05.608Z",
-  updatedAt: "2026-09-25T14:36:31.000Z",
+  updatedAt: "2026-10-28T16:52:34.857Z",
 } as const satisfies Namespace

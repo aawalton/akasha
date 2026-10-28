@@ -245,6 +245,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/build-show/modules/build-show-naming/build-show-naming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/combat-compare/temper-combat-compare.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/eso/generate/antiquities/temper-eso-generate-antiquities.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/set-text-compare/temper-set-text-compare.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/stat-compare/temper-stat-compare.command.code.ts","typed":false,"deferred":false}

@@ -342,6 +342,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/build-show/modules/build-show-gap-stats/build-show-gap-stats.module.ts","id":"01a15a05-8c5a-7a16-9357-17d69056dd72"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/catalog/import-skill-equations/temper-catalog-import-skill-equations.command.ts","id":"01a1403c-b1e2-7500-b70f-213de6b7ce0a"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.ts","id":"01a0d42e-c218-7a8e-b751-a43195410e2c"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/antiquities/temper-eso-generate-antiquities.command.ts","id":"01a1836d-83aa-7f0e-90c9-b1d6fa565801"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.ts","id":"01a0d3f9-447a-70e5-a076-3b6713b2e385"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.ts","id":"01a0cac9-1200-767b-9b5c-42427171acb4"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts","id":"01a0685d-f8fa-7755-9f01-412ee9b28025"}

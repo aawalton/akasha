@@ -57,6 +57,7 @@
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/temper/catalog/import-skill-equations/temper-catalog-import-skill-equations.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/temper/eso/generate/antiquities/temper-eso-generate-antiquities.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"page/service/modules/write-batching/write-batching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"page/service/modules/write-batching/write-batching.module.test.ts","typed":false,"deferred":false}
