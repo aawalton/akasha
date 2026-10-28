@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/new-build/new-build.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/persist15882-build-copy/persist15882-build-copy.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/persist15882-build/persist15882-build.character-build.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/stealth-justice-leveling/stealth-justice-leveling.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/sweep-test-char-copy/sweep-test-char-copy.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/sweep-test-char/sweep-test-char.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}
