@@ -47,7 +47,7 @@ export const probeTwoWorldSquare = {
     },
     {
       fact: "A wooden bucket sits on the rim of the square's well, its rope coiled beside it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/probe-two-player"],
     },
     {
       fact: "The bench beside the square's well is wooden.",
@@ -63,5 +63,5 @@ export const probeTwoWorldSquare = {
     },
   ],
   createdAt: "2026-10-27T23:43:53.894Z",
-  updatedAt: "2026-10-28T00:00:33.842Z",
+  updatedAt: "2026-10-28T00:01:21.905Z",
 } as const satisfies Place
