@@ -1,0 +1,155 @@
+Dear Diary,
+
+"Egalitarianism,Equality, Consequence,The first two require the third."- Tabitha Diaz, Doctrine of Tabitha, Book of Egalitarianism
+
+In the opening of the second Book of Values, the Book of Egalitarianism, Tabitha clarifies her perspective on Egalitarianism itself.While most who have not studied philosophy will equate 'Egalitarianism', the belief that all beings are of equal inherent moral value and ought be treated equally by society, with 'Equality', the idea that all beings are equal, Tabitha makes it clear that they are in fact two different things. While she does not clarify the difference or its meaning yet, it is clear that she does hold them to be separate things.Finally, in the final line of this first Verse on Egalitarianism, she makes it clear that Consequences, something not often seen as part and parcel of either one, are key to their existence. This implies that without Consequences, Egalitarianism is meaningless, as is Equality.- Priestess Most High Above All Others, Archmage Imperator Saffron Aetos-Diaz, Commentary on the Doctrine of Tabitha
+
+Yeah, I vaguely remember that. Fitting 'Egalitarianism' into a seven syllable meter kinda seared itself into my brain, because my accent doesn't pronounce it like that. Although to be fair it wasn't something I said out loud on the regular. Like a lot of other kids who read a lot, most of my vocabulary got picked up via books and context, which means in some cases I've got everything all fucked up. Don't ask me how I used to pronounce 'proprietor'. Let's just say for no good fuckin' reason, I thought it rhymed with puppeteer. I'm gonna blame old science fiction for that one and move on. No, I will not be explaining. Kinda embarrassing how much of that old crap I read, not to mention how much of my vocabulary wound up understandable by no one I've ever met.
+
+I dunno, maybe if I'd gotten into college, or even into the military, maybe I would have, but even my classmates in the Eastside Anime club didn't read nearly as much as I did. I liked the whole storytelling aspect, and for whatever reason liked Anime more than soap operas or WWE. Most of the other kids liked the big explosions or the gory shit. Which, to be honest, some of that was cool as shit, but you don't need to really talk about that, or discuss it. You just experience it. But I kinda like words.
+
+But yeah, Saffron's got it right. Equality isn't Egalitarianism, but both of them, especially Egalitarianism, are pointless without Consequences. If the powers that be say 'yeah, everybody's equally valuable', then never do jack shit about shit, it's just hot air. Good to know that I didn't completely baffle my Kitten with my bullshit in this one.
+
+So yesterday afternoon I wound up poking at the boxes I could see while Saffron tinkered with her code. Some of them really boggled me and always had. Like, how do you measure Personality? Sure as fuck aren't talking about length or depth or girth or circumference here, because Lachlan is big boi, but he's no way hundreds of times bigger than Carruthers. Then again, maybe Carruthers has high Personality and it's measuring something other than what I think it does.
+
+"Hey Kitten?"
+
+"Yes, love?"
+
+"What's with the different fonts and shit?" She made some interrogative Kitten noises, so I said, "some of the text is bold, some is italic, some is plain."
+
+"Oh. That. Bold text has additional information specific to the target of the Identify. Slant text has additional information regarding concepts, because it has come to my attention that all of those things are Common Knowledge."
+
+"Uh..."
+
+She snorted. "Meaning everyone thinks they know what those things mean, and thus no one teaches those things academically, thus everyone thinks they mean something different. Sometimes only slightly, but often in very meaningful ways."
+
+While I digested that truth brick, I thought about the whole scale thing. "Uh. Kitten?"
+
+"Yes, love?"
+
+"Why'd you go with that... is that even a logarithmic scale? Like, I don't remember that bit of math very well. Like, at all. Sorry."
+
+She paused a moment. "That's... unfortunate."
+
+I shrugged. "Yeah, I mean, I guess each multiple of ten is gonna just be a whole new tier of power, and I get that the granularity makes it easier to judge whether somebody's completely out of your league or some kind of super challenge, but..."
+
+She sighed. "The functional effect between Mana Empowered Titles and other alterations to base Attributes and Skills, not to mention Skills that enhance Skills, Attributes, or even Titles is most closely modeled by that."
+
+"You mean, like, somebody with an eight Strength who gets three points from a Title is, uh, twice as strong?"
+
+She nodded, her hands still moving. "Thereabouts."
+
+"Okay. Um. Any reason you used this display instead of scientific notation though?"
+
+She paused. "Scientific what now?"
+
+I Co-Located to M-Space, stole freshman level science textbooks until I found one that had a section on scientific notation, skimmed through to make sure I remembered it, then collapsed back into myself and laid the book onto our desk, open to that page.
+
+"Uh, this."
+
+She glanced at the page, then went totally still. "Tabitha."
+
+"Yeah, Kitten?"
+
+"Why didn't you mention this to me before?"
+
+I slumped. "You want a list?" When she didn't reply, just sat there glaring at the page, I said, "I mean, there are a lot of reasons. I'm kind of a dumbass, despite you not liking it when I say that. I'm not any kind of science or math whiz, just a kid from a shitty town with shitty schools who read a lot. I've had a shit ton on my plate, what with the whole, 'war, followed by more war, followed by amnesia, followed by throwing down with a God and the Mother of all Dragons, followed by sorting out Jack's whole deal, which apparently required manhandling a chunk of the continent back into position." I paused, realizing that I'd gotten a little worked up, not to mention why, as Saffron slumped against my tentacles. "Not to mention," I said softly. "I didn't know you needed to know."
+
+I felt a tear drip onto my hands. "I'm sorry, love."
+
+"Not your fault, Kitten. Not really either of our faults."
+
+"I am an Archmage. I am likely to be the first person in modern history to become a Legendary Archmage. I should have known this."
+
+I shook my head, picked her up and turned her around to face me. As I kissed her tears away, I murmured, "no, Kitten. You're one woman. One woman who is running our government, running our military, restructuring our entire fuckin' economy, negotiating with our neighbors, planning our future, and researching how to do something thousands of years of Archmagi haven't been able to do. To the point where most of them said it wasn't possible. And now you've done it."
+
+She snorted. "Done it? The interface doesn't even work properly. Okay, I don't know if it does, because you're not even looking at the proper interface."
+
+I shook my head. "Oh, so you just made all those numbers up?"
+
+Good lord, if looks could kill I'd be incinerated. "Excuse me."
+
+Don't look to me to save you from this. She scares me.
+
+Thanks, Dad. You're the best.
+
+I know.
+
+"So you're telling me the math is accurate?"
+
+"As far as it goes. I know there are things I'm not taking into account, because the model... glitches in edge cases."
+
+I thought about that for a second, surprising myself when I understood what she meant. "So, most of the time the numbers are right, but now and then they're off?"
+
+"More that the numbers are almost always slightly off, but by such a small amount that they round to what's displayed. Except in those edge cases I mentioned, where they're off by more than that."
+
+I nodded, picking up what she was putting down. "So you think that means you're missing something? Like your equations are modeling everything you know about, but you think there's shit you don't know about that's throwing things off?"
+
+She took a deep breath, let it out, then nodded. "Basically, yes. I mean, I worry that I'm deluding myself, and being right in almost all cases is simply blind random chance."
+
+I shook my head. "Nah. I mean, yeah, I guess that's possible, but I think it's just," I chuckled, then smiled into her renewed glare, saying, "like the Scientific Notation thing. We've all got blind spots, and you're looking for shit you've got no way to know exists. But if I'm right, that means your model is... correct, but just incomplete?"
+
+She shrugged. "Of course. I believe so at least."
+
+I blinked. "Wait. Edge cases. Have you tested any of this on people yet?"
+
+"Some. It takes a bit of Mana, and more than bit of concentration, but I can recreate the full Shape without any support."
+
+"Wow. Um. Wait, who did you test it on?"
+
+She shrugged again. "Paid Volunteers." When I tensed a little, she said, "It's a Divination, love. One I've tested here in the suite, on myself. As Status. But it does nothing to the Target save passively gather information and display it to me. In an absolute catastrophic failure case, it will melt my brain with some spectacular but harmless pyrotechnics."
+
+"But... I like your brain." I paused. "Wait, how were you... when were you doing this?"
+
+She chuckled. "I can Co-Locate and Shapeshift too, love. It's amazing how many laborers will gladly accept a day's pay to lift a few weights while I watch them and Shape Inspect. Which they were informed of and agreed to beforehand." She got a little sheepish. "I even paid the one who had to watch the pyrotechnics extra to pay for his bar tab."
+
+I snorted. "Chemical therapy at its finest." Then I head bunted her. "Take me with you when you do that from now on. Please?"
+
+She sighed. "I... I will, love. I feel a little trapped sometimes though. I'm a Phileo Hero, I couldn't have become one if all I ever wanted to do was hide in a fortress."
+
+"Okay. Well. Since my Kitten needs some enrichment exercises, but I'm not gonna let you go wandering on your own, I guess we'll both have to work on our Shapeshifting. Wait..." I had a thought. "You can be Captain Gars!" At her puzzled look, I said, "some mad lad who actually pulled off the 'royal who disguised themselves as a common soldier'. Fucker even got himself promoted to Captain."
+
+"Gars?"
+
+"Gustav Adolph Rex Sueciae. Gustav Adolph King of Sweden."
+
+She snorted. "Well, I shan't be using that. I am not a Gustav."
+
+We spent the rest of the afternoon with her tinkering with her UI while I told her stories that I remembered from my old History classes. Nothing special, just basic stuff, but then I wasn't really imparting information so much as giving her pleasant background noise. She needed it right then, I think.
+
+We went home, had our now normal buffet dinner, then went to bed. Mimic Dreams got a little wonky, because Saffron kept disappearing. After the third time I actually woke up and realized that she wasn't really asleep, but lying there awake, grumbling to herself. Decided right there and then that I needed to make sure that in particular didn't happen again.
+
+Today, at my insistence, we spent the morning designing our 'outing bodies'. Despite an enormous amount of whining and bribery by yours truly, she will not be going out in boy-mode, both because apparently her Mana flows differently or something, which screws with her Shaping, and because we'd never get anything done with her permanently socketed into me below the waist. I mean, she's not wrong, but you can't blame a girl for trying. We hadn't settled on an alias for her by lunch time, at which point I snagged her and went through the whole pit stop routine.
+
+"Not that I'm complaining, but do you really think I needed that on a day I haven't spent coding?"
+
+"That sounds an awful lot like a complaint."
+
+"What did? I didn't say anything. I swear it on my Goddess' virginity."
+
+Okay, she got me with that one. Kinda fun having some time alone with the Wife when neither of us is trying to save the world or anything like it.
+
+Near the end of the day, I said, "haven't you been away from the Council for a bit too long?"
+
+She shook her head, back to tinkering with her UI. "I've been back there since yesterday afternoon."
+
+I frowned and turned her to face me. "Without me guarding that body of yours?"
+
+Suddenly I had a me on my lap. "Of course you have been."
+
+"Didn't we just talk about this?"
+
+She rolled her eyes. "Okay, okay. Sorry, I've just been so excited lately."
+
+"You're proven six thousand years of Archmagi wrong, love. You've got reason to be."
+
+She shook her head and looked at me solemnly. Weird look on my face. Three of ten, would not look that way on purpose. "Not until testing is done I haven't."
+
+I snorted. "Testing the math, or testing the UI."
+
+"Oh, the Interface. The math is solid."
+
+I snorted. "So you're not satisfied by proving them all wrong, you have to make it cleaner and slicker than anything they've ever made, just to dunk on them?"
+
+So fun when I can get her to realize that I am, in fact, right once in a blue moon. Weird when she's wearing my body for the inevitable response, but at the end of the day, I think it's good for my self image.
