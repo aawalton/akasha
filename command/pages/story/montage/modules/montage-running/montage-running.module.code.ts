@@ -15,7 +15,7 @@ export type Checked = {
   readonly dice: string | null
 }
 
-export type Bounds = {
+type Bounds = {
   readonly sessions: number | null
   readonly until: string | null
   readonly crossing: string | null
@@ -33,9 +33,9 @@ export type Montage = {
   readonly place: number
 }
 
-export type Cast = { readonly stated: Readonly<Record<string, unknown>>; readonly roll: unknown }
+type Cast = { readonly stated: Readonly<Record<string, unknown>>; readonly roll: unknown }
 
-export type Answer = { readonly answered: unknown; readonly added: readonly Added[] }
+type Answer = { readonly answered: unknown; readonly added: readonly Added[] }
 
 export type Next = {
   readonly reading: Readonly<Record<string, unknown>>
@@ -49,9 +49,9 @@ export type Rules = {
   readonly next: (check: string, reading: unknown, answered: unknown) => Held<Next>
 }
 
-export type Line = Readonly<Record<string, unknown>>
+type Line = Readonly<Record<string, unknown>>
 
-export type Session = {
+type Session = {
   readonly session: number
   readonly from: string
   readonly endsAt: string
@@ -59,7 +59,7 @@ export type Session = {
   readonly left: string | null
 }
 
-export type Stop = "sessions" | "until" | "crossing" | "interrupted" | "left" | "refused" | "most"
+type Stop = "sessions" | "until" | "crossing" | "interrupted" | "left" | "refused" | "most"
 
 export type Ran = {
   readonly lines: readonly Line[]
