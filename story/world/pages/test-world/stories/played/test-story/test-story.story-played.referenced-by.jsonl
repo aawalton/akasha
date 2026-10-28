@@ -17,6 +17,7 @@
 {"propertySlug":"chapter-story","path":"story/world/pages/test-world/stories/played/test-story/chapters/test-story-0005-the-carter-at-midday.story-chapter-played.ts","id":"01a17fcf-1418-7ada-9b69-b04e26dc3e97"}
 {"propertySlug":"character-story","path":"story/world/pages/test-world/stories/played/test-story/characters/test-story-player.character-player.ts","id":"01a17ec6-0539-7d18-ad0a-73a0e374878e"}
 {"propertySlug":"cloned-from","path":"story/world/pages/probe-two-world/stories/played/probe-two/probe-two.story-played.ts","id":"01a17fbf-aff5-75ff-ac5a-0ca7d7ba0924"}
+{"propertySlug":"cloned-from","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/skill-lock-probe.story-played.ts","id":"01a17ff8-9a7f-78a8-9c5d-b48a943afb80"}
 {"propertySlug":"item-story","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-brass-token.story-item.ts","id":"01a17ec8-4446-73ce-b60a-aa518effccfd"}
 {"propertySlug":"item-story","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-copper-ore.story-item.ts","id":"01a17ec8-4446-799f-b800-9446dfbec17c"}
 {"propertySlug":"item-story","path":"story/world/pages/test-world/stories/played/test-story/items/test-story-player-healing-draught.story-item.ts","id":"01a17ec8-4447-726c-88ee-8957e9c93abf"}

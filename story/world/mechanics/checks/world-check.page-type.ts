@@ -24,6 +24,10 @@ export const worldCheck = {
     "world-check/probe-two-time-passing",
     "world-check/probe-two-training",
     "world-check/probe-two-upkeep",
+    "world-check/skill-lock-probe-action-check",
+    "world-check/skill-lock-probe-time-passing",
+    "world-check/skill-lock-probe-training",
+    "world-check/skill-lock-probe-upkeep",
   ],
   properties: [
     { pageProperty: "module-property-group/settling", required: false, many: false },
@@ -89,5 +93,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-28T00:43:06.801Z",
+  updatedAt: "2026-10-28T00:46:04.001Z",
 } as const satisfies PageType

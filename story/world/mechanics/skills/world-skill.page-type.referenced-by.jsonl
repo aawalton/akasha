@@ -47,6 +47,9 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/probe-two-world/mechanics/skills/probe-two-world-lockpicking.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/probe-two-world/mechanics/skills/probe-two-world-spark.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/probe-two-world/mechanics/skills/probe-two-world-swordplay.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/skill-lock-probe-world/mechanics/skills/skill-lock-probe-world-lockpicking.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/skill-lock-probe-world/mechanics/skills/skill-lock-probe-world-spark.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/skill-lock-probe-world/mechanics/skills/skill-lock-probe-world-swordplay.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/sovereign-sight-progression-fantasy-cultivation/mechanics/skills/overwhere-ii-undertow.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-a-temporal-instant.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-bounce-repeater.world-skill.ts","typed":true,"deferred":false}
