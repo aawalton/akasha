@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/operator-filter-control/operator-filter-control.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/page-card-properties/page-card-properties.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/page-filter-bar/page-filter-bar.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/page-filter-bar/page-filter-bar.module.test.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/page-list-section/page-list-section.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/page-size-picker/page-size-picker.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/page-system-shell/page-system-shell.module.code.tsx","typed":true,"deferred":false}

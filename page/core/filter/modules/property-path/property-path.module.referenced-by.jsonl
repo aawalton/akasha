@@ -6,5 +6,6 @@
 {"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui-store/query/modules/condition-eval/condition-eval.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui-store/query/modules/condition-expr/condition-expr.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui-store/query/modules/view-match/view-match.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui/component/modules/page-filter-bar/page-filter-bar.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/filter/page-core-filter.domain.ts","id":"01a071c6-08d9-7da0-83a9-8cc992a2b7ea"}

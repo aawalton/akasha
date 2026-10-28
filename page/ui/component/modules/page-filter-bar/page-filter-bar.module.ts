@@ -6,6 +6,7 @@ export const pageFilterBar = {
   slug: "page-filter-bar",
   definition: "The bar of filters above a listing of pages.",
   code: "tsx",
+  test: "tsx",
   createdAt: "2026-09-02T12:08:30.267Z",
-  updatedAt: "2026-09-15T18:36:57.000Z",
+  updatedAt: "2026-10-28T18:57:02.057Z",
 } as const satisfies Module

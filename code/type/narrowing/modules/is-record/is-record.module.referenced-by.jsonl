@@ -48,6 +48,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/page-filter-bar/page-filter-bar.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/synthetic-config/synthetic-config.module.code.ts","typed":false,"deferred":false}
