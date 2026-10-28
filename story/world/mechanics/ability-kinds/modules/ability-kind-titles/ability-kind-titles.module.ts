@@ -25,10 +25,22 @@ export const abilityKindTitles = {
       statement: "A skill is slotted where the kind it names states its active slots.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A new slotted ability is headed by its kind's title and Unlocked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tier an ability crosses is headed by its kind's title and Advanced.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The last tier its skill states is headed by its kind's title and Completed.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the store, so what is handed in is all that is read.",
     },
   ],
   createdAt: "2026-10-28T00:57:47.694Z",
-  updatedAt: "2026-10-28T14:00:14.652Z",
+  updatedAt: "2026-10-28T14:44:27.149Z",
 } as const satisfies Module

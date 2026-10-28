@@ -125,6 +125,13 @@ export function describedIn(note: string): { label: string; value: string }[] {
   })
 }
 
+const TIER = /^tier$/i
+
+export function tierIn(descriptors: readonly { label: string; value: string }[]): number | null {
+  const said = descriptors.find(({ label }) => TIER.test(label.trim()))
+  return said === undefined ? null : asNumber(said.value.trim())
+}
+
 const UNTOLD = /\b(?:rewards?|steps?)\b/i
 
 const QUALIFIER = /\s*\([^)]*\)\s*$/

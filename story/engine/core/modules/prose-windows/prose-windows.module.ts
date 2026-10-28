@@ -44,7 +44,11 @@ export const proseWindows = {
       statement:
         "Names are matched with any bracketed qualifier dropped, and the joined window keeps the qualifier.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window's tier is the number its Tier line states.",
+    },
   ],
   createdAt: "2026-09-24T16:45:13.902Z",
-  updatedAt: "2026-10-28T14:16:44.984Z",
+  updatedAt: "2026-10-28T14:44:27.149Z",
 } as const satisfies Module

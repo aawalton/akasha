@@ -5,6 +5,7 @@ import {
   joinedWindowsIn,
   proseWindowSegmentsIn,
   slottedWindowOf,
+  tierIn,
   windowOf,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 
@@ -219,4 +220,10 @@ test("windows naming one ability, one with a qualifier, join under the qualified
       },
     },
   ])
+})
+
+test("a window's tier is its Tier line, and a tier's threshold line is none", () => {
+  expect(tierIn(describedIn("Tier: 2; Mental: +1"))).toBe(2)
+  expect(tierIn(describedIn("Tier 1: 10 steps; Reward: more"))).toBeNull()
+  expect(tierIn(describedIn("Class: Enthraller"))).toBeNull()
 })

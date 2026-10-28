@@ -4,6 +4,7 @@ import { exportedAs } from "akasha/page/modules/export-name/page-export-name.mod
 import { activeSlots } from "akasha/story/world/mechanics/ability-kinds/properties/active-slots.number-property.ts"
 import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
 import { abilityKind } from "akasha/story/world/mechanics/skills/properties/ability-kind.relation-property.ts"
+import { skillTierSteps } from "akasha/story/world/mechanics/skills/properties/skill-tier-steps.number-property.ts"
 
 type Values = Readonly<Record<string, unknown>>
 
@@ -80,4 +81,38 @@ export function worldAbilitiesOf(
     abilityKinds: abilityKindTitlesOf(skills, kinds),
     slottedAbilities: slottedTitlesOf(skills, kinds),
   }
+}
+
+export const TIER_STEPS_KEY = exportedAs(skillTierSteps.propertySlug)
+
+const DEFAULT_KIND_TITLE = "Skill"
+
+export type HeldAbility = {
+  readonly kind: string
+  readonly slotted: boolean
+  readonly tierSteps: readonly number[]
+}
+
+export function heldAbilityOf(
+  title: string,
+  skills: readonly Values[],
+  kinds: readonly Values[]
+): HeldAbility | null {
+  const skill = skills.find((one) => textIn(one[TITLE_KEY]) === title)
+  if (skill === undefined) return null
+  const tiers = skill[TIER_STEPS_KEY]
+  return {
+    kind: abilityKindTitlesOf(skills, kinds).get(title) ?? DEFAULT_KIND_TITLE,
+    slotted: slottedTitlesOf(skills, kinds).has(title),
+    tierSteps: Array.isArray(tiers) ? tiers.filter((one) => typeof one === "number") : [],
+  }
+}
+
+export function unlockedHeadingOf(ability: HeldAbility): string {
+  return ability.slotted ? `${ability.kind} Unlocked` : ability.kind
+}
+
+export function crossedHeadingOf(ability: HeldAbility, tier: number): string {
+  const last = ability.tierSteps.length
+  return `${ability.kind} ${last > 0 && tier >= last ? "Completed" : "Advanced"}`
 }

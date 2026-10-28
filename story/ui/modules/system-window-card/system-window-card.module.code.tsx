@@ -4,6 +4,7 @@ import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surfa
 import type { Asked } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
 import {
   abilityTitleIn,
+  tierIn,
   toldIn,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import type {
@@ -22,10 +23,13 @@ import {
   ABILITY_KIND_KEY,
   ACTIVE_SLOTS_KEY,
   abilityKindSlugsIn,
-  abilityKindTitlesOf,
+  crossedHeadingOf,
+  type HeldAbility,
+  heldAbilityOf,
   SLUG_KEY,
-  slottedTitlesOf,
+  TIER_STEPS_KEY,
   TITLE_KEY,
+  unlockedHeadingOf,
 } from "akasha/story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts"
 import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
@@ -93,11 +97,18 @@ function QuestWindowCard({
 }
 
 function StatusAssessmentCard({ assessment }: { assessment: StatusAssessment }) {
-  const slotted = useSlotted(assessment.name)
-  const descriptors =
-    slotted === false ? assessment.descriptors : toldIn(assessment.descriptors ?? [])
+  const held = useHeldAbility(assessment.name)
+  const all = assessment.descriptors ?? []
+  const descriptors = held === null || held?.slotted === false ? all : toldIn(all)
+  const tier = tierIn(all)
+  const banner =
+    held === undefined
+      ? UNSETTLED
+      : held === null || tier === null
+        ? STATUS
+        : crossedHeadingOf(held, tier)
   return (
-    <WindowFrame banner="Status Assessment" bannerClass="text-accent">
+    <WindowFrame banner={banner} bannerClass="text-accent">
       <div className="flex items-baseline justify-between gap-2">
         <span className="font-mono font-semibold text-[14px] text-primary">{assessment.name}</span>
         {assessment.level != null ? (
@@ -180,7 +191,7 @@ function LevelUpCard({ level, attrPoints }: { level: number; attrPoints?: number
 
 const SKILL = "Skill"
 
-const UNLOCKED = " Unlocked"
+const STATUS = "Status Assessment"
 
 const UNSETTLED = " "
 
@@ -188,90 +199,53 @@ function valuesOf(asked: Asked): readonly Readonly<Record<string, unknown>>[] {
   return asked.ok ? asked.answer.rows.map((row) => row.values) : []
 }
 
-async function abilityKindTitleOf(skill: string): Promise<string> {
-  const skills = valuesOf(
-    await askedLoudly({
-      "page-type": worldSkill.slug,
-      where: { title: { is: skill } },
-      keys: [TITLE_KEY, ABILITY_KIND_KEY],
-    })
-  )
-  const slugs = abilityKindSlugsIn(skills)
-  if (slugs.length === 0) return SKILL
-  const kinds = valuesOf(
-    await askedLoudly({
-      "page-type": worldAbilityKind.slug,
-      where: { slug: { in: [...slugs] } },
-      keys: [SLUG_KEY, TITLE_KEY, ACTIVE_SLOTS_KEY],
-    })
-  )
-  const title = abilityKindTitlesOf(skills, kinds).get(skill) ?? SKILL
-  return slottedTitlesOf(skills, kinds).has(skill) ? `${title}${UNLOCKED}` : title
-}
-
-function useAbilityKindTitle(skill: string): string | null {
-  const [title, setTitle] = useState<string | null>(null)
-  useEffect(() => {
-    let alive = true
-    void abilityKindTitleOf(skill)
-      .catch((thrown: unknown) => {
-        reportThrown(`reading the ability kind of ${skill}`, thrown)
-        return SKILL
-      })
-      .then((said) => {
-        if (alive) setTitle(said)
-      })
-    return () => {
-      alive = false
-    }
-  }, [skill])
-  return title
-}
-
-async function slottedIs(name: string): Promise<boolean> {
+async function heldAbilityNamed(name: string): Promise<HeldAbility | null> {
   const title = abilityTitleIn(name)
   const skills = valuesOf(
     await askedLoudly({
       "page-type": worldSkill.slug,
       where: { title: { is: title } },
-      keys: [TITLE_KEY, ABILITY_KIND_KEY],
+      keys: [TITLE_KEY, ABILITY_KIND_KEY, TIER_STEPS_KEY],
     })
   )
   const slugs = abilityKindSlugsIn(skills)
-  if (slugs.length === 0) return false
-  const kinds = valuesOf(
-    await askedLoudly({
-      "page-type": worldAbilityKind.slug,
-      where: { slug: { in: [...slugs] } },
-      keys: [SLUG_KEY, ACTIVE_SLOTS_KEY],
-    })
-  )
-  return slottedTitlesOf(skills, kinds).has(title)
+  const kinds =
+    slugs.length === 0
+      ? []
+      : valuesOf(
+          await askedLoudly({
+            "page-type": worldAbilityKind.slug,
+            where: { slug: { in: [...slugs] } },
+            keys: [SLUG_KEY, TITLE_KEY, ACTIVE_SLOTS_KEY],
+          })
+        )
+  return heldAbilityOf(title, skills, kinds)
 }
 
-function useSlotted(name: string): boolean | null {
-  const [slotted, setSlotted] = useState<boolean | null>(null)
+function useHeldAbility(name: string): HeldAbility | null | undefined {
+  const [held, setHeld] = useState<HeldAbility | null | undefined>(undefined)
   useEffect(() => {
     let alive = true
-    void slottedIs(name)
+    void heldAbilityNamed(name)
       .catch((thrown: unknown) => {
-        reportThrown(`reading whether ${name} holds a slot`, thrown)
-        return true
+        reportThrown(`reading the ability ${name}`, thrown)
+        return null
       })
       .then((said) => {
-        if (alive) setSlotted(said)
+        if (alive) setHeld(said)
       })
     return () => {
       alive = false
     }
   }, [name])
-  return slotted
+  return held
 }
 
 function SkillCard({ skill, rank }: { skill: string; rank?: string }) {
-  const abilityKind = useAbilityKindTitle(skill)
+  const held = useHeldAbility(skill)
+  const banner = held === undefined ? UNSETTLED : held === null ? SKILL : unlockedHeadingOf(held)
   return (
-    <WindowFrame banner={abilityKind ?? UNSETTLED} bannerClass="text-accent">
+    <WindowFrame banner={banner} bannerClass="text-accent">
       <div className="font-mono font-semibold text-[14px] text-primary">{skill}</div>
       {rank != null && rank !== "" ? <CardField label="Rank" value={rank} /> : null}
     </WindowFrame>

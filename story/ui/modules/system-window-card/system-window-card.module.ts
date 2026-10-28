@@ -34,7 +34,11 @@ export const systemWindowCard = {
       statement:
         "A status card holds back a reward and steps until its name is read as no such ability.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A status card stating an ability's tier is headed as that tier's crossing.",
+    },
   ],
   createdAt: "2026-09-02T17:25:53.928Z",
-  updatedAt: "2026-10-28T14:08:12.235Z",
+  updatedAt: "2026-10-28T14:44:27.149Z",
 } as const satisfies Module
