@@ -11,6 +11,7 @@ export const irisReviewerOutcomeCardsCheckFlex4 = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "db807d66-eb2c-42d6-93dc-eb75132427ab",
   createdAt: "2026-10-28T01:37:33.365Z",
-  updatedAt: "2026-10-28T01:37:33.365Z",
+  updatedAt: "2026-10-28T01:37:37.194Z",
 } as const satisfies Seat
