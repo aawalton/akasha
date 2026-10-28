@@ -15,9 +15,11 @@ export const theLastNarutoTheMovie = {
       source: "tmdb",
       externalId: "317442",
       externalLink: "https://www.themoviedb.org/movie/317442",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "The Last: Naruto the Movie",
+  streamingOn: ["The Roku Channel"],
   createdAt: "2026-10-28T18:42:48.617Z",
-  updatedAt: "2026-10-28T18:42:48.617Z",
+  updatedAt: "2026-10-28T19:48:26.039Z",
 } as const satisfies Movie
