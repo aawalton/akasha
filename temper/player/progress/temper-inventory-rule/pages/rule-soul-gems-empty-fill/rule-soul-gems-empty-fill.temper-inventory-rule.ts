@@ -15,8 +15,8 @@ export const ruleSoulGemsEmptyFill = {
   displayOrder: 59,
   action: "temper-item-action/fill",
   active: true,
-  ruleChangedAt: "2026-10-28T18:50:00.000Z",
+  ruleChangedAt: "2026-10-28T18:35:05.561Z",
   locked: true,
   createdAt: "2026-09-05T17:08:55.279Z",
-  updatedAt: "2026-10-28T18:35:05.561Z",
+  updatedAt: "2026-10-28T18:36:00.810Z",
 } as const satisfies TemperInventoryRule

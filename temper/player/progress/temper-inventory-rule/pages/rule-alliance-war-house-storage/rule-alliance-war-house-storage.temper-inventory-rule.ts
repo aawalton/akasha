@@ -14,8 +14,8 @@ export const ruleAllianceWarHouseStorage = {
   displayOrder: 72,
   action: "temper-item-action/move-to",
   active: true,
-  ruleChangedAt: "2026-10-28T18:40:00.000Z",
+  ruleChangedAt: "2026-10-28T18:26:36.422Z",
   locked: true,
   createdAt: "2026-09-05T17:08:31.568Z",
-  updatedAt: "2026-10-28T18:26:36.422Z",
+  updatedAt: "2026-10-28T18:36:00.810Z",
 } as const satisfies TemperInventoryRule
