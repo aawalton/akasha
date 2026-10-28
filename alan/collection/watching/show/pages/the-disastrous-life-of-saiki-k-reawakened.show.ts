@@ -11,9 +11,15 @@ export const theDisastrousLifeOfSaikiKReawakened = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "97009", externalLink: "https://www.themoviedb.org/tv/97009" },
+    {
+      source: "tmdb",
+      externalId: "97009",
+      externalLink: "https://www.themoviedb.org/tv/97009",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "The Disastrous Life of Saiki K.: Reawakened",
+  streamingOn: ["Netflix", "Netflix Standard with Ads"],
   createdAt: "2026-10-28T18:54:46.226Z",
-  updatedAt: "2026-10-28T18:54:46.226Z",
+  updatedAt: "2026-10-28T19:46:20.370Z",
 } as const satisfies Show
