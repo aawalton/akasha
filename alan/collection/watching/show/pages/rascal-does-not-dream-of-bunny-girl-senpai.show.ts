@@ -11,9 +11,15 @@ export const rascalDoesNotDreamOfBunnyGirlSenpai = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "82739", externalLink: "https://www.themoviedb.org/tv/82739" },
+    {
+      source: "tmdb",
+      externalId: "82739",
+      externalLink: "https://www.themoviedb.org/tv/82739",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Rascal Does Not Dream of Bunny Girl Senpai",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:46:18.219Z",
-  updatedAt: "2026-10-28T18:46:18.219Z",
+  updatedAt: "2026-10-28T19:45:43.584Z",
 } as const satisfies Show
