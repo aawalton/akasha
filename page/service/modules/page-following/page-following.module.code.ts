@@ -28,6 +28,7 @@ import {
   type Target,
 } from "akasha/page/service/modules/follow-planning/follow-planning.module.code.ts"
 import { marked } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
+import { keptHearingFor } from "akasha/page/service/modules/kept-hearing/kept-hearing.module.code.ts"
 import type { Reads } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
 import {
   type Readers,
@@ -226,6 +227,10 @@ export function followingFor(
   const epoch = crypto.randomUUID()
   let mark = 0
   let recent: Sent[] = []
+  const keptHearing = keptHearingFor((one, path) => {
+    for (const each of changesFor(one, path, readers)) changed(each)
+    return undefined
+  })
 
   const trimmed = (now: number): undefined => {
     const kept = recent.findIndex((one) => one.at >= now - RECENT_MS)
@@ -321,40 +326,36 @@ export function followingFor(
         return undefined
       })
     }
-    for (const [folder, names] of planned.read) {
-      hear(folder, (name) => {
-        const heard = join(folder, name)
-        for (const at of [...(names.get(name) ?? []), ...(names.get(null) ?? [])]) {
-          for (const one of planned.aimed.get(at) ?? [])
-            for (const each of changesFor(one, heard, readers)) changed(each)
-        }
-        return undefined
-      })
-    }
     for (const [folder, names] of planned.keeping) {
       hear(folder, (name) => (names.has(name) ? planSoon() : undefined))
     }
     hearing = wanted
+    keptHearing.again(planned.read, planned.aimed)
     for (const [folder, watcher] of watchers) {
-      if (wanted.has(folder)) continue
+      if (wanted.has(folder) || keptHearing.holds(folder)) continue
       watcher.close()
       watchers.delete(folder)
     }
-    for (const folder of wanted.keys()) {
-      if (watchers.has(folder)) continue
-      try {
-        const watcher = watch(folder, (_, name) => {
-          if (typeof name !== "string" || name === "") return
-          const named = nameHeard(name)
-          for (const heard of hearing.get(folder) ?? []) heard(named)
-        })
-        watcher.on("error", () => {
-          watcher.close()
-          watchers.delete(folder)
-        })
-        watchers.set(folder, watcher)
-      } catch {}
-    }
+    for (const folder of wanted.keys()) watched(folder)
+    for (const folder of keptHearing.folders()) watched(folder)
+    return undefined
+  }
+
+  const watched = (folder: string): undefined => {
+    if (watchers.has(folder)) return undefined
+    try {
+      const watcher = watch(folder, (_, name) => {
+        if (typeof name !== "string" || name === "") return
+        const named = nameHeard(name)
+        for (const heard of hearing.get(folder) ?? []) heard(named)
+        keptHearing.heard(folder, named)
+      })
+      watcher.on("error", () => {
+        watcher.close()
+        watchers.delete(folder)
+      })
+      watchers.set(folder, watcher)
+    } catch {}
     return undefined
   }
 

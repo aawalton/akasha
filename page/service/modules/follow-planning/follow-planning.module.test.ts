@@ -7,6 +7,7 @@ test("a plan made again over the same kept files hears them without indexing the
   const kinds = new Set(["story-played"])
   const whole = plannedFor(root, [{ key: "stories", kinds, slugs: null }])
   const named = plannedFor(root, [{ key: "story", kinds, slugs: new Set(["one"]) }])
-  expect(named.read === whole.read).toBe(true)
+  expect(named.read.size).toBe(whole.read.size)
+  expect([...named.read].every(([at, heard]) => whole.read.get(at) === heard)).toBe(true)
   expect([...named.aimed.values()].flat().map((one) => one.slugs)).not.toContain(null)
 })

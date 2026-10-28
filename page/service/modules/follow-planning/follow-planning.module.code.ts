@@ -40,12 +40,12 @@ export type Target = {
   readonly computed: string
 }
 
-type Aimed = ReadonlyMap<string, ReadonlyMap<string | null, readonly string[]>>
+export type KeptHeard = ReadonlyMap<string, ReadonlySet<string | null>>
 
 export type Planned = {
   readonly pages: ReadonlySet<string>
   readonly listed: ReadonlyMap<string, string>
-  readonly read: Aimed
+  readonly read: ReadonlyMap<string, KeptHeard>
   readonly aimed: ReadonlyMap<string, readonly Target[]>
   readonly keeping: ReadonlyMap<string, ReadonlySet<string>>
 }
@@ -123,38 +123,19 @@ function keepsOf(
 
 type Aim = { readonly kept: Kept; readonly targets: Target[]; readonly kinds: Set<string> }
 
-type Indexed = {
-  readonly root: string
-  readonly ats: readonly string[]
-  readonly kepts: readonly Kept[]
-  readonly read: Aimed
-}
+const HEARD = new WeakMap<Kept, KeptHeard>()
 
-let indexed: Indexed | null = null
-
-function sameEach<T>(one: readonly T[], two: readonly T[]): boolean {
-  return one.length === two.length && one.every((each, at) => each === two[at])
-}
-
-function aimedOver(root: string, aims: ReadonlyMap<string, Aim>): Aimed {
-  const ats = [...aims.keys()]
-  const kepts = [...aims.values()].map((one) => one.kept)
-  const last = indexed
-  if (last?.root === root && sameEach(last.ats, ats) && sameEach(last.kepts, kepts)) {
-    return last.read
+function keptHeardOf(root: string, kept: Kept): KeptHeard {
+  const found = HEARD.get(kept)
+  if (found !== undefined) return found
+  const heard = new Map<string, Set<string | null>>()
+  for (const one of heardOf(root, "", null, kept)) {
+    const names = heard.get(one.folder) ?? new Set<string | null>()
+    names.add(one.name)
+    heard.set(one.folder, names)
   }
-  const read = new Map<string, Map<string | null, string[]>>()
-  for (const [at, aim] of aims) {
-    for (const one of heardOf(root, "", null, aim.kept)) {
-      const names = read.get(one.folder) ?? new Map<string | null, string[]>()
-      read.set(one.folder, names)
-      const held = names.get(one.name) ?? []
-      names.set(one.name, held)
-      held.push(at)
-    }
-  }
-  indexed = { root, ats, kepts, read }
-  return read
+  HEARD.set(kept, heard)
+  return heard
 }
 
 export function plannedFor(root: string, helds: readonly Held[]): Planned {
@@ -197,6 +178,7 @@ export function plannedFor(root: string, helds: readonly Held[]): Planned {
       for (const at of slugFoldersOf(reading, kind)) listed.set(join(root, at), kind)
     }
   }
+  const read = new Map([...aims].map(([at, aim]) => [at, keptHeardOf(root, aim.kept)] as const))
   const aimed = new Map([...aims].map(([at, aim]) => [at, aim.targets] as const))
-  return { pages, listed, read: aimedOver(root, aims), aimed, keeping }
+  return { pages, listed, read, aimed, keeping }
 }

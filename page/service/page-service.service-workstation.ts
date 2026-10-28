@@ -165,6 +165,7 @@ export const pageService = {
     "module/kept-rows",
     "module/owned-puts",
     "module/kinds-gathering",
+    "module/kept-hearing",
     "module/page-appending",
     "module/page-asking",
     "module/page-calling",
@@ -195,5 +196,5 @@ export const pageService = {
     "module/write-batching",
   ],
   createdAt: "2026-08-31T23:59:18.778Z",
-  updatedAt: "2026-10-27T20:23:51.121Z",
+  updatedAt: "2026-10-28T21:10:24.995Z",
 } as const satisfies ServiceWorkstation
