@@ -16,7 +16,11 @@ export const inventoryQuestRelevance = {
       decisionKind: "decision-kind/departure",
       statement: "A daily writ held in the journal is still owed, whatever its conditions count.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item read from a link alone is asked about as an item the player crafted.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.854Z",
-  updatedAt: "2026-10-28T18:39:12.240Z",
+  updatedAt: "2026-10-28T18:42:46.817Z",
 } as const satisfies Module

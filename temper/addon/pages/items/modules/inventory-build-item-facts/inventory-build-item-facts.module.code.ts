@@ -1,4 +1,5 @@
 import { recordSettlingMs } from "akasha/temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import { isCraftedTodayAt } from "akasha/temper/addon/pages/items/modules/inventory-crafted-seen/inventory-crafted-seen.module.code.ts"
 import {
   findItemInInventory,
   isItemLinkCraftedSafe,
@@ -6,7 +7,11 @@ import {
   lookupTtcPricing,
 } from "akasha/temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts"
 import { getLocationKeyForBag } from "akasha/temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.code.ts"
-import { isItemLinkQuestRelevant } from "akasha/temper/addon/pages/items/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
+import {
+  isItemLinkQuestRelevant,
+  isLinkNeededForDailyWrit,
+  isSlotNeededForDailyWrit,
+} from "akasha/temper/addon/pages/items/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
 import {
   classifyItem,
   gatherSignals,
@@ -71,6 +76,7 @@ function buildItemFactsForSlotInner(bagId: number, slotIndex: number): ItemFacts
     isBoPTradeable,
     isLocked,
     location,
+    at: { bagId, slotIndex },
   })
 }
 
@@ -90,6 +96,7 @@ export function buildItemFactsForLink(itemLink: string): ItemFacts {
       isBoPTradeable: IsItemBoPAndTradeable(found.bagId, found.slotIndex),
       isLocked: isItemLocked(found.bagId, found.slotIndex),
       location,
+      at: found,
     })
   }
   return buildFactsCore(itemLink, {})
@@ -115,6 +122,19 @@ interface SlotSignals {
   readonly isBoPTradeable?: boolean
   readonly isLocked?: boolean
   readonly location?: ItemFacts["location"]
+  readonly at?: { readonly bagId: number; readonly slotIndex: number }
+}
+
+function isCraftedTodayOf(isCrafted: boolean, slot: SlotSignals): boolean | undefined {
+  if (!isCrafted) return false
+  if (slot.at === undefined) return undefined
+  return isCraftedTodayAt(slot.at.bagId, slot.at.slotIndex)
+}
+
+function isDailyWritNeededOf(isCrafted: boolean, itemLink: string, slot: SlotSignals): boolean {
+  if (!isCrafted) return false
+  if (slot.at === undefined) return isLinkNeededForDailyWrit(itemLink)
+  return isSlotNeededForDailyWrit(slot.at.bagId, slot.at.slotIndex)
 }
 
 function buildFactsCore(itemLink: string, slot: SlotSignals): ItemFacts {
@@ -188,6 +208,8 @@ function buildFactsCore(itemLink: string, slot: SlotSignals): ItemFacts {
     isBoPTradeable: slot.isBoPTradeable,
     isQuestRelevant: isItemLinkQuestRelevant(itemLink),
     isCrafted,
+    isCraftedToday: isCraftedTodayOf(isCrafted, slot),
+    isDailyWritNeeded: isDailyWritNeededOf(isCrafted, itemLink, slot),
     isLocked: slot.isLocked,
     isReconstructed,
     isTransmuted,

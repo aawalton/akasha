@@ -94,6 +94,8 @@ export interface CompiledOrderedRule extends ResolvedEntry {
   categoryId: string
   stolen?: "stolen" | "not-stolen"
   crafted?: "crafted" | "not-crafted"
+  craftedToday?: "crafted-today" | "not-crafted-today"
+  dailyWritNeeded?: "daily-writ-needed" | "not-daily-writ-needed"
   reconstructed?: "reconstructed" | "not-reconstructed"
   uncollected?: "uncollected" | "collected"
   transmuted?: "transmuted" | "not-transmuted"

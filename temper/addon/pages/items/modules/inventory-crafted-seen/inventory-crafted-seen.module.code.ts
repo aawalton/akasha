@@ -1,7 +1,7 @@
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { ItemData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-
 import { CRAFTED_BEFORE_THE_STAMP } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { stampedToday } from "akasha/temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 
@@ -61,4 +61,12 @@ export function stampScannedBag(
 
 export function stampArrivedSlot(bagId: number, slotIndex: number, item: ItemData): undefined {
   stamp(bagId, slotIndex, item, false)
+}
+
+export function isCraftedTodayAt(bagId: number, slotIndex: number): boolean | undefined {
+  const key = uniqueIdAt(bagId, slotIndex)
+  if (key === undefined) return undefined
+  const at = getSavedVariables().craftedSeen?.[key]
+  if (at === undefined) return undefined
+  return stampedToday(at, GetTimeStamp())
 }

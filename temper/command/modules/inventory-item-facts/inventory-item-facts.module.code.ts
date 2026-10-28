@@ -14,5 +14,6 @@ export function cliItemFactsFromInventoryItem(
     nodeIds,
     location,
     itemKey: resolveStaticItemKey(item),
+    nowSec: Math.floor(Date.now() / 1000),
   })
 }

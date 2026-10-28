@@ -15,7 +15,11 @@ export const inventoryItemFacts = {
       decisionKind: "decision-kind/departure",
       statement: "An item with no place named is still read.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether an item was crafted today is judged against the clock as the walk runs.",
+    },
   ],
   createdAt: "2026-09-03T20:07:25.550Z",
-  updatedAt: "2026-09-22T10:11:52.000Z",
+  updatedAt: "2026-10-28T18:42:46.817Z",
 } as const satisfies Module

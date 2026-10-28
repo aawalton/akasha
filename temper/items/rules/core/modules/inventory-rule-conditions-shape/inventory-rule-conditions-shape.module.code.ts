@@ -33,6 +33,8 @@ export const CategoryRuleConditionsShape: z.ZodType<RuleConditions> = z
     levelOp: COMPARISON_OP_SCHEMA.optional(),
     stolen: z.enum(["stolen", "not-stolen"]).optional(),
     crafted: z.enum(["crafted", "not-crafted"]).optional(),
+    craftedToday: z.enum(["crafted-today", "not-crafted-today"]).optional(),
+    dailyWritNeeded: z.enum(["daily-writ-needed", "not-daily-writ-needed"]).optional(),
     bound: z.enum(["bound", "not-bound"]).optional(),
     bopTradeable: z.enum(["bop-tradeable", "not-bop-tradeable"]).optional(),
     questRelevant: z.enum(["quest-relevant", "not-quest-relevant"]).optional(),

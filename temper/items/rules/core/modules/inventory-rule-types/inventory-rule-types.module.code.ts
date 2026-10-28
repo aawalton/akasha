@@ -87,6 +87,8 @@ export interface CategoryRule {
     levelOp?: ComparisonOpId
     stolen?: "stolen" | "not-stolen"
     crafted?: "crafted" | "not-crafted"
+    craftedToday?: "crafted-today" | "not-crafted-today"
+    dailyWritNeeded?: "daily-writ-needed" | "not-daily-writ-needed"
     bound?: "bound" | "not-bound"
     bopTradeable?: "bop-tradeable" | "not-bop-tradeable"
     questRelevant?: "quest-relevant" | "not-quest-relevant"

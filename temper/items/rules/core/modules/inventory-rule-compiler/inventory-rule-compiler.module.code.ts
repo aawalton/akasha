@@ -37,6 +37,8 @@ export function compileCategoryRuleToOrdered(rule: CategoryRule): CompiledOrdere
   if (c) {
     if (c.stolen != null) entry.stolen = c.stolen
     if (c.crafted != null) entry.crafted = c.crafted
+    if (c.craftedToday != null) entry.craftedToday = c.craftedToday
+    if (c.dailyWritNeeded != null) entry.dailyWritNeeded = c.dailyWritNeeded
     if (c.bound != null) entry.bound = c.bound
     if (c.bopTradeable != null) entry.bopTradeable = c.bopTradeable
     if (c.questRelevant != null) entry.questRelevant = c.questRelevant

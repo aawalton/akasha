@@ -31,7 +31,30 @@ export const buildItemFactsFromInventoryItem = {
       decisionKind: "decision-kind/absence",
       statement: "An item type the resolver does not name is left with no item key.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item was crafted today where its first sighting falls on the ESO day of now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A crafted item a reading caught before the addon stamped it was crafted before today.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A crafted item read with no second named for now is not known to be crafted today.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A crafted item a reading caught before the addon asked about writs is needed by none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item nobody crafted is neither crafted today nor needed for a daily writ.",
+    },
   ],
   createdAt: "2026-09-02T08:24:13.408Z",
-  updatedAt: "2026-09-26T20:09:40.000Z",
+  updatedAt: "2026-10-28T18:42:46.817Z",
 } as const satisfies Module

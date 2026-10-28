@@ -144,6 +144,8 @@ const COMPILED_ORDERED_RULE_SCHEMA = z
 
     stolen: z.enum(["stolen", "not-stolen"]).optional(),
     crafted: z.enum(["crafted", "not-crafted"]).optional(),
+    craftedToday: z.enum(["crafted-today", "not-crafted-today"]).optional(),
+    dailyWritNeeded: z.enum(["daily-writ-needed", "not-daily-writ-needed"]).optional(),
     reconstructed: z.enum(["reconstructed", "not-reconstructed"]).optional(),
     transmuted: z.enum(["transmuted", "not-transmuted"]).optional(),
     uncollected: z.enum(["uncollected", "collected"]).optional(),

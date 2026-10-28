@@ -1,4 +1,6 @@
+import { getEsoDayStringFromSec } from "akasha/temper/catalog/world/group-dungeon/modules/eso-reset/eso-reset.module.code.ts"
 import {
+  CRAFTED_BEFORE_THE_STAMP,
   ESO_ITEMTYPE_CRAFTED_ABILITY_SCRIPT,
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_BOOK,
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER,
@@ -24,10 +26,23 @@ interface BuildItemFactsInput {
   readonly nodeIds: ReadonlyArray<string>
   readonly location: InventoryLocationConditionId | undefined
   readonly itemKey: ItemKey | undefined
+  readonly nowSec?: number
+}
+
+export function stampedToday(craftedAt: number, nowSec: number): boolean {
+  if (craftedAt === CRAFTED_BEFORE_THE_STAMP) return false
+  return getEsoDayStringFromSec(craftedAt) === getEsoDayStringFromSec(nowSec)
+}
+
+function craftedTodayOf(item: InventoryItemData, nowSec: number | undefined): boolean | undefined {
+  if (item.crafted !== true) return false
+  if (item.craftedAt === undefined) return false
+  if (nowSec === undefined) return undefined
+  return stampedToday(item.craftedAt, nowSec)
 }
 
 export function buildItemFactsFromInventoryItem(input: BuildItemFactsInput): ItemFacts {
-  const { item, nodeIds, location, itemKey } = input
+  const { item, nodeIds, location, itemKey, nowSec } = input
   return {
     itemId: item.itemId,
     itemName: item.itemName,
@@ -57,6 +72,8 @@ export function buildItemFactsFromInventoryItem(input: BuildItemFactsInput): Ite
     isTransmuted: item.transmuted,
     isUncollected: item.uncollected,
     isCrafted: item.crafted,
+    isCraftedToday: craftedTodayOf(item, nowSec),
+    isDailyWritNeeded: item.crafted === true ? (item.dailyWritNeeded ?? false) : false,
     marketValue: item.marketValue,
     merchantValue: item.merchantValue,
     replacementValue: item.replacementValue,

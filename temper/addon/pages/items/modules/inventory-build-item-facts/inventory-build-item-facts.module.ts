@@ -16,7 +16,16 @@ export const inventoryBuildItemFacts = {
       statement:
         "An item read from a link alone has no uncollected fact unless it is no uncollected set piece.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A crafted item read from a link alone is not known to be crafted today or before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item nobody crafted is neither crafted today nor needed for a daily writ.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.849Z",
-  updatedAt: "2026-10-08T14:33:30.000Z",
+  updatedAt: "2026-10-28T18:42:46.817Z",
 } as const satisfies Module

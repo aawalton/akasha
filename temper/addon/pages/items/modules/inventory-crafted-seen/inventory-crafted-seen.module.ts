@@ -34,7 +34,12 @@ export const inventoryCraftedSeen = {
       decisionKind: "decision-kind/departure",
       statement: "A dated stamp is dropped once it is thirty days old.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A slot whose crafted item has no stamp is not known to be crafted today or before.",
+    },
   ],
   createdAt: "2026-10-28T18:39:12.240Z",
-  updatedAt: "2026-10-28T18:39:12.240Z",
+  updatedAt: "2026-10-28T18:42:46.817Z",
 } as const satisfies Module

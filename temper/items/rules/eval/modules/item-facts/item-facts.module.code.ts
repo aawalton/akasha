@@ -29,6 +29,8 @@ export interface ItemFacts {
   readonly isBoPTradeable?: boolean
   readonly isQuestRelevant?: boolean
   readonly isCrafted?: boolean
+  readonly isCraftedToday?: boolean
+  readonly isDailyWritNeeded?: boolean
   readonly isLocked?: boolean
   readonly isReconstructed?: boolean
   readonly isTransmuted?: boolean

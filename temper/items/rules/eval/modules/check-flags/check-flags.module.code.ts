@@ -17,7 +17,9 @@ export function checkFlags(
     rule.reconstructed === undefined &&
     rule.transmuted === undefined &&
     rule.uncollected === undefined &&
-    rule.crafted === undefined
+    rule.crafted === undefined &&
+    rule.craftedToday === undefined &&
+    rule.dailyWritNeeded === undefined
   ) {
     return { kind: "skip" }
   }
@@ -139,6 +141,38 @@ export function checkFlags(
     }
     if (rule.crafted === "not-crafted" && facts.isCrafted) {
       return { kind: "fail", conditionKind: "crafted" }
+    }
+  }
+
+  if (rule.craftedToday !== undefined) {
+    if (facts.isCraftedToday === undefined) {
+      return {
+        kind: "indeterminate",
+        conditionKind: "craftedToday",
+        missingSignal: "isCraftedToday",
+      }
+    }
+    if (rule.craftedToday === "crafted-today" && !facts.isCraftedToday) {
+      return { kind: "fail", conditionKind: "craftedToday" }
+    }
+    if (rule.craftedToday === "not-crafted-today" && facts.isCraftedToday) {
+      return { kind: "fail", conditionKind: "craftedToday" }
+    }
+  }
+
+  if (rule.dailyWritNeeded !== undefined) {
+    if (facts.isDailyWritNeeded === undefined) {
+      return {
+        kind: "indeterminate",
+        conditionKind: "dailyWritNeeded",
+        missingSignal: "isDailyWritNeeded",
+      }
+    }
+    if (rule.dailyWritNeeded === "daily-writ-needed" && !facts.isDailyWritNeeded) {
+      return { kind: "fail", conditionKind: "dailyWritNeeded" }
+    }
+    if (rule.dailyWritNeeded === "not-daily-writ-needed" && facts.isDailyWritNeeded) {
+      return { kind: "fail", conditionKind: "dailyWritNeeded" }
     }
   }
 

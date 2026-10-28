@@ -35,6 +35,32 @@ function isDailyCraftingWrit(questIndex: number): boolean {
   return questType === QUEST_TYPE_CRAFTING || questType === QUEST_TYPE_HOLIDAY_EVENT
 }
 
+export function isLinkNeededForDailyWrit(itemLink: string): boolean {
+  if (itemLink === "") return false
+  for (let questIndex = 1; questIndex <= MAX_JOURNAL_QUESTS; questIndex++) {
+    if (isDailyCraftingWrit(questIndex)) {
+      const numSteps = GetJournalQuestNumSteps(questIndex)
+      for (let stepIndex = 1; stepIndex <= numSteps; stepIndex++) {
+        const numConditions = GetJournalQuestNumConditions(questIndex, stepIndex)
+        for (let conditionIndex = 1; conditionIndex <= numConditions; conditionIndex++) {
+          if (
+            DoesItemLinkFulfillJournalQuestCondition(
+              itemLink,
+              questIndex,
+              stepIndex,
+              conditionIndex,
+              true
+            )
+          ) {
+            return true
+          }
+        }
+      }
+    }
+  }
+  return false
+}
+
 export function isSlotNeededForDailyWrit(bagId: number, slotIndex: number): boolean {
   for (let questIndex = 1; questIndex <= MAX_JOURNAL_QUESTS; questIndex++) {
     if (isDailyCraftingWrit(questIndex)) {

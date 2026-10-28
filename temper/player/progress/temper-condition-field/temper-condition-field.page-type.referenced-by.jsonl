@@ -13,7 +13,9 @@
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/can-research.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/can-sell.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/can-unlock.temper-condition-field.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/crafted-today.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/crafted.temper-condition-field.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/daily-writ-needed.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/is-target-companion-equip.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/is-target-equip.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/item-ids.temper-condition-field.ts","typed":true,"deferred":false}

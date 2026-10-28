@@ -4,7 +4,7 @@ export const checkFlags = {
   id: "01a06137-f965-79e3-938a-957ed9482203",
   type: "page-type/module",
   slug: "check-flags",
-  definition: "the condition check over the nine boolean flags an item has",
+  definition: "the condition check over the eleven boolean flags an item has",
   code: "ts",
   decisions: [
     {
@@ -26,5 +26,5 @@ export const checkFlags = {
     },
   ],
   createdAt: "2026-09-02T08:24:13.413Z",
-  updatedAt: "2026-10-08T14:32:58.000Z",
+  updatedAt: "2026-10-28T18:42:46.817Z",
 } as const satisfies Module
