@@ -56,9 +56,9 @@ const TWO_PLACES = 2
 
 const MOVED_FROM = 0.0005
 
-export type Moved = { readonly cause: string; readonly points: number }
+type Moved = { readonly cause: string; readonly points: number }
 
-export type Acted = {
+type Acted = {
   readonly named: string
   readonly evidence: Evidence
   readonly gain: Spread
@@ -66,11 +66,11 @@ export type Acted = {
   readonly caveat?: string
 }
 
-export type Waiting = { readonly named: string; readonly needs: string }
+type Waiting = { readonly named: string; readonly needs: string }
 
-export type Joint = { readonly named: readonly string[]; readonly gain: Spread }
+type Joint = { readonly named: readonly string[]; readonly gain: Spread }
 
-export type Weighed = {
+type Weighed = {
   readonly acted: readonly Acted[]
   readonly waiting: readonly Waiting[]
   readonly joint: Joint | null
@@ -149,7 +149,7 @@ function actOf(model: Model, before: Run, lever: Lever): Acted {
   }
 }
 
-export function weighedOf(model: Model): Weighed {
+function weighedOf(model: Model): Weighed {
   const before = runOf(model.causes, model.readings, model.held, model.draws)
   const ready = LEVERS.filter((lever) => waitsOf(lever, model.held) === null)
   const waiting = LEVERS.flatMap((lever) => {
