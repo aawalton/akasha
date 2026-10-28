@@ -15,7 +15,12 @@ export const inventoryHouseStop = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The storage stops come first, in the order the plan's venues come.",
+      statement:
+        "The houses to scan come first, since the vault sends nothing to an unscanned house.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The storage stops come after the scans, in the order the plan's venues come.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,7 +45,7 @@ export const inventoryHouseStop = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A house the carried furnishings are bound for is a stop to place, after every scan.",
+        "A house the carried furnishings are bound for is a stop to place, after every storage stop.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,5 +67,5 @@ export const inventoryHouseStop = {
     },
   ],
   createdAt: "2026-10-28T20:56:33.837Z",
-  updatedAt: "2026-10-28T20:56:33.837Z",
+  updatedAt: "2026-10-28T21:33:34.800Z",
 } as const satisfies Module

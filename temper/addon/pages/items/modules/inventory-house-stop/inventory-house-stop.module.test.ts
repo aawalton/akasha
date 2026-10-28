@@ -83,28 +83,43 @@ describe("The vault's stop is the house holding the most house chests.", () => {
   })
 })
 
-describe("The storage stops come first, in the order the plan's venues come.", () => {
-  test("storage comes before a scan and a placement", () => {
-    const storageSteps: StorageStep[] = [
-      { venue: "bank", stacks: 4 },
-      { venue: "house-chest:HouseBank:5462:4676", stacks: 3 },
-      { venue: "furniture-vault", stacks: 2 },
-    ]
+const VILLA_STEPS: StorageStep[] = [
+  { venue: "bank", stacks: 4 },
+  { venue: "house-chest:HouseBank:5462:4676", stacks: 3 },
+  { venue: "furniture-vault", stacks: 2 },
+]
+
+describe("The houses to scan come first, since the vault sends nothing to an unscanned house.", () => {
+  test("a scan comes before the Villa's chests and vault, and a placement after them", () => {
     const stops = houseStopsOf(
       factsOf({
-        storageSteps,
+        storageSteps: VILLA_STEPS,
         rules: [houseRule(GALLERY)],
         scanned: (house) => house !== GALLERY,
         carried: [carried(CAPSTONE, 1, 0)],
       })
     )
     expect(stops).toEqual([
-      { collectibleId: VILLA, reason: { kind: "storage", chests: 3, vault: 2 } },
       { collectibleId: GALLERY, reason: { kind: "scan" } },
+      { collectibleId: VILLA, reason: { kind: "storage", chests: 3, vault: 2 } },
       { collectibleId: CAPSTONE, reason: { kind: "place", stacks: 1 } },
     ])
   })
 
+  test("a house scanned on this visit drops out, so the next press goes to the Villa", () => {
+    const scannedNow = new Set([VILLA])
+    const facts = factsOf({
+      storageSteps: VILLA_STEPS,
+      rules: [houseRule(GALLERY)],
+      scanned: (house) => scannedNow.has(house),
+    })
+    expect(nextHouseStop(houseStopsOf(facts), undefined)?.collectibleId).toBe(GALLERY)
+    scannedNow.add(GALLERY)
+    expect(nextHouseStop(houseStopsOf(facts), GALLERY)?.collectibleId).toBe(VILLA)
+  })
+})
+
+describe("The storage stops come after the scans, in the order the plan's venues come.", () => {
   test("a chest in another house is a stop of its own, after the house the plan reached first", () => {
     const stops = houseStopsOf(
       factsOf({
@@ -160,10 +175,11 @@ describe("The houses to scan come in rule order, then in the order each chain na
   })
 })
 
-describe("A house the carried furnishings are bound for is a stop to place, after every scan.", () => {
+describe("A house the carried furnishings are bound for is a stop to place, after every storage stop.", () => {
   test("each house's stop counts the stacks carried for it", () => {
     const stops = houseStopsOf(
       factsOf({
+        storageSteps: [{ venue: "furniture-vault", stacks: 2 }],
         rules: [houseRule(GALLERY)],
         scanned: (house) => house !== GALLERY,
         carried: [carried(MANOR, 1, 4), carried(MANOR, 3, 9), carried(MANOR, 1, 2)],
@@ -171,6 +187,7 @@ describe("A house the carried furnishings are bound for is a stop to place, afte
     )
     expect(stops).toEqual([
       { collectibleId: GALLERY, reason: { kind: "scan" } },
+      { collectibleId: VILLA, reason: { kind: "storage", chests: 0, vault: 2 } },
       { collectibleId: MANOR, reason: { kind: "place", stacks: 3 } },
     ])
     expect(houseStopSaid({ kind: "place", stacks: 7 })).toBe("place 7")
@@ -222,16 +239,16 @@ describe("The next stop is the first stop at a house other than the one the char
   )
 
   test("away from every stop, the next stop is the first", () => {
-    expect(nextHouseStop(stops, undefined)?.collectibleId).toBe(VILLA)
-    expect(nextHouseStop(stops, MANOR)?.collectibleId).toBe(VILLA)
+    expect(nextHouseStop(stops, undefined)?.collectibleId).toBe(GALLERY)
+    expect(nextHouseStop(stops, MANOR)?.collectibleId).toBe(GALLERY)
   })
 
   test("in the first stop's house, the next stop is the one after", () => {
-    expect(nextHouseStop(stops, VILLA)?.collectibleId).toBe(GALLERY)
+    expect(nextHouseStop(stops, GALLERY)?.collectibleId).toBe(VILLA)
   })
 
   test("with no stop left elsewhere, there is no next stop", () => {
-    expect(nextHouseStop(stops.slice(0, 1), VILLA)).toBeUndefined()
+    expect(nextHouseStop(stops.slice(0, 1), GALLERY)).toBeUndefined()
     expect(nextHouseStop([], undefined)).toBeUndefined()
   })
 })

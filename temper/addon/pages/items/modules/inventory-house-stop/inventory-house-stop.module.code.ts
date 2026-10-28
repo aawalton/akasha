@@ -163,9 +163,9 @@ function placeStops(facts: HouseStopFacts): HouseStop[] {
 }
 
 export function houseStopsOf(facts: HouseStopFacts): readonly HouseStop[] {
-  const stops = storageStops(facts)
-  if (!facts.carriesHouses) return stops
-  return [...stops, ...scanStops(facts), ...placeStops(facts)]
+  const storage = storageStops(facts)
+  if (!facts.carriesHouses) return storage
+  return [...scanStops(facts), ...storage, ...placeStops(facts)]
 }
 
 export function nextHouseStop(
