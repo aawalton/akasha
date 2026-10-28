@@ -11,9 +11,15 @@ export const bananaFish = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "80564", externalLink: "https://www.themoviedb.org/tv/80564" },
+    {
+      source: "tmdb",
+      externalId: "80564",
+      externalLink: "https://www.themoviedb.org/tv/80564",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Banana Fish",
+  streamingOn: ["Netflix", "Netflix Standard with Ads"],
   createdAt: "2026-10-28T18:55:21.786Z",
-  updatedAt: "2026-10-28T18:55:21.786Z",
+  updatedAt: "2026-10-28T19:43:32.450Z",
 } as const satisfies Show
