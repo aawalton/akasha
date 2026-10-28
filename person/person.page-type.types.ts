@@ -9,9 +9,11 @@ import type { Medications } from "akasha/person/properties/medications.record-pr
 import type { PersonContributor } from "akasha/person/properties/person-contributor.relation-property.types.ts"
 import type { PersonHeight } from "akasha/person/properties/person-height.number-property.types.ts"
 import type { Phone } from "akasha/person/properties/phone.phone-number-property.types.ts"
+import type { PlantCalorieShare } from "akasha/person/properties/plant-calorie-share.number-property.types.ts"
 import type { Scheme } from "akasha/person/properties/scheme.select-property.types.ts"
 import type { SeatNotices } from "akasha/person/properties/seat-notices.record-property.types.ts"
 import type { Sex } from "akasha/person/properties/sex.select-property.types.ts"
+import type { SugaryDrinksPerWeek } from "akasha/person/properties/sugary-drinks-per-week.number-property.types.ts"
 import type { TobaccoUse } from "akasha/person/properties/tobacco-use.select-property.types.ts"
 import type { VehicleMilesPerYear } from "akasha/person/properties/vehicle-miles-per-year.number-property.types.ts"
 import type { EmailAddress } from "akasha/persona/properties/email-address.email-address-property.types.ts"
@@ -27,6 +29,8 @@ export type Person = Domain & {
   tobaccoUse?: TobaccoUse
   alcoholDrinksPerWeek?: AlcoholDrinksPerWeek
   vehicleMilesPerYear?: VehicleMilesPerYear
+  sugaryDrinksPerWeek?: SugaryDrinksPerWeek
+  plantCalorieShare?: PlantCalorieShare
   familyHistory?: FamilyHistory
   healthConditions?: HealthConditions
   medications?: Medications
