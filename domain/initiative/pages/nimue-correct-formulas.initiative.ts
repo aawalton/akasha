@@ -17,7 +17,7 @@ export const nimueCorrectFormulas = {
       statement:
         "Every tooltip formula has appropriate verified test cases and is believed to be correct.",
       workingMemory:
-        "Tooltip formulas are in module/skill-value-formulas. Each reading carries the game's skill tooltip text for that build.",
+        "Tooltip formulas are in module/skill-value-formulas. Each reading carries the game's skill tooltip text for that build. Stampede's tick fits Erin, Nirayicel and Khelta near 0.0142 MaxStat, but Valeterisa's 54-69k Magicka readings run 3-5 higher; it waits on her DIWMSBqHsqkQ build read at 30-50k Magicka.",
     },
     {
       statement:
@@ -46,5 +46,5 @@ export const nimueCorrectFormulas = {
     "A calculation change lands with the stat-case pins it closes, after the stat-case test passes on both.",
   ],
   createdAt: "2026-10-19T19:28:43.842Z",
-  updatedAt: "2026-10-28T20:41:12.912Z",
+  updatedAt: "2026-10-28T21:12:18.018Z",
 } as const satisfies Initiative
