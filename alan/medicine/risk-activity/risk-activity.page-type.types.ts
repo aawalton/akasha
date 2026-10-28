@@ -1,3 +1,4 @@
+import type { ExposureAssumption } from "akasha/alan/medicine/risk-activity/properties/exposure-assumption.text-property.types.ts"
 import type { ExposureUnit } from "akasha/alan/medicine/risk-activity/properties/exposure-unit.text-property.types.ts"
 import type { HealthSources } from "akasha/alan/medicine/risk-activity/properties/health-sources.record-property.types.ts"
 import type { InjuryDisability } from "akasha/alan/medicine/risk-activity/properties/injury-disability.record-property.types.ts"
@@ -13,4 +14,5 @@ export type RiskActivity = Page & {
   micromortsPerUnitHigh: MicromortsPerUnitHigh
   injuryDisability?: InjuryDisability
   sources?: HealthSources
+  exposureAssumption?: ExposureAssumption
 }

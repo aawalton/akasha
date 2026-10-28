@@ -20,6 +20,7 @@ export const riskActivity = {
     "number-property/injuries-per-million-units",
     "number-property/disability-years",
     "record-property/health-sources",
+    "text-property/exposure-assumption",
   ],
   properties: [
     { pageProperty: "text-property/exposure-unit", required: true, many: false },
@@ -33,9 +34,10 @@ export const riskActivity = {
       maxCount: null,
     },
     { pageProperty: "record-property/health-sources", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/exposure-assumption", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-28T18:19:17.719Z",
-  updatedAt: "2026-10-28T18:23:14.375Z",
+  updatedAt: "2026-10-28T19:07:15.170Z",
 } as const satisfies PageType
