@@ -16,5 +16,7 @@ export const giftedReborn00005 = {
     "place/gifted-womb",
   ],
   createdAt: "2026-10-28T00:33:11.156Z",
-  updatedAt: "2026-10-28T00:51:33.647Z",
+  updatedAt: "2026-10-28T00:52:47.592Z",
+  endsAt: "2026-10-27T22:03:00.000Z",
+  outcomes: "jsonl",
 } as const satisfies StoryTurnPlayed
