@@ -19,6 +19,7 @@ export const myDressUpDarling = {
   ],
   title: "My Dress-Up Darling",
   createdAt: "2026-10-14T19:18:25.105Z",
-  updatedAt: "2026-10-28T17:06:39.435Z",
+  updatedAt: "2026-10-28T17:07:33.010Z",
   completedAt: "2026-10-28",
+  grade: "A+",
 } as const satisfies Show
