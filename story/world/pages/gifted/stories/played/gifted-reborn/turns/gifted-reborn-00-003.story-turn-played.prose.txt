@@ -41,7 +41,7 @@ note: Strength: 100; Stamina: 100; Coordination: 100; Mental: 100; Aether: 100
 
 :::status-assessment
 name: Affinity and Paths
-note: Affinity: Shadow (Strong); Paths: Soulstealing, Completionist
+note: Affinity (1/1): Shadow (Strong) 100; Paths (2/10): Path of Exceptionalism I (20/100), Path of Soulstealing (0/10)
 :::
 
 :::status-assessment
