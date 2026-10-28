@@ -169,7 +169,11 @@ export const giftedRebornNala = {
       fact: "Bored in the womb, she passed the time counting in her head, on into the hundreds.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "While she counted, her window showed a new Path: Path of Basic Numeracy.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:45:18.290Z",
+  updatedAt: "2026-10-28T00:45:58.821Z",
 } as const satisfies Lore
