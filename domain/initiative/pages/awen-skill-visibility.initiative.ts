@@ -7,12 +7,7 @@ export const awenSkillVisibility = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [
-    {
-      statement:
-        "A skill shows on the sheet and in the story's roll cards only once the skill is unlocked.",
-    },
-  ],
+  intentStack: [],
   createdAt: "2026-10-28T00:30:14.573Z",
-  updatedAt: "2026-10-28T00:30:14.573Z",
+  updatedAt: "2026-10-28T00:49:48.506Z",
 } as const satisfies Initiative
