@@ -11,9 +11,21 @@ export const mobPsycho100 = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "67075", externalLink: "https://www.themoviedb.org/tv/67075" },
+    {
+      source: "tmdb",
+      externalId: "67075",
+      externalLink: "https://www.themoviedb.org/tv/67075",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Mob Psycho 100",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+  ],
   createdAt: "2026-10-28T18:44:34.824Z",
-  updatedAt: "2026-10-28T18:44:34.824Z",
+  updatedAt: "2026-10-28T19:45:02.180Z",
 } as const satisfies Show
