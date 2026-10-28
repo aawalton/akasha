@@ -5044,6 +5044,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/addon-keybinds-types/addon-keybinds-types.module.ts","id":"01a0605a-051c-71ee-b5b4-2aa2ec58d9e0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-fns/keybinder-binding-fns.module.ts","id":"01a06381-67c1-70be-89d4-23608f21260c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.ts","id":"01a06381-67c1-7246-ad70-5a367ff2cd98"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-capture/keybinder-capture.module.ts","id":"01a1848b-457f-7a40-ade3-81b78a7e60da"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-casts/keybinder-casts.module.ts","id":"01a06381-67c1-74e3-a405-6c6a7d592238"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-config-adopt/keybinder-config-adopt.module.ts","id":"01a18487-471b-7dc6-a43a-92c3cfba27ff"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-constants/keybinder-constants.module.ts","id":"01a06381-67c1-7b87-8d5c-6c7b5fcc569f"}
@@ -5052,6 +5053,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-init/keybinder-init.module.ts","id":"01a06381-67c1-7c76-96e7-07ef878b098c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-keybind-events/keybinder-keybind-events.module.ts","id":"01a06381-67c1-7e9d-98cb-1b00a62bc68f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-login-report/keybinder-login-report.module.ts","id":"01a1848b-4580-71ab-8f3d-099bc833362d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-public-api/keybinder-public-api.module.ts","id":"01a06381-67c1-75f6-ba15-5366cbc95058"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-saved-variables/keybinder-saved-variables.module.ts","id":"01a06381-67c1-7efa-89ba-519602e056ec"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.ts","id":"01a06381-67c1-733c-93c4-841be62e7306"}

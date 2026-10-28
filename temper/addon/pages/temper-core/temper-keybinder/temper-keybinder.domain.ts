@@ -17,6 +17,7 @@ export const temperKeybinder = {
     "module/addon-keybinds-types",
     "module/keybinder-binding-fns",
     "module/keybinder-binding-utils",
+    "module/keybinder-capture",
     "module/keybinder-casts",
     "module/keybinder-config-adopt",
     "module/keybinder-constants",
@@ -25,6 +26,7 @@ export const temperKeybinder = {
     "module/keybinder-init",
     "module/keybinder-keybind-events",
     "module/keybinder-keybind-manager",
+    "module/keybinder-login-report",
     "module/keybinder-public-api",
     "module/keybinder-saved-variables",
     "module/keybinder-scroll-list",
@@ -48,7 +50,11 @@ export const temperKeybinder = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A shared binding is written onto a character the first time that character logs in.",
+        "A shared binding is written onto a character at each login where the keys differ.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The shared bindings are taken from the keybinding pages the watcher exports.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -57,6 +63,14 @@ export const temperKeybinder = {
     {
       decisionKind: "decision-kind/constraint",
       statement: "The game protects rebinding.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "An add-on binds and unbinds keys only through `CallSecureProtected`.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game refuses a protected call while the player is in combat.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -81,5 +95,5 @@ export const temperKeybinder = {
     },
   ],
   createdAt: "2026-09-22T03:06:36.395Z",
-  updatedAt: "2026-10-28T22:00:20.506Z",
+  updatedAt: "2026-10-28T22:04:42.239Z",
 } as const satisfies Domain

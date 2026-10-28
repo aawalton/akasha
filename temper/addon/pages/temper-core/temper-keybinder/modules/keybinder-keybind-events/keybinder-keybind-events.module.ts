@@ -13,9 +13,13 @@ export const keybinderKeybindEvents = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A key set or cleared in the key-bind window is captured for the pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The add-on synchronises on the frame after the game announces the bindings.",
     },
   ],
   createdAt: "2026-09-02T19:03:40.225Z",
-  updatedAt: "2026-09-22T05:50:40.000Z",
+  updatedAt: "2026-10-28T22:04:42.239Z",
 } as const satisfies Module

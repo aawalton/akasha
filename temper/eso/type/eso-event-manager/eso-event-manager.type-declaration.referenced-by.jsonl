@@ -114,6 +114,7 @@
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-filter/keybinder-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-init/keybinder-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-keybind-events/keybinder-keybind-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-login-report/keybinder-login-report.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-share/keybinder-share.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.code.ts","typed":false,"deferred":false}

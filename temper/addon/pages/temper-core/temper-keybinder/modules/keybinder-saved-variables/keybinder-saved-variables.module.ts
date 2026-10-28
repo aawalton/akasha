@@ -13,9 +13,13 @@ export const keybinderSavedVariables = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The captured changes and the last login's capture are kept beside the bindings.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The add-on is set going once the saved variables are in hand.",
     },
   ],
   createdAt: "2026-09-02T19:03:40.225Z",
-  updatedAt: "2026-09-22T05:50:40.000Z",
+  updatedAt: "2026-10-28T22:04:42.239Z",
 } as const satisfies Module

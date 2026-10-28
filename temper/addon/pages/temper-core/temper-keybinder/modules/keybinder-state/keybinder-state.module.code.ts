@@ -3,6 +3,8 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 
 export interface AccountData {
   Keybindings: Record<string, VkBind[] | undefined>
+  Changes: Record<string, KeybindingChange | undefined>
+  Captured?: KeybindingCapture
 }
 
 interface KeybinderState {
@@ -11,15 +13,17 @@ interface KeybinderState {
   isDirty: boolean
   editMode: boolean
   bindingsSynchronised: boolean
+  applying: boolean
   searchBox: EditControl | undefined
 }
 
 export const KEYBINDER_STATE: KeybinderState = {
-  account: { Keybindings: {} },
+  account: { Keybindings: {}, Changes: {} },
   masterList: {},
   isDirty: true,
   editMode: false,
   bindingsSynchronised: false,
+  applying: false,
   searchBox: undefined,
 }
 

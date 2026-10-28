@@ -1,6 +1,16 @@
+import "akasha/temper/addon/pages/temper-core/core-config-declarations/core-config-declarations.type-declaration.d.ts"
 import { keybindList } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
+import { captureBindings } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-capture/keybinder-capture.module.code.ts"
+import {
+  adoptConfig,
+  keybindingsIn,
+} from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-config-adopt/keybinder-config-adopt.module.code.ts"
 import { EVENT_NAMESPACE } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-constants/keybinder-constants.module.code.ts"
 import { KEYBIND_MANAGER } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"
+import {
+  reportApplied,
+  watchForPlayerActive,
+} from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-login-report/keybinder-login-report.module.code.ts"
 import { hookKeybindsScrollList } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"
 import { setupControl } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-search-box/keybinder-search-box.module.code.ts"
 import {
@@ -54,25 +64,24 @@ function keepBindButtonEnabled(this: void): undefined {
   }
 }
 
+function appliedOnLogin(this: void, rebound: number): undefined {
+  captureBindings()
+  reportApplied(rebound)
+}
+
 export function initialize(this: void): undefined {
   handleControlsPageOpened()
-  if (isKeybindingsEmpty(KEYBINDER_STATE.account.Keybindings)) {
+  watchForPlayerActive()
+  const account = KEYBINDER_STATE.account
+  const config = keybindingsIn(globalThis.TemperConfig)
+  if (config !== undefined) adoptConfig(config, account.Keybindings, account.Changes)
+  if (isKeybindingsEmpty(account.Keybindings)) {
     EVENT_MANAGER.RegisterForEvent(EVENT_NAMESPACE, EVENT_PLAYER_ACTIVATED, () => {
       firstRun()
+      appliedOnLogin(0)
     })
-  } else if (IsUnitInCombat("player")) {
-    EVENT_MANAGER.RegisterForEvent<[boolean]>(
-      EVENT_NAMESPACE,
-      EVENT_PLAYER_COMBAT_STATE,
-      (_eventCode, inCombat) => {
-        if (!inCombat) {
-          EVENT_MANAGER.UnregisterForEvent(EVENT_NAMESPACE, EVENT_PLAYER_COMBAT_STATE)
-          syncKeybindings()
-        }
-      }
-    )
   } else {
-    syncKeybindings()
+    syncKeybindings(appliedOnLogin)
   }
 
   const control = WINDOW_MANAGER.CreateControlFromVirtual<KeybindButtonControl>(

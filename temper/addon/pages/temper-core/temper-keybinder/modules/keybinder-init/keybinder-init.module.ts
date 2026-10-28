@@ -13,7 +13,12 @@ export const keybinderInit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Synchronising waits until the player is out of combat.",
+      statement:
+        "Each login takes the config's keybindings onto the shared bindings before applying them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each login captures the character's bindings once they are applied.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -21,5 +26,5 @@ export const keybinderInit = {
     },
   ],
   createdAt: "2026-09-02T19:03:40.225Z",
-  updatedAt: "2026-09-22T13:45:15.000Z",
+  updatedAt: "2026-10-28T22:04:42.239Z",
 } as const satisfies Module

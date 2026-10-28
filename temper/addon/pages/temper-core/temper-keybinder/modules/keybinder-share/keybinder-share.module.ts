@@ -24,7 +24,19 @@ export const keybinderShare = {
       decisionKind: "decision-kind/departure",
       statement: "A hidden action is passed over.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Synchronising waits until the player is out of combat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Synchronising counts the actions it rebinds and hands that count on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A toggle of sharing is captured as a change of each action it reaches.",
+    },
   ],
   createdAt: "2026-09-02T19:03:40.225Z",
-  updatedAt: "2026-09-22T05:50:40.000Z",
+  updatedAt: "2026-10-28T22:04:42.239Z",
 } as const satisfies Module

@@ -9,6 +9,7 @@ import {
   keybindingsOfActionName,
   keybindList,
 } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
+import { recordChange } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-capture/keybinder-capture.module.code.ts"
 import { asVkScrollData } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-casts/keybinder-casts.module.code.ts"
 import {
   DEFAULT_GLOBAL_ACTION_NAME,
@@ -20,9 +21,12 @@ import "akasha/temper/addon/pages/temper-core/temper-keybinder/keybinder-declara
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 
 const SYNC_IDENTIFIER = "TEMPER_KEYBINDER_SYNC"
+
+const COMBAT_IDENTIFIER = "TEMPER_KEYBINDER_SYNC_AFTER_COMBAT"
 
 export function createBindingList(this: void): undefined {
   const masterList: Record<string, VkBind[] | undefined> = {}
@@ -61,10 +65,29 @@ export function firstRun(this: void): undefined {
   KEYBINDER_STATE.bindingsSynchronised = true
 }
 
-function doSync(this: void): undefined {
+type Applied = (this: void, rebound: number) => undefined
+
+function afterCombat(this: void, then: () => undefined): undefined {
+  EVENT_MANAGER.RegisterForEvent<[boolean]>(
+    COMBAT_IDENTIFIER,
+    EVENT_PLAYER_COMBAT_STATE,
+    (_eventCode, inCombat) => {
+      if (inCombat) return
+      EVENT_MANAGER.UnregisterForEvent(COMBAT_IDENTIFIER, EVENT_PLAYER_COMBAT_STATE)
+      then()
+    }
+  )
+}
+
+function doSync(this: void, applied: Applied | undefined): undefined {
   EVENT_MANAGER.UnregisterForUpdate(SYNC_IDENTIFIER)
+  if (IsUnitInCombat("player")) {
+    afterCombat(() => syncKeybindings(applied))
+    return
+  }
   const globalKeybindings = KEYBINDER_STATE.account.Keybindings
   const current: ActionRef = { layerIndex: 0, categoryIndex: 0, actionIndex: 0 }
+  let rebound = 0
 
   const checkSync = (): undefined => {
     const [actionName, , isHidden] = GetActionInfo(
@@ -75,6 +98,7 @@ function doSync(this: void): undefined {
     const target = globalKeybindings[actionName]
     if (!isHidden && target !== undefined) {
       if (!compareBinding(target, current)) {
+        rebound++
         unbindAllKeysFromAction(current.layerIndex, current.categoryIndex, current.actionIndex)
         for (let bindingIndex = 1; bindingIndex <= target.length; bindingIndex++) {
           const bind = target[bindingIndex - 1]
@@ -96,6 +120,7 @@ function doSync(this: void): undefined {
     }
   }
 
+  KEYBINDER_STATE.applying = true
   for (let layerIndex = 1; layerIndex <= GetNumActionLayers(); layerIndex++) {
     current.layerIndex = layerIndex
     const [, numCategories] = GetActionLayerInfo(layerIndex)
@@ -108,12 +133,16 @@ function doSync(this: void): undefined {
       }
     }
   }
+  KEYBINDER_STATE.applying = false
   KEYBINDER_STATE.bindingsSynchronised = true
+  if (applied !== undefined) applied(rebound)
 }
 
-export function syncKeybindings(this: void): undefined {
+export function syncKeybindings(this: void, applied?: Applied): undefined {
   EVENT_MANAGER.UnregisterForUpdate(SYNC_IDENTIFIER)
-  EVENT_MANAGER.RegisterForUpdate(SYNC_IDENTIFIER, 0, doSync)
+  EVENT_MANAGER.RegisterForUpdate(SYNC_IDENTIFIER, 0, () => {
+    doSync(applied)
+  })
 }
 
 function allShared(
@@ -132,11 +161,13 @@ function allShared(
 export function toggleShareState(this: void): undefined {
   const list = asVkScrollData(ZO_ScrollList_GetDataList(keybindList.list))
   const visibleActions: string[] = []
+  const visibleRefs: ActionRef[] = []
   for (const entry of list) {
     if (entry.typeId >= KEYBIND_DATA_TYPE) {
       const data = entry.data.GetDataSource()
       if (hasBinding(data)) {
         visibleActions.push(data.actionName)
+        visibleRefs.push(data)
       }
     }
   }
@@ -149,6 +180,9 @@ export function toggleShareState(this: void): undefined {
   if (allShared(accountList, visibleActions)) {
     for (const actionName of visibleActions) {
       accountList[actionName] = undefined
+    }
+    for (const ref of visibleRefs) {
+      recordChange(ref)
     }
   } else {
     const masterList = KEYBINDER_STATE.masterList
@@ -163,6 +197,7 @@ export function toggleShareState(this: void): undefined {
           )
           masterList[bind.actionName] = snapshot
           accountList[bind.actionName] = snapshot
+          recordChange(bind)
         }
       }
     }

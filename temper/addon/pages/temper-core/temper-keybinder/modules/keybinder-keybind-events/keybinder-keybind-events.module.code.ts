@@ -1,4 +1,5 @@
 import { normalizeModifiers } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
+import { recordChange } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-capture/keybinder-capture.module.code.ts"
 import { EVENT_NAMESPACE } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-constants/keybinder-constants.module.code.ts"
 import { syncKeybindings } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-share/keybinder-share.module.code.ts"
 import { KEYBINDER_STATE } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-state/keybinder-state.module.code.ts"
@@ -35,6 +36,7 @@ function handleBindingCleared(
         acc[bindingIndex - 1] = bind
       }
     }
+    recordChange({ layerIndex, categoryIndex, actionIndex })
   }
 }
 
@@ -64,6 +66,7 @@ function handleBindingSet(
         acc[bindingIndex - 1] = bind
       }
     }
+    recordChange({ layerIndex, categoryIndex, actionIndex })
   }
 }
 

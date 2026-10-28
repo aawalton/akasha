@@ -6,7 +6,7 @@ import {
 } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-state/keybinder-state.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
-const ACCOUNT_DEFAULTS: AccountData = { Keybindings: {} }
+const ACCOUNT_DEFAULTS: AccountData = { Keybindings: {}, Changes: {} }
 
 export function initializeSavedVariables(this: void): undefined {
   KEYBINDER_STATE.account = ZO_SavedVars.New<AccountData>(

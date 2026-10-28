@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-capture/keybinder-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-casts/keybinder-casts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-config-adopt/keybinder-config-adopt.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-init/keybinder-init.module.code.ts","typed":false,"deferred":false}

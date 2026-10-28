@@ -1,3 +1,4 @@
+import { sameBindings } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-config-adopt/keybinder-config-adopt.module.code.ts"
 import { KEYBIND_MANAGER } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-keybinder/keybinder-declarations/keybinder-declarations.type-declaration.d.ts"
@@ -36,29 +37,7 @@ export function normalizeModifiers(
 }
 
 export function compareBinding(this: void, a: VkBind[], b: ActionRef): boolean {
-  for (let bindIndex = 1; bindIndex <= maxBindings; bindIndex++) {
-    const [keyCode, m1, m2, m3, m4] = GetActionBindingInfo(
-      b.layerIndex,
-      b.categoryIndex,
-      b.actionIndex,
-      bindIndex
-    )
-    const [mod1, mod2, mod3, mod4] = normalizeModifiers(m1, m2, m3, m4)
-    const other = a[bindIndex - 1]
-    if (other === undefined) {
-      return false
-    }
-    if (
-      other.keyCode !== keyCode ||
-      other.mod1 !== mod1 ||
-      other.mod2 !== mod2 ||
-      other.mod3 !== mod3 ||
-      other.mod4 !== mod4
-    ) {
-      return false
-    }
-  }
-  return true
+  return sameBindings(a, keybindingsOfActionName(b.layerIndex, b.categoryIndex, b.actionIndex))
 }
 
 export function hasBinding(this: void, b: ActionRef): boolean {
