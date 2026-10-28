@@ -11,9 +11,15 @@ export const cyberpunkEdgerunners = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "105248", externalLink: "https://www.themoviedb.org/tv/105248" },
+    {
+      source: "tmdb",
+      externalId: "105248",
+      externalLink: "https://www.themoviedb.org/tv/105248",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Cyberpunk: Edgerunners",
+  streamingOn: ["Netflix", "Netflix Standard with Ads"],
   createdAt: "2026-10-28T18:51:26.927Z",
-  updatedAt: "2026-10-28T18:51:26.927Z",
+  updatedAt: "2026-10-28T19:43:51.628Z",
 } as const satisfies Show
