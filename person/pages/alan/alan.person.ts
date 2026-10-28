@@ -122,6 +122,12 @@ export const alan = {
   vehicleMilesPerYear: 830,
   sugaryDrinksPerWeek: 0,
   plantCalorieShare: 0.5,
+  meatServingsPerWeek: 7,
+  firearmAccess: false,
+  bloodPressureCategory: "normal",
+  physicalRiskActivities: [
+    { activity: "hiking", note: "occasional; always on well-marked trails" },
+  ],
   healthConditions: [
     { condition: "autism", diagnosedBy: "self" },
     { condition: "ADHD", diagnosedBy: "self" },
@@ -198,5 +204,5 @@ export const alan = {
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T18:13:09.372Z",
+  updatedAt: "2026-10-28T18:15:56.860Z",
 } as const satisfies Person
