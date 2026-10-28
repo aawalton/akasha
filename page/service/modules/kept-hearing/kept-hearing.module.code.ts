@@ -4,7 +4,7 @@ import type {
   Target,
 } from "akasha/page/service/modules/follow-planning/follow-planning.module.code.ts"
 
-export type KeptHearing = {
+type KeptHearing = {
   readonly again: (
     read: ReadonlyMap<string, KeptHeard>,
     aimed: ReadonlyMap<string, readonly Target[]>

@@ -23,7 +23,7 @@ export type HeldAbilityEffects = Gating & {
   readonly set: (game: string, held: string, wanted: Wanted) => Promise<HeldSet>
 }
 
-export function heldAbilityEffects(): HeldAbilityEffects {
+function heldAbilityEffects(): HeldAbilityEffects {
   const gating = defaultEffects()
   return {
     signedIn: gating.signedIn,
