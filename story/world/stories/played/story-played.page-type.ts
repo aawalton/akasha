@@ -48,7 +48,6 @@ export const storyPlayed = {
     "module/played-skills",
     "module/held-ability-setting",
     "module/held-ability-sending",
-    "module/played-titles",
     "module/portrait-redrawing",
     "module/played-shell",
     "module/played-state-beside",
@@ -166,5 +165,5 @@ export const storyPlayed = {
     { pageProperty: "relation-property/cloned-from", required: false, many: false },
   ],
   createdAt: "2026-09-02T22:01:28.988Z",
-  updatedAt: "2026-10-28T17:55:07.494Z",
+  updatedAt: "2026-10-28T19:46:44.696Z",
 } as const satisfies PageType

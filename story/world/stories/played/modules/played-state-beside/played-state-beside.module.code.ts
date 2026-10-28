@@ -71,7 +71,6 @@ import {
   TIER_STEPS_KEY,
 } from "akasha/story/world/stories/played/modules/played-skills/played-skills.module.code.ts"
 import type { Filed } from "akasha/story/world/stories/played/modules/played-state-sheet/played-state-sheet.module.code.ts"
-import { titlesHeldOf } from "akasha/story/world/stories/played/modules/played-titles/played-titles.module.code.ts"
 import { useEffect, useState } from "react"
 
 const TYPE_KEY = "type"
@@ -206,7 +205,6 @@ async function readFiled(
 ): Promise<Filed> {
   const { purse, ledgers } = await readPurses(character, turn, overlay)
   const pointed = await pointsOf(character, overlay)
-  const named = await titlesHeldOf(character, overlay)
   const [resources, scores, holdings, quests, bonds, attunements, traits, had] = await Promise.all([
     askedLoudly({
       "page-type": metricCharacterResource.slug,
@@ -356,7 +354,6 @@ async function readFiled(
     ...(Object.keys(held).length === 0 ? {} : { resources: held }),
     ...(earned.length === 0 ? {} : { experience: earned }),
     ...(pointed.points.length === 0 ? {} : { points: pointed.points }),
-    ...(named.length === 0 ? {} : { titles: named }),
     ...(Object.keys(purse).length === 0 ? {} : { purse }),
     ...(Object.keys(ledgers).length === 0 ? {} : { ledgers }),
     skills: skillsIn(skillRows, titles, descriptions, skillMoreOf(titles, kinds)),
