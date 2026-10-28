@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/anime-and-shows-completed.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/anime-and-shows-to-watch.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/anime-and-shows-watching.view.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/anime-top-100.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/aspects-alphabetical.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/aspects-most-seen.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/authors-all.view.ts","typed":true,"deferred":false}
