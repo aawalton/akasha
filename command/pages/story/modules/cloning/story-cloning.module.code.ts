@@ -163,7 +163,7 @@ export type Story = {
   readonly opensAt: string | null
 }
 
-export function storyBody(text: string, story: Story): string {
+function storyBody(text: string, story: Story): string {
   const lines = [
     `  coordinatorAgent: ${JSON.stringify(story.master)},\n`,
     `  clonedFrom: ${JSON.stringify(`story-played/${story.from}`)},\n`,
@@ -174,22 +174,22 @@ export function storyBody(text: string, story: Story): string {
   return opened.replace(SLUG_LINE, (held) => `${held}${lines.join("")}`)
 }
 
-export function pageBody(text: string): string {
+function pageBody(text: string): string {
   return text.replace(GENERATED, "").replace(HISTORY, "")
 }
 
-export type Source = { readonly path: string; readonly text: string }
+type Source = { readonly path: string; readonly text: string }
 
 export type Copy = { readonly at: string; readonly body: string }
 
-export type Cloning = {
+type Cloning = {
   readonly worldFolder: string
   readonly folder: string
   readonly storyPath: string
   readonly story: Story
 }
 
-export function settledByOf(source: string, copy: string): string {
+function settledByOf(source: string, copy: string): string {
   const slug = OWN_SLUG.exec(source)?.[1]
   if (slug === undefined || !SETTLING.test(copy)) return copy
   const named = JSON.stringify(`${worldCheck.slug}/${slug}`)
