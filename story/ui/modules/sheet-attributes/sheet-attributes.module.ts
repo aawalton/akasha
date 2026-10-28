@@ -25,6 +25,10 @@ export const sheetAttributes = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A heading's space to its first row is the space between two rows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A section spans the panel it is drawn in rather than the width a panel card takes.",
     },
@@ -44,5 +48,5 @@ export const sheetAttributes = {
     },
   ],
   createdAt: "2026-10-28T14:56:52.048Z",
-  updatedAt: "2026-10-28T21:39:26.984Z",
+  updatedAt: "2026-10-28T22:00:47.729Z",
 } as const satisfies Module

@@ -43,7 +43,7 @@ export function StatsSection({
 
 export function ScalarRows({ record }: { record: Scalars }) {
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col gap-1">
       {Object.entries(record).map(([key, value]) => (
         <StatRow key={key} label={key} value={shownOf(value)} />
       ))}
