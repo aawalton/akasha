@@ -4696,9 +4696,6 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/skills/otherwhere-x-tale-telling.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/skills/otherwhere-x-unarmed-combat.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/skills/otherwhere-x-warforged.world-skill.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/undo-check-world/mechanics/skills/undo-check-world-lockpicking.world-skill.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/undo-check-world/mechanics/skills/undo-check-world-spark.world-skill.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/undo-check-world/mechanics/skills/undo-check-world-swordplay.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/skills/character-skill/properties/held-skill.relation-property.ts","id":"01a10362-0c7c-7e04-9df8-e6bff42d988e"}
 {"propertySlug":"view-page-type","path":"page/view/pages/skills-alphabetical.view.ts","id":"01a0c954-1289-70ab-9473-94b0ce50f4b5"}
