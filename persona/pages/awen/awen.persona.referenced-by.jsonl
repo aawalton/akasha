@@ -21,7 +21,6 @@
 {"propertySlug":"import","fileName":"awen.persona.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-engine-improvements.initiative.ts","id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-sheet-load.initiative.ts","id":"01a1844b-5e99-7387-b83b-f699dc0514bb"}
-{"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-stats-one-column.initiative.ts","id":"01a1844b-f937-7b35-a701-e5dc47dd48ce"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-story-engine-v3.initiative.ts","id":"01a17e96-4b46-7bc1-a576-fe8d28348442"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-title-unlocked.initiative.ts","id":"01a183e9-ac02-7581-85d0-13e1ef6769d5"}
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/awen-l1.persona-wallpaper-notification.ts","id":"019f182f-7afe-7b5f-8689-d30ea901c096"}
