@@ -11,9 +11,15 @@ export const fairyTail100YearsQuest = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "248947", externalLink: "https://www.themoviedb.org/tv/248947" },
+    {
+      source: "tmdb",
+      externalId: "248947",
+      externalLink: "https://www.themoviedb.org/tv/248947",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "FAIRY TAIL 100 YEARS QUEST",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:48:03.490Z",
-  updatedAt: "2026-10-28T18:48:03.490Z",
+  updatedAt: "2026-10-28T19:44:11.915Z",
 } as const satisfies Show
