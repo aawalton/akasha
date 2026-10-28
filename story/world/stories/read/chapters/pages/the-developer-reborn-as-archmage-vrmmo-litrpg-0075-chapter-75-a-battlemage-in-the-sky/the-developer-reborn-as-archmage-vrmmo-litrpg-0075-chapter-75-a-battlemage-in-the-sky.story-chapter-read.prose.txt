@@ -1,0 +1,209 @@
+Darya crashed feet first into the tower floor. She slid across the old wood and caught herself before slamming against the stone wall. She had miscalculated the angle and distance of the Wind Step.
+
+Bad landing. Again. I have to practice this sometime.
+
+“Princess is here!” Sarka announced loudly.
+
+Emil snapped awake with a yelp. He clutched his chest and looked up at her in surprise.
+
+“How did you get here? What?!”
+
+“Came from above,” Darya said, pointing at the sky. “Wake up. We have work to do.”
+
+“Above?” Emil stared up, rubbing his sleepy eyes. His brows twisted. “What the–”
+
+“Oh my, I see hundreds of Shadows! The Dreagan!” Sarka exclaimed.
+
+Darya looked up with them. The Dreagan was a big black dot, and the Shadows were tiny dots scattering around it like bees.
+
+That’s really far up. I should actually be scared.
+
+She was subconsciously comparing the sky-diving altitude with the depths of a trench. That was, in fact, a better proposition than getting imploded in the depths, but there was such a thing as being too relaxed. A fall for any reason could kill her just as easily as the trench could.
+
+“What did you do?! How are we going to fight that!” Emil asked, grabbing his head with both hands.
+
+“In any way we can,” Darya said with a scoff. Saying this, she took the gauntlet off her forearm.
+
+“Princess, this is a disproportionate response from a Dreagan. Should we retreat?”
+
+“We can’t,” Darya said. “There are some four-eyed angels throwing mana spears from far away. Can’t let any of those get near the ship.”
+
+“Filvorans!” Sarka yelled. “How many are there?!”
+
+“I didn’t count.” Darya handed the gauntlet to Emil.
+
+“What am I supposed to do with this?” He asked, tilting his head.
+
+“Your best.” Darya tapped the soulstone ring. “I’m taking that back. Sarka, you’re coming with me.”
+
+Emil looked shocked. “Wait, I can’t fly that high. Are you crazy?!”
+
+“I can take you there,” Darya said, pulling the ring out. She slid it onto her middle finger.
+
+“How?!”
+
+“No time for questions, Emil. Do you trust me or not?”
+
+“Fine!” Emil yelled, sliding the gauntlet on.
+
+[Inspect]
+
+Character: Emil VolfarroRole: Battlemage Ascendant IV Level: 78 EXP: 1,448,447 (86%)
+
+HP: 2,607 MAX HP: 2,607 MP: 3,182 MAX MP: 3,397 SP: 1,878 MAX SP: 1,885
+
+STR: 1,259 DEX: 1,169 CON: 1,251 RES: 914
+
+The stats were better than Darya expected. He wasn’t rank supreme yet, but he was higher level than Fominel and Seris. Battlemage was its own branch under the umbrella of Mage that required a higher starting level.
+
+He can’t be a battlemage without traversal skills and spells. Probably more mobile than me.
+
+“Do you have a flying spell?” Darya asked.
+
+“Three?” Emil said, raising his head as he tested the claws of the gauntlet. He didn’t seem to enjoy it at all. “And that fourth one we learned together.”
+
+“Which one is that?”
+
+“Oh, right. You forgot. Flying Celestian. It’s too slow for that situation. How did you even get up there? Did you learn a new spell?”
+
+“The Princess is awakened, Prince Volfarro. I already briefed you on these matters!” Sarka said impatiently.
+
+“I know, but you have to use a spell of some sort to fly. I just can’t imagine anything that can outfly an angel. Is it a porting technique? That’s what it looked like to me.”
+
+“It’s almost like porting. Second question. How good are your defensive spells and skills? Can you handle multiple enemies?”
+
+“That’s what I always do—”
+
+“We don’t have time to discuss. I’m just making sure what you can and can’t do. Now I know you can fly and you can defend yourself.” Darya said hurriedly. “Most importantly, you fought these angels before, didn’t you?”
+
+“When I had my weapons!” Emil said grimly.
+
+“I’ll give you the craziest weapon you’ve ever used in your life. I’m not sure if you’ll kill yourself with it yet. First, show me what you can do up there.”
+
+“What kind of weapon?” Emil clenched the gauntlet claws. “This one’s pretty bad!”
+
+“It’s a secret kind of weapon that only I can use.” Darya looked at the soulstone ring. “Sarka, here’s the plan. Your job is to keep all your attention on Emil. Both your mana detection and your other senses. Your target is Emil. Is that understood?”
+
+“Yes, Princess! I will track Prince Volfarro at all times.”
+
+“What should I do?” Emil asked curiously.
+
+“Distract the angels. Keep them busy. Do anything you can to keep them near this island. If any of them wander off and find our ship, we’ve failed.”
+
+Emil looked at her with a frown. He tapped his forefinger on his gauntlet, slightly shaking his head. Darya thought he was about to disagree, but she had read his thinking face wrong. He nodded to himself at the end of it, and stopped tapping the gauntlet.
+
+Did he plan everything on a mental abacus or something? What was that?
+
+“How long?” Emil asked.
+
+Darya couldn’t hide her smile. That was the last question she expected from him. He had skipped several steps ahead by himself.
+
+“Three minutes,” Darya said.
+
+“Alright. I’ll buy you five,” Emil said, pointing the gauntlet at his feet. “If this thing breaks, make that two. Ready to go.”
+
+“Sarka, are you ready?” Darya asked, pulling the telescope out.
+
+“Yes, Princess!”
+
+“What’s with that telescope?! Is that necessary for porting?” Emil sounded curious. This wasn’t the time to answer that. Darya flipped him around and wrapped an arm around him.
+
+“Cast your Flying Celestian.”
+
+“Whoa! You’re going to port me with you?!” Emil looked at her over his shoulder. “I was going to use a different spell to fly faster.”
+
+“You have to be weightless, or I’m not sure what’ll happen to you when I take you there. This faster spell, does it work with Flying Celestian without a problem?”
+
+“Yeah, but it’s a waste–”
+
+“Necessary waste for your safety. Do it.”
+
+He cast it right away with his gauntlet. The spell applied to her by proxy, and they both turned weightless, floating over the tower. Darya had never used the Frame command to carry someone else. It wasn’t safe to use without Terminate, but she couldn’t carry another entity through Terminate.
+
+She was taking a chance with this one. She had to drop Emil somewhere up there. She observed the flying Shadows for a few seconds. Crashing into them at Frame speed was instant death for both. Being weightless wouldn’t help much. She spotted a lonely one flying to her right. It was one of the Shadows furthest away from the Dreagan.
+
+“Hold your breath,” Darya said, doing the same as she tightened her arm around Emil.
+
+[Frame Selected Entity]
+
+They zoomed up at incredible speed. Emil let out a loud grunt at the takeoff, and they were at their destination by the time he finished his grunt.
+
+“—ugh!” He blurted as Darya let go. They were four feet away from a very surprised Shadow. Darya let go of the boy to kick or punch its guts out.
+
+[Vainfall: Terminate]
+
+Right as the world turned monochrome, she saw Emil frozen in an interesting pose. He was already straightening himself out, gauntlet aimed directly at the Shadow. A glowing blob burst from the claws, on a direct trajectory toward the Shadow’s neck.
+
+I shouldn’t have bothered. That’s an accurate shot. I’ll leave him to it.
+
+She turned in place, looking for her own destination in the ocean. She found Nerima and the whale again.
+
+“Princess! I remember this world-freezing magic!” Sarka said eagerly.
+
+“I’m heading down. Keep track of Emil and yell if it looks like he needs my help.”
+
+“I will!”
+
+Darya targeted the white shape of the whale.
+
+[Frame Selected Entity]
+
+She appeared about twenty feet off the water surface.
+
+“Aeeh!” A yelp came from Nerima, who had been lying on her back against the whale, splashed back into the water.
+
+[Wind Step]
+
+Darya attempted a smooth landing on the waves, but she crashed sideways again. Nerima came from below, hugged her tight, and lifted her only seconds later. She brought Darya next to the whale and let her stay afloat.
+
+“Hope everything is well, Nerima!” Sarka greeted her in a slightly distracted voice. His attention was on Emil as he promised.
+
+“I’m never getting used to you appearing out of nowhere, Princess!” Nerima said, patting her chest.
+
+Darya spurted salt water out. “Sorry about that!”
+
+“I watched those dots for a while, but got bored. There was nothing to do. Lurim’s gone back to the beach to drink tea with the old man.”
+
+“Should’ve brought another telescope for you,” Darya said as she rummaged around her waist.
+
+“You need two as we planned. In case one breaks! I’m fine being bored.”
+
+“Don’t let your guard down. They’re angel Shadows. I sent two or three tumbling down. Not sure if they died yet; they could be flying around.”
+
+“I’ll keep an eye out!” Nerima said quickly.
+
+“Princess, what are we doing here?” Sarka asked, sounding distracted again.
+
+Darya found what she was rummaging for. She loosened the knot and pulled out a stick. “I need Nerima to hold this.”
+
+“Uh?” Nerima took it with a confused look on her face.
+
+“This is for a quick experiment. Nerima, aim it at the Dreagan.”
+
+Nerima closed one eye and leveled her arm, pointing her stick at the Dreagan. “Like this?”
+
+“Hold it like that, and don’t move!” Darya said.
+
+“Alright!”
+
+Darya switched the telescope to her left hand. “Here goes!”
+
+[Vainfall: Edit Collider Wireframe.]
+
+She reached out and grabbed a vertex from the sharp end of the stick. It didn’t matter which one. Holding it right, she targeted the Dreagan with her telescope.
+
+“I’m going to be back in seconds. I might botch the landing again, but stay exactly as you are. Don’t move this arm for any reason. Understood?”
+
+“Yes!” Nerima said with a determined look.
+
+“Princess? What is this spell—” Sarka sounded intrigued and surprised at the same time.
+
+“You haven’t seen this before.”
+
+[Vainfall: Terminate]
+
+“Is it a new one?!”
+
+[Vainfall: Frame Selected Entity.]
+
+“Let’s see how far this can go, shall we?”
