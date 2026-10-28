@@ -16,8 +16,6 @@
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"story-turn-played.page-type.types.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/turns/gifted-reborn-00-001.story-turn-played.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"story-turn-played.page-type.types.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/turns/gifted-reborn-00-002.story-turn-played.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.types.ts","path":"story/world/pages/probe-two-world/stories/played/probe-two/turns/probe-two-00-001.story-turn-played.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.types.ts","path":"story/world/pages/test-world/stories/played/beat-flow-test/turns/beat-flow-test-00-001.story-turn-played.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.types.ts","path":"story/world/pages/test-world/stories/played/beat-flow-test/turns/beat-flow-test-00-002.story-turn-played.ts","typed":true,"deferred":false}
