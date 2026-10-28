@@ -11,9 +11,14 @@ export const hotarubiNoMoriE = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "92321", externalLink: "https://www.themoviedb.org/movie/92321" },
+    {
+      source: "tmdb",
+      externalId: "92321",
+      externalLink: "https://www.themoviedb.org/movie/92321",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Hotarubi no Mori e",
   createdAt: "2026-10-28T18:52:03.214Z",
-  updatedAt: "2026-10-28T18:52:03.214Z",
+  updatedAt: "2026-10-28T19:47:26.635Z",
 } as const satisfies Movie
