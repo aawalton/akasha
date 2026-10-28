@@ -9,6 +9,7 @@ export interface HudCell {
 export interface HudField {
   id: string
   order: number
+  side?: "left" | "right"
   compute: (this: void) => HudCell
 }
 

@@ -23,7 +23,11 @@ export const hudAddonSpeed = {
       decisionKind: "decision-kind/departure",
       statement: "A player not moving has no speed shown.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Speed sits at the bar's right end, so its coming and going moves no other field.",
+    },
   ],
   createdAt: "2026-10-20T18:57:51.483Z",
-  updatedAt: "2026-10-20T19:06:51.920Z",
+  updatedAt: "2026-10-28T15:07:04.747Z",
 } as const satisfies Module

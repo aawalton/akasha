@@ -33,10 +33,18 @@ export const hudAddonBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A field stating the right side is laid out from the bar's right edge inward.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field stating no side is laid out from the bar's left edge.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The bar lays its cells out again on every redraw, as a cell's text changes width.",
     },
   ],
   createdAt: "2026-09-02T10:58:22.045Z",
-  updatedAt: "2026-10-18T17:34:18.543Z",
+  updatedAt: "2026-10-28T15:07:04.747Z",
 } as const satisfies Module

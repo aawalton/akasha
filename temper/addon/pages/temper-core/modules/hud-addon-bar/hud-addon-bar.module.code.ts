@@ -41,11 +41,9 @@ function makeLabel(id: string): LabelControl {
   return colorText(styleTextOverPlay(label, "number"), colorOf("muted"))
 }
 
-function reflow(): undefined {
-  if (container === undefined) return
-  const bar = container
+function placeRun(bar: Control, fields: readonly HudField[], fromRight: boolean): undefined {
   const placed: LabelControl[] = []
-  for (const field of registry.list()) {
+  for (const field of fields) {
     const label = labels.get(field.id)
     if (label !== undefined) placed.push(label)
   }
@@ -61,8 +59,20 @@ function reflow(): undefined {
       return
     }
     label.SetHidden(false)
-    label.SetAnchor(RIGHT, bar, LEFT, span.left + span.width, 0)
+    if (fromRight) label.SetAnchor(RIGHT, bar, RIGHT, -span.left, 0)
+    else label.SetAnchor(RIGHT, bar, LEFT, span.left + span.width, 0)
   })
+}
+
+function reflow(): undefined {
+  if (container === undefined) return
+  const fields = registry.list()
+  placeRun(
+    container,
+    fields.filter((field) => field.side !== "right"),
+    false
+  )
+  placeRun(container, fields.filter((field) => field.side === "right").reverse(), true)
 }
 
 export function initializeHudBar(): undefined {

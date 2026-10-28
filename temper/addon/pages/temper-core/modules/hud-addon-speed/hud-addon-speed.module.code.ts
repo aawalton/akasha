@@ -69,5 +69,5 @@ function speedCell(): HudCell {
 
 export function installSpeedField(): undefined {
   EVENT_MANAGER.RegisterForUpdate(SAMPLE_NAMESPACE, SAMPLE_INTERVAL_MS, takeSample)
-  registerHudField({ id: "speed", order: 40, compute: speedCell })
+  registerHudField({ id: "speed", order: 40, side: "right", compute: speedCell })
 }
