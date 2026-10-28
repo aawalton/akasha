@@ -15,9 +15,17 @@ export const dragonBallZBattleOfGods = {
       source: "tmdb",
       externalId: "126963",
       externalLink: "https://www.themoviedb.org/movie/126963",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Dragon Ball Z: Battle of Gods",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+  ],
   createdAt: "2026-10-28T18:53:43.683Z",
-  updatedAt: "2026-10-28T18:53:43.683Z",
+  updatedAt: "2026-10-28T19:46:56.769Z",
 } as const satisfies Movie
