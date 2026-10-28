@@ -11,9 +11,21 @@ export const gurrenLagann = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "21729", externalLink: "https://www.themoviedb.org/tv/21729" },
+    {
+      source: "tmdb",
+      externalId: "21729",
+      externalLink: "https://www.themoviedb.org/tv/21729",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Gurren Lagann",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+  ],
   createdAt: "2026-10-28T18:52:53.885Z",
-  updatedAt: "2026-10-28T18:52:53.885Z",
+  updatedAt: "2026-10-28T19:44:27.427Z",
 } as const satisfies Show
