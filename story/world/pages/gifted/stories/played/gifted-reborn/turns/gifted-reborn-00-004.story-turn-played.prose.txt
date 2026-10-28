@@ -11,3 +11,5 @@ So you count. One, two, three, four. Past fifty, past a hundred, on into the hun
 :::skill
 name: Path of Basic Numeracy
 :::
+
+You keep counting. Up by twos: two, four, six, eight. Up by threes: three, six, nine, twelve. Then back down the same ladders, to zero.
