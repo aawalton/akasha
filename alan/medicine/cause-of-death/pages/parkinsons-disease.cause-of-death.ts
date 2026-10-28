@@ -79,6 +79,20 @@ export const parkinsonsDisease = {
       url: "https://wonder.cdc.gov/ucd-icd10-expanded.html",
     },
   ],
+  riskFactors: [
+    {
+      factor: "Parkinson's disease in a first-degree relative",
+      personProperty: "family-history",
+      appliedAs:
+        "first-degree relative with Parkinson's disease vs no family history, Parkinson's diagnosis (odds ratio)",
+      relativeRiskLow: 2.65,
+      relativeRiskCentral: 3.23,
+      relativeRiskHigh: 3.93,
+      citation:
+        "Noyce AJ, Bestwick JP, Silveira-Moriyama L, et al. Meta-analysis of early nonmotor features and risk factors for Parkinson disease. Ann Neurol 2012;72(6):893-901. doi:10.1002/ana.23687",
+      url: "https://pubmed.ncbi.nlm.nih.gov/23071076/",
+    },
+  ],
   createdAt: "2026-10-28T18:40:27.931Z",
-  updatedAt: "2026-10-28T18:40:27.931Z",
+  updatedAt: "2026-10-28T18:42:01.465Z",
 } as const satisfies CauseOfDeath

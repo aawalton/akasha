@@ -87,6 +87,19 @@ export const colorectalCancer = {
       url: "https://wonder.cdc.gov/ucd-icd10-expanded.html",
     },
   ],
+  riskFactors: [
+    {
+      factor: "red and processed meat",
+      personProperty: "meat-servings-per-week",
+      appliedAs: "per 100 g a day of red and processed meat combined, colorectal cancer incidence",
+      relativeRiskLow: 1.04,
+      relativeRiskCentral: 1.14,
+      relativeRiskHigh: 1.24,
+      citation:
+        "Chan DSM, Lau R, Aune D, Vieira R, Greenwood DC, Kampman E, Norat T. Red and processed meat and colorectal cancer incidence: meta-analysis of prospective studies. PLoS One 2011;6(6):e20456. doi:10.1371/journal.pone.0020456",
+      url: "https://pubmed.ncbi.nlm.nih.gov/21674008/",
+    },
+  ],
   createdAt: "2026-10-28T18:36:41.827Z",
-  updatedAt: "2026-10-28T18:36:41.827Z",
+  updatedAt: "2026-10-28T18:42:01.465Z",
 } as const satisfies CauseOfDeath
