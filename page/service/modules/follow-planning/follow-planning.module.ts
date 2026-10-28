@@ -6,6 +6,7 @@ export const followPlanning = {
   slug: "follow-planning",
   definition: "the folders and files heard for what every open stream follows",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -23,7 +24,15 @@ export const followPlanning = {
       decisionKind: "decision-kind/departure",
       statement: "A file a computed property keeps is heard once, for every page type carrying it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a computed property keeps is indexed again only once its file changes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A plan names the follows hearing each kept file apart from the folders heard.",
+    },
   ],
   createdAt: "2026-09-27T07:06:03.700Z",
-  updatedAt: "2026-09-27T07:06:11.000Z",
+  updatedAt: "2026-10-28T21:05:20.336Z",
 } as const satisfies Module

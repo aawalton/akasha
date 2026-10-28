@@ -1,3 +1,4 @@
+import { statSync } from "node:fs"
 import { basename, dirname, isAbsolute, join } from "node:path"
 import {
   everyOfType,
@@ -39,12 +40,13 @@ export type Target = {
   readonly computed: string
 }
 
-type Aimed = ReadonlyMap<string, ReadonlyMap<string | null, readonly (readonly Target[])[]>>
+type Aimed = ReadonlyMap<string, ReadonlyMap<string | null, readonly string[]>>
 
 export type Planned = {
   readonly pages: ReadonlySet<string>
   readonly listed: ReadonlyMap<string, string>
   readonly read: Aimed
+  readonly aimed: ReadonlyMap<string, readonly Target[]>
   readonly keeping: ReadonlyMap<string, ReadonlySet<string>>
 }
 
@@ -80,6 +82,26 @@ export function heardOf(
 
 type Keep = { readonly at: string; readonly kept: Kept; readonly computed: string }
 
+type Stamped = { readonly mtimeMs: number; readonly size: number; readonly kept: Kept }
+
+const STAMPED = new Map<string, Stamped>()
+
+const NOTHING_KEPT = keptIn(null)
+
+function keptAt(root: string, page: string, at: string): Kept {
+  const full = join(root, at)
+  const found = statSync(full, { throwIfNoEntry: false })
+  if (found === undefined) {
+    STAMPED.delete(full)
+    return NOTHING_KEPT
+  }
+  const held = STAMPED.get(full)
+  if (held?.mtimeMs === found.mtimeMs && held.size === found.size) return held.kept
+  const kept = keptIn(uncommittedIn(root, page))
+  STAMPED.set(full, { mtimeMs: found.mtimeMs, size: found.size, kept })
+  return kept
+}
+
 function keepsOf(
   root: string,
   reading: Reading,
@@ -92,7 +114,7 @@ function keepsOf(
     const page = listedAt(reading, COMPUTED, one.pagePropertySlug)[0]
     const at = page === undefined ? null : uncommittedAt(page.path)
     if (page === undefined || at === null) continue
-    const kept = seen.get(at) ?? keptIn(uncommittedIn(root, page.path))
+    const kept = seen.get(at) ?? keptAt(root, page.path, at)
     seen.set(at, kept)
     found.push({ at, kept, computed: page.path })
   }
@@ -101,17 +123,37 @@ function keepsOf(
 
 type Aim = { readonly kept: Kept; readonly targets: Target[]; readonly kinds: Set<string> }
 
-function aimedOver(root: string, aims: Iterable<Aim>): Aimed {
-  const read = new Map<string, Map<string | null, (readonly Target[])[]>>()
-  for (const aim of aims) {
+type Indexed = {
+  readonly root: string
+  readonly ats: readonly string[]
+  readonly kepts: readonly Kept[]
+  readonly read: Aimed
+}
+
+let indexed: Indexed | null = null
+
+function sameEach<T>(one: readonly T[], two: readonly T[]): boolean {
+  return one.length === two.length && one.every((each, at) => each === two[at])
+}
+
+function aimedOver(root: string, aims: ReadonlyMap<string, Aim>): Aimed {
+  const ats = [...aims.keys()]
+  const kepts = [...aims.values()].map((one) => one.kept)
+  const last = indexed
+  if (last?.root === root && sameEach(last.ats, ats) && sameEach(last.kepts, kepts)) {
+    return last.read
+  }
+  const read = new Map<string, Map<string | null, string[]>>()
+  for (const [at, aim] of aims) {
     for (const one of heardOf(root, "", null, aim.kept)) {
-      const names = read.get(one.folder) ?? new Map<string | null, (readonly Target[])[]>()
+      const names = read.get(one.folder) ?? new Map<string | null, string[]>()
       read.set(one.folder, names)
       const held = names.get(one.name) ?? []
       names.set(one.name, held)
-      held.push(aim.targets)
+      held.push(at)
     }
   }
+  indexed = { root, ats, kepts, read }
   return read
 }
 
@@ -155,5 +197,6 @@ export function plannedFor(root: string, helds: readonly Held[]): Planned {
       for (const at of slugFoldersOf(reading, kind)) listed.set(join(root, at), kind)
     }
   }
-  return { pages, listed, read: aimedOver(root, aims.values()), keeping }
+  const aimed = new Map([...aims].map(([at, aim]) => [at, aim.targets] as const))
+  return { pages, listed, read: aimedOver(root, aims), aimed, keeping }
 }

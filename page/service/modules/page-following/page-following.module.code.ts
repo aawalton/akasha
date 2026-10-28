@@ -324,8 +324,8 @@ export function followingFor(
     for (const [folder, names] of planned.read) {
       hear(folder, (name) => {
         const heard = join(folder, name)
-        for (const targets of [...(names.get(name) ?? []), ...(names.get(null) ?? [])]) {
-          for (const one of targets)
+        for (const at of [...(names.get(name) ?? []), ...(names.get(null) ?? [])]) {
+          for (const one of planned.aimed.get(at) ?? [])
             for (const each of changesFor(one, heard, readers)) changed(each)
         }
         return undefined
