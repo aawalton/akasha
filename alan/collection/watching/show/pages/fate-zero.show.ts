@@ -11,9 +11,15 @@ export const fateZero = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "45845", externalLink: "https://www.themoviedb.org/tv/45845" },
+    {
+      source: "tmdb",
+      externalId: "45845",
+      externalLink: "https://www.themoviedb.org/tv/45845",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Fate/Zero",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:50:13.534Z",
-  updatedAt: "2026-10-28T18:50:13.534Z",
+  updatedAt: "2026-10-28T19:44:16.825Z",
 } as const satisfies Show
