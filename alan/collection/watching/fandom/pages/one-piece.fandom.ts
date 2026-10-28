@@ -9,7 +9,7 @@ export const onePiece = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unit: "unit/words",
+  unit: "unit/minutes",
   status: "paused",
   grade: "B",
   publishedAt: "1999-10-20",
@@ -21,5 +21,5 @@ export const onePiece = {
     },
   ],
   createdAt: "2026-09-03T16:09:30.488Z",
-  updatedAt: "2026-10-28T18:38:24.650Z",
+  updatedAt: "2026-10-28T18:42:06.413Z",
 } as const satisfies Fandom

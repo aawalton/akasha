@@ -9,9 +9,9 @@ export const frierenBeyondJourneySEnd = {
   position: 13,
   ownLength: 0,
   ownProgress: 0,
-  unit: "unit/words",
+  unit: "unit/minutes",
   status: "following",
   grade: "A",
   createdAt: "2026-09-03T16:09:30.487Z",
-  updatedAt: "2026-10-28T18:38:24.650Z",
+  updatedAt: "2026-10-28T18:42:06.413Z",
 } as const satisfies Fandom
