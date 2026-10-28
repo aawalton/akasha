@@ -18,3 +18,5 @@ You keep counting. Up by twos: two, four, six, eight. Up by threes: three, six, 
 name: Path of Basic Numeracy
 note: Tier: 1; Mental: +1
 :::
+
+Then multiples. Sevens, up and down: seven, fourteen, twenty-one, twenty-eight. Nines next, then twelves, up past a hundred and forty-four and back down again, while the heartbeat thumps on.
