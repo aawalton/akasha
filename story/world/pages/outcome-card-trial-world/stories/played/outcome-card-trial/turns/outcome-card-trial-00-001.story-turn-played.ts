@@ -12,5 +12,6 @@ export const outcomeCardTrial00001 = {
   stepStatus: "step-status/player",
   action: "I draw my sword and cut the rope holding the sign",
   createdAt: "2026-10-28T18:04:46.950Z",
-  updatedAt: "2026-10-28T18:04:46.950Z",
+  updatedAt: "2026-10-28T18:05:05.083Z",
+  outcomes: "jsonl",
 } as const satisfies StoryTurnPlayed
