@@ -32,6 +32,7 @@ export const worldCharacter = {
     "text-property/epistemic",
     "text-property/source-chapter",
     "text-property/cover-description",
+    "relation-property/character-color",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -46,6 +47,7 @@ export const worldCharacter = {
     { pageProperty: "relation-property/alias-of", required: false, many: false },
     { pageProperty: "relation-property/merged-into", required: false, many: false },
     { pageProperty: "text-property/cover-description", required: false, many: false },
+    { pageProperty: "relation-property/character-color", required: false, many: false },
   ],
   decisions: [
     {
@@ -86,5 +88,5 @@ export const worldCharacter = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:15:29.485Z",
-  updatedAt: "2026-10-27T23:48:37.283Z",
+  updatedAt: "2026-10-28T17:42:58.708Z",
 } as const satisfies PageType

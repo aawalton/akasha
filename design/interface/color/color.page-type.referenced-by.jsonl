@@ -32,4 +32,5 @@
 {"propertySlug":"target-page-type","path":"code/stylesheet/properties/stylesheet-color.relation-property.ts","id":"01a0d58f-e044-7401-9ebe-ec348f69d852"}
 {"propertySlug":"target-page-type","path":"page/select-property/properties/select-option-color.relation-property.ts","id":"01a0c532-3208-72dc-b206-6ba84b69e302"}
 {"propertySlug":"target-page-type","path":"story/properties/story-color.computed-property.ts","id":"01a0eafd-aac3-7d63-991e-1606a29f818b"}
+{"propertySlug":"target-page-type","path":"story/world/characters/properties/character-color.relation-property.ts","id":"01a1839b-a795-783f-ac0e-45f5e2010078"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/checks/outcome-tiers/properties/outcome-tier-color.relation-property.ts","id":"01a1839b-06ef-7091-a5c4-128654c7607b"}
