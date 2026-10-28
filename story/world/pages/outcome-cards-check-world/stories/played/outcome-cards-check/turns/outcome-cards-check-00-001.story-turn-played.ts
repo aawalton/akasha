@@ -7,8 +7,9 @@ export const outcomeCardsCheck00001 = {
   unit: "unit/words",
   partOfCollections: ["story-played/outcome-cards-check"],
   position: 1,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I draw my sword and try to split a falling leaf in two before it touches the floor.",
+  lore: ["place/outcome-cards-check-world-square"],
   createdAt: "2026-10-28T01:26:15.641Z",
-  updatedAt: "2026-10-28T01:26:15.641Z",
+  updatedAt: "2026-10-28T01:27:37.900Z",
 } as const satisfies StoryTurnPlayed
