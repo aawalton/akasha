@@ -6,6 +6,7 @@ export const inventoryManagementPlanRoute = {
   slug: "inventory-management-plan-route",
   definition: "the route an item takes from where the item lies to where a rule sends it",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -20,7 +21,21 @@ export const inventoryManagementPlanRoute = {
       decisionKind: "decision-kind/departure",
       statement: "A routed item keeps the stack size its holding reads.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An item leaving shared storage for another storage is carried by the storage carrier.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An item taken from storage to a venue goes to the first character the reading lists.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A destination naming a character sends the item to that character instead.",
+    },
   ],
   createdAt: "2026-09-02T08:51:47.593Z",
-  updatedAt: "2026-10-28T19:08:00.033Z",
+  updatedAt: "2026-10-28T19:19:22.781Z",
 } as const satisfies Module

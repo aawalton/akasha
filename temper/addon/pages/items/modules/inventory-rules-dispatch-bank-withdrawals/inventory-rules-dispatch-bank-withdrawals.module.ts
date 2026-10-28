@@ -19,7 +19,17 @@ export const inventoryRulesDispatchBankWithdrawals = {
       decisionKind: "decision-kind/departure",
       statement: "A stock rule's first-listed items are withdrawn before the ones listed after.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "At the bank or a house chest, only the storage carrier withdraws an item bound for storage.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An item a house chest gives up for a venue is withdrawn by whoever visits the chest.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-09-26T17:44:47.000Z",
+  updatedAt: "2026-10-28T19:19:22.781Z",
 } as const satisfies Module

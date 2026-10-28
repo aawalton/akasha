@@ -8,3 +8,17 @@ export function isConsolidateDest(destination: string | undefined): boolean {
     destination.startsWith("house-storage:")
   )
 }
+
+export function isStorageCarrierMove(
+  destination: string | undefined,
+  fromSharedStorage: boolean
+): boolean {
+  if (isConsolidateDest(destination)) return true
+  return fromSharedStorage && destination === "bank"
+}
+
+export function storageCarrierOf(
+  characterPriority: readonly string[] | undefined
+): string | undefined {
+  return characterPriority?.[0]
+}

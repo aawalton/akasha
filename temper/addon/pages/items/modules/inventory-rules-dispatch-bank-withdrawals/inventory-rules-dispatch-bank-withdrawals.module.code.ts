@@ -42,7 +42,11 @@ import { isBackpackRequiredAction } from "akasha/temper/items/rules/core/modules
 import { stockPriorityRank } from "akasha/temper/items/rules/core/modules/stock-item-priority/stock-item-priority.module.code.ts"
 import { planStockReconcile } from "akasha/temper/items/rules/core/modules/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
 import type { CharacterId } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
-import { isConsolidateDest } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
+import {
+  isConsolidateDest,
+  isStorageCarrierMove,
+  storageCarrierOf,
+} from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -212,10 +216,9 @@ function collectBankWithdrawals(
       }
     }
 
-    if (ctx.isBank && isConsolidateDest(dest)) {
-      const compiled = getCompiledConfig()
-      const primary = compiled?.characterPriority?.[0]
-      if (primary !== undefined && currentCharId !== primary) {
+    if ((ctx.isBank || ctx.isHouseStorage) && isStorageCarrierMove(dest, ctx.isHouseStorage)) {
+      const carrier = storageCarrierOf(getCompiledConfig()?.characterPriority)
+      if (carrier !== undefined && currentCharId !== carrier) {
         clearPendingAction(bagId, slotIndex)
         return
       }

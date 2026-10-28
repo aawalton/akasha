@@ -11,7 +11,21 @@ export const inventoryConsolidateDest = {
       decisionKind: "decision-kind/departure",
       statement: "A destination gathering stock is known by the name the destination has.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every move between storages goes through the storage carrier, first on the priority list.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Moves into a gathering place, and moves from shared storage into the bank, are such moves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Erin Solstice heads the priority list, so Erin carries every such move.",
+    },
   ],
   createdAt: "2026-09-02T08:51:47.591Z",
-  updatedAt: "2026-09-22T10:19:56.000Z",
+  updatedAt: "2026-10-28T19:19:22.781Z",
 } as const satisfies Module
