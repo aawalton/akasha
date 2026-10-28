@@ -9,11 +9,12 @@ export const mrshaDuMarquin = {
   completion: "json",
   esoCharacterId: "8796093045924843",
   accountPage: "temper-account/alanarre",
+  liveBuildId: "01a18407-0af2-7c7b-9a0b-eb069f21ce45",
   race: "temper-race/khajiit",
   class: "temper-class/warden",
   firstName: "Mrsha",
   fights: "jsonl",
   readings: "jsonl",
   createdAt: "2026-04-29T16:44:25.366Z",
-  updatedAt: "2026-10-25T19:57:17.636Z",
+  updatedAt: "2026-10-28T19:40:57.640Z",
 } as const satisfies TemperAccountCharacter
