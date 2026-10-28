@@ -56,6 +56,8 @@ const itemSchema = z
     uncollected: z.boolean().optional(),
     locked: z.boolean().optional(),
     crafted: z.boolean().optional(),
+    craftedAt: z.number().optional(),
+    dailyWritNeeded: z.boolean().optional(),
     known: z.boolean().optional(),
     junk: z.boolean().optional(),
     junkable: z.boolean().optional(),

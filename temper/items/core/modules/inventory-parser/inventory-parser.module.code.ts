@@ -142,6 +142,9 @@ function parseItem(raw: unknown): InventoryItemData | undefined {
   if (typeof item.locked === "boolean") parsed.locked = item.locked
   if (typeof item.known === "boolean") parsed.known = item.known
   if (typeof item.crafted === "boolean") parsed.crafted = item.crafted
+  const craftedAt = asOptionalNumber(item.craftedAt)
+  if (craftedAt !== undefined) parsed.craftedAt = craftedAt
+  if (typeof item.dailyWritNeeded === "boolean") parsed.dailyWritNeeded = item.dailyWritNeeded
   if (typeof item.isContainer === "boolean") parsed.isContainer = item.isContainer
 
   const enchantHeader = stringIn(item.enchantHeader)

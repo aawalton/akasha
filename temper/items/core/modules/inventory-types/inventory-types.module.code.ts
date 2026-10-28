@@ -10,6 +10,8 @@ export const ESO_ITEMTYPE_CRAFTED_ABILITY_SCRIPT = 73
 
 export const ESO_ITEMTYPE_CONTAINER = 18
 
+export const CRAFTED_BEFORE_THE_STAMP = 0
+
 export function isKnowledgeItem(
   itemType: number | undefined,
   specializedItemType: number | undefined
@@ -76,6 +78,8 @@ export interface InventoryItemData {
   uncollected?: boolean
   locked?: boolean
   crafted?: boolean
+  craftedAt?: number
+  dailyWritNeeded?: boolean
   known?: boolean
   junk?: boolean
   junkable?: boolean

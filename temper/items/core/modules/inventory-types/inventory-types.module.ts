@@ -44,7 +44,20 @@ export const inventoryTypes = {
       decisionKind: "decision-kind/departure",
       statement: "`resolvedBy` names the route that resolved the item where no index names a rule.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A crafted item carries `craftedAt`, the second the addon first saw it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A `craftedAt` of `CRAFTED_BEFORE_THE_STAMP` says the item was held before any stamp.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A crafted item carries `dailyWritNeeded`, whether a daily writ held asks for it.",
+    },
   ],
   createdAt: "2026-09-02T06:18:53.859Z",
-  updatedAt: "2026-09-24T23:18:23.000Z",
+  updatedAt: "2026-10-28T18:35:47.017Z",
 } as const satisfies Module
