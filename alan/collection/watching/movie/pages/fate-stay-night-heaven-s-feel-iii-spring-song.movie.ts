@@ -15,9 +15,11 @@ export const fateStayNightHeavenSFeelIiiSpringSong = {
       source: "tmdb",
       externalId: "390635",
       externalLink: "https://www.themoviedb.org/movie/390635",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Fate/stay night: Heaven's Feel III. Spring Song",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:50:23.950Z",
-  updatedAt: "2026-10-28T18:50:23.950Z",
+  updatedAt: "2026-10-28T19:47:13.886Z",
 } as const satisfies Movie
