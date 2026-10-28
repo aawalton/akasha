@@ -11,9 +11,15 @@ export const theDisastrousLifeOfSaikiK = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "67676", externalLink: "https://www.themoviedb.org/tv/67676" },
+    {
+      source: "tmdb",
+      externalId: "67676",
+      externalLink: "https://www.themoviedb.org/tv/67676",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "The Disastrous Life of Saiki K.",
+  streamingOn: ["Netflix", "Netflix Standard with Ads"],
   createdAt: "2026-10-28T18:54:42.859Z",
-  updatedAt: "2026-10-28T18:54:42.859Z",
+  updatedAt: "2026-10-28T19:46:21.899Z",
 } as const satisfies Show
