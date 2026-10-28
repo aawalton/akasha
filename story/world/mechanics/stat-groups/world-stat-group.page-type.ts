@@ -7,8 +7,10 @@ export const worldStatGroup = {
   definition: "a group a world shows some of its stats under by name",
   pluralSlug: "stat-groups",
   extends: ["page-type/world-mechanic"],
+  parts: ["number-property/stat-slots"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "number-property/stat-slots", required: false, many: false },
     { pageProperty: "number-property/display-order", required: false, many: false },
   ],
   runsTabooCheck: false,
@@ -29,5 +31,5 @@ export const worldStatGroup = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-28T14:50:45.588Z",
-  updatedAt: "2026-10-28T14:50:45.588Z",
+  updatedAt: "2026-10-28T14:52:16.716Z",
 } as const satisfies PageType

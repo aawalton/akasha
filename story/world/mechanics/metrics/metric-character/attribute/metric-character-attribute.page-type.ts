@@ -16,10 +16,11 @@ export const metricCharacterAttribute = {
     "page-type/tower-of-nimue-attribute",
     "page-type/tower-of-nimue-level",
     "page-type/the-beholder-attribute",
+    "relation-property/stat-group",
   ],
-
+  properties: [{ pageProperty: "relation-property/stat-group", required: false, many: false }],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T16:33:19.046Z",
-  updatedAt: "2026-10-27T20:05:18.843Z",
+  updatedAt: "2026-10-28T14:52:16.716Z",
 } as const satisfies PageType
