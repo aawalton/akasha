@@ -3,7 +3,6 @@ import {
   conditionsIn,
   type Held,
   habitsIn,
-  LEVERS,
   meatPerDayIn,
   onStimulantIn,
   parkinsonsIn,
@@ -11,6 +10,10 @@ import {
   stimulantStartIn,
   stimulantYearsAt,
 } from "akasha/command/pages/medicine/modules/mortality-readings/mortality-readings.module.code.ts"
+import {
+  levelsOf,
+  routinesOf,
+} from "akasha/command/pages/medicine/modules/mortality-routines/mortality-routines.module.code.ts"
 
 const HELD: Held = {
   age: 40.5,
@@ -27,6 +30,7 @@ const HELD: Held = {
   neverDrank: true,
   bmi: 26.1,
   colorectalScreening: "none",
+  routines: routinesOf(levelsOf({}, 0)),
 }
 
 test("colonoscopy counts from 45, against the share of the people already screened", () => {
@@ -117,21 +121,12 @@ test("bodyweight and height give BMI, and no tobacco or alcohol reads as never",
   expect(habitsIn({}).bmi).toBeNull()
 })
 
-test("an action changes only what it names", () => {
-  const meat = LEVERS.find((one) => one.named.includes("meat"))
-  expect(meat?.to(HELD)).toEqual({ ...HELD, meatPerDay: 0 })
-})
-
-test("holding the safety level at 3 or above takes away the time below 3 and below 0", () => {
-  const safety = LEVERS.find((one) => one.named.includes("safety level"))
-  expect(safety?.to({ ...HELD, shareBelowZero: 0.1 })).toEqual({
-    ...HELD,
-    shareBelowThree: 0,
-    shareBelowZero: 0,
-  })
-})
-
-test("only long sleep is marked as confounded", () => {
-  const confounded = LEVERS.filter((one) => one.evidence === "confounded").map((one) => one.named)
-  expect(confounded).toEqual(["sleep down to 7 hours"])
+test("routine readings join the cause's own, after them, and depression's care weighs only depressed time", () => {
+  const suicide = readingsFor().get("suicide") ?? []
+  expect(suicide.map((one) => one.factor).slice(-2)).toEqual([
+    "CBT-based psychotherapy",
+    "safety planning",
+  ])
+  expect(suicide.at(-1)?.share?.(HELD)).toBe(0.5)
+  expect(readingsFor().get("covid-19")?.[0]?.factor).toBe("COVID-19 vaccination")
 })

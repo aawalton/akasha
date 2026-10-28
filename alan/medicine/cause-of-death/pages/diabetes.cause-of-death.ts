@@ -100,7 +100,30 @@ export const diabetes = {
         "Bhaskaran K, dos-Santos-Silva I, Leon DA, Douglas IJ, Smeeth L. Association of BMI with overall and cause-specific mortality: a population-based cohort study of 3.6 million adults in the UK. Lancet Diabetes Endocrinol 2018;6(12):944-953, Table 2, never-smokers. The people's BMI is the US men 20+ mean of 29.4, NHANES August 2021-August 2023, NCHS Vital and Health Statistics Series 3 No. 50, Table 10.",
       url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6249991/",
     },
+    {
+      factor: "muscle-strengthening activity, diabetes",
+      personProperty: "strength-sets",
+      appliedAs:
+        "per 10 minutes a week of muscle-strengthening activity, linear dose-response, type 2 diabetes incidence",
+      relativeRiskLow: 0.97,
+      relativeRiskCentral: 0.98,
+      relativeRiskHigh: 0.99,
+      citation:
+        "Momma H et al. Br J Sports Med 2022;56(13):755-763, Figure 3. doi:10.1136/bjsports-2021-105061",
+      url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9209691/",
+    },
+    {
+      factor: "nuts, diabetes",
+      personProperty: "nuts-grams-per-day",
+      appliedAs: "per 28 g a day of nuts, diabetes mortality",
+      relativeRiskLow: 0.43,
+      relativeRiskCentral: 0.61,
+      relativeRiskHigh: 0.88,
+      citation:
+        "Aune D, Keum N, Giovannucci E, et al. Nut consumption and risk of cardiovascular disease, total cancer, all-cause and cause-specific mortality: a systematic review and dose-response meta-analysis of prospective studies. BMC Med 2016;14:207. doi:10.1186/s12916-016-0730-3",
+      url: "https://pubmed.ncbi.nlm.nih.gov/27916000/",
+    },
   ],
   createdAt: "2026-10-28T18:37:52.016Z",
-  updatedAt: "2026-10-28T19:10:39.459Z",
+  updatedAt: "2026-10-28T20:11:45.142Z",
 } as const satisfies CauseOfDeath

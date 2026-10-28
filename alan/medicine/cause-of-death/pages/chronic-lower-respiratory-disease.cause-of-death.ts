@@ -111,7 +111,29 @@ export const chronicLowerRespiratoryDisease = {
         "Bhaskaran K, dos-Santos-Silva I, Leon DA, Douglas IJ, Smeeth L. Association of BMI with overall and cause-specific mortality: a population-based cohort study of 3.6 million adults in the UK. Lancet Diabetes Endocrinol 2018;6(12):944-953, Table 2, never-smokers. The people's BMI is the US men 20+ mean of 29.4, NHANES August 2021-August 2023, NCHS Vital and Health Statistics Series 3 No. 50, Table 10.",
       url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6249991/",
     },
+    {
+      factor: "nuts, respiratory disease",
+      personProperty: "nuts-grams-per-day",
+      appliedAs: "per 28 g a day of nuts, respiratory disease mortality; 3 studies only",
+      relativeRiskLow: 0.26,
+      relativeRiskCentral: 0.48,
+      relativeRiskHigh: 0.89,
+      citation:
+        "Aune D, Keum N, Giovannucci E, et al. Nut consumption and risk of cardiovascular disease, total cancer, all-cause and cause-specific mortality: a systematic review and dose-response meta-analysis of prospective studies. BMC Med 2016;14:207. doi:10.1186/s12916-016-0730-3",
+      url: "https://pubmed.ncbi.nlm.nih.gov/27916000/",
+    },
+    {
+      factor: "fruit and vegetables, respiratory disease",
+      personProperty: "fruit-vegetable-grams-per-day",
+      appliedAs: "5 vs 2 servings a day of fruit and vegetables, respiratory disease mortality",
+      relativeRiskLow: 0.59,
+      relativeRiskCentral: 0.65,
+      relativeRiskHigh: 0.72,
+      citation:
+        "Wang DD, Li Y, Bhupathiraju SN, et al. Fruit and Vegetable Intake and Mortality: Results From 2 Prospective Cohort Studies of US Men and Women and a Meta-Analysis of 26 Cohort Studies. Circulation 2021;143(17):1642-1654. doi:10.1161/CIRCULATIONAHA.120.048996",
+      url: "https://pubmed.ncbi.nlm.nih.gov/33641343/",
+    },
   ],
   createdAt: "2026-10-28T18:37:52.016Z",
-  updatedAt: "2026-10-28T19:10:39.459Z",
+  updatedAt: "2026-10-28T20:11:45.142Z",
 } as const satisfies CauseOfDeath

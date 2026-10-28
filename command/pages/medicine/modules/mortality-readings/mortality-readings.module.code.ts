@@ -1,4 +1,12 @@
 import {
+  ACTIVITY,
+  DIET,
+  ROUTINE_READINGS,
+  type RoutineReading,
+  type Routines,
+  routineDose,
+} from "akasha/command/pages/medicine/modules/mortality-routines/mortality-routines.module.code.ts"
+import {
   numberAt,
   recordsIn,
   textAt,
@@ -9,7 +17,7 @@ const DAYS_PER_WEEK = 7
 
 export const SELF = "self"
 
-const STEPS_TOP = 7000
+export const STEPS_TOP = 7000
 
 const STEPS_SPAN = 5000
 
@@ -21,7 +29,7 @@ const MEAT_GRAMS_PER_SERVING = 75
 
 const MEAT_GRAMS_UNIT = 100
 
-const SLEEP_FLOOR_HOURS = 7
+export const SLEEP_FLOOR_HOURS = 7
 
 const PEOPLE_BMI = 29.4
 
@@ -39,7 +47,7 @@ const STIMULANT = /lisdexamfetamine|amphetamine|methylphenidate|vyvanse|adderall
 
 const FIRST_DEGREE = new Set(["father", "mother", "brother", "sister"])
 
-const COLONOSCOPY = "colonoscopy-10-yearly"
+export const COLONOSCOPY = "colonoscopy-10-yearly"
 
 const SCREENING_AGE = 45
 
@@ -72,6 +80,7 @@ export type Held = {
   readonly neverDrank: boolean
   readonly bmi: number | null
   readonly colorectalScreening: string
+  readonly routines: Routines
 }
 
 type Dosing = (held: Held, age: number) => number
@@ -81,6 +90,7 @@ export type Reading = {
   readonly dose: Dosing
   readonly share?: (held: Held) => number
   readonly condition?: string
+  readonly cluster?: string
   readonly assumed: string
 }
 
@@ -187,9 +197,9 @@ const IDEATION_SAID =
 
 function cardioReadings(outcome: string): readonly Reading[] {
   return [
-    { factor: "daily steps", dose: stepsDose, assumed: STEPS_SAID },
+    { factor: "daily steps", dose: stepsDose, cluster: ACTIVITY, assumed: STEPS_SAID },
     { factor: "sleep duration", dose: sleepDose, assumed: SLEEP_SAID },
-    { factor: "red and processed meat", dose: meatServingDose, assumed: MEAT_SAID },
+    { factor: "red and processed meat", dose: meatServingDose, cluster: DIET, assumed: MEAT_SAID },
     ...STIMULANT_BANDS.map((band) => ({
       factor: `ADHD medication ${band.named}, ${outcome}`,
       dose: stimulantBandDose(band),
@@ -224,7 +234,31 @@ const SUICIDE: readonly Reading[] = [
   },
 ]
 
+function readingOf(one: RoutineReading): Reading {
+  return {
+    factor: one.factor,
+    dose: (held, age) => routineDose(one, held.routines, age),
+    ...(one.whileDepressed === true ? { share: (held: Held) => held.shareBelowThree } : {}),
+    ...(one.cluster === undefined ? {} : { cluster: one.cluster }),
+    assumed: one.assumed,
+  }
+}
+
+function withRoutines(
+  readings: ReadonlyMap<string, readonly Reading[]>
+): ReadonlyMap<string, readonly Reading[]> {
+  const joined = new Map(readings)
+  for (const [slug, routine] of ROUTINE_READINGS) {
+    joined.set(slug, [...(joined.get(slug) ?? []), ...routine.map(readingOf)])
+  }
+  return joined
+}
+
 export function readingsFor(): ReadonlyMap<string, readonly Reading[]> {
+  return withRoutines(ownReadings())
+}
+
+function ownReadings(): ReadonlyMap<string, readonly Reading[]> {
   const cancer = bmiReading(21)
   return new Map<string, readonly Reading[]>([
     ["heart-disease", cardioReadings("ischaemic heart disease")],
@@ -235,7 +269,12 @@ export function readingsFor(): ReadonlyMap<string, readonly Reading[]> {
     [
       "colorectal-cancer",
       [
-        { factor: "red and processed meat", dose: meatGramDose, assumed: MEAT_GRAMS_SAID },
+        {
+          factor: "red and processed meat",
+          dose: meatGramDose,
+          cluster: DIET,
+          assumed: MEAT_GRAMS_SAID,
+        },
         SMOKED,
         cancer,
         { factor: "colonoscopy screening", dose: colonoscopyDose, assumed: COLONOSCOPY_SAID },
@@ -320,57 +359,3 @@ export function habitsIn(
         : (POUNDS_TO_BMI * pounds) / inches ** 2,
   }
 }
-
-export type Evidence = "trial" | "observational" | "confounded"
-
-export type Lever = {
-  readonly named: string
-  readonly evidence: Evidence
-  readonly to: (held: Held) => Held
-}
-
-export const LEVERS: readonly Lever[] = [
-  {
-    named: "steps up to 7,000 a day",
-    evidence: "observational",
-    to: (held) => ({
-      ...held,
-      steps: held.steps === null ? STEPS_TOP : Math.max(held.steps, STEPS_TOP),
-    }),
-  },
-  {
-    named: "no red or processed meat",
-    evidence: "observational",
-    to: (held) => ({ ...held, meatPerDay: 0 }),
-  },
-  {
-    named: "sleep down to 7 hours",
-    evidence: "confounded",
-    to: (held) => ({
-      ...held,
-      sleepHours: held.sleepHours === null ? null : Math.min(held.sleepHours, SLEEP_FLOOR_HOURS),
-    }),
-  },
-  {
-    named: "stopping stimulants",
-    evidence: "observational",
-    to: (held) => ({ ...held, onStimulant: false }),
-  },
-  {
-    named: "weight down to BMI 25",
-    evidence: "observational",
-    to: (held) => ({ ...held, bmi: held.bmi === null ? null : Math.min(held.bmi, 25) }),
-  },
-  {
-    named: "colonoscopy every 10 years from 45",
-    evidence: "trial",
-    to: (held) => ({ ...held, colorectalScreening: COLONOSCOPY }),
-  },
-  {
-    named: "safety level held at 3 or above",
-    evidence: "observational",
-    to: (held) => ({ ...held, shareBelowThree: 0, shareBelowZero: 0 }),
-  },
-]
-
-export const UNMODELLED: readonly string[] = []

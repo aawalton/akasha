@@ -15,6 +15,10 @@ import {
   stimulantStartIn,
 } from "akasha/command/pages/medicine/modules/mortality-readings/mortality-readings.module.code.ts"
 import {
+  levelsOf,
+  routinesOf,
+} from "akasha/command/pages/medicine/modules/mortality-routines/mortality-routines.module.code.ts"
+import {
   valuedAt,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -170,20 +174,42 @@ type Running = {
   readonly held: Held
 }
 
+export type Part = { readonly cluster: string | undefined; readonly factor: number }
+
+export function combinedOf(parts: readonly Part[]): number {
+  let product = 1
+  const strongest = new Map<string, number>()
+  for (const one of parts) {
+    if (one.cluster === undefined) {
+      product *= one.factor
+      continue
+    }
+    const held = strongest.get(one.cluster)
+    if (held === undefined || Math.abs(Math.log(one.factor)) > Math.abs(Math.log(held))) {
+      strongest.set(one.cluster, one.factor)
+    }
+  }
+  for (const one of strongest.values()) product *= one
+  return product
+}
+
 function multiplierOf(
   bounds: readonly Bound[],
   running: Running,
   draw: number,
   age: number
 ): number {
-  let product = 1
-  for (const one of bounds) {
-    const normal = running.draws.get(one.key)?.[draw] ?? 0
-    const dosed = Math.exp(one.mu + one.sigma * normal) ** one.reading.dose(running.held, age)
-    const share = one.reading.share?.(running.held)
-    product *= share === undefined ? dosed : 1 - share + share * dosed
-  }
-  return product
+  return combinedOf(
+    bounds.map((one) => {
+      const normal = running.draws.get(one.key)?.[draw] ?? 0
+      const dosed = Math.exp(one.mu + one.sigma * normal) ** one.reading.dose(running.held, age)
+      const share = one.reading.share?.(running.held)
+      return {
+        cluster: one.reading.cluster,
+        factor: share === undefined ? dosed : 1 - share + share * dosed,
+      }
+    })
+  )
 }
 
 function hazardsOf(running: Running, draw: number, age: number): readonly number[] {
@@ -320,6 +346,7 @@ export function modelIn(root: string, today: string): Model {
     conditions: conditionsIn(person),
     parkinsonsFirstDegree: parkinsonsIn(person),
     ...habitsIn(person),
+    routines: routinesOf(levelsOf(person, logs.strengthSetsPerWeek)),
   }
   const causes = causesIn(root)
   return { logs, held, causes, readings: readingsFor(), draws: drawsFor(causes) }

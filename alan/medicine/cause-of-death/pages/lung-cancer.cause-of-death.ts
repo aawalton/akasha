@@ -111,7 +111,19 @@ export const lungCancer = {
         "Bhaskaran K, dos-Santos-Silva I, Leon DA, Douglas IJ, Smeeth L. Association of BMI with overall and cause-specific mortality: a population-based cohort study of 3.6 million adults in the UK. Lancet Diabetes Endocrinol 2018;6(12):944-953, Table 2, never-smokers. The people's BMI is the US men 20+ mean of 29.4, NHANES August 2021-August 2023, NCHS Vital and Health Statistics Series 3 No. 50, Table 10.",
       url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6249991/",
     },
+    {
+      factor: "muscle-strengthening activity, total cancer",
+      personProperty: "strength-sets",
+      appliedAs:
+        "30 minutes a week of muscle-strengthening activity, the curve's lowest point, vs none; total cancer, incidence and mortality pooled",
+      relativeRiskLow: 0.85,
+      relativeRiskCentral: 0.91,
+      relativeRiskHigh: 0.97,
+      citation:
+        "Momma H et al. Br J Sports Med 2022;56(13):755-763, Figure 4. doi:10.1136/bjsports-2021-105061",
+      url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9209691/",
+    },
   ],
   createdAt: "2026-10-28T18:36:41.827Z",
-  updatedAt: "2026-10-28T19:10:39.459Z",
+  updatedAt: "2026-10-28T20:11:45.142Z",
 } as const satisfies CauseOfDeath

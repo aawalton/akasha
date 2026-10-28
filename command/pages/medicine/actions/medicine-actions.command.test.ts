@@ -2,10 +2,12 @@ import { expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   gainOf,
+  jointOf,
   medicineActions,
   movedOf,
   notesOf,
   rowOf,
+  waitingOf,
 } from "akasha/command/pages/medicine/actions/medicine-actions.command.code.ts"
 
 const GIVEN: Given = {
@@ -42,6 +44,27 @@ test("an action resting on observation alone is marked and footnoted", () => {
   expect(notesOf([trial])).toEqual([])
   expect(notesOf([sleep, observed])).toHaveLength(2)
   expect(notesOf([sleep])[0]).toContain("not a recommendation")
+})
+
+test("a caveat marks its row and is footnoted", () => {
+  const coffee = {
+    named: "coffee",
+    evidence: "observational",
+    gain: SPREAD,
+    moved: [],
+    caveat: "adds to stimulant side effects",
+  } as const
+  expect(rowOf(coffee)).toContain("coffee * ‡")
+  expect(notesOf([coffee])).toContain("‡ coffee: adds to stimulant side effects")
+})
+
+test("waiting actions name what they need, and trial-backed actions are summed once", () => {
+  expect(waitingOf([])).toEqual([])
+  expect(waitingOf([{ named: "coffee", needs: "coffee-cups-per-day" }])[1]).toBe(
+    "  coffee needs coffee-cups-per-day"
+  )
+  expect(jointOf(null)).toEqual([])
+  expect(jointOf({ named: ["a", "b"], gain: SPREAD })[0]).toContain("from a, b")
 })
 
 test("a word this takes no argument for is refused", () => {

@@ -135,7 +135,31 @@ export const suicide = {
         "Hubers AAM, Moaddine S, Peersmann SHM, et al. Suicidal ideation and subsequent completed suicide in both psychiatric and non-psychiatric populations: a meta-analysis. Epidemiol Psychiatr Sci 2018;27(2):186-198. doi:10.1017/S2045796016001049",
       url: "https://pubmed.ncbi.nlm.nih.gov/27989254/",
     },
+    {
+      factor: "CBT-based psychotherapy",
+      personProperty: "in-therapy-for-depression",
+      appliedAs:
+        "CBT-based psychotherapy vs treatment as usual, repeated self-harm in adults (odds ratio); not deaths",
+      relativeRiskLow: 0.55,
+      relativeRiskCentral: 0.7,
+      relativeRiskHigh: 0.88,
+      citation:
+        "Hawton K, Witt KG, Taylor Salisbury TL, et al. Psychosocial interventions for self-harm in adults. Cochrane Database Syst Rev 2016;(5):CD012189. doi:10.1002/14651858.CD012189",
+      url: "https://www.cochrane.org/CD012189/DEPRESSN_psychosocial-interventions-self-harm-adults",
+    },
+    {
+      factor: "safety planning",
+      personProperty: "has-safety-plan",
+      appliedAs:
+        "safety-planning-type intervention vs usual care, suicidal behaviour (attempts and other acts); not deaths",
+      relativeRiskLow: 0.408,
+      relativeRiskCentral: 0.57,
+      relativeRiskHigh: 0.795,
+      citation:
+        "Nuij C, van Ballegooijen W, de Beurs D, et al. Safety planning-type interventions for suicide prevention: meta-analysis. Br J Psychiatry 2021;219(2):419-426. doi:10.1192/bjp.2021.50",
+      url: "https://doi.org/10.1192/bjp.2021.50",
+    },
   ],
   createdAt: "2026-10-28T18:39:06.808Z",
-  updatedAt: "2026-10-28T18:42:01.465Z",
+  updatedAt: "2026-10-28T20:11:45.142Z",
 } as const satisfies CauseOfDeath

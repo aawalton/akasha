@@ -12,8 +12,9 @@ export const medicine = {
     "module/health-logs",
     "module/mortality-model",
     "module/mortality-readings",
+    "module/mortality-routines",
   ],
   name: "medicine",
   createdAt: "2026-10-28T18:57:02.952Z",
-  updatedAt: "2026-10-28T19:17:26.137Z",
+  updatedAt: "2026-10-28T20:11:45.142Z",
 } as const satisfies Namespace

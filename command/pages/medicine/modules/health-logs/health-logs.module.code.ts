@@ -1,11 +1,13 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { dayStrOf } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.computed-property-module.code.ts"
+
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { entriesIn } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   numberAt,
+  slugAt,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -36,6 +38,14 @@ const SLEEP = /^sleep$/i
 
 const DEPRESSED_BELOW = 3
 
+const SET_TYPE = "strength-log"
+
+const STRENGTH = "strength"
+
+const DAYS_PER_WEEK = 7
+
+const MS_PER_DAY = 86_400_000
+
 const IDEATION_BELOW = 0
 
 export type DayActivity = { readonly activeEnergy: number; readonly steps: number }
@@ -58,6 +68,7 @@ export type Logs = {
   readonly loggedHours: number
   readonly shareBelowThree: number
   readonly shareBelowZero: number
+  readonly strengthSetsPerWeek: number
 }
 
 export function openedBefore(to: string): string {
@@ -125,11 +136,36 @@ function meanOf(values: readonly number[]): number | null {
   return values.length === 0 ? null : values.reduce((sum, one) => sum + one, 0) / values.length
 }
 
+function setDayOf(one: Value): string | null {
+  const named = slugAt(one, "day")
+  return named?.startsWith(DAY_SLUG_PREFIX) === true ? named.slice(DAY_SLUG_PREFIX.length) : null
+}
+
+export function strengthSetsOf(sets: readonly Value[], from: string, to: string): number {
+  return sets.filter((one) => {
+    const on = setDayOf(one)
+    return (
+      on !== null &&
+      on > from &&
+      on <= to &&
+      one.isWarmup !== true &&
+      (textAt(one, "activityType") ?? STRENGTH) === STRENGTH
+    )
+  }).length
+}
+
+function weeksOf(from: string, to: string): number {
+  return (
+    (Date.parse(`${to}T12:00:00Z`) - Date.parse(`${from}T12:00:00Z`)) / MS_PER_DAY / DAYS_PER_WEEK
+  )
+}
+
 export function logsOf(
   from: string,
   to: string,
   activity: readonly DayActivity[],
-  hours: readonly DayHours[]
+  hours: readonly DayHours[],
+  strengthSets = 0
 ): Logs {
   const worn = activity.filter((one) => one.activeEnergy >= WORN_KILOCALORIES)
   const slept = hours.filter((one) => one.sleptMinutes > 0)
@@ -148,6 +184,7 @@ export function logsOf(
     loggedHours: logged / MINUTES_PER_HOUR,
     shareBelowThree: share("belowThreeMinutes"),
     shareBelowZero: share("belowZeroMinutes"),
+    strengthSetsPerWeek: strengthSets / weeksOf(from, to),
   }
 }
 
@@ -162,5 +199,6 @@ export function logsIn(root: string, to: string): Logs {
     activity.push(activityOf(entriesBeside(root, one.path, SAMPLES)))
     hours.push(hoursOf(entriesBeside(root, one.path, SESSIONS)))
   }
-  return logsOf(from, to, activity, hours)
+  const sets = valuesOfType(root, SET_TYPE).map((one) => one.value)
+  return logsOf(from, to, activity, hours, strengthSetsOf(sets, from, to))
 }

@@ -1,10 +1,27 @@
 import { expect, test } from "bun:test"
+import { day } from "akasha/alan/track/daily/day/day.page-type.ts"
 import {
   activityOf,
   hoursOf,
   logsOf,
   openedBefore,
+  strengthSetsOf,
 } from "akasha/command/pages/medicine/modules/health-logs/health-logs.module.code.ts"
+
+const on = (date: string) => `${day.slug}/day-${date}`
+
+test("a strength set counts in its window, and warm-ups, mobility and cardio sets do not", () => {
+  const sets = [
+    { day: on("2026-08-01") },
+    { day: on("2026-08-01"), isWarmup: true },
+    { day: on("2026-08-01"), activityType: "mobility" },
+    { day: on("2026-08-01"), activityType: "cardio" },
+    { day: on("2026-07-01") },
+  ]
+  expect(strengthSetsOf(sets, "2026-07-28", "2026-10-28")).toBe(1)
+  const logs = logsOf("2026-07-28", "2026-10-28", [], [], 92 / 7)
+  expect(logs.strengthSetsPerWeek).toBeCloseTo(1)
+})
 
 test("the window opens three months before the day it ends on", () => {
   expect(openedBefore("2026-10-28")).toBe("2026-07-28")

@@ -3,6 +3,7 @@ import {
   ageSpreadOf,
   boundsOf,
   type Cause,
+  combinedOf,
   drawsFor,
   rateAt,
   runOf,
@@ -12,6 +13,10 @@ import {
   type Held,
   readingsFor,
 } from "akasha/command/pages/medicine/modules/mortality-readings/mortality-readings.module.code.ts"
+import {
+  levelsOf,
+  routinesOf,
+} from "akasha/command/pages/medicine/modules/mortality-routines/mortality-routines.module.code.ts"
 
 const HELD: Held = {
   age: 40.5,
@@ -28,7 +33,19 @@ const HELD: Held = {
   neverDrank: true,
   bmi: 26.1,
   colorectalScreening: "none",
+  routines: routinesOf(levelsOf({}, 0)),
 }
+
+test("factors sharing a cluster are never multiplied, and the larger effect counts", () => {
+  expect(
+    combinedOf([
+      { cluster: "diet", factor: 0.8 },
+      { cluster: "diet", factor: 1.1 },
+      { cluster: undefined, factor: 2 },
+      { cluster: "activity", factor: 0.5 },
+    ])
+  ).toBeCloseTo(0.8 * 2 * 0.5)
+})
 
 const FLAT: Cause = {
   slug: "flat",
@@ -44,7 +61,7 @@ test("a rate is read from the band holding the age, and an age no band holds has
 test("a risk factor the readings do not know is refused rather than guessed", () => {
   const stray: Cause = {
     ...FLAT,
-    slug: "parkinsons-disease",
+    slug: "kidney-disease",
     factors: [{ factor: "stray", low: 1, central: 2, high: 3, citation: "a" }],
   }
   expect(() => boundsOf(stray, readingsFor(), HELD)).toThrow("stray")

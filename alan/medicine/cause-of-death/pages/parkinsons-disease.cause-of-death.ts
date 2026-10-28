@@ -92,7 +92,18 @@ export const parkinsonsDisease = {
         "Noyce AJ, Bestwick JP, Silveira-Moriyama L, et al. Meta-analysis of early nonmotor features and risk factors for Parkinson disease. Ann Neurol 2012;72(6):893-901. doi:10.1002/ana.23687",
       url: "https://pubmed.ncbi.nlm.nih.gov/23071076/",
     },
+    {
+      factor: "coffee drinking",
+      personProperty: "coffee-cups-per-day",
+      appliedAs: "coffee drinkers vs non-drinkers, Parkinson's disease incidence",
+      relativeRiskLow: 0.59,
+      relativeRiskCentral: 0.69,
+      relativeRiskHigh: 0.8,
+      citation:
+        "Hernan MA, Takkouche B, Caamano-Isorna F, Gestal-Otero JJ. A meta-analysis of coffee drinking, cigarette smoking, and the risk of Parkinson's disease. Ann Neurol 2002;52(3):276-284. doi:10.1002/ana.10277",
+      url: "https://pubmed.ncbi.nlm.nih.gov/12205639/",
+    },
   ],
   createdAt: "2026-10-28T18:40:27.931Z",
-  updatedAt: "2026-10-28T18:42:01.465Z",
+  updatedAt: "2026-10-28T20:11:45.142Z",
 } as const satisfies CauseOfDeath

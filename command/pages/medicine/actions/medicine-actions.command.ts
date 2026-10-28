@@ -7,6 +7,7 @@ export const medicineActions = {
   definition: "the actions Alan could take, ranked by the years of life each one adds",
   code: "ts",
   test: "ts",
+  parts: ["module/action-levers"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -41,5 +42,5 @@ export const medicineActions = {
   name: "actions",
   arguments: [{ argument: "argument/json" }],
   createdAt: "2026-10-28T18:57:02.952Z",
-  updatedAt: "2026-10-28T18:58:05.864Z",
+  updatedAt: "2026-10-28T20:11:45.142Z",
 } as const satisfies Command

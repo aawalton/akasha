@@ -127,7 +127,19 @@ export const motorVehicleCrash = {
       citation: "Li L et al. JAMA 2024;331(10):850-860. doi:10.1001/jama.2024.0851",
       url: "https://pubmed.ncbi.nlm.nih.gov/38470385/",
     },
+    {
+      factor: "seatbelt use",
+      personProperty: "seatbelt-use",
+      appliedAs:
+        "belted vs unbelted front-seat occupant, fatal injury; low is light trucks (0.40) and high is passenger cars (0.55), central their geometric mean; not a confidence interval",
+      relativeRiskLow: 0.4,
+      relativeRiskCentral: 0.47,
+      relativeRiskHigh: 0.55,
+      citation:
+        "NHTSA National Center for Statistics and Analysis. Occupant Protection in Passenger Vehicles: 2020 Data. Traffic Safety Facts, DOT HS 813 326, Oct 2022 (citing Kahane 2015; NHTSA 1984)",
+      url: "https://crashstats.nhtsa.dot.gov/Api/Public/Publication/813326",
+    },
   ],
   createdAt: "2026-10-28T18:39:06.808Z",
-  updatedAt: "2026-10-28T18:42:33.245Z",
+  updatedAt: "2026-10-28T20:11:45.142Z",
 } as const satisfies CauseOfDeath

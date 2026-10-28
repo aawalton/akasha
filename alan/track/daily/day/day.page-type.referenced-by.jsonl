@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"command/pages/fitness/today/fitness-today.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day.page-type.ts","path":"command/pages/fitness/today/modules/limiting/limiting.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day.page-type.ts","path":"command/pages/medicine/modules/health-logs/health-logs.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day.page-type.types.ts","path":"alan/track/daily/day/day.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"day.page-type.types.ts","path":"alan/track/daily/day/pages/2026-01-01/day-2026-01-01.day.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"day.page-type.types.ts","path":"alan/track/daily/day/pages/2026-01-02/day-2026-01-02.day.ts","typed":true,"deferred":false}

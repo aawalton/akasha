@@ -87,6 +87,20 @@ export const covid19 = {
       url: "https://wonder.cdc.gov/ucd-icd10-expanded.html",
     },
   ],
+  riskFactors: [
+    {
+      factor: "COVID-19 vaccination",
+      personProperty: "covid-vaccination",
+      appliedAs:
+        "2024-25 dose 7 to 119 days earlier vs none, ages 18-64, COVID-19 emergency and urgent care visits (test-negative); not deaths",
+      relativeRiskLow: 0.61,
+      relativeRiskCentral: 0.7,
+      relativeRiskHigh: 0.8,
+      citation:
+        "Link-Gelles R, et al. Interim Estimates of 2024-2025 COVID-19 Vaccine Effectiveness Among Adults Aged >=18 Years - VISION and IVY Networks. MMWR Morb Mortal Wkly Rep 2025;74(6):73-82. doi:10.15585/mmwr.mm7406a1",
+      url: "https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a1.htm",
+    },
+  ],
   createdAt: "2026-10-28T18:40:27.931Z",
-  updatedAt: "2026-10-28T18:40:27.931Z",
+  updatedAt: "2026-10-28T20:11:45.142Z",
 } as const satisfies CauseOfDeath

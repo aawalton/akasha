@@ -11,6 +11,12 @@ import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.c
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { medicineActions as page } from "akasha/command/pages/medicine/actions/medicine-actions.command.ts"
 import {
+  jointly,
+  LEVERS,
+  type Lever,
+  waitsOf,
+} from "akasha/command/pages/medicine/actions/modules/action-levers/action-levers.module.code.ts"
+import {
   differenceOf,
   type Model,
   modelIn,
@@ -21,10 +27,8 @@ import {
 } from "akasha/command/pages/medicine/modules/mortality-model/mortality-model.module.code.ts"
 import {
   type Evidence,
-  LEVERS,
-  type Lever,
   UNMODELLED,
-} from "akasha/command/pages/medicine/modules/mortality-readings/mortality-readings.module.code.ts"
+} from "akasha/command/pages/medicine/modules/mortality-routines/mortality-routines.module.code.ts"
 
 const NAME_WIDTH = 36
 
@@ -44,6 +48,8 @@ const NOTES: Readonly<Record<Evidence, string>> = {
 
 const GAIN_WIDTH = 26
 
+const CAVEAT = " ‡"
+
 const PERCENT = 100
 
 const TWO_PLACES = 2
@@ -57,6 +63,17 @@ export type Acted = {
   readonly evidence: Evidence
   readonly gain: Spread
   readonly moved: readonly Moved[]
+  readonly caveat?: string
+}
+
+export type Waiting = { readonly named: string; readonly needs: string }
+
+export type Joint = { readonly named: readonly string[]; readonly gain: Spread }
+
+export type Weighed = {
+  readonly acted: readonly Acted[]
+  readonly waiting: readonly Waiting[]
+  readonly joint: Joint | null
 }
 
 function signed(one: number): string {
@@ -73,15 +90,21 @@ export function movedOf(moved: readonly Moved[]): string {
 }
 
 export function rowOf(one: Acted): string {
-  const named = `${one.named}${MARKS[one.evidence]}`
+  const named = `${one.named}${MARKS[one.evidence]}${one.caveat === undefined ? "" : CAVEAT}`
   return `  ${named.padEnd(NAME_WIDTH)}${gainOf(one.gain).padEnd(GAIN_WIDTH)}${movedOf(one.moved)}`
 }
 
 export function notesOf(acted: readonly Acted[]): readonly string[] {
   const kinds = new Set(acted.map((one) => one.evidence))
-  return (["observational", "confounded"] as const)
-    .filter((kind) => kinds.has(kind))
-    .map((kind) => NOTES[kind])
+  const caveats = acted.flatMap((one) =>
+    one.caveat === undefined ? [] : [`‡ ${one.named}: ${one.caveat}`]
+  )
+  return [
+    ...(["observational", "confounded"] as const)
+      .filter((kind) => kinds.has(kind))
+      .map((kind) => NOTES[kind]),
+    ...caveats,
+  ]
 }
 
 const LAST_AGE = 100
@@ -98,6 +121,11 @@ function actsOn(model: Model, slug: string, lever: Lever): boolean {
     }
   }
   return false
+}
+
+function gainFrom(model: Model, before: Run, to: (held: Model["held"]) => Model["held"]): Spread {
+  const after = runOf(model.causes, model.readings, to(model.held), model.draws)
+  return spreadOf(differenceOf(after.expectancy, before.expectancy))
 }
 
 function actOf(model: Model, before: Run, lever: Lever): Acted {
@@ -117,23 +145,55 @@ function actOf(model: Model, before: Run, lever: Lever): Acted {
     evidence: lever.evidence,
     gain: spreadOf(differenceOf(after.expectancy, before.expectancy)),
     moved,
+    ...(lever.caveat === undefined ? {} : { caveat: lever.caveat }),
   }
 }
 
-export function actedOf(model: Model): readonly Acted[] {
+export function weighedOf(model: Model): Weighed {
   const before = runOf(model.causes, model.readings, model.held, model.draws)
-  return LEVERS.map((lever) => actOf(model, before, lever)).sort(
-    (a, b) => b.gain.middle - a.gain.middle || a.named.localeCompare(b.named)
-  )
+  const ready = LEVERS.filter((lever) => waitsOf(lever, model.held) === null)
+  const waiting = LEVERS.flatMap((lever) => {
+    const needs = waitsOf(lever, model.held)
+    return needs === null ? [] : [{ named: lever.named, needs }]
+  })
+  const acted = ready
+    .map((lever) => actOf(model, before, lever))
+    .sort((a, b) => b.gain.middle - a.gain.middle || a.named.localeCompare(b.named))
+  const trials = ready.filter((lever) => lever.evidence === "trial")
+  const joint =
+    trials.length === 0
+      ? null
+      : { named: trials.map((one) => one.named), gain: gainFrom(model, before, jointly(trials)) }
+  return { acted, waiting, joint }
 }
 
-function saidOf(acted: readonly Acted[]): readonly string[] {
+export function jointOf(joint: Joint | null): readonly string[] {
+  if (joint === null) return []
+  return [
+    `every trial-backed action together: ${gainOf(joint.gain)} years, from ${joint.named.join(", ")}`,
+    "",
+  ]
+}
+
+export function waitingOf(waiting: readonly Waiting[]): readonly string[] {
+  if (waiting.length === 0) return []
+  return [
+    "waiting on Alan's answer",
+    ...waiting.map((one) => `  ${one.named} needs ${one.needs}`),
+    "",
+  ]
+}
+
+function saidOf(weighed: Weighed): readonly string[] {
+  const { acted } = weighed
   return [
     "actions, ranked by the years of life each adds, counted to 100",
     `  ${"action".padEnd(NAME_WIDTH)}${"years added".padEnd(GAIN_WIDTH)}change in the chance of dying of each cause`,
     ...acted.map(rowOf),
     "",
+    ...jointOf(weighed.joint),
     ...(notesOf(acted).length === 0 ? [] : [...notesOf(acted), ""]),
+    ...waitingOf(weighed.waiting),
     ...(UNMODELLED.length === 0
       ? []
       : ["not modelled", ...UNMODELLED.map((one) => `  ${one}`), ""]),
@@ -145,9 +205,9 @@ export function medicineActions(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [json])
   if ("refused" in read) return mistaking(read.refused)
   try {
-    const acted = actedOf(modelIn(given.root, getMountainMorningDayStr(new Date())))
-    if (read.taken.json) return told([JSON.stringify({ acted, unmodelled: UNMODELLED })])
-    return told([...saidOf(acted)])
+    const weighed = weighedOf(modelIn(given.root, getMountainMorningDayStr(new Date())))
+    if (read.taken.json) return told([JSON.stringify({ ...weighed, unmodelled: UNMODELLED })])
+    return told([...saidOf(weighed)])
   } catch (thrown) {
     return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
