@@ -1,2 +1,3 @@
 {"propertySlug":"import","fileName":"test-story-upkeep.world-check.settling.code.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-upkeep.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
+{"propertySlug":"settled-by","path":"story/world/pages/undo-check-world/stories/played/undo-check/mechanics/checks/undo-check-upkeep.world-check.ts","id":"01a18309-e114-7f35-8481-c5c1ae5318bb"}
