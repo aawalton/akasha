@@ -11,9 +11,15 @@ export const fateStayNightUnlimitedBladeWorks = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "61415", externalLink: "https://www.themoviedb.org/tv/61415" },
+    {
+      source: "tmdb",
+      externalId: "61415",
+      externalLink: "https://www.themoviedb.org/tv/61415",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Fate/stay night [Unlimited Blade Works]",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hidive Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:50:18.568Z",
-  updatedAt: "2026-10-28T18:50:18.568Z",
+  updatedAt: "2026-10-28T19:44:15.046Z",
 } as const satisfies Show
