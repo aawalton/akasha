@@ -15,9 +15,11 @@ export const rascalDoesNotDreamOfADreamingGirl = {
       source: "tmdb",
       externalId: "572154",
       externalLink: "https://www.themoviedb.org/movie/572154",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Rascal Does Not Dream of a Dreaming Girl",
+  streamingOn: ["Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:46:19.898Z",
-  updatedAt: "2026-10-28T18:46:19.898Z",
+  updatedAt: "2026-10-28T19:48:07.766Z",
 } as const satisfies Movie
