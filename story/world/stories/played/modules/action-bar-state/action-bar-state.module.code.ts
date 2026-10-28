@@ -12,6 +12,19 @@ export type Echo = {
 
 type Sending = "none" | "arm" | "send"
 
+export type GameNamed =
+  | { readonly kind: "loading" }
+  | { readonly kind: "none" }
+  | { readonly kind: "named"; readonly id: string }
+
+export type BesideKind = "waiting" | "read" | "none" | "unread"
+
+export function gameNamedOf(beside: BesideKind, externalId: string | undefined): GameNamed {
+  if (beside === "waiting" || beside === "unread") return { kind: "loading" }
+  if (beside === "none" || externalId === undefined) return { kind: "none" }
+  return { kind: "named", id: externalId }
+}
+
 export type TurnAwaited = { readonly turnsAt: number; readonly at: number } | null
 
 export const TURN_AWAITED_MS = 600_000

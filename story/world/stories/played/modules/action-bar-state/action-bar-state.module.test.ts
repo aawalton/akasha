@@ -8,6 +8,7 @@ import {
   echoesShown,
   echoOf,
   echoWritten,
+  gameNamedOf,
   sendingFor,
   TURN_AWAITED_MS,
   turnAwaited,
@@ -69,6 +70,20 @@ test("nothing is awaited where nothing was sent", () => {
 
 test("an echo whose send failed is dropped", () => {
   expect(echoDropped([echoOf("k", "I wait", 1)], "k")).toEqual([])
+})
+
+test("a game not read yet is loading rather than missing", () => {
+  expect(gameNamedOf("waiting", undefined)).toEqual({ kind: "loading" })
+  expect(gameNamedOf("unread", undefined)).toEqual({ kind: "loading" })
+})
+
+test("a story read with no external id names no game", () => {
+  expect(gameNamedOf("read", undefined)).toEqual({ kind: "none" })
+  expect(gameNamedOf("none", undefined)).toEqual({ kind: "none" })
+})
+
+test("a story read with an external id names its game", () => {
+  expect(gameNamedOf("read", "test-story")).toEqual({ kind: "named", id: "test-story" })
 })
 
 test("an empty line sends nothing", () => {

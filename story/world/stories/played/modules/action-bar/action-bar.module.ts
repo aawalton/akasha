@@ -82,6 +82,14 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A line sent while the story's game is loading stays on the line, and says so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a line is sent by itself once the story's game has loaded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn reaching the player raises a notice naming the story and the turn.",
     },
     {
@@ -94,5 +102,5 @@ export const actionBar = {
     },
   ],
   createdAt: "2026-09-24T17:51:51.158Z",
-  updatedAt: "2026-10-27T22:10:37.219Z",
+  updatedAt: "2026-10-28T01:28:26.653Z",
 } as const satisfies Module

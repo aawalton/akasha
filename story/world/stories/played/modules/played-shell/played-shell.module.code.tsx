@@ -340,7 +340,8 @@ function PlayedStory({
     <>
       {undo.dialog}
       <ActionBar
-        gameExternalId={externalId ?? null}
+        beside={beside.kind}
+        externalId={externalId}
         storyTitle={title}
         turnsSeen={ready.length}
         lastTurn={lastTurn}

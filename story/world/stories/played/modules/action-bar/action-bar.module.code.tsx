@@ -24,6 +24,7 @@ import {
 import {
   type ActionShown,
   armedAfterTyping,
+  type BesideKind,
   draftFilled,
   type Echo,
   echoDropped,
@@ -31,6 +32,8 @@ import {
   echoesShown,
   echoOf,
   echoWritten,
+  type GameNamed,
+  gameNamedOf,
   sendingFor,
   type TurnAwaited,
   turnAwaited,
@@ -51,6 +54,8 @@ const SIGNED_OUT = "Sign in to send the game an action."
 const SIGN_IN_AT = "/sign-in"
 
 const NO_GAME = "This story names no game, so no action can be sent to it."
+
+const GAME_LOADING = "The game is still loading. Your action sends as soon as it has."
 
 const NOTE_LINE = "font-mono text-[12px] text-tertiary"
 
@@ -100,7 +105,8 @@ function SignedOutNotice() {
 }
 
 export function ActionBar({
-  gameExternalId,
+  beside,
+  externalId,
   storyTitle,
   turnsSeen,
   lastTurn,
@@ -109,7 +115,8 @@ export function ActionBar({
   onWaiting,
   onRead,
 }: {
-  gameExternalId: string | null
+  beside: BesideKind
+  externalId: string | undefined
   storyTitle: string
   turnsSeen: number
   lastTurn: number | null
@@ -119,6 +126,9 @@ export function ActionBar({
   onRead?: () => void
 }) {
   const userId = useUserId()
+  const game: GameNamed = gameNamedOf(beside, externalId)
+  const gameExternalId = game.kind === "named" ? game.id : null
+  const heldForGame = useRef<SendCause | null>(null)
   const [echoes, setEchoes] = useState<readonly Echo[]>([])
   const [text, setText] = useState("")
   const lineNow = useRef(text)
@@ -190,6 +200,15 @@ export function ActionBar({
     toldAt.current = turnsSeen
   }, [turnsSeen, lastTurn, storyTitle, gameExternalId])
 
+  useEffect(() => {
+    const held = heldForGame.current
+    if (held === null || game.kind === "loading") return
+    heldForGame.current = null
+    setError((now) => (now === GAME_LOADING ? null : now))
+    sentBy.current = held
+    formAt.current?.requestSubmit()
+  }, [game.kind])
+
   function onType(typed: string) {
     setText(typed)
     setArmed((held) => armedAfterTyping(held, typed))
@@ -204,6 +223,11 @@ export function ActionBar({
     const next = sendingFor(text, listed, echoes, armed)
     if (next === "none") return
     const typed = text.trim()
+    if (game.kind === "loading") {
+      heldForGame.current = cause
+      setError(GAME_LOADING)
+      return
+    }
     if (gameExternalId === null) {
       setError(NO_GAME)
       return

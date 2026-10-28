@@ -44,7 +44,11 @@ export const actionBarState = {
       decisionKind: "decision-kind/departure",
       statement: "An action draft fills an empty line once, and a line being typed is left alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story not yet read is loading its game rather than naming none.",
+    },
   ],
   createdAt: "2026-09-24T17:50:10.776Z",
-  updatedAt: "2026-10-27T22:10:37.219Z",
+  updatedAt: "2026-10-28T01:28:26.653Z",
 } as const satisfies Module
