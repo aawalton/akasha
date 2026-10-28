@@ -7,6 +7,7 @@ import {
 import {
   type CompiledInventoryConfig,
   parseTemperItemsConfig,
+  readConfigFileBeside,
 } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import {
   accountInventory,
@@ -77,7 +78,7 @@ export async function loadInventoryPlanInputs(
 ): Promise<InventoryPlanInputs> {
   const inventoryContent = await readInventoryContent(inventoryPath)
   const db = parseInventoryContent(inventoryContent)
-  const config = parseTemperItemsConfig(inventoryContent)
+  const config = parseTemperItemsConfig(inventoryContent, await readConfigFileBeside(inventoryPath))
 
   const characters = await loadTemperCharactersFromPath(charactersPath)
   const charactersById = new Map<string, CharacterKnowledge>(characters.map((one) => [one.id, one]))

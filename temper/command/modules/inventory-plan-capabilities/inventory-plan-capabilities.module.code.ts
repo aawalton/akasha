@@ -4,6 +4,7 @@ import { loadTemperCharactersFromPath } from "akasha/temper/command/modules/inve
 import {
   loadTemperItemsConfigFromPath,
   parseTemperItemsConfig,
+  readConfigFileBeside,
 } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import {
   buildMatcherContext,
@@ -73,6 +74,7 @@ interface ParseCharacters {
 interface ParseConfig {
   readonly parseTemperItemsConfig: typeof parseTemperItemsConfig
   readonly loadTemperItemsConfigFromPath: typeof loadTemperItemsConfigFromPath
+  readonly readConfigFileBeside: typeof readConfigFileBeside
 }
 
 export async function planInputs(): Promise<PlanInputsModule> {
@@ -129,5 +131,9 @@ export function parseCharacters(): Promise<ParseCharacters> {
 }
 
 export function parseConfig(): Promise<ParseConfig> {
-  return Promise.resolve({ parseTemperItemsConfig, loadTemperItemsConfigFromPath })
+  return Promise.resolve({
+    parseTemperItemsConfig,
+    loadTemperItemsConfigFromPath,
+    readConfigFileBeside,
+  })
 }

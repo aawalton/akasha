@@ -81,7 +81,8 @@ export const temperInventoryPlan = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The compiled rules are read from the saved variables file either way.",
+      statement:
+        "Either way, the compiled rules are read as the config reader reads them beside the file read.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -111,5 +112,5 @@ export const temperInventoryPlan = {
     { argument: "argument/unmapped" },
   ],
   createdAt: "2026-09-02T03:49:49.654Z",
-  updatedAt: "2026-10-28T19:08:00.033Z",
+  updatedAt: "2026-10-28T19:21:12.453Z",
 } as const satisfies Command

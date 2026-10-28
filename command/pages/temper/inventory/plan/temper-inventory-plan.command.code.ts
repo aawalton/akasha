@@ -322,7 +322,10 @@ export async function temperInventoryPlan(argv: readonly string[], given: Given)
       classifyItem(),
     ])
     const db = stored === null ? parser.parseInventoryContent(content) : stored.db
-    const config = configModule.parseTemperItemsConfig(content)
+    const config = configModule.parseTemperItemsConfig(
+      content,
+      await configModule.readConfigFileBeside(inventoryPath)
+    )
     const characters = await charactersModule.loadTemperCharactersFromPath(charactersPath)
     const charactersById = new Map<string, CharacterKnowledge>(
       characters.map((one) => [one.id, one])
