@@ -40,6 +40,7 @@ export const person = {
     "record-property/health-conditions",
     "text-property/health-condition-name",
     "select-property/diagnosed-by",
+    "text-property/health-condition-note",
     "record-property/medications",
     "text-property/medication-name",
     "number-property/medication-dose-mg",
@@ -117,5 +118,5 @@ export const person = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T18:13:32.023Z",
-  updatedAt: "2026-10-28T18:07:33.369Z",
+  updatedAt: "2026-10-28T18:08:07.041Z",
 } as const satisfies PageType

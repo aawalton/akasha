@@ -9,8 +9,9 @@ export const healthConditions = {
   properties: [
     { pageProperty: "text-property/health-condition-name", required: true, many: false },
     { pageProperty: "select-property/diagnosed-by", required: false, many: false },
+    { pageProperty: "text-property/health-condition-note", required: false, many: false },
   ],
   types: "ts",
   createdAt: "2026-10-28T18:06:16.691Z",
-  updatedAt: "2026-10-28T18:06:16.691Z",
+  updatedAt: "2026-10-28T18:08:07.041Z",
 } as const satisfies RecordProperty
