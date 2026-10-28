@@ -41,7 +41,7 @@ const SEED = 20_261_029
 
 const MINUTES_PER_YEAR = 365.2425 * 24 * 60
 
-export const HEALTHY_SHARE = 0.764
+const HEALTHY_SHARE = 0.764
 
 const NAME_WIDTH = 30
 
@@ -61,7 +61,7 @@ const TENS = 10
 
 const TENTHS = 0.1
 
-export type Injury = {
+type Injury = {
   readonly injury: string
   readonly perMillion: number
   readonly perMillionLow: number | null
@@ -114,13 +114,13 @@ function healthyYearsOf(model: Model): Float64Array {
   return run.expectancy.map((lived) => (lived - model.held.age) * HEALTHY_SHARE)
 }
 
-export type Price = {
+type Price = {
   readonly total: Spread
   readonly death: Spread
   readonly disability: Spread
 }
 
-export type TwoPiece = {
+type TwoPiece = {
   readonly central: number
   readonly sigmaLow: number
   readonly sigmaHigh: number
