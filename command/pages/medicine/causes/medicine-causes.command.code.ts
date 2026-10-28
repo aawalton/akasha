@@ -21,7 +21,7 @@ import {
 } from "akasha/command/pages/medicine/modules/mortality-model/mortality-model.module.code.ts"
 import type { Held } from "akasha/command/pages/medicine/modules/mortality-readings/mortality-readings.module.code.ts"
 
-const NAME_WIDTH = 30
+const NAME_WIDTH = 36
 
 const SHARE_WIDTH = 24
 

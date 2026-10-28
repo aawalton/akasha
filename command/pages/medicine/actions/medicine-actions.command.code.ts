@@ -60,10 +60,28 @@ export function rowOf(one: Acted): string {
   return `  ${one.named.padEnd(NAME_WIDTH)}${gainOf(one.gain).padEnd(GAIN_WIDTH)}${movedOf(one.moved)}`
 }
 
+const LAST_AGE = 100
+
+const AGE_STEP = 5
+
+function actsOn(model: Model, slug: string, lever: Lever): boolean {
+  const next = lever.to(model.held)
+  const read = model.readings.get(slug) ?? []
+  for (let age = Math.floor(model.held.age); age < LAST_AGE; age += AGE_STEP) {
+    for (const one of read) {
+      if (one.dose(model.held, age) !== one.dose(next, age)) return true
+      if (one.share?.(model.held) !== one.share?.(next)) return true
+    }
+  }
+  return false
+}
+
 function actOf(model: Model, before: Run, lever: Lever): Acted {
   const after = runOf(model.causes, model.readings, lever.to(model.held), model.draws)
   const moved = model.causes
-    .map((cause, index) => {
+    .map((cause, index) => ({ cause, index }))
+    .filter((one) => actsOn(model, one.cause.slug, lever))
+    .map(({ cause, index }) => {
       const was = before.lifetime[index] ?? new Float64Array()
       const is = after.lifetime[index] ?? new Float64Array()
       return { cause: cause.slug, points: spreadOf(differenceOf(is, was)).middle }

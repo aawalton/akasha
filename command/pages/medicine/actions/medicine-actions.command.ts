@@ -22,7 +22,8 @@ export const medicineActions = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An action names each cause whose chance it moves, in percentage points.",
+      statement:
+        "An action names each cause its factor acts on and how far it moves, in percentage points.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,5 +41,5 @@ export const medicineActions = {
   name: "actions",
   arguments: [{ argument: "argument/json" }],
   createdAt: "2026-10-28T18:57:02.952Z",
-  updatedAt: "2026-10-28T18:57:02.952Z",
+  updatedAt: "2026-10-28T18:58:05.864Z",
 } as const satisfies Command
