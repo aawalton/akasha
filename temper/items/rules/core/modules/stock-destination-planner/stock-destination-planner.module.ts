@@ -16,7 +16,12 @@ export const stockDestinationPlanner = {
       decisionKind: "decision-kind/departure",
       statement: "The surplus cascades down the tiers in the order the chain gives.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tier's count bounds what the whole rule sends that tier, over every stack the rule takes.",
+    },
   ],
   createdAt: "2026-09-02T07:23:20.446Z",
-  updatedAt: "2026-09-21T15:44:44.000Z",
+  updatedAt: "2026-10-28T21:21:27.333Z",
 } as const satisfies Module

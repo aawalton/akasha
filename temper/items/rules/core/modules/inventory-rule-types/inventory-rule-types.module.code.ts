@@ -41,6 +41,9 @@ export type MoveToDestination =
   | "guild-bank"
   | `guild-bank:${string}`
   | `mail:${string}`
+  | typeof VENDOR_DESTINATION
+
+export const VENDOR_DESTINATION = "vendor"
 
 export type DestinationCategory =
   | "bank"

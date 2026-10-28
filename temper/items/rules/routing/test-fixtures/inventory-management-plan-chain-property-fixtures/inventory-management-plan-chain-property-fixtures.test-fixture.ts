@@ -19,7 +19,12 @@ export const inventoryManagementPlanChainPropertyFixtures = {
       decisionKind: "decision-kind/departure",
       statement: "A chain scenario has an equivalent written as one rule per tier.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A held stock scenario stocks every character and banks the rest, unless handed a chain.",
+    },
   ],
   createdAt: "2026-09-02T14:32:30.582Z",
-  updatedAt: "2026-09-22T13:41:05.000Z",
+  updatedAt: "2026-10-28T21:21:27.333Z",
 } as const satisfies TestFixture

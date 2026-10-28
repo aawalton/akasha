@@ -111,7 +111,8 @@ export function planStockDestinationsForChain(
   resolvers: EligibilityResolvers,
   claims: Map<CharacterId, Set<string>>,
   allocatedPerChar?: Map<CharacterId, number>,
-  holding?: StockHolding
+  holding?: StockHolding,
+  takenPerTier?: Map<number, number>
 ): readonly TierAllocation[] {
   if (stackCount <= 0 || chain.length === 0) return []
   const allocations: TierAllocation[] = []
@@ -154,14 +155,18 @@ export function planStockDestinationsForChain(
       continue
     }
 
+    const taken = takenPerTier?.get(i) ?? 0
     const cap =
-      isLast || authoredTarget === undefined ? remaining : Math.min(authoredTarget, remaining)
+      isLast || authoredTarget === undefined
+        ? remaining
+        : Math.min(Math.max(0, authoredTarget - taken), remaining)
     if (cap <= 0) continue
     allocations.push({
       tierIndex: i,
       destination: tier.destination,
       count: cap,
     })
+    takenPerTier?.set(i, taken + cap)
     remaining -= cap
   }
 

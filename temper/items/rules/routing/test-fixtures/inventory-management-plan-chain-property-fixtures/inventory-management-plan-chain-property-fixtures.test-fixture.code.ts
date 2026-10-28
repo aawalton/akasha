@@ -186,7 +186,11 @@ export function sumPlanByCharacterAndLabel(plan: ManagementPlan): Map<string, nu
 
 export function buildHeldStockScenario(
   holdings: readonly (readonly [string, number])[],
-  targetQuantity: number
+  targetQuantity: number,
+  chain: DestinationChain = [
+    { destination: "character:by-priority", targetQuantity },
+    { destination: "bank" },
+  ]
 ): {
   stockRule: CategoryRule
   sellRule: CategoryRule
@@ -218,10 +222,6 @@ export function buildHeldStockScenario(
     characters[charId] = { displayName }
   })
 
-  const chain: DestinationChain = [
-    { destination: "character:by-priority", targetQuantity },
-    { destination: "bank" },
-  ]
   const stockRule: CategoryRule = {
     id: "stock",
     categoryId: "all",

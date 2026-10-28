@@ -201,8 +201,7 @@ export function collectSimSteps(
           workingAffectedItemsMap,
           chainResidueRecipients,
         },
-        (entry, destination, sourceSlotCount, chainTierDirect) =>
-          addItemRouteSteps(entry, rule.action, destination, sourceSlotCount, chainTierDirect)
+        addItemRouteSteps
       )
       continue
     }
@@ -278,8 +277,7 @@ export function collectSimSteps(
           workingAffectedItemsMap,
           chainResidueRecipients,
         },
-        (entry, destination, sourceSlotCount, chainTierDirect) =>
-          addItemRouteSteps(entry, rule.action, destination, sourceSlotCount, chainTierDirect)
+        addItemRouteSteps
       )
       continue
     }

@@ -4,9 +4,11 @@ import type { TierAllocation } from "akasha/temper/items/rules/core/modules/dest
 import type { EligibilityResolvers } from "akasha/temper/items/rules/core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import type {
-  ItemRule,
-  MoveToDestination,
+import {
+  type ItemAction,
+  type ItemRule,
+  type MoveToDestination,
+  VENDOR_DESTINATION,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { buildStockDestinationContext } from "akasha/temper/items/rules/core/modules/stock-destination-context-builder/stock-destination-context-builder.module.code.ts"
@@ -60,6 +62,7 @@ function expandChainEntryIntoRows(
     allocatedPerChar: Map<CharacterId, number>
     heldPerChar: ReadonlyMap<CharacterId, number>
     keptPerChar: Map<CharacterId, number>
+    takenPerTier: Map<number, number>
   }
 ): { rows: readonly ChainExpansionRow[]; residue: number } {
   const chain = rule.destinationChain
@@ -87,7 +90,8 @@ function expandChainEntryIntoRows(
     resolvers,
     claims,
     group?.allocatedPerChar,
-    holding
+    holding,
+    group?.takenPerTier
   )
   const rows = tierAllocations.map((tierAlloc, idx) =>
     buildChainRowForAllocation(entry, idx === 0 ? sourceSlotCount : 0, tierAlloc)
@@ -140,6 +144,7 @@ export function processChainRule(
   },
   emitRoute: (
     entry: AffectedItem,
+    action: ItemAction,
     destination: MoveToDestination | undefined,
     sourceSlotCount: number,
     chainTierDirect: boolean
@@ -162,6 +167,7 @@ export function processChainRule(
     allocatedPerChar: new Map<CharacterId, number>(),
     heldPerChar: stockHeldForEntries(merged.map(({ entry }) => entry)),
     keptPerChar: new Map<CharacterId, number>(),
+    takenPerTier: new Map<number, number>(),
   }
   const itemIds = "itemIds" in rule ? rule.itemIds : undefined
   const byPriority = [...merged].sort(
@@ -179,7 +185,11 @@ export function processChainRule(
       group
     )
     for (const row of expansion.rows) {
-      emitRoute(row.entry, row.destination, row.sourceSlotCount, row.directAct)
+      if (row.destination === VENDOR_DESTINATION) {
+        emitRoute(row.entry, "sell", undefined, row.sourceSlotCount, false)
+      } else {
+        emitRoute(row.entry, rule.action, row.destination, row.sourceSlotCount, row.directAct)
+      }
     }
     if (expansion.residue > 0) {
       const recipient = threadResidueToNextRule(

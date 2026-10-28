@@ -32,7 +32,11 @@ export const inventoryRuleTypes = {
       decisionKind: "decision-kind/departure",
       statement: "A player's inventory rules are the rules and the item rules together.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chain's `vendor` leg sells the items at a merchant rather than moving them.",
+    },
   ],
   createdAt: "2026-09-02T07:23:20.432Z",
-  updatedAt: "2026-09-27T14:00:26.000Z",
+  updatedAt: "2026-10-28T21:21:27.333Z",
 } as const satisfies Module

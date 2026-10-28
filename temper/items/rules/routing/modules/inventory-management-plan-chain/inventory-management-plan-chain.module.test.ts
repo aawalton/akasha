@@ -275,3 +275,41 @@ describe("No character both deposits and withdraws one stocked item.", () => {
     expect(sums.get("Char2:Withdraw") ?? 0).toBe(16)
   })
 })
+
+const SOUL_GEM_CHAIN: DestinationChain = [
+  { destination: "character:by-priority", targetQuantity: 200 },
+  { destination: "bank", targetQuantity: 200 },
+  { destination: "vendor" },
+]
+
+const SOUL_GEM_HOLDINGS: readonly (readonly [string, number])[] = [
+  ["1000", 1000],
+  ["1001", 500],
+  ["1002", 50],
+  ["1003", 0],
+]
+
+describe("A holder sells nothing a character short of its target or a short tier needs.", () => {
+  for (const holdings of [SOUL_GEM_HOLDINGS, [...SOUL_GEM_HOLDINGS].reverse()]) {
+    const order = holdings[0]?.[0] === "1000" ? "first" : "last"
+    test(`holders listed ${order} sell only what every character and the bank leave`, () => {
+      const built = buildHeldStockScenario(holdings, 200, SOUL_GEM_CHAIN)
+      const sums = sumPlanByCharacterAndLabel(planned([built.stockRule, built.sellRule], built))
+      const nameOf = (id: string) => `Char${String(holdings.findIndex(([one]) => one === id))}`
+      const total = holdings.reduce((sum, [, held]) => sum + held, 0)
+      let sold = 0
+      let deposited = 0
+      let withdrawn = 0
+      for (const [id] of holdings) {
+        sold += sums.get(`${nameOf(id)}:Sell`) ?? 0
+        deposited += sums.get(`${nameOf(id)}:Deposit`) ?? 0
+        withdrawn += sums.get(`${nameOf(id)}:Withdraw`) ?? 0
+      }
+      expect(sums.get(`${nameOf("1002")}:Withdraw`)).toBe(150)
+      expect(sums.get(`${nameOf("1003")}:Withdraw`)).toBe(200)
+      expect(sums.get(`${nameOf("1002")}:Sell`) ?? 0).toBe(0)
+      expect(deposited - withdrawn).toBe(200)
+      expect(sold).toBe(total - 200 * holdings.length - 200)
+    })
+  }
+})
