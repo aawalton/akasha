@@ -11,9 +11,15 @@ export const theQuintessentialQuintuplets = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "84669", externalLink: "https://www.themoviedb.org/tv/84669" },
+    {
+      source: "tmdb",
+      externalId: "84669",
+      externalLink: "https://www.themoviedb.org/tv/84669",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "The Quintessential Quintuplets",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:55:27.391Z",
-  updatedAt: "2026-10-28T18:55:27.391Z",
+  updatedAt: "2026-10-28T19:46:25.260Z",
 } as const satisfies Show
