@@ -150,12 +150,19 @@ export const alan = {
     },
   ],
   medications: [
-    { name: "Vyvanse (lisdexamfetamine)", doseMg: 30, dosesPerWeek: 7 },
+    {
+      name: "Vyvanse (lisdexamfetamine)",
+      doseMg: 30,
+      dosesPerWeek: 7,
+      startedOn: "2025-10-28",
+      note: "start date approximate",
+    },
     {
       name: "Adderall (mixed amphetamine salts)",
       doseMg: 10,
       dosesPerWeek: 1,
-      note: "taken as needed for high-load events; the weekly figure is an average",
+      startedOn: "2025-10-28",
+      note: "taken as needed for high-load events; the weekly figure is an average; start date approximate",
     },
     {
       name: "creatine monohydrate",
@@ -206,5 +213,5 @@ export const alan = {
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T19:21:28.519Z",
+  updatedAt: "2026-10-28T19:31:21.137Z",
 } as const satisfies Person
