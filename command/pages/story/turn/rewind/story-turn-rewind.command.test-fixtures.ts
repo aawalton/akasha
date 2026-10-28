@@ -116,6 +116,7 @@ export function reachOver(turn: Turn, into: Seen, latest = SLUG): Unwinding {
     commitsOn: (_root, range) => (range === "HEAD" ? MADE_BY : []),
     addedOn: () => "c1",
     appendsOnly: () => false,
+    stampsAt: () => new Set(["updatedAt"]),
     bodyThen: () => null,
     bodyNow: () => null,
     besideOnDisk: () => [],

@@ -1,5 +1,6 @@
 import { readdirSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { isDeepStrictEqual } from "node:util"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   addedLogged,
@@ -13,11 +14,13 @@ import type {
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { textOnDisk } from "akasha/file/system/modules/text-on-disk/text-on-disk.module.code.ts"
 import { appendOnlyIn } from "akasha/page/index/modules/file-appending/file-appending.module.code.ts"
+import { generatedProperties } from "akasha/page/index/modules/generated-properties/generated-properties.module.code.ts"
 import { facingOn } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
-import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { valueAt, valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import {
@@ -61,6 +64,32 @@ export type TurnUndoing = {
   readonly bodyNow: (root: string, path: string) => string | null
   readonly besideOnDisk: (root: string, turn: string) => readonly string[]
   readonly appendsOnly: (root: string, path: string) => boolean
+  readonly stampsAt: (root: string) => ReadonlySet<string>
+}
+
+function stampsIndexed(root: string): ReadonlySet<string> {
+  return new Set([...generatedProperties(shadowAt(root)).values()].map((one) => one.key))
+}
+
+function stampless(
+  body: string,
+  stamps: ReadonlySet<string>
+): Readonly<Record<string, unknown>> | null {
+  const value = valueIn(body)
+  if (value === null) return null
+  return Object.fromEntries(Object.entries(value).filter(([key]) => !stamps.has(key)))
+}
+
+export function sameBesideStamps(
+  now: string | null,
+  then: string | null,
+  stamps: () => ReadonlySet<string>
+): boolean {
+  if (now === then) return true
+  if (now === null || then === null) return false
+  const was = stampless(then, stamps())
+  const is = stampless(now, stamps())
+  return was !== null && is !== null && isDeepStrictEqual(was, is)
 }
 
 function appendOnlyAt(root: string, path: string): boolean {
@@ -99,6 +128,7 @@ export const TURN_UNDOING: TurnUndoing = {
   bodyNow: (root, path) => textOnDisk(join(root, path)),
   besideOnDisk: besideListed,
   appendsOnly: appendOnlyAt,
+  stampsAt: stampsIndexed,
 }
 
 type Refused = { readonly refused: string }
@@ -219,9 +249,15 @@ function undoingRead(
   const touched = new Set(run.touched)
   for (const path of reach.besideOnDisk(root, turn.at)) if (!derived(path)) touched.add(path)
   const restored: Restored[] = []
+  const held: { stamps: ReadonlySet<string> | null } = { stamps: null }
+  const stamps = () => {
+    held.stamps ??= reach.stampsAt(root)
+    return held.stamps
+  }
   for (const path of [...touched].sort()) {
     const now = reach.bodyNow(root, path)
-    if (path !== turn.at && now !== reach.bodyThen(root, making.moved, path)) {
+    const ended = reach.bodyThen(root, making.moved, path)
+    if (path !== turn.at && !sameBesideStamps(now, ended, stamps)) {
       return {
         refused: `\`${path}\` changed since ${since}, so going back to its body before the turn would undo that change too`,
       }

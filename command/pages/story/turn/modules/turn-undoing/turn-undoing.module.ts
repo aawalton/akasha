@@ -78,6 +78,11 @@ export const turnUndoing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A change to a generated stamp alone, such as `updatedAt`, is no change since then.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The turn's own page is never refused for a change since its making ended.",
     },
     {
@@ -92,5 +97,5 @@ export const turnUndoing = {
     },
   ],
   createdAt: "2026-09-29T03:44:32.550Z",
-  updatedAt: "2026-10-17T21:29:38.672Z",
+  updatedAt: "2026-10-28T14:38:15.655Z",
 } as const satisfies Module

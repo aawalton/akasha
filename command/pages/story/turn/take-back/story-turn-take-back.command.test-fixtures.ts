@@ -221,6 +221,7 @@ export function reachOver(turn: Turn, into: Seen, story: Story = {}): TakingBack
     commitsOn: (_root, range) => (range === "HEAD" ? HISTORY : (story.run ?? RUN)),
     addedOn: () => MADE,
     appendsOnly: (_root, path) => story.appendOnly?.includes(path) ?? false,
+    stampsAt: () => new Set(["updatedAt"]),
     bodyThen: (_root, commit, path) => {
       if (commit === `${MADE}^`) return (story.before ?? BEFORE)[path] ?? null
       const ended = commit === MOVED || commit === "HEAD"

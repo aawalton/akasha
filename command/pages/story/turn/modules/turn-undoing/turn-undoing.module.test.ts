@@ -5,6 +5,7 @@ import {
   besideListed,
   engineAt,
   otherTurnAt,
+  sameBesideStamps,
   TURN_UNDOING,
   undoingOf,
 } from "akasha/command/pages/story/turn/modules/turn-undoing/turn-undoing.module.code.ts"
@@ -139,6 +140,58 @@ test("a turn not yet at player is undone up to the latest commit", () => {
       { path: HALL_AT, body: HALL_BEFORE },
       { path: AT, body: null },
     ],
+  })
+})
+
+function hallPage(facts: readonly string[], updatedAt: string): string {
+  const listed = facts.map((one) => JSON.stringify(one)).join(", ")
+  return `import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"\n\nexport const theHall = {\n  slug: "the-hall",\n  facts: [${listed}],\n  updatedAt: "${updatedAt}",\n} as const satisfies Lore\n`
+}
+
+const STAMPED: ReadonlySet<string> = new Set(["updatedAt"])
+
+function stampsOf(): ReadonlySet<string> {
+  return STAMPED
+}
+
+test("two bodies differing only in a generated stamp are the same body", () => {
+  const ended = hallPage(["The hall is cold."], "2026-10-01T00:00:00.000Z")
+  const stamped = hallPage(["The hall is cold."], "2026-10-02T00:00:00.000Z")
+  const told = hallPage(["The hall is cold.", "Mara hid the key."], "2026-10-02T00:00:00.000Z")
+  expect(sameBesideStamps(stamped, ended, stampsOf)).toBe(true)
+  expect(sameBesideStamps(told, ended, stampsOf)).toBe(false)
+  expect(sameBesideStamps(null, ended, stampsOf)).toBe(false)
+  expect(sameBesideStamps("not a page\n", "not a page either\n", stampsOf)).toBe(false)
+})
+
+function stampedOver(now: string) {
+  const before = hallPage(["The hall is cold."], "2026-09-01T00:00:00.000Z")
+  const ended = hallPage(["The hall is cold.", "Mara hid the key."], "2026-10-01T00:00:00.000Z")
+  return {
+    ...TURN_UNDOING,
+    stampsAt: stampsOf,
+    bodyNow: (root: string, path: string) =>
+      path === HALL_AT ? now : TURN_UNDOING.bodyNow(root, path),
+    bodyThen: (root: string, commit: string, path: string) => {
+      if (path !== HALL_AT) return TURN_UNDOING.bodyThen(root, commit, path)
+      return commit.endsWith("^") ? before : ended
+    },
+  }
+}
+
+test("a file restamped since the turn ended is undone, and one told more since is refused", () => {
+  const restamped = hallPage(["The hall is cold.", "Mara hid the key."], "2026-10-28T00:00:00.000Z")
+  expect(undoingOf(stampedOver(restamped), REPO, TURN, FOLDERS)).toMatchObject({
+    restored: expect.arrayContaining([
+      { path: HALL_AT, body: hallPage(["The hall is cold."], "2026-09-01T00:00:00.000Z") },
+    ]),
+  })
+  const told = hallPage(
+    ["The hall is cold.", "Mara hid the key.", "It rains."],
+    "2026-10-28T00:00:00.000Z"
+  )
+  expect(undoingOf(stampedOver(told), REPO, TURN, FOLDERS)).toMatchObject({
+    refused: expect.stringContaining(HALL_AT),
   })
 })
 
