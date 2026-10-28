@@ -11,9 +11,14 @@ export const kaguyaSamaLoveIsWarStairwayToAdulthood = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "333504", externalLink: "https://www.themoviedb.org/tv/333504" },
+    {
+      source: "tmdb",
+      externalId: "333504",
+      externalLink: "https://www.themoviedb.org/tv/333504",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Kaguya-sama: Love Is War -Stairway to Adulthood-",
   createdAt: "2026-10-28T18:45:02.976Z",
-  updatedAt: "2026-10-28T18:45:02.976Z",
+  updatedAt: "2026-10-28T19:44:47.038Z",
 } as const satisfies Show
