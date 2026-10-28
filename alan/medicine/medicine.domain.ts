@@ -32,7 +32,11 @@ export const medicine = {
       statement:
         "Alan's suicide risk is read from his logged safety level over the trailing three months.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan's sleep is his mean daily logged sleep over the trailing three months.",
+    },
   ],
   createdAt: "2026-09-03T13:00:18.032Z",
-  updatedAt: "2026-10-28T18:07:31.478Z",
+  updatedAt: "2026-10-28T18:10:02.722Z",
 } as const satisfies Domain
