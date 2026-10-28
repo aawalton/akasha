@@ -8,7 +8,8 @@ export const skillLockProbePlayerSwordplay = {
   character: "character-player/skill-lock-probe-player",
   skill: "world-skill/skill-lock-probe-world-swordplay",
   experience: 44,
+  unrevealed: true,
   attribute: "metric-character-stat/skill-lock-probe-player-strength",
   createdAt: "2026-10-28T00:39:19.516Z",
-  updatedAt: "2026-10-28T00:39:19.516Z",
+  updatedAt: "2026-10-28T00:40:58.870Z",
 } as const satisfies CharacterSkill
