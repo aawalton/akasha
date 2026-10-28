@@ -117,10 +117,12 @@ export const alan = {
   birthDate: "1986-01-22",
   height: 70,
   sex: "male",
+  tobaccoUse: "never",
+  alcoholDrinksPerWeek: 0,
   contributor:
     "contributor/contributor-9bc4d42501098ce9fad8a73ad03e2ef5d1e89b4a1fac8426b100f7c4d7e5e3d4",
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T17:58:43.254Z",
+  updatedAt: "2026-10-28T18:01:23.945Z",
 } as const satisfies Person
