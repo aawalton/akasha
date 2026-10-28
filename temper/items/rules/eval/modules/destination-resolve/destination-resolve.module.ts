@@ -34,11 +34,16 @@ export const destinationResolve = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A move-to chain resolves to its first leg that is no house.",
+      statement: "A move-to chain resolves to its first house with room for the whole stack.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Which house of a chain takes a furnishing is the house placement's to say.",
+      statement:
+        "A move-to chain reaching no house with known room resolves to its first storage leg.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A house's room is the environment's, so the game and a reading outside it agree.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +76,5 @@ export const destinationResolve = {
     },
   ],
   createdAt: "2026-09-02T08:24:13.419Z",
-  updatedAt: "2026-10-28T19:53:38.110Z",
+  updatedAt: "2026-10-28T20:47:31.599Z",
 } as const satisfies Module

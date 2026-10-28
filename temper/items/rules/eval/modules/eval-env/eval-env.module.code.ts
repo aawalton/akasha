@@ -84,6 +84,8 @@ export interface EvalEnv {
   ) => LookupResult<string | undefined>
 
   readonly isCompanionTrait: (esoTraitType: number) => LookupResult<boolean>
+
+  readonly getHouseRoom?: (collectibleId: number, limitType: number) => number | undefined
 }
 
 export interface WantedEquipmentFacts {

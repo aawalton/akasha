@@ -21,6 +21,7 @@ export interface ItemFacts {
   readonly armorType?: number
   readonly furnitureCategoryId?: number
   readonly furnitureSubcategoryId?: number
+  readonly furnishingLimitType?: number
   readonly setId?: number
 
   readonly isContainer?: boolean

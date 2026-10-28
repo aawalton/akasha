@@ -52,11 +52,16 @@ export const houseDestination = {
         "A stack allotted a house finds that house when judged alone, so it never goes back.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chain's leg for a stack is the first house with room, else its first storage leg.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "A furnishing read before its limit type was recorded counts as a traditional item.",
     },
   ],
   createdAt: "2026-10-28T19:42:44.161Z",
-  updatedAt: "2026-10-28T20:32:00.592Z",
+  updatedAt: "2026-10-28T20:47:31.599Z",
 } as const satisfies Module

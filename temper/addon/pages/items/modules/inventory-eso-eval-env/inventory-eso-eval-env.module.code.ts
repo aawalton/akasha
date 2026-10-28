@@ -24,6 +24,7 @@ import {
   addonTraitOfEso,
 } from "akasha/temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
+import { roomsIn } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 
 import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
@@ -310,5 +311,6 @@ export function buildEsoEvalEnv(): EvalEnv {
     getSetCategory: (esoSetId) => setCategoryOf(esoSetId),
     getTraitOfEso: (esoTraitType, equipType) => addonTraitOfEso(esoTraitType, equipType),
     isCompanionTrait: (esoTraitType) => addonIsCompanionTrait(esoTraitType),
+    getHouseRoom: roomsIn(getSavedVariables().db.locations),
   }
 }

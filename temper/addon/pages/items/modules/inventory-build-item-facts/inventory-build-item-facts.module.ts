@@ -25,7 +25,11 @@ export const inventoryBuildItemFacts = {
       decisionKind: "decision-kind/departure",
       statement: "An item nobody crafted is neither crafted today nor needed for a daily writ.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A furnishing's facts carry the house limit type its link counts against.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.849Z",
-  updatedAt: "2026-10-28T18:42:46.817Z",
+  updatedAt: "2026-10-28T20:47:31.599Z",
 } as const satisfies Module

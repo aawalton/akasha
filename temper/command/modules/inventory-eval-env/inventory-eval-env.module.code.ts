@@ -16,6 +16,7 @@ import { findCooldownGroup } from "akasha/temper/items/core/modules/cooldown-gro
 import { isCraftingRankBelowCap } from "akasha/temper/items/core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { roomsIn } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
@@ -98,6 +99,7 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     getSetCategory: setCategoryOfEsoSet,
     getTraitOfEso: heldTraitOfEso,
     isCompanionTrait: heldIsCompanionTrait,
+    getHouseRoom: db === undefined ? undefined : roomsIn(db.locations),
 
     getConsumableWanters: (itemId) => consumableWanters.get(itemId) ?? [],
     getConsumableStock: (itemId, charId) => {

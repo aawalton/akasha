@@ -3,12 +3,8 @@ import { getCompiledConfig } from "akasha/temper/addon/pages/items/modules/inven
 import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
   allotHouses,
-  chainHouses,
-  firstHouseWithRoom,
-  houseDestinationOf,
   roomsIn,
 } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
-import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { DestinationChain } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { storageCarrierOf } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -26,20 +22,6 @@ export interface VaultHouseCandidate {
   readonly chain: DestinationChain | undefined
   readonly limitType: number
   readonly units: number
-}
-
-export function houseLegOf(
-  rule: CompiledOrderedRule | undefined,
-  action: string,
-  itemLink: string,
-  units: number
-): string | undefined {
-  if (rule === undefined || action !== "move-to") return undefined
-  if (chainHouses(rule.destinationChain).length === 0) return undefined
-  const limitType = GetItemLinkFurnishingLimitType(itemLink)
-  const bound = { chain: rule.destinationChain, limitType, units }
-  const collectibleId = firstHouseWithRoom(bound, roomsIn(getDatabase().locations))
-  return collectibleId === undefined ? undefined : houseDestinationOf(collectibleId)
 }
 
 export interface VaultHouseWithdrawal {

@@ -35,6 +35,7 @@ import {
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
@@ -201,6 +202,8 @@ function buildFactsCore(itemLink: string, slot: SlotSignals): ItemFacts {
     armorType,
     furnitureCategoryId,
     furnitureSubcategoryId,
+    furnishingLimitType:
+      itemType === ITEMTYPE_FURNISHING ? GetItemLinkFurnishingLimitType(itemLink) : undefined,
     setId,
     isContainer,
     isStolen: slot.isStolen,

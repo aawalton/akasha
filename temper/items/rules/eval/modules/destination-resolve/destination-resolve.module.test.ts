@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { buildCliEvalEnv } from "akasha/temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { roomsIn } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { resolveDestination } from "akasha/temper/items/rules/eval/modules/destination-resolve/destination-resolve.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
@@ -134,6 +137,75 @@ test("a move-to chain through houses resolves to its first leg that is no house"
   }
 
   expect(resolveDestination(rule, FACTS, ctxWith({}))).toEqual({
+    kind: "resolved",
+    concrete: "furniture-vault",
+  })
+})
+
+const GALLERY = 12732
+
+const HOUSED: InventoryDatabase = {
+  meta: { displayName: "", worldName: "", lastFullScan: 0 },
+  locations: {
+    "House:Grand Gallery of Tamriel": {
+      displayName: "Grand Gallery of Tamriel",
+      lastScanned: 0,
+      bags: {},
+      house: {
+        collectibleId: GALLERY,
+        houseId: 99,
+        furnishingLimits: { 0: { limit: 700, placed: 695 } },
+      },
+    },
+  },
+}
+
+const GALLERY_RULE: CompiledOrderedRule = {
+  categoryId: "all",
+  action: "move-to",
+  destinationChain: [{ destination: `house:${GALLERY}` }, { destination: "furniture-vault" }],
+}
+
+function furnishing(stackCount: number): ItemFacts {
+  return { ...FACTS, stackCount, furnishingLimitType: 0 }
+}
+
+test("the reading outside the game and the game agree on which furnishings go to a house", () => {
+  const offGame = {
+    env: buildCliEvalEnv({
+      charactersById: new Map(),
+      characterPriority: [],
+      wantedConsumables: {},
+      db: HOUSED,
+    }),
+  }
+  const inGame = ctxWith({ getHouseRoom: roomsIn(HOUSED.locations) })
+  for (const units of [1, 5, 6, 40]) {
+    expect(resolveDestination(GALLERY_RULE, furnishing(units), offGame)).toEqual(
+      resolveDestination(GALLERY_RULE, furnishing(units), inGame)
+    )
+  }
+  expect(resolveDestination(GALLERY_RULE, furnishing(5), offGame)).toEqual({
+    kind: "resolved",
+    concrete: `house:${GALLERY}`,
+  })
+  expect(resolveDestination(GALLERY_RULE, furnishing(6), offGame)).toEqual({
+    kind: "resolved",
+    concrete: "furniture-vault",
+  })
+})
+
+test("a house no reading has scanned takes nothing, off the game or in it", () => {
+  const unscanned = { ...HOUSED, locations: {} }
+  const offGame = {
+    env: buildCliEvalEnv({
+      charactersById: new Map(),
+      characterPriority: [],
+      wantedConsumables: {},
+      db: unscanned,
+    }),
+  }
+  expect(resolveDestination(GALLERY_RULE, furnishing(1), offGame)).toEqual({
     kind: "resolved",
     concrete: "furniture-vault",
   })

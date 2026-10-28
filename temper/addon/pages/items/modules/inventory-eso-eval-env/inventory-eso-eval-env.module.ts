@@ -11,7 +11,11 @@ export const inventoryEsoEvalEnv = {
       decisionKind: "decision-kind/departure",
       statement: "A skill line rank table is built on the first lookup that asks for one.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A house's room comes from the house the saved database last scanned.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.850Z",
-  updatedAt: "2026-09-21T17:37:10.000Z",
+  updatedAt: "2026-10-28T20:47:31.599Z",
 } as const satisfies Module

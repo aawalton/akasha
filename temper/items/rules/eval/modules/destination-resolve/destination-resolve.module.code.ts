@@ -2,7 +2,10 @@ import {
   type CharEligibilityConditions,
   composeCharEligibilityPredicate,
 } from "akasha/temper/items/rules/core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
-import { houseTarget } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
+import {
+  chainLegOf,
+  TRADITIONAL_ITEM_LIMIT_TYPE,
+} from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { DestinationChain } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { planStockChainVisit } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
@@ -51,7 +54,7 @@ export function resolveDestination(
   }
   const dest = rule.destination
   if (dest === undefined || dest === "") {
-    return { kind: "resolved", concrete: storageLegOf(rule) }
+    return { kind: "resolved", concrete: chainLegFor(rule, facts, ctx) }
   }
   if (dest === CHARACTER_BY_PRIORITY) {
     return resolveCharacterByPriority(rule, facts, ctx)
@@ -65,12 +68,13 @@ export function resolveDestination(
   return { kind: "resolved", concrete: dest }
 }
 
-function storageLegOf(rule: CompiledOrderedRule): string {
+function chainLegFor(rule: CompiledOrderedRule, facts: ItemFacts, ctx: EvalContext): string {
   if (rule.action !== MOVE_TO || rule.destinationChain === undefined) return ""
-  for (const tier of rule.destinationChain) {
-    if (houseTarget(tier.destination) === undefined) return tier.destination
-  }
-  return ""
+  const limitType = facts.furnishingLimitType ?? TRADITIONAL_ITEM_LIMIT_TYPE
+  const bound = { chain: rule.destinationChain, limitType, units: facts.stackCount ?? 1 }
+  const env = ctx.env
+  if (env.getHouseRoom === undefined) return chainLegOf(bound, undefined)
+  return chainLegOf(bound, (id, type) => env.getHouseRoom?.(id, type))
 }
 
 type EligibilityVerdict = boolean | "unknown"

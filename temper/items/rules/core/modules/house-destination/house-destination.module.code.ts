@@ -93,6 +93,15 @@ export function firstHouseWithRoom(bound: HouseBound, roomOf: HouseRoom): number
   return allotHouses([bound], roomOf)[0]?.collectibleId
 }
 
+export function chainLegOf(bound: HouseBound, roomOf: HouseRoom | undefined): string {
+  const collectibleId = roomOf === undefined ? undefined : firstHouseWithRoom(bound, roomOf)
+  if (collectibleId !== undefined) return houseDestinationOf(collectibleId)
+  for (const tier of bound.chain ?? []) {
+    if (houseTarget(tier.destination) === undefined) return tier.destination
+  }
+  return ""
+}
+
 export function furnishingLimitTypeOf(item: { readonly furnishingLimitType?: number }): number {
   return item.furnishingLimitType ?? TRADITIONAL_ITEM_LIMIT_TYPE
 }

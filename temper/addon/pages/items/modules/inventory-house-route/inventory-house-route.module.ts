@@ -9,16 +9,6 @@ export const inventoryHouseRoute = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A furnishing whose chain reaches a house with room for its stack resolves to that house.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A furnishing whose chain reaches no house with known room resolves to its storage leg.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A vault visit takes out, for the carrier, the stacks the houses are allotted.",
     },
     {
@@ -32,5 +22,5 @@ export const inventoryHouseRoute = {
     },
   ],
   createdAt: "2026-10-28T20:33:22.031Z",
-  updatedAt: "2026-10-28T20:33:22.031Z",
+  updatedAt: "2026-10-28T20:47:31.599Z",
 } as const satisfies Module

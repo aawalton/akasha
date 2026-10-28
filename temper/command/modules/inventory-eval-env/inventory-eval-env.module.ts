@@ -92,10 +92,14 @@ export const inventoryEvalEnv = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A house's room comes from the house the inventory capture last scanned.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A stack the capture marks known is known by the character whose own bag holds it.",
     },
   ],
   createdAt: "2026-09-03T20:07:25.549Z",
-  updatedAt: "2026-09-27T15:07:34.000Z",
+  updatedAt: "2026-10-28T20:47:31.599Z",
 } as const satisfies Module

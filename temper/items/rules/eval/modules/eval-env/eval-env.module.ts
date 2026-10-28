@@ -51,7 +51,16 @@ export const evalEnv = {
       decisionKind: "decision-kind/departure",
       statement: "A trait's temper id is asked for by the game's trait number and equip type.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A house's room for a limit type is the room its last scan recorded, else none known.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An environment with no house room lookup knows no house's room.",
+    },
   ],
   createdAt: "2026-09-02T08:24:13.419Z",
-  updatedAt: "2026-09-27T03:41:25.000Z",
+  updatedAt: "2026-10-28T20:47:31.599Z",
 } as const satisfies Module

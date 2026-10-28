@@ -32,7 +32,7 @@ export const inventoryRulesEval = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A furnishing whose chain reaches a house with room is judged bound for that house.",
+        "A furnishing whose chain reaches a house with room is judged bound there by the shared rules.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -67,5 +67,5 @@ export const inventoryRulesEval = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.859Z",
-  updatedAt: "2026-10-28T20:33:22.031Z",
+  updatedAt: "2026-10-28T20:47:31.599Z",
 } as const satisfies Module

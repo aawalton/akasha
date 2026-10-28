@@ -61,6 +61,7 @@ export function buildItemFactsFromInventoryItem(input: BuildItemFactsInput): Ite
     armorType: item.armorType,
     furnitureCategoryId: item.furnitureCategoryId,
     furnitureSubcategoryId: item.furnitureSubcategoryId,
+    furnishingLimitType: item.furnishingLimitType,
     setId: item.setId,
     isContainer: item.isContainer,
     isStolen: item.stolen,
