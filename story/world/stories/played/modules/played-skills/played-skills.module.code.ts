@@ -112,7 +112,7 @@ export function attributeOf(
   return (ownNameOf(named) ?? kind).toUpperCase()
 }
 
-export function heldAddressOf(row: QueryRow): string | undefined {
+function heldAddressOf(row: QueryRow): string | undefined {
   const type = textIn(row.values[TYPE_KEY])
   if (type === null) return undefined
   const bare = type.startsWith(TYPE_OPENING) ? type.slice(TYPE_OPENING.length) : type
