@@ -67,6 +67,10 @@ export const hooks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page a relation field of a record names is a related page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A page type a relation names a hundred pages of or fewer is read for those alone.",
     },
@@ -105,5 +109,5 @@ export const hooks = {
     },
   ],
   createdAt: "2026-09-02T12:08:30.267Z",
-  updatedAt: "2026-10-22T15:13:29.457Z",
+  updatedAt: "2026-10-28T21:27:09.265Z",
 } as const satisfies Module

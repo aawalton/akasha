@@ -238,28 +238,52 @@ function shapeReading(group: RelatedIdGroup): ShapeDescriptor {
   return namedShapeDescriptor(group.pageTypeSlug, { by: group.by, values: group.values })
 }
 
+type Related = {
+  readonly id: string
+  readonly type: string
+  readonly config?: unknown
+  readonly fields?: readonly Related[]
+}
+
+function isRelation(one: Related): boolean {
+  return one.type === "relation" || one.type === "multi-relation"
+}
+
+export function relationSpecsOf(
+  definitions: readonly Related[] | undefined,
+  pageTypeSlugById: ReadonlyMap<string, string>
+): readonly RelationSpec[] {
+  if (!definitions) return []
+  const out: RelationSpec[] = []
+  for (const d of definitions) {
+    if (isRelation(d)) {
+      const targetPageTypeSlug = targetSlugOf(d.config, pageTypeSlugById)
+      if (targetPageTypeSlug !== undefined) out.push({ propertyId: d.id, targetPageTypeSlug })
+    }
+    for (const field of (d.fields ?? []).filter(isRelation)) {
+      const targetPageTypeSlug = targetSlugOf(field.config, pageTypeSlugById)
+      if (targetPageTypeSlug === undefined) continue
+      out.push({ propertyId: d.id, fieldId: field.id, targetPageTypeSlug })
+    }
+  }
+  return out
+}
+
 export function useRelatedPages({
   definitions,
   pages,
   pageTypes,
   pageTypeSlugById,
 }: {
-  definitions: readonly { id: string; type: string; config?: unknown }[] | undefined
+  definitions: readonly Related[] | undefined
   pages: readonly { properties: Record<string, unknown> }[]
   pageTypes: readonly PageWithProperties[]
   pageTypeSlugById: ReadonlyMap<string, string>
 }): { readonly relatedPages: readonly PageWithProperties[]; readonly isLoading: boolean } {
-  const specs = useMemo<readonly RelationSpec[]>(() => {
-    if (!definitions) return []
-    const out: RelationSpec[] = []
-    for (const d of definitions) {
-      if (d.type !== "relation" && d.type !== "multi-relation") continue
-      const targetPageTypeSlug = targetSlugOf(d.config, pageTypeSlugById)
-      if (targetPageTypeSlug === undefined) continue
-      out.push({ propertyId: d.id, targetPageTypeSlug })
-    }
-    return out
-  }, [definitions, pageTypeSlugById])
+  const specs = useMemo(
+    () => relationSpecsOf(definitions, pageTypeSlugById),
+    [definitions, pageTypeSlugById]
+  )
 
   const groups = useMemo(
     () => collectRelatedIds(pages, specs, RELATED_IDS_PER_PROPERTY_CAP),
