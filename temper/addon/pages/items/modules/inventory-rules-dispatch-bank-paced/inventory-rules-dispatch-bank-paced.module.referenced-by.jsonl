@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"inventory-rules-dispatch-bank-paced.module.code.ts","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-dispatch-bank-paced.module.code.ts","path":"temper/addon/pages/items/modules/inventory-house-travel/inventory-house-travel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-dispatch-bank-paced.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"inventory-rules-dispatch-bank-paced.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank/inventory-rules-dispatch-bank.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-dispatch-bank-paced.module.code.ts","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.code.ts","typed":false,"deferred":false}

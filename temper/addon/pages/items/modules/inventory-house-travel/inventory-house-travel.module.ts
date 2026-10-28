@@ -4,12 +4,37 @@ export const inventoryHouseTravel = {
   id: "01a1844f-f022-7c74-86fc-4a84899fcc2c",
   type: "page-type/module",
   slug: "inventory-house-travel",
-  definition: "the port to the next house the inventory plan sends the logged-in character to",
+  definition: "the ports along the houses the inventory plan sends the logged-in character to",
   code: "ts",
+  parts: ["module/inventory-house-circuit"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One key and one chat command port to the next house stop.",
+      statement: "One key and one chat command start a circuit, and a press during it cancels it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A circuit ports on only once placing and the paced storage moves have ended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A circuit goes on after the loading screen ends in the house it ported to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A circuit waits out combat and goes on once combat ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A port that lands elsewhere, or nowhere within 90 seconds, stops the circuit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where the game guards house ports, each press ports once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A circuit's storage stop gets a port and ends the circuit there.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -19,6 +44,10 @@ export const inventoryHouseTravel = {
     {
       decisionKind: "decision-kind/departure",
       statement: "No port is asked for in combat.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "Nothing tells the circuit the game refused a port, so it waits the 90 seconds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,7 +63,7 @@ export const inventoryHouseTravel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each port says one chat line naming the house and the work there.",
+      statement: "Each port says one chat line with its count, the house and the work there.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,5 +71,5 @@ export const inventoryHouseTravel = {
     },
   ],
   createdAt: "2026-10-28T20:59:53.762Z",
-  updatedAt: "2026-10-28T21:34:16.134Z",
+  updatedAt: "2026-10-28T21:51:40.159Z",
 } as const satisfies Module

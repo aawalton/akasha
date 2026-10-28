@@ -7,7 +7,6 @@ import {
   houseOfStorageVenue,
   houseStopSaid,
   houseStopsOf,
-  nextHouseStop,
   type StorageStep,
   storageHouseOf,
 } from "akasha/temper/addon/pages/items/modules/inventory-house-stop/inventory-house-stop.module.code.ts"
@@ -113,9 +112,9 @@ describe("The houses to scan come first, since the vault sends nothing to an uns
       rules: [houseRule(GALLERY)],
       scanned: (house) => scannedNow.has(house),
     })
-    expect(nextHouseStop(houseStopsOf(facts), undefined)?.collectibleId).toBe(GALLERY)
+    expect(houseStopsOf(facts)[0]?.collectibleId).toBe(GALLERY)
     scannedNow.add(GALLERY)
-    expect(nextHouseStop(houseStopsOf(facts), GALLERY)?.collectibleId).toBe(VILLA)
+    expect(houseStopsOf(facts)[0]?.collectibleId).toBe(VILLA)
   })
 })
 
@@ -226,29 +225,5 @@ describe("Only the storage carrier is sent to scan a house or to place furnishin
     expect(stops).toEqual([
       { collectibleId: VILLA, reason: { kind: "storage", chests: 0, vault: 2 } },
     ])
-  })
-})
-
-describe("The next stop is the first stop at a house other than the one the character is in.", () => {
-  const stops = houseStopsOf(
-    factsOf({
-      storageSteps: [{ venue: "furniture-vault", stacks: 2 }],
-      rules: [houseRule(GALLERY)],
-      scanned: (house) => house !== GALLERY,
-    })
-  )
-
-  test("away from every stop, the next stop is the first", () => {
-    expect(nextHouseStop(stops, undefined)?.collectibleId).toBe(GALLERY)
-    expect(nextHouseStop(stops, MANOR)?.collectibleId).toBe(GALLERY)
-  })
-
-  test("in the first stop's house, the next stop is the one after", () => {
-    expect(nextHouseStop(stops, GALLERY)?.collectibleId).toBe(VILLA)
-  })
-
-  test("with no stop left elsewhere, there is no next stop", () => {
-    expect(nextHouseStop(stops.slice(0, 1), GALLERY)).toBeUndefined()
-    expect(nextHouseStop([], undefined)).toBeUndefined()
   })
 })

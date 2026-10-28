@@ -47,6 +47,12 @@ interface Run {
 }
 
 let running = false
+let current: Run | undefined
+
+export function placementStacksLeft(): number | undefined {
+  if (!running || current === undefined) return undefined
+  return current.queue.length - current.at
+}
 
 function isFurnishing(itemLink: string): boolean {
   const [itemType] = GetItemLinkItemType(itemLink)
@@ -96,6 +102,7 @@ function roomHere(houseId: number, limitType: number): number {
 
 function finish(run: Run, why: string | undefined): undefined {
   running = false
+  current = undefined
   const left = run.left + (run.queue.length - run.at)
   const said = `[${ADDON_NAME}] Placed ${run.placed} furnishing(s) in ${run.name}; ${left} stack(s) left`
   d(why === undefined ? said : `${said} — ${why}`)
@@ -146,5 +153,7 @@ export function placeFurnishingsHere(): undefined {
   queue.sort((one, two) => one.units - two.units)
   running = true
   const name = zo_strformat("<<1>>", GetCollectibleName(here))
-  step({ houseId, name, queue, at: 0, started: false, placed: 0, left: 0 })
+  const run: Run = { houseId, name, queue, at: 0, started: false, placed: 0, left: 0 }
+  current = run
+  step(run)
 }

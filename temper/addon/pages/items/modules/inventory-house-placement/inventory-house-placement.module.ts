@@ -54,9 +54,13 @@ export const inventoryHousePlacement = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run tells any reader how many stacks it has left, and nothing once it ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The placements themselves are recorded by the placed furnishing events.",
     },
   ],
   createdAt: "2026-10-28T20:23:03.295Z",
-  updatedAt: "2026-10-28T21:05:15.427Z",
+  updatedAt: "2026-10-28T21:51:40.159Z",
 } as const satisfies Module

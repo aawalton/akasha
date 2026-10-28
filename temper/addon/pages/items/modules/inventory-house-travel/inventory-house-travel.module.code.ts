@@ -1,19 +1,25 @@
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
+import { placementStacksLeft } from "akasha/temper/addon/pages/items/modules/inventory-house-placement/inventory-house-placement.module.code.ts"
 import {
   type CarriedFurnishing,
   type HouseStop,
   houseOfStorageVenue,
   houseStopSaid,
   houseStopsOf,
-  nextHouseStop,
 } from "akasha/temper/addon/pages/items/modules/inventory-house-stop/inventory-house-stop.module.code.ts"
+import {
+  circuitStep,
+  startsAtStorage,
+} from "akasha/temper/addon/pages/items/modules/inventory-house-travel/modules/inventory-house-circuit/inventory-house-circuit.module.code.ts"
 import { planVenueSteps } from "akasha/temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"
 import {
   forEachPendingAction,
   getCompiledConfig,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { isPacedBankRunning } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.code.ts"
 import type { AddonItemAction } from "akasha/temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import { isPacingServerActions } from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import {
   houseLocationKeyFor,
   houseTarget,
@@ -24,6 +30,8 @@ import "akasha/temper/addon/pages/temper-core/temper-housing/housing-publish-dec
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
@@ -81,19 +89,149 @@ function houseStopsNow(): readonly HouseStop[] | undefined {
   return stops.filter((stop) => IsCollectibleUnlocked(stop.collectibleId))
 }
 
-export function travelToNextInventoryHouse(this: void): undefined {
-  if (IsUnitInCombat("player")) return say("Porting waits until you are out of combat.")
-  const stops = houseStopsNow()
-  if (stops === undefined) return say("Next house: no rules compiled — sync from Temper web")
-  const here = houseHere()
-  const stop = nextHouseStop(stops, here)
-  if (stop === undefined) {
-    return say(
-      here !== undefined && stops.length > 0
-        ? `Next house: no house stop left past ${houseName(here)}`
-        : "Next house: no house stop left in the plan"
-    )
+const CIRCUIT_EVENTS = `${ADDON_NAME}_HouseCircuit`
+
+const POLL_MS = 500
+
+const SETTLE_MS = 4000
+
+const ARRIVAL_MS = 90000
+
+const JUMP = "RequestJumpToHouse"
+
+interface Circuit {
+  readonly id: number
+  readonly ported: number[]
+  readonly passStorage: boolean
+  readonly oneHop: boolean
+  target: number | undefined
+  waitingSaid: boolean
+  combatSaid: boolean
+}
+
+let circuit: Circuit | undefined
+
+let circuitsBegun = 0
+
+function portTo(collectibleId: number): undefined {
+  TemperHouses.PortToMyHousesById(GetCollectibleReferenceId(collectibleId), false)
+}
+
+function workLeft(): string | undefined {
+  const left = placementStacksLeft()
+  if (left !== undefined) return `placing finishes (${left} left)`
+  if (isPacingServerActions() || isPacedBankRunning()) return "the storage moves finish"
+  return undefined
+}
+
+function stopCircuit(): undefined {
+  circuit = undefined
+  EVENT_MANAGER.UnregisterForEvent(CIRCUIT_EVENTS, EVENT_PLAYER_ACTIVATED)
+}
+
+function endCircuit(text: string): undefined {
+  stopCircuit()
+  say(`Circuit: ${text}`)
+}
+
+function liveCircuit(id: number): Circuit | undefined {
+  return circuit !== undefined && circuit.id === id ? circuit : undefined
+}
+
+function waitedOut(run: Circuit): boolean {
+  if (IsUnitInCombat("player")) {
+    if (!run.combatSaid) say("Circuit: paused for combat")
+    run.combatSaid = true
+    return false
   }
-  say(`Porting to ${houseName(stop.collectibleId)}: ${houseStopSaid(stop.reason)}`)
-  TemperHouses.PortToMyHousesById(GetCollectibleReferenceId(stop.collectibleId), false)
+  if (run.combatSaid) say("Circuit: combat is over, going on")
+  run.combatSaid = false
+  const work = workLeft()
+  if (work === undefined) return true
+  if (!run.waitingSaid) say(`Circuit: porting on once ${work}`)
+  run.waitingSaid = true
+  return false
+}
+
+function portOn(run: Circuit, collectibleId: number, line: string): undefined {
+  run.waitingSaid = false
+  run.ported.push(collectibleId)
+  say(line)
+  if (run.oneHop) {
+    stopCircuit()
+    return portTo(collectibleId)
+  }
+  run.target = collectibleId
+  const id = run.id
+  zo_callLater(function (this: void): undefined {
+    const late = liveCircuit(id)
+    if (late === undefined || late.target !== collectibleId) return
+    endCircuit(
+      `stopped, the port to ${houseName(collectibleId)} did not happen; press again to go on`
+    )
+  }, ARRIVAL_MS)
+  portTo(collectibleId)
+}
+
+function advance(id: number): undefined {
+  const run = liveCircuit(id)
+  if (run === undefined || run.target !== undefined) return
+  if (!waitedOut(run)) {
+    zo_callLater(() => advance(id), POLL_MS)
+    return
+  }
+  const stops = houseStopsNow()
+  if (stops === undefined) return endCircuit("stopped, no rules compiled — sync from Temper web")
+  const step = circuitStep(stops, houseHere(), run.ported, run.passStorage)
+  if (step.kind === "done") {
+    return endCircuit(run.ported.length === 0 ? "no house stop left in the plan" : "done")
+  }
+  const name = houseName(step.stop.collectibleId)
+  const work = houseStopSaid(step.stop.reason)
+  if (step.kind === "repeat") {
+    return endCircuit(`stopped, ${name} came up again (${work}), so its work did not finish`)
+  }
+  if (step.kind === "storage") {
+    endCircuit(`stopping at ${name} for ${work}; press again there to go on`)
+    return portTo(step.stop.collectibleId)
+  }
+  portOn(run, step.stop.collectibleId, `Circuit: ${step.number} of ${step.total}, ${name}, ${work}`)
+}
+
+function arrived(id: number): undefined {
+  const run = liveCircuit(id)
+  if (run === undefined || run.target === undefined) return
+  const target = run.target
+  run.target = undefined
+  if (houseHere() !== target) {
+    return endCircuit(`stopped, the port to ${houseName(target)} landed somewhere else`)
+  }
+  zo_callLater(() => advance(id), SETTLE_MS)
+}
+
+export function travelToNextInventoryHouse(this: void): undefined {
+  if (circuit !== undefined) return endCircuit("cancelled")
+  const stops = houseStopsNow()
+  if (stops === undefined) return say("Circuit: no rules compiled — sync from Temper web")
+  circuitsBegun += 1
+  const id = circuitsBegun
+  const oneHop = IsPrivateFunction(JUMP) || IsProtectedFunction(JUMP)
+  circuit = {
+    id,
+    ported: [],
+    passStorage: startsAtStorage(stops, houseHere()),
+    oneHop,
+    target: undefined,
+    waitingSaid: false,
+    combatSaid: false,
+  }
+  if (oneHop) say("Circuit: the game guards house ports, so each press ports once")
+  EVENT_MANAGER.RegisterForEvent(
+    CIRCUIT_EVENTS,
+    EVENT_PLAYER_ACTIVATED,
+    function (this: void): undefined {
+      arrived(id)
+    }
+  )
+  advance(id)
 }

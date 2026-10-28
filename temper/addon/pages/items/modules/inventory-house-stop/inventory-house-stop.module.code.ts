@@ -168,13 +168,6 @@ export function houseStopsOf(facts: HouseStopFacts): readonly HouseStop[] {
   return [...scanStops(facts), ...storage, ...placeStops(facts)]
 }
 
-export function nextHouseStop(
-  stops: readonly HouseStop[],
-  here: number | undefined
-): HouseStop | undefined {
-  return stops.find((stop) => stop.collectibleId !== here)
-}
-
 export function houseStopSaid(reason: HouseStopReason): string {
   if (reason.kind === "scan") return "scan"
   if (reason.kind === "place") return `place ${reason.stacks}`

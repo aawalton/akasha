@@ -55,11 +55,7 @@ export const inventoryHouseStop = {
       decisionKind: "decision-kind/departure",
       statement: "Only the storage carrier is sent to scan a house or to place furnishings.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The next stop is the first stop at a house other than the one the character is in.",
-    },
+
     {
       decisionKind: "decision-kind/gap",
       statement:
@@ -67,5 +63,5 @@ export const inventoryHouseStop = {
     },
   ],
   createdAt: "2026-10-28T20:56:33.837Z",
-  updatedAt: "2026-10-28T21:33:34.800Z",
+  updatedAt: "2026-10-28T21:51:40.159Z",
 } as const satisfies Module
