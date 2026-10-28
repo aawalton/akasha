@@ -23,6 +23,15 @@ export const tieredRoll = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An act naming a skill or stat that states it is unrevealed is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That refusal tells the game master to unlock the page first where the story does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A recent similar success adds 5 to 15.",
     },
     {
@@ -45,5 +54,5 @@ export const tieredRoll = {
     },
   ],
   createdAt: "2026-10-27T19:58:09.393Z",
-  updatedAt: "2026-10-27T19:58:09.393Z",
+  updatedAt: "2026-10-28T00:45:32.821Z",
 } as const satisfies Module

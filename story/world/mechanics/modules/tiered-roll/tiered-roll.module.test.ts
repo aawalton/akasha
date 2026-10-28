@@ -129,6 +129,15 @@ test("a story's refusal of the skill is the act's refusal", () => {
   expect(tieredSettled(ACT, rolled(92), refusing)).toEqual({ refused: "no such skill" })
 })
 
+test("an act naming a skill whose page is unrevealed is refused, saying to unlock it first", () => {
+  const act = { ...ACT, skill: "character-skill/mara-swordplay" }
+  const locked = (named: string) => named === act.skill
+  const said = tieredSettled(act, rolled(92), skilled(35), locked)
+  expect("refused" in said ? said.refused : "").toContain("still locked")
+  expect("refused" in said ? said.refused : "").toContain(act.skill)
+  expect(tieredSettled(act, rolled(92), skilled(35), () => false)).toHaveProperty("answered")
+})
+
 test("an act handed no roll is refused, naming the dice to settle it with", () => {
   expect(tieredSettled(ACT, null, skilled(0))).toEqual({
     refused: "an act is rolled, so settle it with --dice 3d60",

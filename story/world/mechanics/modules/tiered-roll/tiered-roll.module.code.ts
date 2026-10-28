@@ -1,3 +1,9 @@
+import {
+  listedAt,
+  valueByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { actionDifficulty } from "akasha/story/world/mechanics/checks/action-difficulties/action-difficulty.page-type.ts"
 import { easy } from "akasha/story/world/mechanics/checks/action-difficulties/pages/easy.action-difficulty.ts"
 import { extremelyHard } from "akasha/story/world/mechanics/checks/action-difficulties/pages/extremely-hard.action-difficulty.ts"
@@ -72,6 +78,23 @@ type Tiered = {
 
 export type Settled = { readonly answered: Tiered } | { readonly refused: string }
 
+export type Unrevealing = (named: string) => boolean
+
+const UNREVEALED = "unrevealed"
+
+function unrevealedIndexed(named: string): boolean {
+  const address = addressIn(named)
+  if (address.kind !== "qualified") return false
+  const root = akashaRoot()
+  const found = listedAt(root, address.pageTypeSlug, address.slug)[0]
+  const value = found === undefined ? null : valueByPath(root, found.path)
+  return value?.[UNREVEALED] === true
+}
+
+function lockedSaid(named: string): string {
+  return `\`${named}\` states \`${UNREVEALED}: true\`, so it is still locked and no roll names it; where the story unlocks it, set \`${UNREVEALED}\` to false on the beat that unlocks it before settling, and otherwise name a skill or stat that is unlocked`
+}
+
 const TERM = z.object({
   from: z.string().trim().min(1),
   by: z.number().int().min(LEAST_MODIFIER).max(MOST_MODIFIER),
@@ -107,7 +130,12 @@ function namedOnce(named: Named): string | null {
   return null
 }
 
-export function tieredSettled(reading: unknown, roll: Rolled | null, termOf: Termed): Settled {
+export function tieredSettled(
+  reading: unknown,
+  roll: Rolled | null,
+  termOf: Termed,
+  unrevealed: Unrevealing = unrevealedIndexed
+): Settled {
   if (roll === null) return { refused: `an act is rolled, so settle it with --dice ${TIERED_DICE}` }
   const held = ACT.safeParse(reading)
   if (!held.success) return { refused: `an act reads so: ${z.prettifyError(held.error)}` }
@@ -119,6 +147,8 @@ export function tieredSettled(reading: unknown, roll: Rolled | null, termOf: Ter
     const named = DIFFICULTIES.map((one) => addressOf(actionDifficulty.slug, one.slug)).join(", ")
     return { refused: `\`${act.actionDifficulty}\` is no action difficulty; say one of ${named}` }
   }
+  const named = act.skill ?? act.stat
+  if (named !== undefined && unrevealed(named)) return { refused: lockedSaid(named) }
   const skilled = termOf({
     ...(act.skill === undefined ? {} : { skill: act.skill }),
     ...(act.stat === undefined ? {} : { stat: act.stat }),
