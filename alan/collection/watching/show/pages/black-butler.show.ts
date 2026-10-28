@@ -11,9 +11,15 @@ export const blackButler = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "50712", externalLink: "https://www.themoviedb.org/tv/50712" },
+    {
+      source: "tmdb",
+      externalId: "50712",
+      externalLink: "https://www.themoviedb.org/tv/50712",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Black Butler",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:49:32.837Z",
-  updatedAt: "2026-10-28T18:49:32.837Z",
+  updatedAt: "2026-10-28T19:43:34.719Z",
 } as const satisfies Show
