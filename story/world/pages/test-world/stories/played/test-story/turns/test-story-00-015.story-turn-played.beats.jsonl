@@ -1,3 +1,3 @@
 {"beat":1,"event":"The player turns to nod to the shopkeeper, but she is across the square in her shop.","prose":"You turn to nod to the shopkeeper, but she isn't here. She is across the square in her shop.","at":"2026-11-13T12:03:00.000Z","changes":[],"memory":[],"pictured":[]}
-{"beat":2,"event":"The player opens the purse and counts what is inside.","changes":[]}
+{"beat":2,"event":"The player opens the purse and counts what is inside.","prose":"You open your purse and count the coins into your palm.","changes":[]}
 {"beat":3,"event":"Eighteen coin lie in the player's palm.","at":"2026-11-13T12:04:00.000Z"}
