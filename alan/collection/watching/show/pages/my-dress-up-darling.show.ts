@@ -6,6 +6,7 @@ export const myDressUpDarling = {
   slug: "my-dress-up-darling",
   ownLength: 0,
   ownProgress: 0,
+  partOfCollections: ["fandom/my-dress-up-darling"],
   publishedAt: "2022-01-09",
   status: "completed",
   unit: "unit/minutes",
@@ -19,7 +20,7 @@ export const myDressUpDarling = {
   ],
   title: "My Dress-Up Darling",
   createdAt: "2026-10-14T19:18:25.105Z",
-  updatedAt: "2026-10-28T17:07:33.010Z",
+  updatedAt: "2026-10-28T18:38:33.508Z",
   completedAt: "2026-10-28",
   grade: "A+",
 } as const satisfies Show
