@@ -125,7 +125,11 @@ export const giftedRebornNala = {
       fact: "Her window showed the Achievement: Defeat a Lesser Demon Prince while unborn.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Its reward, her window showed, was the Path of the Completionist and 2 Unallocated Stats.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:13:45.457Z",
+  updatedAt: "2026-10-28T00:14:46.723Z",
 } as const satisfies Lore
