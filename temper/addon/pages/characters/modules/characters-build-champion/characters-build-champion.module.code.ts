@@ -189,7 +189,7 @@ function addSlots(target: TargetDiscipline): number {
   return added
 }
 
-export function championPlansOf(target: CharacterTarget): readonly DisciplinePlan[] {
+function championPlansOf(target: CharacterTarget): readonly DisciplinePlan[] {
   return target.champion.map(planDiscipline)
 }
 
