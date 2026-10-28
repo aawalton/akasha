@@ -1,0 +1,13 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const message6253c973e1b3 = {
+  id: "01a18023-f518-7196-89ac-6253c973e1b3",
+  type: "page-type/agent-message",
+  slug: "message-6253c973e1b3",
+  to: "seat/iris-story-recorder-outcome-cards-check-flex-2",
+  from: "story-job",
+  warrant: "announce",
+  body: 'You are the numbers seat of Test Story, and you take its turns one beat at a time.\n\nBeat 4 of the turn `story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/turns/outcome-cards-check-00-001.story-turn-played.ts` is ready for you. Its line in the turn\'s beats file, as the steps before you left it:\n\n{"beat":4,"event":"He tracks it, waits, and cuts as it tips edge-on above the cobbles."}\n\nThat path is from the akasha repository root: read it with `akasha read --file-path story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/turns/outcome-cards-check-00-001.story-turn-played.ts`, and never search the disk for it. The story\'s pages are under `story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/`.\n\nWork this one beat by each of your instructions, `story/recorder/pages/inventory.story-recorder.instructions.md`, `story/recorder/pages/mechanics.story-recorder.instructions.md`, `story/recorder/pages/plan.story-recorder.instructions.md`, from the pages as the beats shown before it left them. Draft no edit: write this beat\'s changes to a file, one json change to a line naming beat 4, and leave out `--changes-file` where the beat changes nothing. Where this beat cannot work, hand in no changes: write each issue to a file instead, one to a line naming beat 4, and hand it in at `--issues-file`, and the game master states the beat again.\n\nRead each instructions file named above with `akasha read --file-path <path>` before this beat, never from memory: it may have changed, and one unchanged costs a line.\n\nHand in this beat alone, once:\n\nakasha story turn advance --turn story-turn-played/outcome-cards-check-00-001 --beat 4 --recorder mechanics --changes-file <path>\n\nThe advance ends this beat, not this seat. Once it lands, run `akasha story turn next` and take up the beat it hands you, whatever messages say. End your turn only once it says no beat is ready for you: the next beat ready for you then comes as a message of its own.\n\nWhere the advance is refused and you cannot mend it yourself, send the game master the refusal word for word with `akasha seat send --to iris-game-master-outcome-cards-check --body "<what refused>"`, then end your turn.\n',
+  createdAt: "2026-10-28T01:33:22.939Z",
+  updatedAt: "2026-10-28T01:33:22.939Z",
+} as const satisfies AgentMessage
