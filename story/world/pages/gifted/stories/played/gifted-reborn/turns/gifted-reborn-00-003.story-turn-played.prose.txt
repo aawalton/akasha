@@ -49,4 +49,4 @@ name: Advanced Attributes
 note: Advanced Attributes (1/2): Talented 100
 :::
 
-The words stay in your mind after you have read them all. The stats on the last line are still unspent, and they are yours to place.
+The words stay in your mind after you have read them all.
