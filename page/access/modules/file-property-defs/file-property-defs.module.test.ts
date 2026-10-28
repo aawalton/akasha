@@ -108,6 +108,10 @@ test("a computed property holding a number is drawn as a number is", () => {
   expect(definitionOf({ ...WORKED, holds: "text" }).type).toBe("text")
 })
 
+test("a computed property holding a truth is drawn and narrowed as a truth is", () => {
+  expect(definitionOf({ ...WORKED, holds: "boolean" }).type).toBe("boolean")
+})
+
 test("a property its page type names to color titles is said to color them", () => {
   expect(definitionOf({ ...WORKED, colorsTitle: true }).colorsTitle).toBe(true)
 })

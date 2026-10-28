@@ -199,9 +199,12 @@ function drawnAs(one: Declared): readonly string[] {
 
 const NUMBER = "number"
 
+const BOOLEAN = "boolean"
+
 function typeOf(one: Declared): string {
   if (one.type === COMPUTED && one.targetSlug !== null) return renderedType(RELATION)
   if (one.type === COMPUTED && one.holds === NUMBER) return NUMBER
+  if (one.type === COMPUTED && one.holds === BOOLEAN) return BOOLEAN
   return renderedType(one.type)
 }
 

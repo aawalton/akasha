@@ -118,6 +118,10 @@ export const filePropertyDefs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A computed property holding a truth is drawn and narrowed as a truth is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A definition says it colors the titles only where its page type names it to.",
     },
     {
@@ -135,5 +139,5 @@ export const filePropertyDefs = {
     },
   ],
   createdAt: "2026-09-01T07:19:56.976Z",
-  updatedAt: "2026-10-25T20:54:29.077Z",
+  updatedAt: "2026-10-28T21:11:31.755Z",
 } as const satisfies Module
