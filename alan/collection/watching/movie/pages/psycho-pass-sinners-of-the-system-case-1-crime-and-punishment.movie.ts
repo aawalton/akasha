@@ -15,9 +15,11 @@ export const psychoPassSinnersOfTheSystemCase1CrimeAndPunishment = {
       source: "tmdb",
       externalId: "510242",
       externalLink: "https://www.themoviedb.org/movie/510242",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Psycho-Pass: Sinners of the System - Case.1 Crime and Punishment",
+  streamingOn: ["Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:51:51.398Z",
-  updatedAt: "2026-10-28T18:51:51.398Z",
+  updatedAt: "2026-10-28T19:47:54.443Z",
 } as const satisfies Movie
