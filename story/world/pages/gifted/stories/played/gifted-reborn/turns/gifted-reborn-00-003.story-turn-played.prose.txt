@@ -14,3 +14,7 @@ name: Defeat a Lesser Demon Prince while unborn
 name: Reward
 note: Path: Path of the Completionist; Unallocated Stats: 2
 :::
+
+:::title
+name: Consume another soul and absorb it into your own
+:::

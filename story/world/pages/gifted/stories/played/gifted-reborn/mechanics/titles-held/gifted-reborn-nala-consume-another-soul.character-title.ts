@@ -6,9 +6,9 @@ export const giftedRebornNalaConsumeAnotherSoul = {
   slug: "gifted-reborn-nala-consume-another-soul",
   title: "Consume another soul and absorb it into your own",
   world: "world/gifted",
-  unrevealed: true,
+  unrevealed: false,
   character: "character-player/gifted-reborn-nala",
   worldTitle: "world-title/gifted-consume-another-soul",
   createdAt: "2026-10-27T23:56:17.326Z",
-  updatedAt: "2026-10-27T23:56:17.326Z",
+  updatedAt: "2026-10-28T00:13:55.982Z",
 } as const satisfies CharacterTitle
