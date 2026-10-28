@@ -2584,6 +2584,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","id":"01a0e7d8-5f60-71ff-af7a-8f3d30913009"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/correct/modules/beat-correcting/beat-correcting.module.ts","id":"01a1831e-d939-78ae-9c4e-e809292b44ac"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/correct/modules/beat-remembering/beat-remembering.module.ts","id":"01a1832c-ec75-73be-a4f9-4bfe07e6b7a6"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/correct/modules/beat-retelling/beat-retelling.module.ts","id":"01a18331-60a5-707f-8d56-c724b1541b42"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/correct/modules/correct-handing/correct-handing.module.ts","id":"01a1831e-d939-77e6-8e0c-52e1e83e50f6"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/correct/modules/correct-outcomes/correct-outcomes.module.ts","id":"01a1832c-ec75-723f-aa4b-572499a1d90a"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/correct/story-turn-correct.command.ts","id":"01a1831e-d939-7a0b-a8e4-2a0cd51219f5"}

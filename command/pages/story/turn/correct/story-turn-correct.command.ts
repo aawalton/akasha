@@ -12,6 +12,7 @@ export const storyTurnCorrect = {
     "module/correct-handing",
     "module/beat-remembering",
     "module/correct-outcomes",
+    "module/beat-retelling",
   ],
   decisions: [
     {
@@ -21,7 +22,17 @@ export const storyTurnCorrect = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A correction hands in the beat's changes, prose or memory, or the turn's outcomes.",
+        "A correction restates a beat of a played chapter as well, every beat of it shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter's outcome lines are its turns', and a correction refuses to replace them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A correction hands in the beat's changes, prose, memory or event, or the turn's outcomes.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -94,7 +105,8 @@ export const storyTurnCorrect = {
     { argument: "argument/prose-file" },
     { argument: "argument/memory-file" },
     { argument: "argument/outcomes-file" },
+    { argument: "argument/beat-event" },
   ],
   createdAt: "2026-10-28T15:26:39.416Z",
-  updatedAt: "2026-10-28T15:42:01.844Z",
+  updatedAt: "2026-10-28T15:46:53.732Z",
 } as const satisfies Command

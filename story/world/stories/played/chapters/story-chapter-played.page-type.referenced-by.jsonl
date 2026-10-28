@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/montage/modules/montage-placing/montage-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/settle/modules/settle-timing/settle-timing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"command/pages/story/turn/correct/story-turn-correct.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-played.page-type.types.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/chapters/gifted-reborn-0001-turning-the-tables.story-chapter-played.ts","typed":true,"deferred":false}

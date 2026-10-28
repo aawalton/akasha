@@ -1,5 +1,6 @@
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { beat as beatArgument } from "akasha/command/argument/pages/beat.argument.ts"
+import { beatEvent } from "akasha/command/argument/pages/beat-event.argument.ts"
 import { changesFile } from "akasha/command/argument/pages/changes-file.argument.ts"
 import { memoryFile } from "akasha/command/argument/pages/memory-file.argument.ts"
 import { outcomesFile } from "akasha/command/argument/pages/outcomes-file.argument.ts"
@@ -22,7 +23,17 @@ import {
 } from "akasha/story/engine/beat-state/modules/beat-prose/beat-prose.module.code.ts"
 import { linesIn } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
-const NAMED = [playedTurn, beatArgument, changesFile, proseFile, memoryFile, outcomesFile] as const
+const NAMED = [
+  playedTurn,
+  beatArgument,
+  changesFile,
+  proseFile,
+  memoryFile,
+  outcomesFile,
+  beatEvent,
+] as const
+
+const LONGEST_EVENT = 100
 
 type Refusal = { readonly refused: readonly string[] }
 
@@ -33,6 +44,7 @@ export type Asked = {
   readonly prose: BeatProse | string | null
   readonly memory: readonly Memory[] | null
   readonly outcomes: string | null
+  readonly event: string | null
 }
 
 function changesAt(root: string, path: string | undefined) {
@@ -80,12 +92,15 @@ type Said = {
   readonly proseFile?: string | undefined
   readonly memoryFile?: string | undefined
   readonly outcomesFile?: string | undefined
+  readonly beatEvent?: string | undefined
 }
 
 function nothingRefused(said: Said): Refusal | null {
   const files = [said.changesFile, said.proseFile, said.memoryFile, said.outcomesFile]
-  if (files.some((one) => one !== undefined)) return null
-  const flags = [changesFile, proseFile, memoryFile, outcomesFile].map((one) => `\`${one.said}\``)
+  if ([...files, said.beatEvent].some((one) => one !== undefined)) return null
+  const flags = [changesFile, proseFile, memoryFile, outcomesFile, beatEvent].map(
+    (one) => `\`${one.said}\``
+  )
   return {
     refused: [`a correction hands in the beat's changes at ${flags.join(", ")}, or several`],
   }
@@ -109,6 +124,12 @@ export function taken(argv: readonly string[], calledAs: string, root: string): 
   if ("refused" in remembering) return remembering
   const settling = outcomesAt(root, held.outcomesFile)
   if ("refused" in settling) return settling
+  const event = held.beatEvent?.trim() ?? null
+  if (event !== null && (event === "" || event.length > LONGEST_EVENT)) {
+    return {
+      refused: [`\`${beatEvent.said}\` states an event of 1 to ${LONGEST_EVENT} characters`],
+    }
+  }
   return {
     turn,
     beat,
@@ -116,5 +137,6 @@ export function taken(argv: readonly string[], calledAs: string, root: string): 
     prose: telling.prose,
     memory: remembering.memory,
     outcomes: settling.outcomes,
+    event,
   }
 }

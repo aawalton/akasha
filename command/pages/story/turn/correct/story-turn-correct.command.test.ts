@@ -103,6 +103,12 @@ type Story = {
   readonly seat?: Seated | null
   readonly outcomes?: string
   readonly status?: string
+  readonly chapter?: boolean
+}
+
+function chapterOf(): Turn {
+  const value = { story: "story-played/the-saga", position: 1, beats: "jsonl", prose: "txt" }
+  return { at: AT, slug: SLUG, value }
 }
 
 function correctingOver(into: Seen, story: Story = {}): Correcting {
@@ -116,7 +122,8 @@ function correctingOver(into: Seen, story: Story = {}): Correcting {
   const values: Readonly<Record<string, number>> = { experience: 40 }
   return {
     ...reachOver(turn, into),
-    turnAt: (_root, slug) => (slug === SLUG ? turn : null),
+    turnAt: (_root, slug) => (slug === SLUG && story.chapter !== true ? turn : null),
+    chapterOf: (_root, slug) => (slug === SLUG && story.chapter === true ? chapterOf() : null),
     seatOf: () => story.seat ?? null,
     textIn: (_root, path) => texts[path] ?? "",
     pagedOf: () => [paged],
@@ -268,6 +275,32 @@ test("outcome lines handed in replace the turn's, and the beat's marks are met a
   const answer = await correctedBy([...argv, "--outcomes-file", outcomes], reach, into)
   expect(answer.refusals).toEqual([])
   expect(into.asked).toContainEqual(putting({ path: OUTCOMES_AT, content: addedLine(5) }))
+})
+
+test("a played chapter's beat is corrected, its event and prose following, its outcomes left", async () => {
+  const into = seen()
+  const reach = correctingOver(into, { chapter: true })
+  const prose = fileOf("chapter.txt", "You drill until the light goes.\n")
+  const argv = ["--beat", "1", "--prose-file", prose, "--beat-event", "Mara drills till dusk."]
+  const answer = await correctedBy(argv, reach, into)
+  expect(answer.refusals).toEqual([])
+  const told = "You drill until the light goes.\n\nYou sleep by the hearth.\n"
+  expect(into.asked).toContainEqual(putting({ path: PROSE_AT, content: told }))
+  const written = into.asked.find((one) => JSON.stringify(one).includes(BEATS_AT))
+  const beats = beatsIn((written?.given as { body: string } | undefined)?.body ?? "")
+  if ("refused" in beats) throw new Error(beats.refused)
+  expect(beats.beats[0]).toBe("Mara drills till dusk.")
+  const outcomes = fileOf("chapter-outcomes.jsonl", "")
+  const refusedAnswer = await correctedBy([...argv, "--outcomes-file", outcomes], reach, into)
+  expect(refusedAnswer.refusals.join(" ")).toContain("a chapter's outcome lines")
+})
+
+test("a chapter's beat prose changing its paragraphs is refused", async () => {
+  const into = seen()
+  const prose = fileOf("split.txt", "You drill.\n\nThen you drill more.\n")
+  const reach = correctingOver(into, { chapter: true })
+  const answer = await correctedBy(["--beat", "1", "--prose-file", prose], reach, into)
+  expect(answer.refusals.join(" ")).toContain("keeps its paragraphs")
 })
 
 test("a correction naming neither changes nor prose is refused", async () => {
