@@ -3,6 +3,10 @@ import { getCompiledConfig } from "akasha/temper/addon/pages/items/modules/inven
 import { findMatchedRule } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
+  noteServerAction,
+  serverActionWaitMs,
+} from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
+import {
   chainHouses,
   houseLocationKeyFor,
   houseRoomFor,
@@ -112,7 +116,13 @@ function step(run: Run): undefined {
     return
   }
   if (room < 1) return finish(run, "the house is full")
+  const wait = serverActionWaitMs()
+  if (wait > 0) {
+    zo_callLater(() => step(run), wait)
+    return
+  }
   const [x, y, z] = GetPlayerWorldPositionInHouse()
+  noteServerAction()
   const result = HousingEditorRequestItemPlacement(next.bagId, next.slotIndex, x, y, z, 0, 0, 0)
   if (result !== HOUSING_REQUEST_RESULT_SUCCESS)
     return finish(run, `the game refused, result ${result}`)

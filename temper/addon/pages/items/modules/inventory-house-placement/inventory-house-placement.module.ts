@@ -37,6 +37,14 @@ export const inventoryHousePlacement = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each placement request is counted in the shared server action window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A placement waits where that window is full, past the pace.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A refused request stops the run and says why, and what is left waits for the next visit.",
     },
@@ -50,5 +58,5 @@ export const inventoryHousePlacement = {
     },
   ],
   createdAt: "2026-10-28T20:23:03.295Z",
-  updatedAt: "2026-10-28T20:23:03.295Z",
+  updatedAt: "2026-10-28T21:05:15.427Z",
 } as const satisfies Module
