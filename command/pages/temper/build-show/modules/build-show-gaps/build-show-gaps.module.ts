@@ -33,7 +33,11 @@ export const buildShowGaps = {
       decisionKind: "decision-kind/departure",
       statement: "Star points are a gap only where both builds came with a reading's stars.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A design holding a mastery beside another class's skill line is refused.",
+    },
   ],
   createdAt: "2026-10-20T15:54:35.482Z",
-  updatedAt: "2026-10-20T15:54:35.482Z",
+  updatedAt: "2026-10-28T20:19:33.857Z",
 } as const satisfies Module

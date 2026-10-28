@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   closed,
   closingsOf,
+  linesBesideMastery,
 } from "akasha/command/pages/temper/build-show/modules/build-show-gaps/build-show-gaps.module.code.ts"
 import {
   CHARACTER_HASH as CHARACTER,
@@ -61,4 +62,16 @@ test("star points fall short only where both builds carry a reading's stars", ()
   const [points] = closingsOf(build, build, want, have)
   expect(points?.want).toBe("50")
   expect(points?.have).toBe("10")
+})
+
+test("a mastery beside a skill line of another class names that line", () => {
+  const build = structuredClone(decoded(DESIGN))
+  build.character.class = "nightblade"
+  build.masteries = ["nocturnal-inspiration"]
+  build.character.skillLineIds = ["nightblade-assassination", "nightblade-shadow", "no-skill-line"]
+  expect(linesBesideMastery(build)).toEqual([])
+  build.character.skillLineIds = ["nightblade-assassination", "arcanist-herald-of-the-tome"]
+  expect(linesBesideMastery(build)).toEqual(["arcanist-herald-of-the-tome"])
+  build.masteries = []
+  expect(linesBesideMastery(build)).toEqual([])
 })

@@ -2,6 +2,7 @@ import type { StarPoints } from "akasha/command/pages/temper/build-show/modules/
 import { championPoints } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import { equipmentQualities } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import { getSkillLineIdsForClass } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { vampireStages } from "akasha/temper/player/character/source/modules/vampire-stages/vampire-stages.module.code.ts"
 
 type Build = CharacterState
@@ -31,6 +32,12 @@ function lacking(
   close: Closing["close"]
 ): Closing {
   return { place, want, have: none(have) ? "none" : have, close }
+}
+
+export function linesBesideMastery(build: Build): readonly string[] {
+  if ((build.masteries ?? []).length === 0) return []
+  const own = getSkillLineIdsForClass(build.character.class)
+  return build.character.skillLineIds.filter((line) => !none(line) && !own.includes(line))
 }
 
 export function closed(build: Build, closing: Closing): Build {

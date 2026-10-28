@@ -25,6 +25,7 @@ import {
   gapsOf,
   targetStatOf,
 } from "akasha/command/pages/temper/build-show/modules/build-show-gap-stats/build-show-gap-stats.module.code.ts"
+import { linesBesideMastery } from "akasha/command/pages/temper/build-show/modules/build-show-gaps/build-show-gaps.module.code.ts"
 import {
   AS_HASH,
   type Named,
@@ -109,6 +110,13 @@ function gapsAnswer(root: string, design: Shown, said: string, asJsonToo: boolea
   if (wanted === null || held === null) {
     const which = wanted === null ? design.named.said : said
     return refused(`\`${which}\` is a companion's build, and only a character's has gaps`, INPUT)
+  }
+  const beside = linesBesideMastery(wanted)
+  if (beside.length > 0) {
+    return refused(
+      `\`${design.named.said}\` holds a mastery beside a skill line of another class: ${beside.join(", ")}`,
+      INPUT
+    )
   }
   const target = targetOf(root, design.named)
   const found = gapsOf(wanted, held, target, design.named.stars, character.named.stars)
