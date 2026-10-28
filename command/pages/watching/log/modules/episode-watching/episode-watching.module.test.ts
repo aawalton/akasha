@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
+import { episode } from "akasha/alan/collection/watching/episode/episode.page-type.ts"
 import {
   type HeldShow,
   plannedFor,
   shelvedFor,
+  titledWithin,
 } from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
 import {
   type AiredEpisode,
@@ -11,6 +13,7 @@ import {
   episodeTypeOf,
   seasonNumbersIn,
 } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
+import { title } from "akasha/page/properties/title.text-property.ts"
 
 const SHOWN: HeldShow = {
   slug: "my-dress-up-darling",
@@ -185,6 +188,20 @@ test("a show shelved is given every season and episode, none of them watched", (
   ])
   expect(shelved.pages.every((one) => one.values.status === "not-started")).toBe(true)
   expect(shelved.pages.every((one) => one.values.ownProgress === 0)).toBe(true)
+})
+
+test("a name longer than an episode's title holds is clipped to fit, and a shorter name is kept whole", () => {
+  const long = "Radio Exercises are Socials for Boys and Girls ".repeat(40)
+  const clipped = titledWithin(long, episode)
+  expect(clipped.length).toBeLessThan(long.length)
+  expect(long.startsWith(clipped.slice(0, -1))).toBe(true)
+  expect(clipped.endsWith("…")).toBe(true)
+  expect(titledWithin("Episode 1", episode)).toBe("Episode 1")
+})
+
+test("a page type stating no length of its own holds a title to the title's length", () => {
+  const clipped = titledWithin("x".repeat(title.maxLength + 1), { properties: [] })
+  expect(clipped.length).toBe(title.maxLength)
 })
 
 test("a show shelved again writes only what the catalogue lacks", () => {

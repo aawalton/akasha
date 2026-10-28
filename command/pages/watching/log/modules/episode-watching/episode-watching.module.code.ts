@@ -10,6 +10,7 @@ import type {
   AiredSeason,
   Calls,
 } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
+import { title as titleProperty } from "akasha/page/properties/title.text-property.ts"
 import type {
   Row,
   Asked as Rows,
@@ -66,6 +67,10 @@ const DESCRIPTION_CEILING = 1000
 const SEASON_NAMED = /^Season \d+$/
 
 const MINUTES = `${unit.slug}/${minutes.slug}`
+
+const TITLE_PROPERTY = `text-property/${titleProperty.slug}`
+
+const CLIPPED = "…"
 
 const textOf = textIn
 
@@ -137,6 +142,21 @@ function described(overview: string): Readonly<Record<string, unknown>> {
   return overview === "" ? {} : { description: overview.slice(0, DESCRIPTION_CEILING) }
 }
 
+type Titling = {
+  readonly properties: readonly { readonly pageProperty: string; readonly maxLength?: number }[]
+}
+
+function titleCeilingOf(titling: Titling): number {
+  const declared = titling.properties.find((one) => one.pageProperty === TITLE_PROPERTY)
+  return declared?.maxLength ?? titleProperty.maxLength
+}
+
+export function titledWithin(name: string, titling: Titling): string {
+  const ceiling = titleCeilingOf(titling)
+  if (name.length <= ceiling) return name
+  return `${name.slice(0, ceiling - CLIPPED.length).trimEnd()}${CLIPPED}`
+}
+
 function stated(key: string, value: unknown): Readonly<Record<string, unknown>> {
   return value === null ? {} : { [key]: value }
 }
@@ -148,7 +168,7 @@ function freshSeason(
 ): Readonly<Record<string, unknown>> {
   const title = SEASON_NAMED.test(aired.name) ? `${shown.title} ${aired.name}` : aired.name
   return {
-    title,
+    title: titledWithin(title, season),
     ...described(aired.overview),
     partOfCollections: [`${show.slug}/${shown.slug}`],
     position: aired.number,
@@ -176,7 +196,7 @@ function freshEpisode(
   aired: AiredEpisode
 ): Readonly<Record<string, unknown>> {
   return {
-    title: aired.name,
+    title: titledWithin(aired.name, episode),
     ...described(aired.overview),
     partOfCollections: [`${season.slug}/${seasonSlug}`],
     position: aired.number,
