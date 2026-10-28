@@ -76,11 +76,28 @@ export function initializeInventoryActionPanel(): undefined {
   )
 }
 
+const watchedTargets = new Set<string>()
+
+function watchTarget(name: string, target: Control): undefined {
+  if (watchedTargets.has(name)) return
+  watchedTargets.add(name)
+  for (const event of ["OnShow", "OnHide"]) {
+    target.SetHandler(
+      event,
+      function (this: void): undefined {
+        if (panel !== undefined && !panel.tlw.IsHidden()) reanchor()
+      },
+      PANEL_NAME
+    )
+  }
+}
+
 function besideTarget(): Control | undefined {
   let last: Control | undefined
   for (const name of ANCHOR_TARGET_NAMES) {
     const target = WINDOW_MANAGER.GetControlByName(name)
     if (target === undefined) continue
+    watchTarget(name, target)
     if (!target.IsHidden()) return target
     last = target
   }
