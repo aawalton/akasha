@@ -266,6 +266,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/open.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/out-dir.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/out.argument.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/outcomes-file.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/outdated.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/output.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/package-name.argument.ts","typed":true,"deferred":false}

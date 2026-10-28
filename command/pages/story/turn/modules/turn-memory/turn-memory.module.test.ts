@@ -8,7 +8,7 @@ import type { Reading } from "akasha/command/pages/story/tell/story-tell.command
 import {
   memorySettled,
   memoryTold,
-} from "akasha/command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts"
+} from "akasha/command/pages/story/turn/modules/turn-memory/turn-memory.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 import type { Held } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"

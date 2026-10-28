@@ -27,6 +27,7 @@ export const storyTurn = {
     "module/turn-unplaying",
     "module/cancel-unbeating",
     "module/turn-outcome-marks",
+    "module/turn-memory",
     "module/turn-commits",
     "module/turn-holding",
     "module/turn-job-handing",
@@ -36,5 +37,5 @@ export const storyTurn = {
   ],
   name: "turn",
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-28T15:26:39.416Z",
+  updatedAt: "2026-10-28T15:42:01.844Z",
 } as const satisfies Namespace

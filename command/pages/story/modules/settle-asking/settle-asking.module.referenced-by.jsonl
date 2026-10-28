@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"command/pages/story/settle/story-settle.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-crossed/turn-crossed.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"command/pages/story/turn/correct/modules/correct-outcomes/correct-outcomes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"command/pages/story/turn/modules/turn-outcome-marks/turn-outcome-marks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settle-asking.module.code.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":false,"deferred":false}

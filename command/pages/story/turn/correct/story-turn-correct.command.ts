@@ -7,7 +7,12 @@ export const storyTurnCorrect = {
   definition: "the command restating a shown beat's changes and prose in place",
   code: "ts",
   test: "ts",
-  parts: ["module/beat-correcting", "module/correct-handing"],
+  parts: [
+    "module/beat-correcting",
+    "module/correct-handing",
+    "module/beat-remembering",
+    "module/correct-outcomes",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -15,7 +20,31 @@ export const storyTurnCorrect = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A correction hands in the beat's changes, its prose, or both.",
+      statement:
+        "A correction hands in the beat's changes, prose or memory, or the turn's outcomes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A correction takes back the lore its beat's old memory told, and tells its new memory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fact or knower the lore held before the turn, or another beat taught, stays.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Outcome lines handed in replace the turn's own, as many lines as it had.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An outcome line is replaced only where it states what it `added`, since no other is a beat's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A correction checks only the outcome lines its beat's changes mark, so beats go one by one.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,11 +56,7 @@ export const storyTurnCorrect = {
       statement:
         "A correction takes back what the beat changed before it writes what the beat changes now.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A correction checks the turn's outcome marks as the numbers recorder's last handing does.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A beat corrected to change nothing is marked as stating no changes.",
@@ -67,7 +92,9 @@ export const storyTurnCorrect = {
     { argument: "argument/beat", required: true },
     { argument: "argument/changes-file" },
     { argument: "argument/prose-file" },
+    { argument: "argument/memory-file" },
+    { argument: "argument/outcomes-file" },
   ],
   createdAt: "2026-10-28T15:26:39.416Z",
-  updatedAt: "2026-10-28T15:31:07.945Z",
+  updatedAt: "2026-10-28T15:42:01.844Z",
 } as const satisfies Command

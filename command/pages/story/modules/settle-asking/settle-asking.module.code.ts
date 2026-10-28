@@ -132,7 +132,7 @@ function replacingKey(was: unknown): string | null {
   return JSON.stringify([was[CHECK], read[CHARACTER] ?? null, session])
 }
 
-function outcomeLines(kept: string): readonly string[] {
+export function outcomeLines(kept: string): readonly string[] {
   return kept.split(BREAK).filter((one) => one.trim() !== "")
 }
 

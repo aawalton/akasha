@@ -90,12 +90,13 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/settle/story-settle.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/turn/correct/modules/beat-remembering/beat-remembering.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/turn/correct/story-turn-correct.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/turn/modules/turn-memory/turn-memory.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/turn/picture/story-turn-picture.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/turn/record/story-turn-record.command.code.ts","typed":false,"deferred":false}

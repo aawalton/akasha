@@ -1,6 +1,13 @@
 import { jsonEqual } from "akasha/code/type/narrowing/modules/json-equal/json-equal.module.code.ts"
+import {
+  inOrder,
+  type Paged,
+} from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
 import type { Unbeating } from "akasha/command/pages/story/turn/modules/cancel-unbeating/cancel-unbeating.module.code.ts"
-import { mergedNamings } from "akasha/command/pages/story/turn/modules/turn-unplaying/turn-unplaying.module.code.ts"
+import {
+  mergedNamings,
+  shownOf,
+} from "akasha/command/pages/story/turn/modules/turn-unplaying/turn-unplaying.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import {
   type BeatChange,
@@ -9,9 +16,18 @@ import {
   recordIn,
   said,
 } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
-import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import {
+  type Beats,
+  NO_BEATS,
+} from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import {
+  stepIn,
+  WORLD_BUILDER,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const PARTED = "/"
+
+const STATUS = "stepStatus"
 
 const BREAK = "\n"
 
@@ -33,6 +49,29 @@ export type Corrected = {
 }
 
 type Entry = { readonly at: number; readonly beat: number; readonly change: BeatChange }
+
+function placedOf(one: Paged): Placed | Refused {
+  const beats = one.beats
+  if (beats === undefined) return { slug: one.slug, beats: NO_BEATS, shown: 0 }
+  if ("refused" in beats) return beats
+  if (one.closed === true) return { slug: one.slug, beats, shown: beats.beats.length }
+  const status = stepIn(one.value[STATUS]) ?? WORLD_BUILDER
+  return { slug: one.slug, beats, shown: shownOf(status, beats) }
+}
+
+export function placedIn(
+  story: readonly Paged[],
+  own: Placed
+): { readonly placed: readonly Placed[]; readonly at: number } | Refused {
+  const placed: Placed[] = []
+  for (const one of inOrder(story)) {
+    const entry = one.slug === own.slug ? own : placedOf(one)
+    if ("refused" in entry) return entry
+    placed.push(entry)
+  }
+  const at = placed.findIndex((one) => one.slug === own.slug)
+  return at < 0 ? { refused: `\`${own.slug}\` is no turn of its story` } : { placed, at }
+}
 
 function setting(one: BeatChange): boolean {
   return one.make === undefined && one.key !== undefined && "to" in one

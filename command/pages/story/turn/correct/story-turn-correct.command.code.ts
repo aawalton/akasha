@@ -6,6 +6,7 @@ import { storyRecorder } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { worldBuilder } from "akasha/agent/role/pages/world-builder.role.ts"
 import { writer } from "akasha/agent/role/pages/writer.role.ts"
 import {
+  type Asking,
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -25,36 +26,40 @@ import {
 } from "akasha/command/pages/story/modules/turn-changes/turn-changes.module.code.ts"
 import {
   beatsHeld,
-  inOrder,
   type Paged,
   storyIndexed,
 } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
-import { outcomesAt } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import {
+  rootReading,
+  type Reading as Telling,
+} from "akasha/command/pages/story/tell/story-tell.command.code.ts"
 import {
   correctedOn,
-  type Placed,
+  placedIn,
 } from "akasha/command/pages/story/turn/correct/modules/beat-correcting/beat-correcting.module.code.ts"
+import { rememberedOn } from "akasha/command/pages/story/turn/correct/modules/beat-remembering/beat-remembering.module.code.ts"
 import {
   type Asked,
   taken,
 } from "akasha/command/pages/story/turn/correct/modules/correct-handing/correct-handing.module.code.ts"
+import { outcomesOn } from "akasha/command/pages/story/turn/correct/modules/correct-outcomes/correct-outcomes.module.code.ts"
 import {
   type Unbeating,
   unbeatingIn,
 } from "akasha/command/pages/story/turn/modules/cancel-unbeating/cancel-unbeating.module.code.ts"
 import { heldOf } from "akasha/command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts"
 import {
-  marksRefused,
-  owedIn,
-  unmarkedIn,
-} from "akasha/command/pages/story/turn/modules/turn-outcome-marks/turn-outcome-marks.module.code.ts"
-import {
   REACHED,
   type Reach,
   type Seated,
   type Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
-import { shownOf } from "akasha/command/pages/story/turn/modules/turn-unplaying/turn-unplaying.module.code.ts"
+import {
+  memoryOf,
+  shownOf,
+  type Unplaying,
+  unplayingIndexed,
+} from "akasha/command/pages/story/turn/modules/turn-unplaying/turn-unplaying.module.code.ts"
 import { foldedOf } from "akasha/command/pages/story/turn/rewind/story-turn-rewind.command.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -68,6 +73,7 @@ import {
   type BeatChange,
   mergedOf,
 } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
+import type { Memory } from "akasha/story/engine/beat-state/modules/beat-memory/beat-memory.module.code.ts"
 import {
   type BeatProse,
   proseWritten,
@@ -75,15 +81,12 @@ import {
 import {
   type Beats,
   beatsWritten,
-  NO_BEATS,
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 import {
   BEATS,
   bareOf,
   PLAYER,
-  stepIn,
-  WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
@@ -103,8 +106,6 @@ const BEATS_KEY = "beats"
 
 const BEATS_HELD = "jsonl"
 
-const STATUS = "stepStatus"
-
 const OWN_LENGTH = "ownLength"
 
 type Refused = { readonly refused: string }
@@ -114,6 +115,8 @@ export type Correcting = Reach & {
   readonly changing: Changing
   readonly beatingOf: (root: string) => Unbeating
   readonly present: (root: string, path: string) => boolean
+  readonly tellingOf: (root: string) => Telling
+  readonly unplayingOf: (root: string, turnAt: string) => Unplaying
 }
 
 const CORRECTS: Correcting = {
@@ -127,6 +130,8 @@ const CORRECTS: Correcting = {
       (within, path) => REACHED.textIn(within, path)
     ),
   present: (root, path) => existsSync(join(root, path)),
+  tellingOf: rootReading,
+  unplayingOf: unplayingIndexed,
 }
 
 function callerRefused(seat: Seated | null, game: string): string | null {
@@ -134,48 +139,6 @@ function callerRefused(seat: Seated | null, game: string): string | null {
   if (seat.role === gameMaster.slug && seat.game === game) return null
   if (!STORY_ROLES.includes(seat.role)) return null
   return `a beat of \`${game}\` is corrected by its ${gameMaster.slug}, or by a caller in no story seat, and this comes from the ${seat.role} seat \`${seat.name}\``
-}
-
-function placedOf(one: Paged): Placed | Refused {
-  const beats = one.beats
-  if (beats === undefined) return { slug: one.slug, beats: NO_BEATS, shown: 0 }
-  if ("refused" in beats) return beats
-  if (one.closed === true) return { slug: one.slug, beats, shown: beats.beats.length }
-  const status = stepIn(one.value[STATUS]) ?? WORLD_BUILDER
-  return { slug: one.slug, beats, shown: shownOf(status, beats) }
-}
-
-type Own = { readonly slug: string; readonly beats: Beats; readonly shown: number }
-
-function storyFor(reach: Correcting, root: string, game: string, own: Own) {
-  const placed: Placed[] = []
-  for (const one of inOrder(reach.pagedOf(root, game))) {
-    const said = one.slug === own.slug ? own : placedOf(one)
-    if ("refused" in said) return said
-    placed.push(said)
-  }
-  const at = placed.findIndex((one) => one.slug === own.slug)
-  return at < 0 ? { refused: `\`${own.slug}\` is no turn of \`${game}\`` } : { placed, at }
-}
-
-function marksOn(
-  reach: Correcting,
-  root: string,
-  turn: Turn,
-  beats: Beats,
-  now: readonly BeatChange[],
-  beat: number
-): string | null {
-  const at = outcomesAt(turn.at)
-  if (at === null || !reach.present(root, at)) return null
-  const owed = owedIn(reach.textIn(root, at))
-  const unmarked = unmarkedIn(owed, now)
-  if (unmarked !== null) return unmarked
-  const all = mergedOf(
-    beats.changes.filter((one) => one.beat !== beat),
-    now
-  )
-  return marksRefused(owed, all)
 }
 
 type Told = {
@@ -248,16 +211,33 @@ function shownRefused(
   return found
 }
 
-function beatsAfter(beats: Beats, beat: number, now: readonly BeatChange[], retold: Told): Beats {
+type Restated = {
+  readonly changes: readonly BeatChange[]
+  readonly memory: readonly Memory[]
+  readonly told: Told
+}
+
+function beatsAfter(beats: Beats, beat: number, now: Restated): Beats {
+  const others = (one: { readonly beat: number }) => one.beat !== beat
   const kept = (one: { readonly beat: number; readonly part: string }) =>
-    !(one.beat === beat && one.part === "changes")
-  const stated = now.length === 0 ? [{ beat, part: "changes" as const }] : []
-  const none = [...(beats.none ?? []).filter(kept), ...stated]
-  const changes = mergedOf(
-    beats.changes.filter((one) => one.beat !== beat),
-    now
+    one.beat !== beat || (one.part !== "changes" && one.part !== "memory")
+  const empty = [
+    ...(now.changes.length === 0 ? [{ beat, part: "changes" as const }] : []),
+    ...(now.memory.length === 0 ? [{ beat, part: "memory" as const }] : []),
+  ]
+  const none = [...(beats.none ?? []).filter(kept), ...empty]
+  const changes = mergedOf(beats.changes.filter(others), now.changes)
+  const memory = [...beats.memory.filter(others), ...now.memory].toSorted(
+    (one, other) => one.beat - other.beat
   )
-  return { ...beats, changes, none, ...(retold.prose === undefined ? {} : { prose: retold.prose }) }
+  const prose = now.told.prose === undefined ? {} : { prose: now.told.prose }
+  return { ...beats, changes, memory, none, ...prose }
+}
+
+function written(texts: ReadonlyMap<string, string | null>): readonly Asking[] {
+  return [...texts].map(([at, text]) =>
+    text === null ? taking(at) : putting({ path: at, content: text })
+  )
 }
 
 async function heldOn(
@@ -268,20 +248,44 @@ async function heldOn(
   landing: Landing,
   reach: Correcting
 ): Promise<Answer> {
+  const { root } = given
   const beat = asked.beat
-  const found = shownRefused(reach, given.root, slug, beat, reach.seatOf(given.root, given.agentId))
+  const found = shownRefused(reach, root, slug, beat, reach.seatOf(root, given.agentId))
   if ("refused" in found) return refused(found.refused, DATA)
   const { turn, beats, shown } = found
   const now = asked.changes ?? beats.changes.filter((one) => one.beat === beat)
-  const story = storyFor(reach, given.root, found.game, { slug, beats, shown })
+  const old = beats.memory.filter((one) => one.beat === beat)
+  const memory = asked.memory ?? old
+  const stray = [...now, ...memory].find((one) => one.beat !== beat)
+  if (stray !== undefined) return refused(`a line names beat ${stray.beat}, not ${beat}`, DATA)
+  const paged = reach.pagedOf(root, found.game)
+  const story = placedIn(paged, { slug, beats, shown })
   if ("refused" in story) return refused(story.refused, DATA)
   const correction = { story: story.placed, at: story.at, beat, changes: now }
-  const corrected = correctedOn(correction, reach.changing(given.root), reach.beatingOf(given.root))
+  const corrected = correctedOn(correction, reach.changing(root), reach.beatingOf(root))
   if ("refused" in corrected) return refused(corrected.refused, DATA)
-  const unmarked = marksOn(reach, given.root, turn, beats, now, beat)
-  if (unmarked !== null) return refused(unmarked, DATA)
-  const retold = proseTold(reach, given.root, turn, beats, asked)
+  const settling = {
+    present: (at: string) => reach.present(root, at),
+    textOf: (at: string) => reach.textIn(root, at),
+  }
+  const settled = outcomesOn(settling, turn.at, asked.outcomes, beats, beat, now)
+  if ("refused" in settled) return refused(settled.refused, DATA)
+  const retold = proseTold(reach, root, turn, beats, asked)
   if ("refused" in retold) return refused(retold.refused, DATA)
+  const others = [
+    ...memoryOf(paged.filter((one) => one.slug !== slug)),
+    ...beats.memory.filter((one) => one.beat !== beat),
+  ]
+  const remembering = {
+    unplaying: reach.unplayingOf(root, turn.at),
+    telling: reach.tellingOf(root),
+    fold: (naming: Naming) => reach.fold(root, naming),
+  }
+  const remembered =
+    asked.memory === null
+      ? { texts: new Map<string, string | null>(), report: [] }
+      : rememberedOn(remembering, old, memory, others)
+  if ("refused" in remembered) return refused(remembered.refused, DATA)
   const beatsAt =
     besideAt(turn.at, BEATS_KEY, textAt(turn.value, BEATS_KEY) ?? BEATS_HELD) ?? turn.at
   const counted = retold.text === null ? {} : { [OWN_LENGTH]: wordCount(retold.text) }
@@ -292,22 +296,33 @@ async function heldOn(
     values: counted,
     merge: true,
   }
-  const lengths = retold.text === null ? [] : [length]
-  const folded = foldedOf(reach, given.root, [...corrected.namings, ...lengths])
+  const folded = foldedOf(reach, root, [
+    ...corrected.namings,
+    ...(retold.text === null ? [] : [length]),
+  ])
   if ("refused" in folded) return refused(folded.refused, DATA)
-  const rewritten = corrected.files.flatMap((one) => [
-    taking(one.at),
-    putting({ path: one.at, content: one.content }),
+  const files = new Map<string, string | null>(corrected.files.map((one) => [one.at, one.content]))
+  if (settled.at !== null && settled.text !== null) files.set(settled.at, settled.text)
+  const rewritten = [...files].flatMap(([at, text]) => [
+    taking(at),
+    putting({ path: at, content: text ?? "" }),
   ])
   const prose = retold.text === null ? [] : [putting({ path: retold.at, content: retold.text })]
-  const body = beatsWritten(beatsAfter(beats, beat, now, retold))
-  const asking = [...folded, putting({ path: beatsAt, content: body }), ...prose, ...rewritten]
+  const body = beatsWritten(beatsAfter(beats, beat, { changes: now, memory, told: retold }))
+  const asking = [
+    ...folded,
+    putting({ path: beatsAt, content: body }),
+    ...prose,
+    ...rewritten,
+    ...written(remembered.texts),
+  ]
   const by = { agentId: given.agentId, writer: given.writer, done }
-  const landed = await landing(given.root, asking, `${slug} beat ${beat} is corrected`, by)
+  const landed = await landing(root, asking, `${slug} beat ${beat} is corrected`, by)
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   const said = retold.text === null ? [] : [`rewritten\t${retold.at}`]
+  const outcomes = settled.text === null || settled.at === null ? [] : [`rewritten\t${settled.at}`]
   const head = [`${slug}\tbeat ${beat}\tcorrected`, `rewritten\t${beatsAt}`]
-  return told([...head, ...said, ...corrected.report])
+  return told([...head, ...said, ...outcomes, ...corrected.report, ...remembered.report])
 }
 
 async function correctedBy(

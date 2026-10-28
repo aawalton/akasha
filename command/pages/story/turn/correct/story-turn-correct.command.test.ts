@@ -18,8 +18,10 @@ import type {
   Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { putting } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import { beatsIn } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const ROOT = mkdtempSync(join("/var/tmp", "story-turn-correct-test-"))
@@ -50,8 +52,32 @@ const SKILL_AT = "stories/the-saga/skills/mara-swordplay.character-skill.ts"
 
 const DRILLED = { page: SKILL, note: "drilled", key: "experience", from: 35, to: 40 }
 
+const KEY = `${lore.slug}/the-key`
+
+const KEY_AT = "stories/the-saga/lore/the-key.lore.ts"
+
+const HEARTH = "The key is under the hearth."
+
+const MARA = "character-player/mara"
+
+const ANA = "character-other/ana"
+
+const KEY_VALUE = {
+  type: `${pageType.slug}/${lore.slug}`,
+  slug: "the-key",
+  facts: [{ fact: HEARTH, knowers: [ANA, MARA] }],
+}
+
+const LEARNED = { page: KEY, fact: HEARTH, learns: MARA }
+
 const BEATS = [
-  { beat: 1, event: "Mara drills.", prose: "You drill until dark.", changes: [DRILLED] },
+  {
+    beat: 1,
+    event: "Mara drills.",
+    prose: "You drill until dark.",
+    changes: [DRILLED],
+    memory: [LEARNED],
+  },
   { beat: 2, event: "Mara sleeps.", prose: "You sleep by the hearth.", changes: [] },
 ]
 
@@ -104,6 +130,20 @@ function correctingOver(into: Seen, story: Story = {}): Correcting {
       beside: () => null,
     }),
     present: (_root, path) => path in texts,
+    tellingOf: () => ({
+      listedAt: (type, slug) => (`${type}/${slug}` === KEY ? [{ path: KEY_AT }] : []),
+      valueAt: (path) => (path === KEY_AT ? KEY_VALUE : null),
+      textOf: () => null,
+      shaped: (_at, text) => text,
+    }),
+    unplayingOf: () => ({
+      beating: { pageOf: () => null, beside: () => null },
+      storyOf: () => [],
+      pathOf: () => null,
+      valueOf: (path) => (path === KEY_AT ? KEY_VALUE : null),
+      listedAt: (type, slug) => (`${type}/${slug}` === KEY ? [{ path: KEY_AT }] : []),
+      valueBefore: () => null,
+    }),
   }
 }
 
@@ -193,6 +233,41 @@ test("a change an outcome adds to, left unmarked, is refused", async () => {
   )
   expect(answer.refusals.join(" ")).toContain("outcome line")
   expect(into.asked).toEqual([])
+})
+
+test("a memory the correction drops is taken back off its lore page", async () => {
+  const into = seen()
+  const answer = await correctedBy(
+    ["--beat", "1", "--memory-file", fileOf("forgot.jsonl", "")],
+    correctingOver(into),
+    into
+  )
+  expect(answer.refusals).toEqual([])
+  expect(into.folded).toContainEqual({
+    pageTypeSlug: lore.slug,
+    slug: "the-key",
+    path: KEY_AT,
+    values: { facts: [{ fact: HEARTH, knowers: [ANA] }] },
+    merge: true,
+  })
+})
+
+function addedLine(by: number): string {
+  const added = [{ page: SKILL, key: "experience", by }]
+  return `${JSON.stringify({ check: "world-check/the-saga-drill", added })}\n`
+}
+
+test("outcome lines handed in replace the turn's, and the beat's marks are met against them", async () => {
+  const into = seen()
+  const marked = `${JSON.stringify({ ...DRILLED, beat: 1, outcome: 1 })}\n`
+  const reach = correctingOver(into, { outcomes: addedLine(3) })
+  const argv = ["--beat", "1", "--changes-file", fileOf("marked.jsonl", marked)]
+  const unmet = await correctedBy(argv, reach, into)
+  expect(unmet.refusals.join(" ")).toContain("outcome line 1 adds 3")
+  const outcomes = fileOf("outcomes.jsonl", addedLine(5))
+  const answer = await correctedBy([...argv, "--outcomes-file", outcomes], reach, into)
+  expect(answer.refusals).toEqual([])
+  expect(into.asked).toContainEqual(putting({ path: OUTCOMES_AT, content: addedLine(5) }))
 })
 
 test("a correction naming neither changes nor prose is refused", async () => {

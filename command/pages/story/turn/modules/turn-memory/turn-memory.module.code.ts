@@ -34,12 +34,12 @@ const DOT = "."
 
 type Refused = { readonly refused: string }
 
-type Over = {
+export type Over = {
   readonly texts: Map<string, string | null>
   readonly listed: Map<string, string>
 }
 
-function overlaid(base: Reading, over: Over): Reading {
+export function overlaid(base: Reading, over: Over): Reading {
   const { texts, listed } = over
   return {
     ...base,
@@ -65,7 +65,7 @@ function addressOf(path: string): string | null {
     : `${type}${PARTED}${slug}`
 }
 
-function applied(over: Over, reading: Reading, one: Asking): string | null {
+export function applied(over: Over, reading: Reading, one: Asking): string | null {
   const given: Readonly<{ [key: string]: unknown }> = one.given
   const at = given[AT]
   if (typeof at !== "string") return null

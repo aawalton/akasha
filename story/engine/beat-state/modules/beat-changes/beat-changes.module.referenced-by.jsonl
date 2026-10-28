@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"command/pages/story/turn/correct/modules/beat-correcting/beat-correcting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"command/pages/story/turn/correct/modules/beat-correcting/beat-correcting.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"command/pages/story/turn/correct/modules/correct-handing/correct-handing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"command/pages/story/turn/correct/modules/correct-outcomes/correct-outcomes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"command/pages/story/turn/correct/story-turn-correct.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"command/pages/story/turn/modules/cancel-unbeating/cancel-unbeating.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-changes.module.code.ts","path":"command/pages/story/turn/modules/cancel-unbeating/cancel-unbeating.module.test.ts","typed":true,"deferred":false}

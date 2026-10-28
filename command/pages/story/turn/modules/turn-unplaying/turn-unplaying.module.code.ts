@@ -182,10 +182,13 @@ type Kept = {
   readonly knower: (page: string, fact: string, knower: string) => boolean
 }
 
-function keptBy(earlier: readonly Paged[]): Kept {
-  const memory = earlier.flatMap((one) =>
+export function memoryOf(story: readonly Paged[]): readonly Memory[] {
+  return story.flatMap((one) =>
     one.beats === undefined || "refused" in one.beats ? [] : one.beats.memory
   )
+}
+
+function keptBy(memory: readonly Memory[]): Kept {
   return {
     fact: (page, fact) => memory.some((one) => one.page === page && one.fact === fact),
     knower: (page, fact, knower) =>
@@ -214,10 +217,10 @@ function factBack(
   return { ...fact, [KNOWERS]: knowers }
 }
 
-function loreBack(
+export function loreBack(
   reach: Unplaying,
   memory: readonly Memory[],
-  earlier: readonly Paged[]
+  others: readonly Memory[]
 ): Unplayed | Refused {
   const look = {
     listedAt: reach.listedAt,
@@ -235,7 +238,7 @@ function loreBack(
     }
     byPath.set(at, [...(byPath.get(at) ?? []), one])
   }
-  const kept = keptBy(earlier)
+  const kept = keptBy(others)
   const namings: Naming[] = []
   const removed: string[] = []
   for (const [at, ours] of byPath) {
@@ -300,7 +303,7 @@ export function turnUnplayed(reach: Unplaying, played: Played): Unplayed | Refus
   const places = played.status === WORLD_BUILDER ? [] : placesBack(reach, played, earlier)
   if ("refused" in places) return places
   const told = played.status === BEATS || played.status === PLAYER ? played.beats.memory : []
-  const lore = loreBack(reach, told, earlier)
+  const lore = loreBack(reach, told, memoryOf(earlier))
   if ("refused" in lore) return lore
   return {
     namings: mergedNamings([...unbeat.namings, ...places, ...lore.namings]),

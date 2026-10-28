@@ -53,7 +53,6 @@ import {
   type Taken,
   taken,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
-import { memorySettled } from "akasha/command/pages/story/turn/advance/modules/turn-memory/turn-memory.module.code.ts"
 import { noticesOver } from "akasha/command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts"
 import {
   endTaken,
@@ -66,6 +65,7 @@ import {
   repairsAfter,
 } from "akasha/command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts"
 import { liftedFrom } from "akasha/command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts"
+import { memorySettled } from "akasha/command/pages/story/turn/modules/turn-memory/turn-memory.module.code.ts"
 import { marksOn } from "akasha/command/pages/story/turn/modules/turn-outcome-marks/turn-outcome-marks.module.code.ts"
 import {
   REACHED,
