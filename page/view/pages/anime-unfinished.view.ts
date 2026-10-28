@@ -9,21 +9,17 @@ export const animeUnfinished = {
   pageType: "page-type/fandom",
   viewPlace: 0,
   layout: "table",
-  narrows: [
-    {
-      key: "within-collections.collection",
-      comparison: "is",
-      values: ["fandom-collection/anime-top-100"],
-    },
-    { key: "completion", comparison: "not-in", values: ["completed"] },
-    { key: "progressed-at", comparison: "before-or-empty", values: ["eso-day"] },
-  ],
+  narrows: [],
   viewSorts: [
     { key: "completion-percent", descending: true },
     { key: "total-length", descending: false },
     { key: "title", descending: false },
   ],
+  groupSorts: [],
   visibleProperties: ["completion-percent", "position", "total-length", "total-progress"],
+  pageSize: 12,
+  itemPageSize: 12,
+  groupPageSize: 6,
   createdAt: "2026-10-28T18:43:46.517Z",
-  updatedAt: "2026-10-28T18:47:10.897Z",
+  updatedAt: "2026-10-28T19:30:45.918Z",
 } as const satisfies View
