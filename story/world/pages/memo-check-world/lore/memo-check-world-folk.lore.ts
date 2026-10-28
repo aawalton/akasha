@@ -10,11 +10,11 @@ export const memoCheckWorldFolk = {
   facts: [
     {
       fact: "The town's folk are friendly, patient, and used to strangers trying things twice.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/memo-check-player"],
     },
     {
       fact: "The shopkeeper trades in plain copper coin and keeps the shop open from dawn to dusk.",
-      knowers: ["lore-disclosure/game-master", "character-player/memo-check-player"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A carter bound for the next town wants a hired sword to guard his load on the road.",
@@ -22,5 +22,5 @@ export const memoCheckWorldFolk = {
     },
   ],
   createdAt: "2026-10-28T15:42:23.600Z",
-  updatedAt: "2026-10-28T15:42:41.462Z",
+  updatedAt: "2026-10-28T15:42:54.257Z",
 } as const satisfies Lore
