@@ -53,6 +53,28 @@ test("a collection whose parts stream only on services Alan does not hold is not
   expect(work(on(PAID, OTHER), REACH)).toBe(false)
 })
 
+test("a collection with an unfinished part on a held service is watchable", () => {
+  expect(work({ ...on(PAID, HELD), completion: "in-progress" }, REACH)).toBe(true)
+})
+
+test("a show not completed counts its own services", () => {
+  const show = {
+    ...awardWinningMovies,
+    streamingOn: [addressOf(HELD)],
+    completion: "in-progress" as const,
+  }
+  expect(work(show, REACH)).toBe(true)
+})
+
+test("a completed show's own held service makes it no more watchable", () => {
+  const show = {
+    ...awardWinningMovies,
+    streamingOn: [addressOf(HELD)],
+    completion: "completed" as const,
+  }
+  expect(work(show, REACH)).toBe(false)
+})
+
 test("a collection whose parts stream on no service is not watchable", () => {
   expect(work({ ...awardWinningMovies }, REACH)).toBe(false)
 })

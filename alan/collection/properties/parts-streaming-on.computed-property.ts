@@ -5,7 +5,7 @@ export const partsStreamingOn = {
   type: "page-type/computed-property",
   slug: "parts-streaming-on",
   propertySlug: "parts-streaming-on",
-  definition: "every service the collections a collection holds stream on, however far down",
+  definition: "every service the unfinished collections a collection holds stream on",
   holds: "records",
   properties: [
     { pageProperty: "relation-property/streaming-service", required: true, many: false },
@@ -17,6 +17,15 @@ export const partsStreamingOn = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A collection's parts stream on what each part streams on and what its parts do.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A completed part's own services are left out, so the list says where the rest is.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A service is stated per show or movie, so a show's seasons are never told apart.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -41,5 +50,5 @@ export const partsStreamingOn = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:00:00.000Z",
-  updatedAt: "2026-10-28T20:41:21.414Z",
+  updatedAt: "2026-10-28T21:43:25.354Z",
 } as const satisfies ComputedProperty

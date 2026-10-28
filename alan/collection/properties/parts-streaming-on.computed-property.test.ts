@@ -21,6 +21,7 @@ const HBO_MAX = `${streamingService.slug}/${hboMax.slug}`
 type Held = Collection & {
   readonly streamingOn?: readonly string[]
   readonly partsStreamingOn?: PartsStreamingOn
+  readonly completion?: string
 }
 
 const FANDOM = "fandom/fandom"
@@ -86,6 +87,22 @@ test("a part's own services count beside its parts' services", () => {
     { service: HULU },
     { service: NETFLIX },
   ])
+})
+
+test("a completed part's services are left out, and an unfinished part's stay", () => {
+  const pages = {
+    ...PAGES,
+    [MOVIE]: { ...PAGES[MOVIE], completion: "completed" } as Held,
+  }
+  expect(servicesOf(pages, FANDOM)).toEqual([{ service: CRUNCHYROLL }, { service: NETFLIX }])
+})
+
+test("a collection whose only parts with services are completed states no service", () => {
+  const pages = {
+    [FANDOM]: BASE,
+    [MOVIE]: { ...BASE, partOfCollections: [FANDOM], streamingOn: [HULU], completion: "completed" },
+  } as Readonly<Record<string, Held>>
+  expect(servicesOf(pages, FANDOM)).toBeNull()
 })
 
 test("a collection's own services are not its parts' services", () => {

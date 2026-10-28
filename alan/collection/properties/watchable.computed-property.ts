@@ -5,14 +5,27 @@ export const watchable = {
   type: "page-type/computed-property",
   slug: "watchable",
   propertySlug: "watchable",
-  definition: "whether Alan can watch a collection's parts on a service he holds",
+  definition: "whether Alan can watch what is left of a collection on a service he holds",
   holds: "boolean",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A collection is watchable where any service its parts stream on is held.",
+      statement:
+        "A collection is watchable where a show or movie under it is unfinished and on a held service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A completed show or movie adds nothing, even on a held service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A show or movie counts its own services while it is not completed.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A service is stated per show or movie, so a show's seasons are never told apart.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -33,5 +46,5 @@ export const watchable = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:44:37.102Z",
-  updatedAt: "2026-10-28T21:24:32.573Z",
+  updatedAt: "2026-10-28T21:43:25.354Z",
 } as const satisfies ComputedProperty
