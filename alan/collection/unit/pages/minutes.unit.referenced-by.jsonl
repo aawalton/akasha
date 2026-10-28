@@ -1769,6 +1769,18 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bleach-s02e48.episode.ts","id":"01a183d3-f485-7519-8495-16ef720d3245"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bleach-s02e49.episode.ts","id":"01a183d3-f485-7dd2-81cf-12fc04524856"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bleach-s02e50.episode.ts","id":"01a183d3-f485-7b00-adda-193ae9827c03"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e01.episode.ts","id":"01a183d9-6b67-7546-925a-db1c2beab315"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e02.episode.ts","id":"01a183d9-6b67-7ff2-96bd-96fa66b06966"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e03.episode.ts","id":"01a183d9-6b67-7dbc-97b2-9dce6484ecf8"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e04.episode.ts","id":"01a183d9-6b67-7c1b-b7d5-c96d6b6ae525"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e05.episode.ts","id":"01a183d9-6b68-7370-9cfd-9c70c46783cf"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e06.episode.ts","id":"01a183d9-6b68-7c32-9b0c-694abd722df8"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e07.episode.ts","id":"01a183d9-6b68-71d8-8a13-f172f8d05e25"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e08.episode.ts","id":"01a183d9-6b68-78d1-a626-19bff06fe672"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e09.episode.ts","id":"01a183d9-6b68-732f-8185-af349eac2c15"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e10.episode.ts","id":"01a183d9-6b68-77f4-8181-ff84f30d3e62"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e11.episode.ts","id":"01a183d9-6b68-7a99-861f-4f45d4b340e1"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bocchi-the-rock-s01e12.episode.ts","id":"01a183d9-6b68-76bc-a6cb-0ce1c0081c82"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bungo-stray-dogs-s01e01.episode.ts","id":"01a183d8-d9d5-7620-a498-372a2127dfdf"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bungo-stray-dogs-s01e02.episode.ts","id":"01a183d8-d9d5-7821-a2c5-07117c876359"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bungo-stray-dogs-s01e03.episode.ts","id":"01a183d8-d9d5-7513-886a-850040d07a24"}
@@ -7771,6 +7783,8 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/bluey-season-2.season.ts","id":"01a06802-b8b8-700c-a257-a7dc8ed99bce"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/bluey-season-3.season.ts","id":"01a06802-b8b8-700d-9331-ba694dce0892"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/bluey-specials.season.ts","id":"01a06802-b8b8-700e-86c0-43fa3118d6e0"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/bocchi-the-rock-season-1.season.ts","id":"01a183d9-6b68-723f-b3b0-c55d6053707b"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/bocchi-the-rock-season-2.season.ts","id":"01a183d9-6b68-744f-a132-432d8243f1fe"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited.season.ts","id":"01a06802-b8b8-700f-9743-33c72325216a"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/book-1-moon.season.ts","id":"01a06802-b8b8-7010-82ce-d03925f8e2e7"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/book-2-sky.season.ts","id":"01a06802-b8b8-7011-b4cb-b0625bf3b5f3"}
@@ -8641,6 +8655,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/blackbeard.show.ts","id":"01a1749a-c86c-75b1-beef-1e1d7cf32ce8"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/bleach.show.ts","id":"01a183d3-f485-70dc-875a-a7b141174934"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/bluey.show.ts","id":"01a06802-9331-700c-844b-973b801b3349"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/bocchi-the-rock.show.ts","id":"01a183d9-6b68-7017-b064-fe0f0b5a9503"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-2.show.ts","id":"01a06802-9331-700d-8506-5d7360e2d573"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/bungo-stray-dogs.show.ts","id":"01a183d8-d9d9-79ce-99e7-56184107cfc3"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/caprica.show.ts","id":"01a06802-9331-700e-8261-11fd1d9ad165"}
