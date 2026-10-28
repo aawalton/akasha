@@ -4,6 +4,7 @@
 {"propertySlug":"world","path":"story/world/pages/paths-probe-world/lore/paths-probe-world-folk.lore.ts","id":"01a18008-7533-7bb2-bfde-bdc2d7d6b846"}
 {"propertySlug":"world","path":"story/world/pages/paths-probe-world/lore/paths-probe-world-magic.lore.ts","id":"01a18008-7533-76cb-a4db-67ef3e93c1fc"}
 {"propertySlug":"world","path":"story/world/pages/paths-probe-world/lore/paths-probe-world-overview.lore.ts","id":"01a18008-7533-7a01-a535-cf5371d16ff4"}
+{"propertySlug":"world","path":"story/world/pages/paths-probe-world/mechanics/ability-kinds/paths-probe-world-path.world-ability-kind.ts","id":"01a18009-7d21-731e-9e30-f96c20122bd0"}
 {"propertySlug":"world","path":"story/world/pages/paths-probe-world/mechanics/currencies/paths-probe-world-coin.world-currency.ts","id":"01a18008-7533-7328-87dd-93d962dce081"}
 {"propertySlug":"world","path":"story/world/pages/paths-probe-world/mechanics/items/paths-probe-world-brass-token.world-item.ts","id":"01a18008-7533-76e5-80f8-83f81a40c3df"}
 {"propertySlug":"world","path":"story/world/pages/paths-probe-world/mechanics/items/paths-probe-world-copper-ore.world-item.ts","id":"01a18008-7533-7d77-8382-913acedc14a7"}
