@@ -73,6 +73,10 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A Set aside or Take up the slotting rule would refuse is not offered at all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Skills are grouped under the attribute governing them, and the rest under Other.",
     },
     {
@@ -135,5 +139,5 @@ export const sheetPanel = {
     },
   ],
   createdAt: "2026-09-02T14:52:27.089Z",
-  updatedAt: "2026-10-28T01:02:00.279Z",
+  updatedAt: "2026-10-28T01:48:24.198Z",
 } as const satisfies Module

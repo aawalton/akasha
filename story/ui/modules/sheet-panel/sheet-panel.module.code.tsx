@@ -28,6 +28,12 @@ import {
   useDerived,
   type Working,
 } from "akasha/story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts"
+import {
+  type Holding,
+  type SlotKind,
+  slotted,
+  type Wanted,
+} from "akasha/story/world/mechanics/modules/ability-slotting/ability-slotting.module.code.ts"
 import { type ReactNode, useState } from "react"
 
 const STATS = "stats"
@@ -229,19 +235,37 @@ function skillPartsOf(held: readonly Held[]): readonly Part[] {
   })
 }
 
+const NO_ABILITIES: readonly Held[] = []
+
 function usingOf(name: string): readonly Act[] {
   return [{ label: "Use", text: `I use ${name}`, tone: "use" }]
 }
 
-function actsOf(one: Held): readonly Act[] {
-  const name = one.name ?? ""
-  if (one.held === undefined || one.abilityKind?.activeSlots === undefined) return usingOf(name)
-  if (one.dormant === true) {
-    const held = { page: one.held, wanted: "taken-up" } as const
-    return [{ label: "Take up", text: `I take up ${name}`, tone: "use", held }]
+function holdingOf(one: Held): Holding | null {
+  if (one.held === undefined) return null
+  return {
+    page: one.held,
+    title: one.name ?? "",
+    kind: one.abilityKind?.pluralTitle ?? null,
+    experience: one.experience ?? 0,
+    dormant: one.dormant ?? null,
+    tierSteps: one.tierSteps ?? [],
   }
-  const held = { page: one.held, wanted: "set-aside" } as const
-  return [{ label: "Set aside", text: `I set ${name} aside`, tone: "plain", held }]
+}
+
+function actsOf(one: Held, abilities: readonly Held[]): readonly Act[] {
+  const name = one.name ?? ""
+  const mine = holdingOf(one)
+  const kind = one.abilityKind
+  if (mine === null || kind?.activeSlots === undefined) return usingOf(name)
+  const slots: SlotKind = { ...kind, page: kind.pluralTitle, activeSlots: kind.activeSlots }
+  const wanted: Wanted = one.dormant === true ? "taken-up" : "set-aside"
+  const holdings = abilities.flatMap((each) => holdingOf(each) ?? [])
+  if ("refused" in slotted(mine, slots, holdings, wanted)) return []
+  const held = { page: mine.page, wanted }
+  return wanted === "taken-up"
+    ? [{ label: "Take up", text: `I take up ${name}`, tone: "use", held }]
+    : [{ label: "Set aside", text: `I set ${name} aside`, tone: "plain", held }]
 }
 
 function HeldRows({
@@ -250,12 +274,14 @@ function HeldRows({
   query,
   acting,
   usable = false,
+  abilities = NO_ABILITIES,
 }: {
   title: string
   held: readonly Held[]
   query: string
   acting?: SheetActing | undefined
   usable?: boolean
+  abilities?: readonly Held[]
 }) {
   const shown = searched(byName(held), query)
   if (shown.length === 0) return null
@@ -285,7 +311,7 @@ function HeldRows({
               </>
             }
             note={one.note}
-            acts={usable ? actsOf(one) : undefined}
+            acts={usable ? actsOf(one, abilities) : undefined}
             acting={acting}
           />
         ))}
@@ -298,10 +324,12 @@ function HeldTab({
   label,
   parts,
   acting,
+  abilities = NO_ABILITIES,
 }: {
   label: string
   parts: readonly Part[]
   acting: SheetActing | undefined
+  abilities?: readonly Held[]
 }) {
   return (
     <Searched label={label}>
@@ -318,6 +346,7 @@ function HeldTab({
                 query={query}
                 acting={acting}
                 usable={part.usable ?? false}
+                abilities={abilities}
               />
             ))}
           </div>
@@ -412,7 +441,12 @@ export function SheetTabs({
       ) : null}
       {tabs.includes(SKILLS) ? (
         <TabsContent value={SKILLS}>
-          <HeldTab label={abilities.toLowerCase()} parts={skills} acting={acting} />
+          <HeldTab
+            label={abilities.toLowerCase()}
+            parts={skills}
+            acting={acting}
+            abilities={sheet.skills ?? NO_ABILITIES}
+          />
         </TabsContent>
       ) : null}
       {tabs.includes(TRAITS) ? (

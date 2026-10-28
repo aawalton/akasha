@@ -8,6 +8,7 @@ import { pluralTitle } from "akasha/story/world/mechanics/ability-kinds/properti
 import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
 import { heldSkillDormant } from "akasha/story/world/mechanics/skills/character-skill/properties/held-skill-dormant.boolean-property.ts"
 import { abilityKind } from "akasha/story/world/mechanics/skills/properties/ability-kind.relation-property.ts"
+import { skillTierSteps } from "akasha/story/world/mechanics/skills/properties/skill-tier-steps.number-property.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
 import {
   type AbilityKind,
@@ -29,6 +30,8 @@ export const ACTIVE_SLOTS_KEY = exportedAs(activeSlots.propertySlug)
 
 export const DORMANT_KEY = exportedAs(heldSkillDormant.propertySlug)
 
+export const TIER_STEPS_KEY = exportedAs(skillTierSteps.propertySlug)
+
 const TYPE_KEY = "type"
 
 const TYPE_OPENING = "page-type/"
@@ -46,9 +49,15 @@ const PARTED = "/"
 export type AbilityKinds = {
   readonly ofSkill: ReadonlyMap<string, string>
   readonly named: ReadonlyMap<string, AbilityKind>
+  readonly tiersOfSkill?: ReadonlyMap<string, readonly number[]>
 }
 
 const NO_KINDS: AbilityKinds = { ofSkill: new Map(), named: new Map() }
+
+function numbersIn(value: unknown): readonly number[] {
+  if (!Array.isArray(value)) return []
+  return value.filter((one): one is number => typeof one === "number" && Number.isFinite(one))
+}
 
 function addressed(type: string, row: QueryRow): string | null {
   const slug = textIn(row.values[SLUG_KEY])
@@ -60,10 +69,13 @@ export function abilityKindsIn(
   kindRows: readonly QueryRow[]
 ): AbilityKinds {
   const ofSkill = new Map<string, string>()
+  const tiersOfSkill = new Map<string, readonly number[]>()
   for (const row of skillRows) {
     const address = addressed(worldSkill.slug, row)
     const kind = textIn(row.values[ABILITY_KIND_KEY])
     if (address !== null && kind !== null) ofSkill.set(address, kind)
+    const tiers = numbersIn(row.values[TIER_STEPS_KEY])
+    if (address !== null && tiers.length > 0) tiersOfSkill.set(address, tiers)
   }
   const named = new Map<string, AbilityKind>()
   for (const row of kindRows) {
@@ -78,7 +90,7 @@ export function abilityKindsIn(
       ...(slots === undefined ? {} : { activeSlots: slots }),
     })
   }
-  return { ofSkill, named }
+  return { ofSkill, named, tiersOfSkill }
 }
 
 export function abilityKindOf(row: QueryRow, kinds: AbilityKinds): AbilityKind | undefined {
@@ -117,7 +129,9 @@ export function skillMoreOf(
     const kind = abilityKindOf(row, kinds)
     const held = heldAddressOf(row)
     const dormant = row.values[DORMANT_KEY]
+    const tierSteps = kinds.tiersOfSkill?.get(textIn(row.values[SKILL_KEY]) ?? "")
     return {
+      ...(tierSteps === undefined ? {} : { tierSteps }),
       ...(earned === undefined ? {} : { experience: earned }),
       ...(attribute === undefined ? {} : { attribute }),
       ...(kind === undefined ? {} : { abilityKind: kind }),

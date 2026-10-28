@@ -61,6 +61,7 @@ import {
   EXPERIENCE_KEY,
   PLURAL_TITLE_KEY,
   skillMoreOf,
+  TIER_STEPS_KEY,
 } from "akasha/story/world/stories/played/modules/played-skills/played-skills.module.code.ts"
 import type { Filed } from "akasha/story/world/stories/played/modules/played-state-sheet/played-state-sheet.module.code.ts"
 import { titlesHeldOf } from "akasha/story/world/stories/played/modules/played-titles/played-titles.module.code.ts"
@@ -176,7 +177,11 @@ async function slugsAsked(type: string, slugs: readonly string[], keys: readonly
 
 async function abilityKindsOf(skillRows: readonly QueryRow[]): Promise<AbilityKinds> {
   const skills = namedIn(skillRows, [SKILL_KEY]).get(worldSkill.slug) ?? []
-  const named = await slugsAsked(worldSkill.slug, skills, [SLUG_KEY, ABILITY_KIND_KEY])
+  const named = await slugsAsked(worldSkill.slug, skills, [
+    SLUG_KEY,
+    ABILITY_KIND_KEY,
+    TIER_STEPS_KEY,
+  ])
   const kinds = namedIn([...skillRows, ...named], [ABILITY_KIND_KEY]).get(worldAbilityKind.slug)
   const kindRows = await slugsAsked(worldAbilityKind.slug, kinds ?? [], [
     SLUG_KEY,

@@ -63,6 +63,7 @@ export type Skill = {
   readonly abilityKind?: AbilityKind
   readonly held?: string
   readonly dormant?: boolean
+  readonly tierSteps?: readonly number[]
 }
 
 export type Counted = { readonly name: string; readonly value?: number }

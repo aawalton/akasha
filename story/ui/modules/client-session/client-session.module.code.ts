@@ -44,6 +44,7 @@ const ClientSkillSchema = z.object({
   abilityKind: ClientAbilityKindSchema.optional(),
   held: z.string().optional(),
   dormant: z.boolean().optional(),
+  tierSteps: z.array(z.number()).optional(),
 })
 type ClientSkill = z.infer<typeof ClientSkillSchema>
 
@@ -185,6 +186,8 @@ function toClientSkill(raw: unknown): ClientSkill | null {
   if (kind.success) candidate["abilityKind"] = kind.data
   if (typeof rec["held"] === "string") candidate["held"] = rec["held"]
   if (typeof rec["dormant"] === "boolean") candidate["dormant"] = rec["dormant"]
+  const tiers = z.array(z.number()).safeParse(rec["tierSteps"])
+  if (tiers.success) candidate["tierSteps"] = tiers.data
   const parsed = ClientSkillSchema.safeParse(candidate)
   return parsed.success ? parsed.data : null
 }
