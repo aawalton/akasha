@@ -11,7 +11,11 @@ export const systemWindowSchema = {
       decisionKind: "decision-kind/departure",
       statement: "A window stored as a quest offer reads back as a quest added.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill's window may name the title of the skill's ability kind.",
+    },
   ],
   createdAt: "2026-09-01T05:29:46.052Z",
-  updatedAt: "2026-09-15T18:37:21.000Z",
+  updatedAt: "2026-10-28T00:50:14.517Z",
 } as const satisfies Module

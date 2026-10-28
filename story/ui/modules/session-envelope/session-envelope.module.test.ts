@@ -102,6 +102,31 @@ describe("composeSessionEnvelope", () => {
     ])
   })
 
+  test("heads a skill's window with the ability kind the sheet holds it as", () => {
+    const state = GameStateSchema.parse({
+      turn: 4,
+      revealed: {
+        skills: [
+          { name: "Path of Endurance", abilityKind: { title: "Path", pluralTitle: "Paths" } },
+        ],
+      },
+    })
+    const text = "a\n\n:::skill\nname: Path of Endurance\n:::\n\n:::skill\nname: Smithing\n:::"
+    const story: StoryLedger = {
+      chapters: [],
+      current: [{ id: "t9", title: "T", text, turnNumber: 4 }],
+    }
+    const out = composeSessionEnvelope("A Game", { chapterProse: {} }, { state, story })
+    expect(out.chapterProse?.[0]?.segments).toEqual([
+      { kind: "prose", text: "a" },
+      {
+        kind: "system",
+        window: { type: "skill", skill: "Path of Endurance", abilityKind: "Path" },
+      },
+      { kind: "system", window: { type: "skill", skill: "Smithing" } },
+    ])
+  })
+
   test("leaves every section null where there is no state", () => {
     const modules: StoryDisplayModules = { beatLog: {}, hud: {}, quests: {}, sheet: {} }
     const out = composeSessionEnvelope("A Game", modules, { state: null, story: null })

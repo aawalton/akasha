@@ -5,6 +5,7 @@ import {
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
 import type { StoryDisplayModules } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
+import type { SystemWindow } from "akasha/story/engine/core/modules/system-window-schema/system-window-schema.module.code.ts"
 import type {
   PendingActionInput,
   SessionEnvelope,
@@ -64,9 +65,30 @@ export function assertEnvelopeMatchesModules(
   }
 }
 
-function windowSegment(written: WrittenWindow): ClientProseSegment {
+type AbilityKindsNamed = ReadonlyMap<string, string>
+
+const NO_KINDS: AbilityKindsNamed = new Map()
+
+function abilityKindsNamedOf(state: GameState | null): AbilityKindsNamed {
+  const skills = state === null ? [] : (projectClientSheet(state)?.skills ?? [])
+  return new Map(
+    skills.flatMap((one): [string, string][] =>
+      one.name === undefined || one.abilityKind === undefined
+        ? []
+        : [[one.name, one.abilityKind.title]]
+    )
+  )
+}
+
+function kindedWindow(window: SystemWindow, kinds: AbilityKindsNamed): SystemWindow {
+  if (window.type !== "skill") return window
+  const abilityKind = kinds.get(window.skill)
+  return abilityKind === undefined ? window : { ...window, abilityKind }
+}
+
+function windowSegment(written: WrittenWindow, kinds: AbilityKindsNamed): ClientProseSegment {
   const window = windowOf(written)
-  if (window !== undefined) return { kind: "system", window }
+  if (window !== undefined) return { kind: "system", window: kindedWindow(window, kinds) }
   return {
     kind: "system",
     title: written.name ?? written.kind,
@@ -74,16 +96,19 @@ function windowSegment(written: WrittenWindow): ClientProseSegment {
   }
 }
 
-export function proseSegmentsOf(text: string): ClientProseSegment[] | undefined {
+export function proseSegmentsOf(
+  text: string,
+  kinds: AbilityKindsNamed = NO_KINDS
+): ClientProseSegment[] | undefined {
   const found = proseWindowSegmentsIn(text)
   if (found.every((one) => one.kind === "prose")) return undefined
   return found.map(
-    (one): ClientProseSegment => (one.kind === "prose" ? one : windowSegment(one.window))
+    (one): ClientProseSegment => (one.kind === "prose" ? one : windowSegment(one.window, kinds))
   )
 }
 
-function withWindows(turn: ClientStoryTurn): ClientStoryTurn {
-  const segments = proseSegmentsOf(turn.text)
+function withWindows(turn: ClientStoryTurn, kinds: AbilityKindsNamed): ClientStoryTurn {
+  const segments = proseSegmentsOf(turn.text, kinds)
   return segments === undefined ? turn : { ...turn, segments }
 }
 
@@ -95,7 +120,8 @@ export function composeSessionEnvelope(
   const envelope: SessionEnvelope = { title }
   const stateForSections = inputs.story?.publishedState ?? inputs.state
   if (modules.chapterProse !== undefined) {
-    envelope.chapterProse = (inputs.story?.current ?? []).map(withWindows)
+    const kinds = abilityKindsNamedOf(stateForSections)
+    envelope.chapterProse = (inputs.story?.current ?? []).map((turn) => withWindows(turn, kinds))
   }
   if (modules.beatLog !== undefined) {
     envelope.beatLog = stateForSections === null ? null : [...projectClientBeats(stateForSections)]

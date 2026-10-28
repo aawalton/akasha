@@ -6,6 +6,13 @@ export const systemWindowCard = {
   slug: "system-window-card",
   definition: "a system window drawn as its type's card",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A skill's card is headed by its ability kind's title, or by Skill where none is named.",
+    },
+  ],
   createdAt: "2026-09-02T17:25:53.928Z",
-  updatedAt: "2026-09-22T14:00:26.000Z",
+  updatedAt: "2026-10-28T00:50:14.517Z",
 } as const satisfies Module

@@ -154,9 +154,19 @@ function LevelUpCard({ level, attrPoints }: { level: number; attrPoints?: number
   )
 }
 
-function SkillCard({ skill, rank }: { skill: string; rank?: string }) {
+const SKILL = "Skill"
+
+function SkillCard({
+  skill,
+  rank,
+  abilityKind,
+}: {
+  skill: string
+  rank?: string
+  abilityKind?: string
+}) {
   return (
-    <WindowFrame banner="Skill" bannerClass="text-accent">
+    <WindowFrame banner={abilityKind ?? SKILL} bannerClass="text-accent">
       <div className="font-mono font-semibold text-[14px] text-primary">{skill}</div>
       {rank != null && rank !== "" ? <CardField label="Rank" value={rank} /> : null}
     </WindowFrame>
@@ -226,7 +236,7 @@ export function SystemWindowCard({
     case "level-up":
       return <LevelUpCard level={window.level} attrPoints={window.attrPoints} />
     case "skill":
-      return <SkillCard skill={window.skill} rank={window.rank} />
+      return <SkillCard skill={window.skill} rank={window.rank} abilityKind={window.abilityKind} />
     case "affinity":
       return <AffinityCard affinity={window.affinity} />
     case "class":

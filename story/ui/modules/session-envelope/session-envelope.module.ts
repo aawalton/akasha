@@ -7,6 +7,12 @@ export const sessionEnvelope = {
   definition: "a session's payload put together from state, story and the actions still pending",
   code: "ts",
   test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill's window names the ability kind the sheet holds that skill as.",
+    },
+  ],
   createdAt: "2026-09-02T14:38:30.875Z",
-  updatedAt: "2026-09-22T10:08:53.000Z",
+  updatedAt: "2026-10-28T00:50:14.517Z",
 } as const satisfies Module
