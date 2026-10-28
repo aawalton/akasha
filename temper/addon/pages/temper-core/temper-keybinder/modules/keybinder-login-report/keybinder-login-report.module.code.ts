@@ -11,7 +11,7 @@ interface Report {
 
 const REPORT: Report = { playerActive: false, held: undefined }
 
-export function appliedLine(this: void, count: number): string {
+function appliedLine(this: void, count: number): string {
   const noun = count === 1 ? "key binding" : "key bindings"
   return `Temper: ${count} ${noun} set from your keybinding pages`
 }
