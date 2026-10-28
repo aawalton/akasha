@@ -11,6 +11,7 @@ export const irisGameMasterUndoCheck = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "471d7d1e-64ba-4fdf-8a74-798cfded5953",
   createdAt: "2026-10-28T15:06:35.426Z",
-  updatedAt: "2026-10-28T15:06:35.426Z",
+  updatedAt: "2026-10-28T15:06:39.378Z",
 } as const satisfies Seat
