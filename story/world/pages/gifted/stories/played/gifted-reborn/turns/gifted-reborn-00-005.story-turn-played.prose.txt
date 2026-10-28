@@ -6,3 +6,8 @@ note: Tier: 2; Mental: +1
 :::
 
 The chanting goes on over you. You turn back to your Status, find Path of Soulstealing, and try to use it. You hold the words in your mind and push at them.
+
+:::status-assessment
+name: Path of Soulstealing (mutated)
+note: Steps: only from shreds of demon-ridden souls dying nearby
+:::
