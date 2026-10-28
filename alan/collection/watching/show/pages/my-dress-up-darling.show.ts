@@ -7,7 +7,7 @@ export const myDressUpDarling = {
   ownLength: 0,
   ownProgress: 0,
   publishedAt: "2022-01-09",
-  status: "in-progress",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -19,5 +19,6 @@ export const myDressUpDarling = {
   ],
   title: "My Dress-Up Darling",
   createdAt: "2026-10-14T19:18:25.105Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:39.435Z",
+  completedAt: "2026-10-28",
 } as const satisfies Show
