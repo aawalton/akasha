@@ -15,11 +15,7 @@ export const elaineHealthModel = {
       statement:
         "A command ranks the voluntary actions that most lower Alan's risk of death, each with a range.",
     },
-    {
-      statement:
-        "A command prices an activity Alan names in disability-adjusted micromorts, as a range.",
-    },
   ],
   createdAt: "2026-10-28T17:48:39.611Z",
-  updatedAt: "2026-10-28T19:12:27.182Z",
+  updatedAt: "2026-10-28T19:17:41.446Z",
 } as const satisfies Initiative
