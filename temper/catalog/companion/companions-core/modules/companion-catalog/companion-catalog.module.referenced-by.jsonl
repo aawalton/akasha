@@ -56,6 +56,7 @@
 {"propertySlug":"import","fileName":"companion-catalog.module.test-fixtures.ts","path":"command/pages/temper/build-show/temper-build-show.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.test-fixtures.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.test-fixtures.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-catalog.module.test-fixtures.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.test-fixtures.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.test-fixtures.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.test-fixtures.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.test.ts","typed":false,"deferred":false}

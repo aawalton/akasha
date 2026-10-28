@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import { holdRecipeCatalogFromCheckout } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.test-fixtures.ts"
 import {
   capacityFilter,
@@ -17,6 +18,7 @@ import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
 
+holdCompanionCatalogFromCheckout()
 holdRecipeCatalogFromCheckout()
 holdSkillCatalogFromCheckout()
 holdKeyedTitlesFromCheckout(temperVenue.slug)
