@@ -61,6 +61,7 @@
 {"propertySlug":"seat-persons","path":"agent/seat/pages/ember/ember.seat.ts","id":"01a16f6d-fb1f-7000-9c32-434120971efc"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/eppie/eppie.seat.ts","id":"01a17ef4-ae6a-773d-b35e-e89985a9f284"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/iris-game-master-gifted-reborn/iris-game-master-gifted-reborn.seat.ts","id":"01a17fb8-02e7-77e8-80a2-dc56ede90d82"}
+{"propertySlug":"seat-persons","path":"agent/seat/pages/iris-game-master-outcome-cards-check/iris-game-master-outcome-cards-check.seat.ts","id":"01a1801d-88c3-7133-b53f-197e95b4607d"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/iris-game-master-test-story/iris-game-master-test-story.seat.ts","id":"01a17ee7-cad7-7753-aa77-d5728078c35d"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/iris-reviewer-gifted-reborn-flex-1/iris-reviewer-gifted-reborn-flex-1.seat.ts","id":"01a17fcd-308e-7693-9892-e35a4b200de3"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/iris-reviewer-gifted-reborn-flex-2/iris-reviewer-gifted-reborn-flex-2.seat.ts","id":"01a17fcd-5472-77ed-a358-62690ad3bc2f"}
