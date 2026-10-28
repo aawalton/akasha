@@ -15,9 +15,10 @@ export const rascalDoesNotDreamOfADearFriend = {
       source: "tmdb",
       externalId: "1553200",
       externalLink: "https://www.themoviedb.org/movie/1553200",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Rascal Does Not Dream of a Dear Friend",
   createdAt: "2026-10-28T18:46:23.781Z",
-  updatedAt: "2026-10-28T18:46:23.781Z",
+  updatedAt: "2026-10-28T19:48:05.880Z",
 } as const satisfies Movie
