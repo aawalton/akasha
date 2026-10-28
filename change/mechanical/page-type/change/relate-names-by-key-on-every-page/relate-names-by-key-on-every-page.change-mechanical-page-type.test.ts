@@ -14,24 +14,24 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 
 const TYPE = "show"
 
-const TARGET = "streaming-service"
+const TARGET = "catalogue"
 
 const ONE_AT = "alan/show/one.show.ts"
 
 const TWO_AT = "alan/show/two.show.ts"
 
-const NETFLIX = "streaming-service/netflix"
+const NETFLIX = `${TARGET}/netflix`
 
-const HULU = "streaming-service/hulu"
+const HULU = `${TARGET}/hulu`
 
 const ASKED: Asked = { pageType: TYPE, key: "streamingOn", target: TARGET, by: "providerNames" }
 
 const SERVICES: ReadonlyMap<string, Value> = new Map([
   [
-    "alan/service/netflix.streaming-service.ts",
+    "alan/service/netflix.catalogue.ts",
     { slug: "netflix", providerNames: ["Netflix", "Netflix Standard with Ads"] },
   ],
-  ["alan/service/hulu.streaming-service.ts", { slug: "hulu", providerNames: "Hulu" }],
+  ["alan/service/hulu.catalogue.ts", { slug: "hulu", providerNames: "Hulu" }],
 ])
 
 type Held = Readonly<Record<string, readonly string[] | string>>
@@ -112,7 +112,7 @@ test("every name no target page states is named once in one refusal, with a page
 test("a name two target pages state refuses the whole change", () => {
   const twice = new Map([
     ...SERVICES,
-    ["alan/service/more.streaming-service.ts", { slug: "more", providerNames: ["Hulu"] }],
+    ["alan/service/more.catalogue.ts", { slug: "more", providerNames: ["Hulu"] }],
   ])
   const world = worldFor({ [ONE_AT]: ["Hulu"] }, twice)
 
