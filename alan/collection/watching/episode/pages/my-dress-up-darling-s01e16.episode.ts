@@ -7,11 +7,11 @@ export const myDressUpDarlingS01e16 = {
   description:
     "Marin represents her class enters the school beauty pageant and finds out she gets to cosplay.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 16,
   publishedAt: "2025-07-27",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const myDressUpDarlingS01e16 = {
   stillPath: "/6O03noxbuGyiiREZtgBd7GuIAiP.jpg",
   voteAverage: 7.4,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:26.381Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:26.381Z",
 } as const satisfies Episode
