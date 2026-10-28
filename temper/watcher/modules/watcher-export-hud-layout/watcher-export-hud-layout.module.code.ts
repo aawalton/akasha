@@ -15,7 +15,7 @@ import {
 
 export const DOCK_PAGE_TYPE_SLUG = "temper-hud-dock"
 
-export const PANEL_PAGE_TYPE_SLUG = "temper-hud-panel"
+const PANEL_PAGE_TYPE_SLUG = "temper-hud-panel"
 
 const PAGES_PER_READ = 100
 
@@ -40,7 +40,7 @@ interface HudLayout {
 
 type PageCollect = typeof collectPages
 
-export interface ExportHudLayoutSeams {
+interface ExportHudLayoutSeams {
   readonly collect?: PageCollect
   readonly disk?: SideFileDisk
 }
