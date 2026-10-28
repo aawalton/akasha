@@ -11,9 +11,15 @@ export const shugoChara = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "14451", externalLink: "https://www.themoviedb.org/tv/14451" },
+    {
+      source: "tmdb",
+      externalId: "14451",
+      externalLink: "https://www.themoviedb.org/tv/14451",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Shugo Chara!",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:50:53.965Z",
-  updatedAt: "2026-10-28T18:50:53.965Z",
+  updatedAt: "2026-10-28T19:45:56.881Z",
 } as const satisfies Show
