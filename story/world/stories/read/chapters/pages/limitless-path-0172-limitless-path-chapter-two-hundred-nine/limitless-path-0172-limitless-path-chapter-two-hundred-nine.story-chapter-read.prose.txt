@@ -1,0 +1,497 @@
+"I would love to see the whole recording," her father said as the group got ready to head out.
+
+"I don't know if I can make a copy, but you can come to the Hall and watch it on a screen there if you want," Beth offered.
+
+"Maybe later," Thomas said, glancing over at Rachel for a moment. "We also have a lot of things to take care of. Keeping the town here safe and running isn't exactly easy, even with everyone chipping in."
+
+"Alright, then we're out," Beth said, leading the others out of the living room and out of the house.
+
+"Beth, how'd you do that with your boots?" Kim asked, looking at how Beth's boots had just appeared on her feet.
+
+"Storage item," Beth replied, making her chest armor disappear so she could pull out the necklace and show it.
+
+"Storage item? What's that?" Kim asked, frowning with her forehead scrunched up.
+
+"Oh, right. It's, uh, like an item that usually you wear that has a space inside it. I don't know how to explain it to somebody not familiar with it any better, but this necklace basically has an entire empty room inside of it, and I can put things I'm touching in or take them out with just a thought."
+
+"That's crazy," Kim breathed. "How did you get it?"
+
+"It was one of the rewards we got from the Trial," Beth said.
+
+"We? You mean Blood has one, too?" Kim asked.
+
+"Yep," Beth replied nonchalantly. "And before you think about it, a way worse version than what we got would cost into the platinums just for one, so start saving."
+
+"There's too much we need," Kim sighed. "All three of us managed to get better chest pieces, but we still need the rest of our armor upgraded. Our weapons are ok for now, but we also need all kinds of other stuff. And that's just the 'needs,' then there are the 'wants'."
+
+"Well, maybe Blood and I can help a little," Beth said. "We've got some cash now and we're over level one hundred, so we can make cash a lot easier."
+
+"The kobold area," Sabs cut in with.
+
+"The kobold area?" Beth asked, raising a brow.
+
+"It's gotten a little…wild," Sabs said, glancing around. "We haven't really been able to keep track of it that well because, well, it sort of got out of our control?"
+
+"What do you mean, it got out of your control?" Beth asked, concern tinging her voice.
+
+"Uh, how do I explain?" said Kim warily.
+
+"The beasts are too strong," Sabs put succinctly.
+
+"And that means…what?" Beth pressed.
+
+"The ones wandering out of the hole-" Kim started.
+
+"What do you mean?! They're coming all the way up top already?!" Beth cut in.
+
+"Jeez, let me finish," said Kim.
+
+"That's what she said," Beth quipped immediately.
+
+"Beth! Come on!" Kim said with a groan.
+
+"Okay, okay," Beth said.
+
+"Yes, they're coming all the way up to the field. That started about a week ago? I think? Even the ones in the field are in the high seventies or low eighties in level. Beyond that…we're not sure, but it's quite possible there are things down there over level one hundred," Sabs explained.
+
+"That's both good and bad," Beth said.
+
+"How is that possibly good?" Kim asked, eyes wide as she glanced at Beth.
+
+"Because it means Blood and I won't have to run all over the world to find something challenging to fight. There's experience, money, and challenge down there, and it's close," Beth replied as they moved north through the wood, approaching the big clearing.
+
+"Well, I guess that makes sense," Kim said, still seemingly a little unsure.
+
+They moved through the field between the woodlot and the copse of trees at the edge of the farmer's field, Beth casually killing a few ants in the single digits with a slap. Two ants in the teens were at the far edge of the field and the group killed them without breaking stride or even pausing their conversation. Moving through the copse, Beth saw the anthill had grown, increasing in both height and width since the last time she had seen it. The old field was also full of ants, varying in level and size all the way from some smaller ants in the low teens to large, level thirty ants patrolling further out in the field.
+
+"Alright, let's do this fast," Beth said, striding to the anthill and up the ramp.
+
+The others followed her lead, Kim and Sabs staying alert but letting Beth explore the changes to the dungeon while Blood and Soph bickered at the back. Of course, that was almost a ruse, as Blood's keen senses were still easily able to monitor what was going on around them even as she was distracted. Not that her keen senses were needed, as the ant nest was still straightforward, despite its increase in size and complexity. Beth didn't even need any directions from the other girls, navigating through it quite easily, crushing all the opponents on the way.
+
+The boss of the dungeon was still an ant princess, though it was at level fifty and would have been a big challenge for any apart from those present in the room. Beth barely gave it a glance, walking up to it as Sabs protested weakly for her to be careful before blowing the boss apart with a single charged Crush. She didn't bother using any other skills or fancy tricks, finding the ants not worth her time or attention. It would be a pretty good dungeon for people to grind some levels and a little money and, now that the ants were a little higher level, maybe even take their carapaces to use in armor.
+
+"It's grown a lot," commented Beth as she wiped the ant blood off, and they started back out of the dungeon. "But it's not that impressive, really."
+
+"It still provides at least some challenge to us, though we're a little beyond it now," Kim replied as they exited.
+
+"What are your stats at, anyway?" Beth asked.
+
+"Here," said Kim, followed by the others.
+
+Name
+
+Kimberly Joanna Bell
+
+Class
+
+Tempered Fighter
+
+Level
+
+52
+
+Strength
+
+100
+
+Dexterity
+
+70
+
+Endurance
+
+70
+
+Intelligence
+
+40
+
+Wisdom
+
+59
+
+Free Points
+
+0
+
+Titles
+
+-
+
+Skills
+
+Battle Focus Copper[8]
+
+Fire Resistance Copper[2]
+
+Identify Copper[9]
+
+Meditation Copper[8]
+
+Pain Tolerance Copper[7]
+
+Regeneration Copper[7]
+
+Sweep Copper[9]
+
+Swords Journeyman[0]
+
+Wealth
+
+2g 44s 23c
+
+Name
+
+Sophia Stephanie Bell
+
+Class
+
+Early Sorceress
+
+Level
+
+53
+
+Strength
+
+44
+
+Dexterity
+
+30
+
+Endurance
+
+40
+
+Intelligence
+
+118
+
+Wisdom
+
+113
+
+Free Points
+
+0
+
+Titles
+
+-
+
+Skills
+
+Casting Trance Copper[8]
+
+Elemental Casting Copper[9]
+
+Enhanced Meditation Copper[9]
+
+Identify Copper[9]
+
+Pain Tolerance Copper[3]
+
+Regeneration Copper[4]
+
+Staffs Apprentice[4]
+
+Wealth
+
+4g 54s 56c
+
+Name
+
+Sabrina Melissa Michaels
+
+Class
+
+Young Duelist
+
+Level
+
+56
+
+Strength
+
+100
+
+Dexterity
+
+146
+
+Endurance
+
+69
+
+Intelligence
+
+24
+
+Wisdom
+
+24
+
+Free Points
+
+0
+
+Titles
+
+-
+
+Skills
+
+Copper Body Copper[7]
+
+Daggers Journeyman[2]
+
+Dice Copper[9]
+
+Fire Resistance Copper[1]
+
+Flurry Copper[6]
+
+Identify Copper[8]
+
+Meditation Copper[7]
+
+Pain Tolerance Copper[5]
+
+Regeneration Copper[6]
+
+Swift Copper[8]
+
+Wealth
+
+1g 98s 85c
+
+"Well, that's not bad," Beth said. "I see you all've gotten some new skills, even."
+
+"Yeah, I've got one that lets me focus better in combat, Soph can cast faster and with slightly less mana used, and Sabs has a fast attack skill," Kim explained. "What are yours looking like, anyway?"
+
+Beth flicked a hand in response, as did Blood:
+
+Name
+
+Elizabeth Anne Bell
+
+Class
+
+Brawler
+
+Level
+
+126
+
+Strength
+
+390
+
+Dexterity
+
+180
+
+Endurance
+
+234
+
+Intelligence
+
+60
+
+Wisdom
+
+60
+
+Free Points
+
+0
+
+Titles
+
+***
+
+Skills
+
+****
+
+Beastly Body Silver[3]
+
+Blacksmithing Apprentice[9]
+
+Celestial Annihilation Copper[0]
+
+Crush Silver[5]
+
+Earth Resistance Copper[4]
+
+Flame Resistance Copper[9]
+
+Focused Meditation Copper[9]
+
+FrostFlame Eye Copper[9]
+
+Ice Resistance Copper[7]
+
+Indomitable Heart Copper[9]
+
+Lightning Resistance Copper[8]
+
+Lordly Reconstruction Silver[3]
+
+Monstrous Blow Copper[9]
+
+Pain Tolerance Silver[9]
+
+Swift Copper[9]
+
+Swords Journeyman[8]
+
+Toxic Resistance Copper[8]
+
+Unarmed Journeyman[9]
+
+Wealth
+
+26g 88s 76c
+
+Emblems
+
+CRA Copper Badge
+
+Bonds
+
+Blood
+
+Name
+
+Blood
+
+Race
+
+Red Wolf Queen
+
+Level
+
+126
+
+Strength
+
+220
+
+Dexterity
+
+320
+
+Endurance
+
+172
+
+Intelligence
+
+60
+
+Wisdom
+
+60
+
+Free Points
+
+0
+
+Titles
+
+-
+
+Skills
+
+Blood Queen's Claws Silver[2]
+
+Earth Resistance Copper[4]
+
+Eyes of Hallowed Truth Copper[4]
+
+Flame Resistance Copper[6]
+
+Ice Resistance Copper[7]
+
+Leatherworking Apprentice[4]
+
+Lightning Resistance Copper[5]
+
+Meditation Copper[9]
+
+Pain Tolerance Silver[0]
+
+Regeneration Copper[9]
+
+Rending Bite Copper[9]
+
+Swift Silver[6]
+
+Toxic Resistance Copper[5]
+
+Unarmed Apprentice[9]
+
+Wealth
+
+25g 31s 43c
+
+Emblem
+
+CRA Copper Badge
+
+"Why are your titles like that? And your first skill?" Soph asked Beth with a narrowing of her eyes, and not just because they were re-emerging from the anthill.
+
+"Because I redacted what's there because I don't want other people to see it," Beth replied coolly. "And no, I won't say what it is."
+
+"You guys have half a platinum between you?!" Sabs asked, a little shocked, her mouth forming a cute little "O" shape.
+
+"Yeah, that's not a lot," Beth said, shaking her head. "Fifty golds wouldn't get us very much, even though that sounds crazy. Like, sure, we could buy insane amounts of, like, food and stuff with it. And we could buy simple equipment or something, but if you look at our gear, to upgrade even a single piece at this point would be into the double digits. And again, that's just for single pieces."
+
+"You've got a bunch of new skills. Did you get all of them from the Trial?" Sabs asked as they moved back to the development.
+
+"Uh, yes and no?" Beth replied with a slight frown and a bit of a squint. They were rounding the new walls of the town, seeing how they stretched out into the woodlot and even to the east of where the yards of the houses used to end. Moving around the small township their neighborhood had become, Beth continued, "Some of them, like Beastly Body, I got during the Trial but not, uh, because of the Trial. I learned it basically myself. And some skills we got as rewards, but the only that was really a direct reward was Celestial Annihilation."
+
+"Yeah, what the fuck is that?" asked Sabs. "It certainly sounds impressive."
+
+"I don't really know, but it supposedly lets me channel celestial energy through my body to enhance attacks. I can even use that channeled energy to shoot out energy attacks…I think? I don't know, I haven't really tried it…" Beth responded as they came up to and crossed the highway.
+
+"Beth, let me get this straight," Sabs said. "You got a brand-new skill, one called fucking 'Celestial Annihilation,' for God's sake, and you haven't even tried it?"
+
+"Uh, no?" Beth replied a little weakly, scratching her cheek.
+
+"Beth, I love you, but sometimes…" said Sabs before interrupting Beth's response by pulling the taller girl down into a kiss. Kim watched the kiss start and then glanced back to see Blood teasing Soph, who wore a pout but secretly looked rather pleased with the tall beauty's attention. She sighed and crossed her arms, waiting for the two couples to get ready to move, which really meant waiting for Beth to get free and start forward again.
+
+Finally free of the kiss and moving across the open area on the other side of the highway, Beth saw a few wolves running around, mainly because there were several people from the neighborhood out killing them. They were apparently part of Zack's guards, made all the more obvious when they ran into the man himself. He was standing behind a group of three people that were fighting, or rather killing, two last wolves from a group that had consisted of eight. He had his arms crossed, wearing a mana copper chest piece with a mace on one side of his belt and a pistol on the other.
+
+"Zack," Beth said with a nod when they stopped by him.
+
+"Ah, you're back," Zack side, giving her a bit of a side-eye. "And who the hell is this?'
+
+"Blood," Beth replied.
+
+"Blood? What, you mean that huge-ass wolf that was following you around?" Zack asked, eyeing the tall woman with strange eyes up and down.
+
+"One and the same," Beth said.
+
+"This fucking place gets crazier and crazier," Zack muttered under his breathe. "So, are you out here to get some experience, or what, soldier?"
+
+"Uh, Zack, look at our levels…" Beth replied with a sigh.
+
+"Look at your levels? Whaaaa-holy shit! You're over level one hundred!" he shouted.
+
+"One more time. I don't think they heard you over in China," Beth grumbled with a wince.
+
+"What the hell were they feeding you while you were gone?" he asked with a frown.
+
+"A lot of good shit, but the levels have a lot more to do with the insane numbers of high-level enemies we slaughtered as opposed to the diet," Beth replied.
+
+"Sometimes, I really can't tell if you're doing it on purpose or not," Zack said while glaring at her.
+
+"I don't know what you mean," Beth said. "But, anyway, I'm just taking a look at how the dungeons have changed since we've been gone. We'll be out of your hair in a minute."
+
+"Well, at that level, I can't really tell you what to do, but be careful. It's not all easy and simple out here," Zack said.
+
+"Oh, trust me, you have no idea," Beth replied as she moved off, giving a wave over her shoulder as Zack snorted.
