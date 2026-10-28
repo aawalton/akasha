@@ -7,11 +7,11 @@ export const myDressUpDarlingS01e20 = {
   description:
     "Marin and Wakana go to a cosplay event. Marin meets up with Amane and Suzuka and Wakana meets up with Akira.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 20,
   publishedAt: "2025-08-24",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const myDressUpDarlingS01e20 = {
   stillPath: "/oh3UBYo9NoHNk8HdnO6zvvIf4RZ.jpg",
   voteAverage: 7.1,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:32.480Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:32.480Z",
 } as const satisfies Episode
