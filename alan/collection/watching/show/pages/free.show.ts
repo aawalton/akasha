@@ -11,9 +11,15 @@ export const free = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "61456", externalLink: "https://www.themoviedb.org/tv/61456" },
+    {
+      source: "tmdb",
+      externalId: "61456",
+      externalLink: "https://www.themoviedb.org/tv/61456",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Free!",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:48:40.810Z",
-  updatedAt: "2026-10-28T18:48:40.810Z",
+  updatedAt: "2026-10-28T19:44:19.041Z",
 } as const satisfies Show
