@@ -269,6 +269,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/great-courses.domain.ts","id":"01a06579-f3d9-7008-be12-f37f13da607b"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/catalogue-syncing/catalogue-syncing.module.ts","id":"01a0686a-7a57-7999-b904-b23c1ed07377"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/create-course/create-course.module.ts","id":"01a06579-f3d9-7005-80a2-939e9bfae257"}
+{"propertySlug":"decision-kind","path":"alan/collection/properties/watchable.computed-property.ts","id":"01a18441-f370-7921-86aa-95c1d14963f3"}
 {"propertySlug":"decision-kind","path":"alan/collection/reading/book/properties/page-count.number-property.ts","id":"01a06741-dd0f-7005-b740-1e4345152777"}
 {"propertySlug":"decision-kind","path":"alan/collection/reading/gbww-reading/gbww-reading.page-type.ts","id":"01a0659f-93da-7019-b3d4-198e7acfbd4c"}
 {"propertySlug":"decision-kind","path":"alan/collection/reading/modules/shapes/reading-shapes.module.ts","id":"01a0657b-06a7-7ae0-baf9-5cce272d89ba"}

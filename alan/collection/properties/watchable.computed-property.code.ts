@@ -9,7 +9,7 @@ type Held = Collection & { readonly partsStreamingOn?: PartsStreamingOn }
 export const work: Work<Held, Watchable> = (page, reach) => {
   for (const one of page.partsStreamingOn ?? []) {
     const service = reach.target<StreamingService>(one.service)
-    if (service?.held === true || service?.free === true) return true
+    if (service?.held === true) return true
   }
   return false
 }

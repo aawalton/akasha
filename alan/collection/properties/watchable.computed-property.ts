@@ -5,15 +5,18 @@ export const watchable = {
   type: "page-type/computed-property",
   slug: "watchable",
   propertySlug: "watchable",
-  definition:
-    "whether Alan can watch a collection's parts on a service he holds or one that is free",
+  definition: "whether Alan can watch a collection's parts on a service he holds",
   holds: "boolean",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A collection is watchable where any service its parts stream on is held or free.",
+      statement: "A collection is watchable where any service its parts stream on is held.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A free service does not make a collection watchable.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -21,7 +24,7 @@ export const watchable = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Whether a service is held or free is read off that service's own page.",
+      statement: "Whether a service is held is read off that service's own page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,5 +33,5 @@ export const watchable = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:44:37.102Z",
-  updatedAt: "2026-10-28T20:44:37.102Z",
+  updatedAt: "2026-10-28T21:24:32.573Z",
 } as const satisfies ComputedProperty

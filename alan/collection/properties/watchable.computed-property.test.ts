@@ -45,11 +45,11 @@ test("a collection whose parts stream on a service Alan holds is watchable", () 
   expect(work(on(PAID, HELD), REACH)).toBe(true)
 })
 
-test("a collection whose parts stream on a free service is watchable", () => {
-  expect(work(on(FREE, PAID), REACH)).toBe(true)
+test("a collection whose parts stream only on a free service is not watchable", () => {
+  expect(work(on(FREE, PAID), REACH)).toBe(false)
 })
 
-test("a collection whose parts stream only on services neither held nor free is not", () => {
+test("a collection whose parts stream only on services Alan does not hold is not", () => {
   expect(work(on(PAID, OTHER), REACH)).toBe(false)
 })
 
