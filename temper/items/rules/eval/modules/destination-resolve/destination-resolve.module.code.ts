@@ -2,6 +2,7 @@ import {
   type CharEligibilityConditions,
   composeCharEligibilityPredicate,
 } from "akasha/temper/items/rules/core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
+import { houseTarget } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { DestinationChain } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { planStockChainVisit } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
@@ -37,6 +38,8 @@ const COMPANION_WORN_BY_PRIORITY = "companion-worn:by-priority"
 
 const STOCK = "stock"
 
+const MOVE_TO = "move-to"
+
 export function resolveDestination(
   rule: CompiledOrderedRule,
   facts: ItemFacts,
@@ -48,7 +51,7 @@ export function resolveDestination(
   }
   const dest = rule.destination
   if (dest === undefined || dest === "") {
-    return { kind: "resolved", concrete: "" }
+    return { kind: "resolved", concrete: storageLegOf(rule) }
   }
   if (dest === CHARACTER_BY_PRIORITY) {
     return resolveCharacterByPriority(rule, facts, ctx)
@@ -60,6 +63,14 @@ export function resolveDestination(
     return resolveCompanionWornByPriority(facts, ctx)
   }
   return { kind: "resolved", concrete: dest }
+}
+
+function storageLegOf(rule: CompiledOrderedRule): string {
+  if (rule.action !== MOVE_TO || rule.destinationChain === undefined) return ""
+  for (const tier of rule.destinationChain) {
+    if (houseTarget(tier.destination) === undefined) return tier.destination
+  }
+  return ""
 }
 
 type EligibilityVerdict = boolean | "unknown"

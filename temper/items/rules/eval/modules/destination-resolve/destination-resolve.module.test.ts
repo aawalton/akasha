@@ -122,6 +122,23 @@ test("a chain with no fill tier leaves the flat destination to answer", () => {
   })
 })
 
+test("a move-to chain through houses resolves to its first leg that is no house", () => {
+  const rule: CompiledOrderedRule = {
+    categoryId: "all",
+    action: "move-to",
+    destinationChain: [
+      { destination: "house:12732" },
+      { destination: "house:8353" },
+      { destination: "furniture-vault" },
+    ],
+  }
+
+  expect(resolveDestination(rule, FACTS, ctxWith({}))).toEqual({
+    kind: "resolved",
+    concrete: "furniture-vault",
+  })
+})
+
 const MASTER_MOTIF_FACTS: ItemFacts = {
   itemId: 16428,
   itemName: "Crafting Motif 3: Wood Elf Style",

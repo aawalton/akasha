@@ -34,6 +34,14 @@ export const destinationResolve = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A move-to chain resolves to its first leg that is no house.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which house of a chain takes a furnishing is the house placement's to say.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A fill tier naming a character carries its own target quantity.",
     },
 
@@ -63,5 +71,5 @@ export const destinationResolve = {
     },
   ],
   createdAt: "2026-09-02T08:24:13.419Z",
-  updatedAt: "2026-09-27T15:46:13.000Z",
+  updatedAt: "2026-10-28T19:53:38.110Z",
 } as const satisfies Module
