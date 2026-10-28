@@ -30,7 +30,11 @@ export const giftedWomb = {
       fact: "Near ten on her first night, cult women gather round the mother and chant over her belly.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala hears the chant muffled through the walls, many women's voices, in words she does not know.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T21:48:20.815Z",
-  updatedAt: "2026-10-28T00:34:09.148Z",
+  updatedAt: "2026-10-28T00:38:42.534Z",
 } as const satisfies Place
