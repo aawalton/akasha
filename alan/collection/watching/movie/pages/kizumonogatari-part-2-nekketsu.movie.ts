@@ -15,9 +15,10 @@ export const kizumonogatariPart2Nekketsu = {
       source: "tmdb",
       externalId: "362584",
       externalLink: "https://www.themoviedb.org/movie/362584",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Kizumonogatari Part 2: Nekketsu",
   createdAt: "2026-10-28T18:52:46.419Z",
-  updatedAt: "2026-10-28T18:52:46.419Z",
+  updatedAt: "2026-10-28T19:47:37.584Z",
 } as const satisfies Movie
