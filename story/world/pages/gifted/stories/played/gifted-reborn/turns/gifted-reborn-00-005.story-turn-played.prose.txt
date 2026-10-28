@@ -18,3 +18,8 @@ note: Tier 1: 10 steps; Reward: Aether Core rises one grade
 :::
 
 You try the other one next, Path of the Completionist, and fix on it the same way.
+
+:::status-assessment
+name: Path of the Completionist
+note: Steps: one for each Path completed
+:::
