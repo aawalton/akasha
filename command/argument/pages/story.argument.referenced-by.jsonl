@@ -3,6 +3,7 @@
 {"propertySlug":"argument","path":"command/pages/story/chat/story-chat.command.ts","id":"01a17ec7-f439-7a26-afdd-d26a50ff074a"}
 {"propertySlug":"argument","path":"command/pages/story/clone-remove/story-clone-remove.command.ts","id":"01a17f3c-ea6c-7210-850f-82ad76e4702e"}
 {"propertySlug":"argument","path":"command/pages/story/clone/story-clone.command.ts","id":"01a17f38-e4a8-704c-b8f5-64a5048e96f6"}
+{"propertySlug":"argument","path":"command/pages/story/draft-clear/story-draft-clear.command.ts","id":"01a18333-a477-787a-ab76-8d04f6b67ee3"}
 {"propertySlug":"argument","path":"command/pages/story/montage/story-montage.command.ts","id":"01a17ef5-e63b-7d66-8b7e-d812cccdc2a8"}
 {"propertySlug":"argument","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"argument","path":"command/pages/story/state/story-state.command.ts","id":"01a10299-5dfe-7f4b-b89b-b0b3fe5b0896"}
@@ -12,6 +13,7 @@
 {"propertySlug":"import","fileName":"story.argument.ts","path":"command/pages/story/chat/story-chat.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story.argument.ts","path":"command/pages/story/clone-remove/story-clone-remove.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story.argument.ts","path":"command/pages/story/clone/story-clone.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story.argument.ts","path":"command/pages/story/draft-clear/story-draft-clear.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story.argument.ts","path":"command/pages/story/montage/modules/montage-taking/montage-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story.argument.ts","path":"command/pages/story/settle/modules/settle-taking/settle-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story.argument.ts","path":"command/pages/story/state/story-state.command.code.ts","typed":false,"deferred":false}

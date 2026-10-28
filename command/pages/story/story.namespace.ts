@@ -27,9 +27,10 @@ export const story = {
     "module/beat-rejoining",
     "command/story-clone",
     "command/story-clone-remove",
+    "command/story-draft-clear",
     "module/story-cloning",
   ],
   name: "story",
   createdAt: "2026-09-19T00:10:30.961Z",
-  updatedAt: "2026-10-27T21:21:01.035Z",
+  updatedAt: "2026-10-28T15:49:22.166Z",
 } as const satisfies Namespace

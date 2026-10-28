@@ -66,6 +66,10 @@ export const storyTurnTakeBack = {
       statement: "A take-back puts the turn's action in its story's action draft once it lands.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A take-back told to leave the draft empty takes any draft away instead.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A take-back sends no action, and the player alone sends the draft again.",
     },
@@ -76,7 +80,10 @@ export const storyTurnTakeBack = {
     },
   ],
   name: "take-back",
-  arguments: [{ argument: "argument/played-turn", required: true }],
+  arguments: [
+    { argument: "argument/played-turn", required: true },
+    { argument: "argument/empty-draft" },
+  ],
   createdAt: "2026-09-28T12:08:43.118Z",
-  updatedAt: "2026-10-28T15:02:27.222Z",
+  updatedAt: "2026-10-28T15:49:22.166Z",
 } as const satisfies Command

@@ -3,6 +3,7 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { emptyDraft } from "akasha/command/argument/pages/empty-draft.argument.ts"
 import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
 import {
   answeredWith,
@@ -30,7 +31,10 @@ import {
 } from "akasha/command/pages/story/turn/rewind/story-turn-rewind.command.code.ts"
 import { storyTurnTakeBack as page } from "akasha/command/pages/story/turn/take-back/story-turn-take-back.command.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import {
+  dropUncommitted,
+  mergeUncommitted,
+} from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { taking } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
@@ -41,7 +45,7 @@ import {
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { noticedOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 
-const NAMED = [playedTurn] as const
+const NAMED = [playedTurn, emptyDraft] as const
 
 const TAKEN_BACK = "taken back"
 
@@ -50,14 +54,15 @@ const ACTION = "action"
 const ACTION_DRAFT = "actionDraft"
 
 export type TakingBack = Unwinding & {
-  readonly draft: (root: string, game: string, action: string) => string | null
+  readonly draft: (root: string, game: string, action: string | null) => string | null
 }
 
-export function draftedBeside(root: string, game: string, action: string): string | null {
+export function draftedBeside(root: string, game: string, action: string | null): string | null {
   const story = listedAt(root, storyPlayed.slug, game)[0]
   if (story === undefined) return `\`${game}\` names no played story here`
   try {
-    mergeUncommitted(root, story.path, { [ACTION_DRAFT]: action })
+    if (action === null) dropUncommitted(root, story.path, [ACTION_DRAFT])
+    else mergeUncommitted(root, story.path, { [ACTION_DRAFT]: action })
     return null
   } catch (thrown) {
     return thrown instanceof Error ? thrown.message : String(thrown)
@@ -105,7 +110,20 @@ async function noticesOf(
 
 export type Drafting = { readonly draft: TakingBack["draft"] }
 
-export function draftedFor(reach: Drafting, root: string, game: string, turn: Turn, after: Told) {
+export function draftedFor(
+  reach: Drafting,
+  root: string,
+  game: string,
+  turn: Turn,
+  after: Told,
+  empty = false
+) {
+  if (empty) {
+    const why = reach.draft(root, game, null)
+    if (why === null) after.report.push(`emptied\t${game}\tthe action bar`)
+    else after.faults.push(`the action bar was not emptied: ${why}`)
+    return
+  }
   const action = textAt(turn.value, ACTION)
   if (action === null || action.trim() === "") return
   const why = reach.draft(root, game, action)
@@ -115,11 +133,12 @@ export function draftedFor(reach: Drafting, root: string, game: string, turn: Tu
 
 async function heldOn(
   done: string[],
-  slug: string,
+  asked: { readonly slug: string; readonly empty: boolean },
   given: Given,
   landing: Landing,
   reach: TakingBack
 ): Promise<Answer> {
+  const { slug } = asked
   const turn = reach.turnAt(given.root, slug)
   if (turn === null) return refused(`\`${slug}\` names no played turn here`, DATA)
   const held = heldOf(turn)
@@ -142,7 +161,7 @@ async function heldOn(
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   const report = [`${slug}\t${PLAYER}\t${TAKEN_BACK}`, `removed\t${turn.at}`, ...unmade.report]
   const after: Told = { report, faults: [] }
-  draftedFor(reach, given.root, held.game, turn, after)
+  draftedFor(reach, given.root, held.game, turn, after, asked.empty)
   if (reach.release(given.root, turn.at)) after.report.push(`discarded\tthe recorders' kept edits`)
   await noticesOf(reach, given.root, held.game, turn, after)
   if (after.faults.length === 0) return told(after.report)
@@ -163,7 +182,8 @@ async function takenBackOn(
   const slug = bareOf(named)
   const placed = reach.turnAt(given.root, slug)
   if (placed === null) return refused(`\`${named}\` names no played turn here`, DATA)
-  const holding = async () => await heldOn(done, slug, given, landing, reach)
+  const empty = read.taken.emptyDraft
+  const holding = async () => await heldOn(done, { slug, empty }, given, landing, reach)
   return await reach.hold(given.root, placed.at, holding)
 }
 

@@ -1429,6 +1429,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/sms/acting-account/sms-acting-account.command.ts","id":"01a0685f-c8ed-7007-a130-cda36891535f"}
 {"propertySlug":"decision-kind","path":"command/pages/sms/send/sms-send.command.ts","id":"01a0685f-c8ed-7008-b892-0bc284782555"}
 {"propertySlug":"decision-kind","path":"command/pages/story/chapter-split/story-chapter-split.command.ts","id":"01a11e27-6965-7ec9-8488-9f10a67dd3fe"}
+{"propertySlug":"decision-kind","path":"command/pages/story/draft-clear/story-draft-clear.command.ts","id":"01a18333-a477-787a-ab76-8d04f6b67ee3"}
 {"propertySlug":"decision-kind","path":"command/pages/story/join-unread/story-join-unread.command.ts","id":"01a0eb0e-4c4f-7211-8fd9-ee922888c35a"}
 {"propertySlug":"decision-kind","path":"command/pages/story/modules/beat-rejoining/beat-rejoining.module.ts","id":"01a11e2e-ddaa-739b-8dff-3466106f1697"}
 {"propertySlug":"decision-kind","path":"command/pages/story/modules/settle-asking/settle-asking.module.ts","id":"01a0e9ee-b5f2-7312-a0d8-7655c24d47a2"}
