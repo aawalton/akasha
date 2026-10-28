@@ -14,6 +14,7 @@
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-b5b7365e/rule-b5b7365e.temper-inventory-rule.ts","id":"01a0728b-10d0-7097-8b5d-be99c850cbd4"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-companion-epic-nothing/rule-companion-epic-nothing.temper-inventory-rule.ts","id":"01a0728b-10d1-750f-b02c-48d90d221ac4"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-containers-stackable-bank/rule-containers-stackable-bank.temper-inventory-rule.ts","id":"01a0728b-10d1-77a7-85d4-209b05b2a2af"}
+{"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-crafted-character-bank/rule-crafted-character-bank.temper-inventory-rule.ts","id":"01a18472-f749-7276-9fe0-f42be9ad4a2d"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-crafting-craft-bag/rule-crafting-craft-bag.temper-inventory-rule.ts","id":"01a0728b-10d2-70aa-8330-5161e02e35a1"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-d21e3976/rule-d21e3976.temper-inventory-rule.ts","id":"01a0728b-2e7c-700a-b579-0c6a247a52ef"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-f48e4c64/rule-f48e4c64.temper-inventory-rule.ts","id":"01a0728b-2e7d-7785-8700-5b97ccef538d"}
@@ -38,7 +39,9 @@
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-master-writs-bank/rule-master-writs-bank.temper-inventory-rule.ts","id":"01a0728b-4fbd-7216-a904-e163cc67b526"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-mythic-house-storage-bank/rule-mythic-house-storage-bank.temper-inventory-rule.ts","id":"01a183f5-2a75-7f92-a95d-61da05eb6192"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-other-currency-bank/rule-other-currency-bank.temper-inventory-rule.ts","id":"01a0728b-6d6d-7c4b-ad71-6b92012f5852"}
+{"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-reconstructed-character-bank/rule-reconstructed-character-bank.temper-inventory-rule.ts","id":"01a18472-f74a-76b2-95da-801cdd5c54db"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-ring-of-mara-wealth/rule-ring-of-mara-wealth.temper-inventory-rule.ts","id":"01a183f5-9f10-7bc1-adea-be38daf3d2a5"}
+{"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-transmuted-character-bank/rule-transmuted-character-bank.temper-inventory-rule.ts","id":"01a18472-f74a-7e2e-bf1c-9f96498bb1db"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-treasure-maps-bank/rule-treasure-maps-bank.temper-inventory-rule.ts","id":"01a0728b-8ebf-7ddd-8ba9-20cfde237207"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-treasures-legendary-wealth/rule-treasures-legendary-wealth.temper-inventory-rule.ts","id":"01a183e3-42b3-7781-b789-f51fc20c59b0"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-trophies-bank/rule-trophies-bank.temper-inventory-rule.ts","id":"01a0728b-8ec1-75fa-80ed-81a19e273ed8"}

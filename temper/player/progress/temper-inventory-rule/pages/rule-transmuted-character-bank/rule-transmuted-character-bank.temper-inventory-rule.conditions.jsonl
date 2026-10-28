@@ -1,0 +1,4 @@
+{"id":"01a18472-ed39-76ab-8576-98cf6016ea8e","conditionField":"temper-condition-field/transmuted","conditionValue":"transmuted"}
+{"id":"01a18472-ed39-7eab-92a0-a41e15065ab2","conditionField":"temper-condition-field/location","conditionValue":"[\"backpack\"]"}
+{"id":"01a18472-ed39-72af-9c62-0605b4137843","conditionField":"temper-condition-field/is-target-equip","conditionValue":"not-target-equip"}
+{"id":"01a18472-ed39-7588-86d5-e7fc73174cbb","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
