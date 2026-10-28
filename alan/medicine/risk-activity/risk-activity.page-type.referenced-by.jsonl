@@ -1,5 +1,9 @@
+{"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/climbing-indoor.risk-activity.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/climbing-outdoor.risk-activity.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/commercial-air-travel.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/day-hiking.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/driving-car.risk-activity.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/general-anesthesia-elective.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/motorcycle.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/open-water-swimming.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/road-cycling.risk-activity.ts","typed":true,"deferred":false}
