@@ -29,6 +29,14 @@ export const royalRoadFollows = {
       statement: "Every page of the follow list is read, as many as its paging names.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "Royal Road's paging names a next page even on a page past the list's end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Reading a list stops at the first page that holds no fiction.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A listed fiction is known by the id and slug the first link to it in its card names.",
@@ -59,5 +67,5 @@ export const royalRoadFollows = {
     },
   ],
   createdAt: "2026-09-28T19:38:50.516Z",
-  updatedAt: "2026-10-28T14:34:48.002Z",
+  updatedAt: "2026-10-28T15:43:28.833Z",
 } as const satisfies Module

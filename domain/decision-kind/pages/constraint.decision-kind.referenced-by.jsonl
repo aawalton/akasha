@@ -113,6 +113,7 @@
 {"propertySlug":"decision-kind","path":"agent/tool/agent-tool.domain.ts","id":"01a0c9c6-00a0-70ba-b6e7-287a93b83d07"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/modules/location-capture-client/location-capture-client.module.ts","id":"01a06582-6b30-7bd3-9a85-c6ccf0abc52e"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-api-places-add/atlas-api-places-add.route.ts","id":"01a0883b-b4dd-7183-8f6a-4afc210a6fc8"}
+{"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/follows/royal-road-follows.module.ts","id":"01a0e986-f314-7174-aae1-bf1aabba3853"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/pages/royal-road-pages.module.ts","id":"01a0657f-4492-7001-ad86-00f3e943bd74"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/reading/royal-road-reading.module.ts","id":"01a0e98b-04bc-714d-81d9-07c7ec2edde1"}
 {"propertySlug":"decision-kind","path":"alan/couples-therapy/couples-call/modules/audio/couples-call-audio.module.ts","id":"01a16fae-6058-7ed4-879d-925bc538cc54"}

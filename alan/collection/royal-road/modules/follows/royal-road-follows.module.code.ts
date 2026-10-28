@@ -111,6 +111,7 @@ async function readList(path: string, named: string): Promise<readonly Listed[]>
     const url = royalRoadUrl(`${path}?page=${page}`)
     const read = parseFollowPage(await fetchHtml(url, true))
     if (read === null) throw new SignInRefused(`${url} answered with no ${named}`)
+    if (read.followed.length === 0) break
     listed.push(...read.followed)
     pages = read.pages
   }
