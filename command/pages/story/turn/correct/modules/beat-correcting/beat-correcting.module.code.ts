@@ -42,7 +42,7 @@ export type Correction = {
   readonly changes: readonly BeatChange[]
 }
 
-export type Corrected = {
+type Corrected = {
   readonly namings: readonly Naming[]
   readonly files: readonly { readonly at: string; readonly content: string }[]
   readonly report: readonly string[]
