@@ -114,13 +114,6 @@ function healthyYearsOf(model: Model): Float64Array {
   return run.expectancy.map((lived) => (lived - model.held.age) * HEALTHY_SHARE)
 }
 
-export function disabilityYearsOf(one: Activity): number {
-  return one.injuries.reduce(
-    (sum, injury) => sum + (injury.perMillion / MILLION) * injury.weight * injury.years,
-    0
-  )
-}
-
 export type Price = {
   readonly total: Spread
   readonly death: Spread

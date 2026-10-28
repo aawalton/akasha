@@ -3,7 +3,6 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import {
   type Activity,
   activityOf,
-  disabilityYearsOf,
   drawnFrom,
   figureOf,
   medicineActivity,
@@ -102,10 +101,6 @@ test("an activity is read off its page's values", () => {
   expect(read.injuries).toHaveLength(1)
   expect(read.injuries[0]?.perMillionLow).toBe(30)
   expect(read.injuries[0]?.perMillionHigh).toBeNull()
-})
-
-test("an injury costs its rate times its weight times its years", () => {
-  expect(disabilityYearsOf(HIKE)).toBeCloseTo(100e-6 * 0.05 * 0.5, 12)
 })
 
 test("micromorts that are no range are refused", () => {
