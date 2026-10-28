@@ -12,6 +12,7 @@ export const skillLockProbe00001 = {
   stepStatus: "step-status/player",
   action: "I draw my sword and cut the taper on the counter in half.",
   ownLength: 41,
+  outcomes: "jsonl",
   createdAt: "2026-10-28T00:46:26.113Z",
-  updatedAt: "2026-10-28T00:46:26.113Z",
+  updatedAt: "2026-10-28T00:48:41.101Z",
 } as const satisfies StoryTurnPlayed
