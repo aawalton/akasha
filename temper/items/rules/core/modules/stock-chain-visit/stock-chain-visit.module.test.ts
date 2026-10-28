@@ -60,10 +60,11 @@ test("a chain sending to no character answers no plan", () => {
 
 const EMPTY_SOUL_GEMS: DestinationChain = [
   { destination: "character:by-priority", targetQuantity: 200 },
-  { destination: "bank" },
+  { destination: "bank", targetQuantity: 200 },
+  { destination: "vendor" },
 ]
 
-test("every character stocks 200 empty soul gems and banks every other empty soul gem", async () => {
+test("every character and the bank stock 200 empty soul gems, and the rest sell", async () => {
   expect(ruleSoulGemsEmptyStock.action).toEndWith(`/${stock.slug}`)
   const text = await Bun.file(
     new URL(
@@ -78,19 +79,23 @@ test("every character stocks 200 empty soul gems and banks every other empty sou
   if (plan === undefined) throw new Error("the empty soul gem chain answered no plan")
   expect(chainFillsCharacter(plan, ERIN)).toBe(true)
   expect(chainFillsCharacter(plan, OTHER)).toBe(true)
-  expect(plan.surplusCascade).toEqual([{ destination: "bank", cap: undefined }])
+  expect(plan.surplusCascade).toEqual([
+    { destination: "bank", cap: 200 },
+    { destination: "vendor", cap: undefined },
+  ])
 
-  function bankVisit(backpackCount: number): ReturnType<typeof planStockReconcile> {
+  function bankVisit(backpackCount: number, banked = 0): ReturnType<typeof planStockReconcile> {
     return planStockReconcile({
       selfTarget: plan?.fillTargetQuantity ?? 0,
       backpackCount,
-      openTierCap: undefined,
-      openTierStorageCount: 0,
+      openTierCap: plan?.surplusCascade[0]?.cap,
+      openTierStorageCount: banked,
       withdrawableFromOpen: 1000,
     })
   }
   expect(bankVisit(0)).toEqual({ direction: "withdraw", count: 200 })
   expect(bankVisit(150)).toEqual({ direction: "withdraw", count: 50 })
   expect(bankVisit(200)).toEqual({ direction: "none", count: 0 })
-  expect(bankVisit(500)).toEqual({ direction: "deposit", count: 300 })
+  expect(bankVisit(500)).toEqual({ direction: "deposit", count: 200 })
+  expect(bankVisit(500, 200)).toEqual({ direction: "none", count: 0 })
 })
