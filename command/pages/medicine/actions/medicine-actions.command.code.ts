@@ -20,12 +20,27 @@ import {
   spreadOf,
 } from "akasha/command/pages/medicine/modules/mortality-model/mortality-model.module.code.ts"
 import {
+  type Evidence,
   LEVERS,
   type Lever,
   UNMODELLED,
 } from "akasha/command/pages/medicine/modules/mortality-readings/mortality-readings.module.code.ts"
 
-const NAME_WIDTH = 28
+const NAME_WIDTH = 36
+
+const MARKS: Readonly<Record<Evidence, string>> = {
+  trial: "",
+  observational: " *",
+  confounded: " †",
+}
+
+const NOTES: Readonly<Record<Evidence, string>> = {
+  trial: "",
+  observational:
+    "* rests on observational studies only: an association, not a proven effect of acting",
+  confounded:
+    "† an association largely explained by confounding and reverse causation, not a recommendation",
+}
 
 const GAIN_WIDTH = 26
 
@@ -39,6 +54,7 @@ export type Moved = { readonly cause: string; readonly points: number }
 
 export type Acted = {
   readonly named: string
+  readonly evidence: Evidence
   readonly gain: Spread
   readonly moved: readonly Moved[]
 }
@@ -57,7 +73,15 @@ export function movedOf(moved: readonly Moved[]): string {
 }
 
 export function rowOf(one: Acted): string {
-  return `  ${one.named.padEnd(NAME_WIDTH)}${gainOf(one.gain).padEnd(GAIN_WIDTH)}${movedOf(one.moved)}`
+  const named = `${one.named}${MARKS[one.evidence]}`
+  return `  ${named.padEnd(NAME_WIDTH)}${gainOf(one.gain).padEnd(GAIN_WIDTH)}${movedOf(one.moved)}`
+}
+
+export function notesOf(acted: readonly Acted[]): readonly string[] {
+  const kinds = new Set(acted.map((one) => one.evidence))
+  return (["observational", "confounded"] as const)
+    .filter((kind) => kinds.has(kind))
+    .map((kind) => NOTES[kind])
 }
 
 const LAST_AGE = 100
@@ -90,6 +114,7 @@ function actOf(model: Model, before: Run, lever: Lever): Acted {
     .sort((a, b) => a.points - b.points)
   return {
     named: lever.named,
+    evidence: lever.evidence,
     gain: spreadOf(differenceOf(after.expectancy, before.expectancy)),
     moved,
   }
@@ -108,6 +133,7 @@ function saidOf(acted: readonly Acted[]): readonly string[] {
     `  ${"action".padEnd(NAME_WIDTH)}${"years added".padEnd(GAIN_WIDTH)}change in the chance of dying of each cause`,
     ...acted.map(rowOf),
     "",
+    ...(notesOf(acted).length === 0 ? [] : [...notesOf(acted), ""]),
     ...(UNMODELLED.length === 0
       ? []
       : ["not modelled", ...UNMODELLED.map((one) => `  ${one}`), ""]),

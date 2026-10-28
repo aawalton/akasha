@@ -262,31 +262,50 @@ export function habitsIn(person: Value): Pick<Held, "neverSmoked" | "neverDrank"
   }
 }
 
+export type Evidence = "trial" | "observational" | "confounded"
+
 export type Lever = {
   readonly named: string
+  readonly evidence: Evidence
   readonly to: (held: Held) => Held
 }
 
 export const LEVERS: readonly Lever[] = [
   {
     named: "steps up to 7,000 a day",
+    evidence: "observational",
     to: (held) => ({
       ...held,
       steps: held.steps === null ? STEPS_TOP : Math.max(held.steps, STEPS_TOP),
     }),
   },
-  { named: "no red or processed meat", to: (held) => ({ ...held, meatPerDay: 0 }) },
+  {
+    named: "no red or processed meat",
+    evidence: "observational",
+    to: (held) => ({ ...held, meatPerDay: 0 }),
+  },
   {
     named: "sleep down to 7 hours",
+    evidence: "confounded",
     to: (held) => ({
       ...held,
       sleepHours: held.sleepHours === null ? null : Math.min(held.sleepHours, SLEEP_FLOOR_HOURS),
     }),
   },
-  { named: "stopping stimulants", to: (held) => ({ ...held, onStimulant: false }) },
+  {
+    named: "stopping stimulants",
+    evidence: "observational",
+    to: (held) => ({ ...held, onStimulant: false }),
+  },
   {
     named: "weight down to BMI 25",
+    evidence: "observational",
     to: (held) => ({ ...held, bmi: held.bmi === null ? null : Math.min(held.bmi, 25) }),
+  },
+  {
+    named: "safety level held at 3 or above",
+    evidence: "observational",
+    to: (held) => ({ ...held, shareBelowThree: 0, shareBelowZero: 0 }),
   },
 ]
 

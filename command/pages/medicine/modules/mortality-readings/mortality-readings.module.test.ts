@@ -74,3 +74,17 @@ test("an action changes only what it names", () => {
   const meat = LEVERS.find((one) => one.named.includes("meat"))
   expect(meat?.to(HELD)).toEqual({ ...HELD, meatPerDay: 0 })
 })
+
+test("holding the safety level at 3 or above takes away the time below 3 and below 0", () => {
+  const safety = LEVERS.find((one) => one.named.includes("safety level"))
+  expect(safety?.to({ ...HELD, shareBelowZero: 0.1 })).toEqual({
+    ...HELD,
+    shareBelowThree: 0,
+    shareBelowZero: 0,
+  })
+})
+
+test("only long sleep is marked as confounded", () => {
+  const confounded = LEVERS.filter((one) => one.evidence === "confounded").map((one) => one.named)
+  expect(confounded).toEqual(["sleep down to 7 hours"])
+})
