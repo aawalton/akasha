@@ -3,6 +3,7 @@ import {
   closed,
   closingsOf,
   linesBesideMastery,
+  masteriesOfOtherClass,
 } from "akasha/command/pages/temper/build-show/modules/build-show-gaps/build-show-gaps.module.code.ts"
 import {
   CHARACTER_HASH as CHARACTER,
@@ -74,4 +75,13 @@ test("a mastery beside a skill line of another class names that line", () => {
   expect(linesBesideMastery(build)).toEqual(["arcanist-herald-of-the-tome"])
   build.masteries = []
   expect(linesBesideMastery(build)).toEqual([])
+})
+
+test("a mastery of a class other than the build's own is named", () => {
+  const build = structuredClone(decoded(DESIGN))
+  build.character.class = "nightblade"
+  build.masteries = ["nocturnal-inspiration"]
+  expect(masteriesOfOtherClass(build)).toEqual([])
+  build.masteries = ["nocturnal-inspiration", "abyssal-emergence"]
+  expect(masteriesOfOtherClass(build)).toEqual(["abyssal-emergence"])
 })

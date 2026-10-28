@@ -3,6 +3,7 @@ import { championPoints } from "akasha/temper/catalog/champion-point/modules/cha
 import { equipmentQualities } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { getSkillLineIdsForClass } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import { skillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { vampireStages } from "akasha/temper/player/character/source/modules/vampire-stages/vampire-stages.module.code.ts"
 
 type Build = CharacterState
@@ -38,6 +39,13 @@ export function linesBesideMastery(build: Build): readonly string[] {
   if ((build.masteries ?? []).length === 0) return []
   const own = getSkillLineIdsForClass(build.character.class)
   return build.character.skillLineIds.filter((line) => !none(line) && !own.includes(line))
+}
+
+export function masteriesOfOtherClass(build: Build): readonly string[] {
+  const masteries = skillCatalog().classMasteries.data
+  return (build.masteries ?? []).filter(
+    (mastery) => masteries[mastery]?.classId !== build.character.class
+  )
 }
 
 export function closed(build: Build, closing: Closing): Build {

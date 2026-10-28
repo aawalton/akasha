@@ -25,7 +25,10 @@ import {
   gapsOf,
   targetStatOf,
 } from "akasha/command/pages/temper/build-show/modules/build-show-gap-stats/build-show-gap-stats.module.code.ts"
-import { linesBesideMastery } from "akasha/command/pages/temper/build-show/modules/build-show-gaps/build-show-gaps.module.code.ts"
+import {
+  linesBesideMastery,
+  masteriesOfOtherClass,
+} from "akasha/command/pages/temper/build-show/modules/build-show-gaps/build-show-gaps.module.code.ts"
 import {
   AS_HASH,
   type Named,
@@ -115,6 +118,13 @@ function gapsAnswer(root: string, design: Shown, said: string, asJsonToo: boolea
   if (beside.length > 0) {
     return refused(
       `\`${design.named.said}\` holds a mastery beside a skill line of another class: ${beside.join(", ")}`,
+      INPUT
+    )
+  }
+  const foreign = masteriesOfOtherClass(wanted)
+  if (foreign.length > 0) {
+    return refused(
+      `\`${design.named.said}\` holds a mastery of a class other than its own: ${foreign.join(", ")}`,
       INPUT
     )
   }

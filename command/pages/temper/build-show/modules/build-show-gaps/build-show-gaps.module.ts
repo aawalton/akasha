@@ -37,7 +37,11 @@ export const buildShowGaps = {
       decisionKind: "decision-kind/departure",
       statement: "A design holding a mastery beside another class's skill line is refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A design holding a mastery of a class other than its own is refused.",
+    },
   ],
   createdAt: "2026-10-20T15:54:35.482Z",
-  updatedAt: "2026-10-28T20:19:33.857Z",
+  updatedAt: "2026-10-28T20:21:33.193Z",
 } as const satisfies Module
