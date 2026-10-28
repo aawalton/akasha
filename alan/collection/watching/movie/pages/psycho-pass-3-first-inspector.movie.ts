@@ -15,9 +15,11 @@ export const psychoPass3FirstInspector = {
       source: "tmdb",
       externalId: "655431",
       externalLink: "https://www.themoviedb.org/movie/655431",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Psycho-Pass 3: First Inspector",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:51:58.669Z",
-  updatedAt: "2026-10-28T18:51:58.669Z",
+  updatedAt: "2026-10-28T19:47:50.014Z",
 } as const satisfies Movie
