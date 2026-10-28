@@ -284,3 +284,45 @@ test("a TMDB show link does not reach a film stating the same number", async () 
   expect(fake.written).toHaveLength(0)
   expect(said.refusals.length).toBeGreaterThan(0)
 })
+
+test("a title no page holds is written as part of the collection named", async () => {
+  const answer = wikidataSaying({ label: "The Apothecary Diaries", film: "false", series: "true" })
+  const fake = fakeOf({}, answer)
+  await watchingLog(
+    ["--link", NETFLIX.externalLink, "--status", "not-started", "--part-of", "fandom/a"],
+    GIVEN,
+    fake.calls
+  )
+  expect(fake.written[0]?.pages?.[0]?.values.partOfCollections).toEqual(["fandom/a"])
+})
+
+test("a page already held is made part of the collection named beside its own", async () => {
+  const row = {
+    slug: "a",
+    title: "A",
+    status: "completed",
+    externalIdentity: [NETFLIX],
+    partOfCollections: ["fandom/b"],
+  }
+  const fake = fakeOf({ show: [row] }, null)
+  const said = await watchingLog(
+    ["--link", NETFLIX.externalLink, "--part-of", "fandom/a"],
+    GIVEN,
+    fake.calls
+  )
+  expect(said.report).toEqual(["show/a  completed  updated"])
+  expect(fake.written[0]?.pages?.[0]?.values).toEqual({
+    partOfCollections: ["fandom/b", "fandom/a"],
+  })
+})
+
+test("a collection not written as its page type and slug is refused", async () => {
+  const fake = fakeOf({}, {})
+  const said = await watchingLog(
+    ["--link", NETFLIX.externalLink, "--part-of", "Attack on Titan"],
+    GIVEN,
+    fake.calls
+  )
+  expect(said.refusals[0]).toContain("is no collection")
+  expect(fake.written).toHaveLength(0)
+})

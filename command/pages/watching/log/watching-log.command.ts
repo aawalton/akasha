@@ -69,6 +69,18 @@ export const watchingLog = {
       decisionKind: "decision-kind/departure",
       statement: "A call naming no status logs the title as in progress.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A show no page holds is shelved as it is written, unless it is logged completed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A show TMDB names no id for is written alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call saying `--part-of` makes the title part of that collection too.",
+    },
   ],
   parts: ["module/episode-watching"],
   name: "log",
@@ -77,7 +89,8 @@ export const watchingLog = {
     { argument: "argument/collection-status" },
     { argument: "argument/episode", notWith: ["argument/collection-status"] },
     { argument: "argument/day" },
+    { argument: "argument/part-of", notWith: ["argument/episode"] },
   ],
   createdAt: "2026-10-14T19:15:57.587Z",
-  updatedAt: "2026-10-25T23:38:46.276Z",
+  updatedAt: "2026-10-28T18:36:47.934Z",
 } as const satisfies Command

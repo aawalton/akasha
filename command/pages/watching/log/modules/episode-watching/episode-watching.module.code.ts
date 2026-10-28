@@ -324,3 +324,28 @@ export function plannedFor(
   report.push(`${episode.slug}/${next.slug}  ${COMPLETED}`)
   return { pages, report }
 }
+
+export function shelvedFor(
+  shown: HeldShow,
+  tv: string,
+  aired: readonly AiredSeason[],
+  seasons: readonly HeldSeason[],
+  episodes: readonly HeldEpisode[]
+): Planned {
+  const laid = laidOut(shown, tv, aired, seasons, episodes)
+  const pages: Naming[] = []
+  const report: string[] = []
+  for (const at of laid.seasonOf.values()) {
+    if (at.fresh === null) continue
+    pages.push({ pageTypeSlug: season.slug, slug: at.slug, fresh: true, values: at.fresh })
+    report.push(`${season.slug}/${at.slug}  created`)
+  }
+  let created = 0
+  for (const one of laid.placed) {
+    if (one.fresh === null) continue
+    created += 1
+    pages.push({ pageTypeSlug: episode.slug, slug: one.slug, fresh: true, values: one.fresh })
+  }
+  if (created > 0) report.push(`${String(created)} episodes created`)
+  return { pages, report }
+}

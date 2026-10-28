@@ -9,6 +9,7 @@ import { collectionStatus } from "akasha/command/argument/pages/collection-statu
 import { day as dayArgument } from "akasha/command/argument/pages/day.argument.ts"
 import { episode as episodeArgument } from "akasha/command/argument/pages/episode.argument.ts"
 import { link } from "akasha/command/argument/pages/link.argument.ts"
+import { partOf as partOfArgument } from "akasha/command/argument/pages/part-of.argument.ts"
 import {
   DATA,
   faulted,
@@ -21,6 +22,7 @@ import {
   type HeldShow,
   heldUnder,
   plannedFor,
+  shelvedFor,
   tmdbIdentityOf,
   tmdbIdOf,
 } from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
@@ -53,6 +55,7 @@ type Held = {
   readonly title: string
   readonly status: string | null
   readonly identities: readonly Row[]
+  readonly parts: readonly string[]
 }
 
 type Found = {
@@ -79,6 +82,8 @@ const MINUTES = `${unit.slug}/${minutes.slug}`
 
 const A_DAY = /^\d{4}-\d{2}-\d{2}$/
 
+const A_COLLECTION = /^[a-z][a-z-]*\/[a-z0-9][a-z0-9-]*$/
+
 function dayNow(now: Date): string {
   const wall = mountainWallAt(now)
   return `${String(wall.year)}-${padTwo(wall.month)}-${padTwo(wall.day)}`
@@ -93,7 +98,11 @@ function heldIn(kind: Kind, row: Row): Held | null {
   const identities = Array.isArray(said)
     ? said.filter((one): one is Row => one !== null && typeof one === "object")
     : []
-  return { kind, slug, title, status, identities }
+  const parted = row.partOfCollections
+  const parts = Array.isArray(parted)
+    ? parted.filter((one): one is string => typeof one === "string")
+    : []
+  return { kind, slug, title, status, identities, parts }
 }
 
 function names(held: Held, linked: Linked): boolean {
@@ -120,7 +129,7 @@ async function found(linked: Linked, calls: Calls): Promise<Found | string> {
   for (const kind of KINDS) {
     const rows = await calls.ask({
       pageTypeSlug: kind,
-      keys: ["slug", "title", "status", "externalIdentity"],
+      keys: ["slug", "title", "status", "externalIdentity", "partOfCollections"],
     })
     if ("refused" in rows) return rows.refused
     at = rows.at ?? at
@@ -146,12 +155,14 @@ export function freshValues(
   known: Known,
   linked: Linked,
   status: string,
-  day: string
+  day: string,
+  partOf: string | null = null
 ): Readonly<Record<string, unknown>> {
   const done = status === COMPLETED
   const length = known.minutes ?? 0
   return {
     title: known.title,
+    ...(partOf === null ? {} : { partOfCollections: [partOf] }),
     ownLength: length,
     ownProgress: done ? length : 0,
     unit: MINUTES,
@@ -166,13 +177,35 @@ function keptValues(
   held: Held,
   linked: Linked,
   status: string,
-  day: string
+  day: string,
+  partOf: string | null
 ): Readonly<Record<string, unknown>> {
   const identity = names(held, linked)
     ? {}
     : { externalIdentity: [...held.identities, identityOf(linked)] }
-  if (held.status === COMPLETED || held.status === status) return identity
-  return { status, ...(status === COMPLETED ? { completedAt: day } : {}), ...identity }
+  const placed =
+    partOf === null || held.parts.includes(partOf)
+      ? {}
+      : { partOfCollections: [...held.parts, partOf] }
+  if (held.status === COMPLETED || held.status === status) return { ...identity, ...placed }
+  return { status, ...(status === COMPLETED ? { completedAt: day } : {}), ...identity, ...placed }
+}
+
+async function shelvedUnder(
+  known: Known,
+  linked: Linked,
+  slug: string,
+  status: string,
+  calls: Calls
+): Promise<ReturnType<typeof shelvedFor> | string> {
+  const nothing = { pages: [], report: [] }
+  if (known.kind !== show.slug || status === COMPLETED || known.tmdbId === null) return nothing
+  const token = tokenSaid()
+  if (token === null) return nothing
+  const aired = await airedFor(calls, token, known.tmdbId)
+  if (aired === null) return `TMDB answered nothing for its show ${known.tmdbId}`
+  const shown: HeldShow = { slug, title: known.title, status, identities: [identityOf(linked)] }
+  return shelvedFor(shown, known.tmdbId, aired, [], [])
 }
 
 function unknownSaid(linked: Linked): string {
@@ -188,11 +221,12 @@ async function titleLogged(
   status: string,
   day: string,
   calls: Calls,
-  at: Found
+  at: Found,
+  partOf: string | null
 ): Promise<Answer> {
   const { held, known } = at
   if (held !== null) {
-    const values = keptValues(held, linked, status, day)
+    const values = keptValues(held, linked, status, day, partOf)
     const named = `${held.kind}/${held.slug}`
     if (Object.keys(values).length === 0) return told([`${named}  ${held.status ?? ""}  unchanged`])
     const wrote = await calls.write({
@@ -207,6 +241,8 @@ async function titleLogged(
   }
   if (known === null) return refusedBy([unknownSaid(linked)], DATA)
   const slug = slugOf(known.title)
+  const shelved = await shelvedUnder(known, linked, slug, status, calls)
+  if (typeof shelved === "string") return refusedBy([shelved], OPERATIONAL)
   const wrote = await calls.write({
     writer: WRITER,
     message: `${known.title} is logged as ${status}`,
@@ -215,12 +251,13 @@ async function titleLogged(
         pageTypeSlug: known.kind,
         slug,
         fresh: true,
-        values: freshValues(known, linked, status, day),
+        values: freshValues(known, linked, status, day, partOf),
       },
+      ...shelved.pages,
     ],
   })
   if ("refused" in wrote) return refusedBy([wrote.refused], OPERATIONAL)
-  return told([`${known.kind}/${slug}  ${status}  created`])
+  return told([`${known.kind}/${slug}  ${status}  created`, ...shelved.report])
 }
 
 async function tmdbFor(
@@ -305,13 +342,18 @@ export async function watchingLog(
     collectionStatus,
     episodeArgument,
     dayArgument,
+    partOfArgument,
   ])
   if ("refused" in read) return refusedBy(read.refused)
   const linked = linkedBy(read.taken.link)
   const status = read.taken.collectionStatus ?? IN_PROGRESS
   const day = read.taken.day ?? dayNow(new Date())
+  const partOf = read.taken.partOf ?? null
   const refusals: string[] = []
   if (typeof linked === "string") refusals.push(linked)
+  if (partOf !== null && !A_COLLECTION.test(partOf)) {
+    refusals.push(`\`${partOf}\` is no collection, which is written as its page type and slug`)
+  }
   if (!(statusProperty.values as readonly string[]).includes(status)) {
     refusals.push(`\`${status}\` is no status, which is one of ${statusProperty.values.join(", ")}`)
   }
@@ -321,7 +363,7 @@ export async function watchingLog(
     const at = await found(linked, calls)
     if (typeof at === "string") return refusedBy([at], OPERATIONAL)
     if (read.taken.episode) return await episodeLogged(linked, day, calls, at)
-    return await titleLogged(linked, status, day, calls, at)
+    return await titleLogged(linked, status, day, calls, at, partOf)
   } catch (thrown) {
     return faulted(thrown)
   }

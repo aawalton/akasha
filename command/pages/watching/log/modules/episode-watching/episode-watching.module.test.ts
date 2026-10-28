@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type HeldShow,
   plannedFor,
+  shelvedFor,
 } from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
 import {
   type AiredEpisode,
@@ -171,4 +172,28 @@ test("a show whose every episode is watched is refused", () => {
     "2026-10-16"
   )
   expect(planned).toContain("is watched already")
+})
+
+test("a show shelved is given every season and episode, none of them watched", () => {
+  const shelved = shelvedFor(SHOWN, "123249", [airedSeason(1, 2), airedSeason(2, 1)], [], [])
+  expect(shelved.pages.map((one) => one.slug)).toEqual([
+    "my-dress-up-darling-season-1",
+    "my-dress-up-darling-season-2",
+    "my-dress-up-darling-s01e01",
+    "my-dress-up-darling-s01e02",
+    "my-dress-up-darling-s02e01",
+  ])
+  expect(shelved.pages.every((one) => one.values.status === "not-started")).toBe(true)
+  expect(shelved.pages.every((one) => one.values.ownProgress === 0)).toBe(true)
+})
+
+test("a show shelved again writes only what the catalogue lacks", () => {
+  const shelved = shelvedFor(
+    SHOWN,
+    "123249",
+    [airedSeason(1, 2)],
+    [HELD_SEASON],
+    [heldEpisode(1, "completed")]
+  )
+  expect(shelved.pages.map((one) => one.slug)).toEqual(["my-dress-up-darling-s01e02"])
 })

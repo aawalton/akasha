@@ -48,7 +48,12 @@ export const episodeWatching = {
       decisionKind: "decision-kind/departure",
       statement: "A show logged this way states its TMDB id.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A show shelved is given every season and episode TMDB lists, none of them watched.",
+    },
   ],
   createdAt: "2026-10-16T11:21:36.767Z",
-  updatedAt: "2026-10-16T11:34:10.158Z",
+  updatedAt: "2026-10-28T18:36:47.934Z",
 } as const satisfies Module
