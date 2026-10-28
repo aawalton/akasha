@@ -42,10 +42,14 @@ export const charactersBuildBars = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What a skill respec did is said once the game answers it, refusal and all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A scribed skill is named rather than slotted, since its target has no ability id.",
     },
   ],
   createdAt: "2026-10-28T20:48:22.497Z",
-  updatedAt: "2026-10-28T21:08:49.086Z",
+  updatedAt: "2026-10-28T21:17:38.630Z",
 } as const satisfies Module

@@ -204,7 +204,7 @@ export function refreshTargetPanel(this: void): undefined {
   }
   panel.window.SetDimensions(widest + PADDING * 2, top - SECTION_GAP + PADDING)
   placeBeside(panel.window)
-  panel.window.SetHidden(false)
+  panel.window.SetHidden(!STATS_SCENE.IsShowing())
   return undefined
 }
 

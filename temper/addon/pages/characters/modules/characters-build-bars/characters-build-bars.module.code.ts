@@ -233,9 +233,18 @@ function respecFor(
       }
       workOn(needs, kept, work, true)
       const cost = GetSkillRespecCost(mode)
-      SKILLS_AND_ACTION_BAR_MANAGER.ApplyChanges()
       const paid = cost > 0 ? ` Skill respec for ${cost} gold.` : ""
-      barsSaid(`${saidOf(work)}${paid}`)
+      const answered = (_event: number, result: number): undefined => {
+        EVENT_MANAGER.UnregisterForEvent(RESPEC_NAME, EVENT_SKILL_RESPEC_RESULT)
+        const refused =
+          result === RESPEC_RESULT_SUCCESS
+            ? ""
+            : ` The game refused the respec: ${GetString("SI_RESPECRESULT", result)}`
+        return barsSaid(`${saidOf(work)}${paid}${refused}`)
+      }
+      EVENT_MANAGER.RegisterForEvent(RESPEC_NAME, EVENT_SKILL_RESPEC_RESULT, answered)
+      SKILLS_AND_ACTION_BAR_MANAGER.ApplyChanges()
+      barsSaid(`Waiting for the skill respec to finish. ${saidOf(work)}${paid}`)
     }, AFTER_RESPEC_OPENS_MS)
   })
   StartSkillRespecFromUI()
