@@ -7,8 +7,8 @@ export const giftedRebornNalaMental = {
   character: "character-player/gifted-reborn-nala",
   value: 100,
   minValue: 0,
-  unrevealed: true,
+  unrevealed: false,
   displayOrder: 4,
   createdAt: "2026-10-27T19:40:48.360Z",
-  updatedAt: "2026-10-27T21:49:15.827Z",
+  updatedAt: "2026-10-28T00:16:37.607Z",
 } as const satisfies MetricCharacterStat

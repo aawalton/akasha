@@ -33,3 +33,8 @@ note: Name: none; Class: Locked; Skills: none (3 empty slots)
 name: Body Features
 note: Aether Core: Minor; Aether Channels: Weak
 :::
+
+:::status-assessment
+name: Attributes
+note: Strength: 100; Stamina: 100; Coordination: 100; Mental: 100; Aether: 100
+:::
