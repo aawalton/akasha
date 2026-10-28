@@ -13,7 +13,7 @@ import { inCluster } from "akasha/infrastructure/job/modules/run-in-cluster/run-
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { z } from "zod"
 
-export const VERDICT_HANDED = "AKASHA_DEPLOY_TESTS_VERDICT"
+const VERDICT_HANDED = "AKASHA_DEPLOY_TESTS_VERDICT"
 
 export type Verdict = {
   readonly commit: string
@@ -22,7 +22,7 @@ export type Verdict = {
 
 export type Taken = { readonly verdict: Verdict } | { readonly broken: string }
 
-export type Asking = (root: string, commit: string) => Promise<Told>
+type Asking = (root: string, commit: string) => Promise<Told>
 
 const askedOfAudit: Asking = (root, commit) => asked({ root, checks: [testsPass.slug], commit })
 
@@ -32,14 +32,14 @@ const ENCODED = "base64"
 
 const HANDED_SHAPE = z.object({ commit: z.string().min(1), refusals: z.array(z.string()) })
 
-export function saidOfUnasked(commit: string, why: string): string {
+function saidOfUnasked(commit: string, why: string): string {
   return (
     `\`${testsPass.slug}\` was asked of the audit service for ${commit} and no verdict came ` +
     `back, so nothing judged the tests this deploy carries — ${why}`
   )
 }
 
-export function saidOfUnhanded(commit: string, why: string): string {
+function saidOfUnhanded(commit: string, why: string): string {
   return (
     `a deploy run in the cluster is handed the \`${testsPass.slug}\` verdict for ${commit} ` +
     `by the workstation that sent it, and ${why}`
