@@ -1436,6 +1436,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","id":"01a0deca-7611-72a6-9435-385ed7dedb72"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","id":"01a0e7d8-5f60-71ff-af7a-8f3d30913009"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/correct/story-turn-correct.command.ts","id":"01a1831e-d939-7a0b-a8e4-2a0cd51219f5"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/drop/story-turn-kept-drop.command.ts","id":"01a0ea39-db28-7124-a2ce-64c6a8ac070c"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.ts","id":"01a0ea39-db29-78af-a3aa-0999fd2a6dde"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.ts","id":"01a0e96b-42b5-75aa-a0e0-23dc5a700c05"}

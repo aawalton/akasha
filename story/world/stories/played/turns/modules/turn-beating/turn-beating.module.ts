@@ -92,6 +92,10 @@ export const turnBeating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An advance restating a shown beat is refused, since a correction restates it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A restatement keeps every part of the beats before the refused one.",
     },
     {
@@ -106,5 +110,5 @@ export const turnBeating = {
     },
   ],
   createdAt: "2026-10-27T19:42:57.720Z",
-  updatedAt: "2026-10-27T22:07:47.220Z",
+  updatedAt: "2026-10-28T15:26:39.416Z",
 } as const satisfies Module

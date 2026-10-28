@@ -79,14 +79,15 @@ export const gameMaster = {
     },
     {
       directiveKind: "directive-kind/rule",
-      name: "Fold In Corrections",
-      act: "Say each fix you made at game-master in the story's chat before the next turn lands.",
+      name: "Correct In Place",
+      act: "Correct a wrong shown beat with `akasha story turn correct`, and say the fix in the chat.",
       warrant:
-        "Alan decided from what was narrated, so a fault left unsaid keeps him deciding from it.",
+        "Alan decided from what was narrated, so a fault left in keeps him deciding from it.",
       aids: [
-        "Name the fix, not the mechanics behind it.",
-        "Correct your tally in the same turn.",
-        "Fold a correction Alan sends in the chat into the next turn, and answer it in the chat.",
+        "Correct where Alan asks for a fix in the chat, and where you find a fault yourself.",
+        "Name `--turn` and `--beat`, with its whole changes or its new prose in a file.",
+        "Where it names a later beat to correct next, correct that beat as well.",
+        "Name the fix in the chat, not the mechanics behind it.",
       ],
     },
     {
@@ -303,5 +304,5 @@ export const gameMaster = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-28T15:06:47.482Z",
+  updatedAt: "2026-10-28T15:26:39.416Z",
 } as const satisfies Role

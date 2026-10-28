@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-recorder.role.ts","path":"command/pages/story/turn/correct/story-turn-correct.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"command/pages/story/turn/modules/turn-starting/turn-starting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"command/pages/story/turn/next/story-turn-next.command.code.ts","typed":false,"deferred":false}

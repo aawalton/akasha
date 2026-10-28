@@ -2,6 +2,7 @@
 {"propertySlug":"argument","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"argument","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","id":"01a0deca-7611-72a6-9435-385ed7dedb72"}
 {"propertySlug":"argument","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","id":"01a0e7d8-5f60-71ff-af7a-8f3d30913009"}
+{"propertySlug":"argument","path":"command/pages/story/turn/correct/story-turn-correct.command.ts","id":"01a1831e-d939-7a0b-a8e4-2a0cd51219f5"}
 {"propertySlug":"argument","path":"command/pages/story/turn/kept/drop/story-turn-kept-drop.command.ts","id":"01a0ea39-db28-7124-a2ce-64c6a8ac070c"}
 {"propertySlug":"argument","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.ts","id":"01a0ea39-db29-78af-a3aa-0999fd2a6dde"}
 {"propertySlug":"argument","path":"command/pages/story/turn/record/story-turn-record.command.ts","id":"01a0e98f-b822-7949-98b6-d204ffd0a478"}
@@ -13,6 +14,7 @@
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/correct/modules/correct-handing/correct-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/kept/drop/story-turn-kept-drop.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}

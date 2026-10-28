@@ -5,7 +5,7 @@ import {
   owedIn,
   recorderOf,
   unmarkedIn,
-} from "akasha/command/pages/story/turn/advance/modules/turn-outcome-marks/turn-outcome-marks.module.code.ts"
+} from "akasha/command/pages/story/turn/modules/turn-outcome-marks/turn-outcome-marks.module.code.ts"
 import type { Held } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const SKILL = "character-skill/her-swordplay"

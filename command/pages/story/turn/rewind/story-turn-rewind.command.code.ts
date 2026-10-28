@@ -255,7 +255,7 @@ export async function unplayedOf(
 }
 
 export function foldedOf(
-  reach: Rewinding,
+  reach: Pick<Rewinding, "fold">,
   root: string,
   namings: readonly Naming[]
 ): readonly Asking[] | Refused {

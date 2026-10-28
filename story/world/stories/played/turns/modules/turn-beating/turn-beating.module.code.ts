@@ -136,7 +136,9 @@ function restatedOn(
 ): Beats | Refused {
   const planned = { beats: handed.beats, scenes: handed.scenes ?? [] }
   if (beat <= shownThrough(flow)) {
-    return { refused: `beat ${beat} is shown, and a shown beat is never stated again` }
+    return {
+      refused: `beat ${beat} is shown, so an advance states it no more, and \`story turn correct\` restates it in place`,
+    }
   }
   if (planned.beats.length < beat) {
     const many = planned.beats.length

@@ -106,7 +106,12 @@ export const beatState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A shown beat is never rewritten, so nothing it changed is applied twice.",
+      statement:
+        "A shown beat is corrected in place, taking back what it changed before it changes more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a correction restates a shown beat, so nothing it changed is applied twice.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -130,5 +135,5 @@ export const beatState = {
     },
   ],
   createdAt: "2026-10-03T14:40:55.210Z",
-  updatedAt: "2026-10-27T20:26:52.073Z",
+  updatedAt: "2026-10-28T15:26:39.416Z",
 } as const satisfies Domain

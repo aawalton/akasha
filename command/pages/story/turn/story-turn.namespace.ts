@@ -8,6 +8,7 @@ export const storyTurn = {
   parts: [
     "command/story-turn-advance",
     "command/story-turn-cancel",
+    "command/story-turn-correct",
     "command/story-turn-open",
     "command/story-turn-rewind",
     "command/story-turn-take-back",
@@ -25,6 +26,7 @@ export const storyTurn = {
     "namespace/story-turn-kept",
     "module/turn-unplaying",
     "module/cancel-unbeating",
+    "module/turn-outcome-marks",
     "module/turn-commits",
     "module/turn-holding",
     "module/turn-job-handing",
@@ -34,5 +36,5 @@ export const storyTurn = {
   ],
   name: "turn",
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-28T15:02:27.222Z",
+  updatedAt: "2026-10-28T15:26:39.416Z",
 } as const satisfies Namespace
