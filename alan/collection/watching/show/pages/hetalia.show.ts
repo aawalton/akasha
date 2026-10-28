@@ -11,9 +11,15 @@ export const hetalia = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "35138", externalLink: "https://www.themoviedb.org/tv/35138" },
+    {
+      source: "tmdb",
+      externalId: "35138",
+      externalLink: "https://www.themoviedb.org/tv/35138",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Hetalia",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:48:19.934Z",
-  updatedAt: "2026-10-28T18:48:19.934Z",
+  updatedAt: "2026-10-28T19:44:33.199Z",
 } as const satisfies Show
