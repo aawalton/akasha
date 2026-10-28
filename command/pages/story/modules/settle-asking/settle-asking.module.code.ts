@@ -153,7 +153,7 @@ function sessionOf(was: unknown): number | null {
   return typeof session === "number" ? session : null
 }
 
-export function latestMontageAt(lines: readonly unknown[]): number {
+function latestMontageAt(lines: readonly unknown[]): number {
   let at = -1
   for (let place = 0; place < lines.length; place += 1) {
     if (sessionOf(lines[place]) === 1 && sessionOf(lines[place - 1]) !== 1) at = place
