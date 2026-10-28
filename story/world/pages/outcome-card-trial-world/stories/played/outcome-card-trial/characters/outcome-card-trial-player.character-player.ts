@@ -9,6 +9,7 @@ export const outcomeCardTrialPlayer = {
   story: "story-played/outcome-card-trial",
   place: "place/outcome-card-trial-world-square",
   person: "person/alan",
+  color: "color/blue",
   createdAt: "2026-10-28T18:03:59.696Z",
-  updatedAt: "2026-10-28T18:03:59.696Z",
+  updatedAt: "2026-10-28T18:04:46.950Z",
 } as const satisfies CharacterPlayer
