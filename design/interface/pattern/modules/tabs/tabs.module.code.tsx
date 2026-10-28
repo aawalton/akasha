@@ -163,6 +163,47 @@ function TabsTrigger({ className, ...props }: React.ComponentProps<typeof TabsPr
   )
 }
 
+function UnderlineTabsList({
+  className,
+  onKeyDown,
+  ...props
+}: React.ComponentProps<typeof TabsPrimitive.List>) {
+  return (
+    <TabsPrimitive.List
+      data-slot="tabs-list"
+      className={cn(
+        "justify-center-safe flex h-10 w-full items-stretch gap-5 overflow-x-auto px-4 [scrollbar-width:none]",
+        className
+      )}
+      onKeyDown={(e) => {
+        handleHomeEndScroll(e)
+        onKeyDown?.(e)
+      }}
+      {...props}
+    />
+  )
+}
+
+function UnderlineTabsTrigger({
+  className,
+  ...props
+}: React.ComponentProps<typeof TabsPrimitive.Trigger>) {
+  return (
+    <TabsPrimitive.Trigger
+      data-slot="tabs-trigger"
+      className={cn(
+        "relative inline-flex shrink-0 items-center whitespace-nowrap px-1 font-medium text-sm transition-colors",
+        "text-tertiary hover:text-primary data-[state=active]:text-primary",
+        "after:absolute after:inset-x-0 after:bottom-0 after:h-0.5 after:rounded-full data-[state=active]:after:bg-accent",
+        "focus-visible:[outline-offset:-1px] focus-visible:[outline:1.5px_solid_var(--color-accent)]",
+        "disabled:pointer-events-none disabled:opacity-[0.38]",
+        className
+      )}
+      {...props}
+    />
+  )
+}
+
 function PageTabsTrigger({
   icon,
   label,
@@ -237,4 +278,13 @@ function MenuTabsTrigger({
   )
 }
 
-export { MenuTabsTrigger, PageTabsTrigger, Tabs, TabsContent, TabsList, TabsTrigger }
+export {
+  MenuTabsTrigger,
+  PageTabsTrigger,
+  Tabs,
+  TabsContent,
+  TabsList,
+  TabsTrigger,
+  UnderlineTabsList,
+  UnderlineTabsTrigger,
+}
