@@ -1,0 +1,5 @@
+{"id":"01a183ca-d142-7108-b885-00988b6dbb37","conditionField":"temper-condition-field/crafted","conditionValue":"crafted"}
+{"id":"01a183ca-d16f-7605-9268-09b31aec3863","conditionField":"temper-condition-field/max-quality","conditionValue":"3"}
+{"id":"01a183d3-d214-70b7-bbaa-fc6f13462192","conditionField":"temper-condition-field/crafted-today","conditionValue":"not-crafted-today"}
+{"id":"01a183d3-d244-7655-9df8-c449e326260d","conditionField":"temper-condition-field/daily-writ-needed","conditionValue":"not-daily-writ-needed"}
+{"id":"01a183d3-d26a-7054-bb6e-bded983c1144","conditionField":"temper-condition-field/location","conditionValue":"[\"backpack\",\"bank\"]"}

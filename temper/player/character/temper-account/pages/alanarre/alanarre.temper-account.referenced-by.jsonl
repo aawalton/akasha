@@ -1169,8 +1169,11 @@
 {"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-companion-green-sell/rule-companion-green-sell.temper-inventory-rule.ts","id":"01a0728b-10d1-72a5-b4a8-e21e1d27654a"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-containers-open/rule-containers-open.temper-inventory-rule.ts","id":"01a0728b-10d1-7698-84e8-76571fa43054"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-containers-stackable-bank/rule-containers-stackable-bank.temper-inventory-rule.ts","id":"01a0728b-10d1-77a7-85d4-209b05b2a2af"}
+{"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-crafted-armor-deconstruct/rule-crafted-armor-deconstruct.temper-inventory-rule.ts","id":"01a183d4-0a3d-7e61-b2e0-e7335d32347e"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-crafted-consumables-nothing/rule-crafted-consumables-nothing.temper-inventory-rule.ts","id":"01a0728b-10d1-7ba5-a83a-c81be228c4b8"}
+{"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-crafted-jewelry-deconstruct/rule-crafted-jewelry-deconstruct.temper-inventory-rule.ts","id":"01a183d4-0a3e-750a-b62c-da0fd23436cb"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-crafted-nothing/rule-crafted-nothing.temper-inventory-rule.ts","id":"01a0728b-10d1-7e0b-baf2-a208264ffd33"}
+{"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-crafted-weapons-deconstruct/rule-crafted-weapons-deconstruct.temper-inventory-rule.ts","id":"01a183d4-0a3e-7542-b6b4-6cab87c39d71"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-crafting-craft-bag/rule-crafting-craft-bag.temper-inventory-rule.ts","id":"01a0728b-10d2-70aa-8330-5161e02e35a1"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-crafting-stolen/rule-crafting-stolen.temper-inventory-rule.ts","id":"01a0728b-2e7a-7e66-a501-cb475fb1bc7e"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-d19ba7f4/rule-d19ba7f4.temper-inventory-rule.ts","id":"01a0728b-2e7b-7708-a913-00f687d375ef"}
