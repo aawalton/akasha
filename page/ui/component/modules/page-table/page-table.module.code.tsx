@@ -53,6 +53,7 @@ export function PageTable({
     serverPrefetchPages,
   })
   const visibleItems = items.slice(0, visibleCount)
+  const credits = [...new Set(columns.flatMap((column) => column.def?.credit ?? []))]
 
   const body = (
     <TableBody>
@@ -100,6 +101,11 @@ export function PageTable({
           {body}
         </Table>
       )}
+      {credits.map((credit) => (
+        <span key={credit} className="text-tertiary text-xs">
+          {credit}
+        </span>
+      ))}
       {hasMore && (
         <LoadMoreButton
           visibleCount={visibleCount}
