@@ -1,6 +1,7 @@
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import { applyAttributeTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-attributes/characters-build-attributes.module.code.ts"
 import { applyChampionTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-champion/characters-build-champion.module.code.ts"
@@ -8,7 +9,10 @@ import {
   checklistOf,
   currentCharacterTarget,
 } from "akasha/temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.code.ts"
-import { registerExternalTab } from "akasha/temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
+import {
+  drawPanelBackground,
+  PANEL_GAP,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import {
   colorOf,
   colorText,
@@ -16,35 +20,40 @@ import {
   textColorOf,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import { buildButton } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
-import {
-  LINE_HEIGHT,
-  ROW_PADDING_X,
-} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
+import { LINE_HEIGHT } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
+
+const PANEL_NAME = "TemperCharactersTargetBuild"
+
+const BESIDE_NAME = "ZO_StatsPanel"
 
 const LINES_SHOWN = 40
+
+const PADDING = 16
+
+const INDENT = 16
 
 const SECTION_GAP = 8
 
 const HEADER_GAP = 12
 
-const REFRESH_AFTER_APPLY_MS = 1500
+const MIN_WIDTH = 250
 
-const NO_TARGET = "This character has no target build."
+const REFRESH_AFTER_APPLY_MS = 1500
 
 const APPLY_TEXT = "Apply champion points and attributes"
 
 interface TargetPanel {
+  readonly window: TopLevelWindow
   readonly title: LabelControl
   readonly apply: ButtonControl
   readonly said: LabelControl
   readonly lines: readonly LabelControl[]
-  readonly top: number
 }
 
 let held: TargetPanel | undefined
 
-function lineLabel(panel: Control): LabelControl {
-  const label = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
+function lineLabel(window: Control): LabelControl {
+  const label = WINDOW_MANAGER.CreateControl(undefined, window, CT_LABEL)
   label.SetHeight(LINE_HEIGHT)
   label.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   label.SetHidden(true)
@@ -61,34 +70,54 @@ function applyTarget(): undefined {
   return undefined
 }
 
-export function createTargetPanel(parent: Control): Control {
-  const panel = WINDOW_MANAGER.CreateControl(undefined, parent, CT_CONTROL)
-  panel.SetAnchorFill()
-  panel.SetHidden(true)
+function createTargetPanel(): TargetPanel {
+  const window = WINDOW_MANAGER.CreateTopLevelWindow(PANEL_NAME)
+  window.SetHidden(true)
+  drawPanelBackground(window)
 
-  const title = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
-  title.SetAnchor(TOPLEFT, panel, TOPLEFT, ROW_PADDING_X, 0)
+  const title = WINDOW_MANAGER.CreateControl("$(parent)Title", window, CT_LABEL)
   styleText(title, "heading")
 
-  const apply = buildButton(panel, undefined, APPLY_TEXT, "default")
-  apply.SetAnchor(TOPLEFT, title, BOTTOMLEFT, 0, HEADER_GAP)
+  const apply = buildButton(window, undefined, APPLY_TEXT, "default")
   apply.SetHandler("OnClicked", applyTarget)
 
-  const said = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
-  said.SetAnchor(LEFT, apply, RIGHT, HEADER_GAP, 0)
+  const said = WINDOW_MANAGER.CreateControl(undefined, window, CT_LABEL)
   styleText(said, "muted")
+  said.SetHidden(true)
 
   const lines: LabelControl[] = []
-  for (let at = 0; at < LINES_SHOWN; at++) lines.push(lineLabel(panel))
+  for (let at = 0; at < LINES_SHOWN; at++) lines.push(lineLabel(window))
 
-  held = { title, apply, said, lines, top: title.GetHeight() + HEADER_GAP * 2 + apply.GetHeight() }
-  return panel
+  return { window, title, apply, said, lines }
 }
 
-function place(label: LabelControl, panel: TargetPanel, top: number, indent: number): undefined {
-  label.ClearAnchors()
-  label.SetAnchor(TOPLEFT, panel.title, TOPLEFT, indent, top)
-  label.SetHidden(false)
+function placeAt(control: Control, panel: TargetPanel, top: number, indent: number): number {
+  control.ClearAnchors()
+  control.SetAnchor(TOPLEFT, panel.window, TOPLEFT, PADDING + indent, top)
+  control.SetHidden(false)
+  return top + control.GetHeight()
+}
+
+function placeBeside(window: TopLevelWindow): undefined {
+  window.ClearAnchors()
+  const beside = WINDOW_MANAGER.GetControlByName(BESIDE_NAME)
+  if (beside === undefined) window.SetAnchor(TOPRIGHT, GuiRoot, TOPRIGHT, -PANEL_GAP, PANEL_GAP)
+  else window.SetAnchor(TOPRIGHT, beside, TOPLEFT, -PANEL_GAP, 0)
+  return undefined
+}
+
+function showHeading(label: LabelControl, title: string, met: number, total: number): undefined {
+  label.SetText(`${title}  ${met} of ${total}`)
+  styleText(label, "label")
+  if (met === total) colorText(label, textColorOf(INTERFACE_TEXT_COLOR_SUCCEEDED))
+  else colorText(label, colorOf("strong"))
+  return undefined
+}
+
+function showUnmet(label: LabelControl, text: string): undefined {
+  label.SetText(text)
+  styleText(label, "body")
+  colorText(label, textColorOf(INTERFACE_TEXT_COLOR_FAILED))
   return undefined
 }
 
@@ -97,52 +126,54 @@ export function refreshTargetPanel(this: void): undefined {
   const panel = held
   for (const line of panel.lines) line.SetHidden(true)
   const target = currentCharacterTarget()
-  panel.apply.SetHidden(target === undefined)
   if (target === undefined) {
-    panel.title.SetText(NO_TARGET)
-    panel.said.SetText("")
+    panel.window.SetHidden(true)
     return undefined
   }
-  panel.title.SetText(`Target: ${target.title}`)
+  panel.title.SetText(`Target Build — ${target.title}`)
+  let widest = math.max(MIN_WIDTH, panel.title.GetTextWidth(), panel.apply.GetWidth())
+  let top = placeAt(panel.title, panel, PADDING, 0) + HEADER_GAP
+  top = placeAt(panel.apply, panel, top, 0) + HEADER_GAP
+  if (panel.said.GetText() !== "") {
+    top = placeAt(panel.said, panel, top, 0) + HEADER_GAP
+    widest = math.max(widest, panel.said.GetTextWidth())
+  }
   let used = 0
-  let top = panel.top
   for (const section of checklistOf(target)) {
-    const heading = panel.lines[used]
-    if (heading === undefined) break
+    const label = panel.lines[used]
+    if (label === undefined) break
     used++
     const met = section.lines.filter((line) => line.met).length
-    heading.SetText(`${section.title}  ${met} of ${section.lines.length}`)
-    styleText(heading, "label")
-    place(heading, panel, top, 0)
-    top += LINE_HEIGHT
+    showHeading(label, section.title, met, section.lines.length)
+    top = placeAt(label, panel, top, 0)
+    widest = math.max(widest, label.GetTextWidth())
     for (const line of section.lines) {
       if (line.met) continue
-      const label = panel.lines[used]
-      if (label === undefined) break
+      const row = panel.lines[used]
+      if (row === undefined) break
       used++
-      label.SetText(line.text)
-      styleText(label, "body")
-      colorText(label, textColorOf(INTERFACE_TEXT_COLOR_FAILED))
-      place(label, panel, top, ROW_PADDING_X * 2)
-      top += LINE_HEIGHT
+      showUnmet(row, line.text)
+      top = placeAt(row, panel, top, INDENT)
+      widest = math.max(widest, row.GetTextWidth() + INDENT)
     }
-    if (met === section.lines.length)
-      colorText(heading, textColorOf(INTERFACE_TEXT_COLOR_SUCCEEDED))
-    else colorText(heading, colorOf("strong"))
     top += SECTION_GAP
   }
+  panel.window.SetDimensions(widest + PADDING * 2, top - SECTION_GAP + PADDING)
+  placeBeside(panel.window)
+  panel.window.SetHidden(false)
   return undefined
 }
 
-export function registerTargetBuildTab(): undefined {
-  registerExternalTab(
-    {
-      id: "target",
-      title: "Target Build",
-      subTabs: [{ id: "target-checklist", title: "Checklist" }],
-    },
-    { "target-checklist": createTargetPanel },
-    { "target-checklist": refreshTargetPanel }
-  )
+export function initializeTargetBuildPanel(): undefined {
+  if (held !== undefined) return undefined
+  const panel = createTargetPanel()
+  held = panel
+  STATS_SCENE.RegisterCallback("StateChange", (_oldState, newState) => {
+    if (newState === SCENE_HIDDEN) {
+      panel.window.SetHidden(true)
+      return
+    }
+    if (newState === SCENE_SHOWING) refreshTargetPanel()
+  })
   return undefined
 }

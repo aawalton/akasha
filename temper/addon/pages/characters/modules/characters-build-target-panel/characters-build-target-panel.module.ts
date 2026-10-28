@@ -4,9 +4,21 @@ export const charactersBuildTargetPanel = {
   id: "01a18414-31ea-751e-bea7-ad645881373e",
   type: "page-type/module",
   slug: "characters-build-target-panel",
-  definition: "the tab of the characters window showing the target build checklist",
+  definition: "the panel showing the target build checklist",
   code: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel shows with the game's character screen, to the left of its stats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character with no target build shows no panel.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel is as tall and as wide as what it shows.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -30,5 +42,5 @@ export const charactersBuildTargetPanel = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-10-28T19:54:38.440Z",
+  updatedAt: "2026-10-28T20:23:58.819Z",
 } as const satisfies Module
