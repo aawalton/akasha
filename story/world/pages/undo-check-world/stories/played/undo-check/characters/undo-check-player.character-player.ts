@@ -7,8 +7,8 @@ export const undoCheckPlayer = {
   title: "Test Player",
   cover: "image/image-17f59c7233925455",
   story: "story-played/undo-check",
-  place: "place/undo-check-world-hall",
+  place: "place/undo-check-world-square",
   person: "person/alan",
   createdAt: "2026-10-28T15:03:47.724Z",
-  updatedAt: "2026-10-28T15:05:57.483Z",
+  updatedAt: "2026-10-28T15:06:04.323Z",
 } as const satisfies CharacterPlayer

@@ -10,7 +10,7 @@ export const undoCheckWorldFolk = {
   facts: [
     {
       fact: "The town's folk are friendly, patient, and used to strangers trying things twice.",
-      knowers: ["lore-disclosure/game-master", "character-player/undo-check-player"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The shopkeeper trades in plain copper coin and keeps the shop open from dawn to dusk.",
@@ -22,5 +22,5 @@ export const undoCheckWorldFolk = {
     },
   ],
   createdAt: "2026-10-28T15:03:47.724Z",
-  updatedAt: "2026-10-28T15:05:57.483Z",
+  updatedAt: "2026-10-28T15:06:04.323Z",
 } as const satisfies Lore
