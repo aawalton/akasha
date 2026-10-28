@@ -10,7 +10,7 @@ export const absorbMissile38317 = {
   description:
     "Bolster your defenses, gaining a damage shield that absorbs up to |cffffff7027|r damage for |cffffff6|r seconds.  \n\nWhile the shield persists, you are healed for |cffffff3218|r Health the next time a harmful direct damage projectile hits you. This effect can occur once per cast.\n\nThis ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_1handed_004_b.dds",
-  esoSkillId: 38317,
+  esoAbilityId: 38317,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const absorbMissile38317 = {
   skillType: "temper-skill-type/active",
   hashPlace: 5,
   createdAt: "2026-05-28T16:03:31.587Z",
-  updatedAt: "2026-10-21T06:23:05.681Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3099 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

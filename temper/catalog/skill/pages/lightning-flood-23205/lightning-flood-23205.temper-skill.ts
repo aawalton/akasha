@@ -10,7 +10,7 @@ export const lightningFlood23205 = {
   description:
     "Create a nexus of storm energy at the target location, dealing |cffffff1445|r Shock Damage to enemies in the area every |cffffff1|r second for |cffffff10|r seconds.\n \nYou or an ally standing within the nexus can activate the Conduit synergy, dealing |cffffff9914|r Shock Damage to enemies around them.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_flood.dds",
-  esoSkillId: 23205,
+  esoAbilityId: 23205,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const lightningFlood23205 = {
   skillType: "temper-skill-type/active",
   hashPlace: 750,
   createdAt: "2026-05-28T16:03:32.986Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0179353 MaxStat + 0.187785 MaxPower - 1.1442 (Ultimate, ratio = 10.47, Dmg, Shock, AOE, DOT, 1s tick, R2 = 0.999993)",
     "<<2>> = 1 second (Constant)",

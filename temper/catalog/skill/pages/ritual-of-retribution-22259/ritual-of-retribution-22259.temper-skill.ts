@@ -10,7 +10,7 @@ export const ritualOfRetribution22259 = {
   description:
     "Exalt in the sacred light of the Aedra, cleansing up to |cffffff2|r harmful effects from yourself immediately.  While in the area, enemies take |cffffff1516|r Magic Damage every |cffffff2|r seconds for |cffffff20|r seconds which increases by |cffffff12|r% per tick.  \n\nAllies in the area can activate the Purify synergy, cleansing all harmful effects from themselves and healing for |cffffff6012|r Health.",
   icon: "/esoui/art/icons/ability_templar_purifying_ritual.dds",
-  esoSkillId: 22259,
+  esoAbilityId: 22259,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const ritualOfRetribution22259 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1081,
   createdAt: "2026-05-28T16:03:33.602Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2 (Constant)",
     "<<2>> = 0.0187221 MaxStat + 0.197107 MaxPower + 0.0870345 (Ultimate, ratio = 10.53, Dmg, Magic, AOE, DOT, 2s tick, R2 = 0.999998)",

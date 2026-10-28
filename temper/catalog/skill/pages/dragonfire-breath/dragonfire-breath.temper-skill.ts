@@ -10,7 +10,7 @@ export const dragonfireBreath = {
   description:
     "Exhale a blast of draconic fire in front of you, dealing |cffffff6400|r Flame Damage and an additional |cffffff9515|r Flame Damage over |cffffff10|r seconds to enemies in your path.",
   icon: "/esoui/art/icons/ability_dragonknight_004.dds",
-  esoSkillId: 20917,
+  esoAbilityId: 20917,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const dragonfireBreath = {
   skillType: "temper-skill-type/active",
   hashPlace: 380,
   createdAt: "2026-05-28T16:03:32.198Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.075 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 0.0249954 MaxStat + 0.26217 MaxPower - 0.0301722 (Ultimate, ratio = 10.49, Dmg, Flame, SingleTarget, DOT, 8s duration, 2s tick, R2 = 0.999996)",

@@ -10,7 +10,7 @@ export const dampenMagic = {
   description:
     "Convert a portion of your Magicka into a protective ward, gaining a damage shield that absorbs 3718 damage for 6 seconds. Damage shield strength capped at 60% of your Max Health.\n\nEach piece of Light Armor worn increases the amount of damage absorbed by 6%.",
   icon: "/esoui/art/icons/ability_armor_003_a.dds",
-  esoSkillId: 41113,
+  esoAbilityId: 41113,
   isMorph: true,
   learnedLevel: 22,
   lineRankNeeded: 22,
@@ -20,7 +20,7 @@ export const dampenMagic = {
   skillType: "temper-skill-type/active",
   hashPlace: 300,
   createdAt: "2026-05-26T02:59:07.567Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3099 Magicka (Magicka, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

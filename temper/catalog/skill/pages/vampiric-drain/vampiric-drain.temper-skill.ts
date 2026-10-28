@@ -10,7 +10,7 @@ export const vampiricDrain = {
   description:
     "Siphon away your enemies' vitality, dealing |cffffff3028|r Magic Damage and healing you for |cffffff26|r% of your missing Health every |cffffff1|r second for |cffffff3|r seconds.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_u26_vampire_03.dds",
-  esoSkillId: 134583,
+  esoAbilityId: 134583,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const vampiricDrain = {
   skillType: "temper-skill-type/active",
   hashPlace: 1402,
   createdAt: "2026-05-28T16:03:34.180Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0374406 MaxStat + 0.393892 MaxPower - 0.180971 (Ultimate, ratio = 10.52, Dmg, Magic, SingleTarget, Direct, R2 = 0.999999)",
     "<<2>> = 25% (Constant)",

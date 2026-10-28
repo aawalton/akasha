@@ -10,7 +10,7 @@ export const boneSurge42176 = {
   description:
     "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff7258|r damage for |cffffff6|r seconds. This ability scales off your Max Health.\n\nAn ally near you can activate the Spinal Surge synergy, granting up to |cffffff6|r allies a damage shield that absorbs up to |cffffff35|r% of their Max Health for |cffffff6|r seconds and Major Vitality, increasing their healing received and damage shield strength by |cffffff12|r%.",
   icon: "/esoui/art/icons/ability_undaunted_005a.dds",
-  esoSkillId: 42176,
+  esoAbilityId: 42176,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const boneSurge42176 = {
   skillType: "temper-skill-type/active",
   hashPlace: 147,
   createdAt: "2026-05-28T16:03:31.828Z",
-  updatedAt: "2026-10-21T15:58:06.660Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3099 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1, rank IV)",
     "<<2>> = 6 seconds (Constant)",

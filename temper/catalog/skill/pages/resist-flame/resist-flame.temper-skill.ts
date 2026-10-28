@@ -9,7 +9,7 @@ export const resistFlame = {
   baseName: "Resist Flame",
   description: "Increases your Flame Resistance by 4620.",
   icon: "/esoui/art/icons/ability_sorcerer_010.dds",
-  esoSkillId: 45270,
+  esoAbilityId: 45270,
   isMorph: false,
   learnedLevel: 40,
   lineRankNeeded: 40,
@@ -21,6 +21,6 @@ export const resistFlame = {
   effects: "jsonl",
   hashPlace: 1036,
   createdAt: "2026-05-26T03:18:02.199Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 4620 (Constant)"],
 } as const satisfies TemperSkill

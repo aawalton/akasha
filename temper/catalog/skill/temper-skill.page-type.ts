@@ -8,7 +8,6 @@ export const temperSkill = {
   extends: ["page-type/temper-ability"],
   parts: [
     "boolean-property/is-morph",
-    "number-property/eso-skill-id",
     "number-property/learned-level",
     "number-property/line-rank-needed",
     "number-property/morph-index",
@@ -40,7 +39,7 @@ export const temperSkill = {
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
     { pageProperty: "text-property/base-name", required: true, many: false },
-    { pageProperty: "number-property/eso-skill-id", required: true, many: false },
+    { pageProperty: "number-property/eso-ability-id", required: true, many: false },
     { pageProperty: "boolean-property/is-morph", required: true, many: false },
     { pageProperty: "number-property/learned-level", required: true, many: false },
     { pageProperty: "number-property/line-rank-needed", required: true, many: false },
@@ -60,5 +59,5 @@ export const temperSkill = {
     "temper/player/character/build/build-codec/modules/build-codec-v52-skill-pages/build-codec-v52-skill-pages.data-table.code.ts SKILL_PAGES_BEFORE_MINOR_10",
   ],
   createdAt: "2026-09-02T01:45:21.036Z",
-  updatedAt: "2026-10-28T21:18:51.152Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies PageType

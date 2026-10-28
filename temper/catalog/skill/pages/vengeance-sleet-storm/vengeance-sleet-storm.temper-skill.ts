@@ -10,7 +10,7 @@ export const vengeanceSleetStorm = {
   description:
     "Twist a violent storm around you, stunning up to 6 nearby enemies for |cffffff4|r seconds and reducing their Movement Speed by |cffffff40|r% for |cffffff4|r seconds after the stun ends. \n\nYou gain Major Protection for |cffffff8|r seconds, reducing your damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_warden_006.dds",
-  esoSkillId: 238098,
+  esoAbilityId: 238098,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceSleetStorm = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1560,
   createdAt: "2026-05-28T16:03:34.409Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 (Constant)",
     "<<2>> = 4 seconds (Constant)",

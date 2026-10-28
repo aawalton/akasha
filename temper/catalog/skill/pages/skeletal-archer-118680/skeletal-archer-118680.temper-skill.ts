@@ -10,7 +10,7 @@ export const skeletalArcher118680 = {
   description:
     "Unearth a skeletal archer from the dirt to fight by your side for |cffffff20|r seconds, while granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%. The archer attacks the closest enemy every |cffffff2|r seconds, dealing |cffffff1614|r Physical Damage.\n\nEach time the archer deals damage, it deals |cffffff15|r% more damage than the previous attack.\n\nCreates a corpse on death if you are in combat.",
   icon: "/esoui/art/icons/ability_necromancer_003_a.dds",
-  esoSkillId: 118680,
+  esoAbilityId: 118680,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const skeletalArcher118680 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1201,
   createdAt: "2026-05-28T16:03:33.810Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = Major Brutality (Constant)",

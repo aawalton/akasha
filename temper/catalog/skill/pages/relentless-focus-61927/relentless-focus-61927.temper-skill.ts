@@ -10,7 +10,7 @@ export const relentlessFocus61927 = {
   description:
     "When slotted on either bar, you gain Major Prophecy and Major Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.\n\nYour Light and Heavy Attacks now generate a stack of Relentless Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff4|r or more stacks, you can consume |cffffff4|r to fire a spectral arrow to deal |cffffff14539|r Disease Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range.",
   icon: "/esoui/art/icons/ability_nightblade_005_a.dds",
-  esoSkillId: 61927,
+  esoAbilityId: 61927,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const relentlessFocus61927 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1014,
   createdAt: "2026-05-28T16:03:33.478Z",
-  updatedAt: "2026-10-28T19:51:56.491Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Savagery (Constant)",
     "<<2>> = 12% (Constant)",

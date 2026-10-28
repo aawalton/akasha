@@ -10,7 +10,7 @@ export const vengeanceNatureSGrasp = {
   description:
     "Launch a vine to swing yourself to an ally, healing them for |cffffff13388|r Health.",
   icon: "/esoui/art/icons/ability_warden_011.dds",
-  esoSkillId: 238071,
+  esoAbilityId: 238071,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceNatureSGrasp = {
   skillType: "temper-skill-type/active",
   hashPlace: 1511,
   createdAt: "2026-05-28T16:03:34.339Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 13125 (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const consumingDarkness = {
   description:
     "Conjure a ring of shadow, reducing the Movement Speed of enemies by |cffffff70|r% and granting you and your allies Major Protection, reducing your damage taken by |cffffff10|r%.\n\nAllies in the area can activate the Hidden Refresh synergy, granting them invisibility, increasing their Movement Speed by |cffffff70|r%, and healing them for |cffffff28640|r Health over |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_015.dds",
-  esoSkillId: 25411,
+  esoAbilityId: 25411,
   isMorph: false,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const consumingDarkness = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 243,
   createdAt: "2026-05-28T16:03:31.993Z",
-  updatedAt: "2026-10-21T07:12:28.248Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 70% (Constant)",
     "<<2>> = Major Protection (Constant)",

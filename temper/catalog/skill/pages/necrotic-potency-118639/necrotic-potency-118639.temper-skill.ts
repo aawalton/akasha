@@ -10,7 +10,7 @@ export const necroticPotency118639 = {
   description:
     "Sap the lingering life from fresh corpses, granting you |cffffff6|r Ultimate and healing |cffffff857|r Health every |cffffff1|r second for |cffffff2|r seconds per additional corpse. This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_necromancer_011_b.dds",
-  esoSkillId: 118639,
+  esoAbilityId: 118639,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const necroticPotency118639 = {
   skillType: "temper-skill-type/active",
   hashPlace: 856,
   createdAt: "2026-05-28T16:03:33.180Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 (Constant)",
     "<<2>> = 0.04132 Health (Health, RankMod(1), Heal, SingleTarget, DOT, 1s tick, R2 = 1)",

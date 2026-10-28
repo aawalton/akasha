@@ -10,7 +10,7 @@ export const endlessFury = {
   description:
     "Call down lightning to strike an enemy, dealing 871 Shock Damage.\n\nIf the enemy falls to or below 20% Health within 2 seconds of being struck, an explosion deals an additional 3195 Shock Damage to them and 696 Shock Damage to other enemies nearby.\n\nIf any enemy is killed within 5 seconds of being hit with this ability, you restore 4860 Magicka.",
   icon: "/esoui/art/icons/ability_sorcerer_endless_fury.dds",
-  esoSkillId: 30343,
+  esoAbilityId: 30343,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const endlessFury = {
   skillType: "temper-skill-type/active",
   hashPlace: 431,
   createdAt: "2026-05-26T03:13:12.295Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.03875 MaxStat + 0.40675 MaxPower (Ultimate, ratio = 10.50, Dmg, Shock, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 2 seconds (Constant)",

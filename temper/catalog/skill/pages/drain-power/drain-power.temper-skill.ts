@@ -10,7 +10,7 @@ export const drainPower = {
   description:
     "Siphon the vigor from your enemies' blood, dealing |cffffff6400|r Magic Damage to all nearby enemies.\n\nIf an enemy is hit, you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff30|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_013.dds",
-  esoSkillId: 33316,
+  esoAbilityId: 33316,
   isMorph: false,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const drainPower = {
   skillType: "temper-skill-type/active",
   hashPlace: 382,
   createdAt: "2026-05-28T16:03:32.201Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.075 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 20% (Constant)",

@@ -10,7 +10,7 @@ export const restoringFocus22237 = {
   description:
     "Create a rune of celestial protection and gain Major Resolve for |cffffff20|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r. You also recover |cffffff242|r Stamina every |cffffff1|r second over the duration.\n\nWhile the rune is active you heal for |cffffff518|r Health every |cffffff1|r second, scaling off your Max Health. Standing within the rune increases the healing done by |cffffff200|r%.",
   icon: "/esoui/art/icons/ability_templar_uninterrupted_focus.dds",
-  esoSkillId: 22237,
+  esoAbilityId: 22237,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const restoringFocus22237 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1055,
   createdAt: "2026-05-28T16:03:33.551Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Resolve (Constant)",
     "<<2>> = 20 seconds (Constant)",

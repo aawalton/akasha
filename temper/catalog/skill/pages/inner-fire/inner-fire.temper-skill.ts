@@ -10,7 +10,7 @@ export const innerFire = {
   description:
     "Ignite the fires of hate in an enemy's heart, dealing |cffffff3634|r Flame Damage and taunting them to attack you for |cffffff15|r seconds.\n\nAn ally targeting the taunted enemy can activate the Radiate synergy, dealing |cffffff4422|r Flame Damage to them over |cffffff3|r seconds then an additional |cffffff8261|r Flame Damage to them and other nearby enemies.",
   icon: "/esoui/art/icons/ability_undaunted_002.dds",
-  esoSkillId: 39475,
+  esoAbilityId: 39475,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 3,
@@ -20,7 +20,7 @@ export const innerFire = {
   skillType: "temper-skill-type/active",
   hashPlace: 686,
   createdAt: "2026-05-28T16:03:32.856Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.045 MaxStat + 0.4725 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 15 seconds (Constant)",

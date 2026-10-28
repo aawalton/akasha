@@ -10,7 +10,7 @@ export const swallowSoul = {
   description:
     "Steal an enemy's life force, dealing 2160 Magic Damage and healing you for 35% of the damage inflicted every 2 seconds for 10 seconds.",
   icon: "/esoui/art/icons/ability_nightblade_012_a.dds",
-  esoSkillId: 35949,
+  esoAbilityId: 35949,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const swallowSoul = {
   skillType: "temper-skill-type/active",
   hashPlace: 1311,
   createdAt: "2026-05-26T03:13:12.526Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.124831852 MaxStat + 1.30079492 MaxPower - 32.0056456 (Ultimate, ratio = 10.42, RankMod(1.033), Dmg, Magic, SingleTarget, Direct, Melee, 0.5s duration, R2 = 0.99113)",
     "<<2>> = 33 (Constant)",

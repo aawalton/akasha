@@ -10,7 +10,7 @@ export const vengeanceBolsteringDarkness = {
   description:
     "Conjure concealing shadow around you, granting you and up to 3 nearby allies invisibility for |cffffff4|r seconds and Major Protection for |cffffff10|r seconds, reducing damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_nightblade_015.dds",
-  esoSkillId: 237702,
+  esoAbilityId: 237702,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceBolsteringDarkness = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1424,
   createdAt: "2026-05-28T16:03:34.212Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
     "<<2>> = Major Protection (Constant)",

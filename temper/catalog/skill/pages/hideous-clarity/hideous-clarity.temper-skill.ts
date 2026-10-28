@@ -10,7 +10,7 @@ export const hideousClarity = {
   description:
     "You've stared too long into the abyss. When you generate Crux, you restore 225 Magicka and Stamina.",
   icon: "/esoui/art/icons/passive_arcanist_10.dds",
-  esoSkillId: 185243,
+  esoAbilityId: 185243,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -21,6 +21,6 @@ export const hideousClarity = {
   status: "unsupported",
   hashPlace: 632,
   createdAt: "2026-05-26T03:13:12.358Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 225 (Constant)"],
 } as const satisfies TemperSkill

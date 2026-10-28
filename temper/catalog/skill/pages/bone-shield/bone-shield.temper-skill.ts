@@ -10,7 +10,7 @@ export const boneShield = {
   description:
     "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to |cffffff7026|r damage for |cffffff6|r seconds. This ability scales off your Max Health.\n\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to |cffffff5|r other allies a damage shield equal to |cffffff35|r% of their Max Health for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_undaunted_005.dds",
-  esoSkillId: 39369,
+  esoAbilityId: 39369,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const boneShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 145,
   createdAt: "2026-05-28T16:03:31.825Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

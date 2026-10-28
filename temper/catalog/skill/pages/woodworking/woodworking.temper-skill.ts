@@ -9,7 +9,7 @@ export const woodworking = {
   baseName: "Woodworking",
   description: "Allows the use of Sanded Ruby Ash.",
   icon: "/esoui/art/icons/ability_tradecraft_003.dds",
-  esoSkillId: 70046,
+  esoAbilityId: 70046,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -19,5 +19,5 @@ export const woodworking = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1626,
   createdAt: "2026-05-26T02:37:19.415Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

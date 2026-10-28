@@ -10,7 +10,7 @@ export const bladeOfWoe = {
   description:
     "Call the weapon of the Dark Brotherhood to your hand and deliver a killing blow to an unsuspecting target. Experience from this target is reduced by 75%.\n\nThis ability does not work on players or difficult targets.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_001.dds",
-  esoSkillId: 78219,
+  esoAbilityId: 78219,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const bladeOfWoe = {
   effects: "jsonl",
   hashPlace: 100,
   createdAt: "2026-05-26T02:59:07.546Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const scribedSmashKnockback = {
   description:
     "Deals 1001 Physical Damage to enemies and knocks them back 8 meters and stuns them for 1.8 seconds. Beneficial Signature and Affix scripts only apply to you.",
   icon: "/esoui/art/icons/ability_grimoire_2handed.dds",
-  esoSkillId: 219972,
+  esoAbilityId: 219972,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedSmashKnockback = {
   grimoireId: "temper-grimoire/smash",
   hashPlace: 1671,
   createdAt: "2026-05-26T13:19:53.277Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

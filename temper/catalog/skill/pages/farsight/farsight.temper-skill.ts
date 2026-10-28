@@ -10,7 +10,7 @@ export const farsight = {
   description:
     "Claim a line of facets, stretching out from your area of control.\n\nNew Effect: Range increased from 4 facets to 6.\n\nConsumes 1 Magicka Charge.",
   icon: "/esoui/art/icons/ability_scrying_03.dds",
-  esoSkillId: 139321,
+  esoAbilityId: 139321,
   isMorph: false,
   learnedLevel: 9,
   lineRankNeeded: 9,
@@ -20,5 +20,5 @@ export const farsight = {
   skillType: "temper-skill-type/passive",
   hashPlace: 497,
   createdAt: "2026-05-26T03:25:55.764Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

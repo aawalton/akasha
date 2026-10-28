@@ -10,7 +10,7 @@ export const heavyShovel = {
   description:
     "Removes 1 layer of dirt and rocks from up to a 3x3 area.\n\nThe shovel only affects a single contiguous height of dirt and rocks.\n\nCosts 2 Intuition to use.\nHas a chance to consume no Intuition on use.",
   icon: "/esoui/art/icons/u26_ability_digging_02.dds",
-  esoSkillId: 139907,
+  esoAbilityId: 139907,
   isMorph: false,
   learnedLevel: 8,
   lineRankNeeded: 8,
@@ -20,5 +20,5 @@ export const heavyShovel = {
   skillType: "temper-skill-type/passive",
   hashPlace: 623,
   createdAt: "2026-05-26T03:25:55.773Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

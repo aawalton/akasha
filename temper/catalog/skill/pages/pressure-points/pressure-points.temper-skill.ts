@@ -10,7 +10,7 @@ export const pressurePoints = {
   description:
     "Increases your Critical Chance rating by 548 for each Assassination ability slotted, increasing your chance to critically strike by 2.5% per ability.\n\nCurrent bonus: 0.",
   icon: "/esoui/art/icons/passive_weapon_015.dds",
-  esoSkillId: 45053,
+  esoAbilityId: 45053,
   isMorph: false,
   learnedLevel: 22,
   lineRankNeeded: 22,
@@ -22,7 +22,7 @@ export const pressurePoints = {
   effects: "jsonl",
   hashPlace: 928,
   createdAt: "2026-05-26T03:13:12.431Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 438 (Constant)",
     "<<2>> = 2% (Constant)",

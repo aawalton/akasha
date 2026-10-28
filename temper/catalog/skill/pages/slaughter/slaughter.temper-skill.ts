@@ -10,7 +10,7 @@ export const slaughter = {
   description:
     "Increases damage with Dual Wield abilities by 20% against enemies with under 25% Health.",
   icon: "/esoui/art/icons/ability_weapon_019.dds",
-  esoSkillId: 45476,
+  esoAbilityId: 45476,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -22,6 +22,6 @@ export const slaughter = {
   effects: "jsonl",
   hashPlace: 1204,
   createdAt: "2026-05-26T02:38:38.357Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 20% (Constant)"],
 } as const satisfies TemperSkill

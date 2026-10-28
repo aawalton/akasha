@@ -10,7 +10,7 @@ export const diplomat = {
   description:
     "Increases your experience gain with the One Hand and Shield skill line by 15%.\n\nIncreases your gold gained by 1%.",
   icon: "/esoui/art/icons/ability_templar_027.dds",
-  esoSkillId: 36312,
+  esoAbilityId: 36312,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,6 +22,6 @@ export const diplomat = {
   effects: "jsonl",
   hashPlace: 368,
   createdAt: "2026-05-26T03:18:02.181Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1% (Constant)"],
 } as const satisfies TemperSkill

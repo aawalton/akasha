@@ -10,7 +10,7 @@ export const hungryScythe = {
   description:
     "Slice into your enemy's life force, dealing 1742 Magic Damage.  \n\nYou heal for 2400 Health for the first enemy hit, and an additional 800 for each additional enemy, up to five times. After dealing damage, you heal for 991 Health every 2 seconds over 10 seconds. The healing of this ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_necromancer_007_a.dds",
-  esoSkillId: 40118223,
+  esoAbilityId: 40118223,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const hungryScythe = {
   skillType: "temper-skill-type/active",
   hashPlace: 642,
   createdAt: "2026-05-26T03:13:12.360Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 0.15 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",

@@ -10,7 +10,7 @@ export const vengeanceMoltenWeapons = {
   description:
     "Charge your and up to 2 of your grouped allies' weapons with volcanic power to gain Minor Prophecy and Savagery, increasing your Weapon and Spell Critical by |cffffff1314|r for |cffffff30|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_015.dds",
-  esoSkillId: 237782,
+  esoAbilityId: 237782,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceMoltenWeapons = {
   skillType: "temper-skill-type/active",
   hashPlace: 1509,
   createdAt: "2026-05-28T16:03:34.336Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Savagery (Constant)",
     "<<2>> = 1314 (Constant)",

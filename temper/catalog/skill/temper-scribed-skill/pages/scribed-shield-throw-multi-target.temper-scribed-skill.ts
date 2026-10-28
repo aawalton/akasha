@@ -10,7 +10,7 @@ export const scribedShieldThrowMultiTarget = {
   description:
     "Deals 1045 Physical Damage to an enemy and bounces up to 2 times to random nearby enemies, dealing 1393 Physical Damage and 1742 Physical Damage.",
   icon: "/esoui/art/icons/ability_grimoire_1handed.dds",
-  esoSkillId: 217061,
+  esoAbilityId: 217061,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedShieldThrowMultiTarget = {
   grimoireId: "temper-grimoire/shield-throw",
   hashPlace: 1664,
   createdAt: "2026-05-26T13:19:53.271Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

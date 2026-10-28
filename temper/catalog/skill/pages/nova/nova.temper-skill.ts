@@ -10,7 +10,7 @@ export const nova = {
   description:
     "Call down a fragment of the sun, dealing |cffffff4036|r Magic Damage every |cffffff1|r second for |cffffff8|r seconds to enemies in the area and afflicting them with Major Maim, reducing their damage done by |cffffff10|r%.\n\nAn ally near the fragment can activate the Supernova synergy, dealing |cffffff9576|r Magic Damage to all enemies in the area and stunning them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_templar_nova.dds",
-  esoSkillId: 21752,
+  esoAbilityId: 21752,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const nova = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 861,
   createdAt: "2026-05-28T16:03:33.190Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0499489 MaxStat + 0.524968 MaxPower - 0.306011 (Ultimate, ratio = 10.51, Dmg, Magic, AOE, DOT, 1s tick, R2 = 0.999999)",
     "<<2>> = 1 second (Constant)",

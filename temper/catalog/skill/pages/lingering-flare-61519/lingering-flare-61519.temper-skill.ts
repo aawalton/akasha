@@ -10,7 +10,7 @@ export const lingeringFlare61519 = {
   description:
     "Launch a blinding flare, revealing stealthed and invisible enemies in the target area for |cffffff10|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds.\n\nWhile slotted you gain Major Protection, reducing your damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_ava_lingering_flare.dds",
-  esoSkillId: 61519,
+  esoAbilityId: 61519,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -20,7 +20,7 @@ export const lingeringFlare61519 = {
   skillType: "temper-skill-type/active",
   hashPlace: 757,
   createdAt: "2026-05-28T16:03:33.001Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 7 seconds (Constant)",
     "<<2>> = 4 seconds (Constant)",

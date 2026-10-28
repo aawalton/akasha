@@ -10,7 +10,7 @@ export const disdainHarm = {
   description:
     "Reduce the damage you take from damage over time abilities by 15% while you have a Bone Tyrant ability active.",
   icon: "/esoui/art/icons/passive_necromancer_006.dds",
-  esoSkillId: 116240,
+  esoAbilityId: 116240,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -22,6 +22,6 @@ export const disdainHarm = {
   effects: "jsonl",
   hashPlace: 369,
   createdAt: "2026-05-26T03:13:12.278Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

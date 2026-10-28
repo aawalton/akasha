@@ -10,7 +10,7 @@ export const augur = {
   description:
     "Indicates how near the Antiquity is to the selected location. \n\nCan only be used a limited number of times, based on the Antiquity's Difficulty.\n\nWorks on the lowest six layers of dirt and rocks. Cannot detect Bonus Loot.\n\nUsing Augur does not consume a turn.",
   icon: "/esoui/art/icons/u26_ability_digging_04.dds",
-  esoSkillId: 139905,
+  esoAbilityId: 139905,
   isMorph: false,
   learnedLevel: 5,
   lineRankNeeded: 5,
@@ -20,5 +20,5 @@ export const augur = {
   skillType: "temper-skill-type/passive",
   hashPlace: 60,
   createdAt: "2026-05-26T03:25:55.719Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

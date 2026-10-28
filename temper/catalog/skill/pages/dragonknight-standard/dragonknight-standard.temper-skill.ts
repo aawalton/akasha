@@ -10,7 +10,7 @@ export const dragonknightStandard = {
   description:
     "Call down a battle standard for |cffffff15|r seconds, rallying you and allies inside the area, increasing Weapon and Spell Damage by |cffffff300|r and reducing damage taken by |cffffff10|r%.\n\nAn ally near the standard can activate the Shackle synergy, dealing |cffffff12393|r Flame Damage to enemies in the area and immobilizing them for |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_006.dds",
-  esoSkillId: 28988,
+  esoAbilityId: 28988,
   isMorph: false,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const dragonknightStandard = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 381,
   createdAt: "2026-05-28T16:03:32.200Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15 seconds (Constant)",
     "<<2>> = 270 (Constant)",

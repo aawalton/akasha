@@ -10,7 +10,7 @@ export const theImperfectRing = {
   description:
     "Summon a flawed rune under an enemy that etches foes nearby with scrawled glyphs, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff9914|r Frost Damage to enemies within 7 meters.",
   icon: "/esoui/art/icons/ability_arcanist_004.dds",
-  esoSkillId: 185836,
+  esoAbilityId: 185836,
   isMorph: false,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const theImperfectRing = {
   skillType: "temper-skill-type/active",
   hashPlace: 1336,
   createdAt: "2026-05-28T16:03:34.062Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0182227 MaxStat + 0.19082 MaxPower - 1.34458 (Ultimate, ratio = 10.47, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999996)",
     "<<2>> = 20 seconds (Constant)",

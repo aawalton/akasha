@@ -10,7 +10,7 @@ export const absorb = {
   description:
     "Restores 600 Magicka whenever you block an attack. This effect can occur once every .25 seconds.",
   icon: "/esoui/art/icons/ability_weapon_010.dds",
-  esoSkillId: 45521,
+  esoAbilityId: 45521,
   isMorph: false,
   learnedLevel: 46,
   lineRankNeeded: 46,
@@ -22,6 +22,6 @@ export const absorb = {
   effects: "jsonl",
   hashPlace: 2,
   createdAt: "2026-05-26T02:38:38.281Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 600 (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const cauterize32881 = {
   description:
     "Activate an aura of embers which cauterizes the wounds of you or up to |cffffff6|r nearby allies every |cffffff3|r seconds, healing for |cffffff3773|r Health.\n\nWhile slotted on either bar, you gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.",
   icon: "/esoui/art/icons/ability_dragonknight_002_b.dds",
-  esoSkillId: 32881,
+  esoAbilityId: 32881,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const cauterize32881 = {
   skillType: "temper-skill-type/active",
   hashPlace: 193,
   createdAt: "2026-05-28T16:03:31.907Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
     "<<2>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",

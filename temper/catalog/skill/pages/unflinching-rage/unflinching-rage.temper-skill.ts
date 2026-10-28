@@ -10,7 +10,7 @@ export const unflinchingRage = {
   description:
     "Increases your Max Health by 1000.\n\nWhen you deal damage, you heal for 2125 Health.  This can occur once every 4 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_018.dds",
-  esoSkillId: 84672,
+  esoAbilityId: 84672,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -22,6 +22,6 @@ export const unflinchingRage = {
   effects: "jsonl",
   hashPlace: 1385,
   createdAt: "2026-05-26T03:18:02.213Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1000 (Constant)", "<<2>> = 2125 (Constant)", "<<3>> = 4 seconds (Constant)"],
 } as const satisfies TemperSkill

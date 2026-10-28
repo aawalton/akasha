@@ -10,7 +10,7 @@ export const vengeanceSoulShred = {
   description:
     "Ravage up to 3 nearby enemies' souls with a night rune, dealing |cffffff20285|r Magic Damage and stunning them for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_018.dds",
-  esoSkillId: 237722,
+  esoAbilityId: 237722,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceSoulShred = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1563,
   createdAt: "2026-05-28T16:03:34.413Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 (Constant)",
     "<<2>> = 18112 Magic Damage (Constant)",

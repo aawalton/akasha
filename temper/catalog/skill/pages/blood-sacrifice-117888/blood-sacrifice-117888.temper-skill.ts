@@ -10,7 +10,7 @@ export const bloodSacrifice117888 = {
   description:
     "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for |cffffff11321|r Health but applying Minor Defile to yourself for |cffffff4|r seconds, reducing your healing received and damage shield strength by |cffffff6|r%.\n\nConsumes a corpse near you when cast to heal a second target.",
   icon: "/esoui/art/icons/ability_necromancer_013_b.dds",
-  esoSkillId: 117888,
+  esoAbilityId: 117888,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const bloodSacrifice117888 = {
   skillType: "temper-skill-type/active",
   hashPlace: 128,
   createdAt: "2026-05-28T16:03:31.802Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 4 seconds (Constant)",

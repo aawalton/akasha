@@ -20,7 +20,7 @@ function lineIdsOf(list: readonly SkillTemplate[]): ReadonlySet<SkillLineId> {
   const ids = new Set<SkillLineId>()
   for (const skill of list) {
     if (
-      skill.esoSkillId !== 0 &&
+      skill.esoAbilityId !== 0 &&
       skill.skillType !== "passive" &&
       skill.subcategoryId !== "scribed"
     ) {
@@ -45,7 +45,7 @@ function byLineOf(list: readonly SkillTemplate[]): ReadonlyMap<SkillLineId, Morp
   >()
   for (const skill of list) {
     if (
-      skill.esoSkillId === 0 ||
+      skill.esoAbilityId === 0 ||
       skill.skillType === "passive" ||
       skill.subcategoryId === "scribed"
     )

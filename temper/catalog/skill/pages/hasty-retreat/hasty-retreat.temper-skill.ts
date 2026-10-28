@@ -10,7 +10,7 @@ export const hastyRetreat = {
   description:
     "Grants you Major Expedition for 4 seconds after you use Roll Dodge.\n\nMajor Expedition increases your Movement Speed by 30%.",
   icon: "/esoui/art/icons/ability_dragonknight_029.dds",
-  esoSkillId: 45498,
+  esoAbilityId: 45498,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -22,6 +22,6 @@ export const hastyRetreat = {
   effects: "jsonl",
   hashPlace: 597,
   createdAt: "2026-05-26T02:38:38.326Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 4 seconds (Constant)", "<<2>> = 30% (Constant)"],
 } as const satisfies TemperSkill

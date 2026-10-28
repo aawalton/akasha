@@ -9,7 +9,7 @@ export const antiquarianInsight = {
   baseName: "Antiquarian Insight",
   description: "Allows you to scry for Antiquities of up to Ultimate difficulty.",
   icon: "/esoui/art/icons/ability_scrying_05e.dds",
-  esoSkillId: 141018,
+  esoAbilityId: 141018,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -19,5 +19,5 @@ export const antiquarianInsight = {
   skillType: "temper-skill-type/passive",
   hashPlace: 40,
   createdAt: "2026-05-26T03:25:55.716Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

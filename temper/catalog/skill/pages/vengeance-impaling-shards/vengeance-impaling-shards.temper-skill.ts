@@ -10,7 +10,7 @@ export const vengeanceImpalingShards = {
   description:
     "Conjure icy shards around you to skewer up to 3 enemies in the area, dealing |cffffff8820|r Frost Damage and immobilizing them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_warden_004.dds",
-  esoSkillId: 238079,
+  esoAbilityId: 238079,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceImpalingShards = {
   skillType: "temper-skill-type/active",
   hashPlace: 1492,
   createdAt: "2026-05-28T16:03:34.311Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 (Constant)",
     "<<2>> = 7875 Frost Damage (Constant)",

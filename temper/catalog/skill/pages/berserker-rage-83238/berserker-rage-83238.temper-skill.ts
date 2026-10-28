@@ -10,7 +10,7 @@ export const berserkerRage83238 = {
   description:
     "Strike at an enemy with a vicious blow, dealing |cffffff12515|r Physical Damage to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Resistance equal to the amount ignored from the initial target for |cffffff12|r seconds.\n\nYou are immune to all disabling, snare, and immobilization effects for the duration.",
   icon: "/esoui/art/icons/ability_2handed_006_b.dds",
-  esoSkillId: 83238,
+  esoAbilityId: 83238,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 50,
@@ -20,7 +20,7 @@ export const berserkerRage83238 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 89,
   createdAt: "2026-05-28T16:03:31.715Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, 0.4s cooldown, R2 = 1)",
     "<<2>> = 12 seconds (Constant)",

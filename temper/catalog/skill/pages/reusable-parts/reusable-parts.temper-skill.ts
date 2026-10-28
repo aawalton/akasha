@@ -10,7 +10,7 @@ export const reusableParts = {
   description:
     "When your Sacrificial Bones, Skeletal Mage, or Spirit Mender dies, the cost of your next Sacrificial Bones, Skeletal Mage, or Spirit Mender is reduced by 66%.",
   icon: "/esoui/art/icons/passive_necromancer_001.dds",
-  esoSkillId: 116188,
+  esoAbilityId: 116188,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -22,7 +22,7 @@ export const reusableParts = {
   effects: "jsonl",
   hashPlace: 1061,
   createdAt: "2026-05-26T03:13:12.466Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Sacrificial Bones (Constant)",
     "<<2>> = Skeletal Mage (Constant)",

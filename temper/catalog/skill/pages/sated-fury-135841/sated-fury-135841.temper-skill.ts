@@ -10,7 +10,7 @@ export const satedFury135841 = {
   description:
     "Allow your monstrous appetites to take hold, increasing your Weapon and Spell Damage by |cffffff60|r every |cffffff2|r seconds, up to |cffffff5|r times.\n\nWhile toggled on, the Health cost of this ability increases by |cffffff300|r per stack and you cannot be healed by anyone but yourself, your pets, or your Companions.\n\nWhen toggled off, you heal for |cffffff34|r% of the total Health cost you spent while active.",
   icon: "/esoui/art/icons/ability_u26_vampire_02_b.dds",
-  esoSkillId: 135841,
+  esoAbilityId: 135841,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const satedFury135841 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1129,
   createdAt: "2026-05-28T16:03:33.681Z",
-  updatedAt: "2026-10-21T05:02:44.400Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 60 (Constant)",
     "<<2>> = 2 seconds (Constant)",

@@ -10,7 +10,7 @@ export const heavyArmorPenalties = {
   description:
     "Each piece of Heavy Armor does the following:\n\nIncreases damage taken from Magical attacks by 1%\n\nReduces the Movement Speed bonus of Sprint by 1%\n\nIncreases the cost of Roll Dodge by 3%\n\nIncreases the size of your detection area while Sneaking by 10%",
   icon: "/esoui/art/icons/passive_armor2_heavy.dds",
-  esoSkillId: 152780,
+  esoAbilityId: 152780,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,7 +22,7 @@ export const heavyArmorPenalties = {
   effects: "jsonl",
   hashPlace: 622,
   createdAt: "2026-05-26T02:59:07.590Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1% (Constant)",
     "<<2>> = 1% (Constant)",

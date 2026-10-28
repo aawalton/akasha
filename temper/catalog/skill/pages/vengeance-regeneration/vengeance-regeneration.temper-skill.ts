@@ -10,7 +10,7 @@ export const vengeanceRegeneration = {
   description:
     "Share your staff's life-giving energy, healing you or a nearby ally for |cffffff26024|r Health over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_002.dds",
-  esoSkillId: 241521,
+  esoAbilityId: 241521,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceRegeneration = {
   skillType: "temper-skill-type/active",
   hashPlace: 1532,
   createdAt: "2026-05-28T16:03:34.369Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 25512 (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

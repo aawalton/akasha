@@ -1,9 +1,9 @@
 import type { Decisions } from "akasha/domain/properties/decisions.record-property.types.ts"
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
+import type { EsoAbilityId } from "akasha/temper/catalog/ability/properties/eso-ability-id.number-property.types.ts"
 import type { TemperAbility } from "akasha/temper/catalog/ability/temper-ability.page-type.types.ts"
 import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { BaseName } from "akasha/temper/catalog/skill/properties/base-name.text-property.types.ts"
-import type { EsoSkillId } from "akasha/temper/catalog/skill/properties/eso-skill-id.number-property.types.ts"
 import type { IsMorph } from "akasha/temper/catalog/skill/properties/is-morph.boolean-property.types.ts"
 import type { LearnedLevel } from "akasha/temper/catalog/skill/properties/learned-level.number-property.types.ts"
 import type { LineRankNeeded } from "akasha/temper/catalog/skill/properties/line-rank-needed.number-property.types.ts"
@@ -19,7 +19,7 @@ export type TemperSkill = TemperAbility & {
   key: Key
   description: Description
   baseName: BaseName
-  esoSkillId: EsoSkillId
+  esoAbilityId: EsoAbilityId
   isMorph: IsMorph
   learnedLevel: LearnedLevel
   lineRankNeeded: LineRankNeeded

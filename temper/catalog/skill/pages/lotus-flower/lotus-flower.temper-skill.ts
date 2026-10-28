@@ -10,7 +10,7 @@ export const lotusFlower = {
   description:
     "Embrace the lotus blessing, causing your Light Attacks to restore |cffffff1346|r Health and your fully-charged Heavy Attacks to restore |cffffff3097|r Health to you or a nearby ally for |cffffff20|r seconds.\n\nWhile active you gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.",
   icon: "/esoui/art/icons/ability_warden_009.dds",
-  esoSkillId: 85539,
+  esoAbilityId: 85539,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const lotusFlower = {
   skillType: "temper-skill-type/active",
   hashPlace: 771,
   createdAt: "2026-05-28T16:03:33.025Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1320 (Constant)",
     "<<2>> = 3036 (Constant)",

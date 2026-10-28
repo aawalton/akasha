@@ -9,7 +9,7 @@ export const yffresEndurance = {
   baseName: "Y'ffre's Endurance",
   description: "Increases your Stamina Recovery by 258.",
   icon: "/esoui/art/icons/ability_templar_002.dds",
-  esoSkillId: 64281,
+  esoAbilityId: 64281,
   isMorph: false,
   learnedLevel: 40,
   lineRankNeeded: 40,
@@ -21,6 +21,6 @@ export const yffresEndurance = {
   effects: "jsonl",
   hashPlace: 1633,
   createdAt: "2026-05-26T03:18:02.215Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 258 (Constant)"],
 } as const satisfies TemperSkill

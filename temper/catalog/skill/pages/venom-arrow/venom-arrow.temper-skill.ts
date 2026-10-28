@@ -10,7 +10,7 @@ export const venomArrow = {
   description:
     "Shoot an arrow coated in Shadowscale poison at an enemy, dealing 1161 Poison Damage and an additional 3470 Poison Damage over 20 seconds.\n\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for 3 seconds.\n\nAfter casting you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage for 20 seconds.",
   icon: "/esoui/art/icons/ability_bow_002_a.dds",
-  esoSkillId: 40823,
+  esoAbilityId: 40823,
   isMorph: true,
   learnedLevel: 38,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const venomArrow = {
   skillType: "temper-skill-type/active",
   hashPlace: 1592,
   createdAt: "2026-05-26T02:38:38.365Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Poison, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.0156088 MaxStat + 0.162726 MaxPower - 2.99952 (Ultimate, ratio = 10.43, Dmg, Poison, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999995)",

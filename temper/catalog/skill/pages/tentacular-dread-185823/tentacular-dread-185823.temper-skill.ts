@@ -10,7 +10,7 @@ export const tentacularDread185823 = {
   description:
     "Infuse your arm with abyssal magic to form tentacles that lash out at your foes, dealing |cffffff7360|r Frost Damage. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.\n\nConsume all Crux and increase Tentacular Dread damage by |cffffff33|r% and damage to foes drenched in Abyssal Ink by |cffffff2|r% per Crux spent.",
   icon: "/esoui/art/icons/ability_arcanist_003_b.dds",
-  esoSkillId: 185823,
+  esoAbilityId: 185823,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const tentacularDread185823 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1335,
   createdAt: "2026-05-28T16:03:34.060Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.08625 MaxStat + 0.905625 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Frost, AOE, Direct, Melee, 0.3s cooldown, R2 = 1)",
     "<<2>> = 3 seconds (Constant)",

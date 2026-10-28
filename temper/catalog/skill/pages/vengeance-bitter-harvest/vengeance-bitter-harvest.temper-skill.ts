@@ -10,7 +10,7 @@ export const vengeanceBitterHarvest = {
   description:
     "Sap the lingering life from up to 3 fresh corpses, granting you |cffffff3|r Ultimate and healing |cffffff1508|r Health per corpse consumed. You also gain Major Protection for |cffffff10|r seconds, reducing your damage taken by |cffffff10|r%. \n\nThis ability can be activated once every |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_011.dds",
-  esoSkillId: 238141,
+  esoAbilityId: 238141,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceBitterHarvest = {
   skillType: "temper-skill-type/active",
   hashPlace: 1420,
   createdAt: "2026-05-28T16:03:34.207Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 (Constant)",
     "<<2>> = 0.075 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",

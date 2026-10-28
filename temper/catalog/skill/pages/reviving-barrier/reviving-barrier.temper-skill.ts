@@ -10,7 +10,7 @@ export const revivingBarrier = {
   description:
     "Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to 11620 damage for 30 seconds.\n\nThe wards also heal you and your group members for 5370 Health over 15 seconds.",
   icon: "/esoui/art/icons/ability_ava_006_b.dds",
-  esoSkillId: 46614,
+  esoAbilityId: 46614,
   isMorph: true,
   learnedLevel: 6,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const revivingBarrier = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1071,
   createdAt: "2026-05-26T03:25:55.809Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.5165 MaxStat + 5.42325 MaxPower (Ultimate, ratio = 10.50, DmgShield, SingleTarget, Direct, 30s duration, R2 = 1)",
     "<<2>> = 30 seconds (Constant)",

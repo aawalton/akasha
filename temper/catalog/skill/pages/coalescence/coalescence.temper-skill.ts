@@ -10,7 +10,7 @@ export const coalescence = {
   description:
     "Unites a hexagonal cluster of facets in the Antiquarian's Eye, converting the symbols to match that of the central facet.\n\nNew Effect: The ability's range increases by one facet, creating a snowflake-like pattern.\n\nConsumes 1 Magicka Charge.",
   icon: "/esoui/art/icons/ability_scrying_02.dds",
-  esoSkillId: 139306,
+  esoAbilityId: 139306,
   isMorph: false,
   learnedLevel: 6,
   lineRankNeeded: 6,
@@ -20,5 +20,5 @@ export const coalescence = {
   skillType: "temper-skill-type/passive",
   hashPlace: 224,
   createdAt: "2026-05-26T03:25:55.740Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

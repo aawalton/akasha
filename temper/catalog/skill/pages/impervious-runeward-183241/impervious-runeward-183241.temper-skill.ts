@@ -10,7 +10,7 @@ export const imperviousRuneward183241 = {
   description:
     "Like the rune knights of old, summon a shield that absorbs |cffffff14053|r damage for |cffffff1|r second, and then |cffffff3122|r damage for |cffffff5|r seconds if the first shield persists. Both shields scale off your Max Health.\n\nThe first time you take direct damage, the shield retaliates and deals |cffffff1951|r Magic Damage to the attacker, scaling off your Armor.\n\nConsume Crux to heal yourself for |cffffff2010|r Health, scaling off your Max Health, per Crux spent.",
   icon: "/esoui/art/icons/ability_arcanist_008_b.dds",
-  esoSkillId: 183241,
+  esoAbilityId: 183241,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const imperviousRuneward183241 = {
   skillType: "temper-skill-type/active",
   hashPlace: 671,
   createdAt: "2026-05-28T16:03:32.833Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.6 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 1s duration, R2 = 1)",
     "<<2>> = 1 second (Constant)",

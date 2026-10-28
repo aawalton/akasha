@@ -10,7 +10,7 @@ export const vengeanceForceShock = {
   description:
     "Focus on one of the elemental energies with your staff and blast an enemy for |cffffff10017|r Flame Damage, |cffffff10017|r Frost Damage, or |cffffff10017|r Shock Damage.",
   icon: "/esoui/art/icons/ability_destructionstaff_001.dds",
-  esoSkillId: 241291,
+  esoAbilityId: 241291,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceForceShock = {
   skillType: "temper-skill-type/active",
   hashPlace: 1477,
   createdAt: "2026-05-28T16:03:34.290Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 9450 Flame Damage (Constant)",
     "<<2>> = 9450 Frost Damage (Constant)",

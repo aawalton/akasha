@@ -10,7 +10,7 @@ export const greaterStormAtronach23492 = {
   description:
     "Summon an immobile storm atronach at the target location. Its arrival deals |cffffff8261|r Shock Damage and stuns enemies for |cffffff3|r seconds. The atronach zaps the closest enemy, dealing |cffffff4952|r Shock Damage every |cffffff1|r second.\n\nAn ally near the atronach can activate the Charged Lightning synergy, granting nearby allies Major Berserk for |cffffff10|r seconds, increasing their damage done by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_greater_storm_atronach.dds",
-  esoSkillId: 23492,
+  esoAbilityId: 23492,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const greaterStormAtronach23492 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 578,
   createdAt: "2026-05-28T16:03:32.648Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, Dmg, Shock, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 3 seconds (Constant)",

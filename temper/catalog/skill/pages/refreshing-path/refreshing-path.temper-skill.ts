@@ -10,7 +10,7 @@ export const refreshingPath = {
   description:
     "Create a corridor of shadows for 10 seconds, granting you and allies in the area Major Expedition, Minor Endurance, and Minor Intellect, increasing Movement Speed by 30%, as well as Stamina and Magicka Recovery by 15%. Effect persists for 4 seconds after leaving the path.\n\nHeals 435 Health to you and allies in the area every 1 second.",
   icon: "/esoui/art/icons/ability_nightblade_010_a.dds",
-  esoSkillId: 37816,
+  esoAbilityId: 37816,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const refreshingPath = {
   skillType: "temper-skill-type/active",
   hashPlace: 1006,
   createdAt: "2026-05-26T03:13:12.452Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10 seconds (Constant)",
     "<<2>> = Major Expedition (Constant)",

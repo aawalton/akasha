@@ -9,7 +9,7 @@ export const lunarBlessings = {
   baseName: "Lunar Blessings",
   description: "Increase your Maximum Health, Magicka, and Stamina by 915.",
   icon: "/esoui/art/icons/passive_khajiit_01.dds",
-  esoSkillId: 117848,
+  esoAbilityId: 117848,
   isMorph: false,
   learnedLevel: 40,
   lineRankNeeded: 40,
@@ -21,6 +21,6 @@ export const lunarBlessings = {
   effects: "jsonl",
   hashPlace: 776,
   createdAt: "2026-05-26T03:18:02.191Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 915 (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const vengeanceHealingRitual = {
   description:
     "Focus your spiritual devotion, healing you or up to 3 nearby allies for |cffffff12049|r Health.",
   icon: "/esoui/art/icons/ability_templar_healing_ritual.dds",
-  esoSkillId: 238018,
+  esoAbilityId: 238018,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceHealingRitual = {
   skillType: "temper-skill-type/active",
   hashPlace: 1488,
   createdAt: "2026-05-28T16:03:34.305Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 11813 (Constant)"],
 } as const satisfies TemperSkill

@@ -9,7 +9,7 @@ export const gourmand = {
   baseName: "Gourmand",
   description: "Adds 20 minutes to the duration of any eaten food.",
   icon: "/esoui/art/icons/ability_provisioner_004.dds",
-  esoSkillId: 44610,
+  esoAbilityId: 44610,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 3,
@@ -19,5 +19,5 @@ export const gourmand = {
   skillType: "temper-skill-type/passive",
   hashPlace: 571,
   createdAt: "2026-05-26T02:37:19.383Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

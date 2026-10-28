@@ -10,7 +10,7 @@ export const implacableOutcome = {
   description:
     "The will of an Arcanist is absolute. When you consume Crux, gain 4 Ultimate. This effect can occur once every 8 seconds.",
   icon: "/esoui/art/icons/passive_arcanist_08.dds",
-  esoSkillId: 185058,
+  esoAbilityId: 185058,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const implacableOutcome = {
   status: "unsupported",
   hashPlace: 672,
   createdAt: "2026-05-26T03:13:12.369Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 4 (Constant)", "<<2>> = 8 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const vengeanceGrimFocus = {
   description:
     "Focus your lethal intent into a spectral bow to fire at an enemy, dealing |cffffff20034|r Magic Damage, up to once every |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_005.dds",
-  esoSkillId: 237605,
+  esoAbilityId: 237605,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceGrimFocus = {
   skillType: "temper-skill-type/active",
   hashPlace: 1486,
   createdAt: "2026-05-28T16:03:34.302Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 18900 Magic Damage (Constant)", "<<2>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

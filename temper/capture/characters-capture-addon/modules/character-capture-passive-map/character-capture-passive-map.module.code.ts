@@ -14,7 +14,7 @@ const COMPANION = `${temperSkillLineCategory.slug}/${companion.slug}`
 
 const PASSIVE = `${temperSkillType.slug}/${passive.slug}`
 
-type Indices = { [esoSkillId: number]: number | undefined }
+type Indices = { [esoAbilityId: number]: number | undefined }
 
 type Held = { count: number; indices: Indices }
 
@@ -36,7 +36,9 @@ function heldOf(this: void): Held {
   passives.sort((one, other) => one.hashPlace - other.hashPlace)
   const indices: Indices = {}
   passives.forEach((one, at) => {
-    if (one.esoSkillId !== 0 && indices[one.esoSkillId] === undefined) indices[one.esoSkillId] = at
+    if (one.esoAbilityId !== 0 && indices[one.esoAbilityId] === undefined) {
+      indices[one.esoAbilityId] = at
+    }
   })
   return { count: passives.length, indices }
 }
@@ -46,7 +48,7 @@ export function characterPassiveSkillCount(): number {
   return held.count
 }
 
-export function getPassiveBitmaskIndex(esoSkillId: number): number | undefined {
+export function getPassiveBitmaskIndex(esoAbilityId: number): number | undefined {
   held ??= heldOf()
-  return held.indices[esoSkillId]
+  return held.indices[esoAbilityId]
 }

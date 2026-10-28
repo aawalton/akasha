@@ -9,7 +9,7 @@ export const scribedElementalExplosionFlameDamage = {
   baseName: "Elemental Explosion",
   description: "Deals 4009 Flame Damage to enemies.",
   icon: "/esoui/art/icons/ability_grimoire_staffdestro.dds",
-  esoSkillId: 217228,
+  esoAbilityId: 217228,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const scribedElementalExplosionFlameDamage = {
   grimoireId: "temper-grimoire/elemental-explosion",
   hashPlace: 1645,
   createdAt: "2026-05-26T13:19:53.251Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

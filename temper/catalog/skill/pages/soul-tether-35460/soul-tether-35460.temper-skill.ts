@@ -10,7 +10,7 @@ export const soulTether35460 = {
   description:
     "Ravage nearby enemies' souls with a night rune, dealing |cffffff13224|r Magic Damage, healing for half the damage, and stunning them for |cffffff4|r seconds. \n\nRavaged enemies are tethered to you for |cffffff8|r seconds, and while they remain within |cffffff10|r meters, you siphon |cffffff2056|r Health from them every second.\n\nAn ally can target a ravaged enemy and activate the Soul Leech synergy, dealing |cffffff10851|r Magic Damage to them and healing for the damage caused.",
   icon: "/esoui/art/icons/ability_nightblade_018_a.dds",
-  esoSkillId: 35460,
+  esoAbilityId: 35460,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const soulTether35460 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1239,
   createdAt: "2026-05-28T16:03:33.885Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, 0.5s cooldown, R2 = 1)",
     "<<2>> = 4 seconds (Constant)",

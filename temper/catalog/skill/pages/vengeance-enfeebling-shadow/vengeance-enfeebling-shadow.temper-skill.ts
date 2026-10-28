@@ -10,7 +10,7 @@ export const vengeanceEnfeeblingShadow = {
   description:
     "Infuse your weapon with sinister shadow and stab an enemy, dealing |cffffff5565|r Magic Damage and applying Major Maim to them for |cffffff6|r seconds, reducing their damage done by |cffffff10|r%.",
   icon: "/esoui/art/icons/achievement_thievesguild_040.dds",
-  esoSkillId: 237700,
+  esoAbilityId: 237700,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceEnfeeblingShadow = {
   skillType: "temper-skill-type/active",
   hashPlace: 1463,
   createdAt: "2026-05-28T16:03:34.270Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5250 Magic Damage (Constant)",
     "<<2>> = Major Maim (Constant)",

@@ -9,7 +9,7 @@ export const locksmith = {
   baseName: "Locksmith",
   description: "Improves your chances of forcing locks by 70%.",
   icon: "/esoui/art/icons/ability_legerdemain_lockpick.dds",
-  esoSkillId: 63814,
+  esoAbilityId: 63814,
   isMorph: false,
   learnedLevel: 19,
   lineRankNeeded: 19,
@@ -19,6 +19,6 @@ export const locksmith = {
   skillType: "temper-skill-type/passive",
   hashPlace: 765,
   createdAt: "2026-05-26T03:25:55.791Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 70% (Constant)"],
 } as const satisfies TemperSkill

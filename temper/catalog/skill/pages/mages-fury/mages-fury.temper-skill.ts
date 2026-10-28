@@ -10,7 +10,7 @@ export const magesFury = {
   description:
     "Call down lightning to strike an enemy, dealing |cffffff3028|r Shock Damage.\n\nIf the enemy falls to or below |cffffff20|r% Health within |cffffff2|r seconds of being struck, an explosion deals an additional |cffffff11105|r Shock Damage to them and |cffffff2560|r Shock Damage to other enemies nearby.",
   icon: "/esoui/art/icons/ability_sorcerer_mage_fury.dds",
-  esoSkillId: 18718,
+  esoAbilityId: 18718,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const magesFury = {
   skillType: "temper-skill-type/active",
   hashPlace: 781,
   createdAt: "2026-05-28T16:03:33.040Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0375 MaxStat + 0.39375 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 2 seconds (Constant)",

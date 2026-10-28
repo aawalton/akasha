@@ -10,7 +10,7 @@ export const frozenGate = {
   description:
     "Summon an ancient portal, which arms after |cffffff1.5|r seconds and lasts for |cffffff15|r seconds.\n\nWhen triggered the enemy is teleported to you if within range, immobilized for |cffffff3|r seconds, and dealt |cffffff6057|r Frost Damage.\n\nYou can have up to |cffffff3|r Frozen Gates active at a time.",
   icon: "/esoui/art/icons/ability_warden_005.dds",
-  esoSkillId: 86175,
+  esoAbilityId: 86175,
   isMorph: false,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const frozenGate = {
   skillType: "temper-skill-type/active",
   hashPlace: 548,
   createdAt: "2026-05-28T16:03:32.566Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15 seconds (Constant)",
     "<<2>> = 3 seconds (Constant)",

@@ -8,9 +8,9 @@ export const conservationOfEnergy = {
   key: "conservation-of-energy",
   description:
     "Spellcasting is second nature to you. A skill honed by tireless study.\n\nUpgrades rank 2 of Blood Magic to work with all abilities with a cost, excluding cost per tick abilities, and restores 230 Magicka and 241 Stamina when it activates. This effect scales off your Max Magicka and Stamina.",
-  esoSkillId: 263870,
+  esoAbilityId: 263870,
   class: "temper-class/sorcerer",
   hashPlace: 20,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

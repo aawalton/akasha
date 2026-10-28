@@ -10,7 +10,7 @@ export const swiftlyForgotten = {
   description:
     "Bounty is decreased by 115 after 3 minutes.\nHeat is decreased by 64 after 3 seconds.",
   icon: "/esoui/art/icons/ability_thievesguild_passive_005.dds",
-  esoSkillId: 76457,
+  esoAbilityId: 76457,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -22,6 +22,6 @@ export const swiftlyForgotten = {
   effects: "jsonl",
   hashPlace: 1317,
   createdAt: "2026-05-26T02:59:07.677Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 115 (Constant)", "<<2>> = 64 (Constant)"],
 } as const satisfies TemperSkill

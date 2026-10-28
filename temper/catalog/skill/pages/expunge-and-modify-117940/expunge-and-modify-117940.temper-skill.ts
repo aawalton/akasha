@@ -10,7 +10,7 @@ export const expungeAndModify117940 = {
   description:
     "Embrace the power of death, removing up to |cffffff2|r negative effects from yourself and restoring |cffffff515|r Magicka and Stamina for each negative effect removed.\n\nWhile slotted, the cost of all your abilities are reduced by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_necromancer_014_b.dds",
-  esoSkillId: 117940,
+  esoAbilityId: 117940,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,6 +20,6 @@ export const expungeAndModify117940 = {
   skillType: "temper-skill-type/active",
   hashPlace: 490,
   createdAt: "2026-05-28T16:03:32.436Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2 (Constant)", "<<2>> = 500 (Constant)", "<<3>> = 3% (Constant)"],
 } as const satisfies TemperSkill

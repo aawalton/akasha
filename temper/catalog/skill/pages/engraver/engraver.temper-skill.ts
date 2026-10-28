@@ -9,7 +9,7 @@ export const engraver = {
   baseName: "Engraver",
   description: "Allows the use of Platinum Ounces.",
   icon: "/esoui/art/icons/passive_jewelerengraver.dds",
-  esoSkillId: 103636,
+  esoAbilityId: 103636,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -19,5 +19,5 @@ export const engraver = {
   skillType: "temper-skill-type/passive",
   hashPlace: 445,
   createdAt: "2026-05-26T02:37:19.380Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const lightWeaver = {
   description:
     "When you heal an ally under 50% Health with a Restoring Light ability, you grant them 2 Ultimate.\n\nActivating an ability with a cast or channel time while in combat causes you to automatically block all attacks at no cost for 2 seconds, up to once every 15 seconds.",
   icon: "/esoui/art/icons/ability_templar_012.dds",
-  esoSkillId: 45208,
+  esoAbilityId: 45208,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -21,6 +21,6 @@ export const lightWeaver = {
   status: "unsupported",
   hashPlace: 747,
   createdAt: "2026-05-26T03:13:12.379Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2 seconds (Constant)", "<<2>> = 15 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const bolsteringDarkness36493 = {
   description:
     "Conjure a ring of shadow, reducing the Movement Speed of enemies by |cffffff70|r% and granting you and your allies Major Protection for |cffffff10|r seconds, reducing your damage taken by |cffffff10|r%.\n\nAllies in the area can activate the Hidden Refresh synergy, granting them invisibility, increasing their Movement Speed by |cffffff70|r%, and healing them for |cffffff28640|r Health over |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_015_a.dds",
-  esoSkillId: 36493,
+  esoAbilityId: 36493,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const bolsteringDarkness36493 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 137,
   createdAt: "2026-05-28T16:03:31.815Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 70% (Constant)",
     "<<2>> = Major Protection (Constant)",

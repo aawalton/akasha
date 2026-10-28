@@ -10,7 +10,7 @@ export const massHysteria37470 = {
   description:
     "Summon a dark spirit to terrify all nearby enemies, causing them to cower in fear for |cffffff3|r seconds and be afflicted with Major Cowardice for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r.",
   icon: "/esoui/art/icons/ability_nightblade_016_a.dds",
-  esoSkillId: 37470,
+  esoAbilityId: 37470,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const massHysteria37470 = {
   skillType: "temper-skill-type/active",
   hashPlace: 805,
   createdAt: "2026-05-28T16:03:33.086Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2 seconds (Constant)",
     "<<2>> = Major Cowardice (Constant)",

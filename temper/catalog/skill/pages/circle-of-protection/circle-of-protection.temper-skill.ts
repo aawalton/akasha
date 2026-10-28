@@ -10,7 +10,7 @@ export const circleOfProtection = {
   description:
     "Brand the earth at your location with a rune of protection for |cffffff20|r seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing your damage taken by |cffffff5|r% and increasing your Stamina Recovery by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_fightersguild_001.dds",
-  esoSkillId: 35737,
+  esoAbilityId: 35737,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const circleOfProtection = {
   skillType: "temper-skill-type/active",
   hashPlace: 212,
   createdAt: "2026-05-28T16:03:31.941Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 17 seconds (Constant)",
     "<<2>> = Minor Protection (Constant)",

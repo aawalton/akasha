@@ -10,7 +10,7 @@ export const tanglingWebs = {
   description:
     "Hurl webs to ensnare your foes, reducing the Movement Speed of enemies in the area by 50% and dealing 1742 Physical Damage. After 10 seconds the webs explode, dealing 2323 Poison Damage to enemies within.\n\nA ranged ally can activate the Arachnophobia synergy on an affected enemy, dealing 2249 Poison Damage to them, fearing them for 4 seconds, and summoning a spider to attack for 10 seconds. The spider bites enemies for 673 Physical Damage.",
   icon: "/esoui/art/icons/ability_undaunted_003_b.dds",
-  esoSkillId: 43477,
+  esoAbilityId: 43477,
   isMorph: true,
   learnedLevel: 2,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const tanglingWebs = {
   skillType: "temper-skill-type/active",
   hashPlace: 1327,
   createdAt: "2026-05-26T02:59:07.680Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 50% (Constant)",
     "<<2>> = 0.0774957 MaxStat + 0.813678 MaxPower - 1.85443 (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, R2 = 1)",

@@ -10,7 +10,7 @@ export const concealedWeapon = {
   description:
     "Slash an enemy, dealing 2556 Magic Damage. \n\nIf you strike an enemy from their flank you set them Off Balance.\n\nWhen you leave Sneak or invisibility while in combat, increase your damage done with this ability by 10% for 15 seconds.\n\nWhile slotted on either bar, you gain Minor Expedition, increasing your Movement Speed by 15%.",
   icon: "/esoui/art/icons/ability_nightblade_002_b.dds",
-  esoSkillId: 36244,
+  esoAbilityId: 36244,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,7 +21,7 @@ export const concealedWeapon = {
   effects: "jsonl",
   hashPlace: 233,
   createdAt: "2026-05-26T03:13:12.224Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.11363 MaxStat + 1.19311 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 10% (Constant)",

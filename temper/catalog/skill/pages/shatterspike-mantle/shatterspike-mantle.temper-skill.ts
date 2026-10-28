@@ -10,7 +10,7 @@ export const shatterspikeMantle = {
   description:
     "Envelop your body in molten spikes to increase your damage done by 100 and gain Major Resolve, increasing Physical and Spell Resistance by 5948 for 20 seconds.\n\nAs the armor forms you blast foes around you with shattered obsidian, causing them to take 17006 Flame Damage over 20 seconds. When this effect deals damage you gain a stack of Landslide, up to once every 10 seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_007_a.dds",
-  esoSkillId: 20323,
+  esoAbilityId: 20323,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const shatterspikeMantle = {
   skillType: "temper-skill-type/active",
   hashPlace: 1164,
   createdAt: "2026-05-26T03:13:12.494Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 100 (Constant)",
     "<<2>> = Major Resolve (Constant)",

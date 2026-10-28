@@ -10,7 +10,7 @@ export const solarFlare = {
   description:
     "Conjure a ball of solar energy to heave at an enemy, dealing |cffffff8359|r Magic Damage and increasing your damage done with class abilities by |cffffff5|r% for |cffffff10|r seconds.\n\nAlso grants you Empower for |cffffff10|r seconds, increasing the damage of your Heavy Attacks against monsters by |cffffff70|r%.",
   icon: "/esoui/art/icons/ability_templar_solar_flare.dds",
-  esoSkillId: 22057,
+  esoAbilityId: 22057,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const solarFlare = {
   skillType: "temper-skill-type/active",
   hashPlace: 1216,
   createdAt: "2026-05-28T16:03:33.837Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1035 MaxStat + 1.08675 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, 0.8s cooldown, R2 = 1)",
     "<<2>> = 5% (Constant)",

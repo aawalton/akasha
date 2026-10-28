@@ -9,7 +9,7 @@ export const resistFrost = {
   baseName: "Resist Frost",
   description: "Increases your Max Health by 1000 and Frost Resistance by 4620.",
   icon: "/esoui/art/icons/ability_sorcerer_012.dds",
-  esoSkillId: 45304,
+  esoAbilityId: 45304,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -21,6 +21,6 @@ export const resistFrost = {
   effects: "jsonl",
   hashPlace: 1038,
   createdAt: "2026-05-26T03:18:02.200Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1000 (Constant)", "<<2>> = 4620 (Constant)"],
 } as const satisfies TemperSkill

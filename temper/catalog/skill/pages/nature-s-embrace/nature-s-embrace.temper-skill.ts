@@ -10,7 +10,7 @@ export const natureSEmbrace = {
   description:
     "Launch a vine to swing yourself to an ally, healing you and them for |cffffff11316|r Health over |cffffff10|r seconds. Gain |cffffff3|r Ultimate when either of these effects complete while you are in combat.",
   icon: "/esoui/art/icons/ability_warden_011_b.dds",
-  esoSkillId: 85858,
+  esoAbilityId: 85858,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const natureSEmbrace = {
   skillType: "temper-skill-type/active",
   hashPlace: 847,
   createdAt: "2026-05-28T16:03:33.164Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.025813 MaxStat + 0.271375 MaxPower - 1.25987 (Ultimate, ratio = 10.51, Heal, SingleTarget, DOT, 10s duration, 2s tick, R2 = 0.999998)",
     "<<2>> = 10 seconds (Constant)",

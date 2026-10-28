@@ -9,7 +9,7 @@ export const laboratoryUse = {
   baseName: "Laboratory Use",
   description: "Allows the use of up to 3 reagents while mixing Potions or Poisons.",
   icon: "/esoui/art/icons/ability_alchemy_002.dds",
-  esoSkillId: 45555,
+  esoAbilityId: 45555,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 15,
@@ -19,5 +19,5 @@ export const laboratoryUse = {
   skillType: "temper-skill-type/passive",
   hashPlace: 723,
   createdAt: "2026-05-26T02:37:19.391Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const infectiousClaws = {
   description:
     "Shred up to |cffffff6|r enemies in front of you with wild abandon, dealing |cffffff6474|r Physical Damage and an additional |cffffff11555|r Bleed Damage over |cffffff10|r seconds. Reduced to |cffffff6933|r Bleed Damage over |cffffff6|r seconds against players.\n\nThe initial hit has a |cffffff15|r% chance of applying Sundered, while the damage over time has a |cffffff5|r% chance of applying Hemorrhaging.",
   icon: "/esoui/art/icons/u50_ability_werewolf_raking_claws.dds",
-  esoSkillId: 58855,
+  esoAbilityId: 58855,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 9,
@@ -20,7 +20,7 @@ export const infectiousClaws = {
   skillType: "temper-skill-type/active",
   hashPlace: 682,
   createdAt: "2026-05-28T16:03:32.850Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 (Constant)",
     "<<2>> = 0.0975 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Physical, AOE, Direct, Melee, R2 = 1)",

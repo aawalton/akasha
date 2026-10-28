@@ -10,7 +10,7 @@ export const defensiveStance38312 = {
   description:
     "Bolster your defenses, gaining a damage shield that absorbs up to |cffffff7027|r damage for |cffffff6|r seconds. This portion of the ability scales off your Max Health.\n\nYou reflect the next harmful direct damage projectile cast at you, once per cast.\n\nWhile slotted and you have a shield equipped, the amount of damage you can block is increased by |cffffff10|r% and the cost of blocking is reduced by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_1handed_004_a.dds",
-  esoSkillId: 38312,
+  esoAbilityId: 38312,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const defensiveStance38312 = {
   skillType: "temper-skill-type/active",
   hashPlace: 349,
   createdAt: "2026-05-28T16:03:32.148Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3099 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

@@ -10,7 +10,7 @@ export const flameLash20816 = {
   description:
     "Lash an enemy with flame, dealing |cffffff8076|r Flame Damage and healing for |cffffff2514|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds.\n\nActivating again consumes a stack to deal |cffffff15931|r Flame Damage to your target and all nearby enemies and heals for |cffffff10063|r Health. Consuming all stacks as a Dragonknight increases your damage done by |cffffff7|r%, double against monsters, for |cffffff45|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_001_a.dds",
-  esoSkillId: 20816,
+  esoAbilityId: 20816,
   isMorph: true,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const flameLash20816 = {
   skillType: "temper-skill-type/active",
   hashPlace: 514,
   createdAt: "2026-05-28T16:03:32.483Z",
-  updatedAt: "2026-10-21T09:16:37.779Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.10327876 MaxStat + 1.0844269 MaxPower (Ultimate, RankMod(1), Dmg, Flame, SingleTarget, Direct, Melee)",
     "<<2>> = 0.03443299 MaxStat + 0.36155 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct, rank IV)",
@@ -35,7 +35,7 @@ export const flameLash20816 = {
   ],
   variants: [
     {
-      esoSkillId: 20824,
+      esoAbilityId: 20824,
       equations: [
         "<<1>> = 0.15903609 MaxStat + 1.6698789 MaxPower (Ultimate, Dmg, Flame, AOE, Direct, Melee)",
         "<<2>> = 0.06886494 MaxStat + 0.7231 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct, rank IV)",

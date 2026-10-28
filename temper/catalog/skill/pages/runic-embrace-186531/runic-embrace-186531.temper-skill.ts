@@ -10,7 +10,7 @@ export const runicEmbrace186531 = {
   description:
     "Craft a rune that deals |cffffff4038|r Magic Damage and heals you for |cffffff2145|r Health, scaling off your Max Health.\n\nYou apply Minor Maim and Minor Lifesteal for |cffffff15|r seconds, reducing enemy damage done by |cffffff5|r%, and healing you and your allies for |cffffff612|r Health every |cffffff1|r second when damaging them.\n\nThe rune taunts for |cffffff15|r seconds if it would not cause taunt immunity, and generates Crux. While slotted, damage taken is reduced by |cffffff2|r% per active Crux.",
   icon: "/esoui/art/icons/ability_arcanist_007_b.dds",
-  esoSkillId: 186531,
+  esoAbilityId: 186531,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const runicEmbrace186531 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1114,
   createdAt: "2026-05-28T16:03:33.657Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 0.1033 Health (Health, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",

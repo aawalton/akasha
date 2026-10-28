@@ -10,7 +10,7 @@ export const trapBeast = {
   description:
     "Set a sharpened blade trap at your location, which takes |cffffff1.5|r seconds to arm and lasts for |cffffff20|r seconds. \n\nWhen triggered, the trap deals |cffffff4036|r Bleed Damage, an additional |cffffff11420|r Bleed Damage over |cffffff20|r seconds, and grants you Minor Force, increasing your Critical Damage by |cffffff10|r% for the duration.\n\nEnemies who activate the trap are immobilized for |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_004.dds",
-  esoSkillId: 35750,
+  esoAbilityId: 35750,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 8,
@@ -20,7 +20,7 @@ export const trapBeast = {
   skillType: "temper-skill-type/active",
   hashPlace: 1362,
   createdAt: "2026-05-28T16:03:34.108Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = 0.0499489 MaxStat + 0.524968 MaxPower - 0.306011 (Ultimate, ratio = 10.51, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 0.999999)",

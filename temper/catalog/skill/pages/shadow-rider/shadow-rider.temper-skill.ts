@@ -9,7 +9,7 @@ export const shadowRider = {
   baseName: "Shadow Rider",
   description: "Aggression radius from hostile monsters is decreased by 50% while mounted.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_005.dds",
-  esoSkillId: 77400,
+  esoAbilityId: 77400,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -21,5 +21,5 @@ export const shadowRider = {
   effects: "jsonl",
   hashPlace: 1153,
   createdAt: "2026-05-26T02:59:07.658Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

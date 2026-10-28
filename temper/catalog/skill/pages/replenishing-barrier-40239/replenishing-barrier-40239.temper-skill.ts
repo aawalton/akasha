@@ -10,7 +10,7 @@ export const replenishingBarrier40239 = {
   description:
     "Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff41192|r damage. \n\nEach time a ward dissolves, you restore |cffffff1500|r Magicka.",
   icon: "/esoui/art/icons/ability_ava_006_a.dds",
-  esoSkillId: 40239,
+  esoAbilityId: 40239,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const replenishingBarrier40239 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1032,
   createdAt: "2026-05-28T16:03:33.511Z",
-  updatedAt: "2026-10-21T01:40:37.191Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.5165 MaxStat + 5.42325 MaxPower (Ultimate, ratio = 10.50, DmgShield, SingleTarget, Direct, 30s duration, R2 = 1)",
     "<<2>> = 1500 (Constant)",

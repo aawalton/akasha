@@ -10,7 +10,7 @@ export const lightArmorBonuses = {
   description:
     "Each piece of Light Armor does the following:\n\nReduces damage taken from Magical attacks by 1%\n\nReduces the cost of Roll Dodge by 3%\n\nReduces the Movement Speed penalty of Sneak by 5%\n\nReduces the cost of Break Free by 5%\n\nReduces the cost of Bash by 3%",
   icon: "/esoui/art/icons/passive_armor2_light.dds",
-  esoSkillId: 150185,
+  esoAbilityId: 150185,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,6 +22,6 @@ export const lightArmorBonuses = {
   effects: "jsonl",
   hashPlace: 742,
   createdAt: "2026-05-26T02:59:07.617Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1% (Constant)", "<<2>> = 3% (Constant)", "<<3>> = 5% (Constant)"],
 } as const satisfies TemperSkill

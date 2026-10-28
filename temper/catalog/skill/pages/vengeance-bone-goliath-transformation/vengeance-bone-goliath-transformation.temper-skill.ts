@@ -10,7 +10,7 @@ export const vengeanceBoneGoliathTransformation = {
   description:
     "Become a horrific Bone Goliath, increasing your Max Health by |cffffff70000|r for |cffffff15|r seconds and immediately restoring |cffffff70000|r Health.",
   icon: "/esoui/art/icons/ability_necromancer_012.dds",
-  esoSkillId: 238236,
+  esoAbilityId: 238236,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceBoneGoliathTransformation = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1427,
   createdAt: "2026-05-28T16:03:34.217Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 70000 (Constant)", "<<2>> = 15 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const energyOrb = {
   description:
     "Project a globe of regeneration that slowly floats forward, healing for 489 Health every 1 second to you and nearby allies.\n\nAn ally near the globe can activate the Healing Combustion synergy, causing the orb to explode and heal for 2249 Health to nearby allies and restoring 3960 Magicka or Stamina to the activator, whichever maximum is higher.",
   icon: "/esoui/art/icons/ability_undaunted_004b.dds",
-  esoSkillId: 43447,
+  esoAbilityId: 43447,
   isMorph: true,
   learnedLevel: 5,
   lineRankNeeded: 5,
@@ -20,7 +20,7 @@ export const energyOrb = {
   skillType: "temper-skill-type/active",
   hashPlace: 441,
   createdAt: "2026-05-26T02:59:07.576Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0218837 MaxStat + 0.229463 MaxPower - 2.97345 (Ultimate, ratio = 10.49, Heal, AOE, Direct, 1s tick, R2 = 0.999994)",
     "<<2>> = 1 second (Constant)",

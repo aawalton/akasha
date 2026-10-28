@@ -10,7 +10,7 @@ export const impale = {
   description:
     "Throw a magic blade with lethal precision to strike an enemy, dealing 1161 Magic Damage. Deals 330% more damage to enemies below 25% Health.",
   icon: "/esoui/art/icons/ability_nightblade_017_b.dds",
-  esoSkillId: 35596,
+  esoAbilityId: 35596,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const impale = {
   skillType: "temper-skill-type/active",
   hashPlace: 665,
   createdAt: "2026-05-26T03:13:12.367Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 330 (Constant)",

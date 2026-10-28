@@ -9,7 +9,7 @@ export const tailoring = {
   baseName: "Tailoring",
   description: "Allows the use of Ancestor Silk and Rubedo Leather.",
   icon: "/esoui/art/icons/ability_tradecraft_002.dds",
-  esoSkillId: 70044,
+  esoAbilityId: 70044,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -19,5 +19,5 @@ export const tailoring = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1325,
   createdAt: "2026-05-26T02:37:19.409Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

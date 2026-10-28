@@ -8,9 +8,9 @@ export const sphereOfInfluence = {
   key: "sphere-of-influence",
   description:
     "Magicka extends your reach, a benefit to those who fight beside you.\n\nCasting a damage shield on yourself or an ally grants an additional shield that absorbs up to 6060 damage for 4 seconds and 225 Health, Magicka, and Stamina Recovery for 12 seconds. The shield scales off the higher of your Max Health or Max Magicka, and is capped at 25% of the target's Max Health.",
-  esoSkillId: 263874,
+  esoAbilityId: 263874,
   class: "temper-class/sorcerer",
   hashPlace: 24,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

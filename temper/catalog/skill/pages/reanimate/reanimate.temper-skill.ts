@@ -10,7 +10,7 @@ export const reanimate = {
   description:
     "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.",
   icon: "/esoui/art/icons/ability_necromancer_018.dds",
-  esoSkillId: 115410,
+  esoAbilityId: 115410,
   isMorph: false,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,5 +20,5 @@ export const reanimate = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 991,
   createdAt: "2026-05-28T16:03:33.436Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

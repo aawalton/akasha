@@ -10,7 +10,7 @@ export const summonShade = {
   description:
     "Summon a shade version of yourself to attack an enemy and fight at your side for |cffffff20|r seconds. \n\nThe shade slashes at an enemy, dealing |cffffff1613|r Magic Damage once every |cffffff2|r seconds, and inflicts Minor Maim for |cffffff4|r seconds, reducing the enemy's damage done by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_nightblade_001.dds",
-  esoSkillId: 33211,
+  esoAbilityId: 33211,
   isMorph: false,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const summonShade = {
   skillType: "temper-skill-type/active",
   hashPlace: 1289,
   createdAt: "2026-05-28T16:03:33.980Z",
-  updatedAt: "2026-10-21T10:46:01.448Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant, +2 seconds with dark-veil)",
     "<<2>> = 0.02063802 MaxStat + 0.21669921 MaxPower (Ultimate, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, single precision)",

@@ -10,7 +10,7 @@ export const rendingSlashes = {
   description:
     "Slice an enemy with both weapons to cause deep lacerations, dealing 718 Bleed Damage with each weapon and causing them to bleed for an additional 3470 Bleed Damage over 20 seconds.\n\nEnemies hit by the initial hit are afflicted with the Hemorrhaging status effect.\n\nYou also reduce their Movement Speed by 30% for 4 seconds.",
   icon: "/esoui/art/icons/ability_dualwield_001_a.dds",
-  esoSkillId: 40675,
+  esoAbilityId: 40675,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const rendingSlashes = {
   skillType: "temper-skill-type/active",
   hashPlace: 1023,
   createdAt: "2026-05-26T02:38:38.349Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.03201267 MaxStat + 0.336133035 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 0.0156088 MaxStat + 0.162726 MaxPower - 2.99952 (Ultimate, ratio = 10.43, Dmg, Bleed, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999995)",

@@ -10,7 +10,7 @@ export const summonChargedAtronach = {
   description:
     "Summon an immobile storm atronach at the target location. Its arrival deals 2323 Shock Damage and stuns enemies for 3 seconds. The atronach calls upon a lightning storm every 2 seconds, dealing 2323 Shock Damage to enemies around it. \n\nEnemies hit are afflicted with the Concussion status effect.\n\nAn ally near the atronach can activate the Charged Lightning synergy, granting nearby allies Major Berserk for 10 seconds, increasing their damage done by 10%.",
   icon: "/esoui/art/icons/ability_sorcerer_endless_atronachs.dds",
-  esoSkillId: 30553,
+  esoAbilityId: 30553,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const summonChargedAtronach = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1287,
   createdAt: "2026-05-26T03:13:12.517Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Shock, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 3 seconds (Constant)",

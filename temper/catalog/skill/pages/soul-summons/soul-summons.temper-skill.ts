@@ -9,7 +9,7 @@ export const soulSummons = {
   baseName: "Soul Summons",
   description: "Allows you to revive once every 1 hour without spending a Soul Gem.",
   icon: "/esoui/art/icons/ability_sorcerer_047.dds",
-  esoSkillId: 45590,
+  esoAbilityId: 45590,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -21,5 +21,5 @@ export const soulSummons = {
   effects: "jsonl",
   hashPlace: 1237,
   createdAt: "2026-05-26T03:25:55.824Z",
-  updatedAt: "2026-09-27T08:51:32.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

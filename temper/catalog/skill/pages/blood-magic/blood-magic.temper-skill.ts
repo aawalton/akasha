@@ -10,7 +10,7 @@ export const bloodMagic = {
   description:
     "When you cast a Dark Magic ability with a cost, you heal for 1600 Health if you are not at full Health. This portion of the ability scales off your Max Health.\n\nIf your Health is full, the higher of your Max Magicka or Stamina is increased by 10% for 10 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_026.dds",
-  esoSkillId: 45172,
+  esoAbilityId: 45172,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -21,7 +21,7 @@ export const bloodMagic = {
   status: "unsupported",
   hashPlace: 119,
   createdAt: "2026-05-26T03:13:12.189Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 10% (Constant)",

@@ -10,7 +10,7 @@ export const elude39192 = {
   description:
     "Shroud yourself in mist to gain Major Evasion, reducing damage taken from area attacks by |cffffff20|r% for |cffffff38|r seconds.\n\nWhile this effect is active, when you take damage from a direct area of effect attack you gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%. \n\nEach piece of Medium Armor worn increases the duration of this ability.",
   icon: "/esoui/art/icons/ability_armor_002_b.dds",
-  esoSkillId: 39192,
+  esoAbilityId: 39192,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 22,
@@ -20,7 +20,7 @@ export const elude39192 = {
   skillType: "temper-skill-type/active",
   hashPlace: 417,
   createdAt: "2026-05-28T16:03:32.273Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Evasion (Constant)",
     "<<2>> = 20% (Constant)",

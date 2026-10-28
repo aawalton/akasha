@@ -10,7 +10,7 @@ export const vengeanceBladeCloak = {
   description:
     "Envelop yourself in a protective cloak of razors to gain Major Evasion, Minor Savagery, and Minor Prophecy for |cffffff20|r seconds, reducing damage taken from area attacks by |cffffff20|r% and increasing your Weapon and Spell Critical by |cffffff1314|r.",
   icon: "/esoui/art/icons/ability_dualwield_004.dds",
-  esoSkillId: 241188,
+  esoAbilityId: 241188,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceBladeCloak = {
   skillType: "temper-skill-type/active",
   hashPlace: 1421,
   createdAt: "2026-05-28T16:03:34.208Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 20 seconds (Constant)", "<<2>> = 20% (Constant)", "<<3>> = 1314 (Constant)"],
 } as const satisfies TemperSkill

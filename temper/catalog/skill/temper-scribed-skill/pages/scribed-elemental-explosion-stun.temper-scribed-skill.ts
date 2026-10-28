@@ -9,7 +9,7 @@ export const scribedElementalExplosionStun = {
   baseName: "Elemental Explosion",
   description: "Stuns enemies for 5 seconds.",
   icon: "/esoui/art/icons/ability_grimoire_staffdestro.dds",
-  esoSkillId: 217228,
+  esoAbilityId: 217228,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const scribedElementalExplosionStun = {
   grimoireId: "temper-grimoire/elemental-explosion",
   hashPlace: 1651,
   createdAt: "2026-05-26T13:19:53.259Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

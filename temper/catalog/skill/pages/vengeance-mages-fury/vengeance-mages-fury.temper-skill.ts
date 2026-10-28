@@ -10,7 +10,7 @@ export const vengeanceMagesFury = {
   description:
     "Call down lightning to strike an enemy, dealing |cffffff5565|r Shock Damage.\n\nIf the enemy was below |cffffff20|r% Health, an explosion deals an additional |cffffff15288|r Shock Damage to them and up to 2 nearby enemies.",
   icon: "/esoui/art/icons/ability_sorcerer_mage_fury.dds",
-  esoSkillId: 237948,
+  esoAbilityId: 237948,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceMagesFury = {
   skillType: "temper-skill-type/active",
   hashPlace: 1504,
   createdAt: "2026-05-28T16:03:34.328Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5250 Shock Damage (Constant)",
     "<<2>> = 20% (Constant)",

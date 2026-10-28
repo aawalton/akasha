@@ -8,9 +8,9 @@ export const judgmentsBrand = {
   key: "judgments-brand",
   description:
     "Judgement follows in the wake of your radiance.\n\nWhen rank 2 of Burning Light deals damage, your Templar abilities gain 1600 damage done for 3.1 seconds. This bonus is halved against players.",
-  esoSkillId: 263588,
+  esoAbilityId: 263588,
   class: "temper-class/templar",
   hashPlace: 28,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

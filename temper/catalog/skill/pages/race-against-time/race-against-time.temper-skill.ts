@@ -10,7 +10,7 @@ export const raceAgainstTime = {
   description:
     "Bend time and space around you to gain Major Expedition for 4 seconds and Minor Force for 20 seconds, increasing your Movement Speed by 30% and Critical Damage by 10%.\n\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for 4 seconds.",
   icon: "/esoui/art/icons/ability_psijic_005_b.dds",
-  esoSkillId: 40103710,
+  esoAbilityId: 40103710,
   isMorph: true,
   learnedLevel: 5,
   lineRankNeeded: 5,
@@ -20,7 +20,7 @@ export const raceAgainstTime = {
   skillType: "temper-skill-type/active",
   hashPlace: 954,
   createdAt: "2026-05-26T02:59:07.642Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
     "<<2>> = 20 seconds (Constant)",

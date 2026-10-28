@@ -10,7 +10,7 @@ export const retreatingManeuver = {
   description:
     "Mobilize your forces, granting Major Expedition to you and your group, increasing your Movement Speed by 30% for 8 seconds.  Attacks from behind deal 15% less damage while this effect persists.",
   icon: "/esoui/art/icons/ability_ava_002_a.dds",
-  esoSkillId: 46505,
+  esoAbilityId: 46505,
   isMorph: true,
   learnedLevel: 5,
   lineRankNeeded: 5,
@@ -20,7 +20,7 @@ export const retreatingManeuver = {
   skillType: "temper-skill-type/active",
   hashPlace: 1059,
   createdAt: "2026-05-26T03:25:55.808Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Expedition (Constant)",
     "<<2>> = 30% (Constant)",

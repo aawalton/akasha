@@ -10,7 +10,7 @@ export const stupefy = {
   description:
     "Subdue enemies in front of you with your baleful gaze, stunning them for 5 seconds if they are facing your direction.\n\nThis stun cannot be blocked.\n\nAfter the stun ends they remain stupefied, reducing their Movement Speed by 53% for 5 seconds.",
   icon: "/esoui/art/icons/ability_u26_vampire_04_b.dds",
-  esoSkillId: 40138097,
+  esoAbilityId: 40138097,
   isMorph: true,
   learnedLevel: 6,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const stupefy = {
   skillType: "temper-skill-type/active",
   hashPlace: 1281,
   createdAt: "2026-05-26T03:25:55.828Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
     "<<2>> = 53% (Constant)",

@@ -10,7 +10,7 @@ export const fleetFootedGate = {
   description:
     "Breach the world walls to create a portal at a target location. Its twin appears directly before you. Crossing the threshold allows you to teleport from one to the other for as long as the portals remain open. \n\nAfter teleporting, you gain Major Expedition for 5 seconds, increasing your Movement Speed by 30%.\n\nFleet-Footed Gate generates Crux each time you teleport.",
   icon: "/esoui/art/icons/ability_arcanist_016_a.dds",
-  esoSkillId: 40186211,
+  esoAbilityId: 40186211,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const fleetFootedGate = {
   skillType: "temper-skill-type/active",
   hashPlace: 518,
   createdAt: "2026-05-26T03:13:12.325Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Expedition (Constant)",
     "<<2>> = 5 seconds (Constant)",

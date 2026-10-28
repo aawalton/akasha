@@ -10,7 +10,7 @@ export const secludedGrove = {
   description:
     "Swell a healing forest at the target location, instantly healing the most injured friendly target for |cffffff8767|r Health. The forest continues to heal you and your allies in the area for |cffffff2921|r Health every |cffffff1|r second for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_warden_012.dds",
-  esoSkillId: 85532,
+  esoAbilityId: 85532,
   isMorph: false,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const secludedGrove = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1146,
   createdAt: "2026-05-28T16:03:33.714Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.12 MaxStat + 1.26 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
     "<<2>> = 0.04 MaxStat + 0.42 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, 1s tick, R2 = 1)",

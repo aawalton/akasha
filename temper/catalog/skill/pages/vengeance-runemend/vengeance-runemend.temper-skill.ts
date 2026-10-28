@@ -10,7 +10,7 @@ export const vengeanceRunemend = {
   description:
     "Craft a precise Apocryphal rune, then propel it at yourself or an ally in front of you. The rune heals for |cffffff14459|r Health and generates Crux.",
   icon: "/esoui/art/icons/ability_arcanist_013.dds",
-  esoSkillId: 238429,
+  esoAbilityId: 238429,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceRunemend = {
   skillType: "temper-skill-type/active",
   hashPlace: 1543,
   createdAt: "2026-05-28T16:03:34.384Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 14175 (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const thriveInChaos85179 = {
   description:
     "Slash enemies in front of you, causing them to bleed for |cffffff22855|r Bleed Damage over |cffffff8|r seconds and healing you for |cffffff51|r% of the damage done.\n\nEach enemy hit increases your damage done by |cffffff6|r% for |cffffff15|r seconds. This effect can stack up to |cffffff6|r times.\n\nEach tick applies the Hemorrhaging status effect.",
   icon: "/esoui/art/icons/ability_dualwield_006_b.dds",
-  esoSkillId: 85179,
+  esoAbilityId: 85179,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 50,
@@ -20,7 +20,7 @@ export const thriveInChaos85179 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1344,
   createdAt: "2026-05-28T16:03:34.075Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0620436 MaxStat + 0.650882 MaxPower - 2.37418 (Ultimate, ratio = 10.49, Dmg, Bleed, SingleTarget, DOT, 8s duration, 2s tick, R2 = 1)",
     "<<2>> = 8 seconds (Constant)",

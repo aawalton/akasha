@@ -10,7 +10,7 @@ export const heavyWeapons = {
   description:
     "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your Weapon and Spell Damage by 258.\n\nAxes increase your Critical Damage done by 12%.\n\nMaces increase your Offensive Penetration by 2974.",
   icon: "/esoui/art/icons/passive_dragonknight_026.dds",
-  esoSkillId: 45430,
+  esoAbilityId: 45430,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -22,6 +22,6 @@ export const heavyWeapons = {
   effects: "jsonl",
   hashPlace: 625,
   createdAt: "2026-05-26T02:38:38.330Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 258 (Constant)", "<<2>> = 12% (Constant)", "<<3>> = 2974 (Constant)"],
 } as const satisfies TemperSkill

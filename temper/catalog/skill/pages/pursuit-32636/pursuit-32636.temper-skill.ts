@@ -10,7 +10,7 @@ export const pursuit32636 = {
   description:
     "Give chase, hunter. Become pursuit unrelenting.\n\nIncreases your Movement Speed by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_werewolf_010.dds",
-  esoSkillId: 32636,
+  esoAbilityId: 32636,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 3,
@@ -20,6 +20,6 @@ export const pursuit32636 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 949,
   createdAt: "2026-05-28T16:03:33.356Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

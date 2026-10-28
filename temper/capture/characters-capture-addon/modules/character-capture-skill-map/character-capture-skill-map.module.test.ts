@@ -8,10 +8,10 @@ import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/ski
 holdSkillCatalogFromCheckout()
 holdPagesOfTypeFromCheckout()
 
-test("the place the encoder writes for a skill's game id decodes to a skill with that game id", () => {
+test("the place the encoder writes for a skill's ability id decodes to a skill with that ability id", () => {
   for (const skill of skills.list) {
-    if (skill.esoSkillId === 0) continue
-    const decoded = skills.data[getSkillId(getPlayerSkillIndex(skill.esoSkillId))]
-    expect(decoded?.esoSkillId).toBe(skill.esoSkillId)
+    if (skill.esoAbilityId === 0) continue
+    const decoded = skills.data[getSkillId(getPlayerSkillIndex(skill.esoAbilityId))]
+    expect(decoded?.esoAbilityId).toBe(skill.esoAbilityId)
   }
 })

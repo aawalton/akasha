@@ -9,7 +9,7 @@ export const giftOfMagnus = {
   baseName: "Gift of Magnus",
   description: "Increases your Max Magicka by 2000.",
   icon: "/esoui/art/icons/ability_armor_004.dds",
-  esoSkillId: 45260,
+  esoAbilityId: 45260,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -21,6 +21,6 @@ export const giftOfMagnus = {
   effects: "jsonl",
   hashPlace: 563,
   createdAt: "2026-05-26T03:18:02.186Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2000 (Constant)"],
 } as const satisfies TemperSkill

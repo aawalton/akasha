@@ -9,7 +9,7 @@ export const redDiamond = {
   baseName: "Red Diamond",
   description: "Reduces the cost of all your abilities by 6%.",
   icon: "/esoui/art/icons/ability_dragonknight_028.dds",
-  esoSkillId: 45293,
+  esoAbilityId: 45293,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const redDiamond = {
   effects: "jsonl",
   hashPlace: 1002,
   createdAt: "2026-05-26T03:18:02.196Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6% (Constant)"],
 } as const satisfies TemperSkill

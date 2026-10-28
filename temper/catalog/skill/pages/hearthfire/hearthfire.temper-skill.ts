@@ -10,7 +10,7 @@ export const hearthfire = {
   description:
     "Throw out a kindled flame, filling a large area with warmth for |cffffff15|r seconds. This fire heals you and your allies at the target location for |cffffff1369|r Health every |cffffff1|r second.\n\nHealed targets gain Minor Fortitude and Minor Heroism while inside, increasing Health Recovery by |cffffff15|r% and generating |cffffff1|r Ultimate every |cffffff1.5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_016.dds",
-  esoSkillId: 29059,
+  esoAbilityId: 29059,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const hearthfire = {
   skillType: "temper-skill-type/active",
   hashPlace: 620,
   createdAt: "2026-05-28T16:03:32.733Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15 seconds (Constant)",
     "<<2>> = 0.018763 MaxStat + 0.196719 MaxPower - 0.711896 (Ultimate, ratio = 10.48, Heal, AOE, Direct, 1s tick, R2 = 0.999991)",

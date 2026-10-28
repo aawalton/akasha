@@ -10,7 +10,7 @@ export const dexterity = {
   description:
     "Increases your Critical Damage and Healing done rating by 2% for every piece of Medium Armor equipped.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_008.dds",
-  esoSkillId: 45564,
+  esoAbilityId: 45564,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -22,6 +22,6 @@ export const dexterity = {
   effects: "jsonl",
   hashPlace: 365,
   createdAt: "2026-05-26T02:59:07.571Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2 MediumArmor (Medium Armor, SingleTarget, Direct, R2 = 1)"],
 } as const satisfies TemperSkill

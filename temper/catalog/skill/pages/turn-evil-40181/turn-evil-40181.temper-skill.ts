@@ -10,7 +10,7 @@ export const turnEvil40181 = {
   description:
     "Brand the earth at your location with a rune of protection for |cffffff20|r seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing your damage taken by |cffffff5|r% and increasing your Stamina Recovery by |cffffff15|r%.\n\nUpon activation, enemies in the area are feared for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_001_a.dds",
-  esoSkillId: 40181,
+  esoAbilityId: 40181,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const turnEvil40181 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1370,
   createdAt: "2026-05-28T16:03:34.121Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = Minor Protection (Constant)",

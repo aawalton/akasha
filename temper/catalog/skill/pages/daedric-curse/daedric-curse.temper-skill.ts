@@ -10,7 +10,7 @@ export const daedricCurse = {
   description:
     "Curse an enemy with a destructive rune, dealing |cffffff10668|r Magic Damage to the target and all other nearby enemies after |cffffff6|r seconds.\n\nYou can have only one Daedric Curse active at a time.",
   icon: "/esoui/art/icons/ability_sorcerer_daedric_curse.dds",
-  esoSkillId: 24326,
+  esoAbilityId: 24326,
   isMorph: false,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const daedricCurse = {
   skillType: "temper-skill-type/active",
   hashPlace: 290,
   createdAt: "2026-05-28T16:03:32.062Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.125064 MaxStat + 1.31209 MaxPower - 0.841971 (Ultimate, ratio = 10.49, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

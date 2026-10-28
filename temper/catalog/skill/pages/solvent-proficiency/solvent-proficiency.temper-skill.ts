@@ -10,7 +10,7 @@ export const solventProficiency = {
   description:
     "Allows the Alchemist to use Lorkhan's Tears and Alkahest to make Champion 150 potions and poisons.",
   icon: "/esoui/art/icons/ability_alchemy_001.dds",
-  esoSkillId: 70043,
+  esoAbilityId: 70043,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,5 +20,5 @@ export const solventProficiency = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1219,
   createdAt: "2026-05-26T02:37:19.406Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

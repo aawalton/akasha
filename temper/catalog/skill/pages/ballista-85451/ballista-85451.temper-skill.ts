@@ -10,7 +10,7 @@ export const ballista85451 = {
   description:
     "Create a turret to unleash a barrage of arrows at an enemy, dealing |cffffff54210|r Physical Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_bow_006_a.dds",
-  esoSkillId: 85451,
+  esoAbilityId: 85451,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 50,
@@ -20,7 +20,7 @@ export const ballista85451 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 75,
   createdAt: "2026-05-28T16:03:31.688Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0515643 MaxStat + 0.542042 MaxPower - 0.879042 (Ultimate, ratio = 10.51, Dmg, Physical, SingleTarget, Direct, 4s duration, 0.333s tick, R2 = 1)",
     "<<2>> = 5 seconds (Constant)",

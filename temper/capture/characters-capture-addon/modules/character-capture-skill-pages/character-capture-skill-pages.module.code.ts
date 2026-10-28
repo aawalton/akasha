@@ -7,7 +7,7 @@ import type { TemperSkill } from "akasha/temper/catalog/skill/temper-skill.page-
 
 export type SkillPage = Pick<
   TemperSkill,
-  | "esoSkillId"
+  | "esoAbilityId"
   | "skillType"
   | "skillLineId"
   | "baseName"

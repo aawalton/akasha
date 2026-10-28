@@ -9,7 +9,7 @@ export const vengeanceArcticWind = {
   baseName: "Vengeance Arctic Wind",
   description: "Envelop yourself in winter winds, instantly healing for |cffffff16065|r Health.",
   icon: "/esoui/art/icons/ability_warden_003.dds",
-  esoSkillId: 238088,
+  esoAbilityId: 238088,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -19,6 +19,6 @@ export const vengeanceArcticWind = {
   skillType: "temper-skill-type/active",
   hashPlace: 1411,
   createdAt: "2026-05-28T16:03:34.194Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15750 (Constant)"],
 } as const satisfies TemperSkill

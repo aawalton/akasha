@@ -10,7 +10,7 @@ export const spellAttunement = {
   description:
     "Increases your Spell Resistance by 2310. This effect is doubled if you are afflicted with Burning, Chilled, or Concussed.  \n\nIncreases your Magicka Recovery by 130.",
   icon: "/esoui/art/icons/ability_sorcerer_013.dds",
-  esoSkillId: 45262,
+  esoAbilityId: 45262,
   isMorph: false,
   learnedLevel: 40,
   lineRankNeeded: 40,
@@ -22,6 +22,6 @@ export const spellAttunement = {
   effects: "jsonl",
   hashPlace: 1244,
   createdAt: "2026-05-26T03:18:02.207Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2310 (Constant)", "<<2>> = 130 (Constant)"],
 } as const satisfies TemperSkill

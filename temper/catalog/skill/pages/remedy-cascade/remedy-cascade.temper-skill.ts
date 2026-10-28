@@ -10,7 +10,7 @@ export const remedyCascade = {
   description:
     "Channel the abyssal sea to coalesce a beam of restorative energy. The beam heals you and your allies in its path for |cffffff35607|r Health over |cffffff4.5|r seconds.\n\nConsume Crux to also restore |cffffff728|r Magicka and Stamina per Crux spent to your allies over |cffffff4.5|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_014.dds",
-  esoSkillId: 183537,
+  esoAbilityId: 183537,
   isMorph: false,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const remedyCascade = {
   skillType: "temper-skill-type/active",
   hashPlace: 1015,
   createdAt: "2026-05-28T16:03:33.480Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0375 MaxStat + 0.39375 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, DOT, 4s duration, 0.333s tick, R2 = 1)",
     "<<2>> = 4.5 seconds (Constant)",

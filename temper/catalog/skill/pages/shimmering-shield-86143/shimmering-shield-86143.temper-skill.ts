@@ -10,7 +10,7 @@ export const shimmeringShield86143 = {
   description:
     "Spin a shield of ice around you, absorbing up to |cffffff23423|r damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you gain |cffffff2|r Ultimate and gain Major Heroism for |cffffff6|r seconds, granting you |cffffff3|r Ultimate every |cffffff1.5|r seconds.",
   icon: "/esoui/art/icons/ability_warden_002_b.dds",
-  esoSkillId: 86143,
+  esoAbilityId: 86143,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const shimmeringShield86143 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1173,
   createdAt: "2026-05-28T16:03:33.765Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1.033 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 2 (Constant)",

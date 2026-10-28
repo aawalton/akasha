@@ -10,7 +10,7 @@ export const graveGrasp = {
   description:
     "Summon three patches of skeletal claws from the ground in front of you. Enemies in the first area are snared by |cffffff30|r% for |cffffff5|r seconds, immobilized in the second area for |cffffff4|r seconds, and stunned in the final area for |cffffff3|r seconds.\n\nEach patch applies Minor Maim to enemies hit for |cffffff10|r seconds, reducing their damage done by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_necromancer_009.dds",
-  esoSkillId: 115177,
+  esoAbilityId: 115177,
   isMorph: false,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const graveGrasp = {
   skillType: "temper-skill-type/active",
   hashPlace: 574,
   createdAt: "2026-05-28T16:03:32.637Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 30% (Constant)",
     "<<2>> = 3.5 seconds (Constant)",

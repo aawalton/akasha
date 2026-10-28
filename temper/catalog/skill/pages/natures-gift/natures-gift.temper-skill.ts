@@ -10,7 +10,7 @@ export const naturesGift = {
   description:
     "When you heal an ally with a Green Balance ability, you gain 277 Magicka or 277 Stamina, whichever resource pool is lower. This effect can occur once every 1 second.",
   icon: "/esoui/art/icons/passive_warden_006.dds",
-  esoSkillId: 85879,
+  esoAbilityId: 85879,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -22,6 +22,6 @@ export const naturesGift = {
   effects: "jsonl",
   hashPlace: 851,
   createdAt: "2026-05-26T03:13:12.408Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 250 (Constant)", "<<2>> = 250 (Constant)", "<<3>> = 1 second (Constant)"],
 } as const satisfies TemperSkill

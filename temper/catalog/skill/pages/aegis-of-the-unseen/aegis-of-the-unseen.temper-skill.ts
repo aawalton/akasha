@@ -10,7 +10,7 @@ export const aegisOfTheUnseen = {
   description:
     "Form a secret soldier within your mind, a defense against arcane forces without. While a beneficial Soldier of Apocrypha ability is active on you, increase your Armor by 3271.",
   icon: "/esoui/art/icons/passive_arcanist_05.dds",
-  esoSkillId: 184923,
+  esoAbilityId: 184923,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -22,6 +22,6 @@ export const aegisOfTheUnseen = {
   effects: "jsonl",
   hashPlace: 21,
   createdAt: "2026-05-26T03:13:12.167Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3271 (Constant)"],
 } as const satisfies TemperSkill

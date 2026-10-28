@@ -10,7 +10,7 @@ export const highborn = {
   description:
     "Increases your experience gain with the Destruction Staff skill line by 15%.\n\nIncreases your experience gained by 1%.",
   icon: "/esoui/art/icons/ability_templar_032.dds",
-  esoSkillId: 35965,
+  esoAbilityId: 35965,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,6 +21,6 @@ export const highborn = {
   status: "unsupported",
   hashPlace: 634,
   createdAt: "2026-05-26T03:18:02.187Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1% (Constant)"],
 } as const satisfies TemperSkill

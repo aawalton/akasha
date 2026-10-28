@@ -10,7 +10,7 @@ export const revitalize = {
   description:
     "Increases the Magicka or Stamina your Heavy Attacks restore by 4% for each piece of Heavy Armor worn.\n\nCurrent bonus: 0%",
   icon: "/esoui/art/icons/ability_armor_013.dds",
-  esoSkillId: 45528,
+  esoAbilityId: 45528,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 38,
@@ -21,6 +21,6 @@ export const revitalize = {
   status: "unsupported",
   hashPlace: 1070,
   createdAt: "2026-05-26T02:59:07.651Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 4 HeavyArmor (Heavy Armor, SingleTarget, Direct, R2 = 1)"],
 } as const satisfies TemperSkill

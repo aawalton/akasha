@@ -10,7 +10,7 @@ export const flameSkull = {
   description:
     "Lob an explosive skull at an enemy, dealing |cffffff7269|r Flame Damage.\n\nEvery third cast of this ability deals |cffffff50|r% increased damage and creates a corpse near the enemy.",
   icon: "/esoui/art/icons/ability_necromancer_001.dds",
-  esoSkillId: 114108,
+  esoAbilityId: 114108,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const flameSkull = {
   skillType: "temper-skill-type/active",
   hashPlace: 515,
   createdAt: "2026-05-28T16:03:32.485Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.09 MaxStat + 0.945 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, R2 = 1)",
   ],

@@ -10,7 +10,7 @@ export const hastyPrayer22314 = {
   description:
     "Focus your spiritual devotion, healing you and nearby allies for |cffffff8219|r Health.\n\nAffected targets gain Minor Expedition, increasing their Movement Speed by |cffffff15|r% for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_templar_lingering_ritual.dds",
-  esoSkillId: 22314,
+  esoAbilityId: 22314,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const hastyPrayer22314 = {
   skillType: "temper-skill-type/active",
   hashPlace: 596,
   createdAt: "2026-05-28T16:03:32.693Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.116213 MaxStat + 1.22023 MaxPower (Ultimate, ratio = 10.50, Heal, AOE, Direct, R2 = 1)",
     "<<2>> = 15% (Constant)",

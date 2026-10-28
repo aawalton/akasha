@@ -9,7 +9,7 @@ export const accuracy = {
   baseName: "Accuracy",
   description: "Increases your Critical Chance rating by 1314.",
   icon: "/esoui/art/icons/ability_weapon_024.dds",
-  esoSkillId: 45492,
+  esoAbilityId: 45492,
   isMorph: false,
   learnedLevel: 25,
   lineRankNeeded: 25,
@@ -21,6 +21,6 @@ export const accuracy = {
   effects: "jsonl",
   hashPlace: 12,
   createdAt: "2026-05-26T02:38:38.285Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1314 (Constant)"],
 } as const satisfies TemperSkill

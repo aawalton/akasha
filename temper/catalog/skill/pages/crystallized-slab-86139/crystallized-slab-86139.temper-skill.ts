@@ -10,7 +10,7 @@ export const crystallizedSlab86139 = {
   description:
     "Spin a shield of ice around you, absorbing up to |cffffff35136|r damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you launch an icy bolt back at the enemy, dealing |cffffff4170|r Frost Damage and stunning them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_warden_002_a.dds",
-  esoSkillId: 86139,
+  esoAbilityId: 86139,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const crystallizedSlab86139 = {
   skillType: "temper-skill-type/active",
   hashPlace: 280,
   createdAt: "2026-05-28T16:03:32.048Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1.5495 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 0.051612 MaxStat + 0.542543 MaxPower - 0.879855 (Ultimate, ratio = 10.51, Dmg, Frost, SingleTarget, Direct, R2 = 1)",

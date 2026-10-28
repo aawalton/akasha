@@ -8,9 +8,9 @@ export const brightHarbinger = {
   key: "bright-harbinger",
   description:
     "Light's banner instills hope. You are its bearer.\n\nUpgrades rank 2 of Illuminate to also grant Bright Harbinger for the duration, which grants 300 Weapon and Spell Damage to allies and doubles for you.",
-  esoSkillId: 263587,
+  esoAbilityId: 263587,
   class: "temper-class/templar",
   hashPlace: 27,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

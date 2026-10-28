@@ -10,7 +10,7 @@ export const masterRitualist = {
   description:
     "Increases resurrection speed by 20%. \n\nResurrected allies return with 100% more Health. \n\nGives you a 50% chance to fill an empty Soul Gem after each successful resurrection.",
   icon: "/esoui/art/icons/ability_templar_026.dds",
-  esoSkillId: 45202,
+  esoAbilityId: 45202,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const masterRitualist = {
   status: "unsupported",
   hashPlace: 807,
   createdAt: "2026-05-26T03:13:12.396Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 20% (Constant)", "<<2>> = 100% (Constant)"],
 } as const satisfies TemperSkill

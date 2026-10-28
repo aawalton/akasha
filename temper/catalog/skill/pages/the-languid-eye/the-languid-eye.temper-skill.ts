@@ -10,7 +10,7 @@ export const theLanguidEye = {
   description:
     "Tear open the fabric of the Aurbis to summon a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for 6 seconds that deals 1115 Magic Damage to enemies within 5 meters every 0.5 seconds and snares them by 50% for 3 seconds. Every 0.5 seconds, the beam's damage increases by 7%.\n\nThe scion's beam can be repositioned by recasting The Languid Eye.",
   icon: "/esoui/art/icons/ability_arcanist_006_b.dds",
-  esoSkillId: 40189867,
+  esoAbilityId: 40189867,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const theLanguidEye = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1337,
   createdAt: "2026-05-26T03:13:12.529Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 0.0495907 MaxStat + 0.520546 MaxPower - 0.608159 (Ultimate, ratio = 10.50, Dmg, Magic, AOE, DOT, 0.5s tick, R2 = 0.999999)",

@@ -10,7 +10,7 @@ export const renderFlesh = {
   description:
     "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for |cffffff10960|r Health but applying Minor Defile to yourself for |cffffff4|r seconds, reducing your healing received and damage shield strength by |cffffff6|r%.",
   icon: "/esoui/art/icons/ability_necromancer_013.dds",
-  esoSkillId: 114196,
+  esoAbilityId: 114196,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const renderFlesh = {
   skillType: "temper-skill-type/active",
   hashPlace: 1022,
   createdAt: "2026-05-28T16:03:33.492Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.15 MaxStat + 1.575 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 4 seconds (Constant)",

@@ -10,7 +10,7 @@ export const vengeanceWingedTwilight = {
   description:
     "Call on Azura to send a blessing to heal a friendly ally for |cffffff16065|r Health and yourself for |cffffff8033|r Health.",
   icon: "/esoui/art/icons/ability_sorcerer_storm_prey_summoned.dds",
-  esoSkillId: 237915,
+  esoAbilityId: 237915,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceWingedTwilight = {
   skillType: "temper-skill-type/active",
   hashPlace: 1591,
   createdAt: "2026-05-28T16:03:34.453Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15750 (Constant)", "<<2>> = 7875 (Constant)"],
 } as const satisfies TemperSkill

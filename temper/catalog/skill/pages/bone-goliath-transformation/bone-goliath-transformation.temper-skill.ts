@@ -10,7 +10,7 @@ export const boneGoliathTransformation = {
   description:
     "Become a horrific Bone Goliath, increasing your Max Health by |cffffff30000|r for |cffffff20|r seconds and immediately restoring |cffffff30000|r Health. \n\nWhile transformed, your damaging Light Attacks restore |cffffff402|r Health and your fully-charged Heavy Attacks restore |cffffff1005|r Health. This ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_necromancer_012.dds",
-  esoSkillId: 115001,
+  esoAbilityId: 115001,
   isMorph: false,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const boneGoliathTransformation = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 144,
   createdAt: "2026-05-28T16:03:31.824Z",
-  updatedAt: "2026-10-21T06:23:05.681Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 30000 (Constant)",
     "<<2>> = 20 seconds (Constant)",

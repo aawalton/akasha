@@ -10,7 +10,7 @@ export const mysticGuard61536 = {
   description:
     "Create a lifebond between you and an allied player. While bonded, |cffffff30|r% of the damage they take is instead redistributed to you.\n\nYou and your bonded ally also gain Minor Vitality, increasing your healing received and damage shield strength by |cffffff6|r%.\n\nThe bond will remain until you recast the spell or move more than |cffffff15|r meters away from your ally.",
   icon: "/esoui/art/icons/ability_ava_mystic_guard.dds",
-  esoSkillId: 61536,
+  esoAbilityId: 61536,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 5,
@@ -20,6 +20,6 @@ export const mysticGuard61536 = {
   skillType: "temper-skill-type/active",
   hashPlace: 842,
   createdAt: "2026-05-28T16:03:33.157Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6% (Constant)"],
 } as const satisfies TemperSkill

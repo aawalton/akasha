@@ -9,7 +9,7 @@ export const battlefieldMobility = {
   baseName: "Battlefield Mobility",
   description: "Reduces the Movement Speed penalty of Bracing.\n\nCurrent penalty: 36%",
   icon: "/esoui/art/icons/ability_armor_009.dds",
-  esoSkillId: 45473,
+  esoAbilityId: 45473,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,5 +21,5 @@ export const battlefieldMobility = {
   effects: "jsonl",
   hashPlace: 84,
   createdAt: "2026-05-26T02:38:38.293Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

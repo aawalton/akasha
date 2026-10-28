@@ -10,7 +10,7 @@ export const daedricMines = {
   description:
     "Surprise your foes by placing |cffffff3|r volatile Daedric mines around you, which take |cffffff3|r seconds to arm and last for |cffffff15|r seconds.\n\nWhen a mine is triggered it explodes, dealing |cffffff9086|r Magic Damage and immobilizing the enemy for |cffffff2|r seconds. Enemies can only be damaged by your mines once every |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_daedric_mines.dds",
-  esoSkillId: 24828,
+  esoAbilityId: 24828,
   isMorph: false,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const daedricMines = {
   skillType: "temper-skill-type/active",
   hashPlace: 291,
   createdAt: "2026-05-28T16:03:32.063Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15 seconds (Constant)",
     "<<2>> = 0.112438 MaxStat + 1.18168 MaxPower - 0.92615 (Ultimate, ratio = 10.51, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",

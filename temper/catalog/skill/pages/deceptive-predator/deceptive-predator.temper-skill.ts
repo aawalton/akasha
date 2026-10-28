@@ -10,7 +10,7 @@ export const deceptivePredator = {
   description:
     "Invoke the spirit of agility to gain Major Expedition for 6 seconds, increasing your Movement Speed by 30%.\n\nGain immunity to snares and immobilizations for 4 seconds.\n\nWhile slotted you gain Minor Evasion, reducing damage from area attacks by 10%.",
   icon: "/esoui/art/icons/ability_warden_016_b.dds",
-  esoSkillId: 86044,
+  esoAbilityId: 86044,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -21,7 +21,7 @@ export const deceptivePredator = {
   effects: "jsonl",
   hashPlace: 337,
   createdAt: "2026-05-26T03:13:12.264Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 30% (Constant)",

@@ -10,7 +10,7 @@ export const aspectOfTerror = {
   description:
     "Summon a dark spirit to terrify nearby enemies, causing them to cower in fear for |cffffff2|r seconds and be afflicted with Major Cowardice for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r.",
   icon: "/esoui/art/icons/ability_nightblade_016.dds",
-  esoSkillId: 25352,
+  esoAbilityId: 25352,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const aspectOfTerror = {
   skillType: "temper-skill-type/active",
   hashPlace: 55,
   createdAt: "2026-05-28T16:03:31.659Z",
-  updatedAt: "2026-10-21T02:29:23.868Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2 seconds (Constant, +2 seconds with dark-veil)",
     "<<2>> = Major Cowardice (Constant)",

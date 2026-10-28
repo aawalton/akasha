@@ -10,7 +10,7 @@ export const heroicSlash = {
   description:
     "Surprise an enemy with a deep lunge, dealing 1438 Physical Damage and afflicting them with Minor Maim, reducing their damage done by 5% for 15 seconds. \n\nYou gain Minor Heroism, granting you 1 Ultimate every 1.5 seconds for 15 seconds.",
   icon: "/esoui/art/icons/ability_1handed_001_a.dds",
-  esoSkillId: 41414,
+  esoAbilityId: 41414,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const heroicSlash = {
   skillType: "temper-skill-type/active",
   hashPlace: 627,
   createdAt: "2026-05-26T02:38:38.330Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06402534 MaxStat + 0.67226607 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = Minor Maim (Constant)",

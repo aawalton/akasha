@@ -10,7 +10,7 @@ export const strikeFromTheShadows = {
   description:
     "When you leave Sneak, invisibility, or Mist Form your Weapon and Spell Damage is increased by 300 for 6 seconds.",
   icon: "/esoui/art/icons/passive_u26_vampire_02.dds",
-  esoSkillId: 46040,
+  esoAbilityId: 46040,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -22,6 +22,6 @@ export const strikeFromTheShadows = {
   effects: "jsonl",
   hashPlace: 1278,
   createdAt: "2026-05-26T03:25:55.827Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 300 (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

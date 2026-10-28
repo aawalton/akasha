@@ -30,7 +30,7 @@ const NAMES_A_NUMBER = /^<<\d+>> = -?\d/
 function equationsById(root: string): ReadonlyMap<number, readonly string[]> {
   const found = new Map<number, readonly string[]>()
   for (const one of valuesOfType(root, "temper-skill")) {
-    const id = one.value.esoSkillId
+    const id = one.value.esoAbilityId
     const equations = one.value.equations
     if (typeof id === "number" && Array.isArray(equations)) {
       found.set(

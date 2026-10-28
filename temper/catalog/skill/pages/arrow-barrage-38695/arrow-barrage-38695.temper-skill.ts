@@ -10,7 +10,7 @@ export const arrowBarrage38695 = {
   description:
     "Launch a multitude of arrows into the sky to rain down, dealing |cffffff1605|r Physical Damage to enemies in the target area every |cffffff1|r second for |cffffff8|r seconds, after a |cffffff2|r second delay.",
   icon: "/esoui/art/icons/ability_bow_003_b.dds",
-  esoSkillId: 38695,
+  esoAbilityId: 38695,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const arrowBarrage38695 = {
   skillType: "temper-skill-type/active",
   hashPlace: 49,
   createdAt: "2026-05-28T16:03:31.651Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0200145 MaxStat + 0.209037 MaxPower - 3.10327 (Ultimate, ratio = 10.44, Dmg, Physical, AOE, DOT, 1s tick, R2 = 0.999996)",
     "<<2>> = 1 second (Constant)",

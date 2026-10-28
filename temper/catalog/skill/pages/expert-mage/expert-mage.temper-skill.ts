@@ -10,7 +10,7 @@ export const expertMage = {
   description:
     "Increases your Weapon and Spell Damage by 108 for each Sorcerer ability slotted.\n\nCurrent bonus: 0.",
   icon: "/esoui/art/icons/ability_sorcerer_044.dds",
-  esoSkillId: 45195,
+  esoAbilityId: 45195,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,7 +21,7 @@ export const expertMage = {
   status: "unsupported",
   hashPlace: 480,
   createdAt: "2026-05-26T03:13:12.314Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 108 (Constant)",
     "<<2>> = 108 Sorcerer (Sorcerer Skills Slotted, SingleTarget, Direct, R2 = 1)",

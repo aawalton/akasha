@@ -9,7 +9,7 @@ export const keenEyeWood = {
   baseName: "Keen Eye: Wood",
   description: "Wood in the world will be easier to see when you are 40 meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
-  esoSkillId: 47859,
+  esoAbilityId: 47859,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -19,6 +19,6 @@ export const keenEyeWood = {
   skillType: "temper-skill-type/passive",
   hashPlace: 717,
   createdAt: "2026-05-26T02:37:19.390Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 40 meters (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const undo = {
   description:
     "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago.",
   icon: "/esoui/art/icons/ability_psijic_001.dds",
-  esoSkillId: 103478,
+  esoAbilityId: 103478,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -20,5 +20,5 @@ export const undo = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1384,
   createdAt: "2026-05-28T16:03:34.145Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

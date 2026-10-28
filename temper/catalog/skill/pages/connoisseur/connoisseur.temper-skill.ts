@@ -9,7 +9,7 @@ export const connoisseur = {
   baseName: "Connoisseur",
   description: "Adds 20 minutes to the duration of any consumed drink.",
   icon: "/esoui/art/icons/ability_provisioner_005.dds",
-  esoSkillId: 44615,
+  esoAbilityId: 44615,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 5,
@@ -19,5 +19,5 @@ export const connoisseur = {
   skillType: "temper-skill-type/passive",
   hashPlace: 241,
   createdAt: "2026-05-26T02:37:19.377Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

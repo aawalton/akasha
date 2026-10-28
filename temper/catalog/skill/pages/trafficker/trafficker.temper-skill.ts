@@ -9,7 +9,7 @@ export const trafficker = {
   baseName: "Trafficker",
   description: "Increases the number of fence interactions you can use each day by 180%.",
   icon: "/esoui/art/icons/ability_legerdemain_salesman.dds",
-  esoSkillId: 63810,
+  esoAbilityId: 63810,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -19,6 +19,6 @@ export const trafficker = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1358,
   createdAt: "2026-05-26T03:25:55.833Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 180% (Constant)"],
 } as const satisfies TemperSkill

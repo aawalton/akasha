@@ -9,7 +9,7 @@ export const scribedBannerBearerRestoreResources = {
   baseName: "Banner Bearer",
   description: "Reduces the cost of non-Ultimate abilities by 8%.",
   icon: "/esoui/art/icons/ability_grimoire_support.dds",
-  esoSkillId: 217699,
+  esoAbilityId: 217699,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const scribedBannerBearerRestoreResources = {
   grimoireId: "temper-grimoire/banner-bearer",
   hashPlace: 1642,
   createdAt: "2026-05-26T13:19:53.247Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

@@ -10,7 +10,7 @@ export const vengeanceBoltEscape = {
   description:
     "Transform yourself into pure energy and flash forward, stunning up to 3 enemies near your final location for |cffffff1|r second. \n\nThis effect cannot be blocked.",
   icon: "/esoui/art/icons/ability_sorcerer_bolt_escape.dds",
-  esoSkillId: 237981,
+  esoAbilityId: 237981,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceBoltEscape = {
   skillType: "temper-skill-type/active",
   hashPlace: 1425,
   createdAt: "2026-05-28T16:03:34.214Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6 (Constant)", "<<2>> = 1 second (Constant)"],
 } as const satisfies TemperSkill

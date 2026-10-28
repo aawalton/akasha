@@ -10,7 +10,7 @@ export const swarmingScion38932 = {
   description:
     "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls. \n\nBats also swarm around you and shred enemies that come close, dealing |cffffff3028|r Magic Damage every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_u26_vampire_06_a.dds",
-  esoSkillId: 38932,
+  esoAbilityId: 38932,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 5,
@@ -20,7 +20,7 @@ export const swarmingScion38932 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1315,
   createdAt: "2026-05-28T16:03:34.022Z",
-  updatedAt: "2026-10-21T16:30:55.570Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10000 (Constant)",
     "<<2>> = 15% (Constant, Heal)",

@@ -10,7 +10,7 @@ export const findersKeepers = {
   description:
     "Thieves Troves are caches that are located all over Tamriel. They can only be opened by members of the Thieves Guild.",
   icon: "/esoui/art/icons/ability_thievesguild_passive_001.dds",
-  esoSkillId: 74580,
+  esoAbilityId: 74580,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const findersKeepers = {
   effects: "jsonl",
   hashPlace: 511,
   createdAt: "2026-05-26T02:59:07.581Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

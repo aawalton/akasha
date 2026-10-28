@@ -10,7 +10,7 @@ export const vengeanceMomentum = {
   description:
     "Focus your strength and resolve to gain Minor Force, increasing your Critical Damage by |cffffff10|r%, as well as gaining Minor Endurance, increasing your Stamina Recovery by |cffffff15|r% for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_2handed_005.dds",
-  esoSkillId: 240483,
+  esoAbilityId: 240483,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceMomentum = {
   skillType: "temper-skill-type/active",
   hashPlace: 1510,
   createdAt: "2026-05-28T16:03:34.337Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Force (Constant)",
     "<<2>> = 10 (Constant)",

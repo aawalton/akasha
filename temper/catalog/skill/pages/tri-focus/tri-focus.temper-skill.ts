@@ -10,7 +10,7 @@ export const triFocus = {
   description:
     "Fully-charged Inferno Staff Heavy Attacks deal an additional 4480 Flame Damage over 20 seconds.\n\nFully-charged Lightning Staff Heavy Attacks damage nearby enemies for 100% of the damage done.\n\nFully-charged Ice Staff Heavy Attacks grant you a damage shield that absorbs 5280 damage. This effect scales off your Max Health.\n\nWhile an Ice Staff is equipped, blocking costs Magicka instead of Stamina.",
   icon: "/esoui/art/icons/ability_weapon_001.dds",
-  esoSkillId: 45500,
+  esoAbilityId: 45500,
   isMorph: false,
   learnedLevel: 34,
   lineRankNeeded: 34,
@@ -22,7 +22,7 @@ export const triFocus = {
   effects: "jsonl",
   hashPlace: 1365,
   createdAt: "2026-05-26T02:38:38.363Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0199778 MaxStat + 0.210472 MaxPower - 1.95606 (Ultimate, ratio = 10.54, Dmg, Flame, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999993)",
     "<<2>> = 20 seconds (Constant)",

@@ -10,7 +10,7 @@ export const vengeanceFeralGuardian = {
   description:
     "Rouse a grizzly to maul an enemy for |cffffff15582|r Magic Damage. Deals |cffffff100|r% more damage to enemies below |cffffff25|r% Health.",
   icon: "/esoui/art/icons/ability_warden_018.dds",
-  esoSkillId: 238043,
+  esoAbilityId: 238043,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceFeralGuardian = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1472,
   createdAt: "2026-05-28T16:03:34.283Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 14700 Magic Damage (Constant)",
     "<<2>> = 100 (Constant)",

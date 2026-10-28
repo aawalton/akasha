@@ -10,7 +10,7 @@ export const vengeanceLotusFlower = {
   description:
     "Embrace the lotus blessing, granting you Major Mending, Prophecy, and Savagery for |cffffff20|r seconds, increasing your healing done by |cffffff16|r% and Spell and Weapon Critical rating by |cffffff2629|r.",
   icon: "/esoui/art/icons/ability_warden_009.dds",
-  esoSkillId: 238067,
+  esoAbilityId: 238067,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceLotusFlower = {
   skillType: "temper-skill-type/active",
   hashPlace: 1501,
   createdAt: "2026-05-28T16:03:34.324Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 20 seconds (Constant)", "<<2>> = 16% (Constant)", "<<3>> = 2629 (Constant)"],
 } as const satisfies TemperSkill

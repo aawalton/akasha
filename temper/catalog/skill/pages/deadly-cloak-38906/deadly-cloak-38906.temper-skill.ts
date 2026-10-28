@@ -10,7 +10,7 @@ export const deadlyCloak38906 = {
   description:
     "Envelop yourself in a protective cloak of razors, gaining Major Evasion for |cffffff20|r seconds, reducing damage from area attacks by |cffffff20|r%. \n\nEvery |cffffff2|r seconds the shrapnel will pulse, dealing |cffffff1971|r Physical Damage to all enemies within |cffffff5|r meters.",
   icon: "/esoui/art/icons/ability_dualwield_004_b.dds",
-  esoSkillId: 38906,
+  esoAbilityId: 38906,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const deadlyCloak38906 = {
   skillType: "temper-skill-type/active",
   hashPlace: 327,
   createdAt: "2026-05-28T16:03:32.113Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = 20% (Constant)",

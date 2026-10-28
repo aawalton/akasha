@@ -10,7 +10,7 @@ export const vengeanceBearerSInspiration = {
   description:
     "Etch a series of runes onto your weapon that pulse with power, generating a Crux if you have none while granting you Minor Force for |cffffff20|r seconds, increasing your Critical Damage done by |cffffff10|r%.\n\nWhile slotted on either ability bar, gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.",
   icon: "/esoui/art/icons/ability_arcanist_005.dds",
-  esoSkillId: 238191,
+  esoAbilityId: 238191,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceBearerSInspiration = {
   skillType: "temper-skill-type/active",
   hashPlace: 1417,
   createdAt: "2026-05-28T16:03:34.203Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 20 seconds (Constant)", "<<2>> = 10 (Constant)", "<<3>> = 2629 (Constant)"],
 } as const satisfies TemperSkill

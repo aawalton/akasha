@@ -10,7 +10,7 @@ export const illuminate = {
   description:
     "Casting a Dawn's Wrath ability grants Minor Sorcery to you and your group for 20 seconds, increasing your Spell Damage by 10%.",
   icon: "/esoui/art/icons/ability_templar_012.dds",
-  esoSkillId: 45215,
+  esoAbilityId: 45215,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -21,6 +21,6 @@ export const illuminate = {
   status: "unsupported",
   hashPlace: 658,
   createdAt: "2026-05-26T03:13:12.366Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2974 (Constant)", "<<2>> = 20 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -9,7 +9,7 @@ export const magickaMastery = {
   baseName: "Magicka Mastery",
   description: "Reduces the Magicka cost of your abilities by 7%.",
   icon: "/esoui/art/icons/ability_armor_005.dds",
-  esoSkillId: 45264,
+  esoAbilityId: 45264,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const magickaMastery = {
   effects: "jsonl",
   hashPlace: 791,
   createdAt: "2026-05-26T03:18:02.192Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 7% (Constant)"],
 } as const satisfies TemperSkill

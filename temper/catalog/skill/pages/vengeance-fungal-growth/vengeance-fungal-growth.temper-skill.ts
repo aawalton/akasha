@@ -10,7 +10,7 @@ export const vengeanceFungalGrowth = {
   description:
     "Seed a large area of mushrooms in front of you, healing up to 3 of you and your allies for |cffffff12048|r Health.",
   icon: "/esoui/art/icons/ability_warden_008.dds",
-  esoSkillId: 238054,
+  esoAbilityId: 238054,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceFungalGrowth = {
   skillType: "temper-skill-type/active",
   hashPlace: 1482,
   createdAt: "2026-05-28T16:03:34.297Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 11812 (Constant)"],
 } as const satisfies TemperSkill

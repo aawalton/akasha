@@ -10,7 +10,7 @@ export const vengeanceSilverBolts = {
   description:
     "Fire a Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing |cffffff10017|r Physical Damage.",
   icon: "/esoui/art/icons/ability_fightersguild_003.dds",
-  esoSkillId: 246070,
+  esoAbilityId: 246070,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceSilverBolts = {
   skillType: "temper-skill-type/active",
   hashPlace: 1557,
   createdAt: "2026-05-28T16:03:34.404Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 9450 Physical Damage (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const expertSummoner = {
   description:
     "Increases your Magicka and Stamina by 5%.\n\nIncreases your Max Health by 5% if you have a permanent pet active.",
   icon: "/esoui/art/icons/ability_sorcerer_019.dds",
-  esoSkillId: 45199,
+  esoAbilityId: 45199,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -22,6 +22,6 @@ export const expertSummoner = {
   effects: "jsonl",
   hashPlace: 482,
   createdAt: "2026-05-26T03:13:12.315Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5% (Constant)"],
 } as const satisfies TemperSkill

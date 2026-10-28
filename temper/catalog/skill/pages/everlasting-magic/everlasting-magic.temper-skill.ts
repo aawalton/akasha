@@ -9,7 +9,7 @@ export const everlastingMagic = {
   baseName: "Everlasting Magic",
   description: "Increases the duration of your Mages Guild abilities by 2 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_063.dds",
-  esoSkillId: 45602,
+  esoAbilityId: 45602,
   isMorph: false,
   learnedLevel: 7,
   lineRankNeeded: 7,
@@ -21,5 +21,5 @@ export const everlastingMagic = {
   effects: "jsonl",
   hashPlace: 459,
   createdAt: "2026-05-26T02:59:07.578Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

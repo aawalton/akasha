@@ -9,7 +9,7 @@ export const scribedMendersBondGenerateUltimate = {
   baseName: "Mender's Bond",
   description: "Transfers 1 Ultimate from you to the ally every 1 second.",
   icon: "/esoui/art/icons/ability_grimoire_staffresto.dds",
-  esoSkillId: 217294,
+  esoAbilityId: 217294,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const scribedMendersBondGenerateUltimate = {
   grimoireId: "temper-grimoire/menders-bond",
   hashPlace: 1654,
   createdAt: "2026-05-26T13:19:53.262Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

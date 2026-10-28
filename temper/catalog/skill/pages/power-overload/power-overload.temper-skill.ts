@@ -10,7 +10,7 @@ export const powerOverload = {
   description:
     "Charge your fists with the power of the storm, replacing your Light and Heavy Attacks with new, stronger abilities.\n\nLight Attacks become lightning bolts, dealing 2640 Shock Damage to an enemy up to 32 meters away.\n\nHeavy Attacks blast enemies in a 6 x 8 area for 2375 Shock Damage.\n\nAttacks deplete Ultimate until you run out, or the ability is toggled off.",
   icon: "/esoui/art/icons/ability_sorcerer_power_overload.dds",
-  esoSkillId: 30366,
+  esoAbilityId: 30366,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const powerOverload = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 913,
   createdAt: "2026-05-26T03:13:12.426Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.11737979 MaxStat + 1.23248263 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Shock, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 32 (Constant)",

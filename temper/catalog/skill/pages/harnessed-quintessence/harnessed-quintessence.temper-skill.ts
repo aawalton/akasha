@@ -10,7 +10,7 @@ export const harnessedQuintessence = {
   description:
     "You master the warp and weft of your very soul. When you are restored Magicka or Stamina, increase your Weapon and Spell Damage by 284 for 10 seconds.",
   icon: "/esoui/art/icons/passive_arcanist_02.dds",
-  esoSkillId: 184858,
+  esoAbilityId: 184858,
   isMorph: false,
   learnedLevel: 14,
   lineRankNeeded: 14,
@@ -22,6 +22,6 @@ export const harnessedQuintessence = {
   effects: "jsonl",
   hashPlace: 594,
   createdAt: "2026-05-26T03:13:12.347Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 284 (Constant)", "<<2>> = 10 seconds (Constant)"],
 } as const satisfies TemperSkill

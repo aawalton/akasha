@@ -10,7 +10,7 @@ export const momentum = {
   description:
     "Focus your strength and resolve to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%, as well as gaining Minor Endurance, increasing your Stamina Recovery by |cffffff15|r% for |cffffff30|r seconds.",
   icon: "/esoui/art/icons/ability_2handed_005.dds",
-  esoSkillId: 28297,
+  esoAbilityId: 28297,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const momentum = {
   skillType: "temper-skill-type/active",
   hashPlace: 836,
   createdAt: "2026-05-28T16:03:33.143Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Brutality (Constant)",
     "<<2>> = Minor Endurance (Constant)",

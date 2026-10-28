@@ -10,7 +10,7 @@ export const borrowedTime = {
   description:
     "Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area during the channel before finally stunning them in place for 3 seconds when the channel completes.\n\nEnemies that are stunned gain 5000 Heal Absorption for 3 seconds, negating the next 5000 points of healing done.",
   icon: "/esoui/art/icons/ability_psijic_002_a.dds",
-  esoSkillId: 40104059,
+  esoAbilityId: 40104059,
   isMorph: true,
   learnedLevel: 2,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const borrowedTime = {
   skillType: "temper-skill-type/active",
   hashPlace: 150,
   createdAt: "2026-05-26T02:59:07.549Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
     "<<2>> = 5000 (Constant)",

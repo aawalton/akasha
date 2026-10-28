@@ -10,7 +10,7 @@ export const timelyEscape = {
   description:
     'When you have Bounty and are in combat, you have a chance to spot a "Footpad" in a town with a Refuge. Interacting with the Footpad will transport the player safely into the nearest Refuge.',
   icon: "/esoui/art/icons/ability_thievesguild_passive_004.dds",
-  esoSkillId: 76452,
+  esoAbilityId: 76452,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -22,5 +22,5 @@ export const timelyEscape = {
   effects: "jsonl",
   hashPlace: 1350,
   createdAt: "2026-05-26T02:59:07.686Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

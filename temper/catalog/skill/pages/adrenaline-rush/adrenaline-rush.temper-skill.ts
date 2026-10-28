@@ -10,7 +10,7 @@ export const adrenalineRush = {
   description:
     "When you deal damage, you restore 1005 Stamina. This effect can occur once every 5 seconds.",
   icon: "/esoui/art/icons/ability_armor_012.dds",
-  esoSkillId: 45315,
+  esoAbilityId: 45315,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const adrenalineRush = {
   status: "unsupported",
   hashPlace: 17,
   createdAt: "2026-05-26T03:18:02.171Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1005 (Constant)", "<<2>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

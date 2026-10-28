@@ -10,7 +10,7 @@ export const undauntedMettle = {
   description:
     "Increases your Max Health, Stamina, and Magicka by 2% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_014.dds",
-  esoSkillId: 55386,
+  esoAbilityId: 55386,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -22,6 +22,6 @@ export const undauntedMettle = {
   effects: "jsonl",
   hashPlace: 1379,
   createdAt: "2026-05-26T02:59:07.689Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2 ArmorTypes (Armor Types, SingleTarget, Direct, R2 = 1)"],
 } as const satisfies TemperSkill

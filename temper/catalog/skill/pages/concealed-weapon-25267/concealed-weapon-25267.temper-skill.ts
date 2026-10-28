@@ -10,7 +10,7 @@ export const concealedWeapon25267 = {
   description:
     "Slash an enemy, dealing |cffffff8885|r Magic Damage. \n\nIf you strike an enemy from their flank you set them Off Balance.\n\nWhen you leave Sneak or invisibility while in combat, increase your damage done with this ability by |cffffff10|r% for |cffffff15|r seconds.\n\nWhile slotted on either bar, you gain Minor Expedition, increasing your Movement Speed by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_nightblade_002_b.dds",
-  esoSkillId: 25267,
+  esoAbilityId: 25267,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const concealedWeapon25267 = {
   skillType: "temper-skill-type/active",
   hashPlace: 234,
   createdAt: "2026-05-28T16:03:31.980Z",
-  updatedAt: "2026-10-21T12:52:16.929Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.11359 MaxStat + 1.1934 MaxPower (Ultimate, Dmg, Magic, SingleTarget, Direct, Melee, single precision)",
     "<<2>> = 10% (Constant)",

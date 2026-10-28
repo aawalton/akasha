@@ -10,7 +10,7 @@ export const engulfingDragonfire = {
   description:
     "Breathe forth an unending torrent of draconic fire, dealing 5507 Flame Damage every 0.5 seconds in a channeled attack over 4.8 seconds.\n\nEach tick increases the damage dealt by 5%, up to a maximum of 50%. While Take Flight is active you always deal maximum damage.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_dragonknight_004_b.dds",
-  esoSkillId: 20930,
+  esoAbilityId: 20930,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const engulfingDragonfire = {
   skillType: "temper-skill-type/active",
   hashPlace: 446,
   createdAt: "2026-05-26T03:13:12.302Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.059699 MaxStat + 0.626837 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 0.5 seconds (Constant)",

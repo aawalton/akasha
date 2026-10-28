@@ -10,7 +10,7 @@ export const beckoningArmor = {
   description:
     "Wrap yourself in hardened bone, granting you Major Resolve and Minor Resolve for 20 seconds, increasing your Physical Resistance and Spell Resistance by 5948 and 2974.\n\nWhile active, ranged attackers will be pulled to you once every 2 seconds and become taunted for 15 seconds if they are not already taunted.\n\nIf cast during combat, you can cast a corpse consuming ability on yourself. This effect can occur once every 10 seconds.",
   icon: "/esoui/art/icons/ability_necromancer_008_a.dds",
-  esoSkillId: 40118237,
+  esoAbilityId: 40118237,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const beckoningArmor = {
   skillType: "temper-skill-type/active",
   hashPlace: 86,
   createdAt: "2026-05-26T03:13:12.181Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Resolve (Constant)",
     "<<2>> = Minor Resolve (Constant)",

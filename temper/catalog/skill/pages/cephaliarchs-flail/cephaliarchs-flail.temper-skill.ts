@@ -10,7 +10,7 @@ export const cephaliarchsFlail = {
   description:
     "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing 1939 Physical Damage and generating Crux. Enemies are immobilized for 3 seconds and marked with Abyssal Ink for 20 seconds.\n\nIf an enemy is hit, you for heal for 1000 Health, once per cast.\n\nYou deal 5% increased damage to enemies drenched in Abyssal Ink.",
   icon: "/esoui/art/icons/ability_arcanist_003_a.dds",
-  esoSkillId: 40183006,
+  esoAbilityId: 40183006,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const cephaliarchsFlail = {
   skillType: "temper-skill-type/active",
   hashPlace: 195,
   createdAt: "2026-05-26T03:13:12.211Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.08625 MaxStat + 0.905625 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, Melee, 0.3s cooldown, R2 = 1)",
     "<<2>> = 3 seconds (Constant)",

@@ -10,7 +10,7 @@ export const aggressiveHorn40223 = {
   description:
     "Sound a war horn to rally your forces, increasing you and your group's Max Magicka and Max Stamina by |cffffff10|r% for |cffffff30|r seconds.\n\nYou and your allies gain Major Force, increasing your Critical Damage by |cffffff20|r% for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_ava_003_a.dds",
-  esoSkillId: 40223,
+  esoAbilityId: 40223,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const aggressiveHorn40223 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 24,
   createdAt: "2026-05-28T16:03:31.615Z",
-  updatedAt: "2026-10-21T04:43:21.850Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10% (Constant)",
     "<<2>> = 30 seconds (Constant)",

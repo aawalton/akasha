@@ -9,7 +9,7 @@ export const vengeanceCrystalShard = {
   baseName: "Vengeance Crystal Shard",
   description: "Conjure dark crystals to bombard an enemy, dealing |cffffff11519|r Magic Damage.",
   icon: "/esoui/art/icons/ability_sorcerer_thunderclap.dds",
-  esoSkillId: 237792,
+  esoAbilityId: 237792,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -19,6 +19,6 @@ export const vengeanceCrystalShard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1441,
   createdAt: "2026-05-28T16:03:34.238Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10867 Magic Damage (Constant)"],
 } as const satisfies TemperSkill

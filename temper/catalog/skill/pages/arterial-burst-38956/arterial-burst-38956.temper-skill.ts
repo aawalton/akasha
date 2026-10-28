@@ -10,7 +10,7 @@ export const arterialBurst38956 = {
   description:
     "Rend an enemy, dealing |cffffff8342|r Magic Damage and applying the Hemorrhaging status effect.\n\nDeals up to |cffffff33|r% more damage based on your missing Health.\n\nIf you use this ability while you are under |cffffff50|r% Health, it will always be a Critical Strike.",
   icon: "/esoui/art/icons/ability_u26_vampire_01_b.dds",
-  esoSkillId: 38956,
+  esoAbilityId: 38956,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const arterialBurst38956 = {
   skillType: "temper-skill-type/active",
   hashPlace: 52,
   createdAt: "2026-05-28T16:03:31.655Z",
-  updatedAt: "2026-10-21T16:02:37.525Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1, rank IV)",
     "<<2>> = Hemorrhaging (Constant)",

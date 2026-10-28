@@ -10,7 +10,7 @@ export const shieldedAssault38401 = {
   description:
     "Rush an enemy and ram them, dealing |cffffff4845|r Physical Damage and stunning them for |cffffff3|r seconds.\n\nYou gain a damage shield after the attack, absorbing |cffffff7258|r damage for |cffffff6|r seconds. This portion of the ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_1handed_003_a.dds",
-  esoSkillId: 38401,
+  esoAbilityId: 38401,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const shieldedAssault38401 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1170,
   createdAt: "2026-05-28T16:03:33.758Z",
-  updatedAt: "2026-10-21T15:58:06.660Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1, single precision)",
     "<<2>> = 3 seconds (Constant)",

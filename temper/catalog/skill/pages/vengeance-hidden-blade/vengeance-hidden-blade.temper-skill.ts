@@ -10,7 +10,7 @@ export const vengeanceHiddenBlade = {
   description:
     "Fire a secret dagger from your sleeve at an enemy, dealing |cffffff10017|r Physical Damage.\n\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_dualwield_003.dds",
-  esoSkillId: 241234,
+  esoAbilityId: 241234,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceHiddenBlade = {
   skillType: "temper-skill-type/active",
   hashPlace: 1491,
   createdAt: "2026-05-28T16:03:34.310Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 9450 Physical Damage (Constant)", "<<2>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

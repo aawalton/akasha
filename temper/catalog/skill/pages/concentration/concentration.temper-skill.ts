@@ -10,7 +10,7 @@ export const concentration = {
   description:
     "Increases your Physical and Spell Penetration by 939 for each piece of Light Armor worn.\n\nCurrent bonus: 0",
   icon: "/esoui/art/icons/ability_sorcerer_060.dds",
-  esoSkillId: 45562,
+  esoAbilityId: 45562,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 42,
@@ -22,7 +22,7 @@ export const concentration = {
   effects: "jsonl",
   hashPlace: 237,
   createdAt: "2026-05-26T02:59:07.563Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 939 (Constant)",
     "<<2>> = 939 LightArmor (Light Armor, SingleTarget, Direct, R2 = 1)",

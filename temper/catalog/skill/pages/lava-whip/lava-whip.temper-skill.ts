@@ -10,7 +10,7 @@ export const lavaWhip = {
   description:
     "Lash an enemy with flame, dealing |cffffff8076|r Flame Damage.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Volcanic Whip for |cffffff20|r seconds, up to once every |cffffff20|r seconds.\n\nVolcanic Whip replaces this ability and consumes a stack to instead deal |cffffff15931|r Flame Damage to your target and all nearby enemies.",
   icon: "/esoui/art/icons/ability_dragonknight_001.dds",
-  esoSkillId: 23806,
+  esoAbilityId: 23806,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const lavaWhip = {
   skillType: "temper-skill-type/active",
   hashPlace: 730,
   createdAt: "2026-05-28T16:03:32.931Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 5 (Constant)",

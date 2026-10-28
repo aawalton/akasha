@@ -10,7 +10,7 @@ export const magesWrath19123 = {
   description:
     "Call down lightning to strike an enemy, dealing |cffffff3028|r Shock Damage.\n\nIf the enemy falls to or below |cffffff20|r% Health within |cffffff2|r seconds of being struck, an explosion deals an additional |cffffff11735|r Shock Damage to them and all nearby enemies.",
   icon: "/esoui/art/icons/ability_sorcerer_mage_wraith.dds",
-  esoSkillId: 19123,
+  esoAbilityId: 19123,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const magesWrath19123 = {
   skillType: "temper-skill-type/active",
   hashPlace: 783,
   createdAt: "2026-05-28T16:03:33.043Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.03875 MaxStat + 0.40675 MaxPower (Ultimate, ratio = 10.50, Dmg, Shock, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 2 seconds (Constant)",

@@ -9,7 +9,7 @@ export const catalyst = {
   baseName: "Catalyst",
   description: "After drinking a potion you gain 22 Ultimate.",
   icon: "/esoui/art/icons/passive_sorcerer_046.dds",
-  esoSkillId: 45135,
+  esoAbilityId: 45135,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -20,6 +20,6 @@ export const catalyst = {
   status: "unsupported",
   hashPlace: 191,
   createdAt: "2026-05-26T03:13:12.209Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 22 (Constant)"],
 } as const satisfies TemperSkill

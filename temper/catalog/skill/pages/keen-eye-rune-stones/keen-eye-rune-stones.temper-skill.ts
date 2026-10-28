@@ -9,7 +9,7 @@ export const keenEyeRuneStones = {
   baseName: "Keen Eye: Rune Stones",
   description: "Runes in the world will be easier to see when you are 40 meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
-  esoSkillId: 47853,
+  esoAbilityId: 47853,
   isMorph: false,
   learnedLevel: 14,
   lineRankNeeded: 14,
@@ -19,6 +19,6 @@ export const keenEyeRuneStones = {
   skillType: "temper-skill-type/passive",
   hashPlace: 714,
   createdAt: "2026-05-26T02:37:19.389Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 40 meters (Constant)"],
 } as const satisfies TemperSkill

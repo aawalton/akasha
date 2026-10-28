@@ -10,7 +10,7 @@ export const moltenArmaments31888 = {
   description:
     "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff30|r seconds.\n\nWhile active, dealing damage with Light and Heavy Attacks causes an additional |cffffff1562|r Flame Damage, up to once every |cffffff1.5|r seconds.\n\nYou also gain Empower for the duration, increasing the damage of your Heavy Attacks against monsters by |cffffff70|r%.",
   icon: "/esoui/art/icons/ability_dragonknight_015_b.dds",
-  esoSkillId: 31888,
+  esoAbilityId: 31888,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const moltenArmaments31888 = {
   skillType: "temper-skill-type/active",
   hashPlace: 833,
   createdAt: "2026-05-28T16:03:33.137Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Brutality (Constant)",
     "<<2>> = 20% (Constant)",

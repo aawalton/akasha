@@ -10,7 +10,7 @@ export const ricochetSkull = {
   description:
     "Lob an explosive skull at an enemy, dealing 2160 Flame Damage.\n\nEvery third cast of this ability deals 50% increased damage, creates a corpse near the initial enemy, and will bounce up to 2 times to other nearby enemies.",
   icon: "/esoui/art/icons/ability_necromancer_001_b.dds",
-  esoSkillId: 40117637,
+  esoAbilityId: 40117637,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const ricochetSkull = {
   skillType: "temper-skill-type/active",
   hashPlace: 1073,
   createdAt: "2026-05-26T03:13:12.467Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.09603801 MaxStat + 1.00840427 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Flame, SingleTarget, Direct, R2 = 1)",
   ],

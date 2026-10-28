@@ -10,7 +10,7 @@ export const vengeanceSpearShards = {
   description:
     "Send your spear into the heavens to bring down a shower of divine wrath, dealing |cffffff8820|r Magic Damage to up to 3 enemies in the area.",
   icon: "/esoui/art/icons/ability_templar_sun_strike.dds",
-  esoSkillId: 237887,
+  esoAbilityId: 237887,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceSpearShards = {
   skillType: "temper-skill-type/active",
   hashPlace: 1564,
   createdAt: "2026-05-28T16:03:34.414Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 7875 Magic Damage (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const seeTheUnseen = {
   description:
     "The insight you have gained from the Psijic Order grants you vision of the spiritual world. You can now interact with rifts all throughout Tamriel.",
   icon: "/esoui/art/icons/ability_psijic_007.dds",
-  esoSkillId: 103793,
+  esoAbilityId: 103793,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const seeTheUnseen = {
   effects: "jsonl",
   hashPlace: 1147,
   createdAt: "2026-05-26T02:59:07.657Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

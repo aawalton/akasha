@@ -56,7 +56,7 @@ export const CLASS_MASTERY_FIELDS: readonly string[] = [
   "key",
   "title",
   "description",
-  "esoSkillId",
+  "esoAbilityId",
   "class",
   "effects",
   "hashPlace",
@@ -66,7 +66,7 @@ export type ClassMasteryTemplate = {
   readonly id: string
   readonly name: string
   readonly description: string
-  readonly esoSkillId: number
+  readonly esoAbilityId: number
   readonly classId: string
   readonly effects: readonly Effect[]
 }
@@ -82,7 +82,7 @@ export function classMasteryOf(row: Value, reading: ClassMasteryReading): ClassM
     id: String(row.key),
     name: String(row.title),
     description: String(row.description ?? ""),
-    esoSkillId: Number(row.esoSkillId),
+    esoAbilityId: Number(row.esoAbilityId),
     classId: reading.keyOf(row.class, where),
     effects: reading.effectsOf(row, where) as readonly Effect[],
   }

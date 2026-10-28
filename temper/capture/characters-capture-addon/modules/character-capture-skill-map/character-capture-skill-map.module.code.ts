@@ -5,16 +5,16 @@ import {
   skillPages,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-pages/character-capture-skill-pages.module.code.ts"
 
-type Placed = Pick<SkillPage, "esoSkillId" | "hashPlace">
+type Placed = Pick<SkillPage, "esoAbilityId" | "hashPlace">
 
-type Places = { [esoSkillId: number]: number | undefined }
+type Places = { [esoAbilityId: number]: number | undefined }
 
 let held: Places | undefined
 
 function note(this: void, into: Places, one: Placed): undefined {
-  if (one.esoSkillId === 0) return undefined
-  const known = into[one.esoSkillId]
-  if (known === undefined || one.hashPlace < known) into[one.esoSkillId] = one.hashPlace
+  if (one.esoAbilityId === 0) return undefined
+  const known = into[one.esoAbilityId]
+  if (known === undefined || one.hashPlace < known) into[one.esoAbilityId] = one.hashPlace
   return undefined
 }
 
@@ -42,7 +42,7 @@ export function skillIndexOfPlace(place: number): number {
   return indices[place] ?? 0
 }
 
-export function getPlayerSkillIndex(esoSkillId: number): number {
+export function getPlayerSkillIndex(esoAbilityId: number): number {
   if (held === undefined) held = placesOf()
-  return skillIndexOfPlace(held[esoSkillId] ?? 0)
+  return skillIndexOfPlace(held[esoAbilityId] ?? 0)
 }

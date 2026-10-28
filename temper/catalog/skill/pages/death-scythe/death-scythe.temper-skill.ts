@@ -10,7 +10,7 @@ export const deathScythe = {
   description:
     "Slice into your enemy's life force, dealing |cffffff6400|r Magic Damage.\n\nYou heal for |cffffff3016|r Health for the first enemy hit, and an additional |cffffff1005|r for each additional enemy hit, up to five times. The healing of this ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_necromancer_007.dds",
-  esoSkillId: 115115,
+  esoAbilityId: 115115,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const deathScythe = {
   skillType: "temper-skill-type/active",
   hashPlace: 333,
   createdAt: "2026-05-28T16:03:32.126Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.075 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 0.15 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",

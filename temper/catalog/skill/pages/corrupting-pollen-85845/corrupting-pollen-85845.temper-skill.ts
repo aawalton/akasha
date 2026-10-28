@@ -10,7 +10,7 @@ export const corruptingPollen85845 = {
   description:
     "Summon a field of flowers which blooms after |cffffff6|r seconds, healing you and allies in the area for |cffffff11321|r Health.\n\nEnemies who enter the field are afflicted with Major Defile and Minor Cowardice, reducing their healing received and damage shield strength by |cffffff12|r% and their Weapon and Spell Damage by |cffffff215|r.\n\nAn ally within the field can activate the Harvest synergy, healing for |cffffff10602|r Health over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_warden_007_c.dds",
-  esoSkillId: 85845,
+  esoAbilityId: 85845,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const corruptingPollen85845 = {
   skillType: "temper-skill-type/active",
   hashPlace: 255,
   createdAt: "2026-05-28T16:03:32.012Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 0.154901 MaxStat + 1.62725 MaxPower - 1.10979 (Ultimate, ratio = 10.51, Heal, AOE, Direct, R2 = 1)",

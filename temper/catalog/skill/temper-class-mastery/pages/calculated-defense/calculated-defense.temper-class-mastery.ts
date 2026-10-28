@@ -8,9 +8,9 @@ export const calculatedDefense = {
   key: "calculated-defense",
   description:
     "Success is a certainty when nothing is left to chance.\n\nWhile beginning to use a Sorcerer ability or an ability with a cast time, you gain a damage shield for 0.5 seconds that can absorb 13332 damage. This effect is based off your Max Health. If the shield does not break, you and nearby group members gain 6% Weapon and Spell Damage for 20 seconds.",
-  esoSkillId: 263873,
+  esoAbilityId: 263873,
   class: "temper-class/sorcerer",
   hashPlace: 23,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

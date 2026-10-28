@@ -10,7 +10,7 @@ export const felineAmbush = {
   description:
     "Increases your Critical Damage and Critical Healing by 12%.\n\nDecreases your detection radius in Stealth by 3 meters.",
   icon: "/esoui/art/icons/ability_armor_006.dds",
-  esoSkillId: 45301,
+  esoAbilityId: 45301,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -22,6 +22,6 @@ export const felineAmbush = {
   effects: "jsonl",
   hashPlace: 503,
   createdAt: "2026-05-26T03:18:02.185Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 12% (Constant)", "<<2>> = 3 meters (Constant)"],
 } as const satisfies TemperSkill

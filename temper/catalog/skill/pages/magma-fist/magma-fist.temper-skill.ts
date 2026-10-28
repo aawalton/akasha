@@ -10,7 +10,7 @@ export const magmaFist = {
   description:
     "Draw forth magma from below to hurl at an enemy, dealing 9021 Flame Damage while applying a stack of Heat Shock, which increases the enemy's damage taken by 66 for 7 seconds per stack, up to 3 times.\n\nHitting an enemy at max stacks of Heat Shock with this ability increases the damage done of the next cast of this ability within 6 seconds by 66%, up to once every 6 seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_013_stonefist_b.dds",
-  esoSkillId: 31816,
+  esoAbilityId: 31816,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const magmaFist = {
   skillType: "temper-skill-type/active",
   hashPlace: 794,
   createdAt: "2026-05-26T03:13:12.390Z",
-  updatedAt: "2026-10-21T09:58:31.044Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, Dmg, Flame, SingleTarget, Direct, rank IV)",
     "<<2>> = Heat Shock (Constant)",

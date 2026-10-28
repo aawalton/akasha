@@ -9,7 +9,7 @@ export const aspectImprovement = {
   baseName: "Aspect Improvement",
   description: "Allows the use of Legendary (gold) Aspect Runestones.",
   icon: "/esoui/art/icons/ability_enchanter_002b.dds",
-  esoSkillId: 46763,
+  esoAbilityId: 46763,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -19,5 +19,5 @@ export const aspectImprovement = {
   skillType: "temper-skill-type/passive",
   hashPlace: 54,
   createdAt: "2026-05-26T02:37:19.365Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

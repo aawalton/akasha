@@ -10,7 +10,7 @@ export const spellRecharge = {
   description:
     "When you activate an ability, you restore 625 Magicka or Stamina, based on whichever is lowest. This effect can occur once every 6 seconds.\n\nWhen you are using an ability with a channel or cast time, you take 5% less damage.",
   icon: "/esoui/art/icons/ability_sorcerer_063.dds",
-  esoSkillId: 45274,
+  esoAbilityId: 45274,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -21,6 +21,6 @@ export const spellRecharge = {
   status: "unsupported",
   hashPlace: 1248,
   createdAt: "2026-05-26T03:18:02.208Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 625 (Constant)", "<<2>> = 5% (Constant)"],
 } as const satisfies TemperSkill

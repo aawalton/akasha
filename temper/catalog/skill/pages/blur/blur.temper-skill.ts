@@ -10,7 +10,7 @@ export const blur = {
   description:
     "Surround yourself in a phantasmic aura to gain Major Evasion, reducing damage from area attacks by |cffffff20|r% for |cffffff20|r seconds.\n\nWhile active, taking direct damage reduces the cost of your next Roll Dodge by |cffffff10|r%, up to a maximum of |cffffff100|r%. This effect can stack up to once every half second.",
   icon: "/esoui/art/icons/ability_nightblade_009.dds",
-  esoSkillId: 33375,
+  esoAbilityId: 33375,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const blur = {
   skillType: "temper-skill-type/active",
   hashPlace: 135,
   createdAt: "2026-05-28T16:03:31.812Z",
-  updatedAt: "2026-10-21T02:29:23.868Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20% (Constant)",
     "<<2>> = 20 seconds (Constant, +2 seconds with dark-veil)",

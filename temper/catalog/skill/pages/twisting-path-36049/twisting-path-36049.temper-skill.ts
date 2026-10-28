@@ -10,7 +10,7 @@ export const twistingPath36049 = {
   description:
     "Create a corridor of shadows for |cffffff10|r seconds, granting you and allies in the area Major Expedition, increasing Movement Speed by |cffffff30|r% which persists for |cffffff4|r seconds after leaving the path.\n\nDeals |cffffff1313|r Magic Damage to enemies in the target area every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_nightblade_010_b.dds",
-  esoSkillId: 36049,
+  esoAbilityId: 36049,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const twistingPath36049 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1375,
   createdAt: "2026-05-28T16:03:34.129Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10 seconds (Constant)",
     "<<2>> = 30% (Constant)",

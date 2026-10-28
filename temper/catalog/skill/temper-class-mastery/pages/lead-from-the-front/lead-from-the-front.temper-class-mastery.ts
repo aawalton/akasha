@@ -8,9 +8,9 @@ export const leadFromTheFront = {
   key: "lead-from-the-front",
   description:
     "Let others be swept along in the wake of your flame.\n\nActivating rank 2 of The Storm Voice grants you and group members within 28 meters of you Major Berserk and Protection for 1 second per 15 Ultimate spent, increasing damage done and reducing damage taken by 10%.",
-  esoSkillId: 263247,
+  esoAbilityId: 263247,
   class: "temper-class/dragonknight",
   hashPlace: 9,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

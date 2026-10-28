@@ -9,7 +9,7 @@ export const temperClassMastery = {
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
-    { pageProperty: "number-property/eso-skill-id", required: true, many: false },
+    { pageProperty: "number-property/eso-ability-id", required: true, many: false },
     { pageProperty: "relation-property/skill-line-class", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
@@ -35,5 +35,5 @@ export const temperClassMastery = {
   hashIndexed: ["hashPlace"],
   types: "ts",
   createdAt: "2026-10-21T13:24:41.666Z",
-  updatedAt: "2026-10-28T20:14:23.103Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies PageType

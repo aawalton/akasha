@@ -10,7 +10,7 @@ export const cutpurse = {
   description:
     "Increases your experience gain with the Medium Armor skill line by 15%.\n\nIncreases your chance to successfully pickpocket by 5%.",
   icon: "/esoui/art/icons/ability_armor_010.dds",
-  esoSkillId: 36063,
+  esoAbilityId: 36063,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,6 +21,6 @@ export const cutpurse = {
   status: "unsupported",
   hashPlace: 285,
   createdAt: "2026-05-26T03:18:02.180Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5% (Constant)"],
 } as const satisfies TemperSkill

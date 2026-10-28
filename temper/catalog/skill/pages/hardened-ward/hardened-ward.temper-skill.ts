@@ -10,7 +10,7 @@ export const hardenedWard = {
   description:
     "Conjure globes of Daedric energy for protection, granting a damage shield for you and your pets that absorbs 7323 damage for 6 seconds.\n\nThis ability scales off the higher of your Max Health or Magicka and the shield is capped at 72% of your Max Health.",
   icon: "/esoui/art/icons/ability_sorcerer_typhoon.dds",
-  esoSkillId: 30474,
+  esoAbilityId: 30474,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const hardenedWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 590,
   createdAt: "2026-05-26T03:13:12.346Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.456301 Health + 75.7641 (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 0.957238)",
     "<<2>> = 6 seconds (Constant)",

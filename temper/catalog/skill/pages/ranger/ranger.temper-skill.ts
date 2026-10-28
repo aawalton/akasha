@@ -9,7 +9,7 @@ export const ranger = {
   baseName: "Ranger",
   description: "Reduces the Stamina cost of Bow abilities by 15%.",
   icon: "/esoui/art/icons/ability_armor_011.dds",
-  esoSkillId: 45493,
+  esoAbilityId: 45493,
   isMorph: false,
   learnedLevel: 28,
   lineRankNeeded: 28,
@@ -21,6 +21,6 @@ export const ranger = {
   effects: "jsonl",
   hashPlace: 972,
   createdAt: "2026-05-26T02:38:38.345Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

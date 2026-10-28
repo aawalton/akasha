@@ -9,7 +9,7 @@ export const balancedBlade = {
   baseName: "Balanced Blade",
   description: "Reduces the Stamina cost of your Two-Handed abilities by 15%.",
   icon: "/esoui/art/icons/ability_dragonknight_028.dds",
-  esoSkillId: 45443,
+  esoAbilityId: 45443,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 17,
@@ -21,6 +21,6 @@ export const balancedBlade = {
   effects: "jsonl",
   hashPlace: 70,
   createdAt: "2026-05-26T02:38:38.290Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

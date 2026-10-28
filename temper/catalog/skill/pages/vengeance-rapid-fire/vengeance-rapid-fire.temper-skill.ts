@@ -10,7 +10,7 @@ export const vengeanceRapidFire = {
   description:
     "Unleash a barrage of arrows at an enemy, dealing |cffffff59622|r Physical Damage over |cffffff3|r seconds. \n\nYou can move at full speed and are immune to all disabling effects while channeling this attack.",
   icon: "/esoui/art/icons/ability_bow_006.dds",
-  esoSkillId: 241278,
+  esoAbilityId: 241278,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceRapidFire = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1529,
   createdAt: "2026-05-28T16:03:34.364Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 56250 Physical Damage (Constant)", "<<2>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

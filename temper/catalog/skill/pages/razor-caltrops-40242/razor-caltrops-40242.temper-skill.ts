@@ -10,7 +10,7 @@ export const razorCaltrops40242 = {
   description:
     "Hurl a ball of caltrops that scatter over the target area, dealing |cffffff978|r Physical Damage every |cffffff1|r second to enemies inside, and reducing their Movement Speed by |cffffff50|r%.\n\nEnemies who take damage from the caltrops have Major Breach applied to them, reducing their Physical and Spell Resistance by |cffffff5948|r for |cffffff4.1|r seconds.",
   icon: "/esoui/art/icons/ability_ava_001_b.dds",
-  esoSkillId: 40242,
+  esoAbilityId: 40242,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const razorCaltrops40242 = {
   skillType: "temper-skill-type/active",
   hashPlace: 988,
   createdAt: "2026-05-28T16:03:33.431Z",
-  updatedAt: "2026-10-21T10:58:45.771Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.01254 MaxStat + 0.131211 MaxPower (Ultimate, Dmg, Physical, AOE, DOT, 1s tick)",
     "<<2>> = 1 second (Constant)",

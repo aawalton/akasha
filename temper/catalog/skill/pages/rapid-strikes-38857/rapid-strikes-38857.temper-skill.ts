@@ -10,7 +10,7 @@ export const rapidStrikes38857 = {
   description:
     "Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff2398|r Physical Damage.\n\nEach hit increases the damage of the subsequent hit by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_dualwield_002_b.dds",
-  esoSkillId: 38857,
+  esoAbilityId: 38857,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const rapidStrikes38857 = {
   skillType: "temper-skill-type/active",
   hashPlace: 984,
   createdAt: "2026-05-28T16:03:33.424Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0297 MaxStat + 0.31184 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, 0.8s duration, 0.266s tick, R2 = 1)",
     "<<2>> = 5% (Constant)",

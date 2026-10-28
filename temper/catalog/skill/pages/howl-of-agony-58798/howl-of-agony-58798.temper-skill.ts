@@ -10,7 +10,7 @@ export const howlOfAgony58798 = {
   description:
     "Bare your fangs and gnash your teeth into an enemy while ripping back, dealing |cffffff4085|r Physical Damage on the initial lunge and |cffffff4174|r Bleed Damage while ripping out. \n\nConsumes a stack of Blood Hunger to increase the initial damage done by |cffffff25|r%. There is a |cffffff50|r% chance to retain Blood Hunger each cast.\n\nThe second hit deals up to |cffffff200|r% more damage to enemies with less than |cffffff25|r% Health and applies the Hemorrhaging status effect.",
   icon: "/esoui/art/icons/ability_werewolf_002_rend_b.dds",
-  esoSkillId: 58798,
+  esoAbilityId: 58798,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const howlOfAgony58798 = {
   skillType: "temper-skill-type/active",
   hashPlace: 640,
   createdAt: "2026-05-28T16:03:32.776Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.067145 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 8.08, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 0.0670852 MaxStat + 0.542535 MaxPower - 0.593525 (Ultimate, ratio = 8.09, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",

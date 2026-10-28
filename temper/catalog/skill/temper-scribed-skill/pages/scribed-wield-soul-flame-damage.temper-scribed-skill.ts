@@ -10,7 +10,7 @@ export const scribedWieldSoulFlameDamage = {
   description:
     "Deals 2091 Flame Damage to an enemy. Beneficial Signature and Affix scripts only apply to you.",
   icon: "/esoui/art/icons/ability_grimoire_soulmagic1.dds",
-  esoSkillId: 215731,
+  esoAbilityId: 215731,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedWieldSoulFlameDamage = {
   grimoireId: "temper-grimoire/wield-soul",
   hashPlace: 1732,
   createdAt: "2026-05-26T13:19:53.334Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

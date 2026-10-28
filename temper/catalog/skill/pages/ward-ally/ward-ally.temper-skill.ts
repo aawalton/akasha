@@ -10,7 +10,7 @@ export const wardAlly = {
   description:
     "Call on your staff's strength to protect you and the lowest health ally around you with a damage shield that absorbs 2323 damage.\n\nThe shield's strength is increased by up to 100%, depending on the severity of the target's wounds.",
   icon: "/esoui/art/icons/ability_restorationstaff_001_b.dds",
-  esoSkillId: 41302,
+  esoAbilityId: 41302,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const wardAlly = {
   skillType: "temper-skill-type/active",
   hashPlace: 1608,
   createdAt: "2026-05-26T02:38:38.367Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 100 (Constant)",

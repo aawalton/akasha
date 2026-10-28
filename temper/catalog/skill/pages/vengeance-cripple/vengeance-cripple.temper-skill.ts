@@ -10,7 +10,7 @@ export const vengeanceCripple = {
   description:
     "Sap an enemy's agility and wrack them with pain, dealing |cffffff14178|r Magic Damage over |cffffff5|r seconds and reducing their Movement Speed by |cffffff30|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_006.dds",
-  esoSkillId: 237713,
+  esoAbilityId: 237713,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceCripple = {
   skillType: "temper-skill-type/active",
   hashPlace: 1439,
   createdAt: "2026-05-28T16:03:34.235Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 14178 Magic Damage (Constant)",
     "<<2>> = 5 seconds (Constant)",

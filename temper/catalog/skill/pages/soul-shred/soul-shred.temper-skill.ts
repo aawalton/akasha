@@ -10,7 +10,7 @@ export const soulShred = {
   description:
     "Ravage nearby enemies' souls with a night rune, dealing |cffffff12802|r Magic Damage and stunning them for |cffffff4|r seconds. \n\nAn ally can target a ravaged enemy and activate the Soul Leech synergy, dealing |cffffff10851|r Magic Damage to them and healing for the damage caused.",
   icon: "/esoui/art/icons/ability_nightblade_018.dds",
-  esoSkillId: 25091,
+  esoAbilityId: 25091,
   isMorph: false,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const soulShred = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1229,
   createdAt: "2026-05-28T16:03:33.867Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.15 MaxStat + 1.575 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, 0.5s cooldown, R2 = 1)",
     "<<2>> = 4 seconds (Constant)",

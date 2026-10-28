@@ -9,7 +9,7 @@ export const runestoneExtraction = {
   baseName: "Runestone Extraction",
   description: "Increases the chance of extracting each type of Runestone by 10%.",
   icon: "/esoui/art/icons/ability_enchanter_004.dds",
-  esoSkillId: 46769,
+  esoAbilityId: 46769,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -19,5 +19,5 @@ export const runestoneExtraction = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1111,
   createdAt: "2026-05-26T02:37:19.405Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

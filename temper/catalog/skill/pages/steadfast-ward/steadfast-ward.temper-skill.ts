@@ -10,7 +10,7 @@ export const steadfastWard = {
   description:
     "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs |cffffff8237|r damage for |cffffff6|r seconds.\n\nThe shield's strength is increased by up to |cffffff100|r%, depending on the severity of the target's wounds.",
   icon: "/esoui/art/icons/ability_restorationstaff_001.dds",
-  esoSkillId: 37232,
+  esoAbilityId: 37232,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const steadfastWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1270,
   createdAt: "2026-05-28T16:03:33.943Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

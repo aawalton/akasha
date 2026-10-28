@@ -10,7 +10,7 @@ export const hemorrhage = {
   description:
     "Increases your Critical Damage by 10%. \n\nDealing Critical Damage grants you and your group Minor Savagery, increasing your Weapon Critical rating by 1314 for 20 seconds.",
   icon: "/esoui/art/icons/passive_weapon_017.dds",
-  esoSkillId: 45060,
+  esoAbilityId: 45060,
   isMorph: false,
   learnedLevel: 39,
   lineRankNeeded: 39,
@@ -22,7 +22,7 @@ export const hemorrhage = {
   effects: "jsonl",
   hashPlace: 626,
   createdAt: "2026-05-26T03:13:12.355Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10% (Constant)",
     "<<2>> = Minor Savagery (Constant)",

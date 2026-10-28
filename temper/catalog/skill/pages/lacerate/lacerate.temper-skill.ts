@@ -10,7 +10,7 @@ export const lacerate = {
   description:
     "Slash enemies in front of you, causing them to bleed for |cffffff22860|r Bleed Damage over |cffffff8|r seconds and healing you for |cffffff51|r% of the damage done.\n\nEach tick applies the Hemorrhaging status effect.",
   icon: "/esoui/art/icons/ability_dualwield_006.dds",
-  esoSkillId: 83600,
+  esoAbilityId: 83600,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 50,
@@ -20,7 +20,7 @@ export const lacerate = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 724,
   createdAt: "2026-05-28T16:03:32.920Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.059893 MaxStat + 0.630924 MaxPower - 1.52444 (Ultimate, ratio = 10.53, Dmg, Bleed, SingleTarget, DOT, 8s duration, 2s tick, R2 = 0.999999)",
     "<<2>> = 8 seconds (Constant)",

@@ -10,7 +10,7 @@ export const flurry = {
   description:
     "Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff2320|r Physical Damage.",
   icon: "/esoui/art/icons/ability_dualwield_002.dds",
-  esoSkillId: 28607,
+  esoAbilityId: 28607,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const flurry = {
   skillType: "temper-skill-type/active",
   hashPlace: 523,
   createdAt: "2026-05-28T16:03:32.504Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.02875 MaxStat + 0.301875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, 0.8s duration, 0.266s tick, R2 = 1)",
   ],

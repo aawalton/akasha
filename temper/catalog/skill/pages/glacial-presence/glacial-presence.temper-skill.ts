@@ -10,7 +10,7 @@ export const glacialPresence = {
   description:
     "Increases your chance to apply the Chilled status effect by 250% and increases its damage by 105. The damage increasing effect scales off the higher of your Weapon or Spell Damage.",
   icon: "/esoui/art/icons/passive_warden_002.dds",
-  esoSkillId: 86192,
+  esoAbilityId: 86192,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -22,7 +22,7 @@ export const glacialPresence = {
   effects: "jsonl",
   hashPlace: 567,
   createdAt: "2026-05-26T03:13:12.338Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 250% (Constant)",
     "<<2>> = + 0.1055 MaxPower (Ultimate, SingleTarget, Direct, R2 = 1)",

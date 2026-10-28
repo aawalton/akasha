@@ -10,7 +10,7 @@ export const vengeanceOverload = {
   description:
     "Charge your fists with the power of the storm and deal |cffffff12521|r Shock Damage to your enemy.\n\nThis ability does not drain all available Ultimate.",
   icon: "/esoui/art/icons/ability_sorcerer_overload.dds",
-  esoSkillId: 237998,
+  esoAbilityId: 237998,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceOverload = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1517,
   createdAt: "2026-05-28T16:03:34.347Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 11812 Shock Damage (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const dawnbreakerOfSmiting = {
   description:
     "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing 3600 Physical Damage to enemies in front of you, an additional 4314 Physical Damage over 6 seconds, and stunning them for 2 seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_005_b.dds",
-  esoSkillId: 42598,
+  esoAbilityId: 42598,
   isMorph: true,
   learnedLevel: 10,
   lineRankNeeded: 10,
@@ -20,7 +20,7 @@ export const dawnbreakerOfSmiting = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 320,
   createdAt: "2026-05-26T02:59:07.568Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.16006335 MaxStat + 1.68067034 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, AOE, Direct, Melee, 0.4s cooldown, R2 = 1)",
     "<<2>> = 0.0640613 MaxStat + 0.672577 MaxPower - 3.1811 (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, DOT, 4s duration, 2s tick, R2 = 0.999999)",

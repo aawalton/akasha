@@ -10,7 +10,7 @@ export const fatedFortune = {
   description:
     "Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by 12% for 7 seconds.",
   icon: "/esoui/art/icons/passive_arcanist_04.dds",
-  esoSkillId: 184847,
+  esoAbilityId: 184847,
   isMorph: false,
   learnedLevel: 8,
   lineRankNeeded: 8,
@@ -22,6 +22,6 @@ export const fatedFortune = {
   effects: "jsonl",
   hashPlace: 500,
   createdAt: "2026-05-26T03:13:12.320Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 12% (Constant)", "<<2>> = 7 seconds (Constant)"],
 } as const satisfies TemperSkill

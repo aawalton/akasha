@@ -8,9 +8,9 @@ export const unboundPotential = {
   key: "unbound-potential",
   description:
     "Surpass your limits in the fieldwork of battle.\n\nUpgrades rank 2 of Fated Fortune to also increase your damage done by 30%, halving against players, for the duration.",
-  esoSkillId: 263410,
+  esoAbilityId: 263410,
   class: "temper-class/arcanist",
   hashPlace: 2,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

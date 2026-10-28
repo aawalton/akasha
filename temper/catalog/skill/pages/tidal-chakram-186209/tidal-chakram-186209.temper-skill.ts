@@ -10,7 +10,7 @@ export const tidalChakram186209 = {
   description:
     "Carve the Baron of Breakers' runes to create spinning discs. Discs surround you or up to |cffffff4|r allies in front of you, granting a shield that absorbs |cffffff8084|r damage for |cffffff6|r seconds.\n\nConsume Crux to cause the shields to heal for |cffffff33|r% of the shield's remaining strength every |cffffff1|r second per Crux spent.\n\nDiscs prefer your reticle target, or low-Health targets without shields.",
   icon: "/esoui/art/icons/ability_arcanist_015_b.dds",
-  esoSkillId: 186209,
+  esoAbilityId: 186209,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const tidalChakram186209 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1346,
   createdAt: "2026-05-28T16:03:34.079Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.255659 MaxStat - 0.0002063 MaxPower + 0.28433 (Ultimate, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

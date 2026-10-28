@@ -10,7 +10,7 @@ export const extendedRitual = {
   description:
     "Exalt in the sacred light of the Aedra, cleansing up to 5 harmful effects from yourself immediately and healing you and nearby allies for 844 Health every 2 seconds for 30 seconds.\n\nAllies in the area can activate the Purify synergy, cleansing all harmful effects from themselves and healing for 1912 Health.",
   icon: "/esoui/art/icons/ability_templar_extended_ritual.dds",
-  esoSkillId: 27295,
+  esoAbilityId: 27295,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const extendedRitual = {
   skillType: "temper-skill-type/active",
   hashPlace: 491,
   createdAt: "2026-05-26T03:13:12.319Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5 (Constant)",
     "<<2>> = 0.0375577 MaxStat + 0.394411 MaxPower - 1.12337 (Ultimate, ratio = 10.50, Heal, AOE, Direct, 2s tick, R2 = 0.999999)",

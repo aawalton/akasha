@@ -10,7 +10,7 @@ export const bitingJabs = {
   description:
     "Launch a relentless assault, striking up to 6 enemies in front of you three times with your Aedric spear. The spear deals 919 Physical Damage per strike and reduces enemy Movement Speed by 40% for 0.5 seconds. Each strike has a 10% chance of applying the Sundered status effect.\n\nActivating this ability grants you Major Brutality and Major Sorcery, increasing your Weapon and Spell Damage by 20% for 10 seconds.",
   icon: "/esoui/art/icons/ability_templar_recovery.dds",
-  esoSkillId: 27197,
+  esoAbilityId: 27197,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const bitingJabs = {
   skillType: "temper-skill-type/active",
   hashPlace: 96,
   createdAt: "2026-05-26T03:13:12.184Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.040904734 MaxStat + 0.429503839 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 40% (Constant)",

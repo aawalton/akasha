@@ -10,7 +10,7 @@ export const pounce = {
   description:
     "Pounce on an enemy with primal fury, dealing |cffffff4901|r Bleed Damage and applying the Hemorrhaging status effect.\n\nWhen you are |cffffff7|r meters or closer this ability becomes Carnage, which causes you to rip into an enemy and deal |cffffff4893|r Bleed Damage over |cffffff12|r seconds, dealing up to |cffffff450|r% more damage to enemies under |cffffff100|r% Health.",
   icon: "/esoui/art/icons/u50_ability_werewolf_pounce.dds",
-  esoSkillId: 32632,
+  esoAbilityId: 32632,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const pounce = {
   skillType: "temper-skill-type/active",
   hashPlace: 907,
   createdAt: "2026-05-28T16:03:33.277Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.078 MaxStat + 0.63 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = Hemorrhaging (Constant)",

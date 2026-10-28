@@ -10,7 +10,7 @@ export const scribedMendersBondImmobilize = {
   description:
     "Removes and grants immunity to snares and immobilizations for 1 second to the ally and other allies in the link.",
   icon: "/esoui/art/icons/ability_grimoire_staffresto.dds",
-  esoSkillId: 217257,
+  esoAbilityId: 217257,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedMendersBondImmobilize = {
   grimoireId: "temper-grimoire/menders-bond",
   hashPlace: 1656,
   createdAt: "2026-05-26T13:19:53.263Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

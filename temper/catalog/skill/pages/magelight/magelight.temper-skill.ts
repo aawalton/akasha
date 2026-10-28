@@ -10,7 +10,7 @@ export const magelight = {
   description:
     "Summon a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff5|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds.\n\nWhile slotted you gain Major Savagery and Prophecy, increasing your Weapon and Spell Critical rating by |cffffff2629|r.",
   icon: "/esoui/art/icons/ability_mageguild_002.dds",
-  esoSkillId: 30920,
+  esoAbilityId: 30920,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const magelight = {
   skillType: "temper-skill-type/active",
   hashPlace: 780,
   createdAt: "2026-05-28T16:03:33.039Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
     "<<2>> = 4 seconds (Constant)",

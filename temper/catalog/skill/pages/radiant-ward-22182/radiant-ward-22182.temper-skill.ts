@@ -10,7 +10,7 @@ export const radiantWard22182 = {
   description:
     "Surround yourself with solar rays, dealing |cffffff6401|r Magic Damage to nearby enemies and applying Minor Maim to them for |cffffff10|r seconds, reducing their damage done by |cffffff5|r%.\n\nThe rays then protect you, granting a damage shield that absorbs up to |cffffff7026|r damage for |cffffff6|r seconds, increasing by |cffffff20|r% for each enemy hit, up to |cffffff120|r%. This portion of the ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_templar_radiant_ward.dds",
-  esoSkillId: 22182,
+  esoAbilityId: 22182,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const radiantWard22182 = {
   skillType: "temper-skill-type/active",
   hashPlace: 967,
   createdAt: "2026-05-28T16:03:33.392Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = Minor Maim (Constant)",

@@ -9,7 +9,7 @@ export const bondWithNature = {
   baseName: "Bond with Nature",
   description: "Anytime one of your Animal Companion skills end, you are healed for 1530 Health.",
   icon: "/esoui/art/icons/passive_warden_010.dds",
-  esoSkillId: 86065,
+  esoAbilityId: 86065,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -21,6 +21,6 @@ export const bondWithNature = {
   effects: "jsonl",
   hashPlace: 141,
   createdAt: "2026-05-26T03:13:12.193Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1530 (Constant)"],
 } as const satisfies TemperSkill

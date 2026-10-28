@@ -9,7 +9,7 @@ export const scribedTrampleDiseaseDamage = {
   baseName: "Trample",
   description: "Deals 2876 Disease Damage to all enemies.",
   icon: "/esoui/art/icons/ability_grimoire_assault.dds",
-  esoSkillId: 220541,
+  esoAbilityId: 220541,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const scribedTrampleDiseaseDamage = {
   grimoireId: "temper-grimoire/trample",
   hashPlace: 1696,
   createdAt: "2026-05-26T13:19:53.301Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

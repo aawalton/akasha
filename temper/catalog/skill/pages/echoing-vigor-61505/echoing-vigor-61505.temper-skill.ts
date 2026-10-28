@@ -10,7 +10,7 @@ export const echoingVigor61505 = {
   description:
     "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff16434|r Health over |cffffff16|r seconds.",
   icon: "/esoui/art/icons/ability_ava_echoing_vigor.dds",
-  esoSkillId: 61505,
+  esoAbilityId: 61505,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const echoingVigor61505 = {
   skillType: "temper-skill-type/active",
   hashPlace: 394,
   createdAt: "2026-05-28T16:03:32.226Z",
-  updatedAt: "2026-10-21T07:12:28.248Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.025821 MaxStat + 0.271153 MaxPower (Ultimate, Heal, AOE, DOT, 10s duration, 2s tick, ticks on application)",
     "<<2>> = 16 seconds (Constant)",

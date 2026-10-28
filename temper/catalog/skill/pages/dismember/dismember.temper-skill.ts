@@ -10,7 +10,7 @@ export const dismember = {
   description:
     "While a Grave Lord ability is active, your Spell and Physical Penetration are increased by 3271.",
   icon: "/esoui/art/icons/passive_necromancer_003.dds",
-  esoSkillId: 116194,
+  esoAbilityId: 116194,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -21,6 +21,6 @@ export const dismember = {
   status: "unsupported",
   hashPlace: 372,
   createdAt: "2026-05-26T03:13:12.283Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3271 (Constant)"],
 } as const satisfies TemperSkill

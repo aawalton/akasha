@@ -10,7 +10,7 @@ export const detonatingSiphon118763 = {
   description:
     "Violently drain the last spark of life from a corpse, dealing |cffffff21510|r Disease Damage over |cffffff20|r seconds to all enemies around the corpse and between you and the corpse. You also gain Major Savagery and Prophecy for |cffffff20|r seconds, increasing your Weapon and Spell Critical rating by |cffffff2629|r.\n\nWhen the siphon ends the corpse explodes, dealing an additional |cffffff6611|r Disease Damage to all enemies nearby.\n\nWhile slotted, your damage done is increased by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_necromancer_005_b.dds",
-  esoSkillId: 118763,
+  esoAbilityId: 118763,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const detonatingSiphon118763 = {
   skillType: "temper-skill-type/active",
   hashPlace: 363,
   createdAt: "2026-05-28T16:03:32.169Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.009182 MaxStat + 0.096413 MaxPower (Ultimate, ratio = 10.50, Dmg, Disease, AOE, DOT, 19.333s duration, 0.666s tick, R2 = 1)",
     "<<2>> = 20 seconds (Constant)",

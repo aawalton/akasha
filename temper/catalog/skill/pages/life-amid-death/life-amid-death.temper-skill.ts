@@ -10,7 +10,7 @@ export const lifeAmidDeath = {
   description:
     "Release residual fragments of fallen souls at the target location, healing you and your allies for |cffffff7305|r Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for |cffffff7300|r Health over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_016.dds",
-  esoSkillId: 115315,
+  esoAbilityId: 115315,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const lifeAmidDeath = {
   skillType: "temper-skill-type/active",
   hashPlace: 737,
   createdAt: "2026-05-28T16:03:32.961Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
     "<<2>> = 0.02 MaxStat + 0.21 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, DOT, 4s duration, 1s tick, R2 = 1)",

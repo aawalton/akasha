@@ -10,7 +10,7 @@ export const scribedShieldThrowPull = {
   description:
     "Deals 1045 Physical Damage to an enemy, pulls them to you, and taunts them for 15 seconds if they are not already taunted. This attack cannot be reflected.",
   icon: "/esoui/art/icons/ability_grimoire_1handed.dds",
-  esoSkillId: 221999,
+  esoAbilityId: 221999,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedShieldThrowPull = {
   grimoireId: "temper-grimoire/shield-throw",
   hashPlace: 1666,
   createdAt: "2026-05-26T13:19:53.273Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

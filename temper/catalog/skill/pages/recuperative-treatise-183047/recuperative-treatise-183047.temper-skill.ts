@@ -10,7 +10,7 @@ export const recuperativeTreatise183047 = {
   description:
     "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your class abilities, and striking an enemy with one deals an additional |cffffff4039|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality and Major Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%.",
   icon: "/esoui/art/icons/ability_arcanist_005_b.dds",
-  esoSkillId: 183047,
+  esoAbilityId: 183047,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const recuperativeTreatise183047 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1001,
   createdAt: "2026-05-28T16:03:33.455Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
     "<<2>> = 0.051645937 MaxStat + 0.54228234 MaxPower (Ultimate, Dmg, Magic, SingleTarget, Direct, Melee)",

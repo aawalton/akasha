@@ -10,7 +10,7 @@ export const animateBlastbones = {
   description:
     "Bring your allies back from the brink of death, resurrecting up to 3 allies at the target location.\n\nYou consume up to 3 other corpses in the area and summon a Blighted Blastbones for each corpse consumed.",
   icon: "/esoui/art/icons/ability_necromancer_018_b.dds",
-  esoSkillId: 40118379,
+  esoAbilityId: 40118379,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,5 +20,5 @@ export const animateBlastbones = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 35,
   createdAt: "2026-05-26T03:13:12.171Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

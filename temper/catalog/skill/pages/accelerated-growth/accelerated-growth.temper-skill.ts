@@ -10,7 +10,7 @@ export const acceleratedGrowth = {
   description:
     "When you heal yourself or an ally under 40% Health with a Green Balance ability you gain Major Mending, increasing your healing done by 16% for 4 seconds.",
   icon: "/esoui/art/icons/passive_warden_008.dds",
-  esoSkillId: 85883,
+  esoAbilityId: 85883,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -22,7 +22,7 @@ export const acceleratedGrowth = {
   effects: "jsonl",
   hashPlace: 10,
   createdAt: "2026-05-26T03:13:12.164Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Mending (Constant)",
     "<<2>> = 16% (Constant)",

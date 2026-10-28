@@ -10,7 +10,7 @@ export const perfectScion = {
   description:
     "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by 10000, you heal for 15% of all damage you deal, and you can see enemies through walls. \n\nYou also ascend to Vampire Stage 5, which grants all the benefits of Vampire Stage 4 with none of the drawbacks.",
   icon: "/esoui/art/icons/ability_u26_vampire_06_b.dds",
-  esoSkillId: 41937,
+  esoAbilityId: 41937,
   isMorph: true,
   learnedLevel: 5,
   lineRankNeeded: 5,
@@ -20,6 +20,6 @@ export const perfectScion = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 879,
   createdAt: "2026-05-26T03:25:55.797Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10000 (Constant)", "<<2>> = 15% (Constant)"],
 } as const satisfies TemperSkill

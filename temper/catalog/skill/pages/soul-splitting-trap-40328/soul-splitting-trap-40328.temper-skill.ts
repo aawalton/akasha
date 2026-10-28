@@ -10,7 +10,7 @@ export const soulSplittingTrap40328 = {
   description:
     "Lay claim to enemy souls, dealing |cffffff7614|r Magic Damage to your target and any other nearby enemies over |cffffff10|r seconds.\n\nFills an empty Soul Gem if an affected enemy dies.",
   icon: "/esoui/art/icons/ability_otherclass_001_a.dds",
-  esoSkillId: 40328,
+  esoAbilityId: 40328,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const soulSplittingTrap40328 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1235,
   createdAt: "2026-05-28T16:03:33.878Z",
-  updatedAt: "2026-10-28T20:36:26.912Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.01725 MaxStat + 0.18078 MaxPower - 1.45945 (Ultimate, Dmg, Magic, SingleTarget, DOT, 10s duration, 2s tick, ticks on application, single precision)",
     "<<2>> = 10 seconds (Constant)",

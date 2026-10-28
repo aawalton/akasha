@@ -10,7 +10,7 @@ export const followUp = {
   description:
     "When you complete a fully-charged Heavy Attack, your damage done with Two Handed attacks increases by 10% for 4 seconds.",
   icon: "/esoui/art/icons/passive_dragonknight_016.dds",
-  esoSkillId: 45446,
+  esoAbilityId: 45446,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 30,
@@ -22,6 +22,6 @@ export const followUp = {
   effects: "jsonl",
   hashPlace: 529,
   createdAt: "2026-05-26T02:38:38.322Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10% (Constant)", "<<2>> = 4 seconds (Constant)"],
 } as const satisfies TemperSkill

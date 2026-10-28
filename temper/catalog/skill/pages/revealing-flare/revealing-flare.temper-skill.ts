@@ -10,7 +10,7 @@ export const revealingFlare = {
   description:
     "Launch a blinding flare, revealing stealthed and invisible enemies in the target area for |cffffff5|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds.\n\nWhile slotted you gain Major Protection, reducing your damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_ava_revealing_flare.dds",
-  esoSkillId: 61489,
+  esoAbilityId: 61489,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -20,7 +20,7 @@ export const revealingFlare = {
   skillType: "temper-skill-type/active",
   hashPlace: 1063,
   createdAt: "2026-05-28T16:03:33.567Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
     "<<2>> = 4 seconds (Constant)",

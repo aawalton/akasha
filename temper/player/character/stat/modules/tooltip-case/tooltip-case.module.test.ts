@@ -117,14 +117,14 @@ test("a case's heals are worked with the Healing Done it keeps", () => {
 test("a variant takes its skill's equations unless it states its own", () => {
   const found = equationsOf([
     {
-      esoSkillId: 20816,
+      esoAbilityId: 20816,
       equations: ["<<1>> = 0.1 MaxStat (Dmg)"],
       variants: [
-        { esoSkillId: 20824, equations: ["<<1>> = 0.2 MaxStat (Dmg)"] },
-        { esoSkillId: 20825 },
+        { esoAbilityId: 20824, equations: ["<<1>> = 0.2 MaxStat (Dmg)"] },
+        { esoAbilityId: 20825 },
       ],
     },
-    { esoSkillId: 1, title: "no equations" },
+    { esoAbilityId: 1, title: "no equations" },
   ])
 
   expect([...found]).toEqual([
@@ -137,11 +137,11 @@ test("a variant takes its skill's equations unless it states its own", () => {
 test("a skill page's skill line is found by its ability id and each variant's", () => {
   const found = skillLinesOf([
     {
-      esoSkillId: 85863,
+      esoAbilityId: 85863,
       skillLineId: emeraldMoss.skillLineId,
-      variants: [{ esoSkillId: 85864 }],
+      variants: [{ esoAbilityId: 85864 }],
     },
-    { esoSkillId: 1, title: "no skill line" },
+    { esoAbilityId: 1, title: "no skill line" },
   ])
 
   expect([...found]).toEqual([

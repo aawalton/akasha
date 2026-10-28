@@ -10,7 +10,7 @@ export const superheatedWard = {
   description:
     "Roil the air around you or an ally, granting a damage shield that absorbs up to |cffffff9859|r for |cffffff6|r seconds.\n\nThis ability scales off the higher of your Max Magicka or Stamina and is capped at |cffffff50|r% of the target's Max Health.",
   icon: "/esoui/art/icons/ability_dragonknight_013.dds",
-  esoSkillId: 29032,
+  esoAbilityId: 29032,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const superheatedWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1305,
   createdAt: "2026-05-28T16:03:34.005Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.399974 MaxStat - 0.0001535 MaxPower + 0.486176 (Ultimate, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

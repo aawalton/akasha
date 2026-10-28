@@ -10,7 +10,7 @@ export const summonWingedTwilight = {
   description:
     "Call on Azura to send a winged twilight to fight at your side. The winged twilight's zap deals |cffffff1211|r Shock Damage and its kick deals |cffffff1211|r Shock Damage.\n\nOnce summoned, you can activate the winged twilight's special ability for |cffffff4728|r Magicka, causing it to heal a friendly target for |cffffff10960|r and itself for |cffffff5478|r.\n\nThe winged twilight remains until killed or unsummoned.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_prey.dds",
-  esoSkillId: 24613,
+  esoAbilityId: 24613,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const summonWingedTwilight = {
   skillType: "temper-skill-type/active",
   hashPlace: 1300,
   createdAt: "2026-05-28T16:03:33.998Z",
-  updatedAt: "2026-10-21T07:12:28.248Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0154584 MaxStat + 0.1623132 MaxPower (Ultimate, RankMod(1), Dmg, Shock, SingleTarget, Direct, Melee)",
     "<<2>> = 0.0154584 MaxStat + 0.1623132 MaxPower (Ultimate, RankMod(1), Dmg, Shock, SingleTarget, Direct, Melee)",

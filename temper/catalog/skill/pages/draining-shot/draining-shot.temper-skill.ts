@@ -10,7 +10,7 @@ export const drainingShot = {
   description:
     "Blast an enemy with an enchanted arrow, dealing 1393 Physical Damage and reducing their Movement Speed by 60% for 3 seconds.\n\nIf the enemy is hit, you heal for 2399.",
   icon: "/esoui/art/icons/ability_bow_004_a.dds",
-  esoSkillId: 40883,
+  esoAbilityId: 40883,
   isMorph: true,
   learnedLevel: 14,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const drainingShot = {
   skillType: "temper-skill-type/active",
   hashPlace: 385,
   createdAt: "2026-05-26T02:38:38.311Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 60% (Constant)",

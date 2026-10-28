@@ -10,7 +10,7 @@ export const pathOfDarkness = {
   description:
     "Create a corridor of shadows for |cffffff10|r seconds, granting you and allies in the area Major Expedition, increasing Movement Speed by |cffffff30|r%. Effect persists for |cffffff4|r seconds after leaving the path.",
   icon: "/esoui/art/icons/ability_nightblade_010.dds",
-  esoSkillId: 33195,
+  esoAbilityId: 33195,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const pathOfDarkness = {
   skillType: "temper-skill-type/active",
   hashPlace: 876,
   createdAt: "2026-05-28T16:03:33.219Z",
-  updatedAt: "2026-10-21T02:29:23.868Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10 seconds (Constant, +2 seconds with dark-veil)",
     "<<2>> = 30% (Constant)",

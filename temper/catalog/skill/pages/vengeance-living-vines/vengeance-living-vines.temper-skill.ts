@@ -10,7 +10,7 @@ export const vengeanceLivingVines = {
   description:
     "Grow vines to embrace you or an ally and heal them for |cffffff24096|r Health over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_warden_010.dds",
-  esoSkillId: 238065,
+  esoAbilityId: 238065,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceLivingVines = {
   skillType: "temper-skill-type/active",
   hashPlace: 1500,
   createdAt: "2026-05-28T16:03:34.323Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 23622 (Constant)", "<<2>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -9,7 +9,7 @@ export const tanninExpertise = {
   baseName: "Tannin Expertise",
   description: "More than doubles the chances to improve items with tannins.",
   icon: "/esoui/art/icons/ability_tradecraft_004.dds",
-  esoSkillId: 48198,
+  esoAbilityId: 48198,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -19,5 +19,5 @@ export const tanninExpertise = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1329,
   createdAt: "2026-05-26T02:37:19.410Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

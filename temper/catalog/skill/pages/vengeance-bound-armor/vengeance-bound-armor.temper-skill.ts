@@ -10,7 +10,7 @@ export const vengeanceBoundArmor = {
   description:
     "Protect yourself with the power of Oblivion, creating a suit of Daedric mail that grants Major Protection for |cffffff10|r seconds, reducing your damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_bound_armor.dds",
-  esoSkillId: 237930,
+  esoAbilityId: 237930,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceBoundArmor = {
   skillType: "temper-skill-type/active",
   hashPlace: 1430,
   createdAt: "2026-05-28T16:03:34.221Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Protection (Constant)",
     "<<2>> = 10 seconds (Constant)",

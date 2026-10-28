@@ -10,7 +10,7 @@ export const darkVeil = {
   description:
     "Increases the duration of your Shadow abilities by 2 seconds.\n\nDoes not apply to Shadow Cloak or its morphs.",
   icon: "/esoui/art/icons/ability_sorcerer_036.dds",
-  esoSkillId: 45115,
+  esoAbilityId: 45115,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const darkVeil = {
   status: "unsupported",
   hashPlace: 315,
   createdAt: "2026-05-26T03:13:12.254Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2 seconds (Constant)"],
 } as const satisfies TemperSkill

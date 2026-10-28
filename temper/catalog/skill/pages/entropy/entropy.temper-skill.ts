@@ -10,7 +10,7 @@ export const entropy = {
   description:
     "Bind an enemy with chaotic magic, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_004.dds",
-  esoSkillId: 28567,
+  esoAbilityId: 28567,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const entropy = {
   skillType: "temper-skill-type/active",
   hashPlace: 447,
   createdAt: "2026-05-28T16:03:32.372Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0182227 MaxStat + 0.19082 MaxPower - 1.34458 (Ultimate, ratio = 10.47, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999996)",
     "<<2>> = 20 seconds (Constant)",

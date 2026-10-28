@@ -10,7 +10,7 @@ export const venomSkull = {
   description:
     "Lob an explosive skull at an enemy, dealing 2160 Poison Damage.\n\nEvery third cast of this ability deals 50% increased damage and creates a corpse near the enemy, up to once every 3 seconds.\n\nWhile slotted, casting any Necromancer ability while you are in combat will count towards the third cast.",
   icon: "/esoui/art/icons/ability_necromancer_001_a.dds",
-  esoSkillId: 40117624,
+  esoAbilityId: 40117624,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const venomSkull = {
   skillType: "temper-skill-type/active",
   hashPlace: 1594,
   createdAt: "2026-05-26T03:13:12.545Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.09603801 MaxStat + 1.00840427 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Poison, SingleTarget, Direct, R2 = 1)",
   ],

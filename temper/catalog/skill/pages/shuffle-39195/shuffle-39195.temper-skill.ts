@@ -10,7 +10,7 @@ export const shuffle39195 = {
   description:
     "Shroud yourself in mist to gain Major Evasion, decreasing damage taken from area attacks by |cffffff20|r% for |cffffff20|r seconds.\n\nEach piece of Medium Armor worn removes and grants immunity to snares and immobilizations for |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_armor_002_a.dds",
-  esoSkillId: 39195,
+  esoAbilityId: 39195,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 22,
@@ -20,7 +20,7 @@ export const shuffle39195 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1182,
   createdAt: "2026-05-28T16:03:33.779Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Evasion (Constant)",
     "<<2>> = 20% (Constant)",

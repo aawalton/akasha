@@ -10,7 +10,7 @@ export const eyeOfTheStorm83642 = {
   description:
     "Create a cataclysmic storm above you that builds for |cffffff2|r seconds then lays waste to all enemies nearby, dealing |cffffff6257|r Magic Damage every |cffffff1|r second for |cffffff7|r seconds.",
   icon: "/esoui/art/icons/ability_destructionstaff_012_a.dds",
-  esoSkillId: 83642,
+  esoAbilityId: 83642,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 50,
@@ -20,7 +20,7 @@ export const eyeOfTheStorm83642 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 494,
   createdAt: "2026-05-28T16:03:32.442Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.07748 MaxStat + 0.81349 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, DOT, 1s tick, R2 = 1)",
     "<<2>> = 1 second (Constant)",

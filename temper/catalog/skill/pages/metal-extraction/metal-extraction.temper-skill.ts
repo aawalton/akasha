@@ -10,7 +10,7 @@ export const metalExtraction = {
   description:
     "Maximizes the chances of extracting Blacksmithing ingredients and allows the refining of the most powerful tempers from raw materials.",
   icon: "/esoui/art/icons/ability_smith_003.dds",
-  esoSkillId: 48165,
+  esoAbilityId: 48165,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,5 +20,5 @@ export const metalExtraction = {
   skillType: "temper-skill-type/passive",
   hashPlace: 822,
   createdAt: "2026-05-26T02:37:19.395Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

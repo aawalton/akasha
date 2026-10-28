@@ -10,7 +10,7 @@ export const cinderStorm = {
   description:
     "Summon a scorching cloud of ash at the target location for 15 seconds, reducing enemy Movement Speed by 70% and healing you and your allies for 674 every 1 second.",
   icon: "/esoui/art/icons/ability_dragonknight_016a.dds",
-  esoSkillId: 0,
+  esoAbilityId: 0,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,5 +20,5 @@ export const cinderStorm = {
   skillType: "temper-skill-type/active",
   hashPlace: 211,
   createdAt: "2026-05-26T03:13:12.220Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

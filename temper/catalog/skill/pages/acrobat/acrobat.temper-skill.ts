@@ -10,7 +10,7 @@ export const acrobat = {
   description:
     "Increases your experience gain with the Bow skill line by 15%.\n\nDecreases your fall damage taken by 10%.",
   icon: "/esoui/art/icons/passive_weapon_025.dds",
-  esoSkillId: 36008,
+  esoAbilityId: 36008,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,6 +21,6 @@ export const acrobat = {
   status: "unsupported",
   hashPlace: 16,
   createdAt: "2026-05-26T03:18:02.169Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10% (Constant)"],
 } as const satisfies TemperSkill

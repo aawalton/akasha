@@ -9,7 +9,7 @@ export const banishTheWicked = {
   baseName: "Banish the Wicked",
   description: "You generate 3 Ultimate whenever you kill an enemy.",
   icon: "/esoui/art/icons/ability_dragonknight_034.dds",
-  esoSkillId: 45599,
+  esoAbilityId: 45599,
   isMorph: false,
   learnedLevel: 10,
   lineRankNeeded: 10,
@@ -21,6 +21,6 @@ export const banishTheWicked = {
   effects: "jsonl",
   hashPlace: 76,
   createdAt: "2026-05-26T02:59:07.543Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3 (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const heavyArmorBonuses = {
   description:
     "Each piece of Heavy Armor does the following:\n\nReduces damage taken from Martial attacks by 1%\n\nIncreases the amount of damage blocked by 1%\n\nIncreases damage done with Bash by 30\n\nReduces your damage taken while immune to crowd control by 1%",
   icon: "/esoui/art/icons/passive_armor2_heavy.dds",
-  esoSkillId: 150184,
+  esoAbilityId: 150184,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,6 +22,6 @@ export const heavyArmorBonuses = {
   effects: "jsonl",
   hashPlace: 621,
   createdAt: "2026-05-26T02:59:07.589Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1% (Constant)", "<<2>> = 30 (Constant)", "<<3>> = 1% (Constant)"],
 } as const satisfies TemperSkill

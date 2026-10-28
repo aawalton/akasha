@@ -10,7 +10,7 @@ export const empoweringGrasp118352 = {
   description:
     "Summon three patches of skeletal claws from the ground in front of you. Enemies in the first area are snared by |cffffff30|r% for |cffffff5|r seconds, immobilized in the second area for |cffffff4|r seconds, and stunned in the final area for |cffffff3|r seconds.\n\nEach area applies Major Maim to enemies and Empower to your allies for |cffffff10|r seconds, reducing enemy damage done by |cffffff10|r% and allied Heavy Attack Damage against monsters by |cffffff70|r%.",
   icon: "/esoui/art/icons/ability_necromancer_009_a.dds",
-  esoSkillId: 118352,
+  esoAbilityId: 118352,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const empoweringGrasp118352 = {
   skillType: "temper-skill-type/active",
   hashPlace: 424,
   createdAt: "2026-05-28T16:03:32.306Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 30% (Constant)",
     "<<2>> = 5 seconds (Constant)",

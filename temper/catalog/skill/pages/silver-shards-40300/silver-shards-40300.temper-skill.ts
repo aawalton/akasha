@@ -10,7 +10,7 @@ export const silverShards40300 = {
   description:
     "Fire an augmented Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing |cffffff7681|r Physical Damage.\n\nFires additional bolts at other enemies near the initial target for |cffffff22|r% less damage.",
   icon: "/esoui/art/icons/ability_fightersguild_003_a.dds",
-  esoSkillId: 40300,
+  esoAbilityId: 40300,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const silverShards40300 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1190,
   createdAt: "2026-05-28T16:03:33.792Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.09297 MaxStat + 0.976185 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, R2 = 1)",
     "<<2>> = 25% (Constant)",

@@ -10,7 +10,7 @@ export const solarPrison = {
   description:
     "Call down a fragment of the sun, dealing 1199 Magic Damage every 1 second for 8 seconds to enemies in the area and afflicting them with Major Maim, reducing their damage done by 10%.\n\nAn ally near the fragment can activate the Gravity Crush synergy, dealing 5215 Magic Damage to all enemies in the area and stunning them for 5 seconds.",
   icon: "/esoui/art/icons/ability_templar_solar_prison.dds",
-  esoSkillId: 24301,
+  esoAbilityId: 24301,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const solarPrison = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1217,
   createdAt: "2026-05-26T03:13:12.503Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0533085 MaxStat + 0.56047 MaxPower - 1.35721 (Ultimate, ratio = 10.51, Dmg, Magic, AOE, DOT, 1s tick, R2 = 0.999999)",
     "<<2>> = 1 second (Constant)",

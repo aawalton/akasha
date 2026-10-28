@@ -10,7 +10,7 @@ export const stalwart = {
   description:
     "Increases your Max Stamina by 1500.\n\nWhen you take damage, you gain 5 Ultimate.  This effect can occur once every 10 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_018.dds",
-  esoSkillId: 45298,
+  esoAbilityId: 45298,
   isMorph: false,
   learnedLevel: 40,
   lineRankNeeded: 40,
@@ -22,6 +22,6 @@ export const stalwart = {
   effects: "jsonl",
   hashPlace: 1263,
   createdAt: "2026-05-26T03:18:02.209Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1500 (Constant)", "<<2>> = 5 (Constant)", "<<3>> = 10 seconds (Constant)"],
 } as const satisfies TemperSkill

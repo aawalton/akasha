@@ -10,7 +10,7 @@ export const temporalGuard103564 = {
   description:
     "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago.\n\nWhile slotted you gain Minor Protection, reducing your damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_psijic_001_b.dds",
-  esoSkillId: 103564,
+  esoAbilityId: 103564,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -20,6 +20,6 @@ export const temporalGuard103564 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1333,
   createdAt: "2026-05-28T16:03:34.057Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5% (Constant)"],
 } as const satisfies TemperSkill

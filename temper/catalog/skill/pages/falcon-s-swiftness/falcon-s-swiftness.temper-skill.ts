@@ -10,7 +10,7 @@ export const falconSSwiftness = {
   description:
     "Invoke the spirit of agility to gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%.\n\nGain immunity to snares and immobilizations for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_warden_016.dds",
-  esoSkillId: 86037,
+  esoAbilityId: 86037,
   isMorph: false,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const falconSSwiftness = {
   skillType: "temper-skill-type/active",
   hashPlace: 495,
   createdAt: "2026-05-28T16:03:32.443Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 30% (Constant)",

@@ -10,7 +10,7 @@ export const skeletalArcanist = {
   description:
     "Unearth a skeletal mage from the dirt to fight by your side for 20 seconds, while granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20%. The mage attacks the closest enemy every 2 seconds, dealing 478 Shock Damage to them and all other enemies nearby.\n\nCreates a corpse on death if you are in combat.",
   icon: "/esoui/art/icons/ability_necromancer_003_b.dds",
-  esoSkillId: 40118726,
+  esoAbilityId: 40118726,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const skeletalArcanist = {
   skillType: "temper-skill-type/active",
   hashPlace: 1198,
   createdAt: "2026-05-26T03:13:12.499Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = Major Brutality (Constant)",

@@ -10,7 +10,7 @@ export const siphoningStrikes = {
   description:
     "Channel a portion of your soul to convert Health to |cffffff2000|r Magicka and Stamina.\n\nWhile slotted on either bar, your soul yearns for the warmth of life. All damage you deal heals you for |cffffff1275|r Health, up to once every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_nightblade_003.dds",
-  esoSkillId: 33319,
+  esoAbilityId: 33319,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,6 +20,6 @@ export const siphoningStrikes = {
   skillType: "temper-skill-type/active",
   hashPlace: 1197,
   createdAt: "2026-05-28T16:03:33.803Z",
-  updatedAt: "2026-10-21T04:44:02.009Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2000 (Constant)", "<<2>> = 950 (Constant)", "<<3>> = 1 second (Constant)"],
 } as const satisfies TemperSkill

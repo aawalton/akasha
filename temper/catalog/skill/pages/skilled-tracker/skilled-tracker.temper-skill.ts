@@ -10,7 +10,7 @@ export const skilledTracker = {
   description:
     "Your Fighters Guild abilities deal an additional 10% damage. This bonus doubles against player Vampires and Werewolves.",
   icon: "/esoui/art/icons/ability_armor_007.dds",
-  esoSkillId: 40393,
+  esoAbilityId: 40393,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -22,6 +22,6 @@ export const skilledTracker = {
   effects: "jsonl",
   hashPlace: 1203,
   createdAt: "2026-05-26T02:59:07.664Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10% (Constant)"],
 } as const satisfies TemperSkill

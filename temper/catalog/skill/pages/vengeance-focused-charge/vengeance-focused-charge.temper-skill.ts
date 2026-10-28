@@ -10,7 +10,7 @@ export const vengeanceFocusedCharge = {
   description:
     "Charge with your divine lance to impale an enemy to deal |cffffff6678|r Magic Damage.",
   icon: "/esoui/art/icons/ability_templar_focused_charge.dds",
-  esoSkillId: 237883,
+  esoAbilityId: 237883,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceFocusedCharge = {
   skillType: "temper-skill-type/active",
   hashPlace: 1476,
   createdAt: "2026-05-28T16:03:34.288Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6300 Magic Damage (Constant)"],
 } as const satisfies TemperSkill

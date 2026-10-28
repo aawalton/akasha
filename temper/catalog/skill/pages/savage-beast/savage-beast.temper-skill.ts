@@ -10,7 +10,7 @@ export const savageBeast = {
   description:
     "Casting an Animal Companions ability while are in combat generates 4 Ultimate. This effect can occur once every 8 seconds.",
   icon: "/esoui/art/icons/passive_warden_009.dds",
-  esoSkillId: 86063,
+  esoAbilityId: 86063,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -22,6 +22,6 @@ export const savageBeast = {
   effects: "jsonl",
   hashPlace: 1130,
   createdAt: "2026-05-26T03:13:12.483Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 4 (Constant)", "<<2>> = 8 seconds (Constant)"],
 } as const satisfies TemperSkill

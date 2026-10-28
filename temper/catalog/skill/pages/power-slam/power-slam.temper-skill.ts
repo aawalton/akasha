@@ -10,7 +10,7 @@ export const powerSlam = {
   description:
     "Strike an enemy full-force with your shield, dealing 2399 Physical Damage.\n\nWhile slotted, blocking any attack grants you Resentment, which reduces the cost of your next Power Slam cast within 10 seconds by 50%.\n\nThis ability's damage is considered Bash damage and interrupts the enemy if they are casting.",
   icon: "/esoui/art/icons/ability_1handed_005_a.dds",
-  esoSkillId: 41459,
+  esoAbilityId: 41459,
   isMorph: true,
   learnedLevel: 38,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const powerSlam = {
   skillType: "temper-skill-type/active",
   hashPlace: 915,
   createdAt: "2026-05-26T02:38:38.339Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1067089 MaxStat + 1.12044345 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = Resentment (Constant)",

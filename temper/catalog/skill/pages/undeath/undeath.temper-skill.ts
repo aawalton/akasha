@@ -10,7 +10,7 @@ export const undeath = {
   description:
     "Reduces your damage taken by up to 15% based on your missing Health.\n\nCurrent bonus: 1%",
   icon: "/esoui/art/icons/passive_u26_vampire_03.dds",
-  esoSkillId: 33090,
+  esoAbilityId: 33090,
   isMorph: false,
   learnedLevel: 9,
   lineRankNeeded: 9,
@@ -22,7 +22,7 @@ export const undeath = {
   effects: "jsonl",
   hashPlace: 1382,
   createdAt: "2026-05-26T03:25:55.835Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15% (Constant)",
     "<<2>> = 0.0002631 Health - 3.3792 (Health, Dmg, Generic, SingleTarget, Direct, Melee, R2 = 0.5958)",

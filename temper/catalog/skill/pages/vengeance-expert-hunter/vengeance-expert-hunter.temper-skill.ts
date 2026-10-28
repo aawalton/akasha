@@ -10,7 +10,7 @@ export const vengeanceExpertHunter = {
   description:
     "Invoke your expertise in anatomy and enemy behavior to increase your stealth detection by |cffffff35|r meters for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_002.dds",
-  esoSkillId: 246091,
+  esoAbilityId: 246091,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceExpertHunter = {
   skillType: "temper-skill-type/active",
   hashPlace: 1467,
   createdAt: "2026-05-28T16:03:34.275Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 35 meters (Constant)", "<<2>> = 8 seconds (Constant)"],
 } as const satisfies TemperSkill

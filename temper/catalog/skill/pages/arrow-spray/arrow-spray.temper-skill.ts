@@ -10,7 +10,7 @@ export const arrowSpray = {
   description:
     "Fire a burst of arrows in one shot, dealing |cffffff6400|r Physical Damage to enemies in front of you.",
   icon: "/esoui/art/icons/ability_bow_005.dds",
-  esoSkillId: 31271,
+  esoAbilityId: 31271,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const arrowSpray = {
   skillType: "temper-skill-type/active",
   hashPlace: 50,
   createdAt: "2026-05-28T16:03:31.652Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.075 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, AOE, Direct, R2 = 1)",
   ],

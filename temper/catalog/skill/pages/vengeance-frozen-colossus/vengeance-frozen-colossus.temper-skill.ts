@@ -10,7 +10,7 @@ export const vengeanceFrozenColossus = {
   description:
     "Unleash a frostbitten Flesh Colossus to pulverize up to 3 enemies in the area. The Colossus smashes the ground three times over |cffffff3|r seconds, dealing |cffffff13720|r Frost Damage with each smash.",
   icon: "/esoui/art/icons/ability_necromancer_006.dds",
-  esoSkillId: 238129,
+  esoAbilityId: 238129,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceFrozenColossus = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1480,
   createdAt: "2026-05-28T16:03:34.294Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 12 (Constant)",
     "<<2>> = 3 seconds (Constant)",

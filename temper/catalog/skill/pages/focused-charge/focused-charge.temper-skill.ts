@@ -10,7 +10,7 @@ export const focusedCharge = {
   description:
     "Charge with your divine lance to impale an enemy, dealing |cffffff4846|r Magic Damage while taunting them to attack you for |cffffff15|r seconds. If the enemy hit was casting, they are interrupted, set Off Balance, and stunned for |cffffff3|r seconds.\n\nYou also gain Major Protection for |cffffff7|r seconds, reducing your damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_templar_focused_charge.dds",
-  esoSkillId: 22149,
+  esoAbilityId: 22149,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const focusedCharge = {
   skillType: "temper-skill-type/active",
   hashPlace: 528,
   createdAt: "2026-05-28T16:03:32.511Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06 MaxStat + 0.63 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 15 seconds (Constant)",

@@ -10,7 +10,7 @@ export const steelTornado38861 = {
   description:
     "Launch yourself into a lethal spin, releasing a flurry of blades around you that deals |cffffff6401|r Physical Damage to nearby enemies. Deals up to |cffffff33|r% more damage to enemies with less than |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_dualwield_005_b.dds",
-  esoSkillId: 38861,
+  esoAbilityId: 38861,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const steelTornado38861 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1272,
   createdAt: "2026-05-28T16:03:33.946Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.077476 MaxStat + 0.81349 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 33 (Constant)",

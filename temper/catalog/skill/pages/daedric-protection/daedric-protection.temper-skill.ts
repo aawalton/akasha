@@ -9,7 +9,7 @@ export const daedricProtection = {
   baseName: "Daedric Protection",
   description: "Reduce your damage taken by 5% while you have a Daedric Summoning ability active.",
   icon: "/esoui/art/icons/ability_sorcerer_022.dds",
-  esoSkillId: 45200,
+  esoAbilityId: 45200,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -21,6 +21,6 @@ export const daedricProtection = {
   effects: "jsonl",
   hashPlace: 294,
   createdAt: "2026-05-26T03:13:12.242Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5% (Constant)"],
 } as const satisfies TemperSkill

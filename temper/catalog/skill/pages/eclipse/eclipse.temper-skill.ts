@@ -10,7 +10,7 @@ export const eclipse = {
   description:
     "Envelop an enemy in a lightless sphere for |cffffff4|r seconds, that harms them with growing intensity anytime they use a direct damage attack. Limited to one.\n\nTheir first attack reduces their Movement Speed by |cffffff30|r% for |cffffff4|r seconds, their second attack immobilizes them for |cffffff3|r seconds, and their third attack stuns them for |cffffff3|r seconds. The effects can activate once every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_templar_eclipse.dds",
-  esoSkillId: 21776,
+  esoAbilityId: 21776,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const eclipse = {
   skillType: "temper-skill-type/active",
   hashPlace: 395,
   createdAt: "2026-05-28T16:03:32.228Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
     "<<2>> = 30% (Constant)",

@@ -10,7 +10,7 @@ export const bullNetch = {
   description:
     "Call a bull netch to your side, which restores 4416 Stamina to you over 25 seconds and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20%.\n\nEvery 5 seconds, the netch removes 1 negative effect from you. If no negative effects are removed you instead increase your damage done by 5% for 5 seconds",
   icon: "/esoui/art/icons/ability_warden_017_b.dds",
-  esoSkillId: 86061,
+  esoAbilityId: 86061,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const bullNetch = {
   skillType: "temper-skill-type/active",
   hashPlace: 171,
   createdAt: "2026-05-26T03:13:12.200Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4416 (Constant)",
     "<<2>> = 25 seconds (Constant)",

@@ -9,7 +9,7 @@ export const flourish = {
   baseName: "Flourish",
   description: "Increases your Magicka and Stamina recovery by 20%.",
   icon: "/esoui/art/icons/passive_warden_012.dds",
-  esoSkillId: 86067,
+  esoAbilityId: 86067,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -21,6 +21,6 @@ export const flourish = {
   effects: "jsonl",
   hashPlace: 521,
   createdAt: "2026-05-26T03:13:12.327Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 20% (Constant)"],
 } as const satisfies TemperSkill

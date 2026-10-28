@@ -10,7 +10,7 @@ export const magickaController = {
   description:
     "Increases your Max Magicka and Magicka Recovery by 2% for each Mages Guild ability slotted.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_sorcerer_044.dds",
-  esoSkillId: 45603,
+  esoAbilityId: 45603,
   isMorph: false,
   learnedLevel: 9,
   lineRankNeeded: 9,
@@ -22,7 +22,7 @@ export const magickaController = {
   effects: "jsonl",
   hashPlace: 786,
   createdAt: "2026-05-26T02:59:07.622Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2% (Constant)",
     "<<2>> = 2 MagesGuild (Mages Guild Skills Slotted, SingleTarget, Direct, R2 = 1)",

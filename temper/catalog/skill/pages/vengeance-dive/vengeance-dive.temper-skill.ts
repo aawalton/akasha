@@ -10,7 +10,7 @@ export const vengeanceDive = {
   description:
     "Command a cliff racer to dive bomb an enemy, dealing |cffffff10017|r Magic Damage. \n\nThis ability cannot be blocked.",
   icon: "/esoui/art/icons/ability_warden_013.dds",
-  esoSkillId: 238000,
+  esoAbilityId: 238000,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceDive = {
   skillType: "temper-skill-type/active",
   hashPlace: 1453,
   createdAt: "2026-05-28T16:03:34.256Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 9450 Magic Damage (Constant)"],
 } as const satisfies TemperSkill

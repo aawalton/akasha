@@ -10,7 +10,7 @@ export const spiritGuardian = {
   description:
     "Conjure a ghostly spirit to do your bidding and stay by your side for 16 seconds. The spirit heals you or the lowest Health ally around you every 2 seconds, restoring 718 Health.\n\nWhile active, 10% of the damage you take is transferred to the spirit instead.\n\nCreates a corpse on death if you are in combat.",
   icon: "/esoui/art/icons/ability_necromancer_015_a.dds",
-  esoSkillId: 40118912,
+  esoAbilityId: 40118912,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const spiritGuardian = {
   skillType: "temper-skill-type/active",
   hashPlace: 1257,
   createdAt: "2026-05-26T03:13:12.511Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 16 seconds (Constant)",
     "<<2>> = 0.03201267 MaxStat + 0.336133035 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, SingleTarget, Direct, R2 = 1)",

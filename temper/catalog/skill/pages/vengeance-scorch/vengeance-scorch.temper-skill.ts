@@ -10,7 +10,7 @@ export const vengeanceScorch = {
   description:
     "Stir a group of shalk that attack after |cffffff3|r seconds, dealing |cffffff12701|r Magic Damage to up to 3 enemies in front of you.",
   icon: "/esoui/art/icons/ability_warden_015.dds",
-  esoSkillId: 247093,
+  esoAbilityId: 247093,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceScorch = {
   skillType: "temper-skill-type/active",
   hashPlace: 1550,
   createdAt: "2026-05-28T16:03:34.394Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
     "<<2>> = 11340 Magic Damage (Constant)",

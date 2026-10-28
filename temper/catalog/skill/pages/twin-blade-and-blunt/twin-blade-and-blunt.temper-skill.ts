@@ -10,7 +10,7 @@ export const twinBladeAndBlunt = {
   description:
     "Grants a bonus based on the type of weapon equipped:\n\nEach axe increases your Critical Damage done by 6%.\n\nEach mace increases your Offensive Penetration by 1487.\n\nEach sword increases your Weapon and Spell Damage by 129.\n\nEach dagger increases your Critical Chance rating by 657.",
   icon: "/esoui/art/icons/ability_weapon_016.dds",
-  esoSkillId: 45482,
+  esoAbilityId: 45482,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -22,6 +22,6 @@ export const twinBladeAndBlunt = {
   effects: "jsonl",
   hashPlace: 1371,
   createdAt: "2026-05-26T02:38:38.364Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6% (Constant)", "<<2>> = 1487 (Constant)", "<<3>> = 129 (Constant)"],
 } as const satisfies TemperSkill

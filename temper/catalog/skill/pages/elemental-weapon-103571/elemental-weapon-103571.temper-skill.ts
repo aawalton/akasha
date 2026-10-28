@@ -10,7 +10,7 @@ export const elementalWeapon103571 = {
   description:
     "Infuse your weapon with power, causing your next Light Attack used within |cffffff2|r seconds to deal an additional |cffffff7509|r Magic Damage and apply the Burning, Concussion, or Chill elemental status effect.\n\nIf the power is not consumed in time, you restore |cffffff1668|r Magicka.",
   icon: "/esoui/art/icons/ability_psijic_003_a.dds",
-  esoSkillId: 103571,
+  esoAbilityId: 103571,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 3,
@@ -20,7 +20,7 @@ export const elementalWeapon103571 = {
   skillType: "temper-skill-type/active",
   hashPlace: 415,
   createdAt: "2026-05-28T16:03:32.270Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 0.0929455 MaxStat + 0.976197 MaxPower - 0.668374 (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",

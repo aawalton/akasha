@@ -10,7 +10,7 @@ export const evocation = {
   description:
     "Increases your Magicka Recovery by 4% for each piece of Light Armor equipped. \n\nCurrent bonus: 0%.\n\nReduces the Magicka cost of your abilities by 2% for each piece of Light Armor equipped.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_005.dds",
-  esoSkillId: 45557,
+  esoAbilityId: 45557,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -22,7 +22,7 @@ export const evocation = {
   effects: "jsonl",
   hashPlace: 466,
   createdAt: "2026-05-26T02:59:07.580Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4% (Constant)",
     "<<2>> = 4 LightArmor (Light Armor, SingleTarget, Direct, R2 = 1)",

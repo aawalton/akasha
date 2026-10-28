@@ -10,7 +10,7 @@ export const meteor = {
   description:
     "Call a comet down from the constellations to blast an enemy, dealing |cffffff14934|r Flame Damage to all enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds.\n\nAfter impact, enemies in the target area take |cffffff4036|r Flame Damage every |cffffff1|r second for |cffffff11|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_005.dds",
-  esoSkillId: 16536,
+  esoAbilityId: 16536,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -20,7 +20,7 @@ export const meteor = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 826,
   createdAt: "2026-05-28T16:03:33.124Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.175 MaxStat + 1.8375 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 2 seconds (Constant)",

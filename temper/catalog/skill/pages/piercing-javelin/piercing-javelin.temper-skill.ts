@@ -10,7 +10,7 @@ export const piercingJavelin = {
   description:
     "Hurl your spear at an enemy with godlike strength, dealing |cffffff4846|r Magic Damage and knocking them back |cffffff8|r meters.\n\nThis ability ignores the enemy's Resistances and cannot be blocked.",
   icon: "/esoui/art/icons/ability_templar_returning_spear.dds",
-  esoSkillId: 26158,
+  esoAbilityId: 26158,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const piercingJavelin = {
   skillType: "temper-skill-type/active",
   hashPlace: 896,
   createdAt: "2026-05-28T16:03:33.255Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06 MaxStat + 0.63 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 8 meters (Constant)",

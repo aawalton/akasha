@@ -10,7 +10,7 @@ export const vengeanceNova = {
   description:
     "Call down a fragment of the sun, dealing |cffffff22049|r Magic Damage to up to 3 enemies in the area and stunning them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_templar_nova.dds",
-  esoSkillId: 237942,
+  esoAbilityId: 237942,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceNova = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1513,
   createdAt: "2026-05-28T16:03:34.341Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 19687 Magic Damage (Constant)",
     "<<2>> = 6 (Constant)",

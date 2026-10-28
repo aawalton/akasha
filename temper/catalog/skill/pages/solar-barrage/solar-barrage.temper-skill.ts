@@ -10,7 +10,7 @@ export const solarBarrage = {
   description:
     "Conjure solar energy to blast enemies around you, dealing 435 Magic Damage every 2 seconds and increasing your damage done with class abilities by 5% for 20 seconds.\n\nWhile this ability is active you gain Empower, increasing the damage of your Heavy Attacks against monsters by 70%.",
   icon: "/esoui/art/icons/ability_templar_solar_power.dds",
-  esoSkillId: 24157,
+  esoAbilityId: 24157,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const solarBarrage = {
   skillType: "temper-skill-type/active",
   hashPlace: 1212,
   createdAt: "2026-05-26T03:13:12.501Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.019401806 MaxStat + 0.20371793 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, AOE, DOT, 2s tick, R2 = 1)",
     "<<2>> = 2 seconds (Constant)",

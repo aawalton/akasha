@@ -10,7 +10,7 @@ export const boltEscape = {
   description:
     "Transform yourself into pure energy and flash forward, stunning enemies near your final location for |cffffff3|r seconds. \n\nThis effect cannot be blocked.\n\nCasting again within |cffffff4|r seconds costs |cffffff33|r% more Magicka.",
   icon: "/esoui/art/icons/ability_sorcerer_bolt_escape.dds",
-  esoSkillId: 23234,
+  esoAbilityId: 23234,
   isMorph: false,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const boltEscape = {
   skillType: "temper-skill-type/active",
   hashPlace: 138,
   createdAt: "2026-05-28T16:03:31.816Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1 second (Constant)",
     "<<2>> = 4 seconds (Constant)",

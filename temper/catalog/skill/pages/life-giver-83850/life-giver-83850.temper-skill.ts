@@ -10,7 +10,7 @@ export const lifeGiver83850 = {
   description:
     "Release the rejuvenating energies of your staff to swirl around you, healing you or an ally for |cffffff9434|r Health every |cffffff1|r second for |cffffff5|r seconds.\n\nWhen you activate this ability you automatically cast Regeneration, Blessing of Protection, and Steadfast Ward at no cost.  These will update based on which morph of each ability you have taken.",
   icon: "/esoui/art/icons/ability_restorationstaff_006_a.dds",
-  esoSkillId: 83850,
+  esoAbilityId: 83850,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 50,
@@ -20,7 +20,7 @@ export const lifeGiver83850 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 739,
   createdAt: "2026-05-28T16:03:32.966Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.12913 MaxStat + 1.35581 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 1 second (Constant)",

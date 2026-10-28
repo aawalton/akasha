@@ -10,7 +10,7 @@ export const vengeanceLifeAmidDeath = {
   description:
     "Release residual fragments of fallen souls at the target location, healing you or up to 3 allies in the area for |cffffff10710|r Health.",
   icon: "/esoui/art/icons/ability_necromancer_016.dds",
-  esoSkillId: 238258,
+  esoAbilityId: 238258,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceLifeAmidDeath = {
   skillType: "temper-skill-type/active",
   hashPlace: 1497,
   createdAt: "2026-05-28T16:03:34.319Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6 (Constant)", "<<2>> = 10500 (Constant)"],
 } as const satisfies TemperSkill

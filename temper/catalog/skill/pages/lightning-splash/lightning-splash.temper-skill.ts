@@ -10,7 +10,7 @@ export const lightningSplash = {
   description:
     "Create a nexus of storm energy at the target location, dealing |cffffff1076|r Shock Damage to enemies in the area every |cffffff1|r second for |cffffff10|r seconds.\n \nYou or an ally standing within the nexus can activate the Conduit synergy, dealing |cffffff9914|r Shock Damage to enemies around them.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_splash.dds",
-  esoSkillId: 23182,
+  esoAbilityId: 23182,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const lightningSplash = {
   skillType: "temper-skill-type/active",
   hashPlace: 752,
   createdAt: "2026-05-28T16:03:32.989Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0133146 MaxStat + 0.139861 MaxPower - 0.479552 (Ultimate, ratio = 10.50, Dmg, Shock, AOE, DOT, 1s tick, R2 = 0.999982)",
     "<<2>> = 1 second (Constant)",

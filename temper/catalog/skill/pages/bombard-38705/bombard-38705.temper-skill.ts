@@ -10,7 +10,7 @@ export const bombard38705 = {
   description:
     "Fire a burst of arrows in one shot, dealing |cffffff6401|r Physical Damage to enemies in front of you. \n\nEnemies hit are immobilized for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_bow_005_a.dds",
-  esoSkillId: 38705,
+  esoAbilityId: 38705,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const bombard38705 = {
   skillType: "temper-skill-type/active",
   hashPlace: 140,
   createdAt: "2026-05-28T16:03:31.819Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.077476 MaxStat + 0.81349 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, R2 = 1)",
     "<<2>> = 4 seconds (Constant)",

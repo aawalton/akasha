@@ -10,7 +10,7 @@ export const deepFissure86015 = {
   description:
     "Stir a group of shalk that attack after |cffffff3|r seconds, dealing |cffffff9521|r Magic Damage to enemies in front of you.\n\nAfter the shalk complete their attack, they burrow underground for |cffffff6|r seconds and then resurface again, dealing |cffffff13224|r Magic Damage to enemies in front of you.\n\nEnemies damaged are afflicted with Major and Minor Breach, reducing their Physical and Spell Resistance by |cffffff5948|r and |cffffff2974|r for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_warden_015_a.dds",
-  esoSkillId: 86015,
+  esoAbilityId: 86015,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const deepFissure86015 = {
   skillType: "temper-skill-type/active",
   hashPlace: 340,
   createdAt: "2026-05-28T16:03:32.135Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
     "<<2>> = 0.111564 MaxStat + 1.17142 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, R2 = 1)",

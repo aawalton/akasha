@@ -10,7 +10,7 @@ export const veilOfBlades36485 = {
   description:
     "Conjure a ring of shadow, reducing the Movement Speed of enemies by |cffffff70|r%, dealing |cffffff5004|r Magic Damage to them every |cffffff1|r second, and granting you and your allies Major Protection, reducing your damage taken by |cffffff10|r%. \n\nAllies in the area can activate the Hidden Refresh synergy, granting them invisibility, increasing their Movement Speed by |cffffff70|r%, and healing them for |cffffff28640|r Health over |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_015_b.dds",
-  esoSkillId: 36485,
+  esoAbilityId: 36485,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const veilOfBlades36485 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1404,
   createdAt: "2026-05-28T16:03:34.183Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 70% (Constant)",
     "<<2>> = 0.0620437 MaxStat + 0.650882 MaxPower - 2.37419 (Ultimate, ratio = 10.49, Dmg, Magic, AOE, DOT, 1s tick, R2 = 1)",

@@ -10,7 +10,7 @@ export const channeledAcceleration103706 = {
   description:
     "Bend time and space around you to gain Major Expedition for |cffffff12|r seconds and Minor Force for |cffffff1|r minute, increasing your Movement Speed by |cffffff30|r% and Critical Damage by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_psijic_005_a.dds",
-  esoSkillId: 103706,
+  esoAbilityId: 103706,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 5,
@@ -20,7 +20,7 @@ export const channeledAcceleration103706 = {
   skillType: "temper-skill-type/active",
   hashPlace: 203,
   createdAt: "2026-05-28T16:03:31.925Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 12 seconds (Constant)",
     "<<2>> = 1 minute (Constant)",

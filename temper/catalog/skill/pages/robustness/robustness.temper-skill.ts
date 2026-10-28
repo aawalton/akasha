@@ -9,7 +9,7 @@ export const robustness = {
   baseName: "Robustness",
   description: "Increases your Health, Magicka, and Stamina Recovery by 90.",
   icon: "/esoui/art/icons/ability_sorcerer_018.dds",
-  esoSkillId: 70390,
+  esoAbilityId: 70390,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -21,6 +21,6 @@ export const robustness = {
   effects: "jsonl",
   hashPlace: 1083,
   createdAt: "2026-05-26T03:18:02.203Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 90 (Constant)"],
 } as const satisfies TemperSkill

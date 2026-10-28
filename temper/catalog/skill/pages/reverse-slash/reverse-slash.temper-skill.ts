@@ -10,7 +10,7 @@ export const reverseSlash = {
   description:
     "Shift your grip and strike an enemy down, dealing |cffffff4036|r Physical Damage. Deals up to |cffffff300|r% more damage to enemies with less than |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_2handed_004.dds",
-  esoSkillId: 28302,
+  esoAbilityId: 28302,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const reverseSlash = {
   skillType: "temper-skill-type/active",
   hashPlace: 1067,
   createdAt: "2026-05-28T16:03:33.574Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05 MaxStat + 0.525 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 300 (Constant)",

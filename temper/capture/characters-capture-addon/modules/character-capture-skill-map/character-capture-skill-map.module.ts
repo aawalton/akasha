@@ -4,7 +4,7 @@ export const characterCaptureSkillMap = {
   id: "01a0616b-8ea3-7699-aef6-4c54ee5ce7ec",
   type: "page-type/module",
   slug: "character-capture-skill-map",
-  definition: "each skill's game id against its place in a build hash",
+  definition: "each skill's ability id against its place in a build hash",
   code: "ts",
   test: "ts",
   decisions: [
@@ -14,7 +14,7 @@ export const characterCaptureSkillMap = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A place written here decodes to a skill with the same game id.",
+      statement: "A place written here decodes to a skill with the same ability id.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,5 +26,5 @@ export const characterCaptureSkillMap = {
     },
   ],
   createdAt: "2026-09-02T09:20:33.955Z",
-  updatedAt: "2026-10-20T01:59:27.731Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies Module

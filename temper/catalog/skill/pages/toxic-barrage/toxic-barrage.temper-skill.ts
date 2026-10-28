@@ -10,7 +10,7 @@ export const toxicBarrage = {
   description:
     "Unleash a barrage of arrows at an enemy, dealing 17415 Poison Damage over 4 seconds. \n\nAfter dealing damage you poison the enemy, dealing an additional 9990 Poison Damage over 8 seconds after a 1 second delay.  \n\nYou can move at full speed and are immune to all disabling effects while channeling this attack.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_bow_006_b.dds",
-  esoSkillId: 86603,
+  esoAbilityId: 86603,
   isMorph: true,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -20,7 +20,7 @@ export const toxicBarrage = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1356,
   createdAt: "2026-05-26T02:38:38.362Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0860249 MaxStat + 0.904228 MaxPower - 1.89049 (Ultimate, ratio = 10.51, Dmg, Poison, SingleTarget, Direct, 3.625s duration, 0.453s tick, R2 = 1)",
     "<<2>> = 4 seconds (Constant)",

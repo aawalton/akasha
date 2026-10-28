@@ -10,7 +10,7 @@ export const vengeanceFrozenGate = {
   description:
     "Summon an ancient portal, that after |cffffff2|r seconds teleports an enemy in the area to you and immobilizes them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_warden_005.dds",
-  esoSkillId: 238091,
+  esoAbilityId: 238091,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceFrozenGate = {
   skillType: "temper-skill-type/active",
   hashPlace: 1481,
   createdAt: "2026-05-28T16:03:34.295Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2 seconds (Constant)", "<<2>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

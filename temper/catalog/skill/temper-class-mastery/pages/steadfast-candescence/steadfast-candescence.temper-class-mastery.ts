@@ -8,9 +8,9 @@ export const steadfastCandescence = {
   key: "steadfast-candescence",
   description:
     "Your conviction is unwavering. Light gives no quarter.\n\nSacred Ground now activates and refreshes itself while Bracing. Increases the amount of damage you can block by 20% while stationary.",
-  esoSkillId: 263589,
+  esoAbilityId: 263589,
   class: "temper-class/templar",
   hashPlace: 29,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

@@ -10,7 +10,7 @@ export const fortress = {
   description:
     "Reduces the Stamina cost of your One Hand and Shield abilities by 15% and reduces the cost of blocking by 36%.",
   icon: "/esoui/art/icons/ability_weapon_028.dds",
-  esoSkillId: 45471,
+  esoAbilityId: 45471,
   isMorph: false,
   learnedLevel: 34,
   lineRankNeeded: 34,
@@ -22,6 +22,6 @@ export const fortress = {
   effects: "jsonl",
   hashPlace: 536,
   createdAt: "2026-05-26T02:38:38.325Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

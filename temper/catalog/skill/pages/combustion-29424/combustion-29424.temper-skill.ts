@@ -10,7 +10,7 @@ export const combustion29424 = {
   description:
     "To you, flame is fuel. \n\nWhen you apply Burning, you restore |cffffff112|r Magicka and Stamina. This effect can occur once every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_sorcerer_011.dds",
-  esoSkillId: 29424,
+  esoAbilityId: 29424,
   isMorph: false,
   learnedLevel: 8,
   lineRankNeeded: 8,
@@ -20,6 +20,6 @@ export const combustion29424 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 232,
   createdAt: "2026-05-28T16:03:31.978Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 112 (Constant)", "<<2>> = 1 second (Constant)"],
 } as const satisfies TemperSkill

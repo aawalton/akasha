@@ -10,7 +10,7 @@ export const auroraJavelin = {
   description:
     "Hurl your spear at an enemy with godlike strength, dealing 1438 Magic Damage and knocking them back 8 meters.\n\nThis ability ignores the enemy's Resistances and cannot be blocked.\n\nThe spear deals an additional 2% damage for every 1 meter you are away from the target, up to a maximum of 40%.",
   icon: "/esoui/art/icons/ability_templar_ripping_spear.dds",
-  esoSkillId: 26983,
+  esoAbilityId: 26983,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const auroraJavelin = {
   skillType: "temper-skill-type/active",
   hashPlace: 62,
   createdAt: "2026-05-26T03:13:12.175Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06402534 MaxStat + 0.67226607 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 8 meters (Constant)",

@@ -10,7 +10,7 @@ export const vengeanceWingBuffet = {
   description:
     "Flex your scales, reducing your damage taken from projectiles by |cffffff50|r% for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_008.dds",
-  esoSkillId: 237639,
+  esoAbilityId: 237639,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceWingBuffet = {
   skillType: "temper-skill-type/active",
   hashPlace: 1590,
   createdAt: "2026-05-28T16:03:34.452Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 50% (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -9,7 +9,7 @@ export const scribedShieldThrowKnockback = {
   baseName: "Shield Throw",
   description: "Deals 1045 Physical Damage to an enemy and knocks them back 8 meters.",
   icon: "/esoui/art/icons/ability_grimoire_1handed.dds",
-  esoSkillId: 217061,
+  esoAbilityId: 217061,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const scribedShieldThrowKnockback = {
   grimoireId: "temper-grimoire/shield-throw",
   hashPlace: 1662,
   createdAt: "2026-05-26T13:19:53.269Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

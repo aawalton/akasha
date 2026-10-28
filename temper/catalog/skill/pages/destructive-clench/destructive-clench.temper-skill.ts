@@ -10,7 +10,7 @@ export const destructiveClench = {
   description:
     "Devastate an enemy with an enhanced charge from your staff, dealing 1161 Magic Damage.\n\nThe initial hit always applies the element's status effect.\n\nFlame Clench also knocks the enemy back.\n\nFrost Clench deals less damage, has increased range, applies Major Maim, immobilizes, and taunts the enemy.\n\nShock Clench converts the attack into an area of effect explosion.",
   icon: "/esoui/art/icons/ability_destructionstaff_005_a.dds",
-  esoSkillId: 41006,
+  esoAbilityId: 41006,
   isMorph: true,
   learnedLevel: 14,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const destructiveClench = {
   skillType: "temper-skill-type/active",
   hashPlace: 357,
   createdAt: "2026-05-26T02:38:38.308Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
   ],

@@ -10,7 +10,7 @@ export const vengeanceMagmaArmor = {
   description:
     "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_018.dds",
-  esoSkillId: 237790,
+  esoAbilityId: 237790,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceMagmaArmor = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1506,
   createdAt: "2026-05-28T16:03:34.331Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3 (Constant)", "<<2>> = 15 seconds (Constant)"],
 } as const satisfies TemperSkill

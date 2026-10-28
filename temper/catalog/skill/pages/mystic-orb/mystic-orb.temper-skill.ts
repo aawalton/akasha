@@ -10,7 +10,7 @@ export const mysticOrb = {
   description:
     "Project a globe of annihilation that slowly floats forward, dealing 326 Magic Damage every 1 second to nearby enemies. \n\nWhile the orb is active you gain 100 Health, Magicka, and Stamina Recovery.\n\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for 2249 Magic Damage to nearby enemies and restore 3960 Magicka or Stamina to the ally, whichever maximum is higher.",
   icon: "/esoui/art/icons/ability_undaunted_004_a.dds",
-  esoSkillId: 43415,
+  esoAbilityId: 43415,
   isMorph: true,
   learnedLevel: 5,
   lineRankNeeded: 5,
@@ -20,7 +20,7 @@ export const mysticOrb = {
   skillType: "temper-skill-type/active",
   hashPlace: 843,
   createdAt: "2026-05-26T02:59:07.632Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0145359 MaxStat + 0.152773 MaxPower - 1.34653 (Ultimate, ratio = 10.51, Dmg, Magic, AOE, DOT, 1s tick, R2 = 0.999982)",
     "<<2>> = 1 second (Constant)",

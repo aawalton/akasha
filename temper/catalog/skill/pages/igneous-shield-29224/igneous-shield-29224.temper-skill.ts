@@ -10,7 +10,7 @@ export const igneousShield29224 = {
   description:
     "Call the earth to your defense, granting a damage shield for nearby allies that absorbs |cffffff1873|r damage. Your own damage shield absorbs |cffffff5419|r damage. This portion of the ability scales off your Max Health.\n\nYou also gain Major Mending, increasing your healing done by |cffffff16|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_017b.dds",
-  esoSkillId: 29224,
+  esoAbilityId: 29224,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const igneousShield29224 = {
   skillType: "temper-skill-type/active",
   hashPlace: 656,
   createdAt: "2026-05-28T16:03:32.809Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.08264 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 0.231392 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",

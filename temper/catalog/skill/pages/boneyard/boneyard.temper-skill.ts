@@ -10,7 +10,7 @@ export const boneyard = {
   description:
     "Desecrate the ground at the target location, dealing |cffffff10747|r Frost Damage over |cffffff10|r seconds to enemies inside and applying Minor Vulnerability, increasing their damage taken by |cffffff5|r%.\n\nConsumes a corpse on cast to deal |cffffff30|r% more damage.\n\nAn ally in the area can activate the Grave Robber synergy, dealing |cffffff8261|r Frost Damage to nearby enemies and healing for the damage done.",
   icon: "/esoui/art/icons/ability_necromancer_004.dds",
-  esoSkillId: 115252,
+  esoAbilityId: 115252,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const boneyard = {
   skillType: "temper-skill-type/active",
   hashPlace: 149,
   createdAt: "2026-05-28T16:03:31.830Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.012121 MaxStat + 0.127273 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Frost, AOE, DOT, 10s duration, 1s tick, R2 = 1)",
     "<<2>> = 10 seconds (Constant)",

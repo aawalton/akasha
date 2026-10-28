@@ -10,7 +10,7 @@ export const consumingTrap40317 = {
   description:
     "Lay claim to an enemy's soul, dealing |cffffff15235|r Magic Damage over |cffffff20|r seconds.\n\nIf an affected enemy dies, you fill an empty Soul Gem, heal for |cffffff4022|r Health, and restore |cffffff2832|r Magicka and |cffffff5527|r Stamina. This portion of the ability scales off your Max Health, Magicka, and Stamina.",
   icon: "/esoui/art/icons/ability_otherclass_001_b.dds",
-  esoSkillId: 40317,
+  esoAbilityId: 40317,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const consumingTrap40317 = {
   skillType: "temper-skill-type/active",
   hashPlace: 245,
   createdAt: "2026-05-28T16:03:31.996Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.00779125 Magicka + 0.24511 SD + 62.2075 (Magicka, ratio = 31.46, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.942425)",
     "<<2>> = 20 seconds (Constant)",

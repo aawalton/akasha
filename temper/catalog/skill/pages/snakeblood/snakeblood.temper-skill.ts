@@ -9,7 +9,7 @@ export const snakeblood = {
   baseName: "Snakeblood",
   description: "Reduces duration of negative effects in potions by 100% when consumed.",
   icon: "/esoui/art/icons/ability_alchemy_005.dds",
-  esoSkillId: 47834,
+  esoAbilityId: 47834,
   isMorph: false,
   learnedLevel: 43,
   lineRankNeeded: 43,
@@ -19,5 +19,5 @@ export const snakeblood = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1209,
   createdAt: "2026-05-26T02:37:19.406Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

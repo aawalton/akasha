@@ -9,7 +9,7 @@ export const resistAffliction = {
   baseName: "Resist Affliction",
   description: "Increases your Max Stamina by 2000 and your Disease and Poison Resistance by 2310.",
   icon: "/esoui/art/icons/passive_templar_021.dds",
-  esoSkillId: 45319,
+  esoAbilityId: 45319,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const resistAffliction = {
   effects: "jsonl",
   hashPlace: 1034,
   createdAt: "2026-05-26T03:18:02.197Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2000 (Constant)", "<<2>> = 2310 (Constant)"],
 } as const satisfies TemperSkill

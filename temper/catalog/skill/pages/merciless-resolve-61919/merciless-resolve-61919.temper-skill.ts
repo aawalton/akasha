@@ -10,7 +10,7 @@ export const mercilessResolve61919 = {
   description:
     "When slotted on either bar, you gain Major Prophecy and Major Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.\n\nYour Light and Heavy Attacks now generate a stack of Merciless Resolve, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff5|r or more stacks, you can consume |cffffff5|r to fire a spectral arrow to deal |cffffff16520|r Magic Damage and heal for |cffffff51|r% of the damage dealt, if you are in melee range.",
   icon: "/esoui/art/icons/ability_nightblade_005_b.dds",
-  esoSkillId: 61919,
+  esoAbilityId: 61919,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const mercilessResolve61919 = {
   skillType: "temper-skill-type/active",
   hashPlace: 820,
   createdAt: "2026-05-28T16:03:33.112Z",
-  updatedAt: "2026-10-21T10:37:34.926Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Savagery (Constant)",
     "<<2>> = 12% (Constant)",

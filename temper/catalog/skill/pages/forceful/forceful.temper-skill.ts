@@ -10,7 +10,7 @@ export const forceful = {
   description:
     "Your Light and Heavy Attacks damage up to 3 other nearby enemies for 100% of the damage inflicted to the primary target.",
   icon: "/esoui/art/icons/ability_weapon_027.dds",
-  esoSkillId: 45444,
+  esoAbilityId: 45444,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 5,
@@ -22,6 +22,6 @@ export const forceful = {
   effects: "jsonl",
   hashPlace: 535,
   createdAt: "2026-05-26T02:38:38.324Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 100 (Constant)"],
 } as const satisfies TemperSkill

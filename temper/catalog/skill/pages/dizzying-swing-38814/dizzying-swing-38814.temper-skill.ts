@@ -10,7 +10,7 @@ export const dizzyingSwing38814 = {
   description:
     "Slam an enemy with an upward swing, dealing |cffffff9595|r Physical Damage and setting them Off Balance for |cffffff7|r seconds.  \n\nHitting an enemy that is already Off Balance stuns them for |cffffff2|r seconds.\n\nTargets that are immune to Off Balance are snared by |cffffff40|r% for |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_2handed_001_a.dds",
-  esoSkillId: 38814,
+  esoAbilityId: 38814,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const dizzyingSwing38814 = {
   skillType: "temper-skill-type/active",
   hashPlace: 376,
   createdAt: "2026-05-28T16:03:32.191Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.118795 MaxStat + 1.24735 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, 0.5s cooldown, R2 = 1)",
     "<<2>> = 7 seconds (Constant)",

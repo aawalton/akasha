@@ -10,7 +10,7 @@ export const surge = {
   description:
     "Invoke Meridia's name to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff33|r seconds.\n\nWhile active, dealing Critical Damage heals you for |cffffff2601|r Health. This effect can occur once every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_sorcerer_surge.dds",
-  esoSkillId: 23670,
+  esoAbilityId: 23670,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const surge = {
   skillType: "temper-skill-type/active",
   hashPlace: 1308,
   createdAt: "2026-05-28T16:03:34.010Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20% (Constant)",
     "<<2>> = 30 seconds (Constant)",

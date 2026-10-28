@@ -9,7 +9,7 @@ export const powerStone = {
   baseName: "Power Stone",
   description: "Reduces the cost of your Ultimate abilities by 15%.",
   icon: "/esoui/art/icons/ability_sorcerer_057.dds",
-  esoSkillId: 45196,
+  esoAbilityId: 45196,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -21,6 +21,6 @@ export const powerStone = {
   effects: "jsonl",
   hashPlace: 917,
   createdAt: "2026-05-26T03:13:12.427Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

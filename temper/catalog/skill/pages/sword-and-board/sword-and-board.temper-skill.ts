@@ -10,7 +10,7 @@ export const swordAndBoard = {
   description:
     "Increases your Weapon and Spell Damage by 5% and the amount of damage you can block by 20%.",
   icon: "/esoui/art/icons/ability_armor_014.dds",
-  esoSkillId: 45452,
+  esoAbilityId: 45452,
   isMorph: false,
   learnedLevel: 25,
   lineRankNeeded: 25,
@@ -22,6 +22,6 @@ export const swordAndBoard = {
   effects: "jsonl",
   hashPlace: 1318,
   createdAt: "2026-05-26T02:38:38.360Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5 (Constant)", "<<2>> = 20% (Constant)"],
 } as const satisfies TemperSkill

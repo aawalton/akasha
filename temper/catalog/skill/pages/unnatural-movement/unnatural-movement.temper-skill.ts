@@ -10,7 +10,7 @@ export const unnaturalMovement = {
   description:
     "Reduces the cost of Sprint by 50%.\n\nIf you continuously Sprint for 3 seconds you automatically become invisible.",
   icon: "/esoui/art/icons/passive_u26_vampire_04.dds",
-  esoSkillId: 135218,
+  esoAbilityId: 135218,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -21,6 +21,6 @@ export const unnaturalMovement = {
   effects: "jsonl",
   hashPlace: 1388,
   createdAt: "2026-05-26T03:25:55.836Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 50% (Constant)"],
 } as const satisfies TemperSkill

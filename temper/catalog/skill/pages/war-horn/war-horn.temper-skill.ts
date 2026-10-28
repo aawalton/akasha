@@ -10,7 +10,7 @@ export const warHorn = {
   description:
     "Sound a war horn to rally your forces, increasing you and your group's Max Magicka and Max Stamina by |cffffff10|r% for |cffffff30|r seconds.",
   icon: "/esoui/art/icons/ability_ava_003.dds",
-  esoSkillId: 38563,
+  esoAbilityId: 38563,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,6 +20,6 @@ export const warHorn = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1607,
   createdAt: "2026-05-28T16:03:34.483Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10% (Constant)", "<<2>> = 27 seconds (Constant)"],
 } as const satisfies TemperSkill

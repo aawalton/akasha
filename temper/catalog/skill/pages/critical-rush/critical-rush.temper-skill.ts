@@ -10,7 +10,7 @@ export const criticalRush = {
   description:
     "Launch across the earth and smash an enemy, dealing 1393 Physical Damage. Deals up to 50% more damage based on the distance traveled.\n\nThis attack is always a Critical Strike.",
   icon: "/esoui/art/icons/ability_2handed_003_b.dds",
-  esoSkillId: 39822,
+  esoAbilityId: 39822,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const criticalRush = {
   skillType: "temper-skill-type/active",
   hashPlace: 263,
   createdAt: "2026-05-26T02:38:38.301Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 50% (Constant)",

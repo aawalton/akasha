@@ -28,7 +28,7 @@ const SNIPE: Value = {
   baseName: "Snipe",
   description: '"Deal damage.\\nFar away."',
   icon: "/snipe.dds",
-  esoSkillId: 28882,
+  esoAbilityId: 28882,
   isMorph: false,
   morphIndex: 0,
   lineRankNeeded: 1,

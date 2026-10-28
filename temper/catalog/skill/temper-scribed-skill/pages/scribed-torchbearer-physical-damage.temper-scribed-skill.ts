@@ -10,7 +10,7 @@ export const scribedTorchbearerPhysicalDamage = {
   description:
     "Deals 1335 Physical Damage to enemies with each sweep. Beneficial Signature and Affix scripts only apply to you.",
   icon: "/esoui/art/icons/ability_grimoire_fightersguild.dds",
-  esoSkillId: 217630,
+  esoAbilityId: 217630,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedTorchbearerPhysicalDamage = {
   grimoireId: "temper-grimoire/torchbearer",
   hashPlace: 1694,
   createdAt: "2026-05-26T13:19:53.299Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

@@ -10,7 +10,7 @@ export const fragmentedShield32673 = {
   description:
     "Call the earth to your defense, creating a damage shield for you and nearby allies that absorbs |cffffff6112|r damage. This portion of the ability scales off the higher of your Max Magicka or Stamina and is capped at |cffffff31|r% of the target's Max Health.\n\nYou also gain Major Mending, increasing your healing done by |cffffff16|r% for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_017a.dds",
-  esoSkillId: 32673,
+  esoAbilityId: 32673,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const fragmentedShield32673 = {
   skillType: "temper-skill-type/active",
   hashPlace: 541,
   createdAt: "2026-05-28T16:03:32.548Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.193687 MaxStat (Ultimate, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 16% (Constant)",

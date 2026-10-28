@@ -10,7 +10,7 @@ export const gibberingShield = {
   description:
     "Gather the true strength of Apocrypha around you, forming protective tentacles and a damage shield that absorbs |cffffff60|r% of all damage for |cffffff10|r seconds, up to a max of |cffffff44973|r damage, scaling off your Max Health.\n\nWhen the shield collapses you lash out, dealing all of the damage absorbed as Magic Damage to enemies within 5 meters over |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_012.dds",
-  esoSkillId: 183676,
+  esoAbilityId: 183676,
   isMorph: false,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const gibberingShield = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 562,
   createdAt: "2026-05-28T16:03:32.605Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 60% (Constant)",
     "<<2>> = 10 seconds (Constant)",

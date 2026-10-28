@@ -9,7 +9,7 @@ export const vengeanceLavaWhip = {
   baseName: "Vengeance Lava Whip",
   description: "Lash an enemy with flame, dealing |cffffff11130|r Flame Damage.",
   icon: "/esoui/art/icons/ability_dragonknight_001.dds",
-  esoSkillId: 237606,
+  esoAbilityId: 237606,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -19,6 +19,6 @@ export const vengeanceLavaWhip = {
   skillType: "temper-skill-type/active",
   hashPlace: 1496,
   createdAt: "2026-05-28T16:03:34.317Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10500 Flame Damage (Constant)"],
 } as const satisfies TemperSkill

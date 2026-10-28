@@ -9,7 +9,7 @@ export const chef = {
   baseName: "Chef",
   description: "Creates 3 extra servings for each food recipe made.",
   icon: "/esoui/art/icons/ability_provisioner_002.dds",
-  esoSkillId: 44619,
+  esoAbilityId: 44619,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -19,5 +19,5 @@ export const chef = {
   skillType: "temper-skill-type/passive",
   hashPlace: 208,
   createdAt: "2026-05-26T02:37:19.374Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

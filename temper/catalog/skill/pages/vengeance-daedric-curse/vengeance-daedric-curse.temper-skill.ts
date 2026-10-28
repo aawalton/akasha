@@ -10,7 +10,7 @@ export const vengeanceDaedricCurse = {
   description:
     "Curse an enemy with a destructive rune, dealing |cffffff16027|r Magic Damage to the target after |cffffff6|r seconds.\n\nThis ability cannot be dodged.",
   icon: "/esoui/art/icons/ability_sorcerer_daedric_curse.dds",
-  esoSkillId: 237876,
+  esoAbilityId: 237876,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceDaedricCurse = {
   skillType: "temper-skill-type/active",
   hashPlace: 1443,
   createdAt: "2026-05-28T16:03:34.240Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15120 Magic Damage (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

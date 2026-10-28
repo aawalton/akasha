@@ -10,7 +10,7 @@ export const vengeanceUnstableFamiliar = {
   description:
     "Command the powers of Oblivion to send a Daedric familiar to fight. After a delay, the familiar attacks and deals |cffffff18020|r Shock Damage over |cffffff6|r seconds to up to 3 nearby enemies.",
   icon: "/esoui/art/icons/ability_sorcerer_unstable_fimiliar.dds",
-  esoSkillId: 237865,
+  esoAbilityId: 237865,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceUnstableFamiliar = {
   skillType: "temper-skill-type/active",
   hashPlace: 1579,
   createdAt: "2026-05-28T16:03:34.436Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 17000 Shock Damage (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

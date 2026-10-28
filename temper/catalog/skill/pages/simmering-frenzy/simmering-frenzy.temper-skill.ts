@@ -10,7 +10,7 @@ export const simmeringFrenzy = {
   description:
     "Allow your monstrous appetites to take hold, increasing your Weapon and Spell Damage by 80 every 2 seconds, up to 5 times.\n\nWhile toggled on, the Health cost of this ability increases by 360 per stack and you cannot be healed by anyone but yourself, your pets, or your Companions.",
   icon: "/esoui/art/icons/ability_u26_vampire_02_a.dds",
-  esoSkillId: 40134160,
+  esoAbilityId: 40134160,
   isMorph: true,
   learnedLevel: 2,
   lineRankNeeded: 2,
@@ -20,6 +20,6 @@ export const simmeringFrenzy = {
   skillType: "temper-skill-type/active",
   hashPlace: 1191,
   createdAt: "2026-05-26T03:25:55.818Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 80 (Constant)", "<<2>> = 2 seconds (Constant)", "<<3>> = 360 (Constant)"],
 } as const satisfies TemperSkill

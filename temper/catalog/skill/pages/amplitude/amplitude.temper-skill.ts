@@ -10,7 +10,7 @@ export const amplitude = {
   description:
     "Increases your damage done against enemies by 1% for every 10% current Health they have.",
   icon: "/esoui/art/icons/ability_sorcerer_049.dds",
-  esoSkillId: 45192,
+  esoAbilityId: 45192,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -21,5 +21,5 @@ export const amplitude = {
   status: "unsupported",
   hashPlace: 31,
   createdAt: "2026-05-26T03:13:12.171Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

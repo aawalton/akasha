@@ -10,7 +10,7 @@ export const domination = {
   description:
     "Increases your Health, Magicka, and Stamina Recovery while in your campaign, depending on how many Home Keeps you own.\n\n1 or less Keep: 50%\n2 Keeps: 60%\n3 Keeps: 70%\n4 Keeps: 80%\n5 Keeps: 90%\n6 Keeps: 100%",
   icon: "/esoui/art/icons/ability_sorcerer_038.dds",
-  esoSkillId: 39644,
+  esoAbilityId: 39644,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const domination = {
   effects: "jsonl",
   hashPlace: 377,
   createdAt: "2026-05-26T03:25:55.753Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

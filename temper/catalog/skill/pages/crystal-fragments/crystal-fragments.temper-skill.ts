@@ -10,7 +10,7 @@ export const crystalFragments = {
   description:
     "Conjure dark crystals to bombard an enemy, dealing 2483 Magic Damage. Your next non-Ultimate ability cast within 3 seconds costs 10% less.\n\nWhile slotted on either bar, casting a non-Ultimate ability has a 33% chance of causing your next Crystal Fragments to be instant cast at half cost, dealing 4123 Magic Damage.",
   icon: "/esoui/art/icons/ability_sorcerer_thunderstomp.dds",
-  esoSkillId: 47569,
+  esoAbilityId: 47569,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const crystalFragments = {
   skillType: "temper-skill-type/active",
   hashPlace: 273,
   createdAt: "2026-05-26T03:13:12.233Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.110443195 MaxStat + 1.15965613 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, SingleTarget, Direct, 0.8s cooldown, R2 = 1)",
     "<<2>> = 3 seconds (Constant)",

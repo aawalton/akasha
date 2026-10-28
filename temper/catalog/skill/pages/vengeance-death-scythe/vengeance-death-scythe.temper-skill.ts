@@ -10,7 +10,7 @@ export const vengeanceDeathScythe = {
   description:
     "Slice into your enemy's life force, dealing |cffffff2351|r Magic Damage and healing for |cffffff3016|r Health.",
   icon: "/esoui/art/icons/ability_necromancer_007.dds",
-  esoSkillId: 238137,
+  esoAbilityId: 238137,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceDeathScythe = {
   skillType: "temper-skill-type/active",
   hashPlace: 1448,
   createdAt: "2026-05-28T16:03:34.248Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.11251 Health (Health, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.15 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",

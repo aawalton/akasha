@@ -10,7 +10,7 @@ export const shadowSilk = {
   description:
     "Hurl webs to ensnare your foes, reducing the Movement Speed of enemies in the area by 50% and dealing 1799 Physical Damage. After 10 seconds the webs explode, dealing 2399 Poison Damage to enemies within.\n\nA ranged ally can activate the Black Widow synergy on an affected enemy, dealing 2249 Poison Damage to them and summoning a spider to attack for 10 seconds. The spider bites enemies for 673 Physical Damage and can poison them for 4488 Poison Damage over 10 seconds.",
   icon: "/esoui/art/icons/ability_undaunted_003_a.dds",
-  esoSkillId: 43489,
+  esoAbilityId: 43489,
   isMorph: true,
   learnedLevel: 2,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const shadowSilk = {
   skillType: "temper-skill-type/active",
   hashPlace: 1154,
   createdAt: "2026-05-26T02:59:07.659Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 50% (Constant)",
     "<<2>> = 0.0800509 MaxStat + 0.840607 MaxPower - 2.57197 (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, R2 = 0.999999)",

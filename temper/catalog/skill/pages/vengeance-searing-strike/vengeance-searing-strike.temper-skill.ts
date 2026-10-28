@@ -10,7 +10,7 @@ export const vengeanceSearingStrike = {
   description:
     "Slash an enemy with flame, dealing |cffffff5565|r Flame Damage and an additional |cffffff10500|r Flame Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_003.dds",
-  esoSkillId: 237607,
+  esoAbilityId: 237607,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceSearingStrike = {
   skillType: "temper-skill-type/active",
   hashPlace: 1551,
   createdAt: "2026-05-28T16:03:34.396Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5250 Flame Damage (Constant)",
     "<<2>> = 10500 Flame Damage (Constant)",

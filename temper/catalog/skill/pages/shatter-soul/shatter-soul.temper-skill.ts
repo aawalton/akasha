@@ -10,7 +10,7 @@ export const shatterSoul = {
   description:
     "Burn an enemy from the inside with soulfire, dealing 14814 Magic Damage over 5 seconds.  Upon completion, the soulfire overflows and explodes from the enemy, dealing 2399 Magic Damage to all enemies near them.\n\nWhile channeling this ability, you gain immunity to all disabling effects.\n\nEnemies affected by this ability are revealed for 3 seconds and may not enter stealth or invisibility.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_otherclass_002_a.dds",
-  esoSkillId: 43109,
+  esoAbilityId: 43109,
   isMorph: true,
   learnedLevel: 6,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const shatterSoul = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1159,
   createdAt: "2026-05-26T03:25:55.815Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.109756 MaxStat + 1.15244 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, DOT, 5s duration, 1s tick, R2 = 1)",
     "<<2>> = 5 seconds (Constant)",

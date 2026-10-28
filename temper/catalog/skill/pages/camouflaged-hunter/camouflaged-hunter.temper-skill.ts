@@ -10,7 +10,7 @@ export const camouflagedHunter = {
   description:
     "Invoke your expertise in anatomy and enemy behavior to detect stealthed and invisible enemies around you for 5 seconds. Exposed enemies cannot return to stealth or invisibility for 4 seconds.\n\nWhile slotted you gain Major Savagery and Prophecy, increasing your Weapon and Spell Critical rating by 2629. You also gain Minor Berserk for 5 seconds after dealing Critical Damage from an enemy's flank.",
   icon: "/esoui/art/icons/ability_fightersguild_002_b.dds",
-  esoSkillId: 42641,
+  esoAbilityId: 42641,
   isMorph: true,
   learnedLevel: 6,
   lineRankNeeded: 6,
@@ -21,7 +21,7 @@ export const camouflagedHunter = {
   effects: "jsonl",
   hashPlace: 181,
   createdAt: "2026-05-26T02:59:07.552Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
     "<<2>> = Major Savagery (Constant)",

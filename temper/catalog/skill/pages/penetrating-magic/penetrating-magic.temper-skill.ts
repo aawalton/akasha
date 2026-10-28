@@ -9,7 +9,7 @@ export const penetratingMagic = {
   baseName: "Penetrating Magic",
   description: "Your Destruction Staff abilities ignore 2974 of the enemy's Spell Resistance.",
   icon: "/esoui/art/icons/ability_weapon_008.dds",
-  esoSkillId: 45509,
+  esoAbilityId: 45509,
   isMorph: false,
   learnedLevel: 17,
   lineRankNeeded: 17,
@@ -21,6 +21,6 @@ export const penetratingMagic = {
   effects: "jsonl",
   hashPlace: 877,
   createdAt: "2026-05-26T02:38:38.337Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2974 (Constant)"],
 } as const satisfies TemperSkill

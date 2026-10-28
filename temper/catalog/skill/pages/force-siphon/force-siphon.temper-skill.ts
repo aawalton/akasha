@@ -10,7 +10,7 @@ export const forceSiphon = {
   description:
     "Focus your staff's power to apply Minor Lifesteal to an enemy for |cffffff24|r seconds, healing you and your allies for |cffffff612|r Health every |cffffff1|r second when damaging them.",
   icon: "/esoui/art/icons/ability_restorationstaff_005.dds",
-  esoSkillId: 31531,
+  esoAbilityId: 31531,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const forceSiphon = {
   skillType: "temper-skill-type/active",
   hashPlace: 534,
   createdAt: "2026-05-28T16:03:32.524Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Lifesteal (Constant)",
     "<<2>> = 18 seconds (Constant)",

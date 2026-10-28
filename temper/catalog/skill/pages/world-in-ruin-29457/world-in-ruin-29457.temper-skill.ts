@@ -10,7 +10,7 @@ export const worldInRuin29457 = {
   description:
     "Dragons leave naught but ash and ruin in their wake.\n\nIncreases your damage done with area and over time attacks by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_010.dds",
-  esoSkillId: 29457,
+  esoAbilityId: 29457,
   isMorph: false,
   learnedLevel: 14,
   lineRankNeeded: 14,
@@ -20,6 +20,6 @@ export const worldInRuin29457 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1627,
   createdAt: "2026-05-28T16:03:34.528Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3% (Constant)"],
 } as const satisfies TemperSkill

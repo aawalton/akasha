@@ -10,7 +10,7 @@ export const vengeanceRuneblades = {
   description:
     "Craft an Apocryphal rune before launching it at a foe, dealing |cffffff10017|r Magic Damage and generating Crux.",
   icon: "/esoui/art/icons/ability_arcanist_001.dds",
-  esoSkillId: 238169,
+  esoAbilityId: 238169,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceRuneblades = {
   skillType: "temper-skill-type/active",
   hashPlace: 1542,
   createdAt: "2026-05-28T16:03:34.383Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 9450 Magic Damage (Constant)"],
 } as const satisfies TemperSkill

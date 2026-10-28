@@ -10,7 +10,7 @@ export const vengeanceTheUnblinkingEye = {
   description:
     "Tear open the fabric of the Aurbis to summon a scion of Hermaeus Mora to attack your target. This being casts forth a beam that rends asunder reality after |cffffff0.6|r seconds, dealing |cffffff31500|r Magic Damage to the enemy over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_006.dds",
-  esoSkillId: 238228,
+  esoAbilityId: 238228,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceTheUnblinkingEye = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1576,
   createdAt: "2026-05-28T16:03:34.432Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.6 seconds (Constant)",
     "<<2>> = 31500 Magic Damage (Constant)",

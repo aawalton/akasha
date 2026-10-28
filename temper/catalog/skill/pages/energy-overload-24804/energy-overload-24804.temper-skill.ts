@@ -10,7 +10,7 @@ export const energyOverload24804 = {
   description:
     "Charge your fists with the power of the storm, replacing your Light and Heavy Attacks with new, stronger abilities.\n\nLight Attacks become lightning bolts, dealing |cffffff8342|r Shock Damage to an enemy up to |cffffff28|r meters away.\n\nHeavy Attacks blast enemies in a |cffffff4 x 6|r area for |cffffff7934|r Shock Damage.\n\nThe attacks restore |cffffff1200|r Magicka and Stamina, and deplete Ultimate until you run out, or the ability is toggled off.",
   icon: "/esoui/art/icons/ability_sorcerer_energy_overload.dds",
-  esoSkillId: 24804,
+  esoAbilityId: 24804,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const energyOverload24804 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 444,
   createdAt: "2026-05-28T16:03:32.366Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 28 (Constant)",

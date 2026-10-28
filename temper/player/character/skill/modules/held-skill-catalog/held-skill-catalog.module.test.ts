@@ -22,7 +22,7 @@ test("the class mastery pages read as a table in hash place order, apart from th
   expect(read.classMasteries.ids[0]).toBe("abyssal-emergence")
   expect(read.classMasteries.data["above-and-beyond"]).toMatchObject({
     classId: "nightblade",
-    esoSkillId: 263605,
+    esoAbilityId: 263605,
     effects: [
       { metricId: "critical-damage", effectType: "fractional-change", effectValue: 0.25 },
       { metricId: "healing-critical-bonus", effectType: "fractional-change", effectValue: 0.25 },

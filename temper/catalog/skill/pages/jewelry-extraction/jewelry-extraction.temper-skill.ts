@@ -10,7 +10,7 @@ export const jewelryExtraction = {
   description:
     "Maximizes the chances of extracting Jewelry Crafting ingredients and allows the refining of more powerful Platings from raw materials.",
   icon: "/esoui/art/icons/passive_jewelryextraction.dds",
-  esoSkillId: 103645,
+  esoAbilityId: 103645,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,5 +20,5 @@ export const jewelryExtraction = {
   skillType: "temper-skill-type/passive",
   hashPlace: 702,
   createdAt: "2026-05-26T02:37:19.384Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

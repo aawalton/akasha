@@ -10,7 +10,7 @@ export const magnumShot38672 = {
   description:
     "Blast an enemy with an explosive arrow, dealing |cffffff6007|r Physical Damage and knocking them back |cffffff8|r meters.",
   icon: "/esoui/art/icons/ability_bow_004_b.dds",
-  esoSkillId: 38672,
+  esoAbilityId: 38672,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const magnumShot38672 = {
   skillType: "temper-skill-type/active",
   hashPlace: 797,
   createdAt: "2026-05-28T16:03:33.071Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.074376 MaxStat + 0.780948 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 8 meters (Constant)",

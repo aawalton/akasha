@@ -10,7 +10,7 @@ export const vengeanceCrystallizedShield = {
   description:
     "Spin a shield of ice around you, absorbing up to |cffffff36225|r damage from projectiles for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_warden_002.dds",
-  esoSkillId: 238089,
+  esoAbilityId: 238089,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceCrystallizedShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 1442,
   createdAt: "2026-05-28T16:03:34.239Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 31500 (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

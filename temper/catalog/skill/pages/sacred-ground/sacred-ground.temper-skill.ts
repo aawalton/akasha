@@ -10,7 +10,7 @@ export const sacredGround = {
   description:
     "While standing in your own Cleansing Ritual, Rune Focus, or Rite of Passage area effects and for up to 4 seconds after leaving them you gain Minor Mending, increasing your healing done by 8%.\n\nAlso increases the amount of damage you can block by 10% for the duration.",
   icon: "/esoui/art/icons/ability_templar_014.dds",
-  esoSkillId: 45207,
+  esoAbilityId: 45207,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -21,6 +21,6 @@ export const sacredGround = {
   status: "unsupported",
   hashPlace: 1119,
   createdAt: "2026-05-26T03:13:12.480Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 8% (Constant)", "<<2>> = 10% (Constant)"],
 } as const satisfies TemperSkill

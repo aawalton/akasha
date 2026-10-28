@@ -10,7 +10,7 @@ export const sunFire = {
   description:
     "Blast an enemy with a charge of radiant heat, dealing |cffffff4036|r Flame Damage, and an additional |cffffff11420|r Flame Damage over |cffffff20|r seconds.\n\nUpon activation you gain Major Savagery and Major Prophecy for |cffffff20|r seconds, increasing your Weapon and Spell Critical rating by |cffffff2629|r.",
   icon: "/esoui/art/icons/ability_templar_sun_fire.dds",
-  esoSkillId: 21726,
+  esoAbilityId: 21726,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const sunFire = {
   skillType: "temper-skill-type/active",
   hashPlace: 1303,
   createdAt: "2026-05-28T16:03:34.002Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05 MaxStat + 0.525 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.0150563 MaxStat + 0.157611 MaxPower - 2.12747 (Ultimate, ratio = 10.47, Dmg, Flame, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999993)",

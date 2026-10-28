@@ -10,7 +10,7 @@ export const vengeanceVolley = {
   description:
     "Launch a multitude of arrows into the sky to rain down, dealing |cffffff11760|r Physical Damage to up to 3 enemies in the target area after a |cffffff2|r second delay.",
   icon: "/esoui/art/icons/ability_bow_003.dds",
-  esoSkillId: 241258,
+  esoAbilityId: 241258,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceVolley = {
   skillType: "temper-skill-type/active",
   hashPlace: 1585,
   createdAt: "2026-05-28T16:03:34.445Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10500 Physical Damage (Constant)", "<<2>> = 12 (Constant)"],
 } as const satisfies TemperSkill

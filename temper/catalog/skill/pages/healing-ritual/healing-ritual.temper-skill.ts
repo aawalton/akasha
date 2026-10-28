@@ -10,7 +10,7 @@ export const healingRitual = {
   description:
     "Focus your spiritual devotion, healing you and nearby allies for |cffffff8220|r Health.",
   icon: "/esoui/art/icons/ability_templar_healing_ritual.dds",
-  esoSkillId: 22304,
+  esoAbilityId: 22304,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const healingRitual = {
   skillType: "temper-skill-type/active",
   hashPlace: 603,
   createdAt: "2026-05-28T16:03:32.705Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1125 MaxStat + 1.18125 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
   ],

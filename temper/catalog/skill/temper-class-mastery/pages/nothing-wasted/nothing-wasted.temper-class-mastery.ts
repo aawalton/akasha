@@ -8,9 +8,9 @@ export const nothingWasted = {
   key: "nothing-wasted",
   description:
     "As an abattoir of death, no remnants of life are wasted.\n\nUpgrades rank 2 of Corpse Consumption to also grant a stack of Nothing Wasted for 12 seconds, which increases your Max Health by 2% and Weapon and Spell Damage by 2% per stack, up to 10 times. Stacks decay two at a time instead of all at once.",
-  esoSkillId: 263448,
+  esoAbilityId: 263448,
   class: "temper-class/necromancer",
   hashPlace: 10,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

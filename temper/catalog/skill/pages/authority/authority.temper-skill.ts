@@ -10,7 +10,7 @@ export const authority = {
   description:
     "Increases your Ultimate generation while in your campaign, depending on how many Home Keeps you own.\n\n1 or less Keep: 50%\n2 Keeps: 60%\n3 Keeps: 70%\n4 Keeps: 80%\n5 Keeps: 90%\n6 Keeps: 100%",
   icon: "/esoui/art/icons/ability_sorcerer_056.dds",
-  esoSkillId: 39630,
+  esoAbilityId: 39630,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const authority = {
   effects: "jsonl",
   hashPlace: 64,
   createdAt: "2026-05-26T03:25:55.721Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

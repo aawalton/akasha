@@ -10,7 +10,7 @@ export const renewingAnimation = {
   description:
     "Bring your allies back from the brink of death, resurrecting up to 3 allies at the target location.\n\nYou restore 5300 Magicka and Stamina for each ally you successfully resurrect.",
   icon: "/esoui/art/icons/ability_necromancer_018_a.dds",
-  esoSkillId: 40118367,
+  esoAbilityId: 40118367,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,6 +20,6 @@ export const renewingAnimation = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1025,
   createdAt: "2026-05-26T03:13:12.458Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5300 (Constant)"],
 } as const satisfies TemperSkill

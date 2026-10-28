@@ -10,7 +10,7 @@ export const scribedSmashPoisonDamage = {
   description:
     "Deals 2004 Poison Damage to enemies. Beneficial Signature and Affix scripts only apply to you.",
   icon: "/esoui/art/icons/ability_grimoire_2handed.dds",
-  esoSkillId: 217178,
+  esoAbilityId: 217178,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedSmashPoisonDamage = {
   grimoireId: "temper-grimoire/smash",
   hashPlace: 1674,
   createdAt: "2026-05-26T13:19:53.280Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

@@ -10,7 +10,7 @@ export const timeStop = {
   description:
     "Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area during the channel before finally stunning them in place for |cffffff3|r seconds when the channel completes.",
   icon: "/esoui/art/icons/ability_psijic_002.dds",
-  esoSkillId: 103488,
+  esoAbilityId: 103488,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,6 +20,6 @@ export const timeStop = {
   skillType: "temper-skill-type/active",
   hashPlace: 1349,
   createdAt: "2026-05-28T16:03:34.083Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const innerBeast = {
   description:
     "Ignite the fires of hate in an enemy's heart, dealing 2160 Physical Damage, taunting them to attack you, and applying Minor Maim and Minor Vulnerability for 15 seconds, reducing their damage done and increasing their damage taken by 5%.\n\nAn ally targeting the enemy can activate the Radiate synergy, dealing 1344 Flame Damage to them over 3 seconds then an additional 2249 Flame Damage to them and other nearby enemies.",
   icon: "/esoui/art/icons/ability_undaunted_002_a.dds",
-  esoSkillId: 43393,
+  esoAbilityId: 43393,
   isMorph: true,
   learnedLevel: 3,
   lineRankNeeded: 3,
@@ -20,7 +20,7 @@ export const innerBeast = {
   skillType: "temper-skill-type/active",
   hashPlace: 684,
   createdAt: "2026-05-26T02:59:07.596Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.09603801 MaxStat + 1.008399105 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, R2 = 1)",
     "<<2>> = Minor Maim (Constant)",

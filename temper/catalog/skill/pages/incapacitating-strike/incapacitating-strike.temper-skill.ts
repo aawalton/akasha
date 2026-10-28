@@ -10,7 +10,7 @@ export const incapacitatingStrike = {
   description:
     "Ravage an enemy with a swift strike, dealing 3840 Disease Damage and causing them to take 20% more damage from your attacks for 8 seconds.\n\nIf cast with 120 or more Ultimate, you instead deal 4223 Disease Damage, stun the enemy for 3 seconds, and increase the duration of the damage taken effect to 12 seconds.",
   icon: "/esoui/art/icons/ability_nightblade_007_a.dds",
-  esoSkillId: 37532,
+  esoAbilityId: 37532,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const incapacitatingStrike = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 677,
   createdAt: "2026-05-26T03:13:12.370Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.17073424 MaxStat + 1.79270952 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Disease, SingleTarget, Direct, Melee, 0.4s cooldown, R2 = 1)",
     "<<2>> = 20% (Constant)",

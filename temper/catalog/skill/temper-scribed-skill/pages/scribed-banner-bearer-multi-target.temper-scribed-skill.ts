@@ -9,7 +9,7 @@ export const scribedBannerBearerMultiTarget = {
   baseName: "Banner Bearer",
   description: "Increases damage done with area of effect attacks by 6%.",
   icon: "/esoui/art/icons/ability_grimoire_support.dds",
-  esoSkillId: 217699,
+  esoAbilityId: 217699,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const scribedBannerBearerMultiTarget = {
   grimoireId: "temper-grimoire/banner-bearer",
   hashPlace: 1640,
   createdAt: "2026-05-26T13:19:53.243Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

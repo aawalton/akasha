@@ -10,7 +10,7 @@ export const cascadingFortune186193 = {
   description:
     "Channel the abyssal sea to coalesce a beam that heals you and your allies in its path for |cffffff36764|r Health over |cffffff4.5|r seconds.\n\nThe beam heals for up to |cffffff50|r% more in proportion to the severity of the target's wounds as you reweave fate itself.\n\nConsume Crux to also restore |cffffff728|r Magicka and Stamina per Crux spent to your allies over |cffffff4.5|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_014_a.dds",
-  esoSkillId: 186193,
+  esoAbilityId: 186193,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const cascadingFortune186193 = {
   skillType: "temper-skill-type/active",
   hashPlace: 190,
   createdAt: "2026-05-28T16:03:31.901Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.038737 MaxStat + 0.406744 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, DOT, 4s duration, 0.333s tick, R2 = 1)",
     "<<2>> = 4.5 seconds (Constant)",

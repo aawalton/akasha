@@ -10,7 +10,7 @@ export const resolve = {
   description:
     "Increases your Physical and Spell Resistance by 343 for each piece of Heavy Armor equipped.\n\nCurrent bonus: 0.",
   icon: "/esoui/art/icons/ability_dragonknight_020.dds",
-  esoSkillId: 45533,
+  esoAbilityId: 45533,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -22,7 +22,7 @@ export const resolve = {
   effects: "jsonl",
   hashPlace: 1042,
   createdAt: "2026-05-26T02:59:07.650Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 343 (Constant)",
     "<<2>> = 343 HeavyArmor (Heavy Armor, SingleTarget, Direct, R2 = 1)",

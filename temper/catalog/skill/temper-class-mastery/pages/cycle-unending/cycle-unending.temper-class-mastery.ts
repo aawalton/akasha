@@ -8,9 +8,9 @@ export const cycleUnending = {
   key: "cycle-unending",
   description:
     "The cycle of life and death continues: you will live, others will die.\n\nUpgrades rank 2 of Reusable Parts to grant Cycle Unending for 25 seconds, increasing the potency of your damage done by 1% for every 1% Health you have more than your target. The damage bonus caps at 25%, or 10% against players.",
-  esoSkillId: 263509,
+  esoAbilityId: 263509,
   class: "temper-class/necromancer",
   hashPlace: 12,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

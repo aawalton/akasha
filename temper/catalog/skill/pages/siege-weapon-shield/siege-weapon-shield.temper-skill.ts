@@ -10,7 +10,7 @@ export const siegeWeaponShield = {
   description:
     "Create a protective sphere over your location that reduces damage taken from siege weapons by 50% for you and nearby allies.\n\nThe sphere also protects you and your allies' siege weapons, reducing damage from enemy siege weapons by 75%.",
   icon: "/esoui/art/icons/ability_ava_004_b.dds",
-  esoSkillId: 46661,
+  esoAbilityId: 46661,
   isMorph: true,
   learnedLevel: 2,
   lineRankNeeded: 2,
@@ -20,6 +20,6 @@ export const siegeWeaponShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 1184,
   createdAt: "2026-05-26T03:25:55.817Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 50% (Constant)", "<<2>> = 75% (Constant)"],
 } as const satisfies TemperSkill

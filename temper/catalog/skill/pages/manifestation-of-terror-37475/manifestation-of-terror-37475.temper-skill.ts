@@ -10,7 +10,7 @@ export const manifestationOfTerror37475 = {
   description:
     "Conceal a sinister trap at the target location, which takes |cffffff2|r seconds to arm and lasts for |cffffff20|r seconds.\n\nWhen the trap is triggered, up to |cffffff6|r enemies in the area become terrified, causing them to cower in fear for |cffffff2|r seconds and be afflicted with Major Cowardice for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r.",
   icon: "/esoui/art/icons/ability_nightblade_016_b.dds",
-  esoSkillId: 37475,
+  esoAbilityId: 37475,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const manifestationOfTerror37475 = {
   skillType: "temper-skill-type/active",
   hashPlace: 800,
   createdAt: "2026-05-28T16:03:33.075Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = 2 seconds (Constant)",

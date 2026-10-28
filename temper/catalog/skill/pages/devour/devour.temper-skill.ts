@@ -10,7 +10,7 @@ export const devour = {
   description:
     "Hunger gnaws at you. Like Storihbeg, shape it into a brutal weapon.\n\nGain the ability to devour corpses, for up to |cffffff4|r seconds per corpse. Each second devouring you heal for |cffffff3664|r Health, based off your Max Health, and restore |cffffff15|r Ultimate.\n\nIf you are a Werewolf Berserker, each tick activates Fury generation.",
   icon: "/esoui/art/icons/ability_werewolf_007.dds",
-  esoSkillId: 32634,
+  esoAbilityId: 32634,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const devour = {
   skillType: "temper-skill-type/passive",
   hashPlace: 364,
   createdAt: "2026-05-26T03:25:55.750Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
     "<<2>> = 0.2 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",

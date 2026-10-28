@@ -10,7 +10,7 @@ export const chainsOfDominance = {
   description:
     "Lash out with a chain bound in Draconic runes, pulling an enemy to you. The enchanted metal deals 5240 Flame Damage, applies the Burning status effect, and taunts them for 15 seconds if they are not already taunted. If the target cannot be pulled, you restore the ability's Magicka cost.\n\nThis attack cannot be dodged or reflected.\n\nAlso inflicts Major Cowardice on the enemy, reducing Weapon and Spell Damage by 430 for 15 seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_005_a.dds",
-  esoSkillId: 20496,
+  esoAbilityId: 20496,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const chainsOfDominance = {
   skillType: "temper-skill-type/active",
   hashPlace: 197,
   createdAt: "2026-05-26T03:13:12.215Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, SingleTarget, Direct, R2 = 1)",
     "<<2>> = Burning (Constant)",

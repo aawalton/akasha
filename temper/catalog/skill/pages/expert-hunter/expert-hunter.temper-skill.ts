@@ -10,7 +10,7 @@ export const expertHunter = {
   description:
     "Invoke your expertise in anatomy and enemy behavior to detect stealthed and invisible enemies around you for |cffffff5|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds.\n\nWhile slotted you gain Major Savagery and Prophecy, increasing your Weapon and Spell Critical rating by |cffffff2629|r.",
   icon: "/esoui/art/icons/ability_fightersguild_002.dds",
-  esoSkillId: 35762,
+  esoAbilityId: 35762,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const expertHunter = {
   skillType: "temper-skill-type/active",
   hashPlace: 479,
   createdAt: "2026-05-28T16:03:32.420Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 35 meters (Constant)",
     "<<2>> = 5 seconds (Constant)",

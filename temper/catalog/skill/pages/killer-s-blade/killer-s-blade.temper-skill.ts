@@ -10,7 +10,7 @@ export const killerSBlade = {
   description:
     "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff4038|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff7547|r if the enemy dies within |cffffff2|r seconds of being struck.",
   icon: "/esoui/art/icons/ability_nightblade_017_a.dds",
-  esoSkillId: 34843,
+  esoAbilityId: 34843,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const killerSBlade = {
   skillType: "temper-skill-type/active",
   hashPlace: 721,
   createdAt: "2026-05-28T16:03:32.915Z",
-  updatedAt: "2026-10-21T12:50:53.751Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05165 MaxStat + 0.5423 MaxPower (Ultimate, Dmg, Disease, SingleTarget, Direct, Melee, single precision)",
     "<<2>> = 400 (Constant)",

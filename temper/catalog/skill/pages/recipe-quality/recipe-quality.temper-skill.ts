@@ -9,7 +9,7 @@ export const recipeQuality = {
   baseName: "Recipe Quality",
   description: "Allows the use of Legendary (gold) Recipes.",
   icon: "/esoui/art/icons/ability_provisioner_006.dds",
-  esoSkillId: 69953,
+  esoAbilityId: 69953,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -19,5 +19,5 @@ export const recipeQuality = {
   skillType: "temper-skill-type/passive",
   hashPlace: 997,
   createdAt: "2026-05-26T02:37:19.402Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

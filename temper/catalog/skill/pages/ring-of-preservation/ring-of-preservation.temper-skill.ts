@@ -10,7 +10,7 @@ export const ringOfPreservation = {
   description:
     "Brand the earth at your location with a rune of protection for 10 seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing damage taken by 5% and increasing Stamina Recovery by 15%, and are healed for 435 Health every 1 second.",
   icon: "/esoui/art/icons/ability_fightersguild_001_b.dds",
-  esoSkillId: 42548,
+  esoAbilityId: 42548,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const ringOfPreservation = {
   skillType: "temper-skill-type/active",
   hashPlace: 1075,
   createdAt: "2026-05-26T02:59:07.652Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10 seconds (Constant)",
     "<<2>> = Minor Protection (Constant)",

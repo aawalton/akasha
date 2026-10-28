@@ -10,7 +10,7 @@ export const lumberjackHireling = {
   description:
     "A hireling will send you even more woodworking materials and possibly other items every day. You have a greater chance at better quality materials.",
   icon: "/esoui/art/icons/ability_tradecraft_007.dds",
-  esoSkillId: 48186,
+  esoAbilityId: 48186,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 3,
@@ -20,5 +20,5 @@ export const lumberjackHireling = {
   skillType: "temper-skill-type/passive",
   hashPlace: 773,
   createdAt: "2026-05-26T02:37:19.393Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const healthAvarice = {
   description:
     "Increase your Healing Received by 3% for each Bone Tyrant ability slotted.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/passive_necromancer_007.dds",
-  esoSkillId: 116270,
+  esoAbilityId: 116270,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -22,6 +22,6 @@ export const healthAvarice = {
   effects: "jsonl",
   hashPlace: 613,
   createdAt: "2026-05-26T03:13:12.352Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3 BoneTyrant (Bone Tyrant Skills Slotted, SingleTarget, Direct, R2 = 1)"],
 } as const satisfies TemperSkill

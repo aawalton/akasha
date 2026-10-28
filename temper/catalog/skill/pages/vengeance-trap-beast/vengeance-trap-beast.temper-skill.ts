@@ -10,7 +10,7 @@ export const vengeanceTrapBeast = {
   description:
     "Set a sharpened blade trap under your target that deals |cffffff10500|r Bleed Damage over |cffffff5|r seconds, and immobilizes them for |cffffff2|r seconds.\n\nThe trap cannot be blocked.",
   icon: "/esoui/art/icons/ability_fightersguild_004.dds",
-  esoSkillId: 246275,
+  esoAbilityId: 246275,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceTrapBeast = {
   skillType: "temper-skill-type/active",
   hashPlace: 1577,
   createdAt: "2026-05-28T16:03:34.433Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10500 Bleed Damage (Constant)",
     "<<2>> = 5 seconds (Constant)",

@@ -10,7 +10,7 @@ export const scorch = {
   description:
     "Stir a group of shalk that attack after |cffffff3|r seconds, dealing |cffffff9215|r Magic Damage to enemies in front of you.\n\nAfter the shalk complete their attack, they burrow underground for |cffffff6|r seconds and then resurface again, dealing |cffffff12802|r Magic Damage to enemies in front of you.",
   icon: "/esoui/art/icons/ability_warden_015.dds",
-  esoSkillId: 86009,
+  esoAbilityId: 86009,
   isMorph: false,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const scorch = {
   skillType: "temper-skill-type/active",
   hashPlace: 1138,
   createdAt: "2026-05-28T16:03:33.699Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
     "<<2>> = 0.108 MaxStat + 1.134 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, R2 = 1)",

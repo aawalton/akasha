@@ -10,7 +10,7 @@ export const blessingAtThePeak = {
   description:
     "Where earth meets sky is a wellspring of power you can tap at will.\n\nWhen you cast or deal damage with an Earthen Heart ability in combat you generate |cffffff1|r Ultimate. This effect can occur once every |cffffff6|r seconds.\n\nIncreases your Critical Damage by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_dragonknight_024.dds",
-  esoSkillId: 29473,
+  esoAbilityId: 29473,
   isMorph: false,
   learnedLevel: 22,
   lineRankNeeded: 22,
@@ -21,6 +21,6 @@ export const blessingAtThePeak = {
   effects: "jsonl",
   hashPlace: 105,
   createdAt: "2026-05-28T16:03:31.758Z",
-  updatedAt: "2026-10-21T12:44:14.586Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1 (Constant)", "<<2>> = 6 seconds (Constant)", "<<3>> = 5% (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const circumventedFate = {
   description:
     "Casting an Arcanist ability warps the weave of fate around you, granting you and your group members Minor Evasion for 20 seconds and reducing damage from area attacks by 10%. This effect can occur once every 5 seconds.",
   icon: "/esoui/art/icons/passive_arcanist_06.dds",
-  esoSkillId: 184932,
+  esoAbilityId: 184932,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -21,7 +21,7 @@ export const circumventedFate = {
   status: "unsupported",
   hashPlace: 213,
   createdAt: "2026-05-26T03:13:12.221Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = 10% (Constant)",

@@ -10,7 +10,7 @@ export const heartOfStone = {
   description:
     "Rock and stone shield your heart, turning aside sharp blades and barbed words.\n\nIncreases your Armor by |cffffff2974|r.",
   icon: "/esoui/art/icons/ability_dragonknight_032.dds",
-  esoSkillId: 29468,
+  esoAbilityId: 29468,
   isMorph: false,
   learnedLevel: 8,
   lineRankNeeded: 8,
@@ -21,6 +21,6 @@ export const heartOfStone = {
   effects: "jsonl",
   hashPlace: 618,
   createdAt: "2026-05-28T16:03:32.730Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1487 (Constant)"],
 } as const satisfies TemperSkill

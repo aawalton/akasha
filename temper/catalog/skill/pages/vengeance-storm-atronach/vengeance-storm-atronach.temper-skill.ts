@@ -10,7 +10,7 @@ export const vengeanceStormAtronach = {
   description:
     "Summon the remnants of a storm atronach at the target location, dealing |cffffff11760|r Shock Damage to up to 3 enemies, stunning them for |cffffff3|r seconds, and then dealing |cffffff13125|r Shock Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_storm_atronach.dds",
-  esoSkillId: 237933,
+  esoAbilityId: 237933,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceStormAtronach = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1567,
   createdAt: "2026-05-28T16:03:34.419Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10500 Shock Damage (Constant)",
     "<<2>> = 6 (Constant)",

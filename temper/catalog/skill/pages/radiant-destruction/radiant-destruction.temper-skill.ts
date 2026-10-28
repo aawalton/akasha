@@ -10,7 +10,7 @@ export const radiantDestruction = {
   description:
     "Burn an enemy with a ray of holy fire, dealing |cffffff25200|r Magic Damage over |cffffff3.8|r seconds. Deals up to |cffffff500|r% more damage to enemies below |cffffff33|r% Health.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_templar_over_exposure.dds",
-  esoSkillId: 63029,
+  esoAbilityId: 63029,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const radiantDestruction = {
   skillType: "temper-skill-type/active",
   hashPlace: 959,
   createdAt: "2026-05-28T16:03:33.375Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0520522 MaxStat + 0.545317 MaxPower - 0.13687 (Ultimate, ratio = 10.48, Dmg, Magic, SingleTarget, Direct, 3.5s duration, 0.7s tick, R2 = 1)",
     "<<2>> = 3.8 seconds (Constant)",

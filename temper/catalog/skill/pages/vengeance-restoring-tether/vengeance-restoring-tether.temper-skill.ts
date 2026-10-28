@@ -10,7 +10,7 @@ export const vengeanceRestoringTether = {
   description:
     "Siphon the last remnants of life from a corpse, healing for |cffffff13856|r Health to yourself or up to 3 allies around the corpse after |cffffff1|r second. Heals up to |cffffff100|r% more Health to targets under |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_necromancer_017.dds",
-  esoSkillId: 238277,
+  esoAbilityId: 238277,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceRestoringTether = {
   skillType: "temper-skill-type/active",
   hashPlace: 1536,
   createdAt: "2026-05-28T16:03:34.374Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 13584 (Constant)",
     "<<2>> = 6 (Constant)",

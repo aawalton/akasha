@@ -10,7 +10,7 @@ export const intricateRuneforms = {
   description:
     "Your status as illuminatus reduces the cost and increases the strength of your damage shields by 10%.",
   icon: "/esoui/art/icons/passive_arcanist_12.dds",
-  esoSkillId: 185195,
+  esoAbilityId: 185195,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -22,6 +22,6 @@ export const intricateRuneforms = {
   effects: "jsonl",
   hashPlace: 696,
   createdAt: "2026-05-26T03:13:12.373Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10% (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const vengeanceLacerate = {
   description:
     "Slash up to 3 enemies in front of you, causing them to bleed for |cffffff43785|r Bleed Damage over |cffffff8|r seconds. You heal |cffffff3213|r Health every time damage is dealt.",
   icon: "/esoui/art/icons/ability_dualwield_006.dds",
-  esoSkillId: 241236,
+  esoAbilityId: 241236,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceLacerate = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1495,
   createdAt: "2026-05-28T16:03:34.316Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 12 (Constant)",
     "<<2>> = 43785 Bleed Damage (Constant)",

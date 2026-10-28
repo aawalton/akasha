@@ -9,7 +9,7 @@ export const vengeanceVeiledStrike = {
   baseName: "Vengeance Veiled Strike",
   description: "Slash an enemy, dealing |cffffff11130|r Magic Damage.",
   icon: "/esoui/art/icons/ability_nightblade_002.dds",
-  esoSkillId: 237430,
+  esoAbilityId: 237430,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -19,6 +19,6 @@ export const vengeanceVeiledStrike = {
   skillType: "temper-skill-type/active",
   hashPlace: 1582,
   createdAt: "2026-05-28T16:03:34.440Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10500 Magic Damage (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const siphoningAttacks36935 = {
   description:
     "Channel a portion of your soul to convert Health to |cffffff2600|r Magicka and Stamina.\n\nWhile slotted on either bar, your soul yearns for the warmth of life. All damage you deal heals you for |cffffff1275|r Health and restores |cffffff200|r Magicka and Stamina, up to once every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_nightblade_003_b.dds",
-  esoSkillId: 36935,
+  esoAbilityId: 36935,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const siphoningAttacks36935 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1196,
   createdAt: "2026-05-28T16:03:33.802Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2600 (Constant)",
     "<<2>> = 1250 (Constant)",

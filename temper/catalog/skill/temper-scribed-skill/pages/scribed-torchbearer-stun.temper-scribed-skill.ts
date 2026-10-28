@@ -10,7 +10,7 @@ export const scribedTorchbearerStun = {
   description:
     "Reduces the Movement Speed of enemies by 40% for 4 seconds on the first sweep, immobilizes for 3 seconds on the second sweep, and stuns for 3 seconds on the third sweep. Beneficial Signature and Affix scripts only apply to you.",
   icon: "/esoui/art/icons/ability_grimoire_fightersguild.dds",
-  esoSkillId: 217633,
+  esoAbilityId: 217633,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedTorchbearerStun = {
   grimoireId: "temper-grimoire/torchbearer",
   hashPlace: 1695,
   createdAt: "2026-05-26T13:19:53.300Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

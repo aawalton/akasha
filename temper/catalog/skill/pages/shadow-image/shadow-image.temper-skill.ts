@@ -10,7 +10,7 @@ export const shadowImage = {
   description:
     "Summon a shade version of yourself to stay in place and attack an enemy from range for 20 seconds. \n\nThe shade shoots at an enemy, dealing 478 Magic Damage every 2 seconds, and inflicts Minor Maim for 4 seconds, reducing the enemy's damage done by 5%.\n\nWhile the shade is summoned, you can activate this ability again for no cost to teleport to the shade's location.",
   icon: "/esoui/art/icons/ability_nightblade_001_b.dds",
-  esoSkillId: 36298,
+  esoAbilityId: 36298,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const shadowImage = {
   skillType: "temper-skill-type/active",
   hashPlace: 1151,
   createdAt: "2026-05-26T03:13:12.489Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = 0.02134178 MaxStat + 0.22408869 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, SingleTarget, Direct, R2 = 1)",

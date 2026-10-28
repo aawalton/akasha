@@ -10,7 +10,7 @@ export const agility = {
   description:
     "Increases your Weapon and Spell Damage by 2% for each piece of Medium Armor worn.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_010.dds",
-  esoSkillId: 45572,
+  esoAbilityId: 45572,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 38,
@@ -22,7 +22,7 @@ export const agility = {
   effects: "jsonl",
   hashPlace: 25,
   createdAt: "2026-05-26T02:59:07.533Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2% (Constant)",
     "<<2>> = 2 MediumArmor (Medium Armor, SingleTarget, Direct, R2 = 1)",

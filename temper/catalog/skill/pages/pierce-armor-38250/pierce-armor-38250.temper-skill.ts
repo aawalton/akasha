@@ -10,7 +10,7 @@ export const pierceArmor38250 = {
   description:
     "Thrust your weapon with disciplined precision at an enemy, dealing |cffffff4170|r Physical Damage and taunting them to attack you for |cffffff15|r seconds.\n\nAlso inflicts Minor Breach and Major Breach on the enemy, reducing their Physical Resistance and Spell Resistance by |cffffff2974|r and |cffffff5948|r for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_002_b.dds",
-  esoSkillId: 38250,
+  esoAbilityId: 38250,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const pierceArmor38250 = {
   skillType: "temper-skill-type/active",
   hashPlace: 892,
   createdAt: "2026-05-28T16:03:33.248Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 15 seconds (Constant)",

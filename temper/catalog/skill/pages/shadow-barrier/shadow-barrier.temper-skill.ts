@@ -10,7 +10,7 @@ export const shadowBarrier = {
   description:
     "Casting a Shadow ability grants you Major Resolve for 12 seconds, increasing your Physical and Spell Resistance by 5948. This duration is increased by 2 seconds for each piece of Heavy Armor equipped.\n\nCurrent duration: 12 seconds",
   icon: "/esoui/art/icons/ability_sorcerer_022.dds",
-  esoSkillId: 45071,
+  esoAbilityId: 45071,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -21,7 +21,7 @@ export const shadowBarrier = {
   status: "unsupported",
   hashPlace: 1148,
   createdAt: "2026-05-26T03:13:12.488Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 12 seconds (Constant)",
     "<<2>> = 5948 (Constant)",

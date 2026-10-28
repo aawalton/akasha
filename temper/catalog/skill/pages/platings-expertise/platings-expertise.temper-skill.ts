@@ -9,7 +9,7 @@ export const platingsExpertise = {
   baseName: "Platings Expertise",
   description: "More than doubles the chances of improving items with platings.",
   icon: "/esoui/art/icons/passive_platingexpertise.dds",
-  esoSkillId: 103648,
+  esoAbilityId: 103648,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -19,5 +19,5 @@ export const platingsExpertise = {
   skillType: "temper-skill-type/passive",
   hashPlace: 900,
   createdAt: "2026-05-26T02:37:19.400Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

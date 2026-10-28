@@ -10,7 +10,7 @@ export const crystalWeapon = {
   description:
     "Encase your weapon in dark crystals for 6 seconds, causing your next two Light or Heavy Attacks to deal additional damage and reduce the target's Armor by 1000 for 5 seconds. The first hit deals 2091 Physical Damage and the second deals 836 Physical Damage.\n\n After casting, your next non-Ultimate ability used within 3 seconds costs 10% less.",
   icon: "/esoui/art/icons/ability_sorcerer_crystalweapon.dds",
-  esoSkillId: 47560,
+  esoAbilityId: 47560,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const crystalWeapon = {
   skillType: "temper-skill-type/active",
   hashPlace: 276,
   createdAt: "2026-05-26T03:13:12.234Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 3 (Constant)",

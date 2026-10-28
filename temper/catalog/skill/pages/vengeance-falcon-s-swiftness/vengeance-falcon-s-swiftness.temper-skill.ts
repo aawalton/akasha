@@ -10,7 +10,7 @@ export const vengeanceFalconSSwiftness = {
   description:
     "Invoke the spirit of agility to gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%.",
   icon: "/esoui/art/icons/ability_warden_016.dds",
-  esoSkillId: 238027,
+  esoAbilityId: 238027,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceFalconSSwiftness = {
   skillType: "temper-skill-type/active",
   hashPlace: 1469,
   createdAt: "2026-05-28T16:03:34.278Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6 seconds (Constant)", "<<2>> = 30% (Constant)"],
 } as const satisfies TemperSkill

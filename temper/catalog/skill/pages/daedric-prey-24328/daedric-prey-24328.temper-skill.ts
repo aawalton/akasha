@@ -10,7 +10,7 @@ export const daedricPrey24328 = {
   description:
     "Curse an enemy with a destructive rune, dealing |cffffff10668|r Magic Damage to the target and all other nearby enemies after |cffffff6|r seconds.\n\nWhile the curse is active, your Daedric Summoning pets prioritize the target and deal an additional |cffffff50|r% damage to them.\n\nYou can have only one Daedric Prey active at a time.",
   icon: "/esoui/art/icons/ability_sorcerer_explosive_curse.dds",
-  esoSkillId: 24328,
+  esoAbilityId: 24328,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const daedricPrey24328 = {
   skillType: "temper-skill-type/active",
   hashPlace: 293,
   createdAt: "2026-05-28T16:03:32.066Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.129135 MaxStat + 1.356 MaxPower - 1.37071 (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

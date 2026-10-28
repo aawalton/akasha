@@ -10,7 +10,7 @@ export const bloodScion = {
   description:
     "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls.",
   icon: "/esoui/art/icons/ability_u26_vampire_06.dds",
-  esoSkillId: 32624,
+  esoAbilityId: 32624,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 5,
@@ -20,6 +20,6 @@ export const bloodScion = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 129,
   createdAt: "2026-05-28T16:03:31.804Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10000 (Constant)", "<<2>> = 15% (Constant)"],
 } as const satisfies TemperSkill

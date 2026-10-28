@@ -10,7 +10,7 @@ export const vengeanceStrife = {
   description:
     "Steal an enemy's life force, dealing |cffffff5565|r Magic Damage and healing you or a nearby ally for |cffffff8033|r Health.",
   icon: "/esoui/art/icons/ability_nightblade_012.dds",
-  esoSkillId: 237709,
+  esoAbilityId: 237709,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceStrife = {
   skillType: "temper-skill-type/active",
   hashPlace: 1568,
   createdAt: "2026-05-28T16:03:34.420Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5250 Magic Damage (Constant)", "<<2>> = 7875 (Constant)"],
 } as const satisfies TemperSkill

@@ -9,7 +9,7 @@ export const recipeImprovement = {
   baseName: "Recipe Improvement",
   description: "Allows the making of up to Champion 150 Recipes.",
   icon: "/esoui/art/icons/ability_provisioner_001.dds",
-  esoSkillId: 44650,
+  esoAbilityId: 44650,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -19,5 +19,5 @@ export const recipeImprovement = {
   skillType: "temper-skill-type/passive",
   hashPlace: 996,
   createdAt: "2026-05-26T02:37:19.402Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

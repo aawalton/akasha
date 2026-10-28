@@ -9,7 +9,7 @@ export const metalworking = {
   baseName: "Metalworking",
   description: "Allows the use of Rubedite Ingots.",
   icon: "/esoui/art/icons/ability_smith_001.dds",
-  esoSkillId: 70041,
+  esoAbilityId: 70041,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -19,5 +19,5 @@ export const metalworking = {
   skillType: "temper-skill-type/passive",
   hashPlace: 825,
   createdAt: "2026-05-26T02:37:19.397Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

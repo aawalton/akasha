@@ -10,7 +10,7 @@ export const repentance26821 = {
   description:
     "Consecrate the souls of the fallen, healing you and your allies for |cffffff3060|r Health and restoring |cffffff3000|r Stamina to you for each corpse nearby.\n\nWhile slotted on either bar, you gain Minor Fortitude, Minor Endurance, and Minor Intellect, increasing your Health, Stamina, and Magicka Recovery by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_templar_persistant_sigil.dds",
-  esoSkillId: 26821,
+  esoAbilityId: 26821,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const repentance26821 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1030,
   createdAt: "2026-05-28T16:03:33.508Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2700 (Constant)",
     "<<2>> = 2700 (Constant)",

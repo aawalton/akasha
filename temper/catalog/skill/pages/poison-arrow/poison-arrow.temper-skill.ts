@@ -10,7 +10,7 @@ export const poisonArrow = {
   description:
     "Shoot an arrow coated in Baandari poison at an enemy, dealing |cffffff4036|r Poison Damage and an additional |cffffff11420|r Poison Damage over |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_bow_002.dds",
-  esoSkillId: 28869,
+  esoAbilityId: 28869,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const poisonArrow = {
   skillType: "temper-skill-type/active",
   hashPlace: 901,
   createdAt: "2026-05-28T16:03:33.266Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05 MaxStat + 0.525 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Poison, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.0150563 MaxStat + 0.157611 MaxPower - 2.12747 (Ultimate, ratio = 10.47, Dmg, Poison, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999993)",

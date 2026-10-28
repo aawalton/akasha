@@ -10,7 +10,7 @@ export const rushedCeremony = {
   description:
     "Beacon your inner light, healing yourself or a wounded ally in front of you for |cffffff10960|r Health.",
   icon: "/esoui/art/icons/ability_templar_rushed_ceremony.dds",
-  esoSkillId: 22250,
+  esoAbilityId: 22250,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const rushedCeremony = {
   skillType: "temper-skill-type/active",
   hashPlace: 1118,
   createdAt: "2026-05-28T16:03:33.663Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.15 MaxStat + 1.575 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
   ],

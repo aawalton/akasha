@@ -8,9 +8,9 @@ export const bastionOfLight = {
   key: "bastion-of-light",
   description:
     "Light consecrates the ground on which you tread.\n\nSacred Ground is now applied while you are in your own Nova and Spear Shards, and while Radial Sweep and Solar Barrage are active. While Sacred Ground is active, you heal for 3361 Health every 1 second. If you are at full Health after being healed from this effect while in combat, you also gain 2 Ultimate.",
-  esoSkillId: 263585,
+  esoAbilityId: 263585,
   class: "temper-class/templar",
   hashPlace: 25,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

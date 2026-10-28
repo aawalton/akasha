@@ -10,7 +10,7 @@ export const darkStalker = {
   description:
     "Ignore the Movement Speed penalty of Sneak.\n\nDecreases the time it takes to enter Sneak by 50%.",
   icon: "/esoui/art/icons/passive_u26_vampire_01.dds",
-  esoSkillId: 46041,
+  esoAbilityId: 46041,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 3,
@@ -21,6 +21,6 @@ export const darkStalker = {
   effects: "jsonl",
   hashPlace: 313,
   createdAt: "2026-05-26T03:25:55.747Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 50% (Constant)"],
 } as const satisfies TemperSkill

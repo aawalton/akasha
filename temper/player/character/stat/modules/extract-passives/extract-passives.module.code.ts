@@ -52,7 +52,7 @@ export const extractPassives: PipelineStage = (build, context) => {
       id: `passive-${skill.id}`,
       categoryId: "skills",
       skillId: skill.id,
-      esoSkillId: skill.esoSkillId,
+      esoAbilityId: skill.esoAbilityId,
       skillName: skill.name,
       skillLineId: skill.skillLineId,
       skillType: skill.skillType,

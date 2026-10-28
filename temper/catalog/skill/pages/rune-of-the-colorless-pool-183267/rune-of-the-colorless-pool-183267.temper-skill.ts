@@ -10,7 +10,7 @@ export const runeOfTheColorlessPool183267 = {
   description:
     "Etch an amorphous rune on your enemy's mind, paralyzing them in fear after a |cffffff1|r second delay, stunning them for |cffffff4|r seconds. This undimensioned phenomenon applies Minor Vulnerability and Minor Brittle for |cffffff20|r seconds, increasing their damage taken by |cffffff5|r% and their Critical Damage taken by |cffffff10|r%.\n\nIf used against a monster, the paralyze lasts for |cffffff8|r seconds.\n\nThis ability cannot be dodged.",
   icon: "/esoui/art/icons/ability_arcanist_011_b.dds",
-  esoSkillId: 183267,
+  esoAbilityId: 183267,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const runeOfTheColorlessPool183267 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1100,
   createdAt: "2026-05-28T16:03:33.636Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1 second (Constant)",
     "<<2>> = 4 seconds (Constant)",

@@ -9,7 +9,7 @@ export const lightFingers = {
   baseName: "Light Fingers",
   description: "Increases your chances of successfully Pickpocketing by 50%",
   icon: "/esoui/art/icons/ability_legerdemain_lightfingers.dds",
-  esoSkillId: 63806,
+  esoAbilityId: 63806,
   isMorph: false,
   learnedLevel: 17,
   lineRankNeeded: 17,
@@ -19,6 +19,6 @@ export const lightFingers = {
   skillType: "temper-skill-type/passive",
   hashPlace: 744,
   createdAt: "2026-05-26T03:25:55.788Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 50% (Constant)"],
 } as const satisfies TemperSkill

@@ -9,7 +9,7 @@ export const restorationMaster = {
   baseName: "Restoration Master",
   description: "Increases healing with Restoration Staff spells by 5%.",
   icon: "/esoui/art/icons/ability_templar_012.dds",
-  esoSkillId: 45524,
+  esoAbilityId: 45524,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const restorationMaster = {
   effects: "jsonl",
   hashPlace: 1051,
   createdAt: "2026-05-26T02:38:38.350Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5% (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const powerBash = {
   description:
     "Strike an enemy full-force with your shield, dealing |cffffff8203|r Physical Damage. \n\nThis ability's damage is considered Bash damage and interrupts the enemy if they are casting.",
   icon: "/esoui/art/icons/ability_1handed_005.dds",
-  esoSkillId: 28365,
+  esoAbilityId: 28365,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const powerBash = {
   skillType: "temper-skill-type/active",
   hashPlace: 908,
   createdAt: "2026-05-28T16:03:33.279Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
   ],

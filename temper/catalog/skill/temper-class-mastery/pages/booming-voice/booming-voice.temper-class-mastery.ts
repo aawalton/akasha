@@ -8,9 +8,9 @@ export const boomingVoice = {
   key: "booming-voice",
   description:
     "Let your voice echo across the peaks.\n\nActivating rank 2 of The Storm Voice now also grants 5 Health, Magicka, and Stamina Recovery for every Ultimate spent for 10 seconds after a delay of 15 seconds.",
-  esoSkillId: 240268,
+  esoAbilityId: 240268,
   class: "temper-class/dragonknight",
   hashPlace: 6,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

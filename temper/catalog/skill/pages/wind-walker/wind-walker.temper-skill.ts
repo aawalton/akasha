@@ -10,7 +10,7 @@ export const windWalker = {
   description:
     "Increases your Stamina Recovery by 4% per piece of Medium Armor equipped. \n\nCurrent bonus: 0%.\n\nReduces the Stamina cost of your abilities by 2% per piece of Medium Armor equipped. \n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_011.dds",
-  esoSkillId: 45565,
+  esoAbilityId: 45565,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -22,7 +22,7 @@ export const windWalker = {
   effects: "jsonl",
   hashPlace: 1621,
   createdAt: "2026-05-26T02:59:07.694Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4% (Constant)",
     "<<2>> = 4 MediumArmor (Medium Armor, SingleTarget, Direct, R2 = 1)",

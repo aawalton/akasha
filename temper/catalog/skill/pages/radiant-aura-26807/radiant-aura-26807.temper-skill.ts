@@ -10,7 +10,7 @@ export const radiantAura26807 = {
   description:
     "Champion the cause of divine glory to apply Minor Endurance, Minor Fortitude, and Minor Intellect to you and nearby group members for |cffffff1|r minute, increasing your Health, Magicka, and Stamina Recovery by |cffffff15|r%.\n\nWhile slotted on either bar you gain these effects.",
   icon: "/esoui/art/icons/ability_templar_life_giving_sigil.dds",
-  esoSkillId: 26807,
+  esoAbilityId: 26807,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const radiantAura26807 = {
   skillType: "temper-skill-type/active",
   hashPlace: 958,
   createdAt: "2026-05-28T16:03:33.373Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Endurance (Constant)",
     "<<2>> = Minor Fortitude (Constant)",

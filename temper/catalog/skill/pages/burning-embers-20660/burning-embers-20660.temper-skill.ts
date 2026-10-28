@@ -10,7 +10,7 @@ export const burningEmbers20660 = {
   description:
     "Slash your foe with a fiery claw, dealing |cffffff4038|r Flame Damage and an additional |cffffff11425|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff4291|r Health from the initial hit and |cffffff644|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
   icon: "/esoui/art/icons/ability_dragonknight_003_b.dds",
-  esoSkillId: 20660,
+  esoAbilityId: 20660,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const burningEmbers20660 = {
   skillType: "temper-skill-type/active",
   hashPlace: 173,
   createdAt: "2026-05-28T16:03:31.869Z",
-  updatedAt: "2026-10-21T09:16:37.779Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.051639378 MaxStat + 0.54221347 MaxPower (Ultimate, Dmg, Flame, SingleTarget, Direct, Melee)",
     "<<2>> = 0.030978338 MaxStat + 0.32527255 MaxPower (Ultimate, Dmg, Flame, SingleTarget, DOT, 8s duration, 2s tick)",

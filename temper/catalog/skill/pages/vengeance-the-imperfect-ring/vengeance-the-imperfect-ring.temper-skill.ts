@@ -10,7 +10,7 @@ export const vengeanceTheImperfectRing = {
   description:
     "Summon a flawed rune under an enemy that etches them and up to 2 foes nearby with scrawled glyphs, dealing |cffffff14172|r Magic Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_004.dds",
-  esoSkillId: 238225,
+  esoAbilityId: 238225,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceTheImperfectRing = {
   skillType: "temper-skill-type/active",
   hashPlace: 1575,
   createdAt: "2026-05-28T16:03:34.430Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 14172 Magic Damage (Constant)", "<<2>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

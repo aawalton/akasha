@@ -6,7 +6,7 @@ type SkillStatus = "supported" | "partially-supported" | "unsupported"
 
 export interface SkillTemplate {
   id: string
-  esoSkillId: number
+  esoAbilityId: number
   name: string
   baseName: string
   skillLineId: SkillLineId

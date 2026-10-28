@@ -10,7 +10,7 @@ export const shadowySupplier = {
   description:
     "A contact from the Brotherhood provides beneficial items once per day. This contact is located in Outlaw Refuges, the Gold Coast Dark Brotherhood Sanctuary, and the Hew's Bane Thieves Den.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_003.dds",
-  esoSkillId: 77396,
+  esoAbilityId: 77396,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -22,5 +22,5 @@ export const shadowySupplier = {
   effects: "jsonl",
   hashPlace: 1158,
   createdAt: "2026-05-26T02:59:07.659Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const onslaught83229 = {
   description:
     "Strike at an enemy with a vicious blow, dealing |cffffff12116|r Physical Damage to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Penetration for direct damage attacks equal to |cffffff100|r% of the amount ignored from the initial target and if Battle Spirit is inactive you gain |cffffff100|r% Critical Chance for |cffffff8|r seconds.",
   icon: "/esoui/art/icons/ability_2handed_006_a.dds",
-  esoSkillId: 83229,
+  esoAbilityId: 83229,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 50,
@@ -20,7 +20,7 @@ export const onslaught83229 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 864,
   createdAt: "2026-05-28T16:03:33.198Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, Melee, 0.4s cooldown, R2 = 1)",
     "<<2>> = 85% (Constant)",

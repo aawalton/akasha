@@ -10,7 +10,7 @@ export const savageStrength32638 = {
   description:
     "Lorkh teaches through suffering. So too will your claws.\n\nIncreases your Weapon and Spell Damage by |cffffff12|r%, reducing to |cffffff5|r% against targets with Battle Spirit.\n\nGrants you Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r.",
   icon: "/esoui/art/icons/ability_werewolf_009.dds",
-  esoSkillId: 32638,
+  esoAbilityId: 32638,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const savageStrength32638 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1132,
   createdAt: "2026-05-28T16:03:33.688Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10% (Constant)",
     "<<2>> = 5% (Constant)",

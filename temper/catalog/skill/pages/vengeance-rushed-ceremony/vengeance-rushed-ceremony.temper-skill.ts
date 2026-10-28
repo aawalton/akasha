@@ -9,7 +9,7 @@ export const vengeanceRushedCeremony = {
   baseName: "Vengeance Rushed Ceremony",
   description: "Heal yourself or an ally for |cffffff16065|r Health.",
   icon: "/esoui/art/icons/ability_templar_rushed_ceremony.dds",
-  esoSkillId: 238001,
+  esoAbilityId: 238001,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -19,6 +19,6 @@ export const vengeanceRushedCeremony = {
   skillType: "temper-skill-type/active",
   hashPlace: 1547,
   createdAt: "2026-05-28T16:03:34.390Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15750 (Constant)"],
 } as const satisfies TemperSkill

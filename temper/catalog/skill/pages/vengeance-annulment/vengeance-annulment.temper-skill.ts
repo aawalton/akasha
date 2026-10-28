@@ -10,7 +10,7 @@ export const vengeanceAnnulment = {
   description:
     "Convert a portion of your Magicka into a protective ward, gaining a damage shield that absorbs |cffffff4885|r damage for |cffffff6|r seconds. Damage shield strength capped at |cffffff60|r% of your Max Health.",
   icon: "/esoui/art/icons/ability_armor_003.dds",
-  esoSkillId: 247561,
+  esoAbilityId: 247561,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceAnnulment = {
   skillType: "temper-skill-type/active",
   hashPlace: 1408,
   createdAt: "2026-05-28T16:03:34.190Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3 Magicka (Magicka, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

@@ -10,7 +10,7 @@ export const scribedVaultHealing = {
   description:
     "Heals you and your allies for 2614 Health. Beneficial Signature and Affix scripts apply to you and your allies.",
   icon: "/esoui/art/icons/ability_grimoire_bow.dds",
-  esoSkillId: 217777,
+  esoAbilityId: 217777,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedVaultHealing = {
   grimoireId: "temper-grimoire/vault",
   hashPlace: 1724,
   createdAt: "2026-05-26T13:19:53.327Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

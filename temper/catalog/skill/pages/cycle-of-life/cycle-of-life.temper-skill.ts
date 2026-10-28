@@ -9,7 +9,7 @@ export const cycleOfLife = {
   baseName: "Cycle of Life",
   description: "Your fully-charged Heavy Attacks restore 30% more Magicka.",
   icon: "/esoui/art/icons/ability_weapon_004.dds",
-  esoSkillId: 45520,
+  esoAbilityId: 45520,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -21,6 +21,6 @@ export const cycleOfLife = {
   effects: "jsonl",
   hashPlace: 288,
   createdAt: "2026-05-26T02:38:38.303Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 30% (Constant)"],
 } as const satisfies TemperSkill

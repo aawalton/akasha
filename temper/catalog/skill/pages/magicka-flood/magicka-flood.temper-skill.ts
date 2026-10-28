@@ -9,7 +9,7 @@ export const magickaFlood = {
   baseName: "Magicka Flood",
   description: "Increases your Max Magicka and Stamina by 6%.",
   icon: "/esoui/art/icons/passive_sorcerer_008.dds",
-  esoSkillId: 45150,
+  esoAbilityId: 45150,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -21,6 +21,6 @@ export const magickaFlood = {
   effects: "jsonl",
   hashPlace: 789,
   createdAt: "2026-05-26T03:13:12.389Z",
-  updatedAt: "2026-10-19T23:47:20.058Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6% (Constant)"],
 } as const satisfies TemperSkill

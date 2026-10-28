@@ -9,7 +9,7 @@ export const controlledFury = {
   baseName: "Controlled Fury",
   description: "Reduces the Stamina cost of Dual Wield abilities by 15%.",
   icon: "/esoui/art/icons/ability_weapon_018.dds",
-  esoSkillId: 45478,
+  esoAbilityId: 45478,
   isMorph: false,
   learnedLevel: 34,
   lineRankNeeded: 34,
@@ -21,6 +21,6 @@ export const controlledFury = {
   effects: "jsonl",
   hashPlace: 248,
   createdAt: "2026-05-26T02:38:38.300Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

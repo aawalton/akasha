@@ -10,7 +10,7 @@ export const continuousAttack = {
   description:
     "Increases your Weapon and Spell Damage by 10% and Health, Magicka, and Stamina Recovery by 20% for 10 minutes after you capture a Lumber Mill, Farm, Mine, or Keep.\n\nGain Gallop at all times, increasing your Mount Speed by 15%.",
   icon: "/esoui/art/icons/ability_weapon_028.dds",
-  esoSkillId: 45614,
+  esoAbilityId: 45614,
   isMorph: false,
   learnedLevel: 9,
   lineRankNeeded: 9,
@@ -22,7 +22,7 @@ export const continuousAttack = {
   effects: "jsonl",
   hashPlace: 246,
   createdAt: "2026-05-26T03:25:55.746Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10% (Constant)",
     "<<2>> = 20% (Constant)",

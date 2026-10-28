@@ -10,7 +10,7 @@ export const vengeanceApocryphalGate = {
   description:
     "Breach the world walls to create a portal at a target location, teleporting yourself to it immediately and generating Crux.",
   icon: "/esoui/art/icons/ability_arcanist_016.dds",
-  esoSkillId: 238545,
+  esoAbilityId: 238545,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,5 +20,5 @@ export const vengeanceApocryphalGate = {
   skillType: "temper-skill-type/active",
   hashPlace: 1409,
   createdAt: "2026-05-28T16:03:34.191Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

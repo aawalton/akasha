@@ -10,7 +10,7 @@ export const elusiveMist38963 = {
   description:
     "Disperse into a dark mist, causing the next |cffffff3|r projectiles to deal no damage to you for |cffffff1|r second while you dash forward and reappear at your target location after a short duration.\n\nYou gain Major Expedition and Major Evasion for |cffffff4|r seconds after reappearing, increasing your Movement Speed by |cffffff30|r% and reducing damage from area attacks by |cffffff20|r%.\n\nCasting again within |cffffff4|r seconds costs |cffffff33|r% more Magicka.",
   icon: "/esoui/art/icons/ability_u26_vampire_05_a.dds",
-  esoSkillId: 38963,
+  esoAbilityId: 38963,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 9,
@@ -20,7 +20,7 @@ export const elusiveMist38963 = {
   skillType: "temper-skill-type/active",
   hashPlace: 419,
   createdAt: "2026-05-28T16:03:32.280Z",
-  updatedAt: "2026-10-21T05:02:44.400Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<9>> = 3 (Constant)",
     "<<1>> = 1 second (Constant)",

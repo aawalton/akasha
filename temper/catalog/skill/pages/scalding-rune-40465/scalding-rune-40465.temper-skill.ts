@@ -10,7 +10,7 @@ export const scaldingRune40465 = {
   description:
     "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff20|r seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for |cffffff8533|r Flame Damage and an additional |cffffff9427|r Flame Damage over |cffffff22|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_001_b.dds",
-  esoSkillId: 40465,
+  esoAbilityId: 40465,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const scaldingRune40465 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1134,
   createdAt: "2026-05-28T16:03:33.691Z",
-  updatedAt: "2026-10-21T16:03:55.888Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<5>> = 2 seconds (Constant)",
     "<<4>> = 22 seconds (Constant)",

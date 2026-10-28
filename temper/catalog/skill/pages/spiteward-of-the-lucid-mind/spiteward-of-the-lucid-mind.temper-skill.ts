@@ -10,7 +10,7 @@ export const spitewardOfTheLucidMind = {
   description:
     "Like the rune knights of old, summon a shield that absorbs 4800 damage for 6 seconds, scaling off your Max Health.\n\nThe first time you take direct damage, the shield retaliates and deals 0 Magic Damage to the attacker, scaling off your Armor.\n\nConsume Crux to heal yourself 1600 Health, scaling off your Max Health, and refund 30% of Spiteward of the Lucid Mind cost per Crux spent.",
   icon: "/esoui/art/icons/ability_arcanist_008_a.dds",
-  esoSkillId: 40185901,
+  esoAbilityId: 40185901,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const spitewardOfTheLucidMind = {
   skillType: "temper-skill-type/active",
   hashPlace: 1260,
   createdAt: "2026-05-26T03:13:12.512Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

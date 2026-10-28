@@ -10,7 +10,7 @@ export const graveLordsSacrifice = {
   description:
     "Summon a skeleton from the ground after 2.5 seconds. The skeleton leaps to you, sacrificing the fallen soul within and mastering your necromantic energies for 20 seconds, increasing your damage done with Necromancer abilities and damage over time effects by 15%. While active, your third cast of Flame Skull damages in an 6 meter area.\n\nCreates a corpse on death if you are in combat.",
   icon: "/esoui/art/icons/ability_necromancer_002_b.dds",
-  esoSkillId: 40117749,
+  esoAbilityId: 40117749,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const graveLordsSacrifice = {
   skillType: "temper-skill-type/active",
   hashPlace: 576,
   createdAt: "2026-05-26T03:13:12.340Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2.5 seconds (Constant)",
     "<<2>> = 20 seconds (Constant)",

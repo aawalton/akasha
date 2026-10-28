@@ -10,7 +10,7 @@ export const enchanterHireling = {
   description:
     "A hireling will send you runestones every day. You have a greater chance at Essence and better Aspect runestones.",
   icon: "/esoui/art/icons/ability_enchanter_008.dds",
-  esoSkillId: 46772,
+  esoAbilityId: 46772,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 3,
@@ -20,5 +20,5 @@ export const enchanterHireling = {
   skillType: "temper-skill-type/passive",
   hashPlace: 430,
   createdAt: "2026-05-26T02:37:19.379Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

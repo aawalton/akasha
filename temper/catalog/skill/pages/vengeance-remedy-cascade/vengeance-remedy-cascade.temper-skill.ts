@@ -10,7 +10,7 @@ export const vengeanceRemedyCascade = {
   description:
     "Channel the abyssal sea to coalesce a beam of restorative energy. The beam heals you or up to 3 allies in its path for |cffffff44976|r Health over |cffffff4.5|r seconds.\n\nConsume Crux to also restore |cffffff672|r Magicka and Stamina per Crux spent to your allies over |cffffff4.5|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_014.dds",
-  esoSkillId: 238482,
+  esoAbilityId: 238482,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceRemedyCascade = {
   skillType: "temper-skill-type/active",
   hashPlace: 1533,
   createdAt: "2026-05-28T16:03:34.370Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 (Constant)",
     "<<2>> = 44096 (Constant)",

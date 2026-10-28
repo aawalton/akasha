@@ -10,7 +10,7 @@ export const ambush = {
   description:
     "Flash through the shadows and ambush an enemy, dealing 1655 Physical Damage and afflicting them with Minor Vulnerability for 10 seconds, increasing their damage taken by 5%.\n\nAlso grants you Empower and Minor Berserk for 10 seconds, increasing the damage of your Heavy Attacks against monsters by 70% and your damage done by 5%.",
   icon: "/esoui/art/icons/ability_nightblade_008_b.dds",
-  esoSkillId: 35898,
+  esoAbilityId: 35898,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const ambush = {
   skillType: "temper-skill-type/active",
   hashPlace: 28,
   createdAt: "2026-05-26T03:13:12.169Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.073629141 MaxStat + 0.773105464 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = Minor Vulnerability (Constant)",

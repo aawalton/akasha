@@ -10,7 +10,7 @@ export const powerExtraction36901 = {
   description:
     "Siphon the vigor from your enemies' blood, dealing |cffffff6401|r Disease Damage to all nearby enemies.\n\nIf an enemy is hit you gain Major Brutality and Sorcery, and Minor Courage increasing your Weapon and Spell Damage by |cffffff20|r% and |cffffff215|r for |cffffff30|r seconds. Enemies hit have Minor Cowardice applied to them for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff215|r.",
   icon: "/esoui/art/icons/ability_nightblade_013_b.dds",
-  esoSkillId: 36901,
+  esoAbilityId: 36901,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const powerExtraction36901 = {
   skillType: "temper-skill-type/active",
   hashPlace: 910,
   createdAt: "2026-05-28T16:03:33.284Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, Dmg, Disease, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 20% (Constant)",

@@ -10,7 +10,7 @@ export const vengeanceRunicDefense = {
   description:
     "Cast forth a complex rune granting you and up to 2 group members Minor Resolve for |cffffff20|r seconds, increasing your Armor by |cffffff2974|r.\n\nYou gain Minor Protection for |cffffff20|r seconds, reducing your damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_arcanist_010.dds",
-  esoSkillId: 238262,
+  esoAbilityId: 238262,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceRunicDefense = {
   skillType: "temper-skill-type/active",
   hashPlace: 1545,
   createdAt: "2026-05-28T16:03:34.387Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Resolve (Constant)",
     "<<2>> = 20 seconds (Constant)",

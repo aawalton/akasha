@@ -10,7 +10,7 @@ export const vengeanceLowSlash = {
   description:
     "Surprise an enemy with a deep lunge, dealing |cffffff6678|r Physical Damage and afflicting them with Minor Maim, reducing their damage done by |cffffff5|r% for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_001.dds",
-  esoSkillId: 240558,
+  esoAbilityId: 240558,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceLowSlash = {
   skillType: "temper-skill-type/active",
   hashPlace: 1502,
   createdAt: "2026-05-28T16:03:34.326Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6300 Physical Damage (Constant)",
     "<<2>> = Minor Maim (Constant)",

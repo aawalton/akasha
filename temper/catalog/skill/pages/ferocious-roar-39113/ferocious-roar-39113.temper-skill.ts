@@ -10,7 +10,7 @@ export const ferociousRoar39113 = {
   description:
     "Roar with bloodlust to fear nearby enemies for |cffffff4|r seconds and setting them Off Balance for |cffffff7|r seconds. Grants two stacks of Blood Hunger, which empowers Gnash and Claw Fury.\n\nYou and up to 11 nearby allies gain Major Courage for |cffffff20|r seconds and can activate the Feeding Frenzy synergy, which grants |cffffff6|r% damage done and Minor Force for |cffffff30|r seconds.\n\nWhile slotted you gain Major Prophecy and Savagery.",
   icon: "/esoui/art/icons/ability_werewolf_003_b.dds",
-  esoSkillId: 39113,
+  esoAbilityId: 39113,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 5,
@@ -20,7 +20,7 @@ export const ferociousRoar39113 = {
   skillType: "temper-skill-type/active",
   hashPlace: 508,
   createdAt: "2026-05-28T16:03:32.469Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
     "<<2>> = 7 seconds (Constant)",

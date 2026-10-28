@@ -9,7 +9,7 @@ export const preemptivePower = {
   baseName: "Preemptive Power",
   description: "Start each Scrying attempt with an additional row of facets already claimed.",
   icon: "/esoui/art/icons/ability_scrying_09.dds",
-  esoSkillId: 139777,
+  esoAbilityId: 139777,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 9,
@@ -19,5 +19,5 @@ export const preemptivePower = {
   skillType: "temper-skill-type/passive",
   hashPlace: 927,
   createdAt: "2026-05-26T03:25:55.798Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

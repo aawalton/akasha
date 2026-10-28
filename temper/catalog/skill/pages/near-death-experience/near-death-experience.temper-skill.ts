@@ -10,7 +10,7 @@ export const nearDeathExperience = {
   description:
     "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to 12% in proportion to the severity of the target's wounds.",
   icon: "/esoui/art/icons/passive_necromancer_010.dds",
-  esoSkillId: 116275,
+  esoAbilityId: 116275,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -22,5 +22,5 @@ export const nearDeathExperience = {
   effects: "jsonl",
   hashPlace: 852,
   createdAt: "2026-05-26T03:13:12.409Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

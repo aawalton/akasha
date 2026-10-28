@@ -10,7 +10,7 @@ export const vengeanceElementalStorm = {
   description:
     "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to up to 3 enemies in the area, dealing |cffffff23520|r Magic Damage.",
   icon: "/esoui/art/icons/ability_destructionstaff_012.dds",
-  esoSkillId: 241485,
+  esoAbilityId: 241485,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceElementalStorm = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1461,
   createdAt: "2026-05-28T16:03:34.267Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 21000 Magic Damage (Constant)"],
 } as const satisfies TemperSkill

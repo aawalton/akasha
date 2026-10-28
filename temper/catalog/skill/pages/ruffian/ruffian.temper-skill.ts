@@ -10,7 +10,7 @@ export const ruffian = {
   description:
     "Gives you a 15% damage bonus when attacking stunned, immobilized, or silenced enemies.",
   icon: "/esoui/art/icons/ability_weapon_014.dds",
-  esoSkillId: 45481,
+  esoAbilityId: 45481,
   isMorph: false,
   learnedLevel: 46,
   lineRankNeeded: 46,
@@ -22,6 +22,6 @@ export const ruffian = {
   effects: "jsonl",
   hashPlace: 1085,
   createdAt: "2026-05-26T02:38:38.353Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

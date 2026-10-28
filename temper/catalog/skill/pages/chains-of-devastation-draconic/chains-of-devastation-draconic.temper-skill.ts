@@ -10,7 +10,7 @@ export const chainsOfDevastationDraconic = {
   description:
     "Lash out with a chain bound in jagged links, pulling yourself to an enemy. The searing metal deals 5412 Flame Damage and applies the Burning status effect.\n\nThis attack cannot be dodged or reflected.\n\nHitting the target grants you Major Berserk for 6 seconds and Major Evasion for 10 seconds, increasing damage done by 10% reducing damage taken from area attacks by 20%.",
   icon: "/esoui/art/icons/ability_dragonknight_005_b.dds",
-  esoSkillId: 20499,
+  esoAbilityId: 20499,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const chainsOfDevastationDraconic = {
   skillType: "temper-skill-type/active",
   hashPlace: 196,
   createdAt: "2026-05-26T03:13:12.214Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, SingleTarget, Direct, R2 = 1)",
     "<<2>> = Burning (Constant)",

@@ -10,7 +10,7 @@ export const defensiveStance = {
   description:
     "Bolster your defenses, gaining a damage shield that absorbs up to 4958 damage for 6 seconds. This portion of the ability scales off your Max Health.\n\nYou reflect the next harmful direct damage projectile cast at you, once per cast.\n\nWhile slotted and you have a shield equipped, the amount of damage you can block is increased by 10% and the cost of blocking is reduced by 10%.",
   icon: "/esoui/art/icons/ability_1handed_004_a.dds",
-  esoSkillId: 41358,
+  esoAbilityId: 41358,
   isMorph: true,
   learnedLevel: 14,
   lineRankNeeded: 14,
@@ -21,7 +21,7 @@ export const defensiveStance = {
   effects: "jsonl",
   hashPlace: 348,
   createdAt: "2026-05-26T02:38:38.306Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3099 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

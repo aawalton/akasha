@@ -10,7 +10,7 @@ export const aSoulAblaze = {
   description:
     "The will to survive burns bright in your chest.\n\nIncreases your Healing Taken by |cffffff4|r%.",
   icon: "/esoui/art/icons/ability_weapon_001.dds",
-  esoSkillId: 29451,
+  esoAbilityId: 29451,
   isMorph: false,
   learnedLevel: 39,
   lineRankNeeded: 39,
@@ -21,6 +21,6 @@ export const aSoulAblaze = {
   effects: "jsonl",
   hashPlace: 1,
   createdAt: "2026-05-28T16:03:31.580Z",
-  updatedAt: "2026-10-21T12:44:14.586Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 4% (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const shrewdOffering34721 = {
   description:
     "Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff10960|r Health, while draining |cffffff810|r Health from yourself over |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_011_b.dds",
-  esoSkillId: 34721,
+  esoAbilityId: 34721,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const shrewdOffering34721 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1178,
   createdAt: "2026-05-28T16:03:33.773Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 810 (Constant)",

@@ -10,7 +10,7 @@ export const callOfThePack32641 = {
   description:
     "No beast can resist their master's call. Hunt as one and none shall escape.\n\nReduces the cost of remaining in your Werewolf Transformation by |cffffff8|r%, plus |cffffff8|r% for each transformed werewolf or direwolf in your group, including yourself, up to a maximum of |cffffff40|r%.",
   icon: "/esoui/art/icons/ability_werewolf_006.dds",
-  esoSkillId: 32641,
+  esoAbilityId: 32641,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -20,6 +20,6 @@ export const callOfThePack32641 = {
   skillType: "temper-skill-type/passive",
   hashPlace: 179,
   createdAt: "2026-05-28T16:03:31.884Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 8% (Constant)", "<<2>> = 40% (Constant)"],
 } as const satisfies TemperSkill

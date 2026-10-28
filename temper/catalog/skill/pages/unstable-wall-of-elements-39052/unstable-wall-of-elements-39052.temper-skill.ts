@@ -10,7 +10,7 @@ export const unstableWallOfElements39052 = {
   description:
     "Create an unstable elemental barrier in front of you, dealing |cffffff978|r Magic Damage to enemies in the target area every |cffffff1|r second before exploding for an additional |cffffff4406|r Magic Damage.\n\nUnstable Wall of Fire deals additional damage to Burning enemies.\n\nUnstable Wall of Frost costs more, but snares and reduces armor against Chilled enemies and grants damage shields.\n\nUnstable Wall of Storms sets Concussed enemies Off Balance.",
   icon: "/esoui/art/icons/ability_destructionstaff_002b.dds",
-  esoSkillId: 39052,
+  esoAbilityId: 39052,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const unstableWallOfElements39052 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1395,
   createdAt: "2026-05-28T16:03:34.169Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.012521 MaxStat + 0.131473 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, DOT, 10s duration, 1s tick, R2 = 1)",
     "<<2>> = 1 second (Constant)",

@@ -10,7 +10,7 @@ export const vengeancePowerBash = {
   description:
     "Strike an enemy full-force with your shield, dealing |cffffff11257|r Physical Damage. \n\nThis ability's damage is considered Bash damage and interrupts the enemy if they are casting.",
   icon: "/esoui/art/icons/ability_1handed_005.dds",
-  esoSkillId: 240569,
+  esoAbilityId: 240569,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeancePowerBash = {
   skillType: "temper-skill-type/active",
   hashPlace: 1523,
   createdAt: "2026-05-28T16:03:34.356Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10500 Physical Damage (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const expansiveFrostCloak86126 = {
   description:
     "Wrap a thick cloak of ice around you and your grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_warden_001_a.dds",
-  esoSkillId: 86126,
+  esoAbilityId: 86126,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const expansiveFrostCloak86126 = {
   skillType: "temper-skill-type/active",
   hashPlace: 478,
   createdAt: "2026-05-28T16:03:32.419Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5948 (Constant)", "<<2>> = 20 seconds (Constant)"],
 } as const satisfies TemperSkill

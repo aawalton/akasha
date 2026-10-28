@@ -10,7 +10,7 @@ export const shiftingStandard32958 = {
   description:
     "Call down a battle standard, dealing |cffffff3128|r Flame Damage every |cffffff1|r second for |cffffff25|r seconds to enemies and applying Major Defile to them, reducing their healing received and damage shield strength by |cffffff12|r%. \n\nActivating this ability again allows you to move the standard to your location.\n\nAn ally near the standard can activate the Shackle synergy, dealing |cffffff12393|r Flame Damage to enemies in the area and immobilizing them for |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_006_a.dds",
-  esoSkillId: 32958,
+  esoAbilityId: 32958,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const shiftingStandard32958 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1171,
   createdAt: "2026-05-28T16:03:33.761Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0387472 MaxStat + 0.407029 MaxPower - 1.95945 (Ultimate, ratio = 10.50, Dmg, Flame, AOE, DOT, 1s tick, R2 = 1)",
     "<<2>> = 1 second (Constant)",

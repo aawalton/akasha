@@ -10,7 +10,7 @@ export const obsidianShield = {
   description:
     "Call the earth to your defense, granting a damage shield for you and nearby allies that absorbs |cffffff1873|r damage. This portion of the ability scales off your Max Health.\n\nYou also gain Major Mending, increasing your healing done by |cffffff16|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_017.dds",
-  esoSkillId: 29071,
+  esoAbilityId: 29071,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const obsidianShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 862,
   createdAt: "2026-05-28T16:03:33.195Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.08 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 16% (Constant)",

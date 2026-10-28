@@ -10,7 +10,7 @@ export const shieldDiscipline83310 = {
   description:
     "Reinforce your shield, allowing you to automatically block all attacks at no cost for |cffffff8|r seconds.\n\nYour One Hand and Shield non-Ultimate abilities cost nothing while this effect persists.",
   icon: "/esoui/art/icons/ability_1handed_006_b.dds",
-  esoSkillId: 83310,
+  esoAbilityId: 83310,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 50,
@@ -20,6 +20,6 @@ export const shieldDiscipline83310 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1167,
   createdAt: "2026-05-28T16:03:33.752Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

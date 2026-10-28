@@ -10,7 +10,7 @@ export const vengeanceDragonfireBreath = {
   description:
     "Exhale a flaming blast in front of you, dealing |cffffff8820|r Flame Damage to up to 3 enemies and an additional |cffffff7875|r Flame Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_004.dds",
-  esoSkillId: 237615,
+  esoAbilityId: 237615,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceDragonfireBreath = {
   skillType: "temper-skill-type/active",
   hashPlace: 1456,
   createdAt: "2026-05-28T16:03:34.260Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 7875 Flame Damage (Constant)",
     "<<2>> = 7875 Flame Damage (Constant)",

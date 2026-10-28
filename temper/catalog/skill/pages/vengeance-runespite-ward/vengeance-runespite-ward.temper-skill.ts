@@ -10,7 +10,7 @@ export const vengeanceRunespiteWard = {
   description:
     "Like the rune knights of old, summon a shield that absorbs |cffffff14490|r damage for |cffffff6|r seconds.\n\nConsume Crux to heal yourself for |cffffff1508|r Health, scaling off your Max Health, per Crux spent.",
   icon: "/esoui/art/icons/ability_arcanist_008.dds",
-  esoSkillId: 238249,
+  esoAbilityId: 238249,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceRunespiteWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1544,
   createdAt: "2026-05-28T16:03:34.386Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 12600 (Constant)",
     "<<2>> = 6 seconds (Constant)",

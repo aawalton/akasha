@@ -10,7 +10,7 @@ export const woodExtraction = {
   description:
     "Maximizes the chances of extracting Woodworking ingredients and allows the refining of the most powerful resins from raw materials.",
   icon: "/esoui/art/icons/ability_tradecraft_006.dds",
-  esoSkillId: 48180,
+  esoAbilityId: 48180,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,5 +20,5 @@ export const woodExtraction = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1625,
   createdAt: "2026-05-26T02:37:19.414Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

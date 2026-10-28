@@ -10,7 +10,7 @@ export const whirlingBlades = {
   description:
     "Launch yourself into a lethal spin, dealing 1799 Physical Damage to nearby enemies. Deals up to 100% more damage to enemies with less than 50% Health.",
   icon: "/esoui/art/icons/ability_dualwield_005_a.dds",
-  esoSkillId: 40731,
+  esoAbilityId: 40731,
   isMorph: true,
   learnedLevel: 14,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const whirlingBlades = {
   skillType: "temper-skill-type/active",
   hashPlace: 1616,
   createdAt: "2026-05-26T02:38:38.368Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.080032708 MaxStat + 0.84033517 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 100 (Constant)",

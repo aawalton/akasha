@@ -10,7 +10,7 @@ export const quickCloak = {
   description:
     "Envelop yourself in a protective cloak of razors, gaining Major Evasion for 30 seconds, reducing damage from area attacks by 20%. \n\nEvery 2 seconds the shrapnel will pulse, dealing 422 Physical Damage to all enemies within 5 meters.\n\nYou also gain Major Expedition for 4 seconds, increasing your Movement Speed by 30%.",
   icon: "/esoui/art/icons/ability_dualwield_004_a.dds",
-  esoSkillId: 40642,
+  esoAbilityId: 40642,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const quickCloak = {
   skillType: "temper-skill-type/active",
   hashPlace: 950,
   createdAt: "2026-05-26T02:38:38.341Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 30 seconds (Constant)",
     "<<2>> = 20% (Constant)",

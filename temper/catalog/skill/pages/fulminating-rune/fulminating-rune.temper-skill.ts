@@ -10,7 +10,7 @@ export const fulminatingRune = {
   description:
     "Summon an explosive rune under an enemy that etches foes nearby with scrawled glyphs, dealing 4642 Magic Damage over 20 seconds.\n\nThe rune lingers on the initial target for 6 seconds before detonating, dealing 1438 Frost Damage to enemies within 7 meters. Rune detonation cannot be primed with Fulminating Rune again for 6 seconds.\n\nUp to 3 allies near the initial target can activate the Runebreak synergy, dealing 2698 Frost Damage to enemies within 7 meters.",
   icon: "/esoui/art/icons/ability_arcanist_004_b.dds",
-  esoSkillId: 40182988,
+  esoAbilityId: 40182988,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const fulminatingRune = {
   skillType: "temper-skill-type/active",
   hashPlace: 551,
   createdAt: "2026-05-26T03:13:12.333Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0187221 MaxStat + 0.197106 MaxPower + 0.0870345 (Ultimate, ratio = 10.53, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999998)",
     "<<2>> = 20 seconds (Constant)",

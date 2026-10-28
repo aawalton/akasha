@@ -12,7 +12,7 @@ type Places = { [names: string]: number | undefined }
 
 type ScribedSkillPage = Pick<
   TemperScribedSkill,
-  "esoSkillId" | "grimoireId" | "focusScriptId" | "hashPlace"
+  "esoAbilityId" | "grimoireId" | "focusScriptId" | "hashPlace"
 >
 
 let held: Places | undefined

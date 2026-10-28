@@ -10,7 +10,7 @@ export const vengeanceDeathStroke = {
   description:
     "Ravage an enemy with a swift strike, dealing |cffffff11130|r Magic Damage. Deals up to |cffffff200|r% more damage to enemies under |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_nightblade_007.dds",
-  esoSkillId: 237619,
+  esoAbilityId: 237619,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceDeathStroke = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1449,
   createdAt: "2026-05-28T16:03:34.249Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10500 Magic Damage (Constant)",
     "<<2>> = 200 (Constant)",

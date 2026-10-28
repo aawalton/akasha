@@ -10,7 +10,7 @@ export const lethalArrow38685 = {
   description:
     "Plant a masterfully aimed arrow in an enemy's vital spot, dealing |cffffff8635|r Poison Damage and applying the Poisoned status effect.\n\nAlso afflicts enemy with Minor Defile, which reduces their healing received and damage shield strength by |cffffff6|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_bow_001_a.dds",
-  esoSkillId: 38685,
+  esoAbilityId: 38685,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const lethalArrow38685 = {
   skillType: "temper-skill-type/active",
   hashPlace: 736,
   createdAt: "2026-05-28T16:03:32.959Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.106915 MaxStat + 1.12261 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Poison, SingleTarget, Direct, 0.8s cooldown, R2 = 1)",
     "<<2>> = Minor Defile (Constant)",

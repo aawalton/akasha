@@ -10,7 +10,7 @@ export const expungeAndModify = {
   description:
     "Embrace the power of death, removing up to 2 negative effects from yourself and restoring 515 Magicka and Stamina for each negative effect removed.\n\nWhile slotted, the cost of all your abilities are reduced by 3%.",
   icon: "/esoui/art/icons/ability_necromancer_014_b.dds",
-  esoSkillId: 40117940,
+  esoAbilityId: 40117940,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -21,6 +21,6 @@ export const expungeAndModify = {
   effects: "jsonl",
   hashPlace: 489,
   createdAt: "2026-05-26T03:13:12.318Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2 (Constant)", "<<2>> = 515 (Constant)", "<<3>> = 3% (Constant)"],
 } as const satisfies TemperSkill

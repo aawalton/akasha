@@ -10,7 +10,7 @@ export const soulTrap = {
   description:
     "Lay claim to an enemy's soul, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.\n\nFills an empty Soul Gem if an affected enemy dies.",
   icon: "/esoui/art/icons/ability_otherclass_001.dds",
-  esoSkillId: 26768,
+  esoAbilityId: 26768,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const soulTrap = {
   skillType: "temper-skill-type/active",
   hashPlace: 1240,
   createdAt: "2026-05-28T16:03:33.886Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0182227 MaxStat + 0.19082 MaxPower - 1.34458 (Ultimate, ratio = 10.47, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999996)",
     "<<2>> = 20 seconds (Constant)",

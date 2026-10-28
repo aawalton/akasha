@@ -10,7 +10,7 @@ export const inspiredScholarship185842 = {
   description:
     "Etch a series of runes onto your weapon that pulse with power once every |cffffff3|r seconds. Each pulse enhances your class abilities, and striking an enemy with one deals an additional |cffffff3253|r Magic Damage and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality and Major Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%.",
   icon: "/esoui/art/icons/ability_arcanist_005_a.dds",
-  esoSkillId: 185842,
+  esoAbilityId: 185842,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const inspiredScholarship185842 = {
   skillType: "temper-skill-type/active",
   hashPlace: 692,
   createdAt: "2026-05-28T16:03:32.866Z",
-  updatedAt: "2026-10-21T09:58:31.044Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
     "<<2>> = 0.040287 MaxStat + 0.4230135 MaxPower (Ultimate, Dmg, Magic, SingleTarget, Direct, Melee, rank IV)",

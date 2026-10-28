@@ -10,7 +10,7 @@ export const traumaticBurns = {
   description:
     "Fire cares not for love, or coin, or creed. It consumes.\n\nDealing direct damage with an Ardent Flame ability causes the target to take |cffffff5|r% increased Flame Damage and reduces their Movement Speed by |cffffff15|r% for |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_023.dds",
-  esoSkillId: 29430,
+  esoAbilityId: 29430,
   isMorph: false,
   learnedLevel: 14,
   lineRankNeeded: 14,
@@ -20,6 +20,6 @@ export const traumaticBurns = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1364,
   createdAt: "2026-05-28T16:03:34.110Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5% (Constant)", "<<2>> = 15% (Constant)", "<<3>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

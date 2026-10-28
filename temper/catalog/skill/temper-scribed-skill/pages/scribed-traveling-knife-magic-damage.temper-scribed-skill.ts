@@ -10,7 +10,7 @@ export const scribedTravelingKnifeMagicDamage = {
   description:
     "Deals 928 Magic Damage to an enemy and 1393 Magic Damage to enemies between you and them on return.",
   icon: "/esoui/art/icons/ability_grimoire_dualwield.dds",
-  esoSkillId: 217473,
+  esoAbilityId: 217473,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedTravelingKnifeMagicDamage = {
   grimoireId: "temper-grimoire/traveling-knife",
   hashPlace: 1706,
   createdAt: "2026-05-26T13:19:53.310Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

@@ -10,7 +10,7 @@ export const darkCloak25377 = {
   description:
     "Shroud yourself in protective shadow to heal for |cffffff1072|r Health every |cffffff1|r second, over |cffffff3|r seconds, increasing by an additional |cffffff150|r% while Bracing. This portion of the ability scales off your Max Health.\n\nWhile slotted on either bar, you gain Minor Protection, reducing your damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_nightblade_004_b.dds",
-  esoSkillId: 25377,
+  esoAbilityId: 25377,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const darkCloak25377 = {
   skillType: "temper-skill-type/active",
   hashPlace: 303,
   createdAt: "2026-05-28T16:03:32.080Z",
-  updatedAt: "2026-10-21T09:16:37.779Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05165 Health (Health, RankMod(1), Heal, SingleTarget, DOT, 3s duration, 1s tick, per tick, rank IV)",
     "<<2>> = 1 second (Constant)",

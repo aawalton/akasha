@@ -10,7 +10,7 @@ export const summonersArmor = {
   description:
     "Wrap yourself in hardened bone, granting you Major Resolve and Minor Resolve for 30 seconds, increasing your Physical Resistance and Spell Resistance by 5948 and 2974.\n\nWhile active, reduce the cost of Blastbones, Skeletal Mage, and Spirit Mender by 15%.\n\nIf cast during combat, you can cast a corpse consuming ability on yourself. This effect can occur once every 10 seconds.",
   icon: "/esoui/art/icons/ability_necromancer_008_b.dds",
-  esoSkillId: 40118244,
+  esoAbilityId: 40118244,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const summonersArmor = {
   skillType: "temper-skill-type/active",
   hashPlace: 1302,
   createdAt: "2026-05-26T03:13:12.522Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Resolve (Constant)",
     "<<2>> = Minor Resolve (Constant)",

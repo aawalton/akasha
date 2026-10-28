@@ -9,7 +9,7 @@ export const imperialMettle = {
   baseName: "Imperial Mettle",
   description: "Increases your Max Stamina by 2000.",
   icon: "/esoui/art/icons/ability_dragonknight_021.dds",
-  esoSkillId: 45280,
+  esoAbilityId: 45280,
   isMorph: false,
   learnedLevel: 40,
   lineRankNeeded: 40,
@@ -21,6 +21,6 @@ export const imperialMettle = {
   effects: "jsonl",
   hashPlace: 668,
   createdAt: "2026-05-26T03:18:02.189Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2000 (Constant)"],
 } as const satisfies TemperSkill

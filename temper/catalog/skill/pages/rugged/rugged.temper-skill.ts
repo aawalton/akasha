@@ -9,7 +9,7 @@ export const rugged = {
   baseName: "Rugged",
   description: "Increases your Physical and Spell Resistance by 2600.",
   icon: "/esoui/art/icons/ability_dragonknight_020.dds",
-  esoSkillId: 45306,
+  esoAbilityId: 45306,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const rugged = {
   effects: "jsonl",
   hashPlace: 1087,
   createdAt: "2026-05-26T03:18:02.206Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2600 (Constant)"],
 } as const satisfies TemperSkill

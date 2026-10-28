@@ -10,7 +10,7 @@ export const bloodMist38965 = {
   description:
     "Dissolve into a bloody mist, causing the next |cffffff3|r projectiles to deal no damage to you for |cffffff1|r second while you dash forward and reappear at your target location after a short duration.\n\nUpon activation you drain the blood of those around you for |cffffff20|r seconds, dealing |cffffff1516|r Magic Damage every |cffffff2|r seconds to enemies and healing you for |cffffff46|r% of the damage caused.\n\nCasting again within |cffffff4|r seconds costs |cffffff33|r% more Magicka.",
   icon: "/esoui/art/icons/ability_u26_vampire_05_b.dds",
-  esoSkillId: 38965,
+  esoAbilityId: 38965,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 9,
@@ -20,7 +20,7 @@ export const bloodMist38965 = {
   skillType: "temper-skill-type/active",
   hashPlace: 122,
   createdAt: "2026-05-28T16:03:31.792Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1 second (Constant)",
     "<<2>> = 20 seconds (Constant)",

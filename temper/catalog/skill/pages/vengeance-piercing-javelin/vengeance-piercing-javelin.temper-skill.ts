@@ -10,7 +10,7 @@ export const vengeancePiercingJavelin = {
   description:
     "Hurl your spear at an enemy with godlike strength knocking them back |cffffff15|r meters.\n\nThis ability cannot be blocked.",
   icon: "/esoui/art/icons/ability_templar_returning_spear.dds",
-  esoSkillId: 237863,
+  esoAbilityId: 237863,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeancePiercingJavelin = {
   skillType: "temper-skill-type/active",
   hashPlace: 1521,
   createdAt: "2026-05-28T16:03:34.353Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15 meters (Constant)"],
 } as const satisfies TemperSkill

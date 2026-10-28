@@ -10,7 +10,7 @@ export const soothingSpores85863 = {
   description:
     "Seed a large area of mushrooms in front of you, healing you and your allies for |cffffff8489|r Health.\n\nHeals for |cffffff15|r% more on allies that are within |cffffff8|r meters of you.",
   icon: "/esoui/art/icons/ability_warden_008_a.dds",
-  esoSkillId: 85863,
+  esoAbilityId: 85863,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const soothingSpores85863 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1221,
   createdAt: "2026-05-28T16:03:33.850Z",
-  updatedAt: "2026-10-21T09:16:37.779Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1162641 MaxStat + 1.219973 MaxPower (Ultimate, RankMod(1), Heal, AOE, Direct, rank IV)",
     "<<2>> = 15% (Constant)",

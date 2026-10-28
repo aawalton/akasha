@@ -10,7 +10,7 @@ export const splinteredSecrets = {
   description:
     "What they don't know can kill them. Increase your Physical and Spell Penetration by 1240 per Herald of the Tome ability slotted.\n\nCurrent bonus: 0.",
   icon: "/esoui/art/icons/passive_arcanist_01.dds",
-  esoSkillId: 184887,
+  esoAbilityId: 184887,
   isMorph: false,
   learnedLevel: 39,
   lineRankNeeded: 39,
@@ -22,7 +22,7 @@ export const splinteredSecrets = {
   effects: "jsonl",
   hashPlace: 1262,
   createdAt: "2026-05-26T03:13:12.513Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1240 (Constant)",
     "<<2>> = 1240 HeraldoftheTome (Herald of the Tome Skills Slotted, SingleTarget, Direct, R2 = 1)",

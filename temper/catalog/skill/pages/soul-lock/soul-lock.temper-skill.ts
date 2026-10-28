@@ -9,7 +9,7 @@ export const soulLock = {
   baseName: "Soul Lock",
   description: "Killing an enemy has a 10% chance of automatically filling an empty Soul Gem.",
   icon: "/esoui/art/icons/ability_sorcerer_043.dds",
-  esoSkillId: 45580,
+  esoAbilityId: 45580,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 3,
@@ -21,5 +21,5 @@ export const soulLock = {
   effects: "jsonl",
   hashPlace: 1226,
   createdAt: "2026-05-26T03:25:55.820Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

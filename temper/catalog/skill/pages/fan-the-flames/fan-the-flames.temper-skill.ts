@@ -10,7 +10,7 @@ export const fanTheFlames = {
   description:
     "Tend to your garden of flame, that it may flourish.\n\nIncreases your chances of applying the Burning status effect by |cffffff25|r% and its damage done by |cffffff12|r%. These values are influenced by the number of Dragonknight abilities slotted.",
   icon: "/esoui/art/icons/ability_dragonknight_028.dds",
-  esoSkillId: 29439,
+  esoAbilityId: 29439,
   isMorph: false,
   learnedLevel: 22,
   lineRankNeeded: 22,
@@ -20,6 +20,6 @@ export const fanTheFlames = {
   skillType: "temper-skill-type/passive",
   hashPlace: 496,
   createdAt: "2026-05-28T16:03:32.445Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = Burning (Constant)", "<<2>> = 25% (Constant)", "<<3>> = 12% (Constant)"],
 } as const satisfies TemperSkill

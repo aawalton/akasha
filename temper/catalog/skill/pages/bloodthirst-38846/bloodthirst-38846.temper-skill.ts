@@ -10,7 +10,7 @@ export const bloodthirst38846 = {
   description:
     "Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff2398|r Bleed Damage and heal you for |cffffff34|r% of the damage caused.",
   icon: "/esoui/art/icons/ability_dualwield_002_a.dds",
-  esoSkillId: 38846,
+  esoAbilityId: 38846,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const bloodthirst38846 = {
   skillType: "temper-skill-type/active",
   hashPlace: 132,
   createdAt: "2026-05-28T16:03:31.808Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0297 MaxStat + 0.31184 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Bleed, SingleTarget, Direct, Melee, 0.8s duration, 0.266s tick, R2 = 1)",
     "<<2>> = 33% (Constant)",

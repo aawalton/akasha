@@ -8,9 +8,9 @@ export const greenKeepersHide = {
   key: "green-keepers-hide",
   description:
     "The twisting of seasons has tempered your will.\n\nReduce your damage taken by 3% for every status effect active on your attacker, up to a maximum of 15%.",
-  esoSkillId: 263522,
+  esoAbilityId: 263522,
   class: "temper-class/warden",
   hashPlace: 33,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

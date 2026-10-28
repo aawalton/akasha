@@ -10,7 +10,7 @@ export const minerHireling = {
   description:
     "A hireling will send you even more blacksmithing materials and possibly other items every day. You have a greater chance at better quality materials.",
   icon: "/esoui/art/icons/ability_smith_006.dds",
-  esoSkillId: 48171,
+  esoAbilityId: 48171,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 3,
@@ -20,5 +20,5 @@ export const minerHireling = {
   skillType: "temper-skill-type/passive",
   hashPlace: 829,
   createdAt: "2026-05-26T02:37:19.398Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

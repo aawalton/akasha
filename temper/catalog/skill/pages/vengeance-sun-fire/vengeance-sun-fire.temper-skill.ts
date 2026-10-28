@@ -10,7 +10,7 @@ export const vengeanceSunFire = {
   description:
     "Blast an enemy with a charge of radiant heat, dealing |cffffff17008|r Flame Damage over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_templar_sun_fire.dds",
-  esoSkillId: 237949,
+  esoAbilityId: 237949,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceSunFire = {
   skillType: "temper-skill-type/active",
   hashPlace: 1569,
   createdAt: "2026-05-28T16:03:34.422Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 17008 Flame Damage (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

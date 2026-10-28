@@ -10,7 +10,7 @@ export const brutalPounce39105 = {
   description:
     "Pounce on an enemy with primal fury, dealing |cffffff5350|r Bleed Damage and applying the Hemorrhaging status effect to all nearby enemies.\n\nWhen you are |cffffff7|r meters or closer this ability becomes Brutal Carnage, which causes you to rip into all enemies in front of you to deal |cffffff5362|r Bleed Damage over |cffffff12|r seconds, dealing up to |cffffff450|r% more damage to enemies under |cffffff100|r% Health. The duration increases by |cffffff10|r seconds if cast on the same enemy multiple times.",
   icon: "/esoui/art/icons/u50_ability_werewolf_brutal_pounce.dds",
-  esoSkillId: 39105,
+  esoAbilityId: 39105,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const brutalPounce39105 = {
   skillType: "temper-skill-type/active",
   hashPlace: 168,
   createdAt: "2026-05-28T16:03:31.859Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.080574 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Bleed, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = Hemorrhaging (Constant)",

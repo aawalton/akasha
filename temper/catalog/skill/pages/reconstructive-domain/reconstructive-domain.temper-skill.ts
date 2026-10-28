@@ -10,7 +10,7 @@ export const reconstructiveDomain = {
   description:
     "Draw forth your tome and invoke the leviathanum of the Abyssal Sea to conjure a vortex of eldritch power. Entering this vortex grants you and your allies Minor Courage, Minor Fortitude, Minor Intellect, and Minor Endurance, increasing your Weapon and Spell Damage by 215 and your Health, Magicka, and Stamina Recovery by 15%.\n\nThe vortex also heals you and your allies for 4631 Health over 20 seconds.",
   icon: "/esoui/art/icons/ability_arcanist_017_b.dds",
-  esoSkillId: 40186234,
+  esoAbilityId: 40186234,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const reconstructiveDomain = {
   skillType: "temper-skill-type/active",
   hashPlace: 998,
   createdAt: "2026-05-26T03:13:12.449Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Courage (Constant)",
     "<<2>> = Minor Fortitude (Constant)",

@@ -10,7 +10,7 @@ export const wellspringOfTheAbyss = {
   description:
     "Apocryphal knowledge bubbles up from the depths of your psyche, increasing your Health, Magicka, and Stamina Recovery by 81 for each Soldier of Apocrypha ability slotted.\n\nCurrent bonus: 0.",
   icon: "/esoui/art/icons/passive_arcanist_07.dds",
-  esoSkillId: 185036,
+  esoAbilityId: 185036,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -22,7 +22,7 @@ export const wellspringOfTheAbyss = {
   effects: "jsonl",
   hashPlace: 1612,
   createdAt: "2026-05-26T03:13:12.553Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 81 (Constant)",
     "<<2>> = 81 SoldierofApocrypha (Soldier of Apocrypha Skills Slotted, SingleTarget, Direct, R2 = 1)",

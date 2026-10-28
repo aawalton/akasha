@@ -10,7 +10,7 @@ export const vengeanceDragonknightStandard = {
   description:
     "Call down a battle standard after |cffffff1|r second, dealing |cffffff17640|r Flame Damage to up to 3 enemies and applying Major Defile to them for |cffffff15|r seconds, reducing their healing received and damage shield strength by |cffffff12|r%.",
   icon: "/esoui/art/icons/ability_dragonknight_006.dds",
-  esoSkillId: 237627,
+  esoAbilityId: 237627,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceDragonknightStandard = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1457,
   createdAt: "2026-05-28T16:03:34.261Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1 second (Constant)",
     "<<2>> = 15750 Flame Damage (Constant)",

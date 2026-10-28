@@ -9,7 +9,7 @@ export const scribedTrampleMagicDamage = {
   baseName: "Trample",
   description: "Deals 2876 Magic Damage to all enemies.",
   icon: "/esoui/art/icons/ability_grimoire_assault.dds",
-  esoSkillId: 220542,
+  esoAbilityId: 220542,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedTrampleMagicDamage = {
   hashPlace: 1700,
   equations: [],
   createdAt: "2026-05-26T13:19:53.304Z",
-  updatedAt: "2026-10-21T05:44:15.210Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

@@ -9,7 +9,7 @@ export const restoringSpirit = {
   baseName: "Restoring Spirit",
   description: "Reduces the Health, Magicka, Stamina, and Ultimate costs of your abilities by 5%.",
   icon: "/esoui/art/icons/ability_templar_014.dds",
-  esoSkillId: 45212,
+  esoAbilityId: 45212,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const restoringSpirit = {
   effects: "jsonl",
   hashPlace: 1056,
   createdAt: "2026-05-26T03:13:12.464Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5% (Constant)"],
 } as const satisfies TemperSkill

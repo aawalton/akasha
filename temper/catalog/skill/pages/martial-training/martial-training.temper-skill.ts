@@ -10,7 +10,7 @@ export const martialTraining = {
   description:
     "Reduces the cost of your weapon abilities by 8%.\n\nReduces the effectiveness of snares applied to you by 15%.",
   icon: "/esoui/art/icons/ability_templar_002.dds",
-  esoSkillId: 45278,
+  esoAbilityId: 45278,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -22,6 +22,6 @@ export const martialTraining = {
   effects: "jsonl",
   hashPlace: 802,
   createdAt: "2026-05-26T03:18:02.193Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 8% (Constant)", "<<2>> = 15% (Constant)"],
 } as const satisfies TemperSkill

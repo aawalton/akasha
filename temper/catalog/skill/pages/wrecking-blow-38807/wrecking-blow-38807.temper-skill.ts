@@ -10,7 +10,7 @@ export const wreckingBlow38807 = {
   description:
     "Slam an enemy with an upward swing, dealing |cffffff9595|r Physical Damage.\n\nGrants you Major Berserk and Empower for |cffffff3|r seconds, increasing damage done by |cffffff10|r% and increasing damage done with Heavy Attacks against monsters by |cffffff70|r%.",
   icon: "/esoui/art/icons/ability_2handed_001_b.dds",
-  esoSkillId: 38807,
+  esoAbilityId: 38807,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const wreckingBlow38807 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1629,
   createdAt: "2026-05-28T16:03:34.532Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.118795 MaxStat + 1.24735 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, 0.5s cooldown, R2 = 1)",
     "<<2>> = Major Berserk (Constant)",

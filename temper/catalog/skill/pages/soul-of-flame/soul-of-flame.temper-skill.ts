@@ -10,7 +10,7 @@ export const soulOfFlame = {
   description:
     "Let the fire within draw heat to your soul, restoring |cffffff15|r% of your missing Magicka and Stamina every |cffffff2|r seconds over |cffffff4|r seconds.\n\nMuch of this heat is drawn from enemies around you. Those that are casting are interrupted, set Off Balance, and stunned for |cffffff2|r seconds.\n\nWhen this ability completes, you release this heat as a blast of fire that deals |cffffff10138|r Flame Damage to nearby enemies.",
   icon: "/esoui/art/icons/ability_dragonknight_012_a.dds",
-  esoSkillId: 32792,
+  esoAbilityId: 32792,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const soulOfFlame = {
   skillType: "temper-skill-type/active",
   hashPlace: 1227,
   createdAt: "2026-05-28T16:03:33.864Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 12% (Constant)",
     "<<2>> = 2 seconds (Constant)",

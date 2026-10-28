@@ -10,7 +10,7 @@ export const resonatingGlyphic = {
   description:
     "Summon an Apocryphal glyphic while in combat, which you and your allies can damage. The glyphic spawns at 70% Health and grows stronger the more you damage it. \n\nThe glyphic grants up to 200 Weapon and Spell Damage and heals you and your allies around it for up to 958 Health every 1 second in proportion to its Health.",
   icon: "/esoui/art/icons/ability_arcanist_018_b.dds",
-  esoSkillId: 40193558,
+  esoAbilityId: 40193558,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const resonatingGlyphic = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1045,
   createdAt: "2026-05-26T03:13:12.462Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.04268356 MaxStat + 0.44817738 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, Heal, AOE, Direct, Melee, 1s tick, R2 = 1)",
     "<<2>> = 1 second (Constant)",

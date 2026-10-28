@@ -10,7 +10,7 @@ export const grimFocus = {
   description:
     "When slotted on either bar, you gain Major Prophecy and Major Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.\n\nYour Light and Heavy Attacks now generate a stack of Grim Focus, up to |cffffff10|r times. Fully-charged Heavy Attacks grant two stacks.\n\nWhen at |cffffff5|r or more stacks, you can consume |cffffff5|r to fire a spectral arrow to deal |cffffff14539|r Magic Damage and heal for |cffffff34|r% of the damage dealt, if you are in melee range.",
   icon: "/esoui/art/icons/ability_nightblade_005.dds",
-  esoSkillId: 61902,
+  esoAbilityId: 61902,
   isMorph: false,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const grimFocus = {
   skillType: "temper-skill-type/active",
   hashPlace: 581,
   createdAt: "2026-05-28T16:03:32.658Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Savagery (Constant)",
     "<<2>> = 12% (Constant)",

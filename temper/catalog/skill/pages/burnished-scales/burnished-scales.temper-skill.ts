@@ -10,7 +10,7 @@ export const burnishedScales = {
   description:
     "A Dragon's scales will turn aside arrow, fire, and blade.\n\nIncreases the amount of damage you block by |cffffff4|r%.",
   icon: "/esoui/art/icons/ability_dragonknight_020.dds",
-  esoSkillId: 29455,
+  esoAbilityId: 29455,
   isMorph: false,
   learnedLevel: 8,
   lineRankNeeded: 8,
@@ -21,6 +21,6 @@ export const burnishedScales = {
   effects: "jsonl",
   hashPlace: 176,
   createdAt: "2026-05-28T16:03:31.878Z",
-  updatedAt: "2026-10-21T03:25:32.521Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 4% (Constant)"],
 } as const satisfies TemperSkill

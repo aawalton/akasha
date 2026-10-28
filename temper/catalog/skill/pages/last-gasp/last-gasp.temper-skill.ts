@@ -9,7 +9,7 @@ export const lastGasp = {
   baseName: "Last Gasp",
   description: "Increase your Max Health by 2412.",
   icon: "/esoui/art/icons/passive_necromancer_008.dds",
-  esoSkillId: 116272,
+  esoAbilityId: 116272,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const lastGasp = {
   effects: "jsonl",
   hashPlace: 728,
   createdAt: "2026-05-26T03:13:12.376Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2412 (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const boundAegis24163 = {
   description:
     "Protect yourself with the power of Oblivion, creating a suit of Daedric mail that increases your block mitigation by |cffffff50|r% for |cffffff3|r seconds. The duration is based on your combined Physical and Spell Resistance.\n\nWhen slotted on either bar, you gain Minor Protection and Minor Resolve, reducing your damage taken by |cffffff5|r% and increasing your Armor by |cffffff2974|r.",
   icon: "/esoui/art/icons/ability_sorcerer_bound_aegis.dds",
-  esoSkillId: 24163,
+  esoAbilityId: 24163,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const boundAegis24163 = {
   skillType: "temper-skill-type/active",
   hashPlace: 153,
   createdAt: "2026-05-28T16:03:31.835Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 47% (Constant)",
     "<<2>> = 1.32E-5 Health + 2.78104 (Health, SingleTarget, Direct, R2 = 0.5958)",

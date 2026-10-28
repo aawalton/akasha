@@ -10,7 +10,7 @@ export const scry = {
   description:
     "Adds the selected contiguous group of facets to your area of control.\n\nConsumes 1 turn.",
   icon: "/esoui/art/icons/ability_scrying_01.dds",
-  esoSkillId: 139942,
+  esoAbilityId: 139942,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,5 +20,5 @@ export const scry = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1143,
   createdAt: "2026-05-26T03:25:55.814Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

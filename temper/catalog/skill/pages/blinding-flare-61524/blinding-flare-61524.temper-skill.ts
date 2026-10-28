@@ -10,7 +10,7 @@ export const blindingFlare61524 = {
   description:
     "Launch a blinding flare, revealing stealthed and invisible enemies in the target area for |cffffff5|r seconds. Exposed enemies are stunned for |cffffff4|r seconds, and cannot return to stealth or invisibility for |cffffff4|r seconds.\n\nWhile slotted you gain Major Protection, reducing your damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_ava_scorching_flare.dds",
-  esoSkillId: 61524,
+  esoAbilityId: 61524,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -20,7 +20,7 @@ export const blindingFlare61524 = {
   skillType: "temper-skill-type/active",
   hashPlace: 112,
   createdAt: "2026-05-28T16:03:31.775Z",
-  updatedAt: "2026-10-21T01:40:37.191Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
     "<<2>> = 4 seconds (Constant)",

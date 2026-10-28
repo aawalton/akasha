@@ -10,7 +10,7 @@ export const scribedWieldSoulHealing = {
   description:
     "Heals you or an ally for 3485 Health. Beneficial Signature and Affix scripts apply to you or an ally.",
   icon: "/esoui/art/icons/ability_grimoire_soulmagic1.dds",
-  esoSkillId: 216813,
+  esoAbilityId: 216813,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedWieldSoulHealing = {
   grimoireId: "temper-grimoire/wield-soul",
   hashPlace: 1734,
   createdAt: "2026-05-26T13:19:53.336Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

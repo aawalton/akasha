@@ -10,7 +10,7 @@ export const vengeanceVigor = {
   description:
     "Let loose a battle cry, instilling you with resolve and healing for |cffffff28916|r Health over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_ava_vigor.dds",
-  esoSkillId: 244496,
+  esoAbilityId: 244496,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceVigor = {
   skillType: "temper-skill-type/active",
   hashPlace: 1583,
   createdAt: "2026-05-28T16:03:34.442Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 28348 (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

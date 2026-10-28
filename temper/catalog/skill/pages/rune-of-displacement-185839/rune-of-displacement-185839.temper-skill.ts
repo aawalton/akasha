@@ -10,7 +10,7 @@ export const runeOfDisplacement185839 = {
   description:
     "Summon a discharging rune under an enemy. After |cffffff2|r seconds the rune pulses, pulling in foes between 2 to 10 meters and etching them with scrawled glyphs that deal |cffffff15730|r Magic Damage over |cffffff18|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff9914|r Frost Damage to enemies within 7 meters.",
   icon: "/esoui/art/icons/ability_arcanist_004_a.dds",
-  esoSkillId: 185839,
+  esoAbilityId: 185839,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const runeOfDisplacement185839 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1097,
   createdAt: "2026-05-28T16:03:33.630Z",
-  updatedAt: "2026-10-21T12:52:42.119Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2 seconds (Constant)",
     "<<2>> = 0.02134 MaxStat + 0.224 MaxPower (Ultimate, Dmg, Magic, SingleTarget, DOT, 18s duration, 2s tick, ticks on application, single precision)",

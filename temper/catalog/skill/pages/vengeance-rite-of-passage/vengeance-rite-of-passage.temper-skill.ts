@@ -10,7 +10,7 @@ export const vengeanceRiteOfPassage = {
   description:
     "Channel the grace of the gods, healing you or 3 nearby allies for |cffffff12852|r Health every |cffffff1|r second for |cffffff3|r seconds.\n\nWhile channeling this ability you gain immunity to all disabling effects.",
   icon: "/esoui/art/icons/ability_templar_rite_of_passage.dds",
-  esoSkillId: 237994,
+  esoAbilityId: 237994,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceRiteOfPassage = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1539,
   createdAt: "2026-05-28T16:03:34.378Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 12600 (Constant)",
     "<<2>> = 1 second (Constant)",

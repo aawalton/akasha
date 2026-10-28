@@ -10,7 +10,7 @@ export const destructiveReach = {
   description:
     "Devastate an enemy with an enhanced charge from your staff, dealing 1161 Magic Damage and an additional 3470 Magic Damage over 20 seconds.\n\nThe initial hit always applies the element's status effect.",
   icon: "/esoui/art/icons/ability_destructionstaff_005_b.dds",
-  esoSkillId: 41047,
+  esoAbilityId: 41047,
   isMorph: true,
   learnedLevel: 14,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const destructiveReach = {
   skillType: "temper-skill-type/active",
   hashPlace: 359,
   createdAt: "2026-05-26T02:38:38.309Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.015495 MaxStat + 0.162697 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, SingleTarget, DOT, 18s duration, 2s tick, R2 = 1)",

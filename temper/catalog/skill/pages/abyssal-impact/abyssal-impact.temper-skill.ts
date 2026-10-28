@@ -10,7 +10,7 @@ export const abyssalImpact = {
   description:
     "Infuse your arm with abyssal magic to form tentacles that lash out at your foes, dealing |cffffff7125|r Physical Damage. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
   icon: "/esoui/art/icons/ability_arcanist_003.dds",
-  esoSkillId: 185817,
+  esoAbilityId: 185817,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const abyssalImpact = {
   skillType: "temper-skill-type/active",
   hashPlace: 8,
   createdAt: "2026-05-28T16:03:31.591Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.08625 MaxStat + 0.905625 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, AOE, Direct, Melee, 0.3s cooldown, R2 = 1)",
     "<<2>> = 3 seconds (Constant)",

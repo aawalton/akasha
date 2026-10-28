@@ -10,7 +10,7 @@ export const scribedSoulBurstDamageShield = {
   description:
     "Grants you and your allies a damage shield that absorbs 3718 damage for 6 seconds, scaling off the higher of your Max Health or Magicka and capped at 55% of your Max Health. Beneficial Signature and Affix scripts apply to you or an ally.",
   icon: "/esoui/art/icons/ability_grimoire_soulmagic2.dds",
-  esoSkillId: 217460,
+  esoAbilityId: 217460,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedSoulBurstDamageShield = {
   grimoireId: "temper-grimoire/soul-burst",
   hashPlace: 1678,
   createdAt: "2026-05-26T13:19:53.284Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

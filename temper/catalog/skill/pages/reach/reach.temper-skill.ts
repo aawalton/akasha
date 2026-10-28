@@ -10,7 +10,7 @@ export const reach = {
   description:
     "Increases the range of long-range abilities by 5 meters while near a keep or outpost.\n\nAny ability with a range greater than 28 meters is affected.",
   icon: "/esoui/art/icons/ability_weapon_001.dds",
-  esoSkillId: 45621,
+  esoAbilityId: 45621,
   isMorph: false,
   learnedLevel: 10,
   lineRankNeeded: 10,
@@ -22,6 +22,6 @@ export const reach = {
   effects: "jsonl",
   hashPlace: 989,
   createdAt: "2026-05-26T03:25:55.805Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5 meters (Constant)"],
 } as const satisfies TemperSkill

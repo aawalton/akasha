@@ -10,7 +10,7 @@ export const runeguardOfStillWaters183401 = {
   description:
     "Cast forth a complex rune granting you and your group members Minor Resolve for |cffffff20|r seconds, increasing your Armor by |cffffff2974|r. After |cffffff1|r second, the spellweave immobilizes enemies within 7 meters for |cffffff3|r seconds.\n\nYou gain Minor Protection for |cffffff20|r seconds, reducing your damage taken by |cffffff5|r%.\n\nThe first time you are damaged while below 50% Health, the Minor Protection is consumed to heal you for |cffffff6033|r Health, scaling off your Max Health.",
   icon: "/esoui/art/icons/ability_arcanist_010_a.dds",
-  esoSkillId: 183401,
+  esoAbilityId: 183401,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const runeguardOfStillWaters183401 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1108,
   createdAt: "2026-05-28T16:03:33.648Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Resolve (Constant)",
     "<<2>> = 20 seconds (Constant)",

@@ -10,7 +10,7 @@ export const darkFlare = {
   description:
     "Conjure a ball of solar energy to heave at an enemy, dealing 2483 Magic Damage and increasing your damage done with class abilities by 5% for 10 seconds.\n\nAfflicts the target and enemies within 8 meters with Major Defile, reducing their healing received and damage shield strength by 12% for 4 seconds.\n \nAlso grants you Empower for 10 seconds, increasing the damage of your Heavy Attacks against monsters by 70%.",
   icon: "/esoui/art/icons/ability_templar_dark_flare.dds",
-  esoSkillId: 24147,
+  esoAbilityId: 24147,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const darkFlare = {
   skillType: "temper-skill-type/active",
   hashPlace: 309,
   createdAt: "2026-05-26T03:13:12.251Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.110443195 MaxStat + 1.15965613 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Magic, SingleTarget, Direct, 0.8s cooldown, R2 = 1)",
     "<<2>> = 5% (Constant)",

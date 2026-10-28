@@ -51,7 +51,7 @@ export const extractSkills: PipelineStage = (build, context) => {
         id: `skill-${skill.id}-${barId}`,
         categoryId: "skills",
         skillId: skill.id,
-        esoSkillId: skill.esoSkillId,
+        esoAbilityId: skill.esoAbilityId,
         skillName: skill.name,
         skillLineId: skill.skillLineId,
         skillType: skill.skillType,

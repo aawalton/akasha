@@ -10,7 +10,7 @@ export const slayer = {
   description:
     "Increases your Weapon and Spell Damage by 3% for each Fighters Guild ability slotted.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_dragonknight_025.dds",
-  esoSkillId: 45596,
+  esoAbilityId: 45596,
   isMorph: false,
   learnedLevel: 7,
   lineRankNeeded: 7,
@@ -22,7 +22,7 @@ export const slayer = {
   effects: "jsonl",
   hashPlace: 1206,
   createdAt: "2026-05-26T02:59:07.665Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3% (Constant)",
     "<<2>> = 3 FightersGuild (Fighters Guild Skills Slotted, SingleTarget, Direct, R2 = 1)",

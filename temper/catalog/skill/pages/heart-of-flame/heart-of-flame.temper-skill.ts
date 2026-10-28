@@ -10,7 +10,7 @@ export const heartOfFlame = {
   description:
     "Let the fire within draw heat to your heart, restoring |cffffff15|r% of your missing Health and |cffffff15|r% of your missing Magicka and Stamina every |cffffff2|r seconds over |cffffff4|r seconds.\n\nWhen this ability completes, you release this heat as a blast of fire that deals |cffffff7361|r Flame Damage to nearby enemies.",
   icon: "/esoui/art/icons/ability_dragonknight_012_b.dds",
-  esoSkillId: 32785,
+  esoAbilityId: 32785,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const heartOfFlame = {
   skillType: "temper-skill-type/active",
   hashPlace: 617,
   createdAt: "2026-05-28T16:03:32.729Z",
-  updatedAt: "2026-10-21T06:23:05.681Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 12% (Constant)",
     "<<2>> = 0.12802265 Health (Health, RankMod(1), Heal, SingleTarget, Direct, 2s tick)",

@@ -10,7 +10,7 @@ export const vengeanceBerserkerStrike = {
   description:
     "Strike at an enemy with a vicious blow, dealing |cffffff17640|r Physical Damage to them and up to 2 nearby enemies.\n\nThis attack cannot be mitigated and grants you |cffffff22081|r Physical and Spell Resistance for |cffffff12|r seconds.",
   icon: "/esoui/art/icons/ability_2handed_006.dds",
-  esoSkillId: 240494,
+  esoAbilityId: 240494,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceBerserkerStrike = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1418,
   createdAt: "2026-05-28T16:03:34.204Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15750 Physical Damage (Constant)",
     "<<2>> = 22081 (Constant)",

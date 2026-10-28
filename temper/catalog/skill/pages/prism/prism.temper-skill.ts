@@ -10,7 +10,7 @@ export const prism = {
   description:
     "Casting a Dawn's Wrath ability while in combat generates 3 Ultimate. This effect can occur once every 6 seconds.",
   icon: "/esoui/art/icons/ability_templar_031.dds",
-  esoSkillId: 45216,
+  esoAbilityId: 45216,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -21,6 +21,6 @@ export const prism = {
   status: "unsupported",
   hashPlace: 929,
   createdAt: "2026-05-26T03:13:12.433Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3 (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const vengeanceMarkTarget = {
   description:
     "Expose an enemy's weaknesses to afflict them with Major Breach, reducing their Physical Resistance and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_014.dds",
-  esoSkillId: 237604,
+  esoAbilityId: 237604,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceMarkTarget = {
   skillType: "temper-skill-type/active",
   hashPlace: 1507,
   createdAt: "2026-05-28T16:03:34.333Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5948 (Constant)", "<<2>> = 20 seconds (Constant)"],
 } as const satisfies TemperSkill

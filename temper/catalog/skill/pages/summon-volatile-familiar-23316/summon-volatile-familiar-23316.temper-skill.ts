@@ -10,7 +10,7 @@ export const summonVolatileFamiliar23316 = {
   description:
     "Command the powers of Oblivion to send a Daedric familiar to fight at your side. The familiar's attacks deal |cffffff1250|r Shock Damage.\n\nOnce summoned, you can activate the familiar's special ability for |cffffff3615|r Magicka, dealing |cffffff1516|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds to enemies near them. The second hit stuns enemies hit for |cffffff3|r seconds.\n\nThe familiar remains until killed or unsummoned.",
   icon: "/esoui/art/icons/ability_sorcerer_speedy_familiar.dds",
-  esoSkillId: 23316,
+  esoAbilityId: 23316,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const summonVolatileFamiliar23316 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1299,
   createdAt: "2026-05-28T16:03:33.996Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.015495 MaxStat + 0.162697 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 3510 (Constant)",

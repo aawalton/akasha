@@ -9,7 +9,7 @@ export const argonianResistance = {
   baseName: "Argonian Resistance",
   description: "Increases your Max Health by 1000 and your Disease and Poison Resistance by 2310.",
   icon: "/esoui/art/icons/ability_templar_022.dds",
-  esoSkillId: 45255,
+  esoAbilityId: 45255,
   isMorph: false,
   learnedLevel: 40,
   lineRankNeeded: 40,
@@ -21,6 +21,6 @@ export const argonianResistance = {
   effects: "jsonl",
   hashPlace: 46,
   createdAt: "2026-05-26T03:18:02.174Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1000 (Constant)", "<<2>> = 2310 (Constant)"],
 } as const satisfies TemperSkill

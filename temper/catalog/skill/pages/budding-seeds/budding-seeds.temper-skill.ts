@@ -10,7 +10,7 @@ export const buddingSeeds = {
   description:
     "Summon a field of flowers which blooms after 6 seconds, healing you and allies in the area for 3485 Health.\n\nWhile the field grows, you and allies are healed for 410 Health every 1 second.  \n\nYou can activate this ability again to cause it to instantly bloom.\n\nAn ally within the field can activate the Harvest synergy, healing for 3372 Health over 5 seconds.",
   icon: "/esoui/art/icons/ability_warden_007_b.dds",
-  esoSkillId: 93807,
+  esoAbilityId: 93807,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const buddingSeeds = {
   skillType: "temper-skill-type/active",
   hashPlace: 169,
   createdAt: "2026-05-26T03:13:12.199Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 0.154901 MaxStat + 1.62725 MaxPower - 1.10979 (Ultimate, ratio = 10.51, Heal, AOE, Direct, R2 = 1)",

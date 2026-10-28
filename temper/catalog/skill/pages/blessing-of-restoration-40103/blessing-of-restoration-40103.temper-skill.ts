@@ -10,7 +10,7 @@ export const blessingOfRestoration40103 = {
   description:
     "Slam your staff down to activate its blessings, healing you and your allies in front of you for |cffffff9339|r Health.\n\nAlso grants Minor Resolve, increasing you and your allies' Physical Resistance and Spell Resistance by |cffffff2974|r for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_003_a.dds",
-  esoSkillId: 40103,
+  esoAbilityId: 40103,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const blessingOfRestoration40103 = {
   skillType: "temper-skill-type/active",
   hashPlace: 108,
   createdAt: "2026-05-28T16:03:31.764Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.127834 MaxStat + 1.34225 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
     "<<2>> = Minor Resolve (Constant)",

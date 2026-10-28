@@ -10,7 +10,7 @@ export const boneTotem = {
   description:
     "Summon an effigy of bone at your feet for |cffffff11|r seconds that grants Minor Protection to you and your allies, reducing damage taken by |cffffff5|r%. Enemies in the area are afflicted with Major Cowardice, reducing their Weapon and Spell Damage by |cffffff430|r.\n\nAfter |cffffff2|r seconds, the totem begins fearing nearby enemies every |cffffff2|r seconds, causing them to cower in place for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_010.dds",
-  esoSkillId: 115093,
+  esoAbilityId: 115093,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const boneTotem = {
   skillType: "temper-skill-type/active",
   hashPlace: 148,
   createdAt: "2026-05-28T16:03:31.829Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 11 seconds (Constant)",
     "<<2>> = 5% (Constant)",

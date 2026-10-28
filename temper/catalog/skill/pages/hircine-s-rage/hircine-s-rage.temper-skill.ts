@@ -10,7 +10,7 @@ export const hircineSRage = {
   description:
     "Invoke the Huntsman's blessing, healing you for |cffffff9313|r Health, granting double Fury, and increasing your damage done and taken by up to |cffffff12|r% for |cffffff20|r seconds, based on how high your current Health is. \nCurrent Bonus: |cffffff12|r%\n\nYou also restore |cffffff10|r% Stamina, increasing by up to |cffffff100|r%, based on how high your current Health is. \nCurrent Restore: |cffffff4882|r\n\nWhile slotted you gain Major Brutality and Sorcery and Minor Berserk.",
   icon: "/esoui/art/icons/ability_werewolf_004_b.dds",
-  esoSkillId: 58317,
+  esoAbilityId: 58317,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const hircineSRage = {
   skillType: "temper-skill-type/active",
   hashPlace: 637,
   createdAt: "2026-05-28T16:03:32.766Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.167863 MaxStat + 1.35581 MaxPower (Ultimate, ratio = 8.08, Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 12% (Constant)",

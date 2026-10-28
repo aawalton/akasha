@@ -10,7 +10,7 @@ export const emeraldMoss = {
   description:
     "Increases your healing done with Green Balance abilities by 5% for each Green Balance ability slotted.\n\nCurrent Bonus: 0%.",
   icon: "/esoui/art/icons/passive_warden_005.dds",
-  esoSkillId: 85877,
+  esoAbilityId: 85877,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -21,7 +21,7 @@ export const emeraldMoss = {
   status: "unsupported",
   hashPlace: 420,
   createdAt: "2026-05-26T03:13:12.289Z",
-  updatedAt: "2026-10-21T06:04:38.663Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5% (Constant)",
     "<<2>> = 5 GreenBalance (Green Balance Skills Slotted, SingleTarget, Direct, R2 = 1)",

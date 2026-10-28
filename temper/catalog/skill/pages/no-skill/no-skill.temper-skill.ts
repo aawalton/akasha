@@ -8,7 +8,7 @@ export const noSkill = {
   key: "no-skill",
   baseName: "No Skill",
   description: "Empty skill slot",
-  esoSkillId: 0,
+  esoAbilityId: 0,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 0,
@@ -18,5 +18,5 @@ export const noSkill = {
   skillType: "temper-skill-type/active",
   hashPlace: 0,
   createdAt: "2026-05-26T02:15:26.917Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

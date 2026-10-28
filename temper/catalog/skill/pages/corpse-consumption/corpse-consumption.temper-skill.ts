@@ -10,7 +10,7 @@ export const corpseConsumption = {
   description:
     "When you consume a corpse, you generate 10 Ultimate. This effect can occur once every 16 seconds.",
   icon: "/esoui/art/icons/passive_necromancer_011.dds",
-  esoSkillId: 116285,
+  esoAbilityId: 116285,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -22,6 +22,6 @@ export const corpseConsumption = {
   effects: "jsonl",
   hashPlace: 251,
   createdAt: "2026-05-26T03:13:12.225Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10 (Constant)", "<<2>> = 16 seconds (Constant)"],
 } as const satisfies TemperSkill

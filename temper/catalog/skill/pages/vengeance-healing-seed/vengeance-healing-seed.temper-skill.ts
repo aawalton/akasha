@@ -10,7 +10,7 @@ export const vengeanceHealingSeed = {
   description:
     "Summon a field of flowers which blooms after |cffffff6|r seconds, healing up to 3 of you and your allies in the area for |cffffff16065|r Health.",
   icon: "/esoui/art/icons/ability_warden_007.dds",
-  esoSkillId: 238055,
+  esoAbilityId: 238055,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceHealingSeed = {
   skillType: "temper-skill-type/active",
   hashPlace: 1489,
   createdAt: "2026-05-28T16:03:34.307Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3 seconds (Constant)", "<<2>> = 15750 (Constant)"],
 } as const satisfies TemperSkill

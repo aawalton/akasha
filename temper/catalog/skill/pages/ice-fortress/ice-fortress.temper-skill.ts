@@ -10,7 +10,7 @@ export const iceFortress = {
   description:
     "Wrap a thick cloak of ice around you and your grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by 5948 for 30 seconds.\n\nYou gain Minor Protection, reducing your damage taken by 5% for 30 seconds.",
   icon: "/esoui/art/icons/ability_warden_001_b.dds",
-  esoSkillId: 86133,
+  esoAbilityId: 86133,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const iceFortress = {
   skillType: "temper-skill-type/active",
   hashPlace: 652,
   createdAt: "2026-05-26T03:13:12.362Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5948 (Constant)",
     "<<2>> = 30 seconds (Constant)",

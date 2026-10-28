@@ -10,7 +10,7 @@ export const panacea = {
   description:
     "Release the rejuvenating energies of your staff to swirl around you, healing you or an ally for |cffffff9133|r Health every |cffffff1|r second for |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_006.dds",
-  esoSkillId: 83552,
+  esoAbilityId: 83552,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 50,
@@ -20,7 +20,7 @@ export const panacea = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 873,
   createdAt: "2026-05-28T16:03:33.214Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.125 MaxStat + 1.3125 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 1 second (Constant)",

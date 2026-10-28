@@ -10,7 +10,7 @@ export const shieldWall = {
   description:
     "Reinforce your shield, allowing you to automatically block all attacks at no cost for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_006.dds",
-  esoSkillId: 83272,
+  esoAbilityId: 83272,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 50,
@@ -20,6 +20,6 @@ export const shieldWall = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1168,
   createdAt: "2026-05-28T16:03:33.754Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

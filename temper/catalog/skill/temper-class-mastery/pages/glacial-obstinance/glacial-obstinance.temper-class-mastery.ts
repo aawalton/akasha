@@ -8,9 +8,9 @@ export const glacialObstinance = {
   key: "glacial-obstinance",
   description:
     "Tap into the wellspring of permafrost's resolve.\n\nUpgrades Bond with Nature to also activate when casting Winter's Embrace abilities and to grant 15% Weapon and Spell Damage for 10 seconds if you are at full Health after the heal.",
-  esoSkillId: 263521,
+  esoAbilityId: 263521,
   class: "temper-class/warden",
   hashPlace: 32,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

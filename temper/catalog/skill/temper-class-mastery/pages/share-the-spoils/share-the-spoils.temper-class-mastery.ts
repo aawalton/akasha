@@ -8,9 +8,9 @@ export const shareTheSpoils = {
   key: "share-the-spoils",
   description:
     "Secrets and coin are tools as sharp as the daggers you wield.\n\nUpgrades rank 2 of Transfer to grant group members 250 Magicka and Stamina, 2 Ultimate, and doubles the Ultimate you gain when it activates.",
-  esoSkillId: 263607,
+  esoAbilityId: 263607,
   class: "temper-class/nightblade",
   hashPlace: 19,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

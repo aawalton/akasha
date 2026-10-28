@@ -10,7 +10,7 @@ export const runeblades = {
   description:
     "Craft a series of Apocryphal runes before launching them at a foe, dealing |cffffff2423|r Magic Damage three times and generating Crux.\n\nThis ability deals |cffffff3|r% increased damage for each active Crux when cast.",
   icon: "/esoui/art/icons/ability_arcanist_001.dds",
-  esoSkillId: 185794,
+  esoAbilityId: 185794,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const runeblades = {
   skillType: "temper-skill-type/active",
   hashPlace: 1104,
   createdAt: "2026-05-28T16:03:33.641Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.03 MaxStat + 0.315 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 3% (Constant)",

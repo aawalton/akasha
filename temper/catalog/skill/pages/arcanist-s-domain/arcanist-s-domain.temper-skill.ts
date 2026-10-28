@@ -10,7 +10,7 @@ export const arcanistSDomain = {
   description:
     "Draw forth your tome and invoke the vigoratum of Hermaeus Mora to conjure a vortex of eldritch power. Entering this vortex grants you and your allies Minor Courage, Minor Fortitude, Minor Intellect, and Minor Endurance, increasing your Weapon and Spell Damage by |cffffff215|r and your Health, Magicka, and Stamina Recovery by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_arcanist_017.dds",
-  esoSkillId: 183555,
+  esoAbilityId: 183555,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const arcanistSDomain = {
   skillType: "temper-skill-type/active",
   hashPlace: 42,
   createdAt: "2026-05-28T16:03:31.642Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Courage (Constant)",
     "<<2>> = Minor Fortitude (Constant)",

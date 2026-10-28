@@ -34,7 +34,7 @@ export function createScribedSkillSource(scribedSkill: ScribedSkill): SkillSourc
     id: skillId,
     categoryId: "skills",
     skillId,
-    esoSkillId: skill.esoSkillId,
+    esoAbilityId: skill.esoAbilityId,
     skillName: skill.name,
     skillLineId: grimoire.skillLineId,
     skillType: "active",

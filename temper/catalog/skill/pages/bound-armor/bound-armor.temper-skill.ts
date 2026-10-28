@@ -10,7 +10,7 @@ export const boundArmor = {
   description:
     "Protect yourself with the power of Oblivion, creating a suit of Daedric mail that increases your block mitigation by |cffffff36|r% for |cffffff3|r seconds. The duration is based on your combined Physical and Spell Resistance.\n\nWhile slotted on either ability bar, you gain Minor Protection, reducing your damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_bound_armor.dds",
-  esoSkillId: 24158,
+  esoAbilityId: 24158,
   isMorph: false,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const boundArmor = {
   skillType: "temper-skill-type/active",
   hashPlace: 156,
   createdAt: "2026-05-28T16:03:31.840Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 33% (Constant)",
     "<<2>> = 1.32E-5 Health + 2.78104 (Health, SingleTarget, Direct, R2 = 0.5958)",

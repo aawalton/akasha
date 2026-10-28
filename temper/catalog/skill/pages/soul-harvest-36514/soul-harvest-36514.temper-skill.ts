@@ -10,7 +10,7 @@ export const soulHarvest36514 = {
   description:
     "Ravage an enemy with a spinning attack, dealing |cffffff12924|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
   icon: "/esoui/art/icons/ability_nightblade_007_b.dds",
-  esoSkillId: 36514,
+  esoAbilityId: 36514,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const soulHarvest36514 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1225,
   createdAt: "2026-05-28T16:03:33.860Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.16527352 MaxStat + 1.7353719 MaxPower (Ultimate, Dmg, Magic, SingleTarget, Direct, Melee, 0.4s cooldown)",
     "<<2>> = 20% (Constant)",

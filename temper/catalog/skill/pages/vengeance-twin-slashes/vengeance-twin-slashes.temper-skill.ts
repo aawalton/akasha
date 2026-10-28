@@ -10,7 +10,7 @@ export const vengeanceTwinSlashes = {
   description:
     "Slice an enemy with both weapons to cause deep lacerations, dealing |cffffff8348|r Bleed Damage and causing them to bleed for an additional |cffffff7875|r Bleed Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_dualwield_001.dds",
-  esoSkillId: 240590,
+  esoAbilityId: 240590,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceTwinSlashes = {
   skillType: "temper-skill-type/active",
   hashPlace: 1578,
   createdAt: "2026-05-28T16:03:34.435Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 7875 Bleed Damage (Constant)",
     "<<2>> = 7875 Bleed Damage (Constant)",

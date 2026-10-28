@@ -10,7 +10,7 @@ export const vengeanceSkeletalMage = {
   description:
     "Unearth a skeletal mage from the dirt at your enemy's location, causing them to cast one final spell after |cffffff1|r second before returning to their slumber and marking the enemy as a corpse. The spell deals |cffffff14175|r Shock Damage over |cffffff4|r seconds to the targeted enemy.\n\nOnly you can use the mark on a target for corpse consumption.",
   icon: "/esoui/art/icons/ability_necromancer_003.dds",
-  esoSkillId: 246029,
+  esoAbilityId: 246029,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceSkeletalMage = {
   skillType: "temper-skill-type/active",
   hashPlace: 1559,
   createdAt: "2026-05-28T16:03:34.407Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1 second (Constant)",
     "<<2>> = 14175 Shock Damage (Constant)",

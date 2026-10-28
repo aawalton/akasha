@@ -10,7 +10,7 @@ export const vengeanceSiphoningStrikes = {
   description:
     "Channel a portion of your soul to convert Health to |cffffff2000|r Magicka and Stamina.",
   icon: "/esoui/art/icons/ability_nightblade_003.dds",
-  esoSkillId: 237716,
+  esoAbilityId: 237716,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceSiphoningStrikes = {
   skillType: "temper-skill-type/active",
   hashPlace: 1558,
   createdAt: "2026-05-28T16:03:34.406Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2000 (Constant)"],
 } as const satisfies TemperSkill

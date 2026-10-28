@@ -10,7 +10,7 @@ export const vengeanceImpulse = {
   description:
     "Release a surge of elemental energy, dealing |cffffff8820|r Magic Damage to up to 3 nearby enemies.\n\nFire Impulse converts some of the initial hit into damage over time.\n\nFrost Impulse costs more but provides Minor Protection.\n\nShock Impulse deals less damage but has a chance to deal increased damage.",
   icon: "/esoui/art/icons/ability_destructionstaff_008.dds",
-  esoSkillId: 241454,
+  esoAbilityId: 241454,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceImpulse = {
   skillType: "temper-skill-type/active",
   hashPlace: 1493,
   createdAt: "2026-05-28T16:03:34.313Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 7875 Magic Damage (Constant)"],
 } as const satisfies TemperSkill

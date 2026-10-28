@@ -10,7 +10,7 @@ export const vengeanceArrowSpray = {
   description:
     "Fire a burst of arrows in one shot, dealing |cffffff8820|r Physical Damage to up to 3 enemies in front of you.",
   icon: "/esoui/art/icons/ability_bow_005.dds",
-  esoSkillId: 241274,
+  esoAbilityId: 241274,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceArrowSpray = {
   skillType: "temper-skill-type/active",
   hashPlace: 1412,
   createdAt: "2026-05-28T16:03:34.196Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 7875 Physical Damage (Constant)", "<<2>> = 12 (Constant)"],
 } as const satisfies TemperSkill

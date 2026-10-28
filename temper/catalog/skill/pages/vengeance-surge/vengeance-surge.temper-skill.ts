@@ -10,7 +10,7 @@ export const vengeanceSurge = {
   description:
     "Invoke Meridia's name to heal yourself for |cffffff16065|r Health.\n\nWhile slotted you gain Minor Berserk, increasing your damage done by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_surge.dds",
-  esoSkillId: 237971,
+  esoAbilityId: 237971,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceSurge = {
   skillType: "temper-skill-type/active",
   hashPlace: 1572,
   createdAt: "2026-05-28T16:03:34.426Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15750 (Constant)", "<<2>> = 5% (Constant)"],
 } as const satisfies TemperSkill

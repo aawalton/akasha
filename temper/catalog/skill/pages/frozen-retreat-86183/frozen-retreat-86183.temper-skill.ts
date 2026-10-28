@@ -10,7 +10,7 @@ export const frozenRetreat86183 = {
   description:
     "Summon an ancient portal, which arms after |cffffff1.5|r seconds.\n\nWhen triggered the enemy is teleported to you if within range, immobilized for |cffffff3|r seconds, and dealt |cffffff6257|r Frost Damage.\n\nAn ally in the portal can activate the Icy Escape synergy, teleporting them to you and granting them Major Expedition, increasing their Movement Speed by |cffffff30|r% for |cffffff8|r seconds.\n\nYou can have up to |cffffff3|r Frozen Retreats active at a time.",
   icon: "/esoui/art/icons/ability_warden_005_b.dds",
-  esoSkillId: 86183,
+  esoAbilityId: 86183,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const frozenRetreat86183 = {
   skillType: "temper-skill-type/active",
   hashPlace: 550,
   createdAt: "2026-05-28T16:03:32.572Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15 seconds (Constant)",
     "<<2>> = 3 seconds (Constant)",

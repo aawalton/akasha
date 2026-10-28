@@ -10,7 +10,7 @@ export const healthyOffering34727 = {
   description:
     "Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff11321|r Health, while draining |cffffff1080|r Health from yourself over |cffffff3|r seconds.\n\nAfter casting, gain Minor Mending for |cffffff10|r seconds, increasing your healing done by |cffffff8|r%.",
   icon: "/esoui/art/icons/ability_nightblade_011_a.dds",
-  esoSkillId: 34727,
+  esoAbilityId: 34727,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const healthyOffering34727 = {
   skillType: "temper-skill-type/active",
   hashPlace: 616,
   createdAt: "2026-05-28T16:03:32.727Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 1080 (Constant)",

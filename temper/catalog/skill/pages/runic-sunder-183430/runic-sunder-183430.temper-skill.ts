@@ -10,7 +10,7 @@ export const runicSunder183430 = {
   description:
     "Craft a defensive Apocryphal rune that deals |cffffff4038|r Physical Damage. The rune steals |cffffff2200|r Armor and applies Minor Maim for |cffffff15|r seconds, reducing their damage done by |cffffff5|r%.\n\nThe rune also taunts for |cffffff15|r seconds if it would not cause taunt immunity, and generates Crux. While slotted, damage taken is reduced by |cffffff2|r% per active Crux.",
   icon: "/esoui/art/icons/ability_arcanist_007_a.dds",
-  esoSkillId: 183430,
+  esoAbilityId: 183430,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const runicSunder183430 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1117,
   createdAt: "2026-05-28T16:03:33.662Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 1900 (Constant)",

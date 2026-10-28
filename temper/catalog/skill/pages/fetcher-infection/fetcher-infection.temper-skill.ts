@@ -10,7 +10,7 @@ export const fetcherInfection = {
   description:
     "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing 4785 Magic Damage over 20 seconds.\n\nEvery second cast of this ability deals 60% increased damage.\n\nThe fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by 5%.",
   icon: "/esoui/art/icons/ability_warden_014_a.dds",
-  esoSkillId: 86030,
+  esoAbilityId: 86030,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const fetcherInfection = {
   skillType: "temper-skill-type/active",
   hashPlace: 509,
   createdAt: "2026-05-26T03:13:12.322Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0193549 MaxStat + 0.203761 MaxPower - 1.01347 (Ultimate, ratio = 10.53, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999997)",
     "<<2>> = 20 seconds (Constant)",

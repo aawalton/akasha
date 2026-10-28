@@ -10,7 +10,7 @@ export const scatterShot = {
   description:
     "Blast an enemy with an explosive arrow, dealing |cffffff4846|r Physical Damage, knocking them back |cffffff8|r meters.",
   icon: "/esoui/art/icons/ability_bow_004.dds",
-  esoSkillId: 28879,
+  esoAbilityId: 28879,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const scatterShot = {
   skillType: "temper-skill-type/active",
   hashPlace: 1137,
   createdAt: "2026-05-28T16:03:33.698Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06 MaxStat + 0.63 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 8 meters (Constant)",

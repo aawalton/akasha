@@ -10,7 +10,7 @@ export const ravenousGoliath = {
   description:
     "Become a horrific Ravenous Goliath, increasing your Max Health by 30000 for 20 seconds and immediately restoring 30000 Health. \n\nWhile transformed, your damaging Light Attacks restore 319 Health and your fully-charged Heavy Attacks restore 800 Health. You deal 826 Magic Damage to nearby enemies every second and heal for that amount. These abilities scale off your Max Health.",
   icon: "/esoui/art/icons/ability_necromancer_012_b.dds",
-  esoSkillId: 40118279,
+  esoAbilityId: 40118279,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const ravenousGoliath = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 985,
   createdAt: "2026-05-26T03:13:12.445Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Ravenous Goliath (Constant)",
     "<<2>> = 30000 (Constant)",

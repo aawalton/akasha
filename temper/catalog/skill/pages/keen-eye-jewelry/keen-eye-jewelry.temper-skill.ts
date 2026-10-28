@@ -9,7 +9,7 @@ export const keenEyeJewelry = {
   baseName: "Keen Eye: Jewelry",
   description: "Jewelry Seams in the world will be easier to see when you are 40 meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
-  esoSkillId: 103639,
+  esoAbilityId: 103639,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -19,6 +19,6 @@ export const keenEyeJewelry = {
   skillType: "temper-skill-type/passive",
   hashPlace: 708,
   createdAt: "2026-05-26T02:37:19.386Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 40 meters (Constant)"],
 } as const satisfies TemperSkill

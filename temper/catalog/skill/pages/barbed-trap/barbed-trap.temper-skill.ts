@@ -10,7 +10,7 @@ export const barbedTrap = {
   description:
     "Set a sharpened blade trap at your location, which takes 1.5 seconds to arm and lasts for 20 seconds.\n\nWhen triggered, the trap deals 1438 Bleed Damage, an additional 3580 Bleed Damage over 20 seconds, and grants you Minor Force, increasing your Critical Damage by 10% for the duration.\n\nEnemies hit by the initial hit are afflicted with the Hemorrhaging status effect.\n\n Enemies who activate the trap are immobilized for 2 seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_004_a.dds",
-  esoSkillId: 42747,
+  esoAbilityId: 42747,
   isMorph: true,
   learnedLevel: 8,
   lineRankNeeded: 8,
@@ -20,7 +20,7 @@ export const barbedTrap = {
   skillType: "temper-skill-type/active",
   hashPlace: 78,
   createdAt: "2026-05-26T02:59:07.544Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = 0.0640613 MaxStat + 0.672578 MaxPower - 3.1811 (Ultimate, ratio = 10.50, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 0.999999)",

@@ -10,7 +10,7 @@ export const brawler38754 = {
   description:
     "Focus your strength into a mighty swing, dealing |cffffff6401|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff6381|r damage for |cffffff6|r seconds. Each enemy hit increases the damage shield's strength by |cffffff50|r%, up to |cffffff300|r%.",
   icon: "/esoui/art/icons/ability_2handed_002_b.dds",
-  esoSkillId: 38754,
+  esoAbilityId: 38754,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const brawler38754 = {
   skillType: "temper-skill-type/active",
   hashPlace: 163,
   createdAt: "2026-05-28T16:03:31.850Z",
-  updatedAt: "2026-10-28T20:27:56.378Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.077475 MaxStat + 0.81349 MaxPower (Ultimate, Dmg, Physical, AOE, Direct, Melee, single precision)",
     "<<2>> = 0.077475 MaxStat + 0.8134875 MaxPower (Ultimate, DmgShield, SingleTarget, Direct, 6s duration, rank IV)",

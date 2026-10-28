@@ -10,7 +10,7 @@ export const vengeanceMeteor = {
   description:
     "Call a comet down from the constellations to blast an enemy, dealing |cffffff17640|r Flame Damage to up to 3 enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_005.dds",
-  esoSkillId: 246494,
+  esoAbilityId: 246494,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceMeteor = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1508,
   createdAt: "2026-05-28T16:03:34.334Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15750 Flame Damage (Constant)",
     "<<2>> = 6 (Constant)",

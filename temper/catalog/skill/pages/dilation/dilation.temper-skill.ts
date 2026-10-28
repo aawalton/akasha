@@ -10,7 +10,7 @@ export const dilation = {
   description:
     "Claim all facets of the selected type that touch your area of control, as well as matching facets directly adjacent.\n\nNew Effect: Dilation now claims ALL contiguous facets of the same type.\n\nConsumes 1 Magicka Charge.",
   icon: "/esoui/art/icons/ability_scrying_04.dds",
-  esoSkillId: 139308,
+  esoAbilityId: 139308,
   isMorph: false,
   learnedLevel: 8,
   lineRankNeeded: 8,
@@ -20,5 +20,5 @@ export const dilation = {
   skillType: "temper-skill-type/passive",
   hashPlace: 366,
   createdAt: "2026-05-26T03:25:55.752Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const timeFreeze = {
   description:
     "Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area over 4 seconds before finally stunning them in place for 3 seconds when the duration completes.",
   icon: "/esoui/art/icons/ability_psijic_002_b.dds",
-  esoSkillId: 40104079,
+  esoAbilityId: 40104079,
   isMorph: true,
   learnedLevel: 2,
   lineRankNeeded: 2,
@@ -20,6 +20,6 @@ export const timeFreeze = {
   skillType: "temper-skill-type/active",
   hashPlace: 1347,
   createdAt: "2026-05-26T02:59:07.685Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 4 seconds (Constant)", "<<2>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

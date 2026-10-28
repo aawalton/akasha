@@ -10,7 +10,7 @@ export const monarch = {
   description:
     "Increases your healing received while in your campaign, depending on how many Home Keeps you own.\n\n1 or less Keep: 25%\n2 Keeps: 30%\n3 Keeps: 35%\n4 Keeps: 40%\n5 Keeps: 45%\n6 Keeps: 50%",
   icon: "/esoui/art/icons/ability_sorcerer_060.dds",
-  esoSkillId: 39625,
+  esoAbilityId: 39625,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const monarch = {
   effects: "jsonl",
   hashPlace: 837,
   createdAt: "2026-05-26T03:25:55.793Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

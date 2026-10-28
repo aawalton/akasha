@@ -10,7 +10,7 @@ export const scribedWieldSoulPull = {
   description:
     "Deals 1045 Magic Damage to an enemy, pulls them to you, and taunts them for 15 seconds if they are not already taunted. Beneficial Signature and Affix scripts only apply to you. This attack cannot be reflected.",
   icon: "/esoui/art/icons/ability_grimoire_soulmagic1.dds",
-  esoSkillId: 217784,
+  esoAbilityId: 217784,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedWieldSoulPull = {
   grimoireId: "temper-grimoire/wield-soul",
   hashPlace: 1737,
   createdAt: "2026-05-26T13:19:53.339Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

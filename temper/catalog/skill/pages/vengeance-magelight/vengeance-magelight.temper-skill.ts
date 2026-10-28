@@ -10,7 +10,7 @@ export const vengeanceMagelight = {
   description:
     "Summon a mote of magelight, dealing |cffffff11760|r Magic Damage to up to 3 stealthed and invisible enemies around you. Exposed enemies cannot return to stealth or invisibility for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_002.dds",
-  esoSkillId: 246489,
+  esoAbilityId: 246489,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceMagelight = {
   skillType: "temper-skill-type/active",
   hashPlace: 1503,
   createdAt: "2026-05-28T16:03:34.327Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10500 Magic Damage (Constant)",
     "<<2>> = 6 (Constant)",

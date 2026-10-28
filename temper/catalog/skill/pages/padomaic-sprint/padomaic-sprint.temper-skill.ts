@@ -10,7 +10,7 @@ export const padomaicSprint = {
   description:
     "Grants Major Expedition, increasing your Movement Speed by 30% for 12 seconds after killing an enemy with Blade of Woe.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_004.dds",
-  esoSkillId: 79868,
+  esoAbilityId: 79868,
   isMorph: false,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -22,6 +22,6 @@ export const padomaicSprint = {
   effects: "jsonl",
   hashPlace: 871,
   createdAt: "2026-05-26T02:59:07.636Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 30% (Constant)", "<<2>> = 12 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const encase = {
   description:
     "Call forth Daedric shards from the earth to immobilize enemies in front of you for |cffffff4|r seconds.\n\nEnemies hit are afflicted with Major Maim, reducing their damage done by |cffffff10|r% for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_cyclone.dds",
-  esoSkillId: 28025,
+  esoAbilityId: 28025,
   isMorph: false,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const encase = {
   skillType: "temper-skill-type/active",
   hashPlace: 425,
   createdAt: "2026-05-28T16:03:32.309Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
     "<<2>> = Major Maim (Constant)",

@@ -9,7 +9,7 @@ export const restorationExpert = {
   baseName: "Restoration Expert",
   description: "Increases your healing by 15% on allies under 30% Health.",
   icon: "/esoui/art/icons/ability_templar_016.dds",
-  esoSkillId: 45519,
+  esoAbilityId: 45519,
   isMorph: false,
   learnedLevel: 17,
   lineRankNeeded: 17,
@@ -21,6 +21,6 @@ export const restorationExpert = {
   effects: "jsonl",
   hashPlace: 1049,
   createdAt: "2026-05-26T02:38:38.349Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

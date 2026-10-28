@@ -10,7 +10,7 @@ export const mediumArmorBonuses = {
   description:
     "Each piece of Medium Armor does the following:\n\nReduces the cost of Sprint by 1%\n\nReduces the cost of Sneak by 5%\n\nReduces the cost of Block by 3%\n\nReduces damage taken from Area of Effect attacks by 2% for 2 seconds after you use Roll Dodge\n\nIncreases Movement Speed by 2% while immune to crowd control",
   icon: "/esoui/art/icons/passive_armor2_medium.dds",
-  esoSkillId: 150181,
+  esoAbilityId: 150181,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,7 +22,7 @@ export const mediumArmorBonuses = {
   effects: "jsonl",
   hashPlace: 813,
   createdAt: "2026-05-26T02:59:07.624Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1% (Constant)",
     "<<2>> = 5% (Constant)",

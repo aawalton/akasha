@@ -10,7 +10,7 @@ export const unstableCore = {
   description:
     "Envelop an enemy in a lightless sphere for 4 seconds, that harms them with growing intensity anytime they deal direct damage. Limited to one.\n\nTheir first attack reduces their Movement Speed by 30% for 4 seconds and deals 449 Magic Damage, their second attack immobilizes them for 3 seconds and deals 898 Magic Damage, and their third attack stuns them for 3 seconds and deals 1799 Magic Damage. The effects can activate once every 1 second.",
   icon: "/esoui/art/icons/ability_templar_total_dark.dds",
-  esoSkillId: 27311,
+  esoAbilityId: 27311,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const unstableCore = {
   skillType: "temper-skill-type/active",
   hashPlace: 1392,
   createdAt: "2026-05-26T03:13:12.541Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
     "<<2>> = 30% (Constant)",

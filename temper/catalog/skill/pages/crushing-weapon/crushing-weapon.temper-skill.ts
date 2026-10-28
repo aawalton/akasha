@@ -10,7 +10,7 @@ export const crushingWeapon = {
   description:
     "Infuse your weapon with power, causing your next Light Attack used within 2 seconds to deal an additional 2160 Physical Damage and applying Major Breach to the target, reducing their Physical and Spell Resistance by 5948 for 5 seconds.\n\nIf the power is not consumed in time, you restore 1620 Stamina.",
   icon: "/esoui/art/icons/ability_psijic_003_b.dds",
-  esoSkillId: 40103623,
+  esoAbilityId: 40103623,
   isMorph: true,
   learnedLevel: 3,
   lineRankNeeded: 3,
@@ -20,7 +20,7 @@ export const crushingWeapon = {
   skillType: "temper-skill-type/active",
   hashPlace: 269,
   createdAt: "2026-05-26T02:59:07.566Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 0.0960763 MaxStat + 1.00798 MaxPower - 1.15761 (Ultimate, ratio = 10.49, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",

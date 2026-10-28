@@ -10,7 +10,7 @@ export const elementalRage84434 = {
   description:
     "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing |cffffff7822|r Magic Damage every |cffffff1|r second for |cffffff7|r seconds.\n\nFiery Rage increases the damage by |cffffff15|r%.\n\nIcy Rage immobilizes enemies hit for |cffffff3|r seconds.\n\nThunderous Rage increases the duration by |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_destructionstaff_012_b.dds",
-  esoSkillId: 84434,
+  esoAbilityId: 84434,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 50,
@@ -20,7 +20,7 @@ export const elementalRage84434 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 406,
   createdAt: "2026-05-28T16:03:32.251Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.09685 MaxStat + 1.0169 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, DOT, 1s tick, R2 = 1)",
     "<<2>> = 1 second (Constant)",

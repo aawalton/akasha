@@ -10,7 +10,7 @@ export const unholyKnowledge = {
   description:
     "Reduces the Health, Magicka, and Stamina costs of your non Core Combat abilities by 6%.",
   icon: "/esoui/art/icons/ability_sorcerer_045.dds",
-  esoSkillId: 45176,
+  esoAbilityId: 45176,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -22,6 +22,6 @@ export const unholyKnowledge = {
   effects: "jsonl",
   hashPlace: 1386,
   createdAt: "2026-05-26T03:13:12.537Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6% (Constant)"],
 } as const satisfies TemperSkill

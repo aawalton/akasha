@@ -10,7 +10,7 @@ export const grippingShards = {
   description:
     "Conjure icy shards around you to skewer enemies in the area, immobilizing them for 3 seconds and dealing 419 Frost Damage every 1 second for 12 seconds.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by 30% for 3 seconds.\n\nDamage done is based on your Max Health and has a higher chance to apply the Chilled status effect.",
   icon: "/esoui/art/icons/ability_warden_004_a.dds",
-  esoSkillId: 86168,
+  esoAbilityId: 86168,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const grippingShards = {
   skillType: "temper-skill-type/active",
   hashPlace: 582,
   createdAt: "2026-05-26T03:13:12.344Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
     "<<2>> = 0.0262943 Health - 1.59107 (Health, Dmg, Frost, AOE, DOT, 1s tick, R2 = 0.999972)",

@@ -10,7 +10,7 @@ export const pulsar = {
   description:
     "Release a surge of elemental energy, dealing 1742 Magic Damage to nearby enemies and afflicting them with Minor Mangle, reducing their Max Health by 10% for 10 seconds.\n\nFlame Pulsar hits Burning enemies with Pulsar Afterburn, which deals more damage based on their missing Health.\n\nFrost Pulsar also provides Minor Protection.\n\nStorm Pulsar's damage increases based on the number of enemies hit.",
   icon: "/esoui/art/icons/ability_destructionstaff_008_b.dds",
-  esoSkillId: 42996,
+  esoAbilityId: 42996,
   isMorph: true,
   learnedLevel: 38,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const pulsar = {
   skillType: "temper-skill-type/active",
   hashPlace: 938,
   createdAt: "2026-05-26T02:38:38.340Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, R2 = 1)",
     "<<2>> = Minor Mangle (Constant)",

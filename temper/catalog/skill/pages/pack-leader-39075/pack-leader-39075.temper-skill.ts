@@ -10,7 +10,7 @@ export const packLeader39075 = {
   description:
     "Transform into an imposing beast, fearing nearby enemies for |cffffff3|r seconds. \n\nYou also gain Major Protection, |cffffff15|r% increased Block Mitigation, and you and group members gain Minor Courage.\n\nYou summon two direwolves that deal |cffffff315|r Physical Damage twice or |cffffff1686|r Physical Damage once every |cffffff2|r seconds.\n\nWhile transformed in combat, abilities generate Fury. When you have |cffffff1000|r, this ability becomes Enduring Rampage, which gains |cffffff4000|r Health Recovery in addition to its base effects.\n\nWhile slotted, your Stamina Recovery is increased by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_werewolf_001_a.dds",
-  esoSkillId: 39075,
+  esoAbilityId: 39075,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,7 +21,7 @@ export const packLeader39075 = {
   effects: "jsonl",
   hashPlace: 870,
   createdAt: "2026-05-28T16:03:33.209Z",
-  updatedAt: "2026-10-21T15:59:41.296Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
     "<<2>> = Major Protection (Constant)",

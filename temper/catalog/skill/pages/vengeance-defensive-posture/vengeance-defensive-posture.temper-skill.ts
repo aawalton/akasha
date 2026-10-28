@@ -10,7 +10,7 @@ export const vengeanceDefensivePosture = {
   description:
     "Bolster your defenses, gaining a damage shield that absorbs up to |cffffff6802|r damage for |cffffff6|r seconds.  This portion of the ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_1handed_004.dds",
-  esoSkillId: 240560,
+  esoAbilityId: 240560,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceDefensivePosture = {
   skillType: "temper-skill-type/active",
   hashPlace: 1450,
   createdAt: "2026-05-28T16:03:34.250Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

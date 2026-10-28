@@ -10,7 +10,7 @@ export const deadenPain118623 = {
   description:
     "Sap the lingering life from fresh corpses, granting you |cffffff2|r Ultimate and healing |cffffff857|r Health every |cffffff1|r second for |cffffff4|r seconds per corpse consumed. While you have the heal effect, you gain Major Protection, reducing the damage you take by |cffffff10|r%. This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_necromancer_011_a.dds",
-  esoSkillId: 118623,
+  esoAbilityId: 118623,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const deadenPain118623 = {
   skillType: "temper-skill-type/active",
   hashPlace: 323,
   createdAt: "2026-05-28T16:03:32.108Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2 (Constant)",
     "<<2>> = 0.04132 Health (Health, RankMod(1), Heal, SingleTarget, DOT, 1s tick, R2 = 1)",

@@ -10,7 +10,7 @@ export const elementalBlockade39011 = {
   description:
     "Slam your staff down to create an elemental barrier in front of you, dealing |cffffff978|r Magic Damage to enemies in the target area every |cffffff1|r second.\n\nBlockade of Fire deals additional damage to Burning enemies.\n\nBlockade of Frost costs more, but snares and reduces armor against Chilled enemies and grants damage shields.\n\nBlockade of Storms sets Concussed enemies Off Balance.",
   icon: "/esoui/art/icons/ability_destructionstaff_002a.dds",
-  esoSkillId: 39011,
+  esoAbilityId: 39011,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const elementalBlockade39011 = {
   skillType: "temper-skill-type/active",
   hashPlace: 400,
   createdAt: "2026-05-28T16:03:32.239Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.012521 MaxStat + 0.131473 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, DOT, 12s duration, 1s tick, R2 = 1)",
     "<<2>> = 1 second (Constant)",

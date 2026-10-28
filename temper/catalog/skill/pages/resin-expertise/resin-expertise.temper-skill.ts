@@ -9,7 +9,7 @@ export const resinExpertise = {
   baseName: "Resin Expertise",
   description: "More than doubles the chances to improve items with resins.",
   icon: "/esoui/art/icons/ability_tradecraft_001.dds",
-  esoSkillId: 48177,
+  esoAbilityId: 48177,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -19,5 +19,5 @@ export const resinExpertise = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1033,
   createdAt: "2026-05-26T02:37:19.403Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

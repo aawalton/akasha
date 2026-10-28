@@ -10,7 +10,7 @@ export const excavatorsReserves = {
   description:
     "Further increases the amount of time you have available when excavating a dig site.",
   icon: "/esoui/art/icons/u26_ability_digging_05.dds",
-  esoSkillId: 139911,
+  esoAbilityId: 139911,
   isMorph: false,
   learnedLevel: 10,
   lineRankNeeded: 10,
@@ -20,5 +20,5 @@ export const excavatorsReserves = {
   skillType: "temper-skill-type/passive",
   hashPlace: 470,
   createdAt: "2026-05-26T03:25:55.761Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const harnessMagicka = {
   description:
     "Convert a portion of your Magicka into a protective ward, gaining a damage shield that absorbs 3718 damage for 6 seconds. Damage shield strength capped at 50% of your Max Health.\n\nWhile active, whenever the shield absorbs damage, you restore 229 Magicka. Each piece of Light Armor worn increases the Magicka restored by 33%. This effect can occur up to 3 times.",
   icon: "/esoui/art/icons/ability_armor_003_b.dds",
-  esoSkillId: 41121,
+  esoAbilityId: 41121,
   isMorph: true,
   learnedLevel: 22,
   lineRankNeeded: 22,
@@ -20,7 +20,7 @@ export const harnessMagicka = {
   skillType: "temper-skill-type/active",
   hashPlace: 592,
   createdAt: "2026-05-26T02:59:07.588Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3099 Magicka (Magicka, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

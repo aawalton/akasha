@@ -10,7 +10,7 @@ export const persistence = {
   description:
     "After blocking an attack, your next Health, Magicka, or Stamina ability costs 18% less.",
   icon: "/esoui/art/icons/ability_sorcerer_054.dds",
-  esoSkillId: 45165,
+  esoAbilityId: 45165,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -21,6 +21,6 @@ export const persistence = {
   status: "unsupported",
   hashPlace: 883,
   createdAt: "2026-05-26T03:13:12.416Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 18% (Constant)"],
 } as const satisfies TemperSkill

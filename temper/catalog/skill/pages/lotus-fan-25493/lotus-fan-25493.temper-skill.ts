@@ -10,7 +10,7 @@ export const lotusFan25493 = {
   description:
     "Flash through the shadows and ambush an enemy while unleashing a fan of knives, dealing |cffffff5888|r Magic Damage to them and enemies around you.\n\nAll enemies hit take an additional |cffffff6725|r Magic Damage over |cffffff5|r seconds and are afflicted with Minor Vulnerability for |cffffff10|r seconds, increasing their damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_nightblade_008_a.dds",
-  esoSkillId: 25493,
+  esoAbilityId: 25493,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const lotusFan25493 = {
   skillType: "temper-skill-type/active",
   hashPlace: 770,
   createdAt: "2026-05-28T16:03:33.023Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.071277 MaxStat + 0.748408 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 0.017687 MaxStat + 0.185671 MaxPower - 1.04735 (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, DOT, 4s duration, 1s tick, R2 = 0.999997)",

@@ -10,7 +10,7 @@ export const vengeancePanacea = {
   description:
     "Release the rejuvenating energies of your staff to swirl around you, healing up to 3 of you and your allies for |cffffff16065|r Health.",
   icon: "/esoui/art/icons/ability_restorationstaff_006.dds",
-  esoSkillId: 241586,
+  esoAbilityId: 241586,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeancePanacea = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1518,
   createdAt: "2026-05-28T16:03:34.348Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6 (Constant)", "<<2>> = 13125 (Constant)"],
 } as const satisfies TemperSkill

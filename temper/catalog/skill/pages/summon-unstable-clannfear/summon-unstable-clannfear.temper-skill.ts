@@ -10,7 +10,7 @@ export const summonUnstableClannfear = {
   description:
     "Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's headbutt deals 358 Physical Damage, while its tail spike hits nearby enemies for 358 Physical Damage after 1 second.  \n\nOnce summoned, you can activate the clannfear's special ability for 4320 Magicka, healing you for 5121 and the clannfear for 2560.\n\nThe clannfear remains until killed or unsummoned.",
   icon: "/esoui/art/icons/ability_sorcerer_unstable_clannfear.dds",
-  esoSkillId: 30657,
+  esoAbilityId: 30657,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const summonUnstableClannfear = {
   skillType: "temper-skill-type/active",
   hashPlace: 1295,
   createdAt: "2026-05-26T03:13:12.520Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.016006335 MaxStat + 0.168066001 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 0.016006335 MaxStat + 0.168066001 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, AOE, Direct, Melee, 0.8s cooldown, R2 = 1)",

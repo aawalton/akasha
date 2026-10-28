@@ -10,7 +10,7 @@ export const blessingOfProtection = {
   description:
     "Slam your staff down to activate its blessings, healing you and your allies in front of you for |cffffff8220|r Health.\n\nAlso grants Minor Resolve, increasing you and your allies' Physical Resistance and Spell Resistance by |cffffff2974|r for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_003.dds",
-  esoSkillId: 37243,
+  esoAbilityId: 37243,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const blessingOfProtection = {
   skillType: "temper-skill-type/active",
   hashPlace: 106,
   createdAt: "2026-05-28T16:03:31.760Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1125 MaxStat + 1.18125 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
     "<<2>> = Minor Resolve (Constant)",

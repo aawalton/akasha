@@ -10,7 +10,7 @@ export const audaciousRunemend = {
   description:
     "Craft a series of virtuous Apocryphal runes, then propel them at yourself or an ally in front of you. The runes heal for 1199 Health three times and generate Crux. \n\nHealing a target under 50% Health grants them Minor Heroism for 6 seconds, generating 1 Ultimate every 1.5 seconds.\n\nEach active Crux reduces the cost of this ability by 3%.",
   icon: "/esoui/art/icons/ability_arcanist_013_b.dds",
-  esoSkillId: 40186191,
+  esoAbilityId: 40186191,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const audaciousRunemend = {
   skillType: "temper-skill-type/active",
   hashPlace: 58,
   createdAt: "2026-05-26T03:13:12.174Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05335445 MaxStat + 0.560221725 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = Minor Heroism (Constant)",

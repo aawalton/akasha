@@ -10,7 +10,7 @@ export const incinerate = {
   description:
     "Activate an aura of flames which launches a wave of flames every |cffffff5|r seconds, dealing |cffffff7272|r Flame Damage to enemies inside.\n\nEach hit has a |cffffff15|r% chance of applying Burning.\n\nWhile slotted on either bar, you gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.",
   icon: "/esoui/art/icons/ability_dragonknight_002_a.dds",
-  esoSkillId: 32853,
+  esoAbilityId: 32853,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const incinerate = {
   skillType: "temper-skill-type/active",
   hashPlace: 679,
   createdAt: "2026-05-28T16:03:32.846Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
     "<<2>> = 0.087999701 MaxStat + 0.92399686 MaxPower (Ultimate, RankMod(1), Dmg, Flame, AOE, Direct)",

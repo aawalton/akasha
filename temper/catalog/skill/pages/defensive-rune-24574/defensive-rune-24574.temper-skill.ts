@@ -10,7 +10,7 @@ export const defensiveRune24574 = {
   description:
     "Place a rune of protection on yourself for |cffffff2|r minutes. While active, the next enemy to attack you is imprisoned in a constricting sphere of dark magic, stunning them after a short delay for |cffffff3|r seconds.\n\nThis stun cannot be blocked.",
   icon: "/esoui/art/icons/ability_sorcerer_weakening_fog.dds",
-  esoSkillId: 24574,
+  esoAbilityId: 24574,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,6 +20,6 @@ export const defensiveRune24574 = {
   skillType: "temper-skill-type/active",
   hashPlace: 347,
   createdAt: "2026-05-28T16:03:32.145Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1 minute (Constant)", "<<2>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

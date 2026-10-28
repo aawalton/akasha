@@ -10,7 +10,7 @@ export const frozenArmor = {
   description:
     "Increases your Physical and Spell Resistance by 1240 for each Winter's Embrace ability slotted.\n\nCurrent Bonus: 0.",
   icon: "/esoui/art/icons/passive_warden_001.dds",
-  esoSkillId: 86190,
+  esoAbilityId: 86190,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -22,7 +22,7 @@ export const frozenArmor = {
   effects: "jsonl",
   hashPlace: 543,
   createdAt: "2026-05-26T03:13:12.330Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1240 (Constant)",
     "<<2>> = 1240 WintersEmbrace (Winter's Embrace Skills Slotted, SingleTarget, Direct, R2 = 1)",

@@ -10,7 +10,7 @@ export const conjuredWard = {
   description:
     "Conjure globes of Daedric energy for protection, granting a damage shield for you and your pets that absorbs |cffffff7728|r damage for |cffffff6|r seconds.\n\nThis ability scales off the higher of your Max Health or Magicka and the shield is capped at |cffffff55|r% of your Max Health.",
   icon: "/esoui/art/icons/ability_sorcerer_hurricane.dds",
-  esoSkillId: 28418,
+  esoAbilityId: 28418,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const conjuredWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 240,
   createdAt: "2026-05-28T16:03:31.989Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.33 Stat + 0.33 Power (Health of Magicka Capped, ratio = 1.00, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

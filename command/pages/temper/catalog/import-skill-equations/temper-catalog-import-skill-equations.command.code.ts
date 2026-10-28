@@ -75,7 +75,7 @@ async function imported(done: string[], argv: readonly string[], given: Given, l
   const byId = equationsById(table.rows)
   const valued: { path: string; value: string }[] = []
   for (const one of valuesOfType(given.root, SKILL)) {
-    const id = one.value.esoSkillId
+    const id = one.value.esoAbilityId
     if (typeof id !== "number" || one.value[KEY] !== undefined) continue
     const equations = byId.get(id)
     if (equations !== undefined) valued.push({ path: one.path, value: JSON.stringify(equations) })

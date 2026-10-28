@@ -10,7 +10,7 @@ export const vengeanceBettyNetch = {
   description:
     "Call a betty netch to your side, which grants you Minor Berserk, increasing your damage done by |cffffff5|r% for |cffffff20|r seconds, and removing a negative effect from yourself.",
   icon: "/esoui/art/icons/ability_warden_017_a.dds",
-  esoSkillId: 238020,
+  esoAbilityId: 238020,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceBettyNetch = {
   skillType: "temper-skill-type/active",
   hashPlace: 1419,
   createdAt: "2026-05-28T16:03:34.205Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5% (Constant)", "<<2>> = 20 seconds (Constant)"],
 } as const satisfies TemperSkill

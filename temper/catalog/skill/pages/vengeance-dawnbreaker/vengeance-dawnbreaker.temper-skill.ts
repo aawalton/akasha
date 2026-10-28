@@ -10,7 +10,7 @@ export const vengeanceDawnbreaker = {
   description:
     "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing |cffffff14700|r Physical Damage to up to 3 enemies in front of you and an additional |cffffff15750|r Physical Damage over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_005.dds",
-  esoSkillId: 246303,
+  esoAbilityId: 246303,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceDawnbreaker = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1447,
   createdAt: "2026-05-28T16:03:34.246Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 13125 Physical Damage (Constant)",
     "<<2>> = 12 (Constant)",

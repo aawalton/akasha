@@ -10,7 +10,7 @@ export const endlessHail38689 = {
   description:
     "Launch a multitude of arrows into the sky to rain down, dealing |cffffff1196|r Physical Damage to enemies in the target area every |cffffff1|r second for |cffffff13|r seconds, after a |cffffff2|r second delay.",
   icon: "/esoui/art/icons/ability_bow_003_a.dds",
-  esoSkillId: 38689,
+  esoAbilityId: 38689,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const endlessHail38689 = {
   skillType: "temper-skill-type/active",
   hashPlace: 434,
   createdAt: "2026-05-28T16:03:32.339Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.015261 MaxStat + 0.161049 MaxPower - 1.38234 (Ultimate, ratio = 10.55, Dmg, Physical, AOE, DOT, 1s tick, R2 = 0.999992)",
     "<<2>> = 1 second (Constant)",

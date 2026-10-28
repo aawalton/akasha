@@ -10,7 +10,7 @@ export const bloodForBlood38949 = {
   description:
     "Rend an enemy, dealing |cffffff8076|r Magic Damage and applying the Hemorrhaging status effect.\n\nDeals up to |cffffff75|r% more damage based on your missing Health.\n\nAfter you cast this ability, you cannot be healed by allies for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_u26_vampire_01_a.dds",
-  esoSkillId: 38949,
+  esoAbilityId: 38949,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const bloodForBlood38949 = {
   skillType: "temper-skill-type/active",
   hashPlace: 117,
   createdAt: "2026-05-28T16:03:31.784Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = Hemorrhaging (Constant)",

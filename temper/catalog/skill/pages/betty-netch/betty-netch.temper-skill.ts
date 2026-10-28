@@ -10,7 +10,7 @@ export const bettyNetch = {
   description:
     "Call a betty netch to your side, which grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff22|r seconds.\n\nEvery |cffffff5|r seconds, the netch removes |cffffff1|r negative effect from you. If no negative effects are removed you instead increase your damage done by |cffffff5|r% for |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_warden_017_a.dds",
-  esoSkillId: 86050,
+  esoAbilityId: 86050,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const bettyNetch = {
   skillType: "temper-skill-type/active",
   hashPlace: 91,
   createdAt: "2026-05-28T16:03:31.719Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20% (Constant)",
     "<<2>> = 19 seconds (Constant)",

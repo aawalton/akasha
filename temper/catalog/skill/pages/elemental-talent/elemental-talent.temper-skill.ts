@@ -9,7 +9,7 @@ export const elementalTalent = {
   baseName: "Elemental Talent",
   description: "Increases your Weapon and Spell Damage by 258.",
   icon: "/esoui/art/icons/ability_armor_005.dds",
-  esoSkillId: 45276,
+  esoAbilityId: 45276,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const elementalTalent = {
   effects: "jsonl",
   hashPlace: 412,
   createdAt: "2026-05-26T03:18:02.183Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 258 (Constant)"],
 } as const satisfies TemperSkill

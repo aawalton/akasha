@@ -10,7 +10,7 @@ export const vengeanceRunicJolt = {
   description:
     "Craft a defensive Apocryphal rune that deals |cffffff5565|r Magic Damage, applies Minor Maim for |cffffff15|r seconds, reducing their damage done by |cffffff5|r%, and generates Crux.",
   icon: "/esoui/art/icons/ability_arcanist_007.dds",
-  esoSkillId: 238238,
+  esoAbilityId: 238238,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceRunicJolt = {
   skillType: "temper-skill-type/active",
   hashPlace: 1546,
   createdAt: "2026-05-28T16:03:34.389Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5250 Magic Damage (Constant)",
     "<<2>> = Minor Maim (Constant)",

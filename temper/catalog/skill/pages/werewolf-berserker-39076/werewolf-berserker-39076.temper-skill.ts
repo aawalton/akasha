@@ -10,7 +10,7 @@ export const werewolfBerserker39076 = {
   description:
     "Transform into a berserk beast, fearing nearby enemies for |cffffff3|r seconds.\n\nWhile transformed, you gain Major Berserk and your Light Attacks and Heavy Attacks apply a bleed for |cffffff3978|r Bleed Damage over |cffffff4|r seconds, or |cffffff1989|r Bleed Damage after |cffffff1|r second against players.\n\nWhile transformed and in combat, abilities generate Fury. When you have |cffffff1000|r, this ability becomes Rampage, which increases your damage done, Movement Speed, and removes the cost of Werewolf abilities for |cffffff20|r seconds.\n\nWhile slotted, your Stamina Recovery is increased by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_werewolf_001_b.dds",
-  esoSkillId: 39076,
+  esoAbilityId: 39076,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,7 +21,7 @@ export const werewolfBerserker39076 = {
   effects: "jsonl",
   hashPlace: 1614,
   createdAt: "2026-05-28T16:03:34.501Z",
-  updatedAt: "2026-10-21T16:04:34.416Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
     "<<2>> = Major Berserk (Constant)",

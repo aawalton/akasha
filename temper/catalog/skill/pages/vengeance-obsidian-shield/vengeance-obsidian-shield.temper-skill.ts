@@ -10,7 +10,7 @@ export const vengeanceObsidianShield = {
   description:
     "Call the earth to your defense, granting a damage shield to up to 3 of you and your allies that absorbs |cffffff13584|r damage.",
   icon: "/esoui/art/icons/ability_dragonknight_017.dds",
-  esoSkillId: 237785,
+  esoAbilityId: 237785,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceObsidianShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 1514,
   createdAt: "2026-05-28T16:03:34.343Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 11812 (Constant)"],
 } as const satisfies TemperSkill

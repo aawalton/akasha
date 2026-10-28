@@ -10,7 +10,7 @@ export const vengeanceSecludedGrove = {
   description:
     "Swell a healing forest at the target location, healing up to 3 of you and your allies for |cffffff42840|r Health over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_warden_012.dds",
-  esoSkillId: 238074,
+  esoAbilityId: 238074,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceSecludedGrove = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1552,
   createdAt: "2026-05-28T16:03:34.397Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6 (Constant)", "<<2>> = 42000 (Constant)", "<<3>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

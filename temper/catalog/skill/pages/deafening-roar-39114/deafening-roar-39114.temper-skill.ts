@@ -10,7 +10,7 @@ export const deafeningRoar39114 = {
   description:
     "Roar with bloodlust to fear nearby enemies for |cffffff4|r seconds, setting them Off Balance for |cffffff7|r seconds, and applying Major Cowardice and Maim for |cffffff14|r seconds. Grants you a stack of Blood Hunger.\n\nUp to 12 nearby allies can activate the Feeding Frenzy synergy, which grants |cffffff6|r% damage done and Minor Force for |cffffff30|r seconds.\n\nWhile slotted you gain Major Evasion and Minor Protection. Selecting this morph causes your Gnash to taunt enemies if cast while Bracing.",
   icon: "/esoui/art/icons/ability_werewolf_003_a.dds",
-  esoSkillId: 39114,
+  esoAbilityId: 39114,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 5,
@@ -20,7 +20,7 @@ export const deafeningRoar39114 = {
   skillType: "temper-skill-type/active",
   hashPlace: 328,
   createdAt: "2026-05-28T16:03:32.117Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
     "<<2>> = 7 seconds (Constant)",

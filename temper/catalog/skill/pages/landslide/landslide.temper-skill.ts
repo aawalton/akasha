@@ -10,7 +10,7 @@ export const landslide = {
   description:
     "Given time, the smallest rock on the mountain can cascade into pure devastation.\n\nWhenever you deal damage you gain a stack of Landslide which increases your damage done by |cffffff1|r% per stack, up to |cffffff10|r times. This effect can occur once every |cffffff10|r seconds.\n\nEvery |cffffff2|r seconds you do not deal damage, you lose a stack.",
   icon: "/esoui/art/icons/ability_weapon_005.dds",
-  esoSkillId: 29463,
+  esoAbilityId: 29463,
   isMorph: false,
   learnedLevel: 14,
   lineRankNeeded: 14,
@@ -20,7 +20,7 @@ export const landslide = {
   skillType: "temper-skill-type/passive",
   hashPlace: 725,
   createdAt: "2026-05-28T16:03:32.922Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Landslide (Constant)",
     "<<2>> = 1% (Constant)",

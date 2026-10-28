@@ -10,7 +10,7 @@ export const mesmerize = {
   description:
     "Subdue enemies in front of you with your baleful gaze, stunning them for |cffffff5|r seconds if they are facing your direction.\n\nThis stun cannot be blocked.",
   icon: "/esoui/art/icons/ability_u26_vampire_04.dds",
-  esoSkillId: 128709,
+  esoAbilityId: 128709,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,6 +20,6 @@ export const mesmerize = {
   skillType: "temper-skill-type/active",
   hashPlace: 821,
   createdAt: "2026-05-28T16:03:33.113Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

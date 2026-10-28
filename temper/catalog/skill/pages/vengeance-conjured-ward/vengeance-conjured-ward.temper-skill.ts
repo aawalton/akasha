@@ -10,7 +10,7 @@ export const vengeanceConjuredWard = {
   description:
     "Conjure globes of Daedric energy for protection, granting a damage shield for you that absorbs |cffffff18113|r damage for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_hurricane.dds",
-  esoSkillId: 237929,
+  esoAbilityId: 237929,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceConjuredWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1437,
   createdAt: "2026-05-28T16:03:34.232Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15750 (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -9,7 +9,7 @@ export const scribedTrampleFrostDamage = {
   baseName: "Trample",
   description: "Deals 2876 Frost Damage to all enemies.",
   icon: "/esoui/art/icons/ability_grimoire_assault.dds",
-  esoSkillId: 220542,
+  esoAbilityId: 220542,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const scribedTrampleFrostDamage = {
   grimoireId: "temper-grimoire/trample",
   hashPlace: 1698,
   createdAt: "2026-05-26T13:19:53.302Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

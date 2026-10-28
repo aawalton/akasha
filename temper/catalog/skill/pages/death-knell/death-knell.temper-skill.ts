@@ -9,7 +9,7 @@ export const deathKnell = {
   baseName: "Death Knell",
   description: "Increases your Critical Strike Chance against enemies under 33% Health by 20%.",
   icon: "/esoui/art/icons/passive_necromancer_002.dds",
-  esoSkillId: 116198,
+  esoAbilityId: 116198,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -21,6 +21,6 @@ export const deathKnell = {
   effects: "jsonl",
   hashPlace: 331,
   createdAt: "2026-05-26T03:13:12.261Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 20% (Constant)"],
 } as const satisfies TemperSkill

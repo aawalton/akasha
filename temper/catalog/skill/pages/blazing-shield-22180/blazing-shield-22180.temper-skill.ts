@@ -10,7 +10,7 @@ export const blazingShield22180 = {
   description:
     "Surround yourself with solar rays, applying Minor Maim to nearby enemies for |cffffff10|r seconds, reducing their damage done by |cffffff5|r%.\n\nYou gain a damage shield that absorbs up to |cffffff6802|r damage for |cffffff6|r seconds, increasing by |cffffff10|r% for each enemy hit, up to |cffffff60|r%. This ability scales off your Max Health.\n\nWhen the shield expires it explodes, dealing |cffffff37|r% of damage absorbed as Magic Damage to nearby enemies.",
   icon: "/esoui/art/icons/ability_templar_blazing_shield.dds",
-  esoSkillId: 22180,
+  esoAbilityId: 22180,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const blazingShield22180 = {
   skillType: "temper-skill-type/active",
   hashPlace: 102,
   createdAt: "2026-05-28T16:03:31.749Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Maim (Constant)",
     "<<2>> = 10 seconds (Constant)",

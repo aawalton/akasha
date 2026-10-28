@@ -10,7 +10,7 @@ export const summonTwilightTormentor24636 = {
   description:
     "Call on Azura to send a twilight tormentor to fight at your side. The twilight tormentor's zap deals |cffffff1667|r Shock Damage and its kick deals |cffffff1667|r Shock Damage.\n\nOnce summoned, you can activate the twilight tormentor's special ability for |cffffff2781|r Magicka, causing it to deal |cffffff60|r% more damage to enemies above |cffffff50|r% Health for |cffffff20|r seconds.\n\nThe twilight tormentor remains until killed or unsummoned.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_matriarch.dds",
-  esoSkillId: 24636,
+  esoAbilityId: 24636,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const summonTwilightTormentor24636 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1294,
   createdAt: "2026-05-28T16:03:33.988Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.02066 MaxStat + 0.21693 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 0.02066 MaxStat + 0.21693 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, SingleTarget, Direct, Melee, R2 = 1)",

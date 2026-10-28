@@ -10,7 +10,7 @@ export const scribedSmashDamageShield = {
   description:
     "Grants you and your allies a damage shield that absorbs 3006 damage for 6 seconds. Beneficial Signature and Affix scripts apply to you and your allies.",
   icon: "/esoui/art/icons/ability_grimoire_2handed.dds",
-  esoSkillId: 217820,
+  esoAbilityId: 217820,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedSmashDamageShield = {
   grimoireId: "temper-grimoire/smash",
   hashPlace: 1669,
   createdAt: "2026-05-26T13:19:53.275Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

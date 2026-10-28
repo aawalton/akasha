@@ -10,7 +10,7 @@ export const piercingMark36968 = {
   description:
     "Expose an enemy's weaknesses by applying Major Breach to them, reducing Physical Resistance and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\n\nYou can detect marked enemies even if they use stealth or invisibility for |cffffff3|r seconds. When a marked enemy dies, you heal to full Health.\n\nYou can only have one Piercing Mark active at a time.",
   icon: "/esoui/art/icons/ability_nightblade_014_b.dds",
-  esoSkillId: 36968,
+  esoAbilityId: 36968,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const piercingMark36968 = {
   skillType: "temper-skill-type/active",
   hashPlace: 898,
   createdAt: "2026-05-28T16:03:33.258Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Breach (Constant)",
     "<<2>> = 5948 (Constant)",

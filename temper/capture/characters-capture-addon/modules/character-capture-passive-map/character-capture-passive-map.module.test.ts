@@ -15,13 +15,13 @@ test("the encoder's passive bitmask is as long as the decoder's", () => {
   expect(characterPassiveSkillCount()).toBe(passiveSkillIds().length)
 })
 
-test("the bit the encoder sets for a passive's game id decodes to a passive with that game id", () => {
+test("the bit the encoder sets for a passive's ability id decodes to a passive with that ability id", () => {
   const ids = passiveSkillIds()
   for (const id of ids) {
-    const esoSkillId = skills.data[id]?.esoSkillId ?? 0
-    if (esoSkillId === 0) continue
-    const index = getPassiveBitmaskIndex(esoSkillId)
+    const esoAbilityId = skills.data[id]?.esoAbilityId ?? 0
+    if (esoAbilityId === 0) continue
+    const index = getPassiveBitmaskIndex(esoAbilityId)
     expect(index).toBeDefined()
-    expect(skills.data[ids[index ?? 0] ?? ""]?.esoSkillId).toBe(esoSkillId)
+    expect(skills.data[ids[index ?? 0] ?? ""]?.esoAbilityId).toBe(esoAbilityId)
   }
 })

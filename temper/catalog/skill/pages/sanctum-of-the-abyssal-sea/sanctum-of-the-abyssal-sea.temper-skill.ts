@@ -10,7 +10,7 @@ export const sanctumOfTheAbyssalSea = {
   description:
     "Gather the true strength of Apocrypha as protective tentacles rise from the Abyssal Sea around you. The tentacles form a damage shield that absorbs 60% of all damage for 10 seconds, up to a max of 37697 damage, scaling off your Max Health.\n\nWhen the shield collapses you lash out, dealing all of the damage absorbed as Magic Damage to enemies within 5 meters over 10 seconds.",
   icon: "/esoui/art/icons/ability_arcanist_012_a.dds",
-  esoSkillId: 40192372,
+  esoAbilityId: 40192372,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const sanctumOfTheAbyssalSea = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1122,
   createdAt: "2026-05-26T03:13:12.481Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 60% (Constant)",
     "<<2>> = 10 seconds (Constant)",

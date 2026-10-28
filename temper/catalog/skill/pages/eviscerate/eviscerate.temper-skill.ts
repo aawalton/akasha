@@ -10,7 +10,7 @@ export const eviscerate = {
   description:
     "Rend an enemy, dealing |cffffff8076|r Magic Damage and applying the Hemorrhaging status effect.\n\nDeals up to |cffffff33|r% more damage based on your missing Health.",
   icon: "/esoui/art/icons/ability_u26_vampire_01.dds",
-  esoSkillId: 32893,
+  esoAbilityId: 32893,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const eviscerate = {
   skillType: "temper-skill-type/active",
   hashPlace: 465,
   createdAt: "2026-05-28T16:03:32.399Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1 MaxStat + 1.05 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = Hemorrhaging (Constant)",

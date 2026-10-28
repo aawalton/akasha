@@ -10,7 +10,7 @@ export const enduringUndeath118809 = {
   description:
     "Release residual fragments of fallen souls at the target location, healing you and your allies for |cffffff7547|r Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for |cffffff7540|r Health over |cffffff5|r seconds. You can consume up to |cffffff5|r additional corpses on cast, with each corpse extending the duration of the heal over time by |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_016_b.dds",
-  esoSkillId: 118809,
+  esoAbilityId: 118809,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const enduringUndeath118809 = {
   skillType: "temper-skill-type/active",
   hashPlace: 438,
   createdAt: "2026-05-28T16:03:32.353Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, Direct, R2 = 1)",
     "<<2>> = 0.02066 MaxStat + 0.21693 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, AOE, DOT, 4s duration, 1s tick, R2 = 1)",

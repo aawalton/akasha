@@ -10,7 +10,7 @@ export const vengeanceSuperheatedWard = {
   description:
     "Draw upon magma from under the earth to superheat the air around yourself or an ally, granting a damage shield that absorbs up to |cffffff15870|r damage for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_013.dds",
-  esoSkillId: 237781,
+  esoAbilityId: 237781,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceSuperheatedWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1571,
   createdAt: "2026-05-28T16:03:34.425Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 13800 (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

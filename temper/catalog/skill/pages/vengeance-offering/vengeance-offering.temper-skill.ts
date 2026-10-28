@@ -10,7 +10,7 @@ export const vengeanceOffering = {
   description:
     "Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff16065|r Health.",
   icon: "/esoui/art/icons/ability_nightblade_011.dds",
-  esoSkillId: 237711,
+  esoAbilityId: 237711,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceOffering = {
   skillType: "temper-skill-type/active",
   hashPlace: 1516,
   createdAt: "2026-05-28T16:03:34.346Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15750 (Constant)"],
 } as const satisfies TemperSkill

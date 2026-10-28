@@ -10,7 +10,7 @@ export const lightsChampion = {
   description:
     "Release the rejuvenating energies of your staff to swirl around you, healing you or a nearby ally for 2904 Health every 1 second for 5 seconds.\n\nAny friendly target you heal gains Major Force for 8 seconds, increasing their Critical Damage by 20%.",
   icon: "/esoui/art/icons/ability_restorationstaff_006_b.dds",
-  esoSkillId: 86475,
+  esoAbilityId: 86475,
   isMorph: true,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -20,7 +20,7 @@ export const lightsChampion = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 753,
   createdAt: "2026-05-26T02:38:38.335Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.12913 MaxStat + 1.35581 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 1 second (Constant)",

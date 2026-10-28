@@ -10,7 +10,7 @@ export const magickaAid = {
   description:
     "Increases your Magicka Recovery by 10% for each Support ability slotted.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_sorcerer_038.dds",
-  esoSkillId: 45622,
+  esoAbilityId: 45622,
   isMorph: false,
   learnedLevel: 9,
   lineRankNeeded: 9,
@@ -22,6 +22,6 @@ export const magickaAid = {
   effects: "jsonl",
   hashPlace: 784,
   createdAt: "2026-05-26T03:25:55.792Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10 Support (Support Skills Slotted, SingleTarget, Direct, R2 = 1)"],
 } as const satisfies TemperSkill

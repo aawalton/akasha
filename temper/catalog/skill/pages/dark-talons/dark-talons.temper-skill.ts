@@ -10,7 +10,7 @@ export const darkTalons = {
   description:
     "Call forth talons from the ground, dealing |cffffff6400|r Flame Damage to enemies near you and immobilizing them for |cffffff4|r seconds. \n\nAn ally near the talons can activate the Ignite synergy, dealing |cffffff10328|r Flame Damage to all enemies held within them.",
   icon: "/esoui/art/icons/ability_dragonknight_010.dds",
-  esoSkillId: 20245,
+  esoAbilityId: 20245,
   isMorph: false,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const darkTalons = {
   skillType: "temper-skill-type/active",
   hashPlace: 314,
   createdAt: "2026-05-28T16:03:32.095Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.075 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 4 seconds (Constant)",

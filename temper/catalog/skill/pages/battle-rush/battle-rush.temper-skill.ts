@@ -9,7 +9,7 @@ export const battleRush = {
   baseName: "Battle Rush",
   description: "Increases your Stamina Recovery by 30% for 10 seconds after killing a target.",
   icon: "/esoui/art/icons/ability_weapon_021.dds",
-  esoSkillId: 45448,
+  esoAbilityId: 45448,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 41,
@@ -21,6 +21,6 @@ export const battleRush = {
   effects: "jsonl",
   hashPlace: 83,
   createdAt: "2026-05-26T02:38:38.292Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 30% (Constant)", "<<2>> = 10 seconds (Constant)"],
 } as const satisfies TemperSkill

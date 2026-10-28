@@ -10,7 +10,7 @@ export const healingTides = {
   description:
     "Your mastery of weaving fate and abyssal water increases your healing done by 4% for each active Crux.",
   icon: "/esoui/art/icons/passive_arcanist_09.dds",
-  esoSkillId: 185186,
+  esoAbilityId: 185186,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -21,6 +21,6 @@ export const healingTides = {
   status: "unsupported",
   hashPlace: 609,
   createdAt: "2026-05-26T03:13:12.351Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 4% (Constant)"],
 } as const satisfies TemperSkill

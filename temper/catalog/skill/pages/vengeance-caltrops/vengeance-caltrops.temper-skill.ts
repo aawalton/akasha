@@ -10,7 +10,7 @@ export const vengeanceCaltrops = {
   description:
     "Hurl a ball of caltrops that scatter over the target area, dealing |cffffff7056|r Physical Damage to up to 3 enemies inside, and reducing their Movement Speed by |cffffff50|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_ava_001.dds",
-  esoSkillId: 244514,
+  esoAbilityId: 244514,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceCaltrops = {
   skillType: "temper-skill-type/active",
   hashPlace: 1431,
   createdAt: "2026-05-28T16:03:34.222Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6300 Physical Damage (Constant)",
     "<<2>> = 6 (Constant)",

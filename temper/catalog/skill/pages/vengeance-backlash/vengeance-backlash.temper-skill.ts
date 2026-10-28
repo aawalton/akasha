@@ -10,7 +10,7 @@ export const vengeanceBacklash = {
   description:
     "Summon an expanding beam of pure sunlight to doom an enemy for |cffffff6|r seconds, dealing |cffffff5141|r Magic Damage immediately and |cffffff15423|r Magic Damage after the duration ends.\n\nThe final hit of damage cannot be dodged.",
   icon: "/esoui/art/icons/ability_templar_backlash.dds",
-  esoSkillId: 237957,
+  esoAbilityId: 237957,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceBacklash = {
   skillType: "temper-skill-type/active",
   hashPlace: 1415,
   createdAt: "2026-05-28T16:03:34.200Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 4850 Magic Damage (Constant)",

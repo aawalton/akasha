@@ -10,7 +10,7 @@ export const vengeanceNegateMagic = {
   description:
     "Create a globe of magic suppression at your target location that stuns up to 3 enemies in the area for |cffffff3|r seconds and silences them if they are a player for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_monsoon.dds",
-  esoSkillId: 237856,
+  esoAbilityId: 237856,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceNegateMagic = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1512,
   createdAt: "2026-05-28T16:03:34.340Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3 seconds (Constant)", "<<2>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

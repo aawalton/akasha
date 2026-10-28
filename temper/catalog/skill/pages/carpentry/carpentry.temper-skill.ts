@@ -10,7 +10,7 @@ export const carpentry = {
   description:
     "Reduces research times by 25%, limits research time to 30 days, and allows the research of three items at once.",
   icon: "/esoui/art/icons/crafting_forester_plug_component_002.dds",
-  esoSkillId: 58783,
+  esoAbilityId: 58783,
   isMorph: false,
   learnedLevel: 45,
   lineRankNeeded: 45,
@@ -20,5 +20,5 @@ export const carpentry = {
   skillType: "temper-skill-type/passive",
   hashPlace: 185,
   createdAt: "2026-05-26T02:37:19.371Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

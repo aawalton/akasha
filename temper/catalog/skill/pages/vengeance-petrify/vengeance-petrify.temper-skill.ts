@@ -10,7 +10,7 @@ export const vengeancePetrify = {
   description:
     "Encase an enemy in molten rock after |cffffff1|r second, stunning them for |cffffff3|r seconds.\n\nThis stun cannot be blocked.",
   icon: "/esoui/art/icons/ability_dragonknight_014.dds",
-  esoSkillId: 237787,
+  esoAbilityId: 237787,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeancePetrify = {
   skillType: "temper-skill-type/active",
   hashPlace: 1520,
   createdAt: "2026-05-28T16:03:34.351Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1 second (Constant)", "<<2>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

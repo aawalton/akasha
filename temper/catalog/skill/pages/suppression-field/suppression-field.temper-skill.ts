@@ -10,7 +10,7 @@ export const suppressionField = {
   description:
     "Create a globe of magic suppression for 12 seconds, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.\n\nThe globe also damages enemies for 1038 Magic Damage every 1 second.",
   icon: "/esoui/art/icons/ability_sorcerer_crushing_monsoon.dds",
-  esoSkillId: 29861,
+  esoAbilityId: 29861,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const suppressionField = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1306,
   createdAt: "2026-05-26T03:13:12.523Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 12 seconds (Constant)",
     "<<2>> = 0.0461487 MaxStat + 0.484482 MaxPower - 0.42246 (Ultimate, ratio = 10.50, Dmg, Magic, AOE, DOT, 1s tick, R2 = 0.999999)",

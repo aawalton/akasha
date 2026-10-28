@@ -10,7 +10,7 @@ export const potencyImprovement = {
   description:
     "Allows the use of Rejera, Repora, Jehade, and Itade Potency Runestones to make Glyphs of Champion 150 and 160.",
   icon: "/esoui/art/icons/ability_enchanter_001b.dds",
-  esoSkillId: 70045,
+  esoAbilityId: 70045,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,5 +20,5 @@ export const potencyImprovement = {
   skillType: "temper-skill-type/passive",
   hashPlace: 906,
   createdAt: "2026-05-26T02:37:19.401Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

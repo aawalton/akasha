@@ -10,7 +10,7 @@ export const rebate = {
   description:
     "You restore 371 Magicka or Stamina when one of your non-Ultimate Daedric Summoning abilities end. The resource returned is dictated by the ability's cost.",
   icon: "/esoui/art/icons/ability_sorcerer_056.dds",
-  esoSkillId: 45198,
+  esoAbilityId: 45198,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -21,6 +21,6 @@ export const rebate = {
   status: "unsupported",
   hashPlace: 994,
   createdAt: "2026-05-26T03:13:12.447Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 371 (Constant)"],
 } as const satisfies TemperSkill

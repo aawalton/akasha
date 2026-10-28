@@ -10,7 +10,7 @@ export const undeadConfederate = {
   description:
     "While you have a Sacrificial Bones, Skeletal Mage, or Spirit Mender active, your Health, Magicka, and Stamina Recovery is increased by 155.",
   icon: "/esoui/art/icons/passive_necromancer_012.dds",
-  esoSkillId: 116283,
+  esoAbilityId: 116283,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -22,7 +22,7 @@ export const undeadConfederate = {
   effects: "jsonl",
   hashPlace: 1380,
   createdAt: "2026-05-26T03:13:12.536Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Sacrificial Bones (Constant)",
     "<<2>> = Skeletal Mage (Constant)",

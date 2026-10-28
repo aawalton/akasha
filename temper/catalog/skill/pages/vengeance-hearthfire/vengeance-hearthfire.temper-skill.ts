@@ -10,7 +10,7 @@ export const vengeanceHearthfire = {
   description:
     "Tend to a warming tinder that heals up to 3 of you and your allies for |cffffff12048|r Health.",
   icon: "/esoui/art/icons/ability_dragonknight_016.dds",
-  esoSkillId: 237788,
+  esoAbilityId: 237788,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceHearthfire = {
   skillType: "temper-skill-type/active",
   hashPlace: 1490,
   createdAt: "2026-05-28T16:03:34.308Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6 (Constant)", "<<2>> = 11812 (Constant)"],
 } as const satisfies TemperSkill

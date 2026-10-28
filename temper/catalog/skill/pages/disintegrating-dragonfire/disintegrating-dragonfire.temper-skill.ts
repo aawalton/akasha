@@ -10,7 +10,7 @@ export const disintegratingDragonfire = {
   description:
     "Exhale a blast of draconic fire in front of you, dealing 7148 Flame Damage, applying the Burning status effect, and an additional 10630 Flame Damage over 10 seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by 5948.",
   icon: "/esoui/art/icons/ability_dragonknight_004_a.dds",
-  esoSkillId: 20944,
+  esoAbilityId: 20944,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const disintegratingDragonfire = {
   skillType: "temper-skill-type/active",
   hashPlace: 371,
   createdAt: "2026-05-26T03:13:12.281Z",
-  updatedAt: "2026-10-21T08:06:41.937Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.080002334 MaxStat + 0.84002451 MaxPower (Ultimate, RankMod(1), Dmg, Flame, AOE, Direct, Melee)",
     "<<2>> = Burning (Constant)",

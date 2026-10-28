@@ -10,7 +10,7 @@ export const ballOfLightning23277 = {
   description:
     "Transform yourself into pure energy and flash forward. After reaching your location, you become immune to snare and immobilize effects for |cffffff2|r seconds. A ball of lightning is summoned at your end point, which intercepts up to |cffffff1|r projectile attack made against you every |cffffff1|r second for |cffffff3|r seconds.\n\nCasting again within |cffffff4|r seconds costs |cffffff33|r% more Magicka.",
   icon: "/esoui/art/icons/ability_sorcerer_ball_of_lightning.dds",
-  esoSkillId: 23277,
+  esoAbilityId: 23277,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const ballOfLightning23277 = {
   skillType: "temper-skill-type/active",
   hashPlace: 73,
   createdAt: "2026-05-28T16:03:31.685Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2 seconds (Constant)",
     "<<2>> = 2 seconds (Constant)",

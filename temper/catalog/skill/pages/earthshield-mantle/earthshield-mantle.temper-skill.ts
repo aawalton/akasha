@@ -10,7 +10,7 @@ export const earthshieldMantle = {
   description:
     "Envelop your body in molten spikes to increase your damage done by 100 and gain Major Resolve, increasing Physical and Spell Resistance by 5948 for 20 seconds.\n\nPower drawn from the heart of a volcano forms a damage shield around you that absorbs up to 6611 damage for 6 seconds, scaling off your Max Health.",
   icon: "/esoui/art/icons/ability_dragonknight_007_b.dds",
-  esoSkillId: 20328,
+  esoAbilityId: 20328,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const earthshieldMantle = {
   skillType: "temper-skill-type/active",
   hashPlace: 391,
   createdAt: "2026-05-26T03:13:12.285Z",
-  updatedAt: "2026-10-21T15:58:06.660Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 100 (Constant)",
     "<<2>> = Major Resolve (Constant)",

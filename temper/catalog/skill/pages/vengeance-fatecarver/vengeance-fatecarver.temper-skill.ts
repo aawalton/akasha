@@ -10,7 +10,7 @@ export const vengeanceFatecarver = {
   description:
     "Harness pure knowledge into a beam of energy that scars the world in front of you. Channel the beam for up to |cffffff4|r seconds, dealing |cffffff8820|r Magic Damage every |cffffff1|r second to up to 3 enemies.\n\nCasting Fatecarver consumes all Crux and increases damage done by |cffffff2940|r per Crux spent.",
   icon: "/esoui/art/icons/ability_arcanist_002.dds",
-  esoSkillId: 238174,
+  esoAbilityId: 238174,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceFatecarver = {
   skillType: "temper-skill-type/active",
   hashPlace: 1470,
   createdAt: "2026-05-28T16:03:34.280Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
     "<<2>> = 8820 Magic Damage (Constant)",

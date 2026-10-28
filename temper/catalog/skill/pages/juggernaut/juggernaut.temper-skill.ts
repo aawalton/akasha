@@ -10,7 +10,7 @@ export const juggernaut = {
   description:
     "Increases your Max Health by 2% for each piece of Heavy Armor equipped.  \n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_012.dds",
-  esoSkillId: 45546,
+  esoAbilityId: 45546,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 14,
@@ -22,7 +22,7 @@ export const juggernaut = {
   effects: "jsonl",
   hashPlace: 703,
   createdAt: "2026-05-26T02:59:07.602Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2% (Constant)",
     "<<2>> = 2 HeavyArmor (Heavy Armor, SingleTarget, Direct, R2 = 1)",

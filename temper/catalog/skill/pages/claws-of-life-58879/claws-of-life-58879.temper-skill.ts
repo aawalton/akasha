@@ -10,7 +10,7 @@ export const clawsOfLife58879 = {
   description:
     "Shred up to |cffffff6|r enemies in front of you with blood soaked claws, dealing |cffffff6617|r Physical Damage and an additional |cffffff11560|r Bleed Damage over |cffffff10|r seconds. Reduced to |cffffff6936|r Bleed Damage over |cffffff6|r seconds against players.\n\nYou heal for |cffffff41|r% of the initial hit's damage, while you heal for |cffffff1160|r Health with the damage over time, based off your Max Health.\n\nThe initial hit grants a stack of Blood Hunger per enemy hit and has a |cffffff15|r% chance of applying Sundered, while the damage over time has a |cffffff5|r% chance of applying Hemorrhaging.",
   icon: "/esoui/art/icons/ability_werewolf_006_c.dds",
-  esoSkillId: 58879,
+  esoAbilityId: 58879,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 9,
@@ -20,7 +20,7 @@ export const clawsOfLife58879 = {
   skillType: "temper-skill-type/active",
   hashPlace: 218,
   createdAt: "2026-05-28T16:03:31.955Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 (Constant)",
     "<<2>> = 0.100717 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Physical, AOE, Direct, Melee, R2 = 1)",

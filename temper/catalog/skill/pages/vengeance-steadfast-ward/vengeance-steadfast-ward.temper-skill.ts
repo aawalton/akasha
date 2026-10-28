@@ -10,7 +10,7 @@ export const vengeanceSteadfastWard = {
   description:
     "Call on your staff's strength to protect you or an ally with a damage shield that absorbs |cffffff12075|r damage for |cffffff6|r seconds.\n\nThe shield's strength is increased by up to |cffffff100|r%, depending on the severity of the target's wounds.",
   icon: "/esoui/art/icons/ability_restorationstaff_001.dds",
-  esoSkillId: 241535,
+  esoAbilityId: 241535,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceSteadfastWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1566,
   createdAt: "2026-05-28T16:03:34.417Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10500 (Constant)", "<<2>> = 6 seconds (Constant)", "<<3>> = 100 (Constant)"],
 } as const satisfies TemperSkill

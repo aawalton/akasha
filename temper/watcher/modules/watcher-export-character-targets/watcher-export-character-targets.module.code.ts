@@ -72,8 +72,8 @@ function barSlotOf(skillId: string): TargetBarSlot {
   const scribed = scribedSkills.data[skillId as keyof typeof scribedSkills.data]
   if (scribed !== undefined) return { name: scribed.name, abilityId: 0 }
   const skill = skills.data[skillId as keyof typeof skills.data]
-  if (skill === undefined || skill.esoSkillId === 0) return NO_SKILL
-  return { name: skill.name, abilityId: skill.esoSkillId }
+  if (skill === undefined || skill.esoAbilityId === 0) return NO_SKILL
+  return { name: skill.name, abilityId: skill.esoAbilityId }
 }
 
 function barOf(bar: Readonly<Record<string, string>>): readonly TargetBarSlot[] {

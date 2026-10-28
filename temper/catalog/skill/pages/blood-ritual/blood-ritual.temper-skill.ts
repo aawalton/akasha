@@ -10,7 +10,7 @@ export const bloodRitual = {
   description:
     "Allows you to infect another player with Noxiphilic Sanguivoria once every week by returning to the Vampire ritual site. \n\nPlayers already infected with Lycanthropy cannot be infected with Noxiphilic Sanguivoria.",
   icon: "/esoui/art/icons/passive_u26_vampire_05.dds",
-  esoSkillId: 33091,
+  esoAbilityId: 33091,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -22,5 +22,5 @@ export const bloodRitual = {
   effects: "jsonl",
   hashPlace: 126,
   createdAt: "2026-05-26T03:25:55.729Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

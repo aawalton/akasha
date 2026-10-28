@@ -9,7 +9,7 @@ export const keenEyeTreasureChests = {
   baseName: "Keen Eye: Treasure Chests",
   description: "Treasure Chests will be easier to see when you are 30 meters or closer.",
   icon: "/esoui/art/icons/ability_scrying_08b.dds",
-  esoSkillId: 139772,
+  esoAbilityId: 139772,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -19,6 +19,6 @@ export const keenEyeTreasureChests = {
   skillType: "temper-skill-type/passive",
   hashPlace: 716,
   createdAt: "2026-05-26T03:25:55.786Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 30 meters (Constant)"],
 } as const satisfies TemperSkill

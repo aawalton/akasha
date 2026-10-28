@@ -10,7 +10,7 @@ export const precognition = {
   description:
     "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were 4 seconds ago.\n\nYou can cast this ability while you are crowd controlled and it automatically grants you Crowd Control Immunity.",
   icon: "/esoui/art/icons/ability_psijic_001_a.dds",
-  esoSkillId: 40103557,
+  esoAbilityId: 40103557,
   isMorph: true,
   learnedLevel: 10,
   lineRankNeeded: 10,
@@ -20,5 +20,5 @@ export const precognition = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 925,
   createdAt: "2026-05-26T02:59:07.640Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

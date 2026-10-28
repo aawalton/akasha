@@ -10,7 +10,7 @@ export const veilOfShadows = {
   description:
     "Decreases detection range of Witnesses and Guards by 10%. Witnesses and Guards are thus less likely to notice criminal actions, though this has no impact on the range from which Guards will accost you.",
   icon: "/esoui/art/icons/ability_thievesguild_passive_003.dds",
-  esoSkillId: 76453,
+  esoAbilityId: 76453,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -22,6 +22,6 @@ export const veilOfShadows = {
   effects: "jsonl",
   hashPlace: 1405,
   createdAt: "2026-05-26T02:59:07.692Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10% (Constant)"],
 } as const satisfies TemperSkill

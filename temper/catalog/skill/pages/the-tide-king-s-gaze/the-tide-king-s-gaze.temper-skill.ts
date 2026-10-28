@@ -10,7 +10,7 @@ export const theTideKingSGaze = {
   description:
     "Tear open the fabric of the Aurbis to summon a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for |cffffff8|r seconds that deals |cffffff3777|r Magic Damage to enemies within 5 meters every |cffffff0.5|r seconds. \n\nThe scion's beam automatically follows the initial target, and hunts for a new one within 8 meters if it is slain.",
   icon: "/esoui/art/icons/ability_arcanist_006_a.dds",
-  esoSkillId: 189837,
+  esoAbilityId: 189837,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const theTideKingSGaze = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1340,
   createdAt: "2026-05-28T16:03:34.068Z",
-  updatedAt: "2026-10-21T10:05:07.267Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 8 seconds (Constant)",
     "<<2>> = 0.049584 MaxStat + 0.520632 MaxPower (Ultimate, Dmg, Magic, SingleTarget, DOT, Channeled, 0.5s tick, rank IV)",

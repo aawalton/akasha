@@ -10,7 +10,7 @@ export const undauntedCommand = {
   description:
     "Activating a synergy restores 4% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: 640 Health, 480 Stamina, and 480 Magicka.",
   icon: "/esoui/art/icons/ability_templar_003.dds",
-  esoSkillId: 55676,
+  esoAbilityId: 55676,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -22,7 +22,7 @@ export const undauntedCommand = {
   effects: "jsonl",
   hashPlace: 1378,
   createdAt: "2026-05-26T02:59:07.688Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.04 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.04 Stamina (Stamina, SingleTarget, Direct, R2 = 1)",

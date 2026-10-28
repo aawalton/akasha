@@ -10,7 +10,7 @@ export const craftsman = {
   description:
     "Increases your experience gain with the Heavy Armor skill line by 15%.\n\nIncreases your crafting inspiration gained by 10%.",
   icon: "/esoui/art/icons/ability_dragonknight_021.dds",
-  esoSkillId: 33293,
+  esoAbilityId: 33293,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,6 +21,6 @@ export const craftsman = {
   status: "unsupported",
   hashPlace: 256,
   createdAt: "2026-05-26T03:18:02.179Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10% (Constant)"],
 } as const satisfies TemperSkill

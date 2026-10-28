@@ -10,7 +10,7 @@ export const boneArmor = {
   description:
     "Wrap yourself in hardened bone, granting you Major Resolve and Minor Resolve for |cffffff20|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r and |cffffff2974|r.\n\nIf cast during combat, you can cast a corpse consuming ability on yourself. This effect can occur once every |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_008.dds",
-  esoSkillId: 115206,
+  esoAbilityId: 115206,
   isMorph: false,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const boneArmor = {
   skillType: "temper-skill-type/active",
   hashPlace: 143,
   createdAt: "2026-05-28T16:03:31.823Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5948 (Constant)",
     "<<2>> = 2974 (Constant)",

@@ -10,7 +10,7 @@ export const forcePulse46356 = {
   description:
     "Focus all the elemental energies with your staff and blast an enemy for |cffffff2422|r Flame Damage, |cffffff2422|r Frost Damage, and |cffffff2422|r Shock Damage. \n\nUp to 2 nearby enemies will take \n|cffffff8342|r Magic Damage if they were already afflicted with a status effect.",
   icon: "/esoui/art/icons/ability_destructionstaff_001b.dds",
-  esoSkillId: 46356,
+  esoAbilityId: 46356,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const forcePulse46356 = {
   skillType: "temper-skill-type/active",
   hashPlace: 532,
   createdAt: "2026-05-28T16:03:32.519Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.03099 MaxStat + 0.325395 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.0310259 MaxStat + 0.325425 MaxPower - 1.91657 (Ultimate, ratio = 10.49, Dmg, Frost, SingleTarget, Direct, R2 = 0.999998)",

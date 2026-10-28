@@ -10,7 +10,7 @@ export const vibrantShroud = {
   description:
     "Call forth a Daedric shroud from the Colored Rooms to heal you and your allies and enfeeble foes in front of you. \n\nYou and allies in the area are healed for 2700 Health and receive Minor Vitality, increasing your healing received and damage shield strength by 6% for 10 seconds.\n\nEnemies are afflicted with Major Maim, reducing their damage done by 10% for 10 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_crushing_winds.dds",
-  esoSkillId: 30107,
+  esoAbilityId: 30107,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const vibrantShroud = {
   skillType: "temper-skill-type/active",
   hashPlace: 1596,
   createdAt: "2026-05-26T03:13:12.548Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.120048029 MaxStat + 1.26049759 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Heal, AOE, Direct, R2 = 1)",
     "<<2>> = Minor Vitality (Constant)",

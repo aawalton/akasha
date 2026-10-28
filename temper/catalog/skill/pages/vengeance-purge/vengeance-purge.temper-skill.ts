@@ -10,7 +10,7 @@ export const vengeancePurge = {
   description:
     "Cleanse yourself and up to 2 group members, removing up to |cffffff3|r negative effects immediately.\n\nCan only be cast when you have a negative effect active on yourself.",
   icon: "/esoui/art/icons/ability_ava_005.dds",
-  esoSkillId: 244715,
+  esoAbilityId: 244715,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeancePurge = {
   skillType: "temper-skill-type/active",
   hashPlace: 1526,
   createdAt: "2026-05-28T16:03:34.360Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3 (Constant)"],
 } as const satisfies TemperSkill

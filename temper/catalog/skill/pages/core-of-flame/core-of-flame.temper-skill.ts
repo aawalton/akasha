@@ -10,7 +10,7 @@ export const coreOfFlame = {
   description:
     "Let the fire within draw heat to your core, restoring |cffffff15|r% of your missing Magicka and Stamina every |cffffff2|r seconds over |cffffff4|r seconds.\n\nWhen this ability completes, you release this heat as a blast of fire that deals |cffffff7360|r Flame Damage to nearby enemies.",
   icon: "/esoui/art/icons/ability_dragonknight_012.dds",
-  esoSkillId: 31837,
+  esoAbilityId: 31837,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const coreOfFlame = {
   skillType: "temper-skill-type/active",
   hashPlace: 250,
   createdAt: "2026-05-28T16:03:32.002Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 12% (Constant)",
     "<<2>> = 2 seconds (Constant)",

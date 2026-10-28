@@ -10,7 +10,7 @@ export const propellingShield = {
   description:
     "Create a protective sphere over your location that reduces damage taken from siege weapons by 50% for you and nearby allies.\n\nAlso increases the range of abilities with a range greater than 28 meters by 7 meters. Does not affect Leap, Move Position, and Pull abilities.",
   icon: "/esoui/art/icons/ability_ava_004_a.dds",
-  esoSkillId: 46670,
+  esoAbilityId: 46670,
   isMorph: true,
   learnedLevel: 2,
   lineRankNeeded: 2,
@@ -20,6 +20,6 @@ export const propellingShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 932,
   createdAt: "2026-05-26T03:25:55.800Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 50% (Constant)", "<<2>> = 7 meters (Constant)"],
 } as const satisfies TemperSkill

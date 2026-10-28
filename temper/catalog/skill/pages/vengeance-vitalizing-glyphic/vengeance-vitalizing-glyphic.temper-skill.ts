@@ -10,7 +10,7 @@ export const vengeanceVitalizingGlyphic = {
   description:
     "Call forth an Apocryphal glyphic for |cffffff6|r seconds, which heals you or up to 3 allies around it for |cffffff9180|r Health every |cffffff1|r second and grants Major Force while in the area, increasing Critical Damage by |cffffff20|r%.",
   icon: "/esoui/art/icons/ability_arcanist_018.dds",
-  esoSkillId: 238549,
+  esoAbilityId: 238549,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceVitalizingGlyphic = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1584,
   createdAt: "2026-05-28T16:03:34.443Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 6 (Constant)",

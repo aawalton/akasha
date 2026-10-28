@@ -10,7 +10,7 @@ export const concentratedBarrier = {
   description:
     "While you have a Psijic Order ability slotted and are Bracing, you gain a damage shield that absorbs 5000 damage. \n\nThis damage shield recharges back to full strength after you spend 10 seconds not Bracing.",
   icon: "/esoui/art/icons/ability_psijic_010.dds",
-  esoSkillId: 103964,
+  esoAbilityId: 103964,
   isMorph: false,
   learnedLevel: 8,
   lineRankNeeded: 8,
@@ -22,6 +22,6 @@ export const concentratedBarrier = {
   effects: "jsonl",
   hashPlace: 235,
   createdAt: "2026-05-26T02:59:07.562Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5000 (Constant)"],
 } as const satisfies TemperSkill

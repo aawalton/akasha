@@ -10,7 +10,7 @@ export const cuttingDive = {
   description:
     "Command a cliff racer to dive bomb an enemy, dealing 2091 Bleed Damage immediately and then causing them to bleed for 2140 Bleed Damage over 10 seconds.\n\nIf you are more than 7 meters away from the target, you set them Off Balance for 7 seconds.",
   icon: "/esoui/art/icons/ability_warden_013_b.dds",
-  esoSkillId: 86002,
+  esoAbilityId: 86002,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const cuttingDive = {
   skillType: "temper-skill-type/active",
   hashPlace: 286,
   createdAt: "2026-05-26T03:13:12.240Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.09297 MaxStat + 0.976185 MaxPower (Ultimate, ratio = 10.50, Dmg, Bleed, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.00954756 MaxStat + 0.100091 MaxPower - 2.63442 (Ultimate, ratio = 10.48, Dmg, Bleed, SingleTarget, DOT, 9.1s duration, 1s tick, R2 = 0.999978)",

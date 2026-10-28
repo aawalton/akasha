@@ -10,7 +10,7 @@ export const deepThoughts = {
   description:
     "Focus your body and mind into a meditative state, healing for 1500 Health and restoring 1900 Magicka and Stamina every 1 second.\n\nYou will remain in a meditative state until you toggle this ability off or are interrupted.",
   icon: "/esoui/art/icons/ability_psijic_004_a.dds",
-  esoSkillId: 40103652,
+  esoAbilityId: 40103652,
   isMorph: true,
   learnedLevel: 8,
   lineRankNeeded: 8,
@@ -20,6 +20,6 @@ export const deepThoughts = {
   skillType: "temper-skill-type/active",
   hashPlace: 343,
   createdAt: "2026-05-26T02:59:07.569Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1500 (Constant)", "<<2>> = 1900 (Constant)", "<<3>> = 1 second (Constant)"],
 } as const satisfies TemperSkill

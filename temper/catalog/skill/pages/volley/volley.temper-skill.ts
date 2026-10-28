@@ -10,7 +10,7 @@ export const volley = {
   description:
     "Launch a multitude of arrows into the sky to rain down, dealing |cffffff1196|r Physical Damage to enemies in the target area every |cffffff1|r second for |cffffff8|r seconds, after a |cffffff2|r second delay.",
   icon: "/esoui/art/icons/ability_bow_003.dds",
-  esoSkillId: 28876,
+  esoAbilityId: 28876,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const volley = {
   skillType: "temper-skill-type/active",
   hashPlace: 1605,
   createdAt: "2026-05-28T16:03:34.480Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0147919 MaxStat + 0.155883 MaxPower - 1.489 (Ultimate, ratio = 10.54, Dmg, Physical, AOE, DOT, 1s tick, R2 = 0.999992)",
     "<<2>> = 1 second (Constant)",

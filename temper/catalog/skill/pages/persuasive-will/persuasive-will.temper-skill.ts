@@ -9,7 +9,7 @@ export const persuasiveWill = {
   baseName: "Persuasive Will",
   description: "Allows you to Persuade NPCs in conversation.",
   icon: "/esoui/art/icons/ability_weapon_024.dds",
-  esoSkillId: 29061,
+  esoAbilityId: 29061,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const persuasiveWill = {
   effects: "jsonl",
   hashPlace: 885,
   createdAt: "2026-05-26T02:59:07.637Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

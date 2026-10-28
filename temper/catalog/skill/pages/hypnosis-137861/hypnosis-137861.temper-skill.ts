@@ -10,7 +10,7 @@ export const hypnosis137861 = {
   description:
     "Subdue enemies around you with your baleful gaze, stunning them for |cffffff5|r seconds if they are facing your direction.\n\nThis stun cannot be blocked.",
   icon: "/esoui/art/icons/ability_u26_vampire_04_a.dds",
-  esoSkillId: 137861,
+  esoAbilityId: 137861,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,6 +20,6 @@ export const hypnosis137861 = {
   skillType: "temper-skill-type/active",
   hashPlace: 649,
   createdAt: "2026-05-28T16:03:32.794Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

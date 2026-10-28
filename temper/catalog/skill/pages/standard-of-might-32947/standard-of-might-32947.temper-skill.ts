@@ -10,7 +10,7 @@ export const standardOfMight32947 = {
   description:
     "Call down a battle standard for |cffffff15|r seconds, rallying you and allies inside the area, increasing Weapon and Spell Damage by |cffffff300|r and reducing damage taken by |cffffff10|r%. You gain an additional |cffffff15|r% damage done and reduced damage taken and |cffffff300|r Weapon and Spell Damage.\n\nAn ally near the standard can activate the Shackle synergy, dealing |cffffff12393|r Flame Damage to enemies in the area and immobilizing them for |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_006_b.dds",
-  esoSkillId: 32947,
+  esoAbilityId: 32947,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const standardOfMight32947 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1269,
   createdAt: "2026-05-28T16:03:33.941Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15 seconds (Constant)",
     "<<2>> = 300 (Constant)",

@@ -10,7 +10,7 @@ export const imbueWeapon = {
   description:
     "Infuse your weapon with power, causing your next Light Attack used within |cffffff2|r seconds to deal an additional |cffffff7269|r Physical Damage.\n\nIf the power is not consumed in time, you restore |cffffff1506|r Stamina.",
   icon: "/esoui/art/icons/ability_psijic_003.dds",
-  esoSkillId: 103483,
+  esoAbilityId: 103483,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 3,
@@ -20,7 +20,7 @@ export const imbueWeapon = {
   skillType: "temper-skill-type/active",
   hashPlace: 662,
   createdAt: "2026-05-28T16:03:32.819Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 0.089876 MaxStat + 0.945392 MaxPower + 0.199768 (Ultimate, ratio = 10.52, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",

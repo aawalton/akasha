@@ -10,7 +10,7 @@ export const vengeanceForceSiphon = {
   description:
     "Focus your staff's power to apply Minor Lifesteal and Minor Magickasteal to an enemy for |cffffff20|r seconds, healing you and your allies for |cffffff600|r Health and restoring |cffffff168|r Magicka every |cffffff1|r second when damaging them.",
   icon: "/esoui/art/icons/ability_restorationstaff_005.dds",
-  esoSkillId: 241536,
+  esoAbilityId: 241536,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceForceSiphon = {
   skillType: "temper-skill-type/active",
   hashPlace: 1478,
   createdAt: "2026-05-28T16:03:34.291Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Lifesteal (Constant)",
     "<<2>> = Minor Magickasteal (Constant)",

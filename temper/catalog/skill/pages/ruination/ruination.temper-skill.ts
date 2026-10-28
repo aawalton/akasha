@@ -9,7 +9,7 @@ export const ruination = {
   baseName: "Ruination",
   description: "Increases your Weapon and Spell Damage by 258.",
   icon: "/esoui/art/icons/ability_sorcerer_062.dds",
-  esoSkillId: 45272,
+  esoAbilityId: 45272,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const ruination = {
   effects: "jsonl",
   hashPlace: 1089,
   createdAt: "2026-05-26T03:18:02.204Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 258 (Constant)"],
 } as const satisfies TemperSkill

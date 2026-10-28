@@ -10,7 +10,7 @@ export const birdOfPrey = {
   description:
     "Invoke the spirit of agility to gain Major Expedition for 6 seconds, increasing your Movement Speed by 30%.\n\nGain immunity to snares and immobilizations for 4 seconds.\n\nWhile slotted you gain Minor Berserk, increasing your damage done by 5%.",
   icon: "/esoui/art/icons/ability_warden_016_a.dds",
-  esoSkillId: 86048,
+  esoAbilityId: 86048,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -21,7 +21,7 @@ export const birdOfPrey = {
   effects: "jsonl",
   hashPlace: 94,
   createdAt: "2026-05-26T03:13:12.183Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 30% (Constant)",

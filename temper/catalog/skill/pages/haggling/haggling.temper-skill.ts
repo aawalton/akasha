@@ -9,7 +9,7 @@ export const haggling = {
   baseName: "Haggling",
   description: "Stolen items sold at a fence are worth 10% more. Does not apply to Laundering.",
   icon: "/esoui/art/icons/ability_thievesguild_passive_006.dds",
-  esoSkillId: 76461,
+  esoAbilityId: 76461,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 3,
@@ -21,6 +21,6 @@ export const haggling = {
   effects: "jsonl",
   hashPlace: 587,
   createdAt: "2026-05-26T02:59:07.587Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10% (Constant)"],
 } as const satisfies TemperSkill

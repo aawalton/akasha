@@ -14,7 +14,7 @@ describe("classMasteryOf", () => {
         key: "above-and-beyond",
         title: "Above and Beyond",
         description: "Increases your Critical Damage and Healing by 25%.",
-        esoSkillId: 263605,
+        esoAbilityId: 263605,
         class: "the class",
       },
       READING
@@ -23,7 +23,7 @@ describe("classMasteryOf", () => {
       id: "above-and-beyond",
       name: "Above and Beyond",
       description: "Increases your Critical Damage and Healing by 25%.",
-      esoSkillId: 263605,
+      esoAbilityId: 263605,
       classId: "key of the class",
       effects: [{ metricId: "critical-damage" } as never],
     })

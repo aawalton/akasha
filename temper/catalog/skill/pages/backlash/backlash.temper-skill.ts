@@ -10,7 +10,7 @@ export const backlash = {
   description:
     "Summon an expanding beam of pure sunlight to doom an enemy, dealing |cffffff4036|r Magic Damage immediately and marking them for |cffffff6|r seconds.\n\nAfter the duration ends, the sunlight bursts, dealing |cffffff4468|r Magic Damage to the enemy, which increases based on the amount of damage you dealt to them over the duration, up to |cffffff200|r%.\n\nYou can have only one Backlash active at a time.",
   icon: "/esoui/art/icons/ability_templar_backlash.dds",
-  esoSkillId: 21761,
+  esoAbilityId: 21761,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const backlash = {
   skillType: "temper-skill-type/active",
   hashPlace: 67,
   createdAt: "2026-05-28T16:03:31.675Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0499489 MaxStat + 0.524968 MaxPower - 0.306011 (Ultimate, ratio = 10.51, Dmg, Magic, SingleTarget, Direct, R2 = 0.999999)",
     "<<2>> = 6 seconds (Constant)",

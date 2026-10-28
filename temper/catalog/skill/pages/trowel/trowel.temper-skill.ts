@@ -10,7 +10,7 @@ export const trowel = {
   description:
     "Removes 3 layers of dirt or rock from a 1x1 area.\n\nCosts 2 Intuition to use.\nCan safely trigger Fissures to create explosive chain reactions.",
   icon: "/esoui/art/icons/u26_ability_digging_01.dds",
-  esoSkillId: 140093,
+  esoAbilityId: 140093,
   isMorph: false,
   learnedLevel: 7,
   lineRankNeeded: 7,
@@ -20,5 +20,5 @@ export const trowel = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1367,
   createdAt: "2026-05-26T03:25:55.834Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

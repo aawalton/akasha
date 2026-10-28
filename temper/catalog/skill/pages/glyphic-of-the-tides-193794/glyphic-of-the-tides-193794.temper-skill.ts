@@ -10,7 +10,7 @@ export const glyphicOfTheTides193794 = {
   description:
     "Summon an Apocryphal glyphic, which you and your allies can heal. The glyphic spawns at |cffffff53|r% Health and grows stronger the more you heal it.\n\nThe power within the glyphic grants up to |cffffff200|r Weapon and Spell Damage and heals you and your allies around it for up to |cffffff2921|r Health every |cffffff1|r second in proportion to its Health.\n\nAt full Health the glyphic grants Major Protection, reducing damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_arcanist_018_a.dds",
-  esoSkillId: 193794,
+  esoAbilityId: 193794,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const glyphicOfTheTides193794 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 570,
   createdAt: "2026-05-28T16:03:32.627Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 50% (Constant)",
     "<<2>> = 0.04132 MaxStat + 0.43386 MaxPower (Ultimate, ratio = 10.50, Heal, AOE, Direct, 1s tick, R2 = 1)",

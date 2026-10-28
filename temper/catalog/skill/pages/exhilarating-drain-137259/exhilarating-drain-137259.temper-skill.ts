@@ -10,7 +10,7 @@ export const exhilaratingDrain137259 = {
   description:
     "Siphon away your enemies' vitality, dealing |cffffff3028|r Magic Damage, healing you for |cffffff26|r% of your missing Health, and generating |cffffff5|r Ultimate every |cffffff1|r second for |cffffff3|r seconds.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_u26_vampire_03_b.dds",
-  esoSkillId: 137259,
+  esoAbilityId: 137259,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const exhilaratingDrain137259 = {
   skillType: "temper-skill-type/active",
   hashPlace: 476,
   createdAt: "2026-05-28T16:03:32.416Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0387472 MaxStat + 0.407029 MaxPower - 1.95945 (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 25% (Constant)",

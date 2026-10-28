@@ -10,7 +10,7 @@ export const resourceful = {
   description:
     "Increases your Max Magicka and Max Stamina by 1000.\n\nWhen you drink a potion, you restore 3125 Health, Magicka, and Stamina.",
   icon: "/esoui/art/icons/ability_templar_009.dds",
-  esoSkillId: 45247,
+  esoAbilityId: 45247,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -22,6 +22,6 @@ export const resourceful = {
   effects: "jsonl",
   hashPlace: 1047,
   createdAt: "2026-05-26T03:18:02.201Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1000 (Constant)", "<<2>> = 3125 (Constant)"],
 } as const satisfies TemperSkill

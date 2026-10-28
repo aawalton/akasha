@@ -10,7 +10,7 @@ export const runePrison = {
   description:
     "Imprison an enemy in a constricting sphere of dark magic. After a short duration they are stunned for |cffffff3|r seconds.\n\nThis stun cannot be blocked.",
   icon: "/esoui/art/icons/ability_sorcerer_dark_fog.dds",
-  esoSkillId: 24371,
+  esoAbilityId: 24371,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,6 +20,6 @@ export const runePrison = {
   skillType: "temper-skill-type/active",
   hashPlace: 1103,
   createdAt: "2026-05-28T16:03:33.640Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

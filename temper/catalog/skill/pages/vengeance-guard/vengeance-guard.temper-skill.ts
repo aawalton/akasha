@@ -10,7 +10,7 @@ export const vengeanceGuard = {
   description:
     "Create a lifebond between you and a group member for |cffffff20|r seconds. While bonded, your ally reduces their damage taken by |cffffff10|r% and increase your damage taken by |cffffff10|r%.\n\nThe bond will break if you move more than |cffffff17|r meters away from your target.",
   icon: "/esoui/art/icons/ability_ava_guard.dds",
-  esoSkillId: 245055,
+  esoAbilityId: 245055,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceGuard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1487,
   createdAt: "2026-05-28T16:03:34.304Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 20 seconds (Constant)", "<<2>> = 10% (Constant)", "<<3>> = 10% (Constant)"],
 } as const satisfies TemperSkill

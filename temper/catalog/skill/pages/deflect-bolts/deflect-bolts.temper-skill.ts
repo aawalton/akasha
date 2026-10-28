@@ -10,7 +10,7 @@ export const deflectBolts = {
   description:
     "Increases the amount of damage you can block from projectiles and ranged attacks by 14%.",
   icon: "/esoui/art/icons/ability_templar_027.dds",
-  esoSkillId: 45472,
+  esoAbilityId: 45472,
   isMorph: false,
   learnedLevel: 46,
   lineRankNeeded: 46,
@@ -22,6 +22,6 @@ export const deflectBolts = {
   effects: "jsonl",
   hashPlace: 350,
   createdAt: "2026-05-26T02:38:38.307Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 14% (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const sacrificialBones = {
   description:
     "Summon a skeleton from the ground after |cffffff2.5|r seconds. The skeleton leaps to you, sacrificing the fallen soul within and enhancing your necromantic energies for |cffffff10|r seconds, increasing your damage done with Necromancer abilities and damage over time effects by |cffffff15|r%.\n\nCreates a corpse on death if you are in combat.",
   icon: "/esoui/art/icons/ability_necromancer_002.dds",
-  esoSkillId: 114860,
+  esoAbilityId: 114860,
   isMorph: false,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const sacrificialBones = {
   skillType: "temper-skill-type/active",
   hashPlace: 1121,
   createdAt: "2026-05-28T16:03:33.668Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2.5 seconds (Constant)",
     "<<2>> = 7 seconds (Constant)",

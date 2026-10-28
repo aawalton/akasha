@@ -10,7 +10,7 @@ export const darkVigor = {
   description:
     "Increases your Max Health by 5% for each Shadow ability slotted.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_sorcerer_044.dds",
-  esoSkillId: 45084,
+  esoAbilityId: 45084,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -22,7 +22,7 @@ export const darkVigor = {
   effects: "jsonl",
   hashPlace: 317,
   createdAt: "2026-05-26T03:13:12.256Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5% (Constant)",
     "<<2>> = 5 Shadow (Shadow Skills Slotted, SingleTarget, Direct, R2 = 1)",

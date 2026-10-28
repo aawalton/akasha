@@ -10,7 +10,7 @@ export const mountainGiant = {
   description:
     "The strength of mountains fuels your mightiest blows.\n\nDealing damage with a fully-charged Heavy Attack also applies Off Balance to the target.",
   icon: "/esoui/art/icons/ability_dragonknight_034.dds",
-  esoSkillId: 29475,
+  esoAbilityId: 29475,
   isMorph: false,
   learnedLevel: 39,
   lineRankNeeded: 39,
@@ -20,5 +20,5 @@ export const mountainGiant = {
   skillType: "temper-skill-type/passive",
   hashPlace: 840,
   createdAt: "2026-05-28T16:03:33.150Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

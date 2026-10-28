@@ -10,7 +10,7 @@ export const forwardMomentum = {
   description:
     "Focus your strength and resolve to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20%, as well as gaining Minor Endurance, increasing your Stamina Recovery by 15% for 40 seconds.\n\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for 4 seconds.",
   icon: "/esoui/art/icons/ability_2handed_005_a.dds",
-  esoSkillId: 39892,
+  esoAbilityId: 39892,
   isMorph: true,
   learnedLevel: 38,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const forwardMomentum = {
   skillType: "temper-skill-type/active",
   hashPlace: 538,
   createdAt: "2026-05-26T02:38:38.326Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Brutality (Constant)",
     "<<2>> = Minor Endurance (Constant)",

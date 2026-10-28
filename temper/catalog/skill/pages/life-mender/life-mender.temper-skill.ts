@@ -9,7 +9,7 @@ export const lifeMender = {
   baseName: "Life Mender",
   description: "Increases your healing done by 6%.",
   icon: "/esoui/art/icons/ability_templar_014.dds",
-  esoSkillId: 45258,
+  esoAbilityId: 45258,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -21,6 +21,6 @@ export const lifeMender = {
   effects: "jsonl",
   hashPlace: 740,
   createdAt: "2026-05-26T03:18:02.190Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6% (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const volcanicWard = {
   description:
     "Roil the air around you or an ally, granting a damage shield that absorbs up to 8980 for 6 seconds and reducing the next instance of damage taken by 10%. When the shield ends the latent heat warms the target, healing them for 3923 Health.\n\nThis ability scales off the higher of your Max Magicka or Stamina and the shield is capped at 50% of the target's Max Health.",
   icon: "/esoui/art/icons/ability_dragonknight_013_b.dds",
-  esoSkillId: 31820,
+  esoAbilityId: 31820,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const volcanicWard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1604,
   createdAt: "2026-05-26T03:13:12.550Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.410791 MaxStat + 0.0032064 MaxPower + 24.1284 (Ultimate, ratio = 0.01, DmgShield, SingleTarget, Direct, 6s duration, R2 = 0.999905)",
     "<<2>> = 6 seconds (Constant)",

@@ -10,7 +10,7 @@ export const summonUnstableClannfear23319 = {
   description:
     "Command the powers of Oblivion to send a Daedric clannfear to fight at your side. The clannfear's headbutt deals |cffffff1250|r Physical Damage, while its tail spike hits nearby enemies for |cffffff1320|r Physical Damage after |cffffff1|r second.  \n\nOnce summoned, you can activate the clannfear's special ability for |cffffff4450|r Magicka, healing you for |cffffff6437|r and the clannfear for |cffffff3218|r.\n\nThe clannfear remains until killed or unsummoned.",
   icon: "/esoui/art/icons/ability_sorcerer_unstable_clannfear.dds",
-  esoSkillId: 23319,
+  esoAbilityId: 23319,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const summonUnstableClannfear23319 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1296,
   createdAt: "2026-05-28T16:03:33.991Z",
-  updatedAt: "2026-10-21T15:59:41.296Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.015495 MaxStat + 0.162697 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1, rank IV)",
     "<<2>> = 0.015495 MaxStat + 0.162697 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, AOE, Direct, Melee, 0.8s cooldown, R2 = 1, rank IV)",
@@ -29,5 +29,5 @@ export const summonUnstableClannfear23319 = {
     "<<4>> = 0.32006277 Health (Health, Heal, SingleTarget, Direct)",
     "<<5>> = 0.15495 Health (Health, Heal, SingleTarget, Direct, rank IV)",
   ],
-  variants: [{ esoSkillId: 76076 }],
+  variants: [{ esoAbilityId: 76076 }],
 } as const satisfies TemperSkill

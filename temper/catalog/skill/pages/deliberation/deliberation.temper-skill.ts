@@ -10,7 +10,7 @@ export const deliberation = {
   description:
     "While you are casting or channeling a Psijic Order ability you reduce your damage taken by 30%.",
   icon: "/esoui/art/icons/ability_psijic_011.dds",
-  esoSkillId: 103972,
+  esoAbilityId: 103972,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 9,
@@ -22,6 +22,6 @@ export const deliberation = {
   effects: "jsonl",
   hashPlace: 354,
   createdAt: "2026-05-26T02:59:07.570Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 30% (Constant)"],
 } as const satisfies TemperSkill

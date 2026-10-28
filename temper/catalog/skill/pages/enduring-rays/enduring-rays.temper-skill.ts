@@ -10,7 +10,7 @@ export const enduringRays = {
   description:
     "Increases the duration of your Sun Fire, Eclipse, Solar Flare, and Nova abilities by 2 seconds.",
   icon: "/esoui/art/icons/ability_templar_020.dds",
-  esoSkillId: 45214,
+  esoAbilityId: 45214,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -21,6 +21,6 @@ export const enduringRays = {
   status: "unsupported",
   hashPlace: 435,
   createdAt: "2026-05-26T03:13:12.297Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2 seconds (Constant)"],
 } as const satisfies TemperSkill

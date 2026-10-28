@@ -10,7 +10,7 @@ export const pragmaticFatecarver186366 = {
   description:
     "Channel a beam of energy in front of you for up to |cffffff4|r seconds, dealing |cffffff3229|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies, and gain a damage shield that absorbs up to |cffffff9859|r damage and grants interrupt immunity.\n\nCasting Pragmatic Fatecarver consumes all Crux and increases damage done by |cffffff33|r%, and decreases cost by |cffffff16|r% per Crux spent.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_arcanist_002_b.dds",
-  esoSkillId: 186366,
+  esoAbilityId: 186366,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const pragmaticFatecarver186366 = {
   skillType: "temper-skill-type/active",
   hashPlace: 924,
   createdAt: "2026-05-28T16:03:33.308Z",
-  updatedAt: "2026-10-21T04:44:19.520Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
     "<<2>> = 0.039059255 MaxStat + 0.41012218 MaxPower (Ultimate, Dmg, Magic, AOE, Direct, Melee)",

@@ -10,7 +10,7 @@ export const clemency = {
   description:
     "When a guard accosts you, you may use Clemency once per day. If used, the Guard will not arrest you or take your money and stolen goods. Additionally, Guards will not attempt to accost you for  1 minute after you use Clemency unless you commit other crimes.",
   icon: "/esoui/art/icons/ability_thievesguild_passive_002.dds",
-  esoSkillId: 76451,
+  esoAbilityId: 76451,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -22,5 +22,5 @@ export const clemency = {
   effects: "jsonl",
   hashPlace: 223,
   createdAt: "2026-05-26T02:59:07.561Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

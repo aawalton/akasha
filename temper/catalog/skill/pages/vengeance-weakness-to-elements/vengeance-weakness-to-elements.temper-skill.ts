@@ -10,7 +10,7 @@ export const vengeanceWeaknessToElements = {
   description:
     "Send the elements to sap an enemy's defenses and afflict them with Major Breach for |cffffff25|r seconds, reducing their Physical and Spell Resistance by |cffffff5948|r.",
   icon: "/esoui/art/icons/ability_destructionstaff_011.dds",
-  esoSkillId: 241447,
+  esoAbilityId: 241447,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceWeaknessToElements = {
   skillType: "temper-skill-type/active",
   hashPlace: 1588,
   createdAt: "2026-05-28T16:03:34.449Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Breach (Constant)",
     "<<2>> = 25 seconds (Constant)",

@@ -9,7 +9,7 @@ export const elementalForce = {
   baseName: "Elemental Force",
   description: "Increases your chance to apply status effects by 100%.",
   icon: "/esoui/art/icons/ability_weapon_005.dds",
-  esoSkillId: 45512,
+  esoAbilityId: 45512,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -21,6 +21,6 @@ export const elementalForce = {
   effects: "jsonl",
   hashPlace: 403,
   createdAt: "2026-05-26T02:38:38.314Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 100% (Constant)"],
 } as const satisfies TemperSkill

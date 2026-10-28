@@ -10,7 +10,7 @@ export const scribedBannerBearerImmobilize = {
   description:
     "You cleanse yourself of snares and immobilizations and are immune to them while the banner is active.",
   icon: "/esoui/art/icons/ability_grimoire_support.dds",
-  esoSkillId: 230289,
+  esoAbilityId: 230289,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedBannerBearerImmobilize = {
   grimoireId: "temper-grimoire/banner-bearer",
   hashPlace: 1637,
   createdAt: "2026-05-26T13:19:53.237Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

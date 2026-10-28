@@ -10,7 +10,7 @@ export const vengeanceSpiritMender = {
   description:
     "Conjure a ghostly spirit to do your bidding and heal you or an ally for |cffffff24096|r Health over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_015.dds",
-  esoSkillId: 238265,
+  esoAbilityId: 238265,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceSpiritMender = {
   skillType: "temper-skill-type/active",
   hashPlace: 1565,
   createdAt: "2026-05-28T16:03:34.416Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 23622 (Constant)", "<<2>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const vengeanceGibberingShield = {
   description:
     "Gather the true strength of Apocrypha around you, forming protective tentacles and a damage shield that absorbs |cffffff60%|r of all damage for |cffffff10|r seconds, up to a max of |cffffff80500|r damage.\n\nWhen the shield collapses you lash out, dealing |cffffff13440|r Magic Damage to up to 3 enemies within 5 meters.",
   icon: "/esoui/art/icons/ability_arcanist_012.dds",
-  esoSkillId: 238274,
+  esoAbilityId: 238274,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceGibberingShield = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1483,
   createdAt: "2026-05-28T16:03:34.298Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 60% (Constant)",
     "<<2>> = 10 seconds (Constant)",

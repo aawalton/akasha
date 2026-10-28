@@ -10,7 +10,7 @@ export const ancientKnowledge = {
   description:
     "Inferno Staves increases your damage done with damage over time and Status Effects by 12%.\n\nLightning Staves increases your damage done with direct damage and channeled effects by 12%.\n\nEquipping an Ice Staff reduces the cost of blocking by 36% and increases the amount of damage you block by 20%.",
   icon: "/esoui/art/icons/ability_weapon_003.dds",
-  esoSkillId: 45513,
+  esoAbilityId: 45513,
   isMorph: false,
   learnedLevel: 46,
   lineRankNeeded: 46,
@@ -22,6 +22,6 @@ export const ancientKnowledge = {
   effects: "jsonl",
   hashPlace: 33,
   createdAt: "2026-05-26T02:38:38.288Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 12% (Constant)", "<<2>> = 12% (Constant)", "<<3>> = 20% (Constant)"],
 } as const satisfies TemperSkill

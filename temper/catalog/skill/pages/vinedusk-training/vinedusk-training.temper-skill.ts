@@ -10,7 +10,7 @@ export const vineduskTraining = {
   description:
     "Increases your damage done by 5% against enemies 15 meters or closer.\n\nIncreases your Critical Chance rating by 1314 against enemies further than 15 meters.",
   icon: "/esoui/art/icons/ability_weapon_025.dds",
-  esoSkillId: 45494,
+  esoAbilityId: 45494,
   isMorph: false,
   learnedLevel: 34,
   lineRankNeeded: 34,
@@ -22,6 +22,6 @@ export const vineduskTraining = {
   effects: "jsonl",
   hashPlace: 1599,
   createdAt: "2026-05-26T02:38:38.366Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5% (Constant)", "<<2>> = 1314 (Constant)"],
 } as const satisfies TemperSkill

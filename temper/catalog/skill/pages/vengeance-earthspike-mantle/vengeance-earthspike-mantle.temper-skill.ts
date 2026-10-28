@@ -10,7 +10,7 @@ export const vengeanceEarthspikeMantle = {
   description:
     "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff30|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_007.dds",
-  esoSkillId: 237630,
+  esoAbilityId: 237630,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceEarthspikeMantle = {
   skillType: "temper-skill-type/active",
   hashPlace: 1459,
   createdAt: "2026-05-28T16:03:34.264Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Resolve (Constant)",
     "<<2>> = 5948 (Constant)",

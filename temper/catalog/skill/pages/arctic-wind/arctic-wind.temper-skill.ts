@@ -10,7 +10,7 @@ export const arcticWind = {
   description:
     "Envelop yourself in winter winds, instantly healing for |cffffff6232|r Health and an additional |cffffff1246|r Health every |cffffff2|r seconds over |cffffff10|r seconds. This ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_warden_003.dds",
-  esoSkillId: 86148,
+  esoAbilityId: 86148,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const arcticWind = {
   skillType: "temper-skill-type/active",
   hashPlace: 45,
   createdAt: "2026-05-28T16:03:31.646Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3 Health (Health, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.06 Health (Health, RankMod(1), Heal, SingleTarget, DOT, 8s duration, 2s tick, R2 = 1)",

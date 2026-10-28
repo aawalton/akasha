@@ -9,7 +9,7 @@ export const vengeanceFlameSkull = {
   baseName: "Vengeance Flame Skull",
   description: "Lob an explosive skull at an enemy, dealing |cffffff11686|r Flame Damage.",
   icon: "/esoui/art/icons/ability_necromancer_001.dds",
-  esoSkillId: 238081,
+  esoAbilityId: 238081,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -19,6 +19,6 @@ export const vengeanceFlameSkull = {
   skillType: "temper-skill-type/active",
   hashPlace: 1474,
   createdAt: "2026-05-28T16:03:34.285Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 11025 Flame Damage (Constant)"],
 } as const satisfies TemperSkill

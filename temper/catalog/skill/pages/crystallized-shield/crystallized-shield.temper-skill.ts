@@ -10,7 +10,7 @@ export const crystallizedShield = {
   description:
     "Spin a shield of ice around you, absorbing up to |cffffff23424|r damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you gain |cffffff2|r Ultimate.",
   icon: "/esoui/art/icons/ability_warden_002.dds",
-  esoSkillId: 86135,
+  esoAbilityId: 86135,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const crystallizedShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 278,
   createdAt: "2026-05-28T16:03:32.045Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1 Health (Health, RankMod(1), DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 2 (Constant)",

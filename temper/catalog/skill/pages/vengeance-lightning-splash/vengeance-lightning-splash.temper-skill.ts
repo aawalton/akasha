@@ -10,7 +10,7 @@ export const vengeanceLightningSplash = {
   description:
     "Create a nexus of storm energy at the target location, dealing |cffffff9701|r Shock Damage to up to 3 enemies in the area.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_splash.dds",
-  esoSkillId: 237959,
+  esoAbilityId: 237959,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceLightningSplash = {
   skillType: "temper-skill-type/active",
   hashPlace: 1499,
   createdAt: "2026-05-28T16:03:34.321Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 8662 Shock Damage (Constant)", "<<2>> = 12 (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const vengeanceRevealingFlare = {
   description:
     "Launch a blinding flare, revealing stealthed and invisible enemies in the target area. Exposed enemies take |cffffff11760|r Magic Damage and cannot return to stealth or invisibility for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_ava_revealing_flare.dds",
-  esoSkillId: 245049,
+  esoAbilityId: 245049,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceRevealingFlare = {
   skillType: "temper-skill-type/active",
   hashPlace: 1537,
   createdAt: "2026-05-28T16:03:34.376Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 (Constant)",
     "<<2>> = 10500 Magic Damage (Constant)",

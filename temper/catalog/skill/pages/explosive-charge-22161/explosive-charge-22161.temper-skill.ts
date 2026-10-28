@@ -10,7 +10,7 @@ export const explosiveCharge22161 = {
   description:
     "Charge with your divine lance to impale all enemies in the area, dealing |cffffff6611|r Magic Damage while taunting the first enemy hit to attack you for |cffffff15|r seconds. Any enemy hit that was casting is interrupted, set Off Balance, and stunned for |cffffff3|r seconds.\n\n You also gain Major Protection for |cffffff15|r seconds, reducing your damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_templar_double_tipped_charge.dds",
-  esoSkillId: 22161,
+  esoAbilityId: 22161,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const explosiveCharge22161 = {
   skillType: "temper-skill-type/active",
   hashPlace: 487,
   createdAt: "2026-05-28T16:03:32.432Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.077475 MaxStat + 0.813488 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 15 seconds (Constant)",

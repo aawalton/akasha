@@ -10,7 +10,7 @@ export const deadenPain = {
   description:
     "Sap the lingering life from fresh corpses, granting you 2 Ultimate and healing 682 Health every 1 second for 4 seconds per corpse consumed. While you have the heal effect, you gain Major Protection, reducing the damage you take by 10%. This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by 3%.",
   icon: "/esoui/art/icons/ability_necromancer_011_a.dds",
-  esoSkillId: 40118623,
+  esoAbilityId: 40118623,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -21,7 +21,7 @@ export const deadenPain = {
   effects: "jsonl",
   hashPlace: 322,
   createdAt: "2026-05-26T03:13:12.258Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2 (Constant)",
     "<<2>> = 0.04268356 Health (Health, RankMod(1.033), Heal, SingleTarget, DOT, 1s tick, R2 = 1)",

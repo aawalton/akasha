@@ -10,7 +10,7 @@ export const sturdyHorn = {
   description:
     "Sound a war horn to rally your forces, increasing you and your group's Max Magicka and Max Stamina by 10% for 30 seconds.\n\nYou and your allies gain 1320 Critical Resistance for 10 seconds, reducing incoming Critical Damage by 20%.",
   icon: "/esoui/art/icons/ability_ava_003_b.dds",
-  esoSkillId: 46546,
+  esoAbilityId: 46546,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const sturdyHorn = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1283,
   createdAt: "2026-05-26T03:25:55.829Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10% (Constant)",
     "<<2>> = 30 seconds (Constant)",

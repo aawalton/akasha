@@ -10,7 +10,7 @@ export const vengeanceOfEldritchHorror = {
   description:
     "Etch an incomprehensible rune on your enemy's mind, paralyzing them in fear after a |cffffff1|r second delay, stunning them for |cffffff4|r seconds. This terror applies Minor Vulnerability for |cffffff10|r seconds, increasing their damage taken by |cffffff5|r%.\n\nThis ability cannot be dodged.",
   icon: "/esoui/art/icons/ability_arcanist_011.dds",
-  esoSkillId: 238267,
+  esoAbilityId: 238267,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceOfEldritchHorror = {
   skillType: "temper-skill-type/active",
   hashPlace: 1515,
   createdAt: "2026-05-28T16:03:34.344Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 1 second (Constant)",
     "<<2>> = 4 seconds (Constant)",

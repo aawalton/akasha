@@ -10,7 +10,7 @@ export const igneousWeapons31874 = {
   description:
     "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff1|r minute.\n\nWhile active, dealing damage with Light and Heavy Attacks causes an additional |cffffff1562|r Flame Damage, up to once every |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_015_a.dds",
-  esoSkillId: 31874,
+  esoAbilityId: 31874,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const igneousWeapons31874 = {
   skillType: "temper-skill-type/active",
   hashPlace: 657,
   createdAt: "2026-05-28T16:03:32.812Z",
-  updatedAt: "2026-10-21T04:42:51.153Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Brutality (Constant)",
     "<<2>> = 20% (Constant)",

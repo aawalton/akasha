@@ -10,7 +10,7 @@ export const degeneration40457 = {
   description:
     "Bind an enemy with chaotic magic, dealing |cffffff15235|r Magic Damage over |cffffff20|r seconds.\n\nExcess magic spills out from them, granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_004_a.dds",
-  esoSkillId: 40457,
+  esoAbilityId: 40457,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const degeneration40457 = {
   skillType: "temper-skill-type/active",
   hashPlace: 353,
   createdAt: "2026-05-28T16:03:32.154Z",
-  updatedAt: "2026-10-21T04:08:18.668Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.018776409 MaxStat + 0.19715229 MaxPower (Ultimate, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, ticks on application)",
     "<<2>> = 20 seconds (Constant, +2 seconds with everlasting-magic)",

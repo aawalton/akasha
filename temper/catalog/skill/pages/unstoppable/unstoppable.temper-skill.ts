@@ -10,7 +10,7 @@ export const unstoppable = {
   description:
     "Intensify your physical presence to gain Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\n\nAlso grants you immunity to knockback and disabling effects for |cffffff6|r seconds, but reduces your Movement Speed by |cffffff65|r% for the duration.",
   icon: "/esoui/art/icons/ability_armor_001.dds",
-  esoSkillId: 29552,
+  esoAbilityId: 29552,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 22,
@@ -20,7 +20,7 @@ export const unstoppable = {
   skillType: "temper-skill-type/active",
   hashPlace: 1396,
   createdAt: "2026-05-28T16:03:34.170Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5948 (Constant)",
     "<<2>> = 17 seconds (Constant)",

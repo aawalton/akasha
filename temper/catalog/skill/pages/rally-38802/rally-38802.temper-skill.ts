@@ -10,7 +10,7 @@ export const rally38802 = {
   description:
     "Focus your strength and resolve to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%, as well as gaining Minor Endurance, increasing your Stamina Recovery by |cffffff15|r% for |cffffff30|r seconds.\n\nYou heal for |cffffff5660|r Health when Rally ends. The final heal is increased by |cffffff20|r% every |cffffff2|r seconds, up to a maximum of |cffffff200|r%.",
   icon: "/esoui/art/icons/ability_2handed_005_b.dds",
-  esoSkillId: 38802,
+  esoAbilityId: 38802,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const rally38802 = {
   skillType: "temper-skill-type/active",
   hashPlace: 971,
   createdAt: "2026-05-28T16:03:33.399Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Brutality (Constant)",
     "<<2>> = Minor Endurance (Constant)",

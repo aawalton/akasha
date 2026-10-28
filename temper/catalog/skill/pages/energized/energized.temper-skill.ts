@@ -9,7 +9,7 @@ export const energized = {
   baseName: "Energized",
   description: "Increases your Physical and Shock Damage by 5%.",
   icon: "/esoui/art/icons/ability_sorcerer_015.dds",
-  esoSkillId: 45190,
+  esoAbilityId: 45190,
   isMorph: false,
   learnedLevel: 27,
   lineRankNeeded: 27,
@@ -21,6 +21,6 @@ export const energized = {
   effects: "jsonl",
   hashPlace: 439,
   createdAt: "2026-05-26T03:13:12.300Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5% (Constant)"],
 } as const satisfies TemperSkill

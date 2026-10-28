@@ -9,7 +9,7 @@ export const combatMedic = {
   baseName: "Combat Medic",
   description: "Increases your healing done by 20% when you are near a Keep.",
   icon: "/esoui/art/icons/ability_sorcerer_045.dds",
-  esoSkillId: 45624,
+  esoAbilityId: 45624,
   isMorph: false,
   learnedLevel: 10,
   lineRankNeeded: 10,
@@ -21,6 +21,6 @@ export const combatMedic = {
   effects: "jsonl",
   hashPlace: 228,
   createdAt: "2026-05-26T03:25:55.743Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 20% (Constant)"],
 } as const satisfies TemperSkill

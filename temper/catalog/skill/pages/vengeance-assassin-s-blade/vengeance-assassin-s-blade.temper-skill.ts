@@ -10,7 +10,7 @@ export const vengeanceAssassinSBlade = {
   description:
     "Thrust a magic blade with lethal precision to stab an enemy, dealing |cffffff5565|r Magic Damage. Deals |cffffff300|r% more damage to enemies below |cffffff25|r% Health.",
   icon: "/esoui/art/icons/ability_nightblade_017.dds",
-  esoSkillId: 237603,
+  esoAbilityId: 237603,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceAssassinSBlade = {
   skillType: "temper-skill-type/active",
   hashPlace: 1414,
   createdAt: "2026-05-28T16:03:34.198Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5250 Magic Damage (Constant)",
     "<<2>> = 300 (Constant)",

@@ -10,7 +10,7 @@ export const magmaShell17874 = {
   description:
     "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff153|r% of their Max Health for |cffffff10|r seconds.\n\nWhile active, you cannot generate Ultimate.",
   icon: "/esoui/art/icons/ability_dragonknight_018_a.dds",
-  esoSkillId: 17874,
+  esoAbilityId: 17874,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const magmaShell17874 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 795,
   createdAt: "2026-05-28T16:03:33.067Z",
-  updatedAt: "2026-10-21T07:42:22.785Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 (Constant)",
     "<<2>> = 15 seconds (Constant)",

@@ -10,7 +10,7 @@ export const passageBetweenWorlds186220 = {
   description:
     "Breach the world walls to create a portal at a target location. Its twin appears directly before you. Crossing the threshold allows you to teleport from one to the other for as long as the portals remain open. \n\nAllies standing within either portal can activate the Passage synergy, allowing them to teleport to the opposite portal.\n\nPassage Between Worlds generates Crux each time you teleport.",
   icon: "/esoui/art/icons/ability_arcanist_016_b.dds",
-  esoSkillId: 186220,
+  esoAbilityId: 186220,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,5 +20,5 @@ export const passageBetweenWorlds186220 = {
   skillType: "temper-skill-type/active",
   hashPlace: 875,
   createdAt: "2026-05-28T16:03:33.217Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const siphonSpirit40109 = {
   description:
     "Focus your staff's power to apply Minor Lifesteal to an enemy for |cffffff30|r seconds, healing you and your allies for |cffffff612|r Health every |cffffff1|r second when damaging them.\n\nAlso applies Minor Magickasteal to the enemy for |cffffff30|r seconds, causing you and your allies to restore |cffffff168|r Magicka every |cffffff1|r second when damaging them.",
   icon: "/esoui/art/icons/ability_restorationstaff_005_a.dds",
-  esoSkillId: 40109,
+  esoAbilityId: 40109,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const siphonSpirit40109 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1194,
   createdAt: "2026-05-28T16:03:33.799Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Lifesteal (Constant)",
     "<<2>> = 24 seconds (Constant)",

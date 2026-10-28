@@ -10,7 +10,7 @@ export const lightningForm = {
   description:
     "Manifest yourself as pure lightning, zapping nearby enemies with electricity dealing |cffffff1613|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds.  \n\nWhile in this form you also gain Major Resolve, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_form.dds",
-  esoSkillId: 23210,
+  esoAbilityId: 23210,
   isMorph: false,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const lightningForm = {
   skillType: "temper-skill-type/active",
   hashPlace: 751,
   createdAt: "2026-05-28T16:03:32.987Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.02 MaxStat + 0.21 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Shock, AOE, DOT, 2s tick, R2 = 1)",
     "<<2>> = 2 seconds (Constant)",

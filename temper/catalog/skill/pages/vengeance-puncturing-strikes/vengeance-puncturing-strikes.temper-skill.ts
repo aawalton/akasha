@@ -10,7 +10,7 @@ export const vengeancePuncturingStrikes = {
   description:
     "Launch a relentless assault, striking enemies in front of you three times with your Aedric spear, dealing |cffffff4508|r Magic Damage to the closest 3 enemies.",
   icon: "/esoui/art/icons/ability_templar_trained_attacker.dds",
-  esoSkillId: 237861,
+  esoAbilityId: 237861,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeancePuncturingStrikes = {
   skillType: "temper-skill-type/active",
   hashPlace: 1525,
   createdAt: "2026-05-28T16:03:34.359Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 4025 Magic Damage (Constant)"],
 } as const satisfies TemperSkill

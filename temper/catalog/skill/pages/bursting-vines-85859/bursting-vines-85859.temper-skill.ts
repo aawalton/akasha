@@ -10,7 +10,7 @@ export const burstingVines85859 = {
   description:
     "Launch a vine to swing yourself to an ally, instantly healing them for |cffffff8489|r Health.  \n\nGain |cffffff10|r Ultimate when healing an ally under |cFFFFFF60%|r Health while you are in combat. This effect can occur every |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_warden_011_a.dds",
-  esoSkillId: 85859,
+  esoAbilityId: 85859,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const burstingVines85859 = {
   skillType: "temper-skill-type/active",
   hashPlace: 178,
   createdAt: "2026-05-28T16:03:31.881Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.116213 MaxStat + 1.22023 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 10 (Constant)",

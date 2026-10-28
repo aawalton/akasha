@@ -8,9 +8,9 @@ export const cutthroatsFocus = {
   key: "cutthroats-focus",
   description:
     "This duel will be their last. For you, it's just another dance.\n\nActivating a Nightblade ability while bracing causes you to dodge attacks for 0.3 seconds.\n\nWhenever you dodge an attack, your attacker's psyche suffers, increasing their damage taken by 5% for 5 seconds, increasing to 20 seconds against monsters.",
-  esoSkillId: 263606,
+  esoAbilityId: 263606,
   class: "temper-class/nightblade",
   hashPlace: 18,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

@@ -10,7 +10,7 @@ export const vengeanceDarkTalons = {
   description:
     "Call forth talons from the ground, dealing |cffffff8820|r Flame Damage to up to 3 enemies near you and immobilizing them for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_010.dds",
-  esoSkillId: 237636,
+  esoAbilityId: 237636,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceDarkTalons = {
   skillType: "temper-skill-type/active",
   hashPlace: 1446,
   createdAt: "2026-05-28T16:03:34.245Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 7875 Flame Damage (Constant)",
     "<<2>> = 6 (Constant)",

@@ -9,7 +9,7 @@ export const ambidextrous = {
   baseName: "Ambidextrous",
   description: "Increases Weapon and Spell Damage by 6% of off-hand weapon's damage.",
   icon: "/esoui/art/icons/ability_weapon_013.dds",
-  esoSkillId: 45477,
+  esoAbilityId: 45477,
   isMorph: false,
   learnedLevel: 17,
   lineRankNeeded: 17,
@@ -21,6 +21,6 @@ export const ambidextrous = {
   effects: "jsonl",
   hashPlace: 387,
   createdAt: "2026-05-26T02:38:38.312Z",
-  updatedAt: "2026-10-20T19:57:48.961Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6 (Constant)"],
 } as const satisfies TemperSkill

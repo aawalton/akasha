@@ -10,7 +10,7 @@ export const vengeanceRunePrison = {
   description:
     "Imprison an enemy in a constricting sphere of dark magic. After a short duration they are stunned for |cffffff3|r seconds.\n\nThis stun cannot be blocked.",
   icon: "/esoui/art/icons/ability_sorcerer_dark_fog.dds",
-  esoSkillId: 237803,
+  esoAbilityId: 237803,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceRunePrison = {
   skillType: "temper-skill-type/active",
   hashPlace: 1541,
   createdAt: "2026-05-28T16:03:34.381Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3 seconds (Constant)"],
 } as const satisfies TemperSkill

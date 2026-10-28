@@ -10,7 +10,7 @@ export const streak = {
   description:
     "Transform yourself into pure energy and flash forward, dealing 1438 Shock Damage to enemies in your wake and stunning them for 3 seconds.\n\nThis effect cannot be blocked.\n\nCasting again within 4 seconds costs 33% more Magicka.",
   icon: "/esoui/art/icons/ability_sorcerer_streak.dds",
-  esoSkillId: 30215,
+  esoAbilityId: 30215,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const streak = {
   skillType: "temper-skill-type/active",
   hashPlace: 1275,
   createdAt: "2026-05-26T03:13:12.515Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06402534 MaxStat + 0.67226607 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Shock, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 3 seconds (Constant)",

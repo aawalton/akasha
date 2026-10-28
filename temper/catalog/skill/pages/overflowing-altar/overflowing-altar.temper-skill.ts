@@ -10,7 +10,7 @@ export const overflowingAltar = {
   description:
     "Sacrifice your life essence to conjure a fountain of blood to apply Minor Lifesteal to enemies in the area, healing you and your allies for 600 Health every 1 second when damaging them.\n\nAllies in the area can activate the Blood Feast synergy, healing for 65% of their Max Health.",
   icon: "/esoui/art/icons/ability_undaunted_001_a.dds",
-  esoSkillId: 43287,
+  esoAbilityId: 43287,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const overflowingAltar = {
   skillType: "temper-skill-type/active",
   hashPlace: 867,
   createdAt: "2026-05-26T02:59:07.635Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Lifesteal (Constant)",
     "<<2>> = 600 (Constant)",

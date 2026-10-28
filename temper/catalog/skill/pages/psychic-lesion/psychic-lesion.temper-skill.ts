@@ -10,7 +10,7 @@ export const psychicLesion = {
   description:
     "Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by 15% and Status Effect Chance by 55%.",
   icon: "/esoui/art/icons/passive_arcanist_03.dds",
-  esoSkillId: 184873,
+  esoAbilityId: 184873,
   isMorph: false,
   learnedLevel: 22,
   lineRankNeeded: 22,
@@ -22,6 +22,6 @@ export const psychicLesion = {
   effects: "jsonl",
   hashPlace: 937,
   createdAt: "2026-05-26T03:13:12.435Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)", "<<2>> = 55% (Constant)"],
 } as const satisfies TemperSkill

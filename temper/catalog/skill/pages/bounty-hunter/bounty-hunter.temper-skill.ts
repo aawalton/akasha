@@ -9,7 +9,7 @@ export const bountyHunter = {
   baseName: "Bounty Hunter",
   description: "Allows you to accept bounty quests from the Fighters Guild in Cyrodiil.",
   icon: "/esoui/art/icons/ability_armor_011.dds",
-  esoSkillId: 35804,
+  esoAbilityId: 35804,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 9,
@@ -21,5 +21,5 @@ export const bountyHunter = {
   effects: "jsonl",
   hashPlace: 159,
   createdAt: "2026-05-26T02:59:07.550Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

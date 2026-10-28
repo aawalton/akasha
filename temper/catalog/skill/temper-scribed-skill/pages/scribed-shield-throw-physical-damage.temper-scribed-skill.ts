@@ -9,7 +9,7 @@ export const scribedShieldThrowPhysicalDamage = {
   baseName: "Shield Throw",
   description: "Deals 2091 Physical Damage to an enemy.",
   icon: "/esoui/art/icons/ability_grimoire_1handed.dds",
-  esoSkillId: 216973,
+  esoAbilityId: 216973,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const scribedShieldThrowPhysicalDamage = {
   grimoireId: "temper-grimoire/shield-throw",
   hashPlace: 1665,
   createdAt: "2026-05-26T13:19:53.272Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

@@ -10,7 +10,7 @@ export const guard = {
   description:
     "Create a lifebond between you and an allied player. While bonded, |cffffff30|r% of the damage they take is instead redistributed to you.\n\nThe bond will remain until you recast the spell or move more than |cffffff15|r meters away from your ally.",
   icon: "/esoui/art/icons/ability_ava_guard.dds",
-  esoSkillId: 61511,
+  esoAbilityId: 61511,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 5,
@@ -20,5 +20,5 @@ export const guard = {
   skillType: "temper-skill-type/active",
   hashPlace: 586,
   createdAt: "2026-05-28T16:03:32.672Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

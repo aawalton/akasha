@@ -10,7 +10,7 @@ export const vengeanceAbyssalImpact = {
   description:
     "Infuse your arm with abyssal magic to form tentacles that lash out at your foes, dealing |cffffff10143|r Physical Damage to up to 3 enemies and immobilize them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_003.dds",
-  esoSkillId: 238189,
+  esoAbilityId: 238189,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceAbyssalImpact = {
   skillType: "temper-skill-type/active",
   hashPlace: 1407,
   createdAt: "2026-05-28T16:03:34.188Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 9056 Physical Damage (Constant)",
     "<<2>> = 6 (Constant)",

@@ -10,7 +10,7 @@ export const erudition = {
   description:
     "Knowledge is power. Your excessive scholarship increases your Magicka and Stamina Recovery by 18%.",
   icon: "/esoui/art/icons/passive_arcanist_11.dds",
-  esoSkillId: 185239,
+  esoAbilityId: 185239,
   isMorph: false,
   learnedLevel: 36,
   lineRankNeeded: 36,
@@ -22,6 +22,6 @@ export const erudition = {
   effects: "jsonl",
   hashPlace: 449,
   createdAt: "2026-05-26T03:13:12.304Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 18% (Constant)"],
 } as const satisfies TemperSkill

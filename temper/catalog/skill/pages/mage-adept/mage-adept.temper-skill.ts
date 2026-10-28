@@ -9,7 +9,7 @@ export const mageAdept = {
   baseName: "Mage Adept",
   description: "Reduces the Magicka and Health cost of your Mages Guild abilities by 15%.",
   icon: "/esoui/art/icons/ability_sorcerer_045.dds",
-  esoSkillId: 45601,
+  esoAbilityId: 45601,
   isMorph: false,
   learnedLevel: 5,
   lineRankNeeded: 5,
@@ -21,6 +21,6 @@ export const mageAdept = {
   effects: "jsonl",
   hashPlace: 778,
   createdAt: "2026-05-26T02:59:07.621Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

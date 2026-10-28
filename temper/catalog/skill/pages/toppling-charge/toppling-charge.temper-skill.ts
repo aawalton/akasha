@@ -10,7 +10,7 @@ export const topplingCharge = {
   description:
     "Charge with your divine lance to impale an enemy, dealing 1393 Magic Damage while taunting them to attack you for 15 seconds. The enemy hit is stunned for 3 seconds, set Off Balance, and if they were casting, they are interrupted.\n\nYou also gain Major Protection for 7 seconds, reducing your damage taken by 10%.",
   icon: "/esoui/art/icons/ability_templar_toppling_charge.dds",
-  esoSkillId: 23870,
+  esoAbilityId: 23870,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const topplingCharge = {
   skillType: "temper-skill-type/active",
   hashPlace: 1352,
   createdAt: "2026-05-26T03:13:12.532Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 15 seconds (Constant)",

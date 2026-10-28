@@ -10,7 +10,7 @@ export const channeledFocus = {
   description:
     "Create a rune of celestial protection and gain Major Resolve for 25 seconds, increasing your Physical Resistance and Spell Resistance by 5948. You also recover 242 Magicka every 1 second over the duration.\n\nWhile the rune is active you heal for 319 Health every 1 second, scaling off your Max Health. Standing within the rune increases the healing done by 200%.",
   icon: "/esoui/art/icons/ability_templar_channeled_focus.dds",
-  esoSkillId: 23998,
+  esoAbilityId: 23998,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const channeledFocus = {
   skillType: "temper-skill-type/active",
   hashPlace: 204,
   createdAt: "2026-05-26T03:13:12.218Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Resolve (Constant)",
     "<<2>> = 25 seconds (Constant)",

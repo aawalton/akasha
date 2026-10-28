@@ -10,7 +10,7 @@ export const healingSeed = {
   description:
     "Summon a field of flowers which blooms after |cffffff6|r seconds, healing you and allies in the area for |cffffff10960|r Health.\n\nAn ally within the field can activate the Harvest synergy, healing for |cffffff10602|r Health over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_warden_007.dds",
-  esoSkillId: 85578,
+  esoAbilityId: 85578,
   isMorph: false,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const healingSeed = {
   skillType: "temper-skill-type/active",
   hashPlace: 604,
   createdAt: "2026-05-28T16:03:32.706Z",
-  updatedAt: "2026-10-21T16:15:00.968Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 0.15 MaxStat + 1.575 MaxPower (Ultimate, Heal, AOE, Direct, rank IV)",

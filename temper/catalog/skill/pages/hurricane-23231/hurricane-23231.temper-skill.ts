@@ -10,7 +10,7 @@ export const hurricane23231 = {
   description:
     "Manifest yourself as pure air, buffeting nearby enemies with wind dealing |cffffff1667|r Physical Damage every |cffffff2|r seconds for |cffffff20|r seconds. The winds grow in damage and size, increasing up to |cffffff120|r% more damage and up to |cffffff9|r meters in size.\n\nWhile in this form you gain Major Resolve and Minor Expedition, increasing your Physical and Spell Resistance by |cffffff5948|r and your Movement Speed by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_thundering_presence.dds",
-  esoSkillId: 23231,
+  esoAbilityId: 23231,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const hurricane23231 = {
   skillType: "temper-skill-type/active",
   hashPlace: 647,
   createdAt: "2026-05-28T16:03:32.790Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.02066 MaxStat + 0.21693 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, AOE, DOT, 2s tick, R2 = 1)",
     "<<2>> = 2 seconds (Constant)",

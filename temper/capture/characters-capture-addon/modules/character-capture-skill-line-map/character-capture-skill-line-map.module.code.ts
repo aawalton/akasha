@@ -67,7 +67,7 @@ function groupsOf(this: void): readonly Group[] {
   const byKey: { [key: string]: Group | undefined } = {}
   const inOrder: Group[] = []
   for (const skill of skills) {
-    if (skill.esoSkillId === 0 || skill.skillType === PASSIVE) continue
+    if (skill.esoAbilityId === 0 || skill.skillType === PASSIVE) continue
     const key = `${skill.skillLineId}:${skill.baseName}`
     let group = byKey[key]
     if (group === undefined) {

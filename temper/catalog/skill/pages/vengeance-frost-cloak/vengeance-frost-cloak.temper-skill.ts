@@ -10,7 +10,7 @@ export const vengeanceFrostCloak = {
   description:
     "Wrap a thick cloak of ice around yourself and up to 2 grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_warden_001.dds",
-  esoSkillId: 238076,
+  esoAbilityId: 238076,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceFrostCloak = {
   skillType: "temper-skill-type/active",
   hashPlace: 1479,
   createdAt: "2026-05-28T16:03:34.293Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5948 (Constant)", "<<2>> = 20 seconds (Constant)"],
 } as const satisfies TemperSkill

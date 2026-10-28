@@ -9,7 +9,7 @@ export const brawny = {
   baseName: "Brawny",
   description: "Increases your Max Stamina by 1000.",
   icon: "/esoui/art/icons/ability_dragonknight_020.dds",
-  esoSkillId: 45309,
+  esoAbilityId: 45309,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 5,
@@ -21,6 +21,6 @@ export const brawny = {
   effects: "jsonl",
   hashPlace: 164,
   createdAt: "2026-05-26T03:18:02.177Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1000 (Constant)"],
 } as const satisfies TemperSkill

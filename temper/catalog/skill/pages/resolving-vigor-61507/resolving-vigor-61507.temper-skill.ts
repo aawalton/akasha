@@ -10,7 +10,7 @@ export const resolvingVigor61507 = {
   description:
     "Let loose a battle cry, instilling yourself with resolve and healing for |cffffff16968|r Health over |cffffff5|r seconds.\n\nAfter casting you gain Minor Resolve, increasing your Physical and Spell Resistance by |cffffff2974|r, for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_ava_resolving_vigor.dds",
-  esoSkillId: 61507,
+  esoAbilityId: 61507,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const resolvingVigor61507 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1044,
   createdAt: "2026-05-28T16:03:33.533Z",
-  updatedAt: "2026-10-28T20:28:26.955Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.03874 MaxStat + 0.40674 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, DOT, 5s duration, 1s tick, ticks on application, rank IV)",
     "<<2>> = 5 seconds (Constant)",

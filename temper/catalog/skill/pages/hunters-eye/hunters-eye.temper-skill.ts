@@ -10,7 +10,7 @@ export const huntersEye = {
   description:
     "Increases your Stealth Detection radius by 3 meters.\n\nIncreases your Movement Speed by 5% and your Physical and Spell Penetration by 950.",
   icon: "/esoui/art/icons/ability_armor_011.dds",
-  esoSkillId: 45296,
+  esoAbilityId: 45296,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -22,6 +22,6 @@ export const huntersEye = {
   effects: "jsonl",
   hashPlace: 645,
   createdAt: "2026-05-26T03:18:02.188Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3 meters (Constant)", "<<2>> = 5% (Constant)", "<<3>> = 950 (Constant)"],
 } as const satisfies TemperSkill

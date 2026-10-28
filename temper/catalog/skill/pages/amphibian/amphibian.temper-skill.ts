@@ -10,7 +10,7 @@ export const amphibian = {
   description:
     "Increases your experience gain with the Restoration Staff skill line by 15%.\n\nIncreases your swimming speed by 50%.",
   icon: "/esoui/art/icons/ability_templar_010.dds",
-  esoSkillId: 36582,
+  esoAbilityId: 36582,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,6 +22,6 @@ export const amphibian = {
   effects: "jsonl",
   hashPlace: 30,
   createdAt: "2026-05-26T03:18:02.172Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 50% (Constant)"],
 } as const satisfies TemperSkill

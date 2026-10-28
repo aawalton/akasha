@@ -10,7 +10,7 @@ export const polarWind = {
   description:
     "Envelop yourself in winter winds, instantly healing for 4958 Health and healing for an additional 1365 Health every 2 seconds over 10 seconds. You also heal a nearby ally for 3305 Health. This ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_warden_003_a.dds",
-  esoSkillId: 86155,
+  esoAbilityId: 86155,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const polarWind = {
   skillType: "temper-skill-type/active",
   hashPlace: 904,
   createdAt: "2026-05-26T03:13:12.423Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3099 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.08536712 Health (Health, RankMod(1.033), Heal, SingleTarget, DOT, 8s duration, 2s tick, R2 = 1)",

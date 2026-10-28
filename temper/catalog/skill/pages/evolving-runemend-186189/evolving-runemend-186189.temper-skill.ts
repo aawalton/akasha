@@ -10,7 +10,7 @@ export const evolvingRunemend186189 = {
   description:
     "Craft a series of adaptive Apocryphal runes, then propel them at yourself or an ally in front of you. The runes heal for |cffffff3653|r Health three times, an additional |cffffff4107|r Health over |cffffff6|r seconds, and generate Crux.\n\nEach active Crux reduces the cost of this ability by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_arcanist_013_a.dds",
-  esoSkillId: 186189,
+  esoAbilityId: 186189,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const evolvingRunemend186189 = {
   skillType: "temper-skill-type/active",
   hashPlace: 468,
   createdAt: "2026-05-28T16:03:32.404Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 0.01875 MaxStat + 0.196875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, DOT, 4s duration, 2s tick, R2 = 1)",

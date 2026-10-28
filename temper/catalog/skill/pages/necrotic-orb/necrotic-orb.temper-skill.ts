@@ -10,7 +10,7 @@ export const necroticOrb = {
   description:
     "Project a globe of annihilation that slowly floats forward for |cffffff10|r seconds, dealing |cffffff1100|r Magic Damage every |cffffff1|r second to nearby enemies. \n\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for |cffffff8261|r Magic Damage to nearby enemies and restore |cffffff3960|r Magicka or Stamina to the ally, whichever maximum is higher.",
   icon: "/esoui/art/icons/ability_undaunted_004.dds",
-  esoSkillId: 39298,
+  esoAbilityId: 39298,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 5,
@@ -20,7 +20,7 @@ export const necroticOrb = {
   skillType: "temper-skill-type/active",
   hashPlace: 854,
   createdAt: "2026-05-28T16:03:33.177Z",
-  updatedAt: "2026-10-21T04:08:18.668Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10 seconds (Constant)",
     "<<2>> = 0.013747128 MaxStat + 0.14434485 MaxPower (Ultimate, Dmg, Magic, AOE, DOT, 1s tick)",

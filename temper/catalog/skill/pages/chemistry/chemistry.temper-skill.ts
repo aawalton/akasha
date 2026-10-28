@@ -9,7 +9,7 @@ export const chemistry = {
   baseName: "Chemistry",
   description: "Produces 3 extra potions or 12 extra poisons per crafting attempt.",
   icon: "/esoui/art/icons/ability_alchemy_006.dds",
-  esoSkillId: 45579,
+  esoAbilityId: 45579,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 12,
@@ -19,5 +19,5 @@ export const chemistry = {
   skillType: "temper-skill-type/passive",
   hashPlace: 209,
   createdAt: "2026-05-26T02:37:19.376Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

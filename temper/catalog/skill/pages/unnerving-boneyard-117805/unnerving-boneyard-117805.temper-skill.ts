@@ -10,7 +10,7 @@ export const unnervingBoneyard117805 = {
   description:
     "Desecrate the ground at the target location, dealing |cffffff11110|r Frost Damage over |cffffff10|r seconds to enemies inside and applying Major Breach and Minor Vulnerability, reducing Physical and Spell Resistance by |cffffff5948|r and increasing damage taken by |cffffff5|r% for |cffffff4.1|r seconds each tick.\n\nConsumes a corpse on cast to deal |cffffff30|r% more damage.\n\nAn ally in the area can activate the Grave Robber synergy, dealing |cffffff8261|r Frost Damage to nearby enemies and healing for the damage done.",
   icon: "/esoui/art/icons/ability_necromancer_004_a.dds",
-  esoSkillId: 117805,
+  esoAbilityId: 117805,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const unnervingBoneyard117805 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1390,
   createdAt: "2026-05-28T16:03:34.158Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.012521 MaxStat + 0.131473 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Frost, AOE, DOT, 10s duration, 1s tick, R2 = 1)",
     "<<2>> = 10 seconds (Constant)",

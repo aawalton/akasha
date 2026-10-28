@@ -9,7 +9,7 @@ export const capacitor = {
   baseName: "Capacitor",
   description: "Increases your Health, Magicka, and Stamina Recovery by 141.",
   icon: "/esoui/art/icons/ability_sorcerer_013.dds",
-  esoSkillId: 45188,
+  esoAbilityId: 45188,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -21,6 +21,6 @@ export const capacitor = {
   effects: "jsonl",
   hashPlace: 183,
   createdAt: "2026-05-26T03:13:12.207Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 141 (Constant)"],
 } as const satisfies TemperSkill

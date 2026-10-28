@@ -10,7 +10,7 @@ export const vengeanceEquilibrium = {
   description:
     "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for |cffffff3000|r Magicka.\n\nThe exchange reduces your healing done and damage shield strength by |cffffff50|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_003.dds",
-  esoSkillId: 246485,
+  esoAbilityId: 246485,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceEquilibrium = {
   skillType: "temper-skill-type/active",
   hashPlace: 1465,
   createdAt: "2026-05-28T16:03:34.273Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2700 (Constant)", "<<2>> = 50% (Constant)", "<<3>> = 4 seconds (Constant)"],
 } as const satisfies TemperSkill

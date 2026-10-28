@@ -9,7 +9,7 @@ export const kickback = {
   baseName: "Kickback",
   description: "Reduces bounties you willingly pay to guards and fences by 40%.",
   icon: "/esoui/art/icons/ability_legerdemain_sly.dds",
-  esoSkillId: 63818,
+  esoAbilityId: 63818,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -19,6 +19,6 @@ export const kickback = {
   skillType: "temper-skill-type/passive",
   hashPlace: 719,
   createdAt: "2026-05-26T03:25:55.787Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 40% (Constant)"],
 } as const satisfies TemperSkill

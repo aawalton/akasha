@@ -10,7 +10,7 @@ export const scribedUlfsildsContingencyFlameDamage = {
   description:
     "Deals 1916 Flame Damage to enemies. Beneficial Signature and Affix scripts only apply to you.",
   icon: "/esoui/art/icons/ability_grimoire_magesguild.dds",
-  esoSkillId: 222678,
+  esoAbilityId: 222678,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedUlfsildsContingencyFlameDamage = {
   grimoireId: "temper-grimoire/ulfsilds-contingency",
   hashPlace: 1714,
   createdAt: "2026-05-26T13:19:53.318Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

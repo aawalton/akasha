@@ -10,7 +10,7 @@ export const wayfarer = {
   description:
     "Increases your experience gain with the One Hand and Shield skill line by 15%.\n\nIncreases the duration of any eaten food by 15 minutes.",
   icon: "/esoui/art/icons/ability_templar_027.dds",
-  esoSkillId: 84680,
+  esoAbilityId: 84680,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const wayfarer = {
   status: "unsupported",
   hashPlace: 1610,
   createdAt: "2026-05-26T03:18:02.214Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const deadlyBash = {
   description:
     "Improves your standard Bash attacks, causing them to deal 500 more damage and cost 50% less Stamina.",
   icon: "/esoui/art/icons/ability_dragonknight_034.dds",
-  esoSkillId: 45469,
+  esoAbilityId: 45469,
   isMorph: false,
   learnedLevel: 28,
   lineRankNeeded: 28,
@@ -22,6 +22,6 @@ export const deadlyBash = {
   effects: "jsonl",
   hashPlace: 324,
   createdAt: "2026-05-26T02:38:38.303Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 500 (Constant)", "<<2>> = 50% (Constant)"],
 } as const satisfies TemperSkill

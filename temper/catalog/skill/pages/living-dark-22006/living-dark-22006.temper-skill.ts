@@ -10,7 +10,7 @@ export const livingDark22006 = {
   description:
     "Envelop yourself in a lightless sphere for |cffffff10|r seconds to protect yourself. Anytime you take direct damage, the sphere lashes back at the attacker, reducing their Movement Speed by |cffffff40|r% for |cffffff3|r seconds and healing you for |cffffff2107|r Health. These effects can occur once every half second.",
   icon: "/esoui/art/icons/ability_templar_unstable_core.dds",
-  esoSkillId: 22006,
+  esoAbilityId: 22006,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const livingDark22006 = {
   skillType: "temper-skill-type/active",
   hashPlace: 761,
   createdAt: "2026-05-28T16:03:33.008Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10 seconds (Constant)",
     "<<2>> = 40% (Constant)",

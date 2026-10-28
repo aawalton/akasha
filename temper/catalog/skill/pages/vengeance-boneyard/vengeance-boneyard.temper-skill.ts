@@ -10,7 +10,7 @@ export const vengeanceBoneyard = {
   description:
     "Desecrate the ground at the target location, dealing |cffffff8820|r Frost Damage to up to 3 enemies inside and applying Minor Vulnerability for |cffffff5|r seconds, increasing their damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_necromancer_004.dds",
-  esoSkillId: 238095,
+  esoAbilityId: 238095,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceBoneyard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1429,
   createdAt: "2026-05-28T16:03:34.219Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 7875 Frost Damage (Constant)",
     "<<2>> = 12 (Constant)",

@@ -10,7 +10,7 @@ export const iceComet = {
   description:
     "Call a comet down from the constellations to blast an enemy, dealing 4620 Frost Damage to all enemies in the area, knocking them down, stunning them for 2 seconds, and reducing their Movement Speed by 50% for 5 seconds. \n\nAfter impact, enemies in the target area take 1319 Frost Damage every 1 second for 11 seconds.",
   icon: "/esoui/art/icons/ability_mageguild_005_b.dds",
-  esoSkillId: 42478,
+  esoAbilityId: 42478,
   isMorph: true,
   learnedLevel: 10,
   lineRankNeeded: 10,
@@ -20,7 +20,7 @@ export const iceComet = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 650,
   createdAt: "2026-05-26T02:59:07.592Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.205414116 MaxStat + 2.15685235 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Frost, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 2 seconds (Constant)",

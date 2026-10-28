@@ -10,7 +10,7 @@ export const silverLeash = {
   description:
     "Fire a Dawnguard's crossbow hook to pull an enemy to you, dealing 1438 Physical Damage, taunting them for 15 seconds if they are not already taunted, and reducing their Movement Speed by 30% for 4 seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_003_b.dds",
-  esoSkillId: 42696,
+  esoAbilityId: 42696,
   isMorph: true,
   learnedLevel: 2,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const silverLeash = {
   skillType: "temper-skill-type/active",
   hashPlace: 1187,
   createdAt: "2026-05-26T02:59:07.662Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06402534 MaxStat + 0.67226607 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 15 seconds (Constant)",

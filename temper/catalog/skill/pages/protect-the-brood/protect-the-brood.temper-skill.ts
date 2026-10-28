@@ -10,7 +10,7 @@ export const protectTheBrood = {
   description:
     "Unfurl draconic wings to safeguard you and nearby group members for 6 seconds, reducing damage taken from projectiles by 50% for you and 25% for group members.\n\nYou and your brood gain Minor Protection for 20 seconds, reducing damage taken by 5%. You gain Major Expedition for 4 seconds, increasing Movement Speed by 30%.",
   icon: "/esoui/art/icons/ability_dragonknight_008_a.dds",
-  esoSkillId: 21017,
+  esoAbilityId: 21017,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const protectTheBrood = {
   skillType: "temper-skill-type/active",
   hashPlace: 934,
   createdAt: "2026-05-26T03:13:12.434Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 seconds (Constant)",
     "<<2>> = 50% (Constant)",

@@ -9,7 +9,7 @@ export const syrabanesBoon = {
   baseName: "Syrabane's Boon",
   description: "Increases your Max Magicka by 2000.",
   icon: "/esoui/art/icons/ability_armor_004.dds",
-  esoSkillId: 117970,
+  esoAbilityId: 117970,
   isMorph: false,
   learnedLevel: 40,
   lineRankNeeded: 40,
@@ -21,6 +21,6 @@ export const syrabanesBoon = {
   effects: "jsonl",
   hashPlace: 1323,
   createdAt: "2026-05-26T03:18:02.211Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2000 (Constant)"],
 } as const satisfies TemperSkill

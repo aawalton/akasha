@@ -10,7 +10,7 @@ export const hexproof117919 = {
   description:
     "Embrace the power of death, removing up to |cffffff4|r negative effects from yourself.\n\nWhile slotted, the cost of all your abilities are reduced by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_necromancer_014_a.dds",
-  esoSkillId: 117919,
+  esoAbilityId: 117919,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,6 +20,6 @@ export const hexproof117919 = {
   skillType: "temper-skill-type/active",
   hashPlace: 630,
   createdAt: "2026-05-28T16:03:32.756Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 4 (Constant)", "<<2>> = 3% (Constant)"],
 } as const satisfies TemperSkill

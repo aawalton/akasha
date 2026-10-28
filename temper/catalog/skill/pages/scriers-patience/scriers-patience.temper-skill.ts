@@ -9,7 +9,7 @@ export const scriersPatience = {
   baseName: "Scrier's Patience",
   description: "Grants you two additional turns of Scrying.",
   icon: "/esoui/art/icons/ability_scrying_06b.dds",
-  esoSkillId: 139779,
+  esoAbilityId: 139779,
   isMorph: false,
   learnedLevel: 5,
   lineRankNeeded: 5,
@@ -19,5 +19,5 @@ export const scriersPatience = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1142,
   createdAt: "2026-05-26T03:25:55.813Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

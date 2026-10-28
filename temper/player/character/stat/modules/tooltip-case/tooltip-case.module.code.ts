@@ -72,10 +72,10 @@ type TooltipCaseRead = Omit<TooltipCase, "pinned" | "gaps">
 type Worked = { readonly game: number; readonly temper: number | null }
 
 const skillHeld = z.object({
-  esoSkillId: z.number(),
+  esoAbilityId: z.number(),
   equations: z.array(z.string()),
   variants: z
-    .array(z.object({ esoSkillId: z.number(), equations: z.array(z.string()).optional() }))
+    .array(z.object({ esoAbilityId: z.number(), equations: z.array(z.string()).optional() }))
     .optional(),
 })
 
@@ -84,19 +84,19 @@ export function equationsOf(values: Iterable<unknown>): Equations {
   for (const value of values) {
     const said = skillHeld.safeParse(value)
     if (!said.success) continue
-    const { esoSkillId, equations, variants } = said.data
-    found.set(esoSkillId, equations)
+    const { esoAbilityId, equations, variants } = said.data
+    found.set(esoAbilityId, equations)
     for (const variant of variants ?? []) {
-      found.set(variant.esoSkillId, variant.equations ?? equations)
+      found.set(variant.esoAbilityId, variant.equations ?? equations)
     }
   }
   return found
 }
 
 const skillLined = z.object({
-  esoSkillId: z.number(),
+  esoAbilityId: z.number(),
   skillLineId: z.string(),
-  variants: z.array(z.object({ esoSkillId: z.number() })).optional(),
+  variants: z.array(z.object({ esoAbilityId: z.number() })).optional(),
 })
 
 export function skillLinesOf(values: Iterable<unknown>): SkillLines {
@@ -104,9 +104,9 @@ export function skillLinesOf(values: Iterable<unknown>): SkillLines {
   for (const value of values) {
     const said = skillLined.safeParse(value)
     if (!said.success) continue
-    const { esoSkillId, skillLineId, variants } = said.data
-    found.set(esoSkillId, skillLineId)
-    for (const variant of variants ?? []) found.set(variant.esoSkillId, skillLineId)
+    const { esoAbilityId, skillLineId, variants } = said.data
+    found.set(esoAbilityId, skillLineId)
+    for (const variant of variants ?? []) found.set(variant.esoAbilityId, skillLineId)
   }
   return found
 }

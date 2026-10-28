@@ -10,7 +10,7 @@ export const gibberingShelter = {
   description:
     "Gather the true strength of Apocrypha, forming a tentacle damage shield that absorbs 60% of all damage for 10 seconds, up to a max of 31733 damage.\n\nWhen the shield absorbs damage, pseudopods cascade out at up to 11 allies within 15 meters, granting them a damage shield for 4 seconds that absorbs up to 5462 damage. These shields can be applied once every 4 seconds. Both shields scale off your Max Health.",
   icon: "/esoui/art/icons/ability_arcanist_012_b.dds",
-  esoSkillId: 40192380,
+  esoAbilityId: 40192380,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const gibberingShelter = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 560,
   createdAt: "2026-05-26T03:13:12.336Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 60% (Constant)",
     "<<2>> = 10 seconds (Constant)",

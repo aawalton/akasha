@@ -10,7 +10,7 @@ export const piercingCold = {
   description:
     "Increases the amount of damage you block by 8% and increases your Frost Damage by 15%.",
   icon: "/esoui/art/icons/passive_warden_004.dds",
-  esoSkillId: 86196,
+  esoAbilityId: 86196,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -22,6 +22,6 @@ export const piercingCold = {
   effects: "jsonl",
   hashPlace: 893,
   createdAt: "2026-05-26T03:13:12.419Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 8% (Constant)", "<<2>> = 15% (Constant)"],
 } as const satisfies TemperSkill

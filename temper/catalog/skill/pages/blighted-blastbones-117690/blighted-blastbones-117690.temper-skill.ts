@@ -10,7 +10,7 @@ export const blightedBlastbones117690 = {
   description:
     "Summon a decaying skeleton from the ground after |cffffff2.5|r seconds. The skeleton runs after the target and explodes when it gets close to them, dealing |cffffff13224|r Disease Damage to all enemies nearby and applying the Diseased status effect and Major Defile to them for |cffffff4|r seconds, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nCreates a corpse on death.",
   icon: "/esoui/art/icons/ability_necromancer_002_a.dds",
-  esoSkillId: 117690,
+  esoAbilityId: 117690,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const blightedBlastbones117690 = {
   skillType: "temper-skill-type/active",
   hashPlace: 110,
   createdAt: "2026-05-28T16:03:31.770Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2.5 seconds (Constant)",
     "<<2>> = 0.15495 MaxStat + 1.62698 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Disease, AOE, Direct, Melee, R2 = 1)",

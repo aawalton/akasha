@@ -10,7 +10,7 @@ export const spectralAssassin = {
   description:
     "15% chance to shroud you when using the Blade of Woe, shielding you from being witnessed and receiving a Bounty.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_006.dds",
-  esoSkillId: 77401,
+  esoAbilityId: 77401,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -22,5 +22,5 @@ export const spectralAssassin = {
   effects: "jsonl",
   hashPlace: 1243,
   createdAt: "2026-05-26T02:59:07.669Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

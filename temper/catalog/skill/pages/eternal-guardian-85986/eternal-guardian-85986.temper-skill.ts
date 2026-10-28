@@ -10,7 +10,7 @@ export const eternalGuardian85986 = {
   description:
     "Rouse a grizzly to fight by your side. The grizzly swipes an enemy, dealing |cffffff2084|r Magic Damage, and sometimes swipes all enemies in front of it, dealing |cffffff8814|r Magic Damage and stunning them for |cffffff2|r seconds.\n\nOnce summoned you can activate Guardian's Wrath for |cffffff79|r Ultimate, causing the grizzly to maul an enemy for |cffffff11681|r Magic Damage. Deals |cffffff150|r% more damage to enemies below |cffffff25|r% Health.\n\n The grizzly respawns when killed, once per minute.",
   icon: "/esoui/art/icons/ability_warden_018_b.dds",
-  esoSkillId: 85986,
+  esoAbilityId: 85986,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const eternalGuardian85986 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 457,
   createdAt: "2026-05-28T16:03:32.387Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.025825 MaxStat + 0.271163 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 0.1033 MaxStat + 1.08465 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, Melee, 1.8s cooldown, R2 = 1)",

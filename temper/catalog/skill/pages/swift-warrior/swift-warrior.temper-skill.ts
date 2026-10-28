@@ -10,7 +10,7 @@ export const swiftWarrior = {
   description:
     "Increases your Weapon and Spell Damage by 258.\n\nReduces the cost of Sprint by 12% and increases the Movement Speed bonus of Sprint by 10%.",
   icon: "/esoui/art/icons/ability_dragonknight_029.dds",
-  esoSkillId: 45312,
+  esoAbilityId: 45312,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 25,
@@ -22,6 +22,6 @@ export const swiftWarrior = {
   effects: "jsonl",
   hashPlace: 1316,
   createdAt: "2026-05-26T03:18:02.210Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 258 (Constant)"],
 } as const satisfies TemperSkill

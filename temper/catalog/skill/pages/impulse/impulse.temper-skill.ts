@@ -10,7 +10,7 @@ export const impulse = {
   description:
     "Release a surge of elemental energy, dealing |cffffff6400|r Magic Damage to nearby enemies.\n\nFire Impulse hits Burning enemies with Impulse Afterburn, which deals more damage based on their missing Health.\n\nFrost Impulse also provides Minor Protection.\n\nShock Impulse's damage increases based on the number of enemies hit.",
   icon: "/esoui/art/icons/ability_destructionstaff_008.dds",
-  esoSkillId: 28800,
+  esoAbilityId: 28800,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const impulse = {
   skillType: "temper-skill-type/active",
   hashPlace: 676,
   createdAt: "2026-05-28T16:03:32.841Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.075 MaxStat + 0.7875 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, AOE, Direct, R2 = 1)",
     "<<2>> = Fire Impulse (Constant)",

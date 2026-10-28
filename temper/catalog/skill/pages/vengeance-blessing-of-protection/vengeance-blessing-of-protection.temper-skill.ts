@@ -10,7 +10,7 @@ export const vengeanceBlessingOfProtection = {
   description:
     "Slam your staff down to activate its blessings, healing up to 3 of you and your allies in front of you for |cffffff12048|r Health.",
   icon: "/esoui/art/icons/ability_restorationstaff_003.dds",
-  esoSkillId: 246616,
+  esoAbilityId: 246616,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceBlessingOfProtection = {
   skillType: "temper-skill-type/active",
   hashPlace: 1422,
   createdAt: "2026-05-28T16:03:34.210Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6 (Constant)", "<<2>> = 11812 (Constant)"],
 } as const satisfies TemperSkill

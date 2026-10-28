@@ -10,7 +10,7 @@ export const fireRune = {
   description:
     "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff20|r seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for |cffffff8533|r Flame Damage.",
   icon: "/esoui/art/icons/ability_mageguild_001.dds",
-  esoSkillId: 31632,
+  esoAbilityId: 31632,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const fireRune = {
   skillType: "temper-skill-type/active",
   hashPlace: 513,
   createdAt: "2026-05-28T16:03:32.480Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<3>> = 2 seconds (Constant)",
     "<<1>> = 20 seconds (Constant, +2 seconds with everlasting-magic)",

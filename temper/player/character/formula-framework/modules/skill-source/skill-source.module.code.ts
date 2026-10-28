@@ -4,7 +4,7 @@ import type { EffectSourceInterface } from "akasha/temper/player/character/formu
 export interface SkillSource<TSkillType extends string = string>
   extends EffectSourceInterface<"skills", Effect> {
   skillId: string
-  esoSkillId: number
+  esoAbilityId: number
   skillName: string
   skillLineId: string
   skillType: TSkillType

@@ -10,7 +10,7 @@ export const vengeanceWarHorn = {
   description:
     "Sound a war horn to rally your forces, increasing you and up to 5 of your group members' Health, Magicka, and Stamina Recovery by |cffffff2500|r for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_ava_003.dds",
-  esoSkillId: 244644,
+  esoAbilityId: 244644,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceWarHorn = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1587,
   createdAt: "2026-05-28T16:03:34.448Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2500 (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

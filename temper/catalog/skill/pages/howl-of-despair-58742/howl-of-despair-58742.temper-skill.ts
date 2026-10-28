@@ -10,7 +10,7 @@ export const howlOfDespair58742 = {
   description:
     "Rip and tear into an enemy with your fangs, dealing |cffffff4085|r Physical Damage while applying Major Breach for |cffffff15|r seconds and the Sundered status effect on the initial rip and |cffffff4085|r Bleed Damage while tearing out, when it is done. \n\nThe second hit deals up to |cffffff125|r% more damage to enemies with less than |cffffff25|r% Health and heals you for |cffffff3909|r, based off your Max Health.\n\nConsumes a stack of Blood Hunger to increase the initial damage and healing done by |cffffff25|r%.",
   icon: "/esoui/art/icons/ability_werewolf_002_rend_a.dds",
-  esoSkillId: 58742,
+  esoAbilityId: 58742,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const howlOfDespair58742 = {
   skillType: "temper-skill-type/active",
   hashPlace: 641,
   createdAt: "2026-05-28T16:03:32.779Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.067145 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 8.08, Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 15 seconds (Constant)",

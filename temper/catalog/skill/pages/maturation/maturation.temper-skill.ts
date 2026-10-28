@@ -10,7 +10,7 @@ export const maturation = {
   description:
     "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by 10% for 20 seconds.",
   icon: "/esoui/art/icons/passive_warden_007.dds",
-  esoSkillId: 85881,
+  esoAbilityId: 85881,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -22,6 +22,6 @@ export const maturation = {
   effects: "jsonl",
   hashPlace: 809,
   createdAt: "2026-05-26T03:13:12.397Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10% (Constant)", "<<2>> = 20 seconds (Constant)"],
 } as const satisfies TemperSkill

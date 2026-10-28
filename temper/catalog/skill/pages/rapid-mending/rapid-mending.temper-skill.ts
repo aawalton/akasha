@@ -10,7 +10,7 @@ export const rapidMending = {
   description:
     "Increases your healing received by 1% for each piece of Heavy Armor worn.\n\nCurrent bonus: 0%",
   icon: "/esoui/art/icons/ability_armor_015.dds",
-  esoSkillId: 45529,
+  esoAbilityId: 45529,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 42,
@@ -22,6 +22,6 @@ export const rapidMending = {
   effects: "jsonl",
   hashPlace: 978,
   createdAt: "2026-05-26T02:59:07.644Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1 HeavyArmor (Heavy Armor, SingleTarget, Direct, R2 = 1)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const foragerHireling = {
   description:
     "A hireling will send you even more provisioning ingredients every day. You have a greater chance at better quality ingredients.",
   icon: "/esoui/art/icons/ability_provisioner_007.dds",
-  esoSkillId: 44641,
+  esoAbilityId: 44641,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 28,
@@ -20,5 +20,5 @@ export const foragerHireling = {
   skillType: "temper-skill-type/passive",
   hashPlace: 530,
   createdAt: "2026-05-26T02:37:19.381Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

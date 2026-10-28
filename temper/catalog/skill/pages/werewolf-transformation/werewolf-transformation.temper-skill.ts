@@ -10,7 +10,7 @@ export const werewolfTransformation = {
   description:
     "Transform into a beast, fearing nearby enemies for |cffffff3|r seconds.\n\nWhile transformed and in combat, abilities generate |cffffff15|r Fury. When you have |cffffff1000|r, this ability becomes Rampage, which increases your damage done by |cffffff15|r%, Movement Speed by |cffffff20|r%, and removes the cost of all Werewolf abilities for |cffffff20|r seconds. \n\nWhile slotted, your Stamina Recovery is increased by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_werewolf_001.dds",
-  esoSkillId: 32455,
+  esoAbilityId: 32455,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const werewolfTransformation = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1615,
   createdAt: "2026-05-28T16:03:34.502Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 seconds (Constant)",
     "<<2>> = 15 (Constant)",

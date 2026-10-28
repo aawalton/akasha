@@ -70,7 +70,7 @@ const SKILL_FIELDS: readonly string[] = [
   "baseName",
   "description",
   "icon",
-  "esoSkillId",
+  "esoAbilityId",
   "isMorph",
   "morphIndex",
   "lineRankNeeded",
@@ -158,7 +158,7 @@ function skillOf(row: Value, keys: SkillKeys): SkillTemplate {
   const skillLineId = keys.of(row.skillLineId, where)
   return {
     id,
-    esoSkillId: row.esoSkillId,
+    esoAbilityId: row.esoAbilityId,
     name: row.title,
     baseName: row.baseName,
     skillLineId,

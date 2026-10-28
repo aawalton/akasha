@@ -10,7 +10,7 @@ export const vengeanceBoneTotem = {
   description:
     "Summon an effigy of bone at your feet after |cffffff2|r seconds. Once completed, the totem fears up to 3 nearby enemies, causing them to cower in place for |cffffff4|r seconds and become afflicted with Major Maim for |cffffff10|r seconds, reducing their damage done by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_necromancer_010.dds",
-  esoSkillId: 238178,
+  esoAbilityId: 238178,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceBoneTotem = {
   skillType: "temper-skill-type/active",
   hashPlace: 1428,
   createdAt: "2026-05-28T16:03:34.218Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2 seconds (Constant)",
     "<<2>> = 6 (Constant)",

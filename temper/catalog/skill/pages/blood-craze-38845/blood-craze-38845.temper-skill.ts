@@ -10,7 +10,7 @@ export const bloodCraze38845 = {
   description:
     "Slice an enemy with both weapons to cause deep lacerations, dealing |cffffff2018|r Bleed Damage with each weapon and causing them to bleed for an additional |cffffff11420|r Bleed Damage over |cffffff20|r seconds.\n\nYou heal for |cffffff1131|r Health anytime this ability deals damage.",
   icon: "/esoui/art/icons/ability_dualwield_001_b.dds",
-  esoSkillId: 38845,
+  esoAbilityId: 38845,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const bloodCraze38845 = {
   skillType: "temper-skill-type/active",
   hashPlace: 115,
   createdAt: "2026-05-28T16:03:31.781Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.025825 MaxStat + 0.271163 MaxPower (Ultimate, ratio = 10.50, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 0.0156088 MaxStat + 0.162726 MaxPower - 2.99952 (Ultimate, ratio = 10.43, Dmg, Bleed, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999995)",

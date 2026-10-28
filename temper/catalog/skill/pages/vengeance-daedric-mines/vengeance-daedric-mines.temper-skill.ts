@@ -10,7 +10,7 @@ export const vengeanceDaedricMines = {
   description:
     "Surprise your foes by detonating |cffffff3|r volatile Daedric mines around you, dealing |cffffff8820|r Magic Damage to up 3 enemies and reducing their movement speed by |cffffff30|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_daedric_mines.dds",
-  esoSkillId: 237812,
+  esoAbilityId: 237812,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceDaedricMines = {
   skillType: "temper-skill-type/active",
   hashPlace: 1444,
   createdAt: "2026-05-28T16:03:34.242Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 (Constant)",
     "<<2>> = 7875 Magic Damage (Constant)",

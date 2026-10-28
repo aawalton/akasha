@@ -10,7 +10,7 @@ export const searingClaw = {
   description:
     "Slash your foe with a fiery claw, dealing |cffffff4038|r Flame Damage and an additional |cffffff11425|r Flame Damage over |cffffff10|r seconds.\n\nThe flame sears into the target, dealing |cffffff10|r% more damage every |cffffff2|r seconds.\n\nThe initial hit always applies the Burning status effect.",
   icon: "/esoui/art/icons/ability_dragonknight_003_a.dds",
-  esoSkillId: 20668,
+  esoAbilityId: 20668,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const searingClaw = {
   skillType: "temper-skill-type/active",
   hashPlace: 1144,
   createdAt: "2026-05-28T16:03:33.709Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05165 MaxStat + 0.542325 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 0.031026 MaxStat + 0.325426 MaxPower - 1.91657 (Ultimate, ratio = 10.49, Dmg, Flame, SingleTarget, DOT, 8s duration, 2s tick, R2 = 0.999998)",

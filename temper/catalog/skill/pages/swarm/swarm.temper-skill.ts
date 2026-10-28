@@ -10,7 +10,7 @@ export const swarm = {
   description:
     "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.  \n\nThe fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_warden_014.dds",
-  esoSkillId: 86023,
+  esoAbilityId: 86023,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const swarm = {
   skillType: "temper-skill-type/active",
   hashPlace: 1313,
   createdAt: "2026-05-28T16:03:34.019Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0182227 MaxStat + 0.19082 MaxPower - 1.34458 (Ultimate, ratio = 10.47, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999996)",
     "<<2>> = 20 seconds (Constant)",

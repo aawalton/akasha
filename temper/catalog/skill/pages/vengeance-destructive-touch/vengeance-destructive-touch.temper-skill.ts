@@ -10,7 +10,7 @@ export const vengeanceDestructiveTouch = {
   description:
     "Devastate an enemy with an enhanced charge from your staff, dealing |cffffff5008|r Magic Damage and an additional |cffffff12285|r Magic Damage over |cffffff6|r seconds. \n\nFlame Touch converts the initial hit into damage over time.\n\nFrost Touch converts some of the damage over time into initial damage.\n\nShock Touch deals damage more rapidly.",
   icon: "/esoui/art/icons/ability_destructionstaff_005.dds",
-  esoSkillId: 241429,
+  esoAbilityId: 241429,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceDestructiveTouch = {
   skillType: "temper-skill-type/active",
   hashPlace: 1451,
   createdAt: "2026-05-28T16:03:34.252Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4725 Magic Damage (Constant)",
     "<<2>> = 12285 (Constant)",

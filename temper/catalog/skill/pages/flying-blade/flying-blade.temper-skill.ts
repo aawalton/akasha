@@ -10,7 +10,7 @@ export const flyingBlade = {
   description:
     "Fire a secret dagger from your sleeve at an enemy, dealing 1438 Physical Damage and marking them for 5 seconds.\n\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for 3 seconds.\n\nReactivating this ability on them allows you to jump to a marked enemy free of cost, dealing 2160 Physical Damage.\n\nCasting grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20% for 40 seconds.",
   icon: "/esoui/art/icons/ability_dualwield_003_a.dds",
-  esoSkillId: 40628,
+  esoAbilityId: 40628,
   isMorph: true,
   learnedLevel: 38,
   lineRankNeeded: 38,
@@ -20,7 +20,7 @@ export const flyingBlade = {
   skillType: "temper-skill-type/active",
   hashPlace: 524,
   createdAt: "2026-05-26T02:38:38.321Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06402534 MaxStat + 0.67226607 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Physical, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 5 seconds (Constant)",

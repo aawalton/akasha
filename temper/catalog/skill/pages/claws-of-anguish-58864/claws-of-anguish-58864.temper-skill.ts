@@ -10,7 +10,7 @@ export const clawsOfAnguish58864 = {
   description:
     "Shred up to |cffffff6|r enemies in front of you with furious intent, dealing |cffffff71227|r Physical Damage in a channeled attack over |cffffff4.7|r seconds. \n\nDealing damage with this ability generates |cffffff15|r Fury and a stack of Blood Hunger, up to once per second. \n\nThis ability deals |cffffff25|r% more damage per stack of Blood Hunger, consumes all stacks when the ability ends, and is considered direct damage.",
   icon: "/esoui/art/icons/u50_ability_werewolf_claws_of_anguish.dds",
-  esoSkillId: 58864,
+  esoAbilityId: 58864,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 9,
@@ -20,7 +20,7 @@ export const clawsOfAnguish58864 = {
   skillType: "temper-skill-type/active",
   hashPlace: 217,
   createdAt: "2026-05-28T16:03:31.952Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 (Constant)",
     "<<2>> = 0.0825 MaxStat + 0.666346 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Physical, AOE, Direct, Melee, 4s duration, 0.333s tick, R2 = 1)",

@@ -10,7 +10,7 @@ export const lightweightBeastTrap40372 = {
   description:
     "Launch a sharpened blade trap at a target location, which takes |cffffff1.5|r seconds to arm and lasts for |cffffff20|r seconds.\n\nWhen triggered, the trap deals |cffffff4038|r Bleed Damage, an additional |cffffff11420|r Bleed Damage over |cffffff20|r seconds, and grants you Minor Force, increasing your Critical Damage by |cffffff10|r% for the duration.\n\nEnemies who activate the trap are immobilized for |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_004_b.dds",
-  esoSkillId: 40372,
+  esoAbilityId: 40372,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 8,
@@ -20,7 +20,7 @@ export const lightweightBeastTrap40372 = {
   skillType: "temper-skill-type/active",
   hashPlace: 755,
   createdAt: "2026-05-28T16:03:32.996Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = 0.051612 MaxStat + 0.542543 MaxPower - 0.879855 (Ultimate, ratio = 10.51, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 1)",

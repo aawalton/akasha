@@ -10,7 +10,7 @@ export const agonyTotem = {
   description:
     "Summon an effigy of bone at your feet for 13 seconds that grants Minor Protection to you and your allies, reducing damage taken by 5%. Enemies in the area are afflicted with Major Cowardice.\n\nAfter 2 seconds, the totem begins fearing nearby enemies every 2 seconds, causing them to cower in place for 4 seconds.\n\nAllies can activate the Pure Agony synergy, dealing 2100 Magic Damage over 5 seconds to enemies.",
   icon: "/esoui/art/icons/ability_necromancer_010_b.dds",
-  esoSkillId: 40118404,
+  esoAbilityId: 40118404,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const agonyTotem = {
   skillType: "temper-skill-type/active",
   hashPlace: 26,
   createdAt: "2026-05-26T03:13:12.168Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 13 seconds (Constant)",
     "<<2>> = Minor Protection (Constant)",

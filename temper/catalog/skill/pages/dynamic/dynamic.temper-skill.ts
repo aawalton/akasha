@@ -9,7 +9,7 @@ export const dynamic = {
   baseName: "Dynamic",
   description: "Increases your Max Magicka and Max Stamina by 1910.",
   icon: "/esoui/art/icons/ability_weapon_023.dds",
-  esoSkillId: 45267,
+  esoAbilityId: 45267,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -21,6 +21,6 @@ export const dynamic = {
   effects: "jsonl",
   hashPlace: 389,
   createdAt: "2026-05-26T03:18:02.182Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1910 (Constant)"],
 } as const satisfies TemperSkill

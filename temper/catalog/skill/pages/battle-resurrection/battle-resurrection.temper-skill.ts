@@ -10,7 +10,7 @@ export const battleResurrection = {
   description:
     "Reduces the time it takes you to resurrect another player by 30% while you are in a PvP area.",
   icon: "/esoui/art/icons/ability_sorcerer_018.dds",
-  esoSkillId: 45625,
+  esoAbilityId: 45625,
   isMorph: false,
   learnedLevel: 10,
   lineRankNeeded: 10,
@@ -22,6 +22,6 @@ export const battleResurrection = {
   effects: "jsonl",
   hashPlace: 81,
   createdAt: "2026-05-26T03:25:55.722Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 30% (Constant)"],
 } as const satisfies TemperSkill

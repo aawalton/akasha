@@ -10,7 +10,7 @@ export const vengeanceWhirlwind = {
   description:
     "Launch yourself into a lethal spin, dealing |cffffff8820|r Physical Damage to up to 3 nearby enemies.\nDeals up to |cffffff33|r% more damage to enemies below |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_dualwield_005.dds",
-  esoSkillId: 240594,
+  esoAbilityId: 240594,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceWhirlwind = {
   skillType: "temper-skill-type/active",
   hashPlace: 1589,
   createdAt: "2026-05-28T16:03:34.450Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 7875 Physical Damage (Constant)",
     "<<2>> = 12 (Constant)",

@@ -10,7 +10,7 @@ export const livingTrellis = {
   description:
     "Grow vines to embrace you or the lowest health ally in front of you for 10 seconds. The vines heal the target for 718 Health each time they take damage. This effect can occur once every 1 second.\n\nWhen the vines expire, they heal the target for an additional 1742 Health.",
   icon: "/esoui/art/icons/ability_warden_010_b.dds",
-  esoSkillId: 93883,
+  esoAbilityId: 93883,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const livingTrellis = {
   skillType: "temper-skill-type/active",
   hashPlace: 762,
   createdAt: "2026-05-26T03:13:12.383Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10 seconds (Constant)",
     "<<2>> = 0.0320397 MaxStat + 0.336325 MaxPower - 2.84114 (Ultimate, ratio = 10.50, Heal, SingleTarget, Direct, R2 = 0.999996)",

@@ -10,7 +10,7 @@ export const mending = {
   description:
     "Increases your healing done by up to 13%, in proportion to the severity of the target's wounds.",
   icon: "/esoui/art/icons/ability_templar_004.dds",
-  esoSkillId: 45206,
+  esoAbilityId: 45206,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -21,6 +21,6 @@ export const mending = {
   status: "unsupported",
   hashPlace: 817,
   createdAt: "2026-05-26T03:13:12.398Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 13% (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const innerLight40478 = {
   description:
     "Summon a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff5|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds.\n\nWhile slotted you gain Major Savagery and Prophecy, increasing your Weapon and Spell Critical rating by |cffffff2629|r and your Max Magicka is increased by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_mageguild_002_b.dds",
-  esoSkillId: 40478,
+  esoAbilityId: 40478,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -21,7 +21,7 @@ export const innerLight40478 = {
   effects: "jsonl",
   hashPlace: 688,
   createdAt: "2026-05-28T16:03:32.859Z",
-  updatedAt: "2026-10-21T02:29:23.868Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5 seconds (Constant, +2 seconds with everlasting-magic)",
     "<<2>> = 4 seconds (Constant)",

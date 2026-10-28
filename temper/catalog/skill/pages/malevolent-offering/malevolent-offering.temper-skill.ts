@@ -10,7 +10,7 @@ export const malevolentOffering = {
   description:
     "Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff10960|r Health, while draining |cffffff1080|r Health from yourself over |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_011.dds",
-  esoSkillId: 33308,
+  esoAbilityId: 33308,
   isMorph: false,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const malevolentOffering = {
   skillType: "temper-skill-type/active",
   hashPlace: 798,
   createdAt: "2026-05-28T16:03:33.072Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.15 MaxStat + 1.575 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 1080 (Constant)",

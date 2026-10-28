@@ -9,7 +9,7 @@ export const futureFocus = {
   baseName: "Future Focus",
   description: "Grants you two additional Magicka Charges for use in Scrying.",
   icon: "/esoui/art/icons/ability_scrying_07c.dds",
-  esoSkillId: 139781,
+  esoAbilityId: 139781,
   isMorph: false,
   learnedLevel: 8,
   lineRankNeeded: 8,
@@ -19,5 +19,5 @@ export const futureFocus = {
   skillType: "temper-skill-type/passive",
   hashPlace: 556,
   createdAt: "2026-05-26T03:25:55.770Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

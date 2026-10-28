@@ -10,7 +10,7 @@ export const solarDisturbance21758 = {
   description:
     "Call down a fragment of the sun, dealing |cffffff4038|r Magic Damage every |cffffff1|r second for |cffffff8|r seconds to enemies in the area and applying Major Maim to them for |cffffff10|r seconds, reducing their damage done by |cffffff10|r%.\n\nAn ally near the fragment can activate the Supernova synergy, dealing |cffffff9576|r Magic Damage to all enemies in the area and stunning them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_templar_solar_disturbance.dds",
-  esoSkillId: 21758,
+  esoAbilityId: 21758,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const solarDisturbance21758 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1215,
   createdAt: "2026-05-28T16:03:33.835Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.051612 MaxStat + 0.542543 MaxPower - 0.879855 (Ultimate, ratio = 10.51, Dmg, Magic, AOE, DOT, 1s tick, R2 = 1)",
     "<<2>> = 1 second (Constant)",

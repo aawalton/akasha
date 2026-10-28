@@ -9,7 +9,7 @@ export const scalesOfPitilessJustice = {
   baseName: "Scales of Pitiless Justice",
   description: "Bounty and Heat resulting from a witnessed Murder or Assault is reduced by 50%.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_002.dds",
-  esoSkillId: 79865,
+  esoAbilityId: 79865,
   isMorph: false,
   learnedLevel: 11,
   lineRankNeeded: 11,
@@ -21,6 +21,6 @@ export const scalesOfPitilessJustice = {
   effects: "jsonl",
   hashPlace: 1135,
   createdAt: "2026-05-26T02:59:07.656Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 50% (Constant)"],
 } as const satisfies TemperSkill

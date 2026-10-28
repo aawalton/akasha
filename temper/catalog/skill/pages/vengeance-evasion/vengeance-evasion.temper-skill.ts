@@ -10,7 +10,7 @@ export const vengeanceEvasion = {
   description:
     "Shroud yourself in mist to gain Major Evasion, reducing damage taken from area attacks by |cffffff20|r% for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_armor_002.dds",
-  esoSkillId: 247587,
+  esoAbilityId: 247587,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceEvasion = {
   skillType: "temper-skill-type/active",
   hashPlace: 1466,
   createdAt: "2026-05-28T16:03:34.274Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Evasion (Constant)",
     "<<2>> = 20% (Constant)",

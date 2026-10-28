@@ -9,7 +9,7 @@ export const temperExpertise = {
   baseName: "Temper Expertise",
   description: "More than doubles the chances to improve items with tempers.",
   icon: "/esoui/art/icons/ability_smith_004.dds",
-  esoSkillId: 48168,
+  esoAbilityId: 48168,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -19,5 +19,5 @@ export const temperExpertise = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1331,
   createdAt: "2026-05-26T02:37:19.411Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

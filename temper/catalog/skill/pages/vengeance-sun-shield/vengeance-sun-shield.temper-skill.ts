@@ -10,7 +10,7 @@ export const vengeanceSunShield = {
   description:
     "Summon the warmth of the sun to surround you and the 2 closest group members, granting a damage shield that absorbs up to |cffffff15341|r damage for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_templar_sun_shield.dds",
-  esoSkillId: 237890,
+  esoAbilityId: 237890,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceSunShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 1570,
   createdAt: "2026-05-28T16:03:34.423Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 13340 (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

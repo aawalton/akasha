@@ -10,7 +10,7 @@ export const vengeanceRapidManeuver = {
   description:
     "Mobilize your forces, granting Major Expedition to up to 3 of you and your group, increasing your Movement Speed by |cffffff30|r% for |cffffff8|r seconds.",
   icon: "/esoui/art/icons/ability_ava_002.dds",
-  esoSkillId: 244498,
+  esoAbilityId: 244498,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceRapidManeuver = {
   skillType: "temper-skill-type/active",
   hashPlace: 1530,
   createdAt: "2026-05-28T16:03:34.366Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Expedition (Constant)",
     "<<2>> = Gallop (Constant)",

@@ -10,7 +10,7 @@ export const chargingManeuver = {
   description:
     "Mobilize your forces, granting Major and Minor Expedition to you and your group, increasing your Movement Speed by 30% and 15% respectively, for 8 seconds.",
   icon: "/esoui/art/icons/ability_ava_002_b.dds",
-  esoSkillId: 46519,
+  esoAbilityId: 46519,
   isMorph: true,
   learnedLevel: 5,
   lineRankNeeded: 5,
@@ -20,6 +20,6 @@ export const chargingManeuver = {
   skillType: "temper-skill-type/active",
   hashPlace: 206,
   createdAt: "2026-05-26T03:25:55.735Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 30% (Constant)", "<<2>> = 15% (Constant)", "<<3>> = 8 seconds (Constant)"],
 } as const satisfies TemperSkill

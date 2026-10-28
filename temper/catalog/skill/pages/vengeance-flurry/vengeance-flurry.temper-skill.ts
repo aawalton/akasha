@@ -10,7 +10,7 @@ export const vengeanceFlurry = {
   description:
     "Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff3200|r Physical Damage.",
   icon: "/esoui/art/icons/ability_dualwield_002.dds",
-  esoSkillId: 240585,
+  esoAbilityId: 240585,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceFlurry = {
   skillType: "temper-skill-type/active",
   hashPlace: 1475,
   createdAt: "2026-05-28T16:03:34.287Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 3019 Physical Damage (Constant)"],
 } as const satisfies TemperSkill

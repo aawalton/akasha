@@ -10,7 +10,7 @@ export const vengeanceGraveGrasp = {
   description:
     "Summon three patches of skeletal claws from the ground in front of you to grab up to 3 enemies, immobilizing them for |cffffff3|r seconds and applying Minor Maim for |cffffff10|r seconds, reducing their damage done by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_necromancer_009.dds",
-  esoSkillId: 253156,
+  esoAbilityId: 253156,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceGraveGrasp = {
   skillType: "temper-skill-type/active",
   hashPlace: 1485,
   createdAt: "2026-05-28T16:03:34.301Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 6 (Constant)",
     "<<2>> = 3 seconds (Constant)",

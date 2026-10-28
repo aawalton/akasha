@@ -9,7 +9,7 @@ export const clairvoyance = {
   baseName: "Clairvoyance",
   description: "Reduces the cost of your Psijic Order abilities by 15%.",
   icon: "/esoui/art/icons/ability_psijic_008.dds",
-  esoSkillId: 103811,
+  esoAbilityId: 103811,
   isMorph: false,
   learnedLevel: 5,
   lineRankNeeded: 5,
@@ -21,6 +21,6 @@ export const clairvoyance = {
   effects: "jsonl",
   hashPlace: 215,
   createdAt: "2026-05-26T02:59:07.560Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

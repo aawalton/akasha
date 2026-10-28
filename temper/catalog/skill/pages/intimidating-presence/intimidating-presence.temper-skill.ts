@@ -10,7 +10,7 @@ export const intimidatingPresence = {
   description:
     "Allows you to Intimidate NPCs in conversation.\n\nReduces the Stamina cost of your Fighters Guild abilities by 15%.",
   icon: "/esoui/art/icons/ability_fightersguild_passive_intimidate.dds",
-  esoSkillId: 29062,
+  esoAbilityId: 29062,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,6 +22,6 @@ export const intimidatingPresence = {
   effects: "jsonl",
   hashPlace: 695,
   createdAt: "2026-05-26T02:59:07.599Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

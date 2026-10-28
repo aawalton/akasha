@@ -8,9 +8,9 @@ export const wildAdaptation = {
   key: "wild-adaptation",
   description:
     "The battlefield is your grove. Tend to it.\n\nGain 333 Weapon and Spell Damage for each status effect on your target, up to a maximum of 1665.",
-  esoSkillId: 263520,
+  esoAbilityId: 263520,
   class: "temper-class/warden",
   hashPlace: 31,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

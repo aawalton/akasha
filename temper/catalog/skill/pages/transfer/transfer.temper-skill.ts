@@ -10,7 +10,7 @@ export const transfer = {
   description:
     "Casting a Siphoning ability while in combat generates 2 Ultimate. This effect can occur once every 4 seconds.",
   icon: "/esoui/art/icons/passive_sorcerer_002.dds",
-  esoSkillId: 45145,
+  esoAbilityId: 45145,
   isMorph: false,
   learnedLevel: 50,
   lineRankNeeded: 50,
@@ -21,6 +21,6 @@ export const transfer = {
   status: "unsupported",
   hashPlace: 1360,
   createdAt: "2026-05-26T03:13:12.533Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 2 (Constant)", "<<2>> = 4 seconds (Constant)"],
 } as const satisfies TemperSkill

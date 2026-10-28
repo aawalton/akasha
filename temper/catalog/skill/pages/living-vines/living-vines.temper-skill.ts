@@ -10,7 +10,7 @@ export const livingVines = {
   description:
     "Grow vines to embrace you or the lowest health ally in front of you for |cffffff10|r seconds. The vines heal the target for |cffffff2191|r Health each time they take damage. This effect can occur once every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_warden_010.dds",
-  esoSkillId: 85552,
+  esoAbilityId: 85552,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const livingVines = {
   skillType: "temper-skill-type/active",
   hashPlace: 764,
   createdAt: "2026-05-28T16:03:33.014Z",
-  updatedAt: "2026-10-21T16:04:14.544Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 10 seconds (Constant)",
     "<<2>> = 0.029932 MaxStat + 0.315736 MaxPower (Ultimate, Heal, SingleTarget, Direct, rank IV)",

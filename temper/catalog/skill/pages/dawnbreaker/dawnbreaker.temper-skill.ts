@@ -10,7 +10,7 @@ export const dawnbreaker = {
   description:
     "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing |cffffff10668|r Physical Damage to enemies in front of you and an additional |cffffff11424|r Physical Damage over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_005.dds",
-  esoSkillId: 35713,
+  esoAbilityId: 35713,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 10,
@@ -20,7 +20,7 @@ export const dawnbreaker = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 319,
   createdAt: "2026-05-28T16:03:32.102Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.125 MaxStat + 1.3125 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, AOE, Direct, Melee, 0.4s cooldown, R2 = 1)",
     "<<2>> = 0.049949 MaxStat + 0.524967 MaxPower - 0.306011 (Ultimate, ratio = 10.51, Dmg, Physical, SingleTarget, DOT, 4s duration, 2s tick, R2 = 0.999999)",

@@ -10,7 +10,7 @@ export const vengeanceGrandHealing = {
   description:
     "Summon restoring spirits with your staff at the target location, healing up to 3 of you and your allies for |cffffff24096|r Health over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_004.dds",
-  esoSkillId: 241517,
+  esoAbilityId: 241517,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceGrandHealing = {
   skillType: "temper-skill-type/active",
   hashPlace: 1484,
   createdAt: "2026-05-28T16:03:34.300Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6 (Constant)", "<<2>> = 23622 (Constant)", "<<3>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

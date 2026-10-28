@@ -10,7 +10,7 @@ export const negateMagic = {
   description:
     "Create a globe of magic suppression for |cffffff12|r seconds, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.",
   icon: "/esoui/art/icons/ability_sorcerer_monsoon.dds",
-  esoSkillId: 27706,
+  esoAbilityId: 27706,
   isMorph: false,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,6 +20,6 @@ export const negateMagic = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 857,
   createdAt: "2026-05-28T16:03:33.181Z",
-  updatedAt: "2026-10-21T04:43:30.528Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 12 seconds (Constant)"],
 } as const satisfies TemperSkill

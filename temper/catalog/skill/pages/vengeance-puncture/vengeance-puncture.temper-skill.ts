@@ -10,7 +10,7 @@ export const vengeancePuncture = {
   description:
     "Thrust your weapon with disciplined precision at an enemy, dealing |cffffff5565|r Physical Damage.\n\nAlso inflicts Major Breach on the enemy, reducing their Physical and Spell Resistance by |cffffff5948|r for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_002.dds",
-  esoSkillId: 240547,
+  esoAbilityId: 240547,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeancePuncture = {
   skillType: "temper-skill-type/active",
   hashPlace: 1524,
   createdAt: "2026-05-28T16:03:34.357Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5250 Physical Damage (Constant)",
     "<<2>> = Major Breach (Constant)",

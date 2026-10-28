@@ -10,7 +10,7 @@ export const bindingJavelin26804 = {
   description:
     "Hurl your spear at an enemy with godlike strength, dealing |cffffff4845|r Physical Damage and stunning them for |cffffff4|r seconds.\n\nThis ability ignores the enemy's Resistances and cannot be blocked.",
   icon: "/esoui/art/icons/ability_templar_light_spear.dds",
-  esoSkillId: 26804,
+  esoAbilityId: 26804,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const bindingJavelin26804 = {
   skillType: "temper-skill-type/active",
   hashPlace: 93,
   createdAt: "2026-05-28T16:03:31.723Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.06198 MaxStat + 0.65079 MaxPower (Ultimate, ratio = 10.50, Dmg, Physical, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 2.5 seconds (Constant)",

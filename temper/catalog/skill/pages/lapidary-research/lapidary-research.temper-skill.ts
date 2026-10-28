@@ -9,7 +9,7 @@ export const lapidaryResearch = {
   baseName: "Lapidary Research",
   description: "Reduces research times by 25%, and limits research time to 30 days.",
   icon: "/esoui/art/icons/passive_lapidaryresearch.dds",
-  esoSkillId: 108098,
+  esoAbilityId: 108098,
   isMorph: false,
   learnedLevel: 45,
   lineRankNeeded: 45,
@@ -19,5 +19,5 @@ export const lapidaryResearch = {
   skillType: "temper-skill-type/passive",
   hashPlace: 726,
   createdAt: "2026-05-26T02:37:19.392Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

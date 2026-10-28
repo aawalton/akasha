@@ -10,7 +10,7 @@ export const vengeanceLightningForm = {
   description:
     "Manifest yourself as pure lightning, zapping up to 3 nearby enemies with electricity dealing |cffffff5880|r Shock Damage.\n\nYou also gain Major Resolve for |cffffff20|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_form.dds",
-  esoSkillId: 237954,
+  esoAbilityId: 237954,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceLightningForm = {
   skillType: "temper-skill-type/active",
   hashPlace: 1498,
   createdAt: "2026-05-28T16:03:34.320Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 12 (Constant)",
     "<<2>> = 5250 Shock Damage (Constant)",

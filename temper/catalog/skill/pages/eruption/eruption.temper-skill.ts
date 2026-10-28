@@ -10,7 +10,7 @@ export const eruption = {
   description:
     "Summon a scorching cloud of ash at the target location for 15 seconds, dealing 1799 Flame Damage immediately, reducing enemy Movement Speed by 70%, and dealing 319 Flame Damage in the area every 1 second.\n\nThe eruptive damage can occur once every 10 seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_016b.dds",
-  esoSkillId: 0,
+  esoAbilityId: 0,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,5 +20,5 @@ export const eruption = {
   skillType: "temper-skill-type/active",
   hashPlace: 451,
   createdAt: "2026-05-26T03:13:12.305Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

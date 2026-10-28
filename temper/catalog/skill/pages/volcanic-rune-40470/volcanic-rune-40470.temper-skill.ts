@@ -10,7 +10,7 @@ export const volcanicRune40470 = {
   description:
     "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff20|r seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for |cffffff8533|r Flame Damage, knocks them into the air, and stuns them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_001_a.dds",
-  esoSkillId: 40470,
+  esoAbilityId: 40470,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const volcanicRune40470 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1603,
   createdAt: "2026-05-28T16:03:34.477Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = 0.10323 MaxStat + 1.08494 MaxPower - 0.77399 (Ultimate, ratio = 10.51, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",

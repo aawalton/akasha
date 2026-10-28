@@ -8,9 +8,9 @@ export const fateRealigned = {
   key: "fate-realigned",
   description:
     "Be the hand that guides the weave of fate.\n\nUpgrades rank 2 of Implacable Outcome to generate maximum Crux, up to once every 15 seconds. After this effect triggers you gain 300 Weapon and Spell Damage for 25 seconds.",
-  esoSkillId: 263398,
+  esoAbilityId: 263398,
   class: "temper-class/arcanist",
   hashPlace: 1,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

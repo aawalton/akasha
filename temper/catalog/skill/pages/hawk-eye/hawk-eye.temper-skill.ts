@@ -10,7 +10,7 @@ export const hawkEye = {
   description:
     "Dealing damage with a Light or Heavy Attack increases the damage of your Bow abilities by 5% for 5 seconds, stacking up to 5 times.",
   icon: "/esoui/art/icons/passive_armor_002.dds",
-  esoSkillId: 45497,
+  esoAbilityId: 45497,
   isMorph: false,
   learnedLevel: 46,
   lineRankNeeded: 46,
@@ -22,6 +22,6 @@ export const hawkEye = {
   effects: "jsonl",
   hashPlace: 601,
   createdAt: "2026-05-26T02:38:38.327Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 5% (Constant)", "<<2>> = 5 seconds (Constant)"],
 } as const satisfies TemperSkill

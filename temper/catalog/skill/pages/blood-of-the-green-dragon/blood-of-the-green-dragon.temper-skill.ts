@@ -10,7 +10,7 @@ export const bloodOfTheGreenDragon = {
   description:
     "Draw on your draconic blood to heal for |cffffff5194|r Health, increasing by up to |cffffff50|r% additional healing based on your missing Health. Heals for an additional |cffffff3220|r Health over |cffffff5|r seconds. This ability scales off your Max Health.\n\nYou also gain Major Endurance and Fortitude and Minor Vitality, increasing Health and Stamina Recovery by |cffffff30|r% and increasing healing received and damage shield strength by |cffffff6|r% for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_011_b.dds",
-  esoSkillId: 32744,
+  esoAbilityId: 32744,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const bloodOfTheGreenDragon = {
   skillType: "temper-skill-type/active",
   hashPlace: 124,
   createdAt: "2026-05-28T16:03:31.794Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.25825 Health (Health, Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 50 (Constant)",

@@ -10,7 +10,7 @@ export const vengeanceDragonLeap = {
   description:
     "Launch yourself at an enemy, dealing |cffffff20285|r Physical Damage to up to 3 enemies in the area.",
   icon: "/esoui/art/icons/ability_dragonknight_009.dds",
-  esoSkillId: 237648,
+  esoAbilityId: 237648,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceDragonLeap = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1455,
   createdAt: "2026-05-28T16:03:34.258Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 18112 Physical Damage (Constant)", "<<2>> = 12 (Constant)"],
 } as const satisfies TemperSkill

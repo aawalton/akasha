@@ -10,7 +10,7 @@ export const daedricRefuge = {
   description:
     "Carefully form 5 protective Daedric wards around you, which take 3 seconds to arm and last for 15 seconds.\n\nWhen a Daedric ward is triggered it grants you or the ally a damage shield that absorbs 3591 damage for 6 seconds. Targets can only be shielded by Daedric Refuge once every 2 seconds and the shield is capped at 43% of the target's Max Health.",
   icon: "/esoui/art/icons/ability_sorcerer_daedric_minefield.dds",
-  esoSkillId: 29973,
+  esoAbilityId: 29973,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const daedricRefuge = {
   skillType: "temper-skill-type/active",
   hashPlace: 296,
   createdAt: "2026-05-26T03:13:12.244Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15 seconds (Constant)",
     "<<2>> = 0.299361 MaxStat - 0.0002265 MaxPower - 1.11882 (Ultimate, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",

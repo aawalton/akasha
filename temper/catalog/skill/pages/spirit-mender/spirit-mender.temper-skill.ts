@@ -10,7 +10,7 @@ export const spiritMender = {
   description:
     "Conjure a ghostly spirit to do your bidding and stay by your side for |cffffff16|r seconds. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring |cffffff2191|r Health.\n\nCreates a corpse on death if you are in combat.",
   icon: "/esoui/art/icons/ability_necromancer_015.dds",
-  esoSkillId: 115710,
+  esoAbilityId: 115710,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const spiritMender = {
   skillType: "temper-skill-type/active",
   hashPlace: 1259,
   createdAt: "2026-05-28T16:03:33.922Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 16 seconds (Constant)",
     "<<2>> = 0.03 MaxStat + 0.315 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",

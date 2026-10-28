@@ -10,7 +10,7 @@ export const mortalCoil118122 = {
   description:
     "Siphon the last remnants of life from a corpse, healing for |cffffff17514|r Health over |cffffff12|r seconds to yourself and all allies between you and the corpse.  \n\nYou also restore |cffffff170|r Magicka and Stamina every |cffffff2|r seconds while siphoning the corpse.\n\nWhile slotted, your healing done is increased by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_necromancer_017_b.dds",
-  esoSkillId: 118122,
+  esoAbilityId: 118122,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const mortalCoil118122 = {
   skillType: "temper-skill-type/active",
   hashPlace: 839,
   createdAt: "2026-05-28T16:03:33.149Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.013773 MaxStat + 0.14462 MaxPower (Ultimate, ratio = 10.50, Heal, AOE, DOT, 11.334s duration, 0.666s tick, R2 = 1)",
     "<<2>> = 12 seconds (Constant)",

@@ -10,7 +10,7 @@ export const puncture = {
   description:
     "Thrust your weapon with disciplined precision at an enemy, dealing |cffffff4036|r Physical Damage and taunting them to attack you for |cffffff15|r seconds.\n\nAlso inflicts Major Breach on the enemy, reducing their Physical and Spell Resistance by |cffffff5948|r for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_002.dds",
-  esoSkillId: 28306,
+  esoAbilityId: 28306,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const puncture = {
   skillType: "temper-skill-type/active",
   hashPlace: 942,
   createdAt: "2026-05-28T16:03:33.343Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05 MaxStat + 0.525 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 15 seconds (Constant)",

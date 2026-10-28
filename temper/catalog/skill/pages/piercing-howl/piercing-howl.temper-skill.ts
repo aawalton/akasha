@@ -10,7 +10,7 @@ export const piercingHowl = {
   description:
     "Bare your fangs and gnash your teeth into an enemy while ripping back, dealing |cffffff4084|r Physical Damage on the initial lunge and |cffffff4084|r Bleed Damage while ripping out. \n\nConsumes a stack of Blood Hunger to increase the initial damage done by |cffffff25|r%. \n\nThe second hit deals up to |cffffff125|r% more damage to enemies with less than |cffffff25|r% Health.",
   icon: "/esoui/art/icons/ability_werewolf_002_rend.dds",
-  esoSkillId: 58405,
+  esoAbilityId: 58405,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 6,
@@ -20,7 +20,7 @@ export const piercingHowl = {
   skillType: "temper-skill-type/active",
   hashPlace: 895,
   createdAt: "2026-05-28T16:03:33.253Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.065 MaxStat + 0.525 MaxPower (Ultimate, ratio = 8.08, RankMod(1), Dmg, Physical, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 0.0649709 MaxStat + 0.525609 MaxPower - 2.25509 (Ultimate, ratio = 8.09, Dmg, Bleed, SingleTarget, Direct, Melee, R2 = 0.999999)",

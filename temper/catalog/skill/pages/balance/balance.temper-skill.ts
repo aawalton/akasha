@@ -10,7 +10,7 @@ export const balance = {
   description:
     "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for 3000 Magicka.\n\nAfter the exchange is complete, you gain Major Resolve for 30 seconds, increasing your Physical and Spell Resistance by 5948.\n\nThe exchange reduces your healing done and damage shield strength by 50% for 4 seconds.",
   icon: "/esoui/art/icons/ability_mageguild_003_b.dds",
-  esoSkillId: 42278,
+  esoAbilityId: 42278,
   isMorph: true,
   learnedLevel: 8,
   lineRankNeeded: 8,
@@ -20,7 +20,7 @@ export const balance = {
   skillType: "temper-skill-type/active",
   hashPlace: 68,
   createdAt: "2026-05-26T02:59:07.541Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3000 (Constant)",
     "<<2>> = Major Resolve (Constant)",

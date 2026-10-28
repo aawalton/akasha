@@ -10,7 +10,7 @@ export const reapersMark = {
   description:
     "Expose an enemy's weaknesses to afflict them with Major Breach, reducing their Physical Resistance and Spell Resistance by 5948 for 20 seconds.\n\nWhen a marked enemy dies, you heal to full Health and gain Major Berserk, increasing your damage done by 10% for 10 seconds.\n\nYou can only have one Reaper's Mark active at a time.",
   icon: "/esoui/art/icons/ability_nightblade_014_a.dds",
-  esoSkillId: 37658,
+  esoAbilityId: 37658,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const reapersMark = {
   skillType: "temper-skill-type/active",
   hashPlace: 993,
   createdAt: "2026-05-26T03:13:12.446Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Breach (Constant)",
     "<<2>> = 5948 (Constant)",

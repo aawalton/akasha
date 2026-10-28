@@ -10,7 +10,7 @@ export const elderDragon29460 = {
   description:
     "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff20|r seconds, increasing Weapon and Spell Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff700|r, based on your missing Health.\nCurrent amount: |cffffff0|r",
   icon: "/esoui/art/icons/ability_dragonknight_025.dds",
-  esoSkillId: 29460,
+  esoAbilityId: 29460,
   isMorph: false,
   learnedLevel: 22,
   lineRankNeeded: 22,
@@ -21,7 +21,7 @@ export const elderDragon29460 = {
   effects: "jsonl",
   hashPlace: 398,
   createdAt: "2026-05-28T16:03:32.236Z",
-  updatedAt: "2026-10-20T17:27:15.270Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Minor Brutality (Constant)",
     "<<2>> = 20 seconds (Constant)",

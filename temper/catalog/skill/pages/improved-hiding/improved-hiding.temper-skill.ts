@@ -9,7 +9,7 @@ export const improvedHiding = {
   baseName: "Improved Hiding",
   description: "Reduces the cost of Sneak by 40%.",
   icon: "/esoui/art/icons/ability_legerdemain_improvedsneak.dds",
-  esoSkillId: 63802,
+  esoAbilityId: 63802,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,6 +21,6 @@ export const improvedHiding = {
   effects: "jsonl",
   hashPlace: 674,
   createdAt: "2026-05-26T03:25:55.782Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 40% (Constant)"],
 } as const satisfies TemperSkill

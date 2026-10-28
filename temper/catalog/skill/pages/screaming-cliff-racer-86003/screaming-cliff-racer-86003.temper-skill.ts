@@ -10,7 +10,7 @@ export const screamingCliffRacer86003 = {
   description:
     "Command a cliff racer to dive bomb an enemy, dealing |cffffff7509|r Magic Damage.\n\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for |cffffff7|r seconds.\n\nAfter dealing damage you increase your Weapon and Spell Damage by |cffffff100|r for |cffffff10|r seconds, which quadruples after damaging Off Balance enemies.",
   icon: "/esoui/art/icons/ability_warden_013_a.dds",
-  esoSkillId: 86003,
+  esoAbilityId: 86003,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const screamingCliffRacer86003 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1140,
   createdAt: "2026-05-28T16:03:33.702Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.09297 MaxStat + 0.976185 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 7 seconds (Constant)",

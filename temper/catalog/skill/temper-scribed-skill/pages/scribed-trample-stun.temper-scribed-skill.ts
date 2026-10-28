@@ -9,7 +9,7 @@ export const scribedTrampleStun = {
   baseName: "Trample",
   description: "Deals 1438 Physical Damage to all enemies and stuns them for 3 seconds.",
   icon: "/esoui/art/icons/ability_grimoire_assault.dds",
-  esoSkillId: 220545,
+  esoAbilityId: 220545,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const scribedTrampleStun = {
   grimoireId: "temper-grimoire/trample",
   hashPlace: 1702,
   createdAt: "2026-05-26T13:19:53.306Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

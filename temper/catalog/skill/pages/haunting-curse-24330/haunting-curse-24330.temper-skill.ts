@@ -10,7 +10,7 @@ export const hauntingCurse24330 = {
   description:
     "Curse an enemy with a destructive rune, dealing |cffffff11020|r Magic Damage to the target and all other nearby enemies after |cffffff3.5|r seconds.\n\nThe curse will continue to haunt the enemy and explode a second time, dealing |cffffff11020|r Magic Damage to the target and all other nearby enemies after an additional |cffffff8.5|r seconds.\n\nYou can have only one Haunting Curse active at a time.",
   icon: "/esoui/art/icons/ability_sorcerer_velocious_curse.dds",
-  esoSkillId: 24330,
+  esoAbilityId: 24330,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const hauntingCurse24330 = {
   skillType: "temper-skill-type/active",
   hashPlace: 600,
   createdAt: "2026-05-28T16:03:32.700Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.129135 MaxStat + 1.356 MaxPower - 1.37071 (Ultimate, ratio = 10.50, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 3.5 seconds (Constant)",

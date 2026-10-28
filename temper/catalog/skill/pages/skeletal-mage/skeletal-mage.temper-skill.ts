@@ -10,7 +10,7 @@ export const skeletalMage = {
   description:
     "Unearth a skeletal mage from the dirt to fight by your side for |cffffff20|r seconds, while granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%. The mage attacks the closest enemy every |cffffff2|r seconds, dealing |cffffff1613|r Shock Damage.\n\nCreates a corpse on death if you are in combat.",
   icon: "/esoui/art/icons/ability_necromancer_003.dds",
-  esoSkillId: 114317,
+  esoAbilityId: 114317,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const skeletalMage = {
   skillType: "temper-skill-type/active",
   hashPlace: 1202,
   createdAt: "2026-05-28T16:03:33.812Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = Major Brutality (Constant)",

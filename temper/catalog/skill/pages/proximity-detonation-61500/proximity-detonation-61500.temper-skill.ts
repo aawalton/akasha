@@ -10,7 +10,7 @@ export const proximityDetonation61500 = {
   description:
     "Activate a magical bomb on yourself that explodes after |cffffff8|r seconds, dealing |cffffff1652|r Magic Damage to all enemies in the area.\n\nEach enemy within the bomb's radius increases the damage by |cffffff100|r%, including the original target.",
   icon: "/esoui/art/icons/ability_ava_proximity_detonation.dds",
-  esoSkillId: 61500,
+  esoAbilityId: 61500,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 7,
@@ -20,7 +20,7 @@ export const proximityDetonation61500 = {
   skillType: "temper-skill-type/active",
   hashPlace: 936,
   createdAt: "2026-05-28T16:03:33.330Z",
-  updatedAt: "2026-10-21T03:53:31.433Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 8 seconds (Constant)",
     "<<2>> = 0.019979672 MaxStat + 0.20978655 MaxPower (Ultimate, RankMod(1), Dmg, Magic, AOE, Direct, Melee)",

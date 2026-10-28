@@ -9,7 +9,7 @@ export const refreshingShadows = {
   baseName: "Refreshing Shadows",
   description: "Increases your Health, Stamina, and Magicka Recovery by 15%.",
   icon: "/esoui/art/icons/ability_sorcerer_038.dds",
-  esoSkillId: 45103,
+  esoAbilityId: 45103,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -21,6 +21,6 @@ export const refreshingShadows = {
   effects: "jsonl",
   hashPlace: 1008,
   createdAt: "2026-05-26T03:13:12.453Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15% (Constant)"],
 } as const satisfies TemperSkill

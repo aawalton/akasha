@@ -9,6 +9,6 @@ export function classMasteriesOf(classPassives: unknown): readonly string[] {
       : []
   const abilities = new Set(held.map((one) => (isRecord(one) ? one["abilityId"] : null)))
   return skillCatalog()
-    .classMasteries.list.filter((mastery) => abilities.has(mastery.esoSkillId))
+    .classMasteries.list.filter((mastery) => abilities.has(mastery.esoAbilityId))
     .map((mastery) => mastery.id)
 }

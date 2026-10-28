@@ -10,7 +10,7 @@ export const keenEyeCloth = {
   description:
     "Fibrous plants in the world will be easier to see when you are 40 meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
-  esoSkillId: 47862,
+  esoAbilityId: 47862,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,6 +20,6 @@ export const keenEyeCloth = {
   skillType: "temper-skill-type/passive",
   hashPlace: 704,
   createdAt: "2026-05-26T02:37:19.385Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 40 meters (Constant)"],
 } as const satisfies TemperSkill

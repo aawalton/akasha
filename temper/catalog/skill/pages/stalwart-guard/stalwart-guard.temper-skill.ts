@@ -10,7 +10,7 @@ export const stalwartGuard = {
   description:
     "Create a lifebond between you and an allied player. While bonded, 30% of the damage they take is instead redistributed to you.\n\nYou and your bonded ally also gain Minor Force, increasing your Critical Damage by 10%.\n\nThe bond will remain until you recast the spell or move more than 15 meters away from your ally.",
   icon: "/esoui/art/icons/ability_ava_stalwart_guard.dds",
-  esoSkillId: 63351,
+  esoAbilityId: 63351,
   isMorph: true,
   learnedLevel: 5,
   lineRankNeeded: 5,
@@ -20,6 +20,6 @@ export const stalwartGuard = {
   skillType: "temper-skill-type/active",
   hashPlace: 1265,
   createdAt: "2026-05-26T03:25:55.825Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 10% (Constant)"],
 } as const satisfies TemperSkill

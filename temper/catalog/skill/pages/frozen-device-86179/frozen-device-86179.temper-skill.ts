@@ -10,7 +10,7 @@ export const frozenDevice86179 = {
   description:
     "Summon an ancient portal, which arms after |cffffff1.5|r seconds.\n\nWhen triggered the enemy is teleported to you if within range, immobilized for |cffffff3|r seconds, dealt |cffffff6257|r Frost Damage, and afflicted with Major Maim, reducing their damage done by |cffffff10|r% for |cffffff4|r seconds.\n\nYou can have up to |cffffff3|r Frozen Devices active at a time.",
   icon: "/esoui/art/icons/ability_warden_005_a.dds",
-  esoSkillId: 86179,
+  esoAbilityId: 86179,
   isMorph: true,
   learnedLevel: 42,
   lineRankNeeded: 42,
@@ -20,7 +20,7 @@ export const frozenDevice86179 = {
   skillType: "temper-skill-type/active",
   hashPlace: 547,
   createdAt: "2026-05-28T16:03:32.564Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15 seconds (Constant)",
     "<<2>> = 3 seconds (Constant)",

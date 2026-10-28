@@ -10,7 +10,7 @@ export const athletics = {
   description:
     "Increases the Movement Speed bonus of Sprint by 3% for each piece of Medium Armor equipped.\n\nCurrent bonus: 0%.\n\nReduces the cost of Roll Dodge by 4% for each piece of Medium Armor equipped.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_009.dds",
-  esoSkillId: 45574,
+  esoAbilityId: 45574,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 42,
@@ -22,7 +22,7 @@ export const athletics = {
   effects: "jsonl",
   hashPlace: 57,
   createdAt: "2026-05-26T02:59:07.539Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3 MediumArmor (Medium Armor, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 4 (Constant)",

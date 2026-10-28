@@ -10,7 +10,7 @@ export const pummelingGoliath118664 = {
   description:
     "Become a destructive Pummeling Goliath, increasing your Max Health by |cffffff30000|r for |cffffff20|r seconds and immediately restoring |cffffff30000|r Health. \n\nWhile transformed, your damaging Light Attacks restore |cffffff402|r Health and your fully-charged Heavy Attacks restore |cffffff1005|r Health. This ability scales off your Max Health. \n\nYour Bash attacks can hit multiple targets in front of you and deal |cffffff6746|r Physical Damage.",
   icon: "/esoui/art/icons/ability_necromancer_012_a.dds",
-  esoSkillId: 118664,
+  esoAbilityId: 118664,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const pummelingGoliath118664 = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 941,
   createdAt: "2026-05-28T16:03:33.341Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Pummeling Goliath (Constant)",
     "<<2>> = 30000 (Constant)",

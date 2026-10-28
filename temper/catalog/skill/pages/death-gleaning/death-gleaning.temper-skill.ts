@@ -10,7 +10,7 @@ export const deathGleaning = {
   description:
     "Whenever an enemy you are in combat with dies within 28 meters of you, restore 666 Magicka and Stamina.",
   icon: "/esoui/art/icons/passive_necromancer_005.dds",
-  esoSkillId: 116235,
+  esoAbilityId: 116235,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -22,6 +22,6 @@ export const deathGleaning = {
   effects: "jsonl",
   hashPlace: 329,
   createdAt: "2026-05-26T03:13:12.259Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 666 (Constant)"],
 } as const satisfies TemperSkill

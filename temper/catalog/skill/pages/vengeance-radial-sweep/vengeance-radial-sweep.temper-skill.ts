@@ -10,7 +10,7 @@ export const vengeanceRadialSweep = {
   description:
     "Swing your Aedric spear around with holy vengeance, dealing |cffffff17640|r Magic Damage to up to 3 nearby enemies.",
   icon: "/esoui/art/icons/ability_templar_radial_sweep.dds",
-  esoSkillId: 237811,
+  esoAbilityId: 237811,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceRadialSweep = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1527,
   createdAt: "2026-05-28T16:03:34.361Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 15750 Magic Damage (Constant)"],
 } as const satisfies TemperSkill

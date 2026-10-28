@@ -10,7 +10,7 @@ export const vengeanceFatewovenArmor = {
   description:
     "Forge defiant runic armor around you, granting Major Resolve for |cffffff20|r seconds, increasing your Armor by |cffffff5948|r and apply Minor Breach to up to 3 nearby enemies for |cffffff20|r seconds, reducing their Armor by |cffffff2974|r.",
   icon: "/esoui/art/icons/ability_arcanist_009.dds",
-  esoSkillId: 238256,
+  esoAbilityId: 238256,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const vengeanceFatewovenArmor = {
   skillType: "temper-skill-type/active",
   hashPlace: 1471,
   createdAt: "2026-05-28T16:03:34.281Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = 5948 (Constant)",

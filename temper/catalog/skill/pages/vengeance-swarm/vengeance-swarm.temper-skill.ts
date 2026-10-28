@@ -10,7 +10,7 @@ export const vengeanceSwarm = {
   description:
     "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing |cffffff17010|r Magic Damage over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_warden_014.dds",
-  esoSkillId: 238016,
+  esoAbilityId: 238016,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceSwarm = {
   skillType: "temper-skill-type/active",
   hashPlace: 1573,
   createdAt: "2026-05-28T16:03:34.427Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 17010 Magic Damage (Constant)", "<<2>> = 6 seconds (Constant)"],
 } as const satisfies TemperSkill

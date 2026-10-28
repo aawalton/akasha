@@ -10,7 +10,7 @@ export const unstoppableBrute39205 = {
   description:
     "Intensify your physical presence to gain Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\n\nWhile this effect persists, each piece of Heavy Armor worn decreases the cost of Break Free by |cffffff5|r%.\n\nAlso grants you immunity to knockback and disabling effects for |cffffff6|r seconds, but reduces your Movement Speed by |cffffff65|r% for the duration.",
   icon: "/esoui/art/icons/ability_armor_001_a.dds",
-  esoSkillId: 39205,
+  esoAbilityId: 39205,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 22,
@@ -20,7 +20,7 @@ export const unstoppableBrute39205 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1398,
   createdAt: "2026-05-28T16:03:34.174Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5948 (Constant)",
     "<<2>> = 20 seconds (Constant)",

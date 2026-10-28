@@ -10,7 +10,7 @@ export const cripplingGrasp = {
   description:
     "Sap an enemy's agility and wrack them with pain, dealing 1199 Magic Damage and an additional 4350 Magic Damage over 20 seconds, immobilizing them for 2 seconds, and reducing their Movement Speed by 30% for 4 seconds.",
   icon: "/esoui/art/icons/ability_nightblade_006_b.dds",
-  esoSkillId: 37913,
+  esoAbilityId: 37913,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const cripplingGrasp = {
   skillType: "temper-skill-type/active",
   hashPlace: 260,
   createdAt: "2026-05-26T03:13:12.229Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0533085 MaxStat + 0.56047 MaxPower - 1.35721 (Ultimate, ratio = 10.51, Dmg, Magic, SingleTarget, Direct, R2 = 0.999999)",
     "<<2>> = 0.0193549 MaxStat + 0.203761 MaxPower - 1.01347 (Ultimate, ratio = 10.53, Dmg, Magic, SingleTarget, DOT, 18s duration, 2s tick, R2 = 0.999997)",

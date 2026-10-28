@@ -10,7 +10,7 @@ export const dragonBlood = {
   description:
     "Draw on your draconic blood to heal for |cffffff5193|r Health, increasing by up to |cffffff50|r% additional healing based on your missing Health. This ability scales off your Max Health.\n\nYou also gain Major Fortitude, increasing your Health Recovery by |cffffff30|r% for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_011.dds",
-  esoSkillId: 29004,
+  esoAbilityId: 29004,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const dragonBlood = {
   skillType: "temper-skill-type/active",
   hashPlace: 378,
   createdAt: "2026-05-28T16:03:32.195Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.25 Health (Health, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 50 (Constant)",

@@ -10,7 +10,7 @@ export const repentance = {
   description:
     "Consecrate the souls of the fallen, healing you and your allies for 3000 Health and restoring 3000 Stamina to you for each corpse nearby.\n\nWhile slotted on either bar, you gain Minor Fortitude, Minor Endurance, and Minor Intellect, increasing your Health, Stamina, and Magicka Recovery by 15%.",
   icon: "/esoui/art/icons/ability_templar_persistant_sigil.dds",
-  esoSkillId: 27043,
+  esoAbilityId: 27043,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -21,7 +21,7 @@ export const repentance = {
   effects: "jsonl",
   hashPlace: 1029,
   createdAt: "2026-05-26T03:13:12.460Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 3000 (Constant)",
     "<<2>> = 3000 (Constant)",

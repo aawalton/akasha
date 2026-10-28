@@ -10,7 +10,7 @@ export const scribedTorchbearerHealing = {
   description:
     "Heals you and your allies for 2004 Health with each sweep. Beneficial Signature and Affix scripts apply to you and your allies.",
   icon: "/esoui/art/icons/ability_grimoire_fightersguild.dds",
-  esoSkillId: 217607,
+  esoAbilityId: 217607,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedTorchbearerHealing = {
   grimoireId: "temper-grimoire/torchbearer",
   hashPlace: 1692,
   createdAt: "2026-05-26T13:19:53.297Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

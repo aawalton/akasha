@@ -3,19 +3,19 @@ import { temperClassMastery } from "akasha/temper/catalog/skill/temper-class-mas
 import type { TemperClassMastery } from "akasha/temper/catalog/skill/temper-class-mastery/temper-class-mastery.page-type.types.ts"
 
 type Places = {
-  readonly byAbility: { [esoSkillId: number]: number | undefined }
+  readonly byAbility: { [esoAbilityId: number]: number | undefined }
   readonly count: number
 }
 
 let held: Places | undefined
 
 function placesOf(this: void): Places {
-  const byAbility: { [esoSkillId: number]: number | undefined } = {}
+  const byAbility: { [esoAbilityId: number]: number | undefined } = {}
   let count = 0
-  for (const one of $pagesOfType<Pick<TemperClassMastery, "esoSkillId" | "hashPlace">>(
+  for (const one of $pagesOfType<Pick<TemperClassMastery, "esoAbilityId" | "hashPlace">>(
     temperClassMastery
   )) {
-    byAbility[one.esoSkillId] = one.hashPlace
+    byAbility[one.esoAbilityId] = one.hashPlace
     count += 1
   }
   return { byAbility, count }

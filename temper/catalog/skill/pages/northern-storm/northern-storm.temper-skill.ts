@@ -10,7 +10,7 @@ export const northernStorm = {
   description:
     "Twist a violent storm around you, dealing 1199 Frost Damage every 1 second for 8 seconds to enemies around you and reducing their Movement Speed by 40%. As the storm holds, your damage done increases by 2% every 1 second for 12 seconds, up to 9 stacks max.\n\nYou and nearby allies gain Major Protection, reducing your damage taken by 10%.",
   icon: "/esoui/art/icons/ability_warden_006_a.dds",
-  esoSkillId: 86116,
+  esoAbilityId: 86116,
   isMorph: true,
   learnedLevel: 12,
   lineRankNeeded: 12,
@@ -20,7 +20,7 @@ export const northernStorm = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 859,
   createdAt: "2026-05-26T03:13:12.412Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05335445 MaxStat + 0.560221725 MaxPower (Ultimate, ratio = 10.50, RankMod(1.033), Dmg, Frost, AOE, DOT, 1s tick, R2 = 1)",
     "<<2>> = 1 second (Constant)",

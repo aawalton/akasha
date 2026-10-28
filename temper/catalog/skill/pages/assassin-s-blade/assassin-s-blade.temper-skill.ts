@@ -10,7 +10,7 @@ export const assassinSBlade = {
   description:
     "Thrust a magic blade with lethal precision to stab an enemy, dealing |cffffff4036|r Magic Damage. Deals |cffffff300|r% more damage to enemies below |cffffff25|r% Health.",
   icon: "/esoui/art/icons/ability_nightblade_017.dds",
-  esoSkillId: 33386,
+  esoAbilityId: 33386,
   isMorph: false,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -20,7 +20,7 @@ export const assassinSBlade = {
   skillType: "temper-skill-type/active",
   hashPlace: 56,
   createdAt: "2026-05-28T16:03:31.661Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.05 MaxStat + 0.525 MaxPower (Ultimate, ratio = 10.50, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, R2 = 1)",
     "<<2>> = 300 (Constant)",

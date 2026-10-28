@@ -10,7 +10,7 @@ export const unraveling = {
   description:
     "Maximizes the chances of extracting Clothing ingredients and allows the refining of the most powerful tannins from raw materials.",
   icon: "/esoui/art/icons/ability_tradecraft_005.dds",
-  esoSkillId: 48195,
+  esoAbilityId: 48195,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,5 +20,5 @@ export const unraveling = {
   skillType: "temper-skill-type/passive",
   hashPlace: 1391,
   createdAt: "2026-05-26T02:37:19.412Z",
-  updatedAt: "2026-09-27T06:25:43.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const winterSRevenge = {
   description:
     "Conjure icy shards at the target location to skewer enemies in the area, dealing |cffffff1025|r Frost Damage every |cffffff1|r second for |cffffff12|r seconds. This damage increases by |cffffff30|r% if cast with a Destruction Staff equipped.\n\nEnemies hit are overcome with bitter cold, reducing their Movement Speed by |cffffff30|r% for |cffffff3|r seconds.\n\nThis ability has a higher chance to apply the Chilled status effect.",
   icon: "/esoui/art/icons/ability_warden_004_b.dds",
-  esoSkillId: 86169,
+  esoAbilityId: 86169,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const winterSRevenge = {
   skillType: "temper-skill-type/active",
   hashPlace: 1623,
   createdAt: "2026-05-28T16:03:34.518Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0126162 MaxStat + 0.133624 MaxPower + 0.0662451 (Ultimate, ratio = 10.59, Dmg, Frost, AOE, DOT, 1s tick, R2 = 0.999991)",
     "<<2>> = 1 second (Constant)",

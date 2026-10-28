@@ -10,7 +10,7 @@ export const bloodOfTheElderDragon = {
   description:
     "Draw on your draconic blood to heal yourself for |cffffff9434|r and nearby allies for |cffffff6288|r Health, increasing by up to |cffffff50|r% additional healing based on missing Health. \n\nHealed targets gain Major Fortitude and Minor Courage, increasing Health Recovery by |cffffff30|r% and Weapon and Spell Damage by |cffffff215|r for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_011_a.dds",
-  esoSkillId: 32722,
+  esoAbilityId: 32722,
   isMorph: true,
   learnedLevel: 20,
   lineRankNeeded: 20,
@@ -21,7 +21,7 @@ export const bloodOfTheElderDragon = {
   effects: "jsonl",
   hashPlace: 123,
   createdAt: "2026-05-28T16:03:31.793Z",
-  updatedAt: "2026-10-21T07:12:28.248Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.1334 MaxStat + 1.4003 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, Direct)",
     "<<2>> = 0.0885 MaxStat + 0.9364 MaxPower (Ultimate, RankMod(1), Heal, AOE, Direct)",

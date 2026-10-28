@@ -9,7 +9,7 @@ export const keenEyeOre = {
   baseName: "Keen Eye: Ore",
   description: "Ore in the world will be easier to see when you are 40 meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
-  esoSkillId: 47856,
+  esoAbilityId: 47856,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -19,6 +19,6 @@ export const keenEyeOre = {
   skillType: "temper-skill-type/passive",
   hashPlace: 710,
   createdAt: "2026-05-26T02:37:19.387Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 40 meters (Constant)"],
 } as const satisfies TemperSkill

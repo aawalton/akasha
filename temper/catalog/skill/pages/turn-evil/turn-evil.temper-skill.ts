@@ -10,7 +10,7 @@ export const turnEvil = {
   description:
     "Brand the earth at your location with a rune of protection for 20 seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing your damage taken by 5% and increasing your Stamina Recovery by 15%.\n\nUpon activation, enemies in the area are feared for 4 seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_001_a.dds",
-  esoSkillId: 42529,
+  esoAbilityId: 42529,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const turnEvil = {
   skillType: "temper-skill-type/active",
   hashPlace: 1369,
   createdAt: "2026-05-26T02:59:07.687Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 20 seconds (Constant)",
     "<<2>> = Minor Protection (Constant)",

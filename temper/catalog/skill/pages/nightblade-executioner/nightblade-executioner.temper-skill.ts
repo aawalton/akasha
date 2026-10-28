@@ -10,7 +10,7 @@ export const nightbladeExecutioner = {
   description:
     "Your Light and Heavy Attacks against enemies under 25% Health deal 50% more damage. Heavy Attacks that deal a killing blow generate 16 Ultimate.",
   icon: "/esoui/art/icons/passive_nightblade_006.dds",
-  esoSkillId: 45048,
+  esoAbilityId: 45048,
   isMorph: false,
   learnedLevel: 14,
   lineRankNeeded: 14,
@@ -20,6 +20,6 @@ export const nightbladeExecutioner = {
   skillType: "temper-skill-type/passive",
   hashPlace: 858,
   createdAt: "2026-05-26T03:13:12.411Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 1000 (Constant)"],
 } as const satisfies TemperSkill

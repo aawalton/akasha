@@ -8,9 +8,9 @@ export const wildfireEmbers = {
   key: "wildfire-embers",
   description:
     "Fire forged within can never be extinguished. Fan the flames.\n\nWhen your Dragonknight damage over time effects end, you apply a stack of Wildfire Embers to the target, dealing 3577 Flame Damage over 12 seconds. This effect stacks up to 12 times and increases in damage 25% per stack.",
-  esoSkillId: 259224,
+  esoAbilityId: 259224,
   class: "temper-class/dragonknight",
   hashPlace: 7,
   createdAt: "2026-10-21T13:29:49.800Z",
-  updatedAt: "2026-10-21T13:29:49.800Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperClassMastery

@@ -10,7 +10,7 @@ export const hircineSBounty = {
   description:
     "Invoke the Huntsman's blessing, healing you for |cffffff6528|r Health, scaling off your Max Health. You also restore |cffffff10|r% Stamina, increasing by up to |cffffff100|r% based on how high your current Health is. \nCurrent Restore: |cffffff4882|r\n\nWhile slotted you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%.",
   icon: "/esoui/art/icons/ability_werewolf_004_a.dds",
-  esoSkillId: 58310,
+  esoAbilityId: 58310,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const hircineSBounty = {
   skillType: "temper-skill-type/active",
   hashPlace: 635,
   createdAt: "2026-05-28T16:03:32.763Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3 Health (Health, RankMod(1), Heal, SingleTarget, Direct, R2 = 1)",
     "<<2>> = 10% (Constant)",

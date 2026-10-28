@@ -10,7 +10,7 @@ export const balancedWarrior = {
   description:
     "Increases your Armor for each Templar ability slotted.\n\nIncreases your Weapon and Spell Damage based on your total Armor and number of Templar abilities slotted.",
   icon: "/esoui/art/icons/ability_templar_032.dds",
-  esoSkillId: 44732,
+  esoAbilityId: 44732,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 39,
@@ -22,7 +22,7 @@ export const balancedWarrior = {
   effects: "jsonl",
   hashPlace: 71,
   createdAt: "2026-05-26T03:13:12.177Z",
-  updatedAt: "2026-10-20T15:34:50.678Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 2% (Constant)",
     "<<2>> = 0.0079731 MaxResist - 0.172379 (Max Resistance, SingleTarget, Direct, R2 = 0.999949)",

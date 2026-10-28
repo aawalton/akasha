@@ -10,7 +10,7 @@ export const vengeanceBarrier = {
   description:
     "Invoke defensive tactics to protect yourself and up to 2 nearby group members with wards that each absorb up to |cffffff60375|r damage for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_ava_006.dds",
-  esoSkillId: 244725,
+  esoAbilityId: 244725,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceBarrier = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1416,
   createdAt: "2026-05-28T16:03:34.201Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 52500 (Constant)", "<<2>> = 15 seconds (Constant)"],
 } as const satisfies TemperSkill

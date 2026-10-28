@@ -10,7 +10,7 @@ export const scribedTravelingKnifePull = {
   description:
     "Deals 928 Physical Damage to an enemy and pulls them and enemies between you and them to you on return.",
   icon: "/esoui/art/icons/ability_grimoire_dualwield.dds",
-  esoSkillId: 232112,
+  esoAbilityId: 232112,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -22,5 +22,5 @@ export const scribedTravelingKnifePull = {
   grimoireId: "temper-grimoire/traveling-knife",
   hashPlace: 1710,
   createdAt: "2026-05-26T13:19:53.314Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

@@ -9,7 +9,7 @@ export const scribedMendersBondHealing = {
   baseName: "Mender's Bond",
   description: "Heals the ally and other allies in the link for 375 Health every 1 second.",
   icon: "/esoui/art/icons/ability_grimoire_staffresto.dds",
-  esoSkillId: 217318,
+  esoAbilityId: 217318,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -21,5 +21,5 @@ export const scribedMendersBondHealing = {
   grimoireId: "temper-grimoire/menders-bond",
   hashPlace: 1655,
   createdAt: "2026-05-26T13:19:53.263Z",
-  updatedAt: "2026-09-26T15:49:20.000Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
 } as const satisfies TemperScribedSkill

@@ -10,7 +10,7 @@ export const shatteringSpines = {
   description:
     "Call forth Daedric shards from the earth to encase and immobilize all enemies in front of you for 4 seconds. After the effect ends the shards shatter, dealing 1979 Magic Damage to any enemy that was encased.\n\nEnemies hit are afflicted with Major Maim, reducing their damage done by 10% for 10 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_twister.dds",
-  esoSkillId: 30095,
+  esoAbilityId: 30095,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const shatteringSpines = {
   skillType: "temper-skill-type/active",
   hashPlace: 1162,
   createdAt: "2026-05-26T03:13:12.492Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 4 seconds (Constant)",
     "<<2>> = 0.0881345 MaxStat + 0.924222 MaxPower - 2.74021 (Ultimate, ratio = 10.49, Dmg, Magic, AOE, Direct, Melee, R2 = 1)",

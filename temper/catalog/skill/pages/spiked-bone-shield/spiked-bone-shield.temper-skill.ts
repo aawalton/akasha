@@ -10,7 +10,7 @@ export const spikedBoneShield = {
   description:
     "Surround yourself with a whirlwind of bones, gaining a damage shield that absorbs up to 4958 damage for 6 seconds and returns 100% of direct damage absorbed back to the enemy. This ability scales off your Max Health.\n\nAn ally near you can activate the Bone Wall synergy, granting the ally and up to 5 other allies a damage shield equal to 30% of their Max Health for 6 seconds.",
   icon: "/esoui/art/icons/ability_undaunted_005b.dds",
-  esoSkillId: 43323,
+  esoAbilityId: 43323,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const spikedBoneShield = {
   skillType: "temper-skill-type/active",
   hashPlace: 1255,
   createdAt: "2026-05-26T02:59:07.673Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.3099 Health (Health, DmgShield, SingleTarget, Direct, 6s duration, R2 = 1)",
     "<<2>> = 6 seconds (Constant)",

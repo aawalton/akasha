@@ -10,7 +10,7 @@ export const fireKeeper = {
   description:
     "Throw out a purifying flame, filling a large area with warmth for |cffffff15|r seconds. This fire heals you and your allies at the target location for |cffffff1414|r Health every |cffffff1|r second. This healing increases by |cffffff50|r% if you are in the area.\n\nHealed targets gain Minor Fortitude and Minor Heroism for |cffffff15|r seconds, increasing Health Recovery by |cffffff15|r% and generating |cffffff1|r Ultimate every |cffffff1.5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_016a.dds",
-  esoSkillId: 20779,
+  esoAbilityId: 20779,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const fireKeeper = {
   skillType: "temper-skill-type/active",
   hashPlace: 512,
   createdAt: "2026-05-28T16:03:32.478Z",
-  updatedAt: "2026-10-21T09:16:37.779Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 15 seconds (Constant)",
     "<<2>> = 0.01936875 MaxStat + 0.2033357 MaxPower (Ultimate, Heal, AOE, Direct, 1s tick, rank IV)",

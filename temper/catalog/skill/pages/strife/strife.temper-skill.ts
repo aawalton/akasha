@@ -10,7 +10,7 @@ export const strife = {
   description:
     "Steal an enemy's life force, dealing |cffffff5384|r Magic Damage and healing you or a nearby ally for |cffffff51|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_012.dds",
-  esoSkillId: 33291,
+  esoAbilityId: 33291,
   isMorph: false,
   learnedLevel: 1,
   lineRankNeeded: 1,
@@ -20,7 +20,7 @@ export const strife = {
   skillType: "temper-skill-type/active",
   hashPlace: 1277,
   createdAt: "2026-05-28T16:03:33.956Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0903776 MaxStat + 0.945428 MaxPower - 22.9602 (Ultimate, ratio = 10.46, RankMod(1), Dmg, Magic, SingleTarget, Direct, Melee, 0.5s duration, R2 = 0.991181)",
     "<<2>> = 33 (Constant)",

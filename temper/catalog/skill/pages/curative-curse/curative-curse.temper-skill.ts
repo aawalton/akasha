@@ -9,7 +9,7 @@ export const curativeCurse = {
   baseName: "Curative Curse",
   description: "While you have a negative effect on you, your healing done is increased by 12%.",
   icon: "/esoui/art/icons/passive_necromancer_009.dds",
-  esoSkillId: 116287,
+  esoAbilityId: 116287,
   isMorph: false,
   learnedLevel: 18,
   lineRankNeeded: 18,
@@ -21,6 +21,6 @@ export const curativeCurse = {
   effects: "jsonl",
   hashPlace: 281,
   createdAt: "2026-05-26T03:13:12.237Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 12% (Constant)"],
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const remoteTotem118380 = {
   description:
     "Summon an effigy of bone for |cffffff11|r seconds that grants Minor Protection to you and your allies, reducing damage taken by |cffffff5|r%. Enemies in the area are afflicted with Major Cowardice, reducing their Weapon and Spell Damage by |cffffff430|r.\n\nAfter |cffffff2|r seconds, the totem begins fearing nearby enemies every |cffffff2|r seconds, causing them to cower in place for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_010_a.dds",
-  esoSkillId: 118380,
+  esoAbilityId: 118380,
   isMorph: true,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const remoteTotem118380 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1019,
   createdAt: "2026-05-28T16:03:33.488Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 11 seconds (Constant)",
     "<<2>> = 5% (Constant)",

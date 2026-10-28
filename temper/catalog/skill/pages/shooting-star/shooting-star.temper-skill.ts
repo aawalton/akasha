@@ -10,7 +10,7 @@ export const shootingStar = {
   description:
     "Call a comet down from the constellations to blast an enemy, dealing 4067 Flame Damage to all enemies in the area, knocking them down, and stunning them for 2 seconds.\n\nAfter impact, enemies in the target area take 1161 Flame Damage every 1 second for 11 seconds.\n\nYou generate 10 Ultimate for each enemy hit by the initial blast, up to 6 times.",
   icon: "/esoui/art/icons/ability_mageguild_005_a.dds",
-  esoSkillId: 42492,
+  esoAbilityId: 42492,
   isMorph: true,
   learnedLevel: 10,
   lineRankNeeded: 10,
@@ -20,7 +20,7 @@ export const shootingStar = {
   skillType: "temper-skill-type/ultimate",
   hashPlace: 1175,
   createdAt: "2026-05-26T02:59:07.660Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.180775 MaxStat + 1.89814 MaxPower (Ultimate, ratio = 10.50, Dmg, Flame, AOE, Direct, Melee, R2 = 1)",
     "<<2>> = 2 seconds (Constant)",

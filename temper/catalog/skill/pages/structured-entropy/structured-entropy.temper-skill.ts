@@ -10,7 +10,7 @@ export const structuredEntropy = {
   description:
     "Bind an enemy with chaotic magic, dealing 4642 Magic Damage over 20 seconds, and healing you for 435 every 2 seconds.",
   icon: "/esoui/art/icons/ability_mageguild_004_b.dds",
-  esoSkillId: 42240,
+  esoAbilityId: 42240,
   isMorph: true,
   learnedLevel: 4,
   lineRankNeeded: 4,
@@ -20,7 +20,7 @@ export const structuredEntropy = {
   skillType: "temper-skill-type/active",
   hashPlace: 1279,
   createdAt: "2026-05-26T02:59:07.676Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 0.0187221 MaxStat + 0.197106 MaxPower + 0.0870345 (Ultimate, ratio = 10.53, Dmg, Magic, SingleTarget, DOT, 20s duration, 2s tick, R2 = 0.999998)",
     "<<2>> = 20 seconds (Constant)",

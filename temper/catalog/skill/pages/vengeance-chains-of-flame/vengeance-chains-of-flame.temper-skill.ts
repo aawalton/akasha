@@ -10,7 +10,7 @@ export const vengeanceChainsOfFlame = {
   description:
     "Launch a fiery chain to grasp and pull an enemy to you, dealing |cffffff6678|r Flame Damage.\n\nThis attack cannot be dodged or reflected.",
   icon: "/esoui/art/icons/ability_dragonknight_005.dds",
-  esoSkillId: 237620,
+  esoAbilityId: 237620,
   isMorph: false,
   learnedLevel: 0,
   lineRankNeeded: 1,
@@ -20,6 +20,6 @@ export const vengeanceChainsOfFlame = {
   skillType: "temper-skill-type/active",
   hashPlace: 1432,
   createdAt: "2026-05-28T16:03:34.224Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: ["<<1>> = 6300 Flame Damage (Constant)"],
 } as const satisfies TemperSkill

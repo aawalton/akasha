@@ -10,7 +10,7 @@ export const radiantMagelight40483 = {
   description:
     "Summon a mote of magelight, revealing stealthed and invisible enemies around you for |cffffff5|r seconds. Exposed enemies cannot return to stealth or invisibility for |cffffff4|r seconds.\n\nWhile slotted you gain Major Savagery and Prophecy, increasing your Weapon and Spell Critical rating by |cffffff2629|r. You also prevent the stun from stealth attacks for you and nearby allies.",
   icon: "/esoui/art/icons/ability_mageguild_002_a.dds",
-  esoSkillId: 40483,
+  esoAbilityId: 40483,
   isMorph: true,
   learnedLevel: 1,
   lineRankNeeded: 2,
@@ -20,7 +20,7 @@ export const radiantMagelight40483 = {
   skillType: "temper-skill-type/active",
   hashPlace: 963,
   createdAt: "2026-05-28T16:03:33.382Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = 5 seconds (Constant)",
     "<<2>> = 4 seconds (Constant)",

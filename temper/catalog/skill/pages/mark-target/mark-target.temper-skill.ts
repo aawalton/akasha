@@ -10,7 +10,7 @@ export const markTarget = {
   description:
     "Expose an enemy's weaknesses by applying Major Breach to them, reducing Physical Resistance and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\n\nWhen a marked enemy dies, you heal to full Health.\n\nYou can only have one Mark Target active at a time.",
   icon: "/esoui/art/icons/ability_nightblade_014.dds",
-  esoSkillId: 33357,
+  esoAbilityId: 33357,
   isMorph: false,
   learnedLevel: 30,
   lineRankNeeded: 30,
@@ -20,7 +20,7 @@ export const markTarget = {
   skillType: "temper-skill-type/active",
   hashPlace: 801,
   createdAt: "2026-05-28T16:03:33.077Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T21:33:14.554Z",
   equations: [
     "<<1>> = Major Breach (Constant)",
     "<<2>> = 5948 (Constant)",
