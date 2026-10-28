@@ -4,6 +4,7 @@ import {
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -95,7 +96,8 @@ export function buildButton(
   )
   STYLED.set(button, true)
   button.SetText(text)
-  const width = (button.GetLabelControl()?.GetTextWidth() ?? 0) + BUTTON_PADDING_X * 2
+  const shown = button.GetLabelControl()?.GetStringWidth(text) ?? 0
+  const width = shown / GetUIGlobalScale() + BUTTON_PADDING_X * 2
   button.SetDimensions(width, CONTROL_HEIGHT)
   return button
 }

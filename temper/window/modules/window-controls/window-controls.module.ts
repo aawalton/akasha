@@ -18,6 +18,11 @@ export const windowControls = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A button Temper builds is as wide as its whole text, whatever the template's width.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A clickable button with text the window made bare takes the game's default button at its own size.",
     },
     {
@@ -65,5 +70,5 @@ export const windowControls = {
     },
   ],
   createdAt: "2026-09-25T16:33:01.934Z",
-  updatedAt: "2026-10-18T19:19:06.914Z",
+  updatedAt: "2026-10-28T20:21:53.076Z",
 } as const satisfies Module
