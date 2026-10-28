@@ -4533,6 +4533,18 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/your-lie-in-april-s01e20.episode.ts","id":"01a183d6-7158-7dab-bd2b-4589a4f9558c"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/your-lie-in-april-s01e21.episode.ts","id":"01a183d6-7158-7fad-9f57-e0a53fca5d58"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/your-lie-in-april-s01e22.episode.ts","id":"01a183d6-7158-7b47-b1c6-e89c8fe32460"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e01.episode.ts","id":"01a183d6-7e4c-76eb-932a-e853eb3ffe0e"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e02.episode.ts","id":"01a183d6-7e4c-7d2e-ac07-09cdcbec7fac"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e03.episode.ts","id":"01a183d6-7e4c-7ec8-ab90-4fc04d511572"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e04.episode.ts","id":"01a183d6-7e4c-7647-8b16-2748256d622e"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e05.episode.ts","id":"01a183d6-7e4c-75b3-8027-b6423bcc3323"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e06.episode.ts","id":"01a183d6-7e4c-73d6-aeac-8a15e86acca2"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e07.episode.ts","id":"01a183d6-7e4c-7d94-a4d6-d326a81d990c"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e08.episode.ts","id":"01a183d6-7e4c-7a40-bbf0-70a587e356f9"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e09.episode.ts","id":"01a183d6-7e4c-7ec4-a389-6f7961aec376"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e10.episode.ts","id":"01a183d6-7e4c-7c63-a900-849be99b9b0e"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e11.episode.ts","id":"01a183d6-7e4c-72dd-b8b2-33f5efc05d2f"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/yuri-on-ice-s01e12.episode.ts","id":"01a183d6-7e4c-79e0-8e6c-31ecb14f3e7e"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/fandom-collection/pages/anime-top-100.fandom-collection.ts","id":"01a183ce-678b-7e94-b5ed-514b89c0dff6"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/fandom/pages/a-silent-voice.fandom.ts","id":"01a183ce-678b-766b-8061-b6d8a9757a70"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/fandom/pages/angel-beats.fandom.ts","id":"01a183ce-678b-70ad-8d5c-25146221684d"}
@@ -7007,6 +7019,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/young-sherlock-season-1.season.ts","id":"01a1447e-0758-7f4e-af26-a6d228cc44fc"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/young-sherlock-season-2.season.ts","id":"01a1447e-0758-7d47-a145-be282ac2c930"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/your-lie-in-april-season-1.season.ts","id":"01a183d6-7158-76c2-8042-227083661378"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/yuri-on-ice-season-1.season.ts","id":"01a183d6-7e4d-736b-b785-f39ee9cb385a"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show-collection/pages/anime-shows.show-collection.ts","id":"01a06808-6a77-7000-af3c-d6655341f91f"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show-collection/pages/award-winning-movies.show-collection.ts","id":"01a06808-6a77-7001-9952-6ee2f1f82888"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show-collection/pages/award-winning-shows.show-collection.ts","id":"01a06808-6a77-7002-9fc9-632d54829793"}
@@ -7247,6 +7260,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/young-sheldon.show.ts","id":"01a06802-9333-7011-b346-db5cd5909917"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/young-sherlock.show.ts","id":"01a13bc8-759d-72e3-b601-ebfe7512c083"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/your-lie-in-april.show.ts","id":"01a183d6-7158-79f2-8ad3-f8c9c20ed4ec"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/yuri-on-ice.show.ts","id":"01a183d6-7e4d-780f-838c-72225cb78a2d"}
 {"propertySlug":"collection-unit","path":"alan/music/catalog/artist-collection/pages/artists.artist-collection.ts","id":"01a06808-78fa-7000-8e30-9da42659901b"}
 {"propertySlug":"collection-unit","path":"alan/music/catalog/artist/pages/adele/adele.artist.ts","id":"01a06803-676a-7000-abb8-8dc73e08c3fa"}
 {"propertySlug":"collection-unit","path":"alan/music/catalog/artist/pages/alex-warren/alex-warren.artist.ts","id":"01a06803-676a-7001-a64d-3043430e68d6"}
