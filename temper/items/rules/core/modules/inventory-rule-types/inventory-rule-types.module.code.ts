@@ -34,6 +34,7 @@ export type MoveToDestination =
   | "furniture-vault"
   | "house-storage"
   | `house-storage:${string}`
+  | `house:${string}`
   | `character:${string}`
   | `character-worn:${string}`
   | `companion-worn:${string}`

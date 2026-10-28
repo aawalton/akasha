@@ -9,6 +9,7 @@ export type VenueType =
   | "guild-store"
   | "guild-bank"
   | "house-storage"
+  | "house"
   | "companion-menu"
   | "mailbox"
 

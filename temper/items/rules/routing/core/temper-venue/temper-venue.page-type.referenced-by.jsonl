@@ -27,6 +27,7 @@
 {"propertySlug":"import","fileName":"temper-venue.page-type.types.ts","path":"temper/items/rules/routing/core/temper-venue/pages/guild-bank.temper-venue.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-venue.page-type.types.ts","path":"temper/items/rules/routing/core/temper-venue/pages/guild-store.temper-venue.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-venue.page-type.types.ts","path":"temper/items/rules/routing/core/temper-venue/pages/house-storage.temper-venue.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-venue.page-type.types.ts","path":"temper/items/rules/routing/core/temper-venue/pages/house.temper-venue.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-venue.page-type.types.ts","path":"temper/items/rules/routing/core/temper-venue/pages/mailbox.temper-venue.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-venue.page-type.types.ts","path":"temper/items/rules/routing/core/temper-venue/pages/vendor.temper-venue.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/routing/core/temper-items-rules-routing-core.domain.ts","id":"01a06151-370b-7fa6-ad43-f200b0ae0fb9"}

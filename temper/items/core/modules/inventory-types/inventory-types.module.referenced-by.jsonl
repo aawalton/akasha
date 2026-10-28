@@ -35,6 +35,7 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-value/inventory-value.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/core/modules/house-destination/house-destination.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/core/test-fixtures/inventory-rule-test-utils/inventory-rule-test-utils.test-fixture.code.ts","typed":true,"deferred":false}

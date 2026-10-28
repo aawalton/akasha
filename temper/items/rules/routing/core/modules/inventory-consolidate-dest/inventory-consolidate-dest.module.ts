@@ -25,7 +25,11 @@ export const inventoryConsolidateDest = {
       decisionKind: "decision-kind/departure",
       statement: "Erin Solstice heads the priority list, so Erin carries every such move.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A house a furnishing is placed in gathers furnishings, so Erin carries it there.",
+    },
   ],
   createdAt: "2026-09-02T08:51:47.591Z",
-  updatedAt: "2026-10-28T19:19:22.781Z",
+  updatedAt: "2026-10-28T19:42:44.161Z",
 } as const satisfies Module

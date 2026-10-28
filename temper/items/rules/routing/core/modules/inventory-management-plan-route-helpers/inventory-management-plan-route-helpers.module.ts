@@ -20,7 +20,16 @@ export const inventoryManagementPlanRouteHelpers = {
       decisionKind: "decision-kind/departure",
       statement: "The furniture vault is named by its venue page's title.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A house is named by the name its scanned location carries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A house holds no storage slots, so a stop placing furnishings has no storage key.",
+    },
   ],
   createdAt: "2026-09-02T08:51:47.593Z",
-  updatedAt: "2026-09-27T09:43:20.000Z",
+  updatedAt: "2026-10-28T19:42:44.161Z",
 } as const satisfies Module

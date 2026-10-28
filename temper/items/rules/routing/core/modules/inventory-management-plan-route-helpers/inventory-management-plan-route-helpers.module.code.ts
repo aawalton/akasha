@@ -9,6 +9,10 @@ import {
   titleOf,
 } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { getLocationDisplayName } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import {
+  houseLocationKeyFor,
+  houseTarget,
+} from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 import { houseBankKeyFor } from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
 import type {
   ItemAction,
@@ -112,6 +116,13 @@ export function resolveStorageDetail(
     if (key !== undefined && location !== undefined) {
       return getLocationDisplayName(key, location.displayName)
     }
+  }
+
+  const collectibleId = venue === "house" ? houseTarget(destination) : undefined
+  if (collectibleId !== undefined) {
+    const key = houseLocationKeyFor(collectibleId, inventory.locations)
+    const location = key === undefined ? undefined : inventory.locations[key]
+    return location?.displayName ?? destination
   }
 
   if (venue === "guild-bank" && destination.startsWith("guild-bank:")) {

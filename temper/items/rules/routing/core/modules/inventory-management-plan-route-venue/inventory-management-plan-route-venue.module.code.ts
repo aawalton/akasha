@@ -13,12 +13,14 @@ import type {
   VenueType,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import { deposit } from "akasha/temper/items/rules/routing/core/temper-plan-phrase/pages/deposit.temper-plan-phrase.ts"
+import { place } from "akasha/temper/items/rules/routing/core/temper-plan-phrase/pages/place.temper-plan-phrase.ts"
 import { temperPlanPhrase } from "akasha/temper/items/rules/routing/core/temper-plan-phrase/temper-plan-phrase.page-type.ts"
 import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
 
 export const VENUE_ORDER: VenueType[] = [
   "bank",
   "house-storage",
+  "house",
   "guild-bank",
   "crafting-station",
   "vendor",
@@ -97,6 +99,7 @@ export function getActionVenue(
         destination.startsWith("house-storage:")
       )
         return "house-storage"
+      if (destination.startsWith("house:")) return "house"
       if (destination === "guild-bank" || destination.startsWith("guild-bank:")) return "guild-bank"
       return null
     }
@@ -112,9 +115,14 @@ export function getActionVenue(
 
 const STORAGE_VENUES: ReadonlySet<VenueType> = new Set(["bank", "house-storage", "guild-bank"])
 
-export const DETAILED_VENUES: ReadonlySet<VenueType> = new Set(["house-storage", "guild-bank"])
+export const DETAILED_VENUES: ReadonlySet<VenueType> = new Set([
+  "house-storage",
+  "house",
+  "guild-bank",
+])
 
 function getDepositNote(action: ItemAction, venue: VenueType): string | undefined {
+  if (venue === "house") return planPhraseOf(place)
   if ((action === "move-to" || action === "stock") && STORAGE_VENUES.has(venue)) {
     return planPhraseOf(deposit)
   }

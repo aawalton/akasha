@@ -28,6 +28,7 @@ const CLOSED_DESTINATIONS: readonly MoveToDestination[] = [
 
 const NAMED_DESTINATIONS = [
   "house-storage:",
+  "house:",
   "character:",
   "character-worn:",
   "companion-worn:",

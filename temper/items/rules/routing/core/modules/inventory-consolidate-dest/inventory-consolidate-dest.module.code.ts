@@ -5,7 +5,8 @@ export function isConsolidateDest(destination: string | undefined): boolean {
     destination === "guild-bank" ||
     destination.startsWith("guild-bank:") ||
     destination === "house-storage" ||
-    destination.startsWith("house-storage:")
+    destination.startsWith("house-storage:") ||
+    destination.startsWith("house:")
   )
 }
 
