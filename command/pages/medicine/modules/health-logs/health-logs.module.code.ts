@@ -48,9 +48,9 @@ const MS_PER_DAY = 86_400_000
 
 const IDEATION_BELOW = 0
 
-export type DayActivity = { readonly activeEnergy: number; readonly steps: number }
+type DayActivity = { readonly activeEnergy: number; readonly steps: number }
 
-export type DayHours = {
+type DayHours = {
   readonly sleptMinutes: number
   readonly loggedMinutes: number
   readonly belowThreeMinutes: number
