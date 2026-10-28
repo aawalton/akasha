@@ -34,6 +34,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-reviewer-outcome-cards-check-flex-1/iris-reviewer-outcome-cards-check-flex-1.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-reviewer-outcome-cards-check-flex-2/iris-reviewer-outcome-cards-check-flex-2.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-reviewer-outcome-cards-check-flex-3/iris-reviewer-outcome-cards-check-flex-3.seat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-reviewer-outcome-cards-check-flex-4/iris-reviewer-outcome-cards-check-flex-4.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-reviewer-test-story-flex-1/iris-reviewer-test-story-flex-1.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-reviewer-test-story-flex-2/iris-reviewer-test-story-flex-2.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-reviewer-test-story-flex-3/iris-reviewer-test-story-flex-3.seat.ts","typed":true,"deferred":false}
