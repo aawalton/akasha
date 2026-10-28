@@ -15,9 +15,11 @@ export const dragonBallSuperBroly = {
       source: "tmdb",
       externalId: "503314",
       externalLink: "https://www.themoviedb.org/movie/503314",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Dragon Ball Super: Broly",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:54:01.045Z",
-  updatedAt: "2026-10-28T18:54:01.045Z",
+  updatedAt: "2026-10-28T19:46:53.289Z",
 } as const satisfies Movie
