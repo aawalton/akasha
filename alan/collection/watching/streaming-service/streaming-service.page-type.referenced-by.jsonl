@@ -59,3 +59,4 @@
 {"propertySlug":"import","fileName":"streaming-service.page-type.types.ts","path":"alan/collection/watching/streaming-service/pages/youtube-premium.streaming-service.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"streaming-service.page-type.types.ts","path":"alan/collection/watching/streaming-service/pages/youtube-tv.streaming-service.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/collection/watching/watching.domain.ts","id":"01a06599-ee09-7000-a394-4351ebf86462"}
+{"propertySlug":"target-page-type","path":"alan/collection/watching/properties/streaming-on.multi-relation-property.ts","id":"01a17481-a216-7c3e-a937-ab6a8dde5b35"}

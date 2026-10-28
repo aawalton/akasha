@@ -20,7 +20,7 @@ export const show = {
     { pageProperty: "select-property/production-status", required: false, many: false },
     { pageProperty: "number-property/vote-average", required: false, many: false },
     {
-      pageProperty: "text-property/streaming-on",
+      pageProperty: "multi-relation-property/streaming-on",
       required: false,
       many: true,
       maxCount: null,
@@ -43,5 +43,5 @@ export const show = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-10-25T19:20:15.125Z",
+  updatedAt: "2026-10-28T20:39:27.066Z",
 } as const satisfies PageType

@@ -1,18 +1,17 @@
-import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const streamingOn = {
   id: "01a17481-a216-7c3e-a937-ab6a8dde5b35",
-  type: "page-type/text-property",
+  type: "page-type/multi-relation-property",
   slug: "streaming-on",
   propertySlug: "streaming-on",
   definition: "a service a collection streams on in the United States",
-  maxLength: 100,
-  nameFormat: null,
+  targetPageType: "page-type/streaming-service",
   sourceCredit: "Streaming data from JustWatch",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A service is written as TMDB writes that service.",
+      statement: "A service is the streaming service page the name TMDB writes reaches.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -45,5 +44,5 @@ export const streamingOn = {
   ],
   types: "ts",
   createdAt: "2026-10-25T19:20:15.125Z",
-  updatedAt: "2026-10-25T20:56:38.401Z",
-} as const satisfies TextProperty
+  updatedAt: "2026-10-28T20:39:27.066Z",
+} as const satisfies MultiRelationProperty
