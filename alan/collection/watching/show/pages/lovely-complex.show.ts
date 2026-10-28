@@ -11,9 +11,15 @@ export const lovelyComplex = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "27167", externalLink: "https://www.themoviedb.org/tv/27167" },
+    {
+      source: "tmdb",
+      externalId: "27167",
+      externalLink: "https://www.themoviedb.org/tv/27167",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Lovely★Complex",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:51:16.977Z",
-  updatedAt: "2026-10-28T18:51:16.977Z",
+  updatedAt: "2026-10-28T19:44:55.444Z",
 } as const satisfies Show
