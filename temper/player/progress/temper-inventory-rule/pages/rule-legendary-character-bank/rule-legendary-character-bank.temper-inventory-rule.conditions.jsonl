@@ -1,0 +1,5 @@
+{"id":"01a18472-8a74-7fe5-af6b-d4ed53a1b503","conditionField":"temper-condition-field/max-quality","conditionValue":"5"}
+{"id":"01a18472-8a74-710e-93c5-952a73c7f183","conditionField":"temper-condition-field/quality-op","conditionValue":"temper-comparison-op/at-least"}
+{"id":"01a18472-8a74-7729-b934-a71c89be94b4","conditionField":"temper-condition-field/location","conditionValue":"[\"backpack\"]"}
+{"id":"01a18472-8a74-790b-b9f1-f01ac33afe0a","conditionField":"temper-condition-field/is-target-equip","conditionValue":"not-target-equip"}
+{"id":"01a18472-8a74-7a7c-ace7-2b6d6fca8f4c","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
