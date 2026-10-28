@@ -7,6 +7,7 @@ export const theApothecaryDiaries = {
   title: "The Apothecary Diaries",
   ownLength: 0,
   ownProgress: 0,
+  partOfCollections: ["fandom/the-apothecary-diaries"],
   unit: "unit/minutes",
   status: "in-progress",
   publishedAt: "2023-10-22",
@@ -19,5 +20,5 @@ export const theApothecaryDiaries = {
     { source: "tmdb", externalId: "220542", externalLink: "https://www.themoviedb.org/tv/220542" },
   ],
   createdAt: "2026-10-14T18:59:02.711Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-28T18:38:32.091Z",
 } as const satisfies Show
