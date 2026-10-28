@@ -14,7 +14,7 @@ const PASSING = z.object({
 type Light = "night" | "dawn" | "day" | "dusk"
 
 export type Clock = {
-  readonly opensAt: string
+  readonly dayOne: string
   readonly lights: readonly { readonly until: number; readonly light: Light }[]
 }
 
@@ -30,9 +30,9 @@ function lightAt(clock: Clock, minuteOfDay: number): Light {
 export function timePassingSettled(clock: Clock, reading: unknown): Settled {
   const held = PASSING.safeParse(reading)
   if (!held.success) return { refused: `time passing reads so: ${z.prettifyError(held.error)}` }
-  const opens = Date.parse(clock.opensAt)
+  const opens = Date.parse(clock.dayOne)
   const start = Date.parse(held.data.from)
-  if (start < opens) return { refused: "no turn ends before the story opens" }
+  if (start < opens) return { refused: "no turn starts before its world's day one" }
   const ends = start + held.data.minutes * MINUTE
   const day = Math.floor((ends - opens) / DAY) + 1
   const minuteOfDay = Math.floor(((ends - opens) % DAY) / MINUTE)

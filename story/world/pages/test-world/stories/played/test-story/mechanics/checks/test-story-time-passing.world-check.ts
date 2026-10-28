@@ -16,7 +16,11 @@ export const testStoryTimePassing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "October 27, 2026 is day one, and the story opens at eight in the morning.",
+      statement: "October 27, 2026 is day one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A first turn starts at its story's opensAt, so no opening time is named here.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -24,5 +28,5 @@ export const testStoryTimePassing = {
     },
   ],
   createdAt: "2026-10-27T19:51:55.341Z",
-  updatedAt: "2026-10-27T19:51:55.341Z",
+  updatedAt: "2026-10-28T01:41:55.365Z",
 } as const satisfies WorldCheck

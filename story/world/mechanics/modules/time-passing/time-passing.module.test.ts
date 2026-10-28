@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { timePassingSettled } from "akasha/story/world/mechanics/modules/time-passing/time-passing.module.code.ts"
 
 const CLOCK = {
-  opensAt: "2030-06-01T00:00:00.000Z",
+  dayOne: "2030-06-01T00:00:00.000Z",
   lights: [
     { until: 6 * 60, light: "night" },
     { until: 7 * 60, light: "dawn" },
@@ -36,7 +36,7 @@ test("time never runs backward", () => {
   ).toHaveProperty("refused")
 })
 
-test("no turn ends before the story opens", () => {
+test("no turn starts before its world's day one", () => {
   expect(
     timePassingSettled(CLOCK, { from: "2030-05-31T10:00:00.000Z", minutes: 1 })
   ).toHaveProperty("refused")

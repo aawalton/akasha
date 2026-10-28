@@ -5,7 +5,7 @@ import {
 } from "akasha/story/world/mechanics/modules/time-passing/time-passing.module.code.ts"
 
 const HORNDALE_YEAR: Clock = {
-  opensAt: "2026-10-27T00:00:00.000Z",
+  dayOne: "2026-10-27T00:00:00.000Z",
   lights: [
     { until: 6 * 60, light: "night" },
     { until: 6 * 60 + 30, light: "dawn" },

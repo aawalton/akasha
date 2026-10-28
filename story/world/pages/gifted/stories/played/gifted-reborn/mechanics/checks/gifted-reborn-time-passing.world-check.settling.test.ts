@@ -38,7 +38,7 @@ test("time never runs backward", () => {
   expect(settled({ from: "2026-10-27T21:00:00.000Z", minutes: -5 })).toHaveProperty("refused")
 })
 
-test("no turn ends before the story opens", () => {
+test("no turn starts before day one", () => {
   expect(settled({ from: "2026-10-26T20:00:00.000Z", minutes: 5 })).toHaveProperty("refused")
 })
 

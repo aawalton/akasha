@@ -14,11 +14,11 @@ export const timePassing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The day a story opens on is day one.",
+      statement: "Each check names its world's day one and the light at each hour of its day.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "Each story names its own opening and the light at each hour of its day.",
+      decisionKind: "decision-kind/absence",
+      statement: "No check names a story's opening; a first turn starts at its story's opensAt.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,5 +35,5 @@ export const timePassing = {
     },
   ],
   createdAt: "2026-09-28T21:17:55.679Z",
-  updatedAt: "2026-10-27T19:38:29.106Z",
+  updatedAt: "2026-10-28T01:41:55.365Z",
 } as const satisfies Module
