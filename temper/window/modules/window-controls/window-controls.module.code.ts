@@ -95,6 +95,11 @@ export function buildButton(
     TEMPLATES[variant]
   )
   STYLED.set(button, true)
+  setButtonText(button, text)
+  return button
+}
+
+export function setButtonText(button: ButtonControl, text: string): ButtonControl {
   button.SetText(text)
   const shown = button.GetLabelControl()?.GetStringWidth(text) ?? 0
   const width = shown / GetUIGlobalScale() + BUTTON_PADDING_X * 2

@@ -22,6 +22,10 @@ export const windowControls = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A button whose text changes is sized to the new text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A clickable button with text the window made bare takes the game's default button at its own size.",
     },
@@ -70,5 +74,5 @@ export const windowControls = {
     },
   ],
   createdAt: "2026-09-25T16:33:01.934Z",
-  updatedAt: "2026-10-28T20:21:53.076Z",
+  updatedAt: "2026-10-28T20:44:32.275Z",
 } as const satisfies Module
