@@ -121,7 +121,11 @@ export const giftedRebornNala = {
       fact: "After she kicked twice, words opened in her mind, and she reads them without eyes, plain as print.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Her window showed the Achievement: Defeat a Lesser Demon Prince while unborn.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:13:04.929Z",
+  updatedAt: "2026-10-28T00:13:45.457Z",
 } as const satisfies Lore
