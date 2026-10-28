@@ -3049,6 +3049,18 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-s05e13.episode.ts","id":"01a183d7-7ce7-7227-8a9a-2923083eb921"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-s05e14.episode.ts","id":"01a183d7-7ce7-7f62-9780-43d7a4f8ba4b"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-s05e15.episode.ts","id":"01a183d7-7ce7-7a2d-a8ee-0c4c86d3e747"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e01.episode.ts","id":"01a183d7-8c16-70e8-9aed-044b9849cb7f"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e02.episode.ts","id":"01a183d7-8c16-7125-978c-92d67f4d1622"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e03.episode.ts","id":"01a183d7-8c16-77f3-a2ce-d4d8177dd42c"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e04.episode.ts","id":"01a183d7-8c16-7e35-8859-a3e62080c3ad"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e05.episode.ts","id":"01a183d7-8c16-7d4c-96cf-8d8e89b99c1e"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e06.episode.ts","id":"01a183d7-8c16-797d-a1a8-1f73114c3079"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e07.episode.ts","id":"01a183d7-8c16-7d82-8c8c-48e7d0d6d0d8"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e08.episode.ts","id":"01a183d7-8c16-77e2-835e-09b217c71260"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e09.episode.ts","id":"01a183d7-8c16-77fe-ba6a-2d56a2b3eca5"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e10.episode.ts","id":"01a183d7-8c16-7352-aec3-f36cd8ae4cee"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e11.episode.ts","id":"01a183d7-8c16-77e1-934b-f915122faeca"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hetalia-world-stars-s01e12.episode.ts","id":"01a183d7-8c16-708c-b4a4-240cdc72860f"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hunter-x-hunter-s01e01.episode.ts","id":"01a183d3-3a5e-7d02-aefa-6e667e3c2b0f"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hunter-x-hunter-s01e02.episode.ts","id":"01a183d3-3a5e-7c4d-b275-39badb939c9e"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/hunter-x-hunter-s01e03.episode.ts","id":"01a183d3-3a5e-797d-b63f-6943d6809515"}
@@ -7130,6 +7142,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/hetalia-season-3.season.ts","id":"01a183d7-7ce7-7fd8-9c4f-30259947dc03"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/hetalia-season-4.season.ts","id":"01a183d7-7ce7-71b5-a38f-9041673bab51"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/hetalia-season-5.season.ts","id":"01a183d7-7ce8-7cc3-b075-7df7964311b9"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/hetalia-world-stars-season-1.season.ts","id":"01a183d7-8c16-75b7-b2cd-74945542e382"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/high-potential-season-1.season.ts","id":"01a06802-b8ba-7025-b088-2d8acf31fbfb"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/high-potential-season-2.season.ts","id":"01a06802-b8ba-7026-b1d0-491bfb61f98c"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/house-of-the-dragon-season-1.season.ts","id":"01a06802-b8ba-7027-9243-5fefc45fc9c3"}
@@ -7808,6 +7821,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/hans-christian-andersen-my-life-as-a-fairytale.show.ts","id":"01a1749a-c86d-79b1-9b4d-5d7b9bb9420c"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/hawkeye.show.ts","id":"01a06802-9331-702d-b007-506640a3957c"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/helstrom.show.ts","id":"01a06802-9331-702e-b4b4-921d71c00856"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/hetalia-world-stars.show.ts","id":"01a183d7-8c16-7364-963c-8d7d08a034a1"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/hetalia.show.ts","id":"01a183d7-7ce8-79bf-a835-2323fdbe096e"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/high-potential.show.ts","id":"01a06802-9331-702f-919b-f1dfcb4702d7"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/holidazed.show.ts","id":"01a1749a-d17f-7404-8fa1-4aac1f65a413"}
