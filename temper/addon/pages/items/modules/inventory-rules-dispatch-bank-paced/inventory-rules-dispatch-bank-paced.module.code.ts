@@ -13,6 +13,11 @@ import {
   expectedRemainderAfterMove,
   type PacedBankStep,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.code.ts"
+import {
+  noteServerAction,
+  serverActionRoom,
+  serverActionWaitMs,
+} from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
@@ -23,10 +28,6 @@ import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const PACED_BANK_NS = `${ADDON_NAME}_PacedBank`
-const STACK_MOVE_LIMIT = 100
-const STACK_MOVE_WINDOW_MS = 10000
-const STACK_MOVE_WINDOW_MARGIN_MS = 500
-const STACK_MOVE_HELD_MS = STACK_MOVE_WINDOW_MS + STACK_MOVE_WINDOW_MARGIN_MS
 const PACED_BANK_CONFIRM_MS = 1500
 const MAX_PACED_BANK_ATTEMPTS = 4
 
@@ -35,13 +36,6 @@ let pacedBankRunning = false
 export function isPacedBankRunning(): boolean {
   return pacedBankRunning
 }
-
-interface StackMoveSend {
-  atMs: number
-  count: number
-}
-
-let sends: StackMoveSend[] = []
 
 interface IssuedMove {
   sourceBag: number
@@ -172,23 +166,8 @@ export function startPacedBankChain(
     )
   }
 
-  function roomInWindow(): number {
-    const now = GetGameTimeMilliseconds()
-    const kept: StackMoveSend[] = []
-    let sent = 0
-    for (const send of sends) {
-      if (now - send.atMs >= STACK_MOVE_HELD_MS) continue
-      kept[kept.length] = send
-      sent += send.count
-    }
-    sends = kept
-    return STACK_MOVE_LIMIT - sent
-  }
-
   function waitForWindow(): undefined {
-    const oldest = sends[0]
-    const rest =
-      oldest === undefined ? 1 : STACK_MOVE_HELD_MS - (GetGameTimeMilliseconds() - oldest.atMs)
+    const rest = serverActionWaitMs(inFlight.length > 0 ? inFlight.length : 1)
     wakeLater(rest, function (this: void): undefined {
       issueBatch()
     })
@@ -196,7 +175,7 @@ export function startPacedBankChain(
 
   function issueBatch(): undefined {
     if (!pacedBankRunning) return
-    const room = roomInWindow()
+    let room = serverActionRoom()
     if (room <= 0 || inFlight.length > room) {
       waitForWindow()
       return
@@ -209,6 +188,7 @@ export function startPacedBankChain(
       if (step === undefined) continue
       if (step.kind === "effect") {
         step.run()
+        room = serverActionRoom()
         continue
       }
       const [srcStack] = GetSlotStackSize(step.sourceBag, step.sourceSlot)
@@ -227,12 +207,12 @@ export function startPacedBankChain(
       })
     }
     if (batch.length === 0) {
-      cleanup(false)
+      if (index < queue.length) waitForWindow()
+      else cleanup(false)
       return
     }
     inFlight = batch
     const issuedAt = GetGameTimeMilliseconds()
-    sends[sends.length] = { atMs: issuedAt, count: batch.length }
     if (firstIssueMs === undefined) firstIssueMs = issuedAt
     confirmedSinceIssue = 0
     for (const move of batch) {
@@ -240,6 +220,7 @@ export function startPacedBankChain(
       const [stackNow] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
       move.stackAtIssue = stackNow
       stats.issued++
+      noteServerAction()
       bankMoveItem(move.sourceBag, move.sourceSlot, move.targetBag, move.targetSlot, move.count)
     }
     recordPacedDispatch(stats)

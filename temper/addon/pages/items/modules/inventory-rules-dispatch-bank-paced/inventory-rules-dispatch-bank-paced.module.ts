@@ -11,8 +11,15 @@ export const inventoryRulesDispatchBankPaced = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The game allows a hundred stack moves in any ten seconds, and that is the budget.",
+      statement: "The chain spends the shared server action window's budget.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each move is counted in that window as the move is issued.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A batch is as large as the room that window has left.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -146,5 +153,5 @@ export const inventoryRulesDispatchBankPaced = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-09-21T17:37:10.000Z",
+  updatedAt: "2026-10-28T20:59:24.681Z",
 } as const satisfies Module
