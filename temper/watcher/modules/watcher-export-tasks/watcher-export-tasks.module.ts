@@ -89,7 +89,15 @@ export const watcherExportTasks = {
       decisionKind: "decision-kind/departure",
       statement: "A task not filler says nothing of being filler.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The config file carries each character's target build, keyed by the game's id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No character with a target build leaves the targets block out.",
+    },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-10-24T19:46:11.040Z",
+  updatedAt: "2026-10-28T19:47:43.438Z",
 } as const satisfies Module

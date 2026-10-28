@@ -17,6 +17,7 @@ import { parseCompletionOverrideRow } from "akasha/temper/player/completion/temp
 
 import type { CharactersConfigFileInputs } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
 import { serializeCharactersConfigFile } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
+import { compileCharacterTargets } from "akasha/temper/watcher/modules/watcher-export-character-targets/watcher-export-character-targets.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import { compileCharacterPriority } from "akasha/temper/watcher/modules/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
 import {
@@ -74,6 +75,8 @@ export type PagePatchById = typeof patchPageById
 
 type CharacterPriorityCompile = typeof compileCharacterPriority
 
+type CharacterTargetsCompile = (accountPage: string) => Promise<Readonly<Record<string, unknown>>>
+
 type SideFileWrite = typeof writeSideFileIfChanged
 
 type ExportReport = (message: string) => void
@@ -88,6 +91,7 @@ export interface ExportTasksOptions {
   readonly getRows?: PageGet
   readonly patchRow?: PagePatchById
   readonly compilePriority?: CharacterPriorityCompile
+  readonly compileTargets?: CharacterTargetsCompile
   readonly writeSideFile?: SideFileWrite
   readonly report?: ExportReport
 }
@@ -200,6 +204,14 @@ function writeCharactersConfig(
   return writeSideFile(path, serializeCharactersConfigFile(inputs))
 }
 
+async function targetsBlock(
+  accountPage: string,
+  compileTargets: CharacterTargetsCompile
+): Promise<Pick<CharactersConfigFileInputs, "characterTargets">> {
+  const characterTargets = await compileTargets(accountPage)
+  return Object.keys(characterTargets).length === 0 ? {} : { characterTargets }
+}
+
 export async function runExportTasks(
   content: string,
   supabase: SignedInReader,
@@ -209,6 +221,7 @@ export async function runExportTasks(
   const getRows = options.getRows ?? getPages
   const patchRow = options.patchRow ?? patchPageById
   const compilePriority = options.compilePriority ?? compileCharacterPriority
+  const compileTargets = options.compileTargets ?? ((page) => compileCharacterTargets(page))
   const writeSideFile = options.writeSideFile ?? writeSideFileIfChanged
   const report = options.report ?? log
   const sideFilePath = options.charactersConfigPath ?? null
@@ -240,7 +253,12 @@ export async function runExportTasks(
       modified: false,
       charactersConfigSideFileHash: writeCharactersConfig(
         sideFilePath,
-        { characterPriority, tasks: {}, completionOverrides },
+        {
+          characterPriority,
+          tasks: {},
+          completionOverrides,
+          ...(await targetsBlock(accountPage, compileTargets)),
+        },
         writeSideFile
       ),
     }
@@ -302,7 +320,12 @@ export async function runExportTasks(
     )
     charactersConfigSideFileHash = writeCharactersConfig(
       sideFilePath,
-      { characterPriority, tasks: tasksRecord, completionOverrides },
+      {
+        characterPriority,
+        tasks: tasksRecord,
+        completionOverrides,
+        ...(await targetsBlock(accountPage, compileTargets)),
+      },
       writeSideFile
     )
   }

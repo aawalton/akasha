@@ -300,6 +300,7 @@ function recording(
       getRows,
       patchRow,
       compilePriority: async () => ["1001", "1002"],
+      compileTargets: async () => ({}),
       writeSideFile: (path, content) => {
         written.push({ path, content })
         return WRITTEN_HASH
@@ -433,6 +434,24 @@ test("a character is reached by the slug a task and an override name", async () 
   const written = seam.written[0]?.content ?? ""
   expect(written).toContain(`["esoCharacterId"] = "1001"`)
   expect(written).toContain("[1001] =")
+})
+
+test("a character's target reaches the config file under its game id", async () => {
+  const seam = recording(TASK_ROWS, OVERRIDE_ROWS, {
+    charactersConfigPath: "/nowhere/characters.lua",
+    compileTargets: async () => ({ "8796093041077793": { title: "Max Max Stamina" } }),
+  })
+  await runExportTasks(CONTENT, SUPABASE, seam.options)
+  const written = seam.written[0]?.content ?? ""
+  expect(written).toContain(`["characterTargets"] =`)
+  expect(written).toContain(`["8796093041077793"] =`)
+  expect(written).toContain(`["title"] = "Max Max Stamina"`)
+})
+
+test("no character with a target leaves the targets block out of the config file", async () => {
+  const seam = recording([], [], { charactersConfigPath: "/nowhere/characters.lua" })
+  await runExportTasks(CONTENT, SUPABASE, seam.options)
+  expect(seam.written[0]?.content ?? "").not.toContain("characterTargets")
 })
 
 test("a run with no signed-in user is refused, naming what the session said", async () => {
