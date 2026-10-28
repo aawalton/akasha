@@ -1,0 +1,91 @@
+To build advanced weapons and tools, I needed a competent, reliable and imaginative blacksmith. Fortunately Aramid had one in mind and had even vouched for him.“Milord,” Kovar broke the silence and bowed awkwardly. The yellow shafts of evening sun peeking through the walls highlighted his large frame.“Aramid recommended you as my personal blacksmith, Kovar. He tells me that you're very good at your craft and coming up with new ideas all the time.”“He's too kind, milord. The only reward my ideas have gotten me is scut work.”“Why?”“Old masters don't like someone new rocking the boat, even when the someone is an experienced smith himself,” he huffed. Resentment dripped from every word he spoke. He wasn’t timid like his friend, and would have to be kept under check. Imaginative or not, I needed the cooperation of every craftsman.“Not here,” I replied. “I am specifically looking for a competent smith with an active imagination. I will be introducing new methods of producing metals and new ways of working with them. Would you like to be at the forefront of this revolution?”“Yes!” he blurted out quickly, then asked hesitantly, “if that would be possible, milord?”“Impress me with your work, and those secrets will be yours.” I turned to the carpenter and patted him on the shoulder. “Good work standing up to the bullies, Aramid.” The young man smiled shyly in response. I was glad to see him gaining some confidence. “Have the hunter apprentices been armed with crossbows?”“Yes, milord.” He picked one up to show me. It was a well made functional piece.“Laminated wood?” I pointed at the prod.“Yes.”“What other materials do you use for prods?”“Just wood.”“Wooden prods can't handle much power though.”“I took down a deer with a wooden crossbow one time. A big one.” Kovar added.“Deer don’t wear chain mail and plate. It’s fine for hunting, but not for war.” I clarified. “Do you know how to make composite bows? The ones that use sinew and horn.”They looked at each other in confusion.“Anyone else among us might know?” “It sounds like an advanced weapon, milord. People who make them don’t share their secrets easily. No Cha would have been allowed to learn them.”
+
+I grimaced at that. I was about to tell them how to make composite bows, when I realized it would be pointless. “We’re going to make these composite bows?” Kovar asked.“No. Too expensive to make. The glue that binds the wood to horn and layers of sinew can take months to cure. On top of that, those bows are sensitive to humidity and temperature. If you don’t take proper care of them, they delaminate.” I demonstrated with my hands. “Months of labor undone. They’re not something we can give to non professionals or mass produce right now. Steel it is, then. Do you know how to make it?”All I got were head shakes.“Would anyone of our people know?”“No,” Kovar chortled, as if it ought to be obvious. “Steel making is a well kept secret.”“Not for long,” I replied. “Steel is just iron with a very carefully controlled carbon content, and I can help you produce it.”“Carbon, as in soot? It gets everywhere! How can you control smoke?” Kovar asked skeptically.“Not by weight, but by temperature; by color.”“Is iron not good enough?” Lothar asked.“No. Steel can flex more, hence hold more energy. And it doesn’t rust as easily. Our weapons need to be powerful, reliable and durable. I don’t want to spend time rebuilding them.”“Will it take you a lot of time to make steel?”“Maybe, but it’s not like we can make iron by cartloads everyday either.” I turned to the blacksmith. “You do know how to make iron, right?”“Yes, with a bloomery,” Kovar replied enthusiastically.“Am I right in assuming that it's a tall chimney in which you pour crushed ore and charcoal over a continuously fanned flame?”Both craftsmen nodded.“Then you consolidate the mass that forms at the bottom and beat the crap out of it for hours, until you have separated the wrought iron from slag?” Nods again.Bloomeries were the most primitive furnaces capable of smelting iron, but produced very small, contaminated amount after each firing. They had to be rebuilt, every, single, time. They just wouldn't do.“Do you know any other method of producing it?”Identical head shakes.
+
+I stifled a groan. I would have to make my own furnace. I knew the principles but the challenge was turning them into functional infrastructure. The basic concept was to get the furnace as hot as possible, so all the iron would separate from slag.
+
+I planned to achieve that by making a big structure with double walls, so it could hold a lot of heat, while pumping pressurized, preheated air from multiple inlets to properly burn all the fuel. The big challenge was making the refractory lining, which required silica sand and volcanic rock.
+
+“I suppose we could crush the slag and use it as a poor replacement. Worst case, we'll be rebuilding the lining every time.” I muttered to myself.The craftsmen looked at me, expectant.“Make a lot of blooms, my friends, and don't discard anything,” I told them. “We’re going to need a lot of iron to build up our military.”“Are the bow magazines not working well?” Aramid asked.“They are, but I can’t wait five years for rest of the men to get good with a self bow. We need them armed and lethal, now.”He nodded in understanding.
+
+My next visit was the ropemakers’ workshop. They had built a long net, and I cajoled them to affix small stones to one of the long edges and bits of light wood to the other. We transported the net to the bay and immersed it in the water. The edge with the wood floated, while the other one sunk down. I awkwardly got on a raft and rowed it away from the beach, pulling one end of the net along. I didn’t need to say anything more to the fishermen, as their eyes widened in comprehension.“Get good with it and you can capture entire schools of fish in one go. No need to spend hours catching one or two.”“Is it fine to catch so many at once?” one asked hesitantly.“There is plenty of fish in the sea. You’re not going to wipe them out.” I said testily. I was sick of constantly worrying about food.“We will be catching so many with so little work!”Ah. “The ropemakers did a lot of work making that net. Just because it’s easy, it doesn’t diminish your effort.” I said, putting a hand on his shoulder. “And we need the food. We’re barely escaping starvation.”That finally seemed to convince them.I left them to practice their craft. Once they got good with these nets, we would finally be free from the jaws of starvation.
+
+I made another round of the valley, this time the interior. Summer was in full bloom, and the carpet of green grass was dotted with tiny pricks of yellow, white and red. We enjoyed the beautiful vista, but made no significant discovery, other than a grove of wild grapes. I made a face upon tasting them, making others chuckle.“You don’t like them, Sire?” Lothar teased.“Too tart.” They were nowhere as sweet as their modern counterparts. “Still, good enough for wine and alcohol.”“Wine is alcohol.”“Pure alcohol. It’s more potent than wine for disinfection and has other uses.” Weapons and chemical processes. We enjoyed the fruits on the shores of a beautiful little lake. A perfect place for a resort, or a vacation home. I was tired of being alone.
+
+Back in Cradle, I had the slag from blooms crushed and mixed with limestone and sand to create refractory bricks, and used them to build a Frankenstein version of the blast furnace.
+
+We also built a massive trompe, an air compressor of very simple design. It took three days to carve the “W” shaped channels into stone and two more to fit hollowed logs as pipes, without leaking air.
+
+The heavily aerated water from Powerfall fell into one pipe, while the weight of the water column on the other end created back pressure, forcing the air mixed in water to separate and escape through the middle pipe. The men laughed at the slurping noises it made, until it settled into a steady hiss: a self-sustained airflow.“That,” I said, “is your new bellows. Endless and tireless.”
+
+We routed the compressed air into a red hot iron pipe. This hot air then roared into the furnace like a beast, circling around in a vortex, turbocharging the raging fire inside, as we fed it crushed ore, lime, soda ash and charcoal. “It’s a monster!” Kovar exclaimed.“Yes.” I said, smiling. “One that eats rocks and shits metal.”
+
+The craftsmen surrounded the furnace with anticipation as the furnace glowed. The air shimmered with heat, stinging our eyes. “Don’t get your hopes up too much.” I told them. First attempts rarely worked, but the men looked at me as if I had strangled their childhood pet.
+
+The glow deepened from orange to white. For a moment I believed we had succeeded.
+
+Then the lining cracked.
+
+A sound like thunder tore through the air and liquid light spilled out like lava. Men stumbled back, shouting. All except Kovar, who lunged forward with tongs. I grabbed him by the shoulder and pulled him back.“Don’t! It’s liquid metal!”As the heat crisped our eyelashes, we watched helplessly as day’s worth of fuel and ore poured onto the dirt, hissing and cooling into failure.“You said we’ll control the carbon. Now we control nothing.”I didn’t argue. He would learn the lessons himself. Engineering wasn’t magic. It was applied understanding sharpened by patience and humiliation. Each failure would bring us closer to success. We smashed the spill and studied it. The iron at the center was shiny and glassy. Too hot.“Too much flux. The limestone ate the walls. More silica and less lime in the bricks next time.” I told them.“But it’s half the binder!”“Then add more clay and hope it fuses.”
+
+We built bricks with different ratios of materials to find out a lining that wouldn’t melt before our hopes did. The next attempt failed, and so did the one that followed. We were making progress, but tempers and frustration were rising with every failure.
+
+After days of disappointment and close calls, our efforts finally bore fruit. The furnace held. The interior glowed with a color never seen here, a yellow-white that hurt to look at, 1300°C (2372°F) or so. The slag tap opened, and molten metal poured out like water, smooth and viscous. Not a dirty sponge, but pure liquid iron. Perfect.
+
+We hovered around the glowing pool, like moths to a flame. We could feel its heat searing our skin, but in that moment, it felt more like a balm on our frayed nerves.“It’s cursed,” one of the apprentices whispered. “No,” Kovar said quietly, eyes glued to the unusual light source. “It’s new.”
+
+──────── ⋆✩⋆ ────────
+
+Aprilia’s father groaned as he sat on a rickety stool. For the first time in days, she noticed his face hiding a smile instead of frustration. She brought a cup of pine tea to him.“You seem to be in good spirits today, father.”“Yes. All our hard work in making bricks finally bore fruit. We were stuck for days.”“How can making bricks be difficult? You’ve been doing it for decades.”“These were a special kind, pumpkin.”“Special how?”A sly smile came upon his face. “I’m not supposed to tell anyone. It’s a secret.”Aprilia’s eyes narrowed in suspicion. “That Supreme Leader isn’t ruining your health just to make a fancy house for himself, is he?”“No,” he chortled, eyes focused on the tea.“You’ve been complaining of joint pain for days, father. Maybe I should go give him a piece of my mind.”He caught her by the wrist. “No, no! It’s very important work. You’ll find out soon enough.” His face turned serious. “Did you meet Elder Weber’s grandson?”“Yes,” she replied with clenched teeth.“And?”“He’s an arrogant prick. I don’t know how one can still be like that after what we all went through.”“Pumpkin, you are being too picky. He’s from a good family.”Instead of responding, she left their tent.
+
+──────── ⋆✩⋆ ────────
+
+The next day, the cooled ingot fractured under a few strikes of the hammer. Pig iron so brittle that it was useless for any application except casting.“If it breaks so easily, what’s the point?” Kovar asked in frustration.“It’s Pig iron. It just needs to be oxidized a little and you will have steel of a consistent quality.”“You are going to work us to death on another project, aren’t you milord? Just tell us already.”“Not today. The fishermen have told me to expect good news soon. I need to prepare for it.”
+
+Confident in our eventual victory, I worked on a personal project. Now that we had plentiful iron, I could do something about a big problem we were facing: eating nothing but baked, boiled and roasted food. So I roped in a brick maker and cast some of the next melt into a big frying pan.
+
+That evening, the fishermen invited me to one of the common kitchens, where two carts stood, covered in seine nets. They removed them to show me fish, hundreds of them. Maybe even a thousand; enough to feed a thousand mouths.“We had a big catch today!” one of them said, beaming.I just smiled in response. Once we had some boats, this would be a regular occurrence. We had finally escaped starvation.
+
+As if on cue, a green light flickered in my peripheral vision. I focused on it and mentally clicked.
+
+A transparent screen lit up in my vision, with a chime.
+
+Quest Complete!
+
+The techniques you introduced have ensured that your people will no longer have to worry about starvation under ordinary circumstances.
+
+Reward:
+
+Strength boost.
+
+You will soon become twice as strong as the strongest of men in their prime.
+
+I punched the air, being careful not to sound my jubilation.
+
+My good mood was interrupted by another blinking icon, blue this time. I mentally clicked on it:
+
+New Quest!
+
+Ensure the Cha people's long-term survival and well-being within one year, while keeping your identity hidden from most.
+
+Reward:
+
+The Cha's eternal gratitude and lifelong position as their leader.
+
+Penalty:
+
+The Cha will kick you out, or worse.
+
+“What kind of crap is this?” I asked the air. “I can get that reward myself, asshole!”
+
+I spent the rest of the evening searing fish on my new pan and receiving congratulations, while the people enjoyed the food, sang and danced.
+
+“Finally in good spirits, Sire?” Lothar asked.“Yes. We finally figured out the furnace lining.”“I’m glad. You were moody and touchy for days. Good thing you didn’t come across Hyde or I feared we would be burying his body in secret.”“Let’s not ruin the mood. Here,” I offered him a pan-seared fish. “How is the hunting?”“Terrible, but it could never feed thousands even at it’s best. We’ve stripped the surrounding areas of almost all large game. Thanks to your new nets, now we can focus on just training. Hmm, tender.” He said between bites. “That’s a large pan you have there.”“It’s my trusty frying pan, which also works as a drying pan.” I said, lifting it over my head and chuckling at the joke no one here would get.
+
+With the refractory lining figured out, it took only a few days to build a hearth with a shallow bed and open flame arching over it: a crude puddling furnace.
+
+I sweated profusely as I demonstrated to Kovar how stirring the pool of liquid iron exposed it to oxidizing air and burned off excess carbon. Turning the knowledge into practice was the next challenge.
+
+The first heat burned everything. The second produced something between wrought iron and steel; too weak. By the fifth, Kovar figured out the process as he stirred the molten metal with a long iron rod. The surface thickened like porridge and sparks burst where carbon met oxygen. “Now!” I told him.
+
+He gathered the bloom into a ball and carried it outside. He placed it on the anvil and hammered the glowing orange ball into a bar. The slag scaled off, and the hammer sung, its tone clear and bright. With every strike, I could feel the future taking shape. “That’s it,” I said. “Medium carbon steel. Ductile and strong.”He stared at it, chest heaving. “You burned the metal until it healed.”“Yes. Now we temper the future with it.”
