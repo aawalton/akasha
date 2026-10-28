@@ -27,7 +27,7 @@ export const outcomeCardsCheckWorldSquare = {
   facts: [
     {
       fact: "The square is cobbled, with a well at its middle and a bench beside the well.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/outcome-cards-check-player"],
     },
     {
       fact: "The well is a round stone shaft with still, clear water far below and a bucket on a rope.",
@@ -47,13 +47,17 @@ export const outcomeCardsCheckWorldSquare = {
     },
     {
       fact: "A wooden bucket sits on the rim of the square's well, its rope coiled beside it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/outcome-cards-check-player"],
     },
     {
       fact: "An old tree leans over the square's bench, now and then dropping a dry leaf to the cobbles.",
       knowers: ["lore-disclosure/game-master", "character-player/outcome-cards-check-player"],
     },
+    {
+      fact: "A few dry leaves, brown and curled at the edges, still hang from the old tree.",
+      knowers: ["lore-disclosure/game-master", "character-player/outcome-cards-check-player"],
+    },
   ],
   createdAt: "2026-10-28T00:52:29.403Z",
-  updatedAt: "2026-10-28T01:27:32.680Z",
+  updatedAt: "2026-10-28T01:35:09.724Z",
 } as const satisfies Place
