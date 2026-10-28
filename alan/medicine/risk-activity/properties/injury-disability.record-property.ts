@@ -12,8 +12,20 @@ export const injuryDisability = {
     { pageProperty: "number-property/injuries-per-million-units", required: true, many: false },
     { pageProperty: "number-property/disability-weight", required: true, many: false },
     { pageProperty: "number-property/disability-years", required: true, many: false },
+    {
+      pageProperty: "number-property/injuries-per-million-units-low",
+      required: false,
+      many: false,
+    },
+    {
+      pageProperty: "number-property/injuries-per-million-units-high",
+      required: false,
+      many: false,
+    },
+    { pageProperty: "number-property/disability-weight-low", required: false, many: false },
+    { pageProperty: "number-property/disability-weight-high", required: false, many: false },
   ],
   types: "ts",
   createdAt: "2026-10-28T18:23:14.375Z",
-  updatedAt: "2026-10-28T18:23:14.375Z",
+  updatedAt: "2026-10-28T19:19:08.653Z",
 } as const satisfies RecordProperty

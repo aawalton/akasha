@@ -21,6 +21,10 @@ export const riskActivity = {
     "number-property/disability-years",
     "record-property/health-sources",
     "text-property/exposure-assumption",
+    "number-property/injuries-per-million-units-low",
+    "number-property/injuries-per-million-units-high",
+    "number-property/disability-weight-low",
+    "number-property/disability-weight-high",
   ],
   properties: [
     { pageProperty: "text-property/exposure-unit", required: true, many: false },
@@ -39,5 +43,5 @@ export const riskActivity = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-28T18:19:17.719Z",
-  updatedAt: "2026-10-28T19:07:15.170Z",
+  updatedAt: "2026-10-28T19:19:08.653Z",
 } as const satisfies PageType
