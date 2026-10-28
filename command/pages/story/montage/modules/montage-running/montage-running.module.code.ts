@@ -176,7 +176,7 @@ async function boundedTime(
   if ("refused" in timed) return timed
   const ends = Date.parse(timed.answered.endsAt)
   const { interruptsAt } = montage
-  if (interruptsAt !== null && ends >= Date.parse(interruptsAt)) {
+  if (interruptsAt !== null && ends > Date.parse(interruptsAt)) {
     return { done: await interrupted(montage, rules, running, session, interruptsAt) }
   }
   const { until } = montage.bounds

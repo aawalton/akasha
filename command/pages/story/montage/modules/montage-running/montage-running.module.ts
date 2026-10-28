@@ -33,6 +33,11 @@ export const montageRunning = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A session ending exactly at the world's break-in or the end asked for runs in full.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A montage stops after the session crossing what was asked for, or leaving the routine.",
     },
     {
@@ -49,5 +54,5 @@ export const montageRunning = {
     },
   ],
   createdAt: "2026-10-27T20:03:26.902Z",
-  updatedAt: "2026-10-27T22:26:04.226Z",
+  updatedAt: "2026-10-28T00:51:42.314Z",
 } as const satisfies Module

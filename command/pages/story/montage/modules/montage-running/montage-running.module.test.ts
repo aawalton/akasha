@@ -146,6 +146,43 @@ test("the world breaking in stops before that session, with time passed up to it
   expect(said.answered.lines.at(-1)?.["reading"]).toEqual({ from: after(1), minutes: DAY / 2 })
 })
 
+test("a session ending exactly at the world's break-in runs in full, and none after it", async () => {
+  const quarter = 15
+  const from = "2026-10-27T20:45:00.000Z"
+  const at = "2026-10-27T22:00:00.000Z"
+  const bounds = { sessions: null, until: at, crossing: null }
+  const said = await montageRan(
+    montage({ from, every: quarter, bounds, interruptsAt: at }),
+    rulesWith([10])
+  )
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.answered.sessions).toHaveLength(5)
+  expect(said.answered.sessions.at(-1)?.from).toBe("2026-10-27T21:45:00.000Z")
+  expect(said.answered.endsAt).toBe(at)
+  expect(said.answered.stopped).toBe("interrupted")
+  expect(said.answered.lines.filter((one) => one["check"] === DRILL)).toHaveLength(5)
+  expect(said.answered.lines.filter((one) => one["check"] === TIME)).toHaveLength(5)
+})
+
+test("a session ending exactly at the end asked for runs in full, and none after it", async () => {
+  const bounds = { sessions: null, until: after(2), crossing: null }
+  const said = await montageRan(montage({ bounds }), rulesWith([10]))
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.answered.stopped).toBe("until")
+  expect(said.answered.sessions).toHaveLength(2)
+  expect(said.answered.endsAt).toBe(after(2))
+})
+
+test("a session ending exactly at the world's break-in alone runs in full", async () => {
+  const bounds = { sessions: 5, until: null, crossing: null }
+  const said = await montageRan(montage({ bounds, interruptsAt: after(2) }), rulesWith([10]))
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.answered.stopped).toBe("interrupted")
+  expect(said.answered.sessions).toHaveLength(2)
+  expect(said.answered.endsAt).toBe(after(2))
+  expect(said.answered.lines).toHaveLength(4)
+})
+
 test("upkeep is charged every session, and a session it cannot pay for is not run", async () => {
   const upkeep = { check: BOARD, reading: { coin: 10 }, dice: null }
   const bounds = { sessions: 10, until: null, crossing: null }
