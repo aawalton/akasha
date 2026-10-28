@@ -48,3 +48,5 @@ note: Affinity: Shadow (Strong); Paths: Soulstealing, Completionist
 name: Unallocated Stats
 note: Unallocated Stats: 2
 :::
+
+The words stay in your mind after you have read them all. The stats on the last line are still unspent, and they are yours to place.
