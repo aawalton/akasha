@@ -16,7 +16,7 @@ export const giftedRebornPractice = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "One session rolls one six-sided die, with `--dice 1d6`.",
+      statement: "One session rolls one four-sided die, with `--dice 1d4`.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -24,7 +24,36 @@ export const giftedRebornPractice = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A Path she knew in her past life earns two steps more each session.",
+      statement: "A Path she knew in her past life earns three steps more each session.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That rate fits `gifted-0002-chapter-1`, two past-life Paths passing 8000 steps in four months.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "It fits `gifted-0005-chapter-4` too, three new Paths gaining about 30 steps a day each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading may state `talented` or `gifted`, the one of them she holds, and never both.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Talented speeds a session by a fifth of its value in percent, and Gifted by two fifths.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sped session rounds to the nearest step, so so few steps keep their speed.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "No Affinity, teacher or novelty moves a session, since the source gives none a number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -33,7 +62,8 @@ export const giftedRebornPractice = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each Tier a session passes adds a point to the Attribute its Path trains.",
+      statement:
+        "Each Tier adds a point to its Path's Attribute; the ninth adds an Unallocated Stat, the tenth two.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -67,5 +97,5 @@ export const giftedRebornPractice = {
     },
   ],
   createdAt: "2026-10-28T00:37:57.775Z",
-  updatedAt: "2026-10-28T01:37:53.676Z",
+  updatedAt: "2026-10-28T14:07:02.023Z",
 } as const satisfies WorldCheck

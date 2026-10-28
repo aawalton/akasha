@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"ability-slotting.module.code.ts","path":"story/ui/modules/sheet-entries/sheet-entries.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"ability-slotting.module.code.ts","path":"story/ui/modules/sheet-panel/sheet-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"ability-slotting.module.code.ts","path":"story/world/mechanics/modules/ability-slotting/ability-slotting.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ability-slotting.module.code.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-practice.world-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"ability-slotting.module.code.ts","path":"story/world/stories/played/modules/held-ability-sending/held-ability-sending.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"ability-slotting.module.code.ts","path":"story/world/stories/played/modules/held-ability-setting/held-ability-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
