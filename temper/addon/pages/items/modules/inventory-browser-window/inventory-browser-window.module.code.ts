@@ -9,6 +9,7 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { createMovableWindow } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
+import { drawPanelBackground } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import {
   FRAME_PADDING,
   frameWindow,
@@ -133,6 +134,13 @@ export function createBrowserWindow(): BrowserWindowHandle {
     return undefined
   })
   const body = framed.body
+  const windowSurface = GetControl(frame, "FrameSurface")
+  const panelBackground = drawPanelBackground(frame)
+
+  function showSurface(this: void, docked: boolean): undefined {
+    panelBackground.SetHidden(!docked)
+    windowSurface?.SetHidden(docked)
+  }
 
   const toolbar = WINDOW_MANAGER.CreateControl("$(parent)Toolbar", frame, CT_CONTROL)
   toolbar.SetAnchor(TOPLEFT, body, TOPLEFT, 0, 0)
@@ -192,6 +200,7 @@ export function createBrowserWindow(): BrowserWindowHandle {
 
   function showFloating(this: void): undefined {
     frame.SetMovable(true)
+    showSurface(false)
     movable.reanchor()
     SetGameCameraUIMode(true)
     frame.SetHidden(false)
@@ -200,6 +209,7 @@ export function createBrowserWindow(): BrowserWindowHandle {
   function showDocked(this: void): undefined {
     const target = resolveDockTarget()
     frame.SetMovable(false)
+    showSurface(true)
     frame.ClearAnchors()
     frame.SetAnchor(TOPRIGHT, target, TOPLEFT, DOCK_OFFSET_X, DOCK_OFFSET_TOP)
     frame.SetAnchor(BOTTOMRIGHT, target, BOTTOMLEFT, DOCK_OFFSET_X, DOCK_OFFSET_BOTTOM)

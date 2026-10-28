@@ -6,6 +6,16 @@ export const inventoryBrowserWindow = {
   slug: "inventory-browser-window",
   definition: "the cross-character browser window and the scroll list of rows inside it",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The window docked beside the inventory sits on the game's panel background.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The window floating over play sits on the window backdrop.",
+    },
+  ],
   createdAt: "2026-09-02T13:39:35.849Z",
-  updatedAt: "2026-09-21T17:37:10.000Z",
+  updatedAt: "2026-10-28T16:08:46.021Z",
 } as const satisfies Module

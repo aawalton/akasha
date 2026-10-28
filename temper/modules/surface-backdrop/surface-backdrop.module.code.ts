@@ -91,18 +91,21 @@ function panelSlice(parent: Control, name: string, top: number, bottom: number):
   return slice
 }
 
-export function drawPanelBackground(parent: Control): undefined {
-  const top = panelSlice(parent, "$(parent)PanelTop", 0, PANEL_FADE_ART)
-  top.SetAnchor(TOPLEFT, parent, TOPLEFT, 0, 0)
-  top.SetAnchor(TOPRIGHT, parent, TOPRIGHT, 0, 0)
+export function drawPanelBackground(parent: Control): Control {
+  const panel = WINDOW_MANAGER.CreateControl("$(parent)PanelBackground", parent, CT_CONTROL)
+  panel.SetAnchorFill()
+  const top = panelSlice(panel, "$(parent)Top", 0, PANEL_FADE_ART)
+  top.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, 0)
+  top.SetAnchor(TOPRIGHT, panel, TOPRIGHT, 0, 0)
   top.SetHeight(PANEL_FADE)
-  const bottom = panelSlice(parent, "$(parent)PanelBottom", PANEL_BODY_END_ART, PANEL_FADE_END_ART)
-  bottom.SetAnchor(BOTTOMLEFT, parent, BOTTOMLEFT, 0, 0)
-  bottom.SetAnchor(BOTTOMRIGHT, parent, BOTTOMRIGHT, 0, 0)
+  const bottom = panelSlice(panel, "$(parent)Bottom", PANEL_BODY_END_ART, PANEL_FADE_END_ART)
+  bottom.SetAnchor(BOTTOMLEFT, panel, BOTTOMLEFT, 0, 0)
+  bottom.SetAnchor(BOTTOMRIGHT, panel, BOTTOMRIGHT, 0, 0)
   bottom.SetHeight(PANEL_FADE)
-  const body = panelSlice(parent, "$(parent)PanelBody", PANEL_FADE_ART, PANEL_BODY_END_ART)
+  const body = panelSlice(panel, "$(parent)Body", PANEL_FADE_ART, PANEL_BODY_END_ART)
   body.SetAnchor(TOPLEFT, top, BOTTOMLEFT, 0, 0)
   body.SetAnchor(BOTTOMRIGHT, bottom, TOPRIGHT, 0, 0)
+  return panel
 }
 
 export function drawSurface(parent: Control, level: SurfaceLevel): BackdropControl {
