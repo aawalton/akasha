@@ -21,6 +21,7 @@
   "automation": {
     "global": {
       "characters": {
+        "equipment": true,
         "food": true,
         "potions": true,
         "soulGems": true,
