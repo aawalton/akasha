@@ -7,11 +7,11 @@ export const myDressUpDarlingS01e22 = {
   description:
     'Marin has a slight misunderstanding and Wakana has his first playthrough of "Coffin."',
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 22,
   publishedAt: "2025-09-07",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const myDressUpDarlingS01e22 = {
   stillPath: "/tQCCkqPVjHhJu6NxGlvNf703yZi.jpg",
   voteAverage: 8.2,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:34.595Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:34.595Z",
 } as const satisfies Episode
