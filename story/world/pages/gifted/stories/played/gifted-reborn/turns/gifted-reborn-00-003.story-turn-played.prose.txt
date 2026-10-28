@@ -12,7 +12,7 @@ name: Defeat a Lesser Demon Prince while unborn
 
 :::item-award
 name: Reward
-note: Path: Path of the Completionist; Unallocated Stats: 2
+note: Path: Path of Exceptionalism, unlocked with 20 steps; Path of Exceptionalism: Tier 1 (20/10); Tier 1 reward: Advanced Attribute Talented (100), in a free slot
 :::
 
 :::title
