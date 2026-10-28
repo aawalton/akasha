@@ -6,11 +6,11 @@ export const giftedRebornNalaMental = {
   slug: "gifted-reborn-nala-mental",
   statGroup: "world-stat-group/gifted-basic-attributes",
   character: "character-player/gifted-reborn-nala",
-  value: 101,
+  value: 102,
   minValue: 0,
   history: "jsonl",
   unrevealed: false,
   displayOrder: 4,
   createdAt: "2026-10-27T19:40:48.360Z",
-  updatedAt: "2026-10-28T15:06:42.997Z",
+  updatedAt: "2026-10-28T15:44:35.552Z",
 } as const satisfies MetricCharacterStat
