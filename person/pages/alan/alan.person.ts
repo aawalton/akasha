@@ -130,6 +130,8 @@ export const alan = {
   nutsGramsPerDay: 28,
   inTherapyForDepression: false,
   hasSafetyPlan: true,
+  vo2max: 40.2,
+  coffeeCupsPerDay: 0,
   physicalRiskActivities: [
     { activity: "hiking", note: "occasional; always on well-marked trails" },
   ],
@@ -216,5 +218,5 @@ export const alan = {
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T19:56:29.458Z",
+  updatedAt: "2026-10-28T19:57:24.240Z",
 } as const satisfies Person
