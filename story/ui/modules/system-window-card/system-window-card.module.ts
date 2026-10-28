@@ -50,9 +50,9 @@ export const systemWindowCard = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A title's card is headed by what its world calls a title, or Title, and Acquired.",
+        "A title's card is headed by what its world calls a title, or Title, and Unlocked.",
     },
   ],
   createdAt: "2026-09-02T17:25:53.928Z",
-  updatedAt: "2026-10-28T17:16:52.418Z",
+  updatedAt: "2026-10-28T19:10:08.085Z",
 } as const satisfies Module

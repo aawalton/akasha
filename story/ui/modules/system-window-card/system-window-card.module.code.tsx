@@ -343,8 +343,6 @@ const TITLE_NAME_KEY = exportedAs(titleName.propertySlug)
 
 const TITLE = "Title"
 
-const ACQUIRED = " Acquired"
-
 async function titleNameOf(name: string): Promise<string | null> {
   const titles = valuesOf(
     await askedLoudly({
@@ -367,7 +365,7 @@ async function titleNameOf(name: string): Promise<string | null> {
 
 function TitleCard({ title }: { title: string }) {
   const named = useAsked(title, titleNameOf)
-  const banner = named === undefined ? UNSETTLED : `${named ?? TITLE}${ACQUIRED}`
+  const banner = named === undefined ? UNSETTLED : `${named ?? TITLE}${UNLOCKED}`
   return (
     <WindowFrame banner={banner} bannerClass="text-accent">
       <div className="font-mono font-semibold text-[14px] text-primary">{title}</div>
