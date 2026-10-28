@@ -191,7 +191,7 @@ export const giftedMyriadPaths = {
     },
     {
       fact: "Soulstealing is mutated: only soul shreds of a demon-ridden creature dying nearby give it steps.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
       fact: "Soulstealing's first Tier lifts its holder's Aether Core a grade, its second their Aether Channels.",
@@ -223,5 +223,5 @@ export const giftedMyriadPaths = {
     },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T00:51:25.892Z",
+  updatedAt: "2026-10-28T00:57:58.987Z",
 } as const satisfies Lore
