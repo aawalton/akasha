@@ -17,12 +17,14 @@ export function stockHandOff(fillTarget: number, heldByOthers: readonly number[]
 interface StockTierSaleInput {
   readonly backpackCount: number
   readonly selfTarget: number
-  readonly tierRoom: number
+  readonly tierCap: number
+  readonly tierHeld: number
   readonly handOff: number
 }
 
 export function computeStockTierSale(input: StockTierSaleInput): number {
-  return Math.max(0, input.backpackCount - input.selfTarget - input.tierRoom - input.handOff)
+  const room = Math.max(0, input.tierCap + input.handOff - input.tierHeld)
+  return Math.max(0, input.backpackCount - input.selfTarget - room)
 }
 
 export function computeStockTierDeposit(input: StockTierDepositInput): number {

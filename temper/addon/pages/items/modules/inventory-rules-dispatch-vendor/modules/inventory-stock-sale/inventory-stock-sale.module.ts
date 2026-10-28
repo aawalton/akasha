@@ -15,7 +15,7 @@ export const inventoryStockSale = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "What is left over is past the holder's own stock, the capped tiers' room and the hand-off.",
+        "What is left over is past the holder's own stock and the room the bank deposit would fill.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,5 +35,5 @@ export const inventoryStockSale = {
     },
   ],
   createdAt: "2026-10-28T21:27:16.724Z",
-  updatedAt: "2026-10-28T21:27:16.724Z",
+  updatedAt: "2026-10-28T22:05:10.993Z",
 } as const satisfies Module

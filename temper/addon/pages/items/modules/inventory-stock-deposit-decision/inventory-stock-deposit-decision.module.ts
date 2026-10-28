@@ -28,9 +28,9 @@ export const inventoryStockDepositDecision = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A holder sells only what its own stock, a capped tier's room and the hand-off leave.",
+        "A holder sells only what its own stock and the room a capped tier's deposit fills leave.",
     },
   ],
   createdAt: "2026-09-02T13:39:35.860Z",
-  updatedAt: "2026-10-28T21:27:16.724Z",
+  updatedAt: "2026-10-28T22:05:10.993Z",
 } as const satisfies Module

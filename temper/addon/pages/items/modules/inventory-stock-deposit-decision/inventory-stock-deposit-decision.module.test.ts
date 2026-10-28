@@ -93,7 +93,8 @@ describe("A holder sells only what its own stock, a capped tier's room and the h
       computeStockTierSale({
         backpackCount: 15000,
         selfTarget: 200,
-        tierRoom: 200,
+        tierCap: 200,
+        tierHeld: 0,
         handOff: 20 * 200,
       })
     ).toBe(10600)
@@ -101,13 +102,37 @@ describe("A holder sells only what its own stock, a capped tier's room and the h
 
   test("a holder sells nothing while the others are short of more than it holds over", () => {
     expect(
-      computeStockTierSale({ backpackCount: 500, selfTarget: 200, tierRoom: 200, handOff: 400 })
+      computeStockTierSale({
+        backpackCount: 500,
+        selfTarget: 200,
+        tierCap: 200,
+        tierHeld: 0,
+        handOff: 400,
+      })
     ).toBe(0)
   })
 
   test("once the bank holds its count and every other character is stocked, all past 200 sells", () => {
     expect(
-      computeStockTierSale({ backpackCount: 10800, selfTarget: 200, tierRoom: 0, handOff: 0 })
+      computeStockTierSale({
+        backpackCount: 10800,
+        selfTarget: 200,
+        tierCap: 200,
+        tierHeld: 200,
+        handOff: 0,
+      })
     ).toBe(10600)
+  })
+
+  test("a bank holding enough for every shortfall and its own count leaves all past 200 to sell", () => {
+    expect(
+      computeStockTierSale({
+        backpackCount: 10024,
+        selfTarget: 200,
+        tierCap: 200,
+        tierHeld: 3870,
+        handOff: 3670,
+      })
+    ).toBe(9824)
   })
 })

@@ -67,12 +67,13 @@ function stockSaleOf(group: StockGroup, currentCharId: string): number {
   if (chain[chain.length - 1]?.destination !== VENDOR_DESTINATION) return 0
   const plan = planStockChainVisit(chain)
   if (plan === undefined) return 0
-  let tierRoom = 0
+  let tierCap = 0
+  let tierHeld = 0
   for (const tier of plan.surplusCascade) {
     if (tier.destination === VENDOR_DESTINATION) break
     if (tier.cap === undefined) return 0
-    const held = tier.destination === "bank" ? heldAt(bankKeys(), group.itemIds) : 0
-    tierRoom += math.max(0, tier.cap - held)
+    tierCap += tier.cap
+    if (tier.destination === "bank") tierHeld += heldAt(bankKeys(), group.itemIds)
   }
   const heldByOthers: number[] = []
   for (const charId of chainFillCharacters(plan)) {
@@ -81,7 +82,8 @@ function stockSaleOf(group: StockGroup, currentCharId: string): number {
   return computeStockTierSale({
     backpackCount: group.backpackCount,
     selfTarget: group.selfTarget,
-    tierRoom,
+    tierCap,
+    tierHeld,
     handOff: stockHandOff(plan.fillTargetQuantity, heldByOthers),
   })
 }
