@@ -4,6 +4,7 @@ import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.cod
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import {
   sendsNow,
   Textarea,
@@ -114,6 +115,7 @@ export function linesOf(
 }
 
 function LineDrawn({ line }: { line: ChatLine }) {
+  const plane = useSurface()
   if (line.from === "game-master") {
     return (
       <li className="flex flex-col gap-1">
@@ -122,7 +124,7 @@ function LineDrawn({ line }: { line: ChatLine }) {
     )
   }
   return (
-    <li className={cn(ALAN_SAID, surfaceClass(2))}>
+    <li className={cn(ALAN_SAID, surfaceClass(plane + 1))}>
       <p className={ALAN_TEXT}>{line.text}</p>
       {line.said === null ? null : <span className={NOTE_LINE}>{line.said}</span>}
     </li>
@@ -164,6 +166,7 @@ export function ChatPanel({
     [returnSends]
   )
   const historyAt = useEndFollowed(lines.length)
+  const plane = useSurface()
   return (
     <section className={PANEL} aria-label="Chat">
       <ToggleGroup type="single" variant="elevation" size="sm" value={ASSISTANT}>
@@ -183,7 +186,7 @@ export function ChatPanel({
         )}
       </div>
       <form
-        className={cn(BOX, surfaceClass(1))}
+        className={cn(BOX, surfaceClass(plane + 1))}
         onSubmit={(event) => {
           event.preventDefault()
           send()
