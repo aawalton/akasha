@@ -16,7 +16,11 @@ export const actionStorageCapability = {
       decisionKind: "decision-kind/departure",
       statement: "Using an item at a named destination needs no backpack.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Filling soul gems for a named character needs no backpack.",
+    },
   ],
   createdAt: "2026-09-02T07:23:20.415Z",
-  updatedAt: "2026-09-21T15:44:44.000Z",
+  updatedAt: "2026-10-28T18:30:24.062Z",
 } as const satisfies Module

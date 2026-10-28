@@ -67,7 +67,8 @@ export function resolveItemRoute(
 
   const rawActionVenue = getActionVenue(action, destination, entry.item.stolen)
   const effectiveActionVenue: VenueType | null =
-    rawActionVenue ?? (action === "use" || action === "open" ? "backpack" : null)
+    rawActionVenue ??
+    (action === "use" || action === "open" || action === "fill" ? "backpack" : null)
 
   if (effectiveActionVenue == null && retrievalVenue == null) return []
 

@@ -31,6 +31,8 @@ function getActionVerbLabel(action: ItemAction): string {
       return "Use"
     case "open":
       return "Open"
+    case "fill":
+      return "Fill"
     case "destroy":
       return "Destroy"
     case "move-to":
@@ -76,6 +78,8 @@ export function formatActionLabel(args: FormatActionLabelArgs): string {
       return getActionVerbLabel(action)
     case "use":
       return destinationLabel != null ? `Use on ${destinationLabel}` : "Use"
+    case "fill":
+      return destinationLabel != null ? `Fill on ${destinationLabel}` : "Fill"
     case "move-to": {
       if (destinationLabel == null) return "Move"
       if (atDestination === true) return `Keep on ${destinationLabel}`

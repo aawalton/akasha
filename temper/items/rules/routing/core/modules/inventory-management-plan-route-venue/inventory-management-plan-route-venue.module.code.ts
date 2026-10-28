@@ -84,6 +84,7 @@ export function getActionVenue(
       return "companion-menu"
     case "use":
     case "open":
+    case "fill":
       return null
     case "move-to":
     case "stock": {

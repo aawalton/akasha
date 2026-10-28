@@ -5,6 +5,7 @@ import { deconstruct } from "akasha/temper/player/progress/temper-item-action/pa
 import { destroy } from "akasha/temper/player/progress/temper-item-action/pages/destroy.temper-item-action.ts"
 import { fenceLaunder } from "akasha/temper/player/progress/temper-item-action/pages/fence-launder.temper-item-action.ts"
 import { fenceSell } from "akasha/temper/player/progress/temper-item-action/pages/fence-sell.temper-item-action.ts"
+import { fill } from "akasha/temper/player/progress/temper-item-action/pages/fill.temper-item-action.ts"
 import { fillet } from "akasha/temper/player/progress/temper-item-action/pages/fillet.temper-item-action.ts"
 import { list } from "akasha/temper/player/progress/temper-item-action/pages/list.temper-item-action.ts"
 import { lock } from "akasha/temper/player/progress/temper-item-action/pages/lock.temper-item-action.ts"
@@ -41,4 +42,5 @@ export const ITEM_ACTION_PAGES = [
   sell,
   use,
   open,
+  fill,
 ] as const satisfies readonly TemperItemAction[]
