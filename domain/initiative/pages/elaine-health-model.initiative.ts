@@ -19,11 +19,7 @@ export const elaineHealthModel = {
       statement:
         "A command prices an activity Alan names in disability-adjusted micromorts, as a range.",
     },
-    {
-      statement:
-        "Each activity the model prices is a page carrying its risk and that risk's sources.",
-    },
   ],
   createdAt: "2026-10-28T17:48:39.611Z",
-  updatedAt: "2026-10-28T18:43:44.300Z",
+  updatedAt: "2026-10-28T19:12:27.182Z",
 } as const satisfies Initiative
