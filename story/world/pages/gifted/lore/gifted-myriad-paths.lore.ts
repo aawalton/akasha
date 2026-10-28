@@ -225,7 +225,11 @@ export const giftedMyriadPaths = {
       fact: "Soulstealing's first Tier falls at 10 steps, and its reward raises the Aether Core one grade.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "The Completionist's first Tier falls at 1 step, and its reward is 2 Unallocated Stats.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T00:59:54.496Z",
+  updatedAt: "2026-10-28T01:00:59.917Z",
 } as const satisfies Lore
