@@ -250,6 +250,7 @@ export const temperAddonItems = {
     "module/inventory-rules-dispatch-fillet",
     "module/inventory-fillet-plan",
     "module/inventory-crafted-seen",
+    "module/inventory-house-placement",
   ],
   decisions: [
     {
@@ -294,7 +295,12 @@ export const temperAddonItems = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "The rules walk neither the craft bag, nor the furniture vault, nor a guild bank.",
+      statement: "The rules walk neither the craft bag nor a guild bank.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The rules walk the furniture vault only to place furnishings in the carrier's house.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -370,5 +376,5 @@ export const temperAddonItems = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.863Z",
-  updatedAt: "2026-10-28T19:31:05.753Z",
+  updatedAt: "2026-10-28T20:23:03.295Z",
 } as const satisfies TemperAddon

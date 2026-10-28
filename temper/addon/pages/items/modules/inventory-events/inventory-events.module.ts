@@ -17,6 +17,11 @@ export const inventoryEvents = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Entering an owned house, or closing storage in one, places the furnishings bound there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A slot the add-on changed at a bank is judged again as any other slot is.",
     },
     {
@@ -52,5 +57,5 @@ export const inventoryEvents = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.851Z",
-  updatedAt: "2026-10-28T19:31:05.753Z",
+  updatedAt: "2026-10-28T20:23:03.295Z",
 } as const satisfies Module

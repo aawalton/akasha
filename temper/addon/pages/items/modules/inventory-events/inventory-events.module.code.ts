@@ -28,6 +28,7 @@ import {
   removePlacedFurnishing,
   scanPlacedFurnishings,
 } from "akasha/temper/addon/pages/items/modules/inventory-furnishing-scanner/inventory-furnishing-scanner.module.code.ts"
+import { placeFurnishingsHere } from "akasha/temper/addon/pages/items/modules/inventory-house-placement/inventory-house-placement.module.code.ts"
 import {
   recomputeNetWorthAndUpdateHud,
   reseedNetWorthBaseline,
@@ -100,6 +101,10 @@ import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const NET_WORTH_DEBOUNCE_MS = 500
+
+const PLACE_AFTER_ENTRY_MS = 3000
+
+const PLACE_AFTER_BANK_MS = 1000
 let netWorthRecomputePending = false
 
 function scheduleNetWorthRecompute(): undefined {
@@ -143,6 +148,7 @@ function listenForBags(ns: string): undefined {
       }
       if (GetCurrentZoneHouseId() > 0 && IsOwnerOfCurrentHouse()) {
         scanPlacedFurnishings()
+        zo_callLater(() => placeFurnishingsHere(), PLACE_AFTER_ENTRY_MS)
       }
       recordFullScan()
       if (getInventoryConfig().backpack?.autoStack !== false) {
@@ -228,6 +234,8 @@ function listenAtBanks(ns: string): undefined {
       dispatchUseActions()
       chainAtBankClosed()
       settleInventoryActions()
+      if (GetCurrentZoneHouseId() > 0)
+        zo_callLater(() => placeFurnishingsHere(), PLACE_AFTER_BANK_MS)
     }
   )
 

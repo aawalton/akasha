@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"inventory-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-furnishing-scanner/inventory-furnishing-scanner.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-house-placement/inventory-house-placement.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-mail-handler/inventory-mail-handler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts","typed":false,"deferred":false}
