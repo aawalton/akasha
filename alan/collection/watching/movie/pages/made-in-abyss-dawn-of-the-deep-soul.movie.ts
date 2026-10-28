@@ -15,9 +15,11 @@ export const madeInAbyssDawnOfTheDeepSoul = {
       source: "tmdb",
       externalId: "573730",
       externalLink: "https://www.themoviedb.org/movie/573730",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Made in Abyss: Dawn of the Deep Soul",
+  streamingOn: ["HiDive", "Hidive Amazon Channel"],
   createdAt: "2026-10-28T18:54:25.943Z",
-  updatedAt: "2026-10-28T18:54:25.943Z",
+  updatedAt: "2026-10-28T19:47:42.743Z",
 } as const satisfies Movie
