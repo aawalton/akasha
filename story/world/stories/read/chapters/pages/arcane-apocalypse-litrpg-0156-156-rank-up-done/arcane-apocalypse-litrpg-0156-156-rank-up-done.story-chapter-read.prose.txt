@@ -1,0 +1,263 @@
+Your Rank-Up has been completed.
+
+Your Level Cap has increased: 10 -> 20
+
+You have been granted: 1 Primary Skill Slot.
+
+Your Trait ‘Energy Channels (Rank0)’ has evolved into ‘Energy Channels (Rank1)’
+
+You have been granted: Trait ‘Rank 1’.
+
+***
+
+Trait ‘Energy Channels (Rank 1)’
+
+All aspects of your energy channels are enhanced compared to Rank 0 Energy Channels. They are more resilient, wider, recover faster and resist external infiltration better.
+
+***
+
+Trait: Rank 1
+
+10% reduced damage received from mundane sources. (Anything not containing supernatural energies counts as ‘mundane’. This includes kinetic energy, radiation, and time itself.)
+
+5% resistance to magic, or equivalent supernatural forces. (Magic, Ki, Psionics, etc.)
+
+50% Increased Mental Resilience.
+
+***
+
+Your Selected Traits from the System Shop have been applied and added to your Status.
+
+Traits ‘Sneaky Wisp’, ‘Enduring Wisp’ and ‘Wisp-erer’ have combined into the ‘Wisp Mastery’ Trait.
+
+Your Astral Meridian has been opened.
+
+***
+
+Mia blinked, coming back to herself after feeling like she’d been zoning out for … awhile. Her body felt weird; she could instantly feel her improved energy channels and the dozen or so smaller tributary channels carved into her Body in Spirit. Where she had a single simple channel per limb, with only two spiralling through her torso and another curling around her head, now the system of channels was starting to faintly resemble an actual circulatory system, though it was still far from being anywhere near as complicated as her blood vessels. That must have been why she zoned out; it was the System’s version of an anaesthetic while it implanted these new spiritual organs into her.
+
+Speaking of spiritual organs, she could feel the Mana Heart now thrumming in her chest at a steady rhythm, sending a stream of mana through her channels without her input. It felt nice, even if a bit strange since she’d grown used to the fact that her channels were empty unless she made a conscious effort to fill them with her mana.
+
+The change to her mana was less immediately obvious, but it was no less important. Mana Refinement and Arcane Blood combined made sure there was both a substantial qualitative and quantitative improvement to her mana reserves. It felt heavier, if she wanted to be blunt about it, but that word was far from enough to truly describe what she felt when she focused her attention upon it. Density was part of it, but the mana also felt thicker, maybe purer? It was weird. Okay, stop thinking about it. I’m just going to tie my thoughts into knots if I continue down this path. Let’s continue … Let’s get that Class Tier Upgrade out of the way too.
+
+***
+
+Using ‘Class Tier-Up’ Token on Class ‘Arcane Mage [Tier 1]’ …
+
+Subskill ‘Runic-Model’ is already Rank 1 in quality … Reserving power.
+
+Do you wish to:
+
+Evolve all Rank 0 Runes within your Runic Model to Rank 1.
+
+Channel the extra power into enhancing your ‘Spell-Tome’ Subskill.
+
+***
+
+2.Go with 2, please.
+
+***
+
+User has chosen Option 2 … rerouting power …
+
+Upgrading Subskill ‘Spell-Tome’ … Your ‘Spell-Tome’ has gained 5 new pages, and an additional 5 more from the reserved power.
+
+Upgrading Subskill ‘Spirit Blink’ … Skill-matrix has been refined, Spirit Blink’s range-scaling has been enhanced.
+
+Your Trait ‘Novice Arcane Mage [Tier 1]’ has evolved into ‘Junior Arcane Mage [Tier 2]’
+
+***
+
+Junior Arcane Mage [Tier 2]
+
+(+1 Spirit; + 1 Mind) -> +2 Spirit; + 2 Mind Bonus Attributes. Increases with each Tier.
+
+(+5% Spirit +5% Mind) -> +10% Spirit +10% Mind Bonus Attributes. Increases with each Tier.
+
+Increases the potency of Arcane Spells based on the User’s attunement to the element. Current bonus: 41%
+
+***
+
+[Main Mind: 18 -> 20]
+
+[Main Spirit: 20 -> 22]
+
+***
+
+Mia felt a grin form on her lips. The Manual was right! She really did get five extra pages added to her Spellbook. That meant she had ten empty pages to fill with new spells now, saving her from having to decide which of her current spells to sacrifice to add the new ones from her new Rank 1 Runic Lexicons to her repertoire. More than anything else she’d gotten from this Rank-Up, she was certain that this would be what impacted her offensive power the most.
+
+One more, and then I’m done. Mia thought, turning her attention to the System Notification that’d been blinking in the periphery of her mind ever since the initial Rank-Up process had been completed.
+
+Quest Complete!
+
+[{Newcomer}’s Introductory (15)]
+
+‘Notification: This is the final Quest in this Quest-chain.’
+
+Objective: Advance to Rank 1. COMPLETE
+
+Bonus Objective: Be within the First 5% of System Users to Rank-Up from Planet: Earth/Terra/Gaia. COMPLETE
+
+Reward: Consumable Item: Golden Apple. +3 to all sub-attributes
+
+Bonus Reward: Title [Forerunner]. ‘5% Bonus to all Sub-Attributes’ + ‘Once Per Month, you can teleport back to the nearest System Obelisk — Requires 1 Minute of uninterrupted Casting.’
+
+[Claim Rewards?]
+
+[YES / NO]
+
+***
+
+Yes, please. Mia thought, absently grabbing the golden apple dropping into her hand and shoving it into her ‘Bottomless Bag’ as Gabe had called it, though her eyes widened when she saw that the Bonus Objective was marked as Completed too. Really? Was she truly in the top 5% of Users on Earth? That was … actually rather depressing. She hadn’t been especially quick in reaching her Rank-Up due to the stupid Werewolf King causing problems and that Raid popping up to cause even more trouble, so it was likely that everyone else in other parts of the world was also suffering from similar obstacles barring their path to advancement.
+
+If that was true, then Graz might have gotten off lightly, and if they could be considered ‘lucky’ with all the trouble they’d been forced to deal with … she didn’t like what that implied about how well the rest of humanity was dealing with the apocalypse. She didn’t like it one bit.
+
+***
+
+{Forerunner} - Title
+
+5% Bonus to all Main Attributes
+
+Once Per Month, you can teleport back to the nearest System Obelisk — Requires 1 Minute of uninterrupted Casting.
+
+***
+
+[Main Mind: 20 -> 21]
+
+[Main Spirit: 22 -> 23]
+
+***
+
+I think I’ve had enough of System Windows for a few months. Mia thought wryly, blinking the alien light of the white void that had surrounded her thus far out of her eyes as she looked around. She was back out in the real world, standing next to the Obelisk.
+
+Looking around, she couldn’t see any of her friends nearby. Was she the first to finish up and reemerge from the Obelisk?
+
+“The others are still inside?” Mia asked, looking at the nearest soldier keeping the crowd away from the Obelisk.
+
+“Yes, ma’am,” the man said, earning an owlish blink from Mia. ‘Ma’am’? Her? Really?
+
+“I guess I’ll wait for them then,” Mia mused. She could have maybe gone to find where Gabe had disappeared to, but she didn’t want to just disappear or get lost.
+
+‘Ah, finally!’ Sparkle buzzed in her ears, plopping down on her shoulder in his pixie form. ‘Your mana, what did you do with it?’
+
+‘Arcane Blood and Mana Refinement,’ Mia said, projecting the answer at him. ‘Why?’
+
+‘Just noticed it was denser than it should have been,’ Sparkle said, shrugging. ‘You also chose to open your Astral Meridian, that’s good. I approve. Also, now that we are finally of the same Rank the Bond will weigh on you much less. Once you catch up to me in Levels, you won’t feel the strain at all.’
+
+Now that he mentioned it, she did feel like a weight had been lifted off her shoulders … or rather, her Spirit. She’d gotten so used to the constant strain the Bond placed on her that she had all but forgotten about it.
+
+‘Which means my mana capacity got even larger? Even beyond just what those extra three points in Spirit gave me, right?’ Mia asked.
+
+‘Yep.’ Sparkle replied. Huh. Neat. ‘Oh, lookie, Red is back.’
+
+Sure enough, Carmilla stood before the Obelisk, looking a bit out of sorts, shaking her head and blinking repeatedly.
+
+“Camie?” Mia asked, a hint of worry slipping into her tone. “Are you alright?”
+
+The vampiress whirled around, staring at Mia, and for some reason that stare felt … heated. Wait, was she blushing?
+
+“Y-yes,” Camie said. “I’m fine. Perfectly fine. Better than ever, actually.”
+
+She put a grin on her face, and it felt genuine enough, so Mia decided to accept it, despite the weirdness of the girl’s initial reaction. If it were important, Camie would tell her later. Preferably, when there weren't dozens of nosy bystanders staring at them.
+
+“Alright then,” Mia said, eyeing her girlfriend for a moment before giving her a beaming smile. Camie did look better, not visually, but in the way she held herself. Less stressed, less … twitchy. Like a weight had been lifted off her shoulders. Mia was happy for her, whatever it was.
+
+The two of them settled in to wait, doing their best to ignore the nosy crowd. Some tried asking questions, but Mia decided that acting deaf was for the best. If she acknowledged and answered one question, suddenly dozens more would feel their questions deserved to be answered, too.
+
+Her antisocial little heart was already having trouble with this much unwelcome attention.
+
+Thankfully, the others were spat back out by the Obelisk over the following minutes, and not long after, they were off, pushing their way through the crowd and led towards wherever Zeigler was currently holed up. Mia hoped it was only to meet up with Gabe before leaving, but she somehow doubted they’d escape that easily.
+
+It was even more annoying because she was just dying to know what Traits her friend bought from the System Shop. But no, she’d probably have to deal with politics, or at the very least, something adjacent to it. Bleh.
+
+They arrived at the old feast hall of the castle that Zeigler had turned into his command room in short order, and Mia’s eyes quickly found Gabe standing off to the side with his arms crossed. The stoic, borderline frigid look on his face made her steps falter a little.
+
+That expression didn’t fit him, like, at all. The Gabe she remembered always had a small smile tugging at his lips and was quick to smile. Thankfully, the cold indifference melted off his face as his gaze landed on their group, but it didn’t fade from Mia’s mind. Five years. Just what did he have to go through in those five years stuck in a foreign realm that made him default to an expression like that?
+
+She tore her gaze away from him, taking note of the other handful of Rank 1 people scattered around the room. Some wore soldiers’ fatigues, but the most noteworthy dozen stood before Zeigler. All of them Mia recognised from the Raid.
+
+“And that rounds up everyone that needs to be here,” Zeigler said, his tired brown eyes taking them in as they took their spot next to the others. “Good. I called you all here because we need to have a talk. Specifically, about the future of this city and what role you want to take in it.”
+
+“‘Want’?” someone spoke up, and Mia faintly recalled him being one of Aiden’s friends. So a Unionist. “We all know you all but declared yourself the Lord of Graz.”
+
+“It was either that, or not activating the Barrier that is keeping all the monsters wandering the wilderness beyond the city limits outside,” Zeigler said, massaging his brows in apparent consternation. “And it is a temporary role. I must relinquish it within the week or the Obelisk will boot me out into the monster-infested wilderness. At the end of this week, there will be a proper … election. Fine, let’s start with that topic then. We need to decide what form the new governing body of Graz will take, and how we elect its members. The Obelisk, or the System rather, gave me a list of options I can choose from, and I wrote it all down for you.”
+
+He gestured at one of the whiteboards nailed to the walls, and Mia squinted at it. There were … a lot of options, more than she could count at a glance. It had to be dozens, maybe as many as a hundred.
+
+There were at least fifty different variations of an elected government. One in which the City Lord was elected by the fifty highest-Level people present and held the post until death. One where it was the same, but with a five-year term of office; another where his firstborn would inherit the title, as in the noble dynasties of old. One where he could be reelected after a term, one where he couldn't. There were options with a Senate, with a ruling council, one where two Lords shared power like the kings of ancient Sparta … a tournament? Really? Other than that, they could also choose to decide who their mayor was by holding a free-for-all brawl? It seemed as if someone could think of a way to elect a leader, then the System added that to the list of options.
+
+“To decide on an option, I will need a majority agreement from the hundred strongest people in the city,” Zeigler said. “I’d call a proper vote, but I would much rather we get this done quickly. By my estimation, if all of your teams vote on a single option, it will have the majority vote by default.”
+
+“What happens if the majority can’t agree?” Brent asked the most pressing question. Smart enough, considering the kind of trouble it caused when no political party held a majority in parliament.
+
+“Then the System calls a vote, through a system window, and the option with the most votes wins,” Zeigler said. “We have until the week’s end. But! This is far from the only reason I requested all of your presence. You can take a few days to think over this City Lord business. Back to my initial question, what do you want to do? What are your plans going forward? Should I plan ahead with your assistance in mind, considering the Rifts near the city and the monsters crawling around in the forests near it?”
+
+Huh. Now wasn’t that a question and a half?
+
+“I think the majority of our team will be taking a few weeks of very deserved rest after this clusterfuck,” Mark said. “Personally, fuck me if I know. We’ll see once I have a few days of actual rest without a monster trying to eat my face or a beastkin trying to shank me in my sleep.”
+
+Mia nodded absently, agreeing with her friend’s thought process. She would probably need a few days to let everything that’d happened fully sink in. She could make proper plans afterwards.
+
+“I doubt we’ll stop fighting monsters altogether, though,” Mia added. “Just at a more … relaxed pace. I’ll need test dummies for all the new spells I’m about to learn.”
+
+But first, she is doing that goddamned ritual. Mia vowed she would devote her focus to that stupid thing and finally get it over with before doing much of anything else. She would just need to find out wherever Nikki had disappeared to, and then they could knock it out in a few hours with all the materials she’d gotten from the Raid Rewards.
+
+“I am of the same mind as Mia,” Sebastian said. “These last few weeks have been immensely stressful. We need at least a week to even decide whether we are cut out for this monster-slaying work now that everything is taken care of.”
+
+“I wouldn’t say that everything is taken care of,” Zeigler said, sounding tired and annoyed at the same time. “This Barrier that keeps all monsters out is a temporary thing. I can only keep it active for a few days per month; afterwards, all we’ll have protecting us from the monsters outside the city will be a deterrence field. The only thing the Obelisk passively negates is the spawning of new rifts within ten kilometres of it.”
+
+“What is this … deterrence field?” Brent asked.
+
+“It keeps the monsters from approaching the city.” It was Gabe who answered, surprisingly. “Its strength scales with the Level of the Users under the Obelisk’s aegis. With me here, it will keep all monsters under Level 80 or thereabouts away. However, some of the more intelligent, sapient monsters can resist this effect if they are near that Level.”
+
+“Fortunately, there should be no monsters of that Level wandering around for a few more months,” Zeigler said, sounding even more tired. “However, according to Sir Vexley, we will eventually need to deal with things on that level due to being in a … mana-rich environment."
+
+‘Sir’ Vexley? Mia raised an eyebrow at her brother, but he just shrugged nonchalantly. Did he become a knight in the Mystic Realm, or something that he didn’t get flustered from being called that?
+
+“I will be handling any wandering monster that you can’t,” Gabe said. “But I can’t dive any Rifts below Rank 3, and besides, I can’t be everywhere at once. If I am the only Rank 3 by the time Rifts of the same Rank start spawning by the dozens all around the Alps, then I’m just going to grab my family and leave before the city is razed to the ground.”
+
+The ensuing silence that followed that statement was thick with tension, and Mia stared at her brother with a frown. Well … logically, he was right. He’d get overwhelmed and killed if there really were going to be dozens of Rank 3 Rifts surrounding the city, vomiting up Elite monsters week after week.
+
+He was right; they couldn’t get complacent. A grimace flickered across Mia’s face, realising that the statement might have been partially aimed at her. Just because Gabe was here, it didn’t mean he could solve every problem all by himself. He was just a single person, even if a ridiculously powerful one.
+
+Did he really think they could get to the same Level as him in only a few months when it took him five years? Or did he think that it was a ‘do or die’ sort of situation?
+
+No. The situation couldn’t be that dire. Gabe mentioned how the people in power kept Rifts for themselves, gatekeeping power. He’d probably spent the majority of those five years fighting for the ‘privilege’ of getting to fight for his life in a Rift. Meanwhile, they were drowning in Rifts here. Nikki had also mentioned something to that effect, saying that what the people of Earth considered the literal apocalypse was an opportunity of a lifetime. An opportunity so great that Nikki, a probably pampered noble lady, decided to throw away all her privileges for it.
+
+“There is another issue we need to deal with,” Zeigler said, changing the topic with the subtlety of a brick to the face. Though it seemed like he was too done with everything to care about subtlety. “The beastkin. The majority are scattered and hiding in the city's deserted areas, with some even escaping into the forests. I don’t care about the latter, but the ones inside the city need to be … subdued. They’ve caused enough problems to let them grow into another one.”
+
+“I hope you aren’t planning a genocide,” Sebastian said, a warning clear in his voice, but Zeigler just snorted and shook his head.
+
+“No,” Zeigler said dryly. “I’m not a monster, and I am smarter than to think I wouldn’t be plastered across the nearest wall if I ever gave to command anyway. No. We won’t be committing genocide … but these beastkin are criminals. Raiders, murderers, thieves. I could list every violent crime in existence, and the majority of them would have been committed by one or more of them in this city. They cannot be allowed to just go free without punishment. They need to be captured, and even if we can’t throw them into a proper prison, they need to be separated and watched. I won’t stand for another ‘Werewolf King’ rising in this city.”
+
+That put a serious frown on everyone’s faces. Nobody wanted to have another civil war during the goddamned apocalypse. It was the height of idiocy.
+
+“I would like to add that these beastkin … I think they should be considered to have committed those crimes after being forcefully drugged,” Gabe said, arms crossed and a severe frown on his face. “It doesn’t make it right, but they took to their new species the worst out of any other group. Beastkin usually grows up in packs, or equivalents of one. They have families, clans, actual packs, or other types of close-knit groups, depending on the race. The older ones support the younger ones, and they have two decades to get used to their instincts. The ones here grew up human and had to go through the beastkin equivalent of puberty, just much worse, in months. For example ... imagine that you've never in your life had to deal with having adrenaline, endorphine and dopamine in your system, and then suddenly your entire system is drenched in them all. Natural beastkin have their entire lives to learn how to deal with it, but these people? They didn't. What happened here is not normal, I’ve never heard of something this … extreme happening.”
+
+Mia frowned, thinking it over, but couldn’t really bring herself to care. Some beastkin managed to resist that weird pack-mentality of theirs. Maybe they weren’t hit quite as hard by beastkin puberty or whatever, but still. It shouldn’t have been that hard to just … not kill random innocent civilians.
+
+Hell, every elf she’d met so far looked like they wanted to strangle her with their own bare hands due to her weird state, and yet, not one actually tried. Then there was Carmilla. If the vampire could resist her urges, then no one else had any right to claim they weren’t in control of themselves.
+
+Sure, Camie had Mia and other friends to keep her from being too impulsive, and also had her Bloodline memories, but still. Vampire. They were practically known for losing control when thirsty.
+
+“I want solutions,” Zeigler said. “As horrible as it sounds, the only thing I can think of right now is … putting them in walled-off camps.”
+
+“We could exile them from the city,” someone said, and Mia turned to the woman with an aghast look on her face. “What? Fuck ‘em. I don’t want to waste manpower and resources on assholes who rob and assault random elderly civilians for shits and giggles.”
+
+“That’s basically a death sentence,” Brent said.
+
+“But it isn’t.” The woman shrugged. “They might survive it.”
+
+“I am not against considering the death sentence or exile as a punishment for the worst murderers,” Zeigler said darkly. “But only if it’s the result of a proper ruling. I think we should save those cases for when we have a proper government. Besides, we need to catch them first. The majority of them are still on the run.”
+
+“Trying to reintegrate them back into our society is just asking to get them lynched,” one of Jeff’s lieutenants said. “The people are rightfully upset with them … we’d had to stop a group from assaulting our healer just the other day. The poor woman wasn’t even part of that idiotic pack of theirs either, so it was just pure stupid mob mentality and hate.”
+
+“Sending the better ones over to another city is also an option,” Gabe said, earning a lot of raised eyebrows and questioning looks, making him elaborate quickly. “Once the city has a more permanent government, it can choose to come under the aegis of a Faction. Vienna and a handful of other cities have already joined Marshal Reinhardt’s Faction, and once they did, the Obelisks allowed free travel between the cities without the need for Tokens.”
+
+“But first, we need to capture them,” Zeigler said. “And I would like to ask for the assistance of anyone who is willing. My Diviner can pinpoint where large groups of them are hiding, but unfortunately, I don’t think my soldiers are strong enough to capture them without some casualties.”
+
+“I will assist,” Gabriel said before anyone else could. “I should be able to catch the largest groups of them in an hour or two.”
+
+“If we weren’t redundant, my team would also like to help,” Maven said.
+
+A few more people spoke up, but Mia wasn’t among them, nor were any of her teammates. They’d had enough fighting for a good while, and this job felt like a thankless one. Besides, Gabe would handle it. Mia really didn’t want to put herself in a position where she would have to fight people again if she could help it. Not again. She had a ritual to perform and some runic lexicons that needed to be studied.
