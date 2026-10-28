@@ -47,6 +47,8 @@
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/total-remaining-in-words.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/total-remaining.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/unit-words.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/watchable.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/watchable.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/within-collections.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/within-collections.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/reading/author-collection/author-collection.page-type.types.ts","typed":true,"deferred":false}

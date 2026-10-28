@@ -1,9 +1,11 @@
 {"propertySlug":"import","fileName":"streaming-service.page-type.ts","path":"alan/collection/properties/parts-streaming-on.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"streaming-service.page-type.ts","path":"alan/collection/properties/watchable.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"streaming-service.page-type.ts","path":"command/pages/watching/hallmark/watching-hallmark.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"streaming-service.page-type.ts","path":"command/pages/watching/log/modules/title-streaming/title-streaming.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"streaming-service.page-type.ts","path":"command/pages/watching/log/watching-log.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"streaming-service.page-type.ts","path":"command/pages/watching/modules/service-relating/service-relating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"streaming-service.page-type.ts","path":"command/pages/watching/modules/service-relating/service-relating.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"streaming-service.page-type.types.ts","path":"alan/collection/properties/watchable.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"streaming-service.page-type.types.ts","path":"alan/collection/watching/streaming-service/pages/adult-swim.streaming-service.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"streaming-service.page-type.types.ts","path":"alan/collection/watching/streaming-service/pages/amasian-tv.streaming-service.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"streaming-service.page-type.types.ts","path":"alan/collection/watching/streaming-service/pages/amazon-mx-player.streaming-service.ts","typed":true,"deferred":false}
