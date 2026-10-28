@@ -276,6 +276,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/family-onset-age.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/fish-servings-per-week.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/fruit-vegetable-grams-per-day.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/hot-baths-per-week.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/legume-servings-per-week.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/meat-servings-per-week.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/medication-dose-mg.number-property.ts","typed":true,"deferred":false}

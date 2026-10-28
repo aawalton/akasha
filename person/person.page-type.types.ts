@@ -14,6 +14,7 @@ import type { FluVaccination } from "akasha/person/properties/flu-vaccination.se
 import type { FruitVegetableGramsPerDay } from "akasha/person/properties/fruit-vegetable-grams-per-day.number-property.types.ts"
 import type { HasSafetyPlan } from "akasha/person/properties/has-safety-plan.boolean-property.types.ts"
 import type { HealthConditions } from "akasha/person/properties/health-conditions.record-property.types.ts"
+import type { HotBathsPerWeek } from "akasha/person/properties/hot-baths-per-week.number-property.types.ts"
 import type { InTherapyForDepression } from "akasha/person/properties/in-therapy-for-depression.boolean-property.types.ts"
 import type { LegumeServingsPerWeek } from "akasha/person/properties/legume-servings-per-week.number-property.types.ts"
 import type { MeatServingsPerWeek } from "akasha/person/properties/meat-servings-per-week.number-property.types.ts"
@@ -63,6 +64,7 @@ export type Person = Domain & {
   fishServingsPerWeek?: FishServingsPerWeek
   coffeeCupsPerDay?: CoffeeCupsPerDay
   saunaSessionsPerWeek?: SaunaSessionsPerWeek
+  hotBathsPerWeek?: HotBathsPerWeek
   vo2max?: Vo2max
   socialIsolation?: SocialIsolation
   seatbeltUse?: SeatbeltUse

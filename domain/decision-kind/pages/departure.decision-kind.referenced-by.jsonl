@@ -3927,6 +3927,7 @@
 {"propertySlug":"decision-kind","path":"person/properties/scheme.select-property.ts","id":"01a16fce-01a9-77c2-be47-524e47ddf6b2"}
 {"propertySlug":"decision-kind","path":"person/properties/seat-notice.select-property.ts","id":"01a16fdf-e6d0-7c8b-9da3-5dd86297ad3d"}
 {"propertySlug":"decision-kind","path":"person/properties/seat-notices.record-property.ts","id":"01a16fdf-e6d0-7bd8-8a04-08d4c1d3b2ce"}
+{"propertySlug":"decision-kind","path":"person/properties/social-isolation.select-property.ts","id":"01a18411-4183-7147-9e7b-e6b1d692817f"}
 {"propertySlug":"decision-kind","path":"person/sms-consent/sms-consent.page-type.ts","id":"019f830f-5026-7e88-9c08-a7cb23b14ef1"}
 {"propertySlug":"decision-kind","path":"person/sms-consent/wording/sms-consent-wording.page-type.ts","id":"01a0e2c7-84b5-7ccd-9573-77448bf87556"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/closeness-level.page-type.ts","id":"01a0540e-5111-7164-acb3-f776b18d8b45"}
