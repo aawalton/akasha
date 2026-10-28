@@ -41,7 +41,9 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/kofi/stripe/modules/movement/movement.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-shelves/innworld-shelves.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/chapter/narration/modules/abilities/narration-abilities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/chapter/narration/modules/telling/narration-telling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/mechanics/stat-groups/modules/stat-grouping/stat-grouping.module.code.ts","typed":false,"deferred":false}

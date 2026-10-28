@@ -76,6 +76,14 @@ describe("spokenWindow", () => {
     ).toEqual(["Advanced Attribute Unlocked: Talented."])
   })
 
+  test("a title is said by what its world calls a title, or as a Title", () => {
+    const window = { kind: "title", name: "Consume another soul" }
+    expect(spokenWindow(window, new Map(), new Map(), new Set(), "Achievement")).toEqual([
+      "Achievement earned: Consume another soul.",
+    ])
+    expect(spokenWindow(window)).toEqual(["Title earned: Consume another soul."])
+  })
+
   test("a level up says the level reached", () => {
     expect(spokenWindow({ kind: "level-up", level: 4 })).toEqual([
       "Level up.",

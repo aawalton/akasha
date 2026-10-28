@@ -1,6 +1,9 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type { Asked } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
 import {
   abilityTitleIn,
@@ -40,10 +43,13 @@ import {
   statGroupSlugsIn,
 } from "akasha/story/world/mechanics/stat-groups/modules/stat-grouping/stat-grouping.module.code.ts"
 import { worldStatGroup } from "akasha/story/world/mechanics/stat-groups/world-stat-group.page-type.ts"
+import { worldTitle } from "akasha/story/world/mechanics/titles/world-title.page-type.ts"
+import { titleName } from "akasha/story/world/properties/title-name.text-property.ts"
 import {
   askedLoudly,
   reportThrown,
 } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
+import { world } from "akasha/story/world/world.page-type.ts"
 import { useEffect, useState } from "react"
 
 function ReadoutGrid({ record }: { record: Record<string, number> }) {
@@ -332,9 +338,39 @@ function ClassCard({ className }: { className: string }) {
   )
 }
 
+const WORLD_KEY = "world"
+
+const TITLE_NAME_KEY = exportedAs(titleName.propertySlug)
+
+const TITLE = "Title"
+
+const ACQUIRED = " Acquired"
+
+async function titleNameOf(name: string): Promise<string | null> {
+  const titles = valuesOf(
+    await askedLoudly({
+      "page-type": worldTitle.slug,
+      where: { title: { is: name } },
+      keys: [WORLD_KEY],
+    })
+  )
+  const slug = slugIn(textIn(titles[0]?.[WORLD_KEY]) ?? "")
+  if (slug === null || slug === "") return null
+  const worlds = valuesOf(
+    await askedLoudly({
+      "page-type": world.slug,
+      where: { slug: { is: slug } },
+      keys: [TITLE_NAME_KEY],
+    })
+  )
+  return textIn(worlds[0]?.[TITLE_NAME_KEY])
+}
+
 function TitleCard({ title }: { title: string }) {
+  const named = useAsked(title, titleNameOf)
+  const banner = named === undefined ? UNSETTLED : `${named ?? TITLE}${ACQUIRED}`
   return (
-    <WindowFrame banner="Title" bannerClass="text-accent">
+    <WindowFrame banner={banner} bannerClass="text-accent">
       <div className="font-mono font-semibold text-[14px] text-primary">{title}</div>
     </WindowFrame>
   )

@@ -81,6 +81,7 @@ export type WorldAbilities = {
   readonly slottedAbilities: ReadonlySet<string>
   readonly heldAbilities: ReadonlyMap<string, HeldAbility>
   readonly statGroupTitles: ReadonlySet<string>
+  readonly titleName: string | null
 }
 
 export const NO_ABILITIES: WorldAbilities = {
@@ -88,15 +89,18 @@ export const NO_ABILITIES: WorldAbilities = {
   slottedAbilities: new Set(),
   heldAbilities: new Map(),
   statGroupTitles: new Set(),
+  titleName: null,
 }
 
 export function worldAbilitiesOf(
   skills: readonly Values[],
   kinds: readonly Values[],
-  statGroups: readonly Values[] = []
+  statGroups: readonly Values[] = [],
+  titleName: string | null = null
 ): WorldAbilities {
   const titles = skills.flatMap((one) => textIn(one[TITLE_KEY]) ?? [])
   return {
+    titleName,
     statGroupTitles: new Set(statGroups.flatMap((one) => textIn(one[TITLE_KEY]) ?? [])),
     abilityKinds: abilityKindTitlesOf(skills, kinds),
     slottedAbilities: slottedTitlesOf(skills, kinds),

@@ -35,6 +35,10 @@ export const windowSpeaking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A title's window is said by what its world calls a title, or Title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A fenced screen in a chapter is said one line at a time.",
     },
     {
@@ -48,5 +52,5 @@ export const windowSpeaking = {
     },
   ],
   createdAt: "2026-10-05T20:26:35.515Z",
-  updatedAt: "2026-10-28T16:30:58.877Z",
+  updatedAt: "2026-10-28T17:16:52.418Z",
 } as const satisfies Module

@@ -112,7 +112,8 @@ export function spokenWindow(
   window: WrittenWindow,
   abilityKinds: ReadonlyMap<string, string> = NO_KINDS,
   heldAbilities: ReadonlyMap<string, HeldAbility> = NO_HELD,
-  statGroupTitles: ReadonlySet<string> = NO_GROUPS
+  statGroupTitles: ReadonlySet<string> = NO_GROUPS,
+  titleName: string | null = null
 ): string[] {
   const { kind, name, rung, level, note } = window
   const abilityKind = abilityKinds.get(name ?? "") ?? SKILL
@@ -161,7 +162,7 @@ export function spokenWindow(
     case "class":
       return sentences(named("Class", name), levelSentence(level), ...noteSentences(note))
     case "title":
-      return sentences(named("Title earned", name), ...noteSentences(note))
+      return sentences(named(`${titleName ?? "Title"} earned`, name), ...noteSentences(note))
     default:
       return sentences(
         named(kindSaid(kind), name),

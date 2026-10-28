@@ -19,7 +19,11 @@ export const narrationAbilities = {
       decisionKind: "decision-kind/departure",
       statement: "Stat groups the store refuses leave the abilities said as they would be.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The world is asked what it calls its titles, and one naming none says Title.",
+    },
   ],
   createdAt: "2026-10-28T16:30:58.877Z",
-  updatedAt: "2026-10-28T16:30:58.877Z",
+  updatedAt: "2026-10-28T17:16:52.418Z",
 } as const satisfies Module

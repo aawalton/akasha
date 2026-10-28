@@ -5,8 +5,9 @@ export const gifted = {
   type: "page-type/world",
   slug: "gifted",
   title: "Gifted",
+  titleName: "Achievement",
   description:
     "A world of humans, elves, dwarves, orcs, goblins and beastkin, where the Myriad Paths keeps a Status for every soul and every effort walks it further along its Paths.",
   createdAt: "2026-09-28T20:27:04.752Z",
-  updatedAt: "2026-10-27T19:33:43.164Z",
+  updatedAt: "2026-10-28T17:16:52.418Z",
 } as const satisfies World

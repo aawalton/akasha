@@ -47,7 +47,12 @@ export const systemWindowCard = {
       decisionKind: "decision-kind/departure",
       statement: "An award naming a stat under its group's title is drawn as that stat Unlocked.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A title's card is headed by what its world calls a title, or Title, and Acquired.",
+    },
   ],
   createdAt: "2026-09-02T17:25:53.928Z",
-  updatedAt: "2026-10-28T16:18:13.147Z",
+  updatedAt: "2026-10-28T17:16:52.418Z",
 } as const satisfies Module
