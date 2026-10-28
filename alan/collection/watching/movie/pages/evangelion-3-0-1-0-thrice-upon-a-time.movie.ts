@@ -15,9 +15,10 @@ export const evangelion3010ThriceUponATime = {
       source: "tmdb",
       externalId: "283566",
       externalLink: "https://www.themoviedb.org/movie/283566",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Evangelion: 3.0+1.0 Thrice Upon a Time",
   createdAt: "2026-10-28T18:45:26.960Z",
-  updatedAt: "2026-10-28T18:45:26.960Z",
+  updatedAt: "2026-10-28T19:47:04.928Z",
 } as const satisfies Movie
