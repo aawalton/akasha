@@ -2226,6 +2226,18 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-note-s01e35.episode.ts","id":"01a183d2-adb2-7890-ac34-532829ebe230"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-note-s01e36.episode.ts","id":"01a183d2-adb2-7662-9fce-044601b72e28"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-note-s01e37.episode.ts","id":"01a183d2-adb2-7721-8484-8e2d021430a4"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e01.episode.ts","id":"01a183da-6629-7e43-a24b-3cbc8db1935a"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e02.episode.ts","id":"01a183da-6629-73e8-980f-f3ebdd0da309"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e03.episode.ts","id":"01a183da-662a-716f-ab03-6cc866287ca6"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e04.episode.ts","id":"01a183da-662a-7518-8e68-fe72c16dad45"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e05.episode.ts","id":"01a183da-662a-75f1-9879-93048aafad84"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e06.episode.ts","id":"01a183da-662a-7e1b-af7f-5090ebf76ed0"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e07.episode.ts","id":"01a183da-662a-7c51-8cfd-3e49448fbd40"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e08.episode.ts","id":"01a183da-662a-7e92-ba13-7e8f5194ee4f"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e09.episode.ts","id":"01a183da-662a-746d-accd-193606e82051"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e10.episode.ts","id":"01a183da-662a-778b-8a38-609b2abb19dc"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e11.episode.ts","id":"01a183da-662a-723d-8cb0-cf0e14af3d96"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/death-parade-s01e12.episode.ts","id":"01a183da-662a-7b2c-9adb-8cdebba0fcb2"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/demon-slayer-kimetsu-no-yaiba-s01e01.episode.ts","id":"01a183d2-f129-7398-8270-f10454d6c8c6"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/demon-slayer-kimetsu-no-yaiba-s01e02.episode.ts","id":"01a183d2-f129-752e-a0b2-5ef3f9053b74"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/demon-slayer-kimetsu-no-yaiba-s01e03.episode.ts","id":"01a183d2-f129-751e-9e76-86b30c023794"}
@@ -8386,6 +8398,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/cyberpunk-edgerunners-season-2.season.ts","id":"01a183da-5751-76aa-b1db-3d22ca8dc439"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/daredevil-born-again-season-1.season.ts","id":"01a06802-b8b8-7047-b85d-8f920cec8585"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/death-note-season-1.season.ts","id":"01a183d2-adb2-7e81-84c2-54b0b0926296"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/death-parade-season-1.season.ts","id":"01a183da-662b-7880-9e85-ea603f2c32cd"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/demon-slayer-kimetsu-no-yaiba-season-1.season.ts","id":"01a183d2-f12d-7606-baa9-1d8066c9efe3"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/demon-slayer-kimetsu-no-yaiba-season-2.season.ts","id":"01a183d2-f12d-76d5-92bf-60af81091cc8"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/demon-slayer-kimetsu-no-yaiba-season-3.season.ts","id":"01a183d2-f12d-7b3f-bafc-e862c33bfb33"}
@@ -9224,6 +9237,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/daredevil-born-again.show.ts","id":"01a06802-9331-7018-8a1b-d262fe2ccc4e"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/daredevil.show.ts","id":"01a06802-9331-7017-adc1-8d535db36d7b"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/death-note.show.ts","id":"01a183d2-adb2-7273-9aa9-e19191c681d9"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/death-parade.show.ts","id":"01a183da-662b-7044-9b61-1ac6526df9c8"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/demon-slayer-kimetsu-no-yaiba.show.ts","id":"01a183d2-f12d-75da-b2fc-2230cf9b3148"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/dept-q.show.ts","id":"01a06802-9331-7019-b91d-07a999ffa900"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/dimension-20.show.ts","id":"01a06802-9331-701a-ab01-1f10cfc9a398"}
