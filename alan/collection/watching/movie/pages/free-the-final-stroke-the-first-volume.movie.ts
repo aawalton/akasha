@@ -15,9 +15,10 @@ export const freeTheFinalStrokeTheFirstVolume = {
       source: "tmdb",
       externalId: "738091",
       externalLink: "https://www.themoviedb.org/movie/738091",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Free! the Final Stroke the First Volume",
   createdAt: "2026-10-28T18:48:42.815Z",
-  updatedAt: "2026-10-28T18:48:42.815Z",
+  updatedAt: "2026-10-28T19:47:15.590Z",
 } as const satisfies Movie
