@@ -49,7 +49,23 @@ export const timeProbeWorldSquare = {
       fact: "A wooden bucket sits on the rim of the square's well, its rope coiled beside it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Around midday a few townsfolk cross the square between the hall and the shop, unhurried.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Now and then someone stops at the well to draw a bucket and nods to whoever sits on the bench.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pigeons pick at the cobbles round the well and scatter when anyone walks through them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At twenty to one the carter pulls his loaded cart into the square, calling for a hired sword.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-28T01:44:02.797Z",
-  updatedAt: "2026-10-28T01:44:02.797Z",
+  updatedAt: "2026-10-28T01:50:38.962Z",
 } as const satisfies Place

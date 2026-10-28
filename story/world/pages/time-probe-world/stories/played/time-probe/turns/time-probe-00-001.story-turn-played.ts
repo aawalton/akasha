@@ -9,6 +9,7 @@ export const timeProbe00001 = {
   position: 1,
   stepStatus: "step-status/world-builder",
   action: "I sit on the bench by the well and watch the square for a while.",
+  interruptsAt: "2026-11-13T12:40:00.000Z",
   createdAt: "2026-10-28T01:45:29.572Z",
-  updatedAt: "2026-10-28T01:45:29.572Z",
+  updatedAt: "2026-10-28T01:50:38.962Z",
 } as const satisfies StoryTurnPlayed
