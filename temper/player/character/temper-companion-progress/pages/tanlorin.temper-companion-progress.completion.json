@@ -1,56 +1,13 @@
 {
   "build": {
-    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
-    "weapons": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Bow, Quickened",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        },
-        "displayText": "Empty",
-        "isEmpty": true
-      }
-    },
     "mainHandWeaponType": 8,
-    "companionId": 12,
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      }
+    "skillAbilityIds": {
+      "1": 214948,
+      "2": 214703,
+      "3": 214865,
+      "4": 152863,
+      "5": 215001,
+      "6": 215215
     },
     "armor": {
       "1": {
@@ -59,8 +16,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Medium, Focused",
-        "isEmpty": false
+        "isEmpty": false,
+        "displayText": "Medium, Focused"
       },
       "2": {
         "qualityColor": {
@@ -68,8 +25,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Medium, Focused",
-        "isEmpty": false
+        "isEmpty": false,
+        "displayText": "Medium, Focused"
       },
       "3": {
         "qualityColor": {
@@ -77,8 +34,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Medium, Focused",
-        "isEmpty": false
+        "isEmpty": false,
+        "displayText": "Medium, Focused"
       },
       "4": {
         "qualityColor": {
@@ -86,8 +43,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Medium, Focused",
-        "isEmpty": false
+        "isEmpty": false,
+        "displayText": "Medium, Focused"
       },
       "5": {
         "qualityColor": {
@@ -95,8 +52,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Medium, Shattering",
-        "isEmpty": false
+        "isEmpty": false,
+        "displayText": "Medium, Shattering"
       },
       "6": {
         "qualityColor": {
@@ -104,8 +61,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Medium, Shattering",
-        "isEmpty": false
+        "isEmpty": false,
+        "displayText": "Medium, Shattering"
       },
       "7": {
         "qualityColor": {
@@ -113,18 +70,61 @@
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Medium, Shattering",
-        "isEmpty": false
+        "isEmpty": false,
+        "displayText": "Medium, Shattering"
       }
     },
-    "skillAbilityIds": {
-      "1": 214948,
-      "2": 214703,
-      "3": 214865,
-      "4": 152863,
-      "5": 215001,
-      "6": 215215
-    }
+    "weapons": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false,
+        "displayText": "Bow, Quickened"
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        },
+        "isEmpty": true,
+        "displayText": "Empty"
+      }
+    },
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false,
+        "displayText": "Shattering"
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false,
+        "displayText": "Shattering"
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false,
+        "displayText": "Shattering"
+      }
+    },
+    "companionId": 12,
+    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA"
   },
   "targetBuildHash": "AjEAcASRJEkSRIEgTw8PDxDTEmyMMuUA",
   "level": 20,
