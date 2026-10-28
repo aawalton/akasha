@@ -11,9 +11,20 @@ export const assassinationClassroom = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "62110", externalLink: "https://www.themoviedb.org/tv/62110" },
+    {
+      source: "tmdb",
+      externalId: "62110",
+      externalLink: "https://www.themoviedb.org/tv/62110",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Assassination Classroom",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Netflix",
+    "Netflix Standard with Ads",
+  ],
   createdAt: "2026-10-28T18:47:20.244Z",
-  updatedAt: "2026-10-28T18:47:20.244Z",
+  updatedAt: "2026-10-28T19:43:27.381Z",
 } as const satisfies Show
