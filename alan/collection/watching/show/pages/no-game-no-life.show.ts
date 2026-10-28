@@ -11,9 +11,14 @@ export const noGameNoLife = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "60808", externalLink: "https://www.themoviedb.org/tv/60808" },
+    {
+      source: "tmdb",
+      externalId: "60808",
+      externalLink: "https://www.themoviedb.org/tv/60808",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "No Game No Life",
   createdAt: "2026-10-28T18:54:31.189Z",
-  updatedAt: "2026-10-28T18:54:31.189Z",
+  updatedAt: "2026-10-28T19:45:25.020Z",
 } as const satisfies Show
