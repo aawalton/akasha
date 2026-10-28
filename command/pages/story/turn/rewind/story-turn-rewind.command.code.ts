@@ -174,7 +174,7 @@ async function addedIn(
   return added
 }
 
-export type Undone = { readonly namings: readonly Naming[]; readonly report: readonly string[] }
+type Undone = { readonly namings: readonly Naming[]; readonly report: readonly string[] }
 
 export async function undoneOf(
   reach: Rewinding,
@@ -217,7 +217,7 @@ export async function undoneOf(
   return { namings, report }
 }
 
-export type Unmade = {
+type Unmade = {
   readonly namings: readonly Naming[]
   readonly asking: readonly Asking[]
   readonly report: readonly string[]
