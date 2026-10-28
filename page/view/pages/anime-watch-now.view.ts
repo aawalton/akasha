@@ -19,6 +19,7 @@ export const animeWatchNow = {
     { key: "progressed-at", comparison: "before-or-empty", values: ["eso-day"] },
     { key: "watchable", comparison: "is", values: ["true"] },
   ],
+  groupBy: "held-streaming-on",
   viewSorts: [
     { key: "completion-percent", descending: true },
     { key: "total-length", descending: false },
@@ -32,5 +33,5 @@ export const animeWatchNow = {
     "held-streaming-on",
   ],
   createdAt: "2026-10-28T22:00:00.000Z",
-  updatedAt: "2026-10-28T21:53:12.694Z",
+  updatedAt: "2026-10-28T22:05:43.924Z",
 } as const satisfies View
