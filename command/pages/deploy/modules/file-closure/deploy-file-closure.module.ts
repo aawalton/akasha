@@ -139,6 +139,11 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Whether a web app wants a deploy is judged over the very files its image is built from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refusal holds back every service built from a file in the folder it names.",
     },
     {
@@ -183,5 +188,5 @@ export const deployFileClosure = {
     },
   ],
   createdAt: "2026-09-11T17:49:21.836Z",
-  updatedAt: "2026-10-27T09:05:59.362Z",
+  updatedAt: "2026-10-28T19:41:52.473Z",
 } as const satisfies Module

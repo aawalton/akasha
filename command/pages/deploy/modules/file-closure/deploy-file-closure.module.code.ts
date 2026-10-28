@@ -77,6 +77,7 @@ export type Reading = {
   readonly tracked: readonly string[]
   readonly bodyAt: Body
   readonly over: (seeds: readonly string[], onward?: Onward) => ReadonlySet<string>
+  readonly reach: (seeds: readonly string[]) => ReadonlySet<string>
   readonly pages?: string | Pages
 }
 
@@ -87,6 +88,8 @@ function everyOnward(): boolean {
 export function readingOver(tracked: readonly string[], bodyAt: Body, index: Answering): Reading {
   const bodies = memoized(bodyAt)
   const every = new Set(tracked)
+  const globbed = new Map<string, readonly string[]>()
+  const asked = { index, bodyAt: bodies, through: (one: string) => every.has(one) }
   return {
     tracked,
     bodyAt: bodies,
@@ -96,6 +99,7 @@ export function readingOver(tracked: readonly string[], bodyAt: Body, index: Ans
       const through = (one: string): boolean => onward(one) && (seeded.has(one) || every.has(one))
       return new Set(closureOf(imports, held, { index, bodyAt: bodies, through }))
     },
+    reach: (seeds) => reachOf(seeds, tracked, asked, globbed),
   }
 }
 
@@ -287,7 +291,8 @@ export function closureIn(
   pages: string | Pages = reading.pages ?? root
 ): ReadonlySet<string> {
   const seeds = seedsFor(slug, read, reading.tracked, pages)
-  return closureWithImages(reading, seeds, namedByPage(pages), onwardOf(read.kind, root, pages))
+  const built = read.kind === WEB_APP && read.every !== true ? builtOver(reading, seeds) : seeds
+  return closureWithImages(reading, built, namedByPage(pages), onwardOf(read.kind, root, pages))
 }
 
 export function closuresOf(
@@ -401,25 +406,25 @@ export function styledFrom(carried: readonly string[], bodyAt: Body): readonly s
   return found
 }
 
+function builtOver(reading: Reading, seeds: readonly string[]): readonly string[] {
+  const every = new Set(reading.tracked)
+  let held = [...new Set(seeds)].filter((one) => every.has(one))
+  for (;;) {
+    const carried = carriedOver(reading.tracked, reading.reach(held), [])
+    const grown = [...new Set([...carried, ...styledFrom(carried, reading.bodyAt)])]
+    const next = grown.filter((one) => every.has(one))
+    if (next.length === held.length) return next
+    held = next
+  }
+}
+
 export function builtFrom(
   root: string,
   slug: string,
   pagePath: string,
   commit: string
 ): readonly string[] {
-  const tracked = trackedAt(root, commit)
-  const every = new Set(tracked)
-  const bodyAt = memoized(bodiesFrom(root, commit))
   const pages = pagesAt(root, commit)
-  const asked = { index: indexOver(pages), bodyAt, through: (one: string) => every.has(one) }
-  const named = new Map<string, readonly string[]>()
-  const seeds = seedsFor(slug, { kind: WEB_APP, pagePath }, tracked, pages)
-  let held = [...new Set(seeds)].filter((one) => every.has(one))
-  for (;;) {
-    const carried = carriedOver(tracked, reachOf(held, tracked, asked, named), [])
-    const grown = [...new Set([...carried, ...styledFrom(carried, bodyAt)])]
-    const next = grown.filter((one) => every.has(one))
-    if (next.length === held.length) return next
-    held = next
-  }
+  const reading = readingAt(root, commit, pages)
+  return builtOver(reading, seedsFor(slug, { kind: WEB_APP, pagePath }, reading.tracked, pages))
 }

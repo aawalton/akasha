@@ -74,6 +74,27 @@ test("what a service is built from is seeded from the pages its commit's reading
   expect(wantsIn(ROOT, one, "HEAD", { ...bare, pages: readingNone() }, changed)).toBe(false)
 })
 
+const STORY_PAGE = "apps/story/story.web-app.ts"
+
+const STORY_CODE = "apps/story/drawings.module.code.ts"
+
+const PLAYED = "stories/one/one.page-component.code.tsx"
+
+const STORY_BODIES: Readonly<Record<string, string>> = {
+  [STORY_CODE]:
+    'export const FOUND = import.meta.glob("../../stories/**/*.page-component.code.tsx", { eager: true })\n',
+  [PLAYED]: "export const one = 1\n",
+}
+
+test("a web app wants a deploy for a file its build reaches only through a glob", () => {
+  const one = { ...subject("web-app", "story"), pagePath: STORY_PAGE }
+  const tracked = [STORY_PAGE, STORY_CODE, PLAYED]
+  const index = indexOver(pagesAt(ROOT, "HEAD"))
+  const bare = readingOver(tracked, (at) => STORY_BODIES[at] ?? null, index)
+  const reading = { ...bare, pages: readingNone() }
+  expect(wantsIn(ROOT, one, "HEAD", reading, () => [PLAYED])).toBe(true)
+})
+
 test("one service nothing has put up is up at no commit", () => {
   const one = readAs(subject("web-app", "temper-web"))
   expect(upAlreadyAt(ROOT, "temper-web", one, null, "HEAD")).toBe(null)
