@@ -15,9 +15,11 @@ export const psychoPassSinnersOfTheSystemCase3OnTheOtherSideOfLoveAndHate = {
       source: "tmdb",
       externalId: "559566",
       externalLink: "https://www.themoviedb.org/movie/559566",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Psycho-Pass: Sinners of the System - Case.3 On the Other Side of Love and Hate",
+  streamingOn: ["Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:51:55.904Z",
-  updatedAt: "2026-10-28T18:51:55.904Z",
+  updatedAt: "2026-10-28T19:47:57.955Z",
 } as const satisfies Movie
