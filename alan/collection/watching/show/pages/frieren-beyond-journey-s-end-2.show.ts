@@ -5,6 +5,11 @@ export const frierenBeyondJourneySEnd2 = {
   type: "page-type/show",
   slug: "frieren-beyond-journey-s-end-2",
   title: "Frieren: Beyond Journey's End",
+  streamingOn: [
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
+  ],
   partOfCollections: ["fandom/frieren-beyond-journey-s-end"],
   position: 1,
   ownLength: 0,
@@ -19,7 +24,13 @@ export const frierenBeyondJourneySEnd2 = {
       externalLink: "https://trakt.tv/shows/frieren-beyond-journey-s-end",
       lastSyncedAt: "2026-01-02",
     },
+    {
+      source: "tmdb",
+      externalId: "209867",
+      externalLink: "https://www.themoviedb.org/tv/209867",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-28T21:25:51.554Z",
 } as const satisfies Show
