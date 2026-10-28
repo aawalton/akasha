@@ -11,9 +11,14 @@ export const blackClover = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "73223", externalLink: "https://www.themoviedb.org/tv/73223" },
+    {
+      source: "tmdb",
+      externalId: "73223",
+      externalLink: "https://www.themoviedb.org/tv/73223",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Black Clover",
   createdAt: "2026-10-28T18:51:11.067Z",
-  updatedAt: "2026-10-28T18:51:11.067Z",
+  updatedAt: "2026-10-28T19:43:36.020Z",
 } as const satisfies Show
