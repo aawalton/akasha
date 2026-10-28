@@ -6,6 +6,7 @@ export const sheetPanel = {
   slug: "sheet-panel",
   definition: "a character sheet in tabs, being stats, inventory, skills and traits",
   code: "tsx",
+  test: "tsx",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -50,7 +51,7 @@ export const sheetPanel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Resources are drawn one to a line, so a resource's name and its count never wrap.",
+        "Every stats section is one column, each stat on a row of its own across the card.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -155,5 +156,5 @@ export const sheetPanel = {
     },
   ],
   createdAt: "2026-09-02T14:52:27.089Z",
-  updatedAt: "2026-10-28T19:45:47.382Z",
+  updatedAt: "2026-10-28T20:59:02.892Z",
 } as const satisfies Module

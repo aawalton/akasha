@@ -22,9 +22,9 @@ export const sheetAttributes = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A number's name and its value sit on one row, the value wrapping on its own side.",
+        "Each number has a row of its own, the name at the left and the value wrapping at the right.",
     },
   ],
   createdAt: "2026-10-28T14:56:52.048Z",
-  updatedAt: "2026-10-28T14:56:52.048Z",
+  updatedAt: "2026-10-28T20:59:02.892Z",
 } as const satisfies Module

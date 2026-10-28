@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"design/interface/pattern/modules/use-filter-persistence/use-filter-persistence.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"story/ui/modules/place-head/place-head.module.test.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"story/ui/modules/sheet-panel/sheet-panel.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"story/world/stories/played/modules/chat-panel/chat-panel.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/web/modules/character-editor-header/character-editor-header.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/web/modules/characters-plan-empty/characters-plan-empty.module.code.tsx","typed":false,"deferred":false}

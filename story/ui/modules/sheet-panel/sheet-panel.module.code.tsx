@@ -136,12 +136,12 @@ function StatsTab({
       {points.length === 0 ? null : <LevelUp points={points} />}
       {showsStats && Object.keys(profile).length > 0 ? (
         <Section title="Profile">
-          <ScalarRows record={profile} single />
+          <ScalarRows record={profile} />
         </Section>
       ) : null}
       {showsStats && sheet.resources !== undefined ? (
         <Section title="Resources">
-          <ScalarRows record={sheet.resources} single />
+          <ScalarRows record={sheet.resources} />
         </Section>
       ) : null}
       {showsStats && sheet.attributes !== undefined ? (
@@ -149,7 +149,7 @@ function StatsTab({
       ) : null}
       {showsStats && Object.keys(derived).length > 0 ? (
         <Section title="Derived">
-          <ScalarRows record={derived} single />
+          <ScalarRows record={derived} />
         </Section>
       ) : null}
     </div>

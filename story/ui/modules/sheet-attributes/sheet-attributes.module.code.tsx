@@ -12,12 +12,10 @@ const ATTRIBUTES = "Attributes"
 
 const NO_GROUPS: readonly AttributeGroup[] = []
 
-export function ScalarRows({ record, single = false }: { record: Scalars; single?: boolean }) {
+export function ScalarRows({ record }: { record: Scalars }) {
   const entries = Object.entries(record)
   return (
-    <div
-      className={`grid ${single ? "grid-cols-1" : "grid-cols-2"} gap-x-[14px] gap-y-[7px] font-mono text-[12.5px]`}
-    >
+    <div className="flex flex-col gap-y-[7px] font-mono text-[12.5px]">
       {entries.map(([key, value]) => (
         <div
           key={key}
