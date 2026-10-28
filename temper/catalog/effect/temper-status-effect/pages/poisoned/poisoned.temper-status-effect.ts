@@ -7,8 +7,9 @@ export const poisoned = {
   title: "Poisoned",
   key: "poisoned",
   description: "Deals Poison Damage over time and applies Minor Cowardice",
+  esoAbilityId: 21929,
   effects: "jsonl",
   equations: ["<<1>> = 0.0144 MaxStat + 0.1512 MaxPower (Dmg, Poison, SingleTarget, DOT)"],
   createdAt: "2026-09-02T01:40:23.881Z",
-  updatedAt: "2026-10-28T21:27:41.270Z",
+  updatedAt: "2026-10-28T21:57:42.192Z",
 } as const satisfies TemperStatusEffect

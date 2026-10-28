@@ -7,8 +7,9 @@ export const chilled = {
   title: "Chilled",
   key: "chilled",
   description: "Applies Minor Maim, reducing damage done by 5%",
+  esoAbilityId: 21481,
   effects: "jsonl",
   equations: ["<<1>> = 0.008 MaxStat + 0.084 MaxPower (Dmg, Frost, SingleTarget, Direct)"],
   createdAt: "2026-09-02T01:40:23.878Z",
-  updatedAt: "2026-10-28T21:27:41.270Z",
+  updatedAt: "2026-10-28T21:57:42.192Z",
 } as const satisfies TemperStatusEffect
