@@ -117,7 +117,11 @@ export const giftedRebornNala = {
       fact: "Told to kick twice if she understood, she kicked twice.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "After she kicked twice, words opened in her mind, and she reads them without eyes, plain as print.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:11:43.431Z",
+  updatedAt: "2026-10-28T00:13:04.929Z",
 } as const satisfies Lore
