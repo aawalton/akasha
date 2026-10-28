@@ -1,5 +1,6 @@
 {
   "build": {
+    "mainHandWeaponType": 2,
     "weapons": {
       "1": {
         "isEmpty": false,
@@ -17,6 +18,44 @@
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
+        }
+      }
+    },
+    "hash": "AjEIRzHMcxzHMcxzExNTRzGzAAAAAAAA",
+    "skillAbilityIds": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0
+    },
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": false,
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
+        }
+      },
+      "3": {
+        "isEmpty": false,
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
         }
       }
     },
@@ -85,46 +124,7 @@
         }
       }
     },
-    "jewelry": {
-      "1": {
-        "isEmpty": false,
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "isEmpty": false,
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        }
-      },
-      "3": {
-        "isEmpty": false,
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        }
-      }
-    },
-    "companionId": 6,
-    "skillAbilityIds": {
-      "1": 0,
-      "2": 0,
-      "3": 0,
-      "4": 0,
-      "5": 0,
-      "6": 0
-    },
-    "hash": "AjEIRzHMcxzHMcxzExNTRzGzAAAAAAAA",
-    "mainHandWeaponType": 2
+    "companionId": 6
   },
   "targetBuildHash": "AjEAQAcwDAMAwDHMcxMTU0cxoA",
   "level": 20,
