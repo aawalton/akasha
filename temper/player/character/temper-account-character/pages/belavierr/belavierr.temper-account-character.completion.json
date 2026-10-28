@@ -13717,13 +13717,13 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1793218495,
+      "capturedAt": 1793218570,
       "buildHash": "ATQOSsTAAIBkBRMiijtAEIBCyjtuULJCljtuULJCljtuULJCljtuULJCljtuULJCljtuULIQaO1uULIQQbtnELIQQbtnELImETHaAIQERBMdLcoWUSgsGXxKc65SM7dwAOCGnEEAidEAIGAFAQhEAkANcEwbAdASHICaoUTJEyYYoMB0DQcQCYcIUISIzMxIjI1IAIyMSACISAyAAEyMDoyMDoiJkMzIDMAgiIjKjMSIyOsujXqMyLEmVjyZZcybOz6NOrXtn0KNKnU8VVjZWyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TEAIDIWIYJOwcgawAAAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
       "ultimate": 500,
-      "health": 23508,
-      "healthBefore": 22077,
+      "health": 18286,
+      "healthBefore": 23508,
       "healthPaired": false,
       "stats": {
         "stamina-recovery": 1337,
@@ -13797,10 +13797,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61665,
-          "name": "Major Brutality",
+          "abilityId": 61667,
+          "name": "Major Savagery",
           "description": "",
-          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
+          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
           "stacks": 0,
           "powerAtOnset": {
             "weapon": 4561,
@@ -13815,10 +13815,10 @@
           "stacks": 0
         },
         {
-          "abilityId": 61667,
-          "name": "Major Savagery",
+          "abilityId": 61665,
+          "name": "Major Brutality",
           "description": "",
-          "effect": "Increases your Critical rating by |cffffff2629|r, increasing your Critical Chance by |cffffff12|r%.\n",
+          "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0,
           "powerAtOnset": {
             "weapon": 4561,
@@ -15131,7 +15131,7 @@
         {
           "abilityId": 33090,
           "name": "Undeath",
-          "description": "Reduces your damage taken by up to |cffffff15|r% based on your missing Health.\n\nCurrent bonus: |cffffff1|r%"
+          "description": "Reduces your damage taken by up to |cffffff15|r% based on your missing Health.\n\nCurrent bonus: |cffffff4|r%"
         },
         {
           "abilityId": 135218,
@@ -15186,7 +15186,7 @@
       ],
       "inArchive": false,
       "blocking": false,
-      "moving": true,
+      "moving": false,
       "archiveBoons": [],
       "advanced": {
         "healing-critical-bonus": 0.12,
