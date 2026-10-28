@@ -96,6 +96,17 @@ declare function GetFurnitureSubcategoryId(
   subcategoryIndex?: number
 ): number
 declare function IsPrimaryHouse(this: void, houseId?: number): boolean
+declare function HousingEditorRequestItemPlacement(
+  this: void,
+  bagId?: Bag,
+  slotIndex?: number,
+  worldX?: number,
+  worldY?: number,
+  worldZ?: number,
+  pitchRadians?: number,
+  yawRadians?: number,
+  rollRadians?: number
+): HousingRequestResult
 declare function HousingEditorGetFurnitureWorldPosition(
   this: void,
   furnitureId?: Id64
@@ -114,6 +125,15 @@ declare function GetPlacedHousingFurnitureDisplayQuality(
   furnitureId?: Id64
 ): ItemDisplayQuality
 declare function GetCurrentHouseOwner(this: void): string
+declare function GetHouseFurnishingPlacementLimit(
+  this: void,
+  houseId?: number,
+  limitType?: HousingFurnishingLimitType
+): number
+declare function GetNumHouseFurnishingsPlaced(
+  this: void,
+  limitType?: HousingFurnishingLimitType
+): number
 declare function IsOwnerOfCurrentHouse(this: void): boolean
 declare function GetPlacedFurnitureLink(
   this: void,

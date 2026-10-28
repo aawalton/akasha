@@ -1,3 +1,10 @@
+declare function GetCollectibleForBag(this: void, bagId?: Bag): number
+declare function CanCombinationFragmentBeUnlocked(this: void, collectibleId?: number): boolean
+declare function IsCollectibleTributePatronBookCardUpgraded(
+  this: void,
+  patronId?: number,
+  cardIndex?: number
+): boolean
 declare function GetQuestZoneId(this: void, questId?: number): number
 declare function GetQuestName(this: void, questId?: number): string
 declare function GetDyeInfoById(

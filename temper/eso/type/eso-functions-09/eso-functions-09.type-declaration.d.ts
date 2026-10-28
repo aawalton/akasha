@@ -168,6 +168,10 @@ declare function GetItemLinkGlyphMinLevels(
   this: void,
   itemLink?: string
 ): LuaMultiReturn<[minLevel: number | undefined, minChampionPoints: number | undefined]>
+declare function GetItemLinkFurnishingLimitType(
+  this: void,
+  itemLink?: string
+): HousingFurnishingLimitType
 declare function IsItemLinkBookKnown(this: void, itemLink?: string): boolean
 declare function IsItemLinkRecipeKnown(this: void, itemLink?: string): boolean
 declare function GetItemLinkRecipeResultItemLink(
@@ -326,6 +330,10 @@ declare function GetCollectibleCategoryType(
   this: void,
   collectibleId?: number
 ): CollectibleCategoryType
+declare function GetCollectibleFurnishingLimitType(
+  this: void,
+  collectibleId?: number
+): HousingFurnishingLimitType
 declare function GetCollectibleIcon(this: void, collectibleId?: number): string
 declare function GetCategoryInfoFromCollectibleId(
   this: void,
@@ -400,10 +408,3 @@ declare function GetCollectibleCooldownAndDuration(
 ): LuaMultiReturn<[cooldownRemaining: number, cooldownDuration: number]>
 declare function GetCollectibleFurnitureDataId(this: void, collectibleId?: number): number
 declare function GetCollectibleReferenceId(this: void, collectibleId?: number): number
-declare function GetCollectibleForBag(this: void, bagId?: Bag): number
-declare function CanCombinationFragmentBeUnlocked(this: void, collectibleId?: number): boolean
-declare function IsCollectibleTributePatronBookCardUpgraded(
-  this: void,
-  patronId?: number,
-  cardIndex?: number
-): boolean
