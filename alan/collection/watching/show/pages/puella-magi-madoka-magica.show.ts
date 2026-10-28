@@ -11,9 +11,21 @@ export const puellaMagiMadokaMagica = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "39218", externalLink: "https://www.themoviedb.org/tv/39218" },
+    {
+      source: "tmdb",
+      externalId: "39218",
+      externalLink: "https://www.themoviedb.org/tv/39218",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Puella Magi Madoka Magica",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+  ],
   createdAt: "2026-10-28T18:46:25.878Z",
-  updatedAt: "2026-10-28T18:46:25.878Z",
+  updatedAt: "2026-10-28T19:45:42.253Z",
 } as const satisfies Show
