@@ -29,7 +29,7 @@ export interface GameBinding {
   readonly mod4: number
 }
 
-export interface PageBinding {
+interface PageBinding {
   readonly slot: number
   readonly key: string
   readonly modifiers?: readonly ModifierKey[]
