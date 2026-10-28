@@ -13,7 +13,7 @@ export function registerItemsStringIds(this: void): undefined {
   )
   ZO_CreateStringId(
     "SI_BINDING_NAME_TEMPERINVENTORY_TRAVEL_NEXT_HOUSE",
-    "Travel to Next Inventory House"
+    "Travel the Inventory House Circuit"
   )
 }
 

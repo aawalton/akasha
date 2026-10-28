@@ -149,7 +149,7 @@ function initialize(): undefined {
     { name: "/temperscan", description: "Rescan inventory rules" },
     { name: "/temperrepack", description: "Repack the guild bank" },
     { name: "/temperplan", description: "Print pending inventory actions" },
-    { name: "/temperhouse", description: "Travel to the next inventory house" },
+    { name: "/temperhouse", description: "Start or cancel the inventory house circuit" },
     { name: "/temperrules", description: "Manage inventory rules" },
     { name: "/temperbrowse", description: "Toggle the inventory browser" },
     { name: "/tempermwprobe", description: "Probe master writs" },
