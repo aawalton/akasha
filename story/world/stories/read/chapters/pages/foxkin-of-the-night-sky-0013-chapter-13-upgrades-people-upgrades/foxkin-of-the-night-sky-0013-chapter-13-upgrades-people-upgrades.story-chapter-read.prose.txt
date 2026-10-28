@@ -1,0 +1,821 @@
+The fog gate tries its absolute hardest to look important.
+
+I ignore it.
+
+If the system wants me to walk through a mysterious, swirling archway into whatever nonsense lies beyond, it can wait until I’ve finished doing the actually important things.
+
+Like going through my loot.
+
+And race/class advancements.
+
+And mentally establishing dominance over every square inch of this dungeon.
+
+I nod.
+
+“Alright. Time to optimize.”
+
+The door can be dramatic by itself for now.
+
+First order of business: loot.
+
+I approach the treasure chest with the solemn dignity of someone who has already accepted disappointment as a lifestyle.
+
+I expect nothing, and therefore cannot be disappointed.
+
+Flawless logic. Ten out of ten.
+
+I flip the chest open, once again, no fanfare, no sparkling magic, not even a single triumphant note from an invisible orchestra.
+
+Inside, I find: a brown tunic, suspiciously mole-themed, an ivory dagger clearly made from claws, and two more of each potion type.
+
+No acorn—or mole equivalent—this time.
+
+Thank the stars.
+
+Rejecting another stat-boosting insult to my palate would’ve been emotionally painful, philosophically insulting, and mechanically necessary.
+
+Inspect fires.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Tunneler’s Molehide Tunic (Uncommon)]A tunic fashioned from the dense, vibration-dampening fur of the Greater Mole Tunneler. Its fibers naturally absorb impact and muffle movement, making it ideal for navigating tight spaces or avoiding detection beneath the earth.
+
+Runic Patterns:
+
+Inferior Vitality (+5)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Tunnelers Ivory Clawblade (Uncommon)]
+
+A dagger-shaped implement carved from the thick, blunted claw of the Greater Mole Tunneler. It isn’t particularly sharp, but its weight and sturdiness make it reliable for striking, prying, or scraping through tougher materials. A simple, rugged tool repurposed as a weapon.
+
+Runic Patterns:
+
+Inferior Striking Power (5%)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I nod approvingly.
+
+Better than expected. At least one of these items is genuinely useful, which already places this chest firmly in the “not garbage” category. High praise.
+
+Before I do anything else, I crouch down and inspect the runic inscriptions on my new gear.
+
+First off, the dagger.
+
+Its runic pattern trails elegantly along the blade, several dozen runes long. Most are completely unfamiliar, but a few recognizable shapes jump out:
+
+Start. Enhance. End.
+
+A lovely little beginning-middle-end sandwich.
+
+The rest isn't useful yet, but I store the visual pattern in my brain for later cross-referencing.
+
+Then I toss the dagger into my spatial storage with the casual confidence of someone who absolutely intends to dissect it like a frog.
+
+As for the tunic, its runic sequence is hidden along the hem, and, oh boy.
+
+What a mess.
+
+Such a simple effect, and yet the pattern is hundreds of runes long, all completely alien to me. Whoever designed this clearly had the same philosophy as government paperwork: add more steps for no reason.
+
+Interesting.
+
+So basic stats are the Premium Difficulty Content™ of rune crafting. Figures.
+
+The runes are also far smaller than the ones on the dagger or my sword, delicate, fine, and precise.
+
+Which means runes can be miniaturized.
+
+Useful.
+
+Dangerously useful.
+
+Unfortunately, the pattern is so obscenely complex that even my genius refuses to extract meaning from it without further study.
+
+So I do the sensible thing:
+
+I take off my current tunic and put the new one on.
+
+My ears perk, and my tail gives a single, dignified wag.
+
+Comfy.
+
+Eight out of ten.
+
+I toss the potions into my storage as well. Not like I took any damage in that so-called fight anyway.
+
+Alright, next up.
+
+Class Advancement.
+
+I open my status and mentally poke the notification with the enthusiasm of someone pressing a mysterious red button simply because it exists.
+
+A new screen floods my entire vision—again—just like when I first woke up in this questionable world.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Class Advancement activated.
+
+You have (3) Class Advancement options.
+
+[Experienced Warrior (Uncommon)]
+
+A refined advancement of the Warrior class. Represents a combatant who has surpassed basic training and gained practical battlefield experience.
+
+Aspect: Force
+
+Stat Growth per Level:
+
+→ Vitality +2
+
+→ Strength +4
+
+→ Dexterity +3
+
+→ Free +2
+
+[Apprentice Duelist (Uncommon)]
+
+A budding close-combat specialist trained in quick movements, precise blade control, and single-target engagements. This class favors Dexterity and finesse, relying on speed and accuracy rather than brute force.
+
+Aspect: Tempo
+
+Stat Growth per Level:
+
+→ Vitality +1
+
+→ Strength +3
+
+→ Dexterity +4
+
+→ Perception +2
+
+→ Free +1
+
+[Astral Duelist (Uncommon)]
+
+A duelist touched by the stars. Fusing quick bladework with faint traces of astral energy, this class excels in swift engagements, reactive counters, and momentary bursts of starlit motion. Designed for Users who blend agility with celestial finesse.
+
+Aspect: Star
+
+Stat Growth per Level:
+
+→ Strength +3
+
+→ Dexterity +5
+
+→ Perception +3
+
+→ Free +2
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I nod.
+
+Well, that’s an obvious choice.
+
+Still… the aspects are interesting.
+
+I expected something purely elemental—fire, water, spatial distortion, whatever—but apparently the system decided to be more conceptual.
+
+Force I can understand.
+
+Tempo is… intriguing.
+
+Dangerously intriguing.
+
+I squint at it.
+
+Tempo.
+
+Movement rhythm.
+
+Strike cadence.
+
+Probably a class designed for people who enjoy hearing boss music get steadily faster while they fight.
+
+…Really interesting.
+
+I select Astral Duelist immediately before my curiosity convinces me to do something catastrophically stupid in the name of science.
+
+Curiosity killed the cat, after all.
+
+Good thing I’m a fox.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Class Advancement confirmed.
+
+[Warrior (Common)] has been upgraded into [Astral Duelist (Uncommon)].
+
+You have gained the Class skill [Astral Step (Uncommon)].
+
+[Lesser Dexterity (Common)] has been upgraded into [Stellar Finesse (Uncommon)].
+
+You have gained +10 Free points.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I nod appreciatively.
+
+New things to inspect.
+
+But first: Evolution.
+
+I poke the notification.
+
+And instantly—
+
+Everything goes black.
+
+No warning. No transition. Not even a dramatic sound cue.
+
+Just: click, then void.
+
+…
+
+…
+
+Consciousness drips back in like a leaky faucet.
+
+I blink. At least, I think I blink; hard to tell when the world is nothing but endless, perfectly uniform emptiness.
+
+A featureless void stretches in every direction. No ground. No sky. No horizon. Just… absence, wearing the concept of “space” like a badly fitted coat.
+
+And then I notice something far worse.
+
+Two figures floating in front of me.
+
+Both unmistakably me.
+
+Perfectly me.
+
+Also perfectly naked.
+
+I stare.
+
+They stare back.
+
+My tail—assuming it still exists in this philosophical soup—begins drafting a formal complaint. Or a crime.
+
+Before I can fully commit to either, a blue box materializes with the timing of a system that absolutely does not care about my emotional state.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Evolution activated.
+
+You have (2) Evolution options.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+…
+
+Well.
+
+At least I finally get to see what I look like now.
+
+Still could’ve done without the spontaneous nudity, but here we are.
+
+I examine one of my “alternate selves,” taking in the new details.
+
+Long white tail trailing nearly to my feet. Large, fluffy, devastatingly adorable ears perched atop my head.
+
+All expected.
+
+The only surprise—
+
+—my eyes.
+
+Not green anymore. In fact, not even close.
+
+They are deep onyx, glossy and featureless, without any trace of a pupil.
+
+Honestly?
+
+Nine out of ten.
+
+I like it.
+
+Curious, I reach out and poke the cheek of my other self.
+
+The blue box appears again.
+
+Of course it does.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Foxkin [Tier 1]
+
+A Beast-Kin race known for exceptional agility and heightened senses. Upon reaching Tier 1, Foxkin gain refined motor control, sharper awareness, and improved coordination, strengthening their preference for fast, evasive combat styles. Their physiology now better supports stealth, tracking, and rapid movement.
+
+Stat Growth per Level:
+
+→ Vitality +1
+
+→ Dexterity +4
+
+→ Perception +4
+
+→ Free +1
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I nod.
+
+Metaphorically, of course. I’m still not entirely convinced I possess a head in my current existential status.
+
+The expected evolution option.
+
+Which means the other one will be far more interesting.
+
+I drift closer for a better look, and—
+
+Ten out of ten.
+
+My eyes widen—metaphorically again—as I take her in.
+
+This version of me is… breathtaking.
+
+My eyes—her eyes—are darker still, shifting from simple onyx to something far deeper. Not a color, but a phenomenon. An event horizon masquerading as irises, pulling in the surrounding light as if the void bows to them instinctively.
+
+Even here, in this dimensionless abyss, they shine by refusing to shine.
+
+My hair and fur have changed as well.
+
+Longer, glossier, and impossibly smooth. Strands catch nonexistent light and scatter it like liquid silver, while tiny pinpricks of starlight shimmer across the surface. Brief, delicate, celestial sparks that appear and vanish like constellations breathing.
+
+Even the space around her seems different, shaped gently by her presence, as though reality itself is trying to frame her correctly.
+
+Beautiful feels like an insultingly small word.
+
+I reach out again, fingers brushing the luminous silhouette.
+
+My choice is already made.
+
+Of course it is.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Starborne Foxkin [Tier 1]
+
+A singular and unprecedented Foxkin mutation aligned with celestial essence. Starborne Foxkin retain their race’s natural speed and sensory acuity, but gain the ability to perceive and direct astral energy through instinctive motion. Their reflexes, balance, and perception are enhanced by starlight, granting subtle supernatural capabilities not found in ordinary Foxkin.
+
+Future tiers deepen astral alignment and refine celestial control.
+
+Stat Growth per Level:
+
+→ Dexterity +10
+
+→ Perception +10
+
+→ Free +10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Evolution confirmed.
+
+Foxkin [Tier 0] has mutated into Starborne Foxkin [Tier 1].
+
+Racial Skill [Vulpine Senses] has mutated into [Cosmic Perception].
+
+You have gained the Racial Skill [Silent Star].
+
+You have gained +20 Free Points.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The two other versions of me dissolve—along with the blue box—and I unceremoniously slam back into consciousness on the cold stone floor.
+
+I inhale once.
+
+Then sigh.
+
+Then clench my teeth, because I know what comes next.
+
+And—as expected—agony detonates through my body.
+
+Except this time it isn’t just worse.
+
+It is catastrophically worse.
+
+My eyes feel like they’re melting out of my skull, liquid fire dripping down nerves that were never meant to carry heat. My ears burn, my tail ignites from the inside out, and somehow—somehow—even my hair feels like it's being unraveled strand by strand and then rewoven with flaming wire.
+
+A shrill scream rips out of me before I can stop it.
+
+Pathetic.
+
+I’ll work on that later, assuming I survive the part where my entire existence is apparently being recompiled.
+
+The evolution rages on.
+
+My bones vibrate, humming like tuning forks struck by a hammer.
+
+My skin prickles as if threaded with needles made of starlight.
+
+My heartbeat stutters, accelerates, then slams into a rhythm so powerful it shakes my ribs.
+
+Energy surges through me in violent waves—pulling, stretching, compressing—like the universe is trying to fit something too large into something too small, and refusing to take no for an answer.
+
+Minutes drag by—long, heavy, molten minutes—before the pain finally begins to ebb, fading from apocalyptic to merely intolerable, then to a dull, throbbing ache.
+
+I lie flat against the stone, panting, sweat cooling on my skin.
+
+Just breathing.
+
+Just existing.
+
+That was…
+
+A lot.
+
+Even for me.
+
+I lie there for several more minutes, collecting what remains of my dignity.
+
+Eventually, my pride claws its way to the surface, reminding me that I am, in fact, built different.
+
+I force myself to breathe, focus—
+
+And that’s when the new sensations hit me all at once.
+
+For one, the astral flow behind my eyes is stronger—and moving so fast it feels like starlight is threading itself directly through my veins.
+
+Secondly, my hair feels almost… alive.
+
+There’s a faint current running through every strand, a soft, shimmering pulse. Part of my astral stream actually coils down into the fibers, dancing along them like liquid constellations.
+
+If I wanted to, I could probably ignite my hair now.
+
+Stylish. Terrifying.
+
+A tempting combination.
+
+And third, Cosmic Perception.
+
+I don’t need Inspect to explain it.
+
+I just know.
+
+I can sense gravity.
+
+Not “see” it, exactly, but feel the presence and position of nearly everything around me within a roughly 20-meter radius, each object like a tiny weight tugging on the edges of my awareness.
+
+It’s not perfect, but it’s enough to perceive outlines, distances, motion—
+
+—even for things directly behind me.
+
+Useful.
+
+Ridiculously useful.
+
+I really want to identify all my new upgrades—new race, new class, new everything—but I stop myself.
+
+Because something at the bottom of my status catches my eye.
+
+Something I completely forgot about.
+
+My level 5 skill selection.
+
+I blink.
+
+Then blink again.
+
+This immediately raises a fascinating question.
+
+Now that my class has an aspect, can I choose an aspected skill instead of a boring, normal one?
+
+A crafty grin curls across my face, sharp, excited, and extremely up to no good.
+
+I poke the notification.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Skill Selection activated.
+
+Please choose a Skill
+
+[Improved Slash (Uncommon)] {Skill Upgrade}
+
+A refined version of Slash that increases cutting power and strike speed.
+
+(Active) Enhances a single slashing attack, increasing speed and damage at the cost of Stamina.
+
+Scales with Dexterity.
+
+[Starline Thrust (Uncommon)] {New Skill}
+
+A precise forward strike guided by a thread of starlight.
+
+(Active) Enhances a single stabbing attack, increasing speed and pierce at the cost of Stamina. Adds a slight accuracy correction.
+
+Scales with Perception.
+
+[Gravitational Shield (Uncommon)] {New Skill}
+
+A defensive technique that condenses localized gravity into a protective field.
+
+(Active) Generates a short-lived gravitational barrier that drags incoming projectiles downward, disrupting their trajectory.
+
+Scales with Dexterity.
+
+[Astral Rhythm (Uncommon)] {New Skill}
+
+Attune your movements to the rhythm of the astral flow.
+
+(Passive) Consecutive successful hits grant stacking bonuses to attack speed.
+
+Stacks are lost upon missing an attack or taking damage.
+
+[Horizon Slash (Rare)] {Skill Upgrade}
+
+A refined slashing technique augmented by astral edge energy.
+
+(Active) Empowers a single slashing attack, increasing speed, cutting power, and providing a slight extension to effective range.
+
+Scales with Dexterity.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+My grin intensifies by approximately one thousand percent, and my tail gives a triumphant little flick.
+
+This was absolutely part of the plan.
+
+Not remotely a happy coincidence.
+
+Nope.
+
+Not at all.
+
+And even better, this marks a historic, groundbreaking moment in Tutorial history.
+
+For once, every single skill offered is actually useful.
+
+Truly, miracles do happen.
+
+That being said, another rather obvious choice.
+
+Highest rarity. Always.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Skill Selection confirmed.
+
+[Slash (Common)] has been upgraded into [Horizon Slash (Rare)]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I nod appreciatively, then pull up my full status screen to bask in my own progress.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Lyn
+
+Health: 150 / 150
+
+Stamina: 700 / 700
+
+Race: Starborne Foxkin (Level 10 | Tier 1)
+
+Class: Astral Duelist [Uncommon] (Level 10 | Tier 1)
+
+Aspect: Star
+
+Traits: [Starborn]
+
+Titles:
+
+Stats
+
+Vitality: 15 (+5)
+
+Strength: 30
+
+Dexterity: 70
+
+Perception: 30
+
+Charisma: 10
+
+Free Points: 30
+
+Class Skills (4/8):
+
+[Horizon Slash (Rare)]
+
+[Stellar Finesse (Uncommon)]
+
+[Improved Dash (Uncommon)]
+
+[Astral Step (Uncommon)]
+
+General Skills (6/8):
+
+[Inspect (Common)]
+
+[Running (Rare)]
+
+[Nascent Sword Style (Uncommon)]
+
+[Footwork (Common)]
+
+[Lesser Astral Manipulation (Rare)]
+
+[Rune Smith (Uncommon)]
+
+Racial Skills:
+
+Cosmic Perception
+
+Silent Star
+
+Special Skills:
+
+[Universal Translation]
+
+Tutorial Points: 2214
+
+Tutorial Countdown: 48 days, 03 hours, 02 minutes
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Beautiful. Only two Common skills left dragging down my aesthetic.
+
+My stats look impressive—
+
+—until you realize I’m going to double that point total within the next three levels.
+
+My new race is absurdly powerful.
+
+Or maybe evolution in general is supposed to be this strong… but I doubt it.
+
+The other option was only a five point increase.
+
+Mine was a twenty-five point jump.
+
+So mathematically speaking?
+
+I’m special.
+
+Exceptionally so.
+
+Obviously.
+
+And the system should be grateful to witness my growth.
+
+Speaking of, inspecting time.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Stellar Finesse (Uncommon)]
+
+An astral refinement of Lesser Dexterity, tailored for precise dueling.
+
+(Passive) Increases movement speed by 12%. Increases dodging speed by 12%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Astral Step (Uncommon)]
+
+A movement technique that briefly aligns the user with astral flow.
+
+(Active) Instantly shift a short distance by slipping through astral motion, avoiding physical obstruction during the step. The next attack made within a moment of reappearing gains increased accuracy.
+
+Scales with Dexterity.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Cosmic Perception
+
+A celestial mutation of the Foxkin’s natural sensory ability. Astral energy attunes the user to subtle shifts in gravity, providing an innate awareness of nearby space and movement.
+
+(Passive) Enhances the effectiveness of the Perception stat.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Silent Star
+
+A celestial mutation of the Foxkin stealth instinct. Astral energy suppresses sound, presence, and subtle gravitational signatures, allowing the user to move in a manner that defies natural detection.
+
+(Passive) Erases all footstep and movement noise, reduces detectable vibrations, and lightly distorts local gravity to obscure the user’s position. Greatly enhances stealth against creatures relying on sound, tremor-sense, or spatial perception.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Stellar Finesse is a simple, but effective upgrade.
+
+Cosmic Perception is about what I expected.
+
+Silent Star, though?
+
+A delightful surprise.
+
+It definitely would have helped with the murder-squirrel. At the very least, I wouldn’t have been jump-scared by a creature whose entire personality was “violence, but acrobatic.”
+
+Also, let’s be honest:
+
+No footstep sounds?
+
+That is objectively awesome.
+
+The inner edgelord within me nods in solemn approval.
+
+As do I.
+
+Feeling utterly magnanimous, I graciously choose to forgive the system for some of its past crimes.
+
+Not because it deserves forgiveness—
+
+But because I am generous.
+
+Finally deciding to stop being lazy, I dismiss my menus and dramatically hop to my feet. Standing up normally is illegal in my personal doctrine.
+
+Now, self-inspection.
+
+My hair? Longer.
+
+Much longer.
+
+Now spilling in a shimmering cascade down to my knees. Strands ripple with cosmic light, constellations dancing through them like they’re auditioning for a celestial shampoo commercial.
+
+I test it—
+
+And yes, I can absolutely ignite my hair with starfire.
+
+Perfect.
+
+A delightfully disrespectful way to kill anything that annoys me.
+
+Chopping everything in half all the time is efficient, sure, but lacking in artistic flair.
+
+My tail glimmers with the same starry pattern, so I repeat the test.
+
+Results: identical.
+
+Incredible.
+
+Unfortunately, there are no reflective surfaces around, so my newly upgraded eyes remain unseen. Tragic.
+
+I imagine they look amazing.
+
+Which means I’m officially done here.
+
+I stretch like a very smug cat waking from a short six-hour nap, then turn toward the ominous stone archway swirling gently with fog.
+
+My ear gives a small irritated flick.
+
+Of course.
+
+I stride forward, fully aware of exactly what this forced cutscene is about to look like.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Would you like to exit the dungeon?
+
+Options: Yes / No
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I mentally poke yes.
+
+Fog surges forward and swallows everything.
+
+Figured.
+
+The transition lasts ten seconds—long enough to be annoying, short enough to feel lazy—before abruptly clearing to reveal—
+
+—a party of about a dozen people.
+
+Staring.
+
+Mouths open. Eyes wide.
+
+Absolutely frozen.
+
+My expression shifts instantly.
+
+The irritation drains away.
+
+The curiosity quiets.
+
+The warmth of my internal commentary folds itself neatly out of sight.
+
+What replaces it is soft, smooth, serene—
+
+A gentle expression with no footholds.
+
+And a placid, harmless smile.
+
+I speak in a voice as calm as still water.
+
+“Oh my… how unexpected. Hello.”
