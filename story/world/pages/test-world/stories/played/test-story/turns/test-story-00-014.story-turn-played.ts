@@ -12,9 +12,9 @@ export const testStory00014 = {
   stepStatus: "step-status/beats",
   action: "I look over the lamps on the shelf.",
   beats: "jsonl",
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
   endsAt: "2026-11-13T12:02:00.000Z",
   createdAt: "2026-10-28T01:35:59.532Z",
-  updatedAt: "2026-10-28T01:42:02.030Z",
+  updatedAt: "2026-10-28T01:42:11.655Z",
   ownLength: 63,
 } as const satisfies StoryTurnPlayed
