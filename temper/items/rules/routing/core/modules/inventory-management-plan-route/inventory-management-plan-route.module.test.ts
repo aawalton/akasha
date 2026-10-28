@@ -60,11 +60,39 @@ describe("An item leaving shared storage for another storage is carried by the s
 })
 
 describe("An item taken from storage to a venue goes to the first character the reading lists.", () => {
-  test("a treasure leaving a house chest to be sold is withdrawn by that character", () => {
+  test("an item leaving the bank to be sold is withdrawn by that character", () => {
+    const entry = makeAffected(makeItem("Dragon's Treasure", 4), "Bank", "Bank")
+    expect(stops(resolveItemRoute(entry, "sell", undefined, holdings, context))).toEqual([
+      [CERIA, "bank", "retrieve"],
+      [CERIA, "vendor", "act"],
+    ])
+  })
+})
+
+describe("Every item leaving a house chest is withdrawn by the storage carrier.", () => {
+  test("a treasure leaving a house chest to be sold is withdrawn by the carrier", () => {
     const entry = makeAffected(makeItem("Dragon's Treasure", 4), WEALTH, "Wealth", HOUSE_BANK_BAG)
     expect(stops(resolveItemRoute(entry, "sell", undefined, holdings, context))).toEqual([
-      [CERIA, "house-storage", "retrieve"],
-      [CERIA, "vendor", "act"],
+      [ERIN, "house-storage", "retrieve"],
+      [ERIN, "vendor", "act"],
+    ])
+  })
+
+  test("an item a rule sends to a character is withdrawn by that character", () => {
+    const entry = makeAffected(makeItem("Essence of Health", 1), WEALTH, "Wealth", HOUSE_BANK_BAG)
+    expect(
+      stops(resolveItemRoute(entry, "move-to", `character:${CERIA}`, holdings, context))
+    ).toEqual([[CERIA, "house-storage", "retrieve"]])
+  })
+})
+
+describe("An item leaving one house chest for another is withdrawn at the one and stored at the other.", () => {
+  test("a furnishing in a house chest bound for the furniture vault is withdrawn, then stored", () => {
+    const entry = makeAffected(makeItem("Alinor Tapestry", 3), WEALTH, "Wealth", HOUSE_BANK_BAG)
+    const steps = resolveItemRoute(entry, "move-to", "furniture-vault", holdings, context)
+    expect(steps.map((one) => [one.characterId, one.operation, one.storageKey])).toEqual([
+      [ERIN, "retrieve", WEALTH],
+      [ERIN, "act", "FurnitureVault"],
     ])
   })
 })

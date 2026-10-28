@@ -3,6 +3,7 @@ import type {
   MoveToDestination,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
+  DETAILED_VENUES,
   planPhraseOf,
   withDepositNote,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
@@ -104,7 +105,8 @@ export function buildSharedStorageSteps(
   if (
     retrievalVenue != null &&
     effectiveActionVenue != null &&
-    retrievalVenue === effectiveActionVenue
+    retrievalVenue === effectiveActionVenue &&
+    (!DETAILED_VENUES.has(retrievalVenue) || retrievalStorageKey === actionStorageKey)
   ) {
     steps.push({
       characterId: charId,

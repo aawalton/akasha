@@ -1,9 +1,13 @@
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
   getChestDisplayName,
+  getLocationKeyForBag,
   liveStorageChests,
 } from "akasha/temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.code.ts"
-import { classifyPendingVenue } from "akasha/temper/addon/pages/items/modules/inventory-plan-venue/inventory-plan-venue.module.code.ts"
+import {
+  chestGivesUp,
+  classifyPendingVenue,
+} from "akasha/temper/addon/pages/items/modules/inventory-plan-venue/inventory-plan-venue.module.code.ts"
 import {
   forEachPendingAction,
   getCompiledConfig,
@@ -13,15 +17,20 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { listingHoldReason } from "akasha/temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"
 import type { AddonItemAction } from "akasha/temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
-import { isSavedVariablesReady } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import {
+  getDatabase,
+  isSavedVariablesReady,
+} from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { stockGroupKey } from "akasha/temper/addon/pages/items/modules/inventory-stock-group/inventory-stock-group.module.code.ts"
 import { addToTally } from "akasha/temper/addon/pages/items/modules/inventory-tally/inventory-tally.module.code.ts"
 import { venueTitleOf } from "akasha/temper/addon/pages/items/modules/inventory-venue-titles/inventory-venue-titles.module.code.ts"
 import {
+  chestIdOfHouseBankKey,
   chestMatchProblem,
   houseStorageTarget,
   matchStorageChest,
 } from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
+import { storageCarrierOf } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -86,9 +95,17 @@ interface PlannedSlot {
 
 interface VenuePlan {
   venue: string
+  label?: string
   verbs: Array<{ verb: string; count: number }>
   held: Array<{ reason: string; count: number }>
   slots: PlannedSlot[]
+  items?: PlanItem[]
+}
+
+const HOUSE_CHEST_VENUE = "house-chest:"
+
+function labelOf(entry: VenuePlan): string {
+  return entry.label ?? resolveVenueLabel(entry.venue)
 }
 
 function backpackStockGroup(slot: number): number {
@@ -203,6 +220,40 @@ function computePlanVenues(): VenuePlan[] | undefined {
     noteSlot(junkVenue, { bagId: BAG_BACKPACK, slotIndex: slot, verb: "sell" })
   }
 
+  const chestVenues: string[] = []
+  const chestLabels = new LuaMap<string, string>()
+  const chestItems = new LuaMap<string, PlanItem[]>()
+  const carriesStorage = currentCharId === storageCarrierOf(compiled.characterPriority)
+  const openKey = IsBankOpen() ? getLocationKeyForBag(GetBankingBag()) : undefined
+  for (const [key, location] of Object.entries(getDatabase().locations)) {
+    const chestId = chestIdOfHouseBankKey(key)
+    if (chestId === undefined || key === openKey) continue
+    const chest = { chestId, name: location.displayName }
+    const venue = `${HOUSE_CHEST_VENUE}${key}`
+    for (const [bagSaid, slots] of Object.entries(location.bags)) {
+      for (const [slotSaid, item] of Object.entries(slots)) {
+        const { resolvedAction, resolvedDestination } = item
+        if (!chestGivesUp(resolvedAction, resolvedDestination, chest, carriesStorage)) continue
+        let items = chestItems.get(venue)
+        if (items === undefined) {
+          items = []
+          chestItems.set(venue, items)
+          chestLabels.set(venue, location.displayName)
+          chestVenues.push(venue)
+        }
+        addToTally(touch(venue), "withdraw", 1)
+        items.push({
+          bagId: tonumber(bagSaid) ?? 0,
+          slotIndex: tonumber(slotSaid) ?? 0,
+          link: item.itemLink,
+          count: item.stackCount,
+          verb: "withdraw",
+          destination: resolvedDestination,
+        })
+      }
+    }
+  }
+
   const result: VenuePlan[] = []
 
   function pushVenue(venueKey: string): undefined {
@@ -217,7 +268,14 @@ function computePlanVenues(): VenuePlan[] | undefined {
     for (const [reason, count] of Object.entries(heldCounts ?? {})) {
       held.push({ reason, count })
     }
-    result.push({ venue: venueKey, verbs, held, slots: venueSlots.get(venueKey) ?? [] })
+    result.push({
+      venue: venueKey,
+      label: chestLabels.get(venueKey),
+      verbs,
+      held,
+      slots: venueSlots.get(venueKey) ?? [],
+      items: chestItems.get(venueKey),
+    })
   }
 
   for (const staticKey of VENUE_ORDER) {
@@ -225,6 +283,9 @@ function computePlanVenues(): VenuePlan[] | undefined {
     if (staticKey === "house-storage") {
       for (const dynamicKey of dynamicHouseKeys) {
         pushVenue(dynamicKey)
+      }
+      for (const chestKey of chestVenues) {
+        pushVenue(chestKey)
       }
     }
   }
@@ -297,9 +358,9 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
       }
       totalSlots += venueCount
       venues.push({
-        label: resolveVenueLabel(entry.venue),
+        label: labelOf(entry),
         count: venueCount,
-        items: planItems(entry.slots),
+        items: entry.items ?? planItems(entry.slots),
       })
     }
   }
@@ -314,7 +375,7 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
   }))
   for (const entry of plan) {
     for (const h of entry.held) {
-      const label = resolveVenueLabel(entry.venue)
+      const label = labelOf(entry)
       lines.push({
         label,
         count: h.count,
@@ -342,7 +403,7 @@ export function handleTemperPlanCommand(): undefined {
 
   d(`[${ADDON_NAME}] Plan:`)
   for (const entry of plan) {
-    const label = resolveVenueLabel(entry.venue)
+    const label = labelOf(entry)
     const parts: string[] = []
     for (const v of entry.verbs) {
       parts.push(`${v.verb} ${v.count}`)

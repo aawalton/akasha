@@ -55,7 +55,12 @@ export const inventoryRulesEval = {
       decisionKind: "decision-kind/departure",
       statement: "A slot holding another item once settled is judged again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "At a storage visit in the house, every house chest not opened is judged and only recorded.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.859Z",
-  updatedAt: "2026-10-10T14:08:31.826Z",
+  updatedAt: "2026-10-28T19:31:05.753Z",
 } as const satisfies Module

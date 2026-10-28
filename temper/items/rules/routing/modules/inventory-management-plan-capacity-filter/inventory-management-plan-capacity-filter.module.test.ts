@@ -13,6 +13,13 @@ import {
   STACK_COUNT_ARB,
   sumPlanStackCount,
 } from "akasha/temper/items/rules/routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.code.ts"
+import {
+  makeAffected,
+  makeInventory,
+  makeItem,
+  makeLocation,
+  makeRule,
+} from "akasha/temper/items/rules/routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.code.ts"
 import fc from "fast-check"
 
 holdKeyedTitlesFromCheckout(temperVenue.slug)
@@ -55,6 +62,27 @@ describe("An item dropped for want of room is recorded against the rule sending 
         }
       )
     )
+  })
+})
+
+describe("A slot an item leaves on the plan is room for an item the plan stores there.", () => {
+  test("a full chest takes a deposit once the plan sells what fills it", () => {
+    const chest = "HouseBank:5462:4673"
+    const tapestry = makeItem("Alinor Tapestry, Alinor Dawn")
+    const banner = makeItem("Alliance War Banner")
+    const inventory = makeInventory({
+      [chest]: makeLocation("Alliance War", { 10: { 0: tapestry } }, { 10: 1 }),
+      Bank: makeLocation("Bank", { 2: { 0: banner } }, { 2: 10 }),
+    })
+    const sell = makeRule("sell-furnishings", "sell")
+    const store = makeRule("store-alliance-war", "move-to", "house-storage:Alliance War")
+    const affected = new Map([
+      [sell.id, [makeAffected(tapestry, chest, "Alliance War", 10)]],
+      [store.id, [makeAffected(banner, "Bank", "Bank", 2)]],
+    ])
+    const rules = [...ordered(sell), ...ordered(store)]
+    const kept = applyDestinationCapacityFilter(rules, [], affected, inventory)
+    expect(kept.get(store.id)).toHaveLength(1)
   })
 })
 

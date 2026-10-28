@@ -48,7 +48,20 @@ export const inventoryPlanVenue = {
       decisionKind: "decision-kind/departure",
       statement: "An item another character sells or lists is planned as a deposit at the bank.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item a rule takes out of a house chest is planned as a withdrawal there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a withdrawal is what the chest visit itself would withdraw, and no more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Only the storage carrier withdraws from a house chest, but for an item a rule sends to a character.",
+    },
   ],
   createdAt: "2026-10-10T14:06:10.424Z",
-  updatedAt: "2026-10-28T18:34:18.082Z",
+  updatedAt: "2026-10-28T19:31:05.753Z",
 } as const satisfies Module

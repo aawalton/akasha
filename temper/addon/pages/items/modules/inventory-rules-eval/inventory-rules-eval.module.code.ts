@@ -3,6 +3,7 @@ import {
   buildItemFactsForSlot,
   resolveItemKey,
 } from "akasha/temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
+import { HOUSE_BANK_BAGS } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import { refreshEquipmentLockOverlays } from "akasha/temper/addon/pages/items/modules/inventory-equipment-lock-overlay/inventory-equipment-lock-overlay.module.code.ts"
 import { buildEsoEvalEnv } from "akasha/temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
 import {
@@ -48,6 +49,7 @@ import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 export interface MatchedRuleResult {
@@ -274,6 +276,32 @@ function computeBackpackStockGroups(): ReadonlyMap<string, ReadonlySet<number>> 
 
 function factsIdentity(facts: ItemFacts): ItemFacts {
   return facts
+}
+
+export function resolveHouseChests(openBag: number): undefined {
+  if (getCompiledConfig() === undefined) return
+  for (const bagId of HOUSE_BANK_BAGS) {
+    if (bagId === openBag) continue
+    if (GetCollectibleForBag(bagId) <= 0) continue
+    const bagSize = GetBagSize(bagId)
+    for (let slot = 0; slot < bagSize; slot++) {
+      const [stackSize] = GetSlotStackSize(bagId, slot)
+      if (stackSize === 0) continue
+      const matched = findMatchedRule(bagId, slot)
+      recordResolvedAction(
+        bagId,
+        slot,
+        matched === undefined
+          ? { action: "nothing", ruleSource: "no-match" }
+          : {
+              action: matched.action,
+              destination: matched.destination,
+              ruleSource: matched.ruleSource,
+              ruleIndex: matched.ruleSource === "ordered-rule" ? matched.ruleIndex : undefined,
+            }
+      )
+    }
+  }
 }
 
 export function refreshBackpackActions(): undefined {

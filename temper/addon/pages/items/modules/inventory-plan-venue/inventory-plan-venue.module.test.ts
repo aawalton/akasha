@@ -1,10 +1,39 @@
 import { describe, expect, test } from "bun:test"
 import {
+  chestGivesUp,
   classifyPendingVenue,
   listingHold,
 } from "akasha/temper/addon/pages/items/modules/inventory-plan-venue/inventory-plan-venue.module.code.ts"
 
 const craftBagTakes = (): boolean => true
+
+const WEALTH = { chestId: "4676", name: "Wealth" }
+
+describe("An item a rule takes out of a house chest is planned as a withdrawal there.", () => {
+  test("a treasure to sell and a mythic bound for the bank are withdrawn by the carrier alone", () => {
+    expect(chestGivesUp("sell", undefined, WEALTH, true)).toBe(true)
+    expect(chestGivesUp("sell", undefined, WEALTH, false)).toBe(false)
+    expect(chestGivesUp("move-to", "bank", WEALTH, true)).toBe(true)
+    expect(chestGivesUp("move-to", "bank", WEALTH, false)).toBe(false)
+    expect(chestGivesUp("move-to", "house-storage:Crown Items", WEALTH, false)).toBe(false)
+  })
+
+  test("an item bound for a character is withdrawn by whoever visits", () => {
+    expect(chestGivesUp("move-to", "character:42", WEALTH, false)).toBe(true)
+  })
+
+  test("an item already in the chest its rule names stays", () => {
+    expect(chestGivesUp("move-to", "house-storage:Wealth", WEALTH, true)).toBe(false)
+    expect(chestGivesUp("move-to", "house-storage:4676", WEALTH, true)).toBe(false)
+    expect(chestGivesUp("move-to", "house-storage", WEALTH, true)).toBe(false)
+  })
+
+  test("an item the chest visit leaves in place is no withdrawal", () => {
+    for (const action of ["nothing", "lock", "bind", "stock", "deconstruct", undefined]) {
+      expect(chestGivesUp(action, undefined, WEALTH, true)).toBe(false)
+    }
+  })
+})
 const craftBagRefuses = (): boolean => false
 
 describe("inventory-plan-venue", () => {

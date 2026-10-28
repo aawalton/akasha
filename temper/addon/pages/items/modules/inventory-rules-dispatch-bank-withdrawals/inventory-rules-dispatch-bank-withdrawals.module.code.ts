@@ -44,7 +44,6 @@ import { planStockReconcile } from "akasha/temper/items/rules/core/modules/stock
 import type { CharacterId } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import {
   isConsolidateDest,
-  isStorageCarrierMove,
   storageCarrierOf,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -102,6 +101,15 @@ function collectBankWithdrawals(
 } {
   const withdrawals: { bagId: number; slotIndex: number; dest: string; ruleIndex: number }[] = []
   const transitionTally = newBankTransitionTally()
+  const carrier = storageCarrierOf(getCompiledConfig()?.characterPriority)
+  const carriesStorage = carrier === undefined || carrier === currentCharId
+
+  function isCarriedOnly(this: void, dest: string | undefined): boolean {
+    if (ctx.isBank) return isConsolidateDest(dest)
+    if (!ctx.isHouseStorage) return false
+    if (dest === undefined) return true
+    return dest.substring(0, BANK_CHARACTER_PREFIX.length) !== BANK_CHARACTER_PREFIX
+  }
 
   function collectBackpackRequired(
     this: void,
@@ -115,6 +123,7 @@ function collectBankWithdrawals(
     }
     if (isBackpackRequiredAction(matched.action, matched.destination)) {
       if (isVendorCrossCharDestination(matched.destination)) return
+      if (!carriesStorage && isCarriedOnly(matched.destination)) return
       withdrawals.push({
         bagId: bag,
         slotIndex: slot,
@@ -216,12 +225,9 @@ function collectBankWithdrawals(
       }
     }
 
-    if ((ctx.isBank || ctx.isHouseStorage) && isStorageCarrierMove(dest, ctx.isHouseStorage)) {
-      const carrier = storageCarrierOf(getCompiledConfig()?.characterPriority)
-      if (carrier !== undefined && currentCharId !== carrier) {
-        clearPendingAction(bagId, slotIndex)
-        return
-      }
+    if (!carriesStorage && isCarriedOnly(dest)) {
+      clearPendingAction(bagId, slotIndex)
+      return
     }
 
     withdrawals.push({

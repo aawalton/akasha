@@ -1,4 +1,14 @@
 import type { AddonItemAction } from "akasha/temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
+import { isBackpackRequiredAction } from "akasha/temper/items/rules/core/modules/action-storage-capability/action-storage-capability.module.code.ts"
+import {
+  houseStorageTarget,
+  matchStorageChest,
+  type StorageChest,
+} from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
+import {
+  ITEM_ACTION_VALUES,
+  type ItemAction,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 interface PlanVenueSlot {
   readonly venue: string
@@ -59,6 +69,31 @@ function fillVenue(elsewhere: boolean, inBackpack: boolean): PlanVenueSlot | und
     return elsewhere ? { venue: "bank", verb: "deposit" } : { venue: "backpack", verb: "fill" }
   }
   return elsewhere ? undefined : { venue: "bank", verb: "withdraw" }
+}
+
+const CHEST_KEEPS: ReadonlySet<string> = new Set(["nothing", "lock", "unlock", "bind"])
+
+function itemActionOf(one: string): ItemAction | undefined {
+  return ITEM_ACTION_VALUES.find((action) => action === one)
+}
+
+export function chestGivesUp(
+  action: string | undefined,
+  destination: string | undefined,
+  chest: StorageChest,
+  carriesStorage: boolean
+): boolean {
+  if (action === undefined) return false
+  if (action === "move-to") {
+    const dest = destination ?? "bank"
+    if (dest === "house-storage") return false
+    const target = houseStorageTarget(dest)
+    if (target !== undefined && matchStorageChest(target, [chest]).kind === "one") return false
+    return carriesStorage || dest.startsWith(CHARACTER_PREFIX)
+  }
+  if (CHEST_KEEPS.has(action)) return false
+  const known = itemActionOf(action)
+  return carriesStorage && known !== undefined && isBackpackRequiredAction(known, destination)
 }
 
 export function classifyPendingVenue(

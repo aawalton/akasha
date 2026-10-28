@@ -290,7 +290,7 @@ export const temperAddonItems = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The rules walk a house chest's bag at a visit to that chest.",
+      statement: "The rules walk every house chest's bag at a storage visit in the house.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -370,5 +370,5 @@ export const temperAddonItems = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.863Z",
-  updatedAt: "2026-10-28T18:39:12.240Z",
+  updatedAt: "2026-10-28T19:31:05.753Z",
 } as const satisfies TemperAddon

@@ -45,6 +45,8 @@ interface CapacityFilterResult {
   readonly audit: CapacityAudit
 }
 
+const NO_ERRAND: ReadonlySet<string> = new Set(["nothing", "lock", "unlock", "bind"])
+
 function unitsOf(item: AffectedItem): number {
   return item.quantity ?? item.item.stackCount
 }
@@ -84,6 +86,18 @@ export function applyDestinationCapacityFilterWithAudit(
   }
   for (const rule of rules) {
     orderedRules.push(rule)
+  }
+
+  function freeSlotLeft(item: AffectedItem): undefined {
+    if (item.alreadyAtDestination || unitsOf(item) < item.item.stackCount) return
+    const free = capacityBudget.get(item.locationKey)
+    if (free !== undefined) capacityBudget.set(item.locationKey, free + 1)
+  }
+
+  for (const rule of orderedRules) {
+    if (rule.active === false || rule.id === undefined) continue
+    if (rule.action === "move-to" || rule.action === "stock" || NO_ERRAND.has(rule.action)) continue
+    for (const item of result.get(rule.id) ?? []) freeSlotLeft(item)
   }
 
   for (let ruleIdx = 0; ruleIdx < orderedRules.length; ruleIdx++) {
@@ -159,6 +173,7 @@ export function applyDestinationCapacityFilterWithAudit(
     }
 
     capacityBudget.set(storageKey, budget)
+    for (const item of fits) freeSlotLeft(item)
 
     result.set(rule.id, [...fits, ...atDestination])
 

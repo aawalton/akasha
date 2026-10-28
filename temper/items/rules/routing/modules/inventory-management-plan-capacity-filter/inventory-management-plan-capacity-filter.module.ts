@@ -20,7 +20,11 @@ export const inventoryManagementPlanCapacityFilter = {
       decisionKind: "decision-kind/departure",
       statement: "An item joining a stack already at the destination takes no slot.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot an item leaves on the plan is room for an item the plan stores there.",
+    },
   ],
   createdAt: "2026-09-02T09:02:04.760Z",
-  updatedAt: "2026-09-21T15:29:55.000Z",
+  updatedAt: "2026-10-28T19:31:05.753Z",
 } as const satisfies Module

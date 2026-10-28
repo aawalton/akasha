@@ -78,6 +78,7 @@ import {
   fireInventoryActionsChanged,
   rescanInventory,
   rescanWornItems,
+  resolveHouseChests,
   settleInventoryActions,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { registerAutoListResultEvents } from "akasha/temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"
@@ -204,6 +205,7 @@ function listenAtBanks(ns: string): undefined {
       }
       if (GetCurrentZoneHouseId() > 0 && IsOwnerOfCurrentHouse()) {
         scanHouseBanks()
+        resolveHouseChests(GetBankingBag())
       }
       openJunkGate()
       const summary = onOpenBank()

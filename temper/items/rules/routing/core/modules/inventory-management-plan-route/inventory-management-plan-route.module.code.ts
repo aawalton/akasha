@@ -3,6 +3,7 @@ import {
   classifyLocation,
   type LocationTypeId,
 } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { chestIdOfHouseBankKey } from "akasha/temper/items/rules/core/modules/house-storage-chest/house-storage-chest.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type {
   ItemAction,
@@ -103,10 +104,11 @@ export function resolveItemRoute(
   const movesOutOfStorage =
     SHARED_STORAGE_SOURCES.has(locationType) && (action === "move-to" || action === "stock")
   const carrier = storageCarrierOf(context?.characterPriority)
+  const leavesHouseChest = chestIdOfHouseBankKey(entry.locationKey) !== undefined
   if (
     targetCharId == null &&
     carrier !== undefined &&
-    isStorageCarrierMove(destination, movesOutOfStorage)
+    (leavesHouseChest || isStorageCarrierMove(destination, movesOutOfStorage))
   ) {
     targetCharId = carrier
   }
