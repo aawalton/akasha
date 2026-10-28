@@ -1,3 +1,4 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { GroupGranularity } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import {
@@ -7,6 +8,7 @@ import {
   getOptions,
   type PageGroupDefinition,
   type PageResolver,
+  relationFieldOf,
 } from "akasha/page/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 import { pageDayKey } from "akasha/page/core/view/modules/calendar-date-to-value/calendar-date-to-value.module.code.ts"
 import {
@@ -15,6 +17,16 @@ import {
 } from "akasha/page/core/view/modules/group-granularity/group-granularity.module.code.ts"
 
 const NONE_KEY = GROUP_NONE_KEY
+
+function namesIn(held: unknown, fieldId: string): readonly string[] {
+  const records: unknown[] = Array.isArray(held) ? held : [held]
+  const names = records.flatMap((one) => (isRecord(one) ? [one[fieldId]].flat() : []))
+  return [...new Set(names.filter((one): one is string => typeof one === "string" && one !== ""))]
+}
+
+function titleOf(resolver?: PageResolver | null): (key: string) => string {
+  return (key) => (key === NONE_KEY ? "No Value" : (resolver?.resolve(key)?.title ?? key))
+}
 
 export function generateGroupOptions(
   properties: readonly PropertyDefinition[]
@@ -35,6 +47,19 @@ export function getPageGroupDefinition(
   if (!prop || !effectiveGroupable(prop)) return null
 
   const propId = prop.id
+
+  const field = relationFieldOf(prop)
+  if (field !== undefined) {
+    const fieldId = field.id
+    return {
+      getKey: (item) => namesIn(item[propId], fieldId)[0] ?? NONE_KEY,
+      getKeys: (item) => {
+        const names = namesIn(item[propId], fieldId)
+        return names.length === 0 ? [NONE_KEY] : names
+      },
+      getLabel: titleOf(resolver),
+    }
+  }
 
   if (prop.type === "boolean") {
     return {
@@ -82,10 +107,7 @@ export function getPageGroupDefinition(
         const val = item[propId]
         return typeof val === "string" && val !== "" ? val : NONE_KEY
       },
-      getLabel: (key) => {
-        if (key === NONE_KEY) return "No Value"
-        return resolver?.resolve(key)?.title ?? key
-      },
+      getLabel: titleOf(resolver),
     }
   }
 
@@ -102,10 +124,7 @@ export function getPageGroupDefinition(
         if (!Array.isArray(val) || val.length === 0) return [NONE_KEY]
         return val.filter((v): v is string => typeof v === "string")
       },
-      getLabel: (key) => {
-        if (key === NONE_KEY) return "No Value"
-        return resolver?.resolve(key)?.title ?? key
-      },
+      getLabel: titleOf(resolver),
     }
   }
 

@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-grouping-sort/apply-grouping-sort.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-grouping/apply-grouping.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-grouping/apply-grouping.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-view/apply-view.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/calendar-date-to-value/calendar-date-to-value.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts","typed":true,"deferred":false}

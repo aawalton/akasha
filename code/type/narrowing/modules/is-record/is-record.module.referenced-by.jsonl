@@ -40,6 +40,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/core/schema/modules/pages/pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/core/schema/modules/view-data/view-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/core/view-state/modules/reducers/reducers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/core/view/modules/apply-grouping/apply-grouping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/service/modules/kept-rows/kept-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/type/page-property/page-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts","typed":false,"deferred":false}

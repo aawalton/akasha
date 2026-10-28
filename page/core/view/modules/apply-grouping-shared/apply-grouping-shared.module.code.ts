@@ -69,8 +69,17 @@ export function compareGroupLabels(a: string, b: string): number {
 
 export const GROUP_NONE_KEY = "__none__"
 
+const RELATION_TYPES: ReadonlySet<PropertyType> = new Set<PropertyType>([
+  "relation",
+  "multi-relation",
+])
+
+export function relationFieldOf(prop: PropertyDefinition): PropertyDefinition | undefined {
+  return prop.fields?.find((field) => RELATION_TYPES.has(field.type))
+}
+
 export function effectiveGroupable(prop: PropertyDefinition): boolean {
-  return prop.groupable ?? GROUPABLE_BY_TYPE[prop.type]
+  return prop.groupable ?? (GROUPABLE_BY_TYPE[prop.type] || relationFieldOf(prop) !== undefined)
 }
 
 export function isSelectOption(value: unknown): value is SelectOption {
