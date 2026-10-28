@@ -15,6 +15,7 @@ export const temperEffect = {
     "page-type/temper-debuff-other",
     "page-type/temper-effect-category",
     "page-type/temper-special-effect-type",
+    "page-type/temper-status-effect",
     "page-type/temper-status-effect-type",
     "page-type/temper-target-armor",
     "page-type/temper-target-scope",
@@ -22,5 +23,5 @@ export const temperEffect = {
     "page-type/temper-vampire-stage",
   ],
   createdAt: "2026-09-02T01:27:53.148Z",
-  updatedAt: "2026-09-26T20:30:13.000Z",
+  updatedAt: "2026-10-28T21:23:36.804Z",
 } as const satisfies Domain

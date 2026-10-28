@@ -702,6 +702,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-special-effect-type/temper-special-effect-type.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect-type/temper-status-effect-type.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect/temper-status-effect.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/temper-target-scope.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-target-type/temper-target-type.page-type.ts","typed":true,"deferred":false}

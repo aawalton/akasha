@@ -5705,6 +5705,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-special-effect-type/modules/special-effect-type-ids/special-effect-type-ids.data-table.ts","id":"01a0e0b7-5e01-7e18-8b83-ef3f18c975d9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids-keeping/status-effect-type-ids-keeping.change-generator.ts","id":"01a0e0b6-d3f0-78a8-b6a6-785c6a76b5a1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids/status-effect-type-ids.data-table.ts","id":"01a0e0b6-d3f1-73ff-9c48-368add0ffd40"}
+{"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-status-effect/temper-status-effect.page-type.ts","id":"01a18465-a6e6-71b0-97d4-b9c95aa432ef"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-target-scope/modules/target-scope-ids-keeping/target-scope-ids-keeping.change-generator.ts","id":"01a0e0b7-bac5-75a0-b114-6ba6dc4e4834"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-target-scope/modules/target-scope-ids/target-scope-ids.data-table.ts","id":"01a0e0b7-bac6-7e7e-bcc4-af5e8716df4c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-target-type/modules/target-type-ids-keeping/target-type-ids-keeping.change-generator.ts","id":"01a0e0b8-1629-77ee-bb85-17302aa960ea"}
