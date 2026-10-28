@@ -3,7 +3,7 @@
 {"beat":3,"event":"She kicks once, a small flutter against the soft wall around her.","prose":"You kick. It comes out as a small flutter against the soft wall around you.","changes":[]}
 {"beat":4,"event":"She kicks a second time.","changes":[]}
 {"beat":5,"event":"Words open in her mind, read without eyes, as plain as print on a page.","changes":[]}
-{"beat":6,"event":"Window: Achievement - Defeat a Lesser Demon Prince while unborn."}
+{"beat":6,"event":"Window: Achievement - Defeat a Lesser Demon Prince while unborn.","changes":[{"page":"character-title/gifted-reborn-nala-defeat-a-lesser-demon-prince-while-unborn","note":"Achievement shown: Defeat a Lesser Demon Prince while unborn","key":"unrevealed","from":true,"to":false}]}
 {"beat":7,"event":"Window: Reward - Path of the Completionist. 2 Unallocated Stats."}
 {"beat":8,"event":"Window: Achievement - Consume another soul."}
 {"beat":9,"event":"Window: Reward - Path of Soulstealing (mutated), 0 steps."}
