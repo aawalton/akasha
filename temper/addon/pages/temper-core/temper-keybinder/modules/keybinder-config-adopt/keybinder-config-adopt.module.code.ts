@@ -35,7 +35,7 @@ export function sameBindings(one: VkBind[] | undefined, other: VkBind[] | undefi
   return true
 }
 
-export function copiedBindings(bindings: VkBind[] | undefined): VkBind[] {
+function copiedBindings(bindings: VkBind[] | undefined): VkBind[] {
   const copied: VkBind[] = []
   for (let at = 0; at < BINDING_SLOTS; at++) {
     const one = slotOf(bindings, at)
