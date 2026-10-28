@@ -133,7 +133,11 @@ export const giftedRebornNala = {
       fact: "Her window showed the Achievement: Consume another soul and absorb it into your own.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "For consuming a soul, her window showed the reward: Path of Soulstealing (mutated), 0 steps.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:15:26.540Z",
+  updatedAt: "2026-10-28T00:16:02.533Z",
 } as const satisfies Lore
