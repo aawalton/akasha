@@ -89,7 +89,7 @@ export type Played = {
   readonly beats: Beats
 }
 
-export type Unplayed = {
+type Unplayed = {
   readonly namings: readonly Naming[]
   readonly rewritten: readonly { readonly at: string; readonly kept: string }[]
   readonly removed: readonly string[]
@@ -101,7 +101,7 @@ export function shownOf(status: TurnStep, beats: Beats): number {
   return status === BEATS ? shownThrough(beats) : 0
 }
 
-export function movedSince(changes: readonly BeatChange[], reading: Unbeating): string | null {
+function movedSince(changes: readonly BeatChange[], reading: Unbeating): string | null {
   const made = new Set(changes.filter((one) => one.make !== undefined).map((one) => one.page))
   const last = new Map<string, BeatChange>()
   for (const one of changes) {
