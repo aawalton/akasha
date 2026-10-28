@@ -198,7 +198,7 @@ export const giftedMyriadPaths = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Soulstealing's Tiers fall at 10, 50, 200, 500 and 1000 steps, as an Advanced Path's do.",
+      fact: "Soulstealing's Tiers fall at 10, 25, 50 steps and on, as a Basic Path's do.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -229,7 +229,55 @@ export const giftedMyriadPaths = {
       fact: "The Completionist's first Tier falls at 1 step, and its reward is 2 Unallocated Stats.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Talented 109 turned an Achievement's 1000 steps into 1218, and Talented 150 is thirty percent.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gifted, which Talented evolves into, speeds every Path by two fifths of its value in percent.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gifted 150 turned each of two Achievements' 1000 steps into 1600.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Talented and Gifted speed the steps an Achievement pays, as well as steps earned by work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A sped Achievement award falls to the whole step below.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The extra steps an Achievement adds to the Path of Exceptionalism are not sped.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An Achievement may offer steps by a Path's kind, such as 1000 Basic, 100 Advanced or 10 Elite.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An Achievement may offer its steps only to Paths of one Attribute, such as Stamina or Aether.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Path worked steadily gains a few steps to a few dozen a day, and less as time is split.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Doing a thing for real, and at risk, earns its Path more steps than practising it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Doing the same feat again earns its Path little or nothing; variety and harder feats earn more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A strong Affinity, and a good teacher, each speed the Paths they bear on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T01:01:37.385Z",
+  updatedAt: "2026-10-28T14:04:35.033Z",
 } as const satisfies Lore
