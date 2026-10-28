@@ -10,6 +10,7 @@ export const swordArtOnlineS01 = {
   position: 1,
   partOfCollections: ["show/sword-art-online"],
   publishedAt: "2012-07-08",
+  status: "completed",
   posterPath: "/is3J0fmMgmqVt3Shm6J5KtULTyq.jpg",
   voteAverage: 7.6,
   externalIdentity: [
@@ -20,5 +21,5 @@ export const swordArtOnlineS01 = {
     },
   ],
   createdAt: "2026-06-07T22:44:37.949Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-28T18:39:52.205Z",
 } as const satisfies Season

@@ -5,7 +5,7 @@ export const swordArtOnlineShows = {
   type: "page-type/show-collection",
   slug: "sword-art-online-shows",
   title: "Sword Art Online Shows",
-  partOfCollections: ["fandom/sword-art-online"],
+  partOfCollections: [],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
@@ -20,5 +20,5 @@ export const swordArtOnlineShows = {
     },
   ],
   createdAt: "2026-09-03T16:09:37.143Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-28T18:39:52.205Z",
 } as const satisfies ShowCollection

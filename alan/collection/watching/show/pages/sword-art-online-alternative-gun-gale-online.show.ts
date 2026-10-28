@@ -9,6 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnline = {
     "College student Karen takes up Gun Gale Online and gets a reputation as the Pink Demon. Then her gaming buddy Pitohui asks her to join the Squad Jam.",
   partOfCollections: ["fandom/sword-art-online"],
   publishedAt: "2018-04-08",
+  status: "completed",
   lastAirDate: "2024-12-21",
   productionStatus: "ended",
   genres: ["Animation", "Action & Adventure", "Sci-Fi & Fantasy"],
@@ -19,5 +20,5 @@ export const swordArtOnlineAlternativeGunGaleOnline = {
   ],
   imdbId: "tt7978710",
   createdAt: "2026-06-07T22:44:46.086Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-28T18:39:52.205Z",
 } as const satisfies Show

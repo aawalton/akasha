@@ -9,6 +9,7 @@ export const swordArtOnline = {
     "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...",
   partOfCollections: ["fandom/sword-art-online"],
   publishedAt: "2012-07-08",
+  status: "completed",
   lastAirDate: "2020-09-20",
   productionStatus: "ended",
   genres: ["Animation", "Sci-Fi & Fantasy", "Action & Adventure"],
@@ -19,5 +20,5 @@ export const swordArtOnline = {
   ],
   imdbId: "tt2250192",
   createdAt: "2026-06-07T22:44:35.733Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-28T18:39:52.205Z",
 } as const satisfies Show

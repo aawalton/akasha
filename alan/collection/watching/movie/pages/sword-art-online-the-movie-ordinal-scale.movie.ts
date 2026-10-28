@@ -8,9 +8,11 @@ export const swordArtOnlineTheMovieOrdinalScale = {
   description:
     "In 2026, a new machine called the Augma is developed to compete against the NerveGear and its successor, the Amusphere. A next-gen wearable device, the Augma doesn't have a full-dive function like its predecessors. Instead, it uses Augmented Reality to get players into the game. It is safe, user-friendly and lets users play while they are conscious, making it an instant hit on the market. The most popular game on the system is “Ordinal Scale” an ARMMORPG developed exclusively for the Augma. Asuna and the gang have already been playing OS for a while, by the time Kirito decides to join them. They’re about to find out that Ordinal Scale isn’t all fun and games…",
   ownLength: 119,
+  ownProgress: 119,
   unit: "unit/minutes",
   partOfCollections: ["fandom/sword-art-online"],
   publishedAt: "2017-02-18",
+  status: "completed",
   productionStatus: "released",
   genres: ["Animation", "Action", "Adventure", "Fantasy", "Science Fiction"],
   posterPath: "/2szdEK0Mr0RG0nWGFVTseNQHbnP.jpg",
@@ -24,5 +26,6 @@ export const swordArtOnlineTheMovieOrdinalScale = {
   ],
   imdbId: "tt5544384",
   createdAt: "2026-06-07T22:44:50.759Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-28T18:39:52.205Z",
+  progressedAt: "2026-10-28T18:39:52.205Z",
 } as const satisfies Movie

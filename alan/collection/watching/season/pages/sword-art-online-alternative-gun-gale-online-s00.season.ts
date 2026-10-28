@@ -8,6 +8,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS00 = {
   position: 0,
   partOfCollections: ["show/sword-art-online-alternative-gun-gale-online"],
   publishedAt: "2018-05-13",
+  status: "completed",
   posterPath: "/1EBk96E3cVVOEVlx2z744oEuFQk.jpg",
   voteAverage: 0,
   externalIdentity: [
@@ -18,5 +19,5 @@ export const swordArtOnlineAlternativeGunGaleOnlineS00 = {
     },
   ],
   createdAt: "2026-06-07T22:44:46.608Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-28T18:39:52.205Z",
 } as const satisfies Season
