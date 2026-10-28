@@ -11,9 +11,14 @@ export const evangelion30YouCanNotRedo = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "75629", externalLink: "https://www.themoviedb.org/movie/75629" },
+    {
+      source: "tmdb",
+      externalId: "75629",
+      externalLink: "https://www.themoviedb.org/movie/75629",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Evangelion: 3.0 You Can (Not) Redo",
   createdAt: "2026-10-28T18:45:25.632Z",
-  updatedAt: "2026-10-28T18:45:25.632Z",
+  updatedAt: "2026-10-28T19:47:08.081Z",
 } as const satisfies Movie
