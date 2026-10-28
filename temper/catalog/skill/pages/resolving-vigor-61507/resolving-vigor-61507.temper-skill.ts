@@ -20,9 +20,9 @@ export const resolvingVigor61507 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1044,
   createdAt: "2026-05-28T16:03:33.533Z",
-  updatedAt: "2026-10-21T07:12:28.248Z",
+  updatedAt: "2026-10-28T20:28:26.955Z",
   equations: [
-    "<<1>> = 0.04001 MaxStat + 0.41999 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, DOT, 5s duration, 1s tick, ticks on application)",
+    "<<1>> = 0.03874 MaxStat + 0.40674 MaxPower (Ultimate, RankMod(1), Heal, SingleTarget, DOT, 5s duration, 1s tick, ticks on application, rank IV)",
     "<<2>> = 5 seconds (Constant)",
     "<<3>> = Minor Resolve (Constant)",
     "<<4>> = 2974 (Constant)",
