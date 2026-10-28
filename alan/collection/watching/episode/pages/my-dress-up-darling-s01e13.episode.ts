@@ -7,11 +7,11 @@ export const myDressUpDarlingS01e13 = {
   description:
     "Wakana helps Marin make a bunny girl outfit so she can cosplay as one of her favorite characters.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 13,
   publishedAt: "2025-07-06",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const myDressUpDarlingS01e13 = {
   stillPath: "/nvE5IzEBN8jlFLuyNJABsArrkmv.jpg",
   voteAverage: 7.9,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:23.269Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:23.269Z",
 } as const satisfies Episode
