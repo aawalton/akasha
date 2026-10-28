@@ -101,6 +101,9 @@ const JUMP = "RequestJumpToHouse"
 
 interface Circuit {
   readonly id: number
+  readonly label: string
+  readonly stopsOf: (this: void) => readonly HouseStop[] | undefined
+  readonly noneSaid: string
   readonly ported: number[]
   readonly passStorage: boolean
   readonly oneHop: boolean
@@ -130,8 +133,9 @@ function stopCircuit(): undefined {
 }
 
 function endCircuit(text: string): undefined {
+  const label = circuit?.label ?? "Circuit"
   stopCircuit()
-  say(`Circuit: ${text}`)
+  say(`${label}: ${text}`)
 }
 
 function liveCircuit(id: number): Circuit | undefined {
@@ -140,15 +144,15 @@ function liveCircuit(id: number): Circuit | undefined {
 
 function waitedOut(run: Circuit): boolean {
   if (IsUnitInCombat("player")) {
-    if (!run.combatSaid) say("Circuit: paused for combat")
+    if (!run.combatSaid) say(`${run.label}: paused for combat`)
     run.combatSaid = true
     return false
   }
-  if (run.combatSaid) say("Circuit: combat is over, going on")
+  if (run.combatSaid) say(`${run.label}: combat is over, going on`)
   run.combatSaid = false
   const work = workLeft()
   if (work === undefined) return true
-  if (!run.waitingSaid) say(`Circuit: porting on once ${work}`)
+  if (!run.waitingSaid) say(`${run.label}: porting on once ${work}`)
   run.waitingSaid = true
   return false
 }
@@ -180,12 +184,10 @@ function advance(id: number): undefined {
     zo_callLater(() => advance(id), POLL_MS)
     return
   }
-  const stops = houseStopsNow()
+  const stops = run.stopsOf()
   if (stops === undefined) return endCircuit("stopped, no rules compiled — sync from Temper web")
   const step = circuitStep(stops, houseHere(), run.ported, run.passStorage)
-  if (step.kind === "done") {
-    return endCircuit(run.ported.length === 0 ? "no house stop left in the plan" : "done")
-  }
+  if (step.kind === "done") return endCircuit(run.ported.length === 0 ? run.noneSaid : "done")
   const name = houseName(step.stop.collectibleId)
   const work = houseStopSaid(step.stop.reason)
   if (step.kind === "repeat") {
@@ -195,7 +197,8 @@ function advance(id: number): undefined {
     endCircuit(`stopping at ${name} for ${work}; press again there to go on`)
     return portTo(step.stop.collectibleId)
   }
-  portOn(run, step.stop.collectibleId, `Circuit: ${step.number} of ${step.total}, ${name}, ${work}`)
+  const line = `${run.label}: ${step.number} of ${step.total}, ${name}, ${work}`
+  portOn(run, step.stop.collectibleId, line)
 }
 
 function arrived(id: number): undefined {
@@ -209,15 +212,21 @@ function arrived(id: number): undefined {
   zo_callLater(() => advance(id), SETTLE_MS)
 }
 
-export function travelToNextInventoryHouse(this: void): undefined {
-  if (circuit !== undefined) return endCircuit("cancelled")
-  const stops = houseStopsNow()
-  if (stops === undefined) return say("Circuit: no rules compiled — sync from Temper web")
+function beginCircuit(
+  label: string,
+  stopsOf: (this: void) => readonly HouseStop[] | undefined,
+  noneSaid: string
+): undefined {
+  const stops = stopsOf()
+  if (stops === undefined) return say(`${label}: no rules compiled — sync from Temper web`)
   circuitsBegun += 1
   const id = circuitsBegun
   const oneHop = IsPrivateFunction(JUMP) || IsProtectedFunction(JUMP)
   circuit = {
     id,
+    label,
+    stopsOf,
+    noneSaid,
     ported: [],
     passStorage: startsAtStorage(stops, houseHere()),
     oneHop,
@@ -225,7 +234,7 @@ export function travelToNextInventoryHouse(this: void): undefined {
     waitingSaid: false,
     combatSaid: false,
   }
-  if (oneHop) say("Circuit: the game guards house ports, so each press ports once")
+  if (oneHop) say(`${label}: the game guards house ports, so each press ports once`)
   EVENT_MANAGER.RegisterForEvent(
     CIRCUIT_EVENTS,
     EVENT_PLAYER_ACTIVATED,
@@ -234,4 +243,9 @@ export function travelToNextInventoryHouse(this: void): undefined {
     }
   )
   advance(id)
+}
+
+export function travelToNextInventoryHouse(this: void): undefined {
+  if (circuit !== undefined) return endCircuit("cancelled")
+  beginCircuit("Circuit", houseStopsNow, "no house stop left in the plan")
 }
