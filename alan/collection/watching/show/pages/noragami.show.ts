@@ -11,9 +11,15 @@ export const noragami = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "64710", externalLink: "https://www.themoviedb.org/tv/64710" },
+    {
+      source: "tmdb",
+      externalId: "64710",
+      externalLink: "https://www.themoviedb.org/tv/64710",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Noragami",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:46:14.769Z",
-  updatedAt: "2026-10-28T18:46:14.769Z",
+  updatedAt: "2026-10-28T19:45:28.559Z",
 } as const satisfies Show
