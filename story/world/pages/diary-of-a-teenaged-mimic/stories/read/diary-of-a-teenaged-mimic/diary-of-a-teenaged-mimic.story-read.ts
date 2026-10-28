@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const diaryOfATeenagedMimic = {
+  id: "01a18389-f63a-7919-b870-dccd93807ea3",
+  type: "page-type/story-read",
+  slug: "diary-of-a-teenaged-mimic",
+  author: "Kenny Celican",
+  following: false,
+  unit: "unit/words",
+  title: "Diary of a Teenaged Mimic",
+  world: "world/diary-of-a-teenaged-mimic",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "71275",
+      externalLink: "https://www.royalroad.com/fiction/71275/diary-of-a-teenaged-mimic",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Anti-Hero Lead",
+    "Comedy",
+    "Female Lead",
+    "Action",
+    "Fantasy",
+    "Romance",
+    "Lesbian Romance",
+    "Magic",
+    "Modern Knowledge",
+    "Reincarnation",
+    "Romance Subplot",
+    "School Life",
+    "Secret Identity",
+    "Slice of Life",
+    "Strong Lead",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-28T17:23:39.194Z",
+  updatedAt: "2026-10-28T17:23:39.194Z",
+} as const satisfies StoryRead
