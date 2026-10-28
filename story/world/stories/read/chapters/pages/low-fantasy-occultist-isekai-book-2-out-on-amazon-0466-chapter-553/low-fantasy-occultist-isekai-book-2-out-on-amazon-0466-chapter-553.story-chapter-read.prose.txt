@@ -1,0 +1,127 @@
+Viscount Aris turned on his heel and left the room with as much dignity as a man in his position could. The door clicked shut, leaving the two Valerius agents alone.
+
+"He still clings to his pride," the agent named Coala murmured. "A foolish trait for a man with empty coffers.”
+
+“He will break by Friday," his partner replied, sorting through a stack of parchment ledgers. “We should send word to the local gangs to visit the Viscount’s primary forges in the next few days. They need only crack the runic plates on the cooling vats and shatter a few molds. A two-day delay will guarantee he misses the Junior Minister's quota.”
+
+Coala took a slow sip of his wine. “I’ll see it done. Once the Crown auditors arrive, he will be forced to sign the credit lines, and the Consortium will own Trelan in all but name.”
+
+“There is only one thing left,” the other muttered, drawing a chilling glance from Coala.
+
+“We have already taken precautions in case those two decide to intervene. They’ll be far too busy soon enough.”
+
+That seemed to be enough, and they returned to discussing minor matters.
+
+Satisfied he had a general understanding of things, Nick turned and slipped out of the private room, past the Consortium enforcers in the common area, and out.
+
+He rented a room at a quiet inn near the eastern gate, paying a week in advance with the silver he had earned from the razor-boars. The room was sparse, with a bed, an enchanted washbasin, and a sturdy desk beneath a shuttered window, but it was more than enough for his purposes.
+
+Once he’d layered enough wards around the place to make a Prestige think twice before knocking, he tossed his coat onto the bed and sat at the desk, unwrapping the brown paper from the book he’d bought at the market. The blue cover felt soft under his fingertips, and he considered its contents.
+
+He had amassed a staggering amount of power in a very short time. His Saga-spells could level city blocks, and his mere presence could render men insensate if he so much as let them manifest.
+
+Yet the sheer scale of his magic often left the finer, mundane details overlooked. The times ahead would require a delicate touch, and Nick could see the value in expanding his repertoire of utility spells.
+
+He opened the book and set to studying the hand-drawn diagrams. The structures were elegant, designed for finesse rather than destruction, and he could tell whoever crafted them did so with deep understanding.
+
+Flipping through the pages, he skipped the elemental spells and eventually chose a mending charm as his first. The spell required the caster to identify an item's original pattern and force the separated edges to bond, using mana to create additional material from the surrounding material.
+
+It was, in essence, an exercise in pure intent, requiring only a little knowledge. Nick pulled a spare linen shirt from his spatial ring and, with a flick of his finger, tore a line down the sleeve.
+
+He channeled a tiny amount of mana, weaving it through the pathways described in the book, and pressed his fingers against the torn fabric. The linen edges glowed faintly, and the threads stretched toward one another, knitting into a seamless weave.
+
+Nick ran his thumb over the repaired sleeve. The fabric was whole, showing no sign of the tear, and there was no noticeable dip in quality, though he suspected that had more to do with the potency of his mana than any innate quality of the spell. He still adjusted the spellform in his mind, tightening the structure to reduce the mana cost to a negligible trickle and increasing the range so it could be used on more than a single object.
+
+I’m pretty sure it wouldn’t work as well on an artifact. Repair complexity and requirements scale with the target’s complexity. But unless I tried to repair one of Tholm’s works, there is little I shouldn’t be able to fix with this.
+
+CONGRATULATIONS!
+
+You have learned the spell [Mending] [Expert].
+
++100,200 Exp
+
+The experience gained was only a fraction of what he needed for the next level, but the system notification confirmed his mastery of the concept.
+
+He turned the page and found a diagram for a scouring charm. The magic worked by isolating foreign particulates on a surface and expelling them with kinetic energy. Nick looked down at his boots, coated with dust from the King’s Highway and spotted with dried razor-boar blood.
+
+Unlike his new clothes, they were enchanted only to be resilient, not self-cleaning.
+
+He visualized the spell structure, feeding it a sliver of mana, then swept his hand over his boots. A soft pop echoed. Dust and dried blood vanished, repelled outward in an invisible wave, leaving the dark leather gleaming as if freshly polished.
+
+CONGRATULATIONS!
+
+You have learned the spell [Scour] [Proficient].
+
++21,100 Exp
+
+I didn’t fiddle with this nearly as much, but I guess it’s basically impossible for me to learn any spell below [Proficient] rank these days, especially given all the experience I have with kinetic mana.
+
+Nick spent the next three hours working through the book, learning to purify water by stripping away sediment and ‘impurities’. He also learned to regulate temperature, creating a sustained, spherical pocket of warmth that required no fuel. As a Prestige-tier mage, he had a natural immunity to the cold and could summon pure water from the atmosphere with a thought, but dissecting the mortal spells offered a fascinating look into arcane efficiency.
+
+It was also a good way to decompress. He had a stressful time ahead, and the past weeks hadn’t been easy either. Taking some time to fiddle with spells so basic he could have cast them in his previous life relaxed him more than anything else.
+
+As the sun finally dipped below the horizon and the streets of Trelan plunged into shadows, Nick closed the book.
+
+He stood, pulled his cloak back on, and wrapped its enchantments around himself. He opened the window and stepped out onto the tiled roof, moving silently across the rooftops.
+
+He located Viscount Aris’s manor in the affluent ring in the city center. The estate was built of sturdy stone and surrounded by a wrought-iron fence. The grounds were immaculate, yet a subtle air of decline hung over the property. Several upper-floor windows remained dark, and guard patrols along the perimeter were sparse.
+
+He seemed to have fallen on hard times, but his clothes were well made, and his blade was enchanted by a Master. I wonder if he’s been using his own wealth and resources to support the city’s production and prevent foul play. A noble of his rank should have many more servants and guards, even if he was having money problems.
+
+Nick slipped into the central courtyard without a sound and walked past two guards leaning tiredly on their spears, slipping through an open balcony door on the second floor.
+
+He followed the faint murmur of voices into a wood-paneled study.
+
+Viscount Aris stood behind a desk, leaning over a map of Trelan’s industrial district. A younger man, broad-shouldered and wearing the scorch marks of a forge worker on his leather apron, stood opposite him.
+
+"They will strike the production lines, Elias. I’m certain of it. And it will be soon,” Aris said, rubbing the bridge of his nose. He looked ten years older than he had in the tavern. “The Valerius goons will not leave the quota to chance. I have doubled the watch on the main warehouses, so you just need to take care of the workshops.”
+
+"We lack the manpower to staff every shop, my Lord, much less protect them,” Elias replied, his voice tight with frustration. "The apprentices are exhausted. We have already been running the forges twenty hours a day to meet demand. If I ask them to work through the night, they will drop from fatigue, and the production rate will fall anyway.”
+
+“If something happens to the workshops, production will stop completely," Aris countered. "Put swords in the apprentices’ hands if you need to make them feel safer. We only need to hold out until Friday. The Rapier will be finished with whatever his business is and will be able to take over the watch.”
+
+The last bit was quite interesting. Through his sleuthing that day, Nick had learned that one of the strongest presences he’d felt in town was this Rapier, a swordsman of significant skill known for his ties to a monastic Knightly Order in the East. He was known to see his jobs through at all costs, and if the Viscount had contracted him for protection, it would definitely help shore up his position.
+
+Unfortunately for him, he wouldn’t have the time he needed. The Valerius Consortium wasn’t afraid to take advantage of criminal elements and would soon strike in force, leaving the guards powerless to stop them.
+
+Nick retreated from the study, slipping back into the night and heading toward the industrial district.
+
+I told myself I’d stay out of trouble, but this kind of thing really makes my blood boil. The weaker Valerius is, the better for the whole West.
+
+Furnace fires lit the smog hanging over the southern quarter of Trelan. The clang of blacksmith hammers rang through the quiet streets, barely muffled by silencing charms.
+
+Nick landed in an alley beside a workshop. Two young apprentices, each holding a short sword, stood by the loading doors, their eyes drooping with exhaustion.
+
+Nick walked past without alerting them, though he felt he could have done so even without the Stillness, so tired were they. Crates of iron ingots and stacks of uniform breastplates lined the walls, ready to be taken to a warehouse the next morning.
+
+He raised his hands and wove a network of kinetic tripwires across the entryways, skylights, and walls.
+
+He designed the wards for subtlety, avoiding anchors that could alert a skilled caster, and instead gave them enough mana to last the next couple of days.
+
+If someone crossed the threshold with hostile intent, the threads would snap, releasing energy that would push the intruders out and ring like a bell, instantly alerting the apprentices—and the rest of the district. Hopefully, that’d be enough to stop the sabotage.
+
+He repeated the process at four more shops and the three main warehouses, securing the Viscount’s stored goods from the gangs.
+
+Next, he moved to the main forge.
+
+The heat inside the building baked the moisture from the air. Dozens of men worked in the red glow of the furnaces, pouring molten iron into molds and quenching glowing blades in long stone vats of water.
+
+Nick watched from the rafters' shadows, focusing his senses on the runic arrays etched into the cooling vats' sides and the massive leather bellows feeding the fires.
+
+The enchantments were well made, if a bit basic, but time and overuse had caused some problems. They leaked energy, losing power to friction and misalignment.
+
+Nick dropped to the floor, weaving between the working men, and approached a large cooling vat. A smith plunged a glowing dagger into the water, and a cloud of steam hissed into the air. The runic array along the vat's side flared, drawing heat away and stabilizing the liquid.
+
+Nick reached out and rested his fingertips against the stone. He didn't bother to rewrite the array; a complete overhaul would draw immediate suspicion and might halt the work. He smoothed the sharp angles, aligning the internal pathways to reduce friction.
+
+It might not be my specialty, but I am Tholm’s apprentice. Basic wards and arrays are well within my capabilities.
+
+A second smith plunged another breastplate into the vat. The steam hissed, but the water calmed in half the time as the heat dissipated with newfound efficiency. The smith blinked, wiping sweat from his eyes, looked at the vat in confusion, then shrugged and pulled the cooled metal free.
+
+Nick moved through the forge, adjusting the bellows arrays. He widened the intake vectors, letting the enchantments draw more oxygen while using less mana. The furnace fires burned hotter, and the iron melted minutes faster than before.
+
+All in all, he estimated that his changes would increase performance by twenty percent.
+
+It was a subtle margin, almost invisible to the naked eye in the short term, but when compounded across hundreds of armor pieces and dozens of workers, it would save crucial hours of labor. Aris would meet the quota, and the Valerius Consortium would find their trap sprung empty.
+
+An alarm bell rang as he left the forge, and his senses told him several guards were already converging on the unfortunate thugs who had tripped his wards.

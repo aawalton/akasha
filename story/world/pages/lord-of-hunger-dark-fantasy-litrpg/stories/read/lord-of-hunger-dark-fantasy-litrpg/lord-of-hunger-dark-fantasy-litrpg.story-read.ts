@@ -29,8 +29,8 @@ export const lordOfHungerDarkFantasyLitrpg = {
     "High Fantasy",
     "Magic",
   ],
-  publicationStatus: "completed",
+  publicationStatus: "ongoing",
   readLater: true,
   createdAt: "2026-10-23T23:48:48.072Z",
-  updatedAt: "2026-10-23T23:48:48.072Z",
+  updatedAt: "2026-10-28T16:30:34.604Z",
 } as const satisfies StoryRead

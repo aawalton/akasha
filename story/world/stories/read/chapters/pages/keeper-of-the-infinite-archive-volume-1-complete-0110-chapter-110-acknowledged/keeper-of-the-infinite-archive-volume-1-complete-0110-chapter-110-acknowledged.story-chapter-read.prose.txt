@@ -1,0 +1,291 @@
+A small pause stretched across the Patron Services desk.Gregor looked again at the final line glowing on the main interface.
+
+SUCCESSOR OPERATIONAL STATUS: [PROTECTED]
+
+Then Gregor looked at Bart.“Did anyone keep them?” he asked.
+
+Bart looked at him and turned back to the interface.
+
+“System,” Bart ordered. “Was the designated successor ever operational?”
+
+YES
+
+Bart refused to assume that the single affirmative meant another Infinite Archive had simply sprung into existence somewhere else.
+
+“Operational in what capacity?” Bart asked.
+
+SUCCESSOR CONTINUITY MODE: ACTIVE
+
+FULL INSTITUTIONAL OPERATION: NOT ESTABLISHED
+
+PRIMARY FACILITY REPLACEMENT: NOT REQUIRED
+
+CONTINUITY AUTHORITY: LIMITED
+
+“So it wasn't another Archive,” Gregor noted.
+
+“Not necessarily,” Bart said.
+
+Nell, still sorting dispatches nearby, did not look up.
+
+“It didn't need to be,” she pointed out. “It only needed to keep doing what that package said mattered.”
+
+“System,” Bart requested. “Which declared continuity functions became operational?”
+
+SUCCESSOR FUNCTION STATUS
+
+CATALOGUE AUTHORITY: AVAILABLE
+
+OBLIGATION REGISTRY: ACTIVE
+
+LIMITED CHARTER AUTHORITY: ACTIVE
+
+SERVICE CONTINUITY PROCEDURES: ACTIVE
+
+SUCCESSION RECORDS: AVAILABLE
+
+PRESERVATION PRIORITIES: ACTIVE
+
+EXTERNAL LIAISON: ACTIVE
+
+ARCHIVAL HOLDINGS SERVICE: UNAVAILABLE
+
+Gregor immediately pointed at the final line.
+
+“Still no books.”
+
+“Still no books,” Bart agreed.
+
+Bart frowned at the list. “How do you operate a library without holdings?”
+
+“You don't,” Nell said.
+
+Bart looked at her. “Meaning?”
+
+“Outstanding requests stay outstanding. Property entrusted to us still belongs to whoever entrusted it. Restrictions remain restrictions. Agreements remain agreements.”
+
+“Even without the books.”
+
+“Especially without the books,” Nell said. “You can't lend what you don't have. You can still tell people what you owe them.”
+
+“So it was a library desk with no library,” Gregor reasoned.
+
+“A continuity desk,” Nell corrected.
+
+“Desk with no library.”
+
+Nell smirked and let it go.
+
+A patron approached the desk before Bart could ask his next question. He was a human academic in a slightly frayed university robe, holding a retrieval slip with a look of mild irritation.
+
+He bypassed Gregor and walked directly toward Nell.
+
+“Excuse me,” the scholar said. “I submitted this request an hour ago. The catalogue clearly indicates the Archive holds this text.”
+
+Mabel, who had been resting near the admissions archway, padded silently across the stone floor understanding there might be potential conflict. She did not assume an aggressive posture, but she sat directly beside the counter. Her presence was entirely sufficient to ensure nothing got out of hand.
+
+“We do hold the text,” Nell said, taking the slip.
+
+“Then why have I not received it?”
+
+Mabel looked at the scholar. “Your authorisation remains valid,” the Sphinx said calmly. “However, the holding is presently inaccessible.”
+
+The scholar frowned. “Inaccessible how?”
+
+“The route to that specific section is currently uncertified,” Bart supplied. “We cannot provide the item today.”
+
+The scholar looked from Bart to Mabel to Nell. “Then why did the catalogue accept the request? Why is the request still open if you can't fulfil it?”
+
+Nell placed the slip on her ledger.
+
+“Because unavailable is not the same as cancelled,” Nell replied.
+
+She entered a formal modification into the system. A small display facing the patron updated with a soft chime.
+
+REQUEST STATUS: OPEN
+
+FULFILMENT: DEFERRED
+
+PATRON RIGHT: PRESERVED
+
+“We keep the obligation,” Nell explained flatly. “When the route is certified, your priority in the queue will be honoured. Until then, the Archive acknowledges the debt.”
+
+The scholar read the glowing text again.
+
+“I see,” he said. “Thank you.”
+
+He turned and walked back toward the reading rooms.
+
+Bart looked from the patron's departing back to the historical slate.
+
+OBLIGATION REGISTRY: ACTIVE
+
+Gregor frowned at the list of active functions on the slate.
+
+“Then why did it take us this long to find any of this?”
+
+“System,” Bart said. “At the time of delivery, was the receiving authority able to access the continuity package?”
+
+YES
+
+RECEIVER ACCESS: AUTHORISED
+
+DECLARED CONTINUITY RECORDS: AVAILABLE
+
+REQUIRED OPERATIONAL CREDENTIALS: INCLUDED
+
+Gregor stared at the answer. “So they didn't have to do all this?”
+
+“No.” Bart looked back at the manifest. “We're looking at the shipping record.”
+
+Nell glanced over. “Not the parcel itself.”
+
+Bart nodded. “Exactly.”
+
+“Then why is the shipping record protected?”
+
+Bart asked the interface again.
+
+SOURCE RECORD RESTRICTIONS
+
+PATRON IDENTITY PROTECTION: ACTIVE
+
+CUSTODIAL RELATIONSHIP PROTECTION: ACTIVE
+
+SUCCESSION / GOVERNANCE PROTECTION: ACTIVE
+
+CREDENTIAL SECURITY: ACTIVE
+
+Nell shrugged. “Because apparently the parcel contained everything you wouldn't want an unauthorized person reading.”
+
+Gregor looked at the manifest. “So Keeper #4,091 didn't hide it from whoever he sent it to.”
+
+Bart shook his head. “Apparently not, in fact it would have been much easier for them”
+
+Bart looked back at the active functions.
+
+“Did the successor perform any external institutional action?” Bart asked.
+
+YES
+
+FIRST RECORDED CONTINUITY ACTION: EXTERNAL STATUS NOTICE
+
+PURPOSE: PRESERVE EXISTING INSTITUTIONAL OBLIGATIONS DURING LOSS OF PRIMARY OPERATING CAPACITY
+
+Bart carefully requested the non-protected metadata. He did not ask for recipient names or protected identities.
+
+NOTICE CLASS: CONTINUITY / SERVICE INTERRUPTION
+
+ORIGIN: SUCCESSOR AUTHORITY
+
+HOLDINGS ACCESS: UNAVAILABLE
+
+OUTSTANDING OBLIGATIONS: PRESERVED
+
+EXTERNAL CLAIMS: PRESERVED
+
+FUTURE SERVICE: SUBJECT TO RESTORATION OR SUCCESSOR CAPACITY
+
+The successor authority had effectively announced: Primary service is unavailable, but the Archive's obligations still exist.
+
+Gregor read the display. “They told people?”
+
+“Well someone did atleast” Nell said.
+
+“System,” Bart asked. “Was the external notice acknowledged by outside institutions?”
+
+YES
+
+RESPONSE CONTENT: PROTECTED
+
+RECOGNISED EXTERNAL RELATIONSHIPS PRESERVED: YES
+
+Bart didn't ask for the number of responses. They didn't need to know how many organisations or claims had replied. The important point was that the continuity network had been alive.
+
+Albert, who had been quietly wiping down the railing near the desk, paused.
+
+“Would that still count as the Infinite Archive, Albert?” Bart asked the longest serving staff member.
+
+Albert thought about it.
+
+“I do not know, sir,” the Chief Custodian said slowly. “But it sounds as though someone was still doing the work.”
+
+Bart continued to look at him while Albert simply resumed wiping the railing.He had learned not to confuse custody, delegated authority, and ownership.
+
+“Did the continuity package transfer ownership of the Infinite Archive?” Bart asked.
+
+NO
+
+INSTITUTIONAL OWNERSHIP TRANSFER: NOT DECLARED
+
+SUCCESSOR AUTHORITY: CONTINUITY-LIMITED
+
+“So whoever got it didn't own the Archive,” Gregor confirmed.
+
+“Correct,” Bart said.
+
+“Couldn't sell it?”
+
+“That is not how…”
+
+“No,” Nell interrupted firmly.
+
+“Good,” Gregor said.
+
+Keeper #4,091 had not transferred ownership. He had delegated enough authority for the institution's obligations to continue.Bart now needed to know when it happened.He had the established timeline for event RSE-3942, the routing window Keeper #4,091 had used.
+
+“System,” Bart ordered. “Place initial successor operation relative to the known routing sequence.”
+
+The Archive assembled the overlay.
+
+RSE-3942 - VERIFIED EVENT ORDER
+
+CONTINUITY TRANSFER AUTHORISED
+
+CONTINUITY TRANSFER DISPATCHED
+
+CONTINUITY TRANSFER DELIVERED
+
+SUCCESSOR CONTINUITY OPERATION CONFIRMED
+
+DESTINATION AMENDMENT RECORDED
+
+KEEPER #4,091 TRANSIT COMPLETED
+
+EVENT VALIDITY CLOSED
+
+Bart stopped in his tracks while Gregor saw it too and he asked the obvious question.
+
+“Did Keeper #4,091 receive confirmation that successor continuity had begun?”
+
+YES
+
+SUCCESSOR STATUS ATTESTATION: RECEIVED
+
+ATTESTATION RECIPIENT: KEEPER #4,091
+
+STATUS: ACKNOWLEDGED
+
+The content remained protected, so did the recipient but Keeper #4,091 had received confirmation that continuity had begun. Whatever he intended to do next, he had waited for that first.
+
+Gregor read the status again.
+
+“He waited.”
+
+Bart looked at the sequence.
+
+Transfer delivered.
+
+Continuity confirmed.
+
+Destination amended.
+
+Keeper transit completed.
+
+“Yes,” Bart said.
+
+Gregor stared at the final word.
+
+ACKNOWLEDGED.
+
+“Someone answered him.”

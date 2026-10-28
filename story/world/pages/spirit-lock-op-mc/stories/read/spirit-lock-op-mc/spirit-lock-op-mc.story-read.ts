@@ -41,8 +41,8 @@ export const spiritLockOpMc = {
     "Strong Lead",
     "Time Travel",
   ],
-  publicationStatus: "ongoing",
+  publicationStatus: "hiatus",
   readLater: true,
   createdAt: "2026-10-22T20:47:24.881Z",
-  updatedAt: "2026-10-22T20:47:24.881Z",
+  updatedAt: "2026-10-28T16:30:34.604Z",
 } as const satisfies StoryRead

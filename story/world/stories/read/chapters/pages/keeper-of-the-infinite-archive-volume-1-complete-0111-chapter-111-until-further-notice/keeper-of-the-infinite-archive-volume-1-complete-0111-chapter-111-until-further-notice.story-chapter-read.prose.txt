@@ -1,0 +1,347 @@
+Bart placed the processed paperwork into the out tray, checked the queue for any pending tickets, and approved a routine access extension for a visiting scholar from Tessera.An hour had passed since they had confirmed the existence of a functioning continuity successor. Bart had deliberately returned to his duties, letting the historical revelation settle rather than immediately chasing the next mystery.
+
+Gregor returned from one of stacks wheeling an empty retrieval trolley behind him. He parked it neatly against the railing, walked over to the Patron Services desk, and looked down at the main interface.
+
+The slate still displayed the protected operational status of the successor.
+
+“How long?” Gregor asked.
+
+Bart turned back to the interface.
+
+“System,” Bart ordered. “How long did successor continuity remain operational?”
+
+SUCCESSOR CONTINUITY OPERATION: ESTABLISHED
+
+CONTINUOUS SERVICE: VERIFIED
+
+MINIMUM VERIFIED DURATION: 41 YEARS
+
+FINAL TERMINATION: NOT ESTABLISHED
+
+Bart stared at the number. “41 years.”
+
+Whoever, or whatever, had received Keeper #4,091’s continuity package had not merely sent a polite confirmation and faded into the dark. They had maintained the Archive's continuity functions for at least four decades after the loss of primary operating capacity.
+
+“Was service level constant during the verified period?” Bart asked.
+
+The System reorganised the surviving records.
+
+SUCCESSOR SERVICE HISTORY
+
+INITIAL CONTINUITY PHASE: EMERGENCY
+
+SERVICE STABILISATION: CONFIRMED
+
+ROUTINE CONTINUITY OPERATION: ESTABLISHED
+
+LATER SERVICE REDUCTION: RECORDED
+
+CAUSE OF REDUCTION: NOT AVAILABLE
+
+Bart stopped at the third line. “Routine?”
+
+YES
+
+Gregor frowned. “Routine as in every day?”
+
+SERVICE FREQUENCY: VARIABLE
+
+ROUTINE ADMINISTRATIVE PROCESSING: VERIFIED
+
+41 years was long enough for an emergency procedure to become somebody's daily job.
+
+“What was reduced?” Bart asked.
+
+LATER CONTINUITY SERVICE PROFILE
+
+NEW REFERENCE REQUESTS: RESTRICTED
+
+NEW CUSTODIAL COMMITMENTS: RESTRICTED
+
+EXISTING OBLIGATIONS: MAINTAINED
+
+EXTERNAL STATUS RESPONSES: REDUCED
+
+CLAIM PRESERVATION: ACTIVE
+
+SUCCESSION AUTHORITY: ACTIVE / LIMITED
+
+Gregor read it slowly. “They stopped taking new work.”
+
+“Mostly,” Bart said.
+
+“But kept the old work.”
+
+Bart looked at the glowing blue text. “Yes.”
+
+Gregor frowned. “For how long though?”
+
+VERIFIED THROUGH FINAL AVAILABLE REPORT
+
+That changed the shape of the 41 years. The successor had not simply failed all at once. At some point, something had forced it to reduce service. It had stopped promising as much but it had continued trying to honour what had already been promised.
+
+Bart pointed at the first line.
+
+“Did service reduction invalidate previously acknowledged obligations?”
+
+NO
+
+EXISTING VALID OBLIGATIONS: PRESERVED
+
+Gregor stared at it. “Even when they couldn't do everything anymore.”
+
+“Especially then,” Bart said.
+
+Bart requested a representative activity record.
+
+SAMPLE CONTINUITY ACTION
+
+SERVICE YEAR: 18
+
+REQUEST: CUSTODIAL STATUS VERIFICATION
+
+RESPONSE: OBLIGATION REMAINS VALID
+
+HOLDINGS ACCESS: UNAVAILABLE
+
+ACTION: CLAIM PRESERVED
+
+FOLLOW-UP: REQUIRED IF PRIMARY SERVICE RESTORED
+
+Gregor read it. “That's it?”
+
+“18 years after everything collapsed, somebody asked if the Archive still owed them something.”
+
+“And somebody answered,” Bart said.
+
+Bart scrolled through the surviving activity index.
+
+There were no grand findings, most entries were ordinary. A disputed custodial restriction in service year 9. A provenance confirmation in year 23. An external institution asking in year 31 whether an old claim remained recognised.
+
+Every answer amounted to roughly the same thing.
+
+The Primary Archive cannot serve you right now. The obligation has not disappeared.
+
+41 years of people asking variations of the same question.
+
+Do you still remember us?
+
+And, for at least 41 years, something had answered yes.
+
+Bart scrolled farther down the surviving index.
+
+One later entry caught his attention.
+
+SERVICE YEAR: 39
+
+REQUEST: PRIOR CUSTODIAL CLAIM REVIEW
+
+NEW SERVICE REQUIRED: NO
+
+EXISTING OBLIGATION: VALID
+
+ACTION: PRESERVED FOR FUTURE PRIMARY SERVICE
+
+“39 years.”
+
+“They were still doing this after they started cutting everything else.”
+
+Bart looked back at the reduced-service profile. New commitments restricted , Reference work restricted. External responses reduced but Existing obligations maintained.
+
+“Apparently that was the part they refused to stop doing,” Bart noted.
+
+Gregor frowned. “Until we stopped hearing from them.”
+
+Bart nodded.
+
+Bart returned to the main activity summary to see what else they did.
+
+RECORDED ACTIVITY CLASSES:
+
+OBLIGATION MAINTENANCE
+
+EXTERNAL STATUS RESPONSES
+
+CLAIM PRESERVATION
+
+CUSTODIAL RECORD MAINTENANCE
+
+LIMITED REFERENCE AUTHORITY
+
+ARCHIVAL HOLDINGS SERVICE: UNAVAILABLE
+
+Gregor leaned over the counter and pointed at the final line.
+
+“Still no books mentioned”
+
+“You seem unusually invested in that,” Bart noted.
+
+“It's a library,” Gregor pointed out reasonably.
+
+“Where were these actions performed from?” Bart asked.
+
+OPERATING LOCATION: PROTECTED
+
+FACILITY TYPE: NOT DECLARED IN SOURCE MANIFEST
+
+The operating location remained protected. So did the nature of the facility.
+
+But the connection might not be.
+
+“Did the successor remain in communication with the primary Archive after event RSE-3942?”
+
+YES
+
+PRIMARY ARCHIVE STATUS CHANNEL: AVAILABLE / DEGRADED
+
+SUCCESSOR REPORTING: PERIODIC
+
+Periodic reports had continued through the degraded source side status channel.
+
+Until the surviving record stopped.
+
+“System,” Bart requested softly. “Provide the final recorded successor report.”
+
+FINAL VERIFIED SOURCE-SIDE STATUS: CONTINUITY SERVICE ACTIVE
+
+SUBSEQUENT REPORTING: NOT AVAILABLE
+
+Bart leaned forward. “Was the final report abnormal?”
+
+NO ANOMALY DECLARED
+
+“Emergency?”
+
+NONE DECLARED
+
+“Shutdown notice?”
+
+NONE AVAILABLE
+
+Gregor frowned at the screen. “So the last thing it/they said was basically that everything was fine.”
+
+Bart looked at the record. “The last thing we received said that.”
+
+“So they died?” Gregor asked.
+
+“We know the reports stop,” Bart corrected.
+
+“That's the same thing.”
+
+“It really isn't.”
+
+Albert, who was quietly passing the desk with a stack of freshly polished reading lamps,had no memory of the continuity successor but he understood the mechanics of institutional failure.
+
+“Reporting can fail before service does, sir,” Albert noted mildly.
+
+Gregor crossed his arms again. “You two make uncertainty sound like a profession.”
+
+“It often is,” Albert murmured, continuing toward the eastern corridor without breaking his stride.
+
+Bart looked back at the interface.
+
+“System. Does the Archive possess any surviving mechanism for checking historic continuity endpoints without reconnecting?”
+
+LEGACY CONTINUITY STATUS QUERY: AVAILABLE
+
+TRANSIT CONNECTION: NOT REQUIRED
+
+AUTHORITY EXCHANGE: NOT REQUIRED
+
+AUTOMATIC RECONNECTION: DISABLED
+
+Bart didn't execute it yet. He leaned forward and tested the boundaries.
+
+“Status only?” Bart asked.
+
+YES
+
+“No route activation?”
+
+CONFIRMED
+
+“No authority transfer?”
+
+CONFIRMED
+
+“No automatic reconnection?”
+
+CONFIRMED
+
+He reached toward the interface to authorise the legacy query.
+
+“Bart.”
+
+Bart stopped. He turned away from the interface and looked down the counter.
+
+Nell Mercer was staring at her own display.
+
+“What?” Bart asked.
+
+“We have old mail,” Nell said.
+
+Bart pulled up the active liaison queue on his main dashboard.
+
+A small restoration notice pulsed beside the entry.
+
+LEGACY CONTINUITY INDEX: PARTIAL RECONCILIATION COMPLETE
+
+The Archive had not received anything new. Another damaged segment of the old administrative queue had finally become readable.
+
+“That's not mail,” Bart said.
+
+“It was waiting 600 years,” Nell replied. “I'm calling it mail.” The Archive's restored systems had simply surfaced an old, unresolved record into the active queue.
+
+LEGACY OBLIGATION RECORD RESTORED
+
+SOURCE RELATIONSHIP: VERIFIED
+
+ORIGIN PERIOD: SUCCESSOR CONTINUITY SERVICE
+
+CURRENT STATUS: UNRESOLVED
+
+ACTIVE REVIEW: REQUIRED
+
+Bart stared at it,the Infinite Archive received mail every day now. The Silver Spire sent financial queries. Tessera submitted engineering updates but this was a ruin-era record that had just re-entered the active queue.
+
+Gregor looked at the pending query still waiting on Bart’s side.
+
+“You're not opening that?” Gregor asked, pointing at the continuity status prompt.
+
+Bart looked at Nell’s notice for the past hour, they had been examining how Keeper #4,091 had preserved the Archive’s promises instead of its books. Now, one of those promises was sitting on his desk.
+
+“Later,” Bart replied.
+
+Bart closed the historical interface entirely. He shifted his full attention to the active administrative queue.
+
+“Open the metadata, Nell,” Bart instructed.
+
+Nell tapped her display.
+
+The System unpacked the basic framework of the restored record.
+
+OBLIGATION TYPE: CUSTODIAL / CONTINUITY
+
+ORIGINAL ACKNOWLEDGEMENT: VALID
+
+ISSUING AUTHORITY: SUCCESSOR CONTINUITY SERVICE
+
+Gregor saw the final line first.
+
+“That's theirs i guess,” Gregor said.
+
+“The supposed successor?”
+
+“Yeah seems like it”
+
+“And now it's ours?”
+
+Bart looked at the glowing blue text. The successor had not merely preserved inherited obligations. They had issued commitments under their own continuity authority.
+
+One of those commitments had resurfaced at the rebuilt Archive.
+
+CURRENT INSTITUTIONAL RESPONSE REQUIRED
+
+Bart looked at the unopened legacy record. The continuity service had survived long enough to make commitments of its own.
+
+Centuries later, one of them had come due.
