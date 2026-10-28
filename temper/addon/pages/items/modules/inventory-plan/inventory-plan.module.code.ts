@@ -260,6 +260,10 @@ interface InventoryActionSummary {
   venues: PlanVenue[]
 }
 
+export function stacksSaid(count: number): string {
+  return `${count} ${count === 1 ? "stack" : "stacks"}`
+}
+
 export function getInventoryActionSummary(): InventoryActionSummary | undefined {
   if (!isSavedVariablesReady()) return undefined
   const plan = computePlanVenues()
@@ -306,7 +310,7 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
 
   const lines: PlanVenue[] = venues.map((v) => ({
     ...v,
-    line: `${v.label} — ${v.count} ${v.count === 1 ? "item" : "items"}`,
+    line: `${v.label} — ${stacksSaid(v.count)}`,
   }))
   for (const entry of plan) {
     for (const h of entry.held) {

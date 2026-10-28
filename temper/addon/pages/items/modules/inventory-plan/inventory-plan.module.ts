@@ -23,6 +23,15 @@ export const inventoryPlan = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Every count the plan says is a count of stacks, one for each bag slot it acts on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A venue's line and the plan's header call that count stacks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Each venue's line is spelled here, so every reader of the plan shows the same line.",
     },
     {
@@ -39,5 +48,5 @@ export const inventoryPlan = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.854Z",
-  updatedAt: "2026-10-10T14:27:06.302Z",
+  updatedAt: "2026-10-28T19:12:31.445Z",
 } as const satisfies Module

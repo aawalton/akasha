@@ -49,7 +49,7 @@ const BANK_PLAN = `
     characters[#characters + 1] = { label = names[at], count = at * 4 }
     total = total + at * 4
   end
-  panel.refreshBankActionPanel({ totalUnits = total, characters = characters })
+  panel.refreshBankActionPanel({ totalStacks = total, characters = characters })
 `
 
 const CRAFTING_WRIT = `

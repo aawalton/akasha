@@ -1,4 +1,7 @@
-import { getInventoryActionSummary } from "akasha/temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"
+import {
+  getInventoryActionSummary,
+  stacksSaid,
+} from "akasha/temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"
 import { FILTER_BAR_WIDTH } from "akasha/temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts"
 
 import {
@@ -123,8 +126,7 @@ function refresh(): undefined {
     return
   }
 
-  const noun = summary.totalSlots === 1 ? "item" : "items"
-  panel.header.SetText(`Inventory Plan — ${summary.totalSlots} ${noun}`)
+  panel.header.SetText(`Inventory Plan — ${stacksSaid(summary.totalSlots)}`)
 
   for (const row of panel.rowControls) {
     row.SetHidden(true)

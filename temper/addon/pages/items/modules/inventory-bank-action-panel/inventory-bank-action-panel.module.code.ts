@@ -1,5 +1,6 @@
 import type { BankTransitionSummary } from "akasha/temper/addon/pages/items/modules/inventory-bank-plan/inventory-bank-plan.module.code.ts"
 import { recordSettlingMs } from "akasha/temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import { stacksSaid } from "akasha/temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
   createMovableWindow,
@@ -107,7 +108,7 @@ function refreshBankActionPanelInner(summary: BankTransitionSummary | undefined)
 
   reanchor()
 
-  bankPanel.header.SetText(`Bank Plan — ${summary.totalUnits} items leaving`)
+  bankPanel.header.SetText(`Bank Plan — ${stacksSaid(summary.totalStacks)} leaving`)
 
   for (const row of bankPanel.rowControls) {
     row.SetHidden(true)
@@ -128,7 +129,7 @@ function refreshBankActionPanelInner(summary: BankTransitionSummary | undefined)
     }
     row.ClearAnchors()
     row.SetAnchor(TOPLEFT, bankPanel.tlw, TOPLEFT, PADDING_X, yOffset)
-    row.SetText(`${entry.label} — ${entry.count} items`)
+    row.SetText(`${entry.label} — ${stacksSaid(entry.count)}`)
     row.SetHidden(false)
     const w = row.GetTextWidth()
     if (w > maxLabelWidth) maxLabelWidth = w

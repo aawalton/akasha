@@ -105,6 +105,7 @@
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-auto-maintenance-engine/inventory-auto-maintenance-engine.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-bag-scanner/inventory-bag-scanner.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-bank-plan/inventory-bank-plan.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-data/inventory-browser-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-buy-explain-slash-command/inventory-buy-explain-slash-command.module.code.ts","typed":false,"deferred":false}
