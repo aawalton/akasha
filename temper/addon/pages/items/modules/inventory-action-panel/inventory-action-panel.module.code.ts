@@ -1,7 +1,10 @@
 import { getInventoryActionSummary } from "akasha/temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"
 import { FILTER_BAR_WIDTH } from "akasha/temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts"
 
-import { drawPanelBackground } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import {
+  drawPanelBackground,
+  PANEL_GAP,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -12,7 +15,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const PANEL_NAME = "TemperItemsActionPanel"
 const ANCHOR_TARGET_NAMES = ["TemperItemsBrowser", "ZO_PlayerInventory"]
-const GAP_TO_INVENTORY = 40
+
 const PADDING_X = 16
 const PADDING_Y = 16
 const HEADER_HEIGHT = 24
@@ -105,10 +108,10 @@ function reanchor(): undefined {
   panel.tlw.ClearAnchors()
   const target = besideTarget()
   if (target === undefined) {
-    panel.tlw.SetAnchor(TOPRIGHT, GuiRoot, TOPLEFT, -GAP_TO_INVENTORY, 0)
+    panel.tlw.SetAnchor(TOPRIGHT, GuiRoot, TOPLEFT, -PANEL_GAP, 0)
     return
   }
-  panel.tlw.SetAnchor(TOPRIGHT, target, TOPLEFT, -GAP_TO_INVENTORY, 0)
+  panel.tlw.SetAnchor(TOPRIGHT, target, TOPLEFT, -PANEL_GAP, 0)
 }
 
 function refresh(): undefined {

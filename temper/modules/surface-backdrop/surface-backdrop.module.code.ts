@@ -77,6 +77,8 @@ const PANEL_FADE_END_ART = 900
 
 const PANEL_FADE = 16
 
+export const PANEL_GAP = 24
+
 function panelSlice(parent: Control, name: string, top: number, bottom: number): TextureControl {
   const slice = WINDOW_MANAGER.CreateControl(name, parent, CT_TEXTURE)
   slice.SetTexture(PANEL_ART)

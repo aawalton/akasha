@@ -9,7 +9,10 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { createMovableWindow } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
-import { drawPanelBackground } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import {
+  drawPanelBackground,
+  PANEL_GAP,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import {
   FRAME_PADDING,
   frameWindow,
@@ -39,7 +42,8 @@ const TOOLBAR_HEIGHT = 90
 export const BROWSER_BODY_WIDTH = DEFAULT_WIDTH - FRAME_PADDING * 2
 const SEARCHBAR_HEIGHT = 30
 
-const DOCK_OFFSET_X = -20
+const RIGHT_PANEL_ART_INSET = 33
+const DOCK_OFFSET_X = -(RIGHT_PANEL_ART_INSET + PANEL_GAP)
 const DOCK_OFFSET_TOP = 16
 const DOCK_OFFSET_BOTTOM = 16
 

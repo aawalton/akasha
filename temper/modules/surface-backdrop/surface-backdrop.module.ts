@@ -39,6 +39,10 @@ export const surfaceBackdrop = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Panels side by side in a scene are one panel gap apart, art edge to art edge.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A caller needing its own name, anchors or layer makes the backdrop and has this paint it.",
     },
@@ -49,5 +53,5 @@ export const surfaceBackdrop = {
     },
   ],
   createdAt: "2026-09-22T17:13:21.177Z",
-  updatedAt: "2026-10-28T16:06:46.344Z",
+  updatedAt: "2026-10-28T16:21:49.632Z",
 } as const satisfies Module
