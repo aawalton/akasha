@@ -64,7 +64,16 @@ export const greatCoursesWatching = {
       decisionKind: "decision-kind/departure",
       statement: "Every read and write of a course page goes through alanwalton.com as Alan.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A press of the toolbar button shows it is working before alanwalton.com answers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Where alanwalton.com does not answer within fifteen seconds, the button says so rather than waiting.",
+    },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-19T20:20:08.905Z",
+  updatedAt: "2026-10-28T18:06:07.484Z",
 } as const satisfies BrowserExtension

@@ -33,6 +33,10 @@ const COURSE_PAGES = "https://plus.thegreatcourses.com/*"
 
 const PASSED = "passed-over"
 
+const ANSWER_MS = 15_000
+
+const LOOKING = "Finding the next lecture…"
+
 export const ICON =
   "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACEFBMVEUAAAAACCgACDAACCgACCsACC0ACS0ABywABSoACS0ACSwACS0ACS0ACS0ACS0ACS0ACi0ACiwACCwACS0ACS4ACS0ACS0ACS0ACS0AECAACS0ACi0ABSoACSwACS0ACS0ACS0ACS0AEDAACS0ACS0ACyoACSwACCoABysACC0ACDAACS0ACS0ACC0ACSwACC0ABTAACC0ACCwACS0IDSwKDywnICqQXSEVFSsMECzUhRzKfxwlHyoECy3GfR3+nRjRgxwfGyoGDSzLgBz/nhi8dx0OESwYFyvdihv+nhiBVCJDMCjxlhnylhkyJymUXyGhZyAHDSwpICnvlRnqkhomHyqjaB9WOyY+Lij5mxh2TiMBCi0eGioREywQEizDex16UCMFDC1ONiaBVCMLDyxiQiVkQyV8USPulBk9LSjMgBzzlhkuJCmFVyIUFCtMNSb9nRisbR8CCi1oRiT6mxibYyCOXCHylxk6KygpISnfixoBCS21cx6HWCIEDC2DViJvSiS6dh7VhhsNECx1TSOtbh/0mBlONyfSgxyXYSGEViKmah8WFivPghzAeh0PEixKNCffixsGDC0wJSkaGCt5UCNMNSfYhxsiHSoGDS14TyPzlxngjBszJykcGSvaiBuRXSFROCbXhxv4mhmycR5VOiZUOiZTOSalaR/kjhr5mhhFMicrIilPNyZBLycDCy0KozkrAAAAM3RSTlMAAAACEBoYEAIWRIO1ydPRhUICEmzP+f1wAkxCCIP3+4eTAmyFAhAaGBACREIWTEIIEhYdionRAAACIUlEQVQ4y3WT91cTQRDHF1LhSjTHXSIhlVhRQMYoAjGWUSyg2MUIEht2MXajomLvihV77/ov+rbh3eMxP+3O53t7Uwmxm8vt8fr8ZByrqFRUTQ9o6oSJFWNp0KgyLaA2JwMhM2yUOfmkahOEzZ3XDAB6xMFrojHJYX5LaxsAxBM1Np60RjlkF+QWLgIAK/lfkbBxWLwEc0uXUYWS4rgsErdxaF+OuGJlFgBi1UEmMHQ7h1UdiNi5mh5NgwnCDg5rkFrXWnquZfUxHXzdeibYsJE9QSsWCTkEm3JMgJvpxaokhKQdfEs357iVXaOETFZHYX5bT+92wbGPuVQXmaJJXtixc9duyXEP82lu4g1IQf/efc37JT9wkPn0qcQjqlA4hK2HjwxIwdEM8wamken8F8Vjx/FE8aTkp07zzzQfmcGDPHMWsa90TgrOX+AC1U+IQg+lQUS8WLwk+OVeEVeaEFJHWzlE07sCVzm/dl3w0ExZ6vYbiHizdIsLbsvEzFm0GVUAcOcuIt67/4DV+WGbFIR5u02AR/TxjuHHLYg48CQvuM7bHayPATztpLEX+hHx2XPB4w3lfKRSigUvRl4ivnr95i3iO/GAlXAMbfb9h4/4qedzN34RPNloG+tEHGDo67fvXZmRHz8ZjymNjs1oYC3J/hqG339YgvUp52qVG2GTj1b+L1hm7ezg2PVsiqRVLaBrarSuabwF9/u8HrfL4foHqMy3XDSUSYoAAAAASUVORK5CYII="
 
@@ -98,8 +102,19 @@ export function writeOf(id: string, lengthMinutes: number, progressMinutes: numb
   })
 }
 
+async function answerTo(path: string, init: RequestInit): Promise<Response> {
+  try {
+    return await fetch(`${SITE}${path}`, { ...init, signal: AbortSignal.timeout(ANSWER_MS) })
+  } catch (thrown) {
+    if (thrown instanceof DOMException && thrown.name === "TimeoutError") {
+      throw new Error("alanwalton.com did not answer, so try again in a minute")
+    }
+    throw thrown
+  }
+}
+
 async function rows(): Promise<readonly Row[]> {
-  const answer = await fetch(`${SITE}/api/pages/${COURSE}`, {
+  const answer = await answerTo(`/api/pages/${COURSE}`, {
     credentials: "include",
     headers: { accept: "application/json" },
   })
@@ -131,7 +146,7 @@ async function queue(chrome: Chrome, skipping: string | null): Promise<readonly 
 }
 
 async function wrote(id: string, lengthMinutes: number, progressMinutes: number) {
-  const answer = await fetch(`${SITE}/api/page-write`, {
+  const answer = await answerTo("/api/page-write", {
     method: "POST",
     credentials: "include",
     headers: { accept: "application/json", "content-type": "application/json" },
@@ -170,6 +185,7 @@ async function opened(chrome: Chrome, tabId: number | null, next: Queued): Promi
 
 async function begun(chrome: Chrome): Promise<undefined> {
   try {
+    await badged(chrome, "…", LOOKING)
     const first = (await queue(chrome, null))[0]
     if (first === undefined) return await badged(chrome, "✓", "Done for today")
     await badged(chrome, "", READY)
