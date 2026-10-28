@@ -26,6 +26,10 @@ export const windowSpeaking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A window naming an ability is said under the heading its card shows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A fenced screen in a chapter is said one line at a time.",
     },
     {
@@ -39,5 +43,5 @@ export const windowSpeaking = {
     },
   ],
   createdAt: "2026-10-05T20:26:35.515Z",
-  updatedAt: "2026-10-28T01:00:57.112Z",
+  updatedAt: "2026-10-28T15:05:41.633Z",
 } as const satisfies Module

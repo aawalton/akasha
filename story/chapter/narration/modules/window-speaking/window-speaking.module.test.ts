@@ -41,6 +41,26 @@ describe("spokenWindow", () => {
     ])
   })
 
+  test("an ability's window says the heading its card shows: Unlocked, Advanced, Completed", () => {
+    const path = { kind: "Path", slotted: true, tierSteps: [10, 25, 50] }
+    const held = new Map([["Path of Endurance", path]])
+    const kinds = new Map([["Path of Endurance", "Path"]])
+    const said = (window: { kind: string; name: string; note?: string }) =>
+      spokenWindow(window, kinds, held)[0]
+    expect(said({ kind: "skill", name: "Path of Endurance" })).toBe(
+      "Path Unlocked: Path of Endurance."
+    )
+    expect(said({ kind: "status-assessment", name: "Path of Endurance", note: "Tier: 2" })).toBe(
+      "Path Advanced: Path of Endurance."
+    )
+    expect(said({ kind: "status-assessment", name: "Path of Endurance", note: "Tier: 3" })).toBe(
+      "Path Completed: Path of Endurance."
+    )
+    expect(said({ kind: "status-assessment", name: "Path of Endurance" })).toBe(
+      "Status: Path of Endurance."
+    )
+  })
+
   test("a level up says the level reached", () => {
     expect(spokenWindow({ kind: "level-up", level: 4 })).toEqual([
       "Level up.",

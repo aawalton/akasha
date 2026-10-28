@@ -66,23 +66,6 @@ export function slottedTitlesOf(
   )
 }
 
-export type WorldAbilities = {
-  readonly abilityKinds: ReadonlyMap<string, string>
-  readonly slottedAbilities: ReadonlySet<string>
-}
-
-export const NO_ABILITIES: WorldAbilities = { abilityKinds: new Map(), slottedAbilities: new Set() }
-
-export function worldAbilitiesOf(
-  skills: readonly Values[],
-  kinds: readonly Values[]
-): WorldAbilities {
-  return {
-    abilityKinds: abilityKindTitlesOf(skills, kinds),
-    slottedAbilities: slottedTitlesOf(skills, kinds),
-  }
-}
-
 export const TIER_STEPS_KEY = exportedAs(skillTierSteps.propertySlug)
 
 const DEFAULT_KIND_TITLE = "Skill"
@@ -91,6 +74,35 @@ export type HeldAbility = {
   readonly kind: string
   readonly slotted: boolean
   readonly tierSteps: readonly number[]
+}
+
+export type WorldAbilities = {
+  readonly abilityKinds: ReadonlyMap<string, string>
+  readonly slottedAbilities: ReadonlySet<string>
+  readonly heldAbilities: ReadonlyMap<string, HeldAbility>
+}
+
+export const NO_ABILITIES: WorldAbilities = {
+  abilityKinds: new Map(),
+  slottedAbilities: new Set(),
+  heldAbilities: new Map(),
+}
+
+export function worldAbilitiesOf(
+  skills: readonly Values[],
+  kinds: readonly Values[]
+): WorldAbilities {
+  const titles = skills.flatMap((one) => textIn(one[TITLE_KEY]) ?? [])
+  return {
+    abilityKinds: abilityKindTitlesOf(skills, kinds),
+    slottedAbilities: slottedTitlesOf(skills, kinds),
+    heldAbilities: new Map(
+      titles.flatMap((title): [string, HeldAbility][] => {
+        const held = heldAbilityOf(title, skills, kinds)
+        return held === null ? [] : [[title, held]]
+      })
+    ),
+  }
 }
 
 export function heldAbilityOf(

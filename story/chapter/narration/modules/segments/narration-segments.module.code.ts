@@ -18,6 +18,10 @@ import {
   type WrittenWindow,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
+import {
+  NO_ABILITIES,
+  type WorldAbilities,
+} from "akasha/story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts"
 
 export type NarrationSegment = { text: string; pauseAfterMs: number; wordStart: number }
 
@@ -377,8 +381,7 @@ function windowWords(window: WrittenWindow): number {
 
 function blocksOf(
   prose: string,
-  abilityKinds: ReadonlyMap<string, string>,
-  slotted: ReadonlySet<string>
+  { abilityKinds, slottedAbilities, heldAbilities }: WorldAbilities
 ): Block[] {
   const blocks: Block[] = []
   const counted: Counted = { words: 0 }
@@ -390,7 +393,8 @@ function blocksOf(
       continue
     }
     const words = windowWords(run.window)
-    const said = spokenWindow(slottedWindowOf(run.window, slotted), abilityKinds)
+    const quiet = slottedWindowOf(run.window, slottedAbilities)
+    const said = spokenWindow(quiet, abilityKinds, heldAbilities)
     const again = last !== null && sameWindow(last, run.window)
     setApart(blocks, again ? said.slice(1) : said, { wordStart: counted.words, words })
     last = run.window
@@ -402,8 +406,7 @@ function blocksOf(
 export function narrationSegmentsOf(
   prose: string,
   pronunciations: readonly Pronunciation[] = [],
-  abilityKinds: ReadonlyMap<string, string> = new Map(),
-  slotted: ReadonlySet<string> = new Set()
+  abilities: WorldAbilities = NO_ABILITIES
 ): NarrationSegment[] {
   const respelled = respellerOf(pronunciations)
   const segments: NarrationSegment[] = []
@@ -413,7 +416,7 @@ export function narrationSegmentsOf(
     if (packed !== "") segments.push({ text: packed, pauseAfterMs, wordStart: packedAt })
     packed = ""
   }
-  for (const block of blocksOf(prose, abilityKinds, slotted)) {
+  for (const block of blocksOf(prose, abilities)) {
     const sentences = block.sentences.map((one) =>
       shoutedOf(respelled(one)).replace(ELLIPSIS, "...")
     )

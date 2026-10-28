@@ -88,7 +88,11 @@ describe("narrationSegmentsOf", () => {
       "note: Tier 1: 10 steps; Reward: Aether Core rises one grade; Tier: 1",
       ":::",
     ].join("\n")
-    const said = narrationSegmentsOf(prose, [], new Map(), new Set(["Path of Soulstealing"]))
+    const said = narrationSegmentsOf(prose, [], {
+      abilityKinds: new Map(),
+      slottedAbilities: new Set(["Path of Soulstealing"]),
+      heldAbilities: new Map(),
+    })
     expect(said.map((one) => one.text)).toEqual([
       "Start.",
       "Status: Path of Soulstealing. Tier, 1.",
@@ -109,7 +113,11 @@ describe("narrationSegmentsOf", () => {
       "note: Tier 1: 1 step; Reward: 2 Unallocated Stats",
       ":::",
     ].join("\n")
-    const said = narrationSegmentsOf(prose, [], new Map(), new Set(["Path of the Completionist"]))
+    const said = narrationSegmentsOf(prose, [], {
+      abilityKinds: new Map(),
+      slottedAbilities: new Set(["Path of the Completionist"]),
+      heldAbilities: new Map(),
+    })
     expect(said.map((one) => one.text)).toEqual(["Start.", "Status: Path of the Completionist."])
   })
 

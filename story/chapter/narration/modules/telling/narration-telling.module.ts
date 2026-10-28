@@ -34,7 +34,8 @@ export const narrationTelling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter's windows are said knowing which of its world's abilities hold slots.",
+      statement:
+        "A chapter's windows are said knowing its world's abilities, their slots and their tiers.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -97,6 +98,6 @@ export const narrationTelling = {
       statement: "A refusal by the speech workload reaches Alan with the reason it gave.",
     },
   ],
-  updatedAt: "2026-10-28T14:00:14.652Z",
+  updatedAt: "2026-10-28T15:05:41.633Z",
   createdAt: "2026-10-05T20:36:00.748Z",
 } as const satisfies Module

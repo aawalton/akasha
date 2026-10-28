@@ -1,7 +1,14 @@
 import {
+  abilityTitleIn,
   describedIn,
+  tierIn,
   type WrittenWindow,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
+import {
+  crossedHeadingOf,
+  type HeldAbility,
+  unlockedHeadingOf,
+} from "akasha/story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts"
 
 const ENDS_SPOKEN = /[.!?…]["'”’)\]]*$/
 const SHOUTED = /\b[A-Z][A-Z'’]{2,}\b/g
@@ -76,12 +83,23 @@ const SKILL = "Skill"
 
 const NO_KINDS: ReadonlyMap<string, string> = new Map()
 
+const NO_HELD: ReadonlyMap<string, HeldAbility> = new Map()
+
+const STATUS = "Status"
+
+function statusHeading(held: HeldAbility | undefined, note: string | undefined): string {
+  const tier = note === undefined ? null : tierIn(describedIn(note))
+  return held === undefined || tier === null ? STATUS : crossedHeadingOf(held, tier)
+}
+
 export function spokenWindow(
   window: WrittenWindow,
-  abilityKinds: ReadonlyMap<string, string> = NO_KINDS
+  abilityKinds: ReadonlyMap<string, string> = NO_KINDS,
+  heldAbilities: ReadonlyMap<string, HeldAbility> = NO_HELD
 ): string[] {
   const { kind, name, rung, level, note } = window
   const abilityKind = abilityKinds.get(name ?? "") ?? SKILL
+  const held = heldAbilities.get(abilityTitleIn(name ?? ""))
   switch (kind) {
     case "level-up":
       return sentences(
@@ -91,12 +109,19 @@ export function spokenWindow(
       )
     case "skill":
       return sentences(
-        named(`New ${abilityKind.toLowerCase()}`, name),
+        named(
+          held?.slotted === true ? unlockedHeadingOf(held) : `New ${abilityKind.toLowerCase()}`,
+          name
+        ),
         rankSentence(rung),
         ...noteSentences(note)
       )
     case "status-assessment":
-      return sentences(named("Status", name), levelSentence(level), ...noteSentences(note))
+      return sentences(
+        named(statusHeading(held, note), name),
+        levelSentence(level),
+        ...noteSentences(note)
+      )
     case "item-award":
       return sentences(named("Item received", name), ...noteSentences(note))
     case "quest-offer":

@@ -18,6 +18,7 @@ import {
   ACTIVE_SLOTS_KEY,
   NO_ABILITIES,
   SLUG_KEY,
+  TIER_STEPS_KEY,
   TITLE_KEY,
   type WorldAbilities,
   worldAbilitiesOf,
@@ -119,12 +120,12 @@ export function spokenSegmentsOf(
   prose: string,
   progress: ReadProgress = UNREAD,
   pronunciations: readonly Pronunciation[] = [],
-  { abilityKinds, slottedAbilities }: WorldAbilities = NO_ABILITIES
+  abilities: WorldAbilities = NO_ABILITIES
 ): NarrationSegment[] {
   const total = wordCount(prose)
   const length = progress.ownLength
   const scale = length !== null && length > 0 && total > 0 ? length / total : 1
-  const segments = narrationSegmentsOf(prose, pronunciations, abilityKinds, slottedAbilities)
+  const segments = narrationSegmentsOf(prose, pronunciations, abilities)
   const all = segments.map((one) => ({
     ...one,
     wordStart: Math.round(one.wordStart * scale),
@@ -240,11 +241,13 @@ async function pronunciationsOf(world: string | null): Promise<readonly Pronunci
 
 const KIND_KEYS = [SLUG_KEY, TITLE_KEY, ACTIVE_SLOTS_KEY]
 
+const SKILL_KEYS = [TITLE_KEY, ABILITY_KIND_KEY, TIER_STEPS_KEY]
+
 async function abilitiesOf(world: string | null): Promise<WorldAbilities> {
   if (world === null) return NO_ABILITIES
   const where = { world: { is: world } }
   const [skills, kinds] = await Promise.all([
-    askingFor({ pageTypeSlug: worldSkill.slug, where, keys: [TITLE_KEY, ABILITY_KIND_KEY] }),
+    askingFor({ pageTypeSlug: worldSkill.slug, where, keys: SKILL_KEYS }),
     askingFor({ pageTypeSlug: worldAbilityKind.slug, where, keys: KIND_KEYS }),
   ])
   if ("refused" in skills || "refused" in kinds) return NO_ABILITIES
