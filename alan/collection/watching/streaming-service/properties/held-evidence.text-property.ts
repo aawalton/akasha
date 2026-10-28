@@ -11,7 +11,7 @@ export const heldEvidence = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The evidence names the charges found and the days they fell on.",
+      statement: "The evidence names the charges found and the days they fell on, or Alan's word.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -20,5 +20,5 @@ export const heldEvidence = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:27:56.630Z",
-  updatedAt: "2026-10-28T20:27:56.630Z",
+  updatedAt: "2026-10-28T21:25:13.619Z",
 } as const satisfies TextProperty

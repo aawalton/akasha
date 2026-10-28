@@ -44,7 +44,7 @@ export const streamingService = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Whether Alan holds a service is read from what Monarch shows him paying for.",
+      statement: "Whether Alan holds a service is read from Monarch's charges or from Alan's word.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -61,5 +61,5 @@ export const streamingService = {
     "relation-property/streaming-merchant",
   ],
   createdAt: "2026-10-28T20:27:56.630Z",
-  updatedAt: "2026-10-28T20:27:56.630Z",
+  updatedAt: "2026-10-28T21:25:13.619Z",
 } as const satisfies PageType

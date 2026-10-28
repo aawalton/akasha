@@ -13,10 +13,14 @@ export const streamingHeld = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A service no charge was found for states false.",
+      statement: "A service is held where Alan says it is, whatever Monarch shows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service neither a charge nor Alan's word shows held states false.",
     },
   ],
   types: "ts",
   createdAt: "2026-10-28T20:27:56.630Z",
-  updatedAt: "2026-10-28T20:27:56.630Z",
+  updatedAt: "2026-10-28T21:25:13.619Z",
 } as const satisfies BooleanProperty
