@@ -57,6 +57,7 @@ export const person = {
     "number-property/medication-dose-mg",
     "number-property/medication-doses-per-week",
     "text-property/medication-note",
+    "calendar-date-property/medication-started-on",
     "page-type/access-kind",
     "page-type/authority-kind",
     "page-type/device-secret",
@@ -142,5 +143,5 @@ export const person = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T18:13:32.023Z",
-  updatedAt: "2026-10-28T19:20:52.972Z",
+  updatedAt: "2026-10-28T19:30:40.099Z",
 } as const satisfies PageType

@@ -11,8 +11,13 @@ export const medications = {
     { pageProperty: "number-property/medication-dose-mg", required: true, many: false },
     { pageProperty: "number-property/medication-doses-per-week", required: true, many: false },
     { pageProperty: "text-property/medication-note", required: false, many: false },
+    {
+      pageProperty: "calendar-date-property/medication-started-on",
+      required: false,
+      many: false,
+    },
   ],
   types: "ts",
   createdAt: "2026-10-28T18:07:33.369Z",
-  updatedAt: "2026-10-28T18:07:33.369Z",
+  updatedAt: "2026-10-28T19:30:40.099Z",
 } as const satisfies RecordProperty
