@@ -11,9 +11,21 @@ export const oshiNoKo = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "203737", externalLink: "https://www.themoviedb.org/tv/203737" },
+    {
+      source: "tmdb",
+      externalId: "203737",
+      externalLink: "https://www.themoviedb.org/tv/203737",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "【OSHI NO KO】",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "HiDive",
+    "Hidive Amazon Channel",
+    "Hulu",
+  ],
   createdAt: "2026-10-28T18:50:41.549Z",
-  updatedAt: "2026-10-28T18:50:41.549Z",
+  updatedAt: "2026-10-28T19:45:31.822Z",
 } as const satisfies Show
