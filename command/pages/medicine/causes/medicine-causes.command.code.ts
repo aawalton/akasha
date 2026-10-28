@@ -33,7 +33,7 @@ const NO_PLACE = 0
 
 const SHOWN_FROM = 0.0005
 
-export type Ranked = {
+type Ranked = {
   readonly cause: string
   readonly chance: Spread
   readonly age: Spread | null
@@ -55,13 +55,13 @@ export function rowOf(one: Ranked): string {
   return `  ${one.cause.padEnd(NAME_WIDTH)}${chance}${agesOf(one.age)}`.trimEnd()
 }
 
-export type Ranking = {
+type Ranking = {
   readonly ranked: readonly Ranked[]
   readonly expectancy: Spread
   readonly aliveAtEnd: Spread
 }
 
-export function rankedOf(model: Model): Ranking {
+function rankedOf(model: Model): Ranking {
   const run = runOf(model.causes, model.readings, model.held, model.draws)
   const start = Math.floor(model.held.age)
   const ranked = model.causes
@@ -79,7 +79,7 @@ function placed(one: number | null, places: number, unit: string): string {
   return one === null ? "none logged" : `${one.toFixed(places)}${unit}`
 }
 
-export function inputsOf(held: Held, logs: Logs): readonly string[] {
+function inputsOf(held: Held, logs: Logs): readonly string[] {
   const below = (share: number): string => `${(share * PERCENT).toFixed(ONE_PLACE)}%`
   return [
     `Alan at ${held.age.toFixed(ONE_PLACE)}, read from his pages and his logs after ${logs.from} through ${logs.to}`,
