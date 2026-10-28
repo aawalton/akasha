@@ -37,13 +37,47 @@ export function installBuildMasterListHook(this: void): undefined {
     return newLayer
   }
 
+  const sortKeyCache: Record<string, string | undefined> = {}
+  const sortKey = (categoryName: string): string => {
+    let key = sortKeyCache[categoryName]
+    if (key === undefined) {
+      const [uncolored] = string.gsub(categoryName, "|c%x%x%x%x%x%x", "")
+      const [plain] = string.gsub(uncolored, "|r", "")
+      key = zo_strupper(plain)
+      sortKeyCache[categoryName] = key
+    }
+    return key
+  }
+
+  const sortCategories = (layers: KeybindLayerData[]): KeybindLayerData[] => {
+    const sorted: KeybindLayerData[] = []
+    for (const layerData of layers) {
+      const newLayer = createLayer(layerData)
+      for (const categoryData of layerData.categories) {
+        newLayer.categories.push(categoryData)
+      }
+      newLayer.categories.sort((a, b) => {
+        const keyA = sortKey(a.categoryName)
+        const keyB = sortKey(b.categoryName)
+        if (keyA < keyB) return -1
+        if (keyA > keyB) return 1
+        return 0
+      })
+      sorted.push(newLayer)
+    }
+    return sorted
+  }
+
   const orgGetKeybindData = KEYBINDINGS_MANAGER.GetKeybindData
   KEYBINDINGS_MANAGER.GetKeybindData = function (
     this: KeybindingsDataManager,
     ...args: unknown[]
   ): KeybindLayerData[] {
-    if (!isBuildList || filterText === "") {
+    if (!isBuildList) {
       return orgGetKeybindData.call(this, ...args)
+    }
+    if (filterText === "") {
+      return sortCategories(orgGetKeybindData.call(this, ...args))
     }
     const unfiltered = orgGetKeybindData.call(this, ...args)
     const filtered: KeybindLayerData[] = []
@@ -78,7 +112,7 @@ export function installBuildMasterListHook(this: void): undefined {
         filtered.push(newLayer)
       }
     }
-    return filtered
+    return sortCategories(filtered)
   }
 }
 
