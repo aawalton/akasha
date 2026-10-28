@@ -15,9 +15,11 @@ export const fateStayNightHeavenSFeelIiLostButterfly = {
       source: "tmdb",
       externalId: "390634",
       externalLink: "https://www.themoviedb.org/movie/390634",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Fate/stay night: Heaven's Feel II. Lost Butterfly",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:50:22.522Z",
-  updatedAt: "2026-10-28T18:50:22.522Z",
+  updatedAt: "2026-10-28T19:47:11.561Z",
 } as const satisfies Movie
