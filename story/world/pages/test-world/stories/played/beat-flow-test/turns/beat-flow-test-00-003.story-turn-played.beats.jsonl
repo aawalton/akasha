@@ -1,6 +1,6 @@
 {"beat":1,"event":"He straightens from the well's rim and steps to the bench beside it.","prose":"You straighten from the rim and step over to the bench beside the well.","at":"2026-11-06T09:37:00.000Z","place":"place/test-world-square","changes":[],"memory":[],"pictured":[]}
 {"beat":2,"event":"He sits down on the bench, the well at his shoulder.","prose":"You sit down on it, with the well at your shoulder.","continues":true,"changes":[]}
-{"beat":3,"event":"He stretches his legs out over the cobbles and leans back.","changes":[]}
+{"beat":3,"event":"He stretches his legs out over the cobbles and leans back.","prose":"You stretch your legs out over the cobbles and lean back.","continues":true,"changes":[]}
 {"beat":4,"event":"The empty square is still around him, the hall steps and the green door in plain view.","changes":[]}
 {"beat":5,"event":"He rests a few minutes, letting his shoulders loosen.","at":"2026-11-06T09:42:00.000Z","changes":[]}
 {"beat":6,"event":"He lets out a long breath, his back against the bench.","at":"2026-11-06T09:42:00.000Z"}
