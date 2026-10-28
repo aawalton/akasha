@@ -7,12 +7,7 @@ export const awenAbilityKinds = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [
-    {
-      statement:
-        "A world names its own kinds of ability, and the UI calls each ability by its kind's name.",
-    },
-  ],
+  intentStack: [],
   createdAt: "2026-10-28T00:31:09.415Z",
-  updatedAt: "2026-10-28T00:31:09.415Z",
+  updatedAt: "2026-10-28T00:55:42.200Z",
 } as const satisfies Initiative
