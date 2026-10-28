@@ -373,7 +373,7 @@ function windowWords(window: WrittenWindow): number {
   )
 }
 
-function blocksOf(prose: string): Block[] {
+function blocksOf(prose: string, abilityKinds: ReadonlyMap<string, string>): Block[] {
   const blocks: Block[] = []
   const counted: Counted = { words: 0 }
   for (const run of proseWindowSegmentsIn(prose.replace(RETURNS, "\n"))) {
@@ -382,7 +382,7 @@ function blocksOf(prose: string): Block[] {
       continue
     }
     const words = windowWords(run.window)
-    setApart(blocks, spokenWindow(run.window), { wordStart: counted.words, words })
+    setApart(blocks, spokenWindow(run.window, abilityKinds), { wordStart: counted.words, words })
     counted.words += words
   }
   return blocks
@@ -390,7 +390,8 @@ function blocksOf(prose: string): Block[] {
 
 export function narrationSegmentsOf(
   prose: string,
-  pronunciations: readonly Pronunciation[] = []
+  pronunciations: readonly Pronunciation[] = [],
+  abilityKinds: ReadonlyMap<string, string> = new Map()
 ): NarrationSegment[] {
   const respelled = respellerOf(pronunciations)
   const segments: NarrationSegment[] = []
@@ -400,7 +401,7 @@ export function narrationSegmentsOf(
     if (packed !== "") segments.push({ text: packed, pauseAfterMs, wordStart: packedAt })
     packed = ""
   }
-  for (const block of blocksOf(prose)) {
+  for (const block of blocksOf(prose, abilityKinds)) {
     const sentences = block.sentences.map((one) =>
       shoutedOf(respelled(one)).replace(ELLIPSIS, "...")
     )

@@ -22,6 +22,10 @@ export const windowSpeaking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A skill's window is said as new of its ability kind, or as a new skill.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A fenced screen in a chapter is said one line at a time.",
     },
     {
@@ -35,5 +39,5 @@ export const windowSpeaking = {
     },
   ],
   createdAt: "2026-10-05T20:26:35.515Z",
-  updatedAt: "2026-10-06T14:34:21.000Z",
+  updatedAt: "2026-10-28T01:00:57.112Z",
 } as const satisfies Module

@@ -13,6 +13,14 @@ import {
   sentencesOf,
 } from "akasha/story/chapter/narration/modules/segments/narration-segments.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
+import {
+  ABILITY_KIND_KEY,
+  abilityKindTitlesOf,
+  SLUG_KEY,
+  TITLE_KEY,
+} from "akasha/story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts"
+import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
+import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
 
 const VOICE = "af_heart"
 
@@ -73,6 +81,7 @@ type ChapterRow = ChapterHeld & {
   readonly story: string
   readonly position: number | null
   readonly pronunciations: readonly Pronunciation[]
+  readonly abilityKinds: ReadonlyMap<string, string>
 }
 
 type StoryHeld = { readonly title: string; readonly world: string | null }
@@ -106,12 +115,13 @@ export function spokenSegmentsOf(
   title: string,
   prose: string,
   progress: ReadProgress = UNREAD,
-  pronunciations: readonly Pronunciation[] = []
+  pronunciations: readonly Pronunciation[] = [],
+  abilityKinds: ReadonlyMap<string, string> = new Map()
 ): NarrationSegment[] {
   const total = wordCount(prose)
   const length = progress.ownLength
   const scale = length !== null && length > 0 && total > 0 ? length / total : 1
-  const all = narrationSegmentsOf(prose, pronunciations).map((one) => ({
+  const all = narrationSegmentsOf(prose, pronunciations, abilityKinds).map((one) => ({
     ...one,
     wordStart: Math.round(one.wordStart * scale),
   }))
@@ -224,6 +234,19 @@ async function pronunciationsOf(world: string | null): Promise<readonly Pronunci
   return pronunciationsFor(found.rows, world)
 }
 
+const NO_KINDS: ReadonlyMap<string, string> = new Map()
+
+async function abilityKindsOf(world: string | null): Promise<ReadonlyMap<string, string>> {
+  if (world === null) return NO_KINDS
+  const where = { world: { is: world } }
+  const [skills, kinds] = await Promise.all([
+    askingFor({ pageTypeSlug: worldSkill.slug, where, keys: [TITLE_KEY, ABILITY_KIND_KEY] }),
+    askingFor({ pageTypeSlug: worldAbilityKind.slug, where, keys: [SLUG_KEY, TITLE_KEY] }),
+  ])
+  if ("refused" in skills || "refused" in kinds) return NO_KINDS
+  return abilityKindTitlesOf(skills.rows, kinds.rows)
+}
+
 async function rowHeld(pageTypeSlug: string, row: Row): Promise<Told<ChapterRow>> {
   const id = textIn(row.id)
   const slug = textIn(row.slug)
@@ -238,6 +261,7 @@ async function rowHeld(pageTypeSlug: string, row: Row): Promise<Told<ChapterRow>
       title: textIn(row.title) ?? "",
       storyTitle: told.title,
       pronunciations: await pronunciationsOf(told.world),
+      abilityKinds: await abilityKindsOf(told.world),
       ownLength: asNumber(row.ownLength),
       ownProgress: asNumber(row.ownProgress),
       completedAt: textIn(row.completedAt),
@@ -272,7 +296,8 @@ async function segmentsOf(chapter: ChapterRow): Promise<Told<NarrationSegment[]>
     chapter.title,
     new TextDecoder().decode(filed.bytes),
     chapter,
-    chapter.pronunciations
+    chapter.pronunciations,
+    chapter.abilityKinds
   )
   if (segments.length === 0) return refused("the chapter has no words to narrate", 422)
   if (segments.length > MOST_SEGMENTS) {

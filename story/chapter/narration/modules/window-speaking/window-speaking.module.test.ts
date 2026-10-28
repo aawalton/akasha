@@ -31,6 +31,16 @@ describe("spokenWindow", () => {
     ])
   })
 
+  test("a skill of an ability kind says that kind's name in place of skill", () => {
+    const kinds = new Map([["Path of Endurance", "Path"]])
+    expect(spokenWindow({ kind: "skill", name: "Path of Endurance" }, kinds)).toEqual([
+      "New path: Path of Endurance.",
+    ])
+    expect(spokenWindow({ kind: "skill", name: "Smithing" }, kinds)).toEqual([
+      "New skill: Smithing.",
+    ])
+  })
+
   test("a level up says the level reached", () => {
     expect(spokenWindow({ kind: "level-up", level: 4 })).toEqual([
       "Level up.",

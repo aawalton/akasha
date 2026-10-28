@@ -72,8 +72,16 @@ function named(heading: string, name: string | undefined): string {
   return name === undefined ? heading : `${heading}: ${name}`
 }
 
-export function spokenWindow(window: WrittenWindow): string[] {
+const SKILL = "Skill"
+
+const NO_KINDS: ReadonlyMap<string, string> = new Map()
+
+export function spokenWindow(
+  window: WrittenWindow,
+  abilityKinds: ReadonlyMap<string, string> = NO_KINDS
+): string[] {
   const { kind, name, rung, level, note } = window
+  const abilityKind = abilityKinds.get(name ?? "") ?? SKILL
   switch (kind) {
     case "level-up":
       return sentences(
@@ -82,7 +90,11 @@ export function spokenWindow(window: WrittenWindow): string[] {
         ...noteSentences(note)
       )
     case "skill":
-      return sentences(named("New skill", name), rankSentence(rung), ...noteSentences(note))
+      return sentences(
+        named(`New ${abilityKind.toLowerCase()}`, name),
+        rankSentence(rung),
+        ...noteSentences(note)
+      )
     case "status-assessment":
       return sentences(named("Status", name), levelSentence(level), ...noteSentences(note))
     case "item-award":
