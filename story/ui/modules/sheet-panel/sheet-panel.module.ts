@@ -68,6 +68,23 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Skills of one ability kind are listed under that kind's plural title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill naming no ability kind is a Skill.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The skills tab is named by the one ability kind it holds, or Abilities where it holds several.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where it holds several, each group's title opens with its kind's plural title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill stating experience shows its level and that experience, with no bar.",
     },
     {
@@ -109,5 +126,5 @@ export const sheetPanel = {
     },
   ],
   createdAt: "2026-09-02T14:52:27.089Z",
-  updatedAt: "2026-10-27T19:23:01.232Z",
+  updatedAt: "2026-10-28T00:42:25.403Z",
 } as const satisfies Module

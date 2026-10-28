@@ -189,20 +189,44 @@ function counted(one: Counted): Held {
 
 type Part = { readonly title: string; readonly held: readonly Held[]; readonly usable?: boolean }
 
+type AbilityKind = NonNullable<Held["abilityKind"]>
+
+const SKILL: AbilityKind = { title: "Skill", pluralTitle: "Skills" }
+
+const ABILITIES = "Abilities"
+
+function abilityKindOf(one: Held): AbilityKind {
+  return one.abilityKind ?? SKILL
+}
+
+function abilityKindsIn(held: readonly Held[]): readonly string[] {
+  return [...new Set(held.map((one) => abilityKindOf(one).pluralTitle))].sort()
+}
+
+function abilitiesTitleOf(held: readonly Held[]): string {
+  const kinds = abilityKindsIn(held)
+  return kinds.length > 1 ? ABILITIES : (kinds[0] ?? SKILL.pluralTitle)
+}
+
 function skillPartsOf(held: readonly Held[]): readonly Part[] {
-  const governed = [...new Set(held.flatMap((one) => one.attribute ?? []))].sort()
-  return [
-    ...governed.map((title) => ({
-      title,
-      held: held.filter((one) => one.attribute === title),
-      usable: true,
-    })),
-    {
-      title: governed.length === 0 ? "Skills" : "Other",
-      held: held.filter((one) => one.attribute === undefined),
-      usable: true,
-    },
-  ]
+  const kinds = abilityKindsIn(held)
+  return kinds.flatMap((kind) => {
+    const ofKind = held.filter((one) => abilityKindOf(one).pluralTitle === kind)
+    const governed = [...new Set(ofKind.flatMap((one) => one.attribute ?? []))].sort()
+    const named = (title: string): string => (kinds.length > 1 ? `${kind} · ${title}` : title)
+    return [
+      ...governed.map((title) => ({
+        title: named(title),
+        held: ofKind.filter((one) => one.attribute === title),
+        usable: true,
+      })),
+      {
+        title: governed.length === 0 ? kind : named("Other"),
+        held: ofKind.filter((one) => one.attribute === undefined),
+        usable: true,
+      },
+    ]
+  })
 }
 
 function usingOf(name: string): readonly Act[] {
@@ -321,6 +345,7 @@ export function SheetTabs({
   acting,
 }: SheetShown & { readonly sheet: ClientSheet; readonly head: SheetHead }) {
   const [picked, setPicked] = useState<string>(STATS)
+  const abilities = abilitiesTitleOf(sheet.skills ?? [])
   const skills = [
     ...skillPartsOf(sheet.skills ?? []),
     { title: "Affinities", held: (sheet.affinities ?? []).map(counted) },
@@ -350,7 +375,7 @@ export function SheetTabs({
         ) : null}
         {tabs.includes(SKILLS) ? (
           <TabsTrigger value={SKILLS} className={TAB}>
-            Skills
+            {abilities}
           </TabsTrigger>
         ) : null}
         {tabs.includes(TRAITS) ? (
@@ -375,7 +400,7 @@ export function SheetTabs({
       ) : null}
       {tabs.includes(SKILLS) ? (
         <TabsContent value={SKILLS}>
-          <HeldTab label="skills" parts={skills} acting={acting} />
+          <HeldTab label={abilities.toLowerCase()} parts={skills} acting={acting} />
         </TabsContent>
       ) : null}
       {tabs.includes(TRAITS) ? (

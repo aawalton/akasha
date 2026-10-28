@@ -1,8 +1,14 @@
 import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type { QueryRow } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
+import { pluralTitle } from "akasha/story/world/mechanics/ability-kinds/properties/plural-title.text-property.ts"
+import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
+import { abilityKind } from "akasha/story/world/mechanics/skills/properties/ability-kind.relation-property.ts"
+import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
 import {
+  type AbilityKind,
   genericKindOf,
   kindOf,
   ownNameOf,
@@ -13,9 +19,58 @@ export const EXPERIENCE_KEY = "experience"
 
 export const ATTRIBUTE_KEY = "attribute"
 
+export const ABILITY_KIND_KEY = exportedAs(abilityKind.propertySlug)
+
+export const PLURAL_TITLE_KEY = exportedAs(pluralTitle.propertySlug)
+
 const CHARACTER_KEY = "character"
 
+const SKILL_KEY = "skill"
+
+const SLUG_KEY = "slug"
+
+const TITLE_KEY = "title"
+
 const PARTED = "/"
+
+export type AbilityKinds = {
+  readonly ofSkill: ReadonlyMap<string, string>
+  readonly named: ReadonlyMap<string, AbilityKind>
+}
+
+const NO_KINDS: AbilityKinds = { ofSkill: new Map(), named: new Map() }
+
+function addressed(type: string, row: QueryRow): string | null {
+  const slug = textIn(row.values[SLUG_KEY])
+  return slug === null ? null : `${type}${PARTED}${slug}`
+}
+
+export function abilityKindsIn(
+  skillRows: readonly QueryRow[],
+  kindRows: readonly QueryRow[]
+): AbilityKinds {
+  const ofSkill = new Map<string, string>()
+  for (const row of skillRows) {
+    const address = addressed(worldSkill.slug, row)
+    const kind = textIn(row.values[ABILITY_KIND_KEY])
+    if (address !== null && kind !== null) ofSkill.set(address, kind)
+  }
+  const named = new Map<string, AbilityKind>()
+  for (const row of kindRows) {
+    const address = addressed(worldAbilityKind.slug, row)
+    const title = textIn(row.values[TITLE_KEY])
+    const plural = textIn(row.values[PLURAL_TITLE_KEY])
+    if (address === null || title === null || plural === null) continue
+    named.set(address, { title, pluralTitle: plural })
+  }
+  return { ofSkill, named }
+}
+
+export function abilityKindOf(row: QueryRow, kinds: AbilityKinds): AbilityKind | undefined {
+  const own = textIn(row.values[ABILITY_KIND_KEY])
+  const address = own ?? kinds.ofSkill.get(textIn(row.values[SKILL_KEY]) ?? "")
+  return address === undefined ? undefined : kinds.named.get(address)
+}
 
 export function attributeOf(
   row: QueryRow,
@@ -31,14 +86,17 @@ export function attributeOf(
 }
 
 export function skillMoreOf(
-  titles: ReadonlyMap<string, string>
+  titles: ReadonlyMap<string, string>,
+  kinds: AbilityKinds = NO_KINDS
 ): (row: QueryRow) => Partial<Skill> {
   return (row) => {
     const earned = parseNumber(row.values[EXPERIENCE_KEY])
     const attribute = attributeOf(row, titles)
+    const kind = abilityKindOf(row, kinds)
     return {
       ...(earned === undefined ? {} : { experience: earned }),
       ...(attribute === undefined ? {} : { attribute }),
+      ...(kind === undefined ? {} : { abilityKind: kind }),
     }
   }
 }

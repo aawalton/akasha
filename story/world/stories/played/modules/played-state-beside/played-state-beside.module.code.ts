@@ -6,6 +6,7 @@ import type {
   QueryRow,
 } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
 
+import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
 import { worldAttunement } from "akasha/story/world/mechanics/attunements/world-attunement.page-type.ts"
 import { worldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.ts"
 import { worldCondition } from "akasha/story/world/mechanics/conditions/world-condition.page-type.ts"
@@ -50,8 +51,12 @@ import {
   traitsIn,
 } from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
 import {
+  ABILITY_KIND_KEY,
+  type AbilityKinds,
   ATTRIBUTE_KEY,
+  abilityKindsIn,
   EXPERIENCE_KEY,
+  PLURAL_TITLE_KEY,
   skillMoreOf,
 } from "akasha/story/world/stories/played/modules/played-skills/played-skills.module.code.ts"
 import type { Filed } from "akasha/story/world/stories/played/modules/played-state-sheet/played-state-sheet.module.code.ts"
@@ -159,6 +164,25 @@ async function askedHeld(type: string, key: string, character: string): Promise<
   )
 }
 
+async function slugsAsked(type: string, slugs: readonly string[], keys: readonly string[]) {
+  if (slugs.length === 0) return []
+  return rowsOf(
+    await askedLoudly({ "page-type": type, where: { slug: { in: [...slugs] } }, keys: [...keys] })
+  )
+}
+
+async function abilityKindsOf(skillRows: readonly QueryRow[]): Promise<AbilityKinds> {
+  const skills = namedIn(skillRows, [SKILL_KEY]).get(worldSkill.slug) ?? []
+  const named = await slugsAsked(worldSkill.slug, skills, [SLUG_KEY, ABILITY_KIND_KEY])
+  const kinds = namedIn([...skillRows, ...named], [ABILITY_KIND_KEY]).get(worldAbilityKind.slug)
+  const kindRows = await slugsAsked(worldAbilityKind.slug, kinds ?? [], [
+    SLUG_KEY,
+    TITLE_KEY,
+    PLURAL_TITLE_KEY,
+  ])
+  return abilityKindsIn(named, kindRows)
+}
+
 async function readFiled(
   character: string,
   turn: number,
@@ -210,6 +234,7 @@ async function readFiled(
         SKILL_KEY,
         EXPERIENCE_KEY,
         ATTRIBUTE_KEY,
+        ABILITY_KIND_KEY,
         UNREVEALED_KEY,
       ],
     }),
@@ -254,6 +279,7 @@ async function readFiled(
   const bondRows = overlaidRows(rowsOf(bonds), worldRelationship.slug, overlay)
   const attunementRows = overlaidRows(rowsOf(attunements), worldAttunement.slug, overlay)
   const traitRows = overlaidRows(rowsOf(traits), characterTrait.slug, overlay)
+  const kinds = await abilityKindsOf(skillRows)
   const { titles, descriptions } = await titlesOf(
     namedIn(
       [
@@ -301,7 +327,7 @@ async function readFiled(
     ...(named.length === 0 ? {} : { titles: named }),
     ...(Object.keys(purse).length === 0 ? {} : { purse }),
     ...(Object.keys(ledgers).length === 0 ? {} : { ledgers }),
-    skills: skillsIn(skillRows, titles, descriptions, skillMoreOf(titles)),
+    skills: skillsIn(skillRows, titles, descriptions, skillMoreOf(titles, kinds)),
     traits: traitsIn(traitRows, titles, descriptions),
     legacies: heldIn(legacyRows, LEGACY_KEY, titles, descriptions),
     ...(species === undefined ? {} : { species }),

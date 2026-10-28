@@ -28,6 +28,8 @@ export type ClientBeat = Beat
 export const ClientQuestSchema = z.object(QuestSchema.shape).strict()
 export type ClientQuest = z.infer<typeof ClientQuestSchema>
 
+const ClientAbilityKindSchema = z.object({ title: z.string(), pluralTitle: z.string() })
+
 const ClientSkillSchema = z.object({
   name: z.string().optional(),
   rank: z.union([z.number(), z.string()]).optional(),
@@ -35,6 +37,7 @@ const ClientSkillSchema = z.object({
   note: z.string().optional(),
   experience: z.number().optional(),
   attribute: z.string().optional(),
+  abilityKind: ClientAbilityKindSchema.optional(),
 })
 type ClientSkill = z.infer<typeof ClientSkillSchema>
 
@@ -172,6 +175,8 @@ function toClientSkill(raw: unknown): ClientSkill | null {
   if (typeof rec["note"] === "string") candidate["note"] = rec["note"]
   if (typeof rec["experience"] === "number") candidate["experience"] = rec["experience"]
   if (typeof rec["attribute"] === "string") candidate["attribute"] = rec["attribute"]
+  const kind = ClientAbilityKindSchema.safeParse(rec["abilityKind"])
+  if (kind.success) candidate["abilityKind"] = kind.data
   const parsed = ClientSkillSchema.safeParse(candidate)
   return parsed.success ? parsed.data : null
 }
