@@ -15,9 +15,11 @@ export const noGameNoLifeZero = {
       source: "tmdb",
       externalId: "445030",
       externalLink: "https://www.themoviedb.org/movie/445030",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "No Game No Life: Zero",
+  streamingOn: ["HiDive"],
   createdAt: "2026-10-28T18:54:33.241Z",
-  updatedAt: "2026-10-28T18:54:33.241Z",
+  updatedAt: "2026-10-28T19:47:48.464Z",
 } as const satisfies Movie
