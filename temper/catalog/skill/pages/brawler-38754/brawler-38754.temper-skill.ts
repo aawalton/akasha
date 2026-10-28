@@ -20,9 +20,9 @@ export const brawler38754 = {
   skillType: "temper-skill-type/active",
   hashPlace: 163,
   createdAt: "2026-05-28T16:03:31.850Z",
-  updatedAt: "2026-10-21T09:46:28.489Z",
+  updatedAt: "2026-10-28T20:27:56.378Z",
   equations: [
-    "<<1>> = 0.077464289 MaxStat + 0.81337504 MaxPower (Ultimate, Dmg, Physical, AOE, Direct, Melee)",
+    "<<1>> = 0.077475 MaxStat + 0.81349 MaxPower (Ultimate, Dmg, Physical, AOE, Direct, Melee, single precision)",
     "<<2>> = 0.077475 MaxStat + 0.8134875 MaxPower (Ultimate, DmgShield, SingleTarget, Direct, 6s duration, rank IV)",
     "<<3>> = 6 seconds (Constant)",
     "<<4>> = 50 (Constant)",
