@@ -11,9 +11,15 @@ export const narutoShippuden = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "31910", externalLink: "https://www.themoviedb.org/tv/31910" },
+    {
+      source: "tmdb",
+      externalId: "31910",
+      externalLink: "https://www.themoviedb.org/tv/31910",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Naruto Shippūden",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:42:35.603Z",
-  updatedAt: "2026-10-28T18:42:35.603Z",
+  updatedAt: "2026-10-28T19:45:19.271Z",
 } as const satisfies Show
