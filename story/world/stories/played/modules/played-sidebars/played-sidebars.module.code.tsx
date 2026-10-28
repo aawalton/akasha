@@ -36,7 +36,7 @@ import {
 } from "react"
 import { flushSync } from "react-dom"
 
-export type Side = "left" | "right"
+type Side = "left" | "right"
 
 type Look = {
   readonly slug: string
@@ -52,12 +52,12 @@ const LOOKS: readonly Look[] = [
   { slug: chat.slug, label: "Chat", icon: MessageCircle, side: "right" },
 ]
 
-export type Sides = {
+type Sides = {
   readonly left: string | null
   readonly right: string | null
 }
 
-export type Open = Sides & {
+type Open = Sides & {
   readonly last: Side
 }
 
