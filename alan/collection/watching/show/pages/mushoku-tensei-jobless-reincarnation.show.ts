@@ -11,9 +11,15 @@ export const mushokuTenseiJoblessReincarnation = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "94664", externalLink: "https://www.themoviedb.org/tv/94664" },
+    {
+      source: "tmdb",
+      externalId: "94664",
+      externalLink: "https://www.themoviedb.org/tv/94664",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Mushoku Tensei: Jobless Reincarnation",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:45:44.204Z",
-  updatedAt: "2026-10-28T18:45:44.204Z",
+  updatedAt: "2026-10-28T19:45:07.048Z",
 } as const satisfies Show
