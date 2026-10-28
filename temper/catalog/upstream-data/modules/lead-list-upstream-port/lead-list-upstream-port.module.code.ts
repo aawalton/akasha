@@ -1,4 +1,4 @@
-import { existsSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
@@ -41,6 +41,11 @@ const NAMED = [
 type Row = readonly [number, LocationEntry]
 
 type Named = readonly (readonly [string, string])[]
+
+interface Written {
+  at: string
+  body: string
+}
 
 interface LeadList {
   rows: Record<number, LocationEntry>
@@ -144,17 +149,27 @@ export async function port(root: string, done: string[] = []): Promise<void> {
     .map(([key, entry]): Row => [Number(key), entry])
     .sort((one, other) => one[0] - other[0])
   const parts = partsOf(rows)
-  const asked: Asking[] = parts.map((part, at) => {
+  const written: Written[] = parts.map((part, at) => {
     const code = codeAt(partSlug(at + 1))
     if (!existsSync(join(root, code))) {
       throw new Error(
         `the lead table needs ${String(parts.length)} parts and no module holds part ${String(at + 1)}`
       )
     }
-    return { at: PUT, given: { at: code, body: partText(at + 1, part) } }
+    return { at: code, body: partText(at + 1, part) }
   })
-  asked.push({ at: PUT, given: { at: codeAt("leads-locations"), body: wholeText(parts.length) } })
-  asked.push({ at: PUT, given: { at: codeAt("leads-location-types"), body: typesText(named) } })
+  written.push({ at: codeAt("leads-locations"), body: wholeText(parts.length) })
+  written.push({ at: codeAt("leads-location-types"), body: typesText(named) })
+  const asked = written
+    .filter(
+      ({ at, body }) =>
+        !existsSync(join(root, at)) || readFileSync(join(root, at), "utf-8") !== body
+    )
+    .map((given): Asking => ({ at: PUT, given }))
+  if (asked.length === 0) {
+    done.push(`the lead table already holds what ${LEAD_LIST_SOURCE} carries`)
+    return
+  }
   const landed = await runMechanicalChange(root, asked, MESSAGE)
   if ("refusals" in landed) throw new Error(landed.refusals.join("; "))
   done.push(

@@ -48,7 +48,15 @@ export const leadListUpstreamPort = {
       decisionKind: "decision-kind/departure",
       statement: "A string the add-on names that Lead List lacks is refused rather than written.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file already holding what a run would write is left out of that landing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run that would change no file lands nothing and says so.",
+    },
   ],
   createdAt: "2026-10-28T16:49:50.742Z",
-  updatedAt: "2026-10-28T17:04:56.204Z",
+  updatedAt: "2026-10-28T17:05:33.724Z",
 } as const satisfies Module
