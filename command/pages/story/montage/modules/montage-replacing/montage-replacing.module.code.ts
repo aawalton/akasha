@@ -13,11 +13,11 @@ type Held<Of> = { readonly answered: Of } | { readonly refused: string }
 
 export type Prior = { readonly lines: readonly Readonly<Record<string, unknown>>[] }
 
-export type Outcomes = { readonly kept: readonly string[]; readonly prior: Prior | null }
+type Outcomes = { readonly kept: readonly string[]; readonly prior: Prior | null }
 
 export type Chaptered = { readonly position: number; readonly ends: unknown }
 
-export type Starting = {
+type Starting = {
   readonly kept: readonly string[]
   readonly earlier: readonly unknown[]
   readonly chapters: readonly Chaptered[]
