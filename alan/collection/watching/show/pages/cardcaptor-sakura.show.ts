@@ -11,9 +11,15 @@ export const cardcaptorSakura = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "35790", externalLink: "https://www.themoviedb.org/tv/35790" },
+    {
+      source: "tmdb",
+      externalId: "35790",
+      externalLink: "https://www.themoviedb.org/tv/35790",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Cardcaptor Sakura",
+  streamingOn: ["Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:52:18.678Z",
-  updatedAt: "2026-10-28T18:52:18.678Z",
+  updatedAt: "2026-10-28T19:43:44.091Z",
 } as const satisfies Show
