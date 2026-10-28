@@ -2,6 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 import type { AlcoholDrinksPerWeek } from "akasha/person/properties/alcohol-drinks-per-week.number-property.types.ts"
 import type { AnsweredBy } from "akasha/person/properties/answered-by.relation-property.types.ts"
 import type { BirthDate } from "akasha/person/properties/birth-date.calendar-date-property.types.ts"
+import type { BloodPressureCategory } from "akasha/person/properties/blood-pressure-category.select-property.types.ts"
 import type { Bodyweight } from "akasha/person/properties/bodyweight.number-property.types.ts"
 import type { FamilyHistory } from "akasha/person/properties/family-history.record-property.types.ts"
 import type { FirearmAccess } from "akasha/person/properties/firearm-access.boolean-property.types.ts"
@@ -36,6 +37,7 @@ export type Person = Domain & {
   plantCalorieShare?: PlantCalorieShare
   meatServingsPerWeek?: MeatServingsPerWeek
   firearmAccess?: FirearmAccess
+  bloodPressureCategory?: BloodPressureCategory
   physicalRiskActivities?: PhysicalRiskActivities
   familyHistory?: FamilyHistory
   healthConditions?: HealthConditions
