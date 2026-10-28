@@ -32,7 +32,12 @@ export const giftedRebornActionCheck = {
       decisionKind: "decision-kind/departure",
       statement: "A Path held but not listed in this check's code is refused until it is listed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A Path held but not yet opened, stating `unrevealed: true`, is refused until it opens.",
+    },
   ],
   createdAt: "2026-10-27T20:38:02.175Z",
-  updatedAt: "2026-10-27T20:38:02.175Z",
+  updatedAt: "2026-10-28T00:07:21.742Z",
 } as const satisfies WorldCheck

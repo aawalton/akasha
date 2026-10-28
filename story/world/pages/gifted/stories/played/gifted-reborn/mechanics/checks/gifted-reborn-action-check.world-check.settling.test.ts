@@ -21,14 +21,26 @@ const ACT = {
 
 const BASIC_TIERS = [10, 25, 50, 100, 250, 500, 1000, 2500, 5000, 10000]
 
-test("a Basic Path adds five for each Tier passed, under the Path's name", () => {
+const ENDURANCE_OPENED =
+  !("unrevealed" in giftedRebornNalaPathOfEndurance) ||
+  giftedRebornNalaPathOfEndurance.unrevealed !== true
+
+test.if(!ENDURANCE_OPENED)("a Path not yet opened is no craft an act names", () => {
   const act = { ...ACT, skill: `${characterSkill.slug}/${giftedRebornNalaPathOfEndurance.slug}` }
-  const passed = BASIC_TIERS.filter((one) => giftedRebornNalaPathOfEndurance.experience >= one)
-  const by = passed.length * 5
-  expect(settled(act, EVEN)).toMatchObject({
-    answered: { score: by, terms: [{ from: giftedPathOfEndurance.title, by }] },
-  })
+  expect(settled(act, EVEN)).toHaveProperty("refused")
 })
+
+test.if(ENDURANCE_OPENED)(
+  "a Basic Path adds five for each Tier passed, under the Path's name",
+  () => {
+    const act = { ...ACT, skill: `${characterSkill.slug}/${giftedRebornNalaPathOfEndurance.slug}` }
+    const passed = BASIC_TIERS.filter((one) => giftedRebornNalaPathOfEndurance.experience >= one)
+    const by = passed.length * 5
+    expect(settled(act, EVEN)).toMatchObject({
+      answered: { score: by, terms: [{ from: giftedPathOfEndurance.title, by }] },
+    })
+  }
+)
 
 test("a Basic Attribute alone adds half of what it is over a hundred", () => {
   const act = { ...ACT, stat: `${metricCharacterStat.slug}/${giftedRebornNalaMental.slug}` }

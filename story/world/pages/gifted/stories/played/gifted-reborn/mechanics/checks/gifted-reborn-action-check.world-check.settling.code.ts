@@ -65,9 +65,14 @@ function addressOf(type: string, slug: string): string {
   return `${type}/${slug}`
 }
 
+function opened(held: { readonly unrevealed?: boolean }): boolean {
+  return held.unrevealed !== true
+}
+
 function pathTerm(said: string): Term | null {
   const one = PATHS.find((each) => addressOf(characterSkill.slug, each.held.slug) === said)
   if (one === undefined || one.held.skill !== addressOf(worldSkill.slug, one.path.slug)) return null
+  if (!opened(one.held)) return null
   const passed = one.kind.tiers.filter((tier) => one.held.experience >= tier).length
   return { from: one.path.title, by: passed * one.kind.points }
 }
@@ -88,10 +93,11 @@ function termOf(named: Named): Termed {
   if (named.skill !== undefined) {
     const term = pathTerm(named.skill)
     if (term !== null) return { answered: term }
-    const crafts = listed(
-      characterSkill.slug,
-      PATHS.map((one) => one.held.slug)
-    )
+    const open = PATHS.filter((one) => opened(one.held)).map((one) => one.held.slug)
+    if (open.length === 0) {
+      return { refused: `\`${named.skill}\` is no Path an act names; no Path is open yet` }
+    }
+    const crafts = listed(characterSkill.slug, open)
     return { refused: `\`${named.skill}\` is no Path an act names; say one of ${crafts}` }
   }
   const said = named.stat ?? ""
