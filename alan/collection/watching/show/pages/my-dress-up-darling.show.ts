@@ -15,8 +15,9 @@ export const myDressUpDarling = {
       externalId: "81569754",
       externalLink: "https://www.netflix.com/title/81569754",
     },
+    { source: "tmdb", externalId: "123249", externalLink: "https://www.themoviedb.org/tv/123249" },
   ],
   title: "My Dress-Up Darling",
   createdAt: "2026-10-14T19:18:25.105Z",
-  updatedAt: "2026-10-14T19:18:25.105Z",
+  updatedAt: "2026-10-28T17:05:48.305Z",
 } as const satisfies Show
