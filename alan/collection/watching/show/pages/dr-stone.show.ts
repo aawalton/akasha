@@ -11,9 +11,22 @@ export const drStone = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "86031", externalLink: "https://www.themoviedb.org/tv/86031" },
+    {
+      source: "tmdb",
+      externalId: "86031",
+      externalLink: "https://www.themoviedb.org/tv/86031",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Dr. STONE",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+    "WeTV",
+  ],
   createdAt: "2026-10-28T18:50:35.838Z",
-  updatedAt: "2026-10-28T18:50:35.838Z",
+  updatedAt: "2026-10-28T19:44:02.798Z",
 } as const satisfies Show
