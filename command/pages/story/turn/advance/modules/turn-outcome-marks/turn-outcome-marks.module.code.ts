@@ -1,6 +1,7 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { countedPlaces } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import { outcomesAt } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import { isMissing } from "akasha/file/system/modules/missing/missing.module.code.ts"
 import type { BeatChange } from "akasha/story/engine/beat-state/modules/beat-changes/beat-changes.module.code.ts"
 import { inventory } from "akasha/story/recorder/pages/inventory.story-recorder.ts"
 import { mechanics } from "akasha/story/recorder/pages/mechanics.story-recorder.ts"
@@ -86,6 +87,16 @@ export function unmarkedIn(owed: readonly Owed[], changes: readonly BeatChange[]
   return null
 }
 
+function outcomesIn(textOf: (path: string) => string | null, at: string | null): string | null {
+  if (at === null) return null
+  try {
+    return textOf(at)
+  } catch (thrown) {
+    if (isMissing(thrown)) return null
+    throw thrown
+  }
+}
+
 function lastHanding(held: Held, handed: Handed): boolean {
   if (handed.kind !== "record") return false
   if (held.status === MECHANICS) return true
@@ -101,8 +112,7 @@ export function marksOn(
   if (handed.kind !== "record") return null
   if (held.status !== MECHANICS && held.status !== BEATS) return null
   if (handed.recorder !== mechanics.slug && handed.recorder !== inventory.slug) return null
-  const at = outcomesAt(turnAt)
-  const text = at === null ? null : textOf(at)
+  const text = outcomesIn(textOf, outcomesAt(turnAt))
   if (text === null) return null
   const owed = owedIn(text)
   const mine = (one: Owed) => recorderOf(one.page) === handed.recorder

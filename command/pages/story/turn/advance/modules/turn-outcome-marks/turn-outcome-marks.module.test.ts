@@ -103,6 +103,24 @@ test("at beats each handing is checked for marks, and the last for every add, by
   expect(marksOn(textOf, TURN, HELD, { ...record, recorder: "memory", beat: 4 })).toBeNull()
 })
 
+test("a turn with no outcomes file owes no add, and its handings pass", () => {
+  const unread = (path: string): string => {
+    throw Object.assign(new Error(`ENOENT: no such file, open '${path}'`), { code: "ENOENT" })
+  }
+  const record = {
+    kind: "record" as const,
+    recorder: "mechanics",
+    changes: [gained(3, 35, 37, 4)],
+    beat: 4,
+  }
+  expect(marksOn(unread, TURN, HELD, record)).toBeNull()
+  expect(marksOn(() => null, TURN, HELD, record)).toBeNull()
+  const broken = (): string => {
+    throw Object.assign(new Error("EACCES"), { code: "EACCES" })
+  }
+  expect(() => marksOn(broken, TURN, HELD, record)).toThrow("EACCES")
+})
+
 test("at mechanics each recorder answers for its own adds alone", () => {
   const at = { ...HELD, status: "mechanics" as const }
   const record = { kind: "record" as const, recorder: "mechanics", changes: [gained(3, 35, 37)] }

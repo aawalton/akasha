@@ -39,7 +39,11 @@ export const turnOutcomeMarks = {
       decisionKind: "decision-kind/departure",
       statement: "At beats, the numbers seat answers for every add, a purse's and an item's too.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn with no outcomes file owes no add.",
+    },
   ],
   createdAt: "2026-10-27T22:37:14.463Z",
-  updatedAt: "2026-10-27T23:15:14.778Z",
+  updatedAt: "2026-10-28T00:09:13.800Z",
 } as const satisfies Module
