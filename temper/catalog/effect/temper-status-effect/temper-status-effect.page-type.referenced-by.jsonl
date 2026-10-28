@@ -1,1 +1,9 @@
+{"propertySlug":"import","fileName":"temper-status-effect.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect/pages/burning/burning.temper-status-effect.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-status-effect.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect/pages/chilled/chilled.temper-status-effect.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-status-effect.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect/pages/concussed/concussed.temper-status-effect.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-status-effect.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect/pages/diseased/diseased.temper-status-effect.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-status-effect.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect/pages/hemorrhaging/hemorrhaging.temper-status-effect.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-status-effect.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect/pages/overcharged/overcharged.temper-status-effect.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-status-effect.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect/pages/poisoned/poisoned.temper-status-effect.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-status-effect.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect/pages/sundered/sundered.temper-status-effect.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}
