@@ -7,10 +7,7 @@ export const awenShownCorrection = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [
-    { statement: "A shown beat can be corrected in place, and every page it changed follows." },
-    { statement: "No rule bars rewriting what the player has already read." },
-  ],
+  intentStack: [{ statement: "No rule bars rewriting what the player has already read." }],
   createdAt: "2026-10-28T14:28:57.771Z",
-  updatedAt: "2026-10-28T14:28:57.771Z",
+  updatedAt: "2026-10-28T15:47:14.790Z",
 } as const satisfies Initiative
