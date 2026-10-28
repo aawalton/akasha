@@ -80,7 +80,11 @@ const BAR_GROUP = "flex items-center gap-1"
 const ROW = "flex w-full items-start"
 
 const CENTER =
-  "relative z-20 flex min-h-[calc(100dvh-var(--safe-area-top))] min-w-0 flex-1 flex-col shadow-(--shadow-cast-sides)"
+  "relative z-20 flex min-h-[calc(100dvh-var(--safe-area-top))] min-w-0 flex-1 flex-col border-surface-2 shadow-(--shadow-cast-sides)"
+
+const EDGE_LEFT = "border-l"
+
+const EDGE_RIGHT = "border-r"
 
 const RAISED = 1
 
@@ -347,11 +351,17 @@ export function PlayedSidebars({
     )
   }
 
+  const left = sidebar("left")
+  const right = sidebar("right")
+
   return (
     <div ref={rootAt} className={ROOT}>
       <div className={ROW}>
-        {sidebar("left")}
-        <SurfaceProvider level={RAISED} className={CENTER}>
+        {left}
+        <SurfaceProvider
+          level={RAISED}
+          className={cn(CENTER, left !== null && EDGE_LEFT, right !== null && EDGE_RIGHT)}
+        >
           {phone || looks.length === NONE ? null : (
             <div className={cn(TOP_BAR, surfaceClass(RAISED))}>
               {(["left", "right"] as const).map((side) => (
@@ -384,7 +394,7 @@ export function PlayedSidebars({
             </div>
           </div>
         </SurfaceProvider>
-        {sidebar("right")}
+        {right}
       </div>
       {phone && looks.length > NONE ? <div className={TAB_BAR_ROOM} /> : null}
       {phone && coverLook !== undefined ? (

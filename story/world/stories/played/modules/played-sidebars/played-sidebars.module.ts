@@ -73,7 +73,12 @@ export const playedSidebars = {
       decisionKind: "decision-kind/departure",
       statement: "The column of turns casts a shadow over the sidebars on either side of it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The column of turns has a border in the level 2 surface color on each side a sidebar is open.",
+    },
   ],
   createdAt: "2026-10-27T18:38:10.173Z",
-  updatedAt: "2026-10-28T18:53:49.315Z",
+  updatedAt: "2026-10-28T19:03:17.845Z",
 } as const satisfies Module

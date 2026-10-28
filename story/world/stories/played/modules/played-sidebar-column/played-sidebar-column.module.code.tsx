@@ -26,11 +26,7 @@ export const WIDTHS: Widths = { left: SIDEBAR_WIDTH, right: SIDEBAR_WIDTH }
 const WIDTHS_STORED_AT = "played-sidebar-widths"
 
 const SIDEBAR =
-  "sticky top-(--safe-area-top) z-10 flex h-[calc(100dvh-var(--safe-area-top))] shrink-0 flex-col border-surface-2"
-
-const SIDEBAR_LEFT = "border-r"
-
-const SIDEBAR_RIGHT = "border-l"
+  "sticky top-(--safe-area-top) z-10 flex h-[calc(100dvh-var(--safe-area-top))] shrink-0 flex-col"
 
 const HEAD = "flex h-12 shrink-0 items-center justify-between gap-2 border-primary/10 border-b px-4"
 
@@ -126,11 +122,7 @@ export function SidebarColumn({
     onWidth(width + outward * rightward * RESIZE_STEP)
   }
   return (
-    <aside
-      aria-label={label}
-      className={cn(SIDEBAR, side === "left" ? SIDEBAR_LEFT : SIDEBAR_RIGHT)}
-      style={{ width }}
-    >
+    <aside aria-label={label} className={SIDEBAR} style={{ width }}>
       <SurfaceProvider level={RAISED} className={BODY}>
         {children}
       </SurfaceProvider>
