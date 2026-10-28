@@ -17,6 +17,10 @@ export const sheetEntries = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A section's title and count are set at the size of the rows under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A search keeps the rows whose name or description holds what was typed.",
     },
     {
@@ -46,5 +50,5 @@ export const sheetEntries = {
     },
   ],
   createdAt: "2026-10-27T19:04:03.834Z",
-  updatedAt: "2026-10-28T13:56:30.533Z",
+  updatedAt: "2026-10-28T14:23:40.905Z",
 } as const satisfies Module

@@ -53,7 +53,7 @@ export function Section({
 }) {
   return (
     <div className="flex flex-col gap-1">
-      <div className="flex items-baseline justify-between gap-2 font-mono text-[10px] text-tertiary uppercase tracking-[0.18em]">
+      <div className="flex items-baseline justify-between gap-2 font-mono text-[12.5px] text-tertiary uppercase tracking-[0.12em]">
         <span>{title}</span>
         {count === undefined ? null : <span className="text-accent tabular-nums">{count}</span>}
       </div>
