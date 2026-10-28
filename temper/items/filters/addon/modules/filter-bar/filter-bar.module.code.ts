@@ -26,10 +26,7 @@ import type {
   FilterGroup,
   FilterId,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
-import {
-  createMovableWindow,
-  type WindowPosition,
-} from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
+
 import {
   drawSurface,
   type SurfaceLevel,
@@ -78,8 +75,6 @@ interface SurfaceAnchor {
 
 interface FilterBarConfig {
   controller: FilterController
-  loadPosition: (this: void) => WindowPosition | undefined
-  savePosition: (this: void, position: WindowPosition) => undefined
   surfaceAnchors?: readonly SurfaceAnchor[]
 }
 
@@ -102,10 +97,10 @@ export function createFilterBar(config: FilterBarConfig): undefined {
 
   drawSurface(tlw, PANEL_LEVEL)
 
-  const dragHandle = WINDOW_MANAGER.CreateControl("$(parent)DragHandle", tlw, CT_CONTROL)
-  dragHandle.SetAnchor(TOPLEFT, tlw, TOPLEFT, 0, 0)
-  dragHandle.SetDimensions(PANEL_WIDTH, HEADER_HEIGHT)
-  const title = createFieldLabel(dragHandle, "Filters", PADDING_X)
+  const header = WINDOW_MANAGER.CreateControl("$(parent)Header", tlw, CT_CONTROL)
+  header.SetAnchor(TOPLEFT, tlw, TOPLEFT, 0, 0)
+  header.SetDimensions(PANEL_WIDTH, HEADER_HEIGHT)
+  const title = createFieldLabel(header, "Filters", PADDING_X)
   title.SetMouseEnabled(false)
 
   const comboContainer = WINDOW_MANAGER.CreateControlFromVirtual(
@@ -271,14 +266,6 @@ export function createFilterBar(config: FilterBarConfig): undefined {
 
   buildAddMenu()
 
-  const handle = createMovableWindow({
-    window: tlw,
-    dragHandle,
-    loadPosition: config.loadPosition,
-    savePosition: config.savePosition,
-    applyDefaultAnchor: () => applyDefaultAnchor(tlw, config.surfaceAnchors),
-  })
-
   INVENTORY_FRAGMENT.RegisterCallback(
     "StateChange",
     function (this: void, _oldState: number, newState: number): undefined {
@@ -286,7 +273,8 @@ export function createFilterBar(config: FilterBarConfig): undefined {
         tlw.SetHidden(true)
         return
       }
-      handle.reanchor()
+      tlw.ClearAnchors()
+      applyDefaultAnchor(tlw, config.surfaceAnchors)
       tlw.SetHidden(false)
     }
   )

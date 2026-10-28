@@ -14,7 +14,8 @@ export const temperItemsFiltersAddon = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The panel remembers the position the player dragged the window to.",
+      statement:
+        "The panel is placed beside the inventory window rather than where a drag left it.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -26,5 +27,5 @@ export const temperItemsFiltersAddon = {
     },
   ],
   createdAt: "2026-09-02T08:45:26.708Z",
-  updatedAt: "2026-09-21T15:37:03.000Z",
+  updatedAt: "2026-10-28T15:49:51.199Z",
 } as const satisfies Domain

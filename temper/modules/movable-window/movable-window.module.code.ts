@@ -1,7 +1,7 @@
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export interface WindowPosition {
+interface WindowPosition {
   left: number
   top: number
 }

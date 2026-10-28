@@ -10,7 +10,6 @@
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-slash-command/inventory-explain-slash-command.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-filter-bar-init/inventory-filter-bar-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-furnishing-scanner/inventory-furnishing-scanner.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-hud-fields/inventory-hud-fields.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-item-rule-verdict-store/inventory-item-rule-verdict-store.module.code.ts","typed":false,"deferred":false}

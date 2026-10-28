@@ -4,7 +4,7 @@ export const filterBar = {
   id: "01a0614b-6735-71b0-b1bb-6d698f3b387d",
   type: "page-type/module",
   slug: "filter-bar",
-  definition: "the movable panel a player adds filter rows to while the inventory is open",
+  definition: "the panel a player adds filter rows to while the inventory is open",
   code: "ts",
   decisions: [
     {
@@ -27,7 +27,11 @@ export const filterBar = {
       decisionKind: "decision-kind/departure",
       statement: "The panel reanchors each time the inventory scene shows.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel sits under the inventory plan, beside the inventory window.",
+    },
   ],
   createdAt: "2026-09-02T08:45:26.709Z",
-  updatedAt: "2026-09-21T15:37:03.000Z",
+  updatedAt: "2026-10-28T15:49:51.199Z",
 } as const satisfies Module

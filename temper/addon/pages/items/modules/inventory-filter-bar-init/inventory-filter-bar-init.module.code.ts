@@ -1,5 +1,5 @@
 import { buildItemFactsForSlot } from "akasha/temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
-import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+
 import { createFilterBar } from "akasha/temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts"
 import { createFilterController } from "akasha/temper/items/filters/addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"
 import { buildFilterIndex } from "akasha/temper/items/filters/core/modules/search-filter-registry/search-filter-registry.module.code.ts"
@@ -36,14 +36,6 @@ export function initializeFilterBar(): undefined {
 
   createFilterBar({
     controller,
-    loadPosition: () => {
-      const saved = getSavedVariables().inventoryFilterPanel
-      if (saved === undefined) return undefined
-      return { left: saved.left, top: saved.top }
-    },
-    savePosition: (position) => {
-      getSavedVariables().inventoryFilterPanel = { left: position.left, top: position.top }
-    },
     surfaceAnchors: [
       {
         isActive: () => IsGuildBankOpen(),
