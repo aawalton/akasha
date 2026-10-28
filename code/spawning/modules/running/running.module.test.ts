@@ -230,8 +230,10 @@ test("a group left is emptied and taken away with every group inside it", async 
 
 test("a group that cannot be taken away once its run is over is said aloud", () => {
   const inner = `import { bytes } from ${JSON.stringify(CODE)}; `
-  const run = 'bytes(["sh", "-c", "sleep 2 >/dev/null 2>&1 &"], { metered: true })'
-  expect(ran(["bun", "-e", inner + run]).err).toMatch(/a group was left at .* 1 processes/)
+  const run = 'bytes(["sh", "-c", "sleep 600 >/dev/null 2>&1 &"], { metered: true })'
+  const done = ran(["bun", "-e", inner + run])
+  ran(["true"], MEASURED)
+  expect(done.err).toMatch(/a group was left at .* 1 processes/)
 })
 
 test("a process given a ceiling is ended at twice that many processor seconds", () => {
