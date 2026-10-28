@@ -36,7 +36,20 @@ export const inventoryRulesDispatchBankVault = {
       decisionKind: "decision-kind/departure",
       statement: "How long a visit's vault deposits took is kept in that visit's bank trace.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A carrier's vault visit takes out the stacks the scanned houses are allotted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Those go after the other withdrawals, smallest first, within the same backpack margin.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stack taken out for a house is bound for that house, so no deposit returns it.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-10-10T14:07:56.723Z",
+  updatedAt: "2026-10-28T20:35:03.048Z",
 } as const satisfies Module

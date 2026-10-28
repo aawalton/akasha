@@ -5,6 +5,10 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
+  sayHouseWithdrawals,
+  vaultHouseWithdrawals,
+} from "akasha/temper/addon/pages/items/modules/inventory-house-route/inventory-house-route.module.code.ts"
+import {
   clearPendingAction,
   forEachPendingAction,
   getCompiledConfig,
@@ -28,6 +32,7 @@ import {
   type VaultDepositPlan,
 } from "akasha/temper/addon/pages/items/modules/inventory-vault-deposit-plan/inventory-vault-deposit-plan.module.code.ts"
 import { isBackpackRequiredAction } from "akasha/temper/items/rules/core/modules/action-storage-capability/action-storage-capability.module.code.ts"
+import { houseTarget } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -40,15 +45,22 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 interface VaultWithdrawal {
   readonly slotIndex: number
   readonly ruleIndex: number
+  readonly house?: number
 }
 
 function collectVaultWithdrawals(): VaultWithdrawal[] {
   if (!getCompiledConfig()) return []
   const withdrawals: VaultWithdrawal[] = []
+  const housed: VaultWithdrawal[] = []
   let slotIndex: number | undefined = ZO_GetNextBagSlotIndex(BAG_FURNITURE_VAULT, undefined)
   while (slotIndex !== undefined) {
     const matched = findMatchedRule(BAG_FURNITURE_VAULT, slotIndex)
-    if (matched !== undefined && isBackpackRequiredAction(matched.action, matched.destination)) {
+    if (matched !== undefined && houseTarget(matched.destination) !== undefined) {
+      housed.push({ slotIndex, ruleIndex: matched.ruleIndex })
+    } else if (
+      matched !== undefined &&
+      isBackpackRequiredAction(matched.action, matched.destination)
+    ) {
       withdrawals.push({ slotIndex, ruleIndex: matched.ruleIndex })
     }
     slotIndex = ZO_GetNextBagSlotIndex(BAG_FURNITURE_VAULT, slotIndex)
@@ -57,6 +69,7 @@ function collectVaultWithdrawals(): VaultWithdrawal[] {
     if (a.ruleIndex !== b.ruleIndex) return a.ruleIndex < b.ruleIndex
     return a.slotIndex < b.slotIndex
   })
+  for (const one of vaultHouseWithdrawals(housed)) withdrawals.push(one)
   return withdrawals
 }
 
@@ -75,6 +88,7 @@ export function executeVaultWithdrawals(
   const withdrawnLinks: string[] = []
   const bufferSlots = getConfiguredBufferSlots()
   const initialFree = GetNumBagFreeSlots(BAG_BACKPACK)
+  const stacksByHouse = new Map<number, number>()
   let ops = 0
 
   for (const w of withdrawals) {
@@ -102,9 +116,11 @@ export function executeVaultWithdrawals(
     noteServerAction()
     bankMoveItem(BAG_FURNITURE_VAULT, w.slotIndex, BAG_BACKPACK, targetSlot, stackCount)
     ctx.vacated.set(slotKey(BAG_FURNITURE_VAULT, w.slotIndex), true)
+    if (w.house !== undefined) stacksByHouse.set(w.house, (stacksByHouse.get(w.house) ?? 0) + 1)
     ops++
   }
 
+  zo_callLater(() => sayHouseWithdrawals(stacksByHouse), 0)
   return { ops, withdrawnLinks }
 }
 
