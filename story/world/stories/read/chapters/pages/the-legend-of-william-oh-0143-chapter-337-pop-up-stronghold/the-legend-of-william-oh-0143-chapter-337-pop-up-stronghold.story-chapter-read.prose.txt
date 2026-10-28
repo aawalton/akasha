@@ -1,0 +1,227 @@
+“What am I looking at?” Will asked as Sammohan and Laurence the inventor dropped a hewn-off chunk of glowing platform in front of him.
+
+“Allow me to demonstrate.” Laurence said, nodding at Sammohan. The massive miner set the flat chunk of stone on a rakish angle.
+
+Laurence took a marble out of his pocket and rolled it across the tilted surface.
+
+The surface appeared to be flat, but the marble seemed to catch on the glowing grain in the rock and begin following it, despite it being against the direction of the tilt.
+
+“Huh?”
+
+“Physical mediums are forced to flow with the grain of this material.” Laurence said. “I call it flowstone.”
+
+To further demonstrate, he pulled out a waterskin and made a small stream flow down the stone face at an odd angle, defying gravity to flow sideways and down rather than straight down.
+
+“What can you do with it?” Will asked.
+
+“What can’t I do with it?” Laurence asked. “the Laurence Emeris Anchorite Bullet Launcher would be improved by-“
+
+“We’re all calling them sluggers now.” Will added.
+
+“That’s heinous and I won’t accept it.” Laurence said with a scowl. “Anyway, making a bit of the stock out of this material could increase the accuracy and decrease the wear on the machine by reducing mechanical wear. We could also use them in the automated flash-glass machinery to more tightly control the path of the moving parts…again, improving accuracy and controlling mechanical wear.
+
+“Anything else?” Will asked, his gaze drifting out to the glowing lines in the platform that all seemed to coalesce around the pedestal weak-points.
+
+“Oh, that’s what it’s for,” Will mused, running his hand over the material, experiencing the gentle tug that tried to force his hand to follow the mineral’s glowing grain. It was easily resisted, but to something without a will of it’s own..
+
+He’d mostly been flying, and hadn’t spent much time personally fighting the monsters, but these lines on the floor seemed to dictate the path they were forced to take. If they arranged these glowing pathways to their own convenience…
+
+“Loth-“
+
+“On it.” Loth said, turning away.
+
+“What umm…what’s she doing?” Sammohan asked as Loth raised her hand and the floor began to buck and shudder beneath them.
+
+“Judging by our lengthy exchange just now, I assume she’s going to arrange the platform so that the monsters are encouraged to travel the maximum distance in order to reach the central pedestal.” Will said as Loth stepped away and began carving up the platform and rearranging the haphazard lines on the floor into something more deliberate.
+
+“That is the case.” Loth called over her shoulder.
+
+“Did you ask her to do that?” Laurence asked.
+
+“…more or less.” Will said.
+
+By the time Loth was done, the platform contained four glowing pathways, each composed of nearly a dozen switchbacks with large, empty spaces at the corners where they could set up spots to kill the monsters as they charged mindlessly down the path.
+
+Assuming that the pathways worked without a hitch.
+
+Best not to assume.
+
+“We’re going to bring in the next platform over there,” Will said, pointing. “You’re free to mine as much of the stuff as you can carry, but give us an hour or so to test and clear it first.
+
+“Milord!” one of the Stronghold’s young guards shouted, flagging the four of them down as he approached with a big…something over his head.
+
+“Look at this Relic that dropped from one of the monsters!”
+
+He levered the object from overhead and Will immediately recognized it as one of Laurence’s inventions, attached to some kind of tripod folded back to create a large stock.
+
+Will Inspected it.
+
+Auto-Slugger
+
++ 2 Strength
+
++ 2 Resistance
+
++ 8 Kinesthetics
+
++ 8 Acuity
+
+- 21 Focus
+
+Takes the Primary weapon slot even when not directly equipped unless deliberately removed from the user’s Kit.
+
+Toggle Turret mode: 7 Focus
+
+While in Turret mode, The Auto-slugger will automatically shoot slugs at enemies within the range of the weapon (scales with Acuity), with 5 degrees of correction. This Toggle Ability is separate from the Focus penalty.
+
+180 round, chargeable magazine. Ammunition is 20mm anchorite slugs, mundane, or synthetic.
+
+Damage scales with Kinesthetics.
+
+Create synthetic Ammunition: 1 Charge.
+
+Manifests a 20mm anchorite slug in the magazine. Creates 30 shots per day without spending Charge while equipped.
+
+Magazine: 180/180
+
+“Huh.” Will thought, looking it over.
+
+The damage scaled with Kinesthetics, the range with Acuity, and it imposed a strong penalty to Focus, which functioned as a barrier to entry for anyone without a healthy amount to spare.
+
+Will did the math: 21 Focus was three per day, so it wasn’t actually giving the wielder thirty free shots per day, It was making ten shots per Charge that it denied the wielder in regeneration and protection from mental attacks.
+
+Much cheaper than the stated 1-1 cost for slugs, albeit with downsides.
+
+As far as weapons were concerned, it was all over the place, forcing a user to have three strong stats in order to work properly rather than just one.
+
+The gimmick of being able to set it down and have it attack enemies for you was interesting, but was that really worth a weapon with no solid like this?
+
+“I want it!” Loth said an instant behind Beth.
+
+“It’s got damage scaling!” Beth said, having followed directly behind the guard carrying the oversized slugger, waiting for her opportunity to present her case to Will.
+
+“It can tell what an enemy is by itself! Do you have any idea how much I want to learn how to do that?” Loth made her case.
+
+“It probably just piggybacks off of the user’s interpretation of an enemy,” Will said, glancing at Loth.
+
+“Still interested in how to make that work.” Loth replied.
+
+“It’s the only slugger we’ve ever found! And it damage scales!” Beth said.
+
+“It’s not a slugger!” Laurence said, his protests falling on deaf ears.
+
+It’s literally in the name, Will thought, but simply moved on without engaging.
+
+“If we can find one on this Floor, we can find more. Let’s let Beth have this one until we get another for her, then you can tinker with this one to your heart’s content.” Will said, saving a blueprint of the weapon to his Legend.
+
+“You took a sketch just now, yeah?” Loth asked, raising her brows.
+
+Damn, she knows me too well.
+
+“Agh. Fine, but don’t-“
+
+Loth made grabby-hands. The implication was that she would behave herself and not bother Beth if she got the weapon’s blueprint in her hand.
+
+Manifest
+
+Will manifested the Map of the auto-slugger and passed it to Loth.
+
+“In many ways, this works out better for me.” Loth said, rolling up the map and resting it over her shoulder.
+
+“Do you two have some kind of…telepathy Ability?” Beth asked, clutching the slugger to her chest and glancing between Will and Loth.
+
+They shared a glance and shrugged.
+
+“Same wavelength.” Loth replied.
+
+“Matching vibes.” Will said at the same time.
+
+They were both always thinking of how to take advantage of any given situation. Will and Loth had both overheard the same thing about the flowstone and came to the same conclusion, because they both asked the same question:
+
+‘How can I take advantage of this?’
+
+“I see. Well, It’s good that the Lord and his second in command are such good friends.” Beth said.
+
+“Let’s put Beth on the frontlines.” Loth said.
+
+Will blinked and turned his attention to Loth while the priestess’s face paled. Are you mad about the ‘friends’ comment?
+
+“I want to see what the auto-slugger can do.” Loth said.
+
+Will’s head cocked. He had to admit, he was also curious about that.
+
+“Um-“ Beth started to speak.
+
+“Let’s at least put her halfway back so we can get a better feel for the range.” Will replied.
+
+“Fair enough.”
+
+The two shook on it and thus it was decided that in exchange for getting to be the first person with a naturally-spawning Slugger Relic, Beth the Priestess of Holdna would be forced to put the weapon through its paces.
+
+They set her up about halfway back to the pedestal on one of the black squares Loth had arranged with none of the flowstone above it.
+
+Setting her up on the spot was an interesting experience that took a couple tries. The tangled-up flowstone grain that had been re-worked into a smooth, uniform pattern had its effect magnified by several orders of magnitude. If a piece of someone or their equipment went roughly five feet above the grain, it was like being swept up in a river, with no way of breaking free.
+
+The flowstone grabbed on tight and the only way to get free was to follow it to the end of the grain. Laurence was especially fascinated by the way the field strengthened with the width of the grain, muttering to himself and scribbling math equations in his notebook while Loth looked over his shoulder.
+
+“How are we going to make sure we can actually hit these guys?” Will asked the obvious question once they had Beth set up. Any physical attack would just be grabbed by the flowstone and held inside it until it hit the end of the grain.
+
+“If the top of the effect is only about five feet tall…” Loth mused. “Towers?” If we shoot down at them, it should work unless we miss.”
+
+Once they got that worked out, they borrowed some earth mages from Will’s Stronghold, set up towers that loomed above the flowstone path, and created a stone fortress around the pedestal itself for good measure.
+
+It would suck to die of massive trauma to the heart just because of some stray shrapnel.
+
+“This Looks like a pop-up fortress.” Will mused, studying their surroundings from the top of the heart tower.
+
+“What’s a pop-up fortress?” Loth asked.
+
+“You ever seen one of those picture books for kids with the folded paper that pops up when you open the pages?” Will asked.
+
+Loth shook her head.
+
+“My friend Ben showed me one when I was a kid. I could probably afford one myself now that I think about it.”
+
+“Ben?” Loth asked.
+
+“Old friend of mine. He died of a terminal case of Stupid. Is that a rude thing to say?”
+
+Loth shrugged. “You’re telling this to a kobold. The vast majority of my immediate family has died of the same illness.”
+
+That’s fair.
+
+Will sat and thought a bit as he prepared the platform to begin bringing in monsters to level themselves.
+
+“…I’ll show you a pop-up book next time we get the chance.” Will said.
+
+“That sounds fun. Assuming we’re both alive.” Loth replied.
+
+“Didn’t want to jinx it, huh?” Will said.
+
+“Speaking about the future without considering imminent death is bad luck.” Loth said.
+
+“You never struck me as superstitious.” Will said.
+
+“More so since I met you.” Loth replied, watching the other platforms close in, pointing with a black claw. “There we go.”
+
+Boom!
+
+The thunder of two platforms connected echoed through their little island as monsters began flooding onto the flowstone path that Loth had laid out for them.
+
+It worked like a charm. The flowstone snagged the monster’s feet and drew them along the path like a fast-flowing river, dragging them along and preventing them from climbing out of the flow under their own power.
+
+Crack! Crack! Crack!
+
+Beth’s new weapon began twitching back and forth, releasing a crack of the sound barrier being broken every time it did so, raining down anchorite bullets on them from above.
+
+“It occurs to me that we’re going to need a cleanup crew,” Will said as limp corpses began floating down the flowstone path, gradually disintegrating into ash and miasma as they did so, leaving behind anchorite bullets, ash, bones and the occasional Relic.
+
+None of these things moved under their own power, they were pushed from behind by the endless onslaught funneled onto Loth’s narrow flowstone pathways, marching back and forth in tight switchbacks while Beth unloaded on them.
+
+And then, the young priestess of Holdna ran out of bullets.
+
+Without missing a beat, Loth held up a flag and waved to signal Will’s guards that they were allowed to begin.
+
+Will had given all of his guards Sacrifices from the Ethereal Metallic Slime, so their Abilities mostly involved making and controlling metal. In a matter of minutes, the flow of monster was chopped to pieces, and minutes later, Sammohan was leading his crew across the gap to mine the flowstone out of the platform before more platforms connected.
+
+Let’s get everyone… everyone up to at least level 75 before we continue onwards.
