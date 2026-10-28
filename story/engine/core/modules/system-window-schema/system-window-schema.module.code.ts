@@ -77,14 +77,7 @@ const SystemWindowUnion = z.discriminatedUnion("type", [
   z
     .object({ type: z.literal("level-up"), level: z.number(), attrPoints: z.number().optional() })
     .strict(),
-  z
-    .object({
-      type: z.literal("skill"),
-      skill: z.string(),
-      rank: z.string().optional(),
-      abilityKind: z.string().optional(),
-    })
-    .strict(),
+  z.object({ type: z.literal("skill"), skill: z.string(), rank: z.string().optional() }).strict(),
   z.object({ type: z.literal("affinity"), affinity: z.string() }).strict(),
   z.object({ type: z.literal("class"), class: z.string() }).strict(),
   z.object({ type: z.literal("title"), title: z.string() }).strict(),

@@ -1,6 +1,7 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import type { Asked } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
 import type {
   ItemAward,
   QuestWindow,
@@ -13,6 +14,20 @@ import {
   type SubmitPlayerAction,
   SystemChoiceCard,
 } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
+import {
+  ABILITY_KIND_KEY,
+  abilityKindSlugsIn,
+  abilityKindTitlesOf,
+  SLUG_KEY,
+  TITLE_KEY,
+} from "akasha/story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts"
+import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
+import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
+import {
+  askedLoudly,
+  reportThrown,
+} from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
+import { useEffect, useState } from "react"
 
 function ReadoutGrid({ record }: { record: Record<string, number> }) {
   const entries = Object.entries(record)
@@ -156,17 +171,55 @@ function LevelUpCard({ level, attrPoints }: { level: number; attrPoints?: number
 
 const SKILL = "Skill"
 
-function SkillCard({
-  skill,
-  rank,
-  abilityKind,
-}: {
-  skill: string
-  rank?: string
-  abilityKind?: string
-}) {
+const UNSETTLED = " "
+
+function valuesOf(asked: Asked): readonly Readonly<Record<string, unknown>>[] {
+  return asked.ok ? asked.answer.rows.map((row) => row.values) : []
+}
+
+async function abilityKindTitleOf(skill: string): Promise<string> {
+  const skills = valuesOf(
+    await askedLoudly({
+      "page-type": worldSkill.slug,
+      where: { title: { is: skill } },
+      keys: [TITLE_KEY, ABILITY_KIND_KEY],
+    })
+  )
+  const slugs = abilityKindSlugsIn(skills)
+  if (slugs.length === 0) return SKILL
+  const kinds = valuesOf(
+    await askedLoudly({
+      "page-type": worldAbilityKind.slug,
+      where: { slug: { in: [...slugs] } },
+      keys: [SLUG_KEY, TITLE_KEY],
+    })
+  )
+  return abilityKindTitlesOf(skills, kinds).get(skill) ?? SKILL
+}
+
+function useAbilityKindTitle(skill: string): string | null {
+  const [title, setTitle] = useState<string | null>(null)
+  useEffect(() => {
+    let alive = true
+    void abilityKindTitleOf(skill)
+      .catch((thrown: unknown) => {
+        reportThrown(`reading the ability kind of ${skill}`, thrown)
+        return SKILL
+      })
+      .then((said) => {
+        if (alive) setTitle(said)
+      })
+    return () => {
+      alive = false
+    }
+  }, [skill])
+  return title
+}
+
+function SkillCard({ skill, rank }: { skill: string; rank?: string }) {
+  const abilityKind = useAbilityKindTitle(skill)
   return (
-    <WindowFrame banner={abilityKind ?? SKILL} bannerClass="text-accent">
+    <WindowFrame banner={abilityKind ?? UNSETTLED} bannerClass="text-accent">
       <div className="font-mono font-semibold text-[14px] text-primary">{skill}</div>
       {rank != null && rank !== "" ? <CardField label="Rank" value={rank} /> : null}
     </WindowFrame>
@@ -236,7 +289,7 @@ export function SystemWindowCard({
     case "level-up":
       return <LevelUpCard level={window.level} attrPoints={window.attrPoints} />
     case "skill":
-      return <SkillCard skill={window.skill} rank={window.rank} abilityKind={window.abilityKind} />
+      return <SkillCard skill={window.skill} rank={window.rank} />
     case "affinity":
       return <AffinityCard affinity={window.affinity} />
     case "class":

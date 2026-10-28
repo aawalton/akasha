@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"page/query/modules/store-spelling/store-spelling.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"page/query/modules/store-spelling/store-spelling.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"page/ui/supabase/modules/relation-picker/relation-picker.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-questioning.module.code.ts","path":"story/world/stories/played/modules/beat-overlay/beat-overlay.module.test.ts","typed":true,"deferred":false}
