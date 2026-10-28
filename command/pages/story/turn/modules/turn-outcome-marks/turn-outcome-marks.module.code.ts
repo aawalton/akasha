@@ -23,7 +23,7 @@ const PARTED = "/"
 
 const CARRIED: readonly string[] = [metricCharacterCurrency.slug, storyItem.slug]
 
-export type Owed = {
+type Owed = {
   readonly line: number
   readonly page: string
   readonly key: string
