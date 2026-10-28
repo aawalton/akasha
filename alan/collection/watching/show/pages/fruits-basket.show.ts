@@ -11,9 +11,15 @@ export const fruitsBasket = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "85991", externalLink: "https://www.themoviedb.org/tv/85991" },
+    {
+      source: "tmdb",
+      externalId: "85991",
+      externalLink: "https://www.themoviedb.org/tv/85991",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Fruits Basket",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:43:54.662Z",
-  updatedAt: "2026-10-28T18:43:54.662Z",
+  updatedAt: "2026-10-28T19:44:20.316Z",
 } as const satisfies Show
