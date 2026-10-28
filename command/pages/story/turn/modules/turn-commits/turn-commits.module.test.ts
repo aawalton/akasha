@@ -3,7 +3,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   addedLogged,
-  commitsLogged,
+  bodyCommitted,
 } from "akasha/command/pages/story/turn/modules/turn-commits/turn-commits.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 
@@ -45,13 +45,10 @@ test("a page no commit added has no commit adding it", () => {
   expect(addedLogged(ROOT, "stories/otherwhere/turns/nothing.ts")).toBeNull()
 })
 
-test("every commit changing a page is logged with its subject, newest first", () => {
-  expect(commitsLogged(ROOT, "HEAD", [TURN]).map((one) => one.subject)).toEqual([
-    "otherwhere-00-011 moves from recorders to player",
-    "3 writes arrived together, so they land together",
-  ])
+test("a file's body at a commit is the body that commit gave it", () => {
+  expect(bodyCommitted(ROOT, BATCH, TURN)).toBe("made\n")
 })
 
-test("a git that fails throws rather than logging no commit", () => {
-  expect(() => commitsLogged(join(ROOT, "no-such-folder"), "HEAD", [TURN])).toThrow()
+test("a git that fails throws rather than finding no commit", () => {
+  expect(() => addedLogged(join(ROOT, "no-such-folder"), TURN)).toThrow()
 })

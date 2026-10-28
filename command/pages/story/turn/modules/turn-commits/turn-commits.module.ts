@@ -4,14 +4,10 @@ export const turnCommits = {
   id: "01a0eb3a-ee7b-7f63-b2b3-11c384af2550",
   type: "page-type/module",
   slug: "turn-commits",
-  definition: "the commits git logs over a played story's files, and a file's body at one",
+  definition: "the commit adding a played turn's page, and a file's body at a commit",
   code: "ts",
   test: "ts",
   decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A commit is read with every path it changed, and a rename is read as two paths.",
-    },
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -23,5 +19,5 @@ export const turnCommits = {
     },
   ],
   createdAt: "2026-09-29T03:35:03.035Z",
-  updatedAt: "2026-09-29T04:11:52.000Z",
+  updatedAt: "2026-10-28T15:02:27.222Z",
 } as const satisfies Module

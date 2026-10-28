@@ -142,7 +142,7 @@ export function changesIn(
   return changes
 }
 
-function said(value: unknown): string {
+export function said(value: unknown): string {
   return value === undefined ? "nothing" : JSON.stringify(value)
 }
 

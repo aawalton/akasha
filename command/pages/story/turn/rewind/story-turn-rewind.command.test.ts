@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
-import { seen as sagaSeen } from "akasha/command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts"
+import type { Turn } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import {
   storyTurnRewind,
   type Unwinding,
@@ -23,25 +23,10 @@ import {
   seen,
   turnAt,
   UNIT,
+  unplayingOver,
   WRITER,
 } from "akasha/command/pages/story/turn/rewind/story-turn-rewind.command.test-fixtures.ts"
-import {
-  GATE_AT,
-  HALL_AT,
-  MADE,
-  turnAt as playedAt,
-  RECORDED,
-  RECORDED_BEFORE,
-  RECORDED_NOW,
-  reachOver as recordedOver,
-  AT as SAGA_AT,
-  OUTCOMES_AT as SAGA_OUTCOMES_AT,
-  PROSE_AT as SAGA_PROSE_AT,
-} from "akasha/command/pages/story/turn/take-back/story-turn-take-back.command.test-fixtures.ts"
-import {
-  putting,
-  taking,
-} from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
+import { taking } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import { noticeOf } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
@@ -272,43 +257,40 @@ test("outcomes naming a check that is not here land nothing", async () => {
   expect(into.asked).toEqual([])
 })
 
-test("a rewind puts back the lore and place pages the turn's recorders landed, in the same landing", async () => {
-  const into = sagaSeen()
-  const answer = await rewoundBy([], recordedOver(playedAt(), into, RECORDED), into)
-  expect(answer.refusals).toEqual([])
-  expect(into.folded.map((one) => one.path)).toEqual([SAGA_AT])
-  expect(into.folded[0]?.values["stepStatus"]).toBe(`${stepStatus.slug}/world-builder`)
-  expect(into.asked).toEqual([
-    putting({ path: HALL_AT, content: RECORDED_BEFORE[HALL_AT] ?? "" }),
-    putting({ path: GATE_AT, content: RECORDED_BEFORE[GATE_AT] ?? "" }),
-    taking(SAGA_PROSE_AT),
-    taking(SAGA_OUTCOMES_AT),
-  ])
-  expect(answer.report).toContain(`restored\t${HALL_AT}`)
-})
+const BEATS_AT = `stories/the-saga/turns/${SLUG}.story-turn-played.beats.jsonl`
 
-test("a rewind before player puts back what the turn's making landed up to the latest commit", async () => {
-  const into = sagaSeen()
-  const ranges: string[] = []
-  const base = recordedOver(playedAt("game-master"), into, RECORDED)
-  const reach: Unwinding = {
-    ...base,
-    commitsOn: (root, range, within) => {
-      ranges.push(range)
-      return base.commitsOn(root, range, within)
-    },
+const PURSE = "metric-character-currency/mara"
+
+const PURSE_AT = "stories/the-saga/purses/mara.metric-character-currency.ts"
+
+const PAID = { page: PURSE, note: "paid the gatekeeper", key: "value", from: 9, to: 4 }
+
+const BEATS_TEXT = `${JSON.stringify({ beat: 1, event: "Mara pays.", changes: [PAID] })}\n`
+
+function beatenOver(turn: Turn, into: Seen, purse: number): Unwinding {
+  return {
+    ...reachOver(turn, into),
+    textIn: (_root, path) => (path === BEATS_AT ? BEATS_TEXT : ""),
+    besideOnDisk: () => [BEATS_AT],
+    unplayingOf: () => unplayingOver({ [PURSE]: { at: PURSE_AT, value: { value: purse } } }),
   }
-  const answer = await rewoundBy([], reach, into)
+}
+
+test("a rewind takes back the numbers the turn's beats wrote, and leaves every other page as it was", async () => {
+  const into = seen()
+  const turn = turnAt({ action: "I open the gate", beats: "jsonl" })
+  const answer = await rewoundBy([], beatenOver(turn, into, 4), into)
   expect(answer.refusals).toEqual([])
-  expect(ranges).toContain(`${MADE}^..HEAD`)
-  expect(JSON.stringify(into.asked)).toContain(JSON.stringify(RECORDED_BEFORE[HALL_AT]))
+  expect(into.folded.map((one) => one.path)).toEqual([AT, PURSE_AT])
+  expect(into.folded[1]?.values).toEqual({ value: 9 })
+  expect(into.asked).toEqual([taking(PROSE_AT), taking(OUTCOMES_AT), taking(BEATS_AT)])
 })
 
-test("a lore page changed since the turn moved to player refuses the rewind, and nothing lands", async () => {
-  const into = sagaSeen()
-  const now = { ...RECORDED_NOW, [HALL_AT]: "the hall, told again later\n" }
-  const answer = await rewoundBy([], recordedOver(playedAt(), into, { ...RECORDED, now }), into)
-  expect(answer.refusals.join(" ")).toContain(`\`${HALL_AT}\` changed since`)
+test("a number changed since the turn left it refuses the rewind, and nothing lands", async () => {
+  const into = seen()
+  const turn = turnAt({ action: "I open the gate", beats: "jsonl" })
+  const answer = await rewoundBy([], beatenOver(turn, into, 6), into)
+  expect(answer.refusals.join(" ")).toContain("`value` of `metric-character-currency/mara` is 6")
   expect(into.asked).toEqual([])
   expect(into.notices).toEqual([])
 })

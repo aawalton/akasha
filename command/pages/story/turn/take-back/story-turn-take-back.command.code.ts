@@ -19,28 +19,20 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { heldOf } from "akasha/command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts"
 import {
   REWOUND,
-  type Rewinding,
   type Told,
   type Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import { UNPLAYED } from "akasha/command/pages/story/turn/modules/turn-unplaying/turn-unplaying.module.code.ts"
 import {
-  addedElsewhere,
-  askingOf,
-  restoredReport,
-  TURN_UNDOING,
-  type TurnUndoing,
-  type Undoing,
-  type Undone,
-  undoingOf,
-} from "akasha/command/pages/story/turn/modules/turn-undoing/turn-undoing.module.code.ts"
-import {
-  besideTurn,
-  undoneOf,
+  foldedOf,
+  type Unwinding,
+  unplayedOf,
 } from "akasha/command/pages/story/turn/rewind/story-turn-rewind.command.code.ts"
 import { storyTurnTakeBack as page } from "akasha/command/pages/story/turn/take-back/story-turn-take-back.command.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { taking } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   bareOf,
@@ -53,16 +45,13 @@ const NAMED = [playedTurn] as const
 
 const TAKEN_BACK = "taken back"
 
-const SHORT = 11
-
 const ACTION = "action"
 
 const ACTION_DRAFT = "actionDraft"
 
-export type TakingBack = Rewinding &
-  TurnUndoing & {
-    readonly draft: (root: string, game: string, action: string) => string | null
-  }
+export type TakingBack = Unwinding & {
+  readonly draft: (root: string, game: string, action: string) => string | null
+}
 
 export function draftedBeside(root: string, game: string, action: string): string | null {
   const story = listedAt(root, storyPlayed.slug, game)[0]
@@ -75,21 +64,12 @@ export function draftedBeside(root: string, game: string, action: string): strin
   }
 }
 
-const TAKEN: TakingBack = { ...REWOUND, ...TURN_UNDOING, draft: draftedBeside }
+const TAKEN: TakingBack = { ...REWOUND, ...UNPLAYED, draft: draftedBeside }
 
 function takeBackNoticeOf(turn: string, latest: string | null): string {
   const after =
     latest === null ? "the story has no turn now" : `the story's latest turn is \`${latest}\``
   return `The turn \`${turn}\` was taken back; ${after}.`
-}
-
-function reportOf(slug: string, undoing: Undoing, undone: Undone): readonly string[] {
-  return [
-    `${slug}\t${PLAYER}\t${TAKEN_BACK}`,
-    ...undoing.commits.map((one) => `undone\t${one.commit.slice(0, SHORT)}\t${one.subject}`),
-    ...restoredReport(undoing.restored),
-    ...undone.report,
-  ]
 }
 
 function latestRefused(reach: TakingBack, root: string, slug: string, game: string): string | null {
@@ -152,19 +132,16 @@ async function heldOn(
   }
   const notLatest = latestRefused(reach, given.root, slug, held.game)
   if (notLatest !== null) return refused(notLatest, DATA)
-  const folders = reach.foldersOf(given.root, held.game)
-  if (folders === null) return refused(`\`${held.game}\` names no world here`, DATA)
-  const undoing = undoingOf(reach, given.root, turn, folders)
-  if ("refused" in undoing) return refused(undoing.refused, DATA)
-  const outcomes = await undoneOf(reach, given.root, turn, besideTurn(reach, given.root, turn))
-  if ("refused" in outcomes) return refused(outcomes.refused, DATA)
-  const undone = addedElsewhere(outcomes, undoing.restored)
-  const asking = askingOf(reach, given.root, undoing.restored, undone)
-  if ("refused" in asking) return refused(asking.refused, DATA)
+  const unmade = await unplayedOf(reach, given.root, turn, held)
+  if ("refused" in unmade) return refused(unmade.refused, DATA)
+  const folded = foldedOf(reach, given.root, unmade.namings)
+  if ("refused" in folded) return refused(folded.refused, DATA)
+  const asking = [...folded, ...unmade.asking, taking(turn.at)]
   const by = { agentId: given.agentId, writer: given.writer, done }
   const landed = await landing(given.root, asking, `${slug} is ${TAKEN_BACK}`, by)
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
-  const after: Told = { report: [...reportOf(slug, undoing, undone)], faults: [] }
+  const report = [`${slug}\t${PLAYER}\t${TAKEN_BACK}`, `removed\t${turn.at}`, ...unmade.report]
+  const after: Told = { report, faults: [] }
   draftedFor(reach, given.root, held.game, turn, after)
   if (reach.release(given.root, turn.at)) after.report.push(`discarded\tthe recorders' kept edits`)
   await noticesOf(reach, given.root, held.game, turn, after)

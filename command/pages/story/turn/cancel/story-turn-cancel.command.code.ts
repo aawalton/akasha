@@ -22,11 +22,11 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { beatsHeld } from "akasha/command/pages/story/modules/turn-scenes/turn-scenes.module.code.ts"
+import { storyTurnCancel as page } from "akasha/command/pages/story/turn/cancel/story-turn-cancel.command.ts"
 import {
   type Mechanics as Shown,
   shownTakenBack,
-} from "akasha/command/pages/story/turn/cancel/modules/cancel-unbeating/cancel-unbeating.module.code.ts"
-import { storyTurnCancel as page } from "akasha/command/pages/story/turn/cancel/story-turn-cancel.command.ts"
+} from "akasha/command/pages/story/turn/modules/cancel-unbeating/cancel-unbeating.module.code.ts"
 import { heldOf } from "akasha/command/pages/story/turn/modules/turn-holding/turn-holding.module.code.ts"
 import {
   REWOUND,
@@ -234,7 +234,9 @@ async function mechanicsOf(
   beats: Beats | null
 ): Promise<Mechanics | Refused> {
   if (beats !== null) {
-    const shown = await shownTakenBack(reach, root, turn, gone, beats)
+    const undone = await undoneOf(reach, root, turn, gone)
+    if ("refused" in undone) return undone
+    const shown = shownTakenBack(reach, root, turn, undone, beats)
     if ("refused" in shown || takesBack || shown.report.length === 0) return shown
     return {
       refused: `beats of \`${turn.slug}\` already shown wrote onto pages, so it is cancelled only with \`${takeBackMechanics.said}\``,

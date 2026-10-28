@@ -2583,10 +2583,10 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.ts","id":"01a14ad9-e67d-7b6d-b50d-1adbb916b211"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.ts","id":"01a0ea0c-6c1c-73f4-8e1a-d0369ea6ecd3"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","id":"01a0deca-7611-72a6-9435-385ed7dedb72"}
-{"propertySlug":"decision-kind","path":"command/pages/story/turn/cancel/modules/cancel-unbeating/cancel-unbeating.module.ts","id":"01a17fa9-769f-7daa-a79d-814a182476e8"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","id":"01a0e7d8-5f60-71ff-af7a-8f3d30913009"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/drop/story-turn-kept-drop.command.ts","id":"01a0ea39-db28-7124-a2ce-64c6a8ac070c"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.ts","id":"01a0ea39-db29-78af-a3aa-0999fd2a6dde"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/cancel-unbeating/cancel-unbeating.module.ts","id":"01a17fa9-769f-7daa-a79d-814a182476e8"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.ts","id":"01a17eed-e65b-7791-a2ff-e8762bf5f688"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-commits/turn-commits.module.ts","id":"01a0eb3a-ee7b-7f63-b2b3-11c384af2550"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-hand-retrying/turn-hand-retrying.module.ts","id":"01a17fcc-e6fb-7c99-8872-b73982554534"}
@@ -2600,7 +2600,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.ts","id":"01a0e3eb-c9e7-75fd-af32-1f1ab36836f3"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-starting/turn-starting.module.ts","id":"01a0f10b-2635-7303-9ce8-0cee2bf203c0"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-stopping/turn-stopping.module.ts","id":"01a10379-5458-7738-9f07-cb33b988ed32"}
-{"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-undoing/turn-undoing.module.ts","id":"01a0eb43-9f26-7bfc-ac55-cea726e9c622"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-unplaying/turn-unplaying.module.ts","id":"01a18308-b096-7e31-96c3-630deba90f7b"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-written/turn-written.module.ts","id":"01a0e578-bd91-705f-b288-1755136c1268"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/next/story-turn-next.command.ts","id":"01a17f1e-37db-77d2-b4da-7c599d3173bf"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/open/story-turn-open.command.ts","id":"01a14b7c-a3e9-7c54-81b7-94193a4457a1"}

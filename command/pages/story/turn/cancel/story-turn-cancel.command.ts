@@ -8,7 +8,6 @@ export const storyTurnCancel = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: ["module/cancel-unbeating"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -112,5 +111,5 @@ export const storyTurnCancel = {
     { argument: "argument/take-back-mechanics" },
   ],
   createdAt: "2026-09-28T11:48:32.224Z",
-  updatedAt: "2026-10-27T23:19:34.815Z",
+  updatedAt: "2026-10-28T15:02:27.222Z",
 } as const satisfies Command

@@ -19,13 +19,15 @@ export const storyTurnTakeBack = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Every file of the turn's making goes back to its body before the turn, the turn's page too.",
+      statement: "A take-back undoes what the turn's beats state they changed, and nothing more.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A number the turn's outcomes added to any other page is taken back as a rewind takes it back.",
+      statement: "A take-back takes away the turn's page and every file beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A number the turn's outcomes added is taken back as a rewind takes it back.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -76,5 +78,5 @@ export const storyTurnTakeBack = {
   name: "take-back",
   arguments: [{ argument: "argument/played-turn", required: true }],
   createdAt: "2026-09-28T12:08:43.118Z",
-  updatedAt: "2026-10-04T00:29:35.000Z",
+  updatedAt: "2026-10-28T15:02:27.222Z",
 } as const satisfies Command

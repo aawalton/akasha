@@ -20,17 +20,15 @@ export const storyTurnRewind = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rewind takes away the turn's prose file and its outcomes file.",
+      statement: "A rewind takes away every file beside the turn's page.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Every other file of the turn's making goes back to its body before the turn, as a take-back puts it.",
+      statement: "A rewind undoes what the turn's beats state they changed, as a take-back does.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "So the lore and place pages the turn's world builder and recorders landed go back to their bodies.",
+      statement: "Lore the turn's world builder wrote is the world's setup, and stays.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,12 +37,11 @@ export const storyTurnRewind = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file of the turn's making that a take-back would refuse refuses the rewind.",
+      statement: "A change a take-back would refuse refuses the rewind.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A rewind takes back every number the turn's landed outcomes added to a page that keeps its body.",
+      statement: "A rewind takes back every number the turn's landed outcomes added.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -124,5 +121,5 @@ export const storyTurnRewind = {
     { argument: "argument/action-file" },
   ],
   createdAt: "2026-09-26T18:27:41.699Z",
-  updatedAt: "2026-10-27T22:26:04.226Z",
+  updatedAt: "2026-10-28T15:02:27.222Z",
 } as const satisfies Command

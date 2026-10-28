@@ -1,10 +1,12 @@
 import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { PageRead } from "akasha/command/pages/story/turn/modules/cancel-unbeating/cancel-unbeating.module.code.ts"
 import type {
   Seated,
   Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import type { Unplaying } from "akasha/command/pages/story/turn/modules/turn-unplaying/turn-unplaying.module.code.ts"
 import type { Unwinding } from "akasha/command/pages/story/turn/rewind/story-turn-rewind.command.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
@@ -65,11 +67,6 @@ export function seen(): Seen {
   return { folded: [], asked: [], stops: [], notices: [], releases: [] }
 }
 
-const MADE_BY = [
-  { commit: "c9", subject: `${SLUG} moves from recorders to player`, paths: [AT] },
-  { commit: "c1", subject: `${SLUG} is made from the player's action`, paths: [AT] },
-]
-
 export function reachOver(turn: Turn, into: Seen, latest = SLUG): Unwinding {
   return {
     hold: async (_root, _at, act) => await act(),
@@ -112,14 +109,20 @@ export function reachOver(turn: Turn, into: Seen, latest = SLUG): Unwinding {
     textIn: () => "",
     addingOf: async () => () => [],
     pageAt: () => null,
-    foldersOf: () => ({ story: "stories/the-saga/", world: "world/" }),
-    commitsOn: (_root, range) => (range === "HEAD" ? MADE_BY : []),
-    addedOn: () => "c1",
-    appendsOnly: () => false,
-    stampsAt: () => new Set(["updatedAt"]),
-    bodyThen: () => null,
-    bodyNow: () => null,
     besideOnDisk: () => [],
+    unplayingOf: () => unplayingOver(),
+  }
+}
+
+export function unplayingOver(pages: Readonly<Record<string, PageRead>> = {}): Unplaying {
+  const byPath = new Map(Object.values(pages).map((one) => [one.at, one.value]))
+  return {
+    beating: { pageOf: (address) => pages[address] ?? null, beside: () => null },
+    storyOf: () => [],
+    pathOf: (address) => pages[address]?.at ?? null,
+    valueOf: (path) => byPath.get(path) ?? null,
+    listedAt: () => [],
+    valueBefore: () => null,
   }
 }
 
