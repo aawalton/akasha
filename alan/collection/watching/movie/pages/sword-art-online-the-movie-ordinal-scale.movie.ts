@@ -17,15 +17,17 @@ export const swordArtOnlineTheMovieOrdinalScale = {
   genres: ["Animation", "Action", "Adventure", "Fantasy", "Science Fiction"],
   posterPath: "/2szdEK0Mr0RG0nWGFVTseNQHbnP.jpg",
   voteAverage: 7.694,
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   externalIdentity: [
     {
       source: "tmdb",
       externalId: "413594",
       externalLink: "https://www.themoviedb.org/movie/413594",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   imdbId: "tt5544384",
   createdAt: "2026-06-07T22:44:50.759Z",
-  updatedAt: "2026-10-28T18:39:52.205Z",
+  updatedAt: "2026-10-28T19:48:19.892Z",
   progressedAt: "2026-10-28T18:39:52.205Z",
 } as const satisfies Movie
