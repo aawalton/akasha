@@ -14,7 +14,7 @@ export const memoCheckWorldFolk = {
     },
     {
       fact: "The shopkeeper trades in plain copper coin and keeps the shop open from dawn to dusk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/memo-check-player"],
     },
     {
       fact: "A carter bound for the next town wants a hired sword to guard his load on the road.",
@@ -22,5 +22,5 @@ export const memoCheckWorldFolk = {
     },
   ],
   createdAt: "2026-10-28T15:42:23.600Z",
-  updatedAt: "2026-10-28T15:42:23.600Z",
+  updatedAt: "2026-10-28T15:42:41.462Z",
 } as const satisfies Lore
