@@ -19,7 +19,12 @@ export const disabilityAdjustedMicromort = {
       statement:
         "A year lived disabled costs that disability's weight in the Global Burden of Disease study.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Alan's healthy life expectancy is 76.4% of his remaining life, a share derived not published.",
+    },
   ],
   createdAt: "2026-10-28T17:53:09.445Z",
-  updatedAt: "2026-10-28T17:53:09.445Z",
+  updatedAt: "2026-10-28T19:17:26.137Z",
 } as const satisfies Domain

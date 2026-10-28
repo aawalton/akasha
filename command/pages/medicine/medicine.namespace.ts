@@ -7,6 +7,7 @@ export const medicine = {
   definition: "what Alan's health model predicts from his pages and his logs",
   parts: [
     "command/medicine-actions",
+    "command/medicine-activity",
     "command/medicine-causes",
     "module/health-logs",
     "module/mortality-model",
@@ -14,5 +15,5 @@ export const medicine = {
   ],
   name: "medicine",
   createdAt: "2026-10-28T18:57:02.952Z",
-  updatedAt: "2026-10-28T18:57:02.952Z",
+  updatedAt: "2026-10-28T19:17:26.137Z",
 } as const satisfies Namespace

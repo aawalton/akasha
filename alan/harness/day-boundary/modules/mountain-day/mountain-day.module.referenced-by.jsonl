@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"mountain-day.module.code.ts","path":"alan/harness/day-boundary/modules/mountain-day/mountain-day.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mountain-day.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mountain-day.module.code.ts","path":"command/pages/medicine/actions/medicine-actions.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mountain-day.module.code.ts","path":"command/pages/medicine/activity/medicine-activity.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mountain-day.module.code.ts","path":"command/pages/medicine/causes/medicine-causes.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mountain-day.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mountain-day.module.code.ts","path":"command/pages/track/modules/waking/waking.module.code.ts","typed":false,"deferred":false}

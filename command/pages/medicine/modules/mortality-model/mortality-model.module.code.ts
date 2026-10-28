@@ -129,7 +129,7 @@ export function boundsOf(
   })
 }
 
-function seeded(seed: number): () => number {
+export function seeded(seed: number): () => number {
   let state = seed >>> 0
   return () => {
     state = (state + 0x6d2b79f5) >>> 0
@@ -140,7 +140,7 @@ function seeded(seed: number): () => number {
   }
 }
 
-function normalsOf(next: () => number, count: number): Float64Array {
+export function normalsOf(next: () => number, count: number): Float64Array {
   const drawn = new Float64Array(count)
   for (let index = 0; index < count; index += 1) {
     const uniform = Math.max(next(), Number.MIN_VALUE)
