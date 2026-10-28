@@ -5,9 +5,9 @@ export const undoCheckPlayerStrength = {
   type: "page-type/metric-character-stat",
   slug: "undo-check-player-strength",
   character: "character-player/undo-check-player",
-  value: 12,
+  value: 13,
   minValue: 0,
   displayOrder: 1,
   createdAt: "2026-10-28T15:03:47.724Z",
-  updatedAt: "2026-10-28T15:03:47.724Z",
+  updatedAt: "2026-10-28T15:05:57.483Z",
 } as const satisfies MetricCharacterStat

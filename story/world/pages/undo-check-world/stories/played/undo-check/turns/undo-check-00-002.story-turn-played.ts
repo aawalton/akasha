@@ -7,8 +7,9 @@ export const undoCheck00002 = {
   unit: "unit/words",
   partOfCollections: ["story-played/undo-check"],
   position: 2,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/player",
   action: "I lift the anvil in the hall.",
+  beats: "jsonl",
   createdAt: "2026-10-28T15:04:45.233Z",
-  updatedAt: "2026-10-28T15:04:45.233Z",
+  updatedAt: "2026-10-28T15:05:57.483Z",
 } as const satisfies StoryTurnPlayed
