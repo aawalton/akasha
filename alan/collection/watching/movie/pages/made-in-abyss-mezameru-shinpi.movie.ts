@@ -15,9 +15,10 @@ export const madeInAbyssMezameruShinpi = {
       source: "tmdb",
       externalId: "1526917",
       externalLink: "https://www.themoviedb.org/movie/1526917",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Made in Abyss: Mezameru Shinpi",
   createdAt: "2026-10-28T18:54:27.690Z",
-  updatedAt: "2026-10-28T18:54:27.690Z",
+  updatedAt: "2026-10-28T19:47:44.843Z",
 } as const satisfies Movie
