@@ -7,7 +7,6 @@ export const amyInventoryManagement = {
   domain: "domain/temper-items",
   persona: "persona/amy",
   intentStack: [
-    { statement: "Alan's Tamriel Tome rewards are collected without Alan claiming each one." },
     { statement: "Every reward collected from a Tamriel Tome is handled by the inventory rules." },
     { statement: "Guild trader automation is finished and tested in the game." },
     { statement: "Alan's inventory plan is worked through." },
@@ -22,5 +21,5 @@ export const amyInventoryManagement = {
     },
   ],
   createdAt: "2026-09-26T15:25:47.417Z",
-  updatedAt: "2026-09-27T13:32:25.000Z",
+  updatedAt: "2026-10-28T17:41:50.365Z",
 } as const satisfies Initiative
