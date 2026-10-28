@@ -6,6 +6,17 @@ export const medicine = {
   slug: "medicine",
   definition: "Alan's medical health",
   parts: ["domain/disability-adjusted-micromort"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A lab value with no measurement of Alan takes the typical value for his age and sex.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every factor of Alan's other than a lab value is learned by interviewing him.",
+    },
+  ],
   createdAt: "2026-09-03T13:00:18.032Z",
-  updatedAt: "2026-10-28T17:53:09.445Z",
+  updatedAt: "2026-10-28T17:54:52.542Z",
 } as const satisfies Domain
