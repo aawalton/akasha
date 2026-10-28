@@ -31,7 +31,7 @@ export const probeTwoWorldSquare = {
     },
     {
       fact: "The well is a round stone shaft with still, clear water far below and a bucket on a rope.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/probe-two-player"],
     },
     {
       fact: "The square's well is a round shaft of fitted stone, its rim waist-high.",
@@ -43,7 +43,7 @@ export const probeTwoWorldSquare = {
     },
     {
       fact: "The square's well holds clear water far below its rim.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/probe-two-player"],
     },
     {
       fact: "A wooden bucket sits on the rim of the square's well, its rope coiled beside it.",
@@ -63,5 +63,5 @@ export const probeTwoWorldSquare = {
     },
   ],
   createdAt: "2026-10-27T23:43:53.894Z",
-  updatedAt: "2026-10-28T00:02:26.999Z",
+  updatedAt: "2026-10-28T00:03:36.248Z",
 } as const satisfies Place
