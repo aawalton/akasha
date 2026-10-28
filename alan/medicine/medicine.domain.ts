@@ -24,7 +24,7 @@ export const medicine = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Alan's physical activity is his mean daily active energy over the trailing three months.",
+        "Alan's physical activity is read in each source's own unit over the trailing three months.",
     },
     {
       decisionKind: "decision-kind/stopgap",
@@ -65,5 +65,5 @@ export const medicine = {
     },
   ],
   createdAt: "2026-09-03T13:00:18.032Z",
-  updatedAt: "2026-10-28T18:43:34.679Z",
+  updatedAt: "2026-10-28T18:59:21.563Z",
 } as const satisfies Domain
