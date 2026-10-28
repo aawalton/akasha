@@ -11,9 +11,15 @@ export const deathParade = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "61901", externalLink: "https://www.themoviedb.org/tv/61901" },
+    {
+      source: "tmdb",
+      externalId: "61901",
+      externalLink: "https://www.themoviedb.org/tv/61901",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Death Parade",
+  streamingOn: ["Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:51:30.729Z",
-  updatedAt: "2026-10-28T18:51:30.729Z",
+  updatedAt: "2026-10-28T19:43:58.255Z",
 } as const satisfies Show
