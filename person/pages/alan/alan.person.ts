@@ -123,6 +123,36 @@ export const alan = {
   healthConditions: [
     { condition: "autism", diagnosedBy: "self" },
     { condition: "ADHD", diagnosedBy: "self" },
+    {
+      condition: "autistic burnout",
+      diagnosedBy: "self",
+      note: "recovering; tracked by his logged safety level",
+    },
+    {
+      condition: "depression",
+      diagnosedBy: "self",
+      note: "episodic; present when his safety level is below 3",
+    },
+    {
+      condition: "suicidal ideation",
+      diagnosedBy: "self",
+      note: "present when his safety level is below 0; no suicide attempts",
+    },
+  ],
+  medications: [
+    { name: "Vyvanse (lisdexamfetamine)", doseMg: 30, dosesPerWeek: 7 },
+    {
+      name: "Adderall (mixed amphetamine salts)",
+      doseMg: 10,
+      dosesPerWeek: 1,
+      note: "taken as needed for high-load events; the weekly figure is an average",
+    },
+    {
+      name: "creatine monohydrate",
+      doseMg: 5000,
+      dosesPerWeek: 3.5,
+      note: "a supplement; taken daily about half the time",
+    },
   ],
   familyHistory: [
     {
@@ -166,5 +196,5 @@ export const alan = {
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T18:06:44.069Z",
+  updatedAt: "2026-10-28T18:08:39.669Z",
 } as const satisfies Person
