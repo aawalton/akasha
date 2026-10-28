@@ -27,7 +27,7 @@ export const aTimeToRemember = {
   imdbId: "tt0368382",
   posterPath: "/jfI1AApNruSMOX9j9BKcpBbjCWs.jpg",
   voteAverage: 6.8,
-  streamingOn: ["PixL Amazon Channel"],
+  streamingOn: ["streaming-service/pixl"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

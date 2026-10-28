@@ -19,7 +19,7 @@ export const thePromisedNeverland = {
     },
   ],
   title: "The Promised Neverland",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "WeTV"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/wetv"],
   createdAt: "2026-10-28T18:52:32.130Z",
-  updatedAt: "2026-10-28T19:46:23.665Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

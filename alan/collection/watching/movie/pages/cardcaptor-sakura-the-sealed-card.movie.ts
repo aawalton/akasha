@@ -19,7 +19,7 @@ export const cardcaptorSakuraTheSealedCard = {
     },
   ],
   title: "Cardcaptor Sakura: The Sealed Card",
-  streamingOn: ["Crunchyroll"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:52:22.657Z",
-  updatedAt: "2026-10-28T19:46:45.268Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

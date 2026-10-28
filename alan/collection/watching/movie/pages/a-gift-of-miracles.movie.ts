@@ -23,7 +23,7 @@ export const aGiftOfMiracles = {
   imdbId: "tt4137596",
   posterPath: "/2QlqhaWoW5z1WbNZLpCdrkeV0QA.jpg",
   voteAverage: 5.8,
-  streamingOn: ["Philo", "fuboTV"],
+  streamingOn: ["streaming-service/fubotv", "streaming-service/philo"],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

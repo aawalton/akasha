@@ -24,12 +24,11 @@ export const christmasLand = {
   posterPath: "/mSvM4uXrUTRdKg7wYLyg6JTd2Fk.jpg",
   voteAverage: 5.631,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

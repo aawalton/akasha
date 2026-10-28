@@ -23,7 +23,7 @@ export const aChristmasWeddingTail = {
   imdbId: "tt2024354",
   posterPath: "/a5p020pc0ZFE71ia8KV2KDvacAr.jpg",
   voteAverage: 5,
-  streamingOn: ["Lionsgate+ Amazon Channel", "Plex", "Plex Channel"],
+  streamingOn: ["streaming-service/lionsgate-plus", "streaming-service/plex"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

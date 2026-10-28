@@ -19,7 +19,7 @@ export const theDisastrousLifeOfSaikiK = {
     },
   ],
   title: "The Disastrous Life of Saiki K.",
-  streamingOn: ["Netflix", "Netflix Standard with Ads"],
+  streamingOn: ["streaming-service/netflix"],
   createdAt: "2026-10-28T18:54:42.859Z",
-  updatedAt: "2026-10-28T19:46:21.899Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

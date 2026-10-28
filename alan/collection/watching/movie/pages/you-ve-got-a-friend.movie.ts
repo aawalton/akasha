@@ -23,11 +23,7 @@ export const youVeGotAFriend = {
   imdbId: "tt0995065",
   posterPath: "/aM8QI5PrlwrCbMbT4xzxNyjL8SJ.jpg",
   voteAverage: 6.6,
-  streamingOn: [
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
-    "Xumo Play",
-  ],
+  streamingOn: ["streaming-service/up-faith-and-family", "streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

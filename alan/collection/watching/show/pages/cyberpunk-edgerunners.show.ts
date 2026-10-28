@@ -19,7 +19,7 @@ export const cyberpunkEdgerunners = {
     },
   ],
   title: "Cyberpunk: Edgerunners",
-  streamingOn: ["Netflix", "Netflix Standard with Ads"],
+  streamingOn: ["streaming-service/netflix"],
   createdAt: "2026-10-28T18:51:26.927Z",
-  updatedAt: "2026-10-28T19:43:51.628Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

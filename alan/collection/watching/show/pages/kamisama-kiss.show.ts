@@ -20,13 +20,11 @@ export const kamisamaKiss = {
   ],
   title: "Kamisama Kiss",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
-    "Tubi TV",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
+    "streaming-service/tubi",
   ],
   createdAt: "2026-10-28T18:48:47.603Z",
-  updatedAt: "2026-10-28T19:44:49.806Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

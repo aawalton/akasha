@@ -24,12 +24,11 @@ export const holidayHotline = {
   posterPath: "/8kPrCp4N4wvT0KY4Eht3kxpSS6B.jpg",
   voteAverage: 6.8,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:47:18.330Z",
-  updatedAt: "2026-10-25T19:47:18.330Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

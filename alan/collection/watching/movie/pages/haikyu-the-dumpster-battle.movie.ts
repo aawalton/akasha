@@ -19,7 +19,7 @@ export const haikyuTheDumpsterBattle = {
     },
   ],
   title: "HAIKYU!! The Dumpster Battle",
-  streamingOn: ["Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:43:15.697Z",
-  updatedAt: "2026-10-28T19:47:22.534Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

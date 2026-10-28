@@ -19,7 +19,7 @@ export const bleach = {
     },
   ],
   title: "Bleach",
-  streamingOn: ["Hulu"],
+  streamingOn: ["streaming-service/hulu"],
   createdAt: "2026-10-28T18:44:28.395Z",
-  updatedAt: "2026-10-28T19:43:39.657Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

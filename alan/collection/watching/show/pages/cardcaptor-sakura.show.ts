@@ -19,7 +19,7 @@ export const cardcaptorSakura = {
     },
   ],
   title: "Cardcaptor Sakura",
-  streamingOn: ["Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:52:18.678Z",
-  updatedAt: "2026-10-28T19:43:44.091Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

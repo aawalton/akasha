@@ -19,7 +19,7 @@ export const violetEvergarden = {
     },
   ],
   title: "Violet Evergarden",
-  streamingOn: ["Netflix", "Netflix Standard with Ads"],
+  streamingOn: ["streaming-service/netflix"],
   createdAt: "2026-10-28T18:45:55.713Z",
-  updatedAt: "2026-10-28T19:46:35.602Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

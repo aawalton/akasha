@@ -20,12 +20,10 @@ export const gurrenLagann = {
   ],
   title: "Gurren Lagann",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
   ],
   createdAt: "2026-10-28T18:52:53.885Z",
-  updatedAt: "2026-10-28T19:44:27.427Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

@@ -23,7 +23,7 @@ export const backyardWedding = {
   imdbId: "tt1559309",
   posterPath: "/gZ0u9PADT8YzdCwt34AzBRrT4ED.jpg",
   voteAverage: 6.3,
-  streamingOn: ["PixL Amazon Channel", "Xumo Play"],
+  streamingOn: ["streaming-service/pixl", "streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -20,12 +20,10 @@ export const theRisingOfTheShieldHero = {
   ],
   title: "The Rising of the Shield Hero",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
   ],
   createdAt: "2026-10-28T18:55:16.450Z",
-  updatedAt: "2026-10-28T19:46:27.237Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

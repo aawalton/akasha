@@ -19,7 +19,7 @@ export const bananaFish = {
     },
   ],
   title: "Banana Fish",
-  streamingOn: ["Netflix", "Netflix Standard with Ads"],
+  streamingOn: ["streaming-service/netflix"],
   createdAt: "2026-10-28T18:55:21.786Z",
-  updatedAt: "2026-10-28T19:43:32.450Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

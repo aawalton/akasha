@@ -20,12 +20,10 @@ export const oshiNoKo = {
   ],
   title: "【OSHI NO KO】",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "HiDive",
-    "Hidive Amazon Channel",
-    "Hulu",
+    "streaming-service/crunchyroll",
+    "streaming-service/hidive",
+    "streaming-service/hulu",
   ],
   createdAt: "2026-10-28T18:50:41.549Z",
-  updatedAt: "2026-10-28T19:45:31.822Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

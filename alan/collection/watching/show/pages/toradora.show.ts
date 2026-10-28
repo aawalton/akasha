@@ -19,7 +19,7 @@ export const toradora = {
     },
   ],
   title: "Toradora!",
-  streamingOn: ["Amazon Prime Video", "Amazon Prime Video with Ads", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/amazon-prime-video", "streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:50:08.982Z",
-  updatedAt: "2026-10-28T19:46:30.421Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

@@ -23,7 +23,7 @@ export const timeForYouToComeHomeForChristmas = {
   imdbId: "tt11068326",
   posterPath: "/pHZEFRlk5iAuMqsD6lQxUYg68GI.jpg",
   voteAverage: 6.8,
-  streamingOn: ["fuboTV"],
+  streamingOn: ["streaming-service/fubotv"],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

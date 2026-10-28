@@ -19,7 +19,7 @@ export const demonSlayerKimetsuNoYaibaTheMovieMugenTrain = {
     },
   ],
   title: "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-  streamingOn: ["Amasian TV", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/amasian-tv", "streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:43:24.152Z",
-  updatedAt: "2026-10-28T19:46:51.498Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

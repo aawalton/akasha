@@ -25,11 +25,10 @@ export const karenKingsburySTheBridgePart2 = {
   posterPath: "/yaQ6wNAeHJaP2SBPn5XnEsQ9h4O.jpg",
   voteAverage: 6.241,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "YouTube Free",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/youtube-free",
   ],
   createdAt: "2026-10-25T19:46:29.458Z",
-  updatedAt: "2026-10-25T20:45:04.980Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -19,7 +19,7 @@ export const thatTimeIGotReincarnatedAsASlime = {
     },
   ],
   title: "That Time I Got Reincarnated as a Slime",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:47:06.808Z",
-  updatedAt: "2026-10-28T19:46:17.148Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

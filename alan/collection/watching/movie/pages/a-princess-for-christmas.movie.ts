@@ -24,7 +24,12 @@ export const aPrincessForChristmas = {
   imdbId: "tt1083448",
   posterPath: "/qv7fx4gW2bNU3eUiwtaxh829Imq.jpg",
   voteAverage: 7.029,
-  streamingOn: ["Lionsgate+ Amazon Channel", "Plex", "Plex Channel", "Tubi TV", "YouTube Free"],
+  streamingOn: [
+    "streaming-service/lionsgate-plus",
+    "streaming-service/plex",
+    "streaming-service/tubi",
+    "streaming-service/youtube-free",
+  ],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

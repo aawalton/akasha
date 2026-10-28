@@ -19,7 +19,7 @@ export const psychoPassTheMovie = {
     },
   ],
   title: "PSYCHO-PASS: The Movie",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:51:48.624Z",
-  updatedAt: "2026-10-28T19:47:59.890Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

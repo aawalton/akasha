@@ -23,7 +23,7 @@ export const aPlaceCalledHome = {
   imdbId: "tt0375139",
   posterPath: "/69DU7jMPGV954wfO5tYKz7hea5T.jpg",
   voteAverage: 5.9,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

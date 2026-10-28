@@ -19,7 +19,7 @@ export const ouranHighSchoolHostClub = {
     },
   ],
   title: "Ouran High School Host Club",
-  streamingOn: ["Crunchyroll Amazon Channel", "Netflix", "Netflix Standard with Ads"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/netflix"],
   createdAt: "2026-10-28T18:45:53.198Z",
-  updatedAt: "2026-10-28T19:45:33.874Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

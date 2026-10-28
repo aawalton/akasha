@@ -24,7 +24,7 @@ export const angelAndTheBadman = {
   imdbId: "tt1335977",
   posterPath: "/7drO3anh6Opbpt20A3gSeEDUjjP.jpg",
   voteAverage: 5,
-  streamingOn: ["fuboTV"],
+  streamingOn: ["streaming-service/fubotv"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

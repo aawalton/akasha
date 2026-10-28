@@ -24,7 +24,7 @@ export const johnsonCountyWar = {
   imdbId: "tt0280264",
   posterPath: "/i7BDiZAFvIXVF4NWqOFzWndcfaz.jpg",
   voteAverage: 5.5,
-  streamingOn: ["History Vault"],
+  streamingOn: ["streaming-service/history-vault"],
   createdAt: "2026-10-25T19:43:41.911Z",
-  updatedAt: "2026-10-25T19:43:41.911Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -19,7 +19,7 @@ export const angelBeats = {
     },
   ],
   title: "Angel Beats!",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:54:36.961Z",
-  updatedAt: "2026-10-28T19:43:24.118Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

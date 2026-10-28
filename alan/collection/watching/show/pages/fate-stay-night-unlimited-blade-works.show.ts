@@ -19,7 +19,11 @@ export const fateStayNightUnlimitedBladeWorks = {
     },
   ],
   title: "Fate/stay night [Unlimited Blade Works]",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hidive Amazon Channel", "Hulu"],
+  streamingOn: [
+    "streaming-service/crunchyroll",
+    "streaming-service/hidive",
+    "streaming-service/hulu",
+  ],
   createdAt: "2026-10-28T18:50:18.568Z",
-  updatedAt: "2026-10-28T19:44:15.046Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

@@ -24,12 +24,11 @@ export const christmasInTheAir = {
   posterPath: "/fq4oaBOE9UNUfkuRJ2lmlLLRE7H.jpg",
   voteAverage: 6.1,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "Pluto TV",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
+    "streaming-service/pluto-tv",
   ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

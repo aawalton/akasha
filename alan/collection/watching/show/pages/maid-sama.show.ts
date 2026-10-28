@@ -19,7 +19,7 @@ export const maidSama = {
     },
   ],
   title: "Maid Sama!",
-  streamingOn: ["HiDive", "Hidive Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/hidive", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:52:07.450Z",
-  updatedAt: "2026-10-28T19:44:58.700Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

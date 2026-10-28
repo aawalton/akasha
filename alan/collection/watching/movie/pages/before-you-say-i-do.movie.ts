@@ -24,7 +24,11 @@ export const beforeYouSayIDo = {
   imdbId: "tt1318522",
   posterPath: "/9fOpao3RE7bHNcuZG9MjBSRSs02.jpg",
   voteAverage: 5.6,
-  streamingOn: ["Fandango at Home Free", "Peacock Premium", "Peacock Premium Plus", "Tubi TV"],
+  streamingOn: [
+    "streaming-service/fandango-at-home-free",
+    "streaming-service/peacock",
+    "streaming-service/tubi",
+  ],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

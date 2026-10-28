@@ -24,7 +24,7 @@ export const aStormInSummer = {
   imdbId: "tt0217066",
   posterPath: "/cWAeyPHwFqLF2uJ1fldftQUd7d6.jpg",
   voteAverage: 6.4,
-  streamingOn: ["Cineverse"],
+  streamingOn: ["streaming-service/cineverse"],
   createdAt: "2026-10-25T19:43:41.911Z",
-  updatedAt: "2026-10-25T19:43:41.911Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

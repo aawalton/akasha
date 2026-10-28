@@ -19,7 +19,7 @@ export const noragami = {
     },
   ],
   title: "Noragami",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:46:14.769Z",
-  updatedAt: "2026-10-28T19:45:28.559Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

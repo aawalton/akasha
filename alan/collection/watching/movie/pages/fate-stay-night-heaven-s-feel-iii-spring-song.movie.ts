@@ -19,7 +19,7 @@ export const fateStayNightHeavenSFeelIiiSpringSong = {
     },
   ],
   title: "Fate/stay night: Heaven's Feel III. Spring Song",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:50:23.950Z",
-  updatedAt: "2026-10-28T19:47:13.886Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

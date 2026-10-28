@@ -24,11 +24,7 @@ export const sugarViceAHannahSwensenMystery = {
   imdbId: "tt39568479",
   posterPath: "/gN2AASKIg3vIWeMsNwhHpeD0TDX.jpg",
   voteAverage: 6.5,
-  streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-  ],
+  streamingOn: ["streaming-service/hallmark-plus", "streaming-service/hallmark-tv"],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T20:45:31.132Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

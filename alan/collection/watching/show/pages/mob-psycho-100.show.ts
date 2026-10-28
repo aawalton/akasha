@@ -20,12 +20,10 @@ export const mobPsycho100 = {
   ],
   title: "Mob Psycho 100",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
   ],
   createdAt: "2026-10-28T18:44:34.824Z",
-  updatedAt: "2026-10-28T19:45:02.180Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

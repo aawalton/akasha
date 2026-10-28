@@ -10,8 +10,9 @@ export const watching = {
     "command/watching-hallmark",
     "module/title-knowing",
     "module/tmdb-reading",
+    "module/service-relating",
   ],
   name: "watching",
   createdAt: "2026-10-14T19:15:57.587Z",
-  updatedAt: "2026-10-25T19:42:42.006Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Namespace

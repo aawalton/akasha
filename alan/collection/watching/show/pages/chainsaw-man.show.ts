@@ -19,7 +19,7 @@ export const chainsawMan = {
     },
   ],
   title: "Chainsaw Man",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:45:47.015Z",
-  updatedAt: "2026-10-28T19:43:45.617Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

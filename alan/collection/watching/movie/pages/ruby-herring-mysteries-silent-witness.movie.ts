@@ -25,12 +25,11 @@ export const rubyHerringMysteriesSilentWitness = {
   posterPath: "/d72vNuC2KdS1cDwwKf8AGA5b27U.jpg",
   voteAverage: 7,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T20:45:13.587Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

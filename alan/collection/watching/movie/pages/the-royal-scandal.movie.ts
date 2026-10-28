@@ -24,7 +24,7 @@ export const theRoyalScandal = {
   imdbId: "tt0281173",
   posterPath: "/fvLfMNFg7bW7SjKAuHXxtF8s3K1.jpg",
   voteAverage: 5.9,
-  streamingOn: ["Cineverse"],
+  streamingOn: ["streaming-service/cineverse"],
   createdAt: "2026-10-25T19:43:41.911Z",
-  updatedAt: "2026-10-25T19:43:41.911Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

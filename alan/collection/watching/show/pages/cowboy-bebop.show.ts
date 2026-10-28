@@ -19,7 +19,7 @@ export const cowboyBebop = {
     },
   ],
   title: "Cowboy Bebop",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:47:36.381Z",
-  updatedAt: "2026-10-28T19:43:50.136Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

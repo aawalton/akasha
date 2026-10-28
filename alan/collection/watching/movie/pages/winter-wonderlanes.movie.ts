@@ -23,7 +23,7 @@ export const winterWonderlanes = {
   imdbId: "tt46071555",
   posterPath: "/yNCm44kxZ938J7XrNWawGUVXaUf.jpg",
   voteAverage: 0,
-  streamingOn: ["Philo"],
+  streamingOn: ["streaming-service/philo"],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

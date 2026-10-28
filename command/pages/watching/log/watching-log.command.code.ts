@@ -244,7 +244,10 @@ async function titleLogged(
       writer: WRITER,
       message: `${held.title} is logged as ${status}`,
       ...readOf(at),
-      pages: [{ pageTypeSlug: held.kind, slug: held.slug, merge: true, values, clears }],
+      pages: [
+        ...streamed.pages,
+        { pageTypeSlug: held.kind, slug: held.slug, merge: true, values, clears },
+      ],
     })
     if ("refused" in wrote) return refusedBy([wrote.refused], OPERATIONAL)
     const now = typeof values.status === "string" ? values.status : (held.status ?? "")
@@ -260,6 +263,7 @@ async function titleLogged(
     writer: WRITER,
     message: `${known.title} is logged as ${status}`,
     pages: [
+      ...streamed.pages,
       {
         pageTypeSlug: known.kind,
         slug,

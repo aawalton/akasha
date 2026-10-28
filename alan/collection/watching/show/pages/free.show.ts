@@ -19,7 +19,7 @@ export const free = {
     },
   ],
   title: "Free!",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:48:40.810Z",
-  updatedAt: "2026-10-28T19:44:19.041Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

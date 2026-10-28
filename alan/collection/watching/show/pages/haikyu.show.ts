@@ -20,13 +20,11 @@ export const haikyu = {
   ],
   title: "Haikyu!!",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
-    "WeTV",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
+    "streaming-service/wetv",
   ],
   createdAt: "2026-10-28T18:43:12.581Z",
-  updatedAt: "2026-10-28T19:44:29.210Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

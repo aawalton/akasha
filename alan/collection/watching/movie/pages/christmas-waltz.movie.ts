@@ -23,7 +23,11 @@ export const christmasWaltz = {
   imdbId: "tt11585200",
   posterPath: "/6YewfKDTQmzVwwBKog6IWOLhENP.jpg",
   voteAverage: 6.9,
-  streamingOn: ["Hallmark TV Amazon Channel", "Philo", "fuboTV"],
+  streamingOn: [
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
+  ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

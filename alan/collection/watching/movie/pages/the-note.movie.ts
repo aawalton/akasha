@@ -25,7 +25,7 @@ export const theNote = {
   imdbId: "tt1146321",
   posterPath: "/gh2kvD5CRqKtgPHXHckxTZK1jhn.jpg",
   voteAverage: 6.4,
-  streamingOn: ["Amazon Prime Video", "Amazon Prime Video with Ads", "Tubi TV"],
+  streamingOn: ["streaming-service/amazon-prime-video", "streaming-service/tubi"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T20:44:55.748Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

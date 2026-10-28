@@ -28,12 +28,10 @@ export const williamCatherineARoyalRomance = {
   posterPath: "/diV7KoQ3xRsZmLuZyp3E7oFIuCc.jpg",
   voteAverage: 5.4,
   streamingOn: [
-    "Plex",
-    "Plex Channel",
-    "Shout! Factory Amazon Channel",
-    "Shout! Factory TV",
-    "The Roku Channel",
+    "streaming-service/plex",
+    "streaming-service/shout-factory-tv",
+    "streaming-service/the-roku-channel",
   ],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

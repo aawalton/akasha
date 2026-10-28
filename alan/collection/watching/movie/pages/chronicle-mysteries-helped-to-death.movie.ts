@@ -25,12 +25,11 @@ export const chronicleMysteriesHelpedToDeath = {
   posterPath: "/5GD8v3YZj1DN1625vyv1Bn8pYCq.jpg",
   voteAverage: 7.4,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T20:45:16.967Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

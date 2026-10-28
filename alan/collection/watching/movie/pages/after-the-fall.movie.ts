@@ -23,7 +23,7 @@ export const afterTheFall = {
   imdbId: "tt1737583",
   posterPath: "/1eaH8BI6zGvWgKt6svtb6bt2DD8.jpg",
   voteAverage: 5.2,
-  streamingOn: ["PixL Amazon Channel", "Xumo Play"],
+  streamingOn: ["streaming-service/pixl", "streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

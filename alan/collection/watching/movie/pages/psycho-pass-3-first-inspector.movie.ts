@@ -19,7 +19,7 @@ export const psychoPass3FirstInspector = {
     },
   ],
   title: "Psycho-Pass 3: First Inspector",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:51:58.669Z",
-  updatedAt: "2026-10-28T19:47:50.014Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

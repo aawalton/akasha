@@ -19,7 +19,7 @@ export const kOn = {
     },
   ],
   title: "K-ON!",
-  streamingOn: ["HiDive", "Hidive Amazon Channel"],
+  streamingOn: ["streaming-service/hidive"],
   createdAt: "2026-10-28T18:51:22.104Z",
-  updatedAt: "2026-10-28T19:44:44.773Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

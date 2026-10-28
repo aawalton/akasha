@@ -23,7 +23,13 @@ export const ourWildHearts = {
   imdbId: "tt1838735",
   posterPath: "/gm9emGWJ8gHeiMxS86ZkVaNHaAJ.jpg",
   voteAverage: 6.6,
-  streamingOn: ["Filmzie", "Plex", "Plex Channel", "Runtime", "Tubi TV", "Xumo Play"],
+  streamingOn: [
+    "streaming-service/filmzie",
+    "streaming-service/plex",
+    "streaming-service/runtime",
+    "streaming-service/tubi",
+    "streaming-service/xumo-play",
+  ],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -20,13 +20,11 @@ export const drStone = {
   ],
   title: "Dr. STONE",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
-    "WeTV",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
+    "streaming-service/wetv",
   ],
   createdAt: "2026-10-28T18:50:35.838Z",
-  updatedAt: "2026-10-28T19:44:02.798Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

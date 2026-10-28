@@ -24,12 +24,11 @@ export const findingChristmas = {
   posterPath: "/1mgLKQYIY9HGyEl7pF54Y6OVG1.jpg",
   voteAverage: 6.4,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "Tubi TV",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
+    "streaming-service/tubi",
   ],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

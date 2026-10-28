@@ -25,11 +25,10 @@ export const realityBitesAHannahSwensenMystery = {
   posterPath: "/yf5VehJTvUh0mIcKVv0mTSWhCkk.jpg",
   voteAverage: 7.8,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
   ],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T20:45:28.240Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

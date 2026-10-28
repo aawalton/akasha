@@ -19,7 +19,7 @@ export const sekaiIchiHatsukoiTheWorldSGreatestFirstLove = {
     },
   ],
   title: "Sekai Ichi Hatsukoi: The World's Greatest First Love",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:47:25.469Z",
-  updatedAt: "2026-10-28T19:45:50.904Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

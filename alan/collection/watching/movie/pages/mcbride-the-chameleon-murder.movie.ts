@@ -24,7 +24,7 @@ export const mcbrideTheChameleonMurder = {
   imdbId: "tt0426104",
   posterPath: "/cc1yJO6ksRJ4nyA4nOJ4lb5OzEP.jpg",
   voteAverage: 7.3,
-  streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
+  streamingOn: ["streaming-service/up-faith-and-family"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T20:44:53.349Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

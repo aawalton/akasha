@@ -19,7 +19,7 @@ export const neonGenesisEvangelionTheEndOfEvangelion = {
     },
   ],
   title: "Neon Genesis Evangelion: The End of Evangelion",
-  streamingOn: ["Criterion Channel", "Netflix", "Netflix Standard with Ads"],
+  streamingOn: ["streaming-service/criterion-channel", "streaming-service/netflix"],
   createdAt: "2026-10-28T18:45:21.856Z",
-  updatedAt: "2026-10-28T19:47:46.603Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

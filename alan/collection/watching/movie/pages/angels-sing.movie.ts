@@ -23,7 +23,11 @@ export const angelsSing = {
   imdbId: "tt1833888",
   posterPath: "/cQMtS4bUyufS8hivsYKLM2Ctcqq.jpg",
   voteAverage: 5.5,
-  streamingOn: ["Angel Studios", "Plex", "Plex Channel", "The CW"],
+  streamingOn: [
+    "streaming-service/angel-studios",
+    "streaming-service/plex",
+    "streaming-service/the-cw",
+  ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

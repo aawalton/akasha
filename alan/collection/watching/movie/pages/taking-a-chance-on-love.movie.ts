@@ -28,7 +28,7 @@ export const takingAChanceOnLove = {
   imdbId: "tt1327812",
   posterPath: "/4sI90fNDrGxrXRXwzAFAatgjIPt.jpg",
   voteAverage: 4.7,
-  streamingOn: ["Amazon Prime Video", "Amazon Prime Video with Ads", "Tubi TV"],
+  streamingOn: ["streaming-service/amazon-prime-video", "streaming-service/tubi"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T20:44:55.748Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

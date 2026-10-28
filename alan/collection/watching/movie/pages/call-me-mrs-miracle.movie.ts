@@ -24,7 +24,7 @@ export const callMeMrsMiracle = {
   imdbId: "tt1708459",
   posterPath: "/qwVwpK2xIUzRfgrlSHiwIfIdHie.jpg",
   voteAverage: 5.899,
-  streamingOn: ["fuboTV"],
+  streamingOn: ["streaming-service/fubotv"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T20:44:55.748Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -23,11 +23,7 @@ export const cutColorMurder = {
   imdbId: "tt16750392",
   posterPath: "/c9PL2RIpitSRtxG8Evp8gpiH4iz.jpg",
   voteAverage: 6.167,
-  streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-  ],
+  streamingOn: ["streaming-service/hallmark-plus", "streaming-service/hallmark-tv"],
   createdAt: "2026-10-25T19:47:18.330Z",
-  updatedAt: "2026-10-25T19:47:18.330Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

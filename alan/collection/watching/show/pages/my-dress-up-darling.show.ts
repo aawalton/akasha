@@ -24,14 +24,9 @@ export const myDressUpDarling = {
     },
   ],
   title: "My Dress-Up Darling",
-  streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Netflix",
-    "Netflix Standard with Ads",
-  ],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/netflix"],
   createdAt: "2026-10-14T19:18:25.105Z",
-  updatedAt: "2026-10-28T19:45:09.582Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
   completedAt: "2026-10-28",
   grade: "A+",
 } as const satisfies Show

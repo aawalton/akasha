@@ -23,11 +23,7 @@ export const farewellMrKringle = {
   imdbId: "tt1646894",
   posterPath: "/vy8dZmK50VZN2zXeEc3ZAV6S26V.jpg",
   voteAverage: 6.2,
-  streamingOn: [
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
-    "Xumo Play",
-  ],
+  streamingOn: ["streaming-service/up-faith-and-family", "streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

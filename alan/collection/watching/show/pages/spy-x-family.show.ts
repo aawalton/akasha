@@ -19,7 +19,11 @@ export const spyXFamily = {
     },
   ],
   title: "SPY x FAMILY",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu", "Netflix"],
+  streamingOn: [
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
+  ],
   createdAt: "2026-10-28T18:49:19.165Z",
-  updatedAt: "2026-10-28T19:46:07.357Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

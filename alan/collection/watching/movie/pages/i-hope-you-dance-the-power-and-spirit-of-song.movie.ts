@@ -23,7 +23,7 @@ export const iHopeYouDanceThePowerAndSpiritOfSong = {
   imdbId: "tt2317770",
   posterPath: "/7FgbIJc6qEt2lyLO4aLIUar5hxq.jpg",
   voteAverage: 0,
-  streamingOn: ["Tubi TV"],
+  streamingOn: ["streaming-service/tubi"],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

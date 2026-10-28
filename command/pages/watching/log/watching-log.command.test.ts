@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { crunchyroll } from "akasha/alan/collection/watching/streaming-service/pages/crunchyroll.streaming-service.ts"
+import { streamingService } from "akasha/alan/collection/watching/streaming-service/streaming-service.page-type.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   freshValues,
@@ -14,6 +16,8 @@ import {
 import type { Calls } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
 import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+
+const SERVICE = streamingService.slug
 
 const GIVEN: Given = {
   root: "/nowhere",
@@ -339,15 +343,27 @@ test("a page stating a TMDB id is given the services TMDB says stream it", async
   process.env.TMDB_READ_ACCESS_TOKEN = "t"
   try {
     const row = { slug: "a", title: "A", status: "not-started", externalIdentity: [HALLMARK] }
-    const answer = { results: { US: { flatrate: [{ provider_name: "Crunchyroll" }] } } }
-    const fake = fakeOf({ movie: [row] }, answer)
+    const named = [
+      { provider_name: "Crunchyroll Amazon Channel" },
+      { provider_name: "Brand New TV" },
+    ]
+    const answer = { results: { US: { flatrate: named } } }
+    const fake = fakeOf({ movie: [row], [SERVICE]: [crunchyroll] }, answer)
     const said = await watchingLog(
       ["--link", HALLMARK.externalLink, "--status", "not-started"],
       GIVEN,
       fake.calls
     )
     expect(said.report).toEqual(["movie/a  not-started  updated"])
-    expect(fake.written[0]?.pages?.[0]?.values.streamingOn).toEqual(["Crunchyroll"])
+    const pages = fake.written[0]?.pages ?? []
+    expect(pages.map((one) => `${one.pageTypeSlug}/${one.slug}`)).toEqual([
+      `${SERVICE}/brand-new-tv`,
+      "movie/a",
+    ])
+    expect(pages[1]?.values.streamingOn).toEqual([
+      `${SERVICE}/brand-new-tv`,
+      `${SERVICE}/${crunchyroll.slug}`,
+    ])
   } finally {
     if (before === undefined) delete process.env.TMDB_READ_ACCESS_TOKEN
     else process.env.TMDB_READ_ACCESS_TOKEN = before

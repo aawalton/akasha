@@ -19,7 +19,7 @@ export const blackButlerBookOfTheAtlantic = {
     },
   ],
   title: "Black Butler: Book of the Atlantic",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:49:36.669Z",
-  updatedAt: "2026-10-28T19:46:43.550Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

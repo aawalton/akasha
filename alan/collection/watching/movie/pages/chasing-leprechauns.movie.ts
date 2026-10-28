@@ -23,7 +23,7 @@ export const chasingLeprechauns = {
   imdbId: "tt1871241",
   posterPath: "/4VdAEpf5KGa7B6vX0ITpeSxfWAo.jpg",
   voteAverage: 6,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -28,7 +28,7 @@ export const murder101CollegeCanBeMurder = {
   imdbId: "tt0958145",
   posterPath: "/vQavPDIAcq0BjMNvpqRwrbkURh4.jpg",
   voteAverage: 7.1,
-  streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
+  streamingOn: ["streaming-service/up-faith-and-family"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T20:44:53.349Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

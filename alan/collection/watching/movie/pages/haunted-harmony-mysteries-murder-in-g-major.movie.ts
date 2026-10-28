@@ -25,12 +25,11 @@ export const hauntedHarmonyMysteriesMurderInGMajor = {
   posterPath: "/1vJgcgtBY4aRZwRvIw67KqWdPxk.jpg",
   voteAverage: 8,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "YouTube TV",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/youtube-tv",
   ],
   createdAt: "2026-10-25T19:47:27.269Z",
-  updatedAt: "2026-10-25T20:45:25.537Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

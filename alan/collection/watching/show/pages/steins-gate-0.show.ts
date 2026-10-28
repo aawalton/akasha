@@ -19,7 +19,7 @@ export const steinsGate0 = {
     },
   ],
   title: "Steins;Gate 0",
-  streamingOn: ["Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:45:37.612Z",
-  updatedAt: "2026-10-28T19:46:09.925Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

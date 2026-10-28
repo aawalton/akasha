@@ -19,7 +19,7 @@ export const show86EightySix = {
     },
   ],
   title: "86 EIGHTY-SIX",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:57:14.271Z",
-  updatedAt: "2026-10-28T19:45:55.319Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

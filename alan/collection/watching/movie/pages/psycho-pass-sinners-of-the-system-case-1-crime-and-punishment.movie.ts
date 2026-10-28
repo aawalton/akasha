@@ -19,7 +19,7 @@ export const psychoPassSinnersOfTheSystemCase1CrimeAndPunishment = {
     },
   ],
   title: "Psycho-Pass: Sinners of the System - Case.1 Crime and Punishment",
-  streamingOn: ["Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:51:51.398Z",
-  updatedAt: "2026-10-28T19:47:54.443Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

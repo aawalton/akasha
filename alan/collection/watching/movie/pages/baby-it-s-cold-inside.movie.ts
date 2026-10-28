@@ -23,7 +23,7 @@ export const babyItSColdInside = {
   imdbId: "tt14606600",
   posterPath: "/hTv0Jol2nXFFO7UqbstrXdck2Pz.jpg",
   voteAverage: 6.7,
-  streamingOn: ["Philo", "fuboTV"],
+  streamingOn: ["streaming-service/fubotv", "streaming-service/philo"],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

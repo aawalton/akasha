@@ -23,7 +23,11 @@ export const iMarriedWho = {
   imdbId: "tt2107651",
   posterPath: "/lLqUdTxPCxSPANKeNHl5wusH7Ze.jpg",
   voteAverage: 6,
-  streamingOn: ["PixL Amazon Channel", "UP Faith & Family Amazon Channel ", "Xumo Play"],
+  streamingOn: [
+    "streaming-service/pixl",
+    "streaming-service/up-faith-and-family",
+    "streaming-service/xumo-play",
+  ],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

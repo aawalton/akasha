@@ -19,7 +19,7 @@ export const madeInAbyssDawnOfTheDeepSoul = {
     },
   ],
   title: "Made in Abyss: Dawn of the Deep Soul",
-  streamingOn: ["HiDive", "Hidive Amazon Channel"],
+  streamingOn: ["streaming-service/hidive"],
   createdAt: "2026-10-28T18:54:25.943Z",
-  updatedAt: "2026-10-28T19:47:42.743Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

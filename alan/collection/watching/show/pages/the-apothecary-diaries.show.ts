@@ -6,11 +6,9 @@ export const theApothecaryDiaries = {
   slug: "the-apothecary-diaries",
   title: "The Apothecary Diaries",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
   ],
   ownLength: 0,
   ownProgress: 0,
@@ -32,5 +30,5 @@ export const theApothecaryDiaries = {
     },
   ],
   createdAt: "2026-10-14T18:59:02.711Z",
-  updatedAt: "2026-10-28T19:46:18.908Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

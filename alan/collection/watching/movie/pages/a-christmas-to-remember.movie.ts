@@ -23,11 +23,7 @@ export const aChristmasToRemember = {
   imdbId: "tt6288876",
   posterPath: "/xpOZBdq1bFf6nBSilkfLrtjhNL0.jpg",
   voteAverage: 6.038,
-  streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-  ],
+  streamingOn: ["streaming-service/hallmark-plus", "streaming-service/hallmark-tv"],
   createdAt: "2026-10-25T19:46:29.458Z",
-  updatedAt: "2026-10-25T19:46:29.458Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -19,7 +19,7 @@ export const reZeroStartingLifeInAnotherWorld = {
     },
   ],
   title: "Re:ZERO -Starting Life in Another World-",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:48:30.942Z",
-  updatedAt: "2026-10-28T19:45:45.438Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

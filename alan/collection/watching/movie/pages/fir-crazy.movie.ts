@@ -23,7 +23,11 @@ export const firCrazy = {
   imdbId: "tt2665200",
   posterPath: "/dzZQ3z0cjvyfLJi9Y9RESJs8l1F.jpg",
   voteAverage: 5.91,
-  streamingOn: ["Great American Pure Flix Amazon Channel", "Tubi TV", "fuboTV"],
+  streamingOn: [
+    "streaming-service/fubotv",
+    "streaming-service/great-american-pure-flix",
+    "streaming-service/tubi",
+  ],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

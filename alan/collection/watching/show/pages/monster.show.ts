@@ -19,7 +19,7 @@ export const monster = {
     },
   ],
   title: "Monster",
-  streamingOn: ["Netflix", "Netflix Standard with Ads"],
+  streamingOn: ["streaming-service/netflix"],
   createdAt: "2026-10-28T18:48:54.116Z",
-  updatedAt: "2026-10-28T19:45:05.792Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

@@ -24,7 +24,7 @@ export const loveAlwaysSanta = {
   imdbId: "tt6085974",
   posterPath: "/5RXu0jaDXzxzqjtVDYLW5BbGuiA.jpg",
   voteAverage: 5.8,
-  streamingOn: ["Philo", "fuboTV"],
+  streamingOn: ["streaming-service/fubotv", "streaming-service/philo"],
   createdAt: "2026-10-25T19:46:29.458Z",
-  updatedAt: "2026-10-25T19:46:29.458Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

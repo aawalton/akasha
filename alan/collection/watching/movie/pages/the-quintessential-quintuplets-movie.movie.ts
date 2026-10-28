@@ -19,7 +19,7 @@ export const theQuintessentialQuintupletsMovie = {
     },
   ],
   title: "The Quintessential Quintuplets Movie",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:55:30.132Z",
-  updatedAt: "2026-10-28T19:48:27.508Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -24,7 +24,7 @@ export const mysteryWomanRedemption = {
   imdbId: "tt0453382",
   posterPath: "/qjDl7fjWA2PIebUaYz44GK3vsDr.jpg",
   voteAverage: 6.7,
-  streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
+  streamingOn: ["streaming-service/up-faith-and-family"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T20:44:53.349Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

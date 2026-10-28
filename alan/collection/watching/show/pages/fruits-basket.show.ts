@@ -19,7 +19,7 @@ export const fruitsBasket = {
     },
   ],
   title: "Fruits Basket",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:43:54.662Z",
-  updatedAt: "2026-10-28T19:44:20.316Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

@@ -19,7 +19,7 @@ export const hetaliaWorldStars = {
     },
   ],
   title: "Hetalia: World Stars",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:48:23.830Z",
-  updatedAt: "2026-10-28T19:44:31.592Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

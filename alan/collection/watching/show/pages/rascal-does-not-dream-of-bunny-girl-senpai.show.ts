@@ -19,7 +19,7 @@ export const rascalDoesNotDreamOfBunnyGirlSenpai = {
     },
   ],
   title: "Rascal Does Not Dream of Bunny Girl Senpai",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:46:18.219Z",
-  updatedAt: "2026-10-28T19:45:43.584Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

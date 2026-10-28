@@ -19,7 +19,7 @@ export const lovelyComplex = {
     },
   ],
   title: "Lovely★Complex",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:51:16.977Z",
-  updatedAt: "2026-10-28T19:44:55.444Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

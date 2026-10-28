@@ -20,12 +20,10 @@ export const onePunchMan = {
   ],
   title: "One-Punch Man",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
   ],
   createdAt: "2026-10-28T18:49:41.167Z",
-  updatedAt: "2026-10-28T19:45:29.975Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

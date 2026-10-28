@@ -23,11 +23,7 @@ export const santaSwitch = {
   imdbId: "tt2639488",
   posterPath: "/qdofjYeV4YPB4zaJem1mKZCgxU1.jpg",
   voteAverage: 5.2,
-  streamingOn: [
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
-    "Xumo Play",
-  ],
+  streamingOn: ["streaming-service/up-faith-and-family", "streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

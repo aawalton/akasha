@@ -23,7 +23,7 @@ export const iceDreams = {
   imdbId: "tt1299366",
   posterPath: "/8ODLVTvXLjnkrW5rr2ybcHCBW1h.jpg",
   voteAverage: 6.4,
-  streamingOn: ["PixL Amazon Channel"],
+  streamingOn: ["streaming-service/pixl"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

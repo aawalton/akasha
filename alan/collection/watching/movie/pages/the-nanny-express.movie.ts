@@ -25,11 +25,10 @@ export const theNannyExpress = {
   posterPath: "/jxzR92vsqUBcBaYKpxE397i0Da7.jpg",
   voteAverage: 5.9,
   streamingOn: [
-    "PixL Amazon Channel",
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
-    "Xumo Play",
+    "streaming-service/pixl",
+    "streaming-service/up-faith-and-family",
+    "streaming-service/xumo-play",
   ],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

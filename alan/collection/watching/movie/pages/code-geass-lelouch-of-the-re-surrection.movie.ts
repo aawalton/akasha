@@ -19,7 +19,7 @@ export const codeGeassLelouchOfTheReSurrection = {
     },
   ],
   title: "Code Geass: Lelouch of the Re;surrection",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:44:02.903Z",
-  updatedAt: "2026-10-28T19:46:48.128Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

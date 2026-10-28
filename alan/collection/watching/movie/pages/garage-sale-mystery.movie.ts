@@ -24,7 +24,7 @@ export const garageSaleMystery = {
   imdbId: "tt3106464",
   posterPath: "/AiPSRVR3tAsyWKmJnAyzbYC6u6C.jpg",
   voteAverage: 6.1,
-  streamingOn: ["Plex", "Plex Channel", "fuboTV"],
+  streamingOn: ["streaming-service/fubotv", "streaming-service/plex"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T20:44:59.267Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

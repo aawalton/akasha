@@ -25,11 +25,10 @@ export const garageSaleMysteryMurderByText = {
   posterPath: "/zD5kVIo8coI8KIwP5DuDbucJ3Hh.jpg",
   voteAverage: 5.694,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
   ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T20:45:07.643Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

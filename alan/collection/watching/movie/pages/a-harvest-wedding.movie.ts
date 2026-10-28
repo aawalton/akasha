@@ -23,7 +23,11 @@ export const aHarvestWedding = {
   imdbId: "tt7418206",
   posterPath: "/kFmZdxLAb5qnx5yGm8rpBR3cKT0.jpg",
   voteAverage: 6,
-  streamingOn: ["Philo", "YouTube TV", "fuboTV"],
+  streamingOn: [
+    "streaming-service/fubotv",
+    "streaming-service/philo",
+    "streaming-service/youtube-tv",
+  ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

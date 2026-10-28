@@ -19,7 +19,7 @@ export const monogatari = {
     },
   ],
   title: "Monogatari",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:52:41.143Z",
-  updatedAt: "2026-10-28T19:45:04.022Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

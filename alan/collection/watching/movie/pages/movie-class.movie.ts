@@ -23,7 +23,7 @@ export const movieClass = {
   imdbId: "tt1563711",
   posterPath: "/qHspGHYa2FxKfN3FhoHEm6YSQaj.jpg",
   voteAverage: 7.6,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

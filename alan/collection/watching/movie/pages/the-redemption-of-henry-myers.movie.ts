@@ -24,13 +24,11 @@ export const theRedemptionOfHenryMyers = {
   posterPath: "/mBpo9Fe6WmtBNHjbm1S75D3okzz.jpg",
   voteAverage: 5.1,
   streamingOn: [
-    "Angel Studios",
-    "Great American Pure Flix Amazon Channel",
-    "Peacock Premium",
-    "Peacock Premium Plus",
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
+    "streaming-service/angel-studios",
+    "streaming-service/great-american-pure-flix",
+    "streaming-service/peacock",
+    "streaming-service/up-faith-and-family",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

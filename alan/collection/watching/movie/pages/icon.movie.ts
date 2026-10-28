@@ -24,7 +24,7 @@ export const icon = {
   imdbId: "tt0424176",
   posterPath: "/wfveTRLNU4Dm0nmIVTul2oRVEBh.jpg",
   voteAverage: 5.5,
-  streamingOn: ["fuboTV"],
+  streamingOn: ["streaming-service/fubotv"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -19,7 +19,7 @@ export const fateStayNightHeavenSFeelIiLostButterfly = {
     },
   ],
   title: "Fate/stay night: Heaven's Feel II. Lost Butterfly",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:50:22.522Z",
-  updatedAt: "2026-10-28T19:47:11.561Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

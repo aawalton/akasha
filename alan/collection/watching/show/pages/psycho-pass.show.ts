@@ -19,12 +19,7 @@ export const psychoPass = {
     },
   ],
   title: "Psycho-Pass",
-  streamingOn: [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads",
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-  ],
+  streamingOn: ["streaming-service/amazon-prime-video", "streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:51:45.135Z",
-  updatedAt: "2026-10-28T19:45:38.903Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

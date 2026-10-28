@@ -19,7 +19,7 @@ export const fairyTail100YearsQuest = {
     },
   ],
   title: "FAIRY TAIL 100 YEARS QUEST",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:48:03.490Z",
-  updatedAt: "2026-10-28T19:44:11.915Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

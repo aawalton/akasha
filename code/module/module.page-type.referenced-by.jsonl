@@ -1491,6 +1491,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/hallmark/modules/hallmark-shelving/hallmark-shelving.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/log/modules/episode-watching/episode-watching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/log/modules/title-streaming/title-streaming.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/modules/service-relating/service-relating.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/modules/title-knowing/title-knowing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/watching/modules/tmdb-reading/tmdb-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/badge-layout-context/badge-layout-context.module.ts","typed":true,"deferred":false}

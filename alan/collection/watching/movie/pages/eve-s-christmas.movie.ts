@@ -23,7 +23,11 @@ export const eveSChristmas = {
   imdbId: "tt0427224",
   posterPath: "/cpahlixGSaR3Dahs7tCHxMDOF1b.jpg",
   voteAverage: 5.4,
-  streamingOn: ["Plex", "Plex Channel", "The Roku Channel", "Tubi TV"],
+  streamingOn: [
+    "streaming-service/plex",
+    "streaming-service/the-roku-channel",
+    "streaming-service/tubi",
+  ],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

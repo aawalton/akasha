@@ -26,12 +26,11 @@ export const theGoodWitch = {
   posterPath: "/nZVOeGCbhLzIfCOB7BCvIrE2TaY.jpg",
   voteAverage: 7.092,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T20:44:55.748Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

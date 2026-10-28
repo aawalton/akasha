@@ -20,12 +20,10 @@ export const gintama = {
   ],
   title: "Gintama",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
   ],
   createdAt: "2026-10-28T18:46:55.326Z",
-  updatedAt: "2026-10-28T19:44:25.893Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

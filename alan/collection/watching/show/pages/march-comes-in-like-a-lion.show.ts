@@ -19,7 +19,7 @@ export const marchComesInLikeALion = {
     },
   ],
   title: "March Comes In Like a Lion",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:55:36.330Z",
-  updatedAt: "2026-10-28T19:45:00.495Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

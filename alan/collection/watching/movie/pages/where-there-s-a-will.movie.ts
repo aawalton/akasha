@@ -23,7 +23,7 @@ export const whereThereSAWill = {
   imdbId: "tt0399301",
   posterPath: "/gOF9dKDQl0ZI8JfiyEwI3zYnjt8.jpg",
   voteAverage: 7.1,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

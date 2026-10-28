@@ -24,7 +24,7 @@ export const christmasComesHomeToCanaan = {
   imdbId: "tt2006707",
   posterPath: "/wYfAPLe1hB5vHZgPMmAi2MW1NEU.jpg",
   voteAverage: 5.5,
-  streamingOn: ["The CW"],
+  streamingOn: ["streaming-service/the-cw"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T20:44:59.267Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

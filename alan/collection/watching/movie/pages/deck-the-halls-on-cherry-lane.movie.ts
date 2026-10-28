@@ -24,11 +24,10 @@ export const deckTheHallsOnCherryLane = {
   posterPath: "/hlhoZwNZgq9L1Jip9BVvLtGDbdw.jpg",
   voteAverage: 5.9,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:47:35.367Z",
-  updatedAt: "2026-10-25T19:47:35.367Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

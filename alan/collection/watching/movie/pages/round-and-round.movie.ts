@@ -24,11 +24,10 @@ export const roundAndRound = {
   posterPath: "/aD577q2UGNbVMQze5LM0bV755dP.jpg",
   voteAverage: 6.575,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:47:18.330Z",
-  updatedAt: "2026-10-25T19:47:18.330Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

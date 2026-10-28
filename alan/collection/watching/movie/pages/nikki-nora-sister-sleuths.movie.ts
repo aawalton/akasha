@@ -23,11 +23,7 @@ export const nikkiNoraSisterSleuths = {
   imdbId: "tt21969174",
   posterPath: "/mE6ZKmeTasfuqa0uSLvHKegdwWl.jpg",
   voteAverage: 6.2,
-  streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-  ],
+  streamingOn: ["streaming-service/hallmark-plus", "streaming-service/hallmark-tv"],
   createdAt: "2026-10-25T19:47:18.330Z",
-  updatedAt: "2026-10-25T19:47:18.330Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

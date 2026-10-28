@@ -28,11 +28,10 @@ export const arabianNights = {
   posterPath: "/oMLISBzw6QDo60h2C1NGUL00puS.jpg",
   voteAverage: 6.8,
   streamingOn: [
-    "Amazon MX Player",
-    "Amazon Prime Video Free with Ads",
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
+    "streaming-service/amazon-mx-player",
+    "streaming-service/amazon-prime-video-free-with-ads",
+    "streaming-service/up-faith-and-family",
   ],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

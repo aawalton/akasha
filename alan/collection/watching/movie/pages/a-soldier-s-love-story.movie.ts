@@ -23,7 +23,7 @@ export const aSoldierSLoveStory = {
   imdbId: "tt1579306",
   posterPath: "/iqttzl9f5eXiD3qMAOM4ylVbqTv.jpg",
   voteAverage: 6,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

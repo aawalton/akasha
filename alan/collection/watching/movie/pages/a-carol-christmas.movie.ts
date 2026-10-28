@@ -24,7 +24,7 @@ export const aCarolChristmas = {
   imdbId: "tt0381942",
   posterPath: "/uhK2RkSV67DM0hfFEzCXAd4s4Bu.jpg",
   voteAverage: 5.8,
-  streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
+  streamingOn: ["streaming-service/up-faith-and-family"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

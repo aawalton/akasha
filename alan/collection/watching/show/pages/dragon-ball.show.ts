@@ -19,7 +19,7 @@ export const dragonBall = {
     },
   ],
   title: "Dragon Ball",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:53:12.214Z",
-  updatedAt: "2026-10-28T19:44:08.218Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

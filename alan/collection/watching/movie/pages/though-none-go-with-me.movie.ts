@@ -24,7 +24,7 @@ export const thoughNoneGoWithMe = {
   imdbId: "tt0499580",
   posterPath: "/iKTE5nUcVdtNbFQyupEpD2acX3S.jpg",
   voteAverage: 7.2,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

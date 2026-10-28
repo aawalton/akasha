@@ -27,7 +27,7 @@ export const jesseStoneLostInParadise = {
   imdbId: "tt4505830",
   posterPath: "/gw5ax5lElk0G1MRDFIQT4V8xUZU.jpg",
   voteAverage: 6.6,
-  streamingOn: ["Plex", "Plex Channel", "YouTube Free"],
+  streamingOn: ["streaming-service/plex", "streaming-service/youtube-free"],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-25T19:46:21.634Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

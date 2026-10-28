@@ -23,7 +23,7 @@ export const fixingPete = {
   imdbId: "tt1737586",
   posterPath: "/m4mYaiOZwJhmK3HZiQRLZf265E7.jpg",
   voteAverage: 5.1,
-  streamingOn: ["PixL Amazon Channel"],
+  streamingOn: ["streaming-service/pixl"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

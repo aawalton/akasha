@@ -27,7 +27,7 @@ export const theSignOfFour = {
   imdbId: "tt0270645",
   posterPath: "/vEu7vAeSr2HpT9eHFSg1wIKP1qN.jpg",
   voteAverage: 5.9,
-  streamingOn: ["Tubi TV", "fuboTV"],
+  streamingOn: ["streaming-service/fubotv", "streaming-service/tubi"],
   createdAt: "2026-10-25T19:43:41.911Z",
-  updatedAt: "2026-10-25T19:43:41.911Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

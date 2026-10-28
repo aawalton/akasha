@@ -20,12 +20,10 @@ export const dragonBallZBattleOfGods = {
   ],
   title: "Dragon Ball Z: Battle of Gods",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
   ],
   createdAt: "2026-10-28T18:53:43.683Z",
-  updatedAt: "2026-10-28T19:46:56.769Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

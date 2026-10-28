@@ -27,11 +27,7 @@ export const straightFromTheHeart = {
   imdbId: "tt0340380",
   posterPath: "/9bDM5O87EbABkYEjV6VmSDXVCYT.jpg",
   voteAverage: 6.5,
-  streamingOn: [
-    "PixL Amazon Channel",
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
-  ],
+  streamingOn: ["streaming-service/pixl", "streaming-service/up-faith-and-family"],
   createdAt: "2026-10-25T19:43:41.911Z",
-  updatedAt: "2026-10-25T19:43:41.911Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

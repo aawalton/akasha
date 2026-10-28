@@ -19,7 +19,7 @@ export const myTeenRomanticComedySnafu = {
     },
   ],
   title: "My Teen Romantic Comedy SNAFU",
-  streamingOn: ["HiDive", "Hidive Amazon Channel"],
+  streamingOn: ["streaming-service/hidive"],
   createdAt: "2026-10-28T18:54:17.637Z",
-  updatedAt: "2026-10-28T19:45:14.428Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

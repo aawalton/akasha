@@ -19,7 +19,7 @@ export const dragonBallSuperSuperHero = {
     },
   ],
   title: "Dragon Ball Super: Super Hero",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:54:04.097Z",
-  updatedAt: "2026-10-28T19:46:55.022Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

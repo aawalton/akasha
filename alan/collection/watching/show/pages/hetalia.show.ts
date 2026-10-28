@@ -19,7 +19,7 @@ export const hetalia = {
     },
   ],
   title: "Hetalia",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:48:19.934Z",
-  updatedAt: "2026-10-28T19:44:33.199Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

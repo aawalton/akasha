@@ -23,7 +23,7 @@ export const forTheLoveOfGrace = {
   imdbId: "tt1275626",
   posterPath: "/2wIDUmfCD62Pxqv4uCiyHYJW8ic.jpg",
   voteAverage: 4.1,
-  streamingOn: ["Dove Amazon Channel"],
+  streamingOn: ["streaming-service/dove"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -24,12 +24,11 @@ export const loveInWinterland = {
   posterPath: "/jCyQdA1rZBUrCMj81tZy6bak9G9.jpg",
   voteAverage: 6.6,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Pluto TV",
-    "VIX ",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/pluto-tv",
+    "streaming-service/vix",
   ],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

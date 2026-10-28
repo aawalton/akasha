@@ -29,12 +29,11 @@ export const holidayTouchdownAChiefsLoveStory = {
   posterPath: "/8LiR0eSpagTqq4ZSG2p4MnqJZNC.jpg",
   voteAverage: 6.765,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:47:27.269Z",
-  updatedAt: "2026-10-25T20:45:25.537Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

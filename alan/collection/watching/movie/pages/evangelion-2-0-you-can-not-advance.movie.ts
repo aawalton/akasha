@@ -19,7 +19,7 @@ export const evangelion20YouCanNotAdvance = {
     },
   ],
   title: "Evangelion: 2.0 You Can (Not) Advance",
-  streamingOn: ["Amazon Prime Video", "Amazon Prime Video with Ads"],
+  streamingOn: ["streaming-service/amazon-prime-video"],
   createdAt: "2026-10-28T18:45:24.348Z",
-  updatedAt: "2026-10-28T19:47:02.840Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

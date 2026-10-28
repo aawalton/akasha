@@ -24,7 +24,7 @@ export const citizenJane = {
   imdbId: "tt1415256",
   posterPath: "/4Ah3UpfcEJMQvNcOslocgoISdk5.jpg",
   voteAverage: 5.1,
-  streamingOn: ["Pluto TV"],
+  streamingOn: ["streaming-service/pluto-tv"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

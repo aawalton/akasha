@@ -19,7 +19,7 @@ export const parasyteTheMaxim = {
     },
   ],
   title: "Parasyte -the maxim-",
-  streamingOn: ["HiDive", "Hidive Amazon Channel"],
+  streamingOn: ["streaming-service/hidive"],
   createdAt: "2026-10-28T18:54:56.042Z",
-  updatedAt: "2026-10-28T19:45:37.230Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

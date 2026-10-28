@@ -25,11 +25,10 @@ export const jingleBellSChristmasStar = {
   posterPath: "/cgbHsequNN9nHqoaXwgaWiJgVN8.jpg",
   voteAverage: 5.8,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
   ],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T20:44:59.267Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

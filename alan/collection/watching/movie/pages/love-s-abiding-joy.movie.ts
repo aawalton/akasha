@@ -25,11 +25,10 @@ export const loveSAbidingJoy = {
   posterPath: "/bnaJeSqEy4svDD0zaEdgoXtY4ug.jpg",
   voteAverage: 6.9,
   streamingOn: [
-    "PixL Amazon Channel",
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
-    "Xumo Play",
+    "streaming-service/pixl",
+    "streaming-service/up-faith-and-family",
+    "streaming-service/xumo-play",
   ],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

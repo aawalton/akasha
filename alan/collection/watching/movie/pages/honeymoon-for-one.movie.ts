@@ -23,7 +23,7 @@ export const honeymoonForOne = {
   imdbId: "tt1733737",
   posterPath: "/zPqLuvw9rgZOdiYroLvAhImILL5.jpg",
   voteAverage: 6,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

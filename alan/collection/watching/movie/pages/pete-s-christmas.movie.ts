@@ -24,13 +24,11 @@ export const peteSChristmas = {
   posterPath: "/kUThHZFYM6mEH3REIQ76BGMdkAi.jpg",
   voteAverage: 5.696,
   streamingOn: [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads",
-    "Plex",
-    "Plex Channel",
-    "The Roku Channel",
-    "Tubi TV",
+    "streaming-service/amazon-prime-video",
+    "streaming-service/plex",
+    "streaming-service/the-roku-channel",
+    "streaming-service/tubi",
   ],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

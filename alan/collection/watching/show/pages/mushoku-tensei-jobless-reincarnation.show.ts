@@ -19,7 +19,7 @@ export const mushokuTenseiJoblessReincarnation = {
     },
   ],
   title: "Mushoku Tensei: Jobless Reincarnation",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:45:44.204Z",
-  updatedAt: "2026-10-28T19:45:07.048Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

@@ -19,7 +19,7 @@ export const neonGenesisEvangelion = {
     },
   ],
   title: "Neon Genesis Evangelion",
-  streamingOn: ["Criterion Channel", "Netflix", "Netflix Standard with Ads"],
+  streamingOn: ["streaming-service/criterion-channel", "streaming-service/netflix"],
   createdAt: "2026-10-28T18:45:20.209Z",
-  updatedAt: "2026-10-28T19:45:23.781Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

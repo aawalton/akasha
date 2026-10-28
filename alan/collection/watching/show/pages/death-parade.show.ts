@@ -19,7 +19,7 @@ export const deathParade = {
     },
   ],
   title: "Death Parade",
-  streamingOn: ["Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:51:30.729Z",
-  updatedAt: "2026-10-28T19:43:58.255Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

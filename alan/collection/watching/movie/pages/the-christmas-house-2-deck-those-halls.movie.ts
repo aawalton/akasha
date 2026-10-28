@@ -25,12 +25,11 @@ export const theChristmasHouse2DeckThoseHalls = {
   posterPath: "/cWccc2GZL0w4IUiW2d4o81c8A28.jpg",
   voteAverage: 5.35,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-25T20:45:16.967Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

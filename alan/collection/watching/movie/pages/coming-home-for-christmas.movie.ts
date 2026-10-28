@@ -23,7 +23,11 @@ export const comingHomeForChristmas = {
   imdbId: "tt7038614",
   posterPath: "/zhBbQfiKVkzI622kNF2S925e5DV.jpg",
   voteAverage: 6.563,
-  streamingOn: ["Hallmark+ Amazon Channel", "Hallmark+ Apple TV channel", "Philo", "fuboTV"],
+  streamingOn: [
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/philo",
+  ],
   createdAt: "2026-10-25T19:46:38.041Z",
-  updatedAt: "2026-10-25T19:46:38.041Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

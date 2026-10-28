@@ -19,7 +19,7 @@ export const theLastNarutoTheMovie = {
     },
   ],
   title: "The Last: Naruto the Movie",
-  streamingOn: ["The Roku Channel"],
+  streamingOn: ["streaming-service/the-roku-channel"],
   createdAt: "2026-10-28T18:42:48.617Z",
-  updatedAt: "2026-10-28T19:48:26.039Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

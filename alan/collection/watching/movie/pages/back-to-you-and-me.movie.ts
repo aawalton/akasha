@@ -23,7 +23,7 @@ export const backToYouAndMe = {
   imdbId: "tt0419816",
   posterPath: "/9hlpyEQnJYyOVOzQ1BmOeUQqdJA.jpg",
   voteAverage: 6.6,
-  streamingOn: ["PixL Amazon Channel", "Xumo Play"],
+  streamingOn: ["streaming-service/pixl", "streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

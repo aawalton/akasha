@@ -23,7 +23,7 @@ export const notesFromDad = {
   imdbId: "tt2202800",
   posterPath: "/ucZitOEuSIxGfxd6kkcFTS61Gnu.jpg",
   voteAverage: 5.7,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

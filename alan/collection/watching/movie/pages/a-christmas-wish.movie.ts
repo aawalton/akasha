@@ -23,7 +23,7 @@ export const aChristmasWish = {
   imdbId: "tt1577038",
   posterPath: "/vr6j28yj9kfl7TOO3J0BWoaUSEX.jpg",
   voteAverage: 5.9,
-  streamingOn: ["Lionsgate+ Amazon Channel", "Plex", "Plex Channel"],
+  streamingOn: ["streaming-service/lionsgate-plus", "streaming-service/plex"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

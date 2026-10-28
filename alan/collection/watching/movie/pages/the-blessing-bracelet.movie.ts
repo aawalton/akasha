@@ -23,11 +23,7 @@ export const theBlessingBracelet = {
   imdbId: "tt27010304",
   posterPath: "/9DScIcL0cEIKcwSEz0jRfzEcGn.jpg",
   voteAverage: 6.2,
-  streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-  ],
+  streamingOn: ["streaming-service/hallmark-plus", "streaming-service/hallmark-tv"],
   createdAt: "2026-10-25T19:47:27.269Z",
-  updatedAt: "2026-10-25T19:47:27.269Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

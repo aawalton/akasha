@@ -24,12 +24,11 @@ export const muchAboutLove = {
   posterPath: "/47VBOUhDQLiWrePlNPCCgk2kVYO.jpg",
   voteAverage: 6.667,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

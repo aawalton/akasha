@@ -24,7 +24,7 @@ export const aTasteOfRomance = {
   imdbId: "tt1849868",
   posterPath: "/zWfmGfvkzdyUiO256wC6z2ugaRh.jpg",
   voteAverage: 6.5,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

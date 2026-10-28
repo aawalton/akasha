@@ -19,7 +19,7 @@ export const theDisastrousLifeOfSaikiKReawakened = {
     },
   ],
   title: "The Disastrous Life of Saiki K.: Reawakened",
-  streamingOn: ["Netflix", "Netflix Standard with Ads"],
+  streamingOn: ["streaming-service/netflix"],
   createdAt: "2026-10-28T18:54:46.226Z",
-  updatedAt: "2026-10-28T19:46:20.370Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

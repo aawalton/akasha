@@ -19,7 +19,7 @@ export const violetEvergardenTheMovie = {
     },
   ],
   title: "Violet Evergarden: The Movie",
-  streamingOn: ["Netflix", "Netflix Standard with Ads"],
+  streamingOn: ["streaming-service/netflix"],
   createdAt: "2026-10-28T18:45:57.641Z",
-  updatedAt: "2026-10-28T19:48:28.980Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

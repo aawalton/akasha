@@ -74,6 +74,14 @@ export const watchingHallmark = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A title's services are the streaming service pages its TMDB names reach.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page for a name no service lists is written before any title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A call saying `--plan` reports the shelf and writes nothing.",
     },
     {
@@ -98,5 +106,5 @@ export const watchingHallmark = {
   name: "hallmark",
   arguments: [{ argument: "argument/plan" }],
   createdAt: "2026-10-25T19:42:42.006Z",
-  updatedAt: "2026-10-25T20:44:25.931Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Command

@@ -23,11 +23,7 @@ export const loveBegins = {
   imdbId: "tt1684907",
   posterPath: "/b0JiPlWEZ8cnhhgVOWo0rnbGuvh.jpg",
   voteAverage: 7.8,
-  streamingOn: [
-    "PixL Amazon Channel",
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
-  ],
+  streamingOn: ["streaming-service/pixl", "streaming-service/up-faith-and-family"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

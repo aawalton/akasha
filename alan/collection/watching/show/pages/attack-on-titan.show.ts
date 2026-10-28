@@ -19,7 +19,7 @@ export const attackOnTitan = {
     },
   ],
   title: "Attack on Titan",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:41:41.918Z",
-  updatedAt: "2026-10-28T19:43:28.624Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

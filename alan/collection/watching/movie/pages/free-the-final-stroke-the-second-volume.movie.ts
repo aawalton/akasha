@@ -19,7 +19,7 @@ export const freeTheFinalStrokeTheSecondVolume = {
     },
   ],
   title: "Free! the Final Stroke the Second Volume",
-  streamingOn: ["Crunchyroll"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:48:44.321Z",
-  updatedAt: "2026-10-28T19:47:17.208Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

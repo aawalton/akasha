@@ -20,12 +20,10 @@ export const puellaMagiMadokaMagica = {
   ],
   title: "Puella Magi Madoka Magica",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
   ],
   createdAt: "2026-10-28T18:46:25.878Z",
-  updatedAt: "2026-10-28T19:45:42.253Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

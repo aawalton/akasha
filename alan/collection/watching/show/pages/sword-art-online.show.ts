@@ -15,7 +15,7 @@ export const swordArtOnline = {
   genres: ["Animation", "Sci-Fi & Fantasy", "Action & Adventure"],
   posterPath: "/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
   voteAverage: 8.161,
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   externalIdentity: [
     {
       source: "tmdb",
@@ -26,5 +26,5 @@ export const swordArtOnline = {
   ],
   imdbId: "tt2250192",
   createdAt: "2026-06-07T22:44:35.733Z",
-  updatedAt: "2026-10-28T19:46:16.078Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

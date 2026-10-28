@@ -24,12 +24,11 @@ export const theLadyMusketeer = {
   posterPath: "/oeJHYjm68q1Wkps10j9anFomGLM.jpg",
   voteAverage: 5.5,
   streamingOn: [
-    "Amazon MX Player",
-    "Amazon Prime Video",
-    "Amazon Prime Video Free with Ads",
-    "Amazon Prime Video with Ads",
-    "Tubi TV",
+    "streaming-service/amazon-mx-player",
+    "streaming-service/amazon-prime-video",
+    "streaming-service/amazon-prime-video-free-with-ads",
+    "streaming-service/tubi",
   ],
   createdAt: "2026-10-25T19:47:43.335Z",
-  updatedAt: "2026-10-25T19:47:43.335Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

@@ -23,11 +23,7 @@ export const undercoverBridesmaid = {
   imdbId: "tt2094787",
   posterPath: "/wGtJYQZiXI9gP06BeeapvOsK4y4.jpg",
   voteAverage: 5.8,
-  streamingOn: [
-    "PixL Amazon Channel",
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
-  ],
+  streamingOn: ["streaming-service/pixl", "streaming-service/up-faith-and-family"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

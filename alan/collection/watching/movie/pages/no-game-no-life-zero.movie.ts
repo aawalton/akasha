@@ -19,7 +19,7 @@ export const noGameNoLifeZero = {
     },
   ],
   title: "No Game No Life: Zero",
-  streamingOn: ["HiDive"],
+  streamingOn: ["streaming-service/hidive"],
   createdAt: "2026-10-28T18:54:33.241Z",
-  updatedAt: "2026-10-28T19:47:48.464Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

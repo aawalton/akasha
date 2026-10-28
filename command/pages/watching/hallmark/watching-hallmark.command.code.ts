@@ -12,7 +12,9 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { listedFetched } from "akasha/command/pages/watching/hallmark/modules/hallmark-listing/hallmark-listing.module.code.ts"
 import {
   airedShows,
+  type Matched,
   matchedAll,
+  type Titled,
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.code.ts"
 import type { Gone } from "akasha/command/pages/watching/hallmark/modules/hallmark-misfiling/hallmark-misfiling.module.code.ts"
 import {
@@ -20,6 +22,11 @@ import {
   shelved,
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-shelving/hallmark-shelving.module.code.ts"
 import { watchingHallmark as page } from "akasha/command/pages/watching/hallmark/watching-hallmark.command.ts"
+import {
+  relatingBy,
+  type Services,
+  servicesKnown,
+} from "akasha/command/pages/watching/modules/service-relating/service-relating.module.code.ts"
 import {
   type Calls,
   TOKEN_UNSET,
@@ -126,6 +133,26 @@ async function heldFor(calls: Calls): Promise<Asked | string> {
   }
 }
 
+type Related = {
+  readonly listed: readonly Matched[]
+  readonly shows: readonly Titled[]
+  readonly pages: readonly Naming[]
+}
+
+export function servicesRelated(
+  matched: readonly Matched[],
+  aired: readonly Titled[],
+  services: Services
+): Related {
+  const relating = relatingBy(services)
+  const related = (one: Titled): Titled => ({ ...one, services: relating.related(one.services) })
+  const listed = matched.map((one) =>
+    one.titled === null ? one : { ...one, titled: related(one.titled) }
+  )
+  const shows = aired.map(related)
+  return { listed, shows, pages: relating.fresh() }
+}
+
 function ordered(pages: readonly Naming[]): readonly Naming[] {
   const rank = (one: Naming): number => ORDER.indexOf(one.pageTypeSlug)
   return [...pages].sort((one, other) => rank(one) - rank(other))
@@ -182,15 +209,19 @@ export async function watchingHallmark(
     if (typeof asked === "string") return refusedBy([asked], OPERATIONAL)
     const held = asked.held
     const matched = await matchedAll(calls, token, listed)
-    const shows = await airedShows(calls, token)
+    const aired = await airedShows(calls, token)
+    const services = await servicesKnown(calls)
+    if (typeof services === "string") return refusedBy([services], OPERATIONAL)
+    const related = servicesRelated(matched, aired, services)
     const day = new Date().toISOString().slice(0, A_DAY)
-    const shelf = shelved({ listed: matched, shows, held, day })
-    const fresh = shelf.pages.filter((one) => one.fresh === true).length
-    const counted = `${String(fresh)} pages to write fresh and ${String(shelf.pages.length - fresh)} to update`
+    const shelf = shelved({ listed: related.listed, shows: related.shows, held, day })
+    const pages = [...related.pages, ...shelf.pages]
+    const fresh = pages.filter((one) => one.fresh === true).length
+    const counted = `${String(fresh)} pages to write fresh and ${String(pages.length - fresh)} to update`
     if (read.taken.plan) return told([...shelf.report, counted])
     const removed = await removedAll(shelf.removes, given.root, calls, asked.at)
     if (removed.refused !== null) return refusedBy([...shelf.report, removed.refused], OPERATIONAL)
-    const ran = await recording(SYNC, () => written(shelf.pages, calls, removed.read))
+    const ran = await recording(SYNC, () => written(pages, calls, removed.read))
     const said = [...shelf.report, counted, ...ran.commits.map((one) => `committed as ${one}`)]
     if (ran.refused !== null) return refusedBy([...said, ran.refused], OPERATIONAL)
     return told(said)

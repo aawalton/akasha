@@ -23,7 +23,7 @@ export const elevatorGirl = {
   imdbId: "tt1492820",
   posterPath: "/fKFUtpqecNWmofIirG5UDCYaGdq.jpg",
   voteAverage: 5.982,
-  streamingOn: ["PixL Amazon Channel", "Xumo Play"],
+  streamingOn: ["streaming-service/pixl", "streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

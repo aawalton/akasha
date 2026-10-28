@@ -19,7 +19,7 @@ export const fateStayNightHeavenSFeelIPresageFlower = {
     },
   ],
   title: "Fate/stay night: Heaven's Feel I. Presage Flower",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:50:21.159Z",
-  updatedAt: "2026-10-28T19:47:09.970Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

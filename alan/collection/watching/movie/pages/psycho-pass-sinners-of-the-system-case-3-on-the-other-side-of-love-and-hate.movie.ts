@@ -19,7 +19,7 @@ export const psychoPassSinnersOfTheSystemCase3OnTheOtherSideOfLoveAndHate = {
     },
   ],
   title: "Psycho-Pass: Sinners of the System - Case.3 On the Other Side of Love and Hate",
-  streamingOn: ["Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:51:55.904Z",
-  updatedAt: "2026-10-28T19:47:57.955Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

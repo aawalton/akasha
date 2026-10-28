@@ -24,7 +24,7 @@ export const theWeddingVeilInspiration = {
   imdbId: "tt25134264",
   posterPath: "/tUbRVuZYKFm5qFDZDYWnVQRWEi4.jpg",
   voteAverage: 7.5,
-  streamingOn: ["Philo", "fuboTV"],
+  streamingOn: ["streaming-service/fubotv", "streaming-service/philo"],
   createdAt: "2026-10-25T19:47:18.330Z",
-  updatedAt: "2026-10-25T20:45:22.183Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

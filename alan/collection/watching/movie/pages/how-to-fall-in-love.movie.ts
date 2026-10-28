@@ -23,7 +23,7 @@ export const howToFallInLove = {
   imdbId: "tt2395247",
   posterPath: "/vpZavsKDpoAyNoeXFTpVW8Q6R8A.jpg",
   voteAverage: 6.044,
-  streamingOn: ["Cineverse Amazon Channel", "Dove Amazon Channel"],
+  streamingOn: ["streaming-service/cineverse", "streaming-service/dove"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -2,6 +2,9 @@ import { expect, test } from "bun:test"
 import { season } from "akasha/alan/collection/watching/season/season.page-type.ts"
 import { show } from "akasha/alan/collection/watching/show/show.page-type.ts"
 import { showCollection } from "akasha/alan/collection/watching/show-collection/show-collection.page-type.ts"
+import { hallmarkPlus } from "akasha/alan/collection/watching/streaming-service/pages/hallmark-plus.streaming-service.ts"
+import { philo } from "akasha/alan/collection/watching/streaming-service/pages/philo.streaming-service.ts"
+import { streamingService } from "akasha/alan/collection/watching/streaming-service/streaming-service.page-type.ts"
 import {
   dayOf,
   type Listed,
@@ -22,7 +25,15 @@ import {
   SHELVES,
   shelved,
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-shelving/hallmark-shelving.module.code.ts"
+import { servicesRelated } from "akasha/command/pages/watching/hallmark/watching-hallmark.command.code.ts"
+import { servicesFrom } from "akasha/command/pages/watching/modules/service-relating/service-relating.module.code.ts"
 import { servicesIn } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
+
+const SERVICE = streamingService.slug
+
+const PHILO = `${SERVICE}/${philo.slug}`
+
+const HALLMARK_PLUS = `${SERVICE}/${hallmarkPlus.slug}`
 
 const SHELVED_AS = `${showCollection.slug}/`
 
@@ -155,6 +166,21 @@ test("the services are the subscription and free ones TMDB names for the US", ()
   expect(servicesIn(said)).toEqual(["Philo", "Tubi TV"])
 })
 
+test("a title's TMDB names become the services they reach, and a new name gets a page", () => {
+  const known = servicesFrom([philo, hallmarkPlus])
+  const names = ["Hallmark+ Amazon Channel", "Hallmark+ Apple TV channel", "Philo", "New TV"]
+  const film = titling(3, "Winter in Vail", { services: names })
+  const series = titling(4, "Good Witch", { kind: "tv", services: ["New TV "] })
+  const related = servicesRelated([matching("Winter in Vail", film)], [series], known)
+  const fresh = `${SERVICE}/new-tv`
+  expect(related.listed[0]?.titled?.services).toEqual([HALLMARK_PLUS, fresh, PHILO])
+  expect(related.shows[0]?.services).toEqual([fresh])
+  expect(related.pages.map((one) => [one.pageTypeSlug, one.slug])).toEqual([[SERVICE, "new-tv"]])
+  const shelf = shelved({ listed: related.listed, shows: [], held: NOTHING_HELD, day: DAY })
+  const page = shelf.pages.find((one) => one.slug === "winter-in-vail")
+  expect(page?.values.streamingOn).toEqual([HALLMARK_PLUS, fresh, PHILO])
+})
+
 test("a Christmas block or a Christmas word makes a Christmas title", () => {
   const spark = listing("A Holiday Spark", { blocks: ["CtC"] })
   expect(christmasOf(spark, spark.title)).toBe(true)
@@ -192,7 +218,7 @@ test("a held title gains its shelf, keeps its status and loses services it left"
     title: "Winter in Vail",
     partOfCollections: [CHRISTMAS],
     externalIdentity: [{ source: "tmdb", externalId: "3" }],
-    streamingOn: ["Philo"],
+    streamingOn: [PHILO],
   }
   const listed = [matching("Winter in Vail", titling(3, "Winter in Vail"))]
   const shelf = shelved({ listed, shows: [], held: { ...NOTHING_HELD, movie: [row] }, day: DAY })
@@ -233,7 +259,7 @@ test("a held page holding a refused match loses it and what TMDB gave it", () =>
     title: "Do I Say I Do?",
     partOfCollections: [ROMANCE],
     externalIdentity: [{ source: "tmdb", externalId: "77" }],
-    streamingOn: ["Philo"],
+    streamingOn: [PHILO],
   }
   const refused = { kind: "movie", id: 77, title: "Say I Do" } as const
   const listed = [matching("Do I Say I Do?", null, refused)]

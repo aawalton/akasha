@@ -19,7 +19,7 @@ export const killLaKill = {
     },
   ],
   title: "Kill la Kill",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:55:00.722Z",
-  updatedAt: "2026-10-28T19:44:51.873Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

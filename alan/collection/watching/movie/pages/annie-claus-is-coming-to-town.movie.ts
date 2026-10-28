@@ -23,7 +23,7 @@ export const annieClausIsComingToTown = {
   imdbId: "tt1910501",
   posterPath: "/2FQRruQv8oovcDu1etIdXC3IhFb.jpg",
   voteAverage: 6.3,
-  streamingOn: ["UP Faith & Family Amazon Channel ", "UP Faith & Family Apple TV channel"],
+  streamingOn: ["streaming-service/up-faith-and-family"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

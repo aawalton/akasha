@@ -19,7 +19,7 @@ export const clannad = {
     },
   ],
   title: "Clannad",
-  streamingOn: ["HiDive", "Hidive Amazon Channel"],
+  streamingOn: ["streaming-service/hidive"],
   createdAt: "2026-10-28T18:48:08.670Z",
-  updatedAt: "2026-10-28T19:43:47.196Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

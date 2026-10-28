@@ -19,7 +19,7 @@ export const rascalDoesNotDreamOfADreamingGirl = {
     },
   ],
   title: "Rascal Does Not Dream of a Dreaming Girl",
-  streamingOn: ["Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:46:19.898Z",
-  updatedAt: "2026-10-28T19:48:07.766Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

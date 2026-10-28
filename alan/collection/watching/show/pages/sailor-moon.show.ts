@@ -19,7 +19,12 @@ export const sailorMoon = {
     },
   ],
   title: "Sailor Moon",
-  streamingOn: ["Amazon Prime Video Free with Ads", "Hulu", "Pluto TV", "Tubi TV"],
+  streamingOn: [
+    "streaming-service/amazon-prime-video-free-with-ads",
+    "streaming-service/hulu",
+    "streaming-service/pluto-tv",
+    "streaming-service/tubi",
+  ],
   createdAt: "2026-10-28T18:49:12.078Z",
-  updatedAt: "2026-10-28T19:45:47.316Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

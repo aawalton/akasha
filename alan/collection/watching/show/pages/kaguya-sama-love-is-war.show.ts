@@ -19,7 +19,7 @@ export const kaguyaSamaLoveIsWar = {
     },
   ],
   title: "Kaguya-sama: Love Is War",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:44:54.702Z",
-  updatedAt: "2026-10-28T19:44:48.148Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

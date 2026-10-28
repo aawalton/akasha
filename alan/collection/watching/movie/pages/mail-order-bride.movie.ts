@@ -27,7 +27,7 @@ export const mailOrderBride = {
   imdbId: "tt1320431",
   posterPath: "/mxVfRKyXtxzKMwLei6SQXFoW3jd.jpg",
   voteAverage: 6.5,
-  streamingOn: ["Howdy Amazon Channel", "YouTube Free"],
+  streamingOn: ["streaming-service/howdy", "streaming-service/youtube-free"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

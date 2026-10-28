@@ -23,7 +23,7 @@ export const oliverSGhost = {
   imdbId: "tt1809318",
   posterPath: "/yqMENE9lWNg91WqhtA8jo5Yzd6Y.jpg",
   voteAverage: 6.4,
-  streamingOn: ["PixL Amazon Channel"],
+  streamingOn: ["streaming-service/pixl"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

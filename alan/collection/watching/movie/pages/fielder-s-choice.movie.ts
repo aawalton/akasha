@@ -23,7 +23,7 @@ export const fielderSChoice = {
   imdbId: "tt0407788",
   posterPath: "/rieuEz1U45CpjC9UaZxkWYeV4cx.jpg",
   voteAverage: 5,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -23,7 +23,7 @@ export const detective = {
   imdbId: "tt0385400",
   posterPath: "/aFpLV0nXLOJKkigukurFkKN1mSg.jpg",
   voteAverage: 4.5,
-  streamingOn: ["Shout! Factory TV"],
+  streamingOn: ["streaming-service/shout-factory-tv"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

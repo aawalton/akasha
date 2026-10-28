@@ -23,7 +23,7 @@ export const theWildGirl = {
   imdbId: "tt1496009",
   posterPath: "/dygTS013wkz5iXsqGVDkaVoxi1r.jpg",
   voteAverage: 3.5,
-  streamingOn: ["Cineverse"],
+  streamingOn: ["streaming-service/cineverse"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

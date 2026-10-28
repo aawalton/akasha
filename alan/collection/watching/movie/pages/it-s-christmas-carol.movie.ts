@@ -24,7 +24,7 @@ export const itSChristmasCarol = {
   imdbId: "tt2181853",
   posterPath: "/gpj8MSZD3NDfFtFUX4rUuCmix3j.jpg",
   voteAverage: 5.5,
-  streamingOn: ["MovieSphere+ Amazon Channel"],
+  streamingOn: ["streaming-service/moviesphere-plus"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -19,7 +19,7 @@ export const skipBeat = {
     },
   ],
   title: "Skip Beat!",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:51:39.460Z",
-  updatedAt: "2026-10-28T19:45:59.536Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

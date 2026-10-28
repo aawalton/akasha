@@ -19,7 +19,7 @@ export const bocchiTheRock = {
     },
   ],
   title: "BOCCHI THE ROCK!",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:50:26.535Z",
-  updatedAt: "2026-10-28T19:43:41.082Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

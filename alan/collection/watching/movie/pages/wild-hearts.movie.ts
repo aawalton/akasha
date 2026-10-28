@@ -24,7 +24,7 @@ export const wildHearts = {
   imdbId: "tt0472576",
   posterPath: "/qrC6EC0cQoZGEkO2TW9EJiYzy69.jpg",
   voteAverage: 6.3,
-  streamingOn: ["PixL Amazon Channel", "Xumo Play"],
+  streamingOn: ["streaming-service/pixl", "streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

@@ -19,7 +19,7 @@ export const howlSMovingCastle = {
     },
   ],
   title: "Howl's Moving Castle",
-  streamingOn: ["HBO Max", "HBO Max Amazon Channel"],
+  streamingOn: ["streaming-service/hbo-max"],
   createdAt: "2026-10-28T18:46:06.108Z",
-  updatedAt: "2026-10-28T19:47:28.996Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

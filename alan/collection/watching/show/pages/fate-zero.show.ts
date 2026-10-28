@@ -19,7 +19,7 @@ export const fateZero = {
     },
   ],
   title: "Fate/Zero",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:50:13.534Z",
-  updatedAt: "2026-10-28T19:44:16.825Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

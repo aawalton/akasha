@@ -23,7 +23,7 @@ export const aFamilyChristmasGift = {
   imdbId: "tt10926390",
   posterPath: "/j4tyVRs2wQqSAGSUP2OQEGvrkyv.jpg",
   voteAverage: 6.2,
-  streamingOn: ["Philo", "fuboTV"],
+  streamingOn: ["streaming-service/fubotv", "streaming-service/philo"],
   createdAt: "2026-10-25T19:46:53.752Z",
-  updatedAt: "2026-10-25T19:46:53.752Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

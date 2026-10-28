@@ -25,12 +25,11 @@ export const pastMaliceAnEmmaFieldingMystery = {
   posterPath: "/jLex3GzVQ7VJBZkVOZfI3rPGBJn.jpg",
   voteAverage: 6.455,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:46:45.888Z",
-  updatedAt: "2026-10-25T20:45:10.655Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

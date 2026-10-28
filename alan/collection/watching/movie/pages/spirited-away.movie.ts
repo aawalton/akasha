@@ -19,7 +19,7 @@ export const spiritedAway = {
     },
   ],
   title: "Spirited Away",
-  streamingOn: ["HBO Max", "HBO Max Amazon Channel"],
+  streamingOn: ["streaming-service/hbo-max"],
   createdAt: "2026-10-28T18:46:30.231Z",
-  updatedAt: "2026-10-28T19:48:13.665Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

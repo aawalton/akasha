@@ -23,7 +23,7 @@ export const bridalFever = {
   imdbId: "tt1111880",
   posterPath: "/fhpQGPZTipBX6rysxkkqPgyvqlt.jpg",
   voteAverage: 5.2,
-  streamingOn: ["Cineverse Amazon Channel", "Dove Amazon Channel"],
+  streamingOn: ["streaming-service/cineverse", "streaming-service/dove"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

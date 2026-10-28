@@ -24,7 +24,11 @@ export const accidentalFriendship = {
   imdbId: "tt1242861",
   posterPath: "/bW6S9ludpTcvQiFqXFsgpY58NRB.jpg",
   voteAverage: 6.9,
-  streamingOn: ["Howdy Amazon Channel", "The Roku Channel", "Tubi TV"],
+  streamingOn: [
+    "streaming-service/howdy",
+    "streaming-service/the-roku-channel",
+    "streaming-service/tubi",
+  ],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

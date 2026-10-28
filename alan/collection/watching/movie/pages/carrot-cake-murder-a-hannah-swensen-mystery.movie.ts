@@ -25,11 +25,10 @@ export const carrotCakeMurderAHannahSwensenMystery = {
   posterPath: "/yLYAq5d6pk8mXKzigfwcBn543lf.jpg",
   voteAverage: 6.8,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
   ],
   createdAt: "2026-10-25T19:47:27.269Z",
-  updatedAt: "2026-10-25T20:45:25.537Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

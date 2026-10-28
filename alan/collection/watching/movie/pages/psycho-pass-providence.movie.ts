@@ -19,7 +19,7 @@ export const psychoPassProvidence = {
     },
   ],
   title: "Psycho-Pass: Providence",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:52:00.817Z",
-  updatedAt: "2026-10-28T19:47:51.343Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

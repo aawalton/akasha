@@ -24,12 +24,11 @@ export const adviceToLoveBy = {
   posterPath: "/jg3WEqRw9MAlWWjQ925gl8zRdmL.jpg",
   voteAverage: 5.3,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "YouTube TV",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
+    "streaming-service/youtube-tv",
   ],
   createdAt: "2026-10-25T19:47:01.655Z",
-  updatedAt: "2026-10-25T19:47:01.655Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

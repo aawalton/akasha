@@ -19,7 +19,7 @@ export const whisperOfTheHeart = {
     },
   ],
   title: "Whisper of the Heart",
-  streamingOn: ["HBO Max", "HBO Max Amazon Channel"],
+  streamingOn: ["streaming-service/hbo-max"],
   createdAt: "2026-10-28T18:51:35.586Z",
-  updatedAt: "2026-10-28T19:48:30.374Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

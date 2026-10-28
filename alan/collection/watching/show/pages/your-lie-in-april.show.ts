@@ -20,12 +20,10 @@ export const yourLieInApril = {
   ],
   title: "Your Lie in April",
   streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
   ],
   createdAt: "2026-10-28T18:47:11.445Z",
-  updatedAt: "2026-10-28T19:46:37.333Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

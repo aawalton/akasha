@@ -23,7 +23,7 @@ export const theConfession = {
   imdbId: "tt2317171",
   posterPath: "/8nCtqIXALBI232Yf9eNHCKGGPWK.jpg",
   voteAverage: 6.6,
-  streamingOn: ["Pluto TV", "Runtime"],
+  streamingOn: ["streaming-service/pluto-tv", "streaming-service/runtime"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

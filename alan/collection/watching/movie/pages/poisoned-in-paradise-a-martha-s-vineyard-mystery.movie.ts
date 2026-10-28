@@ -25,13 +25,12 @@ export const poisonedInParadiseAMarthaSVineyardMystery = {
   posterPath: "/2kbKP39lQ3Gu9LhynfMJNQPMn1O.jpg",
   voteAverage: 7,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:47:10.024Z",
-  updatedAt: "2026-10-27T23:32:36.179Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
   completedAt: "2026-10-27T23:32:35.302Z",
   progressedAt: "2026-10-27T23:32:36.179Z",
 } as const satisfies Movie

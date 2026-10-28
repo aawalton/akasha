@@ -23,7 +23,7 @@ export const letItSnow = {
   imdbId: "tt3320502",
   posterPath: "/jSMMHOfSEaTma2xMEnyNzlrMJG5.jpg",
   voteAverage: 6.5,
-  streamingOn: ["Great American Pure Flix Amazon Channel", "Pure Flix", "YouTube TV"],
+  streamingOn: ["streaming-service/great-american-pure-flix", "streaming-service/youtube-tv"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

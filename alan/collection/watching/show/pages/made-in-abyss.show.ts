@@ -19,7 +19,7 @@ export const madeInAbyss = {
     },
   ],
   title: "Made in Abyss",
-  streamingOn: ["HiDive", "Hidive Amazon Channel"],
+  streamingOn: ["streaming-service/hidive"],
   createdAt: "2026-10-28T18:54:22.982Z",
-  updatedAt: "2026-10-28T19:44:57.197Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

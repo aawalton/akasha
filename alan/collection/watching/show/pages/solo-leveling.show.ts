@@ -5,7 +5,7 @@ export const soloLeveling = {
   type: "page-type/show",
   slug: "solo-leveling",
   title: "Solo Leveling",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   partOfCollections: ["show-collection/anime-shows", "fandom/solo-leveling"],
   position: 0,
   ownLength: 0,
@@ -29,5 +29,5 @@ export const soloLeveling = {
     },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-10-28T19:46:01.220Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

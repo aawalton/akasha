@@ -15,7 +15,7 @@ export const swordArtOnlineAlternativeGunGaleOnline = {
   genres: ["Animation", "Action & Adventure", "Sci-Fi & Fantasy"],
   posterPath: "/1EBk96E3cVVOEVlx2z744oEuFQk.jpg",
   voteAverage: 7.691,
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   externalIdentity: [
     {
       source: "tmdb",
@@ -26,5 +26,5 @@ export const swordArtOnlineAlternativeGunGaleOnline = {
   ],
   imdbId: "tt7978710",
   createdAt: "2026-06-07T22:44:46.086Z",
-  updatedAt: "2026-10-28T19:46:14.632Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

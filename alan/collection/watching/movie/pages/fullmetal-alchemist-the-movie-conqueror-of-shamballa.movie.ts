@@ -19,7 +19,7 @@ export const fullmetalAlchemistTheMovieConquerorOfShamballa = {
     },
   ],
   title: "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
-  streamingOn: ["Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:42:54.691Z",
-  updatedAt: "2026-10-28T19:47:19.385Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

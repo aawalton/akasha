@@ -24,11 +24,10 @@ export const accidentallyInLove = {
   posterPath: "/xB5mr7498U3hOJ1WRKcULFwy87w.jpg",
   voteAverage: 6,
   streamingOn: [
-    "PixL Amazon Channel",
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
-    "Xumo Play",
+    "streaming-service/pixl",
+    "streaming-service/up-faith-and-family",
+    "streaming-service/xumo-play",
   ],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

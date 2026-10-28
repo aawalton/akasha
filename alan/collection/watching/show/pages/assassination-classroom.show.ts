@@ -19,12 +19,7 @@ export const assassinationClassroom = {
     },
   ],
   title: "Assassination Classroom",
-  streamingOn: [
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Netflix",
-    "Netflix Standard with Ads",
-  ],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/netflix"],
   createdAt: "2026-10-28T18:47:20.244Z",
-  updatedAt: "2026-10-28T19:43:27.381Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

@@ -20,13 +20,11 @@ export const fullmetalAlchemistBrotherhood = {
   ],
   title: "Fullmetal Alchemist: Brotherhood",
   streamingOn: [
-    "Amasian TV",
-    "Crunchyroll",
-    "Crunchyroll Amazon Channel",
-    "Hulu",
-    "Netflix",
-    "Netflix Standard with Ads",
+    "streaming-service/amasian-tv",
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
   ],
   createdAt: "2026-10-28T18:43:00.104Z",
-  updatedAt: "2026-10-28T19:44:21.794Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

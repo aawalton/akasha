@@ -17,7 +17,7 @@ export const swordArtOnlineTheMovieProgressiveScherzoOfDeepNight = {
   genres: ["Animation", "Action", "Fantasy", "Science Fiction"],
   posterPath: "/a8B3bagkYRULdmnhgKMcxXaVcFm.jpg",
   voteAverage: 7.7,
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   externalIdentity: [
     {
       source: "tmdb",
@@ -28,6 +28,6 @@ export const swordArtOnlineTheMovieProgressiveScherzoOfDeepNight = {
   ],
   imdbId: "tt15830702",
   createdAt: "2026-06-07T22:44:50.240Z",
-  updatedAt: "2026-10-28T19:48:24.410Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
   progressedAt: "2026-10-28T18:39:52.205Z",
 } as const satisfies Movie

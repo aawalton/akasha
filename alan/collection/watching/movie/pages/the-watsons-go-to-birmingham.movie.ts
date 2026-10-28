@@ -23,7 +23,7 @@ export const theWatsonsGoToBirmingham = {
   imdbId: "tt2866296",
   posterPath: "/xcrOuw08rrC5WkLoXiU87AeZ577.jpg",
   voteAverage: 6.8,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

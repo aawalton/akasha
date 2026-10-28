@@ -19,7 +19,7 @@ export const chainsawManTheMovieRezeArc = {
     },
   ],
   title: "Chainsaw Man - The Movie: Reze Arc",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
+  streamingOn: ["streaming-service/crunchyroll"],
   createdAt: "2026-10-28T18:45:49.097Z",
-  updatedAt: "2026-10-28T19:46:46.659Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

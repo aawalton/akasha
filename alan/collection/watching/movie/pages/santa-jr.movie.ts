@@ -24,11 +24,7 @@ export const santaJr = {
   imdbId: "tt0338410",
   posterPath: "/3OngJwVgw04edp3KAYf6T9vJ7Mx.jpg",
   voteAverage: 5.6,
-  streamingOn: [
-    "UP Faith & Family Amazon Channel ",
-    "UP Faith & Family Apple TV channel",
-    "Xumo Play",
-  ],
+  streamingOn: ["streaming-service/up-faith-and-family", "streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:43:41.911Z",
-  updatedAt: "2026-10-25T19:43:41.911Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

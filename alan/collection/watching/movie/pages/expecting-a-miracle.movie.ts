@@ -24,7 +24,7 @@ export const expectingAMiracle = {
   imdbId: "tt1338590",
   posterPath: "/2KvDn9XH6A2dr8znXCEGUy798s6.jpg",
   voteAverage: 6.2,
-  streamingOn: ["PixL Amazon Channel", "Xumo Play"],
+  streamingOn: ["streaming-service/pixl", "streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:46:04.682Z",
-  updatedAt: "2026-10-25T19:46:04.682Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

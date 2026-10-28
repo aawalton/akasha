@@ -19,7 +19,7 @@ export const blackButler = {
     },
   ],
   title: "Black Butler",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:49:32.837Z",
-  updatedAt: "2026-10-28T19:43:34.719Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Show

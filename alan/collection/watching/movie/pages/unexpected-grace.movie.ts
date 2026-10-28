@@ -23,7 +23,7 @@ export const unexpectedGrace = {
   imdbId: "tt26593230",
   posterPath: "/9rIDl1NnGsL9ZkfdyVcHvPcPcs5.jpg",
   voteAverage: 7.55,
-  streamingOn: ["Hallmark+ Amazon Channel", "Hallmark+ Apple TV channel", "fuboTV"],
+  streamingOn: ["streaming-service/fubotv", "streaming-service/hallmark-plus"],
   createdAt: "2026-10-25T19:47:27.269Z",
-  updatedAt: "2026-10-25T19:47:27.269Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

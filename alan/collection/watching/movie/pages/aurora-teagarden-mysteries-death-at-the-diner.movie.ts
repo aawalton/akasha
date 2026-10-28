@@ -25,12 +25,11 @@ export const auroraTeagardenMysteriesDeathAtTheDiner = {
   posterPath: "/958StP9qK9Khen8CwFD7ED8qWD9.jpg",
   voteAverage: 6.2,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "Philo",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
+    "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:47:35.367Z",
-  updatedAt: "2026-10-25T20:45:28.240Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

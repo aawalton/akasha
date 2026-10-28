@@ -23,7 +23,7 @@ export const beMyValentine = {
   imdbId: "tt2288568",
   posterPath: "/6w7eP1sSsaq30VZlpqR9r2vOdy1.jpg",
   voteAverage: 5.7,
-  streamingOn: ["AsianCrush"],
+  streamingOn: ["streaming-service/asiancrush"],
   createdAt: "2026-10-25T19:46:12.764Z",
-  updatedAt: "2026-10-25T19:46:12.764Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

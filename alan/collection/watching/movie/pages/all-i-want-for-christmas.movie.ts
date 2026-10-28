@@ -23,7 +23,7 @@ export const allIWantForChristmas = {
   imdbId: "tt1112097",
   posterPath: "/r4hSrTPrVSBG7GLJCXL1t18tJRU.jpg",
   voteAverage: 5.6,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

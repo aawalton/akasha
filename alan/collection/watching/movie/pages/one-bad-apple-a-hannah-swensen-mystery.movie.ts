@@ -25,11 +25,10 @@ export const oneBadAppleAHannahSwensenMystery = {
   posterPath: "/cJcWag9R2KJt0LNumv2rs24u9Mo.jpg",
   voteAverage: 6.7,
   streamingOn: [
-    "Hallmark TV Amazon Channel",
-    "Hallmark+ Amazon Channel",
-    "Hallmark+ Apple TV channel",
-    "fuboTV",
+    "streaming-service/fubotv",
+    "streaming-service/hallmark-plus",
+    "streaming-service/hallmark-tv",
   ],
   createdAt: "2026-10-25T19:47:35.367Z",
-  updatedAt: "2026-10-25T20:45:25.537Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

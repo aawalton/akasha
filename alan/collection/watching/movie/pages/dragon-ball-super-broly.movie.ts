@@ -19,7 +19,7 @@ export const dragonBallSuperBroly = {
     },
   ],
   title: "Dragon Ball Super: Broly",
-  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
+  streamingOn: ["streaming-service/crunchyroll", "streaming-service/hulu"],
   createdAt: "2026-10-28T18:54:01.045Z",
-  updatedAt: "2026-10-28T19:46:53.289Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie

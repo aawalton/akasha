@@ -23,7 +23,7 @@ export const annieSPoint = {
   imdbId: "tt0441733",
   posterPath: "/5fxbVbesest1TWgxgDOziR2PWWD.jpg",
   voteAverage: 5.6,
-  streamingOn: ["Xumo Play"],
+  streamingOn: ["streaming-service/xumo-play"],
   createdAt: "2026-10-25T19:43:49.795Z",
-  updatedAt: "2026-10-25T19:43:49.795Z",
+  updatedAt: "2026-10-28T20:38:30.445Z",
 } as const satisfies Movie
