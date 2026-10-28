@@ -4,7 +4,7 @@ export type FlowPart = "event" | "changes" | "prose" | "memory" | "pictured"
 
 export type Ready = { readonly turn: number; readonly beat: number }
 
-export const AFTER: Readonly<{ [part in FlowPart]: FlowPart | null }> = {
+const AFTER: Readonly<{ [part in FlowPart]: FlowPart | null }> = {
   event: null,
   changes: "event",
   prose: "changes",
@@ -23,7 +23,7 @@ export function filledOn(held: Beats, beat: number, part: FlowPart): boolean {
   return (held.none ?? []).some((one) => one.beat === beat && one.part === part)
 }
 
-export function filledThrough(held: Beats, part: FlowPart): number {
+function filledThrough(held: Beats, part: FlowPart): number {
   let beat = 0
   while (filledOn(held, beat + 1, part)) beat += 1
   return beat
