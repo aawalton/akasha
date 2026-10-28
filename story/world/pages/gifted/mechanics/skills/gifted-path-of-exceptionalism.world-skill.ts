@@ -7,7 +7,8 @@ export const giftedPathOfExceptionalism = {
   title: "Path of Exceptionalism",
   world: "world/gifted",
   abilityKind: "world-ability-kind/gifted-path",
+  tierSteps: [10, 100, 500],
   description: "An Elite Path walked by doing what is exceptional.",
   createdAt: "2026-10-27T19:36:42.513Z",
-  updatedAt: "2026-10-28T00:39:10.863Z",
+  updatedAt: "2026-10-28T14:31:00.657Z",
 } as const satisfies WorldSkill

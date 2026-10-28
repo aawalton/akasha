@@ -106,11 +106,15 @@ export const giftedRebornNala = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Slaying the Demon Prince unborn grants her the Path of the Completionist and 2 Unallocated Stats.",
+      fact: "Slaying the Demon Prince unborn opens her Path of Exceptionalism with 20 steps, past its first Tier.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Soulstealing and the Completionist are her only Paths; no other Path has opened yet.",
+      fact: "Exceptionalism's first Tier unlocks the Advanced Attribute Talented, which she holds at 100.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Exceptionalism and Soulstealing are the Paths her Status opens with.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -183,5 +187,5 @@ export const giftedRebornNala = {
     },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:56:47.166Z",
+  updatedAt: "2026-10-28T14:31:00.657Z",
 } as const satisfies Lore

@@ -73,24 +73,7 @@ export const giftedRebornStepsEarned = {
       decisionKind: "decision-kind/departure",
       statement: "The Completionist takes no deed, and no other Path takes a Path completed.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The Completionist runs on the books' rules, as Alan chose over what her window first showed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "What Nala received under the window she was first shown stays hers.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The books' Completionist rules run from her next gain on that Path.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "She held 0 Completionist steps and no reward from it, so 0 steps carry over unchanged.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -149,5 +132,5 @@ export const giftedRebornStepsEarned = {
     },
   ],
   createdAt: "2026-10-28T14:10:38.030Z",
-  updatedAt: "2026-10-28T14:21:44.538Z",
+  updatedAt: "2026-10-28T14:31:00.657Z",
 } as const satisfies WorldCheck

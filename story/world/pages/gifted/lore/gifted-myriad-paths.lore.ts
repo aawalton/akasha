@@ -230,11 +230,7 @@ export const giftedMyriadPaths = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Nala's window first showed the Completionist as one step a Path, its first Tier at 1 step.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "From her next gain on it, Nala's Completionist runs as every Completionist does.",
+      fact: "Exceptionalism's first three Tiers fall at 10, 100 and 500 steps.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -295,5 +291,5 @@ export const giftedMyriadPaths = {
     },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T14:21:44.538Z",
+  updatedAt: "2026-10-28T14:31:00.657Z",
 } as const satisfies Lore
