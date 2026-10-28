@@ -11,9 +11,15 @@ export const marchComesInLikeALion = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "65336", externalLink: "https://www.themoviedb.org/tv/65336" },
+    {
+      source: "tmdb",
+      externalId: "65336",
+      externalLink: "https://www.themoviedb.org/tv/65336",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "March Comes In Like a Lion",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:55:36.330Z",
-  updatedAt: "2026-10-28T18:55:36.330Z",
+  updatedAt: "2026-10-28T19:45:00.495Z",
 } as const satisfies Show
