@@ -4,6 +4,7 @@ import type { AnsweredBy } from "akasha/person/properties/answered-by.relation-p
 import type { BirthDate } from "akasha/person/properties/birth-date.calendar-date-property.types.ts"
 import type { BloodPressureCategory } from "akasha/person/properties/blood-pressure-category.select-property.types.ts"
 import type { Bodyweight } from "akasha/person/properties/bodyweight.number-property.types.ts"
+import type { ColorectalScreening } from "akasha/person/properties/colorectal-screening.select-property.types.ts"
 import type { FamilyHistory } from "akasha/person/properties/family-history.record-property.types.ts"
 import type { FirearmAccess } from "akasha/person/properties/firearm-access.boolean-property.types.ts"
 import type { HealthConditions } from "akasha/person/properties/health-conditions.record-property.types.ts"
@@ -38,6 +39,7 @@ export type Person = Domain & {
   meatServingsPerWeek?: MeatServingsPerWeek
   firearmAccess?: FirearmAccess
   bloodPressureCategory?: BloodPressureCategory
+  colorectalScreening?: ColorectalScreening
   physicalRiskActivities?: PhysicalRiskActivities
   familyHistory?: FamilyHistory
   healthConditions?: HealthConditions
