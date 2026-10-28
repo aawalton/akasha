@@ -11,6 +11,7 @@ export const irisGameMasterOutcomeCardsCheck = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "cf86d784-11ca-403a-85b8-367e3d9fbd61",
   createdAt: "2026-10-28T01:26:22.182Z",
-  updatedAt: "2026-10-28T01:26:22.182Z",
+  updatedAt: "2026-10-28T01:26:25.604Z",
 } as const satisfies Seat
