@@ -6,6 +6,17 @@ export const inventoryQuestRelevance = {
   slug: "inventory-quest-relevance",
   definition: "whether an item link is one a quest still needs",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An item is needed for a daily writ where it fulfils a condition of a daily crafting quest held.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A daily writ held in the journal is still owed, whatever its conditions count.",
+    },
+  ],
   createdAt: "2026-09-02T13:39:35.854Z",
-  updatedAt: "2026-09-21T17:37:10.000Z",
+  updatedAt: "2026-10-28T18:39:12.240Z",
 } as const satisfies Module

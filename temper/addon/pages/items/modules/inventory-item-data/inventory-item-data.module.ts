@@ -51,7 +51,11 @@ export const inventoryItemData = {
       statement:
         "A slot records whether its item is an unbound set piece the account has not collected.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot with a crafted item records whether a daily writ held asks for that item.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.853Z",
-  updatedAt: "2026-10-08T14:34:59.000Z",
+  updatedAt: "2026-10-28T18:39:12.240Z",
 } as const satisfies Module

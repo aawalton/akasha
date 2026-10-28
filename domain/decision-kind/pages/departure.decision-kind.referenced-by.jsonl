@@ -4722,6 +4722,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.ts","id":"01a0d4a7-fd95-712e-997a-e1cf26ec6a80"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-provisioning/inventory-craft-shortfall-provisioning.module.ts","id":"01a0d4ad-3d1a-7e34-ae35-c1f07a79ed05"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall/inventory-craft-shortfall.module.ts","id":"01a0d4ac-7aff-775b-b639-3af515c95fd0"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-crafted-seen/inventory-crafted-seen.module.ts","id":"01a183cf-2170-7bf1-a68a-ca3dcf95b432"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-currency/inventory-currency.module.ts","id":"01a06258-b52a-7942-8b11-daff55c0534e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.ts","id":"01a06258-b52a-73ae-8e70-29b3bb5beb50"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.ts","id":"01a06258-b52b-7a61-a1ab-0439cd103604"}
@@ -4734,6 +4735,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-open-room-wait/inventory-open-room-wait.module.ts","id":"01a0e36b-6780-7059-8c73-9310ce62bc0b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-plan-venue/inventory-plan-venue.module.ts","id":"01a12622-b1f8-71af-8b51-6313b1c100b6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.ts","id":"01a06258-b52e-7092-b8df-b96f86d39d15"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-quest-relevance/inventory-quest-relevance.module.ts","id":"01a06258-b52e-7f91-83d1-0448bcfb2b62"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rule-held/inventory-rule-held.module.ts","id":"01a0e315-95ad-766e-95c5-a7a104008d5a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-buy-core/inventory-rules-buy-core.module.ts","id":"01a06258-b52e-7528-93cd-2becebd25548"}

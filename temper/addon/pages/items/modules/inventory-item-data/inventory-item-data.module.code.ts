@@ -1,5 +1,8 @@
 import { recordOwnLinkValues } from "akasha/temper/addon/pages/items/modules/inventory-item-own-link/inventory-item-own-link.module.code.ts"
-import { isItemLinkQuestRelevant } from "akasha/temper/addon/pages/items/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
+import {
+  isItemLinkQuestRelevant,
+  isSlotNeededForDailyWrit,
+} from "akasha/temper/addon/pages/items/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
 import type { ItemData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import { isTemperLocked } from "akasha/temper/addon/pages/items/modules/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
 import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
@@ -160,6 +163,7 @@ export function extractItemData(bagId: number, slotIndex: number): ItemData | un
   result.junk = IsItemJunk(bagId, slotIndex)
   result.junkable = CanItemBeMarkedAsJunk(bagId, slotIndex)
   result.crafted = isItemLinkCraftedSafe(itemLink, itemType)
+  if (result.crafted) result.dailyWritNeeded = isSlotNeededForDailyWrit(bagId, slotIndex)
   if (itemType === ITEMTYPE_RECIPE) {
     result.known = IsItemLinkRecipeKnown(itemLink)
   } else if (GetItemLinkItemUseType(itemLink) === ITEM_USE_TYPE_COLLECTIBLE_GRANT) {

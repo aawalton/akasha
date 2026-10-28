@@ -11,6 +11,10 @@ import {
   PERSONAL_BAGS,
 } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
+  stampArrivedSlot,
+  stampScannedBag,
+} from "akasha/temper/addon/pages/items/modules/inventory-crafted-seen/inventory-crafted-seen.module.code.ts"
+import {
   extractItemData,
   resolvePriceSource,
 } from "akasha/temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts"
@@ -42,6 +46,7 @@ function scanLocation(key: string, displayName: string, bags: number[]): undefin
   }
   for (const bagId of bags) {
     const scanned = scanBag(bagId)
+    stampScannedBag(key, bagId, scanned)
     carryResolvedActionsForward(previous[bagId], scanned)
     location.bags[bagId] = scanned
     const size = GetBagSize(bagId)
@@ -67,6 +72,7 @@ export function updateSlot(bagId: number, slotIndex: number): undefined {
   const previousItem = location.bags[bagId][slotIndex]
   const item = extractItemData(bagId, slotIndex)
   if (item) {
+    stampArrivedSlot(bagId, slotIndex, item)
     if (
       previousItem !== undefined &&
       previousItem.resolvedAction !== undefined &&

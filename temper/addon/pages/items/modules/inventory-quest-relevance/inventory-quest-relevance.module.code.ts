@@ -27,3 +27,35 @@ export function isItemLinkQuestRelevant(itemLink: string): boolean {
   }
   return false
 }
+
+function isDailyCraftingWrit(questIndex: number): boolean {
+  if (!IsValidQuestIndex(questIndex)) return false
+  if (GetJournalQuestRepeatType(questIndex) !== QUEST_REPEAT_DAILY) return false
+  const questType = GetJournalQuestType(questIndex)
+  return questType === QUEST_TYPE_CRAFTING || questType === QUEST_TYPE_HOLIDAY_EVENT
+}
+
+export function isSlotNeededForDailyWrit(bagId: number, slotIndex: number): boolean {
+  for (let questIndex = 1; questIndex <= MAX_JOURNAL_QUESTS; questIndex++) {
+    if (isDailyCraftingWrit(questIndex)) {
+      const numSteps = GetJournalQuestNumSteps(questIndex)
+      for (let stepIndex = 1; stepIndex <= numSteps; stepIndex++) {
+        const numConditions = GetJournalQuestNumConditions(questIndex, stepIndex)
+        for (let conditionIndex = 1; conditionIndex <= numConditions; conditionIndex++) {
+          if (
+            DoesItemFulfillJournalQuestCondition(
+              bagId,
+              slotIndex,
+              questIndex,
+              stepIndex,
+              conditionIndex
+            )
+          ) {
+            return true
+          }
+        }
+      }
+    }
+  }
+  return false
+}

@@ -252,6 +252,8 @@ export interface SavedVariablesData {
   transmuteCrystalAmount?: number
   questAnnotations?: Record<string, QuestAnnotation>
   temperLocks?: Record<string, true>
+  craftedSeen?: Record<string, number>
+  craftedSeenPlaces?: Record<string, true>
   pendingSettingsMutations?: ItemRuleVerdictMutation[]
   perf?: { loadTimeMs: number }
   session: { startTime: number; startNetWorth: number; startCharId: string }
