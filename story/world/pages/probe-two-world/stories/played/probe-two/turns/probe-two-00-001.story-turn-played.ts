@@ -13,9 +13,9 @@ export const probeTwo00001 = {
   action: "I walk over to the well and look down into it.",
   beats: "jsonl",
   lore: ["place/probe-two-world-square"],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/scene", "story-reviewer/continuity"],
   createdAt: "2026-10-27T23:47:43.474Z",
-  updatedAt: "2026-10-28T00:04:51.069Z",
+  updatedAt: "2026-10-28T00:05:01.471Z",
   ownLength: 235,
   endsAt: "2026-11-11T09:32:00.000Z",
 } as const satisfies StoryTurnPlayed
