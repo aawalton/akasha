@@ -7,7 +7,7 @@ export const furnHearth = {
   title: "Hearth",
   parent: "temper-item-category-tree/furnishings",
   displayOrder: 6,
-  furnitureCategoryIds: [7],
+  furnitureCategoryIds: [8],
   createdAt: "2026-09-02T01:51:00.090Z",
-  updatedAt: "2026-09-22T20:49:49.000Z",
+  updatedAt: "2026-10-28T19:29:15.609Z",
 } as const satisfies TemperItemCategoryTree

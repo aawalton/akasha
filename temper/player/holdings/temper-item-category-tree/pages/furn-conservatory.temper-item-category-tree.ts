@@ -7,7 +7,7 @@ export const furnConservatory = {
   title: "Conservatory",
   parent: "temper-item-category-tree/furnishings",
   displayOrder: 10,
-  furnitureCategoryIds: [11],
+  furnitureCategoryIds: [12],
   createdAt: "2026-09-02T01:51:00.077Z",
-  updatedAt: "2026-09-22T20:49:49.000Z",
+  updatedAt: "2026-10-28T19:29:15.609Z",
 } as const satisfies TemperItemCategoryTree
