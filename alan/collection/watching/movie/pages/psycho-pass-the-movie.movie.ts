@@ -15,9 +15,11 @@ export const psychoPassTheMovie = {
       source: "tmdb",
       externalId: "296917",
       externalLink: "https://www.themoviedb.org/movie/296917",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "PSYCHO-PASS: The Movie",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:51:48.624Z",
-  updatedAt: "2026-10-28T18:51:48.624Z",
+  updatedAt: "2026-10-28T19:47:59.890Z",
 } as const satisfies Movie
