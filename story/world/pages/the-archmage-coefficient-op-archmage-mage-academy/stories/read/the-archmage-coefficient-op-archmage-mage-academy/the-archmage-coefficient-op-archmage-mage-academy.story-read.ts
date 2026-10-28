@@ -5,7 +5,7 @@ export const theArchmageCoefficientOpArchmageMageAcademy = {
   type: "page-type/story-read",
   slug: "the-archmage-coefficient-op-archmage-mage-academy",
   author: "onedayokay",
-  following: true,
+  following: false,
   unit: "unit/words",
   title: "The Archmage Coefficient (OP Archmage/ Mage Academy/ LITRPG/ Hidden Genius)",
   world: "world/the-archmage-coefficient-op-archmage-mage-academy",
@@ -37,5 +37,5 @@ export const theArchmageCoefficientOpArchmageMageAcademy = {
   ],
   publicationStatus: "ongoing",
   createdAt: "2026-09-28T20:27:04.753Z",
-  updatedAt: "2026-09-28T20:27:05.000Z",
+  updatedAt: "2026-10-28T16:28:53.880Z",
 } as const satisfies StoryRead
