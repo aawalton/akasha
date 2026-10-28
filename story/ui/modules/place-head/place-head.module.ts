@@ -14,6 +14,10 @@ export const placeHead = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A place head draws the place's name larger than the tabs under the name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Under the name, the head holds the tabs the place's panels offer.",
     },
     {
@@ -35,5 +39,5 @@ export const placeHead = {
     },
   ],
   createdAt: "2026-10-28T19:08:37.650Z",
-  updatedAt: "2026-10-28T19:08:37.650Z",
+  updatedAt: "2026-10-28T20:18:37.335Z",
 } as const satisfies Module
