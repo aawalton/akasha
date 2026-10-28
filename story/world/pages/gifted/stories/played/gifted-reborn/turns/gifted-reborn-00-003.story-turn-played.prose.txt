@@ -19,9 +19,8 @@ note: Path: Path of Exceptionalism, unlocked with 20 steps; Path of Exceptionali
 name: Consume another soul and absorb it into your own
 :::
 
-:::item-award
-name: Reward
-note: Path: Path of Soulstealing; Steps: 0
+:::skill
+name: Path of Soulstealing
 :::
 
 :::status-assessment
