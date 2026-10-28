@@ -5678,6 +5678,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/explain-replay-reading/explain-replay-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/flag-fault-stage/flag-fault-stage.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/format-output/format-output.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/house-names-reading/house-names-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-config-reading/inventory-config-reading.module.ts","typed":true,"deferred":false}
@@ -5690,6 +5691,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-parity-trace/inventory-parity-trace.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-plan-saying/inventory-plan-saying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","typed":true,"deferred":false}

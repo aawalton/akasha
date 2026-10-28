@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/command/modules/inventory-parity-routing/inventory-parity-routing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/command/modules/inventory-plan-saying/inventory-plan-saying.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts","typed":true,"deferred":false}

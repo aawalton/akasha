@@ -102,6 +102,10 @@ export const temperInventoryPlan = {
       decisionKind: "decision-kind/departure",
       statement: "A run finding no undecided item says no item a rule reaches is left undecided.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The plan closes on the houses it places in and the houses to scan first.",
+    },
   ],
   name: "plan",
   arguments: [
@@ -112,5 +116,5 @@ export const temperInventoryPlan = {
     { argument: "argument/unmapped" },
   ],
   createdAt: "2026-09-02T03:49:49.654Z",
-  updatedAt: "2026-10-28T19:21:12.453Z",
+  updatedAt: "2026-10-28T19:51:46.182Z",
 } as const satisfies Command

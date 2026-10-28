@@ -63,6 +63,7 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-valid-skills/companion-valid-skills.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/command/modules/inventory-plan-saying/inventory-plan-saying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/economy/trading/listing/modules/browse-state/browse-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.code.ts","typed":false,"deferred":false}

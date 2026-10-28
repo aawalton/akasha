@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"inventory-management-plan-grouping.module.code.ts","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-management-plan-grouping.module.code.ts","path":"temper/command/modules/inventory-plan-saying/inventory-plan-saying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-management-plan-grouping.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-grouping/inventory-management-plan-grouping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-management-plan-grouping.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-simulation/inventory-management-plan-simulation.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-management-plan-grouping.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts","typed":false,"deferred":false}

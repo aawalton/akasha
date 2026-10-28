@@ -23,6 +23,7 @@ import {
   type TakenStack,
 } from "akasha/command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
+import { houseNames } from "akasha/temper/command/modules/house-names-reading/house-names-reading.module.code.ts"
 import type { CharacterKnowledge } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   capacityFilter,
@@ -36,6 +37,10 @@ import {
   ruleMatcher,
   ruleOutcomes,
 } from "akasha/temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+import {
+  housePlacementSaid,
+  planSaid,
+} from "akasha/temper/command/modules/inventory-plan-saying/inventory-plan-saying.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiableItem } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import {
@@ -46,21 +51,12 @@ import type {
   AffectedItem,
   ClassifiedInventoryItem,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import {
-  ALL_CATEGORIES_ID,
-  type ItemAction,
-} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { ALL_CATEGORIES_ID } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   IndeterminateReason,
   WalkOutcome,
 } from "akasha/temper/items/rules/eval/modules/eval-result/eval-result.module.code.ts"
-import type {
-  CharacterSession,
-  ManagementPlan,
-  PlanItem,
-  VenueStop,
-} from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
-import { stacksOf } from "akasha/temper/items/rules/routing/modules/inventory-management-plan-grouping/inventory-management-plan-grouping.module.code.ts"
+import { resolveCharacterName } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"
 
 const NAMED = [
   jsonArgument,
@@ -74,89 +70,7 @@ const INVENTORY_LUA = "TemperItems.lua"
 
 const SPACES = 2
 
-const PLAN_HEADER = "[TemperItems] Plan:"
-
 const UNMAPPED_HEADER = "[TemperItems] Unmapped:"
-
-function verbOf(action: ItemAction, destination: string | undefined): string {
-  switch (action) {
-    case "sell":
-    case "destroy":
-    case "fence-sell":
-      return "sell"
-    case "fence-launder":
-      return "launder"
-    case "list":
-      return "list"
-    case "mail":
-      return "mail"
-    case "deconstruct":
-      return "deconstruct"
-    case "refine":
-      return "refine"
-    case "fillet":
-      return "fillet"
-    case "research":
-      return "research"
-    case "character-equip":
-    case "companion-equip":
-      return "equip"
-    case "stock":
-      return "stock"
-    case "move-to":
-      return destination?.startsWith("character:") === true ? "withdraw" : "deposit"
-    case "use":
-      return "use"
-    case "open":
-      return "open"
-    case "fill":
-      return "fill"
-    case "nothing":
-    case "lock":
-    case "unlock":
-    case "bind":
-      return action
-    default:
-      return assertNever(action)
-  }
-}
-
-function venueRows(plan: ManagementPlan): ReadonlyMap<string, Map<string, number>> {
-  const labelToVerbs = new Map<string, Map<string, number>>()
-  const holdItem = (item: PlanItem, verbs: Map<string, number>): undefined => {
-    const verb = verbOf(item.action, undefined)
-    verbs.set(verb, (verbs.get(verb) ?? 0) + stacksOf(item))
-    return undefined
-  }
-  const holdVenue = (venue: VenueStop): undefined => {
-    let verbs = labelToVerbs.get(venue.label)
-    if (verbs === undefined) {
-      verbs = new Map()
-      labelToVerbs.set(venue.label, verbs)
-    }
-    for (const group of venue.actionGroups) for (const item of group.items) holdItem(item, verbs)
-    return undefined
-  }
-  const holdSession = (session: CharacterSession): undefined => {
-    for (const venue of session.venues) holdVenue(venue)
-    return undefined
-  }
-  for (const session of plan.sessions) holdSession(session)
-  return labelToVerbs
-}
-
-export function planSaid(plan: ManagementPlan): readonly string[] {
-  const rows = venueRows(plan)
-  if (rows.size === 0) return [PLAN_HEADER, "  (no actions pending)"]
-  const lines: string[] = [PLAN_HEADER]
-  for (const [label, verbs] of rows) {
-    const parts: string[] = []
-    for (const [verb, count] of verbs) parts.push(`${verb} ${count}`)
-    if (parts.length === 0) continue
-    lines.push(`  ${label} — ${parts.join(", ")}`)
-  }
-  return lines
-}
 
 interface UndecidedStack {
   readonly itemId: number
@@ -365,13 +279,19 @@ export async function temperInventoryPlan(argv: readonly string[], given: Given)
       if (taken.json) return told(JSON.stringify(report, null, SPACES).split("\n"))
       return told(unmappedSaid(report))
     }
-    const filtered = filter.applyDestinationCapacityFilter(
+    const filtered = filter.applyDestinationCapacityFilterWithAudit(
       orderedRules,
       itemRules,
       matched.ruleMap,
       db
     )
-    const plan = builder.buildManagementPlan(orderedRules, itemRules, filtered, db, context)
+    const plan = builder.buildManagementPlan(
+      orderedRules,
+      itemRules,
+      filtered.filteredMap,
+      db,
+      context
+    )
     if (taken.json) {
       return told(JSON.stringify(plan, null, SPACES).split("\n"))
     }
@@ -379,7 +299,9 @@ export async function temperInventoryPlan(argv: readonly string[], given: Given)
       const said = (await planChecklist()).formatPlanChecklist(plan)
       return told(said.replace(/\n+$/, "").split("\n"))
     }
-    return told(planSaid(plan))
+    const carrier = resolveCharacterName(context.characterPriority[0] ?? "", db)
+    const houses = housePlacementSaid(filtered.houses, await houseNames(), carrier)
+    return told([...planSaid(plan), ...houses])
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }

@@ -37,6 +37,8 @@ export const temperCommand = {
     "module/master-writ-probe-reading",
     "module/name-ordering",
     "module/venue-trace-saying",
+    "module/house-names-reading",
+    "module/inventory-plan-saying",
   ],
   decisions: [
     {
@@ -49,5 +51,5 @@ export const temperCommand = {
     },
   ],
   createdAt: "2026-09-02T03:40:20.106Z",
-  updatedAt: "2026-09-24T18:04:32.000Z",
+  updatedAt: "2026-10-28T19:51:46.182Z",
 } as const satisfies Domain

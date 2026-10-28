@@ -6030,6 +6030,7 @@
 {"propertySlug":"decision-kind","path":"temper/command/modules/eso-chatter-names/eso-chatter-names.module.ts","id":"01a069cf-7042-7000-8df6-e6b7ffd0efc8"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/explain-replay-reading/explain-replay-reading.module.ts","id":"01a06864-aa2b-7005-8de7-99cdead2fd47"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/flag-fault-stage/flag-fault-stage.module.ts","id":"01a07bca-476d-73d6-89a9-15c0d6172d43"}
+{"propertySlug":"decision-kind","path":"temper/command/modules/house-names-reading/house-names-reading.module.ts","id":"01a18411-9106-76cc-8e4b-f348da579aa8"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.ts","id":"01a068e2-2267-7365-a8e9-f53b7be80f20"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.ts","id":"01a0964a-e089-7068-b37d-04f4d57c8d1f"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-config-reading/inventory-config-reading.module.ts","id":"01a068e2-2268-7213-9a23-ecfcd6da6b5c"}
@@ -6042,6 +6043,7 @@
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-parity-trace/inventory-parity-trace.module.ts","id":"01a068e2-226f-7a3c-b3d4-e252ba74470d"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.ts","id":"01a068f6-dee0-7713-8806-b95995b92fdc"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.ts","id":"01a068e2-2271-7832-853b-12f5d89083b0"}
+{"propertySlug":"decision-kind","path":"temper/command/modules/inventory-plan-saying/inventory-plan-saying.module.ts","id":"01a18411-9106-7195-a745-c820a0f46ac1"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-reading/inventory-reading.module.ts","id":"01a068e2-226c-7031-8b22-521c27850f03"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.ts","id":"01a09f6b-6ce3-7c23-8e9b-6f17d1c8fd44"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}

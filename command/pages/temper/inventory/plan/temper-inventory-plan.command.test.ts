@@ -3,12 +3,12 @@ import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   endingRuleIds,
-  planSaid,
   temperInventoryPlan,
   undecidedByItem,
   unmappedItems,
   unmappedSaid,
 } from "akasha/command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"
+import { planSaid } from "akasha/temper/command/modules/inventory-plan-saying/inventory-plan-saying.module.code.ts"
 import {
   type CompiledOrderedRule,
   IMPLICIT_TERMINAL_COMPILED_RULE,
