@@ -169,9 +169,14 @@ export const narrationSegments = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A window naming an ability of a kind holding slots is said with neither its reward nor its steps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-10T18:14:27.052Z",
+  updatedAt: "2026-10-28T14:00:14.652Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module

@@ -89,6 +89,32 @@ export function describedIn(note: string): { label: string; value: string }[] {
   })
 }
 
+const UNTOLD = /\b(?:rewards?|steps?)\b/i
+
+const QUALIFIER = /\s*\([^)]*\)\s*$/
+
+export function abilityTitleIn(name: string): string {
+  return name.replace(QUALIFIER, "")
+}
+
+export function toldIn<Said extends { label: string; value: string }>(
+  descriptors: readonly Said[]
+): Said[] {
+  return descriptors.filter(({ label, value }) => !UNTOLD.test(label) && !UNTOLD.test(value))
+}
+
+export function slottedWindowOf(
+  window: WrittenWindow,
+  slotted: ReadonlySet<string>
+): WrittenWindow {
+  const { note, ...rest } = window
+  if (note === undefined || !slotted.has(abilityTitleIn(window.name ?? ""))) return window
+  const told = toldIn(describedIn(note))
+    .map(({ label, value }) => (label === "" ? value : `${label}${MARK}${value}`))
+    .join(LINES)
+  return told === "" ? rest : { ...rest, note: told }
+}
+
 function drawnOf({ kind, name = "", note, rung, level }: WrittenWindow): unknown {
   switch (kind) {
     case "level-up":

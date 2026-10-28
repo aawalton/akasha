@@ -1,12 +1,15 @@
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { activeSlots } from "akasha/story/world/mechanics/ability-kinds/properties/active-slots.number-property.ts"
 import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
 import { abilityKind } from "akasha/story/world/mechanics/skills/properties/ability-kind.relation-property.ts"
 
 type Values = Readonly<Record<string, unknown>>
 
 export const ABILITY_KIND_KEY = exportedAs(abilityKind.propertySlug)
+
+export const ACTIVE_SLOTS_KEY = exportedAs(activeSlots.propertySlug)
 
 export const TITLE_KEY = "title"
 
@@ -43,4 +46,38 @@ export function abilityKindTitlesOf(
   return new Map(
     [...titles].flatMap(([name, kind]): [string, string][] => (kind === null ? [] : [[name, kind]]))
   )
+}
+
+export function slottedTitlesOf(
+  skills: readonly Values[],
+  kinds: readonly Values[]
+): ReadonlySet<string> {
+  const slotted = new Set<string>()
+  for (const kind of kinds) {
+    const slug = textIn(kind[SLUG_KEY])
+    if (slug !== null && typeof kind[ACTIVE_SLOTS_KEY] === "number") slotted.add(slug)
+  }
+  return new Set(
+    skills.flatMap((one) => {
+      const title = textIn(one[TITLE_KEY])
+      return title !== null && slotted.has(kindSlugOf(one) ?? "") ? [title] : []
+    })
+  )
+}
+
+export type WorldAbilities = {
+  readonly abilityKinds: ReadonlyMap<string, string>
+  readonly slottedAbilities: ReadonlySet<string>
+}
+
+export const NO_ABILITIES: WorldAbilities = { abilityKinds: new Map(), slottedAbilities: new Set() }
+
+export function worldAbilitiesOf(
+  skills: readonly Values[],
+  kinds: readonly Values[]
+): WorldAbilities {
+  return {
+    abilityKinds: abilityKindTitlesOf(skills, kinds),
+    slottedAbilities: slottedTitlesOf(skills, kinds),
+  }
 }

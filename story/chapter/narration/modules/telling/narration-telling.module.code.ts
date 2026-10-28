@@ -15,9 +15,12 @@ import {
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 import {
   ABILITY_KIND_KEY,
-  abilityKindTitlesOf,
+  ACTIVE_SLOTS_KEY,
+  NO_ABILITIES,
   SLUG_KEY,
   TITLE_KEY,
+  type WorldAbilities,
+  worldAbilitiesOf,
 } from "akasha/story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts"
 import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
@@ -77,12 +80,12 @@ const UNREAD: ReadProgress = { ownProgress: null, ownLength: null }
 
 type Told<T> = { readonly held: T } | { readonly refused: string; readonly status: number }
 
-type ChapterRow = ChapterHeld & {
-  readonly story: string
-  readonly position: number | null
-  readonly pronunciations: readonly Pronunciation[]
-  readonly abilityKinds: ReadonlyMap<string, string>
-}
+type ChapterRow = ChapterHeld &
+  WorldAbilities & {
+    readonly story: string
+    readonly position: number | null
+    readonly pronunciations: readonly Pronunciation[]
+  }
 
 type StoryHeld = { readonly title: string; readonly world: string | null }
 
@@ -116,12 +119,13 @@ export function spokenSegmentsOf(
   prose: string,
   progress: ReadProgress = UNREAD,
   pronunciations: readonly Pronunciation[] = [],
-  abilityKinds: ReadonlyMap<string, string> = new Map()
+  { abilityKinds, slottedAbilities }: WorldAbilities = NO_ABILITIES
 ): NarrationSegment[] {
   const total = wordCount(prose)
   const length = progress.ownLength
   const scale = length !== null && length > 0 && total > 0 ? length / total : 1
-  const all = narrationSegmentsOf(prose, pronunciations, abilityKinds).map((one) => ({
+  const segments = narrationSegmentsOf(prose, pronunciations, abilityKinds, slottedAbilities)
+  const all = segments.map((one) => ({
     ...one,
     wordStart: Math.round(one.wordStart * scale),
   }))
@@ -234,17 +238,17 @@ async function pronunciationsOf(world: string | null): Promise<readonly Pronunci
   return pronunciationsFor(found.rows, world)
 }
 
-const NO_KINDS: ReadonlyMap<string, string> = new Map()
+const KIND_KEYS = [SLUG_KEY, TITLE_KEY, ACTIVE_SLOTS_KEY]
 
-async function abilityKindsOf(world: string | null): Promise<ReadonlyMap<string, string>> {
-  if (world === null) return NO_KINDS
+async function abilitiesOf(world: string | null): Promise<WorldAbilities> {
+  if (world === null) return NO_ABILITIES
   const where = { world: { is: world } }
   const [skills, kinds] = await Promise.all([
     askingFor({ pageTypeSlug: worldSkill.slug, where, keys: [TITLE_KEY, ABILITY_KIND_KEY] }),
-    askingFor({ pageTypeSlug: worldAbilityKind.slug, where, keys: [SLUG_KEY, TITLE_KEY] }),
+    askingFor({ pageTypeSlug: worldAbilityKind.slug, where, keys: KIND_KEYS }),
   ])
-  if ("refused" in skills || "refused" in kinds) return NO_KINDS
-  return abilityKindTitlesOf(skills.rows, kinds.rows)
+  if ("refused" in skills || "refused" in kinds) return NO_ABILITIES
+  return worldAbilitiesOf(skills.rows, kinds.rows)
 }
 
 async function rowHeld(pageTypeSlug: string, row: Row): Promise<Told<ChapterRow>> {
@@ -261,7 +265,7 @@ async function rowHeld(pageTypeSlug: string, row: Row): Promise<Told<ChapterRow>
       title: textIn(row.title) ?? "",
       storyTitle: told.title,
       pronunciations: await pronunciationsOf(told.world),
-      abilityKinds: await abilityKindsOf(told.world),
+      ...(await abilitiesOf(told.world)),
       ownLength: asNumber(row.ownLength),
       ownProgress: asNumber(row.ownProgress),
       completedAt: textIn(row.completedAt),
@@ -297,7 +301,7 @@ async function segmentsOf(chapter: ChapterRow): Promise<Told<NarrationSegment[]>
     new TextDecoder().decode(filed.bytes),
     chapter,
     chapter.pronunciations,
-    chapter.abilityKinds
+    chapter
   )
   if (segments.length === 0) return refused("the chapter has no words to narrate", 422)
   if (segments.length > MOST_SEGMENTS) {

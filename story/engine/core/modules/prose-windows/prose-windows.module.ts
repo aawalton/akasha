@@ -25,7 +25,16 @@ export const proseWindows = {
       decisionKind: "decision-kind/departure",
       statement: "A window whose fields draw no card is still cut out of the prose.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A window naming an ability of a kind holding slots shows neither a reward nor steps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name is matched to its ability with any bracketed qualifier after it dropped.",
+    },
   ],
   createdAt: "2026-09-24T16:45:13.902Z",
-  updatedAt: "2026-09-24T16:48:09.000Z",
+  updatedAt: "2026-10-28T14:00:14.652Z",
 } as const satisfies Module

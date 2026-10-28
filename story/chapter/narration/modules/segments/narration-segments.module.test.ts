@@ -79,6 +79,22 @@ describe("narrationSegmentsOf", () => {
     ])
   })
 
+  test("a window naming a slotted ability is said with neither its reward nor its steps", () => {
+    const prose = [
+      "Start.",
+      "",
+      ":::status-assessment",
+      "name: Path of Soulstealing",
+      "note: Tier 1: 10 steps; Reward: Aether Core rises one grade; Tier: 1",
+      ":::",
+    ].join("\n")
+    const said = narrationSegmentsOf(prose, [], new Map(), new Set(["Path of Soulstealing"]))
+    expect(said.map((one) => one.text)).toEqual([
+      "Start.",
+      "Status: Path of Soulstealing. Tier, 1.",
+    ])
+  })
+
   test("a segment starts at the count of the prose's own words before it", () => {
     const sentence = "The rain had not stopped for three days and the river kept rising."
     const prose = `Start.\n${Array.from({ length: 30 }, () => sentence).join(" ")}\nEnd.`

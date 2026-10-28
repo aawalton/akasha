@@ -13,6 +13,7 @@ import {
 } from "akasha/story/chapter/narration/modules/words/narration-words.module.code.ts"
 import {
   proseWindowSegmentsIn,
+  slottedWindowOf,
   type WrittenWindow,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
@@ -373,7 +374,11 @@ function windowWords(window: WrittenWindow): number {
   )
 }
 
-function blocksOf(prose: string, abilityKinds: ReadonlyMap<string, string>): Block[] {
+function blocksOf(
+  prose: string,
+  abilityKinds: ReadonlyMap<string, string>,
+  slotted: ReadonlySet<string>
+): Block[] {
   const blocks: Block[] = []
   const counted: Counted = { words: 0 }
   for (const run of proseWindowSegmentsIn(prose.replace(RETURNS, "\n"))) {
@@ -382,7 +387,8 @@ function blocksOf(prose: string, abilityKinds: ReadonlyMap<string, string>): Blo
       continue
     }
     const words = windowWords(run.window)
-    setApart(blocks, spokenWindow(run.window, abilityKinds), { wordStart: counted.words, words })
+    const said = spokenWindow(slottedWindowOf(run.window, slotted), abilityKinds)
+    setApart(blocks, said, { wordStart: counted.words, words })
     counted.words += words
   }
   return blocks
@@ -391,7 +397,8 @@ function blocksOf(prose: string, abilityKinds: ReadonlyMap<string, string>): Blo
 export function narrationSegmentsOf(
   prose: string,
   pronunciations: readonly Pronunciation[] = [],
-  abilityKinds: ReadonlyMap<string, string> = new Map()
+  abilityKinds: ReadonlyMap<string, string> = new Map(),
+  slotted: ReadonlySet<string> = new Set()
 ): NarrationSegment[] {
   const respelled = respellerOf(pronunciations)
   const segments: NarrationSegment[] = []
@@ -401,7 +408,7 @@ export function narrationSegmentsOf(
     if (packed !== "") segments.push({ text: packed, pauseAfterMs, wordStart: packedAt })
     packed = ""
   }
-  for (const block of blocksOf(prose, abilityKinds)) {
+  for (const block of blocksOf(prose, abilityKinds, slotted)) {
     const sentences = block.sentences.map((one) =>
       shoutedOf(respelled(one)).replace(ELLIPSIS, "...")
     )

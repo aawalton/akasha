@@ -2,6 +2,10 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { Asked } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
+import {
+  abilityTitleIn,
+  toldIn,
+} from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import type {
   ItemAward,
   QuestWindow,
@@ -16,9 +20,11 @@ import {
 } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import {
   ABILITY_KIND_KEY,
+  ACTIVE_SLOTS_KEY,
   abilityKindSlugsIn,
   abilityKindTitlesOf,
   SLUG_KEY,
+  slottedTitlesOf,
   TITLE_KEY,
 } from "akasha/story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts"
 import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
@@ -87,6 +93,9 @@ function QuestWindowCard({
 }
 
 function StatusAssessmentCard({ assessment }: { assessment: StatusAssessment }) {
+  const slotted = useSlotted(assessment.name)
+  const descriptors =
+    slotted === false ? assessment.descriptors : toldIn(assessment.descriptors ?? [])
   return (
     <WindowFrame banner="Status Assessment" bannerClass="text-accent">
       <div className="flex items-baseline justify-between gap-2">
@@ -119,7 +128,7 @@ function StatusAssessmentCard({ assessment }: { assessment: StatusAssessment }) 
           <ReadoutGrid record={assessment.pools} />
         </div>
       ) : null}
-      {assessment.descriptors?.map((descriptor, index) => (
+      {descriptors?.map((descriptor, index) => (
         <CardField
           key={`${descriptor.label}-${index}`}
           label={descriptor.label}
@@ -214,6 +223,46 @@ function useAbilityKindTitle(skill: string): string | null {
     }
   }, [skill])
   return title
+}
+
+async function slottedIs(name: string): Promise<boolean> {
+  const title = abilityTitleIn(name)
+  const skills = valuesOf(
+    await askedLoudly({
+      "page-type": worldSkill.slug,
+      where: { title: { is: title } },
+      keys: [TITLE_KEY, ABILITY_KIND_KEY],
+    })
+  )
+  const slugs = abilityKindSlugsIn(skills)
+  if (slugs.length === 0) return false
+  const kinds = valuesOf(
+    await askedLoudly({
+      "page-type": worldAbilityKind.slug,
+      where: { slug: { in: [...slugs] } },
+      keys: [SLUG_KEY, ACTIVE_SLOTS_KEY],
+    })
+  )
+  return slottedTitlesOf(skills, kinds).has(title)
+}
+
+function useSlotted(name: string): boolean | null {
+  const [slotted, setSlotted] = useState<boolean | null>(null)
+  useEffect(() => {
+    let alive = true
+    void slottedIs(name)
+      .catch((thrown: unknown) => {
+        reportThrown(`reading whether ${name} holds a slot`, thrown)
+        return true
+      })
+      .then((said) => {
+        if (alive) setSlotted(said)
+      })
+    return () => {
+      alive = false
+    }
+  }, [name])
+  return slotted
 }
 
 function SkillCard({ skill, rank }: { skill: string; rank?: string }) {

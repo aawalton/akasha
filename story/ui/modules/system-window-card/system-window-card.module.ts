@@ -20,7 +20,17 @@ export const systemWindowCard = {
       decisionKind: "decision-kind/departure",
       statement: "The heading is left blank until the kind is read, so no wrong name shows first.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A status card naming an ability of a kind holding slots shows neither a reward nor steps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A status card holds back a reward and steps until its name is read as no such ability.",
+    },
   ],
   createdAt: "2026-09-02T17:25:53.928Z",
-  updatedAt: "2026-10-28T00:59:16.919Z",
+  updatedAt: "2026-10-28T14:00:14.652Z",
 } as const satisfies Module

@@ -1,7 +1,9 @@
 import { describe, expect, test } from "bun:test"
 import {
+  abilityTitleIn,
   describedIn,
   proseWindowSegmentsIn,
+  slottedWindowOf,
   windowOf,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 
@@ -120,5 +122,42 @@ describe("windowOf", () => {
       { label: "Recovered from", value: "the Host's seat" },
       { label: "", value: "plain" },
     ])
+  })
+})
+
+const SLOTTED = new Set(["Path of Soulstealing", "Path of Basic Numeracy"])
+
+describe("slottedWindowOf", () => {
+  test("a slotted ability's window keeps neither its reward nor its steps", () => {
+    const window = {
+      kind: "status-assessment",
+      name: "Path of Soulstealing",
+      note: "Tier 1: 10 steps; Reward: Aether Core rises one grade",
+    }
+    expect(slottedWindowOf(window, SLOTTED)).toEqual({
+      kind: "status-assessment",
+      name: "Path of Soulstealing",
+    })
+  })
+
+  test("what else the window says stays, and a qualifier after the name is looked past", () => {
+    expect(
+      slottedWindowOf(
+        { kind: "status-assessment", name: "Path of Basic Numeracy", note: "Tier: 2; Mental: +1" },
+        SLOTTED
+      ).note
+    ).toBe("Tier: 2; Mental: +1")
+    expect(
+      slottedWindowOf(
+        { kind: "status-assessment", name: "Path of Soulstealing (mutated)", note: "Steps: few" },
+        SLOTTED
+      ).note
+    ).toBeUndefined()
+    expect(abilityTitleIn("Path of Soulstealing (mutated)")).toBe("Path of Soulstealing")
+  })
+
+  test("a window naming no slotted ability is left whole", () => {
+    const window = { kind: "status-assessment", name: "Fireball", note: "Reward: warmth" }
+    expect(slottedWindowOf(window, SLOTTED)).toBe(window)
   })
 })

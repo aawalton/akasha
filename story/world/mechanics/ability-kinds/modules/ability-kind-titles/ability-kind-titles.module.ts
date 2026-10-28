@@ -21,10 +21,14 @@ export const abilityKindTitles = {
       statement: "A skill naming no ability kind is named to no kind.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill is slotted where the kind it names states its active slots.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the store, so what is handed in is all that is read.",
     },
   ],
   createdAt: "2026-10-28T00:57:47.694Z",
-  updatedAt: "2026-10-28T00:57:47.694Z",
+  updatedAt: "2026-10-28T14:00:14.652Z",
 } as const satisfies Module
