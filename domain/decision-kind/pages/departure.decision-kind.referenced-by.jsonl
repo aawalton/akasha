@@ -6388,6 +6388,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/matcher/modules/rule-matcher-context-skill-lines/rule-matcher-context-skill-lines.module.ts","id":"01a06151-370e-7c6e-8369-9aab90a53fd0"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/matcher/modules/rule-matcher-context/rule-matcher-context.module.ts","id":"01a06281-4830-7015-96c4-299ce28f446e"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/matcher/modules/web-eval-env/web-eval-env.module.ts","id":"01a06151-370e-7c65-8456-25031d62896e"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/matcher/modules/web-item-facts/web-item-facts.module.ts","id":"01a06151-370f-7640-8a17-8e63877bb9d9"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/matcher/temper-items-rules-matcher.domain.ts","id":"01a06151-370e-7f21-be1d-3df9be256684"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/matcher/test-fixtures/compile-rules/compile-rules.test-fixture.ts","id":"01a06151-370b-7db1-8ce0-836dab4a6093"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/matcher/test-fixtures/inventory-rule-matcher-property-fixtures/inventory-rule-matcher-property-fixtures.test-fixture.ts","id":"01a06281-4830-72b8-a8a5-7323d4ed93c2"}

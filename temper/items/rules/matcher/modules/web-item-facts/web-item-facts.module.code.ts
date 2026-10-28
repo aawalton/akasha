@@ -15,6 +15,7 @@ export function webItemFactsFromClassified(
     nodeIds: ci.nodeIds,
     location: locationConditionFromKeyAndBag(ci.locationKey, ci.bagId),
     itemKey: resolveItemKey(ci.item, context),
+    nowSec: Math.floor(Date.now() / 1000),
   })
 }
 
