@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/items/core/modules/inventory-parser-account-state/inventory-parser-account-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/items/core/modules/inventory-parser-house/inventory-parser-house.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/items/core/modules/inventory-parser-own-link/inventory-parser-own-link.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/player/character/temper-account-character/modules/character-lines-landing/character-lines-landing.module.code.ts","typed":false,"deferred":false}

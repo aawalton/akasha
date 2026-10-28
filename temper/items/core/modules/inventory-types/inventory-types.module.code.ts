@@ -46,6 +46,7 @@ export interface InventoryItemData {
   furnitureCategory?: string
   furnitureCategoryId?: number
   furnitureSubcategoryId?: number
+  furnishingLimitType?: number
   setId?: number
   isContainer?: boolean
   enchantHeader?: string
@@ -95,6 +96,7 @@ export interface PlacedFurnishingData {
   quality: number
   itemLink: string
   collectibleLink: string
+  furnishingLimitType?: number
   saleAvg?: number
   minPrice?: number
   amountCount?: number
@@ -103,12 +105,24 @@ export interface PlacedFurnishingData {
   marketValue?: number
 }
 
+export interface HouseFurnishingLimit {
+  limit: number
+  placed: number
+}
+
+export interface HouseData {
+  collectibleId: number
+  houseId: number
+  furnishingLimits: Record<number, HouseFurnishingLimit>
+}
+
 export interface InventoryLocationData {
   bags: Record<number, Record<number, InventoryItemData>>
   bagSizes?: Record<number, number>
   displayName: string
   lastScanned: number
   placedFurnishings?: Record<string, PlacedFurnishingData>
+  house?: HouseData
 }
 
 export type CurrencyBalances = Record<string, number>

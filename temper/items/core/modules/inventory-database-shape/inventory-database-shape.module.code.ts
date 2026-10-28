@@ -24,6 +24,7 @@ const itemSchema = z
     furnitureCategory: z.string().optional(),
     furnitureCategoryId: z.number().optional(),
     furnitureSubcategoryId: z.number().optional(),
+    furnishingLimitType: z.number().optional(),
     setId: z.number().optional(),
     isContainer: z.boolean().optional(),
     enchantHeader: z.string().optional(),
@@ -77,12 +78,24 @@ const placedFurnishingSchema = z
     quality: z.number(),
     itemLink: z.string(),
     collectibleLink: z.string(),
+    furnishingLimitType: z.number().optional(),
     saleAvg: z.number().optional(),
     minPrice: z.number().optional(),
     amountCount: z.number().optional(),
     saleAmountCount: z.number().optional(),
     suggestedPrice: z.number().optional(),
     marketValue: z.number().optional(),
+  })
+  .strict()
+
+const houseSchema = z
+  .object({
+    collectibleId: z.number(),
+    houseId: z.number(),
+    furnishingLimits: z.record(
+      z.number(),
+      z.object({ limit: z.number(), placed: z.number() }).strict()
+    ),
   })
   .strict()
 
@@ -93,6 +106,7 @@ const locationSchema = z
     displayName: z.string(),
     lastScanned: z.number(),
     placedFurnishings: z.record(z.string(), placedFurnishingSchema).optional(),
+    house: houseSchema.optional(),
   })
   .strict()
 

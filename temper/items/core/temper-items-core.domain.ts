@@ -57,6 +57,8 @@ export const temperItemsCore = {
     "module/item-category-tree-reading",
     "module/item-category-tree-loading",
     "page-type/temper-browser-category",
+    "module/inventory-parser-house",
+    "module/inventory-parser-name",
   ],
   decisions: [
     {
@@ -69,5 +71,5 @@ export const temperItemsCore = {
     },
   ],
   createdAt: "2026-09-02T06:12:35.067Z",
-  updatedAt: "2026-09-27T06:01:00.000Z",
+  updatedAt: "2026-10-28T19:32:46.552Z",
 } as const satisfies Domain

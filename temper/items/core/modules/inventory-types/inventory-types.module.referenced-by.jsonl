@@ -27,6 +27,7 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-net-worth/inventory-net-worth.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-parser-house/inventory-parser-house.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-parser-inference/inventory-parser-inference.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-parser-own-link/inventory-parser-own-link.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-parser-own-link/inventory-parser-own-link.module.test.ts","typed":true,"deferred":false}

@@ -57,7 +57,22 @@ export const inventoryTypes = {
       decisionKind: "decision-kind/departure",
       statement: "A crafted item carries `dailyWritNeeded`, whether a daily writ held asks for it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A furnishing and a placed furnishing carry `furnishingLimitType`, the house limit it counts against.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A house location carries `house`, the house's collectible id, house id and furnishing limits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A house's furnishing limits are keyed by limit type, each stating the limit and the count placed.",
+    },
   ],
   createdAt: "2026-09-02T06:18:53.859Z",
-  updatedAt: "2026-10-28T18:35:47.017Z",
+  updatedAt: "2026-10-28T19:32:46.552Z",
 } as const satisfies Module

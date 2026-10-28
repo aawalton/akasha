@@ -6183,6 +6183,8 @@
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-database-shape/inventory-database-shape.module.ts","id":"01a0d5b6-43b6-77aa-8216-966a0d5e77c2"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.ts","id":"01a060c5-3c20-76ca-a588-a08622426e47"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.ts","id":"01a0626e-3e05-702f-9116-c504ffbe4049"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser-house/inventory-parser-house.module.ts","id":"01a18400-2d58-71da-9e7e-b802e7587f87"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser-name/inventory-parser-name.module.ts","id":"01a18400-2d59-7a02-a943-22feeddc8933"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser-own-link/inventory-parser-own-link.module.ts","id":"01a0e173-815b-79b9-a56f-35777ee82907"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.ts","id":"01a060c5-3c22-7fe6-8e12-c63f5595790d"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.ts","id":"01a060c5-3c23-74f6-af7d-2a1dd331431c"}

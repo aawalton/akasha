@@ -11,9 +11,14 @@ import {
   parseTransmuteCrystalCap,
 } from "akasha/temper/items/core/modules/inventory-parser-account-state/inventory-parser-account-state.module.code.ts"
 import {
+  parseHouse,
+  parsePlacedFurnishing,
+} from "akasha/temper/items/core/modules/inventory-parser-house/inventory-parser-house.module.code.ts"
+import {
   inferCompanionProperties,
   inferPlayerArmorProperties,
 } from "akasha/temper/items/core/modules/inventory-parser-inference/inventory-parser-inference.module.code.ts"
+import { cleanItemName } from "akasha/temper/items/core/modules/inventory-parser-name/inventory-parser-name.module.code.ts"
 import { parseOwnLinkValues } from "akasha/temper/items/core/modules/inventory-parser-own-link/inventory-parser-own-link.module.code.ts"
 import type {
   CharacterCurrencies,
@@ -26,8 +31,6 @@ import type {
   PriceSource,
   ResolvedActionSource,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
-import { parseItemLink } from "akasha/temper/items/core/modules/item-link-parser/item-link-parser.module.code.ts"
-import { stripEsoNameSuffix } from "akasha/temper/player/character/build/build-support/modules/eso-name/eso-name.module.code.ts"
 
 function asNumber(value: unknown): number {
   return typeof value === "number" ? value : 0
@@ -36,33 +39,6 @@ function asNumber(value: unknown): number {
 function parsePriceSource(value: unknown): PriceSource | undefined {
   if (value === "ttc" || value === "none") return value
   return undefined
-}
-
-const TITLE_CASE_LOWERCASE = new Set([
-  "of",
-  "the",
-  "a",
-  "an",
-  "and",
-  "or",
-  "in",
-  "on",
-  "at",
-  "to",
-  "for",
-  "with",
-])
-
-function cleanItemName(name: string): string {
-  const stripped = stripEsoNameSuffix(name)
-  return stripped.replace(/\S+/g, (word, offset: number) => {
-    if (offset > 0 && TITLE_CASE_LOWERCASE.has(word.toLowerCase())) return word.toLowerCase()
-    return word.charAt(0).toUpperCase() + word.slice(1)
-  })
-}
-
-function isItemLinkBound(itemLink: string): boolean {
-  return parseItemLink(itemLink)?.bound ?? false
 }
 
 function asOptionalNumber(value: unknown): number | undefined {
@@ -124,6 +100,9 @@ function parseItem(raw: unknown): InventoryItemData | undefined {
 
   const furnitureSubcategoryId = asOptionalNumber(item.furnitureSubcategoryId)
   if (furnitureSubcategoryId !== undefined) parsed.furnitureSubcategoryId = furnitureSubcategoryId
+
+  const furnishingLimitType = asOptionalNumber(item.furnishingLimitType)
+  if (furnishingLimitType !== undefined) parsed.furnishingLimitType = furnishingLimitType
 
   inferCompanionProperties(parsed)
   inferPlayerArmorProperties(parsed)
@@ -196,36 +175,6 @@ function parseItem(raw: unknown): InventoryItemData | undefined {
   return parsed
 }
 
-function parsePlacedFurnishing(raw: unknown): PlacedFurnishingData | undefined {
-  const f = asRecord(raw)
-  if (!f) return undefined
-
-  const parsed: PlacedFurnishingData = {
-    itemName: cleanItemName(parseString(f.itemName)),
-    quality: asNumber(f.quality),
-    itemLink: parseString(f.itemLink),
-    collectibleLink: parseString(f.collectibleLink),
-  }
-
-  if (parsed.itemLink !== "" && !isItemLinkBound(parsed.itemLink)) {
-    const saleAvg = asOptionalNumber(f.saleAvg)
-    const minPrice = asOptionalNumber(f.minPrice)
-    const amountCount = asOptionalNumber(f.amountCount)
-    const saleAmountCount = asOptionalNumber(f.saleAmountCount)
-    const suggestedPrice = asOptionalNumber(f.suggestedPrice)
-    const marketValue = asOptionalNumber(f.marketValue) ?? asOptionalNumber(f.estimatedValue)
-
-    if (saleAvg !== undefined) parsed.saleAvg = saleAvg
-    if (minPrice !== undefined) parsed.minPrice = minPrice
-    if (amountCount !== undefined) parsed.amountCount = amountCount
-    if (saleAmountCount !== undefined) parsed.saleAmountCount = saleAmountCount
-    if (suggestedPrice !== undefined) parsed.suggestedPrice = suggestedPrice
-    if (marketValue !== undefined) parsed.marketValue = marketValue
-  }
-
-  return parsed
-}
-
 function parseLocation(raw: unknown): InventoryLocationData | undefined {
   const loc = asRecord(raw)
   if (!loc) return undefined
@@ -282,6 +231,8 @@ function parseLocation(raw: unknown): InventoryLocationData | undefined {
   }
   if (bagSizes) result.bagSizes = bagSizes
   if (placedFurnishings) result.placedFurnishings = placedFurnishings
+  const house = parseHouse(loc.house)
+  if (house) result.house = house
   return result
 }
 
