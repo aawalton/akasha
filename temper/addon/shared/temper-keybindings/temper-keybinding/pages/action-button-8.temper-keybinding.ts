@@ -1,0 +1,13 @@
+import type { TemperKeybinding } from "akasha/temper/addon/shared/temper-keybindings/temper-keybinding/temper-keybinding.page-type.types.ts"
+
+export const actionButton8 = {
+  id: "01a18481-2b8f-788c-b86a-572171baa5a0",
+  type: "page-type/temper-keybinding",
+  slug: "action-button-8",
+  key: "ACTION_BUTTON_8",
+  bindings: [{ slot: 1, key: "KEY_R" }],
+  shared: true,
+  changedAt: "2026-10-28T21:42:33.155Z",
+  createdAt: "2026-10-28T21:53:40.236Z",
+  updatedAt: "2026-10-28T21:53:40.236Z",
+} as const satisfies TemperKeybinding

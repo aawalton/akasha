@@ -1,0 +1,17 @@
+import type { TemperKeybinding } from "akasha/temper/addon/shared/temper-keybindings/temper-keybinding/temper-keybinding.page-type.types.ts"
+
+export const housingEditorBeginFurnitureLinking = {
+  id: "01a18481-2b92-782f-84d9-332cc7fea75c",
+  type: "page-type/temper-keybinding",
+  slug: "housing-editor-begin-furniture-linking",
+  key: "HOUSING_EDITOR_BEGIN_FURNITURE_LINKING",
+  bindings: [
+    { slot: 1, key: "KEY_MOUSE_RIGHT" },
+    { slot: 2, key: "KEY_5" },
+    { slot: 3, key: "KEY_GAMEPAD_LEFT_STICK" },
+  ],
+  shared: true,
+  changedAt: "2026-10-28T21:42:33.155Z",
+  createdAt: "2026-10-28T21:53:40.236Z",
+  updatedAt: "2026-10-28T21:53:40.236Z",
+} as const satisfies TemperKeybinding
