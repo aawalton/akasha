@@ -4207,6 +4207,11 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/mechanics/checks/outcome-cards-check-training.world-check.ts","id":"01a17ffe-7d82-7cb2-a8e2-6312075d4784"}
 {"propertySlug":"decision-kind","path":"story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/mechanics/checks/outcome-cards-check-upkeep.world-check.ts","id":"01a17ffe-7d82-76b3-a74f-a7fb49cb2e74"}
 {"propertySlug":"decision-kind","path":"story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/mechanics/metrics/resources/points/outcome-cards-check-points.page-type.ts","id":"01a17ffe-7d81-7f52-a722-564bf6b08714"}
+{"propertySlug":"decision-kind","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/checks/paths-probe-action-check.world-check.ts","id":"01a18008-7533-75a3-81f1-d63b43732b87"}
+{"propertySlug":"decision-kind","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/checks/paths-probe-time-passing.world-check.ts","id":"01a18008-7533-729c-90de-f4c01b8166dc"}
+{"propertySlug":"decision-kind","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/checks/paths-probe-training.world-check.ts","id":"01a18008-7533-78b2-b1f2-467a05c36a4f"}
+{"propertySlug":"decision-kind","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/checks/paths-probe-upkeep.world-check.ts","id":"01a18008-7533-728f-a383-b1c3014c3b14"}
+{"propertySlug":"decision-kind","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/metrics/resources/points/paths-probe-points.page-type.ts","id":"01a18008-7533-7ea8-a718-4fdfbbdaf697"}
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-action-check.world-check.ts","id":"01a17fbf-aff5-77f9-8a21-3c90f97f9836"}
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-time-passing.world-check.ts","id":"01a17fbf-aff5-7e3f-9d50-281dbbd2a5a1"}
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-training.world-check.ts","id":"01a17fbf-aff5-7971-b3fe-026d1c8213e0"}

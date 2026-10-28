@@ -341,6 +341,10 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/outcome-cards-check-world/places/outcome-cards-check-world-hall.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/outcome-cards-check-world/places/outcome-cards-check-world-shop.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/outcome-cards-check-world/places/outcome-cards-check-world-square.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/paths-probe-world/places/paths-probe-world-cellar.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/paths-probe-world/places/paths-probe-world-hall.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/paths-probe-world/places/paths-probe-world-shop.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/paths-probe-world/places/paths-probe-world-square.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/probe-two-world/places/probe-two-world-cellar.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/probe-two-world/places/probe-two-world-hall.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/probe-two-world/places/probe-two-world-shop.place.ts","typed":true,"deferred":false}

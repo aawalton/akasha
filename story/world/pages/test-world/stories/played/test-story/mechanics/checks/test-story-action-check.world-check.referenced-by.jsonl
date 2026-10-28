@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"test-story-action-check.world-check.settling.code.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
 {"propertySlug":"settled-by","path":"story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/mechanics/checks/outcome-cards-check-action-check.world-check.ts","id":"01a17ffe-7d82-7ad0-97d2-9ce54e10c470"}
+{"propertySlug":"settled-by","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/checks/paths-probe-action-check.world-check.ts","id":"01a18008-7533-75a3-81f1-d63b43732b87"}
 {"propertySlug":"settled-by","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-action-check.world-check.ts","id":"01a17fbf-aff5-77f9-8a21-3c90f97f9836"}

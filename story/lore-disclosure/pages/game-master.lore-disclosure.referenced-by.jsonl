@@ -1279,6 +1279,13 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/outcome-cards-check-world/places/outcome-cards-check-world-hall.place.ts","id":"01a17ffe-7d82-7e74-9b05-a6ca86646fe3"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/outcome-cards-check-world/places/outcome-cards-check-world-shop.place.ts","id":"01a17ffe-7d82-7dec-b643-0d80148111e7"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/outcome-cards-check-world/places/outcome-cards-check-world-square.place.ts","id":"01a17ffe-7d82-7bc8-b1a0-6322715924c6"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/paths-probe-world/lore/paths-probe-world-folk.lore.ts","id":"01a18008-7533-7bb2-bfde-bdc2d7d6b846"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/paths-probe-world/lore/paths-probe-world-magic.lore.ts","id":"01a18008-7533-76cb-a4db-67ef3e93c1fc"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/paths-probe-world/lore/paths-probe-world-overview.lore.ts","id":"01a18008-7533-7a01-a535-cf5371d16ff4"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/paths-probe-world/places/paths-probe-world-cellar.place.ts","id":"01a18008-7533-703d-a0e7-fd42459a7cd3"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/paths-probe-world/places/paths-probe-world-hall.place.ts","id":"01a18008-7533-7987-b9d5-b0ea836c7798"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/paths-probe-world/places/paths-probe-world-shop.place.ts","id":"01a18008-7533-7baf-873e-8d39cca7062e"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/paths-probe-world/places/paths-probe-world-square.place.ts","id":"01a18008-7533-78da-bbe8-fce7dae9c925"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/probe-two-world/lore/probe-two-world-folk.lore.ts","id":"01a17fbf-aff5-7c19-9ae5-1764c0d41266"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/probe-two-world/lore/probe-two-world-magic.lore.ts","id":"01a17fbf-aff5-7a2b-b2b4-65630c750cd7"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/probe-two-world/lore/probe-two-world-overview.lore.ts","id":"01a17fbf-aff5-7ea4-9ca8-26962032227d"}

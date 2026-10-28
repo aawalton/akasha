@@ -57,6 +57,12 @@
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/outcome-cards-check-world/mechanics/items/outcome-cards-check-world-iron-sword.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/outcome-cards-check-world/mechanics/items/outcome-cards-check-world-lantern.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/outcome-cards-check-world/mechanics/items/outcome-cards-check-world-leather-coat.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/paths-probe-world/mechanics/items/paths-probe-world-brass-token.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/paths-probe-world/mechanics/items/paths-probe-world-copper-ore.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/paths-probe-world/mechanics/items/paths-probe-world-healing-draught.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/paths-probe-world/mechanics/items/paths-probe-world-iron-sword.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/paths-probe-world/mechanics/items/paths-probe-world-lantern.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/paths-probe-world/mechanics/items/paths-probe-world-leather-coat.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/probe-two-world/mechanics/items/probe-two-world-brass-token.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/probe-two-world/mechanics/items/probe-two-world-copper-ore.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/probe-two-world/mechanics/items/probe-two-world-healing-draught.world-item.ts","typed":true,"deferred":false}
