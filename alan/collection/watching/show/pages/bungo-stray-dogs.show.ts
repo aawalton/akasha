@@ -11,9 +11,15 @@ export const bungoStrayDogs = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "65931", externalLink: "https://www.themoviedb.org/tv/65931" },
+    {
+      source: "tmdb",
+      externalId: "65931",
+      externalLink: "https://www.themoviedb.org/tv/65931",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Bungo Stray Dogs",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:49:49.269Z",
-  updatedAt: "2026-10-28T18:49:49.269Z",
+  updatedAt: "2026-10-28T19:43:42.616Z",
 } as const satisfies Show
