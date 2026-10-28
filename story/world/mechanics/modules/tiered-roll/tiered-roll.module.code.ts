@@ -24,7 +24,7 @@ import { success } from "akasha/story/world/mechanics/checks/outcome-tiers/pages
 import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import { z } from "zod"
 
-export const TIERED_DICE = "3d60"
+const TIERED_DICE = "3d60"
 
 const CENTRE = 92
 
@@ -66,7 +66,7 @@ export type Term = { readonly from: string; readonly by: number }
 
 export type Named = { readonly skill?: string; readonly stat?: string }
 
-export type Termed = (named: Named) => { readonly answered: Term } | { readonly refused: string }
+type Termed = (named: Named) => { readonly answered: Term } | { readonly refused: string }
 
 type Tiered = {
   readonly outcome: string
@@ -78,7 +78,7 @@ type Tiered = {
 
 export type Settled = { readonly answered: Tiered } | { readonly refused: string }
 
-export type Unrevealing = (named: string) => boolean
+type Unrevealing = (named: string) => boolean
 
 const UNREVEALED = "unrevealed"
 
