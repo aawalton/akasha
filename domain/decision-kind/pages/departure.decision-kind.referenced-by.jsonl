@@ -4246,6 +4246,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/cover-redrawing/cover-redrawing.module.ts","id":"01a1060a-a302-7f33-a06f-8650c2870c98"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.ts","id":"01a0e851-25d9-756c-ab3b-35fef0612b06"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/difficulty-unnamed/difficulty-unnamed.module.ts","id":"01a17eef-b5f1-742c-b40f-9b3ebb76918f"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/modules/held-ability-sending/held-ability-sending.module.ts","id":"01a18007-3c58-7e0e-a411-717372d6b8e4"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/held-ability-setting/held-ability-setting.module.ts","id":"01a17fff-e228-73bd-b818-5444d87aa892"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-asking/played-asking.module.ts","id":"01a0e86a-1d93-7fc7-8864-8aa95de2706c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-beside/played-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}

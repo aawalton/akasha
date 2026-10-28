@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"active-slots.number-property.ts","path":"story/world/stories/played/modules/held-ability-setting/held-ability-setting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"active-slots.number-property.ts","path":"story/world/stories/played/modules/played-skills/played-skills.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"active-slots.number-property.types.ts","path":"story/world/mechanics/ability-kinds/world-ability-kind.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts","id":"01a17ff1-08c1-7ce1-ba38-4ef7f17de05a"}
 {"propertySlug":"parts","path":"story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts","id":"01a17ff1-08c1-7ce1-ba38-4ef7f17de05a"}

@@ -26,6 +26,7 @@ import {
   NO_OVERLAY,
   overlaidRows,
 } from "akasha/story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts"
+import { SHEET_CHANGED } from "akasha/story/world/stories/played/modules/held-ability-sending/held-ability-sending.module.code.ts"
 import {
   askedLoudly,
   reportThrown,
@@ -53,8 +54,10 @@ import {
 import {
   ABILITY_KIND_KEY,
   type AbilityKinds,
+  ACTIVE_SLOTS_KEY,
   ATTRIBUTE_KEY,
   abilityKindsIn,
+  DORMANT_KEY,
   EXPERIENCE_KEY,
   PLURAL_TITLE_KEY,
   skillMoreOf,
@@ -179,6 +182,7 @@ async function abilityKindsOf(skillRows: readonly QueryRow[]): Promise<AbilityKi
     SLUG_KEY,
     TITLE_KEY,
     PLURAL_TITLE_KEY,
+    ACTIVE_SLOTS_KEY,
   ])
   return abilityKindsIn(named, kindRows)
 }
@@ -235,6 +239,7 @@ async function readFiled(
         EXPERIENCE_KEY,
         ATTRIBUTE_KEY,
         ABILITY_KIND_KEY,
+        DORMANT_KEY,
         UNREVEALED_KEY,
       ],
     }),
@@ -349,6 +354,13 @@ export function usePlayedState(
 ): Filed | null {
   const slug = slugIn(character) ?? ""
   const [filed, setFiled] = useState<Filed | null>(null)
+  const [changed, setChanged] = useState(0)
+
+  useEffect(() => {
+    const again = () => setChanged((was) => was + 1)
+    window.addEventListener(SHEET_CHANGED, again)
+    return () => window.removeEventListener(SHEET_CHANGED, again)
+  }, [])
 
   useEffect(() => {
     if (slug === "" || turn === null) {
@@ -366,7 +378,7 @@ export function usePlayedState(
     return () => {
       alive = false
     }
-  }, [character, slug, turn, overlay, shown])
+  }, [character, slug, turn, overlay, shown, changed])
 
   return filed
 }

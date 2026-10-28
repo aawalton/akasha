@@ -28,7 +28,11 @@ export type ClientBeat = Beat
 export const ClientQuestSchema = z.object(QuestSchema.shape).strict()
 export type ClientQuest = z.infer<typeof ClientQuestSchema>
 
-const ClientAbilityKindSchema = z.object({ title: z.string(), pluralTitle: z.string() })
+const ClientAbilityKindSchema = z.object({
+  title: z.string(),
+  pluralTitle: z.string(),
+  activeSlots: z.number().optional(),
+})
 
 const ClientSkillSchema = z.object({
   name: z.string().optional(),
@@ -38,6 +42,8 @@ const ClientSkillSchema = z.object({
   experience: z.number().optional(),
   attribute: z.string().optional(),
   abilityKind: ClientAbilityKindSchema.optional(),
+  held: z.string().optional(),
+  dormant: z.boolean().optional(),
 })
 type ClientSkill = z.infer<typeof ClientSkillSchema>
 
@@ -177,6 +183,8 @@ function toClientSkill(raw: unknown): ClientSkill | null {
   if (typeof rec["attribute"] === "string") candidate["attribute"] = rec["attribute"]
   const kind = ClientAbilityKindSchema.safeParse(rec["abilityKind"])
   if (kind.success) candidate["abilityKind"] = kind.data
+  if (typeof rec["held"] === "string") candidate["held"] = rec["held"]
+  if (typeof rec["dormant"] === "boolean") candidate["dormant"] = rec["dormant"]
   const parsed = ClientSkillSchema.safeParse(candidate)
   return parsed.success ? parsed.data : null
 }

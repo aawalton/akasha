@@ -47,7 +47,11 @@ const JOINED = " and "
 
 type Titles = ReadonlyMap<string, string>
 
-export type AbilityKind = { readonly title: string; readonly pluralTitle: string }
+export type AbilityKind = {
+  readonly title: string
+  readonly pluralTitle: string
+  readonly activeSlots?: number
+}
 
 export type Skill = {
   readonly name: string
@@ -57,6 +61,8 @@ export type Skill = {
   readonly experience?: number
   readonly attribute?: string
   readonly abilityKind?: AbilityKind
+  readonly held?: string
+  readonly dormant?: boolean
 }
 
 export type Counted = { readonly name: string; readonly value?: number }

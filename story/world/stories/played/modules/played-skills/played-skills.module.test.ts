@@ -1,7 +1,9 @@
 import { expect, test } from "bun:test"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
+import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
 import { giftedPath } from "akasha/story/world/pages/gifted/mechanics/ability-kinds/gifted-path.world-ability-kind.ts"
 import { giftedPathOfEndurance } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-endurance.world-skill.ts"
@@ -46,6 +48,27 @@ test("a holding states its ability kind beside its experience", () => {
   expect(skillMoreOf(new Map(), KINDS)({ values: { skill: ENDURANCE, experience: 3 } })).toEqual({
     experience: 3,
     abilityKind: { title: "Path", pluralTitle: "Paths" },
+  })
+})
+
+test("a holding names its own page, whether it is set aside, and its kind's slots", () => {
+  const kinds = abilityKindsIn(
+    [{ values: { slug: giftedPathOfEndurance.slug, abilityKind: PATH } }],
+    [{ values: { slug: giftedPath.slug, title: "Path", pluralTitle: "Paths", activeSlots: 10 } }]
+  )
+  const slug = "nala-path-of-endurance"
+  const row = {
+    values: {
+      type: namedAs(pageType.slug, characterSkill.slug, null),
+      slug,
+      skill: ENDURANCE,
+      dormant: true,
+    },
+  }
+  expect(skillMoreOf(new Map(), kinds)(row)).toEqual({
+    abilityKind: { title: "Path", pluralTitle: "Paths", activeSlots: 10 },
+    held: namedAs(characterSkill.slug, slug, null),
+    dormant: true,
   })
 })
 

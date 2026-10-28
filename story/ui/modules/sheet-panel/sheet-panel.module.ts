@@ -64,6 +64,15 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A skill whose kind holds slots offers Set aside, or Take up once set aside, in place of Use.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill set aside says so beside its experience.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Skills are grouped under the attribute governing them, and the rest under Other.",
     },
     {
@@ -126,5 +135,5 @@ export const sheetPanel = {
     },
   ],
   createdAt: "2026-09-02T14:52:27.089Z",
-  updatedAt: "2026-10-28T00:42:25.403Z",
+  updatedAt: "2026-10-28T01:02:00.279Z",
 } as const satisfies Module

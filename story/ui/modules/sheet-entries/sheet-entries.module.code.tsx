@@ -10,6 +10,8 @@ import { Input } from "akasha/design/interface/primitive/modules/input/input.mod
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
+import type { Wanted } from "akasha/story/world/mechanics/modules/ability-slotting/ability-slotting.module.code.ts"
+import { sendHeldAbility } from "akasha/story/world/stories/played/modules/held-ability-sending/held-ability-sending.module.code.ts"
 import { ChevronDown } from "lucide-react"
 import { type ReactNode, useState } from "react"
 
@@ -22,6 +24,7 @@ export type Act = {
   readonly label: string
   readonly text: string
   readonly tone: "drop" | "plain" | "use"
+  readonly held?: { readonly page: string; readonly wanted: Wanted }
 }
 
 const NO_ACTS: readonly Act[] = []
@@ -127,6 +130,13 @@ function ActRow({ acts, acting }: { acts: readonly Act[]; acting: SheetActing })
     if (busy || game === undefined || submit === undefined) return
     setBusy(true)
     setSaid(null)
+    if (act.held !== undefined) {
+      const ask = { gameExternalId: game, held: act.held.page, wanted: act.held.wanted }
+      const changed = await sendHeldAbility(ask)
+      setSaid(changed.ok ? { ok: true, text: changed.event } : { ok: false, text: changed.error })
+      setBusy(false)
+      return
+    }
     const result = await submit({ gameExternalId: game, text: act.text })
     setSaid(result.ok ? { ok: true, text: SENT } : { ok: false, text: result.error })
     setBusy(false)

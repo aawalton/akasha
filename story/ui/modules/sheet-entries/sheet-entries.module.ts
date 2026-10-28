@@ -20,8 +20,13 @@ export const sheetEntries = {
       statement: "An act sends a turn in the player's words, the way a choice is sent.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No act changes a page itself, so the game master settles what it does.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An act naming a held ability sets it aside or takes it up at once, and makes no turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such an act is answered under the acts with the event its beat states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -37,5 +42,5 @@ export const sheetEntries = {
     },
   ],
   createdAt: "2026-10-27T19:04:03.834Z",
-  updatedAt: "2026-10-27T19:04:03.834Z",
+  updatedAt: "2026-10-28T01:02:00.279Z",
 } as const satisfies Module

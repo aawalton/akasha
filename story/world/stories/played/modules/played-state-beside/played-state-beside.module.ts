@@ -69,6 +69,10 @@ export const playedStateBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A read is asked again as the sheet sets a held ability aside or takes it up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A part the store refuses is reported and drawn as nothing, and the other parts are drawn.",
     },
@@ -78,5 +82,5 @@ export const playedStateBeside = {
     },
   ],
   createdAt: "2026-09-26T15:18:51.476Z",
-  updatedAt: "2026-10-27T20:30:20.835Z",
+  updatedAt: "2026-10-28T01:02:00.279Z",
 } as const satisfies Module

@@ -233,6 +233,17 @@ function usingOf(name: string): readonly Act[] {
   return [{ label: "Use", text: `I use ${name}`, tone: "use" }]
 }
 
+function actsOf(one: Held): readonly Act[] {
+  const name = one.name ?? ""
+  if (one.held === undefined || one.abilityKind?.activeSlots === undefined) return usingOf(name)
+  if (one.dormant === true) {
+    const held = { page: one.held, wanted: "taken-up" } as const
+    return [{ label: "Take up", text: `I take up ${name}`, tone: "use", held }]
+  }
+  const held = { page: one.held, wanted: "set-aside" } as const
+  return [{ label: "Set aside", text: `I set ${name} aside`, tone: "plain", held }]
+}
+
 function HeldRows({
   title,
   held,
@@ -257,6 +268,7 @@ function HeldRows({
             name={one.name ?? ""}
             right={
               <>
+                {one.dormant === true ? <span className="text-tertiary">set aside</span> : null}
                 {one.rank == null ? null : (
                   <span className="font-semibold text-secondary">{one.rank}</span>
                 )}
@@ -273,7 +285,7 @@ function HeldRows({
               </>
             }
             note={one.note}
-            acts={usable ? usingOf(one.name ?? "") : undefined}
+            acts={usable ? actsOf(one) : undefined}
             acting={acting}
           />
         ))}

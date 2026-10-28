@@ -3,8 +3,10 @@ import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.modul
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type { QueryRow } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
+import { activeSlots } from "akasha/story/world/mechanics/ability-kinds/properties/active-slots.number-property.ts"
 import { pluralTitle } from "akasha/story/world/mechanics/ability-kinds/properties/plural-title.text-property.ts"
 import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
+import { heldSkillDormant } from "akasha/story/world/mechanics/skills/character-skill/properties/held-skill-dormant.boolean-property.ts"
 import { abilityKind } from "akasha/story/world/mechanics/skills/properties/ability-kind.relation-property.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
 import {
@@ -22,6 +24,14 @@ export const ATTRIBUTE_KEY = "attribute"
 export const ABILITY_KIND_KEY = exportedAs(abilityKind.propertySlug)
 
 export const PLURAL_TITLE_KEY = exportedAs(pluralTitle.propertySlug)
+
+export const ACTIVE_SLOTS_KEY = exportedAs(activeSlots.propertySlug)
+
+export const DORMANT_KEY = exportedAs(heldSkillDormant.propertySlug)
+
+const TYPE_KEY = "type"
+
+const TYPE_OPENING = "page-type/"
 
 const CHARACTER_KEY = "character"
 
@@ -61,7 +71,12 @@ export function abilityKindsIn(
     const title = textIn(row.values[TITLE_KEY])
     const plural = textIn(row.values[PLURAL_TITLE_KEY])
     if (address === null || title === null || plural === null) continue
-    named.set(address, { title, pluralTitle: plural })
+    const slots = parseNumber(row.values[ACTIVE_SLOTS_KEY])
+    named.set(address, {
+      title,
+      pluralTitle: plural,
+      ...(slots === undefined ? {} : { activeSlots: slots }),
+    })
   }
   return { ofSkill, named }
 }
@@ -85,6 +100,13 @@ export function attributeOf(
   return (ownNameOf(named) ?? kind).toUpperCase()
 }
 
+export function heldAddressOf(row: QueryRow): string | undefined {
+  const type = textIn(row.values[TYPE_KEY])
+  if (type === null) return undefined
+  const bare = type.startsWith(TYPE_OPENING) ? type.slice(TYPE_OPENING.length) : type
+  return addressed(bare, row) ?? undefined
+}
+
 export function skillMoreOf(
   titles: ReadonlyMap<string, string>,
   kinds: AbilityKinds = NO_KINDS
@@ -93,10 +115,14 @@ export function skillMoreOf(
     const earned = parseNumber(row.values[EXPERIENCE_KEY])
     const attribute = attributeOf(row, titles)
     const kind = abilityKindOf(row, kinds)
+    const held = heldAddressOf(row)
+    const dormant = row.values[DORMANT_KEY]
     return {
       ...(earned === undefined ? {} : { experience: earned }),
       ...(attribute === undefined ? {} : { attribute }),
       ...(kind === undefined ? {} : { abilityKind: kind }),
+      ...(held === undefined ? {} : { held }),
+      ...(typeof dormant === "boolean" ? { dormant } : {}),
     }
   }
 }
