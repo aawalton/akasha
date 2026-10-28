@@ -30,9 +30,9 @@ import { giftedRebornNalaPathOfTheCompletionist } from "akasha/story/world/pages
 import { giftedRebornNalaPathOfWillpower } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-willpower.character-skill.ts"
 import { z } from "zod"
 
-const COMPLETIONIST_TIERS = [1, 3, 6, 10, 15]
+const COMPLETED = { basic: 10, elite: 40 }
 
-const COMPLETIONIST_FIRST_STATS = 2
+const COMPLETIONIST_STATS = [3, 3]
 
 type Kind = "basic" | "advanced" | "elite"
 
@@ -42,7 +42,13 @@ type Listed = {
   readonly tiers: readonly number[]
   readonly kind: Kind | null
   readonly apart: string
+  readonly completes: boolean
   readonly paid: (from: number, to: number) => readonly Added[]
+}
+
+function completionistPaid(from: number, to: number): readonly Added[] {
+  const stats = COMPLETIONIST_STATS.slice(from, to).reduce((sum, one) => sum + one, 0)
+  return stats > 0 ? [unallocated(stats)] : []
 }
 
 function basic(
@@ -55,6 +61,7 @@ function basic(
     tiers: BASIC_TIERS,
     kind: "basic",
     apart: "",
+    completes: false,
     paid: (from, to) => basicPaid(held.attribute, from, to),
   }
 }
@@ -71,15 +78,17 @@ const PATHS: readonly Listed[] = [
     tiers: giftedPathOfSoulstealing.tierSteps,
     kind: null,
     apart: "is a mutated Path, which takes no steps from an Achievement",
+    completes: false,
     paid: () => [],
   },
   {
     held: giftedRebornNalaPathOfTheCompletionist,
     title: giftedPathOfTheCompletionist.title,
-    tiers: COMPLETIONIST_TIERS,
-    kind: null,
-    apart: "earns its steps only from Paths completed",
-    paid: (from, to) => (from < 1 && to >= 1 ? [unallocated(COMPLETIONIST_FIRST_STATS)] : []),
+    tiers: giftedPathOfTheCompletionist.tierSteps,
+    kind: "advanced",
+    apart: "",
+    completes: true,
+    paid: completionistPaid,
   },
 ]
 
@@ -97,10 +106,12 @@ const ENTRY = z
     experience: z.number().int().min(0),
     deed: z.number().int().min(1).optional(),
     achievement: OFFER.optional(),
+    completed: z.enum(["basic", "elite"]).optional(),
   })
   .refine(
-    (one) => (one.deed === undefined) !== (one.achievement === undefined),
-    "an entry states `deed` or `achievement`, and not both"
+    (one) =>
+      [one.deed, one.achievement, one.completed].filter((it) => it !== undefined).length === 1,
+    "an entry states one of `deed`, `achievement` or `completed`"
   )
 
 type Entry = z.infer<typeof ENTRY>
@@ -142,6 +153,18 @@ function offered(one: Listed, offer: Offer | undefined): number | string {
   return steps
 }
 
+function stepsOf(one: Listed, entry: Entry): number | string {
+  if (entry.achievement !== undefined) return offered(one, entry.achievement)
+  if (entry.completed !== undefined) {
+    if (one.completes) return COMPLETED[entry.completed]
+    return `${one.title} earns nothing for a Path completed; the Completionist does`
+  }
+  if (one.completes) {
+    return `${one.title} earns steps only from Paths completed and from Achievements`
+  }
+  return entry.deed ?? "an entry states one of `deed`, `achievement` or `completed`"
+}
+
 function crossings(one: Listed, from: number, to: number): readonly string[] {
   const crossed: string[] = []
   for (let tier = from + 1; tier <= to; tier++) crossed.push(`${one.title} Tier ${tier}`)
@@ -157,7 +180,7 @@ function paidTo(entry: Entry, speed: Speed): Paid {
     }
   }
   if (setAside(one.held)) return { refused: `${one.title} is set aside, so it earns no steps` }
-  const steps = entry.deed ?? offered(one, entry.achievement)
+  const steps = stepsOf(one, entry)
   if (typeof steps === "string") return { refused: steps }
   const gained = sped(steps, speed, Math.floor)
   const experience = entry.experience + gained

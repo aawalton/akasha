@@ -210,15 +210,31 @@ export const giftedMyriadPaths = {
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
-      fact: "The Completionist's Tiers fall at 1, 3, 6, 10 and 15 steps.",
+      fact: "The Completionist is an Advanced Path, its Tiers falling at 10, 50, 200, 500 and 1000 steps.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The Completionist's first Tier gives 2 Unallocated Stats, and its second a Skill slot.",
+      fact: "The Completionist's first and second Tiers each give 3 Unallocated Stats.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The Completionist's third Tier gives an Affinity slot, and its fourth an Advanced Attribute slot.",
+      fact: "The Completionist's third Tier gives 4 Skill slots, and its fourth an Advanced Attribute slot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Basic Path completed gives the Completionist 10 steps, and an Elite Path 40, before speed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An Achievement's steps for an Advanced Path can go to the Completionist.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's window first showed the Completionist as one step a Path, its first Tier at 1 step.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From her next gain on it, Nala's Completionist runs as every Completionist does.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -279,5 +295,5 @@ export const giftedMyriadPaths = {
     },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T14:04:35.033Z",
+  updatedAt: "2026-10-28T14:21:44.538Z",
 } as const satisfies Lore

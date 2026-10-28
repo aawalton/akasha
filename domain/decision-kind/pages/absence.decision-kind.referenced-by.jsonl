@@ -1922,6 +1922,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/time-passing/time-passing.module.ts","id":"01a0e9e1-aa5f-7d53-b9bb-61529eb4291d"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-practice.world-check.ts","id":"01a17ff1-398f-73e3-bd7e-a87a31f93187"}
+{"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-steps-earned.world-check.ts","id":"01a182d9-3f4f-7e87-b992-aa3bdeec35a6"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.ts","id":"01a17ede-ad87-7ec9-8f62-82b148152d82"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-training.world-check.ts","id":"01a17eeb-58ce-7db2-b591-31fafaef9d7c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-upkeep.world-check.ts","id":"01a17eeb-58cf-776b-ba64-5cc96eee1074"}

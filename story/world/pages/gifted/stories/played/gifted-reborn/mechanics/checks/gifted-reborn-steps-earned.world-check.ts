@@ -6,9 +6,9 @@ export const giftedRebornStepsEarned = {
   slug: "gifted-reborn-steps-earned",
   title: "Steps Earned",
   world: "world/gifted",
-  definition: "what an Achievement or a real deed earns Nala's Paths, counted in steps",
+  definition: "what an Achievement, a Path completed or a real deed earns Nala's Paths, in steps",
   description:
-    "Steps a Path earns outside practice, from an Achievement or from doing a thing for real.",
+    "Steps a Path earns outside practice, from an Achievement, a Path completed, or doing a thing for real.",
   settling: {},
   decisions: [
     {
@@ -52,7 +52,44 @@ export const giftedRebornStepsEarned = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The Completionist takes no Achievement steps, since its window says Paths completed earn it.",
+        "The Completionist is an Advanced Path, so it takes an Achievement's Advanced steps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        'A Path completed adds `"completed":"basic"` or `"elite"` to the Completionist\'s entry.',
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A Path completed pays the Completionist 10 steps for a Basic Path and 40 for an Elite, sped.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "No Advanced Path completed has a number in the source, so `completed` takes none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The Completionist takes no deed, and no other Path takes a Path completed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The Completionist runs on the books' rules, as Alan chose over what her window first showed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What Nala received under the window she was first shown stays hers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The books' Completionist rules run from her next gain on that Path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "She held 0 Completionist steps and no reward from it, so 0 steps carry over unchanged.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -100,7 +137,7 @@ export const giftedRebornStepsEarned = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The Completionist's first Tier pays 2 Unallocated Stats.",
+      statement: "The Completionist's first and second Tiers pay 3 Unallocated Stats each.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -112,5 +149,5 @@ export const giftedRebornStepsEarned = {
     },
   ],
   createdAt: "2026-10-28T14:10:38.030Z",
-  updatedAt: "2026-10-28T14:10:38.030Z",
+  updatedAt: "2026-10-28T14:21:44.538Z",
 } as const satisfies WorldCheck

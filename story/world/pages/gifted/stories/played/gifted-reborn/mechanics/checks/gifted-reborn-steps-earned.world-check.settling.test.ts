@@ -80,14 +80,51 @@ test("a mutated Path takes a deed's steps and refuses an Achievement's", () => {
   expect(settled({ earned: [achievement] }, null)).toHaveProperty("refused")
 })
 
-test("the Completionist's first Tier pays 2 Unallocated Stats", () => {
-  const reading = { earned: [{ path: COMPLETIONIST, experience: 0, deed: 1 }] }
+test("a Basic Path completed pays the Completionist 12 at Talented 104, and Tier 1's 3 Stats", () => {
+  const reading = {
+    earned: [{ path: COMPLETIONIST, experience: 0, completed: "basic" }],
+    talented: 104,
+  }
   const said = settled(reading, null)
-  if (!("answered" in said)) throw new Error("the Completionist was refused a deed")
+  if (!("answered" in said)) throw new Error("the Completionist was refused a Path completed")
+  expect(said.answered.earned[0]).toMatchObject({ gained: 12, experience: 12, tier: 1 })
   expect(added(reading, said.answered)).toEqual([
-    { page: COMPLETIONIST, key: "experience", by: 1 },
-    { page: STATS, key: "value", by: 2 },
+    { page: COMPLETIONIST, key: "experience", by: 12 },
+    { page: STATS, key: "value", by: 3 },
   ])
+})
+
+test("an Elite Path completed pays 40 sped, so Gifted 159 takes 144 to 209 and Tier 3", () => {
+  const reading = {
+    earned: [{ path: COMPLETIONIST, experience: 144, completed: "elite" }],
+    gifted: 159,
+  }
+  const said = settled(reading, null)
+  if (!("answered" in said))
+    throw new Error("the Completionist was refused an Elite Path completed")
+  expect(said.answered.earned[0]).toMatchObject({ gained: 65, experience: 209, tier: 3 })
+  expect(added(reading, said.answered)).toEqual([
+    { page: COMPLETIONIST, key: "experience", by: 65 },
+  ])
+})
+
+test("the Completionist takes an Achievement's Advanced steps, 100 at Gifted 187 being 174", () => {
+  const entry = {
+    path: COMPLETIONIST,
+    experience: 324,
+    achievement: { basic: 1000, advanced: 100 },
+  }
+  expect(settled({ earned: [entry], gifted: 187 }, null)).toMatchObject({
+    answered: { earned: [{ gained: 174, experience: 498, tier: 3 }] },
+  })
+})
+
+test("the Completionist refuses a deed, and another Path refuses a Path completed", () => {
+  expect(
+    settled({ earned: [{ path: COMPLETIONIST, experience: 0, deed: 1 }] }, null)
+  ).toHaveProperty("refused")
+  const completed = { path: ENDURANCE, experience: 0, completed: "basic" }
+  expect(settled({ earned: [completed] }, null)).toHaveProperty("refused")
 })
 
 test("several Paths settle at once, each named once", () => {
