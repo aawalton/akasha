@@ -4678,6 +4678,9 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/zigzag-dash.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/zone-of-interception-fire.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/zweihander-chop.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/time-probe-world/mechanics/skills/time-probe-world-lockpicking.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/time-probe-world/mechanics/skills/time-probe-world-spark.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/time-probe-world/mechanics/skills/time-probe-world-swordplay.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-physical-conditioning.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-regeneration.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/skills/otherwhere-x-fire-burst.world-skill.ts","typed":true,"deferred":false}

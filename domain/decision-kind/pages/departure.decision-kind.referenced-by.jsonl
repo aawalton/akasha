@@ -4215,6 +4215,11 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/metrics/resources/points/test-story-points.page-type.ts","id":"01a17ec7-2024-70e5-971c-bfec40996a03"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-beholder/mechanics/ranks/tier/the-beholder-tier.page-type.ts","id":"01a0deed-aa86-70a1-94ba-361ba920f093"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-beholder/stories/written/the-beholder/mechanics/metrics/attributes/the-beholder-attribute.page-type.ts","id":"01a0deec-7455-7d2c-a9a6-9fa1a5ad06e0"}
+{"propertySlug":"decision-kind","path":"story/world/pages/time-probe-world/stories/played/time-probe/mechanics/checks/time-probe-action-check.world-check.ts","id":"01a1802d-b13e-708f-8d85-17e4eda50750"}
+{"propertySlug":"decision-kind","path":"story/world/pages/time-probe-world/stories/played/time-probe/mechanics/checks/time-probe-time-passing.world-check.ts","id":"01a1802d-b13e-7420-823e-ff2add3cc02f"}
+{"propertySlug":"decision-kind","path":"story/world/pages/time-probe-world/stories/played/time-probe/mechanics/checks/time-probe-training.world-check.ts","id":"01a1802d-b13e-747a-ad25-93546e0478d1"}
+{"propertySlug":"decision-kind","path":"story/world/pages/time-probe-world/stories/played/time-probe/mechanics/checks/time-probe-upkeep.world-check.ts","id":"01a1802d-b13e-7a81-a8d3-55aea1caafae"}
+{"propertySlug":"decision-kind","path":"story/world/pages/time-probe-world/stories/played/time-probe/mechanics/metrics/resources/points/time-probe-points.page-type.ts","id":"01a1802d-b13e-7139-a018-1f85ec440998"}
 {"propertySlug":"decision-kind","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/mechanics/metrics/attributes/tower-of-nimue-attribute.page-type.ts","id":"01a0dee9-5494-73ec-b731-6b43baa9beea"}
 {"propertySlug":"decision-kind","path":"story/world/pronunciations/pronunciation.page-type.ts","id":"01a11c0e-f7a2-73f9-b751-0c33aec73a37"}
 {"propertySlug":"decision-kind","path":"story/world/pronunciations/properties/phonemes.text-property.ts","id":"01a11c9d-f7b6-764b-b216-686fbd320834"}

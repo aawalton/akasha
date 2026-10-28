@@ -12,6 +12,7 @@ export const metricCharacterPoint = {
     "page-type/test-story-points",
     "page-type/gifted-unallocated-stats",
     "page-type/paths-probe-points",
+    "page-type/time-probe-points",
   ],
   decisions: [
     {
@@ -26,5 +27,5 @@ export const metricCharacterPoint = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-27T18:53:28.972Z",
-  updatedAt: "2026-10-28T01:41:03.888Z",
+  updatedAt: "2026-10-28T01:44:02.797Z",
 } as const satisfies PageType
