@@ -5,6 +5,11 @@ export const onePiece = {
   type: "page-type/show",
   slug: "one-piece",
   title: "One Piece",
+  streamingOn: [
+    "streaming-service/crunchyroll",
+    "streaming-service/hulu",
+    "streaming-service/netflix",
+  ],
   partOfCollections: ["fandom/one-piece"],
   position: 1,
   ownLength: 0,
@@ -17,8 +22,9 @@ export const onePiece = {
       source: "tmdb",
       externalId: "37854",
       externalLink: "https://www.themoviedb.org/tv/37854",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   createdAt: "2026-10-28T21:26:40.541Z",
-  updatedAt: "2026-10-28T21:26:40.541Z",
+  updatedAt: "2026-10-28T21:27:51.265Z",
 } as const satisfies Show

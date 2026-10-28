@@ -2,3 +2,4 @@
 {"propertySlug":"import","fileName":"crunchyroll.streaming-service.ts","path":"command/pages/watching/log/modules/title-streaming/title-streaming.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"crunchyroll.streaming-service.ts","path":"command/pages/watching/log/watching-log.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"streaming-on","path":"alan/collection/watching/show/pages/frieren-beyond-journey-s-end-2.show.ts","id":"01a06802-9331-7028-b9e6-6ec619aac1d3"}
+{"propertySlug":"streaming-on","path":"alan/collection/watching/show/pages/one-piece.show.ts","id":"01a18468-749e-7ec0-95e5-e372ecbbefae"}
