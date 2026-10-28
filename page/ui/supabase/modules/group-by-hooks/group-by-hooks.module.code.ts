@@ -11,9 +11,11 @@ import type {
   GroupGranularity,
   ViewFilter,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
-import { GROUP_NONE_KEY } from "akasha/page/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
-import { pageDayKey } from "akasha/page/core/view/modules/calendar-date-to-value/calendar-date-to-value.module.code.ts"
-import { applyGranularityBucket } from "akasha/page/core/view/modules/group-granularity/group-granularity.module.code.ts"
+import { getPageGroupDefinition } from "akasha/page/core/view/modules/apply-grouping/apply-grouping.module.code.ts"
+import {
+  GROUP_NONE_KEY,
+  type PageGroupDefinition,
+} from "akasha/page/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 import {
   adjustTotalForClientFilters,
   applyClientViewFilters,
@@ -122,7 +124,13 @@ export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
   }
 }
 
-function bucketRowsByGroup(args: {
+function keysOf(definition: PageGroupDefinition | null, row: Page): readonly string[] {
+  if (definition === null) return [GROUP_NONE_KEY]
+  const groupable = { ...row, _id: row.id }
+  return definition.getKeys?.(groupable) ?? [definition.getKey(groupable)]
+}
+
+export function bucketRowsByGroup(args: {
   rows: readonly Page[]
   groupPropertyId: string
   isLoading: boolean
@@ -130,26 +138,15 @@ function bucketRowsByGroup(args: {
   properties?: readonly PropertyDefinition[]
   groupGranularity?: GroupGranularity
 }): Map<string, GroupEntry> {
-  const prop = args.properties?.find((p) => p.id === args.groupPropertyId)
-  const isDateKey = prop?.type === "calendar-date" || prop?.type === "instant"
-  const isMultiKey = prop?.type === "multi-relation" || prop?.type === "multi-select"
-  const granularity = args.groupGranularity ?? "none"
+  const definition = getPageGroupDefinition(
+    args.groupPropertyId,
+    args.properties ?? [],
+    null,
+    args.groupGranularity ?? "none"
+  )
   const buckets = new Map<string, PageWithProperties[]>()
   for (const row of args.rows) {
-    const raw = row[args.groupPropertyId]
-    const keys: string[] = []
-    if (isDateKey && prop !== undefined) {
-      const day = pageDayKey(prop, raw)
-      keys.push(day === null ? GROUP_NONE_KEY : applyGranularityBucket(day, granularity))
-    } else if (isMultiKey) {
-      if (Array.isArray(raw) && raw.length > 0) {
-        for (const el of raw) keys.push(String(el))
-      } else {
-        keys.push(GROUP_NONE_KEY)
-      }
-    } else {
-      keys.push(raw == null || raw === "" ? GROUP_NONE_KEY : String(raw))
-    }
+    const keys = keysOf(definition, row)
     const page = toPageWithProperties(row)
     for (const key of keys) {
       let bucket = buckets.get(key)

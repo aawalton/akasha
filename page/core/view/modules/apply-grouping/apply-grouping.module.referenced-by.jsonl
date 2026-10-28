@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"apply-grouping.module.code.ts","path":"page/core/view/modules/apply-grouping/apply-grouping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"apply-grouping.module.code.ts","path":"page/ui/component/view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"apply-grouping.module.code.ts","path":"page/ui/component/view-engine/modules/use-page-view/use-page-view.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"apply-grouping.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/view/page-core-view.domain.ts","id":"01a071cb-580b-710d-a9ae-c371fe8df6c3"}
