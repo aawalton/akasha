@@ -18,7 +18,7 @@ export const loreKnowers = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A fact gains knowers and never loses one.",
+      statement: "A fact loses a knower only as the turn that taught it is taken back.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -31,5 +31,5 @@ export const loreKnowers = {
   ],
   types: "ts",
   createdAt: "2026-09-26T18:12:58.062Z",
-  updatedAt: "2026-09-26T18:13:39.000Z",
+  updatedAt: "2026-10-28T15:31:50.543Z",
 } as const satisfies MultiRelationProperty
