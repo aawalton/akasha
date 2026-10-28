@@ -11,6 +11,7 @@ export const irisGameMasterTimeProbe = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "0433b410-473a-41bb-af75-bbeb8a7d8743",
   createdAt: "2026-10-28T01:47:55.910Z",
-  updatedAt: "2026-10-28T01:47:55.910Z",
+  updatedAt: "2026-10-28T01:47:58.982Z",
 } as const satisfies Seat
