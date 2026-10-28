@@ -39,7 +39,12 @@ export const proseWindows = {
       statement:
         "Windows of one kind and one name with no prose between them are drawn as one window.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Names are matched with any bracketed qualifier dropped, and the joined window keeps the qualifier.",
+    },
   ],
   createdAt: "2026-09-24T16:45:13.902Z",
-  updatedAt: "2026-10-28T14:07:23.689Z",
+  updatedAt: "2026-10-28T14:16:44.984Z",
 } as const satisfies Module

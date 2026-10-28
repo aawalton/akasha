@@ -196,3 +196,27 @@ describe("joinedWindowsIn", () => {
     expect(joinedWindowsIn(proseWindowSegmentsIn(text))).toHaveLength(4)
   })
 })
+
+test("windows naming one ability, one with a qualifier, join under the qualified name", () => {
+  const text = [
+    ":::status-assessment",
+    "name: Path of Soulstealing (mutated)",
+    "note: Steps: only from shreds",
+    ":::",
+    "",
+    ":::status-assessment",
+    "name: Path of Soulstealing",
+    "note: Tier 1: 10 steps",
+    ":::",
+  ].join("\n")
+  expect(joinedWindowsIn(proseWindowSegmentsIn(text))).toEqual([
+    {
+      kind: "window",
+      window: {
+        kind: "status-assessment",
+        name: "Path of Soulstealing (mutated)",
+        note: "Steps: only from shreds; Tier 1: 10 steps",
+      },
+    },
+  ])
+})

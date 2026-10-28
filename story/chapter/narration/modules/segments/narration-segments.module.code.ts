@@ -13,6 +13,7 @@ import {
 } from "akasha/story/chapter/narration/modules/words/narration-words.module.code.ts"
 import {
   proseWindowSegmentsIn,
+  sameWindow,
   slottedWindowOf,
   type WrittenWindow,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
@@ -381,17 +382,18 @@ function blocksOf(
 ): Block[] {
   const blocks: Block[] = []
   const counted: Counted = { words: 0 }
-  let saidLast = ""
+  let last: WrittenWindow | null = null
   for (const run of proseWindowSegmentsIn(prose.replace(RETURNS, "\n"))) {
     if (run.kind === "prose") {
       proseInto(blocks, run.text, counted)
-      saidLast = ""
+      last = null
       continue
     }
     const words = windowWords(run.window)
     const said = spokenWindow(slottedWindowOf(run.window, slotted), abilityKinds)
-    if (said.join(" ") !== saidLast) setApart(blocks, said, { wordStart: counted.words, words })
-    saidLast = said.join(" ")
+    const again = last !== null && sameWindow(last, run.window)
+    setApart(blocks, again ? said.slice(1) : said, { wordStart: counted.words, words })
+    last = run.window
     counted.words += words
   }
   return blocks

@@ -81,8 +81,15 @@ export function proseWindowSegmentsIn(text: string): readonly ProseWindowSegment
   return segments
 }
 
-function sameWindow(one: WrittenWindow, other: WrittenWindow): boolean {
-  return one.kind === other.kind && one.name !== undefined && one.name === other.name
+export function sameWindow(one: WrittenWindow, other: WrittenWindow): boolean {
+  if (one.kind !== other.kind || one.name === undefined || other.name === undefined) return false
+  return abilityTitleIn(one.name) === abilityTitleIn(other.name)
+}
+
+function qualifiedOf(names: readonly (string | undefined)[]): { name?: string } {
+  const said = names.flatMap((one) => one ?? [])
+  const name = said.find((one) => one !== abilityTitleIn(one)) ?? said.at(-1)
+  return name === undefined ? {} : { name }
 }
 
 export function joinedWindowsIn(
@@ -99,7 +106,12 @@ export function joinedWindowsIn(
     const note = notes.length === 0 ? {} : { note: notes.join(LINES) }
     joined[joined.length - 1] = {
       kind: "window",
-      window: { ...last.window, ...one.window, ...note },
+      window: {
+        ...last.window,
+        ...one.window,
+        ...note,
+        ...qualifiedOf([last.window.name, one.window.name]),
+      },
     }
   }
   return joined

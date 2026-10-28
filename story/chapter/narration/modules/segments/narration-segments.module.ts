@@ -173,7 +173,8 @@ export const narrationSegments = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A window said the same as the window just before it is said once.",
+      statement:
+        "A window joined to the window just before it, as the prose draws them, is said without its heading.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -181,6 +182,6 @@ export const narrationSegments = {
         "A word is counted as the chapter's length counts it, markup and window lines too.",
     },
   ],
-  updatedAt: "2026-10-28T14:07:23.689Z",
+  updatedAt: "2026-10-28T14:16:44.984Z",
   createdAt: "2026-10-05T20:29:00.386Z",
 } as const satisfies Module
