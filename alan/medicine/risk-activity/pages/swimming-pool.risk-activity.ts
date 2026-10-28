@@ -16,6 +16,10 @@ export const swimmingPool = {
       injuriesPerMillionUnits: 0.48,
       disabilityWeight: 0.247,
       disabilityYears: 0.1,
+      injuriesPerMillionUnitsLow: 0.18,
+      injuriesPerMillionUnitsHigh: 1.11,
+      disabilityWeightLow: 0.164,
+      disabilityWeightHigh: 0.341,
     },
   ],
   sources: [
@@ -43,5 +47,5 @@ export const swimmingPool = {
     },
   ],
   createdAt: "2026-10-28T19:10:24.049Z",
-  updatedAt: "2026-10-28T19:10:24.049Z",
+  updatedAt: "2026-10-28T19:21:31.062Z",
 } as const satisfies RiskActivity
