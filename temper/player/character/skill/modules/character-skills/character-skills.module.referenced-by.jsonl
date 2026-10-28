@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/skill-morph/modules/morph-pair/morph-pair.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/player/skill-morph/modules/skill-organization/skill-organization.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/watcher/modules/watcher-export-character-targets/watcher-export-character-targets.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/web/modules/character-context/character-context.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/web/modules/character-editor/character-editor.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-skills.module.code.ts","path":"temper/web/modules/class-change-confirmation-dialog/class-change-confirmation-dialog.module.code.tsx","typed":true,"deferred":false}

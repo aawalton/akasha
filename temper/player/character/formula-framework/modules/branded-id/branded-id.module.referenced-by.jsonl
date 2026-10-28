@@ -45,6 +45,8 @@
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/stat/modules/tooltip-case/tooltip-case.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/character/stat/modules/worn-item-levels/worn-item-levels.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/player/completion/modules/completion-record/completion-record.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/watcher/modules/watcher-export-character-targets/watcher-export-character-targets.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/watcher/modules/watcher-export-character-targets/watcher-export-character-targets.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.test.ts","typed":false,"deferred":false}

@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"trait-reading.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"trait-reading.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-trait-effects/jewelry-trait-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"trait-reading.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-trait-effects/weapon-trait-effects.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"trait-reading.module.code.ts","path":"temper/watcher/modules/watcher-export-character-targets/watcher-export-character-targets.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}

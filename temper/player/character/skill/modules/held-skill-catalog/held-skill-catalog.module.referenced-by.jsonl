@@ -121,6 +121,7 @@
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-story-zone-quests/completion-story-zone-quests.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-transforms/completion-transforms.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-export-character-targets/watcher-export-character-targets.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.test.ts","typed":false,"deferred":false}
