@@ -15,9 +15,11 @@ export const haikyuTheDumpsterBattle = {
       source: "tmdb",
       externalId: "1012201",
       externalLink: "https://www.themoviedb.org/movie/1012201",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "HAIKYU!! The Dumpster Battle",
+  streamingOn: ["Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:43:15.697Z",
-  updatedAt: "2026-10-28T18:43:15.697Z",
+  updatedAt: "2026-10-28T19:47:22.534Z",
 } as const satisfies Movie
