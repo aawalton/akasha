@@ -1,5 +1,8 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
-import type { HudDock } from "akasha/temper/addon/pages/temper-core/modules/hud-layout-place/hud-layout-place.module.code.ts"
+import type {
+  HudAlignment,
+  HudDock,
+} from "akasha/temper/addon/pages/temper-core/modules/hud-layout-place/hud-layout-place.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/core-config-declarations/core-config-declarations.type-declaration.d.ts"
 
 export interface HudLayoutDock {
@@ -15,6 +18,7 @@ export interface HudLayoutPanel {
   readonly inputModes: readonly InputMode[]
   readonly neverMoves: boolean
   readonly measuredBy?: string
+  readonly alignment?: HudAlignment
 }
 
 export interface HudLayout {

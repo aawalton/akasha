@@ -10,11 +10,15 @@ export type HudDock =
 
 export type HudPoint = "TOPLEFT" | "TOP" | "TOPRIGHT" | "BOTTOMLEFT" | "BOTTOM" | "BOTTOMRIGHT"
 
+export type HudAlignment = "screen-edge" | "previous-panel"
+
 export interface HudPanelBox {
   readonly key: string
   readonly dock: HudDock
   readonly displayOrder: number
+  readonly alignment: HudAlignment
   readonly top: number
+  readonly width: number
   readonly height: number
   readonly hidden: boolean
   readonly neverMoves: boolean
@@ -63,10 +67,34 @@ function pointOf(side: Side, fromBottom: boolean): HudPoint {
   return fromBottom ? "BOTTOMRIGHT" : "TOPRIGHT"
 }
 
-function offsetXOf(side: Side, gap: number): number {
-  if (side === "left") return gap
-  if (side === "center") return 0
-  return -gap
+interface Across {
+  readonly point: HudPoint
+  readonly offsetX: number
+  readonly innerEdge: number | undefined
+}
+
+function acrossOf(
+  panel: HudPanelBox,
+  side: Side,
+  fromBottom: boolean,
+  gap: number,
+  screenWidth: number,
+  previousEdge: number | undefined
+): Across {
+  const lined = panel.alignment === "previous-panel" ? previousEdge : undefined
+  if (side === "left") {
+    const right = Math.max(lined ?? 0, gap + panel.width)
+    if (lined === undefined)
+      return { point: pointOf(side, fromBottom), offsetX: gap, innerEdge: right }
+    return { point: pointOf("right", fromBottom), offsetX: right - screenWidth, innerEdge: right }
+  }
+  if (side === "right") {
+    const left = Math.min(lined ?? screenWidth, screenWidth - gap - panel.width)
+    if (lined === undefined)
+      return { point: pointOf(side, fromBottom), offsetX: -gap, innerEdge: left }
+    return { point: pointOf("left", fromBottom), offsetX: left, innerEdge: left }
+  }
+  return { point: pointOf(side, fromBottom), offsetX: 0, innerEdge: undefined }
 }
 
 function shownIn(panels: readonly HudPanelBox[], dock: HudDock | undefined): HudPanelBox[] {
@@ -157,37 +185,41 @@ function placeColumn(
   const rooms = over > 0 ? shrinkToFit(over, starting, middle, ending) : natural
   const places: HudPanelPlace[] = []
   let cursor = screen.top + startGap
+  let edge: number | undefined
   for (const panel of starting) {
     if (panel.neverMoves) {
       cursor = Math.max(cursor, panel.top + panel.height + startGap)
       continue
     }
-    const side = sideOf(startDock)
+    const across = acrossOf(panel, sideOf(startDock), false, startGap, screen.width, edge)
     const room = roomOf(panel, rooms)
     places.push({
       key: panel.key,
-      point: pointOf(side, false),
-      offsetX: offsetXOf(side, startGap),
+      point: across.point,
+      offsetX: across.offsetX,
       offsetY: cursor,
       room,
     })
+    edge = across.innerEdge
     cursor += room + startGap
   }
   let fromBottom = endGap
+  edge = undefined
   for (const panel of ending) {
     if (panel.neverMoves) {
       fromBottom = Math.max(fromBottom, screen.height - panel.top + endGap)
       continue
     }
-    const side = sideOf(endDock)
+    const across = acrossOf(panel, sideOf(endDock), true, endGap, screen.width, edge)
     const room = roomOf(panel, rooms)
     places.push({
       key: panel.key,
-      point: pointOf(side, true),
-      offsetX: offsetXOf(side, endGap),
+      point: across.point,
+      offsetX: across.offsetX,
       offsetY: -fromBottom,
       room,
     })
+    edge = across.innerEdge
     fromBottom += room + endGap
   }
   if (middleDock === undefined || middle.length === 0) return places
@@ -196,16 +228,18 @@ function placeColumn(
   const lowest = endStart(ending, rooms, endGap, screen.height) - between - middleHeight
   const centred = (screen.top + screen.height - middleHeight) / 2
   let middleCursor = Math.max(highest, Math.min(lowest, centred))
-  const side = sideOf(middleDock)
+  edge = undefined
   for (const panel of middle) {
+    const across = acrossOf(panel, sideOf(middleDock), false, middleGap, screen.width, edge)
     const room = roomOf(panel, rooms)
     places.push({
       key: panel.key,
-      point: pointOf(side, false),
-      offsetX: offsetXOf(side, middleGap),
+      point: across.point,
+      offsetX: across.offsetX,
       offsetY: middleCursor,
       room,
     })
+    edge = across.innerEdge
     middleCursor += room + middleGap
   }
   return places

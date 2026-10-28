@@ -23,7 +23,9 @@ function panel(key: string, dock: HudDock, displayOrder: number, height: number)
     key,
     dock,
     displayOrder,
+    alignment: "screen-edge",
     top: 0,
+    width: 100,
     height,
     hidden: false,
     neverMoves: false,
@@ -118,5 +120,49 @@ describe("placeHudPanels", () => {
       GAPS
     )
     expect(places.map((place) => place.room)).toEqual([400, 200])
+  })
+
+  test("a right-dock panel lined up with the panel before it shares that panel's left edge", () => {
+    const map = { ...panel("map", "top-right", 1, 300), width: 300 }
+    const tasks = { ...panel("tasks", "top-right", 2, 100), alignment: "previous-panel" as const }
+    expect(placeHudPanels(SCREEN, [map, tasks], GAPS)[1]).toEqual({
+      key: "tasks",
+      point: "TOPLEFT",
+      offsetX: 690,
+      offsetY: 320,
+      room: 100,
+    })
+  })
+
+  test("a lined-up panel wider than the panel before it stays one gap from the edge", () => {
+    const wide = { ...panel("wide", "top-right", 2, 100), width: 500 }
+    const lined = { ...wide, alignment: "previous-panel" as const }
+    expect(placeHudPanels(SCREEN, [panel("a", "top-right", 1, 50), lined], GAPS)[1]).toEqual({
+      key: "wide",
+      point: "TOPLEFT",
+      offsetX: 490,
+      offsetY: 70,
+      room: 100,
+    })
+  })
+
+  test("a left-dock panel lined up with the panel before it shares that panel's right edge", () => {
+    const frames = { ...panel("frames", "top-left", 1, 50), width: 300 }
+    const lined = { ...panel("boss", "top-left", 2, 50), alignment: "previous-panel" as const }
+    expect(placeHudPanels(SCREEN, [frames, lined], GAPS)[1]).toEqual({
+      key: "boss",
+      point: "TOPRIGHT",
+      offsetX: -690,
+      offsetY: 70,
+      room: 50,
+    })
+  })
+
+  test("a lined-up panel with no shown panel before it sits against the screen edge", () => {
+    const hidden = { ...panel("map", "top-right", 1, 300), hidden: true }
+    const tasks = { ...panel("tasks", "top-right", 2, 100), alignment: "previous-panel" as const }
+    expect(placeHudPanels(SCREEN, [hidden, tasks], GAPS)).toEqual([
+      { key: "tasks", point: "TOPRIGHT", offsetX: -10, offsetY: 10, room: 100 },
+    ])
   })
 })

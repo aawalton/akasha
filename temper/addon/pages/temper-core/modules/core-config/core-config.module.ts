@@ -25,7 +25,11 @@ export const coreConfig = {
       decisionKind: "decision-kind/departure",
       statement: "A panel naming no input modes, as a config older than them has, is left out.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel naming no `alignment` sits against the screen edge.",
+    },
   ],
   createdAt: "2026-10-27T19:15:03.182Z",
-  updatedAt: "2026-10-28T00:04:55.657Z",
+  updatedAt: "2026-10-28T00:46:30.144Z",
 } as const satisfies Module

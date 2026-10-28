@@ -10,7 +10,7 @@ export const hudLayoutApply = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every panel is placed again one frame after a panel shows, hides or changes height.",
+        "Every panel is placed again one frame after a panel shows, hides or changes size.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -84,5 +84,5 @@ export const hudLayoutApply = {
     },
   ],
   createdAt: "2026-10-27T19:32:54.134Z",
-  updatedAt: "2026-10-27T20:22:07.501Z",
+  updatedAt: "2026-10-28T00:46:30.144Z",
 } as const satisfies Module

@@ -20,7 +20,7 @@ import {
 const NAMESPACE = "TemperHudLayout"
 const DEFAULT_GAP = 10
 const TOP_BAR = "TemperHudBar"
-const WATCHED_EVENTS = ["OnShow", "OnHide", "OnRectHeightChanged"]
+const WATCHED_EVENTS = ["OnShow", "OnHide", "OnRectHeightChanged", "OnRectWidthChanged"]
 const DOCKS: readonly HudDock[] = [
   "top-left",
   "top",
@@ -151,7 +151,9 @@ function boxOf(panel: HudLayoutPanel): HudPanelBox | undefined {
     key: panel.key,
     dock: panel.dock,
     displayOrder: panel.displayOrder,
+    alignment: panel.alignment ?? "screen-edge",
     top: control.GetTop(),
+    width: control.GetWidth(),
     height: shrinking?.wanted ?? height,
     hidden: control.IsHidden(),
     neverMoves: panel.neverMoves,

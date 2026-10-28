@@ -40,7 +40,24 @@ export const hudLayoutPlace = {
       decisionKind: "decision-kind/departure",
       statement: "A panel is held by the point of the screen nearest its dock.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel lined up with the panel before it shares that panel's inner edge, held by its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lined-up panel never reaches nearer the screen edge than one gap.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lined-up panel with no shown panel before it sits against the screen edge.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel in the top or bottom middle dock is centred whatever its alignment.",
+    },
   ],
   createdAt: "2026-10-27T19:07:14.498Z",
-  updatedAt: "2026-10-27T19:35:56.810Z",
+  updatedAt: "2026-10-28T00:46:30.144Z",
 } as const satisfies Module
