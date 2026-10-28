@@ -1,0 +1,95 @@
+My two years were passing relatively quickly. It was strange, in the before, I could remember my childhood passing as a crawl, then once I grew older, it felt like entire years were slipping by in a blink.
+
+Now, in this new world, that... wasn’t quite the same. Maybe that speedy passage of time had more to do with routine and experience than it did with youth and one’s own perception of time? I wasn’t sure, but as I settled into a more fixed schedule, time did feel like it was just passing me by.
+
+It was always busy, always crowded, but not as... novel, I supposed. In any case, soon I only had a few months to go before I’d be heading out to the Academy. And yet, I still had a single free general skill slot.
+
+I wasn’t sure what to do with it, but I did know that I wanted to use it for something. The issue was picking up a skill that would be worth my time, or that would improve my life enough that it was worth taking in the first place.
+
+I ended up asking around for ideas, which turned out to be one of the few activities that I did that suited my age. It was normal for kids to ask their parents and guardians about which skills to take, it seemed, even if what skills someone did have was a semi-private thing.
+
+My mother suggested [Cleaning] of all things, but that felt wasteful. I bathed often enough. More than the average person in the slums, at least. And I kept my farm perfectly clean. I didn’t need some {Common} skill to help with that.
+
+Dregs suggested [Stealth] which actually seemed like a decent idea, but the more I thought about it, the more I dismissed it. The skill would help me tread quietly and go unnoticed, but I had several other skills that helped me disguise myself and seem innocent already. It would be somewhat redundant.
+
+I asked Bet, and she suggested [The Art of the Sale] which was an {Uncommon} skill she’d picked up and which helped her be the top seller in our little operation every week. That was tempting as well, but it seemed too narrow.
+
+Willow, my beater, suggested [Punching] but I passed up on that. My wrists were thinner than some twigs. Even with a skill I was liable to break something if I tried to swing a fist at anyone.
+
+I met up with Debra and Stew one day. The two were still together, and closer than ever. Debra suggested that I pick up [Lean] which was a skill that helped you get by when there wasn’t much to eat. Invaluable to her when she had been living on the streets.
+
+Stew, on the other hand, had suggested [Tough] which was another passive skill that didn’t so much make someone tougher than it made it so that pain didn’t hurt as much as it could. It made the skill’s holder able to resist a lot more damage than usual and keep on going, even if it didn’t mitigate any of the damage.
+
+That was my best bet, actually. I didn’t plan on getting hurt, but it did seem like it might come in handy in a variety of situations. Until I realized that it would just mitigate pain, not actually help. [Fast healing] a {Rare} skill that I read about in one of Digglestein’s books seemed like it would be much better, but I didn’t know how to get it.
+
+In the end, the skill I went with was an unusual one, suggested to me by Markham, from the Union. “You’re going to want [Lie Detection], [Liar’s Sense], or [Know Truth],” he said from behind his desk without really looking up from his paperwork. “There are a few variations. Some are better than others. They’re all very potent in social situations. I’ll tell Grey to train you, it should help.”
+
+I didn’t take the offer immediately. Instead I thought about it for a while, then decided that I might as well. It would be an interesting skill, and I could dismiss it later, and knowing when someone was lying just... seemed like an ‘I win’ button for a lot of social situations.
+
+Unfortunately, unlike many of the {Common} and even a few {Uncommon} skills people suggested, that set wasn’t in my repertoire of available skills in any form. That meant either I had to try to figure out how to gain it myself, Or I’d have to rely on Grey.
+
+I chose the latter, if only because it seemed faster and more efficient.
+
+“Alright,” Grey said as he eyed me up and down. We were in one of the back rooms of the Union, a place that was a little more quiet, though he insisted that we leave the door open for propriety's sake. A bit weird from a man that I knew was a killer, but I wasn’t going to complain. “So, lie detection skills require that you notice when someone’s lying.”
+
+“I figured,” I said.
+
+“Which means reading body language, noticing little changes in tone, and putting together all the little details that make it so that you can catch a lie out in the open. But it also means being able to counter techniques like [Lie] and [Misdirect].”
+
+“Okay,” I said.
+
+Grey looked at me, then leaned forward. “What colour are my eyes?” he asked.
+
+I stared. “They’re grey,” I said. Was he named after them? That would make some sense, naming your kid after such an obvious feature. It had to be somewhat genetic too.
+
+“No, they’re green,” he said.
+
+I continued to stare. “Huh, I guess they are.” Well, I supposed that under the right lighting, they could be a bit green. Maybe as a sheen. Green was a pretty common colour.
+
+My own eyes were green, just like my father’s, and... and. I shook my head and looked at his eyes. His green eyes. His grey-green eyes. His eyes which were... green?
+
+I grunted, then glared. “Your eyes are... grey,” I said.
+
+He grinned. “They are,” he agreed. “Always have been.”
+
+“What was that?” I asked. “I  knew  they weren’t green, but it’s like I was instantly self-rationalising it.”
+
+“A [Lie] skill I have,” he said with a dismissive little wave. “It’s a {Legendary} skill.”
+
+A {Legendary}? That was impressive! I didn’t know someone like Grey would have such a potent skill, it seemed... it seemed very, very unlikely. “Was that another lie?” I asked as I shook my shoulders out.
+
+“Good, that was a bit faster. Though I guess that was less believable. A good lie will be something like... I’m not wearing any socks today.”
+
+I looked down at his feet. They were covered in thick boots, pants tucked into the boots so that even if he was wearing socks, I couldn’t tell. “Okay?”
+
+“That was a lie,” he said. “It’s cold, of course I’m wearing socks. But since you can’t verify the lie, and since it’s perfectly believable that I might not be wearing socks today, you have no reason not to believe it, which makes it much harder to detect the falsehood.”
+
+“Oh,” I said. Then I reached over and tugged his pant leg up. He wasn’t wearing socks. I glared at him and Grey grinned, unrepentant.
+
+Grey spent the next couple of hours lying to me, and I had to play a game of guessing whether or not it was true, or if he’d just made things up. This was complicated by his skill interfering, by him using half-truths, and by him using some farfetched, wildly unbelievable stories about things that really had happened to trick me as often as he could.
+
+He was enjoying this far too much, but I was starting to get better at it... slowly. He had a tick of smiling before he lied, which turned out to be a false tick that he was just doing to mess with me, which I discovered an hour in when I started to rely on the tick too much and he turned it against me.
+
+Still, it was a good lesson, and in the end, I got what I wanted out of it.
+
+[Lie Detection] {Uncommon}
+
+This skill gives you a passive sense of when something you are told is an untruth according to the person who is saying it. As this skill grows, so will your ability to detect lies and falsehoods and exaggerations.
+
+Category: Social skills, Social magic
+
+“Nice work,” Grey said. “Didn’t think you’d get it so easily. Well, I should go, I have patrol in a minute.”
+
+“Right, thank you, that’s ...” I paused, then rewound the last sentence he said, something about it... “That was a lie?”
+
+“You’re right,” he said. “I don’t have patrol, but I do need to take a massive dump.”
+
+“Also a lie?” I asked.
+
+“Eh, so-so,” he said, and I didn’t detect any falsehood in that.
+
+So I kicked him in the shin for being gross.
+
+***
+
+‎
