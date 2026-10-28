@@ -3,5 +3,6 @@
 {"propertySlug":"import","fileName":"explore.subagent-kind.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/amy-a1da16b4bda7eaca5/amy-a1da16b4bda7eaca5.subagent.ts","id":"01a18392-cdcd-72e5-909c-70c29bcf8fcf"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/amy-a284eee71788a0c63/amy-a284eee71788a0c63.subagent.ts","id":"01a18393-ad71-78a6-b18f-581ac07e7e6d"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/amy-a2dc0467f983f838e/amy-a2dc0467f983f838e.subagent.ts","id":"01a18393-91c7-78e9-8233-17132e4c9ec0"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/amy-aa81699e4df01c1bd/amy-aa81699e4df01c1bd.subagent.ts","id":"01a18393-7f20-7e19-8312-7ceb1c0917d0"}
