@@ -108,7 +108,7 @@ function LevelUp({ points }: { points: NonNullable<ClientSheet["points"]> }) {
   )
 }
 
-export type SheetHead = {
+type SheetHead = {
   readonly caption: ReactNode
   readonly cover: ReactNode
 }
