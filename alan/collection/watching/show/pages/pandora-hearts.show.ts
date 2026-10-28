@@ -11,9 +11,15 @@ export const pandoraHearts = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "35971", externalLink: "https://www.themoviedb.org/tv/35971" },
+    {
+      source: "tmdb",
+      externalId: "35971",
+      externalLink: "https://www.themoviedb.org/tv/35971",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Pandora Hearts",
+  streamingOn: ["Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:52:27.286Z",
-  updatedAt: "2026-10-28T18:52:27.286Z",
+  updatedAt: "2026-10-28T19:45:35.613Z",
 } as const satisfies Show
