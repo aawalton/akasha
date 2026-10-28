@@ -7,11 +7,11 @@ export const myDressUpDarlingS01e19 = {
   description:
     "Marin discovers the terrifying truth that she's gained weight and her cosplay no longer fits her.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 19,
   publishedAt: "2025-08-17",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const myDressUpDarlingS01e19 = {
   stillPath: "/wZ9QVvuChQpmDllCdFTCVvAseMO.jpg",
   voteAverage: 7.2,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:31.427Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:31.427Z",
 } as const satisfies Episode
