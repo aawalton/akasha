@@ -16,10 +16,10 @@ export const kDa = {
       source: "spotify",
       externalId: "4gOc8TsQed9eqnqJct2c5v",
       externalLink: "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v",
-      lastSyncedAt: "2026-09-22",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "K/DA",
   createdAt: "2026-09-03T16:04:08.683Z",
-  updatedAt: "2026-09-22T13:39:44.000Z",
+  updatedAt: "2026-10-28T13:48:26.865Z",
 } as const satisfies Artist
