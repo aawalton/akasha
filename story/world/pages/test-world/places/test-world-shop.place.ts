@@ -32,7 +32,11 @@ export const testWorldShop = {
       fact: "The door behind the shop's counter opens on wooden steps down to the cellar.",
       knowers: ["lore-disclosure/game-master", "character-player/test-story-player"],
     },
+    {
+      fact: "The shop's green door stands unlatched from dawn to dusk, and a small bell hangs inside it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T19:10:06.969Z",
-  updatedAt: "2026-10-27T20:55:56.747Z",
+  updatedAt: "2026-10-28T00:38:23.418Z",
 } as const satisfies Place
