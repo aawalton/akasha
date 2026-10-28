@@ -41,7 +41,7 @@ const NO_ADDRESS = "This story answers no address, so no level can be read or ch
 
 const KEPT = "Holds from the next turn."
 
-export type Level = { readonly address: string; readonly title: string }
+type Level = { readonly address: string; readonly title: string }
 
 type Held =
   | { readonly levels: readonly Level[]; readonly chosen: string | null }
