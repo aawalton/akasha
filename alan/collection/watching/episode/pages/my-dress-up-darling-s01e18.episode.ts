@@ -7,11 +7,11 @@ export const myDressUpDarlingS01e18 = {
   description:
     "Wakana finishes up Marin's suit for her Rei-sama cosplay and the day of the beauty pageant finally arrives.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 18,
   publishedAt: "2025-08-10",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const myDressUpDarlingS01e18 = {
   stillPath: "/gDJZ5A5fYGUyXRm5AEBym2bytzu.jpg",
   voteAverage: 8.2,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:30.377Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:30.377Z",
 } as const satisfies Episode
