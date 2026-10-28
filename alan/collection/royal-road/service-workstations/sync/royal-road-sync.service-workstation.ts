@@ -5,7 +5,7 @@ export const royalRoadSync = {
   type: "page-type/service-workstation",
   slug: "royal-road-sync",
   definition: "the service syncing Royal Road chapters",
-  enabled: true,
+  enabled: false,
   needsSecrets: false,
   systemd: {
     schedule: "hourly",
@@ -14,5 +14,5 @@ export const royalRoadSync = {
     startTimeoutSeconds: 21600,
   },
   createdAt: "2026-09-03T16:45:12.980Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-28T14:14:25.976Z",
 } as const satisfies ServiceWorkstation
