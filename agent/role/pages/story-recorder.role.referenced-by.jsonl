@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-beat-flow-test-flex-3/iris-story-recorder-beat-flow-test-flex-3.seat.ts","id":"01a17f8d-2883-764a-b56f-750e535b1e5e"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-beat-flow-test-flex-4/iris-story-recorder-beat-flow-test-flex-4.seat.ts","id":"01a17f8d-4aaf-73a9-b249-e83198e3fe6b"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-gifted-reborn-flex-2/iris-story-recorder-gifted-reborn-flex-2.seat.ts","id":"01a17fc1-d072-77cf-83d9-4795d6913ec0"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-gifted-reborn-flex-3/iris-story-recorder-gifted-reborn-flex-3.seat.ts","id":"01a17fc5-ff0d-72a5-aa3f-6982299939b3"}
