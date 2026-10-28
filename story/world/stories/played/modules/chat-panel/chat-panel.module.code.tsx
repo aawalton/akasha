@@ -36,16 +36,16 @@ import { type ReactNode, useCallback, useEffect, useLayoutEffect, useRef, useSta
 
 const THE_ASSISTANT = "the assistant"
 
-export type ChatFrom = "alan" | "game-master"
+type ChatFrom = "alan" | "game-master"
 
-export type ChatLine = {
+type ChatLine = {
   readonly key: string
   readonly from: ChatFrom
   readonly text: string
   readonly said: string | null
 }
 
-export type ChatPending = {
+type ChatPending = {
   readonly key: string
   readonly text: string
   readonly refused: string | null
@@ -89,7 +89,7 @@ const BOX = "flex items-end gap-2 rounded-[1.25rem] border border-primary/10 p-1
 const BOX_TEXT =
   "max-h-40 min-h-9 flex-1 resize-none rounded-none bg-transparent px-2 py-1.5 shadow-none focus-visible:[outline:none]"
 
-export function askedOf(answerer: string): string {
+function askedOf(answerer: string): string {
   return `Ask ${answerer}…`
 }
 
