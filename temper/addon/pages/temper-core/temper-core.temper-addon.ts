@@ -55,6 +55,7 @@ export const temperCore = {
     "module/hud-addon-visibility-version",
     "module/hud-layout-place",
     "module/hud-layout-apply",
+    "module/hud-layout-trace",
   ],
   interfaces: [
     "eso-interface/scrollable-menu-controls",
@@ -81,5 +82,5 @@ export const temperCore = {
     },
   ],
   createdAt: "2026-09-02T10:58:22.045Z",
-  updatedAt: "2026-10-27T19:32:54.134Z",
+  updatedAt: "2026-10-28T14:04:07.823Z",
 } as const satisfies TemperAddon

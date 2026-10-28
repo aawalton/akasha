@@ -12,10 +12,17 @@ export interface HudField {
   compute: (this: void) => HudCell
 }
 
+export interface HudLayoutTrace {
+  placings: number
+  refits: string[]
+  clicks: string[]
+}
+
 export interface HudSavedVariables {
   schemaVersion: number
   session: { startTime: number }
   componentVisibility: Record<string, boolean>
+  hudLayoutTrace?: HudLayoutTrace
 }
 
 export const HUD_SAVED_VARIABLES_DEFAULTS: HudSavedVariables = {

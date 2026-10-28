@@ -16,6 +16,11 @@ import {
   type HudPoint,
   placeHudPanels,
 } from "akasha/temper/addon/pages/temper-core/modules/hud-layout-place/hud-layout-place.module.code.ts"
+import {
+  notePlacing,
+  noteRefit,
+  startHudLayoutTrace,
+} from "akasha/temper/addon/pages/temper-core/modules/hud-layout-trace/hud-layout-trace.module.code.ts"
 
 const NAMESPACE = "TemperHudLayout"
 const DEFAULT_GAP = 10
@@ -170,6 +175,7 @@ function roomTop(): number {
 
 function placePanels(): undefined {
   pending = false
+  notePlacing()
   const layout = hudLayout()
   if (layout === undefined) return
   const gaps = {} as Record<HudDock, number>
@@ -199,6 +205,7 @@ function placePanels(): undefined {
     const shrinking = fitting.get(place.key)
     if (shrinking === undefined || roomsGiven.get(place.key) === place.room) continue
     roomsGiven.set(place.key, place.room)
+    noteRefit(place.key, place.room)
     shrinking.fit(place.room)
   }
 }
@@ -223,6 +230,7 @@ export function fitHudPanel(
 }
 
 export function initializeHudLayout(): undefined {
+  startHudLayoutTrace()
   HUD_MANAGER?.RegisterCallback("PropagateSettings", schedulePlacing)
   HUD_MANAGER?.RegisterCallback("OffsetsChanged", schedulePlacing)
   EVENT_MANAGER.RegisterForEvent(NAMESPACE, EVENT_PLAYER_ACTIVATED, function (this: void) {
