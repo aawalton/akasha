@@ -35,6 +35,11 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A turn at game-master shows its action as a pending card, rolling until its outcome lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "That step is said to be worked only while a seat of the story is working.",
     },
     {
@@ -102,5 +107,5 @@ export const actionBar = {
     },
   ],
   createdAt: "2026-09-24T17:51:51.158Z",
-  updatedAt: "2026-10-28T01:28:26.653Z",
+  updatedAt: "2026-10-28T18:12:14.981Z",
 } as const satisfies Module

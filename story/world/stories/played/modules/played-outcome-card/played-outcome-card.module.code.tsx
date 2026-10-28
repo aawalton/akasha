@@ -51,6 +51,12 @@ const SEEN_KEPT = 200
 
 const STILL = "(prefers-reduced-motion: reduce)"
 
+const SPIN_MS = 90
+
+const DECIDING = "Deciding…"
+
+const CARD = `rounded-lg border border-surface-3 px-4 py-3 ${surfaceClass(1)}`
+
 export type Keeping = Pick<Storage, "getItem" | "setItem">
 
 export type Frame = { readonly place: number; readonly at: number }
@@ -139,6 +145,27 @@ function RolledOutcome({ card }: { readonly card: OutcomeCard }) {
   )
 }
 
+export function PendingCard({ action }: { readonly action: string }) {
+  const [still] = useState(() => HERE.matchMedia?.(STILL).matches ?? true)
+  const [place, setPlace] = useState(0)
+  useEffect(() => {
+    if (still) return undefined
+    const every = setInterval(() => setPlace((at) => (at + 1) % TIERS.length), SPIN_MS)
+    return () => clearInterval(every)
+  }, [still])
+  const shown = still ? DECIDING : (TIERS[place]?.title ?? DECIDING)
+  const tint = still ? "text-tertiary" : (tierClass(place) ?? "")
+  return (
+    <div className={CARD}>
+      <p className="text-sm">{action}</p>
+      <p className={`mt-1 pl-4 font-semibold text-sm ${tint}`}>
+        <span className="sr-only">{DECIDING}</span>
+        <span aria-hidden="true">{shown}</span>
+      </p>
+    </div>
+  )
+}
+
 function ActedLine({ card }: { readonly card: OutcomeCard }) {
   const { actor, action } = card
   if (actor === null && action === null) return null
@@ -160,10 +187,7 @@ export function OutcomeCards({ cards }: { readonly cards: readonly OutcomeCard[]
   return (
     <div className="flex flex-col gap-2">
       {cards.map((card, place) => (
-        <div
-          key={card.rollKey ?? `${place}:${card.outcome}`}
-          className={`rounded-lg border border-surface-3 px-4 py-3 ${surfaceClass(1)}`}
-        >
+        <div key={card.rollKey ?? `${place}:${card.outcome}`} className={CARD}>
           <ActedLine card={card} />
           <div className={card.actor === null && card.action === null ? "" : "mt-1 pl-4"}>
             <p className="text-tertiary text-xs">

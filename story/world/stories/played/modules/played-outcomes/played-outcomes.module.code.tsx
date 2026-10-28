@@ -40,12 +40,14 @@ import {
 import {
   type OutcomeCard,
   OutcomeCards,
+  PendingCard,
 } from "akasha/story/world/stories/played/modules/played-outcome-card/played-outcome-card.module.code.tsx"
 import {
   type Actors,
   actorsOf,
   unrevealedOf,
 } from "akasha/story/world/stories/played/modules/played-outcome-naming/played-outcome-naming.module.code.ts"
+import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { type ReactNode, useEffect, useState } from "react"
 
 const ID_KEY = "id"
@@ -346,6 +348,12 @@ export function usePlayedOutcomes(pageTypeSlug: string | null, ids: readonly str
   }, [pageTypeSlug, asked])
 
   return cards
+}
+
+export function MakingOutcome({ id, action }: { readonly id: string; readonly action: string }) {
+  const placed = usePlayedOutcomes(storyTurnPlayed.slug, [id]).get(id)
+  const cards = placed === undefined ? [] : [...placed.values()].flat()
+  return cards.length === 0 ? <PendingCard action={action} /> : <OutcomeCards cards={cards} />
 }
 
 export function cardsBefore(

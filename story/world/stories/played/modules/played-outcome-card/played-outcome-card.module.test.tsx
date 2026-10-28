@@ -9,6 +9,7 @@ import {
   type Keeping,
   type OutcomeCard,
   OutcomeCards,
+  PendingCard,
   rollingFrames,
   seenIn,
   seenNow,
@@ -81,6 +82,12 @@ test("a card naming no actor and no action opens with the check", () => {
   )
   expect(drawn).not.toContain("Nala")
   expect(drawn).not.toContain("pl-4")
+})
+
+test("a pending card shows the action and says the outcome is being decided", () => {
+  const drawn = renderToStaticMarkup(<PendingCard action="I turn the tables" />)
+  expect(drawn).toContain("I turn the tables")
+  expect(drawn).toContain('<span class="sr-only">Deciding…</span>')
 })
 
 test("a card whose path is hidden shows the difficulty alone", () => {

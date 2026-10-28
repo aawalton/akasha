@@ -35,7 +35,11 @@ export const playedOutcomeCard = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The roll runs a fixed time rather than following the check's evaluation.",
+      statement: "A pending card spins through the tiers until the outcome it waits on lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A card landing slows over a fixed time before stopping on its own tier.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -51,5 +55,5 @@ export const playedOutcomeCard = {
     },
   ],
   createdAt: "2026-10-28T17:55:07.494Z",
-  updatedAt: "2026-10-28T17:55:07.494Z",
+  updatedAt: "2026-10-28T18:12:14.981Z",
 } as const satisfies Module

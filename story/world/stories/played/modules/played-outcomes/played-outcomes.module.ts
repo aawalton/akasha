@@ -51,7 +51,16 @@ export const playedOutcomes = {
       decisionKind: "decision-kind/departure",
       statement: "The outcomes are read beside each turn as the prose is, and follow it live.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn at game-master shows a pending card until a card of its own is settled.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A turn's check is known only once settled, so a turn settling none shows a pending card too.",
+    },
   ],
   createdAt: "2026-10-27T20:40:18.723Z",
-  updatedAt: "2026-10-28T17:55:07.494Z",
+  updatedAt: "2026-10-28T18:12:14.981Z",
 } as const satisfies Module

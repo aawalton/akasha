@@ -119,6 +119,7 @@ function playedOrder(rows: readonly Page[]): readonly Page[] {
 }
 
 export type Making = {
+  readonly id: string
   readonly slug: string
   readonly action: string
   readonly step: TurnStep
@@ -193,6 +194,7 @@ export function playedMaking(
   const step = stepOf(last)
   const action = last[PLAYED_TURN_ACTION_KEY]
   return {
+    id: last.id,
     slug: slugIn(last) ?? last.id,
     action: typeof action === "string" ? action : "",
     step,

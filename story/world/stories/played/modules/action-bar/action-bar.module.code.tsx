@@ -40,7 +40,9 @@ import {
   turnReadyNews,
   turnReadySaid,
 } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
+import { MakingOutcome } from "akasha/story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx"
 import type { Making } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+import { GAME_MASTER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { type FormEvent, useCallback, useEffect, useRef, useState } from "react"
 
 const POLL_MS = 5000
@@ -292,9 +294,11 @@ export function ActionBar({
     <div className="flex flex-col gap-3">
       {!anyWaiting ? null : (
         <div className="flex flex-col gap-1">
-          {listed.map((one) => (
-            <ActionRow key={one.id} text={one.text} />
-          ))}
+          {making !== null && making.step === GAME_MASTER ? (
+            <MakingOutcome id={making.id} action={making.action} />
+          ) : (
+            listed.map((one) => <ActionRow key={one.id} text={one.text} />)
+          )}
           {shown.map((echo) => (
             <ActionRow key={echo.key} text={echo.text} />
           ))}

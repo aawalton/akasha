@@ -164,6 +164,7 @@ describe("playedReady and playedMaking", () => {
 
   test("the latest turn, while a seat of its story works it, says its action and its step", () => {
     expect(playedMaking([making, read], [seat("ready"), seat("working")])).toEqual({
+      id: "b",
       slug: "saga-02",
       action: "I open the gate",
       step: "reviewers",
