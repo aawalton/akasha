@@ -4201,6 +4201,11 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-practice.world-check.ts","id":"01a17ff1-398f-73e3-bd7e-a87a31f93187"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-time-passing.world-check.ts","id":"01a17edf-d61f-7574-9598-5df749060e23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.ts","id":"01a0e822-39b3-7bc0-be8e-4a7093388b67"}
+{"propertySlug":"decision-kind","path":"story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/mechanics/checks/outcome-cards-check-action-check.world-check.ts","id":"01a17ffe-7d82-7ad0-97d2-9ce54e10c470"}
+{"propertySlug":"decision-kind","path":"story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/mechanics/checks/outcome-cards-check-time-passing.world-check.ts","id":"01a17ffe-7d82-7c42-a85f-2c32a92ae54f"}
+{"propertySlug":"decision-kind","path":"story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/mechanics/checks/outcome-cards-check-training.world-check.ts","id":"01a17ffe-7d82-7cb2-a8e2-6312075d4784"}
+{"propertySlug":"decision-kind","path":"story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/mechanics/checks/outcome-cards-check-upkeep.world-check.ts","id":"01a17ffe-7d82-76b3-a74f-a7fb49cb2e74"}
+{"propertySlug":"decision-kind","path":"story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/mechanics/metrics/resources/points/outcome-cards-check-points.page-type.ts","id":"01a17ffe-7d81-7f52-a722-564bf6b08714"}
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-action-check.world-check.ts","id":"01a17fbf-aff5-77f9-8a21-3c90f97f9836"}
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-time-passing.world-check.ts","id":"01a17fbf-aff5-7e3f-9d50-281dbbd2a5a1"}
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-training.world-check.ts","id":"01a17fbf-aff5-7971-b3fe-026d1c8213e0"}
