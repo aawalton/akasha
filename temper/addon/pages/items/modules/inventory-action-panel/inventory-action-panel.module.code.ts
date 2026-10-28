@@ -1,4 +1,5 @@
 import { getInventoryActionSummary } from "akasha/temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"
+import { FILTER_BAR_WIDTH } from "akasha/temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts"
 
 import { drawPanelBackground } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
@@ -17,7 +18,7 @@ const PADDING_Y = 16
 const HEADER_HEIGHT = 24
 const ROW_HEIGHT = 22
 const ROW_GAP = spaceOf("1")
-const MIN_WIDTH = 200
+const MIN_WIDTH = FILTER_BAR_WIDTH
 
 interface PanelState {
   tlw: TopLevelWindow

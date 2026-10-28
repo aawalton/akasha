@@ -37,16 +37,15 @@ const DEFAULT_ANCHOR_GAP_Y = 8
 const FALLBACK_LEFT = 200
 const FALLBACK_TOP = 200
 
-const PANEL_WIDTH = 250
+export const FILTER_BAR_WIDTH = 250
 const HEADER_HEIGHT = CONTROL_HEIGHT + PADDING_Y * 2
 const ROW_HEIGHT = CONTROL_HEIGHT + PADDING_Y * 2
 const LABEL_COL_WIDTH = 90
 const REMOVE_WIDTH = 22
-const REMOVE_X = PANEL_WIDTH - PADDING_X - REMOVE_WIDTH
+const REMOVE_X = FILTER_BAR_WIDTH - PADDING_X - REMOVE_WIDTH
 const EDITOR_WIDTH = REMOVE_X - CONTROL_GAP - LABEL_COL_WIDTH
 const ADD_COMBO_WIDTH = 110
-const CLEAR_X = PANEL_WIDTH - PADDING_X - CLEAR_WIDTH
-const ADD_COMBO_X = CLEAR_X - CONTROL_GAP - ADD_COMBO_WIDTH
+const CLEAR_X = FILTER_BAR_WIDTH - PADDING_X - CLEAR_WIDTH
 
 const ADD_FILTER_LABEL = "+ Add filter"
 
@@ -88,15 +87,19 @@ export function createFilterBar(config: FilterBarConfig): undefined {
 
   const tlw = WINDOW_MANAGER.CreateTopLevelWindow(PANEL_NAME)
   tlw.SetHidden(true)
-  tlw.SetDimensions(PANEL_WIDTH, HEADER_HEIGHT + PADDING_Y)
+  tlw.SetDimensions(FILTER_BAR_WIDTH, HEADER_HEIGHT + PADDING_Y)
 
   drawPanelBackground(tlw)
 
   const header = WINDOW_MANAGER.CreateControl("$(parent)Header", tlw, CT_CONTROL)
   header.SetAnchor(TOPLEFT, tlw, TOPLEFT, 0, 0)
-  header.SetDimensions(PANEL_WIDTH, HEADER_HEIGHT)
+  header.SetAnchor(TOPRIGHT, tlw, TOPRIGHT, 0, 0)
+  header.SetHeight(HEADER_HEIGHT)
   const title = createFieldLabel(header, "Filters", PADDING_X)
   title.SetMouseEnabled(false)
+
+  const clearButton = createBarButton(tlw, "$(parent)Clear", "Clear", CLEAR_X, CLEAR_WIDTH)
+  alignRight(clearButton.backdrop, tlw)
 
   const comboContainer = WINDOW_MANAGER.CreateControlFromVirtual(
     "$(parent)AddCombo",
@@ -104,11 +107,9 @@ export function createFilterBar(config: FilterBarConfig): undefined {
     "ZO_ComboBox"
   )
   comboContainer.SetDimensions(ADD_COMBO_WIDTH, CONTROL_HEIGHT)
-  comboContainer.SetAnchor(TOPLEFT, tlw, TOPLEFT, ADD_COMBO_X, PADDING_Y)
+  comboContainer.SetAnchor(TOPRIGHT, clearButton.backdrop, TOPLEFT, -CONTROL_GAP, 0)
   const combo = ZO_ComboBox_ObjectFromContainer(comboContainer)
   const addSyncing: { v: boolean } = { v: false }
-
-  const clearButton = createBarButton(tlw, "$(parent)Clear", "Clear", CLEAR_X, CLEAR_WIDTH)
 
   const byId = new Map<FilterId, AnyTemperFilter>()
   for (const filter of TEMPER_FILTERS) {
@@ -131,10 +132,11 @@ export function createFilterBar(config: FilterBarConfig): undefined {
       if (row === undefined) continue
       row.container.ClearAnchors()
       row.container.SetAnchor(TOPLEFT, tlw, TOPLEFT, 0, y)
+      row.container.SetAnchor(TOPRIGHT, tlw, TOPRIGHT, 0, y)
       y += ROW_HEIGHT
     }
     const height = activeOrder.length === 0 ? HEADER_HEIGHT + PADDING_Y : y + PADDING_Y
-    tlw.SetDimensions(PANEL_WIDTH, height)
+    tlw.SetHeight(height)
   }
 
   let activateRef: (id: FilterId) => undefined = () => undefined
@@ -193,7 +195,7 @@ export function createFilterBar(config: FilterBarConfig): undefined {
   const buildRow = (filter: AnyTemperFilter): FilterRow => {
     const safe = sanitizeName(filter.id)
     const container = WINDOW_MANAGER.CreateControl(`${PANEL_NAME}Row_${safe}`, tlw, CT_CONTROL)
-    container.SetDimensions(PANEL_WIDTH, ROW_HEIGHT)
+    container.SetHeight(ROW_HEIGHT)
 
     const label = createFieldLabel(container, `${filter.label}:`, PADDING_X)
     label.SetMouseEnabled(false)
@@ -220,6 +222,7 @@ export function createFilterBar(config: FilterBarConfig): undefined {
       REMOVE_X,
       REMOVE_WIDTH
     )
+    alignRight(remove.backdrop, container)
     const id = filter.id
     remove.button.SetHandler("OnClicked", function (this: void): undefined {
       deactivate(id)
@@ -292,10 +295,16 @@ function renderEditorInto(ctx: BarContext, filter: AnyTemperFilter, container: C
   buildRangeEditor(ctx, filter, LABEL_COL_WIDTH, container, EDITOR_WIDTH)
 }
 
+function alignRight(control: Control, within: Control): undefined {
+  control.ClearAnchors()
+  control.SetAnchor(TOPRIGHT, within, TOPRIGHT, -PADDING_X, PADDING_Y)
+}
+
 function applyDefaultAnchor(
   tlw: TopLevelWindow,
   surfaceAnchors: readonly SurfaceAnchor[] | undefined
 ): undefined {
+  tlw.SetWidth(FILTER_BAR_WIDTH)
   if (surfaceAnchors !== undefined) {
     for (const surface of surfaceAnchors) {
       if (!surface.isActive()) continue
@@ -311,6 +320,7 @@ function applyDefaultAnchor(
   const planPanel = WINDOW_MANAGER.GetControlByName(PLAN_PANEL_NAME)
   if (planPanel !== undefined) {
     tlw.SetAnchor(TOPLEFT, planPanel, BOTTOMLEFT, 0, DEFAULT_ANCHOR_GAP_Y)
+    tlw.SetAnchor(TOPRIGHT, planPanel, BOTTOMRIGHT, 0, DEFAULT_ANCHOR_GAP_Y)
     return
   }
   const inventory = WINDOW_MANAGER.GetControlByName(INVENTORY_TARGET_NAME)

@@ -31,7 +31,11 @@ export const filterBar = {
       decisionKind: "decision-kind/departure",
       statement: "The panel sits under the inventory plan, beside the inventory window.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel under the plan takes the plan's width.",
+    },
   ],
   createdAt: "2026-09-02T08:45:26.709Z",
-  updatedAt: "2026-10-28T15:49:51.199Z",
+  updatedAt: "2026-10-28T16:10:47.306Z",
 } as const satisfies Module

@@ -16,10 +16,14 @@ export const inventoryActionPanel = {
       statement: "The panel moves again whenever one of the inventory windows shows or hides.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel is never narrower than the filter bar under it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "The panel is neither dragged nor kept where a drag left it.",
     },
   ],
   createdAt: "2026-09-02T13:39:35.852Z",
-  updatedAt: "2026-10-28T15:46:37.002Z",
+  updatedAt: "2026-10-28T16:10:47.306Z",
 } as const satisfies Module
