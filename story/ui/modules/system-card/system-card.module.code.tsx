@@ -11,7 +11,6 @@ export function SystemCard({
 }) {
   return (
     <SurfaceProvider
-      level={1}
       className={`flex flex-col gap-2 rounded-xl p-4 font-mono text-[13.5px] leading-[1.55] shadow-sm ${
         dim === true ? "opacity-60" : ""
       }`}
@@ -34,10 +33,7 @@ export function SystemCard({
 
 export function UnavailableSystemCard() {
   return (
-    <SurfaceProvider
-      level={1}
-      className="flex flex-col gap-2 rounded-xl p-4 font-mono text-[13.5px] leading-[1.55] shadow-sm"
-    >
+    <SurfaceProvider className="flex flex-col gap-2 rounded-xl p-4 font-mono text-[13.5px] leading-[1.55] shadow-sm">
       <div className="text-secondary italic">System window unavailable.</div>
     </SurfaceProvider>
   )
