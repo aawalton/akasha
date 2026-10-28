@@ -132,6 +132,14 @@ export const alan = {
   hasSafetyPlan: true,
   vo2max: 40.2,
   coffeeCupsPerDay: 0,
+  wholeGrainGramsPerDay: 200,
+  fruitVegetableGramsPerDay: 200,
+  legumeServingsPerWeek: 1,
+  fishServingsPerWeek: 1,
+  socialIsolation: "not-isolated",
+  seatbeltUse: "always",
+  saunaSessionsPerWeek: 0,
+  hotBathsPerWeek: 2.5,
   physicalRiskActivities: [
     { activity: "hiking", note: "occasional; always on well-marked trails" },
   ],
@@ -218,5 +226,5 @@ export const alan = {
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T19:57:24.240Z",
+  updatedAt: "2026-10-28T20:01:01.739Z",
 } as const satisfies Person
