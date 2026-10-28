@@ -7,12 +7,7 @@ export const awenShowPrevious = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [
-    {
-      statement:
-        "At the top of the play page, Show Previous loads the chapter before what is shown.",
-    },
-  ],
+  intentStack: [],
   createdAt: "2026-10-28T17:06:47.376Z",
-  updatedAt: "2026-10-28T17:06:47.376Z",
+  updatedAt: "2026-10-28T17:28:25.188Z",
 } as const satisfies Initiative
