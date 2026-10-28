@@ -16,10 +16,10 @@ export const kpopDemonHuntersCast = {
       source: "spotify",
       externalId: "7mW7Tv7NvywKKXqafZo0Lc",
       externalLink: "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc",
-      lastSyncedAt: "2026-09-22",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "KPop Demon Hunters Cast",
   createdAt: "2026-09-03T16:04:08.683Z",
-  updatedAt: "2026-09-22T13:40:12.000Z",
+  updatedAt: "2026-10-28T13:48:29.606Z",
 } as const satisfies Artist
