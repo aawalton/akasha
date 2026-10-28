@@ -141,10 +141,6 @@ export function heldOf(page: unknown): Held {
   return read.success ? read.data : {}
 }
 
-export function sameKeybinding(one: Keybinding, other: Keybinding): boolean {
-  return JSON.stringify(ordered(one)) === JSON.stringify(ordered(other))
-}
-
 function ordered(one: Keybinding): Record<string, unknown> {
   return {
     title: one.title,
