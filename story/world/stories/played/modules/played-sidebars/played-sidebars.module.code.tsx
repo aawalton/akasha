@@ -3,6 +3,7 @@
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Shown } from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
 
@@ -78,7 +79,9 @@ const BAR_GROUP = "flex items-center gap-1"
 
 const ROW = "flex w-full items-start"
 
-const CENTER = "flex min-w-0 flex-1 flex-col"
+const CENTER = "flex min-h-[calc(100dvh-var(--safe-area-top))] min-w-0 flex-1 flex-col"
+
+const RAISED = 1
 
 const BODY = "flex w-full px-6 pt-3 pb-12 min-[584px]:pt-6"
 
@@ -347,9 +350,9 @@ export function PlayedSidebars({
     <div ref={rootAt} className={ROOT}>
       <div className={ROW}>
         {sidebar("left")}
-        <div className={CENTER}>
+        <SurfaceProvider level={RAISED} className={CENTER}>
           {phone || looks.length === NONE ? null : (
-            <div className={cn(TOP_BAR, surfaceClass(0))}>
+            <div className={cn(TOP_BAR, surfaceClass(RAISED))}>
               {(["left", "right"] as const).map((side) => (
                 <div key={side} className={BAR_GROUP}>
                   {looks
@@ -376,10 +379,10 @@ export function PlayedSidebars({
                 {panelsAbove}
                 {runDrawn}
               </div>
-              {bar == null ? null : <div className={cn(BAR_HELD, surfaceClass(0))}>{bar}</div>}
+              {bar == null ? null : <div className={cn(BAR_HELD, surfaceClass(RAISED))}>{bar}</div>}
             </div>
           </div>
-        </div>
+        </SurfaceProvider>
         {sidebar("right")}
       </div>
       {phone && looks.length > NONE ? <div className={TAB_BAR_ROOM} /> : null}
