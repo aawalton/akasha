@@ -11,9 +11,21 @@ export const onePunchMan = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "63926", externalLink: "https://www.themoviedb.org/tv/63926" },
+    {
+      source: "tmdb",
+      externalId: "63926",
+      externalLink: "https://www.themoviedb.org/tv/63926",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "One-Punch Man",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+  ],
   createdAt: "2026-10-28T18:49:41.167Z",
-  updatedAt: "2026-10-28T18:49:41.167Z",
+  updatedAt: "2026-10-28T19:45:29.975Z",
 } as const satisfies Show
