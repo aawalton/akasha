@@ -23,7 +23,13 @@ export const animeUnfinished = {
     { key: "total-length", descending: false },
     { key: "title", descending: false },
   ],
-  visibleProperties: ["completion-percent", "position", "total-length", "total-progress"],
+  visibleProperties: [
+    "completion-percent",
+    "position",
+    "total-length",
+    "total-progress",
+    "parts-streaming-on",
+  ],
   createdAt: "2026-10-28T18:43:46.517Z",
-  updatedAt: "2026-10-28T19:31:46.608Z",
+  updatedAt: "2026-10-28T19:58:56.227Z",
 } as const satisfies View
