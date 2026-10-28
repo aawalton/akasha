@@ -6,11 +6,11 @@ export const myDressUpDarlingS01e21 = {
   slug: "my-dress-up-darling-s01e21",
   description: 'Marin tries to convince Juju to join their "Coffin" cosplay group.',
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 21,
   publishedAt: "2025-08-31",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -24,5 +24,7 @@ export const myDressUpDarlingS01e21 = {
   stillPath: "/75sYB8mEw29gUFKcthwI2fNphFA.jpg",
   voteAverage: 7.5,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:33.535Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:33.535Z",
 } as const satisfies Episode
