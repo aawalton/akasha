@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const diaryOfATeenagedMimic1061DayOneThousandAndFiftyNine = {
+  id: "01a183b6-a119-7b31-9145-388ecf0747e5",
+  type: "page-type/story-chapter-read",
+  slug: "diary-of-a-teenaged-mimic-1061-day-one-thousand-and-fifty-nine",
+  position: 1061,
+  publishedAt: "2026-06-03",
+  unit: "unit/words",
+  title: "Day One Thousand And Fifty-Nine",
+  story: "story-read/diary-of-a-teenaged-mimic",
+  ownLength: 2364,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3485613",
+      externalLink:
+        "https://www.royalroad.com/fiction/71275/diary-of-a-teenaged-mimic/chapter/3485613/day-one-thousand-and-fifty-nine",
+    },
+  ],
+  createdAt: "2026-10-28T18:12:26.521Z",
+  updatedAt: "2026-10-28T18:12:26.521Z",
+} as const satisfies StoryChapterRead
