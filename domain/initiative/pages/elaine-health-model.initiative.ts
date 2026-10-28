@@ -21,13 +21,9 @@ export const elaineHealthModel = {
     },
     {
       statement:
-        "Each cause of death the model weighs is a page carrying its rates and their sources.",
-    },
-    {
-      statement:
         "Each activity the model prices is a page carrying its risk and that risk's sources.",
     },
   ],
   createdAt: "2026-10-28T17:48:39.611Z",
-  updatedAt: "2026-10-28T18:16:44.229Z",
+  updatedAt: "2026-10-28T18:43:44.300Z",
 } as const satisfies Initiative
