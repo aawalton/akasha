@@ -40,7 +40,30 @@ export const medicine = {
       decisionKind: "decision-kind/departure",
       statement: "Alan's sleep is his mean daily logged sleep over the trailing three months.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A relative risk measured on a clinically diagnosed group is the high end of Alan's range.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "For a self-diagnosed condition, the low end of Alan's range is no added risk.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Depression's risk applies for the share of logged time Alan spends below safety level 3.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two relative risks that the sources say overlap are never multiplied together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An all-cause relative risk is never applied on top of a cause's own relative risks.",
+    },
   ],
   createdAt: "2026-09-03T13:00:18.032Z",
-  updatedAt: "2026-10-28T18:19:17.719Z",
+  updatedAt: "2026-10-28T18:43:34.679Z",
 } as const satisfies Domain
