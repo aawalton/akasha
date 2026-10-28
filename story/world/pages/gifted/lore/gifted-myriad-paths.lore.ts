@@ -207,7 +207,7 @@ export const giftedMyriadPaths = {
     },
     {
       fact: "The Completionist gains one step for each Path its holder completes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
       fact: "The Completionist's Tiers fall at 1, 3, 6, 10 and 15 steps.",
@@ -227,5 +227,5 @@ export const giftedMyriadPaths = {
     },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T00:58:50.834Z",
+  updatedAt: "2026-10-28T00:59:54.496Z",
 } as const satisfies Lore
