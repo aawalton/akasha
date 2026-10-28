@@ -30,7 +30,11 @@ export const charactersBuildTargetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What the game said to an apply is shown beside the button.",
+      statement: "What the game said to an apply is shown under the button.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line is styled before its text is set, since the game cases text as it is set.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,5 +46,5 @@ export const charactersBuildTargetPanel = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-10-28T20:23:58.819Z",
+  updatedAt: "2026-10-28T20:31:07.987Z",
 } as const satisfies Module

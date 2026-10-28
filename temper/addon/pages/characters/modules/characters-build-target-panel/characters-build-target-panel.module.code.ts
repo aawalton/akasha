@@ -107,16 +107,16 @@ function placeBeside(window: TopLevelWindow): undefined {
 }
 
 function showHeading(label: LabelControl, title: string, met: number, total: number): undefined {
-  label.SetText(`${title}  ${met} of ${total}`)
   styleText(label, "label")
+  label.SetText(`${title}  ${met} of ${total}`)
   if (met === total) colorText(label, textColorOf(INTERFACE_TEXT_COLOR_SUCCEEDED))
   else colorText(label, colorOf("strong"))
   return undefined
 }
 
 function showUnmet(label: LabelControl, text: string): undefined {
-  label.SetText(text)
   styleText(label, "body")
+  label.SetText(text)
   colorText(label, textColorOf(INTERFACE_TEXT_COLOR_FAILED))
   return undefined
 }
