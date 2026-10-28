@@ -55,9 +55,9 @@ const ALAN = "alan"
 
 const CAUSE_PAGE_TYPE = "cause-of-death"
 
-export type Band = { readonly start: number; readonly end: number; readonly rate: number }
+type Band = { readonly start: number; readonly end: number; readonly rate: number }
 
-export type Factor = {
+type Factor = {
   readonly factor: string
   readonly low: number
   readonly central: number
@@ -71,7 +71,7 @@ export type Cause = {
   readonly factors: readonly Factor[]
 }
 
-export function causeOf(slug: string, value: Value): Cause {
+function causeOf(slug: string, value: Value): Cause {
   const bands = recordsIn(value.baselineRates).map((one) => ({
     start: numberAt(one, "ageBandStart") ?? Number.NaN,
     end: numberAt(one, "ageBandEnd") ?? Number.NaN,
@@ -87,7 +87,7 @@ export function causeOf(slug: string, value: Value): Cause {
   return { slug, bands, factors }
 }
 
-export type Bound = {
+type Bound = {
   readonly key: string
   readonly reading: Reading
   readonly mu: number
@@ -154,7 +154,7 @@ export function normalsOf(next: () => number, count: number): Float64Array {
   return drawn
 }
 
-export type Draws = ReadonlyMap<string, Float64Array>
+type Draws = ReadonlyMap<string, Float64Array>
 
 export function drawsFor(causes: readonly Cause[], count: number = DRAWS): Draws {
   const next = seeded(SEED)
@@ -174,7 +174,7 @@ type Running = {
   readonly held: Held
 }
 
-export type Part = { readonly cluster: string | undefined; readonly factor: number }
+type Part = { readonly cluster: string | undefined; readonly factor: number }
 
 export function combinedOf(parts: readonly Part[]): number {
   let product = 1
@@ -271,7 +271,7 @@ export function runOf(
   return { lifetime, ages, expectancy, aliveAtEnd }
 }
 
-export function quantileOf(values: Float64Array, share: number): number {
+function quantileOf(values: Float64Array, share: number): number {
   const sorted = Float64Array.from(values).sort()
   if (sorted.length === 0) return Number.NaN
   return sorted[Math.min(sorted.length - 1, Math.floor(share * (sorted.length - 1)))] ?? Number.NaN
@@ -310,11 +310,11 @@ export function differenceOf(after: Float64Array, before: Float64Array): Float64
   return after.map((one, index) => one - (before[index] ?? 0))
 }
 
-export function ageOn(birthDate: string, today: string): number {
+function ageOn(birthDate: string, today: string): number {
   return (Date.parse(`${today}T12:00:00Z`) - Date.parse(`${birthDate}T12:00:00Z`)) / MS_PER_YEAR
 }
 
-export function causesIn(root: string): readonly Cause[] {
+function causesIn(root: string): readonly Cause[] {
   return valuesOfType(root, CAUSE_PAGE_TYPE)
     .map((one) => causeOf(textAt(one.value, "slug") ?? one.path, one.value))
     .sort((a, b) => a.slug.localeCompare(b.slug))
