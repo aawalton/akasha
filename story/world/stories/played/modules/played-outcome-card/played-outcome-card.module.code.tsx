@@ -59,7 +59,7 @@ const CARD = "rounded-lg border border-surface-3 px-4 py-3"
 
 export type Keeping = Pick<Storage, "getItem" | "setItem">
 
-export type Frame = { readonly place: number; readonly at: number }
+type Frame = { readonly place: number; readonly at: number }
 
 export function tierAt(address: string): number {
   return TIERS.findIndex((one) => `${outcomeTier.slug}${PARTED}${one.slug}` === address)
