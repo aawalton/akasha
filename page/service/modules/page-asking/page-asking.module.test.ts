@@ -289,10 +289,9 @@ test("a key a type above declares is a key of the type below", () => {
 })
 
 test("a key only a type below declares narrows the pages below", () => {
-  const where = { isbn: { empty: false } }
-  const rows = rowsOf(asking(root, { pageTypeSlug: "collection", where, keys: ["isbn"] }))
-  expect(rows.length).toBeGreaterThan(0)
-  for (const one of rows) expect(typeof one.isbn).toBe("string")
+  const where = { slug: { in: ["fairy-tale", "ariana-grande-7-rings"] }, isbn: { empty: false } }
+  const rows = rowsOf(asking(root, { pageTypeSlug: "collection", where, keys: ["slug"] }))
+  expect(rows).toEqual([{ slug: "fairy-tale" }])
 })
 
 test("what a query asks for is every key it names, each under where it named it", () => {
