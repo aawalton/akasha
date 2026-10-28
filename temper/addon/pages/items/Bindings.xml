@@ -21,7 +21,7 @@
     </Category>
   </Layer>
   <Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
-    <Category name="SI_KEYBINDINGS_CATEGORY_TEMPER_CRAFTING">
+    <Category name="Temper Crafting">
       <Action name="CRAFTSTORE_WINDOW">
         <Down>TemperItemsCrafting.ShowMain()</Down>
       </Action>
