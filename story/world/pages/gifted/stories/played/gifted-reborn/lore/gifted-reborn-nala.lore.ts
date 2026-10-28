@@ -130,10 +130,6 @@ export const giftedRebornNala = {
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
-      fact: "Its reward, her window showed, was the Path of the Completionist and 2 Unallocated Stats.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
-    },
-    {
       fact: "Her window showed the Achievement: Consume another soul and absorb it into your own.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
@@ -181,7 +177,11 @@ export const giftedRebornNala = {
       fact: "Counting brought her Path of Basic Numeracy to Tier 1, and her window showed Mental +1.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Its reward, her window showed, was Path of Exceptionalism at 20 steps and Talented at 100.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T15:06:42.997Z",
+  updatedAt: "2026-10-28T15:44:16.063Z",
 } as const satisfies Lore
