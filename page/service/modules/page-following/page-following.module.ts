@@ -170,7 +170,19 @@ export const pageFollowing = {
       decisionKind: "decision-kind/departure",
       statement: "A plan or a push taking a second or more is logged with how long it took.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A plan reads every follow of every stream and holds the listening thread.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Follows arriving together are planned once rather than once each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A follow is answered once a plan made after that follow arrived has run.",
+    },
   ],
   createdAt: "2026-09-24T18:45:06.468Z",
-  updatedAt: "2026-09-29T00:11:16.000Z",
+  updatedAt: "2026-10-28T18:11:37.471Z",
 } as const satisfies Module

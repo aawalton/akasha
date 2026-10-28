@@ -204,62 +204,62 @@ async function eventsFrom(
   return found
 }
 
+async function statusOf(answered: Promise<Response>): Promise<number> {
+  return (await answered).status
+}
+
 test("a stream nobody reads is closed, and its follows let go", async () => {
   const following = followingFor(NOWHERE, 10)
-  const opened = following.opened(new Request("http://here/events"))
-  const reader = (opened.body as ReadableStream<Uint8Array>).getReader()
-  const [first] = await eventsFrom(reader, 1)
-  const { stream } = STREAM_SAID.parse(JSON.parse((first ?? "").split("data: ")[1] ?? "{}"))
-  expect(following.followed({ stream, follows: [] }).status).toBe(200)
+  const { stream } = await streamOf(following)
+  expect(await statusOf(following.followed({ stream, follows: [] }))).toBe(200)
   await Bun.sleep(120)
-  expect(following.followed({ stream, follows: [] }).status).toBe(404)
+  expect(await statusOf(following.followed({ stream, follows: [] }))).toBe(404)
 })
 
 test("a stream read as it beats stays open however long it runs", async () => {
   const following = followingFor(NOWHERE, 10)
-  const aborting = new AbortController()
-  const opened = following.opened(new Request("http://here/events", { signal: aborting.signal }))
-  const reader = (opened.body as ReadableStream<Uint8Array>).getReader()
-  const [first] = await eventsFrom(reader, 1)
-  const { stream } = STREAM_SAID.parse(JSON.parse((first ?? "").split("data: ")[1] ?? "{}"))
+  const { reader, stream, aborting } = await streamOf(following)
   const until = Date.now() + 120
   while (Date.now() < until) await reader.read()
-  expect(following.followed({ stream, follows: [] }).status).toBe(200)
+  expect(await statusOf(following.followed({ stream, follows: [] }))).toBe(200)
   aborting.abort()
 })
 
 test("a stream read as it beats stays open through a stall of the service", async () => {
   const following = followingFor(NOWHERE, 10)
-  const aborting = new AbortController()
-  const opened = following.opened(new Request("http://here/events", { signal: aborting.signal }))
-  const reader = (opened.body as ReadableStream<Uint8Array>).getReader()
-  const [first] = await eventsFrom(reader, 1)
-  const { stream } = STREAM_SAID.parse(JSON.parse((first ?? "").split("data: ")[1] ?? "{}"))
+  const { reader, stream, aborting } = await streamOf(following)
   const reading = (async () => {
     while (!aborting.signal.aborted) await reader.read()
   })()
   const stalled = Date.now() + 100
   while (Date.now() < stalled) {}
   await Bun.sleep(30)
-  expect(following.followed({ stream, follows: [] }).status).toBe(200)
+  expect(await statusOf(following.followed({ stream, follows: [] }))).toBe(200)
   aborting.abort()
   await reading.catch(() => undefined)
 })
 
+test("follows arriving together are each answered once one plan has heard them all", async () => {
+  const following = followingFor(NOWHERE)
+  const opened = await Promise.all([streamOf(following), streamOf(following)])
+  const follows = [{ key: "seats", pageTypeSlug: "seat" }]
+  const answered = await Promise.all(
+    opened.map((one) => statusOf(following.followed({ stream: one.stream, follows })))
+  )
+  expect(answered).toEqual([200, 200])
+  for (const one of opened) one.aborting.abort()
+})
+
 test("a change is pushed down the stream following it and no other change is", async () => {
   const following = followingFor(NOWHERE)
-  const aborting = new AbortController()
-  const opened = following.opened(new Request("http://here/events", { signal: aborting.signal }))
-  const reader = (opened.body as ReadableStream<Uint8Array>).getReader()
-  const [first] = await eventsFrom(reader, 1)
-  const { stream } = STREAM_SAID.parse(JSON.parse((first ?? "").split("data: ")[1] ?? "{}"))
+  const { reader, stream, aborting } = await streamOf(following)
   const unknown = following.followed({ stream: "no-such-stream", follows: [] })
-  expect(unknown.status).toBe(404)
+  expect(await statusOf(unknown)).toBe(404)
   const answered = following.followed({
     stream,
     follows: [{ key: "athena-page", pageTypeSlug: "seat", by: "slug", values: ["athena"] }],
   })
-  expect(answered.status).toBe(200)
+  expect(await statusOf(answered)).toBe(200)
   following.changed({ pageTypeSlug: "seat", slug: "ember" })
   following.changed({ pageTypeSlug: "persona", slug: "athena" })
   following.changed({ pageTypeSlug: "seat", slug: "athena" })
@@ -315,7 +315,7 @@ test("a stream opened again with the mark it had is sent the changes it missed, 
   const follows = [{ key: "seats", pageTypeSlug: "seat", by: "slug", values: ["athena", "ember"] }]
   const first = await streamOf(following)
   const taken = FOLLOW_SAID.parse(
-    await following.followed({ stream: first.stream, follows }).json()
+    await (await following.followed({ stream: first.stream, follows })).json()
   )
   expect(taken.caughtUp).toBe(false)
   following.changed({ pageTypeSlug: "seat", slug: "athena" })
@@ -325,7 +325,7 @@ test("a stream opened again with the mark it had is sent the changes it missed, 
   const second = await streamOf(following)
   const since = { epoch: taken.epoch, mark: taken.mark + 1 }
   const again = FOLLOW_SAID.parse(
-    await following.followed({ stream: second.stream, follows, since }).json()
+    await (await following.followed({ stream: second.stream, follows, since })).json()
   )
   expect(again).toMatchObject({ epoch: taken.epoch, mark: taken.mark + 2, caughtUp: true })
   const [missed, caught] = await eventsFrom(second.reader, 2)
@@ -339,7 +339,9 @@ test("a stream opened again with the mark it had is sent the changes it missed, 
   )
   expect(caught).toBe(eventSaid("mark", { epoch: taken.epoch, mark: taken.mark + 2 }).trimEnd())
   const other = { epoch: "another-run", mark: 0 }
-  const lost = await following.followed({ stream: second.stream, follows, since: other }).json()
+  const lost = await (
+    await following.followed({ stream: second.stream, follows, since: other })
+  ).json()
   expect(FOLLOW_SAID.parse(lost).caughtUp).toBe(false)
   second.aborting.abort()
 })

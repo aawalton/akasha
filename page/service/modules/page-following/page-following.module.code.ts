@@ -105,7 +105,7 @@ function pushedOf(one: Sent, keys: readonly string[]): unknown {
 
 export type Following = {
   readonly opened: (request: Request) => Response
-  readonly followed: (given: unknown) => Response
+  readonly followed: (given: unknown) => Promise<Response>
   readonly changed: (one: Changed) => undefined
   readonly kept: (read: Reads) => undefined
 }
@@ -367,6 +367,19 @@ export function followingFor(
     return undefined
   }
 
+  let together: Promise<undefined> | null = null
+
+  const plannedTogether = (): Promise<undefined> => {
+    together ??= new Promise<undefined>((settle) => {
+      setTimeout(() => {
+        together = null
+        plan()
+        settle(undefined)
+      }, 0)
+    })
+    return together
+  }
+
   const opened = (request: Request): Response => {
     const id = crypto.randomUUID()
     const encoder = new TextEncoder()
@@ -428,15 +441,15 @@ export function followingFor(
     })
   }
 
-  const followed = (given: unknown): Response => {
+  const followed = async (given: unknown): Promise<Response> => {
     const asked = askedIn(given)
     if ("refused" in asked) return said({ refused: asked.refused }, 400)
+    const unopened = said({ refused: `no stream is open as \`${asked.stream}\`` }, 404)
     const stream = streams.get(asked.stream)
-    if (stream === undefined) {
-      return said({ refused: `no stream is open as \`${asked.stream}\`` }, 404)
-    }
+    if (stream === undefined) return unopened
     stream.helds = asked.follows.map((one) => heldFor(root, one))
-    plan()
+    await plannedTogether()
+    if (streams.get(asked.stream) !== stream) return unopened
     const replay = asked.since === undefined ? null : replayOf(recent, asked.since, epoch, mark)
     const loose = stream.helds.map((one) => ({ key: one.key, kinds: one.kinds, slugs: one.slugs }))
     for (const one of replay ?? []) {
