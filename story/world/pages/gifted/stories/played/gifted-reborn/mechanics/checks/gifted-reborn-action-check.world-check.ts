@@ -30,7 +30,17 @@ export const giftedRebornActionCheck = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A Path held but not listed in this check's code is refused until it is listed.",
+      statement: "A Path's kind is read off the Tiers its world skill states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Ten Tiers from 10 to 10000 make a Basic Path, five from 10 to 1000 an Advanced one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The Paths an act names are the skills its character holds, read from their pages.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,5 +49,5 @@ export const giftedRebornActionCheck = {
     },
   ],
   createdAt: "2026-10-27T20:38:02.175Z",
-  updatedAt: "2026-10-28T00:07:21.742Z",
+  updatedAt: "2026-10-28T22:18:35.680Z",
 } as const satisfies WorldCheck
