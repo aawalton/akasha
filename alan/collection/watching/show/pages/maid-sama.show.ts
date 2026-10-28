@@ -11,9 +11,15 @@ export const maidSama = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "65648", externalLink: "https://www.themoviedb.org/tv/65648" },
+    {
+      source: "tmdb",
+      externalId: "65648",
+      externalLink: "https://www.themoviedb.org/tv/65648",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Maid Sama!",
+  streamingOn: ["HiDive", "Hidive Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:52:07.450Z",
-  updatedAt: "2026-10-28T18:52:07.450Z",
+  updatedAt: "2026-10-28T19:44:58.700Z",
 } as const satisfies Show
