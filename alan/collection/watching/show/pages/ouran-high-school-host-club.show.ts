@@ -11,9 +11,15 @@ export const ouranHighSchoolHostClub = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "1043", externalLink: "https://www.themoviedb.org/tv/1043" },
+    {
+      source: "tmdb",
+      externalId: "1043",
+      externalLink: "https://www.themoviedb.org/tv/1043",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Ouran High School Host Club",
+  streamingOn: ["Crunchyroll Amazon Channel", "Netflix", "Netflix Standard with Ads"],
   createdAt: "2026-10-28T18:45:53.198Z",
-  updatedAt: "2026-10-28T18:45:53.198Z",
+  updatedAt: "2026-10-28T19:45:33.874Z",
 } as const satisfies Show
