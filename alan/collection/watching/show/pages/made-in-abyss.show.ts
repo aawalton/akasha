@@ -11,9 +11,15 @@ export const madeInAbyss = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "72636", externalLink: "https://www.themoviedb.org/tv/72636" },
+    {
+      source: "tmdb",
+      externalId: "72636",
+      externalLink: "https://www.themoviedb.org/tv/72636",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Made in Abyss",
+  streamingOn: ["HiDive", "Hidive Amazon Channel"],
   createdAt: "2026-10-28T18:54:22.982Z",
-  updatedAt: "2026-10-28T18:54:22.982Z",
+  updatedAt: "2026-10-28T19:44:57.197Z",
 } as const satisfies Show
