@@ -11,9 +11,15 @@ export const dragonBall = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "12609", externalLink: "https://www.themoviedb.org/tv/12609" },
+    {
+      source: "tmdb",
+      externalId: "12609",
+      externalLink: "https://www.themoviedb.org/tv/12609",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Dragon Ball",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:53:12.214Z",
-  updatedAt: "2026-10-28T18:53:12.214Z",
+  updatedAt: "2026-10-28T19:44:08.218Z",
 } as const satisfies Show
