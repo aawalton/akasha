@@ -273,7 +273,7 @@ function CharacterCard({ shown, steps, sheet }: CharacterCardProps) {
     </>
   )
   return (
-    <SurfaceProvider level={1} className={CARD}>
+    <SurfaceProvider className={CARD}>
       {sheet === null || revealed === null ? (
         <>
           {caption}

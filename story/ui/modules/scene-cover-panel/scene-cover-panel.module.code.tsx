@@ -316,7 +316,7 @@ export function SceneCoverPanel({
   }
   stepping.current = goTo
   return (
-    <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
+    <SurfaceProvider className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
       <CoverDialog
         open={viewing}
         onOpenChange={setViewing}

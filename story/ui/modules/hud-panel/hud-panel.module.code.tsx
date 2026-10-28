@@ -1,7 +1,10 @@
 "use client"
 
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
-import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import {
+  SurfaceProvider,
+  useSurface,
+} from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type {
   PoolBarColor,
   PoolPresentation,
@@ -37,6 +40,7 @@ function Delta({ value }: { value: number | undefined }) {
 }
 
 function StatBar({ bar }: { bar: PoolBar }) {
+  const plane = useSurface()
   return (
     <div className="flex flex-col gap-[3px]">
       <div className="flex justify-between font-mono text-[11px] text-tertiary tracking-[0.05em]">
@@ -48,7 +52,7 @@ function StatBar({ bar }: { bar: PoolBar }) {
           </span>
         </span>
       </div>
-      <div className={`h-2 overflow-hidden rounded-full ${surfaceClass(2)}`}>
+      <div className={`h-2 overflow-hidden rounded-full ${surfaceClass(plane + 1)}`}>
         <div
           className={`h-full rounded-full transition-[width] duration-300 ${FILL_CLASS[bar.color]}`}
           style={{ width: `${bar.pct}%` }}
@@ -119,7 +123,7 @@ export function HudPanel({
   const bars = pools !== undefined && pools.length > 0 ? computePoolBars(hud, pools) : null
 
   return (
-    <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
+    <SurfaceProvider className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
       <HudHeader hud={hud} points={points} />
       {bars !== null ? (
         bars.length > 0 ? (
