@@ -90,10 +90,14 @@ export function serializeCharactersConfigFile(inputs: CharactersConfigFileInputs
 
 interface CoreConfigFileInputs {
   readonly hudLayout: unknown
+  readonly keybindings?: unknown
 }
 
 export function serializeCoreConfigFile(inputs: CoreConfigFileInputs): string {
-  return configFile("TemperConfig", [block("hudLayout", inputs.hudLayout)])
+  return configFile("TemperConfig", [
+    block("hudLayout", inputs.hudLayout),
+    blockWhenGiven("keybindings", inputs.keybindings),
+  ])
 }
 
 export interface CompanionsConfigFileInputs {

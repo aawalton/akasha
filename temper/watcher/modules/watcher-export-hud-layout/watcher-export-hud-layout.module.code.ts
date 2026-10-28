@@ -7,6 +7,7 @@ import {
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { serializeCoreConfigFile } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
+import { keybindingsConfigFromPages } from "akasha/temper/watcher/modules/watcher-export-keybindings/watcher-export-keybindings.module.code.ts"
 import {
   type SideFileDisk,
   writeSideFileIfChanged,
@@ -85,11 +86,12 @@ export function hudLayoutOf(docks: readonly Page[], panels: readonly Page[]): Hu
 }
 
 export async function coreConfigFromPages(collect: PageCollect = collectPages): Promise<string> {
-  const [docks, panels] = await Promise.all([
+  const [docks, panels, keybindings] = await Promise.all([
     collect({ pageTypeSlug: DOCK_PAGE_TYPE_SLUG, pageSize: PAGES_PER_READ }),
     collect({ pageTypeSlug: PANEL_PAGE_TYPE_SLUG, pageSize: PAGES_PER_READ }),
+    keybindingsConfigFromPages(collect),
   ])
-  return serializeCoreConfigFile({ hudLayout: hudLayoutOf(docks, panels) })
+  return serializeCoreConfigFile({ hudLayout: hudLayoutOf(docks, panels), keybindings })
 }
 
 export async function runExportHudLayout(

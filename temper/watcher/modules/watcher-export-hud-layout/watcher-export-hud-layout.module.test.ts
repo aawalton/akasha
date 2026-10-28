@@ -2,6 +2,8 @@ import { expect, test } from "bun:test"
 import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { bottom } from "akasha/temper/addon/shared/hud-component/temper-hud-dock/pages/bottom.temper-hud-dock.ts"
 import { top } from "akasha/temper/addon/shared/hud-component/temper-hud-dock/pages/top.temper-hud-dock.ts"
+import { KEYBINDING_PAGE_TYPE_SLUG } from "akasha/temper/addon/shared/temper-keybindings/modules/keybinding-pages/keybinding-pages.module.code.ts"
+import { porttofriendshouseFavMyhouseInside1 as home } from "akasha/temper/addon/shared/temper-keybindings/temper-keybinding/pages/porttofriendshouse-fav-myhouse-inside-1.temper-keybinding.ts"
 import {
   coreConfigFromPages,
   DOCK_PAGE_TYPE_SLUG,
@@ -48,9 +50,17 @@ const COMPASS = asPage({
 })
 
 function collecting(docks: readonly Page[], panels: readonly Page[]) {
-  return async (args: { pageTypeSlug?: string }) =>
-    args.pageTypeSlug === DOCK_PAGE_TYPE_SLUG ? [...docks] : [...panels]
+  return async (args: { pageTypeSlug?: string }) => {
+    if (args.pageTypeSlug === KEYBINDING_PAGE_TYPE_SLUG) return [asPage(home)]
+    return args.pageTypeSlug === DOCK_PAGE_TYPE_SLUG ? [...docks] : [...panels]
+  }
 }
+
+test("the keybindings are written into the same config under keybindings", async () => {
+  const written = await coreConfigFromPages(collecting([BOTTOM], [ACTION_BAR]))
+  expect(written).toContain('["keybindings"] =')
+  expect(written).toContain(`["${home.key}"] =`)
+})
 
 test("each dock is keyed by its slug and states its gap", () => {
   expect(hudLayoutOf([BOTTOM, TOP], []).docks).toEqual({

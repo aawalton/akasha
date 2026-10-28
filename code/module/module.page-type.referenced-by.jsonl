@@ -6411,6 +6411,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-export-character-targets/watcher-export-character-targets.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-export-hud-layout/watcher-export-hud-layout.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-export-keybindings/watcher-export-keybindings.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-export-landed-catalogs/watcher-export-landed-catalogs.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-export-mined-uploaded/watcher-export-mined-uploaded.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.ts","typed":true,"deferred":false}

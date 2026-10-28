@@ -107,18 +107,22 @@ export function gameBindingsOf(bindings: readonly PageBinding[]): GameBinding[] 
   return slots
 }
 
+function absent<T extends z.ZodType>(held: T) {
+  return held.nullish().transform((value) => value ?? undefined)
+}
+
 const PAGE_BINDING = z.object({
   slot: z.number().int().min(1).max(BINDING_SLOTS),
   key: z.string(),
-  modifiers: z.array(z.enum(MODIFIER_KEYS)).optional(),
+  modifiers: absent(z.array(z.enum(MODIFIER_KEYS))),
 })
 
 const KEYBINDING_PAGE = z.object({
   key: z.string(),
-  title: z.string().optional(),
-  layer: z.string().optional(),
-  category: z.string().optional(),
-  bindings: z.array(PAGE_BINDING).optional(),
+  title: absent(z.string()),
+  layer: absent(z.string()),
+  category: absent(z.string()),
+  bindings: absent(z.array(PAGE_BINDING)),
   shared: z.boolean(),
   changedAt: z.string(),
 })
@@ -133,7 +137,7 @@ export function keybindingOf(page: unknown): Keybinding {
 }
 
 export function heldOf(page: unknown): Held {
-  const read = z.object({ id: z.string(), createdAt: z.string().optional() }).safeParse(page)
+  const read = z.object({ id: z.string(), createdAt: absent(z.string()) }).safeParse(page)
   return read.success ? read.data : {}
 }
 

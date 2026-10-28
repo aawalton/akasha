@@ -130,7 +130,8 @@ export const temperWatcher = {
     "module/watcher-worker",
     "rust-crate/watcher-tray",
     "module/saved-variables-reader",
+    "module/watcher-export-keybindings",
   ],
   createdAt: "2026-09-02T03:46:23.499Z",
-  updatedAt: "2026-10-28T19:46:21.781Z",
+  updatedAt: "2026-10-28T21:57:12.940Z",
 } as const satisfies ServiceWorkstation

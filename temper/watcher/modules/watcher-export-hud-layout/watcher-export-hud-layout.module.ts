@@ -4,7 +4,8 @@ export const watcherExportHudLayout = {
   id: "01a17ecc-c3cd-7282-87a0-1acd3f043790",
   type: "page-type/module",
   slug: "watcher-export-hud-layout",
-  definition: "the HUD's docks and panels, written into the config of Temper's core add-on",
+  definition:
+    "the HUD's docks and panels and Alan's keybindings, written into Temper core's config",
   code: "ts",
   test: "ts",
   decisions: [
@@ -50,5 +51,5 @@ export const watcherExportHudLayout = {
     },
   ],
   createdAt: "2026-10-27T19:18:31.117Z",
-  updatedAt: "2026-10-28T00:47:37.231Z",
+  updatedAt: "2026-10-28T21:57:12.940Z",
 } as const satisfies Module

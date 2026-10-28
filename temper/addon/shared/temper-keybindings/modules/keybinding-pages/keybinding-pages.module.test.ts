@@ -68,6 +68,11 @@ test("the config states each action's four slots and when it changed in seconds"
   })
 })
 
+test("a page the store answers with nulls for what it states nothing of reads as stating nothing", () => {
+  const stored = { ...PORT_HOME, title: null, layer: null, category: null }
+  expect(keybindingOf(stored)).toEqual(PORT_HOME)
+})
+
 test("a page naming a key the game does not is refused", () => {
   expect(() =>
     keybindingsConfigOf([{ ...PORT_HOME, bindings: [{ slot: 1, key: "KEY_HOOM" }] }])
