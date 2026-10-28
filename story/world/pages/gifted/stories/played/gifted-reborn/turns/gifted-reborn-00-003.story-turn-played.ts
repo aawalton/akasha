@@ -7,8 +7,9 @@ export const giftedReborn00003 = {
   unit: "unit/words",
   partOfCollections: ["story-played/gifted-reborn"],
   position: 3,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I kick twice",
+  lore: ["lore/gifted-reborn-nala"],
   createdAt: "2026-10-28T00:03:14.967Z",
-  updatedAt: "2026-10-28T00:03:14.967Z",
+  updatedAt: "2026-10-28T00:04:38.221Z",
 } as const satisfies StoryTurnPlayed
