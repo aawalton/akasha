@@ -15,11 +15,11 @@ export function getActionReportLevel(): "none" | "minimal" | "verbose" {
   return level
 }
 
-export function reportAction(prefix: string, links: string[]): undefined {
+export function reportAction(prefix: string, links: string[], counted = "item"): undefined {
   const level = getActionReportLevel()
   if (level === "none") return
   const n = links.length
-  const noun = n !== 1 ? "items" : "item"
+  const noun = n !== 1 ? `${counted}s` : counted
   if (level === "minimal") {
     d(`[${ADDON_NAME}] ${prefix} ${n} ${noun}`)
     return

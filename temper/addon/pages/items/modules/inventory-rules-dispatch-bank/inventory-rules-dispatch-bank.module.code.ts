@@ -118,7 +118,7 @@ export function onOpenBank(): BankTransitionSummary | undefined {
     recordBankPhaseMs("withdraw", GetGameTimeMilliseconds() - vaultStart)
     recordBankMoves(withdrawnLinks.length, 0)
     if (withdrawnLinks.length > 0) {
-      reportAction("Withdrew from furniture vault", withdrawnLinks)
+      reportAction("Withdrew from furniture vault", withdrawnLinks, "stack")
     }
     dispatchingBank = false
     startVaultDeposits(moveItem, withdrawnLinks.length)
