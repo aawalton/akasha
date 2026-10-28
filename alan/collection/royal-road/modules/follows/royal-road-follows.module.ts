@@ -30,7 +30,8 @@ export const royalRoadFollows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A followed fiction is known by the id and slug its title links to.",
+      statement:
+        "A listed fiction is known by the id and slug the first link to it in its card names.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -58,5 +59,5 @@ export const royalRoadFollows = {
     },
   ],
   createdAt: "2026-09-28T19:38:50.516Z",
-  updatedAt: "2026-10-28T14:33:56.782Z",
+  updatedAt: "2026-10-28T14:34:48.002Z",
 } as const satisfies Module

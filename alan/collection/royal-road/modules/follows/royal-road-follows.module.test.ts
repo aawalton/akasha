@@ -74,6 +74,16 @@ test("a heading outside every card is no fiction", () => {
   expect(read?.followed.map((one) => one.fictionId)).toEqual(["181303"])
 })
 
+test("a read later card whose title link holds its heading is read by that link", () => {
+  const card =
+    '<div data-rr-expanded-fic-card><a href="/fiction/91555/arcane-apocalypse-litrpg?utm_source=my&amp;utm_medium=read-later">' +
+    '<h2 class="text-base font-bold">Arcane Apocalypse</h2></a><a href="/fiction/91555/read">Read</a></div>'
+  const read = parseFollowPage(listed(card))
+  expect(
+    read?.followed.map((one) => [one.fictionId, one.fictionSlug, one.lastReadChapterId])
+  ).toEqual([["91555", "arcane-apocalypse-litrpg", null]])
+})
+
 test("every fiction on a page is read, each with its own last chapter", () => {
   const read = parseFollowPage(listed(`${APART}${TOGETHER}${UNREAD}`))
   expect(read?.followed.map((one) => one.lastReadChapterId)).toEqual(["4014049", "4027661", null])

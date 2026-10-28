@@ -23,7 +23,7 @@ const FORM = 'class="form-login-details"'
 const FORM_FIELDS = "form.form-login-details"
 const SIGN_IN_CEILING_MS = 60_000
 const ITEM = "data-rr-expanded-fic-card"
-const FICTION = /<h2[^>]*>\s*<a [^>]*href="\/fiction\/(\d+)\/([^"/]+)"/
+const FICTION = /href="\/fiction\/(\d+)\/([^"/?#]+)["?#]/
 const LAST_READ = /Last\s+Read:/i
 const CHAPTER = /href="\/fiction\/\d+\/[^"/]+\/chapter\/(\d+)\//
 const LINE_ENDS = "</li>"
