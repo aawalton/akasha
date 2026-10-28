@@ -7,11 +7,11 @@ export const myDressUpDarlingS01e14 = {
   description:
     "Marin and Wakana go to a cosplay event and meet another cosplayer named Amane Himeno.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 14,
   publishedAt: "2025-07-13",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const myDressUpDarlingS01e14 = {
   stillPath: "/fCDUWhSAVELzLZB2WofcCCosiRI.jpg",
   voteAverage: 7.2,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:24.293Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:24.293Z",
 } as const satisfies Episode
