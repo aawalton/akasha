@@ -7,9 +7,7 @@ export const awenPathProgress = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [
-    { statement: "Steps a Gifted Path earns outside practice follow rules the source supports." },
-  ],
+  intentStack: [],
   createdAt: "2026-10-28T13:53:24.275Z",
-  updatedAt: "2026-10-28T14:10:58.288Z",
+  updatedAt: "2026-10-28T14:11:01.491Z",
 } as const satisfies Initiative
