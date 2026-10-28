@@ -8,6 +8,7 @@ export const concussed = {
   key: "concussed",
   description: "Applies Minor Vulnerability, increasing damage taken by 5%",
   effects: "jsonl",
+  equations: ["<<1>> = 0.008 MaxStat + 0.084 MaxPower (Dmg, Shock, SingleTarget, Direct)"],
   createdAt: "2026-09-02T01:40:23.879Z",
-  updatedAt: "2026-10-28T21:24:57.225Z",
+  updatedAt: "2026-10-28T21:27:41.270Z",
 } as const satisfies TemperStatusEffect

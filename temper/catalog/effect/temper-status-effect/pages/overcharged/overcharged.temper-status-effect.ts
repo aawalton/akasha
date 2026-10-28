@@ -7,6 +7,7 @@ export const overcharged = {
   title: "Overcharged",
   key: "overcharged",
   description: "Applies Minor Magickasteal to enemies",
+  equations: ["<<1>> = 0.008 MaxStat + 0.084 MaxPower (Dmg, Magic, SingleTarget, Direct)"],
   createdAt: "2026-09-02T01:40:23.881Z",
-  updatedAt: "2026-10-28T21:24:57.225Z",
+  updatedAt: "2026-10-28T21:27:41.270Z",
 } as const satisfies TemperStatusEffect
