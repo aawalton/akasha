@@ -37,6 +37,7 @@ export const person = {
     "boolean-property/firearm-access",
     "select-property/blood-pressure-category",
     "select-property/colorectal-screening",
+    "select-property/flu-vaccination",
     "record-property/physical-risk-activities",
     "text-property/risk-activity-name",
     "number-property/risk-activity-times-per-year",
@@ -99,6 +100,7 @@ export const person = {
     { pageProperty: "boolean-property/firearm-access", required: false, many: false },
     { pageProperty: "select-property/blood-pressure-category", required: false, many: false },
     { pageProperty: "select-property/colorectal-screening", required: false, many: false },
+    { pageProperty: "select-property/flu-vaccination", required: false, many: false },
     {
       pageProperty: "record-property/physical-risk-activities",
       required: false,
@@ -140,5 +142,5 @@ export const person = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T18:13:32.023Z",
-  updatedAt: "2026-10-28T19:15:49.311Z",
+  updatedAt: "2026-10-28T19:20:52.972Z",
 } as const satisfies PageType

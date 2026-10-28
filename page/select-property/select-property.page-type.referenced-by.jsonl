@@ -122,6 +122,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"person/properties/colorectal-screening.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"person/properties/diagnosed-by.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"person/properties/family-relative.select-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"person/properties/flu-vaccination.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"person/properties/scheme.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"person/properties/seat-notice.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"person/properties/sex.select-property.ts","typed":true,"deferred":false}
