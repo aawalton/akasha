@@ -11,6 +11,7 @@ export const irisWriterUndoCheck = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "6e46ccf1-7443-4b8e-97bd-525513056398",
   createdAt: "2026-10-28T15:07:05.744Z",
-  updatedAt: "2026-10-28T15:07:05.744Z",
+  updatedAt: "2026-10-28T15:07:11.561Z",
 } as const satisfies Seat
