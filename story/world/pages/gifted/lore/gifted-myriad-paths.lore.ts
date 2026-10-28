@@ -187,7 +187,7 @@ export const giftedMyriadPaths = {
     },
     {
       fact: "A Path is no Skill to use; dwelling on one in a Status shows what earns its steps and its next Tier.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
       fact: "Soulstealing is mutated: only soul shreds of a demon-ridden creature dying nearby give it steps.",
@@ -231,5 +231,5 @@ export const giftedMyriadPaths = {
     },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T01:00:59.917Z",
+  updatedAt: "2026-10-28T01:01:37.385Z",
 } as const satisfies Lore
