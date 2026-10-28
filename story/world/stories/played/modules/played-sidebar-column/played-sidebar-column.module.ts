@@ -42,10 +42,9 @@ export const playedSidebarColumn = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A sidebar's inner edge is a border in the level 2 surface color and casts a shadow over the turns.",
+      statement: "A sidebar's inner edge is a border in the level 2 surface color.",
     },
   ],
   createdAt: "2026-10-27T20:01:16.453Z",
-  updatedAt: "2026-10-28T18:22:32.842Z",
+  updatedAt: "2026-10-28T18:53:49.315Z",
 } as const satisfies Module

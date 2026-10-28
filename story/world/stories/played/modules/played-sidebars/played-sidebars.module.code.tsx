@@ -79,7 +79,8 @@ const BAR_GROUP = "flex items-center gap-1"
 
 const ROW = "flex w-full items-start"
 
-const CENTER = "flex min-h-[calc(100dvh-var(--safe-area-top))] min-w-0 flex-1 flex-col"
+const CENTER =
+  "relative z-20 flex min-h-[calc(100dvh-var(--safe-area-top))] min-w-0 flex-1 flex-col shadow-(--shadow-cast-sides)"
 
 const RAISED = 1
 

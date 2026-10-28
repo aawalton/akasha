@@ -69,7 +69,11 @@ export const playedSidebars = {
       decisionKind: "decision-kind/departure",
       statement: "The column of turns and the sidebars sit one surface level above the page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The column of turns casts a shadow over the sidebars on either side of it.",
+    },
   ],
   createdAt: "2026-10-27T18:38:10.173Z",
-  updatedAt: "2026-10-28T18:22:07.608Z",
+  updatedAt: "2026-10-28T18:53:49.315Z",
 } as const satisfies Module

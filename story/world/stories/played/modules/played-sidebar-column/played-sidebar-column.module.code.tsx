@@ -26,11 +26,11 @@ export const WIDTHS: Widths = { left: SIDEBAR_WIDTH, right: SIDEBAR_WIDTH }
 const WIDTHS_STORED_AT = "played-sidebar-widths"
 
 const SIDEBAR =
-  "sticky top-(--safe-area-top) z-30 flex h-[calc(100dvh-var(--safe-area-top))] shrink-0 flex-col border-surface-2"
+  "sticky top-(--safe-area-top) z-10 flex h-[calc(100dvh-var(--safe-area-top))] shrink-0 flex-col border-surface-2"
 
-const SIDEBAR_LEFT = "border-r shadow-(--shadow-cast-right)"
+const SIDEBAR_LEFT = "border-r"
 
-const SIDEBAR_RIGHT = "border-l shadow-(--shadow-cast-left)"
+const SIDEBAR_RIGHT = "border-l"
 
 const HEAD = "flex h-12 shrink-0 items-center justify-between gap-2 border-primary/10 border-b px-4"
 
