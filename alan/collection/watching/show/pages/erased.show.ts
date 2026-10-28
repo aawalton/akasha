@@ -11,9 +11,15 @@ export const erased = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "65249", externalLink: "https://www.themoviedb.org/tv/65249" },
+    {
+      source: "tmdb",
+      externalId: "65249",
+      externalLink: "https://www.themoviedb.org/tv/65249",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "ERASED",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:48:57.376Z",
-  updatedAt: "2026-10-28T18:48:57.376Z",
+  updatedAt: "2026-10-28T19:44:10.042Z",
 } as const satisfies Show
