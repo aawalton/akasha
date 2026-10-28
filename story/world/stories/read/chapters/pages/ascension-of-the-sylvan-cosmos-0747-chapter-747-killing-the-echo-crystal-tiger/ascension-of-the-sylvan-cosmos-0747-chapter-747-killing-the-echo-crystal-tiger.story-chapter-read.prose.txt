@@ -1,0 +1,175 @@
+The group of 10 that decided to attack the Level 175 Crystal Tiger Mini BOSS was made up of a balanced 3 tanks, 3 ranged attackers, 2 healers, 1 support, and 1 debuffer. This was decided after reviewing the Crystal Tiger's skill set.
+
+Among the many skills, the crystal tiger had the following:
+
+Three melee area of effect attacks.
+
+One stacking damage debuff.
+
+Incredible Phoer Regeneration.
+
+And a finisher type, single attack move that would deal with any tanker that reached less than 15% of their health. The attack was basically an instakill, and none of them would be able to resist it.
+
+As for passives, the Tiger had plenty, most of them increasing its attack speed, attack movement, giving it bleed stacks with its attacks, and also giving a very troublesome debuff: <Time Corrosion>.
+
+<Time Corrosion (S+ Rank)>: Each successful attack with your claws or teeth will inflict as many stacks as claws or teeth that scratched the opponent. Each stack increases the target’s perceived time speed by 0.01%. It lasts for 10 seconds.
+
+This meant that, if the other side had stacked 10%, a single second would look like 1.1 seconds for them. This debuff was not that problematic for the first 50% or so, but once it arrived at high percentages, it would basically cripple the target until they were killed, not from Phoer, but from having their perception eternally trapped in that distorted time.
+
+Therefore, the chosen support had a wide range of cleaning skills. In the entire group, there were two supporters. One healer specialized in purifying negative statuses, and the main support in giving positive ones. As for debuffers, they only had one dedicated debuffer because most skills came with some sort of negative status.
+
+With everything in line, Rhygar raised his large shield and shouted. “Raid start!”
+
+The group of ten shot forward like arrows leaving the bow, their speeds incredibly swift. The three ranged attackers, two Aethermancers and one Archer, separated and took vantage points, always being in range for the healers to attend to them in case of an emergency.
+
+Regardless of their usual attitudes, they were a group of adventurers that had reached Level 180 through sweat, blood, and effort. Otherwise, they would not be that successful when their attitudes left so much to hope for.
+
+The tiger’s stats updated instantly when the group of ten arrived, and they reflected in their retinas.
+
+***
+
+Name: Echo Crystal Tiger.
+
+Race: Echo Crystal Tiger.
+
+Level: 175
+
+Aether Mana Stars: 5.39/5.39 (539,523) (53,952,345,694)
+
+Phoer Body Stars: 43.54/43.54 (4,354,491) (435,449,137,488)
+
+Anima Energy Stars: 10.74/10.74 (1,074,912) (107,491,247,642)
+
+***
+
+That extremely thick health bar reaching over 40 <Phoer Body Stars> looked truly despairing. Moreover, the regeneration, while it didn’t reach 1% per second, still fluctuated between 0.4~0.6% per second.
+
+This meant that the thing recovered around 0.2 Stars, or 20,000 Cores per second.
+
+Rhygar, being the main tank, quickly arrived in front of the tiger and used three skills at once. “<Steel Core Wall>, <Soul Stirring Barbarian Scream>, <Aggression Magnet>!”
+
+Steel Core Wall upgraded his defense, the second being a group buff of <Physique>, and the last targeting the tiger to attract its attention toward him.
+
+“COME HERE!”
+
+With that scream, the purple-white crystal tiger’s gaze, which was fixed on a nearby healer, shifted toward him, and it lunged. The second it lunged, its powerful legs pushing against the ground, the tiger’s figure blurred, arriving with a paw raised in what seemed like the blink of an eye.
+
+BANG!
+
+[-1,954,000,000] (-19,540) (-0.19)
+
+The tiger’s crystal claws scraped through the surface of the shield, creating a shrill sound, but Rhygar kept his footing while lowering his stance, showing incredible reflexes and adaptability.
+
+While Rhygar held it, no attacks landed on the tiger. Instead, Rhygar continued blocking the barrage of claw attacks from the tiger, even tanking a few area-of-effect attacks. Everyone had their gazes fixed on the Level 175 like a falcon locked onto their prey, analyzing its attacking patterns.
+
+After twenty seconds with no support, Rhygar’s <Phoer> reserves dropped to half, showing the ferocity of the Mini BOSS.
+
+At that moment, the two healers and one standby supporter completed a long chant they had been preparing during the frantic exchange.
+
+“<Breath Of A Life Tree>.”
+
+“<Pure Aurora>.”
+
+“<Bones Of The World>.”
+
+Two A+ Rank healing skills landed, and one supporting skill landed, carrying secondary buffs that further boosted Rhygar’s solid defense and even healed his <Phoer Body Stars> to full. Moreover, <Pure Aurora> carried cleansing qualities, which reduced around 40% of the negative buffs on Rhygar.
+
+Rhygar spoke firmly. “Start the raid!”
+
+Everyone moved. Debuffs landed on the tiger, and the ranged damage dealers rained hell on the tiger, aiming with extreme precision to avoid hitting Rhygar.
+
+The two other tanks didn’t stay still; they approached during the time when the tiger wasn't using its area-of-effect attacks.
+
+The tiger's vitality began plummeting at a rate of 0.3 <Phoer Body Stars> per second, after accounting for the recovery rate. At this rate, they would need about 2 minutes to kill the Mini BOSS.
+
+Still, the tiger was not a completely mindless creature. Seeing its own situation, the creature stopped using its area of effect attacks, its claws focusing on Rhygar while ignoring everything else.
+
+The two tanks didn’t see the area of effect skills appearing, so they could approach. Their lack of damage slowed down the raid to a crawl, and Rhygar, whose feet were sliding all around after receiving the attacks, frowned. “Clever little beast.”
+
+He glanced at his <Echo> stacks, which increased damage taken by 0.2% per second. At that moment, he had accumulated 54 of them, receiving over 10% extra damage. His <Phoer>, which was balanced, began decreasing very slowly.
+
+His shield moved perfectly, using the aura effect to create some light screens that blocked the large bite attacks and claws of the tiger. His feet never stopped, moving back and forth, exchanging blows. “One of you two, come attack!”
+
+The sturdiest tank of the other two rushed forward, and the second he did, the tiger’s eyes shone with ferocity.
+
+“ROAR!”
+
+The surroundings were engulfed by a storm of <Echo Crystal Shards>, stacking negative statuses on Rhygar and the second tank at incredible speed. “Retreat! Third tank, take over!”
+
+The third tank jumped, raising his shield midway while coordinating with Rhygar. The second Rhygar spoke, he advanced, using a shield skill to blast the tiger’s claw to the side and swung his one-handed axe at its throat.
+
+The tiger dodged backward, but that was exactly where Rhygar wanted him.
+
+A large, fully armored figure fell from the sky onto its back. “<Shield Comet Strike>.”
+
+BOOM!
+
+“GRAH!”
+
+[-3,356,300,000] (33,563) (-0.33)
+
+The tiger roared in pain, and it quickly howled, activating its second area of effect skill. The soul damage stunned all of them for a moment, and the tiger used this instant to shake off the third tank and give chase to Rhygar, who had completely enraged it.
+
+However, the third tank grinned thickly under his thick helmet. “Little kitty, don’t forget me, your father!”
+
+He burst forward with speed, grabbing the tiger’s tail, and shouted. “<Titan’s Throw>!”
+
+The over ten-meter-long giant body of the tiger soared up in a perfect parabola, slamming into the other side of the third tank as it whined in pain. Then, the third tank raised its spiked mace and aimed straight at the tiger’s weak point on the back, the anus! “Let’s teach you new horizons! <Spiked Fire Burst Flare>!”
+
+The mace became red hot, and then it flashed forward, impacting straight at the aimed location. The Echo Crystal Tiger roared in agony, its hind legs raising a few meters up into the air. Utterly enraged, it gave up on following Rhygar and focused on the third tank.
+
+The fight continued, and since it was a Mini BOSS, it didn’t have many more complicated mechanics. It was just a thick skull to get through with a few complicated skills. Nothing too demanding, but nothing easy.
+
+In the end, due to a few mistakes, they needed a total of ten minutes before a flaming nature spear from a damage dealer, coupled with the daze from the debuffer, pierced the tiger’s skull, killing it.
+
+[Congratulations! You’ve killed <Mini BOSS: Echo Crystal Tiger Level 175 (S Tier)>. You’ve earned 213,040 Experience Points!]
+
+[Congratulations! You’ve earned <Echo Crystal Claw (A+ Tier)>, <Eternal Echo Heart (S+ Tier)>, <Echo Crystal Skull Core (S- Tier)>...]
+
+Rhygar breathed in deeply, followed by a few panting breaths. His muscles ached terribly, as this tiger’s physical might was truly too high. Some of his bones, while they were healed, had fractures even when defending.
+
+The second tank was in a worse situation. It had made a small mistake, and the tiger took advantage to claw at his body. While the armor blocked the majority of the attack, the debuffs applied in that strike almost caused an accident.
+
+The ten people who had not participated approached, having cleaned the surroundings. During the fight, some wild monsters came to bother them. However, they cleaned them up, preventing them from interfering with the main battlefield.
+
+The third tank raised his spiked maze and rested it on his shoulder. “In the end, it was just a thick <Stat> block. Nothing too complicated.”
+
+Rhygar agreed. “Easy mechanics as well. Only without a proper debuff purifier would you be deep in the forest with this one.” Looking at Torven, he asked. “Do you think that Special Monster will be the same?”
+
+Torven looked at the 20-meter-tall figure in the distance with a scouting skill and frowned. “She doesn’t feel like it. The woman is a mage-type monster. While it has not shown signs of intelligence, as it is following a predetermined path, you can’t relax.”
+
+Rhygar looked at Lessa and spoke. “Go, scout a little. Also, use a dummy to test her. Remember to be far away when you do that, in case the Special Monster has a special locking mechanic.”
+
+“Got it.”
+
+The woman agilely stepped onto the tree branches and moved, arriving at the place where the Special Monster would step later. There she set an item called <Dummy Boom Bot>. This item had a durability equal to 1 <Phoer Body Star>, and it would explode on death. It was quite good to test things and also give the killer a small surprise.
+
+They waited for around two hours before the Special Monster passed through the same area. Lessa had returned to their side a long time ago. The <Dummy Boom Bot> activated, its hand changing into a cannon and aiming up at the Crystal and Wood woman’s chest.
+
+BANG!
+
+It fired, but the Crystal and Wood woman lightly flicked her staff, a blurry barrier appearing in front of her. Then, a System Message reached them.
+
+[Aionthra’s will has descended into <Echo Of The Arbiter Number 4>.]
+
+The dull crystal doll suddenly had its eyes sharpen, and as she looked at the Dummy Bot, the crystal and wooden 20-meter-tall woman smirked. Her gaze shifted to the side, locking in on the exact spot where they stood.
+
+Everyone felt a chill up their spines.
+
+Before they could react, the space around them twisted, and the Dummy Boom Bot appeared.
+
+A strange, fluctuating, yet eternally constant energy was sticking to it. Then, the 20-meter-tall woman gently tapped the ground with the butt of her staff.
+
+CRASH!
+
+The Dummy Bot was instantly compressed as if it were a tin can. Rhygar warned aloud. “Defense!”
+
+BOOM!
+
+[-5,000,000,000] (-50,000) (-0.5)
+
+Those who failed to react were struck with half a <Phoer Body Star> worth of damage. They didn’t linger on that, instead looking at the woman in the distance.
+
+What they saw was extremely terrifying. The 20-meter-tall Special Monster was running toward them, holding her staff as the wood and crystal dress fluttered with each of her wide strides.
+
+Rhygar’s heart dropped, and he shouted. “Prepare for combat! This monster won’t be as simple as the tiger!”
