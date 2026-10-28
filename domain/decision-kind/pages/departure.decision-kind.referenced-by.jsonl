@@ -4200,6 +4200,11 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-training.world-check.ts","id":"01a17fbf-aff5-7971-b3fe-026d1c8213e0"}
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/checks/probe-two-upkeep.world-check.ts","id":"01a17fbf-aff5-7bb2-8427-debb272ebc2e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/probe-two-world/stories/played/probe-two/mechanics/metrics/resources/points/probe-two-points.page-type.ts","id":"01a17fbf-aff5-7a32-be61-6163acbee10b"}
+{"propertySlug":"decision-kind","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/mechanics/checks/skill-lock-probe-action-check.world-check.ts","id":"01a17ff2-6f78-776c-9159-8dbbf4521e61"}
+{"propertySlug":"decision-kind","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/mechanics/checks/skill-lock-probe-time-passing.world-check.ts","id":"01a17ff2-6f78-7262-b804-0f59c06ff81d"}
+{"propertySlug":"decision-kind","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/mechanics/checks/skill-lock-probe-training.world-check.ts","id":"01a17ff2-6f78-7fb5-be2d-56e484554e0b"}
+{"propertySlug":"decision-kind","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/mechanics/checks/skill-lock-probe-upkeep.world-check.ts","id":"01a17ff2-6f78-730f-a19f-2559c5b62c74"}
+{"propertySlug":"decision-kind","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/mechanics/metrics/resources/points/skill-lock-probe-points.page-type.ts","id":"01a17ff2-6f78-721a-9544-8a8dfb76c814"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-action-check.world-check.ts","id":"01a17f7f-6e81-7774-a985-a2358303cf31"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-time-passing.world-check.ts","id":"01a17f7f-6e81-7a03-b0ee-3bf46aa993f8"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/beat-flow-test/mechanics/checks/beat-flow-test-training.world-check.ts","id":"01a17f7f-6e81-7f07-be86-2d613c9930d0"}

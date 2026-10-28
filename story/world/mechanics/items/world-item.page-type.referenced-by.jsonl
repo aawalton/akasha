@@ -57,6 +57,12 @@
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/probe-two-world/mechanics/items/probe-two-world-iron-sword.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/probe-two-world/mechanics/items/probe-two-world-lantern.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/probe-two-world/mechanics/items/probe-two-world-leather-coat.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/skill-lock-probe-world/mechanics/items/skill-lock-probe-world-brass-token.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/skill-lock-probe-world/mechanics/items/skill-lock-probe-world-copper-ore.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/skill-lock-probe-world/mechanics/items/skill-lock-probe-world-healing-draught.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/skill-lock-probe-world/mechanics/items/skill-lock-probe-world-iron-sword.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/skill-lock-probe-world/mechanics/items/skill-lock-probe-world-lantern.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/skill-lock-probe-world/mechanics/items/skill-lock-probe-world-leather-coat.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-argold.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-artificial-womb.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-auriad.world-item.ts","typed":true,"deferred":false}

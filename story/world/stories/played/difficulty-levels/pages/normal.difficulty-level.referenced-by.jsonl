@@ -1,4 +1,5 @@
 {"propertySlug":"difficulty","path":"story/world/pages/probe-two-world/stories/played/probe-two/probe-two.story-played.ts","id":"01a17fbf-aff5-75ff-ac5a-0ca7d7ba0924"}
+{"propertySlug":"difficulty","path":"story/world/pages/skill-lock-probe-world/stories/played/skill-lock-probe/skill-lock-probe.story-played.ts","id":"01a17ff2-6f78-7240-a4ac-f9d7ecd3f3ec"}
 {"propertySlug":"difficulty","path":"story/world/pages/test-world/stories/played/beat-flow-test/beat-flow-test.story-played.ts","id":"01a17f7f-6e81-7709-a804-0da1a0a4045e"}
 {"propertySlug":"difficulty","path":"story/world/pages/test-world/stories/played/test-story/test-story.story-played.ts","id":"01a17ec6-053a-7bbd-aebe-77e7d77942c2"}
 {"propertySlug":"import","fileName":"normal.difficulty-level.ts","path":"story/ui/modules/difficulty-panel/difficulty-panel.module.test.ts","typed":false,"deferred":false}
