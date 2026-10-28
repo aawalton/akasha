@@ -11,6 +11,7 @@ export const outcomeCardsCheck00001 = {
   action: "I draw my sword and try to split a falling leaf in two before it touches the floor.",
   lore: ["place/outcome-cards-check-world-square"],
   createdAt: "2026-10-28T01:26:15.641Z",
-  updatedAt: "2026-10-28T01:29:05.981Z",
+  updatedAt: "2026-10-28T01:29:42.191Z",
   outcomes: "jsonl",
+  endsAt: "2026-10-27T08:02:00.000Z",
 } as const satisfies StoryTurnPlayed
