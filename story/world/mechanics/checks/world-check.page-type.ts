@@ -16,6 +16,7 @@ export const worldCheck = {
     "world-check/gifted-reborn-time-passing",
     "world-check/gifted-reborn-action-check",
     "world-check/gifted-reborn-practice",
+    "world-check/gifted-reborn-steps-earned",
     "world-check/test-story-time-passing",
     "world-check/test-story-training",
     "world-check/test-story-upkeep",
@@ -85,5 +86,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-28T01:53:25.832Z",
+  updatedAt: "2026-10-28T14:10:38.030Z",
 } as const satisfies PageType

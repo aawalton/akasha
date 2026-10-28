@@ -119,11 +119,18 @@ function addressOf(type: string, slug: string): string {
   return `${type}/${slug}`
 }
 
-function pathOf(said: string): (typeof PATHS)[number] | undefined {
-  return PATHS.find((one) => addressOf(characterSkill.slug, one.held.slug) === said)
+export function heldNamed<Listed extends { readonly held: { readonly slug: string } }>(
+  paths: readonly Listed[],
+  said: string
+): Listed | undefined {
+  return paths.find((one) => addressOf(characterSkill.slug, one.held.slug) === said)
 }
 
-function setAside(held: object): boolean {
+function pathOf(said: string): (typeof PATHS)[number] | undefined {
+  return heldNamed(PATHS, said)
+}
+
+export function setAside(held: object): boolean {
   return Reflect.get(held, "dormant") === true
 }
 

@@ -4201,6 +4201,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/mechanics/metrics/resources/unallocated-stats/gifted-unallocated-stats.page-type.ts","id":"01a17ede-cda6-7931-879e-9e0437dff415"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.ts","id":"01a17f15-90c1-7322-9224-70cbc8178934"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-practice.world-check.ts","id":"01a17ff1-398f-73e3-bd7e-a87a31f93187"}
+{"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-steps-earned.world-check.ts","id":"01a182d9-3f4f-7e87-b992-aa3bdeec35a6"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-time-passing.world-check.ts","id":"01a17edf-d61f-7574-9598-5df749060e23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.ts","id":"01a0e822-39b3-7bc0-be8e-4a7093388b67"}
 {"propertySlug":"decision-kind","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-action-check.world-check.ts","id":"01a17ede-ad87-7ec9-8f62-82b148152d82"}
