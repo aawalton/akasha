@@ -4,11 +4,15 @@
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/day-hiking.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/driving-car.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/general-anesthesia-elective.risk-activity.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/ladder-home.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/motorcycle.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/open-water-swimming.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/road-cycling.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/running.risk-activity.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/scuba-diving.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/skiing-snowboarding.risk-activity.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/skydiving.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/swimming-pool.risk-activity.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/team-sport-recreational.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"risk-activity.page-type.types.ts","path":"alan/medicine/risk-activity/pages/walking-pedestrian.risk-activity.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/medicine/medicine.domain.ts","id":"01a0675b-16f0-7ba0-82ff-12a2a6ec360b"}
