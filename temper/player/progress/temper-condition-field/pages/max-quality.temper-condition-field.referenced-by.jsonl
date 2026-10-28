@@ -14,9 +14,7 @@
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-inventory-rule/pages/rule-poisons-normal-sell/rule-poisons-normal-sell.temper-inventory-rule.ts","id":"01a0728b-6d6d-78ad-89e0-d935fa86f48a"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-inventory-rule/pages/rule-potions-normal-sell/rule-potions-normal-sell.temper-inventory-rule.ts","id":"01a0728b-6d6e-7dd3-a9e3-450646599b73"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-inventory-rule/pages/rule-soul-gems-empty-bank/rule-soul-gems-empty-bank.temper-inventory-rule.ts","id":"01a0728b-6d6f-7226-88d1-5d7267781a0e"}
-{"propertySlug":"condition-field","path":"temper/player/progress/temper-inventory-rule/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.ts","id":"01a0728b-8ec0-751b-8b72-78d2913de4d2"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-inventory-rule/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.ts","id":"01a0728b-8ec0-725b-bf83-228a199a5876"}
-{"propertySlug":"condition-field","path":"temper/player/progress/temper-inventory-rule/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.ts","id":"01a0728b-8ec1-76a0-b421-1147ce64b46f"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-inventory-rule/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.ts","id":"01a0728b-8ec3-7fdb-ad57-ed1a0510afb2"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/companion-epic-nothing/companion-epic-nothing.temper-rule-template.ts","id":"019e3104-2609-739b-88ff-73723337601b"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/companion-green-sell/companion-green-sell.temper-rule-template.ts","id":"019e3104-2626-7136-8e6d-b66c7b5b20a6"}
