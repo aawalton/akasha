@@ -11,9 +11,15 @@ export const howlSMovingCastle = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "4935", externalLink: "https://www.themoviedb.org/movie/4935" },
+    {
+      source: "tmdb",
+      externalId: "4935",
+      externalLink: "https://www.themoviedb.org/movie/4935",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Howl's Moving Castle",
+  streamingOn: ["HBO Max", "HBO Max Amazon Channel"],
   createdAt: "2026-10-28T18:46:06.108Z",
-  updatedAt: "2026-10-28T18:46:06.108Z",
+  updatedAt: "2026-10-28T19:47:28.996Z",
 } as const satisfies Movie
