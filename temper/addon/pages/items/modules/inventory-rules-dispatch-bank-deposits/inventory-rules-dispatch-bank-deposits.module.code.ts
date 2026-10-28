@@ -11,6 +11,7 @@ import {
   setPendingAction,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { getPendingUseDeposits } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-use-deposits/inventory-rules-core-use-deposits.module.code.ts"
+import { isCharacterBoundAction } from "akasha/temper/addon/pages/items/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
 import {
   type FrozenStockCounts,
   frozenStockCount,
@@ -116,18 +117,6 @@ export function executeBankDeposits(
       action === "stock" ||
       action === "character-equip" ||
       action === "companion-equip"
-    const isCharacterUse =
-      action === "use" &&
-      destination !== undefined &&
-      destination.substring(0, DEPOSIT_CHARACTER_PREFIX.length) === DEPOSIT_CHARACTER_PREFIX
-    const isCharacterResearch =
-      action === "research" &&
-      destination !== undefined &&
-      destination.substring(0, DEPOSIT_CHARACTER_PREFIX.length) === DEPOSIT_CHARACTER_PREFIX
-    const isCharacterDeconstruct =
-      action === "deconstruct" &&
-      destination !== undefined &&
-      destination.substring(0, DEPOSIT_CHARACTER_PREFIX.length) === DEPOSIT_CHARACTER_PREFIX
     const isVendorAction =
       action === "list" ||
       action === "sell" ||
@@ -138,14 +127,7 @@ export function executeBankDeposits(
       destination !== undefined &&
       destination.substring(0, DEPOSIT_CHARACTER_PREFIX.length) === DEPOSIT_CHARACTER_PREFIX &&
       destination.substring(DEPOSIT_CHARACTER_PREFIX.length) !== currentCharId
-    if (
-      !isMoveLike &&
-      !isCharacterUse &&
-      !isCharacterResearch &&
-      !isCharacterDeconstruct &&
-      !isVendorCrossChar
-    )
-      return
+    if (!isMoveLike && !isCharacterBoundAction(action, destination) && !isVendorCrossChar) return
 
     const dest = destination ?? "bank"
 

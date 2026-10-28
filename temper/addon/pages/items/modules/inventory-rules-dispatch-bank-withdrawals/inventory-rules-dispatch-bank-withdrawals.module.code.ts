@@ -16,7 +16,10 @@ import {
   getPendingStockScope,
   getPendingTargetQuantity,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
-import { isVendorCrossCharDestination } from "akasha/temper/addon/pages/items/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
+import {
+  isCharacterBoundAction,
+  isVendorCrossCharDestination,
+} from "akasha/temper/addon/pages/items/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
 import {
   type FrozenStockCounts,
   frozenStockCount,
@@ -148,19 +151,7 @@ function collectBankWithdrawals(
       action === "stock" ||
       action === "character-equip" ||
       action === "companion-equip"
-    const isCharacterUse =
-      action === "use" &&
-      destination !== undefined &&
-      destination.substring(0, BANK_CHARACTER_PREFIX.length) === BANK_CHARACTER_PREFIX
-    const isCharacterResearch =
-      action === "research" &&
-      destination !== undefined &&
-      destination.substring(0, BANK_CHARACTER_PREFIX.length) === BANK_CHARACTER_PREFIX
-    const isCharacterDeconstruct =
-      action === "deconstruct" &&
-      destination !== undefined &&
-      destination.substring(0, BANK_CHARACTER_PREFIX.length) === BANK_CHARACTER_PREFIX
-    if (!isMoveLike && !isCharacterUse && !isCharacterResearch && !isCharacterDeconstruct) {
+    if (!isMoveLike && !isCharacterBoundAction(action, destination)) {
       clearPendingAction(bagId, slotIndex)
       return
     }
