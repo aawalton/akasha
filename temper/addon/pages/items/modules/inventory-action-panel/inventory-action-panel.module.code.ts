@@ -120,7 +120,8 @@ function refresh(): undefined {
     return
   }
 
-  panel.header.SetText(`Inventory Plan — ${summary.totalSlots} items`)
+  const noun = summary.totalSlots === 1 ? "item" : "items"
+  panel.header.SetText(`Inventory Plan — ${summary.totalSlots} ${noun}`)
 
   for (const row of panel.rowControls) {
     row.SetHidden(true)
