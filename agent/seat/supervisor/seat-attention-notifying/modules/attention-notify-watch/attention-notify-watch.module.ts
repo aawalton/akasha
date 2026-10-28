@@ -38,7 +38,19 @@ export const attentionNotifyWatch = {
       decisionKind: "decision-kind/departure",
       statement: "The watch runs every three seconds rather than on the heartbeat.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn ending while any editor window has focus is held rather than shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn held that way is not shown later.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every notification shown or held is written beside the seat's runtime files.",
+    },
   ],
   createdAt: "2026-10-28T19:02:04.535Z",
-  updatedAt: "2026-10-28T19:02:04.535Z",
+  updatedAt: "2026-10-28T19:10:24.299Z",
 } as const satisfies Module

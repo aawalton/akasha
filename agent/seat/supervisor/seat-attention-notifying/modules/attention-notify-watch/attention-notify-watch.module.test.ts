@@ -15,6 +15,8 @@ function watchOver(opts: {
   shown: Shown[]
   seat?: AttentionSeat | null
   step?: number
+  focused?: boolean
+  held?: Shown[]
 }): () => undefined {
   let at = 0
   let clock = 0
@@ -22,8 +24,13 @@ function watchOver(opts: {
     readState: () => opts.states[Math.min(at, opts.states.length - 1)] ?? "working",
     readSeat: () => (opts.seat === undefined ? ATHENA : opts.seat),
     readExcerpt: () => "the last words",
-    show: (note) => {
+    readFocused: () => opts.focused === true,
+    show: (_agentId, note) => {
       opts.shown.push(note)
+      return undefined
+    },
+    held: (_agentId, note) => {
+      opts.held?.push(note)
       return undefined
     },
     now: () => clock,
@@ -105,6 +112,15 @@ test("a seat outside the personas section is not shown", () => {
   })
   ticks(tick, 3)
   expect(shown).toEqual([])
+})
+
+test("a turn ending while the editor has focus is held rather than shown", () => {
+  const shown: Shown[] = []
+  const held: Shown[] = []
+  const tick = watchOver({ states: ["working", "needs-attention"], shown, held, focused: true })
+  ticks(tick, 3)
+  expect(shown).toEqual([])
+  expect(held.map((one) => one.title)).toEqual(["Athena needs you"])
 })
 
 test("a seat no person wants on the desktop is not shown", () => {

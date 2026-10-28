@@ -5,6 +5,7 @@ import {
 import * as agentTree from "akasha/code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"
 import * as commandTree from "akasha/code/editor/extension/modules/command-tree-panel/command-tree-panel.module.code.ts"
 import * as domainTree from "akasha/code/editor/extension/modules/domain-tree-panel/domain-tree-panel.module.code.ts"
+import * as editorFocus from "akasha/code/editor/extension/modules/editor-focus/editor-focus.module.code.ts"
 import * as editorLayout from "akasha/code/editor/extension/modules/editor-layout-panel/editor-layout-panel.module.code.ts"
 import * as findingTree from "akasha/code/editor/extension/modules/finding-tree-panel/finding-tree-panel.module.code.ts"
 import * as gapTree from "akasha/code/editor/extension/modules/gap-tree-panel/gap-tree-panel.module.code.ts"
@@ -57,6 +58,7 @@ const features = (
     start: async () => seatOpenLine.activate(vscode, context, say),
   },
   { name: "terminal-image-link", start: async () => imageLink.activate(vscode, context, say) },
+  { name: "editor-focus", start: async () => editorFocus.activate(vscode, context) },
 ]
 
 export async function activate(context: vscode.ExtensionContext): Promise<void> {

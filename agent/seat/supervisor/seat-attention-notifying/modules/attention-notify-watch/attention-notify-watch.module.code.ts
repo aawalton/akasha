@@ -1,3 +1,5 @@
+import { appendFileSync } from "node:fs"
+import { join } from "node:path"
 import {
   PERSONAS,
   seatSectionOf,
@@ -12,6 +14,11 @@ import {
   seatOf,
   titleOf,
 } from "akasha/agent/seat/supervisor/seat-reply-notifying/modules/reply-notify-poll/reply-notify-poll.module.code.ts"
+import {
+  runtimeRootDir,
+  supervisorsRootDir,
+} from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
+import { editorFocused } from "akasha/code/editor/extension/modules/editor-focus/editor-focus.module.code.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -33,6 +40,8 @@ const YELLOW: SeatTurnState = "idle"
 const WORKING: SeatTurnState = "working"
 
 const APP_NAME = "Akasha"
+
+const RECORD_AT = "attention-notify.log"
 
 export interface AttentionSeat {
   readonly title: string
@@ -61,14 +70,28 @@ function excerptIn(agentId: string): string {
   return reply === null ? "" : excerptOf(reply.text)
 }
 
-function shownOnDesktop(note: Shown): undefined {
-  const runtime = process.env.XDG_RUNTIME_DIR
-  const bus = process.env.DBUS_SESSION_BUS_ADDRESS ?? (runtime && `unix:path=${runtime}/bus`)
-  Bun.spawn(["notify-send", `--app-name=${APP_NAME}`, note.title, note.body], {
-    env: bus ? { ...process.env, DBUS_SESSION_BUS_ADDRESS: bus } : process.env,
-    stdout: "ignore",
-    stderr: "ignore",
-  })
+function recordedFor(agentId: string, line: string): undefined {
+  try {
+    const at = join(supervisorsRootDir(), agentId, RECORD_AT)
+    appendFileSync(at, `${new Date().toISOString()} ${line}\n`)
+  } catch {}
+  return undefined
+}
+
+async function shownOnDesktop(agentId: string, note: Shown): Promise<undefined> {
+  const bus = process.env.DBUS_SESSION_BUS_ADDRESS ?? `unix:path=${runtimeRootDir()}/bus`
+  try {
+    const sent = Bun.spawn(["notify-send", `--app-name=${APP_NAME}`, note.title, note.body], {
+      env: { ...process.env, DBUS_SESSION_BUS_ADDRESS: bus },
+      stdout: "ignore",
+      stderr: "pipe",
+    })
+    const code = await sent.exited
+    const said = (await new Response(sent.stderr).text()).trim()
+    recordedFor(agentId, `shown "${note.title}" exit=${code}${said === "" ? "" : ` ${said}`}`)
+  } catch (err) {
+    recordedFor(agentId, `not shown "${note.title}": ${String(err)}`)
+  }
   return undefined
 }
 
@@ -80,7 +103,9 @@ export function attentionWatch(args: {
   readState: (agentId: string) => SeatTurnState
   readSeat: (agentId: string) => AttentionSeat | null
   readExcerpt: (agentId: string) => string
-  show: (note: Shown) => undefined
+  readFocused: () => boolean
+  show: (agentId: string, note: Shown) => undefined
+  held: (agentId: string, note: Shown) => undefined
   now: () => number
 }): (agentId: string | null) => undefined {
   let found = false
@@ -112,8 +137,9 @@ export function attentionWatch(args: {
     told = state
     const seat = args.readSeat(agentId)
     if (seat === null || !seat.persona || !seat.desktop) return undefined
-    args.show({ title: headlineOf(seat.title, state), body: args.readExcerpt(agentId) })
-    return undefined
+    const note = { title: headlineOf(seat.title, state), body: args.readExcerpt(agentId) }
+    if (args.readFocused()) return args.held(agentId, note)
+    return args.show(agentId, note)
   }
 }
 
@@ -125,7 +151,12 @@ export function startAttentionNotifyWatch(args: {
     readState: (agentId) => seatTurnStateOf(agentId).state,
     readSeat: attentionSeatOf,
     readExcerpt: excerptIn,
-    show: shownOnDesktop,
+    readFocused: () => editorFocused(),
+    show: (agentId, note) => {
+      void shownOnDesktop(agentId, note)
+      return undefined
+    },
+    held: (agentId, note) => recordedFor(agentId, `held "${note.title}": the editor has focus`),
     now: Date.now,
   })
   const timer = setInterval(() => {

@@ -118,6 +118,7 @@ export const extension = {
     "module/seat-page-opening",
     "module/panel-acting",
     "module/terminal-image-link",
+    "module/editor-focus",
   ],
   decisions: [
     {
@@ -239,5 +240,5 @@ export const extension = {
   ],
   typescriptConfig: "json",
   createdAt: "2026-09-02T21:09:16.560Z",
-  updatedAt: "2026-09-28T19:07:52.000Z",
+  updatedAt: "2026-10-28T19:10:24.299Z",
 } as const satisfies Domain
