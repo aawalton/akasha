@@ -20,5 +20,7 @@ export const coinAndSteel0029Chapter29Family = {
     },
   ],
   createdAt: "2026-10-28T17:21:17.106Z",
-  updatedAt: "2026-10-28T17:21:17.106Z",
+  updatedAt: "2026-10-28T22:24:48.436Z",
+  ownProgress: 2796,
+  progressedAt: "2026-10-28T22:24:48.436Z",
 } as const satisfies StoryChapterRead
