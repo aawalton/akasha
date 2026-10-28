@@ -200,7 +200,8 @@ export const temperAddon = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A keybind category in Bindings.xml is named in plain text.",
+      statement:
+        "A Bindings.xml category is named in plain text or by a string id made as the bundle loads.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -218,5 +219,5 @@ export const temperAddon = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T03:43:06.615Z",
-  updatedAt: "2026-10-28T21:16:37.244Z",
+  updatedAt: "2026-10-28T21:18:37.732Z",
 } as const satisfies PageType
