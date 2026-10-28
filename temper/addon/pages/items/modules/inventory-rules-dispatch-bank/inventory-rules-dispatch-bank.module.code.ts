@@ -26,7 +26,11 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.code.ts"
 import { executeBankWithdrawals } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"
 import { refreshBackpackActions } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
-import { runPaced } from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
+import {
+  noteServerAction,
+  runPaced,
+  serverActionWaitMs,
+} from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -80,10 +84,16 @@ function stackVisitedBags(this: void, bankingBag: number): undefined {
   const bags = bagsVisitStacks(bankingBag)
   const generation = currentVisitGeneration()
   stackingBags = true
-  zo_callLater(function (this: void): undefined {
+  zo_callLater(function stackNow(this: void): undefined {
+    const wait = serverActionWaitMs(bags.length)
+    if (wait > 0) {
+      zo_callLater(stackNow, wait)
+      return
+    }
     const counts: BankTraceStackingCount[] = []
     for (const bag of bags) {
       counts.push({ bag, partialsBefore: partialStackCount(bag) })
+      noteServerAction()
       StackBag(bag)
     }
     recordStacking({ ran: true, bags, counts }, generation)

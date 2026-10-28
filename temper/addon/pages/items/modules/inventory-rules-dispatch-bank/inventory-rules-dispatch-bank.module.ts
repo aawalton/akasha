@@ -43,6 +43,14 @@ export const inventoryRulesDispatchBank = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each bag stacked is one action counted in the shared server action window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Stacking waits until that window has room for every bag it stacks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Whether stacking is still under way is answered here.",
     },
     {
@@ -59,5 +67,5 @@ export const inventoryRulesDispatchBank = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.857Z",
-  updatedAt: "2026-10-28T21:04:22.787Z",
+  updatedAt: "2026-10-28T21:06:19.792Z",
 } as const satisfies Module
