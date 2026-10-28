@@ -15,9 +15,11 @@ export const dragonBallZResurrectionF = {
       source: "tmdb",
       externalId: "303857",
       externalLink: "https://www.themoviedb.org/movie/303857",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Dragon Ball Z: Resurrection 'F'",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:53:46.962Z",
-  updatedAt: "2026-10-28T18:53:46.962Z",
+  updatedAt: "2026-10-28T19:46:58.592Z",
 } as const satisfies Movie
