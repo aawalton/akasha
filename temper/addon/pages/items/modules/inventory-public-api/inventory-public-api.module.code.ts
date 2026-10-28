@@ -1,6 +1,7 @@
 import "akasha/temper/addon/type/temper-items-global/temper-items-global.type-declaration.d.ts"
 
 import { toggleInventoryBrowser } from "akasha/temper/addon/pages/items/modules/inventory-browser/inventory-browser.module.code.ts"
+import { travelToNextInventoryHouse } from "akasha/temper/addon/pages/items/modules/inventory-house-travel/inventory-house-travel.module.code.ts"
 import { getInventoryActionSummary } from "akasha/temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"
 import {
   toggleHoveredItemLock,
@@ -12,6 +13,7 @@ globalThis.TemperItems = {
   ToggleHoveredItemSell: toggleHoveredItemSell,
   ToggleHoveredItemLock: toggleHoveredItemLock,
   ToggleInventoryBrowser: toggleInventoryBrowser,
+  TravelToNextInventoryHouse: travelToNextInventoryHouse,
   getInventoryActionSummary,
   getSavedVariables,
 }

@@ -10,6 +10,9 @@
       <Action name="TEMPERINVENTORY_TOGGLE_BROWSER">
         <Down>TemperItems.ToggleInventoryBrowser()</Down>
       </Action>
+      <Action name="TEMPERINVENTORY_TRAVEL_NEXT_HOUSE">
+        <Down>TemperItems.TravelToNextInventoryHouse()</Down>
+      </Action>
     </Category>
     <Category name="SI_KEYBINDINGS_CATEGORY_USER_INTERFACE">
       <Action name="POTIONMAKER">

@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-house-placement/inventory-house-placement.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-house-route/inventory-house-route.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-house-travel/inventory-house-travel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-currency/inventory-rules-dispatch-bank-currency.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-deposits/inventory-rules-dispatch-bank-deposits.module.code.ts","typed":false,"deferred":false}

@@ -253,6 +253,7 @@ export const temperAddonItems = {
     "module/inventory-house-placement",
     "module/inventory-house-route",
     "module/inventory-house-stop",
+    "module/inventory-house-travel",
   ],
   decisions: [
     {
@@ -378,5 +379,5 @@ export const temperAddonItems = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.863Z",
-  updatedAt: "2026-10-28T20:56:33.837Z",
+  updatedAt: "2026-10-28T20:59:53.762Z",
 } as const satisfies TemperAddon

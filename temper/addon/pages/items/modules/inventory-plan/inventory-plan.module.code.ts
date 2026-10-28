@@ -388,6 +388,21 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
   return { totalSlots, venues: lines }
 }
 
+export function planVenueSteps(): Array<{ venue: string; stacks: number }> | undefined {
+  if (!isSavedVariablesReady()) return undefined
+  const plan = computePlanVenues()
+  if (!plan) return undefined
+  const steps: Array<{ venue: string; stacks: number }> = []
+  for (const entry of plan) {
+    let stacks = 0
+    for (const v of entry.verbs) {
+      stacks += v.count
+    }
+    if (stacks > 0) steps.push({ venue: entry.venue, stacks })
+  }
+  return steps
+}
+
 export function handleTemperPlanCommand(): undefined {
   const compiled = getCompiledConfig()
   if (!compiled) {

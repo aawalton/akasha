@@ -36,6 +36,7 @@ interface TemperItemsApi {
   ToggleHoveredItemSell: (this: void) => undefined
   ToggleHoveredItemLock: (this: void) => undefined
   ToggleInventoryBrowser: (this: void) => undefined
+  TravelToNextInventoryHouse: (this: void) => undefined
   getInventoryActionSummary: (this: void) => TemperItemsActionSummary | undefined
   getSavedVariables: (this: void) => TemperItemsSavedVariables
 }

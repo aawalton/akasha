@@ -12,6 +12,10 @@ export function registerItemsStringIds(this: void): undefined {
     "SI_BINDING_NAME_TEMPERINVENTORY_TOGGLE_BROWSER",
     "Toggle Cross-Character Browser"
   )
+  ZO_CreateStringId(
+    "SI_BINDING_NAME_TEMPERINVENTORY_TRAVEL_NEXT_HOUSE",
+    "Travel to Next Inventory House"
+  )
 }
 
 export const ADDON_NAME = "TemperItems"

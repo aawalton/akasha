@@ -46,7 +46,12 @@ export const inventoryPlan = {
       decisionKind: "decision-kind/departure",
       statement: "A held item is shown on its own line with its reason and is no work to do.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The plan hands out its venues' stacks in its own venue order to the next house stop.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.854Z",
-  updatedAt: "2026-10-28T19:12:31.445Z",
+  updatedAt: "2026-10-28T20:59:53.762Z",
 } as const satisfies Module
