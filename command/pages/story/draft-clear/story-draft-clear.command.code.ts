@@ -13,7 +13,7 @@ import { bareOf } from "akasha/story/world/stories/played/turns/modules/turn-lif
 
 const NAMED = [storyArgument] as const
 
-export type Clearing = (root: string, game: string, action: string | null) => string | null
+type Clearing = (root: string, game: string, action: string | null) => string | null
 
 export function storyDraftClear(
   argv: readonly string[],
