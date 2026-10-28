@@ -9,13 +9,9 @@ export const elaineHealthModel = {
   intentStack: [
     {
       statement:
-        "A command ranks Alan's likeliest causes of death, each with an age range and a risk range.",
-    },
-    {
-      statement:
         "A command ranks the voluntary actions that most lower Alan's risk of death, each with a range.",
     },
   ],
   createdAt: "2026-10-28T17:48:39.611Z",
-  updatedAt: "2026-10-28T19:17:41.446Z",
+  updatedAt: "2026-10-28T19:26:28.393Z",
 } as const satisfies Initiative
