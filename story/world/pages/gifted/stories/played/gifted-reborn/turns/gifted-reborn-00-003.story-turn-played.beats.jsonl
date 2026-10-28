@@ -7,7 +7,7 @@
 {"beat":7,"event":"Window: Reward - Path of the Completionist. 2 Unallocated Stats.","prose":":::item-award\nname: Reward\nnote: Path: Path of the Completionist; Unallocated Stats: 2\n:::","changes":[{"page":"character-skill/gifted-reborn-nala-path-of-the-completionist","note":"Reward shown: Path of the Completionist","key":"unrevealed","from":true,"to":false},{"page":"gifted-unallocated-stats/gifted-reborn-nala","note":"Reward: Unallocated Stats 0 → 2","key":"value","from":0,"to":2},{"page":"gifted-unallocated-stats/gifted-reborn-nala","note":"Unallocated Stats logged: 2","key":"history","append":{"turn":3,"value":2}}],"pictured":[]}
 {"beat":8,"event":"Window: Achievement - Consume another soul.","prose":":::title\nname: Consume another soul and absorb it into your own\n:::","changes":[{"page":"character-title/gifted-reborn-nala-consume-another-soul","note":"Achievement shown: Consume another soul","key":"unrevealed","from":true,"to":false}]}
 {"beat":9,"event":"Window: Reward - Path of Soulstealing (mutated), 0 steps.","changes":[{"page":"character-skill/gifted-reborn-nala-path-of-soulstealing","note":"Reward shown: Path of Soulstealing (mutated), 0 steps","key":"unrevealed","from":true,"to":false}]}
-{"beat":10,"event":"Window: Status - Name: none. Class: Locked. Skills: none, 3 empty slots."}
+{"beat":10,"event":"Window: Status - Name: none. Class: Locked. Skills: none, 3 empty slots.","changes":[]}
 {"beat":11,"event":"Window: Body Features - Aether Core (Minor). Aether Channels (Weak)."}
 {"beat":12,"event":"Window: Attributes - Strength, Stamina, Coordination, Mental, Aether: 100 each."}
 {"beat":13,"event":"Window: Affinity - Shadow (Strong). Paths - Soulstealing, Completionist."}
