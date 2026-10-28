@@ -4,8 +4,6 @@ import {
   makesTurns,
   personIn,
   rootHere,
-  runningUnder,
-  stillWorking,
   type Valued,
 } from "akasha/agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"
 import {
@@ -51,8 +49,6 @@ const JUDGE_FLAG = "--judge"
 const GATES = {
   payload: "no payload read",
   seat: "no seat in the environment",
-  subagent: "a subagent still to report",
-  shell: "a background command still to report",
   words: "no words closing the turn",
   person: "a seat answering to no person",
   game: "a seat making a played game's turns",
@@ -79,7 +75,6 @@ export const SCOPE: readonly string[] = [
   "  a line beside this hook's page saying how far each judge got.",
   "",
   "WHAT IS WRITTEN FALSE:",
-  "  a turn ending with a subagent or a background command still to report",
   "  a turn the agent closed with no words",
   "  a seat answering to no person",
   "  a seat making a played game's turns, which is never drawn red",
@@ -127,10 +122,6 @@ function cleared(gate: string): Settled {
 
 async function settledFor(root: string, agent: string): Promise<Settled> {
   if (makesTurns(valuesOfType(root, SEAT) as readonly Valued[], agent)) return cleared(GATES.game)
-  const running = await runningUnder(agent)
-  if (stillWorking(running, workingOf(agent))) {
-    return cleared(running.length > 0 ? GATES.subagent : GATES.shell)
-  }
   const tail = readOwnTranscriptTail(agent)
   const turn = tail === null ? null : lastSaidIn(tail)
   if (tail === null || turn === null) return cleared(GATES.words)

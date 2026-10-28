@@ -38,7 +38,7 @@ export const stateNeedsAttention = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A turn ending with a subagent or a background command still to report asks Alan for nothing.",
+        "A turn ending with a subagent or a background command still running is judged too.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,5 +62,5 @@ export const stateNeedsAttention = {
     },
   ],
   createdAt: "2026-09-26T18:33:41.178Z",
-  updatedAt: "2026-10-24T18:08:14.228Z",
+  updatedAt: "2026-10-28T18:10:36.223Z",
 } as const satisfies InferenceHook
