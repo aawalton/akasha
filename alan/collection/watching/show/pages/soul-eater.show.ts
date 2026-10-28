@@ -11,9 +11,15 @@ export const soulEater = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "37305", externalLink: "https://www.themoviedb.org/tv/37305" },
+    {
+      source: "tmdb",
+      externalId: "37305",
+      externalLink: "https://www.themoviedb.org/tv/37305",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Soul Eater",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:50:04.702Z",
-  updatedAt: "2026-10-28T18:50:04.702Z",
+  updatedAt: "2026-10-28T19:46:05.007Z",
 } as const satisfies Show
