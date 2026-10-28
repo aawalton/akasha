@@ -6,7 +6,7 @@ import {
 
 export type Evidence = "trial" | "observational" | "confounded"
 
-export type Routine =
+type Routine =
   | "strengthMinutes"
   | "nutsGrams"
   | "wholeGrainGrams"
@@ -22,11 +22,11 @@ export type Routine =
   | "fitness"
   | "hotBaths"
 
-export type Levels = Readonly<Record<Routine, number | null>>
+type Levels = Readonly<Record<Routine, number | null>>
 
 export type Routines = { readonly now: Levels; readonly at: Levels }
 
-export const MINUTES_PER_SET = 2.5
+const MINUTES_PER_SET = 2.5
 
 const STRENGTH_TARGET_SETS = 24
 
@@ -58,7 +58,7 @@ const COVID_PROTECTED_SHARE = 113 / 365
 
 const PSA_FROM_AGE = 55
 
-export const VO2_PER_MET = 3.5
+const VO2_PER_MET = 3.5
 
 const REFERENCE_METS = 9.35
 
