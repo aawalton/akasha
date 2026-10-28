@@ -6,7 +6,7 @@ export const undoCheckWorldLockpicking = {
   slug: "undo-check-world-lockpicking",
   title: "Lockpicking",
   world: "world/undo-check-world",
-  description: "Opening a lock without its key.",
+  description: "Opening a lock without its key, by feel and patience.",
   createdAt: "2026-10-28T15:03:47.724Z",
-  updatedAt: "2026-10-28T15:03:47.724Z",
+  updatedAt: "2026-10-28T15:05:23.405Z",
 } as const satisfies WorldSkill
