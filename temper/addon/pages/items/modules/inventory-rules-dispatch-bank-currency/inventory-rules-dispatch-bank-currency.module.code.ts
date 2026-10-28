@@ -1,6 +1,7 @@
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import { getCompiledConfig } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { getActionReportLevel } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { noteServerAction } from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -58,6 +59,7 @@ export function dispatchCurrencyRules(): undefined {
       }
 
       if (toTransfer > 0) {
+        noteServerAction()
         TransferCurrency(curt, toTransfer, CURRENCY_LOCATION_CHARACTER, CURRENCY_LOCATION_BANK)
         reports.push(`${CURRENCY_DISPLAY_NAMES[currencyKey]}: ${toTransfer} → bank`)
       }
@@ -78,6 +80,7 @@ export function dispatchCurrencyRules(): undefined {
       }
 
       if (toTransfer > 0) {
+        noteServerAction()
         TransferCurrency(curt, toTransfer, CURRENCY_LOCATION_BANK, CURRENCY_LOCATION_CHARACTER)
         reports.push(`${CURRENCY_DISPLAY_NAMES[currencyKey]}: ${toTransfer} → character`)
       }

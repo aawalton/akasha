@@ -4782,6 +4782,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.ts","id":"01a06258-b52f-7219-a9f9-f6d5b67fe4a5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-report/inventory-rules-core-report.module.ts","id":"01a06258-b52f-7572-a586-e26377cd230d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.ts","id":"01a06258-b52f-788c-b7d1-9a86b1d3e44b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-currency/inventory-rules-dispatch-bank-currency.module.ts","id":"01a06258-b530-7071-8594-c5738a71f54c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-deposits/inventory-rules-dispatch-bank-deposits.module.ts","id":"01a06258-b530-7646-901c-b102e187b412"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.ts","id":"01a06258-b530-714c-9441-2a4a09f6f3b7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.ts","id":"01a06258-b530-7ef5-9ff0-40428a6c5232"}
