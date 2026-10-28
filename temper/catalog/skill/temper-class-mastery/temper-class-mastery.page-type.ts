@@ -20,12 +20,20 @@ export const temperClassMastery = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A character not subclassing chooses up to two class masteries from any class.",
+      statement: "A character not subclassing chooses up to two class masteries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mastery belongs to the character's own class.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build that takes a skill line of another class has no mastery.",
     },
   ],
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   types: "ts",
   createdAt: "2026-10-21T13:24:41.666Z",
-  updatedAt: "2026-10-21T13:24:41.666Z",
+  updatedAt: "2026-10-28T20:14:23.103Z",
 } as const satisfies PageType
