@@ -5,6 +5,7 @@ export const soloLeveling = {
   type: "page-type/show",
   slug: "solo-leveling",
   title: "Solo Leveling",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   partOfCollections: ["show-collection/anime-shows", "fandom/solo-leveling"],
   position: 0,
   ownLength: 0,
@@ -20,8 +21,13 @@ export const soloLeveling = {
       externalLink: "https://trakt.tv/shows/solo-leveling",
       lastSyncedAt: "2025-12-24",
     },
-    { source: "tmdb", externalId: "127532", externalLink: "https://www.themoviedb.org/tv/127532" },
+    {
+      source: "tmdb",
+      externalId: "127532",
+      externalLink: "https://www.themoviedb.org/tv/127532",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-10-28T18:38:40.377Z",
+  updatedAt: "2026-10-28T19:46:01.220Z",
 } as const satisfies Show
