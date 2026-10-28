@@ -24,7 +24,17 @@ export const inventoryManagementPlanCapacityFilter = {
       decisionKind: "decision-kind/departure",
       statement: "A slot an item leaves on the plan is room for an item the plan stores there.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A rule whose chain names a house has each item's leg chosen by the house placement.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A house rule's item bound for a storage leg is kept only where that storage has room.",
+    },
   ],
   createdAt: "2026-09-02T09:02:04.760Z",
-  updatedAt: "2026-10-28T19:31:05.753Z",
+  updatedAt: "2026-10-28T19:47:43.000Z",
 } as const satisfies Module

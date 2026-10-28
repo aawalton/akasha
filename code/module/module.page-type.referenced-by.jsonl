@@ -6025,6 +6025,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-collect/inventory-management-plan-collect.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-grouping/inventory-management-plan-grouping.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-house-placement/inventory-management-plan-house-placement.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-simulation/inventory-management-plan-simulation.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-use-destinations/inventory-management-plan-use-destinations.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.ts","typed":true,"deferred":false}

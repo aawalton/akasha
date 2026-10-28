@@ -21,6 +21,7 @@ import {
   processChainRule,
   threadResidueToNextRule,
 } from "akasha/temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.code.ts"
+import { isHouseRule } from "akasha/temper/items/rules/routing/modules/inventory-management-plan-house-placement/inventory-management-plan-house-placement.module.code.ts"
 import type {
   CharSimState,
   SimStep,
@@ -182,6 +183,12 @@ export function collectSimSteps(
         !(dropCharBackpackForStock && classifyLocation(e.locationKey) === "character")
     )
     const merged = mergeStackableEntries(actionable)
+    if (isHouseRule(rule)) {
+      for (const { entry, sourceSlotCount } of merged) {
+        addItemRouteSteps(entry, rule.action, entry.destination ?? ruleDestination, sourceSlotCount)
+      }
+      continue
+    }
     if (rule.destinationChain !== undefined && rule.destinationChain.length > 0 && context) {
       processChainRule(
         {

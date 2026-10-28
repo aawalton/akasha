@@ -6413,6 +6413,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.ts","id":"01a0615a-a1da-742b-ae13-b527b4574811"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan-collect/inventory-management-plan-collect.module.ts","id":"01a0615a-a1db-7228-98a9-6c297cc5bc0d"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan-grouping/inventory-management-plan-grouping.module.ts","id":"01a0615a-a1db-77c0-bfca-77236df241ac"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan-house-placement/inventory-management-plan-house-placement.module.ts","id":"01a1840d-db19-7db6-b978-5b8e16dbe15b"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan-simulation/inventory-management-plan-simulation.module.ts","id":"01a0615a-a1dc-7109-83cd-300cf2753778"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan-use-destinations/inventory-management-plan-use-destinations.module.ts","id":"01a0615a-a1dc-7e87-b2e1-07d627b10bd7"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.ts","id":"01a06289-2676-70d1-b558-0f7f5fbd97de"}

@@ -1,4 +1,5 @@
 import type { InventoryItemData } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import type { MoveToDestination } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { CharacterId } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 export interface AffectedItem {
@@ -9,6 +10,7 @@ export interface AffectedItem {
   alreadyAtDestination: boolean
   quantity?: number
   useAllocation?: readonly CharacterId[]
+  destination?: MoveToDestination
 }
 
 export interface ClassifiedInventoryItem {

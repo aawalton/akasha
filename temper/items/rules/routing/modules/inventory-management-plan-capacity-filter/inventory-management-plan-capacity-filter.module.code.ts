@@ -1,5 +1,6 @@
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { getLocationDisplayName } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { houseTarget } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 import { narrowDestination } from "akasha/temper/items/rules/core/modules/inventory-destination-parse/inventory-destination-parse.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
@@ -11,6 +12,10 @@ import {
   buildStorageFreeSlots,
   isItemStackable,
 } from "akasha/temper/items/rules/routing/modules/inventory-management-plan-capacity/inventory-management-plan-capacity.module.code.ts"
+import {
+  type HousePlacement,
+  placeInHouses,
+} from "akasha/temper/items/rules/routing/modules/inventory-management-plan-house-placement/inventory-management-plan-house-placement.module.code.ts"
 
 interface CapacityAuditDroppedItem {
   readonly itemName: string
@@ -43,6 +48,7 @@ export interface CapacityAudit {
 interface CapacityFilterResult {
   readonly filteredMap: Map<string, readonly AffectedItem[]>
   readonly audit: CapacityAudit
+  readonly houses: HousePlacement
 }
 
 const NO_ERRAND: ReadonlySet<string> = new Set(["nothing", "lock", "unlock", "bind"])
@@ -94,6 +100,38 @@ export function applyDestinationCapacityFilterWithAudit(
     if (free !== undefined) capacityBudget.set(item.locationKey, free + 1)
   }
 
+  function takesRoom(storageKey: string, item: AffectedItem): boolean {
+    const claimed = claimedStackableItems.get(storageKey) ?? new Set<number>()
+    claimedStackableItems.set(storageKey, claimed)
+    const stackable = isItemStackable(item.item)
+    if (stackable && claimed.has(item.item.itemId)) return true
+    const budget = capacityBudget.get(storageKey) ?? 0
+    if (budget <= 0) return false
+    capacityBudget.set(storageKey, budget - 1)
+    if (stackable) claimed.add(item.item.itemId)
+    return true
+  }
+
+  function keepHouseRuleItems(rule: ItemRule | CompiledOrderedRule, ruleId: string): undefined {
+    const items = result.get(ruleId) ?? []
+    const kept: AffectedItem[] = []
+    for (const item of items) {
+      if (item.alreadyAtDestination || houseTarget(item.destination) === undefined) continue
+      kept.push(item)
+      freeSlotLeft(item)
+    }
+    for (const item of items) {
+      if (item.alreadyAtDestination) kept.push(item)
+      if (item.alreadyAtDestination || houseTarget(item.destination) !== undefined) continue
+      const venue = getActionVenue(rule.action, item.destination, false)
+      const storageKey = resolveStorageKey(venue, item.destination, inventory)
+      if (storageKey === undefined || takesRoom(storageKey, item)) kept.push(item)
+    }
+    result.set(ruleId, kept)
+  }
+
+  const houses = placeInHouses(orderedRules, result, inventory)
+
   for (const rule of orderedRules) {
     if (rule.active === false || rule.id === undefined) continue
     if (rule.action === "move-to" || rule.action === "stock" || NO_ERRAND.has(rule.action)) continue
@@ -106,6 +144,10 @@ export function applyDestinationCapacityFilterWithAudit(
     if (rule.active === false) continue
     if (rule.action !== "move-to" && rule.action !== "stock") continue
     if (rule.id === undefined) continue
+    if (houses.houseRuleIds.has(rule.id)) {
+      keepHouseRuleItems(rule, rule.id)
+      continue
+    }
 
     const destination =
       rule.destination === undefined ? undefined : narrowDestination(rule.destination)
@@ -250,7 +292,7 @@ export function applyDestinationCapacityFilterWithAudit(
     })
   }
 
-  return { filteredMap: result, audit: { entries } }
+  return { filteredMap: result, audit: { entries }, houses }
 }
 
 export function applyDestinationCapacityFilter(

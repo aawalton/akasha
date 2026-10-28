@@ -15,7 +15,12 @@ export const inventoryRuleMatcherTypes = {
       decisionKind: "decision-kind/departure",
       statement: "An item already at the destination is marked rather than dropped.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An affected item carries the leg of its rule's chain the plan chose, where one chose.",
+    },
   ],
   createdAt: "2026-09-02T07:23:20.431Z",
-  updatedAt: "2026-09-21T15:44:44.000Z",
+  updatedAt: "2026-10-28T19:47:43.000Z",
 } as const satisfies Module

@@ -23,6 +23,7 @@ export const temperItemsRulesRouting = {
     "test-fixture/inventory-management-plan-property-fixtures",
     "test-fixture/inventory-management-plan-test-utils",
     "domain/temper-items-rules-routing-core",
+    "module/inventory-management-plan-house-placement",
   ],
   decisions: [
     {
@@ -35,5 +36,5 @@ export const temperItemsRulesRouting = {
     },
   ],
   createdAt: "2026-09-02T09:02:04.766Z",
-  updatedAt: "2026-09-21T15:39:02.000Z",
+  updatedAt: "2026-10-28T19:47:43.000Z",
 } as const satisfies Domain
