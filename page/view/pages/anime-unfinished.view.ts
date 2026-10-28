@@ -1,9 +1,9 @@
 import type { View } from "akasha/page/view/view.page-type.types.ts"
 
-export const animeTop100 = {
+export const animeUnfinished = {
   id: "01a183d3-50d7-7f0e-b7aa-e48d50566d1e",
   type: "page-type/view",
-  slug: "anime-top-100",
+  slug: "anime-unfinished",
   title: "Unfinished",
   nav: "nav/anime",
   pageType: "page-type/fandom",
@@ -25,5 +25,5 @@ export const animeTop100 = {
   ],
   visibleProperties: ["completion-percent", "position", "total-length", "total-progress"],
   createdAt: "2026-10-28T18:43:46.517Z",
-  updatedAt: "2026-10-28T18:46:56.046Z",
+  updatedAt: "2026-10-28T18:47:10.897Z",
 } as const satisfies View
