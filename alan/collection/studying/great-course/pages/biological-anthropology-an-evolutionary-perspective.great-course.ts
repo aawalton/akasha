@@ -8,7 +8,7 @@ export const biologicalAnthropologyAnEvolutionaryPerspective = {
   status: "in-progress",
   unit: "unit/minutes",
   ownLength: 725.95,
-  ownProgress: 61.72,
+  ownProgress: 92.12,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/science-great-courses",
@@ -22,6 +22,6 @@ export const biologicalAnthropologyAnEvolutionaryPerspective = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-10-19T17:41:29.318Z",
-  progressedAt: "2026-10-19T17:41:29.318Z",
+  updatedAt: "2026-10-28T21:28:52.381Z",
+  progressedAt: "2026-10-28T21:28:52.381Z",
 } as const satisfies GreatCourse
