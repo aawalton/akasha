@@ -313,3 +313,21 @@ describe("A holder sells nothing a character short of its target or a short tier
     })
   }
 })
+
+describe("Of one item, what storage holds takes the tiers before what characters hold.", () => {
+  test("the bank's own stock covers the shortfalls, so its holder sells all it holds over", () => {
+    const holdings: readonly (readonly [string, number])[] = [
+      ["1000", 1000],
+      ["1001", 50],
+      ["1002", 0],
+    ]
+    const built = buildHeldStockScenario(holdings, 200, SOUL_GEM_CHAIN, 400)
+    const sums = sumPlanByCharacterAndLabel(planned([built.stockRule, built.sellRule], built))
+    expect(sums.get("Char1:Withdraw")).toBe(150)
+    expect(sums.get("Char2:Withdraw")).toBe(200)
+    expect(sums.get("Char0:Sell")).toBe(1450 - 3 * 200 - 200)
+    expect(sums.get("Char0:Withdraw") ?? 0).toBe(0)
+    expect(sums.get("Char1:Sell") ?? 0).toBe(0)
+    expect(sums.get("Char2:Sell") ?? 0).toBe(0)
+  })
+})

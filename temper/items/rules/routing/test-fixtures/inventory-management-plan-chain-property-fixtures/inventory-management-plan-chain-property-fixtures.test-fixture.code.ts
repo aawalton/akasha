@@ -190,7 +190,8 @@ export function buildHeldStockScenario(
   chain: DestinationChain = [
     { destination: "character:by-priority", targetQuantity },
     { destination: "bank" },
-  ]
+  ],
+  banked = 0
 ): {
   stockRule: CategoryRule
   sellRule: CategoryRule
@@ -201,8 +202,14 @@ export function buildHeldStockScenario(
   const itemId = 70_001
   const itemName = "Generic Stockable"
   const stockAffected: AffectedItem[] = []
+  const bankBag: Record<number, InventoryItemData> = {}
+  if (banked > 0) {
+    const bankStack = makeStackableItem(itemName, itemId, banked)
+    bankBag[0] = bankStack
+    stockAffected.push(makeAffected(bankStack, "Bank", "Bank", 2))
+  }
   const locations: Record<string, ReturnType<typeof makeLocation>> = {
-    Bank: makeLocation("Bank", { 2: {} }, { 2: 240 }),
+    Bank: makeLocation("Bank", { 2: bankBag }, { 2: 240 }),
   }
   const characters: Record<string, { displayName: string }> = {}
 

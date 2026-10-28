@@ -170,10 +170,12 @@ export function processChainRule(
     takenPerTier: new Map<number, number>(),
   }
   const itemIds = "itemIds" in rule ? rule.itemIds : undefined
+  const onCharacter = (one: AffectedItem): number => (stockSourceCharId(one) === undefined ? 0 : 1)
   const byPriority = [...merged].sort(
     (one, two) =>
       stockPriorityRank(itemIds, one.entry.item.itemId) -
-      stockPriorityRank(itemIds, two.entry.item.itemId)
+        stockPriorityRank(itemIds, two.entry.item.itemId) ||
+      onCharacter(one.entry) - onCharacter(two.entry)
   )
   for (const { entry, sourceSlotCount } of byPriority) {
     const expansion = expandChainEntryIntoRows(

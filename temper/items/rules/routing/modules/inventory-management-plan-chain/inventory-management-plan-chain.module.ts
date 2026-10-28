@@ -45,7 +45,11 @@ export const inventoryManagementPlanChain = {
       decisionKind: "decision-kind/departure",
       statement: "A rule's first-listed item ids take the tiers before the ids listed after.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Of one item, what storage holds takes the tiers before what characters hold.",
+    },
   ],
   createdAt: "2026-09-02T09:02:04.762Z",
-  updatedAt: "2026-10-28T21:21:27.333Z",
+  updatedAt: "2026-10-28T22:04:11.299Z",
 } as const satisfies Module

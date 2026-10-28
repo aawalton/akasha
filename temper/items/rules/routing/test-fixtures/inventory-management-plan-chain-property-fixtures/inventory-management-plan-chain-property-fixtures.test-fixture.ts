@@ -24,7 +24,11 @@ export const inventoryManagementPlanChainPropertyFixtures = {
       statement:
         "A held stock scenario stocks every character and banks the rest, unless handed a chain.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A held stock scenario's bank holds none of the item unless told how many.",
+    },
   ],
   createdAt: "2026-09-02T14:32:30.582Z",
-  updatedAt: "2026-10-28T21:21:27.333Z",
+  updatedAt: "2026-10-28T22:04:11.299Z",
 } as const satisfies TestFixture
