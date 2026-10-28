@@ -21,7 +21,6 @@ export const RevealedSheetSchema = z.object({
   bonds: z.array(z.unknown()).optional(),
   equipment: z.record(z.string(), z.unknown()).optional(),
   inventory: z.array(z.unknown()).optional(),
-  titles: z.array(z.unknown()).optional(),
   derived: z.record(z.string(), z.number()).optional(),
 })
 export type RevealedSheet = z.infer<typeof RevealedSheetSchema>

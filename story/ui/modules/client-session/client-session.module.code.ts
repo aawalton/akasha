@@ -113,7 +113,6 @@ export const ClientSheetSchema = z.object({
   bonds: z.array(ClientBondSchema).optional(),
   items: z.array(ClientItemSchema).optional(),
   equipment: z.record(z.string(), ClientItemSchema).optional(),
-  titles: z.array(z.string()).optional(),
   derived: z.record(z.string(), z.number()).optional(),
 })
 export type ClientSheet = z.infer<typeof ClientSheetSchema>
@@ -275,7 +274,6 @@ function toClientSheet(revealed: unknown): ClientSheet | null {
     bonds: projectedArray(rec["bonds"], toClientBond),
     items: projectedArray(rec["inventory"], toClientItem),
     equipment: toClientEquipment(rec["equipment"]),
-    titles: stringArray(rec["titles"]),
     derived: numberRecord(rec["derived"]),
   })
 }

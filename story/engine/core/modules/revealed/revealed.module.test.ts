@@ -36,7 +36,7 @@ describe("narrowRevealed", () => {
   })
 
   test("asking for a key the sheet lacks adds nothing", () => {
-    expect(narrowRevealed({ name: "Aria" }, ["name", "titles"])).toEqual({ name: "Aria" })
+    expect(narrowRevealed({ name: "Aria" }, ["name", "level"])).toEqual({ name: "Aria" })
   })
 
   test("asking for nothing yields an empty sheet", () => {
