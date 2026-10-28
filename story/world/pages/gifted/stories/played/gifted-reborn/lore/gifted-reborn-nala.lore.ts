@@ -145,7 +145,11 @@ export const giftedRebornNala = {
       fact: "Her Body Features read: Aether Core: Minor; Aether Channels: Weak.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Her Attributes read 100 each: Strength, Stamina, Coordination, Mental and Aether.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:17:23.053Z",
+  updatedAt: "2026-10-28T00:18:27.713Z",
 } as const satisfies Lore
