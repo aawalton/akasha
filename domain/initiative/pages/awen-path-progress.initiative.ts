@@ -8,9 +8,8 @@ export const awenPathProgress = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    { statement: "How fast a Gifted Path gains steps matches the pace the Gifted source shows." },
     { statement: "Steps a Gifted Path earns outside practice follow rules the source supports." },
   ],
   createdAt: "2026-10-28T13:53:24.275Z",
-  updatedAt: "2026-10-28T13:53:24.275Z",
+  updatedAt: "2026-10-28T14:10:58.288Z",
 } as const satisfies Initiative
