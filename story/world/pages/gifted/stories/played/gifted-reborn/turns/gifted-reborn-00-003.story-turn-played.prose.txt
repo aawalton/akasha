@@ -18,3 +18,8 @@ note: Path: Path of the Completionist; Unallocated Stats: 2
 :::title
 name: Consume another soul and absorb it into your own
 :::
+
+:::item-award
+name: Reward
+note: Path: Path of Soulstealing (mutated); Steps: 0
+:::
