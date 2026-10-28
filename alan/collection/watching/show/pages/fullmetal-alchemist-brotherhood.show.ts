@@ -11,9 +11,22 @@ export const fullmetalAlchemistBrotherhood = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "31911", externalLink: "https://www.themoviedb.org/tv/31911" },
+    {
+      source: "tmdb",
+      externalId: "31911",
+      externalLink: "https://www.themoviedb.org/tv/31911",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Fullmetal Alchemist: Brotherhood",
+  streamingOn: [
+    "Amasian TV",
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+  ],
   createdAt: "2026-10-28T18:43:00.104Z",
-  updatedAt: "2026-10-28T18:43:00.104Z",
+  updatedAt: "2026-10-28T19:44:21.794Z",
 } as const satisfies Show
