@@ -4,11 +4,12 @@ export const giftedRebornNalaCoordination = {
   id: "01a17ee1-2b6a-7544-ad52-255dd77330db",
   type: "page-type/metric-character-stat",
   slug: "gifted-reborn-nala-coordination",
+  statGroup: "world-stat-group/gifted-basic-attributes",
   character: "character-player/gifted-reborn-nala",
   value: 100,
   minValue: 0,
   unrevealed: false,
   displayOrder: 3,
   createdAt: "2026-10-27T19:40:48.360Z",
-  updatedAt: "2026-10-28T00:16:37.607Z",
+  updatedAt: "2026-10-28T14:53:24.183Z",
 } as const satisfies MetricCharacterStat

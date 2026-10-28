@@ -34,6 +34,9 @@
 {"propertySlug":"world","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-soulstealing.world-skill.ts","id":"01a17edd-6b14-716d-9086-c49e87223c28"}
 {"propertySlug":"world","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-the-completionist.world-skill.ts","id":"01a17edd-6b14-7415-bdcb-17cae3d65080"}
 {"propertySlug":"world","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-willpower.world-skill.ts","id":"01a17edd-6b14-761c-af77-15a126b838e8"}
+{"propertySlug":"world","path":"story/world/pages/gifted/mechanics/stat-groups/gifted-advanced-attributes.world-stat-group.ts","id":"01a18300-6758-74c7-844c-65c5053c0b8e"}
+{"propertySlug":"world","path":"story/world/pages/gifted/mechanics/stat-groups/gifted-affinities.world-stat-group.ts","id":"01a18300-6758-7050-b40f-80076bca1fc6"}
+{"propertySlug":"world","path":"story/world/pages/gifted/mechanics/stat-groups/gifted-basic-attributes.world-stat-group.ts","id":"01a18300-6758-7ff9-965f-d6be360778cd"}
 {"propertySlug":"world","path":"story/world/pages/gifted/mechanics/titles/gifted-complete-a-basic-path.world-title.ts","id":"01a17edd-ccb4-7f7d-aece-e12421324561"}
 {"propertySlug":"world","path":"story/world/pages/gifted/mechanics/titles/gifted-consume-another-soul.world-title.ts","id":"01a17edd-ccb4-744a-94fa-df7f639bc646"}
 {"propertySlug":"world","path":"story/world/pages/gifted/mechanics/titles/gifted-defeat-a-lesser-demon-prince-while-unborn.world-title.ts","id":"01a17edd-ccb4-7447-b9b4-a0068b04ff96"}
