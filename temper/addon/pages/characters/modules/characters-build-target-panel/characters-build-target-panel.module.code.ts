@@ -47,6 +47,8 @@ const HEADER_GAP = 12
 
 const MIN_WIDTH = 250
 
+const SAID_WIDTH = 420
+
 const REFRESH_AFTER_APPLY_MS = 1500
 
 const UPDATES_NAME = `${PANEL_NAME}Updates`
@@ -95,7 +97,7 @@ function applyTarget(): undefined {
   if (target === undefined) return undefined
   const said: string[] = []
   for (const title of toApply(checklistOf(target))) said.push(APPLIERS[title]?.(target) ?? "")
-  held.said.SetText(said.join("  "))
+  held.said.SetText(said.join("\n"))
   zo_callLater(refreshTargetPanel, REFRESH_AFTER_APPLY_MS)
   return undefined
 }
@@ -113,6 +115,7 @@ function createTargetPanel(): TargetPanel {
 
   const said = WINDOW_MANAGER.CreateControl(undefined, window, CT_LABEL)
   styleText(said, "muted")
+  said.SetWidth(SAID_WIDTH)
   said.SetHidden(true)
 
   const lines: LabelControl[] = []
@@ -172,8 +175,9 @@ export function refreshTargetPanel(this: void): undefined {
     top = placeAt(panel.apply, panel, top, 0) + HEADER_GAP
   }
   if (panel.said.GetText() !== "") {
-    top = placeAt(panel.said, panel, top, 0) + HEADER_GAP
-    widest = math.max(widest, panel.said.GetTextWidth())
+    placeAt(panel.said, panel, top, 0)
+    top += math.max(panel.said.GetHeight(), panel.said.GetTextHeight()) + HEADER_GAP
+    widest = math.max(widest, SAID_WIDTH)
   }
   let used = 0
   for (const section of sections) {

@@ -42,7 +42,7 @@ export const charactersBuildTargetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What the game said to an apply is shown under the button.",
+      statement: "What an apply said is shown under the button, a part to a line, wrapped.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -54,5 +54,5 @@ export const charactersBuildTargetPanel = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-10-28T20:48:22.497Z",
+  updatedAt: "2026-10-28T20:55:25.290Z",
 } as const satisfies Module
