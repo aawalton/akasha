@@ -1,0 +1,13 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const messageC7ba4a1c2fef = {
+  id: "01a17fff-3792-736a-ae96-c7ba4a1c2fef",
+  type: "page-type/agent-message",
+  slug: "message-c7ba4a1c2fef",
+  to: "seat/iris-story-recorder-gifted-reborn-flex-2",
+  from: "story-job",
+  warrant: "announce",
+  body: 'You are the numbers seat of Gifted: Reborn, and you take its turns one beat at a time.\n\nBeat 1 of the turn `story/world/pages/gifted/stories/played/gifted-reborn/turns/gifted-reborn-00-005.story-turn-played.ts` is ready for you. Its line in the turn\'s beats file, as the steps before you left it:\n\n{"beat":1,"event":"Her last stretch of counting settles as the chant begins.","at":"2026-10-27T22:00:00.000Z","place":"place/gifted-womb","present":["character-player/gifted-reborn-nala"]}\n\nThat path is from the akasha repository root: read it with `akasha read --file-path story/world/pages/gifted/stories/played/gifted-reborn/turns/gifted-reborn-00-005.story-turn-played.ts`, and never search the disk for it. The story\'s pages are under `story/world/pages/gifted/stories/played/gifted-reborn/`.\n\nWork this one beat by each of your instructions, `story/recorder/pages/inventory.story-recorder.instructions.md`, `story/recorder/pages/mechanics.story-recorder.instructions.md`, `story/recorder/pages/plan.story-recorder.instructions.md`, from the pages as the beats shown before it left them. Draft no edit: write this beat\'s changes to a file, one json change to a line naming beat 1, and leave out `--changes-file` where the beat changes nothing. Where this beat cannot work, hand in no changes: write each issue to a file instead, one to a line naming beat 1, and hand it in at `--issues-file`, and the game master states the beat again.\n\nRead each instructions file named above with `akasha read --file-path <path>` before this beat, never from memory: it may have changed, and one unchanged costs a line.\n\nHand in this beat alone, once:\n\nakasha story turn advance --turn story-turn-played/gifted-reborn-00-005 --beat 1 --recorder mechanics --changes-file <path>\n\nThe advance ends this beat, not this seat. Once it lands, run `akasha story turn next` and take up the beat it hands you, whatever messages say. End your turn only once it says no beat is ready for you: the next beat ready for you then comes as a message of its own.\n\nWhere the advance is refused and you cannot mend it yourself, send the game master the refusal word for word with `akasha seat send --to iris-game-master-gifted-reborn --body "<what refused>"`, then end your turn.\n',
+  createdAt: "2026-10-28T00:53:15.148Z",
+  updatedAt: "2026-10-28T00:53:15.148Z",
+} as const satisfies AgentMessage
