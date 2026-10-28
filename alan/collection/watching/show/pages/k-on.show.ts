@@ -11,9 +11,15 @@ export const kOn = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "42253", externalLink: "https://www.themoviedb.org/tv/42253" },
+    {
+      source: "tmdb",
+      externalId: "42253",
+      externalLink: "https://www.themoviedb.org/tv/42253",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "K-ON!",
+  streamingOn: ["HiDive", "Hidive Amazon Channel"],
   createdAt: "2026-10-28T18:51:22.104Z",
-  updatedAt: "2026-10-28T18:51:22.104Z",
+  updatedAt: "2026-10-28T19:44:44.773Z",
 } as const satisfies Show
