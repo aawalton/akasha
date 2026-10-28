@@ -9,6 +9,7 @@ export const erinSolstice = {
   completion: "json",
   esoCharacterId: "8796093022338107",
   accountPage: "temper-account/alanarre",
+  liveBuildId: "01a1840c-70dd-7eca-aac8-d45018a8a265",
   race: "temper-race/imperial",
   class: "temper-class/dragonknight",
   firstName: "Erin",
@@ -16,5 +17,5 @@ export const erinSolstice = {
   readings: "jsonl",
   removedReadings: "jsonl",
   createdAt: "2026-04-29T16:44:26.851Z",
-  updatedAt: "2026-10-20T16:29:05.834Z",
+  updatedAt: "2026-10-28T19:47:07.750Z",
 } as const satisfies TemperAccountCharacter
