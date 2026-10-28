@@ -44,7 +44,7 @@ import { chatPlaced } from "akasha/story/world/stories/played/modules/chat-panel
 import { usePlayedBeside } from "akasha/story/world/stories/played/modules/played-beside/played-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
 import { NARROW_PAGE } from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
-import { usePlayedOutcomes } from "akasha/story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx"
+
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
 import { useQuietFor } from "akasha/story/world/stories/played/modules/played-quiet/played-quiet.module.code.ts"
 import {
@@ -68,18 +68,16 @@ import {
   playedMakingKey,
   playedReady,
   playedShownKey,
-  playedTail,
-  playedTurnsOf,
   playedUpcomingOf,
   playedWorking,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+import { usePlayedRun } from "akasha/story/world/stories/played/modules/played-run/played-run.module.code.tsx"
 import {
   PlayedSidebars,
   placedFrom,
 } from "akasha/story/world/stories/played/modules/played-sidebars/played-sidebars.module.code.tsx"
 import { usePlayedState } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
 import { stateOf } from "akasha/story/world/stories/played/modules/played-state-sheet/played-state-sheet.module.code.ts"
-import { usePlayedProse } from "akasha/story/world/stories/played/modules/prose-beside/prose-beside.module.code.ts"
 import {
   undoOffered,
   useTurnUndo,
@@ -209,15 +207,8 @@ function PlayedStory({
     [turns.rows, seated, quietMs, narrator]
   )
 
-  const runIsTurns = ready.length > 0
-  const runPageTypeSlug = runIsTurns ? PLAYED_TURN_PAGE_TYPE_SLUG : PLAYED_CHAPTER_PAGE_TYPE_SLUG
-  const tail = useMemo(
-    () => playedTail(runIsTurns ? ready : chapters.rows),
-    [runIsTurns, ready, chapters.rows]
-  )
-  const drawnIds = useMemo(() => tail.drawn.map((row) => row.id), [tail])
-  const prose = usePlayedProse(runPageTypeSlug, drawnIds)
-  const outcomeCards = usePlayedOutcomes(runPageTypeSlug, drawnIds)
+  const played = usePlayedRun(ready, chapters.rows)
+  const { runIsTurns, tail, outcomeCards } = played
 
   const characterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -273,14 +264,7 @@ function PlayedStory({
   const undo = useTurnUndo({ gameExternalId: externalId ?? null, offer, onUndone })
   usePageMenuExtra(undo.item)
 
-  const runTurns = useMemo(
-    () =>
-      playedTurnsOf(
-        tail.drawn.filter((row) => prose.read.has(row.id)),
-        prose.prose
-      ),
-    [tail, prose]
-  )
+  const runTurns = played.turns
   const storyChapters = useMemo(
     () => (runIsTurns ? playedChaptersOf(chapters.rows) : []),
     [runIsTurns, chapters.rows]
@@ -383,11 +367,14 @@ function PlayedStory({
           <PlayedPanels shown={shownIn(shown, ABOVE)} envelope={envelope} run={panelRun} />
         }
         runDrawn={
-          drawnRun.length === 0 ? (
-            <PlayedChannel {...panelRun} />
-          ) : (
-            <PlayedPanels shown={drawnRun} envelope={envelope} run={panelRun} />
-          )
+          <>
+            {played.control}
+            {drawnRun.length === 0 ? (
+              <PlayedChannel {...panelRun} />
+            ) : (
+              <PlayedPanels shown={drawnRun} envelope={envelope} run={panelRun} />
+            )}
+          </>
         }
         bar={bar}
         placed={placed}
