@@ -13,9 +13,9 @@ import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/
 
 type Refused = { readonly refused: string }
 
-export type Settled = { readonly at: string | null; readonly text: string | null }
+type Settled = { readonly at: string | null; readonly text: string | null }
 
-export type Settling = {
+type Settling = {
   readonly present: (path: string) => boolean
   readonly textOf: (path: string) => string
 }
