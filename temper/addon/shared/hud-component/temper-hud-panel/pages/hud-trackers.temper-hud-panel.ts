@@ -7,9 +7,9 @@ export const hudTrackers = {
   title: "Quest and activity trackers",
   key: "ZO_HUDTrackers",
   dock: "temper-hud-dock/top-right",
-  displayOrder: 1,
+  displayOrder: 3,
   inputModes: ["keyboard"],
   measuredBy: "ZO_HUDTrackersScrollContainerScrollChild",
   createdAt: "2026-10-27T19:12:09.468Z",
-  updatedAt: "2026-10-27T20:15:17.769Z",
+  updatedAt: "2026-10-28T00:42:42.871Z",
 } as const satisfies TemperHudPanel
