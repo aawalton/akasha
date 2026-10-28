@@ -7,7 +7,8 @@ export const criticalSuccess = {
   title: "Critical Success",
   scoreFloor: 85,
   succeeds: true,
+  color: "color/purple",
   writerInstruction: "It works amazingly, in an awesome way.",
   createdAt: "2026-10-27T19:55:54.659Z",
-  updatedAt: "2026-10-27T19:55:54.659Z",
+  updatedAt: "2026-10-28T17:42:17.581Z",
 } as const satisfies OutcomeTier

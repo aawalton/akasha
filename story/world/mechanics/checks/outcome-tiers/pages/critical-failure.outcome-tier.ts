@@ -6,8 +6,9 @@ export const criticalFailure = {
   slug: "critical-failure",
   title: "Critical Failure",
   succeeds: false,
+  color: "color/red",
   writerInstruction:
     "It fails in a dramatic, catastrophic way, which may be an enemy's cleverness.",
   createdAt: "2026-10-27T19:55:54.659Z",
-  updatedAt: "2026-10-27T19:55:54.659Z",
+  updatedAt: "2026-10-28T17:42:17.581Z",
 } as const satisfies OutcomeTier

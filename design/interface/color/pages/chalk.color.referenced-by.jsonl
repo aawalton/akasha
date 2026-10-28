@@ -2,4 +2,5 @@
 {"propertySlug":"import","fileName":"chalk.color.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"chalk.color.ts","path":"design/interface/system/modules/text-colors/text-colors.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"chalk.color.ts","path":"design/interface/token/modules/text-color/text-color.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"outcome-tier-color","path":"story/world/mechanics/checks/outcome-tiers/pages/basic-success.outcome-tier.ts","id":"01a17eee-ffa4-7021-88ca-fb3a9b85b1a3"}
 {"propertySlug":"stylesheet-color","path":"design/interface/system/token-values/token-values.stylesheet.ts","id":"01a05c95-564a-74a9-b2c1-09d527a8f63e"}

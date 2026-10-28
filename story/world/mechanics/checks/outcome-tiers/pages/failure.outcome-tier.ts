@@ -7,7 +7,8 @@ export const failure = {
   title: "Failure",
   scoreFloor: -45,
   succeeds: false,
+  color: "color/orange",
   writerInstruction: "They try, and it fails.",
   createdAt: "2026-10-27T19:55:54.659Z",
-  updatedAt: "2026-10-27T19:55:54.659Z",
+  updatedAt: "2026-10-28T17:42:17.581Z",
 } as const satisfies OutcomeTier

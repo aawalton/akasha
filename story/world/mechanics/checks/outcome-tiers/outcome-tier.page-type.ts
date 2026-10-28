@@ -15,11 +15,13 @@ export const outcomeTier = {
     "number-property/score-floor",
     "boolean-property/succeeds",
     "standard-agent-english-property/writer-instruction",
+    "relation-property/outcome-tier-color",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "number-property/score-floor", required: false, many: false },
     { pageProperty: "boolean-property/succeeds", required: true, many: false },
+    { pageProperty: "relation-property/outcome-tier-color", required: true, many: false },
     {
       pageProperty: "standard-agent-english-property/writer-instruction",
       required: true,
@@ -47,5 +49,5 @@ export const outcomeTier = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-27T19:55:22.173Z",
-  updatedAt: "2026-10-27T19:55:22.173Z",
+  updatedAt: "2026-10-28T17:42:17.581Z",
 } as const satisfies PageType

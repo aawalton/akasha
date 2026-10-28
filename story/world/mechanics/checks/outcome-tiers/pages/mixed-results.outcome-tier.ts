@@ -7,7 +7,8 @@ export const mixedResults = {
   title: "Mixed Results",
   scoreFloor: 0,
   succeeds: true,
+  color: "color/yellow",
   writerInstruction: "It only partly works, and the result is mixed.",
   createdAt: "2026-10-27T19:55:54.659Z",
-  updatedAt: "2026-10-27T19:55:54.659Z",
+  updatedAt: "2026-10-28T17:42:17.581Z",
 } as const satisfies OutcomeTier
