@@ -6,6 +6,8 @@
 {"propertySlug":"import","fileName":"color.page-type.ts","path":"page/ui/component/modules/title-color/title-color.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"color.page-type.ts","path":"story/properties/story-color.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"color.page-type.ts","path":"story/properties/story-color.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"color.page-type.ts","path":"story/world/stories/played/modules/played-outcome-card/played-outcome-card.module.test.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"color.page-type.ts","path":"story/world/stories/played/modules/played-outcomes/played-outcomes.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"color.page-type.types.ts","path":"design/interface/color/pages/ash.color.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"color.page-type.types.ts","path":"design/interface/color/pages/black.color.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"color.page-type.types.ts","path":"design/interface/color/pages/blue.color.ts","typed":true,"deferred":false}

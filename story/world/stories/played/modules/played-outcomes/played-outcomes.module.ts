@@ -23,7 +23,12 @@ export const playedOutcomes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A card shows the skill, the action's difficulty, the outcome tier and the terms.",
+      statement:
+        "A card shows the actor, the action, the skill, the difficulty, the outcome tier and the terms.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The actor is the character the line's reading names.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -32,7 +37,7 @@ export const playedOutcomes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page whose state the card cannot read is taken as unrevealed.",
+      statement: "A card is known again by its line's seed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -48,5 +53,5 @@ export const playedOutcomes = {
     },
   ],
   createdAt: "2026-10-27T20:40:18.723Z",
-  updatedAt: "2026-10-28T00:34:32.842Z",
+  updatedAt: "2026-10-28T17:55:07.494Z",
 } as const satisfies Module
