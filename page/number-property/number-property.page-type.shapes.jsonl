@@ -324,6 +324,7 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"max-targets","propertySlug":"max-targets","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"max-value","propertySlug":"max-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"max-wall-seconds","propertySlug":"max-wall-seconds","fileName":null,"folderName":null}
+{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"meat-servings-per-week","propertySlug":"meat-servings-per-week","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mechanic-value","propertySlug":"mechanic-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"medication-dose-mg","propertySlug":"dose-mg","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"medication-doses-per-week","propertySlug":"doses-per-week","fileName":null,"folderName":null}

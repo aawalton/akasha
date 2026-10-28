@@ -1,0 +1,1 @@
+export type MeatServingsPerWeek = number
