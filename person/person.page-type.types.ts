@@ -4,6 +4,7 @@ import type { AnsweredBy } from "akasha/person/properties/answered-by.relation-p
 import type { BirthDate } from "akasha/person/properties/birth-date.calendar-date-property.types.ts"
 import type { Bodyweight } from "akasha/person/properties/bodyweight.number-property.types.ts"
 import type { FamilyHistory } from "akasha/person/properties/family-history.record-property.types.ts"
+import type { HealthConditions } from "akasha/person/properties/health-conditions.record-property.types.ts"
 import type { PersonContributor } from "akasha/person/properties/person-contributor.relation-property.types.ts"
 import type { PersonHeight } from "akasha/person/properties/person-height.number-property.types.ts"
 import type { Phone } from "akasha/person/properties/phone.phone-number-property.types.ts"
@@ -26,6 +27,7 @@ export type Person = Domain & {
   alcoholDrinksPerWeek?: AlcoholDrinksPerWeek
   vehicleMilesPerYear?: VehicleMilesPerYear
   familyHistory?: FamilyHistory
+  healthConditions?: HealthConditions
   contributor?: PersonContributor
   scheme?: Scheme
   seatNotices?: SeatNotices
