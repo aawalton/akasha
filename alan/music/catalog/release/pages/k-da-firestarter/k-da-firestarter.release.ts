@@ -4,7 +4,7 @@ export const kDaFirestarter = {
   id: "01a182c4-ef72-794c-9037-9d08317d8399",
   type: "page-type/release",
   slug: "k-da-firestarter",
-  ownLength: 11.405766666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/k-da"],
   position: 0,
@@ -21,5 +21,5 @@ export const kDaFirestarter = {
   ],
   title: "FIRESTARTER",
   createdAt: "2026-10-28T13:48:26.865Z",
-  updatedAt: "2026-10-28T13:48:26.865Z",
+  updatedAt: "2026-10-28T14:00:03.088Z",
 } as const satisfies Release
