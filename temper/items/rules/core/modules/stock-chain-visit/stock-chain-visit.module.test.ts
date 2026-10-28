@@ -5,6 +5,9 @@ import {
   planStockChainVisit,
   stockChainTarget,
 } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
+import { planStockReconcile } from "akasha/temper/items/rules/core/modules/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
+import { ruleSoulGemsEmptyFill } from "akasha/temper/player/progress/temper-inventory-rule/pages/rule-soul-gems-empty-fill/rule-soul-gems-empty-fill.temper-inventory-rule.ts"
+import { stock } from "akasha/temper/player/progress/temper-item-action/pages/stock.temper-item-action.ts"
 
 const ERIN = "8796093022338107"
 const OTHER = "8796093022000001"
@@ -53,4 +56,41 @@ test("a chain naming a character targets that one character's fill", () => {
 test("a chain sending to no character answers no plan", () => {
   expect(planStockChainVisit([{ destination: "character-worn:by-priority" }])).toBe(undefined)
   expect(planStockChainVisit([{ destination: "bank", targetQuantity: 100 }])).toBe(undefined)
+})
+
+const EMPTY_SOUL_GEMS: DestinationChain = [
+  { destination: "character:by-priority", targetQuantity: 200 },
+  { destination: "bank" },
+]
+
+test("every character stocks 200 empty soul gems and banks every other empty soul gem", async () => {
+  expect(ruleSoulGemsEmptyFill.action).toEndWith(`/${stock.slug}`)
+  const text = await Bun.file(
+    new URL(
+      "../../../../../player/progress/temper-inventory-rule/pages/rule-soul-gems-empty-fill/rule-soul-gems-empty-fill.temper-inventory-rule.destination-chain.jsonl",
+      import.meta.url
+    )
+  ).text()
+  const legs: unknown = JSON.parse(`[${text.trim().split("\n").join(",")}]`)
+  expect(legs).toMatchObject(EMPTY_SOUL_GEMS)
+
+  const plan = planStockChainVisit(EMPTY_SOUL_GEMS)
+  if (plan === undefined) throw new Error("the empty soul gem chain answered no plan")
+  expect(chainFillsCharacter(plan, ERIN)).toBe(true)
+  expect(chainFillsCharacter(plan, OTHER)).toBe(true)
+  expect(plan.surplusCascade).toEqual([{ destination: "bank", cap: undefined }])
+
+  function bankVisit(backpackCount: number): ReturnType<typeof planStockReconcile> {
+    return planStockReconcile({
+      selfTarget: plan?.fillTargetQuantity ?? 0,
+      backpackCount,
+      openTierCap: undefined,
+      openTierStorageCount: 0,
+      withdrawableFromOpen: 1000,
+    })
+  }
+  expect(bankVisit(0)).toEqual({ direction: "withdraw", count: 200 })
+  expect(bankVisit(150)).toEqual({ direction: "withdraw", count: 50 })
+  expect(bankVisit(200)).toEqual({ direction: "none", count: 0 })
+  expect(bankVisit(500)).toEqual({ direction: "deposit", count: 300 })
 })

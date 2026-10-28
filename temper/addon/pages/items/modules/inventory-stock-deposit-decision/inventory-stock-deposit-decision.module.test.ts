@@ -73,4 +73,15 @@ describe("inventory-stock-deposit-decision", () => {
     })
     expect(moved).toEqual([100, 30])
   })
+
+  test("a character holding 500 empty soul gems over a stock of 200 banks 300", () => {
+    const moved = depositVisit([200, 200, 100], {
+      backpackCount: 500,
+      selfTarget: 200,
+      tierCap: undefined,
+      tierAccountWideCount: 0,
+      handOff: 0,
+    })
+    expect(moved).toEqual([200, 100, 0])
+  })
 })
