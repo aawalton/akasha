@@ -12,7 +12,7 @@ import type { FirearmAccess } from "akasha/person/properties/firearm-access.bool
 import type { FishServingsPerWeek } from "akasha/person/properties/fish-servings-per-week.number-property.types.ts"
 import type { FluVaccination } from "akasha/person/properties/flu-vaccination.select-property.types.ts"
 import type { FruitVegetableServingsPerDay } from "akasha/person/properties/fruit-vegetable-servings-per-day.number-property.types.ts"
-import type { HasWrittenSafetyPlan } from "akasha/person/properties/has-written-safety-plan.boolean-property.types.ts"
+import type { HasSafetyPlan } from "akasha/person/properties/has-safety-plan.boolean-property.types.ts"
 import type { HealthConditions } from "akasha/person/properties/health-conditions.record-property.types.ts"
 import type { InTherapyForDepression } from "akasha/person/properties/in-therapy-for-depression.boolean-property.types.ts"
 import type { LegumeServingsPerWeek } from "akasha/person/properties/legume-servings-per-week.number-property.types.ts"
@@ -67,7 +67,7 @@ export type Person = Domain & {
   socialIsolation?: SocialIsolation
   seatbeltUse?: SeatbeltUse
   inTherapyForDepression?: InTherapyForDepression
-  hasWrittenSafetyPlan?: HasWrittenSafetyPlan
+  hasSafetyPlan?: HasSafetyPlan
   physicalRiskActivities?: PhysicalRiskActivities
   familyHistory?: FamilyHistory
   healthConditions?: HealthConditions

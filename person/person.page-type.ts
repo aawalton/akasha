@@ -50,7 +50,7 @@ export const person = {
     "select-property/social-isolation",
     "select-property/seatbelt-use",
     "boolean-property/in-therapy-for-depression",
-    "boolean-property/has-written-safety-plan",
+    "boolean-property/has-safety-plan",
     "record-property/physical-risk-activities",
     "text-property/risk-activity-name",
     "number-property/risk-activity-times-per-year",
@@ -131,7 +131,7 @@ export const person = {
     { pageProperty: "select-property/social-isolation", required: false, many: false },
     { pageProperty: "select-property/seatbelt-use", required: false, many: false },
     { pageProperty: "boolean-property/in-therapy-for-depression", required: false, many: false },
-    { pageProperty: "boolean-property/has-written-safety-plan", required: false, many: false },
+    { pageProperty: "boolean-property/has-safety-plan", required: false, many: false },
     {
       pageProperty: "record-property/physical-risk-activities",
       required: false,
@@ -173,5 +173,5 @@ export const person = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T18:13:32.023Z",
-  updatedAt: "2026-10-28T19:51:25.825Z",
+  updatedAt: "2026-10-28T19:56:29.458Z",
 } as const satisfies PageType

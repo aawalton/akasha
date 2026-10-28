@@ -129,6 +129,7 @@ export const alan = {
   fluVaccination: "none",
   nutsGramsPerDay: 28,
   inTherapyForDepression: false,
+  hasSafetyPlan: true,
   physicalRiskActivities: [
     { activity: "hiking", note: "occasional; always on well-marked trails" },
   ],
@@ -148,7 +149,7 @@ export const alan = {
     {
       condition: "suicidal ideation",
       diagnosedBy: "self",
-      note: "present when his safety level is below 0; no suicide attempts",
+      note: "present when his safety level is below 0; no suicide attempts; his safety level, tracked continuously and shown on his wife's phone, serves as his safety plan",
     },
   ],
   medications: [
@@ -215,5 +216,5 @@ export const alan = {
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T19:53:19.419Z",
+  updatedAt: "2026-10-28T19:56:29.458Z",
 } as const satisfies Person
