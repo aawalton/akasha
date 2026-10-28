@@ -197,8 +197,7 @@ function computePlanVenues(): VenuePlan[] | undefined {
       currentCharId,
       function (this: void): string | undefined {
         return listingHoldReason(bagId, slotIndex)
-      },
-      bagId === BAG_BACKPACK
+      }
     )
     if (classified === undefined) return
     if (classified.held !== undefined) {
@@ -346,9 +345,7 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
                 ? "Fillet"
                 : v.verb === "research"
                   ? "Research"
-                  : v.verb === "fill"
-                    ? "Fill"
-                    : resolveVenueLabel(entry.venue)
+                  : resolveVenueLabel(entry.venue)
         venues.push({ label, count: v.count, items })
       }
     } else if (entry.verbs.length > 0) {
