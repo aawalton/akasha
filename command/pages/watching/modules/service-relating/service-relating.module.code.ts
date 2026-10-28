@@ -11,7 +11,7 @@ export type Services = {
   readonly slugs: ReadonlySet<string>
 }
 
-export type Relating = {
+type Relating = {
   readonly related: (names: readonly string[]) => readonly string[]
   readonly fresh: () => readonly Naming[]
 }
