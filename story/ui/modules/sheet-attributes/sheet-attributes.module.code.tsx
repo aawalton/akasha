@@ -1,8 +1,10 @@
 "use client"
 
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
 import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
-import { Section } from "akasha/story/ui/modules/sheet-entries/sheet-entries.module.code.tsx"
 import { shownOf } from "akasha/story/ui/modules/sheet-inventory/sheet-inventory.module.code.tsx"
+import { type ReactNode, useId } from "react"
 
 type Scalars = Readonly<Record<string, number | string>>
 
@@ -12,18 +14,38 @@ const ATTRIBUTES = "Attributes"
 
 const NO_GROUPS: readonly AttributeGroup[] = []
 
-export function ScalarRows({ record }: { record: Scalars }) {
-  const entries = Object.entries(record)
+const ACROSS_PANEL = "min-[520px]:w-full min-[520px]:min-w-0"
+
+const COUNT = "font-mono font-semibold text-accent text-sm tabular-nums"
+
+export function StatsSection({
+  title,
+  count,
+  children,
+}: {
+  title: string
+  count?: string | undefined
+  children: ReactNode
+}) {
   return (
-    <div className="flex flex-col gap-y-[7px] font-mono text-[12.5px]">
-      {entries.map(([key, value]) => (
-        <div
-          key={key}
-          className="flex items-baseline justify-between gap-2 border-surface-3 border-b border-dotted py-[2px]"
-        >
-          <span className="flex-none text-tertiary">{key}</span>
-          <b className="min-w-0 break-words text-right font-bold text-accent">{shownOf(value)}</b>
-        </div>
+    <PanelCard
+      id={useId()}
+      title={title}
+      collapsible
+      defaultOpen
+      headerActions={count === undefined ? undefined : <span className={COUNT}>{count}</span>}
+      className={ACROSS_PANEL}
+    >
+      {children}
+    </PanelCard>
+  )
+}
+
+export function ScalarRows({ record }: { record: Scalars }) {
+  return (
+    <div className="flex flex-col">
+      {Object.entries(record).map(([key, value]) => (
+        <StatRow key={key} label={key} value={shownOf(value)} />
       ))}
     </div>
   )
@@ -50,14 +72,14 @@ export function AttributeSections({
   return (
     <>
       {groups.map((group) => (
-        <Section key={group.title} title={group.title} count={group.count}>
+        <StatsSection key={group.title} title={group.title} count={group.count}>
           <ScalarRows record={picked(attributes, group.names)} />
-        </Section>
+        </StatsSection>
       ))}
       {Object.keys(rest).length === 0 ? null : (
-        <Section title={ATTRIBUTES}>
+        <StatsSection title={ATTRIBUTES}>
           <ScalarRows record={rest} />
-        </Section>
+        </StatsSection>
       )}
     </>
   )

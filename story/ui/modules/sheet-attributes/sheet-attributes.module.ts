@@ -13,7 +13,25 @@ export const sheetAttributes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A group counting slots shows that count at the right of its title.",
+      statement: "A section is the collapsible panel card Temper's completion page draws.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each row of a section is the stat row Temper's completion page draws.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every section is drawn open, and whether one is open is not kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A section spans the panel it is drawn in rather than the width a panel card takes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A group counting slots shows that count at the right of its title, in the accent.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,9 +40,9 @@ export const sheetAttributes = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Each number has a row of its own, the name at the left and the value wrapping at the right.",
+        "Each number has a row of its own, the name at the left and the value at the right of it.",
     },
   ],
   createdAt: "2026-10-28T14:56:52.048Z",
-  updatedAt: "2026-10-28T20:59:02.892Z",
+  updatedAt: "2026-10-28T21:39:26.984Z",
 } as const satisfies Module
