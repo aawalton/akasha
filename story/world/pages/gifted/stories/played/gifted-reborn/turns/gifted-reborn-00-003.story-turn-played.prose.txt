@@ -45,8 +45,8 @@ note: Affinity (1/1): Shadow (Strong) 100; Paths (2/10): Path of Exceptionalism 
 :::
 
 :::status-assessment
-name: Unallocated Stats
-note: Unallocated Stats: 2
+name: Advanced Attributes
+note: Advanced Attributes (1/2): Talented 100
 :::
 
 The words stay in your mind after you have read them all. The stats on the last line are still unspent, and they are yours to place.
