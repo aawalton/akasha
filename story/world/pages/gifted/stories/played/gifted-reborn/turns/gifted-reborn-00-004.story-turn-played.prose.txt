@@ -7,3 +7,7 @@ The Unallocated Stats you leave where they are. You don't know enough yet to spe
 After a while the words stop feeling new. The dark is warm and the heartbeat keeps time, and you can't see, or move much, or go anywhere. You are bored.
 
 So you count. One, two, three, four. Past fifty, past a hundred, on into the hundreds, one number after the next.
+
+:::skill
+name: Path of Basic Numeracy
+:::
