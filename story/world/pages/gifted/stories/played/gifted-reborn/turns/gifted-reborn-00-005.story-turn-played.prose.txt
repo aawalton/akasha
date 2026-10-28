@@ -23,3 +23,8 @@ You try the other one next, Path of the Completionist, and fix on it the same wa
 name: Path of the Completionist
 note: Steps: one for each Path completed
 :::
+
+:::status-assessment
+name: Path of the Completionist
+note: Tier 1: 1 step; Reward: 2 Unallocated Stats
+:::
