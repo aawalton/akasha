@@ -31,10 +31,14 @@ export const leadsSources = {
         "The lead table runs each zone's built-in lead and its two dig rewards on three ids in a row.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A lead the lead table has no row for has an unknown source.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No other lead source is said here.",
     },
   ],
   createdAt: "2026-10-20T18:25:44.234Z",
-  updatedAt: "2026-10-20T18:25:44.234Z",
+  updatedAt: "2026-10-28T16:32:45.531Z",
 } as const satisfies Module

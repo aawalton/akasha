@@ -22,7 +22,12 @@ interface TemperWorldLeadsApi {
   getAntiquityLeadSource: (
     this: void,
     antiquityId: number
-  ) => { readonly kind: "scry" | "dig" | "buy"; readonly parentId: number | undefined } | undefined
+  ) =>
+    | {
+        readonly kind: "scry" | "dig" | "buy" | "unknown"
+        readonly parentId: number | undefined
+      }
+    | undefined
 }
 
 declare var TemperWorldLeads: TemperWorldLeadsApi | undefined

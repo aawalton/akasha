@@ -7,7 +7,7 @@ import { LOCATIONS } from "akasha/temper/addon/pages/world/antiquities/modules/l
 import "akasha/temper/eso/type/eso-api-4/eso-api-4.type-declaration.d.ts"
 
 interface AntiquityLeadSource {
-  readonly kind: "scry" | "dig" | "buy"
+  readonly kind: "scry" | "dig" | "buy" | "unknown"
   readonly parentId: number | undefined
 }
 
@@ -35,6 +35,7 @@ export function getAntiquityLeadSource(
   if (type === LOCDATA_TYPE_STARTER || DoesAntiquityRequireLead(antiquityId) === false) {
     return { kind: "scry", parentId: undefined }
   }
+  if (type === undefined) return { kind: "unknown", parentId: undefined }
   if (type === LOCDATA_TYPE_ANTIQUEMAP) return { kind: "buy", parentId: undefined }
   if (type === LOCDATA_TYPE_EXCAVATIONREWARD) {
     return { kind: "dig", parentId: excavationParentOf(antiquityId) }
