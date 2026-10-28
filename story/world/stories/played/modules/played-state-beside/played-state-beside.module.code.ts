@@ -20,6 +20,13 @@ import { worldRank } from "akasha/story/world/mechanics/ranks/world-rank.page-ty
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
 import { worldSpecies } from "akasha/story/world/mechanics/species/world-species.page-type.ts"
+import {
+  STAT_GROUP_KEY,
+  STAT_SLOTS_KEY,
+  statGroupSlugsIn,
+  statGroupsOf,
+} from "akasha/story/world/mechanics/stat-groups/modules/stat-grouping/stat-grouping.module.code.ts"
+import { worldStatGroup } from "akasha/story/world/mechanics/stat-groups/world-stat-group.page-type.ts"
 import { characterTrait } from "akasha/story/world/mechanics/traits/character-trait/character-trait.page-type.ts"
 import {
   type BeatOverlay,
@@ -228,6 +235,7 @@ async function readFiled(
         SLUG_KEY,
         TITLE_KEY,
         DISPLAY_ORDER_KEY,
+        STAT_GROUP_KEY,
         UNREVEALED_KEY,
       ],
     }),
@@ -323,7 +331,19 @@ async function readFiled(
   const status = namesOf(conditionRows, CONDITION_KEY)
   const resourceRows = overlaidRows(rowsOf(resources), metricCharacterResource.slug, overlay)
   const pools = poolsIn(resourceRows, turn)
-  const scored = scoresIn(overlaidRows(rowsOf(scores), metricCharacterAttribute.slug, overlay))
+  const attributeRows = overlaidRows(rowsOf(scores), metricCharacterAttribute.slug, overlay)
+  const scored = scoresIn(attributeRows)
+  const groupRows = await slugsAsked(worldStatGroup.slug, statGroupSlugsIn(attributeRows), [
+    SLUG_KEY,
+    TITLE_KEY,
+    STAT_SLOTS_KEY,
+    DISPLAY_ORDER_KEY,
+  ])
+  const attributeGroups = statGroupsOf(
+    attributeRows,
+    groupRows.map((row) => row.values),
+    (rows) => Object.keys(scoresIn(rows).attributes)
+  )
   const held = resourcesIn(unpointed(resourceRows, pointed))
   const earned = experienceIn(resourceRows)
   return {
@@ -331,6 +351,7 @@ async function readFiled(
     delta: pools.delta,
     ...(scored.level === undefined ? {} : { level: scored.level }),
     attributes: scored.attributes,
+    ...(attributeGroups.length === 0 ? {} : { attributeGroups }),
     ...(Object.keys(held).length === 0 ? {} : { resources: held }),
     ...(earned.length === 0 ? {} : { experience: earned }),
     ...(pointed.points.length === 0 ? {} : { points: pointed.points }),

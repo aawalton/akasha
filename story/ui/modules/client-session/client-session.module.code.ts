@@ -79,6 +79,12 @@ const ClientExperienceSchema = z.object({
 
 const ClientPointSchema = z.object({ label: z.string(), value: z.number() })
 
+const ClientAttributeGroupSchema = z.object({
+  title: z.string(),
+  count: z.string().optional(),
+  names: z.array(z.string()),
+})
+
 const ClientLedgerLineSchema = z.object({
   turn: z.number(),
   change: z.string(),
@@ -94,6 +100,7 @@ export const ClientSheetSchema = z.object({
   rank: z.string().optional(),
   status: z.string().optional(),
   attributes: z.record(z.string(), z.union([z.number(), z.string()])).optional(),
+  attributeGroups: z.array(ClientAttributeGroupSchema).optional(),
   resources: z.record(z.string(), z.union([z.number(), z.string()])).optional(),
   experience: z.array(ClientExperienceSchema).optional(),
   points: z.array(ClientPointSchema).optional(),
@@ -226,14 +233,11 @@ function toClientItem(raw: unknown): ClientItem | null {
   return parsed.success ? parsed.data : null
 }
 
-function toClientExperience(raw: unknown): z.infer<typeof ClientExperienceSchema> | null {
-  const parsed = ClientExperienceSchema.safeParse(raw)
-  return parsed.success ? parsed.data : null
-}
-
-function toClientPoint(raw: unknown): z.infer<typeof ClientPointSchema> | null {
-  const parsed = ClientPointSchema.safeParse(raw)
-  return parsed.success ? parsed.data : null
+function parsedBy<Parsed>(schema: z.ZodType<Parsed>): (raw: unknown) => Parsed | null {
+  return (raw) => {
+    const parsed = schema.safeParse(raw)
+    return parsed.success ? parsed.data : null
+  }
 }
 
 function toClientEquipment(value: unknown): Record<string, ClientItem> | undefined {
@@ -258,9 +262,10 @@ function toClientSheet(revealed: unknown): ClientSheet | null {
     rank: typeof rec["rank"] === "string" ? rec["rank"] : undefined,
     status: typeof rec["status"] === "string" ? rec["status"] : undefined,
     attributes: scalarRecord(rec["attributes"]),
+    attributeGroups: projectedArray(rec["attributeGroups"], parsedBy(ClientAttributeGroupSchema)),
     resources: scalarRecord(rec["resources"]),
-    experience: projectedArray(rec["experience"], toClientExperience),
-    points: projectedArray(rec["points"], toClientPoint),
+    experience: projectedArray(rec["experience"], parsedBy(ClientExperienceSchema)),
+    points: projectedArray(rec["points"], parsedBy(ClientPointSchema)),
     purse: scalarRecord(rec["purse"]),
     ledgers: ledgerRecord(rec["ledgers"]),
     skills: projectedArray(rec["skills"], toClientSkill),

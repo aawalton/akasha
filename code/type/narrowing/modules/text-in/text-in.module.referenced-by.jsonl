@@ -44,6 +44,7 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/chapter/narration/modules/telling/narration-telling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/mechanics/stat-groups/modules/stat-grouping/stat-grouping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/modules/beat-overlay/beat-overlay.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/modules/held-ability-sending/held-ability-sending.module.code.ts","typed":false,"deferred":false}

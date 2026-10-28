@@ -8,6 +8,7 @@ export const RevealedSheetSchema = z.object({
   rank: z.string().optional(),
   status: z.string().optional(),
   attributes: z.record(z.string(), z.unknown()).optional(),
+  attributeGroups: z.array(z.unknown()).optional(),
   resources: z.record(z.string(), z.unknown()).optional(),
   experience: z.array(z.unknown()).optional(),
   points: z.array(z.unknown()).optional(),

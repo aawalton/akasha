@@ -27,6 +27,7 @@ export const ui = {
 
     "module/session-envelope",
     "module/sheet-panel",
+    "module/sheet-attributes",
     "module/sheet-entries",
     "module/sheet-inventory",
 
@@ -47,5 +48,5 @@ export const ui = {
     "page-type/played-panel",
   ],
   createdAt: "2026-09-02T14:38:30.875Z",
-  updatedAt: "2026-10-27T19:56:41.328Z",
+  updatedAt: "2026-10-28T14:56:52.048Z",
 } as const satisfies Domain

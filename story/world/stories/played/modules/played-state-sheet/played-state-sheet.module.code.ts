@@ -2,6 +2,7 @@ import type { Quest } from "akasha/story/engine/core/modules/quest-schema/quest-
 import type { RevealedSheet } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
 import type { Had } from "akasha/story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.code.ts"
+import type { StatGroup } from "akasha/story/world/mechanics/stat-groups/modules/stat-grouping/stat-grouping.module.code.ts"
 import type { Point } from "akasha/story/world/stories/played/modules/played-points/played-points.module.code.ts"
 import type {
   Counted,
@@ -21,6 +22,7 @@ export type Filed = {
   readonly delta: Record<string, number>
   readonly level?: number
   readonly attributes: Readonly<Record<string, number>>
+  readonly attributeGroups?: readonly StatGroup[]
   readonly resources?: Readonly<Record<string, string | number>>
   readonly experience?: readonly Experience[]
   readonly points?: readonly Point[]
@@ -44,6 +46,7 @@ function sheetOf(filed: Filed): RevealedSheet {
   return {
     ...(filed.level === undefined ? {} : { level: filed.level }),
     ...(Object.keys(filed.attributes).length === 0 ? {} : { attributes: { ...filed.attributes } }),
+    ...(filed.attributeGroups === undefined ? {} : { attributeGroups: [...filed.attributeGroups] }),
     ...(filed.resources === undefined ? {} : { resources: { ...filed.resources } }),
     ...(filed.experience === undefined ? {} : { experience: [...filed.experience] }),
     ...(filed.points === undefined ? {} : { points: [...filed.points] }),

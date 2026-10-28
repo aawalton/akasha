@@ -60,6 +60,10 @@ export const playedStateBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The attributes are read with the stat groups of the world they name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A held kind no story has filed a holding of is answered empty, and drawn as nothing.",
     },
@@ -82,5 +86,5 @@ export const playedStateBeside = {
     },
   ],
   createdAt: "2026-09-26T15:18:51.476Z",
-  updatedAt: "2026-10-28T01:02:00.279Z",
+  updatedAt: "2026-10-28T14:56:52.048Z",
 } as const satisfies Module

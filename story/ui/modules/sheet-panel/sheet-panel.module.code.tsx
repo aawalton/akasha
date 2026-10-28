@@ -9,6 +9,10 @@ import {
 import { Progress } from "akasha/design/interface/primitive/modules/progress-bar/progress-bar.module.code.tsx"
 import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import {
+  AttributeSections,
+  ScalarRows,
+} from "akasha/story/ui/modules/sheet-attributes/sheet-attributes.module.code.tsx"
+import {
   type Act,
   byName,
   Entry,
@@ -51,31 +55,6 @@ const TRAITS = "traits"
 const XP = "XP"
 
 const TAB = "px-1 font-mono text-[12px]"
-
-function ScalarRows({
-  record,
-  single = false,
-}: {
-  record: Readonly<Record<string, number | string>>
-  single?: boolean
-}) {
-  const entries = Object.entries(record)
-  return (
-    <div
-      className={`grid ${single ? "grid-cols-1" : "grid-cols-2"} gap-x-[14px] gap-y-[7px] font-mono text-[12.5px]`}
-    >
-      {entries.map(([key, value]) => (
-        <div
-          key={key}
-          className="flex items-baseline justify-between gap-2 border-surface-3 border-b border-dotted py-[2px]"
-        >
-          <span className="flex-none text-tertiary">{key}</span>
-          <b className="min-w-0 break-words text-right font-bold text-accent">{shownOf(value)}</b>
-        </div>
-      ))}
-    </div>
-  )
-}
 
 type Experience = NonNullable<ClientSheet["experience"]>[number]
 
@@ -172,9 +151,7 @@ function StatsTab({
         </Section>
       ) : null}
       {showsStats && sheet.attributes !== undefined ? (
-        <Section title="Attributes">
-          <ScalarRows record={sheet.attributes} />
-        </Section>
+        <AttributeSections attributes={sheet.attributes} groups={sheet.attributeGroups} />
       ) : null}
       {showsStats && Object.keys(derived).length > 0 ? (
         <Section title="Derived">

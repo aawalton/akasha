@@ -46,6 +46,10 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The attributes are drawn under the stat groups their world names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Resources are drawn one to a line, so a resource's name and its count never wrap.",
     },
@@ -152,5 +156,5 @@ export const sheetPanel = {
     },
   ],
   createdAt: "2026-09-02T14:52:27.089Z",
-  updatedAt: "2026-10-28T13:56:30.533Z",
+  updatedAt: "2026-10-28T14:56:52.048Z",
 } as const satisfies Module
