@@ -69,7 +69,19 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A skill set aside says so beside its experience.",
+      statement: "Skills of a kind holding slots are grouped as active, completed and dormant.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The active group shows the slots held out of the slots its kind has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a skill shows its experience out of the next tier step it has not reached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One stating no tiers shows its experience alone, and a completed one its tier.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -77,7 +89,8 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Skills are grouped under the attribute governing them, and the rest under Other.",
+      statement:
+        "Other skills are grouped under the attribute governing them, and the rest under Other.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -139,5 +152,5 @@ export const sheetPanel = {
     },
   ],
   createdAt: "2026-09-02T14:52:27.089Z",
-  updatedAt: "2026-10-28T01:48:24.198Z",
+  updatedAt: "2026-10-28T13:56:30.533Z",
 } as const satisfies Module

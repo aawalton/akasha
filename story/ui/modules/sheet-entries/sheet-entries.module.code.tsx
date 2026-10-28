@@ -42,10 +42,21 @@ const TONES: Record<Act["tone"], string> = {
 
 const VARIANTS = { drop: "secondary", plain: "secondary", use: "accent" } as const
 
-export function Section({ title, children }: { title: string; children: ReactNode }) {
+export function Section({
+  title,
+  count,
+  children,
+}: {
+  title: string
+  count?: string | undefined
+  children: ReactNode
+}) {
   return (
     <div className="flex flex-col gap-1">
-      <div className="font-mono text-[10px] text-tertiary uppercase tracking-[0.18em]">{title}</div>
+      <div className="flex items-baseline justify-between gap-2 font-mono text-[10px] text-tertiary uppercase tracking-[0.18em]">
+        <span>{title}</span>
+        {count === undefined ? null : <span className="text-accent tabular-nums">{count}</span>}
+      </div>
       {children}
     </div>
   )

@@ -54,6 +54,21 @@ export function completed(one: Holding): boolean {
   return last !== undefined && one.experience >= last
 }
 
+export type AbilityState = "active" | "completed" | "dormant"
+
+export const ABILITY_STATES: readonly AbilityState[] = ["active", "completed", "dormant"]
+
+export function abilityState(one: Holding): AbilityState {
+  if (completed(one)) return "completed"
+  return one.dormant === true ? "dormant" : "active"
+}
+
+export function progressSaid(one: Holding): string {
+  if (completed(one)) return `Tier ${String(one.tierSteps.length)}`
+  const next = nextTierStep(one.tierSteps, one.experience)
+  return next === null ? String(one.experience) : `${String(one.experience)}/${String(next)}`
+}
+
 export function holdsSlot(one: Holding): boolean {
   return one.dormant !== true && !completed(one)
 }

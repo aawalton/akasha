@@ -19,6 +19,15 @@ export const abilitySlotting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A held ability is completed, set aside, or else active.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An ability's progress is its experience out of the next tier step it has not reached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Setting an ability aside drops its experience to the last tier it passed.",
     },
     {
@@ -39,5 +48,5 @@ export const abilitySlotting = {
     },
   ],
   createdAt: "2026-10-28T00:50:51.589Z",
-  updatedAt: "2026-10-28T00:50:51.589Z",
+  updatedAt: "2026-10-28T13:56:30.533Z",
 } as const satisfies Module

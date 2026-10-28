@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
 import {
+  abilityState,
   completed,
   type Holding,
   nextTierStep,
+  progressSaid,
   type SlotKind,
   slotsHeld,
   slotted,
@@ -143,4 +145,17 @@ test("the next tier step is the first step not yet reached, and none once all ar
   expect(nextTierStep(BASIC, 0)).toBe(10)
   expect(nextTierStep(BASIC, 10000)).toBeNull()
   expect(nextTierStep([], 108)).toBeNull()
+})
+
+test("a held ability is active, completed or set aside, and completed wins over set aside", () => {
+  expect(abilityState(holding("worked", { experience: 27 }))).toBe("active")
+  expect(abilityState(holding("aside", { dormant: true }))).toBe("dormant")
+  expect(abilityState(holding("done", { experience: 10000, dormant: true }))).toBe("completed")
+  expect(abilityState(holding("untiered", { tierSteps: [], experience: 108 }))).toBe("active")
+})
+
+test("progress is the experience out of the next tier step, alone where no tier is stated", () => {
+  expect(progressSaid(holding("numeracy", { experience: 27 }))).toBe("27/50")
+  expect(progressSaid(holding("untiered", { tierSteps: [], experience: 108 }))).toBe("108")
+  expect(progressSaid(holding("done", { experience: 10000 }))).toBe("Tier 10")
 })

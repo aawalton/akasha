@@ -29,8 +29,12 @@ import {
   type Working,
 } from "akasha/story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts"
 import {
+  ABILITY_STATES,
+  abilityState,
   type Holding,
+  progressSaid,
   type SlotKind,
+  slotsHeld,
   slotted,
   type Wanted,
 } from "akasha/story/world/mechanics/modules/ability-slotting/ability-slotting.module.code.ts"
@@ -193,7 +197,12 @@ function counted(one: Counted): Held {
   }
 }
 
-type Part = { readonly title: string; readonly held: readonly Held[]; readonly usable?: boolean }
+type Part = {
+  readonly title: string
+  readonly held: readonly Held[]
+  readonly usable?: boolean
+  readonly count?: string
+}
 
 type AbilityKind = NonNullable<Held["abilityKind"]>
 
@@ -214,12 +223,41 @@ function abilitiesTitleOf(held: readonly Held[]): string {
   return kinds.length > 1 ? ABILITIES : (kinds[0] ?? SKILL.pluralTitle)
 }
 
+function slotKindOf(one: Held): SlotKind | null {
+  const kind = one.abilityKind
+  if (kind?.activeSlots === undefined) return null
+  return { ...kind, page: kind.pluralTitle, activeSlots: kind.activeSlots }
+}
+
+function heldAs(one: Held): Holding {
+  return {
+    page: one.held ?? "",
+    title: one.name ?? "",
+    kind: one.abilityKind?.pluralTitle ?? null,
+    experience: one.experience ?? 0,
+    dormant: one.dormant ?? null,
+    tierSteps: one.tierSteps ?? [],
+  }
+}
+
+function statePartsOf(ofKind: readonly Held[], slots: SlotKind, named: (title: string) => string) {
+  const held = `${String(slotsHeld(slots, ofKind.map(heldAs)))}/${String(slots.activeSlots)}`
+  return ABILITY_STATES.map((state) => ({
+    title: named(state),
+    held: ofKind.filter((one) => abilityState(heldAs(one)) === state),
+    usable: true,
+    ...(state === "active" ? { count: held } : {}),
+  }))
+}
+
 function skillPartsOf(held: readonly Held[]): readonly Part[] {
   const kinds = abilityKindsIn(held)
-  return kinds.flatMap((kind) => {
+  return kinds.flatMap((kind): readonly Part[] => {
     const ofKind = held.filter((one) => abilityKindOf(one).pluralTitle === kind)
-    const governed = [...new Set(ofKind.flatMap((one) => one.attribute ?? []))].sort()
     const named = (title: string): string => (kinds.length > 1 ? `${kind} · ${title}` : title)
+    const slots = ofKind.flatMap((one) => slotKindOf(one) ?? [])[0]
+    if (slots !== undefined) return statePartsOf(ofKind, slots, named)
+    const governed = [...new Set(ofKind.flatMap((one) => one.attribute ?? []))].sort()
     return [
       ...governed.map((title) => ({
         title: named(title),
@@ -242,23 +280,14 @@ function usingOf(name: string): readonly Act[] {
 }
 
 function holdingOf(one: Held): Holding | null {
-  if (one.held === undefined) return null
-  return {
-    page: one.held,
-    title: one.name ?? "",
-    kind: one.abilityKind?.pluralTitle ?? null,
-    experience: one.experience ?? 0,
-    dormant: one.dormant ?? null,
-    tierSteps: one.tierSteps ?? [],
-  }
+  return one.held === undefined ? null : heldAs(one)
 }
 
 function actsOf(one: Held, abilities: readonly Held[]): readonly Act[] {
   const name = one.name ?? ""
   const mine = holdingOf(one)
-  const kind = one.abilityKind
-  if (mine === null || kind?.activeSlots === undefined) return usingOf(name)
-  const slots: SlotKind = { ...kind, page: kind.pluralTitle, activeSlots: kind.activeSlots }
+  const slots = slotKindOf(one)
+  if (mine === null || slots === null) return usingOf(name)
   const wanted: Wanted = one.dormant === true ? "taken-up" : "set-aside"
   const holdings = abilities.flatMap((each) => holdingOf(each) ?? [])
   if ("refused" in slotted(mine, slots, holdings, wanted)) return []
@@ -274,6 +303,7 @@ function HeldRows({
   query,
   acting,
   usable = false,
+  count,
   abilities = NO_ABILITIES,
 }: {
   title: string
@@ -281,12 +311,13 @@ function HeldRows({
   query: string
   acting?: SheetActing | undefined
   usable?: boolean
+  count?: string | undefined
   abilities?: readonly Held[]
 }) {
   const shown = searched(byName(held), query)
   if (shown.length === 0) return null
   return (
-    <Section title={title}>
+    <Section title={title} count={count}>
       <Rows>
         {shown.map((one, i) => (
           <Entry
@@ -294,11 +325,12 @@ function HeldRows({
             name={one.name ?? ""}
             right={
               <>
-                {one.dormant === true ? <span className="text-tertiary">set aside</span> : null}
                 {one.rank == null ? null : (
                   <span className="font-semibold text-secondary">{one.rank}</span>
                 )}
-                {one.experience === undefined ? (
+                {slotKindOf(one) !== null ? (
+                  <span>{progressSaid(heldAs(one))}</span>
+                ) : one.experience === undefined ? (
                   one.score == null ? null : (
                     <span>{one.score}</span>
                   )
@@ -346,6 +378,7 @@ function HeldTab({
                 query={query}
                 acting={acting}
                 usable={part.usable ?? false}
+                count={part.count}
                 abilities={abilities}
               />
             ))}

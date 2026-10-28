@@ -13,6 +13,10 @@ export const sheetEntries = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A section may show a count at the right of its title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A search keeps the rows whose name or description holds what was typed.",
     },
     {
@@ -42,5 +46,5 @@ export const sheetEntries = {
     },
   ],
   createdAt: "2026-10-27T19:04:03.834Z",
-  updatedAt: "2026-10-28T01:02:00.279Z",
+  updatedAt: "2026-10-28T13:56:30.533Z",
 } as const satisfies Module
