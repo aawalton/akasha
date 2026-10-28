@@ -42,6 +42,7 @@ import {
   tmdbSearched,
   tokenSaid,
 } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
+import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   askingFor,
@@ -240,7 +241,8 @@ async function titleLogged(
     return told([`${named}  ${now}  updated`])
   }
   if (known === null) return refusedBy([unknownSaid(linked)], DATA)
-  const slug = slugOf(known.title)
+  const plain = slugOf(known.title)
+  const slug = nameFaultIn(plain) === null ? plain : `${known.kind}-${plain}`
   const shelved = await shelvedUnder(known, linked, slug, status, calls)
   if (typeof shelved === "string") return refusedBy([shelved], OPERATIONAL)
   const wrote = await calls.write({

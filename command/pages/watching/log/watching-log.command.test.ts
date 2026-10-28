@@ -326,3 +326,10 @@ test("a collection not written as its page type and slug is refused", async () =
   expect(said.refusals[0]).toContain("is no collection")
   expect(fake.written).toHaveLength(0)
 })
+
+test("a name that makes no export name opens with its page type", async () => {
+  const answer = wikidataSaying({ label: "86 EIGHTY-SIX", film: "false", series: "true" })
+  const fake = fakeOf({}, answer)
+  const said = await watchingLog(["--link", NETFLIX.externalLink], GIVEN, fake.calls)
+  expect(said.report).toEqual(["show/show-86-eighty-six  in-progress  created"])
+})

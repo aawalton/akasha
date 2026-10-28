@@ -81,6 +81,10 @@ export const watchingLog = {
       decisionKind: "decision-kind/departure",
       statement: "A call saying `--part-of` makes the title part of that collection too.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name that makes no export name opens with its page type.",
+    },
   ],
   parts: ["module/episode-watching"],
   name: "log",
@@ -92,5 +96,5 @@ export const watchingLog = {
     { argument: "argument/part-of", notWith: ["argument/episode"] },
   ],
   createdAt: "2026-10-14T19:15:57.587Z",
-  updatedAt: "2026-10-28T18:36:47.934Z",
+  updatedAt: "2026-10-28T18:57:02.773Z",
 } as const satisfies Command
