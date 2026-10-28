@@ -191,6 +191,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/risk-factor-applied-as.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/risk-factor-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/risk-factor-person-property.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/medicine/risk-activity/properties/exposure-unit.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/medicine/risk-activity/properties/injury-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/artist/properties/artist-genre.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/song/properties/lyrics-source.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/track/properties/track-key.text-property.ts","typed":true,"deferred":false}

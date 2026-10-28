@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"health-source-citation.text-property.types.ts","path":"alan/medicine/cause-of-death/properties/baseline-rates.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"health-source-citation.text-property.types.ts","path":"alan/medicine/cause-of-death/properties/risk-factors.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"health-source-citation.text-property.types.ts","path":"alan/medicine/risk-activity/properties/health-sources.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/medicine/cause-of-death/properties/baseline-rates.record-property.ts","id":"01a183bf-b69f-7678-83fa-b109948e3e66"}
 {"propertySlug":"page-property","path":"alan/medicine/cause-of-death/properties/risk-factors.record-property.ts","id":"01a183bf-b6a1-759f-a922-0ec5b86d0856"}
+{"propertySlug":"page-property","path":"alan/medicine/risk-activity/properties/health-sources.record-property.ts","id":"01a183c0-83c8-7fc5-95c9-f9fbe08f7259"}
 {"propertySlug":"parts","path":"alan/medicine/cause-of-death/cause-of-death.page-type.ts","id":"01a183bc-e758-7df8-8861-f179dcfa60a1"}

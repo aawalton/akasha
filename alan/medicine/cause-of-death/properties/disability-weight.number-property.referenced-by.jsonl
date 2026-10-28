@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"disability-weight.number-property.types.ts","path":"alan/medicine/cause-of-death/cause-of-death.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"disability-weight.number-property.types.ts","path":"alan/medicine/risk-activity/properties/injury-disability.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/medicine/cause-of-death/cause-of-death.page-type.ts","id":"01a183bc-e758-7df8-8861-f179dcfa60a1"}
+{"propertySlug":"page-property","path":"alan/medicine/risk-activity/properties/injury-disability.record-property.ts","id":"01a183c0-83c9-78ce-9237-6df47e398578"}
 {"propertySlug":"parts","path":"alan/medicine/cause-of-death/cause-of-death.page-type.ts","id":"01a183bc-e758-7df8-8861-f179dcfa60a1"}

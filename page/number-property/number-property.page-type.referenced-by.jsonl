@@ -111,6 +111,11 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/relative-risk-central.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/relative-risk-high.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/cause-of-death/properties/relative-risk-low.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/risk-activity/properties/disability-years.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/risk-activity/properties/injuries-per-million-units.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/risk-activity/properties/micromorts-per-unit-central.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/risk-activity/properties/micromorts-per-unit-high.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/medicine/risk-activity/properties/micromorts-per-unit-low.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/music/catalog/track/properties/disc-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-calls-in-window.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/relationships/connection-activity/properties/connection-activity-attn.number-property.ts","typed":true,"deferred":false}
