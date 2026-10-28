@@ -16,7 +16,7 @@ export const giftedReborn00004 = {
   lore: ["lore/gifted-reborn-nala", "place/gifted-womb"],
   interruptsAt: "2026-10-27T22:00:00.000Z",
   createdAt: "2026-10-28T00:33:02.651Z",
-  updatedAt: "2026-10-28T00:43:40.394Z",
-  ownLength: 117,
+  updatedAt: "2026-10-28T00:44:21.473Z",
+  ownLength: 138,
   endsAt: "2026-10-27T22:00:00.000Z",
 } as const satisfies StoryTurnPlayed
