@@ -18,6 +18,7 @@ import type { PartOfCollections } from "akasha/alan/collection/properties/part-o
 import type { PartsLengthInWords } from "akasha/alan/collection/properties/parts-length-in-words.computed-property.types.ts"
 import type { PartsProgressInWords } from "akasha/alan/collection/properties/parts-progress-in-words.computed-property.types.ts"
 import type { PartsRemainingInWords } from "akasha/alan/collection/properties/parts-remaining-in-words.computed-property.types.ts"
+import type { PartsStreamingOn } from "akasha/alan/collection/properties/parts-streaming-on.computed-property.types.ts"
 import type { Position } from "akasha/alan/collection/properties/position.number-property.types.ts"
 import type { Status } from "akasha/alan/collection/properties/status.select-property.types.ts"
 import type { TotalLength } from "akasha/alan/collection/properties/total-length.computed-property.types.ts"
@@ -63,4 +64,5 @@ export type Collection = Page & {
   completionPercent?: CollectionCompletionPercent
   progressedAt?: CollectionProgressedAt
   withinCollections?: WithinCollections
+  partsStreamingOn?: PartsStreamingOn
 }

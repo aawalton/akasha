@@ -126,6 +126,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/place/location/properties/source-place-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/properties/collection-author.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/properties/collection-tags.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/properties/streaming-service.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/reading/book/properties/isbn.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/reading/book/properties/isbn13.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/reading/book/properties/publisher.text-property.ts","typed":true,"deferred":false}

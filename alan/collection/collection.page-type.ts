@@ -60,6 +60,8 @@ export const collection = {
     "instant-property/collection-progressed-at",
     "computed-property/within-collections",
     "relation-property/within-collection",
+    "text-property/streaming-service",
+    "computed-property/parts-streaming-on",
   ],
   extends: ["page-type/page"],
   properties: [
@@ -126,6 +128,7 @@ export const collection = {
     },
     { pageProperty: "instant-property/collection-progressed-at", required: false, many: false },
     { pageProperty: "computed-property/within-collections", required: false, many: false },
+    { pageProperty: "computed-property/parts-streaming-on", required: false, many: false },
   ],
   decisions: [
     {
@@ -194,5 +197,5 @@ export const collection = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-10-25T20:02:44.020Z",
+  updatedAt: "2026-10-28T19:56:25.583Z",
 } as const satisfies PageType
