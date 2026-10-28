@@ -11,9 +11,23 @@ export const jujutsuKaisen = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "95479", externalLink: "https://www.themoviedb.org/tv/95479" },
+    {
+      source: "tmdb",
+      externalId: "95479",
+      externalLink: "https://www.themoviedb.org/tv/95479",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "JUJUTSU KAISEN",
+  streamingOn: [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads",
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+  ],
   createdAt: "2026-10-28T18:43:47.111Z",
-  updatedAt: "2026-10-28T18:43:47.111Z",
+  updatedAt: "2026-10-28T19:44:41.867Z",
 } as const satisfies Show
