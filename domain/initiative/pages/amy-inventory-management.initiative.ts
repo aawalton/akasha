@@ -16,8 +16,9 @@ export const amyInventoryManagement = {
   ],
   constraints: [
     "Gold gear stays as it is until build management is more mature.",
+    "Companion gear stays as it is until Alan checks companion kits and roles with the combat simulator.",
     "Companion gear is worked through with Alan before gold gear is.",
   ],
   createdAt: "2026-09-26T15:25:47.417Z",
-  updatedAt: "2026-10-28T18:15:29.728Z",
+  updatedAt: "2026-10-28T18:27:41.735Z",
 } as const satisfies Initiative
