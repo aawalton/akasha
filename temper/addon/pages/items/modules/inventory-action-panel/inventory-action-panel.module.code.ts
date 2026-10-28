@@ -1,9 +1,6 @@
 import { getInventoryActionSummary } from "akasha/temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"
 
-import {
-  drawSurface,
-  type SurfaceLevel,
-} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { drawPanelBackground } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -21,11 +18,9 @@ const HEADER_HEIGHT = 24
 const ROW_HEIGHT = 22
 const ROW_GAP = spaceOf("1")
 const MIN_WIDTH = 200
-const PANEL_LEVEL: SurfaceLevel = 1
 
 interface PanelState {
   tlw: TopLevelWindow
-  bg: BackdropControl
   header: LabelControl
   rowControls: LabelControl[]
 }
@@ -44,7 +39,7 @@ export function initializeInventoryActionPanel(): undefined {
   tlw.SetHidden(true)
   tlw.SetDimensions(MIN_WIDTH, HEADER_HEIGHT + PADDING_Y * 2)
 
-  const bg = drawSurface(tlw, PANEL_LEVEL)
+  drawPanelBackground(tlw)
 
   const header = WINDOW_MANAGER.CreateControl("$(parent)Header", tlw, CT_LABEL)
   header.SetAnchor(TOPLEFT, tlw, TOPLEFT, PADDING_X, PADDING_Y)
@@ -53,7 +48,7 @@ export function initializeInventoryActionPanel(): undefined {
   header.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   header.SetText("")
 
-  panel = { tlw, bg, header, rowControls: [] }
+  panel = { tlw, header, rowControls: [] }
 
   INVENTORY_FRAGMENT.RegisterCallback(
     "StateChange",

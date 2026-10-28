@@ -31,6 +31,15 @@ export const surfaceBackdrop = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A panel beside the game's own panels in a scene takes the art of the game's panel background.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That art fades at the top and bottom inside the panel and has no edge.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A caller needing its own name, anchors or layer makes the backdrop and has this paint it.",
     },
     {
@@ -40,5 +49,5 @@ export const surfaceBackdrop = {
     },
   ],
   createdAt: "2026-09-22T17:13:21.177Z",
-  updatedAt: "2026-10-18T17:34:18.543Z",
+  updatedAt: "2026-10-28T16:06:46.344Z",
 } as const satisfies Module

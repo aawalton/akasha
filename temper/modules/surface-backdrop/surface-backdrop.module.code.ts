@@ -61,6 +61,50 @@ export function paintOverPlay(backdrop: BackdropControl): undefined {
   backdrop.SetInsets(CLEAR, CLEAR, CLEAR, CLEAR)
 }
 
+const PANEL_ART = "EsoUI/Art/Miscellaneous/centerscreen_left.dds"
+
+const PANEL_ART_SIZE = 1024
+
+const PANEL_ART_LEFT = 32
+
+const PANEL_ART_RIGHT = 1000
+
+const PANEL_FADE_ART = 80
+
+const PANEL_BODY_END_ART = 820
+
+const PANEL_FADE_END_ART = 900
+
+const PANEL_FADE = 16
+
+function panelSlice(parent: Control, name: string, top: number, bottom: number): TextureControl {
+  const slice = WINDOW_MANAGER.CreateControl(name, parent, CT_TEXTURE)
+  slice.SetTexture(PANEL_ART)
+  slice.SetTextureCoords(
+    PANEL_ART_LEFT / PANEL_ART_SIZE,
+    PANEL_ART_RIGHT / PANEL_ART_SIZE,
+    top / PANEL_ART_SIZE,
+    bottom / PANEL_ART_SIZE
+  )
+  slice.SetDrawLayer(DL_BACKGROUND)
+  slice.SetDrawLevel(0)
+  return slice
+}
+
+export function drawPanelBackground(parent: Control): undefined {
+  const top = panelSlice(parent, "$(parent)PanelTop", 0, PANEL_FADE_ART)
+  top.SetAnchor(TOPLEFT, parent, TOPLEFT, 0, 0)
+  top.SetAnchor(TOPRIGHT, parent, TOPRIGHT, 0, 0)
+  top.SetHeight(PANEL_FADE)
+  const bottom = panelSlice(parent, "$(parent)PanelBottom", PANEL_BODY_END_ART, PANEL_FADE_END_ART)
+  bottom.SetAnchor(BOTTOMLEFT, parent, BOTTOMLEFT, 0, 0)
+  bottom.SetAnchor(BOTTOMRIGHT, parent, BOTTOMRIGHT, 0, 0)
+  bottom.SetHeight(PANEL_FADE)
+  const body = panelSlice(parent, "$(parent)PanelBody", PANEL_FADE_ART, PANEL_BODY_END_ART)
+  body.SetAnchor(TOPLEFT, top, BOTTOMLEFT, 0, 0)
+  body.SetAnchor(BOTTOMRIGHT, bottom, TOPRIGHT, 0, 0)
+}
+
 export function drawSurface(parent: Control, level: SurfaceLevel): BackdropControl {
   const backdrop = WINDOW_MANAGER.CreateControl("$(parent)BG", parent, CT_BACKDROP)
   backdrop.SetAnchorFill()
