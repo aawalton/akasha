@@ -5,6 +5,7 @@ import type { BirthDate } from "akasha/person/properties/birth-date.calendar-dat
 import type { Bodyweight } from "akasha/person/properties/bodyweight.number-property.types.ts"
 import type { FamilyHistory } from "akasha/person/properties/family-history.record-property.types.ts"
 import type { HealthConditions } from "akasha/person/properties/health-conditions.record-property.types.ts"
+import type { Medications } from "akasha/person/properties/medications.record-property.types.ts"
 import type { PersonContributor } from "akasha/person/properties/person-contributor.relation-property.types.ts"
 import type { PersonHeight } from "akasha/person/properties/person-height.number-property.types.ts"
 import type { Phone } from "akasha/person/properties/phone.phone-number-property.types.ts"
@@ -28,6 +29,7 @@ export type Person = Domain & {
   vehicleMilesPerYear?: VehicleMilesPerYear
   familyHistory?: FamilyHistory
   healthConditions?: HealthConditions
+  medications?: Medications
   contributor?: PersonContributor
   scheme?: Scheme
   seatNotices?: SeatNotices

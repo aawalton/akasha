@@ -1,0 +1,3 @@
+{"propertySlug":"import","fileName":"medication-dose-mg.number-property.types.ts","path":"person/properties/medications.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"person/properties/medications.record-property.ts","id":"01a183b2-27fb-7fd1-abb3-d777318f82dd"}
+{"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
