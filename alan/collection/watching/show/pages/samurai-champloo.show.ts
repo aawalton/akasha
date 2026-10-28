@@ -11,9 +11,15 @@ export const samuraiChamploo = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "1063", externalLink: "https://www.themoviedb.org/tv/1063" },
+    {
+      source: "tmdb",
+      externalId: "1063",
+      externalLink: "https://www.themoviedb.org/tv/1063",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Samurai Champloo",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:54:50.662Z",
-  updatedAt: "2026-10-28T18:54:50.662Z",
+  updatedAt: "2026-10-28T19:45:49.189Z",
 } as const satisfies Show
