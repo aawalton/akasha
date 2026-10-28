@@ -11,9 +11,23 @@ export const danDaDan = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "240411", externalLink: "https://www.themoviedb.org/tv/240411" },
+    {
+      source: "tmdb",
+      externalId: "240411",
+      externalLink: "https://www.themoviedb.org/tv/240411",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Dan Da Dan",
+  streamingOn: [
+    "Adult Swim",
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+    "YouTube TV",
+  ],
   createdAt: "2026-10-28T18:55:40.735Z",
-  updatedAt: "2026-10-28T18:55:40.735Z",
+  updatedAt: "2026-10-28T19:43:53.325Z",
 } as const satisfies Show
