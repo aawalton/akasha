@@ -101,7 +101,7 @@ const TURNS_TEXT = "flex min-w-0 flex-col gap-6"
 
 const SET_ASIDE = "hidden"
 
-const PLACE_COLUMN = "flex flex-col gap-4"
+const PLACE_COLUMN = "flex flex-col gap-4 [--place-chrome:15rem]"
 
 const TAB_BAR =
   "fixed inset-x-0 bottom-0 z-30 flex border-primary/10 border-t pb-(--safe-area-bottom)"

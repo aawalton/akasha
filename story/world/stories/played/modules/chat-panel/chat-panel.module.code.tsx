@@ -72,7 +72,7 @@ const SIGNED_OUT = "sign in to send a message."
 const UNAUTHORIZED = 401
 
 const PANEL =
-  "flex h-[calc(100dvh-var(--safe-area-top)-7.5rem)] min-h-80 flex-col gap-3 max-[583px]:h-[calc(100dvh-var(--safe-area-top)-var(--safe-area-bottom)-11rem)]"
+  "flex h-[calc(100dvh-var(--safe-area-top)-var(--place-chrome,7.5rem))] min-h-80 flex-col gap-3 max-[583px]:h-[calc(100dvh-var(--safe-area-top)-var(--safe-area-bottom)-11rem)]"
 
 const HISTORY = "flex min-h-0 flex-1 flex-col gap-3 overflow-y-auto overscroll-contain"
 

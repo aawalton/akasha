@@ -18,6 +18,11 @@ export const chatPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The panel fills the window under whatever its place draws around it, and no more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chat message sends whether or not a turn is being made.",
     },
     {
@@ -38,5 +43,5 @@ export const chatPanel = {
     },
   ],
   createdAt: "2026-10-27T18:54:57.088Z",
-  updatedAt: "2026-10-28T19:08:37.650Z",
+  updatedAt: "2026-10-28T20:33:14.354Z",
 } as const satisfies Module
