@@ -1,3 +1,4 @@
+import { followUp } from "akasha/temper/catalog/skill/pages/follow-up/follow-up.temper-skill.ts"
 import { damagePowerOf } from "akasha/temper/player/character/stat/modules/skill-power/skill-power.module.code.ts"
 import type { TooltipPairing } from "akasha/temper/player/character/stat/modules/tooltip-pairing/tooltip-pairing.module.code.ts"
 
@@ -12,6 +13,7 @@ export type EquationStats = {
   readonly healingDone: number
   readonly powerShare?: number
   readonly buildHealingDone?: number
+  readonly skillLine?: string
 }
 
 type Equation = {
@@ -23,7 +25,7 @@ type Equation = {
   readonly tags: readonly string[]
 }
 
-type Variable = Exclude<keyof EquationStats, "powerShare" | "buildHealingDone">
+type Variable = Exclude<keyof EquationStats, "powerShare" | "buildHealingDone" | "skillLine">
 
 const VARIABLES: Readonly<Record<string, Variable>> = {
   MaxStat: "maxStat",
@@ -201,6 +203,19 @@ const DAMAGE_BUFFS: Readonly<Record<string, number>> = {
   "Power of the Daedra": 10,
 }
 
+const LINE_DAMAGE_BUFFS: readonly {
+  readonly buff: string
+  readonly line: string
+  readonly percent: number
+}[] = [{ buff: followUp.title, line: followUp.skillLineId, percent: 10 }]
+
+function lineBuffedOf(active: ActiveHeld, line: string | undefined): number {
+  return LINE_DAMAGE_BUFFS.filter((one) => one.line === line && active.buffs.has(one.buff)).reduce(
+    (sum, one) => sum + one.percent,
+    0
+  )
+}
+
 const DAMAGE_PER_STACK: Readonly<Record<string, number>> = {
   Landslide: 1,
 }
@@ -222,12 +237,13 @@ function sharedOf(equation: Equation, active: ActiveHeld): number {
 function bonusOf(
   equation: Equation,
   held: ReadonlySet<string>,
-  active: ActiveHeld = NOTHING_ACTIVE
+  active: ActiveHeld = NOTHING_ACTIVE,
+  line?: string
 ): number {
   const buffed = isDamage(equation)
     ? [...active.buffs].reduce(
         (sum, one) => sum + (DAMAGE_BUFFS[one] ?? 0),
-        sharedOf(equation, active)
+        sharedOf(equation, active) + lineBuffedOf(active, line)
       )
     : 0
   const percent = BONUSES.filter(
@@ -343,12 +359,13 @@ function tooltipValueOf(
     const growth = ranked === undefined ? 1 : RANK_GROWTH[ranked]
     if (growth === undefined) return undefined
     const stacked = stackedOf(equation, active)
-    const bonus = bonusOf(equation, passives, active)
+    const bonus = bonusOf(equation, passives, active, stats.skillLine)
     const dealt = singleOf(equation, { ...stats, maxPower }, stacked, growth, bonus)
     return dealt * ticksOf(equation, durationMs)
   }
   const base = healing ? healOf(equation, { ...stats, maxPower }) : worked
-  const bonused = bonusOf(equation, passives, active) * stackedOf(equation, active) * base
+  const bonused =
+    bonusOf(equation, passives, active, stats.skillLine) * stackedOf(equation, active) * base
   const ticks = ticksOf(equation, durationMs)
   if (healing) return Math.round((1 + healingDoneOf(equation, stats)) * Math.round(bonused)) * ticks
   if (!isDamage(equation)) return Math.round(bonused)

@@ -129,7 +129,14 @@ export function skillStatsOf(
         slotted.filter((line) => line === one.line).length,
     0
   )
-  return { ...stats, healingDone, buildHealingDone: stats.healingDone, powerShare }
+  const skillLine = lines.get(abilityId)
+  return {
+    ...stats,
+    healingDone,
+    buildHealingDone: stats.healingDone,
+    powerShare,
+    ...(skillLine === undefined ? {} : { skillLine }),
+  }
 }
 
 const SLOTTED_POWER: readonly {
