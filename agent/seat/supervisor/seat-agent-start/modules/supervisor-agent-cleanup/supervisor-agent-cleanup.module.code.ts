@@ -77,6 +77,7 @@ export async function processCleanup(
   proc.waitResumeMonitor?.stop()
   proc.regretWatch?.stop()
   proc.attentionWatch?.stop()
+  proc.cancelWatch?.stop()
   if (proc.stopCredentialWatch) proc.stopCredentialWatch()
   if (proc.stopSessionWatch) proc.stopSessionWatch()
 

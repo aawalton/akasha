@@ -228,6 +228,19 @@ function keepWorking(agent: string, working: TurnWorking): boolean {
   }
 }
 
+export function promptUnanswered(tail: string): boolean {
+  const { answer } = scanRecords(tail, {})
+  return answer !== null && answer.kind === ASKED_RECORD && !turnEnded(answer)
+}
+
+export function turnTakenBack(agent: string): boolean {
+  const observed = akashaObservedOf(agent)
+  if (observed === null) return false
+  const held = keptWorkingIn(observed[WORKING_KEY])
+  if (held.activeTurn !== true) return false
+  return keepWorking(agent, { ...held, activeTurn: false })
+}
+
 export function workingOf(agent: string): TurnWorking {
   if (agent === "") return {}
   const observed = akashaObservedOf(agent)

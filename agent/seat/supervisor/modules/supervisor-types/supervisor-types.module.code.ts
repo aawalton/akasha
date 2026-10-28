@@ -33,6 +33,7 @@ export type AgentProcess = {
   waitResumeMonitor: { stop: () => void } | null
   regretWatch?: { stop: () => void }
   attentionWatch?: { stop: () => void }
+  cancelWatch?: { stop: () => void }
   mcpConfigPath: string | null
   configDir: string | null
   stopSessionWatch?: () => void

@@ -18,6 +18,10 @@ export const turnWorking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn taken back before any answer is ended until the transcript grows again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A prompt saying the user interrupted the request ends the turn.",
     },
     {
@@ -161,5 +165,5 @@ export const turnWorking = {
     },
   ],
   createdAt: "2026-09-03T18:15:02.021Z",
-  updatedAt: "2026-09-25T18:02:46.000Z",
+  updatedAt: "2026-10-28T19:48:45.674Z",
 } as const satisfies Module

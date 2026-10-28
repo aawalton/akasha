@@ -15,6 +15,7 @@ export const seatTurn = {
     "module/turn-refreshing",
     "module/turn-working",
     "module/wake-armed-specs",
+    "module/prompt-cancel",
   ],
   decisions: [
     {
@@ -296,5 +297,5 @@ export const seatTurn = {
     },
   ],
   createdAt: "2026-09-03T04:36:26.031Z",
-  updatedAt: "2026-09-26T18:31:02.000Z",
+  updatedAt: "2026-10-28T19:48:45.674Z",
 } as const satisfies Domain

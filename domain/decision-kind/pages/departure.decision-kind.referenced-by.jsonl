@@ -335,6 +335,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.ts","id":"01a06964-d998-7c3e-8f55-91ff918f96ac"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/needs-attention/needs-attention.module.ts","id":"01a0defb-9e02-7601-bb88-b9d57f458c08"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.ts","id":"01a0695a-d2ea-7792-be19-da7a851ad311"}
+{"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/prompt-cancel/prompt-cancel.module.ts","id":"01a1840e-cfea-7d4a-9646-ebdb6b4abc7d"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.ts","id":"01a0d416-14c8-723e-a944-098f02facb4a"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.ts","id":"01a0695a-d2ea-7c13-b182-16f7c69f5587"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/turn-refreshing/turn-refreshing.module.ts","id":"01a0d4be-ab45-7897-b812-79c13d7b9d9f"}

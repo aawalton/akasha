@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/name/modules/seat-session-follow/seat-session-follow.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/observation/seat-turn/modules/needs-attention/needs-attention.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/observation/seat-turn/modules/prompt-cancel/prompt-cancel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts","typed":false,"deferred":false}
