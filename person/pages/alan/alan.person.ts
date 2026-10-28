@@ -119,10 +119,47 @@ export const alan = {
   sex: "male",
   tobaccoUse: "never",
   alcoholDrinksPerWeek: 0,
+  familyHistory: [
+    {
+      relative: "father",
+      condition: "glioblastoma",
+      deathAge: 57,
+      note: "His cause of death. Likely caused by fallout exposure; the family receives a government compensation payout for it.",
+    },
+    {
+      relative: "father",
+      condition: "Parkinson's disease",
+      onsetAge: 47,
+      deathAge: 57,
+      note: "The onset age is approximate, about ten years before his death.",
+    },
+    {
+      relative: "mother",
+      note: "Living. No heart disease, stroke, cancer, diabetes or dementia known.",
+    },
+    {
+      relative: "paternal-grandfather",
+      condition: "heart attack",
+      note: "Lived into his 90s; exact ages unknown.",
+    },
+    {
+      relative: "paternal-grandmother",
+      condition: "Parkinson's disease",
+    },
+    {
+      relative: "maternal-grandfather",
+      condition: "heart attack",
+      note: "Lived into his 90s; exact ages unknown.",
+    },
+    {
+      relative: "maternal-grandmother",
+      note: "Lived into her 90s. No heart disease, stroke, cancer, diabetes or dementia known.",
+    },
+  ],
   contributor:
     "contributor/contributor-9bc4d42501098ce9fad8a73ad03e2ef5d1e89b4a1fac8426b100f7c4d7e5e3d4",
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T18:01:23.945Z",
+  updatedAt: "2026-10-28T18:03:06.642Z",
 } as const satisfies Person
