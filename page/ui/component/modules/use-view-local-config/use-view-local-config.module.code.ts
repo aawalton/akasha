@@ -25,6 +25,13 @@ interface ViewLocalConfigDefaults {
   defaultItemPageSize?: number
 }
 
+function sameFilters(
+  one: readonly ViewFilter[] | undefined,
+  other: readonly ViewFilter[] | undefined
+): boolean {
+  return JSON.stringify(one ?? []) === JSON.stringify(other ?? [])
+}
+
 export function useViewLocalConfig(
   defaults: ViewLocalConfigDefaults,
   onConfigChange?: (config: ViewConfig) => void
@@ -33,6 +40,11 @@ export function useViewLocalConfig(
   const [localFilters, setLocalFilters] = useState<readonly ViewFilter[]>(
     defaults.defaultFilters ?? []
   )
+  const [statedFilters, setStatedFilters] = useState(defaults.defaultFilters)
+  if (!sameFilters(defaults.defaultFilters, statedFilters)) {
+    setStatedFilters(defaults.defaultFilters)
+    if (sameFilters(localFilters, statedFilters)) setLocalFilters(defaults.defaultFilters ?? [])
+  }
   const [localGroupBy, setLocalGroupBy] = useState<string | undefined>(defaults.defaultGroupBy)
   const [localGroupSorts, setLocalGroupSorts] = useState<ViewConfig["groupSorts"]>(
     defaults.defaultGroupSorts ?? []
