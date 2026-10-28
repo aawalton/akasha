@@ -1652,6 +1652,18 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bleach-s02e48.episode.ts","id":"01a183d3-f485-7519-8495-16ef720d3245"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bleach-s02e49.episode.ts","id":"01a183d3-f485-7dd2-81cf-12fc04524856"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bleach-s02e50.episode.ts","id":"01a183d3-f485-7b00-adda-193ae9827c03"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e01.episode.ts","id":"01a183d5-2787-753e-b219-5b0e9f452f46"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e02.episode.ts","id":"01a183d5-2787-7c2f-a28e-856be73fe85b"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e03.episode.ts","id":"01a183d5-2787-7a1d-896d-95496d9fb57d"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e04.episode.ts","id":"01a183d5-2787-79fb-a6b0-de9899c3229b"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e05.episode.ts","id":"01a183d5-2787-76bf-a3de-8d429b51e0d3"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e06.episode.ts","id":"01a183d5-2787-7029-bc25-1b8a7e1721dc"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e07.episode.ts","id":"01a183d5-2787-737c-9987-84ca9d34513c"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e08.episode.ts","id":"01a183d5-2787-7718-b73d-200d851bd315"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e09.episode.ts","id":"01a183d5-2788-7a6b-b01a-9047c31bd7b9"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e10.episode.ts","id":"01a183d5-2788-7756-8c8c-2d51d61c07ed"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e11.episode.ts","id":"01a183d5-2788-7ad5-b49c-0aef045f5764"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/chainsaw-man-s01e12.episode.ts","id":"01a183d5-2788-7e16-ac95-333127a28636"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/code-geass-lelouch-of-the-rebellion-s01e01.episode.ts","id":"01a183d3-89e6-7893-8a90-29e8ed5f5b5c"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/code-geass-lelouch-of-the-rebellion-s01e02.episode.ts","id":"01a183d3-89e7-73c4-a929-741d698e1fb3"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/code-geass-lelouch-of-the-rebellion-s01e03.episode.ts","id":"01a183d3-89e7-7023-8ef6-bb9e4ccade64"}
@@ -5563,6 +5575,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/castle-season-6.season.ts","id":"01a06802-b8b8-702a-bc07-ef9fc0ddbf90"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/castle-season-7.season.ts","id":"01a06802-b8b8-702b-be55-af7dcc206403"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/castle-season-8.season.ts","id":"01a06802-b8b8-702c-a942-36faefd16b2a"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/chainsaw-man-season-1.season.ts","id":"01a183d5-2788-72e3-9602-8c610227fff2"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/children-of-earth.season.ts","id":"01a06802-b8b8-702d-a152-d13e31f36f8f"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/class-season-1.season.ts","id":"01a06802-b8b8-702e-b64e-53601eb68733"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/cloudward-ho.season.ts","id":"01a06802-b8b8-702f-896d-c9af684ac7ec"}
@@ -6322,6 +6335,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/caprica.show.ts","id":"01a06802-9331-700e-8261-11fd1d9ad165"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/castle.show.ts","id":"01a06802-9331-700f-9ea8-79acf4cfa58c"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/cedar-cove.show.ts","id":"01a1749a-c86c-791b-9be4-156a469bafda"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/chainsaw-man.show.ts","id":"01a183d5-2788-70c4-aed1-b2a980de5e0a"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/chesapeake-shores.show.ts","id":"01a1749a-c86c-7f80-ba98-3721f01e4efb"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/cloak-and-dagger.show.ts","id":"01a06802-9331-7011-8e99-155246c47b6e"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/show/pages/clone-wars.show.ts","id":"01a06802-9331-7012-bb53-8b3246658970"}
