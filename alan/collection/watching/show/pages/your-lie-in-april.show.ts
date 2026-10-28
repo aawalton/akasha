@@ -11,9 +11,21 @@ export const yourLieInApril = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "61663", externalLink: "https://www.themoviedb.org/tv/61663" },
+    {
+      source: "tmdb",
+      externalId: "61663",
+      externalLink: "https://www.themoviedb.org/tv/61663",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Your Lie in April",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+  ],
   createdAt: "2026-10-28T18:47:11.445Z",
-  updatedAt: "2026-10-28T18:47:11.445Z",
+  updatedAt: "2026-10-28T19:46:37.333Z",
 } as const satisfies Show
