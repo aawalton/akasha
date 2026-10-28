@@ -240,23 +240,17 @@ function PlaceTab({ look, on, onPress }: { look: Look; on: boolean; onPress: () 
 
 function PhonePlace({
   look,
-  beside,
   drawn,
-  onSwitch,
   onClose,
 }: {
   look: Look
-  beside: readonly Look[]
   drawn: ReactNode
-  onSwitch: (slug: string) => void
   onClose: () => void
 }) {
   return (
     <div className={cn(PHONE_PLACE, surfaceClass(0))}>
       <PlaceHead
-        chosen={look}
-        beside={beside}
-        onSwitch={onSwitch}
+        label={look.label}
         onClose={onClose}
         className={cn(PHONE_PLACE_HEAD, surfaceClass(0))}
       />
@@ -326,8 +320,7 @@ export function PlayedSidebars({
   }
   const press = (look: Look) => choose(toggled(open, look.slug, look.side, slugs, fitting))
   const isOn = (look: Look) => shown[look.side] === look.slug
-  const switchTo = (side: Side) => (slug: string) =>
-    choose(toggled(open, slug, side, slugs, fitting))
+
   const resize = (side: Side, wanted: number) => {
     const beside = shown[otherSide(side)] === null ? NONE : widths[otherSide(side)]
     const kept = widthClamped(wanted, width, beside)
@@ -393,9 +386,7 @@ export function PlayedSidebars({
       {phone && coverLook !== undefined ? (
         <PhonePlace
           look={coverLook}
-          beside={looks.filter((look) => look.side === coverLook.side)}
           drawn={placed.get(coverLook.slug)}
-          onSwitch={switchTo(coverLook.side)}
           onClose={() => choose(withSide(open, coverLook.side, null))}
         />
       ) : null}

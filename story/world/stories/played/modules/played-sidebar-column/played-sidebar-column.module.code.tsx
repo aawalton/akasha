@@ -3,10 +3,6 @@
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
-import {
-  ToggleGroup,
-  ToggleGroupItem,
-} from "akasha/design/interface/primitive/modules/toggle-group/toggle-group.module.code.tsx"
 import { X } from "lucide-react"
 import { type KeyboardEvent, type PointerEvent, type ReactNode, useRef } from "react"
 
@@ -29,8 +25,6 @@ export const WIDTHS: Widths = { left: SIDEBAR_WIDTH, right: SIDEBAR_WIDTH }
 
 const WIDTHS_STORED_AT = "played-sidebar-widths"
 
-const ONE = 1
-
 const SIDEBAR =
   "sticky top-(--safe-area-top) z-20 flex h-[calc(100dvh-var(--safe-area-top))] shrink-0 flex-col border-primary/10"
 
@@ -52,15 +46,8 @@ const HANDLE_LEFT = "-right-[3px]"
 
 const HANDLE_RIGHT = "-left-[3px]"
 
-export type Choice = {
-  readonly slug: string
-  readonly label: string
-}
-
 export type PlaceHeld = {
-  readonly chosen: Choice
-  readonly beside: readonly Choice[]
-  readonly onSwitch: (slug: string) => void
+  readonly label: string
   readonly onClose: () => void
 }
 
@@ -89,34 +76,10 @@ export function storeWidths(widths: Widths): undefined {
   localStorage.setItem(WIDTHS_STORED_AT, JSON.stringify(widths))
 }
 
-export function PlaceHead({
-  chosen,
-  beside,
-  onSwitch,
-  onClose,
-  className,
-}: PlaceHeld & { className?: string }) {
+export function PlaceHead({ label, onClose, className }: PlaceHeld & { className?: string }) {
   return (
     <div className={cn(HEAD, className)}>
-      {beside.length > ONE ? (
-        <ToggleGroup
-          type="single"
-          variant="elevation"
-          size="sm"
-          value={chosen.slug}
-          onValueChange={(slug) => {
-            if (beside.some((one) => one.slug === slug)) onSwitch(slug)
-          }}
-        >
-          {beside.map((one) => (
-            <ToggleGroupItem key={one.slug} value={one.slug} className="px-3">
-              {one.label}
-            </ToggleGroupItem>
-          ))}
-        </ToggleGroup>
-      ) : (
-        <span className={HEAD_TITLE}>{chosen.label}</span>
-      )}
+      <span className={HEAD_TITLE}>{label}</span>
       <Button type="button" variant="tertiary" size="icon" aria-label="Close" onClick={onClose}>
         <X />
       </Button>
