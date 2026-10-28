@@ -11,9 +11,15 @@ export const sailorMoon = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "3570", externalLink: "https://www.themoviedb.org/tv/3570" },
+    {
+      source: "tmdb",
+      externalId: "3570",
+      externalLink: "https://www.themoviedb.org/tv/3570",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Sailor Moon",
+  streamingOn: ["Amazon Prime Video Free with Ads", "Hulu", "Pluto TV", "Tubi TV"],
   createdAt: "2026-10-28T18:49:12.078Z",
-  updatedAt: "2026-10-28T18:49:12.078Z",
+  updatedAt: "2026-10-28T19:45:47.316Z",
 } as const satisfies Show
