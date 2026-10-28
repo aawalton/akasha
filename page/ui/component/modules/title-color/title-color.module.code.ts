@@ -13,6 +13,11 @@ const TEXT_BY_VARIANT: Readonly<Record<string, string>> = {
   "elevation-muted": "text-secondary",
 }
 
+export function colorTextClass(named: string | null | undefined): string | null {
+  const variant = badgeVariantForColor(named)
+  return variant == null ? null : (TEXT_BY_VARIANT[variant] ?? null)
+}
+
 export function titleColorClass(
   definitions: readonly PropertyDefinition[],
   data: Readonly<Record<string, unknown>> | null | undefined
@@ -20,7 +25,5 @@ export function titleColorClass(
   const coloring = definitions.find((one) => one.colorsTitle === true)
   if (coloring === undefined || data == null) return null
   const held = data[coloring.id]
-  if (typeof held !== "string") return null
-  const variant = badgeVariantForColor(held)
-  return variant == null ? null : (TEXT_BY_VARIANT[variant] ?? null)
+  return typeof held === "string" ? colorTextClass(held) : null
 }

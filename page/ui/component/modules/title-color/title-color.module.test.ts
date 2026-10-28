@@ -5,7 +5,10 @@ import { green } from "akasha/design/interface/color/pages/green.color.ts"
 import { grey } from "akasha/design/interface/color/pages/grey.color.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { titleColorClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
+import {
+  colorTextClass,
+  titleColorClass,
+} from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
 
 const TINT: PropertyDefinition = {
   id: "workedTint",
@@ -39,6 +42,11 @@ test("a page whose property holds no color answers no color", () => {
 test("a page type naming no property to color titles answers no color", () => {
   const data = { shade: namedAs(color.slug, green.slug, null) }
   expect(titleColorClass([OTHER], data)).toBeNull()
+})
+
+test("a color named alone answers the text color a badge of it takes", () => {
+  expect(colorTextClass(namedAs(color.slug, green.slug, null))).toBe("text-green")
+  expect(colorTextClass(null)).toBeNull()
 })
 
 test("a page not yet read answers no color", () => {
