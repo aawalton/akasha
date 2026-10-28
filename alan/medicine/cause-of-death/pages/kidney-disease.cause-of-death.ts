@@ -87,6 +87,19 @@ export const kidneyDisease = {
       url: "https://wonder.cdc.gov/ucd-icd10-expanded.html",
     },
   ],
+  riskFactors: [
+    {
+      factor: "BMI",
+      personProperty: "bodyweight",
+      appliedAs: "per 5 BMI above 25, urogenital deaths (ICD-10 N), never-smokers",
+      relativeRiskLow: 1.39,
+      relativeRiskCentral: 1.45,
+      relativeRiskHigh: 1.51,
+      citation:
+        "Bhaskaran K, dos-Santos-Silva I, Leon DA, Douglas IJ, Smeeth L. Association of BMI with overall and cause-specific mortality: a population-based cohort study of 3.6 million adults in the UK. Lancet Diabetes Endocrinol 2018;6(12):944-953, Table 2, never-smokers. The people's BMI is the US men 20+ mean of 29.4, NHANES August 2021-August 2023, NCHS Vital and Health Statistics Series 3 No. 50, Table 10.",
+      url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6249991/",
+    },
+  ],
   createdAt: "2026-10-28T18:40:27.931Z",
-  updatedAt: "2026-10-28T18:40:27.931Z",
+  updatedAt: "2026-10-28T19:10:39.459Z",
 } as const satisfies CauseOfDeath

@@ -87,6 +87,31 @@ export const chronicLiverDisease = {
       url: "https://wonder.cdc.gov/ucd-icd10-expanded.html",
     },
   ],
+  riskFactors: [
+    {
+      factor: "never drinking",
+      personProperty: "alcohol-drinks-per-week",
+      appliedAs:
+        "never drinker vs the US: 1 minus the alcohol-related share of cirrhosis deaths, 50.3% in 2023; range from that share's 2000-2023 span of 43.6-54.3%; both sexes",
+      relativeRiskLow: 0.457,
+      relativeRiskCentral: 0.497,
+      relativeRiskHigh: 0.564,
+      citation:
+        "NIAAA Surveillance Report #123, Liver Cirrhosis Mortality in the United States: National, State, and Regional Trends, 2000-2023. Alcohol-related cirrhosis is ICD-10 K70; the report warns alcohol involvement can be significantly underreported.",
+      url: "https://www.niaaa.nih.gov/publications/surveillance-reports/surveillance123",
+    },
+    {
+      factor: "BMI",
+      personProperty: "bodyweight",
+      appliedAs: "per 5 BMI above 23, liver cirrhosis deaths, never-smokers",
+      relativeRiskLow: 1.33,
+      relativeRiskCentral: 1.44,
+      relativeRiskHigh: 1.55,
+      citation:
+        "Bhaskaran K, dos-Santos-Silva I, Leon DA, Douglas IJ, Smeeth L. Association of BMI with overall and cause-specific mortality: a population-based cohort study of 3.6 million adults in the UK. Lancet Diabetes Endocrinol 2018;6(12):944-953, Table 2, never-smokers. The people's BMI is the US men 20+ mean of 29.4, NHANES August 2021-August 2023, NCHS Vital and Health Statistics Series 3 No. 50, Table 10.",
+      url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6249991/",
+    },
+  ],
   createdAt: "2026-10-28T18:40:27.931Z",
-  updatedAt: "2026-10-28T18:40:27.931Z",
+  updatedAt: "2026-10-28T19:10:39.459Z",
 } as const satisfies CauseOfDeath

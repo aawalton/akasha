@@ -5,6 +5,7 @@ import {
 import {
   conditionsIn,
   type Held,
+  habitsIn,
   meatPerDayIn,
   onStimulantIn,
   parkinsonsIn,
@@ -315,7 +316,8 @@ export function modelIn(root: string, today: string): Model {
     onStimulant: onStimulantIn(person),
     conditions: conditionsIn(person),
     parkinsonsFirstDegree: parkinsonsIn(person),
+    ...habitsIn(person),
   }
   const causes = causesIn(root)
-  return { logs, held, causes, readings: readingsFor(held.age), draws: drawsFor(causes) }
+  return { logs, held, causes, readings: readingsFor(), draws: drawsFor(causes) }
 }

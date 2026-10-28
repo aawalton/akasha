@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   conditionsIn,
   type Held,
+  habitsIn,
   LEVERS,
   meatPerDayIn,
   onStimulantIn,
@@ -19,6 +20,9 @@ const HELD: Held = {
   onStimulant: true,
   conditions: new Map([["ADHD", "self"]]),
   parkinsonsFirstDegree: true,
+  neverSmoked: true,
+  neverDrank: true,
+  bmi: 26.1,
 }
 
 const PERSON = {
@@ -43,14 +47,27 @@ test("a grandparent alone is no first-degree relative", () => {
 })
 
 test("steps past the source's line count as its top", () => {
-  const [steps] = readingsFor(40).get("heart-disease") ?? []
+  const [steps] = readingsFor().get("heart-disease") ?? []
   expect(steps?.dose(HELD, 41)).toBeCloseTo(0.4)
 })
 
-test("years of stimulant use stop counting at the cap", () => {
-  const years = (readingsFor(40).get("stroke") ?? [])[3]
-  expect(years?.dose(HELD, 45)).toBe(5)
-  expect(years?.dose(HELD, 70)).toBe(10)
+test("BMI is read against the people's mean, past the source's change point", () => {
+  const bmi = (readingsFor().get("stroke") ?? [])[5]
+  expect(bmi?.dose(HELD, 41)).toBeCloseTo((1.1 - 4.4) / 5)
+  expect(bmi?.dose({ ...HELD, bmi: null }, 41)).toBe(0)
+})
+
+test("bodyweight and height give BMI, and no tobacco or alcohol reads as never", () => {
+  const habits = habitsIn({
+    bodyweight: 182,
+    height: 70,
+    tobaccoUse: "never",
+    alcoholDrinksPerWeek: 0,
+  })
+  expect(habits.bmi).toBeCloseTo(26.11, 2)
+  expect(habits.neverSmoked).toBe(true)
+  expect(habits.neverDrank).toBe(true)
+  expect(habitsIn({}).bmi).toBeNull()
 })
 
 test("an action changes only what it names", () => {

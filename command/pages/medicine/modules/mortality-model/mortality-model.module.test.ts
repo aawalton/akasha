@@ -23,6 +23,9 @@ const HELD: Held = {
   onStimulant: true,
   conditions: new Map([["ADHD", "self"]]),
   parkinsonsFirstDegree: true,
+  neverSmoked: true,
+  neverDrank: true,
+  bmi: 26.1,
 }
 
 const FLAT: Cause = {
@@ -39,11 +42,11 @@ test("a rate is read from the band holding the age, and an age no band holds has
 test("a risk factor the readings do not know is refused rather than guessed", () => {
   const stray: Cause = {
     ...FLAT,
-    slug: "colorectal-cancer",
+    slug: "parkinsons-disease",
     factors: [{ factor: "stray", low: 1, central: 2, high: 3, citation: "a" }],
   }
-  expect(() => boundsOf(stray, readingsFor(40), HELD)).toThrow("stray")
-  expect(() => boundsOf({ ...stray, slug: "flat" }, readingsFor(40), HELD)).toThrow("flat")
+  expect(() => boundsOf(stray, readingsFor(), HELD)).toThrow("stray")
+  expect(() => boundsOf({ ...stray, slug: "flat" }, readingsFor(), HELD)).toThrow("flat")
 })
 
 test("a self-diagnosed condition ranges from no added risk to the source's central value", () => {
@@ -55,13 +58,13 @@ test("a self-diagnosed condition ranges from no added risk to the source's centr
       { factor: "ADHD medication", low: 0.66, central: 0.75, high: 0.86, citation: "b" },
     ],
   }
-  const [adhd] = boundsOf(injury, readingsFor(40), HELD)
+  const [adhd] = boundsOf(injury, readingsFor(), HELD)
   expect(Math.exp(adhd?.mu ?? 0)).toBeCloseTo(Math.sqrt(2.14))
 })
 
 test("one flat cause takes everyone who does not live to 100", () => {
   const draws = drawsFor([FLAT], 10)
-  const run = runOf([FLAT], readingsFor(40), HELD, draws, 10)
+  const run = runOf([FLAT], readingsFor(), HELD, draws, 10)
   const died = run.lifetime[0]?.[0] ?? 0
   expect(died + (run.aliveAtEnd[0] ?? 0)).toBeCloseTo(1)
   expect(run.expectancy[0] ?? 0).toBeGreaterThan(40)

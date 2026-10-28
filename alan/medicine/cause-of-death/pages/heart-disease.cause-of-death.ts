@@ -122,18 +122,41 @@ export const heartDisease = {
       url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10270853/",
     },
     {
-      factor: "long-term ADHD medication",
+      factor: "ADHD medication over 5 years, ischaemic heart disease",
       personProperty: "medications",
       appliedAs:
-        "per 1 year of cumulative use vs no ADHD medication among people with ADHD, incident CVD",
-      relativeRiskLow: 1.03,
-      relativeRiskCentral: 1.04,
-      relativeRiskHigh: 1.05,
+        "more than 5 years of cumulative ADHD medication vs none, among people with ADHD, incident ischaemic heart disease; adjusted OR, Table 2; not significant",
+      relativeRiskLow: 0.7,
+      relativeRiskCentral: 1.06,
+      relativeRiskHigh: 1.6,
       citation:
         "Zhang L, Li L, Andell P, et al. Attention-Deficit/Hyperactivity Disorder Medications and Long-Term Risk of Cardiovascular Diseases. JAMA Psychiatry 2024;81(2):178-187. doi:10.1001/jamapsychiatry.2023.4294",
-      url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10851097/",
+      url: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2811812",
+    },
+    {
+      factor: "never smoking",
+      personProperty: "tobacco-use",
+      appliedAs:
+        "never smoker vs US men; ischaemic heart disease current RR 2.17 and former 1.25; low and high scale both excesses by the men 55+ current-smoker 95% CI (1.9-2.2 of 2.0)",
+      relativeRiskLow: 0.777,
+      relativeRiskCentral: 0.807,
+      relativeRiskHigh: 0.823,
+      citation:
+        "Lariscy JT, Hummer RA, Rogers RG. Cigarette Smoking and All-Cause and Cause-Specific Adult Mortality in the United States. Demography 2018;55(5):1855-1885, Table 2 (men 35+) and Table 8 (men 55+). Smoking shares: NCHS NHSR No. 145 (2020), men 65+ in 2018 were 49.4% former and 40.7% never smokers, 9.9% current by difference. Ratio = 1/(0.407 + 0.494 x former RR + 0.099 x current RR).",
+      url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6219821/",
+    },
+    {
+      factor: "BMI",
+      personProperty: "bodyweight",
+      appliedAs: "per 5 BMI above 25, cardiovascular deaths (ICD-10 I), never-smokers",
+      relativeRiskLow: 1.27,
+      relativeRiskCentral: 1.29,
+      relativeRiskHigh: 1.3,
+      citation:
+        "Bhaskaran K, dos-Santos-Silva I, Leon DA, Douglas IJ, Smeeth L. Association of BMI with overall and cause-specific mortality: a population-based cohort study of 3.6 million adults in the UK. Lancet Diabetes Endocrinol 2018;6(12):944-953, Table 2, never-smokers. The people's BMI is the US men 20+ mean of 29.4, NHANES August 2021-August 2023, NCHS Vital and Health Statistics Series 3 No. 50, Table 10.",
+      url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6249991/",
     },
   ],
   createdAt: "2026-10-28T18:35:44.261Z",
-  updatedAt: "2026-10-28T18:41:23.171Z",
+  updatedAt: "2026-10-28T19:10:39.459Z",
 } as const satisfies CauseOfDeath

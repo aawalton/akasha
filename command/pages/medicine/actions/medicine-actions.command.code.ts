@@ -108,9 +108,9 @@ function saidOf(acted: readonly Acted[]): readonly string[] {
     `  ${"action".padEnd(NAME_WIDTH)}${"years added".padEnd(GAIN_WIDTH)}change in the chance of dying of each cause`,
     ...acted.map(rowOf),
     "",
-    "not modelled",
-    ...UNMODELLED.map((one) => `  ${one}`),
-    "",
+    ...(UNMODELLED.length === 0
+      ? []
+      : ["not modelled", ...UNMODELLED.map((one) => `  ${one}`), ""]),
     "every range is the 10th to the 90th percentile, over draws shared by every action",
   ]
 }
