@@ -127,6 +127,7 @@ export const alan = {
   bloodPressureCategory: "normal",
   colorectalScreening: "none",
   fluVaccination: "none",
+  covidVaccination: "none",
   nutsGramsPerDay: 28,
   inTherapyForDepression: false,
   hasSafetyPlan: true,
@@ -226,5 +227,5 @@ export const alan = {
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T20:01:01.739Z",
+  updatedAt: "2026-10-28T20:16:55.153Z",
 } as const satisfies Person
