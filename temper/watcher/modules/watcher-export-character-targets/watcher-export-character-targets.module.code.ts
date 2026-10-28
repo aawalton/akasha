@@ -6,6 +6,15 @@ import {
 } from "akasha/temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import {
+  type CharacterTarget,
+  TARGET_DISCIPLINES,
+  type TargetBarSlot,
+  type TargetDiscipline,
+  type TargetDisciplineKey,
+  type TargetGear,
+  type TargetStar,
+} from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
 import type {
   ArmorSlotItem,
   JewelrySlotItem,
@@ -34,64 +43,19 @@ import {
 
 const ROWS_PER_READ = 1000
 
-const DISCIPLINES = ["warfare", "fitness", "craft"] as const
-
-type DisciplineKey = (typeof DISCIPLINES)[number]
-
 const BAR_SLOTS = ["active-1", "active-2", "active-3", "active-4", "active-5", "ultimate"] as const
 
-interface NamedStar {
-  readonly id: number
-  readonly name: string
-}
+const NO_STAR: TargetStar = { id: 0, name: "" }
 
-interface TargetDiscipline {
-  readonly discipline: DisciplineKey
-  readonly slotted: readonly NamedStar[]
-  readonly stars: readonly NamedStar[]
-}
-
-interface TargetBarSlot {
-  readonly name: string
-  readonly abilityId: number
-}
-
-interface TargetGear {
-  readonly slot: string
-  readonly setId: number
-  readonly setName: string
-  readonly trait: number
-  readonly traitName: string
-}
-
-export interface CharacterTarget {
-  readonly title: string
-  readonly attributes: {
-    readonly health: number
-    readonly magicka: number
-    readonly stamina: number
-  }
-  readonly champion: readonly TargetDiscipline[]
-  readonly bars: {
-    readonly primary: readonly TargetBarSlot[]
-    readonly backup: readonly TargetBarSlot[]
-  }
-  readonly mundus?: { readonly name: string; readonly abilityId: number }
-  readonly food?: { readonly name: string; readonly abilityId: number; readonly itemId: number }
-  readonly gear: readonly TargetGear[]
-}
-
-const NO_STAR: NamedStar = { id: 0, name: "" }
-
-function starOf(starId: string): NamedStar {
+function starOf(starId: string): TargetStar {
   const star = championPoints.data[starId as keyof typeof championPoints.data]
   if (star === undefined || star.esoChampionSkillId === 0) return NO_STAR
   return { id: star.esoChampionSkillId, name: star.name }
 }
 
-function disciplineOf(build: CharacterState, discipline: DisciplineKey): TargetDiscipline {
+function disciplineOf(build: CharacterState, discipline: TargetDisciplineKey): TargetDiscipline {
   const held = build.championPoints[discipline]
-  const stars: NamedStar[] = []
+  const stars: TargetStar[] = []
   const seen = new Set<number>()
   for (const starId of [...held.slotted, ...held.passive]) {
     const star = starOf(starId)
@@ -173,7 +137,7 @@ export function characterTargetOf(build: CharacterState, title: string): Charact
   return {
     title,
     attributes: { ...build.character.attributes },
-    champion: DISCIPLINES.map((discipline) => disciplineOf(build, discipline)),
+    champion: TARGET_DISCIPLINES.map((discipline) => disciplineOf(build, discipline)),
     bars: {
       primary: barOf(build.skills["primary-skill-bar"]),
       backup: barOf(build.skills["backup-skill-bar"]),
