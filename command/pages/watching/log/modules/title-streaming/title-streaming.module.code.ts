@@ -14,7 +14,7 @@ import {
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
-export type Streamed = {
+type Streamed = {
   readonly values: Readonly<Record<string, unknown>>
   readonly clears: readonly string[]
   readonly pages: readonly Naming[]
