@@ -8,7 +8,6 @@ export const awenStoryClone = {
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
-    { statement: "A clone names its own game master, so the seats it starts are its own." },
     {
       statement: "One command removes a clone together with every seat that clone started.",
     },
@@ -18,5 +17,5 @@ export const awenStoryClone = {
     "A clone is played only by agents testing the engine, never offered to Alan.",
   ],
   createdAt: "2026-10-27T21:04:25.583Z",
-  updatedAt: "2026-10-27T21:42:00.317Z",
+  updatedAt: "2026-10-28T01:26:07.478Z",
 } as const satisfies Initiative
