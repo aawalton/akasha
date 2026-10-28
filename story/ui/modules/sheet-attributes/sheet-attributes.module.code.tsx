@@ -14,7 +14,7 @@ const ATTRIBUTES = "Attributes"
 
 const NO_GROUPS: readonly AttributeGroup[] = []
 
-const ACROSS_PANEL = "min-[520px]:w-full min-[520px]:min-w-0"
+const ACROSS_PANEL = "min-[520px]:w-full! min-[520px]:min-w-0!"
 
 const COUNT = "font-mono font-semibold text-accent text-sm tabular-nums"
 
