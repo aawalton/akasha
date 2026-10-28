@@ -7,7 +7,7 @@ export const animeUnfinished = {
   title: "Unfinished",
   nav: "nav/anime",
   pageType: "page-type/fandom",
-  viewPlace: 0,
+  viewPlace: 1,
   layout: "table",
   narrows: [
     {
@@ -31,5 +31,5 @@ export const animeUnfinished = {
     "parts-streaming-on",
   ],
   createdAt: "2026-10-28T18:43:46.517Z",
-  updatedAt: "2026-10-28T19:58:56.227Z",
+  updatedAt: "2026-10-28T20:46:17.635Z",
 } as const satisfies View
