@@ -11,9 +11,15 @@ export const angelBeats = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "42942", externalLink: "https://www.themoviedb.org/tv/42942" },
+    {
+      source: "tmdb",
+      externalId: "42942",
+      externalLink: "https://www.themoviedb.org/tv/42942",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Angel Beats!",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:54:36.961Z",
-  updatedAt: "2026-10-28T18:54:36.961Z",
+  updatedAt: "2026-10-28T19:43:24.118Z",
 } as const satisfies Show
