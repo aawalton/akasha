@@ -10,6 +10,7 @@ import {
 import {
   circuitStep,
   startsAtStorage,
+  surveyStops,
 } from "akasha/temper/addon/pages/items/modules/inventory-house-travel/modules/inventory-house-circuit/inventory-house-circuit.module.code.ts"
 import { planVenueSteps } from "akasha/temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"
 import {
@@ -248,4 +249,27 @@ function beginCircuit(
 export function travelToNextInventoryHouse(this: void): undefined {
   if (circuit !== undefined) return endCircuit("cancelled")
   beginCircuit("Circuit", houseStopsNow, "no house stop left in the plan")
+}
+
+function ownedHouses(): number[] {
+  if (TemperHouses.GetNumPurchasedHouses() === 0) TemperHouses.CreateHouseList()
+  const owned: number[] = []
+  for (const key of Object.keys(TemperHouses.purchasedHouses)) {
+    const houseId = tonumber(key)
+    if (houseId !== undefined) owned.push(GetCollectibleIdForHouse(houseId))
+  }
+  return owned
+}
+
+function surveyStopsNow(): readonly HouseStop[] {
+  const locations = getDatabase().locations
+  return surveyStops(
+    ownedHouses(),
+    (collectibleId) => houseLocationKeyFor(collectibleId, locations) !== undefined
+  )
+}
+
+export function surveyOwnedHouses(this: void): undefined {
+  if (circuit !== undefined) return endCircuit("cancelled")
+  beginCircuit("House scan", surveyStopsNow, "every house you own is scanned already")
 }

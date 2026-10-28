@@ -29,6 +29,14 @@ export const inventoryHouseCircuit = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A survey stops at every owned house no scan has recorded, by collectible id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A survey has no storage stop and no stop to place in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A circuit ends where no house stop is left.",
     },
     {
@@ -42,5 +50,5 @@ export const inventoryHouseCircuit = {
     },
   ],
   createdAt: "2026-10-28T21:51:40.159Z",
-  updatedAt: "2026-10-28T21:51:40.159Z",
+  updatedAt: "2026-10-28T22:23:09.715Z",
 } as const satisfies Module

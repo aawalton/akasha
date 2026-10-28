@@ -10,6 +10,7 @@ import {
   type CircuitStep,
   circuitStep,
   startsAtStorage,
+  surveyStops,
 } from "akasha/temper/addon/pages/items/modules/inventory-house-travel/modules/inventory-house-circuit/inventory-house-circuit.module.code.ts"
 
 const VILLA = 5462
@@ -132,6 +133,46 @@ describe("A circuit's next stop is the first at a house other than the one the c
       stop: { collectibleId: TOWER },
     })
     expect(circuitStep(stopsIn(world), TOWER, [], false)).toEqual({ kind: "done" })
+  })
+})
+
+describe("A survey stops at every owned house no scan has recorded, by collectible id.", () => {
+  test("a survey ports through the unscanned houses in id order and is done", () => {
+    const scanned = new Set([LIGHTHOUSE])
+    const owned = [TOWER, VILLA, LIGHTHOUSE, MANOR]
+    const ported: number[] = []
+    const lines: string[] = []
+    let here: number | undefined
+    for (let guard = 0; guard < 10; guard++) {
+      const step = circuitStep(
+        surveyStops(owned, (id) => scanned.has(id)),
+        here,
+        ported,
+        false
+      )
+      lines.push(
+        step.kind === "port"
+          ? `${step.number} of ${step.total} ${step.stop.collectibleId}`
+          : step.kind
+      )
+      if (step.kind !== "port") break
+      here = step.stop.collectibleId
+      ported.push(here)
+      scanned.add(here)
+    }
+    expect(lines).toEqual([`1 of 3 ${MANOR}`, `2 of 3 ${VILLA}`, `3 of 3 ${TOWER}`, "done"])
+  })
+
+  test("a survey of houses all scanned already has nothing to do", () => {
+    expect(surveyStops([TOWER, MANOR], () => true)).toEqual([])
+  })
+})
+
+describe("A survey has no storage stop and no stop to place in.", () => {
+  test("every survey stop is a scan", () => {
+    const stops = surveyStops([TOWER, VILLA], () => false)
+    expect(stops.map((stop) => stop.reason.kind)).toEqual(["scan", "scan"])
+    expect(startsAtStorage(stops, VILLA)).toBe(false)
   })
 })
 

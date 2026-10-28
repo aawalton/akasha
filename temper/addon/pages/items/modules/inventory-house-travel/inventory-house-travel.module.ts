@@ -14,6 +14,19 @@ export const inventoryHouseTravel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A chat command starts a survey of every owned house, on the circuit's own runner.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The houses a survey visits are the ones `temper-housing` lists as bought.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A survey's scan records each house's placed furniture against its limits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A circuit ports on only once placing and the paced storage moves have ended.",
     },
     {
@@ -71,5 +84,5 @@ export const inventoryHouseTravel = {
     },
   ],
   createdAt: "2026-10-28T20:59:53.762Z",
-  updatedAt: "2026-10-28T21:51:40.159Z",
+  updatedAt: "2026-10-28T22:23:09.715Z",
 } as const satisfies Module

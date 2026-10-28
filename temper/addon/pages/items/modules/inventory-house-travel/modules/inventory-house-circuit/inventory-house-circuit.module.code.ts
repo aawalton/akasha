@@ -11,6 +11,16 @@ export type CircuitStep =
   | { readonly kind: "repeat"; readonly stop: HouseStop }
   | { readonly kind: "done" }
 
+export function surveyStops(
+  owned: readonly number[],
+  scanned: (collectibleId: number) => boolean
+): HouseStop[] {
+  return [...owned]
+    .sort((one, two) => one - two)
+    .filter((collectibleId) => !scanned(collectibleId))
+    .map((collectibleId): HouseStop => ({ collectibleId, reason: { kind: "scan" } }))
+}
+
 export function startsAtStorage(stops: readonly HouseStop[], here: number | undefined): boolean {
   return stops.some((stop) => stop.collectibleId === here && stop.reason.kind === "storage")
 }

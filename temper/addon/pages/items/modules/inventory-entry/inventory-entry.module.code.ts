@@ -23,7 +23,10 @@ import { registerEquipmentLockOverlay } from "akasha/temper/addon/pages/items/mo
 import { registerInventoryEvents } from "akasha/temper/addon/pages/items/modules/inventory-events/inventory-events.module.code.ts"
 import { onTemperItemsSubcommand } from "akasha/temper/addon/pages/items/modules/inventory-explain-slash-command/inventory-explain-slash-command.module.code.ts"
 import { initializeFilterBar } from "akasha/temper/addon/pages/items/modules/inventory-filter-bar-init/inventory-filter-bar-init.module.code.ts"
-import { travelToNextInventoryHouse } from "akasha/temper/addon/pages/items/modules/inventory-house-travel/inventory-house-travel.module.code.ts"
+import {
+  surveyOwnedHouses,
+  travelToNextInventoryHouse,
+} from "akasha/temper/addon/pages/items/modules/inventory-house-travel/inventory-house-travel.module.code.ts"
 import { registerHudFields } from "akasha/temper/addon/pages/items/modules/inventory-hud-fields/inventory-hud-fields.module.code.ts"
 import { pruneConfirmedVerdicts } from "akasha/temper/addon/pages/items/modules/inventory-item-rule-verdict-store/inventory-item-rule-verdict-store.module.code.ts"
 import { registerLocationTooltip } from "akasha/temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"
@@ -127,6 +130,10 @@ function initialize(): undefined {
     travelToNextInventoryHouse()
   }
 
+  SLASH_COMMANDS["/temperhousescan"] = function (this: void): undefined {
+    surveyOwnedHouses()
+  }
+
   SLASH_COMMANDS["/temperrules"] = onTemperRulesCommand
 
   SLASH_COMMANDS["/temperbrowse"] = function (this: void): undefined {
@@ -150,6 +157,7 @@ function initialize(): undefined {
     { name: "/temperrepack", description: "Repack the guild bank" },
     { name: "/temperplan", description: "Print pending inventory actions" },
     { name: "/temperhouse", description: "Start or cancel the inventory house circuit" },
+    { name: "/temperhousescan", description: "Start or cancel a scan of every house you own" },
     { name: "/temperrules", description: "Manage inventory rules" },
     { name: "/temperbrowse", description: "Toggle the inventory browser" },
     { name: "/tempermwprobe", description: "Probe master writs" },
