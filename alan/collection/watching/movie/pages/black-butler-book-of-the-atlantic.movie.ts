@@ -15,9 +15,11 @@ export const blackButlerBookOfTheAtlantic = {
       source: "tmdb",
       externalId: "432131",
       externalLink: "https://www.themoviedb.org/movie/432131",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Black Butler: Book of the Atlantic",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:49:36.669Z",
-  updatedAt: "2026-10-28T18:49:36.669Z",
+  updatedAt: "2026-10-28T19:46:43.550Z",
 } as const satisfies Movie
