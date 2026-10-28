@@ -172,7 +172,7 @@ function makingOf(row: Row | undefined): string | null {
   })
 }
 
-export function beatsAdded(body: string, beat: Readonly<Record<string, unknown>>): string {
+function beatsAdded(body: string, beat: Readonly<Record<string, unknown>>): string {
   const held = body.trimEnd()
   return `${held === "" ? "" : `${held}${BREAK}`}${JSON.stringify(beat)}${BREAK}`
 }
