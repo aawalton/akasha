@@ -126,7 +126,7 @@ export function SidebarColumn({
   return (
     <aside
       aria-label={label}
-      className={cn(SIDEBAR, side === "left" ? SIDEBAR_LEFT : SIDEBAR_RIGHT, surfaceClass(1))}
+      className={cn(SIDEBAR, side === "left" ? SIDEBAR_LEFT : SIDEBAR_RIGHT, surfaceClass(0))}
       style={{ width }}
     >
       <div className={BODY}>{children}</div>

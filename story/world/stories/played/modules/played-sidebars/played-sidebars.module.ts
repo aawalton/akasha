@@ -65,7 +65,11 @@ export const playedSidebars = {
       decisionKind: "decision-kind/departure",
       statement: "The places open beside the turns are kept in the browser for the next visit.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The column of turns sits one surface level above the page and the sidebars.",
+    },
   ],
   createdAt: "2026-10-27T18:38:10.173Z",
-  updatedAt: "2026-10-28T14:44:14.880Z",
+  updatedAt: "2026-10-28T18:08:38.704Z",
 } as const satisfies Module
