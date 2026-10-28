@@ -11,9 +11,21 @@ export const theRisingOfTheShieldHero = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "83095", externalLink: "https://www.themoviedb.org/tv/83095" },
+    {
+      source: "tmdb",
+      externalId: "83095",
+      externalLink: "https://www.themoviedb.org/tv/83095",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "The Rising of the Shield Hero",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+  ],
   createdAt: "2026-10-28T18:55:16.450Z",
-  updatedAt: "2026-10-28T18:55:16.450Z",
+  updatedAt: "2026-10-28T19:46:27.237Z",
 } as const satisfies Show
