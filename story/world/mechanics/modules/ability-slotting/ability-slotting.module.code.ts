@@ -44,6 +44,11 @@ export function lastTierStep(tierSteps: readonly number[], experience: number): 
     .reduce((most, step) => Math.max(most, step), 0)
 }
 
+export function nextTierStep(tierSteps: readonly number[], experience: number): number | null {
+  const ahead = tierSteps.filter((step) => experience < step)
+  return ahead.length === 0 ? null : Math.min(...ahead)
+}
+
 export function completed(one: Holding): boolean {
   const last = one.tierSteps.at(-1)
   return last !== undefined && one.experience >= last

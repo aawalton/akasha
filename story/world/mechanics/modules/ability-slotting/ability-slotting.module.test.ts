@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   completed,
   type Holding,
+  nextTierStep,
   type SlotKind,
   slotsHeld,
   slotted,
@@ -134,4 +135,12 @@ test("an ability whose kind states no slots is used rather than set aside", () =
   expect(slotted(holding("muffled-steps", { kind: null }), null, [], "set-aside")).toHaveProperty(
     "refused"
   )
+})
+
+test("the next tier step is the first step not yet reached, and none once all are passed", () => {
+  expect(nextTierStep(BASIC, 27)).toBe(50)
+  expect(nextTierStep(BASIC, 25)).toBe(50)
+  expect(nextTierStep(BASIC, 0)).toBe(10)
+  expect(nextTierStep(BASIC, 10000)).toBeNull()
+  expect(nextTierStep([], 108)).toBeNull()
 })
