@@ -37,11 +37,26 @@ export const houseDestination = {
         "A house with no known room is not yet scanned, which is told apart from a house that is full.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Stacks are allotted houses smallest first, each the first house in its chain with room.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An allotment spends a house's room, so the stacks it takes never pass the room recorded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stack allotted a house finds that house when judged alone, so it never goes back.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "A furnishing read before its limit type was recorded counts as a traditional item.",
     },
   ],
   createdAt: "2026-10-28T19:42:44.161Z",
-  updatedAt: "2026-10-28T19:42:44.161Z",
+  updatedAt: "2026-10-28T20:32:00.592Z",
 } as const satisfies Module

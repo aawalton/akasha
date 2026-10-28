@@ -49,6 +49,50 @@ export function houseRoomFor(
   return Math.max(0, limit.limit - limit.placed)
 }
 
+export type HouseRoom = (collectibleId: number, limitType: number) => number | undefined
+
+export function roomsIn(locations: Readonly<Record<string, HousedLocation>>): HouseRoom {
+  return (collectibleId, limitType) => {
+    const key = houseLocationKeyFor(collectibleId, locations)
+    return houseRoomFor(key === undefined ? undefined : locations[key], limitType)
+  }
+}
+
+export interface HouseBound {
+  readonly chain: DestinationChain | undefined
+  readonly limitType: number
+  readonly units: number
+}
+
+export interface HouseAllotment<T extends HouseBound> {
+  readonly bound: T
+  readonly collectibleId: number
+}
+
+export function allotHouses<T extends HouseBound>(
+  candidates: readonly T[],
+  roomOf: HouseRoom
+): readonly HouseAllotment<T>[] {
+  const taken = new Map<string, number>()
+  const allotted: HouseAllotment<T>[] = []
+  const bySize = [...candidates].sort((one, two) => one.units - two.units)
+  for (const bound of bySize) {
+    for (const collectibleId of chainHouses(bound.chain)) {
+      const key = `${collectibleId}:${bound.limitType}`
+      const room = taken.get(key) ?? roomOf(collectibleId, bound.limitType)
+      if (room === undefined || room < bound.units) continue
+      taken.set(key, room - bound.units)
+      allotted.push({ bound, collectibleId })
+      break
+    }
+  }
+  return allotted
+}
+
+export function firstHouseWithRoom(bound: HouseBound, roomOf: HouseRoom): number | undefined {
+  return allotHouses([bound], roomOf)[0]?.collectibleId
+}
+
 export function furnishingLimitTypeOf(item: { readonly furnishingLimitType?: number }): number {
   return item.furnishingLimitType ?? TRADITIONAL_ITEM_LIMIT_TYPE
 }

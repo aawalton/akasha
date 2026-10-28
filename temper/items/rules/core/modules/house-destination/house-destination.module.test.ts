@@ -1,11 +1,14 @@
 import { expect, test } from "bun:test"
 import {
+  allotHouses,
   chainHouses,
+  firstHouseWithRoom,
   furnishingLimitTypeOf,
   houseDestinationOf,
   houseLocationKeyFor,
   houseRoomFor,
   houseTarget,
+  roomsIn,
 } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 
 const SNUGPOD = {
@@ -51,6 +54,55 @@ test("a house's room is its limit less the count placed, never below none", () =
 test("a house never scanned for its limits has no known room", () => {
   expect(houseRoomFor({ displayName: "Snugpod" }, 0)).toBeUndefined()
   expect(houseRoomFor(undefined, 0)).toBeUndefined()
+})
+
+const GALLERY_CHAIN = [
+  { destination: "house:1072" as const },
+  { destination: "house:8353" as const },
+  { destination: "furniture-vault" as const },
+]
+
+const LOCATIONS = {
+  "House:Snugpod": SNUGPOD,
+  "House:Alpine": {
+    displayName: "Antiquarian's Alpine Gallery",
+    house: { collectibleId: 8353, houseId: 60, furnishingLimits: { 0: { limit: 4, placed: 0 } } },
+  },
+}
+
+function bound(name: string, units: number, limitType = 0) {
+  return { name, chain: GALLERY_CHAIN, limitType, units }
+}
+
+test("houses are allotted no more than the room their last scan recorded, smallest stacks first", () => {
+  const candidates = [bound("six", 6), bound("one", 1), bound("three", 3), bound("four", 4)]
+  const allotted = allotHouses(candidates, roomsIn(LOCATIONS))
+  expect(allotted.map((one) => [one.bound.name, one.collectibleId])).toEqual([
+    ["one", 1072],
+    ["three", 1072],
+    ["four", 1072],
+  ])
+})
+
+test("a stack too big for what is left of every house is allotted none", () => {
+  const candidates = [bound("one", 1), bound("three", 3), bound("four", 4), bound("five", 5)]
+  const allotted = allotHouses(candidates, roomsIn(LOCATIONS))
+  expect(allotted.map((one) => one.bound.name)).toEqual(["one", "three", "four"])
+})
+
+test("a house never scanned is allotted nothing", () => {
+  const unscanned = [
+    { name: "one", chain: [{ destination: "house:9999" as const }], limitType: 0, units: 1 },
+  ]
+  expect(allotHouses(unscanned, roomsIn(LOCATIONS))).toEqual([])
+})
+
+test("a stack allotted a house resolves to a house, so nothing sends it back to the vault", () => {
+  const roomOf = roomsIn(LOCATIONS)
+  for (const one of allotHouses([bound("one", 1), bound("three", 3), bound("four", 4)], roomOf)) {
+    expect(firstHouseWithRoom(one.bound, roomOf)).toBeDefined()
+  }
+  expect(firstHouseWithRoom(bound("twenty", 20), roomOf)).toBeUndefined()
 })
 
 test("a furnishing read with no limit type counts as a traditional item", () => {
