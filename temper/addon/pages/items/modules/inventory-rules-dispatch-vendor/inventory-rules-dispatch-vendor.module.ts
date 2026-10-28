@@ -6,6 +6,7 @@ export const inventoryRulesDispatchVendor = {
   slug: "inventory-rules-dispatch-vendor",
   definition: "selling, fencing and laundering items at a store by rule",
   code: "ts",
+  parts: ["module/inventory-stock-sale"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -33,7 +34,11 @@ export const inventoryRulesDispatchVendor = {
       decisionKind: "decision-kind/departure",
       statement: "Closing the vendor stops what was left unsent and says so in chat.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A merchant also sells what `inventory-stock-sale` names, and only that much.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.858Z",
-  updatedAt: "2026-09-27T15:10:14.000Z",
+  updatedAt: "2026-10-28T21:27:16.724Z",
 } as const satisfies Module

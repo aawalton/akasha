@@ -25,7 +25,12 @@ export const inventoryStockDepositDecision = {
       decisionKind: "decision-kind/departure",
       statement: "A tier with no quantity takes the whole of what is offered.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A holder sells only what its own stock, a capped tier's room and the hand-off leave.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.860Z",
-  updatedAt: "2026-09-24T18:49:52.000Z",
+  updatedAt: "2026-10-28T21:27:16.724Z",
 } as const satisfies Module

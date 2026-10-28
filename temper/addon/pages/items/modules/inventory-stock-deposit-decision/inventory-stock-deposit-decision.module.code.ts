@@ -14,6 +14,17 @@ export function stockHandOff(fillTarget: number, heldByOthers: readonly number[]
   return handOff
 }
 
+interface StockTierSaleInput {
+  readonly backpackCount: number
+  readonly selfTarget: number
+  readonly tierRoom: number
+  readonly handOff: number
+}
+
+export function computeStockTierSale(input: StockTierSaleInput): number {
+  return Math.max(0, input.backpackCount - input.selfTarget - input.tierRoom - input.handOff)
+}
+
 export function computeStockTierDeposit(input: StockTierDepositInput): number {
   const excess = Math.max(0, input.backpackCount - input.selfTarget - input.alreadyDispatched)
   let allowed = excess

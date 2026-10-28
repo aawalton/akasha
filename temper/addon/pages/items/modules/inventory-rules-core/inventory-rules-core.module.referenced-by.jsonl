@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-unlock/inventory-rules-dispatch-unlock.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/modules/inventory-stock-sale/inventory-stock-sale.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts","typed":false,"deferred":false}

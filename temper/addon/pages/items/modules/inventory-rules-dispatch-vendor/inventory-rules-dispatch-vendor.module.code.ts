@@ -15,6 +15,7 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import { isVendorCrossCharDestination } from "akasha/temper/addon/pages/items/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
 import { dispatchBuyShortfall } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.code.ts"
+import { stockSaleTargets } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/modules/inventory-stock-sale/inventory-stock-sale.module.code.ts"
 import { runPaced } from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -86,7 +87,8 @@ export function onOpenStore(): undefined {
     link: string
     ruleIndex: number
     stackCount: number
-  }[] = []
+    sellCount?: number
+  }[] = stockSaleTargets(tostring(GetCurrentCharacterId()))
   forEachPendingAction(function (this: void, bagId, slotIndex, action, destination): undefined {
     if (action !== "sell") return
     if (isVendorCrossCharDestination(destination)) return
@@ -140,8 +142,9 @@ export function onOpenStore(): undefined {
       "Sold",
       sold,
       function (this: void, t, stackCount): boolean {
-        SellInventoryItem(t.bagId, t.slotIndex, stackCount)
-        clearPendingAction(t.bagId, t.slotIndex)
+        const sold = math.min(stackCount, t.sellCount ?? stackCount)
+        SellInventoryItem(t.bagId, t.slotIndex, sold)
+        if (sold === stackCount) clearPendingAction(t.bagId, t.slotIndex)
         return true
       },
       function (this: void): boolean {

@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import {
   computeStockTierDeposit,
+  computeStockTierSale,
   type StockTierDepositInput,
   stockHandOff,
 } from "akasha/temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
@@ -83,5 +84,30 @@ describe("inventory-stock-deposit-decision", () => {
       handOff: 0,
     })
     expect(moved).toEqual([200, 100, 0])
+  })
+})
+
+describe("A holder sells only what its own stock, a capped tier's room and the hand-off leave.", () => {
+  test("a holder of 15000 empty soul gems keeps 200, the bank's 200 and 4000 for others", () => {
+    expect(
+      computeStockTierSale({
+        backpackCount: 15000,
+        selfTarget: 200,
+        tierRoom: 200,
+        handOff: 20 * 200,
+      })
+    ).toBe(10600)
+  })
+
+  test("a holder sells nothing while the others are short of more than it holds over", () => {
+    expect(
+      computeStockTierSale({ backpackCount: 500, selfTarget: 200, tierRoom: 200, handOff: 400 })
+    ).toBe(0)
+  })
+
+  test("once the bank holds its count and every other character is stocked, all past 200 sells", () => {
+    expect(
+      computeStockTierSale({ backpackCount: 10800, selfTarget: 200, tierRoom: 0, handOff: 0 })
+    ).toBe(10600)
   })
 })
