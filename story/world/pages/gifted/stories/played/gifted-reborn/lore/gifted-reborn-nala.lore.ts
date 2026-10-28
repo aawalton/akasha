@@ -157,7 +157,11 @@ export const giftedRebornNala = {
       fact: "The Status words stay in her mind after reading, and its unspent stats are hers to place.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Counting in her head opens her Path of Basic Numeracy, a Basic Path that trains Mental.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:20:07.916Z",
+  updatedAt: "2026-10-28T00:34:09.148Z",
 } as const satisfies Lore
