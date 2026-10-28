@@ -15,9 +15,8 @@ import {
 import type { AddonItemAction } from "akasha/temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
+  houseLocationKeyFor,
   houseTarget,
-  roomsIn,
-  TRADITIONAL_ITEM_LIMIT_TYPE,
 } from "akasha/temper/items/rules/core/modules/house-destination/house-destination.module.code.ts"
 import { storageCarrierOf } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -70,13 +69,12 @@ function houseStopsNow(): readonly HouseStop[] | undefined {
   const steps = planVenueSteps()
   if (compiled === undefined || steps === undefined) return undefined
   const locations = getDatabase().locations
-  const roomOf = roomsIn(locations)
   const carrier = storageCarrierOf(compiled.characterPriority)
   const stops = houseStopsOf({
     storageSteps: steps,
     houseOfVenue: (venue) => houseOfStorageVenue(venue, locations),
     rules: compiled.orderedRules,
-    scanned: (collectibleId) => roomOf(collectibleId, TRADITIONAL_ITEM_LIMIT_TYPE) !== undefined,
+    scanned: (collectibleId) => houseLocationKeyFor(collectibleId, locations) !== undefined,
     carried: carriedFurnishings(),
     carriesHouses: carrier === undefined || carrier === tostring(GetCurrentCharacterId()),
   })

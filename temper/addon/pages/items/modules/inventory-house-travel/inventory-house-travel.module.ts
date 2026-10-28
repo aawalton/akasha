@@ -26,8 +26,11 @@ export const inventoryHouseTravel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A house counts as scanned where its last scan recorded room for traditional items.",
+      statement: "A house counts as scanned once the addon's own saved database holds its house.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A house scanned on entering is known to the next press, before any save.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,5 +42,5 @@ export const inventoryHouseTravel = {
     },
   ],
   createdAt: "2026-10-28T20:59:53.762Z",
-  updatedAt: "2026-10-28T20:59:53.762Z",
+  updatedAt: "2026-10-28T21:34:16.134Z",
 } as const satisfies Module
