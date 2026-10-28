@@ -1,4 +1,4 @@
 {"beat":1,"event":"The player looks along the hall's walls for a shelf of lamps.","prose":"You look past him, along the hall's walls, for a shelf of lamps.","at":"2026-11-13T12:01:00.000Z","changes":[],"memory":[],"pictured":[]}
 {"beat":2,"event":"There is no shelf here: only the stone floor, the hearth and the notice board.","prose":"There is no shelf on them, only the hearth and the notice board.","continues":true,"changes":[],"memory":[],"pictured":[]}
 {"beat":3,"event":"The only lamps on a shelf that the player has seen are back in the shop across the square.","prose":"The shelf of lamps you remember is in the shop across the square.","continues":true,"changes":[]}
-{"beat":4,"event":"The carter is still standing inside the door, waiting on an answer about his load.","at":"2026-11-13T12:02:00.000Z"}
+{"beat":4,"event":"The carter is still standing inside the door, waiting on an answer about his load.","at":"2026-11-13T12:02:00.000Z","changes":[]}
