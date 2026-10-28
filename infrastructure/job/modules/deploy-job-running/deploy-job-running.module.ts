@@ -52,7 +52,11 @@ export const deployJobRunning = {
       decisionKind: "decision-kind/departure",
       statement: "The commit the subject was last deployed at is read before the job is composed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the caller hands the job reaches the job as the caller said it.",
+    },
   ],
-  updatedAt: "2026-10-24T23:25:30.130Z",
+  updatedAt: "2026-10-28T18:09:12.032Z",
   createdAt: "2026-09-14T17:41:48.445Z",
 } as const satisfies Module

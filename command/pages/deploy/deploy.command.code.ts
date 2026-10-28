@@ -22,6 +22,7 @@ import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.c
 import {
   allowedThrough,
   setAside,
+  uncounted,
 } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { deploy as page } from "akasha/command/pages/deploy/deploy.command.ts"
 import {
@@ -78,6 +79,10 @@ import {
   WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
+import {
+  handedSaid,
+  verdictAsked,
+} from "akasha/command/pages/deploy/modules/tests-verdict/deploy-tests-verdict.module.code.ts"
 import { pinnedTree } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import {
   foundIn,
@@ -171,8 +176,14 @@ export type Waiting = (kind: string) => Promise<undefined>
 
 export type Dispatching = (root: string, subject: string, commit: string) => Ended | Promise<Ended>
 
-const deployedInCluster: Dispatching = (root, subject, commit) =>
-  ranInCluster(root, root, subject, commit)
+const CALLED = `akasha ${page.name}`
+
+const deployedInCluster: Dispatching = async (root, subject, commit) => {
+  const taken = await uncounted(page.maxWallSeconds, CALLED, () => verdictAsked(root, commit))
+  if ("broken" in taken) return { why: taken.broken }
+  const handed = handedSaid(taken.verdict)
+  return await ranInCluster(root, root, subject, commit, undefined, undefined, undefined, handed)
+}
 
 export function sentToCluster(kind: string, slug: string): boolean {
   return RUN_IN_CLUSTER.has(kind) && slug !== pageForwarder.slug && !inCluster()

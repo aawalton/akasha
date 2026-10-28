@@ -33,6 +33,7 @@ export const deploy = {
     "module/deploy-kind-putting",
     "module/deploy-detaching",
     "module/deploy-unchanged",
+    "module/deploy-tests-verdict",
   ],
   decisions: [
     {
@@ -393,10 +394,6 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run in the cluster is known by what the pod states in its environment.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "What the run in the cluster said is what a deploy sent there reports.",
     },
     {
@@ -414,5 +411,5 @@ export const deploy = {
     { argument: "argument/device", notWith: ["argument/simulator"] },
   ],
   createdAt: "2026-09-01T03:15:54.902Z",
-  updatedAt: "2026-10-24T23:19:26.747Z",
+  updatedAt: "2026-10-28T18:09:12.032Z",
 } as const satisfies Command

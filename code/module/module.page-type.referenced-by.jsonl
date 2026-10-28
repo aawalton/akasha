@@ -1370,6 +1370,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/kind-putting/deploy-kind-putting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/tests-verdict/deploy-tests-verdict.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/unchanged/deploy-unchanged.module.ts","typed":true,"deferred":false}

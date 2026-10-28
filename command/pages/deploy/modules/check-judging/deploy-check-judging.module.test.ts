@@ -10,6 +10,7 @@ import {
   saidOfNoGate,
   saidOfUnproven,
   sinceCommit,
+  testedIn,
 } from "akasha/command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
 import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
@@ -103,6 +104,15 @@ test("a file renamed away is judged where it was, in a change that moves nothing
   } finally {
     rmSync(root, { recursive: true, force: true })
   }
+})
+
+test("a clean verdict refuses nothing the deploy judges", () => {
+  expect(testedIn(NAMED, { commit: "HEAD", refusals: [] })).toEqual([])
+})
+
+test("a refusal of a test the deploy would not run refuses nothing", () => {
+  const verdict = { commit: "HEAD", refusals: ["elsewhere/elsewhere.module.test.ts — failed"] }
+  expect(testedIn(NAMED, verdict)).toEqual([])
 })
 
 test("a commit git no longer holds is read as no commit", () => {

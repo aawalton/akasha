@@ -35,6 +35,12 @@ test("the commit the subject was last deployed at is fetched beside the one bein
   expect(said.indexOf(`origin ${WAS}`)).toBeLessThan(said.indexOf(`checkout -q --detach ${COMMIT}`))
 })
 
+test("what the job is handed is set before the deploy it runs", () => {
+  const said = scriptFor(ROOT, SUBJECT, COMMIT, null, "HANDED='one' ")
+  expect(said).toContain(`HANDED='one' bun `)
+  expect(said.indexOf("HANDED='one'")).toBeLessThan(said.indexOf(`${SUBJECT} --ref ${COMMIT}`))
+})
+
 test("a deploy's job reads the history its disk keeps", () => {
   const said = jobYamlFor(ROOT, SUBJECT, COMMIT, null)
   expect(said).toContain("claimName: deploy-cache")

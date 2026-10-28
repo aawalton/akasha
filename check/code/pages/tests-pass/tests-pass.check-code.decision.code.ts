@@ -76,9 +76,15 @@ function slowedOf(one: Slowed): string {
   return `${one.path} spent ${spent} processor seconds`
 }
 
+const GIVEN_LEAD = "a test file is given "
+
+export function slowSaid(reason: string): boolean {
+  return reason.includes(GIVEN_LEAD)
+}
+
 function slowlyOf(ran: Ran): string {
   const given =
-    `a test file is given ${String(CEILING)} processor seconds and ` +
+    `${GIVEN_LEAD}${String(CEILING)} processor seconds and ` +
     `${String(WALL)} seconds on the clock`
   if (ran.slow.length === 0)
     return (

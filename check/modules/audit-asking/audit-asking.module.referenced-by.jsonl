@@ -7,4 +7,6 @@
 {"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/modules/audit-answering/audit-answering.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/pages/audit/audit.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/pages/audit/audit.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/pages/deploy/modules/tests-verdict/deploy-tests-verdict.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/pages/deploy/modules/tests-verdict/deploy-tests-verdict.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

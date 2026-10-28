@@ -91,6 +91,12 @@ test("the job is answered by the line its subject and commit say its work finish
   expect(handed).toEqual([true])
 })
 
+test("what the caller hands the job reaches the job", async () => {
+  const held = putting()
+  await ranInCluster(ROOT, ROOT, SUBJECT, COMMIT, neverDeployed, held.putting, null, "HANDED='1' ")
+  expect(held.put[0]?.yaml).toContain("HANDED='1'")
+})
+
 test("the commit the subject was last deployed at reaches the job", async () => {
   const held = putting()
   await ranInCluster(ROOT, ROOT, SUBJECT, COMMIT, deployedAt, held.putting)

@@ -45,21 +45,21 @@ export function scriptFor(
   given: string | Reading,
   subject: string,
   commit: string,
-  was: string | null
+  was: string | null,
+  handed = ""
 ): string {
-  return [
-    ...checkedOut(commit, was),
-    `bun ${dispatcherIn(given)} ${deploy.name} ${subject} ${ref.said} ${commit} ${measured.said}`,
-  ].join("\n")
+  const run = `${deploy.name} ${subject} ${ref.said} ${commit} ${measured.said}`
+  return [...checkedOut(commit, was), `${handed}bun ${dispatcherIn(given)} ${run}`].join("\n")
 }
 
 export function jobYamlFor(
   given: string | Reading,
   subject: string,
   commit: string,
-  was: string | null
+  was: string | null,
+  handed = ""
 ): string {
-  const script = scriptFor(given, subject, commit, was)
+  const script = scriptFor(given, subject, commit, was, handed)
   const named = jobNameFor(subject, commit)
   const account = deployAccount.slug
   return yamlFor(named, script, null, account, DEADLINE_SECONDS, deployCache.slug, HELD_AT_LEAST)

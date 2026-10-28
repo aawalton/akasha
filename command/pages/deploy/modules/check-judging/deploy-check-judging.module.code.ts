@@ -7,7 +7,15 @@ import {
 import {
   carriedWith,
   heldBackIn,
+  indexOver,
 } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+import {
+  judgedFrom,
+  namedFor,
+  type Taken,
+  type Verdict,
+  verdictFor,
+} from "akasha/command/pages/deploy/modules/tests-verdict/deploy-tests-verdict.module.code.ts"
 import {
   bodyAt,
   readingEnded,
@@ -86,6 +94,8 @@ type Judgement = {
 
 const REFUSES_EVERY: ReadonlySet<string> | null = null
 
+export type VerdictOf = () => Promise<Taken>
+
 export async function judgementOf(
   root: string,
   slug: string,
@@ -93,11 +103,12 @@ export async function judgementOf(
   now: string,
   built: ReadonlySet<string>,
   proving: readonly string[],
-  closures: ReadonlyMap<string, ReadonlySet<string>> | null
+  closures: ReadonlyMap<string, ReadonlySet<string>> | null,
+  verdictOf: VerdictOf = () => verdictFor(root, now)
 ): Promise<Judgement> {
   const unproven = proving.filter((one) => !built.has(one))
   if (unproven.length > 0) return { why: [saidOfUnproven(unproven)], heldBack: REFUSES_EVERY }
-  const judging = await judgedOnDeploy(root, slug, was, now, built, proving)
+  const judging = await judgedOnDeploy(root, slug, was, now, built, proving, verdictOf)
   if ("broken" in judging) return { why: [judging.broken], heldBack: REFUSES_EVERY }
   const why = saidOf(judging.judged)
   if (why.length === 0) return { why, heldBack: new Set<string>() }
@@ -111,20 +122,32 @@ export async function judgementOf(
   }
 }
 
+export function testedIn(change: Change, verdict: Verdict): readonly Judged[] {
+  if (verdict.refusals.length === 0 || change.pages === undefined) return []
+  const there = (path: string): boolean => change.after(path) !== null
+  const named = namedFor(change.changed, there, indexOver(change.pages))
+  return judgedFrom(verdict.refusals, named)
+}
+
 async function judgedOnDeploy(
   root: string,
   slug: string,
   was: string | null,
   now: string,
   built: ReadonlySet<string>,
-  also: readonly string[] = []
+  also: readonly string[],
+  verdictOf: VerdictOf
 ): Promise<Judging> {
   try {
     const change = changeFrom(root, was, now, built, also)
     if (change.changed.length === 0) return { judged: [] }
+    const asking = verdictOf()
     const gate = await gateFor(root, AT_DEPLOY)
     if (!("gate" in gate)) return { broken: saidOfNoGate(slug, gate.broken) }
-    return { judged: blamedIn(await gate.gate.over(change)) }
+    const checked = await gate.gate.over(change)
+    const taken = await asking
+    if ("broken" in taken) return { broken: taken.broken }
+    return { judged: blamedIn([...checked, ...testedIn(change, taken.verdict)]) }
   } finally {
     readingEnded()
   }

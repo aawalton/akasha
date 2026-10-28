@@ -7,7 +7,7 @@ export const testsPass = {
   definition: "the check refusing a change whose tests do not pass",
   parts: ["module/run-naming", "module/stall-saying", "module/pinned-reading"],
   runsOnChange: true,
-  runsOnDeploy: true,
+  runsOnDeploy: false,
   runsOnAudit: true,
   decisions: [
     {
@@ -27,6 +27,11 @@ export const testsPass = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Any other test is left red rather than made input.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A deploy is judged by this check's audit verdict rather than by a run of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -388,5 +393,5 @@ export const testsPass = {
   check: {},
   audit: {},
   createdAt: "2026-08-29T18:09:42.932Z",
-  updatedAt: "2026-10-27T20:50:54.831Z",
+  updatedAt: "2026-10-28T18:09:12.032Z",
 } as const satisfies CheckCode

@@ -14,6 +14,20 @@ export const deployCheckJudging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Whether the tests pass is taken from the audit's verdict rather than run here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That verdict is asked for beside the checks, and both answer before anything is put up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A verdict that never came back refuses every service, as checks that will not load do.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The change judged is the diff from the last deploy's commit to this one.",
     },
     {
@@ -127,14 +141,9 @@ export const deployCheckJudging = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The change is pinned, so each test run and its imports are read at this commit too.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A landing after this commit moves nothing the deploy's tests read by import.",
+      statement: "The change is pinned, so each body a check reads is read at this commit too.",
     },
   ],
   createdAt: "2026-09-11T18:12:51.494Z",
-  updatedAt: "2026-10-27T20:52:36.697Z",
+  updatedAt: "2026-10-28T18:09:12.032Z",
 } as const satisfies Module

@@ -2332,6 +2332,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/kind-putting/deploy-kind-putting.module.ts","id":"01a15007-4a3d-7f6d-9f41-7daf674d1eb3"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.ts","id":"01a05f90-94a7-7fc2-9a67-8a23a3e65539"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.ts","id":"01a08e07-611c-798a-bc99-55b321247e50"}
+{"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tests-verdict/deploy-tests-verdict.module.ts","id":"01a183b3-a961-7b16-b2e9-b3a9a20d2761"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.ts","id":"01a09240-5cd6-7be1-bda8-9fe3ca8d2fe3"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.ts","id":"01a0c9aa-e537-77da-a7a4-9d0d8d08e341"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/unchanged/deploy-unchanged.module.ts","id":"01a17036-431c-75d5-8809-24d18e72bf09"}
