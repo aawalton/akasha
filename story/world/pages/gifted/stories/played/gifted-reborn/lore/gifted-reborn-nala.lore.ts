@@ -150,10 +150,6 @@ export const giftedRebornNala = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "She left her Unallocated Stats unspent, not knowing enough yet to spend them.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
-    },
-    {
       fact: "Bored in the womb, she passed the time counting in her head, on into the hundreds.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
@@ -185,7 +181,11 @@ export const giftedRebornNala = {
       fact: "The Status words stay in her mind after she has read them.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Talented sits on her Status at 100, and she doesn't yet know what it does.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T15:44:23.091Z",
+  updatedAt: "2026-10-28T15:44:30.384Z",
 } as const satisfies Lore
