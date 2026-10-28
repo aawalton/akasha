@@ -77,7 +77,11 @@ export const giftedRebornNala = {
       fact: "Cold, dark threads of the demon run all through her soul, woven in among it, and they stay.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: 'A flat voice in her, not the demon\'s or hers, said: "Status withheld. Mind too young to choose."',
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-27T23:59:49.223Z",
+  updatedAt: "2026-10-28T00:01:14.050Z",
 } as const satisfies Lore
