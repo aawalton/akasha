@@ -15,9 +15,10 @@ export const puellaMagiMadokaMagicaTheMovieWalpurgisnachtRising = {
       source: "tmdb",
       externalId: "822653",
       externalLink: "https://www.themoviedb.org/movie/822653",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
   createdAt: "2026-10-28T18:46:28.806Z",
-  updatedAt: "2026-10-28T18:46:28.806Z",
+  updatedAt: "2026-10-28T19:48:03.633Z",
 } as const satisfies Movie
