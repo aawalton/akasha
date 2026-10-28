@@ -127,6 +127,8 @@ export const alan = {
   bloodPressureCategory: "normal",
   colorectalScreening: "none",
   fluVaccination: "none",
+  nutsGramsPerDay: 28,
+  inTherapyForDepression: false,
   physicalRiskActivities: [
     { activity: "hiking", note: "occasional; always on well-marked trails" },
   ],
@@ -141,7 +143,7 @@ export const alan = {
     {
       condition: "depression",
       diagnosedBy: "self",
-      note: "episodic; present when his safety level is below 3",
+      note: "episodic; present when his safety level is below 3; tried therapy four times without finding it useful",
     },
     {
       condition: "suicidal ideation",
@@ -213,5 +215,5 @@ export const alan = {
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T19:31:21.137Z",
+  updatedAt: "2026-10-28T19:53:19.419Z",
 } as const satisfies Person
