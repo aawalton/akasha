@@ -54,14 +54,25 @@ function moveVerb(destination: string): string {
   return "deposit"
 }
 
+function fillVenue(elsewhere: boolean, inBackpack: boolean): PlanVenueSlot | undefined {
+  if (inBackpack) {
+    return elsewhere ? { venue: "bank", verb: "deposit" } : { venue: "backpack", verb: "fill" }
+  }
+  return elsewhere ? undefined : { venue: "bank", verb: "withdraw" }
+}
+
 export function classifyPendingVenue(
   action: AddonItemAction,
   destination: string | undefined,
   isStolen: boolean,
   craftBagTakes: (this: void) => boolean,
   currentCharId = "",
-  listingHeld: (this: void) => string | undefined = () => undefined
+  listingHeld: (this: void) => string | undefined = () => undefined,
+  inBackpack = true
 ): PlanVenueSlot | undefined {
+  if (action === "fill") {
+    return fillVenue(isForAnotherCharacter(destination, currentCharId), inBackpack)
+  }
   if (isVendorAction(action) && isForAnotherCharacter(destination, currentCharId)) {
     return { venue: "bank", verb: "deposit" }
   }

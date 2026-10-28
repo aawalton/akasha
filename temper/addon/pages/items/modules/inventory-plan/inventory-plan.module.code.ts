@@ -42,6 +42,7 @@ type StaticVenueKey =
   | "guild-store"
   | "companion-menu"
   | "mailbox"
+  | "backpack"
 
 const VENUE_ORDER: StaticVenueKey[] = [
   "bank",
@@ -54,6 +55,7 @@ const VENUE_ORDER: StaticVenueKey[] = [
   "guild-store",
   "companion-menu",
   "mailbox",
+  "backpack",
 ]
 
 function isStaticVenueKey(value: string): value is StaticVenueKey {
@@ -178,7 +180,8 @@ function computePlanVenues(): VenuePlan[] | undefined {
       currentCharId,
       function (this: void): string | undefined {
         return listingHoldReason(bagId, slotIndex)
-      }
+      },
+      bagId === BAG_BACKPACK
     )
     if (classified === undefined) return
     if (classified.held !== undefined) {
@@ -265,7 +268,7 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
   let totalSlots = 0
   const venues: Array<{ label: string; count: number; items: PlanItem[] }> = []
   for (const entry of plan) {
-    if (entry.venue === "crafting-station") {
+    if (entry.venue === "crafting-station" || entry.venue === "backpack") {
       for (const v of entry.verbs) {
         totalSlots += v.count
         const items = planItems(entry.slots.filter((slot) => slot.verb === v.verb))
@@ -278,7 +281,9 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
                 ? "Fillet"
                 : v.verb === "research"
                   ? "Research"
-                  : resolveVenueLabel(entry.venue)
+                  : v.verb === "fill"
+                    ? "Fill"
+                    : resolveVenueLabel(entry.venue)
         venues.push({ label, count: v.count, items })
       }
     } else if (entry.verbs.length > 0) {

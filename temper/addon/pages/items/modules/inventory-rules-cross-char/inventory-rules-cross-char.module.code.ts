@@ -18,8 +18,10 @@ export function isVendorCrossCharDestination(destination: string | undefined): b
 export function isCharacterBoundAction(
   action: AddonItemAction,
   destination: string | undefined
-): action is "use" | "research" | "deconstruct" {
-  if (action !== "use" && action !== "research" && action !== "deconstruct") return false
+): action is "use" | "research" | "deconstruct" | "fill" {
+  if (action !== "use" && action !== "research" && action !== "deconstruct" && action !== "fill") {
+    return false
+  }
   if (destination === undefined) return false
   return (
     destination.substring(0, CHARACTER_DESTINATION_PREFIX.length) === CHARACTER_DESTINATION_PREFIX

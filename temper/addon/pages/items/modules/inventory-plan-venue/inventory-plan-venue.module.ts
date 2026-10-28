@@ -26,6 +26,18 @@ export const inventoryPlanVenue = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A soul gem to fill is filled from the backpack of the character it names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A soul gem that character fills is withdrawn there at the bank first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A soul gem another character fills is deposited at the bank, and left there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A listing the guild store would skip is held, with the reason it would skip it.",
     },
     {
@@ -38,5 +50,5 @@ export const inventoryPlanVenue = {
     },
   ],
   createdAt: "2026-10-10T14:06:10.424Z",
-  updatedAt: "2026-10-10T14:27:06.302Z",
+  updatedAt: "2026-10-28T18:34:18.082Z",
 } as const satisfies Module

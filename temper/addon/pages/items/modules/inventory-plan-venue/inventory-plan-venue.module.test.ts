@@ -86,6 +86,31 @@ describe("inventory-plan-venue", () => {
     })
   })
 
+  test("a soul gem the character carries is filled from the backpack", () => {
+    expect(classifyPendingVenue("fill", "character:7", false, craftBagRefuses, "7")).toEqual({
+      venue: "backpack",
+      verb: "fill",
+    })
+  })
+
+  test("a soul gem in the bank is withdrawn by the character filling it", () => {
+    const fromBank = () => undefined
+    expect(
+      classifyPendingVenue("fill", "character:7", false, craftBagRefuses, "7", fromBank, false)
+    ).toEqual({ venue: "bank", verb: "withdraw" })
+  })
+
+  test("a soul gem another character fills is deposited, and left in the bank", () => {
+    const held = () => undefined
+    expect(classifyPendingVenue("fill", "character:9", false, craftBagRefuses, "7")).toEqual({
+      venue: "bank",
+      verb: "deposit",
+    })
+    expect(
+      classifyPendingVenue("fill", "character:9", false, craftBagRefuses, "7", held, false)
+    ).toBeUndefined()
+  })
+
   test("a fish to fillet is planned at a crafting station", () => {
     expect(classifyPendingVenue("fillet", undefined, false, craftBagRefuses)).toEqual({
       venue: "crafting-station",

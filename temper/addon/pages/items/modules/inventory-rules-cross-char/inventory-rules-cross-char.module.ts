@@ -10,9 +10,9 @@ export const inventoryRulesCrossChar = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An item used, researched or deconstructed on a named character reaches that character by the bank.",
+        "An item used, researched, deconstructed or filled on a named character reaches it by the bank.",
     },
   ],
   createdAt: "2026-09-02T13:39:35.855Z",
-  updatedAt: "2026-10-28T18:33:04.212Z",
+  updatedAt: "2026-10-28T18:34:18.082Z",
 } as const satisfies Module
