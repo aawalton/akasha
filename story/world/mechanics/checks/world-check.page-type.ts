@@ -20,10 +20,6 @@ export const worldCheck = {
     "world-check/test-story-training",
     "world-check/test-story-upkeep",
     "relation-property/settled-by",
-    "world-check/outcome-cards-check-action-check",
-    "world-check/outcome-cards-check-time-passing",
-    "world-check/outcome-cards-check-training",
-    "world-check/outcome-cards-check-upkeep",
     "world-check/paths-probe-action-check",
     "world-check/paths-probe-time-passing",
     "world-check/paths-probe-training",
@@ -93,5 +89,5 @@ export const worldCheck = {
   schema: "jsonl",
   loadedExport: ["settled", "added", "next"],
   createdAt: "2026-09-26T14:17:37.836Z",
-  updatedAt: "2026-10-28T01:25:53.496Z",
+  updatedAt: "2026-10-28T01:41:03.888Z",
 } as const satisfies PageType

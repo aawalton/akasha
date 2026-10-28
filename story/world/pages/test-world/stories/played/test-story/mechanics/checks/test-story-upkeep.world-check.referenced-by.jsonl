@@ -1,4 +1,3 @@
 {"propertySlug":"import","fileName":"test-story-upkeep.world-check.settling.code.ts","path":"story/world/pages/test-world/stories/played/test-story/mechanics/checks/test-story-upkeep.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
-{"propertySlug":"settled-by","path":"story/world/pages/outcome-cards-check-world/stories/played/outcome-cards-check/mechanics/checks/outcome-cards-check-upkeep.world-check.ts","id":"01a17ffe-7d82-76b3-a74f-a7fb49cb2e74"}
 {"propertySlug":"settled-by","path":"story/world/pages/paths-probe-world/stories/played/paths-probe/mechanics/checks/paths-probe-upkeep.world-check.ts","id":"01a18008-7533-728f-a383-b1c3014c3b14"}
