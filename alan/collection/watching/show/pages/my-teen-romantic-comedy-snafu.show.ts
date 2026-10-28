@@ -11,9 +11,15 @@ export const myTeenRomanticComedySnafu = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "65676", externalLink: "https://www.themoviedb.org/tv/65676" },
+    {
+      source: "tmdb",
+      externalId: "65676",
+      externalLink: "https://www.themoviedb.org/tv/65676",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "My Teen Romantic Comedy SNAFU",
+  streamingOn: ["HiDive", "Hidive Amazon Channel"],
   createdAt: "2026-10-28T18:54:17.637Z",
-  updatedAt: "2026-10-28T18:54:17.637Z",
+  updatedAt: "2026-10-28T19:45:14.428Z",
 } as const satisfies Show
