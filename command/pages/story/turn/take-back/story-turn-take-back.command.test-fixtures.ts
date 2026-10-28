@@ -26,13 +26,13 @@ export const BEFORE_AT = `${STORY}turns/the-saga-00-002.story-turn-played.ts`
 
 export const HER = "world-relationship/the-saga-her"
 
-export const HER_AT = `${STORY}mechanics/relationships/the-saga-her.world-relationship.ts`
+const HER_AT = `${STORY}mechanics/relationships/the-saga-her.world-relationship.ts`
 
 export const ELSEWHERE_AT = "personas/her.persona.ts"
 
 export const ELSEWHERE = "persona/her"
 
-export const PURSE = "metric-character-currency/mara"
+const PURSE = "metric-character-currency/mara"
 
 export const PURSE_AT = `${STORY}purses/mara.metric-character-currency.ts`
 
