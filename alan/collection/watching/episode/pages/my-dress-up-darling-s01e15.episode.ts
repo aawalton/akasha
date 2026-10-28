@@ -6,11 +6,11 @@ export const myDressUpDarlingS01e15 = {
   slug: "my-dress-up-darling-s01e15",
   description: "Amane tells Marin and Wakana about his past and how he got into cosplay.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 15,
   publishedAt: "2025-07-20",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -24,5 +24,7 @@ export const myDressUpDarlingS01e15 = {
   stillPath: "/qDfXEY9m57KbhwDrYoRoc85CWml.jpg",
   voteAverage: 7.8,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:25.349Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:25.349Z",
 } as const satisfies Episode
