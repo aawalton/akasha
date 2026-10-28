@@ -1,6 +1,5 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
-import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
@@ -80,7 +79,7 @@ function WindowFrame({
   children: React.ReactNode
 }) {
   return (
-    <SurfaceProvider level={1} className="flex flex-col gap-2 rounded-xl p-4 shadow-sm">
+    <SurfaceProvider className="flex flex-col gap-2 rounded-xl p-4 shadow-sm">
       <div className={`font-bold font-mono text-[11px] uppercase tracking-[0.2em] ${bannerClass}`}>
         {banner}
       </div>
@@ -145,12 +144,12 @@ function StatusAssessmentCard({ assessment }: { assessment: StatusAssessment }) 
         </div>
       ) : null}
       {assessment.pools != null ? (
-        <div className={`flex flex-col gap-1 rounded-lg ${surfaceClass(2)} p-2`}>
+        <SurfaceProvider className="flex flex-col gap-1 rounded-lg p-2">
           <div className="font-mono text-[10px] text-tertiary uppercase tracking-[0.16em]">
             Pools
           </div>
           <ReadoutGrid record={assessment.pools} />
-        </div>
+        </SurfaceProvider>
       ) : null}
       {descriptors?.map((descriptor, index) => (
         <CardField
