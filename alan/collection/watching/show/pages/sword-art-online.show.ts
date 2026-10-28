@@ -15,10 +15,16 @@ export const swordArtOnline = {
   genres: ["Animation", "Sci-Fi & Fantasy", "Action & Adventure"],
   posterPath: "/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
   voteAverage: 8.161,
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   externalIdentity: [
-    { source: "tmdb", externalId: "45782", externalLink: "https://www.themoviedb.org/tv/45782" },
+    {
+      source: "tmdb",
+      externalId: "45782",
+      externalLink: "https://www.themoviedb.org/tv/45782",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   imdbId: "tt2250192",
   createdAt: "2026-06-07T22:44:35.733Z",
-  updatedAt: "2026-10-28T18:39:52.205Z",
+  updatedAt: "2026-10-28T19:46:16.078Z",
 } as const satisfies Show
