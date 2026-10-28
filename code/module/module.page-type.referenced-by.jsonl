@@ -5197,6 +5197,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-tables/helpers-tables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-helpers/modules/helpers/helpers.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-keybindings/modules/keybinder-capture-reading/keybinder-capture-reading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-keybindings/modules/keybinding-key-codes/keybinding-key-codes.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-keybindings/modules/keybinding-pages/keybinding-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-alliance-map/character-capture-alliance-map.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-build/character-capture-build.module.ts","typed":true,"deferred":false}

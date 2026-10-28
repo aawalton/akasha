@@ -2124,6 +2124,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/shared/settings-panel/modules/header/header.module.ts","id":"01a06053-3637-756b-93c2-519e609ad2d8"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/settings-panel/temper-settings-panel.domain.ts","id":"01a06053-3636-7e00-b329-e1ac77ae851e"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/modules/helpers-casts/helpers-casts.module.ts","id":"01a08d72-b007-7beb-b91e-33727605794e"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/temper-keybindings/modules/keybinder-capture-reading/keybinder-capture-reading.module.ts","id":"01a1847d-4137-7bd8-83b6-ff276b198840"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/completion-import/temper-completion-import.domain.ts","id":"01a060d7-c8cc-7e3d-bff7-b5db10d7b35f"}
 {"propertySlug":"decision-kind","path":"temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.ts","id":"01a0608a-15b1-7b7c-a207-279aad7165d2"}

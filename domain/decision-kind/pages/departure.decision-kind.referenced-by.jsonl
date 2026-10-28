@@ -5479,6 +5479,9 @@
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-addon-shared.domain.ts","id":"01a0c602-d7a2-7ba5-a4a1-a50edd20bb46"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.ts","id":"01a0617d-5451-7952-9d26-5748fb7a36ff"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/temper-helpers.domain.ts","id":"01a08d72-671a-7ba4-875c-f5296652fc14"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/temper-keybindings/modules/keybinder-capture-reading/keybinder-capture-reading.module.ts","id":"01a1847d-4137-7bd8-83b6-ff276b198840"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/temper-keybindings/modules/keybinding-key-codes/keybinding-key-codes.module.ts","id":"01a1847d-4138-7576-bba3-dbed2d40d167"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/temper-keybindings/modules/keybinding-pages/keybinding-pages.module.ts","id":"01a1847d-4138-7b9c-9a99-cb2230a319ff"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-keybindings/temper-keybinding/properties/binding-modifiers.select-property.ts","id":"01a18478-1f8a-737c-8005-6d235d8a94d8"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-keybindings/temper-keybinding/properties/key-bindings.record-property.ts","id":"01a18478-1f8a-7a17-be9a-fca30c1e7d13"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-keybindings/temper-keybinding/temper-keybinding.page-type.ts","id":"01a18478-1f8b-7850-ba1b-24b52266113b"}

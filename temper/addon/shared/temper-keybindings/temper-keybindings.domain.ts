@@ -5,7 +5,12 @@ export const temperKeybindings = {
   type: "page-type/domain",
   slug: "temper-keybindings",
   definition: "Alan's keybindings for the game and its add-ons",
-  parts: ["page-type/temper-keybinding"],
+  parts: [
+    "page-type/temper-keybinding",
+    "module/keybinding-key-codes",
+    "module/keybinding-pages",
+    "module/keybinder-capture-reading",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -17,5 +22,5 @@ export const temperKeybindings = {
     },
   ],
   createdAt: "2026-10-28T21:43:47.335Z",
-  updatedAt: "2026-10-28T21:43:47.335Z",
+  updatedAt: "2026-10-28T21:49:23.639Z",
 } as const satisfies Domain
