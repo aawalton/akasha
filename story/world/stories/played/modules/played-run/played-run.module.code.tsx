@@ -27,7 +27,11 @@ const NONE_ASKED = 0
 
 type Cards = ReturnType<typeof usePlayedOutcomes>
 
-type Anchor = { readonly y: number; readonly height: number; readonly count: number }
+type Anchor = { readonly at: Element | null; readonly top: number; readonly count: number }
+
+function topOf(at: Element | null): number {
+  return at === null ? 0 : at.getBoundingClientRect().top
+}
 
 function byPosition(one: Page, two: Page): number {
   const left = asNumber(one.position) ?? Number.POSITIVE_INFINITY
@@ -89,25 +93,25 @@ export function usePlayedRun(ready: readonly Page[], chapters: readonly Page[]) 
   )
   const drawnBefore = previous.filter((row) => previousProse.read.has(row.id)).length
   const anchor = useRef<Anchor | null>(null)
+  const controlAt = useRef<HTMLDivElement | null>(null)
 
   useLayoutEffect(() => {
     const held = anchor.current
     if (held === null || drawnBefore < held.count) return
     anchor.current = null
-    const grown = document.documentElement.scrollHeight - held.height
-    window.scrollTo(0, held.y + grown)
+    window.scrollBy(0, topOf(held.at) - held.top)
   }, [drawnBefore])
 
   const loading = drawnBefore < previous.length
   const press = () => {
     if (loading) return
-    const height = document.documentElement.scrollHeight
-    anchor.current = { y: window.scrollY, height, count: previous.length + 1 }
+    const at = controlAt.current?.nextElementSibling?.firstElementChild ?? null
+    anchor.current = { at, top: topOf(at), count: previous.length + 1 }
     setAsked((held) => held + 1)
   }
   const control: ReactNode =
     previous.length < before.length || loading ? (
-      <div className={CONTROL}>
+      <div ref={controlAt} className={CONTROL}>
         <Button type="button" variant="tertiary" size="sm" disabled={loading} onClick={press}>
           {loading ? LOADING : SHOW_PREVIOUS}
         </Button>
