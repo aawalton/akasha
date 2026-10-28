@@ -29,6 +29,7 @@ interface HudLayoutPanel {
   readonly inputModes: readonly string[]
   readonly neverMoves: boolean
   readonly measuredBy?: string
+  readonly alignment?: string
 }
 
 interface HudLayout {
@@ -55,6 +56,7 @@ function inputModesOf(page: Page): readonly string[] {
 
 function panelOf(page: Page): HudLayoutPanel {
   const measuredBy = textAt(page, "measuredBy")
+  const alignment = textAt(page, "alignment")
   return {
     key: stated(textAt(page, "key"), page, "key"),
     dock: stated(slugAt(page, "dock"), page, "dock"),
@@ -62,6 +64,7 @@ function panelOf(page: Page): HudLayoutPanel {
     inputModes: inputModesOf(page),
     neverMoves: page["neverMoves"] === true,
     ...(measuredBy === null ? {} : { measuredBy }),
+    ...(alignment === null ? {} : { alignment }),
   }
 }
 

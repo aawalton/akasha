@@ -11,6 +11,7 @@ export const temperHudPanel = {
     "boolean-property/never-moves",
     "text-property/measured-by",
     "select-property/input-modes",
+    "select-property/alignment",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -19,6 +20,7 @@ export const temperHudPanel = {
     { pageProperty: "boolean-property/never-moves", required: false, many: false },
     { pageProperty: "text-property/measured-by", required: false, many: false },
     { pageProperty: "select-property/input-modes", required: true, many: true, maxCount: null },
+    { pageProperty: "select-property/alignment", required: false, many: false },
   ],
   decisions: [
     {
@@ -42,5 +44,5 @@ export const temperHudPanel = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-27T19:11:11.511Z",
-  updatedAt: "2026-10-27T20:15:17.769Z",
+  updatedAt: "2026-10-28T00:47:37.231Z",
 } as const satisfies PageType

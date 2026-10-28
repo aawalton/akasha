@@ -9,6 +9,7 @@ export const taskHud = {
   dock: "temper-hud-dock/top-right",
   displayOrder: 2,
   inputModes: ["keyboard"],
+  alignment: "previous-panel",
   createdAt: "2026-10-27T19:12:09.468Z",
-  updatedAt: "2026-10-27T20:15:17.769Z",
+  updatedAt: "2026-10-28T00:47:37.231Z",
 } as const satisfies TemperHudPanel

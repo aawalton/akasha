@@ -32,6 +32,10 @@ export const watcherExportHudLayout = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A panel page stating an alignment writes it, and no other panel page does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Panels are written by dock and then by display order, so an unchanged layout is unwritten.",
     },
@@ -46,5 +50,5 @@ export const watcherExportHudLayout = {
     },
   ],
   createdAt: "2026-10-27T19:18:31.117Z",
-  updatedAt: "2026-10-27T20:16:18.763Z",
+  updatedAt: "2026-10-28T00:47:37.231Z",
 } as const satisfies Module
