@@ -15,9 +15,11 @@ export const codeGeassLelouchOfTheReSurrection = {
       source: "tmdb",
       externalId: "553837",
       externalLink: "https://www.themoviedb.org/movie/553837",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Code Geass: Lelouch of the Re;surrection",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:44:02.903Z",
-  updatedAt: "2026-10-28T18:44:02.903Z",
+  updatedAt: "2026-10-28T19:46:48.128Z",
 } as const satisfies Movie
