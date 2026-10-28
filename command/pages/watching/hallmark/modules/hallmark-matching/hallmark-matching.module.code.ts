@@ -5,6 +5,7 @@ import type { Listed } from "akasha/command/pages/watching/hallmark/modules/hall
 import {
   type Calls,
   listOf,
+  servicesIn,
 } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
 
 type Kind = "movie" | "tv"
@@ -58,8 +59,6 @@ const NETWORKS = "384|7635"
 const FIRST_YEAR = 2001
 
 const DETAIL = "append_to_response=watch/providers,external_ids"
-
-const STREAMED: readonly string[] = ["flatrate", "ads"]
 
 const pause = (waited: number): Promise<void> =>
   new Promise((settle) => {
@@ -173,14 +172,6 @@ export function distinguishing(one: string, other: string): readonly string[] {
 function yearNear(said: unknown, year: number): boolean {
   const dated = Number((textIn(said) ?? "").slice(0, 4))
   return Number.isFinite(dated) && dated > 0 && Math.abs(dated - year) <= 1
-}
-
-export function servicesIn(said: unknown): readonly string[] {
-  const us = asRecordOrEmpty(asRecordOrEmpty(asRecordOrEmpty(said).results).US)
-  const named = STREAMED.flatMap((kind) =>
-    listOf(us[kind]).flatMap((one) => textIn(asRecordOrEmpty(one).provider_name) ?? [])
-  )
-  return [...new Set(named)].sort()
 }
 
 function titledFrom(kind: Kind, said: unknown, loose: boolean): Titled | null {

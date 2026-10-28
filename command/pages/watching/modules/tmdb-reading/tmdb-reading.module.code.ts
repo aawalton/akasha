@@ -47,6 +47,8 @@ const TOKEN = "TMDB_READ_ACCESS_TOKEN"
 
 const TMDB_AT = "https://api.themoviedb.org/3"
 
+const STREAMED: readonly string[] = ["flatrate", "ads"]
+
 export function tokenSaid(): string | null {
   return optionalEnv(TOKEN) ?? null
 }
@@ -71,6 +73,14 @@ export async function fetched(
 
 export function listOf(said: unknown): readonly unknown[] {
   return Array.isArray(said) ? (said as readonly unknown[]) : []
+}
+
+export function servicesIn(said: unknown): readonly string[] {
+  const us = asRecordOrEmpty(asRecordOrEmpty(asRecordOrEmpty(said).results).US)
+  const named = STREAMED.flatMap((kind) =>
+    listOf(us[kind]).flatMap((one) => textIn(asRecordOrEmpty(one).provider_name) ?? [])
+  )
+  return [...new Set(named)].sort()
 }
 
 export function episodeTypeOf(said: unknown): string | null {

@@ -12,7 +12,6 @@ import {
   distinguishing,
   type Matched,
   type Refused,
-  servicesIn,
   type Titled,
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-matching/hallmark-matching.module.code.ts"
 import {
@@ -23,6 +22,7 @@ import {
   SHELVES,
   shelved,
 } from "akasha/command/pages/watching/hallmark/modules/hallmark-shelving/hallmark-shelving.module.code.ts"
+import { servicesIn } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
 
 const SHELVED_AS = `${showCollection.slug}/`
 

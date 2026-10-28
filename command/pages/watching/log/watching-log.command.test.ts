@@ -333,3 +333,23 @@ test("a name that makes no export name opens with its page type", async () => {
   const said = await watchingLog(["--link", NETFLIX.externalLink], GIVEN, fake.calls)
   expect(said.report).toEqual(["show/show-86-eighty-six  in-progress  created"])
 })
+
+test("a page stating a TMDB id is given the services TMDB says stream it", async () => {
+  const before = process.env.TMDB_READ_ACCESS_TOKEN
+  process.env.TMDB_READ_ACCESS_TOKEN = "t"
+  try {
+    const row = { slug: "a", title: "A", status: "not-started", externalIdentity: [HALLMARK] }
+    const answer = { results: { US: { flatrate: [{ provider_name: "Crunchyroll" }] } } }
+    const fake = fakeOf({ movie: [row] }, answer)
+    const said = await watchingLog(
+      ["--link", HALLMARK.externalLink, "--status", "not-started"],
+      GIVEN,
+      fake.calls
+    )
+    expect(said.report).toEqual(["movie/a  not-started  updated"])
+    expect(fake.written[0]?.pages?.[0]?.values.streamingOn).toEqual(["Crunchyroll"])
+  } finally {
+    if (before === undefined) delete process.env.TMDB_READ_ACCESS_TOKEN
+    else process.env.TMDB_READ_ACCESS_TOKEN = before
+  }
+})

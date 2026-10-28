@@ -4,6 +4,7 @@ import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import { movie } from "akasha/alan/collection/watching/movie/movie.page-type.ts"
 import { show } from "akasha/alan/collection/watching/show/show.page-type.ts"
 import { mountainWallAt } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
+import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { collectionStatus } from "akasha/command/argument/pages/collection-status.argument.ts"
 import { day as dayArgument } from "akasha/command/argument/pages/day.argument.ts"
@@ -26,6 +27,10 @@ import {
   tmdbIdentityOf,
   tmdbIdOf,
 } from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
+import {
+  STREAMING_ON,
+  streamedFor,
+} from "akasha/command/pages/watching/log/modules/title-streaming/title-streaming.module.code.ts"
 import { watchingLog as page } from "akasha/command/pages/watching/log/watching-log.command.ts"
 import {
   type Kind,
@@ -57,6 +62,7 @@ type Held = {
   readonly status: string | null
   readonly identities: readonly Row[]
   readonly parts: readonly string[]
+  readonly services: readonly string[]
 }
 
 type Found = {
@@ -99,11 +105,8 @@ function heldIn(kind: Kind, row: Row): Held | null {
   const identities = Array.isArray(said)
     ? said.filter((one): one is Row => one !== null && typeof one === "object")
     : []
-  const parted = row.partOfCollections
-  const parts = Array.isArray(parted)
-    ? parted.filter((one): one is string => typeof one === "string")
-    : []
-  return { kind, slug, title, status, identities, parts }
+  const parts = stringsIn(row.partOfCollections)
+  return { kind, slug, title, status, identities, parts, services: stringsIn(row[STREAMING_ON]) }
 }
 
 function names(held: Held, linked: Linked): boolean {
@@ -130,7 +133,7 @@ async function found(linked: Linked, calls: Calls): Promise<Found | string> {
   for (const kind of KINDS) {
     const rows = await calls.ask({
       pageTypeSlug: kind,
-      keys: ["slug", "title", "status", "externalIdentity", "partOfCollections"],
+      keys: ["slug", "title", "status", "externalIdentity", "partOfCollections", STREAMING_ON],
     })
     if ("refused" in rows) return rows.refused
     at = rows.at ?? at
@@ -226,15 +229,22 @@ async function titleLogged(
   partOf: string | null
 ): Promise<Answer> {
   const { held, known } = at
+  const today = dayNow(new Date())
   if (held !== null) {
-    const values = keptValues(held, linked, status, day, partOf)
+    const kept = keptValues(held, linked, status, day, partOf)
+    const stated = (kept.externalIdentity ?? held.identities) as readonly Row[]
+    const streamed = await streamedFor(held.kind, stated, held.services, today, calls)
+    const values = { ...kept, ...streamed.values }
+    const { clears } = streamed
     const named = `${held.kind}/${held.slug}`
-    if (Object.keys(values).length === 0) return told([`${named}  ${held.status ?? ""}  unchanged`])
+    if (Object.keys(values).length + clears.length === 0) {
+      return told([`${named}  ${held.status ?? ""}  unchanged`])
+    }
     const wrote = await calls.write({
       writer: WRITER,
       message: `${held.title} is logged as ${status}`,
       ...readOf(at),
-      pages: [{ pageTypeSlug: held.kind, slug: held.slug, merge: true, values }],
+      pages: [{ pageTypeSlug: held.kind, slug: held.slug, merge: true, values, clears }],
     })
     if ("refused" in wrote) return refusedBy([wrote.refused], OPERATIONAL)
     const now = typeof values.status === "string" ? values.status : (held.status ?? "")
@@ -245,6 +255,7 @@ async function titleLogged(
   const slug = nameFaultIn(plain) === null ? plain : `${known.kind}-${plain}`
   const shelved = await shelvedUnder(known, linked, slug, status, calls)
   if (typeof shelved === "string") return refusedBy([shelved], OPERATIONAL)
+  const streamed = await streamedFor(known.kind, [identityOf(linked)], [], today, calls)
   const wrote = await calls.write({
     writer: WRITER,
     message: `${known.title} is logged as ${status}`,
@@ -253,7 +264,7 @@ async function titleLogged(
         pageTypeSlug: known.kind,
         slug,
         fresh: true,
-        values: freshValues(known, linked, status, day, partOf),
+        values: { ...freshValues(known, linked, status, day, partOf), ...streamed.values },
       },
       ...shelved.pages,
     ],
