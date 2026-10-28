@@ -1914,6 +1914,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/item-slot/item-slot.page-type.ts","id":"01a0ca45-bac0-7c6d-83bf-8415bedd0526"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.ts","id":"01a0caa8-a2c1-7827-bdaa-42e97874aad7"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/properties/history.file-property.ts","id":"01a0c9fe-db25-75da-99e7-c4f8a29375a8"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/modules/ability-slotting/ability-slotting.module.ts","id":"01a17ffd-0845-78cf-9525-bda0071098c3"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.ts","id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}

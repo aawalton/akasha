@@ -4166,6 +4166,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/properties/history.file-property.ts","id":"01a0c9fe-db25-75da-99e7-c4f8a29375a8"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/properties/revealed-as.text-property.ts","id":"01a0f1c4-51cf-7ebc-8f74-f8162bdf2b0c"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/world-metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/modules/ability-slotting/ability-slotting.module.ts","id":"01a17ffd-0845-78cf-9525-bda0071098c3"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.ts","id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.ts","id":"01a0de28-48fb-7955-8bf2-53eabca62339"}

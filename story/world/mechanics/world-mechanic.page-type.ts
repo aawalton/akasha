@@ -12,6 +12,7 @@ export const worldMechanic = {
     "boolean-property/claimed",
     "boolean-property/effect-claimed",
     "domain/ability",
+    "module/ability-slotting",
     "module/dice-reading",
     "module/dice-rolling",
     "module/dice-throwing",
@@ -177,5 +178,5 @@ export const worldMechanic = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-10-28T00:37:45.279Z",
+  updatedAt: "2026-10-28T00:50:51.589Z",
 } as const satisfies PageType
