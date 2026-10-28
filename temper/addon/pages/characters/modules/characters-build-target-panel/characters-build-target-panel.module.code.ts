@@ -38,6 +38,8 @@ const PANEL_NAME = "TemperCharactersTargetBuild"
 
 const BESIDE_NAME = "ZO_StatsPanel"
 
+const SKILLS_SCENE_NAME = "skills"
+
 const LINES_SHOWN = 40
 
 const PADDING = 16
@@ -204,21 +206,29 @@ export function refreshTargetPanel(this: void): undefined {
   }
   panel.window.SetDimensions(widest + PADDING * 2, top - SECTION_GAP + PADDING)
   placeBeside(panel.window)
-  panel.window.SetHidden(!STATS_SCENE.IsShowing())
+  panel.window.SetHidden(!shownScene())
   return undefined
+}
+
+function shownScenes(): readonly Scene[] {
+  const skills = SCENE_MANAGER.GetScene(SKILLS_SCENE_NAME)
+  return skills === undefined ? [STATS_SCENE] : [STATS_SCENE, skills]
+}
+
+function shownScene(): boolean {
+  return shownScenes().some((scene) => scene.IsShowing())
 }
 
 export function initializeTargetBuildPanel(): undefined {
   if (held !== undefined) return undefined
   const panel = createTargetPanel()
   held = panel
-  STATS_SCENE.RegisterCallback("StateChange", (_oldState, newState) => {
-    if (newState === SCENE_HIDDEN) {
-      panel.window.SetHidden(true)
-      return
-    }
-    if (newState === SCENE_SHOWING) refreshTargetPanel()
-  })
+  for (const scene of shownScenes()) {
+    scene.RegisterCallback("StateChange", (_oldState, newState) => {
+      if (newState === SCENE_SHOWING) refreshTargetPanel()
+      else if (newState === SCENE_HIDDEN && !shownScene()) panel.window.SetHidden(true)
+    })
+  }
   const refreshShown = (): undefined => {
     if (!panel.window.IsHidden()) refreshTargetPanel()
     return undefined

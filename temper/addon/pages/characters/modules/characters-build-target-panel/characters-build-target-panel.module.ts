@@ -9,7 +9,7 @@ export const charactersBuildTargetPanel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The panel shows with the game's character screen, to the left of its stats.",
+      statement: "The panel shows with the game's character and skills screens, left of the stats.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -54,5 +54,5 @@ export const charactersBuildTargetPanel = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-10-28T20:55:25.290Z",
+  updatedAt: "2026-10-28T21:18:16.543Z",
 } as const satisfies Module
