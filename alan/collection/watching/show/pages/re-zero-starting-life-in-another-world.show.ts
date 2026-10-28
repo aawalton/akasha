@@ -11,9 +11,15 @@ export const reZeroStartingLifeInAnotherWorld = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "65942", externalLink: "https://www.themoviedb.org/tv/65942" },
+    {
+      source: "tmdb",
+      externalId: "65942",
+      externalLink: "https://www.themoviedb.org/tv/65942",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Re:ZERO -Starting Life in Another World-",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:48:30.942Z",
-  updatedAt: "2026-10-28T18:48:30.942Z",
+  updatedAt: "2026-10-28T19:45:45.438Z",
 } as const satisfies Show
