@@ -1,0 +1,42 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const sporemageddon = {
+  id: "01a18357-a9a5-7983-9fc0-07f665db8194",
+  type: "page-type/story-read",
+  slug: "sporemageddon",
+  author: "RavensDagger",
+  following: true,
+  unit: "unit/words",
+  title: "Sporemageddon",
+  world: "world/sporemageddon",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "54658",
+      externalLink: "https://www.royalroad.com/fiction/54658/sporemageddon",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Urban Fantasy",
+    "Progression",
+    "Anti-Hero Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Tragedy",
+    "Dungeon Core",
+    "Dystopia",
+    "Kingdom Building",
+    "Magic",
+    "Reincarnation",
+    "Slice of Life",
+    "Steampunk",
+    "Strong Lead",
+  ],
+  publicationStatus: "completed",
+  createdAt: "2026-10-28T16:28:42.787Z",
+  updatedAt: "2026-10-28T16:28:42.787Z",
+} as const satisfies StoryRead

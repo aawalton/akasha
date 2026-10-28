@@ -20,5 +20,7 @@ export const justAddMana0208203Book4Chapter47ConfrontationPt1 = {
     },
   ],
   createdAt: "2026-10-24T14:22:29.752Z",
-  updatedAt: "2026-10-24T14:22:29.752Z",
+  updatedAt: "2026-10-28T16:28:42.787Z",
+  ownProgress: 3295,
+  progressedAt: "2026-10-28T16:28:42.787Z",
 } as const satisfies StoryChapterRead

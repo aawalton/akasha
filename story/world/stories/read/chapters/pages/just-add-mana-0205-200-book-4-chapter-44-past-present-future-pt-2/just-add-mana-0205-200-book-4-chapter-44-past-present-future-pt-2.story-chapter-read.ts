@@ -20,5 +20,7 @@ export const justAddMana0205200Book4Chapter44PastPresentFuturePt2 = {
     },
   ],
   createdAt: "2026-10-17T15:04:47.226Z",
-  updatedAt: "2026-10-17T15:04:47.226Z",
+  updatedAt: "2026-10-28T16:28:42.787Z",
+  ownProgress: 3440,
+  progressedAt: "2026-10-28T16:28:42.787Z",
 } as const satisfies StoryChapterRead

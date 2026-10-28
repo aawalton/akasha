@@ -1,0 +1,109 @@
+I'd been wanting to create this spell for some time now, and while I had continued to make progress, I'd never finalized it. There was always something new to fix or improve, or another feature I wanted, and if it kept going, I'd never be satisfied. It was slightly odd, as from my perspective I had never been this fussy over spells before and I would never have called myself a perfectionist.
+
+When I first created [Permeable] and [Flammable], they were crafted by basically smashing sticks together with spit, compared to what I was working with now. Then there was [Displaced], which, honestly, shouldn't even exist in its current form, as it was some mutant amalgamation of a spell and in desperate need of a makeover.
+
+Actually, it might have started when I got [Skill Deconstruct] and saw how perfectly crafted those were. Not to mention [Exchange]... But that was after I was already obsessing over perfect spells.
+
+In a rare moment of self-reflection, I decided to nip this problem in the bud and finally piece it together, since nothing was stopping me from improving it later. I had plenty of pieces from various spell components and deconstructed skills to work with, and with [Mana Dominion] it felt within my grasp. This was going to be a big task, and I requested all spare [Sub-Cores] from my personas to handle it.
+
+The first step of my project was to create the various functions of the spell, and this started with [Triangulate] itself. I had deconstructed the skill so thoroughly that it no longer yielded any new information, so it didn't take long to create these initial processes.
+
+I probably could have done this sooner if I just wanted to replicate the skill [Triangulate], but I want to supersede it. That compressed space was evidence enough that the skill version isn't enough, and I'm not going to get it to level ten and uncap or gamble with deductions on an upgrade.
+
+With a base form of [Triangulate] in spell form, I began my modifications, and this was where I started pouring in my knowledge from the book I had received. Compressed space was complicated, and the coordinates were well above the default skills paygrade, so it needed a brain transplant. My experiments in the two compressed rooms were also paying off, and after some time I had successfully elevated their number-crunching capabilities.
+
+Yet that was still not enough; I was a greedy slime and casting this spell over and over was not something I wanted to do. Skills had that advantage over spells in that they were usually passive, always working in the background. Still, I knew spells also had that capability and [Infernal Crown] had provided me the framework I needed.
+
+It's a good thing my personas started making their own elemental crowns; now I can use that knowledge for myself.
+
+Of course I wasn't making a crown, as that would be weird for the purpose of this spell. No, perhaps influenced by my slimy nature, the first thing that came to mind was a core. Yes, that was exactly what I wanted: a spell core, kind of like a [Sub-Core], that would help me with all my dimensional calculations.
+
+Once the idea took root, it was infectious, and I refused to compromise, yet, thankfully, it seemed to be working in my favor. At first I thought it was a happy coincidence, but when more and more of my spells started coming together, I began to doubt I was simply that lucky.
+
+Am I using my knowledge of [Sub-Cores] and applying it to this spell? No… I can't exactly call it knowledge; I don't have [Trait Deconstruct] after all, so maybe it's closer to intuition?
+
+I really wasn't sure. I had suspected I was pulling information from [Consuming Osmosis] with all the slime cores I had eaten, but that felt like a bit of a stretch. Being a slime myself wasn't a good enough reason either, as that was like expecting every human to understand in detail how their organs worked.
+
+Actually… Maybe it is [Consuming Osmosis]? Well, it and also [Chimeric Mimicry], as weird as that sounds. Yes, humans and creatures don't know how their organs work, but these two traits working together do, or how else would I be able to use something like [Inferno Sac]?
+
+I felt like I was potentially on the right track, but unless Gramps or the system itself confirmed it, I would probably never have a concrete answer. My gut said yes though, so I trusted that, and put my doubts and suspicions aside to continue working on my task.
+
+I didn't go full hermit mode this time, occasionally spending meals with Vee. I was lucky that she was also trying to explore her new body and its capabilities, leaving me plenty of time to work in solitude.
+
+Since I was on the island and a network slot became available, Vee started going on more shopping trips, accompanied by Sylbera. Keld was her go-to destination, but she also visited Southbrook and Saltport. She also expressed her desire to see Kaerlin at some point, which I promised to do after the labyrinth.
+
+Only a few days had gone by, and my spell was nearing completion; technically, there was only one more function I wanted to add to this initial version. Throughout my work, I had several other inspirations, such as using [Skill Deconstruct] on [Folded Geometry] and adding that to its available calculations. However, I held back because I still wanted another level of that skill before I took it apart. I was really trying my best to rein myself in, as otherwise it would never reach completion.
+
+However, there was one last function it needed, and it was non-negotiable: it had to be able to interact with system interfaces. The reason for this tall order was twofold: first, I wanted it to work with [Map] or [Landmarks], but the primary reason was so it could actually insert its calculated coordinates.
+
+You'd think a spell would be able to interact with another spell without any further interaction, but that actually wasn't the case. My gut told me that if this spell wasn't at a minimum system level, it wouldn't be able to pop those coordinates into my spells. Of course, I could've used a [Sub-Core] as a bridge to bypass this requirement, but that felt cheap, and I'd already proven myself three times before.
+
+Or does my [Identify] spell count as a half accomplishment? Whatever, I've technically got all that I need from [Map], so let's just slot in the final pieces.
+
+It was the final stretch, and soon an impossibly complex spell construct was before me. Casting such a thing in the heat of battle would be stupid, even with [Sub-Cores] aiding the speed, but technically this spell only needed to be cast once. I had tested the individual components multiple times, but putting everything together had so far eluded me.
+
+It wasn't perfect; I knew that, but I still found it beautiful to look at. I'd exhausted all my knowledge and skills, and even poured my heart and soul into this project, and while I knew there was room for improvement, I was still happy with it.
+
+I'll need to clean it up a bit before I try adding folded-space calculations to it, but that's for future me to worry about. Let's finally debut this spell!
+
+I saved the final blueprint to my [Sub-Cores] and then began the slow and arduous process of casting it. Even my strongest, most powerful spell could be completed in seconds, but this monster took nearly ten minutes to cast. Combat casting was not an option, but as long as I maintained its upkeep, that shouldn't be a problem.
+
+Once again, a big thank you to [Mana Slime] for coming in clutch. Maybe I can try making a smaller version for Vee? Either that or she will need to work on upgrading her Mana.
+
+When the spell was nearing completion, the construct began to change. Usually, it would vanish along with the spell's manifestation, but in this case, the construct was the spell. As the final moments ticked, the construct curved and rounded, slowly progressing into the shape of a sphere.
+
+I watched with delight, staring intently at it, paying close attention to ensure nothing went wrong with its framework in the final moments. I wanted to hold my breath, cross my fingers, tentacles, or even toes, while praying to Gramps or Mother that this time it would work. And then, with a flash, the sphere was fully formed and the spell completed.
+
+Notifications went off, a signal that I had finally succeeded, but I ignored them and instead stared at the floating sphere before me. It most definitely resembled a slime core; there was no denying that, and its blackish-purple color was due to all the dimensional Mana it contained.
+
+I waved a hand through it, which caused its form to ripple, but it maintained its shape. It wasn't a physical spell after all, and if I really wanted, I could have probably found a way to bypass the need for it to even have some form of appearance.
+
+Well, I'd rather have an orb than a crown.
+
+I could move it and position it where I wanted, but keeping it close to me was optimal so it would be safe within my Mana aura and away from any potential tampering. I even considered keeping it inside of me, giving it the real [Sub-Core] treatment, but I almost felt the need for the world to witness my creation.
+
+But that was enough admiring it; I needed to confirm it could actually work. I pulled out a random sword I had in my storage and threw it to the ground, before trying to teleport it a distance, which it did in the blink of an eye.
+
+A smile crept onto my face as I began doing more and more teleportations with objects, confirming that the coordinates were being calculated in real-time. From an outside perspective, it might have seemed just like any normal teleportation that I'd done countless times, but I was actually skipping over two of the three steps.
+
+A basic teleport involved casting [Position] twice, once on the target and once on the destination before finally casting [Positioning] and applying the second coordinates to the first. It was cumbersome, especially without [Triangulate], another skill, or some helpful [Sub-Cores] doing the dirty work.
+
+What my spell was doing was simply adjusting the existing coordinates, something I had previously deemed too risky. As dumb as it might sound, you couldn't normally just say "I want to teleport ten meters that way" and expect it to work, as dimensional coordinates were ordinarily far too complex to break down into such simple terms.
+
+But now I can… Vee is going to be so jealous!
+
+I moved to my quadruple-compressed room and began my tests again, which worked, albeit maybe a tiny bit slower. I was delighted, as the coordinates in this room were much harder to work with, and because of the tiny delay, I finally noticed that whenever the orb was working, it would flash with impossible golden numbers inside the sphere.
+
+It really reminds me of a system box… Except it's now a sphere, and dark purple.
+
+I still had the notifications to look at, but I had one more test for my beloved creation. I cast [Map] and positioned it over Dhoggurum before pointing at the fungal cave that I had once explored and sent my intent to the orb.
+
+Give me these coordinates.
+
+I watched as the golden numbers flashed inside the orb, replaced by different numbers as it appeared to perform the calculations. It had access to both [Map] and [Landmarks], so the process would be to grab Dhoggurum's coordinates from [Landmarks] and calculate the destination from [Map].
+
+The process took roughly five minutes before the orb displayed a completed set of fresh coordinates for me. I deposited my [Sub-Cores], sent a message to my personas that they could reclaim their share, and then took a deep breath. This was risky, but if anything went wrong, I had backups.
+
+I took the coordinates the orb proudly presented to me and cast them on myself. The world warped around me, and in the blink of an eye, at the cost of a chunk of Mana, I found myself somewhere inside those familiar fungal caverns.
+
+It worked! It actually worked!
+
+The orb was connected to me, so it was still floating at my side, the golden coordinates now faded since I had used them. I was so happy I could've kissed the spell construct, but any physical contact just phased right through it.
+
+I then told it to save the coordinates of the current location. This was another feature that came from [Triangulate], but I suspected that, unlike the skill, it would only last as long as the orb was maintained. Honestly, when it wasn't crunching numbers, it didn't cost that much, so unless there was outside interference, I didn't see any reason not to keep it permanently manifested.
+
+Okay, let's see what the system has to say for me.
+
+<Unnamed custom spell has been cast. Please name spell.>
+
+Huh… Don't I have to cast it more than once to get this? Did it count my earlier failures, or are the repeated tasks I've given it enough to count?
+
+I wasn't sure, but the system was demanding I name the spell before I could even look at the other messages I had waiting for me, so I had no option but to name it now.
+
+Uhh… What do I want to call it? Calling it [Triangulate] would be insulting at this point; it's so much more. Coordinate? Core Coordinate? Coordinator? Calculate? Coordinate-Core? Dimension-Core? Hmm… This is tricky. It's pretty much the same colors as Vee; should I name it after her as a joke?
+
+I spent time mulling it over and eventually made my decision. I wanted to ensure that it included its function, namely coordinates, while also paying homage to the [Sub-Cores] that inspired it. Should anyone else earn the right to cast this spell, I wanted them to know its humble slime origins.
+
+<[Coordicore] spell has been registered.>
+
+Hehe… Welcome to the family, [Coordicore]!

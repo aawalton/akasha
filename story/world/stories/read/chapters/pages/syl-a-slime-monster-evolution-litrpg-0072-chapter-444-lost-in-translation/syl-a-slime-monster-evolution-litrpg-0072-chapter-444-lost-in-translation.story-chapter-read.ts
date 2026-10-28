@@ -20,5 +20,7 @@ export const sylASlimeMonsterEvolutionLitrpg0072Chapter444LostInTranslation = {
     },
   ],
   createdAt: "2026-10-26T07:26:53.872Z",
-  updatedAt: "2026-10-26T07:26:53.872Z",
+  updatedAt: "2026-10-28T16:28:42.787Z",
+  ownProgress: 2171,
+  progressedAt: "2026-10-28T16:28:42.787Z",
 } as const satisfies StoryChapterRead

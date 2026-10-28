@@ -15,7 +15,7 @@ export const justAddMana = {
   ],
   author: "SilverLinings",
   grade: "B",
-  following: false,
+  following: true,
   publicationStatus: "ongoing",
   externalTags: [
     "LitRPG",
@@ -36,5 +36,5 @@ export const justAddMana = {
   unit: "unit/words",
   prose: "txt",
   createdAt: "2026-09-03T04:18:50.403Z",
-  updatedAt: "2026-10-18T00:05:42.133Z",
+  updatedAt: "2026-10-28T16:28:42.787Z",
 } as const satisfies StoryRead
