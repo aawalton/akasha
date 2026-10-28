@@ -3,11 +3,46 @@ import { lookupTtcPricing } from "akasha/temper/addon/pages/items/modules/invent
 import { getHouseFurnishingsLocationKey } from "akasha/temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.code.ts"
 import { ensureLocation } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables/inventory-saved-variables.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import type { PlacedFurnishingData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import type {
+  LocationData,
+  PlacedFurnishingData,
+} from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import type { HouseFurnishingLimit } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
+function furnishingLimitTypes(): readonly number[] {
+  return [
+    HOUSING_FURNISHING_LIMIT_TYPE_LOW_IMPACT_ITEM,
+    HOUSING_FURNISHING_LIMIT_TYPE_HIGH_IMPACT_ITEM,
+    HOUSING_FURNISHING_LIMIT_TYPE_LOW_IMPACT_COLLECTIBLE,
+    HOUSING_FURNISHING_LIMIT_TYPE_HIGH_IMPACT_COLLECTIBLE,
+  ]
+}
+
+function recordHouse(location: LocationData): undefined {
+  const houseId = GetCurrentZoneHouseId()
+  const collectibleId = GetCollectibleIdForHouse(houseId)
+  const furnishingLimits: Record<number, HouseFurnishingLimit> = {}
+  for (const limitType of furnishingLimitTypes()) {
+    furnishingLimits[limitType] = {
+      limit: GetHouseFurnishingPlacementLimit(houseId, limitType),
+      placed: GetNumHouseFurnishingsPlaced(limitType),
+    }
+  }
+  location.house = { collectibleId, houseId, furnishingLimits }
+}
+
+function furnishingLimitTypeOf(furnitureId: Id64, itemLink: string): number {
+  const collectibleId = GetCollectibleIdFromFurnitureId(furnitureId)
+  if (collectibleId > 0) return GetCollectibleFurnishingLimitType(collectibleId)
+  return GetItemLinkFurnishingLimitType(itemLink)
+}
 
 function extractFurnishingData(furnitureId: Id64): PlacedFurnishingData | undefined {
   const [itemName] = GetPlacedHousingFurnitureInfo(furnitureId)
@@ -21,6 +56,7 @@ function extractFurnishingData(furnitureId: Id64): PlacedFurnishingData | undefi
     quality: quality,
     itemLink: itemLink ?? "",
     collectibleLink: collectibleLink ?? "",
+    furnishingLimitType: furnishingLimitTypeOf(furnitureId, itemLink ?? ""),
   }
 
   if (itemLink !== "") {
@@ -55,6 +91,7 @@ export function scanPlacedFurnishings(): undefined {
     furnitureId = GetNextPlacedHousingFurnitureId(furnitureId)
   }
 
+  recordHouse(location)
   location.lastScanned = GetTimeStamp()
 }
 
@@ -75,6 +112,7 @@ export function addPlacedFurnishing(furnitureId: Id64): undefined {
   if (data && key !== "" && key !== "0") {
     location.placedFurnishings[key] = data
   }
+  recordHouse(location)
 }
 
 export function removePlacedFurnishing(furnitureId: Id64): undefined {
@@ -87,4 +125,5 @@ export function removePlacedFurnishing(furnitureId: Id64): undefined {
 
   const key = Id64ToString(furnitureId)
   delete location.placedFurnishings[key]
+  recordHouse(location)
 }

@@ -14,6 +14,7 @@ import type {
   CurrencyBalances as CoreCurrencyBalances,
   InventoryCurrencies as CoreInventoryCurrencies,
   PlacedFurnishingData as CorePlacedFurnishingData,
+  HouseData,
   InventoryItemData,
   PriceSource,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
@@ -28,6 +29,7 @@ export interface LocationData {
   displayName: string
   lastScanned: number
   placedFurnishings?: Record<string, PlacedFurnishingData>
+  house?: HouseData
 }
 
 export type CurrencyBalances = CoreCurrencyBalances

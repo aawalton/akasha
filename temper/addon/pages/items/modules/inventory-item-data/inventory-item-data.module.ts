@@ -55,7 +55,12 @@ export const inventoryItemData = {
       decisionKind: "decision-kind/departure",
       statement: "A slot with a crafted item records whether a daily writ held asks for that item.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A slot with a furnishing records the house limit type the furnishing counts against.",
+    },
   ],
   createdAt: "2026-09-02T13:39:35.853Z",
-  updatedAt: "2026-10-28T18:39:12.240Z",
+  updatedAt: "2026-10-28T19:37:04.597Z",
 } as const satisfies Module

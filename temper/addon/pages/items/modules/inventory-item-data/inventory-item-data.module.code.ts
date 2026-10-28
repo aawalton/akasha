@@ -193,6 +193,9 @@ export function extractItemData(bagId: number, slotIndex: number): ItemData | un
   if (furnitureCategory !== undefined) result.furnitureCategory = furnitureCategory
   if (furnitureCategoryId !== undefined) result.furnitureCategoryId = furnitureCategoryId
   if (furnitureSubcategoryId !== undefined) result.furnitureSubcategoryId = furnitureSubcategoryId
+  if (itemType === ITEMTYPE_FURNISHING) {
+    result.furnishingLimitType = GetItemLinkFurnishingLimitType(itemLink)
+  }
 
   const [hasSet, , , , , setId] = GetItemLinkSetInfo(itemLink, false)
   if (hasSet && setId !== 0) result.setId = setId
