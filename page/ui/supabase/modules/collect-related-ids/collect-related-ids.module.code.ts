@@ -1,3 +1,4 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { buildPageTypeSlugMaps } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
 import {
@@ -14,7 +15,16 @@ type RelatedWay = (typeof EACH_WAY)[number]
 
 export type RelationSpec = {
   readonly propertyId: string
+  readonly fieldId?: string
   readonly targetPageTypeSlug: string
+}
+
+function namesOf(page: { properties: Record<string, unknown> }, spec: RelationSpec): unknown[] {
+  const val = page.properties[spec.propertyId]
+  const values: unknown[] = Array.isArray(val) ? val : [val]
+  const { fieldId } = spec
+  if (fieldId === undefined) return values
+  return values.flatMap((one) => (isRecord(one) ? [one[fieldId]].flat() : []))
 }
 
 export type RelatedIdGroup = {
@@ -45,9 +55,7 @@ function namedBy(
   const named = new Set<string>()
   for (const spec of specs) {
     for (const page of pages) {
-      const val = page.properties[spec.propertyId]
-      const values: unknown[] = Array.isArray(val) ? val : [val]
-      for (const v of values) if (typeof v === "string" && v !== "") named.add(v)
+      for (const v of namesOf(page, spec)) if (typeof v === "string" && v !== "") named.add(v)
     }
   }
   return named
@@ -80,9 +88,7 @@ export function collectRelatedIds(
     let collected = 0
     for (const page of pages) {
       if (collected >= perPropertyCap) break
-      const val = page.properties[spec.propertyId]
-      const values: unknown[] = Array.isArray(val) ? val : [val]
-      for (const v of values) {
+      for (const v of namesOf(page, spec)) {
         if (collected >= perPropertyCap) break
         if (typeof v !== "string" || v === "") continue
         const named = namedIn(v, spec.targetPageTypeSlug)

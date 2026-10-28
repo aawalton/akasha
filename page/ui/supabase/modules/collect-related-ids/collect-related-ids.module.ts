@@ -38,7 +38,11 @@ export const collectRelatedIds = {
       decisionKind: "decision-kind/departure",
       statement: "A page's scoped address is read as the page resolver keys that page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation field of a record a property holds is asked for as a relation is.",
+    },
   ],
   createdAt: "2026-09-01T10:22:24.364Z",
-  updatedAt: "2026-09-25T15:20:56.000Z",
+  updatedAt: "2026-10-28T21:26:03.245Z",
 } as const satisfies Module

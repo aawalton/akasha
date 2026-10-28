@@ -53,6 +53,18 @@ describe("collectRelatedIds", () => {
     const found = collectRelatedIds([{ properties: { bloom: A_SLUG } }], SPECS, CAP)
     expect(found).toEqual([{ pageTypeSlug: TARGET, by: "slug", values: [A_SLUG] }])
   })
+
+  it("asks for the relation field of each record a property holds", () => {
+    const specs: readonly RelationSpec[] = [
+      { propertyId: "beds", fieldId: "bloom", targetPageTypeSlug: TARGET },
+    ]
+    const beds = [{ bloom: namedAs(TARGET, A_SLUG, null) }, { bloom: AN_ID }, { other: "x" }]
+    const found = collectRelatedIds([{ properties: { beds } }], specs, CAP)
+    expect(found).toEqual([
+      { pageTypeSlug: TARGET, by: "id", values: [AN_ID] },
+      { pageTypeSlug: TARGET, by: "slug", values: [A_SLUG] },
+    ])
+  })
 })
 
 const SCOPED_TYPE_ID = "019dda20-0000-7000-8000-000000000002"

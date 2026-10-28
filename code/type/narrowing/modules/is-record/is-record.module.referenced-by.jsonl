@@ -53,6 +53,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/synthetic-config/synthetic-config.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/supabase/modules/use-page-type-directory/use-page-type-directory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"person/modules/enrolment/person-enrolment.module.code.ts","typed":false,"deferred":false}
