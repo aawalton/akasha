@@ -12,9 +12,16 @@ import {
   actorsIn,
   cardsPlacedOf,
   namesIn,
-  outcomeCardsOf,
   startsIn,
 } from "akasha/story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx"
+
+function outcomeCardsOf(
+  text: string,
+  unrevealed: ReadonlySet<string> = new Set(),
+  actors: Parameters<typeof cardsPlacedOf>[3] = new Map()
+) {
+  return [...cardsPlacedOf(text, null, unrevealed, actors).values()].flat()
+}
 
 const TERMS = [
   { from: "Swordplay", by: 35 },

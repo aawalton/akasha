@@ -227,14 +227,6 @@ function linesOf(text: string, unrevealed: ReadonlySet<string>, actors: Actors):
   })
 }
 
-export function outcomeCardsOf(
-  text: string,
-  unrevealed: ReadonlySet<string> = NONE_UNREVEALED,
-  actors: Actors = NO_ACTORS
-): readonly OutcomeCard[] {
-  return linesOf(text, unrevealed, actors).map((one) => one.card)
-}
-
 export type PlacedCards = ReadonlyMap<number, readonly OutcomeCard[]>
 
 export function cardsPlacedOf(
