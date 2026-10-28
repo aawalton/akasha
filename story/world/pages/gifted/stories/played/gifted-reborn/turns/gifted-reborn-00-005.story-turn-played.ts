@@ -7,8 +7,9 @@ export const giftedReborn00005 = {
   unit: "unit/words",
   partOfCollections: ["story-played/gifted-reborn"],
   position: 5,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/beats",
   action: "I use Path of Soulstealing\n\nI use Path of the Completionist",
+  beats: "jsonl",
   lore: [
     "lore/gifted-myriad-paths",
     "lore/gifted-reborn-nala",
@@ -16,7 +17,7 @@ export const giftedReborn00005 = {
     "place/gifted-womb",
   ],
   createdAt: "2026-10-28T00:33:11.156Z",
-  updatedAt: "2026-10-28T00:52:47.592Z",
+  updatedAt: "2026-10-28T00:52:59.308Z",
   endsAt: "2026-10-27T22:03:00.000Z",
   outcomes: "jsonl",
 } as const satisfies StoryTurnPlayed
