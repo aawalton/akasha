@@ -1,0 +1,41 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const magicalGirlMechanicalHeart = {
+  id: "01a18410-e0a1-7a13-9c27-b368756f5005",
+  type: "page-type/story-read",
+  slug: "magical-girl-mechanical-heart",
+  author: "Thundamoo",
+  following: false,
+  unit: "unit/words",
+  title: "Magical Girl Mechanical Heart",
+  world: "world/magical-girl-mechanical-heart",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "106438",
+      externalLink: "https://www.royalroad.com/fiction/106438/magical-girl-mechanical-heart",
+    },
+  ],
+  externalTags: [
+    "Urban Fantasy",
+    "Psychological",
+    "Multiple Lead Characters",
+    "Sci-fi",
+    "Secret Identity",
+    "Drama",
+    "Fantasy",
+    "Artificial Intelligence",
+    "Female Lead",
+    "Lesbian Romance",
+    "Magic",
+    "Magical Girl",
+    "Non-Human Lead",
+    "Supernatural",
+    "Technologically Engineered",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-28T19:51:01.024Z",
+  updatedAt: "2026-10-28T19:51:01.024Z",
+} as const satisfies StoryRead
