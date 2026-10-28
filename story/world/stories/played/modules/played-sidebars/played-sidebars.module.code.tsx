@@ -343,12 +343,7 @@ export function PlayedSidebars({
         side={side}
         width={widths[side]}
         onWidth={(wanted) => resize(side, wanted)}
-        held={{
-          chosen: look,
-          beside: looks.filter((one) => one.side === side),
-          onSwitch: switchTo(side),
-          onClose: () => choose(withSide(open, side, null)),
-        }}
+        label={look.label}
       >
         {placed.get(look.slug)}
       </SidebarColumn>

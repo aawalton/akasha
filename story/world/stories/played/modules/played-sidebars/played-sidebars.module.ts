@@ -18,6 +18,10 @@ export const playedSidebars = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Pressing the button of an open place closes that place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Character and journal open in a left sidebar, and map and chat in a right one.",
     },
     {
@@ -63,5 +67,5 @@ export const playedSidebars = {
     },
   ],
   createdAt: "2026-10-27T18:38:10.173Z",
-  updatedAt: "2026-10-27T20:01:16.453Z",
+  updatedAt: "2026-10-28T14:35:44.540Z",
 } as const satisfies Module

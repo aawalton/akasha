@@ -34,7 +34,7 @@ export const playedSidebarColumn = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A sidebar's head switches between the places on its side and closes the sidebar.",
+      statement: "A sidebar on a desktop has no head of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,5 +42,5 @@ export const playedSidebarColumn = {
     },
   ],
   createdAt: "2026-10-27T20:01:16.453Z",
-  updatedAt: "2026-10-27T20:01:16.453Z",
+  updatedAt: "2026-10-28T14:35:44.540Z",
 } as const satisfies Module

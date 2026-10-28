@@ -128,13 +128,13 @@ export function SidebarColumn({
   side,
   width,
   onWidth,
-  held,
+  label,
   children,
 }: {
   side: "left" | "right"
   width: number
   onWidth: (wanted: number) => void
-  held: PlaceHeld
+  label: string
   children: ReactNode
 }) {
   const dragged = useRef<{ readonly x: number; readonly width: number } | null>(null)
@@ -162,16 +162,15 @@ export function SidebarColumn({
   }
   return (
     <aside
-      aria-label={held.chosen.label}
+      aria-label={label}
       className={cn(SIDEBAR, side === "left" ? SIDEBAR_LEFT : SIDEBAR_RIGHT, surfaceClass(1))}
       style={{ width }}
     >
-      <PlaceHead {...held} />
       <div className={BODY}>{children}</div>
       <div
         role="separator"
         aria-orientation="vertical"
-        aria-label={`Resize ${held.chosen.label}`}
+        aria-label={`Resize ${label}`}
         aria-valuenow={width}
         aria-valuemin={SIDEBAR_NARROWEST}
         aria-valuemax={SIDEBAR_WIDEST}
