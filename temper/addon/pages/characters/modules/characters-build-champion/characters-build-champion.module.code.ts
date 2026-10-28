@@ -152,10 +152,6 @@ export function slottedOf(discipline: TargetDisciplineKey): readonly number[] {
   return SLOT_INDICES[discipline].map((slot) => GetSlotBoundId(slot, HOTBAR_CATEGORY_CHAMPION))
 }
 
-export function championSlotsOf(discipline: TargetDisciplineKey): readonly number[] {
-  return SLOT_INDICES[discipline]
-}
-
 function respecNeeded(plans: readonly DisciplinePlan[]): boolean {
   return plans.some((plan) =>
     plan.skillIds.some(
