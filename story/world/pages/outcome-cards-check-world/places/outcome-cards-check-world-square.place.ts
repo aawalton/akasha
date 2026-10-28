@@ -57,7 +57,11 @@ export const outcomeCardsCheckWorldSquare = {
       fact: "A few dry leaves, brown and curled at the edges, still hang from the old tree.",
       knowers: ["lore-disclosure/game-master", "character-player/outcome-cards-check-player"],
     },
+    {
+      fact: "Steps rise on the square's north side, and a green door stands on its east side.",
+      knowers: ["lore-disclosure/game-master", "character-player/outcome-cards-check-player"],
+    },
   ],
   createdAt: "2026-10-28T00:52:29.403Z",
-  updatedAt: "2026-10-28T01:35:09.724Z",
+  updatedAt: "2026-10-28T01:38:54.051Z",
 } as const satisfies Place
