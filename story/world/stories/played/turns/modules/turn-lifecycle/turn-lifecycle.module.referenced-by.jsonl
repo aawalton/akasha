@@ -47,6 +47,8 @@
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/take-back/story-turn-take-back.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"command/pages/story/turn/take-back/story-turn-take-back.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/properties/story-color.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/modules/held-ability-setting/held-ability-setting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/modules/held-ability-setting/held-ability-setting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-lifecycle.module.code.ts","path":"story/world/stories/played/modules/played-waiting/played-waiting.module.code.ts","typed":false,"deferred":false}

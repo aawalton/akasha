@@ -463,6 +463,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/stories/played/modules/cover-redrawing/cover-redrawing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/stories/played/modules/held-ability-setting/held-ability-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/stories/played/modules/portrait-redrawing/portrait-redrawing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/stories/played/modules/portrait-redrawing/portrait-redrawing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/stories/played/modules/turn-undo-answering/turn-undo-answering.module.code.ts","typed":false,"deferred":false}
