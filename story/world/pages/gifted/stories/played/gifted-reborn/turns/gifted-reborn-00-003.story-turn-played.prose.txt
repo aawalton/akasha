@@ -28,3 +28,8 @@ note: Path: Path of Soulstealing (mutated); Steps: 0
 name: Status
 note: Name: none; Class: Locked; Skills: none (3 empty slots)
 :::
+
+:::status-assessment
+name: Body Features
+note: Aether Core: Minor; Aether Channels: Weak
+:::
