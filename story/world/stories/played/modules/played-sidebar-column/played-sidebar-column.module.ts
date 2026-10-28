@@ -40,7 +40,12 @@ export const playedSidebarColumn = {
       decisionKind: "decision-kind/departure",
       statement: "A panel drawn in a sidebar is a card one surface level above the sidebar.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A sidebar's inner edge is a border in the level 2 surface color and casts a shadow over the turns.",
+    },
   ],
   createdAt: "2026-10-27T20:01:16.453Z",
-  updatedAt: "2026-10-28T18:22:07.608Z",
+  updatedAt: "2026-10-28T18:22:32.842Z",
 } as const satisfies Module
