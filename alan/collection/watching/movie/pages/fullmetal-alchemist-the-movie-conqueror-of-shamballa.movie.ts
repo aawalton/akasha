@@ -11,9 +11,15 @@ export const fullmetalAlchemistTheMovieConquerorOfShamballa = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "14003", externalLink: "https://www.themoviedb.org/movie/14003" },
+    {
+      source: "tmdb",
+      externalId: "14003",
+      externalLink: "https://www.themoviedb.org/movie/14003",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+  streamingOn: ["Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:42:54.691Z",
-  updatedAt: "2026-10-28T18:42:54.691Z",
+  updatedAt: "2026-10-28T19:47:19.385Z",
 } as const satisfies Movie
