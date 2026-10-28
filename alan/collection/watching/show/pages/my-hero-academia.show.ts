@@ -11,9 +11,23 @@ export const myHeroAcademia = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "65930", externalLink: "https://www.themoviedb.org/tv/65930" },
+    {
+      source: "tmdb",
+      externalId: "65930",
+      externalLink: "https://www.themoviedb.org/tv/65930",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "My Hero Academia",
+  streamingOn: [
+    "Crunchyroll",
+    "Crunchyroll Amazon Channel",
+    "Hulu",
+    "Netflix",
+    "Netflix Standard with Ads",
+    "Rakuten Viki",
+    "WeTV",
+  ],
   createdAt: "2026-10-28T18:45:15.586Z",
-  updatedAt: "2026-10-28T18:45:15.586Z",
+  updatedAt: "2026-10-28T19:45:11.891Z",
 } as const satisfies Show
