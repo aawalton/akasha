@@ -22,9 +22,9 @@ const ENDS_AT = exportedAs(turnEndsAt.propertySlug)
 
 const OPENS_AT = exportedAs(storyOpensAt.propertySlug)
 
-export type Placed = { readonly at: string; readonly position: number }
+type Placed = { readonly at: string; readonly position: number }
 
-export type Timed = { readonly held: Taken } | { readonly refused: string }
+type Timed = { readonly held: Taken } | { readonly refused: string }
 
 export function timedWith(held: Taken, start: string | null): Timed {
   if (held.check !== `${held.story}${TIME_PASSING}` || start === null) return { held }
@@ -36,11 +36,7 @@ export function timedWith(held: Taken, start: string | null): Timed {
   }
 }
 
-export function startIndexed(
-  root: string,
-  story: string,
-  earlier: readonly Placed[]
-): string | null {
+function startIndexed(root: string, story: string, earlier: readonly Placed[]): string | null {
   const named = `${storyPlayed.slug}/${story}`
   const ends = earlier
     .toSorted((one, two) => two.position - one.position)
