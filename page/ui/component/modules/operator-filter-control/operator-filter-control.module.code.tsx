@@ -53,6 +53,7 @@ const ALL_FILTER_OPERATORS = [
   "not_contains",
   "gt",
   "lt",
+  "lt_or_empty",
   "gte",
   "lte",
   "is_empty",
@@ -69,7 +70,14 @@ function isFilterOperator(v: string | undefined): v is FilterOperator {
 
 const VALUELESS_OPERATORS = new Set<FilterOperator>(["is_empty", "is_not_empty"])
 
-const SENTINEL_SINGLE_OPS = new Set<FilterOperator>(["equals", "gt", "lt", "gte", "lte"])
+const SENTINEL_SINGLE_OPS = new Set<FilterOperator>([
+  "equals",
+  "gt",
+  "lt",
+  "lt_or_empty",
+  "gte",
+  "lte",
+])
 const RELATIVE_OPS = new Set<FilterOperator>(["is_relative_to_today"])
 const BETWEEN_OPS = new Set<FilterOperator>(["is_between"])
 

@@ -6,6 +6,7 @@ export const operatorFilterControl = {
   slug: "operator-filter-control",
   definition: "The control choosing a filter's operator and the value that operator needs.",
   code: "tsx",
+  test: "tsx",
   createdAt: "2026-09-02T12:08:30.267Z",
-  updatedAt: "2026-09-15T18:36:57.000Z",
+  updatedAt: "2026-10-28T18:58:02.339Z",
 } as const satisfies Module
