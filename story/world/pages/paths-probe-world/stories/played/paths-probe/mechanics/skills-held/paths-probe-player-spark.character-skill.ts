@@ -8,8 +8,8 @@ export const pathsProbePlayerSpark = {
   character: "character-player/paths-probe-player",
   skill: "world-skill/paths-probe-world-spark",
   experience: 10,
-  dormant: false,
+  dormant: true,
   attribute: "metric-character-stat/paths-probe-player-wits",
   createdAt: "2026-10-28T01:03:22.622Z",
-  updatedAt: "2026-10-28T01:44:57.596Z",
+  updatedAt: "2026-10-28T01:45:28.068Z",
 } as const satisfies CharacterSkill
