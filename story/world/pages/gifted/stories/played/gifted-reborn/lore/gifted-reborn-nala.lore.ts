@@ -134,10 +134,6 @@ export const giftedRebornNala = {
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
-      fact: "For consuming a soul, her window showed the reward: Path of Soulstealing (mutated), 0 steps.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
-    },
-    {
       fact: "Her Status reads: Name: none; Class: Locked; Skills: none (3 empty slots).",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
@@ -181,7 +177,11 @@ export const giftedRebornNala = {
       fact: "Its reward, her window showed, was Path of Exceptionalism at 20 steps and Talented at 100.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "For consuming a soul, her window showed the reward: Path of Soulstealing, 0 steps.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T15:44:16.063Z",
+  updatedAt: "2026-10-28T15:44:17.840Z",
 } as const satisfies Lore
