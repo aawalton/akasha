@@ -11,7 +11,7 @@ import type { FamilyHistory } from "akasha/person/properties/family-history.reco
 import type { FirearmAccess } from "akasha/person/properties/firearm-access.boolean-property.types.ts"
 import type { FishServingsPerWeek } from "akasha/person/properties/fish-servings-per-week.number-property.types.ts"
 import type { FluVaccination } from "akasha/person/properties/flu-vaccination.select-property.types.ts"
-import type { FruitVegetableServingsPerDay } from "akasha/person/properties/fruit-vegetable-servings-per-day.number-property.types.ts"
+import type { FruitVegetableGramsPerDay } from "akasha/person/properties/fruit-vegetable-grams-per-day.number-property.types.ts"
 import type { HasSafetyPlan } from "akasha/person/properties/has-safety-plan.boolean-property.types.ts"
 import type { HealthConditions } from "akasha/person/properties/health-conditions.record-property.types.ts"
 import type { InTherapyForDepression } from "akasha/person/properties/in-therapy-for-depression.boolean-property.types.ts"
@@ -34,7 +34,7 @@ import type { SugaryDrinksPerWeek } from "akasha/person/properties/sugary-drinks
 import type { TobaccoUse } from "akasha/person/properties/tobacco-use.select-property.types.ts"
 import type { VehicleMilesPerYear } from "akasha/person/properties/vehicle-miles-per-year.number-property.types.ts"
 import type { Vo2max } from "akasha/person/properties/vo2max.number-property.types.ts"
-import type { WholeGrainServingsPerDay } from "akasha/person/properties/whole-grain-servings-per-day.number-property.types.ts"
+import type { WholeGrainGramsPerDay } from "akasha/person/properties/whole-grain-grams-per-day.number-property.types.ts"
 import type { EmailAddress } from "akasha/persona/properties/email-address.email-address-property.types.ts"
 
 export type Person = Domain & {
@@ -57,8 +57,8 @@ export type Person = Domain & {
   fluVaccination?: FluVaccination
   covidVaccination?: CovidVaccination
   nutsGramsPerDay?: NutsGramsPerDay
-  wholeGrainServingsPerDay?: WholeGrainServingsPerDay
-  fruitVegetableServingsPerDay?: FruitVegetableServingsPerDay
+  wholeGrainGramsPerDay?: WholeGrainGramsPerDay
+  fruitVegetableGramsPerDay?: FruitVegetableGramsPerDay
   legumeServingsPerWeek?: LegumeServingsPerWeek
   fishServingsPerWeek?: FishServingsPerWeek
   coffeeCupsPerDay?: CoffeeCupsPerDay

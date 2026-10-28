@@ -275,7 +275,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/family-death-age.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/family-onset-age.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/fish-servings-per-week.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/fruit-vegetable-servings-per-day.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/fruit-vegetable-grams-per-day.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/legume-servings-per-week.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/meat-servings-per-week.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/medication-dose-mg.number-property.ts","typed":true,"deferred":false}
@@ -288,7 +288,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/sugary-drinks-per-week.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/vehicle-miles-per-year.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/vo2max.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/whole-grain-servings-per-day.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/whole-grain-grams-per-day.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/level.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/points-to-here.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/points-to-next.number-property.ts","typed":true,"deferred":false}
