@@ -11,6 +11,7 @@ import type { Scheme } from "akasha/person/properties/scheme.select-property.typ
 import type { SeatNotices } from "akasha/person/properties/seat-notices.record-property.types.ts"
 import type { Sex } from "akasha/person/properties/sex.select-property.types.ts"
 import type { TobaccoUse } from "akasha/person/properties/tobacco-use.select-property.types.ts"
+import type { VehicleMilesPerYear } from "akasha/person/properties/vehicle-miles-per-year.number-property.types.ts"
 import type { EmailAddress } from "akasha/persona/properties/email-address.email-address-property.types.ts"
 
 export type Person = Domain & {
@@ -23,6 +24,7 @@ export type Person = Domain & {
   sex?: Sex
   tobaccoUse?: TobaccoUse
   alcoholDrinksPerWeek?: AlcoholDrinksPerWeek
+  vehicleMilesPerYear?: VehicleMilesPerYear
   familyHistory?: FamilyHistory
   contributor?: PersonContributor
   scheme?: Scheme

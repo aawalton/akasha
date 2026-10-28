@@ -257,6 +257,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/family-death-age.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/family-onset-age.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/person-height.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/vehicle-miles-per-year.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/level.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/points-to-here.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/points-to-next.number-property.ts","typed":true,"deferred":false}
