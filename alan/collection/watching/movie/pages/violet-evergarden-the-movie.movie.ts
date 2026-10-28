@@ -15,9 +15,11 @@ export const violetEvergardenTheMovie = {
       source: "tmdb",
       externalId: "533514",
       externalLink: "https://www.themoviedb.org/movie/533514",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Violet Evergarden: The Movie",
+  streamingOn: ["Netflix", "Netflix Standard with Ads"],
   createdAt: "2026-10-28T18:45:57.641Z",
-  updatedAt: "2026-10-28T18:45:57.641Z",
+  updatedAt: "2026-10-28T19:48:28.980Z",
 } as const satisfies Movie
