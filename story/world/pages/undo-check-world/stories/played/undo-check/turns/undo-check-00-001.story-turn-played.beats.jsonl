@@ -1,0 +1,1 @@
+{"beat":1,"event":"The player pays the shopkeeper two coins for a lantern.","prose":"You count two coins onto the counter, and the shopkeeper slides the lantern across.","changes":[{"page":"metric-character-currency/undo-check-player","note":"Paid 2 coins for a lantern","key":"value","from":18,"to":16}],"memory":[],"pictured":[]}
