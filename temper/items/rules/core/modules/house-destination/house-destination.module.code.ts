@@ -49,7 +49,7 @@ export function houseRoomFor(
   return Math.max(0, limit.limit - limit.placed)
 }
 
-export type HouseRoom = (collectibleId: number, limitType: number) => number | undefined
+type HouseRoom = (collectibleId: number, limitType: number) => number | undefined
 
 export function roomsIn(locations: Readonly<Record<string, HousedLocation>>): HouseRoom {
   return (collectibleId, limitType) => {
@@ -58,13 +58,13 @@ export function roomsIn(locations: Readonly<Record<string, HousedLocation>>): Ho
   }
 }
 
-export interface HouseBound {
+interface HouseBound {
   readonly chain: DestinationChain | undefined
   readonly limitType: number
   readonly units: number
 }
 
-export interface HouseAllotment<T extends HouseBound> {
+interface HouseAllotment<T extends HouseBound> {
   readonly bound: T
   readonly collectibleId: number
 }
