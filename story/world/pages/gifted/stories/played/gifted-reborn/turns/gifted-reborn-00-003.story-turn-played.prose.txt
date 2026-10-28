@@ -43,3 +43,8 @@ note: Strength: 100; Stamina: 100; Coordination: 100; Mental: 100; Aether: 100
 name: Affinity and Paths
 note: Affinity: Shadow (Strong); Paths: Soulstealing, Completionist
 :::
+
+:::status-assessment
+name: Unallocated Stats
+note: Unallocated Stats: 2
+:::
