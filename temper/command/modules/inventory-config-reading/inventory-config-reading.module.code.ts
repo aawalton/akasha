@@ -1,3 +1,4 @@
+import { dirname, join } from "node:path"
 import { DataError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { savedVariablesRootSchema } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
@@ -47,6 +48,14 @@ const FILE_NAME = "TemperItems.lua"
 const VARIABLES_NAME = "TemperInventory_SavedVariables"
 
 const ACCOUNT_MARK = "@"
+
+const CONFIG_FILE_NAME = "TemperItemsConfig.lua"
+
+const CONFIG_VARIABLE = "TemperItemsConfig"
+
+const ADDONS_FOLDER = "AddOns"
+
+const ADDON_FOLDER = "TemperItems"
 
 const ITEM_ACTION_SCHEMA = z.enum(ITEM_ACTION_VALUES)
 
@@ -223,11 +232,32 @@ const ACCOUNT_WIDE_SCHEMA = z
 
 const ROOT_SCHEMA = savedVariablesRootSchema(ACCOUNT_WIDE_SCHEMA)
 
+const CONFIG_FILE_SCHEMA = z
+  .object({
+    version: z.number(),
+    sellCompiled: COMPILED_BLOCK_SCHEMA.optional(),
+  })
+  .passthrough()
+
+type CompiledBlock = z.infer<typeof COMPILED_BLOCK_SCHEMA>
+
 function ruleIdFor(rule: { categoryId?: string }, index: number): string {
   return `${rule.categoryId ?? "rule"}#${index}`
 }
 
-export function parseTemperItemsConfig(content: string): CompiledInventoryConfig {
+function compiledInConfigFile(content: string | null): CompiledBlock | undefined {
+  if (content === null) return undefined
+  let raw: Record<string, unknown>
+  try {
+    raw = parseLuaSavedVariablesFile(content, CONFIG_VARIABLE)
+  } catch {
+    return undefined
+  }
+  if (typeof raw.version !== "number" || raw.version <= 0) return undefined
+  return CONFIG_FILE_SCHEMA.parse(raw).sellCompiled
+}
+
+function compiledInSavedVariables(content: string): CompiledBlock {
   const rawRoot = parseLuaSavedVariablesFile(content, VARIABLES_NAME)
   const root = ROOT_SCHEMA.parse(rawRoot)
 
@@ -241,20 +271,21 @@ export function parseTemperItemsConfig(content: string): CompiledInventoryConfig
     throw new DataError(`${FILE_NAME}: no ${ACCOUNT_MARK}<account> entry under Default`)
   }
 
-  let compiled: z.infer<typeof COMPILED_BLOCK_SCHEMA> | undefined
   for (const key of accountKeys) {
     const block = defaultTable[key]?.$AccountWide?.sellCompiled
-    if (block) {
-      compiled = block
-      break
-    }
+    if (block) return block
   }
 
-  if (!compiled) {
-    throw new DataError(
-      `${FILE_NAME}: no compiled rule config (sellCompiled) under any ${ACCOUNT_MARK}<account>/$AccountWide`
-    )
-  }
+  throw new DataError(
+    `${FILE_NAME}: no compiled rule config (sellCompiled) under any ${ACCOUNT_MARK}<account>/$AccountWide`
+  )
+}
+
+export function parseTemperItemsConfig(
+  content: string,
+  configFileContent: string | null = null
+): CompiledInventoryConfig {
+  const compiled = compiledInConfigFile(configFileContent) ?? compiledInSavedVariables(content)
 
   const rules: CompiledRule[] = compiled.orderedRules.map((rule, index) => {
     const { id, ...rest } = rule
@@ -299,6 +330,22 @@ function itemRulesFrom(
   return out.sort((one, two) => one.itemId - two.itemId)
 }
 
+export function configFilePathBeside(savedVariablesPath: string): string {
+  return join(dirname(dirname(savedVariablesPath)), ADDONS_FOLDER, ADDON_FOLDER, CONFIG_FILE_NAME)
+}
+
+export async function readConfigFileBeside(savedVariablesPath: string): Promise<string | null> {
+  const path = configFilePathBeside(savedVariablesPath)
+  const file = Bun.file(path)
+  if (!(await file.exists())) return null
+  try {
+    return await file.text()
+  } catch (err) {
+    const reason = err instanceof Error ? err.message : String(err)
+    throw new DataError(`${CONFIG_FILE_NAME}: failed to read ${path} — ${reason}`)
+  }
+}
+
 export async function loadTemperItemsConfigFromPath(
   path: string
 ): Promise<CompiledInventoryConfig> {
@@ -313,5 +360,5 @@ export async function loadTemperItemsConfigFromPath(
     const reason = err instanceof Error ? err.message : String(err)
     throw new DataError(`${FILE_NAME}: failed to read ${path} — ${reason}`)
   }
-  return parseTemperItemsConfig(content)
+  return parseTemperItemsConfig(content, await readConfigFileBeside(path))
 }

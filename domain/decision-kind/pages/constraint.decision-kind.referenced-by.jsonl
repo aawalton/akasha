@@ -1193,6 +1193,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-pages-9/skyshards-pages-9.module.ts","id":"01a0d5ed-e0da-7d76-925d-617466e57e48"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-alliance/temper-alliance.page-type.ts","id":"01a05fc4-7a8c-7403-bf1d-3fe777a61478"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts","id":"01a0d89e-8371-74e9-89b8-8064ba78445b"}
+{"propertySlug":"decision-kind","path":"temper/command/modules/inventory-config-reading/inventory-config-reading.module.ts","id":"01a068e2-2268-7213-9a23-ecfcd6da6b5c"}
 {"propertySlug":"decision-kind","path":"temper/eso/color/modules/engine-colors-seeding/engine-colors-seeding.module.ts","id":"01a0d3f7-7ba7-7987-9441-90a19bd782cb"}
 {"propertySlug":"decision-kind","path":"temper/eso/color/temper-eso-color.domain.ts","id":"01a0d3f7-01e0-7b77-82f2-bf4fd5da1870"}
 {"propertySlug":"decision-kind","path":"temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.ts","id":"01a0cafe-77ad-7be1-b57d-13ea2f9ec1ed"}

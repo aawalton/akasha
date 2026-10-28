@@ -4,13 +4,36 @@ export const inventoryConfigReading = {
   id: "01a068e2-2268-7213-9a23-ecfcd6da6b5c",
   type: "page-type/module",
   slug: "inventory-config-reading",
-  definition: "the compiled rule config the inventory addon wrote into its saved variables",
+  definition: "the compiled rule config the inventory addon runs, read as the addon reads it",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "The rules read here are the addon's compiled ones rather than the authored ones.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The config file the watcher writes beside the addon answers ahead of the saved block.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game never writes the config file beside the addon.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game writes its own copy over the saved block on a reload or a quit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The saved block answers only where the config file holds no compiled rules the game would load.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The config file is looked for in the addon's folder beside the saved-variables folder read.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,5 +79,5 @@ export const inventoryConfigReading = {
     },
   ],
   createdAt: "2026-09-03T20:07:25.544Z",
-  updatedAt: "2026-09-15T18:38:43.000Z",
+  updatedAt: "2026-10-28T19:19:56.716Z",
 } as const satisfies Module

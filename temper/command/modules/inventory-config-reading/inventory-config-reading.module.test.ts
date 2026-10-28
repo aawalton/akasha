@@ -1,11 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
-import { join } from "node:path"
+import { mkdirSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { DataError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import {
+  configFilePathBeside,
   loadTemperItemsConfigFromPath,
   parseTemperItemsConfig,
 } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
+import { serializeInventoryConfigFile } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
 
 const SCRATCH = scratchWorld()
 
@@ -229,4 +232,59 @@ test("a config read off a path reads the same as one read off its content", asyn
   expect((await loadTemperItemsConfigFromPath(at)).rules).toEqual(
     parseTemperItemsConfig(TWO_RULES).rules
   )
+})
+
+const THE_EXPORTED_RULE = {
+  id: "treasures-legendary-wealth",
+  categoryId: "treasures",
+  action: "move-to",
+  destination: "house-storage:Wealth",
+}
+
+function configFile(sellCompiled: unknown): string {
+  return serializeInventoryConfigFile({
+    sellCompiled,
+    logging: {},
+    safety: {},
+    backpack: {},
+    currencyRates: {},
+    crownReplacementCosts: {},
+  })
+}
+
+const EXPORTED = configFile({ orderedRules: [THE_EXPORTED_RULE] })
+
+test("the config file the watcher writes beside the addon answers over the block the game saved", () => {
+  const held = parseTemperItemsConfig(TWO_RULES, EXPORTED)
+  expect(held.rules.map((one) => one.id)).toEqual(["treasures-legendary-wealth"])
+  expect(held.orderedRules[0]?.destination).toBe("house-storage:Wealth")
+})
+
+test("a config file still holding the empty name the addon ships leaves the saved block to answer", () => {
+  const held = parseTemperItemsConfig(TWO_RULES, "TemperItemsConfig = nil\n")
+  expect(held.rules.map((one) => one.id)).toEqual(["weapons#0", "named"])
+})
+
+test("a config file carrying no compiled block leaves the saved block to answer", () => {
+  const held = parseTemperItemsConfig(TWO_RULES, configFile(undefined))
+  expect(held.rules.map((one) => one.id)).toEqual(["weapons#0", "named"])
+})
+
+test("the config file is looked for in the addon's folder beside the saved variables folder", () => {
+  expect(configFilePathBeside("/live/SavedVariables/TemperItems.lua")).toBe(
+    "/live/AddOns/TemperItems/TemperItemsConfig.lua"
+  )
+})
+
+test("a config read off a path takes the config file the watcher wrote beside it", async () => {
+  const live = SCRATCH.rootFor("temper-inventory-config-live-")
+  const saved = join(live, "SavedVariables", "TemperItems.lua")
+  const beside = configFilePathBeside(saved)
+  mkdirSync(dirname(saved), { recursive: true })
+  mkdirSync(dirname(beside), { recursive: true })
+  await Bun.write(saved, TWO_RULES)
+  await Bun.write(beside, EXPORTED)
+  expect((await loadTemperItemsConfigFromPath(saved)).rules.map((one) => one.id)).toEqual([
+    "treasures-legendary-wealth",
+  ])
 })
