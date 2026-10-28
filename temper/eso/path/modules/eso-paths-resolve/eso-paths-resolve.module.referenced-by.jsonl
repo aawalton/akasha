@@ -26,6 +26,7 @@
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/capture/errors-triage/modules/errors-triage-gather/errors-triage-gather.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/catalog/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/catalog/upstream-data/modules/lead-list-upstream-port/lead-list-upstream-port.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/catalog/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/catalog/upstream-data/modules/treasure-upstream-port/treasure-upstream-port.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/catalog/upstream-data/modules/zone-upstream-port/zone-upstream-port.module.code.ts","typed":false,"deferred":false}

@@ -15,6 +15,7 @@ import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.
 import { temperUpstreamDataPort as page } from "akasha/command/pages/temper/upstream/data-port/temper-upstream-data-port.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { port as portHousing } from "akasha/temper/catalog/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts"
+import { port as portLeadList } from "akasha/temper/catalog/upstream-data/modules/lead-list-upstream-port/lead-list-upstream-port.module.code.ts"
 import { port as portMapData } from "akasha/temper/catalog/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.code.ts"
 import { port as portTreasure } from "akasha/temper/catalog/upstream-data/modules/treasure-upstream-port/treasure-upstream-port.module.code.ts"
 import type { UpstreamLibrary } from "akasha/temper/catalog/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"
@@ -30,6 +31,7 @@ const NAMED = [codeRootArgument, libraryArgument]
 
 const PORTED_BY: Record<UpstreamLibrary, (root: string, done: string[]) => Promise<void>> = {
   housing: portHousing,
+  "lead-list": portLeadList,
   "lib-map-data": portMapData,
   "lib-treasure": portTreasure,
   "lib-zone": portZone,

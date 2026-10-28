@@ -91,6 +91,7 @@
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-memory/tmux-scope-memory.provisioned-file.filling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/machine/provisioning/scripts/ci-cost-snapshot/ci-cost-snapshot.shell-script.scripting.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-root.module.code.ts","path":"temper/catalog/upstream-data/modules/lead-list-upstream-verify/lead-list-upstream-verify.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"temper/watcher/image/temper-watcher-image.container-recipe.composing.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

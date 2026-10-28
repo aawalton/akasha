@@ -49,6 +49,11 @@ export const temperAddonWorldAntiquities = {
     "type-declaration/leads-undaunted-declarations",
     "type-declaration/leads-window-declarations",
     "module/leads-sources",
+    "module/leads-locations-12",
+    "module/leads-locations-13",
+    "module/leads-locations-14",
+    "module/leads-locations-15",
+    "module/leads-locations-16",
   ],
   decisions: [
     {
@@ -79,5 +84,5 @@ export const temperAddonWorldAntiquities = {
     },
   ],
   createdAt: "2026-09-22T02:31:42.070Z",
-  updatedAt: "2026-10-20T18:25:44.234Z",
+  updatedAt: "2026-10-28T16:49:50.742Z",
 } as const satisfies Domain

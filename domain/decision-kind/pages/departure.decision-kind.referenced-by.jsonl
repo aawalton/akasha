@@ -5098,6 +5098,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/antiquities-entry/antiquities-entry.module.ts","id":"01a06274-b089-7140-959d-d67b4777dffa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-global/leads-global.module.ts","id":"01a06274-b08a-7c2e-bec4-949ada692ff8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.ts","id":"01a06274-b08a-713c-8263-d0c81956cd55"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-locations/leads-locations.module.ts","id":"01a06274-b08a-7ce8-9f03-7001577750ae"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-sources/leads-sources.module.ts","id":"01a15a8f-ed2a-72ef-b238-8e4401e5e4a0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.ts","id":"01a06274-b08a-7259-9ab9-8679894dbe99"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.ts","id":"01a06274-b08a-7eb8-a0d5-d0f7310def58"}
@@ -5809,6 +5810,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.ts","id":"01a0683b-e6a3-7d85-beb0-b2d13fdf25bb"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
+{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/lead-list-upstream-port/lead-list-upstream-port.module.ts","id":"01a1836b-0298-734f-a5d5-474749ba0517"}
+{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/lead-list-upstream-verify/lead-list-upstream-verify.module.ts","id":"01a1836b-0298-7abf-aa6f-afe2d8e1b0de"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/leaf-dump/leaf-dump.module.ts","id":"01a06282-dfc3-7f7d-baf2-78aa71fd248e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.ts","id":"01a0683b-e6a4-7275-8265-3fa1d955b928"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/map-data-upstream-verify/map-data-upstream-verify.module.ts","id":"01a06282-dfc3-7a2b-87b4-c262c2239e92"}

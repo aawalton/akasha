@@ -19,6 +19,8 @@ export const temperUpstreamData = {
     "module/zone-eso-stubs",
     "module/zone-upstream-port",
     "module/zone-upstream-verify",
+    "module/lead-list-upstream-port",
+    "module/lead-list-upstream-verify",
   ],
   decisions: [
     {
@@ -52,5 +54,5 @@ export const temperUpstreamData = {
     },
   ],
   createdAt: "2026-09-02T03:44:49.342Z",
-  updatedAt: "2026-09-24T23:35:57.000Z",
+  updatedAt: "2026-10-28T16:49:50.742Z",
 } as const satisfies Domain

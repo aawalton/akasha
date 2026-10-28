@@ -4639,6 +4639,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-1/leads-locations-1.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-10/leads-locations-10.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-11/leads-locations-11.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-12/leads-locations-12.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-13/leads-locations-13.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-14/leads-locations-14.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-15/leads-locations-15.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-16/leads-locations-16.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-2/leads-locations-2.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-3/leads-locations-3.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-4/leads-locations-4.module.ts","typed":true,"deferred":false}
@@ -5417,6 +5422,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/upstream-data/modules/lead-list-upstream-port/lead-list-upstream-port.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/upstream-data/modules/lead-list-upstream-verify/lead-list-upstream-verify.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/upstream-data/modules/leaf-dump/leaf-dump.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/upstream-data/modules/map-data-upstream-verify/map-data-upstream-verify.module.ts","typed":true,"deferred":false}

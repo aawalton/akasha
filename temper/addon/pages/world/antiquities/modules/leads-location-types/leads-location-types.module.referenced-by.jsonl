@@ -4,6 +4,11 @@
 {"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-10/leads-locations-10.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-11/leads-locations-11.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-11/leads-locations-11.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-12/leads-locations-12.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-13/leads-locations-13.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-14/leads-locations-14.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-15/leads-locations-15.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-16/leads-locations-16.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-2/leads-locations-2.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-2/leads-locations-2.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-locations-3/leads-locations-3.module.code.ts","typed":false,"deferred":false}
@@ -25,4 +30,5 @@
 {"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-sources/leads-sources.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"leads-location-types.module.code.ts","path":"temper/catalog/upstream-data/modules/lead-list-upstream-port/lead-list-upstream-port.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/world/antiquities/temper-addon-world-antiquities.domain.ts","id":"01a0c6f4-6af6-74a8-8e13-9f3e2328ee42"}
