@@ -94,6 +94,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/engine-answer-catalog-capture/engine-answer-catalog-capture.module.ts","id":"01a0d42c-33d0-7ff4-8038-09dcb9eccb0b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.ts","id":"01a0d3e3-15fd-7894-84c4-490fc66d1590"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/pages/cephaliarch-s-flail/cephaliarch-s-flail.temper-skill.ts","id":"019e6f53-9fc4-7e6c-a107-763cf4dfad95"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/pages/soul-splitting-trap-40328/soul-splitting-trap-40328.temper-skill.ts","id":"019e6f53-a776-71b6-a9d9-edc6cf08dc05"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/higher-of.multi-relation-property.ts","id":"01a15725-b46b-75f4-9078-13b1f356b31f"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts","id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}

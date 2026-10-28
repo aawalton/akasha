@@ -20,9 +20,30 @@ export const soulSplittingTrap40328 = {
   skillType: "temper-skill-type/active",
   hashPlace: 1235,
   createdAt: "2026-05-28T16:03:33.878Z",
-  updatedAt: "2026-10-15T15:44:52.958Z",
+  updatedAt: "2026-10-28T20:20:26.004Z",
   equations: [
-    "<<1>> = 0.0172105 MaxStat + 0.181103 MaxPower - 1.45945 (Ultimate, ratio = 10.52, Dmg, Magic, SingleTarget, DOT, 10s duration, 2s tick, R2 = 0.999996)",
+    "<<1>> = 0.01897 MaxStat + 0.1988 MaxPower - 1.45945 (Ultimate, Dmg, Magic, SingleTarget, DOT, 10s duration, 2s tick, ticks on application)",
     "<<2>> = 10 seconds (Constant)",
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The damage ticks once on application and every 2 seconds after, six ticks in all.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Every reading of the damage allows a stat coefficient from 0.0189492 to 0.0189849.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Every reading of the damage allows a power coefficient from 0.198728 to 0.198913.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "The damage takes 0.01897 and 0.1988, the shortest decimals inside those ranges.",
+    },
   ],
 } as const satisfies TemperSkill

@@ -1046,6 +1046,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/debuff-id.relation-property.ts","id":"01a05fd1-d439-75b3-92b0-1243e1ad274a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/pages/cephaliarch-s-flail/cephaliarch-s-flail.temper-skill.ts","id":"019e6f53-9fc4-7e6c-a107-763cf4dfad95"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/pages/soul-splitting-trap-40328/soul-splitting-trap-40328.temper-skill.ts","id":"019e6f53-a776-71b6-a9d9-edc6cf08dc05"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/properties/skill-equations.text-property.ts","id":"01a1403a-1be8-7e56-bc40-e20174d45df3"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/treasure-upstream-verify/treasure-upstream-verify.module.ts","id":"01a06282-dfc3-7860-9a09-26dd6febe9a4"}
