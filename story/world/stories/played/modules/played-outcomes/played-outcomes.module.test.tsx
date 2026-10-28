@@ -8,6 +8,7 @@ import { normal } from "akasha/story/world/stories/played/difficulty-levels/page
 import { veryHard } from "akasha/story/world/stories/played/difficulty-levels/pages/very-hard.difficulty-level.ts"
 import {
   cardsPlacedOf,
+  namesIn,
   outcomeCardsOf,
   startsIn,
 } from "akasha/story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx"
@@ -72,6 +73,37 @@ test("a chapter's cards are drawn before the paragraph their own turn starts at"
 test("a chapter line naming no turn it kept a start for draws no card", () => {
   const unturned = cardsPlacedOf(lineAt(normal), startsIn([{ position: 8, paragraph: 14 }]))
   expect(unturned.size).toBe(0)
+})
+
+const SWORDPLAY = "character-skill/ana-swordplay"
+
+function namingSkill(skill: string): string {
+  return JSON.stringify({ ...JSON.parse(lineAt(normal)), reading: { skill } })
+}
+
+test("a line names the skill or stat its reading named", () => {
+  const stat = JSON.stringify({ ...JSON.parse(lineAt(normal)), reading: { stat: "a-stat/ana" } })
+  expect(namesIn(`${namingSkill(SWORDPLAY)}\n${stat}\n${lineAt(normal)}\n`)).toEqual([
+    SWORDPLAY,
+    "a-stat/ana",
+  ])
+})
+
+test("a card leaves out the skill and its term where that skill's page is unrevealed", () => {
+  expect(outcomeCardsOf(namingSkill(SWORDPLAY), new Set([SWORDPLAY]))).toEqual([
+    {
+      skill: "",
+      actionDifficulty: medium.title,
+      outcome: greatSuccess.title,
+      terms: "Recent Similar Success +10, Enemy Staggered +5",
+    },
+  ])
+})
+
+test("a card keeps a skill whose page is revealed", () => {
+  const [card] = outcomeCardsOf(namingSkill(SWORDPLAY), new Set(["character-skill/other"]))
+  expect(card?.skill).toBe("Swordplay")
+  expect(card?.terms).toStartWith("Swordplay +35")
 })
 
 test("a line no tiered roll answered draws no card", () => {

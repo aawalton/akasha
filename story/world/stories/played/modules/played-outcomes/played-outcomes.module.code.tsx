@@ -1,7 +1,9 @@
 "use client"
 
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type { PageWatch } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
 import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
@@ -63,6 +65,18 @@ const ROWS_PARTED_BY = " "
 const MINUS = "−"
 
 const JOINED = ", "
+
+const READING = "reading"
+
+const NAMED_KEYS = ["skill", "stat"] as const
+
+const SLUG_KEY = "slug"
+
+const UNREVEALED_KEY = "unrevealed"
+
+const PARTED = "/"
+
+const NONE_UNREVEALED: ReadonlySet<string> = new Set()
 
 type Titled = { readonly slug: string; readonly title: string }
 
@@ -126,26 +140,59 @@ function levelTerm(value: unknown): string | null {
 
 type Lined = { readonly card: OutcomeCard; readonly turn: number | null }
 
-function linedOf(line: string): Lined | null {
-  let read: unknown
-  try {
-    read = JSON.parse(line)
-  } catch {
-    return null
+type Read = Readonly<Record<string, unknown>>
+
+function readsOf(text: string): readonly Read[] {
+  return text
+    .split(BREAK)
+    .filter((one) => one.trim() !== "")
+    .flatMap((one) => {
+      try {
+        const read: unknown = JSON.parse(one)
+        return isRecord(read) ? [read] : []
+      } catch {
+        return []
+      }
+    })
+}
+
+function namedIn(read: Read): string | null {
+  const reading = read[READING]
+  if (!isRecord(reading)) return null
+  for (const key of NAMED_KEYS) {
+    const said = reading[key]
+    if (typeof said === "string") return said
   }
-  if (!isRecord(read)) return null
+  return null
+}
+
+export function namesIn(text: string): readonly string[] {
+  return [
+    ...new Set(
+      readsOf(text).flatMap((one) => {
+        const named = namedIn(one)
+        return named === null ? [] : [named]
+      })
+    ),
+  ]
+}
+
+function linedOf(read: Read, unrevealed: ReadonlySet<string>): Lined | null {
   const answered = read[ANSWERED]
   if (!isRecord(answered)) return null
   const outcome = answered["outcome"]
   const difficulty = answered["actionDifficulty"]
   if (typeof outcome !== "string" || typeof difficulty !== "string") return null
-  const terms = termsIn(answered["terms"])
+  const all = termsIn(answered["terms"])
+  const named = namedIn(read)
+  const hidden = named !== null && unrevealed.has(named)
+  const terms = hidden ? all.slice(1) : all
   const said = terms.map((one) => `${one.from} ${signed(one.by)}`)
   const level = levelTerm(read[LEVEL])
   const turn = read[TURN]
   return {
     card: {
-      skill: terms[0]?.from ?? "",
+      skill: hidden ? "" : (all[0]?.from ?? ""),
       actionDifficulty: titleOf(difficulty),
       outcome: titleOf(outcome),
       terms: [...said, ...(level === null ? [] : [level])].join(JOINED),
@@ -154,28 +201,29 @@ function linedOf(line: string): Lined | null {
   }
 }
 
-function linesOf(text: string): readonly Lined[] {
-  return text
-    .split(BREAK)
-    .filter((one) => one.trim() !== "")
-    .flatMap((one) => {
-      const lined = linedOf(one)
-      return lined === null ? [] : [lined]
-    })
+function linesOf(text: string, unrevealed: ReadonlySet<string>): readonly Lined[] {
+  return readsOf(text).flatMap((one) => {
+    const lined = linedOf(one, unrevealed)
+    return lined === null ? [] : [lined]
+  })
 }
 
-export function outcomeCardsOf(text: string): readonly OutcomeCard[] {
-  return linesOf(text).map((one) => one.card)
+export function outcomeCardsOf(
+  text: string,
+  unrevealed: ReadonlySet<string> = NONE_UNREVEALED
+): readonly OutcomeCard[] {
+  return linesOf(text, unrevealed).map((one) => one.card)
 }
 
 export type PlacedCards = ReadonlyMap<number, readonly OutcomeCard[]>
 
 export function cardsPlacedOf(
   text: string,
-  starts: ReadonlyMap<number, number> | null
+  starts: ReadonlyMap<number, number> | null,
+  unrevealed: ReadonlySet<string> = NONE_UNREVEALED
 ): PlacedCards {
   const placed = new Map<number, OutcomeCard[]>()
-  for (const one of linesOf(text)) {
+  for (const one of linesOf(text, unrevealed)) {
     const at = starts === null ? FIRST_PARAGRAPH : starts.get(one.turn ?? Number.NaN)
     if (at === undefined) continue
     placed.set(at, [...(placed.get(at) ?? []), one.card])
@@ -210,16 +258,51 @@ async function readOutcomes(pageTypeSlug: string, ids: readonly string[]): Promi
     files: [OUTCOMES_KEY],
   })
   if (!asked.ok) return null
+  const texts = asked.answer.rows.map((row) => row.values[OUTCOMES_KEY])
+  const unrevealed = await unrevealedOf(
+    texts.flatMap((text) => (typeof text === "string" ? namesIn(text) : []))
+  )
   const held = new Map<string, PlacedCards>()
   for (const row of asked.answer.rows) {
     const id = row.values[ID_KEY]
     const text = row.values[OUTCOMES_KEY]
     if (typeof id !== "string" || typeof text !== "string") continue
     const starts = chaptered ? startsIn(row.values[STARTS_KEY]) : null
-    const cards = cardsPlacedOf(text, starts)
+    const cards = cardsPlacedOf(text, starts, unrevealed)
     if (cards.size > 0) held.set(id, cards)
   }
   return held
+}
+
+async function unrevealedOf(names: readonly string[]): Promise<ReadonlySet<string>> {
+  const slugsByType = new Map<string, string[]>()
+  for (const name of new Set(names)) {
+    const address = addressIn(name)
+    if (address.kind !== "qualified") continue
+    const slugs = slugsByType.get(address.pageTypeSlug) ?? []
+    slugsByType.set(address.pageTypeSlug, [...slugs, address.slug])
+  }
+  const unrevealed = new Set<string>()
+  await Promise.all(
+    [...slugsByType].map(async ([type, slugs]) => {
+      const asked = await askedLoudly({
+        "page-type": type,
+        where: { slug: { in: slugs } },
+        keys: [SLUG_KEY, UNREVEALED_KEY],
+      })
+      if (!asked.ok) {
+        for (const slug of slugs) unrevealed.add(`${type}${PARTED}${slug}`)
+        return
+      }
+      for (const row of asked.answer.rows) {
+        const slug = textIn(row.values[SLUG_KEY])
+        if (slug !== null && row.values[UNREVEALED_KEY] === true) {
+          unrevealed.add(`${type}${PARTED}${slug}`)
+        }
+      }
+    })
+  )
+  return unrevealed
 }
 
 export function usePlayedOutcomes(pageTypeSlug: string | null, ids: readonly string[]): Cards {
@@ -291,7 +374,8 @@ export function OutcomeCards({ cards }: { readonly cards: readonly OutcomeCard[]
       {cards.map((card, place) => (
         <div key={`${place}:${card.outcome}`} className={`rounded-lg px-4 py-3 ${surfaceClass(1)}`}>
           <p className="text-tertiary text-xs">
-            ({card.skill} · {card.actionDifficulty})
+            ({card.skill === "" ? "" : `${card.skill} · `}
+            {card.actionDifficulty})
           </p>
           <p className="font-semibold text-sm">{card.outcome}</p>
           {card.terms === "" ? null : <p className="text-secondary text-xs">{card.terms}</p>}

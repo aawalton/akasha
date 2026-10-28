@@ -27,6 +27,15 @@ export const playedOutcomes = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A card whose roll named a page stating it is unrevealed leaves out that page's name and term.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page whose state the card cannot read is taken as unrevealed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A story's difficulty level other than Normal is shown as one more term.",
     },
     {
@@ -39,5 +48,5 @@ export const playedOutcomes = {
     },
   ],
   createdAt: "2026-10-27T20:40:18.723Z",
-  updatedAt: "2026-10-27T21:15:59.502Z",
+  updatedAt: "2026-10-28T00:34:32.842Z",
 } as const satisfies Module
