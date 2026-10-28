@@ -57,7 +57,11 @@ export const probeTwoWorldSquare = {
       fact: "The cobbles around the square's well are worn smooth.",
       knowers: ["lore-disclosure/game-master", "character-player/probe-two-player"],
     },
+    {
+      fact: "The stone blocks of the square's well rim are joined tight, leaving only thin seams.",
+      knowers: ["lore-disclosure/game-master", "character-player/probe-two-player"],
+    },
   ],
   createdAt: "2026-10-27T23:43:53.894Z",
-  updatedAt: "2026-10-27T23:58:51.704Z",
+  updatedAt: "2026-10-28T00:00:33.842Z",
 } as const satisfies Place
