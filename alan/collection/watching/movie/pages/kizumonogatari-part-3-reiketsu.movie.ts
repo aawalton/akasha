@@ -15,9 +15,10 @@ export const kizumonogatariPart3Reiketsu = {
       source: "tmdb",
       externalId: "362585",
       externalLink: "https://www.themoviedb.org/movie/362585",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Kizumonogatari Part 3: Reiketsu",
   createdAt: "2026-10-28T18:52:49.709Z",
-  updatedAt: "2026-10-28T18:52:49.709Z",
+  updatedAt: "2026-10-28T19:47:38.937Z",
 } as const satisfies Movie
