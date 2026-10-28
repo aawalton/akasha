@@ -15,9 +15,11 @@ export const aSilentVoiceTheMovie = {
       source: "tmdb",
       externalId: "378064",
       externalLink: "https://www.themoviedb.org/movie/378064",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "A Silent Voice: The Movie",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:45:50.386Z",
-  updatedAt: "2026-10-28T18:45:50.386Z",
+  updatedAt: "2026-10-28T19:46:40.545Z",
 } as const satisfies Movie
