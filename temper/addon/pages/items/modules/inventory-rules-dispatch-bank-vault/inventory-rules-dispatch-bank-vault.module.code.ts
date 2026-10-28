@@ -12,6 +12,8 @@ import {
   clearPendingAction,
   forEachPendingAction,
   getCompiledConfig,
+  getPendingAction,
+  getPendingDestination,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { reportAction } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import {
@@ -27,6 +29,7 @@ import { findMatchedRule } from "akasha/temper/addon/pages/items/modules/invento
 import { runPaced } from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import { slotKey } from "akasha/temper/addon/pages/items/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
 import {
+  aimTakeBacks,
   aimVaultDeposits,
   planVaultDeposit,
   splitLanded,
@@ -151,12 +154,60 @@ function readVaultDepositPlan(): VaultDepositPlan {
   for (let slot = 0; slot < backpackSize; slot++) {
     if (stackInBackpack(slot) > 0 && CanStowFurnitureItem(BAG_BACKPACK, slot)) stowable.push(slot)
   }
-  return planVaultDeposit(pending, stowable)
+  const plan = planVaultDeposit(pending, stowable, GetNumBagFreeSlots(BAG_FURNITURE_VAULT))
+  if (plan.kind !== "stow-all-then-take-back") return plan
+  for (const slot of plan.takeBack) {
+    const action = getPendingAction(BAG_BACKPACK, slot)
+    const destination = getPendingDestination(BAG_BACKPACK, slot)
+    if (action === undefined) return { kind: "moves", slots: plan.slots }
+    if (action !== "open-stolen-when-safe" && !isBackpackRequiredAction(action, destination)) {
+      return { kind: "moves", slots: plan.slots }
+    }
+  }
+  return plan
 }
 
 function stackInVault(this: void, slot: number): number {
   const [stackCount] = GetSlotStackSize(BAG_FURNITURE_VAULT, slot)
   return stackCount
+}
+
+function linkInVault(this: void, slot: number): string {
+  return GetItemLink(BAG_FURNITURE_VAULT, slot, LINK_STYLE_BRACKETS)
+}
+
+function takeBack(
+  kept: readonly { readonly itemLink: string; readonly count: number }[],
+  bankMoveItem: (
+    sourceBag: number,
+    sourceSlot: number,
+    targetBag: number,
+    targetSlot: number,
+    stackCount: number
+  ) => void
+): undefined {
+  if (kept.length === 0) return
+  const vaultSize = GetBagSize(BAG_FURNITURE_VAULT)
+  const backpackSize = GetBagSize(BAG_BACKPACK)
+  const aimed = aimTakeBacks(
+    kept,
+    vaultSize,
+    linkInVault,
+    stackInVault,
+    backpackSize,
+    stackInBackpack
+  )
+  const left = kept.length - aimed.length
+  if (left > 0) d(`[${ADDON_NAME}] ${left} kept furnishing stack(s) stay in the vault for now`)
+  const sends: ((this: void) => boolean)[] = []
+  for (const one of aimed) {
+    sends.push(function (this: void): boolean {
+      if (stackInBackpack(one.target) > 0) return false
+      bankMoveItem(BAG_FURNITURE_VAULT, one.source, BAG_BACKPACK, one.target, one.count)
+      return true
+    })
+  }
+  runPaced(sends, vaultStillOpen, function (this: void): undefined {})
 }
 
 function linkInBackpack(slot: number): string {
@@ -183,6 +234,13 @@ export function startVaultDeposits(
   if (plan.kind === "moves" && aimed.length === 0) return
   vaultBulkRunning = true
   const slots = plan.kind === "moves" ? aimed.map((one) => one.slot) : plan.slots
+  const kept =
+    plan.kind === "stow-all-then-take-back"
+      ? plan.takeBack.map((slot) => ({
+          itemLink: GetItemLink(BAG_BACKPACK, slot, LINK_STYLE_BRACKETS),
+          count: stackInBackpack(slot),
+        }))
+      : []
   const startedMs = GetGameTimeMilliseconds()
   const links: Record<number, string> = {}
   for (const slot of slots) links[slot] = linkInBackpack(slot)
@@ -205,7 +263,9 @@ export function startVaultDeposits(
       reportAction("Deposited to furniture vault", depositedLinks)
     }
     vaultBulkRunning = false
-    if (vaultStillOpen()) startVaultDepositChain(bankMoveItem)
+    if (!vaultStillOpen()) return
+    takeBack(kept, bankMoveItem)
+    startVaultDepositChain(bankMoveItem)
   }
 
   function settleLater(): undefined {
@@ -225,7 +285,7 @@ export function startVaultDeposits(
     finish()
   })
 
-  if (plan.kind === "stow-all") {
+  if (plan.kind !== "moves") {
     runPaced(
       [
         function (this: void): boolean {

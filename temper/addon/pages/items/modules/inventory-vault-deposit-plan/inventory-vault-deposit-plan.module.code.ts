@@ -1,12 +1,18 @@
 export type VaultDepositPlan =
   | { readonly kind: "none" }
   | { readonly kind: "stow-all"; readonly slots: number[] }
+  | {
+      readonly kind: "stow-all-then-take-back"
+      readonly slots: number[]
+      readonly takeBack: number[]
+    }
   | { readonly kind: "moves"; readonly slots: number[] }
 
 export function planVaultDeposit(
   this: void,
   pending: readonly number[],
-  stowable: readonly number[]
+  stowable: readonly number[],
+  vaultFreeSlots: number
 ): VaultDepositPlan {
   const isStowable: Record<number, boolean> = {}
   for (const slot of stowable) isStowable[slot] = true
@@ -19,10 +25,61 @@ export function planVaultDeposit(
   }
   if (slots.length === 0) return { kind: "none" }
   slots.sort((a, b) => a - b)
+  const takeBack: number[] = []
+  const seen: Record<number, boolean> = {}
   for (const slot of stowable) {
-    if (chosen[slot] !== true) return { kind: "moves", slots }
+    if (chosen[slot] === true || seen[slot] === true) continue
+    seen[slot] = true
+    takeBack.push(slot)
   }
-  return { kind: "stow-all", slots }
+  if (takeBack.length === 0) return { kind: "stow-all", slots }
+  const fits = slots.length + takeBack.length <= vaultFreeSlots
+  if (fits && takeBack.length + 1 < slots.length) {
+    takeBack.sort((a, b) => a - b)
+    return { kind: "stow-all-then-take-back", slots, takeBack }
+  }
+  return { kind: "moves", slots }
+}
+
+interface KeptStack {
+  readonly itemLink: string
+  readonly count: number
+}
+
+interface AimedTakeBack {
+  readonly source: number
+  readonly target: number
+  readonly count: number
+}
+
+export function aimTakeBacks(
+  this: void,
+  kept: readonly KeptStack[],
+  vaultSize: number,
+  vaultLinkAt: (this: void, slot: number) => string,
+  vaultStackAt: (this: void, slot: number) => number,
+  backpackSize: number,
+  backpackStackAt: (this: void, slot: number) => number
+): AimedTakeBack[] {
+  const taken: Record<number, number> = {}
+  const aimed: AimedTakeBack[] = []
+  let target = 0
+  for (const one of kept) {
+    let source: number | undefined
+    for (let slot = 0; slot < vaultSize; slot++) {
+      if (vaultLinkAt(slot) !== one.itemLink) continue
+      if (vaultStackAt(slot) - (taken[slot] ?? 0) < one.count) continue
+      source = slot
+      break
+    }
+    if (source === undefined) continue
+    while (target < backpackSize && backpackStackAt(target) > 0) target++
+    if (target >= backpackSize) break
+    taken[source] = (taken[source] ?? 0) + one.count
+    aimed.push({ source, target, count: one.count })
+    target++
+  }
+  return aimed
 }
 
 interface AimedVaultDeposit {

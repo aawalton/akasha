@@ -20,8 +20,35 @@ export const inventoryVaultDepositPlan = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Where the rules keep any such furnishing back, each slot is sent a move of its own.",
+      statement: "A stow-all is one request, whatever number of stacks it moves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stow-all takes every furnishing the vault can take, and no filter narrows it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where the rules keep some back, a stow-all goes and those are taken back after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That is planned only where taking back costs fewer requests than a move each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That is planned only where the vault has a free slot for every stack it stows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Otherwise each slot the rules send to the vault is sent a move of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A kept stack is taken back from a vault slot holding its item and enough of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each stack taken back aims at an empty backpack slot of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -37,5 +64,5 @@ export const inventoryVaultDepositPlan = {
     },
   ],
   createdAt: "2026-10-10T14:07:56.723Z",
-  updatedAt: "2026-10-28T21:02:36.408Z",
+  updatedAt: "2026-10-28T21:46:07.799Z",
 } as const satisfies Module

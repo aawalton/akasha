@@ -39,6 +39,22 @@ export const inventoryRulesDispatchBankVault = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A visit stows all and then takes back the stacks the rules keep, where planned.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Stacks are taken back only where each kept stack's action needs the backpack.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A kept stack not taken back is withdrawn by the next vault visit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Taking back starts once the stow-all has settled, through the shared window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Single deposits sent at once each aim at an empty vault slot of their own.",
     },
     {
@@ -68,5 +84,5 @@ export const inventoryRulesDispatchBankVault = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-10-28T21:42:35.527Z",
+  updatedAt: "2026-10-28T21:46:07.799Z",
 } as const satisfies Module
