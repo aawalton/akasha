@@ -49,7 +49,11 @@ export const outcomeCardsCheckWorldSquare = {
       fact: "A wooden bucket sits on the rim of the square's well, its rope coiled beside it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An old tree leans over the square's bench, now and then dropping a dry leaf to the cobbles.",
+      knowers: ["lore-disclosure/game-master", "character-player/outcome-cards-check-player"],
+    },
   ],
   createdAt: "2026-10-28T00:52:29.403Z",
-  updatedAt: "2026-10-28T00:52:29.403Z",
+  updatedAt: "2026-10-28T01:27:32.680Z",
 } as const satisfies Place
