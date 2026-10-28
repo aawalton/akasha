@@ -9,7 +9,15 @@ export const inventoryRulesDispatchBankVault = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A vault withdrawal goes straight to the game rather than onto the paced chain.",
+      statement: "A vault withdrawal is planned here and handed to the caller to send.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The caller sends vault withdrawals through the shared window's paced run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Vault deposits start once every withdrawal has gone out.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -63,5 +71,5 @@ export const inventoryRulesDispatchBankVault = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-10-28T21:02:36.408Z",
+  updatedAt: "2026-10-28T21:04:22.787Z",
 } as const satisfies Module

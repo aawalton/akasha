@@ -22,6 +22,14 @@ export const inventoryRulesDispatchBank = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A vault visit sends its withdrawals through the shared server action window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A vault visit closed before its withdrawals went out deposits nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A visit stacks the backpack and the storage it opened once every move that visit plans has settled.",
     },
@@ -51,5 +59,5 @@ export const inventoryRulesDispatchBank = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.857Z",
-  updatedAt: "2026-10-28T20:48:28.113Z",
+  updatedAt: "2026-10-28T21:04:22.787Z",
 } as const satisfies Module

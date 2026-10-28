@@ -22,9 +22,11 @@ import type { BankSlotContext } from "akasha/temper/addon/pages/items/modules/in
 import {
   executeVaultWithdrawals,
   startVaultDeposits,
+  vaultStillOpen,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.code.ts"
 import { executeBankWithdrawals } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"
 import { refreshBackpackActions } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
+import { runPaced } from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -114,14 +116,28 @@ export function onOpenBank(): BankTransitionSummary | undefined {
       currentChestId: undefined,
     }
     const vaultStart = GetGameTimeMilliseconds()
-    const { withdrawnLinks } = executeVaultWithdrawals(vaultCtx, MAX_VAULT_WITHDRAW_OPS, moveItem)
+    const sends: ((this: void) => boolean)[] = []
+    const { withdrawnLinks } = executeVaultWithdrawals(
+      vaultCtx,
+      MAX_VAULT_WITHDRAW_OPS,
+      function (this: void, sourceBag, sourceSlot, targetBag, targetSlot, count): undefined {
+        sends.push(function (this: void): boolean {
+          const [held] = GetSlotStackSize(sourceBag, sourceSlot)
+          if (held === 0) return false
+          moveItem(sourceBag, sourceSlot, targetBag, targetSlot, count)
+          return true
+        })
+      }
+    )
     recordBankPhaseMs("withdraw", GetGameTimeMilliseconds() - vaultStart)
     recordBankMoves(withdrawnLinks.length, 0)
     if (withdrawnLinks.length > 0) {
       reportAction("Withdrew from furniture vault", withdrawnLinks, "stack")
     }
     dispatchingBank = false
-    startVaultDeposits(moveItem, withdrawnLinks.length)
+    runPaced(sends, vaultStillOpen, function (this: void, finished: boolean): undefined {
+      if (finished) startVaultDeposits(moveItem, withdrawnLinks.length)
+    })
     return undefined
   }
 

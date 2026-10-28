@@ -114,7 +114,6 @@ export function executeVaultWithdrawals(
       break
     }
     withdrawnLinks.push(stackCount > 1 ? `${itemLink} x${stackCount}` : itemLink)
-    noteServerAction()
     bankMoveItem(BAG_FURNITURE_VAULT, w.slotIndex, BAG_BACKPACK, targetSlot, stackCount)
     ctx.vacated.set(slotKey(BAG_FURNITURE_VAULT, w.slotIndex), true)
     if (w.house !== undefined) stacksByHouse.set(w.house, (stacksByHouse.get(w.house) ?? 0) + 1)
@@ -279,7 +278,7 @@ const VAULT_BULK_SETTLE_MS = 1500
 
 let vaultBulkRunning = false
 
-function vaultStillOpen(this: void): boolean {
+export function vaultStillOpen(this: void): boolean {
   return IsBankOpen() && GetBankingBag() === BAG_FURNITURE_VAULT
 }
 
