@@ -11,9 +11,15 @@ export const whisperOfTheHeart = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "37797", externalLink: "https://www.themoviedb.org/movie/37797" },
+    {
+      source: "tmdb",
+      externalId: "37797",
+      externalLink: "https://www.themoviedb.org/movie/37797",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Whisper of the Heart",
+  streamingOn: ["HBO Max", "HBO Max Amazon Channel"],
   createdAt: "2026-10-28T18:51:35.586Z",
-  updatedAt: "2026-10-28T18:51:35.586Z",
+  updatedAt: "2026-10-28T19:48:30.374Z",
 } as const satisfies Movie
