@@ -342,7 +342,7 @@ const nothingBetween: Between = () => []
 
 const RUN_KUBECTL: Kubectl = { on: runKubectlOn, alone: runKubectl, wait: Bun.sleepSync }
 
-export function storeTimedOut(one: Ran): boolean {
+function storeTimedOut(one: Ran): boolean {
   return one.code !== 0 && one.stderr.includes(STORE_TIMED_OUT)
 }
 
