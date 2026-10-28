@@ -13,10 +13,15 @@ export const giftedReborn00004 = {
   action:
     "I look through the status in wonder and think about what it means, then quickly get bored. To pass the time, I start doing mental math, first just counting, then counting my intervals up and down, then by multiples up and down, while I pass the time. I leave the points unallocated for now",
   beats: "jsonl",
-  lore: ["lore/gifted-myriad-paths", "lore/gifted-reborn-nala", "place/gifted-womb"],
+  lore: [
+    "lore/gifted-myriad-paths",
+    "lore/gifted-reborn-nala",
+    "lore/gifted-souls-and-demons",
+    "place/gifted-womb",
+  ],
   interruptsAt: "2026-10-27T22:00:00.000Z",
   createdAt: "2026-10-28T00:33:02.651Z",
-  updatedAt: "2026-10-28T00:48:56.887Z",
+  updatedAt: "2026-10-28T00:49:44.467Z",
   ownLength: 249,
   endsAt: "2026-10-27T22:00:00.000Z",
 } as const satisfies StoryTurnPlayed
