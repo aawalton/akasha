@@ -6,11 +6,13 @@ import {
   UnderlineTabsTrigger,
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { Progress } from "akasha/design/interface/primitive/modules/progress-bar/progress-bar.module.code.tsx"
+import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import { PlaceTabs } from "akasha/story/ui/modules/place-head/place-head.module.code.tsx"
 import {
   AttributeSections,
   ScalarRows,
+  StatsSection,
 } from "akasha/story/ui/modules/sheet-attributes/sheet-attributes.module.code.tsx"
 import {
   type Act,
@@ -53,6 +55,12 @@ const SKILLS = "skills"
 const TRAITS = "traits"
 
 const XP = "XP"
+
+const CARD = "flex flex-col gap-3 rounded-xl p-4 shadow-sm"
+
+export function SheetCard({ children }: { children: ReactNode }) {
+  return <SurfaceProvider className={CARD}>{children}</SurfaceProvider>
+}
 
 type Experience = NonNullable<ClientSheet["experience"]>[number]
 
@@ -128,29 +136,31 @@ function StatsTab({
   }
   return (
     <div className="flex flex-col gap-3">
-      {head.caption}
-      {(sheet.experience ?? []).length === 0 ? null : (
-        <ExperienceBars experience={sheet.experience ?? []} />
-      )}
-      {head.cover}
-      {points.length === 0 ? null : <LevelUp points={points} />}
+      <SheetCard>
+        {head.caption}
+        {(sheet.experience ?? []).length === 0 ? null : (
+          <ExperienceBars experience={sheet.experience ?? []} />
+        )}
+        {head.cover}
+        {points.length === 0 ? null : <LevelUp points={points} />}
+      </SheetCard>
       {showsStats && Object.keys(profile).length > 0 ? (
-        <Section title="Profile">
+        <StatsSection title="Profile">
           <ScalarRows record={profile} />
-        </Section>
+        </StatsSection>
       ) : null}
       {showsStats && sheet.resources !== undefined ? (
-        <Section title="Resources">
+        <StatsSection title="Resources">
           <ScalarRows record={sheet.resources} />
-        </Section>
+        </StatsSection>
       ) : null}
       {showsStats && sheet.attributes !== undefined ? (
         <AttributeSections attributes={sheet.attributes} groups={sheet.attributeGroups} />
       ) : null}
       {showsStats && Object.keys(derived).length > 0 ? (
-        <Section title="Derived">
+        <StatsSection title="Derived">
           <ScalarRows record={derived} />
-        </Section>
+        </StatsSection>
       ) : null}
     </div>
   )
@@ -432,22 +442,28 @@ export function SheetTabs({
       </TabsContent>
       {tabs.includes(INVENTORY) ? (
         <TabsContent value={INVENTORY}>
-          <InventoryTab sheet={sheet} acting={acting} />
+          <SheetCard>
+            <InventoryTab sheet={sheet} acting={acting} />
+          </SheetCard>
         </TabsContent>
       ) : null}
       {tabs.includes(SKILLS) ? (
         <TabsContent value={SKILLS}>
-          <HeldTab
-            label={abilities.toLowerCase()}
-            parts={skills}
-            acting={acting}
-            abilities={sheet.skills ?? NO_ABILITIES}
-          />
+          <SheetCard>
+            <HeldTab
+              label={abilities.toLowerCase()}
+              parts={skills}
+              acting={acting}
+              abilities={sheet.skills ?? NO_ABILITIES}
+            />
+          </SheetCard>
         </TabsContent>
       ) : null}
       {tabs.includes(TRAITS) ? (
         <TabsContent value={TRAITS}>
-          <HeldTab label="traits" parts={traits} acting={acting} />
+          <SheetCard>
+            <HeldTab label="traits" parts={traits} acting={acting} />
+          </SheetCard>
         </TabsContent>
       ) : null}
     </Tabs>

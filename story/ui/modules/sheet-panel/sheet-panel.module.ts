@@ -21,6 +21,14 @@ export const sheetPanel = {
       statement: "The stats tab opens on the caption, then the experience and the cover.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Those share one card, and each stats section under it is a card of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other tab draws its lists on one card.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No title a character holds is shown under that character's name.",
     },
@@ -55,8 +63,7 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A value shown in words wraps within its own side, and its name beside it never does.",
+      statement: "A value shown in words wraps within its own half of the row.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -156,5 +163,5 @@ export const sheetPanel = {
     },
   ],
   createdAt: "2026-09-02T14:52:27.089Z",
-  updatedAt: "2026-10-28T20:59:02.892Z",
+  updatedAt: "2026-10-28T21:41:23.451Z",
 } as const satisfies Module

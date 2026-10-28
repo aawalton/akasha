@@ -1,6 +1,6 @@
 import "akasha/check/test/modules/dom-registering/dom-registering.module.code.ts"
 import { expect, test } from "bun:test"
-import { render } from "@testing-library/react"
+import { fireEvent, render } from "@testing-library/react"
 import { LayoutRouterProvider } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import { SheetTabs } from "akasha/story/ui/modules/sheet-panel/sheet-panel.module.code.tsx"
@@ -57,4 +57,21 @@ test("each attribute group keeps its heading and its count", () => {
   expect(text).toContain("4/4")
   expect(text).toContain("Affinities")
   expect(text).toContain("1/3")
+})
+
+test("each stats section is a collapsible card drawn open", () => {
+  const { container } = drawn()
+  const closers = container.querySelectorAll("button[aria-label='Collapse panel']")
+  expect(closers.length).toBe(3)
+  expect(container.textContent).toContain("Strength")
+})
+
+test("a section closed hides its rows and keeps its heading and its count", () => {
+  const { container, getByText } = drawn()
+  fireEvent.click(getByText("Basic Attributes"))
+  const text = container.textContent ?? ""
+  expect(text).not.toContain("Strength")
+  expect(text).toContain("Basic Attributes")
+  expect(text).toContain("4/4")
+  expect(text).toContain("Fire")
 })

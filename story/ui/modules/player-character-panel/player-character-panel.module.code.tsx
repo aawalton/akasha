@@ -1,6 +1,5 @@
 "use client"
 
-import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -25,6 +24,7 @@ import {
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { ZoomableCover } from "akasha/story/ui/modules/cover-viewing/cover-viewing.module.code.tsx"
 import {
+  SheetCard,
   type SheetShown,
   SheetTabs,
   statsShownIn,
@@ -47,8 +47,6 @@ const SLUG_KEY = "slug"
 const TITLE_KEY = "title"
 
 const ONE = 1
-
-const CARD = "flex flex-col gap-3 rounded-xl p-4 shadow-sm"
 
 type PlayerDrawn = {
   readonly name: string | null
@@ -272,24 +270,20 @@ function CharacterCard({ shown, steps, sheet }: CharacterCardProps) {
       {steps}
     </>
   )
-  return (
-    <SurfaceProvider className={CARD}>
-      {sheet === null || revealed === null ? (
-        <>
-          {caption}
-          {pictured}
-        </>
-      ) : (
-        <SheetTabs
-          sheet={revealed}
-          head={{ caption, cover: pictured }}
-          game={sheet.game}
-          workings={sheet.workings}
-          showsStats={sheet.showsStats}
-          showsBonds={sheet.showsBonds}
-          acting={shown.isPlayer ? sheet.acting : undefined}
-        />
-      )}
-    </SurfaceProvider>
+  return sheet === null || revealed === null ? (
+    <SheetCard>
+      {caption}
+      {pictured}
+    </SheetCard>
+  ) : (
+    <SheetTabs
+      sheet={revealed}
+      head={{ caption, cover: pictured }}
+      game={sheet.game}
+      workings={sheet.workings}
+      showsStats={sheet.showsStats}
+      showsBonds={sheet.showsBonds}
+      acting={shown.isPlayer ? sheet.acting : undefined}
+    />
   )
 }

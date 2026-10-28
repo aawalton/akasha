@@ -10,12 +10,16 @@ export const playerCharacterPanel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The player's character is one card, its name at the top as the caption.",
+      statement: "The player's character opens on one card, its name at the top as the caption.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
         "The sheet's tabs sit in the head of the card's place, and the stats tab holds the caption and cover.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each stats section is a card of its own under the card holding the caption.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -87,5 +91,5 @@ export const playerCharacterPanel = {
     },
   ],
   createdAt: "2026-09-28T12:57:51.552Z",
-  updatedAt: "2026-10-28T19:08:37.650Z",
+  updatedAt: "2026-10-28T21:41:23.451Z",
 } as const satisfies Module
