@@ -22,7 +22,20 @@ export const voiceSession = {
       decisionKind: "decision-kind/departure",
       statement: "A session's directory is removed with the session.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A segment's speech is kept on the pod's disk keyed on its voice and exact text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A segment kept already is read from disk rather than spoken again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The speech kept is held under six gigabytes by dropping what was heard least lately.",
+    },
   ],
   createdAt: "2026-10-11T15:04:34.692Z",
-  updatedAt: "2026-10-11T15:04:34.692Z",
+  updatedAt: "2026-10-28T16:36:07.019Z",
 } as const satisfies PythonModule

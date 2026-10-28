@@ -25,6 +25,10 @@ const PORT = voiceInfer.containerPort
 
 const PIECES_DIR = "/pieces"
 
+const SPEECH_DIR = "/speech"
+
+const SPEECH_BYTES = 6 * 1024 * 1024 * 1024
+
 const RESOURCE_LABELS = {
   app: APP_NAME,
   "app.kubernetes.io/name": APP_NAME,
@@ -70,8 +74,13 @@ function deploymentYaml(): string {
               env: [
                 { name: "VOICE_INFER_PORT", value: String(PORT) },
                 { name: "VOICE_PIECES_DIR", value: PIECES_DIR },
+                { name: "VOICE_SPEECH_DIR", value: SPEECH_DIR },
+                { name: "VOICE_SPEECH_BYTES", value: String(SPEECH_BYTES) },
               ],
-              volumeMounts: [{ name: "pieces", mountPath: PIECES_DIR }],
+              volumeMounts: [
+                { name: "pieces", mountPath: PIECES_DIR },
+                { name: "speech", mountPath: SPEECH_DIR },
+              ],
               resources: resourcesWith(resourcesOf(page), GPU),
               startupProbe: {
                 httpGet: { path: "/health", port: PORT },
@@ -90,7 +99,10 @@ function deploymentYaml(): string {
               },
             },
           ],
-          volumes: [{ name: "pieces", emptyDir: { sizeLimit: "16Gi" } }],
+          volumes: [
+            { name: "pieces", emptyDir: { sizeLimit: "16Gi" } },
+            { name: "speech", emptyDir: { sizeLimit: "8Gi" } },
+          ],
         },
       },
     },

@@ -17,7 +17,16 @@ export const voiceInfer = {
       statement:
         "The workload writes a narration's pieces to the pod's own disk, not to an object store.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The speech the workload keeps sits on a volume of its own, apart from the pieces.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The speech kept goes when the pod is replaced.",
+    },
   ],
   createdAt: "2026-09-05T21:18:28.773Z",
-  updatedAt: "2026-10-11T15:04:34.692Z",
+  updatedAt: "2026-10-28T16:36:07.019Z",
 } as const satisfies Manifest

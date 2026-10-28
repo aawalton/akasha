@@ -15,9 +15,17 @@ The pieces are written under the session's own directory on the pod's disk, so a
 long listen costs disk rather than this process's memory. A session renders only
 while it holds less than RENDER_AHEAD_SECONDS of audio ahead of the piece the
 player last fetched, so what it makes is what the player is about to hear.
+
+The speech of every segment, once spoken, is kept under SPEECH_DIR keyed on the
+voice and the exact text spoken. A segment spoken again is read from there rather
+than spoken again, so a narration played twice costs Kokoro once, and corrected
+text is a new key rather than old audio. The sweep keeps what is kept under
+SPEECH_BYTES by dropping the speech heard least lately.
 """
 
 import asyncio
+import hashlib
+import json
 import os
 import secrets
 import shutil
@@ -40,6 +48,13 @@ PIECES_DIR = os.environ.get("VOICE_PIECES_DIR", "/tmp/voice-pieces")
 RENDER_AHEAD_SECONDS = 15 * 60
 TRIM_THRESHOLD = 0.01
 TRIM_MARGIN_SECONDS = 0.04
+# The speech kept, one .pcm and one .json per voice and text. The pod mounts a
+# volume here of its own, apart from PIECES_DIR, whose sweep clears what no
+# session holds.
+SPEECH_DIR = os.environ.get("VOICE_SPEECH_DIR", "/tmp/voice-speech")
+SPEECH_BYTES = int(os.environ.get("VOICE_SPEECH_BYTES", str(6 * 1024 * 1024 * 1024)))
+# A part-written file older than this was left by a write that died.
+PART_STALE_SECONDS = 600
 
 
 def trimmed(audio: np.ndarray) -> "tuple[np.ndarray, float]":
@@ -52,6 +67,100 @@ def trimmed(audio: np.ndarray) -> "tuple[np.ndarray, float]":
     start = max(0, int(loud[0]) - margin)
     end = min(len(audio), int(loud[-1]) + 1 + margin)
     return audio[start:end], start / SAMPLE_RATE
+
+
+def speech_key(voice: str, text: str) -> str:
+    return hashlib.sha256(f"{voice}\n{text}".encode()).hexdigest()
+
+
+def _speech_paths(key: str) -> "tuple[str, str]":
+    base = os.path.join(SPEECH_DIR, key[:2], key)
+    return base + ".pcm", base + ".json"
+
+
+def _written(path: str, content: bytes) -> None:
+    part = f"{path}.{secrets.token_hex(4)}.part"
+    with open(part, "wb") as out:
+        out.write(content)
+    os.replace(part, path)
+
+
+def kept_speech(key: str) -> "tuple[bytes, list[tuple[int, float]], int] | None":
+    """The PCM, token starts and token characters kept for this key, or None."""
+    pcm_path, timing_path = _speech_paths(key)
+    try:
+        with open(timing_path, encoding="utf-8") as told:
+            timing = json.load(told)
+        with open(pcm_path, "rb") as heard:
+            pcm = heard.read()
+        starts = [(int(char), float(seconds)) for char, seconds in timing["starts"]]
+        chars = int(timing["chars"])
+        os.utime(pcm_path)
+    except (OSError, ValueError, TypeError, KeyError):
+        return None
+    return pcm, starts, chars
+
+
+def keep_speech(key: str, pcm: bytes, starts: "list[tuple[int, float]]", chars: int) -> None:
+    """Keep a segment's speech; the .json lands last, so it says the .pcm is whole."""
+    pcm_path, timing_path = _speech_paths(key)
+    timing = json.dumps({"starts": [[c, s] for c, s in starts], "chars": chars})
+    try:
+        os.makedirs(os.path.dirname(pcm_path), exist_ok=True)
+        _written(pcm_path, pcm)
+        _written(timing_path, timing.encode())
+    except OSError as exc:
+        print(f"[voice-infer] speech {key} was not kept: {exc}", flush=True)
+
+
+def prune_speech() -> None:
+    """Drop the speech heard least lately until what is kept fits SPEECH_BYTES."""
+    now = time.time()
+    kept: "list[tuple[float, int, str]]" = []
+    for root, _folders, names in os.walk(SPEECH_DIR):
+        for name in names:
+            path = os.path.join(root, name)
+            try:
+                stat = os.stat(path)
+            except OSError:
+                continue
+            if name.endswith(".part"):
+                if now - stat.st_mtime > PART_STALE_SECONDS:
+                    _removed(path)
+            elif name.endswith(".pcm"):
+                kept.append((stat.st_mtime, stat.st_size, path))
+    total = sum(size for _, size, _ in kept)
+    for _, size, path in sorted(kept):
+        if total <= SPEECH_BYTES:
+            break
+        _removed(path[: -len(".pcm")] + ".json")
+        _removed(path)
+        total -= size
+
+
+def _removed(path: str) -> None:
+    try:
+        os.remove(path)
+    except OSError:
+        pass
+
+
+async def spoken(text: str, voice: str) -> "tuple[bytes, list[tuple[int, float]], int, bool]":
+    """A segment's trimmed speech as PCM, where each token begins in it, the
+    characters its tokens spell, and whether it was kept from before."""
+    key = speech_key(voice, text)
+    kept = await run_in_threadpool(kept_speech, key)
+    if kept is not None:
+        return (*kept, True)
+    async with _INFER_LOCK:
+        audio, starts, chars = await run_in_threadpool(synthesize_timed, text, voice)
+    if audio is None:
+        return b"", starts, chars, False
+    audio, lead = trimmed(audio)
+    starts = [(char, max(0.0, seconds - lead)) for char, seconds in starts]
+    pcm = _pcm_bytes(audio)
+    await run_in_threadpool(keep_speech, key, pcm, starts, chars)
+    return pcm, starts, chars, False
 
 
 class Session:
@@ -68,6 +177,8 @@ class Session:
         self.fetched_to = 0.0
         self.sentences_timed = 0
         self.sentences_shared = 0
+        self.segments_spoken = 0
+        self.segments_kept = 0
         self.ended = False
         self.done = False
         self.error: "str | None" = None
@@ -106,12 +217,11 @@ class Session:
     async def _speak(self, text: str, pause: int, sentences: list, marks: list) -> None:
         pcm = b""
         if text:
-            async with _INFER_LOCK:
-                audio, starts, chars = await run_in_threadpool(synthesize_timed, text, self.voice)
-            if audio is not None:
-                audio, lead = trimmed(audio)
-                starts = [(char, max(0.0, seconds - lead)) for char, seconds in starts]
-                pcm = _pcm_bytes(audio)
+            pcm, starts, chars, was_kept = await spoken(text, self.voice)
+            if was_kept:
+                self.segments_kept += 1
+            else:
+                self.segments_spoken += 1
             begun = self.fed_samples / SAMPLE_RATE
             timed, by_tokens = sentence_seconds(text, sentences, starts, chars, len(pcm) / 2 / SAMPLE_RATE)
             marks.extend([round(begun + s, 3), w] for s, w in timed)

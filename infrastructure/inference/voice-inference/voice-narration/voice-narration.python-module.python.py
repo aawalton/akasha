@@ -34,7 +34,7 @@ from fastapi.responses import JSONResponse, Response
 
 from voice_hls import piece_index, playlist
 from voice_inference import app
-from voice_session import PIECES_DIR, Session
+from voice_session import PIECES_DIR, Session, prune_speech
 from voice_timing import sentences_of
 
 MAX_SESSIONS = 4
@@ -138,6 +138,7 @@ async def _sweep() -> None:
             if now - session.touched > SESSION_IDLE_SECONDS:
                 _drop(sid)
         _clear_stray()
+        await asyncio.to_thread(prune_speech)
 
 
 async def _body(request: Request) -> "tuple[dict | None, list | None, str | None]":
@@ -215,6 +216,8 @@ async def narration_state(sid: str):
         "fetchedSeconds": session.fetched_to,
         "sentencesTimed": session.sentences_timed,
         "sentencesShared": session.sentences_shared,
+        "segmentsSpoken": session.segments_spoken,
+        "segmentsKept": session.segments_kept,
     }
 
 
