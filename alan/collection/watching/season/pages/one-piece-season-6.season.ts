@@ -5,7 +5,7 @@ export const onePieceSeason6 = {
   type: "page-type/season",
   slug: "one-piece-season-6",
   title: "One Piece Season 6",
-  partOfCollections: ["fandom/one-piece"],
+  partOfCollections: ["show/one-piece"],
   position: 6,
   ownLength: 1248,
   ownProgress: 0,
@@ -20,5 +20,5 @@ export const onePieceSeason6 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-28T21:27:44.915Z",
 } as const satisfies Season
