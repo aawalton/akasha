@@ -27,7 +27,12 @@ export const medicine = {
       statement:
         "A day under 100 kilocalories of active energy is read as a day the watch was off.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Alan's suicide risk is read from his logged safety level over the trailing three months.",
+    },
   ],
   createdAt: "2026-09-03T13:00:18.032Z",
-  updatedAt: "2026-10-28T18:02:01.230Z",
+  updatedAt: "2026-10-28T18:07:31.478Z",
 } as const satisfies Domain
