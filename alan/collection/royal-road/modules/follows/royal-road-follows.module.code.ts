@@ -22,11 +22,13 @@ const SIGNED_IN = ".AspNetCore.Identity.Application"
 const FORM = 'class="form-login-details"'
 const FORM_FIELDS = "form.form-login-details"
 const SIGN_IN_CEILING_MS = 60_000
-const ITEM = '<div class="fiction-list-item row">'
-const FICTION = /<h2 class="fiction-title">\s*<a [^>]*href="\/fiction\/(\d+)\/([^"/]+)"/
-const LAST_READ = /Last\s+Read:\s*<a[^>]*href="\/fiction\/\d+\/[^"/]+\/chapter\/(\d+)\//i
-const PAGE_NUMBER = /data-page='(\d+)'/g
-const LIST = 'id="result"'
+const ITEM = "data-rr-expanded-fic-card"
+const FICTION = /<h2[^>]*>\s*<a [^>]*href="\/fiction\/(\d+)\/([^"/]+)"/
+const LAST_READ = /Last\s+Read:/i
+const CHAPTER = /href="\/fiction\/\d+\/[^"/]+\/chapter\/(\d+)\//
+const LINE_ENDS = "</li>"
+const PAGE_NUMBER = /data-page=["'](\d+)["']/g
+const LIST = 'class="fiction-list'
 
 class SignInRefused extends Error {}
 
@@ -41,6 +43,14 @@ interface FollowPage {
   readonly pages: number
 }
 
+function lastReadIn(item: string): string | null {
+  const label = LAST_READ.exec(item)
+  if (label === null) return null
+  const rest = item.slice(label.index)
+  const ends = rest.indexOf(LINE_ENDS)
+  return CHAPTER.exec(ends < 0 ? rest : rest.slice(0, ends))?.[1] ?? null
+}
+
 export function parseFollowPage(html: string): FollowPage | null {
   if (!html.includes(LIST)) return null
   const followed: Listed[] = []
@@ -50,7 +60,7 @@ export function parseFollowPage(html: string): FollowPage | null {
     followed.push({
       fictionId: fiction[1],
       fictionSlug: fiction[2],
-      lastReadChapterId: LAST_READ.exec(item)?.[1] ?? null,
+      lastReadChapterId: lastReadIn(item),
     })
   }
   const numbers = [...html.matchAll(PAGE_NUMBER)].map((one) => Number(one[1]))

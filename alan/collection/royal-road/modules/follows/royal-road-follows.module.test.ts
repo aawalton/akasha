@@ -1,44 +1,44 @@
 import { expect, test } from "bun:test"
 import { parseFollowPage } from "akasha/alan/collection/royal-road/modules/follows/royal-road-follows.module.code.ts"
 
-const APART = `
-<div class="fiction-list-item row">
-  <h2 class="fiction-title">
-    <a href="/fiction/62881/reborn-as-a-demonic-tree" class="font-red-sunglo bold">Reborn as a Demonic Tree</a>
-  </h2>
-  <li class="list-item">
-Last Update:  <a href="/fiction/62881/reborn-as-a-demonic-tree/chapter/4028962/chapter-623" class="bold">x</a>
-  </li>
-  <li class="list-item">
-    Last read:
-      <a rel="noreferrer" href="/fiction/62881/reborn-as-a-demonic-tree/chapter/4014049/chapter-622" class="bold">y</a>
-  </li>
-</div>`
+const APART =
+  '<div data-rr-expanded-fic-card class="follow-update-card"><ul>' +
+  '<li><div><h2 class="text-lg md:text-xl font-bold m-0"><a href="/fiction/62881/reborn-as-a-demonic-tree" class="text-accent">Reborn as a Demonic Tree</a></h2></div></li>' +
+  '<li class="list-none"><div class="flex"><div class="text-on-surface">Last Update:</div> <div><span>by</span> <a href="/profile/1">Someone</a></div></div>' +
+  '<a href="/fiction/62881/reborn-as-a-demonic-tree/chapter/4028962/chapter-623" class="flex">x</a></li>' +
+  '<li class="list-none"><div class="text-on-surface">Last read:</div>' +
+  '<a href="/fiction/62881/reborn-as-a-demonic-tree/chapter/4014049/chapter-622" class="flex">y</a></li>' +
+  "</ul></div>"
 
-const TOGETHER = `
-<div class="fiction-list-item row">
-  <h2 class="fiction-title">
-    <a href="/fiction/36049/the-primal-hunter" class="font-red-sunglo bold">The Primal Hunter</a>
-  </h2>
-  <li class="list-item">
-Last Update &amp; Last Read:   <a rel="noreferrer" href="/fiction/36049/the-primal-hunter/chapter/4027661/chapter-1391" class="bold">z</a>
-  </li>
-</div>`
+const TOGETHER =
+  '<div data-rr-expanded-fic-card class="follow-update-card"><ul>' +
+  '<li><div><h2 class="text-lg md:text-xl font-bold m-0"><a href="/fiction/36049/the-primal-hunter" class="text-accent">The Primal Hunter</a></h2></div></li>' +
+  '<li class="list-none"><div class="flex"><div class="text-on-surface">Last Update &amp; Last Read:</div> <div><span>by</span> <a href="/profile/2">Zogarth</a></div></div>' +
+  '<a href="/fiction/36049/the-primal-hunter/chapter/4027661/chapter-1391" class="flex">z</a></li>' +
+  "</ul></div>"
 
-const UNREAD = `
-<div class="fiction-list-item row">
-  <h2 class="fiction-title">
-    <a href="/fiction/181303/gifted" class="font-red-sunglo bold">Gifted</a>
-  </h2>
-  <li class="list-item">
-Last Update:  <a href="/fiction/181303/gifted/chapter/1/one" class="bold">x</a>
-  </li>
-</div>`
+const UNREAD =
+  '<div data-rr-expanded-fic-card class="follow-update-card"><ul>' +
+  '<li><div><h2 class="text-lg md:text-xl font-bold m-0"><a href="/fiction/181303/gifted" class="text-accent">Gifted</a></h2></div></li>' +
+  '<li class="list-none"><div class="flex"><div class="text-on-surface">Last Update:</div></div>' +
+  '<a href="/fiction/181303/gifted/chapter/1/one" class="flex">x</a></li>' +
+  "</ul></div>"
 
-const PAGING = `<ul class='pagination'><li><a data-page='1' href="/my/follows?page=1">1</a></li><li><a data-page='2' href="/my/follows?page=2">2</a></li></ul>`
+const TAKEN_DOWN =
+  '<div data-rr-expanded-fic-card class="follow-update-card"><ul>' +
+  '<li><div><h2 class="text-lg md:text-xl font-bold m-0"><a href="/fiction/91555/arcane-apocalypse-litrpg" class="text-accent">Arcane Apocalypse</a></h2></div></li>' +
+  '<li class="list-none"><div class="flex"><div class="text-on-surface">Last Update:</div></div>' +
+  '<a href="/fiction/91555/arcane-apocalypse-litrpg/chapter/1750199/06" class="flex">x</a></li>' +
+  '<li class="list-none"><div class="text-on-surface">Last read:</div>' +
+  '<div data-rr-tooltip><span><i class="fas fa-trash text-danger"></i> Gone</span></div></li>' +
+  "</ul></div>"
+
+const PAGING =
+  '<a href="/my/follows?listType=v2&amp;page=1" data-rr-paginate-page data-page="1">1</a>' +
+  '<a href="/my/follows?listType=v2&amp;page=2" data-rr-paginate-page data-page="2">2</a>'
 
 function listed(items: string, paging = ""): string {
-  return `<div class="fiction-list" id="result">${items}</div>${paging}`
+  return `<div class="fiction-list pb-0 h-full max-w-full"><div>${items}</div></div>${paging}`
 }
 
 test("a fiction is read off its title link by id and slug", () => {
@@ -63,6 +63,15 @@ test("a last chapter posted that is also the last read is the chapter read", () 
 
 test("a fiction with no chapter read names no chapter", () => {
   expect(parseFollowPage(listed(UNREAD))?.followed[0]?.lastReadChapterId).toBeNull()
+})
+
+test("a last chapter read that was taken down names no chapter", () => {
+  expect(parseFollowPage(listed(TAKEN_DOWN))?.followed[0]?.lastReadChapterId).toBeNull()
+})
+
+test("a heading outside every card is no fiction", () => {
+  const read = parseFollowPage(`<h2 class="text-xl">My Library</h2>${listed(UNREAD)}`)
+  expect(read?.followed.map((one) => one.fictionId)).toEqual(["181303"])
 })
 
 test("every fiction on a page is read, each with its own last chapter", () => {

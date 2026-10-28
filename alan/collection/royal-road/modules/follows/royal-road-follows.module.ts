@@ -42,6 +42,10 @@ export const royalRoadFollows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A fiction whose last chapter read was taken down names no chapter last read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An empty follow list refuses the run.",
     },
     {
@@ -54,5 +58,5 @@ export const royalRoadFollows = {
     },
   ],
   createdAt: "2026-09-28T19:38:50.516Z",
-  updatedAt: "2026-10-28T14:31:20.724Z",
+  updatedAt: "2026-10-28T14:33:56.782Z",
 } as const satisfies Module
