@@ -9,37 +9,43 @@ export const generalAnesthesiaElective = {
   micromortsPerUnitCentral: 17,
   micromortsPerUnitHigh: 39,
   exposureAssumption:
-    "The death rate counts deaths the anesthetic caused, from 1999-2005 US death certificates and a 2012 meta-analysis; no 2015 or later source was found. Sepsis is caused by the surgery rather than the anesthetic. 1 of 5 injury rates are unverified. Every disability duration is an assumption. These borrow the nearest GBD weight: Perioperative stroke; Dental injury requiring repair/extraction; Accidental awareness under general anesthesia; Sepsis (surgical, healthy patients).",
+    "The death rate counts deaths the anesthetic caused, from 1999-2005 US death certificates and a 2012 meta-analysis; no 2015 or later source was found. Surgical sepsis (7,000 per million in healthy patients) is left out because the surgery causes it rather than the anesthetic. The perioperative stroke rate is unverified. Every disability duration is an assumption. These borrow the nearest GBD weight: Perioperative stroke; Dental injury requiring repair/extraction; Accidental awareness under general anesthesia.",
   injuryDisability: [
     {
       injury: "Perioperative stroke",
       injuriesPerMillionUnits: 500,
       disabilityWeight: 0.019,
       disabilityYears: 10,
+      injuriesPerMillionUnitsLow: 350,
+      injuriesPerMillionUnitsHigh: 1000,
     },
     {
       injury: "Peripheral nerve injury (positioning/block)",
       injuriesPerMillionUnits: 300,
       disabilityWeight: 0.1,
       disabilityYears: 0.5,
+      injuriesPerMillionUnitsLow: 200,
+      injuriesPerMillionUnitsHigh: 770,
+      disabilityWeightLow: 0.067,
+      disabilityWeightHigh: 0.14,
     },
     {
       injury: "Dental injury requiring repair/extraction",
       injuriesPerMillionUnits: 220,
       disabilityWeight: 0.067,
       disabilityYears: 0.05,
+      injuriesPerMillionUnitsLow: 220,
+      injuriesPerMillionUnitsHigh: 360,
+      disabilityWeightLow: 0.044,
+      disabilityWeightHigh: 0.097,
     },
     {
       injury: "Accidental awareness under general anesthesia",
       injuriesPerMillionUnits: 51,
       disabilityWeight: 0.03,
       disabilityYears: 1,
-    },
-    {
-      injury: "Sepsis (surgical, healthy patients)",
-      injuriesPerMillionUnits: 7000,
-      disabilityWeight: 0.133,
-      disabilityYears: 0.1,
+      injuriesPerMillionUnitsLow: 43,
+      injuriesPerMillionUnitsHigh: 1000,
     },
   ],
   sources: [
@@ -80,5 +86,5 @@ export const generalAnesthesiaElective = {
     },
   ],
   createdAt: "2026-10-28T19:11:22.447Z",
-  updatedAt: "2026-10-28T19:11:22.447Z",
+  updatedAt: "2026-10-28T19:23:11.627Z",
 } as const satisfies RiskActivity
