@@ -13,3 +13,8 @@ name: Path of Basic Numeracy
 :::
 
 You keep counting. Up by twos: two, four, six, eight. Up by threes: three, six, nine, twelve. Then back down the same ladders, to zero.
+
+:::status-assessment
+name: Path of Basic Numeracy
+note: Tier: 1; Mental: +1
+:::
