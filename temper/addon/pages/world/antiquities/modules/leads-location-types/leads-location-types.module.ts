@@ -6,6 +6,16 @@ export const leadsLocationTypes = {
   slug: "leads-location-types",
   definition: "the kinds of place a lead is found in, and the wording for each",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This module is written by `akasha temper upstream data-port lead-list`.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No string of this module is written by hand.",
+    },
+  ],
   createdAt: "2026-09-02T14:10:09.674Z",
-  updatedAt: "2026-09-22T02:33:54.000Z",
+  updatedAt: "2026-10-28T17:04:56.204Z",
 } as const satisfies Module

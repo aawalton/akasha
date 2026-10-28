@@ -36,7 +36,19 @@ export const leadListUpstreamPort = {
       decisionKind: "decision-kind/departure",
       statement: "A run leaving the table empty is refused rather than written.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The location types are written beside the table, in Lead List's own strings.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Of Lead List's strings, only the ones the add-on names are written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A string the add-on names that Lead List lacks is refused rather than written.",
+    },
   ],
   createdAt: "2026-10-28T16:49:50.742Z",
-  updatedAt: "2026-10-28T16:49:50.742Z",
+  updatedAt: "2026-10-28T17:04:56.204Z",
 } as const satisfies Module

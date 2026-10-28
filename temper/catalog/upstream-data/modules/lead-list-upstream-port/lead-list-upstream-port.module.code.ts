@@ -28,26 +28,53 @@ const ROW = z.tuple([z.string(), z.string(), z.string(), z.enum(["TRUE", "FALSE"
 
 const TABLE = z.record(z.string(), ROW)
 
+const WHOLE = z.record(z.string(), z.unknown())
+
+const NAMED = [
+  "LOCDATA_TYPE_EXCAVATIONREWARD",
+  "LOCDATA_TYPE_FIXLOCATION",
+  "LOCDATA_TYPE_STARTER",
+  "LOCDATA_TYPE_ANTIQUEMAP",
+  "UNKNOWN",
+] as const
+
 type Row = readonly [number, LocationEntry]
 
-export async function leadListRows(addons: string): Promise<Record<number, LocationEntry>> {
+type Named = readonly (readonly [string, string])[]
+
+interface LeadList {
+  rows: Record<number, LocationEntry>
+  named: Named
+}
+
+async function readLeadList(addons: string): Promise<LeadList> {
   const source = await readFile(join(addons, LEAD_LIST_SOURCE), "utf-8")
   const vm = await makeLuaVm()
   try {
     const carried = await vm.run(
-      `ILeadList = {}\nassert(loadstring(${JSON.stringify(source)}))()\nreturn ILeadList.Locations`
+      `ILeadList = {}\nassert(loadstring(${JSON.stringify(source)}))()\nreturn ILeadList`
     )
+    const whole = WHOLE.parse(carried)
     const rows: Record<number, LocationEntry> = {}
-    for (const [key, row] of Object.entries(TABLE.parse(carried))) {
+    for (const [key, row] of Object.entries(TABLE.parse(whole["Locations"]))) {
       const [description, type, short, complete, id] = row
       if (String(id) !== key) throw new Error(`Lead List's row ${key} names itself ${String(id)}`)
       rows[id] = { description, type, short, complete: complete === "TRUE" }
     }
     if (Object.keys(rows).length === 0) throw new Error("Lead List carries no location rows")
-    return rows
+    const named = NAMED.map((name): readonly [string, string] => {
+      const value = whole[name]
+      if (typeof value !== "string") throw new Error(`Lead List carries no string ${name}`)
+      return [name, value]
+    })
+    return { rows, named }
   } finally {
     await vm.close()
   }
+}
+
+export async function leadListRows(addons: string): Promise<Record<number, LocationEntry>> {
+  return (await readLeadList(addons)).rows
 }
 
 function partSlug(at: number): string {
@@ -89,6 +116,20 @@ function wholeText(parts: number): string {
   )
 }
 
+function typesText(named: Named): string {
+  const constants = named.map(
+    ([name, value]) => `export const ${name} = ${JSON.stringify(value)}\n`
+  )
+  return (
+    "export interface LocationEntry {\n" +
+    "  description: string\n" +
+    "  type: string\n" +
+    "  short: string\n" +
+    "  complete: boolean\n" +
+    `}\n\n${constants.join("")}`
+  )
+}
+
 function partsOf(rows: readonly Row[]): Row[][] {
   const parts: Row[][] = []
   for (let at = 0; at < rows.length; at += ROWS_PER_PART) {
@@ -98,7 +139,7 @@ function partsOf(rows: readonly Row[]): Row[][] {
 }
 
 export async function port(root: string, done: string[] = []): Promise<void> {
-  const carried = await leadListRows(addonsDir())
+  const { rows: carried, named } = await readLeadList(addonsDir())
   const rows: Row[] = Object.entries(carried)
     .map(([key, entry]): Row => [Number(key), entry])
     .sort((one, other) => one[0] - other[0])
@@ -113,6 +154,7 @@ export async function port(root: string, done: string[] = []): Promise<void> {
     return { at: PUT, given: { at: code, body: partText(at + 1, part) } }
   })
   asked.push({ at: PUT, given: { at: codeAt("leads-locations"), body: wholeText(parts.length) } })
+  asked.push({ at: PUT, given: { at: codeAt("leads-location-types"), body: typesText(named) } })
   const landed = await runMechanicalChange(root, asked, MESSAGE)
   if ("refusals" in landed) throw new Error(landed.refusals.join("; "))
   done.push(
