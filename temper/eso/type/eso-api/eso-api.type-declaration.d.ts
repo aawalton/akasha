@@ -79,8 +79,32 @@ interface SkillsDataManager {
   activeClassSkillLineDataList: Record<number, ActiveClassSkillLineData> | undefined
   passiveSkillObjectPool: { GetActiveObjects: () => Record<number, PassiveSkillData> } | undefined
   abilityIdToProgressionDataMap: Record<number, SkillProgressionData> | undefined
+  GetProgressionDataByAbilityId: (abilityId: number) => SlottableProgressionData | undefined
 }
 declare const SKILLS_DATA_MANAGER: SkillsDataManager
+
+interface SlottableSkillAllocator {
+  IsPurchased: () => boolean
+  GetMorphSlot: () => number
+}
+
+interface SlottableSkillData {
+  GetPointAllocator: () => SlottableSkillAllocator
+}
+
+interface SlottableProgressionData {
+  GetSkillData: () => SlottableSkillData
+  GetMorphSlot: () => number
+}
+
+interface AssignableHotbar {
+  AssignSkillToSlot: (actionSlotIndex: number, skillData: SlottableSkillData) => boolean
+}
+
+interface ActionBarAssignmentManager {
+  GetHotbar: (hotbarCategory: number) => AssignableHotbar
+}
+declare const ACTION_BAR_ASSIGNMENT_MANAGER: ActionBarAssignmentManager
 
 interface GuildBrowserGuildInfoKeyboard {
   SetGuildToShow: (guildId: number) => void
