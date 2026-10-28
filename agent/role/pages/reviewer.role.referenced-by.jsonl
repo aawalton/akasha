@@ -9,7 +9,6 @@
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-waiting/turn-waiting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-beat-flow-test-flex-2/iris-reviewer-beat-flow-test-flex-2.seat.ts","id":"01a17f92-97db-73d2-bd2f-9707fa751e18"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-beat-flow-test-flex-3/iris-reviewer-beat-flow-test-flex-3.seat.ts","id":"01a17f92-b9e3-73fc-9c27-42dbebc970f2"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-beat-flow-test-flex-4/iris-reviewer-beat-flow-test-flex-4.seat.ts","id":"01a17f92-dbdf-7791-b967-d12b52f028d3"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-gifted-reborn-flex-1/iris-reviewer-gifted-reborn-flex-1.seat.ts","id":"01a17fcd-308e-7693-9892-e35a4b200de3"}
