@@ -11,9 +11,15 @@ export const horimiya = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "110070", externalLink: "https://www.themoviedb.org/tv/110070" },
+    {
+      source: "tmdb",
+      externalId: "110070",
+      externalLink: "https://www.themoviedb.org/tv/110070",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Horimiya",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:49:22.603Z",
-  updatedAt: "2026-10-28T18:49:22.603Z",
+  updatedAt: "2026-10-28T19:44:37.241Z",
 } as const satisfies Show
