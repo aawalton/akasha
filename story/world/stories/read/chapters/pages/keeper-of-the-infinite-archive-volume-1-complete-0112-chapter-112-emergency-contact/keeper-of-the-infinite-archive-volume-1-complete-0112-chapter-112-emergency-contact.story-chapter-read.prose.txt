@@ -1,0 +1,285 @@
+CURRENT INSTITUTIONAL RESPONSE REQUIRED
+
+Gregor stared at the glowing blue text.
+
+“So what does it want us to do?” Gregor asked.
+
+Bart did not assume anything after everything they had uncovered about Keeper #4,091’s meticulously structured continuity plan guessing felt like a violation.
+
+“System,” Bart ordered. “Define current institutional response.”
+
+The interface updated immediately.
+
+CONTINUITY HANDOVER REVIEW
+
+PRIMARY SERVICE RESTORATION: CONFIRMED
+
+LEGACY OBLIGATION: ACTIVE / UNRESOLVED
+
+ORIGINAL ACKNOWLEDGEMENT: VALID
+
+ISSUING AUTHORITY: SUCCESSOR CONTINUITY SERVICE
+
+EXTERNAL CUSTODIAN IDENTITY: LEGACY DESIGNATION
+
+IDENTITY RESOLUTION: REQUIRED
+
+CONTACT / HANDOVER REVIEW: PENDING
+
+The restored Archive had indeed inherited commitments maintained on its behalf by the successor continuity service. The legacy obligation had resurfaced precisely because the primary institution was operational again.
+
+“Who was the custodian?” Bart asked.
+
+CUSTODIAN IDENTITY DISCLOSURE CONDITION: SATISFIED
+
+A single line of unfamiliar text appeared on the interface:
+
+|=| -|- /|\  =/= |>\  () /\/\  (<(X)>)
+
+Seven jagged characters, deeply incised, followed by an overlapping circular seal. The strokes were oddly weighted toward their right edges, as though whoever had written them expected the eye to travel in the opposite direction.
+
+Gregor leaned over the counter. “That his name?”
+
+“Potentially,” Bart said.
+
+“Are you able to read it?”
+
+“No am unfamiliar with this script”
+
+Albert, who had paused his polishing to observe leaned closer. The blue light reflected faintly in his empty eye sockets.
+
+“I believe the third symbol means dead,” Albert said.A small pause stretched across the desk.
+
+Albert tilted his skull “Or not dead.”
+
+Gregor looked at the skeleton. “Those seem entirely different.”
+
+“Historically, the distinction has caused paperwork,” Albert noted quietly.
+
+Bart tapped the brass frame of the slate. “System. Provide direct translation.”
+
+LEGACY DESIGNATION STRUCTURE: UNRESOLVED
+
+LEXICON COVERAGE: 31%
+
+DIRECT TRANSLATION: UNSUPPORTED
+
+Months ago, Bart would have considered the failed translation an answer.Now he knew better. A failed search did not mean the information was gone. It meant the question had been asked of the wrong catalogue.
+
+Bart studied the structure on the screen. The characters had been indexed left-to-right, but their terminal strokes suggested the opposite reading direction.
+
+“Legacy script?” Bart asked.
+
+Albert nodded. “Very old, sir.”
+
+“Right-to-left?”
+
+“Frequently,” Albert said. “Though some archaic forms alternated. Left-to-right on one line, then returning right-to-left on the next.”
+
+Gregor sighed. “Very confusing for me!.”
+
+“It was not designed for us, Mr Gregor.”
+
+Bart looked back at the screen. The seven characters weren't continuous. They separated naturally into three groups 3, 2, and 2…followed by the circular mark.
+
+“System. Don't translate the first cluster,” Bart instructed. “Cross-reference it.” The Archive processed the visual shape against its restored historical index. It produced seventeen fragmented administrative references.
+
+Bart pulled up the summaries for the first three. A burial exemption agreement for a claimant who remained legally married after internment. A diplomatic treaty with a revenant city whose ambassador's signature survived his execution. A pension determination for a regional magistrate who had died twice but refused to vacate his office.
+
+Gregor squinted at the list. “These don't have anything in common. Unless the guy died.”
+
+“They do,” Bart said, scanning the contexts. “But it's not resurrection.”
+
+He looked at the outcomes of each case. The marriage remained valid, the treaty held and the pension was paid. The symbol didn't mean dead. It appeared specifically where biological death had occurred but had failed to terminate legal personhood.
+
+“It doesn't mean immortal,” Bart deduced.
+
+“No, sir,” Albert agreed softly.
+
+“It means death isn't considered an ending,” Bart said. He remembered a very specific word an ancient patron used to describe himself. “Undying.”
+
+The System chimed,
+
+SEMANTIC CONFIDENCE INCREASED: 64%
+
+It wasn't a guarantee, but it seemed a direction.
+
+Bart moved to the second cluster of characters. He searched the historical index directly.
+
+No results,
+
+“Broken?” Gregor asked.
+
+Bart thought about it. “No. Maybe the Wrong catalogue.”
+
+This was a credential, not a subject term. Searching general books was useless.
+
+“System. Apply Record Authority. Search historical authorisations, consulting licenses, and external service credentials.”
+
+Three damaged records surfaced. The jagged symbol appeared beside fragments of pre-Ruin language.
+
+AUTONOMOUS IDENTITY PRESERVATION
+
+NON POSSESSORY SOUL BINDING
+
+CONTINUITY OF PERSONHOOD
+
+Albert stopped polishing entirely. The soft friction of his cloth against the railing ceased.Bart didn't ask the skeleton for confirmation. Albert's recollection of the Ruin remained incomplete, fractured by the very trauma that had necessitated his preservation.Instead, Bart remembered what they had already reconstructed from the Archive's final minutes. Morzath standing amid the wreckage of the entrance hall. Keeper #4,091 asking whether the Chief Custodian could be preserved. Morzath accepting the task, but explicitly under conditions that protected Albert's identity and autonomy rather than enslaving his soul.Morzath hadn't merely been present when Albert survived. He had specifically been the entity capable of preserving Albert without replacing or subsuming him.
+
+Bart was suspicious but still needed proof and moved to the third symbol cluster.
+
+The fragments resolved against scattered historical records.
+
+SOVEREIGN AFFILIATION: NONE
+
+EXTRATERRITORIAL RECOGNITION: ACCEPTED
+
+TREATY RELIANCE: PERSONAL
+
+Gregor read the confusing result. “What does that mean?”
+
+Bart understood perfectly.
+
+“It means the Archive wasn't trusting a government,” Bart said.
+
+“Who was it trusting?”
+
+“A person,” Bart replied.
+
+Keeper #4,091 had deliberately chosen someone whose continuity function could not disappear when a kingdom fell.
+
+Bart looked at the three solved semantic clusters and mentally assembled the candidate profile. He was looking for someone who was not merely undead, but whose legal personhood persisted through death. Someone whose authority belonged entirely to themselves rather than a state. Someone who could preserve consciousness without claiming ownership. Someone Keeper #4,091 had already known and trusted.There were not many people Bart knew who satisfied even two of those conditions.
+
+He knew exactly one who satisfied all of them.
+
+Gregor slowly looked at him.
+
+“Boss….”
+
+He still refused to say the name out loud. Inference was not evidence, and Bart still needed the final piece.
+
+The overlapping circular mark at the end of the string resisted cross-referencing completely and he realised why. It wasn't text.
+
+“Restricted Inspection,” Bart ordered.
+
+The ability had originally been designed to examine metadata and authority without opening dangerous material. Bart used it on the historical designation itself.
+
+The overlay returned something surprising.
+
+OBJECT TYPE: AUTHORITY MARK
+
+AUTHORITY BASIS: PERSONAL
+
+INSTITUTIONAL DERIVATION: NONE
+
+SIGNATURE CHARACTERISTIC: RECURRING FRACTURE / LOWER-RIGHT ARC
+
+Gregor stared intently at the description and the circular mark.
+
+“I've seen that chip,” Gregor said.
+
+Bart looked at him. “Where?”
+
+Gregor shook his head, his eyes narrowed as he tried to place the physical irregularity , Not in a treaty or a book.
+
+“At the desk!” he exclaimed
+
+He immediately opened the active patron registry and pulled up the new membership files.He retrieved the original patron registration form he had processed months ago. Beside the signature in dark ink, Morzath had stamped his required personal authority mark. The modern version had grown more elaborate over six centuries, but the underlying geometry was identical. The distinctive broken lower right stroke remained.
+
+Bart overlaid it on the continuity seal.
+
+They aligned perfectly.
+
+IDENTITY CORRELATION: 99.997%
+
+Bart let out a long breath.
+
+“Morzath.”
+
+“Morzath the Undying,” Albert finished quietly.
+
+The terrifying undead warlord who regularly visited the Reading Room to study pastry had been Keeper #4,091's designated emergency custodian.
+
+Gregor arrived at the obvious, horrifying conclusion.
+
+“Morzath was the next Keeper?”
+
+“No,” Bart said instantly.
+
+He queried the authority record to be absolutely certain.
+
+EXTERNAL CONTINUITY CUSTODIAN: CONFIRMED
+
+KEEPER AUTHORITY: NONE
+
+OWNERSHIP AUTHORITY: NONE
+
+SUCCESSION AUTHORITY: NONE
+
+CONTINUITY AUTHORITY: LIMITED
+
+There had been no Keeper between #4,091 and Bart. Whatever Morzath had inherited, it hadn't been the Archive.
+
+“So the old Keeper trusted Morzath with the library?” Gregor asked.
+
+“No,” Bart said, reading the limited authority parameters. “Apparently he trusted Morzath with making sure there was still a library to come back to.”
+
+It changed everything they knew about the Undying Lich’s earlier behaviour.
+
+Bart remembered Morzath’s very first reaction to the reopened Archive. So the rumours were true. The old Keeper is gone.
+
+Morzath had been walking into the Reading Room for months while knowing that Keeper #4,091 had once entrusted him with part of the Archive's continuity.
+
+“He could have mentioned this,” Gregor pointed out.
+
+“Maybe not,” Bart said. He tapped the interface. “System. Define custodian disclosure authority.”
+
+CUSTODIAN DISCLOSURE AUTHORITY: WITHHELD UNTIL PRIMARY SERVICE RESTORATION
+
+“Apparently he couldn't,” Bart said.
+
+“Master Morzath has always been very respectful of contractual restrictions,” Albert observed.
+
+Gregor stared at the skeleton. “He destroys kingdoms.”
+
+“Those statements are not mutually exclusive,” Albert said.
+
+Bart looked back at the historical duration they had uncovered in the previous hour.
+
+MINIMUM VERIFIED DURATION: 41 YEARS
+
+Gregor followed his gaze. “Morzath did the paperwork for 41 years?”
+
+“At least,” Bart corrected automatically.
+
+The magnitude of what Keeper #4,091 had arranged, and what Morzath had actually done, was still missing. But Bart knew exactly how to find out.
+
+“System,” Bart said. “Is the registered custodian still reachable?”
+
+A small delay followed.
+
+CUSTODIAN STATUS: ACTIVE
+
+CURRENT ARCHIVE PATRON: YES
+
+CONTACT ROUTE AVAILABLE
+
+Bart straightened and got up. “Send him a handover notice.”
+
+FORMAL NOTICE ISSUED
+
+The desk fell silent. The glowing blue text hung in the air.
+
+EXPECTED RESPONSE METHOD: UNSPECIFIED
+
+Bart frowned at the final line.
+
+“Unspecified how…”
+
+From somewhere in the corridor behind them came a sudden, distinct noise.
+
+Whoosh!!
+
+Gurgle!!
+
+The door of the Staff Restroom rattled violently in its frame.
