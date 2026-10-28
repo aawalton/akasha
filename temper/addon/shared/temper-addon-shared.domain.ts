@@ -13,6 +13,7 @@ export const temperAddonShared = {
     "domain/temper-settings-panel",
     "module/guild-store-poster",
     "module/reload-ui",
+    "domain/temper-keybindings",
   ],
   decisions: [
     {
@@ -26,5 +27,5 @@ export const temperAddonShared = {
     },
   ],
   createdAt: "2026-09-21T22:07:50.178Z",
-  updatedAt: "2026-09-22T08:24:26.000Z",
+  updatedAt: "2026-10-28T21:43:47.335Z",
 } as const satisfies Domain

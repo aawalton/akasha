@@ -5479,6 +5479,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-addon-shared.domain.ts","id":"01a0c602-d7a2-7ba5-a4a1-a50edd20bb46"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.ts","id":"01a0617d-5451-7952-9d26-5748fb7a36ff"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/temper-helpers.domain.ts","id":"01a08d72-671a-7ba4-875c-f5296652fc14"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/temper-keybindings/temper-keybinding/properties/binding-modifiers.select-property.ts","id":"01a18478-1f8a-737c-8005-6d235d8a94d8"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/temper-keybindings/temper-keybinding/properties/key-bindings.record-property.ts","id":"01a18478-1f8a-7a17-be9a-fca30c1e7d13"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/temper-keybindings/temper-keybinding/temper-keybinding.page-type.ts","id":"01a18478-1f8b-7850-ba1b-24b52266113b"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/temper-keybindings/temper-keybindings.domain.ts","id":"01a18478-1f8b-7ef3-9702-ee7c4d84954c"}
 {"propertySlug":"decision-kind","path":"temper/addon/temper-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.ts","id":"01a0616b-2ab0-76e4-88f5-494ff9be08f5"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.ts","id":"01a0616b-23c3-7958-8a1f-21a8646a50db"}
