@@ -26,6 +26,7 @@ const HELD: Held = {
   neverSmoked: true,
   neverDrank: true,
   bmi: 26.1,
+  colorectalScreening: "none",
 }
 
 const FLAT: Cause = {

@@ -39,6 +39,12 @@ const STIMULANT = /lisdexamfetamine|amphetamine|methylphenidate|vyvanse|adderall
 
 const FIRST_DEGREE = new Set(["father", "mother", "brother", "sister"])
 
+const COLONOSCOPY = "colonoscopy-10-yearly"
+
+const SCREENING_AGE = 45
+
+const SCREENED_SHARE = 0.66
+
 export type Held = {
   readonly age: number
   readonly steps: number | null
@@ -52,6 +58,7 @@ export type Held = {
   readonly neverSmoked: boolean
   readonly neverDrank: boolean
   readonly bmi: number | null
+  readonly colorectalScreening: string
 }
 
 type Dosing = (held: Held, age: number) => number
@@ -98,6 +105,12 @@ const adhdStimulantDose: Dosing = (held) =>
 const parkinsonsDose: Dosing = (held) => (held.parkinsonsFirstDegree ? 1 : 0)
 
 const always: Dosing = () => 1
+
+const colonoscopyDose: Dosing = (held, age) =>
+  age < SCREENING_AGE ? 0 : (held.colorectalScreening === COLONOSCOPY ? 1 : 0) - SCREENED_SHARE
+
+const COLONOSCOPY_SAID =
+  "from 45, screened against unscreened, as the trial's per-protocol estimate for those who had the colonoscopy; the baseline counts men 45 to 75 of whom 66% are up to date (any test), so Alan's dose is screened minus 0.66, taken in log space (assumed); fit-yearly has no verified figure here and is read as none; the trial screened at 55 to 64"
 
 const STEPS_SAID =
   "steps are Alan's mean over watch-on days; the source's line runs 2,000 to 7,000, so steps past 7,000 count as 7,000; the people the baseline counts are taken at 5,000 steps a day (assumed)"
@@ -195,6 +208,7 @@ export function readingsFor(): ReadonlyMap<string, readonly Reading[]> {
         { factor: "red and processed meat", dose: meatGramDose, assumed: MEAT_GRAMS_SAID },
         SMOKED,
         cancer,
+        { factor: "colonoscopy screening", dose: colonoscopyDose, assumed: COLONOSCOPY_SAID },
       ],
     ],
     ["prostate-cancer", [SMOKED, cancer]],
@@ -249,12 +263,15 @@ export function meatPerDayIn(person: Value): number {
   return (numberAt(person, "meatServingsPerWeek") ?? 0) / DAYS_PER_WEEK
 }
 
-export function habitsIn(person: Value): Pick<Held, "neverSmoked" | "neverDrank" | "bmi"> {
+export function habitsIn(
+  person: Value
+): Pick<Held, "neverSmoked" | "neverDrank" | "bmi" | "colorectalScreening"> {
   const pounds = numberAt(person, "bodyweight")
   const inches = numberAt(person, "height")
   return {
     neverSmoked: textAt(person, "tobaccoUse") === "never",
     neverDrank: numberAt(person, "alcoholDrinksPerWeek") === 0,
+    colorectalScreening: textAt(person, "colorectalScreening") ?? "none",
     bmi:
       pounds === null || inches === null || inches <= 0
         ? null
@@ -301,6 +318,11 @@ export const LEVERS: readonly Lever[] = [
     named: "weight down to BMI 25",
     evidence: "observational",
     to: (held) => ({ ...held, bmi: held.bmi === null ? null : Math.min(held.bmi, 25) }),
+  },
+  {
+    named: "colonoscopy every 10 years from 45",
+    evidence: "trial",
+    to: (held) => ({ ...held, colorectalScreening: COLONOSCOPY }),
   },
   {
     named: "safety level held at 3 or above",

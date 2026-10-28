@@ -23,7 +23,19 @@ const HELD: Held = {
   neverSmoked: true,
   neverDrank: true,
   bmi: 26.1,
+  colorectalScreening: "none",
 }
+
+test("colonoscopy counts from 45, against the share of the people already screened", () => {
+  const screening = (readingsFor().get("colorectal-cancer") ?? [])[3]
+  expect(screening?.factor).toBe("colonoscopy screening")
+  expect(screening?.dose(HELD, 44)).toBe(0)
+  expect(screening?.dose(HELD, 50)).toBeCloseTo(-0.66)
+  expect(
+    screening?.dose({ ...HELD, colorectalScreening: "colonoscopy-10-yearly" }, 50)
+  ).toBeCloseTo(0.34)
+  expect(habitsIn({}).colorectalScreening).toBe("none")
+})
 
 const PERSON = {
   medications: [{ name: "Vyvanse (lisdexamfetamine)" }],

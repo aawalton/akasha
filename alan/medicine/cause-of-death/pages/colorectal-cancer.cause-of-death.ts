@@ -122,7 +122,19 @@ export const colorectalCancer = {
         "Bhaskaran K, dos-Santos-Silva I, Leon DA, Douglas IJ, Smeeth L. Association of BMI with overall and cause-specific mortality: a population-based cohort study of 3.6 million adults in the UK. Lancet Diabetes Endocrinol 2018;6(12):944-953, Table 2, never-smokers. The people's BMI is the US men 20+ mean of 29.4, NHANES August 2021-August 2023, NCHS Vital and Health Statistics Series 3 No. 50, Table 10.",
       url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6249991/",
     },
+    {
+      factor: "colonoscopy screening",
+      personProperty: "colorectal-screening",
+      appliedAs:
+        "screened by colonoscopy against no screening, per-protocol (those who had it), colorectal cancer death over 10 years",
+      relativeRiskLow: 0.27,
+      relativeRiskCentral: 0.5,
+      relativeRiskHigh: 0.77,
+      citation:
+        "Bretthauer M et al. Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death (NordICC). N Engl J Med 2022;387:1547-1556, per-protocol RR 0.50 (0.27-0.77); intention-to-screen RR 0.90 (0.64-1.16); ages 55-64. The 13-year update (DDW 2026, not yet peer reviewed) gives per-protocol 0.70 (0.26-1.25). Screened share: Sabatino SA et al. Use of Cancer Screening Tests, United States, 2023. Prev Chronic Dis 2025;22:E52, men 45-75 up to date 66.0%.",
+      url: "https://www.wikijournalclub.org/wiki/NordICC",
+    },
   ],
   createdAt: "2026-10-28T18:36:41.827Z",
-  updatedAt: "2026-10-28T19:10:39.459Z",
+  updatedAt: "2026-10-28T19:19:14.159Z",
 } as const satisfies CauseOfDeath
