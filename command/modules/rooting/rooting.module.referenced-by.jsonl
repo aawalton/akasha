@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/modules/answer/hook-answer.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/modules/dispatch-boot/dispatch-boot.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/message/modules/agent-tools/agent-message-agent-tools.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/message/notice/modules/compose-notices/compose-notices.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/seat/declaration/modules/seat-answering/seat-answering.module.test.ts","typed":false,"deferred":false}

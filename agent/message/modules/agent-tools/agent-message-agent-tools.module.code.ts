@@ -1,3 +1,4 @@
+import { join } from "node:path"
 import { startDeliveryWitness } from "akasha/agent/message/modules/delivery-witness/agent-message-delivery-witness.module.code.ts"
 import {
   claimMessage,
@@ -8,10 +9,19 @@ import {
 import { watchMessagesTo } from "akasha/agent/message/modules/file-watch/agent-message-file-watch.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
+import {
+  type LogSink,
+  SUPERVISOR_CONSOLE_SOURCE,
+  seatPageSink,
+} from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { STEP_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
-import { noticeStale } from "akasha/story/world/stories/played/turns/modules/turn-notice/turn-notice.module.code.ts"
+import {
+  noticeStale,
+  STALE,
+} from "akasha/story/world/stories/played/turns/modules/turn-notice/turn-notice.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
 
@@ -102,11 +112,33 @@ function stepStatuses(): ReadonlyMap<string, unknown> {
   return held
 }
 
-async function dropStale(to: string, messageId: string): Promise<void> {
+const NOTICE_AT = "story/world/stories/played/turns/modules/turn-notice/turn-notice.module.code.ts"
+
+export function staleAtHead(
+  root: string,
+  body: string,
+  statuses: ReadonlyMap<string, unknown>
+): boolean {
+  try {
+    const done = ran([process.execPath, join(root, NOTICE_AT)], {
+      stdin: Buffer.from(JSON.stringify({ body, statuses: [...statuses] })),
+    })
+    if (done.code === 0) return done.out === STALE
+  } catch {}
+  return noticeStale(body, statuses)
+}
+
+function toStderr(level: string, text: string): undefined {
+  process.stderr.write(`${new Date().toISOString()} [${level}] ${text}\n`)
+  return undefined
+}
+
+async function dropStale(to: string, messageId: string, say: LogSink): Promise<void> {
   if (!claimMessage(to, messageId)) return
   const taken = await takeMessage(to, messageId)
   const kept = taken.kind === "refused" ? `; its page stays held (${taken.detail})` : ""
-  console.error(
+  say(
+    "WARN",
     `[messages] ${messageId} is a turn notice its turn has moved past, so it is dropped rather than sent${kept}`
   )
 }
@@ -145,9 +177,11 @@ export async function startChannelListener(
     },
   })
 
+  const say = seatPageSink(SUPERVISOR_CONSOLE_SOURCE, agentId, toStderr)
+
   const watching = watchMessagesTo(to, (message) =>
-    message.from === STEP_SENDER && noticeStale(message.body, stepStatuses())
-      ? dropStale(to(), message.id)
+    message.from === STEP_SENDER && staleAtHead(akashaRoot(), message.body, stepStatuses())
+      ? dropStale(to(), message.id, say)
       : deliverClaimedMessage({
           row: {
             id: message.id,

@@ -2,8 +2,39 @@ import { expect, test } from "bun:test"
 import { Client } from "@modelcontextprotocol/sdk/client/index.js"
 import { InMemoryTransport } from "@modelcontextprotocol/sdk/inMemory.js"
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js"
-import { whenInitialized } from "akasha/agent/message/modules/agent-tools/agent-message-agent-tools.module.code.ts"
+import {
+  staleAtHead,
+  whenInitialized,
+} from "akasha/agent/message/modules/agent-tools/agent-message-agent-tools.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import {
+  noticeOf,
+  statusOf,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { z } from "zod"
+
+const ROOT = rootOf(import.meta.dir)
+
+const TURNS = "story/world/pages/a-world/stories/played/a-story/turns"
+
+const THREE = `${TURNS}/a-story-00-003.story-turn-played.ts`
+
+const FOUR = `${TURNS}/a-story-00-004.story-turn-played.ts`
+
+test("a notice is judged by the checkout's own judging, and a queued turn leaves it current", () => {
+  const queued = new Map([
+    [THREE, statusOf("world-builder")],
+    [FOUR, statusOf("world-builder")],
+  ])
+  expect(staleAtHead(ROOT, noticeOf(THREE, "world-builder"), queued)).toBe(false)
+  const moved = new Map([[THREE, statusOf("game-master")]])
+  expect(staleAtHead(ROOT, noticeOf(THREE, "world-builder"), moved)).toBe(true)
+})
+
+test("a checkout the judging cannot run in is judged in this process instead", () => {
+  const moved = new Map([[THREE, statusOf("game-master")]])
+  expect(staleAtHead("/nowhere-at-all", noticeOf(THREE, "world-builder"), moved)).toBe(true)
+})
 
 const CHANNEL = "notifications/claude/channel"
 

@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/message/modules/agent-tools/agent-message-agent-tools.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/modules/supervisor/supervisor.module.code.ts","typed":false,"deferred":false}

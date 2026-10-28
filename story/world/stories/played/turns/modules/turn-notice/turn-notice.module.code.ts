@@ -37,3 +37,40 @@ export function noticeStale(body: string, statusByTurn: ReadonlyMap<string, unkn
   const next = turnPathAfter(read.turn)
   return next !== null && statusByTurn.has(next)
 }
+
+export const STALE = "stale"
+
+const CURRENT = "current"
+
+type Asked = { readonly body: string; readonly statuses: readonly (readonly [string, unknown])[] }
+
+function askedIn(text: string): Asked | null {
+  try {
+    const held: unknown = JSON.parse(text)
+    if (held === null || typeof held !== "object") return null
+    const body = (held as Record<string, unknown>)["body"]
+    const statuses = (held as Record<string, unknown>)["statuses"]
+    if (typeof body !== "string" || !Array.isArray(statuses)) return null
+    const pairs = statuses.filter(
+      (one): one is [string, unknown] => Array.isArray(one) && typeof one[0] === "string"
+    )
+    return { body, statuses: pairs }
+  } catch {
+    return null
+  }
+}
+
+function judgedText(text: string): string | null {
+  const asked = askedIn(text)
+  if (asked === null) return null
+  return noticeStale(asked.body, new Map(asked.statuses)) ? STALE : CURRENT
+}
+
+export async function ran(): Promise<number> {
+  const said = judgedText(await Bun.stdin.text())
+  if (said === null) return 1
+  process.stdout.write(said)
+  return 0
+}
+
+if (import.meta.main) process.exit(await ran())

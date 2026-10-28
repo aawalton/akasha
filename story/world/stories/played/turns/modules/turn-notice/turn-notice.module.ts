@@ -7,6 +7,7 @@ export const turnNotice = {
   definition: "whether a notice of a played turn still says where the turn is",
   code: "ts",
   test: "ts",
+  reachedByPath: ["ran"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -34,10 +35,19 @@ export const turnNotice = {
       statement: "A notice naming a turn no page holds is not called stale.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Run as a program, this judges one notice handed in and says stale or current.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat's listener runs it that way for each notice, so the judging is never stale.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the disk.",
     },
   ],
   createdAt: "2026-09-27T16:20:43.650Z",
-  updatedAt: "2026-10-28T00:01:35.944Z",
+  updatedAt: "2026-10-28T00:06:41.119Z",
 } as const satisfies Module

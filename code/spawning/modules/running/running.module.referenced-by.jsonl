@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/hook/agent-hook/name-subagent/name-subagent.agent-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/hook/modules/dispatch-boot/dispatch-boot.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/message/modules/agent-tools/agent-message-agent-tools.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/model/test/modules/running/model-test-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/modules/shell-confining/shell-confining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/modules/withheld-hiding/withheld-hiding.module.test.ts","typed":false,"deferred":false}
@@ -137,6 +138,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"story/world/stories/played/modules/portrait-redrawing/portrait-redrawing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"story/world/stories/played/turns/modules/turn-notice/turn-notice.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/eso/ui-harness/modules/game-art/game-art.module.code.ts","typed":false,"deferred":false}
