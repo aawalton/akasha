@@ -2569,6 +2569,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/montage/modules/montage-running/montage-running.module.ts","id":"01a17ef5-e63b-727f-b28c-5c0bb8d69f97"}
 {"propertySlug":"decision-kind","path":"command/pages/story/montage/modules/montage-taking/montage-taking.module.ts","id":"01a17ef5-e63b-740c-bbaa-3db13e33d903"}
 {"propertySlug":"decision-kind","path":"command/pages/story/montage/story-montage.command.ts","id":"01a17ef5-e63b-7d66-8b7e-d812cccdc2a8"}
+{"propertySlug":"decision-kind","path":"command/pages/story/settle/modules/settle-acting/settle-acting.module.ts","id":"01a1839f-a04a-7e30-947e-df338035e1f2"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/modules/settle-taking/settle-taking.module.ts","id":"01a1019b-5c58-702b-951c-3fc5ff239f6b"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/modules/settle-timing/settle-timing.module.ts","id":"01a1802d-3489-704f-9077-2fb3e63e348b"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/modules/settling-finding/settling-finding.module.ts","id":"01a17f62-99b3-7c26-bfe6-8d4b1e5489ad"}

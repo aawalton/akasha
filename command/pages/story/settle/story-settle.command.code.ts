@@ -52,6 +52,7 @@ import {
   seedAfter,
   unmadeLogged,
 } from "akasha/command/pages/story/modules/settle-seeding/settle-seeding.module.code.ts"
+import { actedAt } from "akasha/command/pages/story/settle/modules/settle-acting/settle-acting.module.code.ts"
 import {
   type Taken,
   taken,
@@ -107,6 +108,7 @@ export type Reach = {
 export type Roll = {
   readonly check: string
   readonly reading: Record<string, unknown>
+  readonly action?: string
   readonly dice?: Dice
   readonly seed?: string
   readonly difficultyLevel?: Odds
@@ -268,6 +270,7 @@ async function rollMade(
   const roll: Roll = {
     check: `${worldCheck.slug}/${held.check}`,
     reading: held.reading,
+    ...actedAt(root, placed.on.at, held.reading),
     ...(thrown === null ? {} : { dice: thrown.dice, seed: thrown.seed }),
     ...(thrown === null || placed.odds === null ? {} : { difficultyLevel: placed.odds }),
     ...(added.length === 0 ? {} : { added }),

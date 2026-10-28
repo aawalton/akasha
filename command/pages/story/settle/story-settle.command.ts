@@ -8,7 +8,12 @@ export const storySettle = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: ["module/settle-taking", "module/settling-finding", "module/settle-timing"],
+  parts: [
+    "module/settle-taking",
+    "module/settling-finding",
+    "module/settle-timing",
+    "module/settle-acting",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -146,5 +151,5 @@ export const storySettle = {
     { argument: "argument/draft" },
   ],
   createdAt: "2026-09-26T14:39:37.211Z",
-  updatedAt: "2026-10-28T01:43:28.649Z",
+  updatedAt: "2026-10-28T17:47:18.985Z",
 } as const satisfies Command

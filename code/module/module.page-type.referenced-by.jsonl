@@ -1418,6 +1418,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/montage/modules/montage-replacing/montage-replacing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/montage/modules/montage-running/montage-running.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/montage/modules/montage-taking/montage-taking.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/settle/modules/settle-acting/settle-acting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/settle/modules/settle-taking/settle-taking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/settle/modules/settle-timing/settle-timing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/settle/modules/settling-finding/settling-finding.module.ts","typed":true,"deferred":false}
