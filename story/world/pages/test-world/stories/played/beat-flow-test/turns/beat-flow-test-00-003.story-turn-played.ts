@@ -13,9 +13,9 @@ export const beatFlowTest00003 = {
   action: "I sit down on the bench beside the well and rest for a moment.",
   beats: "jsonl",
   lore: ["lore/test-world-folk", "lore/test-world-overview", "place/test-world-hall"],
-  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/scene", "story-reviewer/continuity", "story-reviewer/style"],
   createdAt: "2026-10-27T23:11:31.734Z",
-  updatedAt: "2026-10-28T00:38:00.861Z",
+  updatedAt: "2026-10-28T00:38:23.264Z",
   ownLength: 82,
   endsAt: "2026-11-06T09:42:00.000Z",
 } as const satisfies StoryTurnPlayed
