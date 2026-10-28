@@ -4122,6 +4122,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-reconcile/inventory-rules-dispatch-bank-reconcile.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-vault/modules/inventory-vault-deposit-chain/inventory-vault-deposit-chain.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank/inventory-rules-dispatch-bank.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bind/inventory-rules-dispatch-bind.module.ts","typed":true,"deferred":false}

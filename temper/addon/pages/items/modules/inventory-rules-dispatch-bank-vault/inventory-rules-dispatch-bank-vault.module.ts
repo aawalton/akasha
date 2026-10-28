@@ -6,6 +6,7 @@ export const inventoryRulesDispatchBankVault = {
   slug: "inventory-rules-dispatch-bank-vault",
   definition: "withdrawing from and depositing into the furniture vault by rule",
   code: "ts",
+  parts: ["module/inventory-vault-deposit-chain"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -46,11 +47,7 @@ export const inventoryRulesDispatchBankVault = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A deposit still in the backpack once those settle is sent again one at a time.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A deposit sent again waits where the shared window is full.",
+      statement: "A deposit still in the backpack once those settle goes to the deposit chain.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,5 +68,5 @@ export const inventoryRulesDispatchBankVault = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-10-28T21:04:22.787Z",
+  updatedAt: "2026-10-28T21:42:35.527Z",
 } as const satisfies Module
