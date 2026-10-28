@@ -1,2 +1,6 @@
+{"propertySlug":"import","fileName":"cause-of-death.page-type.types.ts","path":"alan/medicine/cause-of-death/pages/colorectal-cancer.cause-of-death.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"cause-of-death.page-type.types.ts","path":"alan/medicine/cause-of-death/pages/heart-disease.cause-of-death.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cause-of-death.page-type.types.ts","path":"alan/medicine/cause-of-death/pages/lung-cancer.cause-of-death.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cause-of-death.page-type.types.ts","path":"alan/medicine/cause-of-death/pages/pancreatic-cancer.cause-of-death.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cause-of-death.page-type.types.ts","path":"alan/medicine/cause-of-death/pages/prostate-cancer.cause-of-death.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/medicine/medicine.domain.ts","id":"01a0675b-16f0-7ba0-82ff-12a2a6ec360b"}
