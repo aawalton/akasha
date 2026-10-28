@@ -14,6 +14,7 @@ export const amyInventoryManagement = {
         "Each category filling Erin's inventory or the bank is handled the way Alan chose for it.",
     },
   ],
+  constraints: ["Gold gear stays as it is until build management is more mature."],
   createdAt: "2026-09-26T15:25:47.417Z",
-  updatedAt: "2026-10-28T17:42:36.417Z",
+  updatedAt: "2026-10-28T18:13:10.985Z",
 } as const satisfies Initiative
