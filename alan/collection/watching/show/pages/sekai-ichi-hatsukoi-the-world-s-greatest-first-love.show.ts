@@ -11,9 +11,15 @@ export const sekaiIchiHatsukoiTheWorldSGreatestFirstLove = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "42554", externalLink: "https://www.themoviedb.org/tv/42554" },
+    {
+      source: "tmdb",
+      externalId: "42554",
+      externalLink: "https://www.themoviedb.org/tv/42554",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Sekai Ichi Hatsukoi: The World's Greatest First Love",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:47:25.469Z",
-  updatedAt: "2026-10-28T18:47:25.469Z",
+  updatedAt: "2026-10-28T19:45:50.904Z",
 } as const satisfies Show
