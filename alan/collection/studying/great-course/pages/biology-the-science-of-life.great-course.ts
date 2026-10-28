@@ -8,7 +8,7 @@ export const biologyTheScienceOfLife = {
   status: "in-progress",
   unit: "unit/minutes",
   ownLength: 2180.53,
-  ownProgress: 242.17,
+  ownProgress: 272.02,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/learning-paths-great-courses",
@@ -22,6 +22,6 @@ export const biologyTheScienceOfLife = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.047Z",
-  updatedAt: "2026-10-19T17:12:11.704Z",
-  progressedAt: "2026-10-19T17:12:11.704Z",
+  updatedAt: "2026-10-28T21:01:31.130Z",
+  progressedAt: "2026-10-28T21:01:31.130Z",
 } as const satisfies GreatCourse
