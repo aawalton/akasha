@@ -3,23 +3,32 @@ import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import { applyAttributeTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-attributes/characters-build-attributes.module.code.ts"
+import { applyBarTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-bars/characters-build-bars.module.code.ts"
 import { applyChampionTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-champion/characters-build-champion.module.code.ts"
 import {
+  type ChecklistSection,
   checklistOf,
   currentCharacterTarget,
 } from "akasha/temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.code.ts"
+import { applyGearTarget } from "akasha/temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.code.ts"
 import {
   drawPanelBackground,
   PANEL_GAP,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import type { CharacterTarget } from "akasha/temper/player/character/build/modules/character-target-types/character-target-types.module.code.ts"
 import {
   colorOf,
   colorText,
   styleText,
   textColorOf,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
-import { buildButton } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
+import {
+  buildButton,
+  setButtonText,
+} from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 import { LINE_HEIGHT } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 
 const PANEL_NAME = "TemperCharactersTargetBuild"
@@ -40,7 +49,27 @@ const MIN_WIDTH = 250
 
 const REFRESH_AFTER_APPLY_MS = 1500
 
-const APPLY_TEXT = "Apply champion points and attributes"
+const UPDATES_NAME = `${PANEL_NAME}Updates`
+
+const APPLIERS: Readonly<Record<string, (target: CharacterTarget) => string>> = {
+  Attributes: (target) => applyAttributeTarget(target.attributes),
+  "Champion points": applyChampionTarget,
+  "Skill bars": applyBarTarget,
+  Gear: applyGearTarget,
+}
+
+function toApply(sections: readonly ChecklistSection[]): readonly string[] {
+  return sections
+    .filter((section) => APPLIERS[section.title] !== undefined)
+    .filter((section) => section.lines.some((line) => !line.met))
+    .map((section) => section.title)
+}
+
+function applyText(titles: readonly string[]): string {
+  const named = titles.map((title) => string.lower(title))
+  const last = named.pop()
+  return named.length === 0 ? `Apply ${last}` : `Apply ${named.join(", ")} and ${last}`
+}
 
 interface TargetPanel {
   readonly window: TopLevelWindow
@@ -64,7 +93,8 @@ function applyTarget(): undefined {
   if (held === undefined) return undefined
   const target = currentCharacterTarget()
   if (target === undefined) return undefined
-  const said = [applyChampionTarget(target), applyAttributeTarget(target.attributes)]
+  const said: string[] = []
+  for (const title of toApply(checklistOf(target))) said.push(APPLIERS[title]?.(target) ?? "")
   held.said.SetText(said.join("  "))
   zo_callLater(refreshTargetPanel, REFRESH_AFTER_APPLY_MS)
   return undefined
@@ -78,7 +108,7 @@ function createTargetPanel(): TargetPanel {
   const title = WINDOW_MANAGER.CreateControl("$(parent)Title", window, CT_LABEL)
   styleText(title, "heading")
 
-  const apply = buildButton(window, undefined, APPLY_TEXT, "default")
+  const apply = buildButton(window, undefined, "Apply", "default")
   apply.SetHandler("OnClicked", applyTarget)
 
   const said = WINDOW_MANAGER.CreateControl(undefined, window, CT_LABEL)
@@ -131,15 +161,22 @@ export function refreshTargetPanel(this: void): undefined {
     return undefined
   }
   panel.title.SetText(`Target Build — ${target.title}`)
-  let widest = math.max(MIN_WIDTH, panel.title.GetTextWidth(), panel.apply.GetWidth())
+  const sections = checklistOf(target)
+  const applying = toApply(sections)
+  let widest = math.max(MIN_WIDTH, panel.title.GetTextWidth())
   let top = placeAt(panel.title, panel, PADDING, 0) + HEADER_GAP
-  top = placeAt(panel.apply, panel, top, 0) + HEADER_GAP
+  panel.apply.SetHidden(applying.length === 0)
+  if (applying.length > 0) {
+    setButtonText(panel.apply, applyText(applying))
+    widest = math.max(widest, panel.apply.GetWidth())
+    top = placeAt(panel.apply, panel, top, 0) + HEADER_GAP
+  }
   if (panel.said.GetText() !== "") {
     top = placeAt(panel.said, panel, top, 0) + HEADER_GAP
     widest = math.max(widest, panel.said.GetTextWidth())
   }
   let used = 0
-  for (const section of checklistOf(target)) {
+  for (const section of sections) {
     const label = panel.lines[used]
     if (label === undefined) break
     used++
@@ -175,5 +212,11 @@ export function initializeTargetBuildPanel(): undefined {
     }
     if (newState === SCENE_SHOWING) refreshTargetPanel()
   })
+  const refreshShown = (): undefined => {
+    if (!panel.window.IsHidden()) refreshTargetPanel()
+    return undefined
+  }
+  EVENT_MANAGER.RegisterForEvent(UPDATES_NAME, EVENT_INVENTORY_SINGLE_SLOT_UPDATE, refreshShown)
+  EVENT_MANAGER.RegisterForEvent(`${UPDATES_NAME}Bars`, EVENT_HOTBAR_SLOT_UPDATED, refreshShown)
   return undefined
 }

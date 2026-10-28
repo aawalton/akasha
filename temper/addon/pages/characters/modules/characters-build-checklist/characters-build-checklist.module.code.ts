@@ -11,10 +11,19 @@ import "akasha/design/language/lua-compiler/language-extensions/language-extensi
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { spentAttributes } from "akasha/temper/addon/pages/characters/modules/characters-build-attributes/characters-build-attributes.module.code.ts"
 import {
+  BAR_SLOT_INDICES,
+  slottedNameAt,
+} from "akasha/temper/addon/pages/characters/modules/characters-build-bars/characters-build-bars.module.code.ts"
+import {
   type DisciplinePlan,
   planDiscipline,
   slottedOf,
 } from "akasha/temper/addon/pages/characters/modules/characters-build-champion/characters-build-champion.module.code.ts"
+import {
+  gearPlaceOf,
+  gearText,
+  wornMatches,
+} from "akasha/temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.code.ts"
 import type {
   CharacterTarget,
   TargetBarSlot,
@@ -32,29 +41,10 @@ export interface ChecklistSection {
   readonly lines: readonly ChecklistLine[]
 }
 
-const BAR_SLOT_INDICES = [3, 4, 5, 6, 7, 8]
-
 const DISCIPLINE_TITLES: Readonly<Record<string, string>> = {
   warfare: "Warfare",
   fitness: "Fitness",
   craft: "Craft",
-}
-
-const GEAR_SLOTS: Readonly<Record<string, readonly [number, string]>> = {
-  head: [EQUIP_SLOT_HEAD, "Head"],
-  shoulders: [EQUIP_SLOT_SHOULDERS, "Shoulders"],
-  chest: [EQUIP_SLOT_CHEST, "Chest"],
-  hands: [EQUIP_SLOT_HAND, "Hands"],
-  waist: [EQUIP_SLOT_WAIST, "Waist"],
-  legs: [EQUIP_SLOT_LEGS, "Legs"],
-  feet: [EQUIP_SLOT_FEET, "Feet"],
-  necklace: [EQUIP_SLOT_NECK, "Necklace"],
-  "ring-1": [EQUIP_SLOT_RING1, "Ring"],
-  "ring-2": [EQUIP_SLOT_RING2, "Ring"],
-  "primary-main-hand": [EQUIP_SLOT_MAIN_HAND, "Main hand"],
-  "primary-off-hand": [EQUIP_SLOT_OFF_HAND, "Off hand"],
-  "backup-main-hand": [EQUIP_SLOT_BACKUP_MAIN, "Backup main hand"],
-  "backup-off-hand": [EQUIP_SLOT_BACKUP_OFF, "Backup off hand"],
 }
 
 function isCharacterTarget(value: unknown): value is CharacterTarget {
@@ -136,8 +126,10 @@ function barLines(
     const wanted = slots[at]
     const slot = BAR_SLOT_INDICES[at]
     if (wanted === undefined || slot === undefined || wanted.name === "") continue
-    const slotted = zo_strformat("<<1>>", GetSlotName(slot, hotbar))
-    lines.push({ text: `${bar} ${at + 1}: ${wanted.name}`, met: slotted === wanted.name })
+    lines.push({
+      text: `${bar} ${at + 1}: ${wanted.name}`,
+      met: slottedNameAt(slot, hotbar) === wanted.name,
+    })
   }
   return lines
 }
@@ -153,16 +145,9 @@ function barsSection(target: CharacterTarget): ChecklistSection {
 }
 
 function gearLine(gear: TargetGear): ChecklistLine | undefined {
-  const placed = GEAR_SLOTS[gear.slot]
-  if (placed === undefined) return undefined
-  const [equipSlot, slotName] = placed
-  const [, , , , , setId] = GetItemLinkSetInfo(GetItemLink(BAG_WORN, equipSlot))
-  const trait = GetItemTrait(BAG_WORN, equipSlot)
-  const traitText = gear.traitName === "" ? "" : ` (${gear.traitName})`
-  return {
-    text: `${slotName}: ${gear.setName}${traitText}`,
-    met: setId === gear.setId && (gear.trait === 0 || trait === gear.trait),
-  }
+  const place = gearPlaceOf(gear)
+  if (place === undefined) return undefined
+  return { text: gearText(gear, place), met: wornMatches(gear, place) }
 }
 
 function gearSection(target: CharacterTarget): ChecklistSection {

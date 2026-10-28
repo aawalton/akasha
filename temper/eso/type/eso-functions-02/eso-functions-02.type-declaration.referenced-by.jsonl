@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-advanced-sheet/characters-advanced-sheet.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-archive-boons/characters-archive-boons.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-build-bars/characters-build-bars.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-build-champion/characters-build-champion.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-character-sheet/characters-character-sheet.module.code.ts","typed":false,"deferred":false}

@@ -1978,7 +1978,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/resolve/temper-addon-resolve.domain.ts","id":"01a06060-ec3c-725c-b37c-206e3c7f7e97"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-bought-passives/characters-bought-passives.module.ts","id":"01a15e82-6ba6-7309-9979-036d56146f37"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-build-target-panel/characters-build-target-panel.module.ts","id":"01a18414-31ea-751e-bea7-ad645881373e"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-build-bars/characters-build-bars.module.ts","id":"01a18445-63e2-79b0-b525-1660f1845bcb"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-build-gear/characters-build-gear.module.ts","id":"01a18445-63e2-7293-880b-b59e05fda236"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.ts","id":"01a062ed-3979-7008-b38a-d2d8bc3af92b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.ts","id":"01a0dee5-fc86-7cee-bb08-6e8be41ee7e7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-fit/characters-task-hud-fit.module.ts","id":"01a17ea0-3f67-7f74-9028-5bf8c48059c5"}

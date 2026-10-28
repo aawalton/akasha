@@ -26,7 +26,19 @@ export const charactersBuildTargetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "One button applies the champion points and the attributes together.",
+      statement: "One button applies every part of the target the game lets an add-on change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The button names only the parts not yet met, and applies only those.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A target with every such part met shows no button.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The checklist is read again as worn gear or a bar slot changes.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,11 +52,7 @@ export const charactersBuildTargetPanel = {
       decisionKind: "decision-kind/departure",
       statement: "The checklist is read again a moment after an apply.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here slots skills or equips gear.",
-    },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-10-28T20:31:07.987Z",
+  updatedAt: "2026-10-28T20:48:22.497Z",
 } as const satisfies Module
