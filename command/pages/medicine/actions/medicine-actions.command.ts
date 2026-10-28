@@ -35,6 +35,18 @@ export const medicineActions = {
       statement: "The answer names each action that no page lets it weigh.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An action waiting on Alan's answer is named with the property it needs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every trial-backed action is also weighed once, all of them together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An action carrying a caveat is marked and the caveat is said under the table.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A run writes nothing.",
     },
@@ -42,5 +54,5 @@ export const medicineActions = {
   name: "actions",
   arguments: [{ argument: "argument/json" }],
   createdAt: "2026-10-28T18:57:02.952Z",
-  updatedAt: "2026-10-28T20:11:45.142Z",
+  updatedAt: "2026-10-28T20:12:50.252Z",
 } as const satisfies Command

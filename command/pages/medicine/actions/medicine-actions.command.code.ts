@@ -30,7 +30,7 @@ import {
   UNMODELLED,
 } from "akasha/command/pages/medicine/modules/mortality-routines/mortality-routines.module.code.ts"
 
-const NAME_WIDTH = 36
+const NAME_WIDTH = 44
 
 const MARKS: Readonly<Record<Evidence, string>> = {
   trial: "",
