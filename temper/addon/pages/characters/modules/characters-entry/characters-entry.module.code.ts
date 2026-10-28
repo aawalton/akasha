@@ -6,6 +6,7 @@ import { installAdvancedStatsReadings } from "akasha/temper/addon/pages/characte
 import { collectAllianceRank } from "akasha/temper/addon/pages/characters/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"
 import { collectAntiquityLore } from "akasha/temper/addon/pages/characters/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
 import { collectBagSize } from "akasha/temper/addon/pages/characters/modules/characters-bag-size/characters-bag-size.module.code.ts"
+import { registerTargetBuildTab } from "akasha/temper/addon/pages/characters/modules/characters-build-target-panel/characters-build-target-panel.module.code.ts"
 import { collectCadwell } from "akasha/temper/addon/pages/characters/modules/characters-cadwell/characters-cadwell.module.code.ts"
 import { collectCollectibles } from "akasha/temper/addon/pages/characters/modules/characters-collectibles/characters-collectibles.module.code.ts"
 import { registerCommands } from "akasha/temper/addon/pages/characters/modules/characters-command/characters-command.module.code.ts"
@@ -151,6 +152,7 @@ function initialize(): undefined {
 
   initializeSkillPointFinder()
   initializeCompanions()
+  registerTargetBuildTab()
   registerPithka()
 }
 

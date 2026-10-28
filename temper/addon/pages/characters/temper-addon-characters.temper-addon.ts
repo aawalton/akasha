@@ -21,6 +21,10 @@ export const temperAddonCharacters = {
     "module/characters-antiquity-lead-checks",
     "module/characters-antiquity-lore",
     "module/characters-bag-size",
+    "module/characters-build-attributes",
+    "module/characters-build-champion",
+    "module/characters-build-checklist",
+    "module/characters-build-target-panel",
     "module/characters-cadwell",
     "module/characters-collectibles",
     "module/characters-collector-merge",
@@ -231,5 +235,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-10-27T18:29:53.639Z",
+  updatedAt: "2026-10-28T19:54:38.440Z",
 } as const satisfies TemperAddon

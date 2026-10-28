@@ -1,2 +1,5 @@
+{"propertySlug":"import","fileName":"character-target-types.module.code.ts","path":"temper/addon/pages/characters/modules/characters-build-attributes/characters-build-attributes.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-target-types.module.code.ts","path":"temper/addon/pages/characters/modules/characters-build-champion/characters-build-champion.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-target-types.module.code.ts","path":"temper/addon/pages/characters/modules/characters-build-checklist/characters-build-checklist.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-target-types.module.code.ts","path":"temper/watcher/modules/watcher-export-character-targets/watcher-export-character-targets.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/build/temper-character-build.domain.ts","id":"01a061a7-9bb4-7492-9ef4-a2d81d834deb"}
