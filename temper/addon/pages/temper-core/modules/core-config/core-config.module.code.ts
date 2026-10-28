@@ -5,7 +5,7 @@ import type {
 } from "akasha/temper/addon/pages/temper-core/modules/hud-layout-place/hud-layout-place.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/core-config-declarations/core-config-declarations.type-declaration.d.ts"
 
-export interface HudLayoutDock {
+interface HudLayoutDock {
   readonly gap: number
 }
 
