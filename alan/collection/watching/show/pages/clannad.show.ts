@@ -11,9 +11,15 @@ export const clannad = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "24835", externalLink: "https://www.themoviedb.org/tv/24835" },
+    {
+      source: "tmdb",
+      externalId: "24835",
+      externalLink: "https://www.themoviedb.org/tv/24835",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Clannad",
+  streamingOn: ["HiDive", "Hidive Amazon Channel"],
   createdAt: "2026-10-28T18:48:08.670Z",
-  updatedAt: "2026-10-28T18:48:08.670Z",
+  updatedAt: "2026-10-28T19:43:47.196Z",
 } as const satisfies Show
