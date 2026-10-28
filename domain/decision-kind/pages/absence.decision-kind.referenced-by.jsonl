@@ -1910,6 +1910,7 @@
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/properties/drawn.file-property.ts","id":"01a0c4aa-d1e0-72a8-83ce-aa0c398fe652"}
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/max-level.computed-property.ts","id":"01a0657a-9ccc-799d-b3da-5f74e280345a"}
 {"propertySlug":"decision-kind","path":"story/world/designs/properties/visual-style.text-property.ts","id":"01a06577-f385-7c1c-8e0b-5a8d4ac8821f"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.ts","id":"01a18003-61ae-7e38-8a77-8a41d2b29206"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.ts","id":"01a0de74-5fb3-7593-a73d-196114cb52c0"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/item-slot/item-slot.page-type.ts","id":"01a0ca45-bac0-7c6d-83bf-8415bedd0526"}

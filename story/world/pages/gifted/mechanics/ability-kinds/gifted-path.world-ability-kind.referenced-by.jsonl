@@ -6,4 +6,5 @@
 {"propertySlug":"ability-kind","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-soulstealing.world-skill.ts","id":"01a17edd-6b14-716d-9086-c49e87223c28"}
 {"propertySlug":"ability-kind","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-the-completionist.world-skill.ts","id":"01a17edd-6b14-7415-bdcb-17cae3d65080"}
 {"propertySlug":"ability-kind","path":"story/world/pages/gifted/mechanics/skills/gifted-path-of-willpower.world-skill.ts","id":"01a17edd-6b14-761c-af77-15a126b838e8"}
+{"propertySlug":"import","fileName":"gifted-path.world-ability-kind.ts","path":"story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"gifted-path.world-ability-kind.ts","path":"story/world/stories/played/modules/played-skills/played-skills.module.test.ts","typed":false,"deferred":false}

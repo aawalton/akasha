@@ -97,6 +97,7 @@
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"page/view/modules/key-naming/key-naming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"story/ui/modules/difficulty-panel/difficulty-panel.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"story/world/stories/played/modules/held-ability-setting/held-ability-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"story/world/stories/played/modules/played-outcomes/played-outcomes.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"story/world/stories/played/modules/played-skills/played-skills.module.code.ts","typed":false,"deferred":false}

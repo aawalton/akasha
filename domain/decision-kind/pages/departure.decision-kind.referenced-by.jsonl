@@ -4133,6 +4133,7 @@
 {"propertySlug":"decision-kind","path":"story/world/designs/properties/story-premise.file-property.ts","id":"01a06577-f385-7179-9713-a0ebc7944548"}
 {"propertySlug":"decision-kind","path":"story/world/designs/properties/visual-style.text-property.ts","id":"01a06577-f385-7c1c-8e0b-5a8d4ac8821f"}
 {"propertySlug":"decision-kind","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.ts","id":"01a18003-61ae-7e38-8a77-8a41d2b29206"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/ability-kinds/properties/active-slots.number-property.ts","id":"01a17ff8-40fb-7724-9db7-7fa5bdb6146e"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts","id":"01a17ff1-08c1-7ce1-ba38-4ef7f17de05a"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/appointments/properties/appointment-at.instant-property.ts","id":"01a0e3b2-a002-7fc4-bd6d-43ed66441878"}
