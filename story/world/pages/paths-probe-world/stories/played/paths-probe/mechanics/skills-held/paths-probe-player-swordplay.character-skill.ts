@@ -7,8 +7,9 @@ export const pathsProbePlayerSwordplay = {
   world: "world/paths-probe-world",
   character: "character-player/paths-probe-player",
   skill: "world-skill/paths-probe-world-swordplay",
-  experience: 44,
+  dormant: true,
+  experience: 25,
   attribute: "metric-character-stat/paths-probe-player-strength",
   createdAt: "2026-10-28T01:03:22.622Z",
-  updatedAt: "2026-10-28T01:03:22.622Z",
+  updatedAt: "2026-10-28T01:44:01.818Z",
 } as const satisfies CharacterSkill
