@@ -15,9 +15,10 @@ export const puellaMagiMadokaMagicaTheMovieRebellion = {
       source: "tmdb",
       externalId: "212162",
       externalLink: "https://www.themoviedb.org/movie/212162",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Puella Magi Madoka Magica the Movie -Rebellion-",
   createdAt: "2026-10-28T18:46:27.419Z",
-  updatedAt: "2026-10-28T18:46:27.419Z",
+  updatedAt: "2026-10-28T19:48:01.693Z",
 } as const satisfies Movie
