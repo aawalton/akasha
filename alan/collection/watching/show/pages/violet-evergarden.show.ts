@@ -11,9 +11,15 @@ export const violetEvergarden = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "75214", externalLink: "https://www.themoviedb.org/tv/75214" },
+    {
+      source: "tmdb",
+      externalId: "75214",
+      externalLink: "https://www.themoviedb.org/tv/75214",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Violet Evergarden",
+  streamingOn: ["Netflix", "Netflix Standard with Ads"],
   createdAt: "2026-10-28T18:45:55.713Z",
-  updatedAt: "2026-10-28T18:45:55.713Z",
+  updatedAt: "2026-10-28T19:46:35.602Z",
 } as const satisfies Show
