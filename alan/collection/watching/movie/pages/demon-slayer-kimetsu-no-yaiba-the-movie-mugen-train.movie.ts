@@ -15,9 +15,11 @@ export const demonSlayerKimetsuNoYaibaTheMovieMugenTrain = {
       source: "tmdb",
       externalId: "635302",
       externalLink: "https://www.themoviedb.org/movie/635302",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+  streamingOn: ["Amasian TV", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:43:24.152Z",
-  updatedAt: "2026-10-28T18:43:24.152Z",
+  updatedAt: "2026-10-28T19:46:51.498Z",
 } as const satisfies Movie
