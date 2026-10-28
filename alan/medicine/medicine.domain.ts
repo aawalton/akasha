@@ -5,7 +5,11 @@ export const medicine = {
   type: "page-type/domain",
   slug: "medicine",
   definition: "Alan's medical health",
-  parts: ["domain/disability-adjusted-micromort"],
+  parts: [
+    "domain/disability-adjusted-micromort",
+    "page-type/cause-of-death",
+    "page-type/risk-activity",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -38,5 +42,5 @@ export const medicine = {
     },
   ],
   createdAt: "2026-09-03T13:00:18.032Z",
-  updatedAt: "2026-10-28T18:10:02.722Z",
+  updatedAt: "2026-10-28T18:19:17.719Z",
 } as const satisfies Domain

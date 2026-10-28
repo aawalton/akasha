@@ -46,6 +46,8 @@
 {"propertySlug":"extends-type","path":"alan/harness/shopping/item/shopping-item.page-type.ts","id":"01a15447-1cff-78e7-b4e3-ece9981a26c5"}
 {"propertySlug":"extends-type","path":"alan/harness/shopping/store/store.page-type.ts","id":"01a15446-0f0c-72c9-8820-8c68f0f6801b"}
 {"propertySlug":"extends-type","path":"alan/harness/sms-core/telnyx-account/telnyx-account.page-type.ts","id":"01a06861-e7cd-7e44-b19a-09599abde817"}
+{"propertySlug":"extends-type","path":"alan/medicine/cause-of-death/cause-of-death.page-type.ts","id":"01a183bc-e758-7df8-8861-f179dcfa60a1"}
+{"propertySlug":"extends-type","path":"alan/medicine/risk-activity/risk-activity.page-type.ts","id":"01a183bc-e759-73c8-991d-7117b5f7bcfb"}
 {"propertySlug":"extends-type","path":"alan/music/listening/heard-music/heard-music.page-type.ts","id":"01a06240-340f-700a-be22-823bb6c905f7"}
 {"propertySlug":"extends-type","path":"alan/music/spotify/account/spotify-account.page-type.ts","id":"01a0b6dc-93a1-71ed-a64b-4bd0ff99df66"}
 {"propertySlug":"extends-type","path":"alan/relationships/connection-activity/connection-activity.page-type.ts","id":"01a0658e-c30d-7f83-bcba-db0766dbd484"}
@@ -209,6 +211,8 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/shopping/item/shopping-item.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/shopping/store/store.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/sms-core/telnyx-account/telnyx-account.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/medicine/cause-of-death/cause-of-death.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/medicine/risk-activity/risk-activity.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/music/listening/heard-music/heard-music.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/music/spotify/account/spotify-account.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/relationships/connection-activity/connection-activity.page-type.types.ts","typed":true,"deferred":false}
