@@ -15,9 +15,11 @@ export const konosubaGodSBlessingOnThisWonderfulWorldLegendOfCrimson = {
       source: "tmdb",
       externalId: "532067",
       externalLink: "https://www.themoviedb.org/movie/532067",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "KONOSUBA – God's blessing on this wonderful world! Legend of Crimson",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:54:11.910Z",
-  updatedAt: "2026-10-28T18:54:11.910Z",
+  updatedAt: "2026-10-28T19:47:40.758Z",
 } as const satisfies Movie
