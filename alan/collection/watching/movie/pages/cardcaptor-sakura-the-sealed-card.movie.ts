@@ -11,9 +11,15 @@ export const cardcaptorSakuraTheSealedCard = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "31347", externalLink: "https://www.themoviedb.org/movie/31347" },
+    {
+      source: "tmdb",
+      externalId: "31347",
+      externalLink: "https://www.themoviedb.org/movie/31347",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Cardcaptor Sakura: The Sealed Card",
+  streamingOn: ["Crunchyroll"],
   createdAt: "2026-10-28T18:52:22.657Z",
-  updatedAt: "2026-10-28T18:52:22.657Z",
+  updatedAt: "2026-10-28T19:46:45.268Z",
 } as const satisfies Movie
