@@ -11,9 +11,15 @@ export const yuriOnIce = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "68129", externalLink: "https://www.themoviedb.org/tv/68129" },
+    {
+      source: "tmdb",
+      externalId: "68129",
+      externalLink: "https://www.themoviedb.org/tv/68129",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Yuri!!! on Ice",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:47:14.763Z",
-  updatedAt: "2026-10-28T18:47:14.763Z",
+  updatedAt: "2026-10-28T19:46:38.831Z",
 } as const satisfies Show
