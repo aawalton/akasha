@@ -11,9 +11,15 @@ export const junjoRomantica = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "37548", externalLink: "https://www.themoviedb.org/tv/37548" },
+    {
+      source: "tmdb",
+      externalId: "37548",
+      externalLink: "https://www.themoviedb.org/tv/37548",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Junjo Romantica",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:47:31.178Z",
-  updatedAt: "2026-10-28T18:47:31.178Z",
+  updatedAt: "2026-10-28T19:44:43.343Z",
 } as const satisfies Show
