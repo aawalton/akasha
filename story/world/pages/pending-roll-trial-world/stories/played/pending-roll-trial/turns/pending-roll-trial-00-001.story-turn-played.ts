@@ -11,5 +11,6 @@ export const pendingRollTrial00001 = {
   stepStatus: "step-status/game-master",
   action: "I draw my sword and cut the rope holding the sign",
   createdAt: "2026-10-28T18:40:09.228Z",
-  updatedAt: "2026-10-28T18:40:09.228Z",
+  updatedAt: "2026-10-28T18:42:42.184Z",
+  outcomes: "jsonl",
 } as const satisfies StoryTurnPlayed
