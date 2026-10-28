@@ -11,9 +11,15 @@ export const konosubaGodSBlessingOnThisWonderfulWorld = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "65844", externalLink: "https://www.themoviedb.org/tv/65844" },
+    {
+      source: "tmdb",
+      externalId: "65844",
+      externalLink: "https://www.themoviedb.org/tv/65844",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "KONOSUBA - God's blessing on this wonderful world!",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:54:09.431Z",
-  updatedAt: "2026-10-28T18:54:09.431Z",
+  updatedAt: "2026-10-28T19:44:53.236Z",
 } as const satisfies Show
