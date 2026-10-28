@@ -4687,6 +4687,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-tooltip/sales-history-status-tooltip.module.ts","id":"01a06197-4c9b-7dd5-89f9-ff0114a5f0ba"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window/sales-history-status-window.module.ts","id":"01a06197-4c9c-7d54-9cfe-eec960253bbb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/inventory-config-file/inventory-config-file.lua-module.ts","id":"01a06258-b536-7417-855d-e9bd5aa14816"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.ts","id":"01a06258-b52c-7d14-aa57-055429e5b07b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.ts","id":"01a06258-b526-7d25-ae50-a9ad55256535"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}

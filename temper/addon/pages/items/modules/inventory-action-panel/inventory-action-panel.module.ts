@@ -6,6 +6,16 @@ export const inventoryActionPanel = {
   slug: "inventory-action-panel",
   definition: "the small panel shown over the inventory with the counts of pending actions",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel sits one gap to the left of the inventory window that is open.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The panel is neither dragged nor kept where a drag left it.",
+    },
+  ],
   createdAt: "2026-09-02T13:39:35.852Z",
-  updatedAt: "2026-09-21T17:37:10.000Z",
+  updatedAt: "2026-10-28T15:44:28.100Z",
 } as const satisfies Module

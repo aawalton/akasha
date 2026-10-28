@@ -1,9 +1,5 @@
 import { getInventoryActionSummary } from "akasha/temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"
-import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import {
-  createMovableWindow,
-  type MovableWindowHandle,
-} from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
+
 import {
   drawSurface,
   type SurfaceLevel,
@@ -18,7 +14,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const PANEL_NAME = "TemperItemsActionPanel"
 const ANCHOR_TARGET_NAMES = ["TemperItemsBrowser", "ZO_PlayerInventory"]
-const DEFAULT_ANCHOR_OFFSET_X = 40
+const GAP_TO_INVENTORY = 40
 const PADDING_X = 16
 const PADDING_Y = 16
 const HEADER_HEIGHT = 24
@@ -32,7 +28,6 @@ interface PanelState {
   bg: BackdropControl
   header: LabelControl
   rowControls: LabelControl[]
-  handle: MovableWindowHandle
 }
 
 let panel: PanelState | undefined
@@ -58,35 +53,7 @@ export function initializeInventoryActionPanel(): undefined {
   header.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   header.SetText("")
 
-  const dragHandle = WINDOW_MANAGER.CreateControl("$(parent)DragHandle", tlw, CT_CONTROL)
-  dragHandle.SetAnchor(TOPLEFT, tlw, TOPLEFT, 0, 0)
-  dragHandle.SetAnchor(BOTTOMRIGHT, tlw, BOTTOMRIGHT, 0, 0)
-
-  const handle = createMovableWindow({
-    window: tlw,
-    dragHandle,
-    loadPosition: () => {
-      const saved = getSavedVariables().inventoryActionPanel
-      if (saved === undefined) return undefined
-      return { left: saved.left, top: saved.top }
-    },
-    savePosition: (position) => {
-      getSavedVariables().inventoryActionPanel = { left: position.left, top: position.top }
-    },
-    applyDefaultAnchor: () => {
-      for (const name of ANCHOR_TARGET_NAMES) {
-        const target = WINDOW_MANAGER.GetControlByName(name)
-        if (target !== undefined) {
-          tlw.SetAnchor(TOPRIGHT, target, TOPLEFT, -DEFAULT_ANCHOR_OFFSET_X, 0)
-          return
-        }
-      }
-      tlw.SetAnchor(TOPRIGHT, GuiRoot, TOPLEFT, -DEFAULT_ANCHOR_OFFSET_X, 0)
-      tlw.SetHidden(true)
-    },
-  })
-
-  panel = { tlw, bg, header, rowControls: [], handle }
+  panel = { tlw, bg, header, rowControls: [] }
 
   INVENTORY_FRAGMENT.RegisterCallback(
     "StateChange",
@@ -109,13 +76,31 @@ export function initializeInventoryActionPanel(): undefined {
   )
 }
 
+function besideTarget(): Control | undefined {
+  let last: Control | undefined
+  for (const name of ANCHOR_TARGET_NAMES) {
+    const target = WINDOW_MANAGER.GetControlByName(name)
+    if (target === undefined) continue
+    if (!target.IsHidden()) return target
+    last = target
+  }
+  return last
+}
+
 function reanchor(): undefined {
   if (!panel) return
-  panel.handle.reanchor()
+  panel.tlw.ClearAnchors()
+  const target = besideTarget()
+  if (target === undefined) {
+    panel.tlw.SetAnchor(TOPRIGHT, GuiRoot, TOPLEFT, -GAP_TO_INVENTORY, 0)
+    return
+  }
+  panel.tlw.SetAnchor(TOPRIGHT, target, TOPLEFT, -GAP_TO_INVENTORY, 0)
 }
 
 function refresh(): undefined {
   if (!panel) return
+  reanchor()
   const summary = getInventoryActionSummary()
   if (summary === undefined || summary.venues.length === 0) {
     panel.tlw.SetHidden(true)
