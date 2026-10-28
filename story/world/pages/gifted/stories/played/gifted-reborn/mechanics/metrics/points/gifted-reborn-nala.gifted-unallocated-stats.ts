@@ -6,8 +6,9 @@ export const giftedRebornNala = {
   slug: "gifted-reborn-nala",
   title: "Unallocated Stats",
   character: "character-player/gifted-reborn-nala",
-  value: 0,
+  value: 2,
   minValue: 0,
+  history: "jsonl",
   createdAt: "2026-10-27T19:40:48.360Z",
-  updatedAt: "2026-10-27T19:40:48.360Z",
+  updatedAt: "2026-10-28T00:13:15.492Z",
 } as const satisfies GiftedUnallocatedStats

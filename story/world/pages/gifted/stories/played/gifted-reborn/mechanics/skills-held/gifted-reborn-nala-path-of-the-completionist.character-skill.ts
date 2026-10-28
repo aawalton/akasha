@@ -8,7 +8,7 @@ export const giftedRebornNalaPathOfTheCompletionist = {
   character: "character-player/gifted-reborn-nala",
   skill: "world-skill/gifted-path-of-the-completionist",
   experience: 0,
-  unrevealed: true,
+  unrevealed: false,
   createdAt: "2026-10-27T19:41:16.088Z",
-  updatedAt: "2026-10-27T21:49:31.853Z",
+  updatedAt: "2026-10-28T00:13:15.492Z",
 } as const satisfies CharacterSkill

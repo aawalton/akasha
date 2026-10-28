@@ -9,3 +9,8 @@ Words open in your mind. You have no eyes to read them with, and you read them a
 :::title
 name: Defeat a Lesser Demon Prince while unborn
 :::
+
+:::item-award
+name: Reward
+note: Path: Path of the Completionist; Unallocated Stats: 2
+:::
