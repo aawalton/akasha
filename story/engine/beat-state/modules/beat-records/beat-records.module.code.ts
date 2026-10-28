@@ -24,7 +24,7 @@ type ListedPart = "changes" | "memory" | "pictured"
 
 type NoneStated = { readonly beat: number; readonly part: ListedPart }
 
-export type BeatIssue = { readonly beat: number; readonly issue: string }
+type BeatIssue = { readonly beat: number; readonly issue: string }
 
 export type Beats = {
   readonly beats: readonly string[]
