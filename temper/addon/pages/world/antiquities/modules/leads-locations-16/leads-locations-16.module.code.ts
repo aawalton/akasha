@@ -1,3 +1,148 @@
 import type { LocationEntry } from "akasha/temper/addon/pages/world/antiquities/modules/leads-location-types/leads-location-types.module.code.ts"
 
-export const LOCATIONS_16: Record<number, LocationEntry> = {}
+export const LOCATIONS_16: Record<number, LocationEntry> = {
+  790: {
+    description: "(GD) Red Petal Bastion last boss",
+    type: "Group dungeon",
+    short: "(GD) Red Petal Bastion",
+    complete: false,
+  },
+  791: {
+    description: "Dynamic encounter coffer",
+    type: "Coffer",
+    short: "Dynamic encounter",
+    complete: false,
+  },
+  792: {
+    description: "Dynamic encounter coffer",
+    type: "Coffer",
+    short: "Dynamic encounter",
+    complete: false,
+  },
+  793: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  794: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  795: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  796: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  797: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  798: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  799: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  800: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  801: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  802: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  803: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  804: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  805: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  806: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  807: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  808: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  809: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  810: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  811: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  812: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+  813: {
+    description: "High Seas Event Chests",
+    type: "Event zone",
+    short: "High Seas Event Chests",
+    complete: false,
+  },
+}

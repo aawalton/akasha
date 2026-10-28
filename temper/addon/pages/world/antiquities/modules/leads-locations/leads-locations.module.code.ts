@@ -10,6 +10,11 @@ import { LOCATIONS_8 } from "akasha/temper/addon/pages/world/antiquities/modules
 import { LOCATIONS_9 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-locations-9/leads-locations-9.module.code.ts"
 import { LOCATIONS_10 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-locations-10/leads-locations-10.module.code.ts"
 import { LOCATIONS_11 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-locations-11/leads-locations-11.module.code.ts"
+import { LOCATIONS_12 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-locations-12/leads-locations-12.module.code.ts"
+import { LOCATIONS_13 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-locations-13/leads-locations-13.module.code.ts"
+import { LOCATIONS_14 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-locations-14/leads-locations-14.module.code.ts"
+import { LOCATIONS_15 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-locations-15/leads-locations-15.module.code.ts"
+import { LOCATIONS_16 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-locations-16/leads-locations-16.module.code.ts"
 
 export const LOCATIONS: Record<number, LocationEntry> = {
   ...LOCATIONS_1,
@@ -23,4 +28,9 @@ export const LOCATIONS: Record<number, LocationEntry> = {
   ...LOCATIONS_9,
   ...LOCATIONS_10,
   ...LOCATIONS_11,
+  ...LOCATIONS_12,
+  ...LOCATIONS_13,
+  ...LOCATIONS_14,
+  ...LOCATIONS_15,
+  ...LOCATIONS_16,
 }
