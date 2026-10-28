@@ -19,7 +19,7 @@ const SLUG_KEY = "slug"
 
 const TITLE_KEY = "title"
 
-export const PLURAL_TITLE_KEY = exportedAs(pluralTitle.propertySlug)
+const PLURAL_TITLE_KEY = exportedAs(pluralTitle.propertySlug)
 
 const DISPLAY_ORDER_KEY = "displayOrder"
 
