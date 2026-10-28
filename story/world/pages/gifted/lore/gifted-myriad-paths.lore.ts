@@ -187,11 +187,11 @@ export const giftedMyriadPaths = {
     },
     {
       fact: "A Path is no Skill to use; dwelling on one in a Status shows what earns its steps and its next Tier.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Soulstealing is mutated: only soul shreds of a demon-ridden creature dying nearby give it steps.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Soulstealing's first Tier lifts its holder's Aether Core a grade, its second their Aether Channels.",
@@ -207,7 +207,7 @@ export const giftedMyriadPaths = {
     },
     {
       fact: "The Completionist gains one step for each Path its holder completes.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The Completionist is an Advanced Path, its Tiers falling at 10, 50, 200, 500 and 1000 steps.",
@@ -232,14 +232,6 @@ export const giftedMyriadPaths = {
     {
       fact: "Exceptionalism's first three Tiers fall at 10, 100 and 500 steps.",
       knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Soulstealing's first Tier falls at 10 steps, and its reward raises the Aether Core one grade.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
-    },
-    {
-      fact: "The Completionist's first Tier falls at 1 step, and its reward is 2 Unallocated Stats.",
-      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
     {
       fact: "Talented 109 turned an Achievement's 1000 steps into 1218, and Talented 150 is thirty percent.",
@@ -291,5 +283,5 @@ export const giftedMyriadPaths = {
     },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T14:40:33.435Z",
+  updatedAt: "2026-10-28T15:06:42.997Z",
 } as const satisfies Lore
