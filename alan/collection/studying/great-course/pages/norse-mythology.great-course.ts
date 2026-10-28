@@ -8,7 +8,7 @@ export const norseMythology = {
   status: "in-progress",
   unit: "unit/minutes",
   ownLength: 681.03,
-  ownProgress: 59.68,
+  ownProgress: 86.77,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/literature-great-courses",
@@ -21,6 +21,6 @@ export const norseMythology = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-10-19T17:40:57.258Z",
-  progressedAt: "2026-10-19T17:40:57.258Z",
+  updatedAt: "2026-10-28T21:06:11.670Z",
+  progressedAt: "2026-10-28T21:06:11.670Z",
 } as const satisfies GreatCourse
