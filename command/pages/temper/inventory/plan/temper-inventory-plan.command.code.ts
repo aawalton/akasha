@@ -46,7 +46,10 @@ import type {
   AffectedItem,
   ClassifiedInventoryItem,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import { ALL_CATEGORIES_ID } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import {
+  ALL_CATEGORIES_ID,
+  type ItemAction,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   IndeterminateReason,
   WalkOutcome,
@@ -74,7 +77,7 @@ const PLAN_HEADER = "[TemperItems] Plan:"
 
 const UNMAPPED_HEADER = "[TemperItems] Unmapped:"
 
-function verbOf(action: string, destination: string | undefined): string {
+function verbOf(action: ItemAction, destination: string | undefined): string {
   switch (action) {
     case "sell":
     case "destroy":
@@ -90,6 +93,8 @@ function verbOf(action: string, destination: string | undefined): string {
       return "deconstruct"
     case "refine":
       return "refine"
+    case "fillet":
+      return "fillet"
     case "research":
       return "research"
     case "character-equip":
@@ -106,9 +111,10 @@ function verbOf(action: string, destination: string | undefined): string {
     case "nothing":
     case "lock":
     case "unlock":
+    case "bind":
       return action
     default:
-      return assertNever(action as never)
+      return assertNever(action)
   }
 }
 

@@ -89,6 +89,35 @@ test("a plan with no venue stop says so rather than saying nothing", () => {
   expect(planSaid(empty)).toEqual(["[TemperItems] Plan:", "  (no actions pending)"])
 })
 
+test("a venue stop says each action it holds by the word for that action", () => {
+  const fish = { itemId: 1, itemName: "Fish", stackCount: 4, quality: 1 }
+  const plan: ManagementPlan = {
+    sessions: [
+      {
+        characterId: "1",
+        characterName: "Emberkin",
+        venues: [
+          {
+            venue: "crafting-station",
+            label: "Crafting Station",
+            actionGroups: [
+              { label: "Fillet", items: [{ ...fish, action: "fillet" }], slotCount: 1 },
+              { label: "Bind", items: [{ ...fish, action: "bind" }], slotCount: 1 },
+            ],
+            slotCount: 2,
+          },
+        ],
+        totalSlots: 2,
+      },
+    ],
+    totalCharacterSwitches: 0,
+    totalVenueVisits: 1,
+    totalSlots: 2,
+  }
+
+  expect(planSaid(plan)).toEqual(["[TemperItems] Plan:", "  Crafting Station — fillet 4, bind 4"])
+})
+
 test("holdings every rule reaches are said as such rather than as an empty list", () => {
   expect(unmappedSaid({ unreached: [], undecided: [] })).toEqual([
     "[TemperItems] Unmapped:",
