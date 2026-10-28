@@ -11,9 +11,15 @@ export const dragonBallSuper = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "62715", externalLink: "https://www.themoviedb.org/tv/62715" },
+    {
+      source: "tmdb",
+      externalId: "62715",
+      externalLink: "https://www.themoviedb.org/tv/62715",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Dragon Ball Super",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:53:57.776Z",
-  updatedAt: "2026-10-28T18:53:57.776Z",
+  updatedAt: "2026-10-28T19:44:04.984Z",
 } as const satisfies Show
