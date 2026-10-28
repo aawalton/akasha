@@ -133,7 +133,59 @@ export const giftedMyriadPaths = {
       fact: "Noble houses drill their children to see their Status at about four.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Path unlocked while every active slot is full waits on offer until a slot is free.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A completed Path frees its active slot for another Path.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A soul sets a Path aside by telling its Status, and can take that Path up again later.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Path set aside sits among the Dormant Paths, where the Status shows its Tier and no steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Dungeon Path, given in a Dungeon or a Rift, holds no active slot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Completing an Advanced Path can offer three Elite Paths, of which its walker takes one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Class Path has ten Tiers, each a hundred steps past the last.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Class Paths run Basic, Adept, Advanced, Elite and Master, one after another.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Class Path's Tiers can add Advanced Attribute slots.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An Achievement can offer its steps to one of several Paths, for its holder to choose.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Basic Path's ninth Tier gives an Unallocated Stat in place of an Attribute point.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Some Basic Paths, once completed, also unlock an Advanced Attribute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A mutated Path takes no steps from an Achievement.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-27T19:33:43.164Z",
+  updatedAt: "2026-10-28T00:44:36.893Z",
 } as const satisfies Lore
