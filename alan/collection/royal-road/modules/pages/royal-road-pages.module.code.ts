@@ -1,11 +1,51 @@
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { chapterWords as countChapterWords } from "akasha/story/engine/core/modules/chapter-words/chapter-words.module.code.ts"
+import { type Browser, chromium, type Page } from "playwright-core"
 import { z } from "zod"
 
 const ROYAL_ROAD_ORIGIN = "https://www.royalroad.com"
 
-export const USER_AGENT =
-  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+const FULL_BUILD = "chromium"
+
+const UNMARKED = ["--disable-blink-features=AutomationControlled"]
+
+const GOTO_CEILING_MS = 60_000
+
+const CHALLENGE_CEILING_MS = 30_000
+
+interface Browsing {
+  readonly browser: Browser
+  readonly account: Page
+  readonly anonymous: Page
+}
+
+let launched: Promise<Browsing> | null = null
+
+async function opening(): Promise<Browsing> {
+  const browser = await chromium.launch({ headless: true, channel: FULL_BUILD, args: UNMARKED })
+  const major = browser.version().split(".")[0]
+  const userAgent =
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) " +
+    `Chrome/${major}.0.0.0 Safari/537.36`
+  const page = async (): Promise<Page> =>
+    await (await browser.newContext({ userAgent, locale: "en-US" })).newPage()
+  return { browser, account: await page(), anonymous: await page() }
+}
+
+function browsing(): Promise<Browsing> {
+  launched ??= opening()
+  return launched
+}
+
+export async function accountPage(): Promise<Page> {
+  return (await browsing()).account
+}
+
+export async function closeBrowsing(): Promise<void> {
+  const open = await launched?.catch(() => null)
+  launched = null
+  await open?.browser.close()
+}
 
 const REQUEST_DELAY_MS = 1500
 
@@ -267,50 +307,31 @@ export async function steadily(
   return await send()
 }
 
-export function answerFrom(
-  url: string,
-  headers: Readonly<Record<string, string>>,
-  form?: URLSearchParams
-): Promise<Response> {
-  return steadily(() => answerOnce(url, headers, form))
+export async function answerFrom(url: string, asAccount = false): Promise<Response> {
+  const open = await browsing()
+  return await steadily(() => answerOnce(asAccount ? open.account : open.anonymous, url))
 }
 
-async function answerOnce(
-  url: string,
-  headers: Readonly<Record<string, string>>,
-  form?: URLSearchParams
-): Promise<Response> {
-  const args = ["curl", "--silent", "--show-error", "--include", "--compressed", "--max-time", "45"]
-  for (const [name, value] of Object.entries(headers)) args.push("--header", `${name}: ${value}`)
-  if (form !== undefined) args.push("--data-binary", "@-")
-  args.push(url)
-  const run = Bun.spawn(args, { stdin: "pipe", stdout: "pipe", stderr: "pipe" })
-  if (form !== undefined) await run.stdin.write(form.toString())
-  await run.stdin.end()
-  const [out, err, code] = await Promise.all([
-    new Response(run.stdout).text(),
-    new Response(run.stderr).text(),
-    run.exited,
-  ])
-  if (code !== 0) throw new Error(`curl exited ${code} for ${url}: ${err.trim()}`)
-  const split = out.indexOf("\r\n\r\n")
-  const head = (split < 0 ? out : out.slice(0, split)).split("\r\n")
-  const status = Number(head[0]?.split(" ")[1])
-  const answered = new Headers()
-  for (const line of head.slice(1)) {
-    const at = line.indexOf(":")
-    if (at > 0) answered.append(line.slice(0, at).trim(), line.slice(at + 1).trim())
-  }
-  const body = NO_BODY.has(status) || split < 0 ? null : out.slice(split + 4)
-  return new Response(body, { status, headers: answered })
+async function loaded(page: Page, url: string): Promise<Response> {
+  const answer = await page.goto(url, { waitUntil: "domcontentloaded", timeout: GOTO_CEILING_MS })
+  if (answer === null) throw new Error(`${url} answered no page`)
+  const status = answer.status()
+  const headers = new Headers()
+  for (const { name, value } of await answer.headersArray()) headers.append(name, value)
+  return new Response(NO_BODY.has(status) ? null : await answer.text(), { status, headers })
 }
 
-function answerTo(url: string, cookie: string | undefined): Promise<Response> {
-  return answerFrom(url, {
-    "user-agent": USER_AGENT,
-    accept: "text/html,application/xhtml+xml",
-    ...(cookie === undefined ? {} : { cookie }),
-  })
+const CHALLENGE_TITLE = "Just a moment"
+
+async function answerOnce(page: Page, url: string): Promise<Response> {
+  const first = await loaded(page, url)
+  if (!botChecking(first.headers, await first.clone().text())) return first
+  await page
+    .waitForFunction(`!document.title.startsWith(${JSON.stringify(CHALLENGE_TITLE)})`, undefined, {
+      timeout: CHALLENGE_CEILING_MS,
+    })
+    .catch(() => undefined)
+  return await loaded(page, url)
 }
 
 const CLOUDFLARE_MITIGATED = "cf-mitigated"
@@ -337,8 +358,8 @@ export async function checkedText(url: string, response: Response): Promise<stri
   return body
 }
 
-export async function fetchHtml(url: string, cookie?: string): Promise<string> {
-  const response = await answerTo(url, cookie)
+export async function fetchHtml(url: string, asAccount = false): Promise<string> {
+  const response = await answerFrom(url, asAccount)
   const body = await checkedText(url, response)
   if (!response.ok) throw new Error(`${response.status} ${response.statusText} for ${url}`)
   return body

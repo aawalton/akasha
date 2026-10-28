@@ -1,10 +1,10 @@
 import {
+  accountPage,
   answerFrom,
   betweenRequests,
   checkedText,
   fetchHtml,
   royalRoadUrl,
-  USER_AGENT,
 } from "akasha/alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
@@ -20,7 +20,8 @@ const FOLLOWS = "/my/follows"
 const READ_LATER = "/my/readlater"
 const SIGNED_IN = ".AspNetCore.Identity.Application"
 const FORM = 'class="form-login-details"'
-const TOKEN = /name="__RequestVerificationToken" type="hidden" value="([^"]+)"/
+const FORM_FIELDS = "form.form-login-details"
+const SIGN_IN_CEILING_MS = 60_000
 const ITEM = '<div class="fiction-list-item row">'
 const FICTION = /<h2 class="fiction-title">\s*<a [^>]*href="\/fiction\/(\d+)\/([^"/]+)"/
 const LAST_READ = /Last\s+Read:\s*<a[^>]*href="\/fiction\/\d+\/[^"/]+\/chapter\/(\d+)\//i
@@ -56,27 +57,6 @@ export function parseFollowPage(html: string): FollowPage | null {
   return { followed, pages: Math.max(1, ...numbers) }
 }
 
-export function tokenIn(html: string): string | null {
-  const form = html.indexOf(FORM)
-  if (form < 0) return null
-  return TOKEN.exec(html.slice(form))?.[1] ?? null
-}
-
-type Jar = Map<string, string>
-
-function kept(jar: Jar, response: Response): undefined {
-  for (const one of response.headers.getSetCookie()) {
-    const pair = one.split(";")[0] ?? ""
-    const at = pair.indexOf("=")
-    if (at > 0) jar.set(pair.slice(0, at), pair.slice(at + 1))
-  }
-  return undefined
-}
-
-function cookieOf(jar: Jar): string {
-  return [...jar].map(([name, value]) => `${name}=${value}`).join("; ")
-}
-
 function account(root: string): { readonly email: string; readonly password: string } {
   const named = `${ACCOUNT_PAGE_TYPE}/${ACCOUNT}`
   const path = listedAt(root, ACCOUNT_PAGE_TYPE, ACCOUNT)[0]?.path
@@ -88,49 +68,38 @@ function account(root: string): { readonly email: string; readonly password: str
   return { email, password }
 }
 
-export async function signedIn(root: string): Promise<string> {
+export async function signedIn(root: string): Promise<void> {
   const { email, password } = account(root)
-  const jar: Jar = new Map()
   const url = royalRoadUrl(SIGN_IN)
-  const form = await answerFrom(url, { "user-agent": USER_AGENT })
-  kept(jar, form)
-  const token = tokenIn(await checkedText(url, form))
-  if (token === null) {
+  const form = await answerFrom(url, true)
+  if (!(await checkedText(url, form)).includes(FORM)) {
     throw new SignInRefused(`${url} answered ${form.status} with no sign-in form to fill`)
   }
   await betweenRequests()
-  const answer = await answerFrom(
-    url,
-    {
-      "user-agent": USER_AGENT,
-      "content-type": "application/x-www-form-urlencoded",
-      cookie: cookieOf(jar),
-    },
-    new URLSearchParams({
-      __RequestVerificationToken: token,
-      ReturnUrl: "",
-      Email: email,
-      Password: password,
-      Remember: "false",
-    })
-  )
-  kept(jar, answer)
-  await checkedText(url, answer)
-  if (!jar.has(SIGNED_IN)) {
+  const page = await accountPage()
+  const fields = page.locator(FORM_FIELDS)
+  await fields.locator('input[name="Email"]').fill(email)
+  await fields.locator('input[name="Password"]').fill(password)
+  const [answer] = await Promise.all([
+    page.waitForNavigation({ waitUntil: "domcontentloaded", timeout: SIGN_IN_CEILING_MS }),
+    fields.locator('button[type="submit"]').click(),
+  ])
+  const cookies = await page.context().cookies()
+  if (!cookies.some((one) => one.name === SIGNED_IN)) {
     throw new SignInRefused(
-      `${url} answered ${answer.status} to ${email}'s sign-in and set no ${SIGNED_IN} cookie`
+      `${url} answered ${answer?.status() ?? "nothing"} to ${email}'s sign-in and set no ` +
+        `${SIGNED_IN} cookie`
     )
   }
-  return cookieOf(jar)
 }
 
-async function readList(cookie: string, path: string, named: string): Promise<readonly Listed[]> {
+async function readList(path: string, named: string): Promise<readonly Listed[]> {
   const listed: Listed[] = []
   let pages = 1
   for (let page = 1; page <= pages; page += 1) {
     await betweenRequests()
     const url = royalRoadUrl(`${path}?page=${page}`)
-    const read = parseFollowPage(await fetchHtml(url, cookie))
+    const read = parseFollowPage(await fetchHtml(url, true))
     if (read === null) throw new SignInRefused(`${url} answered with no ${named}`)
     listed.push(...read.followed)
     pages = read.pages
@@ -144,10 +113,10 @@ async function readList(cookie: string, path: string, named: string): Promise<re
   return listed
 }
 
-export function readFollows(cookie: string): Promise<readonly Listed[]> {
-  return readList(cookie, FOLLOWS, "follow list")
+export function readFollows(): Promise<readonly Listed[]> {
+  return readList(FOLLOWS, "follow list")
 }
 
-export function readReadLater(cookie: string): Promise<readonly Listed[]> {
-  return readList(cookie, READ_LATER, "read later list")
+export function readReadLater(): Promise<readonly Listed[]> {
+  return readList(READ_LATER, "read later list")
 }

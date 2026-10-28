@@ -1,8 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  parseFollowPage,
-  tokenIn,
-} from "akasha/alan/collection/royal-road/modules/follows/royal-road-follows.module.code.ts"
+import { parseFollowPage } from "akasha/alan/collection/royal-road/modules/follows/royal-road-follows.module.code.ts"
 
 const APART = `
 <div class="fiction-list-item row">
@@ -83,15 +80,4 @@ test("a list naming no paging is one page", () => {
 
 test("a page holding no follow list is no follow page", () => {
   expect(parseFollowPage("<html><form>sign in</form></html>")).toBeNull()
-})
-
-test("the sign-in token is the one in the sign-in form rather than another form's", () => {
-  const html =
-    `<form action="/account/externallogin"><input name="__RequestVerificationToken" type="hidden" value="other" /></form>` +
-    `<form method="post" class="form-login-details"><input name="__RequestVerificationToken" type="hidden" value="wanted" /></form>`
-  expect(tokenIn(html)).toBe("wanted")
-})
-
-test("a page with no sign-in form holds no token", () => {
-  expect(tokenIn("<html></html>")).toBeNull()
 })

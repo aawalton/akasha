@@ -16,6 +16,7 @@ import {
 import type { RawChapter } from "akasha/alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts"
 import {
   betweenRequests,
+  closeBrowsing,
   fetchHtml,
   parseChapterProse,
   parseFictionPage,
@@ -266,12 +267,9 @@ function byFiction(listed: readonly Listed[]): ReadonlyMap<string, Listed> {
   return new Map(listed.map((one) => [one.fictionId, one]))
 }
 
-async function readLaterOrNone(
-  cookie: string,
-  counts: Counts
-): Promise<ReadonlyMap<string, Listed> | null> {
+async function readLaterOrNone(counts: Counts): Promise<ReadonlyMap<string, Listed> | null> {
   try {
-    const listed = byFiction(await readReadLater(cookie))
+    const listed = byFiction(await readReadLater())
     console.log(`royal road read later list: ${listed.size} fiction(s)`)
     return listed
   } catch (error) {
@@ -316,8 +314,8 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
 
   const stories = readStories(ROOT, only)
   const held = heldChapters(ROOT)
-  const cookie = await signedIn(ROOT)
-  const follows = byFiction(await readFollows(cookie))
+  await signedIn(ROOT)
+  const follows = byFiction(await readFollows())
   console.log(`royal road follow list: ${follows.size} fiction(s)`)
   console.log(`royal road sync: ${stories.length} stor${stories.length === 1 ? "y" : "ies"}`)
   const counts: Counts = {
@@ -335,7 +333,7 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
     changes: [{ at: REMOVE, given: { at } }],
   }))
   if (filing.length > 0) console.log(`  ${filing.length} second copies of a chapter to take away`)
-  const readLater = await readLaterOrNone(cookie, counts)
+  const readLater = await readLaterOrNone(counts)
   const run: Run = { follows, readLater, held, taken, counts, budget, filing }
 
   const known = new Set(stories.map((one) => one.externalId))
@@ -398,6 +396,8 @@ export async function main(argv: readonly string[]): Promise<number> {
   } catch (error) {
     console.log(`royal road sync: ${String(error)}`)
     return 1
+  } finally {
+    await closeBrowsing()
   }
 }
 

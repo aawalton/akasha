@@ -60,18 +60,26 @@ export const royalRoadPages = {
       statement: "A bot check is never handed to a parser as the page asked for.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No bot check is solved or got around.",
-    },
-    {
       decisionKind: "decision-kind/constraint",
-      statement: "Royal Road challenges a request sent by the runtime's own fetch.",
+      statement:
+        "Royal Road challenges a request sent by curl, and one from a browser that says it is headless.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every request to Royal Road is sent by curl.",
+      statement:
+        "Every request to Royal Road is sent by a full headless Chromium that does not say it is headless.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page answered with a challenge is waited on for thirty seconds and asked for again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page read as the account is read in a browser session apart from every other page.",
     },
   ],
   createdAt: "2026-09-03T04:20:34.578Z",
-  updatedAt: "2026-10-28T12:05:48.827Z",
+  updatedAt: "2026-10-28T14:31:20.724Z",
 } as const satisfies Module

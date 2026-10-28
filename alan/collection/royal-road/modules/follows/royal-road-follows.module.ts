@@ -14,8 +14,7 @@ export const royalRoadFollows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A sign-in takes the token the sign-in form holds and the cookie handed out with that form.",
+      statement: "A sign-in fills and sends the sign-in form in the account's browser session.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,5 +54,5 @@ export const royalRoadFollows = {
     },
   ],
   createdAt: "2026-09-28T19:38:50.516Z",
-  updatedAt: "2026-10-28T12:05:48.827Z",
+  updatedAt: "2026-10-28T14:31:20.724Z",
 } as const satisfies Module
