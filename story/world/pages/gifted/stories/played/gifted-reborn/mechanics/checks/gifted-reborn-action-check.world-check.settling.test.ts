@@ -6,7 +6,11 @@ import { metricCharacterStat } from "akasha/story/world/mechanics/metrics/metric
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 import { giftedPathOfEndurance } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-endurance.world-skill.ts"
 import { giftedRebornNala } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/characters/gifted-reborn-nala.character-player.ts"
-import { settled } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.settling.code.ts"
+import {
+  ADVANCED,
+  kindBonus,
+  settled,
+} from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.settling.code.ts"
 import { giftedRebornNalaMental } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-mental.metric-character-stat.ts"
 import { giftedRebornNalaShadow } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/metrics/stats/gifted-reborn-nala-shadow.metric-character-stat.ts"
 import { giftedRebornNalaPathOfEndurance } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-endurance.character-skill.ts"
@@ -53,6 +57,12 @@ test("a Basic Attribute alone adds half of what it is over a hundred", () => {
 test("an Elite Path is no craft an act names", () => {
   const elite = `${characterSkill.slug}/${giftedRebornNalaPathOfTheCompletionist.slug}`
   expect(settled({ ...ACT, skill: elite }, EVEN)).toHaveProperty("refused")
+})
+
+test("an Advanced Path adds ten for each Tier passed", () => {
+  expect(kindBonus(ADVANCED, 9)).toBe(0)
+  expect(kindBonus(ADVANCED, 60)).toBe(20)
+  expect(kindBonus(ADVANCED, 1000)).toBe(50)
 })
 
 test("an Attribute that is not Basic is refused", () => {

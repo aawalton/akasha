@@ -37,6 +37,16 @@ type Kind = { readonly tiers: readonly number[]; readonly points: number }
 
 const BASIC: Kind = { tiers: BASIC_TIERS, points: BASIC_POINTS }
 
+const ADVANCED_TIERS = [10, 50, 200, 500, 1000]
+
+const ADVANCED_POINTS = 10
+
+export const ADVANCED: Kind = { tiers: ADVANCED_TIERS, points: ADVANCED_POINTS }
+
+export function kindBonus(kind: Kind, experience: number): number {
+  return kind.tiers.filter((tier) => experience >= tier).length * kind.points
+}
+
 const PATHS = [
   { held: giftedRebornNalaPathOfBasicNumeracy, path: giftedPathOfBasicNumeracy, kind: BASIC },
   { held: giftedRebornNalaPathOfEavesdropping, path: giftedPathOfEavesdropping, kind: BASIC },
@@ -73,8 +83,7 @@ function pathTerm(said: string): Term | null {
   const one = PATHS.find((each) => addressOf(characterSkill.slug, each.held.slug) === said)
   if (one === undefined || one.held.skill !== addressOf(worldSkill.slug, one.path.slug)) return null
   if (!opened(one.held)) return null
-  const passed = one.kind.tiers.filter((tier) => one.held.experience >= tier).length
-  return { from: one.path.title, by: passed * one.kind.points }
+  return { from: one.path.title, by: kindBonus(one.kind, one.held.experience) }
 }
 
 function attributeTerm(said: string): Term | null {

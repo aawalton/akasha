@@ -60,6 +60,10 @@ function pathOf(said: string): (typeof PATHS)[number] | undefined {
   return PATHS.find((one) => addressOf(characterSkill.slug, one.held.slug) === said)
 }
 
+function setAside(held: object): boolean {
+  return Reflect.get(held, "dormant") === true
+}
+
 function tierOf(experience: number): number {
   return BASIC_TIERS.filter((tier) => experience >= tier).length
 }
@@ -73,6 +77,9 @@ export function settled(reading: unknown, roll: Rolled): Settled {
     return {
       refused: `\`${held.data.path}\` is no Basic Path practice trains; say one of ${paths.join(", ")}`,
     }
+  }
+  if (setAside(one.held)) {
+    return { refused: `${one.path.title} is set aside, so practice earns it no steps` }
   }
   const gained = roll.total + (one.known ? KNOWN_STEPS : 0)
   const experience = held.data.experience + gained

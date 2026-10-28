@@ -41,6 +41,19 @@ export const giftedRebornPractice = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A Path she has set aside earns no steps, so practising it is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That rule is the Gifted chapter `gifted-0015-chapter-14` at line 97.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Cornelius gaining Tiers on a dormant Path, `gifted-0061-chapter-60` line 25, is his alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A crossing is named `<Path> Tier <n>`, so a montage can stop after one.",
     },
     {
@@ -54,5 +67,5 @@ export const giftedRebornPractice = {
     },
   ],
   createdAt: "2026-10-28T00:37:57.775Z",
-  updatedAt: "2026-10-28T00:51:25.892Z",
+  updatedAt: "2026-10-28T01:37:53.676Z",
 } as const satisfies WorldCheck
