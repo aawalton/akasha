@@ -15,9 +15,10 @@ export const psychoPassSinnersOfTheSystemCase2FirstGuardian = {
       source: "tmdb",
       externalId: "559562",
       externalLink: "https://www.themoviedb.org/movie/559562",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   title: "Psycho-Pass: Sinners of the System - Case.2 First Guardian",
   createdAt: "2026-10-28T18:51:53.926Z",
-  updatedAt: "2026-10-28T18:51:53.926Z",
+  updatedAt: "2026-10-28T19:47:56.080Z",
 } as const satisfies Movie
