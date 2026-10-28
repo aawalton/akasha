@@ -1,0 +1,14 @@
+import type { StoryTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.types.ts"
+
+export const giftedReborn00005 = {
+  id: "01a17fec-d9f5-7ff3-804e-cb36cb753f7d",
+  type: "page-type/story-turn-played",
+  slug: "gifted-reborn-00-005",
+  unit: "unit/words",
+  partOfCollections: ["story-played/gifted-reborn"],
+  position: 5,
+  stepStatus: "step-status/world-builder",
+  action: "I use Path of Soulstealing",
+  createdAt: "2026-10-28T00:33:11.156Z",
+  updatedAt: "2026-10-28T00:33:11.156Z",
+} as const satisfies StoryTurnPlayed
