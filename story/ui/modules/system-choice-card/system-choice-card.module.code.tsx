@@ -2,7 +2,10 @@
 
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
-import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import {
+  SurfaceProvider,
+  useSurface,
+} from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { formatPlayerChoiceAction } from "akasha/story/engine/core/modules/choice-action/choice-action.module.code.ts"
 import type { SystemChoice } from "akasha/story/engine/core/modules/system-window-schema/system-window-schema.module.code.ts"
@@ -33,6 +36,7 @@ export function SystemChoiceCard({
   signedOutNotice: ReactNode
 }) {
   const userId = useUserId()
+  const plane = useSurface()
   const [picked, setPicked] = useState<string | null>(null)
   const [submitting, setSubmitting] = useState(false)
   const [submittedOptionId, setSubmittedOptionId] = useState<string | null>(null)
@@ -73,7 +77,7 @@ export function SystemChoiceCard({
   }
 
   return (
-    <SurfaceProvider level={1} className="flex flex-col gap-2 rounded-xl p-4 shadow-sm">
+    <SurfaceProvider className="flex flex-col gap-2 rounded-xl p-4 shadow-sm">
       <div className="font-bold font-mono text-[11px] text-accent uppercase tracking-[0.2em]">
         Choice
       </div>
@@ -94,7 +98,7 @@ export function SystemChoiceCard({
               aria-pressed={isResolvedPick || isLocalPick}
               onClick={selectable ? () => setPicked(option.id) : undefined}
               className={`flex flex-col gap-[2px] rounded-lg border p-3 text-left transition-colors ${surfaceClass(
-                2
+                plane + 2
               )} ${
                 isResolvedPick || isLocalPick ? "border-accent" : "border-surface-3 border-dotted"
               } ${selectable ? "hover:border-accent" : "cursor-default"} ${
