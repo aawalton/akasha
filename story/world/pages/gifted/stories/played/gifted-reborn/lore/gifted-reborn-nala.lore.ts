@@ -165,7 +165,11 @@ export const giftedRebornNala = {
       fact: "She left her Unallocated Stats unspent, not knowing enough yet to spend them.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Bored in the womb, she passed the time counting in her head, on into the hundreds.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T00:44:00.750Z",
+  updatedAt: "2026-10-28T00:45:18.290Z",
 } as const satisfies Lore
