@@ -2198,4 +2198,4 @@
 {"id":"01a182d2-7209-7838-9d73-870872eeef84","runStartedAt":"2026-10-28T14:03:12.259Z","runStatus":"failed","runCompletedAt":"2026-10-28T14:04:19.536Z","durationMs":67277,"runErrorMessage":"Error: Royal Road answered https://www.royalroad.com/account/login with a bot check"}
 {"id":"01a182ec-c0b7-707a-a676-f47212a9b397","runStartedAt":"2026-10-28T14:31:56.338Z","runStatus":"failed","runCompletedAt":"2026-10-28T14:32:04.861Z","durationMs":8523,"runErrorMessage":"Error: https://www.royalroad.com/my/follows?page=1 answered with no follow list"}
 {"id":"01a182ef-8d13-7855-ab08-d28369f55b01","runStartedAt":"2026-10-28T14:34:59.723Z","runStatus":"failed","runCompletedAt":"2026-10-28T15:43:10.144Z","durationMs":4090421,"runErrorMessage":"terminated by SIGTERM before completion"}
-{"id":"01a1832e-5b77-7805-b7d0-ad6bda430178","runStartedAt":"2026-10-28T15:43:35.794Z","runStatus":"running"}
+{"id":"01a1832e-5b77-7805-b7d0-ad6bda430178","runStartedAt":"2026-10-28T15:43:35.794Z","runStatus":"success","runCompletedAt":"2026-10-28T16:31:10.688Z","durationMs":2854894,"createdCount":740,"updatedCount":11,"skippedCount":129,"failedCount":0}
