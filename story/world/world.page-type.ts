@@ -31,9 +31,11 @@ export const world = {
     "text-property/reading-name",
     "text-property/reading-slug",
     "boolean-property/testing",
+    "text-property/title-name",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/title-name", required: false, many: false },
     { pageProperty: "page-property-entry/character-readings", required: false, many: false },
     { pageProperty: "page-property-entry/mechanic-readings", required: false, many: false },
     { pageProperty: "boolean-property/testing", required: false, many: false },
@@ -56,6 +58,6 @@ export const world = {
   ],
   types: "ts",
   schema: "jsonl",
-  updatedAt: "2026-10-27T23:34:04.191Z",
+  updatedAt: "2026-10-28T17:11:17.607Z",
   createdAt: "2026-09-02T20:27:45.046Z",
 } as const satisfies PageType
