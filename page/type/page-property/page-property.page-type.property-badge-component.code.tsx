@@ -1,5 +1,6 @@
 "use client"
 
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { scalarText } from "akasha/code/type/narrowing/modules/scalar-text/scalar-text.module.code.ts"
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import {
@@ -41,6 +42,14 @@ function HeldWhileTyped({
   )
 }
 
+function shownOf(one: unknown, property: PropertyBadgeProps["property"]): string {
+  const said = scalarText(one)
+  if (said !== null) return said
+  const sole = property.fields?.length === 1 ? property.fields[0] : undefined
+  if (sole === undefined || !isRecord(one)) return ""
+  return scalarText(one[sole.id]) ?? ""
+}
+
 export function Drawing({ property, value, editable, onPropertyChange }: PropertyBadgeProps) {
   const layout = useBadgeLayoutContext()
   const config = parseConfig(textConfigSchema, property.config, {})
@@ -51,7 +60,7 @@ export function Drawing({ property, value, editable, onPropertyChange }: Propert
     return (
       <span className={stackedBadgesClass(layout.popoverAlign ?? "end")}>
         {value.map((one, at) => {
-          const item = scalarText(one) ?? ""
+          const item = shownOf(one, property)
           return (
             <Badge key={keyOf(one, at)} variant={variantFor(item)}>
               {item}
