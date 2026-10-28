@@ -22,7 +22,7 @@ export type Told = {
   readonly at: string
 }
 
-export type Retelling = {
+type Retelling = {
   readonly present: (path: string) => boolean
   readonly textOf: (path: string) => string
 }
