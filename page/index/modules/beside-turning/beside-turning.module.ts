@@ -19,11 +19,12 @@ export const besideTurning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every page the index names is answered where a property's unique kind turns.",
+      statement:
+        "Every page the index names is answered where a property's unique kind or target turns.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No page is answered for a unique kind where no unique kind turns.",
+      statement: "No page is answered where no property's unique kind or target turns.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -51,5 +52,5 @@ export const besideTurning = {
     },
   ],
   createdAt: "2026-09-07T02:17:14.457Z",
-  updatedAt: "2026-09-21T17:15:17.000Z",
+  updatedAt: "2026-10-28T22:32:14.274Z",
 } as const satisfies Module

@@ -82,9 +82,13 @@ export const indexSettling = {
         "The relation filing covers the pages the change carries and the pages whose rows it turns.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A change turning a property's target refiles every page the index names.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement:
-        "A change turning a property's key or target refiles no page of that property's declaring types.",
+        "A change turning a property's key refiles no page of that property's declaring types.",
     },
     {
       decisionKind: "decision-kind/upkeep",
@@ -207,5 +211,5 @@ export const indexSettling = {
     },
   ],
   createdAt: "2026-09-10T15:53:45.900Z",
-  updatedAt: "2026-10-27T21:49:51.888Z",
+  updatedAt: "2026-10-28T22:32:14.274Z",
 } as const satisfies Module

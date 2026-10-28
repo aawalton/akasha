@@ -130,23 +130,33 @@ function wrote(indexing: Indexing, tree: string, named: readonly Named[]): undef
   }
 }
 
-test("a refresh from the pages agrees with the index a turned relation name left", () => {
+function turnedOver(
+  from: Named,
+  to: Named,
+  carrier: Named | null
+): { readonly tree: string; readonly root: string } {
   const tree = heldAt()
   const root = heldAt()
   const first = indexingAt(root, tree)
-  wrote(first, tree, [...IDENTIFIERS, NAMING, CARRIER, TARGET_PAGE, SOURCE_PAGE])
+  wrote(first, tree, [...IDENTIFIERS, from, CARRIER, TARGET_PAGE, SOURCE_PAGE])
   expect(first.settle()).toEqual([])
-  expect(namedAt(tree, "part-slugs")).toBe(true)
 
   const second = indexingAt(root, tree)
-  const gone = join(tree, NAMING[0])
-  const before = readFileSync(join(tree, CARRIER[0]), "utf8")
-  const body = bodyOf(CARRIER_AGAIN[1])
+  const gone = join(tree, from[0])
   second.took(gone, readFileSync(gone, "utf8"))
   rmSync(gone)
-  wrote(second, tree, [RENAMED])
-  second.wrote(put(tree, CARRIER_AGAIN[0], body), body, before)
+  wrote(second, tree, [to])
+  if (carrier !== null) {
+    const before = readFileSync(join(tree, CARRIER[0]), "utf8")
+    const body = bodyOf(carrier[1])
+    second.wrote(put(tree, carrier[0], body), body, before)
+  }
   expect(second.settle()).toEqual([])
+  return { tree, root }
+}
+
+test("a refresh from the pages agrees with the index a turned relation name left", () => {
+  const { tree, root } = turnedOver(NAMING, RENAMED, CARRIER_AGAIN)
 
   const rebuilt = heldAt()
   refreshedFrom(tree, rebuilt, tree)
@@ -157,24 +167,22 @@ test("a refresh from the pages agrees with the index a turned relation name left
 })
 
 test("a property renamed turns the lines its slug names beside a page no change writes", () => {
-  const tree = heldAt()
-  const root = heldAt()
-  const first = indexingAt(root, tree)
-  wrote(first, tree, [...IDENTIFIERS, NAMING, CARRIER, TARGET_PAGE, SOURCE_PAGE])
-  expect(first.settle()).toEqual([])
-
-  const second = indexingAt(root, tree)
-  const gone = join(tree, NAMING[0])
-  const before = readFileSync(join(tree, CARRIER[0]), "utf8")
-  const body = bodyOf(CARRIER_AGAIN[1])
-  second.took(gone, readFileSync(gone, "utf8"))
-  rmSync(gone)
-  wrote(second, tree, [RENAMED])
-  second.wrote(put(tree, CARRIER_AGAIN[0], body), body, before)
-  expect(second.settle()).toEqual([])
+  const { tree } = turnedOver(NAMING, RENAMED, CARRIER_AGAIN)
 
   expect(namedAt(tree, "piece-slugs")).toBe(true)
   expect(namedAt(tree, "part-slugs")).toBe(false)
+})
+
+const NAMING_AS_TEXT = aProperty("3", "part-slugs", "text-property")
+
+test("a property turned from text to a relation files the edges of pages no change writes", () => {
+  const { tree, root } = turnedOver(NAMING_AS_TEXT, NAMING, null)
+  expect(namedAt(tree, "part-slugs")).toBe(true)
+
+  const rebuilt = heldAt()
+  refreshedFrom(tree, rebuilt, tree)
+
+  expect(everyFileUnder(root)).toEqual(everyFileUnder(rebuilt))
 })
 
 const SHARING = aProperty("14", "part-slugs", "text-property", { propertySlug: "jot" })

@@ -149,6 +149,36 @@ function turningIn(
   return said
 }
 
+type Turning = {
+  readonly was: Value | null
+  readonly now: Value | null
+}
+
+const PROPERTY_SLUG = "propertySlug"
+
+const TARGET = "targetPageType"
+
+function targetsOf(held: readonly Turning[], at: "was" | "now"): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const one of held) {
+    const value = one[at]
+    if (value === null || textAt(value, PROPERTY_SLUG) === null) continue
+    const id = textAt(value, ID)
+    if (id !== null) found.set(id, textAt(value, TARGET) ?? "")
+  }
+  return found
+}
+
+function targetsTurnedIn(held: readonly Turning[]): ReadonlySet<string> {
+  const was = targetsOf(held, "was")
+  const said = new Set<string>()
+  for (const [id, target] of targetsOf(held, "now")) {
+    const before = was.get(id)
+    if (before !== undefined && before !== target) said.add(id)
+  }
+  return said
+}
+
 function asBuilt(given: Reading): Reading {
   return indexThere(given) ? given : readingNone()
 }
@@ -279,6 +309,11 @@ export function settlingOver(
   const rowed = pagesBesideRows(moving, repo).filter((page) => !carried.has(page))
   const rowedWas = rowed.flatMap((page) => rowedFrom(page, wasPageOf(page), wasKnown, wasBody))
   const rowedNow = rowed.flatMap((page) => rowedFrom(page, nowPageOf(page), known, nowBody))
+  const retargeted = pagesElsewhere(reading, targetsTurnedIn(held), carriedAt)
+  const retargetedWas = retargeted.flatMap((one) =>
+    rowedFrom(one.path, one.value, wasKnown, wasBody)
+  )
+  const retargetedNow = retargeted.flatMap((one) => rowedFrom(one.path, one.value, known, nowBody))
   const arrived = new Map<string, string>()
   for (const one of held) {
     if (one.now === null) continue
@@ -331,6 +366,7 @@ export function settlingOver(
       ...owned.flatMap((at) => ownedBody(at, reading, wasNaming)),
       ...referencedWas.flatMap((one) => one.entries),
       ...rowedWas,
+      ...retargetedWas,
       ...held.flatMap((one) =>
         one.before === null ? [] : importedFrom(reading, one.before, one.path, repo, wasNaming)
       ),
@@ -341,6 +377,7 @@ export function settlingOver(
       ...owned.flatMap((at) => ownedBody(at, stepped, naming)),
       ...referencedNow.flatMap((one) => one.entries),
       ...rowedNow,
+      ...retargetedNow,
       ...held.flatMap((one) =>
         one.after === null ? [] : importedFrom(stepped, one.after, one.path, repo, naming)
       ),
