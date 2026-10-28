@@ -51,7 +51,11 @@ export const giftedSoulsAndDemons = {
       fact: "A soul devouring a demon keeps its shreds and gains its Shadow affinity and a Path of Soulstealing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Past the womb's walls, many women's voices chanted the same words together, words Nala didn't know.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-27T23:41:20.481Z",
+  updatedAt: "2026-10-28T00:49:23.330Z",
 } as const satisfies Lore
