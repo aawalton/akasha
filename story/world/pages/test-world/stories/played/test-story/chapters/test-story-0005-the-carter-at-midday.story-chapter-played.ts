@@ -17,5 +17,7 @@ export const testStory0005TheCarterAtMidday = {
   endsAt: "2026-11-13T12:00:00.000Z",
   outcomes: "jsonl",
   createdAt: "2026-10-28T00:00:39.959Z",
-  updatedAt: "2026-10-28T00:00:39.959Z",
+  updatedAt: "2026-10-28T16:45:13.699Z",
+  ownProgress: 47,
+  progressedAt: "2026-10-28T16:45:13.699Z",
 } as const satisfies StoryChapterPlayed
