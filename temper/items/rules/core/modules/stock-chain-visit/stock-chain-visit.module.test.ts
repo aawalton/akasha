@@ -6,7 +6,7 @@ import {
   stockChainTarget,
 } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { planStockReconcile } from "akasha/temper/items/rules/core/modules/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
-import { ruleSoulGemsEmptyFill } from "akasha/temper/player/progress/temper-inventory-rule/pages/rule-soul-gems-empty-fill/rule-soul-gems-empty-fill.temper-inventory-rule.ts"
+import { ruleSoulGemsEmptyStock } from "akasha/temper/player/progress/temper-inventory-rule/pages/rule-soul-gems-empty-stock/rule-soul-gems-empty-stock.temper-inventory-rule.ts"
 import { stock } from "akasha/temper/player/progress/temper-item-action/pages/stock.temper-item-action.ts"
 
 const ERIN = "8796093022338107"
@@ -64,10 +64,10 @@ const EMPTY_SOUL_GEMS: DestinationChain = [
 ]
 
 test("every character stocks 200 empty soul gems and banks every other empty soul gem", async () => {
-  expect(ruleSoulGemsEmptyFill.action).toEndWith(`/${stock.slug}`)
+  expect(ruleSoulGemsEmptyStock.action).toEndWith(`/${stock.slug}`)
   const text = await Bun.file(
     new URL(
-      "../../../../../player/progress/temper-inventory-rule/pages/rule-soul-gems-empty-fill/rule-soul-gems-empty-fill.temper-inventory-rule.destination-chain.jsonl",
+      "../../../../../player/progress/temper-inventory-rule/pages/rule-soul-gems-empty-stock/rule-soul-gems-empty-stock.temper-inventory-rule.destination-chain.jsonl",
       import.meta.url
     )
   ).text()
