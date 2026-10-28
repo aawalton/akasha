@@ -1,6 +1,6 @@
 "use client"
 
-import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { colorTextClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
 import { outcomeTier } from "akasha/story/world/mechanics/checks/outcome-tiers/outcome-tier.page-type.ts"
 import { basicSuccess } from "akasha/story/world/mechanics/checks/outcome-tiers/pages/basic-success.outcome-tier.ts"
@@ -55,7 +55,7 @@ const SPIN_MS = 90
 
 const DECIDING = "Deciding…"
 
-const CARD = `rounded-lg border border-surface-3 px-4 py-3 ${surfaceClass(1)}`
+const CARD = "rounded-lg border border-surface-3 px-4 py-3"
 
 export type Keeping = Pick<Storage, "getItem" | "setItem">
 
@@ -156,13 +156,13 @@ export function PendingCard({ action }: { readonly action: string }) {
   const shown = still ? DECIDING : (TIERS[place]?.title ?? DECIDING)
   const tint = still ? "text-tertiary" : (tierClass(place) ?? "")
   return (
-    <div className={CARD}>
+    <SurfaceProvider className={CARD}>
       <p className="text-sm">{action}</p>
       <p className={`mt-1 pl-4 font-semibold text-sm ${tint}`}>
         <span className="sr-only">{DECIDING}</span>
         <span aria-hidden="true">{shown}</span>
       </p>
-    </div>
+    </SurfaceProvider>
   )
 }
 
@@ -187,7 +187,7 @@ export function OutcomeCards({ cards }: { readonly cards: readonly OutcomeCard[]
   return (
     <div className="flex flex-col gap-2">
       {cards.map((card, place) => (
-        <div key={card.rollKey ?? `${place}:${card.outcome}`} className={CARD}>
+        <SurfaceProvider key={card.rollKey ?? `${place}:${card.outcome}`} className={CARD}>
           <ActedLine card={card} />
           <div className={card.actor === null && card.action === null ? "" : "mt-1 pl-4"}>
             <p className="text-tertiary text-xs">
@@ -197,7 +197,7 @@ export function OutcomeCards({ cards }: { readonly cards: readonly OutcomeCard[]
             <RolledOutcome card={card} />
             {card.terms === "" ? null : <p className="text-tertiary text-xs">{card.terms}</p>}
           </div>
-        </div>
+        </SurfaceProvider>
       ))}
     </div>
   )

@@ -14,6 +14,10 @@ export const playedOutcomeCard = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A card sits one surface level above the plane it is drawn on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A card opens with the acting character's name in its color, then the action.",
     },
     {
@@ -55,5 +59,5 @@ export const playedOutcomeCard = {
     },
   ],
   createdAt: "2026-10-28T17:55:07.494Z",
-  updatedAt: "2026-10-28T18:12:14.981Z",
+  updatedAt: "2026-10-28T18:22:13.161Z",
 } as const satisfies Module
