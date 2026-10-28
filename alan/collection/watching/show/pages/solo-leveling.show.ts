@@ -5,7 +5,7 @@ export const soloLeveling = {
   type: "page-type/show",
   slug: "solo-leveling",
   title: "Solo Leveling",
-  partOfCollections: ["show-collection/anime-shows"],
+  partOfCollections: ["show-collection/anime-shows", "fandom/solo-leveling"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
@@ -20,7 +20,8 @@ export const soloLeveling = {
       externalLink: "https://trakt.tv/shows/solo-leveling",
       lastSyncedAt: "2025-12-24",
     },
+    { source: "tmdb", externalId: "127532", externalLink: "https://www.themoviedb.org/tv/127532" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-28T18:38:40.377Z",
 } as const satisfies Show
