@@ -18,9 +18,9 @@ export const giftedReborn00002 = {
     "lore/gifted-reborn-nala",
     "lore/gifted-souls-and-demons",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/scene"],
   endsAt: "2026-10-27T20:40:00.000Z",
   createdAt: "2026-10-27T23:31:47.551Z",
-  updatedAt: "2026-10-28T00:00:55.458Z",
+  updatedAt: "2026-10-28T00:01:35.855Z",
   ownLength: 280,
 } as const satisfies StoryTurnPlayed
