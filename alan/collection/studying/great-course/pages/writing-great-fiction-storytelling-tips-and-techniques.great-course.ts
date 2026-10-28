@@ -8,7 +8,7 @@ export const writingGreatFictionStorytellingTipsAndTechniques = {
   status: "in-progress",
   unit: "unit/minutes",
   ownLength: 737.67,
-  ownProgress: 88.45,
+  ownProgress: 118,
   partOfCollections: [
     "great-courses-collection/all-great-courses",
     "great-courses-subject/literature-great-courses",
@@ -22,6 +22,6 @@ export const writingGreatFictionStorytellingTipsAndTechniques = {
     },
   ],
   createdAt: "2026-04-22T12:39:34.046Z",
-  updatedAt: "2026-10-19T17:59:57.533Z",
-  progressedAt: "2026-10-19T17:59:57.533Z",
+  updatedAt: "2026-10-28T20:46:19.225Z",
+  progressedAt: "2026-10-28T20:46:19.225Z",
 } as const satisfies GreatCourse
