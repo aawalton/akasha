@@ -33,7 +33,8 @@ export const imGettingTooOldForThisQuest = {
     "Strong Lead",
     "Supernatural",
   ],
+  publicationStatus: "ongoing",
   readLater: true,
   createdAt: "2026-10-23T04:49:48.844Z",
-  updatedAt: "2026-10-23T04:49:48.844Z",
+  updatedAt: "2026-10-28T23:24:28.358Z",
 } as const satisfies StoryRead
