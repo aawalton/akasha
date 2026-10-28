@@ -19,6 +19,7 @@
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-e79a6e39de58424a.image.ts","id":"01a0e971-1094-77bb-ad28-b30d6b51be79"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-f270d9ac0cb52316.image.ts","id":"019f1839-4093-788a-96a1-a5d7fc05292e"}
 {"propertySlug":"import","fileName":"awen.persona.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-ability-kinds.initiative.ts","id":"01a17fea-fe67-7500-91b0-da2ebf961f24"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-beat-flow.initiative.ts","id":"01a17ecd-1762-7eac-9a56-f898bbd9d50c"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-engine-improvements.initiative.ts","id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-skill-visibility.initiative.ts","id":"01a17fea-282e-7fc0-bd59-2c8b431266d4"}

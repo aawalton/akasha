@@ -2,6 +2,7 @@
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/awen-a2b1f0adcdf6aad6b/awen-a2b1f0adcdf6aad6b.subagent.ts","id":"01a17ebe-56a1-7196-8ef8-34053708ecc8"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/awen-a5c277a33b9eba08a/awen-a5c277a33b9eba08a.subagent.ts","id":"01a17ecd-985c-72b2-b5a7-44237a8321f0"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/awen-aabb6034906bead1a/awen-aabb6034906bead1a.subagent.ts","id":"01a17fea-77d8-7aa9-8234-a3a367838efc"}
+{"propertySlug":"initiative-parent","path":"domain/initiative/pages/awen-ability-kinds.initiative.ts","id":"01a17fea-fe67-7500-91b0-da2ebf961f24"}
 {"propertySlug":"initiative-parent","path":"domain/initiative/pages/awen-beat-flow.initiative.ts","id":"01a17ecd-1762-7eac-9a56-f898bbd9d50c"}
 {"propertySlug":"initiative-parent","path":"domain/initiative/pages/awen-skill-visibility.initiative.ts","id":"01a17fea-282e-7fc0-bd59-2c8b431266d4"}
 {"propertySlug":"initiative-parent","path":"domain/initiative/pages/awen-story-clone.initiative.ts","id":"01a17f2d-b9f0-7bc8-b1da-c63bafa4aa4c"}
