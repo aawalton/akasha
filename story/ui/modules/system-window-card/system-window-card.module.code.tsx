@@ -33,7 +33,13 @@ import {
   unlockedHeadingOf,
 } from "akasha/story/world/mechanics/ability-kinds/modules/ability-kind-titles/ability-kind-titles.module.code.ts"
 import { worldAbilityKind } from "akasha/story/world/mechanics/ability-kinds/world-ability-kind.page-type.ts"
+import { metricCharacterAttribute } from "akasha/story/world/mechanics/metrics/metric-character/attribute/metric-character-attribute.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
+import {
+  STAT_GROUP_KEY,
+  statGroupSlugsIn,
+} from "akasha/story/world/mechanics/stat-groups/modules/stat-grouping/stat-grouping.module.code.ts"
+import { worldStatGroup } from "akasha/story/world/mechanics/stat-groups/world-stat-group.page-type.ts"
 import {
   askedLoudly,
   reportThrown,
@@ -178,12 +184,12 @@ function abilityNamedIn(descriptors: readonly Descriptor[]): string {
 function ItemAwardCard({ award }: { award: ItemAward }) {
   const all = award.descriptors ?? []
   const named = abilityNamedIn(all)
-  const held = useHeldAbility(named)
+  const kind = useAsked(named, unlockKindOf)
   const unlock =
-    held == null
+    kind == null
       ? null
-      : unlockIn(all, (title) => (title === abilityTitleIn(named) ? held.kind : undefined))
-  const reading = named !== "" && held === undefined
+      : unlockIn(all, (title) => (title === abilityTitleIn(named) ? kind : undefined))
+  const reading = named !== "" && kind === undefined
   const banner = reading ? UNSETTLED : unlock === null ? ITEM : `${unlock.kind}${UNLOCKED}`
   const shown = reading ? toldIn(all) : (unlock?.rest ?? all)
   return (
@@ -250,13 +256,39 @@ async function heldAbilityNamed(name: string): Promise<HeldAbility | null> {
   return heldAbilityOf(title, skills, kinds)
 }
 
-function useHeldAbility(name: string): HeldAbility | null | undefined {
-  const [held, setHeld] = useState<HeldAbility | null | undefined>(undefined)
+async function unlockKindOf(name: string): Promise<string | null> {
+  const held = await heldAbilityNamed(name)
+  if (held !== null) return held.kind
+  const stats = valuesOf(
+    await askedLoudly({
+      "page-type": metricCharacterAttribute.slug,
+      where: { title: { is: abilityTitleIn(name) } },
+      keys: [STAT_GROUP_KEY],
+    })
+  )
+  const slugs = statGroupSlugsIn(stats.map((values) => ({ values })))
+  if (slugs.length === 0) return null
+  const groups = valuesOf(
+    await askedLoudly({
+      "page-type": worldStatGroup.slug,
+      where: { slug: { in: [...slugs] } },
+      keys: [TITLE_KEY],
+    })
+  )
+  const title = groups[0]?.[TITLE_KEY]
+  return typeof title === "string" ? title : null
+}
+
+function useAsked<Answer>(
+  name: string,
+  ask: (asked: string) => Promise<Answer | null>
+): Answer | null | undefined {
+  const [held, setHeld] = useState<Answer | null | undefined>(undefined)
   useEffect(() => {
     let alive = true
-    void heldAbilityNamed(name)
+    void ask(name)
       .catch((thrown: unknown) => {
-        reportThrown(`reading the ability ${name}`, thrown)
+        reportThrown(`reading ${name}`, thrown)
         return null
       })
       .then((said) => {
@@ -265,8 +297,12 @@ function useHeldAbility(name: string): HeldAbility | null | undefined {
     return () => {
       alive = false
     }
-  }, [name])
+  }, [name, ask])
   return held
+}
+
+function useHeldAbility(name: string): HeldAbility | null | undefined {
+  return useAsked(name, heldAbilityNamed)
 }
 
 function SkillCard({ skill, rank }: { skill: string; rank?: string }) {

@@ -14,6 +14,10 @@ export const statGrouping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A group is headed by its plural title, or by its title where it states none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A group stating slots counts the stats shown under it out of those slots.",
     },
     {
@@ -26,5 +30,5 @@ export const statGrouping = {
     },
   ],
   createdAt: "2026-10-28T14:56:52.048Z",
-  updatedAt: "2026-10-28T14:56:52.048Z",
+  updatedAt: "2026-10-28T16:18:13.147Z",
 } as const satisfies Module

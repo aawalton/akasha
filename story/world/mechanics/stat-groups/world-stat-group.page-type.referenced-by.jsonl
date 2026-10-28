@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"world-stat-group.page-type.ts","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-stat-group.page-type.ts","path":"story/world/mechanics/stat-groups/modules/stat-grouping/stat-grouping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-stat-group.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-stat-group.page-type.types.ts","path":"story/world/pages/gifted/mechanics/stat-groups/gifted-advanced-attributes.world-stat-group.ts","typed":true,"deferred":false}

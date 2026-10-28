@@ -4,9 +4,10 @@ export const giftedBasicAttributes = {
   id: "01a18300-6758-7ff9-965f-d6be360778cd",
   type: "page-type/world-stat-group",
   slug: "gifted-basic-attributes",
-  title: "Basic Attributes",
+  title: "Basic Attribute",
+  pluralTitle: "Basic Attributes",
   world: "world/gifted",
   displayOrder: 1,
   createdAt: "2026-10-28T14:53:24.183Z",
-  updatedAt: "2026-10-28T14:53:24.183Z",
+  updatedAt: "2026-10-28T16:18:13.147Z",
 } as const satisfies WorldStatGroup

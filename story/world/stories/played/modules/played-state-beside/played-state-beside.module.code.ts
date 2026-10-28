@@ -336,6 +336,7 @@ async function readFiled(
   const groupRows = await slugsAsked(worldStatGroup.slug, statGroupSlugsIn(attributeRows), [
     SLUG_KEY,
     TITLE_KEY,
+    PLURAL_TITLE_KEY,
     STAT_SLOTS_KEY,
     DISPLAY_ORDER_KEY,
   ])

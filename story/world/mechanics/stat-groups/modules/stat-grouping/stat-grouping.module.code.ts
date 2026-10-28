@@ -2,6 +2,7 @@ import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/par
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { pluralTitle } from "akasha/story/world/mechanics/ability-kinds/properties/plural-title.text-property.ts"
 import { statGroup } from "akasha/story/world/mechanics/metrics/metric-character/attribute/properties/stat-group.relation-property.ts"
 import { statSlots } from "akasha/story/world/mechanics/stat-groups/properties/stat-slots.number-property.ts"
 import { worldStatGroup } from "akasha/story/world/mechanics/stat-groups/world-stat-group.page-type.ts"
@@ -17,6 +18,8 @@ export const STAT_SLOTS_KEY = exportedAs(statSlots.propertySlug)
 const SLUG_KEY = "slug"
 
 const TITLE_KEY = "title"
+
+export const PLURAL_TITLE_KEY = exportedAs(pluralTitle.propertySlug)
 
 const DISPLAY_ORDER_KEY = "displayOrder"
 
@@ -48,7 +51,7 @@ export function statGroupsOf<Stat extends Row>(
   return groups
     .map((group) => ({
       group,
-      title: textIn(group[TITLE_KEY]) ?? "",
+      title: textIn(group[PLURAL_TITLE_KEY]) ?? textIn(group[TITLE_KEY]) ?? "",
       order: parseNumber(group[DISPLAY_ORDER_KEY]) ?? LAST,
     }))
     .toSorted((one, other) => one.order - other.order || one.title.localeCompare(other.title))

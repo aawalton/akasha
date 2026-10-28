@@ -43,7 +43,11 @@ export const systemWindowCard = {
       statement:
         "An award naming an ability under its kind's title is drawn as that ability Unlocked.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An award naming a stat under its group's title is drawn as that stat Unlocked.",
+    },
   ],
   createdAt: "2026-09-02T17:25:53.928Z",
-  updatedAt: "2026-10-28T16:04:01.781Z",
+  updatedAt: "2026-10-28T16:18:13.147Z",
 } as const satisfies Module

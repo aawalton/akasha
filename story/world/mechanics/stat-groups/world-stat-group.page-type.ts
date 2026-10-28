@@ -10,6 +10,7 @@ export const worldStatGroup = {
   parts: ["number-property/stat-slots", "module/stat-grouping"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/plural-title", required: true, many: false },
     { pageProperty: "number-property/stat-slots", required: false, many: false },
     { pageProperty: "number-property/display-order", required: false, many: false },
   ],
@@ -17,7 +18,11 @@ export const worldStatGroup = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stat group's title is what its world calls the stats shown under it.",
+      statement: "A stat group's title is what its world calls one stat of that group.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its plural title heads the stats shown under it, and its title heads an unlock.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -31,5 +36,5 @@ export const worldStatGroup = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-28T14:50:45.588Z",
-  updatedAt: "2026-10-28T14:56:52.048Z",
+  updatedAt: "2026-10-28T16:18:13.147Z",
 } as const satisfies PageType

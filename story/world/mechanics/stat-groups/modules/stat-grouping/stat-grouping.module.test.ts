@@ -10,7 +10,13 @@ const ADVANCED = "world-stat-group/advanced"
 
 const GROUPS = [
   { slug: "affinities", title: "Affinities", displayOrder: 3 },
-  { slug: "advanced", title: "Advanced Attributes", statSlots: 2, displayOrder: 2 },
+  {
+    slug: "advanced",
+    title: "Advanced Attribute",
+    pluralTitle: "Advanced Attributes",
+    statSlots: 2,
+    displayOrder: 2,
+  },
   { slug: "basic", title: "Basic Attributes", displayOrder: 1 },
 ]
 
