@@ -13,9 +13,9 @@ export const giftedReborn00003 = {
   action: "I kick twice",
   beats: "jsonl",
   lore: ["lore/gifted-reborn-nala"],
-  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style"],
+  reviewedBy: ["story-reviewer/holdings", "story-reviewer/style", "story-reviewer/scene"],
   endsAt: "2026-10-27T20:45:00.000Z",
   createdAt: "2026-10-28T00:03:14.967Z",
-  updatedAt: "2026-10-28T00:20:26.939Z",
+  updatedAt: "2026-10-28T00:20:37.510Z",
   ownLength: 214,
 } as const satisfies StoryTurnPlayed
