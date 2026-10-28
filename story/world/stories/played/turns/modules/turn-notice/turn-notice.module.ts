@@ -18,7 +18,16 @@ export const turnNotice = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A notice is stale once a turn after its own exists.",
+      statement: "A notice at player is stale once a turn after its own exists.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A notice at any other step stays current while its turn holds that step, a later turn or not.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A later turn is queued while an earlier one still waits on a seat's work.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,5 +39,5 @@ export const turnNotice = {
     },
   ],
   createdAt: "2026-09-27T16:20:43.650Z",
-  updatedAt: "2026-09-27T16:20:56.000Z",
+  updatedAt: "2026-10-28T00:01:35.944Z",
 } as const satisfies Module

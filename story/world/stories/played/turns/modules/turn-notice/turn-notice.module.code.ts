@@ -1,4 +1,5 @@
 import {
+  PLAYER,
   slugAfter,
   stepIn,
   type TurnStep,
@@ -32,6 +33,7 @@ export function noticeStale(body: string, statusByTurn: ReadonlyMap<string, unkn
   const read = noticeRead(body)
   if (read === null || !statusByTurn.has(read.turn)) return false
   if (stepIn(statusByTurn.get(read.turn)) !== read.step) return true
+  if (read.step !== PLAYER) return false
   const next = turnPathAfter(read.turn)
   return next !== null && statusByTurn.has(next)
 }

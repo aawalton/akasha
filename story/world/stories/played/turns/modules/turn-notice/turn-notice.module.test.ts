@@ -47,6 +47,19 @@ test("a notice at player is stale once the next turn is made", () => {
   expect(noticeStale(noticeOf(TEN, "player"), statuses)).toBe(true)
 })
 
+test("a notice of a turn still at a working step is current though a later turn is queued", () => {
+  const statuses = new Map([
+    [TEN, statusOf("world-builder")],
+    [ELEVEN, statusOf("world-builder")],
+  ])
+  expect(noticeStale(noticeOf(TEN, "world-builder"), statuses)).toBe(false)
+  const writing = new Map([
+    [TEN, statusOf("writer")],
+    [ELEVEN, statusOf("world-builder")],
+  ])
+  expect(noticeStale(noticeOf(TEN, "writer"), writing)).toBe(false)
+})
+
 test("a notice of a turn no page holds, or no notice at all, is not called stale", () => {
   expect(noticeStale(noticeOf(TEN, "writer"), new Map())).toBe(false)
   expect(noticeStale("a word from the player", new Map([[TEN, statusOf("player")]]))).toBe(false)
