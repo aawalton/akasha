@@ -7,11 +7,11 @@ export const myDressUpDarlingS01e17 = {
   description:
     "Wakana and Marin finish up the suit for the Rei-sama cosplay but Wakana realizes something is missing.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/my-dress-up-darling-season-1"],
   position: 17,
   publishedAt: "2025-08-03",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const myDressUpDarlingS01e17 = {
   stillPath: "/gTbOWHwTK4m1lxIoLc3bduSPZUC.jpg",
   voteAverage: 7.4,
   createdAt: "2026-10-28T17:05:48.305Z",
-  updatedAt: "2026-10-28T17:05:48.305Z",
+  updatedAt: "2026-10-28T17:06:27.441Z",
+  completedAt: "2026-10-28",
+  progressedAt: "2026-10-28T17:06:27.441Z",
 } as const satisfies Episode
