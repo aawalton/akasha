@@ -7,6 +7,8 @@ export const giftedReborn00004 = {
   unit: "unit/words",
   partOfCollections: ["story-played/gifted-reborn"],
   position: 4,
+  prose: "txt",
+  characters: ["character-player/gifted-reborn-nala"],
   stepStatus: "step-status/beats",
   action:
     "I look through the status in wonder and think about what it means, then quickly get bored. To pass the time, I start doing mental math, first just counting, then counting my intervals up and down, then by multiples up and down, while I pass the time. I leave the points unallocated for now",
@@ -14,6 +16,7 @@ export const giftedReborn00004 = {
   lore: ["lore/gifted-reborn-nala", "place/gifted-womb"],
   interruptsAt: "2026-10-27T22:00:00.000Z",
   createdAt: "2026-10-28T00:33:02.651Z",
-  updatedAt: "2026-10-28T00:39:42.210Z",
+  updatedAt: "2026-10-28T00:41:56.760Z",
+  ownLength: 33,
   endsAt: "2026-10-27T22:00:00.000Z",
 } as const satisfies StoryTurnPlayed
