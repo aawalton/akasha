@@ -75,7 +75,11 @@ export function Drawing({ property, value, editable, onPropertyChange }: Propert
         {value.map((one, at) => {
           const item = shownOf(one, property, resolver)
           return (
-            <Badge key={keyOf(one, at)} variant={variantFor(item)}>
+            <Badge
+              key={keyOf(one, at)}
+              variant={variantFor(item)}
+              className="whitespace-normal text-left"
+            >
               {item}
             </Badge>
           )
