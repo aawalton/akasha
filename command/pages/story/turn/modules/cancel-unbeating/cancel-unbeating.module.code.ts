@@ -18,14 +18,14 @@ const POSITION = "position"
 
 export type PageRead = { readonly at: string; readonly value: Readonly<Record<string, unknown>> }
 
-export type Beside = { readonly at: string; readonly text: string }
+type Beside = { readonly at: string; readonly text: string }
 
 export type Unbeating = {
   readonly pageOf: (address: string) => PageRead | null
   readonly beside: (page: PageRead, key: string) => Beside | null
 }
 
-export type Unbeat = {
+type Unbeat = {
   readonly namings: readonly Naming[]
   readonly rewritten: readonly { readonly at: string; readonly kept: string }[]
   readonly removed: readonly string[]
