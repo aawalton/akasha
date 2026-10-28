@@ -113,7 +113,7 @@ export const alan = {
       statement: "Alan would rather find a shortcut himself than be told one.",
     },
   ],
-  bodyweight: 177.9,
+  bodyweight: 182,
   birthDate: "1986-01-22",
   height: 70,
   sex: "male",
@@ -204,5 +204,5 @@ export const alan = {
   seatNotices: [{ seat: "01a16f1c-8e48-7000-b6a3-9aae18284763", notice: "both" }],
 
   createdAt: "2026-08-30T18:45:50.447Z",
-  updatedAt: "2026-10-28T18:15:56.860Z",
+  updatedAt: "2026-10-28T18:16:27.870Z",
 } as const satisfies Person
