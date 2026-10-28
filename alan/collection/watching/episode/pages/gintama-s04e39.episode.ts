@@ -21,10 +21,10 @@ export const gintamaS04e39 = {
     },
   ],
   title:
-    "We Know It’s Best to Finish Yearly Tasks Before the End of the Year, But then You Put It Off Till Next Year for a Fresh Start. That’s How the End of the Year Goes / Radio Exercises are Socials for Boys and Girls",
+    "We Know It’s Best to Finish Yearly Tasks Before the End of the Year, But then You Put It Off Till Next Year for a Fresh Start. That’s How the End of the Year Goes / Radio Exercises are Socials for Bo…",
   episodeType: "standard",
   stillPath: "/1OHjoCOdsEg6gZka2OLAAgVVBwO.jpg",
   voteAverage: 10,
   createdAt: "2026-10-28T18:46:55.326Z",
-  updatedAt: "2026-10-28T18:46:55.326Z",
+  updatedAt: "2026-10-28T19:24:59.850Z",
 } as const satisfies Episode

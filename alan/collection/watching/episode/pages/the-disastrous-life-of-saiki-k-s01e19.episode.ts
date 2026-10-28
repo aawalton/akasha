@@ -21,10 +21,10 @@ export const theDisastrousLifeOfSaikiKS01e19 = {
     },
   ],
   title:
-    "Hurray! Tsundere Grandpa + Hip, Hip, Hurray! Tsundere Grandpa + Welcome to the Farthest Amusement Park! + See You Again! Saying Goodbye to the Grandparents + Congratulations on the Video Game Release! Kunio Saitou's Horror Stories",
+    "Hurray! Tsundere Grandpa + Hip, Hip, Hurray! Tsundere Grandpa + Welcome to the Farthest Amusement Park! + See You Again! Saying Goodbye to the Grandparents + Congratulations on the Video Game Release…",
   episodeType: "standard",
   stillPath: "/y1E33w0f4zN3SknX5kylX2JcQRJ.jpg",
   voteAverage: 6.7,
   createdAt: "2026-10-28T18:54:42.859Z",
-  updatedAt: "2026-10-28T18:54:42.859Z",
+  updatedAt: "2026-10-28T19:24:59.850Z",
 } as const satisfies Episode
