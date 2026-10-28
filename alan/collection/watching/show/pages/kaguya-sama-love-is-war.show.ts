@@ -11,9 +11,15 @@ export const kaguyaSamaLoveIsWar = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "83121", externalLink: "https://www.themoviedb.org/tv/83121" },
+    {
+      source: "tmdb",
+      externalId: "83121",
+      externalLink: "https://www.themoviedb.org/tv/83121",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Kaguya-sama: Love Is War",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:44:54.702Z",
-  updatedAt: "2026-10-28T18:44:54.702Z",
+  updatedAt: "2026-10-28T19:44:48.148Z",
 } as const satisfies Show
