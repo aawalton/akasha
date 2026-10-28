@@ -3,6 +3,8 @@ import {
   nudged,
   progressIn,
   scaled,
+  speedLabel,
+  speedOf,
 } from "akasha/alan/collection/great-courses/modules/lecture-watching/lecture-watching.module.code.ts"
 
 const ANSWER = { watching: true, speed: 3, next: null, why: null, progress: 12.5 }
@@ -48,4 +50,19 @@ test("a doubled speed stops at four and a halved one at a half", () => {
 
 test("a halved speed lands on the quarters", () => {
   expect(scaled(2.75, 0.5)).toBe(1.5)
+})
+
+test("a speed is labelled as the player labels its own speeds", () => {
+  expect(speedLabel(3)).toBe("3.0x")
+  expect(speedLabel(2.5)).toBe("2.5x")
+  expect(speedLabel(2.75)).toBe("2.75x")
+})
+
+test("a speed the player's menu offers is read off its label", () => {
+  expect(speedOf("2.0x")).toBe(2)
+  expect(speedOf("0.75x")).toBe(0.75)
+})
+
+test("a label naming no speed gives none", () => {
+  expect(speedOf("")).toBeNull()
 })

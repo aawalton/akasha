@@ -34,6 +34,12 @@ const PANEL =
   "position:fixed;right:24px;bottom:24px;z-index:2147483647;padding:16px 20px;border-radius:12px;" +
   "color-scheme:dark;background:Canvas;color:CanvasText;font:15px/1.4 system-ui,sans-serif;max-width:360px"
 
+const SPEED_LABEL = ".bmpui-ui-playback-speed-toggle-button .bmpui-label"
+
+const SPEED_OPTION = ".bmpui-ui-playback-speed-panel .bmpui-ui-listbox-button"
+
+const SELECTED = "bmpui-selected"
+
 const HELD = new WeakSet<HTMLVideoElement>()
 
 const ENDING: Array<(seconds: number) => void> = []
@@ -50,6 +56,33 @@ export function nudged(speed: number, by: number): number {
 
 export function scaled(speed: number, by: number): number {
   return onTheQuarters(speed * by)
+}
+
+export function speedLabel(speed: number): string {
+  return `${speed.toFixed(2).replace(/0$/, "")}x`
+}
+
+export function speedOf(label: string): number | null {
+  const speed = Number.parseFloat(label)
+  return Number.isFinite(speed) ? onTheQuarters(speed) : null
+}
+
+function shown(): undefined {
+  const label = speedLabel(NOW.speed)
+  for (const one of document.querySelectorAll(SPEED_LABEL)) {
+    if (one.textContent !== label) one.textContent = label
+  }
+  for (const one of document.querySelectorAll(SPEED_OPTION)) {
+    const on = one.getAttribute("aria-label") === label
+    if (one.classList.contains(SELECTED) !== on) one.classList.toggle(SELECTED, on)
+  }
+}
+
+function spedTo(ask: (asked: Asked) => Promise<Answered>, speed: number): undefined {
+  NOW.speed = speed
+  for (const one of document.querySelectorAll("video")) one.playbackRate = NOW.speed
+  shown()
+  void ask({ kind: "speed", speed: NOW.speed })
 }
 
 function lecturesHere(): readonly Lecture[] {
@@ -131,6 +164,7 @@ function hold(video: HTMLVideoElement): undefined {
 
 function holdEvery(): undefined {
   for (const one of document.querySelectorAll("video")) hold(one)
+  shown()
 }
 
 function keyedBy(ask: (asked: Asked) => Promise<Answered>) {
@@ -141,12 +175,20 @@ function keyedBy(ask: (asked: Asked) => Promise<Answered>) {
     if (by === 0) return
     event.preventDefault()
     event.stopPropagation()
-    NOW.speed = event.ctrlKey
-      ? scaled(NOW.speed, by > 0 ? DOUBLING : 1 / DOUBLING)
-      : nudged(NOW.speed, by)
-    for (const one of document.querySelectorAll("video")) one.playbackRate = NOW.speed
+    spedTo(
+      ask,
+      event.ctrlKey ? scaled(NOW.speed, by > 0 ? DOUBLING : 1 / DOUBLING) : nudged(NOW.speed, by)
+    )
     told(`${NOW.speed}×`)
-    void ask({ kind: "speed", speed: NOW.speed })
+  }
+}
+
+function pickedBy(ask: (asked: Asked) => Promise<Answered>) {
+  return (event: MouseEvent): undefined => {
+    const target = event.target
+    const option = target instanceof Element ? target.closest(SPEED_OPTION) : null
+    const speed = speedOf(option?.getAttribute("aria-label") ?? "")
+    if (speed !== null) spedTo(ask, speed)
   }
 }
 
@@ -212,6 +254,7 @@ async function begun(ask: (asked: Asked) => Promise<Answered>): Promise<undefine
   })
   holdEvery()
   document.addEventListener("keydown", keyedBy(ask), true)
+  document.addEventListener("click", pickedBy(ask), true)
   const lectures = lecturesHere()
   if (lectures.length === 0) {
     if (answer.watching) {

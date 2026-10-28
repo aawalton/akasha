@@ -72,9 +72,22 @@ export const lectureWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The player's own speed control shows the speed the extension keeps.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The player's own speed control follows a click alone, never the player's speed being set.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A speed picked in the player's own menu becomes the speed the extension keeps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What the extension says on the page is drawn in the browser's own colors.",
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-20T18:31:02.798Z",
+  updatedAt: "2026-10-28T17:42:32.692Z",
 } as const satisfies Module
