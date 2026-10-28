@@ -261,6 +261,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/medication-doses-per-week.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/person-height.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/plant-calorie-share.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/risk-activity-times-per-year.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/sugary-drinks-per-week.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/vehicle-miles-per-year.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/level.number-property.ts","typed":true,"deferred":false}

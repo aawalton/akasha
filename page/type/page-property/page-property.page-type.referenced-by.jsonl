@@ -176,6 +176,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"person/properties/family-history.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"person/properties/health-conditions.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"person/properties/medications.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"person/properties/physical-risk-activities.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"person/properties/seat-notices.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"persona/craft-day/properties/personas-crafted.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"persona/properties/cover-images.multi-relation-property.types.ts","typed":true,"deferred":false}

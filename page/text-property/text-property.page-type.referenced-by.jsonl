@@ -415,6 +415,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/properties/medication-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/properties/medication-note.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/properties/notice-seat.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/properties/risk-activity-name.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/properties/risk-activity-note.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-ip-address.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-text-version.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-user-agent.text-property.ts","typed":true,"deferred":false}

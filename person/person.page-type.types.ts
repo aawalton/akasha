@@ -11,6 +11,7 @@ import type { Medications } from "akasha/person/properties/medications.record-pr
 import type { PersonContributor } from "akasha/person/properties/person-contributor.relation-property.types.ts"
 import type { PersonHeight } from "akasha/person/properties/person-height.number-property.types.ts"
 import type { Phone } from "akasha/person/properties/phone.phone-number-property.types.ts"
+import type { PhysicalRiskActivities } from "akasha/person/properties/physical-risk-activities.record-property.types.ts"
 import type { PlantCalorieShare } from "akasha/person/properties/plant-calorie-share.number-property.types.ts"
 import type { Scheme } from "akasha/person/properties/scheme.select-property.types.ts"
 import type { SeatNotices } from "akasha/person/properties/seat-notices.record-property.types.ts"
@@ -35,6 +36,7 @@ export type Person = Domain & {
   plantCalorieShare?: PlantCalorieShare
   meatServingsPerWeek?: MeatServingsPerWeek
   firearmAccess?: FirearmAccess
+  physicalRiskActivities?: PhysicalRiskActivities
   familyHistory?: FamilyHistory
   healthConditions?: HealthConditions
   medications?: Medications
