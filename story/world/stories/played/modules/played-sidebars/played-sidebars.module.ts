@@ -55,6 +55,10 @@ export const playedSidebars = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A place that has taken the turns' column hides the action bar with the turns.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "On a phone, a bottom tab bar opens each place full screen over the turns.",
     },
     {
@@ -80,5 +84,5 @@ export const playedSidebars = {
     },
   ],
   createdAt: "2026-10-27T18:38:10.173Z",
-  updatedAt: "2026-10-28T19:08:37.650Z",
+  updatedAt: "2026-10-28T20:23:09.545Z",
 } as const satisfies Module

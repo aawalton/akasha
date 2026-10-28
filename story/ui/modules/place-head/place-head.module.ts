@@ -6,6 +6,7 @@ export const placeHead = {
   slug: "place-head",
   definition: "the head over an open place, naming it, closing it and holding its tabs",
   code: "tsx",
+  test: "tsx",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -37,7 +38,12 @@ export const placeHead = {
       decisionKind: "decision-kind/departure",
       statement: "Tabs with no head above them are drawn in a row of their own over a rule.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A place whose panels have drawn nothing yet shows a card shimmering in their stead.",
+    },
   ],
   createdAt: "2026-10-28T19:08:37.650Z",
-  updatedAt: "2026-10-28T20:18:37.335Z",
+  updatedAt: "2026-10-28T20:23:09.545Z",
 } as const satisfies Module

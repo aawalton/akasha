@@ -3,8 +3,9 @@
 import { UnderlineTabsList } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { Skeleton } from "akasha/design/interface/primitive/modules/skeleton/skeleton.module.code.tsx"
 import { X } from "lucide-react"
-import { createContext, type ReactNode, useContext, useState } from "react"
+import { createContext, type ReactNode, useContext, useLayoutEffect, useState } from "react"
 import { createPortal } from "react-dom"
 
 const HEAD = "shrink-0 border-surface-2 border-b"
@@ -16,6 +17,10 @@ const TITLE = "truncate font-semibold text-lg text-primary"
 const CLOSE = "absolute right-3 rounded-full"
 
 const RULED = "border-surface-2 border-b"
+
+const HELD = "contents"
+
+const WAITING = "h-40 rounded-xl before:rounded-xl"
 
 const HEADLESS = "headless"
 
@@ -55,6 +60,32 @@ export function PlaceHeaded({
       </header>
       {children}
     </TabsHeld.Provider>
+  )
+}
+
+function useEmpty(at: HTMLElement | null): boolean {
+  const [empty, setEmpty] = useState(true)
+  useLayoutEffect(() => {
+    if (at === null) return
+    const judge = () => setEmpty(at.childElementCount === 0)
+    judge()
+    const watch = new MutationObserver(judge)
+    watch.observe(at, { childList: true })
+    return () => watch.disconnect()
+  }, [at])
+  return empty
+}
+
+export function PlaceDrawn({ children }: { children: ReactNode }) {
+  const [heldAt, setHeldAt] = useState<HTMLDivElement | null>(null)
+  const waiting = useEmpty(heldAt)
+  return (
+    <>
+      <div ref={setHeldAt} className={HELD}>
+        {children}
+      </div>
+      {waiting ? <Skeleton data-waiting="" className={WAITING} /> : null}
+    </>
   )
 }
 

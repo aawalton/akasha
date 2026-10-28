@@ -5,7 +5,10 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { PlaceHeaded } from "akasha/story/ui/modules/place-head/place-head.module.code.tsx"
+import {
+  PlaceDrawn,
+  PlaceHeaded,
+} from "akasha/story/ui/modules/place-head/place-head.module.code.tsx"
 import type { Shown } from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
 
 import { character } from "akasha/story/ui/played-panel/panel-place/pages/character.panel-place.ts"
@@ -262,7 +265,9 @@ function PhonePlace({
         onClose={onClose}
         className={cn(PHONE_PLACE_HEAD, surfaceClass(0))}
       >
-        <div className={PHONE_PLACE_BODY}>{drawn}</div>
+        <div className={PHONE_PLACE_BODY}>
+          <PlaceDrawn>{drawn}</PlaceDrawn>
+        </div>
       </PlaceHeaded>
     </div>
   )
@@ -389,7 +394,9 @@ export function PlayedSidebars({
                   label={coverLook.label}
                   onClose={() => choose(withSide(open, coverLook.side, null))}
                 >
-                  <div className={PLACE_COLUMN}>{placed.get(coverLook.slug)}</div>
+                  <div className={PLACE_COLUMN}>
+                    <PlaceDrawn>{placed.get(coverLook.slug)}</PlaceDrawn>
+                  </div>
                 </PlaceHeaded>
               )}
               <div className={!phone && covered !== null ? SET_ASIDE : TURNS_TEXT}>
@@ -397,7 +404,9 @@ export function PlayedSidebars({
                 {panelsAbove}
                 {runDrawn}
               </div>
-              {bar == null ? null : <div className={cn(BAR_HELD, surfaceClass(RAISED))}>{bar}</div>}
+              {bar == null || (!phone && covered !== null) ? null : (
+                <div className={cn(BAR_HELD, surfaceClass(RAISED))}>{bar}</div>
+              )}
             </div>
           </div>
         </SurfaceProvider>

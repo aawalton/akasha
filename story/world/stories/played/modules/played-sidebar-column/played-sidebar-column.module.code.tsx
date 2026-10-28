@@ -3,7 +3,10 @@
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
-import { PlaceHeaded } from "akasha/story/ui/modules/place-head/place-head.module.code.tsx"
+import {
+  PlaceDrawn,
+  PlaceHeaded,
+} from "akasha/story/ui/modules/place-head/place-head.module.code.tsx"
 import { type KeyboardEvent, type PointerEvent, type ReactNode, useRef } from "react"
 
 export type Widths = {
@@ -107,7 +110,7 @@ export function SidebarColumn({
     <aside aria-label={label} className={cn(SIDEBAR, surfaceClass(RAISED))} style={{ width }}>
       <PlaceHeaded label={label} onClose={onClose}>
         <SurfaceProvider level={RAISED} className={BODY}>
-          {children}
+          <PlaceDrawn>{children}</PlaceDrawn>
         </SurfaceProvider>
       </PlaceHeaded>
       <div

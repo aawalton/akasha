@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"page/ui/component/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"page/ui/component/modules/view-tabs/view-tabs.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"story/ui/modules/place-head/place-head.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"story/ui/modules/place-head/place-head.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"story/ui/modules/sheet-panel/sheet-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"story/world/stories/played/modules/chat-panel/chat-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"temper/web/modules/catalog-page-content/catalog-page-content.module.code.tsx","typed":false,"deferred":false}
