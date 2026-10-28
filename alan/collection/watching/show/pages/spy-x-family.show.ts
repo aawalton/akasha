@@ -11,9 +11,15 @@ export const spyXFamily = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "120089", externalLink: "https://www.themoviedb.org/tv/120089" },
+    {
+      source: "tmdb",
+      externalId: "120089",
+      externalLink: "https://www.themoviedb.org/tv/120089",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "SPY x FAMILY",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu", "Netflix"],
   createdAt: "2026-10-28T18:49:19.165Z",
-  updatedAt: "2026-10-28T18:49:19.165Z",
+  updatedAt: "2026-10-28T19:46:07.357Z",
 } as const satisfies Show
