@@ -128,7 +128,7 @@ function taken(argv: readonly string[], calledAs: string): Taken | { readonly re
   return { from, to }
 }
 
-export type Planned = {
+type Planned = {
   readonly asked: readonly Asking[]
   readonly copies: readonly Copy[]
   readonly master: string
@@ -163,7 +163,7 @@ function partsAsked(
   return asked
 }
 
-export function planned(
+function planned(
   root: string,
   held: Taken,
   reach: Reach
