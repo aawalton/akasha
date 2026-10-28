@@ -3,6 +3,7 @@ import type { SkillAttribute } from "akasha/story/world/mechanics/skills/propert
 import type { SkillDurationMinutes } from "akasha/story/world/mechanics/skills/properties/skill-duration-minutes.number-property.types.ts"
 import type { SkillExperience } from "akasha/story/world/mechanics/skills/properties/skill-experience.number-property.types.ts"
 import type { SkillManaCost } from "akasha/story/world/mechanics/skills/properties/skill-mana-cost.number-property.types.ts"
+import type { SkillTierSteps } from "akasha/story/world/mechanics/skills/properties/skill-tier-steps.number-property.types.ts"
 import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
 
 export type WorldSkill = WorldMechanic & {
@@ -11,4 +12,5 @@ export type WorldSkill = WorldMechanic & {
   experience?: SkillExperience
   attribute?: SkillAttribute
   abilityKind?: AbilityKind
+  tierSteps?: SkillTierSteps
 }

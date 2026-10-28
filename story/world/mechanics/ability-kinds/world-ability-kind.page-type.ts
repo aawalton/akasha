@@ -7,10 +7,11 @@ export const worldAbilityKind = {
   definition: "a kind of ability a world tells apart from its other kinds by name",
   pluralSlug: "ability-kinds",
   extends: ["page-type/world-mechanic"],
-  parts: ["text-property/plural-title"],
+  parts: ["text-property/plural-title", "number-property/active-slots"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "text-property/plural-title", required: true, many: false },
+    { pageProperty: "number-property/active-slots", required: false, many: false },
   ],
   runsTabooCheck: false,
   decisions: [
@@ -31,5 +32,5 @@ export const worldAbilityKind = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-28T00:37:45.279Z",
-  updatedAt: "2026-10-28T00:37:45.279Z",
+  updatedAt: "2026-10-28T00:45:38.427Z",
 } as const satisfies PageType

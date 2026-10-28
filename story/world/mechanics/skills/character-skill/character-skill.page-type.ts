@@ -7,10 +7,15 @@ export const characterSkill = {
   definition: "a skill one character holds, as a holding of the world's skills",
   pluralSlug: "skills-held",
   extends: ["page-type/world-skill"],
-  parts: ["relation-property/skill-character", "relation-property/held-skill"],
+  parts: [
+    "relation-property/skill-character",
+    "relation-property/held-skill",
+    "boolean-property/held-skill-dormant",
+  ],
   properties: [
     { pageProperty: "relation-property/skill-character", required: true, many: false },
     { pageProperty: "relation-property/held-skill", required: true, many: false },
+    { pageProperty: "boolean-property/held-skill-dormant", required: false, many: false },
   ],
   decisions: [
     {
@@ -25,5 +30,5 @@ export const characterSkill = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-03T20:08:39.804Z",
-  updatedAt: "2026-10-03T20:08:45.000Z",
+  updatedAt: "2026-10-28T00:45:38.427Z",
 } as const satisfies PageType

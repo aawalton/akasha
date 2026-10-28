@@ -123,6 +123,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/claimed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/effect-claimed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/unrevealed.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/skills/character-skill/properties/held-skill-dormant.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/properties/testing.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/stories/played/properties/roleplayed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/stories/read/properties/read-later.boolean-property.ts","typed":true,"deferred":false}

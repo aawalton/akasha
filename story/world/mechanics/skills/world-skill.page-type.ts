@@ -14,6 +14,7 @@ export const worldSkill = {
     "number-property/skill-experience",
     "relation-property/skill-attribute",
     "relation-property/ability-kind",
+    "number-property/skill-tier-steps",
   ],
   runsTabooCheck: false,
   types: "ts",
@@ -24,7 +25,13 @@ export const worldSkill = {
     { pageProperty: "number-property/skill-experience", required: false, many: false },
     { pageProperty: "relation-property/skill-attribute", required: false, many: false },
     { pageProperty: "relation-property/ability-kind", required: false, many: false },
+    {
+      pageProperty: "number-property/skill-tier-steps",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   createdAt: "2026-09-03T03:38:24.529Z",
-  updatedAt: "2026-10-28T00:37:45.279Z",
+  updatedAt: "2026-10-28T00:45:38.427Z",
 } as const satisfies PageType
