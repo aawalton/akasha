@@ -131,7 +131,8 @@ export const temperWatcher = {
     "rust-crate/watcher-tray",
     "module/saved-variables-reader",
     "module/watcher-export-keybindings",
+    "module/watcher-keybindings-landing",
   ],
   createdAt: "2026-09-02T03:46:23.499Z",
-  updatedAt: "2026-10-28T21:57:12.940Z",
+  updatedAt: "2026-10-28T22:07:29.593Z",
 } as const satisfies ServiceWorkstation

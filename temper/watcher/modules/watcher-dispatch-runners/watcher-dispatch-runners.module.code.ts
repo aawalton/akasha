@@ -17,6 +17,7 @@ import { runImportInventory } from "akasha/temper/watcher/modules/watcher-import
 import { runImportItemRuleVerdicts } from "akasha/temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"
 import { runImportSales } from "akasha/temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts"
 import { runImportTasks } from "akasha/temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts"
+import { runImportKeybindings } from "akasha/temper/watcher/modules/watcher-keybindings-landing/watcher-keybindings-landing.module.code.ts"
 
 export interface DispatchRunners {
   readonly importCatalog: typeof runImportCatalog
@@ -30,6 +31,7 @@ export interface DispatchRunners {
   readonly importItemRuleVerdicts: typeof runImportItemRuleVerdicts
   readonly importSales: typeof runImportSales
   readonly importTasks: typeof runImportTasks
+  readonly importKeybindings: (content: string) => Promise<number>
   readonly exportCompanionBuilds: typeof runExportCompanionBuilds
   readonly exportHudLayout: typeof runExportHudLayout
   readonly exportLandedCatalogs: typeof runExportLandedCatalogs
@@ -64,6 +66,7 @@ export const WATCHER_RUNNERS: DispatchRunners = {
   importItemRuleVerdicts: runImportItemRuleVerdicts,
   importSales: runImportSales,
   importTasks: runImportTasks,
+  importKeybindings: (content) => runImportKeybindings(content),
   exportCompanionBuilds: runExportCompanionBuilds,
   exportHudLayout: runExportHudLayout,
   exportLandedCatalogs: runExportLandedCatalogs,

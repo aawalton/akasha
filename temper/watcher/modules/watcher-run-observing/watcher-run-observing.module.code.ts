@@ -14,7 +14,7 @@ export const TARGET_OPERATIONS = {
   combat: { imports: ["fights"] },
   companions: { imports: ["companions"], sideFile: "companionsConfig" },
   "data-mining": { imports: ["dataMining"], sideFile: "catalogConfig" },
-  errors: { imports: ["errors"], sideFile: "coreConfig" },
+  errors: { imports: ["errors", "keybindings"], sideFile: "coreConfig" },
   inventory: { imports: ["itemRuleVerdicts", "inventory"], sideFile: "inventoryConfig" },
   sales: { imports: ["sales"] },
 } as const satisfies Record<FileType, { imports: readonly string[]; sideFile?: string }>

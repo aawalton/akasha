@@ -81,6 +81,10 @@ export const watcherDispatch = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The keybinder's capture lands before the core config is exported, synced or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Which function each import and export runs is chosen in the runners module.",
     },
 
@@ -111,5 +115,5 @@ export const watcherDispatch = {
     },
   ],
   createdAt: "2026-09-02T20:20:26.300Z",
-  updatedAt: "2026-10-27T19:20:34.392Z",
+  updatedAt: "2026-10-28T22:07:29.593Z",
 } as const satisfies Module

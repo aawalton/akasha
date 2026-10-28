@@ -39,7 +39,7 @@ const [CHARACTERS, COMPLETION, TASKS] = TARGET_OPERATIONS.characters.imports
 const [FIGHTS] = TARGET_OPERATIONS.combat.imports
 const [COMPANIONS] = TARGET_OPERATIONS.companions.imports
 const [DATA_MINING] = TARGET_OPERATIONS["data-mining"].imports
-const [ERRORS] = TARGET_OPERATIONS.errors.imports
+const [ERRORS, KEYBINDINGS] = TARGET_OPERATIONS.errors.imports
 const [ITEM_RULE_VERDICTS, INVENTORY] = TARGET_OPERATIONS.inventory.imports
 const [SALES] = TARGET_OPERATIONS.sales.imports
 const CHARACTERS_CONFIG = TARGET_OPERATIONS.characters.sideFile
@@ -248,6 +248,9 @@ async function handleErrors(job: Job): Promise<Handled> {
   const { operation } = await observe(job.imported(ERRORS), () =>
     job.runners.importErrors(job.content)
   )
+  const keybindings = await observe(job.imported(KEYBINDINGS), () =>
+    job.runners.importKeybindings(job.content)
+  )
   const exported = await observeSideFileExport(
     CORE_CONFIG,
     job.options.coreConfigPath,
@@ -255,7 +258,7 @@ async function handleErrors(job: Job): Promise<Handled> {
   )
   return {
     ...NOTHING_WRITTEN,
-    operations: [operation, ...optional(exported.operation)],
+    operations: [operation, keybindings.operation, ...optional(exported.operation)],
     coreConfigSideFileHash: exported.value ?? null,
   }
 }

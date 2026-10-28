@@ -126,6 +126,10 @@ export function harness(tweaks: Partial<Tweaks> = {}): Harness {
       calls.push("importTasks")
       tasksHanded.push(options)
     },
+    importKeybindings: async () => {
+      calls.push("importKeybindings")
+      return 0
+    },
     exportCompanionBuilds: async (content) => {
       calls.push("exportCompanionBuilds")
       return { content, modified: false, companionsConfigSideFileHash: null }

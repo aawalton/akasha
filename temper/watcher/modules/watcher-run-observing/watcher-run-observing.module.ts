@@ -14,6 +14,11 @@ export const watcherRunObserving = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Temper.lua lands the errors and the keybinder's capture, then writes the core config.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An operation that returns is synced.",
     },
     {
@@ -50,5 +55,5 @@ export const watcherRunObserving = {
     },
   ],
   createdAt: "2026-09-02T18:45:40.447Z",
-  updatedAt: "2026-09-15T18:43:51.000Z",
+  updatedAt: "2026-10-28T22:07:29.593Z",
 } as const satisfies Module

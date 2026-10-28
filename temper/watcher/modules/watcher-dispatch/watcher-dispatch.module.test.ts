@@ -81,7 +81,7 @@ test("sales reaches the sales import alone and writes nothing back", async () =>
   expect(at.calls).toEqual(["importSales"])
 })
 
-test("errors reaches the errors import and then the HUD layout export", async () => {
+test("errors reaches the errors import, then the keybindings landing, then the core config export", async () => {
   const at = harness()
   const { operations, ...envelope } = await dispatch(
     "errors",
@@ -92,7 +92,7 @@ test("errors reaches the errors import and then the HUD layout export", async ()
   )
   expect(envelope).toEqual(WROTE_NOTHING_BACK)
   expect(operations.every((o) => o.state === "synced")).toBe(true)
-  expect(at.calls).toEqual(["importErrors", "exportHudLayout"])
+  expect(at.calls).toEqual(["importErrors", "importKeybindings", "exportHudLayout"])
 })
 
 test("errors writes the HUD layout into the core add-on's config", async () => {
