@@ -17,15 +17,17 @@ export const swordArtOnlineTheMovieProgressiveAriaOfAStarlessNight = {
   genres: ["Animation", "Action", "Fantasy", "Science Fiction"],
   posterPath: "/yD9RhgIVydQNBK7OLEbCWYcWMUd.jpg",
   voteAverage: 7.9,
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   externalIdentity: [
     {
       source: "tmdb",
       externalId: "761898",
       externalLink: "https://www.themoviedb.org/movie/761898",
+      lastSyncedAt: "2026-10-28",
     },
   ],
   imdbId: "tt13424422",
   createdAt: "2026-06-07T22:44:49.725Z",
-  updatedAt: "2026-10-28T18:39:52.205Z",
+  updatedAt: "2026-10-28T19:48:22.883Z",
   progressedAt: "2026-10-28T18:39:52.205Z",
 } as const satisfies Movie
