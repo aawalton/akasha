@@ -11,9 +11,15 @@ export const cowboyBebop = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "30991", externalLink: "https://www.themoviedb.org/tv/30991" },
+    {
+      source: "tmdb",
+      externalId: "30991",
+      externalLink: "https://www.themoviedb.org/tv/30991",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Cowboy Bebop",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:47:36.381Z",
-  updatedAt: "2026-10-28T18:47:36.381Z",
+  updatedAt: "2026-10-28T19:43:50.136Z",
 } as const satisfies Show
