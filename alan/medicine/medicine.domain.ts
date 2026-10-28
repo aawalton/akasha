@@ -8,6 +8,14 @@ export const medicine = {
   parts: ["domain/disability-adjusted-micromort"],
   decisions: [
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "Alan was born on January 22, 1986.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Alan is male.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A lab value with no measurement of Alan takes the typical value for his age and sex.",
@@ -18,5 +26,5 @@ export const medicine = {
     },
   ],
   createdAt: "2026-09-03T13:00:18.032Z",
-  updatedAt: "2026-10-28T17:54:52.542Z",
+  updatedAt: "2026-10-28T17:55:35.521Z",
 } as const satisfies Domain
