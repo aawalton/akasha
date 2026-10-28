@@ -27,6 +27,7 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import { slotKey } from "akasha/temper/addon/pages/items/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
 import {
+  aimVaultDeposits,
   planVaultDeposit,
   splitLanded,
   type VaultDepositPlan,
@@ -220,6 +221,10 @@ function startVaultDepositChain(
         onMoveConfirmed()
         return
       }
+      if (serverActionWaitMs() > 0) {
+        scheduleWatchdog(expectSlot)
+        return
+      }
       retries++
       if (retries > MAX_VAULT_DEPOSIT_RETRIES) {
         d(`[${ADDON_NAME}] Vault deposit stalled at backpack slot ${inFlightSlot}, stopping`)
@@ -299,6 +304,11 @@ function readVaultDepositPlan(): VaultDepositPlan {
   return planVaultDeposit(pending, stowable)
 }
 
+function stackInVault(this: void, slot: number): number {
+  const [stackCount] = GetSlotStackSize(BAG_FURNITURE_VAULT, slot)
+  return stackCount
+}
+
 function linkInBackpack(slot: number): string {
   const stackCount = stackInBackpack(slot)
   const itemLink = GetItemLink(BAG_BACKPACK, slot, LINK_STYLE_BRACKETS)
@@ -318,8 +328,11 @@ export function startVaultDeposits(
   if (vaultBulkRunning || vaultDepositRunning) return
   const plan = readVaultDepositPlan()
   if (plan.kind === "none") return
+  const vaultSize = GetBagSize(BAG_FURNITURE_VAULT)
+  const aimed = plan.kind === "moves" ? aimVaultDeposits(plan.slots, vaultSize, stackInVault) : []
+  if (plan.kind === "moves" && aimed.length === 0) return
   vaultBulkRunning = true
-  const slots = plan.slots
+  const slots = plan.kind === "moves" ? aimed.map((one) => one.slot) : plan.slots
   const startedMs = GetGameTimeMilliseconds()
   const links: Record<number, string> = {}
   for (const slot of slots) links[slot] = linkInBackpack(slot)
@@ -383,13 +396,12 @@ export function startVaultDeposits(
   }
 
   const sends: ((this: void) => boolean)[] = []
-  for (const slot of slots) {
+  for (const one of aimed) {
     sends.push(function (this: void): boolean {
-      const stackCount = stackInBackpack(slot)
+      const stackCount = stackInBackpack(one.slot)
       if (stackCount === 0) return false
-      const targetSlot = FindFirstEmptySlotInBag(BAG_FURNITURE_VAULT)
-      if (targetSlot === undefined) return false
-      bankMoveItem(BAG_BACKPACK, slot, BAG_FURNITURE_VAULT, targetSlot, stackCount)
+      if (stackInVault(one.target) > 0) return false
+      bankMoveItem(BAG_BACKPACK, one.slot, BAG_FURNITURE_VAULT, one.target, stackCount)
       return true
     })
   }

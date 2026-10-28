@@ -30,7 +30,19 @@ export const inventoryRulesDispatchBankVault = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Single deposits sent at once each aim at an empty vault slot of their own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A visit sends no more single deposits than the vault has empty slots.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A deposit still in the backpack once those settle is sent again one at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deposit sent again waits where the shared window is full.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -51,5 +63,5 @@ export const inventoryRulesDispatchBankVault = {
     },
   ],
   createdAt: "2026-09-02T13:39:35.856Z",
-  updatedAt: "2026-10-28T20:35:03.048Z",
+  updatedAt: "2026-10-28T21:02:36.408Z",
 } as const satisfies Module

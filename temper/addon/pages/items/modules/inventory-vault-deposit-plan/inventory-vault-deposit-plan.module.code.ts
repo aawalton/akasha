@@ -25,6 +25,28 @@ export function planVaultDeposit(
   return { kind: "stow-all", slots }
 }
 
+interface AimedVaultDeposit {
+  readonly slot: number
+  readonly target: number
+}
+
+export function aimVaultDeposits(
+  this: void,
+  slots: readonly number[],
+  vaultSize: number,
+  vaultStackAt: (this: void, slot: number) => number
+): AimedVaultDeposit[] {
+  const aimed: AimedVaultDeposit[] = []
+  let target = 0
+  for (const slot of slots) {
+    while (target < vaultSize && vaultStackAt(target) > 0) target++
+    if (target >= vaultSize) break
+    aimed.push({ slot, target })
+    target++
+  }
+  return aimed
+}
+
 export function splitLanded(
   this: void,
   slots: readonly number[],
