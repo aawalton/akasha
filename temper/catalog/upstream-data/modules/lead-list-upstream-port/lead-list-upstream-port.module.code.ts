@@ -13,7 +13,7 @@ import { makeLuaVm } from "akasha/temper/eso/lua-runner/modules/lua-vm/lua-vm.mo
 import { addonsDir } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { z } from "zod"
 
-export const LEAD_LIST_SOURCE = "LeadList/locale/locationsdata_en.lua"
+const LEAD_LIST_SOURCE = "LeadList/locale/locationsdata_en.lua"
 
 const ROWS_PER_PART = 50
 
