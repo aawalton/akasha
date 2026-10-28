@@ -1395,6 +1395,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/measure/modules/tabling/measure-tabling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/measure/page/modules/page-measuring/page-measuring.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/measure/repo/modules/repo-measuring/repo-measuring.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/medicine/modules/health-logs/health-logs.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/medicine/modules/mortality-model/mortality-model.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/medicine/modules/mortality-readings/mortality-readings.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/model/gateway/start/modules/gateway-run/gateway-run.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/music/capture/modules/play-row/play-row.module.ts","typed":true,"deferred":false}

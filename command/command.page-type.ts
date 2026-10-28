@@ -110,6 +110,7 @@ export const command = {
     "namespace/infrastructure",
     "namespace/initiative",
     "namespace/measure",
+    "namespace/medicine",
     "namespace/mobile",
     "namespace/model",
     "namespace/music",
@@ -229,5 +230,5 @@ export const command = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-29T04:53:12.685Z",
-  updatedAt: "2026-10-19T17:35:16.712Z",
+  updatedAt: "2026-10-28T18:57:02.952Z",
 } as const satisfies PageType

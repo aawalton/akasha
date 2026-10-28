@@ -195,6 +195,8 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/measure/deploy/measure-deploy.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/measure/performance/measure-performance.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/medicine/modules/health-logs/health-logs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/medicine/modules/mortality-model/mortality-model.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/model-account/add/model-account-add.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/model-account/disable/model-account-disable.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/model-account/login/model-account-login.command.code.ts","typed":false,"deferred":false}

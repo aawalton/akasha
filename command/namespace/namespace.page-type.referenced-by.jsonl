@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/measure/complexity/measure-complexity.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/measure/measure.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/measure/model-account/measure-model-account.namespace.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/medicine/medicine.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/mobile/cut/mobile-cut.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/mobile/mobile.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/mobile/sim/mobile-sim.namespace.ts","typed":true,"deferred":false}

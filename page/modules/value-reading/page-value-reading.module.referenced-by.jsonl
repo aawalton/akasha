@@ -277,6 +277,9 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/measure/attribute/measure-attribute.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/medicine/modules/health-logs/health-logs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/medicine/modules/mortality-model/mortality-model.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/medicine/modules/mortality-readings/mortality-readings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/music/artist-list/music-artist-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/music/capture/music-capture.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/music/capture/music-capture.command.test-fixtures.ts","typed":true,"deferred":false}

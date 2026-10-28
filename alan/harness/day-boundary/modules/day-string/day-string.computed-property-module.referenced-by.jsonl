@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"day-string.computed-property-module.code.ts","path":"command/pages/fitness/modules/training-week/training-week.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day-string.computed-property-module.code.ts","path":"command/pages/fitness/today/modules/limiting/limiting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day-string.computed-property-module.code.ts","path":"command/pages/fitness/today/modules/rotation/rotation.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-string.computed-property-module.code.ts","path":"command/pages/medicine/modules/health-logs/health-logs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day-string.computed-property-module.code.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day-string.computed-property-module.code.ts","path":"command/pages/track/modules/waking/waking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"day-string.computed-property-module.code.ts","path":"command/pages/track/session/switch/track-session-switch.command.test.ts","typed":false,"deferred":false}

@@ -131,6 +131,8 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/measure/round/measure-round.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/measure/story/measure-story.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/measure/test/measure-test.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/medicine/actions/medicine-actions.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/medicine/causes/medicine-causes.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/mobile/cut/record/mobile-cut-record.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/mobile/cut/status/mobile-cut-status.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/mobile/sim/boot/mobile-sim-boot.command.ts","typed":true,"deferred":false}

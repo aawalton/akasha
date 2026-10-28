@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"mortality-readings.module.code.ts","path":"command/pages/medicine/actions/medicine-actions.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mortality-readings.module.code.ts","path":"command/pages/medicine/causes/medicine-causes.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mortality-readings.module.code.ts","path":"command/pages/medicine/modules/mortality-model/mortality-model.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mortality-readings.module.code.ts","path":"command/pages/medicine/modules/mortality-model/mortality-model.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mortality-readings.module.code.ts","path":"command/pages/medicine/modules/mortality-readings/mortality-readings.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"command/pages/medicine/medicine.namespace.ts","id":"01a183df-77e9-773f-b423-de4ccacc0f65"}

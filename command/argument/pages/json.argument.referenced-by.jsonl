@@ -25,6 +25,8 @@
 {"propertySlug":"argument","path":"command/pages/measure/complexity/maintainability/measure-complexity-maintainability.command.ts","id":"01a08ccd-ace4-705b-8318-42e706de96ae"}
 {"propertySlug":"argument","path":"command/pages/measure/complexity/report/measure-complexity-report.command.ts","id":"01a08ccd-dddb-7be6-a0d9-3752b6db6da1"}
 {"propertySlug":"argument","path":"command/pages/measure/learning/measure-learning.command.ts","id":"01a077fb-4ca8-7027-80b1-85c446d6786a"}
+{"propertySlug":"argument","path":"command/pages/medicine/actions/medicine-actions.command.ts","id":"01a183df-77e9-72fb-8f9d-f833d5170779"}
+{"propertySlug":"argument","path":"command/pages/medicine/causes/medicine-causes.command.ts","id":"01a183df-77e9-749a-8fd1-ab4caa3cd297"}
 {"propertySlug":"argument","path":"command/pages/mobile/cut/status/mobile-cut-status.command.ts","id":"01a0685d-ceae-7003-b691-5ac97b0f647a"}
 {"propertySlug":"argument","path":"command/pages/model/gateway/status/model-gateway-status.command.ts","id":"01a07c0e-59f9-7b4f-be43-11f442d1ea33"}
 {"propertySlug":"argument","path":"command/pages/model/gateway/swap/model-gateway-swap.command.ts","id":"01a07c0e-7ae3-7f8a-935d-ab6589ed46e5"}
@@ -147,6 +149,8 @@
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/measure/complexity/report/measure-complexity-report.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/measure/learning/measure-learning.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/measure/learning/measure-learning.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/medicine/actions/medicine-actions.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/medicine/causes/medicine-causes.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/mobile/cut/status/mobile-cut-status.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/model/gateway/status/model-gateway-status.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts","typed":false,"deferred":false}
