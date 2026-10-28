@@ -185,6 +185,7 @@ const BONUSES: readonly {
   { held: ["bastion"], tags: [SHIELD], percent: 15 },
   { held: ["master-at-arms"], tags: [DAMAGE, DIRECT], percent: 6 },
   { held: ["thaumaturge"], tags: [DAMAGE, OVER_TIME], percent: 6 },
+  { held: ["rapid-rot"], tags: [DAMAGE, OVER_TIME], percent: 10 },
   { held: ["biting-aura"], tags: [DAMAGE, "AOE"], percent: 6 },
   { held: ["deadly-aim"], tags: [DAMAGE, "SingleTarget"], percent: 6 },
   { held: ["piercing-cold"], tags: [DAMAGE, "Frost"], percent: 15 },

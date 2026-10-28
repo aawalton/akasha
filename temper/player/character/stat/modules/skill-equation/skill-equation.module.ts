@@ -99,6 +99,10 @@ export const skillEquation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Rapid Rot makes damage over time 10% stronger, added to the other bonuses.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Biting Aura slotted makes area damage 6% stronger, and Deadly Aim single-target.",
     },
     {
@@ -257,5 +261,5 @@ export const skillEquation = {
     },
   ],
   createdAt: "2026-10-15T15:45:56.553Z",
-  updatedAt: "2026-10-28T20:06:22.670Z",
+  updatedAt: "2026-10-28T20:36:26.912Z",
 } as const satisfies Module
