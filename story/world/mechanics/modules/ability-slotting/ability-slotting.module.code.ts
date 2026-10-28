@@ -18,7 +18,7 @@ export type Wanted = "taken-up" | "set-aside"
 
 export const WANTED: readonly Wanted[] = ["taken-up", "set-aside"]
 
-export type SlotChange = {
+type SlotChange = {
   readonly page: string
   readonly note: string
   readonly key: string
@@ -26,7 +26,7 @@ export type SlotChange = {
   readonly to: unknown
 }
 
-export type Slotted =
+type Slotted =
   | { readonly event: string; readonly changes: readonly SlotChange[] }
   | { readonly refused: string }
 
@@ -38,7 +38,7 @@ export function tiersPassed(tierSteps: readonly number[], experience: number): n
   return tierSteps.filter((step) => experience >= step).length
 }
 
-export function lastTierStep(tierSteps: readonly number[], experience: number): number {
+function lastTierStep(tierSteps: readonly number[], experience: number): number {
   return tierSteps
     .filter((step) => experience >= step)
     .reduce((most, step) => Math.max(most, step), 0)
@@ -54,7 +54,7 @@ export function completed(one: Holding): boolean {
   return last !== undefined && one.experience >= last
 }
 
-export type AbilityState = "active" | "completed" | "dormant"
+type AbilityState = "active" | "completed" | "dormant"
 
 export const ABILITY_STATES: readonly AbilityState[] = ["active", "completed", "dormant"]
 
@@ -69,7 +69,7 @@ export function progressSaid(one: Holding): string {
   return next === null ? String(one.experience) : `${String(one.experience)}/${String(next)}`
 }
 
-export function holdsSlot(one: Holding): boolean {
+function holdsSlot(one: Holding): boolean {
   return one.dormant !== true && !completed(one)
 }
 
