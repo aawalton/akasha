@@ -11,9 +11,15 @@ export const darlingInTheFranxx = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "76121", externalLink: "https://www.themoviedb.org/tv/76121" },
+    {
+      source: "tmdb",
+      externalId: "76121",
+      externalLink: "https://www.themoviedb.org/tv/76121",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "DARLING in the FRANXX",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   createdAt: "2026-10-28T18:55:06.111Z",
-  updatedAt: "2026-10-28T18:55:06.111Z",
+  updatedAt: "2026-10-28T19:43:55.024Z",
 } as const satisfies Show
