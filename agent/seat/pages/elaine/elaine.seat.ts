@@ -5,7 +5,7 @@ export const elaine = {
   type: "page-type/seat",
   slug: "elaine",
   persona: "persona/elaine",
-  assignmentSlug: "domain/medicine",
+  assignmentSlug: "initiative/elaine-health-model",
   role: "role/definer",
   persons: ["person/alan"],
   startMode: "seat-mode/interactive",
@@ -13,5 +13,5 @@ export const elaine = {
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "ce5b32ba-9490-4451-b567-e8a88aa09d42",
   createdAt: "2026-10-28T17:47:02.052Z",
-  updatedAt: "2026-10-28T17:47:50.816Z",
+  updatedAt: "2026-10-28T17:48:45.635Z",
 } as const satisfies Seat
