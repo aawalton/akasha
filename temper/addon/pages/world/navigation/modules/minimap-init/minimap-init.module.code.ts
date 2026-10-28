@@ -44,6 +44,22 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
 const em = EVENT_MANAGER
+const MINIMAP_PANEL = "TemperMiniMapPanel"
+const PANEL_INSET_X = 8
+const PANEL_INSET_Y = 4
+
+function installPanel(this: void, background: Control): undefined {
+  const panel = WINDOW_MANAGER.CreateTopLevelWindow(MINIMAP_PANEL)
+  panel.SetAnchor(TOPRIGHT, GuiRoot, TOPRIGHT, -10, 40)
+  function fitPanel(this: void): undefined {
+    panel.SetDimensions(background.GetWidth(), background.GetHeight())
+    panel.SetHidden(ZO_WorldMap.IsHidden() || !WORLD_MAP_MANAGER.IsInMode(MINIMAP_MAP_MODE))
+  }
+  background.SetHandler("OnRectChanged", fitPanel, MINIMAP_PANEL)
+  ZO_WorldMap.SetHandler("OnShow", fitPanel, MINIMAP_PANEL)
+  ZO_WorldMap.SetHandler("OnHide", fitPanel, MINIMAP_PANEL)
+  fitPanel()
+}
 
 holder.InitMiniMap = function (this: TemperMiniMap): undefined {
   const self = this
@@ -109,6 +125,7 @@ holder.InitMiniMap = function (this: TemperMiniMap): undefined {
   control.SetExcludeFromResizeToFitExtents(true)
   self.background = control
   self.UpdateBorder()
+  installPanel(control)
   asMiniMapScene(WORLD_MAP_FRAGMENT).SetAllowShowHideTimeUpdates(true)
   asAnyTable(WORLD_MAP_FRAGMENT).alwaysAnimate = asAnyTableMember(true)
   asAnyTable(WORLD_MAP_FRAGMENT).duration = asAnyTableMember(0)
@@ -161,13 +178,18 @@ holder.InitMiniMap = function (this: TemperMiniMap): undefined {
 
     ZO_WorldMap.ClearAnchors()
     ZO_WorldMap.SetDimensionConstraints(128, 144, uiWidth, uiHeight)
-    ZO_WorldMap.SetAnchor(
-      CENTER,
-      undefined,
-      CENTER,
-      this.account.x ?? uiWidth / 2 - 304,
-      this.account.y ?? uiHeight / 2 - 368
-    )
+    const panel = GetControl(MINIMAP_PANEL)
+    if (panel !== undefined && !IsInGamepadPreferredMode()) {
+      ZO_WorldMap.SetAnchor(TOPLEFT, panel, TOPLEFT, PANEL_INSET_X, PANEL_INSET_Y)
+    } else {
+      ZO_WorldMap.SetAnchor(
+        CENTER,
+        undefined,
+        CENTER,
+        this.account.x ?? uiWidth / 2 - 304,
+        this.account.y ?? uiHeight / 2 - 368
+      )
+    }
     ZO_WorldMap.SetDimensions(
       this.account.width ?? asNumber(sv.width ?? 304),
       this.account.height ?? asNumber(sv.height ?? 368)

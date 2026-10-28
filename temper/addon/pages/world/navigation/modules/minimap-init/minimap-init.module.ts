@@ -6,6 +6,20 @@ export const minimapInit = {
   slug: "minimap-init",
   definition: "the minimap window built out of the world map",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The keyboard minimap sits inside an empty panel that Temper's HUD layout places.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That panel is the minimap's border in size, and hidden while the minimap is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The gamepad minimap keeps the place saved for it.",
+    },
+  ],
   createdAt: "2026-09-02T13:57:34.210Z",
-  updatedAt: "2026-09-22T02:18:28.000Z",
+  updatedAt: "2026-10-28T00:42:14.190Z",
 } as const satisfies Module
