@@ -4,7 +4,7 @@ import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.modul
 import type { Wanted } from "akasha/story/world/mechanics/modules/ability-slotting/ability-slotting.module.code.ts"
 import type { Fetching } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 
-export const HELD_ABILITY_AT = "/api/held-ability"
+const HELD_ABILITY_AT = "/api/held-ability"
 
 export const SHEET_CHANGED = "akasha-sheet-changed"
 
@@ -20,11 +20,11 @@ export type HeldAsk = {
   readonly wanted: Wanted
 }
 
-export type HeldSent =
+type HeldSent =
   | { readonly ok: true; readonly event: string }
   | { readonly ok: false; readonly error: string }
 
-export function sheetChanged(): undefined {
+function sheetChanged(): undefined {
   if (typeof window !== "undefined") window.dispatchEvent(new Event(SHEET_CHANGED))
   return undefined
 }
