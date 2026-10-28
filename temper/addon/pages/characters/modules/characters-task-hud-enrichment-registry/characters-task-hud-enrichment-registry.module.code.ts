@@ -147,6 +147,7 @@ function dungeonSetSpecs(
 function easyLeadHintOf(antiquity: OutstandingAntiquity): string | undefined {
   if (antiquity.source === "scry") return "scry"
   if (antiquity.source === "buy") return "buy map"
+  if (antiquity.source === "unknown") return "source unknown"
   if (antiquity.source === "dig") {
     return antiquity.parentName === undefined
       ? "dig the previous one first"

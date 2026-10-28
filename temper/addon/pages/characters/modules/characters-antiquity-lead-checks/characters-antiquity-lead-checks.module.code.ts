@@ -22,7 +22,7 @@ interface ActiveAntiquityLead {
 export interface OutstandingAntiquity {
   readonly antiquityId: number
   readonly name: string
-  readonly source: "held" | "scry" | "dig" | "buy"
+  readonly source: "held" | "scry" | "dig" | "buy" | "unknown"
   readonly parentName: string | undefined
   readonly lore: AntiquityLoreProgress | undefined
 }
@@ -33,7 +33,7 @@ interface AntiquityLoreProgress {
 }
 
 interface EasyLeadSource {
-  readonly kind: "scry" | "dig" | "buy"
+  readonly kind: "scry" | "dig" | "buy" | "unknown"
   readonly parentId: number | undefined
 }
 

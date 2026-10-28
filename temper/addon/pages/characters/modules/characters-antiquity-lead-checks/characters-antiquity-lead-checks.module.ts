@@ -23,6 +23,11 @@ export const charactersAntiquityLeadChecks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An antiquity the lead table has no row for is left to dig where its lore is unread.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Where a lead is easy to get is read from the lead window's add-on.",
     },
     {
@@ -31,5 +36,5 @@ export const charactersAntiquityLeadChecks = {
     },
   ],
   createdAt: "2026-09-02T16:21:49.088Z",
-  updatedAt: "2026-10-20T18:28:43.814Z",
+  updatedAt: "2026-10-28T16:32:08.102Z",
 } as const satisfies Module

@@ -19,9 +19,13 @@ export const charactersTaskHudEnrichmentRegistry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An antiquity the lead table has no row for says source unknown after its name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An antiquity with lore unread says how much of its lore is read after its name.",
     },
   ],
   createdAt: "2026-09-02T16:23:41.590Z",
-  updatedAt: "2026-10-27T18:25:31.516Z",
+  updatedAt: "2026-10-28T16:32:08.102Z",
 } as const satisfies Module
