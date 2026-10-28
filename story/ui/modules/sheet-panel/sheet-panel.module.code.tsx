@@ -119,7 +119,6 @@ function StatsTab({
   showsStats: boolean
 }) {
   const derived = useDerived(game, workings) ?? {}
-  const titles = sheet.titles ?? []
   const points = sheet.points ?? []
   const profile: Record<string, string> = {
     ...(sheet.kind != null ? { Species: sheet.kind } : {}),
@@ -130,9 +129,6 @@ function StatsTab({
   return (
     <div className="flex flex-col gap-3">
       {head.caption}
-      {titles.length === 0 ? null : (
-        <div className="-mt-2 font-mono text-[11px] text-secondary">{titles.join(" · ")}</div>
-      )}
       {(sheet.experience ?? []).length === 0 ? null : (
         <ExperienceBars experience={sheet.experience ?? []} />
       )}

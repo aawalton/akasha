@@ -17,12 +17,11 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The stats tab opens on the caption, then the titles, the experience and the cover.",
+      statement: "The stats tab opens on the caption, then the experience and the cover.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The titles are not shown at all until the first title lands.",
+      decisionKind: "decision-kind/absence",
+      statement: "No title a character holds is shown under that character's name.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -156,5 +155,5 @@ export const sheetPanel = {
     },
   ],
   createdAt: "2026-09-02T14:52:27.089Z",
-  updatedAt: "2026-10-28T19:08:37.650Z",
+  updatedAt: "2026-10-28T19:45:47.382Z",
 } as const satisfies Module
