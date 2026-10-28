@@ -11,9 +11,15 @@ export const attackOnTitan = {
   status: "not-started",
   unit: "unit/minutes",
   externalIdentity: [
-    { source: "tmdb", externalId: "1429", externalLink: "https://www.themoviedb.org/tv/1429" },
+    {
+      source: "tmdb",
+      externalId: "1429",
+      externalLink: "https://www.themoviedb.org/tv/1429",
+      lastSyncedAt: "2026-10-28",
+    },
   ],
   title: "Attack on Titan",
+  streamingOn: ["Crunchyroll", "Crunchyroll Amazon Channel", "Hulu"],
   createdAt: "2026-10-28T18:41:41.918Z",
-  updatedAt: "2026-10-28T18:41:41.918Z",
+  updatedAt: "2026-10-28T19:43:28.624Z",
 } as const satisfies Show
