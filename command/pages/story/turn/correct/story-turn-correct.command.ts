@@ -44,6 +44,11 @@ export const storyTurnCorrect = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A turn with no prose file has the beat's prose rewritten on its beats line alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Everything a correction does lands in one landing, holding the turn as an advance does.",
     },
     {
@@ -64,5 +69,5 @@ export const storyTurnCorrect = {
     { argument: "argument/prose-file" },
   ],
   createdAt: "2026-10-28T15:26:39.416Z",
-  updatedAt: "2026-10-28T15:26:39.416Z",
+  updatedAt: "2026-10-28T15:31:07.945Z",
 } as const satisfies Command

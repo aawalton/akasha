@@ -202,7 +202,8 @@ function proseTold(
   }
   const restated = typeof asked.prose === "string" ? { ...old, prose: asked.prose } : asked.prose
   const prose = held.map((one) => (one.beat === asked.beat ? restated : one))
-  const text = reach.present(root, at) ? reach.textIn(root, at) : ""
+  if (!reach.present(root, at)) return { prose, text: null, at }
+  const text = reach.textIn(root, at)
   if (text === proseWritten(held)) return { prose, text: proseWritten(prose), at }
   const parts = text.split(old.prose)
   if (parts.length !== 2) {
