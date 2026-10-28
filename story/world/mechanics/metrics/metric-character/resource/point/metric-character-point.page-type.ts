@@ -11,7 +11,6 @@ export const metricCharacterPoint = {
     "page-type/tower-of-nimue-free-point",
     "page-type/test-story-points",
     "page-type/gifted-unallocated-stats",
-    "page-type/pending-roll-trial-points",
   ],
   decisions: [
     {
@@ -26,5 +25,5 @@ export const metricCharacterPoint = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-27T18:53:28.972Z",
-  updatedAt: "2026-10-28T18:39:53.794Z",
+  updatedAt: "2026-10-28T18:43:03.193Z",
 } as const satisfies PageType
