@@ -28,7 +28,7 @@ const PAGES_PER_READ = 100
 
 const UNATTEMPTED = "no attempt to land the keybinder's capture was made"
 
-export interface KeybindingsLandingDeps {
+interface KeybindingsLandingDeps {
   readonly collect?: typeof collectPages
   readonly read?: ReadFiles
   readonly write?: WriteFiles
