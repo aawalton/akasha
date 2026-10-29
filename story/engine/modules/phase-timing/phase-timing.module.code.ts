@@ -86,6 +86,10 @@ export function madeAtOf(id: unknown): number | null {
   return Number.isFinite(stamp) ? stamp : null
 }
 
+function ofThisTurn(one: PhaseRow, run: string, madeAt: number | null): boolean {
+  return one.runId === run && (madeAt === null || msOf(one.endedAt) >= madeAt)
+}
+
 export function startedAtOf(
   rows: readonly PhaseRow[],
   run: string,
@@ -94,7 +98,7 @@ export function startedAtOf(
 ): number | null {
   let found: number | null = null
   for (const one of rows) {
-    if (one.runId !== run || one.phase === phase || one.phase === PLAYER) continue
+    if (!ofThisTurn(one, run, madeAt) || one.phase === phase || one.phase === PLAYER) continue
     const ended = msOf(one.endedAt)
     if (found === null || ended > found) found = ended
   }
