@@ -7,7 +7,7 @@ export const ncisSeason14 = {
   title: "NCIS Season 14",
   partOfCollections: ["show/ncis"],
   position: 14,
-  ownLength: 1015.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const ncisSeason14 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:34:00.289Z",
 } as const satisfies Season
