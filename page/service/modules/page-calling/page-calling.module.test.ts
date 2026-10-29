@@ -131,6 +131,15 @@ test("the origin is read from the environment before anything else", () => {
   delete process.env.PAGES_SERVICE_ORIGIN
 })
 
+test("a question a test run asks naming no service is read from the checkout", async () => {
+  const was = process.env.AKASHA_TESTS_RUNNING
+  process.env.AKASHA_TESTS_RUNNING = "1"
+  const said = await askingFor({ pageTypeSlug: "role", keys: ["slug"] })
+  if (was === undefined) delete process.env.AKASHA_TESTS_RUNNING
+  else process.env.AKASHA_TESTS_RUNNING = was
+  expect("rows" in said && said.rows.length > 0).toBe(true)
+})
+
 test("rows the service answers are carried back", async () => {
   process.env.PAGES_SERVICE_ORIGIN = "http://held.invalid:8787"
   const said = await askingFor(
