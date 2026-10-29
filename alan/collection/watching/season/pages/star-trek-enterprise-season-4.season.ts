@@ -7,7 +7,7 @@ export const starTrekEnterpriseSeason4 = {
   title: "Star Trek: Enterprise Season 4",
   partOfCollections: ["show/star-trek-enterprise"],
   position: 4,
-  ownLength: 946.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -20,5 +20,5 @@ export const starTrekEnterpriseSeason4 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.965Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:41:32.079Z",
 } as const satisfies Season
