@@ -6,10 +6,15 @@ import { chapterStory } from "akasha/story/chapter/properties/chapter-story.rela
 import { player } from "akasha/story/chapter/step-status/pages/player.step-status.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 
-type Held = { readonly totalLengthInWords?: number; readonly stepStatus?: string }
+type Held = {
+  readonly totalLengthInWords?: number
+  readonly stepStatus?: string
+  readonly status?: string
+}
 
 const PARTED = "/"
 const PUBLISHED = `${stepStatus.slug}${PARTED}${player.slug}`
+const ARCHIVED = "archived"
 
 export const work: Work<Collection, PartsLengthInWords> = (_page, reach) => {
   const parts = new Set([
@@ -19,6 +24,7 @@ export const work: Work<Collection, PartsLengthInWords> = (_page, reach) => {
   let total = 0
   for (const one of parts) {
     if (one.stepStatus !== undefined && one.stepStatus !== PUBLISHED) continue
+    if (one.status === ARCHIVED) continue
     total += one.totalLengthInWords ?? 0
   }
   return total

@@ -8,7 +8,13 @@ export const ownProgressInWords = {
   definition: "how much of the collection itself has been worked through, counted in words",
   holds: "number",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A collection completed states its whole length as its own progress.",
+    },
+  ],
   types: "ts",
   createdAt: "2026-09-05T15:31:05.701Z",
-  updatedAt: "2026-09-15T16:29:06.000Z",
+  updatedAt: "2026-10-29T19:19:47.279Z",
 } as const satisfies ComputedProperty

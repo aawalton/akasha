@@ -35,8 +35,16 @@ export const partsProgressInWords = {
       decisionKind: "decision-kind/departure",
       statement: "A part stating no total of its own counts as nought rather than refusing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A part completed counts its whole length as progress.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A part archived counts nothing toward progress.",
+    },
   ],
   types: "ts",
   createdAt: "2026-09-03T22:17:54.599Z",
-  updatedAt: "2026-10-02T20:23:40.000Z",
+  updatedAt: "2026-10-29T19:19:47.279Z",
 } as const satisfies ComputedProperty
