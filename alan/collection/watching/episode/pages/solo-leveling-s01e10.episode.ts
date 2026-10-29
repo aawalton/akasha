@@ -7,11 +7,11 @@ export const soloLevelingS01e10 = {
   description:
     "Jinwoo survives tragedy once again, but Woo Jinchul warns him that Hwang Dongsoo, an S-Rank hunter, may be after his life. Determined to grow stronger, Jinwoo teams up with Jinho to raid a succession of C-Rank dungeons, but they attract attention...",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 10,
   publishedAt: "2024-03-17",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e10 = {
   stillPath: "/sFOZjW7SZ3cSSTx6agbALwNdSc9.jpg",
   voteAverage: 8.1,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:41.765Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:41.765Z",
 } as const satisfies Episode
