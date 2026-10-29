@@ -14,7 +14,8 @@ export const caprica = {
   publishedAt: "2010-01-23",
   externalIdentity: [
     { source: "trakt", externalLink: "https://trakt.tv/shows/caprica", lastSyncedAt: "2025-10-01" },
+    { source: "tmdb", externalId: "877", externalLink: "https://www.themoviedb.org/tv/877" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:25:16.463Z",
 } as const satisfies Show
