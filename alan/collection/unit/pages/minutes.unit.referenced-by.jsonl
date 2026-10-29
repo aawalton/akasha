@@ -1893,6 +1893,8 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/black-mirror-s07e04.episode.ts","id":"01a18843-982f-7185-a6f8-94965239e1a9"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/black-mirror-s07e05.episode.ts","id":"01a18843-982f-7494-86a6-ac0695ca03b9"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/black-mirror-s07e06.episode.ts","id":"01a18843-9830-7cda-9282-fd693fd488aa"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/blackbeard-s01e01.episode.ts","id":"01a18843-a12b-7c29-9250-8a58858706b5"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/blackbeard-s01e02.episode.ts","id":"01a18843-a12b-745d-aca1-5682dc934479"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bleach-s01e01.episode.ts","id":"01a183d3-f46c-72fb-9bd9-8abf49c8076c"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bleach-s01e02.episode.ts","id":"01a183d3-f46c-7c59-aa31-311b80947daf"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/bleach-s01e03.episode.ts","id":"01a183d3-f46c-773c-88d6-d51c517a30ba"}
@@ -10102,6 +10104,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/black-mirror-season-6.season.ts","id":"01a06802-b8b8-7008-b02e-4e6a5b855716"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/black-mirror-season-7.season.ts","id":"01a06802-b8b8-7009-ae27-6123826030e7"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/black-mirror-specials.season.ts","id":"01a06802-b8b8-700a-906e-824c6684127e"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/blackbeard-season-1.season.ts","id":"01a18843-a12b-7ec5-849a-b740f6f63448"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/bleach-season-1.season.ts","id":"01a183d3-f485-7aaa-a2e8-037280dddfc9"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/bleach-season-2.season.ts","id":"01a183d3-f485-7865-a471-efcb052ee63a"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/bluey-season-1.season.ts","id":"01a06802-b8b8-700b-9cb3-d04def56591f"}
