@@ -20,12 +20,30 @@ export const landslide = {
   skillType: "temper-skill-type/passive",
   hashPlace: 725,
   createdAt: "2026-05-28T16:03:32.922Z",
-  updatedAt: "2026-10-28T21:33:14.554Z",
+  updatedAt: "2026-10-29T20:50:35.740Z",
   equations: [
     "<<1>> = Landslide (Constant)",
     "<<2>> = 1% (Constant)",
     "<<3>> = 12 (Constant)",
     "<<4>> = 5 seconds (Constant)",
     "<<5>> = 6 seconds (Constant)",
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Fight 194 gives 1,706 at stack 1, 1,754 at 3 and 1,803 at 5.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At power 3,571 the same bucket gives 2,092 at 7 and 2,119 at 8.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bucket of 2.34 makes a stack 0.0337, not the sheet's 0.01.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The buff is ability 29465 and its stack is field 6 of an effect line.",
+    },
   ],
 } as const satisfies TemperSkill
