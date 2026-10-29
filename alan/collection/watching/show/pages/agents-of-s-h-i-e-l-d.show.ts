@@ -18,7 +18,8 @@ export const agentsOfSHIELD = {
       externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "1403", externalLink: "https://www.themoviedb.org/tv/1403" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:28:25.595Z",
 } as const satisfies Show

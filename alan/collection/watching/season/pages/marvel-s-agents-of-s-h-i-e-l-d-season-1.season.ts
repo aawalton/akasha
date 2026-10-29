@@ -7,8 +7,8 @@ export const marvelSAgentsOfSHIELDSeason1 = {
   title: "Marvel's Agents of S.H.I.E.L.D. Season 1",
   partOfCollections: ["show/agents-of-s-h-i-e-l-d"],
   position: 1,
-  ownLength: 952.2,
-  ownProgress: 952.2,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-09-25",
@@ -21,5 +21,6 @@ export const marvelSAgentsOfSHIELDSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:28:25.595Z",
+  progressedAt: "2026-10-29T16:28:25.595Z",
 } as const satisfies Season
