@@ -9,8 +9,9 @@ export const heartyVitality = {
   description:
     "You feel full of life!\n\nMax Health increased by |cffffff6|r% per stack.\n\nCurrent Bonus: |cffffff12|r%",
   esoAbilityId: 197652,
+  effects: "jsonl",
   createdAt: "2026-10-29T17:35:00.000Z",
-  updatedAt: "2026-10-29T17:56:49.919Z",
+  updatedAt: "2026-10-29T18:37:01.094Z",
   decisions: [
     {
       decisionKind: "decision-kind/gap",
@@ -37,7 +38,8 @@ export const heartyVitality = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The health formula waits on a verified test case rather than this arithmetic.",
+      statement:
+        "The 1- and 2-stack readings hold the health on both bars, and this effect reproduces them.",
     },
   ],
 } as const satisfies TemperVision
