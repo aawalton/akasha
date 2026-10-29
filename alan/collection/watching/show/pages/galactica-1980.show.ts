@@ -18,7 +18,8 @@ export const galactica1980 = {
       externalLink: "https://trakt.tv/shows/galactica-1980",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "4621", externalLink: "https://www.themoviedb.org/tv/4621" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:30:43.309Z",
 } as const satisfies Show

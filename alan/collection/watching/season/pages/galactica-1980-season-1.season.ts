@@ -7,7 +7,7 @@ export const galactica1980Season1 = {
   title: "Galactica 1980 Season 1",
   partOfCollections: ["show/galactica-1980"],
   position: 1,
-  ownLength: 490.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const galactica1980Season1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:30:43.309Z",
 } as const satisfies Season
