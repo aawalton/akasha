@@ -189,7 +189,11 @@ export const giftedRebornNala = {
       fact: "Her Path of Basic Numeracy reached Tier 2, and her window showed Mental +1 again.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
     },
+    {
+      fact: "Her Path of Basic Numeracy reached Tier 3, and her window showed Mental +1 again.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-reborn-nala"],
+    },
   ],
   createdAt: "2026-10-27T19:43:14.106Z",
-  updatedAt: "2026-10-28T15:44:35.552Z",
+  updatedAt: "2026-10-29T20:07:27.662Z",
 } as const satisfies Lore
