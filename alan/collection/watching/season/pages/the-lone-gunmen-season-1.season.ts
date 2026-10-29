@@ -7,8 +7,8 @@ export const theLoneGunmenSeason1 = {
   title: "The Lone Gunmen Season 1",
   partOfCollections: ["show/the-lone-gunmen-2001"],
   position: 1,
-  ownLength: 585,
-  ownProgress: 585,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2001-03-05",
@@ -21,5 +21,6 @@ export const theLoneGunmenSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.967Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:31:07.198Z",
+  progressedAt: "2026-10-29T16:31:07.198Z",
 } as const satisfies Season
