@@ -210,6 +210,35 @@ export function phaseTimed(root: string, ended: Ended, agentId: string | null): 
   return undefined
 }
 
+export type Swept = {
+  readonly path: string
+  readonly content: string
+}
+
+export function sweptAt(root: string, page: string, run: string): readonly Swept[] {
+  const swept: Swept[] = []
+  for (const at of partsIn(root, page, ENTRIES)) {
+    const text = readFileSync(join(root, at), "utf8")
+    const kept = text.split("\n").filter((line) => {
+      const one = line.trim() === "" ? null : rowIn(line)
+      return one === null || one.runId !== run || one.phase === PLAYER
+    })
+    const content = kept.join("\n")
+    if (content !== text) swept.push({ path: at, content })
+  }
+  return swept
+}
+
+export function sweptBeside(root: string, game: string, run: string): readonly Swept[] {
+  try {
+    const story = TIMED_STORIES.flatMap((type) => listedAt(root, type, game))[0]
+    if (story === undefined) return []
+    return sweptAt(root, story.path, run)
+  } catch {
+    return []
+  }
+}
+
 export function phaseRowsIn(root: string, pageTypes: readonly string[]): readonly PhaseRow[] {
   return pageTypes.flatMap((type) =>
     everyOfType(root, type).flatMap((one) => rowsAt(root, one.path))
