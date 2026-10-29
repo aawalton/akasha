@@ -78,19 +78,19 @@ const WITS = namedAs("metric-character-stat", testStoryPlayerWits.slug, null)
 
 test("a skill's attribute is named by what its slug adds to its holder's", () => {
   const row = { values: { character: HOLDER, attribute: WITS } }
-  expect(attributeOf(row, new Map())).toBe("WITS")
+  expect(attributeOf(row, new Map())).toBe("Wits")
 })
 
 test("a skill's attribute page stating a title is named by that title", () => {
   const row = { values: { character: HOLDER, attribute: WITS } }
-  expect(attributeOf(row, new Map([[WITS, "Cunning"]]))).toBe("CUNNING")
+  expect(attributeOf(row, new Map([[WITS, "Cunning"]]))).toBe("Cunning")
 })
 
 test("a holding states its experience and attribute, and a bare one states neither", () => {
   const more = skillMoreOf(new Map())
   expect(more({ values: { character: HOLDER, attribute: WITS, experience: 12 } })).toEqual({
     experience: 12,
-    attribute: "WITS",
+    attribute: "Wits",
   })
   expect(more({ values: { character: HOLDER } })).toEqual({})
 })

@@ -15,11 +15,11 @@ export const playedSheetRows = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An attribute is named by its page type's slug in capitals, less the opening the level's slug has.",
+        "An attribute is named by its page type's slug less the opening the level's slug has.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An attribute page stating a title is named by it, in capitals.",
+      statement: "An attribute page stating a title is named by that title.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -28,7 +28,11 @@ export const playedSheetRows = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A resource is named by its page type's slug less its story's opening, in capitals.",
+        "A name taken from a slug is drawn in title case, and a title is drawn as the world states it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A resource is named by its page type's slug less its story's opening.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -37,7 +41,7 @@ export const playedSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A resource page stating a title is named by it, in capitals.",
+      statement: "A resource page stating a title is named by that title.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -136,5 +140,5 @@ export const playedSheetRows = {
     },
   ],
   createdAt: "2026-09-26T15:55:55.944Z",
-  updatedAt: "2026-10-27T18:54:07.690Z",
+  updatedAt: "2026-10-29T14:51:50.718Z",
 } as const satisfies Module

@@ -16,6 +16,7 @@ import {
   kindOf,
   ownNameOf,
   type Skill,
+  titleCasedOf,
 } from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
 
 export const EXPERIENCE_KEY = "experience"
@@ -109,7 +110,7 @@ export function attributeOf(
   const title = titles.get(`${type}${PARTED}${address.slug}`)
   const named = { values: { ...row.values, title, slug: address.slug } }
   const kind = genericKindOf(type) ?? kindOf(type, textIn(row.values[CHARACTER_KEY]))
-  return (ownNameOf(named) ?? kind).toUpperCase()
+  return ownNameOf(named) ?? titleCasedOf(kind)
 }
 
 function heldAddressOf(row: QueryRow): string | undefined {

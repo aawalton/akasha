@@ -58,12 +58,12 @@ test("the level is the metric whose type ends in level, and the rest are named w
     { values: { type: "tower-finesse", value: 15 } },
     { values: { type: "tower-luck", value: "11" } },
   ]
-  expect(scoresIn(rows)).toEqual({ level: 2, attributes: { FINESSE: 15, MIGHT: 12 } })
+  expect(scoresIn(rows)).toEqual({ level: 2, attributes: { Finesse: 15, Might: 12 } })
 })
 
 test("a character with no level has every metric named by its whole slug", () => {
   expect(scoresIn([{ values: { type: "otherwhere-strength", value: 3 } }])).toEqual({
-    attributes: { "OTHERWHERE-STRENGTH": 3 },
+    attributes: { "Otherwhere Strength": 3 },
   })
 })
 
@@ -77,7 +77,7 @@ test("pages sharing one type are named by what each slug adds to the character's
   ]
   expect(scoresIn(rows)).toEqual({
     level: 2,
-    attributes: { DEXTERITY: 10, "KEEN EYE": 4, STRENGTH: 8 },
+    attributes: { Dexterity: 10, "Keen Eye": 4, Strength: 8 },
   })
 })
 
@@ -109,13 +109,13 @@ test("attributes stating a display order come first in that order, and the rest 
     },
   ]
   expect(Object.keys(scoresIn(rows).attributes)).toEqual([
-    "STRENGTH",
-    "TOUGHNESS",
-    "GRACE",
-    "WITS",
-    "HEART",
-    "CHARM",
-    "LUCK",
+    "Strength",
+    "Toughness",
+    "Grace",
+    "Wits",
+    "Heart",
+    "Charm",
+    "Luck",
   ])
 })
 
@@ -135,7 +135,7 @@ test("a resource is named by its kind, by what its slug adds, or by its title, a
     { values: { type: "some-purse", value: 3, title: "Coin", slug: "x", character: holder } },
     { values: { type: "some-mana", character: holder } },
   ]
-  expect(resourcesIn(rows)).toEqual({ COIN: 3, HEALTH: "40 / 45", "WIND RESERVE": 19 })
+  expect(resourcesIn(rows)).toEqual({ Coin: 3, Health: "40 / 45", "Wind Reserve": 19 })
 })
 
 test("a resource the story gave only in words is shown as those words, never its numbers", () => {
@@ -152,7 +152,7 @@ test("a resource the story gave only in words is shown as those words, never its
     },
     { values: { type: "some-mana", value: 7, maxValue: 9, revealedAs: " ", character: holder } },
   ]
-  expect(resourcesIn(rows)).toEqual({ HEALTH: "hale", MANA: "7 / 9" })
+  expect(resourcesIn(rows)).toEqual({ Health: "hale", Mana: "7 / 9" })
 })
 
 test("resources stating a display order come first in that order, and the rest by name", () => {
@@ -165,11 +165,11 @@ test("resources stating a display order come first in that order, and the rest b
     { values: { type: "some-mana", value: 4, displayOrder: 2, character: holder } },
   ]
   expect(Object.keys(resourcesIn(rows))).toEqual([
-    "HEALTH",
-    "MANA",
-    "STAMINA",
-    "EARTH RESERVE",
-    "WIND RESERVE",
+    "Health",
+    "Mana",
+    "Stamina",
+    "Earth Reserve",
+    "Wind Reserve",
   ])
 })
 
@@ -179,7 +179,7 @@ test("a generic kind is named by what its slug adds past the generic opening, or
     { values: { type: "metric-character-health", value: 9, maxValue: 10, character: holder } },
     { values: { type: "metric-character-mana", value: 3, title: "MP", character: holder } },
   ]
-  expect(resourcesIn(resources)).toEqual({ HEALTH: "9 / 10", MP: 3 })
+  expect(resourcesIn(resources)).toEqual({ Health: "9 / 10", MP: 3 })
   const scores = [
     { values: { type: "metric-character-level", value: 4, slug: "some-nala", character: holder } },
     {
@@ -193,7 +193,7 @@ test("a generic kind is named by what its slug adds past the generic opening, or
     { values: { type: "metric-character-notice", value: 1, slug: "some-nala", character: holder } },
     { values: { type: "some-tier", value: 2, slug: "some-nala", character: holder } },
   ]
-  expect(scoresIn(scores)).toEqual({ level: 4, attributes: { GRIT: 8, NOTICE: 1, TIER: 2 } })
+  expect(scoresIn(scores)).toEqual({ level: 4, attributes: { Grit: 8, Notice: 1, Tier: 2 } })
 })
 
 test("experience is read apart from the resources, with its most and its words", () => {
@@ -220,7 +220,7 @@ test("experience is read apart from the resources, with its most and its words",
       },
     },
   ]
-  expect(resourcesIn(rows)).toEqual({ HEALTH: "9 / 10" })
+  expect(resourcesIn(rows)).toEqual({ Health: "9 / 10" })
   expect(experienceIn(rows)).toEqual([
     { name: "Race XP", value: 4, words: "almost" },
     { value: 180, max: 300 },

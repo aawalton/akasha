@@ -108,6 +108,10 @@ const PARTED = "/"
 
 const JOIN = "-"
 
+export function titleCasedOf(slug: string): string {
+  return slug.replaceAll(JOIN, SPACE).replace(/\b\w/g, (one) => one.toUpperCase())
+}
+
 export function ownNameOf(row: QueryRow): string | null {
   const title = textIn(row.values[TITLE_KEY])
   if (title !== null && title !== "") return title
@@ -115,7 +119,9 @@ export function ownNameOf(row: QueryRow): string | null {
   const character = textIn(row.values[CHARACTER_KEY])
   if (slug === null || character === null) return null
   const holder = `${character.slice(character.lastIndexOf(PARTED) + 1)}${JOIN}`
-  return slug.startsWith(holder) && slug.length > holder.length ? slug.slice(holder.length) : null
+  const own =
+    slug.startsWith(holder) && slug.length > holder.length ? slug.slice(holder.length) : null
+  return own === null ? null : titleCasedOf(own)
 }
 
 const GENERIC_OPENING = "metric-character-"
@@ -148,13 +154,14 @@ export function scoresIn(rows: readonly QueryRow[]): Scores {
   const attributes = held
     .map(
       ([type, value, own, character, order]): Ordered<number> => ({
-        name: (
+        name:
           own ??
-          genericKindOf(type) ??
-          (opening !== "" && type.startsWith(opening)
-            ? type.slice(opening.length)
-            : kindOf(type, character))
-        ).toUpperCase(),
+          titleCasedOf(
+            genericKindOf(type) ??
+              (opening !== "" && type.startsWith(opening)
+                ? type.slice(opening.length)
+                : kindOf(type, character))
+          ),
         shown: value,
         order,
       })
@@ -181,10 +188,10 @@ export function kindOf(type: string, character: string | null): string {
 
 function resourceNameOf(row: QueryRow, type: string): string {
   const title = textIn(row.values[TITLE_KEY])
-  if (title !== null && title !== "") return title.toUpperCase()
+  if (title !== null && title !== "") return title
   const kind = genericKindOf(type) ?? kindOf(type, textIn(row.values[CHARACTER_KEY]))
   const own = ownNameOf(row)
-  return (own === null ? kind : `${own}${JOIN}${kind}`).replaceAll(JOIN, SPACE).toUpperCase()
+  return titleCasedOf(own === null ? kind : `${own}${JOIN}${kind}`)
 }
 
 const DISPLAY_ORDER_KEY = "displayOrder"
