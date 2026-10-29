@@ -7,11 +7,11 @@ export const frierenBeyondJourneySEnd2S02e08 = {
   description:
     "The Divine Revolte appears at the village, while Frieren, Fern, and Methode battle Solide and Hemmung.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/frieren-beyond-journey-s-end-season-2"],
   position: 8,
   publishedAt: "2026-03-13",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const frierenBeyondJourneySEnd2S02e08 = {
   stillPath: "/sAWooNnmHju9d2CVCpQQTRlSUyt.jpg",
   voteAverage: 9.2,
   createdAt: "2026-10-29T15:14:06.932Z",
-  updatedAt: "2026-10-29T15:14:06.932Z",
+  updatedAt: "2026-10-29T18:20:21.410Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T18:20:21.410Z",
 } as const satisfies Episode
