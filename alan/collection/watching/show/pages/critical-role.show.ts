@@ -18,7 +18,8 @@ export const criticalRole = {
       externalLink: "https://trakt.tv/shows/critical-role",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "254002", externalLink: "https://www.themoviedb.org/tv/254002" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:26:56.472Z",
 } as const satisfies Show

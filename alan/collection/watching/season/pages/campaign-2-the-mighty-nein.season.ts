@@ -7,7 +7,7 @@ export const campaign2TheMightyNein = {
   title: "Campaign 2: The Mighty Nein",
   partOfCollections: ["show/critical-role"],
   position: 2,
-  ownLength: 33973.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const campaign2TheMightyNein = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.960Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:26:56.472Z",
 } as const satisfies Season
