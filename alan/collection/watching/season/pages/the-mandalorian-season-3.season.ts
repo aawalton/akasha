@@ -7,7 +7,7 @@ export const theMandalorianSeason3 = {
   title: "The Mandalorian Season 3",
   partOfCollections: ["show/the-mandalorian"],
   position: 3,
-  ownLength: 349.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const theMandalorianSeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.967Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:46:37.224Z",
 } as const satisfies Season
