@@ -7,11 +7,11 @@ export const soloLevelingS01e23 = {
   description:
     "As the S-Rank hunters continue fighting, they're confronted by a new magic beast resembling a humanoid ant.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 23,
   publishedAt: "2025-03-16",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e23 = {
   stillPath: "/dmABjDkzyMmj7PVHbv6lrOzVVCV.jpg",
   voteAverage: 8.8,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:34:22.909Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:34:22.909Z",
 } as const satisfies Episode
