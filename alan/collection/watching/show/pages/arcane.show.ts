@@ -15,7 +15,8 @@ export const arcane = {
   publishedAt: "2021-11-06",
   externalIdentity: [
     { source: "trakt", externalLink: "https://trakt.tv/shows/arcane", lastSyncedAt: "2026-01-03" },
+    { source: "tmdb", externalId: "94605", externalLink: "https://www.themoviedb.org/tv/94605" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:28:32.165Z",
 } as const satisfies Show

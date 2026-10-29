@@ -7,8 +7,8 @@ export const arcaneSeason1 = {
   title: "Arcane Season 1",
   partOfCollections: ["show/arcane"],
   position: 1,
-  ownLength: 379.2,
-  ownProgress: 379.2,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "A",
@@ -21,5 +21,6 @@ export const arcaneSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.959Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:28:32.165Z",
+  progressedAt: "2026-10-29T16:28:32.165Z",
 } as const satisfies Season
