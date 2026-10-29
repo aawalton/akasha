@@ -7,7 +7,7 @@ export const duneProphecySeason1 = {
   title: "Dune: Prophecy Season 1",
   partOfCollections: ["show/dune-prophecy"],
   position: 1,
-  ownLength: 393,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const duneProphecySeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.961Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:29:42.725Z",
 } as const satisfies Season
