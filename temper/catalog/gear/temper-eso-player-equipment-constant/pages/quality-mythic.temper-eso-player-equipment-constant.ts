@@ -8,8 +8,8 @@ export const qualityMythic = {
   key: "quality:mythic",
   constantFamily: "quality",
   constantId: "mythic",
-  esoNum: 5,
+  esoNum: 6,
   displayOrder: 5,
   createdAt: "2026-09-02T01:58:57.729Z",
-  updatedAt: "2026-09-21T15:28:58.000Z",
+  updatedAt: "2026-10-29T15:22:41.120Z",
 } as const satisfies TemperEsoPlayerEquipmentConstant
