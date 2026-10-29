@@ -18,7 +18,8 @@ export const ncisSydney = {
       externalLink: "https://trakt.tv/shows/ncis-sydney",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "157950", externalLink: "https://www.themoviedb.org/tv/157950" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:33:25.376Z",
 } as const satisfies Show
