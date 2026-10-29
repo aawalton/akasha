@@ -19,7 +19,8 @@ export const rwbyFairyTales = {
       externalLink: "https://trakt.tv/shows/rwby-fairy-tales",
       lastSyncedAt: "2025-10-13",
     },
+    { source: "tmdb", externalId: "137654", externalLink: "https://www.themoviedb.org/tv/137654" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:40:19.032Z",
 } as const satisfies Show
