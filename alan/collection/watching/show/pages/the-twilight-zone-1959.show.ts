@@ -19,7 +19,8 @@ export const theTwilightZone1959 = {
       externalLink: "https://trakt.tv/shows/the-twilight-zone-1959",
       lastSyncedAt: "2025-10-30",
     },
+    { source: "tmdb", externalId: "6357", externalLink: "https://www.themoviedb.org/tv/6357" },
   ],
   createdAt: "2026-09-03T16:03:14.355Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:47:33.325Z",
 } as const satisfies Show
