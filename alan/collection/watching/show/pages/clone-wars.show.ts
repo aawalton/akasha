@@ -18,7 +18,8 @@ export const cloneWars = {
       externalLink: "https://trakt.tv/shows/star-wars-clone-wars",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "4194", externalLink: "https://www.themoviedb.org/tv/4194" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:25:45.098Z",
 } as const satisfies Show

@@ -7,7 +7,7 @@ export const starWarsCloneWarsSeason1 = {
   title: "Star Wars: Clone Wars Season 1",
   partOfCollections: ["show/clone-wars"],
   position: 1,
-  ownLength: 30,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const starWarsCloneWarsSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.965Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:25:45.098Z",
 } as const satisfies Season

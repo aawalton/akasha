@@ -1,0 +1,29 @@
+import type { Episode } from "akasha/alan/collection/watching/episode/episode.page-type.types.ts"
+
+export const cloneWarsS04e04 = {
+  id: "01a18844-610f-7f8c-8806-df52c6cf320e",
+  type: "page-type/episode",
+  slug: "clone-wars-s04e04",
+  description:
+    "When the leader of the Gungans, Boss Lyonie, is injured it's discovered there is an uncanny resemblance between the Boss and Jar Jar Binks. Binks must sway his people from rising against the Naboo and stopping a Separatist invasion led by General Grievous.",
+  ownLength: 22,
+  ownProgress: 0,
+  partOfCollections: ["season/clone-wars-season-4"],
+  position: 4,
+  publishedAt: "2011-09-30",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "286670",
+      externalLink: "https://www.themoviedb.org/tv/4194/season/4/episode/4",
+    },
+  ],
+  title: "Shadow Warrior",
+  episodeType: "standard",
+  stillPath: "/sDTdgtOh3vLFm9hYyyG6GYK5R4z.jpg",
+  voteAverage: 7.2,
+  createdAt: "2026-10-29T15:25:45.098Z",
+  updatedAt: "2026-10-29T15:25:45.098Z",
+} as const satisfies Episode
