@@ -7,8 +7,8 @@ export const girlsGutsGlorySeason2 = {
   title: "Girls Guts Glory Season 2",
   partOfCollections: ["show/girls-guts-glory"],
   position: 2,
-  ownLength: 420,
-  ownProgress: 420,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2017-09-19",
@@ -21,5 +21,6 @@ export const girlsGutsGlorySeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:29:21.013Z",
+  progressedAt: "2026-10-29T16:29:21.013Z",
 } as const satisfies Season
