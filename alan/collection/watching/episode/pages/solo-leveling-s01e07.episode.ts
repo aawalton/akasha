@@ -7,11 +7,11 @@ export const soloLevelingS01e07 = {
   description:
     "As Jinwoo continues his training, he completes a daily quest one day by doing more than the quest requires, and a key that leads to a certain item appears in front of him.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 7,
   publishedAt: "2024-02-18",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e07 = {
   stillPath: "/kWm0ksvgMnjqjI3TmPZ9ZQiry30.jpg",
   voteAverage: 8.1,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:32.991Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:32.991Z",
 } as const satisfies Episode
