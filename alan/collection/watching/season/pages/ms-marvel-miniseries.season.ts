@@ -7,8 +7,8 @@ export const msMarvelMiniseries = {
   title: "Ms. Marvel Miniseries",
   partOfCollections: ["show/ms-marvel"],
   position: 1,
-  ownLength: 289.2,
-  ownProgress: 289.2,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-06-08",
@@ -21,5 +21,6 @@ export const msMarvelMiniseries = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:29:39.421Z",
+  progressedAt: "2026-10-29T16:29:39.421Z",
 } as const satisfies Season
