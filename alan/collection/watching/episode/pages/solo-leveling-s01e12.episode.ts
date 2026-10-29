@@ -7,11 +7,11 @@ export const soloLevelingS01e12 = {
   description:
     "Drained from endless battle, Jinwoo sees a phantom of his past self. To overcome his own past as the Weakest Hunter of All Mankind, he struggles to find a way to clear the job-change quest.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 12,
   publishedAt: "2024-03-31",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e12 = {
   stillPath: "/8WNsU7GLSsXcCAxa5th5nkWeO6W.jpg",
   voteAverage: 8.8,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:47.926Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:47.926Z",
 } as const satisfies Episode
