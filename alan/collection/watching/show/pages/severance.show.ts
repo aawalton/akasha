@@ -19,7 +19,8 @@ export const severance = {
       externalLink: "https://trakt.tv/shows/severance",
       lastSyncedAt: "2026-01-03",
     },
+    { source: "tmdb", externalId: "95396", externalLink: "https://www.themoviedb.org/tv/95396" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:40:24.898Z",
 } as const satisfies Show
