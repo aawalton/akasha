@@ -7,7 +7,7 @@ export const warehouse13Season5 = {
   title: "Warehouse 13 Season 5",
   partOfCollections: ["show/warehouse-13"],
   position: 5,
-  ownLength: 258,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const warehouse13Season5 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.968Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:48:51.438Z",
 } as const satisfies Season
