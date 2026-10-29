@@ -1,0 +1,29 @@
+import type { Episode } from "akasha/alan/collection/watching/episode/episode.page-type.types.ts"
+
+export const theBigBangTheoryS02e14 = {
+  id: "01a18856-3fff-7655-b987-6c0d3faae081",
+  type: "page-type/episode",
+  slug: "the-big-bang-theory-s02e14",
+  description:
+    "Sheldon's solution to Penny's financial difficulty leads to a confrontation between Leonard and Penny's ex-boyfriend.",
+  ownLength: 21,
+  ownProgress: 0,
+  partOfCollections: ["season/the-big-bang-theory-season-2"],
+  position: 14,
+  publishedAt: "2009-02-02",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "64664",
+      externalLink: "https://www.themoviedb.org/tv/1418/season/2/episode/14",
+    },
+  ],
+  title: "The Financial Permeability",
+  episodeType: "standard",
+  stillPath: "/wC2YMYgyCnEixzO1ztYx1LUAndL.jpg",
+  voteAverage: 7.4,
+  createdAt: "2026-10-29T15:45:16.285Z",
+  updatedAt: "2026-10-29T15:45:16.285Z",
+} as const satisfies Episode

@@ -7,7 +7,7 @@ export const theBigBangTheorySeason10 = {
   title: "The Big Bang Theory Season 10",
   partOfCollections: ["show/the-big-bang-theory"],
   position: 10,
-  ownLength: 469.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const theBigBangTheorySeason10 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.966Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:45:16.285Z",
 } as const satisfies Season
