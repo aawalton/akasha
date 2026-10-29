@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg000909ElementsAndSystemExploration = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-29T09:24:47.800Z",
+  ownProgress: 2994,
+  progressedAt: "2026-10-29T09:24:47.800Z",
 } as const satisfies StoryChapterRead
