@@ -18,7 +18,8 @@ export const talesOfTheTardis = {
       externalLink: "https://trakt.tv/shows/tales-of-the-tardis",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "238486", externalLink: "https://www.themoviedb.org/tv/238486" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:44:49.285Z",
 } as const satisfies Show
