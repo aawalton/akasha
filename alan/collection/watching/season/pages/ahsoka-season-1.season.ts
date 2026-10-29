@@ -7,7 +7,7 @@ export const ahsokaSeason1 = {
   title: "Ahsoka Season 1",
   partOfCollections: ["show/ahsoka"],
   position: 1,
-  ownLength: 375,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const ahsokaSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.959Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:24:17.663Z",
 } as const satisfies Season
