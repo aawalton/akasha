@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg001111Meeting = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-29T22:25:54.161Z",
+  ownProgress: 3469,
+  progressedAt: "2026-10-29T22:25:54.161Z",
 } as const satisfies StoryChapterRead

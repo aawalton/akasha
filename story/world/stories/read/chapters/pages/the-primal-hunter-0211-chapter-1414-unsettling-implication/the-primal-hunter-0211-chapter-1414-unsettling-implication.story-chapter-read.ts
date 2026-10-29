@@ -20,5 +20,7 @@ export const thePrimalHunter0211Chapter1414UnsettlingImplication = {
     },
   ],
   createdAt: "2026-10-29T17:21:39.485Z",
-  updatedAt: "2026-10-29T17:21:39.485Z",
+  updatedAt: "2026-10-29T22:25:54.161Z",
+  ownProgress: 2600,
+  progressedAt: "2026-10-29T22:25:54.161Z",
 } as const satisfies StoryChapterRead
