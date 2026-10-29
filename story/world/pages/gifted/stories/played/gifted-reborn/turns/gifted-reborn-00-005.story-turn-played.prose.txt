@@ -12,3 +12,8 @@ Take a pair, follow it round until it closes, name the loop, hold the length, th
 The numbers start to slip. A pair goes missing from your hold, then another, and the loops run together in the dark. Somewhere in the middle of a modulus, you sleep.
 
 You wake, and the dark is the same dark. You take up the tables where you left them, at the pair you lost. The moduli come easier this time. A pair that took a long holding to run now closes quickly, and its loop sits where it belongs among the others.
+
+:::status-assessment
+name: Path of Basic Numeracy
+note: Tier: 4; Mental: +1
+:::
