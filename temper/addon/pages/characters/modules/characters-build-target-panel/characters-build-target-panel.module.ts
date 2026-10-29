@@ -18,7 +18,11 @@ export const charactersBuildTargetPanel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "With too little room there, it sits at the screen's left edge, level with that window.",
+        "The panel narrows to the room beside that window and wraps its lines to fit, never covering it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where even the narrowed panel will not fit, it sits at the screen's left edge.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -63,5 +67,5 @@ export const charactersBuildTargetPanel = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-10-29T14:38:48.544Z",
+  updatedAt: "2026-10-29T14:41:01.658Z",
 } as const satisfies Module

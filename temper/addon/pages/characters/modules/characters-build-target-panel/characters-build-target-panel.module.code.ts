@@ -147,6 +147,11 @@ function besideTarget(): Control | undefined {
   return last
 }
 
+function besideRoom(): number | undefined {
+  const beside = besideTarget()
+  return beside === undefined ? undefined : beside.GetLeft() - PANEL_GAP * 2
+}
+
 function placeBeside(window: TopLevelWindow): undefined {
   window.ClearAnchors()
   const beside = besideTarget()
@@ -177,31 +182,13 @@ function showUnmet(label: LabelControl, text: string): undefined {
   return undefined
 }
 
-function refreshTargetPanel(this: void): undefined {
-  if (held === undefined) return undefined
-  const panel = held
-  for (const line of panel.lines) line.SetHidden(true)
-  const target = currentCharacterTarget()
-  if (target === undefined) {
-    panel.window.SetHidden(true)
-    return undefined
-  }
-  panel.title.SetText(`Target Build — ${target.title}`)
-  const sections = checklistOf(target)
-  const applying = toApply(sections)
-  let widest = math.max(MIN_WIDTH, panel.title.GetTextWidth())
-  let top = placeAt(panel.title, panel, PADDING, 0) + HEADER_GAP
-  panel.apply.SetHidden(applying.length === 0)
-  if (applying.length > 0) {
-    setButtonText(panel.apply, applyText(applying))
-    widest = math.max(widest, panel.apply.GetWidth())
-    top = placeAt(panel.apply, panel, top, 0) + HEADER_GAP
-  }
-  if (panel.said.GetText() !== "") {
-    placeAt(panel.said, panel, top, 0)
-    top += math.max(panel.said.GetHeight(), panel.said.GetTextHeight()) + HEADER_GAP
-    widest = math.max(widest, SAID_WIDTH)
-  }
+interface ShownRow {
+  readonly label: LabelControl
+  readonly indent: number
+}
+
+function showRows(panel: TargetPanel, sections: readonly ChecklistSection[]): readonly ShownRow[] {
+  const rows: ShownRow[] = []
   let used = 0
   for (const section of sections) {
     const label = panel.lines[used]
@@ -209,20 +196,80 @@ function refreshTargetPanel(this: void): undefined {
     used++
     const met = section.lines.filter((line) => line.met).length
     showHeading(label, section.title, met, section.lines.length)
-    top = placeAt(label, panel, top, 0)
-    widest = math.max(widest, label.GetTextWidth())
+    rows.push({ label, indent: 0 })
     for (const line of section.lines) {
       if (line.met) continue
       const row = panel.lines[used]
       if (row === undefined) break
       used++
       showUnmet(row, line.text)
-      top = placeAt(row, panel, top, INDENT)
-      widest = math.max(widest, row.GetTextWidth() + INDENT)
+      rows.push({ label: row, indent: INDENT })
+    }
+  }
+  return rows
+}
+
+function refreshTargetPanel(this: void): undefined {
+  if (held === undefined) return undefined
+  const panel = held
+  for (const line of panel.lines) {
+    line.SetHidden(true)
+    line.SetWidth(0)
+    line.SetHeight(LINE_HEIGHT)
+  }
+  const target = currentCharacterTarget()
+  if (target === undefined) {
+    panel.window.SetHidden(true)
+    return undefined
+  }
+  panel.title.SetWidth(0)
+  panel.title.SetText(`Target Build — ${target.title}`)
+  const sections = checklistOf(target)
+  const applying = toApply(sections)
+  panel.apply.SetHidden(applying.length === 0)
+  if (applying.length > 0) setButtonText(panel.apply, applyText(applying))
+  const rows = showRows(panel, sections)
+
+  let widest = math.max(MIN_WIDTH, panel.title.GetTextWidth())
+  if (applying.length > 0) widest = math.max(widest, panel.apply.GetWidth())
+  if (panel.said.GetText() !== "") widest = math.max(widest, SAID_WIDTH)
+  for (const row of rows) widest = math.max(widest, row.label.GetTextWidth() + row.indent)
+
+  const room = besideRoom()
+  let width = widest + PADDING * 2
+  if (room !== undefined && width > room) {
+    const inner = math.max(MIN_WIDTH, room - PADDING * 2)
+    panel.title.SetWidth(inner)
+    panel.said.SetWidth(math.min(SAID_WIDTH, inner))
+    for (const row of rows) {
+      row.label.SetWidth(math.max(MIN_WIDTH, inner - row.indent))
+      row.label.SetHeight(math.max(LINE_HEIGHT, row.label.GetTextHeight()))
+    }
+    width = math.max(room, applying.length > 0 ? panel.apply.GetWidth() + PADDING * 2 : 0)
+  }
+
+  let top = placeAt(panel.title, panel, PADDING, 0) + HEADER_GAP
+  if (applying.length > 0) top = placeAt(panel.apply, panel, top, 0) + HEADER_GAP
+  if (panel.said.GetText() !== "") {
+    placeAt(panel.said, panel, top, 0)
+    top += math.max(panel.said.GetHeight(), panel.said.GetTextHeight()) + HEADER_GAP
+  }
+  let at = 0
+  for (const section of sections) {
+    const heading = rows[at]
+    if (heading === undefined) break
+    at++
+    top = placeAt(heading.label, panel, top, heading.indent)
+    for (const line of section.lines) {
+      if (line.met) continue
+      const row = rows[at]
+      if (row === undefined) break
+      at++
+      top = placeAt(row.label, panel, top, row.indent)
     }
     top += SECTION_GAP
   }
-  panel.window.SetDimensions(widest + PADDING * 2, top - SECTION_GAP + PADDING)
+  panel.window.SetDimensions(width, top - SECTION_GAP + PADDING)
   placeBeside(panel.window)
   panel.window.SetHidden(!shownScene())
   return undefined
