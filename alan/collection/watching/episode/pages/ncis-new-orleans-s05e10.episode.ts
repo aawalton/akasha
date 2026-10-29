@@ -1,0 +1,29 @@
+import type { Episode } from "akasha/alan/collection/watching/episode/episode.page-type.types.ts"
+
+export const ncisNewOrleansS05e10 = {
+  id: "01a1884b-301c-777f-ac68-715971131a62",
+  type: "page-type/episode",
+  slug: "ncis-new-orleans-s05e10",
+  description:
+    "While on a sunrise jog, Pride is grabbed by two masked men who order him to complete a series of tasks in order to save Wade and his father, Cassius Pride, who are being held captive.",
+  ownLength: 45,
+  ownProgress: 0,
+  partOfCollections: ["season/ncis-new-orleans-season-5"],
+  position: 10,
+  publishedAt: "2018-12-11",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "1639389",
+      externalLink: "https://www.themoviedb.org/tv/61387/season/5/episode/10",
+    },
+  ],
+  title: "Tick Tock",
+  episodeType: "mid-season",
+  stillPath: "/lEET7yjJwrSUCeBx2ygQdriqMVl.jpg",
+  voteAverage: 8.7,
+  createdAt: "2026-10-29T15:33:11.316Z",
+  updatedAt: "2026-10-29T15:33:11.316Z",
+} as const satisfies Episode

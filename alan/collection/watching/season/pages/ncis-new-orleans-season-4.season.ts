@@ -7,7 +7,7 @@ export const ncisNewOrleansSeason4 = {
   title: "NCIS: New Orleans Season 4",
   partOfCollections: ["show/ncis-new-orleans"],
   position: 4,
-  ownLength: 1080,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const ncisNewOrleansSeason4 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:33:11.316Z",
 } as const satisfies Season
