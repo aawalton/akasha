@@ -344,6 +344,10 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A held checkout runs git with no maintenance of its own to lock it mid-switch.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A held checkout keeps the commit and what an install left, and nothing a run wrote.",
     },
@@ -362,6 +366,6 @@ export const clusterRunning = {
       statement: "A tree naming no commit of its own asks for every commit, however much it holds.",
     },
   ],
-  updatedAt: "2026-10-25T21:16:56.904Z",
+  updatedAt: "2026-10-29T10:47:29.518Z",
   createdAt: "2026-09-16T15:05:01.599Z",
 } as const satisfies Module

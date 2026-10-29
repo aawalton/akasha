@@ -106,6 +106,12 @@ test("a job takes the history's disk one fetch at a time, and lets it go before 
   expect(left).toBeLessThan(cloned)
 })
 
+test("a held checkout runs no git maintenance", () => {
+  const said = keptCheckout(COMMIT)
+  expect(said).toContain("git config maintenance.auto false")
+  expect(said).toContain("git config gc.auto 0")
+})
+
 test("a job's tree reads its objects from the history its disk keeps", () => {
   const said = scriptOf(COMMIT, null)
   expect(said).toContain("git clone -q --shared --no-checkout /mirror/akasha.git /app/repo")

@@ -169,6 +169,8 @@ export function keptCheckout(commit: string): readonly string[] {
     LEFT_LOCKS_CLEARED,
     `[ -d ${ORCHESTRATOR_CACHE_REPO_PATH}/.git ] || git init -q ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
+    "git config gc.auto 0",
+    "git config maintenance.auto false",
     `${named} 2>/dev/null || git remote add origin ${GIT_TRANSPORT_ORIGIN}`,
     fetchedWholeAgain(commit),
     `git switch -q --force --detach ${KEPT_HEAD}`,
