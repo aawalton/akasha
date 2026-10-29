@@ -7,11 +7,11 @@ export const soloLevelingS01e05 = {
   description:
     "Jinwoo joins a party led by Hwang Dongsuk to meet the headcount necessary for a C-Rank dungeon. Joined by another temporary hire, Yoo Jinho, the party defeats beasts without much trouble, but Jinwoo has suspicions about the group's lack of a healer.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 5,
   publishedAt: "2024-02-04",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e05 = {
   stillPath: "/tIWzK1uQrZz9ch0atwhOWur9cUd.jpg",
   voteAverage: 8,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:26.931Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:26.931Z",
 } as const satisfies Episode
