@@ -36,7 +36,7 @@ import { LINE_HEIGHT } from "akasha/temper/window/modules/window-rows/window-row
 
 const PANEL_NAME = "TemperCharactersTargetBuild"
 
-const BESIDE_NAME = "ZO_StatsPanel"
+const BESIDE_NAMES = ["ZO_Skills", "ZO_StatsPanel"]
 
 const SKILLS_SCENE_NAME = "skills"
 
@@ -136,11 +136,29 @@ function placeAt(control: Control, panel: TargetPanel, top: number, indent: numb
   return top + control.GetHeight()
 }
 
+function besideTarget(): Control | undefined {
+  let last: Control | undefined
+  for (const name of BESIDE_NAMES) {
+    const candidate = WINDOW_MANAGER.GetControlByName(name)
+    if (candidate === undefined) continue
+    if (!candidate.IsHidden()) return candidate
+    last = candidate
+  }
+  return last
+}
+
 function placeBeside(window: TopLevelWindow): undefined {
   window.ClearAnchors()
-  const beside = WINDOW_MANAGER.GetControlByName(BESIDE_NAME)
-  if (beside === undefined) window.SetAnchor(TOPRIGHT, GuiRoot, TOPRIGHT, -PANEL_GAP, PANEL_GAP)
-  else window.SetAnchor(TOPRIGHT, beside, TOPLEFT, -PANEL_GAP, 0)
+  const beside = besideTarget()
+  if (beside === undefined) {
+    window.SetAnchor(TOPRIGHT, GuiRoot, TOPRIGHT, -PANEL_GAP, PANEL_GAP)
+    return undefined
+  }
+  if (window.GetWidth() + PANEL_GAP * 2 <= beside.GetLeft()) {
+    window.SetAnchor(TOPRIGHT, beside, TOPLEFT, -PANEL_GAP, 0)
+    return undefined
+  }
+  window.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, PANEL_GAP, beside.GetTop())
   return undefined
 }
 

@@ -9,7 +9,16 @@ export const charactersBuildTargetPanel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The panel shows with the game's character and skills screens, left of the stats.",
+      statement: "The panel shows with the game's character and skills screens.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panel hangs left of the window showing it, skills before stats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "With too little room there, it sits at the screen's left edge, level with that window.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -54,5 +63,5 @@ export const charactersBuildTargetPanel = {
     },
   ],
   createdAt: "2026-10-28T19:54:38.440Z",
-  updatedAt: "2026-10-28T21:18:16.543Z",
+  updatedAt: "2026-10-29T14:38:48.544Z",
 } as const satisfies Module
