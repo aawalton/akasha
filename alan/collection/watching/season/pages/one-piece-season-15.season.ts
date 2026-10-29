@@ -7,7 +7,7 @@ export const onePieceSeason15 = {
   title: "One Piece Season 15",
   partOfCollections: ["show/one-piece"],
   position: 15,
-  ownLength: 1488,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -20,5 +20,5 @@ export const onePieceSeason15 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-10-28T21:27:44.915Z",
+  updatedAt: "2026-10-29T15:38:30.731Z",
 } as const satisfies Season
