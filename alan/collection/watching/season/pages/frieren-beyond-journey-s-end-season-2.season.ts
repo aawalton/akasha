@@ -10,7 +10,7 @@ export const frierenBeyondJourneySEndSeason2 = {
   ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
-  status: "not-started",
+  status: "in-progress",
   publishedAt: "2026-01-16",
   externalIdentity: [
     {
@@ -21,5 +21,5 @@ export const frierenBeyondJourneySEndSeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-10-29T15:14:06.932Z",
+  updatedAt: "2026-10-29T15:39:33.323Z",
 } as const satisfies Season

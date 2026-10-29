@@ -7,11 +7,11 @@ export const frierenBeyondJourneySEnd2S02e01 = {
   description:
     "Frieren, Fern, and Stark leave the magic city of Äußerst behind and travel along a road in the northern lands.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/frieren-beyond-journey-s-end-season-2"],
   position: 1,
   publishedAt: "2026-01-16",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const frierenBeyondJourneySEnd2S02e01 = {
   stillPath: "/a47oBhPll8SzPJaef1VzG0Yft91.jpg",
   voteAverage: 8,
   createdAt: "2026-10-29T15:14:06.932Z",
-  updatedAt: "2026-10-29T15:14:06.932Z",
+  updatedAt: "2026-10-29T15:39:33.323Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T15:39:33.323Z",
 } as const satisfies Episode
