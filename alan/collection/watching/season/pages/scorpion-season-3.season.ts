@@ -7,8 +7,8 @@ export const scorpionSeason3 = {
   title: "Scorpion Season 3",
   partOfCollections: ["show/scorpion"],
   position: 3,
-  ownLength: 1444.8,
-  ownProgress: 1444.8,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-10-04",
@@ -21,5 +21,6 @@ export const scorpionSeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:30:09.105Z",
+  progressedAt: "2026-10-29T16:30:09.105Z",
 } as const satisfies Season
