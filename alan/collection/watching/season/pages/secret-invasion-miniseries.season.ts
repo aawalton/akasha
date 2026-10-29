@@ -7,8 +7,8 @@ export const secretInvasionMiniseries = {
   title: "Secret Invasion Miniseries",
   partOfCollections: ["show/secret-invasion"],
   position: 1,
-  ownLength: 262.2,
-  ownProgress: 262.2,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2023-06-21",
@@ -21,5 +21,6 @@ export const secretInvasionMiniseries = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:30:14.782Z",
+  progressedAt: "2026-10-29T16:30:14.782Z",
 } as const satisfies Season
