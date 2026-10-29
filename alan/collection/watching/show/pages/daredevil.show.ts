@@ -18,7 +18,8 @@ export const daredevil = {
       externalLink: "https://trakt.tv/shows/marvel-s-daredevil",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "202555", externalLink: "https://www.themoviedb.org/tv/202555" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:27:23.641Z",
 } as const satisfies Show
