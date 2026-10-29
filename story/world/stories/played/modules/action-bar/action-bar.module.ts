@@ -74,8 +74,7 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The line is written in the card a seat's composer is, with its round send button.",
+      statement: "The line is one line tall by default, with its round send button at its end.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -107,5 +106,5 @@ export const actionBar = {
     },
   ],
   createdAt: "2026-09-24T17:51:51.158Z",
-  updatedAt: "2026-10-28T18:12:14.981Z",
+  updatedAt: "2026-10-29T14:16:47.000Z",
 } as const satisfies Module
