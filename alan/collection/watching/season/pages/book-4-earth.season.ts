@@ -7,7 +7,7 @@ export const book4Earth = {
   title: "Book 4: Earth",
   partOfCollections: ["show/the-dragon-prince"],
   position: 4,
-  ownLength: 253.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const book4Earth = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.960Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:46:02.330Z",
 } as const satisfies Season

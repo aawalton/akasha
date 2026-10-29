@@ -18,7 +18,8 @@ export const theDragonPrince = {
       externalLink: "https://trakt.tv/shows/the-dragon-prince",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "81046", externalLink: "https://www.themoviedb.org/tv/81046" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:46:02.330Z",
 } as const satisfies Show
