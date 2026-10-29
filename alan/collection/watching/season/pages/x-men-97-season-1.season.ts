@@ -7,7 +7,7 @@ export const xMen97Season1 = {
   title: "X-Men '97 Season 1",
   partOfCollections: ["show/x-men-97"],
   position: 1,
-  ownLength: 343.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const xMen97Season1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.968Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:49:17.956Z",
 } as const satisfies Season

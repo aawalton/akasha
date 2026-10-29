@@ -18,7 +18,8 @@ export const xMen97 = {
       externalLink: "https://trakt.tv/shows/x-men-97",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "138502", externalLink: "https://www.themoviedb.org/tv/138502" },
   ],
   createdAt: "2026-09-03T16:03:14.355Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:49:17.956Z",
 } as const satisfies Show
