@@ -7,7 +7,7 @@ export const frankHerbertSChildrenOfDuneMiniseries = {
   title: "Frank Herbert's Children of Dune Miniseries",
   partOfCollections: ["show/frank-herbert-s-children-of-dune"],
   position: 1,
-  ownLength: 261,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const frankHerbertSChildrenOfDuneMiniseries = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:30:06.690Z",
 } as const satisfies Season
