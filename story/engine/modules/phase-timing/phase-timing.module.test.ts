@@ -108,6 +108,20 @@ test("a phase whose run holds no start and no making is written nowhere", () => 
   expect(phaseEnded(root, PAGE, ended("writer", 10, "saga-009", null), () => null)).toEqual([])
 })
 
+test("a turn that takes a run's slug back measures from its own making", () => {
+  const root = scratch.rootFor("phase-timing-")
+  mkdirSync(join(root, "story/the-saga"), { recursive: true })
+  const takenBack = T0 - 300 * SECOND
+  phaseEnded(root, PAGE, ended("world-builder", -200, "saga-002", takenBack), () => null)
+  phaseEnded(root, PAGE, ended("game-master", -100, "saga-002", takenBack), () => null)
+  expect(startedAtOf(rowsAt(root, PAGE), "saga-002", "world-builder", T0)).toBe(T0)
+  const wrote = phaseEnded(root, PAGE, ended("world-builder", 20), () => null)
+  expect(wrote.map((one) => [one.phase, one.ranAt, one.endedAt, one.wallMs])).toEqual([
+    [PLAYER, at(-100), at(0), 100 * SECOND],
+    ["world-builder", at(0), at(20), 20 * SECOND],
+  ])
+})
+
 const PLAYED = [
   row("saga-001", "world-builder", 0, 10),
   row("saga-001", "game-master", 10, 30),
