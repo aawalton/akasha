@@ -7,11 +7,11 @@ export const soloLevelingS01e15 = {
   description:
     "Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he was when he fought the Cerberus. In order to gather the ingredients for the Elixir of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 15,
   publishedAt: "2025-01-19",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e15 = {
   stillPath: "/ljpLCXeYjx4yHLFbIJFW6LrL3uZ.jpg",
   voteAverage: 8.6,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:56.742Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:56.742Z",
 } as const satisfies Episode
