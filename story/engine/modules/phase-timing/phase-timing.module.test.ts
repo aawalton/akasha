@@ -14,6 +14,7 @@ import {
   pickedUpIn,
   rowsAt,
   startedAtOf,
+  sweptAt,
   wholesOf,
 } from "akasha/story/engine/modules/phase-timing/phase-timing.module.code.ts"
 
@@ -120,6 +121,23 @@ test("a turn that takes a run's slug back measures from its own making", () => {
     [PLAYER, at(-100), at(0), 100 * SECOND],
     ["world-builder", at(0), at(20), 20 * SECOND],
   ])
+})
+
+test("a swept run loses its phase rows and keeps the player row its name carries", () => {
+  const root = scratch.rootFor("phase-timing-")
+  mkdirSync(join(root, "story/the-saga"), { recursive: true })
+  phaseEnded(root, PAGE, ended("world-builder", 10, "saga-001"), () => null)
+  phaseEnded(root, PAGE, ended("world-builder", 20, "saga-002", T0 + 15 * SECOND), () => null)
+  const [swept] = sweptAt(root, PAGE, "saga-001")
+  const kept = (swept?.content ?? "")
+    .split("\n")
+    .filter((line) => line.trim() !== "")
+    .map((line) => JSON.parse(line) as PhaseRow)
+  expect(kept.map((one) => [one.runId, one.phase])).toEqual([
+    ["saga-001", PLAYER],
+    ["saga-002", "world-builder"],
+  ])
+  expect(sweptAt(root, PAGE, "saga-009")).toEqual([])
 })
 
 const PLAYED = [
