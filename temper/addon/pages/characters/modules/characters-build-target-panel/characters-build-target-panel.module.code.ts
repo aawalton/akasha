@@ -136,11 +136,23 @@ function placeAt(control: Control, panel: TargetPanel, top: number, indent: numb
   return top + control.GetHeight()
 }
 
+const watchedNames = new Set<string>()
+
+function watchBeside(name: string, target: Control): undefined {
+  if (watchedNames.has(name)) return undefined
+  watchedNames.add(name)
+  for (const event of ["OnShow", "OnHide"]) {
+    target.SetHandler(event, () => refreshTargetPanel(), PANEL_NAME)
+  }
+  return undefined
+}
+
 function besideTarget(): Control | undefined {
   let last: Control | undefined
   for (const name of BESIDE_NAMES) {
     const candidate = WINDOW_MANAGER.GetControlByName(name)
     if (candidate === undefined) continue
+    watchBeside(name, candidate)
     if (!candidate.IsHidden()) return candidate
     last = candidate
   }
