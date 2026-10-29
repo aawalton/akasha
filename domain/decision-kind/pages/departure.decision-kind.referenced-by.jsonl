@@ -680,6 +680,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/watching/modules/collection-children/collection-children.module.ts","id":"01a18803-cea5-705d-b15d-36afd298a622"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/modules/crunchyroll-reading/crunchyroll-reading.module.ts","id":"01a18818-57d5-7a83-b290-e610ce39c59a"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/modules/episode-recording/episode-recording.module.ts","id":"01a18818-57d5-7862-b487-74339026644c"}
+{"propertySlug":"decision-kind","path":"alan/collection/watching/modules/intro-skipping/intro-skipping.module.ts","id":"01a1891d-850f-73d3-98bd-0781d7d5b89a"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/modules/playback-watching/playback-watching.module.ts","id":"01a18818-57d5-77da-91f2-096dccc1636e"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/movie/movie.page-type.ts","id":"01a06599-ee09-7005-82e2-c1f83dc51c09"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/properties/genres.text-property.ts","id":"01a06599-ee09-7006-a413-b286ec4d7f8d"}

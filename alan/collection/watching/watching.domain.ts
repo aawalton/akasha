@@ -24,6 +24,7 @@ export const watching = {
     "module/collection-children",
     "module/episode-recording",
     "module/crunchyroll-reading",
+    "module/intro-skipping",
     "module/playback-watching",
     "browser-extension/streaming-watching",
   ],
@@ -50,5 +51,5 @@ export const watching = {
     },
   ],
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-10-29T14:37:39.156Z",
+  updatedAt: "2026-10-29T19:22:55.630Z",
 } as const satisfies Domain
