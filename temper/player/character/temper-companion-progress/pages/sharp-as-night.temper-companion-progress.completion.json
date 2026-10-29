@@ -1,6 +1,5 @@
 {
   "build": {
-    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
     "jewelry": {
       "1": {
         "isEmpty": false,
@@ -30,35 +29,7 @@
         }
       }
     },
-    "skillAbilityIds": {
-      "1": 152625,
-      "2": 186603,
-      "3": 155328,
-      "4": 154926,
-      "5": 155693,
-      "6": 186488
-    },
-    "companionId": 8,
-    "weapons": {
-      "1": {
-        "isEmpty": false,
-        "displayText": "Ice Staff, Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "isEmpty": true,
-        "displayText": "Empty",
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        }
-      }
-    },
+    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
     "mainHandWeaponType": 13,
     "armor": {
       "1": {
@@ -124,7 +95,36 @@
           "3": 0.86
         }
       }
-    }
+    },
+    "weapons": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Ice Staff, Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": true,
+        "displayText": "Empty",
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        }
+      }
+    },
+    "skillAbilityIds": {
+      "1": 152625,
+      "2": 186603,
+      "3": 155328,
+      "4": 154926,
+      "5": 155693,
+      "6": 186488
+    },
+    "companionId": 8
   },
   "targetBuildHash": "AjEAUAaRpGkaRpGkaQkPDxTzqfA",
   "level": 20,
