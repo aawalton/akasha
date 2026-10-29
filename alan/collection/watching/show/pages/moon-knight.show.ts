@@ -18,7 +18,8 @@ export const moonKnight = {
       externalLink: "https://trakt.tv/shows/moon-knight",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "92749", externalLink: "https://www.themoviedb.org/tv/92749" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:29:36.924Z",
 } as const satisfies Show
