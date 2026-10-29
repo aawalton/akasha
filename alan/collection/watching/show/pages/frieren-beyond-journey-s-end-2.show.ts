@@ -15,7 +15,7 @@ export const frierenBeyondJourneySEnd2 = {
   ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
-  status: "following",
+  status: "completed",
   grade: "A",
   publishedAt: "2023-09-29",
   externalIdentity: [
@@ -32,5 +32,6 @@ export const frierenBeyondJourneySEnd2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-10-29T15:14:06.932Z",
+  updatedAt: "2026-10-29T19:13:21.355Z",
+  completedAt: "2026-10-29",
 } as const satisfies Show

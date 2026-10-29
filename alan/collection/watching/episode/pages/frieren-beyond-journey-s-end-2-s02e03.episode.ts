@@ -7,11 +7,11 @@ export const frierenBeyondJourneySEnd2S02e03 = {
   description:
     "Frieren’s party dream of hot springs as they reach Etwas, but the village is abandoned.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/frieren-beyond-journey-s-end-season-2"],
   position: 3,
   publishedAt: "2026-01-30",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const frierenBeyondJourneySEnd2S02e03 = {
   stillPath: "/aPX4K7ZtxkKmonWw89NnAAECMNf.jpg",
   voteAverage: 8,
   createdAt: "2026-10-29T15:14:06.932Z",
-  updatedAt: "2026-10-29T15:14:06.932Z",
+  updatedAt: "2026-10-29T19:13:21.355Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:13:21.355Z",
 } as const satisfies Episode
