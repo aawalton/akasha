@@ -7,11 +7,11 @@ export const soloLevelingS01e25 = {
   description:
     "After no shortage of hardship, the 4th Jeju Island raid comes to a close. But for Jinwoo, the hunt never ends.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 25,
   publishedAt: "2025-03-30",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e25 = {
   stillPath: "/9O513PBYuL4RfirPXfxTAeEMTy0.jpg",
   voteAverage: 8.6,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:34:29.456Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:34:29.456Z",
 } as const satisfies Episode

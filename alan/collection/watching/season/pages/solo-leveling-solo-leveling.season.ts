@@ -10,7 +10,7 @@ export const soloLevelingSoloLeveling = {
   ownLength: 600,
   ownProgress: 600,
   unit: "unit/minutes",
-  status: "in-progress",
+  status: "completed",
   publishedAt: "2024-01-06",
   externalIdentity: [
     {
@@ -21,5 +21,6 @@ export const soloLevelingSoloLeveling = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T14:34:29.456Z",
+  completedAt: "2026-10-29",
 } as const satisfies Season
