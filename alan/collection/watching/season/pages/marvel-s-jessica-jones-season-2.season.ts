@@ -7,7 +7,7 @@ export const marvelSJessicaJonesSeason2 = {
   title: "Marvel's Jessica Jones Season 2",
   partOfCollections: ["show/jessica-jones"],
   position: 2,
-  ownLength: 673.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const marvelSJessicaJonesSeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:31:47.755Z",
 } as const satisfies Season
