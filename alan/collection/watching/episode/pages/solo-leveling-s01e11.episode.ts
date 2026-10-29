@@ -7,11 +7,11 @@ export const soloLevelingS01e11 = {
   description:
     'Out of the blue, a "job-change quest" pops up in Jinwoo\'s window. Feeling that it may help him get stronger, he enters the gate. Inside, he fights wave after wave of enemies, culminating in a knight who brings back memories of the Cartenon Temple.',
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 11,
   publishedAt: "2024-03-24",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e11 = {
   stillPath: "/xwTGcW5n6CdxW8SfipWiQzz40RO.jpg",
   voteAverage: 8.9,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:44.783Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:44.783Z",
 } as const satisfies Episode
