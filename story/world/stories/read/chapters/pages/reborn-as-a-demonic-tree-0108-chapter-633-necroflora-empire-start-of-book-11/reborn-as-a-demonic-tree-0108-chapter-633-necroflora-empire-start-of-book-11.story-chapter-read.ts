@@ -20,5 +20,7 @@ export const rebornAsADemonicTree0108Chapter633NecrofloraEmpireStartOfBook11 = {
     },
   ],
   createdAt: "2026-10-28T20:47:53.482Z",
-  updatedAt: "2026-10-28T20:47:53.482Z",
+  updatedAt: "2026-10-29T02:23:44.001Z",
+  ownProgress: 2483,
+  progressedAt: "2026-10-29T02:23:44.001Z",
 } as const satisfies StoryChapterRead

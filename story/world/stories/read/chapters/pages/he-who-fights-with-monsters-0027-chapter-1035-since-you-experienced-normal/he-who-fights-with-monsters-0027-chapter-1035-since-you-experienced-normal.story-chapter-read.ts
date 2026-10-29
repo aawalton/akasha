@@ -20,5 +20,7 @@ export const heWhoFightsWithMonsters0027Chapter1035SinceYouExperiencedNormal = {
     },
   ],
   createdAt: "2026-10-28T22:24:48.436Z",
-  updatedAt: "2026-10-28T22:24:48.436Z",
+  updatedAt: "2026-10-29T02:23:44.001Z",
+  ownProgress: 2534,
+  progressedAt: "2026-10-29T02:23:44.001Z",
 } as const satisfies StoryChapterRead

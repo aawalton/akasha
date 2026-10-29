@@ -33,8 +33,8 @@ export const theDungeonWithoutASystem = {
     "Non-Humanoid Lead",
     "Reincarnation",
   ],
-  publicationStatus: "ongoing",
+  publicationStatus: "hiatus",
   readLater: true,
   createdAt: "2026-10-22T20:48:17.431Z",
-  updatedAt: "2026-10-22T20:48:17.431Z",
+  updatedAt: "2026-10-29T02:23:44.001Z",
 } as const satisfies StoryRead

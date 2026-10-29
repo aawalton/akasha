@@ -21,5 +21,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0201Chapter181OneBadgedFo
       },
     ],
     createdAt: "2026-10-28T20:47:53.482Z",
-    updatedAt: "2026-10-28T20:47:53.482Z",
+    updatedAt: "2026-10-29T02:23:44.001Z",
+    ownProgress: 2305,
+    progressedAt: "2026-10-29T02:23:44.001Z",
   } as const satisfies StoryChapterRead

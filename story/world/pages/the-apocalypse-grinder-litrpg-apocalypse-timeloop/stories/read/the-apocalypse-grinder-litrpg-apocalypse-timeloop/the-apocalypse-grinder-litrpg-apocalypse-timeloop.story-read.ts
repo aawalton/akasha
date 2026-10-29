@@ -35,8 +35,8 @@ export const theApocalypseGrinderLitrpgApocalypseTimeloop = {
     "System Invasion",
     "Time Travel",
   ],
-  publicationStatus: "ongoing",
+  publicationStatus: "hiatus",
   readLater: true,
   createdAt: "2026-10-23T01:48:19.910Z",
-  updatedAt: "2026-10-23T01:48:19.910Z",
+  updatedAt: "2026-10-29T02:23:44.001Z",
 } as const satisfies StoryRead

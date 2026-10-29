@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg000606BirdIsTheWord = {
     },
   ],
   createdAt: "2026-10-28T16:28:53.880Z",
-  updatedAt: "2026-10-28T16:28:53.880Z",
+  updatedAt: "2026-10-29T02:23:44.001Z",
+  ownProgress: 3769,
+  progressedAt: "2026-10-29T02:23:44.001Z",
 } as const satisfies StoryChapterRead

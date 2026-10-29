@@ -20,5 +20,7 @@ export const fiveElementOverlordICanUpgradeEverything0173Ch173ThinkingAboutTheFu
     },
   ],
   createdAt: "2026-10-28T23:24:28.358Z",
-  updatedAt: "2026-10-28T23:24:28.358Z",
+  updatedAt: "2026-10-29T02:23:44.001Z",
+  ownProgress: 2025,
+  progressedAt: "2026-10-29T02:23:44.001Z",
 } as const satisfies StoryChapterRead

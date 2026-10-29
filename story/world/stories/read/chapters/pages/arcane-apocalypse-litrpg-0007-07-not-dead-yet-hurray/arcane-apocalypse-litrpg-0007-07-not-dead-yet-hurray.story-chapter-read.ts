@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg000707NotDeadYetHurray = {
     },
   ],
   createdAt: "2026-10-28T16:28:53.880Z",
-  updatedAt: "2026-10-28T16:28:53.880Z",
+  updatedAt: "2026-10-29T02:23:44.001Z",
+  ownProgress: 3888,
+  progressedAt: "2026-10-29T02:23:44.001Z",
 } as const satisfies StoryChapterRead
