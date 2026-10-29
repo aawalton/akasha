@@ -17,7 +17,8 @@ export const shiboyugiPlayingDeathGamesToPutFoodOnTheTable = {
       externalId: "82047155",
       externalLink: "https://www.netflix.com/title/82047155",
     },
+    { source: "tmdb", externalId: "263330", externalLink: "https://www.themoviedb.org/tv/263330" },
   ],
   createdAt: "2026-10-14T18:58:37.799Z",
-  updatedAt: "2026-10-14T18:58:37.799Z",
+  updatedAt: "2026-10-29T16:30:34.815Z",
 } as const satisfies Show
