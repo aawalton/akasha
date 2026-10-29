@@ -7,8 +7,8 @@ export const numb3rsSeason1 = {
   title: "Numb3rs Season 1",
   partOfCollections: ["show/numb3rs"],
   position: 1,
-  ownLength: 541.8,
-  ownProgress: 541.8,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2005-01-24",
@@ -21,5 +21,6 @@ export const numb3rsSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:29:49.843Z",
+  progressedAt: "2026-10-29T16:29:49.843Z",
 } as const satisfies Season
