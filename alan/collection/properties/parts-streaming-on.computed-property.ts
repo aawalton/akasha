@@ -12,7 +12,6 @@ export const partsStreamingOn = {
   ],
   code: "ts",
   test: "ts",
-  sourceCredit: "Streaming data from JustWatch",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -50,5 +49,5 @@ export const partsStreamingOn = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:00:00.000Z",
-  updatedAt: "2026-10-28T21:43:25.354Z",
+  updatedAt: "2026-10-29T14:12:28.309Z",
 } as const satisfies ComputedProperty

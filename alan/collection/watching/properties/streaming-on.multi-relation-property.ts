@@ -7,7 +7,6 @@ export const streamingOn = {
   propertySlug: "streaming-on",
   definition: "a service a collection streams on in the United States",
   targetPageType: "page-type/streaming-service",
-  sourceCredit: "Streaming data from JustWatch",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -30,19 +29,15 @@ export const streamingOn = {
       statement: "The day TMDB was last asked is the day its identity was last synced.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "Every screen showing a service credits JustWatch, the source TMDB reads it from.",
+      decisionKind: "decision-kind/absence",
+      statement: "No screen showing a service names where the service data came from.",
     },
     {
       decisionKind: "decision-kind/absence",
       statement: "No view of the Hallmark shelf shows a service.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page's own screen credits JustWatch directly beneath the services it lists.",
-    },
   ],
   types: "ts",
   createdAt: "2026-10-25T19:20:15.125Z",
-  updatedAt: "2026-10-28T20:39:27.066Z",
+  updatedAt: "2026-10-29T14:12:28.309Z",
 } as const satisfies MultiRelationProperty
