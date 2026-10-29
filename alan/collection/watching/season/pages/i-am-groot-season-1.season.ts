@@ -7,8 +7,8 @@ export const iAmGrootSeason1 = {
   title: "I Am Groot Season 1",
   partOfCollections: ["show/i-am-groot"],
   position: 1,
-  ownLength: 28.2,
-  ownProgress: 28.2,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-08-10",
@@ -21,5 +21,6 @@ export const iAmGrootSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:29:32.180Z",
+  progressedAt: "2026-10-29T16:29:32.180Z",
 } as const satisfies Season
