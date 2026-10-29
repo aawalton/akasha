@@ -14,7 +14,8 @@ export const statusDamage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each term of the equation is rounded down in single precision before the sum.",
+      statement:
+        "The equation's terms are summed, and the sum is rounded once rather than each term.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -36,5 +37,5 @@ export const statusDamage = {
     },
   ],
   createdAt: "2026-10-28T22:19:27.199Z",
-  updatedAt: "2026-10-28T22:26:56.530Z",
+  updatedAt: "2026-10-29T17:55:59.411Z",
 } as const satisfies Module

@@ -18,25 +18,27 @@ const STATS = {
   "damage-done-direct": 0.06,
 }
 
-test("a status effect's damage floors each term of its equation and sums them", () => {
-  expect(statusDamageOf(BURNING, STATS)).toBe(Math.floor(0.016 * 28288) + Math.floor(0.168 * 2754))
+test("a status effect's damage sums its terms and rounds the sum once", () => {
+  expect(statusDamageOf(BURNING, STATS)).toBe(Math.round(0.016 * 28288 + 0.168 * 2754))
 })
 
-test("the damage done for the equation's type, delivery and reach grows it, rounded", () => {
-  const flooredSum = Math.floor(0.008 * 28288) + Math.floor(0.084 * 2754)
+test("the damage done for the equation's type, delivery and reach grows the sum, rounded once", () => {
+  const sum = 0.008 * 28288 + 0.084 * 2754
 
-  expect(statusDamageOf(CHILLED, STATS)).toBe(Math.round(1.06 * flooredSum))
+  expect(statusDamageOf(CHILLED, STATS)).toBe(Math.round(1.06 * sum))
   expect(statusDamageOf(CHILLED, { ...STATS, "damage-done-frost-without-base": 0.1 })).toBe(
-    Math.round(1.16 * flooredSum)
+    Math.round(1.16 * sum)
   )
-  expect(statusDamageOf(BURNING, { ...STATS, "damage-done-frost-without-base": 0.1 })).toBe(914)
+  expect(statusDamageOf(BURNING, { ...STATS, "damage-done-frost-without-base": 0.1 })).toBe(
+    statusDamageOf(BURNING, STATS)
+  )
 })
 
-test("a stat held as a fraction is floored with its term, as the game holds it", () => {
+test("a stat held as a fraction is not floored before the sum", () => {
   const stats = { "stamina-maximum": 57894, "power-weapon": 2494.05 }
 
   expect(statusDamageOf(BURNING, stats)).toBe(1345)
-  expect(statusDamageOf(BURNING, { ...stats, "power-weapon": 2494 })).toBe(1344)
+  expect(statusDamageOf(BURNING, { ...stats, "power-weapon": 2494 })).toBe(1345)
 })
 
 test("an equation dealing no damage gives no number", () => {
@@ -189,4 +191,21 @@ test("the Burning equation gives the numbers the game showed in Erin Solstice's 
   for (const one of CAPTURED_BURNING_HITS) {
     expect(capturedBurningHit(one)).toBe(one.hit)
   }
+})
+
+function capturedBurningStatusDamage(one: CapturedBurning): number | undefined {
+  return statusDamageOf(BURNING_CAPTURED, {
+    "magicka-maximum": one.magicka,
+    "stamina-maximum": one.stamina,
+    "power-spell": one.power,
+    "power-weapon": one.power,
+    "damage-done-flame-without-base": 0.07 + one.fan,
+  })
+}
+
+test("a captured Burning tick is the game's number when the sum is rounded once", () => {
+  const one = CAPTURED_BURNING_HITS.find((hit) => !hit.patient && !hit.critical)
+  if (one === undefined) throw new Error("no captured Burning tick is uncritical and unpatient")
+
+  expect(capturedBurningStatusDamage(one)).toBe(one.hit)
 })

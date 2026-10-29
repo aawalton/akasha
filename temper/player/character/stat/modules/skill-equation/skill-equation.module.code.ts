@@ -387,7 +387,7 @@ function rankedOf(equation: Equation, rank: number | undefined): number | undefi
   return tag === undefined ? undefined : (rank ?? RANK_TAGS[tag])
 }
 
-export function flooredSumOf(equation: Equation, stats: EquationStats): number {
+function flooredSumOf(equation: Equation, stats: EquationStats): number {
   const single = Math.fround
   return equation.terms.reduce(
     (sum, [variable, by]) => sum + Math.floor(single(single(by) * stats[variable])),

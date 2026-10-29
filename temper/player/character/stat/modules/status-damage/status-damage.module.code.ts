@@ -7,7 +7,7 @@ import {
 import {
   equationOf,
   equationStatsOf,
-  flooredSumOf,
+  equationValue,
   isDamage,
 } from "akasha/temper/player/character/stat/modules/skill-equation/skill-equation.module.code.ts"
 
@@ -42,7 +42,8 @@ export function statusDamageOf(
     BASE,
   ]
   const bonus = done.reduce((sum, stat) => single(sum + (held[stat] ?? 0)), 1)
-  return Math.round(single(flooredSumOf(equation, equationStatsOf(held)) * bonus))
+  const summed = equationValue(equation, equationStatsOf(held)) ?? 0
+  return Math.round(single(summed * bonus))
 }
 
 function statusEffectsIn(
