@@ -7,7 +7,7 @@ export const starTrekDiscoverySeason2 = {
   title: "Star Trek: Discovery Season 2",
   partOfCollections: ["show/star-trek-discovery"],
   position: 2,
-  ownLength: 714,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -20,5 +20,5 @@ export const starTrekDiscoverySeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:41:21.268Z",
 } as const satisfies Season
