@@ -7,7 +7,7 @@ export const theRookieSeason7 = {
   title: "The Rookie Season 7",
   partOfCollections: ["show/the-rookie"],
   position: 7,
-  ownLength: 778.2,
+  ownLength: 0,
   ownProgress: 259.4,
   unit: "unit/minutes",
   status: "in-progress",
@@ -21,5 +21,5 @@ export const theRookieSeason7 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.967Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:47:11.854Z",
 } as const satisfies Season

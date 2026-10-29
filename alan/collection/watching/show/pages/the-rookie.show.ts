@@ -21,7 +21,8 @@ export const theRookie = {
       externalLink: "https://trakt.tv/shows/the-rookie-2018",
       lastSyncedAt: "2025-11-13",
     },
+    { source: "tmdb", externalId: "79744", externalLink: "https://www.themoviedb.org/tv/79744" },
   ],
   createdAt: "2026-09-03T16:03:14.355Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:47:11.854Z",
 } as const satisfies Show
