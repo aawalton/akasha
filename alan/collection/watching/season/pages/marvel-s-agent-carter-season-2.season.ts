@@ -7,8 +7,8 @@ export const marvelSAgentCarterSeason2 = {
   title: "Marvel's Agent Carter Season 2",
   partOfCollections: ["show/agent-carter"],
   position: 2,
-  ownLength: 433.8,
-  ownProgress: 433.8,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2016-01-20",
@@ -21,5 +21,6 @@ export const marvelSAgentCarterSeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:28:12.432Z",
+  progressedAt: "2026-10-29T16:28:12.432Z",
 } as const satisfies Season
