@@ -7,11 +7,11 @@ export const soloLevelingS01e21 = {
   description:
     "Jinwoo tries to cure his mother with the Elixir of Life while preparations for the 4th Jeju Island Raid begin.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 21,
   publishedAt: "2025-03-02",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e21 = {
   stillPath: "/mYvKcjF0LXlo1H3MOb278SsGgow.jpg",
   voteAverage: 8,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:34:16.994Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:34:16.994Z",
 } as const satisfies Episode
