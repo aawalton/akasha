@@ -76258,7 +76258,7 @@
       "name": "Aerie's Cry",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Warden",
-      "slotsUnlocked": 21,
+      "slotsUnlocked": 22,
       "totalSlots": 36,
       "pieces": [
         {
@@ -76399,7 +76399,7 @@
         },
         {
           "name": "Aerie's Cry Lightning Staff",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Aerie's Cry Shield",
