@@ -13,7 +13,7 @@ export const giftedReborn00005 = {
   lore: ["lore/gifted-myriad-paths", "place/gifted-womb"],
   interruptsAt: "2026-10-28T09:00:00.000Z",
   createdAt: "2026-10-29T19:55:53.670Z",
-  updatedAt: "2026-10-29T19:59:37.770Z",
-  endsAt: "2026-10-27T23:30:00.000Z",
+  updatedAt: "2026-10-29T20:00:59.608Z",
+  endsAt: "2026-10-28T09:00:00.000Z",
   outcomes: "jsonl",
 } as const satisfies StoryTurnPlayed
