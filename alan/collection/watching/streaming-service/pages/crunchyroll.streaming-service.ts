@@ -7,10 +7,10 @@ export const crunchyroll = {
   title: "Crunchyroll",
   providerNames: ["Crunchyroll", "Crunchyroll Amazon Channel"],
   free: false,
-  held: false,
+  held: true,
   heldEvidence:
-    "Monarch shows $7.99 charged on 2026-01-02, 2026-02-02 and 2026-03-02, $9.99 on 2026-04-02 and 2026-05-02, and $9.13 on 2026-07-23, and no charge from August through October 2026.",
+    "Alan said on 2026-10-29 that he added a Crunchyroll subscription. Monarch showed no charge from August through October 2026 before that.",
   merchant: "monarch-merchant/crunchyroll",
   createdAt: "2026-10-28T20:31:47.287Z",
-  updatedAt: "2026-10-28T20:31:47.287Z",
+  updatedAt: "2026-10-29T14:17:14.644Z",
 } as const satisfies StreamingService
