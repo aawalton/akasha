@@ -18,7 +18,8 @@ export const starTrekDeepSpaceNine = {
       externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine",
       lastSyncedAt: "2025-10-02",
     },
+    { source: "tmdb", externalId: "580", externalLink: "https://www.themoviedb.org/tv/580" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:41:08.240Z",
 } as const satisfies Show
