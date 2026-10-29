@@ -9,7 +9,7 @@ export const burning = {
   description: "Deals Flame Damage over time and applies Minor Breach",
   esoAbilityId: 18084,
   effects: "jsonl",
-  equations: ["<<1>> = 0.016 MaxStat + 0.168 MaxPower (Dmg, Flame, SingleTarget, DOT)"],
+  equations: ["<<1>> = 0.0149285 MaxStat + 0.155898 MaxPower (Dmg, Flame, SingleTarget, DOT)"],
   createdAt: "2026-09-02T01:40:23.878Z",
-  updatedAt: "2026-10-28T21:33:14.554Z",
+  updatedAt: "2026-10-29T17:40:33.164Z",
 } as const satisfies TemperStatusEffect
