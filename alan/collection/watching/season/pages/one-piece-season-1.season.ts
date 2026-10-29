@@ -7,8 +7,8 @@ export const onePieceSeason1 = {
   title: "One Piece Season 1",
   partOfCollections: ["show/one-piece"],
   position: 1,
-  ownLength: 1513.8,
-  ownProgress: 1513.8,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "B",
@@ -21,5 +21,6 @@ export const onePieceSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-10-28T21:27:44.915Z",
+  updatedAt: "2026-10-29T16:35:35.779Z",
+  progressedAt: "2026-10-29T16:35:35.779Z",
 } as const satisfies Season
