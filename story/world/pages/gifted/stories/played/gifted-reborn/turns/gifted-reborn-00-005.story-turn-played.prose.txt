@@ -17,3 +17,5 @@ You wake, and the dark is the same dark. You take up the tables where you left t
 name: Path of Basic Numeracy
 note: Tier: 4; Mental: +1
 :::
+
+You drift off again, a modulus still turning over.
