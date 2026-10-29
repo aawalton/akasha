@@ -43,7 +43,11 @@ export const sheetAttributes = {
       statement:
         "Each number has a row of its own, the name at the left and the value at the right of it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A section's rows sit indented under its heading, as Temper's groups do.",
+    },
   ],
   createdAt: "2026-10-28T14:56:52.048Z",
-  updatedAt: "2026-10-29T14:25:25.006Z",
+  updatedAt: "2026-10-29T14:36:46.528Z",
 } as const satisfies Module
