@@ -117,6 +117,7 @@ const CHARACTER_LWW_KEYS: ReadonlySet<string> = new Set([
   "dailyWrits",
   "dailyWritStates",
   "inventoryCheck",
+  "rotationReading",
 ])
 
 const DROPPED_CHARACTER_KEYS = ["bankVisitDate", "keptReadings"] as const

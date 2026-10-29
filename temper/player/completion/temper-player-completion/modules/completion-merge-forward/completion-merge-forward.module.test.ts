@@ -14,6 +14,7 @@ import {
   mergeCompanionCompletionForward,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
 import {
+  characterCompletionForRoundTrip,
   dominatesForward,
   heldIds,
   makeMorph,
@@ -22,6 +23,7 @@ import {
   RAFAEMA_LIST_23_BEFORE,
   RAFAEMA_LIST_23_LIVE,
   reportedStatsReading,
+  rotationReadingWith,
   SET_WITH_BOOTS,
   SET_WITH_HELM,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.test-fixtures.ts"
@@ -259,6 +261,14 @@ describe("merging a character forward where a nested field takes the fresh readi
     )
     expect(merged?.reportedStats).toEqual({ frontBar: r(3, 5), backBar: r(1, 8) })
   })
+
+  test("the rotation reading takes the fresh reading whole", () => {
+    const merged = mergeCharacterCompletionForward(
+      { rotationReading: rotationReadingWith(10706.825803263, 0.07, 0) },
+      { rotationReading: rotationReadingWith(3854.7684972846, 0, -0.12) }
+    )
+    expect(merged?.rotationReading).toEqual(rotationReadingWith(3854.7684972846, 0, -0.12))
+  })
 })
 
 describe("merging an account forward", () => {
@@ -314,28 +324,7 @@ describe("merging a companion forward", () => {
 
 describe("a merged reading is one its record's schema reads", () => {
   test("a character merged forward reads back through the character schema unchanged", () => {
-    const existing = characterCompletionSchema.parse({
-      buildHash: "old",
-      level: 40,
-      quests: [1, 2],
-      skillLineProgress: {
-        1: {
-          currentRank: 3,
-          currentXP: 10,
-          nextRankXP: 20,
-          skills: {
-            0: {
-              base: { name: "a", rank: 1 },
-              morph1: { name: "b" },
-              morph2: { name: "c" },
-              currentMorph: 0,
-              abilityIndex: 0,
-            },
-          },
-        },
-      },
-      dailyWritStates: { date: "2026-09-24", seen: [1], completed: [] },
-    })
+    const existing = characterCompletionSchema.parse(characterCompletionForRoundTrip())
     const incoming = characterCompletionSchema.parse({
       buildHash: "new",
       level: 41,

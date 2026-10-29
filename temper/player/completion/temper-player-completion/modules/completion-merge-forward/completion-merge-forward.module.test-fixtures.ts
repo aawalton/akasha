@@ -42,6 +42,55 @@ export function makeMorph(over: {
   }
 }
 
+export function characterCompletionForRoundTrip() {
+  return {
+    buildHash: "old",
+    level: 40,
+    quests: [1, 2],
+    skillLineProgress: {
+      1: {
+        currentRank: 3,
+        currentXP: 10,
+        nextRankXP: 20,
+        skills: {
+          0: {
+            base: { name: "a", rank: 1 },
+            morph1: { name: "b" },
+            morph2: { name: "c" },
+            currentMorph: 0,
+            abilityIndex: 0,
+          },
+        },
+      },
+    },
+    dailyWritStates: { date: "2026-09-24", seen: [1], completed: [] },
+  }
+}
+
+export function rotationReadingWith(
+  damage: number,
+  reavingBlowsShare: number,
+  damageTaken: number
+): NonNullable<CharacterCompletion["rotationReading"]> {
+  return {
+    capturedAt: 1793291357,
+    toughness: 283200.9179640326,
+    damage,
+    healing: 16963.257264375,
+    reavingBlowsShare,
+    bars: [
+      {
+        bar: "frontBar",
+        healing: 16963.257264375,
+        damage,
+        healthMaximum: 25000,
+        armorShare: 0.5,
+        damageTaken,
+      },
+    ],
+  }
+}
+
 export function dominatesForward(merged: unknown, base: unknown): boolean {
   if (base === undefined) return true
   if (typeof base === "number") {
