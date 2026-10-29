@@ -528,6 +528,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/stories/royal-road-stories.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/watching/modules/collection-children/collection-children.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/watching/modules/crunchyroll-reading/crunchyroll-reading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/watching/modules/episode-recording/episode-recording.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/watching/modules/playback-watching/playback-watching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/couples-therapy/couples-call/modules/audio/couples-call-audio.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/couples-therapy/couples-call/modules/brief/couples-call-brief.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/couples-therapy/couples-call/modules/room/couples-call-room.module.ts","typed":true,"deferred":false}
@@ -2039,6 +2042,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/modules/headscale-constants/headscale-constants.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/browser-extension/modules/build-following/build-following.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/browser-extension/modules/chrome-reaching/chrome-reaching.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/browser-extension/modules/site-answering/site-answering.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/browser-extension/modules/site-telling/site-telling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-applying/foundation-applying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-health/foundation-health.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/modules/deploy-choosing/deploy-choosing.module.ts","typed":true,"deferred":false}

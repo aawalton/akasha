@@ -11,6 +11,10 @@ import {
 } from "akasha/alan/collection/great-courses/modules/lecture-progress/lecture-progress.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import type { Chrome } from "akasha/infrastructure/service/akasha-service/browser-extension/modules/chrome-reaching/chrome-reaching.module.code.ts"
+import {
+  panelOf,
+  told,
+} from "akasha/infrastructure/service/akasha-service/browser-extension/modules/site-telling/site-telling.module.code.ts"
 
 const PLAYING = "lecplay"
 
@@ -24,15 +28,9 @@ const SLOWEST = 0.5
 
 const FASTEST = 4
 
-const SHOWN_MS = 1500
-
 const AT_THE_END_SECONDS = 1
 
 const SHORTEST_LECTURE_SECONDS = 60
-
-const PANEL =
-  "position:fixed;right:24px;bottom:24px;z-index:2147483647;padding:16px 20px;border-radius:12px;" +
-  "color-scheme:dark;background:Canvas;color:CanvasText;font:15px/1.4 system-ui,sans-serif;max-width:360px"
 
 const SPEED_LABEL = ".bmpui-ui-playback-speed-toggle-button .bmpui-label"
 
@@ -105,19 +103,6 @@ export function progressIn(answer: Answered): number {
 
 async function progressNow(ask: (asked: Asked) => Promise<Answered>): Promise<number> {
   return progressIn(await ask({ kind: "watching", path: location.pathname }))
-}
-
-function panelOf(text: string): HTMLDivElement {
-  const panel = document.createElement("div")
-  panel.style.cssText = PANEL
-  panel.textContent = text
-  document.body.append(panel)
-  return panel
-}
-
-function told(text: string): undefined {
-  const panel = panelOf(text)
-  setTimeout(() => panel.remove(), SHOWN_MS)
 }
 
 function hold(video: HTMLVideoElement): undefined {

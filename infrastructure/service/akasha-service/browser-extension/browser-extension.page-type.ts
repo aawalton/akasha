@@ -17,6 +17,8 @@ export const browserExtension = {
     "module-property-group/extension-site",
     "module/chrome-reaching",
     "module/build-following",
+    "module/site-answering",
+    "module/site-telling",
   ],
   properties: [
     { pageProperty: "module-property-group/extension-worker", required: false, many: false },
@@ -60,5 +62,5 @@ export const browserExtension = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-18T17:15:59.652Z",
-  updatedAt: "2026-10-20T20:51:27.972Z",
+  updatedAt: "2026-10-29T14:37:39.156Z",
 } as const satisfies PageType

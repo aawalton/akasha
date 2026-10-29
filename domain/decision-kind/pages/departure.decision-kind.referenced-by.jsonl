@@ -672,10 +672,14 @@
 {"propertySlug":"decision-kind","path":"alan/collection/type/collection-type.page-type.ts","id":"01a0680f-6f00-7001-b374-6d2a9f5c6102"}
 {"propertySlug":"decision-kind","path":"alan/collection/type/properties/collection-type-status.select-property.ts","id":"01a0680f-6f00-7000-9a52-4c7b3d8e6101"}
 {"propertySlug":"decision-kind","path":"alan/collection/unit/unit.page-type.ts","id":"01a063de-2c60-7014-9620-56bbc19efcd1"}
+{"propertySlug":"decision-kind","path":"alan/collection/watching/browser-extensions/streaming-watching.browser-extension.ts","id":"01a18818-57d5-74ec-be59-49a4420be06e"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/episode/episode.page-type.ts","id":"01a06599-ee09-7004-a115-2ffdedceb64a"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/episode/properties/still-path.text-property.ts","id":"01a06599-ee09-7009-8856-62cef5cf1699"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/franchise/franchise.page-type.ts","id":"01a06599-ee09-7001-9283-02195311fb0e"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/modules/collection-children/collection-children.module.ts","id":"01a18803-cea5-705d-b15d-36afd298a622"}
+{"propertySlug":"decision-kind","path":"alan/collection/watching/modules/crunchyroll-reading/crunchyroll-reading.module.ts","id":"01a18818-57d5-7a83-b290-e610ce39c59a"}
+{"propertySlug":"decision-kind","path":"alan/collection/watching/modules/episode-recording/episode-recording.module.ts","id":"01a18818-57d5-7862-b487-74339026644c"}
+{"propertySlug":"decision-kind","path":"alan/collection/watching/modules/playback-watching/playback-watching.module.ts","id":"01a18818-57d5-77da-91f2-096dccc1636e"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/movie/movie.page-type.ts","id":"01a06599-ee09-7005-82e2-c1f83dc51c09"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/properties/genres.text-property.ts","id":"01a06599-ee09-7006-a413-b286ec4d7f8d"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/properties/imdb-id.text-property.ts","id":"01a06599-ee09-7007-b8a2-be0208de08b8"}
@@ -3262,6 +3266,8 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/browser-extension/browser-extension.page-type.ts","id":"01a15003-5b25-7a82-a1bb-d4f2b81dcb4b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/browser-extension/modules/build-following/build-following.module.ts","id":"01a15501-a45a-7e5b-bbc9-f92c85135eb5"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/browser-extension/modules/chrome-reaching/chrome-reaching.module.ts","id":"01a15009-5d31-7e30-820c-0bdb7fd0e16c"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/browser-extension/modules/site-answering/site-answering.module.ts","id":"01a18818-57d6-7820-ae19-339d392feef3"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/browser-extension/modules/site-telling/site-telling.module.ts","id":"01a18818-57d6-7856-8288-8c907a4ba8ca"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/browser-extension/properties/extension-site.module-property-group.ts","id":"01a15003-5b26-74b3-ada4-69ba46c1c3fc"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/browser-extension/properties/extension-worker.module-property-group.ts","id":"01a15003-5b26-7bf9-8851-70999813831d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/cluster-foundation/cluster-foundation.page-type.ts","id":"01a0a5e8-68bd-7b38-afbc-5ac778577610"}

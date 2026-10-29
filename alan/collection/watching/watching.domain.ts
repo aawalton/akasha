@@ -22,6 +22,10 @@ export const watching = {
     "multi-relation-property/streaming-on",
     "page-type/streaming-service",
     "module/collection-children",
+    "module/episode-recording",
+    "module/crunchyroll-reading",
+    "module/playback-watching",
+    "browser-extension/streaming-watching",
   ],
   decisions: [
     {
@@ -46,5 +50,5 @@ export const watching = {
     },
   ],
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-10-29T14:15:13.316Z",
+  updatedAt: "2026-10-29T14:37:39.156Z",
 } as const satisfies Domain

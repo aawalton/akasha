@@ -14,10 +14,12 @@ import {
   type Chrome,
   chromeOf,
 } from "akasha/infrastructure/service/akasha-service/browser-extension/modules/chrome-reaching/chrome-reaching.module.code.ts"
+import {
+  answerTo,
+  SITE,
+} from "akasha/infrastructure/service/akasha-service/browser-extension/modules/site-answering/site-answering.module.code.ts"
 
 const DEFAULT_SPEED = 3
-
-const SITE = "https://alanwalton.com"
 
 const COURSE = "great-course"
 
@@ -32,8 +34,6 @@ const ICON_FILE = "icon.png"
 const COURSE_PAGES = "https://plus.thegreatcourses.com/*"
 
 const PASSED = "passed-over"
-
-const ANSWER_MS = 15_000
 
 const LOOKING = "Finding the next lecture…"
 
@@ -100,17 +100,6 @@ export function writeOf(id: string, lengthMinutes: number, progressMinutes: numb
       set: { ownLength: lengthMinutes, ownProgress: Math.min(progressMinutes, lengthMinutes) },
     },
   })
-}
-
-async function answerTo(path: string, init: RequestInit): Promise<Response> {
-  try {
-    return await fetch(`${SITE}${path}`, { ...init, signal: AbortSignal.timeout(ANSWER_MS) })
-  } catch (thrown) {
-    if (thrown instanceof DOMException && thrown.name === "TimeoutError") {
-      throw new Error("alanwalton.com did not answer, so try again in a minute")
-    }
-    throw thrown
-  }
 }
 
 async function rows(): Promise<readonly Row[]> {
