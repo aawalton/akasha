@@ -7,8 +7,8 @@ export const elementarySeason3 = {
   title: "Elementary Season 3",
   partOfCollections: ["show/elementary"],
   position: 3,
-  ownLength: 1018.8,
-  ownProgress: 1018.8,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2014-10-31",
@@ -21,5 +21,6 @@ export const elementarySeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.961Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:29:06.597Z",
+  progressedAt: "2026-10-29T16:29:06.597Z",
 } as const satisfies Season
