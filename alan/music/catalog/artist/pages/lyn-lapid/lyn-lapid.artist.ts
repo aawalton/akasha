@@ -17,10 +17,10 @@ export const lynLapid = {
       source: "spotify",
       externalId: "4pfy05cNNTacuOQ6SiSu4v",
       externalLink: "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v",
-      lastSyncedAt: "2026-09-22",
+      lastSyncedAt: "2026-10-29",
     },
   ],
   title: "Lyn Lapid",
   createdAt: "2026-09-03T16:04:08.683Z",
-  updatedAt: "2026-09-22T13:47:09.000Z",
+  updatedAt: "2026-10-29T13:48:51.341Z",
 } as const satisfies Artist

@@ -4,6 +4,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/lyn-lapid-buttons/lyn-lapid-buttons.song.ts","id":"01a0c95e-ad1a-7aa4-b7b6-8865268d55f0"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/lyn-lapid-buzzkill/lyn-lapid-buzzkill.song.ts","id":"01a0c95e-aabc-739e-a2e9-433b1c63917c"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/lyn-lapid-candy-cane-kisses/lyn-lapid-candy-cane-kisses.song.ts","id":"01a0c95e-c331-74c4-b540-d5a9d9758e7e"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/lyn-lapid-casual-crime/lyn-lapid-casual-crime.song.ts","id":"01a187eb-ab0e-7bd5-af88-ce629fe1d78d"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/lyn-lapid-christmas-you-deserve/lyn-lapid-christmas-you-deserve.song.ts","id":"01a0c95e-bb02-7039-850a-6a04f583e8cf"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/lyn-lapid-comatose/lyn-lapid-comatose.song.ts","id":"01a0c95e-bf27-7b19-874e-825f7021889f"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/lyn-lapid-coraline/lyn-lapid-coraline.song.ts","id":"01a0c95e-ab15-75d5-aa68-2c4aa1825867"}
@@ -81,6 +82,7 @@
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/lyn-lapid-buzzkill-it-doesnt-kill-me-anymore.track.ts","id":"01a0c95e-b299-7783-a7ba-6b0c0bd394b0"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/lyn-lapid-buzzkill-take-me-as-i-am.track.ts","id":"01a0c95e-b25f-7b1e-9336-b92b76ce71e7"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/lyn-lapid-buzzkill-who.track.ts","id":"01a0c95e-b22a-7f01-988c-a3dace0a474d"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/lyn-lapid-casual-crime-casual-crime.track.ts","id":"01a187eb-ab0e-7f5b-b2fc-560c732d0664"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/lyn-lapid-cruise-control-cruise-control.track.ts","id":"01a0c95e-bcd4-79b3-8bf4-bf0b7f09dde2"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/lyn-lapid-detached-detached.track.ts","id":"01a0c95e-be47-7479-896f-ff6fca7e6ddf"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/lyn-lapid-do-u-really-do-u-really-with-ruth-b.track.ts","id":"01a0c95e-bd97-7c6b-8079-329ae28a25f1"}
@@ -132,6 +134,7 @@
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/lyn-lapid-buttons/lyn-lapid-buttons.release.ts","id":"01a0676a-d719-704a-8f84-4277b2ecf8e1"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/lyn-lapid-buzzkill-forever/lyn-lapid-buzzkill-forever.release.ts","id":"01a0676a-d719-704d-bab1-d8802beb7baf"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/lyn-lapid-buzzkill/lyn-lapid-buzzkill.release.ts","id":"01a0676a-d719-704c-b9cb-cfdf3a71df48"}
+{"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/lyn-lapid-casual-crime/lyn-lapid-casual-crime.release.ts","id":"01a187eb-ab0e-7949-b534-ca11ec79a8e1"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/lyn-lapid-coraline/lyn-lapid-coraline.release.ts","id":"01a0676a-d71b-7029-bba6-7288bafea8f3"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/lyn-lapid-cruise-control/lyn-lapid-cruise-control.release.ts","id":"01a0676a-d71b-7040-bf8b-d3bddfcd17b2"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/lyn-lapid-death-wish/lyn-lapid-death-wish.release.ts","id":"01a0676a-d71b-7074-b2af-cf4b5af5c979"}
