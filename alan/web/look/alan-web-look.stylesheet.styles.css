@@ -17,6 +17,7 @@
 
 @source "../../../agent/seat/**/*.{ts,tsx}";
 @source "../../chess/**/*.{ts,tsx}";
+@source "../../collection/**/*.{ts,tsx}";
 @source "../../harness/**/*.{ts,tsx}";
 @source "../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../design/interface/**/*.{ts,tsx}";

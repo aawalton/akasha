@@ -39,9 +39,13 @@ export const show = {
       decisionKind: "decision-kind/departure",
       statement: "A show's length is summed from its seasons rather than stated.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A show's page shows its seasons through the view a show embeds.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-10-28T20:39:27.066Z",
+  updatedAt: "2026-10-29T14:15:13.316Z",
 } as const satisfies PageType

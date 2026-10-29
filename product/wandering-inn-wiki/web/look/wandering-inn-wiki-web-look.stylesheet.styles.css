@@ -3,6 +3,7 @@
 
 @source "../../../../agent/seat/**/*.{ts,tsx}";
 @source "../../../../alan/chess/**/*.{ts,tsx}";
+@source "../../../../alan/collection/**/*.{ts,tsx}";
 @source "../../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../../design/interface/**/*.{ts,tsx}";
 @source "../../../../infrastructure/inference/**/*.{ts,tsx}";

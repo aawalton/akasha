@@ -21,6 +21,7 @@ export const watching = {
     "text-property/poster-path",
     "multi-relation-property/streaming-on",
     "page-type/streaming-service",
+    "module/collection-children",
   ],
   decisions: [
     {
@@ -45,5 +46,5 @@ export const watching = {
     },
   ],
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-10-28T20:39:27.066Z",
+  updatedAt: "2026-10-29T14:15:13.316Z",
 } as const satisfies Domain

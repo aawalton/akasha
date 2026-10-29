@@ -675,6 +675,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/watching/episode/episode.page-type.ts","id":"01a06599-ee09-7004-a115-2ffdedceb64a"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/episode/properties/still-path.text-property.ts","id":"01a06599-ee09-7009-8856-62cef5cf1699"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/franchise/franchise.page-type.ts","id":"01a06599-ee09-7001-9283-02195311fb0e"}
+{"propertySlug":"decision-kind","path":"alan/collection/watching/modules/collection-children/collection-children.module.ts","id":"01a18803-cea5-705d-b15d-36afd298a622"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/movie/movie.page-type.ts","id":"01a06599-ee09-7005-82e2-c1f83dc51c09"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/properties/genres.text-property.ts","id":"01a06599-ee09-7006-a413-b286ec4d7f8d"}
 {"propertySlug":"decision-kind","path":"alan/collection/watching/properties/imdb-id.text-property.ts","id":"01a06599-ee09-7007-b8a2-be0208de08b8"}

@@ -29,9 +29,13 @@ export const season = {
       decisionKind: "decision-kind/departure",
       statement: "A season's number is its position among the seasons of its show.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A season's page shows its episodes through the view a season embeds.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T14:15:13.316Z",
 } as const satisfies PageType
