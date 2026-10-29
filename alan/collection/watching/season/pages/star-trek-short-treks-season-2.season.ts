@@ -7,7 +7,7 @@ export const starTrekShortTreksSeason2 = {
   title: "Star Trek: Short Treks Season 2",
   partOfCollections: ["show/star-trek-short-treks"],
   position: 2,
-  ownLength: 61.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -20,5 +20,5 @@ export const starTrekShortTreksSeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.965Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:41:53.775Z",
 } as const satisfies Season
