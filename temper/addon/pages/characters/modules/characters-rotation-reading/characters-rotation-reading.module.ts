@@ -19,7 +19,7 @@ export const charactersRotationReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A bar's critical damage, critical healing, healing done and taken are the game's own numbers.",
+        "A bar's critical damage and healing add the 50% base; healing done and taken are the game's numbers.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -60,5 +60,5 @@ export const charactersRotationReading = {
     },
   ],
   createdAt: "2026-10-19T19:38:44.378Z",
-  updatedAt: "2026-10-20T13:33:00.625Z",
+  updatedAt: "2026-10-29T16:55:46.918Z",
 } as const satisfies Module

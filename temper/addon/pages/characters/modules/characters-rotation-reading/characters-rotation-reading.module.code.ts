@@ -1,6 +1,8 @@
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { heldBarReading } from "akasha/temper/addon/pages/characters/modules/characters-reported-stats/characters-reported-stats.module.code.ts"
 import { reavingBlows } from "akasha/temper/catalog/champion-point/temper-champion-star/pages/reaving-blows.temper-champion-star.ts"
+import { criticalDamageTotal } from "akasha/temper/player/character/source/temper-base-stat/pages/critical-damage-total.temper-base-stat.ts"
+import { healingCriticalTotal } from "akasha/temper/player/character/source/temper-base-stat/pages/healing-critical-total.temper-base-stat.ts"
 import { starsDamageTaken } from "akasha/temper/player/character/stat/modules/champion-damage-taken/champion-damage-taken.module.code.ts"
 import {
   type Multipliers,
@@ -112,8 +114,8 @@ function liveMultipliers(reading: Reading): Multipliers | undefined {
     healing:
       (1 + share("healing-done-base")) *
       (1 + share("healing-taken-base")) *
-      (1 + chance * share("healing-critical-bonus")),
-    damage: 1 + chance * share("critical-damage"),
+      (1 + chance * (healingCriticalTotal.value + share("healing-critical-bonus"))),
+    damage: 1 + chance * (criticalDamageTotal.value + share("critical-damage")),
     healthMaximum: stat("health-maximum"),
     physicalShare: physicalShareOf(stat("resistance-physical")),
     spellShare: spellShareOf(stat("resistance-spell")),
