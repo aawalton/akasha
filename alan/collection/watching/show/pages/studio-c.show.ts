@@ -19,7 +19,8 @@ export const studioC = {
       externalLink: "https://trakt.tv/shows/studio-c",
       lastSyncedAt: "2026-01-20",
     },
+    { source: "tmdb", externalId: "68207", externalLink: "https://www.themoviedb.org/tv/68207" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:44:44.188Z",
 } as const satisfies Show

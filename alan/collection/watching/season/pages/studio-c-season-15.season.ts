@@ -7,7 +7,7 @@ export const studioCSeason15 = {
   title: "Studio C Season 15",
   partOfCollections: ["show/studio-c"],
   position: 15,
-  ownLength: 256.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const studioCSeason15 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.966Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:44:44.188Z",
 } as const satisfies Season
