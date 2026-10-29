@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   readCrunchyroll,
   readData,
+  readMetadata,
   readTitle,
 } from "akasha/alan/collection/watching/modules/crunchyroll-reading/crunchyroll-reading.module.code.ts"
 
@@ -82,5 +83,40 @@ describe("readData", () => {
       readCrunchyroll("Frieren: Beyond Journey's End | E1 - The Journey's End", [EPISODE_DATA])
         ?.name
     ).toBe("The Journey's End")
+  })
+})
+
+describe("readMetadata", () => {
+  const held = JSON.stringify({
+    props: {
+      pageProps: {
+        episode: {
+          episode_metadata: {
+            series_title: "Frieren: Beyond Journey's End",
+            season_number: 1,
+            episode_number: 4,
+            episode_title: "The Land Where Souls Rest",
+          },
+        },
+      },
+    },
+  })
+
+  test("an episode the page's own metadata names is read", () => {
+    expect(readMetadata([held])).toEqual({
+      show: "Frieren: Beyond Journey's End",
+      season: 1,
+      episode: 4,
+      name: "The Land Where Souls Rest",
+      film: false,
+    })
+  })
+
+  test("the metadata is read where the title names no episode", () => {
+    expect(readCrunchyroll("Crunchyroll", [held])?.episode).toBe(4)
+  })
+
+  test("metadata naming no episode is read as nothing", () => {
+    expect(readMetadata([JSON.stringify({ episode_metadata: { series_title: "x" } })])).toBeNull()
   })
 })

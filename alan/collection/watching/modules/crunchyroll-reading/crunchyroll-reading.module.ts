@@ -15,6 +15,11 @@ export const crunchyrollReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A title naming no episode leaves the page's own metadata read for the series and the number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A series naming a season has that season taken off the series.",
     },
     {
@@ -31,5 +36,5 @@ export const crunchyrollReading = {
     },
   ],
   createdAt: "2026-10-29T14:37:39.156Z",
-  updatedAt: "2026-10-29T14:37:39.156Z",
+  updatedAt: "2026-10-29T14:57:03.272Z",
 } as const satisfies Module

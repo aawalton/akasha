@@ -26,6 +26,8 @@ const SEASON_NAMED = /\bSeason\s+(\d+)\b/i
 
 const WATCH = "/watch/"
 
+const METADATA = "episode_metadata"
+
 function isSaid(value: unknown): value is Said {
   return value !== null && typeof value === "object" && !Array.isArray(value)
 }
@@ -42,6 +44,18 @@ function walks(value: unknown, into: Said[]): readonly Said[] {
   if (!isSaid(value)) return into
   into.push(value)
   walks(value["@graph"], into)
+  return into
+}
+
+function flatten(value: unknown, into: Said[], depth = 0): readonly Said[] {
+  if (depth > 8) return into
+  if (Array.isArray(value)) {
+    for (const one of value) flatten(one, into, depth + 1)
+    return into
+  }
+  if (!isSaid(value)) return into
+  into.push(value)
+  for (const one of Object.values(value)) flatten(one, into, depth + 1)
   return into
 }
 
@@ -127,8 +141,35 @@ export function readData(scripts: readonly string[]): Reading | null {
   }
 }
 
+export function readMetadata(scripts: readonly string[]): Reading | null {
+  for (const one of scripts) {
+    let parsed: unknown
+    try {
+      parsed = JSON.parse(one)
+    } catch {
+      continue
+    }
+    for (const said of flatten(parsed, [])) {
+      const meta = saidIn(said.episode_metadata)
+      const series = textIn(meta.series_title)
+      const episode = asNumber(meta.episode_number)
+      if (series === null || episode === null) continue
+      const { show, season: tailed } = divided(series)
+      if (show === "") continue
+      return {
+        show,
+        season: asNumber(meta.season_number) ?? tailed,
+        episode,
+        name: textIn(meta.episode_title),
+        film: false,
+      }
+    }
+  }
+  return null
+}
+
 export function readCrunchyroll(title: string, scripts: readonly string[]): Reading | null {
-  return readTitle(title) ?? readData(scripts)
+  return readTitle(title) ?? readData(scripts) ?? readMetadata(scripts)
 }
 
 function watchedFilm(title: string, link: string): Reading | null {
@@ -143,9 +184,11 @@ export function crunchyrollSighted(): Sighting | null {
 }
 
 export function sightedOnCrunchyroll(doc: Document, link: string): Sighting | null {
-  const scripts = [...doc.querySelectorAll('script[type="application/ld+json"]')].map(
-    (one) => one.textContent ?? ""
-  )
+  const scripts = [...doc.scripts]
+    .filter(
+      (one) => one.type === "application/ld+json" || (one.textContent ?? "").includes(METADATA)
+    )
+    .map((one) => one.textContent ?? "")
   const reading = readCrunchyroll(doc.title, scripts) ?? watchedFilm(doc.title, link)
   if (reading === null) return null
   return {
