@@ -7,7 +7,7 @@ export const fantasyHighJuniorYear = {
   title: "Fantasy High: Junior Year",
   partOfCollections: ["show/dimension-20"],
   position: 21,
-  ownLength: 2676,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const fantasyHighJuniorYear = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.961Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:27:49.638Z",
 } as const satisfies Season

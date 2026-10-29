@@ -7,7 +7,7 @@ export const neverafter = {
   title: "Neverafter",
   partOfCollections: ["show/dimension-20"],
   position: 16,
-  ownLength: 2554.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const neverafter = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:27:49.638Z",
 } as const satisfies Season

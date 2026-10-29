@@ -18,7 +18,8 @@ export const dimension20 = {
       externalLink: "https://trakt.tv/shows/dimension-20/seasons/all",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "89180", externalLink: "https://www.themoviedb.org/tv/89180" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:27:49.638Z",
 } as const satisfies Show

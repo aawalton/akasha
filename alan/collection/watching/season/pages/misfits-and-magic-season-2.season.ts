@@ -7,7 +7,7 @@ export const misfitsAndMagicSeason2 = {
   title: "Misfits and Magic Season 2",
   partOfCollections: ["show/dimension-20"],
   position: 23,
-  ownLength: 1405.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const misfitsAndMagicSeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:27:49.638Z",
 } as const satisfies Season

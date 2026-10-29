@@ -7,7 +7,7 @@ export const aCourtOfFeyAndFlowers = {
   title: "A Court of Fey & Flowers",
   partOfCollections: ["show/dimension-20"],
   position: 15,
-  ownLength: 1225.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const aCourtOfFeyAndFlowers = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.959Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:27:49.638Z",
 } as const satisfies Season
