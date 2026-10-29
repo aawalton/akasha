@@ -7,8 +7,8 @@ export const whiteCollarSeason2 = {
   title: "White Collar Season 2",
   partOfCollections: ["show/white-collar"],
   position: 2,
-  ownLength: 718.2,
-  ownProgress: 718.2,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2010-07-14",
@@ -21,5 +21,6 @@ export const whiteCollarSeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.968Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:32:18.847Z",
+  progressedAt: "2026-10-29T16:32:18.847Z",
 } as const satisfies Season
