@@ -20,6 +20,7 @@ import { registerCompletionKnowledgeEvents } from "akasha/temper/addon/pages/cha
 import { registerCompletionWorldEvents } from "akasha/temper/addon/pages/characters/modules/characters-events-world/characters-events-world.module.code.ts"
 import { registerHirelingMailSubscriber } from "akasha/temper/addon/pages/characters/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.code.ts"
 import { collectItemSets } from "akasha/temper/addon/pages/characters/modules/characters-item-sets/characters-item-sets.module.code.ts"
+import { registerLeaderboardPlacement } from "akasha/temper/addon/pages/characters/modules/characters-leaderboard-placement/characters-leaderboard-placement.module.code.ts"
 import { saveCharacterList } from "akasha/temper/addon/pages/characters/modules/characters-list/characters-list.module.code.ts"
 import { collectLoreLibrary } from "akasha/temper/addon/pages/characters/modules/characters-lore-library/characters-lore-library.module.code.ts"
 import { runMigrations } from "akasha/temper/addon/pages/characters/modules/characters-migrations/characters-migrations.module.code.ts"
@@ -147,6 +148,7 @@ function initialize(): undefined {
   registerCompletionKnowledgeEvents()
   registerCompletionWorldEvents()
   registerHirelingMailSubscriber()
+  registerLeaderboardPlacement()
 
   getSavedVariables().perf = finishPerfTrace(ADDON_NAME, perfStart)
 

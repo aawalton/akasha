@@ -43,6 +43,7 @@ export const temperAddonCharacters = {
     "module/characters-item-sets",
     "module/characters-keyed-merge",
     "module/characters-known-id-lists",
+    "module/characters-leaderboard-placement",
     "module/characters-list",
     "module/characters-lore-library",
     "module/characters-migrations",
@@ -237,5 +238,5 @@ export const temperAddonCharacters = {
     },
   ],
   createdAt: "2026-09-02T15:52:42.403Z",
-  updatedAt: "2026-10-28T20:48:22.497Z",
+  updatedAt: "2026-10-29T19:56:38.732Z",
 } as const satisfies TemperAddon
