@@ -20,5 +20,7 @@ export const coinAndSteel0030Chapter30Aegis = {
     },
   ],
   createdAt: "2026-10-29T16:22:11.295Z",
-  updatedAt: "2026-10-29T16:22:11.295Z",
+  updatedAt: "2026-10-29T21:24:17.453Z",
+  ownProgress: 3346,
+  progressedAt: "2026-10-29T21:24:17.453Z",
 } as const satisfies StoryChapterRead

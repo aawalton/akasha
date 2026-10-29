@@ -20,5 +20,7 @@ export const metaworldHopecore0204Chapter114Smile2 = {
     },
   ],
   createdAt: "2026-10-29T12:21:17.410Z",
-  updatedAt: "2026-10-29T12:21:17.410Z",
+  updatedAt: "2026-10-29T21:24:17.453Z",
+  ownProgress: 2784,
+  progressedAt: "2026-10-29T21:24:17.453Z",
 } as const satisfies StoryChapterRead
