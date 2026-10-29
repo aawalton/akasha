@@ -72989,7 +72989,7 @@
       "name": "Wrathsun",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Templar",
-      "slotsUnlocked": 25,
+      "slotsUnlocked": 26,
       "totalSlots": 36,
       "pieces": [
         {
@@ -73098,7 +73098,7 @@
         },
         {
           "name": "Wrathsun Sword",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Wrathsun Battle Axe",
@@ -73142,7 +73142,7 @@
       "name": "Gardener of Seasons",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Warden",
-      "slotsUnlocked": 23,
+      "slotsUnlocked": 24,
       "totalSlots": 36,
       "pieces": [
         {
@@ -73283,7 +73283,7 @@
         },
         {
           "name": "Gardener of Seasons Lightning Staff",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Gardener of Seasons Shield",
