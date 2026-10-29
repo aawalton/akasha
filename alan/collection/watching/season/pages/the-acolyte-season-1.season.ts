@@ -7,7 +7,7 @@ export const theAcolyteSeason1 = {
   title: "The Acolyte Season 1",
   partOfCollections: ["show/the-acolyte"],
   position: 1,
-  ownLength: 328.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const theAcolyteSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.966Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:44:52.906Z",
 } as const satisfies Season
