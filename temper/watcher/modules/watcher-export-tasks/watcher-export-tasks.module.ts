@@ -8,6 +8,7 @@ export const watcherExportTasks = {
     "the account's tasks written into the characters saved-variables file and into the addon's config",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -91,6 +92,11 @@ export const watcherExportTasks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A task waiting on a leaderboard is handed out with the kind of leaderboard it waits on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The config file carries each character's target build, keyed by the game's id.",
     },
     {
@@ -99,5 +105,5 @@ export const watcherExportTasks = {
     },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-10-28T19:47:43.438Z",
+  updatedAt: "2026-10-29T19:52:01.990Z",
 } as const satisfies Module

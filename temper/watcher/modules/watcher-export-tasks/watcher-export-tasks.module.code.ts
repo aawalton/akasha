@@ -58,6 +58,7 @@ interface TaskData {
   readonly priority: string | null
   readonly completionCardId: string | null
   readonly completionItemPath: readonly (string | number)[] | null
+  readonly leaderboardActivity: readonly string[] | null
   readonly filler?: true
 }
 
@@ -108,6 +109,17 @@ export function itemPathAt(
   return value
 }
 
+function textsAt(values: Readonly<Record<string, unknown>>, key: string): readonly string[] | null {
+  const value = values[key]
+  if (!Array.isArray(value)) return null
+  const texts: string[] = []
+  for (const one of value) {
+    if (typeof one !== "string") return null
+    texts.push(one)
+  }
+  return texts
+}
+
 export function taskKey(row: Page): string {
   return row.id
 }
@@ -136,6 +148,7 @@ export function taskDataFrom(row: Page, esoCharacterId: string | null): TaskData
     priority: stringAt(row, "priority"),
     completionCardId: cardIdOf(stringAt(row, "completionCard")),
     completionItemPath: itemPathAt(row, "completionItemPath"),
+    leaderboardActivity: textsAt(row, "leaderboardActivity"),
     ...(row.filler === true ? { filler: true } : {}),
   }
 }
