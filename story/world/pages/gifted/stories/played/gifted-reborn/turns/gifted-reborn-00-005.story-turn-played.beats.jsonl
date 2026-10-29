@@ -1,5 +1,5 @@
 {"beat":1,"event":"Nala sets herself the Fibonacci exercise: modulo by n+2 down, every starting pair, every loop.","prose":"You set yourself an exercise: Fibonacci sequences taken modulo n+2, then n+1, then on down, every starting pair carried round to its loop and to the length of that loop.","at":"2026-10-27T22:00:00.000Z","place":"place/gifted-womb","present":["character-player/gifted-reborn-nala"],"changes":[]}
-{"beat":2,"event":"She works one modulus whole: every starting pair, every loop reachable, each loop's length.","changes":[]}
+{"beat":2,"event":"She works one modulus whole: every starting pair, every loop reachable, each loop's length.","prose":"You start with n+2 and work it whole. Take a pair of numbers, add them, keep the remainder, carry the pair along, then the next, until a pair comes back that you have already had. That is a loop, and you learn it by its length. Then the next pair, until every pair under n+2 is held in memory with its loop.","continues":true,"changes":[]}
 {"beat":3,"event":"Window: Path of Basic Numeracy - Tier 3. Mental +1.","changes":[]}
 {"beat":4,"event":"She recites every result from the moduli before, then steps down to the next one.","changes":[]}
 {"beat":5,"event":"She keeps at it: run the pair, follow it round, name the loop, hold the length.","changes":[]}
