@@ -18,7 +18,8 @@ export const eyesOfWakanda = {
       externalLink: "https://trakt.tv/shows/eyes-of-wakanda",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "241388", externalLink: "https://www.themoviedb.org/tv/241388" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:30:02.248Z",
 } as const satisfies Show
