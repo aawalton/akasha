@@ -3,6 +3,7 @@ import { episode } from "akasha/alan/collection/watching/episode/episode.page-ty
 import {
   type HeldShow,
   plannedFor,
+  seasonsNeedGroups,
   shelvedFor,
   titledWithin,
 } from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
@@ -22,9 +23,15 @@ const SHOWN: HeldShow = {
   identities: [],
 }
 
-function airedEpisode(number: number): AiredEpisode {
+function airedEpisode(
+  number: number,
+  position: number = number,
+  seasonNumber: number = 1
+): AiredEpisode {
   return {
+    position,
     number,
+    seasonNumber,
     id: 1000 + number,
     name: `Episode ${String(number)}`,
     overview: "",
@@ -45,11 +52,17 @@ function airedSeason(number: number, episodes: number): AiredSeason {
     airDate: "2022-01-09",
     posterPath: null,
     voteAverage: null,
-    episodes: Array.from({ length: episodes }, (_, at) => airedEpisode(at + 1)),
+    episodes: Array.from({ length: episodes }, (_, at) => airedEpisode(at + 1, at + 1, number)),
   }
 }
 
-const HELD_SEASON = { slug: "my-dress-up-darling-season-1", position: 1, status: "in-progress" }
+const HELD_SEASON = {
+  slug: "my-dress-up-darling-season-1",
+  position: 1,
+  status: "in-progress",
+  ownLength: 0,
+  traktSeason: null,
+}
 
 function heldEpisode(position: number, status: string) {
   return {
@@ -213,4 +226,63 @@ test("a show shelved again writes only what the catalogue lacks", () => {
     [heldEpisode(1, "completed")]
   )
   expect(shelved.pages.map((one) => one.slug)).toEqual(["my-dress-up-darling-s01e02"])
+})
+
+test("a Trakt season TMDB's own seasons lack asks for TMDB's season grouping", () => {
+  expect(seasonsNeedGroups([{ traktSeason: 2 }], [airedSeason(1, 2)])).toBe(true)
+  expect(seasonsNeedGroups([{ traktSeason: 1 }], [airedSeason(1, 2)])).toBe(false)
+  expect(seasonsNeedGroups([{ traktSeason: 0 }], [airedSeason(1, 2)])).toBe(false)
+})
+
+function groupedSeason(
+  number: number,
+  episodes: number,
+  firstNumber: number,
+  rawSeason: number
+): AiredSeason {
+  return {
+    ...airedSeason(number, 0),
+    episodes: Array.from({ length: episodes }, (_, at) =>
+      airedEpisode(firstNumber + at, at + 1, rawSeason)
+    ),
+  }
+}
+
+test("a season page naming a Trakt season is given that season's episodes and no length of its own", () => {
+  const season1 = {
+    slug: "my-dress-up-darling-season-1",
+    position: 1,
+    status: "completed",
+    ownLength: 720,
+    traktSeason: 1,
+  }
+  const season2 = {
+    slug: "my-dress-up-darling-season-2",
+    position: 2,
+    status: "not-started",
+    ownLength: 25,
+    traktSeason: 2,
+  }
+  const shelved = shelvedFor(
+    SHOWN,
+    "209867",
+    [groupedSeason(1, 3, 1, 1), groupedSeason(2, 2, 4, 1)],
+    [season1, season2],
+    []
+  )
+  const episodes = shelved.pages.filter((one) => one.pageTypeSlug === "episode")
+  expect(episodes.map((one) => one.slug)).toEqual([
+    "my-dress-up-darling-s02e01",
+    "my-dress-up-darling-s02e02",
+  ])
+  expect(episodes[0]?.values.position).toBe(1)
+  expect(episodes[0]?.values.externalIdentity).toEqual([
+    {
+      source: "tmdb",
+      externalId: "1004",
+      externalLink: "https://www.themoviedb.org/tv/209867/season/1/episode/4",
+    },
+  ])
+  expect(shelved.pages.find((one) => one.slug === season2.slug)?.values).toEqual({ ownLength: 0 })
+  expect(shelved.pages.find((one) => one.slug === season1.slug)).toBeUndefined()
 })

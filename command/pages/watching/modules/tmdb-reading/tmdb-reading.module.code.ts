@@ -17,7 +17,9 @@ export type Calls = {
 }
 
 export type AiredEpisode = {
+  readonly position: number
   readonly number: number
+  readonly seasonNumber: number
   readonly id: number
   readonly name: string
   readonly overview: string
@@ -88,13 +90,19 @@ export function episodeTypeOf(said: unknown): string | null {
   return read !== null && (episodeType.values as readonly string[]).includes(read) ? read : null
 }
 
-function airedEpisodeIn(said: unknown): AiredEpisode | null {
+function airedEpisodeIn(
+  said: unknown,
+  seasonNumber: number | null = null,
+  position: number | null = null
+): AiredEpisode | null {
   const held = asRecordOrEmpty(said)
   const number = asNumber(held.episode_number)
   const id = asNumber(held.id)
   if (number === null || id === null) return null
   return {
+    position: position ?? number,
     number,
+    seasonNumber: asNumber(held.season_number) ?? seasonNumber ?? number,
     id,
     name: textIn(held.name) ?? `Episode ${String(number)}`,
     overview: textIn(held.overview) ?? "",
@@ -119,7 +127,7 @@ export function airedSeasonIn(said: unknown): AiredSeason | null {
     airDate: textIn(held.air_date),
     posterPath: textIn(held.poster_path),
     voteAverage: asNumber(held.vote_average),
-    episodes: listOf(held.episodes).flatMap((one) => airedEpisodeIn(one) ?? []),
+    episodes: listOf(held.episodes).flatMap((one) => airedEpisodeIn(one, number) ?? []),
   }
 }
 
@@ -127,6 +135,55 @@ export function seasonNumbersIn(said: unknown): readonly number[] {
   return listOf(asRecordOrEmpty(said).seasons)
     .flatMap((one) => asNumber(asRecordOrEmpty(one).season_number) ?? [])
     .filter((one) => one > 0)
+}
+
+const SEASONS_GROUP = 6
+
+function seasonGroupNumberIn(said: unknown): number | null {
+  const held = asRecordOrEmpty(said)
+  const named = textIn(held.name) ?? ""
+  const numbered = /^Season (\d+)$/.exec(named)
+  if (numbered !== null) return Number(numbered[1])
+  return asNumber(held.order)
+}
+
+export async function groupedAiredFor(
+  calls: Calls,
+  token: string,
+  tv: string
+): Promise<readonly AiredSeason[] | null> {
+  const groups = await tmdbAnswer(calls, token, `/tv/${tv}/episode_groups`)
+  if (groups === null) return null
+  const found = listOf(asRecordOrEmpty(groups).results).find(
+    (one) => asNumber(asRecordOrEmpty(one).type) === SEASONS_GROUP
+  )
+  const groupId = textIn(asRecordOrEmpty(found).id)
+  if (groupId === null) return null
+  const said = await tmdbAnswer(calls, token, `/tv/episode_group/${groupId}`)
+  if (said === null) return null
+  const seasons: AiredSeason[] = []
+  for (const one of listOf(asRecordOrEmpty(said).groups)) {
+    const held = asRecordOrEmpty(one)
+    const number = seasonGroupNumberIn(held)
+    if (number === null || number <= 0) continue
+    const first = asRecordOrEmpty(listOf(held.episodes)[0])
+    const rawSeason = asNumber(first.season_number) ?? number
+    const episodes = listOf(held.episodes).flatMap((each, at) => {
+      const order = asNumber(asRecordOrEmpty(each).order)
+      return airedEpisodeIn(each, rawSeason, (order ?? at) + 1) ?? []
+    })
+    seasons.push({
+      number,
+      id: asNumber(held.id) ?? 0,
+      name: textIn(held.name) ?? `Season ${String(number)}`,
+      overview: textIn(held.overview) ?? "",
+      airDate: textIn(held.air_date),
+      posterPath: textIn(held.poster_path),
+      voteAverage: asNumber(held.vote_average),
+      episodes,
+    })
+  }
+  return seasons.length === 0 ? null : seasons
 }
 
 export async function tmdbAnswer(calls: Calls, token: string, path: string): Promise<unknown> {

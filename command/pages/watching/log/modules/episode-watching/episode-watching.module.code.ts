@@ -29,6 +29,8 @@ type HeldSeason = {
   readonly slug: string
   readonly position: number
   readonly status: string | null
+  readonly ownLength: number
+  readonly traktSeason: number | null
 }
 
 type HeldEpisode = {
@@ -62,6 +64,8 @@ const FOLLOWING = "following"
 
 const NOT_STARTED = "not-started"
 
+const ARCHIVED = "archived"
+
 const DESCRIPTION_CEILING = 1000
 
 const SEASON_NAMED = /^Season \d+$/
@@ -85,6 +89,18 @@ function rowsOf(asked: Rows): readonly Row[] | string {
   return "refused" in asked ? asked.refused : asked.rows
 }
 
+function traktSeasonIn(said: unknown): number | null {
+  if (!Array.isArray(said)) return null
+  for (const one of said) {
+    if (one === null || typeof one !== "object") continue
+    const held = one as Readonly<Record<string, unknown>>
+    if (held.source !== "trakt") continue
+    const named = asNumber(held.externalId)
+    if (named !== null) return named
+  }
+  return null
+}
+
 export async function heldUnder(
   calls: Calls,
   shown: HeldShow
@@ -95,7 +111,7 @@ export async function heldUnder(
     await calls.ask({
       pageTypeSlug: season.slug,
       where: { partOfCollections: { has: `${show.slug}/${shown.slug}` } },
-      keys: ["slug", "position", "status"],
+      keys: ["slug", "position", "status", "ownLength", "externalIdentity"],
     })
   )
   if (typeof seasonRows === "string") return seasonRows
@@ -105,7 +121,13 @@ export async function heldUnder(
     const slug = textOf(row.slug)
     const position = numberOf(row.position)
     if (slug === null || position === null) continue
-    seasons.push({ slug, position, status: textOf(row.status) })
+    seasons.push({
+      slug,
+      position,
+      status: textOf(row.status),
+      ownLength: numberOf(row.ownLength) ?? 0,
+      traktSeason: traktSeasonIn(row.externalIdentity),
+    })
     const episodeRows = rowsOf(
       await calls.ask({
         pageTypeSlug: episode.slug,
@@ -128,6 +150,16 @@ export async function heldUnder(
     }
   }
   return { seasons, episodes }
+}
+
+export function seasonsNeedGroups(
+  seasons: readonly { readonly traktSeason: number | null }[],
+  aired: readonly AiredSeason[]
+): boolean {
+  const held = new Set(aired.map((one) => one.number))
+  return seasons.some(
+    (one) => one.traktSeason !== null && one.traktSeason > 0 && !held.has(one.traktSeason)
+  )
 }
 
 function seasonSlugOf(shown: HeldShow, number: number): string {
@@ -192,14 +224,13 @@ function freshSeason(
 function freshEpisode(
   seasonSlug: string,
   tv: string,
-  number: number,
   aired: AiredEpisode
 ): Readonly<Record<string, unknown>> {
   return {
     title: titledWithin(aired.name, episode),
     ...described(aired.overview),
     partOfCollections: [`${season.slug}/${seasonSlug}`],
-    position: aired.number,
+    position: aired.position,
     ownLength: aired.runtime ?? 0,
     ownProgress: 0,
     unit: MINUTES,
@@ -212,7 +243,7 @@ function freshEpisode(
       {
         source: TMDB,
         externalId: String(aired.id),
-        externalLink: `${TMDB_SITE}/${tv}/season/${String(number)}/episode/${String(aired.number)}`,
+        externalLink: `${TMDB_SITE}/${tv}/season/${String(aired.seasonNumber)}/episode/${String(aired.number)}`,
       },
     ],
   }
@@ -254,16 +285,17 @@ function laidOut(
   for (const [number, at] of seasonOf) {
     const held = episodes.filter((one) => one.season === at.slug)
     for (const one of held) placed.push({ ...one, season: number, fresh: null })
+    if (at.held !== null && (at.held.status === COMPLETED || at.held.status === ARCHIVED)) continue
     const airedHere = aired.find((one) => one.number === number)?.episodes ?? []
     for (const one of airedHere) {
-      if (held.some((was) => was.position === one.number)) continue
+      if (held.some((was) => was.position === one.position)) continue
       placed.push({
-        slug: episodeSlugOf(shown, number, one.number),
+        slug: episodeSlugOf(shown, number, one.position),
         season: number,
-        position: one.number,
+        position: one.position,
         status: NOT_STARTED,
         ownLength: one.runtime ?? 0,
-        fresh: freshEpisode(at.slug, tv, number, one),
+        fresh: freshEpisode(at.slug, tv, one),
       })
     }
   }
@@ -355,10 +387,21 @@ export function shelvedFor(
   const laid = laidOut(shown, tv, aired, seasons, episodes)
   const pages: Naming[] = []
   const report: string[] = []
-  for (const at of laid.seasonOf.values()) {
-    if (at.fresh === null) continue
-    pages.push({ pageTypeSlug: season.slug, slug: at.slug, fresh: true, values: at.fresh })
-    report.push(`${season.slug}/${at.slug}  created`)
+  const fed = new Set<number>()
+  for (const one of laid.placed) if (one.fresh !== null) fed.add(one.season)
+  for (const [number, at] of laid.seasonOf) {
+    if (at.fresh !== null) {
+      pages.push({ pageTypeSlug: season.slug, slug: at.slug, fresh: true, values: at.fresh })
+      report.push(`${season.slug}/${at.slug}  created`)
+    } else if (fed.has(number) && (at.held?.ownLength ?? 0) !== 0) {
+      pages.push({
+        pageTypeSlug: season.slug,
+        slug: at.slug,
+        merge: true,
+        values: { ownLength: 0 },
+      })
+      report.push(`${season.slug}/${at.slug}  length from its episodes`)
+    }
   }
   let created = 0
   for (const one of laid.placed) {

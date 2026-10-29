@@ -22,7 +22,11 @@ export const episodeWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A season or an episode the catalogue holds is matched by its number.",
+      statement: "An episode the catalogue holds is matched by its place in its season.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A Trakt season TMDB's own seasons lack is laid out from TMDB's grouping.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -55,10 +59,18 @@ export const episodeWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A season already completed or archived is given no episode.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A season given episodes states no length of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A name TMDB gives that is longer than the page type's title holds is clipped to that length.",
     },
   ],
   createdAt: "2026-10-16T11:21:36.767Z",
-  updatedAt: "2026-10-28T19:24:21.015Z",
+  updatedAt: "2026-10-29T15:11:56.150Z",
 } as const satisfies Module
