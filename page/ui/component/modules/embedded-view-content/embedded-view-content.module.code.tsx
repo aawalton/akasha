@@ -14,7 +14,7 @@ import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.modul
 import { useSupabaseViewCallbacks } from "akasha/page/ui/supabase/modules/use-view-callbacks/use-view-callbacks.module.code.ts"
 import { viewDataOfPage } from "akasha/page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { useMemo } from "react"
+import { useEffect, useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"
 
@@ -23,11 +23,13 @@ export function EmbeddedViewContent({
   id,
   relation,
   framed,
+  onTotal,
 }: {
   pageTypeSlug: PageTypeSlug
   id: string
   relation: string
   framed?: boolean
+  onTotal?: (total: number | null) => void
 }) {
   const { page } = usePage({ pageTypeSlug, id })
   const slug = toPageDataJSON(page?.properties).slug
@@ -63,6 +65,11 @@ export function EmbeddedViewContent({
   )
 
   const loading = pageTypesLoading || viewsLoading
+
+  useEffect(() => {
+    if (!loading && view === undefined) onTotal?.(null)
+  }, [loading, view, onTotal])
+
   if (narrows === null || (!loading && view === undefined)) return null
 
   return (
@@ -81,6 +88,7 @@ export function EmbeddedViewContent({
           pageTypes={pageTypes}
           onUpdateView={viewCallbacks.onUpdateView}
           narrows={narrows}
+          onTotal={onTotal}
         />
       )}
     </PageSystemShell>

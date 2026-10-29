@@ -17,9 +17,13 @@ export const collectionChildren = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The pages are drawn by the view the page's own type embeds.",
+      statement: "The pages are drawn by the view the nearest type in the page's own chain embeds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page nothing names shows its properties rather than an empty view.",
     },
   ],
   createdAt: "2026-10-29T14:15:13.316Z",
-  updatedAt: "2026-10-29T14:15:13.316Z",
+  updatedAt: "2026-10-29T14:48:21.774Z",
 } as const satisfies Module

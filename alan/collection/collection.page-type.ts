@@ -198,9 +198,18 @@ export const collection = {
       decisionKind: "decision-kind/departure",
       statement: "A collection is marked done and taken back from its card and its row.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A collection's page shows the pages under it through the view its own type embeds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A collection nothing sits under shows its properties rather than an empty view.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-10-28T21:52:13.528Z",
+  updatedAt: "2026-10-29T14:48:21.774Z",
 } as const satisfies PageType

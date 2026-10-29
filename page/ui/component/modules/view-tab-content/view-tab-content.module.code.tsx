@@ -41,6 +41,7 @@ import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-wi
 import { useCompletePageOptimistic } from "akasha/page/ui/supabase/modules/use-complete-page-optimistic/use-complete-page-optimistic.module.code.tsx"
 import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { useEffect } from "react"
 
 export function ViewTabContent({
   parentPageTypeId,
@@ -52,6 +53,7 @@ export function ViewTabContent({
   pageTypeOptions,
   embedded,
   narrows,
+  onTotal,
 }: {
   parentPageTypeId: string
   parentLocked?: LockedFacet
@@ -62,6 +64,7 @@ export function ViewTabContent({
   pageTypeOptions?: readonly PageTypeOption[]
   embedded?: boolean
   narrows?: readonly ViewFilter[]
+  onTotal?: (total: number | null) => void
 }) {
   const {
     viewConfig,
@@ -99,6 +102,10 @@ export function ViewTabContent({
   const userId = useUserId()
   const editing = useAppEditing()
   const completing = useAppCompleting()
+
+  useEffect(() => {
+    onTotal?.(totalCount)
+  }, [onTotal, totalCount])
 
   const { handleCreatePage, handleIconChange, handleDeletePage, handleToggleFavorite } =
     useViewRowHandlers({

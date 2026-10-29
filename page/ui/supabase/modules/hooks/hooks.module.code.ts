@@ -370,6 +370,24 @@ export function useViewsEmbeddedBy({
 }: {
   pageTypeSlug?: string | undefined
 }): ViewsFound {
-  const where = useMemo(() => viewsWhere(pageTypeSlug, EMBEDDED_BY_KEY, PAGE_TYPE), [pageTypeSlug])
-  return useViewsWhere(where, pageTypeSlug)
+  const { pageTypes, isLoading: typesLoading } = usePageTypeLine(pageTypeSlug ?? null)
+  const chain = useMemo(
+    () => (pageTypeSlug == null ? NO_SLUGS : pageTypeChain(pageTypes, pageTypeSlug)),
+    [pageTypeSlug, pageTypes]
+  )
+  const where = useMemo<PageWhere>(
+    () =>
+      chain.length === 0
+        ? [{ key: "id", eq: NEVER_MATCH_VALUE }]
+        : [{ key: EMBEDDED_BY_KEY, in: chain.map((one) => namedAs(PAGE_TYPE, one, null)) }],
+    [chain]
+  )
+  const found = useViewsWhere(where, pageTypeSlug)
+  const views = useMemo(() => {
+    const nearness = new Map(chain.map((one, at) => [namedAs(PAGE_TYPE, one, null), at]))
+    const distance = (one: PageWithProperties): number =>
+      nearness.get(String(one.properties?.embeddedBy)) ?? chain.length
+    return [...found.views].sort((one, two) => distance(one) - distance(two))
+  }, [found.views, chain])
+  return { views, isLoading: found.isLoading || typesLoading }
 }
