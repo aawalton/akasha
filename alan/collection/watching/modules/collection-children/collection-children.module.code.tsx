@@ -11,12 +11,14 @@ export function CollectionChildren({ pageTypeSlug, id }: PageDrawingProps) {
   const [count, setCount] = useState<number | null>(null)
   return (
     <PageDefaultContent pageTypeSlug={pageTypeSlug} id={id} titleOnly={count !== 0}>
-      <EmbeddedViewContent
-        pageTypeSlug={pageTypeSlug}
-        id={id}
-        relation={PART_OF}
-        onTotal={setCount}
-      />
+      {count === 0 ? null : (
+        <EmbeddedViewContent
+          pageTypeSlug={pageTypeSlug}
+          id={id}
+          relation={PART_OF}
+          onTotal={setCount}
+        />
+      )}
     </PageDefaultContent>
   )
 }
