@@ -7,7 +7,7 @@ export const marvelSLukeCageSeason1 = {
   title: "Marvel's Luke Cage Season 1",
   partOfCollections: ["show/luke-cage"],
   position: 1,
-  ownLength: 703.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const marvelSLukeCageSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:32:02.217Z",
 } as const satisfies Season
