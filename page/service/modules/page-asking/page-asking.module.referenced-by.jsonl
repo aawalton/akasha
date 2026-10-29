@@ -70,6 +70,7 @@
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-text-agreement/set-text-agreement.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/eso/ui-harness/modules/host-files/host-files.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/items/core/modules/keyed-titles/keyed-titles.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts","typed":false,"deferred":false}

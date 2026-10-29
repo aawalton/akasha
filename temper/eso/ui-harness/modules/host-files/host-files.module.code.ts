@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addon/build/resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { listAllAddons } from "akasha/temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"
@@ -8,16 +9,18 @@ import { coreConfigFromPages } from "akasha/temper/watcher/modules/watcher-expor
 
 const ADDONS_UNDER = "AddOns"
 
+type PageCollect = typeof collectPages
+
 type BuiltFromPages = Readonly<Record<string, Readonly<Record<string, () => Promise<string>>>>>
 
-const BUILT_FROM_PAGES: BuiltFromPages = {
-  Temper: { "TemperConfig.lua": () => coreConfigFromPages() },
+export function builtFromPages(collect: PageCollect = collectPages): BuiltFromPages {
+  return { Temper: { "TemperConfig.lua": () => coreConfigFromPages(collect) } }
 }
 
 export async function hostFileFromPages(
   addon: string,
   rel: string,
-  built: BuiltFromPages = BUILT_FROM_PAGES
+  built: BuiltFromPages = builtFromPages()
 ): Promise<string | null> {
   const build = built[addon]?.[rel]
   return build === undefined ? null : build()

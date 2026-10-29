@@ -1,7 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
+  builtFromPages,
   hostFileFromPages,
   hostFilesOf,
   liveHostFileAt,
@@ -80,8 +84,18 @@ test("a host file no page builds is answered with nothing", async () => {
   expect(await hostFileFromPages("Plain", "HostingConfig.lua", BUILT)).toBe(null)
 })
 
+const collectFromCheckout = async (args: { pageTypeSlug?: string; pageSize?: number }) => {
+  const pageTypeSlug = args.pageTypeSlug
+  if (pageTypeSlug === undefined) throw new Error("a page type is needed to read pages")
+  const answered = asking(akashaRoot(), { pageTypeSlug, limit: args.pageSize } as never)
+  if ("refused" in answered) throw new Error(answered.refused)
+  return answered.rows.map(asPage)
+}
+
 test("Temper's core config is built from the HUD pages", async () => {
-  const built = (await hostFileFromPages("Temper", "TemperConfig.lua")) ?? ""
+  const built =
+    (await hostFileFromPages("Temper", "TemperConfig.lua", builtFromPages(collectFromCheckout))) ??
+    ""
   expect(built).toContain("TemperConfig =")
   expect(built).toContain('["hudLayout"] =')
   expect(built).toContain('["panels"] =')
