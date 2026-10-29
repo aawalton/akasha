@@ -20,7 +20,8 @@ export const rwby2 = {
       externalLink: "https://trakt.tv/shows/rwby",
       lastSyncedAt: "2026-01-16",
     },
+    { source: "tmdb", externalId: "50137", externalLink: "https://www.themoviedb.org/tv/50137" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:40:16.337Z",
 } as const satisfies Show
