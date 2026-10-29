@@ -7,11 +7,11 @@ export const soloLevelingS01e18 = {
   description:
     "The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes the fight.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 18,
   publishedAt: "2025-02-09",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e18 = {
   stillPath: "/byJcQpCL4XiTwEl4pMG2HaT2bkr.jpg",
   voteAverage: 9.3,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:34:06.671Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:34:06.671Z",
 } as const satisfies Episode
