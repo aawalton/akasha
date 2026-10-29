@@ -14,7 +14,8 @@ export const eureka = {
   publishedAt: "2006-07-18",
   externalIdentity: [
     { source: "trakt", externalLink: "https://trakt.tv/shows/eureka", lastSyncedAt: "2025-10-13" },
+    { source: "tmdb", externalId: "4620", externalLink: "https://www.themoviedb.org/tv/4620" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:29:56.528Z",
 } as const satisfies Show
