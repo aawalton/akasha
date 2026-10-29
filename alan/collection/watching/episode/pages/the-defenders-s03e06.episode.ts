@@ -1,0 +1,26 @@
+import type { Episode } from "akasha/alan/collection/watching/episode/episode.page-type.types.ts"
+
+export const theDefendersS03e06 = {
+  id: "01a18856-c98d-7694-bbed-0f8aec1b451e",
+  type: "page-type/episode",
+  slug: "the-defenders-s03e06",
+  ownLength: 60,
+  ownProgress: 0,
+  partOfCollections: ["season/the-defenders-season-3"],
+  position: 6,
+  publishedAt: "1963-11-02",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "454047",
+      externalLink: "https://www.themoviedb.org/tv/11515/season/3/episode/6",
+    },
+  ],
+  title: "The Cruel Hook",
+  episodeType: "standard",
+  voteAverage: 0,
+  createdAt: "2026-10-29T15:45:51.498Z",
+  updatedAt: "2026-10-29T15:45:51.498Z",
+} as const satisfies Episode
