@@ -7,7 +7,7 @@ export const planetOfTheApesSeason1 = {
   title: "Planet of the Apes Season 1",
   partOfCollections: ["show/planet-of-the-apes-1974"],
   position: 1,
-  ownLength: 840,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const planetOfTheApesSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:23:44.813Z",
 } as const satisfies Season
