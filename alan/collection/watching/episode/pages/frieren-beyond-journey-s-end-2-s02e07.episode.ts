@@ -7,11 +7,11 @@ export const frierenBeyondJourneySEnd2S02e07 = {
   description:
     "Frieren, Fern, and Methode enter the woods to look for the four-armed Divine Revolte.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/frieren-beyond-journey-s-end-season-2"],
   position: 7,
   publishedAt: "2026-03-06",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const frierenBeyondJourneySEnd2S02e07 = {
   stillPath: "/wxaQNUUhaRHiNNgEY236WUenB27.jpg",
   voteAverage: 8.4,
   createdAt: "2026-10-29T15:14:06.932Z",
-  updatedAt: "2026-10-29T15:14:06.932Z",
+  updatedAt: "2026-10-29T17:56:37.258Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T17:56:37.258Z",
 } as const satisfies Episode
