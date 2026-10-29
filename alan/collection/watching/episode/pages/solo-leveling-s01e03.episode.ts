@@ -7,11 +7,11 @@ export const soloLevelingS01e03 = {
   description:
     "Jinwoo remains behind in the temple dungeon to save his few surviving party members, and with a swing from the god statue's blade, his life comes to an end—or so it seems, before he wakes up in a hospital bed.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 3,
   publishedAt: "2024-01-21",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e03 = {
   stillPath: "/k2ZJYbwUzBW7HNNMMmWBv3r8RhT.jpg",
   voteAverage: 7.7,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:19.588Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:19.588Z",
 } as const satisfies Episode
