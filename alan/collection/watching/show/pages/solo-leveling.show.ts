@@ -11,7 +11,7 @@ export const soloLeveling = {
   ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
-  status: "following",
+  status: "completed",
   grade: "B",
   publishedAt: "2024-01-06",
   externalIdentity: [
@@ -25,9 +25,10 @@ export const soloLeveling = {
       source: "tmdb",
       externalId: "127532",
       externalLink: "https://www.themoviedb.org/tv/127532",
-      lastSyncedAt: "2026-10-28",
+      lastSyncedAt: "2026-10-29",
     },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-10-28T20:38:30.445Z",
+  updatedAt: "2026-10-29T14:34:42.668Z",
+  completedAt: "2026-10-29",
 } as const satisfies Show
