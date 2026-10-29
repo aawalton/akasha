@@ -7,8 +7,8 @@ export const severanceSeason2 = {
   title: "Severance Season 2",
   partOfCollections: ["show/severance"],
   position: 2,
-  ownLength: 538.2,
-  ownProgress: 538.2,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "A",
@@ -21,5 +21,6 @@ export const severanceSeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:30:21.510Z",
+  progressedAt: "2026-10-29T16:30:21.510Z",
 } as const satisfies Season
