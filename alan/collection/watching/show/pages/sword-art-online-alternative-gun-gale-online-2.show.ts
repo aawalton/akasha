@@ -19,7 +19,8 @@ export const swordArtOnlineAlternativeGunGaleOnline2 = {
       externalLink: "https://trakt.tv/shows/sword-art-online-alternative-gun-gale-online",
       lastSyncedAt: "2025-10-13",
     },
+    { source: "tmdb", externalId: "78204", externalLink: "https://www.themoviedb.org/tv/78204" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:30:59.103Z",
 } as const satisfies Show

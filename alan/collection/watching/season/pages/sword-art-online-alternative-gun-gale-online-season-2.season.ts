@@ -7,8 +7,8 @@ export const swordArtOnlineAlternativeGunGaleOnlineSeason2 = {
   title: "Sword Art Online Alternative: Gun Gale Online Season 2",
   partOfCollections: ["show/sword-art-online-alternative-gun-gale-online-2"],
   position: 2,
-  ownLength: 288,
-  ownProgress: 288,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-10-04",
@@ -21,5 +21,6 @@ export const swordArtOnlineAlternativeGunGaleOnlineSeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.966Z",
-  updatedAt: "2026-10-28T18:39:52.205Z",
+  updatedAt: "2026-10-29T16:30:59.103Z",
+  progressedAt: "2026-10-29T16:30:59.103Z",
 } as const satisfies Season
