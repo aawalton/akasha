@@ -1,0 +1,1 @@
+You set yourself an exercise: Fibonacci sequences taken modulo n+2, then n+1, then on down, every starting pair carried round to its loop and to the length of that loop.
