@@ -7,11 +7,11 @@ export const soloLevelingS01e20 = {
   description:
     "Seeking the remaining ingredient for the Elixir of Life, Jinwoo continues his conquest of the Demon's Castle.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 20,
   publishedAt: "2025-02-23",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e20 = {
   stillPath: "/unMSFOjTEsQ0rNfqkvQSfE4ar6S.jpg",
   voteAverage: 8.7,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:34:13.837Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:34:13.837Z",
 } as const satisfies Episode
