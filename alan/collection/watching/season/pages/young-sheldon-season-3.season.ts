@@ -7,7 +7,7 @@ export const youngSheldonSeason3 = {
   title: "Young Sheldon Season 3",
   partOfCollections: ["show/young-sheldon"],
   position: 3,
-  ownLength: 406.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const youngSheldonSeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.968Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:49:31.561Z",
 } as const satisfies Season

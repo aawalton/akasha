@@ -18,7 +18,8 @@ export const youngSheldon = {
       externalLink: "https://trakt.tv/shows/young-sheldon",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "71728", externalLink: "https://www.themoviedb.org/tv/71728" },
   ],
   createdAt: "2026-09-03T16:03:14.355Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:49:31.561Z",
 } as const satisfies Show
