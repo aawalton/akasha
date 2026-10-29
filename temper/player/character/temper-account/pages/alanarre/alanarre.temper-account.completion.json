@@ -75799,7 +75799,7 @@
       "name": "Umbral Edge",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Nightblade",
-      "slotsUnlocked": 20,
+      "slotsUnlocked": 22,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75856,7 +75856,7 @@
         },
         {
           "name": "Umbral Edge Belt",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Umbral Edge Girdle",
@@ -75892,7 +75892,7 @@
         },
         {
           "name": "Umbral Edge Ring",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Umbral Edge Dagger",
