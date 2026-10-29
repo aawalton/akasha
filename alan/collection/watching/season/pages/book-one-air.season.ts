@@ -7,7 +7,7 @@ export const bookOneAir = {
   title: "Book One: Air",
   partOfCollections: ["show/the-legend-of-korra"],
   position: 1,
-  ownLength: 276,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const bookOneAir = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.960Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:46:25.891Z",
 } as const satisfies Season
