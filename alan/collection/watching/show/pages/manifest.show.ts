@@ -19,7 +19,8 @@ export const manifest = {
       externalLink: "https://trakt.tv/shows/manifest",
       lastSyncedAt: "2026-01-01",
     },
+    { source: "tmdb", externalId: "79696", externalLink: "https://www.themoviedb.org/tv/79696" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:32:09.865Z",
 } as const satisfies Show
