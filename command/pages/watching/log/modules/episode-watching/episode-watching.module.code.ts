@@ -67,8 +67,6 @@ const FOLLOWING = "following"
 
 const NOT_STARTED = "not-started"
 
-const ARCHIVED = "archived"
-
 const DESCRIPTION_CEILING = 1000
 
 const SEASON_NAMED = /^Season \d+$/
@@ -178,13 +176,8 @@ export async function airedUnder(
   return grouped ?? `TMDB states no season grouping for its show ${tv}`
 }
 
-export async function shelvedHeld(
-  shown: HeldShow,
-  status: string,
-  calls: Calls
-): Promise<Planned | string> {
+export async function shelvedHeld(shown: HeldShow, calls: Calls): Promise<Planned | string> {
   const nothing: Planned = { pages: [], report: [] }
-  if (status === COMPLETED) return nothing
   const tv = tmdbIdOf(shown)
   if (tv === null) return nothing
   const token = tokenSaid()
@@ -319,17 +312,18 @@ function laidOut(
   for (const [number, at] of seasonOf) {
     const held = episodes.filter((one) => one.season === at.slug)
     for (const one of held) placed.push({ ...one, season: number, fresh: null })
-    if (at.held !== null && (at.held.status === COMPLETED || at.held.status === ARCHIVED)) continue
+    const done = at.held?.status === COMPLETED
     const airedHere = aired.find((one) => one.number === number)?.episodes ?? []
     for (const one of airedHere) {
       if (held.some((was) => was.position === one.position)) continue
+      const watched = done ? { status: COMPLETED, ownProgress: one.runtime ?? 0 } : {}
       placed.push({
         slug: episodeSlugOf(shown, number, one.position),
         season: number,
         position: one.position,
-        status: NOT_STARTED,
+        status: done ? COMPLETED : NOT_STARTED,
         ownLength: one.runtime ?? 0,
-        fresh: freshEpisode(at.slug, tv, one),
+        fresh: { ...freshEpisode(at.slug, tv, one), ...watched },
       })
     }
   }
@@ -428,11 +422,12 @@ export function shelvedFor(
       pages.push({ pageTypeSlug: season.slug, slug: at.slug, fresh: true, values: at.fresh })
       report.push(`${season.slug}/${at.slug}  created`)
     } else if (fed.has(number) && (at.held?.ownLength ?? 0) !== 0) {
+      const done = at.held?.status === COMPLETED ? { ownProgress: 0 } : {}
       pages.push({
         pageTypeSlug: season.slug,
         slug: at.slug,
         merge: true,
-        values: { ownLength: 0 },
+        values: { ownLength: 0, ...done },
       })
       report.push(`${season.slug}/${at.slug}  length from its episodes`)
     }

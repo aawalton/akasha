@@ -274,22 +274,31 @@ test("a season page naming a Trakt season is given that season's episodes and no
   )
   const episodes = shelved.pages.filter((one) => one.pageTypeSlug === "episode")
   expect(episodes.map((one) => one.slug)).toEqual([
+    "my-dress-up-darling-s01e01",
+    "my-dress-up-darling-s01e02",
+    "my-dress-up-darling-s01e03",
     "my-dress-up-darling-s02e01",
     "my-dress-up-darling-s02e02",
   ])
-  expect(episodes[0]?.values.position).toBe(1)
-  expect(episodes[0]?.values.externalIdentity).toEqual([
+  const second = episodes.find((one) => one.slug === "my-dress-up-darling-s02e01")
+  expect(second?.values.position).toBe(1)
+  expect(second?.values.externalIdentity).toEqual([
     {
       source: "tmdb",
       externalId: "1004",
       externalLink: "https://www.themoviedb.org/tv/209867/season/1/episode/4",
     },
   ])
+  expect(episodes[0]?.values.status).toBe("completed")
+  expect(second?.values.status).toBe("not-started")
   expect(shelved.pages.find((one) => one.slug === season2.slug)?.values).toEqual({ ownLength: 0 })
-  expect(shelved.pages.find((one) => one.slug === season1.slug)).toBeUndefined()
+  expect(shelved.pages.find((one) => one.slug === season1.slug)?.values).toEqual({
+    ownLength: 0,
+    ownProgress: 0,
+  })
 })
 
-test("a held show is shelved from TMDB's season grouping and a completed season gets no episode", async () => {
+test("a held show is shelved from TMDB's season grouping and a completed season's episodes are watched", async () => {
   const before = process.env.TMDB_READ_ACCESS_TOKEN
   process.env.TMDB_READ_ACCESS_TOKEN = "t"
   try {
@@ -354,15 +363,20 @@ test("a held show is shelved from TMDB's season grouping and a completed season 
       write: () => Promise.resolve({ commit: "def", wrote: [], took: [] }),
       fetch: (url) => Promise.resolve(Response.json(answers.get(url) ?? {})),
     }
-    const shelved = await shelvedHeld(shown, "following", calls)
+    const shelved = await shelvedHeld(shown, calls)
     if (typeof shelved === "string") throw new Error(shelved)
     expect(
       shelved.pages.filter((one) => one.pageTypeSlug === "episode").map((one) => one.slug)
-    ).toEqual(["my-dress-up-darling-s02e01"])
+    ).toEqual(["my-dress-up-darling-s01e01", "my-dress-up-darling-s02e01"])
     expect(
       shelved.pages.find((one) => one.slug === "my-dress-up-darling-season-2")?.values
     ).toEqual({ ownLength: 0 })
-    expect(shelved.pages.find((one) => one.slug === "my-dress-up-darling-season-1")).toBeUndefined()
+    expect(
+      shelved.pages.find((one) => one.slug === "my-dress-up-darling-season-1")?.values
+    ).toEqual({
+      ownLength: 0,
+      ownProgress: 0,
+    })
   } finally {
     if (before === undefined) delete process.env.TMDB_READ_ACCESS_TOKEN
     else process.env.TMDB_READ_ACCESS_TOKEN = before

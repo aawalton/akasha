@@ -236,7 +236,7 @@ async function titleLogged(
     const stated = (kept.externalIdentity ?? held.identities) as readonly Row[]
     const streamed = await streamedFor(held.kind, stated, held.services, today, calls)
     const shelved =
-      held.kind === show.slug ? await shelvedHeld(held, status, calls) : { pages: [], report: [] }
+      held.kind === show.slug ? await shelvedHeld(held, calls) : { pages: [], report: [] }
     if (typeof shelved === "string") return refusedBy([shelved], OPERATIONAL)
     const values = { ...kept, ...streamed.values }
     const { clears } = streamed

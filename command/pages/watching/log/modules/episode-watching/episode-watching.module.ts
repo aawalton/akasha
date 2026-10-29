@@ -55,15 +55,20 @@ export const episodeWatching = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A show shelved is given every season and episode TMDB lists, none of them watched.",
+        "A show shelved is given every season and episode TMDB lists, its completed season's watched.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A season already completed or archived is given no episode.",
+      statement: "A season already completed is given its episodes, each watched.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A season given episodes states no length of its own.",
+      statement: "A season already archived is given its episodes, none of them watched.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A season given episodes states no length of its own, and no progress where it stated a length.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -72,5 +77,5 @@ export const episodeWatching = {
     },
   ],
   createdAt: "2026-10-16T11:21:36.767Z",
-  updatedAt: "2026-10-29T15:11:56.150Z",
+  updatedAt: "2026-10-29T16:12:43.174Z",
 } as const satisfies Module
