@@ -7,8 +7,8 @@ export const pushingDaisiesSeason1 = {
   title: "Pushing Daisies Season 1",
   partOfCollections: ["show/pushing-daisies"],
   position: 1,
-  ownLength: 376.2,
-  ownProgress: 376.2,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2007-10-04",
@@ -21,5 +21,6 @@ export const pushingDaisiesSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:29:56.379Z",
+  progressedAt: "2026-10-29T16:29:56.379Z",
 } as const satisfies Season

@@ -21,7 +21,8 @@ export const pushingDaisies = {
       externalLink: "https://trakt.tv/shows/pushing-daisies",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "5639", externalLink: "https://www.themoviedb.org/tv/5639" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:29:56.379Z",
 } as const satisfies Show
