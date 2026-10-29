@@ -18,7 +18,8 @@ export const starTrekVoyager = {
       externalLink: "https://trakt.tv/shows/star-trek-voyager",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "1855", externalLink: "https://www.themoviedb.org/tv/1855" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:42:27.464Z",
 } as const satisfies Show
