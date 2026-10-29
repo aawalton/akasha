@@ -22,7 +22,12 @@ export const charactersLeaderboardPlacement = {
       statement:
         "Nothing here removes a notification, so the game still offers the player that score to post.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A notification already there as the add-on loads marks nothing, as it may be old.",
+    },
   ],
   createdAt: "2026-10-29T19:56:38.732Z",
-  updatedAt: "2026-10-29T19:56:38.732Z",
+  updatedAt: "2026-10-29T20:02:56.181Z",
 } as const satisfies Module

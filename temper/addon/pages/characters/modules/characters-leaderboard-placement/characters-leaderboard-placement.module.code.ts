@@ -22,6 +22,16 @@ const ENDLESS_DUNGEON_KIND = "endless-dungeon"
 
 const PLAYER_MEMBER_AT = 4
 
+const noticedNotificationIds = new Set<number>()
+
+function noticeNotificationsAlreadyThere(this: void): undefined {
+  let notificationId = GetNextLeaderboardScoreNotificationId(undefined)
+  while (notificationId !== undefined) {
+    noticedNotificationIds.add(notificationId)
+    notificationId = GetNextLeaderboardScoreNotificationId(notificationId)
+  }
+}
+
 function leaderboardKindOf(contentType: number): string | undefined {
   if (contentType === LEADERBOARD_SCORE_NOTIFICATION_TYPE_RAID) return RAID_KIND
   if (contentType === LEADERBOARD_SCORE_NOTIFICATION_TYPE_ENDLESS_DUNGEON)
@@ -68,10 +78,13 @@ function onLeaderboardScoreNotification(this: void): undefined {
   let marked = 0
   let notificationId = GetNextLeaderboardScoreNotificationId(undefined)
   while (notificationId !== undefined) {
-    const [contentType] = GetLeaderboardScoreNotificationInfo(notificationId)
-    const kind = leaderboardKindOf(contentType)
-    if (kind !== undefined && notificationNamesPlayer(notificationId)) {
-      marked += markPlaced(kind)
+    if (!noticedNotificationIds.has(notificationId)) {
+      noticedNotificationIds.add(notificationId)
+      const [contentType] = GetLeaderboardScoreNotificationInfo(notificationId)
+      const kind = leaderboardKindOf(contentType)
+      if (kind !== undefined && notificationNamesPlayer(notificationId)) {
+        marked += markPlaced(kind)
+      }
     }
     notificationId = GetNextLeaderboardScoreNotificationId(notificationId)
   }
@@ -81,6 +94,7 @@ function onLeaderboardScoreNotification(this: void): undefined {
 }
 
 export function registerLeaderboardPlacement(): undefined {
+  noticeNotificationsAlreadyThere()
   EVENT_MANAGER.RegisterForEvent(
     LEADERBOARD_PLACEMENT_EVENT,
     EVENT_LEADERBOARD_SCORE_NOTIFICATION_ADDED,
