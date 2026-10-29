@@ -5,11 +5,11 @@ export const aBoneToPickAnAuroraTeagardenMystery = {
   type: "page-type/movie",
   slug: "a-bone-to-pick-an-aurora-teagarden-mystery",
   ownLength: 83,
-  ownProgress: 0,
+  ownProgress: 83,
   partOfCollections: ["franchise/aurora-teagarden-mystery"],
   position: 1,
   publishedAt: "2015-04-07",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -31,5 +31,7 @@ export const aBoneToPickAnAuroraTeagardenMystery = {
     "streaming-service/philo",
   ],
   createdAt: "2026-10-25T19:46:21.634Z",
-  updatedAt: "2026-10-28T20:38:30.445Z",
+  updatedAt: "2026-10-29T00:45:58.530Z",
+  completedAt: "2026-10-29T00:45:58.119Z",
+  progressedAt: "2026-10-29T00:45:58.530Z",
 } as const satisfies Movie
