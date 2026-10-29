@@ -7,7 +7,7 @@ export const starWarsTalesOfTheJediMiniseries = {
   title: "Star Wars: Tales of the Jedi Miniseries",
   partOfCollections: ["show/star-wars-tales-of-the-jedi"],
   position: 1,
-  ownLength: 99,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const starWarsTalesOfTheJediMiniseries = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.965Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:42:51.435Z",
 } as const satisfies Season

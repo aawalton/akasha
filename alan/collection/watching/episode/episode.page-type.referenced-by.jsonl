@@ -13228,6 +13228,12 @@
 {"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/star-wars-resistance-s02e16.episode.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/star-wars-resistance-s02e17.episode.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/star-wars-resistance-s02e18.episode.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/star-wars-tales-of-the-jedi-s01e01.episode.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/star-wars-tales-of-the-jedi-s01e02.episode.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/star-wars-tales-of-the-jedi-s01e03.episode.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/star-wars-tales-of-the-jedi-s01e04.episode.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/star-wars-tales-of-the-jedi-s01e05.episode.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/star-wars-tales-of-the-jedi-s01e06.episode.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/steins-gate-0-s01e01.episode.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/steins-gate-0-s01e02.episode.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/steins-gate-0-s01e03.episode.ts","typed":true,"deferred":false}

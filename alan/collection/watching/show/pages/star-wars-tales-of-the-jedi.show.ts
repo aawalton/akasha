@@ -18,7 +18,8 @@ export const starWarsTalesOfTheJedi = {
       externalLink: "https://trakt.tv/shows/star-wars-tales-of-the-jedi",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "203085", externalLink: "https://www.themoviedb.org/tv/203085" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:42:51.435Z",
 } as const satisfies Show
