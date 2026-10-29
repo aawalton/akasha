@@ -1,5 +1,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-house-stop/inventory-house-stop.module.ts","id":"01a1844c-e32d-7fe9-8b5d-ca403f31bdd7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-house-travel/inventory-house-travel.module.ts","id":"01a1844f-f022-7c74-86fc-4a84899fcc2c"}
+{"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-vision/pages/hearty-vitality/hearty-vitality.temper-vision.ts","id":"01a188b6-21c0-7270-a7ec-57d2d6ad015c"}
+{"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-vision/pages/scorching-strikes/scorching-strikes.temper-vision.ts","id":"01a188b6-21c0-7a1e-806c-1b59c4fb38c1"}
 {"propertySlug":"import","fileName":"gap.decision-kind.ts","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"gap.decision-kind.ts","path":"command/pages/gap/delete/gap-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}

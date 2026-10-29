@@ -5738,6 +5738,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-target-type/modules/target-type-ids-keeping/target-type-ids-keeping.change-generator.ts","id":"01a0e0b8-1629-77ee-bb85-17302aa960ea"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-target-type/modules/target-type-ids/target-type-ids.data-table.ts","id":"01a0e0b8-162a-7d51-9d4b-c85c0efecf9c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-verse/temper-verse.page-type.ts","id":"01a188b6-21c0-72b4-a8d9-c326568f78f5"}
+{"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-vision/pages/hearty-vitality/hearty-vitality.temper-vision.ts","id":"01a188b6-21c0-7270-a7ec-57d2d6ad015c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-vision/temper-vision.page-type.ts","id":"01a188b6-21c0-7075-873e-5cd3b9923575"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.ts","id":"01a060b8-08c4-79bd-a673-660169cf2ee9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.ts","id":"01a060b8-08c5-704c-a98f-25bae2ac07e7"}
