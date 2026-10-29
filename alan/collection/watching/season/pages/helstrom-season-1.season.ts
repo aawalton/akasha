@@ -7,7 +7,7 @@ export const helstromSeason1 = {
   title: "Helstrom Season 1",
   partOfCollections: ["show/helstrom"],
   position: 1,
-  ownLength: 516,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const helstromSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:31:16.024Z",
 } as const satisfies Season
