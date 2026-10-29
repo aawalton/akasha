@@ -7,7 +7,7 @@ export const doctorWhoSeason11 = {
   title: "Doctor Who Season 11",
   partOfCollections: ["show/doctor-who-2005"],
   position: 11,
-  ownLength: 510,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "paused",
@@ -21,5 +21,5 @@ export const doctorWhoSeason11 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.961Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:29:29.394Z",
 } as const satisfies Season
