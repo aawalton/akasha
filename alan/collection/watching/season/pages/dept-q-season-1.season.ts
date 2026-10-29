@@ -7,8 +7,8 @@ export const deptQSeason1 = {
   title: "Dept. Q Season 1",
   partOfCollections: ["show/dept-q"],
   position: 1,
-  ownLength: 498,
-  ownProgress: 498,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-05-29",
@@ -21,5 +21,6 @@ export const deptQSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.961Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:34:55.790Z",
+  progressedAt: "2026-10-29T16:34:55.790Z",
 } as const satisfies Season
