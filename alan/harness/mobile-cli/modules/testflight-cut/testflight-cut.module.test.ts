@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { ALTOOL_MARKERS } from "akasha/alan/harness/mobile-cli/modules/altool/altool.module.code.ts"
 import type { CutFingerprint } from "akasha/alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"
 import {
   cutRecordCall,
@@ -85,13 +86,22 @@ describe("what a run names it had done", () => {
   })
 
   test("an upload carried out says a build number may be spent", () => {
-    const said = macRanSaid("mac", false)
+    const said = macRanSaid("mac", `** ARCHIVE SUCCEEDED **\n${ALTOOL_MARKERS.uploadOk}\n`)
     expect(said).toContain("uploaded")
     expect(said).toContain("may already be spent")
   })
 
+  test("a run that stopped before the upload says nothing was sent, so no one hunts a spent number", () => {
+    const said = macRanSaid("mac", "ASC_PERMISSION_DENIED: GET /v1/certificates?limit=200 403\n")
+    expect(said).toContain("stopped before the archive")
+    expect(said).not.toContain("may already be spent")
+  })
+
   test("an upload skipped says nothing was sent, so no one hunts a spent number", () => {
-    const said = macRanSaid("mac", true)
+    const said = macRanSaid(
+      "mac",
+      `** ARCHIVE SUCCEEDED **\n${ALTOOL_MARKERS.validateOk}\nMOBILE_DEPLOY_TESTFLIGHT_NO_UPLOAD_OK\n`
+    )
     expect(said).toContain("nothing was sent to Apple")
     expect(said).not.toContain("may already be spent")
   })

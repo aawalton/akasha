@@ -96,9 +96,18 @@ export const testflightCut = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That naming says an upload only where the output carries the upload's marker.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run carrying no such marker is named as stopped before the upload was confirmed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What the fingerprint recorder names is kept rather than dropped at the call.",
     },
   ],
   createdAt: "2026-09-02T07:53:10.598Z",
-  updatedAt: "2026-10-26T20:20:30.515Z",
+  updatedAt: "2026-10-29T16:30:55.893Z",
 } as const satisfies Module

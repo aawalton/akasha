@@ -66,11 +66,18 @@ const FILING_BACKOFF_MS = [2_000, 5_000, 15_000] as const
 
 type Recorder = (appSlug: string, fp: CutFingerprint, done: string[]) => Promise<void>
 
-export function macRanSaid(host: string, noUpload: boolean): string {
-  const did = noUpload
-    ? "archived and exported there, and nothing was sent to Apple"
-    : "archived, exported and uploaded, so a TestFlight build number may already be spent"
-  return `the deploy script ran on ${host}, which checked out, ${did}`
+export function macRanSaid(host: string, said: string): string {
+  const ran = `the deploy script ran on ${host}, which checked out`
+  if (said.includes(ALTOOL_MARKERS.uploadOk)) {
+    return `${ran}, archived, exported and uploaded, so a TestFlight build number may already be spent`
+  }
+  if (said.includes(ALTOOL_MARKERS.validateOk)) {
+    return `${ran}, archived and exported, and nothing was sent to Apple`
+  }
+  if (said.includes("** ARCHIVE SUCCEEDED **")) {
+    return `${ran} and archived, and stopped before any upload was confirmed, so TestFlight holds this build only if the upload got through`
+  }
+  return `${ran} and stopped before the archive succeeded, so nothing was sent to Apple`
 }
 
 export function cutRecordCall(appSlug: string, fp: CutFingerprint): string {
@@ -212,7 +219,7 @@ export async function runTestflightCut(
     sendEnv: { [KEYCHAIN_PASSWORD_SSH_ENV]: password },
     ...(opts.heard === undefined ? {} : { heard: opts.heard }),
   })
-  done.push(macRanSaid(MACBOOK.host, noUpload))
+  done.push(macRanSaid(MACBOOK.host, out))
   if (!watched) say(out.endsWith("\n") ? out : `${out}\n`)
   const macTook = elapsedSince(macAt)
 
