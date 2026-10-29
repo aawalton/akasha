@@ -7,7 +7,7 @@ export const marvelZombiesMiniseries = {
   title: "Marvel Zombies Miniseries",
   partOfCollections: ["show/marvel-zombies"],
   position: 1,
-  ownLength: 136.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const marvelZombiesMiniseries = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:32:14.686Z",
 } as const satisfies Season
