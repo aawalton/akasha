@@ -7,8 +7,8 @@ export const highPotentialSeason1 = {
   title: "High Potential Season 1",
   partOfCollections: ["show/high-potential"],
   position: 1,
-  ownLength: 576,
-  ownProgress: 576,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-09-18",
@@ -21,5 +21,6 @@ export const highPotentialSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:35:26.651Z",
+  progressedAt: "2026-10-29T16:35:26.651Z",
 } as const satisfies Season
