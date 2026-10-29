@@ -7,7 +7,7 @@ export const downtonAbbeySeason5 = {
   title: "Downton Abbey Season 5",
   partOfCollections: ["show/downton-abbey"],
   position: 5,
-  ownLength: 439.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const downtonAbbeySeason5 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.961Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:29:36.644Z",
 } as const satisfies Season
