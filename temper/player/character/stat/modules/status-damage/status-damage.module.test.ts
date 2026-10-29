@@ -34,6 +34,14 @@ test("the damage done for the equation's type, delivery and reach grows the sum,
   )
 })
 
+test("the status effect damage bonus joins the damage done sum rather than multiplying it", () => {
+  const sum = 0.008 * 28288 + 0.084 * 2754
+
+  expect(statusDamageOf(CHILLED, { ...STATS, "damage-done-status-effect": 5 })).toBe(
+    Math.round(6.06 * sum)
+  )
+})
+
 test("a stat held as a fraction is not floored before the sum", () => {
   const stats = { "stamina-maximum": 57894, "power-weapon": 2494.05 }
 

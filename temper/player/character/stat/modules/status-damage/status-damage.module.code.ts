@@ -28,6 +28,8 @@ const DAMAGE_DONE: readonly Readonly<Record<string, string>>[] = [
 
 const BASE = "damage-done-base"
 
+const STATUS_EFFECT = "damage-done-status-effect"
+
 export function statusDamageOf(
   line: string,
   stats: Readonly<Record<string, number>>
@@ -40,6 +42,7 @@ export function statusDamageOf(
   const done = [
     ...DAMAGE_DONE.flatMap((step) => equation.tags.flatMap((tag) => step[tag] ?? [])),
     BASE,
+    STATUS_EFFECT,
   ]
   const bonus = done.reduce((sum, stat) => single(sum + (held[stat] ?? 0)), 1)
   const summed = equationValue(equation, equationStatsOf(held)) ?? 0

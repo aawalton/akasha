@@ -1,0 +1,2 @@
+{"id":"01a18903-2a39-77d2-a459-d4a6d0df3cc9","metricId":"temper-metric-tree/metric-status-effect-chance","type":"fractional-change-per-stack","value":0.12}
+{"id":"01a18903-2a39-7836-9d36-514a6296eff6","metricId":"temper-metric-tree/metric-damage-done-status-effect","type":"fractional-change-per-stack","value":5}
