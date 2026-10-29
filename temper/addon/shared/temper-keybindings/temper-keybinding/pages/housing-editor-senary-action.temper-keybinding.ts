@@ -4,10 +4,12 @@ export const housingEditorSenaryAction = {
   id: "01a18481-2b94-7bba-8af2-f868666fdc74",
   type: "page-type/temper-keybinding",
   slug: "housing-editor-senary-action",
+  title: "Senary Action",
   key: "HOUSING_EDITOR_SENARY_ACTION",
+  layer: "housing-editor",
   bindings: [{ slot: 1, key: "KEY_GAMEPAD_BUTTON_1_HOLD" }],
   shared: true,
   changedAt: "2026-10-28T21:42:33.155Z",
   createdAt: "2026-10-28T21:53:40.236Z",
-  updatedAt: "2026-10-28T21:53:40.236Z",
+  updatedAt: "2026-10-29T12:42:48.616Z",
 } as const satisfies TemperKeybinding

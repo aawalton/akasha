@@ -4,9 +4,12 @@ export const toggleHelp = {
   id: "01a18481-2b97-7b86-a51d-734a76af3ffb",
   type: "page-type/temper-keybinding",
   slug: "toggle-help",
+  title: "Help",
   key: "TOGGLE_HELP",
+  layer: "general",
+  category: "user-interface",
   shared: true,
   changedAt: "2026-10-28T21:42:33.155Z",
   createdAt: "2026-10-28T21:53:40.236Z",
-  updatedAt: "2026-10-28T21:53:40.236Z",
+  updatedAt: "2026-10-29T12:42:48.616Z",
 } as const satisfies TemperKeybinding

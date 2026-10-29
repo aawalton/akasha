@@ -4,7 +4,10 @@ export const autorun = {
   id: "01a18481-2b90-7b80-8d64-d498862762e3",
   type: "page-type/temper-keybinding",
   slug: "autorun",
+  title: "Autorun",
   key: "AUTORUN",
+  layer: "general",
+  category: "movement",
   bindings: [
     { slot: 2, key: "KEY_NUMLOCK" },
     { slot: 3, key: "KEY_F2" },
@@ -12,5 +15,5 @@ export const autorun = {
   shared: true,
   changedAt: "2026-10-28T21:42:33.155Z",
   createdAt: "2026-10-28T21:53:40.236Z",
-  updatedAt: "2026-10-28T21:53:40.236Z",
+  updatedAt: "2026-10-29T12:42:48.616Z",
 } as const satisfies TemperKeybinding

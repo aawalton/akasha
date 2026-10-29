@@ -4,7 +4,9 @@ export const accessibleWheelHotkeySlot5 = {
   id: "01a18481-2b8e-7512-ae08-1dada8030a41",
   type: "page-type/temper-keybinding",
   slug: "accessible-wheel-hotkey-slot-5",
+  title: "Slot 5",
   key: "ACCESSIBLE_WHEEL_HOTKEY_SLOT_5",
+  layer: "togglable-quickwheel-hotkeys",
   bindings: [
     { slot: 1, key: "KEY_5" },
     { slot: 2, key: "KEY_GAMEPAD_DPAD_UP" },
@@ -12,5 +14,5 @@ export const accessibleWheelHotkeySlot5 = {
   shared: true,
   changedAt: "2026-10-28T21:42:33.155Z",
   createdAt: "2026-10-28T21:53:40.236Z",
-  updatedAt: "2026-10-28T21:53:40.236Z",
+  updatedAt: "2026-10-29T12:42:48.616Z",
 } as const satisfies TemperKeybinding

@@ -4,7 +4,9 @@ export const housingEditorRollRight = {
   id: "01a18481-2b93-7161-b919-c82de56b596b",
   type: "page-type/temper-keybinding",
   slug: "housing-editor-roll-right",
+  title: "Roll Right",
   key: "HOUSING_EDITOR_ROLL_RIGHT",
+  layer: "housing-editor-placement-mode",
   bindings: [
     { slot: 1, key: "KEY_6" },
     { slot: 2, key: "KEY_GAMEPAD_RIGHT_SHOULDER" },
@@ -12,5 +14,5 @@ export const housingEditorRollRight = {
   shared: true,
   changedAt: "2026-10-28T21:42:33.155Z",
   createdAt: "2026-10-28T21:53:40.236Z",
-  updatedAt: "2026-10-28T21:53:40.236Z",
+  updatedAt: "2026-10-29T12:42:48.616Z",
 } as const satisfies TemperKeybinding

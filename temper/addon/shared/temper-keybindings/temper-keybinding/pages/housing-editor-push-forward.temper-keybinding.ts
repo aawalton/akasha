@@ -4,7 +4,9 @@ export const housingEditorPushForward = {
   id: "01a18481-2b93-7db6-b1c7-5c2e31255e81",
   type: "page-type/temper-keybinding",
   slug: "housing-editor-push-forward",
+  title: "Push Forward",
   key: "HOUSING_EDITOR_PUSH_FORWARD",
+  layer: "housing-editor-placement-mode",
   bindings: [
     { slot: 1, key: "KEY_MOUSEWHEEL_UP" },
     { slot: 2, key: "KEY_9" },
@@ -13,5 +15,5 @@ export const housingEditorPushForward = {
   shared: true,
   changedAt: "2026-10-28T21:42:33.155Z",
   createdAt: "2026-10-28T21:53:40.236Z",
-  updatedAt: "2026-10-28T21:53:40.236Z",
+  updatedAt: "2026-10-29T12:42:48.616Z",
 } as const satisfies TemperKeybinding

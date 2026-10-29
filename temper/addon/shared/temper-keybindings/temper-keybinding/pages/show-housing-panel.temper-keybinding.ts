@@ -4,7 +4,9 @@ export const showHousingPanel = {
   id: "01a18481-2b95-7da7-b122-cead43461282",
   type: "page-type/temper-keybinding",
   slug: "show-housing-panel",
+  title: "Show Housing Panel",
   key: "SHOW_HOUSING_PANEL",
+  layer: "housing-hud",
   bindings: [
     { slot: 1, key: "KEY_F5" },
     { slot: 2, key: "KEY_GAMEPAD_BOTH_DPAD_RIGHT_BUTTON_2" },
@@ -12,5 +14,5 @@ export const showHousingPanel = {
   shared: true,
   changedAt: "2026-10-28T21:42:33.155Z",
   createdAt: "2026-10-28T21:53:40.236Z",
-  updatedAt: "2026-10-28T21:53:40.236Z",
+  updatedAt: "2026-10-29T12:42:48.616Z",
 } as const satisfies TemperKeybinding
