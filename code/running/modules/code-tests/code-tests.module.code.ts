@@ -10,7 +10,11 @@ import {
   hiddenUnder,
   unconfinable,
 } from "akasha/code/running/modules/test-confinement/test-confinement.module.code.ts"
-import { carriedFrom } from "akasha/code/running/modules/test-environment/test-environment.module.code.ts"
+import {
+  carriedFrom,
+  MARK,
+  RUNNING,
+} from "akasha/code/running/modules/test-environment/test-environment.module.code.ts"
 import {
   type Bodies,
   type Lane,
@@ -54,8 +58,6 @@ const RUNS = "test"
 
 const ESCAPE = String.fromCharCode(27)
 
-const MARK = "1"
-
 const HOMED = "HOME"
 
 const MODULES = "node_modules"
@@ -81,8 +83,6 @@ const ROOTED = "/"
 const SPECIAL = /[.*+?^${}()|[\]\\]/g
 
 const NONE_NAMED = /\bmatched 0 tests\b/
-
-export const RUNNING = "AKASHA_TESTS_RUNNING"
 
 export const MEASURING = "AKASHA_TESTS_MEASURING"
 
@@ -149,10 +149,6 @@ export type Ran = {
 type Grouping = {
   readonly preloads: readonly string[]
   readonly named: string[]
-}
-
-export function alreadyRunning(): boolean {
-  return optionalEnv(RUNNING) === MARK
 }
 
 export function measuring(): boolean {

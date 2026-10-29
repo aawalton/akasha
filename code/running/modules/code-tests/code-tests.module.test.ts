@@ -2,7 +2,6 @@ import { afterAll, test as check, expect } from "bun:test"
 import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
-  alreadyRunning,
   beyondIn,
   errorsIn,
   groupedBy,
@@ -10,7 +9,6 @@ import {
   pageOf,
   plain,
   preloadsIn,
-  RUNNING,
   ranOver,
   spentOver,
   summaryIn,
@@ -241,17 +239,6 @@ check("no secret the caller holds reaches a test, in the overlay or out of it", 
       else process.env[name] = held
     }
   }
-})
-
-check("the mark a run carries is read back by whoever is inside it", () => {
-  expect(RUNNING).toBe("AKASHA_TESTS_RUNNING")
-  const was = optionalEnv(RUNNING)
-  process.env[RUNNING] = "1"
-  expect(alreadyRunning()).toBe(true)
-  delete process.env[RUNNING]
-  expect(alreadyRunning()).toBe(false)
-  if (was === undefined) delete process.env[RUNNING]
-  else process.env[RUNNING] = was
 })
 
 check("a test is run with what the nearest bunfig.toml above it preloads", async () => {

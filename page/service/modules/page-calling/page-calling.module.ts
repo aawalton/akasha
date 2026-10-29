@@ -172,8 +172,9 @@ export const pageCalling = {
       statement: "Nothing here opens a page's file.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads the index.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A question a test run asks with no page service and no fetch of its own is read from the checkout.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -232,5 +233,5 @@ export const pageCalling = {
     },
   ],
   createdAt: "2026-09-01T17:34:08.092Z",
-  updatedAt: "2026-10-27T22:43:01.523Z",
+  updatedAt: "2026-10-29T17:01:40.642Z",
 } as const satisfies Module

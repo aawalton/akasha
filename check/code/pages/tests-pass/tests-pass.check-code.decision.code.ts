@@ -9,7 +9,6 @@ import { costSpawned, recordCost } from "akasha/check/modules/cost/check-cost.mo
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Ran, Spent } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import {
-  alreadyRunning,
   CEILING,
   errorsIn,
   measuring,
@@ -19,6 +18,7 @@ import {
   spentOver,
   WALL,
 } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
+import { alreadyRunning } from "akasha/code/running/modules/test-environment/test-environment.module.code.ts"
 import {
   absentFrom,
   absentlyOf,

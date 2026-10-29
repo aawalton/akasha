@@ -1,4 +1,4 @@
-import { RUNNING } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
+import { RUNNING } from "akasha/code/running/modules/test-environment/test-environment.module.code.ts"
 import {
   AKASHA,
   rootEnvName,

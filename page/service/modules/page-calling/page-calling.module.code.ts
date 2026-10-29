@@ -1,12 +1,15 @@
+import { alreadyRunning } from "akasha/code/running/modules/test-environment/test-environment.module.code.ts"
 import { workstation } from "akasha/infrastructure/machine/host/pages/workstation.host.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import type {
   Appended,
   Appending,
 } from "akasha/page/service/modules/page-appending/page-appending.module.code.ts"
-import type {
-  Query,
-  Row,
-  Asked as Rows,
+import {
+  askingAt,
+  type Query,
+  type Row,
+  type Asked as Rows,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import type {
@@ -150,7 +153,13 @@ export function refusedIn(said: unknown): string | null {
   return typeof held === "string" ? held : null
 }
 
+const REAL_FETCH = globalThis.fetch
+
 export const fetchThrough: Fetcher = (url, init) => fetch(url, init)
+
+function ownFetch(): boolean {
+  return globalThis.fetch !== REAL_FETCH
+}
 
 type Sent = { readonly said: unknown } | { readonly refused: string }
 
@@ -223,6 +232,10 @@ export async function askingFor(
   fetcher: Fetcher = fetchThrough,
   naps: Sleeper = sleep
 ): Promise<Rows> {
+  if (fetcher === fetchThrough && alreadyRunning() && originSaid() === null && !ownFetch()) {
+    const answered = askingAt(akashaRoot(), query, saidIn(AGENT_ENV))
+    return "refused" in answered ? { refused: answered.refused } : answered
+  }
   const held = await sentTo(ASK_AT, query, READ_CEILING_MS, fetcher, naps)
   if ("refused" in held) return held
   const said = objectIn(held.said)
