@@ -7,11 +7,11 @@ export const soloLevelingS01e02 = {
   description:
     "Jinwoo and his party appear to have cleared a low-level dungeon, when a hidden path to an unfamiliar temple is revealed. There they encounter a set of commandments and a group of monsters that cause them absolute despair.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 2,
   publishedAt: "2024-01-14",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e02 = {
   stillPath: "/ch5o2NnATbswomEiCugOgjX8IwY.jpg",
   voteAverage: 8.4,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:15.648Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:15.648Z",
 } as const satisfies Episode
