@@ -14,6 +14,7 @@ export const designInterfacePattern = {
     "module/chip",
     "module/chip-list",
     "module/collapsible-group-section",
+    "module/collapsible-stat-section",
     "module/drag-hold",
     "module/empty",
     "module/filter-button",
@@ -42,5 +43,5 @@ export const designInterfacePattern = {
     "module/use-set-toggle",
   ],
   createdAt: "2026-09-01T09:34:00.839Z",
-  updatedAt: "2026-09-25T14:52:19.000Z",
+  updatedAt: "2026-10-29T14:22:07.378Z",
 } as const satisfies Domain

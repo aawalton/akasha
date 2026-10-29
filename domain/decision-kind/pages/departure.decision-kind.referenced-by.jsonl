@@ -2811,6 +2811,7 @@
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/nav-active/nav-active.module.ts","id":"01a05b82-8b9a-745f-97df-0cda03922d9c"}
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/panel-card/panel-card.module.ts","id":"01a05b82-8b99-7f63-8eac-346953fca966"}
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.ts","id":"01a05b82-8b99-71ea-8418-c319e661ecd8"}
+{"propertySlug":"decision-kind","path":"design/interface/pattern/modules/collapsible-stat-section/collapsible-stat-section.module.ts","id":"01a18808-2fa4-758d-85cf-8b29bf18675b"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/drag-hold/drag-hold.module.ts","id":"01a09093-a35f-7798-8306-75a6528275cb"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/filter-button/filter-button.module.ts","id":"01a05c69-c061-75af-a7c1-4fa64f360ba0"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/filter-changing/filter-changing.module.ts","id":"01a090ec-d6a6-7001-9492-6e84f3f7dfe4"}

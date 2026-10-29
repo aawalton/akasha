@@ -6,6 +6,7 @@ interface StatRowProps {
   value?: ReactNode
   onClick?: () => void
   depth?: number
+  expanded?: boolean
   useAccentColor?: boolean
   muted?: boolean
   emphasized?: boolean
@@ -17,6 +18,7 @@ export function StatRow({
   value,
   onClick,
   depth = 0,
+  expanded,
   useAccentColor = false,
   muted = false,
   emphasized = false,
@@ -26,6 +28,7 @@ export function StatRow({
   return (
     <tag.element
       type={onClick ? "button" : undefined}
+      aria-expanded={onClick ? expanded : undefined}
       className={cn(
         "-mx-2 flex w-full items-center justify-between rounded-sm px-2 py-1.5 text-left transition-colors hover:bg-surface-3",
         onClick && "cursor-pointer",
