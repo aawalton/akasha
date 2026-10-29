@@ -40,5 +40,5 @@ export function skipIntros(): undefined {
   pressedShown(doc)
   new MutationObserver(() => {
     pressedShown(doc)
-  }).observe(doc.documentElement, { childList: true, subtree: true, characterData: true })
+  }).observe(doc.documentElement, { childList: true, subtree: true })
 }
