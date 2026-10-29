@@ -3,6 +3,5 @@
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/modules/edits-repointing/edits-repointing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/alan-a82c0def6c3e4d4e4/alan-a82c0def6c3e4d4e4.subagent.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/nimue-a1ff4630315e067fb/nimue-a1ff4630315e067fb.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/nimue-a83c4389a9d0c097d/nimue-a83c4389a9d0c097d.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
