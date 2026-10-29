@@ -201,6 +201,26 @@ test("the Burning equation gives the numbers the game showed in Erin Solstice's 
   }
 })
 
+type CapturedCritical = {
+  readonly fight: string
+  readonly criticalDamage: number
+  readonly tick: number
+  readonly critical: number
+}
+
+const CAPTURED_CRITICALS: readonly CapturedCritical[] = [
+  { fight: "f78", criticalDamage: 60, tick: 2444, critical: 3910 },
+  { fight: "f105", criticalDamage: 60, tick: 2941, critical: 4706 },
+  { fight: "f146", criticalDamage: 60, tick: 3720, critical: 5952 },
+]
+
+test("a status effect's critical tick inside the Infinite Archive grows by the fight's 60 critical damage", () => {
+  for (const one of CAPTURED_CRITICALS) {
+    expect(Math.round(one.tick * (1 + one.criticalDamage / 100))).toBe(one.critical)
+    expect(Math.round(one.tick * 1.62)).not.toBe(one.critical)
+  }
+})
+
 function capturedBurningStatusDamage(one: CapturedBurning): number | undefined {
   return statusDamageOf(BURNING_CAPTURED, {
     "magicka-maximum": one.magicka,
