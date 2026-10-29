@@ -18,7 +18,8 @@ export const torchwood = {
       externalLink: "https://trakt.tv/shows/torchwood",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "424", externalLink: "https://www.themoviedb.org/tv/424" },
   ],
   createdAt: "2026-09-03T16:03:14.355Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:48:31.976Z",
 } as const satisfies Show
