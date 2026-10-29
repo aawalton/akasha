@@ -142,6 +142,9 @@ export function pinStatCaseCommand(world: World, given: Asked, pin: Pin): Answer
     inCombat: reading.inCombat,
     ...(reading.ultimate === undefined ? {} : { ultimate: reading.ultimate }),
     ...elderDragonHeldOf(reading),
+    ...(reading.archiveBoons === undefined || reading.archiveBoons.length === 0
+      ? {}
+      : { archiveBoons: reading.archiveBoons }),
     activeBuffs: reading.activeBuffs ?? [],
     championPoints: reading.championPoints ?? [],
     stats: settledOf(

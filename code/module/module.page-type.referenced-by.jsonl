@@ -6141,6 +6141,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/weapon-trait-effects/weapon-trait-effects.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/archive-boon-source/archive-boon-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/arithmetic-node/arithmetic-node.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/branded-id/branded-id.module.ts","typed":true,"deferred":false}
@@ -6254,6 +6255,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/healing-held/healing-held.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/metric-dependency/metric-dependency.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/metric-display-formula/metric-display-formula.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/metric-formulas/metric-formulas.module.ts","typed":true,"deferred":false}

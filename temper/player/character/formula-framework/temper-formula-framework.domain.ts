@@ -8,6 +8,7 @@ export const temperFormulaFramework = {
   parts: [
     "module/arithmetic-evaluate",
     "module/arithmetic-node",
+    "module/archive-boon-source",
     "module/branded-id",
     "module/buff-or-debuff-source",
     "module/class-id",
@@ -46,5 +47,5 @@ export const temperFormulaFramework = {
     },
   ],
   createdAt: "2026-09-02T04:46:21.402Z",
-  updatedAt: "2026-09-27T01:09:54.000Z",
+  updatedAt: "2026-10-29T18:32:30.939Z",
 } as const satisfies Domain

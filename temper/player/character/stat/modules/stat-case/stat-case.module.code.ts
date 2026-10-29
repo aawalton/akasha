@@ -5,6 +5,7 @@ import type { EffectSource } from "akasha/temper/player/character/formula-framew
 import { calculateReadingStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
 import { metrics } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
 import { onsetPercentByName } from "akasha/temper/player/character/stat/modules/onset-scaled-buff/onset-scaled-buff.module.code.ts"
+import { archiveBoonSchema } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { z } from "zod"
 
 const SHEET_ROW = "ADVANCED_STAT_DISPLAY_TYPE_"
@@ -39,6 +40,7 @@ export const statCaseShape = z.strictObject({
   health: z.number().optional(),
   elderDragonAmount: z.number().optional(),
   activeBuffs: z.array(listedBuff),
+  archiveBoons: z.array(archiveBoonSchema).optional(),
   championPoints: z.array(spentStar),
   pinned: statsByName,
   gaps: statsByName,
@@ -70,7 +72,8 @@ function estimatedOfBuild(
     read.activeBuffs,
     read.championPoints,
     read.ultimate,
-    { health: read.health, amount: read.elderDragonAmount }
+    { health: read.health, amount: read.elderDragonAmount },
+    read.archiveBoons ?? []
   )
   const metrics = estimated.metrics as Record<string, { value: number } | undefined>
   return {
@@ -230,6 +233,9 @@ export function statCaseText(statCase: StatCase): string {
       ? []
       : [`  "elderDragonAmount": ${String(statCase.elderDragonAmount)},`]),
     `  "activeBuffs": ${listed(statCase.activeBuffs)},`,
+    ...(statCase.archiveBoons === undefined || statCase.archiveBoons.length === 0
+      ? []
+      : [`  "archiveBoons": ${listed(statCase.archiveBoons)},`]),
     `  "championPoints": ${listed(statCase.championPoints)},`,
     `  "pinned": ${byStat(statCase.pinned)},`,
     `  "gaps": ${byStat(statCase.gaps)}`,

@@ -35,6 +35,7 @@ export type MetricEffect =
   | (MetricEffectBase & { effectType: "integer-per-missing-health"; effectValue: number })
   | (MetricEffectBase & { effectType: "integer-from-healing-done"; effectValue: number })
   | (MetricEffectBase & { effectType: "fractional-change"; effectValue: number })
+  | (MetricEffectBase & { effectType: "fractional-change-per-stack"; effectValue: number })
   | (MetricEffectBase & { effectType: "number"; effectValue: number })
   | (MetricEffectBase & { effectType: "number-per-seconds"; effectValue: NumberPerSeconds })
   | (MetricEffectBase & { effectType: "number-for-seconds"; effectValue: NumberForSeconds })
@@ -53,6 +54,7 @@ const METRIC_EFFECT_TYPES: { readonly [Type in MetricEffectType]: true } = {
   "integer-per-missing-health": true,
   "integer-from-healing-done": true,
   "fractional-change": true,
+  "fractional-change-per-stack": true,
   number: true,
   "number-per-seconds": true,
   "number-for-seconds": true,

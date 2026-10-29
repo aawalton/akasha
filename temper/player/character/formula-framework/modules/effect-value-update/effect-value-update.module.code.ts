@@ -12,6 +12,7 @@ export function updateEffectValue<T extends MetricEffect>(
     effect.effectType === "integer-per-missing-health" ||
     effect.effectType === "integer-from-healing-done" ||
     effect.effectType === "fractional-change" ||
+    effect.effectType === "fractional-change-per-stack" ||
     effect.effectType === "number"
   ) {
     return {

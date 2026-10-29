@@ -52,7 +52,10 @@ function catalogMultipliers(
     build,
     bar,
     reading.activeBuffs,
-    reading.championPoints
+    reading.championPoints,
+    undefined,
+    undefined,
+    reading.archiveBoons ?? []
   ).metrics as Record<string, { value: number } | undefined>
   const value = (metric: string) => metrics[metric]?.value ?? 0
   const chance = Math.min(1, value("critical-rating") / criticalRating.divisor)

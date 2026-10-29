@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-source/jewelry-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-source/set-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-source/weapon-source.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/formula-framework/modules/archive-boon-source/archive-boon-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/formula-framework/modules/skill-source/skill-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-source.module.code.ts","path":"temper/player/character/source/modules/attributes-source/attributes-source.module.code.ts","typed":true,"deferred":false}

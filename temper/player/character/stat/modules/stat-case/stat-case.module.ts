@@ -34,6 +34,8 @@ export const statCase = {
     "page-type/temper-buff-major",
     "page-type/temper-buff-minor",
     "page-type/temper-buff-other",
+    "page-type/temper-vision",
+    "page-type/temper-verse",
     "page-type/temper-eso-plus",
     "page-type/temper-mundus-stone",
     "page-type/temper-alliance",
@@ -138,5 +140,5 @@ export const statCase = {
     },
   ],
   createdAt: "2026-10-14T17:18:43.951Z",
-  updatedAt: "2026-10-21T14:13:24.015Z",
+  updatedAt: "2026-10-29T18:32:30.939Z",
 } as const satisfies Module

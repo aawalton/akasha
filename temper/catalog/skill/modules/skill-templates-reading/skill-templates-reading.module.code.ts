@@ -33,6 +33,11 @@ import {
   skillBarsOf,
 } from "akasha/temper/catalog/skill-kind/modules/skill-bars/skill-bars.module.code.ts"
 import { temperRace } from "akasha/temper/catalog/world/temper-race/temper-race.page-type.ts"
+import {
+  ARCHIVE_BOON_READS,
+  archiveBoonsOf,
+  holdArchiveBoons,
+} from "akasha/temper/player/character/formula-framework/modules/archive-boon-source/archive-boon-source.module.code.ts"
 import type { SkillLineTemplate } from "akasha/temper/player/character/skill/line/modules/skill-line-template/skill-line-template.module.code.ts"
 import type { SkillTemplate } from "akasha/temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"
 import type { GrimoireTemplate } from "akasha/temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts"
@@ -365,6 +370,7 @@ export const CATALOG_READS: readonly Read[] = readsOf([
   ...COMPLETION_PAGE_READS,
   ...SKILL_KEYED_BY.map(([pageTypeSlug, field]): Read => [pageTypeSlug, ["slug", field]]),
   ...CHARACTER_SOURCE_READS,
+  ...ARCHIVE_BOON_READS,
   ...GEAR_READS,
 ])
 
@@ -372,6 +378,7 @@ export function catalogTemplatesOf(
   rowsOf: (pageTypeSlug: string) => Iterable<Value>
 ): CatalogTemplates {
   holdCharacterSources(rowsOf)
+  holdArchiveBoons(archiveBoonsOf(rowsOf))
   holdSkillBars(skillBarsOf(rowsOf(temperSkillBar.slug)))
   holdGear(rowsOf)
   holdCompletionPages(rowsOf)

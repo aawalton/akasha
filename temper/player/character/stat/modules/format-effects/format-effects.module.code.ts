@@ -150,6 +150,9 @@ function formatMetricEffectValue(effect: MetricEffect): string {
     case "fractional-change": {
       return formatPercent(effect.effectValue)
     }
+    case "fractional-change-per-stack": {
+      return `${formatPercent(effect.effectValue)}/stack`
+    }
     case "integer":
     case "number": {
       return effect.effectValue.toString()

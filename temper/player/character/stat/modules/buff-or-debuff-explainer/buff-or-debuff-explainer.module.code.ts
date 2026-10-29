@@ -50,6 +50,12 @@ function formatEffectValue(effect: MetricEffect): string {
       const display = pct.toFixed(2).replace(/\.?0+$/, "")
       return `${sign}${display}%`
     }
+    case "fractional-change-per-stack": {
+      const pct = effect.effectValue * 100
+      const sign = pct >= 0 ? "+" : ""
+      const display = pct.toFixed(2).replace(/\.?0+$/, "")
+      return `${sign}${display}%/stack`
+    }
     case "integer":
       return `+${Math.round(effect.effectValue).toLocaleString()}`
     case "integer-per-stack":

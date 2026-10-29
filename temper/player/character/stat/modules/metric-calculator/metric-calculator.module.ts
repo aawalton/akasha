@@ -33,6 +33,8 @@ export const metricCalculator = {
     "page-type/temper-buff-major",
     "page-type/temper-buff-minor",
     "page-type/temper-buff-other",
+    "page-type/temper-vision",
+    "page-type/temper-verse",
     "page-type/temper-eso-plus",
     "page-type/temper-mundus-stone",
     "page-type/temper-alliance",
@@ -159,5 +161,5 @@ export const metricCalculator = {
     },
   ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-10-29T17:24:23.000Z",
+  updatedAt: "2026-10-29T18:32:30.939Z",
 } as const satisfies Module

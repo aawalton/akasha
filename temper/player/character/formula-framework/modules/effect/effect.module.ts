@@ -20,7 +20,8 @@ export const effect = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A per-stack effect states the flat value one stack of its buff gives.",
+      statement:
+        "A per-stack effect states the value one stack gives, flat or fractional by its type.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -51,5 +52,5 @@ export const effect = {
     },
   ],
   createdAt: "2026-09-02T04:46:21.408Z",
-  updatedAt: "2026-10-29T17:24:23.000Z",
+  updatedAt: "2026-10-29T18:32:30.939Z",
 } as const satisfies Module

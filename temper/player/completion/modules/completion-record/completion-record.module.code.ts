@@ -225,7 +225,7 @@ const classMasteryLineSchema = z.strictObject({
   passives: luaArrayOrEmpty(classMasteryPassiveSchema),
 })
 
-const archiveBoonSchema = z.strictObject({
+export const archiveBoonSchema = z.strictObject({
   abilityId: z.number(),
   kind: z.enum(["verse", "vision"]),
   name: z.string(),

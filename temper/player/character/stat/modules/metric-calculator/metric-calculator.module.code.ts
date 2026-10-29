@@ -1,5 +1,6 @@
 import { indexBy } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import { archiveBoon } from "akasha/temper/player/character/formula-framework/modules/archive-boon-source/archive-boon-source.module.code.ts"
 import { buffOrDebuff } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import { isMetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
@@ -11,11 +12,11 @@ import { mundus } from "akasha/temper/player/character/source/modules/mundus-sou
 import { calculateBuffs } from "akasha/temper/player/character/stat/modules/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts"
 import { buildStateToEffectSources } from "akasha/temper/player/character/stat/modules/build-state-adapter/build-state-adapter.module.code.ts"
 import { starShareOf } from "akasha/temper/player/character/stat/modules/champion-damage-taken/champion-damage-taken.module.code.ts"
-import type { FormulaNode } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
 import {
   type HealingHeld,
   withHealingHeld,
 } from "akasha/temper/player/character/stat/modules/healing-held/healing-held.module.code.ts"
+import { buildDependencyGraph } from "akasha/temper/player/character/stat/modules/metric-dependency/metric-dependency.module.code.ts"
 import {
   evaluateFormula,
   roundMetricValue,
@@ -23,7 +24,6 @@ import {
 import type { MetricValue } from "akasha/temper/player/character/stat/modules/metric-value/metric-value.module.code.ts"
 import {
   hasFormula,
-  type MetricWithFormula,
   metrics,
   metricsWithFormulas,
 } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
@@ -38,49 +38,12 @@ type Calculated = {
   readonly statusDamage: Readonly<Record<string, number>>
 }
 
+type ListedArchiveBoon = {
+  readonly abilityId: number
+  readonly stacks: number
+}
+
 type CalculationResult = Calculated & { readonly sources: readonly EffectSource[] }
-
-function extractMetricReferences(node: FormulaNode): Set<MetricId> {
-  const refs = new Set<MetricId>()
-
-  if (node.type === "metric-refs") {
-    for (const metricIdStr of node.metricIds) {
-      if (metrics().has(metricIdStr)) {
-        refs.add(metricIdStr)
-      }
-    }
-  } else if (
-    node.type === "add" ||
-    node.type === "multiply" ||
-    node.type === "divide" ||
-    node.type === "max" ||
-    node.type === "min" ||
-    node.type === "floor-multiply"
-  ) {
-    for (const operand of node.operands) {
-      for (const ref of extractMetricReferences(operand)) {
-        refs.add(ref)
-      }
-    }
-  } else if (node.type === "floor" || node.type === "floor-product") {
-    for (const ref of extractMetricReferences(node.operand)) {
-      refs.add(ref)
-    }
-  }
-
-  return refs
-}
-
-function buildDependencyGraph(metrics: readonly MetricWithFormula[]): Map<MetricId, Set<MetricId>> {
-  const graph = new Map<MetricId, Set<MetricId>>()
-
-  for (const metric of metrics) {
-    const deps = extractMetricReferences(metric.formula)
-    graph.set(metric.id, deps)
-  }
-
-  return graph
-}
 
 function buffsUp(sources: readonly EffectSource[]): ReadonlySet<string> {
   const up = new Set<string>()
@@ -102,16 +65,29 @@ function withConditionsMet(sources: readonly EffectSource[]): readonly EffectSou
 }
 
 function isPerStack(effect: unknown): boolean {
-  return isMetricEffect(effect) && effect.effectType === "integer-per-stack"
+  return (
+    isMetricEffect(effect) &&
+    (effect.effectType === "integer-per-stack" ||
+      effect.effectType === "fractional-change-per-stack")
+  )
 }
 
 function stacked(buff: EffectSource, stacks: number): EffectSource {
   if (!buff.effects.some(isPerStack)) return buff
-  const effects = buff.effects.map((effect) =>
-    isMetricEffect(effect) && effect.effectType === "integer-per-stack"
-      ? { ...effect, effectType: "integer" as const, effectValue: effect.effectValue * stacks }
-      : effect
-  )
+  const effects = buff.effects.map((effect) => {
+    if (!isMetricEffect(effect)) return effect
+    if (effect.effectType === "integer-per-stack") {
+      return { ...effect, effectType: "integer" as const, effectValue: effect.effectValue * stacks }
+    }
+    if (effect.effectType === "fractional-change-per-stack") {
+      return {
+        ...effect,
+        effectType: "fractional-change" as const,
+        effectValue: effect.effectValue * stacks,
+      }
+    }
+    return effect
+  })
   return { ...buff, effects } as EffectSource
 }
 
@@ -322,7 +298,8 @@ export function calculateReadingStatsByBar(
   }[],
   stars?: readonly StarPoints[],
   ultimate = 0,
-  healthHeld: HealthHeld = {}
+  healthHeld: HealthHeld = {},
+  archiveBoons: readonly ListedArchiveBoon[] = []
 ): CalculationResult & { unmatchedBuffNames: readonly string[] } {
   const buffByName = new Map<string, EffectSource>()
   for (const buff of Object.values(buffOrDebuff().data)) buffByName.set(buff.name, buff)
@@ -348,6 +325,11 @@ export function calculateReadingStatsByBar(
     else if (begun !== undefined) activeBuffs.push(stacked(begun, stacks ?? 0))
     else unmatchedBuffNames.push(name)
   }
+  const archiveSources: EffectSource[] = []
+  for (const boon of archiveBoons) {
+    const source = archiveBoon(boon.abilityId)
+    if (source !== undefined) archiveSources.push(stacked(source, boon.stacks))
+  }
 
   const asListed: CharacterState = {
     ...build,
@@ -360,7 +342,10 @@ export function calculateReadingStatsByBar(
   )
   const built =
     stars === undefined ? fromBuild : fromBuild.flatMap((source) => asSpent(source, spent) ?? [])
-  const sources = withHealthHeld([baseSource(), ...built, ...activeBuffs], healthHeld)
+  const sources = withHealthHeld(
+    [baseSource(), ...built, ...activeBuffs, ...archiveSources],
+    healthHeld
+  )
   return { sources, ...calculateBaseStats(sources), unmatchedBuffNames }
 }
 
