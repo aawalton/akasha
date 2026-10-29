@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e20 = {
   description:
     "Maomao was able to stop the assassination attempt, but was heavily injured in the process. However, the injuries aren't enough to stop her curiosity, driving her to confront the culprit behind the incident.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 20,
   publishedAt: "2024-02-25",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e20 = {
   stillPath: "/kFOrOTXNY7jhLRpe9PzX7bdPtxA.jpg",
   voteAverage: 7.9,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

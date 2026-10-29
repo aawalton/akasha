@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e46 = {
   description:
     "The royal guard, led by Jinshi, arrives, sealing the Shi clan's fate. Maomao wants to save her friend, Shisui.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 46,
   publishedAt: "2025-06-13",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e46 = {
   stillPath: "/pR4p2bbc2IX5MIJfHIdmVDTZuxI.jpg",
   voteAverage: 8.4,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

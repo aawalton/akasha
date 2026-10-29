@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e36 = {
   description:
     "Maomao discovers Jinshi's secret. She wants nothing to do with whatever the politics behind it is.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 36,
   publishedAt: "2025-03-28",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e36 = {
   stillPath: "/zgjUkqozVrok2N2Psx1mnImB293.jpg",
   voteAverage: 7.9,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

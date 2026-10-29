@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e38 = {
   description:
     "Concubine Lishu reports sightings of a ghost in the baths in her pavilion. Maomao goes to investigate.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 38,
   publishedAt: "2025-04-11",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e38 = {
   stillPath: "/bHOorPq5DchhLMjazBlCh2z6JEM.jpg",
   voteAverage: 7.6,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

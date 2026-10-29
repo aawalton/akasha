@@ -6,11 +6,11 @@ export const theApothecaryDiariesS01e50 = {
   slug: "the-apothecary-diaries-s01e50",
   description: "An interesting cloak points Maomao's imagination towards international politics.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 50,
   publishedAt: "2026-10-09",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -24,5 +24,7 @@ export const theApothecaryDiariesS01e50 = {
   stillPath: "/7DRz65EauLk7RL1MD5x2fhMLG2V.jpg",
   voteAverage: 7.5,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

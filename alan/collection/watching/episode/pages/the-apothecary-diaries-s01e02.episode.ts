@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e02 = {
   description:
     "Maomao tries to settle into her promotion to lady-in-waiting and food taster, but struggles to fend off both boredom and the overly-familiar Jinshi. That is, until she gets an assignment of her dreams: to concoct an aphrodisiac.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 2,
   publishedAt: "2023-10-22",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e02 = {
   stillPath: "/pYC0kEvnKtVm50uD2rBmtrZZnix.jpg",
   voteAverage: 7.2,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

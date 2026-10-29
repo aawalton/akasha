@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e27 = {
   description:
     "A concubine passes away, and a woman goes missing. Jinshi sends Maomao to investigate - not these incidents, but mushrooms growing in the rear palace.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 27,
   publishedAt: "2025-01-24",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e27 = {
   stillPath: "/tFPBXCR1Jo9A7ZoUwvPF6HAmCaZ.jpg",
   voteAverage: 7.6,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

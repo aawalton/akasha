@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e35 = {
   description:
     "Jinshi goes on a hunting trip, and brings Maomao along. He seems ready to share his secret with her.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 35,
   publishedAt: "2025-03-21",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e35 = {
   stillPath: "/t4GzrtK8d5gnYZSDbL6KyWge5UM.jpg",
   voteAverage: 8.3,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

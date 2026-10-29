@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e33 = {
   description:
     'Maomao\'s investigation of the "curse" reveals more about the late emperor than anticipated.',
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 33,
   publishedAt: "2025-03-07",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e33 = {
   stillPath: "/9ktpNrO00JSCCnJKsQVwJRg3JDA.jpg",
   voteAverage: 8.4,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

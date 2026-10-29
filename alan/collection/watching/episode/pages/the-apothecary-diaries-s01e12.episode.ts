@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e12 = {
   description:
     "Discovering that Maomao's kidnappers were connected to Fengming's family, Jinshi is faced with a choice between keeping Maomao in the rear palace where he can be near her or releasing her from her service.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 12,
   publishedAt: "2023-12-24",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e12 = {
   stillPath: "/xa9CovqvQIgYENhpHdqun3JTn4A.jpg",
   voteAverage: 6.8,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

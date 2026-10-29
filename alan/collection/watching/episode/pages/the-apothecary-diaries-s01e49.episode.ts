@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e49 = {
   description:
     "A locust plague is looming, and mysteriously, a book on insects belonging to the Shi clan appears.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 49,
   publishedAt: "2026-10-02",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e49 = {
   stillPath: "/v2k4Nj11mnVwyUhqktOmYr3E4yV.jpg",
   voteAverage: 7.5,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

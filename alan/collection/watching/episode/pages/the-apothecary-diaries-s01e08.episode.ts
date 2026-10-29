@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e08 = {
   description:
     "Maomao's peaceful morning at home is interrupted when she's called in to investigate an apparent double suicide at one of the local brothels.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 8,
   publishedAt: "2023-11-26",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e08 = {
   stillPath: "/j9m1E9HOJVl4pjnJRhjH445EYmx.jpg",
   voteAverage: 7.3,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

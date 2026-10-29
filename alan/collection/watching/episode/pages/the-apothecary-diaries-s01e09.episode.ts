@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e09 = {
   description:
     "An older acquaintance of Jinshi's dies while drinking at a party. A servant's body turns up in a moat. Both deaths are written off as self-inflicted, but Maomao's keen observations tell her that there's more to both stories.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 9,
   publishedAt: "2023-12-03",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e09 = {
   stillPath: "/u9rreY8RcnIsmx8kvCDhEy1BvXz.jpg",
   voteAverage: 7.5,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

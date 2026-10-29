@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e11 = {
   description:
     "Maomao confronts Fengming about the dark secret she's been hiding from her noble Lady Ah-Duo.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 11,
   publishedAt: "2023-12-17",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e11 = {
   stillPath: "/9K1ZNqTYK8ty1Olj2jGJAZ3l4y3.jpg",
   voteAverage: 7.1,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

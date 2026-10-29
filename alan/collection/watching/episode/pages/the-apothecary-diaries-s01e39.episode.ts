@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e39 = {
   description:
     "Xiaolan accidentally ruins an expensive block of ice. Maomao comes up with a delicious backup plan.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 39,
   publishedAt: "2025-04-18",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e39 = {
   stillPath: "/1Lj3paEEJfyj7p5px9bRYFQ5w8q.jpg",
   voteAverage: 8.1,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

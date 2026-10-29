@@ -6,11 +6,11 @@ export const theApothecaryDiariesS01e40 = {
   slug: "the-apothecary-diaries-s01e40",
   description: "Luomen returns to the rear palace. His observations trigger Maomao's curiosity.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 40,
   publishedAt: "2025-04-25",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -24,5 +24,7 @@ export const theApothecaryDiariesS01e40 = {
   stillPath: "/vdCTCYwTYjp0kwXnvKuW9AFD2rw.jpg",
   voteAverage: 8.2,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

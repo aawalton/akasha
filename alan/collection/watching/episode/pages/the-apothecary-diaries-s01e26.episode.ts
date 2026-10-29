@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e26 = {
   description:
     "The caravan stirs up excitement in the inner palace. The merchants bring all kinds of goods. However, something gives Maomao a bad feeling.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 26,
   publishedAt: "2025-01-17",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e26 = {
   stillPath: "/nCapHwoHz6V8VrWCEGiHssz49h0.jpg",
   voteAverage: 7.9,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

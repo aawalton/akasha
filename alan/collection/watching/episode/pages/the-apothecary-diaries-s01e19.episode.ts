@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e19 = {
   description:
     "A discussion with Lihaku about recent events leads Maomao to realize that the mysteries she's helped to solve are connected. As the final piece of the puzzle falls into place, she rushes to stop impending disaster.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 19,
   publishedAt: "2024-02-18",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e19 = {
   stillPath: "/5Y1BHMhhCHwWwxAqNoQYGyZvMWk.jpg",
   voteAverage: 8.2,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

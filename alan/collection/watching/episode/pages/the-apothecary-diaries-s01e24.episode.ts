@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e24 = {
   description:
     "Lakan must now choose a courtesan to buy out. As a high-ranking military official, he can afford to freely choose, even from one of the Three Princesses. Who will he choose? Who does Maomao really want him to choose?",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 24,
   publishedAt: "2024-03-24",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e24 = {
   stillPath: "/7eVCn6wFG1RFqxj0IMpaJFtelKr.jpg",
   voteAverage: 8.1,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

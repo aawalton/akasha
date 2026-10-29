@@ -14,7 +14,7 @@ export const theApothecaryDiaries = {
   ownProgress: 0,
   partOfCollections: ["fandom/the-apothecary-diaries"],
   unit: "unit/minutes",
-  status: "in-progress",
+  status: "completed",
   publishedAt: "2023-10-22",
   externalIdentity: [
     {
@@ -30,5 +30,6 @@ export const theApothecaryDiaries = {
     },
   ],
   createdAt: "2026-10-14T18:59:02.711Z",
-  updatedAt: "2026-10-28T20:38:30.445Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
 } as const satisfies Show

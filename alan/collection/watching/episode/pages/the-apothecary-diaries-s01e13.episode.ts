@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e13 = {
   description:
     "To Maomao's surprise, Jinshi brings her directly to his house instead of taking her back to the rear palace, and tells her she's to work in the outer court. Not only is there much to learn, it seems there's many eyes on her as the new hire.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 13,
   publishedAt: "2024-01-07",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e13 = {
   stillPath: "/wIIuz0ZkiKKdBSUyZfAIH25uPNF.jpg",
   voteAverage: 7.5,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

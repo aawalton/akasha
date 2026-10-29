@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e10 = {
   description:
     "A tea party hosted by Lady Gyokuyou puts the politics of the rear palace at the forefront, and Maomao learns something new about Lady Lishu. His true intentions unclear, Jinshi sends Maomao to work for Lady Ah-Duo.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 10,
   publishedAt: "2023-12-10",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e10 = {
   stillPath: "/brTsGje2MKuCHQuj8UVF1VjTSUv.jpg",
   voteAverage: 8,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

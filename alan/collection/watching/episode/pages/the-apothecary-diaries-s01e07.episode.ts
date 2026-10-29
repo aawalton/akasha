@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e07 = {
   description:
     "Gaoshun goes to Maomao to get her help in resolving the events of the garden party. Later, Xiaolan explains the purpose of the hairpins Maomao was gifted, and Maomao makes a deal with Lihaku in order to finally visit home.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 7,
   publishedAt: "2023-11-19",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e07 = {
   stillPath: "/5wBAUmOAlu9z2chOoqke2wwI6G9.jpg",
   voteAverage: 7.5,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

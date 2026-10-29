@@ -9,7 +9,7 @@ export const theApothecaryDiariesSeason1 = {
   partOfCollections: ["show/the-apothecary-diaries"],
   position: 1,
   publishedAt: "2023-10-22",
-  status: "in-progress",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -22,5 +22,6 @@ export const theApothecaryDiariesSeason1 = {
   posterPath: "/7qx7OwBZcI0dRWc8DrbtxY5IrlV.jpg",
   voteAverage: 7.8,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
 } as const satisfies Season

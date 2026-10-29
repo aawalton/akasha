@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e18 = {
   description:
     "Back at home, Maomao visits an annex building at the Verdigris House that hides one of the brothel's secrets. Lakan continues to antagonize Jinshi as his connection to Maomao becomes clear.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 18,
   publishedAt: "2024-02-11",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e18 = {
   stillPath: "/3nVPYisofFOJuLJHf4zx3RvMdMf.jpg",
   voteAverage: 7.8,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

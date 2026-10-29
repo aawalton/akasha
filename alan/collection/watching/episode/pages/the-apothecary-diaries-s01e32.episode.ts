@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e32 = {
   description:
     "Maomao's reputation for resolving conflicts reaches the empress dowager, who will ask for her help to unravel a mystery that won't leave her mind.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 32,
   publishedAt: "2025-02-28",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e32 = {
   stillPath: "/jaqu3IEYCdb7a81Ds8alAZzbdci.jpg",
   voteAverage: 8.1,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

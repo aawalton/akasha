@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e25 = {
   description:
     "The spring garden party concludes without incident. Maomao returns to her regular life as Concubine Gyokuyou’s taster. Meanwhile, novels become popular in the rear palace. Maomao wonders how this came to be, as novels were typically considered low-class. But behind the scenes lies Jinshi and his goals as manager of the rear palace.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 25,
   publishedAt: "2025-01-10",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e25 = {
   stillPath: "/h4tYrFlKXhemuE0YF0ar0EUvroO.jpg",
   voteAverage: 8.2,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

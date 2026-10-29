@@ -6,11 +6,11 @@ export const theApothecaryDiariesS01e31 = {
   slug: "the-apothecary-diaries-s01e31",
   description: "Maomao directs her curiosity towards an old, oddly-shaped building.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 31,
   publishedAt: "2025-02-21",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -24,5 +24,7 @@ export const theApothecaryDiariesS01e31 = {
   stillPath: "/7TM4gXLGfSsOcwGI9jNFJou9OpO.jpg",
   voteAverage: 8.1,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

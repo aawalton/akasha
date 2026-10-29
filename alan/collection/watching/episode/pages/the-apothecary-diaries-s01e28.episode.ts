@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e28 = {
   description:
     "The special envoy from a foreign land gifts mirrors - a rarity in this country - to the high concubines. However, they bring mysteries as well.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 28,
   publishedAt: "2025-01-31",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e28 = {
   stillPath: "/z2OTLkElbiOhfsE6IsPMoi00v51.jpg",
   voteAverage: 7.3,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

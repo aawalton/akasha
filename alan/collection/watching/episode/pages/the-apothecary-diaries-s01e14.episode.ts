@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e14 = {
   description:
     "Ah-Duo's replacement has arrived in the rear palace, and Maomao is assigned to give a certain lecture to all four high concubines. Later, Maomao helps Lihaku investigate a warehouse explosion.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 14,
   publishedAt: "2024-01-14",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e14 = {
   stillPath: "/l3lUDpsjugdQFEn5X44CrLgisx.jpg",
   voteAverage: 7.5,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

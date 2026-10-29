@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e30 = {
   description:
     "The woman from the clinic finds out that Maomao knows a thing or two about medicine, and asks for her help.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 30,
   publishedAt: "2025-02-14",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e30 = {
   stillPath: "/whLAWqw9p1j00Kg1SPpkoLBS84N.jpg",
   voteAverage: 8.2,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e03 = {
   description:
     "Tasked with investigating a ghostly woman dancing nightly on the palace walls, Maomao finds a sleepwalking Concubine Fuyou. But with no medicinal cure for sleepwalking, she's forced to dig deeper to find the real reason behind Fuyou's affliction.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 3,
   publishedAt: "2023-10-22",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e03 = {
   stillPath: "/nfrCtoX4yRh7WyF9unECvML4dyG.jpg",
   voteAverage: 7,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

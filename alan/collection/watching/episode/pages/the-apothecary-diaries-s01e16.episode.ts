@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e16 = {
   description:
     "A shack, a chest of drawers, and a fishbowl are all that a talented metalworker leaves to his three sons upon his death. Maomao is assigned to investigate how these strange inheritances all fit together.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 16,
   publishedAt: "2024-01-28",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e16 = {
   stillPath: "/hpzqYrNAhG9sLiAp1pm0oSWDGxf.jpg",
   voteAverage: 7.3,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e29 = {
   description:
     "In order to realize the seemingly impossible request from the foreign envoy, Maomao speaks to the “Moon Fairy” herself.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 29,
   publishedAt: "2025-02-07",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e29 = {
   stillPath: "/143mDiJ8ULLPhoxNUA0hzo1HLGC.jpg",
   voteAverage: 8.364,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

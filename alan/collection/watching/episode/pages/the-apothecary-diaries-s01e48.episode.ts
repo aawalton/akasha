@@ -6,11 +6,11 @@ export const theApothecaryDiariesS01e48 = {
   slug: "the-apothecary-diaries-s01e48",
   description: "After the war, Jinshi's work piles up and Maomao returns to the pleasure district.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 48,
   publishedAt: "2025-07-04",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -24,5 +24,7 @@ export const theApothecaryDiariesS01e48 = {
   stillPath: "/5QU9GNW9UlLGJUFWGRc1DJXa2KU.jpg",
   voteAverage: 8.3,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

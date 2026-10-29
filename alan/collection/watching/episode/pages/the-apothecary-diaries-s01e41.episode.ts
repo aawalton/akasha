@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e41 = {
   description:
     "Suirei smuggles Maomao and Shisui out of the rear palace. Jinshi begins to search for Maomao.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 41,
   publishedAt: "2025-05-02",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e41 = {
   stillPath: "/8xfyqGYZZYYRuWELOXRG6iRKxvH.jpg",
   voteAverage: 8.1,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e43 = {
   description:
     "The village holds a festival. Maomao attends, and Shisui introduces some of the village's history to her.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 43,
   publishedAt: "2025-05-23",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e43 = {
   stillPath: "/wzS7Z2pCm8pb7FRB1RmDRwAM3P9.jpg",
   voteAverage: 7.8,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

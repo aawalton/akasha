@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e05 = {
   description:
     "A eunuch stricken by a curse comes begging for aid. Meanwhile, the rear palace buzzes with excitement as everyone prepares for the upcoming garden party, and Gyokuyou's ladies-in-waiting aren't about to let Maomao get away without dressing her up.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 5,
   publishedAt: "2023-11-05",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e05 = {
   stillPath: "/45h60UAouIJHiKRCI8zx6Vb38Nh.jpg",
   voteAverage: 7.5,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

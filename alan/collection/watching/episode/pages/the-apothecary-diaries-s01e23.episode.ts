@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e23 = {
   description:
     "No longer willing to keep running away from Lakan, Maomao decides to face off against him. She challenges him on his own turf, in a chess match.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 23,
   publishedAt: "2024-03-17",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e23 = {
   stillPath: "/gPYAVIMNiBLLfNlF1VVVi9SiECT.jpg",
   voteAverage: 8,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

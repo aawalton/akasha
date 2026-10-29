@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e37 = {
   description:
     "Xiaolan's term of service is almost up, so she must find a new job. Maomao and Shisui decide to help.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 37,
   publishedAt: "2025-04-04",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e37 = {
   stillPath: "/kI2zOM5V6GCIIIogL18813FVFws.jpg",
   voteAverage: 6.9,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

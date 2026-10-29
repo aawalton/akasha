@@ -7,11 +7,11 @@ export const theApothecaryDiariesS01e34 = {
   description:
     "Maomao joins some women exchanging scary stories on a hot summer night to provide chills.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 34,
   publishedAt: "2025-03-14",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const theApothecaryDiariesS01e34 = {
   stillPath: "/UcVVBCuaDYl0wYvqc4zpDQGsPt.jpg",
   voteAverage: 6.8,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T19:41:17.605Z",
 } as const satisfies Episode

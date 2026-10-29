@@ -9,7 +9,7 @@ export const theApothecaryDiariesS01e60 = {
   partOfCollections: ["season/the-apothecary-diaries-season-1"],
   position: 60,
   publishedAt: "2026-12-18",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -22,5 +22,6 @@ export const theApothecaryDiariesS01e60 = {
   episodeType: "mid-season",
   voteAverage: 0,
   createdAt: "2026-10-16T11:34:24.319Z",
-  updatedAt: "2026-10-16T11:34:24.319Z",
+  updatedAt: "2026-10-29T19:41:17.605Z",
+  completedAt: "2026-10-29",
 } as const satisfies Episode
