@@ -99,4 +99,5 @@ test("Temper's core config is built from the HUD pages", async () => {
   expect(built).toContain("TemperConfig =")
   expect(built).toContain('["hudLayout"] =')
   expect(built).toContain('["panels"] =')
+  expect(built).toContain('"ZO_ActionBar1"')
 })
