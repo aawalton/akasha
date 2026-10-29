@@ -122,7 +122,7 @@ function rowOf(ended: Ended, from: number, pickedUp: number | null): PhaseRow {
 
 function playerRowOf(rows: readonly PhaseRow[], ended: Ended): PhaseRow | null {
   const made = ended.madeAt
-  if (made === null || rows.some((one) => one.runId === ended.run)) return null
+  if (made === null || rows.some((one) => ofThisTurn(one, ended.run, made))) return null
   let last: PhaseRow | null = null
   for (const one of rows) {
     if (one.phase === PLAYER) continue
