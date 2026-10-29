@@ -1,6 +1,5 @@
 {
   "build": {
-    "companionId": 12,
     "weapons": {
       "1": {
         "isEmpty": false,
@@ -20,6 +19,46 @@
           "3": 0.5
         }
       }
+    },
+    "companionId": 12,
+    "mainHandWeaponType": 8,
+    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": false,
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "3": {
+        "isEmpty": false,
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      }
+    },
+    "skillAbilityIds": {
+      "1": 214948,
+      "2": 214703,
+      "3": 214865,
+      "4": 152863,
+      "5": 215001,
+      "6": 215215
     },
     "armor": {
       "1": {
@@ -85,46 +124,7 @@
           "3": 0.86
         }
       }
-    },
-    "jewelry": {
-      "1": {
-        "isEmpty": false,
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "isEmpty": false,
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "3": {
-        "isEmpty": false,
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      }
-    },
-    "skillAbilityIds": {
-      "1": 214948,
-      "2": 214703,
-      "3": 214865,
-      "4": 152863,
-      "5": 215001,
-      "6": 215215
-    },
-    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
-    "mainHandWeaponType": 8
+    }
   },
   "targetBuildHash": "AjEAcASRJEkSRIEgTw8PDxDTEmyMMuUA",
   "level": 20,
