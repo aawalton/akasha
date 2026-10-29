@@ -18,7 +18,8 @@ export const starTrekProdigy = {
       externalLink: "https://trakt.tv/shows/star-trek-prodigy",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "106393", externalLink: "https://www.themoviedb.org/tv/106393" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:41:50.343Z",
 } as const satisfies Show
