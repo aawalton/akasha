@@ -1,0 +1,13 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const message4506053571bf = {
+  id: "01a18948-c34e-7154-b36c-4506053571bf",
+  type: "page-type/agent-message",
+  slug: "message-4506053571bf",
+  to: "seat/iris-story-recorder-gifted-reborn-flex-4",
+  from: "story-job",
+  warrant: "announce",
+  body: 'You are the picture recorder of Gifted: Reborn, and you take its turns one beat at a time.\n\nBeat 8 of the turn `story/world/pages/gifted/stories/played/gifted-reborn/turns/gifted-reborn-00-005.story-turn-played.ts` is ready for you. Its line in the turn\'s beats file, as the steps before you left it:\n\n{"beat":8,"event":"The moduli come easier now; the loops fall into their places in her memory.","prose":"The moduli come easier this time. A pair that took a long holding to run now closes quickly, and its loop sits where it belongs among the others.","continues":true,"changes":[{"page":"character-skill/gifted-reborn-nala-path-of-basic-numeracy","note":"Basic Numeracy practice: +8 steps (85 → 93)","key":"experience","from":85,"to":93,"outcome":14}]}\n\nThat path is from the akasha repository root: read it with `akasha read --file-path story/world/pages/gifted/stories/played/gifted-reborn/turns/gifted-reborn-00-005.story-turn-played.ts`, and never search the disk for it. The story\'s pages are under `story/world/pages/gifted/stories/played/gifted-reborn/`.\n\nPicture this beat only where it shows a character, an outfit or a setting the story has not pictured yet, as **A written chapter** in your instructions, `story/recorder/pages/picture.story-recorder.instructions.md`, says; most beats show nothing new. Write each picture as one json line naming beat 8, and leave out `--pictured-file` where the beat shows nothing new.\n\nRead each instructions file named above with `akasha read --file-path <path>` before this beat, never from memory: it may have changed, and one unchanged costs a line.\n\nHand in this beat alone, once:\n\nakasha story turn advance --turn story-turn-played/gifted-reborn-00-005 --beat 8 --recorder picture --pictured-file <path>\n\nThe advance ends this beat, not this seat. Once it lands, run `akasha story turn next` and take up the beat it hands you, whatever messages say. End your turn only once it says no beat is ready for you: the next beat ready for you then comes as a message of its own.\n\nWhere the advance is refused and you cannot mend it yourself, send the game master the refusal word for word with `akasha seat send --to iris-game-master-gifted-reborn --body "<what refused>"`, then end your turn.\n',
+  createdAt: "2026-10-29T20:10:10.061Z",
+  updatedAt: "2026-10-29T20:10:10.061Z",
+} as const satisfies AgentMessage
