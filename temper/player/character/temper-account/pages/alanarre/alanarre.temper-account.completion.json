@@ -75799,7 +75799,7 @@
       "name": "Umbral Edge",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Nightblade",
-      "slotsUnlocked": 22,
+      "slotsUnlocked": 23,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75940,7 +75940,7 @@
         },
         {
           "name": "Umbral Edge Lightning Staff",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Umbral Edge Shield",
