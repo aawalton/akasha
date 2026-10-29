@@ -7,7 +7,7 @@ export const stevenUniverseSeason2 = {
   title: "Steven Universe Season 2",
   partOfCollections: ["show/steven-universe"],
   position: 2,
-  ownLength: 348,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const stevenUniverseSeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.966Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:44:20.963Z",
 } as const satisfies Season
