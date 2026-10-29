@@ -7,11 +7,11 @@ export const frierenBeyondJourneySEnd2S02e05 = {
   description:
     "Frieren is reunited with Fass the dwarf, who has been searching for the Boshaft liquor for over 200 years.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/frieren-beyond-journey-s-end-season-2"],
   position: 5,
   publishedAt: "2026-02-13",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const frierenBeyondJourneySEnd2S02e05 = {
   stillPath: "/iVDYCaax4SWVNzaxzNQHqkXKgka.jpg",
   voteAverage: 8,
   createdAt: "2026-10-29T15:14:06.932Z",
-  updatedAt: "2026-10-29T15:14:06.932Z",
+  updatedAt: "2026-10-29T17:10:36.787Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T17:10:36.787Z",
 } as const satisfies Episode
