@@ -5,11 +5,11 @@ export const kpopDemonHuntersCastGuerreirasDoKPopTrilhaSonoraDoFilmeDaNetflixOSo
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-guerreiras-do-k-pop-trilha-sonora-do-filme-da-netflix-o-som-da-nossa-voz",
   ownLength: 4.171133333333334,
-  ownProgress: 0,
+  ownProgress: 4.171133333333334,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-guerreiras-do-k-pop-trilha-sonora-do-filme-da-netflix",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "O Som da Nossa Voz (What It Sounds Like)",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const kpopDemonHuntersCastGuerreirasDoKPopTrilhaSonoraDoFilmeDaNetflixOSo
     },
   ],
   createdAt: "2026-09-22T13:40:04.893Z",
-  updatedAt: "2026-09-24T20:00:07.000Z",
+  updatedAt: "2026-10-29T13:00:37.139Z",
+  progressedAt: "2026-10-29T13:00:37.139Z",
 } as const satisfies Track
