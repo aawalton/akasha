@@ -9,6 +9,7 @@ import {
 import { auditOne } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import {
   checked,
+  into,
   NOTHING,
   repoOf,
   scratch,
@@ -161,6 +162,7 @@ test("two rounds asked for over HTTP at once are answered by one run", async () 
       check: one,
       over,
       asked: over.commit,
+      record: into(root),
       run: async (): Promise<readonly Judged[]> => {
         runs += 1
         await new Promise((settle) => setTimeout(settle, 200))
