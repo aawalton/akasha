@@ -7,7 +7,7 @@ export const theTwilightZoneSeason3 = {
   title: "The Twilight Zone Season 3",
   partOfCollections: ["show/the-twilight-zone-1985"],
   position: 3,
-  ownLength: 661,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const theTwilightZoneSeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.967Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:47:45.563Z",
 } as const satisfies Season
