@@ -7,8 +7,8 @@ export const minimap = {
   title: "Minimap",
   key: "TemperMiniMapPanel",
   dock: "temper-hud-dock/top-right",
-  displayOrder: 1,
+  displayOrder: 2,
   inputModes: ["keyboard"],
   createdAt: "2026-10-28T00:42:42.871Z",
-  updatedAt: "2026-10-28T00:42:42.871Z",
+  updatedAt: "2026-10-29T16:51:33.709Z",
 } as const satisfies TemperHudPanel
