@@ -29,7 +29,6 @@ export const sheetAttributes = {
       decisionKind: "decision-kind/departure",
       statement: "A heading's space to its first row is the space between two rows.",
     },
-
     {
       decisionKind: "decision-kind/departure",
       statement:
