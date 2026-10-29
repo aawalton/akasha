@@ -32,6 +32,7 @@ test("the words that say skip and what is skipped are the words read", () => {
   expect(skippable("Skip Intro")).toBe(true)
   expect(skippable("skip credits")).toBe(true)
   expect(skippable("  Skip   Recap  ")).toBe(true)
+  expect(skippable("Skip Intro 0:12")).toBe(true)
   expect(skippable("Skip to the next episode")).toBe(false)
   expect(skippable("Intro")).toBe(false)
   expect(skippable(null)).toBe(false)

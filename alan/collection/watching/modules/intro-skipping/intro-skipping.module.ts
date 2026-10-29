@@ -19,7 +19,16 @@ export const introSkipping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The words are read whole, so a button saying more than skip is left alone.",
+      statement:
+        "A button is a button saying skip and what it skips, whatever else it says beside that.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A wording long enough to be no button's own is read as no skip button.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page says for a moment that the skip buttons are watched for.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,5 +36,5 @@ export const introSkipping = {
     },
   ],
   createdAt: "2026-10-29T19:22:55.630Z",
-  updatedAt: "2026-10-29T19:22:55.630Z",
+  updatedAt: "2026-10-29T19:43:08.608Z",
 } as const satisfies Module
