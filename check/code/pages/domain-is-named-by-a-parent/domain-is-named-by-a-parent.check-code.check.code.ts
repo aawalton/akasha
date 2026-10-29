@@ -9,6 +9,7 @@ import {
 import {
   input,
   pagesBy,
+  textIn,
   textWas,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
@@ -37,10 +38,13 @@ function underDomain(path: string, shadow: Shadow): boolean {
 
 export const UNDER_DOMAIN = pagesBy("pages under domain", underDomain)
 
-function partsWere(change: Change, path: string): readonly string[] {
-  const text = textWas(change, path)
-  if (text === null) return []
-  return partsOf(valueIn(text))
+function partsNamed(change: Change, path: string): readonly string[] {
+  const found = new Set<string>()
+  for (const text of [textWas(change, path), textIn(change, path)]) {
+    if (text === null) continue
+    for (const shown of partsOf(valueIn(text))) found.add(shown)
+  }
+  return [...found]
 }
 
 export function judgedOver(
@@ -62,7 +66,7 @@ export function judgedOver(
   }
   for (const path of change.changed) {
     if (!pageNamed(path, pageTypes)) continue
-    for (const shown of partsWere(change, path)) {
+    for (const shown of partsNamed(change, path)) {
       const reached = reaches(shown, DOMAIN, known)
       if (!("id" in reached)) continue
       const listed = filedById(known, reached.id)

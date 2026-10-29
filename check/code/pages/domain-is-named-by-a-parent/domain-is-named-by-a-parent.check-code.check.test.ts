@@ -102,9 +102,8 @@ test("pages naming each other in a ring are refused for looping, though each has
   edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
   const at = pathFor("domain", "under")
   const said = judged(landing(root, { [at]: body("domain", "under", ONE, ["domain/over"]) }))
-  expect(said).toHaveLength(1)
-  expect(said[0]?.path).toBe(at)
-  expect(said[0]?.reason).toContain("loop rather than reaching `domain/akasha`")
+  expect(said.map((one) => one.path).sort()).toEqual([at, pathFor("domain", "over")].sort())
+  for (const one of said) expect(one.reason).toContain("loop rather than reaching `domain/akasha`")
 })
 
 test("two pages climbing into one ring are each refused, the second from what the first settled", () => {
@@ -212,6 +211,27 @@ test("a parent that stops naming a part leaves that part refused", () => {
   )
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(pathFor("domain", "under"))
+})
+
+test("a part a parent adds is judged, so a page a second parent names is refused", () => {
+  const root = rooted()
+  filing(root, "domain", "under", ONE)
+  filing(root, "domain", "over", TWO)
+  filing(root, "domain", "other", UP)
+  filing(root, "domain", "above", NEW)
+  edging(root, ONE, "part-slugs", UP, pathFor("domain", "other"))
+  edging(root, TWO, "part-slugs", NEW, pathFor("domain", "above"))
+  const at = pathFor("domain", "over")
+  const said = judged(
+    landing(
+      root,
+      { [at]: body("domain", "over", TWO, ["domain/under"]) },
+      { [at]: put(root, at, body("domain", "over", TWO)) }
+    )
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(pathFor("domain", "under"))
+  expect(said[0]?.reason).toContain("2 pages name `domain/under`")
 })
 
 test("a parent dropping a part leaves that part refused, though it did not change", () => {
