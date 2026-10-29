@@ -23,10 +23,10 @@ export const lilithMax = {
       source: "spotify",
       externalId: "797SPxZf82IYq3XCM8c9AM",
       externalLink: "https://open.spotify.com/artist/797SPxZf82IYq3XCM8c9AM",
-      lastSyncedAt: "2026-09-22",
+      lastSyncedAt: "2026-10-29",
     },
   ],
   title: "Lilith Max",
   createdAt: "2026-06-08T01:35:15.112Z",
-  updatedAt: "2026-09-22T13:46:18.000Z",
+  updatedAt: "2026-10-29T13:48:45.226Z",
 } as const satisfies Artist
