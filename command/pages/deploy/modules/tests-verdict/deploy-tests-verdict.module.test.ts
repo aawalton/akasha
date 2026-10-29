@@ -51,6 +51,12 @@ test("a commit no round answered for refuses the deploy", () => {
   expect("broken" in taken && taken.broken).toContain("no round answered")
 })
 
+test("a round that left the check unanswered says why the audit service gave no verdict", () => {
+  const said = "the job audit-0123456789ab failed: cannot lock ref 'HEAD'"
+  const taken = takenFrom({ ...CLEAN, unanswered: ["tests-pass"], said: [said] }, COMMIT)
+  expect("broken" in taken && taken.broken).toContain(said)
+})
+
 test("a round that could not run the tests refuses the deploy", () => {
   const taken = takenFrom({ ...CLEAN, unrun: ["tests-pass"] }, COMMIT)
   expect("broken" in taken && taken.broken).toContain("could not run the tests")

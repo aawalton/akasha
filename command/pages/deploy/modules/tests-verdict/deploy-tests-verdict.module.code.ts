@@ -54,7 +54,8 @@ function rawOf(said: string): string {
 export function takenFrom(told: Told, commit: string): Taken {
   if (told.broken !== null) return { broken: saidOfUnasked(commit, told.broken) }
   if (told.unanswered.length > 0) {
-    return { broken: saidOfUnasked(commit, "no round answered for that commit") }
+    const why = told.said.length > 0 ? told.said.join("; ") : "no round answered for that commit"
+    return { broken: saidOfUnasked(commit, why) }
   }
   if (told.unrun.length > 0) {
     return { broken: saidOfUnasked(commit, "the round could not run the tests") }

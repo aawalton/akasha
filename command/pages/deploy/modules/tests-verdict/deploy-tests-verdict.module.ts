@@ -34,6 +34,10 @@ export const deployTestsVerdict = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A round leaving the check unanswered says what the audit service said of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A refusal in the verdict refuses a deploy only where the deploy's own judging would run that test.",
     },
@@ -69,5 +73,5 @@ export const deployTestsVerdict = {
     },
   ],
   createdAt: "2026-10-28T18:09:12.032Z",
-  updatedAt: "2026-10-28T18:09:12.032Z",
+  updatedAt: "2026-10-29T10:48:02.548Z",
 } as const satisfies Module
