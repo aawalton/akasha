@@ -7,7 +7,7 @@ export const parksAndRecreationSeason3 = {
   title: "Parks and Recreation Season 3",
   partOfCollections: ["show/parks-and-recreation"],
   position: 3,
-  ownLength: 367.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const parksAndRecreationSeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:39:30.361Z",
 } as const satisfies Season

@@ -18,7 +18,8 @@ export const parksAndRecreation = {
       externalLink: "https://trakt.tv/shows/parks-and-recreation",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "8592", externalLink: "https://www.themoviedb.org/tv/8592" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:39:30.361Z",
 } as const satisfies Show
