@@ -28,6 +28,7 @@ export const temperCharacterStat = {
     "module/extractors",
     "module/format-effects",
     "module/formula-types",
+    "module/healing-held",
     "module/metric-calculator",
     "module/metric-display-formula",
     "module/metric-formulas",
@@ -118,5 +119,5 @@ export const temperCharacterStat = {
     },
   ],
   createdAt: "2026-09-02T08:15:09.030Z",
-  updatedAt: "2026-10-28T22:19:27.199Z",
+  updatedAt: "2026-10-29T17:24:23.000Z",
 } as const satisfies Domain

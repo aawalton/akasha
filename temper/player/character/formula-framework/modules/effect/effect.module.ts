@@ -34,6 +34,10 @@ export const effect = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A healing-done effect gives the healing an estimate held, over-healing included.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An effect may name the buffs it holds only while one is up.",
     },
     {
@@ -47,5 +51,5 @@ export const effect = {
     },
   ],
   createdAt: "2026-09-02T04:46:21.408Z",
-  updatedAt: "2026-10-20T17:35:46.057Z",
+  updatedAt: "2026-10-29T17:24:23.000Z",
 } as const satisfies Module

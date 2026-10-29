@@ -146,10 +146,18 @@ export const metricCalculator = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A healing-done effect gives the healing an estimate held, over-healing included.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An estimate handed no healing gives that effect none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "An estimate gives each status effect's damage from the metrics as the calculation holds them.",
     },
   ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-10-28T22:26:56.530Z",
+  updatedAt: "2026-10-29T17:24:23.000Z",
 } as const satisfies Module

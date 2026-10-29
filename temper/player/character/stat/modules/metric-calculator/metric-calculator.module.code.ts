@@ -13,6 +13,10 @@ import { buildStateToEffectSources } from "akasha/temper/player/character/stat/m
 import { starShareOf } from "akasha/temper/player/character/stat/modules/champion-damage-taken/champion-damage-taken.module.code.ts"
 import type { FormulaNode } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
 import {
+  type HealingHeld,
+  withHealingHeld,
+} from "akasha/temper/player/character/stat/modules/healing-held/healing-held.module.code.ts"
+import {
   evaluateFormula,
   roundMetricValue,
 } from "akasha/temper/player/character/stat/modules/metric-formulas/metric-formulas.module.code.ts"
@@ -254,7 +258,10 @@ function evaluated(sources: readonly EffectSource[]): {
   return { values: results, statusDamage: statusDamagesOf(metricValues) }
 }
 
-function calculateMetricValues(sources: readonly EffectSource[]): CalculationResult {
+function calculateMetricValues(
+  sources: readonly EffectSource[],
+  held: HealingHeld = {}
+): CalculationResult {
   const buffSources = calculateBuffs(sources)
 
   const existingBuffIds = new Set<string>()
@@ -268,7 +275,10 @@ function calculateMetricValues(sources: readonly EffectSource[]): CalculationRes
 
   const sourcesWithBuffs: EffectSource[] = sources.concat(newBuffs)
 
-  return { sources: sourcesWithBuffs, ...calculateBaseStats(sourcesWithBuffs) }
+  return {
+    sources: sourcesWithBuffs,
+    ...calculateBaseStats(withHealingHeld(sourcesWithBuffs, held)),
+  }
 }
 
 type StarPoints = {
@@ -357,7 +367,8 @@ export function calculateReadingStatsByBar(
 export function calculateBuildStatsByBar(
   build: CharacterState,
   bar: "primary-weapon-bar" | "backup-weapon-bar",
-  additionalSources?: readonly EffectSource[]
+  additionalSources?: readonly EffectSource[],
+  healingHeld: HealingHeld = {}
 ): CalculationResult {
   const buildSources = buildStateToEffectSources(build, bar)
 
@@ -368,7 +379,7 @@ export function calculateBuildStatsByBar(
     allSources = allSources.concat(additionalSources)
   }
 
-  const result = calculateMetricValues(allSources)
+  const result = calculateMetricValues(allSources, healingHeld)
 
   return result
 }

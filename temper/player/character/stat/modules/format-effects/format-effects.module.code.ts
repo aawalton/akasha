@@ -136,6 +136,9 @@ function formatMetricEffectsInternal(effects: readonly MetricEffect[]): readonly
 }
 
 function phrasedMetricEffect(effect: MetricEffect, name: string): string {
+  if (effect.effectType === "integer-from-healing-done") {
+    return `${name} equal to healing done`
+  }
   if (effect.effectType === "integer-per-ten-ultimate") {
     return `${effect.effectValue.toString()} ${name} per 10 Ultimate`
   }
@@ -159,6 +162,9 @@ function formatMetricEffectValue(effect: MetricEffect): string {
     }
     case "integer-per-missing-health": {
       return `up to ${effect.effectValue.toString()} by missing Health`
+    }
+    case "integer-from-healing-done": {
+      return "healing done"
     }
     case "number-per-seconds":
     case "number-for-seconds": {
