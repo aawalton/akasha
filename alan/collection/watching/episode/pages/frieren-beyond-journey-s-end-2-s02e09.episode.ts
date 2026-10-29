@@ -7,11 +7,11 @@ export const frierenBeyondJourneySEnd2S02e09 = {
   description:
     "When Frieren's party cannot afford the fare to cross Lake Korridor, the captain proposes a trade.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/frieren-beyond-journey-s-end-season-2"],
   position: 9,
   publishedAt: "2026-03-20",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const frierenBeyondJourneySEnd2S02e09 = {
   stillPath: "/vvAKf0pGpPBGkOJlnU8yoe5BXkp.jpg",
   voteAverage: 8.4,
   createdAt: "2026-10-29T15:14:06.932Z",
-  updatedAt: "2026-10-29T15:14:06.932Z",
+  updatedAt: "2026-10-29T18:44:20.963Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T18:44:20.963Z",
 } as const satisfies Episode
