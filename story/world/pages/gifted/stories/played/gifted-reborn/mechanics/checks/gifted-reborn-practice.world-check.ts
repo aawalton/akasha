@@ -92,10 +92,14 @@ export const giftedRebornPractice = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Sleep earns no steps, so only a session awake practices.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         'The reading is `{"path":"character-skill/<held path>","experience":<steps held>}`.',
     },
   ],
   createdAt: "2026-10-28T00:37:57.775Z",
-  updatedAt: "2026-10-28T14:07:02.023Z",
+  updatedAt: "2026-10-29T19:57:28.305Z",
 } as const satisfies WorldCheck

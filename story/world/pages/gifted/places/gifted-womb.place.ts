@@ -34,7 +34,11 @@ export const giftedWomb = {
       fact: "Nala hears the chant muffled through the walls, many women's voices, in words she does not know.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Each morning the cult leaders talk beside her mother, and their muffled words reach Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T21:48:20.815Z",
-  updatedAt: "2026-10-28T00:38:42.534Z",
+  updatedAt: "2026-10-29T19:57:28.305Z",
 } as const satisfies Place

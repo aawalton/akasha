@@ -205,7 +205,6 @@ export const giftedMyriadPaths = {
       fact: "A small demon-ridden creature dying near her gives Soulstealing one step.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "The Completionist is an Advanced Path, its Tiers falling at 10, 50, 200, 500 and 1000 steps.",
       knowers: ["lore-disclosure/game-master"],
@@ -278,7 +277,11 @@ export const giftedMyriadPaths = {
       fact: "A strong Affinity, and a good teacher, each speed the Paths they bear on.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Completing Basic Numeracy gives 2 Unallocated Stats and no Advanced Attribute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-27T19:33:43.164Z",
-  updatedAt: "2026-10-28T15:08:01.258Z",
+  updatedAt: "2026-10-29T19:57:28.305Z",
 } as const satisfies Lore
