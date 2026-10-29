@@ -7,11 +7,11 @@ export const soloLevelingS01e04 = {
   description:
     "Having entered the instance dungeon located inside the subway, Jinwoo levels up time and time again by fighting waves of magic beasts. As he gradually makes his way forward, he finds a long stairway leading deeper underground.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 4,
   publishedAt: "2024-01-28",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e04 = {
   stillPath: "/dlNMEUnupGrPATIaiOEmxfvUfSG.jpg",
   voteAverage: 8.2,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:23.448Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:23.448Z",
 } as const satisfies Episode
