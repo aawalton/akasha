@@ -7,8 +7,8 @@ export const starTrekTheNextGenerationSeason4 = {
   title: "Star Trek: The Next Generation Season 4",
   partOfCollections: ["show/star-trek-the-next-generation"],
   position: 4,
-  ownLength: 1195.8,
-  ownProgress: 1195.8,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "B",
@@ -21,5 +21,6 @@ export const starTrekTheNextGenerationSeason4 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.965Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:36:01.412Z",
+  progressedAt: "2026-10-29T16:36:01.412Z",
 } as const satisfies Season
