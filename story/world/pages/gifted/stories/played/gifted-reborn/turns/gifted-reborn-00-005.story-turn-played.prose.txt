@@ -10,3 +10,5 @@ Before you take up n+1, you go back through what you have built: every pair unde
 Take a pair, follow it round until it closes, name the loop, hold the length, then take the next pair. Then the next modulus, and the same again.
 
 The numbers start to slip. A pair goes missing from your hold, then another, and the loops run together in the dark. Somewhere in the middle of a modulus, you sleep.
+
+You wake, and the dark is the same dark. You take up the tables where you left them, at the pair you lost.

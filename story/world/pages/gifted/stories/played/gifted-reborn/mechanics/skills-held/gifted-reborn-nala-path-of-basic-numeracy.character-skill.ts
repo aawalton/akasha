@@ -7,9 +7,9 @@ export const giftedRebornNalaPathOfBasicNumeracy = {
   world: "world/gifted",
   character: "character-player/gifted-reborn-nala",
   skill: "world-skill/gifted-path-of-basic-numeracy",
-  experience: 78,
+  experience: 85,
   unrevealed: false,
   attribute: "metric-character-stat/gifted-reborn-nala-mental",
   createdAt: "2026-10-27T19:41:16.088Z",
-  updatedAt: "2026-10-29T20:08:45.081Z",
+  updatedAt: "2026-10-29T20:09:06.567Z",
 } as const satisfies CharacterSkill
