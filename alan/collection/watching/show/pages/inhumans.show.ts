@@ -18,7 +18,8 @@ export const inhumans = {
       externalLink: "https://trakt.tv/shows/marvel-s-inhumans",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "276288", externalLink: "https://www.themoviedb.org/tv/276288" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:31:35.566Z",
 } as const satisfies Show
