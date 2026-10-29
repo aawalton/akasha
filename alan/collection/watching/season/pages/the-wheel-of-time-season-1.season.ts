@@ -7,7 +7,7 @@ export const theWheelOfTimeSeason1 = {
   title: "The Wheel of Time Season 1",
   partOfCollections: ["show/the-wheel-of-time"],
   position: 1,
-  ownLength: 490.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const theWheelOfTimeSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.967Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:48:08.610Z",
 } as const satisfies Season

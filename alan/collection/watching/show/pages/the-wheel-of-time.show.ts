@@ -18,7 +18,8 @@ export const theWheelOfTime = {
       externalLink: "https://trakt.tv/shows/the-wheel-of-time",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "71914", externalLink: "https://www.themoviedb.org/tv/71914" },
   ],
   createdAt: "2026-09-03T16:03:14.355Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:48:08.610Z",
 } as const satisfies Show
