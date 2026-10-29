@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
-import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
+import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   type CategoryPageRow,
   placedCategories,
@@ -65,8 +67,14 @@ const HAND_WRITTEN: readonly (readonly [string, readonly string[]])[] = [
   ],
 ]
 
+function pagesInCheckout(pageTypeSlug: string, limit: number) {
+  const answered = asking(akashaRoot(), { pageTypeSlug, limit } as never)
+  if ("refused" in answered) throw new Error(answered.refused)
+  return answered.rows.map(asPage)
+}
+
 async function pageRows(): Promise<readonly CategoryPageRow[]> {
-  const pages = await collectPages({ pageTypeSlug: temperBrowserCategory.slug, pageSize: 2500 })
+  const pages = pagesInCheckout(temperBrowserCategory.slug, 2500)
   return pages.map((page) => ({
     slug: page.slug ?? "",
     ...(page.title === null ? {} : { title: page.title }),

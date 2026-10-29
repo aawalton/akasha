@@ -72,6 +72,7 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-beat-reading/chapter-beat-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-placing/inventory-browser-category-placing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/eso/ui-harness/modules/host-files/host-files.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/player/character/character-build/modules/filing/character-build-filing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/player/character/character-build/modules/filing/character-build-filing.module.test.ts","typed":false,"deferred":false}

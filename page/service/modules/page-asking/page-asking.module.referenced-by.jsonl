@@ -64,6 +64,7 @@
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-read-backlog/chapter-read-backlog.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-placing/inventory-browser-category-placing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-types/inventory-browser-category-types.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
