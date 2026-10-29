@@ -7,7 +7,7 @@ export const k9Season1 = {
   title: "K-9 Season 1",
   partOfCollections: ["show/k-9"],
   position: 1,
-  ownLength: 702,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const k9Season1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:31:55.079Z",
 } as const satisfies Season
