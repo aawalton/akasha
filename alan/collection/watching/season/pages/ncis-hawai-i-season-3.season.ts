@@ -7,7 +7,7 @@ export const ncisHawaiISeason3 = {
   title: "NCIS: Hawai'i Season 3",
   partOfCollections: ["show/ncis-hawai-i"],
   position: 3,
-  ownLength: 432,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const ncisHawaiISeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:32:28.698Z",
 } as const satisfies Season
