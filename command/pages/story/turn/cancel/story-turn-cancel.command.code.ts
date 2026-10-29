@@ -57,6 +57,7 @@ import {
   taking,
 } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import { sweptBeside } from "akasha/story/engine/modules/phase-timing/phase-timing.module.code.ts"
 import {
   BEATS,
   bareOf,
@@ -288,6 +289,7 @@ function latestRefused(reach: Cancelling, root: string, slug: string, game: stri
 function askingOf(
   reach: Cancelling,
   root: string,
+  game: string,
   turn: Turn,
   mechanics: Mechanics
 ): readonly Asking[] | Refused {
@@ -302,6 +304,7 @@ function askingOf(
   }
   for (const one of mechanics.removed ?? []) asking.push(taking(one))
   asking.push(taking(turn.at))
+  for (const one of sweptBeside(root, game, turn.slug)) asking.push(putting(one))
   return asking
 }
 
@@ -354,7 +357,7 @@ async function heldOn(
   if (beats !== null && "refused" in beats) return refused(beats.refused, DATA)
   const mechanics = await mechanicsOf(reach, given.root, turn, gone, read.takesBack, beats)
   if ("refused" in mechanics) return refused(mechanics.refused, DATA)
-  const asking = askingOf(reach, given.root, turn, mechanics)
+  const asking = askingOf(reach, given.root, held.game, turn, mechanics)
   if ("refused" in asking) return refused(asking.refused, DATA)
   const message = `${slug} is cancelled at ${held.status}`
   const by = { agentId: given.agentId, writer: given.writer, done }
