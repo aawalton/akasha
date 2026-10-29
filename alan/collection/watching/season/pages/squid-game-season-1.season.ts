@@ -7,7 +7,7 @@ export const squidGameSeason1 = {
   title: "Squid Game Season 1",
   partOfCollections: ["show/squid-game"],
   position: 1,
-  ownLength: 495,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const squidGameSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:40:53.560Z",
 } as const satisfies Season
