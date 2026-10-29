@@ -45,6 +45,8 @@ function weaponEquipType(isTwoHanded: boolean): number {
 }
 
 function playerQualityNumber(quality: Parameters<typeof resolveQuality>[0]): number {
+  const stated = quality === undefined ? undefined : PLAYER_QUALITY_TO_ESO.get(quality)
+  if (stated !== undefined) return stated
   const found = PLAYER_QUALITY_TO_ESO.get(resolveQuality(quality))
   if (found !== undefined) return found
   const fallback = PLAYER_QUALITY_TO_ESO.get(resolveQuality(undefined))
