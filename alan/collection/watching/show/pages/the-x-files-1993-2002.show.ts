@@ -20,7 +20,8 @@ export const theXFiles19932002 = {
       externalLink: "https://trakt.tv/shows/the-x-files",
       lastSyncedAt: "2025-10-22",
     },
+    { source: "tmdb", externalId: "4087", externalLink: "https://www.themoviedb.org/tv/4087" },
   ],
   createdAt: "2026-09-03T16:03:14.355Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:31:50.211Z",
 } as const satisfies Show

@@ -7,8 +7,8 @@ export const theXFilesSeason7 = {
   title: "The X-Files Season 7",
   partOfCollections: ["show/the-x-files-1993-2002"],
   position: 7,
-  ownLength: 990,
-  ownProgress: 990,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "1999-11-08",
@@ -21,5 +21,6 @@ export const theXFilesSeason7 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.968Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:31:50.211Z",
+  progressedAt: "2026-10-29T16:31:50.211Z",
 } as const satisfies Season
