@@ -7,8 +7,8 @@ export const theMentalistSeason6 = {
   title: "The Mentalist Season 6",
   partOfCollections: ["show/the-mentalist"],
   position: 6,
-  ownLength: 933,
-  ownProgress: 933,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-09-30",
@@ -21,5 +21,6 @@ export const theMentalistSeason6 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.967Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:31:22.596Z",
+  progressedAt: "2026-10-29T16:31:22.596Z",
 } as const satisfies Season
