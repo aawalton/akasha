@@ -7,8 +7,8 @@ export const doctorWhoSeason3 = {
   title: "Doctor Who Season 3",
   partOfCollections: ["show/doctor-who-2005"],
   position: 3,
-  ownLength: 625.8,
-  ownProgress: 625.8,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2007-04-01",
@@ -21,5 +21,6 @@ export const doctorWhoSeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.961Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:35:10.995Z",
+  progressedAt: "2026-10-29T16:35:10.995Z",
 } as const satisfies Season
