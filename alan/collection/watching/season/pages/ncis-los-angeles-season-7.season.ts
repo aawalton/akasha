@@ -7,7 +7,7 @@ export const ncisLosAngelesSeason7 = {
   title: "NCIS: Los Angeles Season 7",
   partOfCollections: ["show/ncis-los-angeles"],
   position: 7,
-  ownLength: 1080,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const ncisLosAngelesSeason7 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:32:51.047Z",
 } as const satisfies Season
