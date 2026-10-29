@@ -7,7 +7,7 @@ export const stargateAtlantisSeason5 = {
   title: "Stargate Atlantis Season 5",
   partOfCollections: ["show/stargate-atlantis"],
   position: 5,
-  ownLength: 877.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const stargateAtlantisSeason5 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.965Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:43:22.319Z",
 } as const satisfies Season
