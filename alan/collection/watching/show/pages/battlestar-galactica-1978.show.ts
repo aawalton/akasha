@@ -18,7 +18,8 @@ export const battlestarGalactica1978 = {
       externalLink: "https://trakt.tv/shows/battlestar-galactica",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "501", externalLink: "https://www.themoviedb.org/tv/501" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:24:41.252Z",
 } as const satisfies Show
