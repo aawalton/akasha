@@ -48,7 +48,7 @@ test("a level, attributes, traits, bonds, attunements and items filed are drawn 
     {
       ...NOTHING,
       level: 2,
-      attributes: { MIGHT: 12 },
+      attributes: { Might: 12 },
       skills: [{ name: "Smithing" }],
       traits: [{ name: "Keen Nose", score: 1, note: "smells far" }],
       bonds: [{ name: "Amy", value: 130 }],
@@ -63,7 +63,7 @@ test("a level, attributes, traits, bonds, attunements and items filed are drawn 
   expect(state?.revealed).toEqual({
     name: "Alan",
     level: 2,
-    attributes: { MIGHT: 12 },
+    attributes: { Might: 12 },
     skills: [{ name: "Smithing" }],
     traits: [{ name: "Keen Nose", score: 1, note: "smells far" }],
     bonds: [{ name: "Amy", value: 130 }],

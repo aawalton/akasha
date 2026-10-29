@@ -29,18 +29,18 @@ function namesOf(rows: readonly { values: Record<string, unknown> }[]): readonly
 }
 
 test("stats are gathered under their groups in display order, with slots counted", () => {
-  const stats = [stat("STRENGTH", BASIC), stat("MENTAL", BASIC), stat("TALENTED", ADVANCED)]
+  const stats = [stat("Strength", BASIC), stat("Mental", BASIC), stat("Talented", ADVANCED)]
   expect(statGroupsOf(stats, GROUPS, namesOf)).toEqual([
-    { title: "Basic Attributes", names: ["STRENGTH", "MENTAL"] },
-    { title: "Advanced Attributes", names: ["TALENTED"], count: "1/2" },
+    { title: "Basic Attributes", names: ["Strength", "Mental"] },
+    { title: "Advanced Attributes", names: ["Talented"], count: "1/2" },
   ])
 })
 
 test("a group holding no stat shown is left out, and a stat naming no group stays loose", () => {
-  const stats = [stat("STRENGTH", BASIC), stat("LUCK")]
+  const stats = [stat("Strength", BASIC), stat("Luck")]
   expect(statGroupsOf(stats, GROUPS, namesOf)).toEqual([
-    { title: "Basic Attributes", names: ["STRENGTH"] },
+    { title: "Basic Attributes", names: ["Strength"] },
   ])
   expect(statGroupSlugsIn(stats)).toEqual(["basic"])
-  expect(statGroupsOf([stat("LUCK")], [], namesOf)).toEqual([])
+  expect(statGroupsOf([stat("Luck")], [], namesOf)).toEqual([])
 })
