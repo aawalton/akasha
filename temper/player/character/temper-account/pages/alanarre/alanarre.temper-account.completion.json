@@ -75952,7 +75952,7 @@
       "name": "Beacon of Oblivion",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Sorcerer",
-      "slotsUnlocked": 18,
+      "slotsUnlocked": 19,
       "totalSlots": 36,
       "pieces": [
         {
@@ -76001,7 +76001,7 @@
         },
         {
           "name": "Beacon of Oblivion Gauntlets",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Beacon of Oblivion Sash",
