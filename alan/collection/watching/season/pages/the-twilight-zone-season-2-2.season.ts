@@ -7,7 +7,7 @@ export const theTwilightZoneSeason22 = {
   title: "The Twilight Zone Season 2",
   partOfCollections: ["show/the-twilight-zone-2019"],
   position: 2,
-  ownLength: 392,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const theTwilightZoneSeason22 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.967Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:47:56.173Z",
 } as const satisfies Season
