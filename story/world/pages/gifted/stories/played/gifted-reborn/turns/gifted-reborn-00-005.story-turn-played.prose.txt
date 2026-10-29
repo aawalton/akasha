@@ -4,3 +4,5 @@ You set yourself an exercise: Fibonacci sequences taken modulo n+2, then n+1, th
 name: Path of Basic Numeracy
 note: Tier: 3; Mental: +1
 :::
+
+Before you take up n+1, you go back through what you have built: every pair under n+2, its loop, its length, recited once in order. Then you step down.
