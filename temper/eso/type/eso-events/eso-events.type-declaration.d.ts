@@ -104,6 +104,7 @@ declare const EVENT_ITEM_SET_COLLECTIONS_UPDATED: number
 declare const EVENT_ITEM_SET_COLLECTION_UPDATED: number
 declare const EVENT_ITEM_SLOT_CHANGED: number
 declare const EVENT_KEEP_GATE_STATE_CHANGED: number
+declare const EVENT_LEADERBOARD_SCORE_NOTIFICATION_ADDED: number
 declare const EVENT_LEVEL_UPDATE: number
 declare const EVENT_LINKED_WORLD_POSITION_CHANGED: number
 declare const EVENT_LOCKPICK_FAILED: number
