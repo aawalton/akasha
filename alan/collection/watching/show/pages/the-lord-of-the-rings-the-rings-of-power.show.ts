@@ -18,7 +18,8 @@ export const theLordOfTheRingsTheRingsOfPower = {
       externalLink: "https://trakt.tv/shows/the-lord-of-the-rings-the-rings-of-power",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "84773", externalLink: "https://www.themoviedb.org/tv/84773" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:46:33.763Z",
 } as const satisfies Show
