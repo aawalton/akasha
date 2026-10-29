@@ -6,11 +6,7 @@ export const temperAbility = {
   slug: "temper-ability",
   definition: "something the game works out a number for under an ability id of its own",
   extends: ["page-type/temper-catalog-thing"],
-  parts: [
-    "text-property/ability-equations",
-    "number-property/eso-ability-id",
-    "record-property/decisions",
-  ],
+  parts: ["text-property/ability-equations", "number-property/eso-ability-id"],
   properties: [
     {
       pageProperty: "text-property/ability-equations",
@@ -36,5 +32,5 @@ export const temperAbility = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-28T21:18:51.152Z",
-  updatedAt: "2026-10-29T17:35:00.000Z",
+  updatedAt: "2026-10-29T18:01:57.558Z",
 } as const satisfies PageType
