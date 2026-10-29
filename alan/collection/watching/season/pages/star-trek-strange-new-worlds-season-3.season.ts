@@ -7,7 +7,7 @@ export const starTrekStrangeNewWorldsSeason3 = {
   title: "Star Trek: Strange New Worlds Season 3",
   partOfCollections: ["show/star-trek-strange-new-worlds"],
   position: 3,
-  ownLength: 550.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -20,5 +20,5 @@ export const starTrekStrangeNewWorldsSeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.965Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:42:00.517Z",
 } as const satisfies Season
