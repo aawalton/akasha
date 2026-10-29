@@ -14,7 +14,8 @@ export const echo = {
   publishedAt: "2024-01-10",
   externalIdentity: [
     { source: "trakt", externalLink: "https://trakt.tv/shows/echo", lastSyncedAt: "2025-10-01" },
+    { source: "tmdb", externalId: "122226", externalLink: "https://www.themoviedb.org/tv/122226" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:29:45.691Z",
 } as const satisfies Show
