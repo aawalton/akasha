@@ -7,7 +7,7 @@ export const personOfInterestSeason1 = {
   title: "Person of Interest Season 1",
   partOfCollections: ["show/person-of-interest"],
   position: 1,
-  ownLength: 1011,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const personOfInterestSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:39:48.082Z",
 } as const satisfies Season
