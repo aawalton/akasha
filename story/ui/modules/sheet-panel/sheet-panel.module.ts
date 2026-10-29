@@ -22,7 +22,11 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Those share one card, and each stats section under it is a card of its own.",
+      statement: "Those share one card, and every stats section under it folds inside one panel.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The stats panel is titled Stats, and folds as any panel does.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -59,7 +63,7 @@ export const sheetPanel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every stats section is one column, each stat on a row of its own across the card.",
+        "Every stats section is one column, each stat on a row of its own across the panel.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -163,5 +167,5 @@ export const sheetPanel = {
     },
   ],
   createdAt: "2026-09-02T14:52:27.089Z",
-  updatedAt: "2026-10-28T21:41:23.451Z",
+  updatedAt: "2026-10-29T14:25:25.006Z",
 } as const satisfies Module

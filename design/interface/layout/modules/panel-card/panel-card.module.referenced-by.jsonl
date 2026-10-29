@@ -35,7 +35,7 @@
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/system/modules/ui-application-rules/ui-application-rules.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/system/modules/visual-identity/visual-identity.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"story/ui/modules/sheet-attributes/sheet-attributes.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"story/ui/modules/sheet-panel/sheet-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"temper/web/modules/automation-tab/automation-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"temper/web/modules/character-entity-panel-card/character-entity-panel-card.module.code.tsx","typed":false,"deferred":false}

@@ -33,8 +33,58 @@ function rowOf(container: HTMLElement, name: string): HTMLElement | null {
   return label?.parentElement ?? null
 }
 
-test("every stats section is one column, each stat on a row of its own", () => {
+function headingOf(container: HTMLElement, title: string): HTMLElement {
+  const heading = [...container.querySelectorAll("[data-slot=card] button")].find((one) =>
+    (one.textContent ?? "").startsWith(title)
+  )
+  if (heading === undefined) throw new Error(`no heading ${title}`)
+  return heading as HTMLElement
+}
+
+test("the stats tab holds one panel and every stats section sits in it", () => {
   const { container } = drawn()
+  const cards = container.querySelectorAll("[data-slot=card]")
+  expect(cards.length).toBe(1)
+  const panel = cards[0]
+  expect(panel?.textContent).toContain("Stats")
+  for (const title of ["Resources", "Basic Attributes", "Affinities"]) {
+    expect(panel?.contains(headingOf(container, title))).toBe(true)
+  }
+})
+
+test("every stats section starts closed, as a Temper completion panel's group does", () => {
+  const { container } = drawn()
+  for (const title of ["Resources", "Basic Attributes", "Affinities"]) {
+    expect(headingOf(container, title).getAttribute("aria-expanded")).toBe("false")
+  }
+  expect(container.textContent).not.toContain("Strength")
+})
+
+test("a section's heading carries its count in the accent and a chevron", () => {
+  const { container } = drawn()
+  const heading = headingOf(container, "Basic Attributes")
+  const count = heading.querySelector("span.text-accent")
+  expect(count?.textContent).toBe("4/4")
+  expect(count?.className).toContain("font-mono")
+  expect(heading.querySelector("svg")).not.toBeNull()
+})
+
+test("a section opens to its rows and folds them away again", () => {
+  const { container } = drawn()
+  const heading = headingOf(container, "Basic Attributes")
+  fireEvent.click(heading)
+  expect(heading.getAttribute("aria-expanded")).toBe("true")
+  expect(container.textContent).toContain("Strength")
+  fireEvent.click(heading)
+  expect(heading.getAttribute("aria-expanded")).toBe("false")
+  expect(container.textContent).not.toContain("Strength")
+})
+
+test("every stat sits on a row of its own in one column across the panel", () => {
+  const { container } = drawn()
+  for (const title of ["Resources", "Basic Attributes", "Affinities"]) {
+    fireEvent.click(headingOf(container, title))
+  }
   for (const name of ["Strength", "Stamina", "Coordination", "Mental", "Fire", "Health"]) {
     const rows = rowOf(container, name)?.parentElement
     expect(rows?.className).toContain("flex-col")
@@ -44,34 +94,20 @@ test("every stats section is one column, each stat on a row of its own", () => {
 
 test("a stat's name sits at the left of its row and its value at the right", () => {
   const { container } = drawn()
+  fireEvent.click(headingOf(container, "Basic Attributes"))
   const row = rowOf(container, "Mental")
   expect(row?.className).toContain("justify-between")
   expect(row?.firstElementChild?.textContent).toBe("Mental")
   expect(row?.lastElementChild?.textContent).toBe("102")
 })
 
-test("each attribute group keeps its heading and its count", () => {
+test("a heading is the same gap from its first row as two rows are apart", () => {
   const { container } = drawn()
-  const text = container.textContent ?? ""
-  expect(text).toContain("Basic Attributes")
-  expect(text).toContain("4/4")
-  expect(text).toContain("Affinities")
-  expect(text).toContain("1/3")
-})
-
-test("each stats section is a collapsible card drawn open", () => {
-  const { container } = drawn()
-  const closers = container.querySelectorAll("button[aria-label='Collapse panel']")
-  expect(closers.length).toBe(3)
-  expect(container.textContent).toContain("Strength")
-})
-
-test("a section closed hides its rows and keeps its heading and its count", () => {
-  const { container, getByText } = drawn()
-  fireEvent.click(getByText("Basic Attributes"))
-  const text = container.textContent ?? ""
-  expect(text).not.toContain("Strength")
-  expect(text).toContain("Basic Attributes")
-  expect(text).toContain("4/4")
-  expect(text).toContain("Fire")
+  fireEvent.click(headingOf(container, "Basic Attributes"))
+  const heading = headingOf(container, "Basic Attributes")
+  const section = heading.parentElement
+  expect(section?.className).toContain("flex-col")
+  expect(section?.className).toContain("gap-1")
+  const rows = rowOf(container, "Strength")?.parentElement
+  expect(rows?.className).toContain("gap-1")
 })

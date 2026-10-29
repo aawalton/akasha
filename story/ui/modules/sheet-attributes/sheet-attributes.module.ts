@@ -6,6 +6,7 @@ export const sheetAttributes = {
   slug: "sheet-attributes",
   definition: "a character sheet's named numbers, drawn under the groups its world names",
   code: "tsx",
+  test: "tsx",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -13,7 +14,7 @@ export const sheetAttributes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A section is the collapsible panel card Temper's completion page draws.",
+      statement: "A section is the collapsible stat section the design system holds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -21,17 +22,14 @@ export const sheetAttributes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every section is drawn open, and whether one is open is not kept.",
+      statement:
+        "Every section starts closed, as a Temper completion panel's group does, and no state is kept.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A heading's space to its first row is the space between two rows.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A section spans the panel it is drawn in rather than the width a panel card takes.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -48,5 +46,5 @@ export const sheetAttributes = {
     },
   ],
   createdAt: "2026-10-28T14:56:52.048Z",
-  updatedAt: "2026-10-28T22:00:47.729Z",
+  updatedAt: "2026-10-29T14:25:25.006Z",
 } as const satisfies Module

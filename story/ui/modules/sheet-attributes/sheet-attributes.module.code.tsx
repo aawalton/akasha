@@ -1,10 +1,10 @@
 "use client"
 
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { CollapsibleStatSection } from "akasha/design/interface/pattern/modules/collapsible-stat-section/collapsible-stat-section.module.code.tsx"
 import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
 import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import { shownOf } from "akasha/story/ui/modules/sheet-inventory/sheet-inventory.module.code.tsx"
-import { type ReactNode, useId } from "react"
+import type { ReactNode } from "react"
 
 type Scalars = Readonly<Record<string, number | string>>
 
@@ -13,8 +13,6 @@ type AttributeGroup = NonNullable<ClientSheet["attributeGroups"]>[number]
 const ATTRIBUTES = "Attributes"
 
 const NO_GROUPS: readonly AttributeGroup[] = []
-
-const ACROSS_PANEL = "min-[520px]:w-full! min-[520px]:min-w-0!"
 
 const COUNT = "font-mono font-semibold text-accent text-sm tabular-nums"
 
@@ -28,16 +26,12 @@ export function StatsSection({
   children: ReactNode
 }) {
   return (
-    <PanelCard
-      id={useId()}
-      title={title}
-      collapsible
-      defaultOpen
-      headerActions={count === undefined ? undefined : <span className={COUNT}>{count}</span>}
-      className={ACROSS_PANEL}
+    <CollapsibleStatSection
+      label={title}
+      value={count === undefined ? undefined : <span className={COUNT}>{count}</span>}
     >
       {children}
-    </PanelCard>
+    </CollapsibleStatSection>
   )
 }
 

@@ -1,5 +1,6 @@
 "use client"
 
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   Tabs,
   TabsContent,
@@ -57,6 +58,8 @@ const TRAITS = "traits"
 const XP = "XP"
 
 const CARD = "flex flex-col gap-3 rounded-xl p-4 shadow-sm"
+
+const ACROSS_PANEL = "min-[520px]:w-full! min-[520px]:min-w-0!"
 
 export function SheetCard({ children }: { children: ReactNode }) {
   return <SurfaceProvider className={CARD}>{children}</SurfaceProvider>
@@ -134,6 +137,11 @@ function StatsTab({
     ...(sheet.rank != null ? { Rank: sheet.rank } : {}),
     ...(sheet.status != null ? { Status: sheet.status } : {}),
   }
+  const hasStats =
+    Object.keys(profile).length > 0 ||
+    sheet.resources !== undefined ||
+    sheet.attributes !== undefined ||
+    Object.keys(derived).length > 0
   return (
     <div className="flex flex-col gap-3">
       <SheetCard>
@@ -144,23 +152,29 @@ function StatsTab({
         {head.cover}
         {points.length === 0 ? null : <LevelUp points={points} />}
       </SheetCard>
-      {showsStats && Object.keys(profile).length > 0 ? (
-        <StatsSection title="Profile">
-          <ScalarRows record={profile} />
-        </StatsSection>
-      ) : null}
-      {showsStats && sheet.resources !== undefined ? (
-        <StatsSection title="Resources">
-          <ScalarRows record={sheet.resources} />
-        </StatsSection>
-      ) : null}
-      {showsStats && sheet.attributes !== undefined ? (
-        <AttributeSections attributes={sheet.attributes} groups={sheet.attributeGroups} />
-      ) : null}
-      {showsStats && Object.keys(derived).length > 0 ? (
-        <StatsSection title="Derived">
-          <ScalarRows record={derived} />
-        </StatsSection>
+      {showsStats && hasStats ? (
+        <PanelCard id={STATS} title="Stats" collapsible defaultOpen className={ACROSS_PANEL}>
+          <div className="flex flex-col gap-1">
+            {Object.keys(profile).length === 0 ? null : (
+              <StatsSection title="Profile">
+                <ScalarRows record={profile} />
+              </StatsSection>
+            )}
+            {sheet.resources === undefined ? null : (
+              <StatsSection title="Resources">
+                <ScalarRows record={sheet.resources} />
+              </StatsSection>
+            )}
+            {sheet.attributes === undefined ? null : (
+              <AttributeSections attributes={sheet.attributes} groups={sheet.attributeGroups} />
+            )}
+            {Object.keys(derived).length === 0 ? null : (
+              <StatsSection title="Derived">
+                <ScalarRows record={derived} />
+              </StatsSection>
+            )}
+          </div>
+        </PanelCard>
       ) : null}
     </div>
   )
