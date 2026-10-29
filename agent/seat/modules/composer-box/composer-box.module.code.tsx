@@ -10,6 +10,11 @@ import type { ReactNode } from "react"
 export const COMPOSER_TEXT =
   "max-h-48 min-h-10 resize-none rounded-none bg-transparent px-2 py-1.5 shadow-none focus-visible:[outline:none]"
 
+const LINE = "flex items-end gap-2 rounded-[1.25rem] border border-primary/10 p-1.5"
+
+export const COMPOSER_LINE_TEXT =
+  "max-h-40 min-h-9 flex-1 resize-none rounded-none bg-transparent px-2 py-1.5 shadow-none focus-visible:[outline:none]"
+
 const CARD =
   "flex flex-col gap-1 rounded-[1.75rem] border border-primary/10 p-2 transition-colors focus-within:border-primary/20"
 
@@ -33,6 +38,16 @@ export function ComposerBox({
         {start}
         <div className="ml-auto flex items-center gap-2">{end}</div>
       </div>
+    </div>
+  )
+}
+
+export function ComposerLine({ end, children }: { end: ReactNode; children: ReactNode }) {
+  const plane = useSurface()
+  return (
+    <div className={cn(LINE, surfaceClass(plane + 1))}>
+      {children}
+      {end}
     </div>
   )
 }

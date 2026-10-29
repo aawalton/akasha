@@ -1,8 +1,8 @@
 "use client"
 
 import {
-  COMPOSER_TEXT,
-  ComposerBox,
+  COMPOSER_LINE_TEXT,
+  ComposerLine,
   ComposerSend,
 } from "akasha/agent/seat/modules/composer-box/composer-box.module.code.tsx"
 import {
@@ -312,7 +312,7 @@ export function ActionBar({
         ) : error === null ? null : (
           <p className={ERROR_LINE}>{error}</p>
         )}
-        <ComposerBox end={<ComposerSend submits disabled={sending || text.trim() === ""} />}>
+        <ComposerLine end={<ComposerSend submits disabled={sending || text.trim() === ""} />}>
           <Textarea
             ref={returnSends}
             value={text}
@@ -341,9 +341,9 @@ export function ActionBar({
             enterKeyHint="send"
             placeholder={PLACEHOLDER}
             aria-label="Your action"
-            className={COMPOSER_TEXT}
+            className={COMPOSER_LINE_TEXT}
           />
-        </ComposerBox>
+        </ComposerLine>
       </form>
     </div>
   )

@@ -1,5 +1,9 @@
 "use client"
 
+import {
+  COMPOSER_LINE_TEXT,
+  ComposerLine,
+} from "akasha/agent/seat/modules/composer-box/composer-box.module.code.tsx"
 import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import {
   Tabs,
@@ -84,11 +88,6 @@ const ALAN_TEXT = "whitespace-pre-wrap break-words text-primary text-sm"
 
 const ANSWER_TEXT = "whitespace-pre-wrap break-words font-read text-[15px] text-primary"
 
-const BOX = "flex items-end gap-2 rounded-[1.25rem] border border-primary/10 p-1.5"
-
-const BOX_TEXT =
-  "max-h-40 min-h-9 flex-1 resize-none rounded-none bg-transparent px-2 py-1.5 shadow-none focus-visible:[outline:none]"
-
 function askedOf(answerer: string): string {
   return `Ask ${answerer}…`
 }
@@ -168,7 +167,6 @@ export function ChatPanel({
     [returnSends]
   )
   const historyAt = useEndFollowed(lines.length)
-  const plane = useSurface()
   return (
     <section className={PANEL} aria-label="Chat">
       <Tabs value={ASSISTANT}>
@@ -188,34 +186,38 @@ export function ChatPanel({
         )}
       </div>
       <form
-        className={cn(BOX, surfaceClass(plane + 1))}
         onSubmit={(event) => {
           event.preventDefault()
           send()
         }}
       >
-        <Textarea
-          ref={boxed}
-          onKeyDown={(event) => {
-            if (!sendsNow(event)) return
-            event.preventDefault()
-            send()
-          }}
-          rows={1}
-          enterKeyHint="send"
-          placeholder={askedOf(answerer)}
-          aria-label={`Message to ${answerer}`}
-          className={BOX_TEXT}
-        />
-        <Button
-          type="submit"
-          variant="accent"
-          size="icon"
-          className="shrink-0 rounded-full bg-accent text-surface-0"
-          aria-label="Send"
+        <ComposerLine
+          end={
+            <Button
+              type="submit"
+              variant="accent"
+              size="icon"
+              className="shrink-0 rounded-full bg-accent text-surface-0"
+              aria-label="Send"
+            >
+              <ArrowUp className="size-4" />
+            </Button>
+          }
         >
-          <ArrowUp className="size-4" />
-        </Button>
+          <Textarea
+            ref={boxed}
+            onKeyDown={(event) => {
+              if (!sendsNow(event)) return
+              event.preventDefault()
+              send()
+            }}
+            rows={1}
+            enterKeyHint="send"
+            placeholder={askedOf(answerer)}
+            aria-label={`Message to ${answerer}`}
+            className={COMPOSER_LINE_TEXT}
+          />
+        </ComposerLine>
       </form>
     </section>
   )
