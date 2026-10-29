@@ -7,7 +7,7 @@ export const ncisOriginsSeason1 = {
   title: "NCIS: Origins Season 1",
   partOfCollections: ["show/ncis-origins"],
   position: 1,
-  ownLength: 790.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const ncisOriginsSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:33:20.328Z",
 } as const satisfies Season

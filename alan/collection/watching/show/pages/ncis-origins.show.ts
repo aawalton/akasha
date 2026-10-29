@@ -18,7 +18,8 @@ export const ncisOrigins = {
       externalLink: "https://trakt.tv/shows/ncis-origins",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "243006", externalLink: "https://www.themoviedb.org/tv/243006" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:33:20.328Z",
 } as const satisfies Show
