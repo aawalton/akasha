@@ -18,7 +18,8 @@ export const hawkeye = {
       externalLink: "https://trakt.tv/shows/hawkeye-2021",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "88329", externalLink: "https://www.themoviedb.org/tv/88329" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:29:26.300Z",
 } as const satisfies Show
