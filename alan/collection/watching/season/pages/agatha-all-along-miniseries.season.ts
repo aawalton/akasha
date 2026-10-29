@@ -7,7 +7,7 @@ export const agathaAllAlongMiniseries = {
   title: "Agatha All Along Miniseries",
   partOfCollections: ["show/agatha-all-along"],
   position: 1,
-  ownLength: 379.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const agathaAllAlongMiniseries = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.959Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:24:14.664Z",
 } as const satisfies Season
