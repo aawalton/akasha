@@ -7,7 +7,7 @@ export const theOfficeSeason3 = {
   title: "The Office Season 3",
   partOfCollections: ["show/the-office"],
   position: 3,
-  ownLength: 565.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const theOfficeSeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.967Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:46:55.461Z",
 } as const satisfies Season
