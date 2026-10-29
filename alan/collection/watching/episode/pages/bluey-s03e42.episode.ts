@@ -1,0 +1,28 @@
+import type { Episode } from "akasha/alan/collection/watching/episode/episode.page-type.types.ts"
+
+export const blueyS03e42 = {
+  id: "01a18843-d156-78fc-b14c-bad1d69bcf70",
+  type: "page-type/episode",
+  slug: "bluey-s03e42",
+  description: "Bluey wants to know why Dad’s always bossing her around!",
+  ownLength: 7,
+  ownProgress: 0,
+  partOfCollections: ["season/bluey-season-3"],
+  position: 42,
+  publishedAt: "2023-05-07",
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "4215663",
+      externalLink: "https://www.themoviedb.org/tv/82728/season/3/episode/42",
+    },
+  ],
+  title: "Show & Tell",
+  episodeType: "standard",
+  stillPath: "/xHVaiortVWKrQosxONraneqWt9s.jpg",
+  voteAverage: 6.8,
+  createdAt: "2026-10-29T15:25:08.300Z",
+  updatedAt: "2026-10-29T15:25:08.300Z",
+} as const satisfies Episode

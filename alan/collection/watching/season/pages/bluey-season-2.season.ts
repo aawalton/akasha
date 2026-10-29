@@ -7,7 +7,7 @@ export const blueySeason2 = {
   title: "Bluey Season 2",
   partOfCollections: ["show/bluey"],
   position: 2,
-  ownLength: 364.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const blueySeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.960Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:25:08.300Z",
 } as const satisfies Season
