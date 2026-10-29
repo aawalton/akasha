@@ -7,7 +7,7 @@ export const starTrekLowerDecksSeason4 = {
   title: "Star Trek: Lower Decks Season 4",
   partOfCollections: ["show/star-trek-lower-decks"],
   position: 4,
-  ownLength: 264,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -20,5 +20,5 @@ export const starTrekLowerDecksSeason4 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.965Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:41:40.042Z",
 } as const satisfies Season

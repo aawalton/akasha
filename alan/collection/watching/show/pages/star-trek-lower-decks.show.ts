@@ -18,7 +18,8 @@ export const starTrekLowerDecks = {
       externalLink: "https://trakt.tv/shows/star-trek-lower-decks",
       lastSyncedAt: "2025-10-02",
     },
+    { source: "tmdb", externalId: "85948", externalLink: "https://www.themoviedb.org/tv/85948" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:41:40.042Z",
 } as const satisfies Show
