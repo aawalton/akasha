@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg000808RecoveryAndBooks = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-29T03:23:55.811Z",
+  ownProgress: 3986,
+  progressedAt: "2026-10-29T03:23:55.811Z",
 } as const satisfies StoryChapterRead
