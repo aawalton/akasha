@@ -3,6 +3,10 @@
 {"propertySlug":"import","fileName":"episode.page-type.ts","path":"command/pages/watching/hallmark/modules/hallmark-misfiling/hallmark-misfiling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"episode.page-type.ts","path":"command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"episode.page-type.ts","path":"command/pages/watching/log/modules/episode-watching/episode-watching.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/a-girl-thing-s01e01.episode.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/a-girl-thing-s01e02.episode.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/a-girl-thing-s01e03.episode.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/a-girl-thing-s01e04.episode.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/angel-beats-s01e01.episode.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/angel-beats-s01e02.episode.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"episode.page-type.types.ts","path":"alan/collection/watching/episode/pages/angel-beats-s01e03.episode.ts","typed":true,"deferred":false}
