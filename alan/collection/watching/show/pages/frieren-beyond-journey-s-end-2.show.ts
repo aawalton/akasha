@@ -28,9 +28,9 @@ export const frierenBeyondJourneySEnd2 = {
       source: "tmdb",
       externalId: "209867",
       externalLink: "https://www.themoviedb.org/tv/209867",
-      lastSyncedAt: "2026-10-28",
+      lastSyncedAt: "2026-10-29",
     },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-10-28T21:25:51.554Z",
+  updatedAt: "2026-10-29T15:14:06.932Z",
 } as const satisfies Show
