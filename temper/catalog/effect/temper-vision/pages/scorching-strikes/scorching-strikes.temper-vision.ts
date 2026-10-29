@@ -11,12 +11,11 @@ export const scorchingStrikes = {
   esoAbilityId: 200679,
   effects: "jsonl",
   createdAt: "2026-10-29T17:35:00.000Z",
-  updatedAt: "2026-10-29T18:37:01.094Z",
+  updatedAt: "2026-10-29T18:40:50.673Z",
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The game shows Flame Damage 27% where Temper works out 7%; this vision's 20% accounts for it.",
+      decisionKind: "decision-kind/departure",
+      statement: "The game shows Flame Damage 27%, which this vision's 20% over the base 7% gives.",
     },
   ],
 } as const satisfies TemperVision

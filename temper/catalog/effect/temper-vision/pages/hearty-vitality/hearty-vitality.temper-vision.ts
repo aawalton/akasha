@@ -11,20 +11,20 @@ export const heartyVitality = {
   esoAbilityId: 197652,
   effects: "jsonl",
   createdAt: "2026-10-29T17:35:00.000Z",
-  updatedAt: "2026-10-29T18:37:01.094Z",
+  updatedAt: "2026-10-29T18:40:50.673Z",
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "The game showed 68,481 Max Health front and 72,649 back where Temper worked out 62,061 and 65,838.",
+        "The game showed 68,481 Max Health front and 72,649 back, and the estimate gives both.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Hearty Vitality's two stacks add 0.12 to the fractional-change sum, not to the product.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/constraint",
       statement: "53,501 × 1.28 = 68,481 front and 56,757 × 1.28 = 72,649 back.",
     },
     {
