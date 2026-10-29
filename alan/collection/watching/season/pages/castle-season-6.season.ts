@@ -7,8 +7,8 @@ export const castleSeason6 = {
   title: "Castle Season 6",
   partOfCollections: ["show/castle"],
   position: 6,
-  ownLength: 1011,
-  ownProgress: 1011,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2013-09-24",
@@ -21,5 +21,6 @@ export const castleSeason6 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.960Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:28:49.084Z",
+  progressedAt: "2026-10-29T16:28:49.084Z",
 } as const satisfies Season

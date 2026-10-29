@@ -17,7 +17,8 @@ export const castle = {
   publishedAt: "2009-03-09",
   externalIdentity: [
     { source: "trakt", externalLink: "https://trakt.tv/shows/castle", lastSyncedAt: "2025-10-01" },
+    { source: "tmdb", externalId: "1419", externalLink: "https://www.themoviedb.org/tv/1419" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:28:49.084Z",
 } as const satisfies Show
