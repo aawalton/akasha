@@ -7,11 +7,11 @@ export const soloLevelingS01e13 = {
   description:
     "After a scheduled meeting with Jinah's teachers, Jinwoo is asked to talk to one of her classmates, Han Song-yi, who is working as a hunter. In an effort to show her the harsh reality of the job, Jinwoo takes her to a raid designated for new hunters of the White Tiger guild.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 13,
   publishedAt: "2025-01-05",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e13 = {
   stillPath: "/7qznlqeN3Ccshw6olWEdQMIsygP.jpg",
   voteAverage: 8.5,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:50.608Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:50.608Z",
 } as const satisfies Episode
