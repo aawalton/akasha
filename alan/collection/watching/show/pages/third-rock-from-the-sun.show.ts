@@ -19,7 +19,8 @@ export const thirdRockFromTheSun = {
       externalLink: "https://trakt.tv/shows/3rd-rock-from-the-sun",
       lastSyncedAt: "2025-12-20",
     },
+    { source: "tmdb", externalId: "155", externalLink: "https://www.themoviedb.org/tv/155" },
   ],
   createdAt: "2026-09-03T16:03:14.352Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:48:20.891Z",
 } as const satisfies Show
