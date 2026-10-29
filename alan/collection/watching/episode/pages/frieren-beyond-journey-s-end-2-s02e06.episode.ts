@@ -7,11 +7,11 @@ export const frierenBeyondJourneySEnd2S02e06 = {
   description:
     "A village on the Northern Plateau is wiped out, and the victims' distinctive wounds point to a certain demon.",
   ownLength: 23,
-  ownProgress: 0,
+  ownProgress: 23,
   partOfCollections: ["season/frieren-beyond-journey-s-end-season-2"],
   position: 6,
   publishedAt: "2026-02-27",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const frierenBeyondJourneySEnd2S02e06 = {
   stillPath: "/8dJ80GOvWOSK4NZBwAYShgAk7A2.jpg",
   voteAverage: 7.9,
   createdAt: "2026-10-29T15:14:06.932Z",
-  updatedAt: "2026-10-29T15:14:06.932Z",
+  updatedAt: "2026-10-29T17:34:07.915Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T17:34:07.915Z",
 } as const satisfies Episode
