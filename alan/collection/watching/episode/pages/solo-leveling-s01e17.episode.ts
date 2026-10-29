@@ -7,11 +7,11 @@ export const soloLevelingS01e17 = {
   description:
     "Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help prepare.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 17,
   publishedAt: "2025-02-02",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e17 = {
   stillPath: "/o8cccNR6J3dSuh00elhZgd4Glmu.jpg",
   voteAverage: 8.1,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:34:03.282Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:34:03.282Z",
 } as const satisfies Episode
