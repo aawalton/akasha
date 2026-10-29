@@ -1,6 +1,5 @@
 {
   "build": {
-    "mainHandWeaponType": 13,
     "companionId": 8,
     "skillAbilityIds": {
       "1": 152625,
@@ -10,7 +9,56 @@
       "5": 155693,
       "6": 186488
     },
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Focused",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": false,
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "3": {
+        "isEmpty": false,
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      }
+    },
     "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
+    "weapons": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Ice Staff, Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": true,
+        "displayText": "Empty",
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        }
+      }
+    },
     "armor": {
       "1": {
         "isEmpty": false,
@@ -76,55 +124,7 @@
         }
       }
     },
-    "jewelry": {
-      "1": {
-        "isEmpty": false,
-        "displayText": "Focused",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "isEmpty": false,
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "3": {
-        "isEmpty": false,
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      }
-    },
-    "weapons": {
-      "1": {
-        "isEmpty": false,
-        "displayText": "Ice Staff, Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "isEmpty": true,
-        "displayText": "Empty",
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        }
-      }
-    }
+    "mainHandWeaponType": 13
   },
   "targetBuildHash": "AjEAUAaRpGkaRpGkaQkPDxTzqfA",
   "level": 20,
