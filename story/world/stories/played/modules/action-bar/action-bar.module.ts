@@ -6,6 +6,7 @@ export const actionBar = {
   slug: "action-bar",
   definition: "the line a player types an action into and sends a game, over the turn being made",
   code: "tsx",
+  test: "tsx",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -106,5 +107,5 @@ export const actionBar = {
     },
   ],
   createdAt: "2026-09-24T17:51:51.158Z",
-  updatedAt: "2026-10-29T14:16:47.000Z",
+  updatedAt: "2026-10-29T14:18:35.000Z",
 } as const satisfies Module

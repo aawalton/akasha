@@ -1,6 +1,7 @@
 import "akasha/check/test/modules/dom-registering/dom-registering.module.code.ts"
 import { expect, test } from "bun:test"
 import { fireEvent, render } from "@testing-library/react"
+import { COMPOSER_LINE_TEXT } from "akasha/agent/seat/modules/composer-box/composer-box.module.code.tsx"
 import { LayoutRouterProvider } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import {
   ChatPanel,
@@ -76,5 +77,14 @@ test("Send sends what the box holds, though no keystroke announced it, and empti
   fireEvent.click(shown.getByLabelText("Send"))
   expect(said).toEqual(["slow down"])
   expect(box.value).toBe("")
+  shown.unmount()
+})
+
+test("the message box is one line tall until more is typed", () => {
+  const shown = drawn(<ChatPanel lines={[]} answerer="Mari" onSend={() => undefined} />)
+  const box = shown.getByLabelText("Message to Mari") as HTMLTextAreaElement
+  expect(box.className).toContain(COMPOSER_LINE_TEXT)
+  expect(box.parentElement?.className).toContain("items-end")
+  expect(box.parentElement?.className).toContain("rounded-[1.25rem]")
   shown.unmount()
 })
