@@ -7,11 +7,11 @@ export const soloLevelingS01e06 = {
   description:
     "While the C-Rank dungeon raid by Jinwoo and the others seems to be progressing well, the moment they step into an area covered in mana stones with a sleeping dungeon boss, things take a wrong turn.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 6,
   publishedAt: "2024-02-11",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e06 = {
   stillPath: "/qLm1R2o54Cvzs74cz4jG4BXZS2S.jpg",
   voteAverage: 8.4,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:29.824Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:29.824Z",
 } as const satisfies Episode
