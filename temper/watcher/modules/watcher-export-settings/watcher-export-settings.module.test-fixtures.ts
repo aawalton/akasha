@@ -3,6 +3,7 @@ import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companio
 import { holdItemCategoryTreeFromCheckout } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts"
 import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import type { HeldPages } from "akasha/temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.code.ts"
+import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import type {
   ExportSettingsSeams,
@@ -10,6 +11,7 @@ import type {
 } from "akasha/temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"
 
 holdCompanionCatalogFromCheckout()
+holdSetCatalogFromCheckout()
 holdSkillCatalogFromCheckout()
 const TREE = holdItemCategoryTreeFromCheckout()
 

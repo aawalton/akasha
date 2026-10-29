@@ -50,6 +50,7 @@
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-export-character-targets/watcher-export-character-targets.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.test-fixtures.ts","typed":false,"deferred":false}
