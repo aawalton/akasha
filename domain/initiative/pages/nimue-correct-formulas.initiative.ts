@@ -23,7 +23,7 @@ export const nimueCorrectFormulas = {
       statement:
         "Every combat formula has appropriate verified test cases and is believed to be correct.",
       workingMemory:
-        "Fights land in each character's fights.jsonl, with the build hash where the reader saw the fight live. Charged weapons and Bloodthirsty jewelry move no sheet stat, so a combat case pins each at every quality. A DoT tick is the tooltip tick at its cast on that target, x1.05 under Abyssal Ink; a crit is round(tick x (1 + crit damage/100)); a killing tick adds overflow. Soul Splitting Trap's formula waits on lone-target casts, Treatise off, Thaumaturge on.",
+        "Fights land in each character's fights.jsonl. Charged weapons and Bloodthirsty jewelry move no sheet stat. A DoT tick is the tooltip tick at its cast, x1.05 under Abyssal Ink; a crit is round(tick x (1 + crit damage/100)); a killing tick adds overflow. A status effect's damage is its page's equation. Erin's dummy fights verify Burning, and the five direct status effects hit harder than Burning, so their carried-over coefficients are wrong.",
     },
     {
       statement: "Every game mechanic that affects combat has been accounted for.",
@@ -46,5 +46,5 @@ export const nimueCorrectFormulas = {
     "A calculation change lands with the stat-case pins it closes, after the stat-case test passes on both.",
   ],
   createdAt: "2026-10-19T19:28:43.842Z",
-  updatedAt: "2026-10-28T21:12:18.018Z",
+  updatedAt: "2026-10-29T15:00:09.291Z",
 } as const satisfies Initiative
