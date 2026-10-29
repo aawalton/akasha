@@ -19,7 +19,8 @@ export const crusade = {
       externalLink: "https://trakt.tv/shows/crusade",
       lastSyncedAt: "2025-12-20",
     },
+    { source: "tmdb", externalId: "2120", externalLink: "https://www.themoviedb.org/tv/2120" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:27:16.829Z",
 } as const satisfies Show
