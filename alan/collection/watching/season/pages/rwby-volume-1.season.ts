@@ -7,8 +7,8 @@ export const rwbyVolume1 = {
   title: "RWBY Volume 1",
   partOfCollections: ["show/rwby-2"],
   position: 1,
-  ownLength: 126,
-  ownProgress: 126,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "A",
@@ -21,5 +21,6 @@ export const rwbyVolume1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:35:49.223Z",
+  progressedAt: "2026-10-29T16:35:49.223Z",
 } as const satisfies Season

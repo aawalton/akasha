@@ -1,0 +1,28 @@
+import type { Episode } from "akasha/alan/collection/watching/episode/episode.page-type.types.ts"
+
+export const rwby2S01e05 = {
+  id: "01a18884-8767-7c1d-9a24-6be7c300e224",
+  type: "page-type/episode",
+  slug: "rwby-2-s01e05",
+  description: "The pairing of Ruby and Weiss gets off to a rocky start.",
+  ownLength: 5,
+  ownProgress: 5,
+  partOfCollections: ["season/rwby-volume-1"],
+  position: 5,
+  publishedAt: "2013-08-15",
+  status: "completed",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "918555",
+      externalLink: "https://www.themoviedb.org/tv/50137/season/1/episode/5",
+    },
+  ],
+  title: "The First Step (2)",
+  episodeType: "standard",
+  stillPath: "/61AAkGUx5mmz8CSw6WkrVOlq8Fc.jpg",
+  voteAverage: 7,
+  createdAt: "2026-10-29T16:35:49.223Z",
+  updatedAt: "2026-10-29T16:35:49.223Z",
+} as const satisfies Episode
