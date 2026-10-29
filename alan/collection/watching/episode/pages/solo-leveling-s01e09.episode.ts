@@ -7,11 +7,11 @@ export const soloLevelingS01e09 = {
   description:
     "At the D-Rank raid, Jinwoo is reunited with four of the Cartenon Temple survivors. Together, they explore the dungeon with Kang Taeshik and his men. After splitting up, they hear a scream, and then...",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 9,
   publishedAt: "2024-03-10",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e09 = {
   stillPath: "/AjfYXy3e5THdxO2a1UVAoQgbrWf.jpg",
   voteAverage: 8.1,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:38.867Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:38.867Z",
 } as const satisfies Episode
