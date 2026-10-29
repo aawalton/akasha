@@ -4,7 +4,7 @@ export const lynLapidCasualCrime = {
   id: "01a187eb-ab0e-7949-b534-ca11ec79a8e1",
   type: "page-type/release",
   slug: "lyn-lapid-casual-crime",
-  ownLength: 2.589,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
@@ -21,5 +21,5 @@ export const lynLapidCasualCrime = {
   ],
   title: "Casual Crime",
   createdAt: "2026-10-29T13:48:51.341Z",
-  updatedAt: "2026-10-29T13:48:51.341Z",
+  updatedAt: "2026-10-29T14:01:02.749Z",
 } as const satisfies Release
