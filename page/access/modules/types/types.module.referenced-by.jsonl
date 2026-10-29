@@ -17,6 +17,8 @@
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/ui-store/query/modules/options/options.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/ui/component/modules/use-descendant-pages/use-descendant-pages.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"types.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"types.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"types.module.code.ts","path":"page/ui/supabase/modules/use-pages/use-pages.module.code.ts","typed":true,"deferred":false}

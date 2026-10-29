@@ -34,8 +34,7 @@ import { useMemo } from "react"
 interface GroupByArgs {
   pageTypeSlug: string
   groupPropertyId: string
-  sortPropertyId?: string
-  sortDirection?: "asc" | "desc"
+  sorts?: PageOrder
   filters?: readonly ViewFilter[]
   pageSize?: number
   properties?: readonly PropertyDefinition[]
@@ -57,17 +56,14 @@ interface GroupByResult {
   totalCount: number | null
 }
 
+export function orderFrom(sorts: PageOrder | undefined): PageOrder | undefined {
+  if (sorts == null || sorts.length === 0) return undefined
+  return sorts.map((one) => ({ by: one.by, dir: one.dir === "desc" ? "desc" : "asc" }))
+}
+
 export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
-  const {
-    pageTypeSlug,
-    groupPropertyId,
-    sortPropertyId,
-    sortDirection,
-    filters,
-    pageSize,
-    properties,
-    groupGranularity,
-  } = args
+  const { pageTypeSlug, groupPropertyId, sorts, filters, pageSize, properties, groupGranularity } =
+    args
 
   const where = useMemo<PageWhere | undefined>(() => {
     if (filters == null || filters.length === 0) return undefined
@@ -80,11 +76,7 @@ export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
     return out.length > 0 ? out : undefined
   }, [filters, properties])
 
-  const order = useMemo<PageOrder | undefined>(() => {
-    if (sortPropertyId == null) return undefined
-    const dir = sortDirection === "asc" || sortDirection === "desc" ? sortDirection : "asc"
-    return [{ by: sortPropertyId, dir }]
-  }, [sortPropertyId, sortDirection])
+  const order = useMemo<PageOrder | undefined>(() => orderFrom(sorts), [sorts])
 
   const options = useMemo<UsePagesSupabaseOptions>(
     () => ({ pageTypeSlug, where, order, limit: pageSize }),

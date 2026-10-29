@@ -4,6 +4,7 @@ import {
   NEVER_MATCH_SLUG,
   NEVER_MATCH_VALUE,
 } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
+import type { PageOrder } from "akasha/page/access/modules/types/types.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import type {
@@ -154,13 +155,14 @@ export function useViewTabContentData({
   const groupByRaw = viewConfig?.group_by
   const groupByPropertyId = groupByRaw != null && groupByRaw.length > 0 ? groupByRaw : undefined
 
-  const primarySort = viewConfig?.sorts?.[0]
-  const sortPropertyId = primarySort ? String(primarySort.field ?? "") : undefined
-  const sortDirection: "asc" | "desc" | undefined = primarySort
-    ? String(primarySort.direction ?? "desc") === "asc"
-      ? "asc"
-      : "desc"
-    : undefined
+  const sorts = useMemo<PageOrder>(
+    () =>
+      (viewConfig?.sorts ?? []).map((one) => ({
+        by: String(one.field ?? ""),
+        dir: String(one.direction ?? "desc") === "asc" ? "asc" : "desc",
+      })),
+    [viewConfig?.sorts]
+  )
   const rowProperties = useMemo<readonly PropertyDefinition[]>(() => {
     if (effectivePageType == null) return []
     return parsePageTypeData(effectivePageType.properties).propertyDefinitions
@@ -237,9 +239,7 @@ export function useViewTabContentData({
         ? rowPageTypeSlug
         : NEVER_MATCH_SLUG,
     groupPropertyId: groupByPropertyId ?? "",
-    sortPropertyId:
-      sortPropertyId != null && sortPropertyId.length > 0 ? sortPropertyId : undefined,
-    sortDirection,
+    sorts,
     filters: viewFilters,
     properties: rowProperties,
     groupGranularity: viewConfig?.group_granularity,

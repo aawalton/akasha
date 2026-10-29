@@ -4,7 +4,10 @@ import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page
 import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { GROUP_NONE_KEY } from "akasha/page/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { bucketRowsByGroup } from "akasha/page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"
+import {
+  bucketRowsByGroup,
+  orderFrom,
+} from "akasha/page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 const TARGET = "flower"
@@ -56,4 +59,19 @@ test("a row whose records name two pages sits in the group of each", () => {
 test("a row whose records name no page sits under no value", () => {
   const groups = bucketed([garden("bare", [])])
   expect([...groups.keys()]).toEqual([GROUP_NONE_KEY])
+})
+
+test("every sort a view states orders its groups, not only the first", () => {
+  const order = orderFrom([
+    { by: "completionPercent", dir: "desc" },
+    { by: "totalLength", dir: "asc" },
+    { by: "title", dir: "asc" },
+  ])
+  expect(order).toEqual([
+    { by: "completionPercent", dir: "desc" },
+    { by: "totalLength", dir: "asc" },
+    { by: "title", dir: "asc" },
+  ])
+  expect(orderFrom([])).toBe(undefined)
+  expect(orderFrom(undefined)).toBe(undefined)
 })

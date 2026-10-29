@@ -4,6 +4,7 @@ import {
   NEVER_MATCH_SLUG,
   NEVER_MATCH_VALUE,
 } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
+import type { PageOrder } from "akasha/page/access/modules/types/types.module.code.ts"
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import type { ListingConfig } from "akasha/page/core/schema/modules/listing-config/listing-config.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
@@ -115,11 +116,14 @@ export function usePagesFilteredQuery(args: {
   const groupByRaw = spanDescendants ? undefined : effectiveConfig?.group_by
   const groupByPropertyId = groupByRaw != null && groupByRaw.length > 0 ? groupByRaw : undefined
 
-  const primarySort = effectiveConfig?.sorts?.[0]
-  const sortPropertyId = primarySort ? String(primarySort.field ?? "") : undefined
-  const rawDirection = primarySort ? String(primarySort.direction ?? "desc") : undefined
-  const sortDirection: "asc" | "desc" | undefined =
-    rawDirection === "asc" || rawDirection === "desc" ? rawDirection : undefined
+  const sorts = useMemo<PageOrder>(
+    () =>
+      (effectiveConfig?.sorts ?? []).map((one) => ({
+        by: String(one.field ?? ""),
+        dir: String(one.direction ?? "asc") === "desc" ? "desc" : "asc",
+      })),
+    [effectiveConfig?.sorts]
+  )
   const read = useReadViewConfig(effectiveConfig, properties, pageTypes)
   const readConfig = read.viewConfig
   const viewFilters = useMemo(() => {
@@ -148,9 +152,7 @@ export function usePagesFilteredQuery(args: {
     pageTypeSlug:
       readConfig === undefined ? NEVER_MATCH_SLUG : groupedSlugOf(groupByPropertyId, pageTypeSlug),
     groupPropertyId: groupByPropertyId ?? "",
-    sortPropertyId:
-      sortPropertyId != null && sortPropertyId.length > 0 ? sortPropertyId : undefined,
-    sortDirection,
+    sorts,
     filters: viewFilters,
     properties,
     groupGranularity: syntheticConfig?.group_granularity,
