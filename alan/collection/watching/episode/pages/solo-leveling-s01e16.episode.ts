@@ -7,11 +7,11 @@ export const soloLevelingS01e16 = {
   description:
     "Jinwoo realizes that he'll need to become even stronger in order to clear the Demon's Castle and decides to have his hunter rank reassessed.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 16,
   publishedAt: "2025-01-26",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e16 = {
   stillPath: "/jW1QhZUIPZ420pEldWHwrpdyRdt.jpg",
   voteAverage: 7.8,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:59.569Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:59.569Z",
 } as const satisfies Episode
