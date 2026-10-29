@@ -72,11 +72,13 @@ export async function runImportKeybindings(
   let written = 0
   const tryOnce = async (): Promise<Tried> => {
     const held = await heldPagesOf(collect)
-    const landed = landedKeybindings(capture, held.keybindings, new Date(now()).toISOString())
-    const puts = landed.map((one) => ({
-      path: keybindingPagePath(one.key),
-      content: keybindingPageText(one, held.kept.get(one.key) ?? { id: mint() }),
-    }))
+    const at = new Date(now()).toISOString()
+    const landed = landedKeybindings(capture, held.keybindings, at)
+    const puts = landed.map((one) => {
+      const was = held.kept.get(one.key)
+      const pageHeld = { ...was, id: was?.id ?? mint(), updatedAt: at }
+      return { path: keybindingPagePath(one.key), content: keybindingPageText(one, pageHeld) }
+    })
     written = puts.length
     if (puts.length === 0) return { outcome: "already", at: "" }
     const found = await read(puts.map((one) => one.path))

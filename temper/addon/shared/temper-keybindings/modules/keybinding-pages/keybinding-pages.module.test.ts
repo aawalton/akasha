@@ -58,6 +58,12 @@ test("a page written for a keybinding reads back as that keybinding", () => {
   expect(keybindingOf(page)).toEqual(PORT_HOME)
 })
 
+test("a page written states an instant for itself, so the page type takes it", () => {
+  const text = keybindingPageText(PORT_HOME, { updatedAt: "2026-10-28T22:30:00.000Z" })
+  expect(text).toContain('updatedAt: "2026-10-28T22:30:00.000Z"')
+  expect(keybindingPageText(PORT_HOME)).toContain(`updatedAt: "${PORT_HOME.changedAt}"`)
+})
+
 test("the config states each action's four slots and when it changed in seconds", () => {
   expect(keybindingsConfigOf([PORT_HOME])).toEqual({
     PORTTOFRIENDSHOUSE_FAV_MYHOUSE_INSIDE_1: {

@@ -54,6 +54,7 @@ export interface KeybindingConfigEntry {
 export interface Held {
   readonly id?: string
   readonly createdAt?: string
+  readonly updatedAt?: string
 }
 
 export function keybindingPagePath(action: string): string {
@@ -137,7 +138,9 @@ export function keybindingOf(page: unknown): Keybinding {
 }
 
 export function heldOf(page: unknown): Held {
-  const read = z.object({ id: z.string(), createdAt: absent(z.string()) }).safeParse(page)
+  const read = z
+    .object({ id: z.string(), createdAt: absent(z.string()), updatedAt: absent(z.string()) })
+    .safeParse(page)
   return read.success ? read.data : {}
 }
 
@@ -168,6 +171,7 @@ export function keybindingPageText(one: Keybinding, held: Held = {}): string {
     slug,
     ...ordered(one),
     createdAt: held.createdAt,
+    updatedAt: held.updatedAt ?? one.changedAt,
   }
   const lines = Object.entries(fields)
     .filter(([, value]) => value !== undefined)
