@@ -19,7 +19,8 @@ export const wednesday = {
       externalLink: "https://trakt.tv/shows/wednesday",
       lastSyncedAt: "2026-01-02",
     },
+    { source: "tmdb", externalId: "119051", externalLink: "https://www.themoviedb.org/tv/119051" },
   ],
   createdAt: "2026-09-03T16:03:14.355Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:48:56.509Z",
 } as const satisfies Show
