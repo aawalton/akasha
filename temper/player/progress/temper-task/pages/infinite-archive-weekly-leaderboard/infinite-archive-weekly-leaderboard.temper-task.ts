@@ -14,8 +14,9 @@ export const infiniteArchiveWeeklyLeaderboard = {
   accountPage: "temper-account/alanarre",
   scope: "character",
   priority: "p2",
+  leaderboardActivity: ["endless-dungeon"],
   effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-10-25T23:54:52.095Z",
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-25T23:54:52.818Z",
+  updatedAt: "2026-10-29T19:50:24.636Z",
 } as const satisfies TemperTask

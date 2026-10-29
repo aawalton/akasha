@@ -14,8 +14,9 @@ export const vateshranHollowsWeeklyLeaderboard = {
   accountPage: "temper-account/alanarre",
   scope: "character",
   priority: "p3",
+  leaderboardActivity: ["raid"],
   effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-10-24T16:08:34.844Z",
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-24T16:08:35.297Z",
+  updatedAt: "2026-10-29T19:50:24.636Z",
 } as const satisfies TemperTask

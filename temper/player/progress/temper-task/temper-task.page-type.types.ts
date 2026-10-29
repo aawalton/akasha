@@ -5,6 +5,7 @@ import type { DueTime } from "akasha/temper/player/progress/temper-task/properti
 import type { EffectiveCharacter } from "akasha/temper/player/progress/temper-task/properties/effective-character.relation-property.types.ts"
 import type { Filler } from "akasha/temper/player/progress/temper-task/properties/filler.boolean-property.types.ts"
 import type { LastCompletedAt } from "akasha/temper/player/progress/temper-task/properties/last-completed-at.instant-property.types.ts"
+import type { LeaderboardActivity } from "akasha/temper/player/progress/temper-task/properties/leaderboard-activity.text-property.types.ts"
 import type { PendingSync } from "akasha/temper/player/progress/temper-task/properties/pending-sync.boolean-property.types.ts"
 import type { Progress } from "akasha/temper/player/progress/temper-task/properties/progress.temper-task-progress.types.ts"
 import type { ProgressCurrent } from "akasha/temper/player/progress/temper-task/properties/progress-current.number-property.types.ts"
@@ -27,4 +28,5 @@ export type TemperTask = TemperProgressThing & {
   characterSortOrder?: CharacterSortOrder
   pendingSync?: PendingSync
   filler?: Filler
+  leaderboardActivity?: LeaderboardActivity
 }
