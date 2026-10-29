@@ -7,7 +7,7 @@ export const starWarsRebelsSeason3 = {
   title: "Star Wars Rebels Season 3",
   partOfCollections: ["show/star-wars-rebels"],
   position: 3,
-  ownLength: 523.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const starWarsRebelsSeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.965Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:42:40.123Z",
 } as const satisfies Season
