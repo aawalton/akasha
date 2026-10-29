@@ -7,8 +7,8 @@ export const accelWorldSeason1 = {
   title: "Accel World Season 1",
   partOfCollections: ["show/accel-world-2"],
   position: 1,
-  ownLength: 576,
-  ownProgress: 576,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "B",
@@ -21,5 +21,6 @@ export const accelWorldSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.959Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:28:08.558Z",
+  progressedAt: "2026-10-29T16:28:08.558Z",
 } as const satisfies Season
