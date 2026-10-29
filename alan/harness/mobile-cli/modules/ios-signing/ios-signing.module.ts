@@ -46,6 +46,15 @@ export const iosSigning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A key refused profile management signs from a profile already on the mac.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That profile names the bundle, carries the local signing certificate and has not expired.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A create App Store Connect answers with a 5xx is asked again three times.",
     },
     {
@@ -80,5 +89,5 @@ export const iosSigning = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-10-16T14:08:44.026Z",
+  updatedAt: "2026-10-29T16:30:14.366Z",
 } as const satisfies Module

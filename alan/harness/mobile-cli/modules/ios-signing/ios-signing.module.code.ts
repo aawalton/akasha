@@ -81,7 +81,7 @@ export function buildLoginOnlyKeychainScope(): string {
   ].join("\n")
 }
 
-const ASC_ENSURE_RUBY = String.raw`require "openssl"; require "base64"; require "json"; require "net/http"; require "uri"; require "time"; require "fileutils"
+const ASC_ENSURE_RUBY = String.raw`require "openssl"; require "base64"; require "json"; require "net/http"; require "uri"; require "time"; require "fileutils"; require "open3"; require "tmpdir"
 KEY_ID = ENV["ASC_KEY_ID"]; ISSUER = ENV["ASC_ISSUER_ID"]; BUNDLE = ENV["ASC_BUNDLE_ID"]
 PROFILE_NAME = ENV["ASC_PROFILE_NAME"].to_s
 if PROFILE_NAME.empty?
@@ -92,7 +92,8 @@ OUT = ARGV[1] or abort("no uuid out file")
 KEY_PATH = File.expand_path("~/.appstoreconnect/private_keys/AuthKey_#{KEY_ID}.p8")
 def fail_kc(m); puts "SIGNING_KEYCHAIN_ERROR: #{m}"; exit 1; end
 def fail_asc(m); puts "ASC_PROFILE_ERROR: #{m}"; exit 1; end
-def deny!(d); puts "ASC_PERMISSION_DENIED: #{d}"; exit 1; end
+class AscDenied < StandardError; end
+def deny!(d); raise AscDenied, d; end
 fail_kc("ASC key .p8 missing on the mac") unless File.exist?(KEY_PATH)
 def b64u(s); Base64.urlsafe_encode64(s).delete("="); end
 ec = OpenSSL::PKey::EC.new(File.read(KEY_PATH)); now = Time.now.to_i
@@ -130,6 +131,63 @@ def list(what, path)
   end
   data
 end
+def plist_attr(plist, key)
+  out, st = Open3.capture2("plutil", "-extract", key, "raw", "-o", "-", plist)
+  st.success? ? out.strip : nil
+end
+def installed_profile_uuid(bundle, cert_sha1)
+  dir = File.expand_path("~/Library/MobileDevice/Provisioning Profiles")
+  return nil unless File.directory?(dir)
+  scratch = File.join(Dir.tmpdir, "akasha-installed-profile-#{Process.pid}.plist")
+  files = Dir.glob(File.join(dir, "*.mobileprovision")).sort_by { |f| -File.mtime(f).to_i }
+  files.each do |f|
+    begin
+      next unless File.binread(f).include?(bundle)
+    rescue StandardError
+      next
+    end
+    xml, ok = Open3.capture2("security", "cms", "-D", "-i", f)
+    next unless ok.success? && !xml.empty?
+    File.write(scratch, xml)
+    begin
+      appid = plist_attr(scratch, "Entitlements.application-identifier")
+      next unless appid && appid.end_with?(".#{bundle}")
+      exp = plist_attr(scratch, "ExpirationDate")
+      expired = begin
+        exp.nil? || Time.parse(exp) <= Time.now
+      rescue StandardError
+        true
+      end
+      next if expired
+      gta = plist_attr(scratch, "Entitlements.get-task-allow")
+      next unless gta.nil? || gta == "false"
+      matched = false
+      (0..9).each do |i|
+        raw, ok_cert = Open3.capture2("plutil", "-extract", "DeveloperCertificates.#{i}", "raw", "-o", "-", scratch)
+        break unless ok_cert.success?
+        begin
+          der = Base64.decode64(raw)
+          sha = OpenSSL::Digest::SHA1.new(OpenSSL::X509::Certificate.new(der).to_der).hexdigest.downcase
+        rescue StandardError
+          next
+        end
+        if sha == cert_sha1
+          matched = true
+          break
+        end
+      end
+      return File.basename(f, ".mobileprovision") if matched
+    ensure
+      begin
+        File.delete(scratch)
+      rescue StandardError
+        nil
+      end
+    end
+  end
+  nil
+end
+begin
 certs = list("certificates", "/v1/certificates?limit=200")
 cert = certs.find do |c|
   next false unless (c.dig("attributes","certificateType") || "").include?("DISTRIBUTION")
@@ -203,6 +261,16 @@ dir = File.expand_path("~/Library/MobileDevice/Provisioning Profiles"); FileUtil
 File.binwrite("#{dir}/#{uuid}.mobileprovision", Base64.decode64(content))
 File.write(OUT, uuid)
 puts "PROFILE_ENSURED uuid=#{uuid} cert=#{cert_id}"
+rescue AscDenied => e
+  uuid = installed_profile_uuid(BUNDLE, CERT_SHA1)
+  if uuid
+    File.write(OUT, uuid)
+    puts "! App Store Connect would not let key #{KEY_ID} manage profiles (#{e.message}), so the profile already installed on the mac signs this build: uuid=#{uuid}"
+  else
+    puts "ASC_PERMISSION_DENIED: #{e.message}"
+    exit 1
+  end
+end
 `
 
 function ensureProfileForBundle(opts: {
