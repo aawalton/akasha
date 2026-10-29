@@ -7,7 +7,7 @@ export const houseOfTheDragonSeason1 = {
   title: "House of the Dragon Season 1",
   partOfCollections: ["show/house-of-the-dragon"],
   position: 1,
-  ownLength: 619.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const houseOfTheDragonSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:31:31.254Z",
 } as const satisfies Season
