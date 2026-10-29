@@ -6,3 +6,5 @@ note: Tier: 3; Mental: +1
 :::
 
 Before you take up n+1, you go back through what you have built: every pair under n+2, its loop, its length, recited once in order. Then you step down.
+
+Take a pair, follow it round until it closes, name the loop, hold the length, then take the next pair. Then the next modulus, and the same again.
