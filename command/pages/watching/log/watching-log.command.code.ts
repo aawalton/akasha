@@ -24,6 +24,7 @@ import {
   heldUnder,
   plannedFor,
   shelvedFor,
+  shelvedHeld,
   tmdbIdentityOf,
   tmdbIdOf,
 } from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
@@ -234,10 +235,13 @@ async function titleLogged(
     const kept = keptValues(held, linked, status, day, partOf)
     const stated = (kept.externalIdentity ?? held.identities) as readonly Row[]
     const streamed = await streamedFor(held.kind, stated, held.services, today, calls)
+    const shelved =
+      held.kind === show.slug ? await shelvedHeld(held, status, calls) : { pages: [], report: [] }
+    if (typeof shelved === "string") return refusedBy([shelved], OPERATIONAL)
     const values = { ...kept, ...streamed.values }
     const { clears } = streamed
     const named = `${held.kind}/${held.slug}`
-    if (Object.keys(values).length + clears.length === 0) {
+    if (Object.keys(values).length + clears.length + shelved.pages.length === 0) {
       return told([`${named}  ${held.status ?? ""}  unchanged`])
     }
     const wrote = await calls.write({
@@ -246,12 +250,13 @@ async function titleLogged(
       ...readOf(at),
       pages: [
         ...streamed.pages,
+        ...shelved.pages,
         { pageTypeSlug: held.kind, slug: held.slug, merge: true, values, clears },
       ],
     })
     if ("refused" in wrote) return refusedBy([wrote.refused], OPERATIONAL)
     const now = typeof values.status === "string" ? values.status : (held.status ?? "")
-    return told([`${named}  ${now}  updated`])
+    return told([`${named}  ${now}  updated`, ...shelved.report])
   }
   if (known === null) return refusedBy([unknownSaid(linked)], DATA)
   const plain = slugOf(known.title)

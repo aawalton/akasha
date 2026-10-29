@@ -5,12 +5,14 @@ import {
   plannedFor,
   seasonsNeedGroups,
   shelvedFor,
+  shelvedHeld,
   titledWithin,
 } from "akasha/command/pages/watching/log/modules/episode-watching/episode-watching.module.code.ts"
 import {
   type AiredEpisode,
   type AiredSeason,
   airedSeasonIn,
+  type Calls,
   episodeTypeOf,
   seasonNumbersIn,
 } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
@@ -285,4 +287,84 @@ test("a season page naming a Trakt season is given that season's episodes and no
   ])
   expect(shelved.pages.find((one) => one.slug === season2.slug)?.values).toEqual({ ownLength: 0 })
   expect(shelved.pages.find((one) => one.slug === season1.slug)).toBeUndefined()
+})
+
+test("a held show is shelved from TMDB's season grouping and a completed season gets no episode", async () => {
+  const before = process.env.TMDB_READ_ACCESS_TOKEN
+  process.env.TMDB_READ_ACCESS_TOKEN = "t"
+  try {
+    const shown: HeldShow = {
+      slug: "my-dress-up-darling",
+      title: "My Dress-Up Darling",
+      status: "following",
+      identities: [{ source: "tmdb", externalId: "209867" }],
+    }
+    const seasons = [
+      {
+        slug: "my-dress-up-darling-season-1",
+        position: 1,
+        status: "completed",
+        ownLength: 720,
+        externalIdentity: [{ source: "trakt", externalId: "1" }],
+      },
+      {
+        slug: "my-dress-up-darling-season-2",
+        position: 2,
+        status: "not-started",
+        ownLength: 25,
+        externalIdentity: [{ source: "trakt", externalId: "2" }],
+      },
+    ]
+    const answers = new Map<string, unknown>([
+      ["https://api.themoviedb.org/3/tv/209867", { seasons: [{ season_number: 1 }] }],
+      ["https://api.themoviedb.org/3/tv/209867/season/1", { season_number: 1, episodes: [] }],
+      [
+        "https://api.themoviedb.org/3/tv/209867/episode_groups",
+        { results: [{ id: "g", type: 6 }] },
+      ],
+      [
+        "https://api.themoviedb.org/3/tv/episode_group/g",
+        {
+          groups: [
+            {
+              id: 1,
+              order: 1,
+              name: "Season 1",
+              episodes: [{ id: 11, episode_number: 1, season_number: 1, name: "One", runtime: 24 }],
+            },
+            {
+              id: 2,
+              order: 2,
+              name: "Season 2",
+              episodes: [
+                { id: 12, episode_number: 29, season_number: 1, name: "Two", runtime: 23 },
+              ],
+            },
+          ],
+        },
+      ],
+    ])
+    const calls: Calls = {
+      ask: (query) =>
+        Promise.resolve({
+          rows: query.pageTypeSlug === "season" ? seasons : [],
+          n: 0,
+          at: "abc",
+        }),
+      write: () => Promise.resolve({ commit: "def", wrote: [], took: [] }),
+      fetch: (url) => Promise.resolve(Response.json(answers.get(url) ?? {})),
+    }
+    const shelved = await shelvedHeld(shown, "following", calls)
+    if (typeof shelved === "string") throw new Error(shelved)
+    expect(
+      shelved.pages.filter((one) => one.pageTypeSlug === "episode").map((one) => one.slug)
+    ).toEqual(["my-dress-up-darling-s02e01"])
+    expect(
+      shelved.pages.find((one) => one.slug === "my-dress-up-darling-season-2")?.values
+    ).toEqual({ ownLength: 0 })
+    expect(shelved.pages.find((one) => one.slug === "my-dress-up-darling-season-1")).toBeUndefined()
+  } finally {
+    if (before === undefined) delete process.env.TMDB_READ_ACCESS_TOKEN
+    else process.env.TMDB_READ_ACCESS_TOKEN = before
+  }
 })

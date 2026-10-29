@@ -5,10 +5,13 @@ import { season } from "akasha/alan/collection/watching/season/season.page-type.
 import { show } from "akasha/alan/collection/watching/show/show.page-type.ts"
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
-import type {
-  AiredEpisode,
-  AiredSeason,
-  Calls,
+import {
+  type AiredEpisode,
+  type AiredSeason,
+  airedFor,
+  type Calls,
+  groupedAiredFor,
+  tokenSaid,
 } from "akasha/command/pages/watching/modules/tmdb-reading/tmdb-reading.module.code.ts"
 import { title as titleProperty } from "akasha/page/properties/title.text-property.ts"
 import type {
@@ -160,6 +163,37 @@ export function seasonsNeedGroups(
   return seasons.some(
     (one) => one.traktSeason !== null && one.traktSeason > 0 && !held.has(one.traktSeason)
   )
+}
+
+export async function airedUnder(
+  calls: Calls,
+  token: string,
+  tv: string,
+  seasons: readonly { readonly traktSeason: number | null }[]
+): Promise<readonly AiredSeason[] | string> {
+  const aired = await airedFor(calls, token, tv)
+  if (aired === null) return `TMDB answered nothing for its show ${tv}`
+  if (!seasonsNeedGroups(seasons, aired)) return aired
+  const grouped = await groupedAiredFor(calls, token, tv)
+  return grouped ?? `TMDB states no season grouping for its show ${tv}`
+}
+
+export async function shelvedHeld(
+  shown: HeldShow,
+  status: string,
+  calls: Calls
+): Promise<Planned | string> {
+  const nothing: Planned = { pages: [], report: [] }
+  if (status === COMPLETED) return nothing
+  const tv = tmdbIdOf(shown)
+  if (tv === null) return nothing
+  const token = tokenSaid()
+  if (token === null) return nothing
+  const under = await heldUnder(calls, shown)
+  if (typeof under === "string") return under
+  const aired = await airedUnder(calls, token, tv, under.seasons)
+  if (typeof aired === "string") return aired
+  return shelvedFor(shown, tv, aired, under.seasons, under.episodes)
 }
 
 function seasonSlugOf(shown: HeldShow, number: number): string {

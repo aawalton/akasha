@@ -71,7 +71,7 @@ export const watchingLog = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A show no page holds is shelved as it is written, unless it is logged completed.",
+      statement: "A show is shelved as it is written, unless it is logged completed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -96,5 +96,5 @@ export const watchingLog = {
     { argument: "argument/part-of", notWith: ["argument/episode"] },
   ],
   createdAt: "2026-10-14T19:15:57.587Z",
-  updatedAt: "2026-10-28T19:42:45.279Z",
+  updatedAt: "2026-10-29T15:13:49.364Z",
 } as const satisfies Command
