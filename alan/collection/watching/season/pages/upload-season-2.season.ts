@@ -7,7 +7,7 @@ export const uploadSeason2 = {
   title: "Upload Season 2",
   partOfCollections: ["show/upload"],
   position: 2,
-  ownLength: 229.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const uploadSeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.968Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:48:43.031Z",
 } as const satisfies Season
