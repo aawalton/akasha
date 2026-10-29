@@ -7,11 +7,11 @@ export const soloLevelingS01e24 = {
   description:
     "Jinwoo arrives at Jeju Island to save the S-Rank hunters, but to do that he'll have to face the Ant King.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 24,
   publishedAt: "2025-03-23",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e24 = {
   stillPath: "/ifo6WIOkMjahicQ7yfDL0F26nJI.jpg",
   voteAverage: 9.5,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:34:25.919Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:34:25.919Z",
 } as const satisfies Episode
