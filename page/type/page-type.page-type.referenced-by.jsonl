@@ -708,6 +708,8 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/temper-target-scope.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-target-type/temper-target-type.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-verse/temper-verse.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/effect/temper-vision/temper-vision.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-armor-enchant/temper-armor-enchant.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts","typed":true,"deferred":false}

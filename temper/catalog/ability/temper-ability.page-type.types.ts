@@ -1,3 +1,4 @@
+import type { Decisions } from "akasha/domain/properties/decisions.record-property.types.ts"
 import type { AbilityEquations } from "akasha/temper/catalog/ability/properties/ability-equations.text-property.types.ts"
 import type { EsoAbilityId } from "akasha/temper/catalog/ability/properties/eso-ability-id.number-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
@@ -5,4 +6,5 @@ import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-cata
 export type TemperAbility = TemperCatalogThing & {
   equations?: AbilityEquations
   esoAbilityId?: EsoAbilityId
+  decisions?: Decisions
 }

@@ -2,8 +2,9 @@
 {"propertySlug":"import","fileName":"decisions.record-property.ts","path":"domain/plain-language/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"decisions.record-property.types.ts","path":"domain/domain.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"decisions.record-property.types.ts","path":"story/chapter/step-status/step-status.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"decisions.record-property.types.ts","path":"temper/catalog/skill/temper-skill.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"decisions.record-property.types.ts","path":"temper/catalog/ability/temper-ability.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
 {"propertySlug":"page-property","path":"story/chapter/step-status/step-status.page-type.ts","id":"01a0deac-97e0-7cd7-8396-354e0fe020ad"}
-{"propertySlug":"page-property","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
+{"propertySlug":"page-property","path":"temper/catalog/ability/temper-ability.page-type.ts","id":"01a18461-4b11-77c9-b48d-c624be4dbafa"}
 {"propertySlug":"parts","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
+{"propertySlug":"parts","path":"temper/catalog/ability/temper-ability.page-type.ts","id":"01a18461-4b11-77c9-b48d-c624be4dbafa"}

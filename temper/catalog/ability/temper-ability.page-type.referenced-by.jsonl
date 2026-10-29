@@ -1,7 +1,11 @@
 {"propertySlug":"extends-type","path":"temper/catalog/effect/temper-status-effect/temper-status-effect.page-type.ts","id":"01a18465-a6e6-71b0-97d4-b9c95aa432ef"}
+{"propertySlug":"extends-type","path":"temper/catalog/effect/temper-verse/temper-verse.page-type.ts","id":"01a188b6-21c0-72b4-a8d9-c326568f78f5"}
+{"propertySlug":"extends-type","path":"temper/catalog/effect/temper-vision/temper-vision.page-type.ts","id":"01a188b6-21c0-7075-873e-5cd3b9923575"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-item-effect/temper-item-effect.page-type.ts","id":"01a1846d-f5bd-76b9-b1fa-234991eec2b4"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
 {"propertySlug":"import","fileName":"temper-ability.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect/temper-status-effect.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-ability.page-type.types.ts","path":"temper/catalog/effect/temper-verse/temper-verse.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-ability.page-type.types.ts","path":"temper/catalog/effect/temper-vision/temper-vision.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-ability.page-type.types.ts","path":"temper/catalog/gear/temper-item-effect/temper-item-effect.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-ability.page-type.types.ts","path":"temper/catalog/skill/temper-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/temper-catalog.domain.ts","id":"01a05fac-7580-7d88-a660-0f4eff1ab95e"}

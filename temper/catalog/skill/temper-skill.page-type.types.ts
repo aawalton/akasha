@@ -1,4 +1,3 @@
-import type { Decisions } from "akasha/domain/properties/decisions.record-property.types.ts"
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
 import type { EsoAbilityId } from "akasha/temper/catalog/ability/properties/eso-ability-id.number-property.types.ts"
 import type { TemperAbility } from "akasha/temper/catalog/ability/temper-ability.page-type.types.ts"
@@ -30,5 +29,4 @@ export type TemperSkill = TemperAbility & {
   skillLineId: SkillLine
   hashPlace: HashPlace
   variants?: SkillVariants
-  decisions?: Decisions
 }
