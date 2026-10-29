@@ -20,5 +20,7 @@ export const thePrimalHunter0210Chapter1413AnOddMonk = {
     },
   ],
   createdAt: "2026-10-28T17:21:17.106Z",
-  updatedAt: "2026-10-28T17:21:17.106Z",
+  updatedAt: "2026-10-29T00:21:00.603Z",
+  ownProgress: 2584,
+  progressedAt: "2026-10-29T00:21:00.603Z",
 } as const satisfies StoryChapterRead
