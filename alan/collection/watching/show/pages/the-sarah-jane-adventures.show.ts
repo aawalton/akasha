@@ -18,7 +18,8 @@ export const theSarahJaneAdventures = {
       externalLink: "https://trakt.tv/shows/the-sarah-jane-adventures",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "203", externalLink: "https://www.themoviedb.org/tv/203" },
   ],
   createdAt: "2026-09-03T16:03:14.355Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:47:18.491Z",
 } as const satisfies Show

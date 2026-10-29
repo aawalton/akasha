@@ -7,7 +7,7 @@ export const theSarahJaneAdventuresSeason4 = {
   title: "The Sarah Jane Adventures Season 4",
   partOfCollections: ["show/the-sarah-jane-adventures"],
   position: 4,
-  ownLength: 360,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const theSarahJaneAdventuresSeason4 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.967Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:47:18.491Z",
 } as const satisfies Season
