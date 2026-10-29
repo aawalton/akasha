@@ -7,7 +7,7 @@ export const gameOfThronesSeason8 = {
   title: "Game of Thrones Season 8",
   partOfCollections: ["show/game-of-thrones"],
   position: 8,
-  ownLength: 435,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const gameOfThronesSeason8 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:30:50.161Z",
 } as const satisfies Season

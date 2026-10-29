@@ -18,7 +18,8 @@ export const gameOfThrones = {
       externalLink: "https://trakt.tv/shows/game-of-thrones",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "1399", externalLink: "https://www.themoviedb.org/tv/1399" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:30:50.161Z",
 } as const satisfies Show
