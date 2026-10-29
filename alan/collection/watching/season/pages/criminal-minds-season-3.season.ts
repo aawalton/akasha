@@ -7,7 +7,7 @@ export const criminalMindsSeason3 = {
   title: "Criminal Minds Season 3",
   partOfCollections: ["show/criminal-minds"],
   position: 3,
-  ownLength: 827,
+  ownLength: 0,
   ownProgress: 41.35,
   unit: "unit/minutes",
   status: "in-progress",
@@ -21,5 +21,5 @@ export const criminalMindsSeason3 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.960Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:26:15.527Z",
 } as const satisfies Season

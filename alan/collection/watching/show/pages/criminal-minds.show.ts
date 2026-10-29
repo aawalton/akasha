@@ -20,7 +20,8 @@ export const criminalMinds = {
       externalLink: "https://trakt.tv/shows/criminal-minds",
       lastSyncedAt: "2025-12-08",
     },
+    { source: "tmdb", externalId: "4057", externalLink: "https://www.themoviedb.org/tv/4057" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:26:15.527Z",
 } as const satisfies Show
