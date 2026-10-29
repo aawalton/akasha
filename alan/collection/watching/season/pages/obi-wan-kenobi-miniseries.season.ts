@@ -7,7 +7,7 @@ export const obiWanKenobiMiniseries = {
   title: "Obi-Wan Kenobi Miniseries",
   partOfCollections: ["show/obi-wan-kenobi"],
   position: 1,
-  ownLength: 280.2,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const obiWanKenobiMiniseries = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.963Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:34:18.520Z",
 } as const satisfies Season
