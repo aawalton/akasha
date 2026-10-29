@@ -7,7 +7,7 @@ export const theExpanseSeason1 = {
   title: "The Expanse Season 1",
   partOfCollections: ["show/the-expanse"],
   position: 1,
-  ownLength: 448.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const theExpanseSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.967Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:46:13.498Z",
 } as const satisfies Season
