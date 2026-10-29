@@ -1,7 +1,7 @@
-import { beforeAll, expect, test } from "bun:test"
+import { expect, test } from "bun:test"
 import { addStatCaseStatsCommand } from "akasha/change/agent/page/add-stat-case-stats/add-stat-case-stats.change-agent.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { loadMetricCatalog } from "akasha/temper/player/character/stat/modules/metric-catalog-loading/metric-catalog-loading.module.code.ts"
+import { holdMetricCatalogFromCheckout } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts"
 import { statCaseText } from "akasha/temper/player/character/stat/modules/stat-case/stat-case.module.code.ts"
 
 const TYPE_AT = "temper/player/character/stat/temper-stat-case/temper-stat-case.page-type.ts"
@@ -75,9 +75,7 @@ function estimateGiven(): (stat: string) => number {
   return (stat) => (stat === FLAME ? FLAME_ESTIMATE : 0)
 }
 
-beforeAll(async () => {
-  await loadMetricCatalog()
-})
+holdMetricCatalogFromCheckout()
 
 test("a stat the estimate gives is pinned and one it misses is kept as a gap", () => {
   const said = addStatCaseStatsCommand(

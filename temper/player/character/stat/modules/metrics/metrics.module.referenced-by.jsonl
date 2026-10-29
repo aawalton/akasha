@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/web/modules/stat-explanation-dialog/stat-explanation-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/web/modules/stats-panel/stats-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"change/agent/page/add-stat-case-stats/add-stat-case-stats.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"command/pages/temper/build-show/modules/build-show-fields/build-show-fields.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"command/pages/temper/build-show/modules/build-show-gap-stats/build-show-gap-stats.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"command/pages/temper/build-show/temper-build-show.command.test.ts","typed":false,"deferred":false}
