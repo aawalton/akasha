@@ -36,7 +36,11 @@ import {
   mergeUncommitted,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { taking } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
+import {
+  putting,
+  taking,
+} from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
+import { sweptBeside } from "akasha/story/engine/modules/phase-timing/phase-timing.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   bareOf,
@@ -155,7 +159,8 @@ async function heldOn(
   if ("refused" in unmade) return refused(unmade.refused, DATA)
   const folded = foldedOf(reach, given.root, unmade.namings)
   if ("refused" in folded) return refused(folded.refused, DATA)
-  const asking = [...folded, ...unmade.asking, taking(turn.at)]
+  const swept = sweptBeside(given.root, held.game, turn.slug).map((one) => putting(one))
+  const asking = [...folded, ...unmade.asking, taking(turn.at), ...swept]
   const by = { agentId: given.agentId, writer: given.writer, done }
   const landed = await landing(given.root, asking, `${slug} is ${TAKEN_BACK}`, by)
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
