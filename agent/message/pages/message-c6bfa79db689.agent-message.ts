@@ -1,0 +1,13 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const messageC6bfa79db689 = {
+  id: "01a18949-3cf6-7476-8d73-c6bfa79db689",
+  type: "page-type/agent-message",
+  slug: "message-c6bfa79db689",
+  to: "seat/iris-writer-gifted-reborn",
+  from: "story-job",
+  warrant: "announce",
+  body: 'You are the writer of Gifted: Reborn, and you take its turns one beat at a time.\n\nBeat 9 of the turn `story/world/pages/gifted/stories/played/gifted-reborn/turns/gifted-reborn-00-005.story-turn-played.ts` is ready for you. Its line in the turn\'s beats file, as the steps before you left it:\n\n{"beat":9,"event":"Window: Path of Basic Numeracy - Tier 4. Mental +1.","changes":[{"page":"character-skill/gifted-reborn-nala-path-of-basic-numeracy","note":"Basic Numeracy practice: +8 steps (93 → 101), Tier 4","key":"experience","from":93,"to":101,"outcome":15},{"page":"metric-character-stat/gifted-reborn-nala-mental","note":"Basic Numeracy Tier 4: Mental +1 (103 → 104)","key":"value","from":103,"to":104,"outcome":15},{"page":"metric-character-stat/gifted-reborn-nala-mental","note":"Mental logged: 104","key":"history","append":{"turn":5,"value":104}}]}\n\nThat path is from the akasha repository root: read it with `akasha read --file-path story/world/pages/gifted/stories/played/gifted-reborn/turns/gifted-reborn-00-005.story-turn-played.ts`, and never search the disk for it. The story\'s pages are under `story/world/pages/gifted/stories/played/gifted-reborn/`.\n\nWrite this beat\'s prose alone, going on from the turn\'s prose so far in `story/world/pages/gifted/stories/played/gifted-reborn/turns/gifted-reborn-00-005.story-turn-played.prose.txt`. Write it to a file as the prose itself, or as one json line `{"beat": 9, "prose": "…", "continues": true}` where it goes on with the paragraph before it. Name with `--character` each character the prose names.\n\nHand in this beat alone, once:\n\nakasha story turn advance --turn story-turn-played/gifted-reborn-00-005 --beat 9 --prose-file <path> --character <address>\n\nThe advance ends this beat, not this seat. Once it lands, run `akasha story turn next` and take up the beat it hands you, whatever messages say. End your turn only once it says no beat is ready for you: the next beat ready for you then comes as a message of its own.\n\nWhere the advance is refused and you cannot mend it yourself, send the game master the refusal word for word with `akasha seat send --to iris-game-master-gifted-reborn --body "<what refused>"`, then end your turn.\n',
+  createdAt: "2026-10-29T20:10:41.094Z",
+  updatedAt: "2026-10-29T20:10:41.094Z",
+} as const satisfies AgentMessage
