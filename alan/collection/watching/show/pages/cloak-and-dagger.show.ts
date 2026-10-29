@@ -18,7 +18,8 @@ export const cloakAndDagger = {
       externalLink: "https://trakt.tv/shows/marvel-s-cloak-dagger",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "66190", externalLink: "https://www.themoviedb.org/tv/66190" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:25:33.220Z",
 } as const satisfies Show
