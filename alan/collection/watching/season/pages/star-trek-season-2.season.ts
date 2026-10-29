@@ -7,8 +7,8 @@ export const starTrekSeason2 = {
   title: "Star Trek Season 2",
   partOfCollections: ["show/star-trek-2"],
   position: 2,
-  ownLength: 1305,
-  ownProgress: 1305,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "B",
@@ -21,5 +21,6 @@ export const starTrekSeason2 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.965Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:30:44.613Z",
+  progressedAt: "2026-10-29T16:30:44.613Z",
 } as const satisfies Season
