@@ -7,11 +7,11 @@ export const soloLevelingS01e14 = {
   description:
     "After being trapped inside of a red gate, Jinwoo has to contend with a bloodthirsty pack of ice elves who question his humanity.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 14,
   publishedAt: "2025-01-12",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -25,5 +25,7 @@ export const soloLevelingS01e14 = {
   stillPath: "/kylozAI9Rf1pp7pZ8nFPK4s1s5n.jpg",
   voteAverage: 8.6,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:33:53.834Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:33:53.834Z",
 } as const satisfies Episode
