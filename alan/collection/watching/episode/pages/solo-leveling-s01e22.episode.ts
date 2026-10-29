@@ -6,11 +6,11 @@ export const soloLevelingS01e22 = {
   slug: "solo-leveling-s01e22",
   description: "Sparks fly as the S-rank hunters spar in preparation for the Jeju Island raid.",
   ownLength: 24,
-  ownProgress: 0,
+  ownProgress: 24,
   partOfCollections: ["season/solo-leveling-solo-leveling"],
   position: 22,
   publishedAt: "2025-03-09",
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
@@ -24,5 +24,7 @@ export const soloLevelingS01e22 = {
   stillPath: "/qzPInwNpRC417SPuo5NREZuxYu.jpg",
   voteAverage: 8,
   createdAt: "2026-10-29T14:33:00.048Z",
-  updatedAt: "2026-10-29T14:33:00.048Z",
+  updatedAt: "2026-10-29T14:34:20.279Z",
+  completedAt: "2026-10-29",
+  progressedAt: "2026-10-29T14:34:20.279Z",
 } as const satisfies Episode
