@@ -20,7 +20,8 @@ export const bogusSkillFruitmasterAboutThatTimeIBecameAbleToEatUnlimited2 = {
         "https://trakt.tv/shows/bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "276204", externalLink: "https://www.themoviedb.org/tv/276204" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:28:35.139Z",
 } as const satisfies Show
