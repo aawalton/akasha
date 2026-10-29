@@ -3022,6 +3022,14 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/cowboy-bebop-s01e24.episode.ts","id":"01a183d6-d2bf-7d9a-bca4-ace8019b7d48"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/cowboy-bebop-s01e25.episode.ts","id":"01a183d6-d2bf-7930-82d2-5d753e33c003"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/cowboy-bebop-s01e26.episode.ts","id":"01a183d6-d2bf-729d-bf9e-e63c5db7bb0c"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/creature-commandos-s01e01.episode.ts","id":"01a18844-7d9d-7436-81bf-bca3953d4df1"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/creature-commandos-s01e02.episode.ts","id":"01a18844-7d9d-71d2-bb68-d8cf449610f9"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/creature-commandos-s01e03.episode.ts","id":"01a18844-7d9d-771a-8a5e-11b0285b992e"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/creature-commandos-s01e04.episode.ts","id":"01a18844-7d9d-7ef3-bbe2-23603045c75b"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/creature-commandos-s01e05.episode.ts","id":"01a18844-7d9e-7c85-a196-281b1d6ad141"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/creature-commandos-s01e06.episode.ts","id":"01a18844-7d9e-7819-8db2-d33c7c842405"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/creature-commandos-s01e07.episode.ts","id":"01a18844-7d9e-7581-9906-4997274d90a7"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/creature-commandos-s02e01.episode.ts","id":"01a18844-7d9e-7f44-9c3e-83169265d4f5"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/cyberpunk-edgerunners-s01e01.episode.ts","id":"01a183da-574f-7381-83a3-0dea4f2471d4"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/cyberpunk-edgerunners-s01e02.episode.ts","id":"01a183da-574f-7300-b67c-b17e7566cb09"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/episode/pages/cyberpunk-edgerunners-s01e03.episode.ts","id":"01a183da-5750-70b4-ac13-f22502a6c545"}
@@ -10588,6 +10596,7 @@
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/coffin-run.season.ts","id":"01a06802-b8b8-7030-a766-b8b622bec340"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/cowboy-bebop-season-1.season.ts","id":"01a183d6-d2bf-7f4f-a801-2498a039b693"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/creature-commandos-season-1.season.ts","id":"01a06802-b8b8-7031-8303-f0714cb46936"}
+{"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/creature-commandos-season-2.season.ts","id":"01a18844-7d9e-7997-8a12-67ab991d1854"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/criminal-minds-season-1.season.ts","id":"01a06802-b8b8-7032-84dd-35f7b7eecaaf"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/criminal-minds-season-10.season.ts","id":"01a06802-b8b8-7033-89d4-65bd70ea5c36"}
 {"propertySlug":"collection-unit","path":"alan/collection/watching/season/pages/criminal-minds-season-11.season.ts","id":"01a06802-b8b8-7034-af5f-ef90140ed191"}
