@@ -7,8 +7,8 @@ export const frierenBeyondJourneySEndSeason1 = {
   title: "Frieren: Beyond Journey's End Season 1",
   partOfCollections: ["show/frieren-beyond-journey-s-end-2"],
   position: 1,
-  ownLength: 700.8,
-  ownProgress: 700.8,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   grade: "S",
@@ -21,5 +21,6 @@ export const frierenBeyondJourneySEndSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.962Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:35:21.420Z",
+  progressedAt: "2026-10-29T16:35:21.420Z",
 } as const satisfies Season
