@@ -7,7 +7,7 @@ export const battlestarGalacticaMiniseries = {
   title: "Battlestar Galactica Miniseries",
   partOfCollections: ["show/battlestar-galactica-2004"],
   position: 1,
-  ownLength: 184.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const battlestarGalacticaMiniseries = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.960Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:24:47.718Z",
 } as const satisfies Season

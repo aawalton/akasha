@@ -18,7 +18,8 @@ export const battlestarGalactica2004 = {
       externalLink: "https://trakt.tv/shows/battlestar-galactica-2003",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "1972", externalLink: "https://www.themoviedb.org/tv/1972" },
   ],
   createdAt: "2026-09-03T16:03:14.353Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:24:47.718Z",
 } as const satisfies Show
