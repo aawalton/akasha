@@ -93,18 +93,31 @@ function stacked(buff: EffectSource, stacks: number): EffectSource {
 
 const ULTIMATE_STEP = 10
 
-function isPerTenUltimate(effect: unknown): boolean {
-  return isMetricEffect(effect) && effect.effectType === "integer-per-ten-ultimate"
+const PER_ULTIMATE_CAP = 1.33
+
+function isPerUltimate(effect: unknown): boolean {
+  return (
+    isMetricEffect(effect) &&
+    (effect.effectType === "integer-per-ten-ultimate" ||
+      effect.effectType === "fractional-change-per-ultimate")
+  )
 }
 
 function withUltimate(source: EffectSource, ultimate: number): EffectSource {
-  if (!source.effects.some(isPerTenUltimate)) return source
+  if (!source.effects.some(isPerUltimate)) return source
   const steps = Math.floor(ultimate / ULTIMATE_STEP)
-  const effects = source.effects.map((effect) =>
-    isMetricEffect(effect) && effect.effectType === "integer-per-ten-ultimate"
-      ? { ...effect, effectType: "integer" as const, effectValue: effect.effectValue * steps }
-      : effect
-  )
+  const effects = source.effects.map((effect) => {
+    if (!isMetricEffect(effect)) return effect
+    if (effect.effectType === "integer-per-ten-ultimate") {
+      return { ...effect, effectType: "integer" as const, effectValue: effect.effectValue * steps }
+    }
+    if (effect.effectType !== "fractional-change-per-ultimate") return effect
+    return {
+      ...effect,
+      effectType: "fractional-change" as const,
+      effectValue: Math.min(effect.effectValue * ultimate, PER_ULTIMATE_CAP),
+    }
+  })
   return { ...source, effects } as EffectSource
 }
 

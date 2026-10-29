@@ -157,9 +157,18 @@ export const metricCalculator = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A per-Ultimate effect gives its fractional value for the Ultimate held, up to its cap.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An estimate handed no Ultimate gives a per-Ultimate effect none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "An estimate gives each status effect's damage from the metrics as the calculation holds them.",
     },
   ],
   createdAt: "2026-09-02T14:06:51.856Z",
-  updatedAt: "2026-10-29T18:32:30.939Z",
+  updatedAt: "2026-10-29T19:38:04.000Z",
 } as const satisfies Module

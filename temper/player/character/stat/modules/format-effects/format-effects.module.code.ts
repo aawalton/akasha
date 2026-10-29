@@ -142,6 +142,9 @@ function phrasedMetricEffect(effect: MetricEffect, name: string): string {
   if (effect.effectType === "integer-per-ten-ultimate") {
     return `${effect.effectValue.toString()} ${name} per 10 Ultimate`
   }
+  if (effect.effectType === "fractional-change-per-ultimate") {
+    return `${formatPercent(effect.effectValue)} ${name} per Ultimate`
+  }
   return `${formatMetricEffectValue(effect)} ${name}`
 }
 
@@ -162,6 +165,9 @@ function formatMetricEffectValue(effect: MetricEffect): string {
     }
     case "integer-per-ten-ultimate": {
       return `${effect.effectValue.toString()}/10 Ultimate`
+    }
+    case "fractional-change-per-ultimate": {
+      return `${formatPercent(effect.effectValue)}/Ultimate`
     }
     case "integer-per-missing-health": {
       return `up to ${effect.effectValue.toString()} by missing Health`

@@ -39,6 +39,11 @@ export const effect = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A per-Ultimate effect gives one percent per Ultimate, capped at one hundred thirty-three percent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An effect may name the buffs it holds only while one is up.",
     },
     {
@@ -52,5 +57,5 @@ export const effect = {
     },
   ],
   createdAt: "2026-09-02T04:46:21.408Z",
-  updatedAt: "2026-10-29T18:32:30.939Z",
+  updatedAt: "2026-10-29T19:38:04.000Z",
 } as const satisfies Module

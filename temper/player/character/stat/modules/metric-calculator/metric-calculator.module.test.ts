@@ -150,3 +150,27 @@ test("Puncturing Remedy gives the healing a build held as resistance", () => {
   expect(withHeld["resistance-physical"]?.value).toBe(21993 + healing)
   expect(withHeld["resistance-spell"]?.value).toBe(21993 + healing)
 })
+
+const ERIN_SIGNET =
+  "ATQONINAAIBhxAkDE_tnELIDE_tnELIDJgtnELJDJgtnELIjJgtnELIDJgtnELIDJgtnELIhShtAEIASLD1AEIAhShdAEIAkeTHbcoWURBMdbcoWUSiuon3oE8ruM5x0uJJE9GiAiddgqG_3gAJxQk4Rcng-Bd_-Hbga6GTSK6IFI991UEf14MeIlQiIyICAyMyAiIiIyIgMgIjUiIgIyIzQiACI0IDIyMzMjQABEMiIwOiMjQDoCImQzMiNCAAACOCIgIkozIDQiIiMCOiy6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAAFMmWAgk14ZLOeJjBIDGFAhHmwXWK1ymYYi54JJQiAHt5m1r2nmuHsoGQUAAAAAA"
+
+test("the Shattered Paths Signet gives status effect damage for the Ultimate held", () => {
+  const build = decodeBuild(buildHash(ERIN_SIGNET))
+  if (build === null) throw new Error("the Shattered Paths Signet build does not decode")
+  const rings = Object.values(build.equipment.jewelry).filter(
+    (item) => item.itemType !== "empty" && item.data.set === "shattered-paths-signet"
+  )
+  expect(rings).toHaveLength(1)
+
+  const statusDamage = (ultimate: number): number | undefined =>
+    calculateReadingStatsByBar(build, "primary-weapon-bar", [], [], ultimate).metrics[
+      "damage-done-status-effect"
+    ]?.value
+
+  expect(statusDamage(0)).toBeUndefined()
+  expect(statusDamage(100)).toBe(1)
+  expect(statusDamage(133)).toBe(Math.fround(1.33))
+  expect(statusDamage(371)).toBe(Math.fround(1.33))
+  expect(statusDamage(450)).toBe(Math.fround(1.33))
+  expect(statusDamage(500)).toBe(Math.fround(1.33))
+})

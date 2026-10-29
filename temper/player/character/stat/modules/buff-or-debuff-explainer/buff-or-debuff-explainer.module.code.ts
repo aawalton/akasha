@@ -66,6 +66,11 @@ function formatEffectValue(effect: MetricEffect): string {
       return `up to +${Math.round(effect.effectValue).toLocaleString()} by missing Health`
     case "integer-from-healing-done":
       return "equal to healing done"
+    case "fractional-change-per-ultimate": {
+      const pct = effect.effectValue * 100
+      const sign = pct >= 0 ? "+" : ""
+      return `${sign}${pct.toFixed(2).replace(/\.?0+$/, "")}% per Ultimate`
+    }
     case "number":
       return `+${effect.effectValue.toLocaleString()}`
     case "number-per-seconds": {
