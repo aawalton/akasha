@@ -7,8 +7,8 @@ export const sheHulkAttorneyAtLawMiniseries = {
   title: "She-Hulk: Attorney at Law Miniseries",
   partOfCollections: ["show/she-hulk-attorney-at-law"],
   position: 1,
-  ownLength: 309,
-  ownProgress: 309,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2022-08-18",
@@ -21,5 +21,6 @@ export const sheHulkAttorneyAtLawMiniseries = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.964Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T16:30:26.136Z",
+  progressedAt: "2026-10-29T16:30:26.136Z",
 } as const satisfies Season
