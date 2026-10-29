@@ -18,7 +18,8 @@ export const stargateUniverse = {
       externalLink: "https://trakt.tv/shows/stargate-universe",
       lastSyncedAt: "2025-10-01",
     },
+    { source: "tmdb", externalId: "5148", externalLink: "https://www.themoviedb.org/tv/5148" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:44:04.143Z",
 } as const satisfies Show

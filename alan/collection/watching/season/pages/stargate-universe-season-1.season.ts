@@ -7,7 +7,7 @@ export const stargateUniverseSeason1 = {
   title: "Stargate Universe Season 1",
   partOfCollections: ["show/stargate-universe"],
   position: 1,
-  ownLength: 880.8,
+  ownLength: 0,
   ownProgress: 0,
   unit: "unit/minutes",
   status: "not-started",
@@ -21,5 +21,5 @@ export const stargateUniverseSeason1 = {
     },
   ],
   createdAt: "2026-09-03T16:03:23.966Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:44:04.143Z",
 } as const satisfies Season
