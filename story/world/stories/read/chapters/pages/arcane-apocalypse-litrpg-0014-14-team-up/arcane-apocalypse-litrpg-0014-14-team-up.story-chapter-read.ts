@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg001414TeamUp = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-29T23:22:58.810Z",
+  ownProgress: 3300,
+  progressedAt: "2026-10-29T23:22:58.810Z",
 } as const satisfies StoryChapterRead

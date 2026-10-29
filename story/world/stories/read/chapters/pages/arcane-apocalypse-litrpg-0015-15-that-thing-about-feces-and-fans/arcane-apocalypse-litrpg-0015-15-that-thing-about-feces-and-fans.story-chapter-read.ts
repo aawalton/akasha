@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg001515ThatThingAboutFecesAndFans = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-29T23:22:58.810Z",
+  ownProgress: 3412,
+  progressedAt: "2026-10-29T23:22:58.810Z",
 } as const satisfies StoryChapterRead
