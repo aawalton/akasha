@@ -1,1 +1,6 @@
 You set yourself an exercise: Fibonacci sequences taken modulo n+2, then n+1, then on down, every starting pair carried round to its loop and to the length of that loop. You start with n+2 and work it whole. Take a pair of numbers, add them, keep the remainder, carry the pair along, then the next, until a pair comes back that you have already had. That is a loop, and you learn it by its length. Then the next pair, until every pair under n+2 is held in memory with its loop.
+
+:::status-assessment
+name: Path of Basic Numeracy
+note: Tier: 3; Mental: +1
+:::
