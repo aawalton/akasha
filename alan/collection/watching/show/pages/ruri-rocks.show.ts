@@ -19,7 +19,8 @@ export const ruriRocks = {
       externalLink: "https://trakt.tv/shows/ruri-rocks",
       lastSyncedAt: "2025-11-30",
     },
+    { source: "tmdb", externalId: "271649", externalLink: "https://www.themoviedb.org/tv/271649" },
   ],
   createdAt: "2026-09-03T16:03:14.354Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-29T15:40:10.927Z",
 } as const satisfies Show
