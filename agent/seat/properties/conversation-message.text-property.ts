@@ -5,10 +5,10 @@ export const conversationMessage = {
   type: "page-type/text-property",
   slug: "conversation-message",
   propertySlug: "message",
-  definition: "the message a person's words reached a seat in",
+  definition: "the message a person sends to a seat",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-10-24T21:41:17.179Z",
-  updatedAt: "2026-10-24T21:41:17.179Z",
+  updatedAt: "2026-10-30T14:38:02.167Z",
 } as const satisfies TextProperty
