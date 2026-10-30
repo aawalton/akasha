@@ -5,10 +5,10 @@ export const generation = {
   type: "page-type/text-property",
   slug: "generation",
   propertySlug: "generation",
-  definition: "which generation of the nameplate this is",
+  definition: "the generation of a car model",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:50:05.893Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:41:42.183Z",
 } as const satisfies TextProperty
