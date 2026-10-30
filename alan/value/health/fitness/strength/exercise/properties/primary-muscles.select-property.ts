@@ -5,7 +5,7 @@ export const primaryMuscles = {
   type: "page-type/select-property",
   slug: "primary-muscles",
   propertySlug: "primary-muscles",
-  definition: "what the movement is meant to work",
+  definition: "the main muscles a strength exercise works",
   values: [
     "abdominals",
     "abductors",
@@ -27,5 +27,5 @@ export const primaryMuscles = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:19:22.688Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:49:51.344Z",
 } as const satisfies SelectProperty
