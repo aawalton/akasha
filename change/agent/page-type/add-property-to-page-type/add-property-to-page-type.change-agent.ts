@@ -7,7 +7,7 @@ export const addPropertyToPageType = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "a page property declared on a page type",
+  definition: "a change that adds a page property to a page type",
   code: "ts",
   test: "ts",
   decisions: [
@@ -52,5 +52,5 @@ export const addPropertyToPageType = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-08T16:36:41.802Z",
-  updatedAt: "2026-09-22T10:07:38.000Z",
+  updatedAt: "2026-10-30T17:01:39.230Z",
 } as const satisfies ChangeAgent
