@@ -5,6 +5,10 @@ export const strengthLog = {
   type: "page-type/page-type",
   slug: "strength-log",
   definition: "a set Alan performed, as it was recorded",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "lifting set" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "lifting sets" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "boolean-property/is-warmup",
@@ -81,5 +85,5 @@ export const strengthLog = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:21:48.924Z",
-  updatedAt: "2026-10-08T11:11:21.000Z",
+  updatedAt: "2026-10-30T16:49:22.768Z",
 } as const satisfies PageType
