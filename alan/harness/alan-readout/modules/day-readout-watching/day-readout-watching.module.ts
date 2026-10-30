@@ -4,7 +4,7 @@ export const dayReadoutWatching = {
   id: "01a08c11-e71f-7f8f-b343-d87bac283b1c",
   type: "page-type/module",
   slug: "day-readout-watching",
-  definition: "how code takes the readings of Alan's day when the files of that day change",
+  definition: "how code takes the numbers of Alan's day when the files of that day change",
   code: "ts",
   test: "ts",
   decisions: [
@@ -154,5 +154,5 @@ export const dayReadoutWatching = {
     },
   ],
   createdAt: "2026-09-10T16:06:18.655Z",
-  updatedAt: "2026-10-30T16:21:38.237Z",
+  updatedAt: "2026-10-30T16:56:04.415Z",
 } as const satisfies Module
