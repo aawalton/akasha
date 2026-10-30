@@ -5,7 +5,7 @@ export const gymEveryImplement = {
   type: "page-type/boolean-property",
   slug: "gym-every-implement",
   propertySlug: "every-implement",
-  definition: "whether a gym holds every implement a movement can name",
+  definition: "whether a gym holds every strength exercise implement",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -18,5 +18,5 @@ export const gymEveryImplement = {
   ],
   types: "ts",
   createdAt: "2026-10-08T11:10:10.966Z",
-  updatedAt: "2026-10-08T11:10:15.000Z",
+  updatedAt: "2026-10-30T16:52:22.949Z",
 } as const satisfies BooleanProperty
