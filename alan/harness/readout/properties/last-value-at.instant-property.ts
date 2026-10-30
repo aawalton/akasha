@@ -5,8 +5,8 @@ export const lastValueAt = {
   type: "page-type/instant-property",
   slug: "last-value-at",
   propertySlug: "last-value-at",
-  definition: "when the reading last taken was taken",
+  definition: "the instant a readout read its last number",
   types: "ts",
   createdAt: "2026-08-30T20:05:28.042Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-30T16:18:19.091Z",
 } as const satisfies InstantProperty
