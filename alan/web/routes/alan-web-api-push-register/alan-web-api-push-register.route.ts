@@ -4,7 +4,7 @@ export const alanWebApiPushRegister = {
   id: "01a08834-9fa8-7538-bb21-73af9a36b58d",
   type: "page-type/route",
   slug: "alan-web-api-push-register",
-  definition: "the push token of a reader's app",
+  definition: "the token alanwalton.com keeps for notifications to the iOS app",
   code: "ts",
   urlPath: "api/push/register",
   decisions: [
@@ -14,5 +14,5 @@ export const alanWebApiPushRegister = {
     },
   ],
   createdAt: "2026-09-09T22:05:45.256Z",
-  updatedAt: "2026-10-18T13:24:10.292Z",
+  updatedAt: "2026-10-30T16:59:43.220Z",
 } as const satisfies Route
