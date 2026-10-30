@@ -4,7 +4,7 @@ export const alanWebApiPageFile = {
   id: "01a0d4ab-e2a3-7918-92c5-98ade7912a09",
   type: "page-type/route",
   slug: "alan-web-api-page-file",
-  definition: "the file beside a page a reader's browser asks for by its property",
+  definition: "the file of a page property a browser asks for",
   code: "ts",
   urlPath: "api/page-file/:pageTypeSlug/:slug/:key",
   decisions: [
@@ -44,5 +44,5 @@ export const alanWebApiPageFile = {
     },
   ],
   createdAt: "2026-09-24T18:27:09.603Z",
-  updatedAt: "2026-09-27T15:23:52.000Z",
+  updatedAt: "2026-10-30T16:55:08.321Z",
 } as const satisfies Route
