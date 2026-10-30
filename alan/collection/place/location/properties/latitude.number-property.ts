@@ -5,9 +5,9 @@ export const latitude = {
   type: "page-type/number-property",
   slug: "latitude",
   propertySlug: "latitude",
-  definition: "how far north of the equator the place is, in degrees",
+  definition: "how many degrees north of the equator a place is",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:25:23.451Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:55:47.348Z",
 } as const satisfies NumberProperty
