@@ -20,5 +20,7 @@ export const dungeonOfKnowledgeComplete0632NewStoryAnnouncement = {
     },
   ],
   createdAt: "2026-10-30T09:23:15.012Z",
-  updatedAt: "2026-10-30T09:23:15.012Z",
+  updatedAt: "2026-10-30T12:23:42.387Z",
+  ownProgress: 360,
+  progressedAt: "2026-10-30T12:23:42.387Z",
 } as const satisfies StoryChapterRead

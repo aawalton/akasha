@@ -1,0 +1,237 @@
+Physicians call it Acute Mana Toxicity Syndrome, because ‘mana breaks complicated things’ apparently lacked sufficient dignity.
+
+In humans, mana induces headaches, tremors, dizziness, and muscular weakness. Given enough exposure, whether prolonged or intense, AMTS progresses to delirium, nervous-system failure, and death. In computers, the progression is similar: corrupted data, phantom currents, and inexplicable errors, followed—usually at the most inconvenient possible moment—by sparks, melted circuitry, and smoke.
+
+Our research has concluded that mana should be considered to be highly corrosive to the expression of concepts in reality—the more complex and intricate, the more sensitive they are to exposure. We are certain that further research in this direction will reveal the mechanism by which mana facilitates the modification of reality.
+
+When implanted with a mana seed, a human develops a Crucible which is able to process the exposure and direct the mana through efficient, non-destructive channels. My processors have yet to demonstrate similar initiative.
+
+Therefore, when an engineer tells you to move the sensor array farther from the portal, move it.
+
+- Dr. Rigel Astor, opening remarks at the First Symposium on Mana-Resilient Computing held in Bellacorte on the 21st of January, 27 FPE.
+
+Kal opened the squeaky door of the Auto Taxi and stepped out onto the wet pavement on the corner of Jackson and Fifth, right in the heart of Ravenna Mercado, still nursing his headache. His bout with Lucien Cross had warmed him up but had done nothing to dislodge the persistent aches and weakness of the mana sickness. At least it wasn’t as bad as the first day; he could actually move. He pulled the collar of his coat up higher around his neck to ward off the chilly drizzle and stepped over the yellow barricade tape flapping in the gusty wind.
+
+He glanced upward and stared at the damage.
+
+Now, that is going to be… expensive.
+
+The portal had spawned at the edge of the intersection, right beneath the overpass. The huge blue energy disk, large enough to admit three eighteen-wheelers side by side, shimmered with faint flickers of red and black, casting an ethereal glow over the evacuated diners and the adjacent strip mall while it sizzled softly under the drizzle. One edge of the portal had burned through the concrete support for the overpass, leaving a large pile of fresh rubble on the roadside—damage which would no doubt require significant repairs and the attention of a good structural engineer. The bottom lip of the portal had spawned about four feet below ground, which would make entering a breeze, but steam was rising from the furrow gouged out of the road as rain and molten asphalt seeped in and came into contact with the edges of the energy disk.
+
+At least it’s not worse. Not like the one that spawned inside Lumina Tower in the heart of downtown last week. That had wrecked traffic for several days until the major streets had been cleared of rubble and had been all over the news. The building had been so badly damaged that it was likely to be condemned.
+
+For an evacuated portal site, the whole intersection before him was a bustling hive of activity. People milled about in the sort of controlled chaos one might associate with a kicked ant nest. Police manned the cordon, and Kal flashed his NexCraft contractor’s badge to fend off the pair of overly eager uniforms rapidly bearing down on him with hands hovering near their firearms. There was a paramilitary group setting up a perimeter cordon, all sporting bright armbands that advertised affiliation with an unfamiliar company. Two Worldshield agents, Gate Guardians judging by their distinctive, impeccable black suits, stood, arms folded across their chests and backs to the portal itself, blocking unauthorized access. Trash littered the sidewalks beneath the flashing traffic lights—evidence that this area had, till recently, been inhabited by the homeless. They had already been unceremoniously evicted, along with the typical market stalls, and in their place, he found all the usual portal-response stations and kiosks.
+
+The NexCraft Recovery Guild was here in force, of course, having won the bid to harvest whatever reality fragment might be accessible through the glowing portal. That was the reason he even had this job. Still, he caught sight of a small Red Line Extraction Services stand advertising their competition.
+
+Arkanis Dynamics had a substantial presence today, with several technicians clustered about a rugged-looking man with graying hair, strapping a set of sleek, matte-black armor pieces sporting the boldly emblazoned, distinctive Arkanis ‘A’ logo over every inch of his body. He was clearly a monster hunter, and one with a powerful seed, if the vibe Kal was getting was anything to go by.
+
+Over by the portal, beside the stoic Worldshield agents, the ubiquitous Xenova Labs stand was doing brisk business selling bright blue vials of Chrysalin Wound Repair Gel to several hunters from the Pale Fang Syndicate. Prominently displayed on a rack behind the vendor were the compact neon Spark injectors for hunters that might need an edge in combat. Kal recognized some of their seeds just by their gear—it wasn’t that hard. There were not all that many choices for humans at E- and D-ranks, limited as they were by the lack of space for new skills before their mana seed had truly had the chance to grow.
+
+Kal scanned the crowds of support crew, harvesters, porters, and others, until his eyes settled on a familiar, tall, wiry young man with dusky bronze skin and restless steel-gray eyes that seemed to be darting and flickering back and forth, fully absorbed with his glowing visor screen. His dark hair was messy and windswept, and Kal might have guessed it had to do with the rain and wind, except Rigel always looked like that.
+
+Rigel Astor. Scientist, engineer, technician, weapons and software specialist, Rigel did it all. Once the darling prodigy of the Astor family, now estranged, Rigel had earned his Ph.D. in portal science at the remarkably young age of twenty. Kal allowed a small grin, his fingers closing around the incriminating mana-exposure badge hidden in his pocket. While he liked Rigel well enough, both he and Mira had agreed that Rigel would be their leading candidate for person most likely to wipe out the planet by accident—probably because he’d concocted some ‘cool’ experiment to try and had dismissed studying any potential fallout as boring or tedious.
+
+Perfect. Brilliant, with a side helping of dubious ethics. Just the man I’m looking for.
+
+With the brisk steps of someone who knew exactly where he was going, Kal set off toward the edge of the NexCraft stand where Rigel had set up his gadget clusters and workbench under the cover of the harvesting company’s logoed open tent, winding his way around several police cars, a pair of humming ‘Pylons’—Arkanis Dynamics’ signature mobile, truck-mounted barrier projectors—and a fire truck, all with their lights on. Looks like they’re not taking any chances if they’re forking out the credits for two Barrier Pylons.
+
+“Hey, Rigel!” Kal called out.
+
+The young man—a year younger than Kal himself—startled, his eyes snapping up at the sound. “Wha… oh, Kal! Hey, are you working this delve?”
+
+“I… hope so,” Kal said. “You?”
+
+“No,” Rigel said, “I’m on external support this week. Too much exposure. I had to pull strings to even get this close. Nobody understands the importance of my work!”
+
+“Aah,” Kal said, withdrawing his badge and sliding it surreptitiously across the worktable toward him before Rigel could embark on his favorite tirade. “About that… I need a little help with this.”
+
+“A mana-exposure badge? Oh. I get it,” Rigel said. “Going to tough it out and brave the mana sickness?”
+
+“I worked last week’s downtown portal, but I need the money,” Kal admitted, despising the pleading edge that entered his voice.
+
+“Hah, no problem. I can take care of a trifle like this,” Rigel declared. “Won’t take more than two shakes.”
+
+“This is not exactly… legal, you know?” Kal asked, glancing at the people rushing about.
+
+“I don’t mind,” Rigel declared, puffing out his chest. “You need it, right?”
+
+“Yes, but they might object,” Kal said, nodding to the well-staffed booths beside them. He was already asking, but Rigel wasn’t keeping his voice down.
+
+“Aah… invoking spy protocol. Clandestine operation, code blue,” Rigel whispered dramatically, slotting the badge into a port attached to his laptop with an unnecessary flourish, and hunkering down like he was trying to conceal something. Zero credits for your acting class, buddy. “Give me a few moments.” His fingers flew across the keyboard with unerring precision. “Say, it’s not like you to skirt the law for a little cash.”
+
+Kal bit his lip, but nobody seemed to notice Rigel’s comically bad attempts to disguise his purpose. “Mira’s tuition went up. It’s due at the end of the week.” The truth was much worse—it had been past due several months ago. He had managed to fend them off by signing up for a payment plan and making several partial payments, but now he had to come up with nearly ten thousand credits by the end of the week, or it would go to Collections and Mira would likely be kicked out. His only hope was a timely, lucrative portal.
+
+This portal. He crossed his fingers. Be the one.
+
+“Aah, Mira,” Rigel said, a soft flush immediately appearing on his cheeks as he bumped one of his gadgets with an elbow and had to scramble to catch it before it hit the floor.
+
+“What are we looking at today?” Kal asked, changing the subject and nodding toward the massive magical manifestation taking up half the street.
+
+“Official word is a nature portal,” Rigel said, rolling his eyes dramatically. “Some flunky guessed goblins.”
+
+“What do you think?” Kal asked, his heart sinking a bit. He’d pinned his hopes on a goblin world and all those lucrative mana seeds they might harvest. Still, anything would be better than one of those miserable desert worlds with nothing but sand, sandworms, and sand elementals. Sand was cheap, and sand wouldn’t pay for Mira’s increasingly expensive college. He’d be hauling tons of sand for hours and be lucky to walk out with a couple of hundred credits for the whole delve. NexCraft usually abandoned those worlds.
+
+Please don’t be sand…
+
+“Finally! Someone who appreciates my brilliance! You have come to the right place! Have you perchance read my thesis on mana particle analysis using high-energy electron fields?” Rigel asked, but he barreled on without pause. “E-rank portal, definitely. But my readings are irrefutable.”
+
+Kal raised an eyebrow.
+
+“Demons,” he said, his voice lowered to a conspiratorial whisper.
+
+“That will annoy some people,” Kal said, eyeing the company booths warily. Although, depending on the type of demonic monsters, Xenova may pay top credits for a few corpses. Some of their most lucrative inventions came from their famous xenobiology labs. At least, he hoped they’d pay. Just the mana exposure from today’s run would take him out of action for a few days, and he needed a lucky draw to make a significant dent in the pile of pink bills on the kitchen counter.
+
+“You’ll have to let me know,” Rigel said, turning back to the screen and tapping out a few more instructions while muttering something about fluctuating readings.
+
+“Will do. Least I can do.”
+
+Rigel’s table was strewn with sensitive monitoring equipment, most of which was humming or flashing and aimed at the huge portal, but Kal’s eyes fell on something that looked out of place: a broken slab of white marble about the size of a tea saucer.
+
+He reached out and picked it up, raising an eyebrow at the weight and polished smoothness of the surface on his skin. Why does he have this? It was a broken rock, below Rigel’s minimum technology level by several orders of magnitude.
+
+Kal turned it over and instantly froze. He startled and caught the slab before it fell from his fingers. It… can’t be…
+
+His eyes opened wider as he stared at the picture of a strange tree. A strange tree engraved into marble and depicted in glittering gold. An utterly unmistakable tree, one he’d seen many times before.
+
+My dream… damn. Freaky.
+
+He traced his fingertips over the etched lines of tiny incomprehensible symbols and glyphs running along the bottom, cut off where the jagged edge of the slab had been broken. Yet, even as he stared at them, he felt a bizarre sense that they were shifting beneath his gaze, as if they contained a potent message, a sense of meaning hovering there just barely out of reach.
+
+“What is this?” Kal rasped, his voice strangely hoarse.
+
+“What?” Rigel asked, glancing up and then staring in evident surprise. “Oh, that’s a rock.”
+
+Rigel’s answer was technically accurate and entirely unhelpful—as usual. “Where did you get it?” Kal asked.
+
+“We found several of those in that portal world I worked last week. That was an actual goblin world, but it had an inclusion on the plateau filled with strange ruins—you should have seen it, Kal! I wish I could have taken photos. So cool! Anyway, I found that there. NexCraft tried to sell a few of those to Arkanis Dynamics, but they said they’re worthless trash. It’s always weapon systems with them, as you know. I got that because nobody wanted to buy them, and because I thought those runes might be interesting, but I can’t decipher them. You can have it, if you like.”
+
+“Thanks… I would, yes,” Kal said, slipping the strange artifact into his pack. It had an unusual feeling of weight that had nothing to do with mass—like it was emitting a sense of importance or significance that tugged at something inside his chest in a way he couldn’t exactly fathom. He didn’t want to take it into the portal world, but he could always leave it in his locker for later.
+
+“Anyway, here you are,” Rigel said, holding out his badge. “Pristine, like you never saw mana in your life.”
+
+At that precise moment, one of the monitoring devices on his desk suddenly sizzled and popped, and a faint wisp of acrid white smoke floated out of the side port.
+
+“Argh!” Rigel declared, scrambling to pick up his tools. “Mana interference. Again! Stupid portals.”
+
+“Thanks, Rigel,” Kal said, pinning his now-green badge to his chest where it was supposed to be displayed. The counter ticked up by one, already registering exposure from the glowing blue portal on the opposite side of the street. “I owe you one.”
+
+“You’re welcome,” Rigel muttered, nodding absently, but he was already elbows-deep into his broken equipment, and Kal left him to it, spying a food truck setting up in the middle of the street beside a larger fire truck.
+
+He arrived right as the portly owner was opening the serving window. The man shuffled around, a little out of breath, and smiled as Kal approached, “What can I get you?”
+
+“Do you have bento or something similar I can take into the portal?” Kal asked, glancing around, but the board with the advertised prices and offerings hadn’t been set out yet.
+
+“Twelve-fifty,” he said.
+
+“Oof,” Kal answered. “Aah, I’m on a bit of a budget…”
+
+“Chicken sandwich,” the man offered, shrugging. “Six-fifty.”
+
+Mira was right. I’m going to go broke before I even start. I should have made a sandwich at home. With a grimace, he waved his card at the reader and received his sandwich after the machine beeped, nicely packed in a cheap but resilient plastic container that boasted a practical belt clip. “Thanks,” Kal said. Despite the ridiculous price, he approved of the thoughtful preparation. Besides, the refrigerator at home was as empty as a cookie jar left in a room full of hungry eight-year-olds.
+
+He pocketed his lunch and wandered over to the staging area in front of the portal, where the teams seemed to be gathering.
+
+Kal stowed his coat and emptied his pockets into an open locker, using his license card to set a code. The lockers were black, made from rugged steel, and bore the Worldshield logo. They were a service provided for the exclusive use of those working portal worlds and were watched by the Gate Guardians. The contents were even insured to the value of several million credits—although, if one stored anything as valuable as a mana seed, there was some paperwork required.
+
+He joined the line by the equipment table and scooped up a utility belt and a pair of rugged gray NexCraft overalls, sized large. He quickly changed in the curtained area, checked his tools, and then buckled them over his overalls, adjusting the fit so it wouldn’t get in the way of his pistol. When he was ready, he walked over to join the group of waiting harvesters, eyeing the four hunters up front displaying their Pale Fang Syndicate insignias.
+
+The delve team.
+
+They were the monster hunters who would defeat the denizens of the portal world and protect the harvesters while they extracted whatever value could be found within. Once cleared, if all went well, the hunters would wait before the final portal guardian and the objective of shattering the anchor, while additional teams of civilian miners, botanists, scientists, and the like could strip the world of anything of value. Only after everything was extracted would the hunters break the anchor and send the portal world to wherever they went.
+
+Kal was usually a member of the last set of harvesters; however, today he would be in the first harvest crew. A team that accepted hazard pay and the risk of encountering monsters to ensure that at least the most valuable resources might be recovered if something unexpected prevented the world from being fully cleared—an altogether too common occurrence. If an emergency high-ranked team had to be called in to salvage a botched job, anything left in the world was likely to be wasted.
+
+About a dozen people were clustered nearby, wearing similar gray overalls, spanning a broad range of backgrounds. Erin had included a couple of newbies, people who stood around looking like awkward students in their uniforms—obviously last-minute picks chosen to make up the numbers on short notice. He was pleased to see there were more grizzled veterans—career harvesters—people who could be counted on to not break under pressure. Kal nodded to Erin and several other familiar faces, but his eyes were drawn to a small girl standing off to the side by herself. Woman, he corrected. Appearances aside, minors were not permitted to enter portals.
+
+A worldwalker?
+
+She couldn’t have been more than five-three, and if she weighed a hundred pounds, Kal would be shocked. She had velvety, snow-white fur on the backs of her hands and bare feet, and a pair of pointed, wolf-like ears that perked up out of a mane of long, shaggy white hair.
+
+Non-humans were not exactly uncommon, not with portals showing up and spewing out aliens and monsters every week, but finding one working alongside humans was unusual. Especially here in Veritania. It only really happened when someone screwed up and allowed a portal to proceed to a portal break, and it spewed its contents into Valmyra all at once. Even then, the denizens ejected needed to be able to avoid the inevitable mop-up teams and be willing to work rather than fight.
+
+What is she? Wolfkin of some kind? Lycan?
+
+Her eyes glittered violet in the light of the portal, and Kal was trained well enough to notice the natural grace in her movement and the coiled readiness in her posture. Of all the people at the portal site, including a couple of the hunters, she was the one he’d least like to face in a dark alley. In the ring, however…
+
+“Ok, listen up.”
+
+Kal turned to focus on the Worldshield agent standing beside the much more substantial figure of the gray-haired monster hunter warrior he’d seen earlier. He was now fully decked out in the finest Arkanis Dynamics Obsidian Aegis armor, and if Kal’s eyes were not deceiving him, it was a model he had not seen before. He eyed it closely. Are they testing a new prototype?
+
+“As you already know, we’re delving into an E-rank portal today. Tech says it’s likely to be a nature-themed world, but be prepared for anything. It is fresh, as of this morning, and nobody has been inside yet,” the Gate Guardian said.
+
+Demons, Kal countered, but he kept his opinion to himself. Rigel was a bit of a wild card, but he had proven uncannily accurate before.
+
+“This is Brannic Vohl,” the agent said as the group fell silent. “He is a D-rank warrior, and he will be the leader for this portal world. Beyond the threshold, his word is law. Follow orders, and you will be safe.”
+
+It was all standard fare, but Kal let out a sigh of relief. He didn’t miss the sour looks from the Pale Fang Syndicate members, signs of some sort of politics, no doubt. It was unusual for an Arkanis Dynamics contractor to be leading a guild team, but having a D-rank as the lead meant this would be a much easier delve.
+
+“The rest of your hunter team hails from the Pale Fang Syndicate guild. An experienced E-rank team with many successful portals under their belts. You are in good hands today. Firstly, this is Drexler Drint, frontliner with a monk-type seed.”
+
+“Drex,” he growled, crashing a set of heavy steel gauntlets together. Kal noted the heavyset, muscular frame and the movement of someone who looked more comfortable as a bouncer at a club than in the ring. He wore a scowl on his face, and he was chewing something—tobacco or barkroot, by the smell.
+
+Talk about ticking that ‘stereotype’ box, Kal chuckled to himself. Still, looks like he can handle himself. I’ll stay behind him. Well behind.
+
+“Nirelle Faen,” the agent said, indicating a slender woman wearing expensive green robes and carrying a gnarled staff. A silver chain pendant hung about her neck, adorned with a glittering emerald that would have been better sized as a belt buckle. “You’re in luck, she is an accomplished druidic healer.”
+
+Nirelle inclined her head slightly but didn’t speak. Her long dark hair hung unbound past her shoulders—a clear sign of a career backline support role. Nobody up front in the thick of it would risk being blinded by flying hair at the worst possible moment.
+
+Kal frowned. On one hand, having a dedicated healer meant the delve team wouldn’t be billing the operation for dozens of vials of Chrysalin Gel, but healers had a way of sensing all sorts of ailments, and he wasn’t exactly in the best shape right now. Maybe Mira was right, I shouldn’t have risked it. Getting outed as having doctored his exposure badge would land him a hefty fine at best, and a portal ban from Worldshield at worst. He clenched his fists at his sides to control the occasional trembling in his fingers.
+
+“Tessin Varn, Fire Mage,” the agent continued, moving on to the next hunter, but Kal had already identified her fire skills without needing to be told. Wisps of flame darted restlessly across her knuckles, dancing back and forth in an endless sequence of movement.
+
+“Call me Tess,” she said, flaring the flames dramatically, and drawing a couple of gasps from the inexperienced student harvesters. She would no doubt be tossing balls of exploding fire at anything that moved, but Kal didn’t miss the slight twitching at the corner of her left eye and the faint tremor in her fingers.
+
+Spark? Whatever she was on, the fire mage was wired—and it seemed more than a mundane coffee addiction.
+
+“Last, but not least, Sarn Drell,” the Worldshield agent said, ignoring the theatrics. “Rogue-type. He will be your scout.”
+
+Sarn nodded, his expression obscured behind a black mask that covered his nose and mouth, and Kal didn’t miss the edge of the black mesh of an Arkanis body suit. Less protection than the Aegis system, but far more flexible. His eyes were black and restless, scanning the assembled crowd and the buildings beyond constantly.
+
+The agent glanced over at the dozen grey-clad harvesters. “NexCraft won portal harvesting rights on this one. The harvest crew lead is Erin Alessia Vega.”
+
+“Here,” Erin said in her typical economic fashion, raising her hand.
+
+“Excellent. Let’s do a quick roll call for your team,” the agent said, consulting his clipboard and beginning to announce names. Kal acknowledged his name in turn, but then the agent paused.
+
+“It says we have a Lycan?” The agent glanced up, his eyes quickly scanning the group until they fixed on the snow-haired girl. “What’s your name?”
+
+The girl bounced to her feet. “My name is—” she began in a surprisingly husky voice, and then flicked her left ear, her right ear, raised the back of her wrists to her chin in a gesture that looked just like a puppy begging, and let out a soft little howl. She wagged her bushy white tail.
+
+Erin, ordinarily gruff and business-like, immediately let out an “Aww.”
+
+“I see,” the agent said, making a note on the clipboard. “That would explain why it’s not written down.”
+
+“Fucking dumb hollow,” Drex Drint grumbled, naturally confirming Kal’s first impression of the bruiser. He spat on the ground. “Portal spawn.”
+
+Kal glanced at him and frowned. What’s his problem? Lycans may not be human, obviously, but they were strong. She would no doubt be a huge asset to the harvesting team.
+
+“Ok, everything seems to be in order,” the agent said, conspicuously ignoring the outburst. “Good luck and stay safe in there. Good hunting.”
+
+Brannic nodded. “Right. Let’s go.” He turned on his heel and strode through the shimmering blue veil of mana energy, clanking heavily in his bulky armor and vanishing from sight almost immediately.
+
+Kal checked his father’s pistol strapped to his hip. Not that it would do much against an E-rank monster, but it had a reassuring weight to it. Like his father might be watching out for him, somehow. He shook the sentimental thought off and grabbed a fresh backpack from the rack beside them, slinging it onto his shoulder to the sound of shatter-resistant crystalline polymer collection vials clinking inside, grabbed the handle of an all-terrain ‘loot cart,’ and followed the Pale Fang hunters toward the portal.
+
+As he approached that broad circular wall of shimmering blue energy, a hush fell over them, like the world was holding its breath. The soft energy buzz from the portal triggered a sympathetic prickle from the hairs along his forearms, and his heart began to race.
+
+“Never gets old, does it?” Erin whispered, eyes wide as saucers as she stared up at the towering portal—all that stood between them and a fragment of an entirely alien world.
+
+Kal glanced at her and grinned. “Yes, it never does!”
+
+Dr. Rigel Bartholomew Astor III sighed and sat down.
+
+Kal was generally a decent guy, one who seemed to at least understand some of the superficial layers of his work, but it still rankled that Rigel was needed to perform such a trivial operation as wiping a mana-exposure monitor. Someone with his intellectual capacity, his level of education, reduced to acting as a data janitor—a task any half-witted code monkey should be able to do in their sleep. Didn’t anyone know what he was capable of?
+
+He sighed again. How was he going to prove to his family that they had been wrong about him all this time if he didn’t land the right opportunities? Getting disowned and evicted from the Astor manor had been humiliating enough, but his father hadn’t even been interested in listening to reason.
+
+Why… No. He shook his head. Fuck them. Wishing it were different for the millionth time would not change anything. They’re just like all the rest. They don’t understand my talents. They never did. I’m close to a breakthrough, now, I just know it! And then, the world will finally behold my true genius!
+
+He smirked and leaned backward into his chair, relishing a mental picture of their inevitable shocked reactions and professions of awe at his impending reveal.
+
+At that precise moment, every single instrument on his workbench sizzled and began belching smoke, as foot-long crackling sparks of azure energy zapped between them. Alarms began to blare as the more expensive equipment registered damage, but they were cut off immediately as they burst into those all-too-familiar, horrifyingly ephemeral dark flames of mana interference and fizzled out.
+
+“Shit!” Rigel yelped, his eyes snapping up to the portal, but what he saw made the breath catch in his throat. The blue energy disk of the portal was receding into the hyper-reality of the liminal space beyond, like an enormous suction cup slowly being peeled away from glass, and all around the edges, it began to shimmer. A reflective shape, like a mirror bouncing light back from beneath the choppy surface of murky water.
+
+“Mirror portal!” he yelled, his words triggering an eruption of frenzied activity from every kiosk and station in earshot like angry bees spilling from a dropped hive. The shrill chorus of oversaturated exposure monitors suddenly chirping filled the air, and a belated siren began to wail.
+
+Shit, Kal’s in there! I need to text Mira!

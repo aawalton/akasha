@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg004848Altrecation = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-30T12:23:42.387Z",
+  ownProgress: 3036,
+  progressedAt: "2026-10-30T12:23:42.387Z",
 } as const satisfies StoryChapterRead

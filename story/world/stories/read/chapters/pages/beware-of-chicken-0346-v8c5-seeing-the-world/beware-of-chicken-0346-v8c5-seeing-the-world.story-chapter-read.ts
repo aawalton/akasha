@@ -20,5 +20,7 @@ export const bewareOfChicken0346V8c5SeeingTheWorld = {
     },
   ],
   createdAt: "2026-10-30T03:23:10.771Z",
-  updatedAt: "2026-10-30T03:23:10.771Z",
+  updatedAt: "2026-10-30T12:23:42.387Z",
+  ownProgress: 2506,
+  progressedAt: "2026-10-30T12:23:42.387Z",
 } as const satisfies StoryChapterRead
