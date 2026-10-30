@@ -4,7 +4,7 @@ export const spotifyFetching = {
   id: "01a06261-dc1d-700f-a5c9-3bfc9c2b5371",
   type: "page-type/module",
   slug: "spotify-fetching",
-  definition: "the network call carrying every Spotify request",
+  definition: "the network call that carries every Spotify request",
   code: "ts",
   test: "ts",
   decisions: [
@@ -56,5 +56,5 @@ export const spotifyFetching = {
     },
   ],
   createdAt: "2026-09-02T13:49:35.645Z",
-  updatedAt: "2026-09-22T13:57:00.000Z",
+  updatedAt: "2026-10-30T16:20:09.024Z",
 } as const satisfies Module
