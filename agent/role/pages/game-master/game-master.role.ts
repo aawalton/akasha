@@ -5,6 +5,10 @@ export const gameMaster = {
   type: "page-type/role",
   slug: "game-master",
   definition: "an agent that runs a story",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "game master" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "game masters" },
+  ],
   onCall: true,
   parts: ["domain/game-master-checks", "domain/game-master-one-seat"],
   decisions: [
@@ -305,5 +309,5 @@ export const gameMaster = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-30T13:14:19.489Z",
+  updatedAt: "2026-10-30T15:13:34.522Z",
 } as const satisfies Role
