@@ -4,7 +4,7 @@ export const fitnessToday = {
   id: "01a11c11-584b-723d-ab40-7318e1e242c3",
   type: "page-type/command",
   slug: "fitness-today",
-  definition: "the most pounds Alan's day is to move, what he has moved, its focus and its sets",
+  definition: "the training of Alan's day",
   code: "ts",
   test: "ts",
   parts: ["module/rotation", "module/limiting"],
@@ -42,5 +42,5 @@ export const fitnessToday = {
   name: "today",
   arguments: [{ argument: "argument/json" }],
   createdAt: "2026-10-08T15:11:01.194Z",
-  updatedAt: "2026-10-30T17:29:58.029Z",
+  updatedAt: "2026-10-30T17:45:19.205Z",
 } as const satisfies Command
