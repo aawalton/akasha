@@ -4,7 +4,7 @@ export const charisma = {
   id: "01a06841-a142-7b48-90d6-bb5e2c5138dd",
   type: "page-type/attribute",
   slug: "charisma",
-  definition: "what Alan has built by hours spent at ease",
+  definition: "the capacity Alan has from the hours Alan spends with someone in safety",
   pointUnit: "one hour of a stretch whose safety less its difficulty is at least 1",
   code: "ts",
   test: "ts",
@@ -59,5 +59,5 @@ export const charisma = {
     },
   ],
   createdAt: "2026-09-03T17:12:06.722Z",
-  updatedAt: "2026-10-19T15:30:36.222Z",
+  updatedAt: "2026-10-30T14:46:38.580Z",
 } as const satisfies Attribute
