@@ -4,7 +4,7 @@ export const composerBox = {
   id: "01a17efa-321b-7be4-b8c1-d98795f47f0f",
   type: "page-type/module",
   slug: "composer-box",
-  definition: "the rounded card or line a message is written in, with its round send button",
+  definition: "the part of a page a message is written in",
   code: "tsx",
   decisions: [
     {
@@ -24,5 +24,5 @@ export const composerBox = {
     },
   ],
   createdAt: "2026-10-27T20:08:08.475Z",
-  updatedAt: "2026-10-29T14:22:14.000Z",
+  updatedAt: "2026-10-30T14:49:30.469Z",
 } as const satisfies Module
