@@ -34,6 +34,10 @@ export const supervisorSeatDefaults = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A boot that minted its seat looks for no page in history.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stating that failed is said rather than swallowed.",
     },
     {
@@ -42,5 +46,5 @@ export const supervisorSeatDefaults = {
     },
   ],
   createdAt: "2026-09-03T18:10:02.842Z",
-  updatedAt: "2026-10-30T14:41:18.815Z",
+  updatedAt: "2026-10-30T14:50:36.559Z",
 } as const satisfies Module

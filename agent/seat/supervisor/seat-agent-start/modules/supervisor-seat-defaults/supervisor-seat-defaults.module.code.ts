@@ -55,6 +55,7 @@ function seatDefaultsStand(agentId: string, mode: SeatMode): boolean {
 export async function stateSeatDefaults(opts: {
   readonly agentId: string
   readonly mode: SeatMode
+  readonly minted: boolean
 }): Promise<void> {
   if (seatDefaultsStand(opts.agentId, opts.mode)) return
   try {
@@ -73,7 +74,7 @@ export async function stateSeatDefaults(opts: {
       err
     )
   }
-  await takeUpPageInHistory(opts.agentId)
+  if (!opts.minted) await takeUpPageInHistory(opts.agentId)
 }
 
 async function takeUpPageInHistory(agentId: string): Promise<void> {

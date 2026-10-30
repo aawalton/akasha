@@ -77,12 +77,13 @@ export async function bootInteractiveSession(
   const sessionId = inheritedClaude?.sessionId ?? opts.sessionId ?? crypto.randomUUID()
   const launch = opts.headless ? AGENT_LAUNCH_SPAWNED : AGENT_LAUNCH_OPENED
   const mode = opts.headless ? AGENT_MODE_HEADLESS : AGENT_MODE_INTERACTIVE
+  const minted = agentId == null
   if (agentId == null) {
     agentId = await createAgent(selectedAccount, launch)
   }
   agentIdHandle.bind(agentId)
 
-  await stateSeatDefaults({ agentId, mode })
+  await stateSeatDefaults({ agentId, mode, minted })
 
   claimSeatSupervision(agentId)
 
