@@ -4,7 +4,7 @@ export const supervisorDeferredRestart = {
   id: "01a0683e-3dbe-701a-a109-8a13a6084415",
   type: "page-type/module",
   slug: "supervisor-deferred-restart",
-  definition: "a restart held until the session is idle, wedged or past its ceiling",
+  definition: "how code chooses when an agent in a seat is restarted",
   code: "ts",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const supervisorDeferredRestart = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T15:55:20.000Z",
+  updatedAt: "2026-10-30T14:43:45.643Z",
 } as const satisfies Module
