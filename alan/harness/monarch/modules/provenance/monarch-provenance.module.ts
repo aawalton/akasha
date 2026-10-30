@@ -4,7 +4,7 @@ export const monarchProvenance = {
   id: "01a0685f-4ed9-7719-bfc4-bcec345f8656",
   type: "page-type/module",
   slug: "monarch-provenance",
-  definition: "what is written down about who decided a transaction's category",
+  definition: "how code describes how the Monarch category of a Monarch transaction was decided",
   code: "ts",
   test: "ts",
   decisions: [
@@ -43,5 +43,5 @@ export const monarchProvenance = {
     },
   ],
   createdAt: "2026-09-03T17:44:31.705Z",
-  updatedAt: "2026-10-09T19:29:15.990Z",
+  updatedAt: "2026-10-30T15:42:59.023Z",
 } as const satisfies Module
