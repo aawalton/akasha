@@ -86,6 +86,7 @@ export const construction = {
     "construction/be-verb-with-two-joined-adjectives",
     "construction/be-verb-with-three-joined-adjectives",
     "construction/degree-adverb-with-a-determiner-a-noun-run-and-a-clause",
+    "construction/noun-run-with-a-relative-pronoun-and-a-degree-adverb-clause",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -117,5 +118,5 @@ export const construction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T19:39:38.477Z",
-  updatedAt: "2026-10-30T16:57:39.971Z",
+  updatedAt: "2026-10-30T17:01:34.338Z",
 } as const satisfies PageType
