@@ -4,8 +4,7 @@ export const seatReplyNotifying = {
   id: "01a16f84-6063-74ba-b472-de2d763b51bf",
   type: "page-type/module",
   slug: "seat-reply-notifying",
-  definition:
-    "the desktop notification a seat's page shows when a reply ends while the page is away",
+  definition: "the notification the page of a seat shows a person when the seat replies",
   code: "tsx",
   test: "ts",
   decisions: [
@@ -74,5 +73,5 @@ export const seatReplyNotifying = {
     },
   ],
   createdAt: "2026-10-24T20:05:08.835Z",
-  updatedAt: "2026-10-24T22:20:07.188Z",
+  updatedAt: "2026-10-30T14:51:43.766Z",
 } as const satisfies Module
