@@ -49,6 +49,8 @@
 {"propertySlug":"part-of-speech","path":"story/engine/voyage/inworld-tts/inworld-tts.domain.ts","id":"01a17ea3-56ff-7c26-a90e-219e1714a59d"}
 {"propertySlug":"part-of-speech","path":"story/engine/voyage/voyage.domain.ts","id":"01a17e94-d82a-756c-8ab0-01dcc4b79396"}
 {"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
+{"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/free-relative-pronoun-with-a-joined-proper-noun-clause.construction.ts","id":"01a18d78-0943-7136-bbae-9a2a7476f88c"}
+{"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-joined-proper-noun-clause.construction.ts","id":"01a18d78-0943-7ea1-b09b-e132fab9a0d0"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-proper-noun-clause.construction.ts","id":"01a0d484-35d6-7cef-acb4-ad2d3941c10c"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/possessive-proper-noun-owning-a-proper-noun.construction.ts","id":"01a0d571-c630-72ee-ab3f-54b0ffd7ff2b"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/possessive-proper-noun.construction.ts","id":"01a0d484-15a4-77a3-860d-faf2687ae60a"}
