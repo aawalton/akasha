@@ -5,8 +5,8 @@ export const solved = {
   type: "page-type/boolean-property",
   slug: "solved",
   propertySlug: "solved",
-  definition: "whether Alan has answered a puzzle",
+  definition: "whether a puzzle is solved",
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T15:10:34.103Z",
 } as const satisfies BooleanProperty
