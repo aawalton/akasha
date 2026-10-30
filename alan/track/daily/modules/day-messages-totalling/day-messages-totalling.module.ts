@@ -4,7 +4,7 @@ export const dayMessagesTotalling = {
   id: "01a082e7-25cd-7547-840c-7cd58dad9c8c",
   type: "page-type/module",
   slug: "day-messages-totalling",
-  definition: "how many messages each persona was written over a run of days",
+  definition: "how code counts the messages each persona was written over a span of days",
   code: "ts",
   test: "ts",
   decisions: [
@@ -42,5 +42,5 @@ export const dayMessagesTotalling = {
     },
   ],
   createdAt: "2026-09-08T21:23:01.709Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:46:03.107Z",
 } as const satisfies Module
