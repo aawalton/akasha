@@ -4,7 +4,7 @@ export const changeMechanical = {
   id: "01a05df1-e262-72e3-8f24-d6e5e4ed122d",
   type: "page-type/change-kind",
   slug: "change-mechanical",
-  definition: "a change composed by a program",
+  definition: "a change made by a program",
   runsChecks: false,
   writerOwesReading: false,
   readersOweReading: false,
@@ -33,5 +33,5 @@ export const changeMechanical = {
     },
   ],
   createdAt: "2026-09-01T17:08:48.354Z",
-  updatedAt: "2026-09-25T14:05:54.000Z",
+  updatedAt: "2026-10-30T17:05:44.753Z",
 } as const satisfies ChangeKind
