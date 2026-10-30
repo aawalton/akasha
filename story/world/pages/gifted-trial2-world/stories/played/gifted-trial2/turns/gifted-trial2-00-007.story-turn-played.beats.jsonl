@@ -1,7 +1,7 @@
 {"beat":1,"event":"Nala kicks hard at the wall where the man's hand is pressing.","prose":"You gather your legs under you and kick, as hard as you can, at the wall where the hand is pressing.","at":"2026-10-28T09:15:00.000Z","changes":[]}
 {"beat":2,"event":"Her folded leg barely straightens; the kick is a weak flutter that slides off to one side.","prose":"Your leg barely straightens. What comes out is a weak flutter, and it slides off the soft wall to one side, well short of the hand.","continues":true,"changes":[]}
 {"beat":3,"event":"The hand stays still a moment longer, feeling nothing, then lifts away.","prose":"The hand stays where it is a moment longer, perfectly still. Then its weight lifts away.","changes":[]}
-{"beat":4,"event":"The man says something short and flat; the dry-voiced woman answers with a single word.","changes":[]}
+{"beat":4,"event":"The man says something short and flat; the dry-voiced woman answers with a single word.","prose":"The man says something short and flat. The woman answers him with a single word.","continues":true,"changes":[]}
 {"beat":5,"event":"The talk starts up again, lower now, and kerith comes up once more.","changes":[]}
 {"beat":6,"event":"Chairs scrape, footsteps go off, and a door thuds shut; the two leaders are gone.","at":"2026-10-28T09:25:00.000Z","changes":[]}
 {"beat":7,"event":"Her mother is left alone, and her breathing slows.","changes":[]}
