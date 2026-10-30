@@ -5,7 +5,7 @@ export const account = {
   type: "page-type/relation-property",
   slug: "account",
   propertySlug: "account",
-  definition: "a holding's or a transaction's account",
+  definition: "the account of a Monarch holding or a transaction",
   targetPageType: "page-type/monarch-account",
   decisions: [
     {
@@ -15,5 +15,5 @@ export const account = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-22T13:45:29.000Z",
+  updatedAt: "2026-10-30T15:48:58.237Z",
 } as const satisfies RelationProperty
