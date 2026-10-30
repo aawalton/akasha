@@ -5,7 +5,7 @@ export const rejected = {
   type: "page-type/boolean-property",
   slug: "rejected",
   propertySlug: "rejected",
-  definition: "whether the answer came back no",
+  definition: "whether Alan's request was rejected",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -18,5 +18,5 @@ export const rejected = {
   ],
   types: "ts",
   createdAt: "2026-09-15T19:46:09.518Z",
-  updatedAt: "2026-09-15T19:51:44.000Z",
+  updatedAt: "2026-10-30T16:42:23.337Z",
 } as const satisfies BooleanProperty
