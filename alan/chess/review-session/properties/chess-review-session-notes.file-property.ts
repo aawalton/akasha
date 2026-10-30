@@ -5,7 +5,7 @@ export const chessReviewSessionNotes = {
   type: "page-type/file-property",
   slug: "chess-review-session-notes",
   propertySlug: "notes",
-  definition: "what the coach said while stepping through a game",
+  definition: "the words of an agent about a game",
   extensions: ["txt"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const chessReviewSessionNotes = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:46:16.182Z",
-  updatedAt: "2026-09-22T13:54:40.000Z",
+  updatedAt: "2026-10-30T15:13:05.340Z",
 } as const satisfies FileProperty
