@@ -4,7 +4,7 @@ export const testflightDeployScript = {
   id: "01a05cee-e560-7155-aa17-bd611c29ba2d",
   type: "page-type/module",
   slug: "testflight-deploy-script",
-  definition: "the bash script a mac runs to archive an ios app and upload it to testflight",
+  definition: "the shell script a machine runs to send an iOS app to TestFlight",
   code: "ts",
   test: "ts",
   decisions: [
@@ -58,5 +58,5 @@ export const testflightDeployScript = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:47:12.769Z",
 } as const satisfies Module
