@@ -4,8 +4,7 @@ export const worldTreeAssemble = {
   id: "01a0de0c-d6b7-7452-8b01-8636351df5bb",
   type: "page-type/module",
   slug: "world-tree-assemble",
-  definition:
-    "the worlds read out of the pages, each with the stories naming that world beneath it",
+  definition: "how code arranges every story under its world",
   code: "ts",
   test: "ts",
   decisions: [
@@ -39,5 +38,5 @@ export const worldTreeAssemble = {
     },
   ],
   createdAt: "2026-09-26T14:09:38.487Z",
-  updatedAt: "2026-09-26T14:09:48.000Z",
+  updatedAt: "2026-10-30T15:41:18.322Z",
 } as const satisfies Module
