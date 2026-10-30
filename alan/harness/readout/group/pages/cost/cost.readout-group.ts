@@ -4,7 +4,7 @@ export const cost = {
   id: "01a08b9b-fa99-70de-a5e9-aab7a5e793ae",
   type: "page-type/readout-group",
   slug: "cost",
-  definition: "what the block Alan is in costs him for each hour it runs",
+  definition: "the cost of what Alan does in his current hour",
   wireKeyName: "habit",
   servedBy: ["module/cost-stoplight"],
   decisions: [
@@ -18,5 +18,5 @@ export const cost = {
     },
   ],
   createdAt: "2026-09-10T13:57:30.393Z",
-  updatedAt: "2026-09-25T16:48:43.000Z",
+  updatedAt: "2026-10-30T16:01:47.222Z",
 } as const satisfies ReadoutGroup
