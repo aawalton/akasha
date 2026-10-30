@@ -38,6 +38,7 @@
 {"propertySlug":"part-of-speech","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"part-of-speech","path":"agent/seat/supervisor/seat-supervisor.domain.ts","id":"01a08859-4c01-7bf5-9ebc-b39e6b3406fa"}
 {"propertySlug":"part-of-speech","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}
+{"propertySlug":"part-of-speech","path":"agent/settings/agent-settings.page-type.ts","id":"01a0657b-ad3f-7ce8-99f8-04da79375570"}
 {"propertySlug":"part-of-speech","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"part-of-speech","path":"agent/tool/agent-tool.domain.ts","id":"01a0c9c6-00a0-70ba-b6e7-287a93b83d07"}
 {"propertySlug":"part-of-speech","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}

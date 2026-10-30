@@ -5,6 +5,7 @@ export const agentSettings = {
   type: "page-type/page-type",
   slug: "agent-settings",
   definition: "a page with a config Claude Code reads",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "agent settings" }],
   parts: [
     "agent-settings/agents",
     "agent-settings/claude-config",
@@ -58,5 +59,5 @@ export const agentSettings = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:16:39.231Z",
-  updatedAt: "2026-10-30T14:40:41.235Z",
+  updatedAt: "2026-10-30T14:41:40.098Z",
 } as const satisfies PageType
