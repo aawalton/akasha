@@ -4,7 +4,7 @@ export const smsIdentity = {
   id: "01a05b6f-999d-727d-ab08-10b32928a6d8",
   type: "page-type/module",
   slug: "sms-identity",
-  definition: "what becomes of a message, decided from its sending phone",
+  definition: "how code chooses where a text message goes by its sender",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const smsIdentity = {
     },
   ],
   createdAt: "2026-09-01T05:27:15.613Z",
-  updatedAt: "2026-09-22T13:57:00.000Z",
+  updatedAt: "2026-10-30T16:09:00.598Z",
 } as const satisfies Module
