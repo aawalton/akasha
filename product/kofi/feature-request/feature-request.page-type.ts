@@ -4,7 +4,7 @@ export const featureRequest = {
   id: "01a0b79b-96bb-779c-bc1e-65ffdce6bfe0",
   type: "page-type/page-type",
   slug: "feature-request",
-  definition: "what a contributor asks Alan to build, said where anyone can read it",
+  definition: "a public request for a feature a contributor wants from Alan",
   extends: ["page-type/page"],
   decisions: [
     {
@@ -64,5 +64,5 @@ export const featureRequest = {
     },
   ],
   createdAt: "2026-09-19T03:00:22.331Z",
-  updatedAt: "2026-09-21T23:18:09.000Z",
+  updatedAt: "2026-10-30T16:41:18.603Z",
 } as const satisfies PageType
