@@ -5,9 +5,9 @@ export const volumeLimitSeed = {
   type: "page-type/number-property",
   slug: "volume-limit-seed",
   propertySlug: "volume-limit-seed",
-  definition: "the pounds a day's limit opens at before any day has moved it",
+  definition: "the pound limit on the first day that has a pound limit",
   max: null,
   types: "ts",
-  updatedAt: "2026-10-08T16:02:32.012Z",
+  updatedAt: "2026-10-30T16:50:01.921Z",
   createdAt: "2026-09-21T13:40:44.493Z",
 } as const satisfies NumberProperty
