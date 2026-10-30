@@ -7,7 +7,8 @@ export const renameFolderImports = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "every relative path a folder's bodies name spelled from the checkout root instead",
+  definition:
+    "a change that changes each path the code in a folder imports to a path that starts at akasha",
   code: "ts",
   test: "ts",
   decisions: [
@@ -65,5 +66,5 @@ export const renameFolderImports = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-09-11T00:01:26.089Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:04:38.246Z",
 } as const satisfies ChangeAgent
