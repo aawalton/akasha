@@ -4,7 +4,7 @@ export const seatResumeGuard = {
   id: "01a09c3b-ef86-751f-a701-2b8b1f05245f",
   type: "page-type/module",
   slug: "seat-resume-guard",
-  definition: "whether a seat may be restarted while subagents are working under it",
+  definition: "whether a seat that subagents work under is restarted",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const seatResumeGuard = {
     },
   ],
   createdAt: "2026-09-13T19:26:08.774Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:35:17.093Z",
 } as const satisfies Module
