@@ -4,7 +4,7 @@ export const findingTreeAssemble = {
   id: "01a0b733-1334-745d-9d31-186baa85e4a2",
   type: "page-type/module",
   slug: "finding-tree-assemble",
-  definition: "the findings read out of the pages, each hung on the domain that finding names",
+  definition: "the tree of findings by domain",
   code: "ts",
   test: "ts",
   decisions: [
@@ -38,5 +38,5 @@ export const findingTreeAssemble = {
     },
   ],
   createdAt: "2026-09-19T01:06:12.916Z",
-  updatedAt: "2026-09-19T03:17:48.000Z",
+  updatedAt: "2026-10-30T15:45:35.802Z",
 } as const satisfies Module
