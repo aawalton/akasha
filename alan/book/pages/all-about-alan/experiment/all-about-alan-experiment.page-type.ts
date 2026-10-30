@@ -4,7 +4,7 @@ export const allAboutAlanExperiment = {
   id: "01a0657f-a729-7906-84f8-825c8af36228",
   type: "page-type/page-type",
   slug: "all-about-alan-experiment",
-  definition: "a measured trial about Alan",
+  definition: "an experiment that measures something about Alan",
   extends: ["page-type/page"],
   parts: ["file-property/line-set"],
   properties: [
@@ -30,5 +30,5 @@ export const allAboutAlanExperiment = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:20:59.817Z",
-  updatedAt: "2026-09-22T00:41:39.000Z",
+  updatedAt: "2026-10-30T14:56:16.386Z",
 } as const satisfies PageType
