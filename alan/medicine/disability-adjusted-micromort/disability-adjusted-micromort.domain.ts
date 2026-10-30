@@ -4,7 +4,7 @@ export const disabilityAdjustedMicromort = {
   id: "01a183a4-f946-79a4-afdf-acaf51103b71",
   type: "page-type/domain",
   slug: "disability-adjusted-micromort",
-  definition: "a loss of one-millionth of Alan's remaining healthy life expectancy",
+  definition: "a loss of a millionth of Alan's remaining healthy life expectancy",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "disability-adjusted micromort" },
     { partOfSpeech: "part-of-speech/noun", spelling: "disability-adjusted micromorts" },
@@ -26,5 +26,5 @@ export const disabilityAdjustedMicromort = {
     },
   ],
   createdAt: "2026-10-28T17:53:09.445Z",
-  updatedAt: "2026-10-28T19:17:26.137Z",
+  updatedAt: "2026-10-30T16:19:43.453Z",
 } as const satisfies Domain
