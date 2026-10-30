@@ -4,7 +4,7 @@ export const attributePoints = {
   id: "01a14f40-dae9-7d7f-a669-7ab9ba1260c7",
   type: "page-type/computed-property-module",
   slug: "attribute-points",
-  definition: "the points a day earns an attribute out of what that day carries",
+  definition: "how code counts the points an attribute earns on a day",
   code: "ts",
   test: "ts",
   decisions: [
@@ -23,5 +23,5 @@ export const attributePoints = {
     },
   ],
   createdAt: "2026-10-18T13:43:32.840Z",
-  updatedAt: "2026-10-18T13:43:32.840Z",
+  updatedAt: "2026-10-30T14:53:05.498Z",
 } as const satisfies ComputedPropertyModule
