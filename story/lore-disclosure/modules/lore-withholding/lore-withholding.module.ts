@@ -20,6 +20,14 @@ export const loreWithholding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The game master seat of a story stating `one-seat` is no held seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other seat of that story stays held.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every secrets file beside a lore page is withheld whole.",
     },
     {
@@ -96,5 +104,5 @@ export const loreWithholding = {
     },
   ],
   createdAt: "2026-09-24T17:46:03.755Z",
-  updatedAt: "2026-09-29T00:34:41.000Z",
+  updatedAt: "2026-10-30T12:24:28.735Z",
 } as const satisfies Module

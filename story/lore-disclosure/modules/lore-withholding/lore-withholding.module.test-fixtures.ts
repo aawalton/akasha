@@ -148,7 +148,7 @@ function seatsFiled(root: string): undefined {
   ])
 }
 
-function targetsFiled(root: string): undefined {
+function targetsFiled(root: string, oneSeat: boolean): undefined {
   valueAlsoFiled(root, TARGET_TYPE, [
     {
       path: TARGET_AT,
@@ -174,7 +174,12 @@ function targetsFiled(root: string): undefined {
   valueAlsoFiled(root, STORY_TYPE, [
     {
       path: STORY_AT,
-      value: { id: "01a0d600-0000-7000-8000-00000000000b", type: typeOf(STORY_TYPE), slug: "held" },
+      value: {
+        id: "01a0d600-0000-7000-8000-00000000000b",
+        type: typeOf(STORY_TYPE),
+        slug: "held",
+        ...(oneSeat ? { turnSeating: "one-seat" } : {}),
+      },
     },
   ])
 }
@@ -216,8 +221,8 @@ export function toldAlso(root: string): undefined {
   ])
 }
 
-function pagesFiled(root: string, about: string, told: boolean): undefined {
-  targetsFiled(root)
+function pagesFiled(root: string, about: string, told: boolean, oneSeat: boolean): undefined {
+  targetsFiled(root, oneSeat)
   valueAlsoFiled(root, rolePageType.slug, [
     {
       path: ROLE_AT,
@@ -250,10 +255,15 @@ function pagesFiled(root: string, about: string, told: boolean): undefined {
   ])
 }
 
-export function loreWorld(scratch: Scratch, about: string = TARGET, told = false): string {
+export function loreWorld(
+  scratch: Scratch,
+  about: string = TARGET,
+  told = false,
+  oneSeat = false
+): string {
   const root = realpathSync(scratch.rootFor("lore-withholding-"))
   seatsFiled(root)
-  pagesFiled(root, about, told)
+  pagesFiled(root, about, told, oneSeat)
   aboutWritten(root, about, [SEALED])
   referencesWritten(root, ROLE_AT, [
     { propertySlug: role.propertySlug, path: GAME_MASTER_AT, id: GAME_MASTER_SEAT },

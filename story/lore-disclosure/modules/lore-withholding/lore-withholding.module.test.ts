@@ -86,6 +86,27 @@ test("a story recorder is withheld what a game master is", () => {
   expect(withheldFor(root, `${RECORDER_SEAT}--held-sub`)).toEqual(held)
 })
 
+test("a one-seat story's game master seat is withheld nothing, and a subagent under it neither", () => {
+  const root = loreWorld(scratch, undefined, false, true)
+  expect(gameMasterIn(root, GAME_MASTER_SEAT)).toBe(false)
+  expect(gameMasterIn(root, UNDER_GAME_MASTER)).toBe(false)
+  expect(withheldFor(root, GAME_MASTER_SEAT)).toEqual([])
+  expect(withholdingFor(root, GAME_MASTER_SEAT)).toBeNull()
+})
+
+test("a one-seat story lifts the withholding for its game master seat alone", () => {
+  const root = loreWorld(scratch, undefined, false, true)
+  for (const seat of [REVIEWER_SEAT, WRITER_SEAT, RECORDER_SEAT]) {
+    expect(withheldFor(root, seat)).toEqual([LORE_AT, TARGET_AT])
+  }
+  expect(withholdingFor(root, WRITER_SEAT)?.(LORE_AT)).toBe(true)
+})
+
+test("a seat-graph story's game master seat is withheld as before", () => {
+  const root = loreWorld(scratch)
+  expect(withheldFor(root, GAME_MASTER_SEAT)).toEqual([LORE_AT, TARGET_AT])
+})
+
 test("a seat of another role, or no agent at all, is no game master's", () => {
   const root = loreWorld(scratch)
   expect(gameMasterIn(root, OTHER_SEAT)).toBe(false)

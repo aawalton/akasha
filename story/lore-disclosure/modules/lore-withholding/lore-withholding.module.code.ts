@@ -12,6 +12,7 @@ import {
   everyOfType,
   listedAnywhere,
   listedAt,
+  listedById,
   valueByPath,
   valuesByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -31,6 +32,8 @@ import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-prop
 import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
 import { loreKnowers } from "akasha/story/lore/properties/lore-knowers.multi-relation-property.ts"
 import { loreSecrets } from "akasha/story/lore/properties/lore-secrets.file-property.ts"
+import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
+import { oneSeatOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 import { world } from "akasha/story/world/world.page-type.ts"
 
 const SLASH = "/"
@@ -67,10 +70,29 @@ export function seatOf(agentId: string): string {
 
 const HELD_ROLES: readonly string[] = [gameMaster.id, reviewer.id, writer.id, storyRecorder.id]
 
+const ASSIGNMENT = "assignmentSlug"
+
+function storyOfSeat(root: string, seat: string): Value | null {
+  const listed = listedById(root, seat)
+  const value = listed === null ? null : valueByPath(root, listed.path)
+  const assigned = value === null ? null : textAt(value, ASSIGNMENT)
+  const address = assigned === null ? null : addressIn(assigned)
+  if (address?.kind !== "qualified" || address.pageTypeSlug !== storyPlayed.slug) return null
+  const story = listedAt(root, storyPlayed.slug, address.slug)[0]
+  return story === undefined ? null : valueByPath(root, story.path)
+}
+
+function aloneAt(root: string, seat: string): boolean {
+  if (!idsNaming(root, gameMaster.id, role.propertySlug).includes(seat)) return false
+  const story = storyOfSeat(root, seat)
+  return story !== null && oneSeatOf(story)
+}
+
 export function gameMasterIn(root: string, agentId: string | null): boolean {
   if (agentId === null || agentId === "") return false
   const seat = seatOf(agentId)
-  return HELD_ROLES.some((one) => idsNaming(root, one, role.propertySlug).includes(seat))
+  const held = HELD_ROLES.some((one) => idsNaming(root, one, role.propertySlug).includes(seat))
+  return held && !aloneAt(root, seat)
 }
 
 export function pathOf(root: string, about: string): string | null {
