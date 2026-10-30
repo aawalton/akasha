@@ -285,8 +285,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/watching/show/show.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/watching/streaming-service/streaming-service.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/code-editor/data-interface/code-editor-data-interface.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/code-editor/group/code-editor-group.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/code-editor/group/tab/code-editor-group-tab.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/code-editor/terminal/code-editor-terminal.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/code-editor/window/code-editor-window.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/inbox/email-rule/agent/email-rule-agent.page-type.ts","typed":true,"deferred":false}

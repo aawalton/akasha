@@ -12,7 +12,6 @@ export const codeEditor = {
   parts: [
     "domain/code-editor-group-layout",
     "page-type/code-editor-data-interface",
-    "page-type/code-editor-group",
     "page-type/code-editor-terminal",
     "page-type/code-editor-window",
   ],
@@ -208,5 +207,5 @@ export const codeEditor = {
     },
   ],
   createdAt: "2026-09-03T04:33:16.637Z",
-  updatedAt: "2026-09-27T15:34:43.000Z",
+  updatedAt: "2026-10-30T15:52:53.341Z",
 } as const satisfies DesktopApp

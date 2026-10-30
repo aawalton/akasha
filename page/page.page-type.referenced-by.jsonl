@@ -32,8 +32,6 @@
 {"propertySlug":"extends-type","path":"alan/collection/sync/sync.page-type.ts","id":"01a06835-e289-7ad6-8588-3a59938a1140"}
 {"propertySlug":"extends-type","path":"alan/collection/type/collection-type.page-type.ts","id":"01a0680f-6f00-7001-b374-6d2a9f5c6102"}
 {"propertySlug":"extends-type","path":"alan/collection/watching/streaming-service/streaming-service.page-type.ts","id":"01a18432-af59-73c1-8d06-a86e15104dd5"}
-{"propertySlug":"extends-type","path":"alan/harness/code-editor/group/code-editor-group.page-type.ts","id":"01a06826-92e5-7205-a945-38ff0c371a22"}
-{"propertySlug":"extends-type","path":"alan/harness/code-editor/group/tab/code-editor-group-tab.page-type.ts","id":"01a06826-92e5-7347-826a-2896ea71b0ee"}
 {"propertySlug":"extends-type","path":"alan/harness/code-editor/terminal/code-editor-terminal.page-type.ts","id":"01a06826-92e5-7481-a7d4-68af91528f0b"}
 {"propertySlug":"extends-type","path":"alan/harness/code-editor/window/code-editor-window.page-type.ts","id":"01a06826-92e5-77ad-ad85-f1aa8cb5d359"}
 {"propertySlug":"extends-type","path":"alan/harness/inbox/email-rule/email-rule.page-type.ts","id":"01a06828-59d3-7486-8463-b59a1768c717"}
@@ -198,8 +196,6 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/collection/sync/sync.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/collection/type/collection-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/collection/watching/streaming-service/streaming-service.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/code-editor/group/code-editor-group.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/code-editor/group/tab/code-editor-group-tab.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/code-editor/terminal/code-editor-terminal.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/code-editor/window/code-editor-window.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/inbox/email-rule/email-rule.page-type.types.ts","typed":true,"deferred":false}
