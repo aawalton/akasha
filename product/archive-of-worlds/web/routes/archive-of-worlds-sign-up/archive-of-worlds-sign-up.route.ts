@@ -4,7 +4,7 @@ export const archiveOfWorldsSignUp = {
   id: "01a08281-dc96-74ca-a53d-84b7e97dde4a",
   type: "page-type/route",
   slug: "archive-of-worlds-sign-up",
-  definition: "the old way in, kept so an old link still reaches the new one",
+  definition: "the path that sends a browser to the sign-in page",
   code: "ts",
   urlPath: "sign-up",
   decisions: [
@@ -14,5 +14,5 @@ export const archiveOfWorldsSignUp = {
     },
   ],
   createdAt: "2026-09-08T19:32:23.830Z",
-  updatedAt: "2026-09-20T23:26:24.000Z",
+  updatedAt: "2026-10-30T16:25:58.795Z",
 } as const satisfies Route
