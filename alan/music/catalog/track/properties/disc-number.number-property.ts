@@ -5,7 +5,7 @@ export const discNumber = {
   type: "page-type/number-property",
   slug: "disc-number",
   propertySlug: "disc-number",
-  definition: "a track's disc within a release",
+  definition: "the number of a track's disc on a release",
   max: null,
   decisions: [
     {
@@ -19,5 +19,5 @@ export const discNumber = {
   ],
   types: "ts",
   createdAt: "2026-09-15T16:21:55.721Z",
-  updatedAt: "2026-09-22T13:46:30.000Z",
+  updatedAt: "2026-10-30T16:20:05.027Z",
 } as const satisfies NumberProperty
