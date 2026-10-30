@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg004545BloodlineBrawl = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-30T04:25:31.403Z",
+  ownProgress: 3102,
+  progressedAt: "2026-10-30T04:25:31.403Z",
 } as const satisfies StoryChapterRead

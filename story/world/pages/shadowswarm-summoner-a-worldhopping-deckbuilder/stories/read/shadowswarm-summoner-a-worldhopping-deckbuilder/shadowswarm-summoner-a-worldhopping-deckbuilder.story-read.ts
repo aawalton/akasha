@@ -37,7 +37,8 @@ export const shadowswarmSummonerAWorldhoppingDeckbuilder = {
     "Soft Sci-fi",
     "Strong Lead",
   ],
+  publicationStatus: "ongoing",
   readLater: true,
   createdAt: "2026-10-22T18:50:40.459Z",
-  updatedAt: "2026-10-22T18:50:40.459Z",
+  updatedAt: "2026-10-30T04:25:31.403Z",
 } as const satisfies StoryRead
