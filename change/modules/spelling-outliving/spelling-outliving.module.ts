@@ -4,8 +4,7 @@ export const spellingOutliving = {
   id: "01a0c584-8f66-73f6-846d-53c923e47e2a",
   type: "page-type/module",
   slug: "spelling-outliving",
-  definition:
-    "the files an old name is still written in once a change has repointed what it reaches",
+  definition: "how code finds the files that still have an old name",
   code: "ts",
   test: "ts",
   decisions: [
@@ -52,5 +51,5 @@ export const spellingOutliving = {
     },
   ],
   createdAt: "2026-09-21T19:49:54.150Z",
-  updatedAt: "2026-09-22T01:49:23.000Z",
+  updatedAt: "2026-10-30T17:30:58.430Z",
 } as const satisfies Module
