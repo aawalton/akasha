@@ -4,7 +4,7 @@ export const changeRunner = {
   id: "01a077c2-3a15-7c14-8900-ecb0624ff450",
   type: "page-type/page-type",
   slug: "change-runner",
-  definition: "a module running a change named by that change's filed address",
+  definition: "a module that runs the changes of a page type by name",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "change runner" },
     { partOfSpeech: "part-of-speech/noun", spelling: "change runners" },
@@ -63,5 +63,5 @@ export const changeRunner = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-06T17:26:52.693Z",
-  updatedAt: "2026-10-30T17:38:48.262Z",
+  updatedAt: "2026-10-30T17:39:32.676Z",
 } as const satisfies PageType
