@@ -4,7 +4,7 @@ export const alanWebApiIcon = {
   id: "01a0e7e0-d6b6-72c2-b476-10c174fbc73c",
   type: "page-type/route",
   slug: "alan-web-api-icon",
-  definition: "an icon drawn by its name",
+  definition: "the icon a browser asks for",
   code: "ts",
   urlPath: "api/icon/:name",
   decisions: [
@@ -22,5 +22,5 @@ export const alanWebApiIcon = {
     },
   ],
   createdAt: "2026-09-28T11:57:47.062Z",
-  updatedAt: "2026-09-28T11:57:52.000Z",
+  updatedAt: "2026-10-30T16:53:24.829Z",
 } as const satisfies Route
