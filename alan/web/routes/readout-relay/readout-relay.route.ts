@@ -4,7 +4,7 @@ export const readoutRelay = {
   id: "01a08260-1dd1-790e-88fa-55c606f58578",
   type: "page-type/route",
   slug: "readout-relay",
-  definition: "the reading a workstation carries in for a readout",
+  definition: "the number a workstation sends to alanwalton.com for a readout",
   code: "ts",
   urlPath: "api/readout-relay",
   decisions: [
@@ -50,5 +50,5 @@ export const readoutRelay = {
     },
   ],
   createdAt: "2026-09-08T18:55:32.305Z",
-  updatedAt: "2026-09-15T18:34:05.000Z",
+  updatedAt: "2026-10-30T17:02:43.318Z",
 } as const satisfies Route
