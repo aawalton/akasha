@@ -5,7 +5,7 @@ export const wireKeyName = {
   type: "page-type/text-property",
   slug: "wire-key-name",
   propertySlug: "wire-key-name",
-  definition: "the name each reading in a group carries its wire key under",
+  definition: "the name the wire keys of a group are sent under",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const wireKeyName = {
   ],
   types: "ts",
   createdAt: "2026-09-25T16:27:56.252Z",
-  updatedAt: "2026-09-25T16:28:06.000Z",
+  updatedAt: "2026-10-30T16:24:54.662Z",
 } as const satisfies TextProperty
