@@ -5,9 +5,9 @@ export const locations = {
   type: "page-type/multi-relation-property",
   slug: "locations",
   propertySlug: "locations",
-  definition: "the places where the offer is redeemable",
+  definition: "the places where a person can use the offer",
   targetPageType: "page-type/location",
   types: "ts",
   createdAt: "2026-09-03T04:27:14.757Z",
-  updatedAt: "2026-09-22T14:00:15.000Z",
+  updatedAt: "2026-10-30T15:13:09.003Z",
 } as const satisfies MultiRelationProperty
