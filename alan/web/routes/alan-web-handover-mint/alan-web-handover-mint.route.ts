@@ -4,7 +4,7 @@ export const alanWebHandoverMint = {
   id: "01a0bb45-8674-7d4f-86d6-38a518fd593b",
   type: "page-type/route",
   slug: "alan-web-handover-mint",
-  definition: "the code a peripheral's reader is handed to sign in with at that peripheral",
+  definition: "the code alanwalton.com gives a browser for a website that uses a handover",
   code: "ts",
   urlPath: "handover/mint",
   decisions: [
@@ -30,5 +30,5 @@ export const alanWebHandoverMint = {
     },
   ],
   createdAt: "2026-09-19T20:04:50.932Z",
-  updatedAt: "2026-10-24T21:47:25.567Z",
+  updatedAt: "2026-10-30T16:06:21.713Z",
 } as const satisfies Route
