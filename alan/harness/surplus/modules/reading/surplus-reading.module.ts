@@ -9,7 +9,7 @@ export const surplusReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is taken on the workstation with the checkout.",
+      statement: "The number is taken on the workstation with the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -53,11 +53,11 @@ export const surplusReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day that could not be read is a refusal rather than an absent reading.",
+      statement: "A day that could not be read is a refusal rather than an absent number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run of this file takes a reading.",
+      statement: "A run of this file takes a number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -82,13 +82,13 @@ export const surplusReading = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Importing this file takes no reading.",
+      statement: "Importing this file takes no number.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides when a reading is due.",
+      statement: "Nothing here decides when a number is due.",
     },
   ],
   createdAt: "2026-09-04T00:05:05.441Z",
-  updatedAt: "2026-10-30T15:58:53.605Z",
+  updatedAt: "2026-10-30T17:28:57.541Z",
 } as const satisfies Module
