@@ -5,9 +5,9 @@ export const durationMs = {
   type: "page-type/number-property",
   slug: "duration-ms",
   propertySlug: "duration-ms",
-  definition: "how long a pull took, in milliseconds",
+  definition: "the length of a run of a sync in milliseconds",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T17:47:25.668Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:06:16.037Z",
 } as const satisfies NumberProperty
