@@ -5,7 +5,7 @@ export const withinCollections = {
   type: "page-type/computed-property",
   slug: "within-collections",
   propertySlug: "within-collections",
-  definition: "every collection a collection sits inside, however far up",
+  definition: "every collection above a collection",
   holds: "records",
   properties: [
     { pageProperty: "relation-property/within-collection", required: true, many: false },
@@ -29,5 +29,5 @@ export const withinCollections = {
   ],
   types: "ts",
   createdAt: "2026-10-25T20:02:44.020Z",
-  updatedAt: "2026-10-25T20:02:44.020Z",
+  updatedAt: "2026-10-30T15:09:25.728Z",
 } as const satisfies ComputedProperty
