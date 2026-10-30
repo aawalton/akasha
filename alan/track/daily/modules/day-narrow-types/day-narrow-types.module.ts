@@ -4,7 +4,7 @@ export const dayNarrowTypes = {
   id: "01a06972-b45a-7000-a0e1-63aa928df10a",
   type: "page-type/module",
   slug: "day-narrow-types",
-  definition: "the narrow types the daily tracking readers share",
+  definition: "the TypeScript types the modules that read Alan's days use",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const dayNarrowTypes = {
     },
   ],
   createdAt: "2026-09-03T22:45:20.090Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:46:41.604Z",
 } as const satisfies Module
