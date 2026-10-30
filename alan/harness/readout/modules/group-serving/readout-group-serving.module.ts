@@ -20,7 +20,7 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A route no group's page says it serves is answered as no reading.",
+      statement: "A route no group's page says it serves is answered as no number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -68,7 +68,7 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A group whose page states no name for the wire key is answered as no reading.",
+      statement: "A group whose page states no name for the wire key is answered as no number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -81,20 +81,19 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The color answered is the rung the reading reaches on that scale.",
+      statement: "The color answered is the rung the number reaches on that scale.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading answered is the number carried in written as a figure is written.",
+      statement: "The figure answered is the number carried in written as a figure is written.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The reading carried in is the reading taken on the machine that took the reading.",
+      statement: "The number carried in is the number taken on the machine that took the number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Where each reading is read from is handed in rather than settled here.",
+      statement: "Where each number is read from is handed in rather than settled here.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -126,11 +125,11 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout with no reading is answered as a stoplight carrying no figure.",
+      statement: "A readout with no number is answered as a stoplight carrying no figure.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading of zero is a reading rather than an absence.",
+      statement: "A zero is a number rather than an absence.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -149,20 +148,20 @@ export const readoutGroupServing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Whether a reading past either end of its scale draws its figure is read off the group's page.",
+        "Whether a number past either end of its scale shows its figure is read off the group's page.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Whether a figure is drawn past either end is read once for the group rather than once per reading.",
+        "Whether a figure is shown past either end is read once for the group rather than once per number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A group stating nothing has no reading of its draw a figure past either end.",
+      statement: "A group stating nothing shows no figure past either end for any of its numbers.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A group the store withholds is answered as no reading.",
+      statement: "A group the store withholds is answered as no number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -174,24 +173,24 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stoplight with a reading says nothing of how that reading is held.",
+      statement: "A stoplight with a number says nothing of how that number is held.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A stoplight whose reading falls with the clock carries the moment taken and the rate.",
+        "A stoplight whose number falls with the clock carries the moment taken and the rate.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stoplight whose reading falls at nothing an hour carries neither.",
+      statement: "A stoplight whose number falls at nothing an hour carries neither.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No stoplight carries when a reading reaches a rung.",
+      statement: "No stoplight carries when a number reaches a rung.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tile with the rungs works out when a reading reaches a rung.",
+      statement: "A tile with the rungs works out when a number reaches a rung.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -247,7 +246,7 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A group no readout is left in is answered as no reading rather than as empty.",
+      statement: "A group no readout is left in is answered as no number rather than as empty.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -281,7 +280,7 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Relaying one reading and reading the one stoplight back is one helper.",
+      statement: "Relaying one number and reading the one stoplight back is one helper.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -332,15 +331,15 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading a test relays is kept beside the readout's own path in the store.",
+      statement: "A number a test relays is kept beside the readout's own path in the store.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A test drops every reading the store holds without setting that store up again.",
+      statement: "A test drops every number the store holds without setting that store up again.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here takes a reading.",
+      statement: "Nothing here takes a number.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -364,11 +363,11 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The scale is asked for only where a fresh reading is read against that scale.",
+      statement: "The scale is asked for only where a fresh number is read against that scale.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stoplight with no figure says no reading was taken.",
+      statement: "A stoplight with no figure says no number was taken.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -385,5 +384,5 @@ export const readoutGroupServing = {
     },
   ],
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-10-30T16:03:28.368Z",
+  updatedAt: "2026-10-30T17:38:37.552Z",
 } as const satisfies Module
