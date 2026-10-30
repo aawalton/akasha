@@ -4,7 +4,7 @@ export const attributeCharisma = {
   id: "01a06838-950f-7f4c-9f40-60cc35fa63f5",
   type: "page-type/readout",
   slug: "attribute-charisma",
-  definition: "the points Alan earned on a day for the hours with someone that cost him nothing",
+  definition: "the points Alan earns on a day for the hours Alan spends with someone in safety",
   label: "CHA",
   unit: "points",
   scale: "readout-scale/attribute-points",
@@ -41,5 +41,5 @@ export const attributeCharisma = {
   carriedTo: ["router-app/alan-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-09-03T17:02:13.775Z",
-  updatedAt: "2026-10-20T11:10:21.943Z",
+  updatedAt: "2026-10-30T14:50:31.210Z",
 } as const satisfies Readout
