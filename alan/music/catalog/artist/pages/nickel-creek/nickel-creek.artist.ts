@@ -17,10 +17,10 @@ export const nickelCreek = {
       source: "spotify",
       externalId: "3bcLBxvaI7GsBzGp3WHnwQ",
       externalLink: "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ",
-      lastSyncedAt: "2026-09-22",
+      lastSyncedAt: "2026-10-30",
     },
   ],
   title: "Nickel Creek",
   createdAt: "2026-09-03T16:04:08.684Z",
-  updatedAt: "2026-09-22T19:47:33.000Z",
+  updatedAt: "2026-10-30T13:48:59.244Z",
 } as const satisfies Artist
