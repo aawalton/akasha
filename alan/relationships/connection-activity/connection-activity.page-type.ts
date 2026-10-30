@@ -4,7 +4,7 @@ export const connectionActivity = {
   id: "01a0658e-c30d-7f83-bcba-db0766dbd484",
   type: "page-type/page-type",
   slug: "connection-activity",
-  definition: "a way Alan spends time with someone, and what an hour of it is worth to him",
+  definition: "an activity Alan values by the company an hour of the activity gives",
   extends: ["page-type/page"],
   parts: [
     "boolean-property/connection-activity-repeatable",
@@ -173,5 +173,5 @@ export const connectionActivity = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:37:29.997Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:31:19.921Z",
 } as const satisfies PageType
