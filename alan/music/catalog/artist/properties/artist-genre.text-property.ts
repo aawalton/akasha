@@ -5,7 +5,7 @@ export const artistGenre = {
   type: "page-type/text-property",
   slug: "artist-genre",
   propertySlug: "genre",
-  definition: "a genre the provider gives an artist",
+  definition: "a genre MusicBrainz gives an artist",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const artistGenre = {
   ],
   types: "ts",
   createdAt: "2026-09-02T13:15:58.411Z",
-  updatedAt: "2026-09-22T13:46:41.000Z",
+  updatedAt: "2026-10-30T16:18:08.824Z",
 } as const satisfies TextProperty
