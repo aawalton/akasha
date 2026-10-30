@@ -5,10 +5,10 @@ export const lyricsSource = {
   type: "page-type/text-property",
   slug: "lyrics-source",
   propertySlug: "lyrics-source",
-  definition: "the provider of a song's words",
+  definition: "where the words of a song come from",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-02T13:15:58.411Z",
-  updatedAt: "2026-09-22T13:45:29.000Z",
+  updatedAt: "2026-10-30T16:36:30.498Z",
 } as const satisfies TextProperty
