@@ -289,6 +289,12 @@ test("code beside a page is not copied", () => {
   expect(copiesOf([{ path: at, text: FORWARDED }], CLONING)).toEqual([])
 })
 
+test("a module of the world is not copied, since the source's checks reach its code", () => {
+  const at = `${WORLD}mechanics/modules/stepping/test-world-stepping.module.ts`
+  const page = 'export const testWorldStepping = {\n  slug: "test-world-stepping",\n} as const\n'
+  expect(copiesOf([{ path: at, text: page }], CLONING)).toEqual([])
+})
+
 test("a copied check names the source check whose code settles it, in place of its own", () => {
   const at = `${FOLDER}checks/test-story-upkeep.world-check.ts`
   const made = copiesOf([{ path: at, text: CHECK }], CLONING)[0]

@@ -43,7 +43,7 @@ const EXPORT_LINE = /^export const [^\s=]+ = \{$/m
 
 const SETTLED_BY = exportedAs(settledBy.propertySlug)
 
-const CODE_ENDINGS: readonly string[] = [".code.ts", ".test.ts", ".test-fixtures.ts"]
+const CODE_ENDINGS: readonly string[] = [".code.ts", ".test.ts", ".test-fixtures.ts", ".module.ts"]
 
 const GENERATED = /^ {2}(id|createdAt|updatedAt): .*,\n/gm
 
