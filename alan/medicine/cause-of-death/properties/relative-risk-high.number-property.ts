@@ -5,9 +5,9 @@ export const relativeRiskHigh = {
   type: "page-type/number-property",
   slug: "relative-risk-high",
   propertySlug: "relative-risk-high",
-  definition: "the high end of the range a relative risk is estimated in",
+  definition: "the highest estimate of a relative risk",
   max: null,
   types: "ts",
   createdAt: "2026-10-28T18:22:21.854Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:15:31.403Z",
 } as const satisfies NumberProperty
