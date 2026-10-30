@@ -5,9 +5,9 @@ export const cooldownMilliseconds = {
   type: "page-type/number-property",
   slug: "cooldown-milliseconds",
   propertySlug: "cooldown-milliseconds",
-  definition: "how long changes to a file are collected before that file is written again",
+  definition: "how many milliseconds a file waits between writes",
   max: null,
   types: "ts",
   createdAt: "2026-09-05T15:35:07.267Z",
-  updatedAt: "2026-09-22T00:50:00.000Z",
+  updatedAt: "2026-10-30T15:35:05.061Z",
 } as const satisfies NumberProperty
