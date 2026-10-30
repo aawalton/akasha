@@ -5,7 +5,7 @@ export const split = {
   type: "page-type/boolean-property",
   slug: "split",
   propertySlug: "split",
-  definition: "whether a transaction was broken into parts",
+  definition: "whether a Monarch transaction has pieces",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,5 +14,5 @@ export const split = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:12:37.504Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:47:47.776Z",
 } as const satisfies BooleanProperty
