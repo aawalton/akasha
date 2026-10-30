@@ -9,9 +9,6 @@ export const awenOneSeatPolish = {
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
     {
-      statement: "A notice to a one-seat story's seat names the world-builder lore it may read.",
-    },
-    {
       statement: "Address From The Page matches how checks read pages now.",
     },
     {
@@ -24,5 +21,5 @@ export const awenOneSeatPolish = {
     "No turn is taken in gifted-reborn, which is Alan's real save; a clone played by agents tests it.",
   ],
   createdAt: "2026-10-30T18:05:15.271Z",
-  updatedAt: "2026-10-30T18:07:56.787Z",
+  updatedAt: "2026-10-30T18:07:58.035Z",
 } as const satisfies Initiative
