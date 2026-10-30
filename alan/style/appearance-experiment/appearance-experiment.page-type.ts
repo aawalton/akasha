@@ -4,7 +4,11 @@ export const appearanceExperiment = {
   id: "01a06826-794a-7da2-8027-9f143d989e3d",
   type: "page-type/page-type",
   slug: "appearance-experiment",
-  definition: "a thing Alan tried wearing and how it read",
+  definition: "a thing Alan wears to learn how well the thing works for Alan",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "appearance experiment" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "appearance experiments" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "calendar-date-property/appearance-experiment-day",
@@ -59,5 +63,5 @@ export const appearanceExperiment = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:42:27.018Z",
-  updatedAt: "2026-09-22T10:05:53.000Z",
+  updatedAt: "2026-10-30T16:29:43.367Z",
 } as const satisfies PageType
