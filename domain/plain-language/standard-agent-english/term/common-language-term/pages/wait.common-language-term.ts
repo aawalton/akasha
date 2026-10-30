@@ -8,7 +8,8 @@ export const wait = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "wait" },
     { partOfSpeech: "part-of-speech/verb", spelling: "waits" },
+    { partOfSpeech: "part-of-speech/present-participle", spelling: "waiting" },
   ],
   createdAt: "2026-09-24T23:20:27.177Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T14:57:37.615Z",
 } as const satisfies CommonLanguageTerm
