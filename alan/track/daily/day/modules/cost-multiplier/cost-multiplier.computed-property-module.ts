@@ -14,11 +14,12 @@ export const costMultiplier = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch a full level inside the safety level costs nothing.",
+      statement: "A tracked session a full level inside the safety level costs nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch at the safety level costs one hour for each hour that stretch ran.",
+      statement:
+        "A tracked session at the safety level costs one hour for each hour that tracked session ran.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,9 +35,9 @@ export const costMultiplier = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch stating no safety level or no difficulty level costs nothing.",
+      statement: "A tracked session stating no safety level or no difficulty level costs nothing.",
     },
   ],
   createdAt: "2026-09-10T13:48:37.940Z",
-  updatedAt: "2026-10-30T16:34:02.566Z",
+  updatedAt: "2026-10-30T17:45:53.048Z",
 } as const satisfies ComputedPropertyModule
