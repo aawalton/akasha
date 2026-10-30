@@ -4,7 +4,7 @@ export const seededDraw = {
   id: "01a077e7-e766-7e74-bb8e-f95b949f5b32",
   type: "page-type/module",
   slug: "seeded-draw",
-  definition: "items drawn without replacement from a source of draws a seed makes repeatable",
+  definition: "how code chooses random things decided by a number",
   code: "ts",
   test: "ts",
   decisions: [
@@ -43,5 +43,5 @@ export const seededDraw = {
     },
   ],
   createdAt: "2026-09-06T18:08:01.894Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:58:58.752Z",
 } as const satisfies Module
