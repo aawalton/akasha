@@ -5,7 +5,7 @@ export const externalIdentity = {
   type: "page-type/record-property",
   slug: "external-identity",
   propertySlug: "external-identity",
-  definition: "a provider's record of a collection, and what that provider calls it",
+  definition: "a name a collection has outside akasha",
   properties: [
     { pageProperty: "select-property/source", required: true, many: false },
     { pageProperty: "text-property/external-id", required: false, many: false },
@@ -40,5 +40,5 @@ export const externalIdentity = {
   ],
   types: "ts",
   createdAt: "2026-09-13T16:37:47.223Z",
-  updatedAt: "2026-09-22T00:50:00.000Z",
+  updatedAt: "2026-10-30T15:17:07.888Z",
 } as const satisfies RecordProperty
