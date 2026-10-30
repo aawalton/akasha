@@ -4,8 +4,7 @@ export const workstationLoadSampling = {
   id: "01a0a069-f901-796d-ab48-ba63c80717ec",
   type: "page-type/module",
   slug: "workstation-load-sampling",
-  definition:
-    "the workstation's processor and memory readings, taken on a beat and kept beside their readouts",
+  definition: "how code takes processor and memory readings of the workstation for their readouts",
   code: "ts",
   test: "ts",
   decisions: [
@@ -67,5 +66,5 @@ export const workstationLoadSampling = {
     },
   ],
   createdAt: "2026-09-14T14:54:54.721Z",
-  updatedAt: "2026-09-25T17:40:33.000Z",
+  updatedAt: "2026-10-30T16:22:10.813Z",
 } as const satisfies Module
