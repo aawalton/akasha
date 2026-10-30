@@ -4,7 +4,7 @@ export const pagePropertyRenaming = {
   id: "01a09c40-38dc-7202-905e-d8da618765b4",
   type: "page-type/module",
   slug: "page-property-renaming",
-  definition: "the passages in a body where a page property's key or its slug is spelled anew",
+  definition: "how code renames a page property in a body",
   code: "ts",
   test: "ts",
   decisions: [
@@ -113,5 +113,5 @@ export const pagePropertyRenaming = {
     },
   ],
   createdAt: "2026-09-13T19:30:49.692Z",
-  updatedAt: "2026-09-22T10:10:15.000Z",
+  updatedAt: "2026-10-30T17:20:26.163Z",
 } as const satisfies Module
