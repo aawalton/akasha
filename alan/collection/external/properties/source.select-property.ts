@@ -5,7 +5,7 @@ export const source = {
   type: "page-type/select-property",
   slug: "source",
   propertySlug: "source",
-  definition: "the provider from which a collection was imported",
+  definition: "where a collection was imported from",
   values: [
     "kindle",
     "musicbrainz",
@@ -30,5 +30,5 @@ export const source = {
   ],
   types: "ts",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-10-14T18:58:02.294Z",
+  updatedAt: "2026-10-30T15:18:40.629Z",
 } as const satisfies SelectProperty
