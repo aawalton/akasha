@@ -5,7 +5,7 @@ export const monarchUpdatedAt = {
   type: "page-type/instant-property",
   slug: "monarch-updated-at",
   propertySlug: "monarch-updated-at",
-  definition: "the moment Monarch last changed a transaction",
+  definition: "the last time Monarch changes a Monarch transaction",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -15,5 +15,5 @@ export const monarchUpdatedAt = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:12:37.504Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:46:27.122Z",
 } as const satisfies InstantProperty
