@@ -5,7 +5,7 @@ export const seatUsage = {
   type: "page-type/module",
   slug: "seat-usage",
   definition: "the model and the context tokens a seat uses",
-  parts: ["module/seat-usage-keep", "module/seat-usage-show", "module/typing-minutes"],
+  parts: ["module/seat-usage-keep", "module/seat-usage-show"],
   code: "ts",
   test: "ts",
   decisions: [
@@ -36,5 +36,5 @@ export const seatUsage = {
     },
   ],
   createdAt: "2026-09-03T18:15:02.038Z",
-  updatedAt: "2026-10-30T14:39:20.945Z",
+  updatedAt: "2026-10-30T16:02:36.819Z",
 } as const satisfies Module

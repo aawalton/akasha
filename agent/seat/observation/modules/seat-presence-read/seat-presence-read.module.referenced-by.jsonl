@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/fleet/modules/seat-work/seat-work.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/modules/record/seat-record.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/modules/typing-minutes/typing-minutes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/name/modules/agent-name-bind/agent-name-bind.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/name/modules/seat-flex/seat-flex.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/name/modules/seat-rename/seat-rename.module.code.ts","typed":false,"deferred":false}
@@ -32,7 +33,6 @@
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/usage/modules/typing-minutes/typing-minutes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/subagent/modules/pages-sweeping/subagent-pages-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts","typed":false,"deferred":false}
