@@ -5,9 +5,9 @@ export const destinationFee = {
   type: "page-type/number-property",
   slug: "destination-fee",
   propertySlug: "destination-fee",
-  definition: "what the maker charges to ship the car to the dealer, in dollars",
+  definition: "the dollars a maker asks to bring a car trim to a dealer",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:41:13.815Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T15:07:39.484Z",
 } as const satisfies NumberProperty
