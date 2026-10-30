@@ -5,13 +5,13 @@ export const alexWarrenWildchildFinePlaceToDie = {
   type: "page-type/track",
   slug: "alex-warren-wildchild-fine-place-to-die",
   ownLength: 3.1237166666666667,
-  ownProgress: 0,
+  ownProgress: 3.1237166666666667,
   partOfCollections: [
     "release/alex-warren-wildchild",
     "release/alex-warren-fine-place-to-die-live-from-the-o2-london",
     "release/alex-warren-fine-place-to-die",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "FINE PLACE TO DIE",
   trackType: "studio",
@@ -43,5 +43,6 @@ export const alexWarrenWildchildFinePlaceToDie = {
     },
   ],
   createdAt: "2026-10-16T13:47:02.519Z",
-  updatedAt: "2026-10-16T13:47:02.519Z",
+  updatedAt: "2026-10-30T13:00:33.121Z",
+  progressedAt: "2026-10-30T13:00:33.121Z",
 } as const satisfies Track
