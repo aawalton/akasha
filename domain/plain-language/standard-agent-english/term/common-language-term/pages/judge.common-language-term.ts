@@ -8,7 +8,8 @@ export const judge = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "judge" },
     { partOfSpeech: "part-of-speech/verb", spelling: "judges" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "judged" },
   ],
   createdAt: "2026-10-19T17:59:42.088Z",
-  updatedAt: "2026-10-19T17:59:42.088Z",
+  updatedAt: "2026-10-30T17:11:01.510Z",
 } as const satisfies CommonLanguageTerm
