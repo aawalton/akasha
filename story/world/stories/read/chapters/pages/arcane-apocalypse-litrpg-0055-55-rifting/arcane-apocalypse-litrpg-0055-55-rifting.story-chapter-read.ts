@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg005555Rifting = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-30T17:25:09.143Z",
+  ownProgress: 3237,
+  progressedAt: "2026-10-30T17:25:09.143Z",
 } as const satisfies StoryChapterRead

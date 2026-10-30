@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg005858RiftOver = {
     },
   ],
   createdAt: "2026-10-28T16:29:15.598Z",
-  updatedAt: "2026-10-28T16:29:15.598Z",
+  updatedAt: "2026-10-30T17:25:09.143Z",
+  ownProgress: 3090,
+  progressedAt: "2026-10-30T17:25:09.143Z",
 } as const satisfies StoryChapterRead
