@@ -4,7 +4,7 @@ export const categorization = {
   id: "01a05455-7631-7e29-b225-b04ee2ae4890",
   type: "page-type/readout-group",
   slug: "categorization",
-  definition: "how much of the transaction record is still unreviewed",
+  definition: "how many Monarch transactions of a year wait for a person",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -28,5 +28,5 @@ export const categorization = {
     },
   ],
   createdAt: "2026-08-30T20:21:22.097Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:07:12.292Z",
 } as const satisfies ReadoutGroup
