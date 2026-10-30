@@ -5,10 +5,10 @@ export const pointUnit = {
   type: "page-type/text-property",
   slug: "point-unit",
   propertySlug: "point-unit",
-  definition: "what earns a point in an attribute",
+  definition: "what Alan does to earn a point in an attribute",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T17:12:06.675Z",
-  updatedAt: "2026-09-22T00:41:39.000Z",
+  updatedAt: "2026-10-30T14:52:35.260Z",
 } as const satisfies TextProperty
