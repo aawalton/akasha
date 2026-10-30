@@ -15,14 +15,15 @@ export const difficultyLevel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A difficulty level does not carry forward from the prior stretch of time.",
+      statement: "A difficulty level does not carry forward from the prior tracked session.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch matching no session activity is refused rather than rated zero.",
+      statement:
+        "A tracked session matching no session activity is refused rather than rated zero.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-10-30T16:39:40.725Z",
+  updatedAt: "2026-10-30T17:48:19.336Z",
 } as const satisfies TextProperty
