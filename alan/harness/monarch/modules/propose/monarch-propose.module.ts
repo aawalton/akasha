@@ -4,7 +4,7 @@ export const monarchPropose = {
   id: "01a06867-fdff-7c1a-91f8-4e475fdf3880",
   type: "page-type/module",
   slug: "monarch-propose",
-  definition: "the rules run over the whole history and reported on, writing nothing",
+  definition: "how code runs every category rule over every Monarch transaction",
   code: "ts",
   decisions: [
     {
@@ -46,5 +46,5 @@ export const monarchPropose = {
     },
   ],
   createdAt: "2026-09-03T17:54:00.831Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:42:34.545Z",
 } as const satisfies Module
