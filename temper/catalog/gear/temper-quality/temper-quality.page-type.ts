@@ -5,6 +5,10 @@ export const temperQuality = {
   type: "page-type/page-type",
   slug: "temper-quality",
   definition: "the grade of a piece",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "item grade" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "item grades" },
+  ],
   extends: ["page-type/temper-catalog-thing"],
   parts: [
     "change-generator/quality-ids-keeping",
@@ -45,5 +49,5 @@ export const temperQuality = {
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-02T01:53:02.015Z",
-  updatedAt: "2026-09-27T06:59:03.000Z",
+  updatedAt: "2026-10-30T17:00:26.398Z",
 } as const satisfies PageType
