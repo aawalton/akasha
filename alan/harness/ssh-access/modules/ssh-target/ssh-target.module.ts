@@ -4,7 +4,7 @@ export const sshTarget = {
   id: "01a05c2f-0f03-7a96-92f5-8ad7d60942cc",
   type: "page-type/module",
   slug: "ssh-target",
-  definition: "the machine running a script, and that machine's key",
+  definition: "how code reaches a machine through SSH",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const sshTarget = {
     },
   ],
   createdAt: "2026-09-01T08:56:23.043Z",
-  updatedAt: "2026-09-22T13:58:57.000Z",
+  updatedAt: "2026-10-30T16:11:34.713Z",
 } as const satisfies Module
