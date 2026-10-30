@@ -4,7 +4,8 @@ export const monarchCategorizeRecent = {
   id: "01a06867-fdff-7025-8e5f-0b54b3e88265",
   type: "page-type/module",
   slug: "monarch-categorize-recent",
-  definition: "the standing rules run over what arrived lately, without asking",
+  definition:
+    "how code writes the Monarch categories the category rules give new Monarch transactions",
   code: "ts",
   decisions: [
     {
@@ -42,5 +43,5 @@ export const monarchCategorizeRecent = {
     },
   ],
   createdAt: "2026-09-03T17:54:00.831Z",
-  updatedAt: "2026-10-09T19:29:15.990Z",
+  updatedAt: "2026-10-30T15:40:55.303Z",
 } as const satisfies Module
