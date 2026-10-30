@@ -4,7 +4,7 @@ export const topicTree = {
   id: "01a06862-5a9a-7710-b320-dda3a41abf31",
   type: "page-type/module",
   slug: "topic-tree",
-  definition: "the topic pages turned into the tree they name, each with its coverage and status",
+  definition: "how code reads the learn everything topics into a tree",
   code: "ts",
   decisions: [
     {
@@ -51,5 +51,5 @@ export const topicTree = {
     },
   ],
   createdAt: "2026-09-03T17:47:51.322Z",
-  updatedAt: "2026-09-22T13:22:14.000Z",
+  updatedAt: "2026-10-30T14:59:18.845Z",
 } as const satisfies Module
