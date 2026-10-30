@@ -5,7 +5,7 @@ export const readLiveFrom = {
   type: "page-type/relation-property",
   slug: "read-live-from",
   propertySlug: "read-live-from",
-  definition: "the outside service a reading is taken from at the moment it is drawn",
+  definition: "the service a readout is read from when the readout is shown",
   targetPageType: "page-type/domain",
   decisions: [
     {
@@ -15,5 +15,5 @@ export const readLiveFrom = {
   ],
   types: "ts",
   createdAt: "2026-09-03T03:39:45.868Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:09:38.312Z",
 } as const satisfies RelationProperty
