@@ -217,7 +217,11 @@ export const giftedPolishNala = {
       fact: "Her tongue can shape Sa and vo, but not the curl and hiss of reth.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
     },
+    {
+      fact: "Nala fits Sa, vo, reth to the woman's tune, one sound to a note, and hums it in her head.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T19:33:17.937Z",
+  updatedAt: "2026-10-30T19:49:47.829Z",
 } as const satisfies Lore

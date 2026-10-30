@@ -128,7 +128,19 @@ export const giftedPolishWorldWomb = {
       fact: "Since the leader named the demon, the mother hums 'Sa-vo-reth' into her tune now and then.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The woman above hums a slow, rocking tune with no words, the same few lines over and over.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "Partway through her tune, the woman hummed Sa-vo-reth on the notes where Nala had put it.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "A second woman's voice came in at a door, quick and bright, and the humming stopped mid-line.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T19:47:18.779Z",
+  updatedAt: "2026-10-30T19:49:47.829Z",
 } as const satisfies Place
