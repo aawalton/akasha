@@ -4,7 +4,7 @@ export const monarchRuleClauses = {
   id: "01a06865-ecc3-70d0-8b6b-c9ad4a35783b",
   type: "page-type/module",
   slug: "monarch-rule-clauses",
-  definition: "what a rule page states, turned into a checked rule",
+  definition: "how code makes a category rule from its page",
   code: "ts",
   decisions: [
     {
@@ -62,5 +62,5 @@ export const monarchRuleClauses = {
     },
   ],
   createdAt: "2026-09-03T17:51:45.347Z",
-  updatedAt: "2026-10-09T19:29:15.990Z",
+  updatedAt: "2026-10-30T15:44:34.650Z",
 } as const satisfies Module
