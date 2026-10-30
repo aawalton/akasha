@@ -5,9 +5,9 @@ export const fitnessCoachingNoteSortOrder = {
   type: "page-type/number-property",
   slug: "fitness-coaching-note-sort-order",
   propertySlug: "sort-order",
-  definition: "where a note sits when they are shown as a list",
+  definition: "where a note sits in a list of notes",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:15:54.368Z",
-  updatedAt: "2026-09-22T13:24:12.000Z",
+  updatedAt: "2026-10-30T16:54:37.330Z",
 } as const satisfies NumberProperty
