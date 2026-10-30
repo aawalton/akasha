@@ -4,7 +4,7 @@ export const serviceHash = {
   id: "01a0685d-4b35-7005-a6aa-76a9e30cc3fe",
   type: "page-type/module",
   slug: "service-hash",
-  definition: "one hash folding a service's source files together with what it is told to run",
+  definition: "one hash folding a service's code files together with what it is told to run",
   code: "ts",
   decisions: [
     {
@@ -14,5 +14,5 @@ export const serviceHash = {
     },
   ],
   createdAt: "2026-09-03T17:42:19.701Z",
-  updatedAt: "2026-09-22T10:25:02.000Z",
+  updatedAt: "2026-10-30T16:09:33.965Z",
 } as const satisfies Module
