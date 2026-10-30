@@ -4,7 +4,7 @@ export const activeCalories = {
   id: "01a05bc7-9129-7009-bcbc-7874a1897c8b",
   type: "page-type/module",
   slug: "active-calories",
-  definition: "the calories Alan burned over a day counted from when that day opened",
+  definition: "the calories Alan spends over a day from when that day opens",
   code: "ts",
   decisions: [
     {
@@ -38,5 +38,5 @@ export const activeCalories = {
     },
   ],
   createdAt: "2026-09-01T07:03:20.617Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:33:27.374Z",
 } as const satisfies Module
