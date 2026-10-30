@@ -7,9 +7,9 @@ export const theGobletSquatBurnoutWasNeverLegLimited20260624 = {
   title: "The goblet squat burnout was never leg-limited",
   active: true,
   focusTags: ["legs"],
-  kind: "bout-observation",
+  kind: "workout-observation",
   date: "2026-06-24",
   says: "txt",
   createdAt: "2026-09-08T14:41:44.872Z",
-  updatedAt: "2026-09-15T16:57:52.000Z",
+  updatedAt: "2026-10-30T17:38:02.837Z",
 } as const satisfies FitnessCoachingNote

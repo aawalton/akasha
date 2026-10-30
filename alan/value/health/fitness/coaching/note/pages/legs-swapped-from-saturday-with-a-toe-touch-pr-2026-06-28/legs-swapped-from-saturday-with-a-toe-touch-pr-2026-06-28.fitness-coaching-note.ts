@@ -7,9 +7,9 @@ export const legsSwappedFromSaturdayWithAToeTouchPr20260628 = {
   title: "Legs swapped from Saturday, with a toe-touch PR",
   active: true,
   focusTags: ["legs"],
-  kind: "bout-observation",
+  kind: "workout-observation",
   date: "2026-06-28",
   says: "txt",
   createdAt: "2026-09-08T14:40:43.552Z",
-  updatedAt: "2026-09-15T16:57:52.000Z",
+  updatedAt: "2026-10-30T17:38:02.837Z",
 } as const satisfies FitnessCoachingNote

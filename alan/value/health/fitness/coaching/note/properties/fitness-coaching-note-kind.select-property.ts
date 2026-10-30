@@ -12,9 +12,9 @@ export const fitnessCoachingNoteKind = {
     "equipment-ceiling",
     "injury-watch",
     "ef-accommodation",
-    "bout-observation",
+    "workout-observation",
   ],
   types: "ts",
   createdAt: "2026-09-03T04:15:54.368Z",
-  updatedAt: "2026-10-30T16:54:11.476Z",
+  updatedAt: "2026-10-30T17:38:02.837Z",
 } as const satisfies SelectProperty

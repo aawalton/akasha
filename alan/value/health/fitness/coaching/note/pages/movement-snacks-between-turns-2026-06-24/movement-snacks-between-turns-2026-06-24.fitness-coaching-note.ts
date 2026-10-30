@@ -7,9 +7,9 @@ export const movementSnacksBetweenTurns20260624 = {
   title: "Movement snacks between turns",
   active: true,
   focusTags: ["legs", "conditioning"],
-  kind: "bout-observation",
+  kind: "workout-observation",
   date: "2026-06-24",
   says: "txt",
   createdAt: "2026-09-08T14:42:09.963Z",
-  updatedAt: "2026-09-15T16:57:52.000Z",
+  updatedAt: "2026-10-30T17:38:02.837Z",
 } as const satisfies FitnessCoachingNote

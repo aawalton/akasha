@@ -7,9 +7,9 @@ export const ankleDorsiflexionIsTheSquatLimiter20260725 = {
   title: "Ankle dorsiflexion is the squat limiter",
   active: true,
   focusTags: ["legs"],
-  kind: "bout-observation",
+  kind: "workout-observation",
   date: "2026-07-25",
   says: "txt",
   createdAt: "2026-09-08T14:40:16.515Z",
-  updatedAt: "2026-09-15T16:57:52.000Z",
+  updatedAt: "2026-10-30T17:38:02.837Z",
 } as const satisfies FitnessCoachingNote

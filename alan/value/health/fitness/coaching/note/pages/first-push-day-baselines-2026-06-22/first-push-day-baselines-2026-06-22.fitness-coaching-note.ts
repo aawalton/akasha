@@ -7,9 +7,9 @@ export const firstPushDayBaselines20260622 = {
   title: "First push day — baselines",
   active: true,
   focusTags: ["push"],
-  kind: "bout-observation",
+  kind: "workout-observation",
   date: "2026-06-22",
   says: "txt",
   createdAt: "2026-09-08T14:39:21.196Z",
-  updatedAt: "2026-09-15T16:57:52.000Z",
+  updatedAt: "2026-10-30T17:38:02.837Z",
 } as const satisfies FitnessCoachingNote
