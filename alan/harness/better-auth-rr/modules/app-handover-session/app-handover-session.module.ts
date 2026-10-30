@@ -4,7 +4,7 @@ export const appHandoverSession = {
   id: "01a0bc7d-2f57-79b3-8aa0-f4bb7ff7c9d3",
   type: "page-type/module",
   slug: "app-handover-session",
-  definition: "the site's own Better Auth session traded for a code from the app",
+  definition: "how a person signs in from a phone with a code",
   code: "ts",
   decisions: [
     {
@@ -70,5 +70,5 @@ export const appHandoverSession = {
     },
   ],
   createdAt: "2026-09-20T01:45:15.863Z",
-  updatedAt: "2026-10-24T21:46:01.700Z",
+  updatedAt: "2026-10-30T15:37:33.346Z",
 } as const satisfies Module
