@@ -2964,6 +2964,7 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/conjunction.part-of-speech.ts","id":"01a0c60f-289f-7bbf-be7b-ae0e872a03e0"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/degree-adverb.part-of-speech.ts","id":"01a0d5ce-a903-71e5-a015-28ac1c18d8ad"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts","id":"01a0c582-f267-748c-986a-58d52a3bbf3b"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/do-verb.part-of-speech.ts","id":"01a18d81-a3b4-7cbd-8754-3f9da4c914ea"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/free-relative-pronoun.part-of-speech.ts","id":"01a0c68c-8245-7617-b010-6cf185341ce2"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/have-verb.part-of-speech.ts","id":"01a18d70-5d18-7a3b-a423-8f96129ed01f"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/infinitive-marker.part-of-speech.ts","id":"01a0d57c-f7ff-765a-bd96-6a5fc51221c6"}

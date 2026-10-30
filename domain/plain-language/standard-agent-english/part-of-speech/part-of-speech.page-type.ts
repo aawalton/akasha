@@ -30,6 +30,7 @@ export const partOfSpeech = {
     "part-of-speech/time-conjunction",
     "part-of-speech/have-verb",
     "part-of-speech/relative-determiner",
+    "part-of-speech/do-verb",
   ],
   extends: ["page-type/domain"],
   decisions: [
@@ -45,5 +46,5 @@ export const partOfSpeech = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T19:15:19.578Z",
-  updatedAt: "2026-10-30T15:46:53.072Z",
+  updatedAt: "2026-10-30T15:50:45.938Z",
 } as const satisfies PageType
