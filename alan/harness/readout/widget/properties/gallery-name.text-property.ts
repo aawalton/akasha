@@ -5,10 +5,10 @@ export const galleryName = {
   type: "page-type/text-property",
   slug: "gallery-name",
   propertySlug: "gallery-name",
-  definition: "the name a widget answers to in the widget gallery",
+  definition: "the name a readout widget has in the widget gallery",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-08-30T21:07:57.195Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T16:02:55.448Z",
 } as const satisfies TextProperty
