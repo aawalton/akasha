@@ -42,6 +42,14 @@ export const storyCloning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A whole name is one an address ends in or a value states whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A word of prose spelled as a slug is left as written, so no text is lengthened.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The source world's slug becomes the clone world's in the same way.",
     },
     {
@@ -99,5 +107,5 @@ export const storyCloning = {
     },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-30T13:47:00.419Z",
+  updatedAt: "2026-10-30T15:22:50.905Z",
 } as const satisfies Module

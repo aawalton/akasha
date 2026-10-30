@@ -157,6 +157,23 @@ function alternativeOf(form: Form, renames: Renames): string {
   return `(?<!${form.before})(${named.join("|")})(?!${form.after})`
 }
 
+const NAMES_A_PAGE = /^(?:-[A-Za-z0-9]|[./][a-z])/
+
+const BEGINS_A_NAME = /^[A-Z]/
+
+const ADDRESSED = "/"
+
+const QUOTED = '"'
+
+function isAName(form: number, text: string, start: number, end: number): boolean {
+  const after = text.slice(end, end + 2)
+  if (form > 0) return BEGINS_A_NAME.test(after)
+  const before = text.slice(Math.max(0, start - 1), start)
+  if (before === ADDRESSED) return true
+  if (before === QUOTED && after.startsWith(QUOTED)) return true
+  return NAMES_A_PAGE.test(after)
+}
+
 export function slugsRenamed(text: string, renames: Renames): string {
   const pattern = new RegExp(FORMS.map((one) => alternativeOf(one, renames)).join("|"), "g")
   const targets = FORMS.map(
@@ -165,6 +182,8 @@ export function slugsRenamed(text: string, renames: Renames): string {
   )
   return text.replace(pattern, (held: string, ...groups: unknown[]) => {
     const at = groups.findIndex((one) => typeof one === "string")
+    const start = groups.at(-2)
+    if (typeof start !== "number" || !isAName(at, text, start, start + held.length)) return held
     return targets[at]?.get(held) ?? held
   })
 }

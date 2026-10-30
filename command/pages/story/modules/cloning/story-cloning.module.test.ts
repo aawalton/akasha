@@ -195,6 +195,17 @@ test("a clone named for its world is renamed once, its story and its world toget
   )
 })
 
+test("a word of prose spelled as a slug is left as written, so no text is lengthened", () => {
+  const story = { ...STORY_FACTS, from: "gifted-reborn", to: "gifted-trial", world: "gifted" }
+  const prose =
+    'fact: "Gifted, which Talented evolves into, speeds every Path." She was gifted. He was gifted a sword.'
+  expect(renamedFor(prose, story)).toBe(prose)
+  expect(renamedFor('title: "Gifted: Reborn",', story)).toBe('title: "Gifted: Reborn",')
+  expect(renamedFor('slug: "gifted", externalId: "gifted-reborn"', story)).toBe(
+    'slug: "gifted-trial-world", externalId: "gifted-trial"'
+  )
+})
+
 test("a cloned file sits under the clone's folder under its renamed name", () => {
   const at = `${FOLDER}mechanics/points/pages/test-story-player-attribute.test-story-points.ts`
   expect(clonedPath(at, WORLD, STORY_FACTS)).toBe(
