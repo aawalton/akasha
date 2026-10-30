@@ -5,8 +5,8 @@ export const endedAt = {
   type: "page-type/instant-property",
   slug: "ended-at",
   propertySlug: "ended-at",
-  definition: "when a stretch of time ended",
+  definition: "the instant a span of time ends",
   types: "ts",
   createdAt: "2026-09-02T07:17:38.448Z",
-  updatedAt: "2026-09-24T19:52:42.000Z",
+  updatedAt: "2026-10-30T16:36:32.176Z",
 } as const satisfies InstantProperty
