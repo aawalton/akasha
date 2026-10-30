@@ -5,8 +5,8 @@ export const firstListen = {
   type: "page-type/boolean-property",
   slug: "first-listen",
   propertySlug: "first-listen",
-  definition: "whether a play was the first play of its track",
+  definition: "whether Alan hears a track for the first time",
   types: "ts",
   createdAt: "2026-09-02T13:12:49.935Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T16:38:49.424Z",
 } as const satisfies BooleanProperty
