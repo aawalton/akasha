@@ -4,7 +4,7 @@ export const songWords = {
   id: "01a0bad8-4f1e-7c00-9d31-5a2f0b7e61c4",
   type: "page-type/module",
   slug: "song-words",
-  definition: "the words of a song read from LRCLIB and landed in files beside the song",
+  definition: "how code writes the words of a song from LRCLIB into files of the song",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const songWords = {
     },
   ],
   createdAt: "2026-09-19T18:05:33.342Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T16:30:46.111Z",
 } as const satisfies Module
