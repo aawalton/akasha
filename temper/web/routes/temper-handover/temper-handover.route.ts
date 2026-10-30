@@ -4,7 +4,7 @@ export const temperHandover = {
   id: "01a0bb8f-d316-75c8-b3d6-0f9e6134e682",
   type: "page-type/route",
   slug: "temper-handover",
-  definition: "where a player arrives from alanwalton.com carrying a code",
+  definition: "the path a browser opens with a code from alanwalton.com",
   code: "ts",
   urlPath: "handover",
   decisions: [
@@ -23,5 +23,5 @@ export const temperHandover = {
     },
   ],
   createdAt: "2026-09-19T21:26:00.214Z",
-  updatedAt: "2026-09-19T21:31:00.000Z",
+  updatedAt: "2026-10-30T15:54:31.792Z",
 } as const satisfies Route
