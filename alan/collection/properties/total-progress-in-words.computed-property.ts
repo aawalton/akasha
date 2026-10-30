@@ -5,10 +5,10 @@ export const totalProgressInWords = {
   type: "page-type/computed-property",
   slug: "total-progress-in-words",
   propertySlug: "total-progress-in-words",
-  definition: "how much of the collection and everything it holds is done",
+  definition: "the length in words of a collection and its parts that is done",
   holds: "number",
   code: "ts",
   types: "ts",
   createdAt: "2026-09-05T15:31:05.702Z",
-  updatedAt: "2026-09-22T13:44:11.000Z",
+  updatedAt: "2026-10-30T15:03:18.951Z",
 } as const satisfies ComputedProperty
