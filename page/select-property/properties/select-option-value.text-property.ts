@@ -5,10 +5,10 @@ export const selectOptionValue = {
   type: "page-type/text-property",
   slug: "select-option-value",
   propertySlug: "value",
-  definition: "a color line's value",
+  definition: "the value a color is given to",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-21T18:19:51.931Z",
-  updatedAt: "2026-09-22T13:48:22.000Z",
+  updatedAt: "2026-10-30T16:48:52.246Z",
 } as const satisfies TextProperty
