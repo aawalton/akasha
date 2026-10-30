@@ -5,7 +5,7 @@ export const ownProgressInWords = {
   type: "page-type/computed-property",
   slug: "own-progress-in-words",
   propertySlug: "own-progress-in-words",
-  definition: "how much of the collection itself has been worked through, counted in words",
+  definition: "the progress through a collection without its parts counted in words",
   holds: "number",
   code: "ts",
   decisions: [
@@ -16,5 +16,5 @@ export const ownProgressInWords = {
   ],
   types: "ts",
   createdAt: "2026-09-05T15:31:05.701Z",
-  updatedAt: "2026-10-29T19:19:47.279Z",
+  updatedAt: "2026-10-30T15:09:51.195Z",
 } as const satisfies ComputedProperty
