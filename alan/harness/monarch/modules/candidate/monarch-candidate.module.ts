@@ -4,8 +4,7 @@ export const monarchCandidate = {
   id: "01a06866-06f1-7e0b-a8bd-0233e7915dee",
   type: "page-type/module",
   slug: "monarch-candidate",
-  definition:
-    "a rule stated on the command line rather than on a page, checked as a page's would be",
+  definition: "how code reads a category rule from a command",
   code: "ts",
   decisions: [
     {
@@ -35,5 +34,5 @@ export const monarchCandidate = {
     },
   ],
   createdAt: "2026-09-03T17:51:52.049Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:40:25.661Z",
 } as const satisfies Module
