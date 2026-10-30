@@ -4,7 +4,7 @@ export const crunchyrollReading = {
   id: "01a18818-57d5-7a83-b290-e610ce39c59a",
   type: "page-type/module",
   slug: "crunchyroll-reading",
-  definition: "the show, the season and the episode a Crunchyroll page states",
+  definition: "how code reads the episode or the movie Crunchyroll plays in a browser",
   code: "ts",
   test: "ts",
   runsInABrowser: true,
@@ -36,5 +36,5 @@ export const crunchyrollReading = {
     },
   ],
   createdAt: "2026-10-29T14:37:39.156Z",
-  updatedAt: "2026-10-29T14:57:03.272Z",
+  updatedAt: "2026-10-30T16:29:38.028Z",
 } as const satisfies Module
