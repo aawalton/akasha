@@ -4,7 +4,7 @@ export const alanWebApiSeatRegret = {
   id: "01a16ff7-b672-7cbe-9dd9-7cf24d4bcf07",
   type: "page-type/route",
   slug: "alan-web-api-seat-regret",
-  definition: "a message the signed-in person takes back from a seat while the seat replies to it",
+  definition: "a message a person cancels while the seat replies to the message",
   code: "ts",
   urlPath: "api/seat/regret",
   decisions: [
@@ -48,5 +48,5 @@ export const alanWebApiSeatRegret = {
     },
   ],
   createdAt: "2026-10-24T22:11:07.505Z",
-  updatedAt: "2026-10-24T23:22:18.683Z",
+  updatedAt: "2026-10-30T17:01:29.756Z",
 } as const satisfies Route
