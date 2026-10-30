@@ -56,7 +56,7 @@ export const trackFood = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A time said with no date is read on today.",
+      statement: "A time said with no date is read on the Mountain calendar date it is now.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -113,5 +113,5 @@ export const trackFood = {
     { argument: "argument/time" },
   ],
   createdAt: "2026-09-03T16:10:24.907Z",
-  updatedAt: "2026-10-09T12:12:25.038Z",
+  updatedAt: "2026-10-30T11:46:09.820Z",
 } as const satisfies Command
