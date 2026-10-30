@@ -4,7 +4,7 @@ export const monarchAmazonMatch = {
   id: "01a06865-ecc2-705a-8dad-0a43e80e596b",
   type: "page-type/module",
   slug: "monarch-amazon-match",
-  definition: "an Amazon order or refund matched against its own card movement",
+  definition: "how code finds the Monarch transaction of an Amazon purchase or refund",
   code: "ts",
   decisions: [
     {
@@ -66,5 +66,5 @@ export const monarchAmazonMatch = {
     },
   ],
   createdAt: "2026-09-03T17:51:45.346Z",
-  updatedAt: "2026-09-22T13:54:48.000Z",
+  updatedAt: "2026-10-30T15:44:45.594Z",
 } as const satisfies Module
