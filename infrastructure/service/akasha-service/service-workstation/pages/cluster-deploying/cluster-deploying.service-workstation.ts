@@ -4,7 +4,8 @@ export const clusterDeploying = {
   id: "01a095f5-2a3a-7cc4-a6d7-44beac4bc49a",
   type: "page-type/service-workstation",
   slug: "cluster-deploying",
-  definition: "the service putting the cluster kind up once a commit changes the kind's source",
+  definition:
+    "the service putting a cluster service up once a commit changes what that service is built from",
   enabled: true,
   systemd: {
     schedule: "*:*:00",
@@ -28,5 +29,5 @@ export const clusterDeploying = {
     },
   ],
   createdAt: "2026-09-12T14:11:07.450Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:13:00.822Z",
 } as const satisfies ServiceWorkstation
