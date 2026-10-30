@@ -7,7 +7,7 @@ export const addPropertyRecord = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "a record put into a page property, judged by the checks a landing runs",
+  definition: "a change that adds a value to a record property of a page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -49,5 +49,5 @@ export const addPropertyRecord = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-08T16:42:30.128Z",
-  updatedAt: "2026-09-22T10:07:43.000Z",
+  updatedAt: "2026-10-30T17:09:33.020Z",
 } as const satisfies ChangeAgent
