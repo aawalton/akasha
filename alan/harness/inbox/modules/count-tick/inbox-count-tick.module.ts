@@ -4,7 +4,7 @@ export const inboxCountTick = {
   id: "01a069b6-bb6b-78fc-af80-801cc2257f72",
   type: "page-type/module",
   slug: "inbox-count-tick",
-  definition: "one poll of every inbox and one write of what it found, and then the run is over",
+  definition: "a run that writes how many things wait in each inbox",
   code: "ts",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const inboxCountTick = {
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-09-22T10:25:02.000Z",
+  updatedAt: "2026-10-30T15:30:30.994Z",
 } as const satisfies Module
