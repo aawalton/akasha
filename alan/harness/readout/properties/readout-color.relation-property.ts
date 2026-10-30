@@ -10,7 +10,7 @@ export const readoutColor = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout stating a color takes that color whatever the reading is.",
+      statement: "A readout stating a color takes that color whatever the number is.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -19,5 +19,5 @@ export const readoutColor = {
   ],
   types: "ts",
   createdAt: "2026-09-22T22:11:37.202Z",
-  updatedAt: "2026-10-30T16:10:54.116Z",
+  updatedAt: "2026-10-30T17:22:52.993Z",
 } as const satisfies RelationProperty
