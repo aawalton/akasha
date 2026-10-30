@@ -4,7 +4,8 @@ export const surplusFallNotifier = {
   id: "01a06829-0194-7754-b17a-14e66866bd98",
   type: "page-type/service-workstation",
   slug: "surplus-fall-notifier",
-  definition: "the service saying when the day has spent Alan's night down a rung",
+  definition:
+    "the service that writes a notification when today's surplus reaches a new tier under today's sleep",
   enabled: true,
   systemd: {
     restartDelaySeconds: 30,
@@ -57,5 +58,5 @@ export const surplusFallNotifier = {
     },
   ],
   createdAt: "2026-09-03T16:45:12.980Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:00:38.843Z",
 } as const satisfies ServiceWorkstation
