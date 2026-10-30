@@ -5,9 +5,9 @@ export const topSpeedMph = {
   type: "page-type/number-property",
   slug: "top-speed-mph",
   propertySlug: "top-speed-mph",
-  definition: "the fastest the car goes, in miles an hour",
+  definition: "the highest speed of the car in miles per hour",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:36.619Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:10:26.053Z",
 } as const satisfies NumberProperty
