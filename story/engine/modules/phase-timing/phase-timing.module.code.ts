@@ -109,7 +109,16 @@ function latestEndOf(
     const ended = msOf(one.endedAt)
     if (found === null || ended > found) found = ended
   }
-  return found ?? madeAt
+  return found ?? rememberedSince(rows, madeAt)
+}
+
+function rememberedSince(rows: readonly PhaseRow[], madeAt: number | null): number | null {
+  if (madeAt === null) return null
+  let found = madeAt
+  for (const one of rows) {
+    if (rememberedIn(one)) found = Math.max(found, msOf(one.endedAt))
+  }
+  return found
 }
 
 export function startedAtOf(

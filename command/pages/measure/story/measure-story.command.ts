@@ -56,6 +56,11 @@ export const measureStory = {
         "That memory counts in no phase and not in the whole, so the whole is the time to player.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Nor does it count in the turn made while it was open, which starts once that memory lands.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A run writes no value the commit has.",
     },
@@ -67,5 +72,5 @@ export const measureStory = {
   name: "story",
   arguments: [{ argument: "argument/run-window" }],
   createdAt: "2026-09-28T18:32:12.613Z",
-  updatedAt: "2026-10-30T14:37:53.939Z",
+  updatedAt: "2026-10-30T16:00:42.791Z",
 } as const satisfies Command

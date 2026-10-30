@@ -247,6 +247,20 @@ test("a one-seat turn's memory, handed in at player, is timed from the turn reac
   ])
 })
 
+test("a turn made while the turn before still owed its memory is timed from that memory landing", () => {
+  const root = scratch.rootFor("phase-timing-")
+  mkdirSync(join(root, "story/the-saga"), { recursive: true })
+  phaseEnded(root, PAGE, { ...ended("beats", 60, "saga-001"), step: "review style" }, () => null)
+  phaseEnded(root, PAGE, { ...ended(PLAYER, 100, "saga-001"), step: "memory" }, () => null)
+  const made = T0 + 80 * SECOND
+  const lore = { ...ended("world-builder", 130, "saga-002", made), step: "lore" }
+  const wrote = phaseEnded(root, PAGE, lore, () => null)
+  expect(wrote.map((one) => [one.runId, one.phase, one.ranAt, one.wallMs, one.stepMs])).toEqual([
+    ["saga-001", PLAYER, at(60), 20 * SECOND, undefined],
+    ["saga-002", "world-builder", at(100), 30 * SECOND, 30 * SECOND],
+  ])
+})
+
 const REMEMBERED = [
   ...ONE_SEAT,
   taleRow(row("tale-001", "beats", 100, 120), "review continuity", 20),

@@ -83,6 +83,11 @@ export const phaseTiming = {
       statement: "That row is drawn on a line of its own after the whole, under no phase.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run made while the turn before still owes its memory starts once that memory lands.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A phase that cannot be written refuses nothing it ends.",
     },
@@ -114,5 +119,5 @@ export const phaseTiming = {
     },
   ],
   createdAt: "2026-09-28T18:27:12.495Z",
-  updatedAt: "2026-10-30T14:37:53.939Z",
+  updatedAt: "2026-10-30T16:00:42.791Z",
 } as const satisfies Module
