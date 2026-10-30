@@ -4,7 +4,7 @@ export const seatRegret = {
   id: "01a17014-e13e-7bf5-bb99-5e7f8eb1cf86",
   type: "page-type/module",
   slug: "seat-regret",
-  definition: "the part of a seat's page that takes back a message the seat is replying to",
+  definition: "the part of a seat's page that cancels a message a person sends to the seat",
   code: "tsx",
   decisions: [
     {
@@ -53,5 +53,5 @@ export const seatRegret = {
     },
   ],
   createdAt: "2026-10-24T22:42:59.005Z",
-  updatedAt: "2026-10-24T23:27:07.234Z",
+  updatedAt: "2026-10-30T14:39:02.138Z",
 } as const satisfies Module
