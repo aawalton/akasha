@@ -346,6 +346,17 @@ export function phasesOrdered(rows: readonly PhaseRow[]): readonly string[] {
   return offsets.sort((a, b) => a[1] - b[1] || a[0].localeCompare(b[0])).map(([phase]) => phase)
 }
 
+function stepLinesOf(held: readonly PhaseRow[]): (readonly string[])[] {
+  const timed = held.filter((one) => one.step !== undefined && one.stepMs !== undefined)
+  return [...grouped(timed, (one) => one.step ?? "")].map(([step, some]) =>
+    lineOf(
+      `${INDENT}${INDENT}${step}`,
+      some.map((one) => one.stepMs ?? 0),
+      []
+    )
+  )
+}
+
 export function linesOf(rows: readonly PhaseRow[]): readonly string[] {
   const drawn: (readonly string[])[] = [["story", ...HEADED]]
   const stories = [...grouped(rows, (one) => one.story)].sort((a, b) => a[0].localeCompare(b[0]))
@@ -361,6 +372,7 @@ export function linesOf(rows: readonly PhaseRow[]): readonly string[] {
           held
         )
       )
+      drawn.push(...stepLinesOf(held))
     }
     drawn.push(lineOf(`${INDENT}${WHOLE}`, wholesOf(some), []))
   }

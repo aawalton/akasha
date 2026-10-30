@@ -32,6 +32,20 @@ export const measureStory = {
         "Each phase says its middle, its average and its most, and the middle wait and work.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Under each phase of a one-seat turn, each checklist step is drawn on a line of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A step's line folds its beats together and says its count, middle, average and most.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story or a phase whose rows name no step is drawn with no step line.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A run writes no value the commit has.",
     },
@@ -43,5 +57,5 @@ export const measureStory = {
   name: "story",
   arguments: [{ argument: "argument/run-window" }],
   createdAt: "2026-09-28T18:32:12.613Z",
-  updatedAt: "2026-09-28T18:32:16.000Z",
+  updatedAt: "2026-10-30T12:47:35.239Z",
 } as const satisfies Command

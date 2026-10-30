@@ -200,6 +200,43 @@ test("a period chooses the rows started within it", () => {
   expect(kept.map((one) => one.phase)).toEqual([PLAYER, "world-builder"])
 })
 
+function taleRow(one: PhaseRow, step: string, seconds: number, beat?: number): PhaseRow {
+  const beaten = beat === undefined ? {} : { beat }
+  return { ...one, story: "the-tale", step, stepMs: seconds * SECOND, ...beaten }
+}
+
+const ONE_SEAT = [
+  taleRow(row("tale-001", "world-builder", 0, 10), "lore", 10),
+  taleRow(row("tale-001", "game-master", 10, 30), "beats", 20),
+  taleRow(row("tale-001", "beats", 30, 50), "changes", 20, 1),
+  taleRow(row("tale-001", "beats", 30, 60), "prose", 10, 1),
+  taleRow(row("tale-001", "beats", 30, 90), "changes", 30, 2),
+  taleRow(row("tale-001", "beats", 30, 100), "prose", 10, 2),
+]
+
+test("a phase whose rows name steps draws each step beneath it, its beats folded", () => {
+  const drawn = linesOf([...PLAYED, ...ONE_SEAT])
+  const tale = drawn.slice(drawn.findIndex((line) => line.startsWith("the-tale")))
+  expect(tale.map((line) => line.trim().split(" ")[0])).toEqual([
+    "the-tale",
+    "world-builder",
+    "lore",
+    "game-master",
+    "beats",
+    "beats",
+    "changes",
+    "prose",
+    "whole",
+  ])
+  expect(tale.join("\n")).toMatch(/\n {4}changes +2 +25\.000s +25\.000s +30\.000s +- +-/)
+  expect(tale.join("\n")).toMatch(/\n {2}beats +4 +45\.000s +45\.000s +70\.000s/)
+  const saga = drawn.slice(
+    0,
+    drawn.findIndex((line) => line.startsWith("the-tale"))
+  )
+  expect(saga.filter((line) => line.startsWith("    "))).toEqual([])
+})
+
 test("the table draws each story's phases and the whole run beneath them", () => {
   const drawn = linesOf(PLAYED).join("\n")
   expect(drawn).toContain("the-saga")

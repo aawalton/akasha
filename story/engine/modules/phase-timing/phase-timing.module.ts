@@ -89,9 +89,22 @@ export const phaseTiming = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Under a phase, each step its rows name is drawn with its count and the middle, average and most.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A step's line folds every beat of that step together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A phase whose rows name no step is drawn with no line beneath it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A run's whole time is from its first phase's start to its last phase's end, leaving out the player.",
     },
   ],
   createdAt: "2026-09-28T18:27:12.495Z",
-  updatedAt: "2026-10-30T12:44:50.858Z",
+  updatedAt: "2026-10-30T12:47:35.239Z",
 } as const satisfies Module
