@@ -48,11 +48,11 @@ export const relationshipDeposit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A deposit names the value that deposit served.",
+      statement: "A deposit names the life value that deposit served.",
     },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:35:40.348Z",
-  updatedAt: "2026-10-30T16:24:48.873Z",
+  updatedAt: "2026-10-30T16:39:20.541Z",
 } as const satisfies PageType
