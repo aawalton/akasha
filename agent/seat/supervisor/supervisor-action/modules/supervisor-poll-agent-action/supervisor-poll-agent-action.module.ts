@@ -4,7 +4,7 @@ export const supervisorPollAgentAction = {
   id: "01a0687b-aa81-7000-ada8-b1a18075e043",
   type: "page-type/module",
   slug: "supervisor-poll-agent-action",
-  definition: "reading the action a seat has been asked to take",
+  definition: "how code reads the supervisor action on a seat's page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -27,5 +27,5 @@ export const supervisorPollAgentAction = {
     },
   ],
   createdAt: "2026-09-03T18:15:30.177Z",
-  updatedAt: "2026-10-25T02:51:45.849Z",
+  updatedAt: "2026-10-30T14:42:06.151Z",
 } as const satisfies Module
