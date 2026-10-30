@@ -5,6 +5,10 @@ export const strengthExerciseImplement = {
   type: "page-type/page-type",
   slug: "strength-exercise-implement",
   definition: "a class of kit loading a movement",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "strength exercise implement" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "strength exercise implements" },
+  ],
   extends: ["page-type/domain"],
   parts: [
     "strength-exercise-implement/bands",
@@ -34,5 +38,5 @@ export const strengthExerciseImplement = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-12T05:23:22.949Z",
-  updatedAt: "2026-09-22T13:45:29.000Z",
+  updatedAt: "2026-10-30T16:41:40.630Z",
 } as const satisfies PageType
