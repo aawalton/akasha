@@ -4,8 +4,7 @@ export const openingSpan = {
   id: "01a14f49-6d8f-71aa-90d2-a90dab88d2a8",
   type: "page-type/computed-property-module",
   slug: "opening-span",
-  definition:
-    "the span from one opening of Alan's day to the next, out of the sleep blocks handed in",
+  definition: "how code finds the openings of days from blocks of sleep",
   code: "ts",
   test: "ts",
   decisions: [
@@ -71,5 +70,5 @@ export const openingSpan = {
     },
   ],
   createdAt: "2026-10-18T13:52:54.670Z",
-  updatedAt: "2026-10-18T13:52:54.670Z",
+  updatedAt: "2026-10-30T15:34:32.494Z",
 } as const satisfies ComputedPropertyModule
