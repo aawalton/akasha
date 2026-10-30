@@ -4,7 +4,7 @@ export const couplesTherapist = {
   id: "01a16edd-ac13-7003-8865-8d3989daed78",
   type: "page-type/role",
   slug: "couples-therapist",
-  definition: "an agent that holds a couple's therapy sessions with both spouses",
+  definition: "an agent that gives therapy to two spouses together",
   onCall: true,
   directives: [
     {
@@ -36,5 +36,5 @@ export const couplesTherapist = {
     },
   ],
   createdAt: "2026-10-24T17:03:03.699Z",
-  updatedAt: "2026-10-24T19:29:57.566Z",
+  updatedAt: "2026-10-30T14:45:39.836Z",
 } as const satisfies Role
