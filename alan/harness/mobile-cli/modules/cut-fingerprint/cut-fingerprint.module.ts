@@ -4,7 +4,7 @@ export const cutFingerprint = {
   id: "01a05fab-665d-7f4c-bb6b-46467c1b1df8",
   type: "page-type/module",
   slug: "cut-fingerprint",
-  definition: "a taken cut's fingerprint",
+  definition: "the values a page holds for each mobile cut",
   code: "ts",
   test: "ts",
   decisions: [
@@ -104,5 +104,5 @@ export const cutFingerprint = {
     },
   ],
   createdAt: "2026-09-02T01:11:03.517Z",
-  updatedAt: "2026-10-13T08:58:27.961Z",
+  updatedAt: "2026-10-30T16:25:04.311Z",
 } as const satisfies Module
