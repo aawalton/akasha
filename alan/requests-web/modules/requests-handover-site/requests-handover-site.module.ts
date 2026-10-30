@@ -4,8 +4,7 @@ export const requestsHandoverSite = {
   id: "01a0c537-ba9b-797c-9ce3-0dd6a8f02f52",
   type: "page-type/module",
   slug: "requests-handover-site",
-  definition:
-    "what the Requests site is called in a handover, where it answers, and its signing key",
+  definition: "how the Requests site takes part in a handover",
   code: "ts",
   decisions: [
     {
@@ -19,5 +18,5 @@ export const requestsHandoverSite = {
     },
   ],
   createdAt: "2026-09-21T18:25:58.939Z",
-  updatedAt: "2026-09-22T13:45:29.000Z",
+  updatedAt: "2026-10-30T16:03:02.771Z",
 } as const satisfies Module
