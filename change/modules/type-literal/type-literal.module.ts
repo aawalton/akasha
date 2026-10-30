@@ -4,7 +4,7 @@ export const typeLiteral = {
   id: "01a09b74-c591-7172-9691-ea824ccdda55",
   type: "page-type/module",
   slug: "type-literal",
-  definition: "the object type a named type alias in a source holds",
+  definition: "the object type a named type alias in a TypeScript file holds",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const typeLiteral = {
     },
   ],
   createdAt: "2026-09-13T15:48:36.369Z",
-  updatedAt: "2026-09-15T18:21:01.000Z",
+  updatedAt: "2026-10-30T16:06:06.690Z",
 } as const satisfies Module
