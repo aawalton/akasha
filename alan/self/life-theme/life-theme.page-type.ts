@@ -4,7 +4,7 @@ export const lifeTheme = {
   id: "01a06575-c2c0-7479-ae1f-92956ac3d48e",
   type: "page-type/page-type",
   slug: "life-theme",
-  definition: "a time in Alan's life that is given to a value Alan has",
+  definition: "a time in Alan's life that is given to a life value",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "life theme" },
     { partOfSpeech: "part-of-speech/noun", spelling: "life themes" },
@@ -38,5 +38,5 @@ export const lifeTheme = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:10:11.520Z",
-  updatedAt: "2026-10-30T16:26:59.866Z",
+  updatedAt: "2026-10-30T16:31:28.538Z",
 } as const satisfies PageType
