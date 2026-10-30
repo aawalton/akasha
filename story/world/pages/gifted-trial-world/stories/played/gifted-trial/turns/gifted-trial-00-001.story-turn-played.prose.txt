@@ -16,3 +16,8 @@ That leaves your Status. You reach for it the way you reached for it last night,
 name: Status
 note: Name: none; Class: Locked; Skills: none (3 empty slots)
 :::
+
+:::status-assessment
+name: Body Features
+note: Aether Core: Minor; Aether Channels: Weak
+:::
