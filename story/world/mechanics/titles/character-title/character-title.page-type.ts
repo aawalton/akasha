@@ -4,7 +4,11 @@ export const characterTitle = {
   id: "01a17ebe-19c2-733f-bc86-c00084693644",
   type: "page-type/page-type",
   slug: "character-title",
-  definition: "a title one character holds, as a holding of the world's titles",
+  definition: "a world title a character holds",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "character title" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "character titles" },
+  ],
   pluralSlug: "titles-held",
   extends: ["page-type/world-title"],
   parts: ["relation-property/title-character", "relation-property/held-title"],
@@ -29,5 +33,5 @@ export const characterTitle = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-27T19:02:30.081Z",
-  updatedAt: "2026-10-27T19:02:30.081Z",
+  updatedAt: "2026-10-30T16:10:43.358Z",
 } as const satisfies PageType
