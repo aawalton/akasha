@@ -4,7 +4,7 @@ export const inboxTrackingPolling = {
   id: "01a0686a-7a57-72a3-bd0e-04ddd401bb78",
   type: "page-type/module",
   slug: "inbox-tracking-polling",
-  definition: "a poll of every inbox, written onto the day's tracking row",
+  definition: "how code starts a run that writes how many things wait in each inbox",
   code: "ts",
   decisions: [
     {
@@ -55,5 +55,5 @@ export const inboxTrackingPolling = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-09-22T10:06:01.000Z",
+  updatedAt: "2026-10-30T15:37:58.221Z",
 } as const satisfies Module
