@@ -4,7 +4,7 @@ export const learnEverythingTopic = {
   id: "01a0659f-93da-7011-b26e-605cb6f32b8f",
   type: "page-type/page-type",
   slug: "learn-everything-topic",
-  definition: "a subject in the map of all there is to know",
+  definition: "a part of what Alan can learn",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "learn everything topic" },
     { partOfSpeech: "part-of-speech/noun", spelling: "learn everything topics" },
@@ -101,5 +101,5 @@ export const learnEverythingTopic = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-24T17:53:51.000Z",
+  updatedAt: "2026-10-30T14:59:34.055Z",
 } as const satisfies PageType
