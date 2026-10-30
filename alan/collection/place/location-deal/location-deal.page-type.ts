@@ -4,7 +4,7 @@ export const locationDeal = {
   id: "01a06585-5fc5-715e-850c-9b88e5597728",
   type: "page-type/page-type",
   slug: "location-deal",
-  definition: "an offer redeemable at places on the map",
+  definition: "an offer a person can use at a place",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "location deal" },
     { partOfSpeech: "part-of-speech/noun", spelling: "location deals" },
@@ -60,5 +60,5 @@ export const locationDeal = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:27:14.757Z",
-  updatedAt: "2026-09-24T18:02:27.000Z",
+  updatedAt: "2026-10-30T15:09:17.351Z",
 } as const satisfies PageType
