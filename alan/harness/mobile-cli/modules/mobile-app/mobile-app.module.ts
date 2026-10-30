@@ -4,7 +4,7 @@ export const mobileApp = {
   id: "01a05cee-e560-793f-a803-19a1b3c458ac",
   type: "page-type/module",
   slug: "mobile-app",
-  definition: "an iOS app as stated on its ios-app page, with the repo paths it spells",
+  definition: "the values that code reads from the page of an iOS app",
   code: "ts",
   test: "ts",
   decisions: [
@@ -89,5 +89,5 @@ export const mobileApp = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-25T18:27:41.000Z",
+  updatedAt: "2026-10-30T16:27:32.687Z",
 } as const satisfies Module
