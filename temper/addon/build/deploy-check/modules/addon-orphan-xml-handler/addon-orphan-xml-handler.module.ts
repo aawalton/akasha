@@ -4,7 +4,7 @@ export const addonOrphanXmlHandler = {
   id: "01a062a8-e76a-77f5-a7f2-de80170b6c77",
   type: "page-type/module",
   slug: "addon-orphan-xml-handler",
-  definition: "whether an inline markup handler names what an add-on's source defines nowhere",
+  definition: "whether an inline markup handler names what an add-on's code defines nowhere",
   code: "ts",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const addonOrphanXmlHandler = {
     },
   ],
   createdAt: "2026-09-02T15:07:11.594Z",
-  updatedAt: "2026-09-21T22:03:34.000Z",
+  updatedAt: "2026-10-30T16:19:54.412Z",
 } as const satisfies Module
