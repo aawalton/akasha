@@ -5,9 +5,9 @@ export const tcoYears = {
   type: "page-type/number-property",
   slug: "tco-years",
   propertySlug: "tco-years",
-  definition: "how many years the cost of owning the car covers",
+  definition: "the number of years the ownership estimates for a car trim cover",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:01.944Z",
-  updatedAt: "2026-09-22T13:47:07.000Z",
+  updatedAt: "2026-10-30T15:07:12.913Z",
 } as const satisfies NumberProperty
