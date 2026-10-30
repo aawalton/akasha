@@ -4,7 +4,7 @@ export const atlasPageListing = {
   id: "01a0883c-86f0-7495-92b2-1e1957b490a8",
   type: "page-type/route",
   slug: "atlas-page-listing",
-  definition: "the pages of a page type, drawn as a list",
+  definition: "the pages of a page type shown in a list",
   code: "tsx",
   urlPath: ":pageTypeSlug",
   decisions: [
@@ -18,5 +18,5 @@ export const atlasPageListing = {
     },
   ],
   createdAt: "2026-09-09T22:14:23.216Z",
-  updatedAt: "2026-09-22T00:41:39.000Z",
+  updatedAt: "2026-10-30T14:49:33.981Z",
 } as const satisfies Route
