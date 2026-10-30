@@ -4,7 +4,7 @@ export const entryRewriting = {
   id: "01a0d506-39ae-7667-bdf3-3701862ee4a6",
   type: "page-type/module",
   slug: "entry-rewriting",
-  definition: "the entries beside every page of a page type, written anew one page at a time",
+  definition: "how code replaces the rows of the files beside every page of a page type",
   code: "ts",
   testFixtures: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const entryRewriting = {
     },
   ],
   createdAt: "2026-09-24T20:05:50.126Z",
-  updatedAt: "2026-09-25T13:08:22.000Z",
+  updatedAt: "2026-10-30T17:41:42.313Z",
 } as const satisfies Module
