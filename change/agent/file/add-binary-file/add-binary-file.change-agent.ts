@@ -7,7 +7,8 @@ export const addBinaryFile = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "a body of any bytes, landed from the tree or from a file outside it",
+  definition:
+    "a change that adds a file whose bytes come from the tree or from a file outside the tree",
   code: "ts",
   test: "ts",
   decisions: [
@@ -52,5 +53,5 @@ export const addBinaryFile = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-11T15:29:29.772Z",
-  updatedAt: "2026-09-25T12:44:32.000Z",
+  updatedAt: "2026-10-30T17:05:55.545Z",
 } as const satisfies ChangeAgent
