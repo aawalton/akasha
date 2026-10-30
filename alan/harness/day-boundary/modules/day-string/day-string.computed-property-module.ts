@@ -4,7 +4,7 @@ export const dayString = {
   id: "01a05c77-31e6-7984-b078-7e97cacbeefb",
   type: "page-type/computed-property-module",
   slug: "day-string",
-  definition: "a day written as a dashed date, read back off one, and stepped by one",
+  definition: "how code handles a day written in text",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const dayString = {
     },
   ],
   createdAt: "2026-09-01T10:15:10.566Z",
-  updatedAt: "2026-10-18T13:48:24.816Z",
+  updatedAt: "2026-10-30T15:41:13.835Z",
 } as const satisfies ComputedPropertyModule
