@@ -5,9 +5,9 @@ export const typingPerson = {
   type: "page-type/relation-property",
   slug: "typing-person",
   propertySlug: "person",
-  definition: "a person typing a message to a seat",
+  definition: "a person that writes a message to a seat",
   targetPageType: "page-type/person",
   types: "ts",
   createdAt: "2026-10-24T22:19:02.125Z",
-  updatedAt: "2026-10-24T22:19:02.125Z",
+  updatedAt: "2026-10-30T14:50:41.475Z",
 } as const satisfies RelationProperty
