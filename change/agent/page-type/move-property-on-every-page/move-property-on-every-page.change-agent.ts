@@ -7,7 +7,8 @@ export const movePropertyOnEveryPage = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "a key's value written under another key on every page of a page type",
+  definition:
+    "a change that moves the value of a property to another property on every page of a page type",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -100,5 +101,5 @@ export const movePropertyOnEveryPage = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-08T23:48:48.569Z",
-  updatedAt: "2026-09-22T10:07:38.000Z",
+  updatedAt: "2026-10-30T17:02:26.581Z",
 } as const satisfies ChangeAgent
