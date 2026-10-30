@@ -4,7 +4,7 @@ export const seatSession = {
   id: "01a06949-b281-709f-96f4-45790933cf1e",
   type: "page-type/module",
   slug: "seat-session",
-  definition: "the session a seat is bound to and the transcript that session writes",
+  definition: "the Claude Code session of a seat and its transcript",
   parts: [
     "module/seat-bridge-session",
     "module/seat-session-resolve",
@@ -43,6 +43,6 @@ export const seatSession = {
       statement: "Keeping a session does nothing.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:33.455Z",
+  updatedAt: "2026-10-30T14:46:12.672Z",
   createdAt: "2026-09-03T22:00:32.641Z",
 } as const satisfies Module
