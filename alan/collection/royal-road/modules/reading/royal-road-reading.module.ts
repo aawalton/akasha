@@ -4,7 +4,7 @@ export const royalRoadReading = {
   id: "01a0e98b-04bc-714d-81d9-07c7ec2edde1",
   type: "page-type/module",
   slug: "royal-road-reading",
-  definition: "the chapters of a story Alan has read through his last chapter read on Royal Road",
+  definition: "how code gives progress to the chapters Alan read on Royal Road",
   code: "ts",
   test: "ts",
   decisions: [
@@ -51,5 +51,5 @@ export const royalRoadReading = {
     },
   ],
   createdAt: "2026-09-28T19:43:17.180Z",
-  updatedAt: "2026-09-28T19:43:24.000Z",
+  updatedAt: "2026-10-30T15:22:07.375Z",
 } as const satisfies Module
