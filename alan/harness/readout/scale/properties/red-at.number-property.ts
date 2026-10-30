@@ -5,9 +5,9 @@ export const redAt = {
   type: "page-type/number-property",
   slug: "red-at",
   propertySlug: "red-at",
-  definition: "the reading at which a scale turns red",
+  definition: "the number the red part of a readout scale starts at",
   max: null,
   types: "ts",
   createdAt: "2026-08-30T20:14:15.025Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:07:50.428Z",
 } as const satisfies NumberProperty
