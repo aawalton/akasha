@@ -4,7 +4,7 @@ export const workstationProcessor = {
   id: "01a0a065-0e31-7af0-bc57-e4bd83656aa1",
   type: "page-type/readout",
   slug: "workstation-processor",
-  definition: "how much of the workstation's processor time is busy",
+  definition: "the percent of processor time the workstation uses",
   reading: {},
   label: "Processor",
   unit: "percent",
@@ -52,5 +52,5 @@ export const workstationProcessor = {
     },
   ],
   createdAt: "2026-09-14T14:49:32.465Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T16:22:53.185Z",
 } as const satisfies Readout
