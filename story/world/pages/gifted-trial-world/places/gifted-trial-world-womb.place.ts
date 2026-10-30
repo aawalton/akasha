@@ -42,7 +42,7 @@ export const giftedTrialWorldWomb = {
     },
     {
       fact: "Nala's soul-sense stops at her own skin; she knows the womb only by touch and hearing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial-nala"],
     },
     {
       fact: "By touch the womb is warm fluid, a soft wall close on every side, and the cord at her belly.",
@@ -54,5 +54,5 @@ export const giftedTrialWorldWomb = {
     },
   ],
   createdAt: "2026-10-30T13:47:19.494Z",
-  updatedAt: "2026-10-30T14:20:13.328Z",
+  updatedAt: "2026-10-30T14:21:53.153Z",
 } as const satisfies Place
