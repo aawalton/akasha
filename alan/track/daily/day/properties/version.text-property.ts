@@ -5,7 +5,7 @@ export const version = {
   type: "page-type/text-property",
   slug: "version",
   propertySlug: "version",
-  definition: "which shape of a record was written",
+  definition: "the version of the shape its values were written in",
   maxLength: 10,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const version = {
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.366Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T16:42:54.069Z",
 } as const satisfies TextProperty
