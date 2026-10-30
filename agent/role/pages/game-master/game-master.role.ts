@@ -6,7 +6,7 @@ export const gameMaster = {
   slug: "game-master",
   definition: "an agent that runs a story",
   onCall: true,
-  parts: ["domain/game-master-checks"],
+  parts: ["domain/game-master-checks", "domain/game-master-one-seat"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -305,5 +305,5 @@ export const gameMaster = {
     },
   ],
   createdAt: "2026-08-30T17:44:10.794Z",
-  updatedAt: "2026-10-28T16:18:13.147Z",
+  updatedAt: "2026-10-30T13:14:19.489Z",
 } as const satisfies Role
