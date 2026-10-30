@@ -143,6 +143,7 @@
 {"propertySlug":"part-of-speech","path":"alan/style/appearance-experiment/appearance-experiment.page-type.ts","id":"01a06826-794a-7da2-8027-9f143d989e3d"}
 {"propertySlug":"part-of-speech","path":"alan/style/style.domain.ts","id":"01a065a0-140b-7657-b6e6-589ac95defd6"}
 {"propertySlug":"part-of-speech","path":"alan/track/daily/day/day.page-type.ts","id":"01a05fd8-c30f-72ee-80d9-eb1c179b8359"}
+{"propertySlug":"part-of-speech","path":"alan/track/daily/day/properties/active-calories.number-property.ts","id":"01a05fd8-c30f-79d0-aebb-2017f8333f88"}
 {"propertySlug":"part-of-speech","path":"alan/track/daily/day/properties/safety-level.text-property.ts","id":"01a05fd8-c30f-757c-bda6-861e73844e8b"}
 {"propertySlug":"part-of-speech","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts","id":"01a05fd8-c30f-799b-aa06-004072744b31"}
 {"propertySlug":"part-of-speech","path":"alan/track/rejection/rejection.page-type.ts","id":"01a0a69b-59a5-7703-b20b-4bc445481cac"}

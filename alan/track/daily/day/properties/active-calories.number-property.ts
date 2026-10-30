@@ -6,8 +6,9 @@ export const activeCalories = {
   slug: "active-calories",
   propertySlug: "active-calories",
   definition: "the calories Alan burns while Alan moves on a day",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "active calories" }],
   max: null,
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-10-30T16:40:46.490Z",
+  updatedAt: "2026-10-30T16:41:08.776Z",
 } as const satisfies NumberProperty
