@@ -8,7 +8,7 @@ export const giftedPolish00006 = {
   partOfCollections: ["story-played/gifted-polish"],
   position: 6,
   prose: "txt",
-  stepStatus: "step-status/beats",
+  stepStatus: "step-status/player",
   action: "I lie still and listen to the voices beyond the walls, trying to catch any whole word.",
   beats: "jsonl",
   lore: [
@@ -16,11 +16,17 @@ export const giftedPolish00006 = {
     "lore/gifted-polish-world-realms",
     "place/gifted-polish-world-womb",
   ],
-  reviewedBy: ["story-reviewer/continuity", "story-reviewer/holdings", "story-reviewer/scene"],
+  reviewedBy: [
+    "story-reviewer/continuity",
+    "story-reviewer/holdings",
+    "story-reviewer/scene",
+    "story-reviewer/style",
+  ],
   createdAt: "2026-10-30T18:34:39.267Z",
-  updatedAt: "2026-10-30T18:49:23.404Z",
+  updatedAt: "2026-10-30T18:49:55.035Z",
   ownLength: 337,
   outcomes: "jsonl",
   characters: ["character-player/gifted-polish-nala"],
   endsAt: "2026-10-28T09:20:00.000Z",
+  memoryOwed: true,
 } as const satisfies StoryTurnPlayed
