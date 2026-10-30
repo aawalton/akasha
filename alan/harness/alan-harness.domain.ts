@@ -105,11 +105,13 @@ export const alanHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is taken on Alan's workstation rather than by a pod serving a route.",
+      statement:
+        "The number a readout shows is taken on Alan's workstation rather than by a pod serving a route.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A tile shows its last reading rather than going dark when the taker dies.",
+      statement:
+        "A tile shows the last number it was carried rather than going dark when the taker dies.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -160,5 +162,5 @@ export const alanHarness = {
     },
   ],
   createdAt: "2026-08-30T16:29:45.336Z",
-  updatedAt: "2026-10-19T13:07:19.947Z",
+  updatedAt: "2026-10-30T17:05:44.600Z",
 } as const satisfies Domain
