@@ -4,7 +4,7 @@ export const noSuchRoute = {
   id: "01a072dd-d488-7e97-b669-7076f6de9c20",
   type: "page-type/route",
   slug: "no-such-route",
-  definition: "that no route answers the address a caller named",
+  definition: "how alanwalton.com responds to a request no other route takes",
   code: "ts",
   test: "ts",
   urlPath: "api/*",
@@ -46,5 +46,5 @@ export const noSuchRoute = {
     },
   ],
   createdAt: "2026-09-05T18:38:55.624Z",
-  updatedAt: "2026-09-22T14:00:01.000Z",
+  updatedAt: "2026-10-30T17:01:54.302Z",
 } as const satisfies Route
