@@ -4,11 +4,11 @@ export const greenDayUnits = {
   id: "01a06297-07b1-7762-aa9f-d5a6cd460dd1",
   type: "page-type/readout-scale",
   slug: "green-day-units",
-  definition: "the number of green days a value earns in a day",
+  definition: "the number of green days a life value earns in a day",
   redAt: 0.25,
   yellowAt: 0.5,
   greenAt: 1,
   blueAt: 2,
   createdAt: "2026-09-02T14:47:40.209Z",
-  updatedAt: "2026-10-30T16:17:30.466Z",
+  updatedAt: "2026-10-30T16:33:36.940Z",
 } as const satisfies ReadoutScale
