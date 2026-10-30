@@ -12,6 +12,7 @@ export const giftedPolish00007 = {
     "I go still and listen to the deep voice repeating its few sounds, trying to hold onto the shape of them.",
   lore: ["place/gifted-polish-world-womb"],
   createdAt: "2026-10-30T18:58:38.827Z",
-  updatedAt: "2026-10-30T19:00:11.284Z",
+  updatedAt: "2026-10-30T19:00:31.429Z",
   outcomes: "jsonl",
+  endsAt: "2026-10-28T09:35:00.000Z",
 } as const satisfies StoryTurnPlayed
