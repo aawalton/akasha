@@ -4,7 +4,7 @@ export const episode = {
   id: "01a06599-ee09-7004-a115-2ffdedceb64a",
   type: "page-type/page-type",
   slug: "episode",
-  definition: "an instalment of a season",
+  definition: "a part of a season",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "episode" },
     { partOfSpeech: "part-of-speech/noun", spelling: "episodes" },
@@ -38,5 +38,5 @@ export const episode = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-30T15:19:48.890Z",
 } as const satisfies PageType
