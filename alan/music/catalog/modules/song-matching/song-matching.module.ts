@@ -4,7 +4,7 @@ export const songMatching = {
   id: "01a0b706-3edc-7c6a-9152-707fe1316ff6",
   type: "page-type/module",
   slug: "song-matching",
-  definition: "the song a released title records",
+  definition: "how code finds the song for the title of a track",
   code: "ts",
   test: "ts",
   decisions: [
@@ -84,5 +84,5 @@ export const songMatching = {
     },
   ],
   createdAt: "2026-09-19T00:17:14.972Z",
-  updatedAt: "2026-09-24T20:30:18.000Z",
+  updatedAt: "2026-10-30T16:30:21.302Z",
 } as const satisfies Module
