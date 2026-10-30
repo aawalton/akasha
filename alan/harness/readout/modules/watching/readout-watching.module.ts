@@ -4,7 +4,7 @@ export const readoutWatching = {
   id: "01a08c0f-6f8d-71b1-8b17-155ca606cb6a",
   type: "page-type/module",
   slug: "readout-watching",
-  definition: "how code reads the value of a readout again after a file the readout reads changes",
+  definition: "how code reads a readout again after a file the readout reads changes",
   code: "ts",
   test: "ts",
   decisions: [
@@ -166,5 +166,5 @@ export const readoutWatching = {
     },
   ],
   createdAt: "2026-09-10T16:03:36.973Z",
-  updatedAt: "2026-10-30T16:05:49.586Z",
+  updatedAt: "2026-10-30T16:21:23.076Z",
 } as const satisfies Module
