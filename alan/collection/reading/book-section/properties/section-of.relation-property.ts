@@ -5,7 +5,7 @@ export const sectionOf = {
   type: "page-type/relation-property",
   slug: "section-of",
   propertySlug: "section-of",
-  definition: "a section's collection",
+  definition: "the collection a part of a book belongs to",
   targetPageType: "page-type/collection",
   decisions: [
     {
@@ -19,5 +19,5 @@ export const sectionOf = {
   ],
   types: "ts",
   createdAt: "2026-09-08T15:00:59.344Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T15:17:47.603Z",
 } as const satisfies RelationProperty
