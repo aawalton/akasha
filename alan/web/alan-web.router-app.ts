@@ -101,8 +101,9 @@ export const alanWeb = {
     "module/chapter-write-answering",
     "module/seat-message-asking",
     "module/seat-message-withdrawing",
+    "module/device-secret-changing",
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-01T06:38:44.740Z",
-  updatedAt: "2026-10-30T16:55:20.712Z",
+  updatedAt: "2026-10-30T17:18:16.084Z",
 } as const satisfies RouterApp

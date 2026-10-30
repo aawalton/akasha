@@ -1342,6 +1342,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.ts","id":"01a0c119-72b0-74f5-b872-e3b9944a812a"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/app-layout-loading/app-layout-loading.module.ts","id":"01a0655e-d39b-7415-b913-3146ff8bfa28"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/chapter-write-answering/chapter-write-answering.module.ts","id":"01a0e971-8b9b-767a-b780-c99d738ea190"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/device-secret-changing/device-secret-changing.module.ts","id":"01a18dd1-c015-7ebc-a4a3-619d2d86ceb7"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/device-secret-context/device-secret-context.module.ts","id":"01a0655e-d39a-7632-bb48-cb68d5895b87"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/held-ability-answering/held-ability-answering.module.ts","id":"01a18001-c814-730d-9e6d-251d51ea04ad"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/home-dni-param/home-dni-param.module.ts","id":"01a0655e-d399-7f57-a5ed-36dc75b69609"}

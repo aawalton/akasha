@@ -14,26 +14,10 @@ export const deviceSecretContext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A minting reads the session on the request before it reads any account.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A call handing over no request is read by its account alone.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A call naming no contributor and no account mints nothing and revokes nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The route answers each of the three outcomes with a status of its own.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A recovery that goes uncounted still hands the device its minted secret.",
     },
   ],
   test: "ts",
   createdAt: "2026-09-03T03:45:08.506Z",
-  updatedAt: "2026-10-30T16:58:43.864Z",
+  updatedAt: "2026-10-30T17:18:16.084Z",
 } as const satisfies Module

@@ -1,6 +1,6 @@
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { alanAccountId } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
-import { revokeDeviceSecret } from "akasha/alan/web/.server/device-secret-context/device-secret-context.module.code.ts"
+import { revokeDeviceSecret } from "akasha/alan/web/.server/device-secret-changing/device-secret-changing.module.code.ts"
 import {
   actionOnlyLoader,
   capacitorCorsHeaders,
