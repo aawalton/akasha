@@ -4,7 +4,7 @@ export const sshDelivery = {
   id: "01a05cee-e560-75d3-9a15-b030e7638a12",
   type: "page-type/module",
   slug: "ssh-delivery",
-  definition: "the ssh wire settings shared by every ssh and rsync call to a host",
+  definition: "how code reaches a host through SSH and rsync",
   code: "ts",
   test: "ts",
   decisions: [
@@ -46,5 +46,5 @@ export const sshDelivery = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-10-26T20:19:08.275Z",
+  updatedAt: "2026-10-30T15:59:21.635Z",
 } as const satisfies Module
