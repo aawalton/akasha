@@ -5,9 +5,9 @@ export const federalTaxCreditAmount = {
   type: "page-type/number-property",
   slug: "federal-tax-credit-amount",
   propertySlug: "federal-tax-credit-amount",
-  definition: "what the federal clean vehicle credit is worth on this trim, in dollars",
+  definition: "the dollars the federal clean vehicle credit gives a buyer of a car trim",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:41:26.808Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T15:14:37.472Z",
 } as const satisfies NumberProperty
