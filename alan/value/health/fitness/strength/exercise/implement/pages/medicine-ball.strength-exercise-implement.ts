@@ -4,7 +4,7 @@ export const medicineBall = {
   id: "01a09414-fbfe-770f-a054-e5b0509b3b2f",
   type: "page-type/strength-exercise-implement",
   slug: "medicine-ball",
-  definition: "a weighted ball held, thrown or caught",
+  definition: "a heavy ball that is thrown",
   createdAt: "2026-09-12T05:26:38.334Z",
-  updatedAt: "2026-09-15T17:42:17.000Z",
+  updatedAt: "2026-10-30T16:57:59.786Z",
 } as const satisfies StrengthExerciseImplement
