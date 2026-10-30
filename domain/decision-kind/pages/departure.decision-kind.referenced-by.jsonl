@@ -2939,6 +2939,7 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-past-participle.construction.ts","id":"01a0c96f-a254-7982-aacd-b072d43b1006"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-proper-noun-clause.construction.ts","id":"01a0d484-35d6-7cef-acb4-ad2d3941c10c"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-relative-clause.construction.ts","id":"01a0d429-c1c7-72c4-8331-62f1feb4cd39"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-relative-determiner-clause.construction.ts","id":"01a18d7e-1613-78a0-a79f-4d8276368f28"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-time-conjunction-and-a-clause.construction.ts","id":"01a15545-f558-764a-8aac-1d735492d4e0"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/noun-run-with-a-where-clause.construction.ts","id":"01a0d4d4-c97c-7c14-a851-723fab72cab0"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/possessive-noun-run-with-a-determiner.construction.ts","id":"01a0c932-0974-771f-b07a-c900f1a63592"}
@@ -2969,6 +2970,7 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/preposition.part-of-speech.ts","id":"01a0c58e-f68d-7a49-b538-7624b5cec8d5"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/present-participle.part-of-speech.ts","id":"01a0ca12-8196-7ab3-8bb5-13118634eaed"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/proper-noun.part-of-speech.ts","id":"01a0d483-e67e-7930-8ee9-f77a85c1f876"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/relative-determiner.part-of-speech.ts","id":"01a18d7e-1614-7978-8225-8029f9c60d7e"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/relative-pronoun.part-of-speech.ts","id":"01a0d428-a4ce-76be-a860-ad6dfb3fb3b5"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/subordinating-conjunction.part-of-speech.ts","id":"01a0d3d1-8abe-70e6-930c-7ba6f7040d74"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/time-conjunction.part-of-speech.ts","id":"01a15545-f559-77d9-9643-d807e61f60d0"}

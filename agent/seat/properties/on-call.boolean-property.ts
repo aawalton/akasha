@@ -6,6 +6,7 @@ export const onCall = {
   slug: "on-call",
   propertySlug: "on-call",
   definition: "whether an agent waits for work sent to the agent",
+  spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "on call" }],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -22,5 +23,5 @@ export const onCall = {
   ],
   types: "ts",
   createdAt: "2026-08-30T16:58:37.938Z",
-  updatedAt: "2026-09-25T18:05:40.000Z",
+  updatedAt: "2026-10-30T15:46:53.072Z",
 } as const satisfies BooleanProperty

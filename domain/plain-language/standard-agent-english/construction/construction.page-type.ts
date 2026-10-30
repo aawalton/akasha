@@ -70,6 +70,7 @@ export const construction = {
     "construction/free-relative-pronoun-with-a-joined-proper-noun-clause",
     "construction/noun-group-with-a-past-participle",
     "construction/be-verb-with-an-adjective",
+    "construction/noun-run-with-a-relative-determiner-clause",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -101,5 +102,5 @@ export const construction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T19:39:38.477Z",
-  updatedAt: "2026-10-30T15:44:33.232Z",
+  updatedAt: "2026-10-30T15:46:53.072Z",
 } as const satisfies PageType
