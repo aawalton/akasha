@@ -4,7 +4,7 @@ export const alanWebNoSuchPage = {
   id: "01a0e383-ebe0-7024-8b91-16f341f5404c",
   type: "page-type/route",
   slug: "alan-web-no-such-page",
-  definition: "that no page of alanwalton.com is at the address a reader named",
+  definition: "the error that alanwalton.com shows for a path that has no page",
   code: "tsx",
   urlPath: "*",
   decisions: [
@@ -18,5 +18,5 @@ export const alanWebNoSuchPage = {
     },
   ],
   createdAt: "2026-09-27T15:37:48.768Z",
-  updatedAt: "2026-09-27T15:38:05.000Z",
+  updatedAt: "2026-10-30T16:54:32.306Z",
 } as const satisfies Route
