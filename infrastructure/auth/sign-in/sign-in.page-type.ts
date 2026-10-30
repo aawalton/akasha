@@ -5,6 +5,10 @@ export const signIn = {
   type: "page-type/page-type",
   slug: "sign-in",
   definition: "the account at a provider that signs a contributor in",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "sign-in" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "sign-ins" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "text-property/sign-in-provider",
@@ -29,5 +33,5 @@ export const signIn = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-19T18:25:49.694Z",
-  updatedAt: "2026-09-22T13:59:20.000Z",
+  updatedAt: "2026-10-30T15:35:22.651Z",
 } as const satisfies PageType
