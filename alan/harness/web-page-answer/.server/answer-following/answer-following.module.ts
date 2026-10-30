@@ -4,7 +4,7 @@ export const answerFollowing = {
   id: "01a0d578-c0fa-751e-afec-ba89fb6d0097",
   type: "page-type/module",
   slug: "answer-following",
-  definition: "a browser's stream of page changes and what it follows, answered by a site",
+  definition: "how a website sends a browser changes to the pages the browser watches",
   code: "ts",
   test: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const answerFollowing = {
     },
   ],
   createdAt: "2026-09-24T22:10:55.866Z",
-  updatedAt: "2026-09-27T05:16:06.000Z",
+  updatedAt: "2026-10-30T16:05:05.131Z",
 } as const satisfies Module
