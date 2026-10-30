@@ -20,7 +20,6 @@ export const day = {
   parts: [
     "boolean-property/anchored-from-completion",
     "calendar-date-property/date",
-    "boolean-property/inbox-calendar-cleared-today",
     "boolean-property/inbox-tasks-cleared-today",
     "boolean-property/inbox-temper-tasks-cleared-today",
     "computed-property-module/cost-multiplier",
@@ -112,11 +111,6 @@ export const day = {
       required: false,
       many: false,
     },
-    {
-      pageProperty: "boolean-property/inbox-calendar-cleared-today",
-      required: false,
-      many: false,
-    },
     { pageProperty: "page-property-entry/sessions", required: false, many: false },
     { pageProperty: "page-property-entry/completed-tasks", required: false, many: false },
     {
@@ -193,5 +187,5 @@ export const day = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-10-30T16:54:11.464Z",
+  updatedAt: "2026-10-30T16:54:33.881Z",
 } as const satisfies PageType

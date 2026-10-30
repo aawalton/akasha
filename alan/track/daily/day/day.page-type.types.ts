@@ -8,7 +8,6 @@ import type { FaithPoints } from "akasha/alan/track/daily/day/properties/faith-p
 import type { FunPoints } from "akasha/alan/track/daily/day/properties/fun-points.number-property.types.ts"
 import type { HealthPoints } from "akasha/alan/track/daily/day/properties/health-points.number-property.types.ts"
 import type { HealthSamples } from "akasha/alan/track/daily/day/properties/health-samples/health-samples.page-property-entry.types.ts"
-import type { InboxCalendarClearedToday } from "akasha/alan/track/daily/day/properties/inbox-calendar-cleared-today.boolean-property.types.ts"
 import type { InboxTasks } from "akasha/alan/track/daily/day/properties/inbox-tasks.number-property.types.ts"
 import type { InboxTasksClearedToday } from "akasha/alan/track/daily/day/properties/inbox-tasks-cleared-today.boolean-property.types.ts"
 import type { InboxTemperTasks } from "akasha/alan/track/daily/day/properties/inbox-temper-tasks.number-property.types.ts"
@@ -74,7 +73,6 @@ export type Day = Page & {
   inboxTasksClearedToday?: InboxTasksClearedToday
   inboxTemperTasks?: InboxTemperTasks
   inboxTemperTasksClearedToday?: InboxTemperTasksClearedToday
-  inboxCalendarClearedToday?: InboxCalendarClearedToday
   sessions?: Sessions
   completedTasks?: CompletedTasks
   personaMessages?: PersonaMessages
