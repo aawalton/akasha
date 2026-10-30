@@ -4,7 +4,7 @@ export const inboxRun = {
   id: "01a06596-a92d-7000-8626-c02c9e56a331",
   type: "page-type/module",
   slug: "inbox-run",
-  definition: "a run over the inbox carrying out what the rules say, and the claims it keeps",
+  definition: "a run over a person's inbox that handles each new message",
   code: "ts",
   decisions: [
     {
@@ -86,5 +86,5 @@ export const inboxRun = {
     },
   ],
   createdAt: "2026-09-03T04:46:07.661Z",
-  updatedAt: "2026-10-25T19:22:27.284Z",
+  updatedAt: "2026-10-30T15:32:40.725Z",
 } as const satisfies Module
