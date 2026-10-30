@@ -5,7 +5,7 @@ export const following = {
   type: "page-type/boolean-property",
   slug: "following",
   propertySlug: "following",
-  definition: "whether a person is working through a collection as the collection arrives",
+  definition: "whether a person works through each part of a collection when the part is published",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,5 +14,5 @@ export const following = {
   ],
   types: "ts",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:17:09.494Z",
 } as const satisfies BooleanProperty
