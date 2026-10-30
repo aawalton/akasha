@@ -5,7 +5,7 @@ export const spotifyAccountRetryAllowedAt = {
   type: "page-type/instant-property",
   slug: "spotify-account-retry-allowed-at",
   propertySlug: "retry-allowed-at",
-  definition: "when the account may be called again after a refusal",
+  definition: "the instant Spotify takes calls from the account again",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -20,5 +20,5 @@ export const spotifyAccountRetryAllowedAt = {
   ],
   types: "ts",
   createdAt: "2026-09-18T23:31:04.221Z",
-  updatedAt: "2026-09-18T23:34:28.000Z",
+  updatedAt: "2026-10-30T16:31:28.707Z",
 } as const satisfies InstantProperty
