@@ -5,7 +5,7 @@ export const collectionCompletion = {
   type: "page-type/computed-property",
   slug: "collection-completion",
   propertySlug: "completion",
-  definition: "a collection's progress as a stage rather than an amount",
+  definition: "whether a collection is started and whether a collection is done",
   holds: "text",
   values: ["completed", "in-progress", "not-started"],
   code: "ts",
@@ -17,5 +17,5 @@ export const collectionCompletion = {
   ],
   types: "ts",
   createdAt: "2026-09-05T15:31:05.702Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T15:12:22.826Z",
 } as const satisfies ComputedProperty
