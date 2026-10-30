@@ -4,7 +4,7 @@ export const dayMessages = {
   id: "01a082e3-a5f5-71fb-a321-c2a5a3b230b8",
   type: "page-type/module",
   slug: "day-messages",
-  definition: "how many messages each persona was written on a day, read and raised by one",
+  definition: "how code counts each message a persona is written on a day",
   code: "ts",
   test: "ts",
   decisions: [
@@ -46,5 +46,5 @@ export const dayMessages = {
     },
   ],
   createdAt: "2026-09-08T21:19:12.373Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T16:46:21.803Z",
 } as const satisfies Module
