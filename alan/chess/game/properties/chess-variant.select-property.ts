@@ -5,7 +5,7 @@ export const chessVariant = {
   type: "page-type/select-property",
   slug: "chess-variant",
   propertySlug: "variant",
-  definition: "which chess a game was played as",
+  definition: "the kind of chess a game uses",
   values: [
     "standard",
     "chess960",
@@ -20,5 +20,5 @@ export const chessVariant = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T14:54:31.148Z",
 } as const satisfies SelectProperty
