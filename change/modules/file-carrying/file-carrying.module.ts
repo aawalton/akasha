@@ -4,7 +4,8 @@ export const fileCarrying = {
   id: "01a0922a-d01c-7afe-a069-81d098846385",
   type: "page-type/module",
   slug: "file-carrying",
-  definition: "the edits carrying many files to new paths and following them everywhere named",
+  definition:
+    "how code finds the edits that move files with the edits to every file that uses the old paths",
   code: "ts",
   test: "ts",
   decisions: [
@@ -60,5 +61,5 @@ export const fileCarrying = {
     },
   ],
   createdAt: "2026-09-11T20:31:14.460Z",
-  updatedAt: "2026-09-21T18:29:19.000Z",
+  updatedAt: "2026-10-30T17:42:26.873Z",
 } as const satisfies Module
