@@ -4,7 +4,7 @@ export const sweepSubagentPages = {
   id: "01a0a017-3fac-72e3-8c1a-7fdf616e1b16",
   type: "page-type/service-workstation",
   slug: "sweep-subagent-pages",
-  definition: "the service taking away every subagent page the census judges stale",
+  definition: "the service that removes the page of every subagent that is done",
   enabled: true,
   systemd: {
     schedule: "*:0/15",
@@ -129,5 +129,5 @@ export const sweepSubagentPages = {
     },
   ],
   createdAt: "2026-09-14T13:24:33.324Z",
-  updatedAt: "2026-09-25T14:25:51.000Z",
+  updatedAt: "2026-10-30T14:37:11.598Z",
 } as const satisfies ServiceWorkstation
