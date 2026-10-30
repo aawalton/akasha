@@ -4,7 +4,8 @@ export const regret = {
   id: "01a16fed-a2bb-7494-a344-1767989fdf1d",
   type: "page-type/supervisor-action",
   slug: "regret",
-  definition: "a person's message taken back from a seat while the seat replies to that message",
+  definition:
+    "a person's message canceled from a seat's transcript before the seat ends its work on that message",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -41,5 +42,5 @@ export const regret = {
     },
   ],
   createdAt: "2026-10-24T22:00:07.098Z",
-  updatedAt: "2026-10-24T22:00:07.098Z",
+  updatedAt: "2026-10-30T14:36:49.019Z",
 } as const satisfies SupervisorAction
