@@ -5,10 +5,10 @@ export const note = {
   type: "page-type/text-property",
   slug: "note",
   propertySlug: "note",
-  definition: "what Alan said about the set as he logged it",
+  definition: "what Alan writes about a lifting set",
   maxLength: 500,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:21:48.925Z",
-  updatedAt: "2026-09-15T17:18:57.000Z",
+  updatedAt: "2026-10-30T16:51:29.743Z",
 } as const satisfies TextProperty
