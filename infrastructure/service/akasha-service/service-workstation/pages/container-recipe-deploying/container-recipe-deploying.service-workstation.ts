@@ -4,7 +4,8 @@ export const containerRecipeDeploying = {
   id: "01a0965f-7f5f-73fa-8be8-4758f86ec930",
   type: "page-type/service-workstation",
   slug: "container-recipe-deploying",
-  definition: "the service putting the container recipe kind up once a commit changes its source",
+  definition:
+    "the service putting a container recipe up once a commit changes what that recipe is built from",
   enabled: true,
   systemd: {
     schedule: "*:*:00",
@@ -32,5 +33,5 @@ export const containerRecipeDeploying = {
     },
   ],
   createdAt: "2026-09-12T16:07:16.063Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:14:10.191Z",
 } as const satisfies ServiceWorkstation
