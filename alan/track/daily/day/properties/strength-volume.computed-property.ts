@@ -5,7 +5,7 @@ export const strengthVolume = {
   type: "page-type/computed-property",
   slug: "strength-volume",
   propertySlug: "strength-volume",
-  definition: "the weight Alan moved on a day, in pounds",
+  definition: "the weight in pounds Alan lifts in a day",
   holds: "number",
   code: "ts",
   decisions: [
@@ -32,5 +32,5 @@ export const strengthVolume = {
   ],
   types: "ts",
   createdAt: "2026-09-06T17:44:04.711Z",
-  updatedAt: "2026-09-22T10:06:01.000Z",
+  updatedAt: "2026-10-30T16:42:53.896Z",
 } as const satisfies ComputedProperty
