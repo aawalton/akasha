@@ -5,9 +5,9 @@ export const implementCount = {
   type: "page-type/number-property",
   slug: "implement-count",
   propertySlug: "implement-count",
-  definition: "the number of pieces of equipment a set of a strength exercise uses",
+  definition: "the number of pieces of equipment an exercise set of a strength exercise uses",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-10-30T16:51:06.527Z",
+  updatedAt: "2026-10-30T17:04:02.413Z",
 } as const satisfies NumberProperty
