@@ -15,6 +15,10 @@ export const turnDescribed = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A move is followed back from the commit making it, never over the whole history.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A mechanic page is named where its description differs from the one it had as the turn opened.",
     },
@@ -33,5 +37,5 @@ export const turnDescribed = {
     },
   ],
   createdAt: "2026-09-28T19:11:23.784Z",
-  updatedAt: "2026-09-28T21:56:47.000Z",
+  updatedAt: "2026-10-30T19:28:29.211Z",
 } as const satisfies Module

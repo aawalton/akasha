@@ -16,6 +16,10 @@ const STORIES = "/stories/"
 
 const PAGE_HELD = "ts"
 
+const HEAD = "HEAD"
+
+const RENAMED = "R"
+
 export type Describing = (path: string) => {
   readonly before: string | null
   readonly after: string | null
@@ -41,19 +45,33 @@ function descriptionOf(value: Value | null): string | null {
   return value === null ? null : textAt(value, DESCRIPTION)
 }
 
+export type Logging = (argv: readonly string[]) => string | null
+
+function movedFrom(shown: string, to: string): string | null {
+  for (const line of shown.split("\n")) {
+    const [status, from, into] = line.split("\t")
+    if (status?.startsWith(RENAMED) === true && into === to && from !== undefined) return from
+  }
+  return null
+}
+
+export function openedIn(at: string, log: Logging): string | null {
+  let path = at
+  let since = HEAD
+  for (;;) {
+    const said = log(["log", "--diff-filter=A", "-n", "1", "--format=%H", since, "--", path])
+    const commit = said === null ? "" : said.trim()
+    if (commit === "") return null
+    const shown = log(["show", "-M", "--diff-filter=R", "--name-status", "--format=", commit])
+    const from = movedFrom(shown ?? "", path)
+    if (from === null) return commit
+    path = from
+    since = `${commit}^`
+  }
+}
+
 function openedAt(root: string, at: string): string | null {
-  const said = told(root, [
-    "log",
-    "--follow",
-    "--diff-filter=A",
-    "-n",
-    "1",
-    "--format=%H",
-    "--",
-    at,
-  ])
-  const commit = said === null ? "" : said.trim()
-  return commit === "" ? null : commit
+  return openedIn(at, (argv) => told(root, argv))
 }
 
 export function storyFolderOf(turnAt: string): string | null {

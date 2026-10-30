@@ -2,6 +2,8 @@ import { expect, test } from "bun:test"
 import {
   type Describing,
   describedIn,
+  type Logging,
+  openedIn,
   storyFolderOf,
 } from "akasha/command/pages/story/turn/modules/turn-described/turn-described.module.code.ts"
 
@@ -44,4 +46,29 @@ test("a turn is looked at under its own story's folder, never its world's", () =
 
 test("a page under no story has no story folder", () => {
   expect(storyFolderOf("w/mechanics/items/coin.world-item.ts")).toBeNull()
+})
+
+const TURN = "w/stories/played/game/turns/game-00-004.story-turn-played.ts"
+
+const WAS = "w/stories/game/turns/game-00-004.story-turn-played.ts"
+
+function logOf(added: Record<string, string>, moved: Record<string, string>): Logging {
+  return (argv) => {
+    if (argv[0] === "show") return moved[argv.at(-1) ?? ""] ?? ""
+    return added[`${argv.at(-3)} ${argv.at(-1)}`] ?? ""
+  }
+}
+
+test("a turn never moved opens at the commit that added its page", () => {
+  expect(openedIn(TURN, logOf({ [`HEAD ${TURN}`]: "c1\n" }, {}))).toBe("c1")
+})
+
+test("a turn moved since opens at the commit that first added its page", () => {
+  const added = { [`HEAD ${TURN}`]: "c2\n", [`c2^ ${WAS}`]: "c1\n" }
+  const moved = { c2: `R100\t${WAS}\t${TURN}\n` }
+  expect(openedIn(TURN, logOf(added, moved))).toBe("c1")
+})
+
+test("a page no commit added opens nowhere", () => {
+  expect(openedIn(TURN, logOf({}, {}))).toBeNull()
 })
