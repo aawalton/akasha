@@ -16,6 +16,7 @@ export const storyTurnAdvance = {
     "module/turn-crossed",
     "module/chapter-length",
     "module/turn-roleplay-telling",
+    "module/turn-step-timing",
   ],
   decisions: [
     {
@@ -274,5 +275,5 @@ export const storyTurnAdvance = {
     { argument: "argument/beat" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-30T12:16:33.815Z",
+  updatedAt: "2026-10-30T12:46:10.864Z",
 } as const satisfies Command

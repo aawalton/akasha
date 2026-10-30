@@ -54,6 +54,7 @@ import {
   taken,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
 import { noticesOver } from "akasha/command/pages/story/turn/advance/modules/turn-roleplay-telling/turn-roleplay-telling.module.code.ts"
+import { stepTimed } from "akasha/command/pages/story/turn/advance/modules/turn-step-timing/turn-step-timing.module.code.ts"
 import {
   endTaken,
   timeCheckIndexed,
@@ -291,6 +292,7 @@ async function heldOn(
     phase: held.status,
     seat: seat?.name ?? held.status,
     endedAt: Date.now(),
+    ...stepTimed(held, read.handed, mechanics),
   }
   timed(given.root, ended, given.agentId)
   const ownNow = own.map((one) => repointed(one, [{ from: turn.at, to: now.at }]))
