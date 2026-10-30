@@ -120,9 +120,13 @@ export const taskLifecycle = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A second marking on the day of the first leaves the due date where the first put it.",
+        "A second marking on the day of the first leaves a due date past that day where it is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A task still due on the day of a second marking comes due again.",
     },
   ],
   createdAt: "2026-09-01T06:05:33.511Z",
-  updatedAt: "2026-10-26T02:51:25.614Z",
+  updatedAt: "2026-10-30T14:27:50.909Z",
 } as const satisfies Module

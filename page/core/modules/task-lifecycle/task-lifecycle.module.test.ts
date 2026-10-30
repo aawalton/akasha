@@ -246,6 +246,19 @@ test("a second marking on the day of the first leaves the due date where it was"
   expect(said.toDoLastCompletedAt).toBe("2026-09-06T22:00:00.000Z")
 })
 
+test("a second marking on the day of the first comes due again where the task is still due", () => {
+  const said = completionValues(
+    shapeFor("temper-task"),
+    {
+      dueDate: "2026-09-06",
+      rruleRule: "FREQ=DAILY",
+      lastCompletedAt: "2026-09-06T14:00:00.000Z",
+    },
+    AT
+  )
+  expect(said).toEqual({ lastCompletedAt: "2026-09-06T22:00:00.000Z", dueDate: "2026-09-07" })
+})
+
 test("a rule that answers no next day leaves the due date alone", () => {
   const said = completionValues(
     shapeFor("to-do"),

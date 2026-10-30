@@ -87,6 +87,12 @@ export function completedOnTheDayOf(shape: TaskShape, values: TaskValues, atMs: 
   return getEsoDayStr(new Date(was)) === getEsoDayStr(new Date(atMs))
 }
 
+function dueAfterTheDayOf(shape: TaskShape, values: TaskValues, atMs: number): boolean {
+  const due = textAt(values, shape.dueKey)
+  if (due === null) return false
+  return due > getEsoDayStr(new Date(atMs))
+}
+
 export function nextDueFor(
   shape: TaskShape,
   values: TaskValues,
@@ -115,7 +121,9 @@ export function taskCompletionValues(
   const stamp = new Date(atMs).toISOString()
   const rule = textAt(values, shape.recurrenceKey)
   if (rule === null) return { [shape.stampKey]: stamp, [shape.doneKey]: stamp }
-  if (completedOnTheDayOf(shape, values, atMs)) return { [shape.stampKey]: stamp }
+  if (completedOnTheDayOf(shape, values, atMs) && dueAfterTheDayOf(shape, values, atMs)) {
+    return { [shape.stampKey]: stamp }
+  }
   const due = nextDueFor(shape, values, rule, atMs, nowMs)
   if (due === null) return { [shape.stampKey]: stamp }
   return { [shape.stampKey]: stamp, [shape.dueKey]: due }
