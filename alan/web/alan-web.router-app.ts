@@ -4,7 +4,7 @@ export const alanWeb = {
   id: "01a05bb1-0c04-751f-8f51-baadbd134cf6",
   type: "page-type/router-app",
   slug: "alan-web",
-  definition: "the routes Alan's site serves to a browser",
+  definition: "the routes of alanwalton.com",
   tunnelRoutes: [
     {
       name: "alanwalton",
@@ -104,5 +104,5 @@ export const alanWeb = {
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-01T06:38:44.740Z",
-  updatedAt: "2026-10-28T00:56:02.836Z",
+  updatedAt: "2026-10-30T16:55:20.712Z",
 } as const satisfies RouterApp
