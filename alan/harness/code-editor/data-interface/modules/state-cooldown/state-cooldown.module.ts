@@ -4,7 +4,7 @@ export const stateCooldown = {
   id: "01a0725a-758c-7335-9600-2a7c8c1391a4",
   type: "page-type/module",
   slug: "state-cooldown",
-  definition: "when a state file is written again and when the writing waits",
+  definition: "when code writes a change to a file the editor reads",
   code: "ts",
   test: "ts",
   decisions: [
@@ -38,5 +38,5 @@ export const stateCooldown = {
     },
   ],
   createdAt: "2026-09-05T16:15:26.092Z",
-  updatedAt: "2026-09-26T16:55:17.000Z",
+  updatedAt: "2026-10-30T15:36:21.087Z",
 } as const satisfies Module
