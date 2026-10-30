@@ -4,8 +4,7 @@ export const rootParentQuery = {
   id: "01a06579-f3d9-7006-8368-78fe6c117de7",
   type: "page-type/module",
   slug: "root-parent-query",
-  definition:
-    "the date the Great Courses collection root last synced, taken as a gate and written back",
+  definition: "how code keeps the day of the last run of the sync of The Great Courses",
   code: "ts",
   test: "ts",
   decisions: [
@@ -35,5 +34,5 @@ export const rootParentQuery = {
     },
   ],
   createdAt: "2026-09-03T04:14:46.233Z",
-  updatedAt: "2026-09-25T15:44:36.000Z",
+  updatedAt: "2026-10-30T15:20:18.175Z",
 } as const satisfies Module
