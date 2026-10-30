@@ -5,7 +5,7 @@ export const merchant = {
   type: "page-type/text-property",
   slug: "merchant",
   propertySlug: "merchant",
-  definition: "a transaction's other party",
+  definition: "the name Monarch gives a Monarch transaction",
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const merchant = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:12:37.504Z",
-  updatedAt: "2026-09-22T13:45:29.000Z",
+  updatedAt: "2026-10-30T15:46:04.353Z",
 } as const satisfies TextProperty
