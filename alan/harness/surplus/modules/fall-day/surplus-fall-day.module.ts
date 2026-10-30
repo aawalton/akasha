@@ -9,7 +9,7 @@ export const surplusFallDay = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Both readings are keys on the day's tracking row.",
+      statement: "Both numbers are keys on the day's tracking row.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -21,7 +21,7 @@ export const surplusFallDay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "akasha decides a reading's meaning.",
+      statement: "akasha decides what each number means.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -29,11 +29,11 @@ export const surplusFallDay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The surplus reading and the website's surplus tile come off one reducer.",
+      statement: "The surplus this reads and the website's surplus tile come off one reducer.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sleep reading and the website's sleep come off one reducer.",
+      statement: "The sleep this reads and the website's sleep come off one reducer.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -45,5 +45,5 @@ export const surplusFallDay = {
     },
   ],
   createdAt: "2026-10-30T16:37:48.908Z",
-  updatedAt: "2026-10-30T16:37:48.908Z",
+  updatedAt: "2026-10-30T17:25:38.207Z",
 } as const satisfies Module
