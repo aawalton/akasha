@@ -4,8 +4,7 @@ export const monarchRules = {
   id: "01a06863-ac0c-70d6-942f-2e0d22cae9d5",
   type: "page-type/module",
   slug: "monarch-rules",
-  definition:
-    "what a category rule is, and what one decides about a transaction and the rows around it",
+  definition: "how code matches a Monarch transaction against a category rule",
   code: "ts",
   test: "ts",
   decisions: [
@@ -86,5 +85,5 @@ export const monarchRules = {
     },
   ],
   createdAt: "2026-09-03T17:49:17.708Z",
-  updatedAt: "2026-10-09T19:29:15.990Z",
+  updatedAt: "2026-10-30T15:45:42.405Z",
 } as const satisfies Module
