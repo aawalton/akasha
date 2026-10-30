@@ -4,7 +4,7 @@ export const monarchAmazonOrder = {
   id: "01a06863-8dd7-7e4b-b3a0-aceedce9757e",
   type: "page-type/module",
   slug: "monarch-amazon-order",
-  definition: "an Amazon order read out of the confirmation mail Amazon sends",
+  definition: "how code reads an Amazon purchase from the email Amazon sends",
   code: "ts",
   test: "ts",
   decisions: [
@@ -49,5 +49,5 @@ export const monarchAmazonOrder = {
     },
   ],
   createdAt: "2026-09-03T17:49:09.975Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T15:43:55.603Z",
 } as const satisfies Module
