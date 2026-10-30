@@ -5,9 +5,9 @@ export const odometerM = {
   type: "page-type/number-property",
   slug: "odometer-m",
   propertySlug: "odometer-m",
-  definition: "how far the device has travelled since it started counting, in metres",
+  definition: "the total distance in metres a device reports",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T21:38:23.028Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:49:54.828Z",
 } as const satisfies NumberProperty
