@@ -4,7 +4,7 @@ export const dataWatching = {
   id: "01a07266-d474-7296-bd8e-10c7667fe6b6",
   type: "page-type/module",
   slug: "data-watching",
-  definition: "the loop holding what the editor draws and writing it where the editor reads",
+  definition: "how code writes what the code editor shows when a file changes",
   code: "ts",
   test: "ts",
   decisions: [
@@ -169,5 +169,5 @@ export const dataWatching = {
     },
   ],
   createdAt: "2026-09-05T16:28:56.820Z",
-  updatedAt: "2026-10-18T14:22:19.815Z",
+  updatedAt: "2026-10-30T15:42:11.377Z",
 } as const satisfies Module
