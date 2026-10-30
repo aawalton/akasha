@@ -5,6 +5,10 @@ export const changeTargetType = {
   type: "page-type/page-type",
   slug: "change-target-type",
   definition: "the sort of thing on which a change acts",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "change target type" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "change target types" },
+  ],
   parts: [
     "change-target-type/file",
     "change-target-type/file-content",
@@ -28,5 +32,5 @@ export const changeTargetType = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-07T15:18:44.936Z",
-  updatedAt: "2026-09-25T13:51:50.000Z",
+  updatedAt: "2026-10-30T17:43:55.020Z",
 } as const satisfies PageType
