@@ -7,7 +7,7 @@ export const removeFile = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "a file taken away, judged by the checks a landing runs",
+  definition: "a change that removes a file that is not a page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -45,5 +45,5 @@ export const removeFile = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-07T01:52:56.201Z",
-  updatedAt: "2026-09-22T10:07:43.000Z",
+  updatedAt: "2026-10-30T17:10:37.052Z",
 } as const satisfies ChangeAgent
