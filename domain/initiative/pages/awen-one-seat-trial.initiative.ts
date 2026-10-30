@@ -7,14 +7,6 @@ export const awenOneSeatTrial = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-single-seat-turn",
-  intentStack: [
-    {
-      statement: "A clone of Gifted: Reborn makes a whole turn in one seat, seen signed in.",
-    },
-    {
-      statement: "Gifted: Reborn makes its turns in one seat.",
-    },
-  ],
   constraints: [
     "No turn is taken, no message sent and nothing advanced in gifted-reborn, which is Alan's real save.",
     "Gifted: Reborn is switched only after the clone made a whole turn in one seat, by a change to its page alone, while it is at player.",
@@ -22,5 +14,5 @@ export const awenOneSeatTrial = {
     "A page is seen on alanwalton.com, never on atlas.alanwalton.com.",
   ],
   createdAt: "2026-10-30T12:06:02.259Z",
-  updatedAt: "2026-10-30T12:06:02.259Z",
+  updatedAt: "2026-10-30T17:59:24.196Z",
 } as const satisfies Initiative
