@@ -9,14 +9,7 @@ export const unit = {
     { partOfSpeech: "part-of-speech/noun", spelling: "unit" },
     { partOfSpeech: "part-of-speech/noun", spelling: "units" },
   ],
-  parts: [
-    "number-property/words",
-    "unit/hours",
-    "unit/minutes",
-    "unit/moments",
-    "unit/seconds",
-    "unit/words",
-  ],
+  parts: ["number-property/words", "unit/hours", "unit/minutes", "unit/seconds", "unit/words"],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "number-property/words", required: true, many: false }],
   decisions: [
@@ -32,5 +25,5 @@ export const unit = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-10-30T15:18:20.340Z",
+  updatedAt: "2026-10-30T15:50:47.500Z",
 } as const satisfies PageType
