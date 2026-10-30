@@ -5,8 +5,8 @@ export const androidAutoWireless = {
   type: "page-type/boolean-property",
   slug: "android-auto-wireless",
   propertySlug: "android-auto-wireless",
-  definition: "whether Android Auto runs over the air rather than over a cable",
+  definition: "whether Android Auto runs on a car trim without a cable",
   types: "ts",
   createdAt: "2026-09-21T18:37:18.860Z",
-  updatedAt: "2026-09-21T18:38:27.000Z",
+  updatedAt: "2026-10-30T14:58:56.379Z",
 } as const satisfies BooleanProperty
