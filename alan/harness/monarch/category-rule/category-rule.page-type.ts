@@ -4,7 +4,7 @@ export const categoryRule = {
   id: "01a0680c-3c00-7007-a659-3e8d1c4f3108",
   type: "page-type/page-type",
   slug: "category-rule",
-  definition: "a written rule deciding what a transaction counts as",
+  definition: "a written rule that settles the Monarch category of a Monarch transaction",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "category rule" },
     { partOfSpeech: "part-of-speech/noun", spelling: "category rules" },
@@ -90,5 +90,5 @@ export const categoryRule = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-10-30T15:33:19.728Z",
+  updatedAt: "2026-10-30T16:00:28.292Z",
 } as const satisfies PageType
