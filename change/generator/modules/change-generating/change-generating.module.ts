@@ -4,7 +4,7 @@ export const changeGenerating = {
   id: "01a0d4dd-b151-7c71-ac4c-0aca0b91216e",
   type: "page-type/module",
   slug: "change-generating",
-  definition: "the edits every change generator adds to a change, run in the order they name",
+  definition: "how code runs the change generators on a change",
   code: "ts",
   test: "ts",
   decisions: [
@@ -79,5 +79,5 @@ export const changeGenerating = {
     },
   ],
   createdAt: "2026-09-24T19:21:33.777Z",
-  updatedAt: "2026-10-22T15:43:04.637Z",
+  updatedAt: "2026-10-30T17:07:20.585Z",
 } as const satisfies Module
