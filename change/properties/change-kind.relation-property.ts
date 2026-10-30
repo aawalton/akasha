@@ -5,9 +5,9 @@ export const changeKind = {
   type: "page-type/relation-property",
   slug: "change-kind",
   propertySlug: "change-kind",
-  definition: "the sort of change an act makes",
+  definition: "the change kind of a change",
   targetPageType: "page-type/change-kind",
   types: "ts",
   createdAt: "2026-09-02T00:52:36.565Z",
-  updatedAt: "2026-09-15T16:30:55.000Z",
+  updatedAt: "2026-10-30T17:32:12.296Z",
 } as const satisfies RelationProperty
