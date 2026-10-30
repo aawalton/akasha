@@ -5,10 +5,7 @@ export const stored = {
   type: "page-type/common-language-term",
   slug: "stored",
   definition: "put in a store and left there",
-  spellings: [
-    { partOfSpeech: "part-of-speech/past-participle", spelling: "stored" },
-    { partOfSpeech: "part-of-speech/adjective", spelling: "stored" },
-  ],
+  spellings: [{ partOfSpeech: "part-of-speech/past-participle", spelling: "stored" }],
   createdAt: "2026-09-22T15:17:23.520Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T15:42:28.660Z",
 } as const satisfies CommonLanguageTerm

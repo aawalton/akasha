@@ -68,6 +68,7 @@ export const construction = {
     "construction/degree-adverb-with-a-measure-and-a-direction",
     "construction/noun-run-with-a-joined-proper-noun-clause",
     "construction/free-relative-pronoun-with-a-joined-proper-noun-clause",
+    "construction/noun-group-with-a-past-participle",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -99,5 +100,5 @@ export const construction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T19:39:38.477Z",
-  updatedAt: "2026-10-30T15:40:16.577Z",
+  updatedAt: "2026-10-30T15:42:28.660Z",
 } as const satisfies PageType
