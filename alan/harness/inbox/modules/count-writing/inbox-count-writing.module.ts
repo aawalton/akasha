@@ -49,7 +49,7 @@ export const inboxCountWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A read or a write that fails ends the run rather than answering half a reading.",
+      statement: "A read or a write that fails ends the run rather than answering half the counts.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -61,5 +61,5 @@ export const inboxCountWriting = {
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-10-30T15:36:17.184Z",
+  updatedAt: "2026-10-30T17:19:04.115Z",
 } as const satisfies Module
