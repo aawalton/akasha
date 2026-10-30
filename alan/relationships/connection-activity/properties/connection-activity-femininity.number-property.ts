@@ -5,9 +5,9 @@ export const connectionActivityFemininity = {
   type: "page-type/number-property",
   slug: "connection-activity-femininity",
   propertySlug: "connection-activity-femininity",
-  definition: "how feminine they are",
+  definition: "how feminine the other person is",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:37:29.997Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:30:55.055Z",
 } as const satisfies NumberProperty
