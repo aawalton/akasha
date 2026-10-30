@@ -31,7 +31,7 @@ export const syntaxRule = {
   id: "01a0500d-738b-79f3-8932-7d947cd9b51b",
   type: "page-type/page-type",
   slug: "syntax-rule",
-  definition: "a pattern a source file may not carry",
+  definition: "a pattern a TypeScript file may not carry",
   parts: [
     "syntax-rule/command-export-named-for-its-slug",
     "syntax-rule/exhaustive-dispatch",
@@ -135,5 +135,5 @@ export const syntaxRule = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T00:24:13.963Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:06:42.440Z",
 } as const satisfies PageType
