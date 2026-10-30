@@ -5,7 +5,11 @@ export const short = {
   type: "page-type/common-language-term",
   slug: "short",
   definition: "not long",
-  spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "short" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/adjective", spelling: "short" },
+    { partOfSpeech: "part-of-speech/adjective", spelling: "shorter" },
+    { partOfSpeech: "part-of-speech/adjective", spelling: "shortest" },
+  ],
   createdAt: "2026-09-25T14:39:46.184Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T17:41:13.648Z",
 } as const satisfies CommonLanguageTerm
