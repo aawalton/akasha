@@ -4,7 +4,7 @@ export const mobileSsh = {
   id: "01a05cee-e560-740b-bd8f-abdea9c8358c",
   type: "page-type/module",
   slug: "mobile-ssh",
-  definition: "the ssh and rsync child processes that reach an ssh target",
+  definition: "how code runs a script on another machine over SSH",
   code: "ts",
   decisions: [
     {
@@ -58,5 +58,5 @@ export const mobileSsh = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-10-28T16:03:27.796Z",
+  updatedAt: "2026-10-30T16:27:54.765Z",
 } as const satisfies Module
