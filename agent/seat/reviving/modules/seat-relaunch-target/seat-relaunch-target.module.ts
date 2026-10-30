@@ -4,7 +4,7 @@ export const seatRelaunchTarget = {
   id: "01a0686d-9d5e-7010-afb5-aba89bff0cd0",
   type: "page-type/module",
   slug: "seat-relaunch-target",
-  definition: "the name, account, start mode, presence and session putting a seat back up",
+  definition: "what code reads to start a seat that was stopped",
   code: "ts",
   decisions: [
     {
@@ -37,5 +37,5 @@ export const seatRelaunchTarget = {
     },
   ],
   createdAt: "2026-09-03T18:00:09.310Z",
-  updatedAt: "2026-09-22T13:50:37.000Z",
+  updatedAt: "2026-10-30T14:47:39.821Z",
 } as const satisfies Module
