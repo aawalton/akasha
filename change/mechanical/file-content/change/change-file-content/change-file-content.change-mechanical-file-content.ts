@@ -7,7 +7,7 @@ export const changeFileContent = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
-  definition: "a passage of a body replaced by another, with nothing else judged",
+  definition: "a change that replaces a passage of a body with another passage",
   code: "ts",
   test: "ts",
   decisions: [
@@ -54,5 +54,5 @@ export const changeFileContent = {
   ],
   changeKind: "change-kind/change-mechanical",
   createdAt: "2026-09-06T18:52:53.939Z",
-  updatedAt: "2026-09-22T10:09:30.000Z",
+  updatedAt: "2026-10-30T17:06:55.107Z",
 } as const satisfies ChangeMechanicalFileContent
