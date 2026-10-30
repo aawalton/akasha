@@ -4,7 +4,7 @@ export const capacitorCors = {
   id: "01a063c9-03ff-733a-9c12-48399577ca75",
   type: "page-type/module",
   slug: "capacitor-cors",
-  definition: "the cross-origin headers on an answer to a request from the native shell",
+  definition: "how a route responds to a request from the native shell",
   code: "ts",
   test: "ts",
   decisions: [
@@ -44,5 +44,5 @@ export const capacitorCors = {
     },
   ],
   createdAt: "2026-09-02T20:21:53.279Z",
-  updatedAt: "2026-09-24T22:51:26.000Z",
+  updatedAt: "2026-10-30T16:59:33.611Z",
 } as const satisfies Module
