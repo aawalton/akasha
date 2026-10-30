@@ -5,9 +5,9 @@ export const popularity = {
   type: "page-type/number-property",
   slug: "popularity",
   propertySlug: "popularity",
-  definition: "how well a puzzle is liked",
+  definition: "the score the players give a puzzle",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:11:54.460Z",
 } as const satisfies NumberProperty
