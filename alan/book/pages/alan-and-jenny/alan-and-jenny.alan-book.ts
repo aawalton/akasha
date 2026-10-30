@@ -4,7 +4,7 @@ export const alanAndJenny = {
   id: "01a16f48-1aba-7879-ad53-60892ba19cfa",
   type: "page-type/alan-book",
   slug: "alan-and-jenny",
-  definition: "the notes on what Alan and Jenny have worked out about their marriage",
+  definition: "the notes on the things learned about the marriage of Alan and Jenny",
   parts: ["page-type/alan-and-jenny-topic"],
   title: "Alan And Jenny",
   description:
@@ -41,5 +41,5 @@ export const alanAndJenny = {
     },
   ],
   createdAt: "2026-10-24T18:59:18.841Z",
-  updatedAt: "2026-10-24T19:04:41.143Z",
+  updatedAt: "2026-10-30T14:55:02.862Z",
 } as const satisfies AlanBook
