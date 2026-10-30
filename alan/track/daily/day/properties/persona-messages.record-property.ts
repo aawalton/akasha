@@ -5,7 +5,7 @@ export const personaMessages = {
   type: "page-type/record-property",
   slug: "persona-messages",
   propertySlug: "persona-messages",
-  definition: "how many messages each persona was written on a day",
+  definition: "the number of messages Alan sends to each persona in a day",
   properties: [
     { pageProperty: "relation-property/messaged-persona", required: true, many: false },
     { pageProperty: "number-property/messages-sent", required: true, many: false },
@@ -34,5 +34,5 @@ export const personaMessages = {
   ],
   types: "ts",
   createdAt: "2026-09-08T21:17:43.188Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:37:20.504Z",
 } as const satisfies RecordProperty
