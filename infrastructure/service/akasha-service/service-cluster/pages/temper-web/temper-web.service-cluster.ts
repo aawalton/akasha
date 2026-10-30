@@ -32,12 +32,12 @@ export const temperWeb = {
     },
     {
       image:
-        "registry.registry.svc.cluster.local:5000/cluster/temper-addons:9e64ee9fe46827f66024caa2df6d8947dbbdd04aa72e32c87623cc39b7956609",
+        "registry.registry.svc.cluster.local:5000/cluster/temper-addons:377c90ba33a5a408ee305935eb613e90ebbe6998004a59f05299768fcb569904",
       copyFrom: "/bundle",
       copyTo: "temper/web/addons",
       copiedFiles: ["temper-addons.zip", "version.txt"],
       copyEnv: "ADDONS_BUNDLE_DIR",
-      sourceHash: "ae361b3754b9954d550183ce7862fd6450877fb933ea5819046bfc73639f8675",
+      sourceHash: "e8cea6aed0b4184914c581c4b44ac2deb77977f7070932e5059eabfecb86e954",
     },
   ],
   manifests: "yaml",
@@ -48,6 +48,6 @@ export const temperWeb = {
     "secret/git-transport-secrets-git-access-token",
     "secret/temper-secrets-session-key",
   ],
-  updatedAt: "2026-10-30T17:59:10.295Z",
+  updatedAt: "2026-10-30T19:09:19.848Z",
   createdAt: "2026-09-01T04:07:55.830Z",
 } as const satisfies ServiceCluster
