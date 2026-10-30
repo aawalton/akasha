@@ -5,7 +5,7 @@ export const drawnAs = {
   type: "page-type/select-property",
   slug: "drawn-as",
   propertySlug: "drawn-as",
-  definition: "whether a reading is drawn as a stoplight or as a bare number",
+  definition: "whether a readout shows a stoplight or a number",
   values: ["stoplight", "number"],
   decisions: [
     {
@@ -19,5 +19,5 @@ export const drawnAs = {
   ],
   types: "ts",
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:11:09.219Z",
 } as const satisfies SelectProperty
