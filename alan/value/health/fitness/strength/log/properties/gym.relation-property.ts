@@ -10,10 +10,10 @@ export const gym = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set naming no gym was performed at home.",
+      statement: "An exercise set naming no gym was performed at home.",
     },
   ],
   types: "ts",
   createdAt: "2026-10-08T11:11:17.022Z",
-  updatedAt: "2026-10-30T17:07:36.971Z",
+  updatedAt: "2026-10-30T17:21:44.130Z",
 } as const satisfies RelationProperty
