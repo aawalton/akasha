@@ -5,9 +5,9 @@ export const mobilityReadingMetric = {
   type: "page-type/select-property",
   slug: "mobility-reading-metric",
   propertySlug: "mobility-reading-metric",
-  definition: "which movement the reading measures",
+  definition: "what a measurement measures",
   values: ["forward-fold", "supine-slr", "wall-slide-overhead", "hamstring-lr-gap"],
   types: "ts",
   createdAt: "2026-09-03T03:37:55.177Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:50:44.507Z",
 } as const satisfies SelectProperty
