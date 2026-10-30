@@ -5,10 +5,10 @@ export const traceSource = {
   type: "page-type/text-property",
   slug: "trace-source",
   propertySlug: "source",
-  definition: "what put this trace in the store",
+  definition: "the program that stores a location",
   maxLength: 32,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T21:38:23.029Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:49:22.786Z",
 } as const satisfies TextProperty
