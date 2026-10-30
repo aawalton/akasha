@@ -8,8 +8,11 @@ export const stop = {
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "stop" },
     { partOfSpeech: "part-of-speech/noun", spelling: "stops" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "stop" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "stops" },
+    { partOfSpeech: "part-of-speech/present-participle", spelling: "stopping" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "stopped" },
   ],
   createdAt: "2026-09-24T15:00:03.209Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T15:32:31.491Z",
 } as const satisfies CommonLanguageTerm
