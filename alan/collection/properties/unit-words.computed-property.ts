@@ -5,7 +5,7 @@ export const unitWords = {
   type: "page-type/computed-property",
   slug: "unit-words",
   propertySlug: "unit-words",
-  definition: "how many words one of the collection's unit is worth",
+  definition: "the length in words of a collection's unit",
   holds: "number",
   code: "ts",
   decisions: [
@@ -42,5 +42,5 @@ export const unitWords = {
   ],
   types: "ts",
   createdAt: "2026-09-03T22:17:54.599Z",
-  updatedAt: "2026-09-21T16:26:34.000Z",
+  updatedAt: "2026-10-30T15:07:04.631Z",
 } as const satisfies ComputedProperty
