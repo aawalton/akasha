@@ -4,7 +4,7 @@ export const signOut = {
   id: "01a0bba7-965d-7000-b05b-7b3e938f4144",
   type: "page-type/route",
   slug: "sign-out",
-  definition: "the end of a player's session",
+  definition: "the path that ends the sign-in session of a browser",
   code: "ts",
   urlPath: "sign-out",
   decisions: [
@@ -15,5 +15,5 @@ export const signOut = {
     },
   ],
   createdAt: "2026-09-19T21:51:57.533Z",
-  updatedAt: "2026-09-19T21:57:38.000Z",
+  updatedAt: "2026-10-30T16:21:27.166Z",
 } as const satisfies Route
