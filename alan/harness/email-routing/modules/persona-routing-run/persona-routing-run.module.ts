@@ -4,7 +4,7 @@ export const personaRoutingRun = {
   id: "01a0a145-492c-7088-9b18-a9912de34fe6",
   type: "page-type/module",
   slug: "persona-routing-run",
-  definition: "the run putting a zone's routing rules back in step with the persona pages",
+  definition: "how code adds the email routing rules the personas need",
   code: "ts",
   test: "ts",
   decisions: [
@@ -39,5 +39,5 @@ export const personaRoutingRun = {
     },
   ],
   createdAt: "2026-09-14T18:54:27.628Z",
-  updatedAt: "2026-09-19T18:32:37.000Z",
+  updatedAt: "2026-10-30T15:54:13.320Z",
 } as const satisfies Module
