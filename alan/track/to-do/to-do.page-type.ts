@@ -5,6 +5,10 @@ export const toDo = {
   type: "page-type/page-type",
   slug: "to-do",
   definition: "something a person intends to do",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "to-do" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "to-dos" },
+  ],
   extends: ["page-type/page"],
   loadedExport: ["onComplete"],
   parts: [
@@ -81,5 +85,5 @@ export const toDo = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:57:44.116Z",
-  updatedAt: "2026-10-10T12:32:30.818Z",
+  updatedAt: "2026-10-30T15:32:10.054Z",
 } as const satisfies PageType
