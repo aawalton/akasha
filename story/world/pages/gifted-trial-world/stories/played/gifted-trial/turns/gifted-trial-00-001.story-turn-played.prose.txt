@@ -26,3 +26,8 @@ note: Aether Core: Minor; Aether Channels: Weak
 name: Attributes
 note: Strength: 100; Stamina: 100; Coordination: 100; Mental: 104; Aether: 100
 :::
+
+:::status-assessment
+name: Affinity and Advanced Attributes
+note: Affinity (1/1): Shadow (Strong) 100; Advanced Attributes (1/2): Talented 100
+:::
