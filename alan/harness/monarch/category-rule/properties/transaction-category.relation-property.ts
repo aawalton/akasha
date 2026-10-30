@@ -5,9 +5,9 @@ export const transactionCategory = {
   type: "page-type/relation-property",
   slug: "transaction-category",
   propertySlug: "category",
-  definition: "what a transaction counts as",
+  definition: "the Monarch category of a transaction",
   targetPageType: "page-type/monarch-category",
   types: "ts",
   createdAt: "2026-09-03T16:12:37.504Z",
-  updatedAt: "2026-09-15T16:30:55.000Z",
+  updatedAt: "2026-10-30T15:47:07.511Z",
 } as const satisfies RelationProperty
