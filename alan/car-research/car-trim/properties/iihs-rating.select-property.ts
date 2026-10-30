@@ -5,7 +5,7 @@ export const iihsRating = {
   type: "page-type/select-property",
   slug: "iihs-rating",
   propertySlug: "iihs-rating",
-  definition: "the award the Insurance Institute for Highway Safety gave a trim",
+  definition: "the award IIHS gives a car trim for safety",
   values: ["TSP+", "TSP", "good", "not-rated"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const iihsRating = {
   ],
   types: "ts",
   createdAt: "2026-09-21T18:37:54.448Z",
-  updatedAt: "2026-09-21T18:38:27.000Z",
+  updatedAt: "2026-10-30T15:39:12.900Z",
 } as const satisfies SelectProperty
