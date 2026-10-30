@@ -4,7 +4,8 @@ export const webAppDeploying = {
   id: "01a09645-42d1-7495-89ba-aacde7d16cf8",
   type: "page-type/service-workstation",
   slug: "web-app-deploying",
-  definition: "the service putting the web app kind up once a commit changes its source",
+  definition:
+    "the service putting a web app up once a commit changes what the web app is built from",
   enabled: true,
   systemd: {
     schedule: "*:*:00",
@@ -34,5 +35,5 @@ export const webAppDeploying = {
     },
   ],
   createdAt: "2026-09-12T15:38:36.625Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:12:40.624Z",
 } as const satisfies ServiceWorkstation
