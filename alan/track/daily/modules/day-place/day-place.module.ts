@@ -4,7 +4,7 @@ export const dayPlace = {
   id: "01a069d3-579d-715a-9504-7309c60e2eba",
   type: "page-type/module",
   slug: "day-place",
-  definition: "where one of Alan's days is kept, and the road every reader takes to reach it",
+  definition: "how every module that writes a day finds the page that day is kept in",
   code: "ts",
   test: "ts",
   decisions: [
@@ -66,5 +66,5 @@ export const dayPlace = {
     },
   ],
   createdAt: "2026-09-04T00:30:53.341Z",
-  updatedAt: "2026-09-22T10:06:01.000Z",
+  updatedAt: "2026-10-30T16:47:13.765Z",
 } as const satisfies Module
