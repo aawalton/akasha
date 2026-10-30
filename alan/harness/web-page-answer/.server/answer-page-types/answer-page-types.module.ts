@@ -4,7 +4,7 @@ export const answerPageTypes = {
   id: "01a0640f-8510-78d4-a12e-20e2f4f3927a",
   type: "page-type/module",
   slug: "answer-page-types",
-  definition: "the page types answered to a browser",
+  definition: "how a website sends the page types a person can read to a browser",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const answerPageTypes = {
     },
   ],
   createdAt: "2026-09-02T21:38:53.840Z",
-  updatedAt: "2026-09-21T19:34:49.000Z",
+  updatedAt: "2026-10-30T16:05:27.060Z",
 } as const satisfies Module
