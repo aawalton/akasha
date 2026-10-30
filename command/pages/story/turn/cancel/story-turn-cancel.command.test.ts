@@ -101,6 +101,13 @@ test("a cancel stops the game's reviewer and recorder seats, discards their kept
   ])
 })
 
+test("a one-seat story's cancel tells its game master seat alone", async () => {
+  const into = seen()
+  const answer = await cancelledBy([], turnAt("writer"), into, { oneSeat: true })
+  expect(answer.refusals).toEqual([])
+  expect(into.notices).toEqual([`${MASTER}: ${CANCEL_NOTICE}`])
+})
+
 test("a published turn is refused, and nothing is done", async () => {
   const into = seen()
   const answer = await cancelledBy([], turnAt("player", { prose: "txt" }), into)

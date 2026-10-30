@@ -315,14 +315,15 @@ async function noticesOf(
   turn: string,
   after: Told
 ): Promise<undefined> {
-  const master = reach.storyOf(root, game)?.master ?? null
+  const story = reach.storyOf(root, game)
+  const master = story?.master ?? null
   if (master === null) {
     after.faults.push(
       `\`${game}\` names no game master seat, so no seat was told the turn was cancelled`
     )
     return undefined
   }
-  for (const to of noticedOf(master, game)) {
+  for (const to of noticedOf(master, game, story?.oneSeat === true)) {
     const why = await reach.notify(to, cancelNoticeOf(turn))
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the turn was cancelled: ${why}`)

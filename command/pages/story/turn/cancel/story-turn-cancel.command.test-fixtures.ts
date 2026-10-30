@@ -103,6 +103,7 @@ export type Story = {
   readonly latest?: string
   readonly seat?: Seated | null
   readonly history?: string
+  readonly oneSeat?: boolean
 }
 
 export function reachOver(turn: Turn, into: Seen, story: Story = {}): Cancelling {
@@ -126,7 +127,7 @@ export function reachOver(turn: Turn, into: Seen, story: Story = {}): Cancelling
       return true
     },
     seatOf: () => story.seat ?? null,
-    storyOf: () => ({ title: "The Saga", master: MASTER }),
+    storyOf: () => ({ title: "The Saga", master: MASTER, oneSeat: story.oneSeat === true }),
     fold: (_root, naming) => {
       into.folded.push(naming)
       return []

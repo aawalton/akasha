@@ -89,6 +89,10 @@ export const storyTurnCancel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A one-seat story's cancel tells its game master seat alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The game's game master cancels a turn, and so does a caller in no seat.",
     },
     {
@@ -111,5 +115,5 @@ export const storyTurnCancel = {
     { argument: "argument/take-back-mechanics" },
   ],
   createdAt: "2026-09-28T11:48:32.224Z",
-  updatedAt: "2026-10-28T15:02:27.222Z",
+  updatedAt: "2026-10-30T12:20:02.586Z",
 } as const satisfies Command
