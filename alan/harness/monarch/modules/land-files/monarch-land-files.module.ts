@@ -4,8 +4,7 @@ export const monarchLandFiles = {
   id: "01a06863-ac0c-7ade-b991-f9f1ddf1dbed",
   type: "page-type/module",
   slug: "monarch-land-files",
-  definition:
-    "the month pages and their transaction sidecars, composed from Monarch's rows and landed",
+  definition: "how code writes each Monarch month page with its Monarch transactions",
   code: "ts",
   decisions: [
     {
@@ -83,5 +82,5 @@ export const monarchLandFiles = {
     },
   ],
   createdAt: "2026-09-03T17:49:17.708Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:41:03.414Z",
 } as const satisfies Module
