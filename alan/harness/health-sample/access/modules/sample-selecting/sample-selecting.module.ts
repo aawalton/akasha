@@ -4,7 +4,7 @@ export const sampleSelecting = {
   id: "01a05bc7-9129-7004-a85c-285fd90a0c08",
   type: "page-type/module",
   slug: "sample-selecting",
-  definition: "the readings of a metric over a span of time, oldest first",
+  definition: "the health samples of a metric between two times",
   code: "ts",
   decisions: [
     {
@@ -52,5 +52,5 @@ export const sampleSelecting = {
     },
   ],
   createdAt: "2026-09-01T07:03:20.617Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:29:54.795Z",
 } as const satisfies Module
