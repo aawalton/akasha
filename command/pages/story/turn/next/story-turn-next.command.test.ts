@@ -35,7 +35,16 @@ test("a seat of a story no beat is ready for is told to end its turn, and hands 
 
 test("a game master with no beat to restate hands each step's ready beat out again", async () => {
   const seat = { name: "iris-game-master-saga", role: gameMaster.slug, game: "saga" }
-  const said = await storyTurnNext([], GIVEN, () => seat, handOut)
+  const story = () => ({ title: "Saga", master: seat.name })
+  const said = await storyTurnNext([], GIVEN, () => seat, handOut, story)
   expect(said.report).toEqual([nothingSaid(seat.name), "handed again\tiris-writer-saga"])
   expect(HANDED).toEqual(["saga"])
+})
+
+test("a one-seat story's game master hands no beat out to another seat", async () => {
+  const seat = { name: "iris-game-master-alone", role: gameMaster.slug, game: "alone" }
+  const story = () => ({ title: "Alone", master: seat.name, oneSeat: true })
+  const said = await storyTurnNext([], GIVEN, () => seat, handOut, story)
+  expect(said.report).toEqual([nothingSaid(seat.name)])
+  expect(HANDED).not.toContain("alone")
 })

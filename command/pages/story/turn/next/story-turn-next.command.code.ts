@@ -14,6 +14,7 @@ import { storyTurnAdvance } from "akasha/command/pages/story/turn/advance/story-
 import { readyBeatOf } from "akasha/command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts"
 import {
   REACHED,
+  type Reach,
   type Seated,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { storyTurnNext as page } from "akasha/command/pages/story/turn/next/story-turn-next.command.ts"
@@ -63,7 +64,8 @@ export async function storyTurnNext(
   argv: readonly string[],
   given: Given,
   seatOf: (root: string, agentId: string | null) => Seated | null = REACHED.seatOf,
-  handOut: HandingOut = handedAgain
+  handOut: HandingOut = handedAgain,
+  storyOf: Reach["storyOf"] = REACHED.storyOf
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)
@@ -75,7 +77,8 @@ export async function storyTurnNext(
   const held = { name: seat.name, role: seat.role, game: seat.game }
   const ready = readyBeatOf(given.root, held, advancing)
   if (ready !== null) return told([ready])
-  const again =
-    seat.role === gameMasterRole.slug ? await handOut(given.root, seat.game, advancing) : []
+  const alone = storyOf(given.root, seat.game)?.oneSeat === true
+  const handing = seat.role === gameMasterRole.slug && !alone
+  const again = handing ? await handOut(given.root, seat.game, advancing) : []
   return told([nothingSaid(seat.name), ...again])
 }

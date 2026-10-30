@@ -40,6 +40,11 @@ export const storyTurnNext = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A one-seat story's game master hands no beat out again, since no other seat runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "So a hand-out an advance failed to make is made the next time the game master asks.",
     },
     {
@@ -50,5 +55,5 @@ export const storyTurnNext = {
   ],
   name: "next",
   createdAt: "2026-10-27T20:47:29.242Z",
-  updatedAt: "2026-10-27T23:54:42.258Z",
+  updatedAt: "2026-10-30T12:21:13.864Z",
 } as const satisfies Command
