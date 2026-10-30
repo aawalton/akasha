@@ -5,7 +5,7 @@ export const ownLength = {
   type: "page-type/number-property",
   slug: "own-length",
   propertySlug: "own-length",
-  definition: "how long a collection is, counted in its own unit",
+  definition: "the length of a collection without its parts counted in its unit",
   max: null,
   decisions: [
     {
@@ -16,5 +16,5 @@ export const ownLength = {
   ],
   types: "ts",
   createdAt: "2026-09-03T03:32:31.635Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:08:40.665Z",
 } as const satisfies NumberProperty
