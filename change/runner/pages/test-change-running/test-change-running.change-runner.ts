@@ -4,7 +4,7 @@ export const testChangeRunning = {
   id: "01a09ba5-d4ae-7f8d-a772-923fd8403538",
   type: "page-type/change-runner",
   slug: "test-change-running",
-  definition: "the runner a test reaches a change through rather than importing that change",
+  definition: "the change runner that runs a change for a test",
   code: "ts",
   test: "ts",
   addressed: "ts",
@@ -33,5 +33,5 @@ export const testChangeRunning = {
     },
   ],
   createdAt: "2026-09-13T16:42:11.502Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:40:25.999Z",
 } as const satisfies ChangeRunner
