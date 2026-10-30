@@ -4,7 +4,8 @@ export const servicesLeft = {
   id: "01a1847f-d8d9-7c31-8dca-da3468ca4b24",
   type: "page-type/computed-property-module",
   slug: "services-left",
-  definition: "the services what is left of a collection streams on",
+  definition:
+    "the streaming services that carry an unfinished collection or the unfinished parts of a collection",
   code: "ts",
   decisions: [
     {
@@ -17,5 +18,5 @@ export const servicesLeft = {
     },
   ],
   createdAt: "2026-10-28T22:40:00.000Z",
-  updatedAt: "2026-10-28T22:40:00.000Z",
+  updatedAt: "2026-10-30T15:22:43.552Z",
 } as const satisfies ComputedPropertyModule
