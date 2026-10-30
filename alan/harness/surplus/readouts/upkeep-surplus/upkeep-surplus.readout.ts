@@ -19,7 +19,8 @@ export const upkeepSurplus = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the reading the tracking day has for the day asked for.",
+      statement:
+        "The number this readout shows is the surplus the tracking day has for the day asked for.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,7 +28,7 @@ export const upkeepSurplus = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A surplus below zero is a reading.",
+      statement: "A surplus below zero is a number this readout shows.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -61,7 +62,7 @@ export const upkeepSurplus = {
 
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -71,5 +72,5 @@ export const upkeepSurplus = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-09-02T01:36:55.386Z",
-  updatedAt: "2026-10-30T15:59:19.219Z",
+  updatedAt: "2026-10-30T17:29:24.105Z",
 } as const satisfies Readout
