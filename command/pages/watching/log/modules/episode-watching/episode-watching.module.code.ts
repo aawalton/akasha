@@ -163,7 +163,7 @@ export function seasonsNeedGroups(
   )
 }
 
-export async function airedUnder(
+async function airedUnder(
   calls: Calls,
   token: string,
   tv: string,
