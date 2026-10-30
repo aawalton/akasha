@@ -13,12 +13,6 @@ export const awenOneSeatHandInTime = {
     "No work is taken out of a hand-in before the time that work costs is measured.",
   ],
   createdAt: "2026-10-30T18:07:48.290Z",
-  updatedAt: "2026-10-30T18:07:56.787Z",
-  intentStack: [
-    {
-      statement: "A one-seat hand-in costs the engine no more time than its work needs.",
-      workingMemory:
-        "The trial seat estimated 25-30s of engine time per hand-in, about 10 minutes over 20 beat items. Measure it before changing anything.",
-    },
-  ],
+  updatedAt: "2026-10-30T19:33:49.606Z",
+  intentStack: [],
 } as const satisfies Initiative
