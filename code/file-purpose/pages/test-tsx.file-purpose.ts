@@ -4,7 +4,7 @@ export const testTsx = {
   id: "01a06860-a0ef-7699-bc5d-c45850b551d2",
   type: "page-type/file-purpose",
   slug: "test-tsx",
-  definition: "a file of TypeScript code with markup, with tests",
+  definition: "a file of tests in TypeScript code with JSX",
   namePatterns: ["*.test.tsx"],
   decisions: [
     {
@@ -13,5 +13,5 @@ export const testTsx = {
     },
   ],
   createdAt: "2026-09-03T17:45:58.255Z",
-  updatedAt: "2026-10-30T15:37:25.825Z",
+  updatedAt: "2026-10-30T15:57:46.287Z",
 } as const satisfies FilePurpose
