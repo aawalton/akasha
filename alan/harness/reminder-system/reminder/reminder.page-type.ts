@@ -4,7 +4,7 @@ export const reminder = {
   id: "01a05f42-d941-7001-9948-d1816099c8ac",
   type: "page-type/page-type",
   slug: "reminder",
-  definition: "words sent to somebody at the times the words name",
+  definition: "a message sent to a persona on a schedule",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "reminder" },
     { partOfSpeech: "part-of-speech/noun", spelling: "reminders" },
@@ -65,5 +65,5 @@ export const reminder = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-01T23:16:51.649Z",
-  updatedAt: "2026-09-22T00:11:08.000Z",
+  updatedAt: "2026-10-30T16:05:16.397Z",
 } as const satisfies PageType
