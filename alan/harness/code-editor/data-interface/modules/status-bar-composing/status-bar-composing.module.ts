@@ -4,7 +4,7 @@ export const statusBarComposing = {
   id: "01a0789c-53c4-7eae-9e56-7aa7e07e6e06",
   type: "page-type/module",
   slug: "status-bar-composing",
-  definition: "the line drawing the editor's status bar",
+  definition: "how code makes the text the editor shows at the bottom of its screen",
   code: "ts",
   decisions: [
     {
@@ -98,5 +98,5 @@ export const statusBarComposing = {
     },
   ],
   createdAt: "2026-09-06T21:25:06.116Z",
-  updatedAt: "2026-10-18T14:22:19.815Z",
+  updatedAt: "2026-10-30T15:38:58.238Z",
 } as const satisfies Module
