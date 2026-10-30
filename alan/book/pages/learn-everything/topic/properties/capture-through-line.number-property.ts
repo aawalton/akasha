@@ -5,9 +5,9 @@ export const captureThroughLine = {
   type: "page-type/number-property",
   slug: "capture-through-line",
   propertySlug: "capture-through-line",
-  definition: "the line of a transcript a score was read through to",
+  definition: "how far a transcript was read for the score of a topic",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:20:29.070Z",
 } as const satisfies NumberProperty
