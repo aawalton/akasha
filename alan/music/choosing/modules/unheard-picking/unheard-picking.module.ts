@@ -4,7 +4,7 @@ export const unheardPicking = {
   id: "01a0c4eb-23e1-79fd-ad89-53de5dd968d6",
   type: "page-type/module",
   slug: "unheard-picking",
-  definition: "the tracks a followed artist made that Alan has not heard",
+  definition: "the unheard tracks of followed artists",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +26,5 @@ export const unheardPicking = {
     },
   ],
   createdAt: "2026-09-21T17:02:19.617Z",
-  updatedAt: "2026-09-21T19:41:16.000Z",
+  updatedAt: "2026-10-30T17:21:23.248Z",
 } as const satisfies Module
