@@ -876,8 +876,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/track/daily/modules/day-opening/day-opening.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/track/daily/modules/day-place/day-place.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/track/daily/modules/day-reading/day-reading.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/track/daily/modules/day-scan-window/day-scan-window.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/track/daily/modules/day-stretches/day-stretches.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/track/daily/modules/number-of-value/number-of-value.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/track/daily/modules/nutrition-grams/nutrition-grams.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/track/daily/modules/nutrition-points/nutrition-points.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/track/daily/modules/topic-words/topic-words.module.ts","typed":true,"deferred":false}

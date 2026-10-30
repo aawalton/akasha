@@ -16,7 +16,7 @@ export const trackDaily = {
     "module/day-opening",
     "module/day-place",
     "module/day-reading",
-    "module/day-scan-window",
+    "module/number-of-value",
     "module/day-stretches",
     "module/nutrition-grams",
     "module/nutrition-points",
@@ -45,5 +45,5 @@ export const trackDaily = {
     },
   ],
   createdAt: "2026-09-02T16:03:07.263Z",
-  updatedAt: "2026-09-25T13:16:40.000Z",
+  updatedAt: "2026-10-30T16:57:00.003Z",
 } as const satisfies Domain
