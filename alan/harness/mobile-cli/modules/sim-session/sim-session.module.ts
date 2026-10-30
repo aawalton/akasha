@@ -4,7 +4,7 @@ export const simSession = {
   id: "01a05cee-e560-7fa8-b30a-1b0defa5f6c3",
   type: "page-type/module",
   slug: "sim-session",
-  definition: "the state of the live sim session, persisted to a file in the home directory",
+  definition: "how code keeps the Appium session on the iOS Simulator in a file",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const simSession = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T15:59:06.700Z",
 } as const satisfies Module
