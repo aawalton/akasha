@@ -4,7 +4,7 @@ export const dayEntryKeys = {
   id: "01a072fc-7da3-7248-a22d-918364c535de",
   type: "page-type/module",
   slug: "day-entry-keys",
-  definition: "the keys an entry beside a day is declared as able to carry",
+  definition: "the names of the properties a row of a day can have",
   code: "ts",
   decisions: [
     {
@@ -23,5 +23,5 @@ export const dayEntryKeys = {
     },
   ],
   createdAt: "2026-09-05T19:12:24.995Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:45:32.036Z",
 } as const satisfies Module
