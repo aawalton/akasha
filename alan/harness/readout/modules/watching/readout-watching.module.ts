@@ -36,7 +36,7 @@ export const readoutWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The moment a take is asked for is the moment its reading is kept under.",
+      statement: "The moment a take is asked for is the moment its number is kept under.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -49,20 +49,19 @@ export const readoutWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A take finding no reading writes nothing and carries nothing.",
+      statement: "A take finding no number writes nothing and carries nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading is kept beside the readout that reading was taken for.",
+      statement: "A number is kept beside the readout that number was taken for.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading is carried to every site the watched readout names.",
+      statement: "A number is carried to every site the watched readout names.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "How fast a reading falls with the clock is read back off the readout and carried.",
+      statement: "How fast a number falls with the clock is read back off the readout and carried.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -102,7 +101,7 @@ export const readoutWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A take that throws costs its own reading rather than the readings beside it.",
+      statement: "A take that throws costs its own number rather than the numbers beside it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -142,7 +141,7 @@ export const readoutWatching = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads a reading out of a file.",
+      statement: "Nothing here reads a number out of a file.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -158,7 +157,7 @@ export const readoutWatching = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides a reading held is too old to show.",
+      statement: "Nothing here decides a number held is too old to show.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -166,5 +165,5 @@ export const readoutWatching = {
     },
   ],
   createdAt: "2026-09-10T16:03:36.973Z",
-  updatedAt: "2026-10-30T16:21:23.076Z",
+  updatedAt: "2026-10-30T17:37:36.078Z",
 } as const satisfies Module
