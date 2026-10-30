@@ -5,7 +5,7 @@ export const categoryGroupType = {
   type: "page-type/select-property",
   slug: "category-group-type",
   propertySlug: "category-group-type",
-  definition: "which way money runs through a category's group",
+  definition: "how money moves in the transactions of a group of Monarch categories",
   values: ["expense", "income", "transfer"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const categoryGroupType = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:48:22.379Z",
 } as const satisfies SelectProperty
