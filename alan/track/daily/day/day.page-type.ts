@@ -11,7 +11,7 @@ export const day = {
   id: "01a05fd8-c30f-72ee-80d9-eb1c179b8359",
   type: "page-type/page-type",
   slug: "day",
-  definition: "what was measured about one of Alan's days",
+  definition: "the measurements of a day in Alan's life",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "day" },
     { partOfSpeech: "part-of-speech/noun", spelling: "days" },
@@ -203,5 +203,5 @@ export const day = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-10-18T13:56:16.103Z",
+  updatedAt: "2026-10-30T16:34:23.479Z",
 } as const satisfies PageType
