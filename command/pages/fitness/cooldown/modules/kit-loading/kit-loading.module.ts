@@ -15,11 +15,11 @@ export const kitLoading = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "The gym today's latest set names is the gym Alan is at, else home.",
+      statement: "The gym today's latest exercise set names is the gym Alan is at, else home.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Today's latest set is the one Alan performed at the latest instant.",
+      statement: "Today's latest exercise set is the one Alan performed at the latest instant.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,6 +35,6 @@ export const kitLoading = {
       statement: "A gym no page names is refused rather than read as home.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:39.680Z",
+  updatedAt: "2026-10-30T17:27:54.627Z",
   createdAt: "2026-09-19T01:27:08.250Z",
 } as const satisfies Module
