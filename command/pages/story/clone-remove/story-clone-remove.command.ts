@@ -36,6 +36,19 @@ export const storyCloneRemove = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every log day naming a seat of the clone goes in that landing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The folder each such log day and each such seat had goes once the landing is made.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder named for no seat of the clone and no log day of it stays.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every committed file under the clone's folder goes in one landing.",
     },
     {
@@ -83,5 +96,5 @@ export const storyCloneRemove = {
     { argument: "argument/draft" },
   ],
   createdAt: "2026-10-27T21:21:01.035Z",
-  updatedAt: "2026-10-27T23:43:41.809Z",
+  updatedAt: "2026-10-30T20:14:28.830Z",
 } as const satisfies Command

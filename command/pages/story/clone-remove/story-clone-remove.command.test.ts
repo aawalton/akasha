@@ -25,7 +25,25 @@ const WORLD_CHECK = "story/world/mechanics/checks/world-check.page-type.ts"
 
 const NPC_AT = "story/world/pages/test-world/characters/probe-smith.character.ts"
 
-const SEAT_AT = "agent/seat/pages/iris-game-master-probe/iris-game-master-probe.seat.ts"
+const SEAT_FOLDER = "agent/seat/pages/iris-game-master-probe/"
+
+const SEAT_AT = `${SEAT_FOLDER}iris-game-master-probe.seat.ts`
+
+const DAYS = "agent/seat/log-day/pages/"
+
+function dayOf(seatName: string): {
+  readonly folder: string
+  readonly path: string
+  readonly value: Record<string, unknown>
+} {
+  const slug = `gateway-transport-${seatName}-2026-10-30`
+  const folder = `${DAYS}${slug}/`
+  return { folder, path: `${folder}${slug}.seat-log-day.ts`, value: { slug, seatName } }
+}
+
+const DAY = dayOf("iris-game-master-probe")
+
+const OTHER_DAYS = [dayOf("iris-game-master-probe2"), dayOf("iris-game-master-gifted-reborn")]
 
 const ORIGINAL = "story/world/pages/test-world/stories/played/test-story/test-story.story-played.ts"
 
@@ -129,15 +147,16 @@ function reachInto(
     },
     seatsOf: (_root, story) =>
       story === `${storyPlayed.slug}/probe`
-        ? [{ name: "iris-game-master-probe", id: "seat-id" }]
+        ? [{ name: "iris-game-master-probe", id: "seat-id", path: SEAT_AT }]
         : [],
+    logDays: () => [...OTHER_DAYS, DAY],
     halting: async (_given, _id, name) => {
       calls.stopped.push(name)
       if (refusing !== null) return { refused: refusing, code: 3 }
       return { stopped: { name, pids: [], signalled: false, how: "reconciled", moved: [] } }
     },
-    sweep: (_root, folder) => {
-      calls.swept.push(folder)
+    sweep: (_root, folders) => {
+      calls.swept.push(...folders)
     },
   }
 }
@@ -185,7 +204,16 @@ test("a removal stops every seat, then lands the parts and pages in one landing"
   expect(calls.stopped).toEqual(["iris-game-master-probe"])
   expect(calls.landed.length).toBe(1)
   const ats = (calls.landed[0] ?? []).map((one) => (one.given as { readonly at: string }).at)
-  expect(ats).toEqual([WORLD_CHECK, PLACE_AT, STORY_AT, CHECK_AT, TURN_AT, PLAYER_AT, NPC_AT])
+  expect(ats).toEqual([
+    WORLD_CHECK,
+    PLACE_AT,
+    STORY_AT,
+    CHECK_AT,
+    TURN_AT,
+    PLAYER_AT,
+    NPC_AT,
+    DAY.path,
+  ])
   expect(calls.landed[0]?.[1]?.given).toEqual({
     at: PLACE_AT,
     key: "facts",
@@ -194,8 +222,46 @@ test("a removal stops every seat, then lands the parts and pages in one landing"
     is: "The hall is long.",
     field: "knowers",
   })
-  expect(calls.swept).toEqual([FOLDER])
+  expect(calls.swept).toEqual([FOLDER, DAY.folder, SEAT_FOLDER])
   expect(answer.report).toContain("commit\tc0ffee")
+})
+
+test("a removal takes its seats' own log days and folders, and no other seat's", async () => {
+  const calls = fresh()
+  const draft = await storyCloneRemove(
+    ["--story", "probe", "--draft"],
+    GIVEN,
+    landingInto(calls),
+    reachInto(calls)
+  )
+  expect(draft.report).toContain(`remove\t${DAY.path}`)
+  expect(draft.report).toContain(`sweep\t${DAY.folder}`)
+  expect(draft.report).toContain(`sweep\t${SEAT_FOLDER}`)
+  const answer = await storyCloneRemove(
+    ["--story", "probe"],
+    GIVEN,
+    landingInto(calls),
+    reachInto(calls)
+  )
+  expect(answer.report).toContain(`remove\t${DAY.path}`)
+  const ats = (calls.landed[0] ?? []).map((one) => (one.given as { readonly at: string }).at)
+  for (const other of OTHER_DAYS) {
+    expect(draft.report).not.toContain(other.path)
+    expect(ats).not.toContain(other.path)
+    expect(calls.swept).not.toContain(other.folder)
+  }
+})
+
+test("a log day sitting outside a folder of its own name leaves that folder where it is", async () => {
+  const calls = fresh()
+  const loose = {
+    path: `${DAYS}loose.seat-log-day.ts`,
+    value: { slug: "loose", seatName: "iris-game-master-probe" },
+  }
+  const reach: Reach = { ...reachInto(calls), logDays: () => [loose] }
+  const answer = await storyCloneRemove(["--story", "probe"], GIVEN, landingInto(calls), reach)
+  expect(answer.report).toContain(`remove\t${loose.path}`)
+  expect(calls.swept).toEqual([FOLDER, SEAT_FOLDER])
 })
 
 test("a shared page loses the clone as a knower and stays, and a page the clone made goes", async () => {

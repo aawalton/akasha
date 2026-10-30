@@ -1,5 +1,6 @@
 import { rmSync } from "node:fs"
-import { join } from "node:path"
+import { basename, dirname, join } from "node:path"
+import { seatLogDay } from "akasha/agent/seat/log-day/seat-log-day.page-type.ts"
 import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import { type Stopping, stopping } from "akasha/agent/seat/stopping/seat-stopping.module.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
@@ -41,6 +42,7 @@ import {
 } from "akasha/command/pages/story/modules/cloning/story-cloning.module.code.ts"
 import {
   listedAt,
+  type Valued,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { removeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
@@ -83,9 +85,11 @@ const FACT = "fact"
 
 const KNOWERS = "knowers"
 
+const SEAT_NAME = "seatName"
+
 const TAB = "\t"
 
-type SeatHeld = { readonly name: string; readonly id: string }
+type SeatHeld = { readonly name: string; readonly id: string; readonly path: string }
 
 type Halting = (
   given: Given,
@@ -101,8 +105,9 @@ export type Reach = {
   readonly committedUnder: (root: string, folder: string) => readonly string[]
   readonly referrersOf: (root: string, path: string) => readonly Referrer[]
   readonly seatsOf: (root: string, story: string) => readonly SeatHeld[]
+  readonly logDays: (root: string) => readonly Valued[]
   readonly halting: Halting
-  readonly sweep: (root: string, folder: string, pages: readonly string[]) => undefined
+  readonly sweep: (root: string, folders: readonly string[], pages: readonly string[]) => undefined
 }
 
 function seatsIndexed(root: string, story: string): readonly SeatHeld[] {
@@ -111,14 +116,14 @@ function seatsIndexed(root: string, story: string): readonly SeatHeld[] {
     if (one.value[ASSIGNMENT] !== story) continue
     const name = textAt(one.value, SLUG)
     const id = textAt(one.value, ID)
-    if (name !== null && id !== null) found.push({ name, id })
+    if (name !== null && id !== null) found.push({ name, id, path: one.path })
   }
   return found.toSorted((one, two) => (one.name < two.name ? -1 : one.name > two.name ? 1 : 0))
 }
 
-function swept(root: string, folder: string, pages: readonly string[]): undefined {
+function swept(root: string, folders: readonly string[], pages: readonly string[]): undefined {
   for (const one of pages) removeUncommitted(root, one)
-  rmSync(join(root, folder), { recursive: true, force: true })
+  for (const one of folders) rmSync(join(root, one), { recursive: true, force: true })
   return undefined
 }
 
@@ -128,6 +133,7 @@ const INDEXED: Reach = {
   committedUnder,
   referrersOf,
   seatsOf: seatsIndexed,
+  logDays: (root) => valuesOfType(root, seatLogDay.slug),
   halting: stopping,
   sweep: swept,
 }
@@ -174,6 +180,8 @@ function unknowingIn(
 type Plan = {
   readonly folder: string
   readonly seats: readonly SeatHeld[]
+  readonly days: readonly string[]
+  readonly emptied: readonly string[]
   readonly files: readonly string[]
   readonly pages: readonly string[]
   readonly unlisting: readonly Unlisting[]
@@ -193,6 +201,26 @@ function besideAny(path: string, pages: readonly string[]): boolean {
 
 function last(path: string): number {
   return path.endsWith(PAGE_TYPE_FILE) ? 1 : 0
+}
+
+function folderNamed(path: string, name: string | null): string | null {
+  const folder = dirname(path)
+  return name !== null && name !== "" && basename(folder) === name ? `${folder}/` : null
+}
+
+function seatsOwn(
+  seats: readonly SeatHeld[],
+  days: readonly Valued[]
+): { readonly days: readonly string[]; readonly emptied: readonly string[] } {
+  const named = new Set(seats.map((one) => one.name))
+  const own = days
+    .filter((one) => named.has(textAt(one.value, SEAT_NAME) ?? ""))
+    .toSorted((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
+  const emptied = [
+    ...own.map((one) => folderNamed(one.path, textAt(one.value, SLUG))),
+    ...seats.map((one) => folderNamed(one.path, one.name)),
+  ].filter((one): one is string => one !== null)
+  return { days: own.map((one) => one.path), emptied }
 }
 
 function planned(root: string, slug: string, reach: Reach): Plan | Refusing {
@@ -261,6 +289,8 @@ function planned(root: string, slug: string, reach: Reach): Plan | Refusing {
   const going = [...pages, ...[...outside].sort()]
   const alone = committed.filter((one) => !isPage(one) && !besideAny(one, pages))
   const files = [...going, ...alone].toSorted((one, two) => last(one) - last(two))
+  const seats = reach.seatsOf(root, owner)
+  const own = seatsOwn(seats, reach.logDays(root))
   const asked: Asking[] = [
     ...unlisting.map(
       (one): Asking => ({ at: REMOVE_VALUE, given: { at: one.at, key: PARTS, value: one.value } })
@@ -278,11 +308,13 @@ function planned(root: string, slug: string, reach: Reach): Plan | Refusing {
         },
       })
     ),
-    ...files.map((one): Asking => ({ at: REMOVE_FILE, given: { at: one } })),
+    ...[...files, ...own.days].map((one): Asking => ({ at: REMOVE_FILE, given: { at: one } })),
   ]
   return {
     folder,
-    seats: reach.seatsOf(root, `${storyPlayed.slug}/${slug}`),
+    seats,
+    days: own.days,
+    emptied: own.emptied,
     files,
     pages,
     unlisting,
@@ -296,7 +328,8 @@ function rowsOf(plan: Plan): readonly string[] {
     ...plan.seats.map((one) => `seat${TAB}${one.name}`),
     ...plan.unlisting.map((one) => `unlist${TAB}${one.at}${TAB}${one.value}`),
     ...plan.unknowing.map((one) => `unknow${TAB}${one.at}${TAB}${one.knower}${TAB}${one.fact}`),
-    ...plan.files.map((one) => `remove${TAB}${one}`),
+    ...[...plan.files, ...plan.days].map((one) => `remove${TAB}${one}`),
+    ...plan.emptied.map((one) => `sweep${TAB}${one}`),
   ]
 }
 
@@ -335,7 +368,7 @@ async function removed(
     { writer: given.writer, done }
   )
   if ("refusals" in landed) return keeping(done, refusedBy([...rows, ...landed.refusals], DATA))
-  reach.sweep(given.root, plan.folder, plan.pages)
+  reach.sweep(given.root, [plan.folder, ...plan.emptied], plan.pages)
   return told([
     ...rows,
     ...done,
