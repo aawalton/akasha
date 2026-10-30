@@ -4,7 +4,7 @@ export const emailRuleSet = {
   id: "01a06871-54e5-7000-b703-1ea0c1101a4d",
   type: "page-type/module",
   slug: "email-rule-set",
-  definition: "the fields an email rule tests, and where a person's rules of each kind are",
+  definition: "the shape and folder of an email rule",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -27,5 +27,5 @@ export const emailRuleSet = {
     },
   ],
   createdAt: "2026-09-03T18:04:12.901Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:31:09.085Z",
 } as const satisfies Module
