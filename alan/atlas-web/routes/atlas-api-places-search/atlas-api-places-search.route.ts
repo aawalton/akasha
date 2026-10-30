@@ -4,9 +4,9 @@ export const atlasApiPlacesSearch = {
   id: "01a0883a-9a45-797a-8b58-e67b92e3c969",
   type: "page-type/route",
   slug: "atlas-api-places-search",
-  definition: "the places Geoapify offers for what a reader typed",
+  definition: "the places that match the text a browser sends",
   code: "ts",
   urlPath: "api/alan/collections/places/search",
   createdAt: "2026-09-09T22:12:17.093Z",
-  updatedAt: "2026-09-15T16:44:30.000Z",
+  updatedAt: "2026-10-30T14:46:37.736Z",
 } as const satisfies Route
