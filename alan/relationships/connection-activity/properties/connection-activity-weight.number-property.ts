@@ -5,9 +5,9 @@ export const connectionActivityWeight = {
   type: "page-type/number-property",
   slug: "connection-activity-weight",
   propertySlug: "connection-activity-weight",
-  definition: "how much the calibration counts this activity",
+  definition: "how much of an activity counts",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:37:29.998Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:26:12.054Z",
 } as const satisfies NumberProperty
