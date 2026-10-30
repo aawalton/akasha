@@ -5,10 +5,10 @@ export const adasOptional = {
   type: "page-type/text-property",
   slug: "adas-optional",
   propertySlug: "adas-optional",
-  definition: "what driver assistance a trim offers at extra cost",
+  definition: "the driver assistance a buyer can add to a car trim for a price",
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-21T18:38:48.090Z",
-  updatedAt: "2026-09-21T18:40:16.000Z",
+  updatedAt: "2026-10-30T14:52:47.631Z",
 } as const satisfies TextProperty
