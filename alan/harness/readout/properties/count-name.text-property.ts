@@ -5,10 +5,10 @@ export const countName = {
   type: "page-type/text-property",
   slug: "count-name",
   propertySlug: "count-name",
-  definition: "the words a readout's count is named by where a day states no count",
+  definition: "the words for the number a readout shows where a day's page has no number",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-24T18:24:50.712Z",
-  updatedAt: "2026-09-24T18:24:58.000Z",
+  updatedAt: "2026-10-30T16:09:38.297Z",
 } as const satisfies TextProperty
