@@ -5,6 +5,10 @@ export const monarchRecord = {
   type: "page-type/page-type",
   slug: "monarch-record",
   definition: "a thing Monarch keeps about the household's money",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "Monarch record" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Monarch records" },
+  ],
   extends: ["page-type/page"],
   parts: ["text-property/monarch-id"],
   properties: [
@@ -38,5 +42,5 @@ export const monarchRecord = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T15:37:27.543Z",
 } as const satisfies PageType
