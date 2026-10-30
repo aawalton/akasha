@@ -4,7 +4,7 @@ export const supervisorInteractive = {
   id: "01a06871-3115-700a-b93f-c32bdd8735c6",
   type: "page-type/module",
   slug: "supervisor-interactive",
-  definition: "a seat's run as a repeated loop of Claude children, one iteration at a time",
+  definition: "how code runs the processes of a seat's agent",
   code: "ts",
   decisions: [
     {
@@ -57,5 +57,5 @@ export const supervisorInteractive = {
     },
   ],
   createdAt: "2026-09-03T18:04:03.733Z",
-  updatedAt: "2026-09-24T17:03:50.000Z",
+  updatedAt: "2026-10-30T14:51:27.861Z",
 } as const satisfies Module
