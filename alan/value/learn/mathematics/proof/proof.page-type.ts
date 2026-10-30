@@ -4,7 +4,7 @@ export const proof = {
   id: "01a0657f-5da8-7d50-9da8-5ad4177c9541",
   type: "page-type/page-type",
   slug: "proof",
-  definition: "an attempt at deriving a proposition in the formal system",
+  definition: "the steps Alan writes to prove a proposition",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "proof" },
     { partOfSpeech: "part-of-speech/noun", spelling: "proofs" },
@@ -44,5 +44,5 @@ export const proof = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:20:41.000Z",
-  updatedAt: "2026-10-30T16:42:24.318Z",
+  updatedAt: "2026-10-30T16:43:11.152Z",
 } as const satisfies PageType
