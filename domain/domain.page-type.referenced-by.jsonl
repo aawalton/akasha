@@ -17,7 +17,6 @@
 {"propertySlug":"extends-type","path":"alan/harness/readout/scale/readout-scale.page-type.ts","id":"01a05446-e75f-756a-b8d9-4288a350957f"}
 {"propertySlug":"extends-type","path":"alan/harness/readout/widget/readout-widget.page-type.ts","id":"01a05480-1c86-7e95-b799-63b1c0152f62"}
 {"propertySlug":"extends-type","path":"alan/music/listening/heard-music/heard-source/heard-source.page-type.ts","id":"01a0caa0-b6c1-7234-996f-f008199be104"}
-{"propertySlug":"extends-type","path":"alan/track/tracking-capture/tracking-capture.page-type.ts","id":"01a06827-ec0b-7fa8-bb0a-ae697d6c6a9e"}
 {"propertySlug":"extends-type","path":"alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts","id":"01a09412-00c5-7bbd-ba9c-61f0608a646c"}
 {"propertySlug":"extends-type","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}
 {"propertySlug":"extends-type","path":"change/kind/change-kind.page-type.ts","id":"01a05e11-d3f8-72af-b104-6cdd1255b0eb"}
@@ -315,7 +314,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/style/style.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/track/daily/track-daily.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/track/track.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/track/tracking-capture/tracking-capture.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/coaching/fitness-coaching.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/coaching/schedule/schedule.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/value/health/fitness/fitness.domain.ts","typed":true,"deferred":false}

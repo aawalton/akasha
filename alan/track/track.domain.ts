@@ -12,8 +12,7 @@ export const track = {
     "page-type/rejection",
     "page-type/session-activity",
     "page-type/to-do",
-    "page-type/tracking-capture",
   ],
   createdAt: "2026-09-02T16:03:07.263Z",
-  updatedAt: "2026-10-30T17:03:25.528Z",
+  updatedAt: "2026-10-30T17:06:29.031Z",
 } as const satisfies Domain
