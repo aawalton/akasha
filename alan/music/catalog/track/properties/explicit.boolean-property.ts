@@ -5,7 +5,7 @@ export const explicit = {
   type: "page-type/boolean-property",
   slug: "explicit",
   propertySlug: "explicit",
-  definition: "whether a provider marks a recording as explicit",
+  definition: "whether a track is explicit",
   spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "explicit" }],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const explicit = {
   ],
   types: "ts",
   createdAt: "2026-09-15T16:22:18.611Z",
-  updatedAt: "2026-10-30T17:22:40.718Z",
+  updatedAt: "2026-10-30T17:23:24.095Z",
 } as const satisfies BooleanProperty
