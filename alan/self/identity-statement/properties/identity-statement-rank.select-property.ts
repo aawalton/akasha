@@ -6,8 +6,9 @@ export const identityStatementRank = {
   slug: "identity-statement-rank",
   propertySlug: "identity-statement-rank",
   definition: "how hard this statement is to hold",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "identity statement rank" }],
   values: ["s-rank", "a-rank", "b-rank", "c-rank", "d-rank"],
   types: "ts",
   createdAt: "2026-09-03T04:32:47.519Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:44:43.453Z",
 } as const satisfies SelectProperty
