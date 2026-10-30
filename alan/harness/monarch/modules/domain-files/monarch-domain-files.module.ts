@@ -4,7 +4,7 @@ export const monarchDomainFiles = {
   id: "01a06865-ecc3-7ebe-8112-4082e54070c4",
   type: "page-type/module",
   slug: "monarch-domain-files",
-  definition: "the account, category, tag and holding pages, composed from Monarch's own rows",
+  definition: "how code writes each Monarch record that is not a month from the rows Monarch holds",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -72,5 +72,5 @@ export const monarchDomainFiles = {
     },
   ],
   createdAt: "2026-09-03T17:51:45.347Z",
-  updatedAt: "2026-09-25T15:05:29.000Z",
+  updatedAt: "2026-10-30T15:38:07.218Z",
 } as const satisfies Module
