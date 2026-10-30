@@ -4,7 +4,7 @@ export const royalRoadSyncing = {
   id: "01a0686a-7a57-7b85-b362-7a71277ca88c",
   type: "page-type/module",
   slug: "royal-road-syncing",
-  definition: "every chapter royal road lists for a story read and filed under that story",
+  definition: "how code writes each chapter Royal Road lists for a story under that story",
   code: "ts",
   test: "ts",
   decisions: [
@@ -178,5 +178,5 @@ export const royalRoadSyncing = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-10-22T15:10:11.063Z",
+  updatedAt: "2026-10-30T15:21:44.292Z",
 } as const satisfies Module
