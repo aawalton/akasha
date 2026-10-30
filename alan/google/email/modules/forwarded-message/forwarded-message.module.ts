@@ -4,7 +4,7 @@ export const forwardedMessage = {
   id: "01a0657c-604c-7002-a940-7c5975e0d53e",
   type: "page-type/module",
   slug: "forwarded-message",
-  definition: "the bytes of an email wrapped as a forward of itself",
+  definition: "how code writes an email that carries another email",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const forwardedMessage = {
     },
   ],
   createdAt: "2026-09-03T04:17:25.068Z",
-  updatedAt: "2026-09-22T14:34:11.000Z",
+  updatedAt: "2026-10-30T15:17:42.552Z",
 } as const satisfies Module
