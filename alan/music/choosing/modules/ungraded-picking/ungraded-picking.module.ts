@@ -4,7 +4,7 @@ export const ungradedPicking = {
   id: "01a0c581-61af-764e-8d72-3588a1f73858",
   type: "page-type/module",
   slug: "ungraded-picking",
-  definition: "the tracks a followed artist made that Alan has heard and has not graded",
+  definition: "the heard tracks of followed artists Alan has not graded",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const ungradedPicking = {
     },
   ],
   createdAt: "2026-09-21T19:46:25.839Z",
-  updatedAt: "2026-09-21T19:49:38.000Z",
+  updatedAt: "2026-10-30T17:21:46.086Z",
 } as const satisfies Module
