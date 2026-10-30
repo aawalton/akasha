@@ -5,7 +5,7 @@ export const rating = {
   type: "page-type/number-property",
   slug: "rating",
   propertySlug: "rating",
-  definition: "what Alan scored a book out of ten",
+  definition: "the score Alan gives a book",
   max: 10,
   decisions: [
     {
@@ -19,5 +19,5 @@ export const rating = {
   ],
   types: "ts",
   createdAt: "2026-09-03T12:32:44.815Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T15:07:58.414Z",
 } as const satisfies NumberProperty
