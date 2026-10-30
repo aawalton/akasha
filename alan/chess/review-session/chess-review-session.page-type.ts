@@ -4,7 +4,7 @@ export const chessReviewSession = {
   id: "019f1e54-024f-7c0b-9c78-d44a2a2e9f2e",
   type: "page-type/page-type",
   slug: "chess-review-session",
-  definition: "a game stepped through move by move with the coach",
+  definition: "a time an agent goes through a game with Alan",
   extends: ["page-type/page"],
   parts: [
     "file-property/chess-review-session-notes",
@@ -41,5 +41,5 @@ export const chessReviewSession = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-07-01T15:37:29.935Z",
-  updatedAt: "2026-09-24T19:29:15.000Z",
+  updatedAt: "2026-10-30T15:11:54.333Z",
 } as const satisfies PageType
