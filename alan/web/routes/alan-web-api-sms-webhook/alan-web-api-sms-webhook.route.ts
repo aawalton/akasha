@@ -4,7 +4,7 @@ export const alanWebApiSmsWebhook = {
   id: "01a08830-10e1-711f-916e-888aba8c6066",
   type: "page-type/route",
   slug: "alan-web-api-sms-webhook",
-  definition: "the inbound text Telnyx hands this app",
+  definition: "a text message Telnyx sends to alanwalton.com",
   code: "ts",
   urlPath: "api/sms/webhook",
   decisions: [
@@ -69,5 +69,5 @@ export const alanWebApiSmsWebhook = {
     },
   ],
   createdAt: "2026-09-09T22:00:46.561Z",
-  updatedAt: "2026-10-24T21:53:30.148Z",
+  updatedAt: "2026-10-30T17:03:58.964Z",
 } as const satisfies Route
