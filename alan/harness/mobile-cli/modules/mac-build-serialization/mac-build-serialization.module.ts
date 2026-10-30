@@ -4,7 +4,7 @@ export const macBuildSerialization = {
   id: "01a05cee-e560-7580-bebc-253f65ce563a",
   type: "page-type/module",
   slug: "mac-build-serialization",
-  definition: "the shell that serialises mac builds behind a directory lock and numbers each one",
+  definition: "how each mobile cut on Alan's MacBook takes a lock and a number",
   code: "ts",
   test: "ts",
   decisions: [
@@ -54,5 +54,5 @@ export const macBuildSerialization = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:27:00.371Z",
 } as const satisfies Module
