@@ -4,7 +4,7 @@ export const signedInRedirect = {
   id: "01a08e1d-f4fb-72e1-9f35-8bab309aa758",
   type: "page-type/module",
   slug: "signed-in-redirect",
-  definition: "where a signed-in reader asking for a signed-out route is sent",
+  definition: "how code sends a person signed in to the page alanwalton.com opens with",
   code: "ts",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const signedInRedirect = {
     },
   ],
   createdAt: "2026-09-11T01:38:43.067Z",
-  updatedAt: "2026-09-15T18:21:01.000Z",
+  updatedAt: "2026-10-30T17:03:20.226Z",
 } as const satisfies Module
