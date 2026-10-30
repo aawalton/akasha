@@ -7,13 +7,16 @@ export const giftedTrial200006 = {
   unit: "unit/words",
   partOfCollections: ["story-played/gifted-trial2"],
   position: 6,
+  prose: "txt",
   stepStatus: "step-status/beats",
   action:
     "I hold very still and strain to make out what the low voices beyond the walls are saying.",
   beats: "jsonl",
-  lore: ["place/gifted-trial2-world-womb"],
+  lore: ["lore/gifted-trial2-nala", "place/gifted-trial2-world-womb"],
   endsAt: "2026-10-28T09:15:00.000Z",
   createdAt: "2026-10-30T16:43:59.978Z",
-  updatedAt: "2026-10-30T16:51:52.835Z",
+  updatedAt: "2026-10-30T16:59:08.125Z",
+  ownLength: 26,
   outcomes: "jsonl",
+  characters: ["character-player/gifted-trial2-nala"],
 } as const satisfies StoryTurnPlayed
