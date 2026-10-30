@@ -4,8 +4,7 @@ export const inboxReading = {
   id: "01a069bf-3919-77bc-a8a7-66b02d4185bf",
   type: "page-type/module",
   slug: "inbox-reading",
-  definition:
-    "the counts on Alan's three inboxes, taken from his day pages and kept on their readouts",
+  definition: "how an inbox readout reads its number from a day's page",
   code: "ts",
   decisions: [
     {
@@ -134,5 +133,5 @@ export const inboxReading = {
     },
   ],
   createdAt: "2026-09-04T00:08:54.809Z",
-  updatedAt: "2026-10-18T13:46:11.572Z",
+  updatedAt: "2026-10-30T15:37:17.331Z",
 } as const satisfies Module
