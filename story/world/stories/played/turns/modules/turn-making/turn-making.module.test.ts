@@ -1,6 +1,4 @@
 import { expect, test } from "bun:test"
-import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
-import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { worldBuilder } from "akasha/story/chapter/step-status/pages/world-builder.step-status.ts"
@@ -15,35 +13,15 @@ import {
   openingMadeFor,
   turnMadeFor,
 } from "akasha/story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts"
+import {
+  callsFlowing,
+  callsOver,
+  callsRoleplayed,
+  GAME,
+  turnRow,
+  WORDS,
+} from "akasha/story/world/stories/played/turns/modules/turn-making/turn-making.module.test-fixtures.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
-
-const GAME = "the-saga"
-
-const WORDS = `${unit.slug}/${words.slug}`
-
-const HELD_AT = "stories/the-saga/turns/the-saga-00-002.story-turn-played.ts"
-
-function callsOver(status: string, wrote: Writing[]): Calls {
-  return {
-    ask: async () => ({
-      rows: [
-        {
-          slug: "the-saga-00-002",
-          position: 2,
-          partOfCollections: [`story-played/${GAME}`],
-          unit: WORDS,
-          stepStatus: `${stepStatus.slug}/${status}`,
-        },
-      ],
-      n: 3,
-    }),
-    read: async () => ({ at: "a-commit", bodies: [{ path: HELD_AT, content: "" }], unplaced: [] }),
-    write: async (asked) => {
-      wrote.push(asked)
-      return { commit: "a-commit", wrote: [], took: [] }
-    },
-  }
-}
 
 test("the story's latest turn is asked for by its place among the story's turns", () => {
   expect(latestAsked(GAME)).toMatchObject({
@@ -58,29 +36,6 @@ test("the story's latest turn is asked for by its place among the story's turns"
 const FLOWING = `${JSON.stringify({ beat: 1, event: "One.", prose: "One told.", changes: [] })}\n`
 
 const REMEMBERED = `${JSON.stringify({ beat: 1, event: "One.", changes: [], memory: [] })}\n`
-
-function callsFlowing(rows: readonly Readonly<Record<string, unknown>>[], wrote: Writing[]): Calls {
-  return {
-    ask: async () => ({ rows: [...rows], n: rows.length }),
-    read: async () => ({ at: "a-commit", bodies: [{ path: HELD_AT, content: "" }], unplaced: [] }),
-    write: async (asked) => {
-      wrote.push(asked)
-      return { commit: "a-commit", wrote: [], took: [] }
-    },
-  }
-}
-
-const turnRow = (
-  position: number,
-  status: string,
-  more: Readonly<Record<string, unknown>> = {}
-) => ({
-  slug: `the-saga-00-00${position}`,
-  position,
-  partOfCollections: [`story-played/${GAME}`],
-  stepStatus: `${stepStatus.slug}/${status}`,
-  ...more,
-})
 
 test("an action while the last turn's beats flow makes the next turn, waiting on its memory", async () => {
   const wrote: Writing[] = []
@@ -102,6 +57,16 @@ test("a turn made as the turn before's memory finishes is told, not left waiting
   const made = await turnMadeFor(GAME, "I open the gate", raced)
   expect(made).toMatchObject({ kind: "made", slug: "the-saga-00-003" })
   expect(["waits" in made, asked]).toEqual([false, []])
+})
+
+test("an action while the last turn is at player owing its memory makes the next turn waiting", async () => {
+  const owing = [turnRow(2, "player", { memoryOwed: true })]
+  const made = await turnMadeFor(GAME, "I open the gate", callsFlowing(owing, []))
+  expect(made).toMatchObject({ kind: "made", slug: "the-saga-00-003", waits: true })
+  expect(latestAsked(GAME).keys).toContain("memoryOwed")
+  const rows = [turnRow(3, "world-builder", { action: "I open the gate" }), ...owing]
+  const joined = await turnMadeFor(GAME, "I step through", callsFlowing(rows, []))
+  expect(joined).toMatchObject({ kind: "made", slug: "the-saga-00-003", waits: true })
 })
 
 test("an action while the last turn is at game-master makes the next turn waiting", async () => {
@@ -159,31 +124,6 @@ test("an action while the last turn is being made writes nothing", async () => {
   })
   expect(wrote).toEqual([])
 })
-
-function callsRoleplayed(latest: Readonly<Record<string, unknown>>, wrote: Writing[]): Calls {
-  return {
-    ask: async (query) => {
-      if (query.pageTypeSlug === "story-played") {
-        return { rows: [{ slug: GAME, roleplayed: true }], n: 1 }
-      }
-      if (query.pageTypeSlug === "story-reviewer") return { rows: [{ slug: "keen-eye" }], n: 1 }
-      const turn = {
-        slug: "the-saga-00-002",
-        position: 2,
-        partOfCollections: [`story-played/${GAME}`],
-        unit: WORDS,
-        roleplayed: true,
-        ...latest,
-      }
-      return { rows: [turn], n: 3 }
-    },
-    read: async () => ({ at: "a-commit", bodies: [{ path: HELD_AT, content: "" }], unplaced: [] }),
-    write: async (asked) => {
-      wrote.push(asked)
-      return { commit: "a-commit", wrote: [], took: [] }
-    },
-  }
-}
 
 test("an action in a roleplayed story makes a roleplayed turn every reviewer has passed", async () => {
   const wrote: Writing[] = []

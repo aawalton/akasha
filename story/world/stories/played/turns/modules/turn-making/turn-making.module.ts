@@ -7,6 +7,7 @@ export const turnMaking = {
   definition: "a played turn made new, from the action a player typed or as a story's opening",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -31,6 +32,11 @@ export const turnMaking = {
     {
       decisionKind: "decision-kind/departure",
       statement: "So does an action sent while the latest turn is at world-builder or game-master.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "So does an action sent while the latest turn is at player and still owes its memory.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -106,5 +112,5 @@ export const turnMaking = {
     },
   ],
   createdAt: "2026-09-26T17:39:09.550Z",
-  updatedAt: "2026-10-27T23:00:22.175Z",
+  updatedAt: "2026-10-30T14:53:12.355Z",
 } as const satisfies Module

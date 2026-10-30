@@ -31,7 +31,10 @@ import {
   stepIn,
   WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
-import { holdsBack } from "akasha/story/world/stories/played/turns/modules/turn-queueing/turn-queueing.module.code.ts"
+import {
+  holdsBack,
+  QUEUED_KEYS,
+} from "akasha/story/world/stories/played/turns/modules/turn-queueing/turn-queueing.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const MAKER = "action bar <action-bar@alanwalton.com>"
@@ -151,7 +154,7 @@ export function latestAsked(game: string): Query {
   return {
     pageTypeSlug: storyTurnPlayed.slug,
     where: { [COLLECTIONS]: { has: storyOf(game) } },
-    keys: [SLUG, POSITION, COLLECTIONS, UNIT, STATUS, ROLEPLAYED, PROSE, ACTION, BEATS_FILE],
+    keys: [SLUG, POSITION, COLLECTIONS, UNIT, PROSE, ACTION, ...QUEUED_KEYS],
     files: [BEATS_FILE],
     sortBy: POSITION,
     descending: true,

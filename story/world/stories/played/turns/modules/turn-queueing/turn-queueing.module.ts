@@ -18,6 +18,15 @@ export const turnQueueing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A turn at player that still owes its memory holds back the next turn until it lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The keys a turn is read by for this are named here, for every reader to ask for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "So the player may send an action while a turn is at any of those steps.",
     },
     {
@@ -30,5 +39,5 @@ export const turnQueueing = {
     },
   ],
   createdAt: "2026-10-27T23:00:22.175Z",
-  updatedAt: "2026-10-27T23:00:22.175Z",
+  updatedAt: "2026-10-30T14:53:12.355Z",
 } as const satisfies Module
