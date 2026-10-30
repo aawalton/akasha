@@ -5,7 +5,7 @@ export const statusBarSection = {
   type: "page-type/text-property",
   slug: "status-bar-section",
   propertySlug: "status-bar-section",
-  definition: "the section of the editor's status bar a group is drawn in",
+  definition: "the part of the code editor's status bar a group is shown in",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -24,5 +24,5 @@ export const statusBarSection = {
   ],
   types: "ts",
   createdAt: "2026-09-25T17:02:30.805Z",
-  updatedAt: "2026-09-25T17:02:42.000Z",
+  updatedAt: "2026-10-30T16:01:45.951Z",
 } as const satisfies TextProperty
