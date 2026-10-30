@@ -4,7 +4,11 @@ export const emailRule = {
   id: "01a06828-59d3-7486-8463-b59a1768c717",
   type: "page-type/page-type",
   slug: "email-rule",
-  definition: "what to do with some of a person's mail",
+  definition: "a rule that handles each email that matches the rule",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "email rule" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "email rules" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "page-type/email-rule-agent",
@@ -40,5 +44,5 @@ export const emailRule = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:44:30.035Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:37:13.246Z",
 } as const satisfies PageType
