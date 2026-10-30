@@ -11,6 +11,7 @@ export const irisGameMasterGiftedTrial2 = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "423f9e00-862f-4b43-aa23-e410ce0c2101",
   createdAt: "2026-10-30T16:44:07.687Z",
-  updatedAt: "2026-10-30T16:44:07.687Z",
+  updatedAt: "2026-10-30T16:44:20.217Z",
 } as const satisfies Seat
