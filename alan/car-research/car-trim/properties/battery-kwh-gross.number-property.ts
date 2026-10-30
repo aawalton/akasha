@@ -5,9 +5,9 @@ export const batteryKwhGross = {
   type: "page-type/number-property",
   slug: "battery-kwh-gross",
   propertySlug: "battery-kwh-gross",
-  definition: "how much energy the traction battery holds in all, in kilowatt hours",
+  definition: "the total kilowatt hours the main battery of a car trim holds",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:40:36.144Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T14:49:48.086Z",
 } as const satisfies NumberProperty
