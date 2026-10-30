@@ -5,9 +5,9 @@ export const batteryLevel = {
   type: "page-type/number-property",
   slug: "battery-level",
   propertySlug: "battery-level",
-  definition: "how much charge the device held, as a fraction of full",
+  definition: "how full a device's battery is",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T21:38:23.027Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:45:54.226Z",
 } as const satisfies NumberProperty
