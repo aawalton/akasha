@@ -4,7 +4,7 @@ export const locationBatch = {
   id: "01a06582-6b30-7821-aec9-e664610f024b",
   type: "page-type/module",
   slug: "location-batch",
-  definition: "the shape of a batch of captured location points",
+  definition: "the shape of a batch of positions the phone reports",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -27,5 +27,5 @@ export const locationBatch = {
     },
   ],
   createdAt: "2026-09-03T04:24:01.072Z",
-  updatedAt: "2026-09-24T19:53:21.000Z",
+  updatedAt: "2026-10-30T16:04:22.549Z",
 } as const satisfies Module
