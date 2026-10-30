@@ -146,16 +146,44 @@ test("a clone lands its pages, and the parts naming a copied page name the copy"
   expect(answer.report).toContain("gameMaster\tiris-game-master-probe")
 })
 
-test("a story of a world stating no testing is refused, and nothing lands", async () => {
+test("a story of a world stating no testing is cloned into a world that states testing", async () => {
+  const world = "story/world/pages/one-world/one-world.world.ts"
+  const texts: Record<string, string> = {
+    [GIFTED]: [
+      "export const giftedReborn = {",
+      '  type: "page-type/story-played",',
+      '  slug: "gifted-reborn",',
+      '  coordinatorAgent: "aine-game-master-gifted-reborn",',
+      "} as const satisfies StoryPlayed",
+      "",
+    ].join("\n"),
+    [world]: [
+      "export const oneWorld = {",
+      '  type: "page-type/world",',
+      '  slug: "one-world",',
+      "} as const satisfies World",
+      "",
+    ].join("\n"),
+  }
+  const real: Reach = {
+    ...REACH,
+    committedUnder: () => [world, GIFTED],
+    textOf: (_root, path) => texts[path] ?? null,
+    valueOf: (_root, path) => (path === world ? { slug: "one-world" } : (VALUES[path] ?? null)),
+  }
   const landed: Landed[] = []
   const answer = await storyClone(
     ["--story", "gifted-reborn", "--as", "probe"],
     GIVEN,
     landingInto(landed),
-    REACH
+    real
   )
-  expect(answer.code).not.toBe(0)
-  expect(landed.length).toBe(0)
+  expect(answer.code).toBe(0)
+  const asked = landed[0]?.asked ?? []
+  const made = asked.map((one) => one.given as { readonly at: string; readonly body: string })
+  const copy = made.find((one) => one.at === `${CLONED}probe-world.world.ts`)
+  expect(copy?.body).toContain("  testing: true,\n")
+  expect(answer.report).toContain("gameMaster\taine-game-master-probe")
 })
 
 test("a slug held already is refused, and nothing lands", async () => {

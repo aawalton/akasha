@@ -57,6 +57,12 @@ const OPENS = /^ {2}opensAt: .*,\n/m
 
 const SLUG_LINE = /^ {2}slug: .*,\n/m
 
+const TESTING_STATED = /^ {2}testing: true,\n/m
+
+const TESTING_LINE = /^ {2}testing: .*,\n/m
+
+const TESTING = "  testing: true,\n"
+
 const SPECIAL = /[.*+?^${}()|[\]\\]/g
 
 const GAME_MASTER = "game-master"
@@ -174,6 +180,11 @@ function storyBody(text: string, story: Story): string {
   return opened.replace(SLUG_LINE, (held) => `${held}${lines.join("")}`)
 }
 
+function testingStated(text: string): string {
+  if (TESTING_STATED.test(text)) return text
+  return text.replace(TESTING_LINE, "").replace(SLUG_LINE, (held) => `${held}${TESTING}`)
+}
+
 function pageBody(text: string): string {
   return text.replace(GENERATED, "").replace(HISTORY, "")
 }
@@ -212,7 +223,9 @@ export function copiesOf(sources: readonly Source[], cloning: Cloning): readonly
     const at = clonedPath(one.path, worldFolder, story)
     const renamed = settledByOf(one.text, pageBody(renamedFor(one.text, story)))
     const body = one.path.startsWith(folder) ? renamed : strangersDropped(renamed, story.to)
-    made.push({ at, body: one.path === storyPath ? storyBody(body, story) : body })
+    if (one.path === storyPath) made.push({ at, body: storyBody(body, story) })
+    else if (one.path === worldPageOf(worldFolder)) made.push({ at, body: testingStated(body) })
+    else made.push({ at, body })
   }
   return made.toSorted((one, two) => (one.at < two.at ? -1 : one.at > two.at ? 1 : 0))
 }

@@ -134,6 +134,24 @@ test("a copied world page and the story in it name the clone's world", () => {
   expect(made?.body).toContain('knowers: ["character-player/probe-player"]')
 })
 
+test("a clone's world states testing, whether its source's world states it or not", () => {
+  const at = `${WORLD}test-world.world.ts`
+  const page = (testing: string) =>
+    [
+      "export const testWorld = {",
+      '  slug: "test-world",',
+      '  title: "Test World",',
+      ...(testing === "" ? [] : [testing]),
+      "} as const satisfies World",
+      "",
+    ].join("\n")
+  for (const said of ["", "  testing: false,", "  testing: true,"]) {
+    const body = copiesOf([{ path: at, text: page(said) }], CLONING)[0]?.body ?? ""
+    expect(body.match(/^ {2}testing: .*,$/gm)).toEqual(["  testing: true,"])
+    expect(body).toContain('slug: "probe-world"')
+  }
+})
+
 test("turns, chapters and the files play or the index write beside a page are left", () => {
   expect(copied(FOLDER, `${FOLDER}turns/test-story-00-009.story-turn-played.ts`)).toBe(false)
   expect(copied(FOLDER, `${FOLDER}chapters/test-story-0001-x.story-chapter-played.ts`)).toBe(false)

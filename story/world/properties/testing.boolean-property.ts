@@ -17,10 +17,10 @@ export const testing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only a story in a testing world is cloned, and only a clone in one is removed.",
+      statement: "A clone's world is a testing world, and only a clone in one is removed.",
     },
   ],
   types: "ts",
   createdAt: "2026-10-27T23:34:04.191Z",
-  updatedAt: "2026-10-27T23:34:04.191Z",
+  updatedAt: "2026-10-30T13:29:05.542Z",
 } as const satisfies BooleanProperty

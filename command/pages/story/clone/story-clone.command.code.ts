@@ -40,7 +40,6 @@ import {
   storyBoundIn,
   worldFolderOf,
   worldNameOf,
-  worldPageOf,
 } from "akasha/command/pages/story/modules/cloning/story-cloning.module.code.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -68,8 +67,6 @@ const PAGE_FILE = ".ts"
 const PARTS = "parts"
 
 const MASTER = "coordinatorAgent"
-
-const TESTING = "testing"
 
 const ENDS = "endsAt"
 
@@ -172,13 +169,6 @@ function planned(
   if (storyPath === null)
     return { refused: `\`${held.from}\` names no played story here`, code: DATA }
   const worldFolder = worldFolderOf(storyPath)
-  const worldAt = worldPageOf(worldFolder)
-  if (reach.valueOf(root, worldAt)?.[TESTING] !== true) {
-    return {
-      refused: `\`${held.from}\` sits in \`${worldAt}\`, which states no \`${TESTING}: true\`, and only a story of a testing world is cloned`,
-      code: INPUT,
-    }
-  }
   const folder = folderOf(storyPath)
   const cloneFolder = cloneWorldFolderOf(worldFolder, held.to)
   if (reach.storyAt(root, held.to) !== null || reach.there(root, cloneFolder)) {

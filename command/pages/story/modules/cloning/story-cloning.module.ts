@@ -14,6 +14,10 @@ export const storyCloning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A clone's world states `testing: true`, whatever its source's world states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A clone's world copies its source world's own pages and the source story alone.",
     },
     {
@@ -87,5 +91,5 @@ export const storyCloning = {
     },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-27T23:43:41.809Z",
+  updatedAt: "2026-10-30T13:29:05.542Z",
 } as const satisfies Module
