@@ -4,7 +4,7 @@ export const widgetTapCounting = {
   id: "01a078a8-b96f-765d-99ff-5703d9b2edd3",
   type: "page-type/module",
   slug: "widget-tap-counting",
-  definition: "the taps a widget has taken, counted through the page store",
+  definition: "how code counts the taps on a readout widget through the page store",
   code: "ts",
   test: "ts",
   decisions: [
@@ -55,5 +55,5 @@ export const widgetTapCounting = {
     },
   ],
   createdAt: "2026-09-06T21:38:38.575Z",
-  updatedAt: "2026-09-24T19:26:00.000Z",
+  updatedAt: "2026-10-30T16:06:13.995Z",
 } as const satisfies Module
