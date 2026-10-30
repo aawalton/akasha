@@ -225,6 +225,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/someone.common-language-term.ts","id":"01a0caaf-8ea5-79fe-bc2a-cf106d3ecec1"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/something.common-language-term.ts","id":"01a0d8f5-82cf-76f5-bd17-6e0e1f36dc30"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/speech.common-language-term.ts","id":"01a0d975-8750-74e4-a523-b1f3c4550c52"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/spouse.common-language-term.ts","id":"01a18d45-85ae-72e9-9001-e4c9394a0fad"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/standard-error.common-language-term.ts","id":"01a15554-a687-7f6a-a20d-91cb378c3163"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/step.common-language-term.ts","id":"01a0d965-7a6f-7e87-8e56-2b1edc8fc796"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/stop.common-language-term.ts","id":"01a0d3ee-4609-79c9-8be8-f3c77f483337"}
@@ -233,6 +234,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/stress.common-language-term.ts","id":"01a0d589-bd20-7cd5-93b5-32b0ed60f678"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/subscription.common-language-term.ts","id":"01a1557b-11ab-7053-aead-a7364d14e50f"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/summarize.common-language-term.ts","id":"01a0d448-7978-70f2-8ad1-416d1d55bdbf"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/therapy.common-language-term.ts","id":"01a18d45-85b0-7dee-923a-14104ff11549"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/thing.common-language-term.ts","id":"01a0d583-caca-71b5-ac02-1ea4440f553c"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/time.common-language-term.ts","id":"01a0d96c-5040-7c7d-a398-a1ff3049f733"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/timer.common-language-term.ts","id":"01a0d46a-91c1-7fc1-8982-995a79b0923d"}
