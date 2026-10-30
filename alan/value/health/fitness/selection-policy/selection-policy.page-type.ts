@@ -4,7 +4,7 @@ export const selectionPolicy = {
   id: "01a06838-7a9d-7d0a-8e41-674ebea29caf",
   type: "page-type/page-type",
   slug: "selection-policy",
-  definition: "the coach's numbers for bounding Alan's training",
+  definition: "the numbers that guide Alan's training",
   extends: ["page-type/page"],
   parts: [
     "number-property/near-failure-rpe-floor",
@@ -68,6 +68,6 @@ export const selectionPolicy = {
   ],
   types: "ts",
   schema: "jsonl",
-  updatedAt: "2026-10-17T12:33:08.402Z",
+  updatedAt: "2026-10-30T16:48:59.094Z",
   createdAt: "2026-09-03T17:02:07.005Z",
 } as const satisfies PageType
