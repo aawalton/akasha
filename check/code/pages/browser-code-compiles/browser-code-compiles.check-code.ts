@@ -4,7 +4,7 @@ export const browserCodeCompiles = {
   id: "01a0d460-edb7-74c0-ab5c-ba4029cf7b17",
   type: "page-type/check-code",
   slug: "browser-code-compiles",
-  definition: "the check refusing a change the code a browser runs does not compile under",
+  definition: "whether the code a browser runs has no TypeScript error",
   parts: ["module/route-typegen"],
   runsOnChange: true,
   runsOnDeploy: true,
@@ -143,5 +143,5 @@ export const browserCodeCompiles = {
   check: { maxCpuSeconds: 120 },
   audit: { maxCpuSeconds: 300 },
   createdAt: "2026-09-24T17:05:17.239Z",
-  updatedAt: "2026-09-24T23:13:56.000Z",
+  updatedAt: "2026-10-30T17:42:13.155Z",
 } as const satisfies CheckCode
