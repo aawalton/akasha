@@ -12,5 +12,8 @@ export const awenCloneRemoveSeatPages = {
     "A seat page is taken only where it is a removed clone's own, and is read before it is taken.",
   ],
   createdAt: "2026-10-30T18:07:48.290Z",
-  updatedAt: "2026-10-30T18:07:48.290Z",
+  updatedAt: "2026-10-30T18:08:00.586Z",
+  intentStack: [
+    { statement: "A removed clone leaves no seat pages or folders of its seats behind." },
+  ],
 } as const satisfies Initiative

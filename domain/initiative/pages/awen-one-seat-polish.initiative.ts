@@ -7,16 +7,12 @@ export const awenOneSeatPolish = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   parent: "initiative/awen-story-engine-v3",
-  intentStack: [
-    {
-      statement: "A removed clone leaves no seat pages or folders of its seats behind.",
-    },
-  ],
+  intentStack: [],
   constraints: [
     "This initiative only coordinates, and subagents under its sub-initiatives do every implementation.",
     "Alan has approved every directive this initiative needs to land.",
     "No turn is taken in gifted-reborn, which is Alan's real save; a clone played by agents tests it.",
   ],
   createdAt: "2026-10-30T18:05:15.271Z",
-  updatedAt: "2026-10-30T18:07:59.312Z",
+  updatedAt: "2026-10-30T18:08:00.586Z",
 } as const satisfies Initiative
