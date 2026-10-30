@@ -4,7 +4,8 @@ export const changeRunnerAddressing = {
   id: "01a0d4e9-ae65-7b67-a7d9-e3474ed7d005",
   type: "page-type/change-generator",
   slug: "change-runner-addressing",
-  definition: "the map of the addresses each change runner reaches, written beside that runner",
+  definition:
+    "how code writes the arguments of each change a change runner runs beside that change runner",
   code: "ts",
   runsAfter: ["change-generator/value-minting"],
   decisions: [
@@ -18,5 +19,5 @@ export const changeRunnerAddressing = {
     },
   ],
   createdAt: "2026-09-24T19:34:39.461Z",
-  updatedAt: "2026-09-24T20:05:33.000Z",
+  updatedAt: "2026-10-30T17:41:24.236Z",
 } as const satisfies ChangeGenerator
