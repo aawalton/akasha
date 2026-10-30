@@ -5,7 +5,8 @@ export const matchComparison = {
   type: "page-type/select-property",
   slug: "match-comparison",
   propertySlug: "comparison",
-  definition: "how a clause weighs what it tests against what it holds",
+  definition:
+    "how a category rule compares a part of a transaction with the values the rule looks for",
   values: ["is", "is-not", "on-or-after", "is-before"],
   decisions: [
     {
@@ -19,5 +20,5 @@ export const matchComparison = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:44:26.378Z",
 } as const satisfies SelectProperty
