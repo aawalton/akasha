@@ -5,7 +5,7 @@ export const imdbId = {
   type: "page-type/text-property",
   slug: "imdb-id",
   propertySlug: "imdb-id",
-  definition: "the id IMDb gives a show or a film",
+  definition: "the id IMDb gives a show or a movie",
   maxLength: 20,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const imdbId = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-30T15:26:53.561Z",
 } as const satisfies TextProperty
