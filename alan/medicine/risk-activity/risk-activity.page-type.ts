@@ -4,7 +4,7 @@ export const riskActivity = {
   id: "01a183bc-e759-73c8-991d-7117b5f7bcfb",
   type: "page-type/page-type",
   slug: "risk-activity",
-  definition: "an activity the health model measures in disability-adjusted micromorts",
+  definition: "an activity the health simulation measures in disability-adjusted micromorts",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "risk activity" },
     { partOfSpeech: "part-of-speech/noun", spelling: "risk activities" },
@@ -43,5 +43,5 @@ export const riskActivity = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-28T18:19:17.719Z",
-  updatedAt: "2026-10-30T16:00:10.154Z",
+  updatedAt: "2026-10-30T16:24:54.622Z",
 } as const satisfies PageType
