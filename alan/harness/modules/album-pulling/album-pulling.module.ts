@@ -4,7 +4,7 @@ export const albumPulling = {
   id: "01a06585-5f39-70a6-bafc-9a2c3771bb19",
   type: "page-type/module",
   slug: "album-pulling",
-  definition: "the CloudKit calls an iCloud shared album is read by, and where each photo goes",
+  definition: "how code reads an iCloud shared album through CloudKit",
   code: "ts",
   decisions: [
     {
@@ -37,5 +37,5 @@ export const albumPulling = {
     },
   ],
   createdAt: "2026-09-03T04:27:14.617Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:55:17.459Z",
 } as const satisfies Module
