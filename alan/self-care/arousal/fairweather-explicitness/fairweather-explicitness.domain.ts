@@ -4,7 +4,7 @@ export const fairweatherExplicitness = {
   id: "01a10214-aed2-7f99-85cf-68905e120fee",
   type: "page-type/domain",
   slug: "fairweather-explicitness",
-  definition: "how far the story Fairweather takes its wanting",
+  definition: "how far the Fairweather story takes desire",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -102,5 +102,5 @@ export const fairweatherExplicitness = {
     },
   ],
   createdAt: "2026-10-03T14:04:32.338Z",
-  updatedAt: "2026-10-04T08:19:14.000Z",
+  updatedAt: "2026-10-30T16:43:53.359Z",
 } as const satisfies Domain
