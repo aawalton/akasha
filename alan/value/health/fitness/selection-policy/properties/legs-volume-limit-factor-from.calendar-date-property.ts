@@ -5,8 +5,8 @@ export const legsVolumeLimitFactorFrom = {
   type: "page-type/calendar-date-property",
   slug: "legs-volume-limit-factor-from",
   propertySlug: "legs-volume-limit-factor-from",
-  definition: "the first day a legs day's pound limit was multiplied",
+  definition: "the first day the pound limit of a day that trains the legs is multiplied",
   types: "ts",
   createdAt: "2026-10-17T12:33:08.402Z",
-  updatedAt: "2026-10-17T12:33:08.402Z",
+  updatedAt: "2026-10-30T16:53:12.540Z",
 } as const satisfies CalendarDateProperty
