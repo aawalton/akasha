@@ -4,7 +4,7 @@ export const pushNotifying = {
   id: "01a0686a-7a57-739f-880c-5afe3034b05a",
   type: "page-type/module",
   slug: "push-notifying",
-  definition: "every notification written for Alan pushed at his devices",
+  definition: "how code sends each notification written for a person to the devices of that person",
   code: "ts",
   decisions: [
     {
@@ -67,5 +67,5 @@ export const pushNotifying = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-09-24T20:06:02.000Z",
+  updatedAt: "2026-10-30T16:23:46.717Z",
 } as const satisfies Module
