@@ -5,7 +5,7 @@ export const readoutGroups = {
   type: "page-type/record-property",
   slug: "readout-groups",
   propertySlug: "groups",
-  definition: "the groups a readout is drawn in, each with the readout's place and label there",
+  definition: "the place and the name a readout has in each group the readout is shown in",
   properties: [
     { pageProperty: "relation-property/readout-group", required: true, many: false },
     { pageProperty: "number-property/place", required: true, many: false },
@@ -23,5 +23,5 @@ export const readoutGroups = {
   ],
   types: "ts",
   createdAt: "2026-10-18T13:28:15.838Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T16:12:01.131Z",
 } as const satisfies RecordProperty
