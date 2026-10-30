@@ -4,7 +4,7 @@ export const emailRuleReading = {
   id: "01a06871-54e5-7001-a2eb-d37372c1e8a3",
   type: "page-type/module",
   slug: "email-rule-reading",
-  definition: "a person's email rules read from the pages that have them",
+  definition: "how code reads a person's email rules from their pages",
   code: "ts",
   test: "ts",
   decisions: [
@@ -52,5 +52,5 @@ export const emailRuleReading = {
     },
   ],
   createdAt: "2026-09-03T18:04:12.901Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:30:23.587Z",
 } as const satisfies Module
