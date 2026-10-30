@@ -5,7 +5,7 @@ export const stoplights = {
   type: "page-type/computed-property",
   slug: "stoplights",
   propertySlug: "stoplights",
-  definition: "the rung each resource reached on the day, as one colored light apiece",
+  definition: "the tier color each resource reaches in a day",
   holds: "text",
   display: "inline",
   code: "ts",
@@ -47,5 +47,5 @@ export const stoplights = {
   ],
   types: "ts",
   createdAt: "2026-09-05T15:16:45.984Z",
-  updatedAt: "2026-10-20T11:13:07.970Z",
+  updatedAt: "2026-10-30T16:41:34.248Z",
 } as const satisfies ComputedProperty
