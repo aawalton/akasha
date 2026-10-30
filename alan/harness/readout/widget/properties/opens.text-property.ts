@@ -5,10 +5,10 @@ export const opens = {
   type: "page-type/text-property",
   slug: "opens",
   propertySlug: "opens",
-  definition: "where a tap on a widget goes",
+  definition: "the link a tap on a readout widget opens",
   maxLength: 150,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-08-30T21:07:57.197Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T16:03:40.746Z",
 } as const satisfies TextProperty
