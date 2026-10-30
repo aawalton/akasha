@@ -4,7 +4,7 @@ export const actingAccount = {
   id: "01a05b6f-999c-79d6-962f-62b580eda479",
   type: "page-type/module",
   slug: "acting-account",
-  definition: "which account a seat is acting for, read back off the surface the channel wrote",
+  definition: "how code reads a sender's account from the text a seat is shown",
   code: "ts",
   test: "ts",
   decisions: [
@@ -22,5 +22,5 @@ export const actingAccount = {
     },
   ],
   createdAt: "2026-09-01T05:27:15.612Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:08:18.679Z",
 } as const satisfies Module
