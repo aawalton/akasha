@@ -5,10 +5,10 @@ export const overview = {
   type: "page-type/text-property",
   slug: "overview",
   propertySlug: "overview",
-  definition: "what the model is, in a paragraph",
+  definition: "a paragraph that describes a car model",
   maxLength: 2000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:50:05.893Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T14:49:15.624Z",
 } as const satisfies TextProperty
