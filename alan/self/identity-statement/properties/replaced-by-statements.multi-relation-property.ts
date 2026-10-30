@@ -5,9 +5,9 @@ export const replacedByStatements = {
   type: "page-type/multi-relation-property",
   slug: "replaced-by-statements",
   propertySlug: "replaced-by-statements",
-  definition: "the statements superseding this one",
+  definition: "the identity statements that replace an identity statement",
   targetPageType: "page-type/identity-statement",
   types: "ts",
   createdAt: "2026-09-03T04:32:47.519Z",
-  updatedAt: "2026-09-22T13:59:42.000Z",
+  updatedAt: "2026-10-30T16:34:47.125Z",
 } as const satisfies MultiRelationProperty
