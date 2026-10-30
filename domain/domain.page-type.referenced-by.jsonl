@@ -134,6 +134,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/modules/reference-filing/page-reference-filing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/app/claude-code-app.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/background-command/background-command.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/claude-code.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/remote-control/claude-code-remote-control.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/remote-control/registration-account/claude-code-remote-control-registration-account.domain.ts","typed":true,"deferred":false}
