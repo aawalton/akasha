@@ -5,9 +5,9 @@ export const toDoCategory = {
   type: "page-type/select-property",
   slug: "to-do-category",
   propertySlug: "to-do-category",
-  definition: "the list a to-do is filed under in the app",
+  definition: "the list that holds a to-do in the app",
   values: ["faith", "health", "inbox", "love", "wealth"],
   types: "ts",
   createdAt: "2026-09-03T04:57:44.119Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:44:43.847Z",
 } as const satisfies SelectProperty
