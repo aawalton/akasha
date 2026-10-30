@@ -4,7 +4,8 @@ export const refusalTreeDrawing = {
   id: "01a0d943-723d-7d26-b8ff-fc7a0a3a3a50",
   type: "page-type/module",
   slug: "refusal-tree-drawing",
-  definition: "the refusals picture drawn from the definitions the grammar refuses",
+  definition:
+    "how code arranges every refusal of a definition under the page that has the definition",
   code: "ts",
   decisions: [
     {
@@ -30,5 +31,5 @@ export const refusalTreeDrawing = {
     },
   ],
   createdAt: "2026-09-25T15:51:11.165Z",
-  updatedAt: "2026-10-18T13:46:11.572Z",
+  updatedAt: "2026-10-30T15:35:42.170Z",
 } as const satisfies Module
