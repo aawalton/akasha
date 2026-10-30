@@ -5,10 +5,10 @@ export const regrettedMessage = {
   type: "page-type/text-property",
   slug: "regretted-message",
   propertySlug: "regretted",
-  definition: "the message a person takes back from a seat while the seat replies",
+  definition: "the message a person cancels",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-10-24T22:00:07.098Z",
-  updatedAt: "2026-10-24T22:00:07.098Z",
+  updatedAt: "2026-10-30T14:38:35.981Z",
 } as const satisfies TextProperty
