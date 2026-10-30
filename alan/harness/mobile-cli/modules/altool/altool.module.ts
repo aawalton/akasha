@@ -4,7 +4,7 @@ export const altool = {
   id: "01a05cee-e560-762e-9911-22cd2e9873c6",
   type: "page-type/module",
   slug: "altool",
-  definition: "the named failure classes read out of xcrun altool's validate and upload output",
+  definition: "the kinds of failure that code finds in what altool writes",
   code: "ts",
   test: "ts",
   decisions: [
@@ -41,5 +41,5 @@ export const altool = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-23T05:02:02.000Z",
+  updatedAt: "2026-10-30T16:23:27.533Z",
 } as const satisfies Module
