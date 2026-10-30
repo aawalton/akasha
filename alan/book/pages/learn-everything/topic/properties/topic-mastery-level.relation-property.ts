@@ -5,7 +5,7 @@ export const topicMasteryLevel = {
   type: "page-type/relation-property",
   slug: "topic-mastery-level",
   propertySlug: "mastery-level",
-  definition: "the rung at which a topic is scored",
+  definition: "the mastery level Alan has in a topic",
   targetPageType: "page-type/mastery-level",
   decisions: [
     {
@@ -15,5 +15,5 @@ export const topicMasteryLevel = {
   ],
   types: "ts",
   createdAt: "2026-09-06T19:56:03.383Z",
-  updatedAt: "2026-09-22T14:08:21.000Z",
+  updatedAt: "2026-10-30T16:23:44.175Z",
 } as const satisfies RelationProperty
