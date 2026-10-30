@@ -4,7 +4,7 @@ export const widgetTapAnswering = {
   id: "01a078aa-cea1-71ff-8aa2-0b3766623b39",
   type: "page-type/module",
   slug: "widget-tap-answering",
-  definition: "what a route answers when the app says a widget was tapped",
+  definition: "how a route responds when the app reports a tap on a readout widget",
   code: "ts",
   decisions: [
     {
@@ -49,5 +49,5 @@ export const widgetTapAnswering = {
     },
   ],
   createdAt: "2026-09-06T21:40:55.073Z",
-  updatedAt: "2026-09-15T18:21:01.000Z",
+  updatedAt: "2026-10-30T16:54:37.321Z",
 } as const satisfies Module
