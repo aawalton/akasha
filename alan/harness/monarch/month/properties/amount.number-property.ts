@@ -5,7 +5,7 @@ export const amount = {
   type: "page-type/number-property",
   slug: "amount",
   propertySlug: "amount",
-  definition: "how much money moved, in dollars",
+  definition: "the money a Monarch transaction moves in dollars",
   max: null,
   decisions: [
     {
@@ -19,5 +19,5 @@ export const amount = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:12:37.504Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:44:57.585Z",
 } as const satisfies NumberProperty
