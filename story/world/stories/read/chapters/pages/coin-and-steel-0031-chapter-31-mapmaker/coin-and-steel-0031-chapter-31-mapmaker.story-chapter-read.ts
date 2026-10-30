@@ -20,5 +20,7 @@ export const coinAndSteel0031Chapter31Mapmaker = {
     },
   ],
   createdAt: "2026-10-30T16:22:59.000Z",
-  updatedAt: "2026-10-30T16:22:59.000Z",
+  updatedAt: "2026-10-30T21:24:56.180Z",
+  ownProgress: 2251,
+  progressedAt: "2026-10-30T21:24:56.180Z",
 } as const satisfies StoryChapterRead
