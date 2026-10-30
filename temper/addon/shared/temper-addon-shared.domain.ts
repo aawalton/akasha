@@ -4,7 +4,7 @@ export const temperAddonShared = {
   id: "01a0c602-d7a2-7ba5-a4a1-a50edd20bb46",
   type: "page-type/domain",
   slug: "temper-addon-shared",
-  definition: "source more than one addon compiles into its own bundle",
+  definition: "code that more than one addon compiles into its own bundle",
   parts: [
     "domain/temper-addon-log",
     "domain/temper-hud-component",
@@ -27,5 +27,5 @@ export const temperAddonShared = {
     },
   ],
   createdAt: "2026-09-21T22:07:50.178Z",
-  updatedAt: "2026-10-28T21:43:47.335Z",
+  updatedAt: "2026-10-30T16:20:33.012Z",
 } as const satisfies Domain
