@@ -4,7 +4,7 @@ export const archiveOfWorldsSignIn = {
   id: "01a08281-abd1-7cef-b003-c8e010071b28",
   type: "page-type/route",
   slug: "archive-of-worlds-sign-in",
-  definition: "where a reader is sent off to alanwalton.com to be signed in",
+  definition: "how a person signs in at alanwalton.com",
   code: "ts",
   urlPath: "sign-in",
   decisions: [
@@ -18,5 +18,5 @@ export const archiveOfWorldsSignIn = {
     },
   ],
   createdAt: "2026-09-08T19:32:11.345Z",
-  updatedAt: "2026-09-19T21:31:00.000Z",
+  updatedAt: "2026-10-30T15:56:12.007Z",
 } as const satisfies Route
