@@ -4,8 +4,7 @@ export const iosSigning = {
   id: "01a05cee-e560-71dd-8e89-cb8b5c1119d9",
   type: "page-type/module",
   slug: "ios-signing",
-  definition:
-    "how a mac build gets its App Store distribution certificate and provisioning profile",
+  definition: "how code prepares the certificate and the provisioning profile that sign an app",
   code: "ts",
   test: "ts",
   decisions: [
@@ -89,5 +88,5 @@ export const iosSigning = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-10-29T16:30:14.366Z",
+  updatedAt: "2026-10-30T16:26:25.785Z",
 } as const satisfies Module
