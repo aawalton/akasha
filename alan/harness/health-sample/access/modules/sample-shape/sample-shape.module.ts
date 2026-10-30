@@ -4,7 +4,7 @@ export const sampleShape = {
   id: "01a05bc7-9129-7001-9204-f43ce2046c31",
   type: "page-type/module",
   slug: "sample-shape",
-  definition: "what a health reading has, and the metrics one can be",
+  definition: "the shape of a health sample",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const sampleShape = {
     },
   ],
   createdAt: "2026-09-01T07:03:20.617Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:30:43.070Z",
 } as const satisfies Module
