@@ -7,7 +7,7 @@ export const addImage = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "an image page, with its picture brought from a file outside the tree",
+  definition: "a change that adds an image page with a picture from a file outside the tree",
   code: "ts",
   test: "ts",
   decisions: [
@@ -49,5 +49,5 @@ export const addImage = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-25T13:09:13.570Z",
-  updatedAt: "2026-09-25T13:09:48.000Z",
+  updatedAt: "2026-10-30T17:06:38.182Z",
 } as const satisfies ChangeAgent
