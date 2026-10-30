@@ -5,7 +5,7 @@ export const monarchId = {
   type: "page-type/text-property",
   slug: "monarch-id",
   propertySlug: "monarch-id",
-  definition: "the identity Monarch gives one of its records",
+  definition: "the id a Monarch record has in Monarch",
   maxLength: 40,
   nameFormat: null,
   decisions: [
@@ -24,5 +24,5 @@ export const monarchId = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:48:25.085Z",
 } as const satisfies TextProperty
