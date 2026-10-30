@@ -59,7 +59,6 @@ export const alanWeb = {
 
     "module/capacitor-bridge",
     "module/capacitor-cors",
-    "module/declared-effects",
     "module/deep-link-open-sync",
     "module/device-secret-context",
     "module/device-secret-sync",
@@ -106,5 +105,5 @@ export const alanWeb = {
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-01T06:38:44.740Z",
-  updatedAt: "2026-10-30T17:21:54.956Z",
+  updatedAt: "2026-10-30T17:29:09.957Z",
 } as const satisfies RouterApp
