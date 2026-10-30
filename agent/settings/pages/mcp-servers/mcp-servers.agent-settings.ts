@@ -4,7 +4,7 @@ export const mcpServers = {
   id: "01a0657b-ad40-7e45-b0c2-fbd79f5a4b35",
   type: "page-type/agent-settings",
   slug: "mcp-servers",
-  definition: "the tool servers the client is given",
+  definition: "the mcp servers Claude Code can use",
   harnessSettings: "json",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const mcpServers = {
     },
   ],
   createdAt: "2026-09-03T04:16:39.232Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:43:18.772Z",
 } as const satisfies AgentSettings
