@@ -7,7 +7,7 @@ export const changeFile = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
-  definition: "a passage of a body replaced, judged by the checks a landing runs",
+  definition: "a change that replaces a passage of a file",
   code: "ts",
   test: "ts",
   decisions: [
@@ -74,5 +74,5 @@ export const changeFile = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-06T18:55:34.461Z",
-  updatedAt: "2026-09-24T15:54:16.000Z",
+  updatedAt: "2026-10-30T17:02:19.396Z",
 } as const satisfies ChangeAgent
