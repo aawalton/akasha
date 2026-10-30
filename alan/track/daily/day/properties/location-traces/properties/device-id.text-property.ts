@@ -5,10 +5,10 @@ export const deviceId = {
   type: "page-type/text-property",
   slug: "device-id",
   propertySlug: "device-id",
-  definition: "which of Alan's devices took this trace",
+  definition: "the device that reports a location",
   maxLength: 64,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T21:38:23.028Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:46:49.269Z",
 } as const satisfies TextProperty
