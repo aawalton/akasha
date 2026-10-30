@@ -4,7 +4,7 @@ export const supervisorBootStage = {
   id: "01a0683e-3dbe-700d-8afe-952b34ffad1a",
   type: "page-type/module",
   slug: "supervisor-boot-stage",
-  definition: "how long each stage of a supervisor's boot took",
+  definition: "the time each step needs when a supervisor starts",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const supervisorBootStage = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T16:29:57.000Z",
+  updatedAt: "2026-10-30T14:46:58.866Z",
 } as const satisfies Module
