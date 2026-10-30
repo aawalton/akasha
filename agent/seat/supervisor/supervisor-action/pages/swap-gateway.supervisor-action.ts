@@ -4,7 +4,7 @@ export const swapGateway = {
   id: "01a05ede-80cc-7266-b628-6fc355977249",
   type: "page-type/supervisor-action",
   slug: "swap-gateway",
-  definition: "a seat's model gateway replaced with one built from current code",
+  definition: "a seat's model gateway restarted on current code",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -12,5 +12,5 @@ export const swapGateway = {
     },
   ],
   createdAt: "2026-09-01T21:27:15.404Z",
-  updatedAt: "2026-09-22T20:23:37.000Z",
+  updatedAt: "2026-10-30T14:37:16.336Z",
 } as const satisfies SupervisorAction
