@@ -5,10 +5,10 @@ export const section = {
   type: "page-type/text-property",
   slug: "section",
   propertySlug: "section",
-  definition: "the offer's heading in the source",
+  definition: "the part of the location collection the offer sits in",
   maxLength: 20,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:27:14.757Z",
-  updatedAt: "2026-09-22T13:47:07.000Z",
+  updatedAt: "2026-10-30T15:11:19.353Z",
 } as const satisfies TextProperty
