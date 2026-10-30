@@ -48,11 +48,11 @@ export const rynStandardAgentEnglish = {
     "Only an item Ryn truly cannot resolve is put to Alan, with one refused definition that item would admit.",
     "A definition that needs two verbs joined by and marks a page that does two things, and that page is split rather than joined.",
     "Each subagent takes a slice of about twenty refused definitions, and a finished slice frees its place for the next.",
-    "Ryn keeps the list of open items in /var/tmp/claude-1000/-var-home-walton-repos/736f6f9c-fd07-41a2-ad52-572238bd600f/scratchpad/approvals.md.",
+    "Ryn keeps the list of open items in /var/tmp/claude-1000/-var-home-walton-repos/6dd8db8b-6134-46cd-b74b-5d140c993abc/scratchpad/approvals.md.",
     "That list is ordered by how many definitions wait on each item.",
     "A subagent lands a restated definition that needs no new word, construction or part of speech.",
     "A subagent brings back every item that needs a new word, construction or part of speech, and Ryn decides each item.",
   ],
   createdAt: "2026-09-07T13:31:48.602Z",
-  updatedAt: "2026-10-30T14:28:56.178Z",
+  updatedAt: "2026-10-30T14:33:11.258Z",
 } as const satisfies Initiative
