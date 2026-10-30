@@ -37,9 +37,9 @@ const PAGE_LANDING =
   " leaves a line in only where that landing refused, so a log naming this page nowhere says" +
   " those landings went rather than that none ran. That landing runs on" +
   " its own and the subagent does not wait for it, so it may still be queued, it may have" +
-  " refused, or nothing may have started it. A landing that refused for any reason but the lock or a" +
-  " put-back is retried by nothing, and a landing that ended before it could say why is" +
-  " retried by nothing either. Say that you are refused to whoever dispatched" +
+  " refused, or nothing may have started it. Each call that finds no page asks for that page" +
+  " again, so a landing that refused, or that ended before it could say why, is asked for again" +
+  " by the next call. Say that you are refused to whoever dispatched" +
   " you rather than working around the refusal."
 
 export function noPageSaid(root: string, agentId: string | null): string {

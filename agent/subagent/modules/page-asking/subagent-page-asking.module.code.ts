@@ -1,7 +1,8 @@
 import { spawn } from "node:child_process"
-import { appendFileSync, closeSync, existsSync, mkdirSync, openSync } from "node:fs"
+import { appendFileSync, closeSync, existsSync, mkdirSync, openSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   LOG_AT,
   supervisorsRootDir,
@@ -20,6 +21,7 @@ import {
   listedById,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { z } from "zod"
 
 export const WRITING = "write"
 
@@ -154,13 +156,45 @@ export function presenceAt(root: string): string | null {
 
 export type Asking = (root: string, seatId: string, args: readonly string[]) => undefined
 
+export type Kinding = (seatId: string, own: string) => string | null
+
+const TRANSCRIPT_ENDING = ".jsonl"
+
+const SUBAGENTS = "subagents"
+
+const DISPATCHED = z.looseObject({ agentType: z.string().min(1) })
+
+export function metaAt(transcript: string, own: string): string | null {
+  if (!transcript.endsWith(TRANSCRIPT_ENDING)) return null
+  return join(transcript.slice(0, -TRANSCRIPT_ENDING.length), SUBAGENTS, `agent-${own}.meta.json`)
+}
+
+export function kindIn(at: string | null): string | null {
+  if (at === null) return null
+  try {
+    return DISPATCHED.safeParse(JSON.parse(readFileSync(at, "utf8"))).data?.agentType ?? null
+  } catch {
+    return null
+  }
+}
+
+function kindDispatched(seatId: string, own: string): string | null {
+  const transcript = transcriptOf(seatId)
+  return transcript === null ? null : kindIn(metaAt(transcript.value, own))
+}
+
 function askingPresence(root: string, seatId: string, args: readonly string[]): undefined {
   const at = presenceAt(root)
   if (at !== null) askingAt(join(root, at), root, seatId, args)
   return undefined
 }
 
-export function askedBack(root: string, agentId: string, asking: Asking = askingPresence): boolean {
+export function askedBack(
+  root: string,
+  agentId: string,
+  asking: Asking = askingPresence,
+  kindOf: Kinding = kindDispatched
+): boolean {
   const seatId = seatAbove(agentId)
   if (seatId === null) return false
   const own = agentId.slice(seatId.length + SUBAGENT_MARK.length)
@@ -168,8 +202,9 @@ export function askedBack(root: string, agentId: string, asking: Asking = asking
   if (own === "" || seatName === null) return false
   const at = pathIn(root, slugOf(seatName, own))
   if (existsSync(join(root, at))) return false
-  if (subagentPageInHistory(root, at, agentId) === null) return false
-  asking(root, seatId, [WRITING, seatName, own, "", seatId, String(Date.now())])
+  const kind = subagentPageInHistory(root, at, agentId) === null ? kindOf(seatId, own) : ""
+  if (kind === null) return false
+  asking(root, seatId, [WRITING, seatName, own, kind, seatId, String(Date.now())])
   return true
 }
 

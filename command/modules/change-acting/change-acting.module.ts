@@ -130,12 +130,7 @@ export const changeActing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A landing refused for any reason but the lock or a put-back is retried by nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A landing that ended before it could say why is retried by nothing.",
+      statement: "That refusal says the next call that finds no page asks for that page again.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -218,5 +213,5 @@ export const changeActing = {
     },
   ],
   createdAt: "2026-09-07T14:59:55.121Z",
-  updatedAt: "2026-09-24T14:59:15.000Z",
+  updatedAt: "2026-10-30T16:58:43.490Z",
 } as const satisfies Module

@@ -1,11 +1,14 @@
 import { expect, test } from "bun:test"
-import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   type Asking,
   askedBack,
   askingAt,
+  type Kinding,
+  kindIn,
   logPathOf,
+  metaAt,
   seatNamedIn,
   WRITING,
 } from "akasha/agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts"
@@ -57,13 +60,37 @@ test("a subagent whose page is there asks for nothing", async () => {
   })
 })
 
-test("a subagent history has no page for asks for nothing", async () => {
+function kinded(kind: string | null): Kinding {
+  return () => kind
+}
+
+test("a subagent history has no page for and no dispatch names a kind for asks for nothing", async () => {
   await seatedById(async (root) => {
     const asked: (readonly string[])[] = []
-    expect(askedBack(root, agentIdOf(SEAT_ID, OWN), noting(asked))).toBe(false)
+    expect(askedBack(root, agentIdOf(SEAT_ID, OWN), noting(asked), kinded(null))).toBe(false)
     heldInHistory(root, OWN, agentIdOf(ANOTHER, OWN), "Explore")
-    expect(askedBack(root, agentIdOf(SEAT_ID, OWN), noting(asked))).toBe(false)
+    expect(askedBack(root, agentIdOf(SEAT_ID, OWN), noting(asked), kinded(null))).toBe(false)
     expect(asked).toEqual([])
+  })
+})
+
+test("a subagent whose page never landed is asked for under the kind it was dispatched as", async () => {
+  await seatedById(async (root) => {
+    const asked: (readonly string[])[] = []
+    expect(askedBack(root, agentIdOf(SEAT_ID, OWN), noting(asked), kinded("Explore"))).toBe(true)
+    expect(asked[0]?.slice(0, 5)).toEqual([WRITING, "akasha", OWN, "Explore", SEAT_ID])
+  })
+})
+
+test("the kind a subagent was dispatched as is read beside its seat's transcript", () => {
+  inScratch((root) => {
+    const at = metaAt(join(root, "session.jsonl"), OWN)
+    expect(at).toBe(join(root, "session", "subagents", `agent-${OWN}.meta.json`))
+    expect(kindIn(at)).toBe(null)
+    mkdirSync(join(root, "session", "subagents"), { recursive: true })
+    writeFileSync(at ?? "", JSON.stringify({ agentType: "general-purpose", toolUseId: "t" }))
+    expect(kindIn(at)).toBe("general-purpose")
+    expect(metaAt(join(root, "session.txt"), OWN)).toBe(null)
   })
 })
 

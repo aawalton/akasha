@@ -57,7 +57,16 @@ export const subagentPageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat, a page already there and a page history never had ask for nothing.",
+      statement:
+        "A page history never had is asked for under the kind its subagent was dispatched as.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That kind is read from the file the client keeps beside the seat's transcript.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat, a page already there and a page no kind is read for ask for nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -65,5 +74,5 @@ export const subagentPageAsking = {
     },
   ],
   createdAt: "2026-09-25T04:25:37.593Z",
-  updatedAt: "2026-10-30T16:20:41.028Z",
+  updatedAt: "2026-10-30T16:58:43.490Z",
 } as const satisfies Module
