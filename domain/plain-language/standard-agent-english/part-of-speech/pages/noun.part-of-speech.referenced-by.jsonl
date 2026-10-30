@@ -44,6 +44,7 @@
 {"propertySlug":"part-of-speech","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
 {"propertySlug":"part-of-speech","path":"alan/anime/anime.domain.ts","id":"01a0673a-bc3a-7001-b382-d105cf5b01d6"}
 {"propertySlug":"part-of-speech","path":"alan/attribute/attribute.page-type.ts","id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}
+{"propertySlug":"part-of-speech","path":"alan/authoring/book-record/book-record.page-type.ts","id":"01a0657d-b91d-7500-8bc9-4bbfb71443f8"}
 {"propertySlug":"part-of-speech","path":"alan/book/pages/learn-everything/topic/learn-everything-topic.page-type.ts","id":"01a0659f-93da-7011-b26e-605cb6f32b8f"}
 {"propertySlug":"part-of-speech","path":"alan/car-research/car-model/car-model.page-type.ts","id":"01a0659a-4bc5-745f-bbb3-18171fb52343"}
 {"propertySlug":"part-of-speech","path":"alan/car-research/car-trim/car-trim.page-type.ts","id":"01a06827-645d-74f5-957f-25b077d85817"}

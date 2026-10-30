@@ -5,6 +5,10 @@ export const bookRecord = {
   type: "page-type/page-type",
   slug: "book-record",
   definition: "a record kept about a book Alan is writing",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "book record" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "book records" },
+  ],
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [
@@ -42,5 +46,5 @@ export const bookRecord = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:18:53.341Z",
-  updatedAt: "2026-09-22T13:22:21.000Z",
+  updatedAt: "2026-10-30T14:50:05.933Z",
 } as const satisfies PageType
