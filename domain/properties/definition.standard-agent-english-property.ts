@@ -6,6 +6,10 @@ export const definition = {
   slug: "definition",
   propertySlug: "definition",
   definition: "the sentence naming what a page's subject is",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "definition" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "definitions" },
+  ],
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -43,5 +47,5 @@ export const definition = {
   types: "ts",
   startSymbol: "phrase-kind/domain-definition",
   createdAt: "2026-08-28T18:54:50.220Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T15:35:10.955Z",
 } as const satisfies StandardAgentEnglishProperty
