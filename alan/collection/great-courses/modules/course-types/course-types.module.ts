@@ -4,7 +4,7 @@ export const courseTypes = {
   id: "01a06579-f3d8-7000-9391-77da8f1eff7e",
   type: "page-type/module",
   slug: "course-types",
-  definition: "a course, a subject, and the catalogue's listings of them",
+  definition: "the shapes of the courses and the topics that code reads from The Great Courses",
   code: "ts",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const courseTypes = {
     },
   ],
   createdAt: "2026-09-03T04:14:46.232Z",
-  updatedAt: "2026-09-22T13:42:40.000Z",
+  updatedAt: "2026-10-30T15:18:05.491Z",
 } as const satisfies Module
