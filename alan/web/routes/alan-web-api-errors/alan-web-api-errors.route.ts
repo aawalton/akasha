@@ -4,7 +4,7 @@ export const alanWebApiErrors = {
   id: "01a0882e-29b1-7d23-b973-769880c8ff12",
   type: "page-type/route",
   slug: "alan-web-api-errors",
-  definition: "the errors a reader's browser reports",
+  definition: "the errors a browser sends to alanwalton.com",
   code: "ts",
   urlPath: "api/errors",
   decisions: [
@@ -14,5 +14,5 @@ export const alanWebApiErrors = {
     },
   ],
   createdAt: "2026-09-09T21:58:41.841Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:52:28.162Z",
 } as const satisfies Route
