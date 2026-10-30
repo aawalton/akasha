@@ -5,7 +5,8 @@ export const raisesCold = {
   type: "page-type/boolean-property",
   slug: "raises-cold",
   propertySlug: "raises-cold",
-  definition: "whether Alan can perform the movement cold to raise his temperature",
+  definition:
+    "whether Alan can perform a strength exercise without injury before any other strength exercise",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -22,5 +23,5 @@ export const raisesCold = {
   ],
   types: "ts",
   createdAt: "2026-09-19T16:13:46.375Z",
-  updatedAt: "2026-09-19T16:22:44.000Z",
+  updatedAt: "2026-10-30T16:54:11.391Z",
 } as const satisfies BooleanProperty
