@@ -201,7 +201,11 @@ export const giftedTrialNala = {
       fact: "Her Attributes read: Strength 100, Stamina 100, Coordination 100, Mental 104, Aether 100.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-trial-nala"],
     },
+    {
+      fact: "Her Status lists three Paths: Basic Numeracy at Tier 4, Exceptionalism at Tier 1, Soulstealing at 0.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial-nala"],
+    },
   ],
   createdAt: "2026-10-30T13:47:19.494Z",
-  updatedAt: "2026-10-30T14:36:24.989Z",
+  updatedAt: "2026-10-30T14:42:31.091Z",
 } as const satisfies Lore
