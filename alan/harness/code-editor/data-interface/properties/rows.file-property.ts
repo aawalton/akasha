@@ -5,7 +5,7 @@ export const rows = {
   type: "page-type/file-property",
   slug: "rows",
   propertySlug: "rows",
-  definition: "the per-page facts behind the picture a part of the editor draws",
+  definition: "the row each page gives to what a part of the code editor shows",
   extensions: ["jsonl"],
   generated: true,
   runsFileLength: false,
@@ -37,5 +37,5 @@ export const rows = {
   ],
   types: "ts",
   createdAt: "2026-09-19T16:45:14.473Z",
-  updatedAt: "2026-09-22T13:43:28.000Z",
+  updatedAt: "2026-10-30T15:35:58.155Z",
 } as const satisfies FileProperty
