@@ -7,8 +7,8 @@ export const northAmericanChargingStandard = {
   definition:
     "the plug and port Tesla made that most electric cars in North America now charge through",
   spellings: [
-    { partOfSpeech: "part-of-speech/proper-noun", spelling: "North American Charging Standard" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "North American Charging Standard" },
   ],
   createdAt: "2026-10-30T15:38:41.316Z",
-  updatedAt: "2026-10-30T15:38:41.316Z",
+  updatedAt: "2026-10-30T15:53:41.615Z",
 } as const satisfies CommonLanguageTerm
