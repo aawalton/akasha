@@ -5,7 +5,7 @@ export const quantity = {
   type: "page-type/number-property",
   slug: "quantity",
   propertySlug: "quantity",
-  definition: "how many shares of a security an account holds",
+  definition: "the number of stock shares in a Monarch holding",
   max: null,
   decisions: [
     {
@@ -15,5 +15,5 @@ export const quantity = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:57:05.450Z",
 } as const satisfies NumberProperty
