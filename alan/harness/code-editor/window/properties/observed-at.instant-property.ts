@@ -5,7 +5,7 @@ export const observedAt = {
   type: "page-type/instant-property",
   slug: "observed-at",
   propertySlug: "observed-at",
-  definition: "when what a window holds of its features was last observed",
+  definition: "the last time a code editor window writes a change to its features",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -18,5 +18,5 @@ export const observedAt = {
   ],
   types: "ts",
   createdAt: "2026-09-14T18:57:18.779Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:37:45.500Z",
 } as const satisfies InstantProperty
