@@ -5,10 +5,10 @@ export const featureRequestAsk = {
   type: "page-type/text-property",
   slug: "feature-request-ask",
   propertySlug: "ask",
-  definition: "what a contributor wants Alan to build",
+  definition: "the feature a contributor wants from Alan",
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-21T15:47:15.151Z",
-  updatedAt: "2026-09-21T15:47:29.000Z",
+  updatedAt: "2026-10-30T16:40:42.032Z",
 } as const satisfies TextProperty
