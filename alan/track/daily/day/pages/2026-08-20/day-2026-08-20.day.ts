@@ -21,9 +21,8 @@ export const day20260820 = {
   inboxTasksClearedToday: true,
   inboxTemperTasks: 6,
   inboxTemperTasksClearedToday: false,
-  inboxTextsClearedToday: true,
   sessions: "jsonl",
   healthSamples: "jsonl",
   createdAt: "2026-08-20T10:00:51.764Z",
-  updatedAt: "2026-10-30T16:52:55.459Z",
+  updatedAt: "2026-10-30T16:53:42.453Z",
 } as const satisfies Day

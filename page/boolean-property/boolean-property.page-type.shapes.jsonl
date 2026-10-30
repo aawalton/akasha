@@ -72,7 +72,6 @@
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"inbox-calendar-cleared-today","propertySlug":"inbox-calendar-cleared-today","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"inbox-tasks-cleared-today","propertySlug":"inbox-tasks-cleared-today","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"inbox-temper-tasks-cleared-today","propertySlug":"inbox-temper-tasks-cleared-today","fileName":null,"folderName":null}
-{"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"inbox-texts-cleared-today","propertySlug":"inbox-texts-cleared-today","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"include-in-child-aggregates","propertySlug":"include-in-child-aggregates","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"initial-tick","propertySlug":"initial-tick","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"is-ballistic","propertySlug":"is-ballistic","fileName":null,"folderName":null}
