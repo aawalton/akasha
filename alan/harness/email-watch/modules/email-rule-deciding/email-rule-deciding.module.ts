@@ -4,7 +4,7 @@ export const emailRuleDeciding = {
   id: "01a06871-54e5-7002-a44f-3d96cfa5d667",
   type: "page-type/module",
   slug: "email-rule-deciding",
-  definition: "which of a person's email rules claims a piece of mail",
+  definition: "the first email rule that matches a message",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const emailRuleDeciding = {
     },
   ],
   createdAt: "2026-09-03T18:04:12.901Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:29:43.260Z",
 } as const satisfies Module
