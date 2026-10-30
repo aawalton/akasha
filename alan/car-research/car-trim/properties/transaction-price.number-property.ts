@@ -5,9 +5,9 @@ export const transactionPrice = {
   type: "page-type/number-property",
   slug: "transaction-price",
   propertySlug: "transaction-price",
-  definition: "what the car is selling for rather than what the maker asks, in dollars",
+  definition: "the dollars the car sells for",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:50.475Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:02:00.554Z",
 } as const satisfies NumberProperty
