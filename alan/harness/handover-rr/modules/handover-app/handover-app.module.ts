@@ -4,8 +4,7 @@ export const handoverApp = {
   id: "01a0bc7a-bbc5-7600-bf03-dcb69fe7f4e6",
   type: "page-type/module",
   slug: "handover-app",
-  definition:
-    "what the iOS app is called, where a code reaches it, and the shape a challenge takes",
+  definition: "how an app on a phone takes part in a handover",
   code: "ts",
   test: "ts",
   decisions: [
@@ -32,5 +31,5 @@ export const handoverApp = {
     },
   ],
   createdAt: "2026-09-20T01:42:35.205Z",
-  updatedAt: "2026-09-24T18:49:35.000Z",
+  updatedAt: "2026-10-30T15:49:54.050Z",
 } as const satisfies Module
