@@ -4,7 +4,8 @@ export const editsDropping = {
   id: "01a09280-f5bf-7819-a752-07a3d5996019",
   type: "page-type/module",
   slug: "edits-dropping",
-  definition: "the refusal an answer gets for rewriting a body that is only appended to",
+  definition:
+    "how code gives a refusal to a change that replaces a file where changes must add new lines",
   code: "ts",
   test: "ts",
   decisions: [
@@ -42,5 +43,5 @@ export const editsDropping = {
     },
   ],
   createdAt: "2026-09-11T22:05:20.191Z",
-  updatedAt: "2026-10-27T21:46:57.348Z",
+  updatedAt: "2026-10-30T17:41:12.949Z",
 } as const satisfies Module
