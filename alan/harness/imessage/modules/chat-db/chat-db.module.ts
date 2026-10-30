@@ -4,7 +4,7 @@ export const chatDb = {
   id: "01a05bc9-4308-7004-be2b-a24f942f8823",
   type: "page-type/module",
   slug: "chat-db",
-  definition: "the questions asked of the message store and the rows that answer them",
+  definition: "how code asks the message store for messages and senders",
   code: "ts",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const chatDb = {
     },
   ],
   createdAt: "2026-09-01T07:05:11.688Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:28:20.194Z",
 } as const satisfies Module
