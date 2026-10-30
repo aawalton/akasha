@@ -5,9 +5,9 @@ export const side = {
   type: "page-type/select-property",
   slug: "side",
   propertySlug: "side",
-  definition: "the reading's side of the body",
+  definition: "the side of the body a measurement was made on",
   values: ["left", "right", "n-a"],
   types: "ts",
   createdAt: "2026-09-03T03:37:55.177Z",
-  updatedAt: "2026-09-22T13:57:00.000Z",
+  updatedAt: "2026-10-30T16:51:31.733Z",
 } as const satisfies SelectProperty
