@@ -5,7 +5,7 @@ export const sourceHash = {
   type: "page-type/text-property",
   slug: "source-hash",
   propertySlug: "source-hash",
-  definition: "the hash of the sources a deploy made an image from",
+  definition: "the hash of the code a deploy made an image from",
   maxLength: 64,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const sourceHash = {
   ],
   types: "ts",
   createdAt: "2026-09-25T17:02:16.835Z",
-  updatedAt: "2026-09-25T17:02:29.000Z",
+  updatedAt: "2026-10-30T16:09:09.536Z",
 } as const satisfies TextProperty
