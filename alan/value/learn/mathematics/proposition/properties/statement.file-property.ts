@@ -5,9 +5,9 @@ export const statement = {
   type: "page-type/file-property",
   slug: "statement",
   propertySlug: "statement",
-  definition: "what a proposition says, written out",
+  definition: "the text of a proposition",
   extensions: ["txt"],
   types: "ts",
   createdAt: "2026-09-03T04:10:11.500Z",
-  updatedAt: "2026-09-15T16:56:11.000Z",
+  updatedAt: "2026-10-30T16:50:38.059Z",
 } as const satisfies FileProperty
