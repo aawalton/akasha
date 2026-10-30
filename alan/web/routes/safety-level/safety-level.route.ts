@@ -4,7 +4,7 @@ export const safetyLevel = {
   id: "01a08245-3127-74f2-8f5d-ac9cc9ef6bb1",
   type: "page-type/route",
   slug: "safety-level",
-  definition: "Alan's safety as the color the level he is at reaches",
+  definition: "the stoplights a readout widget shows for Alan's safety level",
   code: "ts",
   test: "ts",
   urlPath: "api/safety-level",
@@ -63,5 +63,5 @@ export const safetyLevel = {
     },
   ],
   createdAt: "2026-09-08T18:26:07.783Z",
-  updatedAt: "2026-09-25T16:52:49.000Z",
+  updatedAt: "2026-10-30T17:03:32.121Z",
 } as const satisfies Route
