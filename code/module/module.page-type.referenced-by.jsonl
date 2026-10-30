@@ -928,6 +928,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/pull-to-refresh-decider/pull-to-refresh-decider.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/pull-to-refresh/pull-to-refresh.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/push-tap-sync/push-tap-sync.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/read-completion/read-completion.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/seat-message-asking/seat-message-asking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/seat-message-withdrawing/seat-message-withdrawing.module.ts","typed":true,"deferred":false}

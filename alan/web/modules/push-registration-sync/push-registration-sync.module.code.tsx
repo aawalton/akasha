@@ -9,9 +9,7 @@ import {
 import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { decidePermissionAction } from "akasha/person/modules/push-permission/push-permission.module.code.ts"
 import { registerDeviceTokenSchema } from "akasha/person/modules/push-register-body/push-register-body.module.code.ts"
-import { decidePushRoute } from "akasha/person/modules/push-routing/push-routing.module.code.ts"
-import { useContext, useEffect, useRef } from "react"
-import { useNavigate } from "react-router"
+import { useContext, useEffect } from "react"
 
 async function postDeviceToken(deviceToken: string): Promise<void> {
   const body = registerDeviceTokenSchema.safeParse({ deviceToken, platform: "ios" })
@@ -31,39 +29,6 @@ async function postDeviceToken(deviceToken: string): Promise<void> {
 
 export function PushRegistrationSync() {
   const userID = useContext(UserIdContext)
-  const navigate = useNavigate()
-  const navigateRef = useRef(navigate)
-  navigateRef.current = navigate
-
-  useEffect(() => {
-    if (!isNativeShell()) return
-    const plugin = getPushNotifications()
-    if (plugin == null) {
-      console.error(
-        "[push] native shell but PushNotifications plugin is missing — the build predates the @capacitor/push-notifications dep (stale packageClassList); taps will not route. Rebuild the shell (npm run ios:sync + TestFlight)."
-      )
-      return
-    }
-    let handle: PluginListenerHandle | null = null
-    let removed = false
-    void (async () => {
-      const h = await plugin.addListener("pushNotificationActionPerformed", (event) => {
-        const path = decidePushRoute(event.notification?.data)
-        if (path == null) {
-          console.warn("[push] tap with no routable path", event.notification?.data)
-          return
-        }
-        console.info("[push] tap -> navigating", path)
-        navigateRef.current(path)
-      })
-      if (removed) void h.remove()
-      else handle = h
-    })()
-    return () => {
-      removed = true
-      if (handle != null) void handle.remove()
-    }
-  }, [])
 
   useEffect(() => {
     if (!isNativeShell()) return

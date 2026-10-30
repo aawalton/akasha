@@ -59,6 +59,9 @@ mock.module(
     PushRegistrationSync: nullComponent,
   })
 )
+mock.module("akasha/alan/web/modules/push-tap-sync/push-tap-sync.module.code.tsx", () => ({
+  PushTapSync: nullComponent,
+}))
 
 function AccountRecorder() {
   const userID = useContext(UserIdContext)

@@ -102,8 +102,9 @@ export const alanWeb = {
     "module/seat-message-asking",
     "module/seat-message-withdrawing",
     "module/device-secret-changing",
+    "module/push-tap-sync",
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-01T06:38:44.740Z",
-  updatedAt: "2026-10-30T17:18:16.084Z",
+  updatedAt: "2026-10-30T17:21:54.956Z",
 } as const satisfies RouterApp
