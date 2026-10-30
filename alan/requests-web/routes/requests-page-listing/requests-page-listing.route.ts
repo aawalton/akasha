@@ -4,7 +4,7 @@ export const requestsPageListing = {
   id: "01a0c537-bae8-7469-9b49-1e210203179a",
   type: "page-type/route",
   slug: "requests-page-listing",
-  definition: "the pages of a page type, drawn as a list",
+  definition: "the pages of a page type shown in a list",
   code: "tsx",
   urlPath: ":pageTypeSlug",
   decisions: [
@@ -18,5 +18,5 @@ export const requestsPageListing = {
     },
   ],
   createdAt: "2026-09-21T18:25:59.016Z",
-  updatedAt: "2026-09-22T10:05:53.000Z",
+  updatedAt: "2026-10-30T16:23:56.761Z",
 } as const satisfies Route
