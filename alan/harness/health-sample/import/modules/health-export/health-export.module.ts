@@ -4,7 +4,7 @@ export const healthExport = {
   id: "01a05c14-b119-7001-b832-1c3d7e46c281",
   type: "page-type/module",
   slug: "health-export",
-  definition: "the Apple Health export read off the laptop, and the script fetching it",
+  definition: "how code reads health samples from the Apple Health file",
   code: "ts",
   decisions: [
     {
@@ -26,5 +26,5 @@ export const healthExport = {
     },
   ],
   createdAt: "2026-09-01T08:27:35.065Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:41:28.088Z",
 } as const satisfies Module
