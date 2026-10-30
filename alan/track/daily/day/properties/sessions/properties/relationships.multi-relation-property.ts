@@ -14,10 +14,10 @@ export const relationships = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch names each relationship by its id rather than by its address.",
+      statement: "A tracked session names each relationship by its id rather than by its address.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-10-30T16:39:56.438Z",
+  updatedAt: "2026-10-30T17:48:38.864Z",
 } as const satisfies MultiRelationProperty
