@@ -4,7 +4,7 @@ export const treeDrawing = {
   id: "01a07290-1f4c-7a63-9e21-58c0bd47e3f2",
   type: "page-type/module",
   slug: "tree-drawing",
-  definition: "each tree the editor draws put into the row every tree has",
+  definition: "how code writes a tree the editor shows in the rows every tree has",
   code: "ts",
   decisions: [
     {
@@ -124,5 +124,5 @@ export const treeDrawing = {
     },
   ],
   createdAt: "2026-09-05T17:14:02.956Z",
-  updatedAt: "2026-09-27T13:13:37.000Z",
+  updatedAt: "2026-10-30T15:39:50.526Z",
 } as const satisfies Module
