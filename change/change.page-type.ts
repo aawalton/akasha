@@ -4,7 +4,7 @@ export const change = {
   id: "01a05df1-e261-76a1-ad1e-0db3d857450e",
   type: "page-type/page-type",
   slug: "change",
-  definition: "a change to the repository, reached by name",
+  definition: "a program that changes files in akasha",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "change" },
     { partOfSpeech: "part-of-speech/noun", spelling: "changes" },
@@ -177,5 +177,5 @@ export const change = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-01T17:08:48.353Z",
-  updatedAt: "2026-09-30T11:38:06.000Z",
+  updatedAt: "2026-10-30T17:04:33.638Z",
 } as const satisfies PageType
