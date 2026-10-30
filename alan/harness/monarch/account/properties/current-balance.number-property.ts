@@ -5,7 +5,7 @@ export const currentBalance = {
   type: "page-type/number-property",
   slug: "current-balance",
   propertySlug: "current-balance",
-  definition: "the figure an account was at when the sync last read it",
+  definition: "the dollars Monarch reads for a Monarch account",
   max: null,
   decisions: [
     {
@@ -20,5 +20,5 @@ export const currentBalance = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:44:07.417Z",
 } as const satisfies NumberProperty
