@@ -5,8 +5,8 @@ export const startDate = {
   type: "page-type/calendar-date-property",
   slug: "start-date",
   propertySlug: "start-date",
-  definition: "the day a life theme was taken up",
+  definition: "the day a life theme starts",
   types: "ts",
   createdAt: "2026-09-03T04:10:11.520Z",
-  updatedAt: "2026-09-15T16:02:20.000Z",
+  updatedAt: "2026-10-30T16:27:37.888Z",
 } as const satisfies CalendarDateProperty
