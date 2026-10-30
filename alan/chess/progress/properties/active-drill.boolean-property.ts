@@ -5,8 +5,8 @@ export const activeDrill = {
   type: "page-type/boolean-property",
   slug: "active-drill",
   propertySlug: "active-drill",
-  definition: "whether a part of Alan's chess is drilled now",
+  definition: "whether Alan works on a part of chess",
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T15:09:17.986Z",
 } as const satisfies BooleanProperty
