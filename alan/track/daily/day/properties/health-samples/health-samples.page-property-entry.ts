@@ -5,7 +5,7 @@ export const healthSamples = {
   type: "page-type/page-property-entry",
   slug: "health-samples",
   propertySlug: "health-samples",
-  definition: "every measurement Alan's phone took whose stretch began on a day, one to a line",
+  definition: "every measurement from Alan's phone whose span of time starts on a day",
   parts: [
     "instant-property/arrived-at",
     "instant-property/ended-at",
@@ -24,5 +24,5 @@ export const healthSamples = {
   ],
   types: "ts",
   createdAt: "2026-09-02T07:17:38.448Z",
-  updatedAt: "2026-09-17T06:48:08.000Z",
+  updatedAt: "2026-10-30T16:35:48.665Z",
 } as const satisfies PagePropertyEntry
