@@ -7,9 +7,9 @@ export const giftedPolishNalaPathOfEavesdropping = {
   world: "world/gifted-polish-world",
   character: "character-player/gifted-polish-nala",
   skill: "world-skill/gifted-polish-world-path-of-eavesdropping",
-  experience: 8,
+  experience: 9,
   unrevealed: false,
   attribute: "metric-character-stat/gifted-polish-nala-mental",
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T19:32:20.248Z",
+  updatedAt: "2026-10-30T19:49:04.951Z",
 } as const satisfies CharacterSkill
