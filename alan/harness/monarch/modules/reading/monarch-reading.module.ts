@@ -10,7 +10,7 @@ export const monarchReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is taken where Alan's cookie is rather than where the site runs.",
+      statement: "The number is taken where Alan's cookie is rather than where the website runs.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -18,7 +18,7 @@ export const monarchReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The moment kept is the moment the reading was asked for.",
+      statement: "The moment kept is the moment the number was asked for.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,7 +26,7 @@ export const monarchReading = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Monarch sometimes does not answer inside the time a reading waits.",
+      statement: "Monarch sometimes does not answer inside the time a taking waits.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,7 +34,7 @@ export const monarchReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run of this file takes a reading.",
+      statement: "A run of this file takes a number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -68,13 +68,13 @@ export const monarchReading = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Importing this file takes no reading.",
+      statement: "Importing this file takes no number.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides when a reading is due.",
+      statement: "Nothing here decides when a number is due.",
     },
   ],
   createdAt: "2026-08-31T13:20:47.204Z",
-  updatedAt: "2026-10-30T15:43:20.324Z",
+  updatedAt: "2026-10-30T17:22:26.246Z",
 } as const satisfies Module
