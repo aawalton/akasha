@@ -22,7 +22,6 @@ export const subagent = {
     "module/subagent-naming",
     "module/subagent-outliving",
     "module/subagent-page",
-    "module/subagent-page-akasha",
     "module/subagent-page-asking",
     "module/subagent-page-history",
     "module/subagent-page-naming",
@@ -246,5 +245,5 @@ export const subagent = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-31T20:18:13.857Z",
-  updatedAt: "2026-10-30T14:39:09.591Z",
+  updatedAt: "2026-10-30T15:39:16.782Z",
 } as const satisfies PageType

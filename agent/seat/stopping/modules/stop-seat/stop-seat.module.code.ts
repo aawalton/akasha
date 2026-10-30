@@ -5,10 +5,8 @@ import { killSeatSession } from "akasha/agent/seat/launching/modules/launch-seat
 import { removeSeatPage } from "akasha/agent/seat/modules/page-writing/seat-page-writing.module.code.ts"
 import { decideKillTarget } from "akasha/agent/seat/stopping/modules/kill-target-plan/kill-target-plan.module.code.ts"
 import { decideSubagentGuard } from "akasha/agent/subagent/modules/guard/subagent-guard.module.code.ts"
-import {
-  removeSubagentPagesOf,
-  standingSubagentsOf,
-} from "akasha/agent/subagent/modules/page/subagent-page.module.code.ts"
+import { standingSubagentsOf } from "akasha/agent/subagent/modules/page/subagent-page.module.code.ts"
+import { removeSubagentPagesOf } from "akasha/agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"
 import { inputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { ending } from "akasha/code/process/modules/process-ending/process-ending.module.code.ts"
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"

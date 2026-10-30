@@ -1,6 +1,7 @@
 import { rmSync } from "node:fs"
 import { join } from "node:path"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import type { Went } from "akasha/agent/subagent/modules/landing-again/subagent-landing-again.module.code.ts"
 import {
   type Reading,
@@ -8,12 +9,19 @@ import {
 } from "akasha/agent/subagent/modules/liveness/subagent-liveness.module.code.ts"
 import { pathsUnder } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
 import { movedOnto } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
+import type { Outcome } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import { pagesOriginHere } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
 import { fileKeysAt } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideOf } from "akasha/page/modules/beside/page-beside.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
 import {
   type Writing,
   writingFor,
@@ -75,4 +83,25 @@ export async function tookUnder(
   besideGone(root, paths)
   dropReadings(root, paths)
   return WENT
+}
+
+async function removeAkashaSubagentPagesOf(
+  seatName: string,
+  why: string,
+  roots: Roots = resolveRoots()
+): Promise<Outcome> {
+  const root = rootFor(roots, AKASHA)
+  if (pathsUnder(root, seatName).length === 0) return { kind: "unchanged" }
+  const gone = await tookUnder(root, seatName, why)
+  if (!("why" in gone)) return { kind: "removed" }
+  return {
+    kind: "refused",
+    detail: `the subagent pages under ${seatName} did not go — ${gone.why}`,
+  }
+}
+
+export async function removeSubagentPagesOf(seat: string, why: string): Promise<Outcome> {
+  const seatName = seatNameForAgent(seat)
+  if (seatName === null) return { kind: "unchanged" }
+  return await removeAkashaSubagentPagesOf(seatName, why)
 }

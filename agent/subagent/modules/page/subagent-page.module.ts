@@ -4,7 +4,7 @@ export const subagentPage = {
   id: "01a06983-278f-74cd-aa22-89b32f80e5e4",
   type: "page-type/module",
   slug: "subagent-page",
-  definition: "the subagents standing under a seat, and their pages removed with it",
+  definition: "how code finds the subagent pages under a seat",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -24,5 +24,5 @@ export const subagentPage = {
     },
   ],
   createdAt: "2026-09-03T23:03:18.159Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:39:16.782Z",
 } as const satisfies Module

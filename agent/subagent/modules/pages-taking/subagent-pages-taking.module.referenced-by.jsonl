@@ -1,4 +1,5 @@
-{"propertySlug":"import","fileName":"subagent-pages-taking.module.code.ts","path":"agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-pages-taking.module.code.ts","path":"agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-pages-taking.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-pages-taking.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-pages-taking.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-pages-taking.module.code.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts","typed":false,"deferred":false}

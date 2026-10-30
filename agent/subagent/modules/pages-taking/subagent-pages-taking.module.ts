@@ -79,7 +79,12 @@ export const subagentPagesTaking = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here lands a commit.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A sweep of the pages under a seat that was refused answers why those pages did not go.",
+    },
   ],
   createdAt: "2026-09-22T16:28:51.561Z",
-  updatedAt: "2026-10-30T14:48:33.074Z",
+  updatedAt: "2026-10-30T15:39:16.782Z",
 } as const satisfies Module
