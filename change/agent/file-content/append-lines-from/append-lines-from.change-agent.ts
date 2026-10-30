@@ -7,7 +7,7 @@ export const appendLinesFrom = {
   changeMode: "change-mode/change-mode-append",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
-  definition: "content a path holds, put at the end of what another path holds",
+  definition: "a change that adds the text at a path after the text at another path",
   code: "ts",
   test: "ts",
   decisions: [
@@ -44,5 +44,5 @@ export const appendLinesFrom = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-12T00:44:49.728Z",
-  updatedAt: "2026-09-30T11:39:36.000Z",
+  updatedAt: "2026-10-30T17:11:18.068Z",
 } as const satisfies ChangeAgent
