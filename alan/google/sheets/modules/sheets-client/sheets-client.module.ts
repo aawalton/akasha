@@ -4,7 +4,7 @@ export const sheetsClient = {
   id: "01a13ab0-c506-786d-95f9-8d51d4e191eb",
   type: "page-type/module",
   slug: "sheets-client",
-  definition: "the tabs a sheet holds, and the cells in a range read and written",
+  definition: "a client that reaches the rows of a spreadsheet",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +26,5 @@ export const sheetsClient = {
     },
   ],
   createdAt: "2026-10-14T13:53:45.733Z",
-  updatedAt: "2026-10-14T13:53:45.733Z",
+  updatedAt: "2026-10-30T16:26:54.206Z",
 } as const satisfies Module
