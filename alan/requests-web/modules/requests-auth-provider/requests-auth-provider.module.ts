@@ -4,7 +4,7 @@ export const requestsAuthProvider = {
   id: "01a0c537-bbe7-7ea3-aabc-220dc3ae73ca",
   type: "page-type/module",
   slug: "requests-auth-provider",
-  definition: "what tells the Requests site's page store who is reading, signed in or not",
+  definition: "how code starts the page store of the Requests site for a person",
   code: "tsx",
   decisions: [
     {
@@ -41,5 +41,5 @@ export const requestsAuthProvider = {
     },
   ],
   createdAt: "2026-09-21T18:25:59.271Z",
-  updatedAt: "2026-09-24T22:11:53.000Z",
+  updatedAt: "2026-10-30T16:26:18.416Z",
 } as const satisfies Module
