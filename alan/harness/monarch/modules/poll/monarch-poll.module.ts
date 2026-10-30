@@ -4,7 +4,7 @@ export const monarchPoll = {
   id: "01a06868-1536-7a16-9123-ffbef5c8c5b5",
   type: "page-type/module",
   slug: "monarch-poll",
-  definition: "the Monarch rows whose update time has moved, landed a minute at a time",
+  definition: "how code copies each Monarch transaction that changes",
   code: "ts",
   decisions: [
     {
@@ -54,5 +54,5 @@ export const monarchPoll = {
     },
   ],
   createdAt: "2026-09-03T17:54:06.774Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:42:21.074Z",
 } as const satisfies Module
