@@ -5,9 +5,9 @@ export const chessSpeed = {
   type: "page-type/select-property",
   slug: "chess-speed",
   propertySlug: "speed",
-  definition: "how fast a game was played",
+  definition: "how fast the players of a game must move",
   values: ["ultra-bullet", "bullet", "blitz", "rapid", "classical", "correspondence", "unlimited"],
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T15:06:16.771Z",
 } as const satisfies SelectProperty
