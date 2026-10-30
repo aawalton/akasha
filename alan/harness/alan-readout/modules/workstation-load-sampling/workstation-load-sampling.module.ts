@@ -18,23 +18,24 @@ export const workstationLoadSampling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each readout's own reading code hands out the sampler reading its counters.",
+      statement:
+        "The code beside each readout's page hands out the sampler that reads its counters.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout whose reading code hands out no sampler ends the run.",
+      statement: "A readout whose code hands out no sampler ends the run.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A sample finding the reading the sample before found writes nothing.",
+      statement: "A sample finding the number the sample before found writes nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading is kept beside the readout that reading was taken for.",
+      statement: "A number is kept beside the readout that number was taken for.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A sample finding no reading keeps what the readout already holds.",
+      statement: "A sample finding no number keeps what the readout already holds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -58,7 +59,7 @@ export const workstationLoadSampling = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here carries a reading to a site.",
+      statement: "Nothing here carries a number to a website.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -66,5 +67,5 @@ export const workstationLoadSampling = {
     },
   ],
   createdAt: "2026-09-14T14:54:54.721Z",
-  updatedAt: "2026-10-30T16:56:22.727Z",
+  updatedAt: "2026-10-30T17:09:17.020Z",
 } as const satisfies Module
