@@ -4,7 +4,7 @@ export const costMultiplier = {
   id: "01a08b9c-6412-7e0f-8a4e-fc4a180594e6",
   type: "page-type/readout",
   slug: "cost-multiplier",
-  definition: "what an hour of the block Alan is in costs him",
+  definition: "the cost of an hour of Alan's current block",
   reading: {},
   label: "Cost",
   colorFrom: "readout/upkeep-surplus",
@@ -52,5 +52,5 @@ export const costMultiplier = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "open-block",
   createdAt: "2026-09-10T13:57:57.394Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T15:32:26.868Z",
 } as const satisfies Readout
