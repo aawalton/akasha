@@ -4,7 +4,7 @@ export const syncRun = {
   id: "01a06835-e289-706f-b82b-cc895c8f24bf",
   type: "page-type/page-type",
   slug: "sync-run",
-  definition: "a pull from an outside place",
+  definition: "a run that imports pages from a place outside akasha",
   parts: [
     "instant-property/run-completed-at",
     "instant-property/run-started-at",
@@ -48,5 +48,5 @@ export const syncRun = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:59:17.001Z",
-  updatedAt: "2026-09-22T00:50:00.000Z",
+  updatedAt: "2026-10-30T15:10:43.618Z",
 } as const satisfies PageType
