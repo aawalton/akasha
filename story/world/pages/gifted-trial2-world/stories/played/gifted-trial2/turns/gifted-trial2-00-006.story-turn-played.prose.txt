@@ -11,3 +11,5 @@ The rest slips past you. You can follow the shape of the talk, when a question g
 :::skill
 name: Path of Eavesdropping
 :::
+
+Your mother says something soft, and the man laughs. The woman says it again. "Kerith."
