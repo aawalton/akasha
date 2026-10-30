@@ -5,10 +5,10 @@ export const ownRemaining = {
   type: "page-type/computed-property",
   slug: "own-remaining",
   propertySlug: "own-remaining",
-  definition: "how much of the collection itself is left",
+  definition: "the remaining length of a collection without its parts counted in its unit",
   holds: "number",
   code: "ts",
   types: "ts",
   createdAt: "2026-09-05T15:31:05.701Z",
-  updatedAt: "2026-09-22T13:47:07.000Z",
+  updatedAt: "2026-10-30T15:10:14.906Z",
 } as const satisfies ComputedProperty
