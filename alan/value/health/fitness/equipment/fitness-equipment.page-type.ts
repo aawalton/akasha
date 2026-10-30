@@ -5,6 +5,7 @@ export const fitnessEquipment = {
   type: "page-type/page-type",
   slug: "fitness-equipment",
   definition: "a piece of kit loading a movement for Alan",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "fitness equipment" }],
   extends: ["page-type/page"],
   parts: [
     "boolean-property/fitness-equipment-available",
@@ -60,5 +61,5 @@ export const fitnessEquipment = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:58:05.318Z",
-  updatedAt: "2026-09-22T14:00:25.000Z",
+  updatedAt: "2026-10-30T16:44:32.698Z",
 } as const satisfies PageType
