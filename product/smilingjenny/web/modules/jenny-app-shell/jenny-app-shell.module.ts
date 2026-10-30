@@ -9,21 +9,21 @@ export const jennyAppShell = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The frame is the one every other site of Alan's is drawn inside.",
+      statement: "The menu is the one every other site of Alan's shows.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sidebar names the nav items naming this site, and no item is written here.",
+      statement: "The menu names the nav items naming this site, and no item is written here.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Nothing the frame draws offers a way to write a nav item.",
+      statement: "Nothing the menu shows offers a way to write a nav item.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The name over the sidebar is the title of Jenny's web app page.",
+      statement: "The name over the menu is the title of Jenny's web app page.",
     },
   ],
   createdAt: "2026-09-03T03:38:30.988Z",
-  updatedAt: "2026-10-30T16:23:52.051Z",
+  updatedAt: "2026-10-30T17:01:29.202Z",
 } as const satisfies Module
