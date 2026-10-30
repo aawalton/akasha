@@ -4,7 +4,7 @@ export const readoutScale = {
   id: "01a05446-e75f-756a-b8d9-4288a350957f",
   type: "page-type/page-type",
   slug: "readout-scale",
-  definition: "what turns a reading into a color",
+  definition: "the numbers where a readout's color changes",
   parts: [
     "number-property/black-at",
     "number-property/blue-at",
@@ -63,5 +63,5 @@ export const readoutScale = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T20:05:28.031Z",
-  updatedAt: "2026-10-30T16:03:41.144Z",
+  updatedAt: "2026-10-30T16:05:21.031Z",
 } as const satisfies PageType
