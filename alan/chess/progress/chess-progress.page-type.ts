@@ -4,7 +4,7 @@ export const chessProgress = {
   id: "01a06582-bd62-702f-92a4-3fd313251ee2",
   type: "page-type/page-type",
   slug: "chess-progress",
-  definition: "how far a part of Alan's chess has come",
+  definition: "a part of chess Alan learns",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [
@@ -45,5 +45,5 @@ export const chessProgress = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-24T19:52:49.000Z",
+  updatedAt: "2026-10-30T15:07:26.930Z",
 } as const satisfies PageType
