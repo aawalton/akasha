@@ -5,7 +5,7 @@ export const overridesMonarch = {
   type: "page-type/boolean-property",
   slug: "overrides-monarch",
   propertySlug: "overrides-monarch",
-  definition: "whether a rule replaces a category Monarch gave a transaction",
+  definition: "whether a category rule changes the Monarch category Monarch gives a transaction",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -31,5 +31,5 @@ export const overridesMonarch = {
   ],
   types: "ts",
   createdAt: "2026-10-09T19:26:51.369Z",
-  updatedAt: "2026-10-09T19:26:51.369Z",
+  updatedAt: "2026-10-30T15:46:13.104Z",
 } as const satisfies BooleanProperty
