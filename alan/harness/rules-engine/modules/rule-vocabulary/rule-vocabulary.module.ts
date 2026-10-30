@@ -4,7 +4,7 @@ export const ruleVocabulary = {
   id: "01a0657b-9adc-7006-86fa-63e79d35b6a6",
   type: "page-type/module",
   slug: "rule-vocabulary",
-  definition: "a vocabulary of values with the patterns naming them, and the value a text becomes",
+  definition: "how code chooses the value that matches a text",
   code: "ts",
   decisions: [
     {
@@ -26,5 +26,5 @@ export const ruleVocabulary = {
     },
   ],
   createdAt: "2026-09-03T04:16:34.524Z",
-  updatedAt: "2026-09-22T13:22:14.000Z",
+  updatedAt: "2026-10-30T16:09:15.743Z",
 } as const satisfies Module
