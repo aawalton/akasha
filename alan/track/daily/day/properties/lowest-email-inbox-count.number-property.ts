@@ -5,7 +5,7 @@ export const lowestEmailInboxCount = {
   type: "page-type/number-property",
   slug: "lowest-email-inbox-count",
   propertySlug: "lowest-email-inbox-count",
-  definition: "the fewest pieces of mail Alan's inbox held at any point in the day",
+  definition: "the lowest number of messages in Alan's email inbox on a day",
   max: null,
   decisions: [
     {
@@ -36,5 +36,5 @@ export const lowestEmailInboxCount = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:44:30.034Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:43:13.589Z",
 } as const satisfies NumberProperty
