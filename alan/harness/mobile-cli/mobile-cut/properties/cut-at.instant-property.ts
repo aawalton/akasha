@@ -5,8 +5,8 @@ export const cutAt = {
   type: "page-type/instant-property",
   slug: "cut-at",
   propertySlug: "cut-at",
-  definition: "when a cut was taken",
+  definition: "when a mobile cut was made",
   types: "ts",
   createdAt: "2026-09-03T17:42:47.583Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-30T15:46:18.999Z",
 } as const satisfies InstantProperty
