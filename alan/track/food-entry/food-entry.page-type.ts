@@ -4,7 +4,7 @@ export const foodEntry = {
   id: "01a065a3-6e8b-7516-be17-9b2737f11128",
   type: "page-type/page-type",
   slug: "food-entry",
-  definition: "a thing Alan ate, written down",
+  definition: "something Alan has eaten",
   extends: ["page-type/page"],
   parts: [
     "file-property/food-entry-note",
@@ -41,5 +41,5 @@ export const foodEntry = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T05:00:04.619Z",
-  updatedAt: "2026-09-24T19:49:23.000Z",
+  updatedAt: "2026-10-30T16:46:01.016Z",
 } as const satisfies PageType
