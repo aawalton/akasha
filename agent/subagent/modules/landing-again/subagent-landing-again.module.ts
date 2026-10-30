@@ -4,7 +4,7 @@ export const subagentLandingAgain = {
   id: "01a0950c-f75d-7a61-8566-0fd55b934e22",
   type: "page-type/module",
   slug: "subagent-landing-again",
-  definition: "a landing asked for again after a reason that clears while the run waits",
+  definition: "how code asks again for a change a lock rejects",
   code: "ts",
   test: "ts",
   decisions: [
@@ -86,5 +86,5 @@ export const subagentLandingAgain = {
     },
   ],
   createdAt: "2026-09-12T09:57:30.077Z",
-  updatedAt: "2026-09-25T14:23:02.000Z",
+  updatedAt: "2026-10-30T15:53:11.954Z",
 } as const satisfies Module
