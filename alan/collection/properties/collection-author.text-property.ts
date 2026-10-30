@@ -5,10 +5,10 @@ export const collectionAuthor = {
   type: "page-type/text-property",
   slug: "collection-author",
   propertySlug: "author",
-  definition: "who made a collection",
+  definition: "the people that make a collection",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:10:37.014Z",
 } as const satisfies TextProperty
