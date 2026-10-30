@@ -4,7 +4,7 @@ export const strengthExercise = {
   id: "01a0657e-2bbf-7c1f-a05c-77af77f54cbf",
   type: "page-type/page-type",
   slug: "strength-exercise",
-  definition: "a movement Alan can be programmed to perform",
+  definition: "something Alan can perform to train his body",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "strength exercise" },
     { partOfSpeech: "part-of-speech/noun", spelling: "strength exercises" },
@@ -104,5 +104,5 @@ export const strengthExercise = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-10-30T16:40:56.935Z",
+  updatedAt: "2026-10-30T16:46:20.830Z",
 } as const satisfies PageType
