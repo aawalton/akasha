@@ -4,7 +4,7 @@ export const spotifyPkceStore = {
   id: "01a06261-dc1d-7004-9cf8-e12c3dded39e",
   type: "page-type/module",
   slug: "spotify-pkce-store",
-  definition: "the verifier carried between the consent step and the exchange step",
+  definition: "the secret kept between the consent step and the token step",
   code: "ts",
   test: "ts",
   decisions: [
@@ -42,5 +42,5 @@ export const spotifyPkceStore = {
     },
   ],
   createdAt: "2026-09-02T13:49:35.645Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:22:51.582Z",
 } as const satisfies Module
