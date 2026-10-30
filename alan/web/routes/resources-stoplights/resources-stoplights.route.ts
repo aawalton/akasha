@@ -4,7 +4,7 @@ export const resourcesStoplights = {
   id: "01a14f3c-934e-78dc-a700-518ac1a969d2",
   type: "page-type/route",
   slug: "resources-stoplights",
-  definition: "Alan's resources as the colors their readings reach",
+  definition: "the stoplights a readout widget shows for Alan's resources",
   code: "ts",
   urlPath: "api/resources-stoplights",
   decisions: [
@@ -26,5 +26,5 @@ export const resourcesStoplights = {
     },
   ],
   createdAt: "2026-10-18T13:38:52.365Z",
-  updatedAt: "2026-10-18T13:38:52.365Z",
+  updatedAt: "2026-10-30T17:03:06.674Z",
 } as const satisfies Route
