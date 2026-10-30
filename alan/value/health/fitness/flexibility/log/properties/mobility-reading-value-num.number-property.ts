@@ -5,9 +5,9 @@ export const mobilityReadingValueNum = {
   type: "page-type/number-property",
   slug: "mobility-reading-value-num",
   propertySlug: "mobility-reading-value-num",
-  definition: "the reading as a number, where the metric has one",
+  definition: "the number a measurement gives",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T03:37:55.177Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:51:00.334Z",
 } as const satisfies NumberProperty
