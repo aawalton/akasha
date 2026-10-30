@@ -17,11 +17,13 @@ import {
 import { findSubjectCollections } from "akasha/alan/collection/great-courses/modules/subject-collections-query/subject-collections-query.module.code.ts"
 import {
   classifyError,
-  combineSyncResults,
   logError,
-  type SyncResult,
   toError,
 } from "akasha/alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.code.ts"
+import {
+  combineSyncResults,
+  type SyncResult,
+} from "akasha/alan/collection/great-courses/modules/sync-tally/sync-tally.module.code.ts"
 
 const GREAT_COURSES_COLLECTION_SLUG = "great-courses-collection"
 const ALL_GREAT_COURSES_TITLE = "All Great Courses"

@@ -19,6 +19,7 @@ export const greatCourses = {
     "module/sync",
     "module/sync-outcome",
     "module/sync-run",
+    "module/sync-tally",
     "service-workstation/great-courses-sync",
     "module/lecture-progress",
     "module/watching-queue",
@@ -49,5 +50,5 @@ export const greatCourses = {
     },
   ],
   createdAt: "2026-09-03T04:14:46.233Z",
-  updatedAt: "2026-10-18T20:03:16.983Z",
+  updatedAt: "2026-10-30T15:49:46.677Z",
 } as const satisfies Domain

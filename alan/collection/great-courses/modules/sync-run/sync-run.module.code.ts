@@ -1,4 +1,4 @@
-import type { SyncResult } from "akasha/alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.code.ts"
+import type { SyncResult } from "akasha/alan/collection/great-courses/modules/sync-tally/sync-tally.module.code.ts"
 import { recordingRun } from "akasha/alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"
 
 export async function trackSyncRun(

@@ -9,13 +9,6 @@ const ERROR_TYPE = {
 } as const
 type ErrorType = (typeof ERROR_TYPE)[keyof typeof ERROR_TYPE]
 
-export interface SyncResult {
-  readonly created: number
-  readonly updated: number
-  readonly skipped: number
-  readonly failed: number
-}
-
 interface RetryConfig {
   readonly maxRetries: number
   readonly baseDelay: number
@@ -95,21 +88,4 @@ export async function retryWithBackoff<T>(
     }
   }
   throw new Error("retry logic exhausted without a result and without a throw")
-}
-
-export function safeUpdateResult(error: Error): SyncResult {
-  logError("Update operation", "unknown", error, classifyError(error))
-  return { created: 0, updated: 0, skipped: 0, failed: 1 }
-}
-
-export function combineSyncResults(results: readonly SyncResult[]): SyncResult {
-  return results.reduce(
-    (total, result) => ({
-      created: total.created + result.created,
-      updated: total.updated + result.updated,
-      skipped: total.skipped + result.skipped,
-      failed: total.failed + result.failed,
-    }),
-    { created: 0, updated: 0, skipped: 0, failed: 0 }
-  )
 }

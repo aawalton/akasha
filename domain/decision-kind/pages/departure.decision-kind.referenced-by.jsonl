@@ -615,6 +615,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/subject-collections-query/subject-collections-query.module.ts","id":"01a06579-f3d9-7004-86eb-78bec98c84f4"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.ts","id":"01a06580-196a-7000-9451-e53d200e3e2d"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/sync-run/sync-run.module.ts","id":"01a06580-196a-7001-8989-3755d6f4c2ed"}
+{"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/sync-tally/sync-tally.module.ts","id":"01a18d80-bc37-7a92-9c38-3e8143fb7c93"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/sync/sync.module.ts","id":"01a06579-f3d9-7007-b519-cafdb2cbafba"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/watching-queue/watching-queue.module.ts","id":"01a15002-1d5e-7b64-80b0-358ca1adf304"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/service-workstations/sync/great-courses-sync.service-workstation.ts","id":"01a06829-0194-71d6-8b3b-2687352034df"}

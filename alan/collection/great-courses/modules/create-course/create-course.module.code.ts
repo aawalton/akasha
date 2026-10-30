@@ -3,10 +3,12 @@ import type { Course } from "akasha/alan/collection/great-courses/modules/course
 import {
   classifyError,
   logError,
-  type SyncResult,
-  safeUpdateResult,
   toError,
 } from "akasha/alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.code.ts"
+import {
+  type SyncResult,
+  safeUpdateResult,
+} from "akasha/alan/collection/great-courses/modules/sync-tally/sync-tally.module.code.ts"
 import {
   pageStem,
   STEM_CEILING,
