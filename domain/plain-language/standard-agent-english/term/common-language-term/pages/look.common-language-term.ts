@@ -8,7 +8,8 @@ export const look = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "look" },
     { partOfSpeech: "part-of-speech/verb", spelling: "looks" },
+    { partOfSpeech: "part-of-speech/past-tense", spelling: "looked" },
   ],
   createdAt: "2026-09-25T13:13:10.431Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T16:34:06.804Z",
 } as const satisfies CommonLanguageTerm
