@@ -5,8 +5,8 @@ export const publishedAt = {
   type: "page-type/instant-property",
   slug: "published-at",
   propertySlug: "published-at",
-  definition: "the moment a collection was released",
+  definition: "the time a collection was published",
   types: "ts",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-30T15:01:36.583Z",
 } as const satisfies InstantProperty
