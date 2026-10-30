@@ -5,7 +5,8 @@ export const emailRuleCodeActions = {
   type: "page-type/select-property",
   slug: "email-rule-code-actions",
   propertySlug: "actions",
-  definition: "what is done with mail a rule matches, beyond filing it and forwarding it",
+  definition:
+    "what an email rule does with each email that matches the rule besides where the email goes",
   values: ["notify", "unsubscribe"],
   decisions: [
     {
@@ -15,5 +16,5 @@ export const emailRuleCodeActions = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:45:38.720Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:46:55.791Z",
 } as const satisfies SelectProperty
