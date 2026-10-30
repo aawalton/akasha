@@ -4,7 +4,7 @@ export const monarchReport = {
   id: "01a06867-e5ed-751c-b661-1084d5afcf9e",
   type: "page-type/module",
   slug: "monarch-report",
-  definition: "what the rules would do to the history, said as evidence rather than as a proposal",
+  definition: "how code shows the Monarch transactions each category rule matches",
   code: "ts",
   decisions: [
     {
@@ -58,5 +58,5 @@ export const monarchReport = {
     },
   ],
   createdAt: "2026-09-03T17:53:54.669Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:43:56.947Z",
 } as const satisfies Module
