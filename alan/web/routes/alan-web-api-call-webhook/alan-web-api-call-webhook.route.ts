@@ -4,7 +4,7 @@ export const alanWebApiCallWebhook = {
   id: "01a16fae-6059-7a8e-b03e-04f55e075112",
   type: "page-type/route",
   slug: "alan-web-api-call-webhook",
-  definition: "the call events Telnyx hands this app",
+  definition: "the phone calls Telnyx reports to alanwalton.com",
   code: "ts",
   urlPath: "api/call/webhook",
   decisions: [
@@ -32,5 +32,5 @@ export const alanWebApiCallWebhook = {
     },
   ],
   createdAt: "2026-10-24T20:51:01.335Z",
-  updatedAt: "2026-10-24T20:51:01.335Z",
+  updatedAt: "2026-10-30T16:50:49.357Z",
 } as const satisfies Route
