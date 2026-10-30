@@ -5,7 +5,7 @@ export const sourceVersion = {
   type: "page-type/number-property",
   slug: "source-version",
   propertySlug: "source-version",
-  definition: "the version the source was at when a generated declaration was written",
+  definition: "the version of the code a generated declaration describes",
   max: null,
   decisions: [
     {
@@ -20,5 +20,5 @@ export const sourceVersion = {
   ],
   types: "ts",
   createdAt: "2026-09-08T18:08:22.827Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:17:54.599Z",
 } as const satisfies NumberProperty
