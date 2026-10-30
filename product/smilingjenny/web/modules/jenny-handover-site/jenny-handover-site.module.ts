@@ -4,7 +4,7 @@ export const jennyHandoverSite = {
   id: "01a0c1e4-5f22-7a90-b8d1-3c7e9a4b2f08",
   type: "page-type/module",
   slug: "jenny-handover-site",
-  definition: "what Jenny's site is called in a handover, where it answers, and its signing key",
+  definition: "how smilingjenny.me takes part in a handover",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const jennyHandoverSite = {
     },
   ],
   createdAt: "2026-09-21T02:56:04.386Z",
-  updatedAt: "2026-09-22T13:56:42.000Z",
+  updatedAt: "2026-10-30T16:03:58.093Z",
 } as const satisfies Module
