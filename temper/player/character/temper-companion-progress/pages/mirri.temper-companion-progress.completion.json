@@ -1,5 +1,34 @@
 {
   "build": {
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
+      }
+    },
     "armor": {
       "1": {
         "qualityColor": {
@@ -65,46 +94,6 @@
         "isEmpty": false
       }
     },
-    "skillAbilityIds": {
-      "1": 153685,
-      "2": 155408,
-      "3": 157287,
-      "4": 154790,
-      "5": 153066,
-      "6": 157259
-    },
-    "companionId": 2,
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
-    "mainHandWeaponType": 9,
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened",
-        "isEmpty": false
-      }
-    },
     "weapons": {
       "1": {
         "qualityColor": {
@@ -124,6 +113,17 @@
         "displayText": "Empty",
         "isEmpty": true
       }
+    },
+    "companionId": 2,
+    "mainHandWeaponType": 9,
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
+    "skillAbilityIds": {
+      "1": 153685,
+      "2": 155408,
+      "3": 157287,
+      "4": 154790,
+      "5": 153066,
+      "6": 157259
     }
   },
   "targetBuildHash": "AjEAItC0LQtC0LQtDQ0NGNOzqtY7WAA",

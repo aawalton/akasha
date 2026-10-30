@@ -1,5 +1,34 @@
 {
   "build": {
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      }
+    },
     "armor": {
       "1": {
         "qualityColor": {
@@ -65,46 +94,6 @@
         "isEmpty": false
       }
     },
-    "skillAbilityIds": {
-      "1": 214948,
-      "2": 214703,
-      "3": 214865,
-      "4": 152863,
-      "5": 215001,
-      "6": 215215
-    },
-    "companionId": 12,
-    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
-    "mainHandWeaponType": 8,
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      }
-    },
     "weapons": {
       "1": {
         "qualityColor": {
@@ -124,6 +113,17 @@
         "displayText": "Empty",
         "isEmpty": true
       }
+    },
+    "companionId": 12,
+    "mainHandWeaponType": 8,
+    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
+    "skillAbilityIds": {
+      "1": 214948,
+      "2": 214703,
+      "3": 214865,
+      "4": 152863,
+      "5": 215001,
+      "6": 215215
     }
   },
   "targetBuildHash": "AjEAcASRJEkSRIEgTw8PDxDTEmyMMuUA",
