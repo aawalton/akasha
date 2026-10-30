@@ -5,9 +5,9 @@ export const activeCalories = {
   type: "page-type/number-property",
   slug: "active-calories",
   propertySlug: "active-calories",
-  definition: "the calories Alan burned moving on a day",
+  definition: "the calories Alan burns while Alan moves on a day",
   max: null,
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:40:46.490Z",
 } as const satisfies NumberProperty
