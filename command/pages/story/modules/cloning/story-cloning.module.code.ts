@@ -133,16 +133,42 @@ export function isCode(path: string): boolean {
   return CODE_ENDINGS.some((one) => path.endsWith(one))
 }
 
-export function slugsRenamed(text: string, from: string, to: string): string {
-  const slug = new RegExp(`(?<![A-Za-z0-9-])${escaped(from)}(?![A-Za-z0-9])`, "g")
-  const camel = new RegExp(`(?<![A-Za-z0-9_$])${inLowerCamelCase(from)}(?![a-z0-9])`, "g")
-  const typed = new RegExp(`(?<![A-Za-z0-9_$])${pascal(from)}(?![a-z0-9])`, "g")
-  return text.replace(slug, to).replace(camel, inLowerCamelCase(to)).replace(typed, pascal(to))
+type Renames = Readonly<Record<string, string>>
+
+type Form = {
+  readonly of: (slug: string) => string
+  readonly before: string
+  readonly after: string
+}
+
+const FORMS: readonly Form[] = [
+  { of: (slug) => slug, before: "[A-Za-z0-9-]", after: "[A-Za-z0-9]" },
+  { of: inLowerCamelCase, before: "[A-Za-z0-9_$]", after: "[a-z0-9]" },
+  { of: pascal, before: "[A-Za-z0-9_$]", after: "[a-z0-9]" },
+]
+
+function alternativeOf(form: Form, renames: Renames): string {
+  const named = Object.keys(renames)
+    .map((one) => form.of(one))
+    .toSorted((one, two) => two.length - one.length)
+    .map(escaped)
+  return `(?<!${form.before})(${named.join("|")})(?!${form.after})`
+}
+
+export function slugsRenamed(text: string, renames: Renames): string {
+  const pattern = new RegExp(FORMS.map((one) => alternativeOf(one, renames)).join("|"), "g")
+  const targets = FORMS.map(
+    (form) =>
+      new Map(Object.entries(renames).map(([from, to]) => [form.of(from), form.of(to)] as const))
+  )
+  return text.replace(pattern, (held: string, ...groups: unknown[]) => {
+    const at = groups.findIndex((one) => typeof one === "string")
+    return targets[at]?.get(held) ?? held
+  })
 }
 
 export function renamedFor(text: string, story: Story): string {
-  const storied = slugsRenamed(text, story.from, story.to)
-  return slugsRenamed(storied, story.world, cloneWorldOf(story.to))
+  return slugsRenamed(text, { [story.from]: story.to, [story.world]: cloneWorldOf(story.to) })
 }
 
 export function clonedPath(path: string, worldFolder: string, story: Story): string {

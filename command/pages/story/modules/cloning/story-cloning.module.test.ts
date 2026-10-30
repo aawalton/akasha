@@ -7,6 +7,7 @@ import {
   copiesOf,
   latestOf,
   masterOf,
+  renamedFor,
   slugsRenamed,
   storyBoundIn,
   strangersDropped,
@@ -166,11 +167,21 @@ test("turns, chapters and the files play or the index write beside a page are le
 test("a slug is renamed where it is a whole name or begins one, and nowhere inside a longer name", () => {
   const said = slugsRenamed(
     '"story-played/test-story" "test-story-player" "iris-game-master-test-story" testStoryPlayer TestStoryPoints the test story',
-    "test-story",
-    "probe"
+    { "test-story": "probe" }
   )
   expect(said).toBe(
     '"story-played/probe" "probe-player" "iris-game-master-test-story" probePlayer ProbePoints the test story'
+  )
+})
+
+test("a clone named for its world is renamed once, its story and its world together", () => {
+  const story = { ...STORY_FACTS, from: "gifted-reborn", to: "gifted-trial", world: "gifted" }
+  const said = renamedFor(
+    '"world/gifted" gifted.world.ts "gifted-reborn-nala" giftedRebornNala giftedPathOfEndurance GiftedRebornPoints',
+    story
+  )
+  expect(said).toBe(
+    '"world/gifted-trial-world" gifted-trial-world.world.ts "gifted-trial-nala" giftedTrialNala giftedTrialWorldPathOfEndurance GiftedTrialPoints'
   )
 })
 
