@@ -4,7 +4,7 @@ export const readoutAsking = {
   id: "01a061c0-e7cc-7ec9-b512-033fcde733e7",
   type: "page-type/module",
   slug: "readout-asking",
-  definition: "the asking that reaches the store for a readout",
+  definition: "how a readout asks the store for rows",
   code: "ts",
   testFixtures: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const readoutAsking = {
     },
   ],
   createdAt: "2026-09-02T10:53:47.340Z",
-  updatedAt: "2026-09-22T13:57:00.000Z",
+  updatedAt: "2026-10-30T16:02:18.974Z",
 } as const satisfies Module
