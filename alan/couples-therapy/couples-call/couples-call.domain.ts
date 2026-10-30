@@ -4,7 +4,7 @@ export const couplesCall = {
   id: "01a16fae-6058-7358-ac29-7067f314d048",
   type: "page-type/domain",
   slug: "couples-call",
-  definition: "a phone call Alan and Jenny hold with a live-model therapist",
+  definition: "the phone therapy a model gives to Alan and Jenny",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "couples call" },
     { partOfSpeech: "part-of-speech/noun", spelling: "couples calls" },
@@ -60,5 +60,5 @@ export const couplesCall = {
     },
   ],
   createdAt: "2026-10-24T20:51:01.335Z",
-  updatedAt: "2026-10-30T15:25:29.355Z",
+  updatedAt: "2026-10-30T15:29:05.940Z",
 } as const satisfies Domain
