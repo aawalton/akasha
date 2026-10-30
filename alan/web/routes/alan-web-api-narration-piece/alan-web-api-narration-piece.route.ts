@@ -4,7 +4,7 @@ export const alanWebApiNarrationPiece = {
   id: "01a10dc9-9fed-70c3-829d-78556146dc2a",
   type: "page-type/route",
   slug: "alan-web-api-narration-piece",
-  definition: "a narration's playlist, chapters or piece, passed through from the speech workload",
+  definition: "a file of the audio of a narration",
   code: "ts",
   urlPath: "api/narration/:id/:name",
   decisions: [
@@ -26,5 +26,5 @@ export const alanWebApiNarrationPiece = {
     },
   ],
   createdAt: "2026-10-05T20:37:59.917Z",
-  updatedAt: "2026-10-05T20:38:06.000Z",
+  updatedAt: "2026-10-30T16:59:51.270Z",
 } as const satisfies Route
