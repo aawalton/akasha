@@ -4,7 +4,7 @@ export const capacitorBridge = {
   id: "01a063c9-03ff-7eb7-8909-d39430301bb3",
   type: "page-type/module",
   slug: "capacitor-bridge",
-  definition: "the plugins the native shell puts on the window",
+  definition: "how code in a page calls the native shell",
   code: "ts",
   decisions: [
     {
@@ -46,6 +46,6 @@ export const capacitorBridge = {
         "The app hands the page each lock screen command it takes as play, pause or toggle.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:39.680Z",
+  updatedAt: "2026-10-30T16:59:08.461Z",
   createdAt: "2026-09-02T20:21:53.279Z",
 } as const satisfies Module
