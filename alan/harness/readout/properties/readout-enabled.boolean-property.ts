@@ -5,7 +5,7 @@ export const readoutEnabled = {
   type: "page-type/boolean-property",
   slug: "readout-enabled",
   propertySlug: "enabled",
-  definition: "whether anything draws a reading",
+  definition: "whether anything shows a readout",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -26,5 +26,5 @@ export const readoutEnabled = {
   ],
   types: "ts",
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:11:24.267Z",
 } as const satisfies BooleanProperty
