@@ -35,7 +35,7 @@ function beatOf(handed: Handed): number | null {
 }
 
 function recordNamed(held: Held, handed: Recorded): string {
-  const flowing = held.status === BEATS
+  const flowing = held.status === BEATS || held.memoryOwed === true
   const part = flowing ? RECORDED.find((one) => recorderOf(one) === handed.recorder) : undefined
   return part === undefined ? recordStep(handed.recorder) : partStep(part)
 }
@@ -50,6 +50,6 @@ function stepNamed(held: Held, handed: Handed): string {
 
 export function stepTimed(held: Held, handed: Handed): Stepped {
   if (held.oneSeat !== true) return {}
-  const beat = beatOf(handed)
+  const beat = held.memoryOwed === true ? null : beatOf(handed)
   return { step: stepNamed(held, handed), ...(beat === null ? {} : { beat }) }
 }

@@ -30,12 +30,14 @@ const ROLE_OF: Readonly<{ [step in TurnStep]: string | null }> = {
   player: null,
 }
 
-function seatedRoleOf(held: Pick<Held, "status" | "oneSeat">): string | null {
-  const role = ROLE_OF[held.status]
+type Waiting = Pick<Held, "status" | "roleplayed" | "oneSeat" | "memoryOwed">
+
+function seatedRoleOf(held: Waiting): string | null {
+  const role = held.memoryOwed === true ? storyRecorderRole.slug : ROLE_OF[held.status]
   return role !== null && held.oneSeat === true ? gameMasterRole.slug : role
 }
 
-export function roleOf(held: Pick<Held, "status" | "roleplayed" | "oneSeat">): string | null {
+export function roleOf(held: Waiting): string | null {
   if (held.roleplayed !== true) return seatedRoleOf(held)
   if (NARRATED.includes(held.status)) return roleplayRole.slug
   if (held.status === PLAYER) return null

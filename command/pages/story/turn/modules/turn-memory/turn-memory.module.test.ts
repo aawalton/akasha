@@ -102,6 +102,16 @@ test("at beats a recorder's memory for its beat is told at once, and no other me
   expect(memorySettled(READING, flowing, { ...beat, memory: [] }, "player")).toEqual([])
 })
 
+test("a one-seat turn's memory handed in at player is told at once, whole, and no memory before it", () => {
+  const owing = { ...HELD, status: "player", memory: [], oneSeat: true, memoryOwed: true } as const
+  const whole = { kind: "record", recorder: "memory", memory: [ELSIE, CERI] } as const
+  expect(memorySettled(READING, owing, whole, "player")).toHaveLength(2)
+  expect(memorySettled(READING, owing, { ...whole, memory: [] }, "player")).toEqual([])
+  const bad = { ...whole, memory: [{ ...CERI, fact: "No." }] }
+  const refused = memorySettled(READING, owing, bad, "player")
+  expect("refused" in refused ? refused.refused : "").toContain("memory 1")
+})
+
 const WORLD_AT = "world/w.world.ts"
 
 const SECOND_AT = "world/lore/the-mere-2.lore.ts"

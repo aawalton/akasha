@@ -1,5 +1,6 @@
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import type { Turn } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { issues as issuesFile } from "akasha/story/chapter/properties/issues.file-property.ts"
 import { mechanicsIssues as mechanicsIssuesFile } from "akasha/story/chapter/properties/mechanics-issues.file-property.ts"
@@ -17,6 +18,7 @@ import {
   stepIn,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { rulingsIn } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
+import { memoryOwed } from "akasha/story/world/stories/played/turns/properties/memory-owed.boolean-property.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const COLLECTIONS = "partOfCollections"
@@ -46,6 +48,8 @@ const OWN_LENGTH = "ownLength"
 const CHARACTERS = "characters"
 
 const ROLEPLAYED = roleplayed.propertySlug
+
+const MEMORY_OWED = exportedAs(memoryOwed.propertySlug)
 
 const PARTED = "/"
 
@@ -124,5 +128,6 @@ export function heldOf(turn: Turn, textOf: TextOf = () => ""): Held | { readonly
     rulings: rulingsBeside(turn, textOf),
     characters: stringsIn(turn.value[CHARACTERS]),
     ...(turn.value[ROLEPLAYED] === true ? { roleplayed: true } : {}),
+    ...(turn.value[MEMORY_OWED] === true ? { memoryOwed: true } : {}),
   }
 }

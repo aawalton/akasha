@@ -36,7 +36,15 @@ export const turnWaiting = {
       statement:
         "A one-seat story's turn waits on its game master seat at every status but player.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn at player owing its memory waits on the memory recorder for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "In a one-seat story that is its game master seat.",
+    },
   ],
   createdAt: "2026-10-17T17:12:36.732Z",
-  updatedAt: "2026-10-30T12:11:46.800Z",
+  updatedAt: "2026-10-30T15:23:27.205Z",
 } as const satisfies Module

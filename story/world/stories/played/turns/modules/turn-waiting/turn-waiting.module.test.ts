@@ -91,6 +91,19 @@ test("a one-seat turn is advanced by its game master seat, and by no other seat"
   )
 })
 
+test("a one-seat turn at player owing its memory waits on its game master seat for it", () => {
+  const owing = { ...HELD, status: PLAYER, oneSeat: true, memoryOwed: true }
+  expect(roleOf(owing)).toBe(gameMaster.slug)
+  expect(callerRefused(owing, { role: gameMaster.slug, game: "the-saga" })).toBe(null)
+  expect(callerRefused(owing, { role: storyRecorder.slug, game: "the-saga" })).toContain(
+    `the turn is at ${PLAYER}, so it waits on the ${gameMaster.slug} of \`the-saga\``
+  )
+  const remembered = { ...owing, memoryOwed: false }
+  expect(callerRefused(remembered, { role: gameMaster.slug, game: "the-saga" })).toContain(
+    "only the player's next action"
+  )
+})
+
 test("a one-seat turn at beats waits on its game master seat alone", () => {
   const beating = { ...HELD, status: BEATS, oneSeat: true }
   expect(callerRefused(beating, { role: gameMaster.slug, game: "the-saga" })).toBe(null)

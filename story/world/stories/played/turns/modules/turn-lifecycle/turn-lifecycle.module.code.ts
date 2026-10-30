@@ -122,6 +122,7 @@ export type Held = {
   readonly planned?: Planned
   readonly roleplayed?: boolean
   readonly oneSeat?: boolean
+  readonly memoryOwed?: boolean
   readonly flow?: Beats
   readonly characters?: readonly string[]
 }

@@ -145,7 +145,7 @@ export function memorySettled(
   handed: Handed,
   status: TurnStep
 ): readonly Asking[] | Refused {
-  if (held.status === BEATS) {
+  if (held.status === BEATS || held.status === PLAYER) {
     const beat = handed.kind === "record" ? (handed.memory ?? []) : []
     return beat.length === 0 ? [] : memoryTold(beat, reading)
   }

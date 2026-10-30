@@ -65,6 +65,14 @@ test("at beats, a record is the numbers, the memory or the pictures of the beat 
   })
 })
 
+test("a turn's whole memory, handed in at player, is the step memory and names no beat", () => {
+  const owing: Held = { ...HELD, status: "player", memoryOwed: true }
+  const memory = [{ beat: 2, page: "a", fact: "f" }]
+  expect(stepOf({ kind: "record", recorder: "memory", memory }, owing)).toEqual({
+    step: "memory",
+  })
+})
+
 test("off the beats, a record is named for its recorder, and lines of two beats name none", () => {
   const recording: Held = { ...HELD, status: "recorders" }
   const memory = [

@@ -41,6 +41,7 @@ import {
   issuesRefused,
 } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
 import { proseTaken } from "akasha/story/world/stories/played/turns/modules/turn-prose/turn-prose.module.code.ts"
+import { rememberedOn } from "akasha/story/world/stories/played/turns/modules/turn-remembering/turn-remembering.module.code.ts"
 
 type Listed = "changes" | "memory" | "pictured"
 
@@ -240,6 +241,7 @@ export function beatRouted(
   admitted: Admitted,
   reviewers: readonly string[] = []
 ): Advanced | null {
+  if (held.memoryOwed === true) return rememberedOn(held, handed)
   if (held.status === BEATS && held.roleplayed !== true) {
     return fromBeat(held, caller, handed, { cast, admitted }, { held, reviewers })
   }

@@ -39,10 +39,14 @@ export const turnStepTiming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn's whole memory handed in at player is the step `memory`, naming no beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A step's beat is the beat the advance names, or else the one beat everything it hands in names.",
     },
   ],
   createdAt: "2026-10-30T12:46:10.864Z",
-  updatedAt: "2026-10-30T13:21:51.721Z",
+  updatedAt: "2026-10-30T15:23:27.205Z",
 } as const satisfies Module

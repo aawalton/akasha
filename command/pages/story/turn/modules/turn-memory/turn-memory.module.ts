@@ -27,6 +27,10 @@ export const turnMemory = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A one-seat turn's whole memory, handed in at player, grows the knowers at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A fact learned by one who knows it already, or shown alone, is told nothing.",
     },
     {
@@ -44,5 +48,5 @@ export const turnMemory = {
     },
   ],
   createdAt: "2026-10-03T16:22:10.716Z",
-  updatedAt: "2026-10-27T19:49:36.414Z",
+  updatedAt: "2026-10-30T15:23:27.205Z",
 } as const satisfies Module
