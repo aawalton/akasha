@@ -7,7 +7,7 @@ export const addPageTypeTypes = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
-  definition: "a page type turned over to the code that writes its type",
+  definition: "a change that moves the type of a page type into a file that code writes",
   code: "ts",
   test: "ts",
   decisions: [
@@ -44,5 +44,5 @@ export const addPageTypeTypes = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-09T22:19:43.067Z",
-  updatedAt: "2026-09-22T10:08:50.000Z",
+  updatedAt: "2026-10-30T17:22:43.649Z",
 } as const satisfies ChangeAgent
