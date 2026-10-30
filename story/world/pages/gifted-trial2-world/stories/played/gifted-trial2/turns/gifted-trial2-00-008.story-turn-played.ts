@@ -11,5 +11,6 @@ export const giftedTrial200008 = {
   action: "I go still again and listen for the word kerith.",
   lore: ["lore/gifted-trial2-nala", "place/gifted-trial2-world-womb"],
   createdAt: "2026-10-30T17:25:48.096Z",
-  updatedAt: "2026-10-30T17:27:50.532Z",
+  updatedAt: "2026-10-30T17:28:29.683Z",
+  outcomes: "jsonl",
 } as const satisfies StoryTurnPlayed
