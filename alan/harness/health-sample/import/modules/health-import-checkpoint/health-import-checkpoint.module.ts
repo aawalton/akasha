@@ -4,7 +4,7 @@ export const healthImportCheckpoint = {
   id: "01a05c14-b11a-7003-bd04-1cf0d76f48ca",
   type: "page-type/module",
   slug: "health-import-checkpoint",
-  definition: "how far an import got, kept on disk so the next run carries on from there",
+  definition: "the progress a run that imports health samples keeps on disk",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const healthImportCheckpoint = {
     },
   ],
   createdAt: "2026-09-01T08:27:35.066Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:37:11.707Z",
 } as const satisfies Module
