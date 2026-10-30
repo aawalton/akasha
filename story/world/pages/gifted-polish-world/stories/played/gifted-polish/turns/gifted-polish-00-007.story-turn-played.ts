@@ -20,10 +20,9 @@ export const giftedPolish00007 = {
     "story-reviewer/style",
   ],
   createdAt: "2026-10-30T18:58:38.827Z",
-  updatedAt: "2026-10-30T19:08:22.207Z",
+  updatedAt: "2026-10-30T19:08:54.886Z",
   ownLength: 193,
   outcomes: "jsonl",
   characters: ["character-player/gifted-polish-nala"],
   endsAt: "2026-10-28T09:35:00.000Z",
-  memoryOwed: true,
 } as const satisfies StoryTurnPlayed

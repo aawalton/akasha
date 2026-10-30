@@ -209,7 +209,11 @@ export const giftedPolishNala = {
       fact: "She listened a good while and caught no whole word of the talk beyond the walls.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
     },
+    {
+      fact: "Trying to hold the deep voice's run of sounds, she lost its start or its end each time.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T18:50:39.017Z",
+  updatedAt: "2026-10-30T19:08:54.886Z",
 } as const satisfies Lore

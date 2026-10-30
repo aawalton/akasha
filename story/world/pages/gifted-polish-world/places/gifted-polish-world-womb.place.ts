@@ -84,7 +84,19 @@ export const giftedPolishWorldWomb = {
       fact: "Said so often, slow and close, 'Sa-vo-reth' comes through the walls clear enough to hold.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The deep voice repeats one short run of sounds, slow and close, with a breath between each time.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "The deep voice stopped; the heavier hand pressed once more, then both hands lifted away.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "The deep voices moved off talking low, a door thudded, and the woman above began to hum.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T18:59:16.600Z",
+  updatedAt: "2026-10-30T19:08:54.886Z",
 } as const satisfies Place
