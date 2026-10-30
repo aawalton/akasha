@@ -4,7 +4,7 @@ export const supervisorAgentActionClear = {
   id: "01a0683e-3dbe-7006-8802-c5cdbe0a8d6d",
   type: "page-type/module",
   slug: "supervisor-agent-action-clear",
-  definition: "the requested action taken off a seat before the supervisor signals its child",
+  definition: "how a supervisor removes the request of its seat before the supervisor action",
   code: "ts",
   test: "ts",
   decisions: [
@@ -23,5 +23,5 @@ export const supervisorAgentActionClear = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:52:58.243Z",
 } as const satisfies Module
