@@ -5,8 +5,8 @@ export const royalRoadEmail = {
   type: "page-type/email-address-property",
   slug: "royal-road-email",
   propertySlug: "email",
-  definition: "the address a Royal Road account signs in as",
+  definition: "the email of a Royal Road account",
   types: "ts",
   createdAt: "2026-09-03T17:42:47.583Z",
-  updatedAt: "2026-09-15T16:47:54.000Z",
+  updatedAt: "2026-10-30T15:14:42.591Z",
 } as const satisfies EmailAddressProperty
