@@ -4,7 +4,7 @@ export const supervisorInteractiveIteration = {
   id: "01a06871-3115-7006-b87f-63a3b2e561a3",
   type: "page-type/module",
   slug: "supervisor-interactive-iteration",
-  definition: "a pass of a seat's loop: its agent, its child, and the process record it leaves",
+  definition: "how code starts each process of a seat's agent",
   code: "ts",
   decisions: [
     {
@@ -49,6 +49,6 @@ export const supervisorInteractiveIteration = {
       statement: "The transcript is kept at the session's file under the project directory.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:33.455Z",
+  updatedAt: "2026-10-30T14:51:52.290Z",
   createdAt: "2026-09-03T18:04:03.733Z",
 } as const satisfies Module
