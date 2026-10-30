@@ -5,6 +5,10 @@ export const supervisorAction = {
   type: "page-type/page-type",
   slug: "supervisor-action",
   definition: "a thing a supervisor does on request",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "supervisor action" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "supervisor actions" },
+  ],
 
   parts: [
     "module/seat-action",
@@ -40,5 +44,5 @@ export const supervisorAction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-01T21:10:58.834Z",
-  updatedAt: "2026-10-30T14:34:35.253Z",
+  updatedAt: "2026-10-30T14:40:28.026Z",
 } as const satisfies PageType
