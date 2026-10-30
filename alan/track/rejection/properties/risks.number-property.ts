@@ -5,9 +5,9 @@ export const risks = {
   type: "page-type/number-property",
   slug: "risks",
   propertySlug: "risks",
-  definition: "how many times over Alan took the same risk at one go",
+  definition: "the number of requests a rejection describes",
   max: null,
   types: "ts",
   createdAt: "2026-09-18T15:08:16.720Z",
-  updatedAt: "2026-09-18T15:12:18.000Z",
+  updatedAt: "2026-10-30T16:42:55.367Z",
 } as const satisfies NumberProperty
