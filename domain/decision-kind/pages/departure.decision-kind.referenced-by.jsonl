@@ -1116,6 +1116,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/sms-core/modules/normalize/normalize.module.ts","id":"01a05b6f-999d-7245-878b-3293cdfb33fb"}
 {"propertySlug":"decision-kind","path":"alan/harness/sms-core/modules/sms-identity/sms-identity.module.ts","id":"01a05b6f-999d-727d-ab08-10b32928a6d8"}
 {"propertySlug":"decision-kind","path":"alan/harness/sms-core/modules/telnyx-inbound/telnyx-inbound.module.ts","id":"01a05b6f-999d-7889-a400-39692d7f8c8b"}
+{"propertySlug":"decision-kind","path":"alan/harness/sms-core/modules/telnyx-send-reply/telnyx-send-reply.module.ts","id":"01a18d9c-ffe0-7edd-bfe3-707a35a829e3"}
 {"propertySlug":"decision-kind","path":"alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.ts","id":"01a05b6f-999d-731e-a182-ed95ac7ecc35"}
 {"propertySlug":"decision-kind","path":"alan/harness/sms-core/modules/verify-signature/verify-signature.module.ts","id":"01a05b6f-999d-7522-a55b-564a85f90c43"}
 {"propertySlug":"decision-kind","path":"alan/harness/sms-core/sms-core.domain.ts","id":"01a05b6f-999c-7a6b-9de1-eb062ff820b3"}

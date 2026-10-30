@@ -1,8 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import {
-  buildTelnyxSendRequest,
-  parseTelnyxSendResponse,
-} from "akasha/alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.code.ts"
+import { buildTelnyxSendRequest } from "akasha/alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.code.ts"
 import { z } from "zod"
 
 const SENT_BODY = z.strictObject({
@@ -46,22 +43,5 @@ describe("buildTelnyxSendRequest", () => {
 
   test("posts", () => {
     expect(buildTelnyxSendRequest(ARGS).method).toBe("POST")
-  })
-})
-
-describe("parseTelnyxSendResponse", () => {
-  test("reads the id out of a good answer", () => {
-    expect(parseTelnyxSendResponse({ data: { id: "msg-1" } })).toEqual({ ok: true, id: "msg-1" })
-  })
-
-  test("reports an answer the shape refuses rather than throwing", () => {
-    expect(parseTelnyxSendResponse({ data: {} })).toEqual({
-      ok: false,
-      reason: "invalid-send-response",
-    })
-  })
-
-  test("reports nothing at all rather than throwing", () => {
-    expect(parseTelnyxSendResponse(null).ok).toBe(false)
   })
 })

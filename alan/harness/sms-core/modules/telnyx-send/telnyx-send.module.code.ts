@@ -1,5 +1,3 @@
-import { z } from "zod"
-
 const DEFAULT_BASE_URL = "https://api.telnyx.com"
 
 export interface TelnyxSendRequest {
@@ -28,26 +26,4 @@ export function buildTelnyxSendRequest(args: BuildTelnyxSendArgs): TelnyxSendReq
     },
     body: JSON.stringify({ from: args.from, to: args.to, text: args.text }),
   }
-}
-
-const telnyxSendResponseSchema = z
-  .object({
-    data: z
-      .object({
-        id: z.string(),
-        direction: z.string().optional(),
-        type: z.string().optional(),
-      })
-      .passthrough(),
-  })
-  .passthrough()
-
-type ParsedSendResponse =
-  | { readonly ok: true; readonly id: string }
-  | { readonly ok: false; readonly reason: string }
-
-export function parseTelnyxSendResponse(raw: unknown): ParsedSendResponse {
-  const parsed = telnyxSendResponseSchema.safeParse(raw)
-  if (!parsed.success) return { ok: false, reason: "invalid-send-response" }
-  return { ok: true, id: parsed.data.data.id }
 }

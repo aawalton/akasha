@@ -1,8 +1,6 @@
 import type { TelnyxSendRequest } from "akasha/alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.code.ts"
-import {
-  buildTelnyxSendRequest,
-  parseTelnyxSendResponse,
-} from "akasha/alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.code.ts"
+import { buildTelnyxSendRequest } from "akasha/alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.code.ts"
+import { parseTelnyxSendResponse } from "akasha/alan/harness/sms-core/modules/telnyx-send-reply/telnyx-send-reply.module.code.ts"
 import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { baseUrl } from "akasha/command/argument/pages/base-url.argument.ts"

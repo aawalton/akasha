@@ -793,6 +793,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/sms-core/modules/normalize/normalize.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/sms-core/modules/sms-identity/sms-identity.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/sms-core/modules/telnyx-inbound/telnyx-inbound.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/sms-core/modules/telnyx-send-reply/telnyx-send-reply.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/sms-core/modules/verify-signature/verify-signature.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.ts","typed":true,"deferred":false}

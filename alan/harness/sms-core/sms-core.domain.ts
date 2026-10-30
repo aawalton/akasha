@@ -12,6 +12,7 @@ export const smsCore = {
     "module/sms-identity",
     "module/telnyx-inbound",
     "module/telnyx-send",
+    "module/telnyx-send-reply",
     "module/verify-signature",
     "page-type/telnyx-account",
   ],
@@ -42,5 +43,5 @@ export const smsCore = {
     },
   ],
   createdAt: "2026-09-01T05:27:15.612Z",
-  updatedAt: "2026-09-24T23:48:22.000Z",
+  updatedAt: "2026-10-30T16:20:39.007Z",
 } as const satisfies Domain
