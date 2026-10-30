@@ -4,7 +4,7 @@ export const answerErrorReport = {
   id: "01a08e53-e866-7aa9-87b1-bfd7879250ca",
   type: "page-type/module",
   slug: "answer-error-report",
-  definition: "the answer a site gives a browser reporting an error",
+  definition: "how code responds to a browser that sends an error",
   code: "ts",
   decisions: [
     {
@@ -30,5 +30,5 @@ export const answerErrorReport = {
     },
   ],
   createdAt: "2026-09-11T02:37:38.790Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T15:31:17.446Z",
 } as const satisfies Module
