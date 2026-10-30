@@ -5,7 +5,10 @@ export const movie = {
   type: "page-type/page-type",
   slug: "movie",
   definition: "a story told in a sitting",
-  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "movies" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "movie" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "movies" },
+  ],
   extends: ["page-type/collection-external"],
   parts: [],
   properties: [
@@ -35,5 +38,5 @@ export const movie = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-10-28T20:39:27.066Z",
+  updatedAt: "2026-10-30T15:09:24.193Z",
 } as const satisfies PageType
