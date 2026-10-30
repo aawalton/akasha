@@ -5,10 +5,10 @@ export const ticker = {
   type: "page-type/text-property",
   slug: "ticker",
   propertySlug: "ticker",
-  definition: "a security's short trading name",
+  definition: "the short name of an investment",
   maxLength: 12,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-22T13:46:30.000Z",
+  updatedAt: "2026-10-30T15:49:59.055Z",
 } as const satisfies TextProperty
