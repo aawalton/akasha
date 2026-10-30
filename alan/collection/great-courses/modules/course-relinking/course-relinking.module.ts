@@ -4,7 +4,8 @@ export const courseRelinking = {
   id: "01a1509c-8378-7539-877e-0e6f513d993e",
   type: "page-type/module",
   slug: "course-relinking",
-  definition: "a course already filed pointed at the link the catalogue gives that course now",
+  definition:
+    "how code changes the link of each course to the link The Great Courses gives the course",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +27,5 @@ export const courseRelinking = {
     },
   ],
   createdAt: "2026-10-18T20:03:16.983Z",
-  updatedAt: "2026-10-18T20:03:16.983Z",
+  updatedAt: "2026-10-30T15:17:48.414Z",
 } as const satisfies Module
