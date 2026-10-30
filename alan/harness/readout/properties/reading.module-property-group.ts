@@ -8,7 +8,7 @@ export const reading = {
   type: "page-type/module-property-group",
   slug: "reading",
   propertySlug: "reading",
-  definition: "what takes a readout's own reading",
+  definition: "the code that takes a readout's own number",
   createdAt: "2026-09-13T14:50:29.803Z",
-  updatedAt: "2026-09-15T17:32:01.000Z",
+  updatedAt: "2026-10-30T16:10:06.346Z",
 } as const satisfies ModulePropertyGroup
