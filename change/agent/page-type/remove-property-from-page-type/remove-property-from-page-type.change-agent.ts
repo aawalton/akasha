@@ -7,7 +7,7 @@ export const removePropertyFromPageType = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "a page property taken off a page type",
+  definition: "a change that removes a page property from a page type",
   code: "ts",
   test: "ts",
   decisions: [
@@ -48,5 +48,5 @@ export const removePropertyFromPageType = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-08T19:38:56.139Z",
-  updatedAt: "2026-09-22T10:07:38.000Z",
+  updatedAt: "2026-10-30T17:08:59.005Z",
 } as const satisfies ChangeAgent
