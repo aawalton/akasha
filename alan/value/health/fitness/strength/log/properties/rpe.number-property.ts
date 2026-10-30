@@ -5,9 +5,9 @@ export const rpe = {
   type: "page-type/number-property",
   slug: "rpe",
   propertySlug: "rpe",
-  definition: "how hard a lifting set was for Alan",
+  definition: "how hard an exercise set was for Alan",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:21:48.925Z",
-  updatedAt: "2026-10-30T16:52:11.206Z",
+  updatedAt: "2026-10-30T17:09:52.017Z",
 } as const satisfies NumberProperty
