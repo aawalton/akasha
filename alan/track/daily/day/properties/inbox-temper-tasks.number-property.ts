@@ -5,9 +5,9 @@ export const inboxTemperTasks = {
   type: "page-type/number-property",
   slug: "inbox-temper-tasks",
   propertySlug: "inbox-temper-tasks",
-  definition: "the game tasks left undone at the end of a day",
+  definition: "the due unfinished temper tasks on a day",
   max: null,
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:33:49.682Z",
 } as const satisfies NumberProperty
