@@ -4,7 +4,7 @@ export const changeLoading = {
   id: "01a08161-d992-7ad5-b5f9-6397f53d2002",
   type: "page-type/module",
   slug: "change-loading",
-  definition: "the change filed at an address, loaded and run for the answer it gives",
+  definition: "how code runs a change by name",
   code: "ts",
   test: "ts",
   decisions: [
@@ -181,5 +181,5 @@ export const changeLoading = {
     },
   ],
   createdAt: "2026-09-08T14:17:48.690Z",
-  updatedAt: "2026-10-27T21:46:57.348Z",
+  updatedAt: "2026-10-30T17:37:34.990Z",
 } as const satisfies Module
