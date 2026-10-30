@@ -4,7 +4,7 @@ export const workstationMemory = {
   id: "01a0a065-1fe2-7ef7-8efc-0759f66b9875",
   type: "page-type/readout",
   slug: "workstation-memory",
-  definition: "how much memory the kernel says the workstation still has to give",
+  definition: "the memory the kernel of the workstation can give",
   reading: {},
   label: "Memory",
   unit: "gigabytes",
@@ -47,5 +47,5 @@ export const workstationMemory = {
     },
   ],
   createdAt: "2026-09-14T14:49:36.994Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T16:22:37.777Z",
 } as const satisfies Readout
