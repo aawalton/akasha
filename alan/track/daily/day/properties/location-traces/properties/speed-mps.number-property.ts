@@ -5,9 +5,9 @@ export const speedMps = {
   type: "page-type/number-property",
   slug: "speed-mps",
   propertySlug: "speed-mps",
-  definition: "how fast the device was moving, in metres a second",
+  definition: "the speed a device reports",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T21:38:23.029Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:47:12.179Z",
 } as const satisfies NumberProperty
