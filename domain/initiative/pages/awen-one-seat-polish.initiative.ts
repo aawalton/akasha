@@ -9,11 +9,6 @@ export const awenOneSeatPolish = {
   parent: "initiative/awen-story-engine-v3",
   intentStack: [
     {
-      statement: "A one-seat turn's status line names the checklist step its seat is on.",
-      workingMemory:
-        "Alan's next Gifted turn is the first one-seat turn he sees, and the action bar says 'The writer and recorders are working…' for it.",
-    },
-    {
       statement: "A one-seat hand-in costs the engine no more time than its work needs.",
       workingMemory:
         "The trial seat estimated 25-30s of engine time per hand-in, about 10 minutes over 20 beat items. Measure it before changing anything.",
@@ -34,5 +29,5 @@ export const awenOneSeatPolish = {
     "No turn is taken in gifted-reborn, which is Alan's real save; a clone played by agents tests it.",
   ],
   createdAt: "2026-10-30T18:05:15.271Z",
-  updatedAt: "2026-10-30T18:05:15.271Z",
+  updatedAt: "2026-10-30T18:07:53.882Z",
 } as const satisfies Initiative
