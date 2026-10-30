@@ -4,7 +4,7 @@ export const requestsAppShell = {
   id: "01a0c537-ba8c-76cf-8c53-2c9af0c65345",
   type: "page-type/module",
   slug: "requests-app-shell",
-  definition: "the Requests site's page frame",
+  definition: "the menu every page of the Requests site shows",
   code: "tsx",
   decisions: [
     {
@@ -22,5 +22,5 @@ export const requestsAppShell = {
     },
   ],
   createdAt: "2026-09-21T18:25:58.924Z",
-  updatedAt: "2026-09-27T12:15:02.000Z",
+  updatedAt: "2026-10-30T16:25:55.221Z",
 } as const satisfies Module
