@@ -5,7 +5,7 @@ export const fitnessEquipmentLoads = {
   type: "page-type/number-property",
   slug: "fitness-equipment-loads",
   propertySlug: "loads",
-  definition: "the weights a piece of kit is available at, in pounds",
+  definition: "the weights in pounds a piece of fitness equipment comes in",
   max: null,
   decisions: [
     {
@@ -23,5 +23,5 @@ export const fitnessEquipmentLoads = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:51:17.317Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:48:21.450Z",
 } as const satisfies NumberProperty
