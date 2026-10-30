@@ -10,29 +10,30 @@ export const stretchHours = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch with an end runs from its start to that end.",
+      statement: "A tracked session with an end runs from its start to that end.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch with no end runs from its start to now.",
+      statement: "A tracked session with no end runs from its start to now.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch with no end on an earlier day runs to the midnight ending that day.",
+      statement:
+        "A tracked session with no end on an earlier day runs to the midnight ending that day.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day whose date is unreadable counts a stretch with no end to now.",
+      statement: "A day whose date is unreadable counts a tracked session with no end to now.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch beginning after the instant it is counted to ran no hours.",
+      statement: "A tracked session beginning after the instant it is counted to ran no hours.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch whose start cannot be read is no reading rather than no hours.",
+      statement: "A tracked session whose start cannot be read is no reading rather than no hours.",
     },
   ],
   createdAt: "2026-09-18T22:37:13.024Z",
-  updatedAt: "2026-10-30T16:33:52.681Z",
+  updatedAt: "2026-10-30T17:46:21.386Z",
 } as const satisfies ComputedPropertyModule
