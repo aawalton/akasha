@@ -27,6 +27,7 @@ export const watching = {
     "module/intro-skipping",
     "module/playback-watching",
     "browser-extension/streaming-watching",
+    "domain/tmdb",
   ],
   decisions: [
     {
@@ -51,5 +52,5 @@ export const watching = {
     },
   ],
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-10-29T19:22:55.630Z",
+  updatedAt: "2026-10-30T15:24:17.789Z",
 } as const satisfies Domain
