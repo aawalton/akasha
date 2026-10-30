@@ -5,10 +5,10 @@ export const tcoSource = {
   type: "page-type/text-property",
   slug: "tco-source",
   propertySlug: "tco-source",
-  definition: "the source of a trim's cost-of-ownership figures",
+  definition: "where the ownership estimates for a car trim come from",
   maxLength: 4000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-21T18:39:41.327Z",
-  updatedAt: "2026-09-22T13:43:28.000Z",
+  updatedAt: "2026-10-30T15:07:57.310Z",
 } as const satisfies TextProperty
