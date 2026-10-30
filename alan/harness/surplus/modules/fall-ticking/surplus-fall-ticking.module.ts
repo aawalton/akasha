@@ -5,7 +5,7 @@ export const surplusFallTicking = {
   type: "page-type/module",
   slug: "surplus-fall-ticking",
   definition:
-    "the tick weighing today's surplus against the night's, telling Alan each rung it falls",
+    "how code writes a notification when today's surplus reaches a new tier color under today's sleep",
   code: "ts",
   test: "ts",
   decisions: [
@@ -50,5 +50,5 @@ export const surplusFallTicking = {
     },
   ],
   createdAt: "2026-09-03T22:58:37.395Z",
-  updatedAt: "2026-09-25T16:58:52.000Z",
+  updatedAt: "2026-10-30T15:58:33.168Z",
 } as const satisfies Module
