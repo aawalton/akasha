@@ -4,7 +4,8 @@ export const replyNotifyPoll = {
   id: "01a16f80-7143-7dd2-8007-1bb06f10176a",
   type: "page-type/module",
   slug: "reply-notify-poll",
-  definition: "a seat's finished reply pushed on the beat that finds it",
+  definition:
+    "how a supervisor sends a notification of the last message of its agent to the people of its seat",
   code: "ts",
   test: "ts",
   decisions: [
@@ -55,5 +56,5 @@ export const replyNotifyPoll = {
     },
   ],
   createdAt: "2026-10-24T20:00:51.010Z",
-  updatedAt: "2026-10-24T22:16:11.291Z",
+  updatedAt: "2026-10-30T14:41:16.299Z",
 } as const satisfies Module
