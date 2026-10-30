@@ -5,9 +5,9 @@ export const epaRangeElectricMi = {
   type: "page-type/number-property",
   slug: "epa-range-electric-mi",
   propertySlug: "epa-range-electric-mi",
-  definition: "how far the EPA says the car goes on the battery alone, in miles",
+  definition: "the EPA rating of the miles a car trim goes on its battery",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:41:18.054Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T15:10:41.360Z",
 } as const satisfies NumberProperty
