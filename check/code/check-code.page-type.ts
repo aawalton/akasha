@@ -4,7 +4,7 @@ export const checkCode = {
   id: "01a04bc4-7e86-7beb-8dfb-3666785dd3d5",
   type: "page-type/page-type",
   slug: "check-code",
-  definition: "a module run over a change to judge whether it may land",
+  definition: "a check written in code",
   parts: [
     "boolean-property/experimental",
     "file-property/cache",
@@ -275,5 +275,5 @@ export const checkCode = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-29T04:26:03.782Z",
-  updatedAt: "2026-09-25T15:54:03.000Z",
+  updatedAt: "2026-10-30T17:40:29.138Z",
 } as const satisfies PageType
