@@ -4,7 +4,7 @@ export const show = {
   id: "01a06599-ee09-7002-9418-3960f44ce6b4",
   type: "page-type/page-type",
   slug: "show",
-  definition: "a story told in episodes over seasons",
+  definition: "a story in episodes over seasons",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "show" },
     { partOfSpeech: "part-of-speech/noun", spelling: "shows" },
@@ -47,5 +47,5 @@ export const show = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-10-29T14:15:13.316Z",
+  updatedAt: "2026-10-30T15:11:31.572Z",
 } as const satisfies PageType
