@@ -53,6 +53,15 @@ export const turnBeating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A one-seat beat's parts are its numbers and its prose, as `turn-remembering` says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A one-seat turn moving to player owes its memory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The move showing a turn's last beat hands each story reviewer the turn.",
     },
     {
@@ -111,5 +120,5 @@ export const turnBeating = {
     },
   ],
   createdAt: "2026-10-27T19:42:57.720Z",
-  updatedAt: "2026-10-30T15:01:33.594Z",
+  updatedAt: "2026-10-30T15:38:23.605Z",
 } as const satisfies Module

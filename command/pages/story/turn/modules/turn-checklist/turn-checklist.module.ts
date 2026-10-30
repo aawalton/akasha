@@ -15,7 +15,16 @@ export const turnChecklist = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Its items run lore, beats, each beat's numbers, prose, memory and pictures, then each review.",
+        "Its items run lore, beats, every beat's numbers, then every beat's prose, each review, memory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Memory is one item for the whole turn, the last, worked once the turn is at player.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No item asks for pictures.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,5 +65,5 @@ export const turnChecklist = {
     },
   ],
   createdAt: "2026-10-30T12:58:02.685Z",
-  updatedAt: "2026-10-30T13:21:51.721Z",
+  updatedAt: "2026-10-30T15:38:23.605Z",
 } as const satisfies Module

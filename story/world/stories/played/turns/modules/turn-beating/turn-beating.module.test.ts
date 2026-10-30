@@ -189,18 +189,71 @@ function alone(flow: Beats, more: Parameters<typeof heldAt>[1] = {}) {
   return heldAt("beats", { flow, beats: flow.beats.length, oneSeat: true, ...more })
 }
 
-test("a one-seat story's game master hands in each step's part of a beat, as its seat would", () => {
+const NUMBERED = beatsOf(
+  { beat: 1, event: "One.", changes: [] },
+  { beat: 2, event: "Two.", changes: [] }
+)
+
+test("a one-seat story's game master hands in each beat's numbers, then each beat's prose", () => {
   const changed = movedOf(advanced(alone(STATED), MASTER, numbers(1, { changes: [GAIN] }), TWO))
   expect([changed.flow?.changes, changed.landsKept]).toEqual([[GAIN], true])
-  const numbered = beatsOf({ beat: 1, event: "One.", changes: [] }, { beat: 2, event: "Two." })
-  const told = movedOf(advanced(alone(numbered), MASTER, { ...PROSE, beat: 1 }, TWO))
+  const half = beatsOf({ beat: 1, event: "One.", changes: [] }, { beat: 2, event: "Two." })
+  expect(refusalOf(advanced(alone(half), MASTER, { ...PROSE, beat: 1 }, TWO))).toBe(
+    "a one-seat turn's prose is written once every beat's numbers are in"
+  )
+  const told = movedOf(advanced(alone(NUMBERED), MASTER, { ...PROSE, beat: 1 }, TWO))
   expect(told.flow?.prose).toEqual([{ beat: 1, prose: "Mara opens the gate." }])
-  const remembering = { kind: "record", recorder: "memory", beat: 1 } as const
+  expect(movedOf(advanced(flowing(half), WRITER, { ...PROSE, beat: 1 }, TWO)).status).toBe("beats")
+})
+
+test("a one-seat beat takes no memory and no pictures, and a seat-graph beat still takes both", () => {
   const written = beatsOf({ beat: 1, event: "One.", changes: [], prose: "One told." })
-  expect(movedOf(advanced(alone(written), MASTER, remembering, TWO)).flow?.none).toContainEqual({
-    beat: 1,
-    part: "memory",
-  })
+  const remembering = { kind: "record", recorder: "memory", beat: 1 } as const
+  expect(refusalOf(advanced(alone(written), MASTER, remembering, TWO))).toContain(
+    "one item for the whole turn, handed in once the turn is at player"
+  )
+  const picture = { kind: "record", recorder: "picture", beat: 1 } as const
+  expect(refusalOf(advanced(alone(written), MASTER, picture, TWO))).toContain("has no pictures")
+  const remembered = movedOf(advanced(flowing(written), RECORDER, remembering, TWO))
+  expect(remembered.flow?.none).toContainEqual({ beat: 1, part: "memory" })
+  const pictured = movedOf(advanced(flowing(written), RECORDER, picture, TWO))
+  expect(pictured.flow?.none).toContainEqual({ beat: 1, part: "pictured" })
+})
+
+test("a numbers refusal in a one-seat turn is stated again before any prose is written", () => {
+  const issues = { ...numbers(2), issues: ["beat 2: no coin"] }
+  const first = beatsOf(
+    { beat: 1, event: "One.", changes: [] },
+    { beat: 2, event: "Two." },
+    { beat: 3, event: "Three." }
+  )
+  const refused = movedOf(advanced(alone(first), MASTER, issues, TWO)).flow ?? first
+  expect(refused.prose ?? []).toEqual([])
+  expect(refusalOf(advanced(alone(refused), MASTER, { ...PROSE, beat: 1 }, TWO))).toContain(
+    "every beat's numbers are in"
+  )
+  const beats = ["One.", "Two, mended.", "Three."]
+  const restate = { kind: "beats", beats, beat: 2 } as const
+  const restated = movedOf(advanced(alone(refused), MASTER, restate, TWO)).flow ?? refused
+  expect([restated.issues, restated.changes, restated.none]).toEqual([
+    undefined,
+    [],
+    [{ beat: 1, part: "changes" }],
+  ])
+  expect(refusalOf(advanced(alone(restated), MASTER, numbers(3), TWO))).toContain(
+    "beat 2 is the beat ready"
+  )
+})
+
+test("a one-seat turn reaches player on its numbers, prose and reviews, owing its memory", () => {
+  const told = beatsOf({ beat: 1, event: "One.", prose: "One told.", changes: [] })
+  const review = { kind: "review", reviewer: VOICE, issues: [] } as const
+  const held = alone(told, { reviewedBy: [continuity.slug] })
+  const said = movedOf(advanced(held, MASTER, review, TWO))
+  expect([said.status, said.values["memoryOwed"]]).toEqual(["player", true])
+  const graph = heldAt("beats", { flow: told, beats: 1, reviewedBy: [continuity.slug] })
+  const seated = movedOf(advanced(graph, REVIEWER, review, TWO))
+  expect([seated.status, "memoryOwed" in seated.values]).toEqual(["beats", false])
 })
 
 test("a one-seat story's game master hands in the reviews, each reviewed once", () => {

@@ -40,7 +40,11 @@ export const turnRoleplaying = {
       statement:
         "A roleplayed turn runs no picture recorder, since the roleplay-illustrator pictures it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A one-seat turn runs no picture recorder either, since it has no pictures.",
+    },
   ],
   createdAt: "2026-10-17T17:54:51.718Z",
-  updatedAt: "2026-10-17T21:08:24.850Z",
+  updatedAt: "2026-10-30T15:38:23.605Z",
 } as const satisfies Module

@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { beatPrompt } from "akasha/command/pages/story/turn/modules/turn-beat-prompting/turn-beat-prompting.module.code.ts"
+import {
+  beatPrompt,
+  turnMemoryPrompt,
+} from "akasha/command/pages/story/turn/modules/turn-beat-prompting/turn-beat-prompting.module.code.ts"
 import { beatsOf } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
@@ -62,6 +65,29 @@ test("a one-seat beat is an item held in the step's role, going straight on and 
   expect(graph).toStartWith("You are the writer of The Saga")
   expect(graph).toContain("run `akasha story turn next`")
   expect(graph).toContain("akasha seat send --to iris-game-master-saga")
+})
+
+test("a one-seat turn's memory is one item for the whole turn, read from the memory instructions", () => {
+  const asked = {
+    title: "The Saga",
+    turnAt: AT,
+    address: `${storyTurnPlayed.slug}/saga-00-004`,
+    calledAs: "akasha story turn advance",
+    lore: [],
+    written: [],
+    alone: true,
+  }
+  const said = turnMemoryPrompt(asked, RECORDERS)
+  expect(said).toStartWith("For this item, you are the memory recorder of The Saga")
+  expect(said).toContain(`The turn \`${AT}\` is at player`)
+  expect(said).toContain("`story/recorder/pages/memory.story-recorder.instructions.md`")
+  expect(said).not.toContain("picture")
+  expect(said).toContain("each line naming the beat it happens in")
+  expect(said).toContain(
+    `akasha story turn advance --turn ${storyTurnPlayed.slug}/saga-00-004 --recorder memory --memory-file <path>`
+  )
+  expect(said).not.toContain("--beat")
+  expect(said).toContain("its answer is the checklist's next item")
 })
 
 test("a refused beat is handed to the game master with its issues, to state again from there", () => {

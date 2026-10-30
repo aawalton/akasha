@@ -89,7 +89,7 @@ const ENDING =
 
 export const ITEM_ENDING =
   "The advance ends this item, not this seat: its answer is the checklist's next item, so take that up at once, whatever messages say. Never end an item in words: words naming the next read do not read it, " +
-  "and the turn then waits on this seat. Every output of yours is a tool call until an answer says the turn is at player."
+  "and the turn then waits on this seat. Every output of yours is a tool call until an answer says no item waits on this seat."
 
 const LAST_WORD = /\S+$/
 

@@ -10,6 +10,7 @@ import { proseFile } from "akasha/command/argument/pages/prose-file.argument.ts"
 import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
 import {
   ITEM_ENDING,
+  type Prompting,
   type Recorder,
   youAre,
 } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
@@ -21,6 +22,7 @@ import {
   beatsWritten,
 } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { inventory } from "akasha/story/recorder/pages/inventory.story-recorder.ts"
+import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { plan } from "akasha/story/recorder/pages/plan.story-recorder.ts"
 import { recorderOf } from "akasha/story/world/stories/played/turns/modules/turn-beating/turn-beating.module.code.ts"
 import { whereSaid } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
@@ -116,6 +118,30 @@ function endingOf(asked: BeatAsking): readonly string[] {
     "",
     `Where the advance is refused and you cannot mend it yourself, send the game master the refusal word for word with \`akasha seat send --to ${asked.master} --body "<what refused>"\`, then end your turn.`,
   ]
+}
+
+export function turnMemoryPrompt(asked: Prompting, recorders: readonly Recorder[]): string {
+  const read = instructionsOf(recorders, [memory.slug])
+  const beats = besideAt(asked.turnAt, "beats", "jsonl") ?? asked.turnAt
+  const prose = besideAt(asked.turnAt, "prose", "txt") ?? asked.turnAt
+  const flags = `${recorderArgument.said} ${memory.slug} ${memoryFile.said} ${PATH}`
+  return [
+    `${youAre(asked.alone)} the memory recorder of ${asked.title}, and you record one turn whole.`,
+    "",
+    `The turn \`${asked.turnAt}\` is at player, so the player reads it now. Its beats are in \`${beats}\`, one json line to a beat, and its prose in \`${prose}\`.`,
+    "",
+    whereSaid(asked.turnAt),
+    "",
+    `Record the whole turn as your instructions, ${read}, say: who learns which fact in each beat, and what each beat shows the reader. Write one memory file for the whole turn, each line naming the beat it happens in, and leave out \`${memoryFile.said}\` where the turn settles nothing.`,
+    "",
+    "Read each instructions file named above with `akasha read --file-path <path>` before this item, never from memory: it may have changed, and one unchanged costs a line.",
+    "",
+    "Hand in the whole turn's memory once, naming no beat:",
+    "",
+    `${asked.calledAs} ${playedTurn.said} ${asked.address} ${flags}`,
+    "",
+    ITEM_ENDING,
+  ].join("\n")
 }
 
 export function beatPrompt(part: FlowPart, asked: BeatAsking): string {

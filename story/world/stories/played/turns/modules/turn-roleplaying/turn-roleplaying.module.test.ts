@@ -58,6 +58,7 @@ test("a roleplayed turn whose story has no mechanics seat goes on to recorders",
 test("a roleplayed turn runs every recorder but the picture recorder", () => {
   const recorders = ["memory", picture.slug]
   expect(recordersRun({ roleplayed: true }, recorders)).toEqual(["memory"])
+  expect(recordersRun({ oneSeat: true }, recorders)).toEqual(["memory"])
   expect(recordersRun({}, recorders)).toEqual(recorders)
   const caller = { role: roleOf(HELD), game: HELD.game }
   const said = movedOf(advanced(HELD, caller, TOLD, [], recorders, [], undefined, []))

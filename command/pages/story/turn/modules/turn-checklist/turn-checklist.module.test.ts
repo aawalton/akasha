@@ -21,7 +21,7 @@ const AT_BEATS = beatsOf(
   shown(1, "Mara opens the gate."),
   shown(2, "The hall is dark."),
   { beat: 3, event: "A lamp flares.", changes: [] },
-  { beat: 4, event: "Someone speaks." }
+  { beat: 4, event: "Someone speaks.", changes: [] }
 )
 
 const staff = (slug: string, name: string, kind: string) => ({
@@ -42,6 +42,7 @@ const CHECKING: Checking = {
   },
   slug: "saga-00-004",
   status: "beats",
+  memoryOwed: false,
   flows: true,
   flow: AT_BEATS,
   reviewedBy: ["continuity"],
@@ -58,20 +59,22 @@ const CHECKING: Checking = {
   notice: (step) => `The turn \`${AT}\` is at ${step}.`,
 }
 
-test("a turn at beats lists every step, beat by beat, and marks the next one from the beats file", () => {
+test("a turn at beats lists every beat's numbers, then every beat's prose, then reviews and memory", () => {
   const said = checklistSaid(CHECKING)
-  expect(said.split("\n").slice(0, 10)).toEqual([
-    `The checklist of the turn \`${AT}\` of The Saga, at beats: [x] is done, [>] is the item to work now, [ ] is still to do. The turn reaches player once every item is done.`,
+  expect(said.split("\n").slice(0, 11)).toEqual([
+    `The checklist of the turn \`${AT}\` of The Saga, at beats: [x] is done, [>] is the item to work now, [ ] is still to do. The turn reaches player once every item but its memory is done, and its memory is handed in after, as the last item.`,
     "",
     "- [x] lore",
     "- [x] beats",
-    "- Beats 1 to 2: [x] numbers [x] prose [x] memory [x] pictures",
-    "- Beat 3: [x] numbers [>] prose [ ] memory [ ] pictures",
-    "- Beat 4: [ ] numbers [ ] prose [ ] memory [ ] pictures",
+    "- Beats 1 to 4: [x] numbers",
+    "- Beats 1 to 2: [x] prose",
+    "- Beat 3: [>] prose",
+    "- Beat 4: [ ] prose",
     "- [x] review continuity",
     "- [ ] review style",
-    "",
+    "- [ ] memory",
   ])
+  expect(said).not.toContain("pictures")
   expect(said).toContain("Now: Beat 3: prose")
   expect(said).toContain(
     "For this item you hold the writer role: its role page is `agent/role/pages/writer.role.ts`."
@@ -88,7 +91,9 @@ test("a refused beat is stated again before its numbers, as the game master's ow
     issues: ["no lamp is lit"],
   })
   const said = checklistSaid({ ...CHECKING, flow: refused })
-  expect(said).toContain("- Beat 2: [>] restate [ ] numbers [ ] prose [ ] memory [ ] pictures")
+  expect(said).toContain(
+    "- Beat 2: [>] restate [ ] numbers\n- Beat 1: [x] prose\n- Beat 2: [ ] prose"
+  )
   expect(said).toContain("Now: Beat 2: restate")
   expect(said).not.toContain("For this item you hold")
   expect(said).toContain("--beat 2 --beats-file <path>")
@@ -107,7 +112,8 @@ test("once every beat is shown and recorded, each review is an item that mends b
 test("a turn at world-builder starts at its lore, in the world builder's role, its beats still to come", () => {
   const said = checklistSaid({ ...CHECKING, status: "world-builder", flow: NO_BEATS })
   expect(said).toContain("- [>] lore")
-  expect(said).toContain("- [ ] Each beat in turn: its numbers, prose, memory and pictures")
+  expect(said).toContain("- [ ] Every beat's numbers, then every beat's prose")
+  expect(said).toContain("- [ ] memory")
   expect(said).toContain("For this item you hold the world builder role")
   expect(said).toContain(`The turn \`${AT}\` is at world-builder.`)
   expect(said).toContain("--turn story-turn-played/saga-00-004 --lore <address>")
@@ -133,6 +139,33 @@ test("a turn sent back off the beats works its numbers, prose, records and revie
     recordedBy: ["mechanics", "memory"],
   })
   expect(recording).toContain("- [x] record memory")
-  expect(recording).toContain("- [>] record picture")
-  expect(recording).toContain("For this item, you are the picture story recorder")
+  expect(recording).not.toContain("record picture")
+  expect(recording).toContain("- [>] review continuity")
+})
+
+test("a beat's prose is no item to work until every beat's numbers are in", () => {
+  const half = beatsOf(
+    { beat: 1, event: "Mara opens the gate.", changes: [] },
+    { beat: 2, event: "The hall is dark." }
+  )
+  const said = checklistSaid({ ...CHECKING, flow: half })
+  expect(said).toContain("- Beat 1: [x] numbers\n- Beat 2: [>] numbers\n- Beats 1 to 2: [ ] prose")
+  expect(said).toContain("Now: Beat 2: numbers")
+})
+
+test("a turn at player owing its memory has its memory last, for the whole turn, from its instructions", () => {
+  const whole = beatsOf(shown(1, "Mara opens the gate."), shown(2, "The hall is dark."))
+  const owing = { ...CHECKING, status: "player", memoryOwed: true, flow: whole } as const
+  const said = checklistSaid({ ...owing, reviewedBy: ["continuity", "style"] })
+  expect(said).toContain("- [x] Every beat's numbers, then every beat's prose")
+  expect(said).toContain("- [x] review style\n- [>] memory")
+  expect(said).toContain("For this item you hold the story recorder role")
+  expect(said).toContain("For this item, you are the memory recorder of The Saga")
+  expect(said).toContain("`story/recorder/pages/memory.story-recorder.instructions.md`")
+  expect(said).toContain(
+    "akasha story turn advance --turn story-turn-played/saga-00-004 --recorder memory --memory-file <path>"
+  )
+  expect(said).not.toContain("--beat")
+  const remembered = checklistSaid({ ...owing, memoryOwed: false })
+  expect(remembered).toContain("- [x] memory")
 })

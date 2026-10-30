@@ -35,6 +35,7 @@ import { flowsOn } from "akasha/story/world/stories/played/turns/modules/turn-be
 import {
   BEATS,
   GAME_MASTER,
+  type Held,
   intentLine,
   MECHANICS,
   moved,
@@ -46,6 +47,7 @@ import {
   WORLD_BUILDER,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { MEMORY_OWED } from "akasha/story/world/stories/played/turns/modules/turn-remembering/turn-remembering.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const STATUS = "stepStatus"
@@ -90,9 +92,13 @@ function openOf(turns: readonly Paged[]): Paged | null {
   const open = inOrder(turns).find((one) => {
     if (one.closed === true || one.at === undefined) return false
     const status = stepIn(one.value[STATUS])
-    return status !== null && status !== PLAYER
+    return status !== null && (status !== PLAYER || one.value[MEMORY_OWED] === true)
   })
   return open ?? null
+}
+
+function flowsAhead(held: Held): boolean {
+  return BEFORE_BEATS.includes(held.status) && flowsOn(held)
 }
 
 function rolesOf(serving: Serving, root: string): Readonly<Record<string, string>> {
@@ -115,7 +121,7 @@ export function checklistServed(
   const title = story?.title ?? game
   const open = openOf(serving.turnsOf(root, game))
   if (open?.at === undefined) {
-    return `Every turn of ${title} is at player, so no item waits on this seat: end your turn, and the next turn's notice comes as a message.`
+    return `Every turn of ${title} is at player with its memory in, so no item waits on this seat: end your turn, and the next turn's notice comes as a message.`
   }
   const turn = { at: open.at, slug: open.slug, value: open.value }
   const held = heldOf(turn, (path) => serving.textOf(root, path))
@@ -146,7 +152,8 @@ export function checklistServed(
     },
     slug: turn.slug,
     status: held.status,
-    flows: held.status === BEATS || (BEFORE_BEATS.includes(held.status) && flowsOn(held)),
+    memoryOwed: held.memoryOwed === true,
+    flows: held.status === BEATS || held.memoryOwed === true || flowsAhead(held),
     flow,
     reviewedBy: held.reviewedBy,
     recordedBy: held.recordedBy,

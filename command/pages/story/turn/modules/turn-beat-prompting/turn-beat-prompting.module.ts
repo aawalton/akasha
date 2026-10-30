@@ -36,7 +36,12 @@ export const turnBeatPrompting = {
       statement:
         "A one-seat story's beat message is a checklist item, opening and ending as a job's item does.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A one-seat turn's memory is asked for once, for the whole turn, by the memory instructions.",
+    },
   ],
   createdAt: "2026-10-30T12:49:16.246Z",
-  updatedAt: "2026-10-30T12:50:10.428Z",
+  updatedAt: "2026-10-30T15:38:23.605Z",
 } as const satisfies Module

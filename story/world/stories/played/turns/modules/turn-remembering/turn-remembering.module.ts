@@ -37,7 +37,20 @@ export const turnRemembering = {
       decisionKind: "decision-kind/departure",
       statement: "A picture handed in there is refused, since a one-seat turn has no pictures.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A one-seat beat refuses memory and pictures, so its beats are done by numbers and prose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A one-seat beat's prose is refused until every beat's numbers are in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "So a numbers refusal is stated again before any prose is written.",
+    },
   ],
   createdAt: "2026-10-30T15:23:27.205Z",
-  updatedAt: "2026-10-30T15:23:27.205Z",
+  updatedAt: "2026-10-30T15:38:23.605Z",
 } as const satisfies Module

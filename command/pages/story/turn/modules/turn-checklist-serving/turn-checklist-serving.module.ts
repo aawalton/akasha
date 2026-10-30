@@ -10,7 +10,8 @@ export const turnChecklistServing = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The open turn is the story's earliest turn not at player.",
+      statement:
+        "The open turn is the story's earliest turn not at player or still owing its memory.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,5 +28,5 @@ export const turnChecklistServing = {
     },
   ],
   createdAt: "2026-10-30T12:58:02.685Z",
-  updatedAt: "2026-10-30T12:58:02.685Z",
+  updatedAt: "2026-10-30T15:38:23.605Z",
 } as const satisfies Module

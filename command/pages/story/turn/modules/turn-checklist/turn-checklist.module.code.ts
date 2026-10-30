@@ -8,7 +8,10 @@ import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.t
 import { proseFile } from "akasha/command/argument/pages/prose-file.argument.ts"
 import { rulingsFile } from "akasha/command/argument/pages/rulings-file.argument.ts"
 import { turnLore } from "akasha/command/argument/pages/turn-lore.argument.ts"
-import { beatPrompt } from "akasha/command/pages/story/turn/modules/turn-beat-prompting/turn-beat-prompting.module.code.ts"
+import {
+  beatPrompt,
+  turnMemoryPrompt,
+} from "akasha/command/pages/story/turn/modules/turn-beat-prompting/turn-beat-prompting.module.code.ts"
 import {
   ITEM_ENDING,
   mechanicsPrompt,
@@ -32,10 +35,12 @@ import {
   refusedAt,
 } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts"
 import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
+import { picture } from "akasha/story/recorder/pages/picture.story-recorder.ts"
 import {
   BEATS,
   GAME_MASTER,
   MECHANICS,
+  PLAYER,
   RECORDERS,
   REVIEWERS,
   type TurnStep,
@@ -47,6 +52,7 @@ export type Checking = {
   readonly prompting: Prompting
   readonly slug: string
   readonly status: TurnStep
+  readonly memoryOwed: boolean
   readonly flows: boolean
   readonly flow: Beats
   readonly reviewedBy: readonly string[]
@@ -66,7 +72,11 @@ type Item = {
   readonly beat?: number
 }
 
-const PARTS: readonly FlowPart[] = ["changes", "prose", "memory", "pictured"]
+const NUMBERS: FlowPart = "changes"
+
+const PARTS: readonly FlowPart[] = [NUMBERS, "prose"]
+
+const RESTATED: readonly FlowPart[] = ["event", NUMBERS]
 
 const PART_ROLE: Readonly<Record<FlowPart, string | null>> = {
   event: null,
@@ -75,6 +85,11 @@ const PART_ROLE: Readonly<Record<FlowPart, string | null>> = {
   memory: storyRecorderRole.slug,
   pictured: storyRecorderRole.slug,
 }
+
+const REACHES = "The turn reaches player once every item is done."
+
+const REACHES_BEFORE_MEMORY =
+  "The turn reaches player once every item but its memory is done, and its memory is handed in after, as the last item."
 
 const BEFORE_BEATS: readonly TurnStep[] = [WORLD_BUILDER, GAME_MASTER]
 
@@ -123,24 +138,36 @@ function beatsItem(checking: Checking): Item {
 function beatItems(checking: Checking): readonly Item[] {
   if (checking.status !== BEATS) {
     const said = () => ""
-    const label = "Each beat in turn: its numbers, prose, memory and pictures"
-    return [{ label, done: false, role: null, said }]
+    const label = "Every beat's numbers, then every beat's prose"
+    return [{ label, done: checking.status === PLAYER, role: null, said }]
   }
   const { flow, prompting } = checking
   const turn = { slug: checking.slug, at: prompting.turnAt, beats: flow }
   const refused = refusedAt(flow)
-  return flow.beats.flatMap((_, at): Item[] => {
-    const beat = at + 1
-    const parts: readonly FlowPart[] = beat === refused ? ["event", ...PARTS] : PARTS
-    const asked = { ...prompting, turn, beat, recorders: checking.recorders, master: null }
-    return parts.map((part) => ({
-      label: partStep(part),
-      done: part !== "event" && filledOn(flow, beat, part),
-      role: PART_ROLE[part],
-      said: () => beatPrompt(part, { ...asked, alone: true }),
-      beat,
-    }))
-  })
+  return PARTS.flatMap((step) =>
+    flow.beats.flatMap((_, at): Item[] => {
+      const beat = at + 1
+      const parts: readonly FlowPart[] = step === NUMBERS && beat === refused ? RESTATED : [step]
+      const asked = { ...prompting, turn, beat, recorders: checking.recorders, master: null }
+      return parts.map((part) => ({
+        label: partStep(part),
+        done: part !== "event" && filledOn(flow, beat, part),
+        role: PART_ROLE[part],
+        said: () => beatPrompt(part, { ...asked, alone: true }),
+        beat,
+      }))
+    })
+  )
+}
+
+function memoryItem(checking: Checking): Item {
+  const asked = { ...checking.prompting, alone: true }
+  return {
+    label: partStep("memory"),
+    done: checking.status === PLAYER && !checking.memoryOwed,
+    role: storyRecorderRole.slug,
+    said: () => turnMemoryPrompt(asked, checking.recorders),
+  }
 }
 
 function reviewItems(checking: Checking): readonly Item[] {
@@ -157,7 +184,9 @@ function offBeatItems(checking: Checking): readonly Item[] {
   const { status, recordedBy } = checking
   const asked = { ...checking.prompting, alone: true }
   const mechanics = checking.recorders.filter((one) => checking.mechanics.includes(one.slug))
-  const recording = checking.recorders.filter((one) => !checking.mechanics.includes(one.slug))
+  const recording = checking.recorders.filter(
+    (one) => !checking.mechanics.includes(one.slug) && one.slug !== picture.slug
+  )
   const proseFlags = `${proseFile.said} <path> ${character.said} <${character.placeholder}>`
   return [
     ...mechanics.map((one) => ({
@@ -182,8 +211,10 @@ function offBeatItems(checking: Checking): readonly Item[] {
 }
 
 function itemsOf(checking: Checking): readonly Item[] {
-  const middle = checking.flows ? beatItems(checking) : offBeatItems(checking)
-  return [loreItem(checking), beatsItem(checking), ...middle, ...reviewItems(checking)]
+  const opening = [loreItem(checking), beatsItem(checking)]
+  const reviews = reviewItems(checking)
+  if (!checking.flows) return [...opening, ...offBeatItems(checking), ...reviews]
+  return [...opening, ...beatItems(checking), ...reviews, memoryItem(checking)]
 }
 
 type Row = { readonly beat: number | null; readonly said: string }
@@ -237,7 +268,8 @@ export function checklistSaid(checking: Checking): string {
   const items = itemsOf(checking)
   const next = items.find((one) => !one.done)
   const { turnAt, title } = checking.prompting
-  const head = `The checklist of the turn \`${turnAt}\` of ${title}, at ${checking.status}: [x] is done, [>] is the item to work now, [ ] is still to do. The turn reaches player once every item is done.`
+  const reaches = checking.flows ? REACHES_BEFORE_MEMORY : REACHES
+  const head = `The checklist of the turn \`${turnAt}\` of ${title}, at ${checking.status}: [x] is done, [>] is the item to work now, [ ] is still to do. ${reaches}`
   const listed = [head, "", ...linesOf(rowsOf(items, next))]
   if (next === undefined) return listed.join("\n")
   return [

@@ -41,7 +41,12 @@ import {
   issuesRefused,
 } from "akasha/story/world/stories/played/turns/modules/turn-mechanics/turn-mechanics.module.code.ts"
 import { proseTaken } from "akasha/story/world/stories/played/turns/modules/turn-prose/turn-prose.module.code.ts"
-import { rememberedOn } from "akasha/story/world/stories/played/turns/modules/turn-remembering/turn-remembering.module.code.ts"
+import {
+  aloneRefused,
+  owedOn,
+  rememberedOn,
+  stepsOn,
+} from "akasha/story/world/stories/played/turns/modules/turn-remembering/turn-remembering.module.code.ts"
 
 type Listed = "changes" | "memory" | "pictured"
 
@@ -262,6 +267,8 @@ function fromBeat(
   if (handed.kind === "review") return reviewedOn(flow, caller, handed, review)
   const found = partOf(handed)
   if ("refused" in found) return found
+  const unasked = aloneRefused(held, found.part, flow)
+  if (unasked !== null) return { refused: unasked }
   const alone = held.oneSeat === true
   const role = alone ? gameMasterRole.slug : found.role
   if (caller.role !== role) {
@@ -335,7 +342,7 @@ function onward(flow: Beats, review: Reviewing, more: Onward = {}): Advanced {
   const values = more.values ?? {}
   const reviewedBy = more.reviewedBy ?? review.held.reviewedBy
   const left = review.reviewers.filter((one) => !reviewedBy.includes(one))
-  const recorded = STEPPED.every((part) => doneBy(flow, part))
+  const recorded = STEPPED.every((part) => !stepsOn(review.held, part) || doneBy(flow, part))
   const opened = shownWhole(flow) && !shownWhole(review.held.flow)
   const starts = opened ? left.map((reviewer): Start => ({ kind: "reviewer", reviewer })) : []
   const moving = {
@@ -345,7 +352,9 @@ function onward(flow: Beats, review: Reviewing, more: Onward = {}): Advanced {
     starts,
     ...(more.notes === undefined ? {} : { notes: more.notes }),
   }
-  if (recorded && left.length === 0) return moved(PLAYER, published(values), moving)
+  if (recorded && left.length === 0) {
+    return moved(PLAYER, published({ ...values, ...owedOn(review.held) }), moving)
+  }
   return moved(BEATS, values, moving)
 }
 

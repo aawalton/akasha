@@ -4,6 +4,8 @@ import {
   type Serving,
 } from "akasha/command/pages/story/turn/modules/turn-checklist-serving/turn-checklist-serving.module.code.ts"
 import { beatsOf } from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.test-fixtures.ts"
+import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
+import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 
 const atOf = (slug: string) => `stories/saga/turns/${slug}.story-turn-played.ts`
 
@@ -47,6 +49,8 @@ const servingOf = (turns: readonly ReturnType<typeof pagedOf>[]): Serving => ({
 
 const CALLED = "akasha story turn advance"
 
+const REVIEWED = `${storyReviewer.slug}/${continuity.slug}`
+
 test("the checklist served is the earliest turn not at player, whatever turns wait after it", () => {
   const turns = [
     pagedOf("saga-00-005", 5, "world-builder"),
@@ -83,6 +87,28 @@ test("a story whose every turn is at player has the seat end its turn", () => {
     servingOf([pagedOf("saga-00-004", 4, "player")])
   )
   expect(said).toBe(
-    "Every turn of The Saga is at player, so no item waits on this seat: end your turn, and the next turn's notice comes as a message."
+    "Every turn of The Saga is at player with its memory in, so no item waits on this seat: end your turn, and the next turn's notice comes as a message."
+  )
+})
+
+test("a turn at player owing its memory is served before the turn waiting on it, its memory next", () => {
+  const owing = pagedOf("saga-00-004", 4, "player")
+  const shown = beatsOf({ beat: 1, event: "Mara opens the gate.", changes: [], prose: "She does." })
+  const turns = [
+    pagedOf("saga-00-005", 5, "world-builder"),
+    {
+      ...owing,
+      value: { ...owing.value, memoryOwed: true, reviewedBy: [REVIEWED] },
+      beats: shown,
+    },
+  ]
+  const said = checklistServed("/nowhere", "saga", CALLED, servingOf(turns))
+  expect(said).toStartWith(
+    `The checklist of the turn \`${atOf("saga-00-004")}\` of The Saga, at player`
+  )
+  expect(said).toContain("- [x] Every beat's numbers, then every beat's prose")
+  expect(said).toContain("Now: memory")
+  expect(said).toContain(
+    "--turn story-turn-played/saga-00-004 --recorder memory --memory-file <path>"
   )
 })

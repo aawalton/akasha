@@ -12,7 +12,7 @@ export const gameMasterOneSeat = {
       act: "In a one-seat story, run `akasha story turn next` on a turn's notice, and work every item it hands.",
       warrant: "A one-seat story starts no other seat, so every step of its turn waits on you.",
       aids: [
-        "Each advance answers with the next item; take it up at once, until one says the turn is at player.",
+        "Each advance answers with the next item; take it up at once, until one says no item waits on you.",
         "While an item is open, you hold its role, and work by the role page it names.",
         "A rule of one role barring another role's work never bars you from that role's item.",
         "So Off The Table, Beats Not Prose and Numbers To Mechanics bar no item of yours.",
@@ -22,5 +22,5 @@ export const gameMasterOneSeat = {
     },
   ],
   createdAt: "2026-10-30T13:14:19.489Z",
-  updatedAt: "2026-10-30T14:57:46.131Z",
+  updatedAt: "2026-10-30T15:38:23.605Z",
 } as const satisfies Domain

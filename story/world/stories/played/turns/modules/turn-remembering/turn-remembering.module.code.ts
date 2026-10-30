@@ -1,4 +1,9 @@
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import {
+  doneBy,
+  type FlowPart,
+} from "akasha/story/engine/beat-state/modules/beat-flow/beat-flow.module.code.ts"
+import type { Beats } from "akasha/story/engine/beat-state/modules/beat-records/beat-records.module.code.ts"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { picture } from "akasha/story/recorder/pages/picture.story-recorder.ts"
 import {
@@ -16,6 +21,27 @@ export const MEMORY_OWED = exportedAs(memoryOwed.propertySlug)
 const NO_PICTURES = "a one-seat turn has no pictures, so its picture recorder hands in nothing"
 
 const MEMORY_ALONE = `at ${PLAYER} a turn owing its memory takes that memory alone, from the \`${memory.slug}\` recorder`
+
+const AFTER_PLAYER = `a one-seat turn's memory is one item for the whole turn, handed in once the turn is at ${PLAYER}`
+
+const NUMBERS_FIRST = "a one-seat turn's prose is written once every beat's numbers are in"
+
+type Seating = Pick<Held, "oneSeat">
+
+export function aloneRefused(held: Seating, part: FlowPart, flow: Beats): string | null {
+  if (held.oneSeat !== true) return null
+  if (part === "pictured") return NO_PICTURES
+  if (part === "memory") return AFTER_PLAYER
+  return part === "prose" && !doneBy(flow, "changes") ? NUMBERS_FIRST : null
+}
+
+export function stepsOn(held: Seating, part: FlowPart): boolean {
+  return held.oneSeat !== true || (part !== "memory" && part !== "pictured")
+}
+
+export function owedOn(held: Seating): Readonly<Record<string, true>> {
+  return held.oneSeat === true ? { [MEMORY_OWED]: true } : {}
+}
 
 function unrememberedOf(handed: Handed): string | null {
   if (handed.kind !== "record") return MEMORY_ALONE

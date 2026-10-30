@@ -20,10 +20,11 @@ const TOLD_AS =
   "its beats and the prose written from them in one advance (`--beats-file` with `--prose-file` and `--character`)"
 
 export function recordersRun(
-  held: Pick<Held, "roleplayed">,
+  held: Pick<Held, "roleplayed" | "oneSeat">,
   recorders: readonly string[]
 ): readonly string[] {
-  return held.roleplayed === true ? recorders.filter((one) => one !== picture.slug) : recorders
+  const unpictured = held.roleplayed === true || held.oneSeat === true
+  return unpictured ? recorders.filter((one) => one !== picture.slug) : recorders
 }
 
 export function roleplayTakes(held: Pick<Held, "status" | "roleplayed">): Handed["kind"] | null {
