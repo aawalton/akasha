@@ -4,7 +4,8 @@ export const supervisorAgent = {
   id: "01a0683e-3dbe-7003-8c74-a74611900fdd",
   type: "page-type/module",
   slug: "supervisor-agent",
-  definition: "the account a seat runs under and the credential written for it",
+  definition:
+    "the model account a seat runs under and the credential written for that model account",
   code: "ts",
   test: "ts",
   decisions: [
@@ -45,5 +46,5 @@ export const supervisorAgent = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-30T06:38:04.000Z",
+  updatedAt: "2026-10-30T14:35:51.035Z",
 } as const satisfies Module
