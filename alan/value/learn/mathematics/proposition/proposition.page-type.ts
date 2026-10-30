@@ -4,7 +4,7 @@ export const proposition = {
   id: "01a06575-c2ab-7655-98f1-b3163771f0dc",
   type: "page-type/page-type",
   slug: "proposition",
-  definition: "a statement in the formal system Alan is building",
+  definition: "a claim in Alan's mathematics",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "proposition" }],
   extends: ["page-type/page"],
   parts: [
@@ -40,5 +40,5 @@ export const proposition = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:10:11.499Z",
-  updatedAt: "2026-09-22T10:05:47.000Z",
+  updatedAt: "2026-10-30T16:50:09.342Z",
 } as const satisfies PageType
