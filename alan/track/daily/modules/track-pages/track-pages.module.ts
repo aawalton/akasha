@@ -4,8 +4,8 @@ export const trackPages = {
   id: "01a069d3-579d-7d0c-a6f6-992140abdd20",
   type: "page-type/module",
   slug: "track-pages",
-  definition: "the values of a tracking page narrowed to the page its readers take",
+  definition: "how code writes the names of a page's values in lower camel case",
   code: "ts",
   createdAt: "2026-09-04T00:30:53.341Z",
-  updatedAt: "2026-09-22T13:22:14.000Z",
+  updatedAt: "2026-10-30T16:49:22.668Z",
 } as const satisfies Module
