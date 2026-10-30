@@ -4,7 +4,7 @@ export const slugRenaming = {
   id: "01a09c61-7a20-7e53-a461-78bf666a426e",
   type: "page-type/module",
   slug: "slug-renaming",
-  definition: "a page's slug restated in its own body, in every page naming it and in its export",
+  definition: "how code changes the slug of a page in every body that has the slug",
   code: "ts",
   test: "ts",
   decisions: [
@@ -76,5 +76,5 @@ export const slugRenaming = {
     },
   ],
   createdAt: "2026-09-13T20:07:09.088Z",
-  updatedAt: "2026-09-24T15:08:07.000Z",
+  updatedAt: "2026-10-30T17:43:12.463Z",
 } as const satisfies Module
