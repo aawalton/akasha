@@ -264,6 +264,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/prompt.common-language-term.ts","id":"01a16427-f76c-7b6e-869a-860897361a6b"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/puzzle.common-language-term.ts","id":"01a18d54-315c-7eb3-b5e2-17ef3cec6177"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/question.common-language-term.ts","id":"01a18d49-28a4-767c-a35b-cce31a479c4e"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/rating.common-language-term.ts","id":"01a18d59-50c2-75e5-8866-d3e1f9912c15"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/reliability.common-language-term.ts","id":"01a18d51-0f5b-7709-bbfa-99399a9b2a88"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/reply.common-language-term.ts","id":"01a18d4b-4906-77e6-b55e-d40a298c7425"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/request-header.common-language-term.ts","id":"01a0d9d6-af05-77d0-a020-336d005a9bf8"}
