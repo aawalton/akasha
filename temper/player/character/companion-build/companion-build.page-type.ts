@@ -5,6 +5,10 @@ export const companionBuild = {
   type: "page-type/page-type",
   slug: "companion-build",
   definition: "a saved arrangement of a companion's gear, skills and stats",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "companion build" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "companion builds" },
+  ],
   extends: ["page-type/temper-character-thing"],
   parts: [
     "page-type/companion-build-version",
@@ -48,5 +52,5 @@ export const companionBuild = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:59:23.240Z",
-  updatedAt: "2026-09-25T13:31:25.000Z",
+  updatedAt: "2026-10-30T16:47:38.508Z",
 } as const satisfies PageType
