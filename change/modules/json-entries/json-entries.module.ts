@@ -4,7 +4,7 @@ export const jsonEntries = {
   id: "01a08239-7cf2-7f52-8f52-49c5a92d21c1",
   type: "page-type/module",
   slug: "json-entries",
-  definition: "a key a JSON body holds at its top level",
+  definition: "how code changes the names and values in a JSON file",
   code: "ts",
   test: "ts",
   decisions: [
@@ -117,5 +117,5 @@ export const jsonEntries = {
     },
   ],
   createdAt: "2026-09-08T18:13:20.754Z",
-  updatedAt: "2026-09-24T20:06:22.000Z",
+  updatedAt: "2026-10-30T17:43:58.079Z",
 } as const satisfies Module
