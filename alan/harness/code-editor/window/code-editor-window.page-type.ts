@@ -4,7 +4,7 @@ export const codeEditorWindow = {
   id: "01a06826-92e5-77ad-ad85-f1aa8cb5d359",
   type: "page-type/page-type",
   slug: "code-editor-window",
-  definition: "an open window of the editor",
+  definition: "a part of the screen where the code editor shows its groups",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "code editor window" },
     { partOfSpeech: "part-of-speech/noun", spelling: "code editor windows" },
@@ -52,5 +52,5 @@ export const codeEditorWindow = {
   ],
   schema: "jsonl",
   createdAt: "2026-09-03T16:42:33.573Z",
-  updatedAt: "2026-10-30T15:29:43.354Z",
+  updatedAt: "2026-10-30T16:56:34.935Z",
 } as const satisfies PageType
