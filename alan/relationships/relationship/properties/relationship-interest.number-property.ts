@@ -5,9 +5,9 @@ export const relationshipInterest = {
   type: "page-type/number-property",
   slug: "relationship-interest",
   propertySlug: "relationship-interest",
-  definition: "how much Alan wants to spend time with this person",
+  definition: "how much time Alan wants to spend with this person",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:44:04.194Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:29:34.036Z",
 } as const satisfies NumberProperty
