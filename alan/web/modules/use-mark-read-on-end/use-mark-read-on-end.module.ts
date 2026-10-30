@@ -4,7 +4,7 @@ export const useMarkReadOnEnd = {
   id: "01a0655d-dab9-72ea-9ecc-aad82b9431df",
   type: "page-type/module",
   slug: "use-mark-read-on-end",
-  definition: "a chapter marked read once its narration reaches the end",
+  definition: "how code makes a page done after a person reads the whole page",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const useMarkReadOnEnd = {
     },
   ],
   createdAt: "2026-09-03T03:44:04.793Z",
-  updatedAt: "2026-09-28T22:25:20.000Z",
+  updatedAt: "2026-10-30T17:05:23.699Z",
 } as const satisfies Module
