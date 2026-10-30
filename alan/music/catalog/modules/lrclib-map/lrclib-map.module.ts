@@ -4,7 +4,7 @@ export const lrclibMap = {
   id: "01a06262-ff4c-7005-b1fe-0f60b8c2ffbe",
   type: "page-type/module",
   slug: "lrclib-map",
-  definition: "an LRCLIB answer taken as the words a song has",
+  definition: "how code chooses the words of a song from a reply from LRCLIB",
   code: "ts",
   test: "ts",
   decisions: [
@@ -46,5 +46,5 @@ export const lrclibMap = {
     },
   ],
   createdAt: "2026-09-02T13:50:50.188Z",
-  updatedAt: "2026-09-22T13:22:14.000Z",
+  updatedAt: "2026-10-30T16:28:08.564Z",
 } as const satisfies Module
