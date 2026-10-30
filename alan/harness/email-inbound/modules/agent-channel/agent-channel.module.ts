@@ -4,7 +4,7 @@ export const agentChannel = {
   id: "01a05bcd-25e3-7b2c-b378-4f00fd2d5eaa",
   type: "page-type/module",
   slug: "agent-channel",
-  definition: "which persona's channel a set of recipient headers names",
+  definition: "how code finds the persona an email is sent to",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const agentChannel = {
     },
   ],
   createdAt: "2026-09-01T07:09:26.371Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T15:49:27.746Z",
 } as const satisfies Module
