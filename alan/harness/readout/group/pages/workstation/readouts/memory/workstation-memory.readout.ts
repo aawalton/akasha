@@ -15,7 +15,7 @@ export const workstationMemory = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is the gigabytes of memory the kernel says are available.",
+      statement: "The number is the gigabytes of memory the kernel says are available.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,19 +27,19 @@ export const workstationMemory = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading is kept to a tenth of a gigabyte.",
+      statement: "A number is kept to a tenth of a gigabyte.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "How much memory the workstation has in all is no part of the reading.",
+      statement: "How much memory the workstation has in all is no part of the number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A meminfo naming no available memory is no reading rather than zero.",
+      statement: "A meminfo naming no available memory is no number rather than zero.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -47,5 +47,5 @@ export const workstationMemory = {
     },
   ],
   createdAt: "2026-09-14T14:49:36.994Z",
-  updatedAt: "2026-10-30T16:22:37.777Z",
+  updatedAt: "2026-10-30T17:20:30.787Z",
 } as const satisfies Readout
