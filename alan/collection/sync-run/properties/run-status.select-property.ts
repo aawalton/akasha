@@ -5,7 +5,7 @@ export const runStatus = {
   type: "page-type/select-property",
   slug: "run-status",
   propertySlug: "run-status",
-  definition: "how a pull ended",
+  definition: "how a run ends",
   values: ["running", "success", "failed"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const runStatus = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:47:25.668Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:14:37.491Z",
 } as const satisfies SelectProperty
