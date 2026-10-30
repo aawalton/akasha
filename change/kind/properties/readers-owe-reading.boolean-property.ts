@@ -5,8 +5,8 @@ export const readersOweReading = {
   type: "page-type/boolean-property",
   slug: "readers-owe-reading",
   propertySlug: "readers-owe-reading",
-  definition: "whether a change of this kind leaves every other agent owing the reading again",
+  definition: "whether every other agent must read the files of a change of this kind again",
   types: "ts",
   createdAt: "2026-09-06T13:23:59.959Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T17:07:38.383Z",
 } as const satisfies BooleanProperty
