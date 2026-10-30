@@ -4,7 +4,7 @@ export const atlasApiPageWrite = {
   id: "01a08838-c84b-70c9-ae34-60620a677571",
   type: "page-type/route",
   slug: "atlas-api-page-write",
-  definition: "the page a reader's browser asks to have written",
+  definition: "the page a browser asks the website to write",
   code: "ts",
   urlPath: "api/page-write",
   decisions: [
@@ -14,5 +14,5 @@ export const atlasApiPageWrite = {
     },
   ],
   createdAt: "2026-09-09T22:10:17.803Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:45:04.075Z",
 } as const satisfies Route
