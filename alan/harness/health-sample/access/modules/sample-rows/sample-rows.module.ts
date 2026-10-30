@@ -4,7 +4,7 @@ export const sampleRows = {
   id: "01a05bc7-9129-7003-ad69-0d84f3a9d2ea",
   type: "page-type/module",
   slug: "sample-rows",
-  definition: "a stored row read back as a health reading",
+  definition: "how code reads a health sample from a stored row",
   code: "ts",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const sampleRows = {
     },
   ],
   createdAt: "2026-09-01T07:03:20.617Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:29:26.425Z",
 } as const satisfies Module
