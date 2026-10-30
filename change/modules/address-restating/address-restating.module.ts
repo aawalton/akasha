@@ -4,7 +4,7 @@ export const addressRestating = {
   id: "01a09c32-ce10-789c-bc0c-792c98ca95e4",
   type: "page-type/module",
   slug: "address-restating",
-  definition: "the edits restating many pages' addresses over a reading of the bodies",
+  definition: "how code replaces the page types and names of pages in every file",
   code: "ts",
   test: "ts",
   decisions: [
@@ -70,5 +70,5 @@ export const addressRestating = {
     },
   ],
   createdAt: "2026-09-13T19:16:10.384Z",
-  updatedAt: "2026-09-22T10:09:53.000Z",
+  updatedAt: "2026-10-30T17:40:03.977Z",
 } as const satisfies Module
