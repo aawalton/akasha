@@ -4,7 +4,7 @@ export const alanWebRoutes = {
   id: "01a08be5-e239-7a9b-8ae1-de3ce17709ec",
   type: "page-type/app-routes",
   slug: "alan-web-routes",
-  definition: "the routes alanwalton.com serves",
+  definition: "the routes of alanwalton.com",
   appLayout: "tsx",
   parts: [
     "route/about",
@@ -98,5 +98,5 @@ export const alanWebRoutes = {
     },
   ],
   createdAt: "2026-09-10T15:18:13.817Z",
-  updatedAt: "2026-10-28T00:56:02.836Z",
+  updatedAt: "2026-10-30T16:55:55.060Z",
 } as const satisfies AppRoutes
