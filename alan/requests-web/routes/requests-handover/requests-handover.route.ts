@@ -4,7 +4,7 @@ export const requestsHandover = {
   id: "01a0c537-bb25-71f7-bcbe-06ea872cea83",
   type: "page-type/route",
   slug: "requests-handover",
-  definition: "where a reader arrives from alanwalton.com carrying a code",
+  definition: "the path a browser opens with a code from alanwalton.com",
   code: "ts",
   urlPath: "handover",
   decisions: [
@@ -19,5 +19,5 @@ export const requestsHandover = {
     },
   ],
   createdAt: "2026-09-21T18:25:59.077Z",
-  updatedAt: "2026-09-21T18:37:14.000Z",
+  updatedAt: "2026-10-30T15:53:02.668Z",
 } as const satisfies Route
