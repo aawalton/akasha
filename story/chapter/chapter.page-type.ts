@@ -5,6 +5,10 @@ export const chapter = {
   type: "page-type/page-type",
   slug: "chapter",
   definition: "the text a reader reads at one sitting",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "chapter" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "chapters" },
+  ],
   icon: "scroll-text",
   pluralSlug: "chapters",
   extends: ["page-type/collection"],
@@ -70,5 +74,5 @@ export const chapter = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T14:41:05.475Z",
-  updatedAt: "2026-10-05T20:21:37.000Z",
+  updatedAt: "2026-10-30T15:20:32.960Z",
 } as const satisfies PageType
