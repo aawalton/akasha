@@ -5,7 +5,7 @@ export const subagentOutliving = {
   type: "page-type/module",
   slug: "subagent-outliving",
   definition:
-    "how code finds the subagents that stop before the program that runs their seat starts",
+    "how code finds the subagents that were done before the program that runs their seat started",
   code: "ts",
   test: "ts",
   decisions: [
@@ -73,5 +73,5 @@ export const subagentOutliving = {
     },
   ],
   createdAt: "2026-09-10T19:29:08.664Z",
-  updatedAt: "2026-10-30T14:47:28.219Z",
+  updatedAt: "2026-10-30T15:31:47.019Z",
 } as const satisfies Module
