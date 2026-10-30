@@ -4,7 +4,7 @@ export const handleInbound = {
   id: "01a05b6f-999d-7cde-afd6-ca387a8bb110",
   type: "page-type/module",
   slug: "handle-inbound",
-  definition: "an inbound webhook carried from its signature to the seat that receives it",
+  definition: "how code carries a text message to a seat",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -39,5 +39,5 @@ export const handleInbound = {
     },
   ],
   createdAt: "2026-09-01T05:27:15.613Z",
-  updatedAt: "2026-10-24T21:54:38.184Z",
+  updatedAt: "2026-10-30T16:08:32.564Z",
 } as const satisfies Module
