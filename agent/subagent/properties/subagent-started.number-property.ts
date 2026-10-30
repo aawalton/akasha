@@ -5,7 +5,7 @@ export const subagentStarted = {
   type: "page-type/number-property",
   slug: "subagent-started",
   propertySlug: "started",
-  definition: "the moment a subagent's run last began, in milliseconds",
+  definition: "the time the last run of a subagent starts",
   max: null,
   decisions: [
     {
@@ -23,5 +23,5 @@ export const subagentStarted = {
   ],
   types: "ts",
   createdAt: "2026-09-11T02:34:32.551Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:36:49.562Z",
 } as const satisfies NumberProperty
