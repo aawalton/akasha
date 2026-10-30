@@ -7,7 +7,7 @@ export const removeEntryKeyOnEveryPage = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "a key taken out of every entry beside every page of a page type",
+  definition: "a change that removes a property from every row of a record property of a page type",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -46,5 +46,5 @@ export const removeEntryKeyOnEveryPage = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-24T20:30:41.681Z",
-  updatedAt: "2026-09-24T20:31:15.000Z",
+  updatedAt: "2026-10-30T17:41:58.601Z",
 } as const satisfies ChangeAgent
