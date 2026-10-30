@@ -4,7 +4,7 @@ export const trackCandidate = {
   id: "01a06281-4d9d-7003-a5cb-de0f475a7e60",
   type: "page-type/module",
   slug: "track-candidate",
-  definition: "a Spotify search hit taken as a track that could be played",
+  definition: "a track a Spotify search finds",
   code: "ts",
   test: "ts",
   decisions: [
@@ -50,5 +50,5 @@ export const trackCandidate = {
     },
   ],
   createdAt: "2026-09-02T14:23:56.317Z",
-  updatedAt: "2026-09-22T13:22:14.000Z",
+  updatedAt: "2026-10-30T16:23:27.551Z",
 } as const satisfies Module
