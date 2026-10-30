@@ -5,6 +5,10 @@ export const foodEntry = {
   type: "page-type/page-type",
   slug: "food-entry",
   definition: "something Alan has eaten",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "food entry" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "food entries" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "file-property/food-entry-note",
@@ -41,5 +45,5 @@ export const foodEntry = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T05:00:04.619Z",
-  updatedAt: "2026-10-30T16:46:01.016Z",
+  updatedAt: "2026-10-30T16:49:41.470Z",
 } as const satisfies PageType
