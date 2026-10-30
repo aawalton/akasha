@@ -4,7 +4,7 @@ export const sheetsAddress = {
   id: "01a13ab0-c506-7e3a-aca7-95e922ebc076",
   type: "page-type/module",
   slug: "sheets-address",
-  definition: "a sheet and the cells in it, read from a URL, an id and an A1 range",
+  definition: "how code finds a spreadsheet from a URL or an id",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const sheetsAddress = {
     },
   ],
   createdAt: "2026-10-14T13:53:45.733Z",
-  updatedAt: "2026-10-14T13:53:45.733Z",
+  updatedAt: "2026-10-30T16:28:29.749Z",
 } as const satisfies Module
