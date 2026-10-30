@@ -5,10 +5,10 @@ export const exposureUnit = {
   type: "page-type/text-property",
   slug: "exposure-unit",
   propertySlug: "exposure-unit",
-  definition: "the amount of an activity one price in micromorts is given for",
+  definition: "the amount of a risk activity a unit holds",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-10-28T18:23:14.375Z",
-  updatedAt: "2026-10-28T18:23:14.375Z",
+  updatedAt: "2026-10-30T16:11:44.461Z",
 } as const satisfies TextProperty
