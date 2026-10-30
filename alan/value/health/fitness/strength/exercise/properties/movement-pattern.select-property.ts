@@ -5,7 +5,7 @@ export const movementPattern = {
   type: "page-type/select-property",
   slug: "movement-pattern",
   propertySlug: "movement-pattern",
-  definition: "the shape of the movement, which is what a session is balanced across",
+  definition: "the main shape of a strength exercise",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "movement pattern" },
     { partOfSpeech: "part-of-speech/noun", spelling: "movement patterns" },
@@ -29,5 +29,5 @@ export const movementPattern = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-10-30T16:51:29.719Z",
+  updatedAt: "2026-10-30T16:57:41.317Z",
 } as const satisfies SelectProperty
