@@ -5,9 +5,10 @@ export const tcoRepairs = {
   type: "page-type/number-property",
   slug: "tco-repairs",
   propertySlug: "tco-repairs",
-  definition: "what mending the car is reckoned to cost over those years, in dollars",
+  definition:
+    "an estimate of the dollars an owner spends on repairs to the car over the years of ownership",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:27.618Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:17:35.937Z",
 } as const satisfies NumberProperty
