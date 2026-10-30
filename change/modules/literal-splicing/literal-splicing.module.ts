@@ -4,7 +4,7 @@ export const literalSplicing = {
   id: "01a0822c-932a-7f1c-8dbf-5fe8221d3854",
   type: "page-type/module",
   slug: "literal-splicing",
-  definition: "the span an edit takes in an object literal or an array literal",
+  definition: "how code finds the place of an edit among the values a code file holds",
   code: "ts",
   test: "ts",
   decisions: [
@@ -103,5 +103,5 @@ export const literalSplicing = {
     },
   ],
   createdAt: "2026-09-08T17:59:14.474Z",
-  updatedAt: "2026-09-24T15:14:52.000Z",
+  updatedAt: "2026-10-30T17:44:36.261Z",
 } as const satisfies Module
