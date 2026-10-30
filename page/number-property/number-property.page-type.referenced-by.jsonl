@@ -176,7 +176,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/task-points.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/wealth-points.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/wisdom-words.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/words-read-points.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/words-read-snapshot.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/food-entry/properties/estimated-calories.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/food-entry/properties/plant-grams.number-property.ts","typed":true,"deferred":false}

@@ -37,7 +37,6 @@ import type { TaskPoints } from "akasha/alan/track/daily/day/properties/task-poi
 import type { Version } from "akasha/alan/track/daily/day/properties/version.text-property.types.ts"
 import type { WealthPoints } from "akasha/alan/track/daily/day/properties/wealth-points.number-property.types.ts"
 import type { WisdomWords } from "akasha/alan/track/daily/day/properties/wisdom-words.number-property.types.ts"
-import type { WordsReadPoints } from "akasha/alan/track/daily/day/properties/words-read-points.number-property.types.ts"
 import type { WordsReadSnapshot } from "akasha/alan/track/daily/day/properties/words-read-snapshot.number-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
@@ -67,7 +66,6 @@ export type Day = Page & {
   wisdomWords?: WisdomWords
   intelligenceTopics?: IntelligenceTopics
   completionSnapshot?: CompletionSnapshot
-  wordsReadPoints?: WordsReadPoints
   wordsReadSnapshot?: WordsReadSnapshot
   inboxTasks?: InboxTasks
   inboxTasksClearedToday?: InboxTasksClearedToday
