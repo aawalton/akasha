@@ -5,7 +5,7 @@ export const foundation = {
   type: "page-type/module",
   slug: "foundation",
   definition:
-    "the shell fragments and App Store Connect identifiers shared by every generated mac build script",
+    "the pieces of shell script and the App Store Connect ids every script on Alan's MacBook uses",
   code: "ts",
   test: "ts",
   decisions: [
@@ -125,5 +125,5 @@ export const foundation = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-22T16:02:38.000Z",
+  updatedAt: "2026-10-30T16:25:38.631Z",
 } as const satisfies Module
