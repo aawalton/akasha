@@ -18,7 +18,7 @@ export function skippable(wording: string | null | undefined): boolean {
   return SKIPPING.test(words)
 }
 
-export type Pressable = {
+type Pressable = {
   readonly textContent: string | null
   readonly getAttribute: (name: string) => string | null
   readonly click?: () => void

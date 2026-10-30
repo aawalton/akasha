@@ -25,7 +25,7 @@ export type Patch = {
   readonly set: Readonly<Record<string, unknown>>
 }
 
-export type Recording = {
+type Recording = {
   readonly patches: readonly Patch[]
   readonly said: string
 }
@@ -67,7 +67,7 @@ export function titled(rows: readonly Row[], title: string): Row | null {
   return rows.find((one) => keyed(textIn(one.title)) === key) ?? null
 }
 
-export function seasonRowOf(one: Row, seasons: readonly Row[]): Row | null {
+function seasonRowOf(one: Row, seasons: readonly Row[]): Row | null {
   const held = stringsIn(one.partOfCollections).find((at) => at.startsWith(`${season.slug}/`))
   if (held === undefined) return null
   const slug = held.slice(season.slug.length + 1)
@@ -78,7 +78,7 @@ function numberIn(one: Row | null): number | null {
   return one === null ? null : asNumber(one.position)
 }
 
-export function episodeIn(
+function episodeIn(
   episodes: readonly Row[],
   seasons: readonly Row[],
   sighting: Sighting

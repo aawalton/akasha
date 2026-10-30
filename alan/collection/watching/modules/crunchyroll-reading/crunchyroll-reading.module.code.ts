@@ -5,7 +5,7 @@ import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.modul
 
 type Said = Readonly<Record<string, unknown>>
 
-export type Reading = {
+type Reading = {
   readonly show: string
   readonly season: number | null
   readonly episode: number | null
@@ -183,7 +183,7 @@ export function crunchyrollSighted(): Sighting | null {
   return sightedOnCrunchyroll(document, location.href)
 }
 
-export function sightedOnCrunchyroll(doc: Document, link: string): Sighting | null {
+function sightedOnCrunchyroll(doc: Document, link: string): Sighting | null {
   const scripts = [...doc.scripts]
     .filter(
       (one) => one.type === "application/ld+json" || (one.textContent ?? "").includes(METADATA)

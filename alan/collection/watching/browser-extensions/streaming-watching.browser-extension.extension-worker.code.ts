@@ -20,12 +20,12 @@ import {
   SITE,
 } from "akasha/infrastructure/service/akasha-service/browser-extension/modules/site-answering/site-answering.module.code.ts"
 
-export type Asked = {
+type Asked = {
   readonly kind: string
   readonly sighting: Sighting
 }
 
-export type Answered = {
+type Answered = {
   readonly said: string
   readonly recorded: boolean
 }
@@ -57,7 +57,7 @@ export function dayNow(now: Date): string {
   return now.toLocaleDateString("en-CA", { timeZone: DAY_ZONE })
 }
 
-export async function rowsFor(query: Query): Promise<readonly Row[]> {
+async function rowsFor(query: Query): Promise<readonly Row[]> {
   const answer = await answerTo("/api/ask", { ...ASKING, body: JSON.stringify(query) })
   if (answer.status === 401) throw new Error("sign in to alanwalton.com, then try again")
   if (!answer.ok) throw new Error(`alanwalton.com answered ${answer.status}`)

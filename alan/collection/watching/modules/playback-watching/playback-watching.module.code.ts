@@ -2,12 +2,12 @@ import type { Sighting } from "akasha/alan/collection/watching/modules/episode-r
 import type { Chrome } from "akasha/infrastructure/service/akasha-service/browser-extension/modules/chrome-reaching/chrome-reaching.module.code.ts"
 import { told as toldFor } from "akasha/infrastructure/service/akasha-service/browser-extension/modules/site-telling/site-telling.module.code.ts"
 
-export type Answered = {
+type Answered = {
   readonly said: string
   readonly recorded: boolean
 }
 
-export type Sighted = () => Sighting | null
+type Sighted = () => Sighting | null
 
 const WATCHED_AT = 0.9
 
