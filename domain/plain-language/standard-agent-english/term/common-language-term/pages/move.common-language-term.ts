@@ -8,7 +8,8 @@ export const move = {
     { partOfSpeech: "part-of-speech/noun", spelling: "move" },
     { partOfSpeech: "part-of-speech/verb", spelling: "move" },
     { partOfSpeech: "part-of-speech/verb", spelling: "moves" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "moved" },
   ],
   createdAt: "2026-09-22T17:06:30.392Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T17:20:58.282Z",
 } as const satisfies CommonLanguageTerm
