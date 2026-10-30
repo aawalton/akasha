@@ -5,7 +5,7 @@ export const safetyLevel = {
   type: "page-type/text-property",
   slug: "safety-level",
   propertySlug: "safety-level",
-  definition: "how safe Alan was over a stretch of time",
+  definition: "how safe Alan feels",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "safety level" },
     { partOfSpeech: "part-of-speech/noun", spelling: "safety levels" },
@@ -24,5 +24,5 @@ export const safetyLevel = {
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-10-30T16:26:39.688Z",
+  updatedAt: "2026-10-30T16:38:05.637Z",
 } as const satisfies TextProperty
