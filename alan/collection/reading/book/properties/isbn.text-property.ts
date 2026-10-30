@@ -5,10 +5,10 @@ export const isbn = {
   type: "page-type/text-property",
   slug: "isbn",
   propertySlug: "isbn",
-  definition: "an edition's ten-character catalogue number",
+  definition: "the short catalogue number of an edition",
   maxLength: 10,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T12:32:44.815Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T15:20:54.481Z",
 } as const satisfies TextProperty
