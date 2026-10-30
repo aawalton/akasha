@@ -4,7 +4,7 @@ export const personaPointsRebuilding = {
   id: "01a082eb-4f25-7bd5-b488-a5c24903072e",
   type: "page-type/module",
   slug: "persona-points-rebuilding",
-  definition: "each persona's points, worked out again from the days counting her messages",
+  definition: "how code counts each persona's points from the messages of each day",
   code: "ts",
   test: "ts",
   decisions: [
@@ -61,5 +61,5 @@ export const personaPointsRebuilding = {
     },
   ],
   createdAt: "2026-09-08T21:27:34.437Z",
-  updatedAt: "2026-09-22T13:54:48.000Z",
+  updatedAt: "2026-10-30T15:30:51.527Z",
 } as const satisfies Module
