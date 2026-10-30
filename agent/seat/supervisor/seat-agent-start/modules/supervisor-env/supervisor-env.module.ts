@@ -4,7 +4,7 @@ export const supervisorEnv = {
   id: "01a0683e-3dbe-701f-84bf-56050a29afd2",
   type: "page-type/module",
   slug: "supervisor-env",
-  definition: "the environment a supervisor hands its Claude child",
+  definition: "how code makes the environment variables a Claude Code process starts with",
   code: "ts",
   test: "ts",
   decisions: [
@@ -31,5 +31,5 @@ export const supervisorEnv = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T16:36:00.000Z",
+  updatedAt: "2026-10-30T14:49:07.266Z",
 } as const satisfies Module
