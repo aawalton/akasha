@@ -4,7 +4,7 @@ export const alanSessionReader = {
   id: "01a0c119-72b0-74f5-b872-e3b9944a812a",
   type: "page-type/module",
   slug: "alan-session-reader",
-  definition: "who a request is from, read off a Google session",
+  definition: "how code reads the person signed in from a Google sign-in session",
   code: "ts",
   decisions: [
     {
@@ -29,5 +29,5 @@ export const alanSessionReader = {
     },
   ],
   createdAt: "2026-09-20T23:14:25.584Z",
-  updatedAt: "2026-10-24T23:08:38.639Z",
+  updatedAt: "2026-10-30T16:57:24.578Z",
 } as const satisfies Module
