@@ -7,7 +7,7 @@ export const changePropertyRecordField = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value-prose",
-  definition: "a field of a record a page's many-valued property has, stated anew",
+  definition: "a change that replaces a value in a record property of a page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -60,5 +60,5 @@ export const changePropertyRecordField = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-08T16:31:10.615Z",
-  updatedAt: "2026-09-24T16:07:50.000Z",
+  updatedAt: "2026-10-30T17:03:20.560Z",
 } as const satisfies ChangeAgent
