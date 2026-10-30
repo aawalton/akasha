@@ -5,9 +5,9 @@ export const connectionActivityAttn = {
   type: "page-type/number-property",
   slug: "connection-activity-attn",
   propertySlug: "connection-activity-attn",
-  definition: "how much of their attention is on him",
+  definition: "how much of the attention of the other person is on Alan",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:37:29.997Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:30:06.404Z",
 } as const satisfies NumberProperty
