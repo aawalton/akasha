@@ -5,9 +5,9 @@ export const dayOfWeek = {
   type: "page-type/select-property",
   slug: "day-of-week",
   propertySlug: "day-of-week",
-  definition: "which day of the week this one is",
+  definition: "the day of the week of a day in Alan's schedule",
   values: ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
   types: "ts",
   createdAt: "2026-09-03T04:15:48.269Z",
-  updatedAt: "2026-09-22T14:07:21.000Z",
+  updatedAt: "2026-10-30T16:56:16.080Z",
 } as const satisfies SelectProperty
