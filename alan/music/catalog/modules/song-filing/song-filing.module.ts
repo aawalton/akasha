@@ -4,7 +4,7 @@ export const songFiling = {
   id: "01a0bd18-4f2c-7a61-9d38-6e4b0c9a5731",
   type: "page-type/module",
   slug: "song-filing",
-  definition: "the song a released title names, filed here where no song is filed yet",
+  definition: "how code writes a page for the song of a track where no page has that song",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -49,5 +49,5 @@ export const songFiling = {
     },
   ],
   createdAt: "2026-09-19T18:33:13.000Z",
-  updatedAt: "2026-09-19T18:33:13.000Z",
+  updatedAt: "2026-10-30T16:30:32.505Z",
 } as const satisfies Module
