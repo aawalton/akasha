@@ -5,7 +5,7 @@ export const sourceDirectory = {
   type: "page-type/text-property",
   slug: "source-directory",
   propertySlug: "source-directory",
-  definition: "a web app's source folder",
+  definition: "the folder that holds the code of a web app",
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -24,5 +24,5 @@ export const sourceDirectory = {
   ],
   types: "ts",
   createdAt: "2026-09-01T04:07:55.830Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:08:05.388Z",
 } as const satisfies TextProperty
