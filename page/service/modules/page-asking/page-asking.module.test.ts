@@ -84,10 +84,6 @@ test("a key no page carries is tested as a page carrying nothing there", () => {
   expect(kinds({ cover: { "not-in": ["nothing at all"] } })).toEqual(kinds())
 })
 
-test("a page type nothing extends and no page is filed under is answered empty", () => {
-  expect(rowsOf(asking(root, { pageTypeSlug: "tracking-field" }))).toEqual([])
-})
-
 test("a page type extending the one named is answered too", () => {
   const said = new Set(COLLECTIONS.map((one) => one.type))
   expect(said.has("book")).toBe(true)
