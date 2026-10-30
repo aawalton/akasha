@@ -4,7 +4,7 @@ export const playbackWatching = {
   id: "01a18818-57d5-77da-91f2-096dccc1636e",
   type: "page-type/module",
   slug: "playback-watching",
-  definition: "the video on a streaming page, watched until it is reported",
+  definition: "how code watches the video a streaming service plays in a browser",
   code: "ts",
   test: "ts",
   runsInABrowser: true,
@@ -31,5 +31,5 @@ export const playbackWatching = {
     },
   ],
   createdAt: "2026-10-29T14:37:39.156Z",
-  updatedAt: "2026-10-29T14:37:39.156Z",
+  updatedAt: "2026-10-30T15:22:41.762Z",
 } as const satisfies Module
