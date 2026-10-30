@@ -4,7 +4,7 @@ export const upkeepSurplus = {
   id: "01a05fc3-145a-78a6-902f-ea39b8165c39",
   type: "page-type/readout",
   slug: "upkeep-surplus",
-  definition: "how much of Alan's night the day has left him",
+  definition: "the hours of sleep a day keeps after the hours the day spends",
   reading: {},
   label: "Surplus",
   unit: "hours",
@@ -71,5 +71,5 @@ export const upkeepSurplus = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-09-02T01:36:55.386Z",
-  updatedAt: "2026-10-20T11:11:50.885Z",
+  updatedAt: "2026-10-30T15:59:19.219Z",
 } as const satisfies Readout
