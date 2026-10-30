@@ -5,7 +5,7 @@ export const sleepHours = {
   type: "page-type/computed-property",
   slug: "sleep-hours",
   propertySlug: "sleep-hours",
-  definition: "the hours Alan slept, added up from the day's own stretches",
+  definition: "the hours of sleep in a day's tracked sessions",
   holds: "number",
   code: "ts",
   decisions: [
@@ -16,5 +16,5 @@ export const sleepHours = {
   ],
   types: "ts",
   createdAt: "2026-09-05T18:56:42.376Z",
-  updatedAt: "2026-09-18T22:41:51.000Z",
+  updatedAt: "2026-10-30T16:40:43.055Z",
 } as const satisfies ComputedProperty
