@@ -4,7 +4,8 @@ export const codeExportCarrying = {
   id: "01a09c3d-8d88-7d7f-9070-14c87fa1b4b2",
   type: "page-type/module",
   slug: "code-export-carrying",
-  definition: "the passages carrying named exports out of one code body and into another",
+  definition:
+    "how code finds the edits that move named pieces of code from a code file to another code file",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -193,5 +194,5 @@ export const codeExportCarrying = {
     },
   ],
   createdAt: "2026-09-13T19:27:54.760Z",
-  updatedAt: "2026-09-21T20:04:59.000Z",
+  updatedAt: "2026-10-30T17:40:49.406Z",
 } as const satisfies Module
