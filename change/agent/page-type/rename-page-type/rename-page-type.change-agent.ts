@@ -7,7 +7,7 @@ export const renamePageType = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
-  definition: "a page type renamed, by the partial change renaming a page type",
+  definition: "a change that renames a page type",
   code: "ts",
   test: "ts",
   decisions: [
@@ -41,5 +41,5 @@ export const renamePageType = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-08T19:47:20.736Z",
-  updatedAt: "2026-09-22T10:08:09.000Z",
+  updatedAt: "2026-10-30T17:09:56.330Z",
 } as const satisfies ChangeAgent
