@@ -4,7 +4,7 @@ export const alanwaltonSurplus = {
   id: "01a06420-b259-7c25-a46d-ddd74b4b9120",
   type: "page-type/readout-widget",
   slug: "alanwalton-surplus",
-  definition: "the tile on Alan's phone showing how much of his night the day has left him",
+  definition: "the readout widget on Alan's phone that shows Alan's surplus",
   app: "ios-app/alanwalton",
   component: "ios-component/surplus-ring",
   kind: "SurplusWidget",
@@ -18,5 +18,5 @@ export const alanwaltonSurplus = {
   groups: ["readout-group/surplus"],
   place: 10,
   createdAt: "2026-09-02T21:57:39.545Z",
-  updatedAt: "2026-09-15T16:23:51.000Z",
+  updatedAt: "2026-10-30T15:59:33.055Z",
 } as const satisfies ReadoutWidget
