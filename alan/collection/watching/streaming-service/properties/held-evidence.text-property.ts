@@ -5,7 +5,7 @@ export const heldEvidence = {
   type: "page-type/text-property",
   slug: "held-evidence",
   propertySlug: "held-evidence",
-  definition: "what shows whether Alan pays for a streaming service",
+  definition: "the text that shows whether Alan pays for a streaming service",
   maxLength: 400,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const heldEvidence = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:27:56.630Z",
-  updatedAt: "2026-10-28T21:25:13.619Z",
+  updatedAt: "2026-10-30T15:15:50.325Z",
 } as const satisfies TextProperty
