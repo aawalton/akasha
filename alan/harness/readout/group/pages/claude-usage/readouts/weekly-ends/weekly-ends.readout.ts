@@ -4,7 +4,7 @@ export const weeklyEnds = {
   id: "01a063bd-a526-7623-8e91-2865d3976acc",
   type: "page-type/readout",
   slug: "weekly-ends",
-  definition: "how long until the weekly allowance window closes",
+  definition: "the time until the next seven-day window ends for a model account under its limit",
   label: "7d ends",
   unit: "h",
   minuteUnit: "m",
@@ -41,5 +41,5 @@ export const weeklyEnds = {
     },
   ],
   createdAt: "2026-09-02T20:09:28.102Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T15:57:25.167Z",
 } as const satisfies Readout
