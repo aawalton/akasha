@@ -15,10 +15,10 @@ export const skillMorphs = {
   scope: "all_characters",
   priority: "p4",
   effectiveCharacter: "temper-account-character/lyonette-du-marquin",
-  lastCompletedAt: "2026-10-30T14:23:11.634Z",
+  lastCompletedAt: "2026-10-30T14:23:32.887Z",
   progress: "jsonl",
   progressTotal: 24480,
   progressCurrent: 24103,
   createdAt: "2026-04-22T12:39:34.017Z",
-  updatedAt: "2026-10-30T14:23:13.082Z",
+  updatedAt: "2026-10-30T14:23:33.279Z",
 } as const satisfies TemperTask
