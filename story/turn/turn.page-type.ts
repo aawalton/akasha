@@ -6,6 +6,12 @@ export const turn = {
   slug: "turn",
   definition: "one exchange of a story being made",
   pluralSlug: "turns",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "story turn" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "story turns" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "turn", scope: "page-type/story" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "turns", scope: "page-type/story" },
+  ],
   extends: ["page-type/collection"],
   runsTabooCheck: false,
   properties: [
@@ -32,5 +38,5 @@ export const turn = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-22T16:39:25.364Z",
-  updatedAt: "2026-09-26T17:31:16.000Z",
+  updatedAt: "2026-10-30T15:02:47.723Z",
 } as const satisfies PageType
