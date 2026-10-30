@@ -4,7 +4,7 @@ export const seatVoice = {
   id: "01a11b35-8c5b-79b0-9351-6ffc788b86f5",
   type: "page-type/domain",
   slug: "seat-voice",
-  definition: "Alan talking to a seat out loud",
+  definition: "speech between Alan and a seat",
   parts: ["module/seat-voice-setup", "module/seat-voice-live", "page-type/voice-brief"],
   decisions: [
     {
@@ -29,5 +29,5 @@ export const seatVoice = {
     },
   ],
   createdAt: "2026-10-08T11:10:56.603Z",
-  updatedAt: "2026-10-08T12:30:19.000Z",
+  updatedAt: "2026-10-30T14:34:45.172Z",
 } as const satisfies Domain
