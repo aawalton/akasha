@@ -4,7 +4,7 @@ export const navReach = {
   id: "01a16fdf-ea8f-714a-af00-6990b8af7c41",
   type: "page-type/module",
   slug: "nav-reach",
-  definition: "the nav items of Alan's site a reader's access reaches",
+  definition: "the choices of the menu a person at alanwalton.com can reach",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +26,5 @@ export const navReach = {
     },
   ],
   createdAt: "2026-10-24T21:45:07.983Z",
-  updatedAt: "2026-10-24T21:45:07.983Z",
+  updatedAt: "2026-10-30T16:59:55.465Z",
 } as const satisfies Module
