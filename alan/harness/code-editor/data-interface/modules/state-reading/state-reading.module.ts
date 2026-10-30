@@ -4,7 +4,7 @@ export const stateReading = {
   id: "01a072b8-a766-7b44-b1e8-c0c04920e385",
   type: "page-type/module",
   slug: "state-reading",
-  definition: "how a part of the editor reads the file that part draws",
+  definition: "how a part of the editor reads the file with what that part shows",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -84,5 +84,5 @@ export const stateReading = {
     },
   ],
   createdAt: "2026-09-05T17:58:19.238Z",
-  updatedAt: "2026-09-25T17:24:03.000Z",
+  updatedAt: "2026-10-30T15:36:48.497Z",
 } as const satisfies Module
