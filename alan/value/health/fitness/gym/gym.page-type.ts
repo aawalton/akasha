@@ -4,7 +4,7 @@ export const gym = {
   id: "01a11b34-da15-7011-8949-3ef4c4d1539c",
   type: "page-type/page-type",
   slug: "gym",
-  definition: "a place Alan trains, and the kit it holds",
+  definition: "a place where Alan trains",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "gym" },
     { partOfSpeech: "part-of-speech/noun", spelling: "gyms" },
@@ -38,5 +38,5 @@ export const gym = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-10-08T11:10:10.965Z",
-  updatedAt: "2026-10-30T16:43:01.791Z",
+  updatedAt: "2026-10-30T16:52:01.315Z",
 } as const satisfies PageType
