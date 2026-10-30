@@ -4,7 +4,7 @@ export const supervisorLogSweeping = {
   id: "01a0686a-7a57-7a62-bfba-385af928123a",
   type: "page-type/module",
   slug: "supervisor-log-sweeping",
-  definition: "the log directory of every departed supervisor taken away",
+  definition: "how code removes the folder of a supervisor that is stopped",
   code: "ts",
   decisions: [
     {
@@ -77,5 +77,5 @@ export const supervisorLogSweeping = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-09-25T13:42:34.000Z",
+  updatedAt: "2026-10-30T14:45:16.447Z",
 } as const satisfies Module
