@@ -4,7 +4,7 @@ export const seatVoiceSetup = {
   id: "01a11b35-8c5b-7d28-8f11-126582f0cc0b",
   type: "page-type/module",
   slug: "seat-voice-setup",
-  definition: "how a voice session with a seat is set up, and the sounds and replies it carries",
+  definition: "how code prepares speech between Alan and a seat",
   code: "ts",
   test: "ts",
   decisions: [
@@ -35,5 +35,5 @@ export const seatVoiceSetup = {
     },
   ],
   createdAt: "2026-10-08T11:10:56.603Z",
-  updatedAt: "2026-10-08T12:30:19.000Z",
+  updatedAt: "2026-10-30T14:43:42.176Z",
 } as const satisfies Module
