@@ -4,7 +4,7 @@ export const repoRoots = {
   id: "01a0691b-4f65-7e5d-ad7c-a9523f441291",
   type: "page-type/shell-script",
   slug: "repo-roots",
-  definition: "where this checkout is, exported to the shell that sourced this",
+  definition: "where this checkout is, exported to the shell that read this in",
   shell: "sh",
   sourced: true,
   decisions: [
@@ -19,5 +19,5 @@ export const repoRoots = {
     },
   ],
   createdAt: "2026-09-03T21:09:52.613Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:24:43.274Z",
 } as const satisfies ShellScript
