@@ -7,7 +7,7 @@ export const movePages = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
-  definition: "many pages carried into the folders their lines name, in one call",
+  definition: "a change that moves each page a line gives into the folder that line gives",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -101,5 +101,5 @@ export const movePages = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-09-09T22:57:10.950Z",
-  updatedAt: "2026-09-24T16:09:53.000Z",
+  updatedAt: "2026-10-30T17:10:10.202Z",
 } as const satisfies ChangeAgent
