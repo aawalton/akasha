@@ -4,7 +4,7 @@ export const trackTyping = {
   id: "01a0c1f2-8a44-7b10-9e57-2c6d0f83a41b",
   type: "page-type/module",
   slug: "track-typing",
-  definition: "the kind of recording a released title says a track is",
+  definition: "how code reads the kind of recording a track is from the title of the track",
   code: "ts",
   test: "ts",
   decisions: [
@@ -42,5 +42,5 @@ export const trackTyping = {
     },
   ],
   createdAt: "2026-09-19T18:20:54.000Z",
-  updatedAt: "2026-09-19T18:20:54.000Z",
+  updatedAt: "2026-10-30T16:30:07.730Z",
 } as const satisfies Module
