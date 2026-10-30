@@ -5,7 +5,7 @@ import {
 } from "akasha/alan/chess/modules/game/chess-game.module.code.ts"
 import { fenSideToMove } from "akasha/alan/chess/modules/uci/chess-uci.module.code.ts"
 
-export function fullmoveNumber(fen: string): number {
+function fullmoveNumber(fen: string): number {
   const field = fen.trim().split(/\s+/)[5]
   if (field === undefined) {
     return 1
@@ -24,7 +24,7 @@ export function winnerToResult(winner: Winner): string {
   return "1/2-1/2"
 }
 
-export interface PgnHeaders {
+interface PgnHeaders {
   readonly event: string
   readonly site: string
   readonly date: string
@@ -33,7 +33,7 @@ export interface PgnHeaders {
   readonly result: string
 }
 
-export function buildMovetext(startFen: string, plies: readonly GamePly[]): string {
+function buildMovetext(startFen: string, plies: readonly GamePly[]): string {
   const parts: string[] = []
   let num = fullmoveNumber(startFen)
   let expectWhite = fenSideToMove(startFen) === "w"
