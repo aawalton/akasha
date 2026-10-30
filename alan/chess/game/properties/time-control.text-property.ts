@@ -5,10 +5,10 @@ export const timeControl = {
   type: "page-type/text-property",
   slug: "time-control",
   propertySlug: "time-control",
-  definition: "a game's clock",
+  definition: "the time each player has for a game",
   maxLength: 50,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-22T13:43:28.000Z",
+  updatedAt: "2026-10-30T15:08:52.852Z",
 } as const satisfies TextProperty
