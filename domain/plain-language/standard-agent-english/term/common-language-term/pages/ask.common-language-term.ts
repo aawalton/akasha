@@ -8,7 +8,8 @@ export const ask = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "ask" },
     { partOfSpeech: "part-of-speech/verb", spelling: "asks" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "asked" },
   ],
   createdAt: "2026-10-19T20:09:22.757Z",
-  updatedAt: "2026-10-19T20:09:22.757Z",
+  updatedAt: "2026-10-30T14:57:19.083Z",
 } as const satisfies CommonLanguageTerm
