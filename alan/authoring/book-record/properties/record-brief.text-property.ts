@@ -5,7 +5,7 @@ export const recordBrief = {
   type: "page-type/text-property",
   slug: "record-brief",
   propertySlug: "brief",
-  definition: "the summary a record carries apart from its text",
+  definition: "the summary a book record has outside its text",
   maxLength: 500,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const recordBrief = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:18:53.341Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:53:53.709Z",
 } as const satisfies TextProperty
