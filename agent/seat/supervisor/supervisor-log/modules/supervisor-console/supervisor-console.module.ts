@@ -4,8 +4,7 @@ export const supervisorConsole = {
   id: "01a0683e-3dbe-7015-b25d-4d947ec851f0",
   type: "page-type/module",
   slug: "supervisor-console",
-  definition:
-    "console lines sent to a seat's log page, and to a file until that page can take them",
+  definition: "how code sends what a supervisor writes to its seat's log or a file",
   code: "ts",
   test: "ts",
   decisions: [
@@ -64,5 +63,5 @@ export const supervisorConsole = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:44:52.934Z",
 } as const satisfies Module
