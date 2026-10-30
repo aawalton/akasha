@@ -4,7 +4,7 @@ export const alanwaltonHandoverSignIn = {
   id: "01a0bc8f-42cc-7238-85ea-f8f5339d96f8",
   type: "page-type/shell-script",
   slug: "alanwalton-handover-sign-in",
-  definition: "the Swift trading a sign-in held in Safari for a code this app hands the site",
+  definition: "how the iOS app signs in through a handover",
   shell: "sh",
   sourced: true,
   decisions: [
@@ -35,5 +35,5 @@ export const alanwaltonHandoverSignIn = {
     },
   ],
   createdAt: "2026-09-20T02:05:00.492Z",
-  updatedAt: "2026-09-20T02:11:28.000Z",
+  updatedAt: "2026-10-30T16:08:24.000Z",
 } as const satisfies ShellScript
