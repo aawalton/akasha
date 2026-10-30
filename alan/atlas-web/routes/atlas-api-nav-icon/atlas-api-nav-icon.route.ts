@@ -4,7 +4,7 @@ export const atlasApiNavIcon = {
   id: "01a08299-534b-79fc-b0e6-8d4012f48d31",
   type: "page-type/route",
   slug: "atlas-api-nav-icon",
-  definition: "the icon drawn for a nav entry",
+  definition: "the image of a nav",
   code: "ts",
   urlPath: "api/nav-icon/:idSuffix",
   decisions: [
@@ -14,5 +14,5 @@ export const atlasApiNavIcon = {
     },
   ],
   createdAt: "2026-09-08T19:58:01.547Z",
-  updatedAt: "2026-09-27T12:17:41.000Z",
+  updatedAt: "2026-10-30T14:42:44.067Z",
 } as const satisfies Route
