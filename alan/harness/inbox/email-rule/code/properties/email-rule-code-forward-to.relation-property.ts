@@ -5,7 +5,7 @@ export const emailRuleCodeForwardTo = {
   type: "page-type/relation-property",
   slug: "email-rule-code-forward-to",
   propertySlug: "forward-to",
-  definition: "who a piece of mail the rule matches is forwarded to",
+  definition: "the person each email that matches an email rule is sent to",
   targetPageType: "page-type/person",
   decisions: [
     {
@@ -15,5 +15,5 @@ export const emailRuleCodeForwardTo = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:45:38.720Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:41:19.241Z",
 } as const satisfies RelationProperty
