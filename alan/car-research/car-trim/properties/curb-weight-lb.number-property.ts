@@ -5,9 +5,9 @@ export const curbWeightLb = {
   type: "page-type/number-property",
   slug: "curb-weight-lb",
   propertySlug: "curb-weight-lb",
-  definition: "what the car weighs ready to drive and carrying nobody, in pounds",
+  definition: "the weight in pounds of a car trim with full fuel and no people",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:41:00.702Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T15:43:49.244Z",
 } as const satisfies NumberProperty
