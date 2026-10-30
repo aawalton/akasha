@@ -6,6 +6,10 @@ export const slug = {
   slug: "slug",
   propertySlug: "slug",
   definition: "a page's name",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "slug" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "slugs" },
+  ],
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   unique: "unique-kind/page-type",
@@ -17,5 +21,5 @@ export const slug = {
   ],
   types: "ts",
   createdAt: "2026-08-28T18:54:50.220Z",
-  updatedAt: "2026-09-22T13:46:01.000Z",
+  updatedAt: "2026-10-30T17:36:24.713Z",
 } as const satisfies TextProperty
