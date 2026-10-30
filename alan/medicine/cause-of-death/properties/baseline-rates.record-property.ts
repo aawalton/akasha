@@ -5,7 +5,7 @@ export const baselineRates = {
   type: "page-type/record-property",
   slug: "baseline-rates",
   propertySlug: "baseline-rates",
-  definition: "how often US males die of a cause in a year, one band of ages at a time",
+  definition: "the deaths from a cause of death in a year among US men in each age band",
   properties: [
     { pageProperty: "number-property/age-band-start", required: true, many: false },
     { pageProperty: "number-property/age-band-end", required: true, many: false },
@@ -15,5 +15,5 @@ export const baselineRates = {
   ],
   types: "ts",
   createdAt: "2026-10-28T18:22:21.854Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:09:32.245Z",
 } as const satisfies RecordProperty
