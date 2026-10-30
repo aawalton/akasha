@@ -5,6 +5,7 @@ export const audhdalanWeb = {
   type: "page-type/router-app",
   slug: "audhdalan-web",
   definition: "the routes audhdalan.com serves to a browser",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "audhdalan.com" }],
   tunnelRoutes: [
     {
       name: "audhdalan",
@@ -32,5 +33,5 @@ export const audhdalanWeb = {
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-03T03:38:30.988Z",
-  updatedAt: "2026-09-25T16:40:48.000Z",
+  updatedAt: "2026-10-30T16:45:01.332Z",
 } as const satisfies RouterApp
