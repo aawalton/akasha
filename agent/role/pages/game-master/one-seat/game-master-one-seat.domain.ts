@@ -4,7 +4,7 @@ export const gameMasterOneSeat = {
   id: "01a18cf2-69e2-71f8-ba02-711ebda01645",
   type: "page-type/domain",
   slug: "game-master-one-seat",
-  definition: "how a game master seat makes every step of a one-seat story's turn itself",
+  definition: "how a seat that runs a story makes every step of the story",
   directives: [
     {
       directiveKind: "directive-kind/rule",
@@ -22,5 +22,5 @@ export const gameMasterOneSeat = {
     },
   ],
   createdAt: "2026-10-30T13:14:19.489Z",
-  updatedAt: "2026-10-30T13:14:19.489Z",
+  updatedAt: "2026-10-30T14:57:46.131Z",
 } as const satisfies Domain
