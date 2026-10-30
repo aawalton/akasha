@@ -5,7 +5,7 @@ export const syncScript = {
   type: "page-type/relation-property",
   slug: "sync-script",
   propertySlug: "sync-script",
-  definition: "the script making an app's native sources from its shell",
+  definition: "the script making an app's native code from its shell",
   targetPageType: "page-type/shell-script",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const syncScript = {
   ],
   types: "ts",
   createdAt: "2026-09-11T14:50:00.988Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:16:16.187Z",
 } as const satisfies RelationProperty
