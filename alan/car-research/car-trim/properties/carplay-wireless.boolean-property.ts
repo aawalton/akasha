@@ -5,8 +5,8 @@ export const carplayWireless = {
   type: "page-type/boolean-property",
   slug: "carplay-wireless",
   propertySlug: "carplay-wireless",
-  definition: "whether CarPlay runs over the air rather than over a cable",
+  definition: "whether CarPlay runs on a car trim without a cable",
   types: "ts",
   createdAt: "2026-09-21T18:37:23.174Z",
-  updatedAt: "2026-09-21T18:38:27.000Z",
+  updatedAt: "2026-10-30T14:59:18.870Z",
 } as const satisfies BooleanProperty
