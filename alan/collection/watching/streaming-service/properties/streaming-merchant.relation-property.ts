@@ -5,9 +5,9 @@ export const streamingMerchant = {
   type: "page-type/relation-property",
   slug: "streaming-merchant",
   propertySlug: "merchant",
-  definition: "the Monarch merchant a streaming service is charged as",
+  definition: "the Monarch merchant a streaming service is charged under",
   targetPageType: "page-type/monarch-merchant",
   types: "ts",
   createdAt: "2026-10-28T20:27:56.630Z",
-  updatedAt: "2026-10-28T20:27:56.630Z",
+  updatedAt: "2026-10-30T15:28:09.570Z",
 } as const satisfies RelationProperty
