@@ -4,7 +4,7 @@ export const temperWebLook = {
   id: "01a0640f-850f-7bfd-8070-ae903b54ddb0",
   type: "page-type/stylesheet",
   slug: "temper-web-look",
-  definition: "the look Temper's browser app wears, and the source trees of its utilities",
+  definition: "the look Temper's browser app wears, and the code its utility classes are read from",
   styles: "css",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const temperWebLook = {
     },
   ],
   createdAt: "2026-09-02T21:38:53.839Z",
-  updatedAt: "2026-09-22T13:47:34.000Z",
+  updatedAt: "2026-10-30T16:22:58.139Z",
 } as const satisfies Stylesheet
