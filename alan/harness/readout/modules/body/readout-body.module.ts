@@ -14,11 +14,11 @@ export const readoutBody = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A surface drawing a reading is held to the keys named here and to no other key.",
+      statement: "A surface showing a number is held to the keys named here and to no other key.",
     },
     {
       decisionKind: "decision-kind/stopgap",
-      statement: "One reading is carried at the top of the body rather than under its own name.",
+      statement: "One number is carried at the top of the body rather than under its own name.",
     },
 
     {
@@ -31,5 +31,5 @@ export const readoutBody = {
     },
   ],
   createdAt: "2026-09-01T19:12:28.696Z",
-  updatedAt: "2026-10-30T16:02:43.057Z",
+  updatedAt: "2026-10-30T17:28:50.878Z",
 } as const satisfies Module
