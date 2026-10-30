@@ -5,9 +5,9 @@ export const sleepPoints = {
   type: "page-type/number-property",
   slug: "sleep-points",
   propertySlug: "sleep-points",
-  definition: "the minutes Alan slept on a day",
+  definition: "the minutes of sleep in a day",
   max: null,
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:40:53.638Z",
 } as const satisfies NumberProperty
