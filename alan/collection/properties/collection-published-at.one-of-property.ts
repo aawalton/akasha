@@ -5,7 +5,7 @@ export const collectionPublishedAt = {
   type: "page-type/one-of-property",
   slug: "collection-published-at",
   propertySlug: "published-at",
-  definition: "when a collection was released, to the day or to the moment",
+  definition: "the day or time a collection was published",
   members: ["calendar-date-property/published-day", "instant-property/published-at"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const collectionPublishedAt = {
   ],
   types: "ts",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:02:55.643Z",
 } as const satisfies OneOfProperty
