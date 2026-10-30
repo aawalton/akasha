@@ -5,6 +5,10 @@ export const monarchCategory = {
   type: "page-type/page-type",
   slug: "monarch-category",
   definition: "what a transaction counts as, from groceries to salary",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "Monarch category" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Monarch categories" },
+  ],
   extends: ["page-type/monarch-record"],
   parts: ["select-property/category-group-type", "text-property/category-group"],
   properties: [
@@ -34,5 +38,5 @@ export const monarchCategory = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-24T18:47:03.000Z",
+  updatedAt: "2026-10-30T15:32:44.836Z",
 } as const satisfies PageType
