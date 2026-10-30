@@ -5,9 +5,9 @@ export const relationshipSmsHandlerTarget = {
   type: "page-type/relation-property",
   slug: "relationship-sms-handler-target",
   propertySlug: "relationship-sms-handler-target",
-  definition: "the handler seat a text from this person is routed to",
+  definition: "the person whose handler handles a text this person sends",
   targetPageType: "page-type/person",
   types: "ts",
   createdAt: "2026-09-03T04:44:04.194Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:23:20.541Z",
 } as const satisfies RelationProperty
