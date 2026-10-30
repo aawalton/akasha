@@ -5,7 +5,7 @@ export const accountDisplayName = {
   type: "page-type/text-property",
   slug: "account-display-name",
   propertySlug: "account-display-name",
-  definition: "the name and masked number a statement gives an account",
+  definition: "the name Monarch gives a Monarch account",
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -21,5 +21,5 @@ export const accountDisplayName = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-22T13:46:41.000Z",
+  updatedAt: "2026-10-30T15:42:52.365Z",
 } as const satisfies TextProperty
