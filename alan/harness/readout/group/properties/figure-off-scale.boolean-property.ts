@@ -14,14 +14,14 @@ export const figureOffScale = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading has no number to draw past either end of its scale where the group states false.",
+        "A readout has no number to show past either end of its scale where the group states false.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading between two rungs draws its number whatever the group states.",
+      statement: "A number between two rungs is shown whatever the group states.",
     },
   ],
   types: "ts",
   createdAt: "2026-09-03T03:39:45.868Z",
-  updatedAt: "2026-10-30T16:23:27.549Z",
+  updatedAt: "2026-10-30T17:14:13.166Z",
 } as const satisfies BooleanProperty
