@@ -4,7 +4,7 @@ export const calendarCredentials = {
   id: "01a05c02-c733-7786-85fd-8163fb8a237b",
   type: "page-type/module",
   slug: "calendar-credentials",
-  definition: "what builds a calendar client",
+  definition: "how code reads the environment variables a calendar call needs",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const calendarCredentials = {
     },
   ],
   createdAt: "2026-09-01T08:08:01.075Z",
-  updatedAt: "2026-09-22T13:44:11.000Z",
+  updatedAt: "2026-10-30T15:33:51.541Z",
 } as const satisfies Module
