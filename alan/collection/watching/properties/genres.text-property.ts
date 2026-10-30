@@ -5,7 +5,7 @@ export const genres = {
   type: "page-type/text-property",
   slug: "genres",
   propertySlug: "genres",
-  definition: "a kind the provider gives a collection",
+  definition: "a kind a collection belongs to",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const genres = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-30T15:16:20.271Z",
 } as const satisfies TextProperty
