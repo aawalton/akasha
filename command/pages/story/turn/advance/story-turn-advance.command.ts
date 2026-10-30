@@ -258,6 +258,10 @@ export const storyTurnAdvance = {
       statement:
         "A one-seat story's advance answers with its checklist, or says no turn waits on the seat.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A one-seat turn's lore is refused while a turn before it still owes its memory.",
+    },
   ],
   name: "advance",
   arguments: [
@@ -278,5 +282,5 @@ export const storyTurnAdvance = {
     { argument: "argument/beat" },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-30T12:58:02.685Z",
+  updatedAt: "2026-10-30T15:30:16.688Z",
 } as const satisfies Command

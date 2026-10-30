@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   beatsHanded,
   flowingIn,
+  memoryAwaited,
   notesSaid,
   rememberedNow,
   seatPartOf,
@@ -91,6 +92,40 @@ test("the turn waiting behind one whose memory just finished is the next one, at
   const story = [waiting, paged("saga-00-004", 4, "beats")]
   expect(waitingAfter(story, "saga-00-004")).toBe(waiting.at)
   expect(waitingAfter([paged("saga-00-004", 4, "beats")], "saga-00-004")).toBeNull()
+})
+
+test("a one-seat turn made behind one owing its memory takes no lore until that memory lands", () => {
+  const paged = (slug: string, position: number, status: TurnStep, owed = false) => ({
+    slug,
+    at: `stories/saga/turns/${slug}.story-turn-played.ts`,
+    value: { position, stepStatus: statusOf(status), ...(owed ? { memoryOwed: true } : {}) },
+  })
+  const waiting: Held = {
+    game: "saga",
+    status: "world-builder",
+    lore: [],
+    issues: [],
+    reviewedBy: [],
+    recordedBy: [],
+    written: false,
+    oneSeat: true,
+  }
+  const owing = [paged("saga-00-005", 5, "world-builder"), paged("saga-00-004", 4, "player", true)]
+  const turnsOf = () => owing
+  expect(memoryAwaited("/nowhere", waiting, "saga-00-005", turnsOf)).toBe(
+    "`saga-00-004` still owes its memory, so `saga-00-005` waits until that memory lands: hand that memory in first"
+  )
+  const remembered = () => [
+    paged("saga-00-005", 5, "world-builder"),
+    paged("saga-00-004", 4, "player"),
+  ]
+  expect(memoryAwaited("/nowhere", waiting, "saga-00-005", remembered)).toBeNull()
+  expect(
+    memoryAwaited("/nowhere", { ...waiting, oneSeat: false }, "saga-00-005", turnsOf)
+  ).toBeNull()
+  expect(
+    memoryAwaited("/nowhere", { ...waiting, status: "beats" }, "saga-00-005", turnsOf)
+  ).toBeNull()
 })
 
 test("a reviewer's notes say the turn is never written again, and are heeded in the turns to come", () => {

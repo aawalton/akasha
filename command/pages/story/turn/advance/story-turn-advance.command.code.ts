@@ -54,7 +54,10 @@ import {
   timeCheckIndexed,
   untimedRefused,
 } from "akasha/command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts"
-import { beatsHanded } from "akasha/command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts"
+import {
+  beatsHanded,
+  memoryAwaited,
+} from "akasha/command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts"
 import {
   type Crossing,
   crossedIndexed,
@@ -216,6 +219,8 @@ async function heldOn(
   const admitted = reach.admittedOf(given.root)
   const said = advanced(held, caller, read.handed, slugs, recorded, cast, admitted, mechanics)
   if ("refused" in said) return refused(said.refused, DATA)
+  const awaited = memoryAwaited(given.root, held, slug)
+  if (awaited !== null) return refused(awaited, DATA)
   const reading = reach.changing(given.root)
   const unchanged = changesChecked(reading, held, read.handed)
   if (unchanged !== null) return refused(unchanged, DATA)

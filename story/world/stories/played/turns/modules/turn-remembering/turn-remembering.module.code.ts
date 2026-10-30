@@ -11,7 +11,7 @@ import {
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { memoryOwed } from "akasha/story/world/stories/played/turns/properties/memory-owed.boolean-property.ts"
 
-const MEMORY_OWED = exportedAs(memoryOwed.propertySlug)
+export const MEMORY_OWED = exportedAs(memoryOwed.propertySlug)
 
 const NO_PICTURES = "a one-seat turn has no pictures, so its picture recorder hands in nothing"
 

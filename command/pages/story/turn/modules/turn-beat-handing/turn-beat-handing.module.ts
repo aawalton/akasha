@@ -66,6 +66,14 @@ export const turnBeatHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "So does the hand-in of a one-seat turn's whole memory at player.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A one-seat turn's lore is refused while a turn before it still owes its memory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reviewer's notes on a turn at beats go to the game master and writer seats.",
     },
     {
@@ -79,5 +87,5 @@ export const turnBeatHanding = {
     },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-30T12:58:02.685Z",
+  updatedAt: "2026-10-30T15:30:16.688Z",
 } as const satisfies Module

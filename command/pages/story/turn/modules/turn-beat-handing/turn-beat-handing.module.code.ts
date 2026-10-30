@@ -50,6 +50,7 @@ import {
   statusOf,
   WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { MEMORY_OWED } from "akasha/story/world/stories/played/turns/modules/turn-remembering/turn-remembering.module.code.ts"
 import {
   coordinatorOf,
   flexOf,
@@ -153,6 +154,39 @@ export function waitingAfter(story: readonly Paged[], slug: string): string | nu
   return next.at
 }
 
+type TurnsOf = (root: string, game: string) => readonly Paged[]
+
+const indexedTurns: TurnsOf = (root, game) => storyIndexed(root, game, false)
+
+export function memoryAwaited(
+  root: string,
+  held: Held,
+  slug: string,
+  turnsOf: TurnsOf = indexedTurns
+): string | null {
+  if (held.oneSeat !== true || held.status !== WORLD_BUILDER) return null
+  const ordered = inOrder(turnsOf(root, held.game)).filter((one) => one.closed !== true)
+  const at = ordered.findIndex((one) => one.slug === slug)
+  const owing = ordered.slice(0, Math.max(at, 0)).find((one) => one.value[MEMORY_OWED] === true)
+  if (owing === undefined) return null
+  return `\`${owing.slug}\` still owes its memory, so \`${slug}\` waits until that memory lands: hand that memory in first`
+}
+
+async function rememberedTold(
+  reach: Reach,
+  root: string,
+  game: string,
+  slug: string,
+  after: Told
+): Promise<undefined> {
+  const waiting = waitingAfter(storyIndexed(root, game, false), slug)
+  if (waiting === null) return undefined
+  const seated = await masterOf(reach, root, game)
+  if ("refused" in seated) after.faults.push(seated.refused)
+  else await noticesSent(reach, root, game, seated.master, waiting, WORLD_BUILDER, after)
+  return undefined
+}
+
 function startingOf(job: BeatJob, asked: BeatAsking, persona: string, game: string): Starting {
   const prompt = beatPrompt(job.part, asked)
   const recorder = recorderOf(job.part)
@@ -179,6 +213,7 @@ export async function beatsHanded(
   serve: Serving = checklistServed
 ): Promise<undefined> {
   await beatsHandedOut(reach, root, at, held, said, slug, done, after)
+  if (held.memoryOwed === true) await rememberedTold(reach, root, at.game, slug, after)
   if (held.oneSeat === true) after.report.push(serve(root, at.game, at.prompting.calledAs))
   return undefined
 }
