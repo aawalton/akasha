@@ -4,7 +4,7 @@ export const akashaWorkspace = {
   id: "01a06cbb-60a1-73d5-88dc-0ffa3d84c96d",
   type: "page-type/workspace",
   slug: "akasha-workspace",
-  definition: "every package in this tree, installed as one",
+  definition: "the workspace every package in akasha is installed in",
   workspaceManifest: "json",
   lockfile: "lock",
   biomeConfig: "json",
@@ -27,5 +27,5 @@ export const akashaWorkspace = {
   ],
   editorSettings: "json",
   createdAt: "2026-09-04T14:03:34.433Z",
-  updatedAt: "2026-09-25T16:50:54.000Z",
+  updatedAt: "2026-10-30T14:45:23.316Z",
 } as const satisfies Workspace
