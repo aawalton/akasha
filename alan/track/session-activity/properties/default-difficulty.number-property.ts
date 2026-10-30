@@ -6,9 +6,9 @@ export const defaultDifficulty = {
   slug: "default-difficulty",
   propertySlug: "default-difficulty",
   definition:
-    "the difficulty a session takes where its title names this activity and nothing else says",
+    "the difficulty a tracked session with no other difficulty takes from the activity its title matches",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:32:05.911Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:41:31.287Z",
 } as const satisfies NumberProperty
