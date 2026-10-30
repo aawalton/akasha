@@ -46,13 +46,33 @@ export const giftedPolishWorldWomb = {
     },
     {
       fact: "Through the walls, voices come as blurred hums; their rise and fall carry, few sounds do.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
     },
     {
       fact: "A word said often, loud and close to the mother comes through as a clear sound, not a meaning.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Beyond the walls: two or three deep voices, and a woman's close above that hums between words.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "The talk beyond the walls has a rhythm wrong for English, its stresses landing in odd places.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "At her kick, the humming woman gasped and the talk beyond the walls stopped dead.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "After her kick, a hand pressed flat over her from outside, then a second, heavier one.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "A deep voice spoke close to the wall, low and slow, the same few sounds over and over.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T18:36:47.443Z",
+  updatedAt: "2026-10-30T18:50:39.017Z",
 } as const satisfies Place

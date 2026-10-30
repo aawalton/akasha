@@ -197,7 +197,19 @@ export const giftedPolishNala = {
       fact: "Her Path of Basic Numeracy reached Tier 4, and her window showed Mental +1 again.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
     },
+    {
+      fact: "Listening to the voices, her window showed a new Path: Path of Eavesdropping.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "Straining to listen, her whole body jerked and a heel drove hard into the wall of the womb.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "She listened a good while and caught no whole word of the talk beyond the walls.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T18:34:02.178Z",
+  updatedAt: "2026-10-30T18:50:39.017Z",
 } as const satisfies Lore
