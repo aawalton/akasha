@@ -4,7 +4,7 @@ export const healthImport = {
   id: "01a05c14-b11a-7002-a357-a2cd51c9856a",
   type: "page-type/module",
   slug: "health-import",
-  definition: "an exported record turned into a stored sample, and what is counted on the way",
+  definition: "how code makes a health sample from part of the Apple Health file",
   code: "ts",
   decisions: [
     {
@@ -23,5 +23,5 @@ export const healthImport = {
     },
   ],
   createdAt: "2026-09-01T08:27:35.066Z",
-  updatedAt: "2026-09-24T23:05:06.000Z",
+  updatedAt: "2026-10-30T15:44:28.155Z",
 } as const satisfies Module
