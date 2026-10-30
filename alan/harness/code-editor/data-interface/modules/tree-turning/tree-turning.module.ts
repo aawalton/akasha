@@ -4,7 +4,7 @@ export const treeTurning = {
   id: "01a0ba7d-9193-7498-8bf2-4ba35684f91e",
   type: "page-type/module",
   slug: "tree-turning",
-  definition: "which of the landing's pictures a change moves, answered from the change alone",
+  definition: "whether a change can move a tree the editor shows",
   code: "ts",
   test: "ts",
   decisions: [
@@ -66,5 +66,5 @@ export const treeTurning = {
     },
   ],
   createdAt: "2026-09-19T16:26:26.579Z",
-  updatedAt: "2026-09-27T15:33:53.000Z",
+  updatedAt: "2026-10-30T15:43:33.619Z",
 } as const satisfies Module
