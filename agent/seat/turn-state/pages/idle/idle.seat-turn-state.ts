@@ -5,6 +5,7 @@ export const idle = {
   type: "page-type/seat-turn-state",
   slug: "idle",
   definition: "an agent that waits for a message",
+  spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "idle" }],
   parts: [
     "seat-turn-state/idle-pending",
     "seat-turn-state/ready",
@@ -12,5 +13,5 @@ export const idle = {
   ],
   color: "color/yellow",
   createdAt: "2026-09-03T21:21:18.711Z",
-  updatedAt: "2026-10-30T15:29:18.358Z",
+  updatedAt: "2026-10-30T15:44:33.232Z",
 } as const satisfies SeatTurnState
