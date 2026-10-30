@@ -50,6 +50,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/ssh.common-language-term.ts","id":"01a18d7d-360b-7246-bb88-dc01b5a21eb7"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/swift-language.common-language-term.ts","id":"01a18d85-f4cf-7273-ba74-e0b3b0c0ad71"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/testflight.common-language-term.ts","id":"01a18d7d-57fe-7041-8568-2942211e75de"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/utc.common-language-term.ts","id":"01a18d88-94aa-78fe-b7d2-8df5b8d02c7f"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/xcode.common-language-term.ts","id":"01a18d7b-4313-77f1-9b1c-4c20753957b4"}
 {"propertySlug":"part-of-speech","path":"infrastructure/cluster/provisioning/talos/talos.domain.ts","id":"01a06813-7b0e-79e0-ae0d-60b8f8c4a138"}
 {"propertySlug":"part-of-speech","path":"infrastructure/inference/comfy-ui/comfy-ui.domain.ts","id":"01a06810-0b68-7eaa-8bd1-c312063e493d"}

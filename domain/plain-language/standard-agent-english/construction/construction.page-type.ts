@@ -76,6 +76,7 @@ export const construction = {
     "construction/do-verb-with-a-negator-and-a-verb-phrase",
     "construction/verb-with-a-proper-noun-and-a-preposition-phrase",
     "construction/noun-run-with-a-relative-pronoun-and-a-proper-noun-clause",
+    "construction/preposition-phrase-with-a-conjunction",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -107,5 +108,5 @@ export const construction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-21T19:39:38.477Z",
-  updatedAt: "2026-10-30T15:54:43.407Z",
+  updatedAt: "2026-10-30T15:58:20.839Z",
 } as const satisfies PageType
