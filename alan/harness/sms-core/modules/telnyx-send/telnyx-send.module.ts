@@ -4,7 +4,7 @@ export const telnyxSend = {
   id: "01a05b6f-999d-731e-a182-ed95ac7ecc35",
   type: "page-type/module",
   slug: "telnyx-send",
-  definition: "an outgoing message put into the request Telnyx wants and the answer read back",
+  definition: "the request that asks Telnyx to send a text message and its reply",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +26,5 @@ export const telnyxSend = {
     },
   ],
   createdAt: "2026-09-01T05:27:15.613Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T16:09:33.016Z",
 } as const satisfies Module
