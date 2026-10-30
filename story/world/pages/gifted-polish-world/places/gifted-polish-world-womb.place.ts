@@ -102,9 +102,25 @@ export const giftedPolishWorldWomb = {
     },
     {
       fact: "The unborn body can open its mouth and work its tongue, but it makes no sound in the womb.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "Through that day the woman above hummed; light voices came and went, and the deep one stayed away.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "Next morning the deep voices were back beside her, talking low, as the morning before.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "The deep voice's run is three sounds, Sa, vo, reth, the same each time; Nala now holds it.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
+    {
+      fact: "After the deep voice stopped, the woman above said 'Sa-vo-reth' back softly, stroking the belly.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
     },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T19:29:28.276Z",
+  updatedAt: "2026-10-30T19:33:17.937Z",
 } as const satisfies Place

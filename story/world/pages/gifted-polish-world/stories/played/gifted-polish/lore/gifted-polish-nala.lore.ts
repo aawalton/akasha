@@ -213,7 +213,11 @@ export const giftedPolishNala = {
       fact: "Trying to hold the deep voice's run of sounds, she lost its start or its end each time.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
     },
+    {
+      fact: "Her tongue can shape Sa and vo, but not the curl and hiss of reth.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-polish-nala"],
+    },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T19:08:54.886Z",
+  updatedAt: "2026-10-30T19:33:17.937Z",
 } as const satisfies Lore
