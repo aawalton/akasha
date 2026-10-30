@@ -4,7 +4,7 @@ export const alanWebTherapy = {
   id: "01a16fe6-4a3e-774b-8f7d-7042497c8967",
   type: "page-type/route",
   slug: "alan-web-therapy",
-  definition: "the couples therapy sessions a signed-in reader is a person of",
+  definition: "the couples therapy seats that work for a person",
   code: "tsx",
   urlPath: "therapy",
   decisions: [
@@ -27,5 +27,5 @@ export const alanWebTherapy = {
     },
   ],
   createdAt: "2026-10-24T21:52:05.693Z",
-  updatedAt: "2026-10-24T22:09:50.196Z",
+  updatedAt: "2026-10-30T17:02:57.337Z",
 } as const satisfies Route

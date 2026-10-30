@@ -5,6 +5,7 @@ export const couplesTherapy = {
   type: "page-type/domain",
   slug: "couples-therapy",
   definition: "the therapy for Alan and Jenny",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "couples therapy" }],
   parts: ["domain/couples-call"],
   decisions: [
     {
@@ -99,5 +100,5 @@ export const couplesTherapy = {
     },
   ],
   createdAt: "2026-10-24T17:03:03.699Z",
-  updatedAt: "2026-10-30T15:30:20.410Z",
+  updatedAt: "2026-10-30T17:02:57.337Z",
 } as const satisfies Domain
