@@ -5,9 +5,9 @@ export const scoringMode = {
   type: "page-type/select-property",
   slug: "scoring-mode",
   propertySlug: "scoring-mode",
-  definition: "whether a set of this movement is counted in repetitions or in seconds",
+  definition: "whether a set of a strength exercise is counted in repetitions or in seconds",
   values: ["reps", "time"],
   types: "ts",
   createdAt: "2026-09-03T04:19:22.688Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:48:17.842Z",
 } as const satisfies SelectProperty
