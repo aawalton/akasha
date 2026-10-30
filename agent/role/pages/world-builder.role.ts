@@ -79,12 +79,14 @@ export const worldBuilder = {
     {
       directiveKind: "directive-kind/rule",
       name: "Address From The Page",
-      act: "Read a page's address in code off that page's slug by importing the page, never as a string.",
+      act: "Build a page's address in code from slugs read off an import or the index, never as one string.",
       warrant:
         "A page landing refuses every body spelling its address, and that refusal undoes the whole landing.",
       aids: [
-        "A check's settling code and its test both reach a page this way.",
-        "A page not filed yet is imported once it is filed, in the same landing.",
+        "Settling code lists a type's pages in the index and keeps those whose `character` is the reading's.",
+        "Settling code imports a world's page only for what no turn changes, such as a skill's title.",
+        "A check's test imports each page it names, and hands settling those pages in place of the index.",
+        "A page a check reads need not be filed when the check lands; settling refuses until it is filed.",
       ],
     },
     {
@@ -96,5 +98,5 @@ export const worldBuilder = {
     },
   ],
   createdAt: "2026-09-24T17:35:31.527Z",
-  updatedAt: "2026-10-27T20:35:15.107Z",
+  updatedAt: "2026-10-30T19:54:52.443Z",
 } as const satisfies Role
