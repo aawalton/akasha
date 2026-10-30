@@ -5,9 +5,9 @@ export const accuracyM = {
   type: "page-type/number-property",
   slug: "accuracy-m",
   propertySlug: "accuracy-m",
-  definition: "how far from the stated position the device thinks the truth could be, in metres",
+  definition: "the error in metres a device gives for the location the device reports",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T21:38:23.026Z",
-  updatedAt: "2026-09-21T19:18:52.000Z",
+  updatedAt: "2026-10-30T16:41:45.382Z",
 } as const satisfies NumberProperty
