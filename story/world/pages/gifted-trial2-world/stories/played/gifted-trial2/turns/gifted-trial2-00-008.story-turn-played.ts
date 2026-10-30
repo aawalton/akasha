@@ -7,8 +7,9 @@ export const giftedTrial200008 = {
   unit: "unit/words",
   partOfCollections: ["story-played/gifted-trial2"],
   position: 8,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I go still again and listen for the word kerith.",
+  lore: ["lore/gifted-trial2-nala", "place/gifted-trial2-world-womb"],
   createdAt: "2026-10-30T17:25:48.096Z",
-  updatedAt: "2026-10-30T17:25:48.096Z",
+  updatedAt: "2026-10-30T17:27:50.532Z",
 } as const satisfies StoryTurnPlayed
