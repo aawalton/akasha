@@ -5,7 +5,7 @@ export const gym = {
   type: "page-type/relation-property",
   slug: "gym",
   propertySlug: "gym",
-  definition: "the gym a set was performed at",
+  definition: "the gym an exercise set was performed at",
   targetPageType: "page-type/gym",
   decisions: [
     {
@@ -15,5 +15,5 @@ export const gym = {
   ],
   types: "ts",
   createdAt: "2026-10-08T11:11:17.022Z",
-  updatedAt: "2026-10-08T11:11:21.000Z",
+  updatedAt: "2026-10-30T17:07:36.971Z",
 } as const satisfies RelationProperty
