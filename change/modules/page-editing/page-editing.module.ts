@@ -4,7 +4,7 @@ export const pageEditing = {
   id: "01a0bd42-8e07-7b55-a4c1-2f9d6e3708ab",
   type: "page-type/module",
   slug: "page-editing",
-  definition: "the change that writes a page composed from a caller's values",
+  definition: "how code makes the change that writes a page from values",
   code: "ts",
   test: "ts",
   decisions: [
@@ -23,5 +23,5 @@ export const pageEditing = {
     },
   ],
   createdAt: "2026-09-19T01:46:29.000Z",
-  updatedAt: "2026-09-19T01:46:29.000Z",
+  updatedAt: "2026-10-30T17:18:39.189Z",
 } as const satisfies Module
