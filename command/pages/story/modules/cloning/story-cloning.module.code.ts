@@ -41,6 +41,8 @@ const SETTLING = /^ {2}settling: \{[^\n]*\},\n/m
 
 const OWN_SLUG = /^ {2}slug: "([^"]+)",$/m
 
+const EXPORT_LINE = /^export const [^\s=]+ = \{$/m
+
 const SETTLED_BY = exportedAs(settledBy.propertySlug)
 
 const CODE_ENDINGS: readonly string[] = [".code.ts", ".test.ts", ".test-fixtures.ts"]
@@ -212,7 +214,13 @@ function testingStated(text: string): string {
 }
 
 function pageBody(text: string): string {
-  return text.replace(GENERATED, "").replace(HISTORY, "")
+  return exportNamed(text.replace(GENERATED, "").replace(HISTORY, ""))
+}
+
+function exportNamed(text: string): string {
+  const slug = OWN_SLUG.exec(text)?.[1]
+  if (slug === undefined) return text
+  return text.replace(EXPORT_LINE, `export const ${exportedAs(slug)} = {`)
 }
 
 type Source = { readonly path: string; readonly text: string }

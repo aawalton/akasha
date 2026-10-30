@@ -50,6 +50,10 @@ export const storyCloning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A copied page is exported under its own slug, whatever the renaming made of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "That renaming reaches paths and the values of pages.",
     },
     {
@@ -95,5 +99,5 @@ export const storyCloning = {
     },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-30T13:45:27.280Z",
+  updatedAt: "2026-10-30T13:47:00.419Z",
 } as const satisfies Module

@@ -153,6 +153,16 @@ test("a clone's world states testing, whether its source's world states it or no
   }
 })
 
+test("a copied page is exported under its own slug, where the source's export name is one word", () => {
+  const story = { ...STORY_FACTS, from: "gifted-reborn", to: "gifted-trial", world: "gifted" }
+  const at = "story/world/pages/gifted/gifted.world.ts"
+  const text = ["export const gifted = {", '  slug: "gifted",', "} as const satisfies World", ""]
+  const cloning = { ...CLONING, worldFolder: "story/world/pages/gifted/", story }
+  const made = copiesOf([{ path: at, text: text.join("\n") }], cloning)[0]
+  expect(made?.body).toContain("export const giftedTrialWorld = {\n")
+  expect(made?.body).toContain('  slug: "gifted-trial-world",\n')
+})
+
 test("turns, chapters and the files play or the index write beside a page are left", () => {
   expect(copied(FOLDER, `${FOLDER}turns/test-story-00-009.story-turn-played.ts`)).toBe(false)
   expect(copied(FOLDER, `${FOLDER}chapters/test-story-0001-x.story-chapter-played.ts`)).toBe(false)
