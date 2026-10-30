@@ -5,9 +5,9 @@ export const activityType = {
   type: "page-type/select-property",
   slug: "activity-type",
   propertySlug: "activity-type",
-  definition: "what sort of work the set was, where it is not a loaded lift",
+  definition: "the kind of work in a set where Alan lifts no weight",
   values: ["cardio", "mobility"],
   types: "ts",
   createdAt: "2026-09-03T04:21:48.925Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:44:54.424Z",
 } as const satisfies SelectProperty
