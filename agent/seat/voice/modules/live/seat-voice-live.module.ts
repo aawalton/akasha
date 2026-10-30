@@ -4,7 +4,7 @@ export const seatVoiceLive = {
   id: "01a11b35-8c5b-72d4-8ea3-ddb274871642",
   type: "page-type/module",
   slug: "seat-voice-live",
-  definition: "a voice session between Alan's microphone, Gemini Live and a seat",
+  definition: "how the page of a seat runs speech between Alan and the seat",
   code: "ts",
   decisions: [
     {
@@ -38,5 +38,5 @@ export const seatVoiceLive = {
     },
   ],
   createdAt: "2026-10-08T11:10:56.603Z",
-  updatedAt: "2026-10-08T11:20:24.000Z",
+  updatedAt: "2026-10-30T14:43:28.378Z",
 } as const satisfies Module
