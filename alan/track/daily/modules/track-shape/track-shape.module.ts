@@ -4,7 +4,7 @@ export const trackShape = {
   id: "01a069d7-ba37-75fb-8dbd-6f5be522dda9",
   type: "page-type/module",
   slug: "track-shape",
-  definition: "a day page's page type key",
+  definition: "the name of the page type a day page has",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const trackShape = {
     },
   ],
   createdAt: "2026-09-04T00:35:40.727Z",
-  updatedAt: "2026-09-22T13:54:48.000Z",
+  updatedAt: "2026-10-30T16:44:17.297Z",
 } as const satisfies Module
