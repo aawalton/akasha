@@ -7,7 +7,7 @@ export const changePagePagePropertyRelation = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "a relation a page states pointed at another page",
+  definition: "a change that restates the page a relation property of a page reaches",
   code: "ts",
   test: "ts",
   decisions: [
@@ -59,5 +59,5 @@ export const changePagePagePropertyRelation = {
   ],
   changeKind: "change-kind/change-mechanical",
   createdAt: "2026-09-07T00:08:44.648Z",
-  updatedAt: "2026-09-22T10:07:38.000Z",
+  updatedAt: "2026-10-30T17:40:44.846Z",
 } as const satisfies ChangeMechanicalFileContent
