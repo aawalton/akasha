@@ -4,7 +4,8 @@ export const dayMessagesMining = {
   id: "01a082fc-e5c5-79e4-9bcb-7eacb82bf302",
   type: "page-type/module",
   slug: "day-messages-mining",
-  definition: "each day's counts built again out of the Claude transcripts on this machine",
+  definition:
+    "how code counts the messages each persona was written on a day from the transcripts on a machine",
   code: "ts",
   test: "ts",
   decisions: [
@@ -83,5 +84,5 @@ export const dayMessagesMining = {
     },
   ],
   createdAt: "2026-09-08T21:46:47.109Z",
-  updatedAt: "2026-09-24T19:45:37.000Z",
+  updatedAt: "2026-10-30T16:45:45.366Z",
 } as const satisfies Module
