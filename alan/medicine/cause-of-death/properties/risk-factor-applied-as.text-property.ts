@@ -5,10 +5,10 @@ export const riskFactorAppliedAs = {
   type: "page-type/text-property",
   slug: "risk-factor-applied-as",
   propertySlug: "applied-as",
-  definition: "the amount of a risk factor that one relative risk is given for",
+  definition: "the amount of a risk factor a relative risk is given for",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-10-28T18:22:21.854Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:14:51.960Z",
 } as const satisfies TextProperty
