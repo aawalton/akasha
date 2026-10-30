@@ -5,7 +5,7 @@ export const subagentStopped = {
   type: "page-type/boolean-property",
   slug: "subagent-stopped",
   propertySlug: "stopped",
-  definition: "whether a subagent was stopped from the agents panel",
+  definition: "whether a subagent was stopped from the editor",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -42,5 +42,5 @@ export const subagentStopped = {
   ],
   types: "ts",
   createdAt: "2026-09-13T19:49:12.049Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:37:58.557Z",
 } as const satisfies BooleanProperty
