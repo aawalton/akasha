@@ -5,6 +5,10 @@ export const iosApp = {
   type: "page-type/page-type",
   slug: "ios-app",
   definition: "the app on a phone and its shell",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "iOS app" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "iOS apps" },
+  ],
   parts: [
     "build-folder-property/web-directory",
     "file-property/app-icon",
@@ -123,5 +127,5 @@ export const iosApp = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-31T14:02:55.139Z",
-  updatedAt: "2026-09-24T22:21:27.000Z",
+  updatedAt: "2026-10-30T15:45:24.586Z",
 } as const satisfies PageType
