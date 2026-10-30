@@ -4,7 +4,7 @@ export const rejection = {
   id: "01a0a69b-59a5-7703-b20b-4bc445481cac",
   type: "page-type/page-type",
   slug: "rejection",
-  definition: "a time Alan put himself where the answer could be no",
+  definition: "a time Alan asks for something that someone can reject",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "rejection" },
     { partOfSpeech: "part-of-speech/noun", spelling: "rejections" },
@@ -43,5 +43,5 @@ export const rejection = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-15T19:46:34.021Z",
-  updatedAt: "2026-09-22T10:05:47.000Z",
+  updatedAt: "2026-10-30T16:41:52.544Z",
 } as const satisfies PageType
