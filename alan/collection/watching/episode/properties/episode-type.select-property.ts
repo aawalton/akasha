@@ -5,10 +5,10 @@ export const episodeType = {
   type: "page-type/select-property",
   slug: "episode-type",
   propertySlug: "episode-type",
-  definition: "what an episode is to its own run",
+  definition: "the part an episode plays in its season",
   values: ["standard", "mid-season", "finale"],
 
   types: "ts",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-30T15:20:23.393Z",
 } as const satisfies SelectProperty
