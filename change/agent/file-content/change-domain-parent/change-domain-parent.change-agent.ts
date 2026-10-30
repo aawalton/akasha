@@ -7,7 +7,7 @@ export const changeDomainParent = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "a page made a part of another page rather than of the page naming it now",
+  definition: "a change that moves a page into the parts of another page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -28,5 +28,5 @@ export const changeDomainParent = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-07T00:57:18.671Z",
-  updatedAt: "2026-09-22T10:06:01.000Z",
+  updatedAt: "2026-10-30T17:01:59.959Z",
 } as const satisfies ChangeAgent
