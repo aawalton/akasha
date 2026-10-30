@@ -4,7 +4,7 @@ export const deviceSecretContext = {
   id: "01a0655e-d39a-7632-bb48-cb68d5895b87",
   type: "page-type/module",
   slug: "device-secret-context",
-  definition: "whoever a presented device secret represents, and the refusals short of one",
+  definition: "the person a device secret on a request belongs to",
   code: "ts",
   decisions: [
     {
@@ -35,5 +35,5 @@ export const deviceSecretContext = {
   ],
   test: "ts",
   createdAt: "2026-09-03T03:45:08.506Z",
-  updatedAt: "2026-09-25T15:38:36.000Z",
+  updatedAt: "2026-10-30T16:58:43.864Z",
 } as const satisfies Module
