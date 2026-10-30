@@ -4,7 +4,7 @@ export const subagentKind = {
   id: "01a06838-7a9d-7394-97ff-d069ea588410",
   type: "page-type/page-type",
   slug: "subagent-kind",
-  definition: "everything a subagent is, apart from the work it is given",
+  definition: "what every subagent of a kind starts with",
   extends: ["page-type/domain"],
   parts: [
     "file-property/subagent-prompt",
@@ -54,5 +54,5 @@ export const subagentKind = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T17:02:07.005Z",
-  updatedAt: "2026-09-25T14:16:35.000Z",
+  updatedAt: "2026-10-30T14:37:46.697Z",
 } as const satisfies PageType
