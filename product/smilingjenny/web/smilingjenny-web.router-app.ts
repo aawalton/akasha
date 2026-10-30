@@ -5,6 +5,7 @@ export const smilingjennyWeb = {
   type: "page-type/router-app",
   slug: "smilingjenny-web",
   definition: "the routes Jenny's site serves to a browser",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "smilingjenny.me" }],
   tunnelRoutes: [
     {
       name: "smilingjenny",
@@ -38,5 +39,5 @@ export const smilingjennyWeb = {
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-03T03:38:30.988Z",
-  updatedAt: "2026-09-25T16:42:07.000Z",
+  updatedAt: "2026-10-30T16:01:13.668Z",
 } as const satisfies RouterApp
