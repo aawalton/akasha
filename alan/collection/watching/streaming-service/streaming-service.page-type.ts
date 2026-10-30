@@ -4,7 +4,7 @@ export const streamingService = {
   id: "01a18432-af59-73c1-8d06-a86e15104dd5",
   type: "page-type/page-type",
   slug: "streaming-service",
-  definition: "a catalogue of shows and movies a person pays for or watches free",
+  definition: "a catalogue of shows and movies that people watch",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "streaming service" },
     { partOfSpeech: "part-of-speech/noun", spelling: "streaming services" },
@@ -61,5 +61,5 @@ export const streamingService = {
     "relation-property/streaming-merchant",
   ],
   createdAt: "2026-10-28T20:27:56.630Z",
-  updatedAt: "2026-10-28T21:25:13.619Z",
+  updatedAt: "2026-10-30T15:26:35.619Z",
 } as const satisfies PageType
