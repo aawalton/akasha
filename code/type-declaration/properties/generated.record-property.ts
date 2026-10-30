@@ -5,7 +5,7 @@ export const generated = {
   type: "page-type/record-property",
   slug: "generated",
   propertySlug: "generated",
-  definition: "the command writing a declaration again and the declaration's source version",
+  definition: "the command writing a declaration again and the version of the code it describes",
   properties: [
     { pageProperty: "text-property/written-by", required: true, many: false },
     { pageProperty: "number-property/source-version", required: false, many: false },
@@ -26,5 +26,5 @@ export const generated = {
   ],
   types: "ts",
   createdAt: "2026-09-08T18:08:30.369Z",
-  updatedAt: "2026-09-22T14:00:01.000Z",
+  updatedAt: "2026-10-30T16:18:09.990Z",
 } as const satisfies RecordProperty
