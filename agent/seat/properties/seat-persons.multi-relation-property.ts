@@ -5,7 +5,7 @@ export const seatPersons = {
   type: "page-type/multi-relation-property",
   slug: "seat-persons",
   propertySlug: "persons",
-  definition: "the persons a seat answers to",
+  definition: "the people a seat works for",
   targetPageType: "page-type/person",
   decisions: [
     {
@@ -23,5 +23,5 @@ export const seatPersons = {
   ],
   types: "ts",
   createdAt: "2026-10-24T17:31:32.350Z",
-  updatedAt: "2026-10-24T17:31:32.350Z",
+  updatedAt: "2026-10-30T15:28:18.192Z",
 } as const satisfies MultiRelationProperty
