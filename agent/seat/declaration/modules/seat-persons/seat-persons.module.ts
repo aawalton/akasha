@@ -4,7 +4,7 @@ export const seatPersons = {
   id: "01a16f09-1319-766d-9436-5590bf718c64",
   type: "page-type/module",
   slug: "seat-persons",
-  definition: "how code says the persons a seat answers to as one principal",
+  definition: "how code makes a principal from the people a seat works for",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const seatPersons = {
     },
   ],
   createdAt: "2026-10-24T17:50:28.120Z",
-  updatedAt: "2026-10-24T17:50:28.120Z",
+  updatedAt: "2026-10-30T15:27:44.419Z",
 } as const satisfies Module
