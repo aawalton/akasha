@@ -5,10 +5,10 @@ export const chessWhite = {
   type: "page-type/text-property",
   slug: "chess-white",
   propertySlug: "white",
-  definition: "who played the white pieces",
+  definition: "the name of the player with the white pieces",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T14:58:42.996Z",
 } as const satisfies TextProperty
