@@ -5,7 +5,7 @@ export const emailRuleMatches = {
   type: "page-type/record-property",
   slug: "email-rule-matches",
   propertySlug: "matches",
-  definition: "which mail a rule applies to, each clause with the field tested and how",
+  definition: "the conditions every email a rule handles matches",
   properties: [
     { pageProperty: "select-property/email-rule-match-field", required: true, many: false },
     {
@@ -36,5 +36,5 @@ export const emailRuleMatches = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:45:38.719Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:28:47.405Z",
 } as const satisfies RecordProperty
