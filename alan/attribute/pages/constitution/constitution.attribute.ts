@@ -4,7 +4,7 @@ export const constitution = {
   id: "01a06841-a158-76c3-9089-9842c06dc7c0",
   type: "page-type/attribute",
   slug: "constitution",
-  definition: "what Alan has built by eating whole plants",
+  definition: "the capacity Alan has from the whole plants Alan eats",
   pointUnit: "100 grams of whole plants eaten",
   code: "ts",
   test: "ts",
@@ -36,5 +36,5 @@ export const constitution = {
     },
   ],
   createdAt: "2026-09-03T17:12:06.744Z",
-  updatedAt: "2026-09-24T19:28:18.000Z",
+  updatedAt: "2026-10-30T14:44:52.915Z",
 } as const satisfies Attribute
