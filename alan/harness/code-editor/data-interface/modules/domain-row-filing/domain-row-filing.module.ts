@@ -4,7 +4,7 @@ export const domainRowFiling = {
   id: "01a0ba96-7fb2-7a7e-b5a5-3d48da0d7bc4",
   type: "page-type/module",
   slug: "domain-row-filing",
-  definition: "the per-page rows the domain pictures are drawn from, kept beside the picture",
+  definition: "the row of each domain that code keeps in a file",
   code: "ts",
   test: "ts",
   decisions: [
@@ -53,5 +53,5 @@ export const domainRowFiling = {
     },
   ],
   createdAt: "2026-09-19T16:53:40.402Z",
-  updatedAt: "2026-09-27T15:33:53.000Z",
+  updatedAt: "2026-10-30T15:44:06.487Z",
 } as const satisfies Module
