@@ -5,10 +5,10 @@ export const refreshNotes = {
   type: "page-type/text-property",
   slug: "refresh-notes",
   propertySlug: "refresh-notes",
-  definition: "what changed from the model year before",
+  definition: "what a model year changes from the model year before that year",
   maxLength: 2000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:53:12.371Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:03:41.866Z",
 } as const satisfies TextProperty
