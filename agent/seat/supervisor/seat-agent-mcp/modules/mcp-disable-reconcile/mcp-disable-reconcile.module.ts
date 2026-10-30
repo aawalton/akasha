@@ -4,7 +4,8 @@ export const mcpDisableReconcile = {
   id: "01a0686c-f06b-700a-b0b5-cfa06c6e47bf",
   type: "page-type/module",
   slug: "mcp-disable-reconcile",
-  definition: "a harness setting that switched a declared tool server off, undone before launch",
+  definition:
+    "how code removes every mcp server a seat uses from the list of mcp servers stopped by a config",
   code: "ts",
   test: "ts",
   decisions: [
@@ -35,5 +36,5 @@ export const mcpDisableReconcile = {
     },
   ],
   createdAt: "2026-09-03T17:59:25.035Z",
-  updatedAt: "2026-09-24T17:19:16.000Z",
+  updatedAt: "2026-10-30T14:36:51.635Z",
 } as const satisfies Module
