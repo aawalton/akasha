@@ -5,9 +5,9 @@ export const driveLayout = {
   type: "page-type/select-property",
   slug: "drive-layout",
   propertySlug: "drive-layout",
-  definition: "which wheels a trim drives",
+  definition: "the wheels that move a car trim",
   values: ["FWD", "RWD", "AWD", "4WD"],
   types: "ts",
   createdAt: "2026-09-21T18:37:49.616Z",
-  updatedAt: "2026-09-21T18:38:27.000Z",
+  updatedAt: "2026-10-30T15:08:49.929Z",
 } as const satisfies SelectProperty
