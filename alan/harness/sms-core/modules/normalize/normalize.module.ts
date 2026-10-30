@@ -4,7 +4,7 @@ export const normalize = {
   id: "01a05b6f-999d-7245-878b-3293cdfb33fb",
   type: "page-type/module",
   slug: "normalize",
-  definition: "the words the channel shows for a message it carried or would not carry",
+  definition: "the text a seat is shown for a text message",
   code: "ts",
   test: "ts",
   decisions: [
@@ -31,5 +31,5 @@ export const normalize = {
     },
   ],
   createdAt: "2026-09-01T05:27:15.613Z",
-  updatedAt: "2026-10-24T21:54:38.184Z",
+  updatedAt: "2026-10-30T16:08:46.233Z",
 } as const satisfies Module
