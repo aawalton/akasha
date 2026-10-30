@@ -4,7 +4,8 @@ export const playlistReconciling = {
   id: "01a0c512-2e2b-797f-b0e7-3f85dde85399",
   type: "page-type/module",
   slug: "playlist-reconciling",
-  definition: "what a playlist gains and loses to hold the tracks wanted",
+  definition:
+    "the tracks a playlist adds and the tracks a playlist removes to hold a list of tracks",
   code: "ts",
   test: "ts",
   decisions: [
@@ -42,5 +43,5 @@ export const playlistReconciling = {
     },
   ],
   createdAt: "2026-09-21T17:44:58.155Z",
-  updatedAt: "2026-09-21T19:35:28.000Z",
+  updatedAt: "2026-10-30T16:22:51.470Z",
 } as const satisfies Module
