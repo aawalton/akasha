@@ -4,7 +4,7 @@ export const spotifyClient = {
   id: "01a06261-dc1d-7007-8f9c-f19cb6de7402",
   type: "page-type/module",
   slug: "spotify-client",
-  definition: "a paced queue for every Spotify Web API call",
+  definition: "how code makes every call to the Spotify Web API with a gap after each call",
   code: "ts",
   test: "ts",
   decisions: [
@@ -104,5 +104,5 @@ export const spotifyClient = {
     },
   ],
   createdAt: "2026-09-02T13:49:35.645Z",
-  updatedAt: "2026-09-22T14:37:11.000Z",
+  updatedAt: "2026-10-30T16:18:27.104Z",
 } as const satisfies Module
