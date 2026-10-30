@@ -4,7 +4,7 @@ export const pushPayload = {
   id: "01a069b6-bb6b-7ff9-a785-a069880a2e41",
   type: "page-type/module",
   slug: "push-payload",
-  definition: "what a push carries, and whose devices it is carried to",
+  definition: "the message and the devices for a notification",
   code: "ts",
   test: "ts",
   decisions: [
@@ -50,5 +50,5 @@ export const pushPayload = {
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-10-24T19:54:54.376Z",
+  updatedAt: "2026-10-30T16:23:59.891Z",
 } as const satisfies Module
