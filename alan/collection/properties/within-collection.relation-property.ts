@@ -5,9 +5,9 @@ export const withinCollection = {
   type: "page-type/relation-property",
   slug: "within-collection",
   propertySlug: "collection",
-  definition: "a collection another collection sits inside",
+  definition: "a collection that holds another collection",
   targetPageType: "page-type/collection",
   types: "ts",
   createdAt: "2026-10-25T20:02:44.020Z",
-  updatedAt: "2026-10-25T20:02:44.020Z",
+  updatedAt: "2026-10-30T15:08:52.835Z",
 } as const satisfies RelationProperty
