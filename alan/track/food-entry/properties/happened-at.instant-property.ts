@@ -5,8 +5,8 @@ export const happenedAt = {
   type: "page-type/instant-property",
   slug: "happened-at",
   propertySlug: "happened-at",
-  definition: "when what the entry records took place",
+  definition: "when the thing a page describes happens",
   types: "ts",
   createdAt: "2026-09-03T05:00:04.619Z",
-  updatedAt: "2026-09-15T17:15:46.000Z",
+  updatedAt: "2026-10-30T16:47:44.934Z",
 } as const satisfies InstantProperty
