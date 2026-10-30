@@ -4,7 +4,7 @@ export const requestsApiPageWrite = {
   id: "01a0c537-bb7d-769b-ad76-62d6b52dd185",
   type: "page-type/route",
   slug: "requests-api-page-write",
-  definition: "the page a reader's browser asks to have written",
+  definition: "the page a browser asks the Requests site to write",
   code: "ts",
   urlPath: "api/page-write",
   decisions: [
@@ -18,5 +18,5 @@ export const requestsApiPageWrite = {
     },
   ],
   createdAt: "2026-09-21T18:25:59.165Z",
-  updatedAt: "2026-09-21T18:37:14.000Z",
+  updatedAt: "2026-10-30T16:30:30.011Z",
 } as const satisfies Route
