@@ -5,7 +5,8 @@ export const emailRuleCodeRescueFromSpam = {
   type: "page-type/boolean-property",
   slug: "email-rule-code-rescue-from-spam",
   propertySlug: "rescue-from-spam",
-  definition: "whether mail the rule matches is moved out of spam and into the inbox",
+  definition:
+    "whether an email rule moves each email that matches the rule from spam into the inbox",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -22,5 +23,5 @@ export const emailRuleCodeRescueFromSpam = {
   ],
   types: "ts",
   createdAt: "2026-10-08T16:21:30.456Z",
-  updatedAt: "2026-10-08T16:21:30.456Z",
+  updatedAt: "2026-10-30T15:45:35.499Z",
 } as const satisfies BooleanProperty
