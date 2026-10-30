@@ -4,7 +4,7 @@ export const seatReset = {
   id: "01a069cb-0380-715a-9d83-e8177fb074e2",
   type: "page-type/module",
   slug: "seat-reset",
-  definition: "a new agent sat down in a named seat, with every declaration the seat states",
+  definition: "how code starts a new agent in a seat",
   code: "ts",
   decisions: [
     {
@@ -32,5 +32,5 @@ export const seatReset = {
     },
   ],
   createdAt: "2026-09-04T00:21:47.520Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:48:05.928Z",
 } as const satisfies Module
