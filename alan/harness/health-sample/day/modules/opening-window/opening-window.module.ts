@@ -4,7 +4,7 @@ export const openingWindow = {
   id: "01a05bc7-9129-7008-8402-c98c706da8be",
   type: "page-type/module",
   slug: "opening-window",
-  definition: "the span from one opening of Alan's day to the next opening of it",
+  definition: "the time from the opening of a day to the opening of the next day",
   code: "ts",
   test: "ts",
   decisions: [
@@ -39,5 +39,5 @@ export const openingWindow = {
     },
   ],
   createdAt: "2026-09-01T07:03:20.617Z",
-  updatedAt: "2026-10-18T13:52:54.670Z",
+  updatedAt: "2026-10-30T15:34:47.985Z",
 } as const satisfies Module
