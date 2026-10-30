@@ -4,7 +4,7 @@ export const buildDirectory = {
   id: "01a08db3-6723-70df-8ccd-9abb25c56c16",
   type: "page-type/module",
   slug: "build-directory",
-  definition: "a web tree's build folder",
+  definition: "the folder a website is built into",
   code: "ts",
   test: "ts",
   decisions: [
@@ -22,5 +22,5 @@ export const buildDirectory = {
     },
   ],
   createdAt: "2026-09-10T23:42:19.939Z",
-  updatedAt: "2026-09-22T13:56:56.000Z",
+  updatedAt: "2026-10-30T16:17:15.345Z",
 } as const satisfies Module
