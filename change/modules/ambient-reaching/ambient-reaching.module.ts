@@ -4,7 +4,8 @@ export const ambientReaching = {
   id: "01a0d5c2-d5fe-740e-83ca-37572a2af88f",
   type: "page-type/module",
   slug: "ambient-reaching",
-  definition: "the declarations a file's ambient names reach",
+  definition:
+    "how code finds the files that hold each name a file uses where that file does not hold that name",
   code: "ts",
   decisions: [
     {
@@ -40,5 +41,5 @@ export const ambientReaching = {
     },
   ],
   createdAt: "2026-09-24T23:31:50.910Z",
-  updatedAt: "2026-09-25T00:27:37.000Z",
+  updatedAt: "2026-10-30T17:40:17.772Z",
 } as const satisfies Module
