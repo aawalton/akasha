@@ -5,6 +5,10 @@ export const monarchTag = {
   type: "page-type/page-type",
   slug: "monarch-tag",
   definition: "a label applied to a transaction",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "Monarch tag" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Monarch tags" },
+  ],
   extends: ["page-type/monarch-record"],
   parts: ["number-property/tag-place", "text-property/tag-color"],
   properties: [
@@ -24,5 +28,5 @@ export const monarchTag = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-22T14:07:54.000Z",
+  updatedAt: "2026-10-30T15:32:10.777Z",
 } as const satisfies PageType
