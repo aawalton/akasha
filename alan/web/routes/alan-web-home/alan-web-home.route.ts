@@ -4,7 +4,7 @@ export const alanWebHome = {
   id: "01a08830-7db2-77e4-a5d5-9c29796416ef",
   type: "page-type/route",
   slug: "alan-web-home",
-  definition: "a signed-in reader's opening nav item",
+  definition: "the page alanwalton.com opens with when a person is signed in",
   code: "tsx",
   urlPath: "home",
   decisions: [
@@ -30,5 +30,5 @@ export const alanWebHome = {
     },
   ],
   createdAt: "2026-09-09T22:01:14.418Z",
-  updatedAt: "2026-10-24T21:49:39.947Z",
+  updatedAt: "2026-10-30T16:53:38.765Z",
 } as const satisfies Route
