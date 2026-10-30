@@ -4,7 +4,7 @@ export const couplesCallBrief = {
   id: "01a16fae-6059-7c60-ba89-e98c42e72418",
   type: "page-type/module",
   slug: "couples-call-brief",
-  definition: "what the live-model therapist on a couples call is told",
+  definition: "the text a model reads when a couples call opens",
   code: "ts",
   test: "ts",
   decisions: [
@@ -35,5 +35,5 @@ export const couplesCallBrief = {
     },
   ],
   createdAt: "2026-10-24T20:51:01.335Z",
-  updatedAt: "2026-10-24T20:51:01.335Z",
+  updatedAt: "2026-10-30T15:29:41.375Z",
 } as const satisfies Module
