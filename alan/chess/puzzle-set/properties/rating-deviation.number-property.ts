@@ -5,9 +5,9 @@ export const ratingDeviation = {
   type: "page-type/number-property",
   slug: "rating-deviation",
   propertySlug: "rating-deviation",
-  definition: "how uncertain a puzzle's rating is",
+  definition: "the uncertainty of a puzzle's difficulty",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:09:57.600Z",
 } as const satisfies NumberProperty
