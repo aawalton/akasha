@@ -5,7 +5,7 @@ export const carriedBy = {
   type: "page-type/record-property",
   slug: "carried-by",
   propertySlug: "carried-by",
-  definition: "a release carrying a track, and where on that release the track sits",
+  definition: "a release that carries a track and where the track sits on that release",
   properties: [
     { pageProperty: "relation-property/release", required: true, many: false },
     { pageProperty: "number-property/disc-number", required: false, many: false },
@@ -35,5 +35,5 @@ export const carriedBy = {
   ],
   types: "ts",
   createdAt: "2026-09-21T18:14:37.605Z",
-  updatedAt: "2026-09-22T00:49:24.000Z",
+  updatedAt: "2026-10-30T16:17:10.297Z",
 } as const satisfies RecordProperty
