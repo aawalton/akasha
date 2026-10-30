@@ -4,8 +4,7 @@ export const subagentPageHistory = {
   id: "01a072a4-24cb-708c-b671-ae3473e926d0",
   type: "page-type/module",
   slug: "subagent-page-history",
-  definition:
-    "what a subagent's page said before that page went, read out of the commit that wrote it",
+  definition: "how code reads a subagent page from the last commit with the page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -36,5 +35,5 @@ export const subagentPageHistory = {
     },
   ],
   createdAt: "2026-09-05T17:35:55.083Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:45:43.547Z",
 } as const satisfies Module
