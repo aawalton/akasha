@@ -13,11 +13,11 @@ export const pendingMaintaining = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The stretch after a turn end is the stretch kept true here.",
+      statement: "The span of time after a turn end is the span of time kept true here.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat in that stretch is not running to notice a change of its own.",
+      statement: "A seat in that span of time is not running to notice a change of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -54,11 +54,11 @@ export const pendingMaintaining = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A transcript settles for its own stretch rather than the stretch a store settles for.",
+        "A transcript settles for its own span of time rather than the span a store settles for.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A transcript settles for the shorter stretch.",
+      statement: "A transcript settles for the shorter span of time.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -115,5 +115,5 @@ export const pendingMaintaining = {
     },
   ],
   createdAt: "2026-09-03T17:56:43.735Z",
-  updatedAt: "2026-09-25T17:55:25.000Z",
+  updatedAt: "2026-10-30T17:48:13.595Z",
 } as const satisfies Module
