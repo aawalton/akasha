@@ -4,7 +4,7 @@ export const walkFunctions = {
   id: "01a0680f-d1b7-72c6-a3b9-0ccb673e665d",
   type: "page-type/module",
   slug: "walk-functions",
-  definition: "every function a source file has, with each one's name and line",
+  definition: "every function a TypeScript file has, with each one's name and line",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const walkFunctions = {
     },
   ],
   createdAt: "2026-09-03T16:17:42.327Z",
-  updatedAt: "2026-09-22T13:51:13.000Z",
+  updatedAt: "2026-10-30T16:05:35.731Z",
 } as const satisfies Module
