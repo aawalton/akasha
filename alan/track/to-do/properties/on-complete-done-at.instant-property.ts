@@ -5,8 +5,8 @@ export const onCompleteDoneAt = {
   type: "page-type/instant-property",
   slug: "on-complete-done-at",
   propertySlug: "on-complete-done-at",
-  definition: "the last completion of a to-do that the to-do's on-complete code is done with",
+  definition: "the instant a to-do was done for the last run of its on-complete code",
   types: "ts",
   createdAt: "2026-10-09T12:16:31.289Z",
-  updatedAt: "2026-10-09T12:16:31.289Z",
+  updatedAt: "2026-10-30T16:47:36.284Z",
 } as const satisfies InstantProperty
