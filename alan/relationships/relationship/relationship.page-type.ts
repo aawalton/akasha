@@ -4,7 +4,7 @@ export const relationship = {
   id: "01a06594-c6e2-7bab-9ba9-948b607cfd13",
   type: "page-type/page-type",
   slug: "relationship",
-  definition: "a person in Alan's life, and how close they are",
+  definition: "a person in Alan's life",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "relationship" },
     { partOfSpeech: "part-of-speech/noun", spelling: "relationships" },
@@ -109,5 +109,5 @@ export const relationship = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:44:04.194Z",
-  updatedAt: "2026-10-25T19:19:22.576Z",
+  updatedAt: "2026-10-30T16:30:58.357Z",
 } as const satisfies PageType
