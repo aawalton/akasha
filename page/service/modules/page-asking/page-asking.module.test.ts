@@ -12,6 +12,7 @@ import {
   GAP_AT,
   kinds,
   levels,
+  lonely,
   modelTests,
   over,
   persona,
@@ -105,6 +106,10 @@ test("a calculation the page type named declares is worked out over a page of a 
   expect(one?.type).toBe("book")
   expect(one?.ownLength).toBe(76750)
   expect(one?.ownRemaining).toBe(0)
+})
+
+test("a page type nothing extends that no page is filed under is answered empty", () => {
+  expect(lonely()).toEqual({ rows: [], n: 0 })
 })
 
 test("a name that is no page type is refused rather than answered empty", () => {
