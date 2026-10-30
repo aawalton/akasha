@@ -4,8 +4,8 @@ export const tsx = {
   id: "01a0d58a-70ad-7df4-b3bc-12db582490c5",
   type: "page-type/file-kind-domain",
   slug: "tsx",
-  definition: "a file of TypeScript code with markup",
+  definition: "a file of TypeScript code with JSX",
   namePatterns: ["*.tsx"],
   createdAt: "2026-09-24T22:30:14.957Z",
-  updatedAt: "2026-10-30T15:37:05.303Z",
+  updatedAt: "2026-10-30T15:57:24.502Z",
 } as const satisfies FileKindDomain
