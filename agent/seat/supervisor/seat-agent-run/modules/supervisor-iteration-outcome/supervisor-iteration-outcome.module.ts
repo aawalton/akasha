@@ -4,7 +4,7 @@ export const supervisorIterationOutcome = {
   id: "01a06871-3115-700c-bb97-5d8f1d4b1d6d",
   type: "page-type/module",
   slug: "supervisor-iteration-outcome",
-  definition: "which directive the loop takes from whatever action was pending at the child's exit",
+  definition: "whether a supervisor starts another process for a seat's agent when a process ends",
   code: "ts",
   decisions: [
     {
@@ -37,5 +37,5 @@ export const supervisorIterationOutcome = {
     },
   ],
   createdAt: "2026-09-03T18:04:03.733Z",
-  updatedAt: "2026-10-24T22:00:07.098Z",
+  updatedAt: "2026-10-30T14:52:57.600Z",
 } as const satisfies Module
