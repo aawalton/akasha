@@ -227,6 +227,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/appium-session.common-language-term.ts","id":"01a18d88-9122-7532-a3f1-b68073e1688e"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/art.common-language-term.ts","id":"01a0d8bd-93fa-78a0-b1fa-85c545e5b495"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/assistance.common-language-term.ts","id":"01a18d4a-f91e-7371-bb52-ba5a6f6749f8"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/attention.common-language-term.ts","id":"01a18da5-0c11-7094-9aaa-851b34b16026"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/award.common-language-term.ts","id":"01a18d76-4591-7306-979e-be5b73cda2fb"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/axle.common-language-term.ts","id":"01a18d5b-aada-76aa-b0cf-54a001806842"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/bank.common-language-term.ts","id":"01a18d88-d052-7769-8843-c5c4ca81cdf0"}
@@ -279,6 +280,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/electricity.common-language-term.ts","id":"01a18d5f-749c-70d8-83cb-ea1ff1a717a7"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/email-address.common-language-term.ts","id":"01a18d6e-ade6-709d-8829-583788f87755"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/emoji.common-language-term.ts","id":"01a18d98-957e-7cd6-a7e3-2b0eadb1d8f9"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/energy.common-language-term.ts","id":"01a18da5-0c12-7c5a-ac49-addc4897f279"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/environment-variable.common-language-term.ts","id":"01a18d48-107d-73b3-8b79-1d67652e431c"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/equator.common-language-term.ts","id":"01a18d76-7963-7836-887b-23b84a86c07e"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/estimate.common-language-term.ts","id":"01a18d56-e4f4-73ba-af20-609c35c0516f"}
