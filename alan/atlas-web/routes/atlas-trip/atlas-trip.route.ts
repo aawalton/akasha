@@ -4,7 +4,7 @@ export const atlasTrip = {
   id: "01a0883e-5a1e-7450-ac91-ba1c3f52e21b",
   type: "page-type/route",
   slug: "atlas-trip",
-  definition: "a location collection and the locations naming it, listed as that trip's stops",
+  definition: "the locations of a location collection shown in a list",
   code: "tsx",
   urlPath: "trip/:tripParam",
   decisions: [
@@ -38,5 +38,5 @@ export const atlasTrip = {
     },
   ],
   createdAt: "2026-09-09T22:16:22.814Z",
-  updatedAt: "2026-09-27T12:28:10.000Z",
+  updatedAt: "2026-10-30T16:07:07.283Z",
 } as const satisfies Route
