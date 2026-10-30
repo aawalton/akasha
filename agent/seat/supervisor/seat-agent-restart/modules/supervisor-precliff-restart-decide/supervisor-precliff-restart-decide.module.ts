@@ -4,7 +4,7 @@ export const supervisorPrecliffRestartDecide = {
   id: "01a06838-5a84-7003-a0ce-e7e92276f897",
   type: "page-type/module",
   slug: "supervisor-precliff-restart-decide",
-  definition: "whether to arm a restart before the session reaches its context cliff",
+  definition: "whether an agent that has run for hours is restarted",
   code: "ts",
   test: "ts",
   decisions: [
@@ -34,5 +34,5 @@ export const supervisorPrecliffRestartDecide = {
     },
   ],
   createdAt: "2026-09-03T17:01:58.788Z",
-  updatedAt: "2026-09-24T15:55:20.000Z",
+  updatedAt: "2026-10-30T14:45:01.561Z",
 } as const satisfies Module
