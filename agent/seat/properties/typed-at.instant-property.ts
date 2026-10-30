@@ -5,8 +5,8 @@ export const typedAt = {
   type: "page-type/instant-property",
   slug: "typed-at",
   propertySlug: "at",
-  definition: "when a person last typed in a seat's message box",
+  definition: "the last time a person uses the keyboard to write a message to a seat",
   types: "ts",
   createdAt: "2026-10-24T22:19:02.125Z",
-  updatedAt: "2026-10-24T22:19:02.125Z",
+  updatedAt: "2026-10-30T14:51:03.044Z",
 } as const satisfies InstantProperty
