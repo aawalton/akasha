@@ -4,7 +4,7 @@ export const gmailMessages = {
   id: "01a05c0e-372f-7750-8af3-82f43929d034",
   type: "page-type/module",
   slug: "gmail-messages",
-  definition: "mail listed, read, sent, relabelled, archived and trashed",
+  definition: "how code handles Gmail messages",
   code: "ts",
   test: "ts",
   decisions: [
@@ -31,5 +31,5 @@ export const gmailMessages = {
     },
   ],
   createdAt: "2026-09-01T08:20:30.639Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:13:18.719Z",
 } as const satisfies Module
