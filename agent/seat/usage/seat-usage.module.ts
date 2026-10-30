@@ -4,7 +4,7 @@ export const seatUsage = {
   id: "01a0687b-3c96-7000-be32-deed725bb134",
   type: "page-type/module",
   slug: "seat-usage",
-  definition: "what a seat spends while an agent works in it",
+  definition: "the model and the context tokens a seat uses",
   parts: ["module/seat-usage-keep", "module/seat-usage-show", "module/typing-minutes"],
   code: "ts",
   test: "ts",
@@ -36,5 +36,5 @@ export const seatUsage = {
     },
   ],
   createdAt: "2026-09-03T18:15:02.038Z",
-  updatedAt: "2026-09-24T18:44:07.000Z",
+  updatedAt: "2026-10-30T14:39:20.945Z",
 } as const satisfies Module
