@@ -7,7 +7,8 @@ export const renameMetricReads = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "every read of one metric in a folder's metric formulas pointed at another metric",
+  definition:
+    "a change that replaces a metric each metric formula in a folder reads with another metric",
   code: "ts",
   test: "ts",
   decisions: [
@@ -36,5 +37,5 @@ export const renameMetricReads = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-10-21T03:06:41.892Z",
-  updatedAt: "2026-10-21T03:06:41.892Z",
+  updatedAt: "2026-10-30T17:05:16.550Z",
 } as const satisfies ChangeAgent
