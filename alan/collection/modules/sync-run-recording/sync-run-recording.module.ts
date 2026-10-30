@@ -4,7 +4,7 @@ export const syncRunRecording = {
   id: "01a0686c-fd2c-7002-a269-4f47fac2fd46",
   type: "page-type/module",
   slug: "sync-run-recording",
-  definition: "a sync run opened, settled and recorded against its own sync",
+  definition: "how code keeps a row for each run of a sync",
   code: "ts",
   decisions: [
     {
@@ -47,5 +47,5 @@ export const syncRunRecording = {
     },
   ],
   createdAt: "2026-09-03T17:59:28.300Z",
-  updatedAt: "2026-09-24T19:56:10.000Z",
+  updatedAt: "2026-10-30T15:05:53.251Z",
 } as const satisfies Module
