@@ -7,7 +7,7 @@ export const generateFoodsAndDrinks = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page",
   changeTargetSubtype: "change-target-subtype/page",
-  definition: "every food and drink in the item mine, one page to a distinct buff",
+  definition: "a change that makes a page for every food or drink in the game",
   code: "ts",
   test: "ts",
   decisions: [
@@ -46,5 +46,5 @@ export const generateFoodsAndDrinks = {
   maxCpuSeconds: 60,
   maxMemoryMb: 3072,
   createdAt: "2026-10-20T16:07:38.782Z",
-  updatedAt: "2026-10-20T16:07:38.782Z",
+  updatedAt: "2026-10-30T17:20:17.373Z",
 } as const satisfies ChangeAgent
