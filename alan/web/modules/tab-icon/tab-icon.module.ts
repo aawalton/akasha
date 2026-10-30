@@ -4,7 +4,7 @@ export const tabIcon = {
   id: "01a0e3a2-6e73-7710-88e2-713cf6eb205f",
   type: "page-type/module",
   slug: "tab-icon",
-  definition: "the icon a browser tab shows for the page drawn in it",
+  definition: "how code chooses the icon a browser tab shows for its page",
   code: "tsx",
   test: "ts",
   decisions: [
@@ -39,5 +39,5 @@ export const tabIcon = {
     },
   ],
   createdAt: "2026-09-27T16:11:08.275Z",
-  updatedAt: "2026-09-28T23:08:46.000Z",
+  updatedAt: "2026-10-30T17:04:43.339Z",
 } as const satisfies Module
