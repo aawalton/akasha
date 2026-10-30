@@ -7,7 +7,7 @@ export const moveFile = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "a file that is no page moved to another path",
+  definition: "a change that moves a file that is not a page to another path",
   code: "ts",
   test: "ts",
   decisions: [
@@ -32,5 +32,5 @@ export const moveFile = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-22T00:34:06.827Z",
-  updatedAt: "2026-09-22T10:07:43.000Z",
+  updatedAt: "2026-10-30T17:08:09.575Z",
 } as const satisfies ChangeAgent
