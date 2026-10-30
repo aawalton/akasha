@@ -68,7 +68,7 @@ test("a turn at game-master is told as its game master is, crossings and the pla
     CALLED,
     servingOf([pagedOf("saga-00-004", 4, "game-master")])
   )
-  expect(said).toContain("Now: Beats: the game master's step")
+  expect(said).toContain("Now: beats")
   expect(said).toContain(`The turn \`${atOf("saga-00-004")}\` is at game-master.`)
   expect(said).toContain("level from 1 to 2")
   expect(said).toContain("Keep her kind.")

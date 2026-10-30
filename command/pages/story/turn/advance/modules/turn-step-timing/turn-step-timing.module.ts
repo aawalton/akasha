@@ -18,21 +18,24 @@ export const turnStepTiming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A step is named as `turn-step-naming` names it, as its checklist item is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Lore, beats, prose and a review are named for what is handed in, a review with its reviewer.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Beats handed in from one beat on are the event restated at that beat.",
+      statement: "Beats handed in from one beat on restate that beat.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A mechanics recorder's record is the changes, and another recorder's is its memory or its pictures.",
+      statement: "At beats, a record is the numbers, the memory or the pictures of its beat.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A record holding none of those is named for its recorder.",
+      statement: "Off the beats, a record is named for its recorder.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -41,5 +44,5 @@ export const turnStepTiming = {
     },
   ],
   createdAt: "2026-10-30T12:46:10.864Z",
-  updatedAt: "2026-10-30T12:46:10.864Z",
+  updatedAt: "2026-10-30T13:21:51.721Z",
 } as const satisfies Module

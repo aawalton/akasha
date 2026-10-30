@@ -39,8 +39,9 @@ export const storyTurn = {
     "module/turn-crossed",
     "module/turn-described",
     "module/turn-checklist-serving",
+    "module/turn-step-naming",
   ],
   name: "turn",
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-30T12:58:02.685Z",
+  updatedAt: "2026-10-30T13:21:51.721Z",
 } as const satisfies Namespace

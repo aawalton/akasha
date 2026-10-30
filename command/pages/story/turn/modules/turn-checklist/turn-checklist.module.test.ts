@@ -63,13 +63,13 @@ test("a turn at beats lists every step, beat by beat, and marks the next one fro
   expect(said.split("\n").slice(0, 10)).toEqual([
     `The checklist of the turn \`${AT}\` of The Saga, at beats: [x] is done, [>] is the item to work now, [ ] is still to do. The turn reaches player once every item is done.`,
     "",
-    "- [x] Lore: the world builder's step",
-    "- [x] Beats: the game master's step",
+    "- [x] lore",
+    "- [x] beats",
     "- Beats 1 to 2: [x] numbers [x] prose [x] memory [x] pictures",
     "- Beat 3: [x] numbers [>] prose [ ] memory [ ] pictures",
     "- Beat 4: [ ] numbers [ ] prose [ ] memory [ ] pictures",
-    "- [x] Review: Continuity",
-    "- [ ] Review: Style",
+    "- [x] review continuity",
+    "- [ ] review style",
     "",
   ])
   expect(said).toContain("Now: Beat 3: prose")
@@ -88,10 +88,8 @@ test("a refused beat is stated again before its numbers, as the game master's ow
     issues: ["no lamp is lit"],
   })
   const said = checklistSaid({ ...CHECKING, flow: refused })
-  expect(said).toContain(
-    "- Beat 2: [>] state it again [ ] numbers [ ] prose [ ] memory [ ] pictures"
-  )
-  expect(said).toContain("Now: Beat 2: state it again")
+  expect(said).toContain("- Beat 2: [>] restate [ ] numbers [ ] prose [ ] memory [ ] pictures")
+  expect(said).toContain("Now: Beat 2: restate")
   expect(said).not.toContain("For this item you hold")
   expect(said).toContain("--beat 2 --beats-file <path>")
 })
@@ -99,7 +97,7 @@ test("a refused beat is stated again before its numbers, as the game master's ow
 test("once every beat is shown and recorded, each review is an item that mends before it hands in", () => {
   const whole = beatsOf(shown(1, "Mara opens the gate."), shown(2, "The hall is dark."))
   const said = checklistSaid({ ...CHECKING, flow: whole })
-  expect(said).toContain("- [>] Review: Style")
+  expect(said).toContain("- [>] review style")
   expect(said).toContain("For this item you hold the reviewer role")
   expect(said).toContain("For this item, you are the Style story reviewer")
   expect(said).toContain("Mend each fault you find before you hand this review in")
@@ -108,7 +106,7 @@ test("once every beat is shown and recorded, each review is an item that mends b
 
 test("a turn at world-builder starts at its lore, in the world builder's role, its beats still to come", () => {
   const said = checklistSaid({ ...CHECKING, status: "world-builder", flow: NO_BEATS })
-  expect(said).toContain("- [>] Lore: the world builder's step")
+  expect(said).toContain("- [>] lore")
   expect(said).toContain("- [ ] Each beat in turn: its numbers, prose, memory and pictures")
   expect(said).toContain("For this item you hold the world builder role")
   expect(said).toContain(`The turn \`${AT}\` is at world-builder.`)
@@ -122,19 +120,19 @@ test("a turn sent back off the beats works its numbers, prose, records and revie
     status: "game-master",
     prompting: { ...CHECKING.prompting, repairs: [{ file: "x.issues.txt", faults: 1 }] },
   })
-  expect(gm).toContain("- [>] Beats: the game master's step")
+  expect(gm).toContain("- [>] beats")
   expect(gm).toContain("--beats-file <path>")
   expect(gm).toContain("Add `--rulings-file <path>` where you rule an issue out")
   const writing = checklistSaid({ ...back, status: "writer", recordedBy: ["mechanics"] })
-  expect(writing).toContain("- [x] Numbers: mechanics")
-  expect(writing).toContain("- [>] Prose: the writer's step")
+  expect(writing).toContain("- [x] record mechanics")
+  expect(writing).toContain("- [>] prose")
   expect(writing).toContain("--prose-file <path> --character <address>")
   const recording = checklistSaid({
     ...back,
     status: "recorders",
     recordedBy: ["mechanics", "memory"],
   })
-  expect(recording).toContain("- [x] Record: memory")
-  expect(recording).toContain("- [>] Record: picture")
+  expect(recording).toContain("- [x] record memory")
+  expect(recording).toContain("- [>] record picture")
   expect(recording).toContain("For this item, you are the picture story recorder")
 })

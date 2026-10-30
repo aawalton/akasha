@@ -292,7 +292,7 @@ async function heldOn(
     phase: held.status,
     seat: seat?.name ?? held.status,
     endedAt: Date.now(),
-    ...stepTimed(held, read.handed, mechanics),
+    ...stepTimed(held, read.handed),
   }
   timed(given.root, ended, given.agentId)
   const ownNow = own.map((one) => repointed(one, [{ from: turn.at, to: now.at }]))

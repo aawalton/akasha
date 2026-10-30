@@ -49,7 +49,12 @@ export const turnChecklist = {
       decisionKind: "decision-kind/departure",
       statement: "Beats with the same marks share one line.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An item is named as `turn-step-naming` names its step, as its hand-in's timing row is.",
+    },
   ],
   createdAt: "2026-10-30T12:58:02.685Z",
-  updatedAt: "2026-10-30T12:58:02.685Z",
+  updatedAt: "2026-10-30T13:21:51.721Z",
 } as const satisfies Module

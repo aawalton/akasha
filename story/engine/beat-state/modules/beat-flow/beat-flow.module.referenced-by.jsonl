@@ -1,7 +1,9 @@
+{"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-step-timing/turn-step-timing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/modules/cancel-unbeating/cancel-unbeating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/modules/turn-beat-prompting/turn-beat-prompting.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/modules/turn-checklist/turn-checklist.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/modules/turn-step-naming/turn-step-naming.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/modules/turn-unplaying/turn-unplaying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"command/pages/story/turn/next/story-turn-next.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"beat-flow.module.code.ts","path":"story/engine/beat-state/modules/beat-flow/beat-flow.module.test.ts","typed":false,"deferred":false}

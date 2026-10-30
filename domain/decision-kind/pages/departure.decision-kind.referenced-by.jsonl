@@ -2646,6 +2646,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.ts","id":"01a0deca-7611-7847-a6a4-5c79cbbc8739"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.ts","id":"01a0e3eb-c9e7-75fd-af32-1f1ab36836f3"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-starting/turn-starting.module.ts","id":"01a0f10b-2635-7303-9ce8-0cee2bf203c0"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-step-naming/turn-step-naming.module.ts","id":"01a18cf9-5069-7272-b5ea-6e90fd503155"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-stopping/turn-stopping.module.ts","id":"01a10379-5458-7738-9f07-cb33b988ed32"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-unplaying/turn-unplaying.module.ts","id":"01a18308-b096-7e31-96c3-630deba90f7b"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-written/turn-written.module.ts","id":"01a0e578-bd91-705f-b288-1755136c1268"}

@@ -19,6 +19,14 @@ import {
   reviewerPrompt,
 } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import {
+  BEATS_STEP,
+  LORE_STEP,
+  PROSE_STEP,
+  partStep,
+  recordStep,
+  reviewStep,
+} from "akasha/command/pages/story/turn/modules/turn-step-naming/turn-step-naming.module.code.ts"
+import {
   type FlowPart,
   filledOn,
   refusedAt,
@@ -60,14 +68,6 @@ type Item = {
 
 const PARTS: readonly FlowPart[] = ["changes", "prose", "memory", "pictured"]
 
-const PART_LABEL: Readonly<Record<FlowPart, string>> = {
-  event: "state it again",
-  changes: "numbers",
-  prose: "prose",
-  memory: "memory",
-  pictured: "pictures",
-}
-
 const PART_ROLE: Readonly<Record<FlowPart, string | null>> = {
   event: null,
   changes: storyRecorderRole.slug,
@@ -100,7 +100,7 @@ function loreItem(checking: Checking): Item {
     `Name each lore page you landed with a \`${turnLore.said}\` of its own, and leave \`${turnLore.said}\` out where you landed none.`,
   ]
   return {
-    label: "Lore: the world builder's step",
+    label: LORE_STEP,
     done: checking.status !== WORLD_BUILDER,
     role: worldBuilderRole.slug,
     said: () => stepSaid(checking, WORLD_BUILDER, flags, more),
@@ -113,7 +113,7 @@ function beatsItem(checking: Checking): Item {
     ? [`Add \`${rulingsFile.said} <path>\` where you rule an issue out rather than mend it.`]
     : []
   return {
-    label: "Beats: the game master's step",
+    label: BEATS_STEP,
     done: !BEFORE_BEATS.includes(checking.status),
     role: null,
     said: () => stepSaid(checking, GAME_MASTER, `${beatsFile.said} <path>`, more),
@@ -134,7 +134,7 @@ function beatItems(checking: Checking): readonly Item[] {
     const parts: readonly FlowPart[] = beat === refused ? ["event", ...PARTS] : PARTS
     const asked = { ...prompting, turn, beat, recorders: checking.recorders, master: null }
     return parts.map((part) => ({
-      label: PART_LABEL[part],
+      label: partStep(part),
       done: part !== "event" && filledOn(flow, beat, part),
       role: PART_ROLE[part],
       said: () => beatPrompt(part, { ...asked, alone: true }),
@@ -146,7 +146,7 @@ function beatItems(checking: Checking): readonly Item[] {
 function reviewItems(checking: Checking): readonly Item[] {
   const asked = { ...checking.prompting, alone: true }
   return checking.reviewers.map((one) => ({
-    label: `Review: ${one.name}`,
+    label: reviewStep(one.slug),
     done: checking.reviewedBy.includes(one.slug),
     role: reviewerRole.slug,
     said: () => reviewerPrompt(asked, one),
@@ -161,19 +161,19 @@ function offBeatItems(checking: Checking): readonly Item[] {
   const proseFlags = `${proseFile.said} <path> ${character.said} <${character.placeholder}>`
   return [
     ...mechanics.map((one) => ({
-      label: `Numbers: ${one.name}`,
+      label: recordStep(one.slug),
       done: !BEFORE_PROSE.includes(status) || recordedBy.includes(one.slug),
       role: storyRecorderRole.slug,
       said: () => mechanicsPrompt(asked, one),
     })),
     {
-      label: "Prose: the writer's step",
+      label: PROSE_STEP,
       done: status === RECORDERS || status === REVIEWERS,
       role: writerRole.slug,
       said: () => stepSaid(checking, WRITER, proseFlags, []),
     },
     ...recording.map((one) => ({
-      label: `Record: ${one.name}`,
+      label: recordStep(one.slug),
       done: status === REVIEWERS || recordedBy.includes(one.slug),
       role: storyRecorderRole.slug,
       said: () => recorderPrompt(asked, one),
