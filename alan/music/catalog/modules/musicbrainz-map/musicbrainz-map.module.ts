@@ -4,7 +4,7 @@ export const musicbrainzMap = {
   id: "01a06262-ff4c-7002-9c61-e7ce9273581d",
   type: "page-type/module",
   slug: "musicbrainz-map",
-  definition: "a MusicBrainz answer taken as the fields a song or an artist carries",
+  definition: "how code reads the values of a song or an artist from a reply from MusicBrainz",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -99,5 +99,5 @@ export const musicbrainzMap = {
     },
   ],
   createdAt: "2026-09-02T13:50:50.188Z",
-  updatedAt: "2026-09-22T13:22:14.000Z",
+  updatedAt: "2026-10-30T16:28:37.908Z",
 } as const satisfies Module
