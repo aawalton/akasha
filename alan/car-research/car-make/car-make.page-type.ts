@@ -4,7 +4,7 @@ export const carMake = {
   id: "01a0659e-e27a-7b1f-bb44-5601b4fc9699",
   type: "page-type/page-type",
   slug: "car-make",
-  definition: "a company that builds cars",
+  definition: "a company that makes cars",
   extends: ["page-type/car"],
   parts: [
     "number-property/founding-year",
@@ -39,5 +39,5 @@ export const carMake = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:55:06.618Z",
-  updatedAt: "2026-09-21T18:36:47.000Z",
+  updatedAt: "2026-10-30T14:36:59.401Z",
 } as const satisfies PageType
