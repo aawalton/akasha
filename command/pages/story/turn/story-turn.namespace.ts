@@ -34,8 +34,9 @@ export const storyTurn = {
     "module/turn-beat-handing",
     "module/turn-hand-retrying",
     "command/story-turn-next",
+    "module/turn-beat-prompting",
   ],
   name: "turn",
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-28T15:42:01.844Z",
+  updatedAt: "2026-10-30T12:49:16.246Z",
 } as const satisfies Namespace

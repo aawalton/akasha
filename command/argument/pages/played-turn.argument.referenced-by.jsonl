@@ -17,7 +17,7 @@
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/correct/modules/correct-handing/correct-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/kept/drop/story-turn-kept-drop.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/modules/turn-beat-prompting/turn-beat-prompting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/record/story-turn-record.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":false,"deferred":false}

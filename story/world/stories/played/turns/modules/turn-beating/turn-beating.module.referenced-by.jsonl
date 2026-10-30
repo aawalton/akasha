@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"turn-beating.module.code.ts","path":"command/pages/story/modules/turn-changes/turn-changes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-beating.module.code.ts","path":"command/pages/story/turn/modules/turn-beat-handing/turn-beat-handing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-beating.module.code.ts","path":"command/pages/story/turn/modules/turn-beat-prompting/turn-beat-prompting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-beating.module.code.ts","path":"command/pages/story/turn/modules/turn-hand-retrying/turn-hand-retrying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-beating.module.code.ts","path":"command/pages/story/turn/next/story-turn-next.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-beating.module.code.ts","path":"story/world/stories/played/turns/modules/turn-advancing/turn-advancing.module.code.ts","typed":false,"deferred":false}

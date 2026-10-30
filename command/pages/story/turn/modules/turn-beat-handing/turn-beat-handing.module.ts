@@ -27,22 +27,7 @@ export const turnBeatHanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The message names the turn and the beat, and carries the beat's line as it is now.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The message says how the turn's page is read, as a step notice does.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The numbers seat works each beat by the mechanics, inventory and plan instructions.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A recorder's beat message tells it to read its instructions afresh for that beat.",
+      statement: "The message handing a step its beat is composed as `turn-beat-prompting` says.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -60,10 +45,7 @@ export const turnBeatHanding = {
       decisionKind: "decision-kind/departure",
       statement: "A refused beat is handed to the game master seat with its issues.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The game master is asked for the refused beat and those after it, and no others.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The beat ready for a seat is worked out from the beats files whenever it asks.",
@@ -92,5 +74,5 @@ export const turnBeatHanding = {
     },
   ],
   createdAt: "2026-10-27T19:54:42.651Z",
-  updatedAt: "2026-10-30T12:19:32.142Z",
+  updatedAt: "2026-10-30T12:49:16.246Z",
 } as const satisfies Module
