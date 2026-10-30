@@ -4,7 +4,7 @@ export const atlasMap = {
   id: "01a0883d-3b05-7404-bc35-cbb827588fe9",
   type: "page-type/route",
   slug: "atlas-map",
-  definition: "every location a reader has saved, drawn as pins",
+  definition: "the locations shown at their places",
   code: "tsx",
   urlPath: "map",
   decisions: [
@@ -22,5 +22,5 @@ export const atlasMap = {
     },
   ],
   createdAt: "2026-09-09T22:15:09.317Z",
-  updatedAt: "2026-09-25T12:34:16.000Z",
+  updatedAt: "2026-10-30T14:48:05.996Z",
 } as const satisfies Route
