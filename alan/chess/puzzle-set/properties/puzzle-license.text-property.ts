@@ -5,10 +5,10 @@ export const puzzleLicense = {
   type: "page-type/text-property",
   slug: "puzzle-license",
   propertySlug: "license",
-  definition: "a puzzle's licence",
+  definition: "the license of a puzzle",
   maxLength: 50,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-22T13:44:11.000Z",
+  updatedAt: "2026-10-30T15:07:56.872Z",
 } as const satisfies TextProperty
