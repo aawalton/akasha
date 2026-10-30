@@ -4,7 +4,7 @@ export const seatReviveLaunchDecide = {
   id: "01a0686d-9d5e-700b-a38f-fbe2284f5f2d",
   type: "page-type/module",
   slug: "seat-revive-launch-decide",
-  definition: "whether a seat coming back up resumes its old session or starts a fresh one",
+  definition: "whether a seat that is restarted keeps its Claude Code session",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +30,5 @@ export const seatReviveLaunchDecide = {
     },
   ],
   createdAt: "2026-09-03T18:00:09.310Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:39:35.872Z",
 } as const satisfies Module
