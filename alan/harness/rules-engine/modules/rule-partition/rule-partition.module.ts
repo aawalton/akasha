@@ -4,7 +4,7 @@ export const rulePartition = {
   id: "01a0657b-9adc-7005-95a5-a56941403096",
   type: "page-type/module",
   slug: "rule-partition",
-  definition: "whether the conditions a rule states hold of a case",
+  definition: "whether the conditions of a rule hold of a case",
   code: "ts",
   decisions: [
     {
@@ -33,5 +33,5 @@ export const rulePartition = {
     },
   ],
   createdAt: "2026-09-03T04:16:34.524Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T16:08:55.332Z",
 } as const satisfies Module
