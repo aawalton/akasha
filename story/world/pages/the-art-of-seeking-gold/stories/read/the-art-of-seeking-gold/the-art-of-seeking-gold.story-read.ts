@@ -32,8 +32,8 @@ export const theArtOfSeekingGold = {
     "Romance Subplot",
     "School Life",
   ],
-  publicationStatus: "ongoing",
+  publicationStatus: "hiatus",
   readLater: true,
   createdAt: "2026-10-23T00:49:53.401Z",
-  updatedAt: "2026-10-23T00:49:53.401Z",
+  updatedAt: "2026-10-30T02:25:00.537Z",
 } as const satisfies StoryRead

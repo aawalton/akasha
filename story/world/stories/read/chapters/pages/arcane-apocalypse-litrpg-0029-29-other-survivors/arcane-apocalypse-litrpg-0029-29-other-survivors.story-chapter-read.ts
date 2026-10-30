@@ -20,5 +20,7 @@ export const arcaneApocalypseLitrpg002929OtherSurvivors = {
     },
   ],
   createdAt: "2026-10-28T16:29:04.794Z",
-  updatedAt: "2026-10-28T16:29:04.794Z",
+  updatedAt: "2026-10-30T02:25:00.537Z",
+  ownProgress: 2758,
+  progressedAt: "2026-10-30T02:25:00.537Z",
 } as const satisfies StoryChapterRead

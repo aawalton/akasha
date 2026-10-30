@@ -14,7 +14,7 @@ export const heavenPiercingGiraffeOpMcXianxia = {
     },
   ],
   author: "A4 bAnAnA",
-  publicationStatus: "ongoing",
+  publicationStatus: "hiatus",
   externalTags: [
     "Reincarnation",
     "Cultivation",
@@ -31,5 +31,5 @@ export const heavenPiercingGiraffeOpMcXianxia = {
   unit: "unit/words",
   prose: "txt",
   createdAt: "2026-09-03T04:18:50.402Z",
-  updatedAt: "2026-09-19T12:03:55.000Z",
+  updatedAt: "2026-10-30T02:25:00.537Z",
 } as const satisfies StoryRead
