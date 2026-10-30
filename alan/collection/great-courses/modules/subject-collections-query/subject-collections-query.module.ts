@@ -4,7 +4,7 @@ export const subjectCollectionsQuery = {
   id: "01a06579-f3d9-7004-86eb-78bec98c84f4",
   type: "page-type/module",
   slug: "subject-collections-query",
-  definition: "the `great-courses-subject` shelves the store has, indexed by title",
+  definition: "how code finds the collection of each topic of The Great Courses",
   code: "ts",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const subjectCollectionsQuery = {
     },
   ],
   createdAt: "2026-09-03T04:14:46.233Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:20:34.805Z",
 } as const satisfies Module
