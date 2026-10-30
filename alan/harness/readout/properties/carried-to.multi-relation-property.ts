@@ -5,7 +5,7 @@ export const carriedTo = {
   type: "page-type/multi-relation-property",
   slug: "carried-to",
   propertySlug: "carried-to",
-  definition: "the router apps the value of a readout is carried to",
+  definition: "the router apps the number a readout shows is carried to",
   targetPageType: "page-type/router-app",
   decisions: [
     {
@@ -20,5 +20,5 @@ export const carriedTo = {
   ],
   types: "ts",
   createdAt: "2026-09-25T17:18:50.478Z",
-  updatedAt: "2026-10-30T16:09:00.276Z",
+  updatedAt: "2026-10-30T16:21:39.900Z",
 } as const satisfies MultiRelationProperty
