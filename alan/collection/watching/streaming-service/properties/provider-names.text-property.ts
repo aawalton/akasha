@@ -5,7 +5,7 @@ export const providerNames = {
   type: "page-type/text-property",
   slug: "provider-names",
   propertySlug: "provider-names",
-  definition: "a name TMDB gives a streaming service by",
+  definition: "a name TMDB gives a streaming service",
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const providerNames = {
   ],
   types: "ts",
   createdAt: "2026-10-28T20:27:56.630Z",
-  updatedAt: "2026-10-28T20:27:56.630Z",
+  updatedAt: "2026-10-30T15:27:09.409Z",
 } as const satisfies TextProperty
