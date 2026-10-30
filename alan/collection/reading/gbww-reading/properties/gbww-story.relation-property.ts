@@ -5,9 +5,9 @@ export const gbwwStory = {
   type: "page-type/relation-property",
   slug: "gbww-story",
   propertySlug: "story",
-  definition: "the book written out of a reading",
+  definition: "the book Alan reads for a reading",
   targetPageType: "page-type/book",
   types: "ts",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T16:31:19.358Z",
 } as const satisfies RelationProperty
