@@ -4,7 +4,7 @@ export const greatCoursesSubject = {
   id: "01a06574-0291-7003-8e30-de8222ab3a07",
   type: "page-type/page-type",
   slug: "great-courses-subject",
-  definition: "a shelf the courses are sorted onto by what they teach",
+  definition: "a collection of the courses that teach a kind of knowledge",
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   decisions: [
@@ -24,5 +24,5 @@ export const greatCoursesSubject = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:08:16.785Z",
-  updatedAt: "2026-09-25T12:51:30.000Z",
+  updatedAt: "2026-10-30T15:12:55.655Z",
 } as const satisfies PageType
