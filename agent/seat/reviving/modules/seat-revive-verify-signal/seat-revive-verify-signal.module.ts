@@ -4,7 +4,7 @@ export const seatReviveVerifySignal = {
   id: "01a0686d-9d5e-700e-98bf-06b7ad829d40",
   type: "page-type/module",
   slug: "seat-revive-verify-signal",
-  definition: "what a verifying revive says became of the seat",
+  definition: "the word for what code finds when code watches a seat that was restarted",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const seatReviveVerifySignal = {
     },
   ],
   createdAt: "2026-09-03T18:00:09.310Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T14:41:46.925Z",
 } as const satisfies Module
