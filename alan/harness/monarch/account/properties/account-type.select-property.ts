@@ -5,7 +5,7 @@ export const accountType = {
   type: "page-type/select-property",
   slug: "account-type",
   propertySlug: "account-type",
-  definition: "the sort of balance an account holds",
+  definition: "the kind Monarch gives a Monarch account",
   values: ["depository", "brokerage", "credit", "loan", "real_estate"],
   decisions: [
     {
@@ -19,5 +19,5 @@ export const accountType = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:43:34.139Z",
 } as const satisfies SelectProperty
