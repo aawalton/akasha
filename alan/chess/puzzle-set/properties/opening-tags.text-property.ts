@@ -5,10 +5,10 @@ export const openingTags = {
   type: "page-type/text-property",
   slug: "opening-tags",
   propertySlug: "opening-tags",
-  definition: "a puzzle's opening",
+  definition: "the opening of the game a puzzle was made from",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-22T13:42:40.000Z",
+  updatedAt: "2026-10-30T15:05:23.555Z",
 } as const satisfies TextProperty
