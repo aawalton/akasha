@@ -5,9 +5,9 @@ export const batteryChemistry = {
   type: "page-type/select-property",
   slug: "battery-chemistry",
   propertySlug: "battery-chemistry",
-  definition: "the makeup of the traction battery's cells",
+  definition: "the chemistry of the main battery of a car trim",
   values: ["NMC", "LFP", "NiMH", "LiPo", "other"],
   types: "ts",
   createdAt: "2026-09-21T18:37:40.433Z",
-  updatedAt: "2026-09-22T13:47:07.000Z",
+  updatedAt: "2026-10-30T14:51:59.104Z",
 } as const satisfies SelectProperty
