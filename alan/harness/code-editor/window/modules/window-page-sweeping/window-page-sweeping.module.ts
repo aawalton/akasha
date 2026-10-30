@@ -4,7 +4,7 @@ export const windowPageSweeping = {
   id: "01a0a166-9b55-7421-ab40-928cc3618bd6",
   type: "page-type/module",
   slug: "window-page-sweeping",
-  definition: "the page of every editor window that is no longer open taken away",
+  definition: "how code removes the page of each code editor window with no process",
   code: "ts",
   test: "ts",
   decisions: [
@@ -98,5 +98,5 @@ export const windowPageSweeping = {
     },
   ],
   createdAt: "2026-09-14T19:30:51.349Z",
-  updatedAt: "2026-09-25T15:31:19.000Z",
+  updatedAt: "2026-10-30T15:37:13.166Z",
 } as const satisfies Module
