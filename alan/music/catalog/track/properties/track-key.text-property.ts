@@ -5,7 +5,7 @@ export const trackKey = {
   type: "page-type/text-property",
   slug: "track-key",
   propertySlug: "track-key",
-  definition: "the text matching a track to the same track carried on another release",
+  definition: "the text that matches a track to every other track of its recording",
   maxLength: 400,
   nameFormat: null,
   decisions: [
@@ -38,5 +38,5 @@ export const trackKey = {
   ],
   types: "ts",
   createdAt: "2026-09-15T17:32:23.531Z",
-  updatedAt: "2026-09-21T21:46:02.000Z",
+  updatedAt: "2026-10-30T16:21:04.606Z",
 } as const satisfies TextProperty
