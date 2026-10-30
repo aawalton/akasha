@@ -5,7 +5,7 @@ export const openShells = {
   type: "page-type/text-property",
   slug: "open-shells",
   propertySlug: "open-shells",
-  definition: "every background command a seat started that is still live",
+  definition: "every background command of a seat that runs",
   maxLength: 64,
   nameFormat: null,
   decisions: [
@@ -20,5 +20,5 @@ export const openShells = {
   ],
   types: "ts",
   createdAt: "2026-09-04T21:29:57.711Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:48:41.402Z",
 } as const satisfies TextProperty
