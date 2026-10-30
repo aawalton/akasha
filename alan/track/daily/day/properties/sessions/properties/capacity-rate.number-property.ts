@@ -5,7 +5,7 @@ export const capacityRate = {
   type: "page-type/number-property",
   slug: "capacity-rate",
   propertySlug: "capacity-rate",
-  definition: "how much capacity for stress an hour of a stretch gave back or took",
+  definition: "the change in capacity for stress over an hour of a tracked session",
   max: null,
   decisions: [
     {
@@ -19,5 +19,5 @@ export const capacityRate = {
   ],
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-24T19:49:46.000Z",
+  updatedAt: "2026-10-30T16:39:14.537Z",
 } as const satisfies NumberProperty
