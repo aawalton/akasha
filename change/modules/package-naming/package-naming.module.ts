@@ -4,7 +4,7 @@ export const packageNaming = {
   id: "01a08236-274a-7266-ab52-6e34c361587e",
   type: "page-type/module",
   slug: "package-naming",
-  definition: "a package's name where a string has it",
+  definition: "how code renames a package in the name of a module",
   code: "ts",
   test: "ts",
   decisions: [
@@ -51,5 +51,5 @@ export const packageNaming = {
     },
   ],
   createdAt: "2026-09-08T18:09:42.218Z",
-  updatedAt: "2026-09-15T18:21:01.000Z",
+  updatedAt: "2026-10-30T17:17:41.283Z",
 } as const satisfies Module
