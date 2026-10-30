@@ -154,6 +154,7 @@
 {"propertySlug":"part-of-speech","path":"alan/track/tracking-entry/tracking-entry.page-type.ts","id":"01a06827-ec0c-7c96-bc4a-ca5b59f6b38f"}
 {"propertySlug":"part-of-speech","path":"alan/track/tracking-field/tracking-field.page-type.ts","id":"01a06827-ec0c-79f7-864d-da0cf491975e"}
 {"propertySlug":"part-of-speech","path":"alan/value/faith/faith.value.ts","id":"019eb7d0-f2ce-7404-ac55-828a43bc73cf"}
+{"propertySlug":"part-of-speech","path":"alan/value/health/fitness/coaching/movement-restriction/movement-restriction.page-type.ts","id":"01a0b701-cf5a-7a05-8428-2b41611a70f4"}
 {"propertySlug":"part-of-speech","path":"alan/value/health/fitness/coaching/schedule/schedule.domain.ts","id":"01a09246-d96b-7ff6-ae74-578fb2f6c30a"}
 {"propertySlug":"part-of-speech","path":"alan/value/health/fitness/equipment/fitness-equipment.page-type.ts","id":"01a06834-ca86-76cb-a54a-6f86a5225afc"}
 {"propertySlug":"part-of-speech","path":"alan/value/health/fitness/flexibility/flexibility.domain.ts","id":"01a09111-9cc5-7576-83ef-2d6621b37793"}

@@ -4,7 +4,11 @@ export const movementRestriction = {
   id: "01a0b701-cf5a-7a05-8428-2b41611a70f4",
   type: "page-type/page-type",
   slug: "movement-restriction",
-  definition: "a movement Alan may not be offered, and the day that is tested again",
+  definition: "a movement pattern that Alan is not given until the movement pattern is tried again",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "movement restriction" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "movement restrictions" },
+  ],
   extends: ["page-type/page"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -35,5 +39,5 @@ export const movementRestriction = {
     },
   ],
   createdAt: "2026-09-19T00:12:24.282Z",
-  updatedAt: "2026-09-19T00:27:37.000Z",
+  updatedAt: "2026-10-30T16:52:24.537Z",
 } as const satisfies PageType
