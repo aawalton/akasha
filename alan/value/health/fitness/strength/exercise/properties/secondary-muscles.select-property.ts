@@ -5,7 +5,7 @@ export const secondaryMuscles = {
   type: "page-type/select-property",
   slug: "secondary-muscles",
   propertySlug: "secondary-muscles",
-  definition: "what the movement works alongside its target",
+  definition: "the muscles a strength exercise works besides its main muscles",
   values: [
     "abdominals",
     "abductors",
@@ -27,5 +27,5 @@ export const secondaryMuscles = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:19:22.688Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T16:50:03.829Z",
 } as const satisfies SelectProperty
