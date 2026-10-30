@@ -5,9 +5,9 @@ export const reviewRating = {
   type: "page-type/number-property",
   slug: "review-rating",
   propertySlug: "review-rating",
-  definition: "the score the person gave the place",
+  definition: "the score a person gives a place",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:25:23.451Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:20:43.638Z",
 } as const satisfies NumberProperty
