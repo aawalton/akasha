@@ -5,7 +5,7 @@ export const tracks = {
   type: "page-type/page-property-entry",
   slug: "tracks",
   propertySlug: "tracks",
-  definition: "every track a person has heard, one to a line",
+  definition: "each track heard by a person",
   parts: [
     "instant-property/first-heard-at",
     "text-property/artist-name",
@@ -42,5 +42,5 @@ export const tracks = {
   ],
   types: "ts",
   createdAt: "2026-09-02T13:12:49.935Z",
-  updatedAt: "2026-09-22T19:41:38.000Z",
+  updatedAt: "2026-10-30T16:29:15.731Z",
 } as const satisfies PagePropertyEntry
