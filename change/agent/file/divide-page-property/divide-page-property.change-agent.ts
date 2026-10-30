@@ -7,7 +7,7 @@ export const dividePageProperty = {
   changeMode: "change-mode/change-mode-divide",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
-  definition: "a page property's rows laid out again across the files the ceiling takes",
+  definition: "a change that divides the rows of a page property between files",
   code: "ts",
   test: "ts",
   decisions: [
@@ -32,5 +32,5 @@ export const dividePageProperty = {
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,
   createdAt: "2026-09-11T00:52:05.244Z",
-  updatedAt: "2026-09-22T10:08:50.000Z",
+  updatedAt: "2026-10-30T17:07:47.817Z",
 } as const satisfies ChangeAgent
