@@ -5,6 +5,10 @@ export const routerApp = {
   type: "page-type/page-type",
   slug: "router-app",
   definition: "what serves the routes its own table declares",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "router app" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "router apps" },
+  ],
   parts: [
     "build-folder-property/bundle-directory",
     "build-folder-property/declaration-directory",
@@ -100,5 +104,5 @@ export const routerApp = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T21:08:34.603Z",
-  updatedAt: "2026-10-24T19:53:05.822Z",
+  updatedAt: "2026-10-30T15:36:04.630Z",
 } as const satisfies PageType
