@@ -4,7 +4,7 @@ export const alanwaltonSafetyLevel = {
   id: "01a06420-b259-7d0c-85e8-0e67ee23e107",
   type: "page-type/readout-widget",
   slug: "alanwalton-safety-level",
-  definition: "the tile on Alan's phone showing how safe things are where he is",
+  definition: "the readout widget on Alan's phone that shows how safe Alan feels",
   app: "ios-app/alanwalton",
   component: "ios-component/alanwalton-safety-level-widget",
   kind: "SafetyLevelWidget",
@@ -18,5 +18,5 @@ export const alanwaltonSafetyLevel = {
   groups: ["readout-group/safety"],
   place: 9,
   createdAt: "2026-09-02T21:57:39.545Z",
-  updatedAt: "2026-09-15T16:23:51.000Z",
+  updatedAt: "2026-10-30T15:59:15.970Z",
 } as const satisfies ReadoutWidget
