@@ -4,7 +4,7 @@ export const chessPuzzleSet = {
   id: "01a06582-bd62-7a9f-a011-94835eaaf909",
   type: "page-type/page-type",
   slug: "chess-puzzle-set",
-  definition: "a body of chess puzzles taken from a place",
+  definition: "a set of chess puzzles",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [
@@ -40,5 +40,5 @@ export const chessPuzzleSet = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-24T18:02:42.000Z",
+  updatedAt: "2026-10-30T15:01:47.772Z",
 } as const satisfies PageType
