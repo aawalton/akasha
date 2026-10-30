@@ -4,7 +4,7 @@ export const errorReporting = {
   id: "01a05c89-6034-7244-b9d2-6f9242df9ca4",
   type: "page-type/module",
   slug: "error-reporting",
-  definition: "a browser error posted to the sink, with its page",
+  definition: "how code sends an error in a browser to the service that keeps errors",
   code: "ts",
   runsInABrowser: true,
   decisions: [
@@ -22,5 +22,5 @@ export const errorReporting = {
     },
   ],
   createdAt: "2026-09-01T10:35:02.068Z",
-  updatedAt: "2026-09-28T14:31:14.000Z",
+  updatedAt: "2026-10-30T15:37:38.541Z",
 } as const satisfies Module
