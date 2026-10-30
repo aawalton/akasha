@@ -4,7 +4,7 @@ export const inboxes = {
   id: "01a06230-b155-7b8c-9044-28e5319d83e7",
   type: "page-type/readout-group",
   slug: "inboxes",
-  definition: "how far each of Alan's inboxes is from empty",
+  definition: "how many things wait in each inbox Alan has",
   figureOffScale: true,
   wireKeyName: "inbox",
   statusBarSection: "inbox",
@@ -24,5 +24,5 @@ export const inboxes = {
     },
   ],
   createdAt: "2026-09-02T12:55:53.429Z",
-  updatedAt: "2026-10-18T13:21:00.027Z",
+  updatedAt: "2026-10-30T16:02:35.646Z",
 } as const satisfies ReadoutGroup
