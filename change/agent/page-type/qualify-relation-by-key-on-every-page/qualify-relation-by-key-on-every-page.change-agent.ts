@@ -8,7 +8,7 @@ export const qualifyRelationByKeyOnEveryPage = {
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition:
-    "a bare name made the address of the page stating it under a key, on every page of a page type",
+    "a change that replaces each name with the page that holds that name in another property",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -51,5 +51,5 @@ export const qualifyRelationByKeyOnEveryPage = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-24T15:11:22.560Z",
-  updatedAt: "2026-09-24T15:13:04.000Z",
+  updatedAt: "2026-10-30T17:40:55.552Z",
 } as const satisfies ChangeAgent
