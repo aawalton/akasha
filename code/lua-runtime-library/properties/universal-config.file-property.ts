@@ -5,11 +5,11 @@ export const universalConfig = {
   type: "page-type/file-property",
   slug: "universal-config",
   propertySlug: "universal-config",
-  definition: "what a build for every Lua but 5.0 lays over the source tree",
+  definition: "what a build for every Lua but 5.0 lays over the library's TypeScript code",
   extensions: ["json"],
   fileName: "tsconfig.json",
   toolResolvesPaths: true,
   types: "ts",
   createdAt: "2026-09-03T12:58:12.006Z",
-  updatedAt: "2026-09-22T13:48:28.000Z",
+  updatedAt: "2026-10-30T16:17:14.811Z",
 } as const satisfies FileProperty
