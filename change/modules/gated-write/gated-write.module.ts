@@ -4,7 +4,7 @@ export const gatedWrite = {
   id: "01a06949-b281-7b8d-ae3f-bc451ba4ebb7",
   type: "page-type/module",
   slug: "gated-write",
-  definition: "what came of a write through the gate, and the reason where it was refused",
+  definition: "how code holds whether a file was written and the reason for a refusal",
   code: "ts",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const gatedWrite = {
     },
   ],
   createdAt: "2026-09-03T22:00:32.641Z",
-  updatedAt: "2026-09-24T23:10:33.000Z",
+  updatedAt: "2026-10-30T17:42:49.704Z",
 } as const satisfies Module
