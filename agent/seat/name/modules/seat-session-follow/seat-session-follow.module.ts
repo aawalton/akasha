@@ -4,7 +4,8 @@ export const seatSessionFollow = {
   id: "01a16f9d-cd53-7704-b202-e501e9dfd98e",
   type: "page-type/module",
   slug: "seat-session-follow",
-  definition: "how a running seat's tmux session takes the seat's name after the seat is renamed",
+  definition:
+    "how a supervisor gives the name of its seat to the tmux session the supervisor runs in",
   code: "ts",
   test: "ts",
   decisions: [
@@ -30,5 +31,5 @@ export const seatSessionFollow = {
     },
   ],
   createdAt: "2026-10-24T20:32:55.123Z",
-  updatedAt: "2026-10-24T20:32:55.123Z",
+  updatedAt: "2026-10-30T14:57:06.102Z",
 } as const satisfies Module
