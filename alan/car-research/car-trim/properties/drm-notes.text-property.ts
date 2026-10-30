@@ -5,10 +5,10 @@ export const drmNotes = {
   type: "page-type/text-property",
   slug: "drm-notes",
   propertySlug: "drm-notes",
-  definition: "what the maker keeps locked in its own software on a trim",
+  definition: "what a maker keeps behind its own software on a car trim",
   maxLength: 2000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-21T18:39:01.608Z",
-  updatedAt: "2026-09-21T18:40:16.000Z",
+  updatedAt: "2026-10-30T15:17:10.596Z",
 } as const satisfies TextProperty
