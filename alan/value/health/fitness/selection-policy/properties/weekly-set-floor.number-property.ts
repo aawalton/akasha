@@ -5,9 +5,9 @@ export const weeklySetFloor = {
   type: "page-type/number-property",
   slug: "weekly-set-floor",
   propertySlug: "weekly-set-floor",
-  definition: "the number of sets a muscle needs in a week",
+  definition: "the number of exercise sets a muscle needs in a week",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T17:51:17.318Z",
-  updatedAt: "2026-10-30T16:52:34.745Z",
+  updatedAt: "2026-10-30T17:03:45.363Z",
 } as const satisfies NumberProperty
