@@ -44,11 +44,11 @@ export const flexibilityLog = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading has a number beside its human read where the metric is measured in numbers.",
+        "A measurement has a number beside its text where the metric is measured in numbers.",
     },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:37:55.177Z",
-  updatedAt: "2026-10-30T17:15:22.316Z",
+  updatedAt: "2026-10-30T17:15:43.377Z",
 } as const satisfies PageType
