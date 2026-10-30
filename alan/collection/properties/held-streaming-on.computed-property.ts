@@ -5,7 +5,8 @@ export const heldStreamingOn = {
   type: "page-type/computed-property",
   slug: "held-streaming-on",
   propertySlug: "held-streaming-on",
-  definition: "every service Alan holds that what is left of a collection streams on",
+  definition:
+    "every streaming service Alan holds with an unfinished collection or its unfinished parts",
   holds: "records",
   properties: [
     { pageProperty: "relation-property/streaming-service", required: true, many: false },
@@ -36,5 +37,5 @@ export const heldStreamingOn = {
   ],
   types: "ts",
   createdAt: "2026-10-28T22:30:00.000Z",
-  updatedAt: "2026-10-29T14:12:28.309Z",
+  updatedAt: "2026-10-30T15:19:26.731Z",
 } as const satisfies ComputedProperty
