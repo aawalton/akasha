@@ -5,7 +5,7 @@ export const singability = {
   type: "page-type/grade-property",
   slug: "singability",
   propertySlug: "singability",
-  definition: "Alan's grade for how well a song sits in his own voice",
+  definition: "how well Alan can sing a song",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,5 +14,5 @@ export const singability = {
   ],
   types: "ts",
   createdAt: "2026-09-02T13:15:58.411Z",
-  updatedAt: "2026-09-21T20:08:12.000Z",
+  updatedAt: "2026-10-30T16:37:16.400Z",
 } as const satisfies GradeProperty
