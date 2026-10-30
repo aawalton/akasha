@@ -4,7 +4,7 @@ export const sheetsCredentials = {
   id: "01a13ab0-c506-7251-b02f-86f46695a97b",
   type: "page-type/module",
   slug: "sheets-credentials",
-  definition: "a Sheets client's scope and refresh token",
+  definition: "a spreadsheet client's credentials",
   code: "ts",
   decisions: [
     {
@@ -13,5 +13,5 @@ export const sheetsCredentials = {
     },
   ],
   createdAt: "2026-10-14T13:53:45.733Z",
-  updatedAt: "2026-10-14T13:53:45.733Z",
+  updatedAt: "2026-10-30T16:26:42.422Z",
 } as const satisfies Module
