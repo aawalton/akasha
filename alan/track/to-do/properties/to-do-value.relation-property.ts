@@ -5,9 +5,9 @@ export const toDoValue = {
   type: "page-type/relation-property",
   slug: "to-do-value",
   propertySlug: "to-do-value",
-  definition: "the value doing this serves",
+  definition: "the life value a to-do is done for",
   targetPageType: "page-type/value",
   types: "ts",
   createdAt: "2026-09-03T04:57:44.119Z",
-  updatedAt: "2026-09-15T16:30:55.000Z",
+  updatedAt: "2026-10-30T16:30:30.572Z",
 } as const satisfies RelationProperty
