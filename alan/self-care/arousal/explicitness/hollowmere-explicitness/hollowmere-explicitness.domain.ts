@@ -4,7 +4,7 @@ export const hollowmereExplicitness = {
   id: "01a0fd0d-65b0-79e5-82c6-4cb6896d021c",
   type: "page-type/domain",
   slug: "hollowmere-explicitness",
-  definition: "how the story Hollowmere paces and words its sex",
+  definition: "how the Hollowmere story writes its sex scenes",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -45,5 +45,5 @@ export const hollowmereExplicitness = {
     },
   ],
   createdAt: "2026-10-02T14:38:28.784Z",
-  updatedAt: "2026-10-17T20:51:02.599Z",
+  updatedAt: "2026-10-30T16:43:27.245Z",
 } as const satisfies Domain
