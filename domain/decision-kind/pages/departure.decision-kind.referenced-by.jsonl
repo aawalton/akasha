@@ -4311,11 +4311,6 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/mechanics/ranks/depth/cornerstone-depth.page-type.ts","id":"01a0dee6-492c-728a-b2ed-cf137b64fbd8"}
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/cornerstone-wakefulness-tier.page-type.ts","id":"01a0dee6-492e-7912-9c50-5b25d4ebb420"}
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/stories/written/cornerstone/mechanics/metrics/attributes/cornerstone-faculty.page-type.ts","id":"01a0dee4-467b-76be-b386-8f81567faec4"}
-{"propertySlug":"decision-kind","path":"story/world/pages/gifted-polish-world/mechanics/metrics/resources/unallocated-stats/gifted-polish-world-unallocated-stats.page-type.ts","id":"01a18e17-127d-7336-a3fe-c6df4c7dd5a2"}
-{"propertySlug":"decision-kind","path":"story/world/pages/gifted-polish-world/stories/played/gifted-polish/mechanics/checks/gifted-polish-action-check.world-check.ts","id":"01a18e17-127d-75dc-89cf-a80874a22f79"}
-{"propertySlug":"decision-kind","path":"story/world/pages/gifted-polish-world/stories/played/gifted-polish/mechanics/checks/gifted-polish-practice.world-check.ts","id":"01a18e17-127d-74cf-977c-6a0291a8ee41"}
-{"propertySlug":"decision-kind","path":"story/world/pages/gifted-polish-world/stories/played/gifted-polish/mechanics/checks/gifted-polish-steps-earned.world-check.ts","id":"01a18e17-127d-7301-b9c9-b91f37071659"}
-{"propertySlug":"decision-kind","path":"story/world/pages/gifted-polish-world/stories/played/gifted-polish/mechanics/checks/gifted-polish-time-passing.world-check.ts","id":"01a18e17-127d-74d5-8808-c1aebf957131"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/mechanics/metrics/resources/unallocated-stats/gifted-unallocated-stats.page-type.ts","id":"01a17ede-cda6-7931-879e-9e0437dff415"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.ts","id":"01a17f15-90c1-7322-9224-70cbc8178934"}
 {"propertySlug":"decision-kind","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-practice.world-check.ts","id":"01a17ff1-398f-73e3-bd7e-a87a31f93187"}

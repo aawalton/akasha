@@ -3,9 +3,6 @@
 {"propertySlug":"import","fileName":"world-stat-group.page-type.ts","path":"story/world/mechanics/stat-groups/modules/stat-grouping/stat-grouping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-stat-group.page-type.ts","path":"story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-action-check.world-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-stat-group.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"world-stat-group.page-type.types.ts","path":"story/world/pages/gifted-polish-world/mechanics/stat-groups/gifted-polish-world-advanced-attributes.world-stat-group.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"world-stat-group.page-type.types.ts","path":"story/world/pages/gifted-polish-world/mechanics/stat-groups/gifted-polish-world-affinities.world-stat-group.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"world-stat-group.page-type.types.ts","path":"story/world/pages/gifted-polish-world/mechanics/stat-groups/gifted-polish-world-basic-attributes.world-stat-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-stat-group.page-type.types.ts","path":"story/world/pages/gifted/mechanics/stat-groups/gifted-advanced-attributes.world-stat-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-stat-group.page-type.types.ts","path":"story/world/pages/gifted/mechanics/stat-groups/gifted-affinities.world-stat-group.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-stat-group.page-type.types.ts","path":"story/world/pages/gifted/mechanics/stat-groups/gifted-basic-attributes.world-stat-group.ts","typed":true,"deferred":false}
