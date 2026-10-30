@@ -5,7 +5,7 @@ export const costBasis = {
   type: "page-type/number-property",
   slug: "cost-basis",
   propertySlug: "cost-basis",
-  definition: "what was paid for the shares an account holds",
+  definition: "the money paid for an investment an account holds",
   max: null,
   decisions: [
     {
@@ -16,5 +16,5 @@ export const costBasis = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:49:13.483Z",
 } as const satisfies NumberProperty
