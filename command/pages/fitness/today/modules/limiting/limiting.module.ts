@@ -50,7 +50,8 @@ export const limiting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day's focus is the one the schedule names for that day's weekday.",
+      statement:
+        "A day's focus is the one the schedule names for the day of the week that day falls on.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -79,6 +80,6 @@ export const limiting = {
         "An exercise set naming a movement this does not know moves the weight it states alone.",
     },
   ],
-  updatedAt: "2026-10-30T17:30:30.919Z",
+  updatedAt: "2026-10-30T17:45:53.712Z",
   createdAt: "2026-09-21T13:42:03.180Z",
 } as const satisfies Module

@@ -19,7 +19,8 @@ export const fitnessToday = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The focus is the one the schedule names for the day's weekday.",
+      statement:
+        "The focus is the one the schedule names for the day of the week the day falls on.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,5 +43,5 @@ export const fitnessToday = {
   name: "today",
   arguments: [{ argument: "argument/json" }],
   createdAt: "2026-10-08T15:11:01.194Z",
-  updatedAt: "2026-10-30T17:45:19.205Z",
+  updatedAt: "2026-10-30T17:45:53.712Z",
 } as const satisfies Command
