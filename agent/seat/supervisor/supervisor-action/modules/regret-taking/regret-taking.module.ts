@@ -4,7 +4,7 @@ export const regretTaking = {
   id: "01a16fed-a2bb-7220-bd2a-f0ff91e78289",
   type: "page-type/module",
   slug: "regret-taking",
-  definition: "how a supervisor takes a person's message back out of its seat's transcript",
+  definition: "how a supervisor removes a person's message from the transcript of its seat",
   code: "ts",
   decisions: [
     {
@@ -37,5 +37,5 @@ export const regretTaking = {
     },
   ],
   createdAt: "2026-10-24T22:00:07.098Z",
-  updatedAt: "2026-10-24T22:00:07.098Z",
+  updatedAt: "2026-10-30T14:49:58.172Z",
 } as const satisfies Module
