@@ -5,6 +5,7 @@ export const wanderingInnWikiWeb = {
   type: "page-type/router-app",
   slug: "wandering-inn-wiki-web",
   definition: "the routes innworld.wiki serves to a browser",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "innworld.wiki" }],
   tunnelRoutes: [
     {
       name: "innworld",
@@ -68,5 +69,5 @@ export const wanderingInnWikiWeb = {
     },
   ],
   createdAt: "2026-09-21T21:42:52.923Z",
-  updatedAt: "2026-09-27T11:48:23.000Z",
+  updatedAt: "2026-10-30T16:46:07.037Z",
 } as const satisfies RouterApp
