@@ -81,12 +81,12 @@ export const monarch = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "The cookie is only on the workstation that takes the reading.",
+      statement: "The cookie is only on the workstation that takes the number.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every site showing the reading is carried that reading rather than taking that reading.",
+        "Every website showing the number is carried that number rather than taking that number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -94,7 +94,7 @@ export const monarch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every tile drawing the reading shows the count Alan's workstation last took.",
+      statement: "Every tile showing the number shows the count Alan's workstation last took.",
     },
 
     {
@@ -175,5 +175,5 @@ export const monarch = {
     },
   ],
   createdAt: "2026-08-30T16:45:07.465Z",
-  updatedAt: "2026-10-30T15:56:16.319Z",
+  updatedAt: "2026-10-30T17:21:46.163Z",
 } as const satisfies Domain
