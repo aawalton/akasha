@@ -5,9 +5,9 @@ export const widthIn = {
   type: "page-type/number-property",
   slug: "width-in",
   propertySlug: "width-in",
-  definition: "how wide the car is across the body, in inches",
+  definition: "the width of a car in inches",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:42:27.767Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T15:10:24.044Z",
 } as const satisfies NumberProperty
