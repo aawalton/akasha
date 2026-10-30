@@ -5,10 +5,10 @@ export const knownIssues = {
   type: "page-type/text-property",
   slug: "known-issues",
   propertySlug: "known-issues",
-  definition: "what owners and testers report going wrong with a trim",
+  definition: "the problems that someone finds in a car trim",
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-21T18:39:14.999Z",
-  updatedAt: "2026-09-21T18:40:16.000Z",
+  updatedAt: "2026-10-30T14:57:06.091Z",
 } as const satisfies TextProperty
