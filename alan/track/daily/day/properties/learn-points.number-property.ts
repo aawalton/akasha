@@ -5,9 +5,9 @@ export const learnPoints = {
   type: "page-type/number-property",
   slug: "learn-points",
   propertySlug: "learn-points",
-  definition: "the learning earned on a day",
+  definition: "the points Alan earns on a day for what Alan learns",
   max: null,
   types: "ts",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:37:24.302Z",
 } as const satisfies NumberProperty
