@@ -4,7 +4,7 @@ export const mountainWall = {
   id: "01a06848-a27e-756a-aff3-a0c8f31695cb",
   type: "page-type/module",
   slug: "mountain-wall",
-  definition: "the instant a Mountain wall time names, and the time a Mountain clock reads at one",
+  definition: "how code reads text that gives a time in Denver",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -125,5 +125,5 @@ export const mountainWall = {
     },
   ],
   createdAt: "2026-09-03T17:19:45.790Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:44:16.818Z",
 } as const satisfies Module
