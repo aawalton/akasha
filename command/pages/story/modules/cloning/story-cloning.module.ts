@@ -78,7 +78,7 @@ export const storyCloning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No code file, no test and no module is copied.",
+      statement: "No code file and no test is copied.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -118,5 +118,5 @@ export const storyCloning = {
     },
   ],
   createdAt: "2026-10-27T21:16:37.415Z",
-  updatedAt: "2026-10-30T16:21:56.164Z",
+  updatedAt: "2026-10-30T16:29:31.051Z",
 } as const satisfies Module
