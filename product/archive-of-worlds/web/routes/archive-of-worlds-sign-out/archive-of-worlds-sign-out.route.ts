@@ -4,9 +4,9 @@ export const archiveOfWorldsSignOut = {
   id: "01a0827f-df10-7885-ab8c-6377331c0076",
   type: "page-type/route",
   slug: "archive-of-worlds-sign-out",
-  definition: "the end of a reader's session",
+  definition: "the path that ends the sign-in session of a browser",
   code: "ts",
   urlPath: "sign-out",
   createdAt: "2026-09-08T19:30:13.392Z",
-  updatedAt: "2026-09-15T16:44:30.000Z",
+  updatedAt: "2026-10-30T16:21:52.918Z",
 } as const satisfies Route
