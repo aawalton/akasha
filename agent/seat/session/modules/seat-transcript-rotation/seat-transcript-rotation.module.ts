@@ -4,8 +4,7 @@ export const seatTranscriptRotation = {
   id: "01a071f5-4e4d-79a8-aff6-911818ba3e7e",
   type: "page-type/module",
   slug: "seat-transcript-rotation",
-  definition:
-    "the transcript a seat should be read from where the one it names is another seat's or done",
+  definition: "how code finds the transcript a seat writes",
   code: "ts",
   test: "ts",
   decisions: [
@@ -124,5 +123,5 @@ export const seatTranscriptRotation = {
     },
   ],
   createdAt: "2026-09-05T14:24:56.909Z",
-  updatedAt: "2026-09-27T16:18:16.000Z",
+  updatedAt: "2026-10-30T14:48:42.011Z",
 } as const satisfies Module
