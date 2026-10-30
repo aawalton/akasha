@@ -5,10 +5,10 @@ export const parentCorporation = {
   type: "page-type/text-property",
   slug: "parent-corporation",
   propertySlug: "parent-corporation",
-  definition: "the group the make belongs to",
+  definition: "the company a car make belongs to",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:55:06.622Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:32:44.392Z",
 } as const satisfies TextProperty
