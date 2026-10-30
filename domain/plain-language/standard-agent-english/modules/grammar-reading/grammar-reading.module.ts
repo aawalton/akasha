@@ -19,7 +19,16 @@ export const grammarReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A spelling stating a scope is read only on the pages whose slug opens with that scope's slug.",
+        "A spelling stating a scope is read on that scope's page and on every page beneath it in the parts.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A spelling stating a scope is also read on the pages whose slug opens with that scope's slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page beneath a scope is known by its slug alone.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -41,5 +50,5 @@ export const grammarReading = {
     },
   ],
   createdAt: "2026-09-25T17:38:57.015Z",
-  updatedAt: "2026-09-25T18:04:26.000Z",
+  updatedAt: "2026-10-30T14:57:35.245Z",
 } as const satisfies Module

@@ -53,7 +53,12 @@ export const committedPageHolding = {
     {
       decisionKind: "decision-kind/constraint",
       statement:
-        "A page's refusals depend on the constructions, on every page's spellings and on the types judged.",
+        "A page's refusals depend on the constructions, on the words and on the types judged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The words are every page's spellings and the pages beneath each scope in the parts.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,7 +67,7 @@ export const committedPageHolding = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Those three are worked out again only where a changed page holds spellings, rules or types.",
+        "Those three are worked out again only where a changed page holds spellings, parts, rules or types.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,5 +83,5 @@ export const committedPageHolding = {
     },
   ],
   createdAt: "2026-09-25T18:04:17.238Z",
-  updatedAt: "2026-09-25T18:18:47.000Z",
+  updatedAt: "2026-10-30T14:57:35.245Z",
 } as const satisfies Module

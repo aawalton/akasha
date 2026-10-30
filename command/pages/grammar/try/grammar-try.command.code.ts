@@ -135,7 +135,7 @@ export function spellingsWith(spellings: Spellings, added: readonly Added[]): Sp
     if (already === undefined) global.set(one.spelling, new Set([one.partOfSpeech]))
     else already.add(one.partOfSpeech)
   }
-  return { global, scoped: spellings.scoped }
+  return { global, scoped: spellings.scoped, reached: spellings.reached }
 }
 
 export function waysSaid(ways: number): string {

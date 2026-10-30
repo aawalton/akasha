@@ -4,7 +4,8 @@ import type {
 } from "akasha/domain/plain-language/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.code.ts"
 import { definition } from "akasha/domain/properties/definition.standard-agent-english-property.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
-import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { namesIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
+import { addressIn, slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   recordsIn,
   textAt,
@@ -31,6 +32,8 @@ const WRITTEN_FROM = "writtenFrom"
 const DEFINITION = definition.propertySlug
 
 const SLUG = "slug"
+
+const PARTS = "parts"
 
 export const START = definition.startSymbol
 
@@ -72,7 +75,10 @@ export function ruleIn(value: Value): Rule | null {
 export type Spellings = {
   readonly global: Lexicon
   readonly scoped: ReadonlyMap<string, Lexicon>
+  readonly reached: ReadonlyMap<string, ReadonlySet<string>>
 }
+
+type PageAt = (pageTypeSlug: string, slug: string) => Value | null
 
 type Held = Map<string, Set<string>>
 
@@ -84,12 +90,18 @@ function heldAt(scoped: Map<string, Held>, scope: string): Held {
   return made
 }
 
-export function spelledIn(value: Value, global: Held, scoped: Map<string, Held>): undefined {
+export function spelledIn(
+  value: Value,
+  global: Held,
+  scoped: Map<string, Held>,
+  scopes: Set<string> = new Set()
+): undefined {
   for (const one of recordsIn(value[SPELLINGS])) {
     const spelling = textAt(one, SPELLING)
     const partOfSpeech = textAt(one, PART_OF_SPEECH)
     if (spelling === null || partOfSpeech === null) continue
     const said = textAt(one, SCOPE)
+    if (said !== null) scopes.add(said)
     const lexicon = said === null ? global : heldAt(scoped, slugIn(said) ?? said)
     const already = lexicon.get(spelling)
     if (already === undefined) lexicon.set(spelling, new Set([partOfSpeech]))
@@ -98,10 +110,32 @@ export function spelledIn(value: Value, global: Held, scoped: Map<string, Held>)
   return undefined
 }
 
+export function reachedFrom(scope: string, pageAt: PageAt): ReadonlySet<string> {
+  const reached = new Set<string>()
+  const walked = new Set<string>()
+  const waiting = [scope]
+  for (let at = 0; at < waiting.length; at += 1) {
+    const named = waiting[at]
+    if (named === undefined || walked.has(named)) continue
+    walked.add(named)
+    const address = addressIn(named)
+    if (address.kind !== "qualified") continue
+    reached.add(address.slug)
+    const value = pageAt(address.pageTypeSlug, address.slug)
+    if (value !== null) waiting.push(...namesIn(value[PARTS]))
+  }
+  return reached
+}
+
+function reaches(spellings: Spellings, scope: string, slug: string): boolean {
+  if (slug === scope || slug.startsWith(`${scope}-`)) return true
+  return spellings.reached.get(scope)?.has(slug) ?? false
+}
+
 export function lexiconAt(spellings: Spellings, slug: string): Lexicon {
   const reaching: Lexicon[] = []
   for (const [scope, lexicon] of spellings.scoped) {
-    if (slug === scope || slug.startsWith(`${scope}-`)) reaching.push(lexicon)
+    if (reaches(spellings, scope, slug)) reaching.push(lexicon)
   }
   if (reaching.length === 0) return spellings.global
   const found: Held = new Map()
@@ -129,11 +163,19 @@ export function rulesIn(index: Answering): readonly Rule[] {
   return rulesOf(index.valuesByPath(index.typeSlugOf(CONSTRUCTION_TYPE)).values())
 }
 
-export function lexiconOf(pages: Iterable<Value>): Spellings {
+export function lexiconOf(pages: Iterable<Value>, pageAt: PageAt): Spellings {
   const global: Held = new Map()
   const scoped = new Map<string, Held>()
-  for (const value of pages) spelledIn(value, global, scoped)
-  return { global, scoped }
+  const scopes = new Set<string>()
+  for (const value of pages) spelledIn(value, global, scoped, scopes)
+  const reached = new Map<string, Set<string>>()
+  for (const said of scopes) {
+    const scope = slugIn(said) ?? said
+    const held = reached.get(scope) ?? new Set<string>()
+    for (const slug of reachedFrom(said, pageAt)) held.add(slug)
+    reached.set(scope, held)
+  }
+  return { global, scoped, reached }
 }
 
 function* everyValueIn(index: Answering): Generator<Value> {
@@ -141,5 +183,5 @@ function* everyValueIn(index: Answering): Generator<Value> {
 }
 
 export function lexiconIn(index: Answering): Spellings {
-  return lexiconOf(everyValueIn(index))
+  return lexiconOf(everyValueIn(index), index.pageAt)
 }

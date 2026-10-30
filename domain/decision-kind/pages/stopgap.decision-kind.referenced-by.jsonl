@@ -46,6 +46,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/tps/modules/last-fight-reading/last-fight-reading.module.ts","id":"01a1402a-1c61-718a-9f38-8d2864c9aa2e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/tps/temper-tps.command.ts","id":"01a13c20-c7d3-7f3b-bb59-c86221a8b893"}
 {"propertySlug":"decision-kind","path":"domain/champion/domain-champion.domain.ts","id":"01a0675b-16de-790e-8eea-52afc2046700"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.ts","id":"01a0d9a6-1b77-7b11-b9a9-0c59f925a628"}
 {"propertySlug":"decision-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/modules/graded-f-sweeping/graded-f-sweeping.module.ts","id":"01a0ded9-6457-7a9f-b369-1ba6ecbdf928"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.ts","id":"01a05b27-a75c-7fab-a630-6d98b13144e1"}

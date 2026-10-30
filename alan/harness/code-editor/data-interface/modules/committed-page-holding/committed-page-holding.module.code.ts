@@ -25,11 +25,14 @@ import {
   recordsIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageAt } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
 const SPELLINGS = "spellings"
+
+const PARTS = "parts"
 
 type Gaps = ReturnType<typeof gapsOn>
 
@@ -62,7 +65,11 @@ function spelledSaid(spellings: Spellings): string {
     scope,
     lexicon(held),
   ])
-  return JSON.stringify([lexicon(spellings.global), scoped])
+  const reached = sorted(spellings.reached, ([scope]) => scope).map(([scope, held]) => [
+    scope,
+    [...held].sort(),
+  ])
+  return JSON.stringify([lexicon(spellings.global), scoped, reached])
 }
 
 function inputsSaid(
@@ -106,6 +113,10 @@ function statesSpellings(value: Value | null): boolean {
   return value !== null && recordsIn(value[SPELLINGS]).length > 0
 }
 
+function statesParts(value: Value | null): boolean {
+  return value !== null && value[PARTS] !== undefined
+}
+
 export function holdingOver(root: string, commitOf: () => string): Holding {
   const held = new Map<string, Page>()
   const listed = new Map<string, readonly string[]>()
@@ -129,7 +140,7 @@ export function holdingOver(root: string, commitOf: () => string): Holding {
   const moves = (reading: Reading, path: string, value: Value | null): boolean => {
     const pageType = partedIn(path)?.pageType
     if (pageType === PAGE_TYPE || pageType === typeSlugOf(reading, CONSTRUCTION_TYPE)) return true
-    return statesSpellings(value)
+    return statesSpellings(value) || statesParts(value)
   }
 
   const takeChanged = (reading: Reading, changed: readonly string[]): undefined => {
@@ -210,7 +221,11 @@ export function holdingOver(root: string, commitOf: () => string): Holding {
     const rules = rulesOf(
       valuesOf(at, typeSlugOf(at.reading, CONSTRUCTION_TYPE)).map((one) => one[2])
     )
-    const spellings = lexiconOf(every.map((one) => one[2]))
+    const spellings = lexiconOf(
+      every.map((one) => one[2]),
+      (pageTypeSlug, slug) =>
+        pageAt(at.reading, pageTypeSlug, slug, (path) => valueByPath(at.reading, path))
+    )
     const kinds = kindsUnder(typeSlugOf(at.reading, DOMAIN_TYPE), at.reading)
     const said = inputsSaid(rules, spellings, kinds)
     if (inputs === null || said !== inputs.said) {

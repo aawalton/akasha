@@ -34,7 +34,7 @@ const LEXICON = new Map([
   ["rock", new Set([NOUN])],
 ])
 
-const SPELLINGS = { global: LEXICON, scoped: new Map() }
+const SPELLINGS = { global: LEXICON, scoped: new Map(), reached: new Map() }
 
 const ROCK = { path: "rock/rock.domain.ts", slug: "rock", definition: "a rock" }
 

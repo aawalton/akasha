@@ -2,6 +2,8 @@ import { expect, test } from "bun:test"
 import {
   definedIn,
   lexiconAt,
+  lexiconOf,
+  reachedFrom,
   ruleIn,
   spelledIn,
 } from "akasha/domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.code.ts"
@@ -28,6 +30,17 @@ const LEXICON = new Map([
 const SCOPED = {
   global: LEXICON,
   scoped: new Map([["rock-cluster", new Map([["boulder", new Set([NOUN])]])]]),
+  reached: new Map([["rock-cluster", new Set(["rock-cluster", "scree"])]]),
+}
+
+const PAGES = new Map([
+  ["domain/rock-cluster", { parts: ["module/scree", "domain/gravel"] }],
+  ["domain/gravel", { parts: ["module/grit"] }],
+  ["module/grit", { parts: ["domain/rock-cluster"] }],
+])
+
+function pageAt(pageTypeSlug: string, slug: string): { parts: string[] } | null {
+  return PAGES.get(`${pageTypeSlug}/${slug}`) ?? null
 }
 
 test("a construction is read as a rule, and a page missing either half is left out", () => {
@@ -63,6 +76,28 @@ test("a scoped word is read on the pages its scope reaches and nowhere else", ()
   expect(lexiconAt(SCOPED, "rock-cluster-machine").has("boulder")).toBe(true)
   expect(lexiconAt(SCOPED, "rock-clustering").has("boulder")).toBe(false)
   expect(lexiconAt(SCOPED, "rock").has("boulder")).toBe(false)
+})
+
+test("a scoped word is read on a page beneath its scope in the parts", () => {
+  expect(lexiconAt(SCOPED, "scree").has("boulder")).toBe(true)
+  expect(lexiconAt(SCOPED, "sand").has("boulder")).toBe(false)
+})
+
+test("a scope reaches its own page and every page its parts name, however far", () => {
+  expect(reachedFrom("domain/rock-cluster", pageAt)).toEqual(
+    new Set(["rock-cluster", "scree", "gravel", "grit"])
+  )
+  expect(reachedFrom("domain/gravel", pageAt)).toEqual(
+    new Set(["gravel", "grit", "rock-cluster", "scree"])
+  )
+  expect(reachedFrom("module/scree", pageAt)).toEqual(new Set(["scree"]))
+})
+
+test("the words read every scope's reach from the pages beneath it", () => {
+  const spellings = [{ partOfSpeech: NOUN, spelling: "boulder", scope: "domain/gravel" }]
+  const read = lexiconOf([{ spellings }], pageAt)
+  expect(lexiconAt(read, "grit").has("boulder")).toBe(true)
+  expect(lexiconAt(read, "sand").has("boulder")).toBe(false)
 })
 
 test("a page no scope reaches is handed the global words alone", () => {

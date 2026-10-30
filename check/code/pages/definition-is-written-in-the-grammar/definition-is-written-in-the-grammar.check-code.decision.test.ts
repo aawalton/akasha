@@ -30,7 +30,7 @@ const LEXICON = new Map([
   ["rock", new Set([NOUN])],
 ])
 
-const SPELLINGS = { global: LEXICON, scoped: new Map() }
+const SPELLINGS = { global: LEXICON, scoped: new Map(), reached: new Map() }
 
 test("a phrase written one way is let through", () => {
   expect(whyRefused("a rock", RULES, LEXICON, NOUN_PHRASE)).toBeNull()
