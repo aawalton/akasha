@@ -4,7 +4,7 @@ export const requestsNoSuchPage = {
   id: "01a0e383-ebe0-7d09-863f-c8090d941bd7",
   type: "page-type/route",
   slug: "requests-no-such-page",
-  definition: "that no page of the Requests site is at the address a reader named",
+  definition: "the error the Requests site shows for a path with no page",
   code: "tsx",
   urlPath: "*",
   decisions: [
@@ -14,5 +14,5 @@ export const requestsNoSuchPage = {
     },
   ],
   createdAt: "2026-09-27T15:37:48.768Z",
-  updatedAt: "2026-09-27T15:38:05.000Z",
+  updatedAt: "2026-10-30T16:23:15.185Z",
 } as const satisfies Route
