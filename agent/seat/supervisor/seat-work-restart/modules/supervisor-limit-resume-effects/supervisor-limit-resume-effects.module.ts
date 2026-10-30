@@ -4,7 +4,7 @@ export const supervisorLimitResumeEffects = {
   id: "01a06838-5a84-7006-be45-2e23ffbbeeca",
   type: "page-type/module",
   slug: "supervisor-limit-resume-effects",
-  definition: "a rate-limit death read out of a transcript",
+  definition: "whether a transcript has a limit error in the last message of its agent",
   code: "ts",
   test: "ts",
   decisions: [
@@ -27,5 +27,5 @@ export const supervisorLimitResumeEffects = {
     },
   ],
   createdAt: "2026-09-03T17:01:58.788Z",
-  updatedAt: "2026-09-24T17:13:10.000Z",
+  updatedAt: "2026-10-30T14:44:51.737Z",
 } as const satisfies Module
