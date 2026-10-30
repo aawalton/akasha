@@ -5,7 +5,7 @@ export const smilingjennyFreshness = {
   type: "page-type/readout-widget",
   slug: "smilingjenny-freshness",
   definition:
-    "the readout widget on Jenny's phone that shows how old the oldest readings on Jenny's phone are",
+    "the readout widget on Jenny's phone that shows how old the oldest numbers on Jenny's phone are",
   app: "ios-app/smilingjenny",
   component: "ios-component/freshness-widget",
   kind: "FreshnessWidget",
@@ -15,5 +15,5 @@ export const smilingjennyFreshness = {
   galleryDescription: "How old the oldest reading on your tiles is. Tap to refresh them all.",
   place: 6,
   createdAt: "2026-09-13T13:43:54.411Z",
-  updatedAt: "2026-10-30T16:07:44.080Z",
+  updatedAt: "2026-10-30T17:00:11.882Z",
 } as const satisfies ReadoutWidget
