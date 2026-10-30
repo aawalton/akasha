@@ -4,7 +4,7 @@ export const onCompleteRunning = {
   id: "01a12097-f239-7cc0-b758-732a99d139d8",
   type: "page-type/module",
   slug: "on-complete-running",
-  definition: "the run of each to-do's on-complete code once that to-do is newly completed",
+  definition: "how code runs the code a to-do has each time the to-do is done",
   code: "ts",
   test: "ts",
   decisions: [
@@ -41,5 +41,5 @@ export const onCompleteRunning = {
     },
   ],
   createdAt: "2026-10-09T12:16:31.289Z",
-  updatedAt: "2026-10-09T12:16:31.289Z",
+  updatedAt: "2026-10-30T16:43:44.634Z",
 } as const satisfies Module
