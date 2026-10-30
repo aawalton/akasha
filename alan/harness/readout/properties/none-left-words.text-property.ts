@@ -5,10 +5,10 @@ export const noneLeftWords = {
   type: "page-type/text-property",
   slug: "none-left-words",
   propertySlug: "none-left-words",
-  definition: "what is shown in place of a reading of nothing",
+  definition: "the words shown in place of a readout that counts no thing",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-08-30T20:05:28.038Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T16:08:37.232Z",
 } as const satisfies TextProperty
