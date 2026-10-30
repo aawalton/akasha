@@ -43,16 +43,16 @@ export const alanHarnessAttribute = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "One watch takes every attribute reading.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "One timer carries every attribute reading to the site that draws the attributes.",
+      statement: "One watch takes the number of every attribute readout.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A source that cannot be read stops its own readings rather than another source's.",
+        "One timer carries the number of every attribute readout to the website that shows the attributes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A source that cannot be read stops its own numbers rather than another source's.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -61,7 +61,7 @@ export const alanHarnessAttribute = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A relay with many readings is given longer to run than a relay with a single reading.",
+        "A relay with many numbers is given longer to run than a relay with a single number.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -90,5 +90,5 @@ export const alanHarnessAttribute = {
     },
   ],
   createdAt: "2026-09-03T18:14:43.608Z",
-  updatedAt: "2026-10-13T13:47:26.474Z",
+  updatedAt: "2026-10-30T17:10:44.605Z",
 } as const satisfies Domain
