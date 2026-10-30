@@ -4,7 +4,7 @@ export const browserReaping = {
   id: "01a0a0f4-a63b-7e62-b70f-6eaed2299de7",
   type: "page-type/module",
   slug: "browser-reaping",
-  definition: "the browser a seat's tool server opened, let go once no call reaches that server",
+  definition: "how code ends the browser of a seat when no call uses the browser for a time",
   code: "ts",
   test: "ts",
   decisions: [
@@ -40,5 +40,5 @@ export const browserReaping = {
     },
   ],
   createdAt: "2026-09-14T17:26:23.035Z",
-  updatedAt: "2026-09-24T17:19:16.000Z",
+  updatedAt: "2026-10-30T14:55:30.142Z",
 } as const satisfies Module
