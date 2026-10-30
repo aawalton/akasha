@@ -5,10 +5,10 @@ export const notificationSource = {
   type: "page-type/text-property",
   slug: "notification-source",
   propertySlug: "source",
-  definition: "what pushed a notification",
+  definition: "the sender of a notification",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T17:47:21.933Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:52:46.905Z",
 } as const satisfies TextProperty
