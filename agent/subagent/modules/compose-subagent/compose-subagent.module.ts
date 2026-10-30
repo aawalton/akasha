@@ -4,7 +4,7 @@ export const composeSubagent = {
   id: "01a0693a-bad9-717d-acdb-f16a6ac2554c",
   type: "page-type/module",
   slug: "compose-subagent",
-  definition: "every subagent kind rendered as the JSON object the client's agents flag takes",
+  definition: "how code writes the subagent kinds into the value of a flag",
   code: "ts",
   test: "ts",
   decisions: [
@@ -52,5 +52,5 @@ export const composeSubagent = {
     },
   ],
   createdAt: "2026-09-03T21:44:11.737Z",
-  updatedAt: "2026-09-25T14:15:29.000Z",
+  updatedAt: "2026-10-30T14:51:20.116Z",
 } as const satisfies Module
