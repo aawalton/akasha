@@ -4,7 +4,7 @@ export const readoutGroupServing = {
   id: "01a05f42-92f5-7006-91fc-290b825bc130",
   type: "page-type/module",
   slug: "readout-group-serving",
-  definition: "what a route answers when a caller asks for a group of readings as colors",
+  definition: "how a route responds to a request for the stoplights of a readout group",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -385,5 +385,5 @@ export const readoutGroupServing = {
     },
   ],
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-10-18T14:05:25.858Z",
+  updatedAt: "2026-10-30T16:03:28.368Z",
 } as const satisfies Module
