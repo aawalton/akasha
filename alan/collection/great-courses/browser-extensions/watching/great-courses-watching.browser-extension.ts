@@ -4,7 +4,8 @@ export const greatCoursesWatching = {
   id: "01a15011-354e-722a-b1f1-21e1f9bf57dc",
   type: "page-type/browser-extension",
   slug: "great-courses-watching",
-  definition: "the extension walking Alan through one lecture of each unfinished course a day",
+  definition:
+    "a browser extension that plays the next lecture of each unfinished course to Alan today",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -75,5 +76,5 @@ export const greatCoursesWatching = {
     },
   ],
   createdAt: "2026-10-18T17:31:07.469Z",
-  updatedAt: "2026-10-28T18:06:07.484Z",
+  updatedAt: "2026-10-30T15:15:03.256Z",
 } as const satisfies BrowserExtension
