@@ -4,7 +4,8 @@ export const watcherRuntime = {
   id: "01a0633f-8d1e-7bd8-9b34-b4ebc19498e9",
   type: "page-type/module",
   slug: "watcher-runtime",
-  definition: "whether the watcher worker runs from source or from a compiled executable",
+  definition:
+    "whether the watcher worker runs from its TypeScript code or from a compiled executable",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,5 +27,5 @@ export const watcherRuntime = {
     },
   ],
   createdAt: "2026-09-02T17:51:44.414Z",
-  updatedAt: "2026-09-15T18:43:51.000Z",
+  updatedAt: "2026-10-30T16:22:30.612Z",
 } as const satisfies Module
