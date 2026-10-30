@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { mkdirSync } from "node:fs"
+import { join } from "node:path"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import { B, shaped } from "akasha/page/index/modules/entries/index-entries.module.test-fixtures.ts"
 import type { Child, Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -230,6 +232,15 @@ function ownedTree(): string {
 
 test("the files a page's name opens are the files that page owns", () => {
   expect(namedFor(ownedTree(), "held/lone.module.ts")).toEqual(OWNED.slice(0, 3))
+})
+
+test("a folder whose name opens with a page's name, as a held lock is, is owned by no page", () => {
+  const root = ownedTree()
+  mkdirSync(join(root, "held/lone.module.test.ts.lock"))
+  const held = [{ path: "held/lone.module.ts", was: null, now: { id: "6", slug: "lone" } }]
+
+  expect(namedFor(root, "held/lone.module.ts")).toEqual(OWNED.slice(0, 3))
+  expect(ownedAnew(held, root, new Set(["held/lone.module.ts"]))).toEqual(OWNED.slice(0, 2))
 })
 
 test("a page arriving owns anew the files beside it that the change does not carry", () => {

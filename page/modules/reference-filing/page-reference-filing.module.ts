@@ -81,10 +81,14 @@ export const pageReferenceFiling = {
         "A page arriving at a path owns every file whose name opens with that page's name.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder whose name opens with that page's name is owned by no page.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "An importer outside the files a page arriving owns is not read again.",
     },
   ],
   createdAt: "2026-09-15T02:55:00.484Z",
-  updatedAt: "2026-10-27T21:49:51.888Z",
+  updatedAt: "2026-10-30T16:47:22.811Z",
 } as const satisfies Module

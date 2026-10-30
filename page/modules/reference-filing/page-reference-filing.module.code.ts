@@ -285,7 +285,9 @@ export function namedFor(repo: string, page: string): readonly string[] {
   const folder = dirname(page)
   let names: readonly string[]
   try {
-    names = readdirSync(join(repo, folder))
+    names = readdirSync(join(repo, folder), { withFileTypes: true })
+      .filter((one) => !one.isDirectory())
+      .map((one) => one.name)
   } catch {
     return []
   }
