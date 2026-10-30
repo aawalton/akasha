@@ -7,7 +7,7 @@ export const addFilePropertyExtensions = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
-  definition: "every file property told the endings naming its files",
+  definition: "a change that adds the extensions of its files to every file property",
   code: "ts",
   test: "ts",
   decisions: [
@@ -56,5 +56,5 @@ export const addFilePropertyExtensions = {
   maxCpuSeconds: 120,
   maxMemoryMb: 3072,
   createdAt: "2026-09-11T01:48:34.085Z",
-  updatedAt: "2026-09-22T13:48:28.000Z",
+  updatedAt: "2026-10-30T17:22:25.483Z",
 } as const satisfies ChangeAgent
