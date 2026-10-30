@@ -5,9 +5,9 @@ export const solverColor = {
   type: "page-type/select-property",
   slug: "solver-color",
   propertySlug: "solver-color",
-  definition: "which side the solver moves",
+  definition: "the pieces the player of a puzzle moves",
   values: ["white", "black"],
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T15:11:20.256Z",
 } as const satisfies SelectProperty
