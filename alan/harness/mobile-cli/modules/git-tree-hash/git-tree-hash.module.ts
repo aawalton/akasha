@@ -4,7 +4,7 @@ export const gitTreeHash = {
   id: "01a05cee-e560-7f54-b7d4-20862a654a8c",
   type: "page-type/module",
   slug: "git-tree-hash",
-  definition: "a sha256 over the git object ids named paths carry at a ref",
+  definition: "a hash of what named paths hold at a commit in a git repo",
   code: "ts",
   test: "ts",
   decisions: [
@@ -39,5 +39,5 @@ export const gitTreeHash = {
     },
   ],
   createdAt: "2026-09-01T12:25:55.296Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:25:51.465Z",
 } as const satisfies Module
