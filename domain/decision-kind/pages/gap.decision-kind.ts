@@ -5,6 +5,10 @@ export const gap = {
   type: "page-type/decision-kind",
   slug: "gap",
   definition: "a distance between what the domain says and what it does",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "gap" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "gaps" },
+  ],
   decisionGroup: "decision-group/intent",
   decisions: [
     {
@@ -27,5 +31,5 @@ export const gap = {
     },
   ],
   createdAt: "2026-08-29T15:09:32.952Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:31:02.128Z",
 } as const satisfies DecisionKind
