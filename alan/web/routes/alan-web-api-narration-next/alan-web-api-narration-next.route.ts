@@ -4,7 +4,7 @@ export const alanWebApiNarrationNext = {
   id: "01a10dc9-9fed-7277-a5d4-07cab2baf25f",
   type: "page-type/route",
   slug: "alan-web-api-narration-next",
-  definition: "the chapter after the one playing, added to a narration's stream",
+  definition: "the next chapter a narration adds to its stream",
   code: "ts",
   urlPath: "api/narration/:id/next",
   decisions: [
@@ -22,5 +22,5 @@ export const alanWebApiNarrationNext = {
     },
   ],
   createdAt: "2026-10-05T20:37:59.917Z",
-  updatedAt: "2026-10-05T20:38:06.000Z",
+  updatedAt: "2026-10-30T16:59:26.249Z",
 } as const satisfies Route
