@@ -8,7 +8,8 @@ export const onComplete = {
   type: "page-type/module-property-group",
   slug: "on-complete",
   propertySlug: "on-complete",
-  definition: "the code run once a to-do is completed",
+  definition: "the code that runs when a to-do is done",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "on-complete code" }],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -25,5 +26,5 @@ export const onComplete = {
     },
   ],
   createdAt: "2026-10-09T12:13:06.068Z",
-  updatedAt: "2026-10-09T12:13:06.068Z",
+  updatedAt: "2026-10-30T16:46:39.472Z",
 } as const satisfies ModulePropertyGroup
