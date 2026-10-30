@@ -4,7 +4,7 @@ export const regretCut = {
   id: "01a16fe1-4cd9-7640-8946-6f919c2c593c",
   type: "page-type/module",
   slug: "regret-cut",
-  definition: "how code finds where a seat's transcript is cut to take a person's message back",
+  definition: "how code finds where a person's message starts in a seat's transcript",
   code: "ts",
   test: "ts",
   decisions: [
@@ -47,5 +47,5 @@ export const regretCut = {
     },
   ],
   createdAt: "2026-10-24T21:46:38.681Z",
-  updatedAt: "2026-10-24T22:00:07.098Z",
+  updatedAt: "2026-10-30T14:49:46.147Z",
 } as const satisfies Module
