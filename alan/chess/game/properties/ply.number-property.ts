@@ -5,9 +5,9 @@ export const ply = {
   type: "page-type/number-property",
   slug: "ply",
   propertySlug: "ply",
-  definition: "how many half-moves a game ran to",
+  definition: "the number of times the players move in a game",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:05:53.246Z",
 } as const satisfies NumberProperty
