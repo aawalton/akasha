@@ -5,9 +5,9 @@ export const ageBandStart = {
   type: "page-type/number-property",
   slug: "age-band-start",
   propertySlug: "age-band-start",
-  definition: "the youngest age a band of ages holds",
+  definition: "the first age in an age band",
   max: null,
   types: "ts",
   createdAt: "2026-10-28T18:22:21.854Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:07:05.399Z",
 } as const satisfies NumberProperty
