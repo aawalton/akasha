@@ -4,7 +4,7 @@ export const actionBarAnswering = {
   id: "01a0d487-4384-79e4-9941-54854ae13d0b",
   type: "page-type/module",
   slug: "action-bar-answering",
-  definition: "what a route answers when a player sends a game an action from its action bar",
+  definition: "how a route responds to the words a player sends to a game for its next story turn",
   code: "ts",
   decisions: [
     {
@@ -97,5 +97,5 @@ export const actionBarAnswering = {
     },
   ],
   createdAt: "2026-09-24T17:47:09.572Z",
-  updatedAt: "2026-10-30T12:22:42.764Z",
+  updatedAt: "2026-10-30T16:54:30.776Z",
 } as const satisfies Module
