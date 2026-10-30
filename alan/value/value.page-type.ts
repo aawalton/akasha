@@ -41,40 +41,41 @@ export const value = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value states in one line the person a life serving that value makes.",
+      statement: "A life value states in one line the person a life serving that life value makes.",
     },
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value has the points earned against the value over the whole record.",
+      statement: "A life value has the points earned against the life value over the whole record.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value names its scale rather than carrying a scale.",
+      statement: "A life value names its scale rather than carrying a scale.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value has one place whatever groups draw the value.",
+      statement: "A life value has one place whatever groups draw the life value.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value states one color and is always drawn in that color.",
+      statement: "A life value states one color and is always drawn in that color.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The points a value has are read from the personas' days rather than declared.",
+      statement:
+        "The points a life value has are read from the personas' days rather than declared.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A value takes no reading of its own.",
+      statement: "A life value is given no number of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Nothing draws a value.",
+      statement: "Nothing draws a life value.",
     },
   ],
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T03:33:16.511Z",
-  updatedAt: "2026-10-30T16:26:51.792Z",
+  updatedAt: "2026-10-30T16:37:58.585Z",
 } as const satisfies PageType
