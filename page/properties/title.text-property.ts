@@ -6,6 +6,10 @@ export const title = {
   slug: "title",
   propertySlug: "title",
   definition: "a thing's name",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "title" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "titles" },
+  ],
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -16,5 +20,5 @@ export const title = {
   ],
   types: "ts",
   createdAt: "2026-09-02T01:12:12.930Z",
-  updatedAt: "2026-09-22T13:48:27.000Z",
+  updatedAt: "2026-10-30T15:49:21.639Z",
 } as const satisfies TextProperty
