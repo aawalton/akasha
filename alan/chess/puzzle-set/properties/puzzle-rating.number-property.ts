@@ -5,9 +5,9 @@ export const puzzleRating = {
   type: "page-type/number-property",
   slug: "puzzle-rating",
   propertySlug: "rating",
-  definition: "how hard a puzzle is",
+  definition: "the difficulty of a puzzle",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T15:08:45.629Z",
 } as const satisfies NumberProperty
