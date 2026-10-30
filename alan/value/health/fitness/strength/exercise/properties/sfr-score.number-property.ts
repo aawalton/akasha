@@ -5,9 +5,9 @@ export const sfrScore = {
   type: "page-type/number-property",
   slug: "sfr-score",
   propertySlug: "sfr-score",
-  definition: "how much stimulus the movement returns for the fatigue it costs",
+  definition: "how well a strength exercise works its main muscles for its cost in effort",
   max: null,
   types: "ts",
   createdAt: "2026-09-03T04:19:22.688Z",
-  updatedAt: "2026-09-15T15:55:06.000Z",
+  updatedAt: "2026-10-30T16:55:43.001Z",
 } as const satisfies NumberProperty
