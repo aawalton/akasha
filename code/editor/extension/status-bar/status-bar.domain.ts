@@ -5,6 +5,10 @@ export const statusBar = {
   type: "page-type/domain",
   slug: "status-bar",
   definition: "what the editor shows at the bottom",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "status bar" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "status bars" },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -16,5 +20,5 @@ export const statusBar = {
     },
   ],
   createdAt: "2026-09-03T16:19:00.179Z",
-  updatedAt: "2026-09-25T14:05:04.000Z",
+  updatedAt: "2026-10-30T15:33:45.982Z",
 } as const satisfies Domain
