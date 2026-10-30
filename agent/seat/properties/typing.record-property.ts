@@ -5,7 +5,7 @@ export const typing = {
   type: "page-type/record-property",
   slug: "typing",
   propertySlug: "typing",
-  definition: "the persons typing a message to a seat, and when each last typed",
+  definition: "each person that writes a message to a seat",
   properties: [
     { pageProperty: "relation-property/typing-person", required: true, many: false },
     { pageProperty: "instant-property/typed-at", required: true, many: false },
@@ -30,5 +30,5 @@ export const typing = {
   ],
   types: "ts",
   createdAt: "2026-10-24T22:19:02.125Z",
-  updatedAt: "2026-10-24T22:19:02.125Z",
+  updatedAt: "2026-10-30T14:51:27.852Z",
 } as const satisfies RecordProperty
