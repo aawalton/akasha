@@ -5,8 +5,8 @@ export const isBallistic = {
   type: "page-type/boolean-property",
   slug: "is-ballistic",
   propertySlug: "is-ballistic",
-  definition: "whether the movement is thrown rather than driven through its range",
+  definition: "whether a strength exercise is explosive",
   types: "ts",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T16:54:20.724Z",
 } as const satisfies BooleanProperty
