@@ -4,7 +4,7 @@ export const driveFiles = {
   id: "01a05bec-fc0c-717a-b732-43f42f2c02fb",
   type: "page-type/module",
   slug: "drive-files",
-  definition: "a Drive file found by id or by URL, and its bytes fetched",
+  definition: "how code reads a file from Google Drive",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const driveFiles = {
     },
   ],
   createdAt: "2026-09-01T07:44:12.812Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:07:24.921Z",
 } as const satisfies Module
