@@ -120,7 +120,19 @@ export const giftedTrial2WorldWomb = {
       fact: "The talk stopped, all three voices at once, and the man's hand stayed pressing in.",
       knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
     },
+    {
+      fact: "After her weak kick the man's hand stayed still a moment, then lifted away.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "Footsteps went off, two sets, a door thudded shut, and the man's and woman's voices were gone.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
+    {
+      fact: "Left alone, her mother laid a smaller hand on her belly, just where the man's hand had been.",
+      knowers: ["lore-disclosure/game-master", "character-player/gifted-trial2-nala"],
+    },
   ],
   createdAt: "2026-10-30T16:36:03.198Z",
-  updatedAt: "2026-10-30T17:10:10.162Z",
+  updatedAt: "2026-10-30T17:26:52.799Z",
 } as const satisfies Place
