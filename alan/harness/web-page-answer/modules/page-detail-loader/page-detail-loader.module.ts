@@ -4,7 +4,7 @@ export const pageDetailLoader = {
   id: "01a0c537-bbf6-7370-adb9-ace2d7253c8b",
   type: "page-type/module",
   slug: "page-detail-loader",
-  definition: "the page a page type slug and a page href in a url name, and how it is drawn",
+  definition: "how a website shows the page at a path",
   code: "tsx",
   decisions: [
     {
@@ -25,5 +25,5 @@ export const pageDetailLoader = {
     },
   ],
   createdAt: "2026-09-21T18:25:59.286Z",
-  updatedAt: "2026-09-27T12:17:41.000Z",
+  updatedAt: "2026-10-30T16:16:18.952Z",
 } as const satisfies Module
