@@ -4,7 +4,7 @@ export const sender = {
   id: "01a05bcd-25e3-7ad8-94f5-51861579256d",
   type: "page-type/module",
   slug: "sender",
-  definition: "the address and domain a From header carries",
+  definition: "how code reads the email address of the sender of an email",
   code: "ts",
   decisions: [
     {
@@ -21,5 +21,5 @@ export const sender = {
     },
   ],
   createdAt: "2026-09-01T07:09:26.371Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:49:05.172Z",
 } as const satisfies Module
