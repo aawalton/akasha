@@ -5,6 +5,7 @@ export const carMake = {
   type: "page-type/page-type",
   slug: "car-make",
   definition: "a company that makes cars",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "car make" }],
   extends: ["page-type/car"],
   parts: [
     "number-property/founding-year",
@@ -39,5 +40,5 @@ export const carMake = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:55:06.618Z",
-  updatedAt: "2026-10-30T14:36:59.401Z",
+  updatedAt: "2026-10-30T15:27:38.675Z",
 } as const satisfies PageType
