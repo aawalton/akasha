@@ -4,7 +4,7 @@ export const buildShaDefine = {
   id: "01a05c48-deeb-7010-a5ad-81104931a96d",
   type: "page-type/module",
   slug: "build-sha-define",
-  definition: "the commit a bundler compiles into the build it is making",
+  definition: "how code finds the id of the commit a website is built from",
   code: "ts",
   decisions: [
     {
@@ -17,5 +17,5 @@ export const buildShaDefine = {
     },
   ],
   createdAt: "2026-09-01T09:24:34.667Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:02:51.140Z",
 } as const satisfies Module
