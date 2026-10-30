@@ -4,7 +4,7 @@ export const trackSessionDrop = {
   id: "01a07979-7f97-7091-a9d1-44c424ec745c",
   type: "page-type/command",
   slug: "track-session-drop",
-  definition: "the command taking a stretch away from a day",
+  definition: "the command that removes a tracked session from a day",
   code: "ts",
   test: "ts",
 
@@ -19,27 +19,27 @@ export const trackSessionDrop = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "`drop` reads `--at` as a time the stretch dropped covers.",
+      statement: "`drop` reads `--at` as a time the tracked session dropped covers.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch is addressed by the id that stretch has.",
+      statement: "A tracked session is addressed by the id that tracked session has.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch is addressed by a time that stretch covers.",
+      statement: "A tracked session is addressed by a time that tracked session covers.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch is addressed by being the open stretch.",
+      statement: "A tracked session is addressed by being the open tracked session.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch is addressed by being the stretch that ended last.",
+      statement: "A tracked session is addressed by being the tracked session that ended last.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No act here needs an id to address a stretch.",
+      statement: "No act here needs an id to address a tracked session.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -68,5 +68,5 @@ export const trackSessionDrop = {
     { argument: "argument/mend" },
   ],
   createdAt: "2026-09-07T01:26:40.791Z",
-  updatedAt: "2026-09-19T17:55:55.000Z",
+  updatedAt: "2026-10-30T17:48:45.214Z",
 } as const satisfies Command
