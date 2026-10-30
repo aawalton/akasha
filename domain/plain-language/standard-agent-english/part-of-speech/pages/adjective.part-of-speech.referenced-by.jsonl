@@ -70,6 +70,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/unsolved.common-language-term.ts","id":"01a18d4b-3f1d-7b0d-b3a4-65995ec24772"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/white.common-language-term.ts","id":"01a18d51-02ff-7887-94f7-14234cfd82d7"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/whole.common-language-term.ts","id":"01a0d5c0-af86-76f2-93fa-eb7371b0fa95"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/wrong.common-language-term.ts","id":"01a18dac-5c53-7dca-a5f6-736abe74c65e"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/yellow.common-language-term.ts","id":"01a18d8b-edb6-7f27-bb3d-9e6dce2e5714"}
 {"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/plain-language/standard-agent-english/construction/pages/be-verb-with-a-degree-adverb-and-an-adjective.construction.ts","id":"01a18d7f-9ecd-78c6-895e-5cc4e2e06b1a"}
