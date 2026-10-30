@@ -5,7 +5,10 @@ export const last = {
   type: "page-type/common-language-term",
   slug: "last",
   definition: "most recent",
-  spellings: [{ partOfSpeech: "part-of-speech/adjective", spelling: "last" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/adjective", spelling: "last" },
+    { partOfSpeech: "part-of-speech/time-adverb", spelling: "last" },
+  ],
   createdAt: "2026-09-25T18:19:12.171Z",
-  updatedAt: "2026-09-25T18:19:15.000Z",
+  updatedAt: "2026-10-30T17:04:57.788Z",
 } as const satisfies CommonLanguageTerm
