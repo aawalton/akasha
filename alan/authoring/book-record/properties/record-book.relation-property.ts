@@ -5,9 +5,9 @@ export const recordBook = {
   type: "page-type/relation-property",
   slug: "record-book",
   propertySlug: "book",
-  definition: "the book a record is kept about",
+  definition: "the book a book record is kept about",
   targetPageType: "page-type/alan-book",
   types: "ts",
   createdAt: "2026-09-03T04:18:53.341Z",
-  updatedAt: "2026-09-22T13:22:21.000Z",
+  updatedAt: "2026-10-30T14:53:40.449Z",
 } as const satisfies RelationProperty
