@@ -4,7 +4,7 @@ export const changeKind = {
   id: "01a05e11-d3f8-72af-b104-6cdd1255b0eb",
   type: "page-type/page-type",
   slug: "change-kind",
-  definition: "which sort a change is",
+  definition: "the kind of a change",
   parts: [
     "boolean-property/readers-owe-reading",
     "boolean-property/runs-checks",
@@ -43,5 +43,5 @@ export const changeKind = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-01T17:43:41.816Z",
-  updatedAt: "2026-09-22T10:07:38.000Z",
+  updatedAt: "2026-10-30T17:04:43.185Z",
 } as const satisfies PageType
