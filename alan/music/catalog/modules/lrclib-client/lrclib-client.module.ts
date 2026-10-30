@@ -4,7 +4,7 @@ export const lrclibClient = {
   id: "01a06262-ff4c-7004-99a6-b15f63fddbd0",
   type: "page-type/module",
   slug: "lrclib-client",
-  definition: "LRCLIB asked for the words of a song",
+  definition: "how code asks LRCLIB for the words of a song",
   code: "ts",
   decisions: [
     {
@@ -37,5 +37,5 @@ export const lrclibClient = {
     },
   ],
   createdAt: "2026-09-02T13:50:50.188Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:18:36.320Z",
 } as const satisfies Module
