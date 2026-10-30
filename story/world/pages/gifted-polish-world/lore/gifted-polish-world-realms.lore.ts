@@ -21,6 +21,10 @@ export const giftedPolishWorldRealms = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Helenian shares no words with English, and its sounds fall strangely on an English ear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Ajinar lies east of the Horndale Mountains.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -86,5 +90,5 @@ export const giftedPolishWorldRealms = {
     },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T18:34:02.178Z",
+  updatedAt: "2026-10-30T18:36:47.443Z",
 } as const satisfies Lore

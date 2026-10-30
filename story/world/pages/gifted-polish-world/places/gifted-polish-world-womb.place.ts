@@ -40,7 +40,19 @@ export const giftedPolishWorldWomb = {
       fact: "Each morning the cult leaders talk beside her mother, and their muffled words reach Nala.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The cult speaks Helenian, and the leaders talk low and quick among themselves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Through the walls, voices come as blurred hums; their rise and fall carry, few sounds do.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A word said often, loud and close to the mother comes through as a clear sound, not a meaning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   createdAt: "2026-10-30T18:34:02.178Z",
-  updatedAt: "2026-10-30T18:34:02.178Z",
+  updatedAt: "2026-10-30T18:36:47.443Z",
 } as const satisfies Place
