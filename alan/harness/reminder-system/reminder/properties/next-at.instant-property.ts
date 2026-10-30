@@ -5,7 +5,7 @@ export const nextAt = {
   type: "page-type/instant-property",
   slug: "next-at",
   propertySlug: "next-at",
-  definition: "when a repeating thing next falls due",
+  definition: "the next time a reminder is sent",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -19,5 +19,5 @@ export const nextAt = {
   ],
   types: "ts",
   createdAt: "2026-09-01T23:16:51.649Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:06:14.302Z",
 } as const satisfies InstantProperty
