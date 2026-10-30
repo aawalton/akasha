@@ -5,7 +5,7 @@ export const syncRuns = {
   type: "page-type/page-property-entry",
   slug: "sync-runs",
   propertySlug: "sync-runs",
-  definition: "every pull a sync has made, one to a line",
+  definition: "every run of a sync",
   properties: [
     { pageProperty: "number-property/run-seq", required: false, many: false },
     { pageProperty: "instant-property/run-started-at", required: true, many: false },
@@ -34,5 +34,5 @@ export const syncRuns = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:47:25.668Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:12:02.311Z",
 } as const satisfies PagePropertyEntry
