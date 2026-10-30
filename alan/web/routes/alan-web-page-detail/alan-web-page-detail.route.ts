@@ -4,7 +4,7 @@ export const alanWebPageDetail = {
   id: "01a08833-1672-716a-8f04-9183f3106bcc",
   type: "page-type/route",
   slug: "alan-web-page-detail",
-  definition: "a page, drawn as the kind of page it is",
+  definition: "a page shown with the component of its page type",
   code: "tsx",
   urlPath: ":pageTypeSlug/:pageHrefParam",
   decisions: [
@@ -61,5 +61,5 @@ export const alanWebPageDetail = {
     },
   ],
   createdAt: "2026-09-09T22:04:04.594Z",
-  updatedAt: "2026-10-24T21:00:12.298Z",
+  updatedAt: "2026-10-30T16:54:53.886Z",
 } as const satisfies Route
