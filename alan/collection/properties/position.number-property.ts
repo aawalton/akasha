@@ -5,9 +5,9 @@ export const position = {
   type: "page-type/number-property",
   slug: "position",
   propertySlug: "position",
-  definition: "where a collection sits within its parent collection",
+  definition: "where a collection sits in its parent collection",
   max: null,
   types: "ts",
   createdAt: "2026-09-02T20:44:59.872Z",
-  updatedAt: "2026-09-22T13:42:40.000Z",
+  updatedAt: "2026-10-30T15:05:09.901Z",
 } as const satisfies NumberProperty
