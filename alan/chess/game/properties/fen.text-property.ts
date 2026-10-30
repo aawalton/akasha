@@ -5,10 +5,10 @@ export const fen = {
   type: "page-type/text-property",
   slug: "fen",
   propertySlug: "fen",
-  definition: "a position in Forsyth-Edwards notation",
+  definition: "a chess position written in text",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T15:00:57.745Z",
 } as const satisfies TextProperty
