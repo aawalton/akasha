@@ -5,7 +5,7 @@ export const trims = {
   type: "page-type/page-property-entry",
   slug: "trims",
   propertySlug: "trims",
-  definition: "every trim of every model year the make sells, one to a line",
+  definition: "a row for each car trim a car make sells",
   properties: [
     { pageProperty: "text-property/id", required: true, many: false },
     { pageProperty: "text-property/slug", required: true, many: false },
@@ -92,5 +92,5 @@ export const trims = {
   ],
   types: "ts",
   createdAt: "2026-09-21T18:36:13.205Z",
-  updatedAt: "2026-09-23T14:43:15.000Z",
+  updatedAt: "2026-10-30T15:33:45.116Z",
 } as const satisfies PagePropertyEntry
