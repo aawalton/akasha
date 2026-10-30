@@ -68,6 +68,7 @@
 {"propertySlug":"part-of-speech","path":"alan/collection/place/restaurant/restaurant.page-type.ts","id":"01a06807-be66-700b-be52-bd042c86fc17"}
 {"propertySlug":"part-of-speech","path":"alan/collection/reading/author/author.page-type.ts","id":"01a06807-be66-7000-b600-748274bb5ac8"}
 {"propertySlug":"part-of-speech","path":"alan/collection/reading/book/book.page-type.ts","id":"01a06598-222b-7002-9769-8ec160210422"}
+{"propertySlug":"part-of-speech","path":"alan/collection/reading/gbww-reading/gbww-reading.page-type.ts","id":"01a0659f-93da-7019-b3d4-198e7acfbd4c"}
 {"propertySlug":"part-of-speech","path":"alan/collection/reading/reading.domain.ts","id":"01a0657b-06a5-7f75-b22c-a538bfe3ba53"}
 {"propertySlug":"part-of-speech","path":"alan/collection/recipe/recipe.page-type.ts","id":"01a06807-be66-700f-92e8-bca7096b21be"}
 {"propertySlug":"part-of-speech","path":"alan/collection/sync/sync.page-type.ts","id":"01a06835-e289-7ad6-8588-3a59938a1140"}
