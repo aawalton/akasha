@@ -5,7 +5,7 @@ export const puzzles = {
   type: "page-type/page-property-entry",
   slug: "puzzles",
   propertySlug: "puzzles",
-  definition: "every puzzle a set has, one to a line",
+  definition: "every puzzle a set has",
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "text-property/puzzle-id", required: true, many: false },
@@ -42,5 +42,5 @@ export const puzzles = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:24:22.114Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:09:38.943Z",
 } as const satisfies PagePropertyEntry
