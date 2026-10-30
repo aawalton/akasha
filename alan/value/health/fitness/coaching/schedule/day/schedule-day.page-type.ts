@@ -4,7 +4,7 @@ export const scheduleDay = {
   id: "01a0657a-e62d-71ab-9830-6a438684618d",
   type: "page-type/page-type",
   slug: "schedule-day",
-  definition: "a day of a training schedule, and what it trains",
+  definition: "a day of the week in Alan's training schedule",
   extends: ["page-type/page"],
   parts: ["select-property/day-of-week", "select-property/focus"],
   properties: [
@@ -25,5 +25,5 @@ export const scheduleDay = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:15:48.269Z",
-  updatedAt: "2026-09-25T13:20:20.000Z",
+  updatedAt: "2026-10-30T16:55:52.615Z",
 } as const satisfies PageType
