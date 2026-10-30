@@ -5,7 +5,7 @@ export const matchKey = {
   type: "page-type/select-property",
   slug: "match-key",
   propertySlug: "key",
-  definition: "what about a transaction a clause tests",
+  definition: "the part of a transaction a category rule looks at",
   values: ["merchant", "sign", "account", "amount", "month", "date"],
   decisions: [
     {
@@ -23,5 +23,5 @@ export const matchKey = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:44:45.819Z",
 } as const satisfies SelectProperty
