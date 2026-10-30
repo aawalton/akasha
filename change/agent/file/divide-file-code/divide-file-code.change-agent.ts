@@ -7,7 +7,7 @@ export const divideFileCode = {
   changeMode: "change-mode/change-mode-divide",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-code",
-  definition: "exports carried into a code file made for them, judged by the checks a landing runs",
+  definition: "a change that moves part of a code file into a new code file",
   code: "ts",
   test: "ts",
   decisions: [
@@ -32,5 +32,5 @@ export const divideFileCode = {
   maxCpuSeconds: 30,
   maxMemoryMb: 1024,
   createdAt: "2026-09-13T19:39:01.000Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T17:07:21.615Z",
 } as const satisfies ChangeAgent
