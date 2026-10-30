@@ -5,7 +5,7 @@ export const emailRuleMatchField = {
   type: "page-type/select-property",
   slug: "email-rule-match-field",
   propertySlug: "field",
-  definition: "what about a piece of mail a clause tests",
+  definition: "the part of an email a condition compares with the values of the condition",
   values: ["from", "to", "subject", "list"],
   decisions: [
     {
@@ -28,5 +28,5 @@ export const emailRuleMatchField = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:45:38.719Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:48:02.196Z",
 } as const satisfies SelectProperty
