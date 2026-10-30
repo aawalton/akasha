@@ -5,9 +5,9 @@ export const disabilityYearsBeforeDeath = {
   type: "page-type/number-property",
   slug: "disability-years-before-death",
   propertySlug: "disability-years-before-death",
-  definition: "the years a man typically lives disabled before a cause of death ends his life",
+  definition: "the years of disability before a typical death from a cause of death",
   max: null,
   types: "ts",
   createdAt: "2026-10-28T18:22:21.854Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:18:26.579Z",
 } as const satisfies NumberProperty
