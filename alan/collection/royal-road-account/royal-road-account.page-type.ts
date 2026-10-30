@@ -4,7 +4,7 @@ export const royalRoadAccount = {
   id: "01a06838-e8da-73c2-8412-6234b402ec6a",
   type: "page-type/page-type",
   slug: "royal-road-account",
-  definition: "the Royal Road sync's login for Alan's follow list",
+  definition: "the Royal Road account a sync uses",
   extends: ["page-type/page"],
   parts: ["email-address-property/royal-road-email", "text-property/royal-road-password"],
   properties: [
@@ -39,5 +39,5 @@ export const royalRoadAccount = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T17:02:35.226Z",
-  updatedAt: "2026-09-28T19:38:58.000Z",
+  updatedAt: "2026-10-30T15:17:00.951Z",
 } as const satisfies PageType
