@@ -4,7 +4,7 @@ export const subagentCensus = {
   id: "01a072be-bffe-7f16-bf8b-0ccd8c2a00f6",
   type: "page-type/module",
   slug: "subagent-census",
-  definition: "every subagent page the index has, each judged working, stale or undetermined",
+  definition: "how code judges whether each subagent page the index has is working",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -182,5 +182,5 @@ export const subagentCensus = {
     },
   ],
   createdAt: "2026-09-05T18:04:58.750Z",
-  updatedAt: "2026-09-22T14:30:46.000Z",
+  updatedAt: "2026-10-30T14:42:31.000Z",
 } as const satisfies Module
