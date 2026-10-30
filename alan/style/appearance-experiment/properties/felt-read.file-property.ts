@@ -5,7 +5,7 @@ export const feltRead = {
   type: "page-type/file-property",
   slug: "felt-read",
   propertySlug: "felt-read",
-  definition: "how the try landed on Alan wearing it",
+  definition: "how the thing Alan wears feels to Alan",
   extensions: ["txt"],
   decisions: [
     {
@@ -15,5 +15,5 @@ export const feltRead = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:42:47.583Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:31:14.756Z",
 } as const satisfies FileProperty
