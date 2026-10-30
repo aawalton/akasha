@@ -9,7 +9,7 @@ export const inboxReading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading is taken on the workstation with the checkout.",
+      statement: "The numbers are taken on the workstation with the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -75,7 +75,7 @@ export const inboxReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A source that cannot be read stops that source's readings and no other source's readings.",
+        "A source that cannot be read stops that source's numbers and no other source's numbers.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -99,7 +99,7 @@ export const inboxReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run of this file takes three readings.",
+      statement: "A run of this file takes three numbers.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -125,13 +125,13 @@ export const inboxReading = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Importing this file takes no reading.",
+      statement: "Importing this file takes no number.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here decides when a reading is due.",
+      statement: "Nothing here decides when a number is due.",
     },
   ],
   createdAt: "2026-09-04T00:08:54.809Z",
-  updatedAt: "2026-10-30T15:37:17.331Z",
+  updatedAt: "2026-10-30T17:19:49.327Z",
 } as const satisfies Module
