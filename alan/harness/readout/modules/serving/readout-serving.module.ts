@@ -30,12 +30,12 @@ export const readoutServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The count answered is the reading carried in rather than a reading taken here.",
+      statement: "The count answered is the number carried in rather than a number taken here.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading held fresh carries the moment it was taken and how fast it falls with the clock.",
+        "A number held fresh carries the moment it was taken and how fast it falls with the clock.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,11 +43,11 @@ export const readoutServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A route no readout's page names is answered as no reading.",
+      statement: "A route no readout's page names is answered as no number.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The key a reading is answered under is read off the readout's own page.",
+      statement: "The key a number is answered under is read off the readout's own page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -69,7 +69,7 @@ export const readoutServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The rungs and the words for an empty reading are read from the store.",
+      statement: "The rungs and the words for an empty number are read from the store.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -110,19 +110,19 @@ export const readoutServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The route for a single readout answers no reading for a reading never taken.",
+      statement: "The route for a single readout answers no number for a number never taken.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading is answered however old that reading is.",
+      statement: "A number is answered however old that number is.",
     },
 
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A workstation that stops taking readings leaves every tile drawn rather than blank.",
+        "A workstation that stops taking numbers leaves every tile shown rather than blank.",
     },
   ],
   createdAt: "2026-09-01T07:05:37.144Z",
-  updatedAt: "2026-10-30T16:20:45.539Z",
+  updatedAt: "2026-10-30T17:34:12.829Z",
 } as const satisfies Module
