@@ -5,8 +5,8 @@ export const testedAgain = {
   type: "page-type/calendar-date-property",
   slug: "tested-again",
   propertySlug: "tested-again",
-  definition: "the day a restriction is tested again",
+  definition: "the day a movement restriction is tried again",
   types: "ts",
   createdAt: "2026-09-19T00:22:09.642Z",
-  updatedAt: "2026-09-19T00:24:21.000Z",
+  updatedAt: "2026-10-30T16:52:45.786Z",
 } as const satisfies CalendarDateProperty
