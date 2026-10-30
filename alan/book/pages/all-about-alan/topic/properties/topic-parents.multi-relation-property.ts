@@ -5,7 +5,7 @@ export const topicParents = {
   type: "page-type/multi-relation-property",
   slug: "topic-parents",
   propertySlug: "parents",
-  definition: "a topic's parent topics",
+  definition: "the parents of a topic",
   targetPageType: "page-type/all-about-alan-topic",
   decisions: [
     {
@@ -19,5 +19,5 @@ export const topicParents = {
   ],
   types: "ts",
   createdAt: "2026-09-03T03:40:37.941Z",
-  updatedAt: "2026-09-22T14:01:47.000Z",
+  updatedAt: "2026-10-30T15:03:41.787Z",
 } as const satisfies MultiRelationProperty
