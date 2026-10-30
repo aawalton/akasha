@@ -5,9 +5,10 @@ export const tcoFinancing = {
   type: "page-type/number-property",
   slug: "tco-financing",
   propertySlug: "tco-financing",
-  definition: "what borrowing to buy the car is reckoned to cost over those years, in dollars",
+  definition:
+    "an estimate of the dollars an owner spends on borrowing to buy the car over the years of ownership",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:10.502Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:21:38.984Z",
 } as const satisfies NumberProperty
