@@ -5,8 +5,8 @@ export const trainsLengthenedRange = {
   type: "page-type/boolean-property",
   slug: "trains-lengthened-range",
   propertySlug: "trains-lengthened-range",
-  definition: "whether the movement loads the muscle at its longest",
+  definition: "whether a strength exercise works a muscle at its full length",
   types: "ts",
   createdAt: "2026-09-03T04:19:22.688Z",
-  updatedAt: "2026-09-15T15:59:02.000Z",
+  updatedAt: "2026-10-30T16:52:43.211Z",
 } as const satisfies BooleanProperty
