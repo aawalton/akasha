@@ -5,9 +5,9 @@ export const locationCollectionDescription = {
   type: "page-type/file-property",
   slug: "location-collection-description",
   propertySlug: "location-collection-description",
-  definition: "what a gathering of places is and its source",
+  definition: "the text that describes a location collection",
   extensions: ["txt"],
   types: "ts",
   createdAt: "2026-09-03T04:32:05.934Z",
-  updatedAt: "2026-09-22T13:54:40.000Z",
+  updatedAt: "2026-10-30T15:07:40.080Z",
 } as const satisfies FileProperty
