@@ -4,7 +4,7 @@ export const gapTreeAssemble = {
   id: "01a0b7a0-c25d-7889-8128-bb4ddc41c72c",
   type: "page-type/module",
   slug: "gap-tree-assemble",
-  definition: "the gaps read out of the pages, each hung on the page stating that gap",
+  definition: "how code arranges every gap under the page that has the gap",
   code: "ts",
   test: "ts",
   decisions: [
@@ -65,5 +65,5 @@ export const gapTreeAssemble = {
     },
   ],
   createdAt: "2026-09-19T03:06:01.181Z",
-  updatedAt: "2026-09-26T14:06:24.000Z",
+  updatedAt: "2026-10-30T15:31:23.550Z",
 } as const satisfies Module
