@@ -4,7 +4,7 @@ export const buildSha = {
   id: "01a05c48-deeb-700e-a808-4f4784f43278",
   type: "page-type/module",
   slug: "build-sha",
-  definition: "the forty hexadecimal characters a commit is named by, read out of a string",
+  definition: "how code reads the id of a commit from text",
   code: "ts",
   decisions: [
     {
@@ -18,5 +18,5 @@ export const buildSha = {
     },
   ],
   createdAt: "2026-09-01T09:24:34.667Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-30T16:02:25.991Z",
 } as const satisfies Module
