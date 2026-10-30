@@ -4,7 +4,8 @@ export const smilingjennyCost = {
   id: "01a08bb5-efd9-7b30-b422-c38449b55e6d",
   type: "page-type/readout-widget",
   slug: "smilingjenny-cost",
-  definition: "the tile on Jenny's phone showing what the block Alan is in costs him each hour",
+  definition:
+    "the readout widget on Jenny's phone that shows the cost of each hour of Alan's current block",
   app: "ios-app/smilingjenny",
   component: "ios-component/smilingjenny-cost-widget",
   kind: "CostWidget",
@@ -16,5 +17,5 @@ export const smilingjennyCost = {
   groups: ["readout-group/cost"],
   place: 4,
   createdAt: "2026-09-10T14:25:51.577Z",
-  updatedAt: "2026-09-15T16:23:51.000Z",
+  updatedAt: "2026-10-30T16:00:49.648Z",
 } as const satisfies ReadoutWidget
