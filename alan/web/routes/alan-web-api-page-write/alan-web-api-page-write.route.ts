@@ -4,7 +4,7 @@ export const alanWebApiPageWrite = {
   id: "01a0882c-bfbe-7b18-9cbf-ce33bfbb3bce",
   type: "page-type/route",
   slug: "alan-web-api-page-write",
-  definition: "the page a reader's browser asks to have written",
+  definition: "the page a browser asks alanwalton.com to write",
   code: "ts",
   urlPath: "api/page-write",
   decisions: [
@@ -14,5 +14,5 @@ export const alanWebApiPageWrite = {
     },
   ],
   createdAt: "2026-09-09T21:57:09.182Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:56:28.557Z",
 } as const satisfies Route
