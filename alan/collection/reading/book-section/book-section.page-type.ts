@@ -4,7 +4,7 @@ export const bookSection = {
   id: "01a0658d-fe50-7001-976d-fd0d35660d1d",
   type: "page-type/page-type",
   slug: "book-section",
-  definition: "an instalment of a book",
+  definition: "a part of a book",
   pluralSlug: "sections",
   extends: ["page-type/collection"],
   parts: ["file-property/chapter-text", "relation-property/section-of"],
@@ -47,5 +47,5 @@ export const bookSection = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:36:39.632Z",
-  updatedAt: "2026-09-25T13:02:31.000Z",
+  updatedAt: "2026-10-30T15:13:27.878Z",
 } as const satisfies PageType
