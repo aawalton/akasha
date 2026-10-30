@@ -4,7 +4,7 @@ export const monarchRuleDescribe = {
   id: "01a06865-ecc3-7e80-81ec-7da942f39d07",
   type: "page-type/module",
   slug: "monarch-rule-describe",
-  definition: "a rule said back in a line, as its clauses",
+  definition: "how code describes a category rule in words",
   code: "ts",
   decisions: [
     {
@@ -34,5 +34,5 @@ export const monarchRuleDescribe = {
     },
   ],
   createdAt: "2026-09-03T17:51:45.347Z",
-  updatedAt: "2026-09-22T13:56:56.000Z",
+  updatedAt: "2026-10-30T15:45:00.304Z",
 } as const satisfies Module
