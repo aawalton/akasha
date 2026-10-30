@@ -4,7 +4,7 @@ export const connectionWithJenny = {
   id: "01a13584-9f8b-76ab-9b23-bb7c8a172972",
   type: "page-type/readout",
   slug: "connection-with-jenny",
-  definition: "the hours Alan spent with Jenny on a day",
+  definition: "the hours of a day Alan spends with Jenny",
   label: "Connection",
   unit: "points",
   scale: "readout-scale/attribute-points",
@@ -42,5 +42,5 @@ export const connectionWithJenny = {
   carriedTo: ["router-app/smilingjenny-web"],
   madeFrom: "day-row-and-stretches",
   createdAt: "2026-10-13T13:47:26.474Z",
-  updatedAt: "2026-10-20T11:10:21.943Z",
+  updatedAt: "2026-10-30T15:27:37.414Z",
 } as const satisfies Readout
