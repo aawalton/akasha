@@ -5,9 +5,9 @@ export const useLimit = {
   type: "page-type/select-property",
   slug: "use-limit",
   propertySlug: "use-limit",
-  definition: "how many times the offer may be claimed",
+  definition: "the number of times a person can use the offer",
   values: ["1", "2", "3", "no-limit"],
   types: "ts",
   createdAt: "2026-09-03T04:27:14.757Z",
-  updatedAt: "2026-09-15T16:59:44.000Z",
+  updatedAt: "2026-10-30T15:12:20.140Z",
 } as const satisfies SelectProperty
