@@ -5,7 +5,7 @@ export const tagColor = {
   type: "page-type/text-property",
   slug: "tag-color",
   propertySlug: "tag-color",
-  definition: "a tag's color in Monarch",
+  definition: "the color of a Monarch tag",
   maxLength: 7,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const tagColor = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:11:27.616Z",
-  updatedAt: "2026-09-22T14:07:54.000Z",
+  updatedAt: "2026-10-30T15:44:47.308Z",
 } as const satisfies TextProperty
