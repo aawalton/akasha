@@ -1,7 +1,7 @@
 {"beat":1,"event":"Nala goes still again and listens for the word kerith.","prose":"You go still again under the hand and listen, this time for one word only. Kerith.","at":"2026-10-28T09:25:00.000Z","changes":[]}
 {"beat":2,"event":"Her mother murmurs to her through the belly in the strange tongue, soft and slow.","prose":"Your mother starts to murmur. Her voice is so close it seems to come from inside the walls, soft and slow, in the same language as before, and she seems to be talking to you.","changes":[]}
 {"beat":3,"event":"Between murmurs her mother hums snatches of a low tune.","prose":"Between the murmurs she hums, a few notes of some low tune at a time, and then she talks again.","continues":true,"changes":[]}
-{"beat":4,"event":"The hand on the belly moves in slow circles as her mother murmurs.","changes":[]}
+{"beat":4,"event":"The hand on the belly moves in slow circles as her mother murmurs.","prose":"The small hand on the wall beside you moves as she talks, round and round in slow circles.","continues":true,"changes":[]}
 {"beat":5,"event":"Her mother says kerith, softly, then again a little later, the same two sounds as the man's.","changes":[]}
 {"beat":6,"event":"Her mother rises; the womb sways with each step as she walks a while.","at":"2026-10-28T09:40:00.000Z","changes":[{"page":"character-skill/gifted-trial2-nala-path-of-eavesdropping","note":"Eavesdropping practice: +4 steps with Talented 100 (5 → 9)","key":"experience","from":5,"to":9,"outcome":1}]}
 {"beat":7,"event":"A door opens, and many voices rise at once around her, with the clatter of bowls.","changes":[]}
