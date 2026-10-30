@@ -5,7 +5,7 @@ export const voteAverage = {
   type: "page-type/number-property",
   slug: "vote-average",
   propertySlug: "vote-average",
-  definition: "how the provider's voters scored a collection out of ten",
+  definition: "the score that people give to a collection",
   max: 10,
   decisions: [
     {
@@ -19,5 +19,5 @@ export const voteAverage = {
   ],
   types: "ts",
   createdAt: "2026-09-03T04:49:41.897Z",
-  updatedAt: "2026-09-25T12:50:49.000Z",
+  updatedAt: "2026-10-30T15:18:58.895Z",
 } as const satisfies NumberProperty
