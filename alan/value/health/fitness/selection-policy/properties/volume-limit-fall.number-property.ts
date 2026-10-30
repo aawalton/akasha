@@ -5,9 +5,9 @@ export const volumeLimitFall = {
   type: "page-type/number-property",
   slug: "volume-limit-fall",
   propertySlug: "volume-limit-fall",
-  definition: "the pounds a day's limit drops by after a week that reached it on no day",
+  definition: "the pounds a pound limit loses after a week where no day reached that limit",
   max: null,
   types: "ts",
-  updatedAt: "2026-10-08T16:02:32.012Z",
+  updatedAt: "2026-10-30T16:50:24.087Z",
   createdAt: "2026-09-21T13:40:55.658Z",
 } as const satisfies NumberProperty
