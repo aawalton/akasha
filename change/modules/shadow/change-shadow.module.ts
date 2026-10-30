@@ -4,7 +4,7 @@ export const changeShadow = {
   id: "01a07744-1311-740c-acbf-9e0092840193",
   type: "page-type/module",
   slug: "change-shadow",
-  definition: "the files and index as the answer a change gives would leave both",
+  definition: "how code reads the files and the index with the edits of a change in place",
   code: "ts",
   test: "ts",
   decisions: [
@@ -344,5 +344,5 @@ export const changeShadow = {
     },
   ],
   createdAt: "2026-09-06T15:09:05.169Z",
-  updatedAt: "2026-09-24T17:17:58.000Z",
+  updatedAt: "2026-10-30T17:21:02.402Z",
 } as const satisfies Module
