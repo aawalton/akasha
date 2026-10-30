@@ -4,7 +4,7 @@ export const attribute = {
   id: "01a06841-a0fd-7d6d-83ba-fed205a8f26a",
   type: "page-type/page-type",
   slug: "attribute",
-  definition: "a capacity Alan builds through a daily habit",
+  definition: "a capacity Alan has from what Alan does each day",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "attribute" },
     { partOfSpeech: "part-of-speech/noun", spelling: "attributes" },
@@ -72,5 +72,5 @@ export const attribute = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T17:12:06.653Z",
-  updatedAt: "2026-10-18T13:43:32.840Z",
+  updatedAt: "2026-10-30T14:49:04.107Z",
 } as const satisfies PageType
