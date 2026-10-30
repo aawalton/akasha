@@ -6,6 +6,10 @@ export const wireKey = {
   slug: "wire-key",
   propertySlug: "wire-key",
   definition: "the name a readout is sent under",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "wire key" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "wire keys" },
+  ],
   maxLength: 100,
   nameFormat: null,
   decisions: [
@@ -20,5 +24,5 @@ export const wireKey = {
   ],
   types: "ts",
   createdAt: "2026-08-30T20:05:28.040Z",
-  updatedAt: "2026-10-30T16:15:10.253Z",
+  updatedAt: "2026-10-30T16:24:41.760Z",
 } as const satisfies TextProperty
