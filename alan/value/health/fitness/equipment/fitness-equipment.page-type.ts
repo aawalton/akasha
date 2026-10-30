@@ -4,7 +4,7 @@ export const fitnessEquipment = {
   id: "01a06834-ca86-76cb-a54a-6f86a5225afc",
   type: "page-type/page-type",
   slug: "fitness-equipment",
-  definition: "a piece of kit loading a movement for Alan",
+  definition: "a piece of equipment for Alan's strength training",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "fitness equipment" }],
   extends: ["page-type/page"],
   parts: [
@@ -61,5 +61,5 @@ export const fitnessEquipment = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:58:05.318Z",
-  updatedAt: "2026-10-30T16:44:32.698Z",
+  updatedAt: "2026-10-30T16:56:44.366Z",
 } as const satisfies PageType
