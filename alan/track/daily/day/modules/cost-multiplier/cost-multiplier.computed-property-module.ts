@@ -4,7 +4,7 @@ export const costMultiplier = {
   id: "01a08b93-dab4-777c-bdd0-03ab2b96ccb2",
   type: "page-type/computed-property-module",
   slug: "cost-multiplier",
-  definition: "what an hour of a stretch costs, read off safety against difficulty",
+  definition: "the cost of an hour in a span of time from its safety and its difficulty",
   code: "ts",
   test: "ts",
   decisions: [
@@ -38,5 +38,5 @@ export const costMultiplier = {
     },
   ],
   createdAt: "2026-09-10T13:48:37.940Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T16:34:02.566Z",
 } as const satisfies ComputedPropertyModule
