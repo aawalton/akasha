@@ -157,7 +157,7 @@ export const day = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch of time and a finished to-do round are entries beside the day.",
+      statement: "A tracked session and a finished to-do round are entries beside the day.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -183,5 +183,5 @@ export const day = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T02:00:36.367Z",
-  updatedAt: "2026-10-30T16:55:29.238Z",
+  updatedAt: "2026-10-30T17:44:42.551Z",
 } as const satisfies PageType
