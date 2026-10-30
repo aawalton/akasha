@@ -4,7 +4,8 @@ export const contactsDb = {
   id: "01a05bc9-4308-7003-8ead-78b2057545e5",
   type: "page-type/module",
   slug: "contacts-db",
-  definition: "names and the numbers and addresses they answer at, read from the address book",
+  definition:
+    "how code reads the phone numbers and email addresses the address book has for each name",
   code: "ts",
   decisions: [
     {
@@ -25,5 +26,5 @@ export const contactsDb = {
     },
   ],
   createdAt: "2026-09-01T07:05:11.688Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:30:53.759Z",
 } as const satisfies Module
