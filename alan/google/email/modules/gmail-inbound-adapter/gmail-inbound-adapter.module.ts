@@ -4,7 +4,7 @@ export const gmailInboundAdapter = {
   id: "01a05c0e-3731-700e-afc0-458bb381fe6a",
   type: "page-type/module",
   slug: "gmail-inbound-adapter",
-  definition: "a Gmail message turned into the shape judging an arriving email",
+  definition: "how code gives a new Gmail message the shape code judges",
   code: "ts",
   decisions: [
     {
@@ -30,5 +30,5 @@ export const gmailInboundAdapter = {
     },
   ],
   createdAt: "2026-09-01T08:20:30.641Z",
-  updatedAt: "2026-10-25T19:22:27.284Z",
+  updatedAt: "2026-10-30T15:18:35.559Z",
 } as const satisfies Module
