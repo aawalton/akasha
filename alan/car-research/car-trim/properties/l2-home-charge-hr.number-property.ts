@@ -5,9 +5,9 @@ export const l2HomeChargeHr = {
   type: "page-type/number-property",
   slug: "l2-home-charge-hr",
   propertySlug: "l2-home-charge-hr",
-  definition: "how long a level two home charger takes to fill the battery, in hours",
+  definition: "the hours a level two charger takes to fill the battery of a car",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:41:48.253Z",
-  updatedAt: "2026-09-21T18:42:37.000Z",
+  updatedAt: "2026-10-30T15:03:23.072Z",
 } as const satisfies NumberProperty
