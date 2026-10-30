@@ -5,7 +5,8 @@ export const counterpartWithinDays = {
   type: "page-type/number-property",
   slug: "counterpart-within-days",
   propertySlug: "counterpart-within-days",
-  definition: "how far either way a rule looks for the transaction's other leg",
+  definition:
+    "the number of days a category rule searches on each side of a transaction for a second transaction",
   max: null,
   decisions: [
     {
@@ -24,5 +25,5 @@ export const counterpartWithinDays = {
   ],
   types: "ts",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:43:47.843Z",
 } as const satisfies NumberProperty
