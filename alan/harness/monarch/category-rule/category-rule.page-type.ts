@@ -5,6 +5,10 @@ export const categoryRule = {
   type: "page-type/page-type",
   slug: "category-rule",
   definition: "a written rule deciding what a transaction counts as",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "category rule" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "category rules" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "number-property/counterpart-within-days",
@@ -86,5 +90,5 @@ export const categoryRule = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T16:13:47.392Z",
-  updatedAt: "2026-10-09T19:26:51.369Z",
+  updatedAt: "2026-10-30T15:33:19.728Z",
 } as const satisfies PageType
