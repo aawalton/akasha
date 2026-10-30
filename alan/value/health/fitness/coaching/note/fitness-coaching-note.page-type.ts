@@ -4,7 +4,7 @@ export const fitnessCoachingNote = {
   id: "01a08181-f205-7092-900f-58e2075a7529",
   type: "page-type/page-type",
   slug: "fitness-coaching-note",
-  definition: "a limit, a cue or a thing noticed that guides the coach's programming",
+  definition: "a note that guides the training Alan is given",
   parts: [
     "boolean-property/fitness-coaching-note-active",
     "calendar-date-property/fitness-coaching-note-date",
@@ -45,5 +45,5 @@ export const fitnessCoachingNote = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-08T14:52:52.101Z",
-  updatedAt: "2026-09-22T13:58:57.000Z",
+  updatedAt: "2026-10-30T16:53:03.627Z",
 } as const satisfies PageType
