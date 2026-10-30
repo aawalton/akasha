@@ -5,9 +5,9 @@ export const connectionActivitySafety = {
   type: "page-type/select-property",
   slug: "connection-activity-safety",
   propertySlug: "connection-activity-safety",
-  definition: "the safety level he has to be at to get anything from it",
+  definition: "the lowest safety level where an activity gives Alan anything",
   values: ["L2", "L3", "L4", "L5", "L6"],
   types: "ts",
   createdAt: "2026-09-03T04:37:29.998Z",
-  updatedAt: "2026-09-25T13:01:00.000Z",
+  updatedAt: "2026-10-30T16:27:02.323Z",
 } as const satisfies SelectProperty
