@@ -4,7 +4,7 @@ export const trackSessionAmend = {
   id: "01a07979-7f49-7026-ba5c-99f1601920f2",
   type: "page-type/command",
   slug: "track-session-amend",
-  definition: "the command changing a stretch already written",
+  definition: "the command that changes a tracked session",
   code: "ts",
   test: "ts",
   parts: [],
@@ -12,35 +12,36 @@ export const trackSessionAmend = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An amend moves no stretch on either side of the stretch amended.",
+      statement: "An amend moves no tracked session on either side of the tracked session amended.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An `amend` replaces a stretch's relationships rather than adding to the stretch.",
+      statement:
+        "An `amend` replaces a tracked session's relationships rather than adding to them.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "`amend` reads `--at` as a time the stretch amended covers.",
+      statement: "`amend` reads `--at` as a time the tracked session amended covers.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch is addressed by the id that stretch has.",
+      statement: "A tracked session is addressed by the id that tracked session has.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch is addressed by a time that stretch covers.",
+      statement: "A tracked session is addressed by a time that tracked session covers.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch is addressed by being the open stretch.",
+      statement: "A tracked session is addressed by being the open tracked session.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stretch is addressed by being the stretch that ended last.",
+      statement: "A tracked session is addressed by being the tracked session that ended last.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No act here needs an id to address a stretch.",
+      statement: "No act here needs an id to address a tracked session.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -96,5 +97,5 @@ export const trackSessionAmend = {
     { argument: "argument/relationship", repeats: true },
   ],
   createdAt: "2026-09-07T01:26:40.713Z",
-  updatedAt: "2026-09-25T14:13:48.000Z",
+  updatedAt: "2026-10-30T17:45:58.403Z",
 } as const satisfies Command
