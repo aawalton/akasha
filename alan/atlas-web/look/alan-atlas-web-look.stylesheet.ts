@@ -4,8 +4,8 @@ export const alanAtlasWebLook = {
   id: "01a06582-6b30-70ff-9e26-fbb6ba84b810",
   type: "page-type/stylesheet",
   slug: "alan-atlas-web-look",
-  definition: "the look Atlas wears, and the trees holding its utilities",
+  definition: "the styles of the website that shows Alan's locations",
   styles: "css",
   createdAt: "2026-09-03T04:24:01.072Z",
-  updatedAt: "2026-09-22T13:42:40.000Z",
+  updatedAt: "2026-10-30T14:50:52.068Z",
 } as const satisfies Stylesheet
