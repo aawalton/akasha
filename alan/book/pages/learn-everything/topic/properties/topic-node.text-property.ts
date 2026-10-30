@@ -5,10 +5,10 @@ export const topicNode = {
   type: "page-type/text-property",
   slug: "topic-node",
   propertySlug: "node",
-  definition: "the names of a topic and of every topic above it",
+  definition: "the names of a topic and of every topic above that topic",
   maxLength: 300,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T04:55:52.026Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T16:18:26.163Z",
 } as const satisfies TextProperty
