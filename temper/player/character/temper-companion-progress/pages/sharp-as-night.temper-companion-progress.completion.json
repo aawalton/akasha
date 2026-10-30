@@ -1,33 +1,14 @@
 {
   "build": {
-    "jewelry": {
-      "1": {
-        "isEmpty": false,
-        "displayText": "Focused",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "isEmpty": false,
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "3": {
-        "isEmpty": false,
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      }
+    "mainHandWeaponType": 13,
+    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
+    "skillAbilityIds": {
+      "1": 152625,
+      "2": 186603,
+      "3": 155328,
+      "4": 154926,
+      "5": 155693,
+      "6": 186488
     },
     "weapons": {
       "1": {
@@ -49,8 +30,6 @@
         }
       }
     },
-    "companionId": 8,
-    "mainHandWeaponType": 13,
     "armor": {
       "1": {
         "isEmpty": false,
@@ -116,14 +95,35 @@
         }
       }
     },
-    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
-    "skillAbilityIds": {
-      "1": 152625,
-      "2": 186603,
-      "3": 155328,
-      "4": 154926,
-      "5": 155693,
-      "6": 186488
+    "companionId": 8,
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Focused",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": false,
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "3": {
+        "isEmpty": false,
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      }
     }
   },
   "targetBuildHash": "AjEAUAaRpGkaRpGkaQkPDxTzqfA",
