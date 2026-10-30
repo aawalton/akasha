@@ -79,7 +79,21 @@ export const turnPrompting = {
       statement:
         "A prompt has the seat read every file of its job afresh, never from an earlier job.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A one-seat story's prompt is a checklist item, held in the step's role for that item alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A checklist item's advance answers with the next item, and the item sends no seat a refusal.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A one-seat review mends each fault it can before it hands in the issues it left.",
+    },
   ],
   createdAt: "2026-09-26T17:36:45.585Z",
-  updatedAt: "2026-10-04T00:42:16.000Z",
+  updatedAt: "2026-10-30T12:46:52.070Z",
 } as const satisfies Module

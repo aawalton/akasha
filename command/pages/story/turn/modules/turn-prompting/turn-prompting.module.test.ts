@@ -31,6 +31,29 @@ test("every job prompt ends the job rather than the seat, and has the seat read 
   }
 })
 
+test("a one-seat item holds the step's role for the item, goes straight on, and sends no seat", () => {
+  const alone = { ...ASKED, master: "iris-game-master-saga", alone: true }
+  const prompts = [reviewerPrompt, mechanicsPrompt, recorderPrompt].map((one) => one(alone, STAFF))
+  for (const prompt of prompts) {
+    expect(prompt).toStartWith("For this item, you are the Continuity story")
+    expect(prompt).toContain("its answer is the checklist's next item, so take that up at once")
+    expect(prompt).not.toContain("wait for your next job")
+    expect(prompt).not.toContain("akasha seat send")
+  }
+  const graph = reviewerPrompt({ ...ASKED, master: "iris-game-master-saga" }, STAFF)
+  expect(graph).toStartWith("You are the Continuity story reviewer")
+  expect(graph).toContain("akasha seat send --to iris-game-master-saga")
+})
+
+test("a one-seat review mends what it finds first, and hands in only what it left unmended", () => {
+  const said = reviewerPrompt({ ...ASKED, alone: true }, STAFF)
+  expect(said).toContain("Mend each fault you find before you hand this review in")
+  expect(said).toContain("a shown beat with `akasha story turn correct`")
+  expect(said).toContain("Then write the issues you left unmended to a file")
+  expect(said).toContain("Where you left no issue unmended, leave out `--issues-file`.")
+  expect(reviewerPrompt(ASKED, STAFF)).not.toContain("Mend each fault")
+})
+
 test("a chapter's job prompt names the chapter as what is read afresh", () => {
   const prompt = reviewerPrompt({ ...ASKED, noun: "chapter" }, STAFF)
   expect(prompt).toContain("Read your instructions, the chapter and whatever beats")
