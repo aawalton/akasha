@@ -30,7 +30,7 @@ export const upkeepSafety = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day no session has a level on is no reading rather than a level of zero.",
+      statement: "A day no session has a level on is no number rather than a level of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,16 +46,16 @@ export const upkeepSafety = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No open session is no reading rather than a level of zero.",
+      statement: "No open session is no number rather than a level of zero.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An open session with no level is no reading rather than a level of zero.",
+      statement: "An open session with no level is no number rather than a level of zero.",
     },
 
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here caches a number or decides when a number is taken.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -65,5 +65,5 @@ export const upkeepSafety = {
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
   madeFrom: "open-block",
   createdAt: "2026-09-01T23:16:33.653Z",
-  updatedAt: "2026-10-18T13:28:15.838Z",
+  updatedAt: "2026-10-30T17:24:06.489Z",
 } as const satisfies Readout
