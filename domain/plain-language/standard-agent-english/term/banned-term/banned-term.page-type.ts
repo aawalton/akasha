@@ -5,6 +5,10 @@ export const bannedTerm = {
   type: "page-type/page-type",
   slug: "banned-term",
   definition: "a term akasha writes another term in its place",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "banned term" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "banned terms" },
+  ],
   parts: [
     "record-property/replacement-patterns",
     "relation-property/prose-frame",
@@ -43,5 +47,5 @@ export const bannedTerm = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-08T16:47:26.315Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T17:13:59.758Z",
 } as const satisfies PageType

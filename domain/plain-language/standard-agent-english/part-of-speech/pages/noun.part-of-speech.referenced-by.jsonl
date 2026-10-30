@@ -233,6 +233,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/time-conjunction.part-of-speech.ts","id":"01a15545-f559-77d9-9643-d807e61f60d0"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/verb.part-of-speech.ts","id":"01a0c677-ca51-7407-b1ca-e2a16319c088"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/prose/prose.domain.ts","id":"01a0d8c3-aba6-78fa-a148-453817106626"}
+{"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/banned-term/banned-term.page-type.ts","id":"01a081ea-d66b-7bae-bde1-753ebd310536"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/account-balance.common-language-term.ts","id":"01a18d82-3fb3-7d05-b992-14b0bb344982"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/account.common-language-term.ts","id":"01a18d55-426d-7a3b-be35-c6cacd12cf92"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/activity.common-language-term.ts","id":"01a18d89-c163-724d-bb8e-3e932692a292"}
