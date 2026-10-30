@@ -5,7 +5,7 @@ export const royalRoadPassword = {
   type: "page-type/text-property",
   slug: "royal-road-password",
   propertySlug: "password",
-  definition: "what authorises a Royal Road account's sign-in",
+  definition: "the password of a Royal Road account",
   maxLength: 200,
   nameFormat: null,
   decisions: [
@@ -16,5 +16,5 @@ export const royalRoadPassword = {
   ],
   types: "ts",
   createdAt: "2026-09-03T17:42:47.583Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:15:58.190Z",
 } as const satisfies TextProperty
