@@ -101,6 +101,7 @@
 {"propertySlug":"part-of-speech","path":"alan/harness/plant/plant.domain.ts","id":"01a06221-d65f-739e-9acb-74d67bbe92da"}
 {"propertySlug":"part-of-speech","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
 {"propertySlug":"part-of-speech","path":"alan/harness/readout/stoplight/stoplight.domain.ts","id":"01a0655b-9cdc-7c65-845c-0fcbf73b73dc"}
+{"propertySlug":"part-of-speech","path":"alan/harness/readout/widget/readout-widget.page-type.ts","id":"01a05480-1c86-7e95-b799-63b1c0152f62"}
 {"propertySlug":"part-of-speech","path":"alan/harness/recurrence/recurrence.domain.ts","id":"01a05c6f-c7c2-7806-b684-baa6549863dc"}
 {"propertySlug":"part-of-speech","path":"alan/harness/reminder-system/reminder/reminder.page-type.ts","id":"01a05f42-d941-7001-9948-d1816099c8ac"}
 {"propertySlug":"part-of-speech","path":"alan/harness/rules-engine/rules-engine.domain.ts","id":"01a0657b-9adc-7003-a1af-d02c5457d479"}
