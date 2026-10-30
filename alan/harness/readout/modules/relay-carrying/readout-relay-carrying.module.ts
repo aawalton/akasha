@@ -51,9 +51,9 @@ export const readoutRelayCarrying = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here takes a reading.",
+      statement: "Nothing here takes a number.",
     },
   ],
   createdAt: "2026-09-11T20:23:46.993Z",
-  updatedAt: "2026-10-30T16:04:06.327Z",
+  updatedAt: "2026-10-30T17:29:22.304Z",
 } as const satisfies Module
