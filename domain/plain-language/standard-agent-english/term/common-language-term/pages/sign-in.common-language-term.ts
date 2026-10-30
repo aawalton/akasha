@@ -8,7 +8,8 @@ export const signIn = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "sign in" },
     { partOfSpeech: "part-of-speech/verb", spelling: "signs in" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "signed in" },
   ],
   createdAt: "2026-09-24T22:27:50.902Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T16:34:42.452Z",
 } as const satisfies CommonLanguageTerm
