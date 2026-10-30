@@ -5,9 +5,10 @@ export const tcoTaxesFees = {
   type: "page-type/number-property",
   slug: "tco-taxes-fees",
   propertySlug: "tco-taxes-fees",
-  definition: "what tax and registration are reckoned to cost over those years, in dollars",
+  definition:
+    "an estimate of the dollars an owner spends on tax and registration over the years of ownership",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:32.240Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:18:59.455Z",
 } as const satisfies NumberProperty
