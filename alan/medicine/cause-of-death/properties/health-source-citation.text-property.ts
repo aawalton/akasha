@@ -5,10 +5,10 @@ export const healthSourceCitation = {
   type: "page-type/text-property",
   slug: "health-source-citation",
   propertySlug: "citation",
-  definition: "the published work a health figure is taken from",
+  definition: "the published work a number about health comes from",
   maxLength: 500,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-10-28T18:22:21.854Z",
-  updatedAt: "2026-10-28T18:22:21.854Z",
+  updatedAt: "2026-10-30T16:10:46.362Z",
 } as const satisfies TextProperty
