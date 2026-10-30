@@ -5,9 +5,9 @@ export const imageStartUrl = {
   type: "page-type/url-property",
   slug: "image-start-url",
   propertySlug: "image-start-url",
-  definition: "a picture of the movement at its start",
+  definition: "the URL of a picture of the first position of a strength exercise",
   maxLength: 200,
   types: "ts",
   createdAt: "2026-09-03T04:19:22.687Z",
-  updatedAt: "2026-09-15T16:36:47.000Z",
+  updatedAt: "2026-10-30T16:48:48.232Z",
 } as const satisfies UrlProperty
