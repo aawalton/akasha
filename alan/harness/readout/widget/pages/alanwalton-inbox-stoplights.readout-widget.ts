@@ -4,7 +4,8 @@ export const alanwaltonInboxStoplights = {
   id: "01a06420-b259-7991-800b-7019c1efb1c2",
   type: "page-type/readout-widget",
   slug: "alanwalton-inbox-stoplights",
-  definition: "the tile on Alan's phone showing how much waits in each of his inboxes",
+  definition:
+    "the readout widget on Alan's phone that shows how many things wait in each inbox Alan has",
   app: "ios-app/alanwalton",
   component: "ios-component/alanwalton-inbox-stoplights-widget",
   kind: "InboxStoplightsWidget",
@@ -16,5 +17,5 @@ export const alanwaltonInboxStoplights = {
   groups: ["readout-group/inboxes"],
   place: 3,
   createdAt: "2026-09-02T21:57:39.545Z",
-  updatedAt: "2026-10-18T13:46:11.572Z",
+  updatedAt: "2026-10-30T16:13:40.603Z",
 } as const satisfies ReadoutWidget
