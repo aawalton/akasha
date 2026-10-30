@@ -4,7 +4,7 @@ export const atlasSignIn = {
   id: "01a08839-e4a2-7fb1-bc8d-19574cec390b",
   type: "page-type/route",
   slug: "atlas-sign-in",
-  definition: "where a reader is sent off to alanwalton.com to be signed in",
+  definition: "how a person signs in at alanwalton.com",
   code: "ts",
   urlPath: "sign-in",
   decisions: [
@@ -18,5 +18,5 @@ export const atlasSignIn = {
     },
   ],
   createdAt: "2026-09-09T22:11:30.594Z",
-  updatedAt: "2026-09-19T20:40:08.000Z",
+  updatedAt: "2026-10-30T14:35:53.428Z",
 } as const satisfies Route
