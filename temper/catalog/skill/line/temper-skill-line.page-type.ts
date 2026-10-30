@@ -5,6 +5,10 @@ export const temperSkillLine = {
   type: "page-type/page-type",
   slug: "temper-skill-line",
   definition: "a track of skills a character raises together",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "skill line" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "skill lines" },
+  ],
   extends: ["page-type/temper-catalog-thing"],
   parts: [
     "number-property/eso-skill-line-id",
@@ -27,5 +31,5 @@ export const temperSkillLine = {
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
   createdAt: "2026-09-02T01:45:21.035Z",
-  updatedAt: "2026-09-26T18:44:36.000Z",
+  updatedAt: "2026-10-30T16:41:03.834Z",
 } as const satisfies PageType
