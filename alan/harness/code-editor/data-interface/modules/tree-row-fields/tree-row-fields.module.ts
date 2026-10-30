@@ -4,7 +4,7 @@ export const treeRowFields = {
   id: "01a0d998-39b9-77df-b659-b2eda969cf8f",
   type: "page-type/module",
   slug: "tree-row-fields",
-  definition: "the zod fields every row of every tree the editor draws carries",
+  definition: "the values every row of every tree the editor shows has",
   code: "ts",
   decisions: [
     {
@@ -49,5 +49,5 @@ export const treeRowFields = {
     },
   ],
   createdAt: "2026-09-25T17:23:47.257Z",
-  updatedAt: "2026-09-26T18:10:04.000Z",
+  updatedAt: "2026-10-30T15:40:39.931Z",
 } as const satisfies Module
