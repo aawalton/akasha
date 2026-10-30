@@ -4,7 +4,7 @@ export const supervisorFileVersion = {
   id: "01a0683e-3dbe-7021-a398-c5d697666940",
   type: "page-type/module",
   slug: "supervisor-file-version",
-  definition: "the hashes of a running supervisor's source files",
+  definition: "how code finds the version of the files a supervisor runs from",
   code: "ts",
   test: "ts",
   decisions: [
@@ -53,5 +53,5 @@ export const supervisorFileVersion = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-24T15:10:45.000Z",
+  updatedAt: "2026-10-30T14:43:28.374Z",
 } as const satisfies Module
