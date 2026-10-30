@@ -4,7 +4,7 @@ export const monarchGmailCache = {
   id: "01a0685f-4ed9-790d-8078-7ac8bc7dde66",
   type: "page-type/module",
   slug: "monarch-gmail-cache",
-  definition: "the Amazon mail this harness reads, fetched once and kept on disk",
+  definition: "how code stores on disk the Amazon messages code reads from Gmail",
   code: "ts",
   decisions: [
     {
@@ -39,5 +39,5 @@ export const monarchGmailCache = {
     },
   ],
   createdAt: "2026-09-03T17:44:31.705Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-30T15:40:16.478Z",
 } as const satisfies Module
