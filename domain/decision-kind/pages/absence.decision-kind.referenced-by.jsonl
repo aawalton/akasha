@@ -1931,6 +1931,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/ability-slotting/ability-slotting.module.ts","id":"01a17ffd-0845-78cf-9525-bda0071098c3"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.ts","id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.ts","id":"01a18d0a-be56-741d-8d62-a97f46fc55da"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/time-passing/time-passing.module.ts","id":"01a0e9e1-aa5f-7d53-b9bb-61529eb4291d"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/stat-groups/modules/stat-grouping/stat-grouping.module.ts","id":"01a18303-9351-7171-9f2f-499d97d9c63b"}

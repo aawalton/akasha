@@ -1,33 +1,22 @@
 import type { Added } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import { tiersPassed } from "akasha/story/world/mechanics/modules/ability-slotting/ability-slotting.module.code.ts"
 import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
-import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
-import { giftedPathOfBasicNumeracy } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-basic-numeracy.world-skill.ts"
-import { giftedPathOfEavesdropping } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-eavesdropping.world-skill.ts"
-import { giftedPathOfEndurance } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-endurance.world-skill.ts"
-import { giftedPathOfLinguisticsEnglish } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-linguistics-english.world-skill.ts"
-import { giftedPathOfSoulstealing } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-soulstealing.world-skill.ts"
-import { giftedPathOfTheCompletionist } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-the-completionist.world-skill.ts"
-import { giftedPathOfWillpower } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-willpower.world-skill.ts"
 import {
   BASIC_TIERS,
   basicPaid,
-  heldNamed,
+  type HeldPath,
   ONE_SPEED,
   oneSpeed,
+  PATHS_INDEXED,
+  type PathReach,
   SPEED,
   type Speed,
-  setAside,
   sped,
   unallocated,
-} from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/checks/gifted-reborn-practice.world-check.settling.code.ts"
-import { giftedRebornNalaPathOfBasicNumeracy } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-basic-numeracy.character-skill.ts"
-import { giftedRebornNalaPathOfEavesdropping } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-eavesdropping.character-skill.ts"
-import { giftedRebornNalaPathOfEndurance } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-endurance.character-skill.ts"
-import { giftedRebornNalaPathOfLinguisticsEnglish } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-linguistics-english.character-skill.ts"
-import { giftedRebornNalaPathOfSoulstealing } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-soulstealing.character-skill.ts"
-import { giftedRebornNalaPathOfTheCompletionist } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-the-completionist.character-skill.ts"
-import { giftedRebornNalaPathOfWillpower } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-willpower.character-skill.ts"
+} from "akasha/story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts"
+import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
+import { giftedPathOfSoulstealing } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-soulstealing.world-skill.ts"
+import { giftedPathOfTheCompletionist } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-the-completionist.world-skill.ts"
 import { z } from "zod"
 
 const COMPLETED = { basic: 10, elite: 40 }
@@ -37,7 +26,7 @@ const COMPLETIONIST_STATS = [3, 3]
 type Kind = "basic" | "advanced" | "elite"
 
 type Listed = {
-  readonly held: { readonly slug: string }
+  readonly held: HeldPath
   readonly title: string
   readonly tiers: readonly number[]
   readonly kind: Kind | null
@@ -46,51 +35,71 @@ type Listed = {
   readonly paid: (from: number, to: number) => readonly Added[]
 }
 
-function completionistPaid(from: number, to: number): readonly Added[] {
-  const stats = COMPLETIONIST_STATS.slice(from, to).reduce((sum, one) => sum + one, 0)
-  return stats > 0 ? [unallocated(stats)] : []
+type Stats = () => string
+
+function completionistPaid(stats: Stats, from: number, to: number): readonly Added[] {
+  const gained = COMPLETIONIST_STATS.slice(from, to).reduce((sum, one) => sum + one, 0)
+  return gained > 0 ? [unallocated(stats(), gained)] : []
 }
 
-function basic(
-  held: { readonly slug: string; readonly attribute: string },
-  path: { readonly title: string }
-): Listed {
+function basic(held: HeldPath, attribute: string, stats: Stats): Listed {
   return {
     held,
-    title: path.title,
+    title: held.title,
     tiers: BASIC_TIERS,
     kind: "basic",
     apart: "",
     completes: false,
-    paid: (from, to) => basicPaid(held.attribute, from, to),
+    paid: (from, to) => basicPaid(attribute, stats(), from, to),
   }
 }
 
-const PATHS: readonly Listed[] = [
-  basic(giftedRebornNalaPathOfBasicNumeracy, giftedPathOfBasicNumeracy),
-  basic(giftedRebornNalaPathOfEavesdropping, giftedPathOfEavesdropping),
-  basic(giftedRebornNalaPathOfEndurance, giftedPathOfEndurance),
-  basic(giftedRebornNalaPathOfLinguisticsEnglish, giftedPathOfLinguisticsEnglish),
-  basic(giftedRebornNalaPathOfWillpower, giftedPathOfWillpower),
-  {
-    held: giftedRebornNalaPathOfSoulstealing,
-    title: giftedPathOfSoulstealing.title,
-    tiers: giftedPathOfSoulstealing.tierSteps,
+function mutated(held: HeldPath): Listed {
+  return {
+    held,
+    title: held.title,
+    tiers: held.tiers,
     kind: null,
     apart: "is a mutated Path, which takes no steps from an Achievement",
     completes: false,
     paid: () => [],
-  },
-  {
-    held: giftedRebornNalaPathOfTheCompletionist,
-    title: giftedPathOfTheCompletionist.title,
-    tiers: giftedPathOfTheCompletionist.tierSteps,
+  }
+}
+
+function completionist(held: HeldPath, stats: Stats): Listed {
+  return {
+    held,
+    title: held.title,
+    tiers: held.tiers,
     kind: "advanced",
     apart: "",
     completes: true,
-    paid: completionistPaid,
-  },
+    paid: (from, to) => completionistPaid(stats, from, to),
+  }
+}
+
+type Apart = {
+  readonly title: string
+  readonly listed: (held: HeldPath, stats: Stats) => Listed
+}
+
+const APART: readonly Apart[] = [
+  { title: giftedPathOfSoulstealing.title, listed: mutated },
+  { title: giftedPathOfTheCompletionist.title, listed: completionist },
 ]
+
+function pathsOf(character: string | null, reach: PathReach): readonly Listed[] {
+  if (character === null) return []
+  const held = reach.heldBy(character)
+  const stats = () => reach.statsOf(character)
+  const basics = held.flatMap((one) =>
+    one.attribute === null ? [] : [basic(one, one.attribute, stats)]
+  )
+  const apart = APART.flatMap((rule) =>
+    held.filter((one) => one.title === rule.title).map((one) => rule.listed(one, stats))
+  )
+  return [...basics, ...apart]
+}
 
 const OFFER = z.strictObject({
   basic: z.number().int().min(1).optional(),
@@ -116,7 +125,11 @@ const ENTRY = z
 
 type Entry = z.infer<typeof ENTRY>
 
-const EARNING = z.object({ earned: z.array(ENTRY).min(1), ...SPEED }).refine(oneSpeed, ONE_SPEED)
+const EARNING = z
+  .object({ character: z.string().min(1).optional(), earned: z.array(ENTRY).min(1), ...SPEED })
+  .refine(oneSpeed, ONE_SPEED)
+
+type Earning = z.infer<typeof EARNING>
 
 const EARNED = z.object({
   path: z.string(),
@@ -136,12 +149,12 @@ type Settled =
 
 type Paid = { readonly answered: Earned } | { readonly refused: string }
 
-function addressOf(type: string, slug: string): string {
-  return `${type}/${slug}`
+function ownerOf(earning: Earning, reach: PathReach): string | null {
+  return earning.character ?? reach.ownerOf(earning.earned[0]?.path ?? "")
 }
 
-function pathOf(said: string): Listed | undefined {
-  return heldNamed(PATHS, said)
+function pathOf(paths: readonly Listed[], said: string): Listed | undefined {
+  return paths.find((one) => one.held.address === said)
 }
 
 function offered(one: Listed, offer: Offer | undefined): number | string {
@@ -171,15 +184,19 @@ function crossings(one: Listed, from: number, to: number): readonly string[] {
   return crossed
 }
 
-function paidTo(entry: Entry, speed: Speed): Paid {
-  const one = pathOf(entry.path)
-  if (one === undefined) {
-    const paths = PATHS.map((each) => `\`${addressOf(characterSkill.slug, each.held.slug)}\``)
-    return {
-      refused: `\`${entry.path}\` is no Path this check pays; say one of ${paths.join(", ")}`,
-    }
+function unpaid(said: string, paths: readonly Listed[]): Paid {
+  if (paths.length === 0) {
+    const shown = `\`${characterSkill.slug}/<slug>\``
+    return { refused: `\`${said}\` is no Path this check pays; name a Path held, as ${shown}` }
   }
-  if (setAside(one.held)) return { refused: `${one.title} is set aside, so it earns no steps` }
+  const named = paths.map((each) => `\`${each.held.address}\``)
+  return { refused: `\`${said}\` is no Path this check pays; say one of ${named.join(", ")}` }
+}
+
+function paidTo(entry: Entry, speed: Speed, paths: readonly Listed[]): Paid {
+  const one = pathOf(paths, entry.path)
+  if (one === undefined) return unpaid(entry.path, paths)
+  if (one.held.setAside) return { refused: `${one.title} is set aside, so it earns no steps` }
   const steps = stepsOf(one, entry)
   if (typeof steps === "string") return { refused: steps }
   const gained = sped(steps, speed, Math.floor)
@@ -189,27 +206,38 @@ function paidTo(entry: Entry, speed: Speed): Paid {
   return { answered: { path: entry.path, gained, experience, tier, crossed: [...crossed] } }
 }
 
-export function settled(reading: unknown, roll: Rolled | null): Settled {
+export function settled(
+  reading: unknown,
+  roll: Rolled | null,
+  reach: PathReach = PATHS_INDEXED
+): Settled {
   if (roll !== null) return { refused: "steps earned roll no dice, so name none" }
   const held = EARNING.safeParse(reading)
   if (!held.success) return { refused: `steps earned read so: ${z.prettifyError(held.error)}` }
   const named = held.data.earned.map((one) => one.path)
   const twice = named.find((one, at) => named.indexOf(one) !== at)
   if (twice !== undefined) return { refused: `\`${twice}\` is named twice; name each Path once` }
+  const paths = pathsOf(ownerOf(held.data, reach), reach)
   const earned: Earned[] = []
   for (const entry of held.data.earned) {
-    const paid = paidTo(entry, held.data)
+    const paid = paidTo(entry, held.data, paths)
     if ("refused" in paid) return paid
     earned.push(paid.answered)
   }
   return { answered: { earned } }
 }
 
-export function added(reading: unknown, answered: unknown): readonly Added[] {
+export function added(
+  reading: unknown,
+  answered: unknown,
+  reach: PathReach = PATHS_INDEXED
+): readonly Added[] {
+  const earning = EARNING.safeParse(reading)
   const said = ANSWERED.safeParse(answered)
-  if (!EARNING.safeParse(reading).success || !said.success) return []
+  if (!earning.success || !said.success) return []
+  const paths = pathsOf(ownerOf(earning.data, reach), reach)
   return said.data.earned.flatMap((one) => {
-    const path = pathOf(one.path)
+    const path = pathOf(paths, one.path)
     if (path === undefined) return []
     const from = tiersPassed(path.tiers, one.experience - one.gained)
     return [{ page: one.path, key: "experience", by: one.gained }, ...path.paid(from, one.tier)]

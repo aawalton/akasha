@@ -1,6 +1,14 @@
 import type { Added } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import { tiersPassed } from "akasha/story/world/mechanics/modules/ability-slotting/ability-slotting.module.code.ts"
 import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
+import {
+  BASIC_TIERS,
+  basicPaid,
+  ONE_SPEED,
+  oneSpeed,
+  SPEED,
+  sped,
+} from "akasha/story/world/mechanics/modules/gifted-path-stepping/gifted-path-stepping.module.code.ts"
 import { characterSkill } from "akasha/story/world/mechanics/skills/character-skill/character-skill.page-type.ts"
 import { giftedUnallocatedStats } from "akasha/story/world/pages/gifted/mechanics/metrics/resources/unallocated-stats/gifted-unallocated-stats.page-type.ts"
 import { giftedPathOfBasicNumeracy } from "akasha/story/world/pages/gifted/mechanics/skills/gifted-path-of-basic-numeracy.world-skill.ts"
@@ -16,68 +24,9 @@ import { giftedRebornNalaPathOfLinguisticsEnglish } from "akasha/story/world/pag
 import { giftedRebornNalaPathOfWillpower } from "akasha/story/world/pages/gifted/stories/played/gifted-reborn/mechanics/skills-held/gifted-reborn-nala-path-of-willpower.character-skill.ts"
 import { z } from "zod"
 
-export const BASIC_TIERS = [10, 25, 50, 100, 250, 500, 1000, 2500, 5000, 10000]
-
 const KNOWN_STEPS = 3
 
-const TIER_POINT = 1
-
-const STAT_TIER = 9
-
-const STAT_TIER_STATS = 1
-
-const LAST_TIER = 10
-
-const LAST_TIER_STATS = 2
-
-const TALENTED_SHARE = 500
-
-const GIFTED_SHARE = 250
-
-export const SPEED = {
-  talented: z.number().int().min(0).optional(),
-  gifted: z.number().int().min(0).optional(),
-}
-
-export type Speed = { readonly talented?: number | undefined; readonly gifted?: number | undefined }
-
-export const ONE_SPEED = "say `talented` or `gifted`, never both"
-
-export function oneSpeed(speed: Speed): boolean {
-  return speed.talented === undefined || speed.gifted === undefined
-}
-
-export function sped(steps: number, speed: Speed, whole: (exact: number) => number): number {
-  if (speed.talented !== undefined) {
-    return whole((steps * (TALENTED_SHARE + speed.talented)) / TALENTED_SHARE)
-  }
-  if (speed.gifted !== undefined) {
-    return whole((steps * (GIFTED_SHARE + speed.gifted)) / GIFTED_SHARE)
-  }
-  return steps
-}
-
-export function unallocated(by: number): Added {
-  return {
-    page: addressOf(giftedUnallocatedStats.slug, nalaUnallocatedStats.slug),
-    key: "value",
-    by,
-  }
-}
-
-export function basicPaid(attribute: string, from: number, to: number): readonly Added[] {
-  let points = 0
-  let stats = 0
-  for (let tier = from + 1; tier <= to; tier++) {
-    if (tier === LAST_TIER) stats += LAST_TIER_STATS
-    else if (tier === STAT_TIER) stats += STAT_TIER_STATS
-    else points += TIER_POINT
-  }
-  const paid: Added[] = []
-  if (points > 0) paid.push({ page: attribute, key: "value", by: points })
-  if (stats > 0) paid.push(unallocated(stats))
-  return paid
-}
+const STATS = `${giftedUnallocatedStats.slug}/${nalaUnallocatedStats.slug}`
 
 const PATHS = [
   { held: giftedRebornNalaPathOfBasicNumeracy, path: giftedPathOfBasicNumeracy, known: true },
@@ -119,18 +68,11 @@ function addressOf(type: string, slug: string): string {
   return `${type}/${slug}`
 }
 
-export function heldNamed<Listed extends { readonly held: { readonly slug: string } }>(
-  paths: readonly Listed[],
-  said: string
-): Listed | undefined {
-  return paths.find((one) => addressOf(characterSkill.slug, one.held.slug) === said)
-}
-
 function pathOf(said: string): (typeof PATHS)[number] | undefined {
-  return heldNamed(PATHS, said)
+  return PATHS.find((one) => addressOf(characterSkill.slug, one.held.slug) === said)
 }
 
-export function setAside(held: object): boolean {
+function setAside(held: object): boolean {
   return Reflect.get(held, "dormant") === true
 }
 
@@ -170,7 +112,7 @@ export function added(reading: unknown, answered: unknown): readonly Added[] {
   }
   return [
     steps,
-    ...basicPaid(one.held.attribute, tierOf(held.data.experience), practised.data.tier),
+    ...basicPaid(one.held.attribute, STATS, tierOf(held.data.experience), practised.data.tier),
   ]
 }
 
