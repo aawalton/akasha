@@ -4,7 +4,7 @@ export const inboxCountWatch = {
   id: "01a079de-6d8f-7a3c-b51f-9a53ca155b81",
   type: "page-type/module",
   slug: "inbox-count-watch",
-  definition: "the task counts kept current as pages land",
+  definition: "how code counts the to-dos and temper tasks when their pages change",
   code: "ts",
   test: "ts",
   decisions: [
@@ -114,5 +114,5 @@ export const inboxCountWatch = {
     },
   ],
   createdAt: "2026-09-07T03:16:55.311Z",
-  updatedAt: "2026-10-18T13:46:11.572Z",
+  updatedAt: "2026-10-30T15:35:48.570Z",
 } as const satisfies Module
