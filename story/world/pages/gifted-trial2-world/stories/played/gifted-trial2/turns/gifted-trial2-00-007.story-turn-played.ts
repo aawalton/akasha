@@ -11,5 +11,6 @@ export const giftedTrial200007 = {
   action: "I kick hard against the wall where the man's hand is pressing.",
   lore: ["place/gifted-trial2-world-womb"],
   createdAt: "2026-10-30T17:09:09.425Z",
-  updatedAt: "2026-10-30T17:10:29.972Z",
+  updatedAt: "2026-10-30T17:11:56.108Z",
+  outcomes: "jsonl",
 } as const satisfies StoryTurnPlayed
