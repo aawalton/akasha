@@ -4,7 +4,7 @@ export const answerPageWrite = {
   id: "01a0640f-8510-7ab5-87bf-f593cb1eb7a7",
   type: "page-type/module",
   slug: "answer-page-write",
-  definition: "a page write asked for over http, run and answered",
+  definition: "how a website runs a page write a browser asks for",
   code: "ts",
   decisions: [
     {
@@ -30,5 +30,5 @@ export const answerPageWrite = {
     },
   ],
   createdAt: "2026-09-02T21:38:53.840Z",
-  updatedAt: "2026-09-21T18:19:20.000Z",
+  updatedAt: "2026-10-30T16:06:14.311Z",
 } as const satisfies Module
