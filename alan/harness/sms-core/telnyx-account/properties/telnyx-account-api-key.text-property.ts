@@ -5,10 +5,10 @@ export const telnyxAccountApiKey = {
   type: "page-type/text-property",
   slug: "telnyx-account-api-key",
   propertySlug: "api-key",
-  definition: "what authorises a send",
+  definition: "the secret a request to Telnyx carries",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
   createdAt: "2026-09-03T17:47:21.933Z",
-  updatedAt: "2026-09-15T16:24:02.000Z",
+  updatedAt: "2026-10-30T16:10:01.412Z",
 } as const satisfies TextProperty
