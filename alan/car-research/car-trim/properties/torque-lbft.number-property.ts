@@ -5,9 +5,9 @@ export const torqueLbft = {
   type: "page-type/number-property",
   slug: "torque-lbft",
   propertySlug: "torque-lbft",
-  definition: "how much turning force the car makes, in pound-feet",
+  definition: "the twisting force the car makes in pound-feet",
   max: null,
   types: "ts",
   createdAt: "2026-09-21T18:43:41.050Z",
-  updatedAt: "2026-09-21T18:44:23.000Z",
+  updatedAt: "2026-10-30T15:23:20.216Z",
 } as const satisfies NumberProperty
