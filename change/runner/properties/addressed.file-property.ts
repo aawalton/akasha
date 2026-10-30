@@ -5,7 +5,7 @@ export const addressed = {
   type: "page-type/file-property",
   slug: "addressed",
   propertySlug: "addressed",
-  definition: "the type binding each change address to that change's own arguments",
+  definition: "the type that gives the arguments of each change a change runner runs",
   extensions: ["ts"],
   generated: true,
   runsFileLength: false,
@@ -65,5 +65,5 @@ export const addressed = {
   ],
   types: "ts",
   createdAt: "2026-09-06T17:34:28.910Z",
-  updatedAt: "2026-09-25T14:14:34.000Z",
+  updatedAt: "2026-10-30T17:40:58.743Z",
 } as const satisfies FileProperty
