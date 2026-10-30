@@ -4,7 +4,8 @@ export const targetNarrowing = {
   id: "01a0825b-c6ad-78e4-9391-698b96bafb0c",
   type: "page-type/module",
   slug: "target-narrowing",
-  definition: "whether one change target subtype narrows another",
+  definition:
+    "how code finds whether a change target subtype sits under another change target subtype",
   code: "ts",
   test: "ts",
   decisions: [
@@ -50,5 +51,5 @@ export const targetNarrowing = {
     },
   ],
   createdAt: "2026-09-08T18:50:47.853Z",
-  updatedAt: "2026-09-15T18:21:01.000Z",
+  updatedAt: "2026-10-30T17:45:02.601Z",
 } as const satisfies Module
