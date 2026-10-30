@@ -9,7 +9,8 @@ export const write = {
     { partOfSpeech: "part-of-speech/verb", spelling: "write" },
     { partOfSpeech: "part-of-speech/verb", spelling: "writes" },
     { partOfSpeech: "part-of-speech/past-participle", spelling: "written" },
+    { partOfSpeech: "part-of-speech/past-tense", spelling: "wrote" },
   ],
   createdAt: "2026-09-24T16:18:06.891Z",
-  updatedAt: "2026-09-25T15:41:48.000Z",
+  updatedAt: "2026-10-30T16:34:33.990Z",
 } as const satisfies CommonLanguageTerm
