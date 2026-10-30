@@ -4,7 +4,7 @@ export const dayReadoutWatchService = {
   id: "01a08c12-a327-7694-af88-2d20734ad347",
   type: "page-type/service-workstation",
   slug: "day-readout-watch-service",
-  definition: "the service taking Alan's day readings again the moment his day changes",
+  definition: "a service that takes the readings of Alan's day when his day changes",
   enabled: true,
   needsSecrets: true,
   worksWithinSeconds: 900,
@@ -52,5 +52,5 @@ export const dayReadoutWatchService = {
     },
   ],
   createdAt: "2026-09-10T16:07:06.791Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-30T16:21:12.143Z",
 } as const satisfies ServiceWorkstation
