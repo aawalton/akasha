@@ -4,7 +4,8 @@ export const orphanRefusing = {
   id: "01a0f21a-af59-74bb-a20e-641454892fc4",
   type: "page-type/module",
   slug: "orphan-refusing",
-  definition: "whether a file a change would begin sits beside a page that is not there",
+  definition:
+    "how code gives a refusal to a change that adds a file beside a page that akasha does not have",
   code: "ts",
   test: "ts",
   decisions: [
@@ -50,5 +51,5 @@ export const orphanRefusing = {
     },
   ],
   createdAt: "2026-09-30T11:37:10.233Z",
-  updatedAt: "2026-09-30T11:38:06.000Z",
+  updatedAt: "2026-10-30T17:45:25.583Z",
 } as const satisfies Module
